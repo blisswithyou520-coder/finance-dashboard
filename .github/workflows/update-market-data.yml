@@ -13,26 +13,46 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate market data
+      - name: Generate Market Data
         run: |
-          cat > market-data.json << 'EOF'
+          cat > market-data.json << EOF
           {
             "updated":"AUTO",
-            "message":"GitHub Actions 已啟用"
+            "taiwan":{
+              "2330":1080,
+              "2454":1310,
+              "2317":158,
+              "0050":202,
+              "0056":38,
+              "00878":22
+            },
+            "us":{
+              "SPY":740,
+              "QQQ":657,
+              "NVDA":145,
+              "TSLA":325
+            },
+            "gold":{
+              "usd":3430,
+              "twd":101000,
+              "tael":121000
+            },
+            "crypto":{
+              "BTC":106000,
+              "ETH":2600
+            }
           }
           EOF
 
-      - name: Commit
+      - name: Commit Changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
 
           git add market-data.json
 
-          git diff --staged --quiet || (
-            git commit -m "Auto update market data"
-            git push
-          )
+          git diff --cached --quiet || git commit -m "auto update market data"
+
+          git push
