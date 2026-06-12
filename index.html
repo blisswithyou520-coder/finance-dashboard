@@ -328,20 +328,25 @@ function showWarn(msg){
 }
 
 async function tdQuote(symbol){
-  const key = localStorage.getItem("TWELVE_DATA_API_KEY");
+  const key = localStorage.getItem("TWELVE_DATA_API_KEY")?.trim();
   if(!key) throw new Error("尚未填入 Twelve Data API Key");
+
   const url = `https://api.twelvedata.com/quote?symbol=${encodeURIComponent(symbol)}&apikey=${encodeURIComponent(key)}`;
+
   const r = await fetch(url);
   const d = await r.json();
-  if(d.status === "error" || d.code) throw new Error(d.message || "Twelve Data 讀取失敗");
+
+  if(d.status === "error" || d.code){
+    throw new Error(d.message || "Twelve Data 讀取失敗");
+  }
+
   return {
     symbol,
-    price:Number(d.close || d.price || d.previous_close),
-    change:Number(d.change),
-    percent:Number(String(d.percent_change || "0").replace("%",""))
+    price: Number(d.close || d.price || d.previous_close),
+    change: Number(d.change),
+    percent: Number(String(d.percent_change || "0").replace("%",""))
   };
 }
-
 async function renderMarket(list, id){
   $(id).innerHTML = `<div class="note">讀取中...</div>`;
   const rows = [];
