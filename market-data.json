@@ -1,26 +1,16 @@
 {
-  "updated":"AUTO",
-  "taiwan":{
-    "2330":1080,
-    "2454":1310,
-    "2317":158,
-    "0050":202,
-    "0056":38,
-    "00878":22
+  "updated": "等待第一次 Actions 更新",
+  "updated_tw": "--",
+  "taiwan": {},
+  "us": {},
+  "crypto": {},
+  "fx": {},
+  "gold": {
+    "usd": null,
+    "twd": null,
+    "tael": null,
+    "changePercent": null,
+    "usdTwd": null
   },
-  "us":{
-    "SPY":740,
-    "QQQ":657,
-    "NVDA":145,
-    "TSLA":325
-  },
-  "gold":{
-    "usd":3430,
-    "twd":101000,
-    "tael":121000
-  },
-  "crypto":{
-    "BTC":106000,
-    "ETH":2600
-  }
+  "news": []
 }
