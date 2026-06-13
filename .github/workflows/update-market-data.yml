@@ -1,1 +1,59 @@
+name: Update Market Data
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Market Data
+        run: |
+          cat > market-data.json << EOF
+          {
+            "updated":"AUTO",
+            "taiwan":{
+              "2330":1080,
+              "2454":1310,
+              "2317":158,
+              "0050":202,
+              "0056":38,
+              "00878":22
+            },
+            "us":{
+              "SPY":740,
+              "QQQ":657,
+              "NVDA":145,
+              "TSLA":325
+            },
+            "gold":{
+              "usd":3430,
+              "twd":101000,
+              "tael":121000
+            },
+            "crypto":{
+              "BTC":106000,
+              "ETH":2600
+            }
+          }
+          EOF
+
+      - name: Commit Changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+          git add market-data.json
+
+          git diff --cached --quiet || git commit -m "auto update market data"
+
+          git push
 
