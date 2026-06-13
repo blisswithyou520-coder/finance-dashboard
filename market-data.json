@@ -1,26 +1,266 @@
 {
-  "updated":"AUTO",
-  "taiwan":{
-    "2330":1080,
-    "2454":1310,
-    "2317":158,
-    "0050":202,
-    "0056":38,
-    "00878":22
+  "updated_tw": "等待 GitHub Actions 自動更新",
+  "quotes": {
+    "SPY": {
+      "name": "標普 500",
+      "symbol": "SPY",
+      "price": 0,
+      "percent": 0
+    },
+    "QQQ": {
+      "name": "那斯達克",
+      "symbol": "QQQ",
+      "price": 0,
+      "percent": 0
+    },
+    "DIA": {
+      "name": "道瓊工業",
+      "symbol": "DIA",
+      "price": 0,
+      "percent": 0
+    },
+    "NVDA": {
+      "name": "輝達",
+      "symbol": "NVDA",
+      "price": 0,
+      "percent": 0
+    },
+    "TSLA": {
+      "name": "特斯拉",
+      "symbol": "TSLA",
+      "price": 0,
+      "percent": 0
+    },
+    "AAPL": {
+      "name": "蘋果",
+      "symbol": "AAPL",
+      "price": 0,
+      "percent": 0
+    },
+    "2330.TW": {
+      "name": "台積電",
+      "symbol": "2330.TW",
+      "price": 0,
+      "percent": 0
+    },
+    "2454.TW": {
+      "name": "聯發科",
+      "symbol": "2454.TW",
+      "price": 0,
+      "percent": 0
+    },
+    "2317.TW": {
+      "name": "鴻海",
+      "symbol": "2317.TW",
+      "price": 0,
+      "percent": 0
+    },
+    "2382.TW": {
+      "name": "廣達",
+      "symbol": "2382.TW",
+      "price": 0,
+      "percent": 0
+    },
+    "3231.TW": {
+      "name": "緯創",
+      "symbol": "3231.TW",
+      "price": 0,
+      "percent": 0
+    },
+    "0050.TW": {
+      "name": "元大台灣50",
+      "symbol": "0050.TW",
+      "price": 0,
+      "percent": 0
+    },
+    "0056.TW": {
+      "name": "元大高股息",
+      "symbol": "0056.TW",
+      "price": 0,
+      "percent": 0
+    },
+    "00878.TW": {
+      "name": "國泰永續高股息",
+      "symbol": "00878.TW",
+      "price": 0,
+      "percent": 0
+    },
+    "00919.TW": {
+      "name": "群益台灣精選高息",
+      "symbol": "00919.TW",
+      "price": 0,
+      "percent": 0
+    },
+    "00929.TW": {
+      "name": "復華台灣科技優息",
+      "symbol": "00929.TW",
+      "price": 0,
+      "percent": 0
+    },
+    "GC=F": {
+      "name": "黃金",
+      "symbol": "GC=F",
+      "price": 0,
+      "percent": 0
+    },
+    "BTC-USD": {
+      "name": "比特幣",
+      "symbol": "BTC-USD",
+      "price": 0,
+      "percent": 0
+    },
+    "ETH-USD": {
+      "name": "以太幣",
+      "symbol": "ETH-USD",
+      "price": 0,
+      "percent": 0
+    },
+    "SOL-USD": {
+      "name": "SOL",
+      "symbol": "SOL-USD",
+      "price": 0,
+      "percent": 0
+    },
+    "XRP-USD": {
+      "name": "XRP",
+      "symbol": "XRP-USD",
+      "price": 0,
+      "percent": 0
+    },
+    "USDTWD=X": {
+      "name": "美元台幣",
+      "symbol": "USDTWD=X",
+      "price": 0,
+      "percent": 0
+    },
+    "JPYTWD=X": {
+      "name": "日圓台幣",
+      "symbol": "JPYTWD=X",
+      "price": 0,
+      "percent": 0
+    },
+    "CNYTWD=X": {
+      "name": "人民幣台幣",
+      "symbol": "CNYTWD=X",
+      "price": 0,
+      "percent": 0
+    },
+    "TW_FUND_1": {
+      "name": "安聯台灣科技",
+      "symbol": "台灣基金",
+      "price": null,
+      "percent": null
+    },
+    "TW_FUND_2": {
+      "name": "群益馬拉松",
+      "symbol": "台灣基金",
+      "price": null,
+      "percent": null
+    },
+    "TW_FUND_3": {
+      "name": "統一奔騰",
+      "symbol": "台灣基金",
+      "price": null,
+      "percent": null
+    },
+    "VTI": {
+      "name": "美國全市場基金",
+      "symbol": "VTI",
+      "price": 0,
+      "percent": 0
+    },
+    "VOO": {
+      "name": "標普500基金",
+      "symbol": "VOO",
+      "price": 0,
+      "percent": 0
+    }
   },
-  "us":{
-    "SPY":740,
-    "QQQ":657,
-    "NVDA":145,
-    "TSLA":325
-  },
-  "gold":{
-    "usd":3430,
-    "twd":101000,
-    "tael":121000
-  },
-  "crypto":{
-    "BTC":106000,
-    "ETH":2600
-  }
+  "rates": [
+    {
+      "name": "美金 USD/TWD",
+      "price": 0,
+      "savings": "約 0.70%～1.50%"
+    },
+    {
+      "name": "日幣 JPY/TWD",
+      "price": 0,
+      "savings": "約 0.001%～0.10%"
+    },
+    {
+      "name": "人民幣 CNY/TWD",
+      "price": 0,
+      "savings": "約 0.20%～0.80%"
+    }
+  ],
+  "recommendations": [
+    {
+      "type": "🇺🇸 美股",
+      "name": "QQQ",
+      "amount": "50,000 元內分批",
+      "entry": "回檔 3%～5%",
+      "exit": "漲 10%～15% 分批",
+      "reason": "科技股強勢"
+    },
+    {
+      "type": "🇹🇼 台股",
+      "name": "0050",
+      "amount": "30,000 元內分批",
+      "entry": "回檔靠近月線",
+      "exit": "漲 8%～12% 分批",
+      "reason": "大盤型ETF"
+    },
+    {
+      "type": "🥇 黃金",
+      "name": "黃金存摺",
+      "amount": "20,000 元內分批",
+      "entry": "每兩低於建議區",
+      "exit": "長抱/分批",
+      "reason": "避險配置"
+    }
+  ],
+  "news": [
+    {
+      "title": "資料等待 GitHub Actions 自動更新",
+      "link": "https://news.google.com/",
+      "source": "Google News"
+    }
+  ],
+  "hotTopics": [
+    {
+      "topic": "AI / 半導體",
+      "emoji": "🔥",
+      "watch": "NVDA、AMD、台積電、廣達、緯創",
+      "score": "觀察中",
+      "level": 5
+    },
+    {
+      "topic": "聯準會 / 降息",
+      "emoji": "🟡",
+      "watch": "SPY、QQQ、黃金、美元",
+      "score": "觀察中",
+      "level": 4
+    },
+    {
+      "topic": "台股 / 電子股",
+      "emoji": "🟡",
+      "watch": "台積電、鴻海、聯發科、廣達",
+      "score": "觀察中",
+      "level": 4
+    },
+    {
+      "topic": "黃金 / 避險",
+      "emoji": "🟡",
+      "watch": "黃金台幣、美元匯率",
+      "score": "觀察中",
+      "level": 3
+    },
+    {
+      "topic": "比特幣 / 加密",
+      "emoji": "🟡",
+      "watch": "BTC、ETH、SOL、XRP",
+      "score": "觀察中",
+      "level": 3
+    }
+  ]
 }
