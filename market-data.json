@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/14 04:19",
+  "updated_tw": "06/14 06:46",
   "taiwan": {
     "2330": {
       "price": 2310.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64235.05,
-      "change": 691.8508,
-      "changePercent": 1.0888
+      "price": 64480.01,
+      "change": 936.8108,
+      "changePercent": 1.4743
     },
     "ETH": {
-      "price": 1676.25,
-      "change": 11.1222,
-      "changePercent": 0.6679
+      "price": 1682.3,
+      "change": 17.1722,
+      "changePercent": 1.0313
     }
   },
   "fx": {
@@ -117,12 +117,16 @@
   },
   "news": [
     {
-      "title": "黃金連跌2週 瑞銀最新預測價讓投資人心涼了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KWjZnd19fUUw3WG5PU1J0bGhEdXlXSkIyUkEzblc1ZXRKVHotM3BHbm8xUndhdHZQZlU0dGpvZ1R6TmVpaWFwT2tYd2o3dU43R2J2N3d0eV9TT0ZCZkhz0gFkQVVfeXFMTi1oQ0xURHNocGdCa2RSb2dEd243Q1B5UjcxajE4Y1JacG1fY1lEMzJ6bXlnb0N6NGdvbDN2VmV3a3kzQXZSUFZrZnQ0d00ySUNSX0lsaW5XTDlyU3dJQXVEazdvbg?oc=5"
+      "title": "台股重返多頭聚焦三關鍵- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZU011RmVZdlBHU2gtTWMwS3EyMDY5RWJVbFM2YWlHdnNRR1VDZHpFLTdOTlRyU1lyN0xlRXY1S1hHX1M0a2dsdkxNcHdKdnMxd0pZNF82ZWFZX2UyU1E0?oc=5"
     },
     {
-      "title": "美股喜上眉梢留意高檔震盪- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lRHhfbmxGRVJ5S055ZWRGSUktcW5xU3dkQ1ZDWUZkRFhEUmQtLTdvZDNYWFZiS2dydUh3ZVNtNFZtc1lxT0JQdTJJOWd6TlZIZEhWMDByZUJNeko5UkNv?oc=5"
+      "title": "SpaceX 掛牌點火！美股低軌衛星概念股有哪些？太空連網供應鏈該怎麼看？｜美股產業｜豐雲學堂2026 年 06 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPbWJJd2ROTllBYzlVempXRkE4QlBKNHJmLWxwM3RtX1FDY0tEczNiNmxpNnNKSmNPLXdhdjA3VFZPeEVWaTlFbjJ2dXI1RjZUZno1X0RySHp6Z2hzaGN2WjdWaWZPRjhlbHRJN3lGd1JLSmZ3Q2tseHdIejhYMEpaUV9mR2haR2pjeXFBV2FIV3VhNEZWOGIyejJlSEp3NGpnMFVDR3FTbEpVbUY3a012Y1JOZHVwMG1CQ0dXUDE4d2dlVVZzLVhjckN6cy16QW9rRDJVRlJlczBVWW9kVmRJMWJ0elJKRE11Y2t0WWtwdnNCY0pYS1FYU3dkQ0JLTTkyMUNZeGhyOThoWnJYVG04VVJ0V2YtamY3VzROTklfTnBiWnBIYm8xS2gwdHV1NXRDVEl6aF8wZFJQaUY1VktkN2pkdHg5dFh4N1JaVW54S2tNTUVaM0I0ZFlmZVB2VWZFUlJLenpMdHNIVjNBZXVZTVJCTEdZQmpMek1jZklwUDdqYW9xRnhlaEVEU1NpQmkwVl9ybEwwQmk2OG5sNjMwbkdPdmNZR2swbm9RVkpjY1NTZ05vQ3ppOUVCYXZsdnA3REMxLUhEbHc5RFhmZF85LWJCQ1UzTGw3UVkzSWhaVTF5YkV4N0o4M193X193R3JHVUFiUWRaQXZKSG95ZUxr?oc=5"
+    },
+    {
+      "title": "黃金連跌2週 瑞銀最新預測價讓投資人心涼了 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KWjZnd19fUUw3WG5PU1J0bGhEdXlXSkIyUkEzblc1ZXRKVHotM3BHbm8xUndhdHZQZlU0dGpvZ1R6TmVpaWFwT2tYd2o3dU43R2J2N3d0eV9TT0ZCZkhz0gFkQVVfeXFMTi1oQ0xURHNocGdCa2RSb2dEd243Q1B5UjcxajE4Y1JacG1fY1lEMzJ6bXlnb0N6NGdvbDN2VmV3a3kzQXZSUFZrZnQ0d00ySUNSX0lsaW5XTDlyU3dJQXVEazdvbg?oc=5"
     },
     {
       "title": "台股震盪外資狂賣！「這2檔ETF」單周被外資倒貨43萬張 0050慘被提款284億元 - Yahoo股市",
@@ -133,10 +137,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvdTNyTDMtMUdGdWRJMUNwZUVjN1VIVDJvbXpZZUpDS0RyYmdEU1htSjJGVWViaE1HcjFkckV1MTcxN3BaZkI0VjRRUUxCT0VX?oc=5"
     },
     {
-      "title": "SpaceX 掛牌點火！美股低軌衛星概念股有哪些？太空連網供應鏈該怎麼看？｜美股產業｜豐雲學堂2026 年 06 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPbWJJd2ROTllBYzlVempXRkE4QlBKNHJmLWxwM3RtX1FDY0tEczNiNmxpNnNKSmNPLXdhdjA3VFZPeEVWaTlFbjJ2dXI1RjZUZno1X0RySHp6Z2hzaGN2WjdWaWZPRjhlbHRJN3lGd1JLSmZ3Q2tseHdIejhYMEpaUV9mR2haR2pjeXFBV2FIV3VhNEZWOGIyejJlSEp3NGpnMFVDR3FTbEpVbUY3a012Y1JOZHVwMG1CQ0dXUDE4d2dlVVZzLVhjckN6cy16QW9rRDJVRlJlczBVWW9kVmRJMWJ0elJKRE11Y2t0WWtwdnNCY0pYS1FYU3dkQ0JLTTkyMUNZeGhyOThoWnJYVG04VVJ0V2YtamY3VzROTklfTnBiWnBIYm8xS2gwdHV1NXRDVEl6aF8wZFJQaUY1VktkN2pkdHg5dFh4N1JaVW54S2tNTUVaM0I0ZFlmZVB2VWZFUlJLenpMdHNIVjNBZXVZTVJCTEdZQmpMek1jZklwUDdqYW9xRnhlaEVEU1NpQmkwVl9ybEwwQmk2OG5sNjMwbkdPdmNZR2swbm9RVkpjY1NTZ05vQ3ppOUVCYXZsdnA3REMxLUhEbHc5RFhmZF85LWJCQ1UzTGw3UVkzSWhaVTF5YkV4N0o4M193X193R3JHVUFiUWRaQXZKSG95ZUxr?oc=5"
-    },
-    {
       "title": "比特幣底部到了嗎？多空激辯後市走向、分析師警告或仍有「最後一跌」 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FZGRWLU1wNzRUdVJlUGpCakNrTXBNWGNieVFqRkwzNDRpT2pNQXJlY3UwYWd1S3otQ05qSWVoaWRsZFk3ZklDT29iY2NJNms?oc=5"
     },
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd29QWjZBT0xRQ2FRSC1vWmcxdHNaeElmVk9RTkQzVFg2bXN4U1hyVDNKTWstcXZwT0JTczJlUHdNcmxGLU9WdFltWThEQ0xsNDhvS0NiMXF0YXd6T1BnZlZWVEFlR2JlS29kajA4UjR2dXhnM1FzVm12YVVQSDhZNUpB?oc=5"
     },
     {
-      "title": "期元大 S&P 黃金反1 聚光 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mUkxrcXRjNzFaVXN3UERnNW5CZ1QtZFI3QTFaVzUzU0l0VEZDUkJkQUYzc3ZKVF9aQzBOUmlXVTlLQklrbjhMZHozbzdTR194bHl4VkZNd2V5UdIBX0FVX3lxTFA2V1NZT1dJYnJiNDB4NmVhX083SUlLdzh0WElqQTVydlgtZTgzaUt6RkJWRm9OZEtveFhrejlzQk1LaFg2R1RsWVRUOHFsdnR3dnY4WjhoQ0RjNVJOOXhj?oc=5"
+      "title": "【美股盤前】Adobe財報今夜登場！美股大跌近千點，CPI引發劇烈洗盤｜豐雲學堂 2026 年 06 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPQ2RrMHl2eTFNUlJnWDVVZmdHRWM1Y2hXN25JMjlrdE8tYzYyTUFEMmpPSUVLMWVMc3pxc2xWNTFyemt5bzZLci1JMUw0b1AzYnhFNlcwejBib2NLejJNUGZhWDdLMHFTd21uZTBYc3MzQkgxUWVaRTd6TENnRVpZUWpUeWtfb3lycFNkR2U5ZW56cm01NEduSWhsY3IySkVNd2dwRnJEc3pqZHpiQVRzWEZXYjVqNzFSSFlOY01HRVJxSzdLd1hjRlhqbWswX25JSXJZNEdDaWRodEFFNnhYQzJZWlVpMDFVYW1HS3E4X0RDc3hqbmY2OFhTbDc1WU9tZ1BkOGdNVE5fUkxWUlVodE9CZ3hmdncxNldTWDN5UzVpdk9veEpoMUYyLWdVRi1QaF9ENkJmdkFfbDFITVlMVlpFcUN3UVNhWkt2VVFpVVU2ZFIwTXQ5Wl9LdlNNQ3pKRDdoa2JNX0VXTHVuMXBHR0R2ZzB0SEM3eDY0S1FTOHIyUkNuclRrTHZhZTI3RkFlNWl4RHZJaXcyc0dIQnlybA?oc=5"
     }
   ]
 }
