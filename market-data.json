@@ -1,20 +1,152 @@
 {
-  "updated": "等待第一次 Actions 更新",
-  "updated_tw": "--",
-  "taiwan": {},
-  "us": {},
-  "crypto": {},
-  "fx": {},
+  "updated": "AUTO",
+  "updated_tw": "06/14 04:19",
+  "taiwan": {
+    "2330": {
+      "price": 2310.0,
+      "change": 60.0,
+      "changePercent": 2.6667
+    },
+    "2454": {
+      "price": 4180.0,
+      "change": 95.0,
+      "changePercent": 2.3256
+    },
+    "2317": {
+      "price": 260.5,
+      "change": 2.0,
+      "changePercent": 0.7737
+    },
+    "0050": {
+      "price": 101.95,
+      "change": 2.1,
+      "changePercent": 2.1032
+    },
+    "00878": {
+      "price": 32.05,
+      "change": 0.45,
+      "changePercent": 1.424
+    },
+    "00919": {
+      "price": 30.19,
+      "change": -0.0,
+      "changePercent": -0.0
+    }
+  },
+  "us": {
+    "NVDA": {
+      "price": 205.19,
+      "change": 0.32,
+      "changePercent": 0.1562
+    },
+    "AAPL": {
+      "price": 291.13,
+      "change": -4.5,
+      "changePercent": -1.5222
+    },
+    "TSLA": {
+      "price": 406.43,
+      "change": 7.28,
+      "changePercent": 1.8239
+    },
+    "QQQ": {
+      "price": 721.34,
+      "change": 4.22,
+      "changePercent": 0.5885
+    },
+    "SPY": {
+      "price": 741.75,
+      "change": 3.99,
+      "changePercent": 0.5408
+    },
+    "SCHD": {
+      "price": 32.82,
+      "change": 0.29,
+      "changePercent": 0.8915
+    },
+    "VOO": {
+      "price": 681.95,
+      "change": 3.72,
+      "changePercent": 0.5485
+    }
+  },
+  "crypto": {
+    "BTC": {
+      "price": 64235.05,
+      "change": 691.8508,
+      "changePercent": 1.0888
+    },
+    "ETH": {
+      "price": 1676.25,
+      "change": 11.1222,
+      "changePercent": 0.6679
+    }
+  },
+  "fx": {
+    "USDTWD": {
+      "price": 31.61,
+      "change": 0.031,
+      "changePercent": 0.0982
+    },
+    "JPYTWD": {
+      "price": 0.1951,
+      "change": -0.0021,
+      "changePercent": -1.0629
+    },
+    "EURTWD": {
+      "price": 36.612,
+      "change": 0.058,
+      "changePercent": 0.1587
+    },
+    "CNYTWD": {
+      "price": 4.6811,
+      "change": 0.0,
+      "changePercent": 0.0
+    }
+  },
   "gold": {
-    "usd": null,
-    "twd": null,
-    "tael": null,
-    "twdTotal": null,
-    "changePercent": null
+    "usd": 4238.8,
+    "twd": 4308.0,
+    "tael": 161544.0,
+    "twdTotal": 133988.0,
+    "changePercent": 3.6305
   },
   "fed": {
-    "rate": "待更新",
+    "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "黃金連跌2週 瑞銀最新預測價讓投資人心涼了 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KWjZnd19fUUw3WG5PU1J0bGhEdXlXSkIyUkEzblc1ZXRKVHotM3BHbm8xUndhdHZQZlU0dGpvZ1R6TmVpaWFwT2tYd2o3dU43R2J2N3d0eV9TT0ZCZkhz0gFkQVVfeXFMTi1oQ0xURHNocGdCa2RSb2dEd243Q1B5UjcxajE4Y1JacG1fY1lEMzJ6bXlnb0N6NGdvbDN2VmV3a3kzQXZSUFZrZnQ0d00ySUNSX0lsaW5XTDlyU3dJQXVEazdvbg?oc=5"
+    },
+    {
+      "title": "美股喜上眉梢留意高檔震盪- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lRHhfbmxGRVJ5S055ZWRGSUktcW5xU3dkQ1ZDWUZkRFhEUmQtLTdvZDNYWFZiS2dydUh3ZVNtNFZtc1lxT0JQdTJJOWd6TlZIZEhWMDByZUJNeko5UkNv?oc=5"
+    },
+    {
+      "title": "台股震盪外資狂賣！「這2檔ETF」單周被外資倒貨43萬張 0050慘被提款284億元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPVWhnanZieUdIQVM0aWx6NWw5Z19rVGV2a3N2WUF5bnFSZXk1alpseEJJejVSekgwbGRDT19kWFdieE56a3RiakpnZDEyVENwcExFTmljWmVrU0FPMHN5RzVPQlNldlRsYmp6LXVjYnpKWU9tQlU1TF80UjlhLWZPZVhEZTRRUFJrNU01YkZEVEpFMkFsMmpHUkt0ZlY1cFl6aVdscnY2enZuQloyU09rdmg4NWUxenM3ZGlqSFNvTmkxQUNBdGlubmloSlY3UURUU0FEbG9Ua0NWbnlKTjJYUFFJT0ZTVzljUl9Hd3dhOEpadXFLQ0Ywa1RPTHJ0eU41ZVVkT2M5QUcwa2JnOFNHelVKZE94TEVaOERWeTRUUFN4LUlxcmFNR19ZeHFKc1RnWFlzU3VvOGszM2FOSExiY1MwV1hBM1NzcEFPakRqTzRjWE9PMXJzOTVERjZVTUR4Vzg5U0VZTEJnR3JKUGZVb2xaTG9GNTFGQTFCQUtXMXpXOF9sOGthdUs1VjdPMFNhVkN6UlJyVEF0SC11?oc=5"
+    },
+    {
+      "title": "美股周線全都收紅接下來走向面臨兩大挑戰| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvdTNyTDMtMUdGdWRJMUNwZUVjN1VIVDJvbXpZZUpDS0RyYmdEU1htSjJGVWViaE1HcjFkckV1MTcxN3BaZkI0VjRRUUxCT0VX?oc=5"
+    },
+    {
+      "title": "SpaceX 掛牌點火！美股低軌衛星概念股有哪些？太空連網供應鏈該怎麼看？｜美股產業｜豐雲學堂2026 年 06 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPbWJJd2ROTllBYzlVempXRkE4QlBKNHJmLWxwM3RtX1FDY0tEczNiNmxpNnNKSmNPLXdhdjA3VFZPeEVWaTlFbjJ2dXI1RjZUZno1X0RySHp6Z2hzaGN2WjdWaWZPRjhlbHRJN3lGd1JLSmZ3Q2tseHdIejhYMEpaUV9mR2haR2pjeXFBV2FIV3VhNEZWOGIyejJlSEp3NGpnMFVDR3FTbEpVbUY3a012Y1JOZHVwMG1CQ0dXUDE4d2dlVVZzLVhjckN6cy16QW9rRDJVRlJlczBVWW9kVmRJMWJ0elJKRE11Y2t0WWtwdnNCY0pYS1FYU3dkQ0JLTTkyMUNZeGhyOThoWnJYVG04VVJ0V2YtamY3VzROTklfTnBiWnBIYm8xS2gwdHV1NXRDVEl6aF8wZFJQaUY1VktkN2pkdHg5dFh4N1JaVW54S2tNTUVaM0I0ZFlmZVB2VWZFUlJLenpMdHNIVjNBZXVZTVJCTEdZQmpMek1jZklwUDdqYW9xRnhlaEVEU1NpQmkwVl9ybEwwQmk2OG5sNjMwbkdPdmNZR2swbm9RVkpjY1NTZ05vQ3ppOUVCYXZsdnA3REMxLUhEbHc5RFhmZF85LWJCQ1UzTGw3UVkzSWhaVTF5YkV4N0o4M193X193R3JHVUFiUWRaQXZKSG95ZUxr?oc=5"
+    },
+    {
+      "title": "比特幣底部到了嗎？多空激辯後市走向、分析師警告或仍有「最後一跌」 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FZGRWLU1wNzRUdVJlUGpCakNrTXBNWGNieVFqRkwzNDRpT2pNQXJlY3UwYWd1S3otQ05qSWVoaWRsZFk3ZklDT29iY2NJNms?oc=5"
+    },
+    {
+      "title": "台股大漲千點重返四萬四，台積電收2310元-財經焦點情報站 - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd29QWjZBT0xRQ2FRSC1vWmcxdHNaeElmVk9RTkQzVFg2bXN4U1hyVDNKTWstcXZwT0JTczJlUHdNcmxGLU9WdFltWThEQ0xsNDhvS0NiMXF0YXd6T1BnZlZWVEFlR2JlS29kajA4UjR2dXhnM1FzVm12YVVQSDhZNUpB?oc=5"
+    },
+    {
+      "title": "期元大 S&P 黃金反1 聚光 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mUkxrcXRjNzFaVXN3UERnNW5CZ1QtZFI3QTFaVzUzU0l0VEZDUkJkQUYzc3ZKVF9aQzBOUmlXVTlLQklrbjhMZHozbzdTR194bHl4VkZNd2V5UdIBX0FVX3lxTFA2V1NZT1dJYnJiNDB4NmVhX083SUlLdzh0WElqQTVydlgtZTgzaUt6RkJWRm9OZEtveFhrejlzQk1LaFg2R1RsWVRUOHFsdnR3dnY4WjhoQ0RjNVJOOXhj?oc=5"
+    }
+  ]
 }
