@@ -2,7 +2,7 @@ name: Update Market Data
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,47 +13,123 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate Market Data
+      - name: Generate realtime market data
         run: |
-          cat > market-data.json << EOF
-          {
-            "updated":"AUTO",
-            "taiwan":{
-              "2330":1080,
-              "2454":1310,
-              "2317":158,
-              "0050":202,
-              "0056":38,
-              "00878":22
-            },
-            "us":{
-              "SPY":740,
-              "QQQ":657,
-              "NVDA":145,
-              "TSLA":325
-            },
-            "gold":{
-              "usd":3430,
-              "twd":101000,
-              "tael":121000
-            },
-            "crypto":{
-              "BTC":106000,
-              "ETH":2600
-            }
-          }
-          EOF
+          python - <<'PY'
+          import json
+          import time
+          import urllib.request
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
 
-      - name: Commit Changes
+          STOCKS = {
+              "taiwan": {
+                  "2330": "2330.TW",
+                  "2454": "2454.TW",
+                  "2317": "2317.TW",
+                  "0050": "0050.TW",
+                  "0056": "0056.TW",
+                  "00878": "00878.TW"
+              },
+              "us": {
+                  "SPY": "SPY",
+                  "QQQ": "QQQ",
+                  "NVDA": "NVDA",
+                  "TSLA": "TSLA",
+                  "VOO": "VOO"
+              },
+              "crypto": {
+                  "BTC": "BTC-USD",
+                  "ETH": "ETH-USD"
+              }
+          }
+
+          def get_quote(symbol):
+              url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=5d&interval=1d"
+              req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+              with urllib.request.urlopen(req, timeout=20) as r:
+                  data = json.loads(r.read().decode("utf-8"))
+
+              result = data["chart"]["result"][0]
+              meta = result.get("meta", {})
+              price = meta.get("regularMarketPrice") or meta.get("previousClose")
+              prev = meta.get("previousClose") or price
+
+              if price is None or prev is None:
+                  return {"price": None, "change": None, "changePercent": None}
+
+              change = price - prev
+              change_percent = (change / prev * 100) if prev else 0
+
+              return {
+                  "price": round(price, 4),
+                  "change": round(change, 4),
+                  "changePercent": round(change_percent, 4)
+              }
+
+          output = {
+              "updated": "AUTO",
+              "updated_tw": datetime.now(ZoneInfo("Asia/Taipei")).strftime("%m/%d %H:%M"),
+              "taiwan": {},
+              "us": {},
+              "crypto": {},
+              "gold": {}
+          }
+
+          for group, symbols in STOCKS.items():
+              for key, yahoo_symbol in symbols.items():
+                  try:
+                      output[group][key] = get_quote(yahoo_symbol)
+                      output[group][key]["symbol"] = yahoo_symbol
+                  except Exception as e:
+                      output[group][key] = {
+                          "price": None,
+                          "change": None,
+                          "changePercent": None,
+                          "error": str(e)[:120]
+                      }
+                  time.sleep(0.2)
+
+          try:
+              gold = get_quote("GC=F")
+              usd_twd = get_quote("USDTWD=X")
+              usd_twd_price = usd_twd.get("price") or 31.5
+
+              if gold.get("price"):
+                  twd_per_gram = gold["price"] * usd_twd_price / 31.1034768
+                  twd_per_tael = twd_per_gram * 37.5
+              else:
+                  twd_per_gram = None
+                  twd_per_tael = None
+
+              output["gold"] = {
+                  "usd": gold.get("price"),
+                  "twd": round(twd_per_gram, 0) if twd_per_gram else None,
+                  "tael": round(twd_per_tael, 0) if twd_per_tael else None,
+                  "change": gold.get("change"),
+                  "changePercent": gold.get("changePercent"),
+                  "usdTwd": usd_twd_price
+              }
+          except Exception as e:
+              output["gold"] = {
+                  "usd": None,
+                  "twd": None,
+                  "tael": None,
+                  "changePercent": None,
+                  "error": str(e)[:120]
+              }
+
+          with open("market-data.json", "w", encoding="utf-8") as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
+          PY
+
+      - name: Commit updated data
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-
           git add market-data.json
-
-          git diff --cached --quiet || git commit -m "auto update market data"
-
+          git commit -m "Update realtime market data" || exit 0
           git push
-
