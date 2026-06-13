@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#080705">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="回本計算">
+<meta name="format-detection" content="telephone=no">
+<title>回本賣出金額計算器</title>
+<link rel="apple-touch-icon" sizes="180x180" href="./icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="./icons/favicon-32.png">
+<link rel="manifest" href="./fee-calculator.webmanifest">
+<style>
+:root{
+  --bg:#050505;--card:#11100d;--card2:#0a0a08;--line:#342d20;
+  --gold:#f5c84b;--gold2:#b9912f;--text:#f7f3e9;--muted:#aaa18f;
+  --green:#24c968;--red:#f05252;--orange:#f59e0b;
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html{background:var(--bg)}
+body{
+  margin:0;min-height:100vh;
+  background:radial-gradient(circle at top left,#302509 0,#090908 31%,#050505 100%);
+  color:var(--text);
+  font-family:-apple-system,BlinkMacSystemFont,"Noto Sans TC","Segoe UI",sans-serif;
+}
+.app{
+  width:min(100%,520px);margin:0 auto;
+  padding:max(16px,env(safe-area-inset-top)) 12px calc(38px + env(safe-area-inset-bottom));
+}
+.header{display:flex;align-items:center;justify-content:space-between;margin:3px 2px 15px}
+.brand{display:flex;gap:11px;align-items:center}
+.brandIcon{
+  width:52px;height:52px;border-radius:15px;object-fit:cover;
+  box-shadow:0 8px 25px #000a;border:1px solid #59441d;
+}
+h1{font-size:23px;line-height:1.06;margin:0;font-weight:950}
+.sub{font-size:10px;color:var(--gold2);letter-spacing:2px;margin-top:5px}
+.auto{
+  border:1px solid var(--line);border-radius:999px;background:#12110e;
+  color:var(--muted);font-size:11px;padding:8px 10px;white-space:nowrap;
+}
+.card{
+  background:linear-gradient(180deg,var(--card),#090907);
+  border:1px solid var(--line);border-radius:21px;padding:15px;
+  margin-bottom:13px;box-shadow:0 18px 40px #0008;
+}
+.card h2{font-size:19px;margin:0 0 12px}
+.helper{
+  color:var(--muted);font-size:12px;line-height:1.6;
+  margin:-4px 0 13px;
+}
+.field{margin-bottom:12px}
+label{display:block;color:var(--muted);font-size:12px;margin:0 0 6px}
+select,input{
+  width:100%;background:#080806;color:var(--text);
+  border:1px solid var(--line);border-radius:14px;
+  padding:14px 12px;font-size:16px;outline:none;
+  appearance:none;-webkit-appearance:none;
+}
+select{background-image:linear-gradient(45deg,transparent 50%,var(--gold) 50%),linear-gradient(135deg,var(--gold) 50%,transparent 50%);background-position:calc(100% - 18px) 52%,calc(100% - 12px) 52%;background-size:6px 6px,6px 6px;background-repeat:no-repeat;padding-right:34px}
+select:focus,input:focus{border-color:var(--gold);box-shadow:0 0 0 2px #f5c84b18}
+.currencyHint{font-size:11px;color:var(--gold);font-weight:850;margin-top:6px}
+.btn{
+  width:100%;border:0;border-radius:15px;padding:14px;
+  background:linear-gradient(135deg,#f0bd37,#ffdc69);
+  color:#111;font-weight:950;font-size:16px;box-shadow:0 8px 22px #c9962729;
+}
+.btn:active{transform:scale(.99)}
+.resultBox{
+  background:#090907;border:1px solid #5a451e;border-radius:19px;
+  padding:18px 13px;text-align:center;position:relative;overflow:hidden;
+}
+.resultBox:before{
+  content:"";position:absolute;inset:-90px auto auto -70px;width:180px;height:180px;
+  background:radial-gradient(circle,#f5c84b12,transparent 67%);
+}
+.resultLabel{font-size:12px;color:var(--muted);position:relative}
+.resultAmount{
+  font-size:35px;color:var(--gold);font-weight:1000;line-height:1.13;
+  margin:9px 0;letter-spacing:-1px;position:relative;word-break:break-word;
+}
+.resultRule{font-size:17px;font-weight:950;line-height:1.45;position:relative}
+.good{color:var(--green)}
+.three{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;margin-top:12px}
+.smallBox{background:var(--card2);border:1px solid var(--line);border-radius:13px;padding:10px 5px;text-align:center}
+.smallBox span{display:block;color:var(--muted);font-size:10px;margin-bottom:5px}
+.smallBox b{font-size:12px}
+.row{display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #29241a}
+.row:last-child{border-bottom:0}
+.row span{color:var(--muted);font-size:12px;line-height:1.45}
+.row b{text-align:right;font-size:13px;line-height:1.45}
+.explain{font-size:12px;line-height:1.7;color:var(--muted);margin-top:11px}
+.status{display:flex;gap:9px;align-items:flex-start}
+.statusDot{width:10px;height:10px;border-radius:50%;background:var(--green);margin-top:4px;flex:0 0 auto}
+.statusDot.warn{background:var(--orange)}
+.statusTitle{font-size:14px;font-weight:950}
+.statusText{font-size:11px;color:var(--muted);line-height:1.55;margin-top:3px}
+.ruleList{margin-top:11px;padding-top:10px;border-top:1px solid #29241a}
+.ruleItem{display:flex;justify-content:space-between;gap:8px;padding:6px 0;font-size:11px}
+.ruleItem span{color:var(--muted)}.ruleItem b{text-align:right}
+.footerNote{font-size:11px;line-height:1.7;color:var(--muted);padding:2px 4px}
+.copyBtn{
+  margin-top:11px;width:100%;background:#1a1812;color:var(--text);
+  border:1px solid var(--line);border-radius:13px;padding:11px;font-weight:850;
+}
+.toast{
+  position:fixed;left:50%;bottom:calc(22px + env(safe-area-inset-bottom));
+  transform:translate(-50%,20px);opacity:0;pointer-events:none;
+  background:#232116;color:var(--text);border:1px solid #5c4922;
+  border-radius:999px;padding:10px 16px;font-size:12px;transition:.2s;
+}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+@media(max-width:360px){
+  .three{grid-template-columns:1fr}
+  .resultAmount{font-size:30px}
+  .auto{display:none}
+}
+</style>
+</head>
+<body>
+<main class="app">
+  <header class="header">
+    <div class="brand">
+      <img class="brandIcon" src="./icons/app-icon.png" alt="回本計算器圖示">
+      <div>
+        <h1>回本賣出金額<br>計算器</h1>
+        <div class="sub">ONE INPUT · AUTO FEE</div>
+      </div>
+    </div>
+    <div class="auto">怡潔專用</div>
+  </header>
+
+  <section class="card">
+    <h2>只輸入實際買進總額</h2>
+    <p class="helper">請輸入銀行、券商或平台實際扣掉的總額，不是股票單價。</p>
+
+    <div class="field">
+      <label for="product">你買的是什麼？</label>
+      <select id="product">
+        <option value="tw_stock">🇹🇼 國泰台股個股</option>
+        <option value="tw_etf">📈 國泰台股 ETF</option>
+        <option value="tw_daytrade">⚡ 國泰台股現股當沖</option>
+        <option value="us_stock">🇺🇸 國泰美股個股</option>
+        <option value="us_etf">🇺🇸 國泰美股 ETF</option>
+        <option value="fund">💎 國泰世華基金</option>
+        <option value="binance_spot">₿ 幣安一般現貨</option>
+        <option value="binance_bnb">₿ 幣安現貨（BNB 折扣）</option>
+        <option value="gold">🥇 實體黃金</option>
+        <option value="fx_cathay">💱 國泰世華外匯</option>
+        <option value="fx_taishin">💱 台新外匯</option>
+      </select>
+    </div>
+
+    <div class="field">
+      <label id="amountLabel" for="amount">實際扣款／買進總額</label>
+      <input id="amount" type="number" inputmode="decimal" min="0" step="1" value="100000">
+      <div class="currencyHint" id="currencyHint">單位：新台幣</div>
+    </div>
+
+    <button class="btn" id="calculate" type="button">算最低要賣多少</button>
+  </section>
+
+  <section class="card">
+    <div class="resultBox">
+      <div class="resultLabel" id="resultLabel">最低賣出成交總額</div>
+      <div class="resultAmount" id="resultAmount">NT$ 100,421</div>
+      <div class="resultRule"><span class="good">超過這個金額＝開始賺錢</span></div>
+    </div>
+
+    <div class="three">
+      <div class="smallBox"><span>高於門檻</span><b class="good">賺錢</b></div>
+      <div class="smallBox"><span>等於門檻</span><b>剛好回本</b></div>
+      <div class="smallBox"><span>低於門檻</span><b style="color:var(--red)">虧損</b></div>
+    </div>
+
+    <div style="margin-top:12px">
+      <div class="row"><span>你輸入的實際買進總額</span><b id="inputSummary">NT$ 100,000</b></div>
+      <div class="row"><span id="costTitle">預估賣出手續費＋稅</span><b id="costAmount">NT$ 421</b></div>
+      <div class="row"><span>要跟哪個數字比較？</span><b id="comparisonType">看賣出成交總額</b></div>
+    </div>
+
+    <div class="explain" id="explain"></div>
+    <button class="copyBtn" id="copyResult" type="button">複製回本金額</button>
+  </section>
+
+  <section class="card">
+    <h2>手續費自動核對</h2>
+    <div class="status">
+      <div class="statusDot" id="statusDot"></div>
+      <div>
+        <div class="statusTitle" id="statusTitle">官方費率已核對</div>
+        <div class="statusText" id="statusMessage">載入中</div>
+      </div>
+    </div>
+    <div class="ruleList" id="ruleList"></div>
+  </section>
+
+  <div class="footerNote">
+    台股與美股看「賣出成交總額」；基金看 CUBE 顯示的「預估實際入帳」；實體黃金看銀樓「實際回收總額」；外匯看最後換回並入帳的新台幣；幣安看賣單成交總額。結果為估算，最終仍以交易畫面為準。
+  </div>
+</main>
+
+<div class="toast" id="toast">已複製</div>
+
+<script>
+const FALLBACK={
+  version:1,last_checked:"2026-06-14",status:"verified",
+  status_message:"使用已核對的官方公開費率",
+  rules:{
+    tw_stock:{sell_fee_rate:.000399,min_sell_fee:20,sell_tax_rate:.003},
+    tw_etf:{sell_fee_rate:.000399,min_sell_fee:20,sell_tax_rate:.001},
+    tw_daytrade:{sell_fee_rate:.000399,min_sell_fee:20,sell_tax_rate:.0015},
+    us_stock:{sell_fee_rate:.0008,sell_sec_rate:.0000206,fixed_sell_fee:0,offer_end:"2026-12-31"},
+    us_etf:{sell_fee_rate:0,sell_sec_rate:.0000206,fixed_sell_fee:3,offer_end:"2026-12-31"},
+    binance_spot:{sell_fee_rate:.001},
+    binance_bnb:{sell_fee_rate:.00075}
+  }
+};
+let CONFIG=FALLBACK;
+let CURRENT_RESULT="";
+const $=id=>document.getElementById(id);
+
+const products={
+  tw_stock:{
+    currency:"TWD",label:"最低賣出成交總額",compare:"看國泰證券的賣出成交總額",
+    cost:"預估賣出手續費＋證交稅",
+    explain:"已自動加入國泰證券網路下單賣出手續費與台股個股證券交易稅。"
+  },
+  tw_etf:{
+    currency:"TWD",label:"最低賣出成交總額",compare:"看國泰證券的賣出成交總額",
+    cost:"預估賣出手續費＋ETF 證交稅",
+    explain:"已自動加入國泰證券網路下單賣出手續費與台股 ETF 證券交易稅。"
+  },
+  tw_daytrade:{
+    currency:"TWD",label:"最低當沖賣出成交總額",compare:"看當日賣出成交總額",
+    cost:"預估賣出手續費＋當沖稅",
+    explain:"以現股當沖稅率估算，只適用同日同帳戶、同種類同數量的合格當沖交易。"
+  },
+  us_stock:{
+    currency:"USD",label:"最低賣出成交總額",compare:"看國泰美股的美元成交總額",
+    cost:"預估賣出佣金＋交易徵費",
+    explain:"請輸入實際投入的美元總額；已加入國泰美股個股賣出佣金及交易徵費。"
+  },
+  us_etf:{
+    currency:"USD",label:"最低賣出成交總額",compare:"看國泰美股的美元成交總額",
+    cost:"預估固定手續費＋交易徵費",
+    explain:"請輸入實際投入的美元總額；已加入國泰美股 ETF 賣出固定手續費及交易徵費。"
+  },
+  fund:{
+    currency:"TWD",label:"最低實際贖回入帳金額",compare:"看 CUBE 的預估實際入帳",
+    cost:"額外需要收回的金額",
+    explain:"你會不定期更換基金，因此不綁基金名稱。CUBE 顯示的預估實際入帳超過銀行實際扣款總額，就開始賺錢。"
+  },
+  binance_spot:{
+    currency:"USDT",label:"最低賣單成交總額",compare:"看幣安賣單成交總額",
+    cost:"預估賣出交易費",
+    explain:"以幣安一般現貨費率估算，不含提幣網路費、刷卡費或 P2P 匯差。"
+  },
+  binance_bnb:{
+    currency:"USDT",label:"最低賣單成交總額",compare:"看幣安賣單成交總額",
+    cost:"預估 BNB 折扣交易費",
+    explain:"以使用 BNB 支付現貨手續費的折扣費率估算，不含提幣網路費或 P2P 匯差。"
+  },
+  gold:{
+    currency:"TWD",label:"最低實際回收總額",compare:"看銀樓最後願意付的回收總額",
+    cost:"額外需要收回的金額",
+    explain:"實體黃金沒有全台統一手續費。店家最後實際付給你的回收總額超過買進總額，就是賺錢。"
+  },
+  fx_cathay:{
+    currency:"TWD",label:"最低換回實際入帳金額",compare:"看國泰換回台幣後的實際入帳",
+    cost:"額外需要換回的金額",
+    explain:"外匯成本通常反映在買賣匯率差。最後換回並實際入帳的新台幣超過原投入總額，就是賺錢。"
+  },
+  fx_taishin:{
+    currency:"TWD",label:"最低換回實際入帳金額",compare:"看台新換回台幣後的實際入帳",
+    cost:"額外需要換回的金額",
+    explain:"外匯成本通常反映在買賣匯率差。最後換回並實際入帳的新台幣超過原投入總額，就是賺錢。"
+  }
+};
+
+function formatMoney(n,currency){
+  const value=Number(n)||0;
+  if(currency==="USD"){
+    return "US$ "+value.toLocaleString("zh-TW",{minimumFractionDigits:2,maximumFractionDigits:2});
+  }
+  if(currency==="USDT"){
+    return "USDT "+value.toLocaleString("zh-TW",{minimumFractionDigits:2,maximumFractionDigits:2});
+  }
+  return "NT$ "+Math.ceil(value).toLocaleString("zh-TW");
+}
+
+function solveTaiwan(amount,rule){
+  let lo=amount,hi=Math.max(amount*1.15,amount+200);
+  const net=gross=>{
+    const fee=Math.max(gross*(rule.sell_fee_rate||0),rule.min_sell_fee||0);
+    const tax=gross*(rule.sell_tax_rate||0);
+    return gross-fee-tax;
+  };
+  while(net(hi)<amount) hi*=1.2;
+  for(let i=0;i<100;i++){
+    const mid=(lo+hi)/2;
+    if(net(mid)>=amount) hi=mid; else lo=mid;
+  }
+  return hi;
+}
+
+function calculate(){
+  const key=$("product").value;
+  const meta=products[key];
+  const amount=Math.max(0,Number($("amount").value)||0);
+  let threshold=amount;
+
+  if(["tw_stock","tw_etf","tw_daytrade"].includes(key)){
+    threshold=solveTaiwan(amount,CONFIG.rules[key]||FALLBACK.rules[key]);
+  }else if(key==="us_stock"||key==="us_etf"){
+    const r=CONFIG.rules[key]||FALLBACK.rules[key];
+    threshold=(amount+(r.fixed_sell_fee||0))/(1-(r.sell_fee_rate||0)-(r.sell_sec_rate||0));
+  }else if(key==="binance_spot"||key==="binance_bnb"){
+    const r=CONFIG.rules[key]||FALLBACK.rules[key];
+    threshold=amount/(1-(r.sell_fee_rate||0));
+  }
+
+  const shown=meta.currency==="TWD"?Math.ceil(threshold):Math.ceil(threshold*100)/100;
+  const extra=Math.max(0,shown-amount);
+
+  $("resultLabel").textContent=meta.label;
+  $("resultAmount").textContent=formatMoney(shown,meta.currency);
+  $("inputSummary").textContent=formatMoney(amount,meta.currency);
+  $("costTitle").textContent=meta.cost;
+  $("costAmount").textContent=formatMoney(extra,meta.currency);
+  $("comparisonType").textContent=meta.compare;
+  $("explain").textContent=meta.explain;
+  $("currencyHint").textContent="單位："+(meta.currency==="TWD"?"新台幣":meta.currency==="USD"?"美元":"USDT");
+  $("amountLabel").textContent=key==="fund"?"銀行實際扣款總額":"實際扣款／買進總額";
+
+  CURRENT_RESULT=`${meta.label}：${formatMoney(shown,meta.currency)}。超過這個金額就開始賺錢。`;
+  localStorage.setItem("breakEvenProduct",key);
+  localStorage.setItem("breakEvenAmount",String(amount));
+}
+
+function renderStatus(){
+  const ok=CONFIG.status==="verified";
+  $("statusDot").classList.toggle("warn",!ok);
+  $("statusTitle").textContent=ok?"官方費率已核對":"部分費率需要確認";
+  $("statusMessage").textContent=`最後檢查：${CONFIG.last_checked||"未知"}｜${CONFIG.status_message||""}`;
+  const r=CONFIG.rules||{};
+  const rows=[
+    ["國泰台股網路單",r.tw_stock?`${(r.tw_stock.sell_fee_rate*1000).toFixed(3)}‰`:"—"],
+    ["國泰美股個股",r.us_stock?`${(r.us_stock.sell_fee_rate*100).toFixed(3)}%`:"—"],
+    ["國泰美股 ETF",r.us_etf?`每筆 US$ ${r.us_etf.fixed_sell_fee}`:"—"],
+    ["幣安一般現貨",r.binance_spot?`${(r.binance_spot.sell_fee_rate*100).toFixed(3)}%`:"—"],
+    ["幣安 BNB 折扣",r.binance_bnb?`${(r.binance_bnb.sell_fee_rate*100).toFixed(3)}%`:"—"]
+  ];
+  $("ruleList").innerHTML=rows.map(([a,b])=>`<div class="ruleItem"><span>${a}</span><b>${b}</b></div>`).join("");
+}
+
+async function loadConfig(){
+  try{
+    const res=await fetch("./fee-rules.json?ts="+Date.now(),{cache:"no-store"});
+    if(res.ok) CONFIG=await res.json();
+  }catch(e){
+    CONFIG=FALLBACK;
+  }
+  renderStatus();
+  calculate();
+}
+
+function showToast(text){
+  $("toast").textContent=text;
+  $("toast").classList.add("show");
+  setTimeout(()=>$("toast").classList.remove("show"),1500);
+}
+
+$("calculate").addEventListener("click",calculate);
+$("product").addEventListener("change",calculate);
+$("amount").addEventListener("input",calculate);
+$("copyResult").addEventListener("click",async()=>{
+  try{
+    await navigator.clipboard.writeText(CURRENT_RESULT);
+    showToast("回本金額已複製");
+  }catch(e){
+    showToast("無法自動複製");
+  }
+});
+
+const savedProduct=localStorage.getItem("breakEvenProduct");
+const savedAmount=localStorage.getItem("breakEvenAmount");
+if(savedProduct && products[savedProduct]) $("product").value=savedProduct;
+if(savedAmount) $("amount").value=savedAmount;
+
+loadConfig();
+</script>
+</body>
+</html>

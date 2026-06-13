@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "last_checked": "2026-06-14",
+  "status": "verified",
+  "status_message": "已依官方公開費率設定；每日自動檢查",
+  "rules": {
+    "tw_stock": {
+      "sell_fee_rate": 0.000399,
+      "min_sell_fee": 20,
+      "sell_tax_rate": 0.003,
+      "label": "國泰台股個股",
+      "source": "國泰證券台股收費標準＋財政部證券交易稅"
+    },
+    "tw_etf": {
+      "sell_fee_rate": 0.000399,
+      "min_sell_fee": 20,
+      "sell_tax_rate": 0.001,
+      "label": "國泰台股 ETF",
+      "source": "國泰證券台股收費標準＋ETF證券交易稅"
+    },
+    "tw_daytrade": {
+      "sell_fee_rate": 0.000399,
+      "min_sell_fee": 20,
+      "sell_tax_rate": 0.0015,
+      "label": "國泰現股當沖",
+      "offer_end": "2027-12-31",
+      "source": "國泰證券台股收費標準＋財政部現股當沖稅率"
+    },
+    "us_stock": {
+      "sell_fee_rate": 0.0008,
+      "sell_sec_rate": 2.06e-05,
+      "fixed_sell_fee": 0,
+      "label": "國泰美股個股",
+      "offer_end": "2026-12-31",
+      "source": "國泰證券美股收費標準"
+    },
+    "us_etf": {
+      "sell_fee_rate": 0,
+      "sell_sec_rate": 2.06e-05,
+      "fixed_sell_fee": 3,
+      "label": "國泰美股 ETF",
+      "offer_end": "2026-12-31",
+      "source": "國泰證券美股收費標準"
+    },
+    "binance_spot": {
+      "sell_fee_rate": 0.001,
+      "label": "幣安一般現貨",
+      "source": "Binance Spot Trading Fee"
+    },
+    "binance_bnb": {
+      "sell_fee_rate": 0.00075,
+      "label": "幣安 BNB 折扣",
+      "source": "Binance Spot Trading Fee with BNB"
+    }
+  }
+}
