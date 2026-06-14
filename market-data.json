@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/14 06:46",
+  "updated_tw": "06/14 18:39",
   "taiwan": {
     "2330": {
       "price": 2310.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64480.01,
-      "change": 936.8108,
-      "changePercent": 1.4743
+      "price": 64597.42,
+      "change": 176.0958,
+      "changePercent": 0.2734
     },
     "ETH": {
-      "price": 1682.3,
-      "change": 17.1722,
-      "changePercent": 1.0313
+      "price": 1675.98,
+      "change": -4.2346,
+      "changePercent": -0.252
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股重返多頭聚焦三關鍵- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZU011RmVZdlBHU2gtTWMwS3EyMDY5RWJVbFM2YWlHdnNRR1VDZHpFLTdOTlRyU1lyN0xlRXY1S1hHX1M0a2dsdkxNcHdKdnMxd0pZNF82ZWFZX2UyU1E0?oc=5"
-    },
-    {
       "title": "SpaceX 掛牌點火！美股低軌衛星概念股有哪些？太空連網供應鏈該怎麼看？｜美股產業｜豐雲學堂2026 年 06 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPbWJJd2ROTllBYzlVempXRkE4QlBKNHJmLWxwM3RtX1FDY0tEczNiNmxpNnNKSmNPLXdhdjA3VFZPeEVWaTlFbjJ2dXI1RjZUZno1X0RySHp6Z2hzaGN2WjdWaWZPRjhlbHRJN3lGd1JLSmZ3Q2tseHdIejhYMEpaUV9mR2haR2pjeXFBV2FIV3VhNEZWOGIyejJlSEp3NGpnMFVDR3FTbEpVbUY3a012Y1JOZHVwMG1CQ0dXUDE4d2dlVVZzLVhjckN6cy16QW9rRDJVRlJlczBVWW9kVmRJMWJ0elJKRE11Y2t0WWtwdnNCY0pYS1FYU3dkQ0JLTTkyMUNZeGhyOThoWnJYVG04VVJ0V2YtamY3VzROTklfTnBiWnBIYm8xS2gwdHV1NXRDVEl6aF8wZFJQaUY1VktkN2pkdHg5dFh4N1JaVW54S2tNTUVaM0I0ZFlmZVB2VWZFUlJLenpMdHNIVjNBZXVZTVJCTEdZQmpMek1jZklwUDdqYW9xRnhlaEVEU1NpQmkwVl9ybEwwQmk2OG5sNjMwbkdPdmNZR2swbm9RVkpjY1NTZ05vQ3ppOUVCYXZsdnA3REMxLUhEbHc5RFhmZF85LWJCQ1UzTGw3UVkzSWhaVTF5YkV4N0o4M193X193R3JHVUFiUWRaQXZKSG95ZUxr?oc=5"
     },
     {
-      "title": "黃金連跌2週 瑞銀最新預測價讓投資人心涼了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KWjZnd19fUUw3WG5PU1J0bGhEdXlXSkIyUkEzblc1ZXRKVHotM3BHbm8xUndhdHZQZlU0dGpvZ1R6TmVpaWFwT2tYd2o3dU43R2J2N3d0eV9TT0ZCZkhz0gFkQVVfeXFMTi1oQ0xURHNocGdCa2RSb2dEd243Q1B5UjcxajE4Y1JacG1fY1lEMzJ6bXlnb0N6NGdvbDN2VmV3a3kzQXZSUFZrZnQ0d00ySUNSX0lsaW5XTDlyU3dJQXVEazdvbg?oc=5"
+      "title": "黃金價格大跌逾兩成 專家分析升息與美元走強衝擊避險吸引力 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNc1dFMzR4LV9JZXhFc3FSNlRPb01vM2RUbEdjMWZjWnhkMHN4MHhXSDhmN2l5dFRUQVAxU09uUVNrcWhBdlFjb3hIdU0zYzZ4SHRjaF9QOWR2WDFtRUc2ZGhjVlBBRFlMcW1aQVNhOGxVMk9ZUlhydHZoMk51Q1ZXRlFERjAyM3lOTno5RkdzWTM2dTRKa0VETkh1Q2ZvcXhrQWgwRGNnSjkyelJ0YzZscjNTS2FuNXFuZmVCbmZqX3dYVjk2djJRMmtTUnhoeE1Md0hsT0ZhSmhWYjVfLUh5MFdMc3lRRERUV3BsdFp5aWtxakVQTUgxZTFMczFDWVFRMUxqcXpUaTlTaWxhNlM0ZXJUaDRNX1FLYlE5T1J4N0pwTXhmZmE4akkyZVJyRS14UW91T1ZtRjFFS1FmMVZtbVpBMlh1OTZTNVA5Ynh0T191UXhwWVYxb3VuWEdFUUI0LUZiMndlWHk2cFNScmhPNU5pZ1dGN2hwQWQ5NHo3Mkl1Q21nWlZUWlpOWWtxSFE5dWwzV3daRzJLTm03N0hnVw?oc=5"
     },
     {
-      "title": "台股震盪外資狂賣！「這2檔ETF」單周被外資倒貨43萬張 0050慘被提款284億元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPVWhnanZieUdIQVM0aWx6NWw5Z19rVGV2a3N2WUF5bnFSZXk1alpseEJJejVSekgwbGRDT19kWFdieE56a3RiakpnZDEyVENwcExFTmljWmVrU0FPMHN5RzVPQlNldlRsYmp6LXVjYnpKWU9tQlU1TF80UjlhLWZPZVhEZTRRUFJrNU01YkZEVEpFMkFsMmpHUkt0ZlY1cFl6aVdscnY2enZuQloyU09rdmg4NWUxenM3ZGlqSFNvTmkxQUNBdGlubmloSlY3UURUU0FEbG9Ua0NWbnlKTjJYUFFJT0ZTVzljUl9Hd3dhOEpadXFLQ0Ywa1RPTHJ0eU41ZVVkT2M5QUcwa2JnOFNHelVKZE94TEVaOERWeTRUUFN4LUlxcmFNR19ZeHFKc1RnWFlzU3VvOGszM2FOSExiY1MwV1hBM1NzcEFPakRqTzRjWE9PMXJzOTVERjZVTUR4Vzg5U0VZTEJnR3JKUGZVb2xaTG9GNTFGQTFCQUtXMXpXOF9sOGthdUs1VjdPMFNhVkN6UlJyVEF0SC11?oc=5"
+      "title": "美股周線全都收紅 接下來走向面臨兩大挑戰 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzaVQ5dXg5V1VwLUpoUDNCalN3RkRJMEJjQld3R19YYlpTb0x4X2VLZzNfLVg0Rm9wcV8yZXkySE1yQWd2VE9FU3J1VGtHaHdjWTB1NTlLai1RMlBr0gFiQVVfeXFMTnVEaEVlb1RHMVZKTzdIVjVSbmJMV3k4eEVZWDhNQ1hvVUNPODRaeTZYYkRJcS1OaENTSzdzcEExS0FReFhSMGdtaWM0cmFQZnRZVHZaNklWWjRTR3U2S2lIQVE?oc=5"
     },
     {
-      "title": "美股周線全都收紅接下來走向面臨兩大挑戰| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvdTNyTDMtMUdGdWRJMUNwZUVjN1VIVDJvbXpZZUpDS0RyYmdEU1htSjJGVWViaE1HcjFkckV1MTcxN3BaZkI0VjRRUUxCT0VX?oc=5"
+      "title": "【全球】行情回顧與本週重點 | 財經Ｍ平方短評 - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MaXlkTm9aWVAxeTJYN0xZZzBSbTIzdmNHSkJUNDhVSDZuVnZtVmcxdC1LTWh4S1NsNHZUX09LT1VIRGl2UWYtVFV5bGp0TkRrS1J3UHFB?oc=5"
     },
     {
-      "title": "比特幣底部到了嗎？多空激辯後市走向、分析師警告或仍有「最後一跌」 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FZGRWLU1wNzRUdVJlUGpCakNrTXBNWGNieVFqRkwzNDRpT2pNQXJlY3UwYWd1S3otQ05qSWVoaWRsZFk3ZklDT29iY2NJNms?oc=5"
+      "title": "台股站回四萬四關卡 法人呼籲盤勢震盪大、保留資金彈性 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BcnVUQmN5Sm1JaE83VDFhVFRYcEJxM25yX25pLU8yRVJBUHEzcE1KdnZKazVFckFyQ3g1WVI3X3JEQ0kzSXBuTUJfREI3WFRwX1B5aC1lNzN5clp2eFE40gFkQVVfeXFMTXYtQWRlTWxJYVNKVktWbmxhejhqczEzNkd0RmJQLUhXTkM0M3FFbWExaTQzakJiSVFPZ2ZQX2UzeXVXajVjLWFUdEktajB3Z0RCX3RvRlJOVjhNUDBOSU9WVG5WcA?oc=5"
     },
     {
-      "title": "台股大漲千點重返四萬四，台積電收2310元-財經焦點情報站 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd29QWjZBT0xRQ2FRSC1vWmcxdHNaeElmVk9RTkQzVFg2bXN4U1hyVDNKTWstcXZwT0JTczJlUHdNcmxGLU9WdFltWThEQ0xsNDhvS0NiMXF0YXd6T1BnZlZWVEFlR2JlS29kajA4UjR2dXhnM1FzVm12YVVQSDhZNUpB?oc=5"
+      "title": "〈台股風向球〉大洗盤後測出支撐 短線風險消化大半 4萬4紮硬寨固守 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wZG9kb2NZUnRZOWVZZDBmUi1RY3hnUDcybm5VUmgtWEJKb2hJbWFMWGktZW1QRkdwX3p1MWVwSG1Idmp0bUJLbmV2T1I5VUE?oc=5"
     },
     {
-      "title": "【美股盤前】Adobe財報今夜登場！美股大跌近千點，CPI引發劇烈洗盤｜豐雲學堂 2026 年 06 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPQ2RrMHl2eTFNUlJnWDVVZmdHRWM1Y2hXN25JMjlrdE8tYzYyTUFEMmpPSUVLMWVMc3pxc2xWNTFyemt5bzZLci1JMUw0b1AzYnhFNlcwejBib2NLejJNUGZhWDdLMHFTd21uZTBYc3MzQkgxUWVaRTd6TENnRVpZUWpUeWtfb3lycFNkR2U5ZW56cm01NEduSWhsY3IySkVNd2dwRnJEc3pqZHpiQVRzWEZXYjVqNzFSSFlOY01HRVJxSzdLd1hjRlhqbWswX25JSXJZNEdDaWRodEFFNnhYQzJZWlVpMDFVYW1HS3E4X0RDc3hqbmY2OFhTbDc1WU9tZ1BkOGdNVE5fUkxWUlVodE9CZ3hmdncxNldTWDN5UzVpdk9veEpoMUYyLWdVRi1QaF9ENkJmdkFfbDFITVlMVlpFcUN3UVNhWkt2VVFpVVU2ZFIwTXQ5Wl9LdlNNQ3pKRDdoa2JNX0VXTHVuMXBHR0R2ZzB0SEM3eDY0S1FTOHIyUkNuclRrTHZhZTI3RkFlNWl4RHZJaXcyc0dIQnlybA?oc=5"
+      "title": "對話摩根士丹利高層：華爾街並未排斥比特幣，只是在等待時機 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1hBZ3o0SzU2RTN0dnIyeTNKdnhzZnNyVHFHVHZXMVZLWHpjVmRzQmJ5eWZtV0xqN2RtczBlbjZVaFFZSkdVRWNpelpaMXNHNnNCWTg2Ym5PTW5RWlluaGpnSTR5UXBiSTltc1Q5bDh6ajZpUmZZZGFnZElyM3g5YThuYTB1NEpSSTFuZW9Lek1Gc3pmVUZlWnZYNVVac2RPWktGcVhVMXdFQms?oc=5"
+    },
+    {
+      "title": "21檔台股ETF除息！00919、00981A人氣爆棚 投資人搶進 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZ1VldDNRZWZCZ2U1ckQzeDR5aWowWVpZNHIyZ0NWNmVBUW5NenFuN29SNzhYYWdOUGJFUFp2ZWRXTHdoNDdOemxWbm4yWGZ4SEhsWm9DdXdybHZVckktV0xXSklNOXotMnlFMTRoS3FKZmotY2NiTmxZVnFIMXZnV2U3eHZMZGhfejR5NEkzNHRWUTBsUkx5bGI2RTFlUEoxbzY1LWVvdDBkMjJNWUlPN1dOa1NlZndiN2VmaVlhbE5DTDU0V3Y5ZnJJdmJiZE1DQlE3bllua25jT0Ffb2stVGFFV1pIYkpXcGpGbkhvTnVXR05IVU9kQ1l2Ry1uZE1OYVowVGpfMmlQWUFuX1hEUGtSUFhBNGhHMXEtNw?oc=5"
     }
   ]
 }
