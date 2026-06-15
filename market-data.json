@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/16 00:26",
+  "updated_tw": "06/16 07:20",
   "taiwan": {
     "2330": {
       "price": 2375.0,
-      "change": 125.0,
-      "changePercent": 5.5556
+      "change": 65.0,
+      "changePercent": 2.8139
     },
     "2454": {
       "price": 4470.0,
-      "change": 385.0,
-      "changePercent": 9.4247
+      "change": 290.0,
+      "changePercent": 6.9378
     },
     "2317": {
       "price": 267.5,
-      "change": 9.0,
-      "changePercent": 3.4816
+      "change": 7.0,
+      "changePercent": 2.6871
     },
     "0050": {
       "price": 105.25,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 212.47,
-      "change": 7.28,
-      "changePercent": 3.5479
+      "price": 212.45,
+      "change": 7.26,
+      "changePercent": 3.5382
     },
     "AAPL": {
-      "price": 297.195,
-      "change": 6.065,
-      "changePercent": 2.0833
+      "price": 296.42,
+      "change": 5.29,
+      "changePercent": 1.8171
     },
     "TSLA": {
-      "price": 410.815,
-      "change": 4.385,
-      "changePercent": 1.0789
+      "price": 411.15,
+      "change": 4.72,
+      "changePercent": 1.1613
     },
     "QQQ": {
-      "price": 744.56,
-      "change": 23.22,
-      "changePercent": 3.219
+      "price": 744.0,
+      "change": 22.66,
+      "changePercent": 3.1414
     },
     "SPY": {
-      "price": 756.43,
-      "change": 14.68,
-      "changePercent": 1.9791
+      "price": 754.83,
+      "change": 13.08,
+      "changePercent": 1.7634
     },
     "SCHD": {
-      "price": 32.79,
-      "change": -0.03,
-      "changePercent": -0.0914
+      "price": 32.63,
+      "change": -0.19,
+      "changePercent": -0.5789
     },
     "VOO": {
-      "price": 695.525,
-      "change": 13.575,
-      "changePercent": 1.9906
+      "price": 693.83,
+      "change": 11.88,
+      "changePercent": 1.7421
     }
   },
   "crypto": {
     "BTC": {
-      "price": 67174.06,
-      "change": 1463.6616,
-      "changePercent": 2.2274
+      "price": 66139.0,
+      "change": 428.6016,
+      "changePercent": 0.6523
     },
     "ETH": {
-      "price": 1840.88,
-      "change": 116.2667,
-      "changePercent": 6.7416
+      "price": 1786.69,
+      "change": 62.0767,
+      "changePercent": 3.5995
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.526,
-      "change": -0.053,
-      "changePercent": -0.1678
+      "price": 31.527,
+      "change": -0.086,
+      "changePercent": -0.272
     },
     "JPYTWD": {
-      "price": 0.1946,
-      "change": -0.0026,
-      "changePercent": -1.3165
+      "price": 0.1945,
+      "change": -0.0032,
+      "changePercent": -1.5937
     },
     "EURTWD": {
-      "price": 36.628,
-      "change": 0.074,
-      "changePercent": 0.2024
+      "price": 36.585,
+      "change": -0.0997,
+      "changePercent": -0.2717
     },
     "CNYTWD": {
-      "price": 4.6727,
+      "price": 4.6718,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4373.5,
-    "twd": 4433.0,
-    "tael": 166234.0,
-    "twdTotal": 137879.0,
-    "changePercent": 3.7604
+    "usd": 4336.6,
+    "twd": 4396.0,
+    "tael": 164837.0,
+    "twdTotal": 136720.0,
+    "changePercent": 2.8849
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "〈美股盤後〉美伊協議利多發酵 費半飆5%那指漲3% 道瓊創歷史新高 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ycklLbER1TmZxRzB0aXZMaVNwTWRDcldSRjlMbVdFaGVLNzAwblpjTWE5aDdnUWg4VExCdlV3N3FtQ001ckhHaEdkYkY3em8?oc=5"
+    },
+    {
+      "title": "美伊和平協議來了！美股4大指數全收紅 那指飆近800點、費半大漲728點 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNeFpqQnd0TGlEZms5UnA3SnZCZDcwYWpNZjNYaHZTR2FxTGgyc3ktYVNCd0VZd1NES0VLVkppWlJFY0dIWE9RVVJZcjdRQ2xUY0VhSkpya2o3LVdJa0k2MnJsemdpTkNlQlRzSjBhSzRBbFpDOG9IUUlLbkRlZmRKcEZpTF95ME1OWmFONDRkekZWSHRnVTdYTEF1a2UxU2JZR3ZtWkNCY3ZBOGtIdF83TWMzS3hrcGNEcjI5MjRUeWhKb2c1MHRsMk96bTZrSXFNMUVVZ0U5RXdYSEhtQ0Fvc05RUEdzNXp6MUUxWWotNFJOQjdteGNRcGtYVmNoWVduMnBQb1pTazRiYXM2MkNSNkxlejJsa05uYXQyZ1JvSzB3RllfYjJGVU5GTm5tSkc1OEZ4YTcyTnV2dExTaDRaT1ZXZmlqblZFR1I2S1lCVkJocW9HWkt3ZFRBTWo1clJ6aDVYUF9SMWdHVG9YODJDb1lkLTVxRTVRN2VRcW44T0RBajVNYkc5emsxVzZfQ3d2RURyY3BWc3Q?oc=5"
+    },
+    {
+      "title": "6月16日 五件財經大事搶先看 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92ejZlUDU3QzFhOTlYYkhwODQxdmtmWThYQ0NmMWU2VzVsSmFVemZWbkxUbUJIMzNvVXpBR1BRU0doeUFQUG4tTm5WVGFnR2gwVEJsZmRodE1DUdIBX0FVX3lxTFBkZTdXaXRhVnE2REJYUkgxVUY5MVI5MC1Yd0FzTkMtRXJ3elZKWDFVUC15SXJRZkFPNHRHNTU5T0dNSXB5dGFudENvdUpiMy12QURzcWNYbkZ3Q3RZQWNr?oc=5"
+    },
+    {
       "title": "美伊和平協議來了！美股大漲慶祝 台積電ADR、台期指夜盤衝高 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NQjg0dVo3TGNtMmVfQWNGU3hsd0V6UFpMczlUN1QtdWdHWnlIN25NdnFfa0hnVFMtMkU2WmRRbGtERGRoT1dhZmUzU2hsaFU3UlRWcTlPNVRSamdvTm9R0gFkQVVfeXFMT0RpcVpxeE54Uk1JMFRhZjN6ZUxrV1dQSENrVnpuMlU4LW9uSG95MWlCQnlhTU5HMVRZQkotMTN4OW9DYVEtWl9fSE5IZ3FsS3ZudTJhcUVwdVNJdGlraXJod1QySA?oc=5"
     },
     {
-      "title": "中東局勢降溫！美股4大指數全面走揚 AI股發威 、美光狂飆8%重返千元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxNazB1azFLUXpUNUNhbjlLVFRBQnNZT3BlSURQZnJRMzAwVzNxYVUxc2NxYWdJSEFyNlFtbUNBUXNKNzR6NHVOczRhM29qbFRJd3JLbkxGeGV1Sk5VWlZSamp2ekozOXVUVjU4czhZdUJuWGtuampfZzZNVGpTdlp3djJLU0UyOTVLVWdOczJTWEdiWWpLSGg1aUt6TTZsM1JFOF9WUHQ0eEJtZGpHbEJHeTRJVTNqdTItNnNIbTRZM2FGYXlUUkN1cXRHeWRjQlc0VzRHRjR3WDJTbUpXdktscGpTTzJnNm9fa2Y5QTJJQTRlVGRsY1hrNUU0aXVxWTJBblZYN0Jqd2ZiWEpCcmhRWWY0T0M0UFktZF9acTdmMHJtUDU5MjVtMFdzMGw3cGlHQnR3TDZLZEhDVFJodmhzT0c3elRoUGpCbXd3cTlTdEl3eEVtZDhaUDFnbnBnQXJSR1JCVFF0MGNGUXJlb1g0NkNzOUdZdFdwNkUwZlNrT2ZndE10clEwYlJFeFcycXg3bU9TQ0YwNEtHSHZ6N3c?oc=5"
+      "title": "《美股》美伊敲終戰協議+SpaceX續飆 費半躍史高-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNak9hX0tGSzRmY0E3VUNZb0tXUHR0b2Q0MVZnNktaVkJKYWdrczNZMlQ4REotbHF5Smc0MlRiSHB0WDhpdkJrMjhRUmlrYVJPT1piS0pFbE9VTE5XaTg2azhJb2lPMGNKWkVkeFBURFBUS1k2blE0UTc0elVYWTF5OWpqUXF1Y2c2Rkx2V19YMC0?oc=5"
     },
     {
-      "title": "台股盤後｜美伊停戰引爆史上第8大漲點，加權指數飆升1,227點重返45K，被動元件多檔漲停，低軌衛星利多鈍化 0615 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMigAVBVV95cUxQRmI2TzlHMGVlbmNmRWlOcGNGZkpwOGY0SDFkYWtiWE5qVGJHWDZnTXBrbEtKT3ZPUktVUWstQURwc0F5c3J3RjY4SmZremJEcUl4cDNIN2JXUVdNVmFONUhJSllMaFhSSVJpYmdLMWdlMk1rRlZ3ZDFiZ0pDVDFydnJyLU1aaXRtWG02SlFqY2UtNlgzU0UwajBsUU4wNnFneDUzQnBoUHRWZEZpaHZnZ0JOV2RZY1k2NVU4aHNUdlNwMzJJYm1TZmN5QlpzM0o5a25vRWdncjhkQ29TWXJVckJheF9zdTByTnVSOFZMXzk4VGk1NXJvQWN0NXREUjBZVDB5blFKRmxDSkVyblJ4S2c1Xy01cHp2bU5KN3NuUTFyYVZLZ3ZJNkM1SkNXZVBSMjVLTDRSM3h4Qlk0TjMxc2dDMXZaa1FRZ3d3YUZVZHZlX3lHTlFlNjk2SW04b2JvUWE2MTZ4YkZpRW9rRzcwTUstYnNOWENYZjRzcmNvNHRXS1ZiNDFuRG5lM0RRVlhPSGVPUlNFRTQybGpDbVY5NnVFdTRzZzctdTVoempVSnY1N3hLY1NMM1U5V2JaTUlKVHBZZklZa0tLaUdlYjB1R2NmQ21fUXYtX1BoM1daeEdoQjhnM2tONGkxREJLYlNHUlkzRDdUMkdqdWJmSnJBWWZUNHNOeVpWYkhXS2lCSkZoSmptdy0zYkplTm1EeTAzclJwcGZfZmlCdC1jekhvb3BZMjRqamhISmVaT0cwVVRDRzk1eTkxOHM1ZklBWmN6a2RjNUpvX2wxNmtqdW9oSjlyemNLeTJNQkJYNzF4ZW5BSDYzMEtmaTUxdjZaNm1S?oc=5"
+      "title": "33檔台股ETF 受益人數創高- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vR19QNENiY0xNY002RlhtX3ptLUl3cXpyOFdwaEl3MVpQcEdHbkhfZDdXN3BCVWRER3l4TS12TWRRMFRXR2tCTUtYWDA5bmZibFJlVUVtZDZ0WXVyeWJN?oc=5"
     },
     {
       "title": "台股創高還能進場？復華全方位基金解析AI行情續航力 - 鉅亨買基金",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVJWS0hWT3BwNUItOUxaVk0wLTJaM2VEQWpqQTRJbW5lR1UwdHAxTGRiSmFlNXNrWkhEVDdRem1VUHRIU1JCZDFXMWRzeWhpQjBQYlJwTlBXQzM4OV93WEdkVF9NVWt2VFhQbGdBaDdNSEMyZzFmZUZBeFluTDJqZ2dUbktnazFqdUtZUnlxenhmQVVFbm5fSW9B?oc=5"
     },
     {
-      "title": "個股 vs ETF 怎麼選？AI 泡沫化？比特幣還值得買？神奇先生一次解答 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1J3cFpRZGRyRGpXTUprUTdvVGZnQ3FoSC1oMjFxZk1SOXZWQnVoVUthd25ldmdKNGp3aVlYdVl4OUNpMThOaklWaklvVUVIcEVkOVFUUTVlMkhIV083a244THBfTVZyTVhwaHJLV2FIcHNHOUQwZGdsd0REajJWdlczQlRFZFFLNmNiSl8taTE5MlFhWk4yTQ?oc=5"
-    },
-    {
-      "title": "美股超級結算週來了！四巫日是什麼？2026四巫日時間、對美股台股影響全攻略 - TVBS新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSbGJ2M0JBTnQ1TW1oOFFGd2xHbUQzOThLcUJ3bnVTRjVuVDdfam01Rm5ENHRMZFFGQzVTczJjX2pKTDJyRTRCb04tOGJPYjA?oc=5"
-    },
-    {
-      "title": "買台股 ETF 跟著 AI 賺 建議優先布局「IC 設計＋記憶體」雙強組合商品 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBENHRtUDVLU3E4bzRNbDdnYy0wN2E5UWlnV2I1YWUwZDZxS0t6Um1wTzJDalhzVDl6U0piSF92SEp1RXFKTXdPSUpFZ2F3MTQ2OU5hNU44RTZ4QdIBX0FVX3lxTFBCcTQtV19iU1hVMHU2WktpUGR6QUdwVWVWU2FWU1BDekwtQ2JDM3dQMEJHLXB4ZUF0V3VoX3lWZFhySDNfWkJuSGswYm1ZYjBJZ1B4QXpTUGRfb1RFQnRB?oc=5"
-    },
-    {
-      "title": "高盛警告美股最大風險！10年期美債殖利率升破5% AI牛市恐面臨估值重擊 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CamM0VUhraGdJa2Jxb1FmOTUtT0VIS2NNeUZMUGZudlR6Zy1vbVJrLVRVSGUzSVQtVENJMFVTOWxIVmhfOEZFTThCRzFCTzA?oc=5"
+      "title": "美伊協議利多！美股全面上揚「道瓊飆歷史新高」 台指期盤後漲1.42％ - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNMWZqLVIxbjc2bWRhc0xPbWVtZkczLXRBTE1iOTVlS2JndDNnRkdPdEJwRVd2NEUzLUhEbWFDSVNhZUxjOV9WdUR5X2Zrc25OZHZYMUg3VXpkTzdmWFhWTTFaalhQWUM3MHJuY1EySmJHYW5hRF9aaDBTaDVXd0tfdWhqZzRQSFhXdG1oUldkeGdkNmptR3I1Ni1KT0dLdEtKT2xld0pUMWNHbjlsTkdCdUxKRFRyeWdLQjU5RnNxX0Vnd2ZlRnlYa1BQY3pFUGo1eHNtOWRjeUFLZDNFbzBnVGtrTFgwcDUxRDA4MVducktyRklPM211am9pWDhfOHAzYlRRckJ6Mmp6bjNYWVVucFltb3pYdGJ6SHUyakQ2clZlOG5kdlJvbkh4blVDZHRmRkF4RlNRQ05IQzZHMnJyTktrVE8tSHVQdjVGTk9KYk1IelZHS0txemFyN2tXSEVOYVlYaUZBYW9zWGlzM3ZqWmx1LWNvVVp1VVp0RTFGbUdSQ0RsTGxvLVhzSmtIbmti?oc=5"
     }
   ]
 }
