@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/17 02:14",
+  "updated_tw": "06/17 07:52",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 209.515,
-      "change": -2.935,
-      "changePercent": -1.3815
+      "price": 207.41,
+      "change": -5.04,
+      "changePercent": -2.3723
     },
     "AAPL": {
-      "price": 299.05,
-      "change": 2.63,
-      "changePercent": 0.8873
+      "price": 299.24,
+      "change": 2.82,
+      "changePercent": 0.9513
     },
     "TSLA": {
-      "price": 405.18,
-      "change": -1.25,
-      "changePercent": -0.3076
+      "price": 404.66,
+      "change": -6.49,
+      "changePercent": -1.5785
     },
     "QQQ": {
-      "price": 734.06,
-      "change": -9.94,
-      "changePercent": -1.336
+      "price": 729.86,
+      "change": -14.14,
+      "changePercent": -1.9005
     },
     "SPY": {
-      "price": 752.04,
-      "change": -2.79,
-      "changePercent": -0.3696
+      "price": 750.33,
+      "change": -4.5,
+      "changePercent": -0.5962
     },
     "SCHD": {
-      "price": 32.56,
-      "change": -0.26,
-      "changePercent": -0.7922
+      "price": 32.53,
+      "change": -0.1,
+      "changePercent": -0.3065
     },
     "VOO": {
-      "price": 691.46,
-      "change": 9.51,
-      "changePercent": 1.3945
+      "price": 689.75,
+      "change": -4.08,
+      "changePercent": -0.588
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66035.96,
-      "change": -253.54,
-      "changePercent": -0.3825
+      "price": 65594.89,
+      "change": -694.61,
+      "changePercent": -1.0478
     },
     "ETH": {
-      "price": 1801.89,
-      "change": 6.9288,
-      "changePercent": 0.386
+      "price": 1791.26,
+      "change": -3.7012,
+      "changePercent": -0.2062
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.498,
-      "change": -0.115,
-      "changePercent": -0.3638
+      "price": 31.563,
+      "change": 0.0444,
+      "changePercent": 0.1409
     },
     "JPYTWD": {
-      "price": 0.1941,
-      "change": -0.0036,
-      "changePercent": -1.7961
+      "price": 0.1946,
+      "change": -0.0021,
+      "changePercent": -1.0686
     },
     "EURTWD": {
-      "price": 36.619,
-      "change": -0.0657,
-      "changePercent": -0.179
+      "price": 36.695,
+      "change": 0.1559,
+      "changePercent": 0.4268
     },
     "CNYTWD": {
-      "price": 4.669,
+      "price": 4.6782,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4362.6,
+    "usd": 4353.6,
     "twd": 4418.0,
-    "tael": 165673.0,
+    "tael": 165672.0,
     "twdTotal": 137413.0,
-    "changePercent": 0.7994
+    "changePercent": 0.5915
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNaTFGb1Jrd0xQUUZMa3NpbTZjWVBUcDJJd2E2T0p4S1I3YUN1LVBPeW9fb2JjS3N4TnZLcXNYSEQwVHR2TGtMdEZWbkNPQjJLOEh0b3VVWm9tb3JUN0ZDbThleUw1czI2VVVSb1JrbzVNVDEzb2V4ZlpMa003czFVamxFd2pWMk9FcVJSWWRWUWZkdDVYSkphQi0zR1ZfMWx5Mzc4a2s3UTVxdFVTLWNRRWtaS1NlcWdDQnhpMWtqUVN3UFEtdWt6ZG91d0FNX0lhNl9FOXBRYzJDb2V6ZUVPZlN0cE95SWJscTRoTk1RYVA2NXhrR3d3bG51XzlweUNFRDVLMTRmWTRxRVZnNUFmVjRpaTBoRG5tQTRVano3SDVhY01kanN5VE5jVmI1SmxrdC1WMjVJN0ZDUTBJZ0lmcW9CNzJ0ZHJUNU92UklwNnp1aTR4QXhLajctMDBzQlpKSWgtTE1uZW1hbGtLaWFWamF3?oc=5"
     },
     {
-      "title": "〈美股早盤〉Fed決策前市場觀望 主要指數漲跌互現 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42eUtpNDk1SjJTYVAtUXFINUtNY2Y0aDd4dGowYV80emY5TG9jYnpNdzdXSjVpZl8xUXowNEN3ZEYyYlo0cWUtOFU1UF9WTlk?oc=5"
+      "title": "〈美股盤後〉道瓊盤中首升破52000點 費半慘跌超5.7% SpaceX市值接近3兆美元 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56U19qNFJIWVl0elJkS2NYcTJSLVk4TElueHRfTzdEMlpyT0RHQjdMeDF4b1NpdkYxX1FpY2E1aVYzbjNpcXRGa1pVVHFrWUE?oc=5"
     },
     {
-      "title": "SpaceX上市股價再漲19%，美股最新市值排行，MANGOS悄然接棒美股七雄?｜美股觀察｜豐雲學堂2026 年 06 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxPbjFCSFh2QzNacEY1RjdWWUxRdTlJYlRnaHJXRFhueFFiVEdwcUZ0WnNqYmNjbktBcUpJRUdXOEl2OHFpXzI3RUM1WEZncnpSOGExV1dvUXlFY1pWdmNaQzcwNkwwelJ3RDdRYzVFWFlMWlhCYTFjNUtZZVFWVzNoai1BUFl2TExBN3Rzc213WXVqSWd0S2hmMDk5aDZTMU8xTXh3Nk1mVjBXUHhqaUl5empuQy13SFVEbDVJY1FDX1QwSElYUVhqRzNocm9EM3pmY0tHUGI1ZUxRbXlYdzlCcVJ3R1Rfamo5T19kTjNSWmJMZGVxU1Z5aXhlQ3kwRklkeGhOZnZxN1pfTlI3WGtDTlVtY25KelQ2blJJbkppY1Fkc29GWWQ3TTB1NHpLLWl3dGhKYkdWd1ZmMU9CRzBMVlFpQ3gzbVVxU2pUcjRuVTVRdjhNV2VCNGowSkRkOHRPTDZvLWdqbXhxcHZuQ3V4UF9lbTFBLTNQVVZCT3hvQUVreXdfa1pMNkZicHJKc05tS0t3UHFXb0k1T1VXX0NxOVg4QVltUUxEa2dvcnNCYWxjTE13U3FOR1hJTDZJX2hLbjV2WkhkeUZOWjVXakE?oc=5"
+      "title": "美股分歧！道瓊收盤創新高　晶片股慘崩「那指跌逾1％、費半狂崩805點」 - 三立新聞網SETN.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzQUdFY2llVmNGTnNTQkR4RUlaM1Z4RTVzMGJSSWJBd2VMeVVPQmZveVMwWlAtYTh6aUdUR28wSnM3bGZ3djduaGZBQk5RTGtMb2owMWZCRFnSAV9BVV95cUxNMFR1X1REOUlQZkx0TDdEODFCWkUwT3ZMaVBBN0ZMQml5czVYZHJvdVFVTXE4VHBOc2pjN0FqTndabldFc1N1OGxYalptZUVPMTQzTDdiZHRXTDM2VVE2aw?oc=5"
     },
     {
-      "title": "黃金見底了嗎？專家直言出現這「2個超級信號」再進場 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10SzBvcDZoRjVNNFpTNmhRSXJGRWRJYzFEaGxlOWtlTTJyR01CMEhhZHIxYmg4MHJUR3FodW82NFVGb2M0c0VvVjd0TWE1WHNMbG5jdjRmelZPY25SeGw40gFkQVVfeXFMUHRIdFllckJxMVVQZGF6QXNPSC1QYml4VE5RY1VxRWw3Ml9TZTFjQmdXX2twRlJGWlZwMlVmQzJPYnRNT3BvSHpGZnNfM253SDdaemp0Q0UxM0hwNm5RUjFEcGpwOA?oc=5"
-    },
-    {
-      "title": "美股開盤前大幅下跌！多家公司遭遇重挫，市場情緒受影響 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaV9CUVNrdms0emNuY3NYSVQwX3V4U3J5X25tcmJZZEZmT0ZqWmR5WjVEZl93c21XM2JOTlgzQURrMEUzcUludVdVcFE1TFZiOFRpZW9hVG9ITldqdkpndy14SFJJZU1mN3dOT1I4alFqMHU3WUtvSmF0YnMtUFhVNExFYlJKcEROY29ESkV3?oc=5"
-    },
-    {
-      "title": "【美股盤前】美股期指狹幅上漲，焦點轉向聯準會！SpaceX漲逾10%，威騰電子漲逾9% - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNM1NJTkFDZ0lLSkRZb1VCSFBtUFhyRVk5WlM0d0NrX0dzd0ZwMnFmcE9aWkROd0VDS2dzcjVHMGQ5ZUNQVW4xaTdGa29IS2dRSGNTRWhsaVhMVmtZVEVNQy1ja2FrTE9QR0tNSm1sOFo4TWVmYkFwVUxmcXZJa0NObUZEQWUzUVFMaVJVaENoU2NyZXRlVmVzZENfbG1oVG5BaDZSbHQ4ZkJWcHhDRVM2cmJiUGJxZEo2LXNRTDF6SURmdFNWTmdIeXZaR3pHc01LWmF2aEpqMkZZcVRzN29JajQtSDZsMXFxLTdsazFjYWpjX0l4WkQ5WkxNSEhfRmRFSUYwczF0eFBGLVdScTJBOUUwZEpTbTdWT2NEVFVPWjJfZW8?oc=5"
-    },
-    {
-      "title": "Fed新主席首次利率決策倒數！美股震盪觀望氣氛濃 輝達、台積電ADR走弱 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNU1RkcUtCcWhYVmhlMFBKVzhVMjJHYmU5YmhZUmd0cGJTTkxRN3ZkcVBJVGRaVmxpMmc5R1EwY3hmU3lGZ19ZNzBWVEl6SjVWMzVuRkhmeVVUZEpCTVAtMzRCeXhGM2kzNVc0cXl1VHh2X0tZa3ZZRmhoRmZ1RGVMNFBSbDVfd3pheFdqSTZaLUdEMHNKQXNkbHNkVnN1NjNJN0pwcDlQWm9WMnN5d0JvN1lkd0NtbUFKaEZpWWRYek90cjVSVXFXcENqSVJiUklOTHZ5a3BoNzhKWEFDYTIweDdCdzhwSFc2N1Exc295T0JUNGd5QVRtbUVMQTIzd3EzUl9tUFNzbFpJV2RMQ0RSX3pSbVZaZFFxTzhpTld5RGstR2RRRWp6aWZveUM4MXVrMXpPNFJpUm8tem9nZWJtTjV2bXhIM0VHbm13bHktWDdJaVd0dU1qWl8xMmk3aG50TFVBaXFFa281RV9jM1Q4LVFKOWlHQ21OalBFVFVIUTFhRUlhMmxFcWZWV3R5ZXQtaGZxampMQU5RNGxVdG9ERmI3M3pOUzRDNURn?oc=5"
+      "title": "美股早盤／投資人轉向關注Fed...三大指數漲跌互見 SpaceX續漲10% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UbC1TN3QwWmpqNEtqajJhZ1lsMkRFRDBlamF2WlFwbGdiVVBvVlp1eGg3aEpPbTFiVDVxRHRXZHRja193X0N2em5uQktUZFh2?oc=5"
     },
     {
       "title": "快訊／美伊和平激勵　美股道瓊再創歷史新高 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HNVo0bmVDckhNTEI4TnJQSUhXdm9CR0ZlRFg3SHJGcEZ6TzN2WUdacVY5NjVSa1UzUnExRjVWY241TUkzbS1tejBvY1JNOFBwdWfSAW5BVV95cUxQZUp5dW9xa2c5NlhpOWY2cjFQZEVXUFVyaUtsbWVaVS1KVUFIcXRXb282OF9mYTRhaEZVLXgyZjhRa0xTS2FSV1o1d1QyWjJ6NXh0U2U1MmpxbVFPcVBvTm5IRERoTzd2dnhVY3p3Zw?oc=5"
+    },
+    {
+      "title": "美伊協議帶動油價回落，科技股領軍台美股創高-財經焦點情報站 - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLVlDNzl2UGtSZTFBVTJ3WVBGSmszeXlzWkNEUzJJVFpxdThKZWJkLW9DRHQzSk1scExOUkZjUE84VERMNWxaZzBINHZUQXVsWGUySkw3LXhPcG1zRVVpNl9GNVp3aVlGT001MUhrcTYtbHlXYjVvUW4wcng3MloteTRR?oc=5"
+    },
+    {
+      "title": "基金-FundDJ基智網 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSkctVDF6OEswdWVMNnVGOVJvdTFwVkVxcHFiN0ZRbm9UaHU0Y1c2QzY0WkhwZ3RIWExCSi14Q3JPM3locEZCWXVfSWZWVmJuSmw0UW1ZdU9QcEE3M3Fsc0xhcHowc1RjR19sV0dUV054bGlITERLMHZNVlBvUlBzYXhFRTZ3Sk1JNTR3MXNmeGg?oc=5"
+    },
+    {
+      "title": "黃金見底了嗎？專家直言出現這「2個超級信號」再進場 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10SzBvcDZoRjVNNFpTNmhRSXJGRWRJYzFEaGxlOWtlTTJyR01CMEhhZHIxYmg4MHJUR3FodW82NFVGb2M0c0VvVjd0TWE1WHNMbG5jdjRmelZPY25SeGw40gFkQVVfeXFMUHRIdFllckJxMVVQZGF6QXNPSC1QYml4VE5RY1VxRWw3Ml9TZTFjQmdXX2twRlJGWlZwMlVmQzJPYnRNT3BvSHpGZnNfM253SDdaemp0Q0UxM0hwNm5RUjFEcGpwOA?oc=5"
     }
   ]
 }
