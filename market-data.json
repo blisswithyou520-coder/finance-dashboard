@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/18 19:58",
+  "updated_tw": "06/19 04:43",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -19,97 +19,97 @@
     },
     "0050": {
       "price": 107.3,
-      "change": 1.3,
-      "changePercent": 1.2264
+      "change": 1.4,
+      "changePercent": 1.322
     },
     "00878": {
       "price": 33.67,
-      "change": 0.4,
-      "changePercent": 1.2023
+      "change": 0.76,
+      "changePercent": 2.3093
     },
     "00919": {
       "price": 30.81,
-      "change": 0.46,
-      "changePercent": 1.5156
+      "change": 0.84,
+      "changePercent": 2.8028
     }
   },
   "us": {
     "NVDA": {
-      "price": 204.65,
-      "change": -2.76,
-      "changePercent": -1.3307
+      "price": 210.69,
+      "change": 6.04,
+      "changePercent": 2.9514
     },
     "AAPL": {
-      "price": 295.95,
-      "change": -3.29,
-      "changePercent": -1.0994
+      "price": 298.01,
+      "change": 2.06,
+      "changePercent": 0.6961
     },
     "TSLA": {
-      "price": 396.38,
-      "change": -8.28,
-      "changePercent": -2.0462
+      "price": 400.49,
+      "change": 4.11,
+      "changePercent": 1.0369
     },
     "QQQ": {
-      "price": 722.51,
-      "change": -7.35,
-      "changePercent": -1.007
+      "price": 740.62,
+      "change": 18.11,
+      "changePercent": 2.5065
     },
     "SPY": {
-      "price": 740.96,
-      "change": -9.37,
-      "changePercent": -1.2488
+      "price": 746.74,
+      "change": 5.78,
+      "changePercent": 0.7801
     },
     "SCHD": {
-      "price": 31.93,
-      "change": -0.6,
-      "changePercent": -1.8444
+      "price": 31.86,
+      "change": -0.07,
+      "changePercent": -0.2192
     },
     "VOO": {
-      "price": 681.41,
-      "change": -8.34,
-      "changePercent": -1.2091
+      "price": 688.11,
+      "change": 6.7,
+      "changePercent": 0.9833
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63903.92,
-      "change": -514.5253,
-      "changePercent": -0.7987
+      "price": 63069.78,
+      "change": -1348.6653,
+      "changePercent": -2.0936
     },
     "ETH": {
-      "price": 1741.41,
-      "change": -6.4755,
-      "changePercent": -0.3705
+      "price": 1711.18,
+      "change": -36.7055,
+      "changePercent": -2.1
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.614,
-      "change": 0.0501,
-      "changePercent": 0.1587
+      "price": 31.607,
+      "change": -0.0314,
+      "changePercent": -0.0992
     },
     "JPYTWD": {
-      "price": 0.1942,
-      "change": -0.0025,
-      "changePercent": -1.29
+      "price": 0.1936,
+      "change": -0.0034,
+      "changePercent": -1.7144
     },
     "EURTWD": {
-      "price": 36.256,
-      "change": -0.3908,
-      "changePercent": -1.0664
+      "price": 36.267,
+      "change": -0.1366,
+      "changePercent": -0.3753
     },
     "CNYTWD": {
-      "price": 4.6741,
+      "price": 4.6761,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4262.0,
-    "twd": 4332.0,
-    "tael": 162448.0,
-    "twdTotal": 134739.0,
-    "changePercent": -2.223
+    "usd": 4234.7,
+    "twd": 4303.0,
+    "tael": 161372.0,
+    "twdTotal": 133846.0,
+    "changePercent": -2.8493
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股市值型ETF怎麼買｜世界最大美股 ETF 強在哪？VOO、IVV、SPY 怎麼選？完整分析美國前500大ETF！ - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxQWVlKLUhZQUcyR0czcl9MME83elM1SWloSUZPaWZ5LVo1N0ZubVZQa3dWeV95UG5lVW9Sc3BWdU45NWxWWHA4NmVUSVpKNlZ4OGNqNWpQaTRhWFp6akNZOG5mT1Q1alNRcE5ZNGNycllqQXR0VHY2RjJzVHJCYXZSTXpnTGxJdFZvS256SDl4M0tsMW03aFRBQVlkRHVlOHZ5bl9CalFUOUJyb1dKZjEzOVg2Mmt1QVh2QUJiZW0tYTFEUF91S0VFZjY1R0tzUWh3M1kyMkNkSUJ0NFh4ZmFSTjFVNEoyX3RlazlOUkJaVmIyMTgwMzZER3Q5UXMzMHV5bVRtazdTU2lLOTZwaHE2cHgyaVRVZDZFcUdEaWpFMlRha3dQeEhjV1JMTDVxRHREajk2SHNCQ0dtSWlka1RDVWNYa0RKNWxOS29xSG92cjRkUVpKWEFPel9VbVVDSk1LdnNTTmJkR1JSTUQ3emM1VzU0Mzluc0RmQk1DUDdnamZFX2t4Z01oSFB0bmVqVnFKbXNhdC1iV2RJVXpBU0xYWnphODZDUnNaU2lVY0Jra0tuTlNNZEkxRUh0eS1kSG81U3dnRVNBUXJoUEZBTnVwbjFLdktONXNHS0wxSEVranJVN3oyVzJQUG90MmpJUVcwVnM4?oc=5"
+      "title": "Fed放鷹也沒用！美股4大指數隔夜大反撲 費半飆近6%、台積電ADR站回450美元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOanNZUHRiUnJGWHp3NmwzN2EyLUE0NjExYTRhUUJTZ3BOZjJzYUc3bk9JMG9SN2ltNm83WkJ2V2lzcGxyM0FJUWlpODlNR19meFJGTkl3WDZzUk42elZPMHJ5d1hWM2VhRWtRZHpoZ3ZheVI5RmxvcUJxclI0VWdnOXd2LUJ3ZUJuM044S3EtOFhBTlBzWjJvN2Y3Nnk4Zk1JM0drWDVQZkM3LUF0alpFMzhlQ1lyeTY3QklhWjU2Z1l6cjNIQ3E1eHF4WkJ2MVhPeTE2R2JBZTVlcmV5QjdCY3ZITjNQSEdrVDJUaWU5czVXaHZKYk9RS29LLWxIQ0p1TTk1ZDRLQ0FQMjVQS0FHeWJQVDFOMkdoeTl0b0hMV2ZpZDRsbFZaV2pPSExTd0dOQUxvQWpEaTBVWk9XaTZHcHpuVjE3cktZSFF6dWQzcEd4VUJaYU8yZkp4Rld6dGM1TWs1RlJaU21xejgzeXRiM0poakFtN2lEZng5Rm1mclNGUl9DdzdNczlqQ25JdTJOX19UdFMtYi1Oa09EVDVoQm5TcFBvZw?oc=5"
     },
     {
-      "title": "美聯準會放鷹！美股多收黑「道瓊跌逾5百點」台指期盤後微漲0.05％ - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQck9WT0FERUVIYkV3R0ZnVHd6dnhQNU9UbUZxRGFlaUJwSEQzUEZfWDBYQXJSeV9tMGZZRW4tNTFDMHRNNHVsNTN2MkVNZ1BENmtJWkJLNmdVMTNNdlAxYjczUlVQRUM5a21fOFBrUDhva28tWHNvODhrbU5kZE1RY25wQ3ppMlhhUnhmTGhCeUd4MTZweWpwQ3hsMkx0ZjA0SEtmbzlKNHlPeXJZa2hTV1hPRmUtVmZ1elpCaVZOY3VtVWdYS05XQ3BkUEthY0JMVElNX2psRW1xX2ZaZmNOWmI1Qm10czBEMVFvdVRSbTN4alZhQllUQUxQc3VTZWlmVDMzSk84Zl9FVUNmQXZFakpJWlpnOXhNMUF6MVpTLVB6bThVakU0V2JQYWx4aEtLYVJWcy1EZTA5dmFOSmVCNDFUR0J5a3EyUktCbFFfQ3BCOU9vbm05RlRjaWwxRm1QX3llcUtqVzB2OEV5cDF4UmVNaWExZFVWbWE0WUxnTGI4U0ZYX0E?oc=5"
+      "title": "美股今「四巫日」展開兩周震盪期！策略師：逢低買進、迎7月旺季| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FRTVOdGlEeW9GUW52VllRMjRlQnF4OE83NTR3SENWSWlDY1VGa1RvUUlzZDdFOENEa0NpMmR4VzFBVmlSVllHWFVrSEtwZER6?oc=5"
+    },
+    {
+      "title": "台股基金績昂科技類最拉風- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqNUlpNTFpeElGMW9feXdtUTBvQVNBMVdEQTRiLTNlRlFSbFZySEUxWGZnOE9MNXVrX1k3d2JiNEVhTmRoX2pibVJvb3k3aXBLODY5elRkVFpRTFh4QXdJ?oc=5"
     },
     {
       "title": "黃金連4天漲勢被中斷 「這些貴金屬」大跌 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03LVJnYmxxclphTThFbHBIR01nM0VsbG5Ob1RTNVdWVG90X0tVMWFmYU1sYjlTZkZoNVhRZU9xSGt6akh3NFhyY3o1NjJ2ck5BRE53Z0lCa3paU3R4d3dV0gFkQVVfeXFMT0RvcHJlRmdKdnBPX3RuRlEzTE5zenNHQXhiRGNOVjEwUFJKYlY3OHJoVXlHMDRuQUdRWnpaNER2Nm1WWVNDNVdKdWprMkxFV2M2YXExOWhSX1JvN3RyNmtZMTJHdw?oc=5"
     },
     {
-      "title": "比特幣跌破 200 周均線是「絕佳買點」？歷史數據：中位數報酬率超過 113% - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbi10clpMUTRaY0RIT2MxVF82SmxJRmJ0OVR1UzNST3NLRnRCeUZKR1BLaU90c2dZQ1Jja0lKb2dydE9oWlAwR2tzaldfSUhfQXlzYnZEaXJwaGdaUW96SEhsanhIRXRmWlBEVUE2YkZBZ0xrRTlTZ3Y3YnJXWUFTcTY0Z1F5MmV3bEhTVWNpeVdOZ3duY2ZoeHBQSXpfVTQ2Q0stZGVnajJ5TTYxS0JmekIySlBzN0hCODhWbGJjdm5uN2MtVWRv?oc=5"
+      "title": "台股收盤創新高收46465點 日、韓股大漲也創高 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uZHh5dWdiM3VCdVd0ZElPY083S3BuNmxsN3VRc20xRmNmeThRbU1NVmFHRTJISjB2SEx0QTNkaHlZMEJWbHJYY3BjUTJLR1U?oc=5"
     },
     {
-      "title": "〈美股盤後〉股債雙殺！華許首秀掀鷹派震撼 SpaceX上市後首收黑 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ITk9uWE0zR3B5VUkwMzJwZl9OWlM1SFRmbE1CTUVZLWgtalQ0RGV6dnlVaktTTkh1ZHl2UG51c3NsTlljQzdtV2t3bUJUaXc?oc=5"
+      "title": "本週美股大事：華許談話後，市場不買單竟是機會？｜美股評析｜豐雲學堂 2026 年 06 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNalpxbHBpNGdWRFViSmRUV1FHdEd2S3ZSNWpvSnQ3Q3N4LVF0VzZnN1ZQS29xNTZkU0hNdm5ybG04bXZpb05jcnEzNU54ZG1Sd0VxX2ppLWVEQXFOTHlVYmtkS2hQTDdUc1NOWTlBU2FZWGlqV2V4d0NvMXVhVHF1ZDM3eDZDYXhPMDViR1dCX2FzYTBFMENLaFF3cmtKR2ZaLXZpWTlKMGIxdk12dFFNdkdncTJ4Mmc5aEM5SmEwTGctdHdsdDZ2V2MzWG5Mekc4U2hGQmpUNWFjXzRyTVNzeDA2blhCU2pWcGYtSHFUb3VLMkFGRllGelZ2Z2lYVV9vRktEU0dPcXYwOThuR3pDX2ttclpmU01xTWZuQzdicUs1R2dXUnZjTEFwQXhrRHcxU0VrYVVXc0RHWmdRUXpTTkRQVXExSVVPampReE03ZnMxVk5JYWxPbEt4dm5wMFlDRlBab2pTY3Jtd1oxaVhVNFJNVHJHOFI4OGhIUU9kMnYzZFFSbW9YQ2psOWNSc1VLcnk4N3E1dUUxR0FPNlJaMkd3?oc=5"
     },
     {
-      "title": "還有更高？台股有機會挑戰5萬點 法人點名這些族群可布局 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05Ymg4RlVMNDhzMHlmaVlEWUZvaWRfUk9rWXRFYzAwMElRV3lKeDdiMUY2Qnl0R3R2OTJweG4tM3d0azV0YnE1T25IdlhCWjBa0gFWQVVfeXFMUHV6V1d6UTZjN2toWlh2Uk93czRpbnFhRnJOTDNRcXF4aGt6cmVVSDlSbVB6U01BcEhka0h0al9qdGVVNTNFN2NTdTVlZElDRGdFSDlNOHc?oc=5"
+      "title": "台股創高 新台幣震盪連2貶收31.588元 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15Q1JEc09xN1JCaHBfLWlwQ0tuX21xWEdEQVp5RTkwS1lmNzNTaXNzY1AwbVd5SWNZblNhUUhpeVhCNXFNYlFENTdybzRoQkNUeWVmLXlXZXhvMGMtUVE?oc=5"
     },
     {
-      "title": "美股SpaceX狂飆後首度拉回！專家示警：市值破2兆美元卻虧損 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQc3lvbzdtdG9HbTlGeXhBaC1DOVA5LVpPTktiSzIwbFUyNS03el82Z2ZPYXJXMzFWbGFfa3R2THNNMU1WSmFQUHdPdS15NUJLQ2dlN0lESEptUlpDM19kTmZtS2dkSWRmS24ydTVmRURMYm03dzJ1ZjJKM3ZLcGVodERIQzZRMURNNngxQzJrVkRMbHQ2RzNQckVoTTI4aVRmajM1SXNJZHotSExpMExFa2FPdGwtWUFIUXFpdGJHR2tYRDNkT2c5UjFta0pEY3A4aUZQNXpHQ1BGV1AxZlFMUWZNRlpvSFVzcVZKblJUNGZOSDBNTk5iRWYweEpJODlPNC15NUNMZmtCMzVFWWxHcUc2SEh4WjFtcGJqMHJqZHQyZU9YS3R6bDlaenR4VFdQZ1lBNUJCcTFDQVVJWjdPU0FHd1N2NC1ZTDhRYjNFQ3RoUVVaSERTYlktQjJvc3pXSU9XM2dveU12T1dFT0pB?oc=5"
-    },
-    {
-      "title": "美股收盤》華許首秀Fed放鷹！道瓊跌逾500點 台積電漲近1.5％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BdDlqcmZEcjRwNlBwcVRmSk0yOVlSSm83b0JRUVdaaF9IcHBHUVZueGxwRFVYZURUM2NlT0FLN1RjelVhVUFmZHg3cEs2QnJjWGttYXZFTjFoY0hVdzh30gFkQVVfeXFMUGRPcjREWEI0Y25rcnhJN09KOWpOWkpCZlltUkRrbV9IQXFxRllxOW96alg2YjZ3NDAwODhQLUpucFFFeDc2cDd3T0xSbjVqamdpbTU2R0FEV09DU01VWHdhTmt2QQ?oc=5"
+      "title": "螞蟻雄兵湧入台股！5月證券劃撥餘額飆破4.5兆元 史上新高 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPd05jVlM5bEJ1YzRCMFFEM3BRSjVCb3E2azBfQzFvZFlEQVNTRkx6SDFNSVhxLXl3d2JyeFhiS3I3anJldWh3aTljMnNtS0d1cm82bVlrRnRJQWtVOE9hVmJBXzY2amZlTHFfU2k4NEthSHctNWFCeGJuOGxzeS1lWnhJdXRBbU1CWlU2MGp2NDFRdlkwcFowT2hhSWt0dFFtT2hvbHk5dnlmcnNNT3BiV1B5a2w4MWRZeGNvT0hfaDZNcUFJcmg1VUo3b1B2TThHbmJONDRzdTh5QkpmS1g4X1liVU5wcC1aanNrYlo1dzkyanJTaEtFS25JTHhyN3VYYjlySXhyeHZPb1I1eklUclZESzl4YVFITXJsRTY3NnRuQTF3Zm5TYUVRcFZ3Ti1CaUZINDNEdTNRN2o2RnBPU055Ymt3S0pQYmJFNjhzdERaQnFnT0Jkb09uWDdRalpnXzl6ZlVRWXhuR1k4UjdXWVhPbmM4djQ5RmRJV1ROZDY?oc=5"
     }
   ]
 }
