@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/18 05:21",
+  "updated_tw": "06/18 19:58",
   "taiwan": {
     "2330": {
-      "price": 2385.0,
-      "change": -15.0,
-      "changePercent": -0.625
+      "price": 2410.0,
+      "change": 25.0,
+      "changePercent": 1.0482
     },
     "2454": {
-      "price": 4460.0,
-      "change": -100.0,
-      "changePercent": -2.193
+      "price": 4390.0,
+      "change": -70.0,
+      "changePercent": -1.5695
     },
     "2317": {
-      "price": 272.0,
-      "change": 3.0,
-      "changePercent": 1.1152
+      "price": 268.5,
+      "change": -3.5,
+      "changePercent": -1.2868
     },
     "0050": {
-      "price": 106.0,
-      "change": 0.75,
-      "changePercent": 0.7126
+      "price": 107.3,
+      "change": 1.3,
+      "changePercent": 1.2264
     },
     "00878": {
-      "price": 33.27,
-      "change": 0.66,
-      "changePercent": 2.0239
+      "price": 33.67,
+      "change": 0.4,
+      "changePercent": 1.2023
     },
     "00919": {
-      "price": 30.35,
-      "change": -0.34,
-      "changePercent": -1.1079
+      "price": 30.81,
+      "change": 0.46,
+      "changePercent": 1.5156
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64256.01,
-      "change": -1344.6306,
-      "changePercent": -2.0497
+      "price": 63903.92,
+      "change": -514.5253,
+      "changePercent": -0.7987
     },
     "ETH": {
-      "price": 1742.27,
-      "change": -48.1282,
-      "changePercent": -2.6881
+      "price": 1741.41,
+      "change": -6.4755,
+      "changePercent": -0.3705
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.634,
-      "change": 0.0701,
-      "changePercent": 0.2221
+      "price": 31.614,
+      "change": 0.0501,
+      "changePercent": 0.1587
     },
     "JPYTWD": {
-      "price": 0.1947,
-      "change": -0.002,
-      "changePercent": -1.0359
+      "price": 0.1942,
+      "change": -0.0025,
+      "changePercent": -1.29
     },
     "EURTWD": {
-      "price": 36.432,
-      "change": -0.2148,
-      "changePercent": -0.5862
+      "price": 36.256,
+      "change": -0.3908,
+      "changePercent": -1.0664
     },
     "CNYTWD": {
-      "price": 4.6814,
+      "price": 4.6741,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4276.3,
-    "twd": 4349.0,
-    "tael": 163096.0,
-    "twdTotal": 135276.0,
-    "changePercent": -1.2607
+    "usd": 4262.0,
+    "twd": 4332.0,
+    "tael": 162448.0,
+    "twdTotal": 134739.0,
+    "changePercent": -2.223
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股 ETF 醞釀回補行情 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Tk0tSndGVkVvRXlwalNObzRCWG82Q0JXekQ1bWdyeVMxNnY1Uk9yaEtUeWZyWUlKOEhTTzMxUWlicHIzUFRGUFRSeUU1SFZGYTBHZ3N0eFpMUdIBX0FVX3lxTFBlcWlUUjRza1E5cGpHS3RfdklHcWgwZFFEMi1jTWVycTZrWU5nMmIxX2lHVm9KX3lHeFBnWlFZN2ptU19CcTJtVEl1TjZEY3pXS0wyZDF6dXpLbDRPSkUw?oc=5"
+      "title": "美股市值型ETF怎麼買｜世界最大美股 ETF 強在哪？VOO、IVV、SPY 怎麼選？完整分析美國前500大ETF！ - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxQWVlKLUhZQUcyR0czcl9MME83elM1SWloSUZPaWZ5LVo1N0ZubVZQa3dWeV95UG5lVW9Sc3BWdU45NWxWWHA4NmVUSVpKNlZ4OGNqNWpQaTRhWFp6akNZOG5mT1Q1alNRcE5ZNGNycllqQXR0VHY2RjJzVHJCYXZSTXpnTGxJdFZvS256SDl4M0tsMW03aFRBQVlkRHVlOHZ5bl9CalFUOUJyb1dKZjEzOVg2Mmt1QVh2QUJiZW0tYTFEUF91S0VFZjY1R0tzUWh3M1kyMkNkSUJ0NFh4ZmFSTjFVNEoyX3RlazlOUkJaVmIyMTgwMzZER3Q5UXMzMHV5bVRtazdTU2lLOTZwaHE2cHgyaVRVZDZFcUdEaWpFMlRha3dQeEhjV1JMTDVxRHREajk2SHNCQ0dtSWlka1RDVWNYa0RKNWxOS29xSG92cjRkUVpKWEFPel9VbVVDSk1LdnNTTmJkR1JSTUQ3emM1VzU0Mzluc0RmQk1DUDdnamZFX2t4Z01oSFB0bmVqVnFKbXNhdC1iV2RJVXpBU0xYWnphODZDUnNaU2lVY0Jra0tuTlNNZEkxRUh0eS1kSG81U3dnRVNBUXJoUEZBTnVwbjFLdktONXNHS0wxSEVranJVN3oyVzJQUG90MmpJUVcwVnM4?oc=5"
     },
     {
-      "title": "美股三大指數齊揚 道瓊首破52K大關 台指期夜盤重回46K - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ya1hFQjd0OFpPZVJXc3ZHQWN1WTR3SDl1WWhjTFlrNWV4a0xnUU1Xd2s5NDRNSUgycDlkdkJGcThfa1ZBOUZqdzVMME1XaTlNcnZDM2tBZzJCNDU0cWdN?oc=5"
+      "title": "美聯準會放鷹！美股多收黑「道瓊跌逾5百點」台指期盤後微漲0.05％ - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQck9WT0FERUVIYkV3R0ZnVHd6dnhQNU9UbUZxRGFlaUJwSEQzUEZfWDBYQXJSeV9tMGZZRW4tNTFDMHRNNHVsNTN2MkVNZ1BENmtJWkJLNmdVMTNNdlAxYjczUlVQRUM5a21fOFBrUDhva28tWHNvODhrbU5kZE1RY25wQ3ppMlhhUnhmTGhCeUd4MTZweWpwQ3hsMkx0ZjA0SEtmbzlKNHlPeXJZa2hTV1hPRmUtVmZ1elpCaVZOY3VtVWdYS05XQ3BkUEthY0JMVElNX2psRW1xX2ZaZmNOWmI1Qm10czBEMVFvdVRSbTN4alZhQllUQUxQc3VTZWlmVDMzSk84Zl9FVUNmQXZFakpJWlpnOXhNMUF6MVpTLVB6bThVakU0V2JQYWx4aEtLYVJWcy1EZTA5dmFOSmVCNDFUR0J5a3EyUktCbFFfQ3BCOU9vbm05RlRjaWwxRm1QX3llcUtqVzB2OEV5cDF4UmVNaWExZFVWbWE0WUxnTGI4U0ZYX0E?oc=5"
     },
     {
-      "title": "美股即將迎來史上最大技術重定位時期！市場動態引人關注 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV1BVbUlOd09ldGlOWEZrVzFuQzc2Z2tSZEZCNjNmQTMxeVByeXJmODBMVEhXNy1xMDdGN2dKMUJ1YjVaWGdUalhCSmh5U1h1QjRaclBHUy1KUkxkeWdUUFJ6Ymhqc01kekFrVGpZTHlWaERVUHRKZFRPUkJnamt1STFxUGNUR1BYLWFSUzJB?oc=5"
+      "title": "黃金連4天漲勢被中斷 「這些貴金屬」大跌 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03LVJnYmxxclphTThFbHBIR01nM0VsbG5Ob1RTNVdWVG90X0tVMWFmYU1sYjlTZkZoNVhRZU9xSGt6akh3NFhyY3o1NjJ2ck5BRE53Z0lCa3paU3R4d3dV0gFkQVVfeXFMT0RvcHJlRmdKdnBPX3RuRlEzTE5zenNHQXhiRGNOVjEwUFJKYlY3OHJoVXlHMDRuQUdRWnpaNER2Nm1WWVNDNVdKdWprMkxFV2M2YXExOWhSX1JvN3RyNmtZMTJHdw?oc=5"
     },
     {
-      "title": "黃金今年會重返5500美元？ 專家：時間還沒到 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPZVk1cHNqTmRET0NWVDBJTXZGajVmdExqY25TQ3JZczRSQjd4V3VLVXlDVlNpTm1oZkhlNUhuTjlTb3ZhNDZXQWhETUVwOGI4Yk81V3Z2TmZCR3FMckwyZUNqVGEzZ3Z5ZkV6NGVOLU9HVEM4RmRvSW95dzVNRER6S3RiSHJpeWJ1REtKeGdGRXMydnJUSW1uUzFMNG5waVdhR1BFYkg1eUlhcE9jd0QxdHZJWkdWdEhlQU1TZFZMZzlTOGo4MDJUVlpPU0RYVzFvMHhiZzlHeDJwbFRqMlZDUmE3NGRXR3JmSF9XQmxZY1dmQTBNT3ExNExiODZRRWR6Tjg1MXQwRF9LT1JBUkp4QXdoUnV2aG1KZnFmbS1YWEJ6MUUxaDVVTzdwb2VQRDdTTkJhY3pvd0RUZw?oc=5"
+      "title": "比特幣跌破 200 周均線是「絕佳買點」？歷史數據：中位數報酬率超過 113% - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbi10clpMUTRaY0RIT2MxVF82SmxJRmJ0OVR1UzNST3NLRnRCeUZKR1BLaU90c2dZQ1Jja0lKb2dydE9oWlAwR2tzaldfSUhfQXlzYnZEaXJwaGdaUW96SEhsanhIRXRmWlBEVUE2YkZBZ0xrRTlTZ3Y3YnJXWUFTcTY0Z1F5MmV3bEhTVWNpeVdOZ3duY2ZoeHBQSXpfVTQ2Q0stZGVnajJ5TTYxS0JmekIySlBzN0hCODhWbGJjdm5uN2MtVWRv?oc=5"
     },
     {
-      "title": "Fed放鷹暗示未來恐升息 美股三大指數收盤齊跌 | 民視新聞網 - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OWGxCSDVkMmdrdnh4Tm1wTlZHWFQwRDVPdVVtVDQyVmxRa3JZaVB2MFUyQy1LU3dNbm1FYkxfbnEwQVgxeTF4a1A0ZVBHaEtSaWZNcnFR?oc=5"
+      "title": "〈美股盤後〉股債雙殺！華許首秀掀鷹派震撼 SpaceX上市後首收黑 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ITk9uWE0zR3B5VUkwMzJwZl9OWlM1SFRmbE1CTUVZLWgtalQ0RGV6dnlVaktTTkh1ZHl2UG51c3NsTlljQzdtV2t3bUJUaXc?oc=5"
     },
     {
-      "title": "黃金連漲4天了！「這時候」有望重返5000美元 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQX3VSLXlUQnlDenBQWWpTQjcxYjJ1cjF3TGRpYXVWaEFxeWV1ZXd0UXlhNTBZbVg0aXUxZnd6V3YwUG02ZmRyZUhEeXEwYWdSS0tIMEhzQk9IalJGQkNJ0gFkQVVfeXFMTnNPMUhPRUNhQVk1QmMxakpNaFpZR0ZRb1YyVHQ3SzBEc1Z6dVRHLW9YTUZMWlZORUtwUFFPTS1kcGlwZ2pYVkRRQVppWkhyYnJjTGwzWXFlS3R5RkFyVWdfMlhJYQ?oc=5"
+      "title": "還有更高？台股有機會挑戰5萬點 法人點名這些族群可布局 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05Ymg4RlVMNDhzMHlmaVlEWUZvaWRfUk9rWXRFYzAwMElRV3lKeDdiMUY2Qnl0R3R2OTJweG4tM3d0azV0YnE1T25IdlhCWjBa0gFWQVVfeXFMUHV6V1d6UTZjN2toWlh2Uk93czRpbnFhRnJOTDNRcXF4aGt6cmVVSDlSbVB6U01BcEhka0h0al9qdGVVNTNFN2NTdTVlZElDRGdFSDlNOHc?oc=5"
     },
     {
-      "title": "央行避險再升級！增持黃金之外 更多國家啟動分散金庫據點 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51cmdNX2JvSXJuSFhWQVMxZUdOd09oOElNSE1wOXdHNXhNR0p5RHVTNUJjWDY2SGs3bGJhbng2UEcyVEM0VnhSQlZ1Q3FGd2M?oc=5"
+      "title": "美股SpaceX狂飆後首度拉回！專家示警：市值破2兆美元卻虧損 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQc3lvbzdtdG9HbTlGeXhBaC1DOVA5LVpPTktiSzIwbFUyNS03el82Z2ZPYXJXMzFWbGFfa3R2THNNMU1WSmFQUHdPdS15NUJLQ2dlN0lESEptUlpDM19kTmZtS2dkSWRmS24ydTVmRURMYm03dzJ1ZjJKM3ZLcGVodERIQzZRMURNNngxQzJrVkRMbHQ2RzNQckVoTTI4aVRmajM1SXNJZHotSExpMExFa2FPdGwtWUFIUXFpdGJHR2tYRDNkT2c5UjFta0pEY3A4aUZQNXpHQ1BGV1AxZlFMUWZNRlpvSFVzcVZKblJUNGZOSDBNTk5iRWYweEpJODlPNC15NUNMZmtCMzVFWWxHcUc2SEh4WjFtcGJqMHJqZHQyZU9YS3R6bDlaenR4VFdQZ1lBNUJCcTFDQVVJWjdPU0FHd1N2NC1ZTDhRYjNFQ3RoUVVaSERTYlktQjJvc3pXSU9XM2dveU12T1dFT0pB?oc=5"
     },
     {
-      "title": "美股早盤／華許上任後首次Fed會議在即三大指數遊走平盤| 全球財經| 全球 - udn",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hQ202Z2hwMWRfQnVWSFRvaUQ2VXE3YzlqNFUyOVdnMG9XMzdoOGpaT3duQjNIUHBwVFVzU3ZRbGZ2alJCYXJlaWlrTHZJQ1RX?oc=5"
+      "title": "美股收盤》華許首秀Fed放鷹！道瓊跌逾500點 台積電漲近1.5％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BdDlqcmZEcjRwNlBwcVRmSk0yOVlSSm83b0JRUVdaaF9IcHBHUVZueGxwRFVYZURUM2NlT0FLN1RjelVhVUFmZHg3cEs2QnJjWGttYXZFTjFoY0hVdzh30gFkQVVfeXFMUGRPcjREWEI0Y25rcnhJN09KOWpOWkpCZlltUkRrbV9IQXFxRllxOW96alg2YjZ3NDAwODhQLUpucFFFeDc2cDd3T0xSbjVqamdpbTU2R0FEV09DU01VWHdhTmt2QQ?oc=5"
     }
   ]
 }
