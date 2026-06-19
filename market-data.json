@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/19 20:32",
+  "updated_tw": "06/20 03:16",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -36,8 +36,8 @@
   "us": {
     "NVDA": {
       "price": 210.69,
-      "change": 3.28,
-      "changePercent": 1.5814
+      "change": 6.04,
+      "changePercent": 2.9514
     },
     "AAPL": {
       "price": 298.01,
@@ -46,8 +46,8 @@
     },
     "TSLA": {
       "price": 400.49,
-      "change": -4.17,
-      "changePercent": -1.0305
+      "change": 4.11,
+      "changePercent": 1.0369
     },
     "QQQ": {
       "price": 740.62,
@@ -72,50 +72,58 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62455.99,
-      "change": -440.4827,
-      "changePercent": -0.7003
+      "price": 62989.65,
+      "change": -1428.7953,
+      "changePercent": -2.218
     },
     "ETH": {
-      "price": 1686.51,
-      "change": -61.3755,
-      "changePercent": -3.5114
+      "price": 1700.23,
+      "change": -47.6555,
+      "changePercent": -2.7265
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.595,
-      "change": -0.0434,
-      "changePercent": -0.1372
+      "price": 31.622,
+      "change": -0.0164,
+      "changePercent": -0.0518
     },
     "JPYTWD": {
-      "price": 0.1937,
-      "change": -0.0033,
-      "changePercent": -1.6636
+      "price": 0.1939,
+      "change": -0.0031,
+      "changePercent": -1.5621
     },
     "EURTWD": {
-      "price": 36.269,
-      "change": -0.1346,
-      "changePercent": -0.3698
+      "price": 36.341,
+      "change": -0.0626,
+      "changePercent": -0.1721
     },
     "CNYTWD": {
-      "price": 4.678,
+      "price": 4.6789,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4173.3,
-    "twd": 4239.0,
-    "tael": 158972.0,
-    "twdTotal": 131855.0,
-    "changePercent": -1.2026
+    "usd": 4172.9,
+    "twd": 4242.0,
+    "tael": 159092.0,
+    "twdTotal": 131955.0,
+    "changePercent": -1.2121
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "台灣的黃金五年來了？總經學家揭5大原因：可能會開始生孩 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPaHhxb3kwbVo2TmtlYmRueGJ1ZWFxUnNmM2NXR0c5ZmhfRzNwRlRPSmszb204V2I5b2lvWnpRWWdVOU9EM1BNeUdQWi05TjBmN3FpaHFUREVWVkQ5Q3JCMzk1aHZKWWl0dGh2RVo4dW5OcGRoZjhkdGQ0V0hQWElQM2lEX3l0TmVlb05neFA4NUVsTW5jSGtJWVFxVXRSNlhDN0dfNXgxU1BMSlFYR0ZOREVwdjc1VmM1U2xaa09LQkxEUVFSY0duM1dPSG5ldERHUmZkODlxME9zVmphb1FZb2FLWTkta1RhMXlubzE0NjNhUmpqYlpYVEg5aHhxQ1djeEZyM1ZSZ2M1emFxTk9qUUlmWnV6VEl3clBOVjlReUt6RkRSeFBlV0FtMnhwV2dURTJzN3ppQldmUW1Sc08zYjhZdXVGNVZpcXU2OFV5RE1Cd1VLWjg4QTdMZ0ItY2dpRUZxTTBWaVdUZzF1a2lWN0xkQVg5ZTlMcjdvR3BJaw?oc=5"
+    },
+    {
+      "title": "黃金又出事了！瑞士1聲明 金價狂瀉逾2％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MenF2REl6Yk9nNm0zMmJjZG01Nm9jMlg4UE1qLU1JTHdPNHkzX0RYSVprQmtVdTdDamlPcjUxX3NkZUVTUzJHZkNFOGlfaHp6T3Ftc3d4ak5DVU5mQkNj0gFkQVVfeXFMUDlRTnprQ3J1M1IyekVJZ21nbnVYblZiYkt0V3NVM0NNYW9GNGlEcjR6eXczaWlOYjBUaGV2U1gyY0JsSHhkUDlXaVhUUXZQR3FmTkZIaEdPd0ZjRzVwR2E2elVkRA?oc=5"
+    },
     {
       "title": "美股危險了？華爾街警告：美國經濟結構失衡、私部門放緩恐引發股市震盪風險 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUc05SU0wtVndHelF6VU5fQ0hSSjgwSG9oVEFMbmtRQ1ZDRVdPcXRzQWgwRzc3OTA4UnJ2bHNmYjJ6ai1LbkpHS3ZpVTFjTlU?oc=5"
@@ -125,16 +133,8 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wTElNRU94d005WGFraHBPUGx5Y01VOWQ5a1V1cFh2ZzIwa1NWRDZOUmk0WUFQOEdvR05jWTJST0FnQnI5NjNobnptVFRUTTdnOEp6LTZma2pEd9IBX0FVX3lxTE5Za2FWY1lHemhNWlZkemJ4NFV3RHM2QkhGOEZwSjhTdlFrNS12QzV6bkF2dnFlWHZVT3hsd2NqUDdGdUJlZUxwMUZrVlVZRFZBSkdhMzZLN3JuUXNqWndN?oc=5"
     },
     {
-      "title": "黃金上演「東西方大遷徙」！彭博曝：亞洲這2國正悄悄搬空瑞士金庫 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BQldWSy1FeVdLbkNpRmhqcTYxYWlMejBsdnlCSVdRRDYtYVI5YzhFS1I3alBNVHpZYnkwbWRYc095Wng0YTdnOHJ4TVJTUWlsTHdfbS1BRTZ5bkxRd0Rr0gFkQVVfeXFMTjhmZXczN2lURkdLN1lqTkRYQVVFcGQzVEpYWGhvaUNmdEZibEZYTUhJLVBxQTg5aWg2Z2l4a3d5WldnUTdTTE1vd1ZLVWxaRzJBU1R6WmJ0VUdFdi1RUUJ0clhPaQ?oc=5"
-    },
-    {
-      "title": "美元走強、聯準會鷹派訊號雙重打擊 黃金價格連三週走跌 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNeExaYlJrSGlZdnI5eWJPdjZUM3kyTWJnUHBqZkNYM1hGb2NpMWV3aHByVW5mMjY0Y2pFTUxVb3ZiWWdHeFVLQ25pSGVKUGVzVFJDQTE5RHRldERBSk0tQXhzTDYyNXdLQUZ1cjZHNW1pU3lPQ2cyTzRYeHBfdlAyUExpSTY4OE1FRnFkMnRhazEyWkR5UjljeENWRkU3U0l6RkJHcEVWbnlOVXlUUEUwaUhBV2ktLWs2WTloQVZQUVA3REN2eHhwdkRPTkk4RFZsSnRHa0pzVldMT0VxcWF0QU16eEMwYW9oNnRVU05kaVVSXzdKVWk1TXQ3T2NQT0F0YmtGZ2tSVnNHR0NrUXNPQm4zXzN5NUE2akR0cVcyMElZUEtONWFOdW93QjY4OHdhUGFKWXA5UjRpak5RNmlRN29zd0puZWhKNERVX2Z4SGJFTWQzNGw5WnZ0NWdxU1hra2QzZDdQZjN4SkhTTE9yLUVTMmYzQUNKMGRudkFn?oc=5"
-    },
-    {
-      "title": "「看空選擇權」大爆量！交易員押注：比特幣下探 5.2 萬美元 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jV3lvSTRTMTQwQml0SWFqYnd3dTZQRE1aRUtwbi1fYTgyU2xLVnJxcDJSTmxPbHUxN0xvdDd4VjNxekRpbVpNMzY0Z0ZRb1pMQU1zZjI4M0NNbDFXcDVuRTdGRVNBSWxaZ1Jvc0NVS1NyS21KNHRCRk8yN3c?oc=5"
+      "title": "高盛大砍黃金年末目標價至4900，美聯儲年內降息預期清零 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDFqRDk1NUVEaVhmeHdkeGgyRVN2a19XczVKTHktbF9HZmFKaFFuZ3ZzN1AwVXBwNXlvbEhIMFY5MXltSGpHQi1RZVFRZm5Wb1pwVlhmd210c19pbHBwMFdtTjRZRXByUWlKUjA4UDdYaFM1YWlxenkzNHpYVWdnM0dMWkhYdlFUaGFkaGgxaWVIcHBZTmtsQXdnNk9kbzcz?oc=5"
     },
     {
       "title": "台股端午連假前再創新高點 市值逼近香港全球第4大寶座 - 公視新聞網PNN",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44dU5zVGozQ2FOUDdZQ3AzSHVPczV0VU9nb0FPNzhTZldYX1I1OFVzTHpZYmlObzU4M0ViaXlKUEhGSk1aeTktb0w1SThEZVk?oc=5"
     },
     {
-      "title": "台股再創高 操盤人近期反手買超這10檔 | 市場焦點 | 證券 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fYmxKRHoyVmx4Z2VxNlI3UW1ZMTByX1FvRWVkQVR0SUtmLXU2NXdSLUE4ZkZ3MFZ6TjJGQlM3Y3huWmlVNlZRV21aOEZVNkVzaVNXYlc2QzhEZw?oc=5"
+      "title": "黃金上演「東西方大遷徙」！彭博曝：亞洲這2國正悄悄搬空瑞士金庫 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BQldWSy1FeVdLbkNpRmhqcTYxYWlMejBsdnlCSVdRRDYtYVI5YzhFS1I3alBNVHpZYnkwbWRYc095Wng0YTdnOHJ4TVJTUWlsTHdfbS1BRTZ5bkxRd0Rr0gFkQVVfeXFMTjhmZXczN2lURkdLN1lqTkRYQVVFcGQzVEpYWGhvaUNmdEZibEZYTUhJLVBxQTg5aWg2Z2l4a3d5WldnUTdTTE1vd1ZLVWxaRzJBU1R6WmJ0VUdFdi1RUUJ0clhPaQ?oc=5"
     }
   ]
 }
