@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/20 03:16",
+  "updated_tw": "06/20 06:39",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,43 +72,43 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62989.65,
-      "change": -1428.7953,
-      "changePercent": -2.218
+      "price": 63163.57,
+      "change": -1254.8753,
+      "changePercent": -1.948
     },
     "ETH": {
-      "price": 1700.23,
-      "change": -47.6555,
-      "changePercent": -2.7265
+      "price": 1704.77,
+      "change": -43.1155,
+      "changePercent": -2.4667
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.622,
-      "change": -0.0164,
-      "changePercent": -0.0518
+      "price": 31.67,
+      "change": 0.0341,
+      "changePercent": 0.1078
     },
     "JPYTWD": {
-      "price": 0.1939,
-      "change": -0.0031,
-      "changePercent": -1.5621
+      "price": 0.1941,
+      "change": -0.002,
+      "changePercent": -1.037
     },
     "EURTWD": {
-      "price": 36.341,
-      "change": -0.0626,
-      "changePercent": -0.1721
+      "price": 36.367,
+      "change": 0.1181,
+      "changePercent": 0.3257
     },
     "CNYTWD": {
-      "price": 4.6789,
+      "price": 4.6858,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
     "usd": 4172.9,
-    "twd": 4242.0,
-    "tael": 159092.0,
-    "twdTotal": 131955.0,
+    "twd": 4249.0,
+    "tael": 159334.0,
+    "twdTotal": 132156.0,
     "changePercent": -1.2121
   },
   "fed": {
@@ -117,32 +117,32 @@
   },
   "news": [
     {
-      "title": "台灣的黃金五年來了？總經學家揭5大原因：可能會開始生孩 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPaHhxb3kwbVo2TmtlYmRueGJ1ZWFxUnNmM2NXR0c5ZmhfRzNwRlRPSmszb204V2I5b2lvWnpRWWdVOU9EM1BNeUdQWi05TjBmN3FpaHFUREVWVkQ5Q3JCMzk1aHZKWWl0dGh2RVo4dW5OcGRoZjhkdGQ0V0hQWElQM2lEX3l0TmVlb05neFA4NUVsTW5jSGtJWVFxVXRSNlhDN0dfNXgxU1BMSlFYR0ZOREVwdjc1VmM1U2xaa09LQkxEUVFSY0duM1dPSG5ldERHUmZkODlxME9zVmphb1FZb2FLWTkta1RhMXlubzE0NjNhUmpqYlpYVEg5aHhxQ1djeEZyM1ZSZ2M1emFxTk9qUUlmWnV6VEl3clBOVjlReUt6RkRSeFBlV0FtMnhwV2dURTJzN3ppQldmUW1Sc08zYjhZdXVGNVZpcXU2OFV5RE1Cd1VLWjg4QTdMZ0ItY2dpRUZxTTBWaVdUZzF1a2lWN0xkQVg5ZTlMcjdvR3BJaw?oc=5"
-    },
-    {
       "title": "黃金又出事了！瑞士1聲明 金價狂瀉逾2％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MenF2REl6Yk9nNm0zMmJjZG01Nm9jMlg4UE1qLU1JTHdPNHkzX0RYSVprQmtVdTdDamlPcjUxX3NkZUVTUzJHZkNFOGlfaHp6T3Ftc3d4ak5DVU5mQkNj0gFkQVVfeXFMUDlRTnprQ3J1M1IyekVJZ21nbnVYblZiYkt0V3NVM0NNYW9GNGlEcjR6eXczaWlOYjBUaGV2U1gyY0JsSHhkUDlXaVhUUXZQR3FmTkZIaEdPd0ZjRzVwR2E2elVkRA?oc=5"
+    },
+    {
+      "title": "台灣的黃金五年來了？總經學家揭5大原因：可能會開始生孩 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPaHhxb3kwbVo2TmtlYmRueGJ1ZWFxUnNmM2NXR0c5ZmhfRzNwRlRPSmszb204V2I5b2lvWnpRWWdVOU9EM1BNeUdQWi05TjBmN3FpaHFUREVWVkQ5Q3JCMzk1aHZKWWl0dGh2RVo4dW5OcGRoZjhkdGQ0V0hQWElQM2lEX3l0TmVlb05neFA4NUVsTW5jSGtJWVFxVXRSNlhDN0dfNXgxU1BMSlFYR0ZOREVwdjc1VmM1U2xaa09LQkxEUVFSY0duM1dPSG5ldERHUmZkODlxME9zVmphb1FZb2FLWTkta1RhMXlubzE0NjNhUmpqYlpYVEg5aHhxQ1djeEZyM1ZSZ2M1emFxTk9qUUlmWnV6VEl3clBOVjlReUt6RkRSeFBlV0FtMnhwV2dURTJzN3ppQldmUW1Sc08zYjhZdXVGNVZpcXU2OFV5RE1Cd1VLWjg4QTdMZ0ItY2dpRUZxTTBWaVdUZzF1a2lWN0xkQVg5ZTlMcjdvR3BJaw?oc=5"
     },
     {
       "title": "美股危險了？華爾街警告：美國經濟結構失衡、私部門放緩恐引發股市震盪風險 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUc05SU0wtVndHelF6VU5fQ0hSSjgwSG9oVEFMbmtRQ1ZDRVdPcXRzQWgwRzc3OTA4UnJ2bHNmYjJ6ai1LbkpHS3ZpVTFjTlU?oc=5"
     },
     {
-      "title": "美股今休市！六月節登場 紐約證交所、那斯達克暫停交易 債市也關閉 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wTElNRU94d005WGFraHBPUGx5Y01VOWQ5a1V1cFh2ZzIwa1NWRDZOUmk0WUFQOEdvR05jWTJST0FnQnI5NjNobnptVFRUTTdnOEp6LTZma2pEd9IBX0FVX3lxTE5Za2FWY1lHemhNWlZkemJ4NFV3RHM2QkhGOEZwSjhTdlFrNS12QzV6bkF2dnFlWHZVT3hsd2NqUDdGdUJlZUxwMUZrVlVZRFZBSkdhMzZLN3JuUXNqWndN?oc=5"
+      "title": "股息、庫藏股、ETF挹注台股活水 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xbWxoM3pFb1d5NmpnR2VVeTM4U3dXWDZpSDczRE5pQzVYdVZJcjRMMXhGbnRIYkdwWTFXcmxEcWdJcDN5eXBOZUtJanR6dDdt0gFWQVVfeXFMTWZrYjJvZFktaXl6U3RZU0J4VWp3bzJBRV9LWHFDc3d6cG9nNGg0QmF2bDlVRGdxQ1lEMmQtbmU3SVJnc2I3eWZ4bW1Pa1hsNFVEUUQ2SkE?oc=5"
     },
     {
       "title": "高盛大砍黃金年末目標價至4900，美聯儲年內降息預期清零 - capitalfutures.com.tw",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDFqRDk1NUVEaVhmeHdkeGgyRVN2a19XczVKTHktbF9HZmFKaFFuZ3ZzN1AwVXBwNXlvbEhIMFY5MXltSGpHQi1RZVFRZm5Wb1pwVlhmd210c19pbHBwMFdtTjRZRXByUWlKUjA4UDdYaFM1YWlxenkzNHpYVWdnM0dMWkhYdlFUaGFkaGgxaWVIcHBZTmtsQXdnNk9kbzcz?oc=5"
     },
     {
-      "title": "台股端午連假前再創新高點 市值逼近香港全球第4大寶座 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85OXlMRUs5cnNLeXY4ZzYzTEIyYkoyTU0xdTBfYjdqZndlT2tOeklTYUZERWMtMTFaalFwOFVLMmJpX3NYaXVXNUlQUGx3MTQ?oc=5"
+      "title": "台股節後攻高…六利多助威 可分批布局績優股 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mUm1CS3N2WHRMazJLQXBjSzlCS2RNY3doLW00SVhlV3ZTLUtJMnVTZC15QW1MUm5lYlVhWnVTQ3YwM0JyRjdJNm9SLWs1WGlI0gFWQVVfeXFMUFVaaGZ3d1U3ZU5xaVRHSXIxR0RXNnlacW1EMXJsY2pTUUhPUXUtcVNzMFdLT1dxcFlMRmQySTZuZDNuQkhFVmV4RXQ0Q0hfenBjWmttSWc?oc=5"
     },
     {
-      "title": "〈美股盤後〉美伊和平協議提振 費半飆超6% 英特爾暴漲超10% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44dU5zVGozQ2FOUDdZQ3AzSHVPczV0VU9nb0FPNzhTZldYX1I1OFVzTHpZYmlObzU4M0ViaXlKUEhGSk1aeTktb0w1SThEZVk?oc=5"
+      "title": "美元走強、聯準會鷹派訊號雙重打擊 黃金價格連三週走跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNeExaYlJrSGlZdnI5eWJPdjZUM3kyTWJnUHBqZkNYM1hGb2NpMWV3aHByVW5mMjY0Y2pFTUxVb3ZiWWdHeFVLQ25pSGVKUGVzVFJDQTE5RHRldERBSk0tQXhzTDYyNXdLQUZ1cjZHNW1pU3lPQ2cyTzRYeHBfdlAyUExpSTY4OE1FRnFkMnRhazEyWkR5UjljeENWRkU3U0l6RkJHcEVWbnlOVXlUUEUwaUhBV2ktLWs2WTloQVZQUVA3REN2eHhwdkRPTkk4RFZsSnRHa0pzVldMT0VxcWF0QU16eEMwYW9oNnRVU05kaVVSXzdKVWk1TXQ3T2NQT0F0YmtGZ2tSVnNHR0NrUXNPQm4zXzN5NUE2akR0cVcyMElZUEtONWFOdW93QjY4OHdhUGFKWXA5UjRpak5RNmlRN29zd0puZWhKNERVX2Z4SGJFTWQzNGw5WnZ0NWdxU1hra2QzZDdQZjN4SkhTTE9yLUVTMmYzQUNKMGRudkFn?oc=5"
     },
     {
       "title": "黃金上演「東西方大遷徙」！彭博曝：亞洲這2國正悄悄搬空瑞士金庫 - 自由財經",
