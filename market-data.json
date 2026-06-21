@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/21 18:47",
+  "updated_tw": "06/22 00:57",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64290.48,
-      "change": 50.8042,
-      "changePercent": 0.0791
+      "price": 64073.41,
+      "change": -166.2658,
+      "changePercent": -0.2588
     },
     "ETH": {
-      "price": 1731.04,
-      "change": -8.2614,
-      "changePercent": -0.475
+      "price": 1726.41,
+      "change": -12.8914,
+      "changePercent": -0.7412
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股能上10萬點？專家曝1紀錄：再翻一倍不過分吧 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQdGhrN2FfQ0JwdmwtUllqRVM4U2FIUzZVNG1keFJfVWdrRXBmN0k2OEU4OWVwRmRDcUM1RW56Z0JqX1VoRVdseEVZTVF5UlVJYWlldDZhdHRNYmxudURfUVV3eDdsbEM0MEl0RVRxMGU5ZXdXa2t4MWxPUmNRMGVuWEpZemNhWXZRSzMyclFhY0ZmWm12MU5takVSdHVyQU1oWVc3MElNbzhuY29qVWF5cG5CQXk4T3J2WjUwQlJtM3lXSU9uOW92OVNFZEkyX1hHRGhaWFJHZzRuSzI4ZG15cF90bW9Ca3gyRFNlUFo2UVlZVG90a1hxYm5CdVFRbFBWZFBDTG5EU29adXl4dmtjS2VUQmk4UVZnRzl4U2RXNnRnZGt5Xzc5Qzk0eHJNM1QyS2REc1RtWHdtbms?oc=5"
+      "title": "被動元件關不完！台股新增7檔被「關禁閉」 「矽晶圓三雄2檔」齊聚名單上 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQek01ejFkZmVqUkwxdVZFNWJwOXVFWGJHc0FhSXNkM3dqek1BQU5LSU9RbVZWcU4yVThHMzdRLWduRWdFa3ZnOXpwNGYxLXBKUng3SkROSF9SWUFsS1FMN25ORFNjREstYkNOUjNwcmFGVzJ0VGVmQ1RCaERDZk9JVlg0ejh4dTRYdTB2LWdfNW5SMEV4b2JCVzRFNFF6azBwd2RfanJMUEFaaTN4VkhWSjIwSlF2aTBhNkdTM2Zua0xmR296bjIzbVZ3d2lsSTJpWEpwQlVvMjVPaFhwelZGYmdZMS1tb20tNTlnSnQ5T01KYnY2Wkdid3BiVVpWQWIxdFRBY1Y4TDZlMEs4UEtHbVhRTVdwdXJDWFFBR1F4ZjAyNUluTmdfczFPNndyaFBmbUF3UE9obVJnUW02OGhoZHAyN2RoY1huaUNWcVZXQURLT01tNE83ZzZmY3NOYWlxWllkYXU4bUVMbWF5NmgzUlBpV0xra0FCSUxHaW9LdHpUclNmTWtlb2VVMUg4N200cmVqYmhOdXI1OGpzYk9TNVZVN1htanM?oc=5"
+    },
+    {
+      "title": "幣圈院士：6.19比特幣日 K + 四小時圖深度解析 最新行情分析及操作建議 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRdW5fenJPWEk1ZVNlMEhWVlA5V2U0SV9Yb002V2FYd1U4LW40OFp1THMwYklId05DVk9WUVFjUW9qWUVDbnpZaTdfQQ?oc=5"
     },
     {
       "title": "黃金白銀回檔該買還是賣？羅伯特清崎：技術面醞釀大漲 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15R1BaLXJHWS1Ya2dROFJtZEQ3c1N0bDNEZHhzc19MeXFIMTZYa1ozUmR3SWFLZUdVZ2hFNTNIM0J1YUcyUkp4Uy1oenhWOGN5b3RPRnVzYzN3UEZTN2NJ0gFkQVVfeXFMT2ZrNE53VU5XUUkwR1lTd0JjU1pkeTFxd3JmRnJRemlKQUxGbGZlOVBIUm1xeXBHczg3Y3VDX1A0aWV5d1lqRkRNLW5EVEd4TGpUT0dJYmQtVkxwelhCRTBtdFlZbw?oc=5"
     },
     {
-      "title": "永豐投顧：台股多頭架構完好但籌碼未充分沉澱 指數看44,000至48,000 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yS3BwX0o0SF9aWU9vWWlIQWNGME9ZdWZyVDFOT3Y4UmhPR1loUzdnUFVWRTROZW1CX2dRVmZLLVAwRzVfd0ZHWHJ2WjdTdlhn0gFWQVVfeXFMTThkV2o1ZFRnSDd0cHFDalJ4bmFFbXFYMmtYR3BkbkVwZm1WWldYRm1Qd0ZBeXBNLTJVZ3ZRWV8zSTFMRGZoeDJuejJlV0lkQndNS0JCb3c?oc=5"
+      "title": "台股週一挑戰47000 點！專家揭「這族群」是真正主流 - 三立新聞網SETN.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IblpBeGEwVGRWMHBLbzdyLXVLT2FUcVdUQmtUTmtxcGdJcFZqVDY1TXhVSm84WEN5OXV4Q2JsNHIzRU5oMmtZX0xoM21fZE5WV3E3cURZSETSAV9BVV95cUxNVUJrNDZLbHhQYklsaHhUbm9CVEtyOGNPSS00SmxMZXZ3YlVnUF9kUmYwY0UtNl83WWVGcGdfUS0wMllVc0xjX1ZjcXNubHV1ejdCUnJsR1QtN1QtaTU5SQ?oc=5"
     },
     {
-      "title": "台積電7月法說成風向球！外資示警台股3大整理訊號「主動」選股價值浮現 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KYXh1TFJOeFk3NHM3WDNXbERpMGZEUEFMeHFsZWhqaXNDLXloaHJuYm9wQTlIZzZHaEY3eHp0Z0dwVDZFM3ktOFJxUzRxeTg?oc=5"
+      "title": "端午節後變盤？美伊和談多波折、台股明天開盤會先跌？專家這樣看... - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nSlJVd2tkQnE1cU1kenhSWTRSYVJtWGUtd3NSMzRXWG1MRkxvTGpTQkVFd1huSFQyclVTZkQ1WVhvS0s2em1jOXRhZ05lcEVJZHAxR1dCaDdTQdIBX0FVX3lxTE14ZFlCNm83ZW9qMTJwTkhVUXo4Vk5oMzg2U004ZlBfN2llWllzNzJyU0x5UDBacE1aYjhaS1lMV2NfTTAwSzVGSG1lM3g2aU8tOWFVTnVRU2RtNjlEWm1r?oc=5"
     },
     {
       "title": "台積電ADR飆高助陣台股法人：關注多空變數| 證券 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LWGxhVFJVd3ZkQzFtTnVfZFpVVVBEYnIzX0hUeTFXYjNXcWpYV2VvSzlZQ3pCY2xvSEJHSExCelIxY2RsX2RYQXlFUjZHLXAxX090MzBRa2pJT3BoUEE?oc=5"
     },
     {
-      "title": "台股10萬點不會太久？揭2025至今史詩級翻倍漲 經濟學家：關鍵動能短期不滅 | 李瑋萱 | 新聞 - Storm.mg",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VUkJLc2VMRjAwLUludmFLcUZQbXhQNExMbml2ZkVFbzFVMW5fQjJ5eHUtdG9EODNXa0hHNm4ydnRidTFUck9DcVEwcDh1QQ?oc=5"
+      "title": "Ionic Digital 5月未出售任何BTC，比特币总持仓增至2861枚 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZR2pKZkliM01FSlV0eDhrQlNJeEM2Q3dMby1RdmNHbmhBUlh1QlFXdlBkNDA3SVV2UUg4NWxCa1hNTHJwd2pjdmpQenhpOGtEdkV3blVuMzkwUWhtQkJzQnRMelg3dw?oc=5"
     },
     {
-      "title": "台股站穩46K首迎端午節後考驗　一表看近10年勝率破8成 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ubS1QMDFkZnE4MkltWHJGOEZ1dURrQmNOVXFvX2YwazdMXy1ibzdjOEdSUkpvVVhPUjhHbU9YeEZFMkxxRUJwMXlSdjB6ZUZpQ1HSAW5BVV95cUxPeTFmMlpfRF9xeTJINXplNU1EdDlWVEZ4Z0d4cXNCSm1tVnRxRk1UU2d1T1poTHdoakxwaEJNZTJtam9KWllOOFhlSmFXcmI4OHhVM1BzVUZ2djZ5WnREOWxnbGdibnVJVXN1RVdMUQ?oc=5"
-    },
-    {
-      "title": "Michael Saylor呼吁比特币社区不要因小分歧分裂，应聚焦全球资本涌入的机遇 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fcXc3VjBjT1ZUODRaNVU1MWpYWVRkYk41MzZJVXBTaGxQZ1kwNVc4WU5FZjJaeDFidGZ0ekFUVVNVcE9KVF9ITnZQUGZRWWhxSnFWTGRscmxfdDUtZVhINUxwb3g3UQ?oc=5"
+      "title": "黃金白銀要大漲？《富爸爸》作者揭「1關鍵」該進場 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPWE9vLU51QVFZOGptRE9faURsdXBodUhmZFItaDBkdXhnZEtxMnE2ZmRqVGdBT0VCQkhrODdPVHVObmdkQ19QRjVScEJDZEhHLUNpX18xRm0xejNHc0hGQlB5Ulc0MUhVT0JBNk1KZldBbzZoaVgzeGhVcG5zQzh5Uks2YkFLWVlla29kTVA0UDJpV0QwVkh0UnRSQXVQVGktWUpPampuMXZLYVl0clp4TWk4YVZ4WkNWcHVfZGJ2cXNqc19IdlZRWThRQ3ZfYnJVOWFTWE84M1FIYVVCTy0yQTJuUG96aVphQVFkdGpGMmhfbmZXa1RfcWsyX25GNUZ2cXo3Q3MyUnlUZ2JrVnMteGYyRFJvc1VuMUJTSUV4ZVZObkJ1cnJrY3lfOEVUWU8tTVpSb1ZIai0xQQ?oc=5"
     }
   ]
 }
