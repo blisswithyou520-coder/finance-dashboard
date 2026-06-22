@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/23 00:16",
+  "updated_tw": "06/23 06:28",
   "taiwan": {
     "2330": {
       "price": 2510.0,
-      "change": 125.0,
-      "changePercent": 5.2411
+      "change": 100.0,
+      "changePercent": 4.1494
     },
     "2454": {
       "price": 4465.0,
-      "change": 5.0,
-      "changePercent": 0.1121
+      "change": 75.0,
+      "changePercent": 1.7084
     },
     "2317": {
       "price": 268.5,
-      "change": -3.5,
-      "changePercent": -1.2868
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "0050": {
       "price": 111.15,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 209.64,
-      "change": -1.05,
-      "changePercent": -0.4984
+      "price": 208.65,
+      "change": -2.04,
+      "changePercent": -0.9682
     },
     "AAPL": {
-      "price": 300.725,
-      "change": 2.715,
-      "changePercent": 0.911
+      "price": 297.01,
+      "change": -1.0,
+      "changePercent": -0.3356
     },
     "TSLA": {
-      "price": 407.675,
-      "change": 7.185,
-      "changePercent": 1.7941
+      "price": 405.05,
+      "change": 4.56,
+      "changePercent": 1.1386
     },
     "QQQ": {
-      "price": 736.13,
-      "change": -4.49,
-      "changePercent": -0.6062
+      "price": 737.95,
+      "change": -2.67,
+      "changePercent": -0.3605
     },
     "SPY": {
-      "price": 744.81,
-      "change": -1.93,
-      "changePercent": -0.2585
+      "price": 744.39,
+      "change": -2.35,
+      "changePercent": -0.3147
     },
     "SCHD": {
-      "price": 32.02,
-      "change": 0.16,
-      "changePercent": 0.5022
+      "price": 31.89,
+      "change": 0.03,
+      "changePercent": 0.0942
     },
     "VOO": {
-      "price": 686.565,
-      "change": -1.545,
-      "changePercent": -0.2245
+      "price": 686.1,
+      "change": -2.01,
+      "changePercent": -0.2921
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64604.92,
-      "change": 1367.3809,
-      "changePercent": 2.1623
+      "price": 63963.64,
+      "change": 726.1009,
+      "changePercent": 1.1482
     },
     "ETH": {
-      "price": 1737.68,
-      "change": 33.0994,
-      "changePercent": 1.9418
+      "price": 1723.6,
+      "change": 19.0194,
+      "changePercent": 1.1158
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.634,
-      "change": -0.0019,
-      "changePercent": -0.006
+      "price": 31.649,
+      "change": -0.053,
+      "changePercent": -0.1672
     },
     "JPYTWD": {
-      "price": 0.1936,
-      "change": -0.0025,
-      "changePercent": -1.292
+      "price": 0.1937,
+      "change": -0.0027,
+      "changePercent": -1.3567
     },
     "EURTWD": {
-      "price": 36.189,
-      "change": -0.0599,
-      "changePercent": -0.1654
+      "price": 36.214,
+      "change": -0.1269,
+      "changePercent": -0.3492
     },
     "CNYTWD": {
-      "price": 4.676,
+      "price": 4.6739,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4196.9,
-    "twd": 4268.0,
-    "tael": 160068.0,
-    "twdTotal": 132765.0,
-    "changePercent": -0.6439
+    "usd": 4210.3,
+    "twd": 4284.0,
+    "tael": 160655.0,
+    "twdTotal": 133252.0,
+    "changePercent": -0.3267
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "〈美股早盤〉市場聚焦美伊談判與PCE數據 主要指數小幅走高 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmM2p0QUNYbHdxTkFjeGhfcF9EZ1NPVTZXLWUyNHBDWlV6SE5ZUW1Kc0t5bXhZNDlTUkV4NlhXVUJyNjBGQXlWVmx0YVdrQlk?oc=5"
+      "title": "股市VIP - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1GbEQ1N3dJeFVPd004VmJEN3VWN24zemNSS2dPQ2RYWnY2N2dVN0xfcEIwVFJKdmZ1TFJVUGQ3MG0?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉美解除伊朗石油制裁60天 那指標普收黑 SpaceX遭血洗 美光飆近7% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tNEw2Z1V3YXRKTzJCbEtLLTUwN2RsRXl3cVY2UV91NUVvcFY3YTB3VHpPcGRad3lValI2eEZzclVBRHpVQnBfcWdvMFdkQ1E?oc=5"
     },
     {
       "title": "美股早盤／三大指數變動不大 美光因與Anthropic合作飆逾5% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tMzZkM09jaEt0NWo4bVNQNVVWYWY0Q1RoTjhUaXNqb2haSThJeExiR3J0M29qdGdCNGx6R1pjNHk2bGF6Nk5BS2hZdmFSMi1H?oc=5"
     },
     {
-      "title": "美股盤後｜美國總統川普喊盤Intel，半導體領漲美股走勢 0622｜豐雲學堂 2026 年 06 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNQ2VieC1KckhpWEVDZzMwSGhnTUkycmIzRlhBZV9LLV9MTmVranRIVkMwSjJuYk00QTRMazdJekFMR2FaWFBHclUwRzhtSmlqUno3czVpS0NUMHNVZExnYUt1UUphM25CWmtDaE01Q1p2LVY1T0dKUmlMbWZSMmthQ013RTYtbTI3a3BwVFYtNEstVWttb0ZDYl9kOFdKeE5WaF8wRlk5UmRjVE5tRnJpdVhUcXZ6eElnaXY1NER2YzVBS1QweFlLa0lfaUFSQ1c0T0FoWk84YURoWFJFdWEwRjhoMjNCUWNPYUpjam5MbWthVU9YQTFHckp4YkV3SlcyYzNNNTJwTGltMGhwTkJsbzRKU2xsVW5zWFJDTE1RT1dIQmtfMklVMXBWTWdHTHZhRGkzZUJuSnBPRkdaUEVQN2QySHRXb3RTVlkyQTZJVjRpZjJvRHdMWjVRc01xRnZkSC13anJ5a0ZUczhiWmY2YThibGpOejk0TXB5WHBTSTRXVTlYUWhpbw?oc=5"
-    },
-    {
-      "title": "台積電強勢領軍！台股收47741點創新高 台指期夜盤飆破49000點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOaWFUTDdzclpYNkp0TVBIcDZmRFVidE1DbzBqSmNsRGV3OWlXeFRLVEVjLWZYZHZXZDRrSWNyZlc1TW9wNk1zQ0huWE9kRWhnSFJ4VUppc212VEx6OWpsLWlVLXdTUW5CejkzeTNCQ2pTYzlvTkFMaHZndUhWNEVIbUVGRUEzeXZRcVpCRzhscTN2YVNKU2x0dm4tWUI1aU9xODFsTWNobmhib1AyN2ZveGE3b1VEYUVEZFRELVRUOTZ4dHYzRDJfeXNWXzZjQzZPZ1cwMklLTjFDVzNaUnhCcHk5aVdyX2lTMldfVVFDVHZRU0MyZ1ZkN2Q3a2o3LXluMzJSUF9Hb0FZVGwtRFUxcmJVaFVuOGFxdXNZaTVsOXR6cTFrbndvNS1yS2pCZ1NXSzFFZ2dGTkw3NzR5Q0o2NFRrSGZzLUxfaTdmUGstdUNWM1Q4QV91MHNfRzNsTWtKaEVmazlJWUFfVWJhXzNCZ3Bqcw?oc=5"
-    },
-    {
       "title": "黃金大魔王揮拳！大摩直言：少了「這關鍵」金主 金價難回5字頭 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NSEtBR3p5MkVVdlFWQkw5WV9DV25wZDJzUEU1b0hvYnJKWUJMS1ZKQlVDVUd4OTJDOENQRjdSM1gxT2stX1p5NElCcjBxa3A4bFNmNS1keXl6UWZhVGlv0gFkQVVfeXFMTXhfTktZd3dFdG05U0VjdlV0R0hNTmNjM3hwd0N3Sy1QZWJKLUVrZFRpNGl6dld0cmt2WXFJN3g5R1lwaHpjcDRVUEN0VDVlQllYY0kwZDRRRDB3LS01NF90djk1Uw?oc=5"
     },
     {
-      "title": "【即時新聞】滿手現金未必好！這3檔美股面臨營收停滯與高估值風險，小心拉回 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUjJxNG8tdmtYV0tYVE43TkdORl91M1dmMC1TbmR5RmlHUWRzZnVickYyUzhmcFk5aXVPdmc1NXlVODJmRWRLQU9WTUU0UE5HZXdwZDBEWGRYdi1nOWJXYUtYNE1oa2ZZVHl1OWNnSzhUQm9ZYXEzV3RJM2Y4eEdTSGRkUV9OcnZ6ZXJSY2lGSWI?oc=5"
+      "title": "多頭續攻66檔台股ETF創高- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LVEN2UHpxMTQ2clllVi1YbnJ2cFpBNjROTzU1LWdRYWFiVHVJalhmSGM1M1lGb2NzU19FTVl6UFJ6QkcySHNlWWlvY01BYVVTUnRfc0l1cDBTclg1Z2Rv?oc=5"
     },
     {
-      "title": "美股牛市的命運取決於「期中選舉」和「伊朗」！美銀警告：美元、美債與股市恐三殺 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxbGZWdUZZc09wZVZqbmlPU2s5Rm9hLWxTclFBTFEtcDBIT3pkUlRVOWx2V0d6ZUZfQ1BMOUFadk4wb3YxSjFhZnZNUGt5cWc?oc=5"
+      "title": "台股衝47K！聯電、英特爾研發3奈米　點名記憶體「這2檔」低位階補漲 - 三立新聞網SETN.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YWnlfUEw1NWRrclZvNHVQdV83MmlFRjVEckdibGYyQWVhWGZwUUplZnVtLU92VW1FVVNJMVY4YUVRZXhtc0Y1a2U4ZFNndDRrcWhqV3o3UXjSAV9BVV95cUxNbEszZ1lQTnk4bmJOc0RkSEFYZnlnZWFNTXN3dzRoMzBnWlQybzR4QVVzTTk2VlAxLUt6SHNBYVVlY211SjMxd3hDaHcxVWtpTHNUZUJuU05SQnZ5ZS1fWQ?oc=5"
     },
     {
-      "title": "美股三大指數創新高 本週聚焦美光財報與中東情勢 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOdk95OVdrRU1jN3oxMlI3d3p2ZUx6emVyRl9WV2cwWkUxNHM1a2xEWWRRaU5KTzV5Y2FVTWFNZ2tKLXdiOHRGRjRSVzBUVTcxRDhzcFYwbEUtcW53M1J6eG0wWUpkY091eUZoaEhvcDFVTVhWckVMVVNhR0tfR2E0Q0dLN2N5YUdkVHBCM2lIUmM0M3ZYSzhQc2ZNd28zamx4N09MWVlGeW5RYmwzVG0wajdEWnZKMlpYNVRtQ3JaT254WkhHdlNZdmpSN2hBdktJMXZtTE9Cak14YmNMaHdVNnowU1I5UWpJZjhCa0ZlcWhtWlpLZXdrVjBSc2JsRDZzTjI1cEJjX1pMVzJ5TFJSVGRXUldvclZKU2Q3Smc5ZFYtazhEWjV2LVRrU2E5ZHBCUkpaNlh1T1YxNnpDMTlTVExHU3pEckx6UkgwTnVwMEE4V3V2Qlo4TXZXc0tBSVFHdzQ4bg?oc=5"
+      "title": "〈美股早盤〉市場聚焦美伊談判與PCE數據 主要指數小幅走高 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmM2p0QUNYbHdxTkFjeGhfcF9EZ1NPVTZXLWUyNHBDWlV6SE5ZUW1Kc0t5bXhZNDlTUkV4NlhXVUJyNjBGQXlWVmx0YVdrQlk?oc=5"
+    },
+    {
+      "title": "快訊／美伊首輪談判落幕！美股開盤3大指數漲、台指期夜盤突破49000點 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOMjFiZDFTTlluZlozQTFYREtnNE1NaFJDX2ZlYnpGSkJNOXpBb2FyUmo4dk5NeHZmeXQ2Y0ZJOG1oaHRnR2stQ1hZbkVuTnctVVhmcnF0emJWaDNKeTN5QmJQSDFfQ1FwaDZNM2daRnNsVFVkTWJnYU9PcjQ1eFBxTC1mTWRIT3RiUFd0OUh6M1dMazRIWHZKbWhXTDk4S01NVEdEb1NIanRfcXBKY1VVcFV2cHlYMVhRX0hKbzA0Rk9jMTZEQjllRWh3ZEpsT2ZiQTRsRU5TRWhsNlIzb0xneDEtSGIyNGE1azA3cXh4YkVRTUM0S0FiLUZrNWEybzFHcWJHTnZ2a0VsRGI4OEg3Q0kzYlBVOFdXYXBnWmV6YTUtTGphVWFBQ2pVdi16aVN3NzY0eVcyLXZnd0gwOWdfekJpUjluX01sckJ6ZnhBTUd3TjVJNk5JZUtTanlta0lCalVrbFNxdjhkSVI1akhMNlJzVlcxMzdLeS10NnFpQ2ZMblhER0h3VlF4dGlXajY1SFB3UDFvZw?oc=5"
     }
   ]
 }
