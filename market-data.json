@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/23 06:28",
+  "updated_tw": "06/23 18:48",
   "taiwan": {
     "2330": {
-      "price": 2510.0,
-      "change": 100.0,
-      "changePercent": 4.1494
+      "price": 2490.0,
+      "change": -20.0,
+      "changePercent": -0.7968
     },
     "2454": {
-      "price": 4465.0,
-      "change": 75.0,
-      "changePercent": 1.7084
+      "price": 4535.0,
+      "change": 70.0,
+      "changePercent": 1.5677
     },
     "2317": {
-      "price": 268.5,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 259.5,
+      "change": -9.0,
+      "changePercent": -3.352
     },
     "0050": {
-      "price": 111.15,
-      "change": 3.85,
-      "changePercent": 3.5881
+      "price": 110.1,
+      "change": -1.05,
+      "changePercent": -0.9447
     },
     "00878": {
-      "price": 34.12,
-      "change": 0.45,
-      "changePercent": 1.3365
+      "price": 33.98,
+      "change": -0.14,
+      "changePercent": -0.4103
     },
     "00919": {
-      "price": 30.8,
-      "change": -0.01,
-      "changePercent": -0.0325
+      "price": 30.58,
+      "change": -0.22,
+      "changePercent": -0.7143
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63963.64,
-      "change": 726.1009,
-      "changePercent": 1.1482
+      "price": 62209.91,
+      "change": -1742.1955,
+      "changePercent": -2.7242
     },
     "ETH": {
-      "price": 1723.6,
-      "change": 19.0194,
-      "changePercent": 1.1158
+      "price": 1649.05,
+      "change": -77.4609,
+      "changePercent": -4.4866
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.649,
-      "change": -0.053,
-      "changePercent": -0.1672
+      "price": 31.629,
+      "change": -0.073,
+      "changePercent": -0.2303
     },
     "JPYTWD": {
-      "price": 0.1937,
-      "change": -0.0027,
-      "changePercent": -1.3567
+      "price": 0.1938,
+      "change": -0.0026,
+      "changePercent": -1.3057
     },
     "EURTWD": {
-      "price": 36.214,
-      "change": -0.1269,
-      "changePercent": -0.3492
+      "price": 36.128,
+      "change": -0.2129,
+      "changePercent": -0.5859
     },
     "CNYTWD": {
-      "price": 4.6739,
+      "price": 4.6701,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4210.3,
-    "twd": 4284.0,
-    "tael": 160655.0,
-    "twdTotal": 133252.0,
-    "changePercent": -0.3267
+    "usd": 4145.9,
+    "twd": 4216.0,
+    "tael": 158098.0,
+    "twdTotal": 131131.0,
+    "changePercent": -0.8609
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "股市VIP - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1GbEQ1N3dJeFVPd004VmJEN3VWN24zemNSS2dPQ2RYWnY2N2dVN0xfcEIwVFJKdmZ1TFJVUGQ3MG0?oc=5"
+      "title": "美股恐重摔40%？巨型IPO抽資效應發酵 專家示警：市值恐蒸發1兆美元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQSEZPQlVXWS1mVC16akJVTVVLLTZJTVpPX3ZJMDRfVVY5NEpuX3gxcnpQZk9yZjU1WEpjRmNKMzlQWUVyd2Vhdk40Rlhhak92d2JacDNRdl9JNHE3a19zOEdKSHJoZGd3LXlESHFveUxBZzdRbGdaZTRlay02VWRjbEw0WWJvTUVUYmF3Wm1MYXFUTDZOZExneWFHbTdldzVCMFpCV1VVdlFmOVJITldTSEtXcXdIQWdQay1oVWFybjBRZmc5c2Q4MWFaVUtfVEwxei1SdmRmWEw2X0xIUHA3b1Z4WUxHOUE4b3JGZXZtRF96emhsYjJOaVhoeHM0NjFCQUpVXzZNZTFFQ3hxMGMyVFk2dHlrOFBubWpfN21TSnVEZzNMbUFBc3RmTlNYOURvcXFHZGEwMDdiNDlaNWxFa3p3T0RRbV9lb205aDlQLXNZalp2U0lhRWVkM3VSUHZpUlNZSG5oaEJMS0doRmVUdEduMkliTWkzbjlzeDlQRkQ5Unlxb3NRalBHVVdQZ0V5UkRz?oc=5"
     },
     {
-      "title": "〈美股盤後〉美解除伊朗石油制裁60天 那指標普收黑 SpaceX遭血洗 美光飆近7% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tNEw2Z1V3YXRKTzJCbEtLLTUwN2RsRXl3cVY2UV91NUVvcFY3YTB3VHpPcGRad3lValI2eEZzclVBRHpVQnBfcWdvMFdkQ1E?oc=5"
+      "title": "【0622台股盤前】FOMC 釋偏鷹訊號！台美股上週五休市後尋求高檔支撐，「外本比排行」:鈞寶(6155)、鼎元2426、臺慶科(3357)｜豐雲學堂2026 年 06 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMizgRBVV95cUxNeTRuNEpvaEh1Nk9QNDhxLWdhR3puNHJHcU1vdWhwNmhuZWR0VzBPQWM5TGlSMncxMzNMVGNTX0hiZ0NBbXZuU2Rfa2VpZ09Hck02OXpHRndfckxhQXQ4Ykd2bWFWREJhekthUUpFYUo2alIyZjdLT2JxQ0Q2dERDV2p1aXdfOEJQRVJlNHE5T0k1bzdnQUxDR0N3aWJDckN1a3FRa3pXeG1icENGSFpEeUdkU3ViNGoyckVteDVyQVZHOXo2a0VJaFc2a2dSVkhXaTczcThGNUhSQ1Fydlo5OXRqakFBb2I0RUd2aWdKT0FCZmNacHkwbG1DSUoyeDRsRW4yd0U4eU5sbVh3bFlOSmQwdU9qU256TFB6Z1JzTEY5TDlKUjJfbGIzNVhBTjByNUNJT1JIZVE4dHpHTEszZUpIajhJZ3dtdDJ3M3dLa3dSdndvN2YyTjRLS3BoVnhkUkQ1bGVyS2VWcTBSZkdSV2dlTXRtR1lqTTJFY1VqdkowNlNoUDBXWkhXTDNsdjRwMW5JUEhPbjdMYlFVVEV2blJPWEdOeE1HUk8wdVlmd0h1aU1HV01TbkE4STUwNl9wQnE4WE9JRkcxZGhiU1l4MXFaWEpXcUR0Y2RHeTNOZXhmTjJQX1RyRU9zTjA4WXhPTGhseE1oQ2cycTNnY19HU1hENlZ4cEZVRXRJa0o2bFZNRmtQNklCcVozNktJMFVfOGp1TmlzUUlvUHFwaUFrbUlfUm9hS1JmUzZmUG5NeXcxaUYxa2lCOUgyaGtSUQ?oc=5"
     },
     {
-      "title": "美股早盤／三大指數變動不大 美光因與Anthropic合作飆逾5% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tMzZkM09jaEt0NWo4bVNQNVVWYWY0Q1RoTjhUaXNqb2haSThJeExiR3J0M29qdGdCNGx6R1pjNHk2bGF6Nk5BS2hZdmFSMi1H?oc=5"
+      "title": "美股出現6大警報！華爾街大老：投資人須慎防回檔20％風險 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2TWZKckhSQlFVbDRrazVXalZmTm5qRjZqNDNRNGxXQ2VjZjFQeUU4cDJNeF9LdHd2dldqUE9iVldzUjJRRktRLXdhNi1KdFFMWTJkZGd1VlV0SE8xQUY40gFkQVVfeXFMTW01c1FqZHVWMUlQdG5NZTQ3aHEwSGxrOHZYQnl3dDJTLVR2SDBzZGNQcnp6dTl5WXFzRjV3SnB0M0tlT0dpUVk3SVl0SVlsNld1X3VnOU84QU5Vcm1CVFQxT192ag?oc=5"
     },
     {
-      "title": "黃金大魔王揮拳！大摩直言：少了「這關鍵」金主 金價難回5字頭 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NSEtBR3p5MkVVdlFWQkw5WV9DV25wZDJzUEU1b0hvYnJKWUJMS1ZKQlVDVUd4OTJDOENQRjdSM1gxT2stX1p5NElCcjBxa3A4bFNmNS1keXl6UWZhVGlv0gFkQVVfeXFMTXhfTktZd3dFdG05U0VjdlV0R0hNTmNjM3hwd0N3Sy1QZWJKLUVrZFRpNGl6dld0cmt2WXFJN3g5R1lwaHpjcDRVUEN0VDVlQllYY0kwZDRRRDB3LS01NF90djk1Uw?oc=5"
+      "title": "美股電子盤、韓股大跌 台指期夜盤早盤閃崩千點 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3aWY4R05IYkViSFVfVWVwT0pwZ2dWZ1NGM2FQMWhuOE1aWFdCM09rcjBsUjQ2UnR6TUs4TjlVZjF3OXhDLUR4bEREVGZ6QTRGa3FaTm4zNHRYUEHSAWBBVV95cUxPV0t1bmlZSGpYOUpCbWs1SXF6RU5hMjg4c0k3VTViX01hbEtDUDBMWVdjNjVjVFJmZVNRaXZ0b0h0ZTZuQU1pbGxFS2hjNlRuREVzQ25Yd25VUExXaXFXR0o?oc=5"
     },
     {
-      "title": "多頭續攻66檔台股ETF創高- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LVEN2UHpxMTQ2clllVi1YbnJ2cFpBNjROTzU1LWdRYWFiVHVJalhmSGM1M1lGb2NzU19FTVl6UFJ6QkcySHNlWWlvY01BYVVTUnRfc0l1cDBTclg1Z2Rv?oc=5"
+      "title": "美股恐跌近40%？經濟學家警告：巨型IPO抽資效應恐使股市蒸發1兆美元 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NSjMtY3VlbFJkc0ZGU2ZBREdqOWxuenVlNEN3YVUyd2ZPZ1J6THYyancxNDFqMWlGRHRCa3BjMmxFYTFmN1VLS1UtVzNBUDg?oc=5"
     },
     {
-      "title": "台股衝47K！聯電、英特爾研發3奈米　點名記憶體「這2檔」低位階補漲 - 三立新聞網SETN.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YWnlfUEw1NWRrclZvNHVQdV83MmlFRjVEckdibGYyQWVhWGZwUUplZnVtLU92VW1FVVNJMVY4YUVRZXhtc0Y1a2U4ZFNndDRrcWhqV3o3UXjSAV9BVV95cUxNbEszZ1lQTnk4bmJOc0RkSEFYZnlnZWFNTXN3dzRoMzBnWlQybzR4QVVzTTk2VlAxLUt6SHNBYVVlY211SjMxd3hDaHcxVWtpTHNUZUJuU05SQnZ5ZS1fWQ?oc=5"
+      "title": "快訊／美光美股盤前摔8%　台指期夜盤狂殺1300點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DaVRGYWdMM2lSRWhJYlhodDFfR3dpQXBnRWd2aTBpWEstdHQ2aE10YzR6eGZSZTV1V1Y3cS0xN2JkUzUyMnRPdGd2dXpmS1BDQnfSAW5BVV95cUxOeWRmTmo5YWFxd0NIcHRlc1p2OFlUNjJZUmM2S3FqYUdCazdmM0ppZFhTal9ZOThPS09iRm9tWVhmMFItMzNVeWZnakpJaE9YeFdTZ3JkNGV6dXdCQy11N2RhX0pseFlqZ2p4aDdiQQ?oc=5"
     },
     {
-      "title": "〈美股早盤〉市場聚焦美伊談判與PCE數據 主要指數小幅走高 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmM2p0QUNYbHdxTkFjeGhfcF9EZ1NPVTZXLWUyNHBDWlV6SE5ZUW1Kc0t5bXhZNDlTUkV4NlhXVUJyNjBGQXlWVmx0YVdrQlk?oc=5"
+      "title": "黃金日內崩跌超百美元，4000美元生死線在即？ - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTUVsay1qQ0ZlTGJTRnNKblJXRy1nelVrM2E4eHA1LWlEblRmbUtJYTJmS2VHZmZfaERTTzZVeVdBMjhiRzcxUmtiYkNrWHpVdENNdmctUDdvMmRLem5uN1oyeTIzbGFNOGlNSC1jaDBmUHpadlFXRHNvUGZZeXhpMVVXcEZSMW9TZE84YXJubw?oc=5"
     },
     {
-      "title": "快訊／美伊首輪談判落幕！美股開盤3大指數漲、台指期夜盤突破49000點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOMjFiZDFTTlluZlozQTFYREtnNE1NaFJDX2ZlYnpGSkJNOXpBb2FyUmo4dk5NeHZmeXQ2Y0ZJOG1oaHRnR2stQ1hZbkVuTnctVVhmcnF0emJWaDNKeTN5QmJQSDFfQ1FwaDZNM2daRnNsVFVkTWJnYU9PcjQ1eFBxTC1mTWRIT3RiUFd0OUh6M1dMazRIWHZKbWhXTDk4S01NVEdEb1NIanRfcXBKY1VVcFV2cHlYMVhRX0hKbzA0Rk9jMTZEQjllRWh3ZEpsT2ZiQTRsRU5TRWhsNlIzb0xneDEtSGIyNGE1azA3cXh4YkVRTUM0S0FiLUZrNWEybzFHcWJHTnZ2a0VsRGI4OEg3Q0kzYlBVOFdXYXBnWmV6YTUtTGphVWFBQ2pVdi16aVN3NzY0eVcyLXZnd0gwOWdfekJpUjluX01sckJ6ZnhBTUd3TjVJNk5JZUtTanlta0lCalVrbFNxdjhkSVI1akhMNlJzVlcxMzdLeS10NnFpQ2ZMblhER0h3VlF4dGlXajY1SFB3UDFvZw?oc=5"
+      "title": "利空襲來！美股收盤漲跌互見「道瓊漲148點」 台積電ADR揚升1.2% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQSTVnQ2ZIQVRpemRzSkgxWll6SC14RVl4N0QzSUpzLU1DNGxsLTc1enkwN1JPWDNFUHpmanFYODJMTkpZWGN0WHY1TEtMQllJeGRLZm5SYUxIalVBQWNzbFNRSWJrdE9FcG9lb0lUczRXbkFBMFBvU1hZdTQxYWFGaFFXUDJfZTlyb0JlZDA1RmJqOG4ydC04RTVQVUw0LXJUVnNZaEhkZEV3emJMc2QtSGRYWDAxVmhrZF9OaHk1bjg1TTNhX2FSajQxM0I5S216eHg0R1huUHE2OVMwRjBsejBoOVJpbWtEdWlDZjlwTXhMNFNfTy04cV9MSlB0TWoxdjdYZEpoZUhObC05RFd0NVMzMUkwOFNPZ05GUGdsVDFYVjZ4MlM5Yl9lN1JzZEdkd3QzbFZEODNZdGgyU2l4OHp2VXhoeWtZeHk1U2swY1JweEdwcVlkMTB4Q2pmZnJ5RFhJMy11UQ?oc=5"
     }
   ]
 }
