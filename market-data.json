@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/24 06:08",
+  "updated_tw": "06/24 18:29",
   "taiwan": {
     "2330": {
-      "price": 2490.0,
-      "change": -20.0,
-      "changePercent": -0.7968
+      "price": 2390.0,
+      "change": -100.0,
+      "changePercent": -4.0161
     },
     "2454": {
-      "price": 4535.0,
-      "change": 70.0,
-      "changePercent": 1.5677
+      "price": 4285.0,
+      "change": -250.0,
+      "changePercent": -5.5127
     },
     "2317": {
-      "price": 259.5,
-      "change": -9.0,
-      "changePercent": -3.352
+      "price": 256.0,
+      "change": -3.5,
+      "changePercent": -1.3487
     },
     "0050": {
-      "price": 110.1,
-      "change": 2.8,
-      "changePercent": 2.6095
+      "price": 107.15,
+      "change": -2.95,
+      "changePercent": -2.6794
     },
     "00878": {
-      "price": 33.98,
-      "change": 0.31,
-      "changePercent": 0.9207
+      "price": 33.66,
+      "change": -0.32,
+      "changePercent": -0.9417
     },
     "00919": {
-      "price": 30.58,
-      "change": -0.23,
-      "changePercent": -0.7465
+      "price": 30.21,
+      "change": -0.37,
+      "changePercent": -1.2099
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62630.02,
-      "change": -1322.0855,
-      "changePercent": -2.0673
+      "price": 62462.41,
+      "change": -205.6095,
+      "changePercent": -0.3281
     },
     "ETH": {
-      "price": 1668.49,
-      "change": -58.0209,
-      "changePercent": -3.3606
+      "price": 1664.1,
+      "change": -1.3368,
+      "changePercent": -0.0803
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.688,
-      "change": 0.001,
-      "changePercent": 0.0032
+      "price": 31.721,
+      "change": 0.034,
+      "changePercent": 0.1073
     },
     "JPYTWD": {
-      "price": 0.1939,
-      "change": -0.0022,
-      "changePercent": -1.1284
+      "price": 0.194,
+      "change": -0.0021,
+      "changePercent": -1.0774
     },
     "EURTWD": {
-      "price": 36.106,
-      "change": -0.1036,
-      "changePercent": -0.286
+      "price": 36.019,
+      "change": -0.1906,
+      "changePercent": -0.5263
     },
     "CNYTWD": {
-      "price": 4.6737,
+      "price": 4.6636,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4129.0,
-    "twd": 4207.0,
-    "tael": 157747.0,
-    "twdTotal": 130840.0,
-    "changePercent": -1.265
+    "usd": 4076.1,
+    "twd": 4157.0,
+    "tael": 155888.0,
+    "twdTotal": 129298.0,
+    "changePercent": -1.3027
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "AI狂潮嗨過頭？華爾街大咖驚揭6大警報 美股最慘恐跌20％ - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPOWpPd2VWQlp2ZU05LXRoRVhUckRnZkluNXN5NzNTZEVIeW82ckI0dVREOWhzT05FNGV2ZEJEaE5zZjZHTnRpZHMzV1BlLU1VczFYb3pmTnpnbzZIUHB5UHdIclpXdXFBUGhJWmhfZEhBRWstZjJzZmFUYkV5ZDJjb2cyVWFNUm5ETjR5Vm1yYTVadHJNdEtiZ3RweURZaGlMWWU3WW5iXzIxd0dubV9OU2FDeTJJNjl3T0UzVGNsLU9XOXR5c3h6Nk1GNjZGZnRXclYxb1hpUDY4bE5IaWlNQ0lNQUdza1Z2QkxaRU01Q0FCOWcwb3dKVzFrSkRhYkk2aGRsMDhDbDRFMktreGRSMm5Ea19xZEUtLThOZ0JsbUstVC0tR3R0MFVOYUlzNzRsYmJkYjdscXBaWWNSakdidW80WlQ2RnA3TGVUbjF3MzNvNkxPRVA2T182dnR4eEpC?oc=5"
+      "title": "全球晶片股重挫釀美股賣壓 那斯達克100指數大跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOeWZvQ1VZOG5IMVdNOEJuWERDOVY1c05fZmhyRlZRdnQ5SDRZblJEOVlBcDRjZmV6TFpsNUtkbzhfVTVzNGZuMGpQcnRpbVZJNzVjanZrdTFzQTlLX3NGVTJaNTcxRVVoUzVsZEZLdzVGTWFwUnF3Y0VmWlBJTHY4U0pVc0ZEVll6dW00QXFJNUJfMHE2RW5HVkVOcmFEZEhFWHhqcTZtUkRwYjlNNTZLSHJGZkptNVlEczRjU01tQTJjdzhHVVZVbDZIQkRVY1RvNjlqNXpUV2ttcWtiX3J6bDlTNHFxektlTnFUTmtTZFZFNkVMY2VTYlI0aVpKTVJjaXpyeDdJQTY3a2FxZzJmM1EzYVdPRTB3VUJ0Vjd2dC1uVXhTZ3lsN0pNaFhlemhES0NoYUtWb1MydnhkQ1llYmJqeWkzdV9hUmNRemdaNWo?oc=5"
     },
     {
-      "title": "〈美股盤後〉獲利了結潮湧現 美光財報前夕暴跌超13% 費半下殺近8% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IQ0dfSUZkUGV3Q1ktTWNGTXRzdjhGY091dnhjXy1hOTNDOVNLVE9sejNCa0MydXpwMWNxVXFtRDZvVHBhckVGY1l6cUR4cDA?oc=5"
+      "title": "美股收盤／費半狂瀉近8% 那指大跌2% 美光帶頭重摔反映AI買盤逆轉| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hOHdFLWVPM21DcEhnaF9odm1kLXExeGY3cVR2TFVMY3E3NkVnZTdaMmhKRXNJTmRWTktBeFJnZzlPc1VWcG13Zmd3b2tCUFFv?oc=5"
     },
     {
-      "title": "美股早盤／升息憂慮罩頂…科技拋售潮未歇 費半挫7%、美光瀉11% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3ZHVVT2JYWlJoNEdyNVViSGMycUxMLV9PWVplV2QwN0d0TkVoVlFPSU13ZkRQeDc3U0dkTDdPajlZYlJEYlFKSFhuQ1UxYTJY?oc=5"
+      "title": "美股上演冰火兩極！川普量子政策點火「這股」狂飆30% 該追高嗎？ - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56RV9hYmNwSTVXelh4V3lvaTU1LWhrUVdPZFVjcnBJMVV3WGtnanhaY1lISlNsTWNweHZFdkxEZkNCNDFYSnprU1FBYkFoOG8?oc=5"
     },
     {
-      "title": "美股要大跌20%趕快逃？華爾街專家警告「6大市場警訊」：典型的逆向投資信號 | 黃振剛 | 新聞 - Storm.mg",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DTkJwZFJteFRHeU5KZEI4X3JJM2FBank5elBKZGI5RUV4Y21NSG14NVlvSnhrb1VCbWtab1dZNWs3bExTY3NSMTBnSHpXQQ?oc=5"
+      "title": "黃金大跌！「這貴金屬」更淒慘 原因揭曉 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JeHdjX2txdVcxZW9zTExaak53LS1GOEIydzNlS3JSUlFRWFFQaUdMRlpjSk05bDV3VkdyYVY2YmZvdkZYWC1CLURzRFYyZmpNa0JaZGE4ZmM3Nzg0OUI00gFkQVVfeXFMUFl4dnFPbUhsZElwX2JWbHYxV2E3cGVQMllLV0swcmtabWZGVDd1VF9NSVlVOHppTnVtYllwUnhPR3BUTzdDQUM1a09yTG56aktaencwemdySmFnRWNkSTludjhCdQ?oc=5"
     },
     {
-      "title": "科技股腥風血雨！美股開盤重挫 SpaceX市值跌破2兆美元 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04RVZVWThpcmJ0QjlpV2czYzdNamNVdUJSeklKRVVsZFBrZmZzc0o0eS1QU1A1NTVLYUFCeHBEWkltYjJzRmk4M0h2WHFqaFl0VGtFa3VIVm1DXzhKSjFV0gFkQVVfeXFMTVpTQ0RtZjhuSi03NThSMGNIU29sSGhYYnIxZWVCcUpMS01BcmNMUEF2X3RDcmQ1NWtrRS02b2hlYm5OYkF0a25YTVl6RlQzX1pkaHlRSC1jVkFYUGU3MXE2dVI2bQ?oc=5"
+      "title": "美股科技股暴跌 VIX卻沒失控？這指標正揭開「AI股壓力鍋」 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KQXd5VWxSZlBFYnNfNDRhTEVJZk9mOW5vbE1TMW5LaVo2RFJIU1p3QTZZNG5WLVFRRDRMaHRXdmZHTjRFekgyc1JETVc3S2RQX0hBZ0FUWnJjbWJPVXZZ?oc=5"
     },
     {
-      "title": "快訊／美股開盤「費半下殺1000點」　台積電ADR也大砍5.58% - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CbEdPT29YanZpT2ZtVDdHT0wxWERGZlRXRS0zV0dzRHA5RF9ReUtxdUQwUU42REdzcnE1N2VWbEIwVTQwTGRPTTFXa0hZZjZpN1HSAW5BVV95cUxQME51cGhxZF93R0VuQmU0M1pVMUJLOWpSbGUtOER1Y3JRX2thc3Myck02V25fLVVqNnAzcWdNU3lsQk44ZHVoM1pqOS0zclJLcFN2alV0NERIanJlZEZhaVo1Z1VyRHNSVnNLUTZXdw?oc=5"
+      "title": "槓桿再槓桿、ETF集體跟單 台股47000點，卻成了新國安危機 - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUajZpODVhTVVTcUN6NXFWenhlSWRHbXpQcVdRejZHNFgyQVZBSTZkUHFrSFZORlBqT0UzczMzclJyTHZvM2dfM05pR0RSZw?oc=5"
     },
     {
-      "title": "記憶體股遭血洗拖累科技股！美股三大指數同步下跌- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52ZXFQOXFrWm1jc1gtVy11bzVERVFKWjRJd2xtNVB4OTJyWS0yWkt0M0ZuenFLZmYtZmE0ZjdfXzk1anFmUS1SaUw2YS1EOVNvNWN3SjYzZ2FsSmhvcnlV?oc=5"
+      "title": "台股重挫千餘點　20檔主動式ETF全贏大盤、00981A力守填息價 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjTV9LMlRRTDBDNGNhNlNOeGx2NnRWYnhSeElvZUExaFF6TElGaVhDVEZuTnBHbVhvOGJLaUVTTEdrOEZSQWRuNTBlVV9OUlFTdFHSAW5BVV95cUxQdUJEMDJaZVAtaUZVU0ZycVdDX1VpaXV3WDdDaVg0algxOUZ5WXBmdUZJQ05jY2lyek54SEVUT0lLdlJUTzBRODhOZURIZUtBcTd5dnVOWm91N2FJcGpDX0g4QVoyQ2VUbEt2VENaUQ?oc=5"
     },
     {
-      "title": "AI估值過高引爆賣壓！全球半導體股慘遭血洗 美股4大指數全倒、台積電ADR重挫 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQODM0WjJpaEh5d1VqQnBzWFg4RXYzZW1ZdU1OQWRoS1NyMXBkRXhHSGpIVXlmbEdFZzhpdE5yYV8zRFBndnJNMEV4WUphVFpDbXhkaHdIWW8zMTdIMC1GNjdLZDFLRmUwSFd0N21rdlpNYkxXcFJ0V3lhcTlWd0JOd1VyVmF1THJvamN3clZVaG5VZGxmdDVoWl96a1JGandSQTFBblA0MmRiY0lXN2dTbkpKcmtuYkcyZ01DNTZ5X0g5Mm9hNXZiMkQzanFlbl8xTVpIMDJ4REVDc3RuQkwwX2Vmdm5DeVptWXpFOWphWno3Rm9Fcm5KYWlkb3lVSUx1NndZOU1hdnRvTWJsLWhXLVZnT2VfY0J2dVpIS21HWmotRi14MV9kMlRIQjZrUW5neVktY01ySWRuUU1HUFYzTzBUWUMzblNrcGN5NFRRaDd0M0g3UE9uc3ZWODFoV2Y5aG1oQXBFYmVrN1d1YWRjYk9rU3ZPNm5PZkhnZ3pzbHlzeTRLcUFIek1Lbm55OXExUVk0RFNtSXFwa2NSODY1LWlXU1hrZXpEZXdNZ0FZR0s4VDlVWG5WS0JYMTJNQjdLTngzd09EYjdKbVJEMGhn?oc=5"
+      "title": "黃金價格走勢預測：金價恐將跌破4000美元，PCE數據成關鍵 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSmt0dEVpTFVRbWN3MmhCcXM0S2RtUFE3UWlWMlNicGdmMkFtd19jSFh6RGtzVlZvM21LT19uRW1MS2VmMWxVYkQxZ2Mwc3F3MHVZeGZhbmhONlJudE90WWY4c0Zmb1ZiN1o1TG9CVEZCVGlMdEhlZ2hBZFUxRkFReXgyaFhDZmw1VnVmcXIxUHh6Vk1Eb0F3UkUtNTVNTzRXYVh1alphdzllOWpRY3gxM0lxTG45SXFPRnpjeGNTZ3k2TDU4UUQ2WTViZ200bDZYSjRuZkV4R3JHUU0?oc=5"
     }
   ]
 }
