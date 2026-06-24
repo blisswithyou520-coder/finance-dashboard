@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/25 01:31",
+  "updated_tw": "06/25 06:03",
   "taiwan": {
     "2330": {
       "price": 2390.0,
-      "change": -120.0,
-      "changePercent": -4.7809
+      "change": -100.0,
+      "changePercent": -4.0161
     },
     "2454": {
       "price": 4285.0,
-      "change": -180.0,
-      "changePercent": -4.0314
+      "change": -250.0,
+      "changePercent": -5.5127
     },
     "2317": {
       "price": 256.0,
-      "change": -12.5,
-      "changePercent": -4.6555
+      "change": -3.5,
+      "changePercent": -1.3487
     },
     "0050": {
       "price": 107.15,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 197.86,
-      "change": -2.18,
-      "changePercent": -1.0898
+      "price": 199.0,
+      "change": -1.04,
+      "changePercent": -0.5199
     },
     "AAPL": {
-      "price": 296.33,
-      "change": 2.03,
-      "changePercent": 0.6898
+      "price": 293.08,
+      "change": -1.22,
+      "changePercent": -0.4145
     },
     "TSLA": {
-      "price": 375.15,
-      "change": -6.46,
-      "changePercent": -1.6928
+      "price": 375.53,
+      "change": -6.08,
+      "changePercent": -1.5932
     },
     "QQQ": {
-      "price": 707.86,
-      "change": -5.79,
-      "changePercent": -0.8113
+      "price": 710.62,
+      "change": -3.03,
+      "changePercent": -0.4246
     },
     "SPY": {
-      "price": 732.065,
-      "change": -1.515,
-      "changePercent": -0.2065
+      "price": 733.24,
+      "change": -0.34,
+      "changePercent": -0.0464
     },
     "SCHD": {
-      "price": 31.645,
-      "change": -0.375,
-      "changePercent": -1.1711
+      "price": 31.72,
+      "change": -0.3,
+      "changePercent": -0.9369
     },
     "VOO": {
-      "price": 674.94,
-      "change": -1.4,
-      "changePercent": -0.207
+      "price": 675.69,
+      "change": -0.65,
+      "changePercent": -0.0961
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59512.01,
-      "change": -3156.0095,
-      "changePercent": -5.0361
+      "price": 61012.06,
+      "change": -1655.9595,
+      "changePercent": -2.6424
     },
     "ETH": {
-      "price": 1572.21,
-      "change": -93.2268,
-      "changePercent": -5.5977
+      "price": 1621.9,
+      "change": -43.5368,
+      "changePercent": -2.6141
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.754,
-      "change": 0.067,
-      "changePercent": 0.2114
+      "price": 31.799,
+      "change": 0.0969,
+      "changePercent": 0.3057
     },
     "JPYTWD": {
-      "price": 0.1941,
-      "change": -0.002,
-      "changePercent": -1.0265
+      "price": 0.1944,
+      "change": -0.0018,
+      "changePercent": -0.9023
     },
     "EURTWD": {
-      "price": 36.089,
-      "change": -0.1206,
-      "changePercent": -0.333
+      "price": 36.155,
+      "change": 0.0811,
+      "changePercent": 0.2248
     },
     "CNYTWD": {
-      "price": 4.6667,
+      "price": 4.6759,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4014.7,
-    "twd": 4099.0,
-    "tael": 153700.0,
-    "twdTotal": 127483.0,
-    "changePercent": -2.7894
+    "usd": 4016.4,
+    "twd": 4106.0,
+    "tael": 153983.0,
+    "twdTotal": 127718.0,
+    "changePercent": -2.7482
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPSTdpeWE1SFhCOW9YRlcxWS15UkVoU3BkTW9tZWtGdE9NN0JCWkFVb0k0U25JaDZqejQ2NXp5T1VsaGNXLXdsMWYwV1oxVXA0cHA0UUs3ZjZPQ1lzV252NFdiV2loQ042WjQxSTBzSTJzNjFkcHpxcWwtWXFiT3RudXRZV09qR1AwMFExZmVyVzIzRE9COXk4QnVUS1ZSY2d4cWljbXJNc1ROVmhDTUltMWJPLXpQenFGYjIwZmdaOWlKeXRSNlB6b0JPZG1UZmhUbWZJclhuZ1hJb2hET1RMeWJXR1d6ai1rYWVLS1BxRkZXZEZkaDJDUktQQ1pXMnNhRTNfYTlHZEVscW5zSFY0X1FRbkVBRERWYkJhTXBXOFR2WmlVdnRLMnJ3S3hNZklhck1iTUg0a3NUSkN6X2pEQTBUUnZfc01KdUNGWjNFLVQtay1EenctWnZNcmQ5T21xcXNjemVrZGpHZXNqU29QbVJQMEVpVWRJMTk4M3E0MEtlYWNZOHd0Mml2R2VtMlpDX3E5QVN6TDJqQQ?oc=5"
     },
     {
-      "title": "黃金跌破4000美元 近三年的漲勢告終？ - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HcVJvSFd6Sl9JNFlDNHFobVptQkdSck0yUzlZMFpQeXJRNUdQazJkS2lFQ3AwMnphTXgxRmN2d2EtZnFlTS1OUFBmZnlzLVpy?oc=5"
+      "title": "美科技股恐慌指數飆升 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Jdm1zQW00SWpMNklZWUtyZVp5RUZGcGtHTmRVOE9iT3VaeHJVa0xLZ2p0a0s2NUlKLUt6cjRXMjNVZ19rc0UwaGJBZ3l5YWRRUGpyZmVnaDVMUjNO0gFiQVVfeXFMT2VLcnBuUGphUE1kMGR5Rjd5RkNTYXA2bXdUb0VmaWtjOHh6UFNqVkNWaWgyQ3U4MUxLajNTMTl1Q2pydEx3eHBQWlYtQkxmckJqSG5kMkhnZFh4S1c3UWNLT0E?oc=5"
+    },
+    {
+      "title": "《強勢美股特報》PHM,AXON,GDDY,UBER等10檔 - 台視全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX0dkRVJZV2dfOS13RTBEdXhxeXlGY3BZeFdLcWxjVEdqVlZvcjZFYnNzNW9GVzZQTFprZXV3RlBmaHZSME1wVEl5a0dRcTZTSDE3WXQ5NWFVSnlaMko0dng3Yi1GTUtld0duUGdvT1ZILXMwNHMwbTBUMFJhMG14blVjak5paWJXRldxUmRIRW1WUQ?oc=5"
     },
     {
       "title": "黃金跌破4000美元關卡 三年牛市面臨終結考驗 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sLVR2RDBpUEptNHNYcXNYXzB6QzNGd2Ywd3MxUXdQVXNwcVFhd1VLOENzLTdsZGlvc3phbHI1a3ZHWTFsYzA5Q2dhNl9uR2M?oc=5"
     },
     {
-      "title": "快訊／明台股穩了？美股開盤「2檔風向標科技股」均小漲 - 三立新聞網SETN.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCZWdtN21CaV9DdFV6ZlV6M0pFOEs0cXhZdF9GY3pZQjRCcHpPOW5EUy05VzVPc0t5Z1I3c2lkT0o4ZDdpTzRkbmo3bGNNOFA5QUNwLTh4X3rSAV9BVV95cUxPUDNpWmphcVkxalduNmxlU2d6Y21tOFV4SGxFWlhsWFNHcUdKdzJBZDNjdDVBXzVfc1RncHY0X3VYTlZUTzJPSXdhRGZiWnFoUm8yNTdGWDZ1UlBPZnVmQQ?oc=5"
-    },
-    {
       "title": "晶片股反彈美股開盤走高市場聚焦美光財報- 國際 - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lX2lTNHRSc1VGbENIbEFRZWcxRkdaVkRUZzF3Q3dmb0VQc0JPSzZnZXA2NFZfR2M1N3JIUFJETWJzU0Rlb1Q2OG9lNnBnLVF4UWRzZ3l3MDJRTHNTekgw?oc=5"
     },
     {
-      "title": "美股盤前記憶體股大漲 CNBC：科技股堅不可摧 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxWUlyNW1vU3RjcXA4ckZRWG1GZWFubXFEdGNtU1gweXg1NTY1dTdrYjEyWV9EbWpjTmhyMEFxdDNQV29zbE9mbldrRkszS2ZJVjF5V3h3S0xHUWJKSXc00gFkQVVfeXFMTWZDVVhrei1GZndfa3dENmZOU3ZfeE4tdFRsa3EtLVBGTm1QMGJiRDRsVWRJYU5LRWN2SWZLWGdlYW0tanhlcEhFbXhucVh2TlM3d2FVQVBMLW5FOFBBakVLUVFIbA?oc=5"
+      "title": "金價跌入熊市觸及7個月來低點 4000美元關口能撐住？ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DcHVkeHZid3dhNGFISUc0WjhoQkxCaDBsNkRHbm91VTZvbTlaTHQwV3g3MU1WVGpmRmpHNmxmNl85bEpQRnNhQlVxY1BMbUNOdHYya2dZeEJjWTZUTWgw0gFkQVVfeXFMTWxIdVRVeE1NaUVkd2loN1Vpcnh0SFZQc2JxSFVybkxLUy1qZUp6MUFiYzBudTdMdDhWbEtqWFhjWGkzZ0R5dmxzSHVQdGVmNXh6VE9Uc2p3MzBhSU44encwSTFXXw?oc=5"
+    },
+    {
+      "title": "黃金跌破4000美元 近三年的漲勢告終？ - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HcVJvSFd6Sl9JNFlDNHFobVptQkdSck0yUzlZMFpQeXJRNUdQazJkS2lFQ3AwMnphTXgxRmN2d2EtZnFlTS1OUFBmZnlzLVpy?oc=5"
     },
     {
       "title": "明天台股4.6萬點大關失守？台指期夜盤「續跌逾600點」 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQVmFzN2ZDVVl4LUotMUhkdzJ4RjNrLVFmMzh6VFB5ZEpocVlQMVMyd1hlVzNWSEp4RHhSdGluQnhMMGNLSUUxOEtMMllsTTV5VFAtTDI0VkpMZWttQldFRGptZ242YjdDdlU5V1lfQjJHRFdsaUpaNXFOT09YMjUwTU52eDVDU1VDblRxOWMxTDJMR2ZSUm94STJoVHVqN0pnSVdTQUNFVzREaFhDeFdMbXN1cnNMQ0o1MklEREpDc0hTMERQRjNmc3FIeEFTcUxVSTAwSDd2aGZ1bHQtMHJZZ2ttR1Z6VkJ0N0drdmt6cHd2RmVqMmpSUV9ib0lHSmM0bDBJaU1NaEczdDFucWFIN3BMejF3dU9xVmNQOUlMVXR3c3E5NVVxa195andyLUFudHdsUHpyLXdTY3ExR3BhT2d4X2wzV0RFdlE?oc=5"
-    },
-    {
-      "title": "美股早盤／美光財報公布前三大指數走升油金齊跌破整數關卡| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16aExvWVRBbEVmUGdrTEo5NWt4ZXB1Wk5WS0dkR1BWU2cwcDNHRHZNNG1ZZGZiVXB5RS1WWkxueFJBZUxMZTg1RGhyeEs5T3pm?oc=5"
     }
   ]
 }
