@@ -1,92 +1,92 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/25 18:21",
+  "updated_tw": "06/26 01:33",
   "taiwan": {
     "2330": {
       "price": 2390.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "change": -100.0,
+      "changePercent": -4.0161
     },
     "2454": {
       "price": 4310.0,
-      "change": 25.0,
-      "changePercent": 0.5834
+      "change": -225.0,
+      "changePercent": -4.9614
     },
     "2317": {
       "price": 257.5,
-      "change": 1.5,
-      "changePercent": 0.5859
+      "change": -2.0,
+      "changePercent": -0.7707
     },
     "0050": {
       "price": 107.2,
-      "change": 0.05,
-      "changePercent": 0.0467
+      "change": -2.9,
+      "changePercent": -2.634
     },
     "00878": {
       "price": 33.75,
-      "change": 0.09,
-      "changePercent": 0.2674
+      "change": -0.23,
+      "changePercent": -0.6769
     },
     "00919": {
       "price": 30.26,
-      "change": 0.05,
-      "changePercent": 0.1655
+      "change": -0.32,
+      "changePercent": -1.0464
     }
   },
   "us": {
     "NVDA": {
-      "price": 199.0,
-      "change": -1.04,
-      "changePercent": -0.5199
+      "price": 195.3,
+      "change": -3.7,
+      "changePercent": -1.8593
     },
     "AAPL": {
-      "price": 293.08,
-      "change": -1.22,
-      "changePercent": -0.4145
+      "price": 277.879,
+      "change": -15.201,
+      "changePercent": -5.1866
     },
     "TSLA": {
-      "price": 375.53,
-      "change": -6.08,
-      "changePercent": -1.5932
+      "price": 374.38,
+      "change": -1.15,
+      "changePercent": -0.3062
     },
     "QQQ": {
-      "price": 710.62,
-      "change": -3.03,
-      "changePercent": -0.4246
+      "price": 715.99,
+      "change": 5.37,
+      "changePercent": 0.7557
     },
     "SPY": {
-      "price": 733.24,
-      "change": -0.34,
-      "changePercent": -0.0464
+      "price": 733.01,
+      "change": -0.23,
+      "changePercent": -0.0314
     },
     "SCHD": {
-      "price": 31.72,
-      "change": -0.3,
-      "changePercent": -0.9369
+      "price": 32.02,
+      "change": 0.3,
+      "changePercent": 0.9458
     },
     "VOO": {
-      "price": 675.69,
-      "change": -0.65,
-      "changePercent": -0.0961
+      "price": 675.67,
+      "change": -0.02,
+      "changePercent": -0.003
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61500.32,
-      "change": 505.1872,
-      "changePercent": 0.8282
+      "price": 59438.04,
+      "change": -1557.0928,
+      "changePercent": -2.5528
     },
     "ETH": {
-      "price": 1641.14,
-      "change": 21.2151,
-      "changePercent": 1.3096
+      "price": 1567.46,
+      "change": -52.4649,
+      "changePercent": -3.2387
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.804,
-      "change": 0.1019,
-      "changePercent": 0.3214
+      "price": 31.793,
+      "change": 0.0909,
+      "changePercent": 0.2867
     },
     "JPYTWD": {
       "price": 0.1943,
@@ -94,22 +94,22 @@
       "changePercent": -0.9533
     },
     "EURTWD": {
-      "price": 36.156,
-      "change": 0.0821,
-      "changePercent": 0.2276
+      "price": 36.205,
+      "change": 0.1311,
+      "changePercent": 0.3634
     },
     "CNYTWD": {
-      "price": 4.6831,
+      "price": 4.6816,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4000.7,
-    "twd": 4091.0,
-    "tael": 153405.0,
-    "twdTotal": 127238.0,
-    "changePercent": 0.2606
+    "usd": 4047.4,
+    "twd": 4137.0,
+    "tael": 155142.0,
+    "twdTotal": 128679.0,
+    "changePercent": 1.431
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOTzBOUnlES2VEU25kZE5VQ01adDlELTZMcTFWMjExZnZoTDhtX3hlZklHbUt3M1ozYnNuWk9ZWmlqZjVTTVlDRC1qZHdFU2dHTVl6bjBwRDVDQXZjOFhjQmtGS2FNNjUyWGVaRkJZUHI1bzRsY2tzTkJxUlV6Mk9vekVCaFJkQWxWZF9vOC0tYnNGTDNNaXM0dFlHM3RIMFVLVUVia1BxYWhzOGY2Nk1TUm96d1FPSkZqSUZFLUtHdUhlRWVfUVRteHNwV1ZuOUJ4d1RzMDVkcXJLTmpWd1UybHdkX1FTMUQ4TURQVlJ5VHlaQ25EaV9kcjdnNUNqR1VUMm1WN1ZTOGMtTzM3dFlZVG1RRjdYM0tKM05PT21NSWFWeUhhdWlFVDhUT29rdVVGb3VoS05RUnF3SXdwQ3REb0doTFZkXzdy?oc=5"
     },
     {
-      "title": "美光財報炸裂盤前狂飆近18％ 美股期指、台期指夜盤全漲了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15ZXNZTlluSmVsQ3FvbHluN3hoU21GdzVJbnZRa0FsdXZCeXFkSHVNN1daalVidjk0VDFDWDFjN0xkVHNjSThpY0FxT1VTY01DY3VBUU5keTRMYUhvZkdB0gFkQVVfeXFMTkNmakdYYmRJdWNNQkNSSDViV1FtRm9Ib2ZCZnBWN0ZoZUVYQ0gxWHNJMUNzRWdJdmk0d3JKNFVuYVV1b1BHVjUxMmxnUHFWWlZqMm1JQkJPOFMtaFA3MjNUaGtIdg?oc=5"
+      "title": "〈美股早盤〉美光財測點燃AI信心 主要指數開高科技股領漲 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtdTJkQTd3cVkxbFl4SlgxbW04NzNWZXRyTjZaWHB1R0VLQWRjRzk5aEVHUG5WckFlM0sxdmw2ZW56d3k3RDdLMnZuZlVPU2s?oc=5"
+    },
+    {
+      "title": "心理關卡守不住 比特幣可能再跌 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0SVVLdWQ1OHB5d2o0SmkyeW9iZUZVUnl2Rm01RDhuQUZVOUthQXdFWk4zbUJCRHVpeG91WHdIWUJjRXQ0MmkxNkVyYjU5akU3OU5fdXZWT3VNZ9IBX0FVX3lxTE9vN2V5MXpSeXJ0ZTBWWFlYTFphQ050aFV6OWpYRks5dFg4aTU1bHdqNVJIdkNTYUMwcUpvd2pHd0ZTNnRta05GbTRXeDdVZnE0YXEwYU1vcThZNGUwRGFF?oc=5"
+    },
+    {
+      "title": "美股三大指數漲跌互見 那指一度跌逾1％ 台指期夜盤翻黑下挫1.5％ - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SZ0ZJT0w1UmlUUy1RRTBmRnJoU29mSG1fOEstdFJ5N0psUzMwTXJvRDJ5R0VMYmFuMkJBYThYc3VwdC1BT2pPUWswT3hhSE02bF9TekJlZm05bE1VenJ3?oc=5"
     },
     {
       "title": "美股法說 MU｜美光財報大幅超預期、盤後漲15.84%，Q4 指引 500 億美元，台灣供應鏈有望受惠 (MU US) - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxOWjIxSzdhRGp0R2M1eUl0ckg5OGVEdnoydldaTVJxMTdSblB4VmF0UGIwMU56MGVHVWRHbkFIeFNPRFVmcVNQMjl2Tk5uWFNZaFlwMzg3WVpSaFBkVURON21OU0NNY25HNWtobDZ0YnlsLXJKNXlabXJKcERKRExMdm5HRHFXOW5zTjBQWGxoQks4SlNTR1VnRnhzOHp3WjZmc1ZtbkdxX1BHTWR5NFVNb09SUi1oQ2dzTkxWR3g2TDd1Ymw3cjhEQzJmTFJiZnl1REZGLXVWa1JBaUNXaVhSRXRWUkExMHZCMGhfNVE3Z2x6a180ME45cUN0R1hhUzg1R05LV05YX3VRS3hqcENaeVBhWFB1TXZkX0hXZDZIeDBnVWlYUEVJMVZ5V0ZHNFVHNVItVTBEWEplU0xiWmlsMDhEUV84dF9tYmV0cmpGdkpxSFpvLTN2MjE0VnllQW14SFJUVnJLQjVUV3ZJLW8xdUFKdXVhZk1ZZE1DWjhYb3JwYkFDWEVNX05YekduVHRpRm95YUtmNlIzUlVqcVpBTTlteEltUGh5dm51YkNBQ0FXNW9nXzVwYmlVdDQzNEhha3pLdldmUzlDZUw5anEyd1hsLUpZdGFuWnBtNURLWmJSbkFPbXpqRDEtcmJ3b1ZqOG9lblo3VkhkdlBHZlhzTHgxRFhtMGdlLTZr?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNNGVRa2JUaWtWYnRITks2cEN6ZzY5bllWOUpvaDJZWmZBUlJXT3RaSHJaTG01NkZfWUhvb3g0RHJKMXNQX3VseTd5WlgtbVpQTFdlaFhKaXB0RXNjc1JzTXRiRENNWnJOaWhJSV9WN2d1MlFtZ01HVGJTeTJicG5PRTVjOVdldlc2czV3bThqTkxWRWh6OHlZa2NmTkhCY2psZUl6cEZVaHlhMXFpel8xTHVHWVluSnprZHh6VFlBMG5YWGFLS2NTM0dadjVXNjByMnhIYUI4eTN5WWpSUWtwYnlPaUZjTVdxVHZtZUloTnU5THhnUXZLMFhRVU5ibWYwa3dJTVUwS0JqalBLUDRNb3daQ2JMbmZWekZ3bk1aWnJiWWQxU0J3a21MQzBnVV85clFqOVVmWk8xQUViUjQ2ZG9lT0NfNFBQWHJyS3BKWU9aQ3dlT1FaLWdRaGdFa01icVpqNzRNdkhpQWc3MDVBRVpETHpXU1FsTXlUdkVjZ0VZSi1WSGliR1Z6UHRCLUp0SXJpM0VGZ0VXMTF4Ymoyem4ybGZlbGgzdG5vR1ZzVW1WX2hRQ1h0cHRRTnRJYU1DYkNHeFplQzFSQTh5aTU4QjV2ZnVBY21CejA4YjgwRjZkSjJxYjVYUzROeWRUNE5aMVln?oc=5"
     },
     {
-      "title": "〈貴金屬盤後〉黃金現貨跌破4000美元大關 觸及七個月新低 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nc1JDVjhHcDVKdjdXOFZSUHBjYXIxRF81TjhLd0l3ZW0wZlZNYmRSSlZ4cm5NUkhnbkdvYm5WUnVXMmFaaVZWXzIzR2V6RkE?oc=5"
-    },
-    {
-      "title": "美股收盤／美光高通盤後報捷 那斯達克可望擺脫連三黑頹勢 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nUS0wenpkQlJHVmZnMTNmcnNyRVl1NHNtSHIwbDREZ0dGSkpndXZYU2VHVmRXTjR4X014X2xjWmJ1ZUs0WXNyU1VnalF6REtCbWRqNk9la01hQVpM0gFiQVVfeXFMT1VJNldJSC16NXYzcURwWnV2aHU5QlRSdVcwWHRkRG1jMVBXZ1JSR1hjc2JZR3dWVlVCZjhFdnVtZlh3MjMxejhNQzlYb2x2VUJlSEQ3MkRpZ0cxYXEyMnZqOGc?oc=5"
-    },
-    {
-      "title": "比特幣走勢符合「減半週期」規律！21Shares：年底有望重返 10 萬美元 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeW45bFRpYnRiTHVjV1ZWcnhSS3pJQjF4TnVXR0ZNWEp4VGZZQzNFai1peVlqME1hekZnWUxSVkt6RXhrbWhKbHRDV2tvZUVuRVl5b2JwYmxLeTFnemhyWEkzQ2pLYnBvYzFTcEYxTmNITXRLSXFpRHJnOEVqbkdqOERVeER5ZllueHB0Y09Dbm1BQ00?oc=5"
+      "title": "金價跌破4000美元別慌！專家驚曝神秘歷史巧合 黃金「這時」衝破10000美元 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QSVdZYUVXQU1VZk43ODNzOVhtenpsVk5Sbkg5RnBYNkYxTnFrODhXQzhzYkJUZ0FjWEZQNjZSb1N2bG1qTUFaSkVGdUNUZWhZNm9Cc0V4MjJDaWtWeDhr0gFkQVVfeXFMTkt3Slh4MHNMdmdWY0tOdndxU3Baa0RjYkwtQmZKTU5IakRtR1JVNnplTEI2VUdGdkpCRkVRdkFldnVhbGQzWGxUX2RUc25kTi1wcVc5M204S3BVaC1NNXVRWlhwRQ?oc=5"
     },
     {
       "title": "年初沒買的賺到！黃金存摺跌半年最低 買100公克比1月「現省15萬元」 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxQaVpxdTk2MjAzajRSMkZLdHh1cXFDVEFfT19GMHk4UnlNNm1rZFMwWkpUc0x6eEtUVzlrSGJPLWxTVEFKY3lVdEtGbHI0dVFrNVBXc0ZuOUUtZDkwZnA3d1JnbFZkREx5T2ViV0xaTk9Tdk1XNnNPUGIyTUtoZEp5QzdGeUNfTklsMVo2ZUhrM042UWNNRlBESmNJenJfLUR5cnMyNTd6emNFellLRWxEbEVYLXhpZmNDZmFtVTFSY1VkZXhqSTlBc1R1MTJtT3VZbVc3TDVZMGd0MTliVVNhcW1qdHpoTS1admJOTE9FQV9sZllzeWhIVU9NV01BOUJMb1F3VXRUNlFRWmJ3d19NdGYwajREemNneVpqX2l2LXRQNXF2Qk83UlVjbkVyUUd1anpnNTFURm9jU0Zoai1VOW9BaVp5THNXYUw5SFdqZVQwLS0taU9sRTFVVjVmZXNIWjB3YkxFazdJd285UUdPanRHLTYwNzQtbkxNS25MQ3Z4a1lDc05DazEzclRPVUY4cnlMaGdnT3hvZ0JodHVEWTVjNXhtdC1Kd2hJRVFrREFGV0Jt?oc=5"
     },
     {
-      "title": "黃金大崩盤！白銀更慘狂瀉近10％寫1慘紀錄 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9keHJ6aFBvVmdLRVJmUTI3eWtwMy1DZGlfVzBKNlNNbVY0SXBPcTFqRlFQUm1kaFNQdk5yVHZmUXZ4RWROdV9LRm5Kc3dMbk1oQmZCcEFuWWJVWjhDaEZr0gFkQVVfeXFMT2tfUDBBYWZfel95N3RJVkRaQzYzdHRGR1BGTXFPRlRvRzFhNTF2NlV4WXZ4bkNwLW1PVUdrdEh3dmpGaGtySVhMelQwU0d0V2dzLTRmRzB6cnYyUVNtMjlDWnpURQ?oc=5"
+      "title": "比特幣再度跌破6萬美元 探近二年新低 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92Q3hHeEFfNmVweTlVTEdCcVRsZUhYQ3pjaERqaXZmSEs5dEpnWlRWcnBnRHdRNkpkdGdwZUhjWHhyRTA3TEMtNmhuUzRHd0NlcmgzYWs3Q0RiUdIBX0FVX3lxTE5JcUc1M2QzLVAzZDFTbDlIYjZjRk9XZzg2dG05S1pMUFZiN212WGUtWjdqb3ltZW5aTGN3Wk9LcFZhT0RBRnVrYS1KR3BGN1hvMTZ1WnI1T3p4U3pGZWJz?oc=5"
     }
   ]
 }
