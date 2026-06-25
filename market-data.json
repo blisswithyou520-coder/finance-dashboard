@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/26 01:33",
+  "updated_tw": "06/26 07:01",
   "taiwan": {
     "2330": {
       "price": 2390.0,
-      "change": -100.0,
-      "changePercent": -4.0161
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "2454": {
       "price": 4310.0,
-      "change": -225.0,
-      "changePercent": -4.9614
+      "change": 25.0,
+      "changePercent": 0.5834
     },
     "2317": {
       "price": 257.5,
-      "change": -2.0,
-      "changePercent": -0.7707
+      "change": 1.5,
+      "changePercent": 0.5859
     },
     "0050": {
       "price": 107.2,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 195.3,
-      "change": -3.7,
-      "changePercent": -1.8593
+      "price": 195.74,
+      "change": -3.26,
+      "changePercent": -1.6382
     },
     "AAPL": {
-      "price": 277.879,
-      "change": -15.201,
-      "changePercent": -5.1866
+      "price": 275.15,
+      "change": -17.93,
+      "changePercent": -6.1178
     },
     "TSLA": {
-      "price": 374.38,
-      "change": -1.15,
-      "changePercent": -0.3062
+      "price": 375.12,
+      "change": -0.41,
+      "changePercent": -0.1092
     },
     "QQQ": {
-      "price": 715.99,
-      "change": 5.37,
-      "changePercent": 0.7557
+      "price": 716.38,
+      "change": 5.76,
+      "changePercent": 0.8106
     },
     "SPY": {
-      "price": 733.01,
-      "change": -0.23,
-      "changePercent": -0.0314
+      "price": 734.3,
+      "change": 1.06,
+      "changePercent": 0.1446
     },
     "SCHD": {
-      "price": 32.02,
-      "change": 0.3,
-      "changePercent": 0.9458
+      "price": 31.96,
+      "change": 0.24,
+      "changePercent": 0.7566
     },
     "VOO": {
-      "price": 675.67,
-      "change": -0.02,
-      "changePercent": -0.003
+      "price": 675.71,
+      "change": 0.02,
+      "changePercent": 0.003
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59438.04,
-      "change": -1557.0928,
-      "changePercent": -2.5528
+      "price": 59782.08,
+      "change": -1213.0528,
+      "changePercent": -1.9888
     },
     "ETH": {
-      "price": 1567.46,
-      "change": -52.4649,
-      "changePercent": -3.2387
+      "price": 1568.95,
+      "change": -50.9749,
+      "changePercent": -3.1467
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.793,
-      "change": 0.0909,
-      "changePercent": 0.2867
+      "price": 31.831,
+      "change": 0.1289,
+      "changePercent": 0.4066
     },
     "JPYTWD": {
-      "price": 0.1943,
-      "change": -0.0019,
-      "changePercent": -0.9533
+      "price": 0.1946,
+      "change": -0.0016,
+      "changePercent": -0.8003
     },
     "EURTWD": {
-      "price": 36.205,
-      "change": 0.1311,
-      "changePercent": 0.3634
+      "price": 36.229,
+      "change": 0.1551,
+      "changePercent": 0.43
     },
     "CNYTWD": {
-      "price": 4.6816,
+      "price": 4.6855,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4047.4,
-    "twd": 4137.0,
-    "tael": 155142.0,
-    "twdTotal": 128679.0,
-    "changePercent": 1.431
+    "usd": 4037.1,
+    "twd": 4132.0,
+    "tael": 154932.0,
+    "twdTotal": 128505.0,
+    "changePercent": 1.1728
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,20 @@
   },
   "news": [
     {
+      "title": "美股收盤》美光飆漲近16％！那指連4黑 台積電ADR跌逾1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04bHJHWVZWTEg2WHl4YXVNRHdLejFibzF2dXd3c1hCMUF1UjF6bjY4RXZvM25LRXBUYkRIU2hGZFhhMUF6NUhFTE5WZEQ5a2tKWE43U3Y5UE1raElyc25r0gFkQVVfeXFMTU9aY3d5TnFzdjlJa2VhOEhQU3V3QzFNU1BoNzZ4SjBJRldsd2hydE15RmtrVnplY0k3blNPSXBNTVFCeEZWbEZrOEc2ZGljSzdLWklUX0tMUl9DbmcxV19ldUNaaA?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉伊朗砲擊荷姆茲貨輪 美光飆、蘋果瀉 那指四連黑 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUWnl3UzR4WkExMGJlQjlibHBPTjJkSzZXb0FrUVdTZk9Obk01VXp5dGNZVHVHa0x1ekY1Qlp6cWtpcVh5Y0t5MU9ESk1JTzQ?oc=5"
+    },
+    {
       "title": "錢都跑到台股！銀樓黃金1錢跌到16200 逾半年最低 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOTzBOUnlES2VEU25kZE5VQ01adDlELTZMcTFWMjExZnZoTDhtX3hlZklHbUt3M1ozYnNuWk9ZWmlqZjVTTVlDRC1qZHdFU2dHTVl6bjBwRDVDQXZjOFhjQmtGS2FNNjUyWGVaRkJZUHI1bzRsY2tzTkJxUlV6Mk9vekVCaFJkQWxWZF9vOC0tYnNGTDNNaXM0dFlHM3RIMFVLVUVia1BxYWhzOGY2Nk1TUm96d1FPSkZqSUZFLUtHdUhlRWVfUVRteHNwV1ZuOUJ4d1RzMDVkcXJLTmpWd1UybHdkX1FTMUQ4TURQVlJ5VHlaQ25EaV9kcjdnNUNqR1VUMm1WN1ZTOGMtTzM3dFlZVG1RRjdYM0tKM05PT21NSWFWeUhhdWlFVDhUT29rdVVGb3VoS05RUnF3SXdwQ3REb0doTFZkXzdy?oc=5"
     },
     {
-      "title": "〈美股早盤〉美光財測點燃AI信心 主要指數開高科技股領漲 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtdTJkQTd3cVkxbFl4SlgxbW04NzNWZXRyTjZaWHB1R0VLQWRjRzk5aEVHUG5WckFlM0sxdmw2ZW56d3k3RDdLMnZuZlVPU2s?oc=5"
+      "title": "快訊／史上最強財報來了　美股開盤美光瘋漲18％、費半也衝729點 - 三立新聞網SETN.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TVGFHOWxCX01iRXhiTkxxQzI5OFBpem53SkdMSU84MC0yc2k4bjhJbDZJTGRsRVN6VDVkM3dqNGZsMERpWGJVZ1V5VHBCUHljbWhSeWdTQ03SAV9BVV95cUxNbW1oM2c3a0lrQWZrNExMRlh3dTc1amJoTUp6SjZndDgzak9VdXkxcFVlRm53TG83RTJPUUtfQlJUSk56QmlsM1NHSzFGZWhrc2traGExR1d5c1dXMFNDOA?oc=5"
     },
     {
       "title": "心理關卡守不住 比特幣可能再跌 - 經濟日報",
@@ -133,20 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SZ0ZJT0w1UmlUUy1RRTBmRnJoU29mSG1fOEstdFJ5N0psUzMwTXJvRDJ5R0VMYmFuMkJBYThYc3VwdC1BT2pPUWswT3hhSE02bF9TekJlZm05bE1VenJ3?oc=5"
     },
     {
-      "title": "美股法說 MU｜美光財報大幅超預期、盤後漲15.84%，Q4 指引 500 億美元，台灣供應鏈有望受惠 (MU US) - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNNGVRa2JUaWtWYnRITks2cEN6ZzY5bllWOUpvaDJZWmZBUlJXT3RaSHJaTG01NkZfWUhvb3g0RHJKMXNQX3VseTd5WlgtbVpQTFdlaFhKaXB0RXNjc1JzTXRiRENNWnJOaWhJSV9WN2d1MlFtZ01HVGJTeTJicG5PRTVjOVdldlc2czV3bThqTkxWRWh6OHlZa2NmTkhCY2psZUl6cEZVaHlhMXFpel8xTHVHWVluSnprZHh6VFlBMG5YWGFLS2NTM0dadjVXNjByMnhIYUI4eTN5WWpSUWtwYnlPaUZjTVdxVHZtZUloTnU5THhnUXZLMFhRVU5ibWYwa3dJTVUwS0JqalBLUDRNb3daQ2JMbmZWekZ3bk1aWnJiWWQxU0J3a21MQzBnVV85clFqOVVmWk8xQUViUjQ2ZG9lT0NfNFBQWHJyS3BKWU9aQ3dlT1FaLWdRaGdFa01icVpqNzRNdkhpQWc3MDVBRVpETHpXU1FsTXlUdkVjZ0VZSi1WSGliR1Z6UHRCLUp0SXJpM0VGZ0VXMTF4Ymoyem4ybGZlbGgzdG5vR1ZzVW1WX2hRQ1h0cHRRTnRJYU1DYkNHeFplQzFSQTh5aTU4QjV2ZnVBY21CejA4YjgwRjZkSjJxYjVYUzROeWRUNE5aMVln?oc=5"
-    },
-    {
-      "title": "金價跌破4000美元別慌！專家驚曝神秘歷史巧合 黃金「這時」衝破10000美元 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QSVdZYUVXQU1VZk43ODNzOVhtenpsVk5Sbkg5RnBYNkYxTnFrODhXQzhzYkJUZ0FjWEZQNjZSb1N2bG1qTUFaSkVGdUNUZWhZNm9Cc0V4MjJDaWtWeDhr0gFkQVVfeXFMTkt3Slh4MHNMdmdWY0tOdndxU3Baa0RjYkwtQmZKTU5IakRtR1JVNnplTEI2VUdGdkpCRkVRdkFldnVhbGQzWGxUX2RUc25kTi1wcVc5M204S3BVaC1NNXVRWlhwRQ?oc=5"
+      "title": "《貴金屬》COMEX黃金上漲1% ETF持倉減少- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX0h2YkFsdEtHNFNhUE90YUZIVEVFbHR4VmhSZUpnTVpiQnItdTd2OEI1RldqSE5zZEVGMHQ4UVdzUDBGWmZwblhZcUJ3MWRjVXI1RmNhaWliQUp0ZzhiVUlCUmFhaTIzZFhIRUpwczVjN3FuSTEyOHlhSERXMzNTbTNmdjJIZ0IxZGo4T1lMZE5IZw?oc=5"
     },
     {
       "title": "年初沒買的賺到！黃金存摺跌半年最低 買100公克比1月「現省15萬元」 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxQaVpxdTk2MjAzajRSMkZLdHh1cXFDVEFfT19GMHk4UnlNNm1rZFMwWkpUc0x6eEtUVzlrSGJPLWxTVEFKY3lVdEtGbHI0dVFrNVBXc0ZuOUUtZDkwZnA3d1JnbFZkREx5T2ViV0xaTk9Tdk1XNnNPUGIyTUtoZEp5QzdGeUNfTklsMVo2ZUhrM042UWNNRlBESmNJenJfLUR5cnMyNTd6emNFellLRWxEbEVYLXhpZmNDZmFtVTFSY1VkZXhqSTlBc1R1MTJtT3VZbVc3TDVZMGd0MTliVVNhcW1qdHpoTS1admJOTE9FQV9sZllzeWhIVU9NV01BOUJMb1F3VXRUNlFRWmJ3d19NdGYwajREemNneVpqX2l2LXRQNXF2Qk83UlVjbkVyUUd1anpnNTFURm9jU0Zoai1VOW9BaVp5THNXYUw5SFdqZVQwLS0taU9sRTFVVjVmZXNIWjB3YkxFazdJd285UUdPanRHLTYwNzQtbkxNS25MQ3Z4a1lDc05DazEzclRPVUY4cnlMaGdnT3hvZ0JodHVEWTVjNXhtdC1Kd2hJRVFrREFGV0Jt?oc=5"
-    },
-    {
-      "title": "比特幣再度跌破6萬美元 探近二年新低 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92Q3hHeEFfNmVweTlVTEdCcVRsZUhYQ3pjaERqaXZmSEs5dEpnWlRWcnBnRHdRNkpkdGdwZUhjWHhyRTA3TEMtNmhuUzRHd0NlcmgzYWs3Q0RiUdIBX0FVX3lxTE5JcUc1M2QzLVAzZDFTbDlIYjZjRk9XZzg2dG05S1pMUFZiN212WGUtWjdqb3ltZW5aTGN3Wk9LcFZhT0RBRnVrYS1KR3BGN1hvMTZ1WnI1T3p4U3pGZWJz?oc=5"
     }
   ]
 }
