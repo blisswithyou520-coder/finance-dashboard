@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/26 07:01",
+  "updated_tw": "06/26 18:38",
   "taiwan": {
     "2330": {
-      "price": 2390.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 2340.0,
+      "change": -50.0,
+      "changePercent": -2.0921
     },
     "2454": {
-      "price": 4310.0,
-      "change": 25.0,
-      "changePercent": 0.5834
+      "price": 3880.0,
+      "change": -430.0,
+      "changePercent": -9.9768
     },
     "2317": {
-      "price": 257.5,
-      "change": 1.5,
-      "changePercent": 0.5859
+      "price": 248.5,
+      "change": -9.0,
+      "changePercent": -3.4951
     },
     "0050": {
-      "price": 107.2,
-      "change": -2.9,
-      "changePercent": -2.634
+      "price": 103.1,
+      "change": -4.1,
+      "changePercent": -3.8246
     },
     "00878": {
-      "price": 33.75,
-      "change": -0.23,
-      "changePercent": -0.6769
+      "price": 32.71,
+      "change": -1.04,
+      "changePercent": -3.0815
     },
     "00919": {
-      "price": 30.26,
-      "change": -0.32,
-      "changePercent": -1.0464
+      "price": 29.56,
+      "change": -0.7,
+      "changePercent": -2.3133
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 59782.08,
-      "change": -1213.0528,
-      "changePercent": -1.9888
+      "price": 59513.94,
+      "change": -207.7358,
+      "changePercent": -0.3478
     },
     "ETH": {
-      "price": 1568.95,
-      "change": -50.9749,
-      "changePercent": -3.1467
+      "price": 1547.39,
+      "change": -17.4267,
+      "changePercent": -1.1137
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.831,
-      "change": 0.1289,
-      "changePercent": 0.4066
+      "price": 31.836,
+      "change": 0.028,
+      "changePercent": 0.088
     },
     "JPYTWD": {
-      "price": 0.1946,
-      "change": -0.0016,
-      "changePercent": -0.8003
+      "price": 0.1948,
+      "change": -0.0018,
+      "changePercent": -0.9282
     },
     "EURTWD": {
-      "price": 36.229,
-      "change": 0.1551,
-      "changePercent": 0.43
+      "price": 36.349,
+      "change": 0.2347,
+      "changePercent": 0.65
     },
     "CNYTWD": {
-      "price": 4.6855,
+      "price": 4.6856,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4037.1,
-    "twd": 4132.0,
-    "tael": 154932.0,
-    "twdTotal": 128505.0,
-    "changePercent": 1.1728
+    "usd": 4063.2,
+    "twd": 4159.0,
+    "tael": 155958.0,
+    "twdTotal": 129356.0,
+    "changePercent": 0.8113
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股收盤》美光飆漲近16％！那指連4黑 台積電ADR跌逾1％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04bHJHWVZWTEg2WHl4YXVNRHdLejFibzF2dXd3c1hCMUF1UjF6bjY4RXZvM25LRXBUYkRIU2hGZFhhMUF6NUhFTE5WZEQ5a2tKWE43U3Y5UE1raElyc25r0gFkQVVfeXFMTU9aY3d5TnFzdjlJa2VhOEhQU3V3QzFNU1BoNzZ4SjBJRldsd2hydE15RmtrVnplY0k3blNPSXBNTVFCeEZWbEZrOEc2ZGljSzdLWklUX0tMUl9DbmcxV19ldUNaaA?oc=5"
+      "title": "黃金重返4000美元關卡！但一度重摔專家說話了 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ycG0wa2NDMmdHRGdzX3lQSE5fdm53bV9ZRmtCRHE0dlFtc0liTWx3T04zZEo2OHlWbFdFWHFRUzAyTnl4d05vRmN0WUYzbExsV19vajlsUm9ha0R6ZVRR0gFkQVVfeXFMT05kV1l4bGtKNzFVMUNzQ3Ixa3hocnI5cWIxQW1iaGtsMXdpY05EZWFDRjhxZzB2YkRvbUtBNXpkdF9pLUdxeEpKV0gwNHdFYjljYXNpckhrQTRMSEFRbFdQYktldg?oc=5"
+    },
+    {
+      "title": "台股為何大跌？ 阮慕驊揭核心關鍵：小心柿子撿軟的吃 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPcW94TlNiZ2JRdm4wdDk3NDJGa3hJS29qZnhuQ1VDODdMY083VnNCcklPNVRmMlhOS2sycWs2bWp6NUtONmg4M2FaOUJZLWxBVHBFUjV2cktJWXZXLVhvYkJjN1ZZMEVwZWQxU1o3RzlNX3RCb0ZKOU53ZjJhTmtJY1VoZzZsa3hTc29VQkVuTnZzdHdRRnJYbGhVSzhianRMSmQyRjE3WDZpS0ZNUGJjWjJZOUpLajBRV3U2cHBSYmN6RGVyUGZVZXpUU3I0dzJnVHZIN1hjOEpJNTJzMTdNWXpLWjl0bDZ1WUJSLVRNLXRpRENNSV9ZdXhHRWxBOVQ1LWVqYUlyY2lMc0tWcjNnaC1XaGs3WG5jVkRZaHVOS0JuY05VRVdnNVNSazdPRE9ieUl5RjFSdWlkdWxmMXFiM25ySHN6RGlyYWotbzhkaGZVZmFrNnBNcm5wSUpTaDJldm1WTk5PUnBjbkFwSnh3c1JjaUI2LWltdUtXRw?oc=5"
+    },
+    {
+      "title": "黃金和比特幣遭遇拋售 - 日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUV92MTdnQ0kyWEpKejlsdlNRbktfenJwM0ZwdV9mM3VTbWxHUE5abFIzRjBwTWJXbUQ3di0zLXZwaGRBRjlPZmF2MXlyTjkwM01CMlBRVjVlRENJVHVZWEZZQU9yZFAyajNWaGxHRjRQMjBnR2dwLWF1MWxSMnVnSGRldThVbkhlN3c?oc=5"
     },
     {
       "title": "〈美股盤後〉伊朗砲擊荷姆茲貨輪 美光飆、蘋果瀉 那指四連黑 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUWnl3UzR4WkExMGJlQjlibHBPTjJkSzZXb0FrUVdTZk9Obk01VXp5dGNZVHVHa0x1ekY1Qlp6cWtpcVh5Y0t5MU9ESk1JTzQ?oc=5"
     },
     {
-      "title": "錢都跑到台股！銀樓黃金1錢跌到16200 逾半年最低 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOTzBOUnlES2VEU25kZE5VQ01adDlELTZMcTFWMjExZnZoTDhtX3hlZklHbUt3M1ozYnNuWk9ZWmlqZjVTTVlDRC1qZHdFU2dHTVl6bjBwRDVDQXZjOFhjQmtGS2FNNjUyWGVaRkJZUHI1bzRsY2tzTkJxUlV6Mk9vekVCaFJkQWxWZF9vOC0tYnNGTDNNaXM0dFlHM3RIMFVLVUVia1BxYWhzOGY2Nk1TUm96d1FPSkZqSUZFLUtHdUhlRWVfUVRteHNwV1ZuOUJ4d1RzMDVkcXJLTmpWd1UybHdkX1FTMUQ4TURQVlJ5VHlaQ25EaV9kcjdnNUNqR1VUMm1WN1ZTOGMtTzM3dFlZVG1RRjdYM0tKM05PT21NSWFWeUhhdWlFVDhUT29rdVVGb3VoS05RUnF3SXdwQ3REb0doTFZkXzdy?oc=5"
+      "title": "比特幣跌破6萬大關選擇權市場顯示短線仍偏空- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDJhZTBsV0h1ZHQ3bHFZMWlwajJ3RUVOR2pZZHpRNnVXWEF2OW43VTRWNXZpbVlfMHpKXzQwaTg4QXFGUjNXUHpZVnQ1Q2RvQjRKQ1ZiaXltbzhFelJybXJPd1BmT0RxZy1ZX3dZV1Z5MHB1LVlGNjBUb1VyNDdVWTdCbkdFVV8zYV9ZbTJQcGxMQQ?oc=5"
     },
     {
-      "title": "快訊／史上最強財報來了　美股開盤美光瘋漲18％、費半也衝729點 - 三立新聞網SETN.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TVGFHOWxCX01iRXhiTkxxQzI5OFBpem53SkdMSU84MC0yc2k4bjhJbDZJTGRsRVN6VDVkM3dqNGZsMERpWGJVZ1V5VHBCUHljbWhSeWdTQ03SAV9BVV95cUxNbW1oM2c3a0lrQWZrNExMRlh3dTc1amJoTUp6SjZndDgzak9VdXkxcFVlRm53TG83RTJPUUtfQlJUSk56QmlsM1NHSzFGZWhrc2traGExR1d5c1dXMFNDOA?oc=5"
+      "title": "美股夏季不淡？AI獲利撐盤升息成考驗 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVmRGbjB5QXh6MWZ1U1pKMTNYMUl6RGRPVGk4emlFYmV0UmxGQktfY2dISzhvc2hKX2pMVlVmeGJWWExXZ1kwTGhCNW5xcTNDbDNuZHplTHFpOUxXUmJOb1ZyY1Qwc1RyMkVXa094THRVWWFvaENydFdyT1YxSmVNZ051VnBuLTl4Q0tQV3VHT2d5RDFCdHNVcFp1cF9aYUdEYkdJRVk4ckdIV05IeHJScHhCOXRiUUJQNVhWd0dMQ194STZEWkUyMHkyZlEtV053dnRzSW1qSnZaM201LS13RV9WRF9sdjNhZ3c4eHlHdzNCT0kzX0U0MzJSYU9ZWHhZdDdmZG8tNjl4QXZCS0NWdkUzWQ?oc=5"
     },
     {
-      "title": "心理關卡守不住 比特幣可能再跌 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0SVVLdWQ1OHB5d2o0SmkyeW9iZUZVUnl2Rm01RDhuQUZVOUthQXdFWk4zbUJCRHVpeG91WHdIWUJjRXQ0MmkxNkVyYjU5akU3OU5fdXZWT3VNZ9IBX0FVX3lxTE9vN2V5MXpSeXJ0ZTBWWFlYTFphQ050aFV6OWpYRks5dFg4aTU1bHdqNVJIdkNTYUMwcUpvd2pHd0ZTNnRta05GbTRXeDdVZnE0YXEwYU1vcThZNGUwRGFF?oc=5"
+      "title": "美股收盤》美光飆漲近16％！那指連4黑 台積電ADR跌逾1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04bHJHWVZWTEg2WHl4YXVNRHdLejFibzF2dXd3c1hCMUF1UjF6bjY4RXZvM25LRXBUYkRIU2hGZFhhMUF6NUhFTE5WZEQ5a2tKWE43U3Y5UE1raElyc25r0gFkQVVfeXFMTU9aY3d5TnFzdjlJa2VhOEhQU3V3QzFNU1BoNzZ4SjBJRldsd2hydE15RmtrVnplY0k3blNPSXBNTVFCeEZWbEZrOEc2ZGljSzdLWklUX0tMUl9DbmcxV19ldUNaaA?oc=5"
     },
     {
-      "title": "美股三大指數漲跌互見 那指一度跌逾1％ 台指期夜盤翻黑下挫1.5％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SZ0ZJT0w1UmlUUy1RRTBmRnJoU29mSG1fOEstdFJ5N0psUzMwTXJvRDJ5R0VMYmFuMkJBYThYc3VwdC1BT2pPUWswT3hhSE02bF9TekJlZm05bE1VenJ3?oc=5"
-    },
-    {
-      "title": "《貴金屬》COMEX黃金上漲1% ETF持倉減少- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX0h2YkFsdEtHNFNhUE90YUZIVEVFbHR4VmhSZUpnTVpiQnItdTd2OEI1RldqSE5zZEVGMHQ4UVdzUDBGWmZwblhZcUJ3MWRjVXI1RmNhaWliQUp0ZzhiVUlCUmFhaTIzZFhIRUpwczVjN3FuSTEyOHlhSERXMzNTbTNmdjJIZ0IxZGo4T1lMZE5IZw?oc=5"
-    },
-    {
-      "title": "年初沒買的賺到！黃金存摺跌半年最低 買100公克比1月「現省15萬元」 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxQaVpxdTk2MjAzajRSMkZLdHh1cXFDVEFfT19GMHk4UnlNNm1rZFMwWkpUc0x6eEtUVzlrSGJPLWxTVEFKY3lVdEtGbHI0dVFrNVBXc0ZuOUUtZDkwZnA3d1JnbFZkREx5T2ViV0xaTk9Tdk1XNnNPUGIyTUtoZEp5QzdGeUNfTklsMVo2ZUhrM042UWNNRlBESmNJenJfLUR5cnMyNTd6emNFellLRWxEbEVYLXhpZmNDZmFtVTFSY1VkZXhqSTlBc1R1MTJtT3VZbVc3TDVZMGd0MTliVVNhcW1qdHpoTS1admJOTE9FQV9sZllzeWhIVU9NV01BOUJMb1F3VXRUNlFRWmJ3d19NdGYwajREemNneVpqX2l2LXRQNXF2Qk83UlVjbkVyUUd1anpnNTFURm9jU0Zoai1VOW9BaVp5THNXYUw5SFdqZVQwLS0taU9sRTFVVjVmZXNIWjB3YkxFazdJd285UUdPanRHLTYwNzQtbkxNS25MQ3Z4a1lDc05DazEzclRPVUY4cnlMaGdnT3hvZ0JodHVEWTVjNXhtdC1Kd2hJRVFrREFGV0Jt?oc=5"
+      "title": "經濟學家希夫：黃金回檔是買入契機 比特幣則是「泡沫破裂」 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTbWFkWENJTTRVNTJfa2FPOWRqam5mcEM2c09YWDY5cE1lUWVOX1E0ZFBoRXhQeHY3ZXVSbFFsT293TDJWaFdqY05HdTl5cVU?oc=5"
     }
   ]
 }
