@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/27 01:18",
+  "updated_tw": "06/27 05:51",
   "taiwan": {
     "2330": {
       "price": 2340.0,
@@ -9,13 +9,13 @@
     },
     "2454": {
       "price": 3880.0,
-      "change": -405.0,
-      "changePercent": -9.4516
+      "change": -430.0,
+      "changePercent": -9.9768
     },
     "2317": {
       "price": 248.5,
-      "change": -7.5,
-      "changePercent": -2.9297
+      "change": -9.0,
+      "changePercent": -3.4951
     },
     "0050": {
       "price": 103.1,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 194.36,
-      "change": -1.38,
-      "changePercent": -0.705
+      "price": 192.53,
+      "change": -3.21,
+      "changePercent": -1.6399
     },
     "AAPL": {
-      "price": 278.9,
-      "change": 3.75,
-      "changePercent": 1.3629
+      "price": 283.78,
+      "change": 8.63,
+      "changePercent": 3.1365
     },
     "TSLA": {
-      "price": 385.9,
-      "change": 10.78,
-      "changePercent": 2.8737
+      "price": 379.71,
+      "change": 4.59,
+      "changePercent": 1.2236
     },
     "QQQ": {
-      "price": 713.0,
-      "change": -3.38,
-      "changePercent": -0.4718
+      "price": 706.52,
+      "change": -9.86,
+      "changePercent": -1.3764
     },
     "SPY": {
-      "price": 734.48,
-      "change": 0.18,
-      "changePercent": 0.0245
+      "price": 728.99,
+      "change": -5.31,
+      "changePercent": -0.7231
     },
     "SCHD": {
-      "price": 32.125,
-      "change": 0.165,
-      "changePercent": 0.5163
+      "price": 32.09,
+      "change": 0.13,
+      "changePercent": 0.4068
     },
     "VOO": {
-      "price": 675.075,
-      "change": -0.635,
-      "changePercent": -0.094
+      "price": 670.26,
+      "change": -5.45,
+      "changePercent": -0.8066
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59991.07,
-      "change": 269.3942,
-      "changePercent": 0.4511
+      "price": 59847.49,
+      "change": 125.8142,
+      "changePercent": 0.2107
     },
     "ETH": {
-      "price": 1581.89,
-      "change": 17.0733,
-      "changePercent": 1.0911
+      "price": 1573.57,
+      "change": 8.7533,
+      "changePercent": 0.5594
     }
   },
   "fx": {
     "USDTWD": {
       "price": 31.844,
-      "change": 0.036,
-      "changePercent": 0.1132
+      "change": -0.016,
+      "changePercent": -0.0502
     },
     "JPYTWD": {
       "price": 0.1947,
-      "change": -0.0019,
-      "changePercent": -0.979
+      "change": -0.0022,
+      "changePercent": -1.1203
     },
     "EURTWD": {
-      "price": 36.324,
-      "change": 0.2097,
-      "changePercent": 0.5808
+      "price": 36.298,
+      "change": 0.0996,
+      "changePercent": 0.2752
     },
     "CNYTWD": {
-      "price": 4.6897,
+      "price": 4.6871,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4102.5,
-    "twd": 4200.0,
-    "tael": 157507.0,
-    "twdTotal": 130640.0,
-    "changePercent": 1.7864
+    "usd": 4103.0,
+    "twd": 4201.0,
+    "tael": 157526.0,
+    "twdTotal": 130656.0,
+    "changePercent": 1.7988
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,6 +125,10 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ITk13LXJEWEVYUUFzSzBaMVB2WmdtMjVndnFZMWlTVjBvSFR4MnI4blZPOHdnT1ZpeVpoM1F3QWpPYUlkTkxhaUxNLS1sdkVB?oc=5"
     },
     {
+      "title": "億萬富翁格蘭漢警告：美股泡沫恐將崩潰，預測70％跌幅！ - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1neTJ4aHJyekROS05UVjBMWlhuVUN1U0U2Q193QmRpWnN0b0ZyQVE3SVBQcFBfQTluQk8yODEwRWc3VHVYQ0pRR0thTHhDZ3p5Q1hSOTVPaVNHNFVJV2JiVGRsRkFER0U?oc=5"
+    },
+    {
       "title": "科技股還沒止血！美股盤前齊跌 台指期夜盤臉綠 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PSHJ3TDdqaXBaSVlUbUFHLW1ab250VEFSUE9mNXVtN1E0SzN6MW5fTm1lU3lLZHNxbW9aeDNZdC1YNTlnUWliZEpWMXhaUUxXVW1OdHN3RVZLanZDNVdB0gFkQVVfeXFMT0dWLXJ0Q3lSNl96QWhQeTJuNm4tUm1nT2hEaFhYQzdXdUp5NjZSMVo0SWRseTVfQ25qS1ZVREo5b1FwSG10Z3drUGdZRmw2UDVaR2tMNjBTZjVfa2I2UkJXT0NkcQ?oc=5"
     },
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOWElaS0YyblAxUTJUMEpaQkdvTm9tajA3T1RYNjlVMDVRNDJYMnFJV2VrTmE2ZGZUMWpmcjNLLXZ1Tkl5dDc4MndzR3hubnc?oc=5"
     },
     {
-      "title": "億萬富翁格蘭漢警告：美股泡沫恐將崩潰，預測70％跌幅！ - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1neTJ4aHJyekROS05UVjBMWlhuVUN1U0U2Q193QmRpWnN0b0ZyQVE3SVBQcFBfQTluQk8yODEwRWc3VHVYQ0pRR0thTHhDZ3p5Q1hSOTVPaVNHNFVJV2JiVGRsRkFER0U?oc=5"
-    },
-    {
       "title": "【0625台股盤前】外資暴砍1,774 億元創紀錄，美光財報能否拯救台股?【投本比排行】: 國精化4722 ｜ 遠傳4904 ｜中興電1513｜ 華邦電2344｜豐雲學堂2026 年 06 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMijAVBVV95cUxQQk9ueHdhUTVtV19KNjNjSV83akhQaFctaUk5bXgyeHFTSEtHM3g0dEctOE9UZVNRX1lrVzRBZkpRdm80RUtCM0pnZE9CYUpUbDFQZ0lkRUUtbFpRa0stbHM1MFlVYXhyY01EV01MZERUek5RRHNKWVJIcmFBbzNZMnNFNE9aY1pOMzcwZGpvcHVGUk90QVZGbmViMXpWWUhYTU1MR29FZmEzNWJHSFV6cW9Pbm5rQWpsdFdVbkdtcUtDVWVRaHNqZUZ3RF84TmxhVFJ1LUg5LThvYlNMeS13RlFFcHcwRTloR2hnRlZQTjhsZVJfdzgtdTNXUDNfZEw3Q0JNVU85cnExWWZ3TjF5RzFvbGRpQmx0bkhraVcxcHdQcXJCeC1Ycm1WRlJ4M0VLUmpyY1BlVnZXWU5sT3VJRkgtV3JOM3JETTdfUnhZaXRTWFUycERaU1BmeTFjTGFVWTZfTXFvZTdIMTVPekNfaTQ1OHE0VmNUZTVLeFk2RU5kNWlrNVpsczhoZUVuYVljMzlaRW55SWozNk9NY1JMcE9LeGkwb0ZSZkVEeUd2V0V0Rmw4NXR4WTdhWC1Gc0pwZXdtQlB3NTFGeVdra1BFbTV3NENDRGpCNF9vNG9EX1Z5TmRWcW9nVS1FaEFuWlhEdzZPMnBOQURVejF1elBBODVkeUUtNklmSFZyWHAzdFRWZjNKdVBCTlBHUWhWSkcyblgzam9oTm11aFVpSlcxV3ZXMXlRcWxHTGhlY2dLTkxVc0xMZ05HQ1RGZFZJNHhxYjdfSURhMWFYSzhDcVg4MWctOV83a1ZHSDQ4SjhwNHB0czM1Nzd6cU52YzdoX0dlZ2pxNW9Yd00yVk4t?oc=5"
     },
     {
-      "title": "美股開盤前科技股重挫，ON半導體跌幅達12.8%引發市場擔憂！ - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMUg4SWZhSFlDQndEMDIwT0pjdlhYbjY4Q3l3OGJrWXpBYVZmRXUyQkVUWUVIOVRQclhKLWVodTZLcENKWlc0bjFTYmtVRXoydTAtRmRQMEh3anozbmo0bXdtWC1hUnVua1JMamwweXF4WW5rYUhXRXdZY0pGZE5wVE9HWm44aTUyYUVDdW9R?oc=5"
+      "title": "台股獲利回吐止穩看三關鍵- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzY3NjZ2w4SWJhVzhqS1J5Q3JreUNGa1UxYVJJVGtEMkY0ZldmWXRYMDR6WTA0ZXlVbE00Y0ktV0VFV2pnMEJZam9pcXpDaDhNMGd0Sk9qLTgzWktrbHdr?oc=5"
     },
     {
-      "title": "黃金和比特幣遭遇拋售 - 日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUV92MTdnQ0kyWEpKejlsdlNRbktfenJwM0ZwdV9mM3VTbWxHUE5abFIzRjBwTWJXbUQ3di0zLXZwaGRBRjlPZmF2MXlyTjkwM01CMlBRVjVlRENJVHVZWEZZQU9yZFAyajNWaGxHRjRQMjBnR2dwLWF1MWxSMnVnSGRldThVbkhlN3c?oc=5"
+      "title": "主計處喊出9.6%成長率！操盤手曝台股再創高底氣　逢回就是加碼 - 三立新聞網SETN.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkLVMyUzE1a3lSTjYyVXdLTGo4SEd2VDB5c2VkNWhvQmpNajdLTTZGLTNtdXBPM2F6YkxhQW9lVUJsdUN2TVhDcFNjaXpXRDFiamIyX3B1Y1fSAV9BVV95cUxOeF9jQUZ6TmhHX0FueThiMzRBcklQRkxxbGtHY1d1bm5Wc2VFdEFseGQxVFdSQjJLV3pKSl9kV2xRTGt3UWUwNFBqcmI2QXJYN0xHN00tZWRUYml6Uk1HWQ?oc=5"
     }
   ]
 }
