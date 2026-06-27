@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/27 05:51",
+  "updated_tw": "06/27 16:11",
   "taiwan": {
     "2330": {
       "price": 2340.0,
@@ -19,67 +19,67 @@
     },
     "0050": {
       "price": 103.1,
-      "change": -4.05,
-      "changePercent": -3.7797
+      "change": -4.1,
+      "changePercent": -3.8246
     },
     "00878": {
       "price": 32.71,
-      "change": -0.95,
-      "changePercent": -2.8223
+      "change": -1.04,
+      "changePercent": -3.0815
     },
     "00919": {
       "price": 29.56,
-      "change": -0.65,
-      "changePercent": -2.1516
+      "change": -0.7,
+      "changePercent": -2.3133
     }
   },
   "us": {
     "NVDA": {
       "price": 192.53,
-      "change": -3.21,
-      "changePercent": -1.6399
+      "change": -6.47,
+      "changePercent": -3.2513
     },
     "AAPL": {
       "price": 283.78,
-      "change": 8.63,
-      "changePercent": 3.1365
+      "change": -9.3,
+      "changePercent": -3.1732
     },
     "TSLA": {
       "price": 379.71,
-      "change": 4.59,
-      "changePercent": 1.2236
+      "change": 4.18,
+      "changePercent": 1.1131
     },
     "QQQ": {
       "price": 706.52,
-      "change": -9.86,
-      "changePercent": -1.3764
+      "change": -4.1,
+      "changePercent": -0.577
     },
     "SPY": {
       "price": 728.99,
-      "change": -5.31,
-      "changePercent": -0.7231
+      "change": -4.25,
+      "changePercent": -0.5796
     },
     "SCHD": {
       "price": 32.09,
-      "change": 0.13,
-      "changePercent": 0.4068
+      "change": 0.37,
+      "changePercent": 1.1665
     },
     "VOO": {
       "price": 670.26,
-      "change": -5.45,
-      "changePercent": -0.8066
+      "change": -5.43,
+      "changePercent": -0.8036
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59847.49,
-      "change": 125.8142,
-      "changePercent": 0.2107
+      "price": 60389.1,
+      "change": 372.6703,
+      "changePercent": 0.6209
     },
     "ETH": {
-      "price": 1573.57,
-      "change": 8.7533,
-      "changePercent": 0.5594
+      "price": 1581.7,
+      "change": 5.0839,
+      "changePercent": 0.3225
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4103.0,
-    "twd": 4201.0,
-    "tael": 157526.0,
-    "twdTotal": 130656.0,
-    "changePercent": 1.7988
+    "usd": 4096.3,
+    "twd": 4194.0,
+    "tael": 157268.0,
+    "twdTotal": 130443.0,
+    "changePercent": 1.6326
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "AI熱潮降溫、科技股慘遭拋售！美股4大指數全倒 台積電ADR同步下挫逾3% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNVF9FWHFKX1dhME9HdF9uSDJSTFVvSjJjOGFRNTFDOXo5VXFZMHlsd1V0WV91OUNDZDkydU9Fa2ppYmFPTWN3MG5rTThuVjN2VVRTMjBENzM0U2t1ZF9hSENTbFZ4bkJiSGZfZDhXazdMdjkzWnlMWlRMUEROeXZyME93TkZ4ZkRTc05NSENIRzRlX3h4alkxZEduemNCUGh0N2ktRzBfOUJHbVA4anFxdTZTVXkxTk94eVhRbjI4T2kwc2hVTjZwUzE0ZE5TcXRkNmZZWXFqX0xOeEpldERJMEo1YzI0SS02VVZWOWZJZXQxTjdaX3JHSEp3bXl0c2JjWEFrcnJQRk5JRVZKTzV5aU5UTXpfM01YbFVKYmFTMjVKeEphWTlVcXlqX1pTNEQ2TldiNktXRGU5X1pHSzFVenJFN2xhblZESDdGdUNXWEdrWXlPWTMyaXNRUURSblA5akFfbTBfdTQ5T0NlNF9wQmZxTVgyTDJKT2lwWUNJcDliV2FZZUsyZjJLa29Pd1RwRld3TVdBODN0Q19ueTE3Uw?oc=5"
+      "title": "美股連跌「背後真相」曝！最大權重「科技七巨頭」的隕落 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4T1B5ejd1emVmX3NDYVNVcUsyQ0ViUU53UWU5cXU3ZTNDdkxQd3c3Rm1xQVkxQzNkeTVwU3UtRnN2VzJBUHRzVGxLbHVyNHc?oc=5"
+    },
+    {
+      "title": "AI泡沫破裂？美股費半崩跌5.29% 輝達、台積電ADR下殺 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQSVJ4Y3JJYVZfZUxWelpHYkY1a1pmeUk0MkFYM0tUakQ2dWFDa18yblhiclR5Smg0VUdlMHpSdXRqZkVyeHhtci1VNlN0YVZXSEhZdVNLZFFkOFdjOFh0YVpraGN4clpuRWF5NnNoTUJCR0xRSThiT251Z3FwNjFrcmNGNjFjalhXU1p0MmQtOTlpUjZKTWNkZDAtODFWc2NSS1JHVUNGTDdEYkRPOE9NNE16aXJMOWhTbGlISGtkd2RSTTZiY3F0d1AwYW1OTmdZcmpkS0dFMk1jaVVOUEE5WHFJb1VqVVZ6TnR1SGVqc2NCSXFrOUxMWWRDTHFxOXJkdWFsWVUzWkdXTmdldzlsZ1Q2cS11TzNMOGY2czFYYlJ3aGVLb2FGNEk1aFVqWlBlSVkyMnFLYw?oc=5"
+    },
+    {
+      "title": "美股收盤》費半重挫逾5％、那指連5黑！台積電ADR走跌 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XNUdmOFVhRUQ0QjV5TmpLdUhUVjdSQzQ5NlFTUmlEVDhmT1dEeVRtamdzU0xodW5VYXFrUW5vaHhTN2NVNWlsdlFiNjZqdDhrOEQ4M0dpbzRoWVRRS3lF0gFkQVVfeXFMT1g2Z05veG9sanBSOHl5cjBYanQ2WjFtaGFaVTdLTjZwUXdBLS1lVV95Q01iZVZsc2F4d2Fhbk5UaHdka1J0ZWZhVlhITjBLbTZIYUk1MWZfLVd4ZFhXajdFN2JVZQ?oc=5"
     },
     {
       "title": "美股早盤／OpenAI傳延後掛牌 加劇科技股悲觀氛圍、費半重挫5% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ITk13LXJEWEVYUUFzSzBaMVB2WmdtMjVndnFZMWlTVjBvSFR4MnI4blZPOHdnT1ZpeVpoM1F3QWpPYUlkTkxhaUxNLS1sdkVB?oc=5"
     },
     {
-      "title": "億萬富翁格蘭漢警告：美股泡沫恐將崩潰，預測70％跌幅！ - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1neTJ4aHJyekROS05UVjBMWlhuVUN1U0U2Q193QmRpWnN0b0ZyQVE3SVBQcFBfQTluQk8yODEwRWc3VHVYQ0pRR0thTHhDZ3p5Q1hSOTVPaVNHNFVJV2JiVGRsRkFER0U?oc=5"
+      "title": "美股｜AI熱潮降溫？費半挫逾5％ 美4大指數齊黑 美光崩6.7％ - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QzJwX19YNURHQnREM2M2MllxTWlfVTRyY0tRTGlSVmRIU012ZmZ3dFZBdW9jLThEbVprenhqWUhFMHQ0VEM2T1l5MjltUXZGb3ZiWGtUQVBRdlFacDFF?oc=5"
     },
     {
-      "title": "科技股還沒止血！美股盤前齊跌 台指期夜盤臉綠 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PSHJ3TDdqaXBaSVlUbUFHLW1ab250VEFSUE9mNXVtN1E0SzN6MW5fTm1lU3lLZHNxbW9aeDNZdC1YNTlnUWliZEpWMXhaUUxXVW1OdHN3RVZLanZDNVdB0gFkQVVfeXFMT0dWLXJ0Q3lSNl96QWhQeTJuNm4tUm1nT2hEaFhYQzdXdUp5NjZSMVo0SWRseTVfQ25qS1ZVREo5b1FwSG10Z3drUGdZRmw2UDVaR2tMNjBTZjVfa2I2UkJXT0NkcQ?oc=5"
+      "title": "費半族群疲軟「指數重摔737點」！美股道瓊小跌0.09%、台積電ADR收黑 Meta、蘋果逆勢上攻 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQcnFKeHAtMm5feDQyMkxlRUl0WlgwX3phNFF4ekZCMFRaQkNic2kxbzlyeDFrWFNtY1lEYmR2VUtwcV9KdDFvRjEtX1UzY19VcHlydzZna0pudGZBQ0NuUV9wS29jbThfcDFmR3d3dE5KOHpqM050Slk5NERIMVJmOUw2Y21PQm5lMkhHVk0ybFQ1V1g1cmNRX1pBUVh2eHVUb3Y1N2J0SWN5QUY3cFpobWhDMWJMTHh5Z2FRdWRQRHEtWTZuMzZaZi04R2tXblZ2ZUhjS2l1U25UaXVqalNsTVFxN1AyMG13cENvUzhVdHlMcHR2Qk9iUEJMMkxwalNuTS1fMWRMMU9jcUI2MElPMkpOVzJKQzhfalphU2lxR0F4SW43X0FDX2pOcldod1NuNEZ2d29vc0t1YXg0S1U5QjVxRTlFYVRyU3BKMTRXSUp6LVVLNzN4UmQ4cVJsNXN2YXRVSjAybVFJYUVJbGpZYXVuWlI?oc=5"
     },
     {
-      "title": "AI狂潮降溫？美股基金3個月來首見外流 科技股面臨2008年來最大撤資 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOWElaS0YyblAxUTJUMEpaQkdvTm9tajA3T1RYNjlVMDVRNDJYMnFJV2VrTmE2ZGZUMWpmcjNLLXZ1Tkl5dDc4MndzR3hubnc?oc=5"
+      "title": "〈美股盤後〉美軍報復性空襲伊朗 晶片股重摔 那指連五黑周線挫逾4% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GdEtHLUJmVGlyZHpFeU5GRzZEeXRfakhwZGpXaUtONTl3YkF3eWdhOGx0UGVGV01oREVRb2JZaUVWYThIS2xYcUNkQWJmUDA?oc=5"
     },
     {
-      "title": "【0625台股盤前】外資暴砍1,774 億元創紀錄，美光財報能否拯救台股?【投本比排行】: 國精化4722 ｜ 遠傳4904 ｜中興電1513｜ 華邦電2344｜豐雲學堂2026 年 06 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijAVBVV95cUxQQk9ueHdhUTVtV19KNjNjSV83akhQaFctaUk5bXgyeHFTSEtHM3g0dEctOE9UZVNRX1lrVzRBZkpRdm80RUtCM0pnZE9CYUpUbDFQZ0lkRUUtbFpRa0stbHM1MFlVYXhyY01EV01MZERUek5RRHNKWVJIcmFBbzNZMnNFNE9aY1pOMzcwZGpvcHVGUk90QVZGbmViMXpWWUhYTU1MR29FZmEzNWJHSFV6cW9Pbm5rQWpsdFdVbkdtcUtDVWVRaHNqZUZ3RF84TmxhVFJ1LUg5LThvYlNMeS13RlFFcHcwRTloR2hnRlZQTjhsZVJfdzgtdTNXUDNfZEw3Q0JNVU85cnExWWZ3TjF5RzFvbGRpQmx0bkhraVcxcHdQcXJCeC1Ycm1WRlJ4M0VLUmpyY1BlVnZXWU5sT3VJRkgtV3JOM3JETTdfUnhZaXRTWFUycERaU1BmeTFjTGFVWTZfTXFvZTdIMTVPekNfaTQ1OHE0VmNUZTVLeFk2RU5kNWlrNVpsczhoZUVuYVljMzlaRW55SWozNk9NY1JMcE9LeGkwb0ZSZkVEeUd2V0V0Rmw4NXR4WTdhWC1Gc0pwZXdtQlB3NTFGeVdra1BFbTV3NENDRGpCNF9vNG9EX1Z5TmRWcW9nVS1FaEFuWlhEdzZPMnBOQURVejF1elBBODVkeUUtNklmSFZyWHAzdFRWZjNKdVBCTlBHUWhWSkcyblgzam9oTm11aFVpSlcxV3ZXMXlRcWxHTGhlY2dLTkxVc0xMZ05HQ1RGZFZJNHhxYjdfSURhMWFYSzhDcVg4MWctOV83a1ZHSDQ4SjhwNHB0czM1Nzd6cU52YzdoX0dlZ2pxNW9Yd00yVk4t?oc=5"
-    },
-    {
-      "title": "台股獲利回吐止穩看三關鍵- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzY3NjZ2w4SWJhVzhqS1J5Q3JreUNGa1UxYVJJVGtEMkY0ZldmWXRYMDR6WTA0ZXlVbE00Y0ktV0VFV2pnMEJZam9pcXpDaDhNMGd0Sk9qLTgzWktrbHdr?oc=5"
-    },
-    {
-      "title": "主計處喊出9.6%成長率！操盤手曝台股再創高底氣　逢回就是加碼 - 三立新聞網SETN.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkLVMyUzE1a3lSTjYyVXdLTGo4SEd2VDB5c2VkNWhvQmpNajdLTTZGLTNtdXBPM2F6YkxhQW9lVUJsdUN2TVhDcFNjaXpXRDFiamIyX3B1Y1fSAV9BVV95cUxOeF9jQUZ6TmhHX0FueThiMzRBcklQRkxxbGtHY1d1bm5Wc2VFdEFseGQxVFdSQjJLV3pKSl9kV2xRTGt3UWUwNFBqcmI2QXJYN0xHN00tZWRUYml6Uk1HWQ?oc=5"
+      "title": "AI、SpaceX、比特幣槓桿交易反噬科技股崩跌揭露投機市場真面目| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43cWlkZ0lWYVdIVll5ZDJGQ3A2b0Y3Y05FRmpjcTloM01wbTZ5MUtiREdFUXVGeDM3YV9OQXpOeGZkRnZkVFVsUmRKM0hOMnZi?oc=5"
     }
   ]
 }
