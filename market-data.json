@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/27 20:17",
+  "updated_tw": "06/28 00:41",
   "taiwan": {
     "2330": {
       "price": 2340.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60202.43,
-      "change": 186.0003,
-      "changePercent": 0.3099
+      "price": 60658.59,
+      "change": 642.1603,
+      "changePercent": 1.07
     },
     "ETH": {
-      "price": 1580.4,
-      "change": 3.7839,
-      "changePercent": 0.24
+      "price": 1602.96,
+      "change": 26.3439,
+      "changePercent": 1.6709
     }
   },
   "fx": {
@@ -99,7 +99,7 @@
       "changePercent": 0.2752
     },
     "CNYTWD": {
-      "price": 4.6871,
+      "price": 4.6912,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -115,38 +115,5 @@
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": [
-    {
-      "title": "美股連跌「背後真相」曝！最大權重「科技七巨頭」的隕落 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4T1B5ejd1emVmX3NDYVNVcUsyQ0ViUU53UWU5cXU3ZTNDdkxQd3c3Rm1xQVkxQzNkeTVwU3UtRnN2VzJBUHRzVGxLbHVyNHc?oc=5"
-    },
-    {
-      "title": "AI泡沫破裂？美股費半崩跌5.29% 輝達、台積電ADR下殺 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQSVJ4Y3JJYVZfZUxWelpHYkY1a1pmeUk0MkFYM0tUakQ2dWFDa18yblhiclR5Smg0VUdlMHpSdXRqZkVyeHhtci1VNlN0YVZXSEhZdVNLZFFkOFdjOFh0YVpraGN4clpuRWF5NnNoTUJCR0xRSThiT251Z3FwNjFrcmNGNjFjalhXU1p0MmQtOTlpUjZKTWNkZDAtODFWc2NSS1JHVUNGTDdEYkRPOE9NNE16aXJMOWhTbGlISGtkd2RSTTZiY3F0d1AwYW1OTmdZcmpkS0dFMk1jaVVOUEE5WHFJb1VqVVZ6TnR1SGVqc2NCSXFrOUxMWWRDTHFxOXJkdWFsWVUzWkdXTmdldzlsZ1Q2cS11TzNMOGY2czFYYlJ3aGVLb2FGNEk1aFVqWlBlSVkyMnFLYw?oc=5"
-    },
-    {
-      "title": "美股｜AI熱潮降溫？費半挫逾5％ 美4大指數齊黑 美光崩6.7％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QzJwX19YNURHQnREM2M2MllxTWlfVTRyY0tRTGlSVmRIU012ZmZ3dFZBdW9jLThEbVprenhqWUhFMHQ0VEM2T1l5MjltUXZGb3ZiWGtUQVBRdlFacDFF?oc=5"
-    },
-    {
-      "title": "美股收盤》費半重挫逾5％、那指連5黑！台積電ADR走跌 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XNUdmOFVhRUQ0QjV5TmpLdUhUVjdSQzQ5NlFTUmlEVDhmT1dEeVRtamdzU0xodW5VYXFrUW5vaHhTN2NVNWlsdlFiNjZqdDhrOEQ4M0dpbzRoWVRRS3lF0gFkQVVfeXFMT1g2Z05veG9sanBSOHl5cjBYanQ2WjFtaGFaVTdLTjZwUXdBLS1lVV95Q01iZVZsc2F4d2Fhbk5UaHdka1J0ZWZhVlhITjBLbTZIYUk1MWZfLVd4ZFhXajdFN2JVZQ?oc=5"
-    },
-    {
-      "title": "美股早盤／OpenAI傳延後掛牌 加劇科技股悲觀氛圍、費半重挫5% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ITk13LXJEWEVYUUFzSzBaMVB2WmdtMjVndnFZMWlTVjBvSFR4MnI4blZPOHdnT1ZpeVpoM1F3QWpPYUlkTkxhaUxNLS1sdkVB?oc=5"
-    },
-    {
-      "title": "費半族群疲軟「指數重摔737點」！美股道瓊小跌0.09%、台積電ADR收黑 Meta、蘋果逆勢上攻 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQcnFKeHAtMm5feDQyMkxlRUl0WlgwX3phNFF4ekZCMFRaQkNic2kxbzlyeDFrWFNtY1lEYmR2VUtwcV9KdDFvRjEtX1UzY19VcHlydzZna0pudGZBQ0NuUV9wS29jbThfcDFmR3d3dE5KOHpqM050Slk5NERIMVJmOUw2Y21PQm5lMkhHVk0ybFQ1V1g1cmNRX1pBUVh2eHVUb3Y1N2J0SWN5QUY3cFpobWhDMWJMTHh5Z2FRdWRQRHEtWTZuMzZaZi04R2tXblZ2ZUhjS2l1U25UaXVqalNsTVFxN1AyMG13cENvUzhVdHlMcHR2Qk9iUEJMMkxwalNuTS1fMWRMMU9jcUI2MElPMkpOVzJKQzhfalphU2lxR0F4SW43X0FDX2pOcldod1NuNEZ2d29vc0t1YXg0S1U5QjVxRTlFYVRyU3BKMTRXSUp6LVVLNzN4UmQ4cVJsNXN2YXRVSjAybVFJYUVJbGpZYXVuWlI?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉美軍報復性空襲伊朗 晶片股重摔 那指連五黑周線挫逾4% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GdEtHLUJmVGlyZHpFeU5GRzZEeXRfakhwZGpXaUtONTl3YkF3eWdhOGx0UGVGV01oREVRb2JZaUVWYThIS2xYcUNkQWJmUDA?oc=5"
-    },
-    {
-      "title": "台股重挫1683點！外資狂賣1431億 陳重銘點出「2原因」曝資金將轉向這產業 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPNkhBZDJVM0pqN2dMbWdNZ0xDaTlmQ1VnOFdHOUtDdkNVbXJ5ZzMzRkk4SG9yMmdJM3ZaQV9yWG9IcFpZdTZycHpkNzdsaGNwZGEtMTVRZ21uLTJPeUJibGhYN1RsZVBZRFp5NWJtMS1odTVhbUg5TGlFM29VbVlXaUZqdm1jbnVWbWJDNjlCSGRWYVR2clM3V2xiTm5VdEZfZUp1ZHVITmFIaE5jV0tJMzlIcF90U19aeWR4ZndMdEI5UzNEQUJEOHJ6TERuTVYxYTdZNXdXMUlQcXlsS0Z6aFcxd2NFYzJnTTNuNW5fVm14YlBhQ2ptQTY0QnhLeVVmRi1PWFA4QWZFaDNKQkwtVXBFVDdUWGR2Qm1QWVlOb0VONXJ6dk9GT0wyUU1rbVBNRThBZjJHall0all4V01jZ3FfNDltcFZHNFBqdEdWdXctSUFmX3pKU2I5RkpXUGg2QXRKZGNWbTZXdHViTDRKbWxxbVJDeHBVSGg1VF92eFFaTEEzVmJrbFVrZjJaVTByZmpCV3kyT3VRRmdrSGNKQUYxWWM?oc=5"
-    }
-  ]
+  "news": []
 }
