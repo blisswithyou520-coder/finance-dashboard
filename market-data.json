@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/27 16:11",
+  "updated_tw": "06/27 20:17",
   "taiwan": {
     "2330": {
       "price": 2340.0,
@@ -36,50 +36,50 @@
   "us": {
     "NVDA": {
       "price": 192.53,
-      "change": -6.47,
-      "changePercent": -3.2513
+      "change": -3.21,
+      "changePercent": -1.6399
     },
     "AAPL": {
       "price": 283.78,
-      "change": -9.3,
-      "changePercent": -3.1732
+      "change": 8.63,
+      "changePercent": 3.1365
     },
     "TSLA": {
       "price": 379.71,
-      "change": 4.18,
-      "changePercent": 1.1131
+      "change": 4.59,
+      "changePercent": 1.2236
     },
     "QQQ": {
       "price": 706.52,
-      "change": -4.1,
-      "changePercent": -0.577
+      "change": -9.86,
+      "changePercent": -1.3764
     },
     "SPY": {
       "price": 728.99,
-      "change": -4.25,
-      "changePercent": -0.5796
+      "change": -5.31,
+      "changePercent": -0.7231
     },
     "SCHD": {
       "price": 32.09,
-      "change": 0.37,
-      "changePercent": 1.1665
+      "change": 0.13,
+      "changePercent": 0.4068
     },
     "VOO": {
       "price": 670.26,
-      "change": -5.43,
-      "changePercent": -0.8036
+      "change": -5.45,
+      "changePercent": -0.8066
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60389.1,
-      "change": 372.6703,
-      "changePercent": 0.6209
+      "price": 60202.43,
+      "change": 186.0003,
+      "changePercent": 0.3099
     },
     "ETH": {
-      "price": 1581.7,
-      "change": 5.0839,
-      "changePercent": 0.3225
+      "price": 1580.4,
+      "change": 3.7839,
+      "changePercent": 0.24
     }
   },
   "fx": {
@@ -125,16 +125,16 @@
       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQSVJ4Y3JJYVZfZUxWelpHYkY1a1pmeUk0MkFYM0tUakQ2dWFDa18yblhiclR5Smg0VUdlMHpSdXRqZkVyeHhtci1VNlN0YVZXSEhZdVNLZFFkOFdjOFh0YVpraGN4clpuRWF5NnNoTUJCR0xRSThiT251Z3FwNjFrcmNGNjFjalhXU1p0MmQtOTlpUjZKTWNkZDAtODFWc2NSS1JHVUNGTDdEYkRPOE9NNE16aXJMOWhTbGlISGtkd2RSTTZiY3F0d1AwYW1OTmdZcmpkS0dFMk1jaVVOUEE5WHFJb1VqVVZ6TnR1SGVqc2NCSXFrOUxMWWRDTHFxOXJkdWFsWVUzWkdXTmdldzlsZ1Q2cS11TzNMOGY2czFYYlJ3aGVLb2FGNEk1aFVqWlBlSVkyMnFLYw?oc=5"
     },
     {
+      "title": "美股｜AI熱潮降溫？費半挫逾5％ 美4大指數齊黑 美光崩6.7％ - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QzJwX19YNURHQnREM2M2MllxTWlfVTRyY0tRTGlSVmRIU012ZmZ3dFZBdW9jLThEbVprenhqWUhFMHQ0VEM2T1l5MjltUXZGb3ZiWGtUQVBRdlFacDFF?oc=5"
+    },
+    {
       "title": "美股收盤》費半重挫逾5％、那指連5黑！台積電ADR走跌 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XNUdmOFVhRUQ0QjV5TmpLdUhUVjdSQzQ5NlFTUmlEVDhmT1dEeVRtamdzU0xodW5VYXFrUW5vaHhTN2NVNWlsdlFiNjZqdDhrOEQ4M0dpbzRoWVRRS3lF0gFkQVVfeXFMT1g2Z05veG9sanBSOHl5cjBYanQ2WjFtaGFaVTdLTjZwUXdBLS1lVV95Q01iZVZsc2F4d2Fhbk5UaHdka1J0ZWZhVlhITjBLbTZIYUk1MWZfLVd4ZFhXajdFN2JVZQ?oc=5"
     },
     {
       "title": "美股早盤／OpenAI傳延後掛牌 加劇科技股悲觀氛圍、費半重挫5% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ITk13LXJEWEVYUUFzSzBaMVB2WmdtMjVndnFZMWlTVjBvSFR4MnI4blZPOHdnT1ZpeVpoM1F3QWpPYUlkTkxhaUxNLS1sdkVB?oc=5"
-    },
-    {
-      "title": "美股｜AI熱潮降溫？費半挫逾5％ 美4大指數齊黑 美光崩6.7％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QzJwX19YNURHQnREM2M2MllxTWlfVTRyY0tRTGlSVmRIU012ZmZ3dFZBdW9jLThEbVprenhqWUhFMHQ0VEM2T1l5MjltUXZGb3ZiWGtUQVBRdlFacDFF?oc=5"
     },
     {
       "title": "費半族群疲軟「指數重摔737點」！美股道瓊小跌0.09%、台積電ADR收黑 Meta、蘋果逆勢上攻 - Yahoo股市",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GdEtHLUJmVGlyZHpFeU5GRzZEeXRfakhwZGpXaUtONTl3YkF3eWdhOGx0UGVGV01oREVRb2JZaUVWYThIS2xYcUNkQWJmUDA?oc=5"
     },
     {
-      "title": "AI、SpaceX、比特幣槓桿交易反噬科技股崩跌揭露投機市場真面目| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43cWlkZ0lWYVdIVll5ZDJGQ3A2b0Y3Y05FRmpjcTloM01wbTZ5MUtiREdFUXVGeDM3YV9OQXpOeGZkRnZkVFVsUmRKM0hOMnZi?oc=5"
+      "title": "台股重挫1683點！外資狂賣1431億 陳重銘點出「2原因」曝資金將轉向這產業 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPNkhBZDJVM0pqN2dMbWdNZ0xDaTlmQ1VnOFdHOUtDdkNVbXJ5ZzMzRkk4SG9yMmdJM3ZaQV9yWG9IcFpZdTZycHpkNzdsaGNwZGEtMTVRZ21uLTJPeUJibGhYN1RsZVBZRFp5NWJtMS1odTVhbUg5TGlFM29VbVlXaUZqdm1jbnVWbWJDNjlCSGRWYVR2clM3V2xiTm5VdEZfZUp1ZHVITmFIaE5jV0tJMzlIcF90U19aeWR4ZndMdEI5UzNEQUJEOHJ6TERuTVYxYTdZNXdXMUlQcXlsS0Z6aFcxd2NFYzJnTTNuNW5fVm14YlBhQ2ptQTY0QnhLeVVmRi1PWFA4QWZFaDNKQkwtVXBFVDdUWGR2Qm1QWVlOb0VONXJ6dk9GT0wyUU1rbVBNRThBZjJHall0all4V01jZ3FfNDltcFZHNFBqdEdWdXctSUFmX3pKU2I5RkpXUGg2QXRKZGNWbTZXdHViTDRKbWxxbVJDeHBVSGg1VF92eFFaTEEzVmJrbFVrZjJaVTByZmpCV3kyT3VRRmdrSGNKQUYxWWM?oc=5"
     }
   ]
 }
