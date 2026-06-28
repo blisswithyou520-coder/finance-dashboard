@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/28 04:40",
+  "updated_tw": "06/28 08:17",
   "taiwan": {
     "2330": {
       "price": 2340.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60181.11,
-      "change": 164.6803,
-      "changePercent": 0.2744
+      "price": 60064.73,
+      "change": 48.3003,
+      "changePercent": 0.0805
     },
     "ETH": {
-      "price": 1579.14,
-      "change": 2.5239,
-      "changePercent": 0.1601
+      "price": 1574.55,
+      "change": -2.0661,
+      "changePercent": -0.131
     }
   },
   "fx": {
@@ -117,6 +117,10 @@
   },
   "news": [
     {
+      "title": "美股連跌「背後真相」曝！最大權重「科技七巨頭」的隕落 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOTVNhSlNad0RjMHNTUkF3RnlXT0ljUnpQTndROFdBREFLX0RPX00tcGFjamxoeDRaRlVqVGpEV0paZk1xLVhzV1g1U2VzN0RWdDZLRFlIZVpiWGk2cXRtNkRnenM4cTNFTE45Sk5tZlJmY0hzSTlZRk4wV3M2WkZNOW44R2pRNC1WWEhGY1VfWGhZUnhWbFkyTk15YklBdHBUVGxOWFVyTlJIZVJkR2lvRHJaQnM4WklscDRfUGxMMW5MT0w1MXJsUFdxaUpybWN0c1ZBd3JrUUt3UVd2Z0Y1RjRJc0xsZGdWY0JkeHp5ZVZmeUQ3N05sWE9WdFduV0ZQaS1ibG4zMnVBTjMtWnlMVjBhSmk4UDU0QmtzcDd0Y0xvY09Rdm51RkcwckhjeXZ5cVoxSTNtYlE?oc=5"
+    },
+    {
       "title": "黃金迎來重大逆轉！4大跡象反彈行情幾周內爆發？ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pSXFlU1BTbEV2My1DcWRsdXlkVGpRRGw3X2N5LW1PbUl1RVY3WlFiMUF6Qmt6V2UtNUtKRTBFUC1DU19IMDY1dmctQmV1NXNhX2ZPV3RQNDdxd2J3QklB0gFkQVVfeXFMT1QwazJLVVlMSnRENlIzUjBOdVRQdlJ5NkE1NjRFUG9FUGFjTDZfY1FaVUdrX0d6Sm90R0RoR1hVdUczWS1obU50bDZsc2RYWEJ3QWl6WGhGcjF2Y3h1SlEwNjZNNQ?oc=5"
     },
@@ -125,28 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53VFdIbzZrNVU4T1lkQkY2Zzd4ZzRicTM4bE5LbkFpVUJ1VU9QQjMtOXBibVhIeU1YZWpESi0yalNERWY4LUhJbjJjYW5GVzg?oc=5"
     },
     {
-      "title": "AI泡沫破裂？美股費半崩跌5.29% 輝達、台積電ADR下殺 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQSVJ4Y3JJYVZfZUxWelpHYkY1a1pmeUk0MkFYM0tUakQ2dWFDa18yblhiclR5Smg0VUdlMHpSdXRqZkVyeHhtci1VNlN0YVZXSEhZdVNLZFFkOFdjOFh0YVpraGN4clpuRWF5NnNoTUJCR0xRSThiT251Z3FwNjFrcmNGNjFjalhXU1p0MmQtOTlpUjZKTWNkZDAtODFWc2NSS1JHVUNGTDdEYkRPOE9NNE16aXJMOWhTbGlISGtkd2RSTTZiY3F0d1AwYW1OTmdZcmpkS0dFMk1jaVVOUEE5WHFJb1VqVVZ6TnR1SGVqc2NCSXFrOUxMWWRDTHFxOXJkdWFsWVUzWkdXTmdldzlsZ1Q2cS11TzNMOGY2czFYYlJ3aGVLb2FGNEk1aFVqWlBlSVkyMnFLYw?oc=5"
+      "title": "台股擂台／陳奇琛賺165% Q2冠軍報酬率遠超大盤 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95eWJHS0FZN0RDU1d3RG1wYi1fRWVZSlB5TXQ0dFpCd1FEdnlNZWJTdi1VWS1abHktU3ZLTzV4OURHcTBHN3BabDBJaVNiTE9N0gFWQVVfeXFMT0ctZzhQV01TRXpmN3V6azRIQXc3SnNSOGN4dnI5RHEyY2o2U1llcl9DOHU1d2x0VkhTTE5VcGk1cmhuQ0RVN1oxX21INS1ucEQ2VmM1NXc?oc=5"
     },
     {
-      "title": "台股7月天名師喊上5萬點- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEcmpsNlZVaE5NVXlNZFBsU3pVV3JkRFpaTjVqek5GTjBTMC14RlcyYnhJOGIxRW85ZzFzR283U0FCS0c2Y0YwYk1oOTg2YVNscFNEbXNxYWtCN3d6SXdz?oc=5"
+      "title": "台股血洗4千點機會來？專家嗆「下周敢跌就敢撿」：掃貨名單大公開- 財經 - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QeEZYaU9kazBWUFlOZ3NtSzBYTUdNOFhqLXI2VFQ0R281U1BqU1dmZDhnal9KSnJ2cmpDUVZQMU9IamxXTzl5NUkzNlBTeXVMS19TYk05VEpyOFpJRjRfdC1YSGtLU05STUdteDJn?oc=5"
     },
     {
-      "title": "6月28日 五件財經大事搶先看 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40UVhVVEFzWURzMDR4Y2p1Y3dVTml2cHRJRGgzbG1FUEsxdFdQY0RXVlY2R2NiWm1RNVhySFljclJVbmUyTjl3a3czTjZaWGxIY1RrM1BfUXkxZ9IBX0FVX3lxTE5ZZmFVSFpOVUp0N1d5Zm0yWUtrRHhhMFJTUzQzWFVEOEV6UzI5NXRyNzJ0cDQzdG1qQXFlQ1FnekFSblU3RDJfY1pqcnpJQWctYllnM1N5SnBvSF9RRHM4?oc=5"
+      "title": "AI熱潮降溫、科技股慘遭拋售！美股4大指數全倒 台積電ADR同步下挫逾3% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNVF9FWHFKX1dhME9HdF9uSDJSTFVvSjJjOGFRNTFDOXo5VXFZMHlsd1V0WV91OUNDZDkydU9Fa2ppYmFPTWN3MG5rTThuVjN2VVRTMjBENzM0U2t1ZF9hSENTbFZ4bkJiSGZfZDhXazdMdjkzWnlMWlRMUEROeXZyME93TkZ4ZkRTc05NSENIRzRlX3h4alkxZEduemNCUGh0N2ktRzBfOUJHbVA4anFxdTZTVXkxTk94eVhRbjI4T2kwc2hVTjZwUzE0ZE5TcXRkNmZZWXFqX0xOeEpldERJMEo1YzI0SS02VVZWOWZJZXQxTjdaX3JHSEp3bXl0c2JjWEFrcnJQRk5JRVZKTzV5aU5UTXpfM01YbFVKYmFTMjVKeEphWTlVcXlqX1pTNEQ2TldiNktXRGU5X1pHSzFVenJFN2xhblZESDdGdUNXWEdrWXlPWTMyaXNRUURSblA5akFfbTBfdTQ5T0NlNF9wQmZxTVgyTDJKT2lwWUNJcDliV2FZZUsyZjJLa29Pd1RwRld3TVdBODN0Q19ueTE3Uw?oc=5"
     },
     {
-      "title": "美股連跌「背後真相」曝！最大權重「科技七巨頭」的隕落 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4T1B5ejd1emVmX3NDYVNVcUsyQ0ViUU53UWU5cXU3ZTNDdkxQd3c3Rm1xQVkxQzNkeTVwU3UtRnN2VzJBUHRzVGxLbHVyNHc?oc=5"
+      "title": "美股早盤／OpenAI 傳延後掛牌 加劇科技股悲觀氛圍 費半重挫5% - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vOHRnYXF5S0ktVnNsaWU3bkcybWwtcFE0MkdOSzlWcmtPMG9KTlRZV0ZMT2dCOElMd0xLRHZjejViYUo4VmZjOWRVNXBybHFPRjdWYjJjZ2MwZnJs0gFiQVVfeXFMTzZaQXZMLVNQN1kzdldxTXM2X0s4R19PdWQ0SFotQUtjRjdmN2o0RUdPcW8wWWJ6N3dKV1VBTFl3TnltMGZmT3gtYmZnRzhNVTNLdmo1SmtIcHhuMmUwRkhDLWc?oc=5"
     },
     {
-      "title": "費半族群疲軟「指數重摔737點」！美股道瓊小跌0.09%、台積電ADR收黑 Meta、蘋果逆勢上攻 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQcnFKeHAtMm5feDQyMkxlRUl0WlgwX3phNFF4ekZCMFRaQkNic2kxbzlyeDFrWFNtY1lEYmR2VUtwcV9KdDFvRjEtX1UzY19VcHlydzZna0pudGZBQ0NuUV9wS29jbThfcDFmR3d3dE5KOHpqM050Slk5NERIMVJmOUw2Y21PQm5lMkhHVk0ybFQ1V1g1cmNRX1pBUVh2eHVUb3Y1N2J0SWN5QUY3cFpobWhDMWJMTHh5Z2FRdWRQRHEtWTZuMzZaZi04R2tXblZ2ZUhjS2l1U25UaXVqalNsTVFxN1AyMG13cENvUzhVdHlMcHR2Qk9iUEJMMkxwalNuTS1fMWRMMU9jcUI2MElPMkpOVzJKQzhfalphU2lxR0F4SW43X0FDX2pOcldod1NuNEZ2d29vc0t1YXg0S1U5QjVxRTlFYVRyU3BKMTRXSUp6LVVLNzN4UmQ4cVJsNXN2YXRVSjAybVFJYUVJbGpZYXVuWlI?oc=5"
-    },
-    {
-      "title": "台股類全委保單帳戶績效飆- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XbnRzdU5hbUlYcEdUZjFzSVBUdFVJOXBGUzZOVW40VlhEek41eUV3c1djMHFycEZzMmpuM1dWNHc1UHo4elpuNTVLZEUtenNTR0tUQjFSbVQzWkJZZTRJ?oc=5"
+      "title": "比特幣跌破6萬美元關卡！ETF連七週遭提款 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jUHZSMFRNaHNCa0gxNWpETmthaFByMVdCS3FvTl8yWWgwOXdzajNZcTEtTmtobW5Wb09qOXdfbzlURlBkVllONTg5SV8waUk?oc=5"
     }
   ]
 }
