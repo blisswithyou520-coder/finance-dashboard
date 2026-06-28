@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/28 23:07",
+  "updated_tw": "06/29 03:59",
   "taiwan": {
     "2330": {
       "price": 2340.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 59996.0,
-      "change": 55.9023,
-      "changePercent": 0.0933
+      "price": 59403.09,
+      "change": -537.0077,
+      "changePercent": -0.8959
     },
     "ETH": {
-      "price": 1581.84,
-      "change": 10.2517,
-      "changePercent": 0.6523
+      "price": 1562.88,
+      "change": -8.7083,
+      "changePercent": -0.5541
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.844,
-      "change": -0.016,
-      "changePercent": -0.0502
+      "price": 31.865,
+      "change": 0.005,
+      "changePercent": 0.0157
     },
     "JPYTWD": {
       "price": 0.1947,
@@ -99,16 +99,16 @@
       "changePercent": 0.2752
     },
     "CNYTWD": {
-      "price": 4.6912,
+      "price": 4.6943,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
     "usd": 4096.3,
-    "twd": 4194.0,
-    "tael": 157268.0,
-    "twdTotal": 130443.0,
+    "twd": 4197.0,
+    "tael": 157372.0,
+    "twdTotal": 130529.0,
     "changePercent": 1.6326
   },
   "fed": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股震盪期布局良機？杜金龍點名3檔「便當股」：上來就噴出去了 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOZ21peEROaDNvejc2YnZweVdKWVpEQ1FTYzFrV3ZjR21fTVZYbjVKT2xjZUNubWxNT2dySTdjVElmMUxCNWEtUmNOWkJ1UVhkU21XT3ljY0JiM0U5VkVTdEdEVEhlcHhrdll6UUltVGM5STN0TW5CdGpQeEllbGduNmM2XzV4SFVpTjZOZHJVXzRjel9KOF9OVmxqTV9NSy1OYlhrd1Utb3dFUzRyZkJIZ0dpN1Q5RzRhUWJocmJVMnRURGYzOUVHYTBPVzF6SDI4RlVkRkljX2ZBZjR0TXQ1aFpoTlotMTFubXhmblJPV185WUtCMjNURzB0dlAxcllnWmlMWlFSN0xIUEZ2TWhpX3l1Wm4xRXFMM3ozQVB5amNIa3dFbnBaVWpKM1RNcDlHZVozdU9Hb2gtLV91VHBWR3RXcFlpT0wyS21Jei1ra29Obk1SRDBhWVFJS3NHeWczNVZrSEFyYWNrU3liMjVSczNvbFFhY1dIWDBZQUVxM0wwbDZhMTljSHk3YXc?oc=5"
-    },
-    {
-      "title": "台股大震盪，Q3怎麼布局？不只聯發科 分析師點名「這4檔」：最適合逢低接手 | 林子靖 | 新聞 - Storm.mg",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDMjBkQXR1cnVjNXpYYVpUbElNVUxhMnBydl9pQ2RhckdmWGFueFBESU1aWTFZVmRpUDB4S1VQRGpWVUs5QmI5RUdxaGFUZw?oc=5"
-    },
-    {
-      "title": "阿根廷學川普？計劃推「黃金護照」償還政府債務 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jOXpFZGFOczFERFdPLWF1R0xEYU44MjNMeFVlWGVDa2NpUHJON0Z4REVCRGxJdThYX0FlLUcwdjBUTkxXLXBoZ1I0R0dDazg?oc=5"
-    },
-    {
-      "title": "美股早盤／OpenAI 傳延後掛牌 加劇科技股悲觀氛圍 費半重挫5% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vOHRnYXF5S0ktVnNsaWU3bkcybWwtcFE0MkdOSzlWcmtPMG9KTlRZV0ZMT2dCOElMd0xLRHZjejViYUo4VmZjOWRVNXBybHFPRjdWYjJjZ2MwZnJs0gFiQVVfeXFMTzZaQXZMLVNQN1kzdldxTXM2X0s4R19PdWQ0SFotQUtjRjdmN2o0RUdPcW8wWWJ6N3dKV1VBTFl3TnltMGZmT3gtYmZnRzhNVTNLdmo1SmtIcHhuMmUwRkhDLWc?oc=5"
-    },
-    {
-      "title": "黃金迎來重大逆轉！4大跡象反彈行情幾周內爆發？ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pSXFlU1BTbEV2My1DcWRsdXlkVGpRRGw3X2N5LW1PbUl1RVY3WlFiMUF6Qmt6V2UtNUtKRTBFUC1DU19IMDY1dmctQmV1NXNhX2ZPV3RQNDdxd2J3QklB0gFkQVVfeXFMT1QwazJLVVlMSnRENlIzUjBOdVRQdlJ5NkE1NjRFUG9FUGFjTDZfY1FaVUdrX0d6Sm90R0RoR1hVdUczWS1obU50bDZsc2RYWEJ3QWl6WGhGcjF2Y3h1SlEwNjZNNQ?oc=5"
+      "title": "黃金期 保守看待 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sd29hdmVRQW5QUXpOVkRwd3lhOUwwS0dRSnljbEZBZGNxdTNkV1N5SF83cUl5czB1c25LRkZhQ0Z4UUtTc2J5dW5ZZlE5X21URjl6NkZaaklyVmfSAWBBVV95cUxOU0JrM09CLVJsOWN6N09BMTRjTFI5azVCZ0FUOFZNYk5DSHlnVGpsT1YzaWxrZlczNWdUQUNmNDRITkt6NU9RUEFUV0w3RGl6OEMtdThIdDFoSldkdV82dHc?oc=5"
     },
     {
       "title": "台股遭血洗！專家點名「這3檔便當股」可留意佈局 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQV0l5TndicExyaFdVT0UyWkhiYjUwVUJSektNczF5UTltckk4clRidEFWbGYtWGVwODdqTHFqd1FLNnN3d3pYc3JadkhnSEtVWlF1UDZ1dTFrNDBJX3g4cmVrbTZid2dwR0NDWjlHc1Z0dlR0MGlscU4wT21EQjgwN0RRR2dKbW9LZ1BkODE1TXBSVkdSdkx3SFhOanJFR1o0a2JsZHVBSDFVVTRnZDZjQzhyRHh4MWJOX3VFMUJzYXpyQll6RmZzYW05OWZ6aE9ZVlZuZ3gxMmFQSWtQNHhkci1aMDY1TmlPY2Q2ejRGQzhqSXp4bVVHTlRKNXNmWTBQYmx3b2ZPVUY3WWtweFpna0doV0tZWmgxMVhma0pEU056bG5HNmFDWFhidmZ1X1hiMkdkeENKR0RqVjBCSXpCR2s1WEQ?oc=5"
     },
     {
+      "title": "台股ETF規模 半年暴增3.3兆 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNVHJ5NkE5TlNqeWZaNk04cDBxR2hhVmxCWUJqYjVQdmwxZ2JIRjZsd3NiRHItX2kzaktpT2N6VmlUTW5iSGVMWW9VMjhnd3FhMURVaDJONHZ1Y2E5eDZj?oc=5"
+    },
+    {
+      "title": "專家斷言台股將迎來「跌深反彈」！　點名鎖定「瓶頸族群」 - 三立新聞網SETN.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoNWU2T1dlbDZWRUVvV2NfMTFyV0JfeFpSYjZpek91dE1MU2lBTjdPWExJTnV2aWhGVlVnNTBjQTcteEZfYnBRMWdvT3pMLUhRZXotVHBSNTXSAV9BVV95cUxOZGdxSmJnbFBqU29KaGM5QnhIdXNfLUZ5c1ZRQU5RLVFxeldwQ1hTZnpuSUxtNTVaeTdBaEZELWxxNTFCcGY2d3FFOFVtYU1QWHlXZGVUOElBOFhJRFNCbw?oc=5"
+    },
+    {
       "title": "美股連跌「背後真相」曝！最大權重「科技七巨頭」的隕落 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4T1B5ejd1emVmX3NDYVNVcUsyQ0ViUU53UWU5cXU3ZTNDdkxQd3c3Rm1xQVkxQzNkeTVwU3UtRnN2VzJBUHRzVGxLbHVyNHc?oc=5"
     },
     {
-      "title": "台股上周大跌反映短期去槓桿 法人：基本面趨勢不變 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NTVlqMFI2UVR0Z0IxX0xjZVFTRXgxbUFodm9aWFNDMXFOZjVLUG9MbzBmWEI2dWRlVUpaWnNmaURBWk1ockowZVdLYVVSaEJ20gFWQVVfeXFMTU1kTzg3VjRqY0ZtUXlJUTBrdHVfaXFBNzQ5WGpjX0ZEQW5JQXViTlNBdFNGR3VtSmJjQjRSZHVmT2NWQk9uN1RrcmpHcFVfUlUyM2M5cFE?oc=5"
+      "title": "台股週報》重挫失守月線 關注AI修正力道 - 卡優新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53clFrR24wa0cyeVl5c2MxczFXRzhfb2ZNMG1HNUljMWtXWmVVRmhMT0RfRWI3YjJybFJuU2RqLXlpc3J2OE5mWGJUVmM2V093aDc2dkRaXzdSUQ?oc=5"
+    },
+    {
+      "title": "台股短線交易熱 當沖比攀高 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XZnVMZThVbkt5ck9MNWozSjBWdko3SW5nY25vbnZ2NkRYMk5XaU1iTkl0WTROeXRkMDR1OF9xX0tsTTFod2lscEpvdHFUQ1lRYW9ZWGRxeS1VZ9IBX0FVX3lxTE1OMUZMUm5ZN3hpWmgydmdUSUZPTEUydVYtdW5HZmFwek5XR2JxMUVLaDdpWE9HS0Y1TFNpNWE0UkRSakFMVTdFQ2VzendIUVBPcDlwZDJTR1FOQmZpRkFZ?oc=5"
+    },
+    {
+      "title": "台股震盪期布局良機？杜金龍點名3檔「便當股」：上來就噴出去了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOZ21peEROaDNvejc2YnZweVdKWVpEQ1FTYzFrV3ZjR21fTVZYbjVKT2xjZUNubWxNT2dySTdjVElmMUxCNWEtUmNOWkJ1UVhkU21XT3ljY0JiM0U5VkVTdEdEVEhlcHhrdll6UUltVGM5STN0TW5CdGpQeEllbGduNmM2XzV4SFVpTjZOZHJVXzRjel9KOF9OVmxqTV9NSy1OYlhrd1Utb3dFUzRyZkJIZ0dpN1Q5RzRhUWJocmJVMnRURGYzOUVHYTBPVzF6SDI4RlVkRkljX2ZBZjR0TXQ1aFpoTlotMTFubXhmblJPV185WUtCMjNURzB0dlAxcllnWmlMWlFSN0xIUEZ2TWhpX3l1Wm4xRXFMM3ozQVB5amNIa3dFbnBaVWpKM1RNcDlHZVozdU9Hb2gtLV91VHBWR3RXcFlpT0wyS21Jei1ra29Obk1SRDBhWVFJS3NHeWczNVZrSEFyYWNrU3liMjVSczNvbFFhY1dIWDBZQUVxM0wwbDZhMTljSHk3YXc?oc=5"
     }
   ]
 }
