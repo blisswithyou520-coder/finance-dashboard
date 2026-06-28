@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/28 08:17",
+  "updated_tw": "06/28 18:16",
   "taiwan": {
     "2330": {
       "price": 2340.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60064.73,
-      "change": 48.3003,
-      "changePercent": 0.0805
+      "price": 60161.19,
+      "change": 221.0923,
+      "changePercent": 0.3689
     },
     "ETH": {
-      "price": 1574.55,
-      "change": -2.0661,
-      "changePercent": -0.131
+      "price": 1577.61,
+      "change": 6.0217,
+      "changePercent": 0.3832
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股連跌「背後真相」曝！最大權重「科技七巨頭」的隕落 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOTVNhSlNad0RjMHNTUkF3RnlXT0ljUnpQTndROFdBREFLX0RPX00tcGFjamxoeDRaRlVqVGpEV0paZk1xLVhzV1g1U2VzN0RWdDZLRFlIZVpiWGk2cXRtNkRnenM4cTNFTE45Sk5tZlJmY0hzSTlZRk4wV3M2WkZNOW44R2pRNC1WWEhGY1VfWGhZUnhWbFkyTk15YklBdHBUVGxOWFVyTlJIZVJkR2lvRHJaQnM4WklscDRfUGxMMW5MT0w1MXJsUFdxaUpybWN0c1ZBd3JrUUt3UVd2Z0Y1RjRJc0xsZGdWY0JkeHp5ZVZmeUQ3N05sWE9WdFduV0ZQaS1ibG4zMnVBTjMtWnlMVjBhSmk4UDU0QmtzcDd0Y0xvY09Rdm51RkcwckhjeXZ5cVoxSTNtYlE?oc=5"
+      "title": "台股週一繼續跌？專家示警「別恐慌殺出」 點名台積電、聯電成多頭支柱 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOLXZqS2lPSDJGT0lkeTdwanpDQjNNZjhtS1VITUpuRWlTckszaV9Vc2c1c3Y5MXd5OENFM25vc0FLd01qaGlXYnF1UUhzbU54MlBFT2p5Zm5QV01SblNtRWVqOWoxMi1TZzFaTEFxZVQ2RjNpUjVMUXg1SU9xcFo4Q3dDYmRfbzh1M0N6THRoNEJDYlZjZE91SC1RLVNpc2NvY2dMT3dpR1FTaS1GdXo3MzBsOEtqUmhlU0tXNHpEa3c0RkVJcEZoYS1NOGRYSEs2clhCblZvdVZqRFkzcnlXSTkzdUtnYXJNX1I4RjE0eWtKWUdERENReHprcE1DNk5VOEhtLVc0eW4zeGVtdmtxT3FPTTVoTEtCSjNoeFNhOTd0VXhKa3RIZlIxMlpuS09hVXFiQm9Xb0lKWVduM3lVNHVfelpEUVJtS01IVVotdkg?oc=5"
+    },
+    {
+      "title": "〈台股風向球〉熱門「便當股」漲風失靈 周跌1894點「熱水煮青蛙」？ - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XaFBheWQyUUt6aEUzZndsT1ZhTU5nYzZ5UmNVR1VpamdEdXdVMnQ2TGlmdVBUM0hrOXQ2Zl9IWVN6M1BfVGx6VGtJRmVIU1E?oc=5"
     },
     {
       "title": "黃金迎來重大逆轉！4大跡象反彈行情幾周內爆發？ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pSXFlU1BTbEV2My1DcWRsdXlkVGpRRGw3X2N5LW1PbUl1RVY3WlFiMUF6Qmt6V2UtNUtKRTBFUC1DU19IMDY1dmctQmV1NXNhX2ZPV3RQNDdxd2J3QklB0gFkQVVfeXFMT1QwazJLVVlMSnRENlIzUjBOdVRQdlJ5NkE1NjRFUG9FUGFjTDZfY1FaVUdrX0d6Sm90R0RoR1hVdUczWS1obU50bDZsc2RYWEJ3QWl6WGhGcjF2Y3h1SlEwNjZNNQ?oc=5"
     },
     {
-      "title": "黃金多頭情緒急轉直下！銀行集體下修金價預測 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53VFdIbzZrNVU4T1lkQkY2Zzd4ZzRicTM4bE5LbkFpVUJ1VU9QQjMtOXBibVhIeU1YZWpESi0yalNERWY4LUhJbjJjYW5GVzg?oc=5"
+      "title": "台股上周跌4% 法人：科技股賣壓加亞股重挫 台股跌破月線加速去槓桿 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yVFlCS2RaRThOMEdRUFBaS010QVhxVkZjWXEwS29fdDc0ekZKdE9WY1V2SzRyZ0xYQUh1VklRNDRjUzFLQzR3QllJSlY0MkFEdlRid3hxWEhoQdIBX0FVX3lxTE9FWnU2S2QzRHhWVEhYZUZqR2Z0OHk1WEV6c3ZnWTgxT1BpYW0xVDZ4N3FtVUtHUF9teGowU2pZMnB2bk5YT25Lb0V5TncwNVFocjlFMkt1ZkZPMHE2c25F?oc=5"
     },
     {
-      "title": "台股擂台／陳奇琛賺165% Q2冠軍報酬率遠超大盤 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95eWJHS0FZN0RDU1d3RG1wYi1fRWVZSlB5TXQ0dFpCd1FEdnlNZWJTdi1VWS1abHktU3ZLTzV4OURHcTBHN3BabDBJaVNiTE9N0gFWQVVfeXFMT0ctZzhQV01TRXpmN3V6azRIQXc3SnNSOGN4dnI5RHEyY2o2U1llcl9DOHU1d2x0VkhTTE5VcGk1cmhuQ0RVN1oxX21INS1ucEQ2VmM1NXc?oc=5"
+      "title": "週一開盤恐慌延續？法人揭觀察「1關鍵動向」 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNS1loODFSdlI2VF9abTJFU3pyN0lsNXo2NDlXSnowZjdRdG5FOWxIeDlRdWlIUURVMkt1bzl1Uk5kTTZJclAyVjIybDM2REJtV2g5UUVISWVYSXZmYnIxV3FTVVFVRGF0aUxIdlZHQmpmdWtXRkd3S0R2bUhIenl4N1FFTEJ1M0l6c0EtMVIwTmJGbk01bGMyNWgtQ3JkakRXQ0M3aVFMMjBHTHNPdlRGVk1CVG4zTHg0ZXRzUzhaQ1kydlVuZ2JWS2JZeXJLdmFqaktxc3dhTDg0V0xEenlyR3pCMUxSQ1dqd1k4UkhaNnNURUFKX2JDU05DY2ZSMkQyWFB2NFhHWGRidDFzTlIxa1lrY1h1bGFsc0JEaXR5SmY?oc=5"
     },
     {
-      "title": "台股血洗4千點機會來？專家嗆「下周敢跌就敢撿」：掃貨名單大公開- 財經 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QeEZYaU9kazBWUFlOZ3NtSzBYTUdNOFhqLXI2VFQ0R281U1BqU1dmZDhnal9KSnJ2cmpDUVZQMU9IamxXTzl5NUkzNlBTeXVMS19TYk05VEpyOFpJRjRfdC1YSGtLU05STUdteDJn?oc=5"
+      "title": "台股上周大跌反映短期去槓桿 法人：基本面趨勢不變 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NTVlqMFI2UVR0Z0IxX0xjZVFTRXgxbUFodm9aWFNDMXFOZjVLUG9MbzBmWEI2dWRlVUpaWnNmaURBWk1ockowZVdLYVVSaEJ20gFWQVVfeXFMTU1kTzg3VjRqY0ZtUXlJUTBrdHVfaXFBNzQ5WGpjX0ZEQW5JQXViTlNBdFNGR3VtSmJjQjRSZHVmT2NWQk9uN1RrcmpHcFVfUlUyM2M5cFE?oc=5"
     },
     {
-      "title": "AI熱潮降溫、科技股慘遭拋售！美股4大指數全倒 台積電ADR同步下挫逾3% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNVF9FWHFKX1dhME9HdF9uSDJSTFVvSjJjOGFRNTFDOXo5VXFZMHlsd1V0WV91OUNDZDkydU9Fa2ppYmFPTWN3MG5rTThuVjN2VVRTMjBENzM0U2t1ZF9hSENTbFZ4bkJiSGZfZDhXazdMdjkzWnlMWlRMUEROeXZyME93TkZ4ZkRTc05NSENIRzRlX3h4alkxZEduemNCUGh0N2ktRzBfOUJHbVA4anFxdTZTVXkxTk94eVhRbjI4T2kwc2hVTjZwUzE0ZE5TcXRkNmZZWXFqX0xOeEpldERJMEo1YzI0SS02VVZWOWZJZXQxTjdaX3JHSEp3bXl0c2JjWEFrcnJQRk5JRVZKTzV5aU5UTXpfM01YbFVKYmFTMjVKeEphWTlVcXlqX1pTNEQ2TldiNktXRGU5X1pHSzFVenJFN2xhblZESDdGdUNXWEdrWXlPWTMyaXNRUURSblA5akFfbTBfdTQ5T0NlNF9wQmZxTVgyTDJKT2lwWUNJcDliV2FZZUsyZjJLa29Pd1RwRld3TVdBODN0Q19ueTE3Uw?oc=5"
+      "title": "台股震盪逾3700點散戶逆勢加碼 00631L成交量寫新高 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uWkZvaEprTmNibmpRRHNUWUhyVEgwN0pvSTNrV3JkVk10TGhNcjdPUXl0djlpbGM5UEQyb2hLOTl5TDg0OElkc01paGdxU1FWUXpXM0piVU02UkhCWEhN0gFkQVVfeXFMUHNWUnhjeUdER01nR3hVVm1FMjRfQlVGNEE3Y2ZUbTE5WWJVVk9hSmRHSXFJY1dUQVI1QlFSS0pXOU9Dd1R4dTd5S0o4dXdNd2phZWl4aXlBXzZta0JWOUUxSkN6Tw?oc=5"
     },
     {
-      "title": "美股早盤／OpenAI 傳延後掛牌 加劇科技股悲觀氛圍 費半重挫5% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vOHRnYXF5S0ktVnNsaWU3bkcybWwtcFE0MkdOSzlWcmtPMG9KTlRZV0ZMT2dCOElMd0xLRHZjejViYUo4VmZjOWRVNXBybHFPRjdWYjJjZ2MwZnJs0gFiQVVfeXFMTzZaQXZMLVNQN1kzdldxTXM2X0s4R19PdWQ0SFotQUtjRjdmN2o0RUdPcW8wWWJ6N3dKV1VBTFl3TnltMGZmT3gtYmZnRzhNVTNLdmo1SmtIcHhuMmUwRkhDLWc?oc=5"
-    },
-    {
-      "title": "比特幣跌破6萬美元關卡！ETF連七週遭提款 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jUHZSMFRNaHNCa0gxNWpETmthaFByMVdCS3FvTl8yWWgwOXdzajNZcTEtTmtobW5Wb09qOXdfbzlURlBkVllONTg5SV8waUk?oc=5"
+      "title": "台股單周市值蒸發6.1兆元 法人：融資處歷史高檔雖待調節 但AI長線多頭未變 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ieFVUdmprSGxVcWVHYTdqRzFLNklFWFVSakJtWHU5LWE3UGVuX0c3Q0EzeGpONTVVVVUzbmktdEpPdlRCVWNiSGs4R3V4NjA?oc=5"
     }
   ]
 }
