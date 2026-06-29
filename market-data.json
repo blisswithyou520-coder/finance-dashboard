@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/29 22:40",
+  "updated_tw": "06/30 04:59",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -35,87 +35,91 @@
   },
   "us": {
     "NVDA": {
-      "price": 194.22,
-      "change": 1.69,
-      "changePercent": 0.8778
+      "price": 194.97,
+      "change": 2.44,
+      "changePercent": 1.2673
     },
     "AAPL": {
-      "price": 281.21,
-      "change": -2.57,
-      "changePercent": -0.9056
+      "price": 281.74,
+      "change": -2.04,
+      "changePercent": -0.7189
     },
     "TSLA": {
-      "price": 396.58,
-      "change": 16.87,
-      "changePercent": 4.4429
+      "price": 411.84,
+      "change": 32.13,
+      "changePercent": 8.4617
     },
     "QQQ": {
-      "price": 712.925,
-      "change": 6.405,
-      "changePercent": 0.9066
+      "price": 724.08,
+      "change": 17.56,
+      "changePercent": 2.4854
     },
     "SPY": {
-      "price": 737.21,
-      "change": 8.22,
-      "changePercent": 1.1276
+      "price": 741.0,
+      "change": 12.01,
+      "changePercent": 1.6475
     },
     "SCHD": {
-      "price": 31.97,
-      "change": -0.12,
-      "changePercent": -0.3739
+      "price": 31.93,
+      "change": -0.16,
+      "changePercent": -0.4986
     },
     "VOO": {
-      "price": 677.61,
-      "change": 7.35,
-      "changePercent": 1.0966
+      "price": 681.01,
+      "change": 10.75,
+      "changePercent": 1.6039
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59333.54,
-      "change": -198.7998,
-      "changePercent": -0.3339
+      "price": 60205.83,
+      "change": 673.4902,
+      "changePercent": 1.1313
     },
     "ETH": {
-      "price": 1567.66,
-      "change": -2.7012,
-      "changePercent": -0.172
+      "price": 1615.26,
+      "change": 44.8988,
+      "changePercent": 2.8591
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.869,
-      "change": 0.009,
-      "changePercent": 0.0282
+      "price": 31.848,
+      "change": 0.001,
+      "changePercent": 0.0031
     },
     "JPYTWD": {
-      "price": 0.1947,
-      "change": -0.0022,
-      "changePercent": -1.1203
+      "price": 0.1944,
+      "change": -0.0024,
+      "changePercent": -1.2366
     },
     "EURTWD": {
-      "price": 36.439,
-      "change": 0.2406,
-      "changePercent": 0.6647
+      "price": 36.416,
+      "change": 0.1562,
+      "changePercent": 0.4307
     },
     "CNYTWD": {
-      "price": 4.6938,
+      "price": 4.6941,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4040.8,
-    "twd": 4140.0,
-    "tael": 155259.0,
-    "twdTotal": 128776.0,
-    "changePercent": -0.9292
+    "usd": 4029.3,
+    "twd": 4126.0,
+    "tael": 154716.0,
+    "twdTotal": 128325.0,
+    "changePercent": -1.2112
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "川普喊美伊將在卡達談判！美股四大指數僅費半重挫近3% 台指期夜盤一度衝高到4萬6 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxOOF9MN3o1bzdpU3JVNjc3TmFiTm12cFlCOEdaV1hEanZFNW5oWnFuWnEyVUxHQ2puUkhWSHNURUJFbDNzcU5fUFJ6S1NrVXd1UjFmRW5KRnhRRFVrUkVPUjEyZm1jNjg5bmdpeUJZMVg2eWV3RExUQXdZMDk2NWpsMFJXN2Q5eERsSXdBeGZDYk03SHhub18teFVNQ3BieUdZVldFTTBwbFQ5b3FKMXpIc2djRWhZbjB4a2dpZUhmVzcwbnd3aHU0Ni1HRzdYbGZlLTdKYnBiSmFnczFpMHhUeklMck9BX3pHbko5U1JxVC1IbVQzQk9tU1lHRFJZMDI5b2EyTGVhSUViRlMtWVJnOXlBOTRyQjNNX3kwWjRIdXpCbGVRUkxXQU5QQlpha0l6TzhyYzRFQnZTdDdHZ3VtSTdtUFRHTnFScXo1ZU14Qm9xV2k4cVlvWUJJc3JWaElKQy1QRGNsX0VvR2tnX2tmaTFYb1lVWmRiUGFGVEVPVGszQ0h6YU5fLTJuNnh3UDFCTmdhWkx1TGhTb3dlb1pUUFJELWNZMjlvNEtvV19TU3RMVjZGeFRlcnE4WC04NWROVGp1ZE5aaS1UWFF4RldoajR4VnloU0lWQllLVVR3VnBBcTlGeG5jVThMQ2tvUFk?oc=5"
+    },
     {
       "title": "美股早盤／美光、SanDisk下殺 但三大指數上揚、台積電ADR漲2% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lZmw2bjhwblRnWUJpQmE5LTRLLVJpT3U0YVNSTHVBRnExUHNMekNOY1lmRFB6NlIxdVZGTGlva0p2c1JqckZqYU1rUVJXVWN5?oc=5"
@@ -125,28 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zVzI2X0RCWHJZQ2RiaHF3akhpN09GSDB6TWlqbVE5S2F2MWtEVWhDR01QMGRDNlFiMlVuWjZib2JQaFBmM2ZLUlRfNUFLWVE?oc=5"
     },
     {
-      "title": "美股盤後｜地緣風險猶存，傳OpenAI延後IPO，科技類股領跌 0629｜豐雲學堂 2026 年 06 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPVG9yeVUxd2JaZnhNTHUyWVpzR19OTVNveTM4X3dWa3FSWDd4d3U2anhHaTVjblc1LXY3N2h1a0VHU25leUlwLTRNajA5TmU1RnVrb3ZCME1ya3dlRkZqWmdnYXpmbE12dVJzU3Robk1BYXkzZDRPZXMxTjZNTHhORUR2aHJZa3lEb2g3b19GaWlRSWdoT3hmWHd3TjYxaUlLT1JiVGxzNTRDbjdGUjFPZmktdXF0MGNQSmVfRzRpSEZFY1hJczE5Z2J5WWxjbG96NWhKSkV2elhzOXQwV0N6ZW5IZm5hbDlzLXFRaEswVy05bWNTWFpVQjB0SmpUYWFoSml3b05FaVUzY2hPcU5ZMUF5MHA0Z0FZYkliM1VrOElUbk1RaXFnSHlpNm9nOVlPeFd4cEJhOGc3dHhHeE83QWxoQWVnWHVJb2ZsTWNyRmcyMUlQMWZuVVZkZ0ExeHh4ekJwcl94c09yS0tRUXNRR1JYVkZUN1U?oc=5"
+      "title": "金價即將崩盤？這國人民3個月狂賣掉50噸舊黃金 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlYUtzRFdJTnE1SEptOWp4XzRSV1NEcC1UZ3E2WjVnUnR1b2hBSXdqOWF0SExVR3FTdVRzSG9ISy1oVktuOXpGYVlRSTVlWG5JR0xtc01oS0E4Mkd3UktJ0gFkQVVfeXFMUDhmYzFKdGgzZDlVRlNNZVhqWDVrSDgwRzFjNmJGWXUwVFlzNTlIN254TWVEUlRGbW04Mk5VMGlKbFprZkEtUUs2dWtxRWVpMjZpYnZoaFRJVGxrTkxiMzYzQkkwRw?oc=5"
     },
     {
-      "title": "分析：美股估值與市場集中度攀升2026年修正風險受關注 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNQjR2a3poMnRWSEh6dmdlVG1MWjMzdlhjdkFjR0wydnJrZ0g3UUg0d3FLT2tVcWstZE5YaVV2eUNxVkd5bjJaRUNHcTNZanhxcVpRTzZDMGtSQ21DUmgyOWhrTmhOZHdPNmdNZ0dSLUlLRkN0eThNOVdSWlpQTW9GV2lyNTRCeHZ4OUc1OXMwUDdMemQwSFJTUVpUOURqdTA0ODFjUlV1UmtWd2hvR3RVVTd3UHRHYnZLdzhFM0gtd3NHRGdIQzgtVndpcnpBeDMtaGY5MmJsajl2NlE1S0dKdDhlSURDNTNOc1FUVDlNZnhWbnFSNE04d0FGdXhvakhBelFBZXY1R1JmdHBrME83bjVPTTMycElrQkRXVVlkOWtfWndjLVdWMHhkSjdjaTNGTHVTVmJiTTFoZTgxOEtURmFvRXU2RDJwOExFdzl3NzhkMVJoc2RGVzJ2dWhuNTZrd0x5UDVfd3VaQQ?oc=5"
+      "title": "元大投顧：台股三長多趨勢不變- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kd2ZNZXZxRUJpbjl4ejVJYlo2T01iZzBZUFlvbmJLZ0hLcEdfbWdZUVBDWW9GOEV1Tlhrd01pb3g3QXpqUnZkTDhxTlRIVl9heW9PamVPRlM2NE5hUGY4?oc=5"
     },
     {
-      "title": "快訊／美股開盤3大指數齊揚！台積電ADR、科技股成多頭火車頭 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ldGlMcWtNOERtSDN5MnRLRnY1a1NjdVA1VEQ5MVBfeEtrcXB6UXpDaTZacC1ZdWg3bWZGYThmZGNWY29hRGdtVU1pQW95VXRyaGfSAW5BVV95cUxNa1lkSldyYmFkV1ZLVVBtUlp2alBZMzNEMUhkS1ZCSnlhbTdsTnpwYUZRamV2SHNEVk0xVFlSb2swVVg1aVR1ODlBdWpQWHlCVzFxa0RuZkVHUU1LYUJrREdjanFPVHFJN2YzMVozQQ?oc=5"
+      "title": "美股電子盤一掃頹勢 台指期夜盤一度大漲逾400點 | 期貨市場 | 期貨 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3Vi10dVFlLTJvREx5VlJ1aG9nbGF1WWljcnhwQl9SazZvemlEaVpKcDRtOWNRa093SnBNN3FDZE5sdVdNQjF2OEpkTTdzNjhld0tET1A1MHdmMXM?oc=5"
     },
     {
       "title": "美股今明迎300億美元「機械式賣壓」 台韓科技股也需警戒 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11ZlpjVEZUWVVyVEs3MDl4N21kUWtGcUxqbjFLZUo2ZFdmQ3RjeEJJbmlsTGljNzlFb2toeGlYS1QyNS1MbXBvNjdGMjVRdXM?oc=5"
     },
     {
-      "title": "台股「這1現象」嚇壞專家！本人驚喊：不曾見過 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOTDdtbEt6S19oTWIwcngxTFRmajVuZ3JqRklEZ0Y0SXVUZU1YWnp0TmdJTHNnS28zTHU0d3BDR1diU1YxWlYwNDloUWNqSV8taldkbUkxWjJPVEo4LURkQlNnekk3X2hfNmNOX0lkM3Y3eGxGT2tTeVdJR2Nfa2dVR0p0V3VPWVZJUDNfdGhxVVEydWstTjUzMlVYVHRhdmtfS0k5ZHV0WlJma1ltSEVrM255bjZ0SFg4NjFXTndnSXZ5WV90XzVSN3o2VzBERXowcHJYVDhka2Ezb3N6NTA2bjdGTzV4SW5MaFlWa1ljMi01cDloY1JwQ3pwaklWU1F6d3VnODNReGZzejlyUFV3d0xGM1VNcjJJbDJtYzBzTWsxOVpjV3dqbXdkWk5kQQ?oc=5"
-    },
-    {
-      "title": "【財報前瞻】Nike、GIS、STZ、FDS 財報接力登場看懂下半年美股消費變局｜美股觀察｜豐雲學堂2026 年 06 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxONUpNdDRET21fbTFwR0ljLVkyd04zQ2NxeFExV2Vzd3c0N1F6VEdpdS1zR19ONVZHRkpDOURidXZ0bEpQMF9Hem1XaEFqUE9NTWZaanVfOFE1a3dOWG9NdGV0UVBDaE55eWhwSktRdmxiOUF5clpIMzJzVTFRdU5kMWVEajN1Tlc1U1NpWlFKNTA0dlBIc2xGY250Mi1FU2RnbkxEeVk5WERVcV9uYVVNdWs0OF9VcVJyNE9Hc0RWU1pFYUNBSHMwVUdxWDZpelAxRi15QVVlZkYyckdfcTJNR3A0bzR2Q2hUU2JSYkgyWXo2R0gxOU4xR3NDOUwyR2tVWnkxNmlFcGVOa3BObGZuTW1wZFhLOVZtbm9lZHlRZW9hTlBhV0ZQUDJaWHBHN0h2MHlTZWw1dFFNVGpmamM0Sy1HMDNEODNzeV9NSzl4WnMyaWdsT0JhbEN4a1ZXZWprNzVUNjAzSmV1aWVJeVFQQUtJQmU5V2VjVTQtbzVUUGloaWVRajV5dDVzVEplbU9Zd3J6MDNqQUFTd0lJRDhLbkNJUS1XVWFtLXdVakJGVlNoeUdTNUlrMkpwbzNMeXZseUx3Mw?oc=5"
+      "title": "台股崩盤別怕！杜金龍看好這4檔：有望邁進歷史高點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOeWpUN21RdkNHclp4MS1PNFBMeXlYb0RwLTF0amRlSmVlbXE0Nmc4aGpKME5aNV9KZkdmaG9aQjQ5ZXVfaHlWZ3JBWHpZeDBlX0hkUnR1bkZHX0UtdV9NaVhnSjZrZkVaa0ZLWmRWUEs0dGFPZk95ZFR0SE5ERThDRk5OVXVzZU1QcG9FandrT2N4Z01UeE9QdEROd09NVHBjQjNXVWlHVmdCU3NEWlVDZDZpSnhOekRDVnJVcWJlZXV3dmR5TEtJSzF2MThvUTVrSWdBei1nZ3RiZWszS1R1bllqWjhJREdpZDBUUDU1TWpVMTUwdXl1QkZwMkFOYXRGWFJhRUh2ZFk4ZHdySG5aOVBzWjRTYzRIMnRwN0xOR0JIblZtWWpFbjIzSXBaNDhKbDlteERWem9SS3NDNW1TNmlNckpYSTN2cHFER0JxSnM5blNUckdiUW5aZw?oc=5"
     }
   ]
 }
