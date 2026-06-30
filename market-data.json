@@ -1,85 +1,85 @@
 {
   "updated": "AUTO",
-  "updated_tw": "06/30 16:46",
+  "updated_tw": "07/01 00:38",
   "taiwan": {
     "2330": {
       "price": 2410.0,
-      "change": 40.0,
-      "changePercent": 1.6878
+      "change": 70.0,
+      "changePercent": 2.9915
     },
     "2454": {
       "price": 4245.0,
-      "change": 335.0,
-      "changePercent": 8.5678
+      "change": 365.0,
+      "changePercent": 9.4072
     },
     "2317": {
       "price": 251.0,
-      "change": 4.5,
-      "changePercent": 1.8256
+      "change": 2.5,
+      "changePercent": 1.006
     },
     "0050": {
       "price": 107.8,
-      "change": 3.35,
-      "changePercent": 3.2073
+      "change": 4.7,
+      "changePercent": 4.5587
     },
     "00878": {
       "price": 33.5,
-      "change": 0.6,
-      "changePercent": 1.8237
+      "change": 0.79,
+      "changePercent": 2.4152
     },
     "00919": {
       "price": 29.5,
-      "change": 0.04,
-      "changePercent": 0.1358
+      "change": -0.06,
+      "changePercent": -0.203
     }
   },
   "us": {
     "NVDA": {
-      "price": 194.97,
-      "change": 2.44,
-      "changePercent": 1.2673
+      "price": 197.825,
+      "change": 2.855,
+      "changePercent": 1.4643
     },
     "AAPL": {
-      "price": 281.74,
-      "change": -2.04,
-      "changePercent": -0.7189
+      "price": 288.43,
+      "change": 6.69,
+      "changePercent": 2.3745
     },
     "TSLA": {
-      "price": 411.84,
-      "change": 32.13,
-      "changePercent": 8.4617
+      "price": 417.255,
+      "change": 5.415,
+      "changePercent": 1.3148
     },
     "QQQ": {
-      "price": 724.08,
-      "change": 17.56,
-      "changePercent": 2.4854
+      "price": 734.96,
+      "change": 10.88,
+      "changePercent": 1.5026
     },
     "SPY": {
-      "price": 741.0,
-      "change": 12.01,
-      "changePercent": 1.6475
+      "price": 746.22,
+      "change": 5.22,
+      "changePercent": 0.7045
     },
     "SCHD": {
-      "price": 31.93,
-      "change": -0.16,
-      "changePercent": -0.4986
+      "price": 31.79,
+      "change": -0.14,
+      "changePercent": -0.4385
     },
     "VOO": {
-      "price": 681.01,
-      "change": 10.75,
-      "changePercent": 1.6039
+      "price": 685.9,
+      "change": 4.89,
+      "changePercent": 0.718
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59132.9,
-      "change": -1005.4789,
-      "changePercent": -1.6719
+      "price": 58207.7,
+      "change": -1930.6789,
+      "changePercent": -3.2104
     },
     "ETH": {
-      "price": 1578.18,
-      "change": -32.0258,
-      "changePercent": -1.9889
+      "price": 1562.44,
+      "change": -47.7658,
+      "changePercent": -2.9664
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4034.7,
-    "twd": 4131.0,
-    "tael": 154928.0,
-    "twdTotal": 128501.0,
-    "changePercent": 0.3083
+    "usd": 4043.8,
+    "twd": 4141.0,
+    "tael": 155277.0,
+    "twdTotal": 128791.0,
+    "changePercent": 0.5345
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "科技股反彈！美股全面收漲「道瓊創歷史新高」 台指期夜盤飆漲逾8百點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQbFB1MzFqSlhacTR2eEVmS1kxZDE4ZUJ3d25ZT0E5RXZfQXl2U1M3QXBqZmpqYXhKS0xPVEFjU1hEcDhsSjdpYlVPSlZKLVNHOVI1Si1Gd0FYNm8wSlAtRDdYNDY0WUI0LVMyQXpob2hzbkc3cHRnei00djBTdHY4SUY3c3ltSm91RlcxUlBpSE1BVERCdFVwTmZheWFGWW5QVlpsZF9rbDF2d0laU1lUQk1GT2xoYWpjMkJzaUtidWprTjVzblNkVGdTdEdGOXc3aHFHdURYYVNTZHBJLU9yZkpOSjJiQ1RIdVJWYjBrS0hWMUJ3QTNWLWhYVHJZZXNsVTBCcHpFbEU3cWVHTTh6Y3Bya1NDWlBFVDRsRk4zNGltZkxVanQzQzVHeGlGMUw0Q0w5ajNGWFEtemt2NmhpbVdSQk5Na0JjZkpKckcxS2xwV3V5WG5iVjZISXFtcnBBaWVtVUZjc21oN3luc21kNTNfTS00ZGh3Y0RxZjBwSmxqSU5FSTZ1a2JTSUwwUnVkQjhSVVBFcEljaHRHWjBvNjdRWmUzUTJveHZnN1pZdEM?oc=5"
+      "title": "美股七巨頭市值狂瀉74兆元 台積電逆勢猛漲 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tcXhEV3k5S1BIQTRoeXgzU3BPa0YtTHMzT2VwdC1GaTdQV0hWeHM0X1BFRWg0cE55RGZzUVVmMnZpQWJqYjE4M3NVOWxEZmFWTjFKclJqM051RDJIU21n0gFkQVVfeXFMTVdNNEVFSjl3ZXUtQWxZcjNBYjZpSENZYVU2MFZQTGw0Y3NTWUIwZ25sTFUzaE5ESkRfanlJTEtDTFZtVkgxdWxKUXRlZmpkR2tubkY5VkVDQWFMa0FKbFB6Q25QZg?oc=5"
     },
     {
-      "title": "美股收盤》Alphabet入列道瓊上漲近5％ 台積電ADR大漲5.26％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkVjd2NXBCVHF2NG1uYUZMRmlCZGxlTmlLWWF3d2dJdHZfYktYdWVUWG9PdGI2cmd2cDZfRVFXNWVWOURvN3VqLXgwamJKOEdEakNlZ19LYkpuM0h6Vklv0gFkQVVfeXFMT1V6X3poLTRGY0k5VjlxSC1ZeThRR2dKVHprUkEzY3VNdk5CR3F6TWg0QjM2dkRESVBfOHJrblBHU0RwaFBkdWcyd2JhUmhqb2xVUHBSRzJNTFBQODJ5cmdhZ0xsbg?oc=5"
+      "title": "【0629台股盤前】歷史最大跌點 石英元件與ABF載板卻逆勢獨紅｜豐雲學堂 2026 年 06 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPYllicmh1Nmp4TmJ1TmRDVVNQdjJEWlRJOXVZVE1rQjVVc21yY3h2WHhqTFJMYmdGazJ5YVBWbDIwQWtqaXlJd0o4ZFpMSnBWenNKbHA5Rnl1MWNGakNPc0N4dTFHNFB0akpPNUtFUzJ2VWVBRzVIVDdIUUhvUkZvNUxnN3dNMWFJZ09MaklqS1F3ODQyaHZEeE5OSFNmS2oyZENXWG1McGw5Q0MzOGVyMTNoY0tGRmxraENYRTN4Yy1CNV8zS3dDX3NiZmp3MnpVQmRrNEtZeEVBa3BSS2tXYllLekFnelFRaTVQYWk5ME5EdlVaUTNoSmY2VUFmblJLT2c2eF9tVUNKTGM1V1h0TlNUUHI2QlRlYjB3Z2p0U1NGWnhwdWZyOHZ0Z01uTlJuUW9uNHdhNUxvaEMwZUl0akpkMXBWdkpGNEF4VC1ES2VGXzdCdHQxYWtTWHBUUlItcldmZEt3eHQ1YWlKZXdUYTdFczhaNjNteHlQZ2tfVGxmWEFweVJkN3pkakRpMDFI?oc=5"
+    },
+    {
+      "title": "科技股領軍！美股費半狂飆近500點 台積電ADR勁揚近3% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNREhFZUt3UEtFRlB4Wlh2WXhKd00xTTdpUnJoVG1ZVnFUXzBQankybU9qTEpUdWJNdWNVRUZhV2NIaEFyV1YzRjFHbFRqbDRmczlNbS1yM0VqX3ZFbDY1cXBOel9XQmtQekJqZjBYdUdUYUl6d0NOaTJuTEpDaGJlU2Z1TjJ6SFFFQTRmX25fNm5SYU9mMjU3bWVnYUxYX01BdjlGalNCRGI3Ny11TU83eXl5d0dnRXZJNkY1RXo0cVJieG1OcXBxRlg5aERwOGpRSE92TEFTbzNnQ25CVTBuakdoVURjSXc1enh0YURhNFN3WTlZeVZGQXFrcm54YlJpOHk0VTVOYWZPbUpEUDE2YUhjcmkyRGVyTURibWhSMWVNRWZsVGRNYnh0TEJPeGg5RG1oTWVPLXVlSVBib3RLellTaDQwSUpRWXQw?oc=5"
     },
     {
       "title": "黃金現在可以買？金價破4000美元已打7折！黃金價格為什麼一直跌？大佛李其展：想摸底等測這支撐再說 - 今周刊",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdkFhdmFPVUVhSm9NUEdCbzAzeTZOWk1iUlBRQmMwREljVHJWN1N4R2VGYi1rcnNkY0NHTG41NWhzei1LREUwU3FJakpGQ3ZIOU5XOWZoX2VPRzd2ZC04aEtwVHRTZ1g4RDZuZnhSWmFEakxNa3FmalhVeXRqLXZTRQ?oc=5"
     },
     {
-      "title": "比特幣大戶Strategy不再「死抱不賣」股價飆12% - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNamFBRVhNOXZxQzZJNGwwUXg1dDlLM3dzOGtweGZrbEwycm9sQTBCc1U0Zk14Z0dyd0M4eGNzWFl4OEROQ0hGaHU0VkJTNXEtdVBzVkdRMFplVFhJVEphRERkSUIwXy1sSlEwZlM4Wmk3ZmYxcU1LVXB0SXh4UDFNWDBGQ0ZzV3ZybW1jYWlUWWNDQQ?oc=5"
+      "title": "美股早盤／指數漲跌互見大摩威爾森警告：晶片股熱潮如白銀| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42Z3J1cmFtcU9XeGFoRTk4MDJnWVVWbnpnWVVxQkxxTy1pZkxnREd1ZHNUdmtnNFZ1dVowbmtWU2J6MGJLLTRFeE5XdkxOTHA3?oc=5"
     },
     {
-      "title": "美股收盤／道瓊創新高、費半勁揚近4% 逢低買盤帶動科技股反彈 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ia0J4cE9JWE1UNlMyM3NleG1fem5ROFFHTG5JTExuWVBfbzZsSVQ3UHVndWF5Y1Rqbks4Qy1vZjRrdTNyRkxyZE9DOTZCTGc3cmtmQ1ljS0xxR0410gFiQVVfeXFMTV85UURlTVBmNDFURW5lWGlTbHdYeEtCQWk4MDE5c2pucWc0eVFRZ0J4elY3ME1aY1hwU3Z1czBNSE0tTUJsdmUxLWsyUGZIMFNheWlZcjJfbENJNG9hSmJDaVE?oc=5"
+      "title": "Z世代買台股不買房不一樣的投資新顯學| 封面故事| 全球中央 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nVEk3Qm00Skw3VUVxNTJlX0xUdkZnOUUtcF9WSXRKUlh0LXFacXNuMF9CNDdqMnRYZy1HU2V1RHdYbG53TFFHdDJ4ZzJHMWlTR2FiUWZORUduTUZ2cmt2N1ZxQm0?oc=5"
     },
     {
-      "title": "黃金又大跌了 原因揭曉 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OVnhraDVfVGdHSEhKTXo1b19JWnJxelRwTmFGRnBDOFBtQ0daVFNiSlRTakdURWxaeXlvcFpNMnFwak5NTVQ0b0NqZ21fMDA2SDkxQlJYRUs3VXN0WDFn0gFkQVVfeXFMTWQ3SnhVWXVEWS1GNFVuVEJwMHVwczVzdDk1TUZ5NjJBdDZZNnljVG83Z29vdnBacmdSMTlkeUdoUWY1eVM4eFBoMU9RcktCNEFuX3R1cDJ4QVk3RTB6MDh2UUQydw?oc=5"
+      "title": "台股7月將崩盤？命理師曝「這1人」成最大關鍵 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPNjRWc3ZEUXliVEp2Z3IyT0tRVzY3eXR4YmRuWnJxcDF1bUhRM1JiVWUxbldvTGdGcDdTdTlEYjU1RGlVYjRxdnVlNUtWQU8zdzJ4bUYwbFNYaGVHWVBCaDcxTjJVMDk1eEhnS0M4Zi13SlpzMTBuWDJYaHhkWWt2d3I5ODVFYWxqbWk0R0I2Z3F1QktUanV2TzgyUTFlQkFyZHZFVVNLakV4N3BYMGxKZ201X3Rmc1Jvb1h4T1h4RmtQcUt6UDdMSXBXWlVRVVZKV09qVXFVa1JZVVRyY3FKUV9pQlB5MmhlcUpQUU5EcGJQMUFwQjlRaUszT1otMG5lU24zaXNkZ3BWWnBHTmhrNDhKZ0N4MkZxRVJjcWdqcjZxTW8xdTZKaGZOVl82dw?oc=5"
     },
     {
-      "title": "5天提款台股4057億⋯外資撤資了嗎？外資手上的彈藥庫不是只看買賣超？！一文看懂「外資淨匯入/匯出」關鍵密碼｜看圖說股市 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6gVBVV95cUxQejR4UmFrbjVybms3VDd4eDBCVlNsOGR1T3drbUgzWVdoZjE2ODJrekRzcFQ1Z1ZGUURwUkRtZmlGS3BLV1J6cm1EYUJzNXpBUTdXZ05HTWpsS3FRVTB6SzZjdmxmWFZpY19fU3dISVZIdXdlR3d2aUhyTVZZMHlBSEFsTWpELUhtbzJJNHhJeHF1b1gtMjZYVmszQ2JMd2JNajlBMTZQRGlVVVhKZnFEQUNrMGpweFdmRndwU0dRXy1QNGYyMVFIb29yZGg1aC0xSnlTTEkzaTlIbE1MT3VscWtpSGcwVFE4d2N1b2xrUms2MGM1d1FuZHEySTJzZXZ4YmZGbm9SY05tS2o4REJsZGdheUZGN1RSeXN1NmgwVkR6YXN6VG9kd1V6c1dCczlZempmSl8xcnRJaU9sQnlyMVp1RDdjSmo4dWZCWVRUOU8wR2VEd3FIb0hyNDluSG5DYzlfd0FfWHgxM0RBaVZaN1VoSElRZGJDTzJBVjcteXdmWGRrNW0xSEZzeDhYRjc2bl9OVkE1dlVSTW4tYW0wUkh2VFlQaE83dFNRNEI3YW5nZm5hRi1Vd1FHdFR4SEJWRERPemFVM3FOT256cHFGbnNJNEhGQXhzNDVvaktEN0NTaEtIM0hsdjV6Y1FHNWY5Vml5TlBDaFNpZnRCSGpXMzktamtiMHl0OVlCNlZqbC1kcXNiT2Q0cVNUNzFvLVdINy01Ynk1S1B1WGtaLWtPa1lLMk9GU1cwMjdaTVNEYlBjUUdEbWlNeG1XWHpoZzJJbWU5NmM5U2xFcll0cjFEV3RWb2Y5dmZodHpsY2VEcEdvbFo3S09iT3lQbW45MnpZT19PckxiWGtaOExyUmNVR1VneklwVUxxVy1UbHg5LXZPcVpCd0MzVDhKNmdHVUl4bDdvQVMyOFhuV3RLd3kyTFM2aFJWVXl0dzRBNkpzTVVoNDd6d2d1QU1tazRNTGVQeGpHcnNsZjlNZw?oc=5"
-    },
-    {
-      "title": "【上半年台股風雲榜】上市20大衰股出爐！衛星營運商隴華慘跌7成 電支龍頭LINEPAY也入榜 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMijgRBVV95cUxORHgxZEFjV1VEa1ZCVzJqNmdJMzF5TjBSZGlibmFWZ2R3ODFrck9pWm1CYm8zUEZFdWc1VWZlQzhrWnRweVgyTldKeFMzUFNid3FzZkJIN2JpM3lsTTYydU55cUNnM2Z4aXFtcWg5c2RKcEoxcmdMUnlYbm1VVkhQYTJqX0QzTWtheWhYZU1rR1I0ZzRLeXZUUVBMYS03UWs1Yy1tNHh0bFNNR1BWSG0zT1UtTjhtMmV3TlZDYkdCTWtRcUNWRDF5VlI2UVFWak1BZThJLVNLY1pPX01BcDJzYlUwZGhxemNQRURCLUo5cUxOVDBqWTdPZS1mUzd1SjVrWjBCaGtkRFhRd0xlRnphYVE3dksyN19FWUUtZkxFTHNKNUlOaC1WME56YUJnTWg0UUdmSVUycVZfUnZtWXR5RkNwTmRVY290ZWNVMVBBNHhibFR1RVV1N1c3VUFRZDFfQnlKOXdxZ1JNYVdybnBkdXJqUlhwYnc1NnJpTklxVkEtTUxKZVZ6YUVXQ1htdEZtRDlHSmptVGxnMGFEZHpsa2ZqS2FhcU9WSFNGRFpSN3Bxb2dMT0o2RDZLNGpfcGRnNFhOMnZkcmtWcWhvOWl0Mk54OVA0Szc2azl0TVFfcmdUdUJEaXdvRWVSLWhPVDM5cURMdzY2bDl6VlhWbE1MeGgyVHVqRm04ZGxveE93?oc=5"
+      "title": "【0624台股盤前】韓股熔斷影響台股創高後急墜640 點，功率半導體與光通訊強勢抗，【RS動能排行】:富鼎8261、鼎元2426 、台半5425｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tYVJMeVpsYkJMc05BTHBHQmdpM1d6M1lfejAtN192Q3BSS3ZYSGt4V1RJcGlEZWlIdXJZUjRBNUdZcFJrZUlwTHliZ2I0QzlJbU1NcG5PWUt5TzBjanpYQVNSeUp6SnRJdENEbHU4NGtCMVFMUEVRUTB4bw?oc=5"
     }
   ]
 }
