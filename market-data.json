@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/02 02:21",
+  "updated_tw": "07/02 06:50",
   "taiwan": {
     "2330": {
       "price": 2505.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 197.88,
-      "change": -2.21,
-      "changePercent": -1.1045
+      "price": 197.58,
+      "change": -2.51,
+      "changePercent": -1.2544
     },
     "AAPL": {
-      "price": 294.945,
-      "change": 5.585,
-      "changePercent": 1.9301
+      "price": 294.38,
+      "change": 5.02,
+      "changePercent": 1.7349
     },
     "TSLA": {
-      "price": 424.755,
-      "change": 4.155,
-      "changePercent": 0.9879
+      "price": 425.3,
+      "change": 4.7,
+      "changePercent": 1.1174
     },
     "QQQ": {
-      "price": 727.18,
-      "change": -9.22,
-      "changePercent": -1.252
+      "price": 725.17,
+      "change": -11.23,
+      "changePercent": -1.525
     },
     "SPY": {
-      "price": 747.21,
-      "change": 0.44,
-      "changePercent": 0.0589
+      "price": 745.76,
+      "change": -1.01,
+      "changePercent": -0.1353
     },
     "SCHD": {
-      "price": 31.913,
-      "change": 0.203,
-      "changePercent": 0.6402
+      "price": 31.85,
+      "change": 0.14,
+      "changePercent": 0.4415
     },
     "VOO": {
-      "price": 686.74,
-      "change": -0.07,
-      "changePercent": -0.0102
+      "price": 685.46,
+      "change": -1.35,
+      "changePercent": -0.1966
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60053.1,
-      "change": 1494.2406,
-      "changePercent": 2.5517
+      "price": 60319.88,
+      "change": 1761.0206,
+      "changePercent": 3.0073
     },
     "ETH": {
-      "price": 1618.08,
-      "change": 48.4961,
-      "changePercent": 3.0897
+      "price": 1619.7,
+      "change": 50.1161,
+      "changePercent": 3.193
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.838,
-      "change": -0.0279,
-      "changePercent": -0.0876
+      "price": 31.893,
+      "change": 0.0586,
+      "changePercent": 0.1841
     },
     "JPYTWD": {
-      "price": 0.1937,
-      "change": -0.0031,
-      "changePercent": -1.5722
+      "price": 0.194,
+      "change": -0.0017,
+      "changePercent": -0.8905
     },
     "EURTWD": {
-      "price": 36.274,
-      "change": -0.1209,
-      "changePercent": -0.3321
+      "price": 36.335,
+      "change": 0.0022,
+      "changePercent": 0.0062
     },
     "CNYTWD": {
-      "price": 4.6945,
+      "price": 4.6996,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4081.8,
-    "twd": 4178.0,
-    "tael": 156682.0,
-    "twdTotal": 129956.0,
-    "changePercent": 1.4641
+    "usd": 4051.5,
+    "twd": 4154.0,
+    "tael": 155788.0,
+    "twdTotal": 129214.0,
+    "changePercent": 0.7109
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNOXlYMzRXdW5fLWZnRkh5R29kNE5weVFnWk94Rk5OS3NRX1VfQXQxMWh6bXRHOW5zTTBrY0tBMmlzcko1WE82WEdpZGdiYWpid2VYVHJQc3daWGpGSjRpZFQyYzdIaTd3SGp0dm1OR2xDWHl1dktqQU82V21SRWt2cG9fVHJWaEhjQ012Y2NudmtSdjdVM3BiOVpKMmVwdVNoSHRfbEVTOEpSODQ2UDhGa1FKeVJ6MUhhLXNiZUs2RFRQS2doYWxHdTlEbGVNRkpXMlI1Z0tkWGZmdlIwdnJQWHA1OUZ5Qi1GUzFHM1NmU2szbEVXYWVyNml4bXZpY2FSUkZQUkp3MjBFYkNTdFJrMWhDbUpyUW02RU9UQWh0cUxjS0JVbWFreTlyN052M1Axc0F5a3cwc3g0UXlLUEFNLTNKb0hmUHlUeG50cU5wTXYxbi1taEcybF9EWWMwVVFiT0V3ei1yRU0wamw2SmNvWFplV0w3V3lNLVBTcU1aX3hUckpNU1h0bkFHQVZMRDdKd1J1ekFPOUthMm8?oc=5"
     },
     {
-      "title": "美股早盤／晶片股遇獲利回吐、美伊也再現緊張 台積電ADR跌3% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQSWc2U21ubWF0NnpUekE2YnlfVlpwa1NwdG9YZ1VMLVF5YUxnemllZlFVSDZ6UEhVNDFxdWdsRml0ZUpidmNrSU9lOHc3T0o5?oc=5"
-    },
-    {
-      "title": "快訊／觀望新任聯準會主席講話！美股開盤4大指數全倒　費半重挫3.7% - 三立新聞網SETN.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHTks4RnhuVGVOUDZnWHlNY2ZKOHJ0NGFUcTFSRWFyWndSVXVrcW5FcEVEYkpqVHFRN3pvV0pwQ0RyNThxZk9lblpPa1hZX0ZnMGpJQkx2VWbSAV9BVV95cUxOMHZtWWdwTkhfN3JJNGpWVGxYOWxtWWE4cTFlMGlTc2VKRVJhN00zVEVTeFBxSWd5b0EyNS1NT1dxZ05EWkZCeGRLNmdhUkEzb0JjdmwzUnNQWXlQd3hwVQ?oc=5"
-    },
-    {
-      "title": "美股二季度太亮眼，連華爾街多頭都在防大幅回撤 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEF1SWZXZl9sclRPN0hTVndyTnBtZGo5WldQWDh6ZXpUU2NYclBLT3Y3LWE3RTlkc1FIOHJ1NmUtNTFkdE1RYWhEUHRuaWVPMm5Oa3N5RDVuQ0F5MTJlRzByakp1LXlicWx1UE1zbFkyaU1hZVpCM1NkUF9qdml0R2pGaGhnelJlU0t5TkIyWQ?oc=5"
-    },
-    {
-      "title": "黃金慘兮兮！單季創13年來最差紀錄 6月重摔了「這麼多」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ROEdJZ1FSSWJDUGlfY1NjQXJNeXJDdXQ5VEUxX1VpMzhmcjRLUmtmZV9SYXdzSjYtOW1MRnlfdVptX0FaV2hzdkszaldfcHRtNjEwWmRzRDlWQkxrcWZj0gFkQVVfeXFMT3YyMXZvRWpyY3NjR1plcFRMSW9wTzhQNzlTd0dILWlyR0xvYjRpNDUtWHpfSTJQQ1h4ZHV6MGJUSVhqbkdFYmJsc0JlREpHS2hPMXBsSVdOQldLbW4tcWQ4RkdTSw?oc=5"
-    },
-    {
-      "title": "美股7月首日走黑 費半重挫近5％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9abGljNzhPZ3hnZ2habmp2YW9mclcycTBnTDRycnBkWUN6ZXlxaXdoc3dqTGtibkk1amprR0tkWk5VZW5qSDNFaGxUMGIzZXpzRkdlUTN1ZUp4WHVNU3FR?oc=5"
-    },
-    {
-      "title": "【0626台股盤前】美光財報報喜，記憶體、ABF載板、被動元件帶頭噴漲 【營收創高模範生】國巨、欣興、台光電、金像電 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xRWpRdDN2MVlwMFkzbm1kMjBnYXI1MVhYUVlqU2FSMGctbUJadDBMZ0xXQ2dJejF6UUwxb01JdGhjMXZ6d29vTDRwcC02bmJCQXJsWDhQTTJtbzNTckNxMjM0V3pNMzE0ajRnNTJnQnNCbEtfb1c0Tzdpaw?oc=5"
+      "title": "費半狂洩美股收黑！台積電ADR跌近7%　台指期夜盤跌867點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NTkp2LVl2LWZGNHgtd1ItQUxBNzJhVTAtVm5QTGVVUWNtSFhTX1hFWXdLUy04TEVzX1JSWVJhYllXNDZPQTN2V2l2YlBwZHpuclHSAW5BVV95cUxQRUNBT1JPLVpVdjZxa3VTNFVtdHp3UjdudTZ6NmtzNmxNOTg5SHljR0hrR1M5UU15Y3V6eEM0SFNqVnR4Y213dVZObFlqeHJPQVN0M0d5VlBSS2kzc292QldfTVVRUkNDaWtfUWw4UQ?oc=5"
     },
     {
       "title": "誰會終結美股牛市？專家：緊盯Fed但警訊也可能來自AI重度用戶| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pLVBrVVVXMDFzaTZUcVdaaVd6Tm9QZDM2ZXJVUkw2dHY4NFZzRzM2Q0diLTVndjVQaXpsQ2VTLVk2MTJLdUdvVUZpd0R3Ykpu?oc=5"
+    },
+    {
+      "title": "Meta投下“深水炸彈”！美股存儲、光通信集體暴跌 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmWHk3azlfTzRfN0JaVk85Z21JUUtMYi1aZ2Y5OE4zMFlDWXdiT0FKY09wTEllOTVBRTF6NE50UlFObC1JUzlmVzltc3FLRGQ1dFV0ZDlrbFhrOHVabFpPSEJLNXA0SnM2N3c?oc=5"
+    },
+    {
+      "title": "高息派對再起：美股封閉式基金與金融股齊拋紅利，配息族大洗牌在即 - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXy02TkpwZ0lJRXBWVmE5Vm9NWldNUVcwT2dJdlFCcVFiazJ5N0NtN2NFY0RSeDhtakk2Q3Y4anRlY2RVc2FlRlB3ci11Z3EtVHNfQmNHWndvTnRmTTBLbUR1ZDRnaUNuQ0E2OUFJM0paVGpCbzhxby1sM1luanhnUVBHeHdCb1Bud0dXdmVR?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉Meta飆近9% 那指7月開局走低 道瓊寫新高後收近平盤 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16bldPWXU1SnJVOG5GUEw2cEdubnpOSnNoRF93X2dqSW1sNWVJcDFFZTBPbHlaSVVOLUZHWEJOZlVQcU1BV3FVU1JJMHViQVU?oc=5"
+    },
+    {
+      "title": "美股》晶片股拖累！費半重挫893點！台積電ADR跌近7％ - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YNnlRZkJWX091WFdpMmo4MnBTdm5OTnVraGR2d19NY0prcGRIeWt0dWc1cEI1ekVYdlZOVVJHZEdBU2hiV19YR1lrbmc5S3M2MFo1dDdJbDI5R1doeG0tQkxCcXVpLXBYMjRGYzR3?oc=5"
+    },
+    {
+      "title": "美股二季度太亮眼，連華爾街多頭都在防大幅回撤 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEF1SWZXZl9sclRPN0hTVndyTnBtZGo5WldQWDh6ZXpUU2NYclBLT3Y3LWE3RTlkc1FIOHJ1NmUtNTFkdE1RYWhEUHRuaWVPMm5Oa3N5RDVuQ0F5MTJlRzByakp1LXlicWx1UE1zbFkyaU1hZVpCM1NkUF9qdml0R2pGaGhnelJlU0t5TkIyWQ?oc=5"
     }
   ]
 }
