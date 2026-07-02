@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/02 06:50",
+  "updated_tw": "07/02 18:15",
   "taiwan": {
     "2330": {
-      "price": 2505.0,
-      "change": 95.0,
-      "changePercent": 3.9419
+      "price": 2465.0,
+      "change": -40.0,
+      "changePercent": -1.5968
     },
     "2454": {
-      "price": 4335.0,
-      "change": 90.0,
-      "changePercent": 2.1201
+      "price": 4345.0,
+      "change": 10.0,
+      "changePercent": 0.2307
     },
     "2317": {
-      "price": 248.0,
-      "change": -3.0,
-      "changePercent": -1.1952
+      "price": 239.0,
+      "change": -9.0,
+      "changePercent": -3.629
     },
     "0050": {
-      "price": 109.35,
-      "change": 4.9,
-      "changePercent": 4.6912
+      "price": 108.8,
+      "change": -0.89,
+      "changePercent": -0.8114
     },
     "00878": {
-      "price": 33.32,
-      "change": 0.42,
-      "changePercent": 1.2766
+      "price": 33.22,
+      "change": -0.22,
+      "changePercent": -0.6579
     },
     "00919": {
-      "price": 29.37,
-      "change": -0.09,
-      "changePercent": -0.3055
+      "price": 29.2,
+      "change": -0.27,
+      "changePercent": -0.9162
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60319.88,
-      "change": 1761.0206,
-      "changePercent": 3.0073
+      "price": 61146.79,
+      "change": 1143.0322,
+      "changePercent": 1.9049
     },
     "ETH": {
-      "price": 1619.7,
-      "change": 50.1161,
-      "changePercent": 3.193
+      "price": 1644.19,
+      "change": 35.2293,
+      "changePercent": 2.1896
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.893,
-      "change": 0.0586,
-      "changePercent": 0.1841
+      "price": 31.89,
+      "change": 0.0556,
+      "changePercent": 0.1747
     },
     "JPYTWD": {
-      "price": 0.194,
-      "change": -0.0017,
-      "changePercent": -0.8905
+      "price": 0.1955,
+      "change": -0.0002,
+      "changePercent": -0.1241
     },
     "EURTWD": {
-      "price": 36.335,
-      "change": 0.0022,
-      "changePercent": 0.0062
+      "price": 36.423,
+      "change": 0.0902,
+      "changePercent": 0.2484
     },
     "CNYTWD": {
-      "price": 4.6996,
+      "price": 4.7033,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4051.5,
-    "twd": 4154.0,
-    "tael": 155788.0,
-    "twdTotal": 129214.0,
-    "changePercent": 0.7109
+    "usd": 4077.5,
+    "twd": 4181.0,
+    "tael": 156773.0,
+    "twdTotal": 130031.0,
+    "changePercent": 0.2261
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "AI狂潮恐成泡沫？「傳奇投資人」示警：美股崩跌七成 科技股風險升溫 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNOXlYMzRXdW5fLWZnRkh5R29kNE5weVFnWk94Rk5OS3NRX1VfQXQxMWh6bXRHOW5zTTBrY0tBMmlzcko1WE82WEdpZGdiYWpid2VYVHJQc3daWGpGSjRpZFQyYzdIaTd3SGp0dm1OR2xDWHl1dktqQU82V21SRWt2cG9fVHJWaEhjQ012Y2NudmtSdjdVM3BiOVpKMmVwdVNoSHRfbEVTOEpSODQ2UDhGa1FKeVJ6MUhhLXNiZUs2RFRQS2doYWxHdTlEbGVNRkpXMlI1Z0tkWGZmdlIwdnJQWHA1OUZ5Qi1GUzFHM1NmU2szbEVXYWVyNml4bXZpY2FSUkZQUkp3MjBFYkNTdFJrMWhDbUpyUW02RU9UQWh0cUxjS0JVbWFreTlyN052M1Axc0F5a3cwc3g0UXlLUEFNLTNKb0hmUHlUeG50cU5wTXYxbi1taEcybF9EWWMwVVFiT0V3ei1yRU0wamw2SmNvWFplV0w3V3lNLVBTcU1aX3hUckpNU1h0bkFHQVZMRDdKd1J1ekFPOUthMm8?oc=5"
+      "title": "黃金價格崩跌法人砍目標價！網勸退「追高心態」：不是避險是投機 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZZXp3QXNSUy1CM09sdHpIMHpfQlM0SUlWT2dwZ3QyNEIzYzJ0YjlDU3RJZVFpOTJ2bWNONk1NMV84M1k5WWIzZG84Xzg5dzBvQUHSAVdBVV95cUxONGpmMlg5TGlZS2RCcTZPdFdJT1FieFhWS3JrOW5YRnI2SWZ5RzIySGpFX1VkcnJGNE1XNVRKVE9GVlBNWkk3S3pET0xZM2stQy1ZeXoxbWM?oc=5"
     },
     {
-      "title": "費半狂洩美股收黑！台積電ADR跌近7%　台指期夜盤跌867點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NTkp2LVl2LWZGNHgtd1ItQUxBNzJhVTAtVm5QTGVVUWNtSFhTX1hFWXdLUy04TEVzX1JSWVJhYllXNDZPQTN2V2l2YlBwZHpuclHSAW5BVV95cUxQRUNBT1JPLVpVdjZxa3VTNFVtdHp3UjdudTZ6NmtzNmxNOTg5SHljR0hrR1M5UU15Y3V6eEM0SFNqVnR4Y213dVZObFlqeHJPQVN0M0d5VlBSS2kzc292QldfTVVRUkNDaWtfUWw4UQ?oc=5"
+      "title": "美股記憶體大跌，是錯殺還是即將反轉？ - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YREV3LUFjdFgxWUYteWNmOHZzdnpBZnpQNTNybTZHZTJKdE42cEJnNkVyTm4wZ2tLVGd5UlNxUmVrMjRWV3kxdHBhcGM2UQ?oc=5"
     },
     {
-      "title": "誰會終結美股牛市？專家：緊盯Fed但警訊也可能來自AI重度用戶| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pLVBrVVVXMDFzaTZUcVdaaVd6Tm9QZDM2ZXJVUkw2dHY4NFZzRzM2Q0diLTVndjVQaXpsQ2VTLVk2MTJLdUdvVUZpd0R3Ykpu?oc=5"
+      "title": "晶片股拖累！美股收黑「費半跌逾6%」美光重摔10% 台積電ADR跌6.98% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxObDE1cF9xdlJSWTdTbjZIWVc3ZFNMRUd1VDFWTlhLNjJTa29jVWpvaTNCTjF5c3lwNmJxcHBIZEFFN2NlTnBXQWdLSEMzUlp2SnBGYm9JczZyaEVNdFVROUdPNUlfUXdNaW1uV2tPSDJnb2I2UkM1RC1PcDFSdEZ4MVdYWG9NWWE1LVE4UF93UDViTE5vYlR6QzJFbkFmck1pY05MdzE5RW9rVG5ZNTJ4dTJrZ3JZd0hsYkZoM0Fxcmw2V1lvb1FKUm5MM3BVYUVDOUU0NlVsVTZhUmdvQXJuWnBfRFlJUUlfcGctNlNNdXVFelRqcU45QkN3dGVsX1d6UXh2NVZvSVIyZWY2YlpoMTRLREpCZjJHWlhBTlNIY3NBR0c5NEg4akVkSkQtWHQySEdNOTVWcEZza3F5M3FJODlud1JkZURDeUx2cWcwUUZkem9NbmUwd2FMdmNzUkp1bTliTmFn?oc=5"
     },
     {
-      "title": "Meta投下“深水炸彈”！美股存儲、光通信集體暴跌 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmWHk3azlfTzRfN0JaVk85Z21JUUtMYi1aZ2Y5OE4zMFlDWXdiT0FKY09wTEllOTVBRTF6NE50UlFObC1JUzlmVzltc3FLRGQ1dFV0ZDlrbFhrOHVabFpPSEJLNXA0SnM2N3c?oc=5"
+      "title": "2700億「資金大逃殺」！ 專家示警如何躲過美股倒貨潮 - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QTlFsMFVWaE9KZFd5ZlZmcVJaaUpXRzNCUEdPam9YXy1HWjBSaUp5VjZQVmNxQjJibWREcHlFWFNqLTJJNWxqSEhDYmF5MThzQkY5SnNDOA?oc=5"
     },
     {
-      "title": "高息派對再起：美股封閉式基金與金融股齊拋紅利，配息族大洗牌在即 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXy02TkpwZ0lJRXBWVmE5Vm9NWldNUVcwT2dJdlFCcVFiazJ5N0NtN2NFY0RSeDhtakk2Q3Y4anRlY2RVc2FlRlB3ci11Z3EtVHNfQmNHWndvTnRmTTBLbUR1ZDRnaUNuQ0E2OUFJM0paVGpCbzhxby1sM1luanhnUVBHeHdCb1Bud0dXdmVR?oc=5"
+      "title": "黃金寫完超慘紀錄後......終於大漲啦！ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91N3J5Wko4bUlmOHJZZ2w4Mk9ZREVETWh1QUhxTGFwLXczVF80QXE1V0tXYXVYSTM2MFBmLU11WlctTk00U0diUzRYMFBxY2F2NFVWVHRuUjUwa3ZRbkNN0gFkQVVfeXFMTnpXVk9Tbkx2SWJ1WlRQbnFLTWItTUtld1VoRkxIUWVyek9hbXdEQUxnYnBTNEM2cUVqRmc0UWNjQlFMRjBEU21jalJjNlNNNG9DTmtLekpreEdPU21BemJ6SkV0VQ?oc=5"
     },
     {
-      "title": "〈美股盤後〉Meta飆近9% 那指7月開局走低 道瓊寫新高後收近平盤 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16bldPWXU1SnJVOG5GUEw2cEdubnpOSnNoRF93X2dqSW1sNWVJcDFFZTBPbHlaSVVOLUZHWEJOZlVQcU1BV3FVU1JJMHViQVU?oc=5"
+      "title": "美國6月非農數據一出，黃金、美元、美股可能這樣走 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGFNaF92NHNoMXl0a29yM1BtNHhRRjFkbW9vcDRHZU9RUUsyQXYtd3FOU0xBWWZzbjVScUU2RWN4TVN0UmczdjNrMWVlTDlRdEE3UXF5c3BLSHlvb2txTE9BWnlneVpDOVFTUVQ3RExRckp3dXdNU1NFb2xVdUFxc2xjd2pKOS1OSG5TMEY0dTNkdHVUclB2U01RM1hoeTY0?oc=5"
     },
     {
-      "title": "美股》晶片股拖累！費半重挫893點！台積電ADR跌近7％ - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YNnlRZkJWX091WFdpMmo4MnBTdm5OTnVraGR2d19NY0prcGRIeWt0dWc1cEI1ekVYdlZOVVJHZEdBU2hiV19YR1lrbmc5S3M2MFo1dDdJbDI5R1doeG0tQkxCcXVpLXBYMjRGYzR3?oc=5"
+      "title": "美股｜4大指數齊黑 費半大跌逾6％ 台積DAR崩7％ Meta飆近9％ - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42Wk9BUGZGakZzV1RUNWpfV0hVTlE1YmNkd3UyMFBvTUhOWDJ5d1JjRVNuMzVWYXd0MlRKUHhkdWMzbmZIcGZ1bmRtYlkwNDl6WFNiVzlaX2llb0pveDcw?oc=5"
     },
     {
-      "title": "美股二季度太亮眼，連華爾街多頭都在防大幅回撤 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEF1SWZXZl9sclRPN0hTVndyTnBtZGo5WldQWDh6ZXpUU2NYclBLT3Y3LWE3RTlkc1FIOHJ1NmUtNTFkdE1RYWhEUHRuaWVPMm5Oa3N5RDVuQ0F5MTJlRzByakp1LXlicWx1UE1zbFkyaU1hZVpCM1NkUF9qdml0R2pGaGhnelJlU0t5TkIyWQ?oc=5"
+      "title": "美股收盤／費半指數重挫6.3% 晶片股領跌拖累美股 Meta 大漲8.8%緩和頹勢 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zd0phNTEyeEZSSC12MmZmY0h3elFDWi11RmNvVnZDV0M5YXJJRXh1ZTlqOWVMOEZ6UU05MUJOTlJOdGhOSDdIaXBiTmZfb3dTQWRheEhhRjhubHB20gFiQVVfeXFMT2liSEhnaHdONXl4LTBySkpjN2JNNDBacFdtZVc2dGhPQ0NVYW9keUJXUmpQRGdNUDcyWXlNTm9XcFgwQ3ZhQk1Tcmw5dGJGTF8wdEhWUElic0hSaHdBcGVzU2c?oc=5"
     }
   ]
 }
