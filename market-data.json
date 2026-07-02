@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/02 18:15",
+  "updated_tw": "07/03 01:01",
   "taiwan": {
     "2330": {
       "price": 2465.0,
-      "change": -40.0,
-      "changePercent": -1.5968
+      "change": 55.0,
+      "changePercent": 2.2822
     },
     "2454": {
       "price": 4345.0,
-      "change": 10.0,
-      "changePercent": 0.2307
+      "change": 100.0,
+      "changePercent": 2.3557
     },
     "2317": {
       "price": 239.0,
-      "change": -9.0,
-      "changePercent": -3.629
+      "change": -12.0,
+      "changePercent": -4.7809
     },
     "0050": {
       "price": 108.8,
-      "change": -0.89,
-      "changePercent": -0.8114
+      "change": 1.0,
+      "changePercent": 0.9276
     },
     "00878": {
       "price": 33.22,
-      "change": -0.22,
-      "changePercent": -0.6579
+      "change": -0.28,
+      "changePercent": -0.8358
     },
     "00919": {
       "price": 29.2,
-      "change": -0.27,
-      "changePercent": -0.9162
+      "change": -0.3,
+      "changePercent": -1.0169
     }
   },
   "us": {
     "NVDA": {
-      "price": 197.58,
-      "change": -2.51,
-      "changePercent": -1.2544
+      "price": 193.0,
+      "change": -4.58,
+      "changePercent": -2.318
     },
     "AAPL": {
-      "price": 294.38,
-      "change": 5.02,
-      "changePercent": 1.7349
+      "price": 307.815,
+      "change": 13.435,
+      "changePercent": 4.5638
     },
     "TSLA": {
-      "price": 425.3,
-      "change": 4.7,
-      "changePercent": 1.1174
+      "price": 390.56,
+      "change": -34.74,
+      "changePercent": -8.1683
     },
     "QQQ": {
-      "price": 725.17,
-      "change": -11.23,
-      "changePercent": -1.525
+      "price": 709.85,
+      "change": -15.32,
+      "changePercent": -2.1126
     },
     "SPY": {
-      "price": 745.76,
-      "change": -1.01,
-      "changePercent": -0.1353
+      "price": 741.62,
+      "change": -4.14,
+      "changePercent": -0.5551
     },
     "SCHD": {
-      "price": 31.85,
-      "change": 0.14,
-      "changePercent": 0.4415
+      "price": 32.18,
+      "change": 0.33,
+      "changePercent": 1.0361
     },
     "VOO": {
-      "price": 685.46,
-      "change": -1.35,
-      "changePercent": -0.1966
+      "price": 681.6,
+      "change": -3.86,
+      "changePercent": -0.5631
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61146.79,
-      "change": 1143.0322,
-      "changePercent": 1.9049
+      "price": 61593.45,
+      "change": 1589.6922,
+      "changePercent": 2.6493
     },
     "ETH": {
-      "price": 1644.19,
-      "change": 35.2293,
-      "changePercent": 2.1896
+      "price": 1696.58,
+      "change": 87.6193,
+      "changePercent": 5.4457
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.89,
-      "change": 0.0556,
-      "changePercent": 0.1747
+      "price": 31.886,
+      "change": 0.0516,
+      "changePercent": 0.1621
     },
     "JPYTWD": {
-      "price": 0.1955,
-      "change": -0.0002,
-      "changePercent": -0.1241
+      "price": 0.1959,
+      "change": 0.0002,
+      "changePercent": 0.0802
     },
     "EURTWD": {
-      "price": 36.423,
-      "change": 0.0902,
-      "changePercent": 0.2484
+      "price": 36.519,
+      "change": 0.1862,
+      "changePercent": 0.5126
     },
     "CNYTWD": {
-      "price": 4.7033,
+      "price": 4.7042,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4077.5,
-    "twd": 4181.0,
-    "tael": 156773.0,
-    "twdTotal": 130031.0,
-    "changePercent": 0.2261
+    "usd": 4130.9,
+    "twd": 4235.0,
+    "tael": 158806.0,
+    "twdTotal": 131718.0,
+    "changePercent": 1.5387
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "黃金價格崩跌法人砍目標價！網勸退「追高心態」：不是避險是投機 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZZXp3QXNSUy1CM09sdHpIMHpfQlM0SUlWT2dwZ3QyNEIzYzJ0YjlDU3RJZVFpOTJ2bWNONk1NMV84M1k5WWIzZG84Xzg5dzBvQUHSAVdBVV95cUxONGpmMlg5TGlZS2RCcTZPdFdJT1FieFhWS3JrOW5YRnI2SWZ5RzIySGpFX1VkcnJGNE1XNVRKVE9GVlBNWkk3S3pET0xZM2stQy1ZeXoxbWM?oc=5"
+      "title": "美股早盤／非農就業報告疲弱減緩升息壓力 台積ADR漲3%、特斯拉跌3% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSSHhUVFNJM2tjRTRMLXNjNUhJSWlIaDZvVWNvNk5aMlNqc29MVVoxS1F1dHVuNXEtb1VER1J4SHhtWXIxQlZtWG84WE1hOGhL?oc=5"
+    },
+    {
+      "title": "〈美股早盤〉疲弱非農降溫升息預期、科技股領漲 主要指數開高 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MMElMZzVKdlN4T2RWaU9XUmRtd0Y4VHNtdDlNSV82blR1bEVjaWFPd0huc1EyaTZ3bE92YjU4QzJKQ0FjX0ZtNW5uV2drVjg?oc=5"
+    },
+    {
+      "title": "美股早盤／非農就業報告疲弱減緩升息壓力 特斯拉跌6% - 世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oVDlpTjdwTkl0ck04TjdUY1hTVTB6ZWpmbTh0SzFGaXFtQWxYbnFRd0NpQl9seENseGJVZkQ0ajJfZDBkeWxjY0FrN2R3SU94bU5zazhQblhPdUxRNV9qNnF30gFnQVVfeXFMUFpWYmtXUE1OLXpMQXUyWVF4SlBKVmZnQmxDQnJzMy0tLWtaMXhZUUlubV9mYXYxMWZidXhsNUs4UXA2UWxwTG5XRDV1bXlhSVRDSDcxNktCNFpDcGE4ZjVRY0U4M09pSQ?oc=5"
     },
     {
       "title": "美股記憶體大跌，是錯殺還是即將反轉？ - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YREV3LUFjdFgxWUYteWNmOHZzdnpBZnpQNTNybTZHZTJKdE42cEJnNkVyTm4wZ2tLVGd5UlNxUmVrMjRWV3kxdHBhcGM2UQ?oc=5"
     },
     {
-      "title": "晶片股拖累！美股收黑「費半跌逾6%」美光重摔10% 台積電ADR跌6.98% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxObDE1cF9xdlJSWTdTbjZIWVc3ZFNMRUd1VDFWTlhLNjJTa29jVWpvaTNCTjF5c3lwNmJxcHBIZEFFN2NlTnBXQWdLSEMzUlp2SnBGYm9JczZyaEVNdFVROUdPNUlfUXdNaW1uV2tPSDJnb2I2UkM1RC1PcDFSdEZ4MVdYWG9NWWE1LVE4UF93UDViTE5vYlR6QzJFbkFmck1pY05MdzE5RW9rVG5ZNTJ4dTJrZ3JZd0hsYkZoM0Fxcmw2V1lvb1FKUm5MM3BVYUVDOUU0NlVsVTZhUmdvQXJuWnBfRFlJUUlfcGctNlNNdXVFelRqcU45QkN3dGVsX1d6UXh2NVZvSVIyZWY2YlpoMTRLREpCZjJHWlhBTlNIY3NBR0c5NEg4akVkSkQtWHQySEdNOTVWcEZza3F5M3FJODlud1JkZURDeUx2cWcwUUZkem9NbmUwd2FMdmNzUkp1bTliTmFn?oc=5"
-    },
-    {
       "title": "2700億「資金大逃殺」！ 專家示警如何躲過美股倒貨潮 - 東森新聞",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QTlFsMFVWaE9KZFd5ZlZmcVJaaUpXRzNCUEdPam9YXy1HWjBSaUp5VjZQVmNxQjJibWREcHlFWFNqLTJJNWxqSEhDYmF5MThzQkY5SnNDOA?oc=5"
     },
     {
-      "title": "黃金寫完超慘紀錄後......終於大漲啦！ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91N3J5Wko4bUlmOHJZZ2w4Mk9ZREVETWh1QUhxTGFwLXczVF80QXE1V0tXYXVYSTM2MFBmLU11WlctTk00U0diUzRYMFBxY2F2NFVWVHRuUjUwa3ZRbkNN0gFkQVVfeXFMTnpXVk9Tbkx2SWJ1WlRQbnFLTWItTUtld1VoRkxIUWVyek9hbXdEQUxnYnBTNEM2cUVqRmc0UWNjQlFMRjBEU21jalJjNlNNNG9DTmtLekpreEdPU21BemJ6SkV0VQ?oc=5"
+      "title": "美股拉警報！機構瘋砍3100億 美銀爆08年來最慘倒貨潮 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiNHdudDRfX0hhQzlwUWpVWDBSZHhnZFg4VTYtVXlpbzduazB1c0d1bXFmZXZucUFDbWFVZXhkbzA1UksxWHVwenFsQ3BsT3R0VkhsQ1dqUWtPcGVtWG440gFkQVVfeXFMTm5ua2g4UDlqXzNiY2VUalgtaW5NQUlXa2Y3MFVQVW9SOHFoNFVpNENXV1NBMkI2a1BVRFYtU2xTZWE2LU9YbzNnTTNKcVFUd0JfUElxa01zeklCVlk0eVY0aldfVQ?oc=5"
     },
     {
-      "title": "美國6月非農數據一出，黃金、美元、美股可能這樣走 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGFNaF92NHNoMXl0a29yM1BtNHhRRjFkbW9vcDRHZU9RUUsyQXYtd3FOU0xBWWZzbjVScUU2RWN4TVN0UmczdjNrMWVlTDlRdEE3UXF5c3BLSHlvb2txTE9BWnlneVpDOVFTUVQ3RExRckp3dXdNU1NFb2xVdUFxc2xjd2pKOS1OSG5TMEY0dTNkdHVUclB2U01RM1hoeTY0?oc=5"
+      "title": "美股AI熱潮現輪動：晶片股急跌資金轉往AI軟體 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQSVlCdENOTHRQbzhXYW9VYWl4S2RBNW0xeFRRaGxyTVA1Q1hST2xJdWNaSklzcllsVDB5TUI2QVFyMDJkSC1BWW8xZTZ2WVBDNFV3ajJJVjBGek9aRFNoV3pOQm5PdEJzYUhDdmpnbW9tR0FGdlBZbGJCUUdHWm4wY0VRX1ZCTTAyT3F2YWMzTk5iOHNHRlhCWWNYTC1VRTdmV3BGaVpVd3dtZHZ3M0h0NXliTXdLZkVSeU1IRVppNkh6a0lCTEhZajZoZnBhQ2JBclJrSmR4cWRiZUtyRnBaT2lRT05nUE9HWjB4NHdTQjZYLTZuX3ZxcklZbWhJN1RiMFh0MU4zTTVQU1ozd3A0elVUSkRhTEdHRGNrWEJJV2dzSWJMeVllYmFsWGRCVkRJS2pSVGlBWXFHZw?oc=5"
     },
     {
-      "title": "美股｜4大指數齊黑 費半大跌逾6％ 台積DAR崩7％ Meta飆近9％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42Wk9BUGZGakZzV1RUNWpfV0hVTlE1YmNkd3UyMFBvTUhOWDJ5d1JjRVNuMzVWYXd0MlRKUHhkdWMzbmZIcGZ1bmRtYlkwNDl6WFNiVzlaX2llb0pveDcw?oc=5"
-    },
-    {
-      "title": "美股收盤／費半指數重挫6.3% 晶片股領跌拖累美股 Meta 大漲8.8%緩和頹勢 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zd0phNTEyeEZSSC12MmZmY0h3elFDWi11RmNvVnZDV0M5YXJJRXh1ZTlqOWVMOEZ6UU05MUJOTlJOdGhOSDdIaXBiTmZfb3dTQWRheEhhRjhubHB20gFiQVVfeXFMT2liSEhnaHdONXl4LTBySkpjN2JNNDBacFdtZVc2dGhPQ0NVYW9keUJXUmpQRGdNUDcyWXlNTm9XcFgwQ3ZhQk1Tcmw5dGJGTF8wdEhWUElic0hSaHdBcGVzU2c?oc=5"
+      "title": "2026上半年台股ETF績效排行｜00913奪冠、00991A居前五，0050表現一次比較｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBNEtPQVJUWGh3UEdfdG1iQVZVZlNoQnBRN3JEZDhoLXlta1cyTENsOGcxRGhXeFNmQnM5Y0QxbmZNVVlydkxMYW1DQXpMQjZPdzM2bVNlOTBFcEVZMUlHcm5xWlRPcTBnYndHb0RaVTBDd0U2bWRpb0NBQ1o?oc=5"
     }
   ]
 }
