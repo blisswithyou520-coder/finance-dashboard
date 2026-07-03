@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/03 16:38",
+  "updated_tw": "07/03 23:56",
   "taiwan": {
     "2330": {
       "price": 2445.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 61678.01,
-      "change": 192.7092,
-      "changePercent": 0.3134
+      "price": 61877.8,
+      "change": 392.4992,
+      "changePercent": 0.6384
     },
     "ETH": {
-      "price": 1719.41,
-      "change": 21.2406,
-      "changePercent": 1.2508
+      "price": 1730.44,
+      "change": 32.2706,
+      "changePercent": 1.9003
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.901,
-      "change": 0.0062,
-      "changePercent": 0.0194
+      "price": 31.926,
+      "change": 0.0312,
+      "changePercent": 0.0978
     },
     "JPYTWD": {
-      "price": 0.1963,
-      "change": 0.0001,
-      "changePercent": 0.0418
+      "price": 0.1957,
+      "change": -0.0005,
+      "changePercent": -0.264
     },
     "EURTWD": {
-      "price": 36.627,
-      "change": 0.3371,
-      "changePercent": 0.929
+      "price": 36.562,
+      "change": 0.2721,
+      "changePercent": 0.7499
     },
     "CNYTWD": {
-      "price": 4.7163,
+      "price": 4.7132,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4194.6,
-    "twd": 4302.0,
-    "tael": 161331.0,
-    "twdTotal": 133812.0,
-    "changePercent": 1.9914
+    "usd": 4180.0,
+    "twd": 4291.0,
+    "tael": 160895.0,
+    "twdTotal": 133451.0,
+    "changePercent": 1.6364
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股上演兩樣情：那斯達克重挫、道瓊指數創歷史新高 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPM1Z0SFMyQUx3MU45NnNxRFBMNnRKZ0J6dFp2X2xKVXhESGp4Ujd5OXBGTkljeVlrVmRWMG5MMDk2SVV3WlpiMmh2cTJ0QXJwVlV4Y1Q3TEtVMzRoLWRjc2tocE5FRnQwVVdwWjJ2WVplSFZJaFNrLXF5bFpOU0hWVTR1SnBQa3F4RjBHQmxOd3FDY1dLaDRrUlhDMEZEZmdvTEI0N0NEbVU0UEFuZ3Q3U3NJV3Fza3BGcTdTQW1YNnk0T3EtTjM2eU1ONHZldFlyQ3Z5ekNHSnpWY21qaWRuZW1SajF0MTZnSWNLam1vN2ZlRmFkeDBvUlhITlltUy1kOE1Fd2FYa0Vlbjlhdkx1dGF1em51NjROVWZDQndScE4yQmdEeEZNMHhNSlV3Rmp4d2dxZWZ2YVJHRDNTVk44eENhR2x2QS1lNWVNT09HZXc0R0dnRy13cEJNQWEzVkFSUi1FMVFB?oc=5"
+      "title": "美股休市 台指期夜盤上半場多空對峙 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52N0FULTRrWnJDalR5blFPWGo5LXduZlQ3NVhqaUtWcXdLSlAyTklOQUlQZzlfMlhoZW9lOTlsRTlyT1NjVkhOZDVxanpVb0FOQlExUjZzTjg1VE3SAWBBVV95cUxQanNDak9IOEhJeHJfRWZPSG5VNk1vTTNmWDlwOFNzV3FqVEk2Y2tsLWl6a0NEb1NSQl92UEdNUzM0MWRINF9FSmlabTlsT200ZnZtM25fOUVHU3BvMkNXb0w?oc=5"
+    },
+    {
+      "title": "黃金要復活了？金價才寫「1慘紀錄」後V轉狂飆 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOZzlSUW50aF83SjVtazVkeVBSRUNremlzT05hNUZOMGoyTkJpSGRXTkNTZkt0RXpxR2EtZnp5MG0tVHBuVC1COUZOZnVkdEhGMldCV3BXcDBkblYwR2dOZnR1MUZfMXRiN1NjWE0zZzhOLURSNUlyWGZFZmZpWktZUlMxV1R5UHBocXVlZ1FlT3duSHJWcWJERWtJbXpMM0ozdC12LWZCaktuWHZkTHQ2WGNxaXU3cEkxbjIzdkFXbEM4bHdtRVJoWndSOWp1aFJHckRmOXhZYlkyUjVfcFhvTmJacmtUREZJYUR6WURzU3NQckQtVEFZX2huXzZ5ZG1BZTIwZXJkSk43eVgtRmZDT3g5THFDYWpnRS1LT3hwNnliZmR1aVE0Y20yaW5SZw?oc=5"
     },
     {
       "title": "黃金又狂飆了！專家解釋原因 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BTlFMTTU5NF9zR1UyQ0V0eHRxaURBQk5rYXJ4YkFSazB6Si0yQ29jZFlNTXAtZnFUV0R4UWFtcnliMUE3SzFFa1B4MjdNYVJhcW9Bb1h3T1dFNEQ2R1800gFkQVVfeXFMTlAwdHFuYzdmNjdiNGVaYzFwQ2ZTM2s1enhGeVJkUU1yR1d4azJybVBxcDdTOW82OXV5aU5haDNYcTBFMXhmM0VmVi0wM29tY1c2VFlnZ2FET21jbWNOQjR0QV93RA?oc=5"
     },
     {
-      "title": "川普買股時機精準？關稅害美股崩跌後掃貨327檔隔天宣布暫停部分關稅| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wQkt0a0NFdWg4TDJsdFFlWmNjcldybTZZWENWSHpXa1NiOTZqamtjRWRHbXVWSExhRjgxS2xLOE5XUVE1UDAyYnpWY014azVa?oc=5"
-    },
-    {
       "title": "Bitget 推出加密產業首個美股選擇權交易服務 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0VmlmMjRySEtnN0pIRVV2aTQ2S1BwcTBBNGIwc3hmV1JURmRDOWxQRXVmczdnX2pvU2pxNTNLelZIVVY1UDZ2VjFXUQ?oc=5"
     },
     {
-      "title": "快訊／台股急拉翻紅收漲36.46點　台積電跌20元至2445 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3aHQwYmRiZmdQR280TTYtTmZtZTRvaDc4MFR3SjZvaVZYWnh4MVl1ZlR4Vi1UeHVYc0ppMmQtZlh4S0txNTRuWWpVcTJnRVFSVnfSAW5BVV95cUxPMUdsMGgwdmFQemRJUlhuZnVYRm9BS2J5UmNjOFNiQ3hjbDB0cnlMc01CNjlnb1lNYWRCaTZ1Vms3clBBZHAwRUh1MzQ5VDViVU95RTJaNC1TSFlCMzFJV205TllIa3NsRFFTTEpyUQ?oc=5"
+      "title": "比特幣面臨「夏季量縮」大考驗！分析：站穩「這條成本線」多頭才有戲唱 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONWQ1N1NQZHg1ZVJONUgzYzZqb1pLRk1wc2VvblVfcjEwV2VZa2x4a3o3WlhoakdodVM4V2RQUUk4WGtHQ0VPMzNYMGRnUlh6cTlXUXA4WkhFZWdDUzl2WXl3OGE2ZEIyamx3MEp0emJJR19PdlZZeXJ1SkNWaFh6Rjhxbmk4OExHN2Y1cHU5bFFlcjJaWkZv?oc=5"
     },
     {
-      "title": "比特幣巨鯨Strategy將賣幣 摩根大通示警風險 - 台視全球資訊網",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeEJxOHg5QTg0M3FzZ2txYmpudnBTS3ZEVTBrRWdKZnN4NFhHT1JGQUZHclpVTTFkVzd3SUdmMVVhT1BvcHN0Q19OOXRVc0FaX0RuenhiSWI4S0NITVN3ZVMzM2pPS3VtS3djUWVDUHZxUE02TU5ULVVpOTlFVHZaTC1CYTB0ejdlWlI4bHVtcTRYdw?oc=5"
+      "title": "2026上半年台股ETF績效排行｜00913奪冠、00991A居前五，0050表現一次比較｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOQ1hPR1NWajlmNjRsU0xsMm9GV2FNMjdnM2x3Y2x6Tk9ZZFpGLV95NzhlWXNOdU9ma3FUeWt4Y1VLeGFTdkpZSUZWWEFCSDVWSmV2TWp3UllGek5wSWR4RVNZN0dwdHBsd1FMZXFwdWZxVnFfSU54MEYzT1VVR1VuQ2JfRThLSFVVZFpKRTk4VFQwbHVWVVBiZU9kU0paZlM1NGZQUnEtNEUxQTJwZkMzRzhBdno2dlZoOFlkYTVlYnpXcTR1d042Z203aXBKR2dVMlVlZHV6aU1jaTZHaERleHBYUGFnQmhUNkMzQjZ4WUZTOWJvYi1uMTJWcmtNeTFlaGg0Um1NVUJRUVM3SEVQU2p5ZGhMSml0ZFhta1lwbUV1amlmQV9QT1k3UEVDTm1vWHVHQnA3Mzl3Tzd0Z0tnRUV5Rkt5NXp1UnljQXpXTnE2eWJqT2pGY3VEdVBaMnVTQm4zMXRBZkdfNlpoMEpHcm9zMGVpeWVxbGc4MkwzMG1KclNCVXNhODFValRQQQ?oc=5"
     },
     {
-      "title": "美國就業數據疲軟 美股走勢分歧 道瓊寫新高那指承壓 晶片股領跌 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNUlY4Y1ZSVnFJZzRvWWdvMVZTOTdKZUNUUlhIbElRQ1Y2eVZKdkZFSEx1OWsyV1ZRYmktTGF1V0hSMkcwc1BXSkdaYWZXTExiZG91ZW00YWJJbk0yTzFZdUUzN25FME55VjdRM28wLW5nUDNSSzhUSmRuSlkyYzJheHI5N1daVHN0Q09Sd1lXLW40em5oaGpLcnJlRGlwVHJZSzllM0txMmZtQ0o1UkZ4b1d3T2pOVjdnSGpZYU16UE1BbTVQeFg4Y1lxaGlmZDRIZEpFRDJzaUh2eUR5Z1A2czZCS1ZSYVl0emcwcWgteDhoNDJELXJsamZMQkR3czNiSUlsUW16Z3JETm9Hb2xxWWNJb21SSUNBRW94Vm95WHhFUTRUX0tYWjVzcHUtWE5KbllnNHpJVkU1c3F5NzRnYlJzZS0wdUcxT2NnXzh1ZmNMRFBUdi1rLS1JakQtLVpzcDVLTF9lT1lWT0RIcWhITXhfM2kxeVdvZkF4TG1CamxSY3o4T3BRc3RNNnVHMHZWNlVaS0Z4TkhSY1llNE13RVJXQ2VCMURGWGV3VjQ1NA?oc=5"
+      "title": "玉山證券「台股e指存」服務 提供穩健投資新培力 - esunbank.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWRtUGxSaEZUM3kyNXExOGJudmhoQ0l0U3dmOEluWEw4V2lLMTUzUTNaN18zbFg1ZWZDYzdlaUwyUXdBREJMQzN1VmxMNVVVOWVaQnpCYTJrTTlMOWkwTWN5SWJIZk1tYUNmNFdQTllGOHRNM0pzVVplei1pZy1OT3RmRTQ2bTk1QzlPb3NydzJhc3ZWV3JOUWpKS3dqbjM1ZE1mMkMwWkhUSkMxa1p1ZXhWbHF1cTN0RnhOT180Qi04eWh4?oc=5"
     },
     {
-      "title": "今天還不是美國國慶日 為什麼美股休市？ - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zc0l3NEpQNmxSeXQ2Wk5nQkNvNnJELTZBZUVDSy00a0xYWkNpazlxd21zWDQyWGFTdEtWZ1JDMzdhMWNwVkZhbnhhY1ZNUVoy?oc=5"
+      "title": "美股上演兩樣情：那斯達克重挫、道瓊指數創歷史新高 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPM1Z0SFMyQUx3MU45NnNxRFBMNnRKZ0J6dFp2X2xKVXhESGp4Ujd5OXBGTkljeVlrVmRWMG5MMDk2SVV3WlpiMmh2cTJ0QXJwVlV4Y1Q3TEtVMzRoLWRjc2tocE5FRnQwVVdwWjJ2WVplSFZJaFNrLXF5bFpOU0hWVTR1SnBQa3F4RjBHQmxOd3FDY1dLaDRrUlhDMEZEZmdvTEI0N0NEbVU0UEFuZ3Q3U3NJV3Fza3BGcTdTQW1YNnk0T3EtTjM2eU1ONHZldFlyQ3Z5ekNHSnpWY21qaWRuZW1SajF0MTZnSWNLam1vN2ZlRmFkeDBvUlhITlltUy1kOE1Fd2FYa0Vlbjlhdkx1dGF1em51NjROVWZDQndScE4yQmdEeEZNMHhNSlV3Rmp4d2dxZWZ2YVJHRDNTVk44eENhR2x2QS1lNWVNT09HZXc0R0dnRy13cEJNQWEzVkFSUi1FMVFB?oc=5"
     }
   ]
 }
