@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/03 23:56",
+  "updated_tw": "07/04 04:34",
   "taiwan": {
     "2330": {
       "price": 2445.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 108.35,
-      "change": -0.45,
-      "changePercent": -0.4136
+      "change": -1.34,
+      "changePercent": -1.2216
     },
     "00878": {
       "price": 33.33,
-      "change": 0.11,
-      "changePercent": 0.3311
+      "change": -0.11,
+      "changePercent": -0.3289
     },
     "00919": {
       "price": 29.53,
-      "change": 0.33,
-      "changePercent": 1.1301
+      "change": 0.06,
+      "changePercent": 0.2036
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 61877.8,
-      "change": 392.4992,
-      "changePercent": 0.6384
+      "price": 62540.4,
+      "change": 1055.0992,
+      "changePercent": 1.716
     },
     "ETH": {
-      "price": 1730.44,
-      "change": 32.2706,
-      "changePercent": 1.9003
+      "price": 1750.88,
+      "change": 52.7106,
+      "changePercent": 3.104
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.926,
-      "change": 0.0312,
-      "changePercent": 0.0978
+      "price": 31.923,
+      "change": -0.0079,
+      "changePercent": -0.0247
     },
     "JPYTWD": {
       "price": 0.1957,
-      "change": -0.0005,
-      "changePercent": -0.264
+      "change": -0.0021,
+      "changePercent": -1.0437
     },
     "EURTWD": {
-      "price": 36.562,
-      "change": 0.2721,
-      "changePercent": 0.7499
+      "price": 36.552,
+      "change": 0.08,
+      "changePercent": 0.2193
     },
     "CNYTWD": {
-      "price": 4.7132,
+      "price": 4.7155,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4180.0,
-    "twd": 4291.0,
-    "tael": 160895.0,
-    "twdTotal": 133451.0,
-    "changePercent": 1.6364
+    "usd": 4187.3,
+    "twd": 4298.0,
+    "tael": 161161.0,
+    "twdTotal": 133671.0,
+    "changePercent": 1.8139
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "黃金要復活了？金價才寫「1慘紀錄」後V轉狂飆 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOZzlSUW50aF83SjVtazVkeVBSRUNremlzT05hNUZOMGoyTkJpSGRXTkNTZkt0RXpxR2EtZnp5MG0tVHBuVC1COUZOZnVkdEhGMldCV3BXcDBkblYwR2dOZnR1MUZfMXRiN1NjWE0zZzhOLURSNUlyWGZFZmZpWktZUlMxV1R5UHBocXVlZ1FlT3duSHJWcWJERWtJbXpMM0ozdC12LWZCaktuWHZkTHQ2WGNxaXU3cEkxbjIzdkFXbEM4bHdtRVJoWndSOWp1aFJHckRmOXhZYlkyUjVfcFhvTmJacmtUREZJYUR6WURzU3NQckQtVEFZX2huXzZ5ZG1BZTIwZXJkSk43eVgtRmZDT3g5THFDYWpnRS1LT3hwNnliZmR1aVE0Y20yaW5SZw?oc=5"
+    },
+    {
       "title": "美股休市 台指期夜盤上半場多空對峙 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52N0FULTRrWnJDalR5blFPWGo5LXduZlQ3NVhqaUtWcXdLSlAyTklOQUlQZzlfMlhoZW9lOTlsRTlyT1NjVkhOZDVxanpVb0FOQlExUjZzTjg1VE3SAWBBVV95cUxQanNDak9IOEhJeHJfRWZPSG5VNk1vTTNmWDlwOFNzV3FqVEk2Y2tsLWl6a0NEb1NSQl92UEdNUzM0MWRINF9FSmlabTlsT200ZnZtM25fOUVHU3BvMkNXb0w?oc=5"
     },
     {
-      "title": "黃金要復活了？金價才寫「1慘紀錄」後V轉狂飆 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOZzlSUW50aF83SjVtazVkeVBSRUNremlzT05hNUZOMGoyTkJpSGRXTkNTZkt0RXpxR2EtZnp5MG0tVHBuVC1COUZOZnVkdEhGMldCV3BXcDBkblYwR2dOZnR1MUZfMXRiN1NjWE0zZzhOLURSNUlyWGZFZmZpWktZUlMxV1R5UHBocXVlZ1FlT3duSHJWcWJERWtJbXpMM0ozdC12LWZCaktuWHZkTHQ2WGNxaXU3cEkxbjIzdkFXbEM4bHdtRVJoWndSOWp1aFJHckRmOXhZYlkyUjVfcFhvTmJacmtUREZJYUR6WURzU3NQckQtVEFZX2huXzZ5ZG1BZTIwZXJkSk43eVgtRmZDT3g5THFDYWpnRS1LT3hwNnliZmR1aVE0Y20yaW5SZw?oc=5"
+      "title": "7月台股投資「勝」經大點將- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rWUZqNjIyaTNrQjNvV0VsbjhYeEFfMVNfbE5ZZFU1Ulo0MGxPakVqMjJtM3BUQVdKTnduVFFudEpzMGNhLUR5RmFfQVgwNm9TeEc4OEdRS0dHcnp3b1RV?oc=5"
+    },
+    {
+      "title": "【美股盤前】Meta拋算力過剩震撼彈 ？蘋果摺疊機提升備貨目標 股價漲4.8%，資金輪動道瓊獨創新高！ - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQNVVyenliRXVIUS1JTXBTRi1XamwzRjRXRUI2WDlKZTBuMU4wazRKWDhyc0lWSDRqclNsTFNkQnZWaGlfSGNVci03VUs2cjI4b210THpMZ0lZNVgtVU4yUEJSVXVaX2p0dXFIbWxEUkVNQlpKcUFfSEZHNDhLZXo4UWRKM3ZQN0E4ZzZBa0pRc1d6cXJZZHZEcEE1VjhHRDFOWXRrVUIyTF9BWTdlZFd4cjJfZ2xlOEZ3RV96dGZWMUxWVW1PVWc4ZVRTNnJDbGxFMnpuMHNzTkxMaEQtRVRfdS1IVHNpcTB1c2gxbHRlbDAxV0pzOE9lMTdJa2RWRGN4WDl0OFQxZ3BDRDh1OTcyczRoaEVZZnAwUUczdzQ0bjZ1YVFhcE1DTks3SHZVNnlFTlRuUGNlVHNYMGVodjA0alZWVEd5NENXLXp2SGlQV2VvcE5XeWszTVhOaktzQmh5aXZuX1dKb2c5SE1FS2pBZXdpSkN1T1NyT045UE1YTzgxZU83ck9pdGRIemo5OFNvRjJJLUxoUWxPeXR1S2NKS3NCaHl1TGktaFZWSkI4R1M2aUx5RGZleS1lX0EzMHhZMlFrU2EyTVRJTzIwQVhza3ZzN1ByUl9JWkxQSFk2ZTZ5OVFmNG1zYlE5cWNLZVEtcVpxcHQ5cUdEWmJmUnR3TDZhOA?oc=5"
+    },
+    {
+      "title": "美股崩盤將至？吸取歷史教訓　外媒：投資人應「做1事」 - 三立新聞網SETN.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kSkR1dzJKaWxNUnYza3RSMkQyazJ1NEx3LTU4cUlHZjFWOE13WWE5SkRiR2thT1R1MlNRWUNOaWZiVWxYZERrX3dNS0s0T0VVRG13OFRFVTfSAV9BVV95cUxOWlBvdjNvYk54dWFwSmNpYWMzMjRmQjV1WU9EbW9OU1dQQ3BVaVZNN3ZpblZBSG9RQXhRbzlIYW9FOWY0bklPX1Byb0o2TlZHUEVUYkVHd1FQVjI5TVhTOA?oc=5"
     },
     {
       "title": "黃金又狂飆了！專家解釋原因 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BTlFMTTU5NF9zR1UyQ0V0eHRxaURBQk5rYXJ4YkFSazB6Si0yQ29jZFlNTXAtZnFUV0R4UWFtcnliMUE3SzFFa1B4MjdNYVJhcW9Bb1h3T1dFNEQ2R1800gFkQVVfeXFMTlAwdHFuYzdmNjdiNGVaYzFwQ2ZTM2s1enhGeVJkUU1yR1d4azJybVBxcDdTOW82OXV5aU5haDNYcTBFMXhmM0VmVi0wM29tY1c2VFlnZ2FET21jbWNOQjR0QV93RA?oc=5"
     },
     {
-      "title": "Bitget 推出加密產業首個美股選擇權交易服務 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0VmlmMjRySEtnN0pIRVV2aTQ2S1BwcTBBNGIwc3hmV1JURmRDOWxQRXVmczdnX2pvU2pxNTNLelZIVVY1UDZ2VjFXUQ?oc=5"
-    },
-    {
       "title": "比特幣面臨「夏季量縮」大考驗！分析：站穩「這條成本線」多頭才有戲唱 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONWQ1N1NQZHg1ZVJONUgzYzZqb1pLRk1wc2VvblVfcjEwV2VZa2x4a3o3WlhoakdodVM4V2RQUUk4WGtHQ0VPMzNYMGRnUlh6cTlXUXA4WkhFZWdDUzl2WXl3OGE2ZEIyamx3MEp0emJJR19PdlZZeXJ1SkNWaFh6Rjhxbmk4OExHN2Y1cHU5bFFlcjJaWkZv?oc=5"
     },
     {
-      "title": "2026上半年台股ETF績效排行｜00913奪冠、00991A居前五，0050表現一次比較｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOQ1hPR1NWajlmNjRsU0xsMm9GV2FNMjdnM2x3Y2x6Tk9ZZFpGLV95NzhlWXNOdU9ma3FUeWt4Y1VLeGFTdkpZSUZWWEFCSDVWSmV2TWp3UllGek5wSWR4RVNZN0dwdHBsd1FMZXFwdWZxVnFfSU54MEYzT1VVR1VuQ2JfRThLSFVVZFpKRTk4VFQwbHVWVVBiZU9kU0paZlM1NGZQUnEtNEUxQTJwZkMzRzhBdno2dlZoOFlkYTVlYnpXcTR1d042Z203aXBKR2dVMlVlZHV6aU1jaTZHaERleHBYUGFnQmhUNkMzQjZ4WUZTOWJvYi1uMTJWcmtNeTFlaGg0Um1NVUJRUVM3SEVQU2p5ZGhMSml0ZFhta1lwbUV1amlmQV9QT1k3UEVDTm1vWHVHQnA3Mzl3Tzd0Z0tnRUV5Rkt5NXp1UnljQXpXTnE2eWJqT2pGY3VEdVBaMnVTQm4zMXRBZkdfNlpoMEpHcm9zMGVpeWVxbGc4MkwzMG1KclNCVXNhODFValRQQQ?oc=5"
-    },
-    {
-      "title": "玉山證券「台股e指存」服務 提供穩健投資新培力 - esunbank.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWRtUGxSaEZUM3kyNXExOGJudmhoQ0l0U3dmOEluWEw4V2lLMTUzUTNaN18zbFg1ZWZDYzdlaUwyUXdBREJMQzN1VmxMNVVVOWVaQnpCYTJrTTlMOWkwTWN5SWJIZk1tYUNmNFdQTllGOHRNM0pzVVplei1pZy1OT3RmRTQ2bTk1QzlPb3NydzJhc3ZWV3JOUWpKS3dqbjM1ZE1mMkMwWkhUSkMxa1p1ZXhWbHF1cTN0RnhOT180Qi04eWh4?oc=5"
-    },
-    {
-      "title": "美股上演兩樣情：那斯達克重挫、道瓊指數創歷史新高 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPM1Z0SFMyQUx3MU45NnNxRFBMNnRKZ0J6dFp2X2xKVXhESGp4Ujd5OXBGTkljeVlrVmRWMG5MMDk2SVV3WlpiMmh2cTJ0QXJwVlV4Y1Q3TEtVMzRoLWRjc2tocE5FRnQwVVdwWjJ2WVplSFZJaFNrLXF5bFpOU0hWVTR1SnBQa3F4RjBHQmxOd3FDY1dLaDRrUlhDMEZEZmdvTEI0N0NEbVU0UEFuZ3Q3U3NJV3Fza3BGcTdTQW1YNnk0T3EtTjM2eU1ONHZldFlyQ3Z5ekNHSnpWY21qaWRuZW1SajF0MTZnSWNLam1vN2ZlRmFkeDBvUlhITlltUy1kOE1Fd2FYa0Vlbjlhdkx1dGF1em51NjROVWZDQndScE4yQmdEeEZNMHhNSlV3Rmp4d2dxZWZ2YVJHRDNTVk44eENhR2x2QS1lNWVNT09HZXc0R0dnRy13cEJNQWEzVkFSUi1FMVFB?oc=5"
+      "title": "Bitget 推出加密產業首個美股選擇權交易服務 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0VmlmMjRySEtnN0pIRVV2aTQ2S1BwcTBBNGIwc3hmV1JURmRDOWxQRXVmczdnX2pvU2pxNTNLelZIVVY1UDZ2VjFXUQ?oc=5"
     }
   ]
 }
