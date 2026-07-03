@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/03 04:45",
+  "updated_tw": "07/03 16:38",
   "taiwan": {
     "2330": {
-      "price": 2465.0,
-      "change": -40.0,
-      "changePercent": -1.5968
+      "price": 2445.0,
+      "change": -20.0,
+      "changePercent": -0.8114
     },
     "2454": {
-      "price": 4345.0,
-      "change": 10.0,
-      "changePercent": 0.2307
+      "price": 4195.0,
+      "change": -150.0,
+      "changePercent": -3.4522
     },
     "2317": {
-      "price": 239.0,
-      "change": -9.0,
-      "changePercent": -3.629
+      "price": 240.5,
+      "change": 1.5,
+      "changePercent": 0.6276
     },
     "0050": {
-      "price": 108.8,
-      "change": 1.0,
-      "changePercent": 0.9276
+      "price": 108.35,
+      "change": -0.45,
+      "changePercent": -0.4136
     },
     "00878": {
-      "price": 33.22,
-      "change": -0.28,
-      "changePercent": -0.8358
+      "price": 33.33,
+      "change": 0.11,
+      "changePercent": 0.3311
     },
     "00919": {
-      "price": 29.2,
-      "change": -0.3,
-      "changePercent": -1.0169
+      "price": 29.53,
+      "change": 0.33,
+      "changePercent": 1.1301
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 61316.6,
-      "change": 1312.8422,
-      "changePercent": 2.1879
+      "price": 61678.01,
+      "change": 192.7092,
+      "changePercent": 0.3134
     },
     "ETH": {
-      "price": 1696.81,
-      "change": 87.8493,
-      "changePercent": 5.46
+      "price": 1719.41,
+      "change": 21.2406,
+      "changePercent": 1.2508
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.889,
-      "change": -0.0058,
-      "changePercent": -0.0182
+      "price": 31.901,
+      "change": 0.0062,
+      "changePercent": 0.0194
     },
     "JPYTWD": {
-      "price": 0.1957,
-      "change": -0.0005,
-      "changePercent": -0.264
+      "price": 0.1963,
+      "change": 0.0001,
+      "changePercent": 0.0418
     },
     "EURTWD": {
-      "price": 36.502,
-      "change": 0.2121,
-      "changePercent": 0.5846
+      "price": 36.627,
+      "change": 0.3371,
+      "changePercent": 0.929
     },
     "CNYTWD": {
-      "price": 4.7042,
+      "price": 4.7163,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4136.5,
-    "twd": 4241.0,
-    "tael": 159036.0,
-    "twdTotal": 131909.0,
-    "changePercent": 1.6764
+    "usd": 4194.6,
+    "twd": 4302.0,
+    "tael": 161331.0,
+    "twdTotal": 133812.0,
+    "changePercent": 1.9914
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股早盤／非農就業報告疲弱減緩升息壓力 台積ADR漲3%、特斯拉跌3% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSSHhUVFNJM2tjRTRMLXNjNUhJSWlIaDZvVWNvNk5aMlNqc29MVVoxS1F1dHVuNXEtb1VER1J4SHhtWXIxQlZtWG84WE1hOGhL?oc=5"
+      "title": "美股上演兩樣情：那斯達克重挫、道瓊指數創歷史新高 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPM1Z0SFMyQUx3MU45NnNxRFBMNnRKZ0J6dFp2X2xKVXhESGp4Ujd5OXBGTkljeVlrVmRWMG5MMDk2SVV3WlpiMmh2cTJ0QXJwVlV4Y1Q3TEtVMzRoLWRjc2tocE5FRnQwVVdwWjJ2WVplSFZJaFNrLXF5bFpOU0hWVTR1SnBQa3F4RjBHQmxOd3FDY1dLaDRrUlhDMEZEZmdvTEI0N0NEbVU0UEFuZ3Q3U3NJV3Fza3BGcTdTQW1YNnk0T3EtTjM2eU1ONHZldFlyQ3Z5ekNHSnpWY21qaWRuZW1SajF0MTZnSWNLam1vN2ZlRmFkeDBvUlhITlltUy1kOE1Fd2FYa0Vlbjlhdkx1dGF1em51NjROVWZDQndScE4yQmdEeEZNMHhNSlV3Rmp4d2dxZWZ2YVJHRDNTVk44eENhR2x2QS1lNWVNT09HZXc0R0dnRy13cEJNQWEzVkFSUi1FMVFB?oc=5"
     },
     {
-      "title": "美股記憶體大跌，是錯殺還是即將反轉？ - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YREV3LUFjdFgxWUYteWNmOHZzdnpBZnpQNTNybTZHZTJKdE42cEJnNkVyTm4wZ2tLVGd5UlNxUmVrMjRWV3kxdHBhcGM2UQ?oc=5"
+      "title": "黃金又狂飆了！專家解釋原因 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BTlFMTTU5NF9zR1UyQ0V0eHRxaURBQk5rYXJ4YkFSazB6Si0yQ29jZFlNTXAtZnFUV0R4UWFtcnliMUE3SzFFa1B4MjdNYVJhcW9Bb1h3T1dFNEQ2R1800gFkQVVfeXFMTlAwdHFuYzdmNjdiNGVaYzFwQ2ZTM2s1enhGeVJkUU1yR1d4azJybVBxcDdTOW82OXV5aU5haDNYcTBFMXhmM0VmVi0wM29tY1c2VFlnZ2FET21jbWNOQjR0QV93RA?oc=5"
     },
     {
-      "title": "美股早盤／非農就業報告疲弱減緩升息壓力 特斯拉跌6% - 世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oVDlpTjdwTkl0ck04TjdUY1hTVTB6ZWpmbTh0SzFGaXFtQWxYbnFRd0NpQl9seENseGJVZkQ0ajJfZDBkeWxjY0FrN2R3SU94bU5zazhQblhPdUxRNV9qNnF30gFnQVVfeXFMUFpWYmtXUE1OLXpMQXUyWVF4SlBKVmZnQmxDQnJzMy0tLWtaMXhZUUlubV9mYXYxMWZidXhsNUs4UXA2UWxwTG5XRDV1bXlhSVRDSDcxNktCNFpDcGE4ZjVRY0U4M09pSQ?oc=5"
+      "title": "川普買股時機精準？關稅害美股崩跌後掃貨327檔隔天宣布暫停部分關稅| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wQkt0a0NFdWg4TDJsdFFlWmNjcldybTZZWENWSHpXa1NiOTZqamtjRWRHbXVWSExhRjgxS2xLOE5XUVE1UDAyYnpWY014azVa?oc=5"
     },
     {
-      "title": "美股 AI 狂潮下的風險暗湧：勞動市場失血、投資人轉向防禦布局 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmlUdmdyNWFhdXlXRzY1cFdqTkpQNU5fMUdBTWQwWHpLdXhnZE5VU2hfZ245OUItOGlwOWpXZG5VbHNkTjM5LVd6Y3Z0LVBXaldDLUtsTGdoQXpZZ3Voa1RHMldOQlZXMkRUam9sUTk0bWRZUFhpNGxhbDd1RFAzRzZ2SW05dTFLMU1sOGpB?oc=5"
+      "title": "Bitget 推出加密產業首個美股選擇權交易服務 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0VmlmMjRySEtnN0pIRVV2aTQ2S1BwcTBBNGIwc3hmV1JURmRDOWxQRXVmczdnX2pvU2pxNTNLelZIVVY1UDZ2VjFXUQ?oc=5"
     },
     {
-      "title": "2026上半年台股ETF績效排行｜00913奪冠、00991A居前五，0050表現一次比較｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBNEtPQVJUWGh3UEdfdG1iQVZVZlNoQnBRN3JEZDhoLXlta1cyTENsOGcxRGhXeFNmQnM5Y0QxbmZNVVlydkxMYW1DQXpMQjZPdzM2bVNlOTBFcEVZMUlHcm5xWlRPcTBnYndHb0RaVTBDd0U2bWRpb0NBQ1o?oc=5"
+      "title": "快訊／台股急拉翻紅收漲36.46點　台積電跌20元至2445 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3aHQwYmRiZmdQR280TTYtTmZtZTRvaDc4MFR3SjZvaVZYWnh4MVl1ZlR4Vi1UeHVYc0ppMmQtZlh4S0txNTRuWWpVcTJnRVFSVnfSAW5BVV95cUxPMUdsMGgwdmFQemRJUlhuZnVYRm9BS2J5UmNjOFNiQ3hjbDB0cnlMc01CNjlnb1lNYWRCaTZ1Vms3clBBZHAwRUh1MzQ5VDViVU95RTJaNC1TSFlCMzFJV205TllIa3NsRFFTTEpyUQ?oc=5"
     },
     {
-      "title": "2700億「資金大逃殺」！ 專家示警如何躲過美股倒貨潮 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QTlFsMFVWaE9KZFd5ZlZmcVJaaUpXRzNCUEdPam9YXy1HWjBSaUp5VjZQVmNxQjJibWREcHlFWFNqLTJJNWxqSEhDYmF5MThzQkY5SnNDOA?oc=5"
+      "title": "比特幣巨鯨Strategy將賣幣 摩根大通示警風險 - 台視全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeEJxOHg5QTg0M3FzZ2txYmpudnBTS3ZEVTBrRWdKZnN4NFhHT1JGQUZHclpVTTFkVzd3SUdmMVVhT1BvcHN0Q19OOXRVc0FaX0RuenhiSWI4S0NITVN3ZVMzM2pPS3VtS3djUWVDUHZxUE02TU5ULVVpOTlFVHZaTC1CYTB0ejdlWlI4bHVtcTRYdw?oc=5"
     },
     {
-      "title": "費半大翻車台股卻跌不深？ 專家揭盲點：是加碼窗口 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPUGk1eUs4eC1QRUc0OGNDc0dIa1NEdWNQTWdKcWJFeDd0WV9mUHR1aVZ1MVItTmxnbTN6SDNMSUdlUXRSd0trUDhBZmR4M1ZUX1ZiNlNGVV90NTVqdHg5RU1XTFF5M1F3c0JUWG02d3Q4d1FGVVhCdlNLQV9yMlBwdUxqejQ4SDA3NFA4NVJzWDhzZmZZRmpqaHZkVFZtbnhJSGIyVm1fSDhOUjNFT2llR1NHQ3IzZWJMSWdNMEV2NE45aEtqVGRMQVpGUS1veDRvRW5RU1lsYkR3Mk5SakxGMGxmeDE0SFBtRkJNd2RqazJheVh6S1RYR3pzeGk5bjZfSThLS2R2NTdzWWtkaGRPel9XOVB0Zm55SGwwSnhWbC1yVDNzeEU5YnpyRlZRMDNBbEMxRktRaVo4S1dJLWVrVjBTY29sN1Y4Y1kwYTMtQkhaSTRRbm9lNDl3?oc=5"
+      "title": "美國就業數據疲軟 美股走勢分歧 道瓊寫新高那指承壓 晶片股領跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNUlY4Y1ZSVnFJZzRvWWdvMVZTOTdKZUNUUlhIbElRQ1Y2eVZKdkZFSEx1OWsyV1ZRYmktTGF1V0hSMkcwc1BXSkdaYWZXTExiZG91ZW00YWJJbk0yTzFZdUUzN25FME55VjdRM28wLW5nUDNSSzhUSmRuSlkyYzJheHI5N1daVHN0Q09Sd1lXLW40em5oaGpLcnJlRGlwVHJZSzllM0txMmZtQ0o1UkZ4b1d3T2pOVjdnSGpZYU16UE1BbTVQeFg4Y1lxaGlmZDRIZEpFRDJzaUh2eUR5Z1A2czZCS1ZSYVl0emcwcWgteDhoNDJELXJsamZMQkR3czNiSUlsUW16Z3JETm9Hb2xxWWNJb21SSUNBRW94Vm95WHhFUTRUX0tYWjVzcHUtWE5KbllnNHpJVkU1c3F5NzRnYlJzZS0wdUcxT2NnXzh1ZmNMRFBUdi1rLS1JakQtLVpzcDVLTF9lT1lWT0RIcWhITXhfM2kxeVdvZkF4TG1CamxSY3o4T3BRc3RNNnVHMHZWNlVaS0Z4TkhSY1llNE13RVJXQ2VCMURGWGV3VjQ1NA?oc=5"
     },
     {
-      "title": "台股ETF H1淨申購金額逾8,800億 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NSnZvTzZ4dnpFS19xU1hfVzVHMmVncGYxSlRrZDdNV2UtUEI4WWYyMXZUNlhHZTZFbjNWU2xFN0EzM1BkSHUtX0VyMFUwc1NQSjVfRXhuU0hMZTY3dHhJ?oc=5"
+      "title": "今天還不是美國國慶日 為什麼美股休市？ - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zc0l3NEpQNmxSeXQ2Wk5nQkNvNnJELTZBZUVDSy00a0xYWkNpazlxd21zWDQyWGFTdEtWZ1JDMzdhMWNwVkZhbnhhY1ZNUVoy?oc=5"
     }
   ]
 }
