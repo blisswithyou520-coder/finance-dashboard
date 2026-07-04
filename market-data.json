@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/04 19:57",
+  "updated_tw": "07/04 23:46",
   "taiwan": {
     "2330": {
       "price": 2445.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62450.11,
-      "change": -94.0892,
-      "changePercent": -0.1504
+      "price": 62899.74,
+      "change": 355.5408,
+      "changePercent": 0.5685
     },
     "ETH": {
-      "price": 1756.98,
-      "change": 0.4613,
-      "changePercent": 0.0263
+      "price": 1791.89,
+      "change": 35.3713,
+      "changePercent": 2.0137
     }
   },
   "fx": {
@@ -94,9 +94,9 @@
       "changePercent": -1.0942
     },
     "EURTWD": {
-      "price": 36.553,
-      "change": 0.081,
-      "changePercent": 0.222
+      "price": 36.552,
+      "change": 0.08,
+      "changePercent": 0.2193
     },
     "CNYTWD": {
       "price": 4.7122,
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "摩根大通：黃金如今又看美聯準會的臉色了 | 國際焦點 | 國際 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wZm9ZY2JGYUZNTXRPQmtGOWZXNEFWRFFNS3hJVTFUaW9MM01ITnhCeFVyUFczVlY5S0EzM0JjMmFGTkZyVmF2TzhybUV5b1ZocGQ5eVhiZ3pCUQ?oc=5"
+    },
+    {
       "title": "美股休市不怕！台指期夜盤強彈116點 台積電期貨同步上漲 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPY1hnckVXbWEwcUpJaWRVWGZwbUs1dmhFb2JKa1pONnM5N1pWS2JsbWMxcFdRbkZiNDBhb0VtaEwtTzg0WGNsSTZRV3lvelUwSExxT2U0dVlYYUdCaVFtRzNjMy1FbDNpTF9nbllaOHhLVFhQV0MtWHh1c1lSNkhmU01FUzdoOWNSR1FwZW5fZVVjT2pEa3V5elRrZVBZRHpRWk5sNE43M3p5bVFncng4TlAxTVpldmh1X0xJMnVuQXR1emZJTFUzUGVQN3M0Y3Z0S0ZrQUtCd2VHU0tQT3ZJd01sd2NGb1RnLUhyZnV2dUphVG5CY285OURSVlFkVDdnT3h0aWtCdnM5eF8tZzBkb2E5ZUhrY2g2S1oyQ3AxWGpZcGxrRkJoeTh6ekFCRHB4dWI3WU0tc2pwdkJwLUcydTlsMkwzM19mWUhlLWJyV1BwaUVGejJSakRzeTNaZGRzZ1NIYWNaQmdyUy1NYlNpMlQ4RDlwQQ?oc=5"
     },
     {
-      "title": "美股休市 台指期夜盤上半場多空對峙 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52N0FULTRrWnJDalR5blFPWGo5LXduZlQ3NVhqaUtWcXdLSlAyTklOQUlQZzlfMlhoZW9lOTlsRTlyT1NjVkhOZDVxanpVb0FOQlExUjZzTjg1VE3SAWBBVV95cUxQanNDak9IOEhJeHJfRWZPSG5VNk1vTTNmWDlwOFNzV3FqVEk2Y2tsLWl6a0NEb1NSQl92UEdNUzM0MWRINF9FSmlabTlsT200ZnZtM25fOUVHU3BvMkNXb0w?oc=5"
-    },
-    {
-      "title": "投資人注意！美股將休市1天 年底前還有3天不開盤 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yTVlBa255T2ZObFc4a29ESDhIdmx5MG5YbC1ncUdpTVZrVUVDOXN2QU5xLUNCV0dRX00xVHZsODRkV2lHZVFuTHVNejZ5UWdNVUE4VHVKQQ?oc=5"
-    },
-    {
-      "title": "CryptoQuant分析师：比特币进入熊市后期，ETF板块首次释放压力缓解信号 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hdkoxd2p4MFRTWEhHd2JRSGktNVRLbXgxY3ZWSHJUbW9xbVhJUWdKeUFmbzZHRHlOd2NocEFjTy1FTF9SWkpCWlBrdTJNdGV6ek1sRFJWX21MTUJ6cGZwdEtka19Mdw?oc=5"
+      "title": "世界黃金協會最新報告：下半年金價4100美元附近波動 可能漲至「這區間」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jNmpCbVhXdUtzcjRlaWYtN1VKclNxenZ0OTFiQUVjWUtQX2ZtRklxcXVNOExyMDRqNWVfdUJtNXJZSG40WG16SEkyWWVoZ01nQ0QzTVd5OTY5OXg1d0Z30gFkQVVfeXFMT0Jsbk95d2g5dlBETVBPZmZBaVZuY3A1bWNpa2xZdHE4WGhIRkU3ME1QOVRKMjZuOXZHd1Y1SnR4alFQUTY5QjliMUU4Ny02M09XVmNXZDFFQk9pUWVnSUV5b25uUA?oc=5"
     },
     {
       "title": "股價再衝一波！外媒點名「這檔台股」：很有吸引力 - 三立新聞網SETN.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oY0dEenpKMFJDODRYalRmYm5IVWhlaFh2Z1ZlNmFOaWJqa3c0dldRWEtlWWxFX0Vuc2E0N18xcE1NTC1uS3VkTmVOOA?oc=5"
     },
     {
-      "title": "美股展望／下半年首關先看晶片股能否止血美股迎資金輪動關鍵考驗| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DNGVYRjNuZWs4ZmNRb0FMMVhDbHNZUmdSb1pCMWt0Wk9WSGlsRlctMWFhZk9zY0U2RkNJZXdzNER6MVBOd3lJdmhOMDRZNzQw?oc=5"
+      "title": "美股百年教訓：最火熱的市場往往導致最慘烈的損失| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXQmNTbFZURzBVcEJNY0ZiN2l0UTh3aWNTQTEzejhLU1dGbF9zSmdLT1JOTGUwVjZONkRDcjdlQ1NpWXc2XzFpSFdTTFI1RENoOXdFelhlWlVPNkp5NUo5UnpGV2RnQ1JxSjVXZFJJa3VDY0d4NnVwQw?oc=5"
     },
     {
-      "title": "股民注意！美國股市迎「這假日」休市 年底前剩這幾天不開盤 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOMVhRa3FqYUFSYVNmaTZwaDhQQjNua0tsZUoyZHZjZ3JHcTg2NGo0QmZ4anUtcVlqNGt0UUJmNEU0dVpadV9nTUdJZUR1WERkUXpEZDdmNDJoOHlCVTVjYXN5akhLV2ZHTGdLa2VxYVpENVlrUzVFUkZ5dVRoRnZkRGJlNF91b0tYUkp6U19ISUVWNTRLSlEyYjRoMmswYVY3V3h2UGtDNWxPREpHZmx5VzFXNjFRZGhJZFg0SjVSOFJmZktGYUx6YWlLNkRSRS1qemxLR0k1aWI3MUlTOVZKT3kzYm1DR1lYaTVNVUliSlIwT0E3Qnl0a3dPM3ptbElIT0RXUC05ekhQeHJOVlQ5RFdxS2JaUTFLR3REMmdfcWpsOExxbDNLWGZ2MF9ueDVvcGRib0F3WEc4ckM2a04yX3pVcjRTcnBBQ0JDSy10WTJnSVlHVFdsQW9vR2lYTmdBeWZFWjlfbktFZlR6LVpKTzJTQ3RnSHp5ai1Nc2poeGU?oc=5"
+      "title": "黃金要復活了？金價才寫「1慘紀錄」後V轉狂飆 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOZzlSUW50aF83SjVtazVkeVBSRUNremlzT05hNUZOMGoyTkJpSGRXTkNTZkt0RXpxR2EtZnp5MG0tVHBuVC1COUZOZnVkdEhGMldCV3BXcDBkblYwR2dOZnR1MUZfMXRiN1NjWE0zZzhOLURSNUlyWGZFZmZpWktZUlMxV1R5UHBocXVlZ1FlT3duSHJWcWJERWtJbXpMM0ozdC12LWZCaktuWHZkTHQ2WGNxaXU3cEkxbjIzdkFXbEM4bHdtRVJoWndSOWp1aFJHckRmOXhZYlkyUjVfcFhvTmJacmtUREZJYUR6WURzU3NQckQtVEFZX2huXzZ5ZG1BZTIwZXJkSk43eVgtRmZDT3g5THFDYWpnRS1LT3hwNnliZmR1aVE0Y20yaW5SZw?oc=5"
     },
     {
-      "title": "Bitdeer维持比特币零持仓，本周出售223.1枚BTC - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51VDNLWlczNV9ZdlFNSkNpQmY5bWVSZDB2M2dGTElXUTlqaGJuOW9nZFdBY3EzeE9JLVQyOEQxVURtY18zdXlHVmhibUEwRG5RajVFdTFRZ29FNTBJNFhlbXVGVGdVUQ?oc=5"
+      "title": "黃金反攻號角響起！下一步看這關鍵 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5idkNZTkQ4ZkFNbzZ0cGUtS2tfa255S3Y5b1Uwc0dRekZfTDhpeGM1WDJVZFBKVWc0QVI4VTVGQllkQmNSdEFNZm5xN042VnVnLWhncnFmNXItc0FUbGR30gFkQVVfeXFMTTlKWDBVQ050N3VDZW5Tb0lMWllueTVOS1pvWDU4SHUzZ2tyVGtZd2IxTDVCck5lZWRLTTJZNnI1ajlORVhuZHV0UjZZMjQtd0I5RkdYVjlOb0dXZElVdVVVY05sVQ?oc=5"
+    },
+    {
+      "title": "美股下半年迎首場關鍵考驗下周開盤前先回顧五件國際大事| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBT0VRdlg2ZnpLd2RsOTRSYW9obXU3YlNaRW9DZ1lhN29ZMXRvOUNhN0ZTN3RYNHhiUkdVZ2l1Nm5UckVrdlFJeFNIRzFUdmF1?oc=5"
     }
   ]
 }
