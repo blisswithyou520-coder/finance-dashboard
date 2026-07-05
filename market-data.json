@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/06 02:51",
+  "updated_tw": "07/06 06:35",
   "taiwan": {
     "2330": {
       "price": 2445.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62810.54,
-      "change": -277.7647,
-      "changePercent": -0.4403
+      "price": 63518.85,
+      "change": 430.5453,
+      "changePercent": 0.6824
     },
     "ETH": {
-      "price": 1783.5,
-      "change": 4.467,
-      "changePercent": 0.2511
+      "price": 1793.46,
+      "change": 14.427,
+      "changePercent": 0.8109
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.925,
-      "change": -0.0059,
-      "changePercent": -0.0185
+      "price": 31.927,
+      "change": -0.0039,
+      "changePercent": -0.0122
     },
     "JPYTWD": {
       "price": 0.1956,
@@ -94,22 +94,22 @@
       "changePercent": -1.0942
     },
     "EURTWD": {
-      "price": 36.552,
-      "change": 0.08,
-      "changePercent": 0.2193
+      "price": 36.557,
+      "change": 0.085,
+      "changePercent": 0.233
     },
     "CNYTWD": {
-      "price": 4.7158,
+      "price": 4.7161,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4187.3,
-    "twd": 4298.0,
-    "tael": 161171.0,
-    "twdTotal": 133680.0,
-    "changePercent": 1.8139
+    "usd": 4194.7,
+    "twd": 4306.0,
+    "tael": 161466.0,
+    "twdTotal": 133924.0,
+    "changePercent": 1.9938
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股超級法說行情開跑 多頭人氣可用 指數蓄勢挑戰50K - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44VnpHWHAxLVlyRS16X1Y2cndXcDN3V3M2V053ZGx4R28tRElPVURhVlNqME9GTjFlQ0tpNFRNTUE5dTFMbVRwNHFjVE9EVExub211QU1VWFV4d9IBX0FVX3lxTE5BdWJENVlCSTF5NlBqWHZXdnRwbFhrbzRzMmk4NWhhcXV3VWstcTJrZnBLX2Jjc2xxakl3NG9GZkpJY1pMV3hjelNWdEJmak5ScDJYNDkxaXRDMkI3MXBz?oc=5"
-    },
-    {
       "title": "美股又貪婪又恐懼！巴菲特「11字警語」被翻出 AI泡沫疑慮升溫 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOb2V3ZXlpYmM1V0NUeVgxWFhQOFFtX01DcUxRME43OUFLai1rd0JyWk5lbGVjdjl3Y09JT0xHN2VLQ3Nkc2dRV3h2aHpRVFJhX2ZWT1dOc0pCZGxNMnN5SllUR1ZCSE01QkhGMWc3Ukk1RUFTWVhPZ2ZPY1ZqX3hWSkNzeGdWRzVQNEdMdUZ3eDNFMTJIVWVWdGd5djVHYVBCTHZONjBGRm96VHFDdVZnOTF2QmgzTzkyNVlSY1ZzSmFnaXpMUVVoZG5PSFVPUXVhM2RLRXRaZmczMGdfN1pxSTBFLUZ5TktRTk51ZW9tRWdCXzBjUUxpLVJZQlZYYy1EUGlnSnVNRGJEMXNUeHJGNDdncVg4WEJ4aW9IM2dZajNqamt2RVhzMVo3bC00aTZQbG9xMV80WWMzYXlaVHhkYUs5OEcwVVNtR2dmVlpocmFKWXFqQ1pndTdBZzBNNk5LWG54c0t5QnN2ODFuemxpUnZSRFJ0ckJBSHc?oc=5"
-    },
-    {
-      "title": "台股震盪常態化，同樣是被動ETF為何績效差這麼多？ - 商周財富網",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QOEVMend6elByZHFCbVFBX1hERFB4c0c2WkdUMzIwTF9Sa3RoZXlRbGtHNDJ3Qy1fU3ZQVUVQUUNRY3R0cHJEREQzUjJMYm9OLVJ3Q1BQY0lTbF9uV1k3NnZfcGFzdVl2cTVGZnBOb21va2RGY3c?oc=5"
-    },
-    {
-      "title": "《經濟論衡》全球資金的再平衡：黃金的新角色 - anntw.com",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwRFluaTEyaW95M25CZi1pWk5XeGJVMDhwUkYxeVhPOVljd09JaG5IQnN2SllZbk42V0w4UEJWX1RVc055Nnc0MFQ2cGVQT19OcHJublRhQQ?oc=5"
-    },
-    {
-      "title": "無懼外資賣超 台股單週漲點創史上第5大 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15ZTFNekc0NTdtMTFkRkg0UzFSUHVfTzJJNm85cXE0OGZyWHRTN2lKWTNpM2tZUTNaTVhhV3VtVHdVd0Nyb1R4eUk3ZzZtTHJYVjQwZW9MeDU2cWkySlNV0gFkQVVfeXFMUC1vUzVzQmhpWEtDV1o5aGszNmh4dkpJTkh2Qkd5dW9KZmEyUlVSYVJPNmhzb1lZNHpoSnBvbVlPc2ZaWEc4ak1zSmVNTDRQRjFieWR6YUM4by01LUxTa0xZc3Y3ZQ?oc=5"
     },
     {
       "title": "黃金ETF 四檔放光芒 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jM2ZXeTNEaFE2WlNQOUJ4bWxoaHNpa1RnWmZpTGhubmREY2EyUTFLbXNaWktWYVZvVXdoQXYxckF2OWV4RTFhYWEzS204RTJxdGJJ0gFYQVVfeXFMUDk0clBRT0x5eU5sb1FMLVVreXhxTWIzcks0QVczRUpTOHNmd1pBWnlEWUsyeDFFYUlMYWtya3p0LTBuOHVLbVZlSHRYcVhwOVM4Y3VfdTVlUw?oc=5"
     },
     {
-      "title": "美股休市台指期勁揚站穩四萬七！ 台股多頭續攻、本周聚焦大立光、南亞科法說 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOV3piWjFkZWdQOTlLVWdwYWR1bktlNFhHWUMzQU1PMXpBZFBGeUkxTGtmZ213eW5QejZYVnhQeWUyc0ZZQjJQdzczMFE5S0pLQWpwUU8tbDlzbFJ5UFJFVWFNVmVnRVVTS2dJUVF5UFc4MGJxeHJxbkNEQjVYa24xOFhod2dieW44WktXOVY1aV9zLVNMTlF5ZFg3WlV3cnlOU0VWdDJtYkhTdGIwdkNkdmRwbDR0XzJOY2dvQWJFRWI4RjlfSE5fQ3hJWERsZGg1NDI0dWNtZS1tTEYwek8wTDY4djJSUmhfazkwTlhTYV84bGYxZGsxOERjaWx5WHhDUExuYTR3RHBnN0VEc29MazFmbnB5Yl9fRmZYUnlDN2JpY0tFWTF6YTRMYUpEUndOeXVndDVTSS1IeGFsbUIycURZM3V3LW0yM0s0eWVPWGxZOXRpN3Y2Z2J6RzhVNDA2RkhvTC1oXzh3eVE4NWtsOFFCSndwd01NR05oNEY5WDZSUnBYRl9DWnYxcG5nbzExN21PaTBZUFZRNXEzU3JQUXZIS0c3WE1uUG1UZDM3cmk3Vjk2R05mN3pqOWR2V2pfb3FxeWRFd3h0WV96dUNOdFRQTVZyaWc?oc=5"
+      "title": "台股震盪常態化，同樣是被動ETF為何績效差這麼多？ - 商周財富網",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QOEVMend6elByZHFCbVFBX1hERFB4c0c2WkdUMzIwTF9Sa3RoZXlRbGtHNDJ3Qy1fU3ZQVUVQUUNRY3R0cHJEREQzUjJMYm9OLVJ3Q1BQY0lTbF9uV1k3NnZfcGFzdVl2cTVGZnBOb21va2RGY3c?oc=5"
     },
     {
-      "title": "世界黃金協會最新報告：下半年金價4100美元附近波動 可能漲至「這區間」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jNmpCbVhXdUtzcjRlaWYtN1VKclNxenZ0OTFiQUVjWUtQX2ZtRklxcXVNOExyMDRqNWVfdUJtNXJZSG40WG16SEkyWWVoZ01nQ0QzTVd5OTY5OXg1d0Z30gFkQVVfeXFMT0Jsbk95d2g5dlBETVBPZmZBaVZuY3A1bWNpa2xZdHE4WGhIRkU3ME1QOVRKMjZuOXZHd1Y1SnR4alFQUTY5QjliMUU4Ny02M09XVmNXZDFFQk9pUWVnSUV5b25uUA?oc=5"
+      "title": "台股波動大 法人︰多頭格局不變 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16MjJYVjdVdTZNeFJWaTdFd2NCWk1QMHdCVWdFeWVwREpvSFV6YnUtTExvaVlqRWh5Qkp6d1ZEQzNOLUZHTVF6czlrbVFvM0I2RDlrTDRn0gFbQVVfeXFMT3lTNTM1V2ZhRmxDN1dqWkRqdnNudjJPUVFsQmxpWFQ5RVN4OFUzNlQ0T3Q2d2NXNEFiYzFmcEQtRlJ6S1Y0VTRGaExnRWJXZ0dHaHFrU3o4a1pZbw?oc=5"
+    },
+    {
+      "title": "11檔台股ETF 積情暖身- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zNGJmYXRtMHNxdWdGemZqU05TTFVKcmxjZVFqLXUtMFFrMXRwWkpacEFFUjZQSHg2Y3VqSDhnZFVhT1pidFh6X0g2R0VGajVTVjAxWjA4ZUFPZ3RWenNz?oc=5"
+    },
+    {
+      "title": "《美股》美國股市因獨立紀念日提前休市一天- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHFQS0EyUkk2MDVmd2dsRV9hTEUzRk1GZXZod2lBWUhCRm5aNVdrZHF4Y25xSHVXX09TZnVtUTJuQzlRVVZTOTVfaG9pNkZtSjJBZjhNLWExY2oyamN1d1lBVlFrTXZlODhacWZzTlUxcXFBTVh6cTU4dzQzY2dkRW5kOXBLMlR4UUxUZE4zQnM0MEFwYVE?oc=5"
+    },
+    {
+      "title": "〈台股盤前要聞〉本周法說行情啟動衝4萬8、台幣上演32元保衛戰 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qb2FpczljVXFEYXYyZDcyb0lGazNMYU8tTWE5Mi1hUFBIeHRaMUlzX2RSR1ZwaWZ0cUFqZ1hpNmJxQThfUWFIR29sQ1hKQlk?oc=5"
+    },
+    {
+      "title": "《經濟論衡》全球資金的再平衡：黃金的新角色 - anntw.com",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwRFluaTEyaW95M25CZi1pWk5XeGJVMDhwUkYxeVhPOVljd09JaG5IQnN2SllZbk42V0w4UEJWX1RVc055Nnc0MFQ2cGVQT19OcHJublRhQQ?oc=5"
     }
   ]
 }
