@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/05 23:00",
+  "updated_tw": "07/06 02:51",
   "taiwan": {
     "2330": {
       "price": 2445.0,
@@ -50,9 +50,9 @@
       "changePercent": -7.4888
     },
     "QQQ": {
-      "price": 712.6,
-      "change": -12.57,
-      "changePercent": -1.7334
+      "price": 712.6044,
+      "change": -12.5656,
+      "changePercent": -1.7328
     },
     "SPY": {
       "price": 744.78,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62748.84,
-      "change": -339.4647,
-      "changePercent": -0.5381
+      "price": 62810.54,
+      "change": -277.7647,
+      "changePercent": -0.4403
     },
     "ETH": {
-      "price": 1770.09,
-      "change": -8.943,
-      "changePercent": -0.5027
+      "price": 1783.5,
+      "change": 4.467,
+      "changePercent": 0.2511
     }
   },
   "fx": {
@@ -117,16 +117,16 @@
   },
   "news": [
     {
-      "title": "美股百年教訓：最火熱的市場往往導致最慘烈的損失| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGY2FyRDM0U2VRb0RWNzV1TFRLektmUnBaMHhlQXFXa0trX25Qc1BzOURQdWZoUHBkaFBISkIzVDVSSWlXQU5hRkFmaDVuOEt2?oc=5"
+      "title": "台股超級法說行情開跑 多頭人氣可用 指數蓄勢挑戰50K - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44VnpHWHAxLVlyRS16X1Y2cndXcDN3V3M2V053ZGx4R28tRElPVURhVlNqME9GTjFlQ0tpNFRNTUE5dTFMbVRwNHFjVE9EVExub211QU1VWFV4d9IBX0FVX3lxTE5BdWJENVlCSTF5NlBqWHZXdnRwbFhrbzRzMmk4NWhhcXV3VWstcTJrZnBLX2Jjc2xxakl3NG9GZkpJY1pMV3hjelNWdEJmak5ScDJYNDkxaXRDMkI3MXBz?oc=5"
     },
     {
       "title": "美股又貪婪又恐懼！巴菲特「11字警語」被翻出 AI泡沫疑慮升溫 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOb2V3ZXlpYmM1V0NUeVgxWFhQOFFtX01DcUxRME43OUFLai1rd0JyWk5lbGVjdjl3Y09JT0xHN2VLQ3Nkc2dRV3h2aHpRVFJhX2ZWT1dOc0pCZGxNMnN5SllUR1ZCSE01QkhGMWc3Ukk1RUFTWVhPZ2ZPY1ZqX3hWSkNzeGdWRzVQNEdMdUZ3eDNFMTJIVWVWdGd5djVHYVBCTHZONjBGRm96VHFDdVZnOTF2QmgzTzkyNVlSY1ZzSmFnaXpMUVVoZG5PSFVPUXVhM2RLRXRaZmczMGdfN1pxSTBFLUZ5TktRTk51ZW9tRWdCXzBjUUxpLVJZQlZYYy1EUGlnSnVNRGJEMXNUeHJGNDdncVg4WEJ4aW9IM2dZajNqamt2RVhzMVo3bC00aTZQbG9xMV80WWMzYXlaVHhkYUs5OEcwVVNtR2dmVlpocmFKWXFqQ1pndTdBZzBNNk5LWG54c0t5QnN2ODFuemxpUnZSRFJ0ckJBSHc?oc=5"
     },
     {
-      "title": "【0703台股盤前】功率元件與機器人強勢掀起漲停潮，櫃買強彈1.92% 收復短期均線！投本比排行: 【6191 精成科】、【8150 南茂】、【3706 神達】｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPb3RHYlZvdGlDVk9SNDVoSnNISmRNNWl2TnUxeUFETkRNQ2dlbXFORU5LMVFvMVY4QTdyelc5dzdTTnRsZ1k3M1RvVUljLU1tc3pLeTVlR3ljUjFjWjdabkRoSnp0YzB1N1Q3XzBMZnBPS2tSaUotM0N0VFpOWWZPTzZuZGpQZ1h0MHZ3dUJHQ3Q3UElrVjY4RFEyXzNvU0w5WkdkTk56RGR2enNCOEhZWjBselJHWlBhRXJjZ3pEN0sxRUJPaVEyTWRuVXY5eFNjX0pCa0poSFFNaWNBeHVMU1RvMFlzd3JvZkdsZ2dRRmhsOGx3NEtXeGRmYjcwS2YydXZjSHpZdEFraWVHeVRTMl9CZVRPS0RISmloVXlMN1JGNjNiWlFuUHJacmpoWWNqRHFIdm1XRWhkMzZobmdVODlzUmN2TVFXd2NTSFFFT2VyX1VzVGFyMXl0aXdUNmhzTDFOeXpNRzhMdTBrUjBfaDI3NEd5d1AyaEMxQlhYUU1zbXZLMDFJX0N2NlduWk1kV3NQVENzUFlvRjRpeHA3QUNKREhGR2I4bTRLTEEwRExMRmREYlVyU3RkbFFxcl9vQzhoTVpaTnBQMmtIUEczMXMwY3pTNjlqbjhZbWFmOG1VT0VYVmh6NzZuckZhRElyY09Xc1U1bDIxT0dqa2djZ2dMVE1DYTgxX0NlRjNiT2QwYnFFdFNaaFJGaFFUOGdTcjNCQTkxbGFhWU9JOUc0MGNLdjQ3T01IUjhYR014a19ubzhfY3hBRklmZ2ZCUWowdUl5QUs4dndCV1pudUdxSnl5M1ZROFJZQUNmOW5tSHR5NTIzN3F0LU8yVFMtbURMd1o0dTg2QmlPN0NWV05TeUZBb2RqMHEyeVRHTjBmTQ?oc=5"
+      "title": "台股震盪常態化，同樣是被動ETF為何績效差這麼多？ - 商周財富網",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QOEVMend6elByZHFCbVFBX1hERFB4c0c2WkdUMzIwTF9Sa3RoZXlRbGtHNDJ3Qy1fU3ZQVUVQUUNRY3R0cHJEREQzUjJMYm9OLVJ3Q1BQY0lTbF9uV1k3NnZfcGFzdVl2cTVGZnBOb21va2RGY3c?oc=5"
     },
     {
       "title": "《經濟論衡》全球資金的再平衡：黃金的新角色 - anntw.com",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15ZTFNekc0NTdtMTFkRkg0UzFSUHVfTzJJNm85cXE0OGZyWHRTN2lKWTNpM2tZUTNaTVhhV3VtVHdVd0Nyb1R4eUk3ZzZtTHJYVjQwZW9MeDU2cWkySlNV0gFkQVVfeXFMUC1vUzVzQmhpWEtDV1o5aGszNmh4dkpJTkh2Qkd5dW9KZmEyUlVSYVJPNmhzb1lZNHpoSnBvbVlPc2ZaWEc4ak1zSmVNTDRQRjFieWR6YUM4by01LUxTa0xZc3Y3ZQ?oc=5"
     },
     {
-      "title": "【全球】行情回顧與本週重點 | 財經Ｍ平方短評 - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRbklIRUsxSHdTME50aGhfT25Jd1VjaFY2dS1XbWtzVGlhbDgxLUxJZ3NVQjIyenR0M0ZvSUVURm1sajk1SnJKVWRhOG5yRE1yVUpVeWlR?oc=5"
+      "title": "黃金ETF 四檔放光芒 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jM2ZXeTNEaFE2WlNQOUJ4bWxoaHNpa1RnWmZpTGhubmREY2EyUTFLbXNaWktWYVZvVXdoQXYxckF2OWV4RTFhYWEzS204RTJxdGJJ0gFYQVVfeXFMUDk0clBRT0x5eU5sb1FMLVVreXhxTWIzcks0QVczRUpTOHNmd1pBWnlEWUsyeDFFYUlMYWtya3p0LTBuOHVLbVZlSHRYcVhwOVM4Y3VfdTVlUw?oc=5"
     },
     {
-      "title": "麻吉大哥續押注! 高槓桿加碼比特幣.HYPE幣 - 非凡新聞台",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyb0tXc3U2SXlUWFRTczg5TjJ6QV9kdGIxNmFPaG9fRHZhWGlHSmdYdXdObWsxQ20yUU5IRmpROXBTUlE2SHp2TFNwSGlkRWFveU9aRDRDZXlWRjJH?oc=5"
+      "title": "美股休市台指期勁揚站穩四萬七！ 台股多頭續攻、本周聚焦大立光、南亞科法說 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOV3piWjFkZWdQOTlLVWdwYWR1bktlNFhHWUMzQU1PMXpBZFBGeUkxTGtmZ213eW5QejZYVnhQeWUyc0ZZQjJQdzczMFE5S0pLQWpwUU8tbDlzbFJ5UFJFVWFNVmVnRVVTS2dJUVF5UFc4MGJxeHJxbkNEQjVYa24xOFhod2dieW44WktXOVY1aV9zLVNMTlF5ZFg3WlV3cnlOU0VWdDJtYkhTdGIwdkNkdmRwbDR0XzJOY2dvQWJFRWI4RjlfSE5fQ3hJWERsZGg1NDI0dWNtZS1tTEYwek8wTDY4djJSUmhfazkwTlhTYV84bGYxZGsxOERjaWx5WHhDUExuYTR3RHBnN0VEc29MazFmbnB5Yl9fRmZYUnlDN2JpY0tFWTF6YTRMYUpEUndOeXVndDVTSS1IeGFsbUIycURZM3V3LW0yM0s0eWVPWGxZOXRpN3Y2Z2J6RzhVNDA2RkhvTC1oXzh3eVE4NWtsOFFCSndwd01NR05oNEY5WDZSUnBYRl9DWnYxcG5nbzExN21PaTBZUFZRNXEzU3JQUXZIS0c3WE1uUG1UZDM3cmk3Vjk2R05mN3pqOWR2V2pfb3FxeWRFd3h0WV96dUNOdFRQTVZyaWc?oc=5"
     },
     {
-      "title": "幣圈院士：7.5比特幣（BTC）高位拋壓與底部支撐如何博弈 最新行情分析及操作建議解析 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DT3pNaloxRmJxSEhqRzF2cllJNV90VWhpMm1yY01mTFJDUjdXZF9ZTWRsZGxRbWpfTlRJUkd4SlhILUZONDBCTWpocw?oc=5"
+      "title": "世界黃金協會最新報告：下半年金價4100美元附近波動 可能漲至「這區間」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jNmpCbVhXdUtzcjRlaWYtN1VKclNxenZ0OTFiQUVjWUtQX2ZtRklxcXVNOExyMDRqNWVfdUJtNXJZSG40WG16SEkyWWVoZ01nQ0QzTVd5OTY5OXg1d0Z30gFkQVVfeXFMT0Jsbk95d2g5dlBETVBPZmZBaVZuY3A1bWNpa2xZdHE4WGhIRkU3ME1QOVRKMjZuOXZHd1Y1SnR4alFQUTY5QjliMUU4Ny02M09XVmNXZDFFQk9pUWVnSUV5b25uUA?oc=5"
     }
   ]
 }
