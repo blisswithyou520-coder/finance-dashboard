@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/05 17:47",
+  "updated_tw": "07/05 23:00",
   "taiwan": {
     "2330": {
       "price": 2445.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62534.03,
-      "change": -10.1692,
-      "changePercent": -0.0163
+      "price": 62748.84,
+      "change": -339.4647,
+      "changePercent": -0.5381
     },
     "ETH": {
-      "price": 1752.5,
-      "change": -4.0187,
-      "changePercent": -0.2288
+      "price": 1770.09,
+      "change": -8.943,
+      "changePercent": -0.5027
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.923,
-      "change": -0.0079,
-      "changePercent": -0.0247
+      "price": 31.925,
+      "change": -0.0059,
+      "changePercent": -0.0185
     },
     "JPYTWD": {
       "price": 0.1956,
@@ -99,7 +99,7 @@
       "changePercent": 0.2193
     },
     "CNYTWD": {
-      "price": 4.7122,
+      "price": 4.7158,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -107,8 +107,8 @@
   "gold": {
     "usd": 4187.3,
     "twd": 4298.0,
-    "tael": 161161.0,
-    "twdTotal": 133671.0,
+    "tael": 161171.0,
+    "twdTotal": 133680.0,
     "changePercent": 1.8139
   },
   "fed": {
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOb2V3ZXlpYmM1V0NUeVgxWFhQOFFtX01DcUxRME43OUFLai1rd0JyWk5lbGVjdjl3Y09JT0xHN2VLQ3Nkc2dRV3h2aHpRVFJhX2ZWT1dOc0pCZGxNMnN5SllUR1ZCSE01QkhGMWc3Ukk1RUFTWVhPZ2ZPY1ZqX3hWSkNzeGdWRzVQNEdMdUZ3eDNFMTJIVWVWdGd5djVHYVBCTHZONjBGRm96VHFDdVZnOTF2QmgzTzkyNVlSY1ZzSmFnaXpMUVVoZG5PSFVPUXVhM2RLRXRaZmczMGdfN1pxSTBFLUZ5TktRTk51ZW9tRWdCXzBjUUxpLVJZQlZYYy1EUGlnSnVNRGJEMXNUeHJGNDdncVg4WEJ4aW9IM2dZajNqamt2RVhzMVo3bC00aTZQbG9xMV80WWMzYXlaVHhkYUs5OEcwVVNtR2dmVlpocmFKWXFqQ1pndTdBZzBNNk5LWG54c0t5QnN2ODFuemxpUnZSRFJ0ckJBSHc?oc=5"
     },
     {
-      "title": "無懼外資賣超 台股單週漲點創史上第5大 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15ZTFNekc0NTdtMTFkRkg0UzFSUHVfTzJJNm85cXE0OGZyWHRTN2lKWTNpM2tZUTNaTVhhV3VtVHdVd0Nyb1R4eUk3ZzZtTHJYVjQwZW9MeDU2cWkySlNV0gFkQVVfeXFMUC1vUzVzQmhpWEtDV1o5aGszNmh4dkpJTkh2Qkd5dW9KZmEyUlVSYVJPNmhzb1lZNHpoSnBvbVlPc2ZaWEc4ak1zSmVNTDRQRjFieWR6YUM4by01LUxTa0xZc3Y3ZQ?oc=5"
-    },
-    {
       "title": "【0703台股盤前】功率元件與機器人強勢掀起漲停潮，櫃買強彈1.92% 收復短期均線！投本比排行: 【6191 精成科】、【8150 南茂】、【3706 神達】｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPb3RHYlZvdGlDVk9SNDVoSnNISmRNNWl2TnUxeUFETkRNQ2dlbXFORU5LMVFvMVY4QTdyelc5dzdTTnRsZ1k3M1RvVUljLU1tc3pLeTVlR3ljUjFjWjdabkRoSnp0YzB1N1Q3XzBMZnBPS2tSaUotM0N0VFpOWWZPTzZuZGpQZ1h0MHZ3dUJHQ3Q3UElrVjY4RFEyXzNvU0w5WkdkTk56RGR2enNCOEhZWjBselJHWlBhRXJjZ3pEN0sxRUJPaVEyTWRuVXY5eFNjX0pCa0poSFFNaWNBeHVMU1RvMFlzd3JvZkdsZ2dRRmhsOGx3NEtXeGRmYjcwS2YydXZjSHpZdEFraWVHeVRTMl9CZVRPS0RISmloVXlMN1JGNjNiWlFuUHJacmpoWWNqRHFIdm1XRWhkMzZobmdVODlzUmN2TVFXd2NTSFFFT2VyX1VzVGFyMXl0aXdUNmhzTDFOeXpNRzhMdTBrUjBfaDI3NEd5d1AyaEMxQlhYUU1zbXZLMDFJX0N2NlduWk1kV3NQVENzUFlvRjRpeHA3QUNKREhGR2I4bTRLTEEwRExMRmREYlVyU3RkbFFxcl9vQzhoTVpaTnBQMmtIUEczMXMwY3pTNjlqbjhZbWFmOG1VT0VYVmh6NzZuckZhRElyY09Xc1U1bDIxT0dqa2djZ2dMVE1DYTgxX0NlRjNiT2QwYnFFdFNaaFJGaFFUOGdTcjNCQTkxbGFhWU9JOUc0MGNLdjQ3T01IUjhYR014a19ubzhfY3hBRklmZ2ZCUWowdUl5QUs4dndCV1pudUdxSnl5M1ZROFJZQUNmOW5tSHR5NTIzN3F0LU8yVFMtbURMd1o0dTg2QmlPN0NWV05TeUZBb2RqMHEyeVRHTjBmTQ?oc=5"
     },
     {
-      "title": "全球資金的再平衡：黃金的新角色 - anntw.com",
+      "title": "《經濟論衡》全球資金的再平衡：黃金的新角色 - anntw.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwRFluaTEyaW95M25CZi1pWk5XeGJVMDhwUkYxeVhPOVljd09JaG5IQnN2SllZbk42V0w4UEJWX1RVc055Nnc0MFQ2cGVQT19OcHJublRhQQ?oc=5"
     },
     {
-      "title": "美股資金急撤逾3個月最大規模- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByY1FlTEd4QUpVQS1vR0t6YzZYQXF3Z2U0N1BYTjBlcmZ5a1NCQlc4V2lvVTBMM2VTR19GZmxycDNEdjViSVF0d3dTczZ6OElCX0ZfUEFYYTVxN0t0VG5r?oc=5"
+      "title": "無懼外資賣超 台股單週漲點創史上第5大 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15ZTFNekc0NTdtMTFkRkg0UzFSUHVfTzJJNm85cXE0OGZyWHRTN2lKWTNpM2tZUTNaTVhhV3VtVHdVd0Nyb1R4eUk3ZzZtTHJYVjQwZW9MeDU2cWkySlNV0gFkQVVfeXFMUC1vUzVzQmhpWEtDV1o5aGszNmh4dkpJTkh2Qkd5dW9KZmEyUlVSYVJPNmhzb1lZNHpoSnBvbVlPc2ZaWEc4ak1zSmVNTDRQRjFieWR6YUM4by01LUxTa0xZc3Y3ZQ?oc=5"
     },
     {
-      "title": "台股2026企業盈餘成長估達58% 法人：汰弱留強優選能見度佳成長股 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84aDFqY29MY1FqMzlBTEJ6STY1MmtDRnVaSUVxZXh3ckZfakR3OE45WW9iSWo0bW95QmlzZm9xRVcwcHA4QVAzV0pmanVwV2c?oc=5"
+      "title": "【全球】行情回顧與本週重點 | 財經Ｍ平方短評 - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRbklIRUsxSHdTME50aGhfT25Jd1VjaFY2dS1XbWtzVGlhbDgxLUxJZ3NVQjIyenR0M0ZvSUVURm1sajk1SnJKVWRhOG5yRE1yVUpVeWlR?oc=5"
     },
     {
-      "title": "上周台股漲2,208點、周線翻紅 法人：費半若能止穩 台股更穩健 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96NEptdndhTjBKLU0yZDlQbFZjQVpucnR0Tk9JXzRaU0pHeW9QME1pZF9tV1VEckVVY1JrODBBRm5ZU2l1dFE1TkpwSC0yWmFy0gFWQVVfeXFMUDdGUWNNT2NhS1phRnQtVlcwcFA5X1VKRUJVejcwNWVLaWlpb0UzUlgxNDV2cnFHeFRQVXhYTjcxQVRwQ1hxQnNOamV2cnFJMHVVTE1xS1E?oc=5"
+      "title": "麻吉大哥續押注! 高槓桿加碼比特幣.HYPE幣 - 非凡新聞台",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyb0tXc3U2SXlUWFRTczg5TjJ6QV9kdGIxNmFPaG9fRHZhWGlHSmdYdXdObWsxQ20yUU5IRmpROXBTUlE2SHp2TFNwSGlkRWFveU9aRDRDZXlWRjJH?oc=5"
+    },
+    {
+      "title": "幣圈院士：7.5比特幣（BTC）高位拋壓與底部支撐如何博弈 最新行情分析及操作建議解析 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DT3pNaloxRmJxSEhqRzF2cllJNV90VWhpMm1yY01mTFJDUjdXZF9ZTWRsZGxRbWpfTlRJUkd4SlhILUZONDBCTWpocw?oc=5"
     }
   ]
 }
