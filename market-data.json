@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/06 06:35",
+  "updated_tw": "07/06 21:00",
   "taiwan": {
     "2330": {
-      "price": 2445.0,
-      "change": -20.0,
-      "changePercent": -0.8114
+      "price": 2460.0,
+      "change": 15.0,
+      "changePercent": 0.6135
     },
     "2454": {
-      "price": 4195.0,
-      "change": -150.0,
-      "changePercent": -3.4522
+      "price": 4125.0,
+      "change": -70.0,
+      "changePercent": -1.6687
     },
     "2317": {
-      "price": 240.5,
+      "price": 242.0,
       "change": 1.5,
-      "changePercent": 0.6276
+      "changePercent": 0.6237
     },
     "0050": {
-      "price": 108.35,
-      "change": -0.45,
-      "changePercent": -0.4136
+      "price": 108.25,
+      "change": -0.1,
+      "changePercent": -0.0923
     },
     "00878": {
-      "price": 33.33,
-      "change": 0.11,
-      "changePercent": 0.3311
+      "price": 33.49,
+      "change": 0.16,
+      "changePercent": 0.48
     },
     "00919": {
-      "price": 29.53,
-      "change": 0.33,
-      "changePercent": 1.1301
+      "price": 29.76,
+      "change": 0.23,
+      "changePercent": 0.7789
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63518.85,
-      "change": 430.5453,
-      "changePercent": 0.6824
+      "price": 61654.51,
+      "change": -1893.3728,
+      "changePercent": -2.9794
     },
     "ETH": {
-      "price": 1793.46,
-      "change": 14.427,
-      "changePercent": 0.8109
+      "price": 1739.6,
+      "change": -43.406,
+      "changePercent": -2.4344
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.927,
-      "change": -0.0039,
-      "changePercent": -0.0122
+      "price": 32.037,
+      "change": 0.1061,
+      "changePercent": 0.3323
     },
     "JPYTWD": {
-      "price": 0.1956,
-      "change": -0.0022,
-      "changePercent": -1.0942
+      "price": 0.1951,
+      "change": -0.0027,
+      "changePercent": -1.3471
     },
     "EURTWD": {
-      "price": 36.557,
-      "change": 0.085,
-      "changePercent": 0.233
+      "price": 36.607,
+      "change": 0.135,
+      "changePercent": 0.3701
     },
     "CNYTWD": {
-      "price": 4.7161,
+      "price": 4.72,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4194.7,
-    "twd": 4306.0,
-    "tael": 161466.0,
-    "twdTotal": 133924.0,
-    "changePercent": 1.9938
+    "usd": 4149.2,
+    "twd": 4274.0,
+    "tael": 160265.0,
+    "twdTotal": 132928.0,
+    "changePercent": 0.8875
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股又貪婪又恐懼！巴菲特「11字警語」被翻出 AI泡沫疑慮升溫 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOb2V3ZXlpYmM1V0NUeVgxWFhQOFFtX01DcUxRME43OUFLai1rd0JyWk5lbGVjdjl3Y09JT0xHN2VLQ3Nkc2dRV3h2aHpRVFJhX2ZWT1dOc0pCZGxNMnN5SllUR1ZCSE01QkhGMWc3Ukk1RUFTWVhPZ2ZPY1ZqX3hWSkNzeGdWRzVQNEdMdUZ3eDNFMTJIVWVWdGd5djVHYVBCTHZONjBGRm96VHFDdVZnOTF2QmgzTzkyNVlSY1ZzSmFnaXpMUVVoZG5PSFVPUXVhM2RLRXRaZmczMGdfN1pxSTBFLUZ5TktRTk51ZW9tRWdCXzBjUUxpLVJZQlZYYy1EUGlnSnVNRGJEMXNUeHJGNDdncVg4WEJ4aW9IM2dZajNqamt2RVhzMVo3bC00aTZQbG9xMV80WWMzYXlaVHhkYUs5OEcwVVNtR2dmVlpocmFKWXFqQ1pndTdBZzBNNk5LWG54c0t5QnN2ODFuemxpUnZSRFJ0ckJBSHc?oc=5"
+      "title": "SK海力士 (SKHY) 做什麼？赴美發行ADR，7月10日登陸那斯達克，每10股ADR將代表1股普通股｜美股觀察｜美股個股 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPa0lpWFUzcG9GVnBfUGtQQ2hxc0ZZVjhUb0NldnpWZGIzVWtZaFJBS2U2SFJvZS1ObWFENTVxWnZ3Z05fQWZWbDc2aFFVbUpHMFEtQm4zZG5sb0FBTnE2bkFVNTNJbXk4RFJFNDNabXRRRjY3UURnNy05ZmF0ZmRxeXVPUWY0MWh4Nm1BN0pUTzZMWXIySFZURV9vVFEyaUVZMGFBVExNSG03ZXZrWVdDOXhNYVZQclVIcFRuTEVvQUQxXzloRno4aGphcjdwQmNwVlJFNU9WcFlRM1Jlb2JCSTNpREg0TDdDazIyNjJMNmtYTWV5UC01b0tKOUhZWDZYcjFjYXZyUVlQM2NWYlAyeGphaVgwbWRHUXROUE82T3k2ZDdDX3VKSWZMa1gyT1d3SGR0bDNrRG94NjRmYUlRNHp1RmV6eGRSckRoZE9sV1BzcWJLYWJ5US1Zbzhndk0yWng5TlF3cVp3TlZuY1EzY01fN3dWN3Y2dFpZSC1UMTVCa294aG4zd0lELWZfNFdEOTBfV1NrYWtRZE5sSFdRTUFiVEJpaDlESTdVM2YwTUNLNEo1bWxfTktLQ2lpd0N5OV9CZ01vYVdsdW5EOWVJUko5dlpwTndqbk4yeTBpdno3TTZPb2k2QXJYTFljZjZieEE?oc=5"
     },
     {
-      "title": "黃金ETF 四檔放光芒 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jM2ZXeTNEaFE2WlNQOUJ4bWxoaHNpa1RnWmZpTGhubmREY2EyUTFLbXNaWktWYVZvVXdoQXYxckF2OWV4RTFhYWEzS204RTJxdGJJ0gFYQVVfeXFMUDk0clBRT0x5eU5sb1FMLVVreXhxTWIzcks0QVczRUpTOHNmd1pBWnlEWUsyeDFFYUlMYWtya3p0LTBuOHVLbVZlSHRYcVhwOVM4Y3VfdTVlUw?oc=5"
+      "title": "外資狂賣台股還能漲？群益投信揭「它」接棒：錢沒有離開市場 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPSmJlVG04SjZZdnBPTWFDOERxQlVNNU9EaGRuNThZMWxTMjVwM1ZKMmlDblZBenQzM2JNcFl5TTVrTDB1SDhGaVcwLXhRNllMaFhESjNrczhjNTUweVdpR3RRaGV2LWZtT1k4WmxlRGgyNGRvTHNtOU56dXE3M1VxWW9nanBNY1ByLXdnRFZTRW9UV0ZwZUtTUXR2ZUhiNXA4Y1ZBUTBmWXNGZmQ0NjVkVjBmbU5nVEhHT0I4NzF6MGRYc0YzX2lKdzVJSVlscm1nLWtKVmpDR18xVXFDc1hoVFVNRWZuTDlvMjNwQWFWdnlJS3lzTEwzRFNfel9qa0FmM2NSbUpmNG5EbG4weUNKamltVGRpNlhZUktBRU5FcUlSOEN2UHhhc2gweDA4TEVJYVE5NlpEUmlVY19DMmNUUFM5TlZoVDBWeTRQTENGYzNsb3RTSDZOM2VMTFA1TEtIUU1nWHhNM0ZuQ3FFYXBBWXU3aUhtY3YteFlXM0tkQXB3ckItbWw4WkxzT29CMkVzSFhBc2cxdENHdnh5b1BjdTh0ZDF5a1ZSS1NZ?oc=5"
     },
     {
-      "title": "台股震盪常態化，同樣是被動ETF為何績效差這麼多？ - 商周財富網",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QOEVMend6elByZHFCbVFBX1hERFB4c0c2WkdUMzIwTF9Sa3RoZXlRbGtHNDJ3Qy1fU3ZQVUVQUUNRY3R0cHJEREQzUjJMYm9OLVJ3Q1BQY0lTbF9uV1k3NnZfcGFzdVl2cTVGZnBOb21va2RGY3c?oc=5"
+      "title": "比特幣、競爭幣瘋狂湧入交易所！分析師：市場恐迎劇烈震盪 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlFvVHZPNlh0WDdRZ3VBWUpvMURPMGo2THdySGw5Q0JBLTZOZ2VEQ3NrOVpNVG5SaFA5NHhHNnVQVUFITGZrcjZONFVudVhHRUdNY0FwTFVzTF9wVGt6YkU5ZW5TMnFBYUUwLVQzUW5aQ2c0enJiMkNQdTcyb2FZOHNWVXBLSzh5WmFvZ2EwNmlqeGlrWG9XSWd3ZzBLeGhIZVpWTUlaM2F1b1JveVBzTmVRVHlkZVlMaXdWd0tiZzRMMXM5RWRpTlNn?oc=5"
     },
     {
-      "title": "台股波動大 法人︰多頭格局不變 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16MjJYVjdVdTZNeFJWaTdFd2NCWk1QMHdCVWdFeWVwREpvSFV6YnUtTExvaVlqRWh5Qkp6d1ZEQzNOLUZHTVF6czlrbVFvM0I2RDlrTDRn0gFbQVVfeXFMT3lTNTM1V2ZhRmxDN1dqWkRqdnNudjJPUVFsQmxpWFQ5RVN4OFUzNlQ0T3Q2d2NXNEFiYzFmcEQtRlJ6S1Y0VTRGaExnRWJXZ0dHaHFrU3o4a1pZbw?oc=5"
+      "title": "遭外資狂賣35億美元 台股單週仍逆勢大漲5％居亞股之冠 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WZUZwTWVEQ1dpLTdvN0VHRWFtdGJ4RWktNTk4WnRoUnhPZUd0R3NUQjdUR01SUjFnbGFPVkdRbTdLNDNmU1l2WU5CVkgzQWgwQkVyeGNlbTdrQVljX0hZ0gFkQVVfeXFMTWRMaEJFdnc4WURQZ0ZfM1VyOXZwTExUMVo5bHlyYU03RjB6TXNfUjFic2lZMnRnSG9mNWpyMGtvQ3JaeVp0SW1fM0NtUlBzWE9hRTlseXlTWEEyM3JRalo4REpIMA?oc=5"
     },
     {
-      "title": "11檔台股ETF 積情暖身- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zNGJmYXRtMHNxdWdGemZqU05TTFVKcmxjZVFqLXUtMFFrMXRwWkpacEFFUjZQSHg2Y3VqSDhnZFVhT1pidFh6X0g2R0VGajVTVjAxWjA4ZUFPZ3RWenNz?oc=5"
+      "title": "SK海力士登陸那斯達克 美股市場終於買得到 估值有望追上美光？ - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fdjhwSWNPR3VlOGJtbExGZ3BuRWJtbDdBR3RpUS02TTZVQk9va3lwdGp2THplZmg4cWtMZ1FtY3g4MEJVRmlMaHVFWU5Ydzl1?oc=5"
     },
     {
-      "title": "《美股》美國股市因獨立紀念日提前休市一天- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHFQS0EyUkk2MDVmd2dsRV9hTEUzRk1GZXZod2lBWUhCRm5aNVdrZHF4Y25xSHVXX09TZnVtUTJuQzlRVVZTOTVfaG9pNkZtSjJBZjhNLWExY2oyamN1d1lBVlFrTXZlODhacWZzTlUxcXFBTVh6cTU4dzQzY2dkRW5kOXBLMlR4UUxUZE4zQnM0MEFwYVE?oc=5"
+      "title": "《台股盤後》下跌224點、守住10日線，47K得而復失- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZXNCcFVZSVlZTEo4Y3pOTzlCNVJIQkw3RXl1MjdRQTB5RXdvM1N4cE1yTk8wM3Bicm1oN3hRcFhZQ1U2RzQ1RUJSaHBKdW5DVDNBaUtEQ2lnb0pWaGZ6MW45am50bjlBR2pkWXhfQl9HTU9YTnpxV3l6d29BcTZ0UjM1VC1JQ2hKWDRsZDZvV2hMZw?oc=5"
     },
     {
-      "title": "〈台股盤前要聞〉本周法說行情啟動衝4萬8、台幣上演32元保衛戰 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qb2FpczljVXFEYXYyZDcyb0lGazNMYU8tTWE5Mi1hUFBIeHRaMUlzX2RSR1ZwaWZ0cUFqZ1hpNmJxQThfUWFIR29sQ1hKQlk?oc=5"
+      "title": "外資逃、ETF賣、中介板利空連環炸！台股開高走低背後隱藏的反向訊號 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDNmhmbnF0UGE2U0RWdXQ1ZGV6MWNjcjFJRWhDc3M4ck0tUTQ0a2sxaUhlSkUyVXVucmRaN1NScjV6MWQtT1hERWp2LW9xN2M?oc=5"
     },
     {
-      "title": "《經濟論衡》全球資金的再平衡：黃金的新角色 - anntw.com",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwRFluaTEyaW95M25CZi1pWk5XeGJVMDhwUkYxeVhPOVljd09JaG5IQnN2SllZbk42V0w4UEJWX1RVc055Nnc0MFQ2cGVQT19OcHJublRhQQ?oc=5"
+      "title": "今年台股大漲6成憂股房雙崩? 謝金河:錢流入股市是不爭事實 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQb2JrYUFKNG84RkdhNkU1UUw5US1kUVJ0cDZUM3ktb0NQa1lSY0pRbk5KYVJ3amhLa0VCT05STmVUa2JnU2g5OG13ZUtMN0h3YlNCRFRmR1dCU3JXbGZRbngtZ3FnVnZIZVBzdHZCS0gwTHZZanI1QmlnOWFXdFlHNVBlVUFuV0Jxa3V4ZWlDalJSc3k2bjRvZ3hPSDJtZTdCa0dRZFRJQjk0c21vdExDdFQ0ZDYxb2dCSi1HaHl1VTJGOS05VFNLaUIwdnJIUExrc1BZTWRnRklkajUwY0R3bXI0bWY1QU5jMVJvT2s2ZEpma1BVQ2hvX0kySFR3MFJhamFXaWl6WE9WMl9DWm5RM2EyUXNSVE5BTk1RUWswenFWVFlBQWl0em13NjR3bU9sTU43dWVUT0NfM3E0SmN5ZXJEcHlHaEJkekJ3N1ZUVXc5emk5aHRsaGdONGhaMmhweUdmOFNPdUo1azZtV1NRbW5XV1lGMG10SW5IanZOUnRDU1R4eGRXNkVtQQ?oc=5"
     }
   ]
 }
