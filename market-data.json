@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/08 02:25",
+  "updated_tw": "07/08 06:39",
   "taiwan": {
     "2330": {
       "price": 2440.0,
-      "change": -5.0,
-      "changePercent": -0.2045
+      "change": -20.0,
+      "changePercent": -0.813
     },
     "2454": {
       "price": 4030.0,
-      "change": -165.0,
-      "changePercent": -3.9333
+      "change": -95.0,
+      "changePercent": -2.303
     },
     "2317": {
       "price": 237.0,
-      "change": -3.5,
-      "changePercent": -1.4553
+      "change": -5.0,
+      "changePercent": -2.0661
     },
     "0050": {
       "price": 106.2,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 197.58,
-      "change": 2.03,
-      "changePercent": 1.0381
+      "price": 196.93,
+      "change": 1.38,
+      "changePercent": 0.7057
     },
     "AAPL": {
-      "price": 312.2,
-      "change": -0.46,
-      "changePercent": -0.1471
+      "price": 310.66,
+      "change": -2.0,
+      "changePercent": -0.6397
     },
     "TSLA": {
-      "price": 407.277,
-      "change": -12.493,
-      "changePercent": -2.9762
+      "price": 402.9,
+      "change": -16.87,
+      "changePercent": -4.0189
     },
     "QQQ": {
-      "price": 712.99,
-      "change": -9.83,
-      "changePercent": -1.36
+      "price": 709.43,
+      "change": -13.39,
+      "changePercent": -1.8525
     },
     "SPY": {
-      "price": 749.12,
-      "change": -2.16,
-      "changePercent": -0.2875
+      "price": 747.71,
+      "change": -3.57,
+      "changePercent": -0.4752
     },
     "SCHD": {
-      "price": 32.465,
-      "change": 0.225,
-      "changePercent": 0.6979
+      "price": 32.54,
+      "change": 0.3,
+      "changePercent": 0.9305
     },
     "VOO": {
-      "price": 688.58,
-      "change": -2.04,
-      "changePercent": -0.2954
+      "price": 687.08,
+      "change": -3.54,
+      "changePercent": -0.5126
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63980.17,
-      "change": -14.8456,
-      "changePercent": -0.0232
+      "price": 63590.66,
+      "change": -404.3556,
+      "changePercent": -0.6319
     },
     "ETH": {
-      "price": 1801.09,
-      "change": 3.5163,
-      "changePercent": 0.1956
+      "price": 1776.14,
+      "change": -21.4337,
+      "changePercent": -1.1924
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.1,
-      "change": 0.172,
-      "changePercent": 0.5387
+      "price": 32.127,
+      "change": 0.0721,
+      "changePercent": 0.2249
     },
     "JPYTWD": {
-      "price": 0.1961,
-      "change": -0.0016,
-      "changePercent": -0.8239
+      "price": 0.1959,
+      "change": -0.0019,
+      "changePercent": -0.9375
     },
     "EURTWD": {
-      "price": 36.734,
-      "change": 0.2202,
-      "changePercent": 0.6032
+      "price": 36.687,
+      "change": 0.0113,
+      "changePercent": 0.0309
     },
     "CNYTWD": {
-      "price": 4.7289,
+      "price": 4.736,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4152.3,
-    "twd": 4285.0,
-    "tael": 160700.0,
-    "twdTotal": 133289.0,
-    "changePercent": -0.0674
+    "usd": 4112.3,
+    "twd": 4248.0,
+    "tael": 159286.0,
+    "twdTotal": 132116.0,
+    "changePercent": -1.0301
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3azhobmJTSG9WZjh4UFBzQWFGZmJhaXc5NF95bGVKLVh2Tm1OMkZ6cEtnZ0hhejV6XzlBejlZX0ZTNmVybWxJVl9fdzR5bGQ3VnfSAW5BVV95cUxQNU9kdTlsMHBvOEJKOEdKS3RfWkluaFh5dUJfWnhxdVJERm13ajFjR0dpaEswUUJRdE9JbWEzLUhqdG1MbDJfd2pRYlZrSzF4NDVDVy1WNWpEV2hTeE14N3RhREx5ZlpvTXNObGZIQQ?oc=5"
     },
     {
+      "title": "美股重挫！FISV高層辭職、PENG業績驚艷，投資者該如何抉擇？ - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2U2MmFEUDBEVjZRci1uT3o0Rno0R0NBdmNOZE1KaWxSUDFBYU5PLWZaZUJ3WXQ3R2h2SWxnQkUyTEtLR3Y2Wjg3UzYtWFJCeHVoUnN3OGhQdzdOS3NKZ1psNUVMMDlnMDdKeGJNdTVWVDZXOHNwVXhHYkFxdVhQaTZQajBWVXJJSDh5Q3hR?oc=5"
+    },
+    {
+      "title": "台股大怒神主動式ETF攻守兼備- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95b2RtdURERkRpajJRZlhGY2J2eDBtSmxnaHZNdW9ITGJ6bUoxLXllZF92eHlNUy1PWjBPc1lIdHJjRnljVVQ3ZG1MZXhRanU2dUdqaW81Ny1NcTFiVXlj?oc=5"
+    },
+    {
       "title": "美股早盤美光又跌7%！記憶體賣壓不止 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZXRJNi0yLUhWdlk4dndCNU41dzRINzUwQzlkSUVnU1ZWcWFIN3QwZFpnVVU2cDVvQTlPUDE2TU9neTRXeHJndk9KUzFfaE9FM1VvenVFNTBZSzJrUDRSck9HdXBnaGFoNmVteEZvaHU2ZXQ5VEdoOHRFRXQybF80MGhFay1NaXBld3ZjYUJkTGtVaFV0QUJ4MUdNTE01Z2p3ZTJCWGhBUU4yUVIxUVVxamJqVGFkRFROLVdHeTVzX2JybDhOaEIxX1hSUE9EZEFUMXB5UVJad3pFaWhPVVFTX0pyTkxIVmtWYVd5NGM1WDJCbkdzcS01WXhIWmh1WnRJYXBfVVpXMUJaZw?oc=5"
-    },
-    {
-      "title": "外資、主力大戶等瘋狂倒貨 台股失守46K 指數震盪1,535點 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iMWhqWktud1YxcjljOElEa3FsbmN4SWRXbEtYMzRTXy12TERhbENpQWhtM2hlemNNQ3h0VFE4RHRmQnVyNDU2R1JWS1lCWS1JZC1YMHpseVpwQdIBX0FVX3lxTE56YmRKN21qbTVoMmZFM2tkdHlhR2dwUG8zRjlNS00zaUxpN05zNktPbHM1TUpzMTAySnVxdTQyaFRueHNpdlhIbWFYckp3aHBpelVmOEo1TTljUjNBdGRj?oc=5"
-    },
-    {
-      "title": "黃金高點急翻黑！最新目標價曝光 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40cWpwbzBSLUtNUjZ6QzVyUXEtYU11SllSYUktNVRBZkQzVk5tQ2ZhTUpSREJOd0JOY3FPcnA0MzhiTEp6QkZnQ3UwWWVwUm54SlNHMlZONjZINjFxbjRB0gFkQVVfeXFMUERDbE9wcjJQSENNSDhKRlF4QXVYTUZwcmtISXVMdXk2WFVLWGpWWE9TRldCc09ORFNQM3A1cy1WeUN4YW1RUmxIVnYtcWItdGhESjBCYXdNQkcwVUZpQ05LOGZ1Zw?oc=5"
     }
   ]
 }
