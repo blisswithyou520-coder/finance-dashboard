@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/07 07:40",
+  "updated_tw": "07/07 18:40",
   "taiwan": {
     "2330": {
-      "price": 2460.0,
-      "change": 15.0,
-      "changePercent": 0.6135
+      "price": 2440.0,
+      "change": -20.0,
+      "changePercent": -0.813
     },
     "2454": {
-      "price": 4125.0,
-      "change": -70.0,
-      "changePercent": -1.6687
+      "price": 4030.0,
+      "change": -95.0,
+      "changePercent": -2.303
     },
     "2317": {
-      "price": 242.0,
-      "change": 1.5,
-      "changePercent": 0.6237
+      "price": 237.0,
+      "change": -5.0,
+      "changePercent": -2.0661
     },
     "0050": {
-      "price": 108.25,
-      "change": -0.1,
-      "changePercent": -0.0923
+      "price": 106.2,
+      "change": -2.05,
+      "changePercent": -1.8938
     },
     "00878": {
-      "price": 33.49,
-      "change": 0.27,
-      "changePercent": 0.8128
+      "price": 32.97,
+      "change": -0.52,
+      "changePercent": -1.5527
     },
     "00919": {
-      "price": 29.76,
-      "change": 0.23,
-      "changePercent": 0.7789
+      "price": 29.62,
+      "change": -0.14,
+      "changePercent": -0.4704
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64059.99,
-      "change": 512.1072,
-      "changePercent": 0.8059
+      "price": 63236.4,
+      "change": -758.6156,
+      "changePercent": -1.1854
     },
     "ETH": {
-      "price": 1801.59,
-      "change": 18.584,
-      "changePercent": 1.0423
+      "price": 1776.01,
+      "change": -21.5637,
+      "changePercent": -1.1996
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.054,
-      "change": 0.126,
-      "changePercent": 0.3946
+      "price": 32.089,
+      "change": 0.161,
+      "changePercent": 0.5043
     },
     "JPYTWD": {
-      "price": 0.1956,
-      "change": -0.0021,
-      "changePercent": -1.0767
+      "price": 0.196,
+      "change": -0.0017,
+      "changePercent": -0.8744
     },
     "EURTWD": {
-      "price": 36.729,
-      "change": 0.2152,
-      "changePercent": 0.5895
+      "price": 36.726,
+      "change": 0.2122,
+      "changePercent": 0.5813
     },
     "CNYTWD": {
-      "price": 4.7236,
+      "price": 4.7288,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4174.0,
-    "twd": 4302.0,
-    "tael": 161308.0,
-    "twdTotal": 133793.0,
-    "changePercent": 1.4905
+    "usd": 4146.7,
+    "twd": 4278.0,
+    "tael": 160428.0,
+    "twdTotal": 133063.0,
+    "changePercent": -0.2022
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股早盤／科技股壓力緩解、台積ADR飆4%…川普點讚戴爾 微軟裁員跌1.5% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZdmI2QXFadGdoelJoM2FOWFZiNm1FbmtXc0xwYnNKWl95V0VqckZMWVNYNF9JX08wbXNJMWJXZTI1ZHQ2bkRHWTdpMXB5dTJM?oc=5"
+      "title": "美股資金大變天！棄晶片、擁雲端成2026下半年主旋律？台積電、鴻海、日月光等10檔個股誰能接住下一波AI浪潮？｜股市話題｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMirAVBVV95cUxNUFM2TUdjQmU3S3NkOF96SUNHa3lfa0d2dC1RWXJkVi1tQ3VodFRoNVNGZGtCakhEb1diUkVOeTFHVDkxelpLbkxEM05SMmI4YjladkNPeFZLaXN4RHVFVkNnWWlqdWhGZ2duejdWZndwbS13Q3Q1bEFXQzViQWRfUDF4MTFZYXdIMFNDemZPMnI4b2h2WXBybzlIcDRvbkI0TGh1azNfQ2hOV1Z1U1hHZ3I4ZTdjb0RuZ3NqVDVYb3ZGQi1sbFktNGVnd2tsal82c0x5aEpYN1QtbEVkZi11X0ZCQVpRckdoMXFFd1hrWjl5cDRmdTNZMkZWejdXaEZKWmtjekNQbHR4UmNmOTlHSmJta3NNclM5U1pqNG5jMHp5clVCajU3TDJnNkJ0RDd6dnNWSFF6Z0FzQzdfcEVVbmt4S0VKa09SOElRYXZtN05zSnY5X3NwaDhOTkxzbEF5YUN0UDctalNzbFEwM2VKXzhxWUpPc1I2YWs0Vk1ZMWpDR1UxUmN3Q0h6SENVQTlYMnNvX3dHTXJJSDJfX09DTFZXSmZVVFJ2R2ZPUkthRDZ6bWNMdm9VNWQtVmpiWkQ4N3U0OWx1T1QxS2o3QkpMVGR6T21VRE14SHZ5QS1FWllVanFzV1Z1N1A1eFl2eUY1Y3pWc3pjbEJIZnM5clBOZ01mTmxENzlFcEh6SXh4Wnp6cnNEZmxzMmpWVzI5Q1dDZHMzUGt6Y0trM094MXI5UDJQZEQzbHVfQ3hSWEJIQk1iRFltV1hONXZYbXd2UGhEOVBNLWRneGt1ZV95b1FCejNhNC00a05DQ014UjNXci1BajdIejZRV1RyRlZCcDZCYWlNRDF4NV8zTHF1VHBXd01oWXJiUHBwMUMyVGVxQV9UeVZaZFBhNlRKWUQ?oc=5"
     },
     {
-      "title": "AI需求爆發！台股基本面撐腰 法人看好延續到2027 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOam1FWFlBWTE2N3ExZmtNUzN3UFpIYVZyU243dFlnNlMtSVh1WDZMa3ZON2w1bXo0NFpIeXllZWJzNnU0OXlYbVpLTEpyVWowUUlEMWlLUWc5dUFrQXE1Vm5xZlhzMC15WEc0N0FPSVo1bUZXSTBMUDhUUVVHT2g4SzFHTlVJRGRGT1otd1VyTm1sOEFuYWViZHpJZ1BDODBnRHdNbmkyMVg3VGtOWHlNNS1sYjBJcXYxTWxPWmdMbnZ2RHVrazI5WFVIZlFvaG1iWDJ3SUo2emJPRUpJdTVWNEpfZHFuMXpNbHVuNjJXVmtTMG1iTHh2YjdPLTNJTzM1X2RjeUNjaHNEMWFYV0U4MlltQ0EzMTRnNEFWd2RUcTFGQ2RSdjA5SGNWOUQtRnQ3WnVlM2lROVZjYnFqV3c?oc=5"
+      "title": "黃金高點急翻黑！最新目標價曝光 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40cWpwbzBSLUtNUjZ6QzVyUXEtYU11SllSYUktNVRBZkQzVk5tQ2ZhTUpSREJOd0JOY3FPcnA0MzhiTEp6QkZnQ3UwWWVwUm54SlNHMlZONjZINjFxbjRB0gFkQVVfeXFMUERDbE9wcjJQSENNSDhKRlF4QXVYTUZwcmtISXVMdXk2WFVLWGpWWE9TRldCc09ORFNQM3A1cy1WeUN4YW1RUmxIVnYtcWItdGhESjBCYXdNQkcwVUZpQ05LOGZ1Zw?oc=5"
     },
     {
-      "title": "《貴金屬》升息預期舒緩 COMEX黃金上漲1% - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFlCZzFuODNyaGF4a1JYcHJicmF4c2pFSDZkWDY5QnFKeFlIaENkUXRKamQ4S241RTZIYkkwYXlGNXl4NW1QLUFGTEpIZ2EzNVI5TEdBbEluSHExbWZKdmVBdWFLMGgzeFgzTEFGWkp0Zk1JTUg2SXgzMkdfSVNHOG9RLUxNSG1pR05kejZUUE9NQQ?oc=5"
+      "title": "台股跳水45K是殺這裡？被動元件6檔綠光罩頂、國巨重挫8％掰了千金股台積電孤軍領漲15元無用 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimgRBVV95cUxPYVpSVTcwZmpQV3BkNUFuWUUtS2VBNF9mQWVpOW9sSUtRNUdhSkZlTlItWm9jeG12dVFxVFJSWEoyY0ZuSHR3dm9YNmY4M29zVmZQVVVJVlNmLWF5QUF6ZFVkVTRxSGJjWlRaRk9MZkpVcWZWQkd4VW5kNF9aQnM1U1l3RHMxenhRM281Ym9Eak91eENwdWJoMzZweU1OeW1uM3kycWZ3TWdDUzBUNlh1akVtNU5KUThheERJem0yYlFUc3lvQkNNTlZWZHlYaVg2OWNfV3NieHdXQUkyOVdNeWZqaENWNnhPMGdfcUo2ZUV5UE81MGNsdkpULU12R0dQdTA0UHh0QUxQay03NVA2eFVaUXEyUm9lQ3QyczNQcEtTVThDVjE5N01vTlliNms1UFkzN0RkdEpaejhyNjVqdndUc0kwdnAxYTM4U1NrLVVkdktmUVNTZnlacjVBZTRscHBOUE5JaG9QWW43b0dDZVBpNVN4d1VnZTFPcXRRZUpsUTNtVVotVktxZnVFZHc5R29JU1ItNGo5WXNFaWJDWlFUczYtZzVSYVhpUkp6LURsMkZDeEtiOUx6NFE3eGhBQTlCeG5wcGpXMVNvcEtJaWxUT2NINTRzZ3JPclpuRXNqc3BJcnlmZ25PT1dkekJBOU54dHMzTkV3emJBVXY0a0lzX2JBdHZoR3JrcVYxc1dqZDZNSmo5dW9R?oc=5"
     },
     {
-      "title": "美股首收53000點！台積電ADR漲4.06％　台指期夜盤走揚466點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wUGQxYmNUN3YzbFBPWG9ibkNNMncybTVIdTZlWkRzLURsOUJya0xLNWQxazRMOEo3djBpaHJyNmw1Y0ZuajVfWDBaUE4wUXVnQWfSAW5BVV95cUxQb3lwZnNLcUNKS1k3ZXhzQXMyM3owVGFxQjhBRmpZQXlKTlpCZUE3Z1hTVFlZUnV4VzRPRW5MTDRpemtjTklpaEJJS3lFbEdSa2xyN2k2WllxR01yS1B3bTg5WjJnQ1ZKMEVoRm5iUQ?oc=5"
+      "title": "台股重挫逾千點的凶手是誰？分析師推測這兩點最有可能 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wNzlKMlh3OUp6RU9uNjJwTy1nZmtQbnM3X0xOWWVIQ1VCZURsT28zYTA2RDVFaW9pakJrUE16elFrVVJtM2ZuZGxkWWNQZVdt0gFWQVVfeXFMUE4tdF84Zm4wLVl0UTNsQmxCYnBpMWxGYlNFYWpqejJyNTRza201Tmxqc2w1aUM2dHoxRkJsS1RDdmdIR3VlVEF0aElHUFpMMXZpS0NiUmc?oc=5"
     },
     {
-      "title": "財經青紅燈》不是大媽，是義和團 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rd3YtX3FIa1lwRGprZUdDR3ZJSllKUWJ4WXloRzNab0NtdzdLS2N1Qlh6MnZNcy1PWThEQXl1RWNlSWhkWmVhZ3Z4ZGExaTdDUnlCeVZR0gFbQVVfeXFMT250THJDNXJOZ2FHd0REbXYxMEE5UnRfczVEZDZvV2lid2dqUmRfSVlIeHlMYU1RWkItVkFBM2h3bU9RSHg3X09saU94Z0lpQ2F3UTdqSGlaRTAzUQ?oc=5"
+      "title": "《台股盤後》破月線挫跌1077點，三大法人賣超946億 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVFEyUWJJN2dWTmZ2dkdhdk9GaFdveHBaNXlGQnJubEc5elBRSDBqa0hkVFNjTkpocExyY21pckV5WnM3THdBUDFrWkQ1RXV0TWFNUTdFcDlBWFlvaENEeGVOaWdlRTFpSWJlS1d3NU10RWVWcUQ2ZHZDRWJ0cFlfOHZaVi1nc2J5bTN2TTJ3QWdoZw?oc=5"
     },
     {
-      "title": "玉山證「台股e指存」 助投資人輕鬆存股- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xckhUaWFHOEtuR0t5Qnh4SDd1MFdwODBVaFI4bjNNR0haVmR5ZDhzM2RaalJvSTJWaDBWV3hQVzZndTdPWUl6SlBSd0kyYmxQT2NxbWw5cXVoRGxoME80?oc=5"
+      "title": "【美股盤前急殺】美光盤前跌5%，法人喊買卻擋不住賣壓？ - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaTIwMnNiNWJZOGYtUWVVMFU3X3E3VXFSRnlxMl9zTHZ2RFVEdlRoS0dER0RFV1pFOGJVWmJpT1RYbWFRVExoQzk4NU0wTzZQMVNmZUdxX1Zta0YySWV4THJjc0ZIaW5rb2k2NGlFSF8xX0dOZzlEQmtiVlg5ZXNoNG82VXhpMy1nNHNiUkNR?oc=5"
     },
     {
-      "title": "台股基金上半年平均報酬85.2%！中小型更猛 鉅亨買基金這樣說 - PChome Online 股市",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLUUzSFU3VWdQYkdxSTEtbUpXMkFtQlJrRUFxN0JBMDhQQVN1cEZETFUzYWg2YUt6dDUwNTNWSU1vSERBdUFRR3l3UDBtcE4ydldKU0JYRkFBR2ZtbkZqOXh1amJrZ0ItdU0tNW9HcHc5QXdKbE1kd2ZqbGpzbHFubg?oc=5"
+      "title": "台股重挫1077點史上第8大跌點高價電子股慘綠| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13YnF4MnRJZVg1ckgtWUdHN2ZfTE1VRlczclp1UERyWUl3cXhUSWV5Vk9TVUt3aW1jUWlMTzZKamFSMUY4cG1UczQxdzNtX2JMcFQyOUlvaURaVUt0LWc?oc=5"
     },
     {
-      "title": "SK海力士更新美股招股書 半導體設備股聞風而動 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlb1dOckxtN1BQc0g2bDQ4VWxFM213V21vWVVMcHRveUlZa0U1aU13QUN6VmxPNnRJcUhuVzdhWEVTRkxVS1hURlFKUjA0SFU?oc=5"
+      "title": "台股跌千點外資連4賣2470億元 大砍面板雙虎逾18萬張 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uVHVKM1BYNFRwdU94VlhNdUZzZWtsdVUyV1BUQUU1RGFUOFFRV01XVU9zRVJWenlDZ1lJTGhrWXIyd3UtMzNJTXRQOGRRZGs?oc=5"
     }
   ]
 }
