@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/08 06:39",
+  "updated_tw": "07/08 15:42",
   "taiwan": {
     "2330": {
-      "price": 2440.0,
-      "change": -20.0,
-      "changePercent": -0.813
+      "price": 2465.0,
+      "change": 25.0,
+      "changePercent": 1.0246
     },
     "2454": {
-      "price": 4030.0,
-      "change": -95.0,
-      "changePercent": -2.303
+      "price": 3995.0,
+      "change": -35.0,
+      "changePercent": -0.8685
     },
     "2317": {
-      "price": 237.0,
-      "change": -5.0,
-      "changePercent": -2.0661
+      "price": 237.5,
+      "change": 0.5,
+      "changePercent": 0.211
     },
     "0050": {
-      "price": 106.2,
-      "change": -2.15,
-      "changePercent": -1.9843
+      "price": 106.05,
+      "change": -0.15,
+      "changePercent": -0.1412
     },
     "00878": {
-      "price": 32.97,
-      "change": -0.36,
-      "changePercent": -1.0801
+      "price": 33.2,
+      "change": 0.23,
+      "changePercent": 0.6976
     },
     "00919": {
-      "price": 29.62,
-      "change": 0.09,
-      "changePercent": 0.3048
+      "price": 29.94,
+      "change": 0.32,
+      "changePercent": 1.0803
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63590.66,
-      "change": -404.3556,
-      "changePercent": -0.6319
+      "price": 62732.93,
+      "change": -564.4645,
+      "changePercent": -0.8918
     },
     "ETH": {
-      "price": 1776.14,
-      "change": -21.4337,
-      "changePercent": -1.1924
+      "price": 1752.53,
+      "change": -15.9815,
+      "changePercent": -0.9037
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.127,
-      "change": 0.0721,
-      "changePercent": 0.2249
+      "price": 32.031,
+      "change": -0.0239,
+      "changePercent": -0.0746
     },
     "JPYTWD": {
-      "price": 0.1959,
-      "change": -0.0019,
-      "changePercent": -0.9375
+      "price": 0.1953,
+      "change": -0.0025,
+      "changePercent": -1.2409
     },
     "EURTWD": {
-      "price": 36.687,
-      "change": 0.0113,
-      "changePercent": 0.0309
+      "price": 36.646,
+      "change": -0.0297,
+      "changePercent": -0.0809
     },
     "CNYTWD": {
-      "price": 4.736,
+      "price": 4.7192,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4112.3,
-    "twd": 4248.0,
-    "tael": 159286.0,
-    "twdTotal": 132116.0,
-    "changePercent": -1.0301
+    "usd": 4136.8,
+    "twd": 4260.0,
+    "tael": 159756.0,
+    "twdTotal": 132506.0,
+    "changePercent": -0.205
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "受晶片股下挫拖累 美股那指開盤下跌逾百點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxONlVwb01tY25teWJleXpNMHFxdC1NLVIxSE9HZUpfNFRpQy1UNGJ1aDJJbVdUNXZBdlFUSmZVaEZwSkJjSDc0MUYyTFhNLUtuSTRSUWNOQ3NaWWJNNUI0eFlqczkyNWc3VGV5YTVFc0w4SkhPNFZDck9SMHJWeTR4MVZyRHpMMDl6WVY5NFlBV19yR0NyWkVsQUFocml1b3lacDVEeXVnNTItdkJQVmlKWlpLWUo5U1RrSWVaN3dudEpjU0Y4Q2lzcTc2dzh1QkNjTVoxb3hEVWNnYjJNWlV1NW1XOFdYaGdyUUFZbkdGNjNkRDVwQV83SEVCeDFiUHJXYnlOWVVJb1BaU3JLNGdjUTdaQXRHRkN5OEVlWG4wZWlVMmN0bF8wZWZVSHRLOFhjODdYREs5OHdvWmQ2dkxERg?oc=5"
+      "title": "美股收盤／AI 賣壓拖累美股收低 費半重挫4.7% 荷莫茲再傳攻擊推升油價和殖利率 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55Q05HaFk1V2RnZkEyVUFYRWl2c05ZNUFFLUVELTJ0Yy1vT2NNeGhmOVZSektFeGdNZ1BvVHl2cTM5TTNHYXJsUkV2UWZTdWZkbmdKNktVdW45SFJt0gFiQVVfeXFMTkx3TVZiOGVVSjVPZW9YQ25OY1VUNEdMX195R202ZHZydjRLRXlFUTlqaldjT2dQeHhrcFdwMmU3anVOb2RuMTV3NnNPZW5ITzhCWXJBSEZYdTdNdEZhVUJBQ3c?oc=5"
     },
     {
-      "title": "美股早盤／記憶體股領跌...費半摔7% 台積電ADR跌5% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CeGtKNUJCQ0xqdEQwY0pZb0xEMjBTVXJwNTA1QzV4cUNuZ2FLd3F4Mm8yc2J3bmowZ1dPN2IzOWVmTHo5VzNSSWVuYVdZc0Jo?oc=5"
+      "title": "金價下跌！但「這時」有望衝破7000美元 關鍵原因曝光 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12cGl5OEp6OElVUnFlLXZMNDBPQmw4SkpuSkJqampHdWkycENTS3BlR2pmYlJOV2V5YUZoQnV4Mm9pWEpXRk5CNHZ6THBBc2c3UWZKMFBOYzRWWXo1UGVv0gFkQVVfeXFMTnlpM1VQdWszSkctdTN2SFNlNEl1WHVNaTN5dVVDbHdMZ29yZEJsazluMENvSjU4SGE0M2hrMHlJRkpXbTU5UDFaNkJwYUdaalc3WDFkMG9CUjFETk5ndUdhS0k2Qw?oc=5"
     },
     {
-      "title": "〈美股早盤〉AI估值疑慮升溫、DeepSeek傳自研晶片 主要指數漲跌互現 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OWEFRQlEtaDVaSWRXS04wTXhUbkx6bzRnbXRQY3pEalJ4WEJYbEVWeHVsUUdXNzZ4Yk5fUHZfMHBqUklqMHpUd2hqQ3l4Tzg?oc=5"
+      "title": "黃金ETF資金流出創4年新高 - 日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFFJTV9najgtemU5WGdzcXR0WXUwbUxmOGdWcmdhUWFJZHZwSTEzNzdZZTBHQnd2ODByNHFDUE5XQl9SWDQxX1BGSmFEOXJjcmRFNHozZFUxUnJUMUQ4WnpENUN3cWFteF9WbTFqWXFCWlZPX0hZLXN1T3h6bDdrZEpkSXZJWGZKakE?oc=5"
     },
     {
-      "title": "美股不只股價太貴？華爾街示警「雙重泡沫」 一旦破裂恐重挫50％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6NWlJWVhBTklST1A0c2lIbjBnRnduMFZXb2tWbnlQdncyQ01mNXRha0RNckdVTzFpWXo4R214M2twR09Gb1I1djFKUHpQUmF1cjVramd0Z0lTdUIyQlE40gFkQVVfeXFMTUFSSTBPb2Z6YjNKVi1OZUU5ajZQd2FjSDJhWWVzbER3T1J6SnJTbGtqX29Ib2x6M3Q1Z2o2T1VfZk5hN18wNkFYR0doVlZiSnAtMDlJUzBSM0Fvd2ZaLUFBenYtWg?oc=5"
+      "title": "〈美股盤後〉晶片股重挫、油價攀升 費半跌逾4%那指挫1% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wamMwZjQ4OHhOM3A4VzMwSndiQVFURnpVVFlIeENWVGVhSjQ3Z0k2aGw5ZDNsNHF2NlRFZi1pTWpkM1NVakRfRlRfRXVfeWs?oc=5"
     },
     {
-      "title": "美股開盤血洗！費半指數暴跌6.42％、台積電ADR跌4.30％ - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3azhobmJTSG9WZjh4UFBzQWFGZmJhaXc5NF95bGVKLVh2Tm1OMkZ6cEtnZ0hhejV6XzlBejlZX0ZTNmVybWxJVl9fdzR5bGQ3VnfSAW5BVV95cUxQNU9kdTlsMHBvOEJKOEdKS3RfWkluaFh5dUJfWnhxdVJERm13ajFjR0dpaEswUUJRdE9JbWEzLUhqdG1MbDJfd2pRYlZrSzF4NDVDVy1WNWpEV2hTeE14N3RhREx5ZlpvTXNObGZIQQ?oc=5"
+      "title": "美股｜美伊緊張局勢再起 油價回升 4大指數盡墨 英特爾挫近10％ 台積電ADR跌4％ - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VYXdnNW04cmhUVzlOYXU4WUc0MVV6V2F1Wk1GYkl3OTU5MVYyakNFOFNNYW5mTDIzV1BZc0tHdmxWelR1WTczX2VzbWpRaXUycFN0TVo1WDVjemdOYXJZ?oc=5"
     },
     {
-      "title": "美股重挫！FISV高層辭職、PENG業績驚艷，投資者該如何抉擇？ - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2U2MmFEUDBEVjZRci1uT3o0Rno0R0NBdmNOZE1KaWxSUDFBYU5PLWZaZUJ3WXQ3R2h2SWxnQkUyTEtLR3Y2Wjg3UzYtWFJCeHVoUnN3OGhQdzdOS3NKZ1psNUVMMDlnMDdKeGJNdTVWVDZXOHNwVXhHYkFxdVhQaTZQajBWVXJJSDh5Q3hR?oc=5"
+      "title": "台積電漲25元收2465今日最高　台股漲255點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwaVU1aE5jV2lHSjFrUksyRTQxUmhHa1RMQkdvQU81NTNUcmRhRDRRUTlvSmVLRUt0OTY1aEw3RGozSlcteHJwczY4RXNaNGVRaEHSAW5BVV95cUxNa2JwMWdleHBrS09Bc1pZM0daNDJPbGRVb1pkQy1JQ3VTQ3A3eUVEX3FtTU5TWHY2WjdTTG1URmZNVHdLR1hXQ1lPUk96U2tGRmV6TkhhYi1ub0NMRU1MelFocUY2YmxpYThKV3JWZw?oc=5"
     },
     {
-      "title": "台股大怒神主動式ETF攻守兼備- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95b2RtdURERkRpajJRZlhGY2J2eDBtSmxnaHZNdW9ITGJ6bUoxLXllZF92eHlNUy1PWjBPc1lIdHJjRnljVVQ3ZG1MZXhRanU2dUdqaW81Ny1NcTFiVXlj?oc=5"
+      "title": "台股連47天「兆元行情」破功！崩盤前兆嗎？專家解析 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQNkk3dTYzbC1qQkJoU3lOQWxGc010enQ3eW15aDV5TmZuLWVyYmluRC1lSFh1VVYtWXFVWVFDRV9sejdlR09HaXFSSkRZYkM3Mk5uTTdyTm1DMFpIRkZHMjlORldJS05RS09aVFVCTG5YcUhtSUd1Q1hsREdyQVVEOXh0V2FVUF9TS05Wd1dYd1JZRmhWdTBaQTRSLTBMYW5Nb0V2Zk5vejhFQ09Ic1l0UnVyeGNLdnYwbjJnWi1lWVM3UEZnc1FJYTF0Sm1DaHlsQTFWT1ZCOFhTVDAxUV9UbU0tYVNycmxhV1lTNWpCYkJ4Sk1lcVU3ZlVYLTd4VlY3OXdnY3R6R0hteXBoS09yeW5kNkVUVlp1Tm5nbWNyQjFfbjV6Q1BLY2t6Y3dzTzFPV0VIN1lKenpBVU1MbkN0NWhMWEJ6MDBhY3lqdFBDZXg0bi1lcmt2X09UZmlydkhfWERfTjlWOEVPQXJnUDRjWXR3?oc=5"
     },
     {
-      "title": "美股早盤美光又跌7%！記憶體賣壓不止 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZXRJNi0yLUhWdlk4dndCNU41dzRINzUwQzlkSUVnU1ZWcWFIN3QwZFpnVVU2cDVvQTlPUDE2TU9neTRXeHJndk9KUzFfaE9FM1VvenVFNTBZSzJrUDRSck9HdXBnaGFoNmVteEZvaHU2ZXQ5VEdoOHRFRXQybF80MGhFay1NaXBld3ZjYUJkTGtVaFV0QUJ4MUdNTE01Z2p3ZTJCWGhBUU4yUVIxUVVxamJqVGFkRFROLVdHeTVzX2JybDhOaEIxX1hSUE9EZEFUMXB5UVJad3pFaWhPVVFTX0pyTkxIVmtWYVd5NGM1WDJCbkdzcS01WXhIWmh1WnRJYXBfVVpXMUJaZw?oc=5"
+      "title": "美股收盤》油價漲、晶片股領跌！費半跌近5％ 台積電ADR下殺逾4％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80MG9lMnk1d2otLVlTcnNWSHQtUmRSa05ZVnJtUnJiemV3Wm51ckJhQk5FNWowQ3NvYm1uY202YUxkUC1zWEFQMHgxR3pGZDlGNGV2bEJCMUVmU2toM3lB0gFkQVVfeXFMTUMzbFVhdDlrWG9KemIwV09melh1WTNXTzVTcHVtTzZTQlhHc2gxTHpfLXB6aW5TQXdzRjZ2VWI3WU1JQjY5ZnpTS3ltSzJ4bVhnX3g0eXkyblBtN2VjNmdYT29kWg?oc=5"
     }
   ]
 }
