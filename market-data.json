@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/08 15:42",
+  "updated_tw": "07/08 21:17",
   "taiwan": {
     "2330": {
       "price": 2465.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62732.93,
-      "change": -564.4645,
-      "changePercent": -0.8918
+      "price": 61813.06,
+      "change": -1484.3345,
+      "changePercent": -2.345
     },
     "ETH": {
-      "price": 1752.53,
-      "change": -15.9815,
-      "changePercent": -0.9037
+      "price": 1736.4,
+      "change": -32.1115,
+      "changePercent": -1.8157
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.031,
-      "change": -0.0239,
-      "changePercent": -0.0746
+      "price": 32.056,
+      "change": 0.0011,
+      "changePercent": 0.0034
     },
     "JPYTWD": {
-      "price": 0.1953,
-      "change": -0.0025,
-      "changePercent": -1.2409
+      "price": 0.195,
+      "change": -0.0028,
+      "changePercent": -1.3926
     },
     "EURTWD": {
-      "price": 36.646,
-      "change": -0.0297,
-      "changePercent": -0.0809
+      "price": 36.588,
+      "change": -0.0877,
+      "changePercent": -0.239
     },
     "CNYTWD": {
-      "price": 4.7192,
+      "price": 4.7188,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4136.8,
-    "twd": 4260.0,
-    "tael": 159756.0,
-    "twdTotal": 132506.0,
-    "changePercent": -0.205
+    "usd": 4089.7,
+    "twd": 4215.0,
+    "tael": 158060.0,
+    "twdTotal": 131099.0,
+    "changePercent": -1.3413
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,6 +125,10 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12cGl5OEp6OElVUnFlLXZMNDBPQmw4SkpuSkJqampHdWkycENTS3BlR2pmYlJOV2V5YUZoQnV4Mm9pWEpXRk5CNHZ6THBBc2c3UWZKMFBOYzRWWXo1UGVv0gFkQVVfeXFMTnlpM1VQdWszSkctdTN2SFNlNEl1WHVNaTN5dVVDbHdMZ29yZEJsazluMENvSjU4SGE0M2hrMHlJRkpXbTU5UDFaNkJwYUdaalc3WDFkMG9CUjFETk5ndUdhS0k2Qw?oc=5"
     },
     {
+      "title": "台股不靠「兆元」照樣收紅 載板三雄領軍吹反攻號｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNSzBvWmlVdFgwWXpiV1BoS0tBX3hieWZ1a0ZTRGJHdGV6YzI2V2VGUW4tWW1KWlJjSTBxLXJZUU5WNjc5azVMc3hfRlhrdGtNajR3UkpqZmVObC15TTAzTEVOT3FRSy1hTW5FMXlIenpTTDZWWmtKYjBTclp6MzBnanRiUmZkR1FVTWI2ZWoxVWpOQmRmMk9wUW9ubUY5T3JjdDNqUlZmYmZFQ3lvOGtrTW05Sk5EYjNsSzU3SUx6RVdUb0FlU1ZLTkZQVnNlT1o2MW11VnQ5YnVVSWQwT0p5WG9RT0QxdlVHU0t2T25FTUtEdmFmaktDTU45N090cHliNW5DREtoc3QtR09Hb19PdnBfbGRJQ1NVenFzd0VqNnFFMVdscUhsRlI0aHp2bVFUaFFNUjlPbHlMRXNrbG5obHNqQ1B6TC1ucUhRb21iT0RZLWpteW90WXQzMVVXZUdMTG9aQmpwaFpYeTF2ZWNNUWhBa0p6ZUdGNjM1TDliVUtaOFRYd3NBSkVZZHFEck9iZVY5SmN1UjdEZ25UbHd5dUo0NE9EQ1k?oc=5"
+    },
+    {
       "title": "黃金ETF資金流出創4年新高 - 日經中文網",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFFJTV9najgtemU5WGdzcXR0WXUwbUxmOGdWcmdhUWFJZHZwSTEzNzdZZTBHQnd2ODByNHFDUE5XQl9SWDQxX1BGSmFEOXJjcmRFNHozZFUxUnJUMUQ4WnpENUN3cWFteF9WbTFqWXFCWlZPX0hZLXN1T3h6bDdrZEpkSXZJWGZKakE?oc=5"
     },
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wamMwZjQ4OHhOM3A4VzMwSndiQVFURnpVVFlIeENWVGVhSjQ3Z0k2aGw5ZDNsNHF2NlRFZi1pTWpkM1NVakRfRlRfRXVfeWs?oc=5"
     },
     {
+      "title": "台股成全球科技要角、連三年勝NASDAQ，永豐投信00410A 主動選股追求長期價值 - 理財周刊",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoSzJDT19TVDZSMm90VVJ1OXlsTzNXTFZYdjd6ZEN5V05JNm5KZDlLajQ2ZUN0V0RJVC1rZzh5eld2MlNLR0tXLTlHbnZONjl3a2tRdjR6YVVmY1R2OTYyb1VqUG1PeGxTQ3c4Wmw0RQ?oc=5"
+    },
+    {
+      "title": "【美股盤前急殺】英特爾砍掉收購機會，市場怎麼懲罰？ - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdThDbUs4VlgxdTlmemEtT1BLTVNXdmJsNEhQTmY5cFRGZG54TnRzRmtBdHdnR09IR2pvX0NQRW1xLTZJSHg5WkM4RFpXNkZCd3E2VExLTDZnci14ZUVKQ0VZQ2lvSWVmMTdQSnBkU25XUmRCMjdWTVozdGNyNkJaSllFRl9ZbGxTSFVYZ3J3?oc=5"
+    },
+    {
       "title": "美股｜美伊緊張局勢再起 油價回升 4大指數盡墨 英特爾挫近10％ 台積電ADR跌4％ - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VYXdnNW04cmhUVzlOYXU4WUc0MVV6V2F1Wk1GYkl3OTU5MVYyakNFOFNNYW5mTDIzV1BZc0tHdmxWelR1WTczX2VzbWpRaXUycFN0TVo1WDVjemdOYXJZ?oc=5"
-    },
-    {
-      "title": "台積電漲25元收2465今日最高　台股漲255點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwaVU1aE5jV2lHSjFrUksyRTQxUmhHa1RMQkdvQU81NTNUcmRhRDRRUTlvSmVLRUt0OTY1aEw3RGozSlcteHJwczY4RXNaNGVRaEHSAW5BVV95cUxNa2JwMWdleHBrS09Bc1pZM0daNDJPbGRVb1pkQy1JQ3VTQ3A3eUVEX3FtTU5TWHY2WjdTTG1URmZNVHdLR1hXQ1lPUk96U2tGRmV6TkhhYi1ub0NMRU1MelFocUY2YmxpYThKV3JWZw?oc=5"
-    },
-    {
-      "title": "台股連47天「兆元行情」破功！崩盤前兆嗎？專家解析 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQNkk3dTYzbC1qQkJoU3lOQWxGc010enQ3eW15aDV5TmZuLWVyYmluRC1lSFh1VVYtWXFVWVFDRV9sejdlR09HaXFSSkRZYkM3Mk5uTTdyTm1DMFpIRkZHMjlORldJS05RS09aVFVCTG5YcUhtSUd1Q1hsREdyQVVEOXh0V2FVUF9TS05Wd1dYd1JZRmhWdTBaQTRSLTBMYW5Nb0V2Zk5vejhFQ09Ic1l0UnVyeGNLdnYwbjJnWi1lWVM3UEZnc1FJYTF0Sm1DaHlsQTFWT1ZCOFhTVDAxUV9UbU0tYVNycmxhV1lTNWpCYkJ4Sk1lcVU3ZlVYLTd4VlY3OXdnY3R6R0hteXBoS09yeW5kNkVUVlp1Tm5nbWNyQjFfbjV6Q1BLY2t6Y3dzTzFPV0VIN1lKenpBVU1MbkN0NWhMWEJ6MDBhY3lqdFBDZXg0bi1lcmt2X09UZmlydkhfWERfTjlWOEVPQXJnUDRjWXR3?oc=5"
-    },
-    {
-      "title": "美股收盤》油價漲、晶片股領跌！費半跌近5％ 台積電ADR下殺逾4％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80MG9lMnk1d2otLVlTcnNWSHQtUmRSa05ZVnJtUnJiemV3Wm51ckJhQk5FNWowQ3NvYm1uY202YUxkUC1zWEFQMHgxR3pGZDlGNGV2bEJCMUVmU2toM3lB0gFkQVVfeXFMTUMzbFVhdDlrWG9KemIwV09melh1WTNXTzVTcHVtTzZTQlhHc2gxTHpfLXB6aW5TQXdzRjZ2VWI3WU1JQjY5ZnpTS3ltSzJ4bVhnX3g0eXkyblBtN2VjNmdYT29kWg?oc=5"
     }
   ]
 }
