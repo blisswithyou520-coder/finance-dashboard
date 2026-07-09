@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/09 18:43",
+  "updated_tw": "07/10 01:33",
   "taiwan": {
     "2330": {
       "price": 2415.0,
-      "change": -50.0,
-      "changePercent": -2.0284
+      "change": -25.0,
+      "changePercent": -1.0246
     },
     "2454": {
       "price": 3925.0,
-      "change": -70.0,
-      "changePercent": -1.7522
+      "change": -105.0,
+      "changePercent": -2.6055
     },
     "2317": {
       "price": 237.5,
-      "change": 0.0,
-      "changePercent": 0.0
+      "change": 0.5,
+      "changePercent": 0.211
     },
     "0050": {
       "price": 105.8,
-      "change": -0.25,
-      "changePercent": -0.2357
+      "change": -0.4,
+      "changePercent": -0.3766
     },
     "00878": {
       "price": 33.19,
-      "change": -0.01,
-      "changePercent": -0.0301
+      "change": 0.22,
+      "changePercent": 0.6673
     },
     "00919": {
       "price": 29.97,
-      "change": 0.03,
-      "changePercent": 0.1002
+      "change": 0.35,
+      "changePercent": 1.1816
     }
   },
   "us": {
     "NVDA": {
-      "price": 204.12,
-      "change": 7.19,
-      "changePercent": 3.651
+      "price": 202.97,
+      "change": -1.15,
+      "changePercent": -0.5634
     },
     "AAPL": {
-      "price": 313.39,
-      "change": 2.73,
-      "changePercent": 0.8788
+      "price": 314.69,
+      "change": 1.3,
+      "changePercent": 0.4148
     },
     "TSLA": {
-      "price": 394.06,
-      "change": -8.84,
-      "changePercent": -2.1941
+      "price": 403.735,
+      "change": 9.675,
+      "changePercent": 2.4552
     },
     "QQQ": {
-      "price": 711.44,
-      "change": 2.01,
-      "changePercent": 0.2833
+      "price": 723.69,
+      "change": 12.25,
+      "changePercent": 1.7219
     },
     "SPY": {
-      "price": 745.4,
-      "change": -2.31,
-      "changePercent": -0.3089
+      "price": 751.7,
+      "change": 6.3,
+      "changePercent": 0.8452
     },
     "SCHD": {
-      "price": 32.34,
-      "change": -0.2,
-      "changePercent": -0.6146
+      "price": 32.315,
+      "change": -0.025,
+      "changePercent": -0.0773
     },
     "VOO": {
-      "price": 685.26,
-      "change": -1.82,
-      "changePercent": -0.2649
+      "price": 690.94,
+      "change": 5.68,
+      "changePercent": 0.8289
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62815.86,
-      "change": 558.2858,
-      "changePercent": 0.8967
+      "price": 62762.01,
+      "change": 504.4358,
+      "changePercent": 0.8102
     },
     "ETH": {
-      "price": 1750.62,
-      "change": 7.9424,
-      "changePercent": 0.4558
+      "price": 1740.5,
+      "change": -2.1776,
+      "changePercent": -0.125
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.197,
-      "change": 0.0611,
-      "changePercent": 0.1901
+      "price": 32.088,
+      "change": -0.0479,
+      "changePercent": -0.1491
     },
     "JPYTWD": {
-      "price": 0.196,
-      "change": -0.0019,
-      "changePercent": -0.9731
+      "price": 0.1959,
+      "change": -0.002,
+      "changePercent": -1.0236
     },
     "EURTWD": {
-      "price": 36.84,
-      "change": 0.2033,
-      "changePercent": 0.5548
+      "price": 36.814,
+      "change": 0.1773,
+      "changePercent": 0.4839
     },
     "CNYTWD": {
-      "price": 4.7457,
+      "price": 4.7367,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4112.9,
-    "twd": 4257.0,
-    "tael": 159656.0,
-    "twdTotal": 132423.0,
-    "changePercent": 1.0317
+    "usd": 4137.3,
+    "twd": 4268.0,
+    "tael": 160060.0,
+    "twdTotal": 132758.0,
+    "changePercent": 1.6311
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,20 @@
   },
   "news": [
     {
-      "title": "美股收盤／川普宣告美伊停火終結油價急漲 博通、輝達帶動費半反彈2.2% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GdjFYUms4TzEyeC1FZ3VCS1J5WDFrUVhjbnZNQTg2emVmQU11SnJuM2xBV08xWWY5ZFh0TDRfVWV1M2FOeTEtUnU1YUpaUU9HajlfbTVuWEU0aU1z0gFiQVVfeXFMTzdubzZXLXNzUU05M1RjZ3ZETlBfQWk3N0lhVWhhN0JxeUV6YXZlcVBpQTVhZTNHVHBkRWJpcDJzRENfY1dIUkxzNTBfa1pZalhZalV2SUxqdzg4cEF3VTE4WXc?oc=5"
+      "title": "SK海力士7/10美股上市！SKHY股票怎麼買？對美光影響一次看－商周頭條｜商周 - 商周",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDOW5jaDYxX1Q4cFdVdmxaRDhKRDVfVGdadzVJX0gwNWw0YWdtcFVqcEd3T2M2OFA4TDZRSWx1aEFrVnJsdkVyQjhPam5QaTBzWDNVVGh4WTJIbGV1YmNpdWVB?oc=5"
+    },
+    {
+      "title": "黃金繼續跌！壞消息又來 華爾街大行突大砍「目標價」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tb19PMXhUYTZNU2tQNFZqd2Rob0lQR3A1anVHN3lpYlBjemNVU0F6cTcwQVZ6d04td0NBMEdUVFllQ3o0ZUJiT0RTX2poa1MzbEt5d1NZQm1SMk53cTZv0gFkQVVfeXFMUERsTnZxVGtYdEpyY041MHc5UTRJLWlIb0FVN2Nla1JBeHltdFl6Z0NXbmRoSDZtdXFINlVvSmdhYmdncWpjWjNRbWVscC1rSFlDYXYxanh0REZfOWdoRFdzN1Jlag?oc=5"
     },
     {
       "title": "黃金又跌！觸7月以來新低 美銀下修目標價 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQcjlWYTFtN0NHLUhkWW5nOU9jcFdXampXemdxRFlXOFFTTTZpWkU5VGNwZHRHQ1huc1ZiZzlsa2cyY1o3MGstLUdmRVV5OWNhMVhibDNYRE1aSFNHU00wTzhVd0M5U3BhaXc2VXRUNHZxRGViZ2ZuTFE5dWk3clpuSV9HTWxjZi1HNVJ3UkhkMDZCYk1CdDBMUzZscG9nd2dSQmFOd0JKRFUzMUdxT1RwdndGVFFiVnpRZFQ3NFVFZ0NKX05pdzZlMFFUUE5nTWl1eXd5aW5VSTNoeWRyOGxSeVdGcXFvc29Udk1OMk1JRnhsRHh1dGxUWVVwRmQ0MjBvdEpBTWtlOThURDNXakJNbVpYTHIxSUJsY01yVi1SVUZYMzg?oc=5"
     },
     {
-      "title": "黃金繼續跌！壞消息又來 華爾街大行突大砍「目標價」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tb19PMXhUYTZNU2tQNFZqd2Rob0lQR3A1anVHN3lpYlBjemNVU0F6cTcwQVZ6d04td0NBMEdUVFllQ3o0ZUJiT0RTX2poa1MzbEt5d1NZQm1SMk53cTZv0gFkQVVfeXFMUERsTnZxVGtYdEpyY041MHc5UTRJLWlIb0FVN2Nla1JBeHltdFl6Z0NXbmRoSDZtdXFINlVvSmdhYmdncWpjWjNRbWVscC1rSFlDYXYxanh0REZfOWdoRFdzN1Jlag?oc=5"
+      "title": "美股收盤／川普宣告美伊停火終結油價急漲 博通、輝達帶動費半反彈2.2% - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GdjFYUms4TzEyeC1FZ3VCS1J5WDFrUVhjbnZNQTg2emVmQU11SnJuM2xBV08xWWY5ZFh0TDRfVWV1M2FOeTEtUnU1YUpaUU9HajlfbTVuWEU0aU1z0gFiQVVfeXFMTzdubzZXLXNzUU05M1RjZ3ZETlBfQWk3N0lhVWhhN0JxeUV6YXZlcVBpQTVhZTNHVHBkRWJpcDJzRENfY1dIUkxzNTBfa1pZalhZalV2SUxqdzg4cEF3VTE4WXc?oc=5"
     },
     {
       "title": "〈美股盤後〉川普稱伊朗協議「已結束」標普收低 輝達、博通領軍費半漲超2% - news.cnyes.com",
@@ -134,19 +138,15 @@
     },
     {
       "title": "中國抄底黃金？央行6月狂買15噸 - 日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUWgxUGdxQVYtQUJGb0xpSzdQclVZNERJV0hrbG1ENk40RlYxY2REcDA5SjRzM0N3RG10RGJsYThmUVFCbmx6RTJybnVfNjU2aGFSdG9kY1hQcUV6ckRpT2pwSHhpdklqRmJyUF9IUW9FYkJrSFFvRkN2TWVDQ1MtbTY5TnJVMHdza3NtaG9ha2xrQm1S?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRE9Qb2NKVGQzTlVHQThrS3RiR091YndHQXNNbHBhU2oyeVBlY2lzZ29mbzR5MGlZTld5cndQakcxMHVzRk1fMjlXWXEtUk9yb3c5bUs0SVlxemUwd0tFSG5NbXFzOFRPN3YxaWFKeVFnVHBDUHE5VDJzdUtwYzN1MFlsUVh6UzlmVnc?oc=5"
     },
     {
-      "title": "美伊停火生變！美股收黑576點　台指期夜盤翻紅震盪逾1400點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85SHAyQUx6WnV0Y0NiT29LQ01kV3NKYjFfQkszanl5Q09oSWpURWw2azlfOS05b3I3OWtORUdKUFI3eThLWjRVdHNrSW1LdlUtZ2fSAW5BVV95cUxNbkZZdS1hQzlBU240dXA4T1I2MDYtNlJkWktCSl9ZYzc1bF8xdGFCajUwelJZSVVLVE91U0N3T2xZakdvUjQwVldpd3JCcWRrT3VhZTlyRGdZcmJ5Z2tlMFlDYkhNNVpaVUdBbDJuUQ?oc=5"
+      "title": "台股弱中帶強 公股連七買 法人預期本月走勢將「倒吃甘蔗」 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQ0VwYjZGbmNYelFza1ZiV3FjcTlnQ1lvcGwzbnQ2eEczSFR5OHgzMlQwWmhMb1BUN0VqN0dPb0djZVF5RlZyMXJpWFQ2bXplOXh3TjA0T3lUUdIBX0FVX3lxTFBGUE1TamlDYUlXOExURmxoTEQycUtWZFNzNlFSbXZvcHhTM1hYcEMtb1UxdXlXTUd2NTNQbzd0ZjBDSnZkQnFFa1QwMWxiS0Z5TWZIVENGMDJGSVlBN2dj?oc=5"
     },
     {
-      "title": "美股財報好，股價為什麼還會跌？6 個原因看懂利多出盡與市場預期｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOR3RQZHJTeDVZZ0NjdXFISzhyTGt1X0FXTVVVdC1ycjRNdTh0aWQ0cXBxVXVuUnI5Si05b2RPSWVyUFFvR3NwZHNIdFRwbmpBV1BjNmpld1E4eEVnQ2hMSEZTOWc2a2RyUDJyMV9GR3VQM0hpNFgwMHFiaDRFWEI2WUZ3SERwcEFWNG45MVRNY09ncWpaaGVnOWc1dG1BYjlwZlQwUjZRNGFUczNtamhUR1ZjeXA0NXp2Q2piQ1RGNGZHYzExQXZWM29KbFRjaGVtUkJienltdG1EUkpKdTkxR25nTWIyaDNsNFBuWm1mX1JJclJudDNfWGpKRGE5TlMtY0VMbmFCU3BGaWM3aFlnc1Q1aFIxYm94TklQeFNyTFgzR3JNZEVyWXB5TkVCM0dFUjhmLVZOeHFoTHlQVlZ2bG5sN2JFNExpcjRvcjBwTkVJcWJKekFkbkhhOXYtODk5a1RuaFdOUzVjQ010MXBFbHE2aklMWWtVM2Jqb05HWU9YYzQwTEJqWHNPNE4wLUdSdUhXZHBsNmE4SGpsZmJ4cG5ZcnJxRjJwMXlkMzFxdmdUMnZhUUFXTTlISU9zT01KWUhZcGdsSHp6dlRpc3BRcg?oc=5"
-    },
-    {
-      "title": "俄羅斯黃金儲備跌破3000億美元，連續6個月縮水 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTRyVkJ5VFBuMll4WGR6bTFIdm5ZRGNQanpxdlJSZEM0THlQRGtvUmtwMGJWM0dEamNvMnYzdlNtNUNVdDRpUHlUcmhYY3BUZVQyLV9FMTJRZ1ZGR2w2ZTBRZWVWXzlNQ1pzSzE4RklTdTNjNVJ3U01qTDZlYnhLZUtNVm9Tb2VhbzZfZDlkOA?oc=5"
+      "title": "美股收盤》美伊停火生變 美股漲跌互見 台積電ADR漲1.02％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jTjcxT0VuZjRwckhkQ0RHdkJfYWJlcXI1cFVfbmFodTdQcDhfdGFVWEdoSUE4QzREY3BDd1ptX1cxOTcxRG1TaVB3N3RBTWN1Tm1uUHF0VVBfZ3VDY1hN0gFkQVVfeXFMTmVhYnNFbS0zNFZKZFJMdGxhTlN5SUI2bzZoY1VFT3BfX190VmJWOHV4ejM4OHhCbkRXenZCdTFWa3NGNDZhOWw0SWQzYXNYWDIxcmFRM3ZxY2J3Z181YkxlLWRUbg?oc=5"
     }
   ]
 }
