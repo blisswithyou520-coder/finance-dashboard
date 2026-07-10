@@ -1,16 +1,16 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/11 01:23",
+  "updated_tw": "07/11 05:33",
   "taiwan": {
     "2330": {
       "price": 2415.0,
-      "change": -50.0,
-      "changePercent": -2.0284
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "2454": {
       "price": 3925.0,
-      "change": -70.0,
-      "changePercent": -1.7522
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "2317": {
       "price": 237.5,
@@ -35,68 +35,68 @@
   },
   "us": {
     "NVDA": {
-      "price": 209.95,
-      "change": 7.17,
-      "changePercent": 3.5359
+      "price": 210.96,
+      "change": 8.18,
+      "changePercent": 4.0339
     },
     "AAPL": {
-      "price": 314.335,
-      "change": -1.885,
-      "changePercent": -0.5961
+      "price": 315.32,
+      "change": -0.9,
+      "changePercent": -0.2846
     },
     "TSLA": {
-      "price": 410.008,
-      "change": 3.458,
-      "changePercent": 0.8506
+      "price": 407.76,
+      "change": 1.21,
+      "changePercent": 0.2976
     },
     "QQQ": {
-      "price": 725.2062,
-      "change": 1.9262,
-      "changePercent": 0.2663
+      "price": 725.51,
+      "change": 2.23,
+      "changePercent": 0.3083
     },
     "SPY": {
-      "price": 753.97,
-      "change": 2.26,
-      "changePercent": 0.3006
+      "price": 754.95,
+      "change": 3.24,
+      "changePercent": 0.431
     },
     "SCHD": {
-      "price": 32.35,
-      "change": 0.09,
-      "changePercent": 0.279
+      "price": 32.4,
+      "change": 0.14,
+      "changePercent": 0.434
     },
     "VOO": {
-      "price": 693.04,
-      "change": 2.35,
-      "changePercent": 0.3402
+      "price": 693.86,
+      "change": 3.17,
+      "changePercent": 0.459
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63873.36,
-      "change": 680.2116,
-      "changePercent": 1.0764
+      "price": 63940.75,
+      "change": 747.6016,
+      "changePercent": 1.183
     },
     "ETH": {
-      "price": 1790.31,
-      "change": 45.8254,
-      "changePercent": 2.6269
+      "price": 1792.72,
+      "change": 48.2354,
+      "changePercent": 2.765
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.104,
-      "change": -0.0052,
-      "changePercent": -0.0162
+      "price": 32.099,
+      "change": 0.0018,
+      "changePercent": 0.0056
     },
     "JPYTWD": {
-      "price": 0.1966,
-      "change": -0.0009,
-      "changePercent": -0.4779
+      "price": 0.1963,
+      "change": -0.0014,
+      "changePercent": -0.6911
     },
     "EURTWD": {
-      "price": 36.728,
-      "change": 0.0548,
-      "changePercent": 0.1495
+      "price": 36.681,
+      "change": -0.0183,
+      "changePercent": -0.0498
     },
     "CNYTWD": {
       "price": 4.7436,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4113.2,
-    "twd": 4246.0,
-    "tael": 159207.0,
-    "twdTotal": 132050.0,
-    "changePercent": -0.4212
+    "usd": 4128.9,
+    "twd": 4261.0,
+    "tael": 159789.0,
+    "twdTotal": 132534.0,
+    "changePercent": -0.0412
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,16 @@
   },
   "news": [
     {
+      "title": "股市VIP - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1GbEQ1N3dJeFVPd004VmJEN3VWN24zemNSS2dPQ2RYWnY2N2dVN0xfcEIwVFJKdmZ1TFJVUGQ3MG0?oc=5"
+    },
+    {
       "title": "美股早盤／SK海力士上市倒數！中東情勢仍受注目 費半跌1%、Meta勁揚6% - 聯合新聞網",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZYUttWVF5amJvVFJ5bG9SVFpZNmUwMWtObHhUX1NxVW1VUGhNaGZ5VGJ2MUxET21kR3oxYTQzR3FnQV9sRkU3VTBkLVY3Z1BI?oc=5"
     },
     {
-      "title": "投資人關注南韓SK海力士那指掛牌表現 美股三大指數開盤漲跌互見 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNTzYxQWVLQTE1Wl9sazN3ZXJVVW9mX2FqeGVIek9wdzJrZ0ZPeEhjaFpxaUxJWjN6QXVIX1pxQzkxMGdpM1VtbEgzZkVLYkRnMWpGU1A0WG50TVJPUkx3UTV3Nk90NU9ZdWswSlhKNGRubjliNndfS1p5Q2htbFJiMHI5emlNSkxtdHNjbTZrYXZKcW50dFROa1ZwLVlidzdRZWl0OUk1V0xDcFRUSGpVR1dUeWlLd3RKR2lFblFkUzBSYWFxYmtId1lHSy1oaERQNmlZZFA5aHNmS3V1Y3FLaXI1YjZZUTFCeHU0Q2lUTjhHNUY2cGh6RjQ2d3g0TDhxcHM0NngxRGdwc1FCYkFfUGJsazc4UmQ3aFl2U2NzMXd2Y0szbENoVS1HSVI4X1h2alRVRVVwTTMzcWFTc1JqUlA0dnV3R2RuZk9QOUJqUllSYjExMzB6T1dmZTJXLUVtdzdXR0RKS2FMQkk5OVhWQ1dqNFpLR1k0VGZlV2pYTkF2MU9QQll4YS1mV0FtWm1aZlZCc19veW5nbVI4ZVBBWDdieFhRbkRhVmVlRG1qaw?oc=5"
+      "title": "SK海力士7/10美股上市！SKHY怎麼買？對美光影響、風險一次看 - 商周",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDOW5jaDYxX1Q4cFdVdmxaRDhKRDVfVGdadzVJX0gwNWw0YWdtcFVqcEd3T2M2OFA4TDZRSWx1aEFrVnJsdkVyQjhPam5QaTBzWDNVVGh4WTJIbGV1YmNpdWVB?oc=5"
     },
     {
       "title": "〈美股早盤〉主要指數平盤震盪 SK海力士那斯達克首秀受矚 - news.cnyes.com",
@@ -141,12 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mbnB5NEYzYlRJTXI4V3RwUUtsSndfSHI0c0NZMFJZM2lyME05SEpabWlTSTgzMGxWam5LUnVNZm5qekJiNVRpUjJGUXFzQXNFTERhNFBvU0Y3TzJXc3k0?oc=5"
     },
     {
-      "title": "華爾街等不及了！SK海力士才要登陸美股 選擇權最快兩天後就來了 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40LXZ2bkdNalo3bXItZlVTdFVTVXpOLXozdmtoVkJYRkJIcTBaZEV6NkF5dGRhdjVZY0hjcWJkell4RVVIWnVTYW0xa00xZUE?oc=5"
-    },
-    {
-      "title": "台股波動放大 逢回可布局 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUcm5nV0dPemlQbU5IOXNjbTF6Z0V0UmJiUnIyRDMwaWhjZ3FQZkxCSkxLZXlBczhSRmE5Q0R0M3dQc3NBakUzMFRoSE9kaHloSHlCaFVvblhmQdIBX0FVX3lxTE90OXl1Njk0aFBmVzFhSnJWcWtzZzdnYWYxVEtnNVNmTDZjcUw0eUpqRkJTLWJMLXdDUGxwcUhqWFBYODNKajlsMHhxeTlqbG1CczllTG5HVFB3RjJuRUx3?oc=5"
+      "title": "美國投資人搶瘋了！SK海力士美股首秀開盤暴漲17% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQVk9KZ0RoUFlFMURadzl6Q2ZNRUQyb3lfYTNhRGotOTdxcmFPZGVsYW9ocU1qZ3pEc0x2U2ZTRmRsWjkxNmU0QzZ6ZmlYbDFwb1BuSE9aSnNwRW9JbElSTlo4Z1pYN2FCVmxJM0pWZm9zdlRhOEIxZ3RZYjBDcHZFUFpTVkduT2RCMDExSFplSTBLZEhieENrYlFjVVZPVFhEOVFwSTJNSkViOUloU2tyM0tXckpYVTZka2Z1M1VFSWE1ZTZxVEMzalpZRF9QeGlCQXcyeGl1Z0pFSWw4cEVXSzE2dXpHRF93ZGFBVk5DU0VKbXZ3bHpQczdHNjBtejBIZ3BVcmdwU2kxN1p1SDhJVlBoSTlMTFBSMkxleXFja0FMUXJHZmsxMkM0UkJnMWJTWFVyd2I1MF9QSm1ySTRCV2EwWm5vUQ?oc=5"
     }
   ]
 }
