@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/10 06:48",
+  "updated_tw": "07/10 18:36",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 105.8,
-      "change": -0.4,
-      "changePercent": -0.3766
+      "change": -0.25,
+      "changePercent": -0.2357
     },
     "00878": {
       "price": 33.19,
-      "change": 0.22,
-      "changePercent": 0.6673
+      "change": -0.01,
+      "changePercent": -0.0301
     },
     "00919": {
       "price": 29.97,
-      "change": 0.35,
-      "changePercent": 1.1816
+      "change": 0.03,
+      "changePercent": 0.1002
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63297.01,
-      "change": 1039.4358,
-      "changePercent": 1.6696
+      "price": 64367.98,
+      "change": 1174.8316,
+      "changePercent": 1.8591
     },
     "ETH": {
-      "price": 1748.6,
-      "change": 5.9224,
-      "changePercent": 0.3398
+      "price": 1797.15,
+      "change": 52.6654,
+      "changePercent": 3.019
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.102,
-      "change": -0.0072,
-      "changePercent": -0.0224
+      "price": 32.121,
+      "change": 0.0118,
+      "changePercent": 0.0368
     },
     "JPYTWD": {
-      "price": 0.1955,
-      "change": -0.002,
-      "changePercent": -1.0347
+      "price": 0.1964,
+      "change": -0.0011,
+      "changePercent": -0.5791
     },
     "EURTWD": {
-      "price": 36.747,
-      "change": 0.0738,
-      "changePercent": 0.2013
+      "price": 36.766,
+      "change": 0.0928,
+      "changePercent": 0.2531
     },
     "CNYTWD": {
-      "price": 4.7325,
+      "price": 4.7462,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4133.1,
-    "twd": 4266.0,
-    "tael": 159967.0,
-    "twdTotal": 132681.0,
-    "changePercent": 1.5279
+    "usd": 4117.6,
+    "twd": 4252.0,
+    "tael": 159461.0,
+    "twdTotal": 132261.0,
+    "changePercent": -0.3147
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "SK海力士7/10美股上市！SKHY怎麼買？對美光影響、風險一次看－商周頭條｜商周 - 商周",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDOW5jaDYxX1Q4cFdVdmxaRDhKRDVfVGdadzVJX0gwNWw0YWdtcFVqcEd3T2M2OFA4TDZRSWx1aEFrVnJsdkVyQjhPam5QaTBzWDNVVGh4WTJIbGV1YmNpdWVB?oc=5"
+      "title": "黃金大漲！但最新「預測價」又被下調了 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9peWpoU1RsMV9LMjdvS2FKSy1zU3AzeEZmbUllUDNONFJOX0M1VFBpZURQN2FnYzRQOGYzLW1NZk9fVjUyUmFyYWh1Qm5xMWJGLXA1UHV6Skt3WFQtSFd30gFkQVVfeXFMT1VoYzgxQWhSVDk4WW9FZ2pVaW9xQXIyYVhXOXhKbVpMUWNTWjlpR2dRXzZuY0VOclhUWTEwUzE3Um9jb0F5cmRkVTNtYkY4WEtuSUZ1WHhnU0hXVTdGSERrdkZfYQ?oc=5"
     },
     {
-      "title": "台股交易制度迎變革 金管會促券商三面向強化系統 - 台視全球資訊網",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVTF5d2puY2lubmJvWERzaUtXQWctYW0yc1RZSkRiT1B3TEZNdUZIaWdKT1pXUjNaZGxJU0pjV09MV19DUWttTFZvOGxqdU1KNXZzOWw3WTFQTndfcThxS0FYT204R2R3Q3NldUVqNTdVS1YyQlhKZ0NIUGRVSUFxaTVOSWdmUWdEdFRDY05STzRvc3p3UEdvcEZTMG0?oc=5"
-    },
-    {
-      "title": "黃金又跌！觸7月以來新低 美銀下修目標價 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQcjlWYTFtN0NHLUhkWW5nOU9jcFdXampXemdxRFlXOFFTTTZpWkU5VGNwZHRHQ1huc1ZiZzlsa2cyY1o3MGstLUdmRVV5OWNhMVhibDNYRE1aSFNHU00wTzhVd0M5U3BhaXc2VXRUNHZxRGViZ2ZuTFE5dWk3clpuSV9HTWxjZi1HNVJ3UkhkMDZCYk1CdDBMUzZscG9nd2dSQmFOd0JKRFUzMUdxT1RwdndGVFFiVnpRZFQ3NFVFZ0NKX05pdzZlMFFUUE5nTWl1eXd5aW5VSTNoeWRyOGxSeVdGcXFvc29Udk1OMk1JRnhsRHh1dGxUWVVwRmQ0MjBvdEpBTWtlOThURDNXakJNbVpYTHIxSUJsY01yVi1SVUZYMzg?oc=5"
-    },
-    {
-      "title": "台股弱中帶強 公股連七買 法人預期本月走勢將「倒吃甘蔗」 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQ0VwYjZGbmNYelFza1ZiV3FjcTlnQ1lvcGwzbnQ2eEczSFR5OHgzMlQwWmhMb1BUN0VqN0dPb0djZVF5RlZyMXJpWFQ2bXplOXh3TjA0T3lUUdIBX0FVX3lxTFBGUE1TamlDYUlXOExURmxoTEQycUtWZFNzNlFSbXZvcHhTM1hYcEMtb1UxdXlXTUd2NTNQbzd0ZjBDSnZkQnFFa1QwMWxiS0Z5TWZIVENGMDJGSVlBN2dj?oc=5"
-    },
-    {
-      "title": "黃金繼續跌！壞消息又來 華爾街大行突大砍「目標價」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tb19PMXhUYTZNU2tQNFZqd2Rob0lQR3A1anVHN3lpYlBjemNVU0F6cTcwQVZ6d04td0NBMEdUVFllQ3o0ZUJiT0RTX2poa1MzbEt5d1NZQm1SMk53cTZv0gFkQVVfeXFMUERsTnZxVGtYdEpyY041MHc5UTRJLWlIb0FVN2Nla1JBeHltdFl6Z0NXbmRoSDZtdXFINlVvSmdhYmdncWpjWjNRbWVscC1rSFlDYXYxanh0REZfOWdoRFdzN1Jlag?oc=5"
+      "title": "夜盤走揚、美股領漲！「台股放颱風假」這群人哀號 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNX3hfT3d1T1ZCdnk0aU1EV1gtOE4zbEJXNkxwREQ2OTRHcUsycHVyVzlWUnhRZGNyeEFDNGkyUFg2WF9ndEZ6bVkxWjRhS2tpSlhtcTJ6N0pfakMtbjJZajZsc1dSZ2VkWmxjU3Z5S2lDeFpQSFpXVVBXOGUybWN4aENqeEhkd1JuN1pldWJ1MjIzYlVibHctUXp5U0J3WnVKeEcxdnM5SS1uZFBBRjZkSXcxN2pwMVBJdGJmOUxkRDg5a0FQQWllNDV6LWdOa19sQldfMl9FYWxXdjVGODhSOE1PNVZwa0J4NGExal9TRTREVHQxZzg0TVBHT3prM0h1UVBJd09aRXVESkZLYVhMVWVQM2FvNGNiZ09qZjNGbEJSNGd3TEozTzVleGljQ3dKSFg3azlxMktEeGhtMHRrSnRkUmdjU1VuRUhFd25vTi1MU1Vqdm1FcGMtX1ZoX3V6eEpCNzRFNEoxWF9wMWhZ?oc=5"
     },
     {
       "title": "〈美股盤後〉AI熱潮蓋過中東戰火 費半彈升超3% SK海力士赴美IPO受矚 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlRUhtbEVHQkhkWlluYXhENmhJSWtHb1EzS1RGTTVla1RnenhBaDdrZElpcVV4WHk2RVRJMjFIREh2NER1a1ZRaFczWnNoNVE?oc=5"
     },
     {
-      "title": "正2、科技領跑台股ETF績效優- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtVVcyUFRxWjZPanhUOEctZE5KUmZENU56cFhFZGo1eURIMkRHN2VXZHZHYnpsZE9qbUloVVRjVDBtZUN5ejViYTEwR2Jtb0dGOV9xZExMREdSM1dtcU13?oc=5"
+      "title": "黃金暴跌之際逆勢買入！波蘭央行今年已增持82噸，劍指700噸 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeXpQSm83MG5xVVdCRDhLZXBfNnoyUUFNdDNSTTRLZnQ1cVJPNFdOWHhnbkdBSHk0MWdHOF9mVW5BNDNsbFpQbHMxeDRsQjh2U1NVTUlwN283cDBLVVVIRGc1MVdsU1NnU2FGanFsbEhISDJ2cFlEWHozWTFEdHNoaHJ3czJpN0d1TEZ6bXFrSQ?oc=5"
     },
     {
-      "title": "美股財報好，股價為什麼還會跌？6 個原因看懂利多出盡與市場預期｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOR3RQZHJTeDVZZ0NjdXFISzhyTGt1X0FXTVVVdC1ycjRNdTh0aWQ0cXBxVXVuUnI5Si05b2RPSWVyUFFvR3NwZHNIdFRwbmpBV1BjNmpld1E4eEVnQ2hMSEZTOWc2a2RyUDJyMV9GR3VQM0hpNFgwMHFiaDRFWEI2WUZ3SERwcEFWNG45MVRNY09ncWpaaGVnOWc1dG1BYjlwZlQwUjZRNGFUczNtamhUR1ZjeXA0NXp2Q2piQ1RGNGZHYzExQXZWM29KbFRjaGVtUkJienltdG1EUkpKdTkxR25nTWIyaDNsNFBuWm1mX1JJclJudDNfWGpKRGE5TlMtY0VMbmFCU3BGaWM3aFlnc1Q1aFIxYm94TklQeFNyTFgzR3JNZEVyWXB5TkVCM0dFUjhmLVZOeHFoTHlQVlZ2bG5sN2JFNExpcjRvcjBwTkVJcWJKekFkbkhhOXYtODk5a1RuaFdOUzVjQ010MXBFbHE2aklMWWtVM2Jqb05HWU9YYzQwTEJqWHNPNE4wLUdSdUhXZHBsNmE4SGpsZmJ4cG5ZcnJxRjJwMXlkMzFxdmdUMnZhUUFXTTlISU9zT01KWUhZcGdsSHp6dlRpc3BRcg?oc=5"
+      "title": "警報未除！分析：比特幣 7 月漲勢僅為「熊市反彈」，多頭趨勢尚未確立 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWtGMERGRVhDeWZ4VjFXU2RUeGNwREMwbVVSSVFhcl84ZlN1RTZrZUdqckppekVsWE9pdVRQbXlVeU1aelJ4U1lSdndRLTd1TXE1MjV0WUxMMGJSaTlzYTJkRFdxcVZnQVduN1ZVa0ZnYmJObDNXbE83eUNCaVVPdDRZb2NUTy1DMEdqdy1sSWV4YTZ3WG4ydWU4a19pWDZXQTJmMmEwUUZFWWk2WE9LTlpaNVpOMUlCRnRtM3NPNHptZw?oc=5"
+    },
+    {
+      "title": "2026年7月台股ETF配息排行：00961奪冠、00892殖利率破10%，00929、0056、0050、006208投資亮點與績效整理！ - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQSEZ1VjNyZGxFSEthQV9WVVpiYUV1a2xZODAyNEttc2VBSGphVE1LTG1IYWY4bEE4a1FwOTQ0aHdidVRKTWhhOG1lcFA0QzdwdlhkUTZURmVHcy0xSkNVMU5za1hYRnlzY2RRUG5rNVQ0bGdEUnVqVVNPWVYxYUp6MTIwMHlRVjFJUlRBa2ZXcHVITGNSRk5uR2JfcW5MMmdiYUlQT3NkdUxLUXFNYU1QTC1Qd2hvSmFGRFBFZzIyNnRlTk5rb3E5Y0JvYU81NnNxSi1fd29IaUxYRG52MzBHUGNGMjM4QWM1bzV1blUxRWpwc1hpZ1N2Y1pWTFNOMDJTekt4dGxqcERJVG9KWXp0T0kzLVdIZlFrc2l2UmQ5MDcyRG9RQ3VLb3o5R1R6dlRRTDZCY3V0YzdZb1YzTFo2dHNOeE45OUZXX1JqR2l3RC04Z240NVBBUlF6QVJ3YjdVazZMa1hWaWZha25aeUNHaTV3Y09WZFdvRlBtTFFLN2tZRUpzRnhSOGJOTGFJWDhTb2NEQ0N4b3Z1NW5EZTdsc21GQ280RUlrQlJNeFFIVVUxMWRIM1lSeXdLbnhIQ0FTVWZVb05nZHdfa19TZndv?oc=5"
+    },
+    {
+      "title": "美股收盤／AI 賣壓拖累美股收低 費半重挫4.7% 荷莫茲再傳攻擊推升油價和殖利率 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55Q05HaFk1V2RnZkEyVUFYRWl2c05ZNUFFLUVELTJ0Yy1vT2NNeGhmOVZSektFeGdNZ1BvVHl2cTM5TTNHYXJsUkV2UWZTdWZkbmdKNktVdW45SFJt0gFiQVVfeXFMTkx3TVZiOGVVSjVPZW9YQ25OY1VUNEdMX195R202ZHZydjRLRXlFUTlqaldjT2dQeHhrcFdwMmU3anVOb2RuMTV3NnNPZW5ITzhCWXJBSEZYdTdNdEZhVUJBQ3c?oc=5"
+    },
+    {
+      "title": "高三生突耳鳴罹患耳中風 黃金72小時搶救聽力|新創臺灣 | 僑新聞OCAC NEWS - OCACnews",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YOTlMS1lkd0x0Uk9uYmlfS2ZnQUdHQWMwX3M5TnBWRno4RDY5YmQzeklGS2FHNk1mUjA2cW1yOG9HRGxoeGVUVjREQQ?oc=5"
     }
   ]
 }
