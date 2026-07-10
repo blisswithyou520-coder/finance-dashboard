@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/10 18:36",
+  "updated_tw": "07/11 01:23",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 202.78,
-      "change": -1.34,
-      "changePercent": -0.6565
+      "price": 209.95,
+      "change": 7.17,
+      "changePercent": 3.5359
     },
     "AAPL": {
-      "price": 316.22,
-      "change": 2.83,
-      "changePercent": 0.903
+      "price": 314.335,
+      "change": -1.885,
+      "changePercent": -0.5961
     },
     "TSLA": {
-      "price": 406.55,
-      "change": 12.49,
-      "changePercent": 3.1696
+      "price": 410.008,
+      "change": 3.458,
+      "changePercent": 0.8506
     },
     "QQQ": {
-      "price": 723.28,
-      "change": 11.84,
-      "changePercent": 1.6642
+      "price": 725.2062,
+      "change": 1.9262,
+      "changePercent": 0.2663
     },
     "SPY": {
-      "price": 751.71,
-      "change": 6.31,
-      "changePercent": 0.8465
+      "price": 753.97,
+      "change": 2.26,
+      "changePercent": 0.3006
     },
     "SCHD": {
-      "price": 32.26,
-      "change": -0.08,
-      "changePercent": -0.2474
+      "price": 32.35,
+      "change": 0.09,
+      "changePercent": 0.279
     },
     "VOO": {
-      "price": 690.69,
-      "change": 5.43,
-      "changePercent": 0.7924
+      "price": 693.04,
+      "change": 2.35,
+      "changePercent": 0.3402
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64367.98,
-      "change": 1174.8316,
-      "changePercent": 1.8591
+      "price": 63873.36,
+      "change": 680.2116,
+      "changePercent": 1.0764
     },
     "ETH": {
-      "price": 1797.15,
-      "change": 52.6654,
-      "changePercent": 3.019
+      "price": 1790.31,
+      "change": 45.8254,
+      "changePercent": 2.6269
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.121,
-      "change": 0.0118,
-      "changePercent": 0.0368
+      "price": 32.104,
+      "change": -0.0052,
+      "changePercent": -0.0162
     },
     "JPYTWD": {
-      "price": 0.1964,
-      "change": -0.0011,
-      "changePercent": -0.5791
+      "price": 0.1966,
+      "change": -0.0009,
+      "changePercent": -0.4779
     },
     "EURTWD": {
-      "price": 36.766,
-      "change": 0.0928,
-      "changePercent": 0.2531
+      "price": 36.728,
+      "change": 0.0548,
+      "changePercent": 0.1495
     },
     "CNYTWD": {
-      "price": 4.7462,
+      "price": 4.7436,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4117.6,
-    "twd": 4252.0,
-    "tael": 159461.0,
-    "twdTotal": 132261.0,
-    "changePercent": -0.3147
+    "usd": 4113.2,
+    "twd": 4246.0,
+    "tael": 159207.0,
+    "twdTotal": 132050.0,
+    "changePercent": -0.4212
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "美股早盤／SK海力士上市倒數！中東情勢仍受注目 費半跌1%、Meta勁揚6% - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZYUttWVF5amJvVFJ5bG9SVFpZNmUwMWtObHhUX1NxVW1VUGhNaGZ5VGJ2MUxET21kR3oxYTQzR3FnQV9sRkU3VTBkLVY3Z1BI?oc=5"
+    },
+    {
+      "title": "投資人關注南韓SK海力士那指掛牌表現 美股三大指數開盤漲跌互見 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNTzYxQWVLQTE1Wl9sazN3ZXJVVW9mX2FqeGVIek9wdzJrZ0ZPeEhjaFpxaUxJWjN6QXVIX1pxQzkxMGdpM1VtbEgzZkVLYkRnMWpGU1A0WG50TVJPUkx3UTV3Nk90NU9ZdWswSlhKNGRubjliNndfS1p5Q2htbFJiMHI5emlNSkxtdHNjbTZrYXZKcW50dFROa1ZwLVlidzdRZWl0OUk1V0xDcFRUSGpVR1dUeWlLd3RKR2lFblFkUzBSYWFxYmtId1lHSy1oaERQNmlZZFA5aHNmS3V1Y3FLaXI1YjZZUTFCeHU0Q2lUTjhHNUY2cGh6RjQ2d3g0TDhxcHM0NngxRGdwc1FCYkFfUGJsazc4UmQ3aFl2U2NzMXd2Y0szbENoVS1HSVI4X1h2alRVRVVwTTMzcWFTc1JqUlA0dnV3R2RuZk9QOUJqUllSYjExMzB6T1dmZTJXLUVtdzdXR0RKS2FMQkk5OVhWQ1dqNFpLR1k0VGZlV2pYTkF2MU9QQll4YS1mV0FtWm1aZlZCc19veW5nbVI4ZVBBWDdieFhRbkRhVmVlRG1qaw?oc=5"
+    },
+    {
+      "title": "〈美股早盤〉主要指數平盤震盪 SK海力士那斯達克首秀受矚 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xaUM4aThpZU4xRURibWRWTnhGX2xyT1RPakRJSFFseDRxaFA4WUxCVzRhWDZvUkQzTkgyZHcyN2tOdTNxalNsVnd5VWQwQ2s?oc=5"
+    },
+    {
       "title": "黃金大漲！但最新「預測價」又被下調了 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9peWpoU1RsMV9LMjdvS2FKSy1zU3AzeEZmbUllUDNONFJOX0M1VFBpZURQN2FnYzRQOGYzLW1NZk9fVjUyUmFyYWh1Qm5xMWJGLXA1UHV6Skt3WFQtSFd30gFkQVVfeXFMT1VoYzgxQWhSVDk4WW9FZ2pVaW9xQXIyYVhXOXhKbVpMUWNTWjlpR2dRXzZuY0VOclhUWTEwUzE3Um9jb0F5cmRkVTNtYkY4WEtuSUZ1WHhnU0hXVTdGSERrdkZfYQ?oc=5"
     },
     {
-      "title": "夜盤走揚、美股領漲！「台股放颱風假」這群人哀號 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNX3hfT3d1T1ZCdnk0aU1EV1gtOE4zbEJXNkxwREQ2OTRHcUsycHVyVzlWUnhRZGNyeEFDNGkyUFg2WF9ndEZ6bVkxWjRhS2tpSlhtcTJ6N0pfakMtbjJZajZsc1dSZ2VkWmxjU3Z5S2lDeFpQSFpXVVBXOGUybWN4aENqeEhkd1JuN1pldWJ1MjIzYlVibHctUXp5U0J3WnVKeEcxdnM5SS1uZFBBRjZkSXcxN2pwMVBJdGJmOUxkRDg5a0FQQWllNDV6LWdOa19sQldfMl9FYWxXdjVGODhSOE1PNVZwa0J4NGExal9TRTREVHQxZzg0TVBHT3prM0h1UVBJd09aRXVESkZLYVhMVWVQM2FvNGNiZ09qZjNGbEJSNGd3TEozTzVleGljQ3dKSFg3azlxMktEeGhtMHRrSnRkUmdjU1VuRUhFd25vTi1MU1Vqdm1FcGMtX1ZoX3V6eEpCNzRFNEoxWF9wMWhZ?oc=5"
+      "title": "特朗普的華爾街狂熱：將美股當做“政績表”，個人賬戶一季度大賺 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTZmRkd6VFhKX09ZajI2V0hqWjE0eC1oY0MzVmdLRnFUMXlIUzd6NW5sblZVRXdNRlVDR0wyYXZFbTVudUZldUU1WUFaQk5PT3dIZXpvcWwyTEFjQkNqanhzWjFQSDd0SDkwanBCc1lpX1FDMFFQT1RYVEp1cDdzR0FJbWgtWGVKTERaaHBKWQ?oc=5"
     },
     {
-      "title": "〈美股盤後〉AI熱潮蓋過中東戰火 費半彈升超3% SK海力士赴美IPO受矚 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlRUhtbEVHQkhkWlluYXhENmhJSWtHb1EzS1RGTTVla1RnenhBaDdrZElpcVV4WHk2RVRJMjFIREh2NER1a1ZRaFczWnNoNVE?oc=5"
+      "title": "SK海力士ADR登陸那斯達克美股10日漲跌互見- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mbnB5NEYzYlRJTXI4V3RwUUtsSndfSHI0c0NZMFJZM2lyME05SEpabWlTSTgzMGxWam5LUnVNZm5qekJiNVRpUjJGUXFzQXNFTERhNFBvU0Y3TzJXc3k0?oc=5"
     },
     {
-      "title": "黃金暴跌之際逆勢買入！波蘭央行今年已增持82噸，劍指700噸 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeXpQSm83MG5xVVdCRDhLZXBfNnoyUUFNdDNSTTRLZnQ1cVJPNFdOWHhnbkdBSHk0MWdHOF9mVW5BNDNsbFpQbHMxeDRsQjh2U1NVTUlwN283cDBLVVVIRGc1MVdsU1NnU2FGanFsbEhISDJ2cFlEWHozWTFEdHNoaHJ3czJpN0d1TEZ6bXFrSQ?oc=5"
+      "title": "華爾街等不及了！SK海力士才要登陸美股 選擇權最快兩天後就來了 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40LXZ2bkdNalo3bXItZlVTdFVTVXpOLXozdmtoVkJYRkJIcTBaZEV6NkF5dGRhdjVZY0hjcWJkell4RVVIWnVTYW0xa00xZUE?oc=5"
     },
     {
-      "title": "警報未除！分析：比特幣 7 月漲勢僅為「熊市反彈」，多頭趨勢尚未確立 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWtGMERGRVhDeWZ4VjFXU2RUeGNwREMwbVVSSVFhcl84ZlN1RTZrZUdqckppekVsWE9pdVRQbXlVeU1aelJ4U1lSdndRLTd1TXE1MjV0WUxMMGJSaTlzYTJkRFdxcVZnQVduN1ZVa0ZnYmJObDNXbE83eUNCaVVPdDRZb2NUTy1DMEdqdy1sSWV4YTZ3WG4ydWU4a19pWDZXQTJmMmEwUUZFWWk2WE9LTlpaNVpOMUlCRnRtM3NPNHptZw?oc=5"
-    },
-    {
-      "title": "2026年7月台股ETF配息排行：00961奪冠、00892殖利率破10%，00929、0056、0050、006208投資亮點與績效整理！ - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQSEZ1VjNyZGxFSEthQV9WVVpiYUV1a2xZODAyNEttc2VBSGphVE1LTG1IYWY4bEE4a1FwOTQ0aHdidVRKTWhhOG1lcFA0QzdwdlhkUTZURmVHcy0xSkNVMU5za1hYRnlzY2RRUG5rNVQ0bGdEUnVqVVNPWVYxYUp6MTIwMHlRVjFJUlRBa2ZXcHVITGNSRk5uR2JfcW5MMmdiYUlQT3NkdUxLUXFNYU1QTC1Qd2hvSmFGRFBFZzIyNnRlTk5rb3E5Y0JvYU81NnNxSi1fd29IaUxYRG52MzBHUGNGMjM4QWM1bzV1blUxRWpwc1hpZ1N2Y1pWTFNOMDJTekt4dGxqcERJVG9KWXp0T0kzLVdIZlFrc2l2UmQ5MDcyRG9RQ3VLb3o5R1R6dlRRTDZCY3V0YzdZb1YzTFo2dHNOeE45OUZXX1JqR2l3RC04Z240NVBBUlF6QVJ3YjdVazZMa1hWaWZha25aeUNHaTV3Y09WZFdvRlBtTFFLN2tZRUpzRnhSOGJOTGFJWDhTb2NEQ0N4b3Z1NW5EZTdsc21GQ280RUlrQlJNeFFIVVUxMWRIM1lSeXdLbnhIQ0FTVWZVb05nZHdfa19TZndv?oc=5"
-    },
-    {
-      "title": "美股收盤／AI 賣壓拖累美股收低 費半重挫4.7% 荷莫茲再傳攻擊推升油價和殖利率 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55Q05HaFk1V2RnZkEyVUFYRWl2c05ZNUFFLUVELTJ0Yy1vT2NNeGhmOVZSektFeGdNZ1BvVHl2cTM5TTNHYXJsUkV2UWZTdWZkbmdKNktVdW45SFJt0gFiQVVfeXFMTkx3TVZiOGVVSjVPZW9YQ25OY1VUNEdMX195R202ZHZydjRLRXlFUTlqaldjT2dQeHhrcFdwMmU3anVOb2RuMTV3NnNPZW5ITzhCWXJBSEZYdTdNdEZhVUJBQ3c?oc=5"
-    },
-    {
-      "title": "高三生突耳鳴罹患耳中風 黃金72小時搶救聽力|新創臺灣 | 僑新聞OCAC NEWS - OCACnews",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YOTlMS1lkd0x0Uk9uYmlfS2ZnQUdHQWMwX3M5TnBWRno4RDY5YmQzeklGS2FHNk1mUjA2cW1yOG9HRGxoeGVUVjREQQ?oc=5"
+      "title": "台股波動放大 逢回可布局 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUcm5nV0dPemlQbU5IOXNjbTF6Z0V0UmJiUnIyRDMwaWhjZ3FQZkxCSkxLZXlBczhSRmE5Q0R0M3dQc3NBakUzMFRoSE9kaHloSHlCaFVvblhmQdIBX0FVX3lxTE90OXl1Njk0aFBmVzFhSnJWcWtzZzdnYWYxVEtnNVNmTDZjcUw0eUpqRkJTLWJMLXdDUGxwcUhqWFBYODNKajlsMHhxeTlqbG1CczllTG5HVFB3RjJuRUx3?oc=5"
     }
   ]
 }
