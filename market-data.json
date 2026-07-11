@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/11 05:33",
+  "updated_tw": "07/11 14:06",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 105.8,
-      "change": -0.25,
-      "changePercent": -0.2357
+      "change": -0.0,
+      "changePercent": -0.0
     },
     "00878": {
       "price": 33.19,
-      "change": -0.01,
-      "changePercent": -0.0301
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "00919": {
       "price": 29.97,
-      "change": 0.03,
-      "changePercent": 0.1002
+      "change": 0.0,
+      "changePercent": 0.0
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63940.75,
-      "change": 747.6016,
-      "changePercent": 1.183
+      "price": 64129.9,
+      "change": 936.7516,
+      "changePercent": 1.4824
     },
     "ETH": {
-      "price": 1792.72,
-      "change": 48.2354,
-      "changePercent": 2.765
+      "price": 1796.28,
+      "change": 51.7954,
+      "changePercent": 2.9691
     }
   },
   "fx": {
@@ -99,7 +99,7 @@
       "changePercent": -0.0498
     },
     "CNYTWD": {
-      "price": 4.7436,
+      "price": 4.7406,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "股市VIP - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1GbEQ1N3dJeFVPd004VmJEN3VWN24zemNSS2dPQ2RYWnY2N2dVN0xfcEIwVFJKdmZ1TFJVUGQ3MG0?oc=5"
+      "title": "SK海力士7/10美股上市！SKHY怎麼買？對美光影響、風險一次看 - 商周",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDOW5jaDYxX1Q4cFdVdmxaRDhKRDVfVGdadzVJX0gwNWw0YWdtcFVqcEd3T2M2OFA4TDZRSWx1aEFrVnJsdkVyQjhPam5QaTBzWDNVVGh4WTJIbGV1YmNpdWVB?oc=5"
+    },
+    {
+      "title": "美股收盤》SK海力士掛牌大漲13％！道瓊漲149點 台積電ADR下跌 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pUTBfLWtPWXBtLXB5VXByN0dXVVF1emdpck5GdkZneEx1ZTJfVC1HeExJenFueG1LcE5MYkk5eGM5aGRJbktDSXRTblE3dGhJaGZETFVvckxRbmJvQ2JJ0gFkQVVfeXFMTTg0S3JlLV9mdlhaYkd2d1l2Z0tTU2xfTFJyODdaVVRQdHZhQ0lFa2pQTDdZNWtjeVRXZTlYX3gtV1RvRFJqckF4X3ZpaWRheG05b3JzX1ZmTXpDV1R6aWJ5MWhlSw?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉SK海力士首秀飆近13% AI股回神 標普那指收紅 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zWEVSQlFFSkRKODhxWHROaFRkcHV4dDl4TUlLOFliR2dMOHVrYi04dlVhU2hSRmpWMjBrbWtvVjliTEVLWXhNWno3MnZ3UUE?oc=5"
+    },
+    {
+      "title": "美國投資人搶瘋了！SK海力士美股首秀開盤暴漲17% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQVk9KZ0RoUFlFMURadzl6Q2ZNRUQyb3lfYTNhRGotOTdxcmFPZGVsYW9ocU1qZ3pEc0x2U2ZTRmRsWjkxNmU0QzZ6ZmlYbDFwb1BuSE9aSnNwRW9JbElSTlo4Z1pYN2FCVmxJM0pWZm9zdlRhOEIxZ3RZYjBDcHZFUFpTVkduT2RCMDExSFplSTBLZEhieENrYlFjVVZPVFhEOVFwSTJNSkViOUloU2tyM0tXckpYVTZka2Z1M1VFSWE1ZTZxVEMzalpZRF9QeGlCQXcyeGl1Z0pFSWw4cEVXSzE2dXpHRF93ZGFBVk5DU0VKbXZ3bHpQczdHNjBtejBIZ3BVcmdwU2kxN1p1SDhJVlBoSTlMTFBSMkxleXFja0FMUXJHZmsxMkM0UkJnMWJTWFVyd2I1MF9QSm1ySTRCV2EwWm5vUQ?oc=5"
     },
     {
       "title": "美股早盤／SK海力士上市倒數！中東情勢仍受注目 費半跌1%、Meta勁揚6% - 聯合新聞網",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZYUttWVF5amJvVFJ5bG9SVFpZNmUwMWtObHhUX1NxVW1VUGhNaGZ5VGJ2MUxET21kR3oxYTQzR3FnQV9sRkU3VTBkLVY3Z1BI?oc=5"
     },
     {
-      "title": "SK海力士7/10美股上市！SKHY怎麼買？對美光影響、風險一次看 - 商周",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDOW5jaDYxX1Q4cFdVdmxaRDhKRDVfVGdadzVJX0gwNWw0YWdtcFVqcEd3T2M2OFA4TDZRSWx1aEFrVnJsdkVyQjhPam5QaTBzWDNVVGh4WTJIbGV1YmNpdWVB?oc=5"
+      "title": "17歲少女、18歲男「投宿旅館卻失聯」 台南黃金海岸尋獲已成浮屍 ●自殺防治諮詢安心專線：1925；生命線協談專線：1995 - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxNdVZ3VzFyVDVqa1B6YWNvSzFMWndycnBuYmU0X3dtVHBTVS1xc3N5a3B6T3FmOWN1Yy03dlNGS0hmb2swQjFJZGJnNTVFX3pib2wwVkpCSTE4dkxwRVYzMVhLLWNfcG9QTnVoOC1ld3lENFQxY2l3dnVhc3Rna0dzOE5kWTQ2RTV3RGRvWmtyb09uOUd0ZEtBVF9JQzYzUjZ3UjRoTS1NY3E3NlprV2J2ODVGYzJoLVI3MEtrdmJFWnlLZTdYSUtqZVp6ZmlXdHJaZnd1SmlRMHFuRXI3dXBIMWFmemlIeVJnaXZDZk5HNUFSNEM0TWV6TGsyYlBFYmFKU3hYVllhVURiSGt2S2R2bnFWaEdkVGV3RjNYNXVBWW4xZlJZVnQ2Y3h6UmpRcW1wcjdqemg0MDJBLWNWaDlwSnQ3OVM5b013NkJ5YzVfWmhPdjVGSmt6RE55RTJSenpaNXZIRVlwUTFQbEV6MWktU28tSVRsSnhwM2xudC1BUGxfSExwVFVyWVcyTWVVbUExVmFXY0QyRnZXOGh1WXpIR19ULTdWcDI4RDVrM2dlenBrQTRDNU5OU2ZMQmwxQjZwTHd6czBuMUI4dkpCOFBYTHl6UjZaLWJlLU42ZkJpd05rSld2SENiSXlpeExFSTJaNmI3aGNXdjZPd0ZERGhqeWNGM3FQdklEcG9PaC1mWDZFbmdMbGpCaUVJYWFMLUFoTHBmOTVENENRRjdhRWotd09WNUc3WWd2dy1STXVpemt3WnZGVDV4UjB1LWVDSHl3Z2FsS1dhd1VtVl9pZnlGMU5UcGwzdw?oc=5"
     },
     {
-      "title": "〈美股早盤〉主要指數平盤震盪 SK海力士那斯達克首秀受矚 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xaUM4aThpZU4xRURibWRWTnhGX2xyT1RPakRJSFFseDRxaFA4WUxCVzRhWDZvUkQzTkgyZHcyN2tOdTNxalNsVnd5VWQwQ2s?oc=5"
+      "title": "年輕男女投宿旅館後失聯 台南黃金海岸尋獲雙雙身亡 - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVc3g1eFVHSS1DemlqLXFkRTQwWUlYQThJNngydUppNTVMVWFzVDlZd2g2MWJkQWRfZGJfLXJyV3hCVUp6a3kyYXRhYVNkM043SzFTaTNn?oc=5"
     },
     {
-      "title": "黃金大漲！但最新「預測價」又被下調了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9peWpoU1RsMV9LMjdvS2FKSy1zU3AzeEZmbUllUDNONFJOX0M1VFBpZURQN2FnYzRQOGYzLW1NZk9fVjUyUmFyYWh1Qm5xMWJGLXA1UHV6Skt3WFQtSFd30gFkQVVfeXFMT1VoYzgxQWhSVDk4WW9FZ2pVaW9xQXIyYVhXOXhKbVpMUWNTWjlpR2dRXzZuY0VOclhUWTEwUzE3Um9jb0F5cmRkVTNtYkY4WEtuSUZ1WHhnU0hXVTdGSERrdkZfYQ?oc=5"
-    },
-    {
-      "title": "特朗普的華爾街狂熱：將美股當做“政績表”，個人賬戶一季度大賺 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTZmRkd6VFhKX09ZajI2V0hqWjE0eC1oY0MzVmdLRnFUMXlIUzd6NW5sblZVRXdNRlVDR0wyYXZFbTVudUZldUU1WUFaQk5PT3dIZXpvcWwyTEFjQkNqanhzWjFQSDd0SDkwanBCc1lpX1FDMFFQT1RYVEp1cDdzR0FJbWgtWGVKTERaaHBKWQ?oc=5"
-    },
-    {
-      "title": "SK海力士ADR登陸那斯達克美股10日漲跌互見- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mbnB5NEYzYlRJTXI4V3RwUUtsSndfSHI0c0NZMFJZM2lyME05SEpabWlTSTgzMGxWam5LUnVNZm5qekJiNVRpUjJGUXFzQXNFTERhNFBvU0Y3TzJXc3k0?oc=5"
-    },
-    {
-      "title": "美國投資人搶瘋了！SK海力士美股首秀開盤暴漲17% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQVk9KZ0RoUFlFMURadzl6Q2ZNRUQyb3lfYTNhRGotOTdxcmFPZGVsYW9ocU1qZ3pEc0x2U2ZTRmRsWjkxNmU0QzZ6ZmlYbDFwb1BuSE9aSnNwRW9JbElSTlo4Z1pYN2FCVmxJM0pWZm9zdlRhOEIxZ3RZYjBDcHZFUFpTVkduT2RCMDExSFplSTBLZEhieENrYlFjVVZPVFhEOVFwSTJNSkViOUloU2tyM0tXckpYVTZka2Z1M1VFSWE1ZTZxVEMzalpZRF9QeGlCQXcyeGl1Z0pFSWw4cEVXSzE2dXpHRF93ZGFBVk5DU0VKbXZ3bHpQczdHNjBtejBIZ3BVcmdwU2kxN1p1SDhJVlBoSTlMTFBSMkxleXFja0FMUXJHZmsxMkM0UkJnMWJTWFVyd2I1MF9QSm1ySTRCV2EwWm5vUQ?oc=5"
+      "title": "比特幣 MACD 浮現看漲訊號 盤中衝上 6.3 萬美元劍指 7 萬 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeHQ2eUFYY3FGZ0lUS2tlUmQ1TGtkZE4tNUExNGVaM1NjUy1SSjltYkwySnd6T2swWER1bTEyZWgzY01ub3lReGVHeEJKbEN5clY4YjJjVE9RdFloUEVkT0NIcU80ZklRWUtaOHlJbVMwalpCYy1PMVJJY0Y5S1hEN3JlX2VfWEtfdmtDRFhmM3NoMXVqLUp2ZWNNaTBCUmVFb3VvSXhwdWdjVnhlRnhyaDg0LTRMTk5TSUR3VWNtZXpNQ1NHWWhySzRxRGhidTNJc2FibV9vOFZpdlk1MVc1Y3d0WGxlaWxKTlVNNzlVZTN2REhvdk9EWk1JS016VVV1d1p3?oc=5"
     }
   ]
 }
