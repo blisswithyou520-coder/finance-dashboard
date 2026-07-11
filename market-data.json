@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/11 18:41",
+  "updated_tw": "07/11 22:36",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64095.55,
-      "change": -31.5906,
-      "changePercent": -0.0493
+      "price": 64402.23,
+      "change": 275.0894,
+      "changePercent": 0.429
     },
     "ETH": {
-      "price": 1795.64,
-      "change": -0.0532,
-      "changePercent": -0.003
+      "price": 1810.32,
+      "change": 14.6268,
+      "changePercent": 0.8145
     }
   },
   "fx": {
@@ -99,17 +99,17 @@
       "changePercent": -0.0498
     },
     "CNYTWD": {
-      "price": 4.7406,
+      "price": 4.7436,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4128.9,
-    "twd": 4261.0,
-    "tael": 159789.0,
-    "twdTotal": 132534.0,
-    "changePercent": -0.0412
+    "usd": 4113.7,
+    "twd": 4245.0,
+    "tael": 159201.0,
+    "twdTotal": 132046.0,
+    "changePercent": -0.4091
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,24 +125,24 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pUTBfLWtPWXBtLXB5VXByN0dXVVF1emdpck5GdkZneEx1ZTJfVC1HeExJenFueG1LcE5MYkk5eGM5aGRJbktDSXRTblE3dGhJaGZETFVvckxRbmJvQ2JJ0gFkQVVfeXFMTTg0S3JlLV9mdlhaYkd2d1l2Z0tTU2xfTFJyODdaVVRQdHZhQ0lFa2pQTDdZNWtjeVRXZTlYX3gtV1RvRFJqckF4X3ZpaWRheG05b3JzX1ZmTXpDV1R6aWJ5MWhlSw?oc=5"
     },
     {
+      "title": "美股科技股領軍走揚 國銀：慎防短線回檔、長線看好 AI - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qbE9SWUJEa0tObi1neXZoVHZyYW9CVHAtVVp6dHdsbFViVFJRSEhaRm9NeWhCdF9Xb1ZkMHJiMjd0emlnblNDVjlxLVJaUkc10gFWQVVfeXFMTTQ4WF9lVEplVlp3V1dqVFBDN1N0SEtEbUpNRm5DNGdoaEYzN0x1R1lBWk1GQUs1WXlPNy0yQ3lwVkFSQzUwNzAxejlmV3RUdzJUR0Z4U2c?oc=5"
+    },
+    {
       "title": "〈美股盤後〉SK海力士首秀飆近13% AI股回神 標普那指收紅 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zWEVSQlFFSkRKODhxWHROaFRkcHV4dDl4TUlLOFliR2dMOHVrYi04dlVhU2hSRmpWMjBrbWtvVjliTEVLWXhNWno3MnZ3UUE?oc=5"
     },
     {
-      "title": "中部青少年情侶檔騎車南下命喪台南黃金海岸 檢警相驗釐死因 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsMjBfYTYyZmt2M0hwMlZXSW5KNm5yMXRrN3ZDSG5wZU9XLTYwX0MxaWZsYWh1VE9pUnF3WS1qTElsTkE4bjh5a2tCdlFCbklP0gFWQVVfeXFMT2JQYTk3NWg2OVZuTzdWcS13dUQtRkJHXzJkZ2RUMUFTVllKLVAyWnE1WEhGdE40SFc3T3ZKbnljNU9ybU9VWjJHdTVUVzdCR1FnMDMyS0E?oc=5"
+      "title": "台股重挫1426.01點！外資狠賣「這96萬受益人主動ETF」破20萬張…0050也難逃「它」剛每股配0.63元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOQndqaE1nSUJzZFhweEV6VTZ5VEloRncxdVVLWUkycTVVVFdRbGxpandyMzI3Z2tTTEJMQ0JSb0JTYWZSTTJlbVBfWFRNWjZrUGNaS1NHVmRDWDNQbGxac09PVDNVZXowRlZVY085LWFaUkpRNDFhMkVSM3JlYkRUdnNOWjNpLVVrNWZIbVNBQms0XzhyOU8tU2pCd0xZUkNZLXl1N3lMRHJaYkx6TUJNRnhITHBVUnRFVnhWamdiSkpWQkpUeEEzRmJWSzM3WldIZE5qYW9BQ3RUMzBRSHdQTEFMWHowNklObEJ6UUpickM3TjJyLUFqOVBBUjRuQjFoMVB4RDJPaEYydXZMY1NGSWxFMHRnNXZIX0N2WHpVUkZUdHVmOEt1RUFUSWhfQXBrTkxWTWVUeFJtU0l1VXUwaEpDNUNDSDk2Sk4zY0ZGYlNwamwzbUE?oc=5"
     },
     {
-      "title": "美國投資人搶瘋了！SK海力士美股首秀開盤暴漲17% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQVk9KZ0RoUFlFMURadzl6Q2ZNRUQyb3lfYTNhRGotOTdxcmFPZGVsYW9ocU1qZ3pEc0x2U2ZTRmRsWjkxNmU0QzZ6ZmlYbDFwb1BuSE9aSnNwRW9JbElSTlo4Z1pYN2FCVmxJM0pWZm9zdlRhOEIxZ3RZYjBDcHZFUFpTVkduT2RCMDExSFplSTBLZEhieENrYlFjVVZPVFhEOVFwSTJNSkViOUloU2tyM0tXckpYVTZka2Z1M1VFSWE1ZTZxVEMzalpZRF9QeGlCQXcyeGl1Z0pFSWw4cEVXSzE2dXpHRF93ZGFBVk5DU0VKbXZ3bHpQczdHNjBtejBIZ3BVcmdwU2kxN1p1SDhJVlBoSTlMTFBSMkxleXFja0FMUXJHZmsxMkM0UkJnMWJTWFVyd2I1MF9QSm1ySTRCV2EwWm5vUQ?oc=5"
+      "title": "黃金價格回檔30%後 法人對下半年走勢看法分歧 - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02em53OUVVNnlZN2cwUEdfcWJXeEJZQzc2aE1oZnZJYy1INU9UYktKSjY4OTNNVDRObzNQQTFRZlBRVEU5QkYtQ0haSVRLYlBG0gFWQVVfeXFMTmppQWxkS1J4TU5ueFV5Y0RhOXByNDdVNWtvSGc0cldoSENWTlg4Mldwckg0WXQ5SnowVU5leWwzMnpiSkdLbmtNRF9UR3ZLTzl3Zk1xMnc?oc=5"
     },
     {
-      "title": "美股早盤／SK海力士上市倒數！中東情勢仍受注目 費半跌1%、Meta勁揚6% - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZYUttWVF5amJvVFJ5bG9SVFpZNmUwMWtObHhUX1NxVW1VUGhNaGZ5VGJ2MUxET21kR3oxYTQzR3FnQV9sRkU3VTBkLVY3Z1BI?oc=5"
-    },
-    {
-      "title": "半導體漲多失寵！大摩急尋台股避風港「點名這3大族群」接棒 它擁20%潛在報酬看俏 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPY1F5TUh0Q0J5OUpYYktQa2VoZHNPbGFWRmJHZXJYX2liNVVzZFpUaXBTSFFGWjVhOGxsME8tdko0bWpOdUhvZ0xPNGlLbDZtbmxULUpPellyZlctVUFJdHJMdGRITWhUTTJiblA5TVZrZFA0WXMzb3pPbmVBcjlaNHFvdnBCa2RTMDlxNTBzdXR4U1dtRlNuODlmS3JvbEUyamdkQzVBVFAzVzN4a2dYZWlaNDJhcTRMckNaRU9KcG54SVF5aE5aWlRrb2VxZVpxMTJPODdlSFlybl9GYmlRc2hJMXdlVS1uZlV1RC1tUEdsaUdSX0xORXVZQ09wOFVjSnJHamNyYVlUZDF5Yk15REpNMFdpcjZnamRGWFlEUXFJUWxHX2ZkYlBGellNbHN5bTdiaWVseHhCQnVhUEN2MlJiX0pReVFQdGtGZTk4bXdqaDFRdzJHYWJlaTFhVFZXNzlRMnlVeWNUVW9PSHRNcHZQRjdZWS11N1BFZklwN1IzSm5JaHZaalJ3M2hVZldVam5sNkMxWHZVTTJo?oc=5"
+      "title": "周末精選｜台股熱絡延長交易時間聲浪再起 專家點出兩大問題待克服 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOZlItV0V1bzhvWk1RQ25wSXJmSWRMbHBmYlNCbUZlWTFRV3RRTWdyaEc2YjBZa1YxR1FQcEpNeUJleVVHX1BHeUVOdDUtOFZLenVCdHFFZTJicjgwUVZ3RGhScUtvU2FYU3V5WW5BME1LYkRkT3VZSjNsVVRtdHVrdkNSY1o2MUZRRzlsU0xORGg5TEV4UjJrTS0tSlo0M1hrMXVCUmw2Z29QeG44Yk5jTDVCWVB5S1RXcTdsY1otbkZQMGc2Tk9sUHJuRHhhTGkzaE5faWxQNjFSYlZSNmVuV3VaS05SZkxWaTVxNllXN1JsT2h6eVlfVWgyTnNwX09kOFIwclZzS2dfSm9HUUZfc0U5QjRkbnFCOTFJR1Z4TjEtVnA1YzRRZDRDTlIxcVo5aDVaMjE0Z3N6OWdnbkJfQ2ZtN2xxOE5wUDNMWUU1RTUtSGtYVFpDLW9tUklxemdTMkljMDY0VzgzQkF2Mi1pODBIcFBLaGx3RExpQ3VUZUtyM19QejlrRjZEVXBtTWJfVEZ5dm9pN3JJMkJpVkF0b0ZsYkdzSjJtRjlWTkVZcDNBdw?oc=5"
     },
     {
       "title": "美股平靜是假象？瑞銀：市場脆弱度逼近滿檔 財報季恐引爆VIX飆升 - news.cnyes.com",
