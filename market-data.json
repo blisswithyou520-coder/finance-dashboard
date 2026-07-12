@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/13 05:49",
+  "updated_tw": "07/13 06:47",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63923.01,
-      "change": 120.9827,
-      "changePercent": 0.1896
+      "price": 63758.0,
+      "change": -44.0273,
+      "changePercent": -0.069
     },
     "ETH": {
-      "price": 1812.9,
-      "change": 24.8004,
-      "changePercent": 1.387
+      "price": 1800.63,
+      "change": 12.5304,
+      "changePercent": 0.7008
     }
   },
   "fx": {
@@ -89,27 +89,27 @@
       "changePercent": 0.0025
     },
     "JPYTWD": {
-      "price": 0.1962,
-      "change": -0.0015,
-      "changePercent": -0.7417
+      "price": 0.196,
+      "change": -0.0017,
+      "changePercent": -0.8428
     },
     "EURTWD": {
-      "price": 36.651,
-      "change": -0.0483,
-      "changePercent": -0.1316
+      "price": 36.61,
+      "change": -0.0893,
+      "changePercent": -0.2433
     },
     "CNYTWD": {
-      "price": 4.7404,
+      "price": 4.7435,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4113.7,
-    "twd": 4245.0,
-    "tael": 159196.0,
-    "twdTotal": 132042.0,
-    "changePercent": -0.4091
+    "usd": 4090.3,
+    "twd": 4221.0,
+    "tael": 158291.0,
+    "twdTotal": 131290.0,
+    "changePercent": -0.3363
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,6 +121,10 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GaGlJR1ZZSXJvcU5Ca1RvdXBidkZTNUFPRWJmUzMzU1BjTXZWbWxsTGpoN2tCa0JtSnRBd3dFY0pFSWlVR1MweVdCOXNlLTZUVkJPNWhGaFFGTURPaXZF0gFkQVVfeXFMUGhqR3ZMVVpXdERrVkREajE2dG0tUGFuTXdwQV9qNzl6cE9Yenl2aHR0UmdyVlFnNUlFZ2htdTVkam9fTC1NYWlrS1ZpclhqZFRlbV9sX1VleDVLMm43S1NqOWtEMQ?oc=5"
     },
     {
+      "title": "台股盤前／颱風休市美股連2日走高！台指夜盤漲633點 台股有望上演補漲 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxNYko3T2Z2TFVZVzh6cHY2TVhEUXBCQnY0cUpVWnliVl9icnlaWExlalFNSUNfalZuWE1feUFsQ2dIb2pKSUw0T0I3a1VvSGZ2MkJONjBkU1ZFTXNGYkVKWm1ORzE1UkxWWi1oeVlZT1ZXeS1VVVdKLXd3LWVGZW1FSElSMVUzSU5NcnV4Ym1wNmE1T0s1YzdFeU1Hb0xvYWMyd2R4MWhhTWZHX0IzYjlya3prSkNFaGxZR1l1WExUWjdHaTgxbHRQdzJfbUt2V05kc2FSOXd5TnBLTm1NY1lzMG0zNGcwY0Nad2c4UnZQdVREcFpYOFoxVlE2R2wwZjBHMy05UVEzZ1pWRVpQaWtReENXLUREX1FpZzAzTlE0YlpEODRRSDhKTUZFbkw2Rm5UWXRpUDZhMGdrdnM5Vmp3VW1xN0xEYlktNmNIRURKalY4bllua2VvX3E2V1l6N1Bibk12T205WXZzYm5nY2xnZXBjcTVQSFFKQjY0SmVVVWlzYjF5VHpzZXJXcU1mT1RkczJKR0dtUERnS2djSjUwNjdUVm5QM2FnOGNIeg?oc=5"
+    },
+    {
       "title": "〈台股盤前要聞〉守穩4萬5續攻月線、環球晶拿下美光長約及5億美元助擴產 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtSWk4MmFwRV9zQUpPNVFsUl9vMFdCMnhQcUUwdnJZT29KdmE3M0dSZnFVY1g3VUZwY2t3aS1iTHcyWEc2aVpPdkRhaw?oc=5"
     },
@@ -129,24 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RSDRPNDJCeFg4R0loRUo1RHg3VXktUVJVcjdOZXVtLUFmVTZEVS1scy1tQmhvaFBWZXdVaE9BWk5NaHZVTlVFcnRNcGstWkZodUc1ZXZvN1ljYVFU0gFiQVVfeXFMTzBja2cyTlNwdGRrTHpib1dqbTQ5V1pqWGQxdmhYaWpRcVotQVgwaElrYkpWeUhNS0RrRjNPNDFDTl9hZ0tmdkJ0SDh4RWEwQ2Y0UmlTV2RfZEE3aGhOeUhQaGc?oc=5"
     },
     {
-      "title": "《財經大代誌》- 亞洲生技展點火 台積電法說與美股財報重磅登場 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxORXZ5b2F2b08wMVRmVGItZ0d3M1JmZ3RoMnh2dlNZemJDc0hyS3hWYnBnT2xhRVNNdFhDOUsxMnpEcGhveU5Sb1pJWWtQc29DRmxLMTZfNi02MjVtOVpPMWRXNkNoSTVKbVJWZEIyTXJFMENaamhoUzdMLXByTGJQdElVUmpURHFMNGtXM1NraS1FVmlFZWJKTkk1SmEtUjZpTEdkbTFkN0tFVW5MdUkzeEh1UVBicEpSakhyYjlGOGZRWm5YSmJPSkdaQzV1aXA1RjZjQ1FkMXVvdWZ3Skt6TzRfOVRpcFJNYkhjWmtzOGNzSmhLNHU2VTBTeGNBb0wxVlVpR2F3X1FuVjdsTWNnS1ZRWS0tVjZWamxnd2VkeW95MjlGTDVMTnJYSFIyRnEyYzhabGdVS1NkaW55YndscjdSazJFQjFraDdaTGZrbGdhd0l4Vk11Wm5Zbm81WXN6SklBR25PUHM0bkw0Z3pzVmVaUU94aHBBM2hyNXgyZS04MW90clE2bkh5T0w0bWJndGFxOVlB?oc=5"
-    },
-    {
       "title": "財報季帶動美股ETF投資升溫- 日報 - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SWGxxQVBuQ1N1ZXdwYllLNHZrOTNJZ1BCVi0xVE82a3pVNnZHaktKSl9sbUNqaWFiYVV5UC0tZUZXdUdwUkcwcTZ1cHhFR0YzYktrcmt2czFVYVRDOS1B?oc=5"
     },
     {
+      "title": "《貴金屬》COMEX黃金下跌0.7% ETF持倉減少- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVRlRnJxMXVLM3pudGlIeFlWM2tHWVo0ZkktSHdRMm4zczNfbmJod0k2a1JpZjV3QVlQT3VRZWJSXzBWSVpGc1pUQld1NXo4WTNMSk5qUGlaeWUtZlNpT2xXa1E0WHZ1aWJWWl84dktDdVJWaEhUUV9aWWI5NGpMSU1jUnI2dDl4SjlYZjJtMUd0UQ?oc=5"
+    },
+    {
+      "title": "《財經大代誌》- 亞洲生技展點火 台積電法說與美股財報重磅登場 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxORXZ5b2F2b08wMVRmVGItZ0d3M1JmZ3RoMnh2dlNZemJDc0hyS3hWYnBnT2xhRVNNdFhDOUsxMnpEcGhveU5Sb1pJWWtQc29DRmxLMTZfNi02MjVtOVpPMWRXNkNoSTVKbVJWZEIyTXJFMENaamhoUzdMLXByTGJQdElVUmpURHFMNGtXM1NraS1FVmlFZWJKTkk1SmEtUjZpTEdkbTFkN0tFVW5MdUkzeEh1UVBicEpSakhyYjlGOGZRWm5YSmJPSkdaQzV1aXA1RjZjQ1FkMXVvdWZ3Skt6TzRfOVRpcFJNYkhjWmtzOGNzSmhLNHU2VTBTeGNBb0wxVlVpR2F3X1FuVjdsTWNnS1ZRWS0tVjZWamxnd2VkeW95MjlGTDVMTnJYSFIyRnEyYzhabGdVS1NkaW55YndscjdSazJFQjFraDdaTGZrbGdhd0l4Vk11Wm5Zbm81WXN6SklBR25PUHM0bkw0Z3pzVmVaUU94aHBBM2hyNXgyZS04MW90clE2bkh5T0w0bWJndGFxOVlB?oc=5"
+    },
+    {
       "title": "美股「大到不能倒」？ 部分專家料長期熊市將成歷史| 全球財經| 全球 - 聯合新聞網",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiR21RVENSMnRnZHJZNlVIMU1KVTRrTWlrbHMyQUJTMXVBQlhiWElBaHA2a3N5UE8wcHFtQlpDY3hqeGJZajh4WmtZMUtGd0lm?oc=5"
-    },
-    {
-      "title": "台股融資暴增160%！多頭好朋友、空頭不認識？槓桿雙面刃 小心130%斷頭線！ - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPYUpLaG5NQm83MmttcWl4VVRjQjJlT0thS2Y3VWNXOTRqRGxRSC1ScUltRXRjVVRtdDROSkdnU3JYcmcxMTM1YWQ5X3NXTS1MRFZKaWVpUXRwV1JRbGxwbDZTOFB0T09oYWlQUnZCRldib2tCeG1CZFlZQ3JyNmo5WU5oNDZUamZTdGttVXo2c25Pak9tMlhObXF2Q1RGS01KRHVCMmpQMFRQejI1Y29fbERfNXlHYlpQNnFfejdIYmVGQnNmVUNWbWg5NlZnXzhNX2hEZmFYVlpkVDA1aVluRlk3bEowcGFOWVZfU3BxSm16VHIxejUzM05aQmRKNlR5Z1dnZ0lZZEdvYnc2NGJCUDRValktY24tejlVaFZROFYtSnhTYVFzXy03MTN4TXk2U0gteXY5Z09KZTlEZG4yTkx4VktNQUdLczRYQUJnQkRoRWFBSjR6UTVmemNua0VJR2xFRnRqc1hFMTRyNmw3WlFpRXVRNWRoRWRBbg?oc=5"
-    },
-    {
-      "title": "金融三業5月台股操作互異- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iSElzUzhFb0w3bU9rY0dzUnNaWlY1T0xfZnZOV2RNMjZrZjBNR3FSb0xJU1Y2QVJjS3FCc2NOQVhmSkZ3UUUwOW9SeC1kN25KcXVHc2NWYmszMUo2ck1R?oc=5"
     }
   ]
 }
