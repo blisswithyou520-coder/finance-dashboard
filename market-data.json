@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/12 19:44",
+  "updated_tw": "07/12 23:36",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63946.72,
-      "change": 144.6927,
-      "changePercent": 0.2268
+      "price": 64086.42,
+      "change": 284.3927,
+      "changePercent": 0.4457
     },
     "ETH": {
-      "price": 1804.43,
-      "change": 16.3304,
-      "changePercent": 0.9133
+      "price": 1818.36,
+      "change": 30.2604,
+      "changePercent": 1.6923
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "SK海力士7/10美股上市！SKHY怎麼買？對美光影響、風險一次看 - 商周",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDOW5jaDYxX1Q4cFdVdmxaRDhKRDVfVGdadzVJX0gwNWw0YWdtcFVqcEd3T2M2OFA4TDZRSWx1aEFrVnJsdkVyQjhPam5QaTBzWDNVVGh4WTJIbGV1YmNpdWVB?oc=5"
-    },
-    {
-      "title": "台股暴漲! 國人\"舉債買股\"創高峰 專家:注意風控 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZjFmSzBld2xGSHh1aUxzNkw2b1pUYjRMNlRyaUNxa1lkQ2czbHkyMlpvNFNBWVEwY2VLbGVQRGFZd25DVDBJMTNmQ1h0ZVg4WEVNNy1TZ1FTdkdTQzlqNEt4UVJiY25jeWFHLWJtRXV3QWFsN19uQTJBbE8weGtPWlM4dTZqZWxHYzJvcksyUHI3NFRVdl9Xd0U5M0RwQ0ZLWjZCVDJVd051dzk4QzdUN0t3TEpuMTVaeGxwZG55bm5DdUdXQ0xVbkVlWjlJbHgzYVBBcEhXX1VpcVNDeUxVRlo4NWJEeHlxd1BudkNuSHVIZEVRblRYQmxsMUdDNXNFdXRhOWZvSk9ra2VNcnlqd0FMVVU?oc=5"
-    },
-    {
       "title": "快逃還是等抄底？黃金不妙 專家示警恐殺到每盎司3600美元 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GaGlJR1ZZSXJvcU5Ca1RvdXBidkZTNUFPRWJmUzMzU1BjTXZWbWxsTGpoN2tCa0JtSnRBd3dFY0pFSWlVR1MweVdCOXNlLTZUVkJPNWhGaFFGTURPaXZF0gFkQVVfeXFMUGhqR3ZMVVpXdERrVkREajE2dG0tUGFuTXdwQV9qNzl6cE9Yenl2aHR0UmdyVlFnNUlFZ2htdTVkam9fTC1NYWlrS1ZpclhqZFRlbV9sX1VleDVLMm43S1NqOWtEMQ?oc=5"
     },
     {
-      "title": "彰化小情侶旅館留血跡金飾雙雙命喪黃金海岸 家屬求死亡真相 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1cndqUndmRnFjdndkSDhsOXctN05PbXJrcmdrWk43dlRRR1QwSk1KQ2JacVoxX25tVzVEOGl4YU9VU2Uxa01QQjBUeWZIbHlF0gFWQVVfeXFMT0x2eHMwWjZhUkJ5WWFyTGlaZzRpWEJWeTQ5NmF6N3RFVURSZzdBZUU1SGJ1QUxrWEgyYTBmYi1pcjd0ZkFPdmNWcDlCdWlRM3RtT0lsSnc?oc=5"
+      "title": "《財經大代誌》- 亞洲生技展點火 台積電法說與美股財報重磅登場 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxORXZ5b2F2b08wMVRmVGItZ0d3M1JmZ3RoMnh2dlNZemJDc0hyS3hWYnBnT2xhRVNNdFhDOUsxMnpEcGhveU5Sb1pJWWtQc29DRmxLMTZfNi02MjVtOVpPMWRXNkNoSTVKbVJWZEIyTXJFMENaamhoUzdMLXByTGJQdElVUmpURHFMNGtXM1NraS1FVmlFZWJKTkk1SmEtUjZpTEdkbTFkN0tFVW5MdUkzeEh1UVBicEpSakhyYjlGOGZRWm5YSmJPSkdaQzV1aXA1RjZjQ1FkMXVvdWZ3Skt6TzRfOVRpcFJNYkhjWmtzOGNzSmhLNHU2VTBTeGNBb0wxVlVpR2F3X1FuVjdsTWNnS1ZRWS0tVjZWamxnd2VkeW95MjlGTDVMTnJYSFIyRnEyYzhabGdVS1NkaW55YndscjdSazJFQjFraDdaTGZrbGdhd0l4Vk11Wm5Zbm81WXN6SklBR25PUHM0bkw0Z3pzVmVaUU94aHBBM2hyNXgyZS04MW90clE2bkh5T0w0bWJndGFxOVlB?oc=5"
     },
     {
-      "title": "〈台股風向球〉周跌1426點三攻月線失利 多頭整軍待台積電法說神救援 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtMUNSQzJaNFFCbXRibkVKcXVfNmc5V3R1RzgxVUM2NkZITkNyTHpqQ2xBMUFpd1pFM1F1c1RtN3R0M2FIR0RVSDl2a0kxTmM?oc=5"
+      "title": "美股「大到不能倒」？ 部分專家料長期熊市將成歷史| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiR21RVENSMnRnZHJZNlVIMU1KVTRrTWlrbHMyQUJTMXVBQlhiWElBaHA2a3N5UE8wcHFtQlpDY3hqeGJZajh4WmtZMUtGd0lm?oc=5"
+    },
+    {
+      "title": "本週操盤筆記：美關鍵通膨與零售數據、中國GDP、美股財報季開跑 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncVRUY2R4cENFTHZFbjdMcnhSUXRKQnZMR19VZVpKMWpwSWJHQjlMODZBWlpjQnlRdnlDMnpaelVpNTJiNUt1U1djby10Tnc?oc=5"
+    },
+    {
+      "title": "台股明日開盤將大補漲？法人緊盯「3關鍵指標」：本周還有大魔王 | 張庭維 | 新聞 - 風傳媒",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Va1RsZU8tXzJnakpURUdIYmdYT3lSRGFxczBjcEdOc1ZBWVAxd0xRdjNTTU9KbzJTYldNR2c3RlJCOE5IYjlUV0JuTEtsQQ?oc=5"
     },
     {
       "title": "台股13日開市補漲？ 法人：觀察美伊衝突加溫變數| 證券 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9USkF4UWtad0FBWlBiTDJHSUtKSlQ3a0pYenN5bV83c21pSzZtTV91NWdNRzBVNU9JdTlrd0ozNGRhN0I1QkxJLVR0ejNnc2x5S1NyLWxUNTBobFo3eWc?oc=5"
     },
     {
-      "title": "Michael Saylor：钱包、节点与矿工动态平衡共同构筑比特币网络 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pek9CSkFlZ29CbGw3OFVtQXFfYXZyaGdaZ0VrVzczaGNTVDB2anZkTi02VlpSSFVKN0o1eDRjSGd3bmRFN2s2am9GYlpoSndiOFUxR2czZ204NVlHWEVRSWVXamszUQ?oc=5"
+      "title": "台股融資暴增160%！多頭好朋友、空頭不認識？槓桿雙面刃 小心130%斷頭線！ - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPYUpLaG5NQm83MmttcWl4VVRjQjJlT0thS2Y3VWNXOTRqRGxRSC1ScUltRXRjVVRtdDROSkdnU3JYcmcxMTM1YWQ5X3NXTS1MRFZKaWVpUXRwV1JRbGxwbDZTOFB0T09oYWlQUnZCRldib2tCeG1CZFlZQ3JyNmo5WU5oNDZUamZTdGttVXo2c25Pak9tMlhObXF2Q1RGS01KRHVCMmpQMFRQejI1Y29fbERfNXlHYlpQNnFfejdIYmVGQnNmVUNWbWg5NlZnXzhNX2hEZmFYVlpkVDA1aVluRlk3bEowcGFOWVZfU3BxSm16VHIxejUzM05aQmRKNlR5Z1dnZ0lZZEdvYnc2NGJCUDRValktY24tejlVaFZROFYtSnhTYVFzXy03MTN4TXk2U0gteXY5Z09KZTlEZG4yTkx4VktNQUdLczRYQUJnQkRoRWFBSjR6UTVmemNua0VJR2xFRnRqc1hFMTRyNmw3WlFpRXVRNWRoRWRBbg?oc=5"
     },
     {
-      "title": "黃金失守了 台銀示警 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OZEVyS2lWWDFxaklFT2RWVVBwX0YyX3dhdDIwWHdXYzlRWEQyazVpSnRlUkxqZHNQdlJfMjNjYWNzQWxTUGdoNFpYZzdzajdTRHAtS05qYw?oc=5"
+      "title": "彰化小情侶旅館留血跡金飾雙雙命喪黃金海岸 家屬求死亡真相 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1cndqUndmRnFjdndkSDhsOXctN05PbXJrcmdrWk43dlRRR1QwSk1KQ2JacVoxX25tVzVEOGl4YU9VU2Uxa01QQjBUeWZIbHlF0gFWQVVfeXFMT0x2eHMwWjZhUkJ5WWFyTGlaZzRpWEJWeTQ5NmF6N3RFVURSZzdBZUU1SGJ1QUxrWEgyYTBmYi1pcjd0ZkFPdmNWcDlCdWlRM3RtT0lsSnc?oc=5"
     }
   ]
 }
