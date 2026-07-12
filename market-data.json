@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/12 07:36",
+  "updated_tw": "07/12 15:48",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63849.55,
-      "change": -277.5906,
-      "changePercent": -0.4329
+      "price": 63817.98,
+      "change": 15.9527,
+      "changePercent": 0.025
     },
     "ETH": {
-      "price": 1788.29,
-      "change": -7.4032,
-      "changePercent": -0.4123
+      "price": 1796.7,
+      "change": 8.6004,
+      "changePercent": 0.481
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "SK海力士7/10美股上市！SKHY怎麼買？對美光影響、風險一次看－商周頭條｜商周 - 商周",
+      "title": "SK海力士7/10美股上市！SKHY怎麼買？對美光影響、風險一次看 - 商周",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDOW5jaDYxX1Q4cFdVdmxaRDhKRDVfVGdadzVJX0gwNWw0YWdtcFVqcEd3T2M2OFA4TDZRSWx1aEFrVnJsdkVyQjhPam5QaTBzWDNVVGh4WTJIbGV1YmNpdWVB?oc=5"
+    },
+    {
+      "title": "台股休市美股全漲 胡睿涵：留意兩大觀察指標 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95UlRBTzRwUFFZTm5oYlE2cjU0Z0ZjLVV4NEFXMklTMWk4blRWbHFDU3RyeDVLSXJIb2VNU05WcE1pWXRORW1aTjVMMkhfS01jZ21acVA2VTF0Z2s4YkRR0gFkQVVfeXFMUHZTb3J0RS1sbkpkSmYwZk9jM1lvMFh6NUo3bGQxb0JpVjFsWHNrWkpzM00tSUxHVDFMMzk0RVduMXotRGNWb1l5SVVVellXR0c0WHhlbVAyMnBUNTc1d2dCVU9vSg?oc=5"
+    },
+    {
+      "title": "〈台股風向球〉周跌1426點三攻月線失利 多頭整軍待台積電法說神救援 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtMUNSQzJaNFFCbXRibkVKcXVfNmc5V3R1RzgxVUM2NkZITkNyTHpqQ2xBMUFpd1pFM1F1c1RtN3R0M2FIR0RVSDl2a0kxTmM?oc=5"
     },
     {
       "title": "美股歷史高點就在眼前 下週迎4大考驗 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQa05PV3gtczFVa29KaklUb2pGcFJHelhWQjZjdklSXzBYdjk0SzdFYjBFZWQtejFYeWVYUHFMYlhxdkxSVjczYzBPQ3FsSThRRTdsbkdTakJSQndUOEE3SElOX0F0RlhGSmxhUUE1a00yVUtZei1wLTkyS3NERTZfMGM3UFhhUU1oM1F4ZExlSGtRQ1hxUE5DR3pnQ19YTWc0MmdCNDZTa21aeERyWXVab3BhN3BBQXhwY29PcEgwU3diTVV3YU1FUWNlZC12U2daTzc2YTNzYVhLaVdRaXRtcklSRjA1Tm12YVRwQ212dlFmUFIxc0VyWkc5c2U1algyaTEzR2pXaVJpSWFzYksycjFnaXNjZw?oc=5"
     },
     {
-      "title": "黃金價格回檔30%後 法人對下半年走勢看法分歧 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02em53OUVVNnlZN2cwUEdfcWJXeEJZQzc2aE1oZnZJYy1INU9UYktKSjY4OTNNVDRObzNQQTFRZlBRVEU5QkYtQ0haSVRLYlBG0gFWQVVfeXFMTmppQWxkS1J4TU5ueFV5Y0RhOXByNDdVNWtvSGc0cldoSENWTlg4Mldwckg0WXQ5SnowVU5leWwzMnpiSkdLbmtNRF9UR3ZLTzl3Zk1xMnc?oc=5"
+      "title": "美股早盤／SK海力士上市倒數！中東情勢仍受注目 費半跌1%、Meta勁揚6% - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZYUttWVF5amJvVFJ5bG9SVFpZNmUwMWtObHhUX1NxVW1VUGhNaGZ5VGJ2MUxET21kR3oxYTQzR3FnQV9sRkU3VTBkLVY3Z1BI?oc=5"
     },
     {
-      "title": "美股收盤》SK海力士掛牌大漲13％！道瓊漲149點 台積電ADR下跌 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pUTBfLWtPWXBtLXB5VXByN0dXVVF1emdpck5GdkZneEx1ZTJfVC1HeExJenFueG1LcE5MYkk5eGM5aGRJbktDSXRTblE3dGhJaGZETFVvckxRbmJvQ2JJ0gFkQVVfeXFMTTg0S3JlLV9mdlhaYkd2d1l2Z0tTU2xfTFJyODdaVVRQdHZhQ0lFa2pQTDdZNWtjeVRXZTlYX3gtV1RvRFJqckF4X3ZpaWRheG05b3JzX1ZmTXpDV1R6aWJ5MWhlSw?oc=5"
+      "title": "出生公民權與美寶夢／法院守住憲法防線黃金德曾孫：接納移民是美國價值| 國際 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SYnVpWWhndVZtZjBqWFB3U05Yblg5QXZZVERtei1rWW9SSVBmWUNMVDJINUtId1RUNnU1UFIxS1RFdHFPT3ZvdUNteGdGa0VCM0t5X0tUaFlRT1ZiM3o4?oc=5"
     },
     {
-      "title": "美股平靜是假象？瑞銀：市場脆弱度逼近滿檔 財報季恐引爆VIX飆升 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ua2RiLS1Pc09ETjZ4U0o2d3FlaG5QVzFIUXlucVctS0hoUktkVXZSbEtFUkhVUUl2bHBWZDNLdmpfcTZ3dWQ0dkFnNFZxTlk?oc=5"
+      "title": "【美股特別報導】財報季考驗美股多頭續航力 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UcFBIcHY2Skd5TTZzbVd5dWZaOXhleHdsWElFSlB1Ym41YWdCTEN3cS1Gd0hnZ2xXYnYtNEgtVVl2eW1WRFVmRDlRLU1sYnhTYVprQWgwMFNjYmFCNUY4eHRXTkF0bEU?oc=5"
     },
     {
-      "title": "美股科技股領軍走揚 國銀：慎防短線回檔、長線看好 AI - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qbE9SWUJEa0tObi1neXZoVHZyYW9CVHAtVVp6dHdsbFViVFJRSEhaRm9NeWhCdF9Xb1ZkMHJiMjd0emlnblNDVjlxLVJaUkc10gFWQVVfeXFMTTQ4WF9lVEplVlp3V1dqVFBDN1N0SEtEbUpNRm5DNGdoaEYzN0x1R1lBWk1GQUs1WXlPNy0yQ3lwVkFSQzUwNzAxejlmV3RUdzJUR0Z4U2c?oc=5"
-    },
-    {
-      "title": "台股重挫1426.01點！外資狠賣「這96萬受益人主動ETF」破20萬張…0050也難逃「它」剛每股配0.63元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOQndqaE1nSUJzZFhweEV6VTZ5VEloRncxdVVLWUkycTVVVFdRbGxpandyMzI3Z2tTTEJMQ0JSb0JTYWZSTTJlbVBfWFRNWjZrUGNaS1NHVmRDWDNQbGxac09PVDNVZXowRlZVY085LWFaUkpRNDFhMkVSM3JlYkRUdnNOWjNpLVVrNWZIbVNBQms0XzhyOU8tU2pCd0xZUkNZLXl1N3lMRHJaYkx6TUJNRnhITHBVUnRFVnhWamdiSkpWQkpUeEEzRmJWSzM3WldIZE5qYW9BQ3RUMzBRSHdQTEFMWHowNklObEJ6UUpickM3TjJyLUFqOVBBUjRuQjFoMVB4RDJPaEYydXZMY1NGSWxFMHRnNXZIX0N2WHpVUkZUdHVmOEt1RUFUSWhfQXBrTkxWTWVUeFJtU0l1VXUwaEpDNUNDSDk2Sk4zY0ZGYlNwamwzbUE?oc=5"
-    },
-    {
-      "title": "黃金大漲！但最新「預測價」又被下調了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9peWpoU1RsMV9LMjdvS2FKSy1zU3AzeEZmbUllUDNONFJOX0M1VFBpZURQN2FnYzRQOGYzLW1NZk9fVjUyUmFyYWh1Qm5xMWJGLXA1UHV6Skt3WFQtSFd30gFkQVVfeXFMT1VoYzgxQWhSVDk4WW9FZ2pVaW9xQXIyYVhXOXhKbVpMUWNTWjlpR2dRXzZuY0VOclhUWTEwUzE3Um9jb0F5cmRkVTNtYkY4WEtuSUZ1WHhnU0hXVTdGSERrdkZfYQ?oc=5"
+      "title": "台股基金績效大爆發 元大高股息優質龍頭飆破120％奪冠 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ESmNsMFNNbndLcV9Ta1F0akw5UHNERjUtdllwT2M4SjNiVkRCMWlfdnVycTJQdEYxWlVUWENWRDV0TlBscnlOOHMycmRRdUZTUVBCeEk1T1Vld2daTWNR0gFkQVVfeXFMTkY2MThINkRVblE3S3BtYXhZTGx4eHFYczM5OEJ6dFlXYm9hMkFtdnM4VzJQdE1lV2dIMFBzeXFNY083aWxYaTBfclp0QncwQTI4WGtQemxsWmstRTJZYVRvZFRqbQ?oc=5"
     }
   ]
 }
