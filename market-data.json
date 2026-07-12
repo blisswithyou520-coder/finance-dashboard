@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/13 04:45",
+  "updated_tw": "07/13 05:49",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -72,43 +72,43 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64170.22,
-      "change": 368.1927,
-      "changePercent": 0.5771
+      "price": 63923.01,
+      "change": 120.9827,
+      "changePercent": 0.1896
     },
     "ETH": {
-      "price": 1821.0,
-      "change": 32.9004,
-      "changePercent": 1.84
+      "price": 1812.9,
+      "change": 24.8004,
+      "changePercent": 1.387
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.068,
-      "change": -0.0292,
-      "changePercent": -0.091
+      "price": 32.098,
+      "change": 0.0008,
+      "changePercent": 0.0025
     },
     "JPYTWD": {
-      "price": 0.1963,
-      "change": -0.0014,
-      "changePercent": -0.6911
+      "price": 0.1962,
+      "change": -0.0015,
+      "changePercent": -0.7417
     },
     "EURTWD": {
-      "price": 36.681,
-      "change": -0.0183,
-      "changePercent": -0.0498
+      "price": 36.651,
+      "change": -0.0483,
+      "changePercent": -0.1316
     },
     "CNYTWD": {
-      "price": 4.7436,
+      "price": 4.7404,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
     "usd": 4113.7,
-    "twd": 4241.0,
-    "tael": 159047.0,
-    "twdTotal": 131918.0,
+    "twd": 4245.0,
+    "tael": 159196.0,
+    "twdTotal": 132042.0,
     "changePercent": -0.4091
   },
   "fed": {
@@ -121,20 +121,20 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GaGlJR1ZZSXJvcU5Ca1RvdXBidkZTNUFPRWJmUzMzU1BjTXZWbWxsTGpoN2tCa0JtSnRBd3dFY0pFSWlVR1MweVdCOXNlLTZUVkJPNWhGaFFGTURPaXZF0gFkQVVfeXFMUGhqR3ZMVVpXdERrVkREajE2dG0tUGFuTXdwQV9qNzl6cE9Yenl2aHR0UmdyVlFnNUlFZ2htdTVkam9fTC1NYWlrS1ZpclhqZFRlbV9sX1VleDVLMm43S1NqOWtEMQ?oc=5"
     },
     {
-      "title": "《財經大代誌》- 亞洲生技展點火 台積電法說與美股財報重磅登場 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxORXZ5b2F2b08wMVRmVGItZ0d3M1JmZ3RoMnh2dlNZemJDc0hyS3hWYnBnT2xhRVNNdFhDOUsxMnpEcGhveU5Sb1pJWWtQc29DRmxLMTZfNi02MjVtOVpPMWRXNkNoSTVKbVJWZEIyTXJFMENaamhoUzdMLXByTGJQdElVUmpURHFMNGtXM1NraS1FVmlFZWJKTkk1SmEtUjZpTEdkbTFkN0tFVW5MdUkzeEh1UVBicEpSakhyYjlGOGZRWm5YSmJPSkdaQzV1aXA1RjZjQ1FkMXVvdWZ3Skt6TzRfOVRpcFJNYkhjWmtzOGNzSmhLNHU2VTBTeGNBb0wxVlVpR2F3X1FuVjdsTWNnS1ZRWS0tVjZWamxnd2VkeW95MjlGTDVMTnJYSFIyRnEyYzhabGdVS1NkaW55YndscjdSazJFQjFraDdaTGZrbGdhd0l4Vk11Wm5Zbm81WXN6SklBR25PUHM0bkw0Z3pzVmVaUU94aHBBM2hyNXgyZS04MW90clE2bkh5T0w0bWJndGFxOVlB?oc=5"
+      "title": "〈台股盤前要聞〉守穩4萬5續攻月線、環球晶拿下美光長約及5億美元助擴產 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtSWk4MmFwRV9zQUpPNVFsUl9vMFdCMnhQcUUwdnJZT29KdmE3M0dSZnFVY1g3VUZwY2t3aS1iTHcyWEc2aVpPdkRhaw?oc=5"
     },
     {
       "title": "Q2企業獲利推測年增近三成 美股財報季面臨三大考驗 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RSDRPNDJCeFg4R0loRUo1RHg3VXktUVJVcjdOZXVtLUFmVTZEVS1scy1tQmhvaFBWZXdVaE9BWk5NaHZVTlVFcnRNcGstWkZodUc1ZXZvN1ljYVFU0gFiQVVfeXFMTzBja2cyTlNwdGRrTHpib1dqbTQ5V1pqWGQxdmhYaWpRcVotQVgwaElrYkpWeUhNS0RrRjNPNDFDTl9hZ0tmdkJ0SDh4RWEwQ2Y0UmlTV2RfZEE3aGhOeUhQaGc?oc=5"
     },
     {
-      "title": "財報季帶動美股ETF投資升溫- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SWGxxQVBuQ1N1ZXdwYllLNHZrOTNJZ1BCVi0xVE82a3pVNnZHaktKSl9sbUNqaWFiYVV5UC0tZUZXdUdwUkcwcTZ1cHhFR0YzYktrcmt2czFVYVRDOS1B?oc=5"
+      "title": "《財經大代誌》- 亞洲生技展點火 台積電法說與美股財報重磅登場 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxORXZ5b2F2b08wMVRmVGItZ0d3M1JmZ3RoMnh2dlNZemJDc0hyS3hWYnBnT2xhRVNNdFhDOUsxMnpEcGhveU5Sb1pJWWtQc29DRmxLMTZfNi02MjVtOVpPMWRXNkNoSTVKbVJWZEIyTXJFMENaamhoUzdMLXByTGJQdElVUmpURHFMNGtXM1NraS1FVmlFZWJKTkk1SmEtUjZpTEdkbTFkN0tFVW5MdUkzeEh1UVBicEpSakhyYjlGOGZRWm5YSmJPSkdaQzV1aXA1RjZjQ1FkMXVvdWZ3Skt6TzRfOVRpcFJNYkhjWmtzOGNzSmhLNHU2VTBTeGNBb0wxVlVpR2F3X1FuVjdsTWNnS1ZRWS0tVjZWamxnd2VkeW95MjlGTDVMTnJYSFIyRnEyYzhabGdVS1NkaW55YndscjdSazJFQjFraDdaTGZrbGdhd0l4Vk11Wm5Zbm81WXN6SklBR25PUHM0bkw0Z3pzVmVaUU94aHBBM2hyNXgyZS04MW90clE2bkh5T0w0bWJndGFxOVlB?oc=5"
     },
     {
-      "title": "本週操盤筆記：美關鍵通膨與零售數據、中國GDP、美股財報季開跑 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncVRUY2R4cENFTHZFbjdMcnhSUXRKQnZMR19VZVpKMWpwSWJHQjlMODZBWlpjQnlRdnlDMnpaelVpNTJiNUt1U1djby10Tnc?oc=5"
+      "title": "財報季帶動美股ETF投資升溫- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SWGxxQVBuQ1N1ZXdwYllLNHZrOTNJZ1BCVi0xVE82a3pVNnZHaktKSl9sbUNqaWFiYVV5UC0tZUZXdUdwUkcwcTZ1cHhFR0YzYktrcmt2czFVYVRDOS1B?oc=5"
     },
     {
       "title": "美股「大到不能倒」？ 部分專家料長期熊市將成歷史| 全球財經| 全球 - 聯合新聞網",
