@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/12 23:36",
+  "updated_tw": "07/13 02:41",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64086.42,
-      "change": 284.3927,
-      "changePercent": 0.4457
+      "price": 64089.89,
+      "change": 287.8627,
+      "changePercent": 0.4512
     },
     "ETH": {
-      "price": 1818.36,
-      "change": 30.2604,
-      "changePercent": 1.6923
+      "price": 1820.76,
+      "change": 32.6604,
+      "changePercent": 1.8265
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.099,
-      "change": 0.0018,
-      "changePercent": 0.0056
+      "price": 32.068,
+      "change": -0.0292,
+      "changePercent": -0.091
     },
     "JPYTWD": {
       "price": 0.1963,
@@ -106,9 +106,9 @@
   },
   "gold": {
     "usd": 4113.7,
-    "twd": 4245.0,
-    "tael": 159201.0,
-    "twdTotal": 132046.0,
+    "twd": 4241.0,
+    "tael": 159047.0,
+    "twdTotal": 131918.0,
     "changePercent": -0.4091
   },
   "fed": {
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxORXZ5b2F2b08wMVRmVGItZ0d3M1JmZ3RoMnh2dlNZemJDc0hyS3hWYnBnT2xhRVNNdFhDOUsxMnpEcGhveU5Sb1pJWWtQc29DRmxLMTZfNi02MjVtOVpPMWRXNkNoSTVKbVJWZEIyTXJFMENaamhoUzdMLXByTGJQdElVUmpURHFMNGtXM1NraS1FVmlFZWJKTkk1SmEtUjZpTEdkbTFkN0tFVW5MdUkzeEh1UVBicEpSakhyYjlGOGZRWm5YSmJPSkdaQzV1aXA1RjZjQ1FkMXVvdWZ3Skt6TzRfOVRpcFJNYkhjWmtzOGNzSmhLNHU2VTBTeGNBb0wxVlVpR2F3X1FuVjdsTWNnS1ZRWS0tVjZWamxnd2VkeW95MjlGTDVMTnJYSFIyRnEyYzhabGdVS1NkaW55YndscjdSazJFQjFraDdaTGZrbGdhd0l4Vk11Wm5Zbm81WXN6SklBR25PUHM0bkw0Z3pzVmVaUU94aHBBM2hyNXgyZS04MW90clE2bkh5T0w0bWJndGFxOVlB?oc=5"
     },
     {
-      "title": "美股「大到不能倒」？ 部分專家料長期熊市將成歷史| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiR21RVENSMnRnZHJZNlVIMU1KVTRrTWlrbHMyQUJTMXVBQlhiWElBaHA2a3N5UE8wcHFtQlpDY3hqeGJZajh4WmtZMUtGd0lm?oc=5"
+      "title": "Q2企業獲利推測年增近三成 美股財報季面臨三大考驗 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RSDRPNDJCeFg4R0loRUo1RHg3VXktUVJVcjdOZXVtLUFmVTZEVS1scy1tQmhvaFBWZXdVaE9BWk5NaHZVTlVFcnRNcGstWkZodUc1ZXZvN1ljYVFU0gFiQVVfeXFMTzBja2cyTlNwdGRrTHpib1dqbTQ5V1pqWGQxdmhYaWpRcVotQVgwaElrYkpWeUhNS0RrRjNPNDFDTl9hZ0tmdkJ0SDh4RWEwQ2Y0UmlTV2RfZEE3aGhOeUhQaGc?oc=5"
     },
     {
       "title": "本週操盤筆記：美關鍵通膨與零售數據、中國GDP、美股財報季開跑 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncVRUY2R4cENFTHZFbjdMcnhSUXRKQnZMR19VZVpKMWpwSWJHQjlMODZBWlpjQnlRdnlDMnpaelVpNTJiNUt1U1djby10Tnc?oc=5"
     },
     {
-      "title": "台股明日開盤將大補漲？法人緊盯「3關鍵指標」：本周還有大魔王 | 張庭維 | 新聞 - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Va1RsZU8tXzJnakpURUdIYmdYT3lSRGFxczBjcEdOc1ZBWVAxd0xRdjNTTU9KbzJTYldNR2c3RlJCOE5IYjlUV0JuTEtsQQ?oc=5"
-    },
-    {
       "title": "台股13日開市補漲？ 法人：觀察美伊衝突加溫變數| 證券 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9USkF4UWtad0FBWlBiTDJHSUtKSlQ3a0pYenN5bV83c21pSzZtTV91NWdNRzBVNU9JdTlrd0ozNGRhN0I1QkxJLVR0ejNnc2x5S1NyLWxUNTBobFo3eWc?oc=5"
+    },
+    {
+      "title": "美股「大到不能倒」？ 部分專家料長期熊市將成歷史| 全球財經| 全球 - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiR21RVENSMnRnZHJZNlVIMU1KVTRrTWlrbHMyQUJTMXVBQlhiWElBaHA2a3N5UE8wcHFtQlpDY3hqeGJZajh4WmtZMUtGd0lm?oc=5"
     },
     {
       "title": "台股融資暴增160%！多頭好朋友、空頭不認識？槓桿雙面刃 小心130%斷頭線！ - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPYUpLaG5NQm83MmttcWl4VVRjQjJlT0thS2Y3VWNXOTRqRGxRSC1ScUltRXRjVVRtdDROSkdnU3JYcmcxMTM1YWQ5X3NXTS1MRFZKaWVpUXRwV1JRbGxwbDZTOFB0T09oYWlQUnZCRldib2tCeG1CZFlZQ3JyNmo5WU5oNDZUamZTdGttVXo2c25Pak9tMlhObXF2Q1RGS01KRHVCMmpQMFRQejI1Y29fbERfNXlHYlpQNnFfejdIYmVGQnNmVUNWbWg5NlZnXzhNX2hEZmFYVlpkVDA1aVluRlk3bEowcGFOWVZfU3BxSm16VHIxejUzM05aQmRKNlR5Z1dnZ0lZZEdvYnc2NGJCUDRValktY24tejlVaFZROFYtSnhTYVFzXy03MTN4TXk2U0gteXY5Z09KZTlEZG4yTkx4VktNQUdLczRYQUJnQkRoRWFBSjR6UTVmemNua0VJR2xFRnRqc1hFMTRyNmw3WlFpRXVRNWRoRWRBbg?oc=5"
     },
     {
-      "title": "彰化小情侶旅館留血跡金飾雙雙命喪黃金海岸 家屬求死亡真相 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1cndqUndmRnFjdndkSDhsOXctN05PbXJrcmdrWk43dlRRR1QwSk1KQ2JacVoxX25tVzVEOGl4YU9VU2Uxa01QQjBUeWZIbHlF0gFWQVVfeXFMT0x2eHMwWjZhUkJ5WWFyTGlaZzRpWEJWeTQ5NmF6N3RFVURSZzdBZUU1SGJ1QUxrWEgyYTBmYi1pcjd0ZkFPdmNWcDlCdWlRM3RtT0lsSnc?oc=5"
+      "title": "台股休市美股全漲 胡睿涵：留意兩大觀察指標 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95UlRBTzRwUFFZTm5oYlE2cjU0Z0ZjLVV4NEFXMklTMWk4blRWbHFDU3RyeDVLSXJIb2VNU05WcE1pWXRORW1aTjVMMkhfS01jZ21acVA2VTF0Z2s4YkRR0gFkQVVfeXFMUHZTb3J0RS1sbkpkSmYwZk9jM1lvMFh6NUo3bGQxb0JpVjFsWHNrWkpzM00tSUxHVDFMMzk0RVduMXotRGNWb1l5SVVVellXR0c0WHhlbVAyMnBUNTc1d2dCVU9vSg?oc=5"
     }
   ]
 }
