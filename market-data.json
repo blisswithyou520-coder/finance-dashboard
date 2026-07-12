@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/13 06:47",
+  "updated_tw": "07/13 07:53",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63758.0,
-      "change": -44.0273,
-      "changePercent": -0.069
+      "price": 63778.34,
+      "change": -23.6873,
+      "changePercent": -0.0371
     },
     "ETH": {
-      "price": 1800.63,
-      "change": 12.5304,
-      "changePercent": 0.7008
+      "price": 1806.24,
+      "change": 18.1404,
+      "changePercent": 1.0145
     }
   },
   "fx": {
@@ -94,22 +94,22 @@
       "changePercent": -0.8428
     },
     "EURTWD": {
-      "price": 36.61,
-      "change": -0.0893,
-      "changePercent": -0.2433
+      "price": 36.64,
+      "change": -0.0593,
+      "changePercent": -0.1616
     },
     "CNYTWD": {
-      "price": 4.7435,
+      "price": 4.7404,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4090.3,
-    "twd": 4221.0,
-    "tael": 158291.0,
-    "twdTotal": 131290.0,
-    "changePercent": -0.3363
+    "usd": 4084.9,
+    "twd": 4216.0,
+    "tael": 158082.0,
+    "twdTotal": 131117.0,
+    "changePercent": -0.4678
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "美股「大到不能倒」？ 部分專家料長期熊市將成歷史 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxZDhpeGt6UFJzdWFJU3B4VVdKMm41SEwtUWZYNFJ0SmVnakJ0cndVUFdDRjZPRGJneUV1N1MtQlVGXzdIOW45bXZ2Wkw3MTUxWVBWX3hnUzJSV2t20gFiQVVfeXFMTS1VY0dqcm5jSmJfUFpfU3JiN1U4eFNmWGFaa1FEeVZlckVaZUFXaUZoRExTVUFDS3VWaEY4ZFJqYW15S0hOeWdWMnlqbGpVMlpFZ3pkSklydVpGMm5CWmlsY3c?oc=5"
+    },
+    {
       "title": "快逃還是等抄底？黃金不妙 專家示警恐殺到每盎司3600美元 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GaGlJR1ZZSXJvcU5Ca1RvdXBidkZTNUFPRWJmUzMzU1BjTXZWbWxsTGpoN2tCa0JtSnRBd3dFY0pFSWlVR1MweVdCOXNlLTZUVkJPNWhGaFFGTURPaXZF0gFkQVVfeXFMUGhqR3ZMVVpXdERrVkREajE2dG0tUGFuTXdwQV9qNzl6cE9Yenl2aHR0UmdyVlFnNUlFZ2htdTVkam9fTC1NYWlrS1ZpclhqZFRlbV9sX1VleDVLMm43S1NqOWtEMQ?oc=5"
     },
     {
-      "title": "台股盤前／颱風休市美股連2日走高！台指夜盤漲633點 台股有望上演補漲 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxNYko3T2Z2TFVZVzh6cHY2TVhEUXBCQnY0cUpVWnliVl9icnlaWExlalFNSUNfalZuWE1feUFsQ2dIb2pKSUw0T0I3a1VvSGZ2MkJONjBkU1ZFTXNGYkVKWm1ORzE1UkxWWi1oeVlZT1ZXeS1VVVdKLXd3LWVGZW1FSElSMVUzSU5NcnV4Ym1wNmE1T0s1YzdFeU1Hb0xvYWMyd2R4MWhhTWZHX0IzYjlya3prSkNFaGxZR1l1WExUWjdHaTgxbHRQdzJfbUt2V05kc2FSOXd5TnBLTm1NY1lzMG0zNGcwY0Nad2c4UnZQdVREcFpYOFoxVlE2R2wwZjBHMy05UVEzZ1pWRVpQaWtReENXLUREX1FpZzAzTlE0YlpEODRRSDhKTUZFbkw2Rm5UWXRpUDZhMGdrdnM5Vmp3VW1xN0xEYlktNmNIRURKalY4bllua2VvX3E2V1l6N1Bibk12T205WXZzYm5nY2xnZXBjcTVQSFFKQjY0SmVVVWlzYjF5VHpzZXJXcU1mT1RkczJKR0dtUERnS2djSjUwNjdUVm5QM2FnOGNIeg?oc=5"
-    },
-    {
-      "title": "〈台股盤前要聞〉守穩4萬5續攻月線、環球晶拿下美光長約及5億美元助擴產 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtSWk4MmFwRV9zQUpPNVFsUl9vMFdCMnhQcUUwdnJZT29KdmE3M0dSZnFVY1g3VUZwY2t3aS1iTHcyWEc2aVpPdkRhaw?oc=5"
-    },
-    {
-      "title": "Q2企業獲利推測年增近三成 美股財報季面臨三大考驗 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RSDRPNDJCeFg4R0loRUo1RHg3VXktUVJVcjdOZXVtLUFmVTZEVS1scy1tQmhvaFBWZXdVaE9BWk5NaHZVTlVFcnRNcGstWkZodUc1ZXZvN1ljYVFU0gFiQVVfeXFMTzBja2cyTlNwdGRrTHpib1dqbTQ5V1pqWGQxdmhYaWpRcVotQVgwaElrYkpWeUhNS0RrRjNPNDFDTl9hZ0tmdkJ0SDh4RWEwQ2Y0UmlTV2RfZEE3aGhOeUhQaGc?oc=5"
-    },
-    {
-      "title": "財報季帶動美股ETF投資升溫- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SWGxxQVBuQ1N1ZXdwYllLNHZrOTNJZ1BCVi0xVE82a3pVNnZHaktKSl9sbUNqaWFiYVV5UC0tZUZXdUdwUkcwcTZ1cHhFR0YzYktrcmt2czFVYVRDOS1B?oc=5"
+      "title": "台股大跌資金往哪跑？這「航運股」6天飆47% 週量增比320%奪量價雙增 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNWU4xZlJNVC1zbUlTeXg3VU50RFdDa3RXWVdQUWs0X1k3NmNpcEZZWlM2QWRoTEZzZjJvYWhsMV9VRXhvUXpsbGZST3p6dV9lX1lJVkRxSnhDSWctcW5kLXdtODhiQ3pzTEFkcVUzNVFtNzhkZzh0bFJMa0NUVE43ek5VQXN1N296NVdZeWlZU3Q1bmV0Tmk0b3dfZVIyc1Q0N2hBd2xfVmZEVm0xSG9EYkkzTFU5MFdKQjl5ajJsSENpZzFqdGJzLS13VFk2bXJWZ1BTZGdUZ0M1MkNaNC1UNnUzTDRBS05qeE9mTTFuQ3cxSWpUcjZkVzBLQVg3WHJMVFZEZ1BWd2M1QllnYTg5eXdRTzlLRGpiTXJlYjhnSzJnWDN6cDY0ek5fWXl3Vm5YQWtXM0U5b1VBMEJka2lBN054WkVicVBTbWZaLQ?oc=5"
     },
     {
       "title": "《貴金屬》COMEX黃金下跌0.7% ETF持倉減少- 新聞 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVRlRnJxMXVLM3pudGlIeFlWM2tHWVo0ZkktSHdRMm4zczNfbmJod0k2a1JpZjV3QVlQT3VRZWJSXzBWSVpGc1pUQld1NXo4WTNMSk5qUGlaeWUtZlNpT2xXa1E0WHZ1aWJWWl84dktDdVJWaEhUUV9aWWI5NGpMSU1jUnI2dDl4SjlYZjJtMUd0UQ?oc=5"
     },
     {
-      "title": "《財經大代誌》- 亞洲生技展點火 台積電法說與美股財報重磅登場 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxORXZ5b2F2b08wMVRmVGItZ0d3M1JmZ3RoMnh2dlNZemJDc0hyS3hWYnBnT2xhRVNNdFhDOUsxMnpEcGhveU5Sb1pJWWtQc29DRmxLMTZfNi02MjVtOVpPMWRXNkNoSTVKbVJWZEIyTXJFMENaamhoUzdMLXByTGJQdElVUmpURHFMNGtXM1NraS1FVmlFZWJKTkk1SmEtUjZpTEdkbTFkN0tFVW5MdUkzeEh1UVBicEpSakhyYjlGOGZRWm5YSmJPSkdaQzV1aXA1RjZjQ1FkMXVvdWZ3Skt6TzRfOVRpcFJNYkhjWmtzOGNzSmhLNHU2VTBTeGNBb0wxVlVpR2F3X1FuVjdsTWNnS1ZRWS0tVjZWamxnd2VkeW95MjlGTDVMTnJYSFIyRnEyYzhabGdVS1NkaW55YndscjdSazJFQjFraDdaTGZrbGdhd0l4Vk11Wm5Zbm81WXN6SklBR25PUHM0bkw0Z3pzVmVaUU94aHBBM2hyNXgyZS04MW90clE2bkh5T0w0bWJndGFxOVlB?oc=5"
+      "title": "財報季帶動美股ETF投資升溫- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SWGxxQVBuQ1N1ZXdwYllLNHZrOTNJZ1BCVi0xVE82a3pVNnZHaktKSl9sbUNqaWFiYVV5UC0tZUZXdUdwUkcwcTZ1cHhFR0YzYktrcmt2czFVYVRDOS1B?oc=5"
     },
     {
-      "title": "美股「大到不能倒」？ 部分專家料長期熊市將成歷史| 全球財經| 全球 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiR21RVENSMnRnZHJZNlVIMU1KVTRrTWlrbHMyQUJTMXVBQlhiWElBaHA2a3N5UE8wcHFtQlpDY3hqeGJZajh4WmtZMUtGd0lm?oc=5"
+      "title": "金十數據全球財經早餐 | 2026年7月13日 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV3VJa21CWjJkemJsRXhVZTdfRVB2MlYtRTlxX3BGM3F0YWRQN3ZtM3AycVpMNDIzZ0UtWVFyN2dfZUsyS0xBZkFYLV80d2QyMFZxZkl2T2pBVTUxMzRkcnp0cHBQa21Xd1NiQXFkMGRmcTQwa3d5c3ZGNXQ1QjZraEZVSGViQmJBV1poVUZjVnp0WklOOHFtNi1KTFoyRXE3?oc=5"
+    },
+    {
+      "title": "美股夏季行情恐提前結束？大摩警告「三大風險」 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0Sm01eXpKX2xhem5JdUtoY2wtc25idVlfYnM0RzRTWjFzczJxQmlrd3BOc1U5ek5lcHdXNUFFcFgxSzdsXzc4dTJzRDIxVUU?oc=5"
+    },
+    {
+      "title": "《財經大代誌》- 亞洲生技展點火 台積電法說與美股財報重磅登場 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxORXZ5b2F2b08wMVRmVGItZ0d3M1JmZ3RoMnh2dlNZemJDc0hyS3hWYnBnT2xhRVNNdFhDOUsxMnpEcGhveU5Sb1pJWWtQc29DRmxLMTZfNi02MjVtOVpPMWRXNkNoSTVKbVJWZEIyTXJFMENaamhoUzdMLXByTGJQdElVUmpURHFMNGtXM1NraS1FVmlFZWJKTkk1SmEtUjZpTEdkbTFkN0tFVW5MdUkzeEh1UVBicEpSakhyYjlGOGZRWm5YSmJPSkdaQzV1aXA1RjZjQ1FkMXVvdWZ3Skt6TzRfOVRpcFJNYkhjWmtzOGNzSmhLNHU2VTBTeGNBb0wxVlVpR2F3X1FuVjdsTWNnS1ZRWS0tVjZWamxnd2VkeW95MjlGTDVMTnJYSFIyRnEyYzhabGdVS1NkaW55YndscjdSazJFQjFraDdaTGZrbGdhd0l4Vk11Wm5Zbm81WXN6SklBR25PUHM0bkw0Z3pzVmVaUU94aHBBM2hyNXgyZS04MW90clE2bkh5T0w0bWJndGFxOVlB?oc=5"
     }
   ]
 }
