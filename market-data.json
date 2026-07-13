@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/14 02:58",
+  "updated_tw": "07/14 04:19",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -35,46 +35,46 @@
   },
   "us": {
     "NVDA": {
-      "price": 203.93,
-      "change": -7.03,
-      "changePercent": -3.3324
+      "price": 203.53,
+      "change": -7.43,
+      "changePercent": -3.522
     },
     "AAPL": {
-      "price": 317.251,
-      "change": 1.931,
-      "changePercent": 0.6124
+      "price": 317.31,
+      "change": 1.99,
+      "changePercent": 0.6311
     },
     "TSLA": {
-      "price": 392.421,
-      "change": -15.339,
-      "changePercent": -3.7618
+      "price": 394.76,
+      "change": -13.0,
+      "changePercent": -3.1882
     },
     "QQQ": {
-      "price": 712.64,
-      "change": -12.87,
-      "changePercent": -1.7739
+      "price": 711.74,
+      "change": -13.77,
+      "changePercent": -1.898
     },
     "SPY": {
-      "price": 749.73,
-      "change": -5.22,
-      "changePercent": -0.6914
+      "price": 749.17,
+      "change": -5.78,
+      "changePercent": -0.7656
     },
     "SCHD": {
-      "price": 32.565,
-      "change": 0.165,
-      "changePercent": 0.5093
+      "price": 32.56,
+      "change": 0.16,
+      "changePercent": 0.4938
     },
     "VOO": {
-      "price": 689.09,
-      "change": -4.77,
-      "changePercent": -0.6875
+      "price": 688.5,
+      "change": -5.36,
+      "changePercent": -0.7725
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64171.99,
-      "change": 413.7712,
-      "changePercent": 0.649
+      "price": 64198.72,
+      "change": 440.5013,
+      "changePercent": 0.6909
     },
     "ETH": {
       "price": 1833.09,
@@ -84,32 +84,32 @@
   },
   "fx": {
     "USDTWD": {
-      "price": 32.203,
-      "change": 0.1058,
-      "changePercent": 0.3296
+      "price": 32.224,
+      "change": 0.1249,
+      "changePercent": 0.3891
     },
     "JPYTWD": {
       "price": 0.1961,
-      "change": -0.0016,
-      "changePercent": -0.7922
+      "change": -0.0021,
+      "changePercent": -1.0506
     },
     "EURTWD": {
-      "price": 36.717,
-      "change": 0.0177,
-      "changePercent": 0.0483
+      "price": 36.714,
+      "change": 0.1255,
+      "changePercent": 0.343
     },
     "CNYTWD": {
-      "price": 4.7533,
+      "price": 4.7534,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4007.3,
-    "twd": 4149.0,
-    "tael": 155586.0,
-    "twdTotal": 129047.0,
-    "changePercent": -2.3586
+    "usd": 4009.6,
+    "twd": 4154.0,
+    "tael": 155777.0,
+    "twdTotal": 129205.0,
+    "changePercent": -2.3026
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,6 +129,10 @@
       "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPeFpxRkFUdzhaOXhiRzdmalpsbnN2QzU0RmxtX3NlaGMydl9panNvUDJHNU41N0NGSTFHWGJzOTZJMjRnbm5PbmVmQndsRDlwZ21YTDlONGVkcDRzSjFXbTJmUld3OTNnTlZCaC0xQmdfN1dwY1dsTzdIbzdGYVNZbllyZkZqamZVM3Rlc09SWlFobU1tWHVyU05hNTNDZF9DQm8zVU5jcm11VHJrMVRSeVdlUXREUTI3ZkZwZkNTUUpndi1fR1RGbjZ5T0I4TEpsS1BxSTZnTXRpd0xwMExLUnRjQ0tXTHNrSzNrbFJ4Z3hVQS11U05GUVR0c0xURWY3aXRqY2xPcVRZZGN2U3RzZjZpcW1YWmdVeUxFdjdoVlpGMkdDUjRHaDdNVTdIMjNhMjJFTkRubEZoNzdtVzFRRWpuNlFONXdXMUxlUk9OUWl4ZHp0amRMVjR0cDdubEVmdkphV3NwVnZFSUJ0UmpPSzBZcGpyQQ?oc=5"
     },
     {
+      "title": "美股基金轉淨流入科技股吸睛- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vckVkNDdvdEQ0UFVaTWw4eVlyRHduSUd1cWpWR3Eydm96Rk4zUWZoUFR6cXFhbGNsdmFzZWFfckFtUTEtTkRJempjV29DcGtWQUFZX1U1NnJndkQ5TS1z?oc=5"
+    },
+    {
       "title": "黃金高檔震盪後，抗通膨邏輯還在嗎？ - CME Group",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jXzVHUDVVMXVia29IZW5oNUM5cjFWLVF6cUlOcG9XcnV6VFd1NlZGUzE4RUVrVTVVY1BsWGlFTllua1JtSzFYOGRrUUxfRXZHNExnNzNDaW5qTXdzSEVvN3JNcnJvYzBfWFBJRVNZb09ROUxDanhrWnJNR0hkbjA?oc=5"
     },
@@ -143,10 +147,6 @@
     {
       "title": "台積電營收再創歷史高 外資續賣台股 殺尾盤憂?台灣上半年出超974.1億美元 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxNbHpObUZ0TVhMeVd3TzJIeHU3UGJmQkJOVXZUMDE2eU9janlJNlI3akxvd3RUX05jWnZwQ2tWNkRfeVVHc01mUnROUFN0OXJBLUl2Z0RuZU12ODU5azBycmxIV0VDajJ2bE1BckowRGRsYjIzNlgtaVN5WVRQOGo5VUNkY2pNbXd0RmR3M0ltQ2k2OUV3My1XOHN2bUp3MzM2X2huQ0pUN1NTSk1abHFKdHR2MDFHSlpFT0NacWdCcElCaHRBZU9nTDJudldJeDBIcjNMbXNzMEF0VTBGS3JNY2tFUFlWbWNRY2lIS2pzQk13ZE5Wd2JFMnpwMGVhZnhBZ2l6T05CVFpoTnYtQXNnbkgwbUtUWDZ1ellncnMxbVF6QzNzZHc0NW4wd215QVZpc0RaZTkyc2xmSEJwYTV5U1IyM0tKQXl3aVcyQ3hneDdWZEVycUI5MWZZdV9IRmVwWmhfTEIyUTY2SUU4NnhhMkZrc1M2U3JsOVlpQl9IcXNiemdHQ0lhMTRGVkVzaXF6WVhFZEtrTnBzTDdtM3BMcW9CQTBnV3dMbGNpLUxSS3lzZFgxcFR5UUU2UVR3YWxJOVBoS2VsNDhkRkl2WlE?oc=5"
-    },
-    {
-      "title": "債市正向美股發出警報！高盛警告：市場風險遭低估、科技股恐迎修正 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UMkNabllUNm9FS09JZkxEWVZFM29pOXJreXRrR2hyOHBoLVptRjRPYUI1eEI0N1g2WkZqYW5jaFlXSG16WXZxNjRoWGJ5SkE?oc=5"
     }
   ]
 }
