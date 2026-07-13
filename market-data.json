@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/14 05:28",
+  "updated_tw": "07/14 06:30",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 61960.24,
-      "change": -1797.9788,
-      "changePercent": -2.82
+      "price": 62104.57,
+      "change": -1653.6488,
+      "changePercent": -2.5936
     },
     "ETH": {
-      "price": 1759.4,
-      "change": -46.3881,
-      "changePercent": -2.5689
+      "price": 1764.22,
+      "change": -41.5681,
+      "changePercent": -2.3019
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.176,
-      "change": 0.0769,
-      "changePercent": 0.2396
+      "price": 32.171,
+      "change": 0.0719,
+      "changePercent": 0.224
     },
     "JPYTWD": {
       "price": 0.1959,
@@ -94,22 +94,22 @@
       "changePercent": -1.1515
     },
     "EURTWD": {
-      "price": 36.677,
-      "change": 0.0885,
-      "changePercent": 0.2419
+      "price": 36.668,
+      "change": 0.0795,
+      "changePercent": 0.2173
     },
     "CNYTWD": {
-      "price": 4.7534,
+      "price": 4.7483,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4008.7,
-    "twd": 4147.0,
-    "tael": 155510.0,
-    "twdTotal": 128984.0,
-    "changePercent": -2.3245
+    "usd": 4011.6,
+    "twd": 4149.0,
+    "tael": 155598.0,
+    "twdTotal": 129057.0,
+    "changePercent": -2.2538
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,8 +137,8 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jXzVHUDVVMXVia29IZW5oNUM5cjFWLVF6cUlOcG9XcnV6VFd1NlZGUzE4RUVrVTVVY1BsWGlFTllua1JtSzFYOGRrUUxfRXZHNExnNzNDaW5qTXdzSEVvN3JNcnJvYzBfWFBJRVNZb09ROUxDanhrWnJNR0hkbjA?oc=5"
     },
     {
-      "title": "SK海力士美股掛牌後獲利了結 首爾股價一度跌逾10% - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FYTlaWjFHdE9NNm5abmRFSW54OFdLQnZFdVUtelBid0k4aER5Zzc0UjhDenRINU5KT04wMUFMWF9kU1FpQ2todFZuYmoycFNkVE8walV4Q0NDRlRlOVBn?oc=5"
+      "title": "財經青紅燈》台股第三季暗藏殺機 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NV3FUOXA3QmgxdDhEMDdaYnJiQTRCLUgyVFREUHNJdVlnSzlteGktb0JuUlJCbmlyQnRlN2wtZkE5OGtkMDNHUWprVjFPRk83d01jV3p30gFbQVVfeXFMUHRuUTRxUU94cVNtVTdidmZ3YUo2TjZqTndSeEVUV0FCaXhFa3M4bndMT09TbVhzQ201OXJKenZNc1pYVEgwWGY0WTIzdFNCNENnUm52T19IZTBUdw?oc=5"
     },
     {
       "title": "原油、黃金期 聚光 - 經濟日報",
