@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/13 20:20",
+  "updated_tw": "07/13 23:21",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -35,87 +35,95 @@
   },
   "us": {
     "NVDA": {
-      "price": 210.96,
-      "change": 8.18,
-      "changePercent": 4.0339
+      "price": 207.57,
+      "change": -3.39,
+      "changePercent": -1.6069
     },
     "AAPL": {
-      "price": 315.32,
-      "change": -0.9,
-      "changePercent": -0.2846
+      "price": 317.94,
+      "change": 2.62,
+      "changePercent": 0.8309
     },
     "TSLA": {
-      "price": 407.76,
-      "change": 1.21,
-      "changePercent": 0.2976
+      "price": 399.115,
+      "change": -8.645,
+      "changePercent": -2.1201
     },
     "QQQ": {
-      "price": 725.51,
-      "change": 2.23,
-      "changePercent": 0.3083
+      "price": 717.5,
+      "change": -8.01,
+      "changePercent": -1.1041
     },
     "SPY": {
-      "price": 754.95,
-      "change": 3.24,
-      "changePercent": 0.431
+      "price": 752.27,
+      "change": -2.68,
+      "changePercent": -0.355
     },
     "SCHD": {
-      "price": 32.4,
-      "change": 0.14,
-      "changePercent": 0.434
+      "price": 32.51,
+      "change": 0.11,
+      "changePercent": 0.3395
     },
     "VOO": {
-      "price": 693.86,
-      "change": 3.17,
-      "changePercent": 0.459
+      "price": 691.42,
+      "change": -2.44,
+      "changePercent": -0.3517
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63995.74,
-      "change": 237.5212,
-      "changePercent": 0.3725
+      "price": 64171.99,
+      "change": 413.7712,
+      "changePercent": 0.649
     },
     "ETH": {
-      "price": 1810.44,
-      "change": 4.6519,
-      "changePercent": 0.2576
+      "price": 1833.09,
+      "change": 27.3019,
+      "changePercent": 1.5119
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.095,
-      "change": -0.0022,
-      "changePercent": -0.0068
+      "price": 32.155,
+      "change": 0.0578,
+      "changePercent": 0.1801
     },
     "JPYTWD": {
-      "price": 0.1957,
-      "change": -0.002,
-      "changePercent": -0.9946
+      "price": 0.1959,
+      "change": -0.0018,
+      "changePercent": -0.8934
     },
     "EURTWD": {
-      "price": 36.709,
-      "change": 0.0097,
-      "changePercent": 0.0265
+      "price": 36.699,
+      "change": -0.0003,
+      "changePercent": -0.0008
     },
     "CNYTWD": {
-      "price": 4.741,
+      "price": 4.7482,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4063.3,
-    "twd": 4193.0,
-    "tael": 157231.0,
-    "twdTotal": 130412.0,
-    "changePercent": -0.9941
+    "usd": 4022.7,
+    "twd": 4159.0,
+    "tael": 155951.0,
+    "twdTotal": 129350.0,
+    "changePercent": -1.9834
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "從英特爾、AMD到Sandisk 什麼引發了美股周一盤前跌勢？ - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41VVBHS3doSk5XZVRIeHdvVHhUZklUel9rSXFtMDdHSGtzYlNSTG1VOFQ1cUx0NTAteDZlSTNyZEcxZU9qLVpNZXRzSnNVMVE?oc=5"
+    },
+    {
+      "title": "美股盤前 SK海力士ADR大崩10% - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNjZ5RFJkUndJMlVJeHRDZFJBV2tzTG5NOXFGVmVNNHhwUG54WktWanVSOWs3WmJXTXAta19CTTcxLVhBLU9ubXlTUGItM2Nyd0ZyOVhIdU5tb3BMRFlwcXJDVHFuTjQ3R2p5aklqTHVzYnJ6ZkNaLUtLNDZhcHQzNW9pay1YaFBEdWFmbG03bGhWemtDYmZFYlkzcUpjNWo0ejlCX1Y3WjRNTWZSNUZXaXN3SFJDdEg1TU5KTEdPcHM4LXh2dUU4QWdR?oc=5"
+    },
     {
       "title": "油價不是決定美股走向的主角？真正關鍵是這兩大因素| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmV0VtNTlIYVBQQ3JXRmhvYnZBOWF3dVpPT2Q3MENnQTZDX2djZm9QTk16QTA1Q3FHY0lfMjc2NTNZUTFGUDk4aWlmM3psS05u?oc=5"
@@ -125,12 +133,8 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jXzVHUDVVMXVia29IZW5oNUM5cjFWLVF6cUlOcG9XcnV6VFd1NlZGUzE4RUVrVTVVY1BsWGlFTllua1JtSzFYOGRrUUxfRXZHNExnNzNDaW5qTXdzSEVvN3JNcnJvYzBfWFBJRVNZb09ROUxDanhrWnJNR0hkbjA?oc=5"
     },
     {
-      "title": "韓股熔斷拖累台股千點震盪！大立光、環球晶新單護體聯手吹漲風｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPb244aEtJbExZekUweUhKRnhvRXpyT3lhcHppckVCY3Vha1BEUVVqWWhhQWIwRXlJMzV0RXFhb0VYZFBfVmh4cFI0Z3B3UFNrSWlnMkdOMXItcEVmREVyYTlHLXJHVjRESlR4ZHlRR1B2dTlyVVJEeTdkM2w3S0tWYkRzLTB1Z0c4MkZuZTVQcGpRaGVvbENEb2FJQjRrSWFXNml1cVJnV2pqeExFZnNRcDVLX0VldTBLN0lUNmx3aURLcktqalVvVFpvSEZWUW9RNHE1UkdyZWZPUWZCNF9uMkFNb1FzM1djZmJ4S1RIbmtnWGpxZGhzdTlNdUtfeVFlMl9LTms5YTdpSW1nUTQ4TVpLeUhfT3dCNXRfY2VFWFd3NUtONlRiOC1Oa0xZVjJERXd4cDNJSVc1T3pBT1lNczRLUEZXSmtkZG1nVE1IUTh0aHBDUDhkcWtLYUwta1BfQUJGalRFaDRTNUV4T0hJTE1pWV9XZjhoeTROZzRXRXF1U3U3c0h6ZnVPbGtNR2lzQjhpWWpobXhDbjJJVFNNWEkxaF9WbGZ2aWktSGZPWk54cjZzMWV0c1RpWXVFeVVyeXFaQ3I3MU5od3JUNmU0Q3A1N3htU2RMZGdXTDlaRTg0NUc2SU44X3VCb0FTa1UySVBEdHRNVVdXdw?oc=5"
-    },
-    {
-      "title": "美股夏季行情恐提前結束？大摩警告「三大風險」 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0Sm01eXpKX2xhem5JdUtoY2wtc25idVlfYnM0RzRTWjFzczJxQmlrd3BOc1U5ek5lcHdXNUFFcFgxSzdsXzc4dTJzRDIxVUU?oc=5"
+      "title": "SK海力士美股掛牌後獲利了結 首爾股價一度跌逾10% - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FYTlaWjFHdE9NNm5abmRFSW54OFdLQnZFdVUtelBid0k4aER5Zzc0UjhDenRINU5KT04wMUFMWF9kU1FpQ2todFZuYmoycFNkVE8walV4Q0NDRlRlOVBn?oc=5"
     },
     {
       "title": "專家狂喊比特幣 2029 年衝 50 萬美元！歷史數據潑冷水：「暴漲神話」恐成絕響 - 區塊客",
@@ -141,12 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HZGZoMVBuZ3JlUlZnQ2o0Snlkb0dhTmdjcGNVZjFiVlhlNHRpQlVaSGYtVU9MejFFOTRXMUUxMkhSZDRBTWtBM2k4UFJ2aWdwQWFhRF94RmcyRGRUTGRj0gFkQVVfeXFMT1o1YWItYm9hVVR3SDZuSjZKaThGM2J5UTZteDNQZHp2ckZuSDQ2Q0hWa0JGQ1EwTnU1YUtJSGlfTzVqdW5hejJiY3Zjdlg3aEJOcm9kSmNHTXlqZWVvZ1RpMGdWSg?oc=5"
     },
     {
-      "title": "SK海力士美股掛牌後獲利了結 首爾股價一度跌逾10% - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FYTlaWjFHdE9NNm5abmRFSW54OFdLQnZFdVUtelBid0k4aER5Zzc0UjhDenRINU5KT04wMUFMWF9kU1FpQ2todFZuYmoycFNkVE8walV4Q0NDRlRlOVBn?oc=5"
-    },
-    {
-      "title": "債市正向美股發出警報！高盛警告：市場風險遭低估、科技股恐迎修正 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UMkNabllUNm9FS09JZkxEWVZFM29pOXJreXRrR2hyOHBoLVptRjRPYUI1eEI0N1g2WkZqYW5jaFlXSG16WXZxNjRoWGJ5SkE?oc=5"
+      "title": "《台股盤後》震盪逾千點、收漲25點，日K連二黑- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTG11OTlDcVFIMGdNNndxQm5nS0M2dW5TZnVqUmVFSmctSkNfN3hlSVdNQktnd1J2YkVXN0o3MDVwdFU3elM1NjRHUlp6MXFkTGlmU3dTV0RwUndxMkRrNThfLWdRNU5qdHZsNHptc2pPZWZ2SG9MNkUyelJBZ2hWYUQ2OVhfV2J4QjhqVTRQbUpGQQ?oc=5"
     }
   ]
 }
