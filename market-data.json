@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/14 04:19",
+  "updated_tw": "07/14 05:28",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -72,31 +72,31 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64198.72,
-      "change": 440.5013,
-      "changePercent": 0.6909
+      "price": 61960.24,
+      "change": -1797.9788,
+      "changePercent": -2.82
     },
     "ETH": {
-      "price": 1833.09,
-      "change": 27.3019,
-      "changePercent": 1.5119
+      "price": 1759.4,
+      "change": -46.3881,
+      "changePercent": -2.5689
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.224,
-      "change": 0.1249,
-      "changePercent": 0.3891
+      "price": 32.176,
+      "change": 0.0769,
+      "changePercent": 0.2396
     },
     "JPYTWD": {
-      "price": 0.1961,
-      "change": -0.0021,
-      "changePercent": -1.0506
+      "price": 0.1959,
+      "change": -0.0023,
+      "changePercent": -1.1515
     },
     "EURTWD": {
-      "price": 36.714,
-      "change": 0.1255,
-      "changePercent": 0.343
+      "price": 36.677,
+      "change": 0.0885,
+      "changePercent": 0.2419
     },
     "CNYTWD": {
       "price": 4.7534,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4009.6,
-    "twd": 4154.0,
-    "tael": 155777.0,
-    "twdTotal": 129205.0,
-    "changePercent": -2.3026
+    "usd": 4008.7,
+    "twd": 4147.0,
+    "tael": 155510.0,
+    "twdTotal": 128984.0,
+    "changePercent": -2.3245
   },
   "fed": {
     "rate": "請依最新官方公告",
