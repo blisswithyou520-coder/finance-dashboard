@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/13 13:54",
+  "updated_tw": "07/13 17:24",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62745.08,
-      "change": -1056.9473,
-      "changePercent": -1.6566
+      "price": 63054.81,
+      "change": -703.4088,
+      "changePercent": -1.1032
     },
     "ETH": {
-      "price": 1779.61,
-      "change": -8.4896,
-      "changePercent": -0.4748
+      "price": 1785.23,
+      "change": -20.5581,
+      "changePercent": -1.1385
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.048,
-      "change": -0.0492,
-      "changePercent": -0.1533
+      "price": 32.085,
+      "change": -0.0122,
+      "changePercent": -0.038
     },
     "JPYTWD": {
-      "price": 0.1954,
-      "change": -0.0023,
-      "changePercent": -1.1464
+      "price": 0.1958,
+      "change": -0.0019,
+      "changePercent": -0.944
     },
     "EURTWD": {
-      "price": 36.577,
-      "change": -0.1223,
-      "changePercent": -0.3332
+      "price": 36.71,
+      "change": 0.0107,
+      "changePercent": 0.0292
     },
     "CNYTWD": {
-      "price": 4.7289,
+      "price": 4.7378,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4070.9,
-    "twd": 4195.0,
-    "tael": 157295.0,
-    "twdTotal": 130464.0,
-    "changePercent": -0.8089
+    "usd": 4082.7,
+    "twd": 4212.0,
+    "tael": 157933.0,
+    "twdTotal": 130993.0,
+    "changePercent": -0.5214
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股迎「緊繃週二」：CPI、銀行財報與Fed證詞密集登場 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxONlU0WkdjbW9WZnNBcnkyWkcxYXNFazlwczVFNHBJdlRHSGxQMzdEWmF2S3ZQM2dJY3lobHo1NDAxbEZkU0JRUGhBVnlZcnJxR0NJSUVmUUpla05QYmpfTUhUakJ5bE9WelJ0MnlKVDVNX3NlbVY1QWJDSkhfd2swZkNobGlvcE92QUU5V0E3aEJneXlWU2xCOVAwd0J1SWdlQmZRUTF6MHBadURrUkJUd3hwUHdmMlM5ZG9IRHVUdkpwc0lLeGpBdkVnWE5ZWlNxdUw5U2dJTlFFTGJsQ3Y0UmZlRWM0aVVUcWdSZzcwcFJra1FTdTRSemxjT0tyUzhqZUV6UXgzOHNTbXFEZ0xlN2NiYWRzUXY5Mzd3Z0p2UDFUOXZ0dWZWbXhzYW1LcVBwblVGcnNPc0JaU2RRU1hV?oc=5"
+      "title": "美股股市即時行情、最新研究報告與熱門美股排行 - 股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50NzJGUjUyQjZmSnB6Sk15SXkwVy1HbWJIWnhtVVgzaXF5OFNrVTZ1YmxaOVV3WUxKSjdUOW5UR2RqM0lSS3hiUlduVQ?oc=5"
     },
     {
       "title": "美股夏季行情恐提前結束？大摩警告「三大風險」 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0Sm01eXpKX2xhem5JdUtoY2wtc25idVlfYnM0RzRTWjFzczJxQmlrd3BOc1U5ek5lcHdXNUFFcFgxSzdsXzc4dTJzRDIxVUU?oc=5"
     },
     {
-      "title": "暗示要調整比特幣部位？Strategy董事長再貼累積圖 - 台視全球資訊網",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmlmaUFINE9FcWFLUDB0TlU3SUpZT2RMcDVjY0I2Nl9jUWVSQmJQWFNoZW45NThONXJHR0tmN3dEUmFRcWVSWkRqMjBIeUNURXVLc3RmaEoxVW5McVBRU2NpWEc1SnpVb1hQU0VXN3ZVbnFjc2hyWEN2Z216UHBickFJeUZ4bmZUa1RDXzhmMk1iMk52UXBPYkpUWFVKbk5aOXlRQUUzczNwVGs?oc=5"
+      "title": "美股「大到不能倒」？ 部分專家料長期熊市將成歷史 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxZDhpeGt6UFJzdWFJU3B4VVdKMm41SEwtUWZYNFJ0SmVnakJ0cndVUFdDRjZPRGJneUV1N1MtQlVGXzdIOW45bXZ2Wkw3MTUxWVBWX3hnUzJSV2t20gFiQVVfeXFMTS1VY0dqcm5jSmJfUFpfU3JiN1U4eFNmWGFaa1FEeVZlckVaZUFXaUZoRExTVUFDS3VWaEY4ZFJqYW15S0hOeWdWMnlqbGpVMlpFZ3pkSklydVpGMm5CWmlsY3c?oc=5"
     },
     {
-      "title": "SK 海力士（SKHY）：它的核心不是「記憶體」，而是 HBM｜美股評析｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPelVUNTlYU0ZETXphWDlCeEQ1VDJtUU81QnhRbzdVekhRUDV1TkREYXhaV05WS2dlcVE1cW9VVFJ6aDRXb3dXdUhPZTYyelVRd3B1TGVpSlVacFQ2WFFoaEdvZHFIV19weG9kX2FkMGNIZDZ1RGxZSjNvT2ZLSXBXRDY5djZKcVliaTB4OGtBcjYyMGo2QVdMc3dkeEMzN0FxWUUtazM2dXFiS0NjR0x1aHBZNWU1MEctVlJPZThNNlFDdGxVSTRSRnBEQmt5TU1vZHZBSUc1N3NTZnA2dzN5cEhlRUMxNFdWZk0wSzhOSkVxTUsxajVoajN0NXBmWU9IaW9FaW43WjBnNDBnZTJzYUtQZEhjOTk2MDB4MFpOMV9qY3NKQkZwVE1QRmhKOEVnZDBVNU0tSGxBQjQ?oc=5"
+      "title": "台股颱風後補漲近千點！一度重返4萬6 亞股獨強 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQY2lDV2VCS0FNblBuMTNYMVB1UTY5cS0wMW1HQUgzTWFBM0NMekFhRFhUTHZLSGtVYV9WZ0hCd1Z0Q1NpNnhlTFprUE5TX0hRbWhCdmpYZ3lLSF9JSDdleGp5UDh2RHFzcHRLbEdFTGI0anpIUVkzb1ZySmVIUHRZaGxtTEZmSTNWMnNtS0pWNzIxanBjQjMzX19SSlZUNEZjQjZXMGU2UTBmMk80OEFUUm5xa3B1bVFES0xiUHI4NXpZQ01BQnVmMFZNbXhhRmJpZ3pjdHJiUHBueVNneGNqUERnYnREYWxOS2p4MURKTDcycDE3Yk9EZ3JNQThYUVhkY2ZwTDFyM0NXb2FCbURuRm5ra19wMkZDZ2FtX3RXekE0cmZEcUczc2xtMXNUY2dKU2tZZk1UNFY4cW1KVzFPNXpCMVZmTDgyMXNjM1picUZtVm80cWYxdkJ1UQ?oc=5"
     },
     {
-      "title": "台股盤中漲逾600點台積電領漲台塑四寶攻高| 股市要聞| 股市 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIX3FMQWl3SGl1YTJQYWpkU3lMM2FjLXJ2T0dGVUFkbk8wUXdMZ3JtbnJfcXF1SHVpZWdoTkFKclFLLUN1WW5YY2xEYWhaX1Rk?oc=5"
+      "title": "SK海力士美股掛牌後獲利了結 首爾股價一度跌逾10% - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FYTlaWjFHdE9NNm5abmRFSW54OFdLQnZFdVUtelBid0k4aER5Zzc0UjhDenRINU5KT04wMUFMWF9kU1FpQ2todFZuYmoycFNkVE8walV4Q0NDRlRlOVBn?oc=5"
     },
     {
-      "title": "台積電領漲 台股早盤漲近千點站回46000點 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JUVhBc1JvNXhRNmotQzlmVmpERFNJWVp0cUNXRC1JQlRMYWgyYlQ0YkEtd05MNkZyQWJTeGU4c2RoOXNsQ1NVUVlnbXBWOXRmMGJZOG1XcENBaEJwdlE?oc=5"
+      "title": "台股震盪成交更熱！6月證交稅首破800億 刷新歷史紀錄 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HZGZoMVBuZ3JlUlZnQ2o0Snlkb0dhTmdjcGNVZjFiVlhlNHRpQlVaSGYtVU9MejFFOTRXMUUxMkhSZDRBTWtBM2k4UFJ2aWdwQWFhRF94RmcyRGRUTGRj0gFkQVVfeXFMT1o1YWItYm9hVVR3SDZuSjZKaThGM2J5UTZteDNQZHp2ckZuSDQ2Q0hWa0JGQ1EwTnU1YUtJSGlfTzVqdW5hejJiY3Zjdlg3aEJOcm9kSmNHTXlqZWVvZ1RpMGdWSg?oc=5"
     },
     {
-      "title": "台股13 日由台積電領軍呈現強勢反彈格局 - 理財周刊",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ReHNub0Q5MDVMaDhWbUFGWWcyZmwwYTUxeTRpQXFrMjJQNzByT2pfQ2ZVMnA3dVhwM0JrUlFCcFNCT0hWMUlLM0h6SFRTT0xRME1ibFFja0ozbFBzaHlUamhUQWNvQnp6WWRvQTNXQQ?oc=5"
+      "title": "美國6月CPI將於7月14日公布，通膨數據如何牽動台美股？半導體、金融、AI哪些產業與個股最受牽動？｜美股觀察 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxNOU8yMnJtZDFhaVRHYlhveVd4REh0VGwxSnA2eVhqZVJNU3VnSHd6TnFyMlZtQng5dl9lcFBqeTNWT1NhSEFKaDhTeE43clZZX2V0LWQ1MXp5MC1uMG5qcloya1V6bFEzWV9DcnRZU0t4OWVycTBza2w1Y0xLTTQ1ZTNIRnEyT18ydHNEaWhybDVMbll3RHZFcTlyOEUtbjN5WVUxUFBydWU1UDlDM1pacWRra0lUaW1wZlJFd2prTUxXZ19oUFNOMXVOTVVSR0JzS1BWSTkwZ3V3QjJNMW9yVXFJSEZObDFFS2VuNlBMc0s1VE50YXJweF9xNzZlWGo3THo1dy1YcDA4S25pT3lrUmtLcmwxVWxNcERVUGVCN01nTmFUSll4Z090VUcxODZFa3kxZElBeVVrNUo4VjI2M1dfWVZnb3ZTdGo4YU1mT25DZTc3WE9iZFUyY2w3WlgtUjlhejFkZkJvR2ttdGZtNi1QLWVYOUV0WUQ3TnQ4dndDNHhfdllOaEllWWhpSWhOOFNYM3BVSkgyaVRkdE1ZdFFxalBvbHhTaWFnWEVHdGx5VG9sak1pdUJpQnZQMEZkVWtaQnVyUnI4SDA4aXFoQVJPR2FBV0tJODh4bldrT0lMLTdZZi1xRXR1cFR0QlZ4enhSNXNMYXFLT1ZWcFJWS1ZpSTBja05MMHlPZXNHdTlHSE5Ic0UzaUNHQWNFa01qX1VnRENBc05scm5jcm5WTkpHZHAxV2ZpcDN6TkpScEdoOWRvLTRZX09lMk1TUWs3ZE9uUWZVOHdBdWZqdVdCaEVtX2NXQVFwTlJxajdGTjc?oc=5"
     },
     {
-      "title": "美伊互轟衝擊市場情緒！美股期貨走跌 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOZUpuU1Y0NURiZ3d5dFkweGFSaFU0X2tsNGVpOTF5NVVSeGNfMGZJN29KUjhBUVhBaHNidG1IWHFMeEJTM21pOHNncDkzZllWWWJTYzNUVlJtd21vak5DXzVKb1FBRUM4WUVGQ0ZydG55cWJyMVhNNWN2SmhORkpJUEZmYmVnYXpWVUQxZkpIRVhuRmhjUlhicTM2N0NKRlNoZ2Q5M2NyeERtcHd2QUpuMWd2TWdnQkNubkpWeVFrcllQU1V2VkdTUWpPX09nZnU2b1VGS1BIb3ZCSm9aRE9yaHJtanBCRl9hU1pSSnJhUlZYX25rdE50dDJIRXdWc0E1M1F5VGlZcHF2OFdOQ2cwcHl1SzI?oc=5"
+      "title": "專家狂喊比特幣 2029 年衝 50 萬美元！歷史數據潑冷水：「暴漲神話」恐成絕響 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTHlmM0JqcWk3YUhTdmQwLXhqVFVPb3J0MFQ3bjFERG90aFZvWFdHLUFBaS1Tc3VJOTdJQmk5enpIVEJLa0t2Z2lDZi13NTBldWZHUE53SVpOME9BUHBCZkcxUDh5dXVSM2hiTDFWZjZWWkNWa0lqdF9QLVhPWng4dEVhX1p2VUJOeG1rNG53SWgwejBlZXhqVDV3VHZuVEwyVnZPaQ?oc=5"
     }
   ]
 }
