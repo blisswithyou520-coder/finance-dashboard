@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/13 10:42",
+  "updated_tw": "07/13 13:54",
   "taiwan": {
     "2330": {
-      "price": 2465.0,
-      "change": 50.0,
-      "changePercent": 2.0704
+      "price": 2440.0,
+      "change": 25.0,
+      "changePercent": 1.0352
     },
     "2454": {
-      "price": 3910.0,
-      "change": -15.0,
-      "changePercent": -0.3822
+      "price": 3825.0,
+      "change": -100.0,
+      "changePercent": -2.5478
     },
     "2317": {
-      "price": 239.5,
-      "change": 2.0,
-      "changePercent": 0.8421
+      "price": 236.5,
+      "change": -1.0,
+      "changePercent": -0.4211
     },
     "0050": {
-      "price": 106.85,
-      "change": 1.05,
-      "changePercent": 0.9924
+      "price": 106.0,
+      "change": 0.2,
+      "changePercent": 0.189
     },
     "00878": {
-      "price": 33.31,
-      "change": 0.12,
-      "changePercent": 0.3616
+      "price": 33.13,
+      "change": -0.06,
+      "changePercent": -0.1808
     },
     "00919": {
-      "price": 29.88,
-      "change": -0.09,
-      "changePercent": -0.3003
+      "price": 29.71,
+      "change": -0.26,
+      "changePercent": -0.8675
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63744.18,
-      "change": -382.9606,
-      "changePercent": -0.5972
+      "price": 62745.08,
+      "change": -1056.9473,
+      "changePercent": -1.6566
     },
     "ETH": {
-      "price": 1811.87,
-      "change": 23.7704,
-      "changePercent": 1.3294
+      "price": 1779.61,
+      "change": -8.4896,
+      "changePercent": -0.4748
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.088,
-      "change": -0.0092,
-      "changePercent": -0.0287
+      "price": 32.048,
+      "change": -0.0492,
+      "changePercent": -0.1533
     },
     "JPYTWD": {
-      "price": 0.1959,
-      "change": -0.0018,
-      "changePercent": -0.8934
+      "price": 0.1954,
+      "change": -0.0023,
+      "changePercent": -1.1464
     },
     "EURTWD": {
-      "price": 36.62,
-      "change": -0.0793,
-      "changePercent": -0.2161
+      "price": 36.577,
+      "change": -0.1223,
+      "changePercent": -0.3332
     },
     "CNYTWD": {
-      "price": 4.7396,
+      "price": 4.7289,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4076.4,
-    "twd": 4205.0,
-    "tael": 157704.0,
-    "twdTotal": 130804.0,
-    "changePercent": -0.6749
+    "usd": 4070.9,
+    "twd": 4195.0,
+    "tael": 157295.0,
+    "twdTotal": 130464.0,
+    "changePercent": -0.8089
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0Sm01eXpKX2xhem5JdUtoY2wtc25idVlfYnM0RzRTWjFzczJxQmlrd3BOc1U5ek5lcHdXNUFFcFgxSzdsXzc4dTJzRDIxVUU?oc=5"
     },
     {
-      "title": "美股「大到不能倒」？ 部分專家料長期熊市將成歷史 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxZDhpeGt6UFJzdWFJU3B4VVdKMm41SEwtUWZYNFJ0SmVnakJ0cndVUFdDRjZPRGJneUV1N1MtQlVGXzdIOW45bXZ2Wkw3MTUxWVBWX3hnUzJSV2t20gFiQVVfeXFMTS1VY0dqcm5jSmJfUFpfU3JiN1U4eFNmWGFaa1FEeVZlckVaZUFXaUZoRExTVUFDS3VWaEY4ZFJqYW15S0hOeWdWMnlqbGpVMlpFZ3pkSklydVpGMm5CWmlsY3c?oc=5"
+      "title": "暗示要調整比特幣部位？Strategy董事長再貼累積圖 - 台視全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmlmaUFINE9FcWFLUDB0TlU3SUpZT2RMcDVjY0I2Nl9jUWVSQmJQWFNoZW45NThONXJHR0tmN3dEUmFRcWVSWkRqMjBIeUNURXVLc3RmaEoxVW5McVBRU2NpWEc1SnpVb1hQU0VXN3ZVbnFjc2hyWEN2Z216UHBickFJeUZ4bmZUa1RDXzhmMk1iMk52UXBPYkpUWFVKbk5aOXlRQUUzczNwVGs?oc=5"
     },
     {
       "title": "SK 海力士（SKHY）：它的核心不是「記憶體」，而是 HBM｜美股評析｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPelVUNTlYU0ZETXphWDlCeEQ1VDJtUU81QnhRbzdVekhRUDV1TkREYXhaV05WS2dlcVE1cW9VVFJ6aDRXb3dXdUhPZTYyelVRd3B1TGVpSlVacFQ2WFFoaEdvZHFIV19weG9kX2FkMGNIZDZ1RGxZSjNvT2ZLSXBXRDY5djZKcVliaTB4OGtBcjYyMGo2QVdMc3dkeEMzN0FxWUUtazM2dXFiS0NjR0x1aHBZNWU1MEctVlJPZThNNlFDdGxVSTRSRnBEQmt5TU1vZHZBSUc1N3NTZnA2dzN5cEhlRUMxNFdWZk0wSzhOSkVxTUsxajVoajN0NXBmWU9IaW9FaW43WjBnNDBnZTJzYUtQZEhjOTk2MDB4MFpOMV9qY3NKQkZwVE1QRmhKOEVnZDBVNU0tSGxBQjQ?oc=5"
     },
     {
-      "title": "快逃還是等抄底？黃金不妙 專家示警恐殺到每盎司3600美元 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GaGlJR1ZZSXJvcU5Ca1RvdXBidkZTNUFPRWJmUzMzU1BjTXZWbWxsTGpoN2tCa0JtSnRBd3dFY0pFSWlVR1MweVdCOXNlLTZUVkJPNWhGaFFGTURPaXZF0gFkQVVfeXFMUGhqR3ZMVVpXdERrVkREajE2dG0tUGFuTXdwQV9qNzl6cE9Yenl2aHR0UmdyVlFnNUlFZ2htdTVkam9fTC1NYWlrS1ZpclhqZFRlbV9sX1VleDVLMm43S1NqOWtEMQ?oc=5"
+      "title": "台股盤中漲逾600點台積電領漲台塑四寶攻高| 股市要聞| 股市 - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIX3FMQWl3SGl1YTJQYWpkU3lMM2FjLXJ2T0dGVUFkbk8wUXdMZ3JtbnJfcXF1SHVpZWdoTkFKclFLLUN1WW5YY2xEYWhaX1Rk?oc=5"
     },
     {
-      "title": "《貴金屬》COMEX黃金下跌0.7% ETF持倉減少- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVRlRnJxMXVLM3pudGlIeFlWM2tHWVo0ZkktSHdRMm4zczNfbmJod0k2a1JpZjV3QVlQT3VRZWJSXzBWSVpGc1pUQld1NXo4WTNMSk5qUGlaeWUtZlNpT2xXa1E0WHZ1aWJWWl84dktDdVJWaEhUUV9aWWI5NGpMSU1jUnI2dDl4SjlYZjJtMUd0UQ?oc=5"
+      "title": "台積電領漲 台股早盤漲近千點站回46000點 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JUVhBc1JvNXhRNmotQzlmVmpERFNJWVp0cUNXRC1JQlRMYWgyYlQ0YkEtd05MNkZyQWJTeGU4c2RoOXNsQ1NVUVlnbXBWOXRmMGJZOG1XcENBaEJwdlE?oc=5"
     },
     {
-      "title": "美股連2日收高投顧：台股有望反映漲勢| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlREozWFllMkV5cndNSzBhcXZhVVpLd3ZjcGJfRTY4a1ozQWhSZUJ1VmR3XzI4VUYzV00yaXZod1p4RGJBd2o3Tl9tVUZTcHlvVkpYN280M0t1cGE4ZVE?oc=5"
+      "title": "台股13 日由台積電領軍呈現強勢反彈格局 - 理財周刊",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ReHNub0Q5MDVMaDhWbUFGWWcyZmwwYTUxeTRpQXFrMjJQNzByT2pfQ2ZVMnA3dVhwM0JrUlFCcFNCT0hWMUlLM0h6SFRTT0xRME1ibFFja0ozbFBzaHlUamhUQWNvQnp6WWRvQTNXQQ?oc=5"
     },
     {
-      "title": "油價不是決定美股走向的主角？真正關鍵是這兩大因素| 全球財經| 全球 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmV0VtNTlIYVBQQ3JXRmhvYnZBOWF3dVpPT2Q3MENnQTZDX2djZm9QTk16QTA1Q3FHY0lfMjc2NTNZUTFGUDk4aWlmM3psS05u?oc=5"
+      "title": "美伊互轟衝擊市場情緒！美股期貨走跌 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOZUpuU1Y0NURiZ3d5dFkweGFSaFU0X2tsNGVpOTF5NVVSeGNfMGZJN29KUjhBUVhBaHNidG1IWHFMeEJTM21pOHNncDkzZllWWWJTYzNUVlJtd21vak5DXzVKb1FBRUM4WUVGQ0ZydG55cWJyMVhNNWN2SmhORkpJUEZmYmVnYXpWVUQxZkpIRVhuRmhjUlhicTM2N0NKRlNoZ2Q5M2NyeERtcHd2QUpuMWd2TWdnQkNubkpWeVFrcllQU1V2VkdTUWpPX09nZnU2b1VGS1BIb3ZCSm9aRE9yaHJtanBCRl9hU1pSSnJhUlZYX25rdE50dDJIRXdWc0E1M1F5VGlZcHF2OFdOQ2cwcHl1SzI?oc=5"
     }
   ]
 }
