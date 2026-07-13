@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/14 06:30",
+  "updated_tw": "07/14 07:36",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62104.57,
-      "change": -1653.6488,
-      "changePercent": -2.5936
+      "price": 62122.46,
+      "change": -1635.7588,
+      "changePercent": -2.5656
     },
     "ETH": {
-      "price": 1764.22,
-      "change": -41.5681,
-      "changePercent": -2.3019
+      "price": 1766.63,
+      "change": -39.1581,
+      "changePercent": -2.1685
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.171,
-      "change": 0.0719,
-      "changePercent": 0.224
+      "price": 32.159,
+      "change": 0.0599,
+      "changePercent": 0.1866
     },
     "JPYTWD": {
-      "price": 0.1959,
-      "change": -0.0023,
-      "changePercent": -1.1515
+      "price": 0.1958,
+      "change": -0.0024,
+      "changePercent": -1.2019
     },
     "EURTWD": {
-      "price": 36.668,
-      "change": 0.0795,
-      "changePercent": 0.2173
+      "price": 36.643,
+      "change": 0.0545,
+      "changePercent": 0.1489
     },
     "CNYTWD": {
-      "price": 4.7483,
+      "price": 4.7474,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4011.6,
-    "twd": 4149.0,
-    "tael": 155598.0,
-    "twdTotal": 129057.0,
-    "changePercent": -2.2538
+    "usd": 4006.0,
+    "twd": 4142.0,
+    "tael": 155323.0,
+    "twdTotal": 128829.0,
+    "changePercent": -2.3903
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股早盤／SK海力士ADR大跌8%拖累晶片股蘋果寫盤中新天價| 全球財經| 全球 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XanAwTHF4ZEN3WUVpYWJ6TG1uQ1pRMXd3cm9TNzVqNTItNlJFLXdnLXVaeVMyNUotMGQ1bUpxTXA4R1BtR2tfZG16Sl91OXBU?oc=5"
+      "title": "〈美股盤後〉川普恢復封鎖伊朗 油價狂飆 費半下殺近5% SK海力士ADR暴跌超9% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50VjN1RXZjMkJaLTZiV1BjeV9zQ3RBUF80cVJuQnFwSUZtZnNFeEVoZUQzMHA0Qk9vTDI3SGVhYm5sdm5yUmE0TGdSTEpTeVk?oc=5"
     },
     {
-      "title": "從英特爾、AMD到Sandisk 什麼引發了美股周一盤前跌勢？ - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41VVBHS3doSk5XZVRIeHdvVHhUZklUel9rSXFtMDdHSGtzYlNSTG1VOFQ1cUx0NTAteDZlSTNyZEcxZU9qLVpNZXRzSnNVMVE?oc=5"
+      "title": "美股早盤／SK海力士ADR大跌8%拖累晶片股蘋果寫盤中新天價| 全球財經| 全球 - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XanAwTHF4ZEN3WUVpYWJ6TG1uQ1pRMXd3cm9TNzVqNTItNlJFLXdnLXVaeVMyNUotMGQ1bUpxTXA4R1BtR2tfZG16Sl91OXBU?oc=5"
     },
     {
       "title": "快訊／記憶體止不住血？美股開盤費半下挫466點 SK海力士ADR續跌 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPeFpxRkFUdzhaOXhiRzdmalpsbnN2QzU0RmxtX3NlaGMydl9panNvUDJHNU41N0NGSTFHWGJzOTZJMjRnbm5PbmVmQndsRDlwZ21YTDlONGVkcDRzSjFXbTJmUld3OTNnTlZCaC0xQmdfN1dwY1dsTzdIbzdGYVNZbllyZkZqamZVM3Rlc09SWlFobU1tWHVyU05hNTNDZF9DQm8zVU5jcm11VHJrMVRSeVdlUXREUTI3ZkZwZkNTUUpndi1fR1RGbjZ5T0I4TEpsS1BxSTZnTXRpd0xwMExLUnRjQ0tXTHNrSzNrbFJ4Z3hVQS11U05GUVR0c0xURWY3aXRqY2xPcVRZZGN2U3RzZjZpcW1YWmdVeUxFdjdoVlpGMkdDUjRHaDdNVTdIMjNhMjJFTkRubEZoNzdtVzFRRWpuNlFONXdXMUxlUk9OUWl4ZHp0amRMVjR0cDdubEVmdkphV3NwVnZFSUJ0UmpPSzBZcGpyQQ?oc=5"
     },
     {
-      "title": "美股基金轉淨流入科技股吸睛- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vckVkNDdvdEQ0UFVaTWw4eVlyRHduSUd1cWpWR3Eydm96Rk4zUWZoUFR6cXFhbGNsdmFzZWFfckFtUTEtTkRJempjV29DcGtWQUFZX1U1NnJndkQ5TS1z?oc=5"
+      "title": "財經青紅燈》台股第三季暗藏殺機 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NV3FUOXA3QmgxdDhEMDdaYnJiQTRCLUgyVFREUHNJdVlnSzlteGktb0JuUlJCbmlyQnRlN2wtZkE5OGtkMDNHUWprVjFPRk83d01jV3p30gFbQVVfeXFMUHRuUTRxUU94cVNtVTdidmZ3YUo2TjZqTndSeEVUV0FCaXhFa3M4bndMT09TbVhzQ201OXJKenZNc1pYVEgwWGY0WTIzdFNCNENnUm52T19IZTBUdw?oc=5"
     },
     {
       "title": "黃金高檔震盪後，抗通膨邏輯還在嗎？ - CME Group",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jXzVHUDVVMXVia29IZW5oNUM5cjFWLVF6cUlOcG9XcnV6VFd1NlZGUzE4RUVrVTVVY1BsWGlFTllua1JtSzFYOGRrUUxfRXZHNExnNzNDaW5qTXdzSEVvN3JNcnJvYzBfWFBJRVNZb09ROUxDanhrWnJNR0hkbjA?oc=5"
     },
     {
-      "title": "財經青紅燈》台股第三季暗藏殺機 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NV3FUOXA3QmgxdDhEMDdaYnJiQTRCLUgyVFREUHNJdVlnSzlteGktb0JuUlJCbmlyQnRlN2wtZkE5OGtkMDNHUWprVjFPRk83d01jV3p30gFbQVVfeXFMUHRuUTRxUU94cVNtVTdidmZ3YUo2TjZqTndSeEVUV0FCaXhFa3M4bndMT09TbVhzQ201OXJKenZNc1pYVEgwWGY0WTIzdFNCNENnUm52T19IZTBUdw?oc=5"
+      "title": "美股收盤／四大指數收黑 費半重挫4.8% 美伊衝突升級油價狂飆10% | 國際焦點 | 國際 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZ2ptTU9wMktaUXpPVlZnZ09CNmVBUEIzS211anpLUy1DTk9YQTdKc1JhS2p3UnRZelEwSWhfWU1SM1phWTB6bGp6bERyaXBOTHlEMF9WUHhEQQ?oc=5"
     },
     {
-      "title": "原油、黃金期 聚光 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zWFA0SFoxR01sOXVJLWk2NHNycXZXQ1ExdFBWUk5kb3FBeEZVNUgtUGRSYlpWdDRkZXpKUVdrTlRYTWpEUDVzM1U1LXlyY3haVVNYZERoMFk1WWPSAWBBVV95cUxOWmRRWVpDYnZkeDYwMWJKZHlidF8yMm5LSmFfMmlQeU5iVWltMWNBNDI2Z1NiLW9kZENJcjBfdE9wT2hpb3d5blRTdFlsbVZ0Q2RKOGZFakV2UXNDYks2WXQ?oc=5"
+      "title": "從英特爾、AMD到Sandisk 什麼引發了美股周一盤前跌勢？ - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41VVBHS3doSk5XZVRIeHdvVHhUZklUel9rSXFtMDdHSGtzYlNSTG1VOFQ1cUx0NTAteDZlSTNyZEcxZU9qLVpNZXRzSnNVMVE?oc=5"
     },
     {
-      "title": "台積電營收再創歷史高 外資續賣台股 殺尾盤憂?台灣上半年出超974.1億美元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxNbHpObUZ0TVhMeVd3TzJIeHU3UGJmQkJOVXZUMDE2eU9janlJNlI3akxvd3RUX05jWnZwQ2tWNkRfeVVHc01mUnROUFN0OXJBLUl2Z0RuZU12ODU5azBycmxIV0VDajJ2bE1BckowRGRsYjIzNlgtaVN5WVRQOGo5VUNkY2pNbXd0RmR3M0ltQ2k2OUV3My1XOHN2bUp3MzM2X2huQ0pUN1NTSk1abHFKdHR2MDFHSlpFT0NacWdCcElCaHRBZU9nTDJudldJeDBIcjNMbXNzMEF0VTBGS3JNY2tFUFlWbWNRY2lIS2pzQk13ZE5Wd2JFMnpwMGVhZnhBZ2l6T05CVFpoTnYtQXNnbkgwbUtUWDZ1ellncnMxbVF6QzNzZHc0NW4wd215QVZpc0RaZTkyc2xmSEJwYTV5U1IyM0tKQXl3aVcyQ3hneDdWZEVycUI5MWZZdV9IRmVwWmhfTEIyUTY2SUU4NnhhMkZrc1M2U3JsOVlpQl9IcXNiemdHQ0lhMTRGVkVzaXF6WVhFZEtrTnBzTDdtM3BMcW9CQTBnV3dMbGNpLUxSS3lzZFgxcFR5UUU2UVR3YWxJOVBoS2VsNDhkRkl2WlE?oc=5"
+      "title": "19歲新手想跨足美股！考慮賣0050買VOO 過來人勸：別急著賣 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPWmhudjA5NTNwMVlOUHRUcXFyOEhrU1RYaE9fOUZuLTRLVXJQejRrVVVmaWZzOENtMGpTRFZ4S2FmaVgwT3Jhc3lIZVQzSl9TdUFhcU9MSVhnajdlYjdfUHllYkU1ZEkySWlETF9WSmtfWlJ2Z1ZncW5jOXlLWjJGQ1Y3UVdBanpJbThPaXVuRS1GeEFPQXN5MF9EYzI3dmE4V0ZicDkwMEhJaTRpX2F2TVVpYkp5cFctZnF2d0d2SW00Y2FIdXBzZ0M1ckE5ZlVWWVhIM0ZfT3JrVFhiRXI5SUdfSG5xSWVnVGRVSDBxb1NPV3VNdzNFSURtWHBvTGRaM3RKUk05U1QzeDY1RHZ3T2pGS1g0YkF0YkVOa0tnOXdNZ3RXNzJJLV83akhRblFqMF9PdmdUMDNPdW9RdUZLa0JKSHZqVENuUTN1MzR6U184c0kwWndvVzdkSQ?oc=5"
     }
   ]
 }
