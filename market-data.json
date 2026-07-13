@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/14 01:29",
+  "updated_tw": "07/14 02:58",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -35,39 +35,39 @@
   },
   "us": {
     "NVDA": {
-      "price": 204.19,
-      "change": -6.77,
-      "changePercent": -3.2091
+      "price": 203.93,
+      "change": -7.03,
+      "changePercent": -3.3324
     },
     "AAPL": {
-      "price": 316.38,
-      "change": 1.06,
-      "changePercent": 0.3362
+      "price": 317.251,
+      "change": 1.931,
+      "changePercent": 0.6124
     },
     "TSLA": {
-      "price": 393.5,
-      "change": -14.26,
-      "changePercent": -3.4972
+      "price": 392.421,
+      "change": -15.339,
+      "changePercent": -3.7618
     },
     "QQQ": {
-      "price": 712.95,
-      "change": -12.56,
-      "changePercent": -1.7312
+      "price": 712.64,
+      "change": -12.87,
+      "changePercent": -1.7739
     },
     "SPY": {
-      "price": 749.82,
-      "change": -5.13,
-      "changePercent": -0.6795
+      "price": 749.73,
+      "change": -5.22,
+      "changePercent": -0.6914
     },
     "SCHD": {
-      "price": 32.54,
-      "change": 0.14,
-      "changePercent": 0.4321
+      "price": 32.565,
+      "change": 0.165,
+      "changePercent": 0.5093
     },
     "VOO": {
-      "price": 689.22,
-      "change": -4.64,
-      "changePercent": -0.6687
+      "price": 689.09,
+      "change": -4.77,
+      "changePercent": -0.6875
     }
   },
   "crypto": {
@@ -84,32 +84,32 @@
   },
   "fx": {
     "USDTWD": {
-      "price": 32.187,
-      "change": 0.0898,
-      "changePercent": 0.2798
+      "price": 32.203,
+      "change": 0.1058,
+      "changePercent": 0.3296
     },
     "JPYTWD": {
-      "price": 0.196,
-      "change": -0.0017,
-      "changePercent": -0.8428
+      "price": 0.1961,
+      "change": -0.0016,
+      "changePercent": -0.7922
     },
     "EURTWD": {
-      "price": 36.705,
-      "change": 0.0057,
-      "changePercent": 0.0156
+      "price": 36.717,
+      "change": 0.0177,
+      "changePercent": 0.0483
     },
     "CNYTWD": {
-      "price": 4.7539,
+      "price": 4.7533,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4007.9,
-    "twd": 4148.0,
-    "tael": 155532.0,
-    "twdTotal": 129002.0,
-    "changePercent": -2.344
+    "usd": 4007.3,
+    "twd": 4149.0,
+    "tael": 155586.0,
+    "twdTotal": 129047.0,
+    "changePercent": -2.3586
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FYTlaWjFHdE9NNm5abmRFSW54OFdLQnZFdVUtelBid0k4aER5Zzc0UjhDenRINU5KT04wMUFMWF9kU1FpQ2todFZuYmoycFNkVE8walV4Q0NDRlRlOVBn?oc=5"
     },
     {
-      "title": "油價不是決定美股走向的主角？真正關鍵是這兩大因素| 全球財經| 全球 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmV0VtNTlIYVBQQ3JXRmhvYnZBOWF3dVpPT2Q3MENnQTZDX2djZm9QTk16QTA1Q3FHY0lfMjc2NTNZUTFGUDk4aWlmM3psS05u?oc=5"
+      "title": "原油、黃金期 聚光 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zWFA0SFoxR01sOXVJLWk2NHNycXZXQ1ExdFBWUk5kb3FBeEZVNUgtUGRSYlpWdDRkZXpKUVdrTlRYTWpEUDVzM1U1LXlyY3haVVNYZERoMFk1WWPSAWBBVV95cUxOWmRRWVpDYnZkeDYwMWJKZHlidF8yMm5LSmFfMmlQeU5iVWltMWNBNDI2Z1NiLW9kZENJcjBfdE9wT2hpb3d5blRTdFlsbVZ0Q2RKOGZFakV2UXNDYks2WXQ?oc=5"
     },
     {
-      "title": "台股翻黑沒在怕！「這檔ETF」靠台積電狠甩對手 攜手0050稱霸全場 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPVlBTN2dJYlo5QVNtNVJoM3dNSUo0X29MYURLV0I2aVBQc1RjYWpVUDE1WDRuZ1l3dXVzTm1PaXJtVGduX1FDVlJ1UjhtM1pUaTg0dXFhemQ4NzFJTi13UFBtQVV2WXc4WlU2REpqYWJnM29GS0htcHQ1ZlI2Q2tzcmxOclN2RndrdlNqcTVaQVVIRGpIMGNSeWxSdWJCNXlJc25mWk0yc2t1S3lUNlZMNnhpMnZJb1JfY21rVnF4b1VfeEN5dnBIb0FKZFlKQnVwQ0lrUk9zWDBINlRxSDMwei13UnFwZkNEQWliTXhSUGdQSUJfQjA2MmNnVGIydk44eEVXNGE3Z0poN0l6WlJvQ1ZtVTdlU3B3TlpGYVoySWJzYXUtX1RwRGFUeVRZNkRZX29zcE9yMXppbjU2cHY3VmdLSUFkTUxaY09JdFBWbmNpWE56Z2ljY091bUt6Rk1PbkZqQ2JycGlaRm1EMXJiVmVCd0NTbjVLODkyeA?oc=5"
+      "title": "台積電營收再創歷史高 外資續賣台股 殺尾盤憂?台灣上半年出超974.1億美元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxNbHpObUZ0TVhMeVd3TzJIeHU3UGJmQkJOVXZUMDE2eU9janlJNlI3akxvd3RUX05jWnZwQ2tWNkRfeVVHc01mUnROUFN0OXJBLUl2Z0RuZU12ODU5azBycmxIV0VDajJ2bE1BckowRGRsYjIzNlgtaVN5WVRQOGo5VUNkY2pNbXd0RmR3M0ltQ2k2OUV3My1XOHN2bUp3MzM2X2huQ0pUN1NTSk1abHFKdHR2MDFHSlpFT0NacWdCcElCaHRBZU9nTDJudldJeDBIcjNMbXNzMEF0VTBGS3JNY2tFUFlWbWNRY2lIS2pzQk13ZE5Wd2JFMnpwMGVhZnhBZ2l6T05CVFpoTnYtQXNnbkgwbUtUWDZ1ellncnMxbVF6QzNzZHc0NW4wd215QVZpc0RaZTkyc2xmSEJwYTV5U1IyM0tKQXl3aVcyQ3hneDdWZEVycUI5MWZZdV9IRmVwWmhfTEIyUTY2SUU4NnhhMkZrc1M2U3JsOVlpQl9IcXNiemdHQ0lhMTRGVkVzaXF6WVhFZEtrTnBzTDdtM3BMcW9CQTBnV3dMbGNpLUxSS3lzZFgxcFR5UUU2UVR3YWxJOVBoS2VsNDhkRkl2WlE?oc=5"
     },
     {
-      "title": "美股夏季行情恐提前結束？大摩警告「三大風險」 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0Sm01eXpKX2xhem5JdUtoY2wtc25idVlfYnM0RzRTWjFzczJxQmlrd3BOc1U5ek5lcHdXNUFFcFgxSzdsXzc4dTJzRDIxVUU?oc=5"
+      "title": "債市正向美股發出警報！高盛警告：市場風險遭低估、科技股恐迎修正 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UMkNabllUNm9FS09JZkxEWVZFM29pOXJreXRrR2hyOHBoLVptRjRPYUI1eEI0N1g2WkZqYW5jaFlXSG16WXZxNjRoWGJ5SkE?oc=5"
     }
   ]
 }
