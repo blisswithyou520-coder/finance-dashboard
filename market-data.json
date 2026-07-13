@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/13 07:53",
+  "updated_tw": "07/13 10:42",
   "taiwan": {
     "2330": {
-      "price": 2415.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 2465.0,
+      "change": 50.0,
+      "changePercent": 2.0704
     },
     "2454": {
-      "price": 3925.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 3910.0,
+      "change": -15.0,
+      "changePercent": -0.3822
     },
     "2317": {
-      "price": 237.5,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 239.5,
+      "change": 2.0,
+      "changePercent": 0.8421
     },
     "0050": {
-      "price": 105.8,
-      "change": -0.0,
-      "changePercent": -0.0
+      "price": 106.85,
+      "change": 1.05,
+      "changePercent": 0.9924
     },
     "00878": {
-      "price": 33.19,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 33.31,
+      "change": 0.12,
+      "changePercent": 0.3616
     },
     "00919": {
-      "price": 29.97,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 29.88,
+      "change": -0.09,
+      "changePercent": -0.3003
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63778.34,
-      "change": -23.6873,
-      "changePercent": -0.0371
+      "price": 63744.18,
+      "change": -382.9606,
+      "changePercent": -0.5972
     },
     "ETH": {
-      "price": 1806.24,
-      "change": 18.1404,
-      "changePercent": 1.0145
+      "price": 1811.87,
+      "change": 23.7704,
+      "changePercent": 1.3294
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.098,
-      "change": 0.0008,
-      "changePercent": 0.0025
+      "price": 32.088,
+      "change": -0.0092,
+      "changePercent": -0.0287
     },
     "JPYTWD": {
-      "price": 0.196,
-      "change": -0.0017,
-      "changePercent": -0.8428
+      "price": 0.1959,
+      "change": -0.0018,
+      "changePercent": -0.8934
     },
     "EURTWD": {
-      "price": 36.64,
-      "change": -0.0593,
-      "changePercent": -0.1616
+      "price": 36.62,
+      "change": -0.0793,
+      "changePercent": -0.2161
     },
     "CNYTWD": {
-      "price": 4.7404,
+      "price": 4.7396,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4084.9,
-    "twd": 4216.0,
-    "tael": 158082.0,
-    "twdTotal": 131117.0,
-    "changePercent": -0.4678
+    "usd": 4076.4,
+    "twd": 4205.0,
+    "tael": 157704.0,
+    "twdTotal": 130804.0,
+    "changePercent": -0.6749
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股「大到不能倒」？ 部分專家料長期熊市將成歷史 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxZDhpeGt6UFJzdWFJU3B4VVdKMm41SEwtUWZYNFJ0SmVnakJ0cndVUFdDRjZPRGJneUV1N1MtQlVGXzdIOW45bXZ2Wkw3MTUxWVBWX3hnUzJSV2t20gFiQVVfeXFMTS1VY0dqcm5jSmJfUFpfU3JiN1U4eFNmWGFaa1FEeVZlckVaZUFXaUZoRExTVUFDS3VWaEY4ZFJqYW15S0hOeWdWMnlqbGpVMlpFZ3pkSklydVpGMm5CWmlsY3c?oc=5"
-    },
-    {
-      "title": "快逃還是等抄底？黃金不妙 專家示警恐殺到每盎司3600美元 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GaGlJR1ZZSXJvcU5Ca1RvdXBidkZTNUFPRWJmUzMzU1BjTXZWbWxsTGpoN2tCa0JtSnRBd3dFY0pFSWlVR1MweVdCOXNlLTZUVkJPNWhGaFFGTURPaXZF0gFkQVVfeXFMUGhqR3ZMVVpXdERrVkREajE2dG0tUGFuTXdwQV9qNzl6cE9Yenl2aHR0UmdyVlFnNUlFZ2htdTVkam9fTC1NYWlrS1ZpclhqZFRlbV9sX1VleDVLMm43S1NqOWtEMQ?oc=5"
-    },
-    {
-      "title": "台股大跌資金往哪跑？這「航運股」6天飆47% 週量增比320%奪量價雙增 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNWU4xZlJNVC1zbUlTeXg3VU50RFdDa3RXWVdQUWs0X1k3NmNpcEZZWlM2QWRoTEZzZjJvYWhsMV9VRXhvUXpsbGZST3p6dV9lX1lJVkRxSnhDSWctcW5kLXdtODhiQ3pzTEFkcVUzNVFtNzhkZzh0bFJMa0NUVE43ek5VQXN1N296NVdZeWlZU3Q1bmV0Tmk0b3dfZVIyc1Q0N2hBd2xfVmZEVm0xSG9EYkkzTFU5MFdKQjl5ajJsSENpZzFqdGJzLS13VFk2bXJWZ1BTZGdUZ0M1MkNaNC1UNnUzTDRBS05qeE9mTTFuQ3cxSWpUcjZkVzBLQVg3WHJMVFZEZ1BWd2M1QllnYTg5eXdRTzlLRGpiTXJlYjhnSzJnWDN6cDY0ek5fWXl3Vm5YQWtXM0U5b1VBMEJka2lBN054WkVicVBTbWZaLQ?oc=5"
-    },
-    {
-      "title": "《貴金屬》COMEX黃金下跌0.7% ETF持倉減少- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVRlRnJxMXVLM3pudGlIeFlWM2tHWVo0ZkktSHdRMm4zczNfbmJod0k2a1JpZjV3QVlQT3VRZWJSXzBWSVpGc1pUQld1NXo4WTNMSk5qUGlaeWUtZlNpT2xXa1E0WHZ1aWJWWl84dktDdVJWaEhUUV9aWWI5NGpMSU1jUnI2dDl4SjlYZjJtMUd0UQ?oc=5"
-    },
-    {
-      "title": "財報季帶動美股ETF投資升溫- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SWGxxQVBuQ1N1ZXdwYllLNHZrOTNJZ1BCVi0xVE82a3pVNnZHaktKSl9sbUNqaWFiYVV5UC0tZUZXdUdwUkcwcTZ1cHhFR0YzYktrcmt2czFVYVRDOS1B?oc=5"
-    },
-    {
-      "title": "金十數據全球財經早餐 | 2026年7月13日 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV3VJa21CWjJkemJsRXhVZTdfRVB2MlYtRTlxX3BGM3F0YWRQN3ZtM3AycVpMNDIzZ0UtWVFyN2dfZUsyS0xBZkFYLV80d2QyMFZxZkl2T2pBVTUxMzRkcnp0cHBQa21Xd1NiQXFkMGRmcTQwa3d5c3ZGNXQ1QjZraEZVSGViQmJBV1poVUZjVnp0WklOOHFtNi1KTFoyRXE3?oc=5"
+      "title": "美股迎「緊繃週二」：CPI、銀行財報與Fed證詞密集登場 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxONlU0WkdjbW9WZnNBcnkyWkcxYXNFazlwczVFNHBJdlRHSGxQMzdEWmF2S3ZQM2dJY3lobHo1NDAxbEZkU0JRUGhBVnlZcnJxR0NJSUVmUUpla05QYmpfTUhUakJ5bE9WelJ0MnlKVDVNX3NlbVY1QWJDSkhfd2swZkNobGlvcE92QUU5V0E3aEJneXlWU2xCOVAwd0J1SWdlQmZRUTF6MHBadURrUkJUd3hwUHdmMlM5ZG9IRHVUdkpwc0lLeGpBdkVnWE5ZWlNxdUw5U2dJTlFFTGJsQ3Y0UmZlRWM0aVVUcWdSZzcwcFJra1FTdTRSemxjT0tyUzhqZUV6UXgzOHNTbXFEZ0xlN2NiYWRzUXY5Mzd3Z0p2UDFUOXZ0dWZWbXhzYW1LcVBwblVGcnNPc0JaU2RRU1hV?oc=5"
     },
     {
       "title": "美股夏季行情恐提前結束？大摩警告「三大風險」 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0Sm01eXpKX2xhem5JdUtoY2wtc25idVlfYnM0RzRTWjFzczJxQmlrd3BOc1U5ek5lcHdXNUFFcFgxSzdsXzc4dTJzRDIxVUU?oc=5"
     },
     {
-      "title": "《財經大代誌》- 亞洲生技展點火 台積電法說與美股財報重磅登場 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxORXZ5b2F2b08wMVRmVGItZ0d3M1JmZ3RoMnh2dlNZemJDc0hyS3hWYnBnT2xhRVNNdFhDOUsxMnpEcGhveU5Sb1pJWWtQc29DRmxLMTZfNi02MjVtOVpPMWRXNkNoSTVKbVJWZEIyTXJFMENaamhoUzdMLXByTGJQdElVUmpURHFMNGtXM1NraS1FVmlFZWJKTkk1SmEtUjZpTEdkbTFkN0tFVW5MdUkzeEh1UVBicEpSakhyYjlGOGZRWm5YSmJPSkdaQzV1aXA1RjZjQ1FkMXVvdWZ3Skt6TzRfOVRpcFJNYkhjWmtzOGNzSmhLNHU2VTBTeGNBb0wxVlVpR2F3X1FuVjdsTWNnS1ZRWS0tVjZWamxnd2VkeW95MjlGTDVMTnJYSFIyRnEyYzhabGdVS1NkaW55YndscjdSazJFQjFraDdaTGZrbGdhd0l4Vk11Wm5Zbm81WXN6SklBR25PUHM0bkw0Z3pzVmVaUU94aHBBM2hyNXgyZS04MW90clE2bkh5T0w0bWJndGFxOVlB?oc=5"
+      "title": "美股「大到不能倒」？ 部分專家料長期熊市將成歷史 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxZDhpeGt6UFJzdWFJU3B4VVdKMm41SEwtUWZYNFJ0SmVnakJ0cndVUFdDRjZPRGJneUV1N1MtQlVGXzdIOW45bXZ2Wkw3MTUxWVBWX3hnUzJSV2t20gFiQVVfeXFMTS1VY0dqcm5jSmJfUFpfU3JiN1U4eFNmWGFaa1FEeVZlckVaZUFXaUZoRExTVUFDS3VWaEY4ZFJqYW15S0hOeWdWMnlqbGpVMlpFZ3pkSklydVpGMm5CWmlsY3c?oc=5"
+    },
+    {
+      "title": "SK 海力士（SKHY）：它的核心不是「記憶體」，而是 HBM｜美股評析｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPelVUNTlYU0ZETXphWDlCeEQ1VDJtUU81QnhRbzdVekhRUDV1TkREYXhaV05WS2dlcVE1cW9VVFJ6aDRXb3dXdUhPZTYyelVRd3B1TGVpSlVacFQ2WFFoaEdvZHFIV19weG9kX2FkMGNIZDZ1RGxZSjNvT2ZLSXBXRDY5djZKcVliaTB4OGtBcjYyMGo2QVdMc3dkeEMzN0FxWUUtazM2dXFiS0NjR0x1aHBZNWU1MEctVlJPZThNNlFDdGxVSTRSRnBEQmt5TU1vZHZBSUc1N3NTZnA2dzN5cEhlRUMxNFdWZk0wSzhOSkVxTUsxajVoajN0NXBmWU9IaW9FaW43WjBnNDBnZTJzYUtQZEhjOTk2MDB4MFpOMV9qY3NKQkZwVE1QRmhKOEVnZDBVNU0tSGxBQjQ?oc=5"
+    },
+    {
+      "title": "快逃還是等抄底？黃金不妙 專家示警恐殺到每盎司3600美元 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GaGlJR1ZZSXJvcU5Ca1RvdXBidkZTNUFPRWJmUzMzU1BjTXZWbWxsTGpoN2tCa0JtSnRBd3dFY0pFSWlVR1MweVdCOXNlLTZUVkJPNWhGaFFGTURPaXZF0gFkQVVfeXFMUGhqR3ZMVVpXdERrVkREajE2dG0tUGFuTXdwQV9qNzl6cE9Yenl2aHR0UmdyVlFnNUlFZ2htdTVkam9fTC1NYWlrS1ZpclhqZFRlbV9sX1VleDVLMm43S1NqOWtEMQ?oc=5"
+    },
+    {
+      "title": "《貴金屬》COMEX黃金下跌0.7% ETF持倉減少- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVRlRnJxMXVLM3pudGlIeFlWM2tHWVo0ZkktSHdRMm4zczNfbmJod0k2a1JpZjV3QVlQT3VRZWJSXzBWSVpGc1pUQld1NXo4WTNMSk5qUGlaeWUtZlNpT2xXa1E0WHZ1aWJWWl84dktDdVJWaEhUUV9aWWI5NGpMSU1jUnI2dDl4SjlYZjJtMUd0UQ?oc=5"
+    },
+    {
+      "title": "美股連2日收高投顧：台股有望反映漲勢| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlREozWFllMkV5cndNSzBhcXZhVVpLd3ZjcGJfRTY4a1ozQWhSZUJ1VmR3XzI4VUYzV00yaXZod1p4RGJBd2o3Tl9tVUZTcHlvVkpYN280M0t1cGE4ZVE?oc=5"
+    },
+    {
+      "title": "油價不是決定美股走向的主角？真正關鍵是這兩大因素| 全球財經| 全球 - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmV0VtNTlIYVBQQ3JXRmhvYnZBOWF3dVpPT2Q3MENnQTZDX2djZm9QTk16QTA1Q3FHY0lfMjc2NTNZUTFGUDk4aWlmM3psS05u?oc=5"
     }
   ]
 }
