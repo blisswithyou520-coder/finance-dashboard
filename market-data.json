@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/14 07:36",
+  "updated_tw": "07/14 09:04",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -72,31 +72,31 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62122.46,
-      "change": -1635.7588,
-      "changePercent": -2.5656
+      "price": 63228.4,
+      "change": -573.6273,
+      "changePercent": -0.8991
     },
     "ETH": {
-      "price": 1766.63,
-      "change": -39.1581,
-      "changePercent": -2.1685
+      "price": 1799.0,
+      "change": 10.9004,
+      "changePercent": 0.6096
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.159,
-      "change": 0.0599,
-      "changePercent": 0.1866
+      "price": 32.204,
+      "change": 0.1049,
+      "changePercent": 0.3268
     },
     "JPYTWD": {
-      "price": 0.1958,
-      "change": -0.0024,
-      "changePercent": -1.2019
+      "price": 0.1961,
+      "change": -0.0021,
+      "changePercent": -1.0506
     },
     "EURTWD": {
-      "price": 36.643,
-      "change": 0.0545,
-      "changePercent": 0.1489
+      "price": 36.699,
+      "change": 0.1105,
+      "changePercent": 0.302
     },
     "CNYTWD": {
       "price": 4.7474,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4006.0,
-    "twd": 4142.0,
-    "tael": 155323.0,
-    "twdTotal": 128829.0,
-    "changePercent": -2.3903
+    "usd": 4010.6,
+    "twd": 4153.0,
+    "tael": 155719.0,
+    "twdTotal": 129157.0,
+    "changePercent": -2.2782
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XanAwTHF4ZEN3WUVpYWJ6TG1uQ1pRMXd3cm9TNzVqNTItNlJFLXdnLXVaeVMyNUotMGQ1bUpxTXA4R1BtR2tfZG16Sl91OXBU?oc=5"
     },
     {
-      "title": "快訊／記憶體止不住血？美股開盤費半下挫466點 SK海力士ADR續跌 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPeFpxRkFUdzhaOXhiRzdmalpsbnN2QzU0RmxtX3NlaGMydl9panNvUDJHNU41N0NGSTFHWGJzOTZJMjRnbm5PbmVmQndsRDlwZ21YTDlONGVkcDRzSjFXbTJmUld3OTNnTlZCaC0xQmdfN1dwY1dsTzdIbzdGYVNZbllyZkZqamZVM3Rlc09SWlFobU1tWHVyU05hNTNDZF9DQm8zVU5jcm11VHJrMVRSeVdlUXREUTI3ZkZwZkNTUUpndi1fR1RGbjZ5T0I4TEpsS1BxSTZnTXRpd0xwMExLUnRjQ0tXTHNrSzNrbFJ4Z3hVQS11U05GUVR0c0xURWY3aXRqY2xPcVRZZGN2U3RzZjZpcW1YWmdVeUxFdjdoVlpGMkdDUjRHaDdNVTdIMjNhMjJFTkRubEZoNzdtVzFRRWpuNlFONXdXMUxlUk9OUWl4ZHp0amRMVjR0cDdubEVmdkphV3NwVnZFSUJ0UmpPSzBZcGpyQQ?oc=5"
+      "title": "美股盤後｜地緣風險升溫，海力士重挫，四大指數收黑 0714｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQN2ROa0ZtOTJfWGxtcDhNc3YyNEFadnZpaEtoNHI0ZlI5elk4WndzWGZ2cFI0bWZLa1BtdUN5QzBHQTVNMUg0ME9WaVJMdVhUZS1RZUVFSXRuX2ZJVS1kQXBuTUZNbVFQY2pyV25EdEZLaS05cHV6eURlZUlsNUNTajV0aWs0dHVTbmJTMGFtd3BoOE80a0hpYnJZeXVNekpJSFN6RDZQX3RoSldPak9Qbm10MWNpTFFIeUpOS1d0bV9YT2hXZERRX1MzZy1oNVhBcWhhaU9yWWdES1B6UThMc1A0RFpnSFlvZFJTZkNZTWFxM1BoempqemNqckNxbHJLU2VyajhnZ2k2bjJZV1VFRk9aZlZEOTJLXy1TaTFVZWJTZERCTUJpQnZUX0tJZFQ2LUhpVEZNQ29XMExhZGI4RjVNWmpGV1V6NmdpclBJSXBDRmp2bWJnb2dtTmFYcUxxV1dIZGJyQzJSMUd3SUZudlFidDk5T21YSDRvaWFVZjZWYUk?oc=5"
     },
     {
-      "title": "財經青紅燈》台股第三季暗藏殺機 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NV3FUOXA3QmgxdDhEMDdaYnJiQTRCLUgyVFREUHNJdVlnSzlteGktb0JuUlJCbmlyQnRlN2wtZkE5OGtkMDNHUWprVjFPRk83d01jV3p30gFbQVVfeXFMUHRuUTRxUU94cVNtVTdidmZ3YUo2TjZqTndSeEVUV0FCaXhFa3M4bndMT09TbVhzQ201OXJKenZNc1pYVEgwWGY0WTIzdFNCNENnUm52T19IZTBUdw?oc=5"
+      "title": "伊朗緊張局勢重創市場信心 美股收低晶片股領跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQb0VDN2pFWldyNUYtWkNpUXotTFhmd0FvOUR0M01zZkQxZWhqaWstNUlDRXpzWld5cXRwclZ2aUNQQVpzT1k2RnhPTU10alJDOFItc0cxTUMwcWJiMVlnYWg0UlFHSkNOSUZZT2h5NmFMSWFpcFI1YkludjIwU19oTlRXMmxVWkw2VDBjeEFTRnkwUWYxZjAwZWFfYkcwQ1Jtd1BxdWU1Tk9jbHkybHl0bUVzbDg0aFBSZ21DcnJDSDMyT3hWVXNqTk93aFBUSk1fLXZJMmVvZVpKRHNzN3RRaGh0c0J1a2RveGJnRktacDJTX3VTcU9wRjR5dlIwRW15N2Yzd0V2MHNJekZac3JyUkRKU29YUWZDLW1NOEQ3TXpDejFiZlFJZzh4MEVPeWxxTW84amhWdG1jNUJKV0VpUjhoV2psWDZCd25IWUtxczl0ZnZGaVNfSQ?oc=5"
     },
     {
-      "title": "黃金高檔震盪後，抗通膨邏輯還在嗎？ - CME Group",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jXzVHUDVVMXVia29IZW5oNUM5cjFWLVF6cUlOcG9XcnV6VFd1NlZGUzE4RUVrVTVVY1BsWGlFTllua1JtSzFYOGRrUUxfRXZHNExnNzNDaW5qTXdzSEVvN3JNcnJvYzBfWFBJRVNZb09ROUxDanhrWnJNR0hkbjA?oc=5"
-    },
-    {
-      "title": "美股收盤／四大指數收黑 費半重挫4.8% 美伊衝突升級油價狂飆10% | 國際焦點 | 國際 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZ2ptTU9wMktaUXpPVlZnZ09CNmVBUEIzS211anpLUy1DTk9YQTdKc1JhS2p3UnRZelEwSWhfWU1SM1phWTB6bGp6bERyaXBOTHlEMF9WUHhEQQ?oc=5"
+      "title": "美伊衝突美股收低法人：台股面臨45000點保衛戰| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3dkp0U3ZnMG9MZFowQ1RjLVVPYktwRWNhZTRzYUg4OHFGOWVhcWF0NTR5a0p4bTBvalVtRGw5VFBXOE5XN2RWajhweU9qVlBmTjRCVThQeUozUnJaUVE?oc=5"
     },
     {
       "title": "從英特爾、AMD到Sandisk 什麼引發了美股周一盤前跌勢？ - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41VVBHS3doSk5XZVRIeHdvVHhUZklUel9rSXFtMDdHSGtzYlNSTG1VOFQ1cUx0NTAteDZlSTNyZEcxZU9qLVpNZXRzSnNVMVE?oc=5"
     },
     {
-      "title": "19歲新手想跨足美股！考慮賣0050買VOO 過來人勸：別急著賣 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPWmhudjA5NTNwMVlOUHRUcXFyOEhrU1RYaE9fOUZuLTRLVXJQejRrVVVmaWZzOENtMGpTRFZ4S2FmaVgwT3Jhc3lIZVQzSl9TdUFhcU9MSVhnajdlYjdfUHllYkU1ZEkySWlETF9WSmtfWlJ2Z1ZncW5jOXlLWjJGQ1Y3UVdBanpJbThPaXVuRS1GeEFPQXN5MF9EYzI3dmE4V0ZicDkwMEhJaTRpX2F2TVVpYkp5cFctZnF2d0d2SW00Y2FIdXBzZ0M1ckE5ZlVWWVhIM0ZfT3JrVFhiRXI5SUdfSG5xSWVnVGRVSDBxb1NPV3VNdzNFSURtWHBvTGRaM3RKUk05U1QzeDY1RHZ3T2pGS1g0YkF0YkVOa0tnOXdNZ3RXNzJJLV83akhRblFqMF9PdmdUMDNPdW9RdUZLa0JKSHZqVENuUTN1MzR6U184c0kwWndvVzdkSQ?oc=5"
+      "title": "美股收盤／四大指數收黑 費半重挫4.8% 美伊衝突升級油價狂飆10% - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zZzlta3hwekR3U1dVTHF0bkhyc1E3U3JBZDlxdnFlWDZsR0hfU2g5STB0OGpzSXJrWkRNMzRlTnhqMFlwRzk4MnVGRzg2Rkl6?oc=5"
+    },
+    {
+      "title": "聯準會沃勒警告通膨恐升息 比特幣面臨美國數據考驗 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOazJ1eVl5NXV6WnFtdVh4b0llM0xyU0ZUNVRoNHdadV9fQ09ZRnRTYUVjVXczSmI4TDQ3TFl0OTNmdzIwd2hTcFNNZV9iS1BTZzliV1NhaHQyT1dlalh2OE1BZFJIZzNqU3ZoTm82cWQ3YnZ1VTVncWE5bjZBMlBXSWJxY3NQX3FZcXlHRWFselN2S2UtY0JsVDVBeE9QdmpVdFozTjRnaUVpMU9GX2NLRjE1UEVQaEw5MUZkMzNUZEhnTFUxdVVWQzVzckNRVE5SdzFnTlowc0ltTGdYSmVwbENkZFlIN2JxSVVMVUx4dDJiUkVkYjhhZGZrMzdTQTlSaGUyV3NWN3ZEZXFCSnM5c1JEMTgzclRHeE12bzV4aExtX09LQUdSOVctMDM5WnR2WkdxWHFxakF6U1V6RVYxdmZheF9JU1I4MW1LbjdTcDRLLXIydWhXeWxkYkZrRFZHbGs4TzlrWVY5MkJiMzA3bg?oc=5"
     }
   ]
 }
