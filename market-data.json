@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/14 22:14",
+  "updated_tw": "07/14 23:49",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 204.3919,
-      "change": 0.8619,
-      "changePercent": 0.4235
+      "price": 209.02,
+      "change": 5.49,
+      "changePercent": 2.6974
     },
     "AAPL": {
-      "price": 314.25,
-      "change": -3.06,
-      "changePercent": -0.9644
+      "price": 313.96,
+      "change": -3.35,
+      "changePercent": -1.0557
     },
     "TSLA": {
-      "price": 398.98,
-      "change": 4.22,
-      "changePercent": 1.069
+      "price": 397.68,
+      "change": 2.92,
+      "changePercent": 0.7397
     },
     "QQQ": {
-      "price": 716.28,
-      "change": 4.54,
-      "changePercent": 0.6379
+      "price": 721.12,
+      "change": 9.38,
+      "changePercent": 1.3179
     },
     "SPY": {
-      "price": 749.93,
-      "change": 0.76,
-      "changePercent": 0.1014
+      "price": 751.85,
+      "change": 2.68,
+      "changePercent": 0.3577
     },
     "SCHD": {
-      "price": 32.401,
-      "change": -0.159,
-      "changePercent": -0.4883
+      "price": 32.279,
+      "change": -0.281,
+      "changePercent": -0.863
     },
     "VOO": {
-      "price": 689.31,
-      "change": 0.81,
-      "changePercent": 0.1176
+      "price": 691.11,
+      "change": 2.61,
+      "changePercent": 0.3791
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63742.69,
-      "change": 1503.5689,
-      "changePercent": 2.4158
+      "price": 64769.85,
+      "change": 2530.7289,
+      "changePercent": 4.0661
     },
     "ETH": {
-      "price": 1864.94,
-      "change": 91.4393,
-      "changePercent": 5.1559
+      "price": 1879.64,
+      "change": 106.1393,
+      "changePercent": 5.9847
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.1,
-      "change": 0.0009,
-      "changePercent": 0.0028
+      "price": 32.136,
+      "change": 0.0369,
+      "changePercent": 0.115
     },
     "JPYTWD": {
-      "price": 0.1962,
-      "change": -0.002,
-      "changePercent": -1.0001
+      "price": 0.1961,
+      "change": -0.0021,
+      "changePercent": -1.0506
     },
     "EURTWD": {
-      "price": 36.839,
-      "change": 0.2505,
-      "changePercent": 0.6846
+      "price": 36.797,
+      "change": 0.2085,
+      "changePercent": 0.5698
     },
     "CNYTWD": {
-      "price": 4.7491,
+      "price": 4.7539,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4082.6,
-    "twd": 4213.0,
-    "tael": 158003.0,
-    "twdTotal": 131051.0,
-    "changePercent": 2.1416
+    "usd": 4086.0,
+    "twd": 4222.0,
+    "tael": 158312.0,
+    "twdTotal": 131308.0,
+    "changePercent": 2.2267
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQTzZ1SkNLSXNkZ1ZGS2JXcjltTC16S2ZpTzRtLURfMEdLMmlEQXFhVmZENzRpUktUdUdvVXBUQ01QZERyYnAzWTZDS2p1Q2J0cjk4T1JnZ0ZsbGFiWEEtM29PUVdHVUdINXFzdFp3dXBGeXVxRXloSzVJdndaSjE2Y1pKdG1COWRjT2tNU1BKcmExdVN5RU9IeVN6TjNjeG15dko1RjdTX3FwaDJCS1ZKSWtNZmQwR0prVGlTOC01eHd3UFVrSm5qb0NWaFRCQkpfNXF2aURxUVdDR1VpYk80dkFVN3p2dU5MQ2dpRlJLel82OXE0MmQ3NWpSTFNGTU5LN0pnTVdSTGxoSUI3dFhUZ25FUDVnZWh1WkhLRGF1REZXTnhVOGJQaVV4S3RPX3lGdjJ6NnZhT1hLSzJaU1BqMzJCeUVWTXV2MV9vWGFISl9NQzdpVXoxTzIwMFllVjJFRTdz?oc=5"
     },
     {
-      "title": "台股崩跌642點！電子五哥「這檔」周四除息配發15.6元 急拉翻紅重返380元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNRFozNTRwcHIweUtlRHZLRlVDZ0RiR1dFVmlKbVc1a1NyVmxUN2lveGpOUlppZjc0cXhkbXltWmR6RFFUY0ZwWWk4cWNjRjEyZXZHX1V4ZnNoWHY1ZVkwanZ3QUNHbU1JTGEtMXFRRTVEeTh4WnhzT3N1ek04V0VEQlhXWFM4VzJXRFVtckFsZ21tbHI2M0szWEdueXh4SGszbDdtT3NkN2JFZEVGN2x6R2NRaUJMZzB3aGhFNnFMM3JyeDJxLUZ4MWNDdXFlblBnSkZXSEUwNWptOUozZnZJelJZSXkwNks2SEdwZ3M4bEZuNkJXLW5JczBSRWZMWjRvTkQzWkZqeGtTeWhjTzVJQ2kxNThETXhESmN5VWtqT3J0R2VLSkJCcnZJRTN0dGcxNGxZSWJVZlBLdFFORVMwMQ?oc=5"
+      "title": "台股重摔！分析師揭「3大止跌訊號」示警快做1操作 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQNGJlajB0bXM5SzhULXBBWG1VNy1WamVlUURyc1RJTDYtWGZ5YVVub2pzZWRLcS02VEluZ25feUl6MEVHQzlsTVVCWWdRSDdrY3hVVzU2UUxHOTRKMnVicTFqUGNSR1RfM3hNTTNuZDBORWNkNkNES1hrOGx1YVJ1ZU9FQnpsNF9JQmtLYVZsZTJvUVhLbGpaT0Q1ajk4dkY4bTdkZWxjUjhRRm0xQnp5UnFUU0lmTGYtbUh2XzkwT2dYN0duWnlYNWtQVDVTV3NXLUZJclpVVzFMc25XWXB0NDNUNDZTenFNZmhaX2I4VDZ4ZUItb0JJX3RYSkIwSXZpS3dBWmo2QmNnZVNFaU5VZlB0OWY2NVdvN0syVWpIVkNKWkVYdVVYZjhVcmY4eVhyZEp6T0x3TDgyeVlEbHFuWmxPMjRZQQ?oc=5"
     }
   ]
 }
