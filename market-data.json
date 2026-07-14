@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/14 18:45",
+  "updated_tw": "07/14 20:11",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62728.02,
-      "change": 488.8989,
-      "changePercent": 0.7855
+      "price": 62732.95,
+      "change": 493.8289,
+      "changePercent": 0.7934
     },
     "ETH": {
-      "price": 1792.25,
-      "change": 18.7493,
-      "changePercent": 1.0572
+      "price": 1793.2,
+      "change": 19.6993,
+      "changePercent": 1.1108
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.168,
-      "change": 0.0689,
-      "changePercent": 0.2147
+      "price": 32.159,
+      "change": 0.0599,
+      "changePercent": 0.1866
     },
     "JPYTWD": {
       "price": 0.1961,
@@ -94,22 +94,22 @@
       "changePercent": -1.0506
     },
     "EURTWD": {
-      "price": 36.691,
-      "change": 0.1025,
-      "changePercent": 0.2801
+      "price": 36.725,
+      "change": 0.1365,
+      "changePercent": 0.373
     },
     "CNYTWD": {
-      "price": 4.7493,
+      "price": 4.7496,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4022.6,
-    "twd": 4160.0,
-    "tael": 156010.0,
-    "twdTotal": 129399.0,
-    "changePercent": 0.6405
+    "usd": 4037.8,
+    "twd": 4175.0,
+    "tael": 156556.0,
+    "twdTotal": 129852.0,
+    "changePercent": 1.0208
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,16 +121,16 @@
       "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxPbndoNFhOOUJhalQyanF6SExmQWpvSmRKQWZGUnBYODlERzNDVXc4VUMyTnhCQVlMUkJpODZ2dkZCclJNUi1scnQ0N3VVS2NVY0hNWmNDNVZ2aFdpTHNNOE1jWlp5MWpPOTB1dVJmOWswaVpRRjZDTS1kbGROYkVBZTZVd3NkeWZtUkRfaEhJRmlQOUU3VzFTNlpiZ0V2QzF4Wk5MWk52cS1vdzY1ZmxSWmdpVzNvRmZNdUpnWVpoSHhYMXZVOFo4dVlQcWpFbXdLZ09Kd3Bpd0hfTnlvOFN6RHAxb3BvWWZ2Q2JNZ2thdHJtbW9mSGtjUkZfTzZiSERVZEVRaGdITkR2djRkeFVLRjNRY09RdDNkSUpweHlDZjJoOFk1YjhqZm5USEtlNG1DdDBuaTJjYVd3eHo1RFB4QTgwZzl1dmVaOGYzdzM3d21Ta1hlQTYzRmxOQVpwWEJWRmpoMWxhRmt5SGVIaWV5a2VHR0UzZUxXVzBCUklIME9RSDVRdVVXYzVDd1RsM1dvMjlpTzFpZ1ZvZzhhZ25DZEN4amVsY1loMFRUOVktM19HdzZmTm9XdzZ2VkNaNWZ4YS1xQ1AzSmctc1ZITnJXOFB0WjVVb25acTFLdnBwR09kYVY4amxjdW44QU1WMjFUdS05ZGRtcGRfaTlYa1EwNGxyUzh1Sy1JWV9IWXZUU1NTYmREZS1EQVoybTJGdmNtVzFmd0hEWQ?oc=5"
     },
     {
-      "title": "黃金最大悖論：美元越強、金價越跌，但長期價值反而可能越高 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSkI2elNMOGhLUy1iS2N6dmFOMkR4UUlpd1RqNFB1VjFEeXk2SFpZY2dOWWZqcmxjRTJidXNmZjl2QnFULUxfaEp5VlZkRUc1dnVVUXpveEJDTFZRdmpzbHJPUVdWRTZnVjVXN0RISFpCMl9LRWllRnhoaXNmQzVWYmI0SktkdzJrNHJsazJzTQ?oc=5"
+      "title": "川普再次封鎖荷莫茲！美股四指數收黑「費半重摔4%」 台指期夜盤跌507點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQVGNqMEVqVnhieE92T0RPWkJMZVFSWGxZMldLaXpwcG52cmF4X1dUc2NRQUxhM1VaaGhrQ2FKTkJITXZyUmYwVHNiNnRIRnpMSWxBUGd4a3NIdHRWLUxPTmpQTU9IbHdGRGZ0TDhmZXk3a0J2U3dVV0dWZzFMMzdsVUNZNmFmQVR0a3Q1Q0xqTUV6bkJsRm5KRGVWamdRNlkzZ2I4OU5kQWVvYTlIMG5ZY0w5d1NiNVVuczVGZDBtMEZFa3RHeFFzZFN6OFZydkJ3TnVLRl9xc0tvWXA2VVJXQTFwZEF4c1Q3NGg2X3lPUGpjeHhKdExNclVldHVrVHIxYU1Ua3dTcldpRGlITlFDbDFkNEh0Z20tSlFEdl8zaXhWSWRCZ1JyTGtCOFR2Tk44bnlzcC1PSURkSERoM1FVU24xdmJUY3BwOFBQM0JudUJkelE0WjNQSmpkR29Nb1o1MXBjZ214TWU1ZmpYaGstdmUtcXk4U3RGRXA3cXp5TUpYQjhlaFRpVkJ4TGp4VC1ENFl6b3A3R004aS1IZXRMcERHM2JiRXpR?oc=5"
     },
     {
       "title": "黃金崩潰！「這些貴金屬」也慘跌 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1WktFNkNfZXk0Yi1jUm05VEJHcjR6aDFObWtxaUZVTkdSdmZPUjU0WV92bDF0NWdpdnJUakw3T2NKQ2kxSDUzT2UxaEE0S0N0LU1BNU9UT1FhVlRiaGRr0gFkQVVfeXFMTlRBbU1NaUp0UGpiS0FzbVFKcEphVkNqTkxyNTcwdE5ZblpySTF0T24xMEkwZWpvWDNtdGJJWkduekhnQVdtUVJXZDkzQ00zUDIwZWhTZ0tQdkVUNkduRGxJTXgtcg?oc=5"
     },
     {
-      "title": "川普再次封鎖荷莫茲！美股四指數收黑「費半重摔4%」 台指期夜盤跌507點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQVGNqMEVqVnhieE92T0RPWkJMZVFSWGxZMldLaXpwcG52cmF4X1dUc2NRQUxhM1VaaGhrQ2FKTkJITXZyUmYwVHNiNnRIRnpMSWxBUGd4a3NIdHRWLUxPTmpQTU9IbHdGRGZ0TDhmZXk3a0J2U3dVV0dWZzFMMzdsVUNZNmFmQVR0a3Q1Q0xqTUV6bkJsRm5KRGVWamdRNlkzZ2I4OU5kQWVvYTlIMG5ZY0w5d1NiNVVuczVGZDBtMEZFa3RHeFFzZFN6OFZydkJ3TnVLRl9xc0tvWXA2VVJXQTFwZEF4c1Q3NGg2X3lPUGpjeHhKdExNclVldHVrVHIxYU1Ua3dTcldpRGlITlFDbDFkNEh0Z20tSlFEdl8zaXhWSWRCZ1JyTGtCOFR2Tk44bnlzcC1PSURkSERoM1FVU24xdmJUY3BwOFBQM0JudUJkelE0WjNQSmpkR29Nb1o1MXBjZ214TWU1ZmpYaGstdmUtcXk4U3RGRXA3cXp5TUpYQjhlaFRpVkJ4TGp4VC1ENFl6b3A3R004aS1IZXRMcERHM2JiRXpR?oc=5"
+      "title": "黃金最大悖論：美元越強、金價越跌，但長期價值反而可能越高 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdXltRzR6OVFkWmZjMXRuWGZZby0zQm03N01rVk9UX0xIQlhsZVJMSDJCakhKbzdvdXB6WWhNN19XYjVQUHVwRUs2eUlXSXlrOC1FTFZMNThtanVZOWhXS2hXUzZVMDhZaHkyWGxiS1NfSEhQc1FkU20yR1lRdVpvUGVRZkVHMFdYWncwY0VUbw?oc=5"
     },
     {
       "title": "〈美股盤後〉川普恢復封鎖伊朗 油價狂飆 費半下殺近5% SK海力士ADR暴跌超9% - news.cnyes.com",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsaVJOTEUzRmtaeEthTGVyZUppWGJUOGNGMW04dXJTaC14M2dUVF9JOEMyMTRxajc0RlczcS1lMXljOVJodlM0c3pDd1ZBRG130gFWQVVfeXFMTkk5b2J0SlVRZUpBdWlNb1h6aFFMT2hjdUgxVDBNS3lxMVczVHpZVGVfR3QzV01LYTdVekYzQ0FNYlpSY0tTSmFwd2R5c1pJSkpPR25DWlE?oc=5"
     },
     {
-      "title": "黃金高檔震盪後，抗通膨邏輯還在嗎？ - CME Group",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jXzVHUDVVMXVia29IZW5oNUM5cjFWLVF6cUlOcG9XcnV6VFd1NlZGUzE4RUVrVTVVY1BsWGlFTllua1JtSzFYOGRrUUxfRXZHNExnNzNDaW5qTXdzSEVvN3JNcnJvYzBfWFBJRVNZb09ROUxDanhrWnJNR0hkbjA?oc=5"
+      "title": "SK海力士(SKHY)暴跌，記憶體行情結束了嗎？｜美股評析｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQTzZ1SkNLSXNkZ1ZGS2JXcjltTC16S2ZpTzRtLURfMEdLMmlEQXFhVmZENzRpUktUdUdvVXBUQ01QZERyYnAzWTZDS2p1Q2J0cjk4T1JnZ0ZsbGFiWEEtM29PUVdHVUdINXFzdFp3dXBGeXVxRXloSzVJdndaSjE2Y1pKdG1COWRjT2tNU1BKcmExdVN5RU9IeVN6TjNjeG15dko1RjdTX3FwaDJCS1ZKSWtNZmQwR0prVGlTOC01eHd3UFVrSm5qb0NWaFRCQkpfNXF2aURxUVdDR1VpYk80dkFVN3p2dU5MQ2dpRlJLel82OXE0MmQ3NWpSTFNGTU5LN0pnTVdSTGxoSUI3dFhUZ25FUDVnZWh1WkhLRGF1REZXTnhVOGJQaVV4S3RPX3lGdjJ6NnZhT1hLSzJaU1BqMzJCeUVWTXV2MV9vWGFISl9NQzdpVXoxTzIwMFllVjJFRTdz?oc=5"
     },
     {
-      "title": "美股盤後｜地緣風險升溫，海力士重挫，四大指數收黑 0714｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQN2ROa0ZtOTJfWGxtcDhNc3YyNEFadnZpaEtoNHI0ZlI5elk4WndzWGZ2cFI0bWZLa1BtdUN5QzBHQTVNMUg0ME9WaVJMdVhUZS1RZUVFSXRuX2ZJVS1kQXBuTUZNbVFQY2pyV25EdEZLaS05cHV6eURlZUlsNUNTajV0aWs0dHVTbmJTMGFtd3BoOE80a0hpYnJZeXVNekpJSFN6RDZQX3RoSldPak9Qbm10MWNpTFFIeUpOS1d0bV9YT2hXZERRX1MzZy1oNVhBcWhhaU9yWWdES1B6UThMc1A0RFpnSFlvZFJTZkNZTWFxM1BoempqemNqckNxbHJLU2VyajhnZ2k2bjJZV1VFRk9aZlZEOTJLXy1TaTFVZWJTZERCTUJpQnZUX0tJZFQ2LUhpVEZNQ29XMExhZGI4RjVNWmpGV1V6NmdpclBJSXBDRmp2bWJnb2dtTmFYcUxxV1dIZGJyQzJSMUd3SUZudlFidDk5T21YSDRvaWFVZjZWYUk?oc=5"
+      "title": "台股重摔又V轉千點！千金俱樂部血流成河 台塑、軍工合力救火｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPZWZxZ0xQbS0tWGdxSEExeGtuVWdPWGRpcWVCemFyV1NOTnhVLUtMWjV6aTFDUThyRWtuQmRvaHMtWGtYUlo4X1Q2Nm51UFRVVENCMDY4LTlqeXd5YXdxdEFxUm9NNmZCc3ZiZjg5clBtQUd2d014Z0xxRS1iY2V1Y1hlTDZrT0VTaHNaMDFYbEFPdW5mNFB6cGhUOTQ3YmpodjF1QTJMUlNpVmpLU3pqSTFSNGRXaGZGZ3h1ODhJcEpHZk5IS2RlWjJkZUdIOWpyR3B1cnNKdEVCLXB4M1RWU25FN1M4ZjZycUZ1YnJ5SXBNMW9vb2ZUWDBweHBUdjljT3A0NXo4Mm9WR1lQb2FyYWphUU9xbmFRWEJQci1kM2F6blhLQnhfTm4yUFNCZVpCQVB0N0pXWmJvR21yYVJKUURLNGFZaWtpeFkydG1kMGZ3LTlKdm9zTXdubk1jX1R2QmtLZTNjX2tPUU5LY2NlVnJTenYwWVoxTWVFUGcyckdrZkM1UFJBcEx2OG5TR0czNWdNNXZMMGppdG0yMkxfUzdOV2kzeVN6WFduM1BscndZZ3UtVVpPOWV2SV9OTTE0Qy1KWWpsUDlJNklPMUlldlBxdHg0VXEwaldPam1jRTRtcmZf?oc=5"
     }
   ]
 }
