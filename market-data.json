@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/15 06:06",
+  "updated_tw": "07/15 07:10",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -72,31 +72,31 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64576.66,
-      "change": 2337.5389,
-      "changePercent": 3.7557
+      "price": 64968.02,
+      "change": 2728.8989,
+      "changePercent": 4.3845
     },
     "ETH": {
-      "price": 1873.8,
-      "change": 100.2993,
-      "changePercent": 5.6554
+      "price": 1885.86,
+      "change": 112.3593,
+      "changePercent": 6.3355
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.133,
-      "change": -0.029,
-      "changePercent": -0.0902
+      "price": 32.132,
+      "change": -0.03,
+      "changePercent": -0.0933
     },
     "JPYTWD": {
-      "price": 0.1958,
-      "change": -0.0022,
-      "changePercent": -1.1276
+      "price": 0.1959,
+      "change": -0.0021,
+      "changePercent": -1.0771
     },
     "EURTWD": {
-      "price": 36.738,
-      "change": 0.1258,
-      "changePercent": 0.3436
+      "price": 36.744,
+      "change": 0.1318,
+      "changePercent": 0.36
     },
     "CNYTWD": {
       "price": 4.7486,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4058.3,
-    "twd": 4193.0,
-    "tael": 157224.0,
-    "twdTotal": 130405.0,
-    "changePercent": 1.5337
+    "usd": 4055.3,
+    "twd": 4189.0,
+    "tael": 157102.0,
+    "twdTotal": 130305.0,
+    "changePercent": 1.4586
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,12 +121,16 @@
       "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNNF9lOEozWmM5cVZnTHFLSDliVVdSbVhjdFBuY3JLTGxLVndkNk94Z01lWGFkbmN2Wm1MTTUxYmJIMGJmLTh1djEyWUU4NGJ3clZSTDZlVFI2MkM5c3JPZndtdU4wTHhOTDBpMlc2R0tFU3ItSHpmVmM1b0JVTS0xNDBfbndjdlFwUERzYXp5M1FmLXc2YktwZFpHRGR4WmZ3MC1wLWNTNi1YdXgtMkpQcFI1dFVQbHRXWDh3NWJmcGZ4aWRmc3hHN1pycjlSSndfRWN3aXNvZ0ZqazRkdXpZUG0yc1V4eEhyS3FkQ2lNR25ub1dDbkVyQlMwaFhYRnRqajBraWo1d3NMV296cUdqcVdjTU5JaTlMelJURUtiNXlNRUhXNW93VC1LYmNId01hWDFZY3JCelZ3MFN1aGhiQW9MVF9obGNLVGduNnZ0M3lwQnZRbE9tY2ZwQjl3emFwQXdILVBVNnYwaHVlbnVieTVFQ0FLZ1FXbGY1UjIteDRzX1dXMGJ1cjJndmRPZFZRa0dDOTZTR1QyVEMxYmNmU3ZXclVyeF9y?oc=5"
     },
     {
-      "title": "美股早盤／美通膨降溫...指數齊揚 費半漲3%、IBM重挫23% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpYXl1WTZhMXFSZ2hremduWllyRUJjT1BoSVBhcXYxRGZBLV91TU93emlrOEJaNWMyOW5CQlVNWHRNYnozWllZRkc5MFFKVE5D?oc=5"
+      "title": "美股收盤》通膨降溫、晶片股反彈！道瓊收紅 台積電ADR下跌 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5QXVWRU5uY29tamZieXNpTGY1QzdhRHNyR2lxTFAtQXU2SVBwTDhQZDVlUUxEMG04ejlOYXR3a0VRRjAzZllOdG4yQ0VjdHRzOUdoMkVYQlB0TFlUeDRF0gFkQVVfeXFMUDRUYTQxa001Wk45Sk52LUtOd3RzeldWVmJ3TkpuWnVjYng2UE1TWk1nbkFIQW56QlRuX1FQaDZ2WjFFYW0xZDB1WGw0ckVGQWowdTFlOEhQTWZhQUVBcDZBUUMzeA?oc=5"
     },
     {
-      "title": "忘了黃金吧！「這金屬」帶來巨額收益 後市前途旺 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EeWZ2VHM1aUF3VmlCOG9JSEpXRVJLdUhFN2REczZzR0p5MG5wcnpPbVVhc2dWMkc0MERjeXJUUXFNcXVNSHVQZDZrOFZCUEQyQjlpNEh1UVZQSV92ZDNr0gFkQVVfeXFMTVhKa0E1TEdyVzBtQzU1TVUtY3p6MlNUZ0FheExLLVBJblBhREtMR21VelNlUjFtX3NpSEloRF9MRzA2Qzh5cFZCbGZ1ZHV3S2tVeUNhLWg3UGV2Yk8tYzVONFBZUg?oc=5"
+      "title": "〈美股盤後〉川普撤回荷姆茲20%過路費 通膨降溫助美股收高 IBM創紀錄暴跌25% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5heWh5aTFlYVI4T241Z2liVFVGS2NRYjNHWFoxaGg0MzFBN0F3UGd3MFVsemxEcTRDNHJoS0NJak9sOE1Ldkl3cjdiQlNDTXc?oc=5"
+    },
+    {
+      "title": "美股早盤／美通膨降溫...指數齊揚 費半漲3%、IBM重挫23% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpYXl1WTZhMXFSZ2hremduWllyRUJjT1BoSVBhcXYxRGZBLV91TU93emlrOEJaNWMyOW5CQlVNWHRNYnozWllZRkc5MFFKVE5D?oc=5"
     },
     {
       "title": "美股盤後｜地緣風險升溫，海力士重挫，四大指數收黑 0714｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
@@ -137,16 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IMExJNUNrSndqbE9xOVliVWx0ejF5ejVWZ1FPM0VhM2JwY0JTQkFQOTBrdDlzancyTHIxSXBaank3WVNFUmFlZHY5R1NhVnlFXzZEUUhGT3diSGJTMFZF?oc=5"
     },
     {
-      "title": "日元貶值與AI行情暗線相連，2024年美股大跌前置環境重現！ - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmhXMEVhRmxGTnpBNFJqeGZna21jV3FZYkpKVDdIdkdseFZ5T1BrTHRqWTRoWUk4aXBodnFTSDIxSEZ0X2hCenhWNkxfazAxQVVOT09GaktOZDVPNWUyS0lqRkk0Sk91N0JSUUh0eFZGTWdEN2MwQjhKa0lHVEt2dXBURW12OHNJaVRIWG9QVQ?oc=5"
+      "title": "台股跌破44000點關卡！他憂「台股要掰掰了嗎」 網：不要跌一點就受不了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPYW9kY3BDMGxOY2RXSHh6TW5LcVBJRmR0Z0xBb0FPMFlwR1hwRzVuRnFwQ2l4OWtONjlQYWVRWnVnbm96UGxzcE1xdzhXWllzUnVsc21YUS02SnZzRjlaR2dSSWltemhqX203a2FaVDg5a0IteGp3c29fQ25MazZDdkRSd0lLclRxX3lac21JMXp2dWVtVlNLU3RTSnVrU25iNzhIZUdxOXItalRuaS1TWWdOSzFtREx3dVFJbU01QmRaSzFPRm9Lb1Z6Y2hHUVd0ZWtrSDZqTldELU5BSDE3MFBhZVczd1Vtai1ZUWxMZlJiVjFQQm5pSVR5NGllS0k3azFZR0lGYjMtZU0zTXBYM1YteXpyNjM2SDZyUWpnVzdnQWVVMHZ2SnZkU3NXMVZ0VHBiemtoSElaSlpsUXIwN0JXUHhHRDhZYXliWjh5b3V0SV9VVzRJ?oc=5"
     },
     {
-      "title": "多極化世界驅動黃金儲備地位 專家揭美元強勢反成催化劑 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPRXFqb0VHRXlqUlhVUkVuOUZCekczN3hXY3NzN2xUUVVLNlRWdWJOM1BYM0FQRHlYU0ZjQWdQZGFlSDVkWEpoNW1DY3dldjhkWDBmTWxMT1RmVnBtRlcwMnpFZFB2TmVfQy1xY3hDbTZGRmRKTnBmUWtDbl96MUtnaVhfOWZpZ2RHNzVVZFl1ZEwydEZiOGtnWFUyYU91eHR1Y2pqMWNobzNmM19MdTlwR3JQWW9aVW43SlJCVEJrZ1ZHUUJKWlktN0MzMFdLYTI4dXBXY2dzTFdueFN1c0pyZzhZZFpaRXlzYU91ZHdnYW1jYjE0YmZYb1RwcS1jVnUzRTN0M3BwQjVGZHo3TlhIN19mbWtTb3U0YUNzdEEwd0xZRDI0QU1HYUV3Y2ZPMEJWNXB3VjhsOUk0Wi1yWnJHcmJSeXFweGZvVUoxbllLbW90SVhiUFZ5SWhsTDF0SlpPcmtZYjlCZVBrNC1OUV9VVDlKU0pTR0k4X3FjeXBHMVExaGNHN1F0cw?oc=5"
-    },
-    {
-      "title": "台股震盪 法人喊快觸底了 短線反彈有望先看46K - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIYVhVOU93NWNMTkZiUWdrTE1yVFczQ2dLNzFyTUVqZVdkWUJBZ1JkVHhhSDl3TjBNMVRNeERjZjI1RHVpOUQ0anlrcjZEZXoySjFLRUlXbFY3Z9IBX0FVX3lxTE83bk8xaW53X1I1bWltWXJEM0RuV2txYnNvTUxoYXV3NEJSLTRZdUxmbDVibTBlT2hZUFptMjktZmtLcURkNEItclFFU1FzS0tHMEI4d2ZpdW9TellvRkpN?oc=5"
+      "title": "AI鏈多頭格局可望延續 美股ETF買氣不墜 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tUmxUU1BvNWxVbHJWbENaZERMQ0RHVDFkOGVoSGtYWENFSkVwTU5VMHZYeGdNMHFqd01MbWtVenI1YWVYUElWWlJuc2xFNGtkTkgw0gFYQVVfeXFMT290akVHUlJ3bjZYNzZ2ZVJJVVFha0lhRVZqenRvTW5nYXNWcENrN0NONEFJTWhEbG55OE1WamkzTVpnTUZpNDlUaXpkOHBvTnVLUzAwSVBlNQ?oc=5"
     }
   ]
 }
