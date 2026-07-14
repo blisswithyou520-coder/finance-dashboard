@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/15 04:59",
+  "updated_tw": "07/15 06:06",
   "taiwan": {
     "2330": {
       "price": 2420.0,
-      "change": 5.0,
-      "changePercent": 0.207
+      "change": -20.0,
+      "changePercent": -0.8197
     },
     "2454": {
       "price": 3660.0,
-      "change": -265.0,
-      "changePercent": -6.7516
+      "change": -165.0,
+      "changePercent": -4.3137
     },
     "2317": {
       "price": 235.5,
-      "change": -2.0,
-      "changePercent": -0.8421
+      "change": -1.0,
+      "changePercent": -0.4228
     },
     "0050": {
       "price": 104.4,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64499.98,
-      "change": 2260.8589,
-      "changePercent": 3.6325
+      "price": 64576.66,
+      "change": 2337.5389,
+      "changePercent": 3.7557
     },
     "ETH": {
-      "price": 1874.5,
-      "change": 100.9993,
-      "changePercent": 5.6949
+      "price": 1873.8,
+      "change": 100.2993,
+      "changePercent": 5.6554
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.137,
-      "change": -0.025,
-      "changePercent": -0.0777
+      "price": 32.133,
+      "change": -0.029,
+      "changePercent": -0.0902
     },
     "JPYTWD": {
-      "price": 0.1959,
-      "change": -0.0021,
-      "changePercent": -1.0771
+      "price": 0.1958,
+      "change": -0.0022,
+      "changePercent": -1.1276
     },
     "EURTWD": {
-      "price": 36.756,
-      "change": 0.1438,
-      "changePercent": 0.3927
+      "price": 36.738,
+      "change": 0.1258,
+      "changePercent": 0.3436
     },
     "CNYTWD": {
-      "price": 4.7546,
+      "price": 4.7486,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4057.2,
-    "twd": 4192.0,
-    "tael": 157201.0,
-    "twdTotal": 130386.0,
-    "changePercent": 1.5061
+    "usd": 4058.3,
+    "twd": 4193.0,
+    "tael": 157224.0,
+    "twdTotal": 130405.0,
+    "changePercent": 1.5337
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,16 +121,16 @@
       "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNNF9lOEozWmM5cVZnTHFLSDliVVdSbVhjdFBuY3JLTGxLVndkNk94Z01lWGFkbmN2Wm1MTTUxYmJIMGJmLTh1djEyWUU4NGJ3clZSTDZlVFI2MkM5c3JPZndtdU4wTHhOTDBpMlc2R0tFU3ItSHpmVmM1b0JVTS0xNDBfbndjdlFwUERzYXp5M1FmLXc2YktwZFpHRGR4WmZ3MC1wLWNTNi1YdXgtMkpQcFI1dFVQbHRXWDh3NWJmcGZ4aWRmc3hHN1pycjlSSndfRWN3aXNvZ0ZqazRkdXpZUG0yc1V4eEhyS3FkQ2lNR25ub1dDbkVyQlMwaFhYRnRqajBraWo1d3NMV296cUdqcVdjTU5JaTlMelJURUtiNXlNRUhXNW93VC1LYmNId01hWDFZY3JCelZ3MFN1aGhiQW9MVF9obGNLVGduNnZ0M3lwQnZRbE9tY2ZwQjl3emFwQXdILVBVNnYwaHVlbnVieTVFQ0FLZ1FXbGY1UjIteDRzX1dXMGJ1cjJndmRPZFZRa0dDOTZTR1QyVEMxYmNmU3ZXclVyeF9y?oc=5"
     },
     {
-      "title": "台股震盪 法人喊快觸底了 短線反彈有望先看46K - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIYVhVOU93NWNMTkZiUWdrTE1yVFczQ2dLNzFyTUVqZVdkWUJBZ1JkVHhhSDl3TjBNMVRNeERjZjI1RHVpOUQ0anlrcjZEZXoySjFLRUlXbFY3Z9IBX0FVX3lxTE83bk8xaW53X1I1bWltWXJEM0RuV2txYnNvTUxoYXV3NEJSLTRZdUxmbDVibTBlT2hZUFptMjktZmtLcURkNEItclFFU1FzS0tHMEI4d2ZpdW9TellvRkpN?oc=5"
+      "title": "美股早盤／美通膨降溫...指數齊揚 費半漲3%、IBM重挫23% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpYXl1WTZhMXFSZ2hremduWllyRUJjT1BoSVBhcXYxRGZBLV91TU93emlrOEJaNWMyOW5CQlVNWHRNYnozWllZRkc5MFFKVE5D?oc=5"
+    },
+    {
+      "title": "忘了黃金吧！「這金屬」帶來巨額收益 後市前途旺 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EeWZ2VHM1aUF3VmlCOG9JSEpXRVJLdUhFN2REczZzR0p5MG5wcnpPbVVhc2dWMkc0MERjeXJUUXFNcXVNSHVQZDZrOFZCUEQyQjlpNEh1UVZQSV92ZDNr0gFkQVVfeXFMTVhKa0E1TEdyVzBtQzU1TVUtY3p6MlNUZ0FheExLLVBJblBhREtMR21VelNlUjFtX3NpSEloRF9MRzA2Qzh5cFZCbGZ1ZHV3S2tVeUNhLWg3UGV2Yk8tYzVONFBZUg?oc=5"
     },
     {
       "title": "美股盤後｜地緣風險升溫，海力士重挫，四大指數收黑 0714｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQN2ROa0ZtOTJfWGxtcDhNc3YyNEFadnZpaEtoNHI0ZlI5elk4WndzWGZ2cFI0bWZLa1BtdUN5QzBHQTVNMUg0ME9WaVJMdVhUZS1RZUVFSXRuX2ZJVS1kQXBuTUZNbVFQY2pyV25EdEZLaS05cHV6eURlZUlsNUNTajV0aWs0dHVTbmJTMGFtd3BoOE80a0hpYnJZeXVNekpJSFN6RDZQX3RoSldPak9Qbm10MWNpTFFIeUpOS1d0bV9YT2hXZERRX1MzZy1oNVhBcWhhaU9yWWdES1B6UThMc1A0RFpnSFlvZFJTZkNZTWFxM1BoempqemNqckNxbHJLU2VyajhnZ2k2bjJZV1VFRk9aZlZEOTJLXy1TaTFVZWJTZERCTUJpQnZUX0tJZFQ2LUhpVEZNQ29XMExhZGI4RjVNWmpGV1V6NmdpclBJSXBDRmp2bWJnb2dtTmFYcUxxV1dIZGJyQzJSMUd3SUZudlFidDk5T21YSDRvaWFVZjZWYUk?oc=5"
-    },
-    {
-      "title": "黃金崩潰！「這些貴金屬」也慘跌 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1WktFNkNfZXk0Yi1jUm05VEJHcjR6aDFObWtxaUZVTkdSdmZPUjU0WV92bDF0NWdpdnJUakw3T2NKQ2kxSDUzT2UxaEE0S0N0LU1BNU9UT1FhVlRiaGRr0gFkQVVfeXFMTlRBbU1NaUp0UGpiS0FzbVFKcEphVkNqTkxyNTcwdE5ZblpySTF0T24xMEkwZWpvWDNtdGJJWkduekhnQVdtUVJXZDkzQ00zUDIwZWhTZ0tQdkVUNkduRGxJTXgtcg?oc=5"
     },
     {
       "title": "不畏台股震盪11檔逆勢創新高- 日報 - 工商時報",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPRXFqb0VHRXlqUlhVUkVuOUZCekczN3hXY3NzN2xUUVVLNlRWdWJOM1BYM0FQRHlYU0ZjQWdQZGFlSDVkWEpoNW1DY3dldjhkWDBmTWxMT1RmVnBtRlcwMnpFZFB2TmVfQy1xY3hDbTZGRmRKTnBmUWtDbl96MUtnaVhfOWZpZ2RHNzVVZFl1ZEwydEZiOGtnWFUyYU91eHR1Y2pqMWNobzNmM19MdTlwR3JQWW9aVW43SlJCVEJrZ1ZHUUJKWlktN0MzMFdLYTI4dXBXY2dzTFdueFN1c0pyZzhZZFpaRXlzYU91ZHdnYW1jYjE0YmZYb1RwcS1jVnUzRTN0M3BwQjVGZHo3TlhIN19mbWtTb3U0YUNzdEEwd0xZRDI0QU1HYUV3Y2ZPMEJWNXB3VjhsOUk0Wi1yWnJHcmJSeXFweGZvVUoxbllLbW90SVhiUFZ5SWhsTDF0SlpPcmtZYjlCZVBrNC1OUV9VVDlKU0pTR0k4X3FjeXBHMVExaGNHN1F0cw?oc=5"
     },
     {
-      "title": "台股震盪高息ETF抗波動- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43UVE4NTBOdE1LNFBQazNWdTJaeF9HbWIzQXdzYkxUUTdPeDB5SEtCdFdVMXBvbUoyQXdYaVRfMFZMUThGUlBJbkFjQ3NlVDZyQVJxRFdNa3M2UkZrQTVF?oc=5"
+      "title": "台股震盪 法人喊快觸底了 短線反彈有望先看46K - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIYVhVOU93NWNMTkZiUWdrTE1yVFczQ2dLNzFyTUVqZVdkWUJBZ1JkVHhhSDl3TjBNMVRNeERjZjI1RHVpOUQ0anlrcjZEZXoySjFLRUlXbFY3Z9IBX0FVX3lxTE83bk8xaW53X1I1bWltWXJEM0RuV2txYnNvTUxoYXV3NEJSLTRZdUxmbDVibTBlT2hZUFptMjktZmtLcURkNEItclFFU1FzS0tHMEI4d2ZpdW9TellvRkpN?oc=5"
     }
   ]
 }
