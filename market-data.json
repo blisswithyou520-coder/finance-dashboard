@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/14 12:16",
+  "updated_tw": "07/14 14:34",
   "taiwan": {
     "2330": {
-      "price": 2410.0,
-      "change": -30.0,
-      "changePercent": -1.2295
+      "price": 2420.0,
+      "change": -20.0,
+      "changePercent": -0.8197
     },
     "2454": {
-      "price": 3595.0,
-      "change": -230.0,
-      "changePercent": -6.0131
+      "price": 3660.0,
+      "change": -165.0,
+      "changePercent": -4.3137
     },
     "2317": {
-      "price": 232.5,
-      "change": -4.0,
-      "changePercent": -1.6913
+      "price": 235.5,
+      "change": -1.0,
+      "changePercent": -0.4228
     },
     "0050": {
-      "price": 103.3,
-      "change": -2.7,
-      "changePercent": -2.5472
+      "price": 104.4,
+      "change": -1.6,
+      "changePercent": -1.5094
     },
     "00878": {
-      "price": 32.33,
-      "change": -0.8,
-      "changePercent": -2.4147
+      "price": 32.72,
+      "change": -0.41,
+      "changePercent": -1.2376
     },
     "00919": {
-      "price": 29.23,
-      "change": -0.48,
-      "changePercent": -1.6156
+      "price": 29.42,
+      "change": -0.29,
+      "changePercent": -0.9761
     }
   },
   "us": {
@@ -73,43 +73,43 @@
   "crypto": {
     "BTC": {
       "price": 63560.94,
-      "change": -241.0873,
-      "changePercent": -0.3779
+      "change": -197.2787,
+      "changePercent": -0.3094
     },
     "ETH": {
       "price": 1813.32,
-      "change": 25.2204,
-      "changePercent": 1.4105
+      "change": 7.5319,
+      "changePercent": 0.4171
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.15,
-      "change": 0.0509,
-      "changePercent": 0.1586
+      "price": 32.175,
+      "change": 0.0759,
+      "changePercent": 0.2365
     },
     "JPYTWD": {
-      "price": 0.1958,
-      "change": -0.0024,
-      "changePercent": -1.2019
+      "price": 0.1959,
+      "change": -0.0023,
+      "changePercent": -1.1515
     },
     "EURTWD": {
-      "price": 36.655,
-      "change": 0.0665,
-      "changePercent": 0.1817
+      "price": 36.669,
+      "change": 0.0805,
+      "changePercent": 0.22
     },
     "CNYTWD": {
-      "price": 4.7462,
+      "price": 4.7506,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4023.4,
-    "twd": 4159.0,
-    "tael": 155954.0,
-    "twdTotal": 129352.0,
-    "changePercent": 0.6605
+    "usd": 4033.7,
+    "twd": 4173.0,
+    "tael": 156475.0,
+    "twdTotal": 129784.0,
+    "changePercent": 0.9182
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,12 +121,12 @@
       "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxPbndoNFhOOUJhalQyanF6SExmQWpvSmRKQWZGUnBYODlERzNDVXc4VUMyTnhCQVlMUkJpODZ2dkZCclJNUi1scnQ0N3VVS2NVY0hNWmNDNVZ2aFdpTHNNOE1jWlp5MWpPOTB1dVJmOWswaVpRRjZDTS1kbGROYkVBZTZVd3NkeWZtUkRfaEhJRmlQOUU3VzFTNlpiZ0V2QzF4Wk5MWk52cS1vdzY1ZmxSWmdpVzNvRmZNdUpnWVpoSHhYMXZVOFo4dVlQcWpFbXdLZ09Kd3Bpd0hfTnlvOFN6RHAxb3BvWWZ2Q2JNZ2thdHJtbW9mSGtjUkZfTzZiSERVZEVRaGdITkR2djRkeFVLRjNRY09RdDNkSUpweHlDZjJoOFk1YjhqZm5USEtlNG1DdDBuaTJjYVd3eHo1RFB4QTgwZzl1dmVaOGYzdzM3d21Ta1hlQTYzRmxOQVpwWEJWRmpoMWxhRmt5SGVIaWV5a2VHR0UzZUxXVzBCUklIME9RSDVRdVVXYzVDd1RsM1dvMjlpTzFpZ1ZvZzhhZ25DZEN4amVsY1loMFRUOVktM19HdzZmTm9XdzZ2VkNaNWZ4YS1xQ1AzSmctc1ZITnJXOFB0WjVVb25acTFLdnBwR09kYVY4amxjdW44QU1WMjFUdS05ZGRtcGRfaTlYa1EwNGxyUzh1Sy1JWV9IWXZUU1NTYmREZS1EQVoybTJGdmNtVzFmd0hEWQ?oc=5"
     },
     {
-      "title": "美伊衝突美股收低法人：台股面臨45000點保衛戰| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3dkp0U3ZnMG9MZFowQ1RjLVVPYktwRWNhZTRzYUg4OHFGOWVhcWF0NTR5a0p4bTBvalVtRGw5VFBXOE5XN2RWajhweU9qVlBmTjRCVThQeUozUnJaUVE?oc=5"
-    },
-    {
       "title": "黃金崩潰！「這些貴金屬」也慘跌 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1WktFNkNfZXk0Yi1jUm05VEJHcjR6aDFObWtxaUZVTkdSdmZPUjU0WV92bDF0NWdpdnJUakw3T2NKQ2kxSDUzT2UxaEE0S0N0LU1BNU9UT1FhVlRiaGRr0gFkQVVfeXFMTlRBbU1NaUp0UGpiS0FzbVFKcEphVkNqTkxyNTcwdE5ZblpySTF0T24xMEkwZWpvWDNtdGJJWkduekhnQVdtUVJXZDkzQ00zUDIwZWhTZ0tQdkVUNkduRGxJTXgtcg?oc=5"
+    },
+    {
+      "title": "美伊衝突美股收低法人：台股面臨45000點保衛戰| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3dkp0U3ZnMG9MZFowQ1RjLVVPYktwRWNhZTRzYUg4OHFGOWVhcWF0NTR5a0p4bTBvalVtRGw5VFBXOE5XN2RWajhweU9qVlBmTjRCVThQeUozUnJaUVE?oc=5"
     },
     {
       "title": "川普再次封鎖荷莫茲！美股四指數收黑「費半重摔4%」 台指期夜盤跌507點 - Yahoo股市",
