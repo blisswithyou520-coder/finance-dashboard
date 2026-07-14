@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/14 20:11",
+  "updated_tw": "07/14 22:14",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 203.53,
-      "change": -7.43,
-      "changePercent": -3.522
+      "price": 204.3919,
+      "change": 0.8619,
+      "changePercent": 0.4235
     },
     "AAPL": {
-      "price": 317.31,
-      "change": 1.99,
-      "changePercent": 0.6311
+      "price": 314.25,
+      "change": -3.06,
+      "changePercent": -0.9644
     },
     "TSLA": {
-      "price": 394.76,
-      "change": -13.0,
-      "changePercent": -3.1882
+      "price": 398.98,
+      "change": 4.22,
+      "changePercent": 1.069
     },
     "QQQ": {
-      "price": 711.74,
-      "change": -13.77,
-      "changePercent": -1.898
+      "price": 716.28,
+      "change": 4.54,
+      "changePercent": 0.6379
     },
     "SPY": {
-      "price": 749.17,
-      "change": -5.78,
-      "changePercent": -0.7656
+      "price": 749.93,
+      "change": 0.76,
+      "changePercent": 0.1014
     },
     "SCHD": {
-      "price": 32.56,
-      "change": 0.16,
-      "changePercent": 0.4938
+      "price": 32.401,
+      "change": -0.159,
+      "changePercent": -0.4883
     },
     "VOO": {
-      "price": 688.5,
-      "change": -5.36,
-      "changePercent": -0.7725
+      "price": 689.31,
+      "change": 0.81,
+      "changePercent": 0.1176
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62732.95,
-      "change": 493.8289,
-      "changePercent": 0.7934
+      "price": 63742.69,
+      "change": 1503.5689,
+      "changePercent": 2.4158
     },
     "ETH": {
-      "price": 1793.2,
-      "change": 19.6993,
-      "changePercent": 1.1108
+      "price": 1864.94,
+      "change": 91.4393,
+      "changePercent": 5.1559
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.159,
-      "change": 0.0599,
-      "changePercent": 0.1866
+      "price": 32.1,
+      "change": 0.0009,
+      "changePercent": 0.0028
     },
     "JPYTWD": {
-      "price": 0.1961,
-      "change": -0.0021,
-      "changePercent": -1.0506
+      "price": 0.1962,
+      "change": -0.002,
+      "changePercent": -1.0001
     },
     "EURTWD": {
-      "price": 36.725,
-      "change": 0.1365,
-      "changePercent": 0.373
+      "price": 36.839,
+      "change": 0.2505,
+      "changePercent": 0.6846
     },
     "CNYTWD": {
-      "price": 4.7496,
+      "price": 4.7491,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4037.8,
-    "twd": 4175.0,
-    "tael": 156556.0,
-    "twdTotal": 129852.0,
-    "changePercent": 1.0208
+    "usd": 4082.6,
+    "twd": 4213.0,
+    "tael": 158003.0,
+    "twdTotal": 131051.0,
+    "changePercent": 2.1416
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,12 +121,12 @@
       "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxPbndoNFhOOUJhalQyanF6SExmQWpvSmRKQWZGUnBYODlERzNDVXc4VUMyTnhCQVlMUkJpODZ2dkZCclJNUi1scnQ0N3VVS2NVY0hNWmNDNVZ2aFdpTHNNOE1jWlp5MWpPOTB1dVJmOWswaVpRRjZDTS1kbGROYkVBZTZVd3NkeWZtUkRfaEhJRmlQOUU3VzFTNlpiZ0V2QzF4Wk5MWk52cS1vdzY1ZmxSWmdpVzNvRmZNdUpnWVpoSHhYMXZVOFo4dVlQcWpFbXdLZ09Kd3Bpd0hfTnlvOFN6RHAxb3BvWWZ2Q2JNZ2thdHJtbW9mSGtjUkZfTzZiSERVZEVRaGdITkR2djRkeFVLRjNRY09RdDNkSUpweHlDZjJoOFk1YjhqZm5USEtlNG1DdDBuaTJjYVd3eHo1RFB4QTgwZzl1dmVaOGYzdzM3d21Ta1hlQTYzRmxOQVpwWEJWRmpoMWxhRmt5SGVIaWV5a2VHR0UzZUxXVzBCUklIME9RSDVRdVVXYzVDd1RsM1dvMjlpTzFpZ1ZvZzhhZ25DZEN4amVsY1loMFRUOVktM19HdzZmTm9XdzZ2VkNaNWZ4YS1xQ1AzSmctc1ZITnJXOFB0WjVVb25acTFLdnBwR09kYVY4amxjdW44QU1WMjFUdS05ZGRtcGRfaTlYa1EwNGxyUzh1Sy1JWV9IWXZUU1NTYmREZS1EQVoybTJGdmNtVzFmd0hEWQ?oc=5"
     },
     {
-      "title": "川普再次封鎖荷莫茲！美股四指數收黑「費半重摔4%」 台指期夜盤跌507點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQVGNqMEVqVnhieE92T0RPWkJMZVFSWGxZMldLaXpwcG52cmF4X1dUc2NRQUxhM1VaaGhrQ2FKTkJITXZyUmYwVHNiNnRIRnpMSWxBUGd4a3NIdHRWLUxPTmpQTU9IbHdGRGZ0TDhmZXk3a0J2U3dVV0dWZzFMMzdsVUNZNmFmQVR0a3Q1Q0xqTUV6bkJsRm5KRGVWamdRNlkzZ2I4OU5kQWVvYTlIMG5ZY0w5d1NiNVVuczVGZDBtMEZFa3RHeFFzZFN6OFZydkJ3TnVLRl9xc0tvWXA2VVJXQTFwZEF4c1Q3NGg2X3lPUGpjeHhKdExNclVldHVrVHIxYU1Ua3dTcldpRGlITlFDbDFkNEh0Z20tSlFEdl8zaXhWSWRCZ1JyTGtCOFR2Tk44bnlzcC1PSURkSERoM1FVU24xdmJUY3BwOFBQM0JudUJkelE0WjNQSmpkR29Nb1o1MXBjZ214TWU1ZmpYaGstdmUtcXk4U3RGRXA3cXp5TUpYQjhlaFRpVkJ4TGp4VC1ENFl6b3A3R004aS1IZXRMcERHM2JiRXpR?oc=5"
-    },
-    {
       "title": "黃金崩潰！「這些貴金屬」也慘跌 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1WktFNkNfZXk0Yi1jUm05VEJHcjR6aDFObWtxaUZVTkdSdmZPUjU0WV92bDF0NWdpdnJUakw3T2NKQ2kxSDUzT2UxaEE0S0N0LU1BNU9UT1FhVlRiaGRr0gFkQVVfeXFMTlRBbU1NaUp0UGpiS0FzbVFKcEphVkNqTkxyNTcwdE5ZblpySTF0T24xMEkwZWpvWDNtdGJJWkduekhnQVdtUVJXZDkzQ00zUDIwZWhTZ0tQdkVUNkduRGxJTXgtcg?oc=5"
+    },
+    {
+      "title": "川普再次封鎖荷莫茲！美股四指數收黑「費半重摔4%」 台指期夜盤跌507點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQVGNqMEVqVnhieE92T0RPWkJMZVFSWGxZMldLaXpwcG52cmF4X1dUc2NRQUxhM1VaaGhrQ2FKTkJITXZyUmYwVHNiNnRIRnpMSWxBUGd4a3NIdHRWLUxPTmpQTU9IbHdGRGZ0TDhmZXk3a0J2U3dVV0dWZzFMMzdsVUNZNmFmQVR0a3Q1Q0xqTUV6bkJsRm5KRGVWamdRNlkzZ2I4OU5kQWVvYTlIMG5ZY0w5d1NiNVVuczVGZDBtMEZFa3RHeFFzZFN6OFZydkJ3TnVLRl9xc0tvWXA2VVJXQTFwZEF4c1Q3NGg2X3lPUGpjeHhKdExNclVldHVrVHIxYU1Ua3dTcldpRGlITlFDbDFkNEh0Z20tSlFEdl8zaXhWSWRCZ1JyTGtCOFR2Tk44bnlzcC1PSURkSERoM1FVU24xdmJUY3BwOFBQM0JudUJkelE0WjNQSmpkR29Nb1o1MXBjZ214TWU1ZmpYaGstdmUtcXk4U3RGRXA3cXp5TUpYQjhlaFRpVkJ4TGp4VC1ENFl6b3A3R004aS1IZXRMcERHM2JiRXpR?oc=5"
     },
     {
       "title": "黃金最大悖論：美元越強、金價越跌，但長期價值反而可能越高 - capitalfutures.com.tw",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50VjN1RXZjMkJaLTZiV1BjeV9zQ3RBUF80cVJuQnFwSUZtZnNFeEVoZUQzMHA0Qk9vTDI3SGVhYm5sdm5yUmE0TGdSTEpTeVk?oc=5"
     },
     {
-      "title": "台股盤中跌幅一度逼近季線 終場跌幅收斂下跌642點 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsaVJOTEUzRmtaeEthTGVyZUppWGJUOGNGMW04dXJTaC14M2dUVF9JOEMyMTRxajc0RlczcS1lMXljOVJodlM0c3pDd1ZBRG130gFWQVVfeXFMTkk5b2J0SlVRZUpBdWlNb1h6aFFMT2hjdUgxVDBNS3lxMVczVHpZVGVfR3QzV01LYTdVekYzQ0FNYlpSY0tTSmFwd2R5c1pJSkpPR25DWlE?oc=5"
+      "title": "00406A續抱、權利金先入袋！台股震盪下的抗震解方 成帳面重創下的「安慰獎」 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WQkpqMlpoNWRCVXUtZVBubDM5R2FxUDRCcy0zZEFqRXpnbUgyS2JheUhpcUtkb2o0YlczX3QwUWhVMjI2cUgxX0dQeXFIcTZjTUV30gFYQVVfeXFMTzBwenZydDRld0Z0VXZzazZsTF9RdWUwdlgwN1FFbXNITXNVZzJma2hubW9oeDVqSnA2VG94emZyc0JwXzlQOFhNQk9EZlJHeUJFN3NGOUFDMA?oc=5"
     },
     {
       "title": "SK海力士(SKHY)暴跌，記憶體行情結束了嗎？｜美股評析｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQTzZ1SkNLSXNkZ1ZGS2JXcjltTC16S2ZpTzRtLURfMEdLMmlEQXFhVmZENzRpUktUdUdvVXBUQ01QZERyYnAzWTZDS2p1Q2J0cjk4T1JnZ0ZsbGFiWEEtM29PUVdHVUdINXFzdFp3dXBGeXVxRXloSzVJdndaSjE2Y1pKdG1COWRjT2tNU1BKcmExdVN5RU9IeVN6TjNjeG15dko1RjdTX3FwaDJCS1ZKSWtNZmQwR0prVGlTOC01eHd3UFVrSm5qb0NWaFRCQkpfNXF2aURxUVdDR1VpYk80dkFVN3p2dU5MQ2dpRlJLel82OXE0MmQ3NWpSTFNGTU5LN0pnTVdSTGxoSUI3dFhUZ25FUDVnZWh1WkhLRGF1REZXTnhVOGJQaVV4S3RPX3lGdjJ6NnZhT1hLSzJaU1BqMzJCeUVWTXV2MV9vWGFISl9NQzdpVXoxTzIwMFllVjJFRTdz?oc=5"
     },
     {
-      "title": "台股重摔又V轉千點！千金俱樂部血流成河 台塑、軍工合力救火｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPZWZxZ0xQbS0tWGdxSEExeGtuVWdPWGRpcWVCemFyV1NOTnhVLUtMWjV6aTFDUThyRWtuQmRvaHMtWGtYUlo4X1Q2Nm51UFRVVENCMDY4LTlqeXd5YXdxdEFxUm9NNmZCc3ZiZjg5clBtQUd2d014Z0xxRS1iY2V1Y1hlTDZrT0VTaHNaMDFYbEFPdW5mNFB6cGhUOTQ3YmpodjF1QTJMUlNpVmpLU3pqSTFSNGRXaGZGZ3h1ODhJcEpHZk5IS2RlWjJkZUdIOWpyR3B1cnNKdEVCLXB4M1RWU25FN1M4ZjZycUZ1YnJ5SXBNMW9vb2ZUWDBweHBUdjljT3A0NXo4Mm9WR1lQb2FyYWphUU9xbmFRWEJQci1kM2F6blhLQnhfTm4yUFNCZVpCQVB0N0pXWmJvR21yYVJKUURLNGFZaWtpeFkydG1kMGZ3LTlKdm9zTXdubk1jX1R2QmtLZTNjX2tPUU5LY2NlVnJTenYwWVoxTWVFUGcyckdrZkM1UFJBcEx2OG5TR0czNWdNNXZMMGppdG0yMkxfUzdOV2kzeVN6WFduM1BscndZZ3UtVVpPOWV2SV9OTTE0Qy1KWWpsUDlJNklPMUlldlBxdHg0VXEwaldPam1jRTRtcmZf?oc=5"
+      "title": "台股崩跌642點！電子五哥「這檔」周四除息配發15.6元 急拉翻紅重返380元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNRFozNTRwcHIweUtlRHZLRlVDZ0RiR1dFVmlKbVc1a1NyVmxUN2lveGpOUlppZjc0cXhkbXltWmR6RFFUY0ZwWWk4cWNjRjEyZXZHX1V4ZnNoWHY1ZVkwanZ3QUNHbU1JTGEtMXFRRTVEeTh4WnhzT3N1ek04V0VEQlhXWFM4VzJXRFVtckFsZ21tbHI2M0szWEdueXh4SGszbDdtT3NkN2JFZEVGN2x6R2NRaUJMZzB3aGhFNnFMM3JyeDJxLUZ4MWNDdXFlblBnSkZXSEUwNWptOUozZnZJelJZSXkwNks2SEdwZ3M4bEZuNkJXLW5JczBSRWZMWjRvTkQzWkZqeGtTeWhjTzVJQ2kxNThETXhESmN5VWtqT3J0R2VLSkJCcnZJRTN0dGcxNGxZSWJVZlBLdFFORVMwMQ?oc=5"
     }
   ]
 }
