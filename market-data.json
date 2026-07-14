@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/14 09:04",
+  "updated_tw": "07/14 12:16",
   "taiwan": {
     "2330": {
-      "price": 2440.0,
-      "change": 25.0,
-      "changePercent": 1.0352
+      "price": 2410.0,
+      "change": -30.0,
+      "changePercent": -1.2295
     },
     "2454": {
-      "price": 3825.0,
-      "change": -100.0,
-      "changePercent": -2.5478
+      "price": 3595.0,
+      "change": -230.0,
+      "changePercent": -6.0131
     },
     "2317": {
-      "price": 236.5,
-      "change": -1.0,
-      "changePercent": -0.4211
+      "price": 232.5,
+      "change": -4.0,
+      "changePercent": -1.6913
     },
     "0050": {
-      "price": 106.0,
-      "change": 0.2,
-      "changePercent": 0.189
+      "price": 103.3,
+      "change": -2.7,
+      "changePercent": -2.5472
     },
     "00878": {
-      "price": 33.13,
-      "change": -0.06,
-      "changePercent": -0.1808
+      "price": 32.33,
+      "change": -0.8,
+      "changePercent": -2.4147
     },
     "00919": {
-      "price": 29.71,
-      "change": -0.26,
-      "changePercent": -0.8675
+      "price": 29.23,
+      "change": -0.48,
+      "changePercent": -1.6156
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63228.4,
-      "change": -573.6273,
-      "changePercent": -0.8991
+      "price": 63560.94,
+      "change": -241.0873,
+      "changePercent": -0.3779
     },
     "ETH": {
-      "price": 1799.0,
-      "change": 10.9004,
-      "changePercent": 0.6096
+      "price": 1813.32,
+      "change": 25.2204,
+      "changePercent": 1.4105
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.204,
-      "change": 0.1049,
-      "changePercent": 0.3268
+      "price": 32.15,
+      "change": 0.0509,
+      "changePercent": 0.1586
     },
     "JPYTWD": {
-      "price": 0.1961,
-      "change": -0.0021,
-      "changePercent": -1.0506
+      "price": 0.1958,
+      "change": -0.0024,
+      "changePercent": -1.2019
     },
     "EURTWD": {
-      "price": 36.699,
-      "change": 0.1105,
-      "changePercent": 0.302
+      "price": 36.655,
+      "change": 0.0665,
+      "changePercent": 0.1817
     },
     "CNYTWD": {
-      "price": 4.7474,
+      "price": 4.7462,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4010.6,
-    "twd": 4153.0,
-    "tael": 155719.0,
-    "twdTotal": 129157.0,
-    "changePercent": -2.2782
+    "usd": 4023.4,
+    "twd": 4159.0,
+    "tael": 155954.0,
+    "twdTotal": 129352.0,
+    "changePercent": 0.6605
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "〈美股盤後〉川普恢復封鎖伊朗 油價狂飆 費半下殺近5% SK海力士ADR暴跌超9% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50VjN1RXZjMkJaLTZiV1BjeV9zQ3RBUF80cVJuQnFwSUZtZnNFeEVoZUQzMHA0Qk9vTDI3SGVhYm5sdm5yUmE0TGdSTEpTeVk?oc=5"
-    },
-    {
-      "title": "美股早盤／SK海力士ADR大跌8%拖累晶片股蘋果寫盤中新天價| 全球財經| 全球 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XanAwTHF4ZEN3WUVpYWJ6TG1uQ1pRMXd3cm9TNzVqNTItNlJFLXdnLXVaeVMyNUotMGQ1bUpxTXA4R1BtR2tfZG16Sl91OXBU?oc=5"
-    },
-    {
-      "title": "美股盤後｜地緣風險升溫，海力士重挫，四大指數收黑 0714｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQN2ROa0ZtOTJfWGxtcDhNc3YyNEFadnZpaEtoNHI0ZlI5elk4WndzWGZ2cFI0bWZLa1BtdUN5QzBHQTVNMUg0ME9WaVJMdVhUZS1RZUVFSXRuX2ZJVS1kQXBuTUZNbVFQY2pyV25EdEZLaS05cHV6eURlZUlsNUNTajV0aWs0dHVTbmJTMGFtd3BoOE80a0hpYnJZeXVNekpJSFN6RDZQX3RoSldPak9Qbm10MWNpTFFIeUpOS1d0bV9YT2hXZERRX1MzZy1oNVhBcWhhaU9yWWdES1B6UThMc1A0RFpnSFlvZFJTZkNZTWFxM1BoempqemNqckNxbHJLU2VyajhnZ2k2bjJZV1VFRk9aZlZEOTJLXy1TaTFVZWJTZERCTUJpQnZUX0tJZFQ2LUhpVEZNQ29XMExhZGI4RjVNWmpGV1V6NmdpclBJSXBDRmp2bWJnb2dtTmFYcUxxV1dIZGJyQzJSMUd3SUZudlFidDk5T21YSDRvaWFVZjZWYUk?oc=5"
-    },
-    {
-      "title": "伊朗緊張局勢重創市場信心 美股收低晶片股領跌 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQb0VDN2pFWldyNUYtWkNpUXotTFhmd0FvOUR0M01zZkQxZWhqaWstNUlDRXpzWld5cXRwclZ2aUNQQVpzT1k2RnhPTU10alJDOFItc0cxTUMwcWJiMVlnYWg0UlFHSkNOSUZZT2h5NmFMSWFpcFI1YkludjIwU19oTlRXMmxVWkw2VDBjeEFTRnkwUWYxZjAwZWFfYkcwQ1Jtd1BxdWU1Tk9jbHkybHl0bUVzbDg0aFBSZ21DcnJDSDMyT3hWVXNqTk93aFBUSk1fLXZJMmVvZVpKRHNzN3RRaGh0c0J1a2RveGJnRktacDJTX3VTcU9wRjR5dlIwRW15N2Yzd0V2MHNJekZac3JyUkRKU29YUWZDLW1NOEQ3TXpDejFiZlFJZzh4MEVPeWxxTW84amhWdG1jNUJKV0VpUjhoV2psWDZCd25IWUtxczl0ZnZGaVNfSQ?oc=5"
+      "title": "【美股盤前】費半慘摔5%、大空頭警告「AI見頂」？聯準會7月升息機率飆，特斯拉、甲骨文慘遭重擊！ - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxPbndoNFhOOUJhalQyanF6SExmQWpvSmRKQWZGUnBYODlERzNDVXc4VUMyTnhCQVlMUkJpODZ2dkZCclJNUi1scnQ0N3VVS2NVY0hNWmNDNVZ2aFdpTHNNOE1jWlp5MWpPOTB1dVJmOWswaVpRRjZDTS1kbGROYkVBZTZVd3NkeWZtUkRfaEhJRmlQOUU3VzFTNlpiZ0V2QzF4Wk5MWk52cS1vdzY1ZmxSWmdpVzNvRmZNdUpnWVpoSHhYMXZVOFo4dVlQcWpFbXdLZ09Kd3Bpd0hfTnlvOFN6RHAxb3BvWWZ2Q2JNZ2thdHJtbW9mSGtjUkZfTzZiSERVZEVRaGdITkR2djRkeFVLRjNRY09RdDNkSUpweHlDZjJoOFk1YjhqZm5USEtlNG1DdDBuaTJjYVd3eHo1RFB4QTgwZzl1dmVaOGYzdzM3d21Ta1hlQTYzRmxOQVpwWEJWRmpoMWxhRmt5SGVIaWV5a2VHR0UzZUxXVzBCUklIME9RSDVRdVVXYzVDd1RsM1dvMjlpTzFpZ1ZvZzhhZ25DZEN4amVsY1loMFRUOVktM19HdzZmTm9XdzZ2VkNaNWZ4YS1xQ1AzSmctc1ZITnJXOFB0WjVVb25acTFLdnBwR09kYVY4amxjdW44QU1WMjFUdS05ZGRtcGRfaTlYa1EwNGxyUzh1Sy1JWV9IWXZUU1NTYmREZS1EQVoybTJGdmNtVzFmd0hEWQ?oc=5"
     },
     {
       "title": "美伊衝突美股收低法人：台股面臨45000點保衛戰| 證券 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3dkp0U3ZnMG9MZFowQ1RjLVVPYktwRWNhZTRzYUg4OHFGOWVhcWF0NTR5a0p4bTBvalVtRGw5VFBXOE5XN2RWajhweU9qVlBmTjRCVThQeUozUnJaUVE?oc=5"
     },
     {
-      "title": "從英特爾、AMD到Sandisk 什麼引發了美股周一盤前跌勢？ - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41VVBHS3doSk5XZVRIeHdvVHhUZklUel9rSXFtMDdHSGtzYlNSTG1VOFQ1cUx0NTAteDZlSTNyZEcxZU9qLVpNZXRzSnNVMVE?oc=5"
+      "title": "黃金崩潰！「這些貴金屬」也慘跌 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1WktFNkNfZXk0Yi1jUm05VEJHcjR6aDFObWtxaUZVTkdSdmZPUjU0WV92bDF0NWdpdnJUakw3T2NKQ2kxSDUzT2UxaEE0S0N0LU1BNU9UT1FhVlRiaGRr0gFkQVVfeXFMTlRBbU1NaUp0UGpiS0FzbVFKcEphVkNqTkxyNTcwdE5ZblpySTF0T24xMEkwZWpvWDNtdGJJWkduekhnQVdtUVJXZDkzQ00zUDIwZWhTZ0tQdkVUNkduRGxJTXgtcg?oc=5"
     },
     {
-      "title": "美股收盤／四大指數收黑 費半重挫4.8% 美伊衝突升級油價狂飆10% - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zZzlta3hwekR3U1dVTHF0bkhyc1E3U3JBZDlxdnFlWDZsR0hfU2g5STB0OGpzSXJrWkRNMzRlTnhqMFlwRzk4MnVGRzg2Rkl6?oc=5"
+      "title": "川普再次封鎖荷莫茲！美股四指數收黑「費半重摔4%」 台指期夜盤跌507點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQVGNqMEVqVnhieE92T0RPWkJMZVFSWGxZMldLaXpwcG52cmF4X1dUc2NRQUxhM1VaaGhrQ2FKTkJITXZyUmYwVHNiNnRIRnpMSWxBUGd4a3NIdHRWLUxPTmpQTU9IbHdGRGZ0TDhmZXk3a0J2U3dVV0dWZzFMMzdsVUNZNmFmQVR0a3Q1Q0xqTUV6bkJsRm5KRGVWamdRNlkzZ2I4OU5kQWVvYTlIMG5ZY0w5d1NiNVVuczVGZDBtMEZFa3RHeFFzZFN6OFZydkJ3TnVLRl9xc0tvWXA2VVJXQTFwZEF4c1Q3NGg2X3lPUGpjeHhKdExNclVldHVrVHIxYU1Ua3dTcldpRGlITlFDbDFkNEh0Z20tSlFEdl8zaXhWSWRCZ1JyTGtCOFR2Tk44bnlzcC1PSURkSERoM1FVU24xdmJUY3BwOFBQM0JudUJkelE0WjNQSmpkR29Nb1o1MXBjZ214TWU1ZmpYaGstdmUtcXk4U3RGRXA3cXp5TUpYQjhlaFRpVkJ4TGp4VC1ENFl6b3A3R004aS1IZXRMcERHM2JiRXpR?oc=5"
     },
     {
-      "title": "聯準會沃勒警告通膨恐升息 比特幣面臨美國數據考驗 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOazJ1eVl5NXV6WnFtdVh4b0llM0xyU0ZUNVRoNHdadV9fQ09ZRnRTYUVjVXczSmI4TDQ3TFl0OTNmdzIwd2hTcFNNZV9iS1BTZzliV1NhaHQyT1dlalh2OE1BZFJIZzNqU3ZoTm82cWQ3YnZ1VTVncWE5bjZBMlBXSWJxY3NQX3FZcXlHRWFselN2S2UtY0JsVDVBeE9QdmpVdFozTjRnaUVpMU9GX2NLRjE1UEVQaEw5MUZkMzNUZEhnTFUxdVVWQzVzckNRVE5SdzFnTlowc0ltTGdYSmVwbENkZFlIN2JxSVVMVUx4dDJiUkVkYjhhZGZrMzdTQTlSaGUyV3NWN3ZEZXFCSnM5c1JEMTgzclRHeE12bzV4aExtX09LQUdSOVctMDM5WnR2WkdxWHFxakF6U1V6RVYxdmZheF9JU1I4MW1LbjdTcDRLLXIydWhXeWxkYkZrRFZHbGs4TzlrWVY5MkJiMzA3bg?oc=5"
+      "title": "〈美股盤後〉川普恢復封鎖伊朗 油價狂飆 費半下殺近5% SK海力士ADR暴跌超9% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50VjN1RXZjMkJaLTZiV1BjeV9zQ3RBUF80cVJuQnFwSUZtZnNFeEVoZUQzMHA0Qk9vTDI3SGVhYm5sdm5yUmE0TGdSTEpTeVk?oc=5"
+    },
+    {
+      "title": "黃金高檔震盪後，抗通膨邏輯還在嗎？ - CME Group",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jXzVHUDVVMXVia29IZW5oNUM5cjFWLVF6cUlOcG9XcnV6VFd1NlZGUzE4RUVrVTVVY1BsWGlFTllua1JtSzFYOGRrUUxfRXZHNExnNzNDaW5qTXdzSEVvN3JNcnJvYzBfWFBJRVNZb09ROUxDanhrWnJNR0hkbjA?oc=5"
+    },
+    {
+      "title": "美股早盤／SK海力士ADR大跌8%拖累晶片股蘋果寫盤中新天價| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XanAwTHF4ZEN3WUVpYWJ6TG1uQ1pRMXd3cm9TNzVqNTItNlJFLXdnLXVaeVMyNUotMGQ1bUpxTXA4R1BtR2tfZG16Sl91OXBU?oc=5"
+    },
+    {
+      "title": "美股盤後｜地緣風險升溫，海力士重挫，四大指數收黑 0714｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQN2ROa0ZtOTJfWGxtcDhNc3YyNEFadnZpaEtoNHI0ZlI5elk4WndzWGZ2cFI0bWZLa1BtdUN5QzBHQTVNMUg0ME9WaVJMdVhUZS1RZUVFSXRuX2ZJVS1kQXBuTUZNbVFQY2pyV25EdEZLaS05cHV6eURlZUlsNUNTajV0aWs0dHVTbmJTMGFtd3BoOE80a0hpYnJZeXVNekpJSFN6RDZQX3RoSldPak9Qbm10MWNpTFFIeUpOS1d0bV9YT2hXZERRX1MzZy1oNVhBcWhhaU9yWWdES1B6UThMc1A0RFpnSFlvZFJTZkNZTWFxM1BoempqemNqckNxbHJLU2VyajhnZ2k2bjJZV1VFRk9aZlZEOTJLXy1TaTFVZWJTZERCTUJpQnZUX0tJZFQ2LUhpVEZNQ29XMExhZGI4RjVNWmpGV1V6NmdpclBJSXBDRmp2bWJnb2dtTmFYcUxxV1dIZGJyQzJSMUd3SUZudlFidDk5T21YSDRvaWFVZjZWYUk?oc=5"
     }
   ]
 }
