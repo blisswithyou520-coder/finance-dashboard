@@ -1,16 +1,16 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/15 11:34",
+  "updated_tw": "07/15 13:59",
   "taiwan": {
     "2330": {
-      "price": 2435.0,
-      "change": 15.0,
-      "changePercent": 0.6198
+      "price": 2440.0,
+      "change": 20.0,
+      "changePercent": 0.8264
     },
     "2454": {
-      "price": 3720.0,
-      "change": 60.0,
-      "changePercent": 1.6393
+      "price": 3740.0,
+      "change": 80.0,
+      "changePercent": 2.1858
     },
     "2317": {
       "price": 239.0,
@@ -18,104 +18,108 @@
       "changePercent": 1.4862
     },
     "0050": {
-      "price": 105.65,
-      "change": -0.35,
-      "changePercent": -0.3302
+      "price": 106.3,
+      "change": 1.9,
+      "changePercent": 1.8199
     },
     "00878": {
-      "price": 33.16,
-      "change": 0.03,
-      "changePercent": 0.0905
+      "price": 33.21,
+      "change": 0.49,
+      "changePercent": 1.4976
     },
     "00919": {
-      "price": 29.75,
-      "change": 0.04,
-      "changePercent": 0.1346
+      "price": 29.77,
+      "change": 0.35,
+      "changePercent": 1.1897
     }
   },
   "us": {
     "NVDA": {
       "price": 211.8,
-      "change": 8.27,
-      "changePercent": 4.0633
+      "change": 0.84,
+      "changePercent": 0.3982
     },
     "AAPL": {
       "price": 314.86,
-      "change": -2.45,
-      "changePercent": -0.7721
+      "change": -0.46,
+      "changePercent": -0.1459
     },
     "TSLA": {
       "price": 396.18,
-      "change": 1.42,
-      "changePercent": 0.3597
+      "change": -11.58,
+      "changePercent": -2.8399
     },
     "QQQ": {
       "price": 719.71,
-      "change": 7.97,
-      "changePercent": 1.1198
+      "change": -5.8,
+      "changePercent": -0.7994
     },
     "SPY": {
       "price": 751.83,
-      "change": 2.66,
-      "changePercent": 0.3551
+      "change": -3.12,
+      "changePercent": -0.4133
     },
     "SCHD": {
       "price": 32.2,
-      "change": -0.36,
-      "changePercent": -1.1057
+      "change": -0.2,
+      "changePercent": -0.6173
     },
     "VOO": {
       "price": 691.1,
-      "change": 2.6,
-      "changePercent": 0.3776
+      "change": -2.76,
+      "changePercent": -0.3978
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64712.0,
-      "change": 2472.8789,
-      "changePercent": 3.9732
+      "price": 64912.62,
+      "change": 2673.4989,
+      "changePercent": 4.2955
     },
     "ETH": {
-      "price": 1873.14,
-      "change": 99.6393,
-      "changePercent": 5.6182
+      "price": 1881.49,
+      "change": 107.9893,
+      "changePercent": 6.089
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.166,
-      "change": 0.004,
-      "changePercent": 0.0124
+      "price": 32.141,
+      "change": -0.021,
+      "changePercent": -0.0653
     },
     "JPYTWD": {
-      "price": 0.1962,
-      "change": -0.0018,
-      "changePercent": -0.9256
+      "price": 0.1959,
+      "change": -0.0021,
+      "changePercent": -1.0771
     },
     "EURTWD": {
-      "price": 36.842,
-      "change": 0.2298,
-      "changePercent": 0.6276
+      "price": 36.813,
+      "change": 0.2008,
+      "changePercent": 0.5484
     },
     "CNYTWD": {
-      "price": 4.7608,
+      "price": 4.7558,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4037.4,
-    "twd": 4175.0,
-    "tael": 156575.0,
-    "twdTotal": 129867.0,
-    "changePercent": -0.5836
+    "usd": 4034.9,
+    "twd": 4169.0,
+    "tael": 156356.0,
+    "twdTotal": 129686.0,
+    "changePercent": -0.6451
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "黃金低點強彈！後市目標價專家「坦白說」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pMWtTdjNURl9PZmdZbjhyWjVRMnZIb2tmU1FlZjQzbU5KUVI5dzF3UmJKam5ZVjd3MUtVMFhzdENvQ3A1cTNpT0hHWmVnNzl2LXg4MXpFNTI3YlctcUVr0gFkQVVfeXFMT0hMTmQ4dDkzMF8tMjBBWE1URzVYWno1YUo2enBtTEhMM2NqeVZxVExsSHBQcERLQXI1RUM2aU8xSmN0UWVsYURyWS1Oc0RnR1pSSXZwLTBBYkpDb3gtb2tKcUpIMA?oc=5"
+    },
     {
       "title": "美股帶頭噴！台指期夜盤強漲225點 台積電期貨卻逆勢下跌 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNRmcwS3lnUDZLa0dNRWVETkYxZlJjMS1rNHZYUFpzVmxpbk9UZlFaaUt1cFJjWEVnRnotRG84VGs4LWxCUXExaFZUWVpRbVNMWjRVb0QxMm1GMmNCS2FzUmNTQ0NEMExfYTF0cF9iRUx4NE5GNnlMZXZxb3NFT2I0SS1iZUVGdWlXemROSUhnYUpVZVRucmtPZUJGSU1GZHFmSWcxWXhsaTJoSGNLRk1McGNwYXhpc3psckJoOEdmRk1IZTFYbzdhdWFDWUV4THREQ1pSWE1NT1RIOGNOMHVGY0QtWlByUHRZQWhZMUNfQTBfVFNGdm11NG5ORlFrYjR1MGtvN0RVWURUYkZKaXc3cjJLdGRuRDZQcElvNzNWVFV6dk02T1BCeVNHMXVEX01oWkJpeFFOOG9OUTQxSjJhMmIybEhTUTJmNlZfRDBxT2g3VGxrSDVwQXpwQUQzWk9QMDRVT1VpekUzNV9kU3U5Ny11TFJHdw?oc=5"
@@ -129,24 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5heWh5aTFlYVI4T241Z2liVFVGS2NRYjNHWFoxaGg0MzFBN0F3UGd3MFVsemxEcTRDNHJoS0NJak9sOE1Ldkl3cjdiQlNDTXc?oc=5"
     },
     {
-      "title": "美股法說 JPM｜摩根大通獲利強勁，全年費用指引上調 (JPM US)｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQTzBhbU9OVEU1Z2tlNGpjTGRWUlNYUm5pSlQ3b1d1QXRHSlVOcWVSVkh5YzItdW1aYmIxQ0J1ZUxaWFU1Wjl1ZHpVVjZ2ZU1WT3huMk9PeWloMmdJZmZCeDZ1YkFuLXlOZDdBT0lVX3RVT2pqMEpoQzdBVEV5SGNzdXY1Nk95U0puQ0trdmppd0RfM3YwMmtMV3ZxVUlUZFpKS0JvXzNTWmdWMDdqeXNKNzR1QWY0ZzdjSVdKZDlzOThleV9mOEVacjJidEpQbFdEZ2IwYnF6aXNBcDFBYTRWN0VyTFFwV0VMWXozTklXSXdMY0lpb3QxbjZ1OTNyWVRLRU9wUlQ1cHY0eDRrMllaTFFkY1h3cFN6alRlenpFRGkxS1J2QkZQTFNZUlQ5ZGVOc0tMcTRhWWFmYTdJV2h5OUhueWhGZnBBRTZ3bTBCSWd0TS1jaW5ESVZrMVQxN3VmYlJBUm4tdExHQkVZdGdxR0tFODJ2NE1rUlp3SGZfSEU?oc=5"
+      "title": "美股法說 GS｜高盛財報狂飆，驚人獲利點燃市場信心 (GS US)｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNRzM2cGZ3ckdxMVdLblNtaWxRZ2psVnZUbmFsYldxc0dUcmRjQk9rR0ZLMXpfbjVxeTByNkxUS3J3ckRscVljcmZGZjF0RFR5el9IZzlwTGxEdVR0c0IxUkQtWFIyR1ZLNW1oYW9zeXlpZzh3enh2eW1ScE9jNDdwckJmbXVLVndyQk9ybk5oeE9OdE1TZi04eWNaMXdMQnA0OGFqeEUtdXg1ZEhaSWJvTEVYUF8xa2lxUnNyWVE4NVcxRGQ5cVRsdkROai00SXlEZzBqcGQzYTNiX1ZlVklkU2tVOHpxX2hXSUhpaG9aWUZSUTc1Y2ZQdVF5QS0xVzFuSjJFNEo3UFRtT1pjX09FT05pd3FnYU40NnA4MGp3LXdCVk9hT1YwNHZYM2JMVzZpRWhmb0cxSWJyRHlFQTVIUk1SdW1kT0RyTHJSVUhzVHhvNlBKcV83RWo0clE0MDVSVkdaWEwtR1YtWWZNX1pZUUFYQVJkcmRlS0pSREFn?oc=5"
     },
     {
-      "title": "黃金低點強彈！後市目標價專家「坦白說」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pMWtTdjNURl9PZmdZbjhyWjVRMnZIb2tmU1FlZjQzbU5KUVI5dzF3UmJKam5ZVjd3MUtVMFhzdENvQ3A1cTNpT0hHWmVnNzl2LXg4MXpFNTI3YlctcUVr0gFkQVVfeXFMT0hMTmQ4dDkzMF8tMjBBWE1URzVYWno1YUo2enBtTEhMM2NqeVZxVExsSHBQcERLQXI1RUM2aU8xSmN0UWVsYURyWS1Oc0RnR1pSSXZwLTBBYkpDb3gtb2tKcUpIMA?oc=5"
-    },
-    {
-      "title": "上半年基金成績單出爐，AI硬體鏈帶動台股基金領跑 - 鉅亨買基金",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzlaVkhEN0gxTXZlaFhwc2ItdEpwY0dMNXgxcURUaXFvaTIwUm15b0Jld3l4YWhRa253ZUNYREVuS0tJbE5XZzlUbUhZNGJLYTdMSS1qdUdqdEk3c24xbjRxVkh5Qy1tYXdoTjVoOGpBSTFneERBeDh3VlJ3ZWo4NXNzak40UVMzUEp3alFBTXBtalpYOWszTDZR?oc=5"
+      "title": "科技巨頭掀起融資狂潮！華爾街開始擔憂：美股牛市會否就此結束？ - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnRka0tvXzVJbUkzRjZHcjRhVXd5QlRWNjdTY2tUYzhneDhHemU4MFp3YTVWaGpJM1EtSjM5UDFnazl0NTc1aHRmY0VXRkFVWjhPOWI0VWZ6aWU5OHY1eFhVWWFUdWhYeHN6cWlKOVNJdmljMDBXclU2Z096WV9CSGJXcGVIRXFEdDgzcUtqbw?oc=5"
     },
     {
       "title": "通膨降溫超預期！美股4大指數齊揚 美光股價回神、台積電ADR同步上攻 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNNF9lOEozWmM5cVZnTHFLSDliVVdSbVhjdFBuY3JLTGxLVndkNk94Z01lWGFkbmN2Wm1MTTUxYmJIMGJmLTh1djEyWUU4NGJ3clZSTDZlVFI2MkM5c3JPZndtdU4wTHhOTDBpMlc2R0tFU3ItSHpmVmM1b0JVTS0xNDBfbndjdlFwUERzYXp5M1FmLXc2YktwZFpHRGR4WmZ3MC1wLWNTNi1YdXgtMkpQcFI1dFVQbHRXWDh3NWJmcGZ4aWRmc3hHN1pycjlSSndfRWN3aXNvZ0ZqazRkdXpZUG0yc1V4eEhyS3FkQ2lNR25ub1dDbkVyQlMwaFhYRnRqajBraWo1d3NMV296cUdqcVdjTU5JaTlMelJURUtiNXlNRUhXNW93VC1LYmNId01hWDFZY3JCelZ3MFN1aGhiQW9MVF9obGNLVGduNnZ0M3lwQnZRbE9tY2ZwQjl3emFwQXdILVBVNnYwaHVlbnVieTVFQ0FLZ1FXbGY1UjIteDRzX1dXMGJ1cjJndmRPZFZRa0dDOTZTR1QyVEMxYmNmU3ZXclVyeF9y?oc=5"
     },
     {
-      "title": "台股千點大怒神後該逃還是買？歷史數據曝後市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QVlljdXYwN0lESXdfYlNERFpqcE9CRnVHc3JKQVdoSVEyUDRKUV8yRlZDZUtPa3p6ZzhWX3pRTElQUmtlNDQ0a05SX3VYV2RO0gFWQVVfeXFMUEpvTnBOdjFSY0NqeU9YeVdkZFQ4TnJnaURYei1DZGFBc1FTVGhEenNGdkg1R3pSRF9PRFp0QTBCUFFOdDlrMFRqQXk1ZGlNUEU5TklXWEE?oc=5"
+      "title": "美股收盤》通膨降溫、晶片股反彈！道瓊收紅 台積電ADR下跌 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5QXVWRU5uY29tamZieXNpTGY1QzdhRHNyR2lxTFAtQXU2SVBwTDhQZDVlUUxEMG04ejlOYXR3a0VRRjAzZllOdG4yQ0VjdHRzOUdoMkVYQlB0TFlUeDRF0gFkQVVfeXFMUDRUYTQxa001Wk45Sk52LUtOd3RzeldWVmJ3TkpuWnVjYng2UE1TWk1nbkFIQW56QlRuX1FQaDZ2WjFFYW0xZDB1WGw0ckVGQWowdTFlOEhQTWZhQUVBcDZBUUMzeA?oc=5"
     }
   ]
 }
