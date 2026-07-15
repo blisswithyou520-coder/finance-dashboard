@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/16 05:40",
+  "updated_tw": "07/16 06:40",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64762.68,
-      "change": -193.4333,
-      "changePercent": -0.2978
+      "price": 64846.45,
+      "change": -109.6633,
+      "changePercent": -0.1688
     },
     "ETH": {
-      "price": 1920.02,
-      "change": 30.5401,
-      "changePercent": 1.6163
+      "price": 1922.82,
+      "change": 33.3401,
+      "changePercent": 1.7645
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.182,
-      "change": 0.0481,
-      "changePercent": 0.1497
+      "price": 32.179,
+      "change": 0.0451,
+      "changePercent": 0.1404
     },
     "JPYTWD": {
-      "price": 0.196,
-      "change": -0.0021,
-      "changePercent": -1.0736
+      "price": 0.1963,
+      "change": -0.0018,
+      "changePercent": -0.9221
     },
     "EURTWD": {
-      "price": 36.9,
-      "change": 0.1915,
-      "changePercent": 0.5216
+      "price": 36.944,
+      "change": 0.2355,
+      "changePercent": 0.6415
     },
     "CNYTWD": {
-      "price": 4.7532,
+      "price": 4.7594,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4066.9,
+    "usd": 4067.6,
     "twd": 4208.0,
-    "tael": 157797.0,
-    "twdTotal": 130881.0,
-    "changePercent": 0.1428
+    "tael": 157809.0,
+    "twdTotal": 130891.0,
+    "changePercent": 0.1601
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,8 +125,8 @@
       "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxPTGNLb1JwWTVUck9oZ04yZExuc3VOM0dmNHg5R1lMUkZDX3Qzc0s5QjNITmxhcWNPRXdWOG9wMVRNY095Z2JMSnlOQUE4Yi1sV1dxQkY2UGdWVHhLamRUd0RlOEdJbHlJZzM0dlpJYWdtMnV4V2NySjFFb2ZzdzJaaEZhbkkzeEYzNDZaSVR2SGVUUk4tV3N6V0ZXcGE4aFRIemhNTDdPQlgzc0tyTGhpMFRGeEMtOURVQ1A1cE5iVlhqSjdCRUdKUWN2RzMyX1JZaTc1aWJYS0c0WUFrbkFUU0lLdzJOT1FKV21yYmdNZnFKS25ySmdwMVh2bEl4SVFYYlA3dnAzclZKTElKY2hOVFBPTl9XUWlKTmpYR3p5VE9Wb2F5VXBwNExTV25Obks1emhaMzZrdTh0Zzg4dUprRk5OckJPWmg5b0xiOV9uYmF3ZUpkNWlwMWVwMkp1TWFueU5ORl9mRUJmMjVyNWxabGxqVVJDY1NRZFVfSTB0WmFBd0lRMzlub0tPWVZxbmRXM2ROMFRodW5neFNzdW13YnBibHVIdm4tZEhsOE1KMnByTVhEZmdGenFqbVd2Sm1mQ19RMnpTd2hEQU9iMWg5QXZqOFVRdFhOR0w0alhmbWJIS2E4bTNRRXZJZWV3Q1BsMkdwYmlMVmw5VXdmWVlZN3B3ZTR4ajlERFlKVnktTkhrTWJqRmNvYUVZa2FKanJEUVJxRG5kQ2N1cUhVSUloV0tB?oc=5"
     },
     {
-      "title": "美股財報季開跑！標普500獲利挑戰22%高預期 Piper Sandler看好更上一層樓 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LVDY5Q2lwMnlmTzdUWEtsc1RoMGQ3VEEtc3pPSFlhNFFjUnAwZVc3X19GV0x1NjVTVjBocS1QMHp3T2V1bDRUcjVmU1hycVk?oc=5"
+      "title": "〈美股早盤〉通膨降溫削弱Fed升息押注 主要指數開高、科技股領漲 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Qd3c3eEFzcG53Z0k3U1I4MzYwTjAxVWxNeWY2bnhLMWtoZk1wX1YyRGdOWXVyOTZCVURHWXdIRS14TnYzbm9FeFF5c25UT2M?oc=5"
     },
     {
       "title": "美股記憶體暴跌！阮慕驊驚嘆「活久見」：必然會有重大轉折 - 三立新聞",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pMWtTdjNURl9PZmdZbjhyWjVRMnZIb2tmU1FlZjQzbU5KUVI5dzF3UmJKam5ZVjd3MUtVMFhzdENvQ3A1cTNpT0hHWmVnNzl2LXg4MXpFNTI3YlctcUVr0gFkQVVfeXFMT0hMTmQ4dDkzMF8tMjBBWE1URzVYWno1YUo2enBtTEhMM2NqeVZxVExsSHBQcERLQXI1RUM2aU8xSmN0UWVsYURyWS1Oc0RnR1pSSXZwLTBBYkpDb3gtb2tKcUpIMA?oc=5"
     },
     {
-      "title": "主動式台股基金 吸金 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82bWVLWmpJNWtXR21jckxtN0FJbU1lSUNraXd6UFAxZFhkX0t4U0xGc2ZLYk5uanJvSWZWYVBJS0RxS1BrTnp0S2xHQzdxOVhXcEHSAVdBVV95cUxPNW9PamktTDdYQXdHMWFJTGNzSW9vc1FxeWQwR2tBUlhMYnc4ZDRKZVBtYVRwZVMtSFVOVENPZzhoNDc5d1M0Z2tZSmN6UjBfeWwzTG9WTnc?oc=5"
+      "title": "SK海力士ADR溢價 飆至51% - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GZEd5TS12NDY2enBRNHRVdVRsMUtXYjFlRE1oU3pVZ01uTFlmeXBtQlR0OHJTQkJnY280d0xIVkN3XzFXWnBrMkhoZXp6d0NTR3lzRmtLM0poMWZP0gFiQVVfeXFMUC15X1dHYkVEUG1YNTZxVTMzSlFfTHptdkdIWmJmU2FHRW1nbktNTDZqZ1ZNV0hMOTE4aDRjZlBTNWdPZ1BzWl9SempXczFqam1LVk5YTjFsUlJLZ2EyRWhyc3c?oc=5"
     },
     {
-      "title": "〈美股早盤〉通膨降溫削弱Fed升息押注 主要指數開高、科技股領漲 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Qd3c3eEFzcG53Z0k3U1I4MzYwTjAxVWxNeWY2bnhLMWtoZk1wX1YyRGdOWXVyOTZCVURHWXdIRS14TnYzbm9FeFF5c25UT2M?oc=5"
+      "title": "美股財報季開跑！標普500獲利挑戰22%高預期 Piper Sandler看好更上一層樓 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LVDY5Q2lwMnlmTzdUWEtsc1RoMGQ3VEEtc3pPSFlhNFFjUnAwZVc3X19GV0x1NjVTVjBocS1QMHp3T2V1bDRUcjVmU1hycVk?oc=5"
     },
     {
-      "title": "彼得·希夫示警美股恐迎「終極崩盤」籲立即保護財富 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQMWtvRS16NEtBNC1iY1F5bXJrSWhqdmVqMGJZM3ZmYTdvOXctN0Q0M1lSNjFRWGpXRTJmOTc1bHY4RXlCVFdfTVFIUFlqM2pwN0NnWE92LVFtQUMzd2VadEp3ODE2ZFlXY1k0VTdUcVprSU1Lb01VWmZMUWVHREkxbGRaQUNnenE2M0FVOTEzMVlDUlJKZW9heS00a3pPT0Y3NkM3dzZya2VtUEt5TEFBRXJpUG9ISW9Jc1hlSVlUSHg2M0JrUklNUGRJV01jdkF6NFZGWVRqU19iR3F6UTgtbmZWVGV6azAzSlhZbGVxM1dxcjNhWVk4UUtWSFRCYWFLQWQyWDRldE9UcmhLQzhSOGpuNm4tOTBpV2hqWHRIdUVhWTJvd1VhNUpuWFU1a3hVV0R1NmtxTzl5dXdBUEtUS1lmaDRUcnRTLWpqNTlMcjJuWkRVM0xzaFNhVQ?oc=5"
+      "title": "美股開盤三大指數上漲！費半指數下挫2.32% 台積電ADR跌0.10% - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxObzBXZnVHbTdQRWFYbmhFZXdlSmg4YllLQ3c1UkpnVFNLdzhqTDF5ZkdULWQ0MVNPclFJdG4wRFFmVkFad05ySU1CdE5SVWlaaGQta2s1TFF3U1ZUZTd5ZUtqRGlXNGNJX2kzbmJFM2VUMGdmbTdYTnNIYm5ubUgzQ1dEcUh6V0lqdV93MDA2T0s0cjVvbkVFTjdVNlVJZl9oTDdrc1NWME1nbWRQaEtHcEt4YlhYcXNmVkhnU292TU5SWXJRekkzeThtY0w0b3ZiMTU0bEpHejlxTlhUN0JScVFBOU1oOUpFMWJhY3BqQ09LTXRqM2hjWFc3amF2VGlxem43MFJTQTluRHJxc0p3R0QyQjVXMmQzQmE5TjBtLUUzaVBoRDN4d1l2UWNxVDhhR00wLUVFTXF2ZGZCZm9lOUtMMUhGam1ONW5rSGF6YUhRN3g3?oc=5"
     }
   ]
 }
