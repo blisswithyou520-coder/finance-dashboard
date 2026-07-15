@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/16 03:36",
+  "updated_tw": "07/16 04:42",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -35,68 +35,68 @@
   },
   "us": {
     "NVDA": {
-      "price": 211.211,
-      "change": -0.589,
-      "changePercent": -0.2781
+      "price": 212.5,
+      "change": 0.7,
+      "changePercent": 0.3305
     },
     "AAPL": {
-      "price": 326.295,
-      "change": 11.435,
-      "changePercent": 3.6318
+      "price": 327.5,
+      "change": 12.64,
+      "changePercent": 4.0145
     },
     "TSLA": {
-      "price": 394.725,
-      "change": -1.455,
-      "changePercent": -0.3673
+      "price": 394.46,
+      "change": -1.72,
+      "changePercent": -0.4341
     },
     "QQQ": {
-      "price": 716.11,
-      "change": -3.58,
-      "changePercent": -0.4974
+      "price": 717.74,
+      "change": -1.95,
+      "changePercent": -0.271
     },
     "SPY": {
-      "price": 753.55,
-      "change": 1.72,
-      "changePercent": 0.2288
+      "price": 754.81,
+      "change": 2.98,
+      "changePercent": 0.3964
     },
     "SCHD": {
-      "price": 32.285,
-      "change": 0.085,
-      "changePercent": 0.264
+      "price": 32.34,
+      "change": 0.14,
+      "changePercent": 0.4348
     },
     "VOO": {
-      "price": 692.61,
-      "change": 1.51,
-      "changePercent": 0.2185
+      "price": 693.8,
+      "change": 2.7,
+      "changePercent": 0.3907
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64855.1,
-      "change": -101.0133,
-      "changePercent": -0.1555
+      "price": 64983.36,
+      "change": 27.2467,
+      "changePercent": 0.0419
     },
     "ETH": {
-      "price": 1922.94,
-      "change": 33.4601,
-      "changePercent": 1.7709
+      "price": 1927.01,
+      "change": 37.5301,
+      "changePercent": 1.9863
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.118,
-      "change": -0.044,
-      "changePercent": -0.1368
+      "price": 32.137,
+      "change": 0.0031,
+      "changePercent": 0.0096
     },
     "JPYTWD": {
-      "price": 0.1958,
+      "price": 0.1959,
       "change": -0.0022,
-      "changePercent": -1.1276
+      "changePercent": -1.124
     },
     "EURTWD": {
-      "price": 36.875,
-      "change": 0.2628,
-      "changePercent": 0.7178
+      "price": 36.883,
+      "change": 0.1745,
+      "changePercent": 0.4753
     },
     "CNYTWD": {
       "price": 4.7503,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4063.0,
-    "twd": 4196.0,
-    "tael": 157332.0,
-    "twdTotal": 130495.0,
-    "changePercent": 0.0468
+    "usd": 4067.5,
+    "twd": 4203.0,
+    "tael": 157600.0,
+    "twdTotal": 130717.0,
+    "changePercent": 0.1576
   },
   "fed": {
     "rate": "請依最新官方公告",
