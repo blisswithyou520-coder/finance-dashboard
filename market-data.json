@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/16 02:07",
+  "updated_tw": "07/16 03:36",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 210.285,
-      "change": -1.515,
-      "changePercent": -0.7153
+      "price": 211.211,
+      "change": -0.589,
+      "changePercent": -0.2781
     },
     "AAPL": {
-      "price": 327.46,
-      "change": 12.6,
-      "changePercent": 4.0018
+      "price": 326.295,
+      "change": 11.435,
+      "changePercent": 3.6318
     },
     "TSLA": {
-      "price": 398.575,
-      "change": 2.395,
-      "changePercent": 0.6045
+      "price": 394.725,
+      "change": -1.455,
+      "changePercent": -0.3673
     },
     "QQQ": {
-      "price": 718.105,
-      "change": -1.585,
-      "changePercent": -0.2202
+      "price": 716.11,
+      "change": -3.58,
+      "changePercent": -0.4974
     },
     "SPY": {
-      "price": 754.628,
-      "change": 2.798,
-      "changePercent": 0.3722
+      "price": 753.55,
+      "change": 1.72,
+      "changePercent": 0.2288
     },
     "SCHD": {
-      "price": 32.33,
-      "change": 0.13,
-      "changePercent": 0.4037
+      "price": 32.285,
+      "change": 0.085,
+      "changePercent": 0.264
     },
     "VOO": {
-      "price": 693.608,
-      "change": 2.508,
-      "changePercent": 0.3629
+      "price": 692.61,
+      "change": 1.51,
+      "changePercent": 0.2185
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64928.34,
-      "change": -27.7733,
-      "changePercent": -0.0428
+      "price": 64855.1,
+      "change": -101.0133,
+      "changePercent": -0.1555
     },
     "ETH": {
-      "price": 1927.23,
-      "change": 37.7501,
-      "changePercent": 1.9979
+      "price": 1922.94,
+      "change": 33.4601,
+      "changePercent": 1.7709
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.12,
-      "change": -0.042,
-      "changePercent": -0.1306
+      "price": 32.118,
+      "change": -0.044,
+      "changePercent": -0.1368
     },
     "JPYTWD": {
-      "price": 0.1963,
-      "change": -0.0017,
-      "changePercent": -0.8751
+      "price": 0.1958,
+      "change": -0.0022,
+      "changePercent": -1.1276
     },
     "EURTWD": {
-      "price": 36.927,
-      "change": 0.3148,
-      "changePercent": 0.8598
+      "price": 36.875,
+      "change": 0.2628,
+      "changePercent": 0.7178
     },
     "CNYTWD": {
-      "price": 4.7545,
+      "price": 4.7503,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4068.6,
-    "twd": 4202.0,
-    "tael": 157559.0,
-    "twdTotal": 130683.0,
-    "changePercent": 0.1847
+    "usd": 4063.0,
+    "twd": 4196.0,
+    "tael": 157332.0,
+    "twdTotal": 130495.0,
+    "changePercent": 0.0468
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,12 +121,12 @@
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPQ0lYOTNPa1YzNWVSRWgweWxZXy1ZTTItUnFHWTVlZG9zd25nXzhDd1hVQlJxeFNTdTl0SkJxOU80aHVpUldkdGJpV2tTR1kwWFJra3lWQ21URnNta05vQWx5SzRkSXBEU19fMzVHWHZnay1ZU180ZkVyWG5PUDFSTV9YWHJGNlAtODBwVHNXeVp5c2RQcU5XLUdqcGI3aXFtSjZYR0xkbGxIQTZ0Sk96OHdUSmdkZG5oMzRlMVltRVE3RzRPTGF5SEViVng0VGRxb1FCaU9wenBtOXpoOUdMZmlJWGpXWGsyRkhLVGhvT3BXUWlKRTZSc291Q1M4aUZQcXF5ZFFqdmszLXd5OGdoQXVBM1dvTEprQVYtcU8zZjhHaThSTmdZTzd3WFJpMk0?oc=5"
     },
     {
-      "title": "〈美股早盤〉通膨降溫削弱Fed升息押注 主要指數開高、科技股領漲 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Qd3c3eEFzcG53Z0k3U1I4MzYwTjAxVWxNeWY2bnhLMWtoZk1wX1YyRGdOWXVyOTZCVURHWXdIRS14TnYzbm9FeFF5c25UT2M?oc=5"
-    },
-    {
       "title": "美股法說 IBM｜IBM提前認錯股價崩跌25%，記憶體缺貨打亂企業支出，台廠相關類股與後續觀察 (IBM US) - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxPTGNLb1JwWTVUck9oZ04yZExuc3VOM0dmNHg5R1lMUkZDX3Qzc0s5QjNITmxhcWNPRXdWOG9wMVRNY095Z2JMSnlOQUE4Yi1sV1dxQkY2UGdWVHhLamRUd0RlOEdJbHlJZzM0dlpJYWdtMnV4V2NySjFFb2ZzdzJaaEZhbkkzeEYzNDZaSVR2SGVUUk4tV3N6V0ZXcGE4aFRIemhNTDdPQlgzc0tyTGhpMFRGeEMtOURVQ1A1cE5iVlhqSjdCRUdKUWN2RzMyX1JZaTc1aWJYS0c0WUFrbkFUU0lLdzJOT1FKV21yYmdNZnFKS25ySmdwMVh2bEl4SVFYYlA3dnAzclZKTElKY2hOVFBPTl9XUWlKTmpYR3p5VE9Wb2F5VXBwNExTV25Obks1emhaMzZrdTh0Zzg4dUprRk5OckJPWmg5b0xiOV9uYmF3ZUpkNWlwMWVwMkp1TWFueU5ORl9mRUJmMjVyNWxabGxqVVJDY1NRZFVfSTB0WmFBd0lRMzlub0tPWVZxbmRXM2ROMFRodW5neFNzdW13YnBibHVIdm4tZEhsOE1KMnByTVhEZmdGenFqbVd2Sm1mQ19RMnpTd2hEQU9iMWg5QXZqOFVRdFhOR0w0alhmbWJIS2E4bTNRRXZJZWV3Q1BsMkdwYmlMVmw5VXdmWVlZN3B3ZTR4ajlERFlKVnktTkhrTWJqRmNvYUVZa2FKanJEUVJxRG5kQ2N1cUhVSUloV0tB?oc=5"
+    },
+    {
+      "title": "美股財報季開跑！標普500獲利挑戰22%高預期 Piper Sandler看好更上一層樓 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LVDY5Q2lwMnlmTzdUWEtsc1RoMGQ3VEEtc3pPSFlhNFFjUnAwZVc3X19GV0x1NjVTVjBocS1QMHp3T2V1bDRUcjVmU1hycVk?oc=5"
     },
     {
       "title": "美股記憶體暴跌！阮慕驊驚嘆「活久見」：必然會有重大轉折 - 三立新聞",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pMWtTdjNURl9PZmdZbjhyWjVRMnZIb2tmU1FlZjQzbU5KUVI5dzF3UmJKam5ZVjd3MUtVMFhzdENvQ3A1cTNpT0hHWmVnNzl2LXg4MXpFNTI3YlctcUVr0gFkQVVfeXFMT0hMTmQ4dDkzMF8tMjBBWE1URzVYWno1YUo2enBtTEhMM2NqeVZxVExsSHBQcERLQXI1RUM2aU8xSmN0UWVsYURyWS1Oc0RnR1pSSXZwLTBBYkpDb3gtb2tKcUpIMA?oc=5"
     },
     {
-      "title": "不當「囤幣仔」轉戰 AI ！Empery Digital 賣掉半數比特幣、套現 8,700 萬美元 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVHlfeGxicDZzVWJNMUluQ3J5eFRtTnBmbTJXYjJDYzdwUmluaExNek1NTjlVak9BOE5POEpQZUNTU3I0NVFBWFp3SURFNFNTTHhUaWwySGI4ZHFieTd1WmFpWG1JU1BzOVdrWHZ1RXdTM3BVVHFWWGRsUjNMSkUzdlQzb1VxNkVqd3lDcVhJaFptX2Z5dTA1YzFB?oc=5"
-    },
-    {
       "title": "美國6月 PPI 數據優於預期 台指期夜盤直線拉升翻紅 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UaHNWa3RDeVN6UnN4OWEwbWVWRHlQNzEzeURTZkdwZ1BrNkl2c0Uzcnp5QWkyb01tenlrUU85RUFFOWs3UEJFTmtNWlFtVHZIZFlhaFhsX1NpOGvSAWBBVV95cUxObjBWeXZrTFpIS0pjcTg0aWI2Z0tlN0p5MlJvMm9LTUtNZ2gtcmZPbmUxSjZzR24wVFc4TU0xYWpYWkxzSTJJT1VjWnhjTXlsbHRjYURQSm1jWTZOaU90eW4?oc=5"
     },
     {
-      "title": "美股財報季開跑！標普500獲利挑戰22%高預期 Piper Sandler看好更上一層樓 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LVDY5Q2lwMnlmTzdUWEtsc1RoMGQ3VEEtc3pPSFlhNFFjUnAwZVc3X19GV0x1NjVTVjBocS1QMHp3T2V1bDRUcjVmU1hycVk?oc=5"
+      "title": "〈美股早盤〉通膨降溫削弱Fed升息押注 主要指數開高、科技股領漲 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Qd3c3eEFzcG53Z0k3U1I4MzYwTjAxVWxNeWY2bnhLMWtoZk1wX1YyRGdOWXVyOTZCVURHWXdIRS14TnYzbm9FeFF5c25UT2M?oc=5"
+    },
+    {
+      "title": "美股開盤三大指數上漲！費半指數下挫2.32% 台積電ADR跌0.10% - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxObzBXZnVHbTdQRWFYbmhFZXdlSmg4YllLQ3c1UkpnVFNLdzhqTDF5ZkdULWQ0MVNPclFJdG4wRFFmVkFad05ySU1CdE5SVWlaaGQta2s1TFF3U1ZUZTd5ZUtqRGlXNGNJX2kzbmJFM2VUMGdmbTdYTnNIYm5ubUgzQ1dEcUh6V0lqdV93MDA2T0s0cjVvbkVFTjdVNlVJZl9oTDdrc1NWME1nbWRQaEtHcEt4YlhYcXNmVkhnU292TU5SWXJRekkzeThtY0w0b3ZiMTU0bEpHejlxTlhUN0JScVFBOU1oOUpFMWJhY3BqQ09LTXRqM2hjWFc3amF2VGlxem43MFJTQTluRHJxc0p3R0QyQjVXMmQzQmE5TjBtLUUzaVBoRDN4d1l2UWNxVDhhR00wLUVFTXF2ZGZCZm9lOUtMMUhGam1ONW5rSGF6YUhRN3g3?oc=5"
     }
   ]
 }
