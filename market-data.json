@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/15 13:59",
+  "updated_tw": "07/15 16:28",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64912.62,
-      "change": 2673.4989,
-      "changePercent": 4.2955
+      "price": 64584.91,
+      "change": -371.2033,
+      "changePercent": -0.5715
     },
     "ETH": {
-      "price": 1881.49,
-      "change": 107.9893,
-      "changePercent": 6.089
+      "price": 1873.84,
+      "change": -15.6399,
+      "changePercent": -0.8277
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.141,
-      "change": -0.021,
-      "changePercent": -0.0653
+      "price": 32.197,
+      "change": 0.035,
+      "changePercent": 0.1088
     },
     "JPYTWD": {
-      "price": 0.1959,
-      "change": -0.0021,
-      "changePercent": -1.0771
+      "price": 0.196,
+      "change": -0.002,
+      "changePercent": -1.0266
     },
     "EURTWD": {
-      "price": 36.813,
-      "change": 0.2008,
-      "changePercent": 0.5484
+      "price": 36.788,
+      "change": 0.1758,
+      "changePercent": 0.4801
     },
     "CNYTWD": {
-      "price": 4.7558,
+      "price": 4.7556,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4034.9,
-    "twd": 4169.0,
-    "tael": 156356.0,
-    "twdTotal": 129686.0,
-    "changePercent": -0.6451
+    "usd": 4029.8,
+    "twd": 4171.0,
+    "tael": 156430.0,
+    "twdTotal": 129747.0,
+    "changePercent": -0.7707
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNRzM2cGZ3ckdxMVdLblNtaWxRZ2psVnZUbmFsYldxc0dUcmRjQk9rR0ZLMXpfbjVxeTByNkxUS3J3ckRscVljcmZGZjF0RFR5el9IZzlwTGxEdVR0c0IxUkQtWFIyR1ZLNW1oYW9zeXlpZzh3enh2eW1ScE9jNDdwckJmbXVLVndyQk9ybk5oeE9OdE1TZi04eWNaMXdMQnA0OGFqeEUtdXg1ZEhaSWJvTEVYUF8xa2lxUnNyWVE4NVcxRGQ5cVRsdkROai00SXlEZzBqcGQzYTNiX1ZlVklkU2tVOHpxX2hXSUhpaG9aWUZSUTc1Y2ZQdVF5QS0xVzFuSjJFNEo3UFRtT1pjX09FT05pd3FnYU40NnA4MGp3LXdCVk9hT1YwNHZYM2JMVzZpRWhmb0cxSWJyRHlFQTVIUk1SdW1kT0RyTHJSVUhzVHhvNlBKcV83RWo0clE0MDVSVkdaWEwtR1YtWWZNX1pZUUFYQVJkcmRlS0pSREFn?oc=5"
     },
     {
+      "title": "電子權值股和台塑四寶強勢 台股上漲893點收45631點 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9US21IQ2RNV1BxQk9GSTBTbFE0VFJuMmh3QlhvNjZnLTF0RVJhSFJQVzJzbXdVSmNGTTBmdTFTTk9temhRZko4TFBzNUVDNW1GWlZYR0RWTE1QVHpIcGc?oc=5"
+    },
+    {
       "title": "科技巨頭掀起融資狂潮！華爾街開始擔憂：美股牛市會否就此結束？ - capitalfutures.com.tw",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnRka0tvXzVJbUkzRjZHcjRhVXd5QlRWNjdTY2tUYzhneDhHemU4MFp3YTVWaGpJM1EtSjM5UDFnazl0NTc1aHRmY0VXRkFVWjhPOWI0VWZ6aWU5OHY1eFhVWWFUdWhYeHN6cWlKOVNJdmljMDBXclU2Z096WV9CSGJXcGVIRXFEdDgzcUtqbw?oc=5"
     },
     {
       "title": "通膨降溫超預期！美股4大指數齊揚 美光股價回神、台積電ADR同步上攻 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNNF9lOEozWmM5cVZnTHFLSDliVVdSbVhjdFBuY3JLTGxLVndkNk94Z01lWGFkbmN2Wm1MTTUxYmJIMGJmLTh1djEyWUU4NGJ3clZSTDZlVFI2MkM5c3JPZndtdU4wTHhOTDBpMlc2R0tFU3ItSHpmVmM1b0JVTS0xNDBfbndjdlFwUERzYXp5M1FmLXc2YktwZFpHRGR4WmZ3MC1wLWNTNi1YdXgtMkpQcFI1dFVQbHRXWDh3NWJmcGZ4aWRmc3hHN1pycjlSSndfRWN3aXNvZ0ZqazRkdXpZUG0yc1V4eEhyS3FkQ2lNR25ub1dDbkVyQlMwaFhYRnRqajBraWo1d3NMV296cUdqcVdjTU5JaTlMelJURUtiNXlNRUhXNW93VC1LYmNId01hWDFZY3JCelZ3MFN1aGhiQW9MVF9obGNLVGduNnZ0M3lwQnZRbE9tY2ZwQjl3emFwQXdILVBVNnYwaHVlbnVieTVFQ0FLZ1FXbGY1UjIteDRzX1dXMGJ1cjJndmRPZFZRa0dDOTZTR1QyVEMxYmNmU3ZXclVyeF9y?oc=5"
-    },
-    {
-      "title": "美股收盤》通膨降溫、晶片股反彈！道瓊收紅 台積電ADR下跌 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5QXVWRU5uY29tamZieXNpTGY1QzdhRHNyR2lxTFAtQXU2SVBwTDhQZDVlUUxEMG04ejlOYXR3a0VRRjAzZllOdG4yQ0VjdHRzOUdoMkVYQlB0TFlUeDRF0gFkQVVfeXFMUDRUYTQxa001Wk45Sk52LUtOd3RzeldWVmJ3TkpuWnVjYng2UE1TWk1nbkFIQW56QlRuX1FQaDZ2WjFFYW0xZDB1WGw0ckVGQWowdTFlOEhQTWZhQUVBcDZBUUMzeA?oc=5"
     }
   ]
 }
