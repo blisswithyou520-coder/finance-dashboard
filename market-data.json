@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/15 08:05",
+  "updated_tw": "07/15 11:34",
   "taiwan": {
     "2330": {
-      "price": 2420.0,
-      "change": -20.0,
-      "changePercent": -0.8197
+      "price": 2435.0,
+      "change": 15.0,
+      "changePercent": 0.6198
     },
     "2454": {
-      "price": 3660.0,
-      "change": -165.0,
-      "changePercent": -4.3137
+      "price": 3720.0,
+      "change": 60.0,
+      "changePercent": 1.6393
     },
     "2317": {
-      "price": 235.5,
-      "change": -1.0,
-      "changePercent": -0.4228
+      "price": 239.0,
+      "change": 3.5,
+      "changePercent": 1.4862
     },
     "0050": {
-      "price": 104.4,
-      "change": -1.4,
-      "changePercent": -1.3233
+      "price": 105.65,
+      "change": -0.35,
+      "changePercent": -0.3302
     },
     "00878": {
-      "price": 32.72,
-      "change": -0.47,
-      "changePercent": -1.4161
+      "price": 33.16,
+      "change": 0.03,
+      "changePercent": 0.0905
     },
     "00919": {
-      "price": 29.42,
-      "change": -0.55,
-      "changePercent": -1.8352
+      "price": 29.75,
+      "change": 0.04,
+      "changePercent": 0.1346
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64940.96,
-      "change": 2701.8389,
-      "changePercent": 4.3411
+      "price": 64712.0,
+      "change": 2472.8789,
+      "changePercent": 3.9732
     },
     "ETH": {
-      "price": 1888.9,
-      "change": 115.3993,
-      "changePercent": 6.5069
+      "price": 1873.14,
+      "change": 99.6393,
+      "changePercent": 5.6182
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.133,
-      "change": -0.029,
-      "changePercent": -0.0902
+      "price": 32.166,
+      "change": 0.004,
+      "changePercent": 0.0124
     },
     "JPYTWD": {
-      "price": 0.1959,
-      "change": -0.0021,
-      "changePercent": -1.0771
+      "price": 0.1962,
+      "change": -0.0018,
+      "changePercent": -0.9256
     },
     "EURTWD": {
-      "price": 36.759,
-      "change": 0.1468,
-      "changePercent": 0.4009
+      "price": 36.842,
+      "change": 0.2298,
+      "changePercent": 0.6276
     },
     "CNYTWD": {
-      "price": 4.7485,
+      "price": 4.7608,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4060.5,
-    "twd": 4195.0,
-    "tael": 157309.0,
-    "twdTotal": 130476.0,
-    "changePercent": 1.5887
+    "usd": 4037.4,
+    "twd": 4175.0,
+    "tael": 156575.0,
+    "twdTotal": 129867.0,
+    "changePercent": -0.5836
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "通膨降溫超預期！美股4大指數齊揚 美光股價回神、台積電ADR同步上攻 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNNF9lOEozWmM5cVZnTHFLSDliVVdSbVhjdFBuY3JLTGxLVndkNk94Z01lWGFkbmN2Wm1MTTUxYmJIMGJmLTh1djEyWUU4NGJ3clZSTDZlVFI2MkM5c3JPZndtdU4wTHhOTDBpMlc2R0tFU3ItSHpmVmM1b0JVTS0xNDBfbndjdlFwUERzYXp5M1FmLXc2YktwZFpHRGR4WmZ3MC1wLWNTNi1YdXgtMkpQcFI1dFVQbHRXWDh3NWJmcGZ4aWRmc3hHN1pycjlSSndfRWN3aXNvZ0ZqazRkdXpZUG0yc1V4eEhyS3FkQ2lNR25ub1dDbkVyQlMwaFhYRnRqajBraWo1d3NMV296cUdqcVdjTU5JaTlMelJURUtiNXlNRUhXNW93VC1LYmNId01hWDFZY3JCelZ3MFN1aGhiQW9MVF9obGNLVGduNnZ0M3lwQnZRbE9tY2ZwQjl3emFwQXdILVBVNnYwaHVlbnVieTVFQ0FLZ1FXbGY1UjIteDRzX1dXMGJ1cjJndmRPZFZRa0dDOTZTR1QyVEMxYmNmU3ZXclVyeF9y?oc=5"
-    },
-    {
-      "title": "美股收盤》通膨降溫、晶片股反彈！道瓊收紅 台積電ADR下跌 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5QXVWRU5uY29tamZieXNpTGY1QzdhRHNyR2lxTFAtQXU2SVBwTDhQZDVlUUxEMG04ejlOYXR3a0VRRjAzZllOdG4yQ0VjdHRzOUdoMkVYQlB0TFlUeDRF0gFkQVVfeXFMUDRUYTQxa001Wk45Sk52LUtOd3RzeldWVmJ3TkpuWnVjYng2UE1TWk1nbkFIQW56QlRuX1FQaDZ2WjFFYW0xZDB1WGw0ckVGQWowdTFlOEhQTWZhQUVBcDZBUUMzeA?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉川普撤回荷姆茲20%過路費 通膨降溫助美股收高 IBM創紀錄暴跌25% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5heWh5aTFlYVI4T241Z2liVFVGS2NRYjNHWFoxaGg0MzFBN0F3UGd3MFVsemxEcTRDNHJoS0NJak9sOE1Ldkl3cjdiQlNDTXc?oc=5"
+      "title": "美股帶頭噴！台指期夜盤強漲225點 台積電期貨卻逆勢下跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNRmcwS3lnUDZLa0dNRWVETkYxZlJjMS1rNHZYUFpzVmxpbk9UZlFaaUt1cFJjWEVnRnotRG84VGs4LWxCUXExaFZUWVpRbVNMWjRVb0QxMm1GMmNCS2FzUmNTQ0NEMExfYTF0cF9iRUx4NE5GNnlMZXZxb3NFT2I0SS1iZUVGdWlXemROSUhnYUpVZVRucmtPZUJGSU1GZHFmSWcxWXhsaTJoSGNLRk1McGNwYXhpc3psckJoOEdmRk1IZTFYbzdhdWFDWUV4THREQ1pSWE1NT1RIOGNOMHVGY0QtWlByUHRZQWhZMUNfQTBfVFNGdm11NG5ORlFrYjR1MGtvN0RVWURUYkZKaXc3cjJLdGRuRDZQcElvNzNWVFV6dk02T1BCeVNHMXVEX01oWkJpeFFOOG9OUTQxSjJhMmIybEhTUTJmNlZfRDBxT2g3VGxrSDVwQXpwQUQzWk9QMDRVT1VpekUzNV9kU3U5Ny11TFJHdw?oc=5"
     },
     {
       "title": "美股早盤／美通膨降溫...指數齊揚 費半漲3%、IBM重挫23% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpYXl1WTZhMXFSZ2hremduWllyRUJjT1BoSVBhcXYxRGZBLV91TU93emlrOEJaNWMyOW5CQlVNWHRNYnozWllZRkc5MFFKVE5D?oc=5"
     },
     {
-      "title": "金十數據全球財經早餐 | 2026年7月15日 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVklmNmJOWVh2MXVJdjNyLTNJX01qWVQwSmo1MWxvNHlkM3JZcEJCVDViRzRDVlUyNmZvdmxiaGtDOEp4c1NHbk5PT2FFUGZObGlSSHcxVHlPZmVyVGZMUlVrQXdxLXZFSEJ2TWxpODZYc1NtM0VTS2k4d1NtOG5rOHdqaTFaeGVTMmhLdTNSaw?oc=5"
+      "title": "〈美股盤後〉川普撤回荷姆茲20%過路費 通膨降溫助美股收高 IBM創紀錄暴跌25% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5heWh5aTFlYVI4T241Z2liVFVGS2NRYjNHWFoxaGg0MzFBN0F3UGd3MFVsemxEcTRDNHJoS0NJak9sOE1Ldkl3cjdiQlNDTXc?oc=5"
     },
     {
-      "title": "【美股盤前】費半慘摔5%、大空頭警告「AI見頂」？聯準會7月升息機率飆，特斯拉、甲骨文慘遭重擊！ - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxPbndoNFhOOUJhalQyanF6SExmQWpvSmRKQWZGUnBYODlERzNDVXc4VUMyTnhCQVlMUkJpODZ2dkZCclJNUi1scnQ0N3VVS2NVY0hNWmNDNVZ2aFdpTHNNOE1jWlp5MWpPOTB1dVJmOWswaVpRRjZDTS1kbGROYkVBZTZVd3NkeWZtUkRfaEhJRmlQOUU3VzFTNlpiZ0V2QzF4Wk5MWk52cS1vdzY1ZmxSWmdpVzNvRmZNdUpnWVpoSHhYMXZVOFo4dVlQcWpFbXdLZ09Kd3Bpd0hfTnlvOFN6RHAxb3BvWWZ2Q2JNZ2thdHJtbW9mSGtjUkZfTzZiSERVZEVRaGdITkR2djRkeFVLRjNRY09RdDNkSUpweHlDZjJoOFk1YjhqZm5USEtlNG1DdDBuaTJjYVd3eHo1RFB4QTgwZzl1dmVaOGYzdzM3d21Ta1hlQTYzRmxOQVpwWEJWRmpoMWxhRmt5SGVIaWV5a2VHR0UzZUxXVzBCUklIME9RSDVRdVVXYzVDd1RsM1dvMjlpTzFpZ1ZvZzhhZ25DZEN4amVsY1loMFRUOVktM19HdzZmTm9XdzZ2VkNaNWZ4YS1xQ1AzSmctc1ZITnJXOFB0WjVVb25acTFLdnBwR09kYVY4amxjdW44QU1WMjFUdS05ZGRtcGRfaTlYa1EwNGxyUzh1Sy1JWV9IWXZUU1NTYmREZS1EQVoybTJGdmNtVzFmd0hEWQ?oc=5"
+      "title": "美股法說 JPM｜摩根大通獲利強勁，全年費用指引上調 (JPM US)｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQTzBhbU9OVEU1Z2tlNGpjTGRWUlNYUm5pSlQ3b1d1QXRHSlVOcWVSVkh5YzItdW1aYmIxQ0J1ZUxaWFU1Wjl1ZHpVVjZ2ZU1WT3huMk9PeWloMmdJZmZCeDZ1YkFuLXlOZDdBT0lVX3RVT2pqMEpoQzdBVEV5SGNzdXY1Nk95U0puQ0trdmppd0RfM3YwMmtMV3ZxVUlUZFpKS0JvXzNTWmdWMDdqeXNKNzR1QWY0ZzdjSVdKZDlzOThleV9mOEVacjJidEpQbFdEZ2IwYnF6aXNBcDFBYTRWN0VyTFFwV0VMWXozTklXSXdMY0lpb3QxbjZ1OTNyWVRLRU9wUlQ1cHY0eDRrMllaTFFkY1h3cFN6alRlenpFRGkxS1J2QkZQTFNZUlQ5ZGVOc0tMcTRhWWFmYTdJV2h5OUhueWhGZnBBRTZ3bTBCSWd0TS1jaW5ESVZrMVQxN3VmYlJBUm4tdExHQkVZdGdxR0tFODJ2NE1rUlp3SGZfSEU?oc=5"
     },
     {
-      "title": "AI鏈多頭格局可望延續 美股ETF買氣不墜 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tUmxUU1BvNWxVbHJWbENaZERMQ0RHVDFkOGVoSGtYWENFSkVwTU5VMHZYeGdNMHFqd01MbWtVenI1YWVYUElWWlJuc2xFNGtkTkgw0gFYQVVfeXFMT290akVHUlJ3bjZYNzZ2ZVJJVVFha0lhRVZqenRvTW5nYXNWcENrN0NONEFJTWhEbG55OE1WamkzTVpnTUZpNDlUaXpkOHBvTnVLUzAwSVBlNQ?oc=5"
+      "title": "黃金低點強彈！後市目標價專家「坦白說」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pMWtTdjNURl9PZmdZbjhyWjVRMnZIb2tmU1FlZjQzbU5KUVI5dzF3UmJKam5ZVjd3MUtVMFhzdENvQ3A1cTNpT0hHWmVnNzl2LXg4MXpFNTI3YlctcUVr0gFkQVVfeXFMT0hMTmQ4dDkzMF8tMjBBWE1URzVYWno1YUo2enBtTEhMM2NqeVZxVExsSHBQcERLQXI1RUM2aU8xSmN0UWVsYURyWS1Oc0RnR1pSSXZwLTBBYkpDb3gtb2tKcUpIMA?oc=5"
     },
     {
-      "title": "美股重點新聞摘要2026年7月15日 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56T3lMRnZNM21VX3QyRFhSVzRWSW5iRllrcE91ejd0NmJlUUJ5elZqQ3ctWnZNeWNjaXQ2aHFmYnZNTkloSFJycXdaaw?oc=5"
+      "title": "上半年基金成績單出爐，AI硬體鏈帶動台股基金領跑 - 鉅亨買基金",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzlaVkhEN0gxTXZlaFhwc2ItdEpwY0dMNXgxcURUaXFvaTIwUm15b0Jld3l4YWhRa253ZUNYREVuS0tJbE5XZzlUbUhZNGJLYTdMSS1qdUdqdEk3c24xbjRxVkh5Qy1tYXdoTjVoOGpBSTFneERBeDh3VlJ3ZWo4NXNzak40UVMzUEp3alFBTXBtalpYOWszTDZR?oc=5"
+    },
+    {
+      "title": "通膨降溫超預期！美股4大指數齊揚 美光股價回神、台積電ADR同步上攻 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNNF9lOEozWmM5cVZnTHFLSDliVVdSbVhjdFBuY3JLTGxLVndkNk94Z01lWGFkbmN2Wm1MTTUxYmJIMGJmLTh1djEyWUU4NGJ3clZSTDZlVFI2MkM5c3JPZndtdU4wTHhOTDBpMlc2R0tFU3ItSHpmVmM1b0JVTS0xNDBfbndjdlFwUERzYXp5M1FmLXc2YktwZFpHRGR4WmZ3MC1wLWNTNi1YdXgtMkpQcFI1dFVQbHRXWDh3NWJmcGZ4aWRmc3hHN1pycjlSSndfRWN3aXNvZ0ZqazRkdXpZUG0yc1V4eEhyS3FkQ2lNR25ub1dDbkVyQlMwaFhYRnRqajBraWo1d3NMV296cUdqcVdjTU5JaTlMelJURUtiNXlNRUhXNW93VC1LYmNId01hWDFZY3JCelZ3MFN1aGhiQW9MVF9obGNLVGduNnZ0M3lwQnZRbE9tY2ZwQjl3emFwQXdILVBVNnYwaHVlbnVieTVFQ0FLZ1FXbGY1UjIteDRzX1dXMGJ1cjJndmRPZFZRa0dDOTZTR1QyVEMxYmNmU3ZXclVyeF9y?oc=5"
+    },
+    {
+      "title": "台股千點大怒神後該逃還是買？歷史數據曝後市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QVlljdXYwN0lESXdfYlNERFpqcE9CRnVHc3JKQVdoSVEyUDRKUV8yRlZDZUtPa3p6ZzhWX3pRTElQUmtlNDQ0a05SX3VYV2RO0gFWQVVfeXFMUEpvTnBOdjFSY0NqeU9YeVdkZFQ4TnJnaURYei1DZGFBc1FTVGhEenNGdkg1R3pSRF9PRFp0QTBCUFFOdDlrMFRqQXk1ZGlNUEU5TklXWEE?oc=5"
     }
   ]
 }
