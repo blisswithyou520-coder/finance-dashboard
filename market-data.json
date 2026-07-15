@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/16 06:40",
+  "updated_tw": "07/16 07:41",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64846.45,
-      "change": -109.6633,
-      "changePercent": -0.1688
+      "price": 64754.1,
+      "change": -202.0133,
+      "changePercent": -0.311
     },
     "ETH": {
-      "price": 1922.82,
-      "change": 33.3401,
-      "changePercent": 1.7645
+      "price": 1918.01,
+      "change": 28.5301,
+      "changePercent": 1.5099
     }
   },
   "fx": {
@@ -89,33 +89,37 @@
       "changePercent": 0.1404
     },
     "JPYTWD": {
-      "price": 0.1963,
-      "change": -0.0018,
-      "changePercent": -0.9221
+      "price": 0.1964,
+      "change": -0.0017,
+      "changePercent": -0.8717
     },
     "EURTWD": {
-      "price": 36.944,
-      "change": 0.2355,
-      "changePercent": 0.6415
+      "price": 36.954,
+      "change": 0.2455,
+      "changePercent": 0.6687
     },
     "CNYTWD": {
-      "price": 4.7594,
+      "price": 4.7585,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4067.6,
-    "twd": 4208.0,
-    "tael": 157809.0,
-    "twdTotal": 130891.0,
-    "changePercent": 0.1601
+    "usd": 4063.1,
+    "twd": 4204.0,
+    "tael": 157635.0,
+    "twdTotal": 130746.0,
+    "changePercent": 0.0492
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "〈美股盤後〉通膨降溫標普連二紅 費半跌逾2% 美光、SK海力士ADR崩超8% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IY3dCb1pYY0YwWlBzQzlnb1QxV2YyYWZPVF9RN1hxN1JQSnNLYVJBNXFkSUpOajlHdGs4VjFmS3N0bUNwcE13RW1RSjUyNEE?oc=5"
+    },
     {
       "title": "快訊／川普政策突轉彎！美股開盤4大指數暫漲 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPQ0lYOTNPa1YzNWVSRWgweWxZXy1ZTTItUnFHWTVlZG9zd25nXzhDd1hVQlJxeFNTdTl0SkJxOU80aHVpUldkdGJpV2tTR1kwWFJra3lWQ21URnNta05vQWx5SzRkSXBEU19fMzVHWHZnay1ZU180ZkVyWG5PUDFSTV9YWHJGNlAtODBwVHNXeVp5c2RQcU5XLUdqcGI3aXFtSjZYR0xkbGxIQTZ0Sk96OHdUSmdkZG5oMzRlMVltRVE3RzRPTGF5SEViVng0VGRxb1FCaU9wenBtOXpoOUdMZmlJWGpXWGsyRkhLVGhvT3BXUWlKRTZSc291Q1M4aUZQcXF5ZFFqdmszLXd5OGdoQXVBM1dvTEprQVYtcU8zZjhHaThSTmdZTzd3WFJpMk0?oc=5"
@@ -125,28 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxPTGNLb1JwWTVUck9oZ04yZExuc3VOM0dmNHg5R1lMUkZDX3Qzc0s5QjNITmxhcWNPRXdWOG9wMVRNY095Z2JMSnlOQUE4Yi1sV1dxQkY2UGdWVHhLamRUd0RlOEdJbHlJZzM0dlpJYWdtMnV4V2NySjFFb2ZzdzJaaEZhbkkzeEYzNDZaSVR2SGVUUk4tV3N6V0ZXcGE4aFRIemhNTDdPQlgzc0tyTGhpMFRGeEMtOURVQ1A1cE5iVlhqSjdCRUdKUWN2RzMyX1JZaTc1aWJYS0c0WUFrbkFUU0lLdzJOT1FKV21yYmdNZnFKS25ySmdwMVh2bEl4SVFYYlA3dnAzclZKTElKY2hOVFBPTl9XUWlKTmpYR3p5VE9Wb2F5VXBwNExTV25Obks1emhaMzZrdTh0Zzg4dUprRk5OckJPWmg5b0xiOV9uYmF3ZUpkNWlwMWVwMkp1TWFueU5ORl9mRUJmMjVyNWxabGxqVVJDY1NRZFVfSTB0WmFBd0lRMzlub0tPWVZxbmRXM2ROMFRodW5neFNzdW13YnBibHVIdm4tZEhsOE1KMnByTVhEZmdGenFqbVd2Sm1mQ19RMnpTd2hEQU9iMWg5QXZqOFVRdFhOR0w0alhmbWJIS2E4bTNRRXZJZWV3Q1BsMkdwYmlMVmw5VXdmWVlZN3B3ZTR4ajlERFlKVnktTkhrTWJqRmNvYUVZa2FKanJEUVJxRG5kQ2N1cUhVSUloV0tB?oc=5"
     },
     {
-      "title": "〈美股早盤〉通膨降溫削弱Fed升息押注 主要指數開高、科技股領漲 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Qd3c3eEFzcG53Z0k3U1I4MzYwTjAxVWxNeWY2bnhLMWtoZk1wX1YyRGdOWXVyOTZCVURHWXdIRS14TnYzbm9FeFF5c25UT2M?oc=5"
-    },
-    {
       "title": "美股記憶體暴跌！阮慕驊驚嘆「活久見」：必然會有重大轉折 - 三立新聞",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GOGd5NHBrdThvWVVXUVZnc3pYSEdRWUdXSG82dXNta1I3OEVJMG1vTll6cG95aVJjQ25lNV80VUwwSS1Dc2xmZGZJYw?oc=5"
-    },
-    {
-      "title": "黃金低點強彈！後市目標價專家「坦白說」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pMWtTdjNURl9PZmdZbjhyWjVRMnZIb2tmU1FlZjQzbU5KUVI5dzF3UmJKam5ZVjd3MUtVMFhzdENvQ3A1cTNpT0hHWmVnNzl2LXg4MXpFNTI3YlctcUVr0gFkQVVfeXFMT0hMTmQ4dDkzMF8tMjBBWE1URzVYWno1YUo2enBtTEhMM2NqeVZxVExsSHBQcERLQXI1RUM2aU8xSmN0UWVsYURyWS1Oc0RnR1pSSXZwLTBBYkpDb3gtb2tKcUpIMA?oc=5"
     },
     {
       "title": "SK海力士ADR溢價 飆至51% - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GZEd5TS12NDY2enBRNHRVdVRsMUtXYjFlRE1oU3pVZ01uTFlmeXBtQlR0OHJTQkJnY280d0xIVkN3XzFXWnBrMkhoZXp6d0NTR3lzRmtLM0poMWZP0gFiQVVfeXFMUC15X1dHYkVEUG1YNTZxVTMzSlFfTHptdkdIWmJmU2FHRW1nbktNTDZqZ1ZNV0hMOTE4aDRjZlBTNWdPZ1BzWl9SempXczFqam1LVk5YTjFsUlJLZ2EyRWhyc3c?oc=5"
     },
     {
-      "title": "美股財報季開跑！標普500獲利挑戰22%高預期 Piper Sandler看好更上一層樓 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LVDY5Q2lwMnlmTzdUWEtsc1RoMGQ3VEEtc3pPSFlhNFFjUnAwZVc3X19GV0x1NjVTVjBocS1QMHp3T2V1bDRUcjVmU1hycVk?oc=5"
+      "title": "黃金低點強彈！後市目標價專家「坦白說」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pMWtTdjNURl9PZmdZbjhyWjVRMnZIb2tmU1FlZjQzbU5KUVI5dzF3UmJKam5ZVjd3MUtVMFhzdENvQ3A1cTNpT0hHWmVnNzl2LXg4MXpFNTI3YlctcUVr0gFkQVVfeXFMT0hMTmQ4dDkzMF8tMjBBWE1URzVYWno1YUo2enBtTEhMM2NqeVZxVExsSHBQcERLQXI1RUM2aU8xSmN0UWVsYURyWS1Oc0RnR1pSSXZwLTBBYkpDb3gtb2tKcUpIMA?oc=5"
     },
     {
-      "title": "美股開盤三大指數上漲！費半指數下挫2.32% 台積電ADR跌0.10% - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxObzBXZnVHbTdQRWFYbmhFZXdlSmg4YllLQ3c1UkpnVFNLdzhqTDF5ZkdULWQ0MVNPclFJdG4wRFFmVkFad05ySU1CdE5SVWlaaGQta2s1TFF3U1ZUZTd5ZUtqRGlXNGNJX2kzbmJFM2VUMGdmbTdYTnNIYm5ubUgzQ1dEcUh6V0lqdV93MDA2T0s0cjVvbkVFTjdVNlVJZl9oTDdrc1NWME1nbWRQaEtHcEt4YlhYcXNmVkhnU292TU5SWXJRekkzeThtY0w0b3ZiMTU0bEpHejlxTlhUN0JScVFBOU1oOUpFMWJhY3BqQ09LTXRqM2hjWFc3amF2VGlxem43MFJTQTluRHJxc0p3R0QyQjVXMmQzQmE5TjBtLUUzaVBoRDN4d1l2UWNxVDhhR00wLUVFTXF2ZGZCZm9lOUtMMUhGam1ONW5rSGF6YUhRN3g3?oc=5"
+      "title": "通膨降溫激勵美股收高！費半獨跌逾2% 台積電ADR小跌 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOHZpZnB0UmhVS3M5bUlfUjRFd1ZUdHlnSjViOFN1ZV9ZQzdEYjAxaHZjMi1DZUFQZk9BOEhQTDd0SlVsRUFzdVBtWWE4SzlIYmNGS3hIeU5Da0N1c1Qtc0h3OEtSRmp1Y05PM0NtQmJCaVg3TVZmTWpTVmNtbXhWX293?oc=5"
+    },
+    {
+      "title": "通膨降溫加財報利多美股3大指數收紅| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jUWphbDhWRXhtRGZ1Tk4zUEMzSGlmQnhBamltMV9UckVwdWluVE1yRnFjNkpHVG9yWm9nUmdTT09jbFlnWi1hZlBVZTFZZHVWR2J3QjdpUWhGNkFNRFE?oc=5"
     }
   ]
 }
