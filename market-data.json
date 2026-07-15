@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/15 07:10",
+  "updated_tw": "07/15 08:05",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -50,9 +50,9 @@
       "changePercent": 0.3597
     },
     "QQQ": {
-      "price": 719.69,
-      "change": 7.95,
-      "changePercent": 1.117
+      "price": 719.71,
+      "change": 7.97,
+      "changePercent": 1.1198
     },
     "SPY": {
       "price": 751.83,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64968.02,
-      "change": 2728.8989,
-      "changePercent": 4.3845
+      "price": 64940.96,
+      "change": 2701.8389,
+      "changePercent": 4.3411
     },
     "ETH": {
-      "price": 1885.86,
-      "change": 112.3593,
-      "changePercent": 6.3355
+      "price": 1888.9,
+      "change": 115.3993,
+      "changePercent": 6.5069
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.132,
-      "change": -0.03,
-      "changePercent": -0.0933
+      "price": 32.133,
+      "change": -0.029,
+      "changePercent": -0.0902
     },
     "JPYTWD": {
       "price": 0.1959,
@@ -94,22 +94,22 @@
       "changePercent": -1.0771
     },
     "EURTWD": {
-      "price": 36.744,
-      "change": 0.1318,
-      "changePercent": 0.36
+      "price": 36.759,
+      "change": 0.1468,
+      "changePercent": 0.4009
     },
     "CNYTWD": {
-      "price": 4.7486,
+      "price": 4.7485,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4055.3,
-    "twd": 4189.0,
-    "tael": 157102.0,
-    "twdTotal": 130305.0,
-    "changePercent": 1.4586
+    "usd": 4060.5,
+    "twd": 4195.0,
+    "tael": 157309.0,
+    "twdTotal": 130476.0,
+    "changePercent": 1.5887
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpYXl1WTZhMXFSZ2hremduWllyRUJjT1BoSVBhcXYxRGZBLV91TU93emlrOEJaNWMyOW5CQlVNWHRNYnozWllZRkc5MFFKVE5D?oc=5"
     },
     {
-      "title": "美股盤後｜地緣風險升溫，海力士重挫，四大指數收黑 0714｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQN2ROa0ZtOTJfWGxtcDhNc3YyNEFadnZpaEtoNHI0ZlI5elk4WndzWGZ2cFI0bWZLa1BtdUN5QzBHQTVNMUg0ME9WaVJMdVhUZS1RZUVFSXRuX2ZJVS1kQXBuTUZNbVFQY2pyV25EdEZLaS05cHV6eURlZUlsNUNTajV0aWs0dHVTbmJTMGFtd3BoOE80a0hpYnJZeXVNekpJSFN6RDZQX3RoSldPak9Qbm10MWNpTFFIeUpOS1d0bV9YT2hXZERRX1MzZy1oNVhBcWhhaU9yWWdES1B6UThMc1A0RFpnSFlvZFJTZkNZTWFxM1BoempqemNqckNxbHJLU2VyajhnZ2k2bjJZV1VFRk9aZlZEOTJLXy1TaTFVZWJTZERCTUJpQnZUX0tJZFQ2LUhpVEZNQ29XMExhZGI4RjVNWmpGV1V6NmdpclBJSXBDRmp2bWJnb2dtTmFYcUxxV1dIZGJyQzJSMUd3SUZudlFidDk5T21YSDRvaWFVZjZWYUk?oc=5"
+      "title": "金十數據全球財經早餐 | 2026年7月15日 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVklmNmJOWVh2MXVJdjNyLTNJX01qWVQwSmo1MWxvNHlkM3JZcEJCVDViRzRDVlUyNmZvdmxiaGtDOEp4c1NHbk5PT2FFUGZObGlSSHcxVHlPZmVyVGZMUlVrQXdxLXZFSEJ2TWxpODZYc1NtM0VTS2k4d1NtOG5rOHdqaTFaeGVTMmhLdTNSaw?oc=5"
     },
     {
-      "title": "不畏台股震盪11檔逆勢創新高- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IMExJNUNrSndqbE9xOVliVWx0ejF5ejVWZ1FPM0VhM2JwY0JTQkFQOTBrdDlzancyTHIxSXBaank3WVNFUmFlZHY5R1NhVnlFXzZEUUhGT3diSGJTMFZF?oc=5"
-    },
-    {
-      "title": "台股跌破44000點關卡！他憂「台股要掰掰了嗎」 網：不要跌一點就受不了 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPYW9kY3BDMGxOY2RXSHh6TW5LcVBJRmR0Z0xBb0FPMFlwR1hwRzVuRnFwQ2l4OWtONjlQYWVRWnVnbm96UGxzcE1xdzhXWllzUnVsc21YUS02SnZzRjlaR2dSSWltemhqX203a2FaVDg5a0IteGp3c29fQ25MazZDdkRSd0lLclRxX3lac21JMXp2dWVtVlNLU3RTSnVrU25iNzhIZUdxOXItalRuaS1TWWdOSzFtREx3dVFJbU01QmRaSzFPRm9Lb1Z6Y2hHUVd0ZWtrSDZqTldELU5BSDE3MFBhZVczd1Vtai1ZUWxMZlJiVjFQQm5pSVR5NGllS0k3azFZR0lGYjMtZU0zTXBYM1YteXpyNjM2SDZyUWpnVzdnQWVVMHZ2SnZkU3NXMVZ0VHBiemtoSElaSlpsUXIwN0JXUHhHRDhZYXliWjh5b3V0SV9VVzRJ?oc=5"
+      "title": "【美股盤前】費半慘摔5%、大空頭警告「AI見頂」？聯準會7月升息機率飆，特斯拉、甲骨文慘遭重擊！ - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxPbndoNFhOOUJhalQyanF6SExmQWpvSmRKQWZGUnBYODlERzNDVXc4VUMyTnhCQVlMUkJpODZ2dkZCclJNUi1scnQ0N3VVS2NVY0hNWmNDNVZ2aFdpTHNNOE1jWlp5MWpPOTB1dVJmOWswaVpRRjZDTS1kbGROYkVBZTZVd3NkeWZtUkRfaEhJRmlQOUU3VzFTNlpiZ0V2QzF4Wk5MWk52cS1vdzY1ZmxSWmdpVzNvRmZNdUpnWVpoSHhYMXZVOFo4dVlQcWpFbXdLZ09Kd3Bpd0hfTnlvOFN6RHAxb3BvWWZ2Q2JNZ2thdHJtbW9mSGtjUkZfTzZiSERVZEVRaGdITkR2djRkeFVLRjNRY09RdDNkSUpweHlDZjJoOFk1YjhqZm5USEtlNG1DdDBuaTJjYVd3eHo1RFB4QTgwZzl1dmVaOGYzdzM3d21Ta1hlQTYzRmxOQVpwWEJWRmpoMWxhRmt5SGVIaWV5a2VHR0UzZUxXVzBCUklIME9RSDVRdVVXYzVDd1RsM1dvMjlpTzFpZ1ZvZzhhZ25DZEN4amVsY1loMFRUOVktM19HdzZmTm9XdzZ2VkNaNWZ4YS1xQ1AzSmctc1ZITnJXOFB0WjVVb25acTFLdnBwR09kYVY4amxjdW44QU1WMjFUdS05ZGRtcGRfaTlYa1EwNGxyUzh1Sy1JWV9IWXZUU1NTYmREZS1EQVoybTJGdmNtVzFmd0hEWQ?oc=5"
     },
     {
       "title": "AI鏈多頭格局可望延續 美股ETF買氣不墜 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tUmxUU1BvNWxVbHJWbENaZERMQ0RHVDFkOGVoSGtYWENFSkVwTU5VMHZYeGdNMHFqd01MbWtVenI1YWVYUElWWlJuc2xFNGtkTkgw0gFYQVVfeXFMT290akVHUlJ3bjZYNzZ2ZVJJVVFha0lhRVZqenRvTW5nYXNWcENrN0NONEFJTWhEbG55OE1WamkzTVpnTUZpNDlUaXpkOHBvTnVLUzAwSVBlNQ?oc=5"
+    },
+    {
+      "title": "美股重點新聞摘要2026年7月15日 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56T3lMRnZNM21VX3QyRFhSVzRWSW5iRllrcE91ejd0NmJlUUJ5elZqQ3ctWnZNeWNjaXQ2aHFmYnZNTkloSFJycXdaaw?oc=5"
     }
   ]
 }
