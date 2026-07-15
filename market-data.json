@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/15 18:22",
+  "updated_tw": "07/15 19:58",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64693.86,
-      "change": -262.2533,
-      "changePercent": -0.4037
+      "price": 64682.84,
+      "change": -273.2733,
+      "changePercent": -0.4207
     },
     "ETH": {
-      "price": 1881.12,
-      "change": -8.3599,
-      "changePercent": -0.4424
+      "price": 1883.44,
+      "change": -6.0399,
+      "changePercent": -0.3197
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4037.4,
-    "twd": 4179.0,
-    "tael": 156725.0,
-    "twdTotal": 129992.0,
-    "changePercent": -0.5836
+    "usd": 4042.2,
+    "twd": 4184.0,
+    "tael": 156912.0,
+    "twdTotal": 130147.0,
+    "changePercent": -0.4654
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,10 +129,6 @@
       "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQamJHM2UyVy1BZEVwdHFSWVRwb3NyRnFTV0FWbkdSZ0d3dWV6ZDA5QVhwdFY0S3JMdTV1YVprV0JCaVljZHNOVjRURkpHNTJkR0pZaUxhTmcxWF9rb2lmVDhVenBSa0NGcFM3TGRwbGtqSENkZkMxV3pvWUZSckRMNmpHb3FvMS0yQlE4Mk5WQUNqQ2RZQW02TWg2czBTR2lzMjhhTkF1MlRaS25UclZVQ2taQ01ZN3M0QS1qZFg0dGppWEVQMHVjMFpBdHA0VU9xdHpfbENMODRYZGFUd2k1aVd6M1VtbDdDV2NHN0FLZlJRSGFIRFFWSVJQaV91VWpzR1RsQlFfTEN1NDVNQ2ZWaGJoQmkwMi03cUhqaFlYZWFPMkNWQzZ6cGNuQnNjWnZib0hFY0VWbGtLWFdJWGNvMzdrOFZkNzdvVkZ5WlVIZUFhRWUtbVNqbzk5NWE0Y2QzcS0tUDdvVGs5U2VuaF8yR1psX0JvaGZUdjBRM1hhT00?oc=5"
     },
     {
-      "title": "美股早盤／美通膨降溫...指數齊揚 費半漲3%、IBM重挫23% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpYXl1WTZhMXFSZ2hremduWllyRUJjT1BoSVBhcXYxRGZBLV91TU93emlrOEJaNWMyOW5CQlVNWHRNYnozWllZRkc5MFFKVE5D?oc=5"
-    },
-    {
       "title": "〈美股盤後〉川普撤回荷姆茲20%過路費 通膨降溫助美股收高 IBM創紀錄暴跌25% - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5heWh5aTFlYVI4T241Z2liVFVGS2NRYjNHWFoxaGg0MzFBN0F3UGd3MFVsemxEcTRDNHJoS0NJak9sOE1Ldkl3cjdiQlNDTXc?oc=5"
     },
@@ -141,12 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2h6WnNRNU1VN2tMa0pvRGpSWkRFeHhOckRGSlhGTjFDM0JnZWhVYjNyckJRMEs5RDI2aEpMNzJlekpod2xmd2U0ZExLYjUyb29oZjNVMlJzMXpiNktSV0dxQXJNWmY5ZkZmQ1hFNlNiNDF1VVZCZVpCNTVOU3VRNkRJQVJkUy1ibzRHYWN2eGRrZw?oc=5"
     },
     {
-      "title": "台股一日回血893點 權值股大軍吹反攻號電子傳產一起醒 ｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNa1dmRXYyR3ROV2ZOWDFoNzZERF8zQVVFX2tKNVl4MGZITU03Wm5tWWNCZjRDaGJfUzhmazNuYjY1MTF1TE96SzJUdTRNU3dzcDBocktTbnloal90RVMtbVBINmJJZk1DTWFFOFg3elFaNG1YZ05jOGtsdkxGVUR2YVlZeVpfYjVsSjB1YmIzdlIzY2tvaFFBcUk5aTBmdnRwX3dLUUtIZDRKV00xcUJhX29RVFQ5Ry1renNOcllTVWUzZWgxMlFNRV9zSzcyWkVFandDdTJsczNMRHl1b3JuSTVRV2RJZlB3SW1fVFpjblM4ZWNRZ2dWS2JVOTltN09XNkxLV25VeEpmb1RhZ01LRGFodFp1RFBQa0FYYy13UVNzaDZNanRpcVBFd2d5d0k3a0xnbVU3cUlBbWFYWlU5cWE1ZklmVnMwTmN6dkFBZ0QyZy16ZGlGajlwMTQ0YXg4ZkNfRHMya3lJVWZVcUNyVzdnMU8wX3d0TkI0amJaNGtHUzA1QkI0VXdQcWIxWlJkOEZvNThKejdmNDB4eXJUdnVBbG9KRFlPeVlXTVdfRVI2QmJlVkFqaw?oc=5"
+      "title": "美股早盤／美通膨降溫...指數齊揚 費半漲3%、IBM重挫23% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpYXl1WTZhMXFSZ2hremduWllyRUJjT1BoSVBhcXYxRGZBLV91TU93emlrOEJaNWMyOW5CQlVNWHRNYnozWllZRkc5MFFKVE5D?oc=5"
     },
     {
-      "title": "美股法說 GS｜高盛財報狂飆，驚人獲利點燃市場信心 (GS US)｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNRzM2cGZ3ckdxMVdLblNtaWxRZ2psVnZUbmFsYldxc0dUcmRjQk9rR0ZLMXpfbjVxeTByNkxUS3J3ckRscVljcmZGZjF0RFR5el9IZzlwTGxEdVR0c0IxUkQtWFIyR1ZLNW1oYW9zeXlpZzh3enh2eW1ScE9jNDdwckJmbXVLVndyQk9ybk5oeE9OdE1TZi04eWNaMXdMQnA0OGFqeEUtdXg1ZEhaSWJvTEVYUF8xa2lxUnNyWVE4NVcxRGQ5cVRsdkROai00SXlEZzBqcGQzYTNiX1ZlVklkU2tVOHpxX2hXSUhpaG9aWUZSUTc1Y2ZQdVF5QS0xVzFuSjJFNEo3UFRtT1pjX09FT05pd3FnYU40NnA4MGp3LXdCVk9hT1YwNHZYM2JMVzZpRWhmb0cxSWJyRHlFQTVIUk1SdW1kT0RyTHJSVUhzVHhvNlBKcV83RWo0clE0MDVSVkdaWEwtR1YtWWZNX1pZUUFYQVJkcmRlS0pSREFn?oc=5"
+      "title": "台股多空分水嶺！台積電 7/16法說開牌，法人聚焦CPO與CoPos進度 - 理財周刊",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wYjRaa3Q5Tmw2UWxLdVZpLUoxaFNZeGRzUjhjZTNYcEY0TVFxM0JsMU1GMGJOZVVoMkV1ejZodFJTcWVxWHZWSDVra3NVXzhsSzRtb0NFVnFWYWhKaWtZZ2s3SmUxR0JVX3lOZE9sRQ?oc=5"
+    },
+    {
+      "title": "電子權值股和台塑四寶強勢 台股上漲893點收45631點 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9US21IQ2RNV1BxQk9GSTBTbFE0VFJuMmh3QlhvNjZnLTF0RVJhSFJQVzJzbXdVSmNGTTBmdTFTTk9temhRZko4TFBzNUVDNW1GWlZYR0RWTE1QVHpIcGc?oc=5"
     }
   ]
 }
