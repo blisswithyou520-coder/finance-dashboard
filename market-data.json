@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/15 19:58",
+  "updated_tw": "07/15 21:58",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 211.8,
-      "change": 0.84,
-      "changePercent": 0.3982
+      "price": 211.375,
+      "change": 7.845,
+      "changePercent": 3.8545
     },
     "AAPL": {
-      "price": 314.86,
-      "change": -0.46,
-      "changePercent": -0.1459
+      "price": 320.675,
+      "change": 3.365,
+      "changePercent": 1.0605
     },
     "TSLA": {
-      "price": 396.18,
-      "change": -11.58,
-      "changePercent": -2.8399
+      "price": 398.41,
+      "change": 3.65,
+      "changePercent": 0.9246
     },
     "QQQ": {
-      "price": 719.71,
-      "change": -5.8,
-      "changePercent": -0.7994
+      "price": 720.145,
+      "change": 8.405,
+      "changePercent": 1.1809
     },
     "SPY": {
-      "price": 751.83,
-      "change": -3.12,
-      "changePercent": -0.4133
+      "price": 754.425,
+      "change": 5.255,
+      "changePercent": 0.7014
     },
     "SCHD": {
-      "price": 32.2,
-      "change": -0.2,
-      "changePercent": -0.6173
+      "price": 32.41,
+      "change": -0.15,
+      "changePercent": -0.4607
     },
     "VOO": {
-      "price": 691.1,
-      "change": -2.76,
-      "changePercent": -0.3978
+      "price": 693.51,
+      "change": 5.01,
+      "changePercent": 0.7277
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64682.84,
-      "change": -273.2733,
-      "changePercent": -0.4207
+      "price": 65029.35,
+      "change": 73.2367,
+      "changePercent": 0.1127
     },
     "ETH": {
-      "price": 1883.44,
-      "change": -6.0399,
-      "changePercent": -0.3197
+      "price": 1922.45,
+      "change": 32.9701,
+      "changePercent": 1.7449
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.197,
-      "change": 0.035,
-      "changePercent": 0.1088
+      "price": 32.17,
+      "change": 0.008,
+      "changePercent": 0.0249
     },
     "JPYTWD": {
-      "price": 0.196,
-      "change": -0.002,
-      "changePercent": -1.0266
+      "price": 0.1961,
+      "change": -0.0019,
+      "changePercent": -0.9761
     },
     "EURTWD": {
-      "price": 36.788,
-      "change": 0.1758,
-      "changePercent": 0.4801
+      "price": 36.817,
+      "change": 0.2048,
+      "changePercent": 0.5593
     },
     "CNYTWD": {
-      "price": 4.7556,
+      "price": 4.7576,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4042.2,
-    "twd": 4184.0,
-    "tael": 156912.0,
-    "twdTotal": 130147.0,
-    "changePercent": -0.4654
+    "usd": 4068.0,
+    "twd": 4207.0,
+    "tael": 157781.0,
+    "twdTotal": 130868.0,
+    "changePercent": 0.1699
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,8 +121,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pMWtTdjNURl9PZmdZbjhyWjVRMnZIb2tmU1FlZjQzbU5KUVI5dzF3UmJKam5ZVjd3MUtVMFhzdENvQ3A1cTNpT0hHWmVnNzl2LXg4MXpFNTI3YlctcUVr0gFkQVVfeXFMT0hMTmQ4dDkzMF8tMjBBWE1URzVYWno1YUo2enBtTEhMM2NqeVZxVExsSHBQcERLQXI1RUM2aU8xSmN0UWVsYURyWS1Oc0RnR1pSSXZwLTBBYkpDb3gtb2tKcUpIMA?oc=5"
     },
     {
-      "title": "美股帶頭噴！台指期夜盤強漲225點 台積電期貨卻逆勢下跌 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNRmcwS3lnUDZLa0dNRWVETkYxZlJjMS1rNHZYUFpzVmxpbk9UZlFaaUt1cFJjWEVnRnotRG84VGs4LWxCUXExaFZUWVpRbVNMWjRVb0QxMm1GMmNCS2FzUmNTQ0NEMExfYTF0cF9iRUx4NE5GNnlMZXZxb3NFT2I0SS1iZUVGdWlXemROSUhnYUpVZVRucmtPZUJGSU1GZHFmSWcxWXhsaTJoSGNLRk1McGNwYXhpc3psckJoOEdmRk1IZTFYbzdhdWFDWUV4THREQ1pSWE1NT1RIOGNOMHVGY0QtWlByUHRZQWhZMUNfQTBfVFNGdm11NG5ORlFrYjR1MGtvN0RVWURUYkZKaXc3cjJLdGRuRDZQcElvNzNWVFV6dk02T1BCeVNHMXVEX01oWkJpeFFOOG9OUTQxSjJhMmIybEhTUTJmNlZfRDBxT2g3VGxrSDVwQXpwQUQzWk9QMDRVT1VpekUzNV9kU3U5Ny11TFJHdw?oc=5"
+      "title": "台股飆！21家券商上半年都賺錢 最狂1年暴增33倍 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQb3lYZ3dqampsbGt5cG84VUNMNEZQWUp3ak9GQ0hjM0wzeklOck4xclhzVV84cHIyajZxVm5qRDFvZTVJQWVreE1BQWJzMWY0WnpWZVVRS2pPXzJMWjZlelcwa0htZm9LdWt0MHZLVlVBS3ZVVU0wSWs1WXFJT3c1N0JVaGJDdjZFekVkdGxxWHp2Q29LX2p1aThzWG5OVFhJZWJid19vellScDE0bHBoRVUteUR1Wno0cXM4dEZBMVhoZXRhYTBZU0N2R3MzUHdYVm9CUkIzN2FDNVhFLU5ReUZXSEltTUZmTFFYb2JzOC1yR1FyNFp3ZzRVS3Rfc3R2Vm5pb2FDZkllUzBOdWNkbFhYY0w2TE1XekNZdGdMT3NTTk05c2syTEdKa1JpRzAtUjJCVnFiVFBPaHpLVUc2MjVOLVZpTDlHV1AxLW94OURGLVp1bkV4NnJWZl9NZkRGSTl0ZEl2ZGx4U1RnZzNOeGdhczNzLWpEV05SbGZvd0VvNzRBV3IxS3FzNFA0MHhMbjFvMEJiSC1xb0N5eWsxMTFMMkw?oc=5"
+    },
+    {
+      "title": "不當「囤幣仔」轉戰 AI ！Empery Digital 賣掉半數比特幣、套現 8,700 萬美元 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVHlfeGxicDZzVWJNMUluQ3J5eFRtTnBmbTJXYjJDYzdwUmluaExNek1NTjlVak9BOE5POEpQZUNTU3I0NVFBWFp3SURFNFNTTHhUaWwySGI4ZHFieTd1WmFpWG1JU1BzOVdrWHZ1RXdTM3BVVHFWWGRsUjNMSkUzdlQzb1VxNkVqd3lDcVhJaFptX2Z5dTA1YzFB?oc=5"
     },
     {
       "title": "美股法說 BAC｜美國銀行獲利激增，股價盤旋歷史高點 (BAC US)｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
@@ -137,16 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2h6WnNRNU1VN2tMa0pvRGpSWkRFeHhOckRGSlhGTjFDM0JnZWhVYjNyckJRMEs5RDI2aEpMNzJlekpod2xmd2U0ZExLYjUyb29oZjNVMlJzMXpiNktSV0dxQXJNWmY5ZkZmQ1hFNlNiNDF1VVZCZVpCNTVOU3VRNkRJQVJkUy1ibzRHYWN2eGRrZw?oc=5"
     },
     {
-      "title": "美股早盤／美通膨降溫...指數齊揚 費半漲3%、IBM重挫23% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpYXl1WTZhMXFSZ2hremduWllyRUJjT1BoSVBhcXYxRGZBLV91TU93emlrOEJaNWMyOW5CQlVNWHRNYnozWllZRkc5MFFKVE5D?oc=5"
+      "title": "台股15日反彈收漲893點 力積電券商喊買 股價開盤後漲停鎖死 - 理財周刊",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQck5xRlRmNkFKenZFeW5OTm4zZVE2TWxIT1dMNjBsU1RUQlpRRXhaSmsybjhVUEhtNHJBTGF4RlBYdnVKdmVybG0wOUotN214a25WcHZqNEozcG11V3pvazE4eWVHb1Z2LXVGMnNWQQ?oc=5"
     },
     {
-      "title": "台股多空分水嶺！台積電 7/16法說開牌，法人聚焦CPO與CoPos進度 - 理財周刊",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wYjRaa3Q5Tmw2UWxLdVZpLUoxaFNZeGRzUjhjZTNYcEY0TVFxM0JsMU1GMGJOZVVoMkV1ejZodFJTcWVxWHZWSDVra3NVXzhsSzRtb0NFVnFWYWhKaWtZZ2s3SmUxR0JVX3lOZE9sRQ?oc=5"
-    },
-    {
-      "title": "電子權值股和台塑四寶強勢 台股上漲893點收45631點 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9US21IQ2RNV1BxQk9GSTBTbFE0VFJuMmh3QlhvNjZnLTF0RVJhSFJQVzJzbXdVSmNGTTBmdTFTTk9temhRZko4TFBzNUVDNW1GWlZYR0RWTE1QVHpIcGc?oc=5"
+      "title": "外資連9賣台股加碼主動型ETF 台指期淨空單低於8萬口| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96SVdnUEJ2RExVeUNWUlBlVFRrX2p0cGRKdGgtX0d1VVR0M082MGE2ZzgxQXZnOEJjM2N6LVduYzBzYy1FSGZNUmViTF9WOHNwOHNpQm9MdjdlV3QwMUE?oc=5"
     }
   ]
 }
