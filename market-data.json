@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/16 04:42",
+  "updated_tw": "07/16 05:40",
   "taiwan": {
     "2330": {
       "price": 2440.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "change": 20.0,
+      "changePercent": 0.8264
     },
     "2454": {
       "price": 3740.0,
-      "change": -85.0,
-      "changePercent": -2.2222
+      "change": 80.0,
+      "changePercent": 2.1858
     },
     "2317": {
       "price": 239.0,
-      "change": 2.5,
-      "changePercent": 1.0571
+      "change": 3.5,
+      "changePercent": 1.4862
     },
     "0050": {
       "price": 106.3,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64983.36,
-      "change": 27.2467,
-      "changePercent": 0.0419
+      "price": 64762.68,
+      "change": -193.4333,
+      "changePercent": -0.2978
     },
     "ETH": {
-      "price": 1927.01,
-      "change": 37.5301,
-      "changePercent": 1.9863
+      "price": 1920.02,
+      "change": 30.5401,
+      "changePercent": 1.6163
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.137,
-      "change": 0.0031,
-      "changePercent": 0.0096
+      "price": 32.182,
+      "change": 0.0481,
+      "changePercent": 0.1497
     },
     "JPYTWD": {
-      "price": 0.1959,
-      "change": -0.0022,
-      "changePercent": -1.124
+      "price": 0.196,
+      "change": -0.0021,
+      "changePercent": -1.0736
     },
     "EURTWD": {
-      "price": 36.883,
-      "change": 0.1745,
-      "changePercent": 0.4753
+      "price": 36.9,
+      "change": 0.1915,
+      "changePercent": 0.5216
     },
     "CNYTWD": {
-      "price": 4.7503,
+      "price": 4.7532,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4067.5,
-    "twd": 4203.0,
-    "tael": 157600.0,
-    "twdTotal": 130717.0,
-    "changePercent": 0.1576
+    "usd": 4066.9,
+    "twd": 4208.0,
+    "tael": 157797.0,
+    "twdTotal": 130881.0,
+    "changePercent": 0.1428
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pMWtTdjNURl9PZmdZbjhyWjVRMnZIb2tmU1FlZjQzbU5KUVI5dzF3UmJKam5ZVjd3MUtVMFhzdENvQ3A1cTNpT0hHWmVnNzl2LXg4MXpFNTI3YlctcUVr0gFkQVVfeXFMT0hMTmQ4dDkzMF8tMjBBWE1URzVYWno1YUo2enBtTEhMM2NqeVZxVExsSHBQcERLQXI1RUM2aU8xSmN0UWVsYURyWS1Oc0RnR1pSSXZwLTBBYkpDb3gtb2tKcUpIMA?oc=5"
     },
     {
-      "title": "美國6月 PPI 數據優於預期 台指期夜盤直線拉升翻紅 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UaHNWa3RDeVN6UnN4OWEwbWVWRHlQNzEzeURTZkdwZ1BrNkl2c0Uzcnp5QWkyb01tenlrUU85RUFFOWs3UEJFTmtNWlFtVHZIZFlhaFhsX1NpOGvSAWBBVV95cUxObjBWeXZrTFpIS0pjcTg0aWI2Z0tlN0p5MlJvMm9LTUtNZ2gtcmZPbmUxSjZzR24wVFc4TU0xYWpYWkxzSTJJT1VjWnhjTXlsbHRjYURQSm1jWTZOaU90eW4?oc=5"
+      "title": "主動式台股基金 吸金 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82bWVLWmpJNWtXR21jckxtN0FJbU1lSUNraXd6UFAxZFhkX0t4U0xGc2ZLYk5uanJvSWZWYVBJS0RxS1BrTnp0S2xHQzdxOVhXcEHSAVdBVV95cUxPNW9PamktTDdYQXdHMWFJTGNzSW9vc1FxeWQwR2tBUlhMYnc4ZDRKZVBtYVRwZVMtSFVOVENPZzhoNDc5d1M0Z2tZSmN6UjBfeWwzTG9WTnc?oc=5"
     },
     {
       "title": "〈美股早盤〉通膨降溫削弱Fed升息押注 主要指數開高、科技股領漲 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Qd3c3eEFzcG53Z0k3U1I4MzYwTjAxVWxNeWY2bnhLMWtoZk1wX1YyRGdOWXVyOTZCVURHWXdIRS14TnYzbm9FeFF5c25UT2M?oc=5"
     },
     {
-      "title": "美股開盤三大指數上漲！費半指數下挫2.32% 台積電ADR跌0.10% - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxObzBXZnVHbTdQRWFYbmhFZXdlSmg4YllLQ3c1UkpnVFNLdzhqTDF5ZkdULWQ0MVNPclFJdG4wRFFmVkFad05ySU1CdE5SVWlaaGQta2s1TFF3U1ZUZTd5ZUtqRGlXNGNJX2kzbmJFM2VUMGdmbTdYTnNIYm5ubUgzQ1dEcUh6V0lqdV93MDA2T0s0cjVvbkVFTjdVNlVJZl9oTDdrc1NWME1nbWRQaEtHcEt4YlhYcXNmVkhnU292TU5SWXJRekkzeThtY0w0b3ZiMTU0bEpHejlxTlhUN0JScVFBOU1oOUpFMWJhY3BqQ09LTXRqM2hjWFc3amF2VGlxem43MFJTQTluRHJxc0p3R0QyQjVXMmQzQmE5TjBtLUUzaVBoRDN4d1l2UWNxVDhhR00wLUVFTXF2ZGZCZm9lOUtMMUhGam1ONW5rSGF6YUhRN3g3?oc=5"
+      "title": "彼得·希夫示警美股恐迎「終極崩盤」籲立即保護財富 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQMWtvRS16NEtBNC1iY1F5bXJrSWhqdmVqMGJZM3ZmYTdvOXctN0Q0M1lSNjFRWGpXRTJmOTc1bHY4RXlCVFdfTVFIUFlqM2pwN0NnWE92LVFtQUMzd2VadEp3ODE2ZFlXY1k0VTdUcVprSU1Lb01VWmZMUWVHREkxbGRaQUNnenE2M0FVOTEzMVlDUlJKZW9heS00a3pPT0Y3NkM3dzZya2VtUEt5TEFBRXJpUG9ISW9Jc1hlSVlUSHg2M0JrUklNUGRJV01jdkF6NFZGWVRqU19iR3F6UTgtbmZWVGV6azAzSlhZbGVxM1dxcjNhWVk4UUtWSFRCYWFLQWQyWDRldE9UcmhLQzhSOGpuNm4tOTBpV2hqWHRIdUVhWTJvd1VhNUpuWFU1a3hVV0R1NmtxTzl5dXdBUEtUS1lmaDRUcnRTLWpqNTlMcjJuWkRVM0xzaFNhVQ?oc=5"
     }
   ]
 }
