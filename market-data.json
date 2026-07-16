@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/17 03:08",
+  "updated_tw": "07/17 04:11",
   "taiwan": {
     "2330": {
       "price": 2470.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 207.08,
-      "change": -5.42,
-      "changePercent": -2.5506
+      "price": 207.4,
+      "change": -5.1,
+      "changePercent": -2.4
     },
     "AAPL": {
-      "price": 334.26,
-      "change": 6.76,
-      "changePercent": 2.0641
+      "price": 333.26,
+      "change": 5.76,
+      "changePercent": 1.7588
     },
     "TSLA": {
-      "price": 390.215,
-      "change": -4.245,
-      "changePercent": -1.0762
+      "price": 391.06,
+      "change": -3.4,
+      "changePercent": -0.8619
     },
     "QQQ": {
-      "price": 705.27,
-      "change": -12.47,
-      "changePercent": -1.7374
+      "price": 705.94,
+      "change": -11.8,
+      "changePercent": -1.644
     },
     "SPY": {
-      "price": 749.96,
-      "change": -4.85,
-      "changePercent": -0.6425
+      "price": 750.77,
+      "change": -4.04,
+      "changePercent": -0.5352
     },
     "SCHD": {
-      "price": 32.973,
-      "change": 0.633,
-      "changePercent": 1.9573
+      "price": 33.04,
+      "change": 0.7,
+      "changePercent": 2.1645
     },
     "VOO": {
-      "price": 689.34,
-      "change": -4.46,
-      "changePercent": -0.6428
+      "price": 690.1,
+      "change": -3.7,
+      "changePercent": -0.5333
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64197.48,
-      "change": -514.895,
-      "changePercent": -0.7957
+      "price": 64158.91,
+      "change": -553.465,
+      "changePercent": -0.8553
     },
     "ETH": {
-      "price": 1873.29,
-      "change": -43.6537,
-      "changePercent": -2.2773
+      "price": 1872.11,
+      "change": -44.8337,
+      "changePercent": -2.3388
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.241,
-      "change": 0.1071,
-      "changePercent": 0.3333
+      "price": 32.26,
+      "change": 0.0491,
+      "changePercent": 0.1524
     },
     "JPYTWD": {
-      "price": 0.1964,
-      "change": -0.0017,
-      "changePercent": -0.8717
+      "price": 0.1965,
+      "change": -0.0022,
+      "changePercent": -1.1266
     },
     "EURTWD": {
-      "price": 36.935,
-      "change": 0.2265,
-      "changePercent": 0.617
+      "price": 36.954,
+      "change": 0.0022,
+      "changePercent": 0.0059
     },
     "CNYTWD": {
-      "price": 4.7655,
+      "price": 4.7702,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3984.2,
-    "twd": 4130.0,
-    "tael": 154872.0,
-    "twdTotal": 128455.0,
-    "changePercent": -1.4787
+    "usd": 3982.8,
+    "twd": 4131.0,
+    "tael": 154908.0,
+    "twdTotal": 128485.0,
+    "changePercent": -1.5134
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tUU1LM0trS0c2WFF1ZXlvZGFkdDdUbmZRYThXcmZEbE5SMl9FVlI4TFB1Q1huSm5KOXlxcURGVWRmNzNkMG1hUGprVXNZUEF5VXpwR2lJa1VEWTVvZXJR?oc=5"
     },
     {
-      "title": "〈美股早盤〉台積電財報利多失靈！晶片股續挫拖累 主要指數開低 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6SERveVUwc0trUWZjeDRxZjVNLUx2MFhUeXp4ZU1JREpJczRlU3ptQzVSdVRmY2hMSEJUSjBaX0FaYVNjU3pBN1hsQkJPS0E?oc=5"
+      "title": "散戶不再是韭菜！高盛：美股價格開始由他們決定 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41UWt3ZGw0eDZYLWFrbEo4RmxQY1E1dUdVX1l1NDNpaVlGM0VlYWxNMXM1b3pJZ3ZOdUExc0cyVkJwTTFLbEJESTJISTdGNnM?oc=5"
     },
     {
       "title": "投資翻身夢碎！20多歲男聽明牌買股慘賠 持刀襲擊財經YouTuber - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOc1k4ZDdIcmlieWNqcmluM2tQT0VxaS1kVDMzNGd5MVFHNjdiRHljU2FZNHpnMnVSUlZTSlNyazhSLTBqQlMtcG1rOGNpd0VlRlNfM19jbjA3WDc2MU16YW1FYi13OFIwcklBaGlXZm5Fa3VRRUlhSG1oWGVsVmxOODE0Q0plSDBzTHpTeTdCdkJmM3BHM0ItZ2VqanZlYWZ6MDBXR1h4ZllLbnducDVXdDNCbmRYWW50SmxTdEl4S3dneDExQlQ3N0dQM3drQzg3THpxZWEzNjR3Q3hzT01WU0ZOdVNTdTZCVVA4TGRqd09FZXV4aTFfSFQtcnV5THJaM2N4NXZncDBEZHk3cU5xUmR0ZTJQLVEyQV9Pamx0Snl0ZmdZTF9uWWZBblozRXM4VjlEUEhPUTdBQWJMbEh0SjlsdGhSdWF2dG0yYVBoYkhVTGd0aVY1alpfUjlFOEp2LWJpNTFnUnpTbS05YUtrRDNyTQ?oc=5"
     },
     {
+      "title": "美股表面安穩 「VIXEQ指數卻狂飆」！美銀：恐重演2000年大崩盤 - 三立新聞",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iYUpmRnd5QzNnZ0xLS2UtaHBPZmVXT0pzOUY2d0w0SEhWSml2RFdjcDNHZ0hmMnB4M0JmLUkxZ0VyYXlkQnVKcWlIVQ?oc=5"
+    },
+    {
       "title": "美股法說ASML｜艾司摩爾財測上調、毛利率穩健、供應鏈帆宣與家登迎利多(ASML US)｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQcjAyMTZBTFNHQkx5eDc4SzZESE9SMlRzUDBBTGJFTG9tOGNjTjJQdFVnWnJXQXJlMWhhZFhVS0lwcVBKblVZc0x3ZGRWM3M5LWpqV003MUhjRUhJeDAwSTZpTEZlSzZ0dGhoTkU1RFUzNGdLVUJveFY1QTR6clA0aUtSVWdNaG5nVGpaQ3g2ZXVfOTFVdVlFS0hYNmpnb1RyNmk2TGFoSjBscUF5cXIyeDBkTzVHai10SXJpVlhzSGdMT083N2l3cWZPWUk5MFZ6bkhEV1lpbGJ3dndBaXkyUVhDOTFrQ0xNOW93NzVxVVlWNmg5cEtNV2Q3alpjODhxeFFZeDlGLTZGZHNZZm1wT2J1ZTRoR1UwbjVCSExwY0F3bjB1T3hJMW1JM1ZacVhPU2RwOWFMeGplUUhyeTZieWQ5aEdoYk0xbXd2a3F5WDl1U1YtNWdNVzExN0ZLQ280TTFXSm1kc3k1Q1FzcWdiejFBYnE5WHJ6WlNOWGhYV2toX1JvVWlxSlA0Z19ETV9UcFJmLTVNaHprMElUS0FXMVEtaVBhQVpSa2Y4WkVDb1BySnJFdkhuVlJpY1BJV29PeVFsblZkOHhNbkFKNExIT1VfeFQ5VTNhcGRUYk9mZ05qaDZK?oc=5"
     },
     {
-      "title": "企業巨頭趁跌狂囤比特幣！社群：中本聰 16 年前「神預言」應驗 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNFdwN0V3dFduQlNzZXhwRk1hSUpnNXEzLUdnVEx3YXdLaXhnNnZtdjdBaUNaSWJ5Sm5lcVh3a3QtSEJ2RW9oeDYyS3pnMFpCc1RDX3hWMGd3YW5SNnJ0RS1zTWdReGRxbnluUmdoTm9pb0F5M1lBdU1yVnVoV3hHcHd3NE5iS25obW11OFM2NUY3ZTNra3RPM0l1b1JYVzl5aW8yRHhoMlI?oc=5"
+      "title": "全台最大民營線上基金交易平台 - 鉅亨買基金",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTnRTR0djTXdjc1lBRGdadElLVjlJRERLejE3SHhzWGtOdzlfS3pHSFQ0TFV1bHhJbGdsOFFyQ0oybVc4X1YycGdhTVY1V0Mtc0JXeFAwVVRuTFBnTEs4SUYtTGRqTFM4REszSUJYRFlpRDhOOU5BYVE1QlJqUWdIbTU2WERkem1DVEUwdlNQUVpPTG9uZVNJRzR3?oc=5"
     },
     {
       "title": "【美股盤前急殺】AI需求還在燒，美光為何先跌5%？ - CMoney投資網誌",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1RiV2Z5Y2ZieHBMU2lLOUF4ZFBHdWYwT2lnR1BpSm9hYWcxSlVhTFJzNFVMNFEyZnVPRHl1NWJfV1FJMFh3VXRIdF9Edl9rekdSaGlScEpJUmUtZzRiRWhwZlk3cjNmdzd1b1JLU0tQSTBpZHdQVHc2Zms1dVh3dnc4TWx2YW5tNnAxNHZ3?oc=5"
-    },
-    {
-      "title": "全台最大民營線上基金交易平台 - 鉅亨買基金",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTnRTR0djTXdjc1lBRGdadElLVjlJRERLejE3SHhzWGtOdzlfS3pHSFQ0TFV1bHhJbGdsOFFyQ0oybVc4X1YycGdhTVY1V0Mtc0JXeFAwVVRuTFBnTEs4SUYtTGRqTFM4REszSUJYRFlpRDhOOU5BYVE1QlJqUWdIbTU2WERkem1DVEUwdlNQUVpPTG9uZVNJRzR3?oc=5"
     }
   ]
 }
