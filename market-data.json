@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/16 12:25",
+  "updated_tw": "07/16 14:42",
   "taiwan": {
     "2330": {
-      "price": 2465.0,
-      "change": 25.0,
-      "changePercent": 1.0246
+      "price": 2470.0,
+      "change": 30.0,
+      "changePercent": 1.2295
     },
     "2454": {
-      "price": 3730.0,
-      "change": -10.0,
-      "changePercent": -0.2674
+      "price": 3700.0,
+      "change": -40.0,
+      "changePercent": -1.0695
     },
     "2317": {
-      "price": 243.0,
-      "change": 4.0,
-      "changePercent": 1.6736
+      "price": 242.5,
+      "change": 3.5,
+      "changePercent": 1.4644
     },
     "0050": {
-      "price": 106.7,
-      "change": 2.3,
-      "changePercent": 2.2031
+      "price": 106.4,
+      "change": 0.1,
+      "changePercent": 0.0941
     },
     "00878": {
-      "price": 33.0,
-      "change": 0.28,
-      "changePercent": 0.8557
+      "price": 32.95,
+      "change": -0.26,
+      "changePercent": -0.7829
     },
     "00919": {
-      "price": 29.58,
-      "change": 0.16,
-      "changePercent": 0.5438
+      "price": 29.55,
+      "change": -0.22,
+      "changePercent": -0.739
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64540.63,
-      "change": -415.4833,
-      "changePercent": -0.6396
+      "price": 64665.99,
+      "change": -46.385,
+      "changePercent": -0.0717
     },
     "ETH": {
-      "price": 1915.32,
-      "change": 25.8401,
-      "changePercent": 1.3676
+      "price": 1917.74,
+      "change": 0.7963,
+      "changePercent": 0.0415
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.154,
-      "change": 0.0201,
-      "changePercent": 0.0626
+      "price": 32.215,
+      "change": 0.0811,
+      "changePercent": 0.2524
     },
     "JPYTWD": {
-      "price": 0.196,
-      "change": -0.0021,
-      "changePercent": -1.0736
+      "price": 0.1964,
+      "change": -0.0017,
+      "changePercent": -0.8717
     },
     "EURTWD": {
-      "price": 36.887,
-      "change": 0.1785,
-      "changePercent": 0.4862
+      "price": 36.969,
+      "change": 0.2605,
+      "changePercent": 0.7096
     },
     "CNYTWD": {
-      "price": 4.7565,
+      "price": 4.765,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4040.7,
-    "twd": 4177.0,
-    "tael": 156644.0,
-    "twdTotal": 129925.0,
-    "changePercent": -0.0816
+    "usd": 4035.2,
+    "twd": 4179.0,
+    "tael": 156728.0,
+    "twdTotal": 129994.0,
+    "changePercent": -0.2176
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,24 @@
   },
   "news": [
     {
+      "title": "美股收盤》道瓊漲150點、費半跌逾2％！台積電ADR收黑 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YN1IzSjFXOVdHZm5uMEgyQXVGMmN2NXFFekNBZndWOFRkSWNVTTF1cXNhZllWZjlxV2pFclVvUTJWbW5Dc0E0dVVvREw4RkNneDJTdDdfOFB2S0ExcWNJ0gFkQVVfeXFMTmZHbGdJeHdFbTc5aXVGWUVyTWVON3pFY0ZiSG1feFhTejlPdHZma3BuZjJyeXMzU3hlZUxCNFVyM0hHNjNlRUNDVWVDRlFjaXVRa3Q1TGRkdWdxZGlXRWlpSWZFYw?oc=5"
+    },
+    {
       "title": "美股恐迎大跌？美銀警告市場浮現2000年泡沫警訊 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sT01TN1RUWjlScHh3b0x3VjBPeTBXLXFZazZxeU9GZ3k0VW9Fa1dzVmU3dXZYNmpkYlozM0dwMjBWSHc3dGtOVVp2SmoxREE?oc=5"
     },
     {
-      "title": "美記憶體股又大跌！ 阮慕驊驚呼「活久見」：反常必迎大轉折 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNcWNPcmszVEhsaGFQNmJQWUNsNFBPdjJvN19WbjEtRTg5M2VuRXNSc0ZzcXF4YXN5UGkyWHg4ZzVnQk9zWFZpMEhwTUhwR3ctLUctS1FNek9HYWdickl2eVFLRHo0THE3SUtHYUNuSy1ZbEJhZ3IwZ2V1ZUxOdjIwbWtWd3NUNHIzM0Vyd0doYVBlVEt1aEFlamVfQzY4dmlfcTFHRHJmeGFCY2JOcjZrOWRkYnhPd2JEWkxHc0JYOU1wVUF5M2F3MlcxeTRKSm5jZHVkRXZFNVpUWW1NVzdBYTlPelY3VTFSREljUllsS2plVzVNS3NscmlLQXFwLXkwSjI3cWJBVWhlSl9PNV9pRy1ldUprNXhSOEhwckcwQmJKWDRSa3gwQ1NNYmVDN2pEc2ZiRng0bDcyOGZQZndhVnMwWDZqVTZyZXd0NENJZERVdzFzZDRXZXJ2YmJDaFQ3bWVYT3U2MEEyUm9hNzBMTFNvVQ?oc=5"
-    },
-    {
       "title": "美股盤後｜通膨擔憂減緩，然資金輪動，四大指數、AI軟硬體漲跌互見0716｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNSkI3eXlYcWNOMHBfSkJyUWxlQ1hsekw5alhxel9fZTdqTWVoUlVWaFgtOEZEaW92dzUxVklLUmphX2VNQzdpUWRfU2lxUkR1dWpxLTZPOXNDTlFQQWticzJ0ZVpkOWhKbHBiSGVub1lGWVpWc1I2aF9fZnVERmJTSWFlYy1BVWhCOTlHOXpCNnhyRzFRR2RxT2YyQ1F4d3MyNS1iYk5kNWdzNHpac2F5NGFLX0JNbWhfVVJKYnotOWFGWDdySFZ5Vy01SmNqZWRZdldPOE1pTmhDWGxIb0dmS2ZnRzRKeUowMkVsOTBYY3ZFQ2RTVlV6QzVXZzNkYXhpaTAwQVNDU3RYSnZEUTNnZjdrSFpvaEpIM09obHZVYV9adVRmOGhVbWN3el9qRHZtMXBWQUFydFB6UldVT0NfRUE1cjY5am5HOHFDQThMbm5KUGI5ZEplQURONkFnUl9nRFUzajk4NlRKUmh3VEgwbFh0WUt3c2xXdmkzUjRlYjNpcjFvcHJLc1hrV0o5SHpvOXBsT2wzYjhpRFFPNE1VVWZ4N0lUbHJlY0dkNFp3TFBSdWxxeXZrVmtEMDk4aGFqY04w?oc=5"
+    },
+    {
+      "title": "富達計劃“殺回”黃金市場：預測黃金明年重返牛市！ - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMG13QzBoQXpndmdqdUFJTl82dE5aOE5RN3JVQXk2U1R4eDNxVFcwNjBkNEV4a3R4blVpMktyLXdXdWhQVkQxX01kQVJyRDN4eXc2TGNfSm4yUWMyVDdOcXBabmhjTzAtOW9mNjFCM2lJcFNoRXRFLWhpV0t2TWM1eWtPX2ZEWS03aEQ1aEtzUQ?oc=5"
+    },
+    {
+      "title": "美記憶體股又大跌！ 阮慕驊驚呼「活久見」：反常必迎大轉折 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNcWNPcmszVEhsaGFQNmJQWUNsNFBPdjJvN19WbjEtRTg5M2VuRXNSc0ZzcXF4YXN5UGkyWHg4ZzVnQk9zWFZpMEhwTUhwR3ctLUctS1FNek9HYWdickl2eVFLRHo0THE3SUtHYUNuSy1ZbEJhZ3IwZ2V1ZUxOdjIwbWtWd3NUNHIzM0Vyd0doYVBlVEt1aEFlamVfQzY4dmlfcTFHRHJmeGFCY2JOcjZrOWRkYnhPd2JEWkxHc0JYOU1wVUF5M2F3MlcxeTRKSm5jZHVkRXZFNVpUWW1NVzdBYTlPelY3VTFSREljUllsS2plVzVNS3NscmlLQXFwLXkwSjI3cWJBVWhlSl9PNV9pRy1ldUprNXhSOEhwckcwQmJKWDRSa3gwQ1NNYmVDN2pEc2ZiRng0bDcyOGZQZndhVnMwWDZqVTZyZXd0NENJZERVdzFzZDRXZXJ2YmJDaFQ3bWVYT3U2MEEyUm9hNzBMTFNvVQ?oc=5"
     },
     {
       "title": "美股3大指數上揚費半下挫台股聚焦台積電法說會| 證券 - 中央社 CNA",
@@ -139,14 +147,6 @@
     {
       "title": "快訊／川普政策突轉彎！美股開盤4大指數暫漲 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPQ0lYOTNPa1YzNWVSRWgweWxZXy1ZTTItUnFHWTVlZG9zd25nXzhDd1hVQlJxeFNTdTl0SkJxOU80aHVpUldkdGJpV2tTR1kwWFJra3lWQ21URnNta05vQWx5SzRkSXBEU19fMzVHWHZnay1ZU180ZkVyWG5PUDFSTV9YWHJGNlAtODBwVHNXeVp5c2RQcU5XLUdqcGI3aXFtSjZYR0xkbGxIQTZ0Sk96OHdUSmdkZG5oMzRlMVltRVE3RzRPTGF5SEViVng0VGRxb1FCaU9wenBtOXpoOUdMZmlJWGpXWGsyRkhLVGhvT3BXUWlKRTZSc291Q1M4aUZQcXF5ZFFqdmszLXd5OGdoQXVBM1dvTEprQVYtcU8zZjhHaThSTmdZTzd3WFJpMk0?oc=5"
-    },
-    {
-      "title": "美股法說ASML｜艾司摩爾財測上調、毛利率穩健、供應鏈帆宣與家登迎利多(ASML US)｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQcjAyMTZBTFNHQkx5eDc4SzZESE9SMlRzUDBBTGJFTG9tOGNjTjJQdFVnWnJXQXJlMWhhZFhVS0lwcVBKblVZc0x3ZGRWM3M5LWpqV003MUhjRUhJeDAwSTZpTEZlSzZ0dGhoTkU1RFUzNGdLVUJveFY1QTR6clA0aUtSVWdNaG5nVGpaQ3g2ZXVfOTFVdVlFS0hYNmpnb1RyNmk2TGFoSjBscUF5cXIyeDBkTzVHai10SXJpVlhzSGdMT083N2l3cWZPWUk5MFZ6bkhEV1lpbGJ3dndBaXkyUVhDOTFrQ0xNOW93NzVxVVlWNmg5cEtNV2Q3alpjODhxeFFZeDlGLTZGZHNZZm1wT2J1ZTRoR1UwbjVCSExwY0F3bjB1T3hJMW1JM1ZacVhPU2RwOWFMeGplUUhyeTZieWQ5aEdoYk0xbXd2a3F5WDl1U1YtNWdNVzExN0ZLQ280TTFXSm1kc3k1Q1FzcWdiejFBYnE5WHJ6WlNOWGhYV2toX1JvVWlxSlA0Z19ETV9UcFJmLTVNaHprMElUS0FXMVEtaVBhQVpSa2Y4WkVDb1BySnJFdkhuVlJpY1BJV29PeVFsblZkOHhNbkFKNExIT1VfeFQ5VTNhcGRUYk9mZ05qaDZK?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉通膨降溫標普連二紅 費半跌逾2% 美光、SK海力士ADR崩超8% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IY3dCb1pYY0YwWlBzQzlnb1QxV2YyYWZPVF9RN1hxN1JQSnNLYVJBNXFkSUpOajlHdGs4VjFmS3N0bUNwcE13RW1RSjUyNEE?oc=5"
     }
   ]
 }
