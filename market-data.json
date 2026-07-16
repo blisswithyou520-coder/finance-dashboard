@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/17 06:28",
+  "updated_tw": "07/17 07:28",
   "taiwan": {
     "2330": {
       "price": 2470.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63976.86,
-      "change": -735.515,
-      "changePercent": -1.1366
+      "price": 63768.88,
+      "change": -943.495,
+      "changePercent": -1.458
     },
     "ETH": {
-      "price": 1873.05,
-      "change": -43.8937,
-      "changePercent": -2.2898
+      "price": 1860.44,
+      "change": -56.5037,
+      "changePercent": -2.9476
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.266,
-      "change": 0.0551,
-      "changePercent": 0.1711
+      "price": 32.24,
+      "change": 0.0291,
+      "changePercent": 0.0903
     },
     "JPYTWD": {
-      "price": 0.1965,
-      "change": -0.0022,
-      "changePercent": -1.1266
+      "price": 0.1964,
+      "change": -0.0023,
+      "changePercent": -1.1769
     },
     "EURTWD": {
-      "price": 36.967,
-      "change": 0.0152,
-      "changePercent": 0.0411
+      "price": 36.935,
+      "change": -0.0168,
+      "changePercent": -0.0455
     },
     "CNYTWD": {
-      "price": 4.7677,
+      "price": 4.7663,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3979.1,
+    "usd": 3982.4,
     "twd": 4128.0,
-    "tael": 154793.0,
-    "twdTotal": 128390.0,
-    "changePercent": -1.6048
+    "tael": 154797.0,
+    "twdTotal": 128393.0,
+    "changePercent": -1.5232
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "美股早盤／布蘭特油價破85美元 晶片股回檔、費半摔2% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsX1dtN29IN3RJUTJIMjlac3RZcEF3ZXNOVDNJZWxzTVpwTGs2WWdiYmhmbVZWNEFiaUFoeS1IcHJHbmN0TFY5dHctbF9kYllH?oc=5"
-    },
-    {
       "title": "〈美股盤後〉費半重挫超4% 台積電ADR跌逾2% SK海力士ADR慘崩超13% - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YRWtOWEhZMjhGOWJyZ2VIbW1pS3FyQzNWZ0E5UFNpeDNQZHZiN2hMX2xlaWVRZVBQOE1IYkU3aFpDaEpkSl9QQ0hYdUFOQm8?oc=5"
+    },
+    {
+      "title": "美股早盤／布蘭特油價破85美元 晶片股回檔、費半摔2% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsX1dtN29IN3RJUTJIMjlac3RZcEF3ZXNOVDNJZWxzTVpwTGs2WWdiYmhmbVZWNEFiaUFoeS1IcHJHbmN0TFY5dHctbF9kYllH?oc=5"
     },
     {
       "title": "2026年Q2比特幣陷盤整 與美元反向走勢明顯、未跟上美股反彈 - Yahoo股市",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTnRTR0djTXdjc1lBRGdadElLVjlJRERLejE3SHhzWGtOdzlfS3pHSFQ0TFV1bHhJbGdsOFFyQ0oybVc4X1YycGdhTVY1V0Mtc0JXeFAwVVRuTFBnTEs4SUYtTGRqTFM4REszSUJYRFlpRDhOOU5BYVE1QlJqUWdIbTU2WERkem1DVEUwdlNQUVpPTG9uZVNJRzR3?oc=5"
     },
     {
-      "title": "【美股盤前急殺】AI需求還在燒，美光為何先跌5%？ - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1RiV2Z5Y2ZieHBMU2lLOUF4ZFBHdWYwT2lnR1BpSm9hYWcxSlVhTFJzNFVMNFEyZnVPRHl1NWJfV1FJMFh3VXRIdF9Edl9rekdSaGlScEpJUmUtZzRiRWhwZlk3cjNmdzd1b1JLU0tQSTBpZHdQVHc2Zms1dVh3dnc4TWx2YW5tNnAxNHZ3?oc=5"
+      "title": "美汽油價格回檔、6月零售銷售符合預期美股期指仍跌| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xbDB3UzllNWZXbWlHYTd2a1hTWFg5R2dxajN1ZVFhWGVaZXBSVi1PQjRiSlZValk2R2FZQnVnLXM1WmNuVjZBMGJ3NXJIWUNW?oc=5"
     }
   ]
 }
