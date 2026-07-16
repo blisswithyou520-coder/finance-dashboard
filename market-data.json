@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/17 05:17",
+  "updated_tw": "07/17 06:28",
   "taiwan": {
     "2330": {
       "price": 2470.0,
-      "change": 50.0,
-      "changePercent": 2.0661
+      "change": 30.0,
+      "changePercent": 1.2295
     },
     "2454": {
       "price": 3700.0,
-      "change": 40.0,
-      "changePercent": 1.0929
+      "change": -40.0,
+      "changePercent": -1.0695
     },
     "2317": {
       "price": 242.5,
-      "change": 7.0,
-      "changePercent": 2.9724
+      "change": 3.5,
+      "changePercent": 1.4644
     },
     "0050": {
       "price": 106.4,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64139.58,
-      "change": -572.795,
-      "changePercent": -0.8851
+      "price": 63976.86,
+      "change": -735.515,
+      "changePercent": -1.1366
     },
     "ETH": {
-      "price": 1875.06,
-      "change": -41.8837,
-      "changePercent": -2.1849
+      "price": 1873.05,
+      "change": -43.8937,
+      "changePercent": -2.2898
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.247,
-      "change": 0.0361,
-      "changePercent": 0.1121
+      "price": 32.266,
+      "change": 0.0551,
+      "changePercent": 0.1711
     },
     "JPYTWD": {
-      "price": 0.1964,
-      "change": -0.0023,
-      "changePercent": -1.1769
+      "price": 0.1965,
+      "change": -0.0022,
+      "changePercent": -1.1266
     },
     "EURTWD": {
-      "price": 36.947,
-      "change": -0.0048,
-      "changePercent": -0.013
+      "price": 36.967,
+      "change": 0.0152,
+      "changePercent": 0.0411
     },
     "CNYTWD": {
-      "price": 4.7683,
+      "price": 4.7677,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3979.9,
-    "twd": 4126.0,
-    "tael": 154733.0,
-    "twdTotal": 128340.0,
-    "changePercent": -1.5851
+    "usd": 3979.1,
+    "twd": 4128.0,
+    "tael": 154793.0,
+    "twdTotal": 128390.0,
+    "changePercent": -1.6048
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,16 +121,16 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsX1dtN29IN3RJUTJIMjlac3RZcEF3ZXNOVDNJZWxzTVpwTGs2WWdiYmhmbVZWNEFiaUFoeS1IcHJHbmN0TFY5dHctbF9kYllH?oc=5"
     },
     {
+      "title": "〈美股盤後〉費半重挫超4% 台積電ADR跌逾2% SK海力士ADR慘崩超13% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YRWtOWEhZMjhGOWJyZ2VIbW1pS3FyQzNWZ0E5UFNpeDNQZHZiN2hMX2xlaWVRZVBQOE1IYkU3aFpDaEpkSl9QQ0hYdUFOQm8?oc=5"
+    },
+    {
       "title": "2026年Q2比特幣陷盤整 與美元反向走勢明顯、未跟上美股反彈 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNTU9YZkhscTd1c2hueTNrNmtEQS1yTjhidlpQMHNTT0ZtVXdDUFZZbEJGMzdxZ3huSkNLMGN6Y0Z2QTJ5UUtEMTNUUWlCNkdCOTkzN3Njamk5OVM5Y2kyS29iT1N4dTNtVG4yRHhzaWx4NnY2U2hIU1R3ajh3TUpWRkdBelp1WElOSktybVlDOFZwTUVIODA5dVJuUkVkRE1kOWlnZkNVYndjeXdpY25SdkZPVWJIWFMwbThKVmdhTUxvWlNnbWloRE9XSmQyMkVpTG9mdjA2S2d0YXlpa2VVOFBuZU1zNUZaXzJkaDFoWXBWaWphSHM3Z1pBdnFmaERIMmpXYXJaWS1rRTctNnNVUl9WMmdQSF9TeWFUT3JyNTA3ZHJLUGtpZFBZSDdZMnZfdGNzX21ULUxmSDhBUVJDWFdzdjJ5TWNhNEpFaE5mWTBzUmRvRXpnSWNCdkRfQTViYkMzZVF5ejhJR2cxaEIzRHZNVlBYWlk4cnc?oc=5"
     },
     {
       "title": "台積電財報利多不漲晶片股重挫拖累美股開低- 國際 - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tUU1LM0trS0c2WFF1ZXlvZGFkdDdUbmZRYThXcmZEbE5SMl9FVlI4TFB1Q1huSm5KOXlxcURGVWRmNzNkMG1hUGprVXNZUEF5VXpwR2lJa1VEWTVvZXJR?oc=5"
-    },
-    {
-      "title": "散戶不再是韭菜！高盛：美股價格開始由他們決定 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41UWt3ZGw0eDZYLWFrbEo4RmxQY1E1dUdVX1l1NDNpaVlGM0VlYWxNMXM1b3pJZ3ZOdUExc0cyVkJwTTFLbEJESTJISTdGNnM?oc=5"
     },
     {
       "title": "美股表面安穩 「VIXEQ指數卻狂飆」！美銀：恐重演2000年大崩盤 - 三立新聞",
