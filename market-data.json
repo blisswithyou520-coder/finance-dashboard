@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/17 04:11",
+  "updated_tw": "07/17 05:17",
   "taiwan": {
     "2330": {
       "price": 2470.0,
@@ -55,9 +55,9 @@
       "changePercent": -1.644
     },
     "SPY": {
-      "price": 750.77,
-      "change": -4.04,
-      "changePercent": -0.5352
+      "price": 750.72,
+      "change": -4.09,
+      "changePercent": -0.5419
     },
     "SCHD": {
       "price": 33.04,
@@ -65,51 +65,51 @@
       "changePercent": 2.1645
     },
     "VOO": {
-      "price": 690.1,
-      "change": -3.7,
-      "changePercent": -0.5333
+      "price": 690.14,
+      "change": -3.66,
+      "changePercent": -0.5275
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64158.91,
-      "change": -553.465,
-      "changePercent": -0.8553
+      "price": 64139.58,
+      "change": -572.795,
+      "changePercent": -0.8851
     },
     "ETH": {
-      "price": 1872.11,
-      "change": -44.8337,
-      "changePercent": -2.3388
+      "price": 1875.06,
+      "change": -41.8837,
+      "changePercent": -2.1849
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.26,
-      "change": 0.0491,
-      "changePercent": 0.1524
+      "price": 32.247,
+      "change": 0.0361,
+      "changePercent": 0.1121
     },
     "JPYTWD": {
-      "price": 0.1965,
-      "change": -0.0022,
-      "changePercent": -1.1266
+      "price": 0.1964,
+      "change": -0.0023,
+      "changePercent": -1.1769
     },
     "EURTWD": {
-      "price": 36.954,
-      "change": 0.0022,
-      "changePercent": 0.0059
+      "price": 36.947,
+      "change": -0.0048,
+      "changePercent": -0.013
     },
     "CNYTWD": {
-      "price": 4.7702,
+      "price": 4.7683,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3982.8,
-    "twd": 4131.0,
-    "tael": 154908.0,
-    "twdTotal": 128485.0,
-    "changePercent": -1.5134
+    "usd": 3979.9,
+    "twd": 4126.0,
+    "tael": 154733.0,
+    "twdTotal": 128340.0,
+    "changePercent": -1.5851
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,6 +121,10 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsX1dtN29IN3RJUTJIMjlac3RZcEF3ZXNOVDNJZWxzTVpwTGs2WWdiYmhmbVZWNEFiaUFoeS1IcHJHbmN0TFY5dHctbF9kYllH?oc=5"
     },
     {
+      "title": "2026年Q2比特幣陷盤整 與美元反向走勢明顯、未跟上美股反彈 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNTU9YZkhscTd1c2hueTNrNmtEQS1yTjhidlpQMHNTT0ZtVXdDUFZZbEJGMzdxZ3huSkNLMGN6Y0Z2QTJ5UUtEMTNUUWlCNkdCOTkzN3Njamk5OVM5Y2kyS29iT1N4dTNtVG4yRHhzaWx4NnY2U2hIU1R3ajh3TUpWRkdBelp1WElOSktybVlDOFZwTUVIODA5dVJuUkVkRE1kOWlnZkNVYndjeXdpY25SdkZPVWJIWFMwbThKVmdhTUxvWlNnbWloRE9XSmQyMkVpTG9mdjA2S2d0YXlpa2VVOFBuZU1zNUZaXzJkaDFoWXBWaWphSHM3Z1pBdnFmaERIMmpXYXJaWS1rRTctNnNVUl9WMmdQSF9TeWFUT3JyNTA3ZHJLUGtpZFBZSDdZMnZfdGNzX21ULUxmSDhBUVJDWFdzdjJ5TWNhNEpFaE5mWTBzUmRvRXpnSWNCdkRfQTViYkMzZVF5ejhJR2cxaEIzRHZNVlBYWlk4cnc?oc=5"
+    },
+    {
       "title": "台積電財報利多不漲晶片股重挫拖累美股開低- 國際 - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tUU1LM0trS0c2WFF1ZXlvZGFkdDdUbmZRYThXcmZEbE5SMl9FVlI4TFB1Q1huSm5KOXlxcURGVWRmNzNkMG1hUGprVXNZUEF5VXpwR2lJa1VEWTVvZXJR?oc=5"
     },
@@ -129,16 +133,12 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41UWt3ZGw0eDZYLWFrbEo4RmxQY1E1dUdVX1l1NDNpaVlGM0VlYWxNMXM1b3pJZ3ZOdUExc0cyVkJwTTFLbEJESTJISTdGNnM?oc=5"
     },
     {
-      "title": "投資翻身夢碎！20多歲男聽明牌買股慘賠 持刀襲擊財經YouTuber - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOc1k4ZDdIcmlieWNqcmluM2tQT0VxaS1kVDMzNGd5MVFHNjdiRHljU2FZNHpnMnVSUlZTSlNyazhSLTBqQlMtcG1rOGNpd0VlRlNfM19jbjA3WDc2MU16YW1FYi13OFIwcklBaGlXZm5Fa3VRRUlhSG1oWGVsVmxOODE0Q0plSDBzTHpTeTdCdkJmM3BHM0ItZ2VqanZlYWZ6MDBXR1h4ZllLbnducDVXdDNCbmRYWW50SmxTdEl4S3dneDExQlQ3N0dQM3drQzg3THpxZWEzNjR3Q3hzT01WU0ZOdVNTdTZCVVA4TGRqd09FZXV4aTFfSFQtcnV5THJaM2N4NXZncDBEZHk3cU5xUmR0ZTJQLVEyQV9Pamx0Snl0ZmdZTF9uWWZBblozRXM4VjlEUEhPUTdBQWJMbEh0SjlsdGhSdWF2dG0yYVBoYkhVTGd0aVY1alpfUjlFOEp2LWJpNTFnUnpTbS05YUtrRDNyTQ?oc=5"
-    },
-    {
       "title": "美股表面安穩 「VIXEQ指數卻狂飆」！美銀：恐重演2000年大崩盤 - 三立新聞",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iYUpmRnd5QzNnZ0xLS2UtaHBPZmVXT0pzOUY2d0w0SEhWSml2RFdjcDNHZ0hmMnB4M0JmLUkxZ0VyYXlkQnVKcWlIVQ?oc=5"
     },
     {
-      "title": "美股法說ASML｜艾司摩爾財測上調、毛利率穩健、供應鏈帆宣與家登迎利多(ASML US)｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQcjAyMTZBTFNHQkx5eDc4SzZESE9SMlRzUDBBTGJFTG9tOGNjTjJQdFVnWnJXQXJlMWhhZFhVS0lwcVBKblVZc0x3ZGRWM3M5LWpqV003MUhjRUhJeDAwSTZpTEZlSzZ0dGhoTkU1RFUzNGdLVUJveFY1QTR6clA0aUtSVWdNaG5nVGpaQ3g2ZXVfOTFVdVlFS0hYNmpnb1RyNmk2TGFoSjBscUF5cXIyeDBkTzVHai10SXJpVlhzSGdMT083N2l3cWZPWUk5MFZ6bkhEV1lpbGJ3dndBaXkyUVhDOTFrQ0xNOW93NzVxVVlWNmg5cEtNV2Q3alpjODhxeFFZeDlGLTZGZHNZZm1wT2J1ZTRoR1UwbjVCSExwY0F3bjB1T3hJMW1JM1ZacVhPU2RwOWFMeGplUUhyeTZieWQ5aEdoYk0xbXd2a3F5WDl1U1YtNWdNVzExN0ZLQ280TTFXSm1kc3k1Q1FzcWdiejFBYnE5WHJ6WlNOWGhYV2toX1JvVWlxSlA0Z19ETV9UcFJmLTVNaHprMElUS0FXMVEtaVBhQVpSa2Y4WkVDb1BySnJFdkhuVlJpY1BJV29PeVFsblZkOHhNbkFKNExIT1VfeFQ5VTNhcGRUYk9mZ05qaDZK?oc=5"
+      "title": "美股法說 IBM｜IBM提前認錯股價崩跌25%，記憶體缺貨打亂企業支出，台廠相關類股與後續觀察 (IBM US) - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxPTGNLb1JwWTVUck9oZ04yZExuc3VOM0dmNHg5R1lMUkZDX3Qzc0s5QjNITmxhcWNPRXdWOG9wMVRNY095Z2JMSnlOQUE4Yi1sV1dxQkY2UGdWVHhLamRUd0RlOEdJbHlJZzM0dlpJYWdtMnV4V2NySjFFb2ZzdzJaaEZhbkkzeEYzNDZaSVR2SGVUUk4tV3N6V0ZXcGE4aFRIemhNTDdPQlgzc0tyTGhpMFRGeEMtOURVQ1A1cE5iVlhqSjdCRUdKUWN2RzMyX1JZaTc1aWJYS0c0WUFrbkFUU0lLdzJOT1FKV21yYmdNZnFKS25ySmdwMVh2bEl4SVFYYlA3dnAzclZKTElKY2hOVFBPTl9XUWlKTmpYR3p5VE9Wb2F5VXBwNExTV25Obks1emhaMzZrdTh0Zzg4dUprRk5OckJPWmg5b0xiOV9uYmF3ZUpkNWlwMWVwMkp1TWFueU5ORl9mRUJmMjVyNWxabGxqVVJDY1NRZFVfSTB0WmFBd0lRMzlub0tPWVZxbmRXM2ROMFRodW5neFNzdW13YnBibHVIdm4tZEhsOE1KMnByTVhEZmdGenFqbVd2Sm1mQ19RMnpTd2hEQU9iMWg5QXZqOFVRdFhOR0w0alhmbWJIS2E4bTNRRXZJZWV3Q1BsMkdwYmlMVmw5VXdmWVlZN3B3ZTR4ajlERFlKVnktTkhrTWJqRmNvYUVZa2FKanJEUVJxRG5kQ2N1cUhVSUloV0tB?oc=5"
     },
     {
       "title": "全台最大民營線上基金交易平台 - 鉅亨買基金",
