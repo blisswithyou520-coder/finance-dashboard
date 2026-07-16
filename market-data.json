@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/16 17:04",
+  "updated_tw": "07/16 19:12",
   "taiwan": {
     "2330": {
       "price": 2470.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64104.48,
-      "change": -607.895,
-      "changePercent": -0.9394
+      "price": 64119.89,
+      "change": -592.485,
+      "changePercent": -0.9156
     },
     "ETH": {
-      "price": 1887.48,
-      "change": -29.4637,
-      "changePercent": -1.537
+      "price": 1885.59,
+      "change": -31.3537,
+      "changePercent": -1.6356
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.192,
-      "change": 0.0581,
-      "changePercent": 0.1808
+      "price": 32.21,
+      "change": 0.0761,
+      "changePercent": 0.2368
     },
     "JPYTWD": {
-      "price": 0.1963,
-      "change": -0.0018,
-      "changePercent": -0.9221
+      "price": 0.1965,
+      "change": -0.0016,
+      "changePercent": -0.8212
     },
     "EURTWD": {
-      "price": 36.954,
-      "change": 0.2455,
-      "changePercent": 0.6687
+      "price": 36.963,
+      "change": 0.2545,
+      "changePercent": 0.6933
     },
     "CNYTWD": {
-      "price": 4.7641,
+      "price": 4.767,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4039.9,
-    "twd": 4181.0,
-    "tael": 156798.0,
-    "twdTotal": 130052.0,
-    "changePercent": -0.1014
+    "usd": 4035.0,
+    "twd": 4179.0,
+    "tael": 156696.0,
+    "twdTotal": 129967.0,
+    "changePercent": -0.2226
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,20 +117,12 @@
   },
   "news": [
     {
-      "title": "投資翻身夢碎！20多歲男聽明牌買股慘賠 持刀襲擊財經YouTuber - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOc1k4ZDdIcmlieWNqcmluM2tQT0VxaS1kVDMzNGd5MVFHNjdiRHljU2FZNHpnMnVSUlZTSlNyazhSLTBqQlMtcG1rOGNpd0VlRlNfM19jbjA3WDc2MU16YW1FYi13OFIwcklBaGlXZm5Fa3VRRUlhSG1oWGVsVmxOODE0Q0plSDBzTHpTeTdCdkJmM3BHM0ItZ2VqanZlYWZ6MDBXR1h4ZllLbnducDVXdDNCbmRYWW50SmxTdEl4S3dneDExQlQ3N0dQM3drQzg3THpxZWEzNjR3Q3hzT01WU0ZOdVNTdTZCVVA4TGRqd09FZXV4aTFfSFQtcnV5THJaM2N4NXZncDBEZHk3cU5xUmR0ZTJQLVEyQV9Pamx0Snl0ZmdZTF9uWWZBblozRXM4VjlEUEhPUTdBQWJMbEh0SjlsdGhSdWF2dG0yYVBoYkhVTGd0aVY1alpfUjlFOEp2LWJpNTFnUnpTbS05YUtrRDNyTQ?oc=5"
-    },
-    {
-      "title": "黃金脫離低點迎關鍵時刻！專家曝「分水嶺價位」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wQXA2bDY5ekNxYmNDOFZyUTZiSm4xTE9VU1NEc252bWN1cUxZakN0eDlmNEUyb0hpcGY2SVFUdGVDei13YzMxaTlsSnVzdkRpZ0JZM1B6NUo3N3lIQ1Vn0gFkQVVfeXFMUDZoR1JPM3hfaEktYUhQRS1RRE1UblN5ZzhEUWxfR0lPSndtTW9POE1fR2ZFcmhGVmlIc2U1V0RMR1BIYUxoWWlnQThjdV9kMVcxU3ZxTjUtLXdaS1VXSG1rSzhoZQ?oc=5"
-    },
-    {
-      "title": "快訊／台積電Q2創高市場竟不領情！　美股夜盤急摔2% - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yOVBrZmpEdEFoSjFRNHpZSEFoOGsyblBXaHVGcjdPZTFvZ2JLa3ZUZWJtamNDNGdTcllvSENibHVtRUZSbTVNdmxscV81a1lLOEHSAW5BVV95cUxNdTh2d1JkVU5fQlozWW51RTlSN0NvUWRzVkY3ODlhRHg4T3hoSk4xcjI3Q24tMWFSUHpZZjRxR3dhcE5TdG13VWZhYnctSEo1UXd3OXdhdTdfeHZ6LWxaaW1UTGRLRHRqYlFDZHFiQQ?oc=5"
-    },
-    {
       "title": "美股恐迎大跌？美銀警告市場浮現2000年泡沫警訊 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sT01TN1RUWjlScHh3b0x3VjBPeTBXLXFZazZxeU9GZ3k0VW9Fa1dzVmU3dXZYNmpkYlozM0dwMjBWSHc3dGtOVVp2SmoxREE?oc=5"
+    },
+    {
+      "title": "大盤甩尾只跌6點千家個股倒成一片 台積電揪台塑集團合演救市秀｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOSWFqS3E4NkVRNTFkcVRWQ0w0cXJtSmc0Wi1vYW4xQjNUOTAxdUdvNnR6QnY4czJxaVRKaF9MV0xIbnF1V2RxenJ2NDl2enYxQTFaaDAxQl8wRjlIeGFJWWJrQmZkTk83azUwWmZFVW01T1V1c0VWWFhNWlk4Q09Cc0FYOEVVOTFXeFpha293MkdTTEhkUFp4aC1rNGhfcEUxUjdGN2pvTjB0NGZNNmxBRW9mbW9WTHBTV1EwSklWaG9RSTA5VlpBNjFyTFF0SVFZYTdzSlF5WUNvaldtRkp6bld0TFcxNnlzbUU1NHF3TXdhbjZMQlJ5bWdkRFJhSnVfd2JxTy1IZ1RCbndmaElsVDRPXzVvUDFxT1gta3Z5bG5kU0VpaXRZSkpzdmx2R0trVk5GY0lMeVFPWDByQkVBNjFnYTl3WUNhNmd1WjVqdzlxS08wOVE4Q01rZ2ptTWsxcU5SeHRmZTFjS0c4Tk10LWxleVVwZlp5NV84WWpzcG5zNFY5QnAzajR6Y2JCb1FlcXdsTXI3STdldmZvNXFkVnh0RFFrUWx6RVJFV0R2Vm12TlpfendkZElJZEVORVZiSjdiejJ0T2s2d0liZW1NLThVVVZOVkhseG1XQVRjWEoxN2t5UHdGOVI3c2J5UXRQ?oc=5"
     },
     {
       "title": "富達計劃“殺回”黃金市場：預測黃金明年重返牛市！ - capitalfutures.com.tw",
@@ -141,8 +133,16 @@
       "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNSkI3eXlYcWNOMHBfSkJyUWxlQ1hsekw5alhxel9fZTdqTWVoUlVWaFgtOEZEaW92dzUxVklLUmphX2VNQzdpUWRfU2lxUkR1dWpxLTZPOXNDTlFQQWticzJ0ZVpkOWhKbHBiSGVub1lGWVpWc1I2aF9fZnVERmJTSWFlYy1BVWhCOTlHOXpCNnhyRzFRR2RxT2YyQ1F4d3MyNS1iYk5kNWdzNHpac2F5NGFLX0JNbWhfVVJKYnotOWFGWDdySFZ5Vy01SmNqZWRZdldPOE1pTmhDWGxIb0dmS2ZnRzRKeUowMkVsOTBYY3ZFQ2RTVlV6QzVXZzNkYXhpaTAwQVNDU3RYSnZEUTNnZjdrSFpvaEpIM09obHZVYV9adVRmOGhVbWN3el9qRHZtMXBWQUFydFB6UldVT0NfRUE1cjY5am5HOHFDQThMbm5KUGI5ZEplQURONkFnUl9nRFUzajk4NlRKUmh3VEgwbFh0WUt3c2xXdmkzUjRlYjNpcjFvcHJLc1hrV0o5SHpvOXBsT2wzYjhpRFFPNE1VVWZ4N0lUbHJlY0dkNFp3TFBSdWxxeXZrVmtEMDk4aGFqY04w?oc=5"
     },
     {
-      "title": "台股暫守45000點 盤中跌勢收斂下跌約200點 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sdVZYNDlTNGZJdF9lT3czRmNENW9vVlRNaEpNUGNQRVFaR1dCY1BlZ2N3Zjhwb3puRldGZnl5RHB0cVpkU3FndTJaTGR0NGk5Qm12cE44bE9XSU5fZlE?oc=5"
+      "title": "《台股盤後》台積翻紅撐盤 小跌6點/45K失而復得 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVl82T0xZRXRoc0JCTzFLaTk1b3ZrS3Q0S3BwUFBvSTB0N0t4Qi1DMmpBcVVvcklUa2ZxTXItTEgwdzFnMldsUWs4M1dlYUNtOWc4VmxQQUM3ZjVGel9HMmpSUEY0c2diVE80ajFUWEwzenpiQzVxY0QwWmc4NFlZUXNCWXZJdjMwMmd3QWg0N1lXZw?oc=5"
+    },
+    {
+      "title": "雙重賣壓！長、短線持有者同步拋售，比特幣「反彈續航力」受考驗 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWhTejkzZDVzdzZNN09iQTNmMi1vaFF1R2N3eTFOeDQxSzNOWWxjSm9MLTNfQ1otX1hmYkxHdXlWZTk3eXFrMXp4dWlGSjBURkRGckQ0d01yQmZQYm9QQy0yTUhzbU0zcWM3S1o2ODZpZ1dhWjRDN0htbGxsV0dfV092S2gxREVm?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉川普撤回荷姆茲20%過路費 通膨降溫助美股收高 IBM創紀錄暴跌25% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5heWh5aTFlYVI4T241Z2liVFVGS2NRYjNHWFoxaGg0MzFBN0F3UGd3MFVsemxEcTRDNHJoS0NJak9sOE1Ldkl3cjdiQlNDTXc?oc=5"
     },
     {
       "title": "SK海力士美股溢價創紀錄 AI需求狂飆推升記憶體晶片龍頭價值 - Yahoo股市",
