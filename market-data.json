@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/17 01:51",
+  "updated_tw": "07/17 03:08",
   "taiwan": {
     "2330": {
       "price": 2470.0,
@@ -35,85 +35,118 @@
   },
   "us": {
     "NVDA": {
-      "price": 206.65,
-      "change": -5.85,
-      "changePercent": -2.7529
+      "price": 207.08,
+      "change": -5.42,
+      "changePercent": -2.5506
     },
     "AAPL": {
-      "price": 332.075,
-      "change": 4.575,
-      "changePercent": 1.3969
+      "price": 334.26,
+      "change": 6.76,
+      "changePercent": 2.0641
     },
     "TSLA": {
-      "price": 389.04,
-      "change": -5.42,
-      "changePercent": -1.374
+      "price": 390.215,
+      "change": -4.245,
+      "changePercent": -1.0762
     },
     "QQQ": {
-      "price": 706.773,
-      "change": -10.967,
-      "changePercent": -1.528
+      "price": 705.27,
+      "change": -12.47,
+      "changePercent": -1.7374
     },
     "SPY": {
-      "price": 751.61,
-      "change": -3.2,
-      "changePercent": -0.4239
+      "price": 749.96,
+      "change": -4.85,
+      "changePercent": -0.6425
     },
     "SCHD": {
-      "price": 33.005,
-      "change": 0.665,
-      "changePercent": 2.0563
+      "price": 32.973,
+      "change": 0.633,
+      "changePercent": 1.9573
     },
     "VOO": {
-      "price": 690.865,
-      "change": -2.935,
-      "changePercent": -0.423
+      "price": 689.34,
+      "change": -4.46,
+      "changePercent": -0.6428
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64033.77,
-      "change": -678.605,
-      "changePercent": -1.0486
+      "price": 64197.48,
+      "change": -514.895,
+      "changePercent": -0.7957
     },
     "ETH": {
-      "price": 1866.38,
-      "change": -50.5637,
-      "changePercent": -2.6377
+      "price": 1873.29,
+      "change": -43.6537,
+      "changePercent": -2.2773
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.251,
-      "change": 0.1171,
-      "changePercent": 0.3644
+      "price": 32.241,
+      "change": 0.1071,
+      "changePercent": 0.3333
     },
     "JPYTWD": {
-      "price": 0.1963,
-      "change": -0.0018,
-      "changePercent": -0.9221
+      "price": 0.1964,
+      "change": -0.0017,
+      "changePercent": -0.8717
     },
     "EURTWD": {
-      "price": 36.925,
-      "change": 0.2165,
-      "changePercent": 0.5897
+      "price": 36.935,
+      "change": 0.2265,
+      "changePercent": 0.617
     },
     "CNYTWD": {
-      "price": 4.7666,
+      "price": 4.7655,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3986.1,
-    "twd": 4133.0,
-    "tael": 154994.0,
-    "twdTotal": 128556.0,
-    "changePercent": -1.4318
+    "usd": 3984.2,
+    "twd": 4130.0,
+    "tael": 154872.0,
+    "twdTotal": 128455.0,
+    "changePercent": -1.4787
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "美股早盤／布蘭特油價破85美元 晶片股回檔、費半摔2% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsX1dtN29IN3RJUTJIMjlac3RZcEF3ZXNOVDNJZWxzTVpwTGs2WWdiYmhmbVZWNEFiaUFoeS1IcHJHbmN0TFY5dHctbF9kYllH?oc=5"
+    },
+    {
+      "title": "台積電財報利多不漲晶片股重挫拖累美股開低- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tUU1LM0trS0c2WFF1ZXlvZGFkdDdUbmZRYThXcmZEbE5SMl9FVlI4TFB1Q1huSm5KOXlxcURGVWRmNzNkMG1hUGprVXNZUEF5VXpwR2lJa1VEWTVvZXJR?oc=5"
+    },
+    {
+      "title": "〈美股早盤〉台積電財報利多失靈！晶片股續挫拖累 主要指數開低 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6SERveVUwc0trUWZjeDRxZjVNLUx2MFhUeXp4ZU1JREpJczRlU3ptQzVSdVRmY2hMSEJUSjBaX0FaYVNjU3pBN1hsQkJPS0E?oc=5"
+    },
+    {
+      "title": "投資翻身夢碎！20多歲男聽明牌買股慘賠 持刀襲擊財經YouTuber - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOc1k4ZDdIcmlieWNqcmluM2tQT0VxaS1kVDMzNGd5MVFHNjdiRHljU2FZNHpnMnVSUlZTSlNyazhSLTBqQlMtcG1rOGNpd0VlRlNfM19jbjA3WDc2MU16YW1FYi13OFIwcklBaGlXZm5Fa3VRRUlhSG1oWGVsVmxOODE0Q0plSDBzTHpTeTdCdkJmM3BHM0ItZ2VqanZlYWZ6MDBXR1h4ZllLbnducDVXdDNCbmRYWW50SmxTdEl4S3dneDExQlQ3N0dQM3drQzg3THpxZWEzNjR3Q3hzT01WU0ZOdVNTdTZCVVA4TGRqd09FZXV4aTFfSFQtcnV5THJaM2N4NXZncDBEZHk3cU5xUmR0ZTJQLVEyQV9Pamx0Snl0ZmdZTF9uWWZBblozRXM4VjlEUEhPUTdBQWJMbEh0SjlsdGhSdWF2dG0yYVBoYkhVTGd0aVY1alpfUjlFOEp2LWJpNTFnUnpTbS05YUtrRDNyTQ?oc=5"
+    },
+    {
+      "title": "美股法說ASML｜艾司摩爾財測上調、毛利率穩健、供應鏈帆宣與家登迎利多(ASML US)｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQcjAyMTZBTFNHQkx5eDc4SzZESE9SMlRzUDBBTGJFTG9tOGNjTjJQdFVnWnJXQXJlMWhhZFhVS0lwcVBKblVZc0x3ZGRWM3M5LWpqV003MUhjRUhJeDAwSTZpTEZlSzZ0dGhoTkU1RFUzNGdLVUJveFY1QTR6clA0aUtSVWdNaG5nVGpaQ3g2ZXVfOTFVdVlFS0hYNmpnb1RyNmk2TGFoSjBscUF5cXIyeDBkTzVHai10SXJpVlhzSGdMT083N2l3cWZPWUk5MFZ6bkhEV1lpbGJ3dndBaXkyUVhDOTFrQ0xNOW93NzVxVVlWNmg5cEtNV2Q3alpjODhxeFFZeDlGLTZGZHNZZm1wT2J1ZTRoR1UwbjVCSExwY0F3bjB1T3hJMW1JM1ZacVhPU2RwOWFMeGplUUhyeTZieWQ5aEdoYk0xbXd2a3F5WDl1U1YtNWdNVzExN0ZLQ280TTFXSm1kc3k1Q1FzcWdiejFBYnE5WHJ6WlNOWGhYV2toX1JvVWlxSlA0Z19ETV9UcFJmLTVNaHprMElUS0FXMVEtaVBhQVpSa2Y4WkVDb1BySnJFdkhuVlJpY1BJV29PeVFsblZkOHhNbkFKNExIT1VfeFQ5VTNhcGRUYk9mZ05qaDZK?oc=5"
+    },
+    {
+      "title": "企業巨頭趁跌狂囤比特幣！社群：中本聰 16 年前「神預言」應驗 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNFdwN0V3dFduQlNzZXhwRk1hSUpnNXEzLUdnVEx3YXdLaXhnNnZtdjdBaUNaSWJ5Sm5lcVh3a3QtSEJ2RW9oeDYyS3pnMFpCc1RDX3hWMGd3YW5SNnJ0RS1zTWdReGRxbnluUmdoTm9pb0F5M1lBdU1yVnVoV3hHcHd3NE5iS25obW11OFM2NUY3ZTNra3RPM0l1b1JYVzl5aW8yRHhoMlI?oc=5"
+    },
+    {
+      "title": "【美股盤前急殺】AI需求還在燒，美光為何先跌5%？ - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1RiV2Z5Y2ZieHBMU2lLOUF4ZFBHdWYwT2lnR1BpSm9hYWcxSlVhTFJzNFVMNFEyZnVPRHl1NWJfV1FJMFh3VXRIdF9Edl9rekdSaGlScEpJUmUtZzRiRWhwZlk3cjNmdzd1b1JLU0tQSTBpZHdQVHc2Zms1dVh3dnc4TWx2YW5tNnAxNHZ3?oc=5"
+    },
+    {
+      "title": "全台最大民營線上基金交易平台 - 鉅亨買基金",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTnRTR0djTXdjc1lBRGdadElLVjlJRERLejE3SHhzWGtOdzlfS3pHSFQ0TFV1bHhJbGdsOFFyQ0oybVc4X1YycGdhTVY1V0Mtc0JXeFAwVVRuTFBnTEs4SUYtTGRqTFM4REszSUJYRFlpRDhOOU5BYVE1QlJqUWdIbTU2WERkem1DVEUwdlNQUVpPTG9uZVNJRzR3?oc=5"
+    }
+  ]
 }
