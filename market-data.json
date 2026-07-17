@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/17 14:37",
+  "updated_tw": "07/17 16:57",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62878.57,
-      "change": -910.7113,
-      "changePercent": -1.4277
+      "price": 62854.39,
+      "change": -934.8913,
+      "changePercent": -1.4656
     },
     "ETH": {
-      "price": 1833.28,
-      "change": -29.9134,
-      "changePercent": -1.6055
+      "price": 1830.25,
+      "change": -32.9434,
+      "changePercent": -1.7681
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.37,
-      "change": 0.1591,
-      "changePercent": 0.4939
+      "price": 32.364,
+      "change": 0.1531,
+      "changePercent": 0.4753
     },
     "JPYTWD": {
-      "price": 0.1972,
-      "change": -0.0015,
-      "changePercent": -0.7744
+      "price": 0.1971,
+      "change": -0.0016,
+      "changePercent": -0.8247
     },
     "EURTWD": {
-      "price": 37.114,
-      "change": 0.1622,
-      "changePercent": 0.4389
+      "price": 37.074,
+      "change": 0.1222,
+      "changePercent": 0.3307
     },
     "CNYTWD": {
-      "price": 4.7871,
+      "price": 4.7812,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4007.0,
-    "twd": 4170.0,
-    "tael": 156381.0,
-    "twdTotal": 129707.0,
-    "changePercent": 0.5369
+    "usd": 3999.3,
+    "twd": 4161.0,
+    "tael": 156052.0,
+    "twdTotal": 129433.0,
+    "changePercent": 0.3437
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,8 +117,12 @@
   },
   "news": [
     {
-      "title": "美股盤中震盪亞洲市場暗藏危機 分析師示警衰退風險 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOTmVjVnJDV0N2N2J4TUlUNFRjY0pveFNYT0dVTEVkY1o3UmdFNG0zM0FYcC1XeXN2cGdWWUU2cWhPQ3UzX0E1TzZqT19fOVBQVXp4TjRnZlBhMkVwcnYzdzZXaEE4b21GZXNyRFVlQXRPM0x6VW1Ob1p4cS01OHNUSjB0RXQ1X0ZhcTBBSUc1Wng4S05yV0Rpbm1OckdaYUliMTlTdjBoSXZlWGRmT2xNNUdscXQzeVJYYTVfM2hFZWVFVVBBSnFzSUp2OW9oV1VKdUJlU2JVWkF5WjFEOUJpMmh0UkZDQmNqR2FScWpSUEowQXMxNFVIQkQxTnBKbWtNdUNGbFVQZkRMZGZYSmRNWTBlMTU1bFdTSXRJTkZudnhXQ0dLeEVyWS1JNF8wN194T0VlV2xHNTlYbm1OOEx5UlpRQTR4bnRCRC1BZEREYjBuWWEtT2pjMEFKQWFrRTV2bzZjUnRCdTUtbWVDU0E4VQ?oc=5"
+      "title": "台積電、ASML財報亮眼，為何費半指數反而下跌？｜美股評析｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPcjVzYXpPWllDdFlhejVCOFhRUFJYV2s0TGg4eXNmUE9wdkk0Ykh6cHJsdGhUU2EwSkVwanB2aHlZTkN0TGNNV3lPeUtTSC1HOVhkQmhLMFAweXZxTzB4WmdNd1diQXRDdWhkaW5nZ3BSbFpHc3dENDB6WGtLLVpYRjZIeEhsdjg0NVVVVWVQUGZtU085QVhaWGk1ejFyOVBlQTdUUUZaZHNXQmhkRkRvdDEwcUo5YWk5MTVDSUJCTmd6d1JkeDZ5Rm1yRFh5ejJIb3ZJSklIdGhwemhWS05LR196dVNiSmpxWmJFX2t5Qm1kTktTT2p1d3dXbUxnNFdwcjRibDRvMTZacm1lUHJOcTZoLVEwc3VUR2pWTGliQ0VVUnlQdllHTERqWlpFV0g2OEM4ZlNiSE1MTWFDeGQ4VHRORk50VFN6RjR0R0x6em5TczgybUJySDR0anZOYWdWc18tNWVONXNaYmZpV0I2NEpmNWhBOG5rTlRRMlh6X3YtSWc?oc=5"
+    },
+    {
+      "title": "美股半導體股重挫，中東緊張局勢恐危及全球能源供應 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQa2xmR01EdVBBVHZ2dVRmRXoycXhFZElBLVA0eDV1SnF6SDRJc1Y5eERqUFR3MjBIaVI3Y1hDQ0Yydnl4WkM2SmdQS2owc09jd2JvVnNkM0JOM1EyOU5MSjJPMjNaSm1wQndXcG5wYWxjaXVNcG9QdXpJOW0tUmZDNTBHM3lRN2F5YnpDR1g1dWxGTzA2eFJKLVZXODdNWUpWNW9LX0xodXl1dDZKM2dOcHloUzA0S1RVUVQ3WHdCbzhmaWk5TVN5ME9HaGYwMHJDRkxFQVJkOWFEeldQVDl4dk95bU9HSHNqa0dwM2FOTVZtc0EtckJoeEZnMzZubzZyejQySlhzZVdtM3ZUT3Y1dVVraGkyanJ1SGVqZEFoRGdtOE50LVE1eVZkZUx6dFc2NDFIUmZ5c19jSGY4OEJIU09LNmxFVURDTmlyTVdCQnZSYVN1NTVHNlM5RUJRcXQyNDZOaWNldUYyTjZPbTBDag?oc=5"
     },
     {
       "title": "黃金慘跌！該逃還是加碼 德銀最新預測曝光 - 自由財經",
@@ -129,12 +133,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51YjJwdEh3R3VPci1QRFdnUUVXYzRPc0o4YmF0OW00WUkyRFIyUG1JSEhRMVpsRDA5eVhObWRoc2xhc0hqRm94enJwdkwzOXlu?oc=5"
     },
     {
-      "title": "〈貴金屬盤後〉美伊緊張強化升息押注 黃金再度跌回4000美元以下 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XbHJGdjE3VHhZbVVfZ1lxYkg3OWl6YlhzRzhSNVdNejJ1aUI4MEFqelN0bVg5MHNXbVdjbDJUajhqQnJHTnRvX3dnYi1TZWc?oc=5"
-    },
-    {
-      "title": "美股盤後｜台積電資本支出上修誘發AI獲利疑慮，費半重挫逾4.0% 0717｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPQXprc2J6ay1Ja3NyT0hnV0ZQcVdBQ3dMVmx3U0o5Zk83dDRUajR2ZGI5emRjMHdQcDRYLXhQaHZab3NxN21nekxGLXRtanFFZEx0ejBMNTlHN1o5VEtYb3JQNUhQR2ZQVkJzM1JkMDFEenZOdUZrVkNJa1VaXzJoLUIydURUdXR0Y2xsNFF4VEZyeTZxd1dMVXhCX0lxaEMtSDlSajQ5VFhWZldOTDJvVnZvVlVsSkRsQllQWGp4UGhTSFpJZW5DLWZLckJnTmo2YzFjdlVKTUk0Z09GdW9KSkpQVV9ZVDVfOXBqYmZoUzFJWEtmbHViWEhySTFGa2t4QkdwOWF6LTNkWkFFTjdZQ3NqUjFsczZJQWpVeVhkckZIR3NpM3QtWTRoVVF0UWhDVi1MazZXWkNfU0dqX1JjdUJFTUpwOC1ibWEtSFA5UEJOTU5kanp2Tkw1b0t1bS1MUnBxSkY2T3RkM1ZUa2ZBUGQwdDFQZGY3YUF2VUNuZlBxampIM09mbjVQTzFUTlhZZVNkQm5SMGpVOFUxY2pQYUVWODJub25kZThjQi13?oc=5"
+      "title": "〈美股盤後〉費半重挫超4% 台積電ADR跌逾2% SK海力士ADR慘崩超13% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YRWtOWEhZMjhGOWJyZ2VIbW1pS3FyQzNWZ0E5UFNpeDNQZHZiN2hMX2xlaWVRZVBQOE1IYkU3aFpDaEpkSl9QQ0hYdUFOQm8?oc=5"
     },
     {
       "title": "美股全面收低「費半暴跌逾4％」！台指期夜盤挫跌976點 - Yahoo股市",
