@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/18 00:46",
+  "updated_tw": "07/18 02:04",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -35,51 +35,51 @@
   },
   "us": {
     "NVDA": {
-      "price": 205.326,
-      "change": -2.074,
-      "changePercent": -1.0
+      "price": 204.38,
+      "change": -3.02,
+      "changePercent": -1.4561
     },
     "AAPL": {
-      "price": 331.87,
-      "change": -1.39,
-      "changePercent": -0.4171
+      "price": 332.025,
+      "change": -1.235,
+      "changePercent": -0.3706
     },
     "TSLA": {
-      "price": 384.16,
-      "change": -6.9,
-      "changePercent": -1.7644
+      "price": 382.325,
+      "change": -8.735,
+      "changePercent": -2.2337
     },
     "QQQ": {
-      "price": 700.44,
-      "change": -5.5,
-      "changePercent": -0.7791
+      "price": 698.82,
+      "change": -7.12,
+      "changePercent": -1.0086
     },
     "SPY": {
-      "price": 746.32,
-      "change": -4.4,
-      "changePercent": -0.5861
+      "price": 744.63,
+      "change": -6.09,
+      "changePercent": -0.8112
     },
     "SCHD": {
-      "price": 32.945,
-      "change": -0.095,
-      "changePercent": -0.2875
+      "price": 32.835,
+      "change": -0.205,
+      "changePercent": -0.6205
     },
     "VOO": {
-      "price": 685.96,
-      "change": -4.18,
-      "changePercent": -0.6057
+      "price": 684.48,
+      "change": -5.66,
+      "changePercent": -0.8201
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63480.66,
-      "change": -308.6212,
-      "changePercent": -0.4838
+      "price": 63987.71,
+      "change": 198.4287,
+      "changePercent": 0.3111
     },
     "ETH": {
-      "price": 1835.42,
-      "change": -27.7734,
-      "changePercent": -1.4906
+      "price": 1841.53,
+      "change": -21.6634,
+      "changePercent": -1.1627
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4020.0,
-    "twd": 4184.0,
-    "tael": 156908.0,
-    "twdTotal": 130143.0,
-    "changePercent": 0.8631
+    "usd": 4014.1,
+    "twd": 4178.0,
+    "tael": 156678.0,
+    "twdTotal": 129952.0,
+    "changePercent": 0.7151
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPRUl2TkhmeWpiaW9RNDVpSnFUNHRjcmNsNXIwVnRwMEI4SUljMzNPV1BzNk5wd3B4TVAyN1hkRTM3dUxJWHhpSHpiYnU0eFU0eEFuejFUZm9wcVRLT0h3R0pzZ1BMdzlJaDhnX0xGekZsdGo0RmVMNXQzQ1kwdmdfU2c1REQyWFFXNmhUSExzbGpzWmhaMG9oeXJxWS1pT1R2U0RibkVSdnNDay02eXJ4TG43YjBOY3RMNlFyc0xhTUIzeGttZjFtdmJycWRqa0k3THBGUXFSc3FIdFNwS0Y0OEh3NGQtTlVfQzhwb0xBaVFRaDduX2U0ZzI3cTROY2pyVjczQ1lTM1JOLWJyUFJibW1KX01OVWZfUkNzaVlwMEl5SFNObmhoc3BlTUs4WlNKWUlzcllaNE9zaEN0ZzlDSXpjUEt1a2FEUEtuMTJEcVZDUnhZTGtKalpnREEzTEc4VnNYSUdtMFd1NV8wVHptaTBGbjFqcG9zYldpWXlVMVd5bVAxQ3k3ZnJn?oc=5"
     },
     {
-      "title": "空頭狙殺！台股暴跌2953點 史上最慘 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFdWhzNXJtR3Y3MzBBa3BZRjJEY0FEWlRNNlNBX3o2T19FMktZZzZqY0VTUmpHYWdCQXllbEotT1VnNFd3c1ZaMzVfeGVsTlh30gFWQVVfeXFMUDVPMWlTVmxZZkFzeUwtdndSaVk2MTlMc29mTkQyMF96OHozZVZiUy14N0xocm9WUFpPeEJWZTk2SlFJeFFGYzhSMFRVVjBFRjhTaFdtMlE?oc=5"
+      "title": "台股崩近3千點 投顧：是否止跌看3訊號 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WVktoYTQ3ZV9SOWVfaVYxSmJ1dkdNMlpyZE5KUHgtQlBkZkdKNHBYNDhub05TcVNJZkY5RnEwbEQxbzlyZVluWlZsOWVMek1j0gFWQVVfeXFMUFE0QUpISk1yWTUtTmI1SE4yVjRLY0s5NVd0V3N6akhnUHVyR1laamx1aWpJRmR3RzY4VS1TOVVkSWhfdE9XY2p3dUFLV2dwZHR6RzZwWkE?oc=5"
     }
   ]
 }
