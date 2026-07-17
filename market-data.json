@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/18 03:32",
+  "updated_tw": "07/18 04:32",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -35,68 +35,68 @@
   },
   "us": {
     "NVDA": {
-      "price": 203.025,
-      "change": -4.375,
-      "changePercent": -2.1094
+      "price": 202.81,
+      "change": -4.59,
+      "changePercent": -2.2131
     },
     "AAPL": {
-      "price": 332.435,
-      "change": -0.825,
-      "changePercent": -0.2476
+      "price": 333.74,
+      "change": 0.48,
+      "changePercent": 0.144
     },
     "TSLA": {
-      "price": 382.56,
-      "change": -8.5,
-      "changePercent": -2.1736
+      "price": 380.84,
+      "change": -10.22,
+      "changePercent": -2.6134
     },
     "QQQ": {
-      "price": 696.33,
-      "change": -9.61,
-      "changePercent": -1.3613
+      "price": 695.33,
+      "change": -10.61,
+      "changePercent": -1.503
     },
     "SPY": {
-      "price": 742.93,
-      "change": -7.79,
-      "changePercent": -1.0377
+      "price": 743.29,
+      "change": -7.43,
+      "changePercent": -0.9897
     },
     "SCHD": {
-      "price": 32.855,
-      "change": -0.185,
-      "changePercent": -0.5599
+      "price": 32.91,
+      "change": -0.13,
+      "changePercent": -0.3935
     },
     "VOO": {
-      "price": 682.85,
-      "change": -7.29,
-      "changePercent": -1.0563
+      "price": 683.17,
+      "change": -6.97,
+      "changePercent": -1.0099
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64081.66,
-      "change": 292.3788,
-      "changePercent": 0.4584
+      "price": 63968.49,
+      "change": 179.2087,
+      "changePercent": 0.2809
     },
     "ETH": {
-      "price": 1840.81,
-      "change": -22.3834,
-      "changePercent": -1.2013
+      "price": 1839.21,
+      "change": -23.9834,
+      "changePercent": -1.2872
     }
   },
   "fx": {
     "USDTWD": {
       "price": 32.374,
-      "change": 0.1631,
-      "changePercent": 0.5064
+      "change": 0.1097,
+      "changePercent": 0.34
     },
     "JPYTWD": {
       "price": 0.1971,
       "change": -0.0016,
-      "changePercent": -0.8247
+      "changePercent": -0.7987
     },
     "EURTWD": {
-      "price": 37.068,
-      "change": 0.1162,
-      "changePercent": 0.3144
+      "price": 37.075,
+      "change": 0.1505,
+      "changePercent": 0.4075
     },
     "CNYTWD": {
       "price": 4.7846,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4009.7,
-    "twd": 4173.0,
-    "tael": 156506.0,
-    "twdTotal": 129810.0,
-    "changePercent": 0.6047
+    "usd": 4014.3,
+    "twd": 4178.0,
+    "tael": 156685.0,
+    "twdTotal": 129959.0,
+    "changePercent": 0.7201
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1na052RUxsZHJmYnQ1Y3lkZzAwaHhSTWRuZDRHVTREdlBFbHJJdEZnMjdYNDE2ZzN2UG5QZ2lHa0pGemdlS3I5amc1NnFfTWc?oc=5"
     },
     {
-      "title": "快訊》美股慘跌！台積電ADR重挫5％ 半導體賣壓蔓延全球- 財經 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JMWZPWGlQM0pmVXMwaFVGWlR5MVhHUEJ5VGpuUXBEY3F4Zm5qQnNOLUtHWmlULUMya2FfbFZfUVF0S1JKSEM3UlFGNnZ6RWJFRlBXeTZTTDEtc3BucXZNUXhfZmFPWjhIY1ZDUkpR?oc=5"
+      "title": "黃金慘跌！該逃還是加碼 德銀最新預測曝光 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4OTBGSnF0RmdfSlRQSXFJX1NSSzVCLXFqSV9PZ0J3c3V3bTFhSGZwMklzUG4tamwzZ3k4Z2FrbUlmbzhieDZfT0dLN1VDY0g3NW1weUpmd2JsWkZIMy0w0gFkQVVfeXFMTkZQSU5SWHUxUDB4WUl6ZThOOEo1RWxKZmJCeXZOZUg3VnVKellXSUJPek44ZjlQSWlkbzMtb3RWd3JKVGtSY0xvQnM0c0g5U1FMZUlxU1VVc0JzYjBpby1wbF9wVw?oc=5"
     },
     {
       "title": "台股重挫2953點寫多項紀錄外資、自營商賣超登新高| 證券 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FQTJCNS1jXy12SWRxVjVCbUtrZDR1UFhsOWxNQWhLdG1TSUVjNDh4Rjdaa0UtcTg2bG1zNERJN1V2WENLU2x2NGdBQ3g4S0VTYVZLVTlib3pseHYyZXc?oc=5"
     },
     {
-      "title": "黃金慘跌！該逃還是加碼 德銀最新預測曝光 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4OTBGSnF0RmdfSlRQSXFJX1NSSzVCLXFqSV9PZ0J3c3V3bTFhSGZwMklzUG4tamwzZ3k4Z2FrbUlmbzhieDZfT0dLN1VDY0g3NW1weUpmd2JsWkZIMy0w0gFkQVVfeXFMTkZQSU5SWHUxUDB4WUl6ZThOOEo1RWxKZmJCeXZOZUg3VnVKellXSUJPek44ZjlQSWlkbzMtb3RWd3JKVGtSY0xvQnM0c0g5U1FMZUlxU1VVc0JzYjBpby1wbF9wVw?oc=5"
-    },
-    {
-      "title": "台股單日暴跌2,900 點寫下歷史！崩跌3大主因、重災區與避風港一次看｜股市話題｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxOZDJvVmIyS3g0WTlISE5FWGxhRVM4TmRONGpNdVVNZ3FaYnVzQ2plYkxucGRVakJEaEt3SEQ1MGduVFd4U0dHZkY4OVZvMWVQT3dIM0loQlVFdWpZQ2I3Mnd6LW1yaW00UXU1VUw4ak5pOUsyMGJOTTQ4X0lXNmE3V1FRcnMtT1FoOWhhQ0pieGZKRlFjSkpNMnhxWl9yaTJTTldpSVAzRlMtbmdDelBJTmdSTGlqRGh5R3J5ODFFSjlQdTBZd0ZNZE9zNENyVXZwRUNZMlgwcXR4Ymk0emdJMkVic3ctZU9sU2NVeWpyTG4zY19va1NFLUVaamN5NnktbEJULTRyaUZzV3ZKeXFRc1lmcE5WXzd3Tl9LYVp3RHZ3a2dRT3l6QVc2REktSEZUN2FtdE96aThfQWNQN3RQbUhxVUNFc0lrSXl6c1FmVmlnZm9nMGIwVnVkU0k2YXhEWGpvU3Z5VHphVkdXNW5TYjB0Unl4bzAtSjJ4SF9rdzVxRnBVd2dYTGRHTllHbjFLRmhHUmZuMUotall2ekw4bndXcS1EQTdWUHlGeUZhUnA0dk1vYThzUHlEMldvY0ZsTk13dFBpQ1NKbHZLWjlYb3BRU1dNdXRBbmZpSVVnLTJ2a3BZSS1Ubjc1YmliNFNONE5V?oc=5"
-    },
-    {
       "title": "宛如2000年網路泡沫？美銀示警「美股崩盤」 PTT投資人狂酸：反手作空、準備賺爛 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPRUl2TkhmeWpiaW9RNDVpSnFUNHRjcmNsNXIwVnRwMEI4SUljMzNPV1BzNk5wd3B4TVAyN1hkRTM3dUxJWHhpSHpiYnU0eFU0eEFuejFUZm9wcVRLT0h3R0pzZ1BMdzlJaDhnX0xGekZsdGo0RmVMNXQzQ1kwdmdfU2c1REQyWFFXNmhUSExzbGpzWmhaMG9oeXJxWS1pT1R2U0RibkVSdnNDay02eXJ4TG43YjBOY3RMNlFyc0xhTUIzeGttZjFtdmJycWRqa0k3THBGUXFSc3FIdFNwS0Y0OEh3NGQtTlVfQzhwb0xBaVFRaDduX2U0ZzI3cTROY2pyVjczQ1lTM1JOLWJyUFJibW1KX01OVWZfUkNzaVlwMEl5SFNObmhoc3BlTUs4WlNKWUlzcllaNE9zaEN0ZzlDSXpjUEt1a2FEUEtuMTJEcVZDUnhZTGtKalpnREEzTEc4VnNYSUdtMFd1NV8wVHptaTBGbjFqcG9zYldpWXlVMVd5bVAxQ3k3ZnJn?oc=5"
+    },
+    {
+      "title": "黑色星期五 台股大殺盤 15強棒 勇守「生命線」 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sd1JDUnFCUzEyMl8xTFR4cGxHNVJPdWY1TkFqdzloZjYxWm9iQXIybVM1TkFEZE5rVF83WUs1dnBhOTRmcGthN1N0VDIxQVgx?oc=5"
+    },
+    {
+      "title": "台股跌近3000點！Q3進入中段整理 李鎮宇：跌破4萬點就是好買點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPa01RZ2M1bDczWEdvTDVBYkYtOTFkekdLY1NGeVg3YUE2ZDItX3VZVFlRRk5LNHUxdDkzalpHUTg2TzNVbG8zeW01SWRKb0lFOHJHQXktakdibUdzZ2FCU3JvcnRWTDhCWEhWeWZYWWRJX0JXaEZEeDQ0RjRiZmFHN3MxcmlHZW4xX1l5MkY5YTctNFY4TDdMVUxrZjBITlN5d0QtYXdQRGplajRDUWlZNlZyVHRoNjJDZWhKWXQ5N0dlM3lNMjlnTUExT1Jadjh3Z2xxZWFGTktta25nWm5fNjdaMHNBbXpTWktFbnFLUDlzVklGUHRLUkNITGs5dk9LUTg5X0x4YTZteXBOZ1VUbUpzMElfRXJiaF9SdkhyOEV0UTlLZHFFNHNtZktkTWxjNkNDaTk0dHVEZldGRk1DZXl4MlpBRU9WY0xOSjd2bF91SzItWnVqam1na003WXRWN0hwWFZNX1FQVlNMZlpmVDVsTjlhLXNkMlB6TA?oc=5"
     }
   ]
 }
