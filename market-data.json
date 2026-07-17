@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/18 05:33",
+  "updated_tw": "07/18 06:31",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64067.2,
-      "change": 277.9187,
-      "changePercent": 0.4357
+      "price": 63925.27,
+      "change": 135.9887,
+      "changePercent": 0.2132
     },
     "ETH": {
-      "price": 1840.7,
-      "change": -22.4934,
-      "changePercent": -1.2072
+      "price": 1838.76,
+      "change": -24.4334,
+      "changePercent": -1.3114
     }
   },
   "fx": {
@@ -99,7 +99,7 @@
       "changePercent": 0.3912
     },
     "CNYTWD": {
-      "price": 4.7833,
+      "price": 4.7791,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52bW92VGw1WU5FdEdwWUF6bWtwV1ZEcC1TSkRkcjNpZGNtQ3JuTlpkX0VGOFRvUVllZFBGMS1qVUJDMUtwdnhHQ1laQ21hUmJa0gFWQVVfeXFMTll3M3U4ckRGazB6NUlTTGY4c0dmZkVBMnlNMGxKQ0VYcFZZN3VJbDhycXlFNlV0S2FqUGpVcl9tRWpGSmRNYk5aWWpjZG8xMW9Ebk1TSFE?oc=5"
     },
     {
-      "title": "台股重挫2953點寫多項紀錄外資、自營商賣超登新高| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FQTJCNS1jXy12SWRxVjVCbUtrZDR1UFhsOWxNQWhLdG1TSUVjNDh4Rjdaa0UtcTg2bG1zNERJN1V2WENLU2x2NGdBQ3g4S0VTYVZLVTlib3pseHYyZXc?oc=5"
+      "title": "黑色星期五 台股大殺盤 15強棒 勇守「生命線」 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sd1JDUnFCUzEyMl8xTFR4cGxHNVJPdWY1TkFqdzloZjYxWm9iQXIybVM1TkFEZE5rVF83WUs1dnBhOTRmcGthN1N0VDIxQVgx?oc=5"
     }
   ]
 }
