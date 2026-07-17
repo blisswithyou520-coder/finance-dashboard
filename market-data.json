@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/18 06:31",
+  "updated_tw": "07/18 07:35",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63925.27,
-      "change": 135.9887,
-      "changePercent": 0.2132
+      "price": 63960.66,
+      "change": 171.3788,
+      "changePercent": 0.2687
     },
     "ETH": {
-      "price": 1838.76,
-      "change": -24.4334,
-      "changePercent": -1.3114
+      "price": 1843.16,
+      "change": -20.0334,
+      "changePercent": -1.0752
     }
   },
   "fx": {
@@ -117,6 +117,10 @@
   },
   "news": [
     {
+      "title": "〈美股盤後〉晶片股賣壓不止 那指跌1.4% 費半陷入熊市 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EYk5UWnJELXRMZ2NOTkxZdjg2T180LWZNNUxmV2xWZDV0ajFVQXA0bHdqM3FSU25KNmdZX3QxRkMxcjVDQ1FibnlUa0dFTEk?oc=5"
+    },
+    {
       "title": "美股接棒續殺！台積電ADR跌逾2％「慘回3字頭」 美光漲2％、SK海力士ADR漲3％率記憶體反攻 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOM0pxdWt2b3ZkejJuRnRsb0I5NWlQUy1XOEZqc2g5Z3dPNi13WUlQU0toZkRNSDB4TTk5NFRoOU1xYVNRX2FlU0xjX3c5SVVMV29IZWxuWkxTdHVtc0J0X2xrTWEtVW1rOGdUZDBDRW4talZvNjBZTkRUMkdmaVJReTlVWU5OZ2lRUGthb1FMS2t3TEFmQVp0RVJiOGh5R01rMDZJcTlLZGlfbEIwLXB5VDdkb2wxLU9SVmo2WThQWDdja3ppYUFYdzQ2ZkNIN1RUMVc3SFhqaWI0YUpqRURLWE8ySjNKVjdsVll2bjhQbHNCdjVDaXlMZE82QVdUWmNmblZkazZPWUt0dk9hbXk5OVpQV2NQR1FFY3RDRHVNWnpxZ1ZFRW5pN0VDQTJpR3Y3WFdkM2VPSkFKVEJXbkNsZUlkYlJIYy0zZW41RDhwXzZLVWdYVksyakxzcnNFQXQxaHBFZWkwcTlOOFJRVUNlemJZUEJYa3Qz?oc=5"
     },
@@ -125,28 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41eGRfQkk3bXh4WUo4NGxGR21XT2IwX1ZoMW54LWRKSVlHQUVBY0hHT0JIczluR0wwOUY4a2R1Zkx1WkJBNnhpeEdILW1BMnFo?oc=5"
     },
     {
-      "title": "〈美股早盤〉晶片股賣壓未止！主要指數開低 台積電ADR挫逾5% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1na052RUxsZHJmYnQ1Y3lkZzAwaHhSTWRuZDRHVTREdlBFbHJJdEZnMjdYNDE2ZzN2UG5QZ2lHa0pGemdlS3I5amc1NnFfTWc?oc=5"
-    },
-    {
-      "title": "台股重挫2953點金管會：反映國際情勢將密切關注| 產經 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iWHltUlpFckZIa2RBdVZxV2xoZENIZ2xqLTRsQ01KTlljVkNoanM1QWI0TEVpdlk3N0VKeEx3V0FRaV9yaDc1Y3VQTWx6UVB4akdWLVMwS1BBQVZ2U3c?oc=5"
-    },
-    {
-      "title": "黃金慘跌！該逃還是加碼 德銀最新預測曝光 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4OTBGSnF0RmdfSlRQSXFJX1NSSzVCLXFqSV9PZ0J3c3V3bTFhSGZwMklzUG4tamwzZ3k4Z2FrbUlmbzhieDZfT0dLN1VDY0g3NW1weUpmd2JsWkZIMy0w0gFkQVVfeXFMTkZQSU5SWHUxUDB4WUl6ZThOOEo1RWxKZmJCeXZOZUg3VnVKellXSUJPek44ZjlQSWlkbzMtb3RWd3JKVGtSY0xvQnM0c0g5U1FMZUlxU1VVc0JzYjBpby1wbF9wVw?oc=5"
+      "title": "台股重挫2953點寫多項紀錄外資、自營商賣超登新高| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FQTJCNS1jXy12SWRxVjVCbUtrZDR1UFhsOWxNQWhLdG1TSUVjNDh4Rjdaa0UtcTg2bG1zNERJN1V2WENLU2x2NGdBQ3g4S0VTYVZLVTlib3pseHYyZXc?oc=5"
     },
     {
       "title": "宛如2000年網路泡沫？美銀示警「美股崩盤」 PTT投資人狂酸：反手作空、準備賺爛 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPRUl2TkhmeWpiaW9RNDVpSnFUNHRjcmNsNXIwVnRwMEI4SUljMzNPV1BzNk5wd3B4TVAyN1hkRTM3dUxJWHhpSHpiYnU0eFU0eEFuejFUZm9wcVRLT0h3R0pzZ1BMdzlJaDhnX0xGekZsdGo0RmVMNXQzQ1kwdmdfU2c1REQyWFFXNmhUSExzbGpzWmhaMG9oeXJxWS1pT1R2U0RibkVSdnNDay02eXJ4TG43YjBOY3RMNlFyc0xhTUIzeGttZjFtdmJycWRqa0k3THBGUXFSc3FIdFNwS0Y0OEh3NGQtTlVfQzhwb0xBaVFRaDduX2U0ZzI3cTROY2pyVjczQ1lTM1JOLWJyUFJibW1KX01OVWZfUkNzaVlwMEl5SFNObmhoc3BlTUs4WlNKWUlzcllaNE9zaEN0ZzlDSXpjUEt1a2FEUEtuMTJEcVZDUnhZTGtKalpnREEzTEc4VnNYSUdtMFd1NV8wVHptaTBGbjFqcG9zYldpWXlVMVd5bVAxQ3k3ZnJn?oc=5"
     },
     {
-      "title": "台股17日暴跌 金管會：主要反映國際情勢 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52bW92VGw1WU5FdEdwWUF6bWtwV1ZEcC1TSkRkcjNpZGNtQ3JuTlpkX0VGOFRvUVllZFBGMS1qVUJDMUtwdnhHQ1laQ21hUmJa0gFWQVVfeXFMTll3M3U4ckRGazB6NUlTTGY4c0dmZkVBMnlNMGxKQ0VYcFZZN3VJbDhycXlFNlV0S2FqUGpVcl9tRWpGSmRNYk5aWWpjZG8xMW9Ebk1TSFE?oc=5"
+      "title": "〈美股早盤〉晶片股賣壓未止！主要指數開低 台積電ADR挫逾5% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1na052RUxsZHJmYnQ1Y3lkZzAwaHhSTWRuZDRHVTREdlBFbHJJdEZnMjdYNDE2ZzN2UG5QZ2lHa0pGemdlS3I5amc1NnFfTWc?oc=5"
     },
     {
-      "title": "黑色星期五 台股大殺盤 15強棒 勇守「生命線」 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sd1JDUnFCUzEyMl8xTFR4cGxHNVJPdWY1TkFqdzloZjYxWm9iQXIybVM1TkFEZE5rVF83WUs1dnBhOTRmcGthN1N0VDIxQVgx?oc=5"
+      "title": "空頭狙殺！台股暴跌2953點 史上最慘 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFdWhzNXJtR3Y3MzBBa3BZRjJEY0FEWlRNNlNBX3o2T19FMktZZzZqY0VTUmpHYWdCQXllbEotT1VnNFd3c1ZaMzVfeGVsTlh30gFWQVVfeXFMUDVPMWlTVmxZZkFzeUwtdndSaVk2MTlMc29mTkQyMF96OHozZVZiUy14N0xocm9WUFpPeEJWZTk2SlFJeFFGYzhSMFRVVjBFRjhTaFdtMlE?oc=5"
+    },
+    {
+      "title": "台股重挫2953點金管會：反映國際情勢將密切關注| 產經 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iWHltUlpFckZIa2RBdVZxV2xoZENIZ2xqLTRsQ01KTlljVkNoanM1QWI0TEVpdlk3N0VKeEx3V0FRaV9yaDc1Y3VQTWx6UVB4akdWLVMwS1BBQVZ2U3c?oc=5"
     }
   ]
 }
