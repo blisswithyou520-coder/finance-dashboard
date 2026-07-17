@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/17 16:57",
+  "updated_tw": "07/17 18:52",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62854.39,
-      "change": -934.8913,
-      "changePercent": -1.4656
+      "price": 63123.03,
+      "change": -666.2513,
+      "changePercent": -1.0445
     },
     "ETH": {
-      "price": 1830.25,
-      "change": -32.9434,
-      "changePercent": -1.7681
+      "price": 1836.09,
+      "change": -27.1034,
+      "changePercent": -1.4547
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.364,
-      "change": 0.1531,
-      "changePercent": 0.4753
+      "price": 32.361,
+      "change": 0.1501,
+      "changePercent": 0.466
     },
     "JPYTWD": {
       "price": 0.1971,
@@ -94,22 +94,22 @@
       "changePercent": -0.8247
     },
     "EURTWD": {
-      "price": 37.074,
-      "change": 0.1222,
-      "changePercent": 0.3307
+      "price": 37.024,
+      "change": 0.0722,
+      "changePercent": 0.1953
     },
     "CNYTWD": {
-      "price": 4.7812,
+      "price": 4.7789,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3999.3,
-    "twd": 4161.0,
-    "tael": 156052.0,
-    "twdTotal": 129433.0,
-    "changePercent": 0.3437
+    "usd": 3999.9,
+    "twd": 4162.0,
+    "tael": 156061.0,
+    "twdTotal": 129441.0,
+    "changePercent": 0.3588
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,8 +121,8 @@
       "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPcjVzYXpPWllDdFlhejVCOFhRUFJYV2s0TGg4eXNmUE9wdkk0Ykh6cHJsdGhUU2EwSkVwanB2aHlZTkN0TGNNV3lPeUtTSC1HOVhkQmhLMFAweXZxTzB4WmdNd1diQXRDdWhkaW5nZ3BSbFpHc3dENDB6WGtLLVpYRjZIeEhsdjg0NVVVVWVQUGZtU085QVhaWGk1ejFyOVBlQTdUUUZaZHNXQmhkRkRvdDEwcUo5YWk5MTVDSUJCTmd6d1JkeDZ5Rm1yRFh5ejJIb3ZJSklIdGhwemhWS05LR196dVNiSmpxWmJFX2t5Qm1kTktTT2p1d3dXbUxnNFdwcjRibDRvMTZacm1lUHJOcTZoLVEwc3VUR2pWTGliQ0VVUnlQdllHTERqWlpFV0g2OEM4ZlNiSE1MTWFDeGQ4VHRORk50VFN6RjR0R0x6em5TczgybUJySDR0anZOYWdWc18tNWVONXNaYmZpV0I2NEpmNWhBOG5rTlRRMlh6X3YtSWc?oc=5"
     },
     {
-      "title": "美股半導體股重挫，中東緊張局勢恐危及全球能源供應 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQa2xmR01EdVBBVHZ2dVRmRXoycXhFZElBLVA0eDV1SnF6SDRJc1Y5eERqUFR3MjBIaVI3Y1hDQ0Yydnl4WkM2SmdQS2owc09jd2JvVnNkM0JOM1EyOU5MSjJPMjNaSm1wQndXcG5wYWxjaXVNcG9QdXpJOW0tUmZDNTBHM3lRN2F5YnpDR1g1dWxGTzA2eFJKLVZXODdNWUpWNW9LX0xodXl1dDZKM2dOcHloUzA0S1RVUVQ3WHdCbzhmaWk5TVN5ME9HaGYwMHJDRkxFQVJkOWFEeldQVDl4dk95bU9HSHNqa0dwM2FOTVZtc0EtckJoeEZnMzZubzZyejQySlhzZVdtM3ZUT3Y1dVVraGkyanJ1SGVqZEFoRGdtOE50LVE1eVZkZUx6dFc2NDFIUmZ5c19jSGY4OEJIU09LNmxFVURDTmlyTVdCQnZSYVN1NTVHNlM5RUJRcXQyNDZOaWNldUYyTjZPbTBDag?oc=5"
+      "title": "宛如2000年網路泡沫？美銀示警「美股崩盤」 PTT投資人狂酸：反手作空、準備賺爛 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPRUl2TkhmeWpiaW9RNDVpSnFUNHRjcmNsNXIwVnRwMEI4SUljMzNPV1BzNk5wd3B4TVAyN1hkRTM3dUxJWHhpSHpiYnU0eFU0eEFuejFUZm9wcVRLT0h3R0pzZ1BMdzlJaDhnX0xGekZsdGo0RmVMNXQzQ1kwdmdfU2c1REQyWFFXNmhUSExzbGpzWmhaMG9oeXJxWS1pT1R2U0RibkVSdnNDay02eXJ4TG43YjBOY3RMNlFyc0xhTUIzeGttZjFtdmJycWRqa0k3THBGUXFSc3FIdFNwS0Y0OEh3NGQtTlVfQzhwb0xBaVFRaDduX2U0ZzI3cTROY2pyVjczQ1lTM1JOLWJyUFJibW1KX01OVWZfUkNzaVlwMEl5SFNObmhoc3BlTUs4WlNKWUlzcllaNE9zaEN0ZzlDSXpjUEt1a2FEUEtuMTJEcVZDUnhZTGtKalpnREEzTEc4VnNYSUdtMFd1NV8wVHptaTBGbjFqcG9zYldpWXlVMVd5bVAxQ3k3ZnJn?oc=5"
     },
     {
       "title": "黃金慘跌！該逃還是加碼 德銀最新預測曝光 - 自由財經",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YRWtOWEhZMjhGOWJyZ2VIbW1pS3FyQzNWZ0E5UFNpeDNQZHZiN2hMX2xlaWVRZVBQOE1IYkU3aFpDaEpkSl9QQ0hYdUFOQm8?oc=5"
     },
     {
-      "title": "美股全面收低「費半暴跌逾4％」！台指期夜盤挫跌976點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQc2d4T0EzT21tZ2JFenVFcDczcWNpczZkYTA0VXpWZFlmT1dTbHVnUTFaVV8tazdKRFo1YURpalRDc1JfWU9tclFWZTNCQ3ZzM3psZ252WWhPVTlMeUo5UUROdnNIa3NGVlRsSWM0eVRoZzRiT3FuZnZ6YVctaEZIdXl6VGZCbHhxbXpPQmNMY2d4aFF3eWhDT0c5V0FkWGZ0aC1wN2FDcFFqZ1N4YjZNYWN2QTNEeHdNRWRCSnpacnFDN3loR1VIUkYtbFI1cXpBTGRxcGc2RlpkejBTakN3VnVGS1JOcmRoNkZkRGlsSzBiVThpd0JuYU5jRHJCeFVtODc0ejVIYzMySXMxODlidWVqS3Uyd0dBOEl0NDR5Q3lTSGRmX3dxMUtmSmdIYngzdkY5M2gyaWxWT2U5bVdoZEY4d1k2dVE?oc=5"
+      "title": "美股半導體股重挫，中東緊張局勢恐危及全球能源供應 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQa2xmR01EdVBBVHZ2dVRmRXoycXhFZElBLVA0eDV1SnF6SDRJc1Y5eERqUFR3MjBIaVI3Y1hDQ0Yydnl4WkM2SmdQS2owc09jd2JvVnNkM0JOM1EyOU5MSjJPMjNaSm1wQndXcG5wYWxjaXVNcG9QdXpJOW0tUmZDNTBHM3lRN2F5YnpDR1g1dWxGTzA2eFJKLVZXODdNWUpWNW9LX0xodXl1dDZKM2dOcHloUzA0S1RVUVQ3WHdCbzhmaWk5TVN5ME9HaGYwMHJDRkxFQVJkOWFEeldQVDl4dk95bU9HSHNqa0dwM2FOTVZtc0EtckJoeEZnMzZubzZyejQySlhzZVdtM3ZUT3Y1dVVraGkyanJ1SGVqZEFoRGdtOE50LVE1eVZkZUx6dFc2NDFIUmZ5c19jSGY4OEJIU09LNmxFVURDTmlyTVdCQnZSYVN1NTVHNlM5RUJRcXQyNDZOaWNldUYyTjZPbTBDag?oc=5"
     },
     {
-      "title": "黃金還沒跌完！美銀曝光真正買點是「這價格」：別急著抄底 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWeVlUS1hibXpNT2hRcWRPUWF2a3AwZGJNbURabHlHazVLNGYyZHBhaEZwMi1fanY4ZTNiSHNJaThNMnJoaVpxNEJ6ZlhoblRXWjMyRmREQ1d0RjhaeFkw0gFkQVVfeXFMUGljQWgwc3BnREdPaE9VVXVWQmJZcGpmUEJRakJ0MktNaDd6SFAxZXM2Vldzc0otcG9DVzNLd05WeTB2YlFLVkRPa0JfS2dCODFQZ1dWdWpqYW5oV0cwVmJfbmpzSA?oc=5"
+      "title": "美股「去槓桿」還沒完 ! 恐再震盪3個月 摩根大通坦白說 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ibEs5czFmOUdXUDV0czNqWnJVaC1oMWQzZUVUWElHcTlndWQzeEo3VXVZdUcxSGFpeDA5SERLeFotS1kxOGMzVjVTdWpReS1vRWlsdzRYZjJUajlOMl9B0gFkQVVfeXFMT0tPOU1FN3p2S1gtSV90MDZxWV9IR1NpaHRJNG92WVlPejV0WEpPOXYwRFNtcjRJbnZ3YWF2eWZuX25xU1FOb2lSQU9nQXo1OU1hbzBnZ0dLbXdOMkpZSjVxNzAyVw?oc=5"
     },
     {
-      "title": "美銀再示警美股恐重演2000年泡沫！網反喊「進場訊號」：每月都崩一次 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qMmNaVHBvSERMRFQwUk44UUVQWkhoY2szUGZ2UzdtM21pYUplek5iMTAwdkZVaGtzLWR2YTZWdUZwSFc1TWJ4dEdLOFJOTHMxOFHSAVdBVV95cUxQX3FUY1pHMDRlWlZ1bWZBS2JJSDB1TzZFRzVaWHg5YVhtUDJOeGtVNG1tRlNxdF95V3NFaGF1bl9iSWkyNGpQeFN5Tk03WExqSDk0cHZpa3M?oc=5"
+      "title": "美股盤中震盪亞洲市場暗藏危機 分析師示警衰退風險 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOTmVjVnJDV0N2N2J4TUlUNFRjY0pveFNYT0dVTEVkY1o3UmdFNG0zM0FYcC1XeXN2cGdWWUU2cWhPQ3UzX0E1TzZqT19fOVBQVXp4TjRnZlBhMkVwcnYzdzZXaEE4b21GZXNyRFVlQXRPM0x6VW1Ob1p4cS01OHNUSjB0RXQ1X0ZhcTBBSUc1Wng4S05yV0Rpbm1OckdaYUliMTlTdjBoSXZlWGRmT2xNNUdscXQzeVJYYTVfM2hFZWVFVVBBSnFzSUp2OW9oV1VKdUJlU2JVWkF5WjFEOUJpMmh0UkZDQmNqR2FScWpSUEowQXMxNFVIQkQxTnBKbWtNdUNGbFVQZkRMZGZYSmRNWTBlMTU1bFdTSXRJTkZudnhXQ0dLeEVyWS1JNF8wN194T0VlV2xHNTlYbm1OOEx5UlpRQTR4bnRCRC1BZEREYjBuWWEtT2pjMEFKQWFrRTV2bzZjUnRCdTUtbWVDU0E4VQ?oc=5"
     }
   ]
 }
