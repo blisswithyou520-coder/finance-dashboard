@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/17 22:02",
+  "updated_tw": "07/17 23:39",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 202.635,
-      "change": -4.765,
-      "changePercent": -2.2975
+      "price": 204.75,
+      "change": -2.65,
+      "changePercent": -1.2777
     },
     "AAPL": {
-      "price": 329.695,
-      "change": -3.565,
-      "changePercent": -1.0697
+      "price": 333.625,
+      "change": 0.365,
+      "changePercent": 0.1095
     },
     "TSLA": {
-      "price": 382.04,
-      "change": -9.02,
-      "changePercent": -2.3066
+      "price": 380.985,
+      "change": -10.075,
+      "changePercent": -2.5763
     },
     "QQQ": {
-      "price": 695.11,
-      "change": -10.83,
-      "changePercent": -1.5341
+      "price": 696.795,
+      "change": -9.145,
+      "changePercent": -1.2954
     },
     "SPY": {
-      "price": 745.46,
-      "change": -5.26,
-      "changePercent": -0.7007
+      "price": 745.69,
+      "change": -5.03,
+      "changePercent": -0.67
     },
     "SCHD": {
-      "price": 33.344,
-      "change": 0.304,
-      "changePercent": 0.9201
+      "price": 33.085,
+      "change": 0.045,
+      "changePercent": 0.1362
     },
     "VOO": {
-      "price": 685.15,
-      "change": -4.99,
-      "changePercent": -0.723
+      "price": 685.36,
+      "change": -4.78,
+      "changePercent": -0.6926
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63121.39,
-      "change": -667.8913,
-      "changePercent": -1.047
+      "price": 63221.66,
+      "change": -567.6212,
+      "changePercent": -0.8898
     },
     "ETH": {
-      "price": 1824.12,
-      "change": -39.0734,
-      "changePercent": -2.0971
+      "price": 1824.38,
+      "change": -38.8134,
+      "changePercent": -2.0832
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.369,
-      "change": 0.1581,
-      "changePercent": 0.4908
+      "price": 32.374,
+      "change": 0.1631,
+      "changePercent": 0.5064
     },
     "JPYTWD": {
-      "price": 0.1972,
-      "change": -0.0015,
-      "changePercent": -0.7744
+      "price": 0.1971,
+      "change": -0.0016,
+      "changePercent": -0.8247
     },
     "EURTWD": {
-      "price": 37.054,
-      "change": 0.1022,
-      "changePercent": 0.2765
+      "price": 37.072,
+      "change": 0.1202,
+      "changePercent": 0.3252
     },
     "CNYTWD": {
-      "price": 4.7808,
+      "price": 4.7804,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3994.4,
-    "twd": 4157.0,
-    "tael": 155885.0,
-    "twdTotal": 129295.0,
-    "changePercent": 0.2208
+    "usd": 4015.9,
+    "twd": 4180.0,
+    "tael": 156748.0,
+    "twdTotal": 130011.0,
+    "changePercent": 0.7602
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -119,6 +119,18 @@
     {
       "title": "宛如2000年網路泡沫？美銀示警「美股崩盤」 PTT投資人狂酸：反手作空、準備賺爛 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPRUl2TkhmeWpiaW9RNDVpSnFUNHRjcmNsNXIwVnRwMEI4SUljMzNPV1BzNk5wd3B4TVAyN1hkRTM3dUxJWHhpSHpiYnU0eFU0eEFuejFUZm9wcVRLT0h3R0pzZ1BMdzlJaDhnX0xGekZsdGo0RmVMNXQzQ1kwdmdfU2c1REQyWFFXNmhUSExzbGpzWmhaMG9oeXJxWS1pT1R2U0RibkVSdnNDay02eXJ4TG43YjBOY3RMNlFyc0xhTUIzeGttZjFtdmJycWRqa0k3THBGUXFSc3FIdFNwS0Y0OEh3NGQtTlVfQzhwb0xBaVFRaDduX2U0ZzI3cTROY2pyVjczQ1lTM1JOLWJyUFJibW1KX01OVWZfUkNzaVlwMEl5SFNObmhoc3BlTUs4WlNKWUlzcllaNE9zaEN0ZzlDSXpjUEt1a2FEUEtuMTJEcVZDUnhZTGtKalpnREEzTEc4VnNYSUdtMFd1NV8wVHptaTBGbjFqcG9zYldpWXlVMVd5bVAxQ3k3ZnJn?oc=5"
+    },
+    {
+      "title": "美股早盤／陸AI新模型震撼全球四大指數重挫！費半崩5%陷熊市| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41eGRfQkk3bXh4WUo4NGxGR21XT2IwX1ZoMW54LWRKSVlHQUVBY0hHT0JIczluR0wwOUY4a2R1Zkx1WkJBNnhpeEdILW1BMnFo?oc=5"
+    },
+    {
+      "title": "〈美股早盤〉晶片股賣壓未止！主要指數開低 台積電ADR挫逾5% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1na052RUxsZHJmYnQ1Y3lkZzAwaHhSTWRuZDRHVTREdlBFbHJJdEZnMjdYNDE2ZzN2UG5QZ2lHa0pGemdlS3I5amc1NnFfTWc?oc=5"
+    },
+    {
+      "title": "快訊》美股慘跌！台積電ADR重挫5％ 半導體賣壓蔓延全球- 財經 - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JMWZPWGlQM0pmVXMwaFVGWlR5MVhHUEJ5VGpuUXBEY3F4Zm5qQnNOLUtHWmlULUMya2FfbFZfUVF0S1JKSEM3UlFGNnZ6RWJFRlBXeTZTTDEtc3BucXZNUXhfZmFPWjhIY1ZDUkpR?oc=5"
     },
     {
       "title": "台股重挫2953點 創單日最大跌點 - 公視新聞網PNN",
@@ -133,20 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWeVlUS1hibXpNT2hRcWRPUWF2a3AwZGJNbURabHlHazVLNGYyZHBhaEZwMi1fanY4ZTNiSHNJaThNMnJoaVpxNEJ6ZlhoblRXWjMyRmREQ1d0RjhaeFkw0gFkQVVfeXFMUGljQWgwc3BnREdPaE9VVXVWQmJZcGpmUEJRakJ0MktNaDd6SFAxZXM2Vldzc0otcG9DVzNLd05WeTB2YlFLVkRPa0JfS2dCODFQZ1dWdWpqYW5oV0cwVmJfbmpzSA?oc=5"
     },
     {
-      "title": "美股收盤／四大指數收黑…費半重挫4%！台積電利多失效晶片股賣壓重| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51YjJwdEh3R3VPci1QRFdnUUVXYzRPc0o4YmF0OW00WUkyRFIyUG1JSEhRMVpsRDA5eVhObWRoc2xhc0hqRm94enJwdkwzOXlu?oc=5"
-    },
-    {
-      "title": "台股重挫2953點寫多項紀錄外資、自營商賣超登新高| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FQTJCNS1jXy12SWRxVjVCbUtrZDR1UFhsOWxNQWhLdG1TSUVjNDh4Rjdaa0UtcTg2bG1zNERJN1V2WENLU2x2NGdBQ3g4S0VTYVZLVTlib3pseHYyZXc?oc=5"
-    },
-    {
-      "title": "美股盤中震盪亞洲市場暗藏危機 分析師示警衰退風險 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOTmVjVnJDV0N2N2J4TUlUNFRjY0pveFNYT0dVTEVkY1o3UmdFNG0zM0FYcC1XeXN2cGdWWUU2cWhPQ3UzX0E1TzZqT19fOVBQVXp4TjRnZlBhMkVwcnYzdzZXaEE4b21GZXNyRFVlQXRPM0x6VW1Ob1p4cS01OHNUSjB0RXQ1X0ZhcTBBSUc1Wng4S05yV0Rpbm1OckdaYUliMTlTdjBoSXZlWGRmT2xNNUdscXQzeVJYYTVfM2hFZWVFVVBBSnFzSUp2OW9oV1VKdUJlU2JVWkF5WjFEOUJpMmh0UkZDQmNqR2FScWpSUEowQXMxNFVIQkQxTnBKbWtNdUNGbFVQZkRMZGZYSmRNWTBlMTU1bFdTSXRJTkZudnhXQ0dLeEVyWS1JNF8wN194T0VlV2xHNTlYbm1OOEx5UlpRQTR4bnRCRC1BZEREYjBuWWEtT2pjMEFKQWFrRTV2bzZjUnRCdTUtbWVDU0E4VQ?oc=5"
-    },
-    {
-      "title": "黃金慘跌！該逃還是加碼 德銀最新預測曝光 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4OTBGSnF0RmdfSlRQSXFJX1NSSzVCLXFqSV9PZ0J3c3V3bTFhSGZwMklzUG4tamwzZ3k4Z2FrbUlmbzhieDZfT0dLN1VDY0g3NW1weUpmd2JsWkZIMy0w0gFkQVVfeXFMTkZQSU5SWHUxUDB4WUl6ZThOOEo1RWxKZmJCeXZOZUg3VnVKellXSUJPek44ZjlQSWlkbzMtb3RWd3JKVGtSY0xvQnM0c0g5U1FMZUlxU1VVc0JzYjBpby1wbF9wVw?oc=5"
+      "title": "台股暴跌2953點「全亞洲最慘」金管會曝原因！外資提款1890億刷史高 韓股放假躲崩 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQUlNaR2p5WDZkdGUtaWt3SXcwWV92V2pSYmY1NXlxY2R2bmIzVmNNdEVja2Z2MkplSTBiM1ZzM1Q4cDBqcDhkOU9LVF9tcFVGY2NuamdiQUFJNF9JWVF5ZV9JYlAtU0ZRUGdfVEdjNW1fZkY2M2pTclYycWRPeGpKUVZXRGI3U0xUNUFVNXF0aFVveGFoTHBFUHluTGc0S2RVdUlnemptalhybnEzQ3lVWmlXejlzOHhtZmp2Q3N0VU11TE10Z1dMcXE5VFBtdGliUC00ZVo4M29lRFBmN3BOS1J3Y3JVbWhsSU16azZXMFNuSlViWTBsbnM5RmJoV0ZxUEJwemdwZ3dqWUpKOVB5SG1PRnFHajlCaktmOWhhWDE2a24wa2VIZnFPX3VrVGlJOVRqSW9UOEJFcl9KUHhqTWFfMkdOR0lEX1JpT0swR2NoYWJUT3I4X0NRTkRSUVdCYUYwbGNmdmtNLXdQa3lzcWFnMjRZbkFHTFRqWk1abjFwQzJFZnVNWDlNenJEYmtDa2Nfem9oeExwVjh2OHJ5Yzh6N3IxMXNUZVpqRElVN1VraXZrcFFjalpEdzNEcGk3NS1nakJaZzhManplTVhobktBSQ?oc=5"
     }
   ]
 }
