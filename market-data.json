@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/18 02:04",
+  "updated_tw": "07/18 03:32",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -35,51 +35,51 @@
   },
   "us": {
     "NVDA": {
-      "price": 204.38,
-      "change": -3.02,
-      "changePercent": -1.4561
+      "price": 203.025,
+      "change": -4.375,
+      "changePercent": -2.1094
     },
     "AAPL": {
-      "price": 332.025,
-      "change": -1.235,
-      "changePercent": -0.3706
+      "price": 332.435,
+      "change": -0.825,
+      "changePercent": -0.2476
     },
     "TSLA": {
-      "price": 382.325,
-      "change": -8.735,
-      "changePercent": -2.2337
+      "price": 382.56,
+      "change": -8.5,
+      "changePercent": -2.1736
     },
     "QQQ": {
-      "price": 698.82,
-      "change": -7.12,
-      "changePercent": -1.0086
+      "price": 696.33,
+      "change": -9.61,
+      "changePercent": -1.3613
     },
     "SPY": {
-      "price": 744.63,
-      "change": -6.09,
-      "changePercent": -0.8112
+      "price": 742.93,
+      "change": -7.79,
+      "changePercent": -1.0377
     },
     "SCHD": {
-      "price": 32.835,
-      "change": -0.205,
-      "changePercent": -0.6205
+      "price": 32.855,
+      "change": -0.185,
+      "changePercent": -0.5599
     },
     "VOO": {
-      "price": 684.48,
-      "change": -5.66,
-      "changePercent": -0.8201
+      "price": 682.85,
+      "change": -7.29,
+      "changePercent": -1.0563
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63987.71,
-      "change": 198.4287,
-      "changePercent": 0.3111
+      "price": 64081.66,
+      "change": 292.3788,
+      "changePercent": 0.4584
     },
     "ETH": {
-      "price": 1841.53,
-      "change": -21.6634,
-      "changePercent": -1.1627
+      "price": 1840.81,
+      "change": -22.3834,
+      "changePercent": -1.2013
     }
   },
   "fx": {
@@ -94,22 +94,22 @@
       "changePercent": -0.8247
     },
     "EURTWD": {
-      "price": 37.084,
-      "change": 0.1322,
-      "changePercent": 0.3577
+      "price": 37.068,
+      "change": 0.1162,
+      "changePercent": 0.3144
     },
     "CNYTWD": {
-      "price": 4.7822,
+      "price": 4.7846,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4014.1,
-    "twd": 4178.0,
-    "tael": 156678.0,
-    "twdTotal": 129952.0,
-    "changePercent": 0.7151
+    "usd": 4009.7,
+    "twd": 4173.0,
+    "tael": 156506.0,
+    "twdTotal": 129810.0,
+    "changePercent": 0.6047
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,8 +133,12 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JMWZPWGlQM0pmVXMwaFVGWlR5MVhHUEJ5VGpuUXBEY3F4Zm5qQnNOLUtHWmlULUMya2FfbFZfUVF0S1JKSEM3UlFGNnZ6RWJFRlBXeTZTTDEtc3BucXZNUXhfZmFPWjhIY1ZDUkpR?oc=5"
     },
     {
-      "title": "台股重挫2953點 創單日最大跌點 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82azh3MzhZZWFuOFd3WFl4R2ZvRFJicjZUbWZuQWhZcG5UUExvUDg3VFdmS0ZyRHNpajZZUjRJLXZWM2ZvSHhNb0FnM2kwWUU?oc=5"
+      "title": "台股重挫2953點寫多項紀錄外資、自營商賣超登新高| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FQTJCNS1jXy12SWRxVjVCbUtrZDR1UFhsOWxNQWhLdG1TSUVjNDh4Rjdaa0UtcTg2bG1zNERJN1V2WENLU2x2NGdBQ3g4S0VTYVZLVTlib3pseHYyZXc?oc=5"
+    },
+    {
+      "title": "黃金慘跌！該逃還是加碼 德銀最新預測曝光 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4OTBGSnF0RmdfSlRQSXFJX1NSSzVCLXFqSV9PZ0J3c3V3bTFhSGZwMklzUG4tamwzZ3k4Z2FrbUlmbzhieDZfT0dLN1VDY0g3NW1weUpmd2JsWkZIMy0w0gFkQVVfeXFMTkZQSU5SWHUxUDB4WUl6ZThOOEo1RWxKZmJCeXZOZUg3VnVKellXSUJPek44ZjlQSWlkbzMtb3RWd3JKVGtSY0xvQnM0c0g5U1FMZUlxU1VVc0JzYjBpby1wbF9wVw?oc=5"
     },
     {
       "title": "台股單日暴跌2,900 點寫下歷史！崩跌3大主因、重災區與避風港一次看｜股市話題｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
@@ -143,10 +147,6 @@
     {
       "title": "宛如2000年網路泡沫？美銀示警「美股崩盤」 PTT投資人狂酸：反手作空、準備賺爛 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPRUl2TkhmeWpiaW9RNDVpSnFUNHRjcmNsNXIwVnRwMEI4SUljMzNPV1BzNk5wd3B4TVAyN1hkRTM3dUxJWHhpSHpiYnU0eFU0eEFuejFUZm9wcVRLT0h3R0pzZ1BMdzlJaDhnX0xGekZsdGo0RmVMNXQzQ1kwdmdfU2c1REQyWFFXNmhUSExzbGpzWmhaMG9oeXJxWS1pT1R2U0RibkVSdnNDay02eXJ4TG43YjBOY3RMNlFyc0xhTUIzeGttZjFtdmJycWRqa0k3THBGUXFSc3FIdFNwS0Y0OEh3NGQtTlVfQzhwb0xBaVFRaDduX2U0ZzI3cTROY2pyVjczQ1lTM1JOLWJyUFJibW1KX01OVWZfUkNzaVlwMEl5SFNObmhoc3BlTUs4WlNKWUlzcllaNE9zaEN0ZzlDSXpjUEt1a2FEUEtuMTJEcVZDUnhZTGtKalpnREEzTEc4VnNYSUdtMFd1NV8wVHptaTBGbjFqcG9zYldpWXlVMVd5bVAxQ3k3ZnJn?oc=5"
-    },
-    {
-      "title": "台股崩近3千點 投顧：是否止跌看3訊號 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WVktoYTQ3ZV9SOWVfaVYxSmJ1dkdNMlpyZE5KUHgtQlBkZkdKNHBYNDhub05TcVNJZkY5RnEwbEQxbzlyZVluWlZsOWVMek1j0gFWQVVfeXFMUFE0QUpISk1yWTUtTmI1SE4yVjRLY0s5NVd0V3N6akhnUHVyR1laamx1aWpJRmR3RzY4VS1TOVVkSWhfdE9XY2p3dUFLV2dwZHR6RzZwWkE?oc=5"
     }
   ]
 }
