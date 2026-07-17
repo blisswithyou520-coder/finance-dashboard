@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/17 12:25",
+  "updated_tw": "07/17 14:37",
   "taiwan": {
     "2330": {
-      "price": 2350.0,
-      "change": -120.0,
-      "changePercent": -4.8583
+      "price": 2290.0,
+      "change": -180.0,
+      "changePercent": -7.2874
     },
     "2454": {
-      "price": 3410.0,
-      "change": -290.0,
-      "changePercent": -7.8378
+      "price": 3370.0,
+      "change": -330.0,
+      "changePercent": -8.9189
     },
     "2317": {
-      "price": 235.5,
-      "change": -7.0,
-      "changePercent": -2.8866
+      "price": 234.0,
+      "change": -8.5,
+      "changePercent": -3.5052
     },
     "0050": {
-      "price": 101.0,
-      "change": -5.3,
-      "changePercent": -4.9859
+      "price": 100.15,
+      "change": -6.25,
+      "changePercent": -5.8741
     },
     "00878": {
-      "price": 32.01,
-      "change": -1.2,
-      "changePercent": -3.6134
+      "price": 31.81,
+      "change": -1.14,
+      "changePercent": -3.4598
     },
     "00919": {
-      "price": 29.06,
-      "change": -0.71,
-      "changePercent": -2.385
+      "price": 28.93,
+      "change": -0.62,
+      "changePercent": -2.0981
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63335.36,
-      "change": -1377.015,
-      "changePercent": -2.1279
+      "price": 62878.57,
+      "change": -910.7113,
+      "changePercent": -1.4277
     },
     "ETH": {
-      "price": 1847.4,
-      "change": -69.5437,
-      "changePercent": -3.6278
+      "price": 1833.28,
+      "change": -29.9134,
+      "changePercent": -1.6055
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.324,
-      "change": 0.1131,
-      "changePercent": 0.3511
+      "price": 32.37,
+      "change": 0.1591,
+      "changePercent": 0.4939
     },
     "JPYTWD": {
-      "price": 0.1967,
-      "change": -0.002,
-      "changePercent": -1.026
+      "price": 0.1972,
+      "change": -0.0015,
+      "changePercent": -0.7744
     },
     "EURTWD": {
-      "price": 36.998,
-      "change": 0.0462,
-      "changePercent": 0.125
+      "price": 37.114,
+      "change": 0.1622,
+      "changePercent": 0.4389
     },
     "CNYTWD": {
-      "price": 4.7757,
+      "price": 4.7871,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3990.9,
-    "twd": 4148.0,
-    "tael": 155531.0,
-    "twdTotal": 129002.0,
-    "changePercent": 0.133
+    "usd": 4007.0,
+    "twd": 4170.0,
+    "tael": 156381.0,
+    "twdTotal": 129707.0,
+    "changePercent": 0.5369
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,8 +121,8 @@
       "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOTmVjVnJDV0N2N2J4TUlUNFRjY0pveFNYT0dVTEVkY1o3UmdFNG0zM0FYcC1XeXN2cGdWWUU2cWhPQ3UzX0E1TzZqT19fOVBQVXp4TjRnZlBhMkVwcnYzdzZXaEE4b21GZXNyRFVlQXRPM0x6VW1Ob1p4cS01OHNUSjB0RXQ1X0ZhcTBBSUc1Wng4S05yV0Rpbm1OckdaYUliMTlTdjBoSXZlWGRmT2xNNUdscXQzeVJYYTVfM2hFZWVFVVBBSnFzSUp2OW9oV1VKdUJlU2JVWkF5WjFEOUJpMmh0UkZDQmNqR2FScWpSUEowQXMxNFVIQkQxTnBKbWtNdUNGbFVQZkRMZGZYSmRNWTBlMTU1bFdTSXRJTkZudnhXQ0dLeEVyWS1JNF8wN194T0VlV2xHNTlYbm1OOEx5UlpRQTR4bnRCRC1BZEREYjBuWWEtT2pjMEFKQWFrRTV2bzZjUnRCdTUtbWVDU0E4VQ?oc=5"
     },
     {
-      "title": "黃金還沒跌完！美銀曝光真正買點是「這價格」：別急著抄底 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWeVlUS1hibXpNT2hRcWRPUWF2a3AwZGJNbURabHlHazVLNGYyZHBhaEZwMi1fanY4ZTNiSHNJaThNMnJoaVpxNEJ6ZlhoblRXWjMyRmREQ1d0RjhaeFkw0gFkQVVfeXFMUGljQWgwc3BnREdPaE9VVXVWQmJZcGpmUEJRakJ0MktNaDd6SFAxZXM2Vldzc0otcG9DVzNLd05WeTB2YlFLVkRPa0JfS2dCODFQZ1dWdWpqYW5oV0cwVmJfbmpzSA?oc=5"
+      "title": "黃金慘跌！該逃還是加碼 德銀最新預測曝光 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4OTBGSnF0RmdfSlRQSXFJX1NSSzVCLXFqSV9PZ0J3c3V3bTFhSGZwMklzUG4tamwzZ3k4Z2FrbUlmbzhieDZfT0dLN1VDY0g3NW1weUpmd2JsWkZIMy0w0gFkQVVfeXFMTkZQSU5SWHUxUDB4WUl6ZThOOEo1RWxKZmJCeXZOZUg3VnVKellXSUJPek44ZjlQSWlkbzMtb3RWd3JKVGtSY0xvQnM0c0g5U1FMZUlxU1VVc0JzYjBpby1wbF9wVw?oc=5"
     },
     {
       "title": "美股收盤／四大指數收黑…費半重挫4%！台積電利多失效晶片股賣壓重| 全球財經| 全球 - UDN",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XbHJGdjE3VHhZbVVfZ1lxYkg3OWl6YlhzRzhSNVdNejJ1aUI4MEFqelN0bVg5MHNXbVdjbDJUajhqQnJHTnRvX3dnYi1TZWc?oc=5"
     },
     {
-      "title": "【美股盤前】台積電報喜竟成毒藥？美光、海力士雙雙倒地！費半修正20%牛市終結，還是健康輪動？ - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiugRBVV95cUxOb2IwR3h1X0RpT0NHd0o1aWV6YU5mUGJRcnM4SG10WmYtdXJkMVJkSm1ZQk9rSmdXU2dTakpMalBnemNPM1JFd0pDZ1pqcmFaSWV3c3JxektQdkVpeldpV0JHOWZvb1JEa2hnd3VCNjFRLW5CdUJ2WWo2QzYtLVduVnVQUE5sdjlMdWRiOU1YSTVraF9OODl3cmFvVGJRYS1TbUlqbzRiYlJPSTdESFBEcF8xOGZNa0ZGakhyWTYzZFZ0blpSRFN5ajJVaWRZZ3pNLWkyNElncUZVbVRRRFI4b2hkb1BBSnRFaXJsaGxfRVpuN0E4QlNfTWNyaTZkNWxoVmxDT2JrNk5lelpoQXhsa09Cb1Bzc3ZrUndsWWhxZU0wR1I4bW1SWXZCQl84WHNSVkJiT0xjRkJxY1pJbENIbGhkazhuN0pRZlc0Z1NiRDFqZDczUm5MX0dkMHVoQzhqVURsOVpRaUp3aTVUV05JRlhJMkhuUnQ5NWNRb0NwektKWlczSExUdUYtMTlOeV9jR3Q0Tk1wZWR0VkR3WmtyOF9EZUdkZ01GRjZOREhWc3ZFZXU4SFlCb25YdEV0b0VMSU0zYzlMRi1GYWd0SmlYLWV0LXVEQUEtbXh5Mkx4U3RqMEhZZEQ2N3M3QWNQZkE1ek5sa1EwWW1XM0kyMVljRjUwLUdJQ3VfYkNKeWVFM2RtQzZVSnlWbTBMQTh2cll6aUV6VUhGaS1NeFUxMV94VHpGeTg5N3NmQUE?oc=5"
+      "title": "美股盤後｜台積電資本支出上修誘發AI獲利疑慮，費半重挫逾4.0% 0717｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPQXprc2J6ay1Ja3NyT0hnV0ZQcVdBQ3dMVmx3U0o5Zk83dDRUajR2ZGI5emRjMHdQcDRYLXhQaHZab3NxN21nekxGLXRtanFFZEx0ejBMNTlHN1o5VEtYb3JQNUhQR2ZQVkJzM1JkMDFEenZOdUZrVkNJa1VaXzJoLUIydURUdXR0Y2xsNFF4VEZyeTZxd1dMVXhCX0lxaEMtSDlSajQ5VFhWZldOTDJvVnZvVlVsSkRsQllQWGp4UGhTSFpJZW5DLWZLckJnTmo2YzFjdlVKTUk0Z09GdW9KSkpQVV9ZVDVfOXBqYmZoUzFJWEtmbHViWEhySTFGa2t4QkdwOWF6LTNkWkFFTjdZQ3NqUjFsczZJQWpVeVhkckZIR3NpM3QtWTRoVVF0UWhDVi1MazZXWkNfU0dqX1JjdUJFTUpwOC1ibWEtSFA5UEJOTU5kanp2Tkw1b0t1bS1MUnBxSkY2T3RkM1ZUa2ZBUGQwdDFQZGY3YUF2VUNuZlBxampIM09mbjVQTzFUTlhZZVNkQm5SMGpVOFUxY2pQYUVWODJub25kZThjQi13?oc=5"
     },
     {
-      "title": "美股挫跌風險胃納減 納斯達克重挫逾1.4% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNOFZTTkdJN25aNWpNb2YwZXM1TDFnTkRReUVqZzdEZk5QMHNKYVVnUGI4bEpKSUtQQndLQ3p5XzN4OHh2VU9PUGNhbWVlOFRZWFRVR0wwNjVuakVuTk8wcDBVVjBqcnpsZUtvVGcyVnR3WTJsb1VzLVF6RS1DVG5DdV9WNExqWVVXcUxVLTNWeVdrMlRydzdCeTRQUGxKZTRoR1l2N0plVUxHMVJsX2VWWVNWS2pFSnJYZEtDcFhnMnZPUGVYQm44aUhGTEszOFpUbmE2YnI0YndpNmJNVDh2YTZYTXg3aHVPX2kwUjRqbERIazdJdnQ5cWtmUmhMTlZkTS1sYkdVWldOY3ktblp3QTBNMDVHSlFnQkJ0SzZ2SmI?oc=5"
+      "title": "美股全面收低「費半暴跌逾4％」！台指期夜盤挫跌976點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQc2d4T0EzT21tZ2JFenVFcDczcWNpczZkYTA0VXpWZFlmT1dTbHVnUTFaVV8tazdKRFo1YURpalRDc1JfWU9tclFWZTNCQ3ZzM3psZ252WWhPVTlMeUo5UUROdnNIa3NGVlRsSWM0eVRoZzRiT3FuZnZ6YVctaEZIdXl6VGZCbHhxbXpPQmNMY2d4aFF3eWhDT0c5V0FkWGZ0aC1wN2FDcFFqZ1N4YjZNYWN2QTNEeHdNRWRCSnpacnFDN3loR1VIUkYtbFI1cXpBTGRxcGc2RlpkejBTakN3VnVGS1JOcmRoNkZkRGlsSzBiVThpd0JuYU5jRHJCeFVtODc0ejVIYzMySXMxODlidWVqS3Uyd0dBOEl0NDR5Q3lTSGRmX3dxMUtmSmdIYngzdkY5M2gyaWxWT2U5bVdoZEY4d1k2dVE?oc=5"
+    },
+    {
+      "title": "黃金還沒跌完！美銀曝光真正買點是「這價格」：別急著抄底 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWeVlUS1hibXpNT2hRcWRPUWF2a3AwZGJNbURabHlHazVLNGYyZHBhaEZwMi1fanY4ZTNiSHNJaThNMnJoaVpxNEJ6ZlhoblRXWjMyRmREQ1d0RjhaeFkw0gFkQVVfeXFMUGljQWgwc3BnREdPaE9VVXVWQmJZcGpmUEJRakJ0MktNaDd6SFAxZXM2Vldzc0otcG9DVzNLd05WeTB2YlFLVkRPa0JfS2dCODFQZ1dWdWpqYW5oV0cwVmJfbmpzSA?oc=5"
     },
     {
       "title": "美銀再示警美股恐重演2000年泡沫！網反喊「進場訊號」：每月都崩一次 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qMmNaVHBvSERMRFQwUk44UUVQWkhoY2szUGZ2UzdtM21pYUplek5iMTAwdkZVaGtzLWR2YTZWdUZwSFc1TWJ4dEdLOFJOTHMxOFHSAVdBVV95cUxQX3FUY1pHMDRlWlZ1bWZBS2JJSDB1TzZFRzVaWHg5YVhtUDJOeGtVNG1tRlNxdF95V3NFaGF1bl9iSWkyNGpQeFN5Tk03WExqSDk0cHZpa3M?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉費半重挫超4% 台積電ADR跌逾2% SK海力士ADR慘崩超13% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YRWtOWEhZMjhGOWJyZ2VIbW1pS3FyQzNWZ0E5UFNpeDNQZHZiN2hMX2xlaWVRZVBQOE1IYkU3aFpDaEpkSl9QQ0hYdUFOQm8?oc=5"
     }
   ]
 }
