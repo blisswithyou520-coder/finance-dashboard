@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/18 22:51",
+  "updated_tw": "07/18 23:56",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64130.56,
-      "change": 231.0991,
-      "changePercent": 0.3617
+      "price": 64081.16,
+      "change": 181.6991,
+      "changePercent": 0.2844
     },
     "ETH": {
-      "price": 1844.72,
-      "change": 3.7318,
-      "changePercent": 0.2027
+      "price": 1843.08,
+      "change": 2.0918,
+      "changePercent": 0.1136
     }
   },
   "fx": {
@@ -117,20 +117,24 @@
   },
   "news": [
     {
-      "title": "台股超級強！不懼美股全面崩跌 台指期夜盤逆勢飆漲877點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNX3RVaTZoVFFWUnBQa2FYRTNKZEpWeWpSV0t1aUp3dmRjNUUxZlNSUkhNQ3VUZEZubFlsRURtV1ktLWUtTDBTTXR0UU96aGt0S2ZOOEVzd1NuNnFrZUZweWprcUlrUkh5eldOTDhQaFNZdTF0aG9MMVFyYXM5UDRGa3FTYnQxMGMwYVVXQ1Jvakh5enVicVNZLW1oTGNuUnVvNlk2Z08tQmZSX29ueHo2bDdQVVhyT3Jib1NRdjBvb2pGNU94LVRYbldZMTZFdEpUMTV4aUJxNXJwc1EyRXpZbl9HUFJ6QlU3WFVGM0Y1VjBrX1BZYlZsVWF2WUFtQWs3S3FLTXNENVhROUpmYnRlSzE3NHlYeFUzcy1HMTlFeU1pNy1fS3l6ZVVDZkRNTVhYTGQxNUM3Z3k5SU5PWGtoMmdNR2xodTdmZDIyZjU2VHNsbGJnYmtzdzFMNGJ3SllDSmgtQ0w1UkM1V0ZvTDlkQnZySjhXQQ?oc=5"
+      "title": "台股重挫怎辦？專家揭2策略：確認這1物有無改變方向 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQeDE2bnVYRzdxNzhfTUpxcWdHZ3htNEhzYnlBVzJ4UWRPZldMYVBXX2hLdVhSdmZxY0E0TkcyS3RwWG4wdnl4Zml5WDMydzlhdWZ0dXIxLXQ5MVk1NEZTdXVjaXZWNTJTTERFWVEtemlpYkxSaUlkYlVvX1pDTDc4YlRBVURldTFQamZxaEh2NlloMTl6YzE5eDZxdnJzN3g2aVhyR2Zwc3JfMnAzZC1qVjltb3RkbVNNUFZ1Y3hpNGszSUt2WmhIYlJUSjd2bTc5VHA1R3RmUXF3eGZQYk5lbGVyTGVCMHFKTGpHaG9RV1JQZ1dwT1RhMDdMUlpva3lHaWhmVDhMWVBGbzRCSzYyYnRGWi03S3NTWE9yenZrQ0VLbGM0UnYtTXh0dzAxSlotNkpYckpMdzI2TlM2R01nYl9TOFB3TVpYUy1hZVZkTGJpWnJaU092ZmxNbWo?oc=5"
     },
     {
       "title": "〈美股盤後〉晶片股賣壓不止 那指跌1.4% 費半陷入熊市 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EYk5UWnJELXRMZ2NOTkxZdjg2T180LWZNNUxmV2xWZDV0ajFVQXA0bHdqM3FSU25KNmdZX3QxRkMxcjVDQ1FibnlUa0dFTEk?oc=5"
     },
     {
-      "title": "崩盤8000點 台股生死的關鍵！ - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NS0syN095OE9MRVJ1YURvZWxURk9mdFFDeWVVdlZvQWtqQVc1Tkd4d1hEVzBkU0JUMTVmRWtWOXJwU3cxaDFzbjhsS3NJSHhMMUdKLTl0bTRwQdIBX0FVX3lxTE9kOXhaY3h6cDF0bzlJdUwyNjJPUFh4b3V4VFZiMUl5Y0d1Qk9sb1Z1SHB1WnNyRVQ2MUwyOUdiUEFlT3M4LVdKdUtwVV9oY1gxWVplSFpuQVRidUd2VjZr?oc=5"
+      "title": "陸黃金急漲急跌，投資人陷觀望 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VSTEwUXl1bHM2ZjRGY1lZaHpVUGVhZ0NlMDFKa2FzZWJWdVNsc19oTG1wOEM3T1R2UVBINjlmLWYyWWU1R2xISTg2VjZzZmkw0gFWQVVfeXFMT1ROa1RlMjJhV3lxRmFzS1lySlZYM0Z4ZVY1NDh6RVNrNTZZX1hfYklhZnNiMHFRS1FqWkxzTlYtQjRyYjFtUWN0MDZOUFphNW8tZFZ2Tmc?oc=5"
     },
     {
-      "title": "台股重挫怎辦？專家揭2策略：確認這1物有無改變方向 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQeDE2bnVYRzdxNzhfTUpxcWdHZ3htNEhzYnlBVzJ4UWRPZldMYVBXX2hLdVhSdmZxY0E0TkcyS3RwWG4wdnl4Zml5WDMydzlhdWZ0dXIxLXQ5MVk1NEZTdXVjaXZWNTJTTERFWVEtemlpYkxSaUlkYlVvX1pDTDc4YlRBVURldTFQamZxaEh2NlloMTl6YzE5eDZxdnJzN3g2aVhyR2Zwc3JfMnAzZC1qVjltb3RkbVNNUFZ1Y3hpNGszSUt2WmhIYlJUSjd2bTc5VHA1R3RmUXF3eGZQYk5lbGVyTGVCMHFKTGpHaG9RV1JQZ1dwT1RhMDdMUlpva3lHaWhmVDhMWVBGbzRCSzYyYnRGWi03S3NTWE9yenZrQ0VLbGM0UnYtTXh0dzAxSlotNkpYckpMdzI2TlM2R01nYl9TOFB3TVpYUy1hZVZkTGJpWnJaU092ZmxNbWo?oc=5"
+      "title": "美股收盤》道瓊跌406點、費半陷熊市！台積電ADR下殺近3％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ocGtDb29iMXFGd2dLeVZvMFVTMjVubTN3U2xOVXRyWWZUaC1nbldGa01SUzZ1S01SdjRxN3pya0VvNDM2ZGpxYTE3NFFUZW9nVE5CTnBIX05ldVdUajRV0gFkQVVfeXFMTnZhWGpUWk13OGxjeXNpTjRuMDMtVU1LcHgxblRiZ1BBdnRmeEpmWDg2YVBjZzZKYlJZR0VhRjlxYTdDMnFYM0pvRmlHbVlJYUU2YjV5Tk5MSlcwU3NGbTllOERrXw?oc=5"
+    },
+    {
+      "title": "台股超級強！不懼美股全面崩跌 台指期夜盤逆勢飆漲877點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNX3RVaTZoVFFWUnBQa2FYRTNKZEpWeWpSV0t1aUp3dmRjNUUxZlNSUkhNQ3VUZEZubFlsRURtV1ktLWUtTDBTTXR0UU96aGt0S2ZOOEVzd1NuNnFrZUZweWprcUlrUkh5eldOTDhQaFNZdTF0aG9MMVFyYXM5UDRGa3FTYnQxMGMwYVVXQ1Jvakh5enVicVNZLW1oTGNuUnVvNlk2Z08tQmZSX29ueHo2bDdQVVhyT3Jib1NRdjBvb2pGNU94LVRYbldZMTZFdEpUMTV4aUJxNXJwc1EyRXpZbl9HUFJ6QlU3WFVGM0Y1VjBrX1BZYlZsVWF2WUFtQWs3S3FLTXNENVhROUpmYnRlSzE3NHlYeFUzcy1HMTlFeU1pNy1fS3l6ZVVDZkRNTVhYTGQxNUM3Z3k5SU5PWGtoMmdNR2xodTdmZDIyZjU2VHNsbGJnYmtzdzFMNGJ3SllDSmgtQ0w1UkM1V0ZvTDlkQnZySjhXQQ?oc=5"
     },
     {
       "title": "台股重挫2953點！理財作家曝1觀點：反而該開心 - UDN",
@@ -143,10 +147,6 @@
     {
       "title": "台股重挫2953點！他急問「只是技術性調整吧？」 投資人狂酸：又回歸基本面 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOeFZxeEVZUkEyM3MtbGF4dERjdTlSV0ZXdnBiM0ZpcXVjd25rMkVYdDNyUzBXdTJ4ZncyWXNVZ1gyMkFFLUprZEo0Mk9rSXFXbW1RNkpBa1paXy1UbzhBS2RHdk5GdXZTby0xZU9vWXRFUGMtUTdqYnE0ZkkyUlRGZlc2dmhUODRqLXhQNDlIbGczdnd4M09VNkRLcUNZci1CQ1FKZzNqN2FDeXVYOW85ZWJjald1UEVMVDRhNVVMOEZZS2pNN3E0ekxkaVZUSnRPS3RHTlZoWlQ0MHhwWmZyU0JoczBFOXRxWDRpNm1JZm5MNXJZT2dVcF80VnQwVHM5RFNMRlM0aE5TSjFVdld3Wk9kRU83REY3WWRlbG9YeUc3ejF6Y2VyYjhjNUVtX1JLVDNkNmVuSmlCZWJENWpHUF8wQ1dOTUptZUZPVTJ4VExPUmYzZ3NfR1FUWVh5NVJDbVVNVVNPQVEtcGpxR0xYMktnbmJwaVNyWDh4aS13Y1FmeWVEbVcybUYyWHoyd2VZX3FBaUNxWDREdFhJcXRHNTZjb1RMU0hJQXc?oc=5"
-    },
-    {
-      "title": "台股跳水近3000點！財經作家喊「沒提醒要賣」 2檔ETF最佳進場時機出爐 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQOE1fd2l0V2t5dGFhNjVlazNlWURyUkFzc0RZYmNzaXctQWE3TU9HeU9VbElHTzI1YVkzVVhCdUlXeExUeVNTZ0hUUWJsTi1qRXBocjlNNF90UHZYN2x0UXVxUHQzSjVFSnNaWkZPM0toRXE0VWE1OUVHbXp0bFNyTjZndFJBWWRZWUNYNEg2cGVvVGc1cjlXTmN3WkVnNTBjZFhJYml4eUVtcUlvdUpqeHhfdlJYcmh0YUZvcDYtVklvT0stcHR2LXpJY0plVXE2dG1ZcHlnN3JJYVR1VXNDUm1YcU9kTnVIbGU0T1AxTjFXSGNUUkpLTVA5T3dNOFBDLUQ5MldGYmx5d3NVSDFvOUhrUmhXYXY5dUhtaXhQa3BoX1RPWGlGVzNoMTUxZjdUZE5JSm5kWUJZdnhLTmdYRGFoZmlVTU1ZTG03ZXN4R0hzVHRMdzFSN242VGxCbk11ckw2Q3VNcHpLdDljbDVvcElaM1kxQy1RWlNhQW9TRVFieThCaFI2U1lYZDR0TnZ0bG04RFNR?oc=5"
     }
   ]
 }
