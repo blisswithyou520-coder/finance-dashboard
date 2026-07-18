@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/18 12:14",
+  "updated_tw": "07/18 14:21",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 100.15,
-      "change": -6.15,
-      "changePercent": -5.7855
+      "change": -6.25,
+      "changePercent": -5.8741
     },
     "00878": {
       "price": 31.81,
-      "change": -1.4,
-      "changePercent": -4.2156
+      "change": -1.14,
+      "changePercent": -3.4598
     },
     "00919": {
       "price": 28.93,
-      "change": -0.84,
-      "changePercent": -2.8216
+      "change": -0.62,
+      "changePercent": -2.0981
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63950.3,
-      "change": 161.0188,
-      "changePercent": 0.2524
+      "price": 63958.39,
+      "change": 169.1087,
+      "changePercent": 0.2651
     },
     "ETH": {
-      "price": 1843.6,
-      "change": -19.5934,
-      "changePercent": -1.0516
+      "price": 1846.01,
+      "change": -17.1834,
+      "changePercent": -0.9223
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4023.0,
-    "twd": 4186.0,
-    "tael": 156981.0,
-    "twdTotal": 130204.0,
-    "changePercent": 0.9384
+    "usd": 4018.8,
+    "twd": 4182.0,
+    "tael": 156817.0,
+    "twdTotal": 130068.0,
+    "changePercent": 0.833
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,8 +133,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41eGRfQkk3bXh4WUo4NGxGR21XT2IwX1ZoMW54LWRKSVlHQUVBY0hHT0JIczluR0wwOUY4a2R1Zkx1WkJBNnhpeEdILW1BMnFo?oc=5"
     },
     {
-      "title": "台股超級強！不懼美股全面崩跌 台指期夜盤逆勢飆漲877點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNX3RVaTZoVFFWUnBQa2FYRTNKZEpWeWpSV0t1aUp3dmRjNUUxZlNSUkhNQ3VUZEZubFlsRURtV1ktLWUtTDBTTXR0UU96aGt0S2ZOOEVzd1NuNnFrZUZweWprcUlrUkh5eldOTDhQaFNZdTF0aG9MMVFyYXM5UDRGa3FTYnQxMGMwYVVXQ1Jvakh5enVicVNZLW1oTGNuUnVvNlk2Z08tQmZSX29ueHo2bDdQVVhyT3Jib1NRdjBvb2pGNU94LVRYbldZMTZFdEpUMTV4aUJxNXJwc1EyRXpZbl9HUFJ6QlU3WFVGM0Y1VjBrX1BZYlZsVWF2WUFtQWs3S3FLTXNENVhROUpmYnRlSzE3NHlYeFUzcy1HMTlFeU1pNy1fS3l6ZVVDZkRNTVhYTGQxNUM3Z3k5SU5PWGtoMmdNR2xodTdmZDIyZjU2VHNsbGJnYmtzdzFMNGJ3SllDSmgtQ0w1UkM1V0ZvTDlkQnZySjhXQQ?oc=5"
+      "title": "台股週一穩了？ 台指期夜盤反彈收紅近900點 - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNdzhpeUE2NUdNMnhNemRGVlJiMENJUk1MNmxaQS1qX1B5dHJqQzY3MDVMZGduV0w1a2JoMmIzdlF5N0pwcjc4N3dPNzNyUThWeFN5cVN0RHpaZkctSTZnU3p0X0tFdXhsdVdxcGMyTUV5NWQ2MjRIdU8ydXhYU1FGNmVTbnlubjRjVzFfWVl3ZlNSZWt3anFRX05JQlFyN0dRNVRWc2tleklwMG5ONUdhUFZMQmJTUDhNaFlFMGozQVJkSkNkT19pZmdINzUyU1V5ZmdYd1gwVy1iUUprTm1FcEg5dENxNmVSdUZ3eE9sN1dJYnhwODVzTWppcEJqcngwYzhJMEk5V2pDVUlHTlFRUF9XMWFaa0hwN3ZCTHRtZXNkdGczSkZia0lwMEtWX0htOVdCN2lXNDVIQQ?oc=5"
+    },
+    {
+      "title": "台股跳水近3000點！財經作家喊「沒提醒要賣」 2檔ETF最佳進場時機出爐 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQOE1fd2l0V2t5dGFhNjVlazNlWURyUkFzc0RZYmNzaXctQWE3TU9HeU9VbElHTzI1YVkzVVhCdUlXeExUeVNTZ0hUUWJsTi1qRXBocjlNNF90UHZYN2x0UXVxUHQzSjVFSnNaWkZPM0toRXE0VWE1OUVHbXp0bFNyTjZndFJBWWRZWUNYNEg2cGVvVGc1cjlXTmN3WkVnNTBjZFhJYml4eUVtcUlvdUpqeHhfdlJYcmh0YUZvcDYtVklvT0stcHR2LXpJY0plVXE2dG1ZcHlnN3JJYVR1VXNDUm1YcU9kTnVIbGU0T1AxTjFXSGNUUkpLTVA5T3dNOFBDLUQ5MldGYmx5d3NVSDFvOUhrUmhXYXY5dUhtaXhQa3BoX1RPWGlGVzNoMTUxZjdUZE5JSm5kWUJZdnhLTmdYRGFoZmlVTU1ZTG03ZXN4R0hzVHRMdzFSN242VGxCbk11ckw2Q3VNcHpLdDljbDVvcElaM1kxQy1RWlNhQW9TRVFieThCaFI2U1lYZDR0TnZ0bG04RFNR?oc=5"
     },
     {
       "title": "台股重挫2953點！理財作家曝1觀點：反而該開心 - UDN",
@@ -143,10 +147,6 @@
     {
       "title": "〈美股早盤〉晶片股賣壓未止！主要指數開低 台積電ADR挫逾5% - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1na052RUxsZHJmYnQ1Y3lkZzAwaHhSTWRuZDRHVTREdlBFbHJJdEZnMjdYNDE2ZzN2UG5QZ2lHa0pGemdlS3I5amc1NnFfTWc?oc=5"
-    },
-    {
-      "title": "美股接棒續殺！台積電ADR跌逾2％「慘回3字頭」 美光漲2％、SK海力士ADR漲3％率記憶體反攻 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOM0pxdWt2b3ZkejJuRnRsb0I5NWlQUy1XOEZqc2g5Z3dPNi13WUlQU0toZkRNSDB4TTk5NFRoOU1xYVNRX2FlU0xjX3c5SVVMV29IZWxuWkxTdHVtc0J0X2xrTWEtVW1rOGdUZDBDRW4talZvNjBZTkRUMkdmaVJReTlVWU5OZ2lRUGthb1FMS2t3TEFmQVp0RVJiOGh5R01rMDZJcTlLZGlfbEIwLXB5VDdkb2wxLU9SVmo2WThQWDdja3ppYUFYdzQ2ZkNIN1RUMVc3SFhqaWI0YUpqRURLWE8ySjNKVjdsVll2bjhQbHNCdjVDaXlMZE82QVdUWmNmblZkazZPWUt0dk9hbXk5OVpQV2NQR1FFY3RDRHVNWnpxZ1ZFRW5pN0VDQTJpR3Y3WFdkM2VPSkFKVEJXbkNsZUlkYlJIYy0zZW41RDhwXzZLVWdYVksyakxzcnNFQXQxaHBFZWkwcTlOOFJRVUNlemJZUEJYa3Qz?oc=5"
     }
   ]
 }
