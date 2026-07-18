@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/18 23:56",
+  "updated_tw": "07/19 00:59",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64081.16,
-      "change": 181.6991,
-      "changePercent": 0.2844
+      "price": 64243.85,
+      "change": 344.3891,
+      "changePercent": 0.539
     },
     "ETH": {
-      "price": 1843.08,
-      "change": 2.0918,
-      "changePercent": 0.1136
+      "price": 1844.43,
+      "change": 3.4418,
+      "changePercent": 0.187
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股重挫怎辦？專家揭2策略：確認這1物有無改變方向 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQeDE2bnVYRzdxNzhfTUpxcWdHZ3htNEhzYnlBVzJ4UWRPZldMYVBXX2hLdVhSdmZxY0E0TkcyS3RwWG4wdnl4Zml5WDMydzlhdWZ0dXIxLXQ5MVk1NEZTdXVjaXZWNTJTTERFWVEtemlpYkxSaUlkYlVvX1pDTDc4YlRBVURldTFQamZxaEh2NlloMTl6YzE5eDZxdnJzN3g2aVhyR2Zwc3JfMnAzZC1qVjltb3RkbVNNUFZ1Y3hpNGszSUt2WmhIYlJUSjd2bTc5VHA1R3RmUXF3eGZQYk5lbGVyTGVCMHFKTGpHaG9RV1JQZ1dwT1RhMDdMUlpva3lHaWhmVDhMWVBGbzRCSzYyYnRGWi03S3NTWE9yenZrQ0VLbGM0UnYtTXh0dzAxSlotNkpYckpMdzI2TlM2R01nYl9TOFB3TVpYUy1hZVZkTGJpWnJaU092ZmxNbWo?oc=5"
+      "title": "AI晶片股疲軟！美股收黑「道瓊下滑406點」 台積電ADR跌近3%、台指期夜盤漲877點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPaTEyVzJaTW9nYXFVeWdEUnJ6czJ5R01rNHlTRk1lSk5tXzhpRlU2QTFKeHJDM29wUG1KaWZETU9OU0JQWFY3bVJjdUZnZExzUVowMmdsQVlvME9MT2lDYi0wTnJVQ0VXUnJWbHRuT1ZpY1JUdGZLUXJ1bDRuc3JveS15Q2RWaXdQalc1RnRCTnNIRnl2TVRPclNaN3BYelZQZUpXak9PdXg5M2lCWkJBOUNvWkR3TnRDazc2bm9wck9SUWxHNUlsN1FVZGpjZV9JeXJxTTl2NVk3aWNYU0tyQTA3ZXdaU0djclNTX1FXRHRNR3lyMjVna0dPVXgyYk16d0xOTFB5RlVBRGxYVnpvOHRrYktCaHgxOXRUdXpzUlNLcFRoWExndnpoYTdSRUhuODdFWXJEMXNSTzM3V2tfOXY4d015QXBra0tFakx5YUYxMTVyaXRmQjJsSTlZcF9wdUhKUzlKX1NWWVB3SUdMbkx2LWNBUEdaRVg4M0xiaEdOWW9RalpVWUdvZEkwMEdTSnAzTHlHczg0ZUlhajRZU3BqcGd2c1Bq?oc=5"
     },
     {
       "title": "〈美股盤後〉晶片股賣壓不止 那指跌1.4% 費半陷入熊市 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EYk5UWnJELXRMZ2NOTkxZdjg2T180LWZNNUxmV2xWZDV0ajFVQXA0bHdqM3FSU25KNmdZX3QxRkMxcjVDQ1FibnlUa0dFTEk?oc=5"
     },
     {
-      "title": "陸黃金急漲急跌，投資人陷觀望 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VSTEwUXl1bHM2ZjRGY1lZaHpVUGVhZ0NlMDFKa2FzZWJWdVNsc19oTG1wOEM3T1R2UVBINjlmLWYyWWU1R2xISTg2VjZzZmkw0gFWQVVfeXFMT1ROa1RlMjJhV3lxRmFzS1lySlZYM0Z4ZVY1NDh6RVNrNTZZX1hfYklhZnNiMHFRS1FqWkxzTlYtQjRyYjFtUWN0MDZOUFphNW8tZFZ2Tmc?oc=5"
+      "title": "黃金本週跌慘了 背後原因揭曉 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nSHpzVkFqdVNCS2NjZ1d6cXJKbVBwVnZjRlFnWDB0RmlaRzdrU0dUX2c2bm8zMXpYQkdIZnc5T0dXNkMyX1FldzR1WFVYMUVkMEF5MUh5UHB6TS0zSlRv0gFkQVVfeXFMUDBxNlRadF9GX3JRbDl6S2t5bDByVjRjNDViUW1hdS1jMEZ0c21vMjVwaDVkSklRb2o0R0NESG5zSmt2eGtKeS1IWnhDS05fbmlHYTJWWC1BdXhJVDFGTzhHWmhKWg?oc=5"
     },
     {
-      "title": "美股收盤》道瓊跌406點、費半陷熊市！台積電ADR下殺近3％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ocGtDb29iMXFGd2dLeVZvMFVTMjVubTN3U2xOVXRyWWZUaC1nbldGa01SUzZ1S01SdjRxN3pya0VvNDM2ZGpxYTE3NFFUZW9nVE5CTnBIX05ldVdUajRV0gFkQVVfeXFMTnZhWGpUWk13OGxjeXNpTjRuMDMtVU1LcHgxblRiZ1BBdnRmeEpmWDg2YVBjZzZKYlJZR0VhRjlxYTdDMnFYM0pvRmlHbVlJYUU2YjV5Tk5MSlcwU3NGbTllOERrXw?oc=5"
+      "title": "台股擂台／周冠軍「低調黑馬」陳奇琛 本周看好南亞、南電 | 台股擂台 | 證券 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GT0hqRTkxeTF0S0pOZzhzU3BuWkc0TERYTVBrOHlJVW1VUzl2WE1EMlMwTEl6THVuVkhrUHduRzJ5UGNOcE1kOV92V0JrRlRETEVWWWFiVE5HUmVH?oc=5"
     },
     {
       "title": "台股超級強！不懼美股全面崩跌 台指期夜盤逆勢飆漲877點 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNX3RVaTZoVFFWUnBQa2FYRTNKZEpWeWpSV0t1aUp3dmRjNUUxZlNSUkhNQ3VUZEZubFlsRURtV1ktLWUtTDBTTXR0UU96aGt0S2ZOOEVzd1NuNnFrZUZweWprcUlrUkh5eldOTDhQaFNZdTF0aG9MMVFyYXM5UDRGa3FTYnQxMGMwYVVXQ1Jvakh5enVicVNZLW1oTGNuUnVvNlk2Z08tQmZSX29ueHo2bDdQVVhyT3Jib1NRdjBvb2pGNU94LVRYbldZMTZFdEpUMTV4aUJxNXJwc1EyRXpZbl9HUFJ6QlU3WFVGM0Y1VjBrX1BZYlZsVWF2WUFtQWs3S3FLTXNENVhROUpmYnRlSzE3NHlYeFUzcy1HMTlFeU1pNy1fS3l6ZVVDZkRNTVhYTGQxNUM3Z3k5SU5PWGtoMmdNR2xodTdmZDIyZjU2VHNsbGJnYmtzdzFMNGJ3SllDSmgtQ0w1UkM1V0ZvTDlkQnZySjhXQQ?oc=5"
     },
     {
-      "title": "台股重挫2953點！理財作家曝1觀點：反而該開心 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtV3Z3ajRzSmJqbm5zZ2NTOFFBUGZMWWozeTNNT1hISGRQY0RlUGUzaUVGQXZocWxNWXZwVUJFTVZaV09CaDR3YXJidExxSG04dEHSAVdBVV95cUxObkRITjN1ZDRncEpSTHF3Z3JsVkdmQVlMaUtkR1AyNm1hYk5Kd1hXTlFtd0JlLTJOWlRfZEN3QkRnOEhJVURZMmUzaWNxLTZHOThTWnVCODA?oc=5"
+      "title": "美股收盤》道瓊跌406點、費半陷熊市！台積電ADR下殺近3％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ocGtDb29iMXFGd2dLeVZvMFVTMjVubTN3U2xOVXRyWWZUaC1nbldGa01SUzZ1S01SdjRxN3pya0VvNDM2ZGpxYTE3NFFUZW9nVE5CTnBIX05ldVdUajRV0gFkQVVfeXFMTnZhWGpUWk13OGxjeXNpTjRuMDMtVU1LcHgxblRiZ1BBdnRmeEpmWDg2YVBjZzZKYlJZR0VhRjlxYTdDMnFYM0pvRmlHbVlJYUU2YjV5Tk5MSlcwU3NGbTllOERrXw?oc=5"
     },
     {
-      "title": "AI晶片股疲軟！美股收黑「道瓊下滑406點」 台積電ADR跌近3%、台指期夜盤漲877點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPaTEyVzJaTW9nYXFVeWdEUnJ6czJ5R01rNHlTRk1lSk5tXzhpRlU2QTFKeHJDM29wUG1KaWZETU9OU0JQWFY3bVJjdUZnZExzUVowMmdsQVlvME9MT2lDYi0wTnJVQ0VXUnJWbHRuT1ZpY1JUdGZLUXJ1bDRuc3JveS15Q2RWaXdQalc1RnRCTnNIRnl2TVRPclNaN3BYelZQZUpXak9PdXg5M2lCWkJBOUNvWkR3TnRDazc2bm9wck9SUWxHNUlsN1FVZGpjZV9JeXJxTTl2NVk3aWNYU0tyQTA3ZXdaU0djclNTX1FXRHRNR3lyMjVna0dPVXgyYk16d0xOTFB5RlVBRGxYVnpvOHRrYktCaHgxOXRUdXpzUlNLcFRoWExndnpoYTdSRUhuODdFWXJEMXNSTzM3V2tfOXY4d015QXBra0tFakx5YUYxMTVyaXRmQjJsSTlZcF9wdUhKUzlKX1NWWVB3SUdMbkx2LWNBUEdaRVg4M0xiaEdOWW9RalpVWUdvZEkwMEdTSnAzTHlHczg0ZUlhajRZU3BqcGd2c1Bq?oc=5"
+      "title": "陸黃金急漲急跌，投資人陷觀望 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VSTEwUXl1bHM2ZjRGY1lZaHpVUGVhZ0NlMDFKa2FzZWJWdVNsc19oTG1wOEM3T1R2UVBINjlmLWYyWWU1R2xISTg2VjZzZmkw0gFWQVVfeXFMT1ROa1RlMjJhV3lxRmFzS1lySlZYM0Z4ZVY1NDh6RVNrNTZZX1hfYklhZnNiMHFRS1FqWkxzTlYtQjRyYjFtUWN0MDZOUFphNW8tZFZ2Tmc?oc=5"
     },
     {
-      "title": "台股重挫2953點！他急問「只是技術性調整吧？」 投資人狂酸：又回歸基本面 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOeFZxeEVZUkEyM3MtbGF4dERjdTlSV0ZXdnBiM0ZpcXVjd25rMkVYdDNyUzBXdTJ4ZncyWXNVZ1gyMkFFLUprZEo0Mk9rSXFXbW1RNkpBa1paXy1UbzhBS2RHdk5GdXZTby0xZU9vWXRFUGMtUTdqYnE0ZkkyUlRGZlc2dmhUODRqLXhQNDlIbGczdnd4M09VNkRLcUNZci1CQ1FKZzNqN2FDeXVYOW85ZWJjald1UEVMVDRhNVVMOEZZS2pNN3E0ekxkaVZUSnRPS3RHTlZoWlQ0MHhwWmZyU0JoczBFOXRxWDRpNm1JZm5MNXJZT2dVcF80VnQwVHM5RFNMRlM0aE5TSjFVdld3Wk9kRU83REY3WWRlbG9YeUc3ejF6Y2VyYjhjNUVtX1JLVDNkNmVuSmlCZWJENWpHUF8wQ1dOTUptZUZPVTJ4VExPUmYzZ3NfR1FUWVh5NVJDbVVNVVNPQVEtcGpxR0xYMktnbmJwaVNyWDh4aS13Y1FmeWVEbVcybUYyWHoyd2VZX3FBaUNxWDREdFhJcXRHNTZjb1RMU0hJQXc?oc=5"
+      "title": "台股重挫怎辦？專家揭2策略：確認這1物有無改變方向 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQeDE2bnVYRzdxNzhfTUpxcWdHZ3htNEhzYnlBVzJ4UWRPZldMYVBXX2hLdVhSdmZxY0E0TkcyS3RwWG4wdnl4Zml5WDMydzlhdWZ0dXIxLXQ5MVk1NEZTdXVjaXZWNTJTTERFWVEtemlpYkxSaUlkYlVvX1pDTDc4YlRBVURldTFQamZxaEh2NlloMTl6YzE5eDZxdnJzN3g2aVhyR2Zwc3JfMnAzZC1qVjltb3RkbVNNUFZ1Y3hpNGszSUt2WmhIYlJUSjd2bTc5VHA1R3RmUXF3eGZQYk5lbGVyTGVCMHFKTGpHaG9RV1JQZ1dwT1RhMDdMUlpva3lHaWhmVDhMWVBGbzRCSzYyYnRGWi03S3NTWE9yenZrQ0VLbGM0UnYtTXh0dzAxSlotNkpYckpMdzI2TlM2R01nYl9TOFB3TVpYUy1hZVZkTGJpWnJaU092ZmxNbWo?oc=5"
     }
   ]
 }
