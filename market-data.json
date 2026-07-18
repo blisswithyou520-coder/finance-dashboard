@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/19 02:01",
+  "updated_tw": "07/19 03:31",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64444.64,
-      "change": 545.1791,
-      "changePercent": 0.8532
+      "price": 64452.81,
+      "change": 553.3491,
+      "changePercent": 0.866
     },
     "ETH": {
-      "price": 1850.89,
-      "change": 9.9018,
-      "changePercent": 0.5379
+      "price": 1856.0,
+      "change": 15.0118,
+      "changePercent": 0.8154
     }
   },
   "fx": {
@@ -117,8 +117,12 @@
   },
   "news": [
     {
-      "title": "AI晶片股疲軟！美股收黑「道瓊下滑406點」 台積電ADR跌近3%、台指期夜盤漲877點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPaTEyVzJaTW9nYXFVeWdEUnJ6czJ5R01rNHlTRk1lSk5tXzhpRlU2QTFKeHJDM29wUG1KaWZETU9OU0JQWFY3bVJjdUZnZExzUVowMmdsQVlvME9MT2lDYi0wTnJVQ0VXUnJWbHRuT1ZpY1JUdGZLUXJ1bDRuc3JveS15Q2RWaXdQalc1RnRCTnNIRnl2TVRPclNaN3BYelZQZUpXak9PdXg5M2lCWkJBOUNvWkR3TnRDazc2bm9wck9SUWxHNUlsN1FVZGpjZV9JeXJxTTl2NVk3aWNYU0tyQTA3ZXdaU0djclNTX1FXRHRNR3lyMjVna0dPVXgyYk16d0xOTFB5RlVBRGxYVnpvOHRrYktCaHgxOXRUdXpzUlNLcFRoWExndnpoYTdSRUhuODdFWXJEMXNSTzM3V2tfOXY4d015QXBra0tFakx5YUYxMTVyaXRmQjJsSTlZcF9wdUhKUzlKX1NWWVB3SUdMbkx2LWNBUEdaRVg4M0xiaEdOWW9RalpVWUdvZEkwMEdTSnAzTHlHczg0ZUlhajRZU3BqcGd2c1Bq?oc=5"
+      "title": "台股重挫2953點「史上第1大」 蔡明翰：送分題出現了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPQjJJX2x1NUFCUU85Vk9uWGVCYkRpSHpfYVVJWjNZY2hZNWNtNEtCTUVvTk1UNkJXcXY2LURhVFNwWndvSjg5WkFhNUFQVTRRWXRVRng1SlhUbjVWNEVDbG1HOUlOMzVLNXZoTEh2N0psWlFKUktGR05zWjgxZ205T0YzUWZyRmIzbkVaaDJJNTNYTURpVnN0dUZkX20yN0Q2TjZvT2tZVXNvSzVTczJOX0d3alhvbXg0cW0zUnZCSndKdnVRT2ltZXRLbXBvc2Iwb1kzRl9LZlk3cTFxc2pJTEJFbHhnS0tqN2lKWFYxY3RYLVFtMmowUzNFUnFkbXRGbGxtcmc1bzAySEd3TkZKR0g0QnlSLVk4WmhxcjdYejlKQW9mVDV1ek9udGNONnpXUC1pbHdZYkJqVUlyUlE?oc=5"
+    },
+    {
+      "title": "台股三訊號撐腰再跌有限 法人估指數在季線月線間盤整 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRWFI5TVBHVDNlRkszS3paNzcyYlZDNUtqeXBNeVR3ejlqamhwR3FsVnEzeFhmaTQzcnotV0pRbWNzdUJYSnRDTlZKNE1zZWow0gFWQVVfeXFMT0NJd1BwSERLMnNUWU04WUhPZXlueFdxeGtVeDV0dXhvNFprMmNiUDY0bldRNE1yYUpJMDBZZDhxMGlqbDNUSDdSN0dpUm9vZVBKTm92a0E?oc=5"
     },
     {
       "title": "〈美股盤後〉晶片股賣壓不止 那指跌1.4% 費半陷入熊市 - news.cnyes.com",
@@ -129,24 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nSHpzVkFqdVNCS2NjZ1d6cXJKbVBwVnZjRlFnWDB0RmlaRzdrU0dUX2c2bm8zMXpYQkdIZnc5T0dXNkMyX1FldzR1WFVYMUVkMEF5MUh5UHB6TS0zSlRv0gFkQVVfeXFMUDBxNlRadF9GX3JRbDl6S2t5bDByVjRjNDViUW1hdS1jMEZ0c21vMjVwaDVkSklRb2o0R0NESG5zSmt2eGtKeS1IWnhDS05fbmlHYTJWWC1BdXhJVDFGTzhHWmhKWg?oc=5"
     },
     {
-      "title": "台股擂台／周冠軍「低調黑馬」陳奇琛 本周看好南亞、南電 | 台股擂台 | 證券 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GT0hqRTkxeTF0S0pOZzhzU3BuWkc0TERYTVBrOHlJVW1VUzl2WE1EMlMwTEl6THVuVkhrUHduRzJ5UGNOcE1kOV92V0JrRlRETEVWWWFiVE5HUmVH?oc=5"
-    },
-    {
       "title": "費半跌入熊市、美股半導體恐慌殺盤，中國AI模型Kimi有多強？ - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BTGFsZDgwOFZFSkxDRU5rSTRxVFlrRXVORkNJMmlnQnppUEtrdm5IYi1HSWh2YmlxSnVUUlJXRlV1UTZqOV9idEFjeTVWQQ?oc=5"
     },
     {
-      "title": "台股超級強！不懼美股全面崩跌 台指期夜盤逆勢飆漲877點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNX3RVaTZoVFFWUnBQa2FYRTNKZEpWeWpSV0t1aUp3dmRjNUUxZlNSUkhNQ3VUZEZubFlsRURtV1ktLWUtTDBTTXR0UU96aGt0S2ZOOEVzd1NuNnFrZUZweWprcUlrUkh5eldOTDhQaFNZdTF0aG9MMVFyYXM5UDRGa3FTYnQxMGMwYVVXQ1Jvakh5enVicVNZLW1oTGNuUnVvNlk2Z08tQmZSX29ueHo2bDdQVVhyT3Jib1NRdjBvb2pGNU94LVRYbldZMTZFdEpUMTV4aUJxNXJwc1EyRXpZbl9HUFJ6QlU3WFVGM0Y1VjBrX1BZYlZsVWF2WUFtQWs3S3FLTXNENVhROUpmYnRlSzE3NHlYeFUzcy1HMTlFeU1pNy1fS3l6ZVVDZkRNTVhYTGQxNUM3Z3k5SU5PWGtoMmdNR2xodTdmZDIyZjU2VHNsbGJnYmtzdzFMNGJ3SllDSmgtQ0w1UkM1V0ZvTDlkQnZySjhXQQ?oc=5"
+      "title": "台股拚止穩緊盯美財報- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00cWVsejh2cEpZekJLWUNEZmFJdVVyRXYzbDNQWjFPU3ViTFpmWF9DUHVDZUkzYjJ0ZEtnNTRJV1Y2UGQ2cHpQNmtSVVhLTnlGYkxMb2t3enM5UzdCcDFZ?oc=5"
     },
     {
-      "title": "美股收盤》道瓊跌406點、費半陷熊市！台積電ADR下殺近3％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ocGtDb29iMXFGd2dLeVZvMFVTMjVubTN3U2xOVXRyWWZUaC1nbldGa01SUzZ1S01SdjRxN3pya0VvNDM2ZGpxYTE3NFFUZW9nVE5CTnBIX05ldVdUajRV0gFkQVVfeXFMTnZhWGpUWk13OGxjeXNpTjRuMDMtVU1LcHgxblRiZ1BBdnRmeEpmWDg2YVBjZzZKYlJZR0VhRjlxYTdDMnFYM0pvRmlHbVlJYUU2YjV5Tk5MSlcwU3NGbTllOERrXw?oc=5"
+      "title": "AI晶片股疲軟！美股收黑「道瓊下滑406點」 台積電ADR跌近3%、台指期夜盤漲877點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPaTEyVzJaTW9nYXFVeWdEUnJ6czJ5R01rNHlTRk1lSk5tXzhpRlU2QTFKeHJDM29wUG1KaWZETU9OU0JQWFY3bVJjdUZnZExzUVowMmdsQVlvME9MT2lDYi0wTnJVQ0VXUnJWbHRuT1ZpY1JUdGZLUXJ1bDRuc3JveS15Q2RWaXdQalc1RnRCTnNIRnl2TVRPclNaN3BYelZQZUpXak9PdXg5M2lCWkJBOUNvWkR3TnRDazc2bm9wck9SUWxHNUlsN1FVZGpjZV9JeXJxTTl2NVk3aWNYU0tyQTA3ZXdaU0djclNTX1FXRHRNR3lyMjVna0dPVXgyYk16d0xOTFB5RlVBRGxYVnpvOHRrYktCaHgxOXRUdXpzUlNLcFRoWExndnpoYTdSRUhuODdFWXJEMXNSTzM3V2tfOXY4d015QXBra0tFakx5YUYxMTVyaXRmQjJsSTlZcF9wdUhKUzlKX1NWWVB3SUdMbkx2LWNBUEdaRVg4M0xiaEdOWW9RalpVWUdvZEkwMEdTSnAzTHlHczg0ZUlhajRZU3BqcGd2c1Bq?oc=5"
     },
     {
-      "title": "陸黃金急漲急跌，投資人陷觀望 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VSTEwUXl1bHM2ZjRGY1lZaHpVUGVhZ0NlMDFKa2FzZWJWdVNsc19oTG1wOEM3T1R2UVBINjlmLWYyWWU1R2xISTg2VjZzZmkw0gFWQVVfeXFMT1ROa1RlMjJhV3lxRmFzS1lySlZYM0Z4ZVY1NDh6RVNrNTZZX1hfYklhZnNiMHFRS1FqWkxzTlYtQjRyYjFtUWN0MDZOUFphNW8tZFZ2Tmc?oc=5"
+      "title": "台股擂台／周冠軍「低調黑馬」陳奇琛 本周看好南亞、南電 | 台股擂台 | 證券 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GT0hqRTkxeTF0S0pOZzhzU3BuWkc0TERYTVBrOHlJVW1VUzl2WE1EMlMwTEl6THVuVkhrUHduRzJ5UGNOcE1kOV92V0JrRlRETEVWWWFiVE5HUmVH?oc=5"
     }
   ]
 }
