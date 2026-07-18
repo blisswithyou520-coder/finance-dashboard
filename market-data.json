@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/19 05:26",
+  "updated_tw": "07/19 06:23",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64706.6,
-      "change": 807.1391,
-      "changePercent": 1.2631
+      "price": 64740.0,
+      "change": 840.5391,
+      "changePercent": 1.3154
     },
     "ETH": {
-      "price": 1858.73,
-      "change": 17.7418,
-      "changePercent": 0.9637
+      "price": 1861.45,
+      "change": 20.4618,
+      "changePercent": 1.1115
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股重挫2953點「史上第1大」 蔡明翰：送分題出現了 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPQjJJX2x1NUFCUU85Vk9uWGVCYkRpSHpfYVVJWjNZY2hZNWNtNEtCTUVvTk1UNkJXcXY2LURhVFNwWndvSjg5WkFhNUFQVTRRWXRVRng1SlhUbjVWNEVDbG1HOUlOMzVLNXZoTEh2N0psWlFKUktGR05zWjgxZ205T0YzUWZyRmIzbkVaaDJJNTNYTURpVnN0dUZkX20yN0Q2TjZvT2tZVXNvSzVTczJOX0d3alhvbXg0cW0zUnZCSndKdnVRT2ltZXRLbXBvc2Iwb1kzRl9LZlk3cTFxc2pJTEJFbHhnS0tqN2lKWFYxY3RYLVFtMmowUzNFUnFkbXRGbGxtcmc1bzAySEd3TkZKR0g0QnlSLVk4WmhxcjdYejlKQW9mVDV1ek9udGNONnpXUC1pbHdZYkJqVUlyUlE?oc=5"
-    },
-    {
       "title": "台股三訊號撐腰再跌有限 法人估指數在季線月線間盤整 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRWFI5TVBHVDNlRkszS3paNzcyYlZDNUtqeXBNeVR3ejlqamhwR3FsVnEzeFhmaTQzcnotV0pRbWNzdUJYSnRDTlZKNE1zZWow0gFWQVVfeXFMT0NJd1BwSERLMnNUWU04WUhPZXlueFdxeGtVeDV0dXhvNFprMmNiUDY0bldRNE1yYUpJMDBZZDhxMGlqbDNUSDdSN0dpUm9vZVBKTm92a0E?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉晶片股賣壓不止 那指跌1.4% 費半陷入熊市 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EYk5UWnJELXRMZ2NOTkxZdjg2T180LWZNNUxmV2xWZDV0ajFVQXA0bHdqM3FSU25KNmdZX3QxRkMxcjVDQ1FibnlUa0dFTEk?oc=5"
-    },
-    {
-      "title": "費半跌入熊市、美股半導體恐慌殺盤，中國AI模型Kimi有多強？ - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BTGFsZDgwOFZFSkxDRU5rSTRxVFlrRXVORkNJMmlnQnppUEtrdm5IYi1HSWh2YmlxSnVUUlJXRlV1UTZqOV9idEFjeTVWQQ?oc=5"
     },
     {
       "title": "台股重挫怎辦？專家揭2策略：確認這1物有無改變方向 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQeDE2bnVYRzdxNzhfTUpxcWdHZ3htNEhzYnlBVzJ4UWRPZldMYVBXX2hLdVhSdmZxY0E0TkcyS3RwWG4wdnl4Zml5WDMydzlhdWZ0dXIxLXQ5MVk1NEZTdXVjaXZWNTJTTERFWVEtemlpYkxSaUlkYlVvX1pDTDc4YlRBVURldTFQamZxaEh2NlloMTl6YzE5eDZxdnJzN3g2aVhyR2Zwc3JfMnAzZC1qVjltb3RkbVNNUFZ1Y3hpNGszSUt2WmhIYlJUSjd2bTc5VHA1R3RmUXF3eGZQYk5lbGVyTGVCMHFKTGpHaG9RV1JQZ1dwT1RhMDdMUlpva3lHaWhmVDhMWVBGbzRCSzYyYnRGWi03S3NTWE9yenZrQ0VLbGM0UnYtTXh0dzAxSlotNkpYckpMdzI2TlM2R01nYl9TOFB3TVpYUy1hZVZkTGJpWnJaU092ZmxNbWo?oc=5"
     },
     {
-      "title": "台股7月下跌7.4% 高息ETF全數跑贏大盤 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBibXpJUHRjYXZFODdsQlJGbUNSSUlnTW5sZnhwbWdxUmszaHRGNElrUy04SGQwMUpNaHRISnByQkZjLVRvNzFJUnlndVczRk54NXNV0gFYQVVfeXFMTnJYMXFLTHltQXpoeU1nWndUUlVYT2FIZEFtX21aMlVBQVBCZjVvb2t2Z2o2dTdLS19FTzZ2b2YxUmJYQjdCVjJBdXp5a1VMaFRGR3JUWjRrYg?oc=5"
+      "title": "費半跌入熊市、美股半導體恐慌殺盤，中國AI模型Kimi有多強？ - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BTGFsZDgwOFZFSkxDRU5rSTRxVFlrRXVORkNJMmlnQnppUEtrdm5IYi1HSWh2YmlxSnVUUlJXRlV1UTZqOV9idEFjeTVWQQ?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉晶片股賣壓不止 那指跌1.4% 費半陷入熊市 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EYk5UWnJELXRMZ2NOTkxZdjg2T180LWZNNUxmV2xWZDV0ajFVQXA0bHdqM3FSU25KNmdZX3QxRkMxcjVDQ1FibnlUa0dFTEk?oc=5"
+    },
+    {
+      "title": "美股財報好，股價為什麼還會跌？6 個原因看懂利多出盡與市場預期｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxNSUFjMUlXNU1lV1piVkJJTHdBb2NnaDZsajdFaUg5ZjJGellTRTZSZG9semx0a1hsUUlqZFZnMWVFMFV5RWc5OEpRaEh5WXNEc1pMLXdoQkx4RnZtY0lFUVlYX0RaS2RhVnkxMWxnMlRRblo5Qkw0eFdTNHZJVzVDVTk2bF9vYkIwb1FEMGFCNjI2a29KZ280WjdpM1lPYjlWWHlueEFuUXhiaFNBaW1ocmN0Rl9TOHE0ZjRoTGxxNmpzUlhqVzVUblFfTk1OY2hGSm1OYkp3YWZJcVpPamg1REZZOVQzVUJMMGktZ1R5NlVDYU14b3hrMlM5T3NuZkZ4ZTJZNjY0Ry16Y09lcXpDalRsMERFNjhfSHlKdUFxZGNUZUxhZlNsbm9UTGsxU1BGUUlBME0wLVBWbE1fSXhxZVNLLTdhSVNoZEJzR01ydTZWWDZMS1Rqa3dmQV9MNEMzWEt0c2puMWk5UTNxQk0zVTRtVWh1VGRPb2FJQ3VLNXE5RWM5TGNteE5WRVAwdlVJVnBwaHozS0RaLXEwU1JRaGNlVnBhUDE5elVxMlpzSHI3aTJLcmlHcmhoT3RfRnlKcWk2TQ?oc=5"
     },
     {
       "title": "台股史詩崩跌「該進場嗎」！專家揭「魏哲家9字暗示」黃金買點來了 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQem9tU2hYTFFMOEkxT3RVRTlwME8tUUNBTUJCanlOUW13UF8zUGd1QXNYZnVybHZpS3NibHBycDJBRnVERElpRUFBeE54WGYtSU80OHNkOHVsU240OEZKckgzNjlTZDZUZC1tdHlKcmVHalRWRG85WDEyZTZBTC1KanVSQUNUUnRvY0pOd1RiZUhSWGNScThrOVV3REZDLVBHcDcyNDBKVnhMNkVSbmVMNEdhVlhfRXhROTFZemljOWFOUDk5VkxSS0E2QkhsN2dvS2JmN0tld1B4LU5DZkRaOEFrTXh0U1I4TzZfeGo3X0VPNjh2WnlzdjdDdTNHa0VEQVRaTlBIUFVkNXBJSkxrUXdEZVhuWFRkQjlUQjBEcXctT1hqNlNXSTRXRzFlLTZnSFdvTGRHeU9SVEtNbzdCTmFwNU9QdVVySDg1YVl5Y1BIT2Y2NjNkMko0bUgxR2dRejZfZ3BBU2otRnlfdks0ejJqSE5DY0Z6ZEVaY2doZlgtR01EazZSd29SU3NQZw?oc=5"
     },
     {
-      "title": "台股擂台／周冠軍「低調黑馬」陳奇琛 本周看好南亞、南電 | 台股擂台 | 證券 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GT0hqRTkxeTF0S0pOZzhzU3BuWkc0TERYTVBrOHlJVW1VUzl2WE1EMlMwTEl6THVuVkhrUHduRzJ5UGNOcE1kOV92V0JrRlRETEVWWWFiVE5HUmVH?oc=5"
+      "title": "台股7月下跌7.4% 高息ETF全數跑贏大盤 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBibXpJUHRjYXZFODdsQlJGbUNSSUlnTW5sZnhwbWdxUmszaHRGNElrUy04SGQwMUpNaHRISnByQkZjLVRvNzFJUnlndVczRk54NXNV0gFYQVVfeXFMTnJYMXFLTHltQXpoeU1nWndUUlVYT2FIZEFtX21aMlVBQVBCZjVvb2t2Z2o2dTdLS19FTzZ2b2YxUmJYQjdCVjJBdXp5a1VMaFRGR3JUWjRrYg?oc=5"
+    },
+    {
+      "title": "台股超級強！不懼美股全面崩跌 台指期夜盤逆勢飆漲877點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNX3RVaTZoVFFWUnBQa2FYRTNKZEpWeWpSV0t1aUp3dmRjNUUxZlNSUkhNQ3VUZEZubFlsRURtV1ktLWUtTDBTTXR0UU96aGt0S2ZOOEVzd1NuNnFrZUZweWprcUlrUkh5eldOTDhQaFNZdTF0aG9MMVFyYXM5UDRGa3FTYnQxMGMwYVVXQ1Jvakh5enVicVNZLW1oTGNuUnVvNlk2Z08tQmZSX29ueHo2bDdQVVhyT3Jib1NRdjBvb2pGNU94LVRYbldZMTZFdEpUMTV4aUJxNXJwc1EyRXpZbl9HUFJ6QlU3WFVGM0Y1VjBrX1BZYlZsVWF2WUFtQWs3S3FLTXNENVhROUpmYnRlSzE3NHlYeFUzcy1HMTlFeU1pNy1fS3l6ZVVDZkRNTVhYTGQxNUM3Z3k5SU5PWGtoMmdNR2xodTdmZDIyZjU2VHNsbGJnYmtzdzFMNGJ3SllDSmgtQ0w1UkM1V0ZvTDlkQnZySjhXQQ?oc=5"
     }
   ]
 }
