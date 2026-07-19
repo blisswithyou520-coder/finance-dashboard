@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/20 05:51",
+  "updated_tw": "07/20 06:51",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -72,31 +72,31 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64345.49,
-      "change": -451.1116,
-      "changePercent": -0.6962
+      "price": 64662.69,
+      "change": -133.9116,
+      "changePercent": -0.2067
     },
     "ETH": {
-      "price": 1859.63,
-      "change": -1.7621,
-      "changePercent": -0.0947
+      "price": 1869.49,
+      "change": 8.0979,
+      "changePercent": 0.435
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.378,
-      "change": 0.1137,
-      "changePercent": 0.3524
+      "price": 32.372,
+      "change": 0.1077,
+      "changePercent": 0.3338
     },
     "JPYTWD": {
-      "price": 0.1971,
-      "change": -0.0016,
-      "changePercent": -0.7987
+      "price": 0.197,
+      "change": -0.0017,
+      "changePercent": -0.8491
     },
     "EURTWD": {
-      "price": 37.053,
-      "change": 0.1285,
-      "changePercent": 0.3479
+      "price": 37.039,
+      "change": 0.1145,
+      "changePercent": 0.31
     },
     "CNYTWD": {
       "price": 4.7833,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4018.8,
-    "twd": 4183.0,
-    "tael": 156880.0,
-    "twdTotal": 130121.0,
-    "changePercent": 0.833
+    "usd": 4001.2,
+    "twd": 4164.0,
+    "tael": 156164.0,
+    "twdTotal": 129527.0,
+    "changePercent": -0.2866
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,20 @@
   },
   "news": [
     {
+      "title": "《貴金屬》COMEX黃金上漲0.7% ETF持倉減少- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGNxTEs2SEdMOFhFRWl3eVB5c3NQc0ZfMXpiazdtSC1XbmpZY2hpS21TY29sTXY0dWNoMW11WERDeXh4LU8yTkotU05lZjRkbU9jMU54WUdNT0xvZEhlcDZpUGFzdWdRTmZvaUZOQTRERUsyaWZkRU1aSFNXbXRTNW55bGhzUUNldlk1M2ZhZzBXUDZvYWc?oc=5"
+    },
+    {
       "title": "黃金高點回落26%、白銀腰斬！「富爸爸」羅伯特清崎逆勢加碼：長線仍看漲 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOMHZ1TVRzbmRYdFFWQ1VYN21OcmMxZzFXdnF4dnB2RVU2WjZ3SnJsYk80NU5wWHhkOFNoeWQ5YjFiYWYydVZ1ZmctTERpUjlTMkU0eXNJT3dBZjNRbmU2UGk0VDl3b1gtT1BFMDZnZW11WElEOGtDX21TZzNtZlNWZEVEc2I0UTVhTkZmSldfYkNYOUswN0ZTdVlDYWs0VzlNN0NrdlBRbTFMSlU2MjFSYXZBMkstc0RreUEyUUllbndDd2pqM2Z6OUliR0doanFacG1nOUNKcU5zWGM2emhpME12NGt4SmlBT0dVbmVxNThEWm9SU1lid0JCa0xkbEp6WFo0czVGTm1abWtvR3VWMlhrSFBGZFhLcFRDRDFFVWV3ZUl5dXoySGNPbU9DT1NtMXlKb2RlSmQxV2NQZHNHMWJ1aWM0RHFiaEZzWTRPbV93VDFKR1lzR2JwVnVPczl2YnNGaHNrTUx2dEtZOURfb2pLODlrWGVieEJBdFJYLWZjMWhCSHFRakRxaHZkX1g1TTV1SFJCZjB4QzUySHN1bG9RVmgxakE?oc=5"
     },
     {
-      "title": "台股融資維持率 還在安全區 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SS19WNVk4cWhlSWtLOFI2NzBqdmtoVG40cHlNRklsTzE0clNyM1I0UG5iaWNtb1duQXNiUmo4YmtqMVk5Q2I2YldoQk1rR1Jt0gFWQVVfeXFMTWRubVRJOHhia19TU0VaeTZXQjhpZDRCS2EzcmhxTmtVNUdSOENtLXRtM3puYlI4TzZtaFRmaldXLU15TUVjRm5LRVp0MXB2VDNleTZHWlE?oc=5"
-    },
-    {
       "title": "本週操盤筆記：美股七雄財報、晶片股高估值、Fed利率風向 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LdkZqcHN5SF9uazRNcUEzaE5mOWNoSVNNaVZ1TGRtUUZrSWxiT3N0TGh0NkhOZy1FUFZWZDMySDN5VVBzaThyY2JOeTBsSG8?oc=5"
+    },
+    {
+      "title": "台股重挫為史上最大單日跌點 金管會回應了 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTmt5a1MxTnlWc2hrb1ZMSTY5Q0c1WVZla2lkc2hWSzZDempCZkY1YmdmU2J6SVpKY1ktM1hLY0tOOHRxSl9jVURWLW5la3BtS3RXRW9oV3Znd9IBX0FVX3lxTE54SFE0LW80NENpN05WZmpnWVM5N1NFMjI1NldFZGRBV2ozTWtsSzVzUmtCUkVmVXc4dXFpNEVldm1xMEtSbExYVzZCMkpGZjJUdGZwbktJVUl2cmNfTHFR?oc=5"
     },
     {
       "title": "一週展望：美伊局勢延續“高烈度升級”，超賣黃金與科技股迎關鍵 - capitalfutures.com.tw",
@@ -141,12 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwNG9ZRGdfeThob2hWemZ0Q1pBejR6cmVORmlxdmlTcnJJLXlpc2dyb3JzUnBKUUxsMDU0OUJhVXIxWFVmaEE4T1N0Yi1TcTBpQWZUYnZfNUc?oc=5"
     },
     {
-      "title": "台股週重挫2683點！市值狂縮8.6兆元 它逆勢狂飆30%居冠 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNV3hoSWF2QlpsTVM0Y293SU9kTTM3dXJwWkIyT3RBUC1tOEsySDlOaDhyaHZDcmhVaTVZbDBtNlNTby1pR2F2d21vOTJpV29oandTMTFjNUVFQ3B0YjR1NTZnR01kOXlVSjdieTVlckl2SXphbU5EeW1mY1VmS21IYkZiNktlNXVNVmFrcHN5V1VVMU5JLUdQdkhyY29ZRGJsUDZ6a1hJSUhhbURpZkt2ZThQM3QwZ2Q3UzJkNC1xWXlRQ0pEcEpUdXNlWlFJVjlHSnMxSlItd0p2cVc1ZV9Rc3JKVnpKWDI5RFlTcDdyYU1EbV9RWlZVT1hwWjdXTzcxbDNQYTZKbWhfYkVmZ2NhMEJ5NEZBNENKM1FKN1N6bnl2WnJscmd5cEZwUGRjLWQ4NXROTEN6bkpWUTRaNVlXTldCVjFsNDA?oc=5"
-    },
-    {
-      "title": "台股重挫為史上最大單日跌點 金管會回應了 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTmt5a1MxTnlWc2hrb1ZMSTY5Q0c1WVZla2lkc2hWSzZDempCZkY1YmdmU2J6SVpKY1ktM1hLY0tOOHRxSl9jVURWLW5la3BtS3RXRW9oV3Znd9IBX0FVX3lxTE54SFE0LW80NENpN05WZmpnWVM5N1NFMjI1NldFZGRBV2ozTWtsSzVzUmtCUkVmVXc4dXFpNEVldm1xMEtSbExYVzZCMkpGZjJUdGZwbktJVUl2cmNfTHFR?oc=5"
+      "title": "社論》台股「黑色星期五」的啟示 - 自由評論網",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FdlB5RkVsOHdqMUF6UnF6M2xtVzhrQnhhMElUQ0ZUVkJpZTVTMUhNekNXcFVhUWpCdWxTb3NFNUNuZTEzNE1hNkxsekdHS3hpNm5aZWt1QzTSAV5BVV95cUxQVDhvQ25BV2xKSGlUVFFRRW95RS11dTZnNWdzd0syMHotT3lxVzh5RmdWYllvVjliMWZIXzh5WERxSEdQWHhCb1hPSGc1M0JNWW1VRUQxc0Z1U1J0QjJ3?oc=5"
     }
   ]
 }
