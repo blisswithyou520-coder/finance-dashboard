@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/20 04:45",
+  "updated_tw": "07/20 05:51",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64463.98,
-      "change": -332.6216,
-      "changePercent": -0.5133
+      "price": 64345.49,
+      "change": -451.1116,
+      "changePercent": -0.6962
     },
     "ETH": {
-      "price": 1864.8,
-      "change": 3.4079,
-      "changePercent": 0.1831
+      "price": 1859.63,
+      "change": -1.7621,
+      "changePercent": -0.0947
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.365,
-      "change": 0.1007,
-      "changePercent": 0.3121
+      "price": 32.378,
+      "change": 0.1137,
+      "changePercent": 0.3524
     },
     "JPYTWD": {
       "price": 0.1971,
@@ -94,9 +94,9 @@
       "changePercent": -0.7987
     },
     "EURTWD": {
-      "price": 37.069,
-      "change": 0.1445,
-      "changePercent": 0.3912
+      "price": 37.053,
+      "change": 0.1285,
+      "changePercent": 0.3479
     },
     "CNYTWD": {
       "price": 4.7833,
@@ -106,9 +106,9 @@
   },
   "gold": {
     "usd": 4018.8,
-    "twd": 4182.0,
-    "tael": 156817.0,
-    "twdTotal": 130068.0,
+    "twd": 4183.0,
+    "tael": 156880.0,
+    "twdTotal": 130121.0,
     "changePercent": 0.833
   },
   "fed": {
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "台股融資維持率 還在安全區 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SS19WNVk4cWhlSWtLOFI2NzBqdmtoVG40cHlNRklsTzE0clNyM1I0UG5iaWNtb1duQXNiUmo4YmtqMVk5Q2I2YldoQk1rR1Jt0gFWQVVfeXFMTWRubVRJOHhia19TU0VaeTZXQjhpZDRCS2EzcmhxTmtVNUdSOENtLXRtM3puYlI4TzZtaFRmaldXLU15TUVjRm5LRVp0MXB2VDNleTZHWlE?oc=5"
-    },
-    {
       "title": "黃金高點回落26%、白銀腰斬！「富爸爸」羅伯特清崎逆勢加碼：長線仍看漲 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOMHZ1TVRzbmRYdFFWQ1VYN21OcmMxZzFXdnF4dnB2RVU2WjZ3SnJsYk80NU5wWHhkOFNoeWQ5YjFiYWYydVZ1ZmctTERpUjlTMkU0eXNJT3dBZjNRbmU2UGk0VDl3b1gtT1BFMDZnZW11WElEOGtDX21TZzNtZlNWZEVEc2I0UTVhTkZmSldfYkNYOUswN0ZTdVlDYWs0VzlNN0NrdlBRbTFMSlU2MjFSYXZBMkstc0RreUEyUUllbndDd2pqM2Z6OUliR0doanFacG1nOUNKcU5zWGM2emhpME12NGt4SmlBT0dVbmVxNThEWm9SU1lid0JCa0xkbEp6WFo0czVGTm1abWtvR3VWMlhrSFBGZFhLcFRDRDFFVWV3ZUl5dXoySGNPbU9DT1NtMXlKb2RlSmQxV2NQZHNHMWJ1aWM0RHFiaEZzWTRPbV93VDFKR1lzR2JwVnVPczl2YnNGaHNrTUx2dEtZOURfb2pLODlrWGVieEJBdFJYLWZjMWhCSHFRakRxaHZkX1g1TTV1SFJCZjB4QzUySHN1bG9RVmgxakE?oc=5"
+    },
+    {
+      "title": "台股融資維持率 還在安全區 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SS19WNVk4cWhlSWtLOFI2NzBqdmtoVG40cHlNRklsTzE0clNyM1I0UG5iaWNtb1duQXNiUmo4YmtqMVk5Q2I2YldoQk1rR1Jt0gFWQVVfeXFMTWRubVRJOHhia19TU0VaeTZXQjhpZDRCS2EzcmhxTmtVNUdSOENtLXRtM3puYlI4TzZtaFRmaldXLU15TUVjRm5LRVp0MXB2VDNleTZHWlE?oc=5"
     },
     {
       "title": "本週操盤筆記：美股七雄財報、晶片股高估值、Fed利率風向 - news.cnyes.com",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03OU9nUmxyZjM3dEFXYkMwaUFUTGlZeVNObkNFdkVLcmdPaThtakM5WFliLTlfYmtpckhkNFhqVFlJUGRoYmlzbUVhYmFRMEprbjhBZF9FTXhSdw?oc=5"
     },
     {
-      "title": "台股狂殺…三大銀行：長線仍看好- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZYjlyVHdIS3gzYnZET3JvSnhvN2Vpam4yMF9BY0dwSVB4NmFHVXB0OXV1TF92MEVWSHV1QkNIYllaN1NzUjZkYlp5WWZNMjQzNzZWS3g5am1JQ0tyc3hz?oc=5"
+      "title": "TWA00 加權指數- 台股融資維持率還在安全區分析師：現在談「追繳令萬箭齊發」太... - 股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwNG9ZRGdfeThob2hWemZ0Q1pBejR6cmVORmlxdmlTcnJJLXlpc2dyb3JzUnBKUUxsMDU0OUJhVXIxWFVmaEE4T1N0Yi1TcTBpQWZUYnZfNUc?oc=5"
+    },
+    {
+      "title": "台股週重挫2683點！市值狂縮8.6兆元 它逆勢狂飆30%居冠 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNV3hoSWF2QlpsTVM0Y293SU9kTTM3dXJwWkIyT3RBUC1tOEsySDlOaDhyaHZDcmhVaTVZbDBtNlNTby1pR2F2d21vOTJpV29oandTMTFjNUVFQ3B0YjR1NTZnR01kOXlVSjdieTVlckl2SXphbU5EeW1mY1VmS21IYkZiNktlNXVNVmFrcHN5V1VVMU5JLUdQdkhyY29ZRGJsUDZ6a1hJSUhhbURpZkt2ZThQM3QwZ2Q3UzJkNC1xWXlRQ0pEcEpUdXNlWlFJVjlHSnMxSlItd0p2cVc1ZV9Rc3JKVnpKWDI5RFlTcDdyYU1EbV9RWlZVT1hwWjdXTzcxbDNQYTZKbWhfYkVmZ2NhMEJ5NEZBNENKM1FKN1N6bnl2WnJscmd5cEZwUGRjLWQ4NXROTEN6bkpWUTRaNVlXTldCVjFsNDA?oc=5"
     },
     {
       "title": "台股重挫為史上最大單日跌點 金管會回應了 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTmt5a1MxTnlWc2hrb1ZMSTY5Q0c1WVZla2lkc2hWSzZDempCZkY1YmdmU2J6SVpKY1ktM1hLY0tOOHRxSl9jVURWLW5la3BtS3RXRW9oV3Znd9IBX0FVX3lxTE54SFE0LW80NENpN05WZmpnWVM5N1NFMjI1NldFZGRBV2ozTWtsSzVzUmtCUkVmVXc4dXFpNEVldm1xMEtSbExYVzZCMkpGZjJUdGZwbktJVUl2cmNfTHFR?oc=5"
-    },
-    {
-      "title": "美國CPI數據不差「台股仍暴跌2900點」？ 網點關鍵：不管利多利空都會跌 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQcWdWeXhIZ3owOHpHaVk2Vl9FdmVGRnMtSHNKU25neU44cXl2THRUTWs5STI5Q01aa0dvRGsxdmY1ZlBCbVdhMVgwa0VsM3lxUDB1LWFxQlc5amZveVBnRzF5QTVJTGFqU2lPS0JfUDFpLUE3ZzBnaHdxTHVXS1QwenpxNEFSbEpMbzF4SDRTVmNQX002TUV0T1ZWRGU3ZC0zb1hrenZKdXh0X2FoX1hnLWo4cDlHU0pLNXFVYlFfMDZoT2dPcExDUTZlNVZBWlhBY21ZMkw0M1l4bTZraVMzYy1WcmJuY3VHYURfY2ZMd0FxX0xVcWNnWmFHRUVzaS1Xc204d2Y0ZGZaay14SVVhM3NseWJJTy1WUGJDRW9FX0dCc2h5Y080cW9xRVd4cjU0ak9xWWZtMUlJQ01FWV9fZlVjcUctdkFLbHhpR3YxRGt6YUdTUEtEUFJVWnA1bmk1WkNhQlFnLXp4eFprM1BUWnJpRnhRbks4a0E2Ti1hd00tbXRJdnZ6QWpMem5mNXg5T3Q4ZA?oc=5"
     }
   ]
 }
