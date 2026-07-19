@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/19 09:01",
+  "updated_tw": "07/19 12:34",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64737.38,
-      "change": 837.9191,
-      "changePercent": 1.3113
+      "price": 64661.93,
+      "change": 762.4691,
+      "changePercent": 1.1932
     },
     "ETH": {
-      "price": 1859.22,
-      "change": 18.2318,
-      "changePercent": 0.9903
+      "price": 1865.66,
+      "change": 24.6718,
+      "changePercent": 1.3401
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股三訊號撐腰再跌有限 法人估指數在季線月線間盤整 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRWFI5TVBHVDNlRkszS3paNzcyYlZDNUtqeXBNeVR3ejlqamhwR3FsVnEzeFhmaTQzcnotV0pRbWNzdUJYSnRDTlZKNE1zZWow0gFWQVVfeXFMT0NJd1BwSERLMnNUWU04WUhPZXlueFdxeGtVeDV0dXhvNFprMmNiUDY0bldRNE1yYUpJMDBZZDhxMGlqbDNUSDdSN0dpUm9vZVBKTm92a0E?oc=5"
+      "title": "台股殺出汁來！他問「死多頭該停損嗎」 網點關鍵：看你買什麼 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNRzhFdlZxQm9PbWdZa19aSHdoZXVzR2MwcmRkU0o1LXpoS0U5djBkb3oyZkNuWlBFZm8yUDFDbWVfanFvY2RtNG80YVZJNkZvM0xhYVZPRDJTMndTMi1aVnhheXg3SnhHWVVDZGRibFJTX0hKQ2EwZXc1N2toM1UxZlYxbGhTVTd4YVd2SEVLTXc0cWtfOEV2d3VmRTFPdEc5TDktVWtENGVEdWR5YTJZUmNfSjBMd3dXaHN0SVh5WGlKVDVhVmgwREkyaWdlQnhrVWlRR0xLZlR0a2JsNGV3WlI2WkJMMnRobkV3WkZMX3RrMjRlUlB0TC1rMzFBYzQ5c2I2TV9WbDdOTnJYclkxX21mQVBrdEtNS1JNNElZNnVxVHVaOTFuOGxFekg0Wm1ZcTl4RXBFOHJzT1NhTkh2elVlbTJ2S0JUNDl2VjN6R1dLWmNubWF0Vm1mNjBrdzRsRmpGbWFBNDFpdzBGTFU0Wm5ob3Zqd3dHUm1Va1piMW8?oc=5"
     },
     {
-      "title": "台股重挫怎辦？專家揭2策略：確認這1物有無改變方向 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQeDE2bnVYRzdxNzhfTUpxcWdHZ3htNEhzYnlBVzJ4UWRPZldMYVBXX2hLdVhSdmZxY0E0TkcyS3RwWG4wdnl4Zml5WDMydzlhdWZ0dXIxLXQ5MVk1NEZTdXVjaXZWNTJTTERFWVEtemlpYkxSaUlkYlVvX1pDTDc4YlRBVURldTFQamZxaEh2NlloMTl6YzE5eDZxdnJzN3g2aVhyR2Zwc3JfMnAzZC1qVjltb3RkbVNNUFZ1Y3hpNGszSUt2WmhIYlJUSjd2bTc5VHA1R3RmUXF3eGZQYk5lbGVyTGVCMHFKTGpHaG9RV1JQZ1dwT1RhMDdMUlpva3lHaWhmVDhMWVBGbzRCSzYyYnRGWi03S3NTWE9yenZrQ0VLbGM0UnYtTXh0dzAxSlotNkpYckpMdzI2TlM2R01nYl9TOFB3TVpYUy1hZVZkTGJpWnJaU092ZmxNbWo?oc=5"
+      "title": "台股暴跌失守季線面臨外資天量空單考驗| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52WnlXNGdaeS1qaURkY2RBXzBIZHg2RVVtc2NaMGQwOS1QRVZmZ3EtQzVnQU9KRjFCS3pmUkNQYU13LXU1S2dIVlFxWjdqYzZieVkxTDFkUThGd21BREE?oc=5"
     },
     {
-      "title": "台股史詩崩跌該進場？專家揭「魏哲家9字暗示」：黃金買點這天到 - 三立新聞網SETN.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JWFFCaVdWcHJtRHZEOEtVeW8yRTZBYktudlBzSFQyRUVwLWVYMVRCaEJKZ0ppQTVLUnZaS1JLVklXZmFiUDVsTldINA?oc=5"
+      "title": "台股暴跌是「休息」還是「休克」？股海老牛曝可先做3件事：恐慌還沒完 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scUpDT1RxRUdrNm51RzdSRG5FT24zX2tiVlBmTHJQRTJkcEs4OTRTNTZqYjljeGNNajRUYWpuTnJjUzQyZXVfbzVUZjBkeDhGdEtxU2FLRFFXZ9IBX0FVX3lxTE5SdkctSjlLaVo1aXJPZHo4V002eElhN1MxRklXZlFNMGhKOEZadVVsTnExQ01aWUJBVlllX0RiQ2thNXY4aDZGRDh3ZzNTc3pkWkFBaWhTdkdma1hOVDVr?oc=5"
     },
     {
-      "title": "〈美股盤後〉晶片股賣壓不止 那指跌1.4% 費半陷入熊市 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EYk5UWnJELXRMZ2NOTkxZdjg2T180LWZNNUxmV2xWZDV0ajFVQXA0bHdqM3FSU25KNmdZX3QxRkMxcjVDQ1FibnlUa0dFTEk?oc=5"
+      "title": "台股暴跌近3000點 資金湧入美債ETF避險 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04aUNqV2VTdE54N3VtaVd5V2JrVGJIV3dhRVgtVXRJNjA4SjNRREVfSmVjcngxVXJnbkFwRld3YXBCaExOOWtMSEFtM2Z6dEFia0o0dEl0dUtsdGRBMHN30gFkQVVfeXFMT1JOZVFwcHQzcmNNQnBoN3g2QnJDVG9TVDJ5MlNONlJ0Sm1qc295REtSTzloNEl0NThDbHJ1bGVKUmY1S01UZkx1OE1udVdWSERYbm95ME42Z01WZl9xbVkxQ2hoYQ?oc=5"
     },
     {
-      "title": "融資浮動籌碼待沈澱！台股尋求42K支撐　止跌回穩看3訊號 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12czNQYXhfbTBpXzFkVXVQcUlpcFNoSGtEMjNKR3k0T2lxTVZ3a1Qxc0xvS2V1dlJraEoxNFNGY2tzTWhiY0J6emVjakhIcXhSVmfSAW5BVV95cUxPTmtpeC15VFdqOFk4T1h2aC1RZURhZV8zelZXNzF2WGpzcWFrOE5Wem5vS1hNWHVGYzkyejFwR3NlV3Nmc2Yza2NVS1hjVTlYdDhuMkhtMzZzR0hITXhPS3pYZzZSdkxGQ1B6bDlhQQ?oc=5"
+      "title": "台股單日竟能跌掉快3,000點！季線、4萬3千全沒了「專家驚爆最大元凶不是台積電？」明天開盤只要做2件事保平安- 上市櫃 - 旺得富理財網",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByUGszZXBRc2RuZW5lZmFDeThiTlRZSzFEYm9oR0RSZWE3cXBnTkVteTZNTGFMTkJjajdVOXJtSUdzZDVKRXZPLVl2ZFhSUU1aMUJDM19fOHVpWWVYZ1lZZ0tVNHUwUTE1NXc?oc=5"
     },
     {
-      "title": "費半跌入熊市、美股半導體恐慌殺盤，中國AI模型Kimi有多強？ - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BTGFsZDgwOFZFSkxDRU5rSTRxVFlrRXVORkNJMmlnQnppUEtrdm5IYi1HSWh2YmlxSnVUUlJXRlV1UTZqOV9idEFjeTVWQQ?oc=5"
+      "title": "台股周一開盤恐再跌千點？專家給出1數字「生死線」：這類個股很危險 | 張庭維 | 新聞 - Storm.mg",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yODJEbTR4ekUxRGtDOUFJc2J2c1BxYllkeXdFSWRObWFXc0RvSUxHcjVZb2Vkc2d0Tjkxa29RVG9wQ0FFb0RKV1prRHludw?oc=5"
     },
     {
-      "title": "台股史詩崩跌「該進場嗎」！專家揭「魏哲家9字暗示」黃金買點來了 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQem9tU2hYTFFMOEkxT3RVRTlwME8tUUNBTUJCanlOUW13UF8zUGd1QXNYZnVybHZpS3NibHBycDJBRnVERElpRUFBeE54WGYtSU80OHNkOHVsU240OEZKckgzNjlTZDZUZC1tdHlKcmVHalRWRG85WDEyZTZBTC1KanVSQUNUUnRvY0pOd1RiZUhSWGNScThrOVV3REZDLVBHcDcyNDBKVnhMNkVSbmVMNEdhVlhfRXhROTFZemljOWFOUDk5VkxSS0E2QkhsN2dvS2JmN0tld1B4LU5DZkRaOEFrTXh0U1I4TzZfeGo3X0VPNjh2WnlzdjdDdTNHa0VEQVRaTlBIUFVkNXBJSkxrUXdEZVhuWFRkQjlUQjBEcXctT1hqNlNXSTRXRzFlLTZnSFdvTGRHeU9SVEtNbzdCTmFwNU9QdVVySDg1YVl5Y1BIT2Y2NjNkMko0bUgxR2dRejZfZ3BBU2otRnlfdks0ejJqSE5DY0Z6ZEVaY2doZlgtR01EazZSd29SU3NQZw?oc=5"
+      "title": "【2個月獲利1天吐光！台股血崩2953點 他問「借錢加碼嗎？」】 （#大表哥） - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNWkNEZnlISnBXTE8xMXpaRkpoXzRURTFtdHFPZzhlbW9pcG5uV0cwN2dMRlBSVkhxMWxFWXh1N3ZncGNwRWlwQm4xQzltY0JuN0t1cU9uR3N3dUdmUTlSNHFPRkstcUNBcnVFTHo4OHVxUWxkbUxIT2hNXzFBa09Zb2xMS0EzTGdPXzhheU5wYzRKSDI2TDNsMTV4NXpDcl8yZGxfZDRHZ214ajNKRVZxaTVlcW1SQVlqWXk1X1dWNV8tZEdvcDJvbVFuNXBsX3ZLNVE2SWI1MzV0UWc2NUp2NDc2ZXgzbUUyczM1eURLc3B2Q0RFZVZMMWQ1N3NTdEpBdTgxWHpiVHlBWklsS2xwdzh1ZmZ2cktzWGxuVzhjbk9iQ1VKaVhyRnRjaDI4MS1BYlFNdGhJWjctNHJKYlA1MlVEV3N0SUptc1hEcUw4RGVyOVl4azNQT2dvVm1fLXdtbWFrakRsQnhNLWVvZlBmRy1iSW1fNUFwNXc?oc=5"
     },
     {
-      "title": "台股7月下跌7.4% 高息ETF全數跑贏大盤 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBibXpJUHRjYXZFODdsQlJGbUNSSUlnTW5sZnhwbWdxUmszaHRGNElrUy04SGQwMUpNaHRISnByQkZjLVRvNzFJUnlndVczRk54NXNV0gFYQVVfeXFMTnJYMXFLTHltQXpoeU1nWndUUlVYT2FIZEFtX21aMlVBQVBCZjVvb2t2Z2o2dTdLS19FTzZ2b2YxUmJYQjdCVjJBdXp5a1VMaFRGR3JUWjRrYg?oc=5"
+      "title": "美國CPI數據不差「台股仍暴跌2900點」？ 網點關鍵：不管利多利空都會跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQcWdWeXhIZ3owOHpHaVk2Vl9FdmVGRnMtSHNKU25neU44cXl2THRUTWs5STI5Q01aa0dvRGsxdmY1ZlBCbVdhMVgwa0VsM3lxUDB1LWFxQlc5amZveVBnRzF5QTVJTGFqU2lPS0JfUDFpLUE3ZzBnaHdxTHVXS1QwenpxNEFSbEpMbzF4SDRTVmNQX002TUV0T1ZWRGU3ZC0zb1hrenZKdXh0X2FoX1hnLWo4cDlHU0pLNXFVYlFfMDZoT2dPcExDUTZlNVZBWlhBY21ZMkw0M1l4bTZraVMzYy1WcmJuY3VHYURfY2ZMd0FxX0xVcWNnWmFHRUVzaS1Xc204d2Y0ZGZaay14SVVhM3NseWJJTy1WUGJDRW9FX0dCc2h5Y080cW9xRVd4cjU0ak9xWWZtMUlJQ01FWV9fZlVjcUctdkFLbHhpR3YxRGt6YUdTUEtEUFJVWnA1bmk1WkNhQlFnLXp4eFprM1BUWnJpRnhRbks4a0E2Ti1hd00tbXRJdnZ6QWpMem5mNXg5T3Q4ZA?oc=5"
     }
   ]
 }
