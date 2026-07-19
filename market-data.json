@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/19 15:15",
+  "updated_tw": "07/19 17:20",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64653.71,
-      "change": -142.8916,
-      "changePercent": -0.2205
+      "price": 64536.8,
+      "change": -259.8016,
+      "changePercent": -0.4009
     },
     "ETH": {
-      "price": 1866.73,
-      "change": 5.3379,
-      "changePercent": 0.2868
+      "price": 1865.77,
+      "change": 4.3779,
+      "changePercent": 0.2352
     }
   },
   "fx": {
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "台股歷史最大跌點！理工宅喊「打折就買」 股民直言：不要輕舉妄動 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxQdUNVektqLVV3d1JZbURIcDdHbW1ZNDJtcHlwWTJQanhVcC11SzZyN2htSmswR09mNHotM3VPaDhBREl3clFPV2ZjU3c5TjY2Zm9mQVBlcGsxWHhpMVF4U01tdkg0OFZLU2gwT1dybFpfaDJtYXhwREJiYldjTzlRbkU2aGtRaWxlWWlSb0tJWW9MX1REUlozODRiaWxqWjlsYVg0ZVdLemFxTHIyWlotWllKMzRsSzRtRnJNRzNZMjFvb19kQlRyM2Mwc1NKS1dPdURDQ1dlT0RVLWsxNWM0WFU2c09wbzlSSDA5bXNYR0xLRFh1RTZIZW4tUVV4TFJwZE5uak1IOWd1LXFXdEo5cUVFaVRwYmhCWnRfSV9QMmM2YV9yd1Z2QmpZVG4yVTBKc19RbXpZUHdURjJpTXFLbFcxLVcydlB5bDFfZnV0SjM1ZXJzT3ZBOXRzSkNOakpjcF9pLUk4cWpMRkdsUVlMZlRfY0NMZVBYWEpKM3pOYWUzYzhQZjhUYl90THhIem55Q0ZvcmJzeUM?oc=5"
+      "title": "國際金價重返4000美元大關 外媒曝3大利空：反彈恐受限 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQOC1NWVdyRUpkUlY1SU8zTUI3ZGczbEpZZ0duckdHNEUtZjlkODNkRnBBOXZqOTAxSTBrZ280c3ZHQ2xYdnpJNDNaeWVGeFVLS0tEdGE4WUZOOGxSUXd1cWlQakRNTTRONDRpQTBCQ2wwb0kzaUc5b2o5c2lmakhyZV90Sk93Q3BkWUlwZElHeFVqX1c5VjltckdvcUROeHZWcmt4OGVVTFJrY0I1MEhESEZPSzdVajBNdnBIclVNcEI0dTZDbjB6b0dfWDJHMVh0MnZYenV4TVBTQTlUUDZWbG52ZDRXNXVXMjM5Mjg5cXozYnI3U0JKYVdZZGdPM1V1XzdIUVRuYUo0Q09MSVpWN2lDOFM4aTF5cVdWbmlKNk1CMWFqd0RDaWdYNmJpdm8tRGNKb1p2Z1g1Z3lSVmFTUHZTZ010T1pDcjZicEFNVThGMVRkS1g5Z2ktQzkwbWlN?oc=5"
     },
     {
-      "title": "台股史詩級崩盤！周線連二黑 法人：切忌在恐慌情緒下盲目殺低 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nTURGZlplYmhJSXdKWThGX0h1ekNmWmU1RzFlZVhKMkpUS25BWmRMcXFsTlV4blZSWUhvekpGMUVPWk1lb2VJT0hPaEJ3ZzVL0gFWQVVfeXFMUFhaaWh2TmJ4YjRCcTZZdjhxd2ZZYjZNN2NVT0wwa25iTEtLLUp2MGVWZTRBUmcyVUxHVWlBSnFUSFZSMlk2TC1FOUhEMlowcWdvNFlhSGc?oc=5"
+      "title": "台股重挫後繼續勇敢買？投信舉過去數據：正報酬機率達95% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42MXJydjd2TzlDMVR2Ry1tV182a1BSd1dfNV8zeGJCZWF4WkFKOW0tY2JabkZ0SjVVWnQxMVJkZEZZcS1ndTk4Q0dFZXM0ODIz0gFWQVVfeXFMT21wek9XeU1aMkJrcVVBRmg2akJ4aHlic19LRHozRk5WN0R2TnlvLWE0VTlMdHZ6UnVQUWhoQTRJMnplaWJ0aDU1b1lJN2lETm5UQnJiZ2c?oc=5"
     },
     {
       "title": "台股暴跌失守季線面臨外資天量空單考驗| 證券 - 中央社 CNA",
@@ -133,16 +133,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vX2dYUkJxUE0xTE5pRWZETFRPN1ZCOW9ZOWpTajUwa1pqU3dWeW9sanVJVE40dDVPempWZTYxdERqdVFnaXd3YUZidlBaTGc?oc=5"
     },
     {
-      "title": "台股暴跌近3000點 資金湧入美債ETF避險 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04aUNqV2VTdE54N3VtaVd5V2JrVGJIV3dhRVgtVXRJNjA4SjNRREVfSmVjcngxVXJnbkFwRld3YXBCaExOOWtMSEFtM2Z6dEFia0o0dEl0dUtsdGRBMHN30gFkQVVfeXFMT1JOZVFwcHQzcmNNQnBoN3g2QnJDVG9TVDJ5MlNONlJ0Sm1qc295REtSTzloNEl0NThDbHJ1bGVKUmY1S01UZkx1OE1udVdWSERYbm95ME42Z01WZl9xbVkxQ2hoYQ?oc=5"
+      "title": "台股創史上最大跌點！主動式ETF誰最抗跌？「這類型」強包前三名- 理財 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDV2NDVFJhYkRIWlJpMTRPUTlpOWZPdDJITExlVk95NFJOeENxdWZmX1l1elVUaDFGZTU0NTR2RlN0RTRFNFJ5dXFrdmI1SUE3VWZVbWhIbDNhUVUxUmRr?oc=5"
     },
     {
-      "title": "台股殺出汁來！他問「死多頭該停損嗎」 網點關鍵：看你買什麼 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNRzhFdlZxQm9PbWdZa19aSHdoZXVzR2MwcmRkU0o1LXpoS0U5djBkb3oyZkNuWlBFZm8yUDFDbWVfanFvY2RtNG80YVZJNkZvM0xhYVZPRDJTMndTMi1aVnhheXg3SnhHWVVDZGRibFJTX0hKQ2EwZXc1N2toM1UxZlYxbGhTVTd4YVd2SEVLTXc0cWtfOEV2d3VmRTFPdEc5TDktVWtENGVEdWR5YTJZUmNfSjBMd3dXaHN0SVh5WGlKVDVhVmgwREkyaWdlQnhrVWlRR0xLZlR0a2JsNGV3WlI2WkJMMnRobkV3WkZMX3RrMjRlUlB0TC1rMzFBYzQ5c2I2TV9WbDdOTnJYclkxX21mQVBrdEtNS1JNNElZNnVxVHVaOTFuOGxFekg0Wm1ZcTl4RXBFOHJzT1NhTkh2elVlbTJ2S0JUNDl2VjN6R1dLWmNubWF0Vm1mNjBrdzRsRmpGbWFBNDFpdzBGTFU0Wm5ob3Zqd3dHUm1Va1piMW8?oc=5"
+      "title": "台股周線跌近6%失守季線 法人：本周留意去槓桿後布局機會 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Xd0hIcWw1Nk1SV0xyekxtMmpFVEJfdjYxdV9Ob0VPTndEVlNDQ1lTTkNHczZ2OW5aZVUxOUpxRzhCU1QwWDA2RGdmNF9aZDVs0gFWQVVfeXFMT0F6RzRVaUszZklhczUwY1ZVNW90Q2t2Q1hBTWZUQnlubHJZVXhkdHlhcXhnNFIwWEpNNkJZNW1pQlJGdVN3RW9QMlFKTjZCWWkxV2hJM0E?oc=5"
     },
     {
-      "title": "台股重挫後繼續勇敢買？投信舉過去數據：正報酬機率達95% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42MXJydjd2TzlDMVR2Ry1tV182a1BSd1dfNV8zeGJCZWF4WkFKOW0tY2JabkZ0SjVVWnQxMVJkZEZZcS1ndTk4Q0dFZXM0ODIz0gFWQVVfeXFMT21wek9XeU1aMkJrcVVBRmg2akJ4aHlic19LRHozRk5WN0R2TnlvLWE0VTlMdHZ6UnVQUWhoQTRJMnplaWJ0aDU1b1lJN2lETm5UQnJiZ2c?oc=5"
+      "title": "黃金高點回落26%、白銀腰斬！「富爸爸」羅伯特清崎逆勢加碼：長線仍看漲 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOMHZ1TVRzbmRYdFFWQ1VYN21OcmMxZzFXdnF4dnB2RVU2WjZ3SnJsYk80NU5wWHhkOFNoeWQ5YjFiYWYydVZ1ZmctTERpUjlTMkU0eXNJT3dBZjNRbmU2UGk0VDl3b1gtT1BFMDZnZW11WElEOGtDX21TZzNtZlNWZEVEc2I0UTVhTkZmSldfYkNYOUswN0ZTdVlDYWs0VzlNN0NrdlBRbTFMSlU2MjFSYXZBMkstc0RreUEyUUllbndDd2pqM2Z6OUliR0doanFacG1nOUNKcU5zWGM2emhpME12NGt4SmlBT0dVbmVxNThEWm9SU1lid0JCa0xkbEp6WFo0czVGTm1abWtvR3VWMlhrSFBGZFhLcFRDRDFFVWV3ZUl5dXoySGNPbU9DT1NtMXlKb2RlSmQxV2NQZHNHMWJ1aWM0RHFiaEZzWTRPbV93VDFKR1lzR2JwVnVPczl2YnNGaHNrTUx2dEtZOURfb2pLODlrWGVieEJBdFJYLWZjMWhCSHFRakRxaHZkX1g1TTV1SFJCZjB4QzUySHN1bG9RVmgxakE?oc=5"
     },
     {
       "title": "台股大跌小資族瘋搶0050！存股族曝殘酷現實 一票人苦笑：甜甜價但沒子彈 - Yahoo股市",
