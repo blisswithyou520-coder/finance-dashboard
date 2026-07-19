@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/19 17:20",
+  "updated_tw": "07/19 18:52",
   "taiwan": {
     "2330": {
       "price": 2290.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64536.8,
-      "change": -259.8016,
-      "changePercent": -0.4009
+      "price": 64584.37,
+      "change": -212.2316,
+      "changePercent": -0.3275
     },
     "ETH": {
-      "price": 1865.77,
-      "change": 4.3779,
-      "changePercent": 0.2352
+      "price": 1873.76,
+      "change": 12.3679,
+      "changePercent": 0.6644
     }
   },
   "fx": {
@@ -117,8 +117,8 @@
   },
   "news": [
     {
-      "title": "國際金價重返4000美元大關 外媒曝3大利空：反彈恐受限 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQOC1NWVdyRUpkUlY1SU8zTUI3ZGczbEpZZ0duckdHNEUtZjlkODNkRnBBOXZqOTAxSTBrZ280c3ZHQ2xYdnpJNDNaeWVGeFVLS0tEdGE4WUZOOGxSUXd1cWlQakRNTTRONDRpQTBCQ2wwb0kzaUc5b2o5c2lmakhyZV90Sk93Q3BkWUlwZElHeFVqX1c5VjltckdvcUROeHZWcmt4OGVVTFJrY0I1MEhESEZPSzdVajBNdnBIclVNcEI0dTZDbjB6b0dfWDJHMVh0MnZYenV4TVBTQTlUUDZWbG52ZDRXNXVXMjM5Mjg5cXozYnI3U0JKYVdZZGdPM1V1XzdIUVRuYUo0Q09MSVpWN2lDOFM4aTF5cVdWbmlKNk1CMWFqd0RDaWdYNmJpdm8tRGNKb1p2Z1g1Z3lSVmFTUHZTZ010T1pDcjZicEFNVThGMVRkS1g5Z2ktQzkwbWlN?oc=5"
+      "title": "黃金高點回落26%、白銀腰斬！「富爸爸」羅伯特清崎逆勢加碼：長線仍看漲 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOMHZ1TVRzbmRYdFFWQ1VYN21OcmMxZzFXdnF4dnB2RVU2WjZ3SnJsYk80NU5wWHhkOFNoeWQ5YjFiYWYydVZ1ZmctTERpUjlTMkU0eXNJT3dBZjNRbmU2UGk0VDl3b1gtT1BFMDZnZW11WElEOGtDX21TZzNtZlNWZEVEc2I0UTVhTkZmSldfYkNYOUswN0ZTdVlDYWs0VzlNN0NrdlBRbTFMSlU2MjFSYXZBMkstc0RreUEyUUllbndDd2pqM2Z6OUliR0doanFacG1nOUNKcU5zWGM2emhpME12NGt4SmlBT0dVbmVxNThEWm9SU1lid0JCa0xkbEp6WFo0czVGTm1abWtvR3VWMlhrSFBGZFhLcFRDRDFFVWV3ZUl5dXoySGNPbU9DT1NtMXlKb2RlSmQxV2NQZHNHMWJ1aWM0RHFiaEZzWTRPbV93VDFKR1lzR2JwVnVPczl2YnNGaHNrTUx2dEtZOURfb2pLODlrWGVieEJBdFJYLWZjMWhCSHFRakRxaHZkX1g1TTV1SFJCZjB4QzUySHN1bG9RVmgxakE?oc=5"
     },
     {
       "title": "台股重挫後繼續勇敢買？投信舉過去數據：正報酬機率達95% - UDN",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDV2NDVFJhYkRIWlJpMTRPUTlpOWZPdDJITExlVk95NFJOeENxdWZmX1l1elVUaDFGZTU0NTR2RlN0RTRFNFJ5dXFrdmI1SUE3VWZVbWhIbDNhUVUxUmRr?oc=5"
     },
     {
+      "title": "台股急殺「何時能抄底」？ 他統計主流投資人想法 網一致推：等國安基金 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOelU4RmtJSFRMMkNuUmdHR0hHNGV2ZXgxdkZ5N0JReUxIa01aNmZva2J1ckdjSm9nMGZ6M2NrX1M5bVBjRGR5MzNCVHJ6aXZRbFdkZ1J6VC1ONWNXOW12OXZYb1FVRk5LbHZIeDZzLS1hSTF6dG4wNVN0WnlCZUFLU2JXSUJCLVJlV3NnYkxaN3dxekZ0ZkF5WnY5UENHMGlyWU8wSWQ5eUNyaFlJMnJvbWg1dmRXcDR4QnNUblh2QjYwZHYxYXdNTmh1T0pQZk10WjlOZXd4aG92cnpMVjg1YTlGRlMtNEVtSEpZNkMtU29HNnRFR285U0JvS0xrbkh6Y0RGRzBQUVVVc1RLMVN3bVFGNlB3RHlheUZ0YjF2SUZSR2dBcEJ4NmE5T2MwOXJEM3ZFbWU1bVBSdTBhY2xWdkI0d2U0NFRRSUVST1pJU0hoQmRtSjdGQTc1cnZvS3dyTy1KdU9pZWc?oc=5"
+    },
+    {
       "title": "台股周線跌近6%失守季線 法人：本周留意去槓桿後布局機會 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Xd0hIcWw1Nk1SV0xyekxtMmpFVEJfdjYxdV9Ob0VPTndEVlNDQ1lTTkNHczZ2OW5aZVUxOUpxRzhCU1QwWDA2RGdmNF9aZDVs0gFWQVVfeXFMT0F6RzRVaUszZklhczUwY1ZVNW90Q2t2Q1hBTWZUQnlubHJZVXhkdHlhcXhnNFIwWEpNNkJZNW1pQlJGdVN3RW9QMlFKTjZCWWkxV2hJM0E?oc=5"
     },
     {
-      "title": "黃金高點回落26%、白銀腰斬！「富爸爸」羅伯特清崎逆勢加碼：長線仍看漲 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOMHZ1TVRzbmRYdFFWQ1VYN21OcmMxZzFXdnF4dnB2RVU2WjZ3SnJsYk80NU5wWHhkOFNoeWQ5YjFiYWYydVZ1ZmctTERpUjlTMkU0eXNJT3dBZjNRbmU2UGk0VDl3b1gtT1BFMDZnZW11WElEOGtDX21TZzNtZlNWZEVEc2I0UTVhTkZmSldfYkNYOUswN0ZTdVlDYWs0VzlNN0NrdlBRbTFMSlU2MjFSYXZBMkstc0RreUEyUUllbndDd2pqM2Z6OUliR0doanFacG1nOUNKcU5zWGM2emhpME12NGt4SmlBT0dVbmVxNThEWm9SU1lid0JCa0xkbEp6WFo0czVGTm1abWtvR3VWMlhrSFBGZFhLcFRDRDFFVWV3ZUl5dXoySGNPbU9DT1NtMXlKb2RlSmQxV2NQZHNHMWJ1aWM0RHFiaEZzWTRPbV93VDFKR1lzR2JwVnVPczl2YnNGaHNrTUx2dEtZOURfb2pLODlrWGVieEJBdFJYLWZjMWhCSHFRakRxaHZkX1g1TTV1SFJCZjB4QzUySHN1bG9RVmgxakE?oc=5"
-    },
-    {
-      "title": "台股大跌小資族瘋搶0050！存股族曝殘酷現實 一票人苦笑：甜甜價但沒子彈 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPaHk4SS1kZ0JVX0RMclVrLUZaRlNxekF5REp2ZTJqMklvbE9IdlhGa09JU2RPVkRmT3NUWUtqRUFCc3lHaDhqeWRwa3ZueDNDMzN2ekVIYkE2MVhmV1BfeEJwSDhFSU9laWhUV2xXcTdmVmtreURYRHRTMlVNT3FqejNUS2xqbjdYNl9lYWxVUk5jWTJ0QTQzOEliYS1JWFlhZ2FTUGdtZG1lZjhTbzVSM0o3OFNEa3NxUTBwWFI1ZDhUTS1JYjFHV2NRZzF2cXp4bHlSZ2RpWVU3SXB5RTdqOVltdTZSamplLTFMYTBTSHpUaGl1bUFSX0JPV1NCUTZPTk9YelM0S1g5MHhMZkk4aThGT3c5N3ZqNXhoS0wxWkI0RXBEMUpsaVNRU19XX0ZLQ3NRMzlsWk0yZFNLeG12TmNsLVdYMUpHMFhuUS1oOUVjdUV2bF9zWXQ4UXlZRDZlRkNiNFFiRWFCQlNRTmw0cEdyWEVFNEhhWC1oR05Hb2RTaXBRdG1kV0VfXy13TmExMHY5Z09iUTBGTm9jbE01UDlrY0tCdjBXVUtlRU9OMkFnZGwt?oc=5"
+      "title": "聯發科重摔14%反成資金標的！小資族趁台股周跌2683點逢低布局半導體雙雄吸近5萬零股大軍 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxQODMzR2V3M25BcHUxcmpkR1ZrT3lrS2ZUV2ZGT3dtX2ZGV2JMRm9MR0l2a0hkNUI4MkpmUVAwaW8zUk5reHZGeEllQjFaU19SSjdCdlFmckFwU1RGX1R6alhuQU53R0x3Z09FOU1QSnNKQzBWc2tqakZYWlk3MjJ1d0pFZlY0YnphNnhNdVBvYnEwWDFWQkREM0FjWFA0ZkRPOUJFM1BSN0xRQk5wS3dWODZfNFMtQU5zRDBSSkIyeUo5bUN4d1BKWjRkTlEwdFlvWDNtcWdNRVpnWkFSaXFzbW8tQVRNS18xUF9XbmpUQnBTQU9EbVJRT0p6WG5qM2huOFBWOUxYUXQ4dkhHLUl1OTZaODA3RmR2RFAyTXFDeXAxZHZ2WkZNQTFVQm13OEt4aWhidkhYRFdQNGllaUJ5MzlDb2JDakJRbmZPQ2NoaEJaNTVCYkxDRHg4NWlsTU9qWUplSFVrLXBvVzlMczJpeGVSYjAwWmh1Ylo1Nl9KWGJuNllyeUZrM1l1amtSZWVrQ2ZPYXoyREh6YnpKSEdKVVNicmpOc1UzamFuQXoxZVlYOTNBY3kxWnZCX1hFMzdZMmlONERMMWxwMDBMTF9SdUVhMEFNWU5IYWpCT0VYdlVGTWlxLURURGcwc0tvV3VjckhUVG8wdzRBcVJiMERhQWlCN0hhc2hXME9JWFg2ckJiUEdwa1Fpag?oc=5"
     }
   ]
 }
