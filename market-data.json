@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/20 14:31",
+  "updated_tw": "07/20 17:45",
   "taiwan": {
     "2330": {
       "price": 2320.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64083.53,
-      "change": -607.2747,
-      "changePercent": -0.9387
+      "price": 64193.91,
+      "change": -496.8947,
+      "changePercent": -0.7681
     },
     "ETH": {
-      "price": 1854.86,
-      "change": -16.6485,
-      "changePercent": -0.8896
+      "price": 1864.1,
+      "change": -7.4085,
+      "changePercent": -0.3959
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.345,
-      "change": 0.0807,
-      "changePercent": 0.2501
+      "price": 32.297,
+      "change": 0.0327,
+      "changePercent": 0.1013
     },
     "JPYTWD": {
-      "price": 0.1972,
-      "change": -0.0015,
-      "changePercent": -0.7484
+      "price": 0.1966,
+      "change": -0.0021,
+      "changePercent": -1.0504
     },
     "EURTWD": {
-      "price": 37.072,
-      "change": 0.1475,
-      "changePercent": 0.3993
+      "price": 36.957,
+      "change": 0.0325,
+      "changePercent": 0.0879
     },
     "CNYTWD": {
-      "price": 4.7872,
+      "price": 4.7786,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4011.1,
-    "twd": 4171.0,
-    "tael": 156420.0,
-    "twdTotal": 129739.0,
-    "changePercent": -0.0399
+    "usd": 4022.9,
+    "twd": 4177.0,
+    "tael": 156648.0,
+    "twdTotal": 129928.0,
+    "changePercent": 0.2542
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfbXNESjdVbF81T0tmOGoxaTZQSElIZTE0V05LSUpsbjJ4STNSeEFUY1hKanUybDdZMVZpNnY1bDJmaXNJX3E0elRReC1DYzQ?oc=5"
     },
     {
-      "title": "成熟製程、被動遭血洗！ 台積電、鴻海硬撐 台股收跌221點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOSHNXbWJvNHowUVJoU1ZwRkp1NHVMd0lxb2dyb2VFU01femF0elBkZ3NqV1pXVTE4R092eWs4bmF5X3UzNnlvWnNqZ2Z0MTVsU2plRlo1dDhJRWQ1R3BwSGRMUDAtekhlLUMzZGFzZlNSai0yVDY4V2JKa1FYdHVXY3hXTW5KMEtJTWVMSHF3NDRjdnFneVllLTRGOHpRQmVuWVFSNUJ1QkN5UC1VU3hyV3NZeWJTMHgxeVZUM3VVcFM2c2ZpMVIxRVhGQ29CbnoyaVhiZVlFU3BKSTRURWw1WXFSaHF0VUtVSUh0bDFEYXRoeEV1RDlkME53dUktSmxSdEtoNEtGT0F4cDVWUHdXSjZaNHkzU3NwTmoxSF9vdnVUX3ZuM1JXc3RMMGREZmRBMmMyeGpPNzRYMzBReER3QW5tcllhcXhWcDd2VE9IVzFqNzA2eW9acVR6c1A3ckpC?oc=5"
-    },
-    {
-      "title": "台股重挫為史上最大單日跌點 金管會回應了 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTmt5a1MxTnlWc2hrb1ZMSTY5Q0c1WVZla2lkc2hWSzZDempCZkY1YmdmU2J6SVpKY1ktM1hLY0tOOHRxSl9jVURWLW5la3BtS3RXRW9oV3Znd9IBX0FVX3lxTE54SFE0LW80NENpN05WZmpnWVM5N1NFMjI1NldFZGRBV2ozTWtsSzVzUmtCUkVmVXc4dXFpNEVldm1xMEtSbExYVzZCMkpGZjJUdGZwbktJVUl2cmNfTHFR?oc=5"
-    },
-    {
-      "title": "《貴金屬》COMEX黃金上漲0.7% ETF持倉減少- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdDNaT01paS1yeFZFeEkxMXNINmZPZlpsb2ZlUlhqbE13X29OQXhNX2RPaGVtaGdPYVc2cmtSa2NzNkVIUkRTSk41MGgyUjdyQlpYOVN0QW1UNkNkYVBHY2drVWlKQjFMNjFvaHFrMWFoeFlIaHo3TnpHV0ttMmtObVY3M2kzR2RsWjlFaHdpZUxxdw?oc=5"
+      "title": "週一台股開紅盤半小時後翻黑 跌破4萬2千點上下震盪 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrb3hpdEJCWkpxV2Vzck94OWloVjJFTXV0OUNFREhVM1ZWRFlqSEJiMTg5UFhFU1FXVHBLRTM1Z3ZJUnhvMjFQcHFYT05rUXc?oc=5"
     },
     {
       "title": "台股跌221點收42449點 台積電漲30元重返2300元 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tSExwNG5rOVVfZk9PdVhVWGVmSVdIeWhkU0lieGs3MlZQUzdVaGJkeGVERWNiQ3FfZ3JxVEVlbzZFS3hSNnFORUFUX1pjZzBvNThqS2xkLWkwMmRIaFE?oc=5"
     },
     {
-      "title": "台股「替這1國扛責」崩2953點？專家曝止跌訊號 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQVTRjUF8ya3ItT2hUWm1GMEx0TzlNQk9yRmRUMlpjZzZXYWpuWEVWN3d5eGxnNWp4UXBxSEplNVc0WEV6RUI3MThxTUZ3cWswR3JsZHBnNVpfVkJmNHkyZnVYSzF0eEpMMHVVM2RsNk5TMEt2VzBKaGFVQzF5d0JQX3JadktlZ0NlczFmc3ZvQUo4UUc0ak5OUE9IbHZFMEtkNVJPakVoRF9NLWMwcE01RXVKbFJteXVzNGRpT0pYUGNGY1FveWwzZXM1M2N4SXpqX1EzcElNTW9KSGh3alBncXhpel9BNktZdnl6ZHZYb0xGMllhX211NkhEcDZKOGhJQ05ZQlZYbHpqTGFjTTlJM21vWHRaREExY0xhVThNa0N6azhTMEE?oc=5"
+      "title": "台股韭菜遍野！台積電逆勢收漲拉不回、三大法人小買5億元 股民心累：佛系看股 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPa19zVWxzZkNGMW9qdGltQUJpcU84Sy1DMDRSODJkSHdSQXVqa0ZRVk9XQzhjZ29YUDdhM0dQeDYxRnlZXzFZMHR3blRMR2tPdlEwZE5QYWRLc2dWMWVzNWtKdEhjUDBHVFRsdDNMQVhiRlg5YTd6VFVKNEw0ZVBMM1BVblM2VXQzbzMtX0RkZE1fRGJWaExRX3Y5Z0JRdGtuRmlQdXFuR21MSzBqR2JHanZyTllOY0NHazZYem1tMHFQcFFGLVkzc2NxVGtTYzlpamxvUTFRbk54MWs3ZnFoN01sSVBHZ0Fpc1B3RzR0akZ6YnNZRmpsbVozZWNEdXl3NmNRdTBKVkNJdE9RTEp2ZzBoc1ZRY3FoUXdfb3pTMG16WHZwQ1RTNFdiNmhhbkZobVNTVXNIZ3pzLUVCbWJnclgxbFh3UGpvNHB2Qy1YSmNqMU9EcTFsV0JfQ1JENFFZdzV5MURUUWtJTjEtYThJQ0dra2huVkdKek5aSGFXSzlWRFEyaGtHVEkxZmdvcG4xTXplV3JoYWsyQktfajFCM1FqNnZWVGRfYzg4LW5taXpsaENIZW5VaTdoNFB0eE9LVXFkTnZOaTlDUlEtbWZQWkNEdUJJMXk2QkhuTnZNYTUwUQ?oc=5"
     },
     {
-      "title": "台股開高殺低震盪近900點 43000點得而復失| 股市要聞| 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nZGwyVGp2TS0wcGJ6Y2xndzBCRldxQlVDV1g5b3BXWGlrTmtsck1Tc2ZWUWlHbnlnNzVpUDdOeW5lVGpQZ1Zac3hITTZmOWNm?oc=5"
+      "title": "台股震盪千點該降波動還是準備接正2？股添樂祭3大策略：跑輸大盤但睡得著覺| 存股族愛ETF | 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NenVCcU5acVk4UzgtOEVJTzVwYV9CVEttbW9pRFlxS3RkYjFzcTN6TVBNcHBNNkFINGhwZm1vaVhqYzEzVTR6OGtNV0dFU2EtN1p3?oc=5"
     },
     {
-      "title": "〈台股開盤〉反彈搶占4萬3陷千點震盪 台積電守紅盤、政策概念股軍工走強 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwdnNMdDlsb2lVNEx6Mlg4ZUU0eHRoSDBLSWtkaGlxTjR5eVhZTTdqaU1OTmtnRHdHcTJDMDJGY3Q5TWFuNml3eE9USnlENTQ?oc=5"
+      "title": "台股震盪逾千點！投信狂買7金融 這檔瘋掃逾5萬張最搶手 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wLWF3VVJfYXNxNE5QR3gxRjBGTFJJdUVTa01VRnVMSDF3TEtWWDIxeG51cDdzUU85THhsdjNSaWNldTN4TWx2blhPZE4zckRtTlpMb0ZvdE92T2pQM0tF0gFkQVVfeXFMTlozVlhJVTZPWXhwMlhiQnVzV28wc0VSSDdoODZFZ0dYMFhkX0NQM3ZSUkN1b2poNFhOREhONGU0TlBvdzNMVmNaSzU0WVVzQjVSdTlKcENqTTRJVVJtdEpWZERyTQ?oc=5"
+    },
+    {
+      "title": "《台股盤後》投信買超146億難撐盤 震盪收跌221點 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbW41ZWVCSzE2Yk9WUDFGTDRPcFREc1U3dUVpVUlWYXRsX3FHbGo3cFVqMWZhOVR3MWgxWmNTUlk5ZzZlZ2VLZERXUTYxX0FiTFJWZFhzS3NkZlZTSk9zODRTMzg2ZXp3M0xqS2hnVThrelM4eHhNNDVYZ0pWN0wybnhwQU9MWnFDai1RcGI2ZVo5QQ?oc=5"
+    },
+    {
+      "title": "美股盤後｜中東局勢升級及Kimi時刻施壓，四大指數同步收黑 0720｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQbWp4NWhYSGpwTHJOcmZ6M2pNeWZDNWp3UEJTN01hby1iYnZPZnZOd1JHTlpOUEFyRjRjNVROY1ZLRDVka3RLLW9TNFY1YjBaVWVMcDZfZUN4OVRQMmRoczhHaXRGZW1QdmxmM2lXcnZKVTQ5WEtGNjVDZm5GeE5kUExYaDNTTE9PWWhNMjVUZjBnWHBtd2lXQUF5SE9fQ3NibnA1ZWN0WDIxb3NyVGlKMXBiWEI5cVp3WjlySmFvQUhCOUNpS1UxWThZVnBjd2dRWGFROFk0eGdjSnFCTmcwaG9CTVBfSFgzTkluV0J0YXhTak93bnFTZzN6WFZ5TG1SSmJGem1wRk1BUEIyYkc4WFUyRGxNNXpUQjdHbmFqQWRqeTlsWkphU3l5RjVYeUZJWnZteXF1U2U1OGZ1RTc2MWRHVi1KaGhMNlhSNEFUQ0YwT3hMTXJUeFdGdzBmemw1TElRbmdtMEFZUGVOaWI1eDdUX0RrMFY5a25DMkFFQzVhbWdZdTh0Z21VczVDY0xpd0UzWGZ3VExRbTRpSURz?oc=5"
     }
   ]
 }
