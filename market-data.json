@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/21 02:22",
+  "updated_tw": "07/21 04:05",
   "taiwan": {
     "2330": {
       "price": 2320.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 204.56,
-      "change": 1.75,
-      "changePercent": 0.8629
+      "price": 203.28,
+      "change": 0.47,
+      "changePercent": 0.2317
     },
     "AAPL": {
-      "price": 326.12,
-      "change": -7.62,
-      "changePercent": -2.2832
+      "price": 326.59,
+      "change": -7.15,
+      "changePercent": -2.1424
     },
     "TSLA": {
-      "price": 373.41,
-      "change": -7.43,
-      "changePercent": -1.9509
+      "price": 369.57,
+      "change": -11.27,
+      "changePercent": -2.9592
     },
     "QQQ": {
-      "price": 700.475,
-      "change": 5.145,
-      "changePercent": 0.7399
+      "price": 696.06,
+      "change": 0.73,
+      "changePercent": 0.105
     },
     "SPY": {
-      "price": 744.87,
-      "change": 1.58,
-      "changePercent": 0.2126
+      "price": 742.21,
+      "change": -1.08,
+      "changePercent": -0.1453
     },
     "SCHD": {
-      "price": 32.835,
-      "change": -0.075,
-      "changePercent": -0.2279
+      "price": 32.748,
+      "change": -0.162,
+      "changePercent": -0.4923
     },
     "VOO": {
-      "price": 684.67,
-      "change": 1.5,
-      "changePercent": 0.2196
+      "price": 682.2,
+      "change": -0.97,
+      "changePercent": -0.142
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65571.33,
-      "change": 880.5253,
-      "changePercent": 1.3611
+      "price": 65067.99,
+      "change": 377.1853,
+      "changePercent": 0.5831
     },
     "ETH": {
-      "price": 1908.53,
-      "change": 37.0215,
-      "changePercent": 1.9782
+      "price": 1897.69,
+      "change": 26.1815,
+      "changePercent": 1.3989
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.276,
-      "change": 0.0117,
-      "changePercent": 0.0363
+      "price": 32.285,
+      "change": -0.028,
+      "changePercent": -0.0867
     },
     "JPYTWD": {
       "price": 0.1965,
-      "change": -0.0022,
-      "changePercent": -1.1007
+      "change": -0.0023,
+      "changePercent": -1.1609
     },
     "EURTWD": {
       "price": 36.897,
-      "change": -0.0275,
-      "changePercent": -0.0746
+      "change": -0.022,
+      "changePercent": -0.0596
     },
     "CNYTWD": {
-      "price": 4.774,
+      "price": 4.7775,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4013.2,
-    "twd": 4164.0,
-    "tael": 156168.0,
-    "twdTotal": 129530.0,
-    "changePercent": 0.0125
+    "usd": 4011.0,
+    "twd": 4163.0,
+    "tael": 156126.0,
+    "twdTotal": 129495.0,
+    "changePercent": -0.0424
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QYWgwU2pMMW5SLU5fQjFRSmwzX2hkTmRQQ0M3NEtkVGdEeFJQMll4bW51a2FBWVY5QkZZdVhnTVRoRkMzcWdSQ2hFWENGNDA?oc=5"
     },
     {
+      "title": "美股盤後｜中東局勢升級及Kimi時刻施壓，四大指數同步收黑 0720｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQbWp4NWhYSGpwTHJOcmZ6M2pNeWZDNWp3UEJTN01hby1iYnZPZnZOd1JHTlpOUEFyRjRjNVROY1ZLRDVka3RLLW9TNFY1YjBaVWVMcDZfZUN4OVRQMmRoczhHaXRGZW1QdmxmM2lXcnZKVTQ5WEtGNjVDZm5GeE5kUExYaDNTTE9PWWhNMjVUZjBnWHBtd2lXQUF5SE9fQ3NibnA1ZWN0WDIxb3NyVGlKMXBiWEI5cVp3WjlySmFvQUhCOUNpS1UxWThZVnBjd2dRWGFROFk0eGdjSnFCTmcwaG9CTVBfSFgzTkluV0J0YXhTak93bnFTZzN6WFZ5TG1SSmJGem1wRk1BUEIyYkc4WFUyRGxNNXpUQjdHbmFqQWRqeTlsWkphU3l5RjVYeUZJWnZteXF1U2U1OGZ1RTc2MWRHVi1KaGhMNlhSNEFUQ0YwT3hMTXJUeFdGdzBmemw1TElRbmdtMEFZUGVOaWI1eDdUX0RrMFY5a25DMkFFQzVhbWdZdTh0Z21VczVDY0xpd0UzWGZ3VExRbTRpSURz?oc=5"
+    },
+    {
       "title": "台股反攻訊號亮了？台指期夜盤飆漲逾700點 權王台積電同步走強 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNbGxXbDI3cWtpbVZHNGZ3WnJFT2hYLV95SWNPTGU4UHFnWlk1NEs2eGpsVS1uV1JSWVkzaGV2cUZ1ajlpZ3JENkx3WnlhZThURVVEVTVuTzNfYTF0a2Z4OVVPMC1RdGlicDBPSVdmbEpybFV0RlJVR0VvdTZzRlJtMzh1QnQ2VFBrRnV5eTRVTGY0TDd0RmdHVWx4Z3B4czd2bGdpbXFGTXJKWGtfZzNsazh6UGM3MFVSMDNkdGJxLW4zanVVU2R4VXNoemJ6N2VycHhNcFc4V3JKbEZPWlR1alNIMzlCN3NRLWZzbVB0bW56ZkloM0w2aWM0eDRUeFlUZkdheHRtejF6ZGgtUUR3MmpEbEZMbldFc21mRXBSNXQ0eFliSzd4TGxsR3VPZGZSSEtDV08xTEl0R1JoWkN3dzJldGs4NVd2NTZCY0VOQmtmSkxIMmFXeTZmalRXc1RZN1dVdTJwS09la01rYTdWYmJDTW9GT1otUFdRYzFITTFwdlZ1cGt0WnpGY2JYT1JyQlkwWmR3Szk3QQ?oc=5"
     },
     {
-      "title": "去槓桿效應蔓延 台股震盪逾1100點 - 大纪元",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NLXZkY1F1X0Y2LVd6b0IwZ2Z5U04waFpkdXRSN3VfTzRBTjUwbUVBQVBvclo3OVRtMWk4SHFtX3JkRHRXMUV6cjYxUTAxdTBsWTZBc3FNN0haRm8xV3FxZdIBZkFVX3lxTE5XckNycW82VTVEcDlDM1JPajBjN0RBdTF3LUstMkZoY3ZpQXVJVk5aajZxYWppWHJwMjcxbXZXc1k4aGlCYk9BamlqZ2pXWXZIQW9tZGZ0SlN2ZUl3aVlqbWxPb2pnZw?oc=5"
-    },
-    {
-      "title": "#最新快訊 台股新增2檔 「抓去關」 又一檔被動元件入列 - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQWC1MOEVTRFpHR0RJY0Z5Y2h3WHhRUV9XNUZqdDA1djNUY19fbHo4UkFDMjRNWVNzMUdSeHFHX3REbFlGa1p6U25pNmdtck5MWGdIcS1JU19ONXJwY1RzSUw5Q1UzQ1diZ2tyOFB1ZnpMSDVDcUF1bl9TMTR6NU9DNE1MLTFGajYyaUFPdlJqUzhINDEwT2VUOS01b3pTaHE5WHBqQ2xOSVFhTFhYZng4cVBSOU5VdTA0R05BZm9EeGtWZGZQcXpNMk5hNlBpSUdnVVdfWHRUR1FRT2EzZGFZSHpiUkJKdHR0OXZSNlZzRlVBWnlHakdtMG1Jc1FuNUQ1a3N3Q1hnb2hJYWxxd0lVcDloU25TR2FoUlBvSEJwZWhyd2MtU3BKcnp4MmZDVTFmRVAzLXFBUlQ0bF9BQnhDdWMySlJybnVIeHRIUEY0TVpEbmdpNDJVYXQybXVqVVhrWFdPN3dB?oc=5"
-    },
-    {
-      "title": "台股多頭終結？專家：「慢牛」行情來了！3策略看怎麼買、何時買 - 商周",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DX3BROTI5S0ZiR0UwcnJNUUJrMEk0c185cktMcjVpVXFBdUxKX1Q3SU16bzNBQVBiQ053LXFCek5rWXZQZ3VwVFVDbFZMUGJEUFQxajRuSFJrMWVLRmYta2pZVFhiZw?oc=5"
+      "title": "台積撐盤、外資縮手 台股守住42K - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93bXhyeEgwUllJZDV4NGtvRzdLM3NhX29jY1NzSVdwbE5sNHdoVEtTZHJCOXJUT3ZvSGlRQXJtS2FmRTNoME9nSEVydjQ2eFpnRUVmRzN0aDBZVjYyTHhN?oc=5"
     },
     {
       "title": "美股確實深陷科技七巨頭焦慮 但並非空頭警告的那個 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyaUhiNFJIRkJHR2FVOG1BNnVfS0hIc29kZjBCVDZWN05DWmF6TXlPeWR1WFB5RElCYXRmSlZ3dE5aSjBBVWVEbzV3MzBBNmc?oc=5"
     },
     {
-      "title": "中東戰事再露曙光 台指期夜盤一度飆漲近千點 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CZEVOaGxZaGlnVkxuV2ZkU1p0VjktSXdLVEdWUGNmOEFWSVNDbEsxUHZwMkZkamNIQkZEWldfUjlNMmUxYmhSbUNLbzJjeUpuTWpjLU9JVzh4emPSAWBBVV95cUxOY1BBWjVtYXNHNS1sTlJLSFAtaWo2LVJfcWRCa3M4RC1PMEFUMHhncDFVU3cwa2kzb3VxdlpRSFZSSXV3Ri1lYnpqX2tkdWNHQ0NIR2RLUUJGR2QzVk1McFc?oc=5"
+      "title": "字母、特斯拉等將公布財報 美股科技七雄拚當「救市主」 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zMlVTNFFxdzdDT2p1dEtxeC1wZjM4azFuVlJJOWxQZGstWVM3cnd2cmNtcDAwWU03aEFpaHNMRV9jZ19heW9uRWFHeFlxaXZIM0lxaVNOTkR4ZWd6Y1VTS2VxdjdvbUdNT0t0ZnlYVjNzZw?oc=5"
+    },
+    {
+      "title": "週五股災後 台股大洗三溫暖震盪超過1100點 終場跌221點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPYWZ2cnlHOWNzeTY0M0FNMjZmNVV2Zi0xVFhSVldlanpRZE9wYVdVVWNTaFNINzQ2dnFob2dwcFRsTkNZRENzdGM5Q1I2MlNzVUlodUQ4MlhpSllnQlptNHdXTWpFTnBsbGJBMm5mc3NKTHZNdl9udGlRODZEUHNEWUJ5cHBUclVaMVp1c2ZDR2pxTTdCU3MyOFVoM2llZWg4TUVpUFVORjVwV0dORzRjTlpKQVpHRllMYjA0bmhfenpaZHFIU0pNbFpLTV8wdWRLSEVWTFFfZGEwUUpkVmtFM01jUzJOcG5sV0FhVXpSOG1pU2tWWDRtSk9qejJ0Ul9za0NDSzZKQUVoTnBFTC0tbEdoUC1DeUl2Y2stbWpMMWhGVTNvZmJORm1YdlZ1dlJmeUlXcmV2QnRLSFpqVTdnNEQyMWVUdEZoOGIwdDM4MHYtc2gzRWVUd09udTlZV1BQd01B?oc=5"
     }
   ]
 }
