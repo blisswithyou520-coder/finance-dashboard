@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/20 22:37",
+  "updated_tw": "07/21 00:14",
   "taiwan": {
     "2330": {
       "price": 2320.0,
-      "change": 30.0,
-      "changePercent": 1.31
+      "change": -150.0,
+      "changePercent": -6.0729
     },
     "2454": {
       "price": 3340.0,
-      "change": -30.0,
-      "changePercent": -0.8902
+      "change": -360.0,
+      "changePercent": -9.7297
     },
     "2317": {
       "price": 234.5,
-      "change": 0.5,
-      "changePercent": 0.2137
+      "change": -8.0,
+      "changePercent": -3.299
     },
     "0050": {
       "price": 99.2,
@@ -24,8 +24,8 @@
     },
     "00878": {
       "price": 31.36,
-      "change": -0.45,
-      "changePercent": -1.4146
+      "change": -1.59,
+      "changePercent": -4.8255
     },
     "00919": {
       "price": 28.55,
@@ -35,85 +35,118 @@
   },
   "us": {
     "NVDA": {
-      "price": 205.49,
-      "change": 2.68,
-      "changePercent": 1.3214
+      "price": 205.9,
+      "change": 3.09,
+      "changePercent": 1.5236
     },
     "AAPL": {
-      "price": 327.37,
-      "change": -6.37,
-      "changePercent": -1.9087
+      "price": 325.1,
+      "change": -8.64,
+      "changePercent": -2.5888
     },
     "TSLA": {
-      "price": 374.65,
-      "change": -6.19,
-      "changePercent": -1.6254
+      "price": 376.42,
+      "change": -4.42,
+      "changePercent": -1.1606
     },
     "QQQ": {
-      "price": 700.985,
-      "change": 5.655,
-      "changePercent": 0.8133
+      "price": 703.63,
+      "change": 8.3,
+      "changePercent": 1.1937
     },
     "SPY": {
-      "price": 745.31,
-      "change": 2.02,
-      "changePercent": 0.2718
+      "price": 746.81,
+      "change": 3.52,
+      "changePercent": 0.4736
     },
     "SCHD": {
-      "price": 32.79,
-      "change": -0.12,
-      "changePercent": -0.3646
+      "price": 32.845,
+      "change": -0.065,
+      "changePercent": -0.1975
     },
     "VOO": {
-      "price": 685.05,
-      "change": 1.88,
-      "changePercent": 0.2752
+      "price": 686.42,
+      "change": 3.25,
+      "changePercent": 0.4757
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64295.49,
-      "change": -395.3147,
-      "changePercent": -0.6111
+      "price": 65496.17,
+      "change": 805.3653,
+      "changePercent": 1.2449
     },
     "ETH": {
-      "price": 1862.09,
-      "change": -9.4185,
-      "changePercent": -0.5033
+      "price": 1902.11,
+      "change": 30.6015,
+      "changePercent": 1.6351
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.281,
-      "change": 0.0167,
-      "changePercent": 0.0518
+      "price": 32.263,
+      "change": -0.0013,
+      "changePercent": -0.004
     },
     "JPYTWD": {
-      "price": 0.1964,
-      "change": -0.0023,
-      "changePercent": -1.1511
+      "price": 0.1963,
+      "change": -0.0024,
+      "changePercent": -1.2014
     },
     "EURTWD": {
-      "price": 36.886,
-      "change": -0.0385,
-      "changePercent": -0.1044
+      "price": 36.874,
+      "change": -0.0505,
+      "changePercent": -0.1369
     },
     "CNYTWD": {
-      "price": 4.7753,
+      "price": 4.7722,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4008.6,
-    "twd": 4160.0,
-    "tael": 156013.0,
-    "twdTotal": 129402.0,
-    "changePercent": -0.1022
+    "usd": 4020.1,
+    "twd": 4170.0,
+    "tael": 156374.0,
+    "twdTotal": 129700.0,
+    "changePercent": 0.1844
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "美股早盤／停火提議傳出之際胡塞擬封鎖沙國 晶片股反彈、AMD勁揚4% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jSkYzajY0dVhOdTFyMzl4enhpc0Y4QXU1Y0tnRXBaMmNYeEN2SVZkVU1KdEN1SlNDT0NTV0tWTEVGc1VaVzUwTEo2YnFCOTZt?oc=5"
+    },
+    {
+      "title": "〈美股早盤〉晶片股回神！主要指數開高 迎戰AI超級財報周 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QYWgwU2pMMW5SLU5fQjFRSmwzX2hkTmRQQ0M3NEtkVGdEeFJQMll4bW51a2FBWVY5QkZZdVhnTVRoRkMzcWdSQ2hFWENGNDA?oc=5"
+    },
+    {
+      "title": "週五股災後 台股大洗三溫暖震盪超過1100點 終場跌221點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPYWZ2cnlHOWNzeTY0M0FNMjZmNVV2Zi0xVFhSVldlanpRZE9wYVdVVWNTaFNINzQ2dnFob2dwcFRsTkNZRENzdGM5Q1I2MlNzVUlodUQ4MlhpSllnQlptNHdXTWpFTnBsbGJBMm5mc3NKTHZNdl9udGlRODZEUHNEWUJ5cHBUclVaMVp1c2ZDR2pxTTdCU3MyOFVoM2llZWg4TUVpUFVORjVwV0dORzRjTlpKQVpHRllMYjA0bmhfenpaZHFIU0pNbFpLTV8wdWRLSEVWTFFfZGEwUUpkVmtFM01jUzJOcG5sV0FhVXpSOG1pU2tWWDRtSk9qejJ0Ul9za0NDSzZKQUVoTnBFTC0tbEdoUC1DeUl2Y2stbWpMMWhGVTNvZmJORm1YdlZ1dlJmeUlXcmV2QnRLSFpqVTdnNEQyMWVUdEZoOGIwdDM4MHYtc2gzRWVUd09udTlZV1BQd01B?oc=5"
+    },
+    {
+      "title": "台股腳軟收黑！外資砍台新新光金大撿群創　一文看買賣超前10大 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TT2h0Q0s0T2dlcThfRjgzM3JRN2FsRVVDbFo0RzFRUDlpcXc1cTIyT3BOeWtaLWVuNk1rOGdQUEN6ZmhNTnFkaGU5eHozWVB5RmfSAW5BVV95cUxQY01wUloyQXVVZ192WFJTOTZfTGlSd1dMck53azF6c2taWVVWZG9yZlYwY29qWVVaOHF0MDJ0RVVOdlZrbEs0V0hIY1BwUzZsV0liU1dBNWRvN2kyeG1naE5haUR1MTVpR3NSdXBjdw?oc=5"
+    },
+    {
+      "title": "美股確實深陷科技七巨頭焦慮 但並非空頭警告的那個 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyaUhiNFJIRkJHR2FVOG1BNnVfS0hIc29kZjBCVDZWN05DWmF6TXlPeWR1WFB5RElCYXRmSlZ3dE5aSjBBVWVEbzV3MzBBNmc?oc=5"
+    },
+    {
+      "title": "台股崩逾3,000點後該買還是賣？法人這樣說 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Vl9hOE9ic3czQk1fbzd3OFhSMlctbEllcVRJdF90ckV6dWc0SDVoUjA0ZmpZSk9UcHlxSUNRdFZjc1hSWTctV3JYaFFSZFdjWVFrYXk5c0Jwd9IBX0FVX3lxTE83OFJKOHEtY0V3cDUyc3ozSmFJOEZleHhHd2w1QVF3OXZMU042WFBvRUVfTE42R0NTUkl0WFFRbWcwb1l1d0VNTUVYU2pqU0FNaWxmZmY3N3hjMHo1aFlr?oc=5"
+    },
+    {
+      "title": "台股反攻訊號亮了？台指期夜盤飆漲逾700點 權王台積電同步走強 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNbGxXbDI3cWtpbVZHNGZ3WnJFT2hYLV95SWNPTGU4UHFnWlk1NEs2eGpsVS1uV1JSWVkzaGV2cUZ1ajlpZ3JENkx3WnlhZThURVVEVTVuTzNfYTF0a2Z4OVVPMC1RdGlicDBPSVdmbEpybFV0RlJVR0VvdTZzRlJtMzh1QnQ2VFBrRnV5eTRVTGY0TDd0RmdHVWx4Z3B4czd2bGdpbXFGTXJKWGtfZzNsazh6UGM3MFVSMDNkdGJxLW4zanVVU2R4VXNoemJ6N2VycHhNcFc4V3JKbEZPWlR1alNIMzlCN3NRLWZzbVB0bW56ZkloM0w2aWM0eDRUeFlUZkdheHRtejF6ZGgtUUR3MmpEbEZMbldFc21mRXBSNXQ0eFliSzd4TGxsR3VPZGZSSEtDV08xTEl0R1JoWkN3dzJldGs4NVd2NTZCY0VOQmtmSkxIMmFXeTZmalRXc1RZN1dVdTJwS09la01rYTdWYmJDTW9GT1otUFdRYzFITTFwdlZ1cGt0WnpGY2JYT1JyQlkwWmR3Szk3QQ?oc=5"
+    },
+    {
+      "title": "比特幣 ETF 恐重演黃金 ETF 劇本？彭博分析師：暴漲後恐陷入多年低潮 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zZnowZHFlejdjbHlMR0g2TXM2bk5RbHNMUi1XdVRGWkhGLVFaTEs0a2Jxa05SRmxWd09NRXM4VzBaQmNoNGhUZEhNMA?oc=5"
+    }
+  ]
 }
