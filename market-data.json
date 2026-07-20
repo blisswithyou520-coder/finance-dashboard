@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/20 17:45",
+  "updated_tw": "07/20 20:15",
   "taiwan": {
     "2330": {
       "price": 2320.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64193.91,
-      "change": -496.8947,
-      "changePercent": -0.7681
+      "price": 64720.0,
+      "change": 29.1953,
+      "changePercent": 0.0451
     },
     "ETH": {
-      "price": 1864.1,
-      "change": -7.4085,
-      "changePercent": -0.3959
+      "price": 1878.72,
+      "change": 7.2115,
+      "changePercent": 0.3853
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.297,
-      "change": 0.0327,
-      "changePercent": 0.1013
+      "price": 32.299,
+      "change": 0.0347,
+      "changePercent": 0.1075
     },
     "JPYTWD": {
-      "price": 0.1966,
-      "change": -0.0021,
-      "changePercent": -1.0504
+      "price": 0.1967,
+      "change": -0.002,
+      "changePercent": -1.0001
     },
     "EURTWD": {
-      "price": 36.957,
-      "change": 0.0325,
-      "changePercent": 0.0879
+      "price": 36.931,
+      "change": 0.0065,
+      "changePercent": 0.0175
     },
     "CNYTWD": {
-      "price": 4.7786,
+      "price": 4.7772,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4022.9,
-    "twd": 4177.0,
-    "tael": 156648.0,
-    "twdTotal": 129928.0,
-    "changePercent": 0.2542
+    "usd": 4021.0,
+    "twd": 4176.0,
+    "tael": 156583.0,
+    "twdTotal": 129874.0,
+    "changePercent": 0.2068
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股科技股大失血是崩盤嗎？華爾街：資金正大舉輪動、「這類股」悄悄接棒 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfbXNESjdVbF81T0tmOGoxaTZQSElIZTE0V05LSUpsbjJ4STNSeEFUY1hKanUybDdZMVZpNnY1bDJmaXNJX3E0elRReC1DYzQ?oc=5"
+      "title": "美股確實深陷科技七巨頭焦慮 但並非空頭警告的那個 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyaUhiNFJIRkJHR2FVOG1BNnVfS0hIc29kZjBCVDZWN05DWmF6TXlPeWR1WFB5RElCYXRmSlZ3dE5aSjBBVWVEbzV3MzBBNmc?oc=5"
     },
     {
-      "title": "週一台股開紅盤半小時後翻黑 跌破4萬2千點上下震盪 - 公視新聞網PNN",
+      "title": "週一台股開紅盤半小時後翻黑 終場收42449點、跌221點 - 公視新聞網PNN",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrb3hpdEJCWkpxV2Vzck94OWloVjJFTXV0OUNFREhVM1ZWRFlqSEJiMTg5UFhFU1FXVHBLRTM1Z3ZJUnhvMjFQcHFYT05rUXc?oc=5"
+    },
+    {
+      "title": "比韓股還多！外資熱錢上周淨流出台股87.6億美元 居亞股之最 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQU0Y3eHNGS0NtY2lvbl8tOUxoNC0zRENtcDR6Y3VrWWtuRlc0QjJqODJ4d2lGZ3JfdWhoY2J2OUJzTExVTkFfNHM4djZLQ3JiUWI1NGgyek92LURZT1pjbHJFd05HWi1MaVM3ZG5JV2tyWTNYOFRtQ2JMMnN0ZldGajZxemE1WWduTzdQQTBuMC1ycTdKSFZnb1g3TFptekthZUJ1R0tjVm5GWkFhaEFHRzZUMlNFV0RVTHc4dkVUN040WV9zODFaOEZWTGJmaU1sZENkV0piUEU4anZmVjlNQ3hiOTNWdGt5eHJCVjFKenFiblpETkNxWUk0U1N4Y3dRTnYwRWpRckw5dC1QZzFZcmd0ZlJiLWtpY3BldEFXcW5uQ0xTQ3NHVmcwQkN3bWZ0ODl3U19KanROZE5LVVdybmNzdzBVQVRzYjBESUhSZjdpenFfS1hpSG4xOVRjdjB4N3ZwS1ROQWhZUl9hc0RrSXBNbUNGQ3lZdzZ1aXBqWTlnYy1WZWZOcmdDNlc?oc=5"
     },
     {
       "title": "台股跌221點收42449點 台積電漲30元重返2300元 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tSExwNG5rOVVfZk9PdVhVWGVmSVdIeWhkU0lieGs3MlZQUzdVaGJkeGVERWNiQ3FfZ3JxVEVlbzZFS3hSNnFORUFUX1pjZzBvNThqS2xkLWkwMmRIaFE?oc=5"
     },
     {
-      "title": "台股韭菜遍野！台積電逆勢收漲拉不回、三大法人小買5億元 股民心累：佛系看股 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPa19zVWxzZkNGMW9qdGltQUJpcU84Sy1DMDRSODJkSHdSQXVqa0ZRVk9XQzhjZ29YUDdhM0dQeDYxRnlZXzFZMHR3blRMR2tPdlEwZE5QYWRLc2dWMWVzNWtKdEhjUDBHVFRsdDNMQVhiRlg5YTd6VFVKNEw0ZVBMM1BVblM2VXQzbzMtX0RkZE1fRGJWaExRX3Y5Z0JRdGtuRmlQdXFuR21MSzBqR2JHanZyTllOY0NHazZYem1tMHFQcFFGLVkzc2NxVGtTYzlpamxvUTFRbk54MWs3ZnFoN01sSVBHZ0Fpc1B3RzR0akZ6YnNZRmpsbVozZWNEdXl3NmNRdTBKVkNJdE9RTEp2ZzBoc1ZRY3FoUXdfb3pTMG16WHZwQ1RTNFdiNmhhbkZobVNTVXNIZ3pzLUVCbWJnclgxbFh3UGpvNHB2Qy1YSmNqMU9EcTFsV0JfQ1JENFFZdzV5MURUUWtJTjEtYThJQ0dra2huVkdKek5aSGFXSzlWRFEyaGtHVEkxZmdvcG4xTXplV3JoYWsyQktfajFCM1FqNnZWVGRfYzg4LW5taXpsaENIZW5VaTdoNFB0eE9LVXFkTnZOaTlDUlEtbWZQWkNEdUJJMXk2QkhuTnZNYTUwUQ?oc=5"
+      "title": "《台股盤後》投信買超146億難撐盤 震盪收跌221點 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbW41ZWVCSzE2Yk9WUDFGTDRPcFREc1U3dUVpVUlWYXRsX3FHbGo3cFVqMWZhOVR3MWgxWmNTUlk5ZzZlZ2VLZERXUTYxX0FiTFJWZFhzS3NkZlZTSk9zODRTMzg2ZXp3M0xqS2hnVThrelM4eHhNNDVYZ0pWN0wybnhwQU9MWnFDai1RcGI2ZVo5QQ?oc=5"
     },
     {
       "title": "台股震盪千點該降波動還是準備接正2？股添樂祭3大策略：跑輸大盤但睡得著覺| 存股族愛ETF | 股市 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NenVCcU5acVk4UzgtOEVJTzVwYV9CVEttbW9pRFlxS3RkYjFzcTN6TVBNcHBNNkFINGhwZm1vaVhqYzEzVTR6OGtNV0dFU2EtN1p3?oc=5"
     },
     {
-      "title": "台股震盪逾千點！投信狂買7金融 這檔瘋掃逾5萬張最搶手 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wLWF3VVJfYXNxNE5QR3gxRjBGTFJJdUVTa01VRnVMSDF3TEtWWDIxeG51cDdzUU85THhsdjNSaWNldTN4TWx2blhPZE4zckRtTlpMb0ZvdE92T2pQM0tF0gFkQVVfeXFMTlozVlhJVTZPWXhwMlhiQnVzV28wc0VSSDdoODZFZ0dYMFhkX0NQM3ZSUkN1b2poNFhOREhONGU0TlBvdzNMVmNaSzU0WVVzQjVSdTlKcENqTTRJVVJtdEpWZERyTQ?oc=5"
+      "title": "台股腳軟收黑！外資砍台新新光金大撿群創　一文看買賣超前10大 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TT2h0Q0s0T2dlcThfRjgzM3JRN2FsRVVDbFo0RzFRUDlpcXc1cTIyT3BOeWtaLWVuNk1rOGdQUEN6ZmhNTnFkaGU5eHozWVB5RmfSAW5BVV95cUxQY01wUloyQXVVZ192WFJTOTZfTGlSd1dMck53azF6c2taWVVWZG9yZlYwY29qWVVaOHF0MDJ0RVVOdlZrbEs0V0hIY1BwUzZsV0liU1dBNWRvN2kyeG1naE5haUR1MTVpR3NSdXBjdw?oc=5"
     },
     {
-      "title": "《台股盤後》投信買超146億難撐盤 震盪收跌221點 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbW41ZWVCSzE2Yk9WUDFGTDRPcFREc1U3dUVpVUlWYXRsX3FHbGo3cFVqMWZhOVR3MWgxWmNTUlk5ZzZlZ2VLZERXUTYxX0FiTFJWZFhzS3NkZlZTSk9zODRTMzg2ZXp3M0xqS2hnVThrelM4eHhNNDVYZ0pWN0wybnhwQU9MWnFDai1RcGI2ZVo5QQ?oc=5"
-    },
-    {
-      "title": "美股盤後｜中東局勢升級及Kimi時刻施壓，四大指數同步收黑 0720｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQbWp4NWhYSGpwTHJOcmZ6M2pNeWZDNWp3UEJTN01hby1iYnZPZnZOd1JHTlpOUEFyRjRjNVROY1ZLRDVka3RLLW9TNFY1YjBaVWVMcDZfZUN4OVRQMmRoczhHaXRGZW1QdmxmM2lXcnZKVTQ5WEtGNjVDZm5GeE5kUExYaDNTTE9PWWhNMjVUZjBnWHBtd2lXQUF5SE9fQ3NibnA1ZWN0WDIxb3NyVGlKMXBiWEI5cVp3WjlySmFvQUhCOUNpS1UxWThZVnBjd2dRWGFROFk0eGdjSnFCTmcwaG9CTVBfSFgzTkluV0J0YXhTak93bnFTZzN6WFZ5TG1SSmJGem1wRk1BUEIyYkc4WFUyRGxNNXpUQjdHbmFqQWRqeTlsWkphU3l5RjVYeUZJWnZteXF1U2U1OGZ1RTc2MWRHVi1KaGhMNlhSNEFUQ0YwT3hMTXJUeFdGdzBmemw1TElRbmdtMEFZUGVOaWI1eDdUX0RrMFY5a25DMkFFQzVhbWdZdTh0Z21VczVDY0xpd0UzWGZ3VExRbTRpSURz?oc=5"
+      "title": "比特幣 ETF 恐重演黃金 ETF 劇本？彭博分析師：暴漲後恐陷入多年低潮 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zZnowZHFlejdjbHlMR0g2TXM2bk5RbHNMUi1XdVRGWkhGLVFaTEs0a2Jxa05SRmxWd09NRXM4VzBaQmNoNGhUZEhNMA?oc=5"
     }
   ]
 }
