@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/21 04:05",
+  "updated_tw": "07/21 05:32",
   "taiwan": {
     "2330": {
       "price": 2320.0,
@@ -55,61 +55,61 @@
       "changePercent": 0.105
     },
     "SPY": {
-      "price": 742.21,
-      "change": -1.08,
-      "changePercent": -0.1453
+      "price": 742.09,
+      "change": -1.2,
+      "changePercent": -0.1614
     },
     "SCHD": {
-      "price": 32.748,
-      "change": -0.162,
-      "changePercent": -0.4923
+      "price": 32.75,
+      "change": -0.16,
+      "changePercent": -0.4862
     },
     "VOO": {
-      "price": 682.2,
-      "change": -0.97,
-      "changePercent": -0.142
+      "price": 682.21,
+      "change": -0.96,
+      "changePercent": -0.1405
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65067.99,
-      "change": 377.1853,
-      "changePercent": 0.5831
+      "price": 65334.97,
+      "change": 644.1653,
+      "changePercent": 0.9958
     },
     "ETH": {
-      "price": 1897.69,
-      "change": 26.1815,
-      "changePercent": 1.3989
+      "price": 1903.75,
+      "change": 32.2415,
+      "changePercent": 1.7228
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.285,
-      "change": -0.028,
-      "changePercent": -0.0867
+      "price": 32.281,
+      "change": -0.032,
+      "changePercent": -0.099
     },
     "JPYTWD": {
-      "price": 0.1965,
-      "change": -0.0023,
-      "changePercent": -1.1609
+      "price": 0.1964,
+      "change": -0.0024,
+      "changePercent": -1.2112
     },
     "EURTWD": {
-      "price": 36.897,
-      "change": -0.022,
-      "changePercent": -0.0596
+      "price": 36.887,
+      "change": -0.032,
+      "changePercent": -0.0867
     },
     "CNYTWD": {
-      "price": 4.7775,
+      "price": 4.7774,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4011.0,
-    "twd": 4163.0,
-    "tael": 156126.0,
-    "twdTotal": 129495.0,
-    "changePercent": -0.0424
+    "usd": 4011.8,
+    "twd": 4164.0,
+    "tael": 156138.0,
+    "twdTotal": 129505.0,
+    "changePercent": -0.0224
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNbGxXbDI3cWtpbVZHNGZ3WnJFT2hYLV95SWNPTGU4UHFnWlk1NEs2eGpsVS1uV1JSWVkzaGV2cUZ1ajlpZ3JENkx3WnlhZThURVVEVTVuTzNfYTF0a2Z4OVVPMC1RdGlicDBPSVdmbEpybFV0RlJVR0VvdTZzRlJtMzh1QnQ2VFBrRnV5eTRVTGY0TDd0RmdHVWx4Z3B4czd2bGdpbXFGTXJKWGtfZzNsazh6UGM3MFVSMDNkdGJxLW4zanVVU2R4VXNoemJ6N2VycHhNcFc4V3JKbEZPWlR1alNIMzlCN3NRLWZzbVB0bW56ZkloM0w2aWM0eDRUeFlUZkdheHRtejF6ZGgtUUR3MmpEbEZMbldFc21mRXBSNXQ0eFliSzd4TGxsR3VPZGZSSEtDV08xTEl0R1JoWkN3dzJldGs4NVd2NTZCY0VOQmtmSkxIMmFXeTZmalRXc1RZN1dVdTJwS09la01rYTdWYmJDTW9GT1otUFdRYzFITTFwdlZ1cGt0WnpGY2JYT1JyQlkwWmR3Szk3QQ?oc=5"
     },
     {
-      "title": "台積撐盤、外資縮手 台股守住42K - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93bXhyeEgwUllJZDV4NGtvRzdLM3NhX29jY1NzSVdwbE5sNHdoVEtTZHJCOXJUT3ZvSGlRQXJtS2FmRTNoME9nSEVydjQ2eFpnRUVmRzN0aDBZVjYyTHhN?oc=5"
+      "title": "TWA00 加權指數- 台股反彈能抄底嗎？看懂美伊戰火背後斷鏈真相- 股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14b0ZiT18yZ3kzbjEzckZ2NmFFM2Q5eWlEc0hLMGxvNXE0c01oWHdaUnQwSGhEbnZ5bUJ6RWJMcUVZc3c2SFVuY3luOFc3RnZ5b2hDbmRNVUQ?oc=5"
     },
     {
       "title": "美股確實深陷科技七巨頭焦慮 但並非空頭警告的那個 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyaUhiNFJIRkJHR2FVOG1BNnVfS0hIc29kZjBCVDZWN05DWmF6TXlPeWR1WFB5RElCYXRmSlZ3dE5aSjBBVWVEbzV3MzBBNmc?oc=5"
     },
     {
-      "title": "字母、特斯拉等將公布財報 美股科技七雄拚當「救市主」 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zMlVTNFFxdzdDT2p1dEtxeC1wZjM4azFuVlJJOWxQZGstWVM3cnd2cmNtcDAwWU03aEFpaHNMRV9jZ19heW9uRWFHeFlxaXZIM0lxaVNOTkR4ZWd6Y1VTS2VxdjdvbUdNT0t0ZnlYVjNzZw?oc=5"
-    },
-    {
       "title": "週五股災後 台股大洗三溫暖震盪超過1100點 終場跌221點 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPYWZ2cnlHOWNzeTY0M0FNMjZmNVV2Zi0xVFhSVldlanpRZE9wYVdVVWNTaFNINzQ2dnFob2dwcFRsTkNZRENzdGM5Q1I2MlNzVUlodUQ4MlhpSllnQlptNHdXTWpFTnBsbGJBMm5mc3NKTHZNdl9udGlRODZEUHNEWUJ5cHBUclVaMVp1c2ZDR2pxTTdCU3MyOFVoM2llZWg4TUVpUFVORjVwV0dORzRjTlpKQVpHRllMYjA0bmhfenpaZHFIU0pNbFpLTV8wdWRLSEVWTFFfZGEwUUpkVmtFM01jUzJOcG5sV0FhVXpSOG1pU2tWWDRtSk9qejJ0Ul9za0NDSzZKQUVoTnBFTC0tbEdoUC1DeUl2Y2stbWpMMWhGVTNvZmJORm1YdlZ1dlJmeUlXcmV2QnRLSFpqVTdnNEQyMWVUdEZoOGIwdDM4MHYtc2gzRWVUd09udTlZV1BQd01B?oc=5"
+    },
+    {
+      "title": "台股ETF金鐘罩護體 四檔具掩護性買權 表現相對抗震 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3VnprX3JaQm42WnJteGhEbDYtTGJ4N3F1d05DUFhsZXRlRmZDenB3ZDRpczZ4ODEyeFpfZHQ4eXliZmFjdFFIaFoyMW9OcDJKa2w40gFYQVVfeXFMTk9QZ2RubUkzQzZJREhfVWE2dDdWYjZ5R0ZJZUdnXzZycGM4X2dDdFhXN0VQSXpDTDBaY0d0UnQxbFJnSWlGMXpacVhOQTlmejVFcHk0TTZZeA?oc=5"
     }
   ]
 }
