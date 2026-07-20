@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/20 07:55",
+  "updated_tw": "07/20 11:18",
   "taiwan": {
     "2330": {
-      "price": 2290.0,
-      "change": -180.0,
-      "changePercent": -7.2874
+      "price": 2340.0,
+      "change": 50.0,
+      "changePercent": 2.1834
     },
     "2454": {
-      "price": 3370.0,
-      "change": -330.0,
-      "changePercent": -8.9189
+      "price": 3360.0,
+      "change": -10.0,
+      "changePercent": -0.2967
     },
     "2317": {
-      "price": 234.0,
-      "change": -8.5,
-      "changePercent": -3.5052
+      "price": 236.0,
+      "change": 2.0,
+      "changePercent": 0.8547
     },
     "0050": {
-      "price": 100.15,
-      "change": -6.25,
-      "changePercent": -5.8741
+      "price": 100.05,
+      "change": -0.1,
+      "changePercent": -0.0999
     },
     "00878": {
-      "price": 31.81,
-      "change": -1.14,
-      "changePercent": -3.4598
+      "price": 31.44,
+      "change": -0.37,
+      "changePercent": -1.1632
     },
     "00919": {
-      "price": 28.93,
-      "change": -0.62,
-      "changePercent": -2.0981
+      "price": 28.66,
+      "change": -0.27,
+      "changePercent": -0.9333
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64646.99,
-      "change": -149.6116,
-      "changePercent": -0.2309
+      "price": 64779.05,
+      "change": -17.5516,
+      "changePercent": -0.0271
     },
     "ETH": {
-      "price": 1870.1,
-      "change": 8.7079,
-      "changePercent": 0.4678
+      "price": 1877.65,
+      "change": 16.2579,
+      "changePercent": 0.8734
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.312,
-      "change": 0.0477,
-      "changePercent": 0.1478
+      "price": 32.379,
+      "change": 0.1147,
+      "changePercent": 0.3555
     },
     "JPYTWD": {
-      "price": 0.1966,
-      "change": -0.0021,
-      "changePercent": -1.0504
+      "price": 0.1973,
+      "change": -0.0014,
+      "changePercent": -0.6981
     },
     "EURTWD": {
-      "price": 36.964,
-      "change": 0.0395,
-      "changePercent": 0.1069
+      "price": 37.107,
+      "change": 0.1825,
+      "changePercent": 0.4941
     },
     "CNYTWD": {
-      "price": 4.7747,
+      "price": 4.791,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3994.5,
-    "twd": 4150.0,
-    "tael": 155614.0,
-    "twdTotal": 129070.0,
-    "changePercent": -0.4536
+    "usd": 4025.1,
+    "twd": 4190.0,
+    "tael": 157131.0,
+    "twdTotal": 130329.0,
+    "changePercent": 0.309
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "黑五台美股全面崩！ 周一開盤將迎「生死戰」 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSWw0Rlh1eTZPSU9mUVd6bjB0alNpSHRMcFMxS2IteWhOVUQ5WTBEaE1FbnhoLTNjN2F6OEhXbS11dUR3QXF5dnF0UEZvN1NGODlBeGludHFwVDBwMVpac3RGc1g2cWtUMDRfLUlIWVI2eF84SEcwSUhYSXdycmRicEhpVUkwNmRublRieGFDZDRDVzBfakdFVEVIWVpuUE5IMUs1Wlgwd1FOei00akV6NEdwaWd4X2ZxOWRqckFmdXVfZTgtMVBxcHI1amhwU0FSWV9XR3NEa0cyTnlWWU43X0k3N0owbHBDbDZtSGptSDF0X3RRLUx3TXZ4TVBYbFE3WDA3SFpxUTZMbm84dkdTM3U0S21GbjQ?oc=5"
-    },
-    {
       "title": "美股科技股大失血是崩盤嗎？華爾街：資金正大舉輪動、「這類股」悄悄接棒 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfbXNESjdVbF81T0tmOGoxaTZQSElIZTE0V05LSUpsbjJ4STNSeEFUY1hKanUybDdZMVZpNnY1bDJmaXNJX3E0elRReC1DYzQ?oc=5"
-    },
-    {
-      "title": "台股大跌 自營商逢低買進名單大公開 - 信傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYaWsxMHl6UC1FLUFRZ2ttUjVxeW4yemE4bE8xSVYySURHS3B2dkNHeElCWnNfU0N0bTlSUVJBRFlvdkhoMVlKZTl0WF81aDlUbzhLN2xSYThvUQ?oc=5"
     },
     {
       "title": "台股重挫為史上最大單日跌點 金管會回應了 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTmt5a1MxTnlWc2hrb1ZMSTY5Q0c1WVZla2lkc2hWSzZDempCZkY1YmdmU2J6SVpKY1ktM1hLY0tOOHRxSl9jVURWLW5la3BtS3RXRW9oV3Znd9IBX0FVX3lxTE54SFE0LW80NENpN05WZmpnWVM5N1NFMjI1NldFZGRBV2ozTWtsSzVzUmtCUkVmVXc4dXFpNEVldm1xMEtSbExYVzZCMkpGZjJUdGZwbktJVUl2cmNfTHFR?oc=5"
     },
     {
-      "title": "金十數據全球財經早餐 | 2026年7月20日 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXIxUFkxbzBLdUppQTNSdTFBRkRESDlkUkNqOGQxc21qZFp2b0hROG1PTkhkM0xZOUxlRGVjeWw3VXdoWWV1UzJ6VW11cF9wNnEybTJjbzAtWDJ4eEstdkxDNGw3MFM4Ymx6Rk03c1o1SnJ5UjEzUmVEbUowRjB0YUNGSUIyckpNUWxmRWJOQQ?oc=5"
+      "title": "黑五台美股全面崩！ 周一開盤將迎「生死戰」 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSWw0Rlh1eTZPSU9mUVd6bjB0alNpSHRMcFMxS2IteWhOVUQ5WTBEaE1FbnhoLTNjN2F6OEhXbS11dUR3QXF5dnF0UEZvN1NGODlBeGludHFwVDBwMVpac3RGc1g2cWtUMDRfLUlIWVI2eF84SEcwSUhYSXdycmRicEhpVUkwNmRublRieGFDZDRDVzBfakdFVEVIWVpuUE5IMUs1Wlgwd1FOei00akV6NEdwaWd4X2ZxOWRqckFmdXVfZTgtMVBxcHI1amhwU0FSWV9XR3NEa0cyTnlWWU43X0k3N0owbHBDbDZtSGptSDF0X3RRLUx3TXZ4TVBYbFE3WDA3SFpxUTZMbm84dkdTM3U0S21GbjQ?oc=5"
     },
     {
-      "title": "台股週報》史詩崩跌過後 先等籌碼沉澱 - 卡優新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03OU9nUmxyZjM3dEFXYkMwaUFUTGlZeVNObkNFdkVLcmdPaThtakM5WFliLTlfYmtpckhkNFhqVFlJUGRoYmlzbUVhYmFRMEprbjhBZF9FTXhSdw?oc=5"
+      "title": "美股盤後｜中東局勢升級及Kimi時刻施壓，四大指數同步收黑 0720｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQbWp4NWhYSGpwTHJOcmZ6M2pNeWZDNWp3UEJTN01hby1iYnZPZnZOd1JHTlpOUEFyRjRjNVROY1ZLRDVka3RLLW9TNFY1YjBaVWVMcDZfZUN4OVRQMmRoczhHaXRGZW1QdmxmM2lXcnZKVTQ5WEtGNjVDZm5GeE5kUExYaDNTTE9PWWhNMjVUZjBnWHBtd2lXQUF5SE9fQ3NibnA1ZWN0WDIxb3NyVGlKMXBiWEI5cVp3WjlySmFvQUhCOUNpS1UxWThZVnBjd2dRWGFROFk0eGdjSnFCTmcwaG9CTVBfSFgzTkluV0J0YXhTak93bnFTZzN6WFZ5TG1SSmJGem1wRk1BUEIyYkc4WFUyRGxNNXpUQjdHbmFqQWRqeTlsWkphU3l5RjVYeUZJWnZteXF1U2U1OGZ1RTc2MWRHVi1KaGhMNlhSNEFUQ0YwT3hMTXJUeFdGdzBmemw1TElRbmdtMEFZUGVOaWI1eDdUX0RrMFY5a25DMkFFQzVhbWdZdTh0Z21VczVDY0xpd0UzWGZ3VExRbTRpSURz?oc=5"
     },
     {
-      "title": "TWA00 加權指數- 台股融資維持率還在安全區分析師：現在談「追繳令萬箭齊發」太... - 股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwNG9ZRGdfeThob2hWemZ0Q1pBejR6cmVORmlxdmlTcnJJLXlpc2dyb3JzUnBKUUxsMDU0OUJhVXIxWFVmaEE4T1N0Yi1TcTBpQWZUYnZfNUc?oc=5"
+      "title": "《貴金屬》COMEX黃金上漲0.7% ETF持倉減少- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdDNaT01paS1yeFZFeEkxMXNINmZPZlpsb2ZlUlhqbE13X29OQXhNX2RPaGVtaGdPYVc2cmtSa2NzNkVIUkRTSk41MGgyUjdyQlpYOVN0QW1UNkNkYVBHY2drVWlKQjFMNjFvaHFrMWFoeFlIaHo3TnpHV0ttMmtObVY3M2kzR2RsWjlFaHdpZUxxdw?oc=5"
     },
     {
-      "title": "社論》台股「黑色星期五」的啟示 - 自由評論網",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FdlB5RkVsOHdqMUF6UnF6M2xtVzhrQnhhMElUQ0ZUVkJpZTVTMUhNekNXcFVhUWpCdWxTb3NFNUNuZTEzNE1hNkxsekdHS3hpNm5aZWt1QzTSAV5BVV95cUxQVDhvQ25BV2xKSGlUVFFRRW95RS11dTZnNWdzd0syMHotT3lxVzh5RmdWYllvVjliMWZIXzh5WERxSEdQWHhCb1hPSGc1M0JNWW1VRUQxc0Z1U1J0QjJ3?oc=5"
+      "title": "全球股市去槓桿籌碼不穩台股觀望台積電能否止穩| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PRmtYbnl1X20wekVmSVdzQ2V3eUt1bHJyWEU3RDVHRVozcjdiSnJ4bTJCbk0tczJtMUhNbER1dkFGLWlrSjZoM284OWUtMjBqR0N0aU5FMXExd2xwX0E?oc=5"
+    },
+    {
+      "title": "【Yahoo早盤】台股漲回4萬3後跳水千點...分析師白易弘估「收黑K」：反彈先調節 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOb2ZNTGlkWmRpcGZ3cm11WVpzenpTZjZuVDdQTkhmdXY5TmY3MmVuSVlnTTRlLTRIbTBESW1LVkpmeDhFV2FlUV9zYWxoQnV5TEVTQkJHMTN5bHVtYWZBWWs2c2w4aWt4ZHJwbm1hTGVVc2otYXBRLU1WVmVRM1hSWUo4b1d4YnNhc1pFd1NWQ21JTDhfZGhfemM5QlUxdDhnU2FEVG8tU0pzMUJWYUJ2OGMwQ0JSNUQtU1huZUNIdFRWWVU0WlU5bkJJa2FpRldEX3BwQ1lXeHJHQ1czLUc4aFVaOWRrYjhKdEN0S0tteVZlaHBzbjhyMkpoVmlRV1FTS1Q5SVg3RHpTbHpkMm9KNlpWbXZCalYyVEJoZjdkazlVZnl1Y0tGTlo0Z3VpQVhWYlRiRHdBWGdvdGZqbDUtQmswYmdtZmpyNVR5bkpNTnRNekdXNWQxel9maE5NdjB0clQtM3hXeEhHaFRGcUdVUlc0amtVRG5nS0IxTDRncXhYYUxGOFVOY3JZbHo1Vk95OHJfcktOWTQtWS1ENDV4V204X2tLZEl2RnpfOWZ3RlJodEF6TW5rS2pxdGhwbWZfUXhPbkF4akR6cWZQa1dJaERHd1pRVVMtdHc?oc=5"
+    },
+    {
+      "title": "〈台股開盤〉反彈搶占4萬3陷千點震盪 台積電守紅盤、政策概念股軍工走強 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwdnNMdDlsb2lVNEx6Mlg4ZUU0eHRoSDBLSWtkaGlxTjR5eVhZTTdqaU1OTmtnRHdHcTJDMDJGY3Q5TWFuNml3eE9USnlENTQ?oc=5"
     }
   ]
 }
