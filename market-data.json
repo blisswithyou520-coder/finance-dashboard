@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/22 04:18",
+  "updated_tw": "07/22 05:38",
   "taiwan": {
     "2330": {
       "price": 2410.0,
-      "change": 120.0,
-      "changePercent": 5.2402
+      "change": 90.0,
+      "changePercent": 3.8793
     },
     "2454": {
       "price": 3670.0,
-      "change": 300.0,
-      "changePercent": 8.9021
+      "change": 330.0,
+      "changePercent": 9.8802
     },
     "2317": {
       "price": 246.0,
-      "change": 12.0,
-      "changePercent": 5.1282
+      "change": 11.5,
+      "changePercent": 4.9041
     },
     "0050": {
       "price": 102.5,
@@ -55,9 +55,9 @@
       "changePercent": 1.8547
     },
     "SPY": {
-      "price": 748.32,
-      "change": 6.23,
-      "changePercent": 0.8395
+      "price": 748.28,
+      "change": 6.19,
+      "changePercent": 0.8341
     },
     "SCHD": {
       "price": 32.82,
@@ -65,51 +65,51 @@
       "changePercent": 0.2137
     },
     "VOO": {
-      "price": 687.81,
-      "change": 5.6,
-      "changePercent": 0.8209
+      "price": 687.87,
+      "change": 5.66,
+      "changePercent": 0.8297
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66365.86,
-      "change": 1135.8327,
-      "changePercent": 1.7413
+      "price": 66291.62,
+      "change": 1061.5927,
+      "changePercent": 1.6275
     },
     "ETH": {
-      "price": 1921.32,
-      "change": 17.5611,
-      "changePercent": 0.9224
+      "price": 1924.89,
+      "change": 21.1311,
+      "changePercent": 1.11
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.349,
-      "change": 0.0731,
-      "changePercent": 0.2265
+      "price": 32.329,
+      "change": 0.0531,
+      "changePercent": 0.1645
     },
     "JPYTWD": {
-      "price": 0.196,
-      "change": -0.0026,
-      "changePercent": -1.3186
+      "price": 0.1959,
+      "change": -0.0027,
+      "changePercent": -1.3689
     },
     "EURTWD": {
-      "price": 36.928,
-      "change": 0.0908,
-      "changePercent": 0.2465
+      "price": 36.896,
+      "change": 0.0588,
+      "changePercent": 0.1597
     },
     "CNYTWD": {
-      "price": 4.7887,
+      "price": 4.7814,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4090.0,
-    "twd": 4254.0,
-    "tael": 159517.0,
-    "twdTotal": 132307.0,
-    "changePercent": 1.9874
+    "usd": 4082.2,
+    "twd": 4243.0,
+    "tael": 159114.0,
+    "twdTotal": 131973.0,
+    "changePercent": 1.7929
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,10 +129,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3YkpKSUJYRmNhNGJGNlJ3NzZtMjdVTTJjVmdfMWdNckt4ck1mZ0xDYWRPYmZ6WjBhbE5NZTNnSjJUQ3hOMEQyeXduTnpNemhMa1HSAVdBVV95cUxPZWxmZWpFWjRmQ081QV8wVTJpRkVVckxOYWhOQTNyWVJBbU9GY1p2alVEM3BKMVYtemRNc0k1TWNNc0FKdHdCMlpZMEtUblJoNWdnY3dJdzQ?oc=5"
     },
     {
-      "title": "黃金跌了！外媒揭曉背後原因 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LeURrSDRXc3hzejBwa3ZlVVA4OV9yY2J6LXpFdFNKbDBaVHFQRndhNTBGX24zeWs0cTNkYkl3d2xlT2xUeWg0QXBoX0F3WG85Mkw4MzBaUnVROHdmLTRB0gFkQVVfeXFMTlBDVF9KRDkwbllBTFNlSG0wU096ZXc3WnVUQUxDTkZUNVdhbnFXTlRkMXpYdXcyT3Q4MWtCb1c1N3ViTkxHQ2RaeUxxRkNmNm83UXJNS0tPdGcwTy11Zjhja1ppag?oc=5"
-    },
-    {
       "title": "美伊衝擊黃金價格反彈 星展銀看第3季有機會回到5000美元 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPWEtEY0Y0Y1laUWQ0OERPUXZMM3k1eXhKZThraE1kTkNQT1g2WnRtMXFsc2lyakR3cEl0VXdqNmphVlA5NTkwYmNYUXpPQ0FiVzQ1V2ltMFAzUWlhVHhKaGZ0MEZuNnJQX3V6Qy1mb3lhTXB4RV9rN2w3RnBBd1BNeTQwcTYzQUpnOVBFX0Y1aFVZa3NpWGo2XzdfWHlrWnFMUjJfMzYxNHZBMVhpWnNTa0xPa1hPbjF4YnBMZ2s1eXg2SzZjeVhYRXdqZFJZWDlKY05mLXRRdmRUeE0xV3p3S0NUN0t2QlBlbGRFRnpXUTcxY0pKYjhTb0pwRkRvVktxcFNwdnZDc01pdG5TWW9IeHVoektrVXN2eEpRb0FCc3V5U1pDQkdHMk14Mi1xdk1vNUVEdzZqOVoxWE5WWXRSQ1IxZ3FURVlpeUV2OGZXMTFKV2pTUnZaQUEwb3RGenkyT0NDWjRDVi1fMGdhLUZwWGtmbFliY2M?oc=5"
     },
@@ -147,6 +143,10 @@
     {
       "title": "台股震盪！4檔高股息ETF逆勢抗跌 公股法人偏愛00961、0056 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNUEFuQzNVOU1mN09Hb3lycGtQeC1ZNHZYQmVGYzlmNzA1UnRrQjNib0R5WTRPOWFQdDZkUnlaUXJPYXZ3cUMwd1FGQ3VKNU1IVl9oLV92a0RGTHJLSGNLLVNQdUtNM01iMnBSUW5TandBb1MyNG42YmRKNXNoNVhNR01yM0ZmeFFUNDNsZ2lGNmI3bkZVdXh1QmRTMFVYNjY2OXA4VVMwbF9pZ3MzM1RxRVBPaW90OUpiWlk3RWtBXzBUU3FNdjFfQkxCY2xFR0o1WENtWFZVb0tXTDQ1MGxFUmNMeDBvcWtFa0luTHNaM2xWYW9ZYUk0cEg1Smp0ajlYTVlzYzJ4WVdLdUxqTy1jQjZWS0NXYU1oVnlSU0loam53NktBOTJHTVVNWkpjRGw5V2FsQkdHa25HbWp2NENjOHo5Z1NjTExx?oc=5"
+    },
+    {
+      "title": "台股報復性 V 轉 創1,783最大漲點 大盤將再戰45K - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Z3NnZkpqZG1pdkRVbEhDR0U1elUzVk5yeFVxZzZIc29jNmNUdmtNR2hiUW1wYTExQmtBS0FKSVlHdEk5bEEwcWtTTjZkY25fbGVHZFJyT0w0UdIBX0FVX3lxTE5ydFNCY1B4bXYxMTMxYnlkWWtaMjd2VGx5dnNHaEl6TkFnMXhLRzB1SHpsS0VRTUdfcFp0SEN0N2RGSzMyQnBvNTlhV056SkduQmFxWWF2YUJ1ZmNhNjBr?oc=5"
     }
   ]
 }
