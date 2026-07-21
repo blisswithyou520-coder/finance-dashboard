@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/22 02:49",
+  "updated_tw": "07/22 04:18",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 207.05,
-      "change": 3.77,
-      "changePercent": 1.8546
+      "price": 207.29,
+      "change": 4.01,
+      "changePercent": 1.9726
     },
     "AAPL": {
-      "price": 328.06,
-      "change": 1.47,
-      "changePercent": 0.4501
+      "price": 327.74,
+      "change": 1.15,
+      "changePercent": 0.3521
     },
     "TSLA": {
-      "price": 379.61,
-      "change": 10.04,
-      "changePercent": 2.7167
+      "price": 378.93,
+      "change": 9.36,
+      "changePercent": 2.5327
     },
     "QQQ": {
-      "price": 709.52,
-      "change": 13.46,
-      "changePercent": 1.9337
+      "price": 708.97,
+      "change": 12.91,
+      "changePercent": 1.8547
     },
     "SPY": {
-      "price": 748.41,
-      "change": 6.32,
-      "changePercent": 0.8516
+      "price": 748.32,
+      "change": 6.23,
+      "changePercent": 0.8395
     },
     "SCHD": {
-      "price": 32.775,
-      "change": 0.025,
-      "changePercent": 0.0763
+      "price": 32.82,
+      "change": 0.07,
+      "changePercent": 0.2137
     },
     "VOO": {
-      "price": 687.91,
-      "change": 5.7,
-      "changePercent": 0.8355
+      "price": 687.81,
+      "change": 5.6,
+      "changePercent": 0.8209
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66308.6,
-      "change": 1078.5727,
-      "changePercent": 1.6535
+      "price": 66365.86,
+      "change": 1135.8327,
+      "changePercent": 1.7413
     },
     "ETH": {
-      "price": 1920.13,
-      "change": 16.3711,
-      "changePercent": 0.8599
+      "price": 1921.32,
+      "change": 17.5611,
+      "changePercent": 0.9224
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.353,
-      "change": 0.04,
-      "changePercent": 0.1238
+      "price": 32.349,
+      "change": 0.0731,
+      "changePercent": 0.2265
     },
     "JPYTWD": {
       "price": 0.196,
-      "change": -0.0028,
-      "changePercent": -1.4124
+      "change": -0.0026,
+      "changePercent": -1.3186
     },
     "EURTWD": {
-      "price": 36.931,
-      "change": 0.012,
-      "changePercent": 0.0325
+      "price": 36.928,
+      "change": 0.0908,
+      "changePercent": 0.2465
     },
     "CNYTWD": {
-      "price": 4.7859,
+      "price": 4.7887,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4086.9,
-    "twd": 4251.0,
-    "tael": 159416.0,
-    "twdTotal": 132223.0,
-    "changePercent": 1.9101
+    "usd": 4090.0,
+    "twd": 4254.0,
+    "tael": 159517.0,
+    "twdTotal": 132307.0,
+    "changePercent": 1.9874
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02TXhWNzRtWE9EdDlGM3pHV195SlJlWXhyT2F6eG5Vczd3Ql9rZHVUeEVOTm0ydGFrZUZCODh4SmttaERicFgtZ2QwNGd0LTBlYnfSAVBBVV95cUxQSmUxUVVoWUQyQWVnbGVDM0RoSmNyMkY4a3lIMVhHOUFJZEQyOF9PS2I0Q1VpaGtxTWNwNVptSFo3d1V5bjJ4TE9GNjU4SUlEbQ?oc=5"
     },
     {
-      "title": "美股收盤／三大指數回吐漲幅收跌 費半逆勢走揚 觀望財報季與中東 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5adTRyNWVCNURPd2JWaW02cUJJdmRBb3kwZm9hS01LU0huRzkxemdwem1acXZDV3htSnp6Z3ZNVDVvMGJDQUF1R1hWZ0U0WGtSdGYtNFdFSTYtcENT0gFiQVVfeXFMTXpNSm42RHpwOUdxaGRUSXI5eVJ0dTNXU1p4LW5GNmE3N3g5SjBmMGhWajhXMVFmU1NCdjF2WDlVT014ZHh3NHduX3VLMHlJNE1rek1kMlpPeXppSXQ5M1BnZFE?oc=5"
+      "title": "美股基金 法人喊布局 預估 S&P500 企業本季獲利增近25% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3YkpKSUJYRmNhNGJGNlJ3NzZtMjdVTTJjVmdfMWdNckt4ck1mZ0xDYWRPYmZ6WjBhbE5NZTNnSjJUQ3hOMEQyeXduTnpNemhMa1HSAVdBVV95cUxPZWxmZWpFWjRmQ081QV8wVTJpRkVVckxOYWhOQTNyWVJBbU9GY1p2alVEM3BKMVYtemRNc0k1TWNNc0FKdHdCMlpZMEtUblJoNWdnY3dJdzQ?oc=5"
     },
     {
       "title": "黃金跌了！外媒揭曉背後原因 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LeURrSDRXc3hzejBwa3ZlVVA4OV9yY2J6LXpFdFNKbDBaVHFQRndhNTBGX24zeWs0cTNkYkl3d2xlT2xUeWg0QXBoX0F3WG85Mkw4MzBaUnVROHdmLTRB0gFkQVVfeXFMTlBDVF9KRDkwbllBTFNlSG0wU096ZXc3WnVUQUxDTkZUNVdhbnFXTlRkMXpYdXcyT3Q4MWtCb1c1N3ViTkxHQ2RaeUxxRkNmNm83UXJNS0tPdGcwTy11Zjhja1ppag?oc=5"
     },
     {
-      "title": "金價已經跌透了？機構預警週期性底部將至 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcUlGTzNUZHdOZnB0Sld4WW9TRVpWVFg0REF0MWRyUXpIQjdIN2ZuOEVHdHBIYVQyVDRXOE5ZWDNkXzdwSjFxZFlBcGxEaHZwQjhwUHZQRUg2N0JrbThCUFUwN0JadTRiQTNMSUtXT3BtNThId3MyNU8yZFM1U2Vic0t2THBzLXljWnNFa1lkVQ?oc=5"
-    },
-    {
-      "title": "〈美股早盤〉晶片股延續反彈！主要指數開高、市場聚焦大型科技公司財報 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LMVY3WVNOcXhhNUxGXzREcm14SUcwLVVGLVU0T2JHLWlFY1ZoaXFiOThsSjB0bkloUE80TWU2Ni1BNDMyUmNUX3BqWEc3dWc?oc=5"
-    },
-    {
-      "title": "晶片股續揚、科技巨擘財報成焦點 美股開高那指漲逾1% - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sVVdKYTB6aVpta0ZjNUpLRlZjWEpfVXBtemZaS3VQTURXT2QtbUV1ZWthNzRlSmRyajF3NFRJeGdZQ0Z4OWNMOU1Rc3YzTUI5TXJvVzVCelItSmpFaVE?oc=5"
-    },
-    {
       "title": "美伊衝擊黃金價格反彈 星展銀看第3季有機會回到5000美元 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPWEtEY0Y0Y1laUWQ0OERPUXZMM3k1eXhKZThraE1kTkNQT1g2WnRtMXFsc2lyakR3cEl0VXdqNmphVlA5NTkwYmNYUXpPQ0FiVzQ1V2ltMFAzUWlhVHhKaGZ0MEZuNnJQX3V6Qy1mb3lhTXB4RV9rN2w3RnBBd1BNeTQwcTYzQUpnOVBFX0Y1aFVZa3NpWGo2XzdfWHlrWnFMUjJfMzYxNHZBMVhpWnNTa0xPa1hPbjF4YnBMZ2s1eXg2SzZjeVhYRXdqZFJZWDlKY05mLXRRdmRUeE0xV3p3S0NUN0t2QlBlbGRFRnpXUTcxY0pKYjhTb0pwRkRvVktxcFNwdnZDc01pdG5TWW9IeHVoektrVXN2eEpRb0FCc3V5U1pDQkdHMk14Mi1xdk1vNUVEdzZqOVoxWE5WWXRSQ1IxZ3FURVlpeUV2OGZXMTFKV2pTUnZaQUEwb3RGenkyT0NDWjRDVi1fMGdhLUZwWGtmbFliY2M?oc=5"
+    },
+    {
+      "title": "美股多收跌費半逆勢漲投顧看台股持續震盪| 股市要聞| 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tdUVwYVlLSlc2MG1tdFZEem1faXdjVmtkb191Q0Y4TS1zUUFmNFhhdzlnSXp3RmpNSjBieTQ4VlVJdDh0eTlxZ2JkQjRJX3Z5?oc=5"
+    },
+    {
+      "title": "AI股動盪 台股基金老品牌有底氣 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95cnZKYkdjcFRNRVBfWEd3WXNTSUVSYkcwMUtwbmRRajVwcmRqeGs4d0U5QUdMZlJrN1g3NHBOajJQZC04Znh5TUU1aUNsT2JHVGfSAVdBVV95cUxNVXFFM3FYcVNBX0U5OWtlMGZxdnpIcm5adVFublBUTVc2U3hnSmEtaGUtS2RuOS1feXZMd0Q4Z0pTbThSMEEzVzNadW1JU25STk5UeHVjTzg?oc=5"
+    },
+    {
+      "title": "台股震盪！4檔高股息ETF逆勢抗跌 公股法人偏愛00961、0056 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNUEFuQzNVOU1mN09Hb3lycGtQeC1ZNHZYQmVGYzlmNzA1UnRrQjNib0R5WTRPOWFQdDZkUnlaUXJPYXZ3cUMwd1FGQ3VKNU1IVl9oLV92a0RGTHJLSGNLLVNQdUtNM01iMnBSUW5TandBb1MyNG42YmRKNXNoNVhNR01yM0ZmeFFUNDNsZ2lGNmI3bkZVdXh1QmRTMFVYNjY2OXA4VVMwbF9pZ3MzM1RxRVBPaW90OUpiWlk3RWtBXzBUU3FNdjFfQkxCY2xFR0o1WENtWFZVb0tXTDQ1MGxFUmNMeDBvcWtFa0luTHNaM2xWYW9ZYUk0cEg1Smp0ajlYTVlzYzJ4WVdLdUxqTy1jQjZWS0NXYU1oVnlSU0loam53NktBOTJHTVVNWkpjRGw5V2FsQkdHa25HbWp2NENjOHo5Z1NjTExx?oc=5"
     }
   ]
 }
