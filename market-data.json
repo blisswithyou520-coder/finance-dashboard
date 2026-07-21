@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/21 20:00",
+  "updated_tw": "07/21 22:13",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 203.28,
-      "change": 0.47,
-      "changePercent": 0.2317
+      "price": 204.41,
+      "change": 1.13,
+      "changePercent": 0.5559
     },
     "AAPL": {
-      "price": 326.59,
-      "change": -7.15,
-      "changePercent": -2.1424
+      "price": 325.67,
+      "change": -0.92,
+      "changePercent": -0.2817
     },
     "TSLA": {
-      "price": 369.57,
-      "change": -11.27,
-      "changePercent": -2.9592
+      "price": 379.54,
+      "change": 9.97,
+      "changePercent": 2.6977
     },
     "QQQ": {
-      "price": 696.06,
-      "change": 0.73,
-      "changePercent": 0.105
+      "price": 703.62,
+      "change": 7.56,
+      "changePercent": 1.0861
     },
     "SPY": {
-      "price": 742.09,
-      "change": -1.2,
-      "changePercent": -0.1614
+      "price": 745.23,
+      "change": 3.14,
+      "changePercent": 0.4231
     },
     "SCHD": {
-      "price": 32.75,
-      "change": -0.16,
-      "changePercent": -0.4862
+      "price": 32.77,
+      "change": 0.02,
+      "changePercent": 0.0611
     },
     "VOO": {
-      "price": 682.21,
-      "change": -0.96,
-      "changePercent": -0.1405
+      "price": 684.977,
+      "change": 2.767,
+      "changePercent": 0.4056
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66309.47,
-      "change": 1079.4427,
-      "changePercent": 1.6548
+      "price": 66820.18,
+      "change": 1590.1527,
+      "changePercent": 2.4378
     },
     "ETH": {
-      "price": 1934.76,
-      "change": 31.0011,
-      "changePercent": 1.6284
+      "price": 1937.04,
+      "change": 33.2811,
+      "changePercent": 1.7482
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.316,
-      "change": 0.003,
-      "changePercent": 0.0093
+      "price": 32.343,
+      "change": 0.03,
+      "changePercent": 0.0928
     },
     "JPYTWD": {
-      "price": 0.1964,
-      "change": -0.0024,
-      "changePercent": -1.2112
+      "price": 0.1963,
+      "change": -0.0025,
+      "changePercent": -1.2615
     },
     "EURTWD": {
-      "price": 36.947,
-      "change": 0.028,
-      "changePercent": 0.0758
+      "price": 36.969,
+      "change": 0.05,
+      "changePercent": 0.1354
     },
     "CNYTWD": {
-      "price": 4.7815,
+      "price": 4.7843,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4062.5,
+    "usd": 4058.9,
     "twd": 4221.0,
-    "tael": 158283.0,
-    "twdTotal": 131284.0,
-    "changePercent": 1.3016
+    "tael": 158275.0,
+    "twdTotal": 131277.0,
+    "changePercent": 1.2119
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5adTRyNWVCNURPd2JWaW02cUJJdmRBb3kwZm9hS01LU0huRzkxemdwem1acXZDV3htSnp6Z3ZNVDVvMGJDQUF1R1hWZ0U0WGtSdGYtNFdFSTYtcENT0gFiQVVfeXFMTXpNSm42RHpwOUdxaGRUSXI5eVJ0dTNXU1p4LW5GNmE3N3g5SjBmMGhWajhXMVFmU1NCdjF2WDlVT014ZHh3NHduX3VLMHlJNE1rek1kMlpPeXppSXQ5M1BnZFE?oc=5"
     },
     {
-      "title": "比特幣衝破 6.6 萬美元！晶片股止跌反彈、 ETF 連 5 日吸金成雙引擎 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fR3lqSWNrUFBldC1xR2xIbjZQRzRicFYwRUJ0N1d0UjhqTGhxel9MNjlGT1I1VmEyQTFlM3dyakVKY1M2NW9jNjYyYw?oc=5"
+      "title": "黃金跌了！外媒揭曉背後原因 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LeURrSDRXc3hzejBwa3ZlVVA4OV9yY2J6LXpFdFNKbDBaVHFQRndhNTBGX24zeWs0cTNkYkl3d2xlT2xUeWg0QXBoX0F3WG85Mkw4MzBaUnVROHdmLTRB0gFkQVVfeXFMTlBDVF9KRDkwbllBTFNlSG0wU096ZXc3WnVUQUxDTkZUNVdhbnFXTlRkMXpYdXcyT3Q4MWtCb1c1N3ViTkxHQ2RaeUxxRkNmNm83UXJNS0tPdGcwTy11Zjhja1ppag?oc=5"
+    },
+    {
+      "title": "台股收盤漲1783點 創史上最大漲點 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Rdm5LQlhrMHpXSHdudm00cjdPd0VWQjBnTklqWUdlaTRaa2J0bzA0NktGNWFfbmUtU3c2R0VkQ05yUTdLcUtFZXgxNkFBYzA?oc=5"
+    },
+    {
+      "title": "金價已經跌透了？機構預警週期性底部將至 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcUlGTzNUZHdOZnB0Sld4WW9TRVpWVFg0REF0MWRyUXpIQjdIN2ZuOEVHdHBIYVQyVDRXOE5ZWDNkXzdwSjFxZFlBcGxEaHZwQjhwUHZQRUg2N0JrbThCUFUwN0JadTRiQTNMSUtXT3BtNThId3MyNU8yZFM1U2Vic0t2THBzLXljWnNFa1lkVQ?oc=5"
     },
     {
       "title": "美伊戰爭衝擊美股！開高走低收黑307點　台指期夜盤漲317點 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBSEVVZTJpZHRKZmhMbnQxWU1ENG5ScnJhc1liSnV1ZjdJVGxiYnA2WXVWRTNBUW9SVllBUVlncE5peE05djdIQWZFNDNadkpLNGfSAW5BVV95cUxNRTVBWW1xLXhSSEtUZFBUR2EtdjFyeGFfRGNqc01EQmdMckhQQ2d4WE9hWEpPdDVjaXk2dEpxTWFpR0VITGQ1OVpVODJ1RXh5dk5ld3Z1MWJiOVRVaG0zOTViMnI0NTRFc0dmR2Zydw?oc=5"
     },
     {
-      "title": "黃金跌了！外媒揭曉背後原因 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LeURrSDRXc3hzejBwa3ZlVVA4OV9yY2J6LXpFdFNKbDBaVHFQRndhNTBGX24zeWs0cTNkYkl3d2xlT2xUeWg0QXBoX0F3WG85Mkw4MzBaUnVROHdmLTRB0gFkQVVfeXFMTlBDVF9KRDkwbllBTFNlSG0wU096ZXc3WnVUQUxDTkZUNVdhbnFXTlRkMXpYdXcyT3Q4MWtCb1c1N3ViTkxHQ2RaeUxxRkNmNm83UXJNS0tPdGcwTy11Zjhja1ppag?oc=5"
+      "title": "〈美股早盤〉晶片股延續反彈！主要指數開高、市場聚焦大型科技公司財報 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LMVY3WVNOcXhhNUxGXzREcm14SUcwLVVGLVU0T2JHLWlFY1ZoaXFiOThsSjB0bkloUE80TWU2Ni1BNDMyUmNUX3BqWEc3dWc?oc=5"
     },
     {
-      "title": "滙豐首席策略師：美股或在10月前出現“黃金坑” - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFg3aEFWTUZ0S3FNMkxTU0FEcy13RTlhTmlFWFhQd1ZQcDdrX01qa2Z0YWp3eHlPWlY1dk52MzdPc2JYSHh2eGE2amN4TndxV0JyZEtZVmNiMnBrS0VIX04wT2lheHJpWVhwVG5xWTl3OEc2SUJpdmRIQXBlOW0wY1lyUlM1S1FMVnh5a19sQQ?oc=5"
-    },
-    {
-      "title": "台股創最大收盤漲點外資連13賣調節群創逾6萬張| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CZzJjWThZc2RUR2ExN1ZMc0lPMTRnZV8wdWZmRm4zUTRObGlWdHF5dE9WbVhDQ3NCZ1VHZlVyNFhKNDRZcm5ia1pqcXc4UkVua3JpX2x6aTJUNmpNbnc?oc=5"
-    },
-    {
-      "title": "台股將衝5萬5？專家揭黃金時間點 點名6檔有望創新高 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQMFIwSEl4WUtKQ2EwNkNIWWZHTjlQWjNNLUFvbFpzT214eGJpVWFuSHJWRGNkb1FhODk4VlJVS3lkOEhyamwtaDdneEpHSFkxVUtfQTZkNlExbHJMYmQ4dlJSVEhmSG0yVEhoZnhJSnFsb2lKV0RHeUtvOURSaXlPTHUwbWlIZk5GVzdJU1hEZXphdUVmMUJCWi15S3I5d29uak1LazlDRF9kb2tNRkhGenNPQmN0XzFlQTZWZEF4UTdXWFI2c19EVVNGYTJTWDl0RXhOcUR0WlFFeW9Kd2N4S2xUUGwyZFBpejBJTDF0amRuMzdaOEpwOFIzeTVSdFRtRnludnk5SXJSWWprU18xbW9hRmZZN0RBZW8yVFhQRy1sZ24tNVBpdldLVGVkMEtlcDMxUjRydF9LM0tXV0RreXR6bGkxVlJ3UUFmTzFYSjhXd25EVEQzajMtU2VHQQ?oc=5"
+      "title": "台股強彈1783點！八檔ETF逆勢飆漲逾6% 台股基本面穩健 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZGtHOHBBMTZEMFBoU0hDNkN5UTNtbWI4WVpndVJ1ZGJWWERwWWpCNzQ0Y3I5TVhKdXVYT1hXemQzT1hCOHI5eW1MaENFemtreXhwV1pVdFc4TDFTTzVoblBJV1dGcnZCaG1tX1FDUFh5c1o3ZDNhbUppSnVoWDdraHdSdnFpbkFZS3RmMkVxWlNYTk8tMkFxUG01ZlNJRU8tYk1wczNoSUpnbVJqNzE0cDkzajlBMFFBWkJ5VmxlWDVER0pNdVlmb24zWUozeFZCMmxsNzlmdUxVZkxaNFNsTUR4ZlZLV1prUUFqZnZ5Y2dVdG1Xd1lYWXhsQlZJNXFURHpTYld4U3gxX1JXQjU0ZHlQMXI4Zm1UMkI2YzlZT2NrNy1tYUlYRDFqZ1FTaGZEVERmN2J4VFV2LW5ZN0pPX3NXNjY5Rkh4ZUtOWA?oc=5"
     }
   ]
 }
