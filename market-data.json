@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/21 12:31",
+  "updated_tw": "07/21 15:19",
   "taiwan": {
     "2330": {
-      "price": 2390.0,
-      "change": 70.0,
-      "changePercent": 3.0172
+      "price": 2410.0,
+      "change": 90.0,
+      "changePercent": 3.8793
     },
     "2454": {
-      "price": 3620.0,
-      "change": 280.0,
-      "changePercent": 8.3832
+      "price": 3670.0,
+      "change": 330.0,
+      "changePercent": 9.8802
     },
     "2317": {
-      "price": 246.5,
-      "change": 12.0,
-      "changePercent": 5.1173
+      "price": 246.0,
+      "change": 11.5,
+      "changePercent": 4.9041
     },
     "0050": {
-      "price": 102.1,
-      "change": 2.9,
-      "changePercent": 2.9234
+      "price": 102.5,
+      "change": 3.3,
+      "changePercent": 3.3266
     },
     "00878": {
-      "price": 32.04,
-      "change": 0.23,
-      "changePercent": 0.723
+      "price": 32.05,
+      "change": 0.69,
+      "changePercent": 2.2003
     },
     "00919": {
-      "price": 29.01,
-      "change": 0.46,
-      "changePercent": 1.6112
+      "price": 29.0,
+      "change": 0.45,
+      "changePercent": 1.5762
     }
   },
   "us": {
@@ -72,48 +72,81 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65489.98,
-      "change": 799.1753,
-      "changePercent": 1.2354
+      "price": 65945.24,
+      "change": 715.2127,
+      "changePercent": 1.0964
     },
     "ETH": {
-      "price": 1922.66,
-      "change": 51.1515,
-      "changePercent": 2.7332
+      "price": 1936.3,
+      "change": 32.5411,
+      "changePercent": 1.7093
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.259,
-      "change": -0.054,
-      "changePercent": -0.1671
+      "price": 32.273,
+      "change": -0.04,
+      "changePercent": -0.1238
     },
     "JPYTWD": {
-      "price": 0.1964,
-      "change": -0.0024,
-      "changePercent": -1.2112
+      "price": 0.1963,
+      "change": -0.0025,
+      "changePercent": -1.2615
     },
     "EURTWD": {
-      "price": 36.872,
-      "change": -0.047,
-      "changePercent": -0.1274
+      "price": 36.91,
+      "change": -0.009,
+      "changePercent": -0.0244
     },
     "CNYTWD": {
-      "price": 4.7746,
+      "price": 4.7765,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4050.9,
-    "twd": 4201.0,
-    "tael": 157552.0,
-    "twdTotal": 130678.0,
-    "changePercent": 1.0124
+    "usd": 4079.3,
+    "twd": 4233.0,
+    "tael": 158726.0,
+    "twdTotal": 131651.0,
+    "changePercent": 1.7206
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "美股收盤／三大指數回吐漲幅收跌 費半逆勢走揚 觀望財報季與中東 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5adTRyNWVCNURPd2JWaW02cUJJdmRBb3kwZm9hS01LU0huRzkxemdwem1acXZDV3htSnp6Z3ZNVDVvMGJDQUF1R1hWZ0U0WGtSdGYtNFdFSTYtcENT0gFiQVVfeXFMTXpNSm42RHpwOUdxaGRUSXI5eVJ0dTNXU1p4LW5GNmE3N3g5SjBmMGhWajhXMVFmU1NCdjF2WDlVT014ZHh3NHduX3VLMHlJNE1rek1kMlpPeXppSXQ5M1BnZFE?oc=5"
+    },
+    {
+      "title": "黃金跌了！外媒揭曉背後原因 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LeURrSDRXc3hzejBwa3ZlVVA4OV9yY2J6LXpFdFNKbDBaVHFQRndhNTBGX24zeWs0cTNkYkl3d2xlT2xUeWg0QXBoX0F3WG85Mkw4MzBaUnVROHdmLTRB0gFkQVVfeXFMTlBDVF9KRDkwbllBTFNlSG0wU096ZXc3WnVUQUxDTkZUNVdhbnFXTlRkMXpYdXcyT3Q4MWtCb1c1N3ViTkxHQ2RaeUxxRkNmNm83UXJNS0tPdGcwTy11Zjhja1ppag?oc=5"
+    },
+    {
+      "title": "美伊戰爭衝擊美股！開高走低收黑307點　台指期夜盤漲317點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBSEVVZTJpZHRKZmhMbnQxWU1ENG5ScnJhc1liSnV1ZjdJVGxiYnA2WXVWRTNBUW9SVllBUVlncE5peE05djdIQWZFNDNadkpLNGfSAW5BVV95cUxNRTVBWW1xLXhSSEtUZFBUR2EtdjFyeGFfRGNqc01EQmdMckhQQ2d4WE9hWEpPdDVjaXk2dEpxTWFpR0VITGQ1OVpVODJ1RXh5dk5ld3Z1MWJiOVRVaG0zOTViMnI0NTRFc0dmR2Zydw?oc=5"
+    },
+    {
+      "title": "台積電、大立光尾盤奮力一擊！台股衝出史上最大漲點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNLTdhd0hsSEV5NWFrOWJjWV9mN19mMmtaTFB5aW1oQ2I1NmphaC1vc2tkbTE4RGxiNUY4UjdIdnhfREFJUE1rbi05THNxZUM2c2ktaExLMmxtN201N0IzSXk1S3VqTjV1RzZNOWplUlZLdUFoMWhHTnVrZ0VNeDlmN3BERHl4NDUzcC1XenluY180NHRJSUowS2Qtb1ZVbHEzSE9xcnhQeXVMdGw5VHBRLXQ4YkhObElKMm1oVTJDS1RabGdORGU5UmkwWEk0UnF3VVY1aWFKMlg3Ylk1RUZrREFHeHdtbnlhSUVUb2F4eUpfU1FXcElQNmxtUEdqSXhveFBSQlhLRlpjbEdfUllNUjJUUFpJQkhDams4UEY3UnJKZlpTNWh4T2JxQmFQSTRGN0xVZEdyYlZwbTVYVzhYVnFlNGVqWFkxMWowU2w3V1pEbGV3QzFua004aw?oc=5"
+    },
+    {
+      "title": "【美股盤前0721】果粉與甲骨文慘了？ 費半技術性熊市初顯？ AMD與Google逆勢發威！｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNWEZRaVZad3lDNEw5ZEUyY1RyNXZDbzJZeC1NUURSZFMzTWx2bnhJTTNvZWpRQ3FBRWdBdVI5SFVUNFM4X1FNR3hkVWphVVdkamNDM3BCTUhkTkllUkZIX3hZNHkyMUdFaTdkTWx1RmFOZHdDSDdESk54WUhJVTY0U2p1dWpiYkxoTVczd183QVZYNHNxSXZpVXpZeXhRX3oyMDE3TkZRODA0M2pJbm5WYlZpLW1CQ3hEWFRoendzRjliaHB0blBseEg3TVpmWUdsNGh5TnNpNHVqVHY3SmQ3OEs2UEhQTFBmVmw5bERLc25mUE5kRUxqbElHU1I4LW9TWExqSU9zUmxSR0NIZXhJSDA3WEFEVHYtNlRhYXRlR2VqT2hoWUx2UzJVRUk2TjJ4aDFTX0F3OWk2ZFhpTHN5NTRGXzdMZElrRUp3WlJEOVVQV19MbEw1RGJWNjRUVF9tVjZGc1hhbWxxYTFRbloySTBpMnVHaXk3S2lHR1FLZU5NeHc1Y25mbGRhQzJ2ZENsb1I2Q01JWTI2LXY0SUx6YnR2S0tzeW02UktnYW85aWQ0TERxNF9pN0JlWmFabTMyaEU0Qnljc3BrQ2ZZWVRB?oc=5"
+    },
+    {
+      "title": "機構：比特幣漸成潛在長線配置；年輕投資者尤為樂觀 - 台視全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObG1yS0JlM3JBQ1U4RElPWThvRE5OMzlVVHZtaHNvejA2N2IxYjRnSGNUT2FxZ29nUGZwZ1BkaEhVRVN6ZnA0UHlDTFZRaFEzb0xodlozMExPUlg0azZESUhwU0hiaFpINUJsVlhzWUtKSHkzNG5IRHlTQm9OejlPUUxTQks0Y241T2dFSUZ6dHEtRzFqMkZ6SjBMVHM?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉AI超級財報周將登場 美軍連9日空襲伊朗 三大指數收黑 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HZllaem9SemdsWnp1VHZzcE9raDczbjlzN19oeWo0akl2aWtmclo3SW9jTmNMT1lRaEJ3eUFYcWw3ak9CeWktSXZWMFJIcms?oc=5"
+    },
+    {
+      "title": "台積電穩軍心台股強漲1783點重返季線| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxeVBfTElJRjl5LWFsNlJldWpOa25ONko1bDhha2RZN1ExYjhscmJ0Vmt5LVYwUnZ2aC1ZUHcxMlZ1SlFzZ2o1c0RnVmdQMWNlQ19TMTJPeHItWUNIbGc?oc=5"
+    }
+  ]
 }
