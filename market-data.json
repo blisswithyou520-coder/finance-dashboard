@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/22 01:18",
+  "updated_tw": "07/22 02:49",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -35,19 +35,19 @@
   },
   "us": {
     "NVDA": {
-      "price": 206.205,
-      "change": 2.925,
-      "changePercent": 1.4389
+      "price": 207.05,
+      "change": 3.77,
+      "changePercent": 1.8546
     },
     "AAPL": {
-      "price": 327.94,
-      "change": 1.35,
-      "changePercent": 0.4134
+      "price": 328.06,
+      "change": 1.47,
+      "changePercent": 0.4501
     },
     "TSLA": {
-      "price": 379.815,
-      "change": 10.245,
-      "changePercent": 2.7721
+      "price": 379.61,
+      "change": 10.04,
+      "changePercent": 2.7167
     },
     "QQQ": {
       "price": 709.52,
@@ -55,61 +55,61 @@
       "changePercent": 1.9337
     },
     "SPY": {
-      "price": 748.46,
-      "change": 6.37,
-      "changePercent": 0.8584
+      "price": 748.41,
+      "change": 6.32,
+      "changePercent": 0.8516
     },
     "SCHD": {
-      "price": 32.755,
-      "change": 0.005,
-      "changePercent": 0.0153
+      "price": 32.775,
+      "change": 0.025,
+      "changePercent": 0.0763
     },
     "VOO": {
-      "price": 687.92,
-      "change": 5.71,
-      "changePercent": 0.837
+      "price": 687.91,
+      "change": 5.7,
+      "changePercent": 0.8355
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66424.37,
-      "change": 1194.3427,
-      "changePercent": 1.831
+      "price": 66308.6,
+      "change": 1078.5727,
+      "changePercent": 1.6535
     },
     "ETH": {
-      "price": 1923.49,
-      "change": 19.7311,
-      "changePercent": 1.0364
+      "price": 1920.13,
+      "change": 16.3711,
+      "changePercent": 0.8599
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.356,
-      "change": 0.043,
-      "changePercent": 0.1331
+      "price": 32.353,
+      "change": 0.04,
+      "changePercent": 0.1238
     },
     "JPYTWD": {
-      "price": 0.1963,
-      "change": -0.0025,
-      "changePercent": -1.2615
+      "price": 0.196,
+      "change": -0.0028,
+      "changePercent": -1.4124
     },
     "EURTWD": {
-      "price": 36.96,
-      "change": 0.041,
-      "changePercent": 0.111
+      "price": 36.931,
+      "change": 0.012,
+      "changePercent": 0.0325
     },
     "CNYTWD": {
-      "price": 4.7865,
+      "price": 4.7859,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4076.5,
-    "twd": 4241.0,
-    "tael": 159025.0,
-    "twdTotal": 131899.0,
-    "changePercent": 1.6507
+    "usd": 4086.9,
+    "twd": 4251.0,
+    "tael": 159416.0,
+    "twdTotal": 132223.0,
+    "changePercent": 1.9101
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,10 +133,6 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LeURrSDRXc3hzejBwa3ZlVVA4OV9yY2J6LXpFdFNKbDBaVHFQRndhNTBGX24zeWs0cTNkYkl3d2xlT2xUeWg0QXBoX0F3WG85Mkw4MzBaUnVROHdmLTRB0gFkQVVfeXFMTlBDVF9KRDkwbllBTFNlSG0wU096ZXc3WnVUQUxDTkZUNVdhbnFXTlRkMXpYdXcyT3Q4MWtCb1c1N3ViTkxHQ2RaeUxxRkNmNm83UXJNS0tPdGcwTy11Zjhja1ppag?oc=5"
     },
     {
-      "title": "台股收盤漲1783點 創史上最大漲點 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Rdm5LQlhrMHpXSHdudm00cjdPd0VWQjBnTklqWUdlaTRaa2J0bzA0NktGNWFfbmUtU3c2R0VkQ05yUTdLcUtFZXgxNkFBYzA?oc=5"
-    },
-    {
       "title": "金價已經跌透了？機構預警週期性底部將至 - capitalfutures.com.tw",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcUlGTzNUZHdOZnB0Sld4WW9TRVpWVFg0REF0MWRyUXpIQjdIN2ZuOEVHdHBIYVQyVDRXOE5ZWDNkXzdwSjFxZFlBcGxEaHZwQjhwUHZQRUg2N0JrbThCUFUwN0JadTRiQTNMSUtXT3BtNThId3MyNU8yZFM1U2Vic0t2THBzLXljWnNFa1lkVQ?oc=5"
     },
@@ -145,8 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LMVY3WVNOcXhhNUxGXzREcm14SUcwLVVGLVU0T2JHLWlFY1ZoaXFiOThsSjB0bkloUE80TWU2Ni1BNDMyUmNUX3BqWEc3dWc?oc=5"
     },
     {
-      "title": "台股創最大收盤漲點外資連13賣調節群創逾6萬張| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CZzJjWThZc2RUR2ExN1ZMc0lPMTRnZV8wdWZmRm4zUTRObGlWdHF5dE9WbVhDQ3NCZ1VHZlVyNFhKNDRZcm5ia1pqcXc4UkVua3JpX2x6aTJUNmpNbnc?oc=5"
+      "title": "晶片股續揚、科技巨擘財報成焦點 美股開高那指漲逾1% - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sVVdKYTB6aVpta0ZjNUpLRlZjWEpfVXBtemZaS3VQTURXT2QtbUV1ZWthNzRlSmRyajF3NFRJeGdZQ0Z4OWNMOU1Rc3YzTUI5TXJvVzVCelItSmpFaVE?oc=5"
+    },
+    {
+      "title": "美伊衝擊黃金價格反彈 星展銀看第3季有機會回到5000美元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPWEtEY0Y0Y1laUWQ0OERPUXZMM3k1eXhKZThraE1kTkNQT1g2WnRtMXFsc2lyakR3cEl0VXdqNmphVlA5NTkwYmNYUXpPQ0FiVzQ1V2ltMFAzUWlhVHhKaGZ0MEZuNnJQX3V6Qy1mb3lhTXB4RV9rN2w3RnBBd1BNeTQwcTYzQUpnOVBFX0Y1aFVZa3NpWGo2XzdfWHlrWnFMUjJfMzYxNHZBMVhpWnNTa0xPa1hPbjF4YnBMZ2s1eXg2SzZjeVhYRXdqZFJZWDlKY05mLXRRdmRUeE0xV3p3S0NUN0t2QlBlbGRFRnpXUTcxY0pKYjhTb0pwRkRvVktxcFNwdnZDc01pdG5TWW9IeHVoektrVXN2eEpRb0FCc3V5U1pDQkdHMk14Mi1xdk1vNUVEdzZqOVoxWE5WWXRSQ1IxZ3FURVlpeUV2OGZXMTFKV2pTUnZaQUEwb3RGenkyT0NDWjRDVi1fMGdhLUZwWGtmbFliY2M?oc=5"
     }
   ]
 }
