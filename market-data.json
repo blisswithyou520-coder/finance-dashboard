@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/21 15:19",
+  "updated_tw": "07/21 18:00",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,44 +72,45 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65945.24,
-      "change": 715.2127,
-      "changePercent": 1.0964
+      "price": 66258.39,
+      "change": 1028.3627,
+      "changePercent": 1.5765
     },
     "ETH": {
-      "price": 1936.3,
-      "change": 32.5411,
-      "changePercent": 1.7093
+      "price": 1941.49,
+      "change": 37.7311,
+      "changePercent": 1.9819
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.273,
-      "change": -0.04,
-      "changePercent": -0.1238
+      "price": 32.315,
+      "change": 0.002,
+      "changePercent": 0.0062
     },
     "JPYTWD": {
-      "price": 0.1963,
-      "change": -0.0025,
-      "changePercent": -1.2615
+      "price": 0.1965,
+      "change": -0.0023,
+      "changePercent": -1.1609
     },
     "EURTWD": {
-      "price": 36.91,
-      "change": -0.009,
-      "changePercent": -0.0244
+      "price": null,
+      "change": null,
+      "changePercent": null,
+      "error": "HTTP Error 400: Bad Request"
     },
     "CNYTWD": {
-      "price": 4.7765,
+      "price": 4.7837,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4079.3,
-    "twd": 4233.0,
-    "tael": 158726.0,
-    "twdTotal": 131651.0,
-    "changePercent": 1.7206
+    "usd": 4069.3,
+    "twd": 4228.0,
+    "tael": 158543.0,
+    "twdTotal": 131499.0,
+    "changePercent": 1.4712
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +118,36 @@
   },
   "news": [
     {
-      "title": "美股收盤／三大指數回吐漲幅收跌 費半逆勢走揚 觀望財報季與中東 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5adTRyNWVCNURPd2JWaW02cUJJdmRBb3kwZm9hS01LU0huRzkxemdwem1acXZDV3htSnp6Z3ZNVDVvMGJDQUF1R1hWZ0U0WGtSdGYtNFdFSTYtcENT0gFiQVVfeXFMTXpNSm42RHpwOUdxaGRUSXI5eVJ0dTNXU1p4LW5GNmE3N3g5SjBmMGhWajhXMVFmU1NCdjF2WDlVT014ZHh3NHduX3VLMHlJNE1rek1kMlpPeXppSXQ5M1BnZFE?oc=5"
-    },
-    {
-      "title": "黃金跌了！外媒揭曉背後原因 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LeURrSDRXc3hzejBwa3ZlVVA4OV9yY2J6LXpFdFNKbDBaVHFQRndhNTBGX24zeWs0cTNkYkl3d2xlT2xUeWg0QXBoX0F3WG85Mkw4MzBaUnVROHdmLTRB0gFkQVVfeXFMTlBDVF9KRDkwbllBTFNlSG0wU096ZXc3WnVUQUxDTkZUNVdhbnFXTlRkMXpYdXcyT3Q4MWtCb1c1N3ViTkxHQ2RaeUxxRkNmNm83UXJNS0tPdGcwTy11Zjhja1ppag?oc=5"
-    },
-    {
-      "title": "美伊戰爭衝擊美股！開高走低收黑307點　台指期夜盤漲317點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBSEVVZTJpZHRKZmhMbnQxWU1ENG5ScnJhc1liSnV1ZjdJVGxiYnA2WXVWRTNBUW9SVllBUVlncE5peE05djdIQWZFNDNadkpLNGfSAW5BVV95cUxNRTVBWW1xLXhSSEtUZFBUR2EtdjFyeGFfRGNqc01EQmdMckhQQ2d4WE9hWEpPdDVjaXk2dEpxTWFpR0VITGQ1OVpVODJ1RXh5dk5ld3Z1MWJiOVRVaG0zOTViMnI0NTRFc0dmR2Zydw?oc=5"
-    },
-    {
-      "title": "台積電、大立光尾盤奮力一擊！台股衝出史上最大漲點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNLTdhd0hsSEV5NWFrOWJjWV9mN19mMmtaTFB5aW1oQ2I1NmphaC1vc2tkbTE4RGxiNUY4UjdIdnhfREFJUE1rbi05THNxZUM2c2ktaExLMmxtN201N0IzSXk1S3VqTjV1RzZNOWplUlZLdUFoMWhHTnVrZ0VNeDlmN3BERHl4NDUzcC1XenluY180NHRJSUowS2Qtb1ZVbHEzSE9xcnhQeXVMdGw5VHBRLXQ4YkhObElKMm1oVTJDS1RabGdORGU5UmkwWEk0UnF3VVY1aWFKMlg3Ylk1RUZrREFHeHdtbnlhSUVUb2F4eUpfU1FXcElQNmxtUEdqSXhveFBSQlhLRlpjbEdfUllNUjJUUFpJQkhDams4UEY3UnJKZlpTNWh4T2JxQmFQSTRGN0xVZEdyYlZwbTVYVzhYVnFlNGVqWFkxMWowU2w3V1pEbGV3QzFua004aw?oc=5"
+      "title": "美伊衝擊黃金價格反彈 星展銀看第3季有機會回到5000美元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPWEtEY0Y0Y1laUWQ0OERPUXZMM3k1eXhKZThraE1kTkNQT1g2WnRtMXFsc2lyakR3cEl0VXdqNmphVlA5NTkwYmNYUXpPQ0FiVzQ1V2ltMFAzUWlhVHhKaGZ0MEZuNnJQX3V6Qy1mb3lhTXB4RV9rN2w3RnBBd1BNeTQwcTYzQUpnOVBFX0Y1aFVZa3NpWGo2XzdfWHlrWnFMUjJfMzYxNHZBMVhpWnNTa0xPa1hPbjF4YnBMZ2s1eXg2SzZjeVhYRXdqZFJZWDlKY05mLXRRdmRUeE0xV3p3S0NUN0t2QlBlbGRFRnpXUTcxY0pKYjhTb0pwRkRvVktxcFNwdnZDc01pdG5TWW9IeHVoektrVXN2eEpRb0FCc3V5U1pDQkdHMk14Mi1xdk1vNUVEdzZqOVoxWE5WWXRSQ1IxZ3FURVlpeUV2OGZXMTFKV2pTUnZaQUEwb3RGenkyT0NDWjRDVi1fMGdhLUZwWGtmbFliY2M?oc=5"
     },
     {
       "title": "【美股盤前0721】果粉與甲骨文慘了？ 費半技術性熊市初顯？ AMD與Google逆勢發威！｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNWEZRaVZad3lDNEw5ZEUyY1RyNXZDbzJZeC1NUURSZFMzTWx2bnhJTTNvZWpRQ3FBRWdBdVI5SFVUNFM4X1FNR3hkVWphVVdkamNDM3BCTUhkTkllUkZIX3hZNHkyMUdFaTdkTWx1RmFOZHdDSDdESk54WUhJVTY0U2p1dWpiYkxoTVczd183QVZYNHNxSXZpVXpZeXhRX3oyMDE3TkZRODA0M2pJbm5WYlZpLW1CQ3hEWFRoendzRjliaHB0blBseEg3TVpmWUdsNGh5TnNpNHVqVHY3SmQ3OEs2UEhQTFBmVmw5bERLc25mUE5kRUxqbElHU1I4LW9TWExqSU9zUmxSR0NIZXhJSDA3WEFEVHYtNlRhYXRlR2VqT2hoWUx2UzJVRUk2TjJ4aDFTX0F3OWk2ZFhpTHN5NTRGXzdMZElrRUp3WlJEOVVQV19MbEw1RGJWNjRUVF9tVjZGc1hhbWxxYTFRbloySTBpMnVHaXk3S2lHR1FLZU5NeHc1Y25mbGRhQzJ2ZENsb1I2Q01JWTI2LXY0SUx6YnR2S0tzeW02UktnYW85aWQ0TERxNF9pN0JlWmFabTMyaEU0Qnljc3BrQ2ZZWVRB?oc=5"
     },
     {
-      "title": "機構：比特幣漸成潛在長線配置；年輕投資者尤為樂觀 - 台視全球資訊網",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObG1yS0JlM3JBQ1U4RElPWThvRE5OMzlVVHZtaHNvejA2N2IxYjRnSGNUT2FxZ29nUGZwZ1BkaEhVRVN6ZnA0UHlDTFZRaFEzb0xodlozMExPUlg0azZESUhwU0hiaFpINUJsVlhzWUtKSHkzNG5IRHlTQm9OejlPUUxTQks0Y241T2dFSUZ6dHEtRzFqMkZ6SjBMVHM?oc=5"
+      "title": "美股收盤／三大指數回吐漲幅收跌 費半逆勢走揚 觀望財報季與中東 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5adTRyNWVCNURPd2JWaW02cUJJdmRBb3kwZm9hS01LU0huRzkxemdwem1acXZDV3htSnp6Z3ZNVDVvMGJDQUF1R1hWZ0U0WGtSdGYtNFdFSTYtcENT0gFiQVVfeXFMTXpNSm42RHpwOUdxaGRUSXI5eVJ0dTNXU1p4LW5GNmE3N3g5SjBmMGhWajhXMVFmU1NCdjF2WDlVT014ZHh3NHduX3VLMHlJNE1rek1kMlpPeXppSXQ5M1BnZFE?oc=5"
     },
     {
-      "title": "〈美股盤後〉AI超級財報周將登場 美軍連9日空襲伊朗 三大指數收黑 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HZllaem9SemdsWnp1VHZzcE9raDczbjlzN19oeWo0akl2aWtmclo3SW9jTmNMT1lRaEJ3eUFYcWw3ak9CeWktSXZWMFJIcms?oc=5"
+      "title": "美股收盤》科技股財報週登場！道瓊跌307點 台積電ADR漲近1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNTkxVcVR3aEczVE1rMUN6bHROYmVXWTZhU1lOT0M3ZUViMGZxUm9GNE4zVUFzajhPSlVyZHMxTmdtMzhWYkZJMFNPc3pnZDFza1VwVDY2X1ZwZWphblJB0gFkQVVfeXFMTVo4SUw0TXAxWEw3ejhkRXZNdDVSWWJrSzIwcjVnMHhETEhmTGxxSmtVZ19TdUFMVjlURTFWNkFmV2NxcU8xUkpZVDRBbXVzUVN4Z0J6a3pWX256MnlNU0M1bC1EQw?oc=5"
     },
     {
-      "title": "台積電穩軍心台股強漲1783點重返季線| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxeVBfTElJRjl5LWFsNlJldWpOa25ONko1bDhha2RZN1ExYjhscmJ0Vmt5LVYwUnZ2aC1ZUHcxMlZ1SlFzZ2o1c0RnVmdQMWNlQ19TMTJPeHItWUNIbGc?oc=5"
+      "title": "比特幣衝破 6.6 萬美元！晶片股止跌反彈、 ETF 連 5 日吸金成雙引擎 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fR3lqSWNrUFBldC1xR2xIbjZQRzRicFYwRUJ0N1d0UjhqTGhxel9MNjlGT1I1VmEyQTFlM3dyakVKY1M2NW9jNjYyYw?oc=5"
+    },
+    {
+      "title": "美伊戰爭衝擊美股！開高走低收黑307點　台指期夜盤漲317點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBSEVVZTJpZHRKZmhMbnQxWU1ENG5ScnJhc1liSnV1ZjdJVGxiYnA2WXVWRTNBUW9SVllBUVlncE5peE05djdIQWZFNDNadkpLNGfSAW5BVV95cUxNRTVBWW1xLXhSSEtUZFBUR2EtdjFyeGFfRGNqc01EQmdMckhQQ2d4WE9hWEpPdDVjaXk2dEpxTWFpR0VITGQ1OVpVODJ1RXh5dk5ld3Z1MWJiOVRVaG0zOTViMnI0NTRFc0dmR2Zydw?oc=5"
+    },
+    {
+      "title": "機構：比特幣漸成潛在長線配置；年輕投資者尤為樂觀 - ttv.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLUxRcC1yNlFLTWZicFdQdmU5RWpTN3FzaXNMNDRIRjE4cTBGNTFHYmJPdndaMFVJbTJDMEJRM2lvMEtzOTB4Y0x4dUp5cHlLdHB5YVB2LWZhSnB0cV9XUTlXODRkLUdmWkxoVklLWGV5NEx2NkY2SjVpR08xUHA0VGhOVDVrWXp0QmhSVTFLNkhWQQ?oc=5"
+    },
+    {
+      "title": "滙豐首席策略師：美股或在10月前出現“黃金坑” - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFg3aEFWTUZ0S3FNMkxTU0FEcy13RTlhTmlFWFhQd1ZQcDdrX01qa2Z0YWp3eHlPWlY1dk52MzdPc2JYSHh2eGE2amN4TndxV0JyZEtZVmNiMnBrS0VIX04wT2lheHJpWVhwVG5xWTl3OEc2SUJpdmRIQXBlOW0wY1lyUlM1S1FMVnh5a19sQQ?oc=5"
     }
   ]
 }
