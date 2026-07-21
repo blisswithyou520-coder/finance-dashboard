@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/22 05:38",
+  "updated_tw": "07/22 06:35",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66291.62,
-      "change": 1061.5927,
-      "changePercent": 1.6275
+      "price": 66290.41,
+      "change": 1060.3827,
+      "changePercent": 1.6256
     },
     "ETH": {
-      "price": 1924.89,
-      "change": 21.1311,
-      "changePercent": 1.11
+      "price": 1922.12,
+      "change": 18.3611,
+      "changePercent": 0.9645
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.329,
-      "change": 0.0531,
-      "changePercent": 0.1645
+      "price": 32.328,
+      "change": 0.0521,
+      "changePercent": 0.1614
     },
     "JPYTWD": {
       "price": 0.1959,
@@ -94,22 +94,22 @@
       "changePercent": -1.3689
     },
     "EURTWD": {
-      "price": 36.896,
-      "change": 0.0588,
-      "changePercent": 0.1597
+      "price": 36.899,
+      "change": 0.0618,
+      "changePercent": 0.1678
     },
     "CNYTWD": {
-      "price": 4.7814,
+      "price": 4.7852,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4082.2,
-    "twd": 4243.0,
-    "tael": 159114.0,
-    "twdTotal": 131973.0,
-    "changePercent": 1.7929
+    "usd": 4085.0,
+    "twd": 4246.0,
+    "tael": 159218.0,
+    "twdTotal": 132060.0,
+    "changePercent": 1.8627
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -119,6 +119,10 @@
     {
       "title": "台股明日上漲有望！美股四大指數全開高、費半飆3%、夜盤同步上攻台積電ADR漲3%、日月光ADR噴近7% - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOWGtaNzQ1QmRWYVZpNjVZMldpVFQ3RU1oeUd3Y0NiRHphTTBFRWlNSmVacmRna3U0cHBXMXFZSWp0ZXN6VHZSWTBzUmI4SUt4dmJ4Q3lwem5NYXMyWUt3M3hENTZZdS1lSWxjOXhMZ0lmTktlQUR1YW5TbHdsX0w2M2E4NXZQQjVJSEdVbndhUldoa1ZGU2dCVkVIeTdra3FaQXhWaWt5cUxHNWFZU0lkV1pjVjdRM01FMlF0cm9Ya0g3YnpMV0tjeWpraHc5dzk3WHdCQW1Sd0hVMlpTOTZraFdqeUVINXJRSGIwWlR1QTBZa2pXMkpCeUxMQ1EtYlhXTzFtVGFWSTJRNkxrNjVGTEcyR0ZTNzhld18zV3A2Y1c2WU1ZYTAxS1AweV9mTHEwMExwMW10U19iWWZWeHlyT09GVzdBTHVqcHZxTW9fREtWY2UyWnpvS2txc1cxekRSRHQ1MXAwNmJOWGdManI1d3ZqejdVSmh1UG5qMHpBdkh1Yng2TmxsZ3RlWjdTNHFUOWtPbmVXblhzTHc3ZG05S2U1UkQ2VldmRXlEZEl6cDVBaVpsSndrMHg0Q0hJdUpfX1dIcjdDWjgzY19kbHNZ?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉晶片股強勢反攻 費半飆逾5% 美光、SK海力士ADR暴漲超12% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xbkQybzl3SHpzeHdXMVBUYnc0Mjh3MHBQcFZhUm5JY2lPM1plMmFLek5FTS1tejRaVUhFOW05NmRsanVoYUJfVUtIU0xZMVE?oc=5"
     },
     {
       "title": "快訊／美股開盤4大指數齊漲！台積電ADR「勁揚逾3％」 - ETtoday財經雲",
@@ -137,16 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tdUVwYVlLSlc2MG1tdFZEem1faXdjVmtkb191Q0Y4TS1zUUFmNFhhdzlnSXp3RmpNSjBieTQ4VlVJdDh0eTlxZ2JkQjRJX3Z5?oc=5"
     },
     {
-      "title": "AI股動盪 台股基金老品牌有底氣 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95cnZKYkdjcFRNRVBfWEd3WXNTSUVSYkcwMUtwbmRRajVwcmRqeGs4d0U5QUdMZlJrN1g3NHBOajJQZC04Znh5TUU1aUNsT2JHVGfSAVdBVV95cUxNVXFFM3FYcVNBX0U5OWtlMGZxdnpIcm5adVFublBUTVc2U3hnSmEtaGUtS2RuOS1feXZMd0Q4Z0pTbThSMEEzVzNadW1JU25STk5UeHVjTzg?oc=5"
+      "title": "〈台股盤前要聞〉創史上最大漲點續拚4萬5 台積電傳明年起漲價10% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DQUQyRmxwZ25sTl9EeTBkcTVSX2cyZ1d2OVc5a1p1b2JkUlB5ZUp1Wm13elgwSE9MM0t1YjQzQnoyaHE3TDR6WFZuQXotS2s?oc=5"
     },
     {
-      "title": "台股震盪！4檔高股息ETF逆勢抗跌 公股法人偏愛00961、0056 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNUEFuQzNVOU1mN09Hb3lycGtQeC1ZNHZYQmVGYzlmNzA1UnRrQjNib0R5WTRPOWFQdDZkUnlaUXJPYXZ3cUMwd1FGQ3VKNU1IVl9oLV92a0RGTHJLSGNLLVNQdUtNM01iMnBSUW5TandBb1MyNG42YmRKNXNoNVhNR01yM0ZmeFFUNDNsZ2lGNmI3bkZVdXh1QmRTMFVYNjY2OXA4VVMwbF9pZ3MzM1RxRVBPaW90OUpiWlk3RWtBXzBUU3FNdjFfQkxCY2xFR0o1WENtWFZVb0tXTDQ1MGxFUmNMeDBvcWtFa0luTHNaM2xWYW9ZYUk0cEg1Smp0ajlYTVlzYzJ4WVdLdUxqTy1jQjZWS0NXYU1oVnlSU0loam53NktBOTJHTVVNWkpjRGw5V2FsQkdHa25HbWp2NENjOHo5Z1NjTExx?oc=5"
-    },
-    {
-      "title": "台股報復性 V 轉 創1,783最大漲點 大盤將再戰45K - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Z3NnZkpqZG1pdkRVbEhDR0U1elUzVk5yeFVxZzZIc29jNmNUdmtNR2hiUW1wYTExQmtBS0FKSVlHdEk5bEEwcWtTTjZkY25fbGVHZFJyT0w0UdIBX0FVX3lxTE5ydFNCY1B4bXYxMTMxYnlkWWtaMjd2VGx5dnNHaEl6TkFnMXhLRzB1SHpsS0VRTUdfcFp0SEN0N2RGSzMyQnBvNTlhV056SkduQmFxWWF2YUJ1ZmNhNjBr?oc=5"
+      "title": "科技股吹反攻號角 美股收高費半大漲逾5% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PcHhFbjB2ZkVjYVlET0taOWpVQTdJWTZOMFFGeXRJSDc4NVM2cTdEY0ZYWm5sTldDelJpZm41d1RLNUlBT240enZTM2E2bm5r?oc=5"
     }
   ]
 }
