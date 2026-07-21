@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/21 07:40",
+  "updated_tw": "07/21 09:09",
   "taiwan": {
     "2330": {
       "price": 2320.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65166.12,
-      "change": 475.3153,
-      "changePercent": 0.7347
+      "price": 65579.32,
+      "change": 888.5153,
+      "changePercent": 1.3735
     },
     "ETH": {
-      "price": 1899.96,
-      "change": 28.4515,
-      "changePercent": 1.5202
+      "price": 1915.59,
+      "change": 44.0815,
+      "changePercent": 2.3554
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.275,
-      "change": -0.038,
-      "changePercent": -0.1176
+      "price": 32.293,
+      "change": -0.02,
+      "changePercent": -0.0619
     },
     "JPYTWD": {
-      "price": 0.1964,
-      "change": -0.0024,
-      "changePercent": -1.2112
+      "price": 0.1965,
+      "change": -0.0023,
+      "changePercent": -1.1609
     },
     "EURTWD": {
-      "price": 36.881,
-      "change": -0.038,
-      "changePercent": -0.103
+      "price": 36.899,
+      "change": -0.02,
+      "changePercent": -0.0542
     },
     "CNYTWD": {
-      "price": 4.7731,
+      "price": 4.778,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4008.7,
-    "twd": 4160.0,
-    "tael": 155988.0,
-    "twdTotal": 129381.0,
-    "changePercent": -0.0997
+    "usd": 4030.2,
+    "twd": 4184.0,
+    "tael": 156912.0,
+    "twdTotal": 130147.0,
+    "changePercent": 0.4361
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股收盤》科技股財報週登場！道瓊跌307點 台積電ADR漲近1％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNTkxVcVR3aEczVE1rMUN6bHROYmVXWTZhU1lOT0M3ZUViMGZxUm9GNE4zVUFzajhPSlVyZHMxTmdtMzhWYkZJMFNPc3pnZDFza1VwVDY2X1ZwZWphblJB0gFkQVVfeXFMTVo4SUw0TXAxWEw3ejhkRXZNdDVSWWJrSzIwcjVnMHhETEhmTGxxSmtVZ19TdUFMVjlURTFWNkFmV2NxcU8xUkpZVDRBbXVzUVN4Z0J6a3pWX256MnlNU0M1bC1EQw?oc=5"
-    },
-    {
       "title": "〈美股盤後〉AI超級財報周將登場 美軍連9日空襲伊朗 三大指數收黑 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HZllaem9SemdsWnp1VHZzcE9raDczbjlzN19oeWo0akl2aWtmclo3SW9jTmNMT1lRaEJ3eUFYcWw3ak9CeWktSXZWMFJIcms?oc=5"
     },
     {
-      "title": "美股早盤／停火提議傳出之際胡塞擬封鎖沙國 晶片股反彈、AMD勁揚4% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jSkYzajY0dVhOdTFyMzl4enhpc0Y4QXU1Y0tnRXBaMmNYeEN2SVZkVU1KdEN1SlNDT0NTV0tWTEVGc1VaVzUwTEo2YnFCOTZt?oc=5"
+      "title": "美伊戰爭衝擊美股！開高走低收黑307點　台指期夜盤漲317點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBSEVVZTJpZHRKZmhMbnQxWU1ENG5ScnJhc1liSnV1ZjdJVGxiYnA2WXVWRTNBUW9SVllBUVlncE5peE05djdIQWZFNDNadkpLNGfSAW5BVV95cUxNRTVBWW1xLXhSSEtUZFBUR2EtdjFyeGFfRGNqc01EQmdMckhQQ2d4WE9hWEpPdDVjaXk2dEpxTWFpR0VITGQ1OVpVODJ1RXh5dk5ld3Z1MWJiOVRVaG0zOTViMnI0NTRFc0dmR2Zydw?oc=5"
     },
     {
-      "title": "台股盤前／費半逆勢翻紅！台指期夜盤漲317點 台股拚反彈收復失土 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOVDdEYksycmlUalZucE11eUFaSldpYnBwX0JMVXVMb1UwcnhGVFRZRUxXUEVCOXlXdm9QeloyWXd4bVhiSEszOEM4Ym01SXJkNWZvanMyTGtJWFpFWUlTVWN4eWNDcHhVdFpKLTlkM0tTZTJVaXhfMnVvb1M2emF0WUtYZjNBVFVid210X1F2ejBNM3ZTQjNsNXRwbW9WcURvd0c4Yml0ejNXZG5RWU9DU1diN0Z2QnhjMXdhRU9tdTR4ZmtpRllERVlhYkZHZnZ2WHctNmFYT2ZhcS1HMDdLeUFqVXZpZzUyNk9LcXFMNEtPNkhfcEsxQk52NEZ5MnVMR1l1T2dwTkNnSHZrYjVzZllvSUdDbkx0aFZQT2FTMFpvNEQ5bHAyZ0dEVTFXNm5rMWcyMTBPM1lWV0lpRFdSMVppczdNanRzQzNVOHd4bHRqUXRzZkZVZ0xYMU5VNG9FZHlMRDNYanp5aXdSUXMyVWpQbUhPZzdybGxDUXpERXZUMDZaWTRkMGFLTEdCcTRuNi1j?oc=5"
+      "title": "美股收盤》科技股財報週登場！道瓊跌307點 台積電ADR漲近1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNTkxVcVR3aEczVE1rMUN6bHROYmVXWTZhU1lOT0M3ZUViMGZxUm9GNE4zVUFzajhPSlVyZHMxTmdtMzhWYkZJMFNPc3pnZDFza1VwVDY2X1ZwZWphblJB0gFkQVVfeXFMTVo4SUw0TXAxWEw3ejhkRXZNdDVSWWJrSzIwcjVnMHhETEhmTGxxSmtVZ19TdUFMVjlURTFWNkFmV2NxcU8xUkpZVDRBbXVzUVN4Z0J6a3pWX256MnlNU0M1bC1EQw?oc=5"
     },
     {
-      "title": "台股崩盤不怕！　57％民眾看好攻破5萬點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wa1pQTWNNU1lnTlJ6Z0NILTFlYWdWdVpwVmNUdWkwZThEY3dIWlE1bEJXcnNGblhQOE1fRnlhdWVFYmZpb1N1dkNuMFZZd3hFNFHSAW5BVV95cUxQdmxYcDRBT2tXZVFhQnRIblBmM0hMUjlpYjMtS3RBaF9aN2xKeDFCQTEwYmpGc0U5NDhISGlSQzYzdnU1ZTV6TWhwXy1LdUNaakg3cGd2MlRyaDNsaU5MazZhWTNYai1JalZJNVlZQQ?oc=5"
+      "title": "7月21日 五件財經大事搶先看 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RnRfT09PMjdVU1g5aG5hdnRqeGlnNkJsVGh1eHNINENEelVfR2k4Rm52dzJhcTBhSGJpcWg1WmN4QmMyeVVTOUZOOUdUZ1o0dUZhQTd2SWxuUdIBX0FVX3lxTE5BNEloVG9lMEN6cHVNdjNQQ01zSFhSY2JMSkZmZkUxbTdYZ1F4NmxNaERIQk1WY20teS1xc3gxbWV0Y1lEVzdoYmEtY2ZMTXZmbTFfTGNnVk1fM0dreS1B?oc=5"
     },
     {
-      "title": "〈美股早盤〉晶片股回神！主要指數開高 迎戰AI超級財報周 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QYWgwU2pMMW5SLU5fQjFRSmwzX2hkTmRQQ0M3NEtkVGdEeFJQMll4bW51a2FBWVY5QkZZdVhnTVRoRkMzcWdSQ2hFWENGNDA?oc=5"
+      "title": "【美股盤前0721】果粉與甲骨文慘了？ 費半技術性熊市初顯？ AMD與Google逆勢發威！｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNWEZRaVZad3lDNEw5ZEUyY1RyNXZDbzJZeC1NUURSZFMzTWx2bnhJTTNvZWpRQ3FBRWdBdVI5SFVUNFM4X1FNR3hkVWphVVdkamNDM3BCTUhkTkllUkZIX3hZNHkyMUdFaTdkTWx1RmFOZHdDSDdESk54WUhJVTY0U2p1dWpiYkxoTVczd183QVZYNHNxSXZpVXpZeXhRX3oyMDE3TkZRODA0M2pJbm5WYlZpLW1CQ3hEWFRoendzRjliaHB0blBseEg3TVpmWUdsNGh5TnNpNHVqVHY3SmQ3OEs2UEhQTFBmVmw5bERLc25mUE5kRUxqbElHU1I4LW9TWExqSU9zUmxSR0NIZXhJSDA3WEFEVHYtNlRhYXRlR2VqT2hoWUx2UzJVRUk2TjJ4aDFTX0F3OWk2ZFhpTHN5NTRGXzdMZElrRUp3WlJEOVVQV19MbEw1RGJWNjRUVF9tVjZGc1hhbWxxYTFRbloySTBpMnVHaXk3S2lHR1FLZU5NeHc1Y25mbGRhQzJ2ZENsb1I2Q01JWTI2LXY0SUx6YnR2S0tzeW02UktnYW85aWQ0TERxNF9pN0JlWmFabTMyaEU0Qnljc3BrQ2ZZWVRB?oc=5"
     },
     {
-      "title": "台股重挫為史上最大單日跌點 金管會回應了 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTmt5a1MxTnlWc2hrb1ZMSTY5Q0c1WVZla2lkc2hWSzZDempCZkY1YmdmU2J6SVpKY1ktM1hLY0tOOHRxSl9jVURWLW5la3BtS3RXRW9oV3Znd9IBX0FVX3lxTE54SFE0LW80NENpN05WZmpnWVM5N1NFMjI1NldFZGRBV2ozTWtsSzVzUmtCUkVmVXc4dXFpNEVldm1xMEtSbExYVzZCMkpGZjJUdGZwbktJVUl2cmNfTHFR?oc=5"
+      "title": "《貴金屬》擔憂升息前景 COMEX黃金下跌0.1% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVRkdE1Lc29rWE1NdnR4ZlQ4QUtyN0dNNk8tVkdKQUVhNGlyR2s4a1RBRHVqMzR6czNfRmhodHR3amVlWG5CS1FSX0lzZXU2UnNPc3BnY0ZUOHB0ZGdKcDJpWU1pc25pSE90c25CWXZWVzEwdS1wMm0xbkt1dm95cGJFMmltU295RmRUMUlTd3prUQ?oc=5"
     },
     {
-      "title": "美伊情勢升溫衝擊！美股開高走低 道瓊下跌307點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNYVJLVngyZXppLWs2YS1DM3lONW1uSWR5bGVjaHBPR1UwcW1hSFpWU05ncFF3WVVzMnFvdjRybzVxVG1oa1EyZ3Bqc01PTV81ZnM5SE1hTGlscmNyZFlKaHVhUFNMNm1OT1I2LWh0OW1SQ0tzNW84ZDVVcUkzWUl1eWFUVXRPdURJLV9aZFJCSVEwc3hWeUpGYTc0Z3VTSHJ6QzJ3Y25VTmQ0OVBaVkV0UEtYdjlLMUxZZXktbUxhWnVJR3B5TmR4M25KaUpwLWJHV3RTV2JoN0w4NFhmZnRSWXdIdkpoOHpfS3dlN3EwMV92ZWhMR1o5akd0TGpIcXJwM2Z3NEtGRFhfajdfS3NpTzBEYm1GekVuS0ZadWdsN1hGdzVxbGxWYTRSbGFCQ0pOd0F2a2ZXbTZXeXRwUGc?oc=5"
+      "title": "美股因油價上漲收低 美伊衝突升級威脅沙烏地原油運輸 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOYzhHaFFZRk5SVVRtbzhqZWswYlh0SVI4UW9FdXhUWVZFVFU4OTB5SXBZLVg3bllIRTJBUGQyeTdOQk1tejBHVWVvQ0cyeXZjWVAzeFVsS1UzRkJZeUdPaHRncERlZ0ZxZGtaWkRIZjhDaGF0U0IyV3BiZWtTNHJmTEF4NjNaaW4yYmM5bDM0MVQ0SDBLYzJhSWVsQThORjdhSGljanJqdTA3VkFNOEhqcURNMGR1NVZJdE9YU21XeTJ2LWRGY2hhdTM4eXF4WWN1dHV2eW1LUjU4a1luTDdyMl85ZnFYZlByekF0TnFjTDd6SVRBQWhhb2gzTllWYTBYRy0taDJuenprUXpoeUl5ZmxKT3ZuMktDSEpuUXpOTzFJYmxVbVNRNTBOUUt6Z3RsQXZ2YzBtWVpZbHJKWk93VzhTN0pkaEcyY3FNV1BDd0x4VF92c2dzcFdnNXlrOWJUMFZXQzdoOVpMY1JKRVFRQ3hwOVJRU2FuMU0xeQ?oc=5"
+    },
+    {
+      "title": "美股多收跌費半逆勢漲投顧看台股持續震盪| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5adjBHby1JUEdTTzBaVGFhRUVJdHNvd0dOZFdwTlVkSzZJSm5KenFjRnlfSnc4QVhMZzJsR0V3MlJGN0JOa25ydEFmOHJGRXBWN1NYTVNnOVJYZklKdmc?oc=5"
     }
   ]
 }
