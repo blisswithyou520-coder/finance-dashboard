@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/23 05:14",
+  "updated_tw": "07/23 06:17",
   "taiwan": {
     "2330": {
       "price": 2400.0,
-      "change": 80.0,
-      "changePercent": 3.4483
+      "change": -10.0,
+      "changePercent": -0.4149
     },
     "2454": {
       "price": 3850.0,
-      "change": 510.0,
-      "changePercent": 15.2695
+      "change": 180.0,
+      "changePercent": 4.9046
     },
     "2317": {
       "price": 251.5,
-      "change": 17.0,
-      "changePercent": 7.2495
+      "change": 5.5,
+      "changePercent": 2.2358
     },
     "0050": {
       "price": 103.85,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65908.23,
-      "change": -596.895,
-      "changePercent": -0.8975
+      "price": 65964.73,
+      "change": -540.395,
+      "changePercent": -0.8126
     },
     "ETH": {
-      "price": 1926.91,
-      "change": -1.4738,
-      "changePercent": -0.0764
+      "price": 1933.69,
+      "change": 5.3062,
+      "changePercent": 0.2752
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.383,
-      "change": 0.0576,
-      "changePercent": 0.1782
+      "price": 32.379,
+      "change": 0.0536,
+      "changePercent": 0.1658
     },
     "JPYTWD": {
       "price": 0.1963,
@@ -94,22 +94,22 @@
       "changePercent": -0.9016
     },
     "EURTWD": {
-      "price": 36.995,
-      "change": 0.1359,
-      "changePercent": 0.3688
+      "price": 36.982,
+      "change": 0.1229,
+      "changePercent": 0.3335
     },
     "CNYTWD": {
-      "price": 4.7887,
+      "price": 4.7838,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4135.0,
-    "twd": 4305.0,
-    "tael": 161441.0,
-    "twdTotal": 133904.0,
-    "changePercent": 1.5696
+    "usd": 4126.0,
+    "twd": 4295.0,
+    "tael": 161070.0,
+    "twdTotal": 133596.0,
+    "changePercent": 1.3485
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股山雨欲來？分析：空頭部位增至2010年以來最高| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50VlNORGt0RVh4Ql90RTlGM0ZTNjlkam5GTjNIalFBMUdiSUJ1UjNXdDRtNHVVd3BtYkJvMGtOZ3V5eUljaFFCdWg0NWhHY0RP?oc=5"
+      "title": "美股標普、那指收跌能源股逆勢上揚| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kUHhUX2xCNl9qckhxcmRxUDg3VjV3MUphWUtrQmRzZ050cndWRFZPT2tQODBqbGtvVkFGWjJUaWwwSExjVXVHMENNcWpDNmFH?oc=5"
     },
     {
       "title": "〈美股早盤〉晶片股疲弱與油價上漲牽動市場 主要指數開低 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GaDJhdWpUTFBCdGphY1oxQTIyMzlKRGtyRmN4MjNUcmpNTk41UEk3S1RVbnJON0o4NlRSRnkwSGxwU0tDS0JzcGNnTTcxSTg?oc=5"
     },
     {
-      "title": "曾連續20多年增持黃金，俄羅斯現在爲何出售儲備金？ - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWMtSDVTNHFHNUdQVHB4TEotTEt3b3N4QlR2X0pQVW9VOEZ3Y1lkUUJRYU90eXZvZFY4b2RpYkE1OG9NNVZ5aWh2UlF0bHQyYUpvd1BDajdJVE1zTFdkYWx6NlM5WmhTbXNXU0QxU0pfbmlEUEJDeTVUZTBJOTJ4NF8xLTJsamZ6QUFQb0RqQ1NOMWhGS2pMNlRNYlVod3Mt?oc=5"
-    },
-    {
       "title": "台股明日上漲有望！美股四大指數全開高、費半飆3%、夜盤同步上攻台積電ADR漲3%、日月光ADR噴近7% - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOWGtaNzQ1QmRWYVZpNjVZMldpVFQ3RU1oeUd3Y0NiRHphTTBFRWlNSmVacmRna3U0cHBXMXFZSWp0ZXN6VHZSWTBzUmI4SUt4dmJ4Q3lwem5NYXMyWUt3M3hENTZZdS1lSWxjOXhMZ0lmTktlQUR1YW5TbHdsX0w2M2E4NXZQQjVJSEdVbndhUldoa1ZGU2dCVkVIeTdra3FaQXhWaWt5cUxHNWFZU0lkV1pjVjdRM01FMlF0cm9Ya0g3YnpMV0tjeWpraHc5dzk3WHdCQW1Sd0hVMlpTOTZraFdqeUVINXJRSGIwWlR1QTBZa2pXMkpCeUxMQ1EtYlhXTzFtVGFWSTJRNkxrNjVGTEcyR0ZTNzhld18zV3A2Y1c2WU1ZYTAxS1AweV9mTHEwMExwMW10U19iWWZWeHlyT09GVzdBTHVqcHZxTW9fREtWY2UyWnpvS2txc1cxekRSRHQ1MXAwNmJOWGdManI1d3ZqejdVSmh1UG5qMHpBdkh1Yng2TmxsZ3RlWjdTNHFUOWtPbmVXblhzTHc3ZG05S2U1UkQ2VldmRXlEZEl6cDVBaVpsSndrMHg0Q0hJdUpfX1dIcjdDWjgzY19kbHNZ?oc=5"
-    },
-    {
-      "title": "黃金大漲！「這貴金屬」也狂飆 後市走向機構坦白說 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9scnVsNE0tcURlSEpzREo3aUVYY1FKcGNKWXFqUGlIdDVLeXVPWktaX1JxMlhoREk5X25KSkN0T1J4b2RQOVltcWZlLVE5Nk5mbktSY0JHWVdGRWRadWlz0gFkQVVfeXFMTk1ySmZmaXdUbXh1N1V5cVVkRjJhcHlOaEdVT0xRZXkySnYzdHIyRFZHUm1IbWFkSEdtOEI3c0xwYlRhY3lrX0xGZjhNR0VWUkF0N0V1ZWVzU1UwUDlvcGp2dkRfeg?oc=5"
     },
     {
       "title": "Kimi K3翻轉記憶體命運？美光大漲帶動台股南亞科、華邦電、旺宏齊強｜股市話題｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPbDJPeVFnNjNOZVNCN3BYNWZKQTZpTzR1aG9QRGNmdFN6SEdxaUxKZFlkc0lEQm44SkJXM2x6eVUtUTRrb0lJYmRTYmZGVzAwUWoxYW9DSjNHNjNvVnZPblNjazBSR2c4YkZOYVBMbW9sM2ZPVWlzMTRqSXN2cU9lMm9PaVVSUEJrR2lNZmJyc1NxSGNXaG5xdV9WQ2RBU2ZiU0lwU0VGVlJMel9qbm9LcVpNWmRkMm9KcHhQeExyRElYazU2TmNXZFV4OWxEa29MdFdZai1HQTRxWEJQN1N2NTJnRmwyeFYwbDVjMTJXVTVUOTExdXVvSXpXajFJZW5XSE1Qd3owczdkUENUOUNzYWlzU0hzVkpab09YSkt0c2NIaVBuMklocExZYndXNWU2MTZRNkRwcmdtSGFFYXZNYTBaQ1pURHExQ0h1SVNKNXhDRkVVWlVjM2c2S2Jkdm5tQVNkOTNaWUtDMHRJQU0tS3MwU2ZxcHNnSjFET0tDQzF3M3BYdFlYMU5SMjNrSmxGYVpwSGFGemJrclhEOC11U0x1X2RTdVFaUWtSa2QzbFVtWVRvUC1uVXhNcXJGTVlPRElwc0RvT3BudGUta0JUWXVTaDdGaWNjYmRrbjZLUFZxWEYtSGNn?oc=5"
     },
     {
-      "title": "台股這波反彈能走多遠？法人揭2關鍵：年底仍有望挑戰5萬點－經濟日報 - 商周",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15N0xwamZtYVlJTzVZbC1NRjlyTzFOU3o5LWRZajh4TFlVQXhFTVFkNGZLTjZzaWxic3dtMFNQYTRvWkRPU1hRTWpQQ3VYU2pGZFdZb2VCNmNfYjZaX2twMUZyVVB0dw?oc=5"
+      "title": "黃金大漲！「這貴金屬」也狂飆 後市走向機構坦白說 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9scnVsNE0tcURlSEpzREo3aUVYY1FKcGNKWXFqUGlIdDVLeXVPWktaX1JxMlhoREk5X25KSkN0T1J4b2RQOVltcWZlLVE5Nk5mbktSY0JHWVdGRWRadWlz0gFkQVVfeXFMTk1ySmZmaXdUbXh1N1V5cVVkRjJhcHlOaEdVT0xRZXkySnYzdHIyRFZHUm1IbWFkSEdtOEI3c0xwYlRhY3lrX0xGZjhNR0VWUkF0N0V1ZWVzU1UwUDlvcGp2dkRfeg?oc=5"
     },
     {
-      "title": "美股放空部位 16年最高 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02dnNOdHhOSlpnclRmN0ZWaHVMUEtvRWJGX0xhaWVIdGZPNzVpc3hwTzhyd0JaR29xNWNLbFpxaDM0cjdtYlI5ZE5mYmhGSnNa0gFWQVVfeXFMTzNRc1dzeHNLVzFJT09xaF9McnIzTWFqQm91dEx3Z2xVWnZhVG5LbVY2c2FyWXpIUnBmcXJZbjNrU3F2Vm1KTE1MQlc0eDFNdU9rQ0c3dUE?oc=5"
+      "title": "美股山雨欲來？分析：空頭部位增至2010年以來最高| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50VlNORGt0RVh4Ql90RTlGM0ZTNjlkam5GTjNIalFBMUdiSUJ1UjNXdDRtNHVVd3BtYkJvMGtOZ3V5eUljaFFCdWg0NWhHY0RP?oc=5"
+    },
+    {
+      "title": "台股45K沒站上 外資終結13賣！看懂台股下一步 投資人3大注意點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOVkpqSGk4aDFkUzB2TUluVDlqNFdTWnhNNzRUcG9KQ2pna1FLNEx4UVBEVUgtQlBKX2kxWXhQVFNRS2V0MTF0cFo1V211anhXTE01c3pSOUhmdHNRaC1BaDdDQlVuMkhiYTlXMEpfNDB1ZzM4eHpfNDJvNDhucGx6NGJydjdTY2N4blhSVEJtRXhlTHVoNnJ0ZWVwMTAyVnhHTnNkQlhwV0tJbG05dkdJSHc4YXV5NkY0YUwydjRWNGs4bXdxOFRLZDNJSVUzR3hXZ01aLUFpSkUwd3BhR3VSNW9RdFpkVUE2Y21RYWo4OWF1N3c1OF80RW4taU1KR2IwcWJKT2daSDJrX2V3UU5LbFNwT0xWVjNRQUYyc1hYMU8weWVBWEVUaDg2eTNYWkdjTVhzT1pQeVNTdl9wZnJnMm81X2NXZFNTcTZXREVSeXVMaWV1NTlKSGZGQVYtdzd6cERFN3ZCdTI2XzFUT0ltZXBKczNwNlpDSEZQZQ?oc=5"
+    },
+    {
+      "title": "台股抗震投資術｜國家隊、散戶逢低買哪些ETF？0056、0050、00929人氣排行揭密，永豐金定期定額助攻累積資產! - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiywRBVV95cUxPMnBfVmVrNWlUZkNDcEgtRFNRWlVlV2EzcnF5UTBUVHNXV1VpRXBqSGs5SC1CVmxBOF9mY3FuWlZWUWk2VnRFc2FMRzJ2UXRHdlRRSTZwekRCck5FcjFYUFl5NWhCYWhsalZUd1Rqa2ZhWC1XWGt2TGdfdTdhZE9hX3Y5dko1Uk5ucm5pc1JEU0NvSTBodWR5VWd0SC1JdE85NUFheUNRLUdDS1dYQlFkbW9wcl9lZ0VuUnVLTllTdlNwTWdWU0tRelotVlY2VDlkeU4weGdDaFdQZzZPMnVxclJybFZxWVRpMG1zejBMRjVPZUZNWmFNcFZsWmdpNnVwMGxUQTIwMmg0YnZ6QXZXOXNnUnY4Q0lHQ0pta2RjNWRvcXlWR0lKTl9DNHAxaUc4MFBOeVpQR1VDcldTS094YmpnZ082LVh1MjRiUUlzbVR2SDM2cWsxWlZ6aTFGYll4XzZSR1JDRTlCNnlQZTd2SXh1ZGJwS05NS0xkcUlHM2MzRzRMTEozeHFfaExCcW96Vi1ZWGxsNFFyb1ExcXU2clgycUVsTUV6Njh4X0E4UnZ5R3pPSUFPdy12ZjQ5V3Zqd05DODRTcDg4MXN1S1ZCMWN3MEJWdFdnUVJrdWdrdkxIYWpmY1ZmYTJTYmpRRUI0WkpKVzI0aU1WMllUVEdqY09hemVVdnViemZKbHZsa3hGaU44a0tlYjEzd3JYWTZ6ZHdMM1l5NUdSLXJDU2xTSENRdkhJa29EVXdpakJMRnR3TlA4UkQyZElHTQ?oc=5"
     }
   ]
 }
