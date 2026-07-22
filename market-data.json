@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/22 19:55",
+  "updated_tw": "07/22 21:52",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 207.29,
-      "change": 4.01,
-      "changePercent": 1.9726
+      "price": 207.9,
+      "change": 0.61,
+      "changePercent": 0.2943
     },
     "AAPL": {
-      "price": 327.74,
-      "change": 1.15,
-      "changePercent": 0.3521
+      "price": 326.206,
+      "change": -1.534,
+      "changePercent": -0.4681
     },
     "TSLA": {
-      "price": 378.93,
-      "change": 9.36,
-      "changePercent": 2.5327
+      "price": 379.335,
+      "change": 0.405,
+      "changePercent": 0.1069
     },
     "QQQ": {
-      "price": 708.97,
-      "change": 12.91,
-      "changePercent": 1.8547
+      "price": 706.17,
+      "change": -2.8,
+      "changePercent": -0.3949
     },
     "SPY": {
-      "price": 748.28,
-      "change": 6.19,
-      "changePercent": 0.8341
+      "price": 747.805,
+      "change": -0.475,
+      "changePercent": -0.0635
     },
     "SCHD": {
-      "price": 32.82,
-      "change": 0.07,
-      "changePercent": 0.2137
+      "price": 33.08,
+      "change": 0.26,
+      "changePercent": 0.7922
     },
     "VOO": {
-      "price": 687.87,
-      "change": 5.66,
-      "changePercent": 0.8297
+      "price": 687.36,
+      "change": -0.51,
+      "changePercent": -0.0741
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65993.81,
-      "change": -511.315,
-      "changePercent": -0.7688
+      "price": 65788.85,
+      "change": -716.275,
+      "changePercent": -1.077
     },
     "ETH": {
-      "price": 1926.52,
-      "change": -1.8638,
-      "changePercent": -0.0967
+      "price": 1935.69,
+      "change": 7.3062,
+      "changePercent": 0.3789
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.375,
-      "change": 0.0991,
-      "changePercent": 0.307
+      "price": 32.421,
+      "change": 0.1451,
+      "changePercent": 0.4496
     },
     "JPYTWD": {
-      "price": 0.1961,
-      "change": -0.0025,
-      "changePercent": -1.2683
+      "price": 0.1966,
+      "change": -0.002,
+      "changePercent": -1.0165
     },
     "EURTWD": {
-      "price": 36.941,
-      "change": 0.1038,
-      "changePercent": 0.2818
+      "price": 37.051,
+      "change": 0.2138,
+      "changePercent": 0.5804
     },
     "CNYTWD": {
-      "price": 4.7797,
+      "price": 4.7916,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4121.2,
-    "twd": 4290.0,
-    "tael": 160863.0,
-    "twdTotal": 133424.0,
-    "changePercent": 1.2306
+    "usd": 4148.1,
+    "twd": 4324.0,
+    "tael": 162143.0,
+    "twdTotal": 134486.0,
+    "changePercent": 1.8914
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,20 +129,20 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9scnVsNE0tcURlSEpzREo3aUVYY1FKcGNKWXFqUGlIdDVLeXVPWktaX1JxMlhoREk5X25KSkN0T1J4b2RQOVltcWZlLVE5Nk5mbktSY0JHWVdGRWRadWlz0gFkQVVfeXFMTk1ySmZmaXdUbXh1N1V5cVVkRjJhcHlOaEdVT0xRZXkySnYzdHIyRFZHUm1IbWFkSEdtOEI3c0xwYlRhY3lrX0xGZjhNR0VWUkF0N0V1ZWVzU1UwUDlvcGp2dkRfeg?oc=5"
     },
     {
-      "title": "台股2天漲2,374點！吸回「8成失土」 再戰4萬5大關 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxObjNiZHJFd0Z4bUJ0UXVxeUJORHhyQkdKcDBHT0V5SW9HQmlOSnNqVVRkWW5VMmt3MlBUWk4tUGlRYl9LaERiVnAzLUJmbjhIamFsb3lrSmN6Wk1tbzZYZTZVcHZTRDF0eTdwTjJydXJTMVFFR2VhbFgyN3lTbVVjLURTd0VfOU0xLWtITi1QZ3F6OXlPcW1GMFNJMVV1bzZJSHZpWnl5T0RyN1lxMWVFSXNsUGxBSl9La0N6dnlTbHZFN1AtbWtSNG9URVBxYUV2UV9TTGJQdGx0Y0RMdHFjSWdQN0RuSlNySjN6bGo4ZkJIVzBDRkRmMFRGRTRDcUxqb29nWVRuZEdLTXJ4dWNkRkRBeFFwdDlTUFptZklEVm1fQW1KYUFEYUdFTTdHVUQ5eXRDSHRsc0Z1VWJfUGZV?oc=5"
+      "title": "外資終止連殺帶173億回頭！神山翻黑台股4萬5摸到又放手這波換聯發科撐腰｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimgRBVV95cUxPUFd1b01qNGFUcDBibEhtSmV6M29yNW1XaGhGcjhock9Nck9iYnFHd3UzTXl0aThmb3VwcVY5VGsxSFRMT0NCeGRNTENnQ0wyUWtQUVBZdVoyaGJpTUE3ZExYT0w4eTRvYVFsank5SGR1cjVhUTh5TzdmYnpOUVVNaHVCN0tnWFd6enVadWxUQm9udzdIUHByNXlTUDRTUnlzYWRsWlpxXzVmdTZiUndBYUVQSVc5ZE8za2Zqc0dSdmptaFNQLWFHSlRaUjk2bFc4Ui11ZElRck4ybmxZb3oxZDdUVFZmUVhUVmtrdklfdDNqbWVsLXh1OHc4VFBqQ1hSYUFONXltcHBVaGcyOGtuZXdUd0dIMjY0WGl3MEppS3RFY1J4Tk9pYVI1VmxmOU1SQ3JEOW9jQUhiQmpueXBFOGNza3hyd1F0d3JyVkV4aXJFRFJrTXE0NWFqMjRrLS1ZdC1kUTAwdVJoOERkLXZuV2V6c0stQk5lMV9lWm9YNm8wUGszWG1ZQjI5c2VSTVBlQmZQVnhiRU9uRUVLZXhjZDBsQmVLSHBXY0o0Qm1pekV1N1RzWDJGQXBTbEJUSno0dHh5VDU5RDN6V0tPV3o1OEpVa015N3JuSk5yNFM0WDJ2eThIZjAtYTU0QjR0ZEZqaXJsUFI2eUhLQ25Wa0d6cFNFaTVRYkw3S09rX3J5bV8xcDJQcG8yOVRR?oc=5"
     },
     {
-      "title": "台股抗震投資術｜國家隊、散戶逢低買哪些ETF？0056、0050、00929人氣排行揭密，永豐金定期定額助攻累積資產! - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiywRBVV95cUxPMnBfVmVrNWlUZkNDcEgtRFNRWlVlV2EzcnF5UTBUVHNXV1VpRXBqSGs5SC1CVmxBOF9mY3FuWlZWUWk2VnRFc2FMRzJ2UXRHdlRRSTZwekRCck5FcjFYUFl5NWhCYWhsalZUd1Rqa2ZhWC1XWGt2TGdfdTdhZE9hX3Y5dko1Uk5ucm5pc1JEU0NvSTBodWR5VWd0SC1JdE85NUFheUNRLUdDS1dYQlFkbW9wcl9lZ0VuUnVLTllTdlNwTWdWU0tRelotVlY2VDlkeU4weGdDaFdQZzZPMnVxclJybFZxWVRpMG1zejBMRjVPZUZNWmFNcFZsWmdpNnVwMGxUQTIwMmg0YnZ6QXZXOXNnUnY4Q0lHQ0pta2RjNWRvcXlWR0lKTl9DNHAxaUc4MFBOeVpQR1VDcldTS094YmpnZ082LVh1MjRiUUlzbVR2SDM2cWsxWlZ6aTFGYll4XzZSR1JDRTlCNnlQZTd2SXh1ZGJwS05NS0xkcUlHM2MzRzRMTEozeHFfaExCcW96Vi1ZWGxsNFFyb1ExcXU2clgycUVsTUV6Njh4X0E4UnZ5R3pPSUFPdy12ZjQ5V3Zqd05DODRTcDg4MXN1S1ZCMWN3MEJWdFdnUVJrdWdrdkxIYWpmY1ZmYTJTYmpRRUI0WkpKVzI0aU1WMllUVEdqY09hemVVdnViemZKbHZsa3hGaU44a0tlYjEzd3JYWTZ6ZHdMM1l5NUdSLXJDU2xTSENRdkhJa29EVXdpakJMRnR3TlA4UkQyZElHTQ?oc=5"
+      "title": "Kimi K3翻轉記憶體命運？美光大漲帶動台股南亞科、華邦電、旺宏齊強｜股市話題｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPbDJPeVFnNjNOZVNCN3BYNWZKQTZpTzR1aG9QRGNmdFN6SEdxaUxKZFlkc0lEQm44SkJXM2x6eVUtUTRrb0lJYmRTYmZGVzAwUWoxYW9DSjNHNjNvVnZPblNjazBSR2c4YkZOYVBMbW9sM2ZPVWlzMTRqSXN2cU9lMm9PaVVSUEJrR2lNZmJyc1NxSGNXaG5xdV9WQ2RBU2ZiU0lwU0VGVlJMel9qbm9LcVpNWmRkMm9KcHhQeExyRElYazU2TmNXZFV4OWxEa29MdFdZai1HQTRxWEJQN1N2NTJnRmwyeFYwbDVjMTJXVTVUOTExdXVvSXpXajFJZW5XSE1Qd3owczdkUENUOUNzYWlzU0hzVkpab09YSkt0c2NIaVBuMklocExZYndXNWU2MTZRNkRwcmdtSGFFYXZNYTBaQ1pURHExQ0h1SVNKNXhDRkVVWlVjM2c2S2Jkdm5tQVNkOTNaWUtDMHRJQU0tS3MwU2ZxcHNnSjFET0tDQzF3M3BYdFlYMU5SMjNrSmxGYVpwSGFGemJrclhEOC11U0x1X2RTdVFaUWtSa2QzbFVtWVRvUC1uVXhNcXJGTVlPRElwc0RvT3BudGUta0JUWXVTaDdGaWNjYmRrbjZLUFZxWEYtSGNn?oc=5"
     },
     {
       "title": "〈美股盤後〉晶片股強勢反攻 費半飆逾5% 美光、SK海力士ADR暴漲超12% - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xbkQybzl3SHpzeHdXMVBUYnc0Mjh3MHBQcFZhUm5JY2lPM1plMmFLek5FTS1tejRaVUhFOW05NmRsanVoYUJfVUtIU0xZMVE?oc=5"
     },
     {
-      "title": "外資終止連殺帶173億回頭！神山翻黑台股4萬5摸到又放手這波換聯發科撐腰｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMimgRBVV95cUxPUFd1b01qNGFUcDBibEhtSmV6M29yNW1XaGhGcjhock9Nck9iYnFHd3UzTXl0aThmb3VwcVY5VGsxSFRMT0NCeGRNTENnQ0wyUWtQUVBZdVoyaGJpTUE3ZExYT0w4eTRvYVFsank5SGR1cjVhUTh5TzdmYnpOUVVNaHVCN0tnWFd6enVadWxUQm9udzdIUHByNXlTUDRTUnlzYWRsWlpxXzVmdTZiUndBYUVQSVc5ZE8za2Zqc0dSdmptaFNQLWFHSlRaUjk2bFc4Ui11ZElRck4ybmxZb3oxZDdUVFZmUVhUVmtrdklfdDNqbWVsLXh1OHc4VFBqQ1hSYUFONXltcHBVaGcyOGtuZXdUd0dIMjY0WGl3MEppS3RFY1J4Tk9pYVI1VmxmOU1SQ3JEOW9jQUhiQmpueXBFOGNza3hyd1F0d3JyVkV4aXJFRFJrTXE0NWFqMjRrLS1ZdC1kUTAwdVJoOERkLXZuV2V6c0stQk5lMV9lWm9YNm8wUGszWG1ZQjI5c2VSTVBlQmZQVnhiRU9uRUVLZXhjZDBsQmVLSHBXY0o0Qm1pekV1N1RzWDJGQXBTbEJUSno0dHh5VDU5RDN6V0tPV3o1OEpVa015N3JuSk5yNFM0WDJ2eThIZjAtYTU0QjR0ZEZqaXJsUFI2eUhLQ25Wa0d6cFNFaTVRYkw3S09rX3J5bV8xcDJQcG8yOVRR?oc=5"
+      "title": "台股2天漲2,374點！吸回「8成失土」 再戰4萬5大關 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxObjNiZHJFd0Z4bUJ0UXVxeUJORHhyQkdKcDBHT0V5SW9HQmlOSnNqVVRkWW5VMmt3MlBUWk4tUGlRYl9LaERiVnAzLUJmbjhIamFsb3lrSmN6Wk1tbzZYZTZVcHZTRDF0eTdwTjJydXJTMVFFR2VhbFgyN3lTbVVjLURTd0VfOU0xLWtITi1QZ3F6OXlPcW1GMFNJMVV1bzZJSHZpWnl5T0RyN1lxMWVFSXNsUGxBSl9La0N6dnlTbHZFN1AtbWtSNG9URVBxYUV2UV9TTGJQdGx0Y0RMdHFjSWdQN0RuSlNySjN6bGo4ZkJIVzBDRkRmMFRGRTRDcUxqb29nWVRuZEdLTXJ4dWNkRkRBeFFwdDlTUFptZklEVm1fQW1KYUFEYUdFTTdHVUQ5eXRDSHRsc0Z1VWJfUGZV?oc=5"
     },
     {
       "title": "美股山雨欲來？分析：空頭部位增至2010年以來最高| 全球財經| 全球 - UDN",
