@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/22 21:52",
+  "updated_tw": "07/22 23:41",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 207.9,
-      "change": 0.61,
-      "changePercent": 0.2943
+      "price": 212.3,
+      "change": 5.01,
+      "changePercent": 2.4169
     },
     "AAPL": {
-      "price": 326.206,
-      "change": -1.534,
-      "changePercent": -0.4681
+      "price": 325.319,
+      "change": -2.421,
+      "changePercent": -0.7387
     },
     "TSLA": {
-      "price": 379.335,
-      "change": 0.405,
-      "changePercent": 0.1069
+      "price": 377.79,
+      "change": -1.14,
+      "changePercent": -0.3008
     },
     "QQQ": {
-      "price": 706.17,
-      "change": -2.8,
-      "changePercent": -0.3949
+      "price": 708.64,
+      "change": -0.33,
+      "changePercent": -0.0465
     },
     "SPY": {
-      "price": 747.805,
-      "change": -0.475,
-      "changePercent": -0.0635
+      "price": 749.13,
+      "change": 0.85,
+      "changePercent": 0.1136
     },
     "SCHD": {
-      "price": 33.08,
-      "change": 0.26,
-      "changePercent": 0.7922
+      "price": 32.985,
+      "change": 0.165,
+      "changePercent": 0.5027
     },
     "VOO": {
-      "price": 687.36,
-      "change": -0.51,
-      "changePercent": -0.0741
+      "price": 688.56,
+      "change": 0.69,
+      "changePercent": 0.1003
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65788.85,
-      "change": -716.275,
-      "changePercent": -1.077
+      "price": 65984.99,
+      "change": -520.135,
+      "changePercent": -0.7821
     },
     "ETH": {
-      "price": 1935.69,
-      "change": 7.3062,
-      "changePercent": 0.3789
+      "price": 1943.89,
+      "change": 15.5062,
+      "changePercent": 0.8041
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.421,
-      "change": 0.1451,
-      "changePercent": 0.4496
+      "price": 32.427,
+      "change": 0.1511,
+      "changePercent": 0.4681
     },
     "JPYTWD": {
       "price": 0.1966,
@@ -94,22 +94,22 @@
       "changePercent": -1.0165
     },
     "EURTWD": {
-      "price": 37.051,
-      "change": 0.2138,
-      "changePercent": 0.5804
+      "price": 37.041,
+      "change": 0.2038,
+      "changePercent": 0.5533
     },
     "CNYTWD": {
-      "price": 4.7916,
+      "price": 4.7936,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4148.1,
-    "twd": 4324.0,
-    "tael": 162143.0,
-    "twdTotal": 134486.0,
-    "changePercent": 1.8914
+    "usd": 4163.2,
+    "twd": 4340.0,
+    "tael": 162763.0,
+    "twdTotal": 135000.0,
+    "changePercent": 2.2623
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "費半大漲5.2%隨美股終結三日跌勢 Alphabet資本支出將檢驗AI行情 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91TVV3d3hnZ1MtWGVkQW96eGJoOUJ4WlBlN0ZLX2FxaUxrVWV4VnVvSWdzZzg1b3k1bDhhM0Vjb2M0d21HRXNDSDlfSlNDODRQ?oc=5"
+      "title": "美股早盤／靜候科技大廠財報！指數漲跌互見、美超微飆逾20% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YRWthQmtMNU1PZkoweW9XUXhfczFuX3VaVVAxTGFKTnlKQ2hpbUtiRFNqWFpmOVE4RVpDSlcyaGRmSDhWdHE0aERiMk5YVUc4?oc=5"
+    },
+    {
+      "title": "〈美股早盤〉晶片股疲弱與油價上漲牽動市場 主要指數開低 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GaDJhdWpUTFBCdGphY1oxQTIyMzlKRGtyRmN4MjNUcmpNTk41UEk3S1RVbnJON0o4NlRSRnkwSGxwU0tDS0JzcGNnTTcxSTg?oc=5"
     },
     {
       "title": "曾連續20多年增持黃金，俄羅斯現在爲何出售儲備金？ - capitalfutures.com.tw",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWMtSDVTNHFHNUdQVHB4TEotTEt3b3N4QlR2X0pQVW9VOEZ3Y1lkUUJRYU90eXZvZFY4b2RpYkE1OG9NNVZ5aWh2UlF0bHQyYUpvd1BDajdJVE1zTFdkYWx6NlM5WmhTbXNXU0QxU0pfbmlEUEJDeTVUZTBJOTJ4NF8xLTJsamZ6QUFQb0RqQ1NOMWhGS2pMNlRNYlVod3Mt?oc=5"
     },
     {
-      "title": "黃金大漲！「這貴金屬」也狂飆 後市走向機構坦白說 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9scnVsNE0tcURlSEpzREo3aUVYY1FKcGNKWXFqUGlIdDVLeXVPWktaX1JxMlhoREk5X25KSkN0T1J4b2RQOVltcWZlLVE5Nk5mbktSY0JHWVdGRWRadWlz0gFkQVVfeXFMTk1ySmZmaXdUbXh1N1V5cVVkRjJhcHlOaEdVT0xRZXkySnYzdHIyRFZHUm1IbWFkSEdtOEI3c0xwYlRhY3lrX0xGZjhNR0VWUkF0N0V1ZWVzU1UwUDlvcGp2dkRfeg?oc=5"
+      "title": "美伊無意重啟談判！美股觀望氣氛濃 台積電ADR持續走弱 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNbmRZd044Qjduc09xN25VRkktbUh3cGROTlpmRExzZDZYdFU3RXJwT3pDNDJkY0dqZDJKQTk5UkpEd3JhWXgwbG1hdE0wZG5HYXVRNlRTRTBEUXlFMXZZbnUyRWNLU0lmeXM0N3pMNUxxd1ltUEw3S1lMRWtKbUVyMGRVc0kyWFdnc1RHQjFzekNpOHBMWGpzTnVTLV9sb0tHVGpDZFctV1d5dENiOFlPejgyVFBIbEVVd3FOdzFCbzRtMlpNOHBIelViVzVlOUZ2Rm5WV2VmWmxEOU5FMzZtaXItd0pGdVVKYnFHNVVSWUMxNkRxX1NDbnFxbDcwcnR4ZHZ3Mm1XVzhONFdEVk9hcDJsdkZhcUEzdUpHUkZhTTNPTElxS09JQTdZUDV1YXdnWHlBYkl4c3JHdjZQTGtEc1hoQ1B1M2E5aXJWTVc5VkVGbl85bGt0X2lPdTh2M1l2blNDUk9qMlh6Zw?oc=5"
     },
     {
-      "title": "外資終止連殺帶173億回頭！神山翻黑台股4萬5摸到又放手這波換聯發科撐腰｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMimgRBVV95cUxPUFd1b01qNGFUcDBibEhtSmV6M29yNW1XaGhGcjhock9Nck9iYnFHd3UzTXl0aThmb3VwcVY5VGsxSFRMT0NCeGRNTENnQ0wyUWtQUVBZdVoyaGJpTUE3ZExYT0w4eTRvYVFsank5SGR1cjVhUTh5TzdmYnpOUVVNaHVCN0tnWFd6enVadWxUQm9udzdIUHByNXlTUDRTUnlzYWRsWlpxXzVmdTZiUndBYUVQSVc5ZE8za2Zqc0dSdmptaFNQLWFHSlRaUjk2bFc4Ui11ZElRck4ybmxZb3oxZDdUVFZmUVhUVmtrdklfdDNqbWVsLXh1OHc4VFBqQ1hSYUFONXltcHBVaGcyOGtuZXdUd0dIMjY0WGl3MEppS3RFY1J4Tk9pYVI1VmxmOU1SQ3JEOW9jQUhiQmpueXBFOGNza3hyd1F0d3JyVkV4aXJFRFJrTXE0NWFqMjRrLS1ZdC1kUTAwdVJoOERkLXZuV2V6c0stQk5lMV9lWm9YNm8wUGszWG1ZQjI5c2VSTVBlQmZQVnhiRU9uRUVLZXhjZDBsQmVLSHBXY0o0Qm1pekV1N1RzWDJGQXBTbEJUSno0dHh5VDU5RDN6V0tPV3o1OEpVa015N3JuSk5yNFM0WDJ2eThIZjAtYTU0QjR0ZEZqaXJsUFI2eUhLQ25Wa0d6cFNFaTVRYkw3S09rX3J5bV8xcDJQcG8yOVRR?oc=5"
+      "title": "黃金大漲！「這貴金屬」也狂飆 後市走向機構坦白說 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9scnVsNE0tcURlSEpzREo3aUVYY1FKcGNKWXFqUGlIdDVLeXVPWktaX1JxMlhoREk5X25KSkN0T1J4b2RQOVltcWZlLVE5Nk5mbktSY0JHWVdGRWRadWlz0gFkQVVfeXFMTk1ySmZmaXdUbXh1N1V5cVVkRjJhcHlOaEdVT0xRZXkySnYzdHIyRFZHUm1IbWFkSEdtOEI3c0xwYlRhY3lrX0xGZjhNR0VWUkF0N0V1ZWVzU1UwUDlvcGp2dkRfeg?oc=5"
     },
     {
       "title": "Kimi K3翻轉記憶體命運？美光大漲帶動台股南亞科、華邦電、旺宏齊強｜股市話題｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPbDJPeVFnNjNOZVNCN3BYNWZKQTZpTzR1aG9QRGNmdFN6SEdxaUxKZFlkc0lEQm44SkJXM2x6eVUtUTRrb0lJYmRTYmZGVzAwUWoxYW9DSjNHNjNvVnZPblNjazBSR2c4YkZOYVBMbW9sM2ZPVWlzMTRqSXN2cU9lMm9PaVVSUEJrR2lNZmJyc1NxSGNXaG5xdV9WQ2RBU2ZiU0lwU0VGVlJMel9qbm9LcVpNWmRkMm9KcHhQeExyRElYazU2TmNXZFV4OWxEa29MdFdZai1HQTRxWEJQN1N2NTJnRmwyeFYwbDVjMTJXVTVUOTExdXVvSXpXajFJZW5XSE1Qd3owczdkUENUOUNzYWlzU0hzVkpab09YSkt0c2NIaVBuMklocExZYndXNWU2MTZRNkRwcmdtSGFFYXZNYTBaQ1pURHExQ0h1SVNKNXhDRkVVWlVjM2c2S2Jkdm5tQVNkOTNaWUtDMHRJQU0tS3MwU2ZxcHNnSjFET0tDQzF3M3BYdFlYMU5SMjNrSmxGYVpwSGFGemJrclhEOC11U0x1X2RTdVFaUWtSa2QzbFVtWVRvUC1uVXhNcXJGTVlPRElwc0RvT3BudGUta0JUWXVTaDdGaWNjYmRrbjZLUFZxWEYtSGNn?oc=5"
     },
     {
-      "title": "〈美股盤後〉晶片股強勢反攻 費半飆逾5% 美光、SK海力士ADR暴漲超12% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xbkQybzl3SHpzeHdXMVBUYnc0Mjh3MHBQcFZhUm5JY2lPM1plMmFLek5FTS1tejRaVUhFOW05NmRsanVoYUJfVUtIU0xZMVE?oc=5"
+      "title": "美股山雨欲來？分析：空頭部位增至2010年以來最高| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50VlNORGt0RVh4Ql90RTlGM0ZTNjlkam5GTjNIalFBMUdiSUJ1UjNXdDRtNHVVd3BtYkJvMGtOZ3V5eUljaFFCdWg0NWhHY0RP?oc=5"
     },
     {
       "title": "台股2天漲2,374點！吸回「8成失土」 再戰4萬5大關 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxObjNiZHJFd0Z4bUJ0UXVxeUJORHhyQkdKcDBHT0V5SW9HQmlOSnNqVVRkWW5VMmt3MlBUWk4tUGlRYl9LaERiVnAzLUJmbjhIamFsb3lrSmN6Wk1tbzZYZTZVcHZTRDF0eTdwTjJydXJTMVFFR2VhbFgyN3lTbVVjLURTd0VfOU0xLWtITi1QZ3F6OXlPcW1GMFNJMVV1bzZJSHZpWnl5T0RyN1lxMWVFSXNsUGxBSl9La0N6dnlTbHZFN1AtbWtSNG9URVBxYUV2UV9TTGJQdGx0Y0RMdHFjSWdQN0RuSlNySjN6bGo4ZkJIVzBDRkRmMFRGRTRDcUxqb29nWVRuZEdLTXJ4dWNkRkRBeFFwdDlTUFptZklEVm1fQW1KYUFEYUdFTTdHVUQ5eXRDSHRsc0Z1VWJfUGZV?oc=5"
-    },
-    {
-      "title": "美股山雨欲來？分析：空頭部位增至2010年以來最高| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50VlNORGt0RVh4Ql90RTlGM0ZTNjlkam5GTjNIalFBMUdiSUJ1UjNXdDRtNHVVd3BtYkJvMGtOZ3V5eUljaFFCdWg0NWhHY0RP?oc=5"
     }
   ]
 }
