@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/23 02:33",
+  "updated_tw": "07/23 03:57",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 213.585,
-      "change": 6.295,
-      "changePercent": 3.0368
+      "price": 212.06,
+      "change": 4.77,
+      "changePercent": 2.3011
     },
     "AAPL": {
-      "price": 324.141,
-      "change": -3.599,
-      "changePercent": -1.0981
+      "price": 326.485,
+      "change": -1.255,
+      "changePercent": -0.3829
     },
     "TSLA": {
-      "price": 375.535,
-      "change": -3.395,
-      "changePercent": -0.8959
+      "price": 373.98,
+      "change": -4.95,
+      "changePercent": -1.3063
     },
     "QQQ": {
-      "price": 706.657,
-      "change": -2.313,
-      "changePercent": -0.3262
+      "price": 705.87,
+      "change": -3.1,
+      "changePercent": -0.4372
     },
     "SPY": {
-      "price": 748.19,
-      "change": -0.09,
-      "changePercent": -0.012
+      "price": 747.945,
+      "change": -0.335,
+      "changePercent": -0.0448
     },
     "SCHD": {
-      "price": 32.96,
-      "change": 0.14,
-      "changePercent": 0.4266
+      "price": 32.91,
+      "change": 0.09,
+      "changePercent": 0.2742
     },
     "VOO": {
-      "price": 687.746,
-      "change": -0.124,
-      "changePercent": -0.018
+      "price": 687.49,
+      "change": -0.38,
+      "changePercent": -0.0552
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65745.16,
-      "change": -759.965,
-      "changePercent": -1.1427
+      "price": 65887.56,
+      "change": -617.565,
+      "changePercent": -0.9286
     },
     "ETH": {
-      "price": 1928.22,
-      "change": -0.1638,
-      "changePercent": -0.0085
+      "price": 1924.76,
+      "change": -3.6238,
+      "changePercent": -0.1879
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.427,
-      "change": 0.1511,
-      "changePercent": 0.4681
+      "price": 32.414,
+      "change": 0.1381,
+      "changePercent": 0.4279
     },
     "JPYTWD": {
-      "price": 0.1966,
-      "change": -0.002,
-      "changePercent": -1.0165
+      "price": 0.1965,
+      "change": -0.0021,
+      "changePercent": -1.0669
     },
     "EURTWD": {
-      "price": 37.055,
-      "change": 0.2178,
-      "changePercent": 0.5913
+      "price": 37.036,
+      "change": 0.1988,
+      "changePercent": 0.5397
     },
     "CNYTWD": {
-      "price": 4.7938,
+      "price": 4.7935,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4141.0,
-    "twd": 4317.0,
-    "tael": 161895.0,
-    "twdTotal": 134280.0,
-    "changePercent": 1.717
+    "usd": 4139.5,
+    "twd": 4314.0,
+    "tael": 161772.0,
+    "twdTotal": 134178.0,
+    "changePercent": 1.6801
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9scnVsNE0tcURlSEpzREo3aUVYY1FKcGNKWXFqUGlIdDVLeXVPWktaX1JxMlhoREk5X25KSkN0T1J4b2RQOVltcWZlLVE5Nk5mbktSY0JHWVdGRWRadWlz0gFkQVVfeXFMTk1ySmZmaXdUbXh1N1V5cVVkRjJhcHlOaEdVT0xRZXkySnYzdHIyRFZHUm1IbWFkSEdtOEI3c0xwYlRhY3lrX0xGZjhNR0VWUkF0N0V1ZWVzU1UwUDlvcGp2dkRfeg?oc=5"
     },
     {
-      "title": "逆勢台股跌破7百元大關！「這檔」今年狂被列處置股如今慘遭下殺...連崩4天登弱勢股王網哀：要轉弱整理了 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMikwRBVV95cUxNQ1U0aHcteWxmcUYySjZZSjNxQVdhZlJkbFRnQWdZSDBHQkhzVFZyaG5ncHBJTlkxbEs5Yzh0MHA0WjVCT1Nvc3JDQjJNRmJUY2tSQmxjc3kzcThESkxjQlNBWnVvcFNaVDl5LVd2RDh1MS1UVG1BR3RUb0lTMFMyXzIxa1ptc29EVm5vQ1dFdTJ6QkYwcExSaTIyMEhYeEFUaS1tOGY1UXo5b1NqVnlnbEJrWVoyckszZ3dvNjIxVVc3RFVLcFk1TzFLUW56aVdjcGtNLUlLZE56bUNTWVlhdXpEOHdvYTZHMHdlbElDc2E3U3c0UUpsZzFZb1R6bWRkMnFKMzcyYXB0cXN5RlBid213QjE4dW80M1EzdS1ndUc2Si1aTjFBLXdKME9CS1R5bzhiMnJCbEVKNVBQRnNmVVhraWVvLWlVOWpINkxMNWM1dzNFVk81UWFYZkh1bWFRNmlONjRjUjd5M3RXZktGZUNxdWRHRURKZmluUm90YjRSMGZ3S3Rubm13Y2ViWF9VU1cyZzM5bnVqTTFCZnBBbHNVVzFMWFJqaGRQWThSSGgwY2V6STVTY3UtZHJRN29Wek1SV1VEM1dvS1NNUTBQeXFlazR5MW9ERkpHaGJRUXVVMFE2NEpGM2lnQkJoOFJXZndvVVNqNDdvOWZTTVdUMmZrczEybS0wSUlDQnhldEhpQTQ?oc=5"
+      "title": "台股明日上漲有望！美股四大指數全開高、費半飆3%、夜盤同步上攻台積電ADR漲3%、日月光ADR噴近7% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOWGtaNzQ1QmRWYVZpNjVZMldpVFQ3RU1oeUd3Y0NiRHphTTBFRWlNSmVacmRna3U0cHBXMXFZSWp0ZXN6VHZSWTBzUmI4SUt4dmJ4Q3lwem5NYXMyWUt3M3hENTZZdS1lSWxjOXhMZ0lmTktlQUR1YW5TbHdsX0w2M2E4NXZQQjVJSEdVbndhUldoa1ZGU2dCVkVIeTdra3FaQXhWaWt5cUxHNWFZU0lkV1pjVjdRM01FMlF0cm9Ya0g3YnpMV0tjeWpraHc5dzk3WHdCQW1Sd0hVMlpTOTZraFdqeUVINXJRSGIwWlR1QTBZa2pXMkpCeUxMQ1EtYlhXTzFtVGFWSTJRNkxrNjVGTEcyR0ZTNzhld18zV3A2Y1c2WU1ZYTAxS1AweV9mTHEwMExwMW10U19iWWZWeHlyT09GVzdBTHVqcHZxTW9fREtWY2UyWnpvS2txc1cxekRSRHQ1MXAwNmJOWGdManI1d3ZqejdVSmh1UG5qMHpBdkh1Yng2TmxsZ3RlWjdTNHFUOWtPbmVXblhzTHc3ZG05S2U1UkQ2VldmRXlEZEl6cDVBaVpsSndrMHg0Q0hJdUpfX1dIcjdDWjgzY19kbHNZ?oc=5"
     },
     {
       "title": "Kimi K3翻轉記憶體命運？美光大漲帶動台股南亞科、華邦電、旺宏齊強｜股市話題｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPbDJPeVFnNjNOZVNCN3BYNWZKQTZpTzR1aG9QRGNmdFN6SEdxaUxKZFlkc0lEQm44SkJXM2x6eVUtUTRrb0lJYmRTYmZGVzAwUWoxYW9DSjNHNjNvVnZPblNjazBSR2c4YkZOYVBMbW9sM2ZPVWlzMTRqSXN2cU9lMm9PaVVSUEJrR2lNZmJyc1NxSGNXaG5xdV9WQ2RBU2ZiU0lwU0VGVlJMel9qbm9LcVpNWmRkMm9KcHhQeExyRElYazU2TmNXZFV4OWxEa29MdFdZai1HQTRxWEJQN1N2NTJnRmwyeFYwbDVjMTJXVTVUOTExdXVvSXpXajFJZW5XSE1Qd3owczdkUENUOUNzYWlzU0hzVkpab09YSkt0c2NIaVBuMklocExZYndXNWU2MTZRNkRwcmdtSGFFYXZNYTBaQ1pURHExQ0h1SVNKNXhDRkVVWlVjM2c2S2Jkdm5tQVNkOTNaWUtDMHRJQU0tS3MwU2ZxcHNnSjFET0tDQzF3M3BYdFlYMU5SMjNrSmxGYVpwSGFGemJrclhEOC11U0x1X2RTdVFaUWtSa2QzbFVtWVRvUC1uVXhNcXJGTVlPRElwc0RvT3BudGUta0JUWXVTaDdGaWNjYmRrbjZLUFZxWEYtSGNn?oc=5"
     },
     {
-      "title": "費半大漲5.2%隨美股終結三日跌勢 Alphabet資本支出將檢驗AI行情 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91TVV3d3hnZ1MtWGVkQW96eGJoOUJ4WlBlN0ZLX2FxaUxrVWV4VnVvSWdzZzg1b3k1bDhhM0Vjb2M0d21HRXNDSDlfSlNDODRQ?oc=5"
+      "title": "美股放空部位 16年最高 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02dnNOdHhOSlpnclRmN0ZWaHVMUEtvRWJGX0xhaWVIdGZPNzVpc3hwTzhyd0JaR29xNWNLbFpxaDM0cjdtYlI5ZE5mYmhGSnNa0gFWQVVfeXFMTzNRc1dzeHNLVzFJT09xaF9McnIzTWFqQm91dEx3Z2xVWnZhVG5LbVY2c2FyWXpIUnBmcXJZbjNrU3F2Vm1KTE1MQlc0eDFNdU9rQ0c3dUE?oc=5"
     },
     {
-      "title": "台股明日上漲有望！美股四大指數全開高、費半飆3%、夜盤同步上攻台積電ADR漲3%、日月光ADR噴近7% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOWGtaNzQ1QmRWYVZpNjVZMldpVFQ3RU1oeUd3Y0NiRHphTTBFRWlNSmVacmRna3U0cHBXMXFZSWp0ZXN6VHZSWTBzUmI4SUt4dmJ4Q3lwem5NYXMyWUt3M3hENTZZdS1lSWxjOXhMZ0lmTktlQUR1YW5TbHdsX0w2M2E4NXZQQjVJSEdVbndhUldoa1ZGU2dCVkVIeTdra3FaQXhWaWt5cUxHNWFZU0lkV1pjVjdRM01FMlF0cm9Ya0g3YnpMV0tjeWpraHc5dzk3WHdCQW1Sd0hVMlpTOTZraFdqeUVINXJRSGIwWlR1QTBZa2pXMkpCeUxMQ1EtYlhXTzFtVGFWSTJRNkxrNjVGTEcyR0ZTNzhld18zV3A2Y1c2WU1ZYTAxS1AweV9mTHEwMExwMW10U19iWWZWeHlyT09GVzdBTHVqcHZxTW9fREtWY2UyWnpvS2txc1cxekRSRHQ1MXAwNmJOWGdManI1d3ZqejdVSmh1UG5qMHpBdkh1Yng2TmxsZ3RlWjdTNHFUOWtPbmVXblhzTHc3ZG05S2U1UkQ2VldmRXlEZEl6cDVBaVpsSndrMHg0Q0hJdUpfX1dIcjdDWjgzY19kbHNZ?oc=5"
+      "title": "美伊衝擊黃金價格反彈 星展銀看第3季有機會回到5000美元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPWEtEY0Y0Y1laUWQ0OERPUXZMM3k1eXhKZThraE1kTkNQT1g2WnRtMXFsc2lyakR3cEl0VXdqNmphVlA5NTkwYmNYUXpPQ0FiVzQ1V2ltMFAzUWlhVHhKaGZ0MEZuNnJQX3V6Qy1mb3lhTXB4RV9rN2w3RnBBd1BNeTQwcTYzQUpnOVBFX0Y1aFVZa3NpWGo2XzdfWHlrWnFMUjJfMzYxNHZBMVhpWnNTa0xPa1hPbjF4YnBMZ2s1eXg2SzZjeVhYRXdqZFJZWDlKY05mLXRRdmRUeE0xV3p3S0NUN0t2QlBlbGRFRnpXUTcxY0pKYjhTb0pwRkRvVktxcFNwdnZDc01pdG5TWW9IeHVoektrVXN2eEpRb0FCc3V5U1pDQkdHMk14Mi1xdk1vNUVEdzZqOVoxWE5WWXRSQ1IxZ3FURVlpeUV2OGZXMTFKV2pTUnZaQUEwb3RGenkyT0NDWjRDVi1fMGdhLUZwWGtmbFliY2M?oc=5"
     }
   ]
 }
