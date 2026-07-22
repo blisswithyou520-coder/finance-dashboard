@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/22 12:33",
+  "updated_tw": "07/22 15:21",
   "taiwan": {
     "2330": {
-      "price": 2405.0,
-      "change": -5.0,
-      "changePercent": -0.2075
+      "price": 2400.0,
+      "change": -10.0,
+      "changePercent": -0.4149
     },
     "2454": {
-      "price": 3895.0,
-      "change": 225.0,
-      "changePercent": 6.1308
+      "price": 3850.0,
+      "change": 180.0,
+      "changePercent": 4.9046
     },
     "2317": {
-      "price": 254.0,
-      "change": 8.0,
-      "changePercent": 3.252
+      "price": 251.5,
+      "change": 5.5,
+      "changePercent": 2.2358
     },
     "0050": {
-      "price": 104.15,
-      "change": 4.95,
-      "changePercent": 4.9899
+      "price": 103.85,
+      "change": 1.35,
+      "changePercent": 1.3171
     },
     "00878": {
-      "price": 32.86,
-      "change": 1.5,
-      "changePercent": 4.7832
+      "price": 32.72,
+      "change": 0.67,
+      "changePercent": 2.0905
     },
     "00919": {
-      "price": 29.58,
-      "change": 1.03,
-      "changePercent": 3.6077
+      "price": 29.46,
+      "change": 0.46,
+      "changePercent": 1.5862
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66302.77,
-      "change": 1072.7427,
-      "changePercent": 1.6446
+      "price": 65884.05,
+      "change": -621.075,
+      "changePercent": -0.9339
     },
     "ETH": {
-      "price": 1933.6,
-      "change": 29.8411,
-      "changePercent": 1.5675
+      "price": 1916.03,
+      "change": -12.3538,
+      "changePercent": -0.6406
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.333,
-      "change": 0.0571,
-      "changePercent": 0.1769
+      "price": 32.382,
+      "change": 0.1061,
+      "changePercent": 0.3287
     },
     "JPYTWD": {
-      "price": 0.196,
-      "change": -0.0026,
-      "changePercent": -1.3186
+      "price": 0.1961,
+      "change": -0.0025,
+      "changePercent": -1.2683
     },
     "EURTWD": {
-      "price": 36.928,
-      "change": 0.0908,
-      "changePercent": 0.2465
+      "price": 36.963,
+      "change": 0.1258,
+      "changePercent": 0.3416
     },
     "CNYTWD": {
-      "price": 4.7784,
+      "price": 4.7814,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4134.1,
-    "twd": 4298.0,
-    "tael": 161157.0,
-    "twdTotal": 133668.0,
-    "changePercent": 1.5475
+    "usd": 4116.9,
+    "twd": 4286.0,
+    "tael": 160730.0,
+    "twdTotal": 133313.0,
+    "changePercent": 1.125
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPZ3Qwdk42ZEV3Rzg2MDhCbG84ZFZXSWk1bTBRaVFMWjg0c2U5QnZJb21FN3l0YzZqZVI5V0VIOVVmR0dXcEFTRU44elV0QVlsenRwQlpLeXNUZHVzNXk2dHUyNjA3b2FORExPM0hYdEdqZVdiWXF6WDZyakd2SnhoVkZzZU5OMEtYbTM5d2cwWThoWm1vSk9ReHpNbDE1dm5uczdGcFJ0XzJ2ZEZTZkhTSXlMcU85RmxnbkVkM2Fxd3duX09hbVhSam1HdWxmWG1PZU5UTVVHX2IwVXRCanBvV05EVVB0NnRtNXdpQXhBaHdaRjh3bjhvVDBRbnBjMmxfemZwVUVXM0xpbzYzbnFwOFBPQmdvbWpoQUtFUk9BMEdpV2o5dVhRNUFFNjJhaThKVGZsWHBpdWpjTXFGVzhVTVllemdwVUlkLWpuLVpScEhKbzRreDdZZFhySWhWbk83MGpsVUtOSGdlRURDMXBDeUltWkhmNFRucVFSdEljRVpmdkxMVVlZRjJScS1CdF80ZDFjTXkxNVBuVXUyNGtOVzBGd1JZODlIeFhkMkY1SElxVFNvRTdUNm4yNzJiS0dfelNlSlptbS1LZW5RcWZtVHJsWGhaVHFpWWZEVngyMnF6Tmo5STJxSkt2YjlRMFU?oc=5"
     },
     {
+      "title": "台股收盤漲592點　台積電翻黑跌10元至2400 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yX1MzcV8wTFY1VkpKdERrWnlmTkVIR21aTW5BQTA3cXprVVB6cXJVam1pU3cwOGlkMHlzTUxjU1AwekNGTG9uMTJRMzFvTW9ycmfSAVBBVV95cUxPNWFpSmcyYnZCR2VsT1pQSmQxQTVNdE5ZYm4xeW8zcERhYklFdlIxbHJqRmp4MlpPM0ZCX2hpY0QxUFVGTkgzWHU2SEZMRVJ5LQ?oc=5"
+    },
+    {
+      "title": "台股延續反彈動能 上漲592點收44825點 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0OXc1d1pySllhWXdpSi1WOGo3WU8ydVRWemFscTBudG5IY2hZLWRsOHQ0RjBnRmVaZUlSSUJZNnA0cFNSVnZ3UlZpTFhlMDBhc3dqMGJqRl9EWm5CZHc?oc=5"
+    },
+    {
       "title": "全球央行購金趨勢未歇將支撐黃金長期多頭- 新聞 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmNBYWZ5eEp4c0FUem9pZWZZTmpTejkxY280cVlHZWtIYjBCX0hnV0g1NU1BNXZVTFRqODVPTTBNYXBnUW5acFFVQm40ODFmMi1NcTB5Q012NldQQ3B1cmp3ZVRoRmZnX2dBR2FwSE4xck4tV3dPbzViTGRkLUtBV2MwWkUtd1Eza2Nodk9QY3Zidw?oc=5"
-    },
-    {
-      "title": "快訊／台積電漲30元至2440 台股開盤大漲近千點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03dkc3T2RpaDhFX3pCVkt3a255RERETVlQZEdyTmM3c1FJd29JUG5kTXJMU3RoU0ZzRjJVWGMzQTVqSlZLOEdIWXVGZTZla2xxVEE?oc=5"
-    },
-    {
-      "title": "美股早盤／瑞銀：動能股賣壓近尾聲 費半飆4%、台積ADR俏 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hcG4wU0tHZ1JyQlljbjhHLXFLY3JCMGlvNUdSUXRtOHFXYmU1aEpfWHBrZnFLVGxYSk9ITk96Rl8yYWQtRkVWampHamUtOTVu?oc=5"
     }
   ]
 }
