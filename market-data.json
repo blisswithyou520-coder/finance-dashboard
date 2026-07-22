@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/23 06:17",
+  "updated_tw": "07/23 07:29",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65964.73,
-      "change": -540.395,
-      "changePercent": -0.8126
+      "price": 65949.39,
+      "change": -555.735,
+      "changePercent": -0.8356
     },
     "ETH": {
-      "price": 1933.69,
-      "change": 5.3062,
-      "changePercent": 0.2752
+      "price": 1928.71,
+      "change": 0.3262,
+      "changePercent": 0.0169
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.379,
-      "change": 0.0536,
-      "changePercent": 0.1658
+      "price": 32.378,
+      "change": 0.0526,
+      "changePercent": 0.1627
     },
     "JPYTWD": {
       "price": 0.1963,
@@ -94,22 +94,22 @@
       "changePercent": -0.9016
     },
     "EURTWD": {
-      "price": 36.982,
-      "change": 0.1229,
-      "changePercent": 0.3335
+      "price": 36.987,
+      "change": 0.1279,
+      "changePercent": 0.3471
     },
     "CNYTWD": {
-      "price": 4.7838,
+      "price": 4.7878,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4126.0,
-    "twd": 4295.0,
-    "tael": 161070.0,
-    "twdTotal": 133596.0,
-    "changePercent": 1.3485
+    "usd": 4123.8,
+    "twd": 4293.0,
+    "tael": 160979.0,
+    "twdTotal": 133520.0,
+    "changePercent": 1.2945
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kUHhUX2xCNl9qckhxcmRxUDg3VjV3MUphWUtrQmRzZ050cndWRFZPT2tQODBqbGtvVkFGWjJUaWwwSExjVXVHMENNcWpDNmFH?oc=5"
     },
     {
-      "title": "〈美股早盤〉晶片股疲弱與油價上漲牽動市場 主要指數開低 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GaDJhdWpUTFBCdGphY1oxQTIyMzlKRGtyRmN4MjNUcmpNTk41UEk3S1RVbnJON0o4NlRSRnkwSGxwU0tDS0JzcGNnTTcxSTg?oc=5"
+      "title": "〈美股盤後〉油價飆升 標普那指收跌 投資人靜待科技巨頭財報 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wY3hMSzU5MEpfOUs0LTFqa3lsQVRKakZKc3pPTEZyZkt5NVFJeWNHcElYSTIwQkpCN3kwYXJURkpmZTVZeXlqSWVvUmNJMGs?oc=5"
     },
     {
-      "title": "台股明日上漲有望！美股四大指數全開高、費半飆3%、夜盤同步上攻台積電ADR漲3%、日月光ADR噴近7% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOWGtaNzQ1QmRWYVZpNjVZMldpVFQ3RU1oeUd3Y0NiRHphTTBFRWlNSmVacmRna3U0cHBXMXFZSWp0ZXN6VHZSWTBzUmI4SUt4dmJ4Q3lwem5NYXMyWUt3M3hENTZZdS1lSWxjOXhMZ0lmTktlQUR1YW5TbHdsX0w2M2E4NXZQQjVJSEdVbndhUldoa1ZGU2dCVkVIeTdra3FaQXhWaWt5cUxHNWFZU0lkV1pjVjdRM01FMlF0cm9Ya0g3YnpMV0tjeWpraHc5dzk3WHdCQW1Sd0hVMlpTOTZraFdqeUVINXJRSGIwWlR1QTBZa2pXMkpCeUxMQ1EtYlhXTzFtVGFWSTJRNkxrNjVGTEcyR0ZTNzhld18zV3A2Y1c2WU1ZYTAxS1AweV9mTHEwMExwMW10U19iWWZWeHlyT09GVzdBTHVqcHZxTW9fREtWY2UyWnpvS2txc1cxekRSRHQ1MXAwNmJOWGdManI1d3ZqejdVSmh1UG5qMHpBdkh1Yng2TmxsZ3RlWjdTNHFUOWtPbmVXblhzTHc3ZG05S2U1UkQ2VldmRXlEZEl6cDVBaVpsSndrMHg0Q0hJdUpfX1dIcjdDWjgzY19kbHNZ?oc=5"
+      "title": "美股標普收跌、費半逆勢上揚　台指期夜盤漲漲389點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CLXVIZlJaaWhwMDdRZW44Z2wyTTJ3eGxKNzRTNmplMzdTNS13UzFDbHBDRUlmTUcxUk9melY0UW9DdmVCeE41eTVyZklieksweVHSAVBBVV95cUxNWXJ3UTV3akRqUUtkdUh4WWE0blJ4OEZhSHVBcXRKVVgxTnBQSl9EbzFqQ0hjMW5WOUdKbDN3bmdCbUFTSlpVcl9QTEY0dG45bg?oc=5"
     },
     {
-      "title": "Kimi K3翻轉記憶體命運？美光大漲帶動台股南亞科、華邦電、旺宏齊強｜股市話題｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPbDJPeVFnNjNOZVNCN3BYNWZKQTZpTzR1aG9QRGNmdFN6SEdxaUxKZFlkc0lEQm44SkJXM2x6eVUtUTRrb0lJYmRTYmZGVzAwUWoxYW9DSjNHNjNvVnZPblNjazBSR2c4YkZOYVBMbW9sM2ZPVWlzMTRqSXN2cU9lMm9PaVVSUEJrR2lNZmJyc1NxSGNXaG5xdV9WQ2RBU2ZiU0lwU0VGVlJMel9qbm9LcVpNWmRkMm9KcHhQeExyRElYazU2TmNXZFV4OWxEa29MdFdZai1HQTRxWEJQN1N2NTJnRmwyeFYwbDVjMTJXVTVUOTExdXVvSXpXajFJZW5XSE1Qd3owczdkUENUOUNzYWlzU0hzVkpab09YSkt0c2NIaVBuMklocExZYndXNWU2MTZRNkRwcmdtSGFFYXZNYTBaQ1pURHExQ0h1SVNKNXhDRkVVWlVjM2c2S2Jkdm5tQVNkOTNaWUtDMHRJQU0tS3MwU2ZxcHNnSjFET0tDQzF3M3BYdFlYMU5SMjNrSmxGYVpwSGFGemJrclhEOC11U0x1X2RTdVFaUWtSa2QzbFVtWVRvUC1uVXhNcXJGTVlPRElwc0RvT3BudGUta0JUWXVTaDdGaWNjYmRrbjZLUFZxWEYtSGNn?oc=5"
+      "title": "美股收盤》油價上漲市場不安！四大指數漲跌互現 台積電ADR跌0.8％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02SHpoS2xISWhHTVlBN3BReFFjMmRITHpEYXhjSVBOdlFGMERvTWNsNGFvRnZ1NWRXSXZVTjNfQnI3NGhhNXRpRlV2VnlXcEZ6b1RnVHR3Ti11NnZIa3pF0gFkQVVfeXFMUFNKVmtRdWtiTFg3YW5lc2t3M25KUnhSN1B4aXJHT1R3WEtJRXlUWHV1VDl2eUtwUnpVdlhRaExCQUFZU3RzSUxSZm5nSk1vOXFXOGJSS3RneUdhTmplRFg1QU0ybQ?oc=5"
     },
     {
-      "title": "黃金大漲！「這貴金屬」也狂飆 後市走向機構坦白說 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9scnVsNE0tcURlSEpzREo3aUVYY1FKcGNKWXFqUGlIdDVLeXVPWktaX1JxMlhoREk5X25KSkN0T1J4b2RQOVltcWZlLVE5Nk5mbktSY0JHWVdGRWRadWlz0gFkQVVfeXFMTk1ySmZmaXdUbXh1N1V5cVVkRjJhcHlOaEdVT0xRZXkySnYzdHIyRFZHUm1IbWFkSEdtOEI3c0xwYlRhY3lrX0xGZjhNR0VWUkF0N0V1ZWVzU1UwUDlvcGp2dkRfeg?oc=5"
+      "title": "【美股盤勢】費半逆勢收紅，Alphabet財報壓著科技股（2026.07.23） - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TSTUyWFlTb1gteEJuM1VwZUlVVDhOVTRVRUM0YWRrUVNrY3F1UTBTam84SHBrQ2VhU3pHUXpSX3dGTGk2MWdqV0dRLW9Sc2RjVHdvUmJOdVhoTjVFdHZFRXg2cGRocmM?oc=5"
     },
     {
-      "title": "美股山雨欲來？分析：空頭部位增至2010年以來最高| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50VlNORGt0RVh4Ql90RTlGM0ZTNjlkam5GTjNIalFBMUdiSUJ1UjNXdDRtNHVVd3BtYkJvMGtOZ3V5eUljaFFCdWg0NWhHY0RP?oc=5"
+      "title": "台股一天一個劇本？他嘆「看多就跌、看空又漲」 網點關鍵：別再猜高低點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX2RWdGJIbVNSaDA0VEl6dzhDU041MmVUYUJHalF4VE1Uak9wR1hINGNuT1BIUlhXQTRDZnhZZ2N2blVFa0xfNkFvTktSRWVpZHVWR1ViRnFJUjdZLUF4ellBYkJNSHF0Z0Nhb0pqRGo5U3k5VEROaFg1c05yelpzYkFkd0dadGtjUFhISXh4RnRuRmp3aFNSSHVIcTlfYmhlZERudnN5Vm5kdl9QZWMtN2FnTG9OSGJ1dlRuX2NTV0x1RXFmT0xDMGhsaXp5b19pVnhYdWtuSjlicHpWZTdvR3hzcGEwQjNQTndBY2RScEs?oc=5"
     },
     {
-      "title": "台股45K沒站上 外資終結13賣！看懂台股下一步 投資人3大注意點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOVkpqSGk4aDFkUzB2TUluVDlqNFdTWnhNNzRUcG9KQ2pna1FLNEx4UVBEVUgtQlBKX2kxWXhQVFNRS2V0MTF0cFo1V211anhXTE01c3pSOUhmdHNRaC1BaDdDQlVuMkhiYTlXMEpfNDB1ZzM4eHpfNDJvNDhucGx6NGJydjdTY2N4blhSVEJtRXhlTHVoNnJ0ZWVwMTAyVnhHTnNkQlhwV0tJbG05dkdJSHc4YXV5NkY0YUwydjRWNGs4bXdxOFRLZDNJSVUzR3hXZ01aLUFpSkUwd3BhR3VSNW9RdFpkVUE2Y21RYWo4OWF1N3c1OF80RW4taU1KR2IwcWJKT2daSDJrX2V3UU5LbFNwT0xWVjNRQUYyc1hYMU8weWVBWEVUaDg2eTNYWkdjTVhzT1pQeVNTdl9wZnJnMm81X2NXZFNTcTZXREVSeXVMaWV1NTlKSGZGQVYtdzd6cERFN3ZCdTI2XzFUT0ltZXBKczNwNlpDSEZQZQ?oc=5"
+      "title": "金十數據全球財經早餐 | 2026年7月23日 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQODY2Q0c0dXVPT3o4d1RUekVOTzhWRF9MdnFUV2pWUW96ZWRBTEFnZ3NZdm8yR1h0T0NrcU1ZTWxudzd0ejBQZG5veUFwNlJZeUNXMmFMOXY4di1NdWtITGZVQTV6VGJLd0R6eWVudHZQV3FSY3ZSVmtLVVU5U2ZhY3NmdGxpczloWld0a0czRQ?oc=5"
     },
     {
-      "title": "台股抗震投資術｜國家隊、散戶逢低買哪些ETF？0056、0050、00929人氣排行揭密，永豐金定期定額助攻累積資產! - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiywRBVV95cUxPMnBfVmVrNWlUZkNDcEgtRFNRWlVlV2EzcnF5UTBUVHNXV1VpRXBqSGs5SC1CVmxBOF9mY3FuWlZWUWk2VnRFc2FMRzJ2UXRHdlRRSTZwekRCck5FcjFYUFl5NWhCYWhsalZUd1Rqa2ZhWC1XWGt2TGdfdTdhZE9hX3Y5dko1Uk5ucm5pc1JEU0NvSTBodWR5VWd0SC1JdE85NUFheUNRLUdDS1dYQlFkbW9wcl9lZ0VuUnVLTllTdlNwTWdWU0tRelotVlY2VDlkeU4weGdDaFdQZzZPMnVxclJybFZxWVRpMG1zejBMRjVPZUZNWmFNcFZsWmdpNnVwMGxUQTIwMmg0YnZ6QXZXOXNnUnY4Q0lHQ0pta2RjNWRvcXlWR0lKTl9DNHAxaUc4MFBOeVpQR1VDcldTS094YmpnZ082LVh1MjRiUUlzbVR2SDM2cWsxWlZ6aTFGYll4XzZSR1JDRTlCNnlQZTd2SXh1ZGJwS05NS0xkcUlHM2MzRzRMTEozeHFfaExCcW96Vi1ZWGxsNFFyb1ExcXU2clgycUVsTUV6Njh4X0E4UnZ5R3pPSUFPdy12ZjQ5V3Zqd05DODRTcDg4MXN1S1ZCMWN3MEJWdFdnUVJrdWdrdkxIYWpmY1ZmYTJTYmpRRUI0WkpKVzI0aU1WMllUVEdqY09hemVVdnViemZKbHZsa3hGaU44a0tlYjEzd3JYWTZ6ZHdMM1l5NUdSLXJDU2xTSENRdkhJa29EVXdpakJMRnR3TlA4UkQyZElHTQ?oc=5"
+      "title": "《貴金屬》COMEX黃金上漲1.9% ETF持倉增加- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1lUWjFrWmZXaGpSWEE1b1c2d0ZXc0RsWXBPOXgyTmdtQWJlUUpZN3cwZ3h0VEpiWG9ET1l4Nm9uVWUwV3JNdVI2SFRxVzJCSGJQSmVKcVpkTXJYVk1ZNlNzTU0zQlB4M2VobG9uclIzcVd4TENjd3Z3VTFsSUU4a3dmQkJ3c3daOUhtUTdNV0h6QQ?oc=5"
     }
   ]
 }
