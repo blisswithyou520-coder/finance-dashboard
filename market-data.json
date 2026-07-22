@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/22 09:07",
+  "updated_tw": "07/22 12:33",
   "taiwan": {
     "2330": {
-      "price": 2410.0,
-      "change": 90.0,
-      "changePercent": 3.8793
+      "price": 2405.0,
+      "change": -5.0,
+      "changePercent": -0.2075
     },
     "2454": {
-      "price": 3670.0,
-      "change": 330.0,
-      "changePercent": 9.8802
+      "price": 3895.0,
+      "change": 225.0,
+      "changePercent": 6.1308
     },
     "2317": {
-      "price": 246.0,
-      "change": 11.5,
-      "changePercent": 4.9041
+      "price": 254.0,
+      "change": 8.0,
+      "changePercent": 3.252
     },
     "0050": {
-      "price": 102.5,
-      "change": 2.35,
-      "changePercent": 2.3465
+      "price": 104.15,
+      "change": 4.95,
+      "changePercent": 4.9899
     },
     "00878": {
-      "price": 32.05,
-      "change": 0.24,
-      "changePercent": 0.7545
+      "price": 32.86,
+      "change": 1.5,
+      "changePercent": 4.7832
     },
     "00919": {
-      "price": 29.0,
-      "change": 0.07,
-      "changePercent": 0.242
+      "price": 29.58,
+      "change": 1.03,
+      "changePercent": 3.6077
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66560.99,
-      "change": 1330.9627,
-      "changePercent": 2.0404
+      "price": 66302.77,
+      "change": 1072.7427,
+      "changePercent": 1.6446
     },
     "ETH": {
-      "price": 1936.6,
-      "change": 32.8411,
-      "changePercent": 1.7251
+      "price": 1933.6,
+      "change": 29.8411,
+      "changePercent": 1.5675
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.34,
-      "change": 0.0641,
-      "changePercent": 0.1986
+      "price": 32.333,
+      "change": 0.0571,
+      "changePercent": 0.1769
     },
     "JPYTWD": {
-      "price": 0.1961,
-      "change": -0.0025,
-      "changePercent": -1.2683
+      "price": 0.196,
+      "change": -0.0026,
+      "changePercent": -1.3186
     },
     "EURTWD": {
-      "price": 36.932,
-      "change": 0.0948,
-      "changePercent": 0.2574
+      "price": 36.928,
+      "change": 0.0908,
+      "changePercent": 0.2465
     },
     "CNYTWD": {
-      "price": 4.7852,
+      "price": 4.7784,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4099.0,
-    "twd": 4262.0,
-    "tael": 159823.0,
-    "twdTotal": 132562.0,
-    "changePercent": 2.2118
+    "usd": 4134.1,
+    "twd": 4298.0,
+    "tael": 161157.0,
+    "twdTotal": 133668.0,
+    "changePercent": 1.5475
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,6 +121,10 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91TVV3d3hnZ1MtWGVkQW96eGJoOUJ4WlBlN0ZLX2FxaUxrVWV4VnVvSWdzZzg1b3k1bDhhM0Vjb2M0d21HRXNDSDlfSlNDODRQ?oc=5"
     },
     {
+      "title": "黃金大漲！「這貴金屬」也狂飆 後市走向機構坦白說 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9scnVsNE0tcURlSEpzREo3aUVYY1FKcGNKWXFqUGlIdDVLeXVPWktaX1JxMlhoREk5X25KSkN0T1J4b2RQOVltcWZlLVE5Nk5mbktSY0JHWVdGRWRadWlz0gFkQVVfeXFMTk1ySmZmaXdUbXh1N1V5cVVkRjJhcHlOaEdVT0xRZXkySnYzdHIyRFZHUm1IbWFkSEdtOEI3c0xwYlRhY3lrX0xGZjhNR0VWUkF0N0V1ZWVzU1UwUDlvcGp2dkRfeg?oc=5"
+    },
+    {
       "title": "台股明日上漲有望！美股四大指數全開高、費半飆3%、夜盤同步上攻台積電ADR漲3%、日月光ADR噴近7% - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOWGtaNzQ1QmRWYVZpNjVZMldpVFQ3RU1oeUd3Y0NiRHphTTBFRWlNSmVacmRna3U0cHBXMXFZSWp0ZXN6VHZSWTBzUmI4SUt4dmJ4Q3lwem5NYXMyWUt3M3hENTZZdS1lSWxjOXhMZ0lmTktlQUR1YW5TbHdsX0w2M2E4NXZQQjVJSEdVbndhUldoa1ZGU2dCVkVIeTdra3FaQXhWaWt5cUxHNWFZU0lkV1pjVjdRM01FMlF0cm9Ya0g3YnpMV0tjeWpraHc5dzk3WHdCQW1Sd0hVMlpTOTZraFdqeUVINXJRSGIwWlR1QTBZa2pXMkpCeUxMQ1EtYlhXTzFtVGFWSTJRNkxrNjVGTEcyR0ZTNzhld18zV3A2Y1c2WU1ZYTAxS1AweV9mTHEwMExwMW10U19iWWZWeHlyT09GVzdBTHVqcHZxTW9fREtWY2UyWnpvS2txc1cxekRSRHQ1MXAwNmJOWGdManI1d3ZqejdVSmh1UG5qMHpBdkh1Yng2TmxsZ3RlWjdTNHFUOWtPbmVXblhzTHc3ZG05S2U1UkQ2VldmRXlEZEl6cDVBaVpsSndrMHg0Q0hJdUpfX1dIcjdDWjgzY19kbHNZ?oc=5"
     },
@@ -129,24 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xbkQybzl3SHpzeHdXMVBUYnc0Mjh3MHBQcFZhUm5JY2lPM1plMmFLek5FTS1tejRaVUhFOW05NmRsanVoYUJfVUtIU0xZMVE?oc=5"
     },
     {
-      "title": "美股收盤》晶片股反攻！費半勁揚5.2％ 台積電ADR漲逾5.5％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xUklzOGdiNmR6WUFjR25hcERDVTBVbmJmZmRXNnJsUWhYT2hweWJsR19Mdmp5UVBWYmpmbXN3Mlg5NlB6WERQZWJPNnhObzQ0MTJKWi1nWS1DQjhBM2VB0gFkQVVfeXFMTnk2aVZTMUQ3dm4zbk9MVmRkY2FpUXBCcnktNDZVdHJoXzdGYjhjNHB3ZV9rYnhyaW1teWVDRWRTbVlRSU9JSlVYcEhDNElmelZscjhuZGVWVGU0Z0xxVnNTUjdCVg?oc=5"
-    },
-    {
-      "title": "快訊／美股開盤4大指數齊漲！台積電ADR「勁揚逾3％」 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02TXhWNzRtWE9EdDlGM3pHV195SlJlWXhyT2F6eG5Vczd3Ql9rZHVUeEVOTm0ydGFrZUZCODh4SmttaERicFgtZ2QwNGd0LTBlYnc?oc=5"
-    },
-    {
       "title": "【美股盤前0722】摩根士丹利爆「這產業」將缺貨到2028 年? 美光暴漲12%、AMD 亮出秘密武器！｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPZ3Qwdk42ZEV3Rzg2MDhCbG84ZFZXSWk1bTBRaVFMWjg0c2U5QnZJb21FN3l0YzZqZVI5V0VIOVVmR0dXcEFTRU44elV0QVlsenRwQlpLeXNUZHVzNXk2dHUyNjA3b2FORExPM0hYdEdqZVdiWXF6WDZyakd2SnhoVkZzZU5OMEtYbTM5d2cwWThoWm1vSk9ReHpNbDE1dm5uczdGcFJ0XzJ2ZEZTZkhTSXlMcU85RmxnbkVkM2Fxd3duX09hbVhSam1HdWxmWG1PZU5UTVVHX2IwVXRCanBvV05EVVB0NnRtNXdpQXhBaHdaRjh3bjhvVDBRbnBjMmxfemZwVUVXM0xpbzYzbnFwOFBPQmdvbWpoQUtFUk9BMEdpV2o5dVhRNUFFNjJhaThKVGZsWHBpdWpjTXFGVzhVTVllemdwVUlkLWpuLVpScEhKbzRreDdZZFhySWhWbk83MGpsVUtOSGdlRURDMXBDeUltWkhmNFRucVFSdEljRVpmdkxMVVlZRjJScS1CdF80ZDFjTXkxNVBuVXUyNGtOVzBGd1JZODlIeFhkMkY1SElxVFNvRTdUNm4yNzJiS0dfelNlSlptbS1LZW5RcWZtVHJsWGhaVHFpWWZEVngyMnF6Tmo5STJxSkt2YjlRMFU?oc=5"
     },
     {
-      "title": "《貴金屬》COMEX黃金上漲1.5% ETF持倉增加- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVXk2d2MzeV91SFpZQzhpV044SV9IQXNuaGxORHk4R2xXWjg3THVrQWFYMUt6ai1WNWZvU1B0RElNeThzRF9Ca3VhMjZ5M3JBaVdYd0MwWmJfNXhXOEVCT19kWWI1V2JwTV9VV3ZrZTQ3STM3LVBrRUpraUkyb29IVlNPNmhJV0ZjRllXZ3ZmWlRzUQ?oc=5"
+      "title": "全球央行購金趨勢未歇將支撐黃金長期多頭- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmNBYWZ5eEp4c0FUem9pZWZZTmpTejkxY280cVlHZWtIYjBCX0hnV0g1NU1BNXZVTFRqODVPTTBNYXBnUW5acFFVQm40ODFmMi1NcTB5Q012NldQQ3B1cmp3ZVRoRmZnX2dBR2FwSE4xck4tV3dPbzViTGRkLUtBV2MwWkUtd1Eza2Nodk9QY3Zidw?oc=5"
     },
     {
-      "title": "科技股反攻美股收高 費半狂飆逾5%、台積電ADR暴漲5.55% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pRnA4SEM3eGM4TmFLNWI5WFg4SmZ5Q1hQTGhVUzlTR3RQT25OemZDaEVNM0MzYmo3QmQtX0FaN1lxWVU1MU81cTl1c0hpdWpL0gFWQVVfeXFMTTVyTlMwLXF2NG9nVkRXRVplRmFkNG1qVE5zVkUzaWRtMEo2bE9rTl9pWTFWUFlCdTVQbTh2STN0QTNhM1hhaW8tcWxMS1liZHZvV0dSbEE?oc=5"
+      "title": "快訊／台積電漲30元至2440 台股開盤大漲近千點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03dkc3T2RpaDhFX3pCVkt3a255RERETVlQZEdyTmM3c1FJd29JUG5kTXJMU3RoU0ZzRjJVWGMzQTVqSlZLOEdIWXVGZTZla2xxVEE?oc=5"
+    },
+    {
+      "title": "美股早盤／瑞銀：動能股賣壓近尾聲 費半飆4%、台積ADR俏 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hcG4wU0tHZ1JyQlljbjhHLXFLY3JCMGlvNUdSUXRtOHFXYmU1aEpfWHBrZnFLVGxYSk9ITk96Rl8yYWQtRkVWampHamUtOTVu?oc=5"
     }
   ]
 }
