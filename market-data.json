@@ -1,11 +1,11 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/23 12:33",
+  "updated_tw": "07/23 15:18",
   "taiwan": {
     "2330": {
-      "price": 2370.0,
-      "change": -30.0,
-      "changePercent": -1.25
+      "price": 2405.0,
+      "change": 5.0,
+      "changePercent": 0.2083
     },
     "2454": {
       "price": 3875.0,
@@ -13,24 +13,24 @@
       "changePercent": 0.6494
     },
     "2317": {
-      "price": 254.5,
-      "change": 3.0,
-      "changePercent": 1.1928
+      "price": 257.5,
+      "change": 6.0,
+      "changePercent": 2.3857
     },
     "0050": {
-      "price": 103.0,
-      "change": 0.5,
-      "changePercent": 0.4878
+      "price": 103.9,
+      "change": 0.05,
+      "changePercent": 0.0481
     },
     "00878": {
-      "price": 32.62,
-      "change": 0.57,
-      "changePercent": 1.7785
+      "price": 32.73,
+      "change": 0.01,
+      "changePercent": 0.0306
     },
     "00919": {
-      "price": 29.43,
-      "change": 0.43,
-      "changePercent": 1.4828
+      "price": 29.5,
+      "change": 0.04,
+      "changePercent": 0.1358
     }
   },
   "us": {
@@ -72,50 +72,54 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65625.62,
-      "change": -879.505,
-      "changePercent": -1.3225
+      "price": 65428.57,
+      "change": -672.2269,
+      "changePercent": -1.017
     },
     "ETH": {
-      "price": 1922.62,
-      "change": -5.7638,
-      "changePercent": -0.2989
+      "price": 1915.45,
+      "change": -18.0401,
+      "changePercent": -0.933
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.266,
-      "change": -0.0594,
-      "changePercent": -0.1838
+      "price": 32.268,
+      "change": -0.0574,
+      "changePercent": -0.1776
     },
     "JPYTWD": {
-      "price": 0.1958,
-      "change": -0.0023,
-      "changePercent": -1.154
+      "price": 0.1956,
+      "change": -0.0025,
+      "changePercent": -1.255
     },
     "EURTWD": {
-      "price": 36.952,
-      "change": 0.0929,
-      "changePercent": 0.2521
+      "price": 36.913,
+      "change": 0.0539,
+      "changePercent": 0.1463
     },
     "CNYTWD": {
-      "price": 4.7761,
+      "price": 4.7736,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4130.8,
-    "twd": 4285.0,
-    "tael": 160695.0,
-    "twdTotal": 133284.0,
-    "changePercent": -0.3882
+    "usd": 4114.9,
+    "twd": 4269.0,
+    "tael": 160086.0,
+    "twdTotal": 132780.0,
+    "changePercent": -0.7717
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "美股財報大戲，GOOGLE、特斯拉、類比晶片德儀、電力GEV等揭曉！關注重點及可留意誰｜美股觀察 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMinARBVV95cUxPeGY1VXdhVFFrLTBjLWVWcExLMnBmdE1NVG1fTm1tcU1wTFZzbktXeHM5YXpYZ0J1VTQ0Y3hSV1VFeHVweHc0R01pLWtQcHBHT1k5ZUp5dF92OS1BVFhoOHZmVWk5LUhrMVYwaG1VeURxVmRxMERBalVLUEZ0YjdVYUZLWUhTNWVsOXpna2ctYXZONFBBUHI5Sjc0Q2RucVMwTEtIQWhBclI4NXBieDdEZnA5TktIa0FtWTFOemFzcmxpZW1RWjFQUGlXcHZVRVNOZl9SZ2Y4Ul8zU096MnhSREZ1Q1hBbUh3TDljRVpOYThNUGo1RHFHMUlsNkRkS3lJRU43S0pXdnFyY1R1VUNhOWYtNm0xMm13cXNLWTU0UGdJdWVVMlEyWmFsRzRkbXp3Q0s1UDRMVU5mUlpEcG1tSEZTdHpGRk0tU3B6cDdBTjY5SVV3NHo5UmRFSDBBMnRIV19CelItTjZ0YXpsZzIyd3I1RXlqWUpsZDc1WGVXZXZoSmdmUHpxeFdORWNqel9vVExfNkhPSGJTNVlfTzJhcmpRckk3TEkwa0kyX0xqempsRFFsSC1FbGdGWXRXYjdWc3pVTTNTQ3FwSmZvZ2NaWFZxZlF6MnptTWFqX1dfWTMwdnJFSFd3YmlGYXRxbnVyTW5Cdml3SlpEUE5paFFQNlViVVNhS0dvLUFHNm5CY0dUcGtOcWRwTmI0QTU?oc=5"
+    },
     {
       "title": "美股收盤／AI 財報考驗盤後登場 Alphabet 拖累那斯達克期指盤後再挫 油價續漲 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPNDRuSEVjOGl3cXF5dTlVNXNSOEZFWkF6Q1BlcXUzbTU2NVVqTHdNUllKZEItSW9EX2xtU0Fzak9jWjRCajdjOGhoUnVPeE92R21RcVVpUWI2QUIz0gFiQVVfeXFMUHNDMlp2UlA3blpNa0VUYUhCOV9VT1FVMkFTSEdLRzVURXZ2QmhqRWpCRXZsZm5mYjhRWHRyTzdidktqNWxjR1NLbU1MQXVCZHVySENSd2ZDN3ZfdXAtdlpsMUE?oc=5"
@@ -125,28 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wY3hMSzU5MEpfOUs0LTFqa3lsQVRKakZKc3pPTEZyZkt5NVFJeWNHcElYSTIwQkpCN3kwYXJURkpmZTVZeXlqSWVvUmNJMGs?oc=5"
     },
     {
-      "title": "美股標普收跌、費半逆勢上揚　台指期夜盤漲389點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CLXVIZlJaaWhwMDdRZW44Z2wyTTJ3eGxKNzRTNmplMzdTNS13UzFDbHBDRUlmTUcxUk9melY0UW9DdmVCeE41eTVyZklieksweVHSAVBBVV95cUxNWXJ3UTV3akRqUUtkdUh4WWE0blJ4OEZhSHVBcXRKVVgxTnBQSl9EbzFqQ0hjMW5WOUdKbDN3bmdCbUFTSlpVcl9QTEY0dG45bg?oc=5"
-    },
-    {
-      "title": "美股法說 GOOGL｜Google Q2財報營收創新但資本支出暴增拖累股價，台積電、廣達供應鏈受惠 (GOOGL US) - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxOc1V5aHdhbzdHWGp5SHRoWVRTZHVoTkc2V3RaZm1YNlB4Tl9DYTVwZkUtSkpJd3hNdmJrZU9OUVZQMllhRFh0LU8wZmNEWE05TE9uUVdkRHdqd0RZQUxDNm5pc1Y3NVBhd3JtXzUzV2VjbmV5SEI0dEVBdGsxdWxUUEpOaGR3M0I2M3MwdS1YZ1R4bjZjMVY1eWlrNzVPT3Jhems4Q0d1MW1SazhFb3N0OFprTTZOMHRidEZLNkN4TVpsQmN2ZXFIREM2eEs4UG9PQjRfTU9oT25EcjIzUV9heDROV0h4Y0ZYUGExMHlaTFhOMENUWnhNSjFmb1FRMTYydTZqS0FuTDByZWZuVmhkdlhNXzluWC1EUVBWYTJycVlMYXFRdG1pekdLcXd2YkxNQWJJdnhvZVRYUng3SVQwZXgyN29IZk42TEZIY3BJQUdncFdiRzRBUENaOWVrdkZXWWV2WWlodC1hSTN6Tl9NdmxjWWxFZW5jRG1va3BpcjV3eEVQSDk0bG9CYlhlOUNKekJxemw2T0pnZTZiRENGNEhEblRtVGF6LWJhemZ2SGJYckFHc01yZ0JSUVZPRVNhT0VpY0g0WWd1QTh2VFlvMVRjRXBkVmZFSDRZVEdGa092cVM0UHlfZWdJelF0RlJ4VEpOWjViNElXSll6MVRLeGdJSkw3LW1rRktZVEY0VFdCX3E3REpv?oc=5"
-    },
-    {
-      "title": "【美股盤勢】費半逆勢收紅，Alphabet財報壓著科技股（2026.07.23） - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TSTUyWFlTb1gteEJuM1VwZUlVVDhOVTRVRUM0YWRrUVNrY3F1UTBTam84SHBrQ2VhU3pHUXpSX3dGTGk2MWdqV0dRLW9Sc2RjVHdvUmJOdVhoTjVFdHZFRXg2cGRocmM?oc=5"
-    },
-    {
       "title": "美股收盤》油價上漲市場不安！四大指數漲跌互現 台積電ADR跌0.8％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02SHpoS2xISWhHTVlBN3BReFFjMmRITHpEYXhjSVBOdlFGMERvTWNsNGFvRnZ1NWRXSXZVTjNfQnI3NGhhNXRpRlV2VnlXcEZ6b1RnVHR3Ti11NnZIa3pF0gFkQVVfeXFMUFNKVmtRdWtiTFg3YW5lc2t3M25KUnhSN1B4aXJHT1R3WEtJRXlUWHV1VDl2eUtwUnpVdlhRaExCQUFZU3RzSUxSZm5nSk1vOXFXOGJSS3RneUdhTmplRFg1QU0ybQ?oc=5"
     },
     {
-      "title": "【Hot台股】大盤衝4萬5後跳水600點...網歎「歐巴V了台股還死魚」 分析師看法曝 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQRDlPeFgtb0l6NmJHLU1RMkN2RU1iSVFKTEVwZDlRdWY5LWtHTkE2ZXlCVzlzTmN6eTZua1R6ZU10SHBtRm1EbHZudGgzSkVwTGZtQkw5Mk1DZEdZWUo3aWNock1sOHFYZ2pGQVNPV3M3TWhNVzZtR1RnMXQ2VTJyR0RQUDhLZFhNRHMtTDZha2EtaDN1eEYyeWN4LW0wTWFrblhNdWFtbGRUal84aVhia1BvZmZfQUpSUklJd0tEMTBhaWpwbi1VdnlUOXVOeEg5QnRXc2pOc3JMSzVMLURMdmtFV1QwNXlGUjVfd2l5QUk5U09jMEZjQVBZOFE3RG41REJqMWlwLTNSRExLdXVtTklBbzdVNHdxN3hDZy0wcnBJOFprZXdpUzN0UUNkMzdLWVRyYmJGTjBsU05WMnVtZkV6T0lhQnRXQmVLSlBtLUxjZnRmTFBiNzZmeWtZUkQ2TzNFanFYS0hVU1VEM0I2cEY4OFdiRXJmclVYUE9RS0xIdzlpZjlIelNkMG5XRWFkR2ozajRZTnR0WVhFLW5IX2FUTF9CMUR0TnNEWTJSUnUwWTBXYjFMT2F3dTMxS2tRLWVwVHJ2bFV6bEtOOGNVeA?oc=5"
+      "title": "美股標普收跌、費半逆勢上揚　台指期夜盤漲389點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CLXVIZlJaaWhwMDdRZW44Z2wyTTJ3eGxKNzRTNmplMzdTNS13UzFDbHBDRUlmTUcxUk9melY0UW9DdmVCeE41eTVyZklieksweVHSAVBBVV95cUxNWXJ3UTV3akRqUUtkdUh4WWE0blJ4OEZhSHVBcXRKVVgxTnBQSl9EbzFqQ0hjMW5WOUdKbDN3bmdCbUFTSlpVcl9QTEY0dG45bg?oc=5"
     },
     {
-      "title": "台股早盤震盪台積電疲軟、塑膠股強勢| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ra0pFV2RaZUIxc1hkOEE3Rk93Zks5cUFVcDh2Sm1fb3R5RTRuNFZadzZFRjFQcTlWdlNfYXg0UmNwX2RkcWQwSGRUZmRQTEV0dWFsTWpmWW9NR1UyS2c?oc=5"
+      "title": "台積電、廣達用力拉！台股尾盤黑翻紅 收漲25點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPbXh4VER6ZWFScHJIUzlQM2picmJUdS1CUTNEM3NpUmFiTHBJZktqSUtNTklTOHJVeXNVOThGc2hUTTJCM1RNYllWRER4RXBjMGZYbElVeExKQjhqNEFCcGVGZHZCbjNpbTNjSnJtT1A0SUxKUUs1VV82QkRDSkpucTctQXg2a2RxX0pLanBDR01SZm5VT0M5SlhwbW1WSVRoM0gwWUNSdXFNN09JWUJkX0gydUZ1TV9wdGlIeFVNMWF1dkNHOGhYUUpnZ2lFdU90OEsyZnRNYVlTOVBRQjdrQ0J1SXFDUy13WDZOdGpRanNCTmgwelZieW5ULTRSN3JSd3JJNkNxQWN5WVRrOTN4cG0xNTlnZXRoTGFvc1U4dlpDRTNSb0xyRGRRc1h3ZFR3VUxsYnhkUzNsZw?oc=5"
+    },
+    {
+      "title": "美財長：諾克斯堡萬億黃金儲備“分毫不差”，但美元早就不靠它了 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRE5hNk1XOE02cDJyc0Y1My1MbExPRXNCRzE3SmNINGl0MGxYZndObGhBLWE4OWVjYWphNTZXa1JsdjJsMEdvTkc1R0hRYkFGMGJmc1o5OVRocEZYRTFhMlZuZW5GUi1pUjJORWF6ZnotRUxhNnlVTGctc1ZSQlBDbXZuQTRlb083REI0NDBiRQ?oc=5"
+    },
+    {
+      "title": "美股山雨欲來？分析：空頭部位增至2010年以來最高| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50VlNORGt0RVh4Ql90RTlGM0ZTNjlkam5GTjNIalFBMUdiSUJ1UjNXdDRtNHVVd3BtYkJvMGtOZ3V5eUljaFFCdWg0NWhHY0RP?oc=5"
     }
   ]
 }
