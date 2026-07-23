@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/24 01:23",
+  "updated_tw": "07/24 02:45",
   "taiwan": {
     "2330": {
       "price": 2405.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 209.955,
-      "change": -2.105,
-      "changePercent": -0.9926
+      "price": 207.75,
+      "change": -4.31,
+      "changePercent": -2.0324
     },
     "AAPL": {
-      "price": 320.42,
-      "change": -5.47,
-      "changePercent": -1.6785
+      "price": 320.16,
+      "change": -5.73,
+      "changePercent": -1.7583
     },
     "TSLA": {
-      "price": 321.9,
-      "change": -52.11,
-      "changePercent": -13.9328
+      "price": 320.49,
+      "change": -53.52,
+      "changePercent": -14.3098
     },
     "QQQ": {
-      "price": 692.69,
-      "change": -12.66,
-      "changePercent": -1.7949
+      "price": 690.78,
+      "change": -14.57,
+      "changePercent": -2.0656
     },
     "SPY": {
-      "price": 738.53,
-      "change": -8.88,
-      "changePercent": -1.1881
+      "price": 737.06,
+      "change": -10.35,
+      "changePercent": -1.3848
     },
     "SCHD": {
-      "price": 32.74,
-      "change": -0.16,
-      "changePercent": -0.4863
+      "price": 32.755,
+      "change": -0.145,
+      "changePercent": -0.4407
     },
     "VOO": {
-      "price": 678.785,
-      "change": -8.245,
-      "changePercent": -1.2001
+      "price": 677.445,
+      "change": -9.585,
+      "changePercent": -1.3951
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64757.51,
-      "change": -1343.2869,
-      "changePercent": -2.0322
+      "price": 64772.01,
+      "change": -1328.7869,
+      "changePercent": -2.0102
     },
     "ETH": {
-      "price": 1888.25,
-      "change": -45.2401,
-      "changePercent": -2.3398
+      "price": 1878.24,
+      "change": -55.2501,
+      "changePercent": -2.8575
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.341,
-      "change": 0.0156,
-      "changePercent": 0.0483
+      "price": 32.331,
+      "change": 0.0056,
+      "changePercent": 0.0173
     },
     "JPYTWD": {
       "price": 0.1953,
@@ -94,22 +94,22 @@
       "changePercent": -1.4065
     },
     "EURTWD": {
-      "price": 36.836,
-      "change": -0.0231,
-      "changePercent": -0.0626
+      "price": 36.834,
+      "change": -0.0251,
+      "changePercent": -0.068
     },
     "CNYTWD": {
-      "price": 4.7763,
+      "price": 4.7775,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4051.4,
-    "twd": 4213.0,
-    "tael": 157972.0,
-    "twdTotal": 131026.0,
-    "changePercent": -2.3029
+    "usd": 4047.3,
+    "twd": 4207.0,
+    "tael": 157764.0,
+    "twdTotal": 130853.0,
+    "changePercent": -2.4018
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zejlxbE1PamJjcGV5aEZTNkYwTUNONi1yTWRsUF9BeDJNUUgtOWhqRGh3bXpOaEZUMWt6akdGa2k2VWFxbmhHT3hzSnNFUEk?oc=5"
     },
     {
-      "title": "【美股盤前急殺】谷歌盤前跌5％，自由現金流首次轉負嚇壞市場 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tNV9uNkdxMVg2LVVLQkV4dl9WcF8tQ2UzNnhFY1VHZGhjTVA4TGhUTFdleFNyYlFpSERwc1RGdTI0ZHg2TnA5YnRaakQ4SUdmMGhGTmFXRWR5YnV5c21XX3FYVi1HTk0?oc=5"
+      "title": "美股收盤》油價上漲市場不安！四大指數漲跌互現 台積電ADR跌0.8％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02SHpoS2xISWhHTVlBN3BReFFjMmRITHpEYXhjSVBOdlFGMERvTWNsNGFvRnZ1NWRXSXZVTjNfQnI3NGhhNXRpRlV2VnlXcEZ6b1RnVHR3Ti11NnZIa3pF0gFkQVVfeXFMUFNKVmtRdWtiTFg3YW5lc2t3M25KUnhSN1B4aXJHT1R3WEtJRXlUWHV1VDl2eUtwUnpVdlhRaExCQUFZU3RzSUxSZm5nSk1vOXFXOGJSS3RneUdhTmplRFg1QU0ybQ?oc=5"
     },
     {
       "title": "【美股盤前】三大指數期貨走低，Alphabet、特斯拉財報後下挫，油價大漲超4% - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTF9FUV85ZlgyOUlXOGFVeEZXWThMdVJSdXRzM3d0X3hOcWt1cmloXzJNMGk1bjVxdHhiT2hsOHl4UlFxamIyS3hFM1ppVDViSzhMYU1ZOHRoLXJCVHNYN1dJRmNZejlVNEpfWmFMbjBHUmNkaGpIaC1RNDhZdmVaSGU3cl9Ec1AxWDFneFhpeE1kQU9NX3k5SHd4MTV3NGRrX25iRFk4MnNRbVRGRXJKS2dxT1JPVk1ZOHBJVE5rb2lzRHdlMWp5YktuZHNlNjhDRTcwV2NqZXBPVHAtaTVzYnR2VGFiVUdPZHk3SEJiZEtOcWxwSFEw?oc=5"
     },
     {
-      "title": "快訊／台股1檔「抓去關」　大量明起處置至 8/6 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RQ2h0X2NFeUI0Y0dLS0kzb3JvRnJ4bDBzNURic1JzVmNpNzNEQUlfQ2tOZzhrOEd4NG84OUNUUzVYemlRa19LMnY2SjZrUEZTbnfSAVBBVV95cUxOdnN2bjI2M3BRS1pveHBKVTczMUVUZ3Bfc3RMMGVxZTRmbGNodEtGRnpFZW50QkhKTkF0WENTakJwMHNzXzBrM0hHOUpJQlhXSA?oc=5"
+      "title": "美股拖累台指期！夜盤高低點震逾970點失守45K - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KUnFuWE9sWHFKVWNGQTdwaV9HUVYzbWxYS1pnNG1jbHhObmliZGhKVXZwOFZkWXJYMEd5Nm0tenVUT2ZTYnZ3RjRpZi0xbEVaMlNNWFZ2RDA5Q2vSAWBBVV95cUxQVkNOQXdWRWtnVUxlbGg1VnBPZzRUaF9nbkVfX1U4dl9PMnB5OWItcHZHU0thenpWOGljQm5zU1hpUjQyU0tIUi1VV2M1aU51SjVQSHpTRGFHMGNWTEo0WXc?oc=5"
     },
     {
-      "title": "美財長：諾克斯堡萬億黃金儲備“分毫不差”，但美元早就不靠它了 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRE5hNk1XOE02cDJyc0Y1My1MbExPRXNCRzE3SmNINGl0MGxYZndObGhBLWE4OWVjYWphNTZXa1JsdjJsMEdvTkc1R0hRYkFGMGJmc1o5OVRocEZYRTFhMlZuZW5GUi1pUjJORWF6ZnotRUxhNnlVTGctc1ZSQlBDbXZuQTRlb083REI0NDBiRQ?oc=5"
+      "title": "AI燒錢嚇壞華爾街！美股道瓊開盤大跌600點 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPVmI0dEh4UElBd253QmRPbU1zdEVucWQ4V2xXVnhxT09fWXRzOEFwekNQbjZfZms3WWs2LUdBOHk2YXNRTFZEeGphMVF4eW1ZLTJlSUxVejI3UFd3NmgxS1RNU2pfS2k1dUVmdW9xM2hxbGlxVC1UWk56Q25jdHk4OXhadTJRVDg2NEMyYU1YWXl5R0lyenVLeDh5NUdvU3F0eTFKNjhFVXRfZ2FQQVU4ajhxVndkVU10T0FRTUZVWDBPcVI0bEVaa1J5MmdEQjNDQThGbjREYXZ0QlFiTVFqcGVOYXl3TlVHcUV5NzhaRDNRSW5sVEFtUGtBa2xyLWZRVUJNXzgtOHh1ZkdIbmtlY2Jtek5xdWVmdy1N?oc=5"
     },
     {
-      "title": "油價衝破每桶100美元大關 美股、台指期夜盤全「嚇跌」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvZkh1SnUwNm9KQlVaaC10VzI1N0plU0I0NWtYVGdrNVZvcnI0RUlkeThDeHhVeDg3ZDBobnVhd2otYS1aaDQ2aHUxOXlWRXRXTlFBenFZMi1EcktJSXhB0gFkQVVfeXFMTUg3c1E2QWRuUUlIVXdfVTItby12TFhFbVkwTl9rdndlWWtfV3hwQXpJYTVsZFN5cGRaeXZFMENZeFhkb0ZuQ2NyeE9WQ2hZRFhabGhKQW13S0pyZlRDU0xPdmdwWQ?oc=5"
+      "title": "〈美股盤後〉油價飆升 標普那指收跌 投資人靜待科技巨頭財報 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wY3hMSzU5MEpfOUs0LTFqa3lsQVRKakZKc3pPTEZyZkt5NVFJeWNHcElYSTIwQkpCN3kwYXJURkpmZTVZeXlqSWVvUmNJMGs?oc=5"
     }
   ]
 }
