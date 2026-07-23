@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/24 05:28",
+  "updated_tw": "07/24 06:32",
   "taiwan": {
     "2330": {
       "price": 2405.0,
@@ -72,26 +72,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65068.9,
-      "change": -1031.8969,
-      "changePercent": -1.5611
+      "price": 65115.68,
+      "change": -985.1169,
+      "changePercent": -1.4903
     },
     "ETH": {
-      "price": 1881.71,
-      "change": -51.7801,
-      "changePercent": -2.6781
+      "price": 1879.9,
+      "change": -53.5901,
+      "changePercent": -2.7717
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.3,
-      "change": -0.0791,
-      "changePercent": -0.2443
+      "price": 32.301,
+      "change": -0.0781,
+      "changePercent": -0.2412
     },
     "JPYTWD": {
-      "price": 0.1949,
-      "change": -0.0036,
-      "changePercent": -1.8235
+      "price": 0.195,
+      "change": -0.0035,
+      "changePercent": -1.7731
     },
     "EURTWD": {
       "price": 36.796,
@@ -99,17 +99,17 @@
       "changePercent": -0.4276
     },
     "CNYTWD": {
-      "price": 4.7779,
+      "price": 4.7702,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4052.3,
+    "usd": 4052.4,
     "twd": 4208.0,
-    "tael": 157807.0,
-    "twdTotal": 130889.0,
-    "changePercent": -2.2812
+    "tael": 157816.0,
+    "twdTotal": 130897.0,
+    "changePercent": -2.2788
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,10 +125,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43RXA0VWNiaHk0a1FmTXJ1ajB3YWtWQmc3SFZHQk1YeUZhWU9leEgzLVk3bWxIWG9ZSkh4a0ExWE10cmdaRXZaVVZZUS1wX0ZK?oc=5"
     },
     {
-      "title": "美股財報大戲，GOOGLE、特斯拉、類比晶片德儀、電力GEV等揭曉！關注重點及可留意誰｜美股觀察 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMinARBVV95cUxPeGY1VXdhVFFrLTBjLWVWcExLMnBmdE1NVG1fTm1tcU1wTFZzbktXeHM5YXpYZ0J1VTQ0Y3hSV1VFeHVweHc0R01pLWtQcHBHT1k5ZUp5dF92OS1BVFhoOHZmVWk5LUhrMVYwaG1VeURxVmRxMERBalVLUEZ0YjdVYUZLWUhTNWVsOXpna2ctYXZONFBBUHI5Sjc0Q2RucVMwTEtIQWhBclI4NXBieDdEZnA5TktIa0FtWTFOemFzcmxpZW1RWjFQUGlXcHZVRVNOZl9SZ2Y4Ul8zU096MnhSREZ1Q1hBbUh3TDljRVpOYThNUGo1RHFHMUlsNkRkS3lJRU43S0pXdnFyY1R1VUNhOWYtNm0xMm13cXNLWTU0UGdJdWVVMlEyWmFsRzRkbXp3Q0s1UDRMVU5mUlpEcG1tSEZTdHpGRk0tU3B6cDdBTjY5SVV3NHo5UmRFSDBBMnRIV19CelItTjZ0YXpsZzIyd3I1RXlqWUpsZDc1WGVXZXZoSmdmUHpxeFdORWNqel9vVExfNkhPSGJTNVlfTzJhcmpRckk3TEkwa0kyX0xqempsRFFsSC1FbGdGWXRXYjdWc3pVTTNTQ3FwSmZvZ2NaWFZxZlF6MnptTWFqX1dfWTMwdnJFSFd3YmlGYXRxbnVyTW5Cdml3SlpEUE5paFFQNlViVVNhS0dvLUFHNm5CY0dUcGtOcWRwTmI0QTU?oc=5"
-    },
-    {
       "title": "〈美股早盤〉AI支出與百美元油價施壓！主要指數開低 道指一度崩逾600點 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zejlxbE1PamJjcGV5aEZTNkYwTUNONi1yTWRsUF9BeDJNUUgtOWhqRGh3bXpOaEZUMWt6akdGa2k2VWFxbmhHT3hzSnNFUEk?oc=5"
     },
@@ -137,8 +133,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvZkh1SnUwNm9KQlVaaC10VzI1N0plU0I0NWtYVGdrNVZvcnI0RUlkeThDeHhVeDg3ZDBobnVhd2otYS1aaDQ2aHUxOXlWRXRXTlFBenFZMi1EcktJSXhB0gFkQVVfeXFMTUg3c1E2QWRuUUlIVXdfVTItby12TFhFbVkwTl9rdndlWWtfV3hwQXpJYTVsZFN5cGRaeXZFMENZeFhkb0ZuQ2NyeE9WQ2hZRFhabGhKQW13S0pyZlRDU0xPdmdwWQ?oc=5"
     },
     {
-      "title": "【美股盤前急殺】谷歌盤前跌5％，自由現金流首次轉負嚇壞市場 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tNV9uNkdxMVg2LVVLQkV4dl9WcF8tQ2UzNnhFY1VHZGhjTVA4TGhUTFdleFNyYlFpSERwc1RGdTI0ZHg2TnA5YnRaakQ4SUdmMGhGTmFXRWR5YnV5c21XX3FYVi1HTk0?oc=5"
+      "title": "中東衝突推升油價 美股收跌道瓊下挫逾500點 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIWmN1c1owelVfSjhoQWUyNm51eTloZU1JTmxpbE9HN3NfcGNVaTVOdnZ4QVFyRkMtVnU5LUI1RmYyTGs5dDM2T182bXh6NmtOX0tOOURBRU5LQXUxWnc?oc=5"
+    },
+    {
+      "title": "台股5萬仍有機會? 本土投顧：7月拉回是買點| 金融 - 非凡新聞台",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QOVNaYmJQa09mNVRDa2k5Y2tZdUxuVVRhZThmWF9wbjNlTFVac1RwS3hNa2pmX2dTdThtc2lNM3lSbzY2eXR5aE9TUjB4cGdkMXZxWm05bE56Mms?oc=5"
     },
     {
       "title": "美股拖累台指期！夜盤高低點震逾970點失守45K - 經濟日報",
