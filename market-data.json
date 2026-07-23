@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/24 02:45",
+  "updated_tw": "07/24 04:11",
   "taiwan": {
     "2330": {
       "price": 2405.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 207.75,
-      "change": -4.31,
-      "changePercent": -2.0324
+      "price": 208.76,
+      "change": -3.3,
+      "changePercent": -1.5562
     },
     "AAPL": {
-      "price": 320.16,
-      "change": -5.73,
-      "changePercent": -1.7583
+      "price": 321.66,
+      "change": -4.23,
+      "changePercent": -1.298
     },
     "TSLA": {
-      "price": 320.49,
-      "change": -53.52,
-      "changePercent": -14.3098
+      "price": 319.69,
+      "change": -54.32,
+      "changePercent": -14.5237
     },
     "QQQ": {
-      "price": 690.78,
-      "change": -14.57,
-      "changePercent": -2.0656
+      "price": 691.96,
+      "change": -13.39,
+      "changePercent": -1.8983
     },
     "SPY": {
-      "price": 737.06,
-      "change": -10.35,
-      "changePercent": -1.3848
+      "price": 738.3,
+      "change": -9.11,
+      "changePercent": -1.2189
     },
     "SCHD": {
-      "price": 32.755,
-      "change": -0.145,
-      "changePercent": -0.4407
+      "price": 32.792,
+      "change": -0.108,
+      "changePercent": -0.3283
     },
     "VOO": {
-      "price": 677.445,
-      "change": -9.585,
-      "changePercent": -1.3951
+      "price": 678.4,
+      "change": -8.63,
+      "changePercent": -1.2561
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64772.01,
-      "change": -1328.7869,
-      "changePercent": -2.0102
+      "price": 64977.23,
+      "change": -1123.5669,
+      "changePercent": -1.6998
     },
     "ETH": {
-      "price": 1878.24,
-      "change": -55.2501,
-      "changePercent": -2.8575
+      "price": 1881.57,
+      "change": -51.9201,
+      "changePercent": -2.6853
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.331,
-      "change": 0.0056,
-      "changePercent": 0.0173
+      "price": 32.345,
+      "change": -0.0341,
+      "changePercent": -0.1053
     },
     "JPYTWD": {
       "price": 0.1953,
-      "change": -0.0028,
-      "changePercent": -1.4065
+      "change": -0.0032,
+      "changePercent": -1.622
     },
     "EURTWD": {
-      "price": 36.834,
-      "change": -0.0251,
-      "changePercent": -0.068
+      "price": 36.85,
+      "change": -0.104,
+      "changePercent": -0.2814
     },
     "CNYTWD": {
-      "price": 4.7775,
+      "price": 4.7847,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4047.3,
-    "twd": 4207.0,
-    "tael": 157764.0,
-    "twdTotal": 130853.0,
-    "changePercent": -2.4018
+    "usd": 4052.4,
+    "twd": 4214.0,
+    "tael": 158031.0,
+    "twdTotal": 131075.0,
+    "changePercent": -2.2788
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,12 +125,20 @@
       "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQYkI4VGdQUWJ1ZlpacEtxY0JtcEhLeHVtdGFNUGNWNUJudmc3dXgxWE5hdnRadUIwbG5rRnMxdEw1bEY0Rmo0UkxWc045Nzd1YnBKc09PcnpORDVNSGtwMjJTc3dueXUtdEhfMGFSd0xTN1UxOFRzelVMNFZ3SDdza2tiX1RqbEF0cG4wSllwc0hoZkEyVU9xbjlUZVI3cmp3NWVYQjRfdTNYLXJWaE5oMFV2aFJsUENoWnFhb0p5MUdxSzV1aEZYZ0dJVWlwS1lYRjJIcHpEa1dVVjZRVDJOLVo5Z1RwUzQyY0twY0R6bzlkVHJxQjFKbnFBbTJNZDU2TUFVQlhwQTQ4d3dyYTZqV0Vnc2IycWZUZFhzcFlZZVhNWkFBNVRiZG04NmVSZVo4endBbExzWi1RUm1qY3JYdkJVZjA2NFc0dlJSWk5UaGIzX010aERVQzVTNW5VMWpZRzhDSTBrdnNSLVFwUzh6QjdvWQ?oc=5"
     },
     {
+      "title": "美股財報大戲，GOOGLE、特斯拉、類比晶片德儀、電力GEV等揭曉！關注重點及可留意誰｜美股觀察 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMinARBVV95cUxPeGY1VXdhVFFrLTBjLWVWcExLMnBmdE1NVG1fTm1tcU1wTFZzbktXeHM5YXpYZ0J1VTQ0Y3hSV1VFeHVweHc0R01pLWtQcHBHT1k5ZUp5dF92OS1BVFhoOHZmVWk5LUhrMVYwaG1VeURxVmRxMERBalVLUEZ0YjdVYUZLWUhTNWVsOXpna2ctYXZONFBBUHI5Sjc0Q2RucVMwTEtIQWhBclI4NXBieDdEZnA5TktIa0FtWTFOemFzcmxpZW1RWjFQUGlXcHZVRVNOZl9SZ2Y4Ul8zU096MnhSREZ1Q1hBbUh3TDljRVpOYThNUGo1RHFHMUlsNkRkS3lJRU43S0pXdnFyY1R1VUNhOWYtNm0xMm13cXNLWTU0UGdJdWVVMlEyWmFsRzRkbXp3Q0s1UDRMVU5mUlpEcG1tSEZTdHpGRk0tU3B6cDdBTjY5SVV3NHo5UmRFSDBBMnRIV19CelItTjZ0YXpsZzIyd3I1RXlqWUpsZDc1WGVXZXZoSmdmUHpxeFdORWNqel9vVExfNkhPSGJTNVlfTzJhcmpRckk3TEkwa0kyX0xqempsRFFsSC1FbGdGWXRXYjdWc3pVTTNTQ3FwSmZvZ2NaWFZxZlF6MnptTWFqX1dfWTMwdnJFSFd3YmlGYXRxbnVyTW5Cdml3SlpEUE5paFFQNlViVVNhS0dvLUFHNm5CY0dUcGtOcWRwTmI0QTU?oc=5"
+    },
+    {
       "title": "〈美股早盤〉AI支出與百美元油價施壓！主要指數開低 道指一度崩逾600點 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zejlxbE1PamJjcGV5aEZTNkYwTUNONi1yTWRsUF9BeDJNUUgtOWhqRGh3bXpOaEZUMWt6akdGa2k2VWFxbmhHT3hzSnNFUEk?oc=5"
     },
     {
-      "title": "美股收盤》油價上漲市場不安！四大指數漲跌互現 台積電ADR跌0.8％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02SHpoS2xISWhHTVlBN3BReFFjMmRITHpEYXhjSVBOdlFGMERvTWNsNGFvRnZ1NWRXSXZVTjNfQnI3NGhhNXRpRlV2VnlXcEZ6b1RnVHR3Ti11NnZIa3pF0gFkQVVfeXFMUFNKVmtRdWtiTFg3YW5lc2t3M25KUnhSN1B4aXJHT1R3WEtJRXlUWHV1VDl2eUtwUnpVdlhRaExCQUFZU3RzSUxSZm5nSk1vOXFXOGJSS3RneUdhTmplRFg1QU0ybQ?oc=5"
+      "title": "油價衝破每桶100美元大關 美股、台指期夜盤全「嚇跌」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvZkh1SnUwNm9KQlVaaC10VzI1N0plU0I0NWtYVGdrNVZvcnI0RUlkeThDeHhVeDg3ZDBobnVhd2otYS1aaDQ2aHUxOXlWRXRXTlFBenFZMi1EcktJSXhB0gFkQVVfeXFMTUg3c1E2QWRuUUlIVXdfVTItby12TFhFbVkwTl9rdndlWWtfV3hwQXpJYTVsZFN5cGRaeXZFMENZeFhkb0ZuQ2NyeE9WQ2hZRFhabGhKQW13S0pyZlRDU0xPdmdwWQ?oc=5"
+    },
+    {
+      "title": "【美股盤前急殺】谷歌盤前跌5％，自由現金流首次轉負嚇壞市場 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tNV9uNkdxMVg2LVVLQkV4dl9WcF8tQ2UzNnhFY1VHZGhjTVA4TGhUTFdleFNyYlFpSERwc1RGdTI0ZHg2TnA5YnRaakQ4SUdmMGhGTmFXRWR5YnV5c21XX3FYVi1HTk0?oc=5"
     },
     {
       "title": "【美股盤前】三大指數期貨走低，Alphabet、特斯拉財報後下挫，油價大漲超4% - TradingKey",
@@ -139,14 +147,6 @@
     {
       "title": "美股拖累台指期！夜盤高低點震逾970點失守45K - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KUnFuWE9sWHFKVWNGQTdwaV9HUVYzbWxYS1pnNG1jbHhObmliZGhKVXZwOFZkWXJYMEd5Nm0tenVUT2ZTYnZ3RjRpZi0xbEVaMlNNWFZ2RDA5Q2vSAWBBVV95cUxQVkNOQXdWRWtnVUxlbGg1VnBPZzRUaF9nbkVfX1U4dl9PMnB5OWItcHZHU0thenpWOGljQm5zU1hpUjQyU0tIUi1VV2M1aU51SjVQSHpTRGFHMGNWTEo0WXc?oc=5"
-    },
-    {
-      "title": "AI燒錢嚇壞華爾街！美股道瓊開盤大跌600點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPVmI0dEh4UElBd253QmRPbU1zdEVucWQ4V2xXVnhxT09fWXRzOEFwekNQbjZfZms3WWs2LUdBOHk2YXNRTFZEeGphMVF4eW1ZLTJlSUxVejI3UFd3NmgxS1RNU2pfS2k1dUVmdW9xM2hxbGlxVC1UWk56Q25jdHk4OXhadTJRVDg2NEMyYU1YWXl5R0lyenVLeDh5NUdvU3F0eTFKNjhFVXRfZ2FQQVU4ajhxVndkVU10T0FRTUZVWDBPcVI0bEVaa1J5MmdEQjNDQThGbjREYXZ0QlFiTVFqcGVOYXl3TlVHcUV5NzhaRDNRSW5sVEFtUGtBa2xyLWZRVUJNXzgtOHh1ZkdIbmtlY2Jtek5xdWVmdy1N?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉油價飆升 標普那指收跌 投資人靜待科技巨頭財報 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wY3hMSzU5MEpfOUs0LTFqa3lsQVRKakZKc3pPTEZyZkt5NVFJeWNHcElYSTIwQkpCN3kwYXJURkpmZTVZeXlqSWVvUmNJMGs?oc=5"
     }
   ]
 }
