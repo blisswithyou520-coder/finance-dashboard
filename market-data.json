@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/23 17:57",
+  "updated_tw": "07/23 19:53",
   "taiwan": {
     "2330": {
       "price": 2405.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65637.43,
-      "change": -463.3669,
-      "changePercent": -0.701
+      "price": 65557.0,
+      "change": -543.7969,
+      "changePercent": -0.8227
     },
     "ETH": {
-      "price": 1925.08,
-      "change": -8.4101,
-      "changePercent": -0.435
+      "price": 1925.3,
+      "change": -8.1901,
+      "changePercent": -0.4236
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.271,
-      "change": -0.0544,
-      "changePercent": -0.1683
+      "price": 32.294,
+      "change": -0.0314,
+      "changePercent": -0.0971
     },
     "JPYTWD": {
-      "price": 0.1954,
-      "change": -0.0027,
-      "changePercent": -1.356
+      "price": 0.1953,
+      "change": -0.0028,
+      "changePercent": -1.4065
     },
     "EURTWD": {
-      "price": 36.889,
-      "change": 0.0299,
-      "changePercent": 0.0812
+      "price": 36.83,
+      "change": -0.0291,
+      "changePercent": -0.0789
     },
     "CNYTWD": {
-      "price": 4.7735,
+      "price": 4.7738,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4095.7,
-    "twd": 4249.0,
-    "tael": 159354.0,
-    "twdTotal": 132172.0,
-    "changePercent": -1.2347
+    "usd": 4079.4,
+    "twd": 4236.0,
+    "tael": 158833.0,
+    "twdTotal": 131740.0,
+    "changePercent": -1.6277
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,12 +121,12 @@
       "link": "https://news.google.com/rss/articles/CBMinARBVV95cUxPeGY1VXdhVFFrLTBjLWVWcExLMnBmdE1NVG1fTm1tcU1wTFZzbktXeHM5YXpYZ0J1VTQ0Y3hSV1VFeHVweHc0R01pLWtQcHBHT1k5ZUp5dF92OS1BVFhoOHZmVWk5LUhrMVYwaG1VeURxVmRxMERBalVLUEZ0YjdVYUZLWUhTNWVsOXpna2ctYXZONFBBUHI5Sjc0Q2RucVMwTEtIQWhBclI4NXBieDdEZnA5TktIa0FtWTFOemFzcmxpZW1RWjFQUGlXcHZVRVNOZl9SZ2Y4Ul8zU096MnhSREZ1Q1hBbUh3TDljRVpOYThNUGo1RHFHMUlsNkRkS3lJRU43S0pXdnFyY1R1VUNhOWYtNm0xMm13cXNLWTU0UGdJdWVVMlEyWmFsRzRkbXp3Q0s1UDRMVU5mUlpEcG1tSEZTdHpGRk0tU3B6cDdBTjY5SVV3NHo5UmRFSDBBMnRIV19CelItTjZ0YXpsZzIyd3I1RXlqWUpsZDc1WGVXZXZoSmdmUHpxeFdORWNqel9vVExfNkhPSGJTNVlfTzJhcmpRckk3TEkwa0kyX0xqempsRFFsSC1FbGdGWXRXYjdWc3pVTTNTQ3FwSmZvZ2NaWFZxZlF6MnptTWFqX1dfWTMwdnJFSFd3YmlGYXRxbnVyTW5Cdml3SlpEUE5paFFQNlViVVNhS0dvLUFHNm5CY0dUcGtOcWRwTmI0QTU?oc=5"
     },
     {
-      "title": "美股收盤》油價上漲市場不安！四大指數漲跌互現 台積電ADR跌0.8％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02SHpoS2xISWhHTVlBN3BReFFjMmRITHpEYXhjSVBOdlFGMERvTWNsNGFvRnZ1NWRXSXZVTjNfQnI3NGhhNXRpRlV2VnlXcEZ6b1RnVHR3Ti11NnZIa3pF0gFkQVVfeXFMUFNKVmtRdWtiTFg3YW5lc2t3M25KUnhSN1B4aXJHT1R3WEtJRXlUWHV1VDl2eUtwUnpVdlhRaExCQUFZU3RzSUxSZm5nSk1vOXFXOGJSS3RneUdhTmplRFg1QU0ybQ?oc=5"
-    },
-    {
       "title": "美股收盤／AI 財報考驗盤後登場 Alphabet 拖累那斯達克期指盤後再挫 油價續漲 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPNDRuSEVjOGl3cXF5dTlVNXNSOEZFWkF6Q1BlcXUzbTU2NVVqTHdNUllKZEItSW9EX2xtU0Fzak9jWjRCajdjOGhoUnVPeE92R21RcVVpUWI2QUIz0gFiQVVfeXFMUHNDMlp2UlA3blpNa0VUYUhCOV9VT1FVMkFTSEdLRzVURXZ2QmhqRWpCRXZsZm5mYjhRWHRyTzdidktqNWxjR1NLbU1MQXVCZHVySENSd2ZDN3ZfdXAtdlpsMUE?oc=5"
+    },
+    {
+      "title": "美股收盤》油價上漲市場不安！四大指數漲跌互現 台積電ADR跌0.8％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02SHpoS2xISWhHTVlBN3BReFFjMmRITHpEYXhjSVBOdlFGMERvTWNsNGFvRnZ1NWRXSXZVTjNfQnI3NGhhNXRpRlV2VnlXcEZ6b1RnVHR3Ti11NnZIa3pF0gFkQVVfeXFMUFNKVmtRdWtiTFg3YW5lc2t3M25KUnhSN1B4aXJHT1R3WEtJRXlUWHV1VDl2eUtwUnpVdlhRaExCQUFZU3RzSUxSZm5nSk1vOXFXOGJSS3RneUdhTmplRFg1QU0ybQ?oc=5"
     },
     {
       "title": "〈美股盤後〉油價飆升 標普那指收跌 投資人靜待科技巨頭財報 - news.cnyes.com",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2ODNHSHJmeGtQR0xxWmNHN2dvaDBBR2V4QXR5NWxrTVZWUDluQmhMNmRMZlctblhPNW9VMGE2Y3l4dnVNTGg3OWlTMTFTSkZXRFozb1pDSEFJMVBiUXc?oc=5"
     },
     {
-      "title": "台股最後一盤急拉175.89點翻紅作收 這兩檔權值股同步拉尾貢獻大 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXX29UZ2NIRlhqejlRdXQ5Szk1WFU4d0tEZGREM19TSnNPWXNEQUpoLXFzWnh2Z1I0Zi11OVFqV3h4dzlmRU5QTWtkblp3NXNq0gFWQVVfeXFMUFB6Vk5XazlHQkhVVmljYW9QVEl0MU5hWkNjdzdSUTllVTdWVFBRZHJhSTVFRGMyNXp5WDh0WE5ZREtFQWNpVDJKa2tabnA2SzlZRkx1eXc?oc=5"
+      "title": "外資買超台股逾69億！緯創買最多　買賣超前十個股一次看 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfZGZ3WDhtS1dEa3FxOW91VWxLXzc4aWV2b003WHowLTZacXh6ekUyYUV5SmZGeU9SbFFNVlREWE1TWHNjWjdRTmdzNHhaMlZ5ZUHSAVBBVV95cUxPTUFqZno0Sy15VWt1TVRXZ2VtMnJLdm1vb0VYWFR4MzZXc2w2ZnJ6QTlkTmZVU215aUE5QktQWXFLaGpGVHgwSWNackxCZzR0Vg?oc=5"
     }
   ]
 }
