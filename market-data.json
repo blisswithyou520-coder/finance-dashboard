@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/24 06:32",
+  "updated_tw": "07/24 07:39",
   "taiwan": {
     "2330": {
       "price": 2405.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65115.68,
-      "change": -985.1169,
-      "changePercent": -1.4903
+      "price": 65153.78,
+      "change": -947.0169,
+      "changePercent": -1.4327
     },
     "ETH": {
-      "price": 1879.9,
-      "change": -53.5901,
-      "changePercent": -2.7717
+      "price": 1882.11,
+      "change": -51.3801,
+      "changePercent": -2.6574
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.301,
-      "change": -0.0781,
-      "changePercent": -0.2412
+      "price": 32.289,
+      "change": -0.0901,
+      "changePercent": -0.2783
     },
     "JPYTWD": {
-      "price": 0.195,
-      "change": -0.0035,
-      "changePercent": -1.7731
+      "price": 0.1949,
+      "change": -0.0036,
+      "changePercent": -1.8235
     },
     "EURTWD": {
-      "price": 36.796,
-      "change": -0.158,
-      "changePercent": -0.4276
+      "price": 36.787,
+      "change": -0.167,
+      "changePercent": -0.4519
     },
     "CNYTWD": {
-      "price": 4.7702,
+      "price": 4.7701,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4052.4,
-    "twd": 4208.0,
-    "tael": 157816.0,
-    "twdTotal": 130897.0,
-    "changePercent": -2.2788
+    "usd": 4051.3,
+    "twd": 4206.0,
+    "tael": 157714.0,
+    "twdTotal": 130812.0,
+    "changePercent": -2.3053
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "AI燒錢引爆質疑！Google、特斯拉股價重挫 美股4大指數血流成河 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQYkI4VGdQUWJ1ZlpacEtxY0JtcEhLeHVtdGFNUGNWNUJudmc3dXgxWE5hdnRadUIwbG5rRnMxdEw1bEY0Rmo0UkxWc045Nzd1YnBKc09PcnpORDVNSGtwMjJTc3dueXUtdEhfMGFSd0xTN1UxOFRzelVMNFZ3SDdza2tiX1RqbEF0cG4wSllwc0hoZkEyVU9xbjlUZVI3cmp3NWVYQjRfdTNYLXJWaE5oMFV2aFJsUENoWnFhb0p5MUdxSzV1aEZYZ0dJVWlwS1lYRjJIcHpEa1dVVjZRVDJOLVo5Z1RwUzQyY0twY0R6bzlkVHJxQjFKbnFBbTJNZDU2TUFVQlhwQTQ4d3dyYTZqV0Vnc2IycWZUZFhzcFlZZVhNWkFBNVRiZG04NmVSZVo4endBbExzWi1RUm1qY3JYdkJVZjA2NFc0dlJSWk5UaGIzX010aERVQzVTNW5VMWpZRzhDSTBrdnNSLVFwUzh6QjdvWQ?oc=5"
+      "title": "美股收盤》油價飆、AI支出疑慮升！道瓊跌逾500點 台積電ADR收低 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVTlFrUkk0LVpsU0VTT3Z2WmhkaFVZbkJVYXdmME92YkVYZ1JMZHNmY0dUYnpQa0xjeUlBYnZuZ1NwbkZUR1hrQk5WSjVLWGNrQzZxZE0weEVnTjhWX1NJ0gFkQVVfeXFMTWxfbFRjX0ZRTDRuOGZjeFZNLXV5T1oxWmZiNmlkTThSM1pEM3V6U2hlUFY3S2YxVzFWWWRES1dHeG43YVhWRFRPbDh0TFMxN0NVUVpacWI1SUZFLTNrbkdwU1lpLQ?oc=5"
     },
     {
-      "title": "美股早盤／字母燒錢兇…布蘭特升破100美元指數盡墨、美債受壓| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43RXA0VWNiaHk0a1FmTXJ1ajB3YWtWQmc3SFZHQk1YeUZhWU9leEgzLVk3bWxIWG9ZSkh4a0ExWE10cmdaRXZaVVZZUS1wX0ZK?oc=5"
-    },
-    {
-      "title": "〈美股早盤〉AI支出與百美元油價施壓！主要指數開低 道指一度崩逾600點 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zejlxbE1PamJjcGV5aEZTNkYwTUNONi1yTWRsUF9BeDJNUUgtOWhqRGh3bXpOaEZUMWt6akdGa2k2VWFxbmhHT3hzSnNFUEk?oc=5"
-    },
-    {
-      "title": "油價衝破每桶100美元大關 美股、台指期夜盤全「嚇跌」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvZkh1SnUwNm9KQlVaaC10VzI1N0plU0I0NWtYVGdrNVZvcnI0RUlkeThDeHhVeDg3ZDBobnVhd2otYS1aaDQ2aHUxOXlWRXRXTlFBenFZMi1EcktJSXhB0gFkQVVfeXFMTUg3c1E2QWRuUUlIVXdfVTItby12TFhFbVkwTl9rdndlWWtfV3hwQXpJYTVsZFN5cGRaeXZFMENZeFhkb0ZuQ2NyeE9WQ2hZRFhabGhKQW13S0pyZlRDU0xPdmdwWQ?oc=5"
-    },
-    {
-      "title": "中東衝突推升油價 美股收跌道瓊下挫逾500點 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIWmN1c1owelVfSjhoQWUyNm51eTloZU1JTmxpbE9HN3NfcGNVaTVOdnZ4QVFyRkMtVnU5LUI1RmYyTGs5dDM2T182bXh6NmtOX0tOOURBRU5LQXUxWnc?oc=5"
-    },
-    {
-      "title": "台股5萬仍有機會? 本土投顧：7月拉回是買點| 金融 - 非凡新聞台",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QOVNaYmJQa09mNVRDa2k5Y2tZdUxuVVRhZThmWF9wbjNlTFVac1RwS3hNa2pmX2dTdThtc2lNM3lSbzY2eXR5aE9TUjB4cGdkMXZxWm05bE56Mms?oc=5"
+      "title": "〈美股盤後〉Alphabet、特斯拉暴跌 布油飆破百美元 四大指數收黑 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXNTFoQlNoQS03VXNWUGJSd19hOGJSTzB3NmpOYnFBS05GMUdBc2J0VzByMlpDbGh3c1o2SjdOLWNmdkNnN1A5eFdUSUVGeGs?oc=5"
     },
     {
       "title": "美股拖累台指期！夜盤高低點震逾970點失守45K - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KUnFuWE9sWHFKVWNGQTdwaV9HUVYzbWxYS1pnNG1jbHhObmliZGhKVXZwOFZkWXJYMEd5Nm0tenVUT2ZTYnZ3RjRpZi0xbEVaMlNNWFZ2RDA5Q2vSAWBBVV95cUxQVkNOQXdWRWtnVUxlbGg1VnBPZzRUaF9nbkVfX1U4dl9PMnB5OWItcHZHU0thenpWOGljQm5zU1hpUjQyU0tIUi1VV2M1aU51SjVQSHpTRGFHMGNWTEo0WXc?oc=5"
     },
     {
+      "title": "AI燒錢引爆質疑！Google、特斯拉股價重挫 美股4大指數血流成河 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQYkI4VGdQUWJ1ZlpacEtxY0JtcEhLeHVtdGFNUGNWNUJudmc3dXgxWE5hdnRadUIwbG5rRnMxdEw1bEY0Rmo0UkxWc045Nzd1YnBKc09PcnpORDVNSGtwMjJTc3dueXUtdEhfMGFSd0xTN1UxOFRzelVMNFZ3SDdza2tiX1RqbEF0cG4wSllwc0hoZkEyVU9xbjlUZVI3cmp3NWVYQjRfdTNYLXJWaE5oMFV2aFJsUENoWnFhb0p5MUdxSzV1aEZYZ0dJVWlwS1lYRjJIcHpEa1dVVjZRVDJOLVo5Z1RwUzQyY0twY0R6bzlkVHJxQjFKbnFBbTJNZDU2TUFVQlhwQTQ4d3dyYTZqV0Vnc2IycWZUZFhzcFlZZVhNWkFBNVRiZG04NmVSZVo4endBbExzWi1RUm1qY3JYdkJVZjA2NFc0dlJSWk5UaGIzX010aERVQzVTNW5VMWpZRzhDSTBrdnNSLVFwUzh6QjdvWQ?oc=5"
+    },
+    {
+      "title": "油價美債雙殺、美股走低特斯拉市值蒸發2000億美元| 國際 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RLXBwN0hLQWE1emhZN0ZhOG5GVk1DbUJUZjF3RTh6dTJEOGEzeEVPTDEzNHZiY2YwR3VvbWZVa3VBaVFXM1hmZlE5cVN0clFURXo1cGZjeF90aFh4Vng4?oc=5"
+    },
+    {
+      "title": "美股早盤／字母燒錢兇…布蘭特升破100美元指數盡墨、美債受壓| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43RXA0VWNiaHk0a1FmTXJ1ajB3YWtWQmc3SFZHQk1YeUZhWU9leEgzLVk3bWxIWG9ZSkh4a0ExWE10cmdaRXZaVVZZUS1wX0ZK?oc=5"
+    },
+    {
       "title": "AI燒錢嚇壞華爾街！美股道瓊開盤大跌600點 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPVmI0dEh4UElBd253QmRPbU1zdEVucWQ4V2xXVnhxT09fWXRzOEFwekNQbjZfZms3WWs2LUdBOHk2YXNRTFZEeGphMVF4eW1ZLTJlSUxVejI3UFd3NmgxS1RNU2pfS2k1dUVmdW9xM2hxbGlxVC1UWk56Q25jdHk4OXhadTJRVDg2NEMyYU1YWXl5R0lyenVLeDh5NUdvU3F0eTFKNjhFVXRfZ2FQQVU4ajhxVndkVU10T0FRTUZVWDBPcVI0bEVaa1J5MmdEQjNDQThGbjREYXZ0QlFiTVFqcGVOYXl3TlVHcUV5NzhaRDNRSW5sVEFtUGtBa2xyLWZRVUJNXzgtOHh1ZkdIbmtlY2Jtek5xdWVmdy1N?oc=5"
+    },
+    {
+      "title": "〈美股早盤〉AI支出與百美元油價施壓！主要指數開低 道指一度崩逾600點 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zejlxbE1PamJjcGV5aEZTNkYwTUNONi1yTWRsUF9BeDJNUUgtOWhqRGh3bXpOaEZUMWt6akdGa2k2VWFxbmhHT3hzSnNFUEk?oc=5"
     }
   ]
 }
