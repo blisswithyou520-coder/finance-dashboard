@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/23 07:29",
+  "updated_tw": "07/23 09:04",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -72,31 +72,31 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65949.39,
-      "change": -555.735,
-      "changePercent": -0.8356
+      "price": 66102.84,
+      "change": -402.285,
+      "changePercent": -0.6049
     },
     "ETH": {
-      "price": 1928.71,
-      "change": 0.3262,
-      "changePercent": 0.0169
+      "price": 1933.44,
+      "change": 5.0562,
+      "changePercent": 0.2622
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.378,
-      "change": 0.0526,
-      "changePercent": 0.1627
+      "price": 32.349,
+      "change": 0.0236,
+      "changePercent": 0.073
     },
     "JPYTWD": {
-      "price": 0.1963,
-      "change": -0.0018,
-      "changePercent": -0.9016
+      "price": 0.1962,
+      "change": -0.0019,
+      "changePercent": -0.9521
     },
     "EURTWD": {
-      "price": 36.987,
-      "change": 0.1279,
-      "changePercent": 0.3471
+      "price": 36.981,
+      "change": 0.1219,
+      "changePercent": 0.3308
     },
     "CNYTWD": {
       "price": 4.7878,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4123.8,
-    "twd": 4293.0,
-    "tael": 160979.0,
-    "twdTotal": 133520.0,
-    "changePercent": 1.2945
+    "usd": 4131.6,
+    "twd": 4297.0,
+    "tael": 161139.0,
+    "twdTotal": 133653.0,
+    "changePercent": 1.4861
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,10 +125,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wY3hMSzU5MEpfOUs0LTFqa3lsQVRKakZKc3pPTEZyZkt5NVFJeWNHcElYSTIwQkpCN3kwYXJURkpmZTVZeXlqSWVvUmNJMGs?oc=5"
     },
     {
-      "title": "美股標普收跌、費半逆勢上揚　台指期夜盤漲漲389點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CLXVIZlJaaWhwMDdRZW44Z2wyTTJ3eGxKNzRTNmplMzdTNS13UzFDbHBDRUlmTUcxUk9melY0UW9DdmVCeE41eTVyZklieksweVHSAVBBVV95cUxNWXJ3UTV3akRqUUtkdUh4WWE0blJ4OEZhSHVBcXRKVVgxTnBQSl9EbzFqQ0hjMW5WOUdKbDN3bmdCbUFTSlpVcl9QTEY0dG45bg?oc=5"
-    },
-    {
       "title": "美股收盤》油價上漲市場不安！四大指數漲跌互現 台積電ADR跌0.8％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02SHpoS2xISWhHTVlBN3BReFFjMmRITHpEYXhjSVBOdlFGMERvTWNsNGFvRnZ1NWRXSXZVTjNfQnI3NGhhNXRpRlV2VnlXcEZ6b1RnVHR3Ti11NnZIa3pF0gFkQVVfeXFMUFNKVmtRdWtiTFg3YW5lc2t3M25KUnhSN1B4aXJHT1R3WEtJRXlUWHV1VDl2eUtwUnpVdlhRaExCQUFZU3RzSUxSZm5nSk1vOXFXOGJSS3RneUdhTmplRFg1QU0ybQ?oc=5"
     },
@@ -137,16 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TSTUyWFlTb1gteEJuM1VwZUlVVDhOVTRVRUM0YWRrUVNrY3F1UTBTam84SHBrQ2VhU3pHUXpSX3dGTGk2MWdqV0dRLW9Sc2RjVHdvUmJOdVhoTjVFdHZFRXg2cGRocmM?oc=5"
     },
     {
+      "title": "美股標普收跌、費半逆勢上揚　台指期夜盤漲漲389點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CLXVIZlJaaWhwMDdRZW44Z2wyTTJ3eGxKNzRTNmplMzdTNS13UzFDbHBDRUlmTUcxUk9melY0UW9DdmVCeE41eTVyZklieksweVHSAVBBVV95cUxNWXJ3UTV3akRqUUtkdUh4WWE0blJ4OEZhSHVBcXRKVVgxTnBQSl9EbzFqQ0hjMW5WOUdKbDN3bmdCbUFTSlpVcl9QTEY0dG45bg?oc=5"
+    },
+    {
+      "title": "美股法說 GOOGL｜Google Q2財報營收創新但資本支出暴增拖累股價，台積電、廣達供應鏈受惠 (GOOGL US) - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxOc1V5aHdhbzdHWGp5SHRoWVRTZHVoTkc2V3RaZm1YNlB4Tl9DYTVwZkUtSkpJd3hNdmJrZU9OUVZQMllhRFh0LU8wZmNEWE05TE9uUVdkRHdqd0RZQUxDNm5pc1Y3NVBhd3JtXzUzV2VjbmV5SEI0dEVBdGsxdWxUUEpOaGR3M0I2M3MwdS1YZ1R4bjZjMVY1eWlrNzVPT3Jhems4Q0d1MW1SazhFb3N0OFprTTZOMHRidEZLNkN4TVpsQmN2ZXFIREM2eEs4UG9PQjRfTU9oT25EcjIzUV9heDROV0h4Y0ZYUGExMHlaTFhOMENUWnhNSjFmb1FRMTYydTZqS0FuTDByZWZuVmhkdlhNXzluWC1EUVBWYTJycVlMYXFRdG1pekdLcXd2YkxNQWJJdnhvZVRYUng3SVQwZXgyN29IZk42TEZIY3BJQUdncFdiRzRBUENaOWVrdkZXWWV2WWlodC1hSTN6Tl9NdmxjWWxFZW5jRG1va3BpcjV3eEVQSDk0bG9CYlhlOUNKekJxemw2T0pnZTZiRENGNEhEblRtVGF6LWJhemZ2SGJYckFHc01yZ0JSUVZPRVNhT0VpY0g0WWd1QTh2VFlvMVRjRXBkVmZFSDRZVEdGa092cVM0UHlfZWdJelF0RlJ4VEpOWjViNElXSll6MVRLeGdJSkw3LW1rRktZVEY0VFdCX3E3REpv?oc=5"
+    },
+    {
+      "title": "《美股》油價跳高、科技巨頭財報前腳軟那指跌- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbURyMXY1MnFOQWJGdk9ITkgxT045WERwTVJmaGh4NUM3LUtZVWlyTkZyVnA0Zk9uY3FOZFRLMllHb01pQTVtNmZZbDNKZzhiMkJXSG1VNDRsRjJadndIYWlfRldIVHdGM1l0UjlTM01aT1JBZndxTzU4VWpUN1JmTGVYV1RuMTItRlpQNzVka1ZXZw?oc=5"
+    },
+    {
       "title": "台股一天一個劇本？他嘆「看多就跌、看空又漲」 網點關鍵：別再猜高低點 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX2RWdGJIbVNSaDA0VEl6dzhDU041MmVUYUJHalF4VE1Uak9wR1hINGNuT1BIUlhXQTRDZnhZZ2N2blVFa0xfNkFvTktSRWVpZHVWR1ViRnFJUjdZLUF4ellBYkJNSHF0Z0Nhb0pqRGo5U3k5VEROaFg1c05yelpzYkFkd0dadGtjUFhISXh4RnRuRmp3aFNSSHVIcTlfYmhlZERudnN5Vm5kdl9QZWMtN2FnTG9OSGJ1dlRuX2NTV0x1RXFmT0xDMGhsaXp5b19pVnhYdWtuSjlicHpWZTdvR3hzcGEwQjNQTndBY2RScEs?oc=5"
-    },
-    {
-      "title": "金十數據全球財經早餐 | 2026年7月23日 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQODY2Q0c0dXVPT3o4d1RUekVOTzhWRF9MdnFUV2pWUW96ZWRBTEFnZ3NZdm8yR1h0T0NrcU1ZTWxudzd0ejBQZG5veUFwNlJZeUNXMmFMOXY4di1NdWtITGZVQTV6VGJLd0R6eWVudHZQV3FSY3ZSVmtLVVU5U2ZhY3NmdGxpczloWld0a0czRQ?oc=5"
-    },
-    {
-      "title": "《貴金屬》COMEX黃金上漲1.9% ETF持倉增加- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1lUWjFrWmZXaGpSWEE1b1c2d0ZXc0RsWXBPOXgyTmdtQWJlUUpZN3cwZ3h0VEpiWG9ET1l4Nm9uVWUwV3JNdVI2SFRxVzJCSGJQSmVKcVpkTXJYVk1ZNlNzTU0zQlB4M2VobG9uclIzcVd4TENjd3Z3VTFsSUU4a3dmQkJ3c3daOUhtUTdNV0h6QQ?oc=5"
     }
   ]
 }
