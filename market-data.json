@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/24 17:53",
+  "updated_tw": "07/24 19:41",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65071.79,
-      "change": 26.9775,
-      "changePercent": 0.0415
+      "price": 64941.58,
+      "change": -103.2325,
+      "changePercent": -0.1587
     },
     "ETH": {
-      "price": 1886.83,
-      "change": 9.7298,
-      "changePercent": 0.5183
+      "price": 1878.84,
+      "change": 1.7398,
+      "changePercent": 0.0927
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.337,
-      "change": -0.0421,
-      "changePercent": -0.13
+      "price": 32.333,
+      "change": -0.0461,
+      "changePercent": -0.1424
     },
     "JPYTWD": {
-      "price": 0.1953,
-      "change": -0.0032,
-      "changePercent": -1.622
+      "price": 0.1952,
+      "change": -0.0033,
+      "changePercent": -1.6724
     },
     "EURTWD": {
-      "price": 36.868,
-      "change": -0.086,
-      "changePercent": -0.2327
+      "price": 36.847,
+      "change": -0.107,
+      "changePercent": -0.2896
     },
     "CNYTWD": {
-      "price": 4.7798,
+      "price": 4.7801,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4057.7,
-    "twd": 4219.0,
-    "tael": 158198.0,
-    "twdTotal": 131214.0,
-    "changePercent": 0.2743
+    "usd": 4061.6,
+    "twd": 4222.0,
+    "tael": 158331.0,
+    "twdTotal": 131324.0,
+    "changePercent": 0.3707
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXNTFoQlNoQS03VXNWUGJSd19hOGJSTzB3NmpOYnFBS05GMUdBc2J0VzByMlpDbGh3c1o2SjdOLWNmdkNnN1A5eFdUSUVGeGs?oc=5"
     },
     {
+      "title": "【0724台股盤後】美股科技股高檔拉回致台股大跌！台股大盤重挫 1,195 點尋求支撐；投本比排行：華星光、聯亞、大聯大 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxPejJ4YUR5WExNV3oyVFhsQkh6ZkNrUjNUY3JfbTI1YVJVOUNsdUplQ1BSRm5uX0ppZXlzbFRhcC1GYmVsU0hPVHE1RTVrN0lNendkQ3dlTGZVaUdCcUZudkJCX2hLNURFcng4ZWxuY2F2T0tleXdPVjZvSVFkMmhSTW51TE8zMlFMQlFETXdoSmtOc0dHa0ppRUIxc0tfWkJqVjNvYnRaXzJwUmxhazBUTE0yM29HV1B1c3ptdkRkT1JuZ3VYcFl2bldUU01GTXJ5OFJDT3VQZGVLYVJxdlYzWFZ2M0d0b3lNaFVVSko0NkdVNzNFWmFsdk5Ya3Nwd0ZEOHB5aWtlam0wcFpjNmdQcFJnWkpmc2QxcGt6emtrTVdXVDNiMVhvT2lkTlZKRlFxU1FpVTJUYXpWdzFTc2g0dzc1ZTN1eUFfbkQ1dVVVcHd5akRiM2lfbWhwMWI2VV9WZFNzdkxkdk5QaXg3SHk5NFgtbjRqQlI3V3hyRGtIVWNSaXVwWUhsRGMzdkhYSWhVM0ZCbnFiWUNMZnpvNFA5NW9LbUFCcFBRWHNRMFVRekdEWWY2ZU9DUmstZW43djVUM3pjWllqZTYxeG9uSnJDdmFHNzc0WDUzQjdzY1A5VGdUQWNReUloZmNyV2VtMmVSRlRUMXNqVXRtd3BzQ2hZNG1INFFGV3hCSjZtVExQYXFNZ0xuQVp2WjlycnJYdUR3VUE3b0p3NHR2aW5GUWd1cVVFOXdVRldkNnpOYk85VjV3UzVmVm9NYV9YdmxJbXhjRFhCMXduczBudnNJZ1dlTE44UUp4MWFQWGtsaWxJTGhpdDFXVmpwb200Qk9QbGowWWZYWXFfbWJLa1k?oc=5"
+    },
+    {
       "title": "黃金才大漲完就暴跌！「這些貴金屬」也完蛋 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84UnNiV3c3d3lLR1dSazluYVVleVZDOTI4U0t6SzZLcFNjNG1jM2NIQ2djSFdXT0J6dWswcWt6M1kwQU9HcmJ6SDEtUXBYdnJkWGdkYnpiQUQ2R25fNEdF0gFkQVVfeXFMUFhGSS01bFNxMDAwME5vWGRheGw4TU5oRl9xMG11Ny13enNkaHBkVEg3a2ZnNmxOYjlQLXl1VkRlWlZwYmZmWUVhbG5FUHZCS1hNVzVFNk4zeWpHT3A0bjZCTWJJYg?oc=5"
     },
     {
-      "title": "【0723台股盤後】台股大盤拉回回測月線展現強勁支撐！台股夜盤受美科技股崩跌影響下跌521點；外本比排行策略：緯創、合晶、聯一光---0724盤前｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi5gVBVV95cUxPSlhMX2p6ZjdJZEkzcE5HTmpKdGVBSDVkRHVzOWZ3LVF2TXh6UWtkZEtQS2JJLVFuZjBWallIYTZ4M1kwS1JIN005Yk1RN1hOTmM5QlFQV2Ixa1NfWlh5dnNWcU5Scm5GbDdHeG1tcFJndndKa00tMmdmcjBfbU1KRzI2RFhUVFM2REZJaVowQjN3N1hvLVoxMlg0TjRrNnJQeEtWYmJaVHpKMnI1ZC14M29FQTloYWhIeTYzSHNhZ2twN1JqajBKdHpuSlBHZUhyMXZTMGF0b05aWkVTdXgxYWtOalFhcjQ4ZnltMlhZSVNrNVNNb3RsclpaM2dGME5WZ1lXMU10WDRpSDNOb2xDR0VDSV9qZi1SNEw2TFBYWXBKSEl2c2c1bTZDN1BoN1UwSUEtSnJEV0dTNTYwb3lGMC0wZHFlNlh0N210T3JZTnZjd1BRckVUQno0dG9kUVUyNjdkM24wM0V5MXdXOXlCUU5uXzNsdHpRVDFxUkVwQzVKXzhaM2M2bVlBeXBsMGxVdU9NekhPQmU4MEpVcGdnWFljMFlaVGZFNGtqVmFCNDVEMkF1MzM0cklrekZQbS0yQVo5QS0tbUc5VWluZHkwRlJxX1lhdHdOM2drYUZvT0FObHpTcVUya01QN1U4R1RhRWp3WE13MzVSSkxfOHhfRTIwbnB1UHp6R3ByVFBFY1dRVURDdFdOYml3RXNKWXVGNjNkbFJJSnlwTXBLNWhKSFppdDcwSWhoTkFYMU5IanNVVHBiSkJ4RDV5SEZVVnFnR1lRcHc3OEFpa3hKNHVlNE5fX3gxZU1rdHBLdEVuM2w4dkRKUVJFMkxSVnlJS1hkRThsR0ZEWFRURTlfV3I5S0lPNVkyR2w5aTdQNklGLXo5MXgwYWltMU1WdjlWM2ZPVFE2WmJNRFoyZ3JFN2QzcGtYRTFVbXZfUGsyb1pYd1hiS0x6R2tBLUNUT1Fiak1lVHJVX2p3?oc=5"
+      "title": "台股摜破季線 三個月最低量撞上千點殺盤 油品風暴三董座親上火線｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPa3BQRzN2akNDQjk5ektsUGk0WS1Wd3YyR2NoZ0pVY2ZuTHZTOVRUSERPT3RGdDJkZ09oblRJSkZSeVJkWVc3T3FiWFRteXNGeUFMM3BvTFJXTnhTdHlOQkl5b20xcE1kM0RSOWdiQ3hDV0tKbEV1Y1UwcHR4M0JWdHMyWVZTUGhBU3o1dGRHNXV1cHB5MFBmZ3BnNHljVUhQYlktSjQzQ0lnVVpHUlFteW5aWkt6SmVJSXhGN1hHMjJlbUwzQ2dtUmljSGdIN3p4X1VvdXRHaThVSVg0ckp5VjB5eGszalViZU1VTTVYWGVvWXRkTjM2bjZ4NVVaZzZHX1NMQmo3RTlnMDBUM2FUZ21RMnlQSnc1elExb2s3RlpnRUVCaklWenc1VVMyNG9sMm9BUjgzd2U2UjRCZXU1a1pPdHVFem9KanpOSTVoMmhIdDFWYTN0VVN3Z3V5TGp1NllpZldLdG1ma1g0bVczNkNzVFZyVzVRV29lV1p0MUppeVlyRHFGR2Q2a1A0WXhQWmdTbnE0bm1LLUo3Mm93bUgxbEx0WHV3NjhrbmpFb2QyLUhvczFhbEtOM21EZzNlVktiM2lidi1pTDJDRl9PUDBPd0pFMkpPM2t5cmRLQkJ1OVlNekhkMmlIcEEyZkh0dWRRRHJUbmNqX1FY?oc=5"
     },
     {
-      "title": "台股成交量「3個月最低」！不到8千億元 分析師：一好一壞 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPMEVPcnBueGFIZkc1RDRwV0p2QXhIdHNZQ2oweUZlcWNGS2t6NWd4enlvQkEwMEhEeXhjMUFCc0RaYzRqSEFaZUpfNWZIMkNaQWVzWGNDTS01bFVXcFBLdDMzRjdQNVZSazRmRDFKVWUwU2FBS0lDalVITEpwbk8tTkMtWl9PNEljSHlfc0x5WkRqRHRRM0VVcmxHR0s2OHYzRlVsZjRtVUllRVZEQXZDc2ZRSkJFTHpSUU52VzNJMF9YMnJZOF85MXNFNmk3LTZiSDdZMkJvUm1JRTZJQWNWRWJVZ0FFTmJkOFRnSmhPd0FYV3JCM3Fmck5LUGtpcVZwOHV2VjBwQU85U0ROOVdQVUItMzBpcGtFa3YyZVFlYXpCVTdVekNTSVJTX1FyTnpiOWpMOE9sUzdLSHliclpHV3dLSWhrQzh0ektYNG05WVdkWmRnWThtWl9iSllMcVpBbTJuMWhyNFFRS1U0M3YzZ1BjQmlnbDRVOEhEc1BIcy1jaEk4WkpLNmhXTQ?oc=5"
+      "title": "Coinbase成比特幣安全聯盟創始成員 聚焦基建安全 - 台視全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdEVSS1JsdWtWRENKdlQyN3lJa3psWTAyellRZEJiV1FkUzM5eHdROWtTQ195dW9zV3V2RjB0NzYwdXdsVnctVlFZb0Z0TkNPVnZPOVNrd3FPUUczTm9oMW1Bc2dBM0U2VkdpWnkxaEI1ekVLRjlLRTVEanN4bHBWYWNybTkxdUZhWkVENmVqd19GUQ?oc=5"
     },
     {
       "title": "台股重挫為史上最大單日跌點 金管會回應了 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTmt5a1MxTnlWc2hrb1ZMSTY5Q0c1WVZla2lkc2hWSzZDempCZkY1YmdmU2J6SVpKY1ktM1hLY0tOOHRxSl9jVURWLW5la3BtS3RXRW9oV3Znd9IBX0FVX3lxTE54SFE0LW80NENpN05WZmpnWVM5N1NFMjI1NldFZGRBV2ozTWtsSzVzUmtCUkVmVXc4dXFpNEVldm1xMEtSbExYVzZCMkpGZjJUdGZwbktJVUl2cmNfTHFR?oc=5"
     },
     {
-      "title": "台股盤中震盪挫逾千點 跌破季線失守44000點 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80Q0JNSGZITk1sOWlXMnRTdzhSRmtFR0xKbElBaFRjNFlySzBqX2JiWmJIQzBmbU1WdXk1VmZyNG1Jb2QtUk1raHFsLUpsZHFTQjR0djBBZ1hpSi1FU2c?oc=5"
+      "title": "拆解台股暴跌真相 AI基本面還可信？如何買黑不買紅？ - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FemlhQzB0SlNJSENmWE96ZWJRNjlJNUhCa3hjUHE3aTlUdHZoSURPY3ZoVWVoNWE0WldOeWhjMTdqMkxBU0g0a0t2VjEtdw?oc=5"
     },
     {
       "title": "快訊／台股收盤大跌1195.97點　台積電跌55元至2350 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00alhJb0duN3lWRnIteFRyQkw4ZnRTMGJMSkI4QlJpaEhEZmdyeWdhQTdZaG1GWDF6Mi1NVEEyc0t0dFlTanJxY3hGS1gwS0FiVUHSAVBBVV95cUxPZnY3ZlBBMnFIU3pFcDZhV24xTlJEMXJqZ0JGRGFDN254dXkzV1RkY2U2Z2ota2NfT3hxN3hhVEU3LXF6NUpBb1NlckxTTmRtTw?oc=5"
-    },
-    {
-      "title": "美股收盤》油價飆、AI支出疑慮升！道瓊跌逾500點 台積電ADR收低 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVTlFrUkk0LVpsU0VTT3Z2WmhkaFVZbkJVYXdmME92YkVYZ1JMZHNmY0dUYnpQa0xjeUlBYnZuZ1NwbkZUR1hrQk5WSjVLWGNrQzZxZE0weEVnTjhWX1NJ0gFkQVVfeXFMTWxfbFRjX0ZRTDRuOGZjeFZNLXV5T1oxWmZiNmlkTThSM1pEM3V6U2hlUFY3S2YxVzFWWWRES1dHeG43YVhWRFRPbDh0TFMxN0NVUVpacWI1SUZFLTNrbkdwU1lpLQ?oc=5"
     }
   ]
 }
