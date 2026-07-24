@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/24 21:06",
+  "updated_tw": "07/24 23:05",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -35,87 +35,91 @@
   },
   "us": {
     "NVDA": {
-      "price": 208.76,
-      "change": -3.3,
-      "changePercent": -1.5562
+      "price": 209.11,
+      "change": 0.35,
+      "changePercent": 0.1677
     },
     "AAPL": {
-      "price": 321.66,
-      "change": -4.23,
-      "changePercent": -1.298
+      "price": 330.3,
+      "change": 8.64,
+      "changePercent": 2.6861
     },
     "TSLA": {
-      "price": 319.69,
-      "change": -54.32,
-      "changePercent": -14.5237
+      "price": 310.42,
+      "change": -9.27,
+      "changePercent": -2.8997
     },
     "QQQ": {
-      "price": 691.96,
-      "change": -13.39,
-      "changePercent": -1.8983
+      "price": 687.39,
+      "change": -4.57,
+      "changePercent": -0.6604
     },
     "SPY": {
-      "price": 738.18,
-      "change": -9.23,
-      "changePercent": -1.2349
+      "price": 740.32,
+      "change": 2.14,
+      "changePercent": 0.2899
     },
     "SCHD": {
-      "price": 32.8,
-      "change": -0.1,
-      "changePercent": -0.304
+      "price": 33.21,
+      "change": 0.41,
+      "changePercent": 1.25
     },
     "VOO": {
-      "price": 678.61,
-      "change": -8.42,
-      "changePercent": -1.2256
+      "price": 680.46,
+      "change": 1.85,
+      "changePercent": 0.2726
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64492.23,
-      "change": -552.5825,
-      "changePercent": -0.8495
+      "price": 63925.97,
+      "change": -1118.8425,
+      "changePercent": -1.7201
     },
     "ETH": {
-      "price": 1864.63,
-      "change": -12.4702,
-      "changePercent": -0.6643
+      "price": 1848.24,
+      "change": -28.8602,
+      "changePercent": -1.5375
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.361,
-      "change": -0.0181,
-      "changePercent": -0.0559
+      "price": 32.351,
+      "change": -0.0281,
+      "changePercent": -0.0868
     },
     "JPYTWD": {
-      "price": 0.1953,
-      "change": -0.0032,
-      "changePercent": -1.622
+      "price": 0.1954,
+      "change": -0.0031,
+      "changePercent": -1.5716
     },
     "EURTWD": {
-      "price": 36.84,
-      "change": -0.114,
-      "changePercent": -0.3085
+      "price": 36.856,
+      "change": -0.098,
+      "changePercent": -0.2652
     },
     "CNYTWD": {
-      "price": 4.7836,
+      "price": 4.7819,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4056.0,
-    "twd": 4220.0,
-    "tael": 158249.0,
-    "twdTotal": 131256.0,
-    "changePercent": 0.2323
+    "usd": 4064.7,
+    "twd": 4228.0,
+    "tael": 158540.0,
+    "twdTotal": 131497.0,
+    "changePercent": 0.4473
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "美股早盤震盪！費半狂瀉近400點　台指期夜盤跟跌 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15YjRTVUlROVh1SkxkX0ZJUGxUSzZTbjMzRlQzMmR6WV9EOE9ZZTF6aUVUanhSMzFtdUdfYUJZQUZob0ROYkZFczFxSWdBbWNBVXfSAVBBVV95cUxQRl9QTWh2NUk1cnNHRjFieUlDUG5TblNhZVIydkFZaUVwVmMzT1Vmek96cVhoX05xSVE0ZWE3cUI2WlZaREVGRVpjOUplaXlGWg?oc=5"
+    },
     {
       "title": "〈美股盤後〉Alphabet、特斯拉暴跌 布油飆破百美元 四大指數收黑 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXNTFoQlNoQS03VXNWUGJSd19hOGJSTzB3NmpOYnFBS05GMUdBc2J0VzByMlpDbGh3c1o2SjdOLWNmdkNnN1A5eFdUSUVGeGs?oc=5"
@@ -125,24 +129,20 @@
       "link": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxPejJ4YUR5WExNV3oyVFhsQkh6ZkNrUjNUY3JfbTI1YVJVOUNsdUplQ1BSRm5uX0ppZXlzbFRhcC1GYmVsU0hPVHE1RTVrN0lNendkQ3dlTGZVaUdCcUZudkJCX2hLNURFcng4ZWxuY2F2T0tleXdPVjZvSVFkMmhSTW51TE8zMlFMQlFETXdoSmtOc0dHa0ppRUIxc0tfWkJqVjNvYnRaXzJwUmxhazBUTE0yM29HV1B1c3ptdkRkT1JuZ3VYcFl2bldUU01GTXJ5OFJDT3VQZGVLYVJxdlYzWFZ2M0d0b3lNaFVVSko0NkdVNzNFWmFsdk5Ya3Nwd0ZEOHB5aWtlam0wcFpjNmdQcFJnWkpmc2QxcGt6emtrTVdXVDNiMVhvT2lkTlZKRlFxU1FpVTJUYXpWdzFTc2g0dzc1ZTN1eUFfbkQ1dVVVcHd5akRiM2lfbWhwMWI2VV9WZFNzdkxkdk5QaXg3SHk5NFgtbjRqQlI3V3hyRGtIVWNSaXVwWUhsRGMzdkhYSWhVM0ZCbnFiWUNMZnpvNFA5NW9LbUFCcFBRWHNRMFVRekdEWWY2ZU9DUmstZW43djVUM3pjWllqZTYxeG9uSnJDdmFHNzc0WDUzQjdzY1A5VGdUQWNReUloZmNyV2VtMmVSRlRUMXNqVXRtd3BzQ2hZNG1INFFGV3hCSjZtVExQYXFNZ0xuQVp2WjlycnJYdUR3VUE3b0p3NHR2aW5GUWd1cVVFOXdVRldkNnpOYk85VjV3UzVmVm9NYV9YdmxJbXhjRFhCMXduczBudnNJZ1dlTE44UUp4MWFQWGtsaWxJTGhpdDFXVmpwb200Qk9QbGowWWZYWXFfbWJLa1k?oc=5"
     },
     {
+      "title": "台股又有3檔被抓去關！「最強妖股」連拉6根漲停入列、「這無人機大廠」也在名單上 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQRGpsUHJ1YU80WHpCVHVjaFZXWXhVT3ktTTc1V3RpbkNTNWRzTkZvUXRoRllKNHM5SnVnYjgwM1ZDTzJ6X0JyX3B4SUFCcElPbndFakJlczF6UFVVQVc5aFhkYnJoVUZXdmlFQU0zZFNFOHJ6QzFadm9vYUgxUm50ekFFZVhrcW96ZkxmRmQ3RUNyQVA5RlBfRnBDWF94MGNDVl9hd1dPcXJuajJqRWt5dTFmUG50ZTFTRXB2NzZCMlBmVllYSksxV2VXTEwwZV9KQjlqaTB5ZGppbDlVaUpZVDJTYkV3LVY4VFNkenhqbW93ZlpPQS1KZHFOZkQ3SERqcnVKT29NNFVqRGthYnZIREpHSmJHSE5kOXhIX0xQaElmeTFRWl9yQzEtTkt1Qk5Bd3pvNllOaVlZbU1uQThaN0lKWmRSWEFBQXVrUzJsa1RTQ1BUejZjQ3B4M0NUVmtyYUp6U0M0RDVHTE53bGFudDgyWlUtemJKTUNoREhVR1F4OFE5WWRZX09RVzlScG9HSzd5bThralVqS2kzcHpZd2ZmSER0b1ViRWlwbXBtNFZLTVhKQWhfTjRoSmZWUnN2dVFXQ1BITHRKcUo4X2lYZl9NZFdRdjg?oc=5"
+    },
+    {
       "title": "黃金才大漲完就暴跌！「這些貴金屬」也完蛋 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84UnNiV3c3d3lLR1dSazluYVVleVZDOTI4U0t6SzZLcFNjNG1jM2NIQ2djSFdXT0J6dWswcWt6M1kwQU9HcmJ6SDEtUXBYdnJkWGdkYnpiQUQ2R25fNEdF0gFkQVVfeXFMUFhGSS01bFNxMDAwME5vWGRheGw4TU5oRl9xMG11Ny13enNkaHBkVEg3a2ZnNmxOYjlQLXl1VkRlWlZwYmZmWUVhbG5FUHZCS1hNVzVFNk4zeWpHT3A0bjZCTWJJYg?oc=5"
     },
     {
-      "title": "台股摜破季線 三個月最低量撞上千點殺盤 油品風暴三董座親上火線｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPa3BQRzN2akNDQjk5ektsUGk0WS1Wd3YyR2NoZ0pVY2ZuTHZTOVRUSERPT3RGdDJkZ09oblRJSkZSeVJkWVc3T3FiWFRteXNGeUFMM3BvTFJXTnhTdHlOQkl5b20xcE1kM0RSOWdiQ3hDV0tKbEV1Y1UwcHR4M0JWdHMyWVZTUGhBU3o1dGRHNXV1cHB5MFBmZ3BnNHljVUhQYlktSjQzQ0lnVVpHUlFteW5aWkt6SmVJSXhGN1hHMjJlbUwzQ2dtUmljSGdIN3p4X1VvdXRHaThVSVg0ckp5VjB5eGszalViZU1VTTVYWGVvWXRkTjM2bjZ4NVVaZzZHX1NMQmo3RTlnMDBUM2FUZ21RMnlQSnc1elExb2s3RlpnRUVCaklWenc1VVMyNG9sMm9BUjgzd2U2UjRCZXU1a1pPdHVFem9KanpOSTVoMmhIdDFWYTN0VVN3Z3V5TGp1NllpZldLdG1ma1g0bVczNkNzVFZyVzVRV29lV1p0MUppeVlyRHFGR2Q2a1A0WXhQWmdTbnE0bm1LLUo3Mm93bUgxbEx0WHV3NjhrbmpFb2QyLUhvczFhbEtOM21EZzNlVktiM2lidi1pTDJDRl9PUDBPd0pFMkpPM2t5cmRLQkJ1OVlNekhkMmlIcEEyZkh0dWRRRHJUbmNqX1FY?oc=5"
+      "title": "美股早盤／國際油價回落！三大指數平盤遊走 費半指數跌0.8% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuMVYxU3VVNTAxT0ZqX1JJX0ZaUVBTZ0R3aHdtSkVBaUZINEp3Y0NMblFlekhOX3lMXzVETExwOW5iQ2VHNldRdjl0dmN4SXd1?oc=5"
     },
     {
       "title": "拆解台股暴跌真相 AI基本面還可信？如何買黑不買紅？ - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FemlhQzB0SlNJSENmWE96ZWJRNjlJNUhCa3hjUHE3aTlUdHZoSURPY3ZoVWVoNWE0WldOeWhjMTdqMkxBU0g0a0t2VjEtdw?oc=5"
-    },
-    {
-      "title": "台股大跌逾千點！陳重銘預估第3季走勢：4萬2至4萬8區間盤整| 台股雜談| 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhUFVNaXVWSFlWNlRlck9CNUFOMmtRTGFuanFPLXVpMHhnRFpLT1FmMXJWOVBKekNXWUs1a1pIZHpIeVV2a0ZybW14QTI0akd3LUE?oc=5"
-    },
-    {
-      "title": "比特幣市場回暖了嗎？從鏈上數據「4 大訊號」看反彈真相 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWGNUNk9UaThYQmF6Z2FVYThBVDZxc0lidlB4aUE3REE2bi0xMDY4SjRLZ0FlVkFkX2NmOGxfZDNqWjBJNmlGRGpfZjYzWkdiNFFCdUFGcGxFT0lCX014NFFGeUxoWWNIenkxNThmWUsxQUJIU085aUZVRzNpWmxRSWlkZVRmOU5uT2VjdnZOSEdZa05kb1VtSS1lVQ?oc=5"
     },
     {
       "title": "聖石金業吸金181億38人遭起訴 黃金投資話術騙逾5百人 - 公視新聞網PNN",
