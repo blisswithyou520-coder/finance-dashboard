@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/24 12:31",
+  "updated_tw": "07/24 15:17",
   "taiwan": {
     "2330": {
-      "price": 2355.0,
-      "change": -50.0,
-      "changePercent": -2.079
+      "price": 2350.0,
+      "change": -55.0,
+      "changePercent": -2.2869
     },
     "2454": {
-      "price": 3795.0,
-      "change": -80.0,
-      "changePercent": -2.0645
+      "price": 3750.0,
+      "change": -125.0,
+      "changePercent": -3.2258
     },
     "2317": {
-      "price": 252.0,
-      "change": -5.5,
-      "changePercent": -2.1359
+      "price": 252.5,
+      "change": -5.0,
+      "changePercent": -1.9417
     },
     "0050": {
-      "price": 101.5,
-      "change": -2.35,
-      "changePercent": -2.2629
+      "price": 101.7,
+      "change": -2.2,
+      "changePercent": -2.1174
     },
     "00878": {
-      "price": 32.53,
-      "change": -0.19,
-      "changePercent": -0.5807
+      "price": 32.61,
+      "change": -0.12,
+      "changePercent": -0.3666
     },
     "00919": {
-      "price": 29.44,
-      "change": -0.02,
-      "changePercent": -0.0679
+      "price": 29.49,
+      "change": -0.01,
+      "changePercent": -0.0339
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65349.31,
-      "change": -751.4869,
-      "changePercent": -1.1369
+      "price": 65722.14,
+      "change": 677.3275,
+      "changePercent": 1.0413
     },
     "ETH": {
-      "price": 1878.62,
-      "change": -54.8701,
-      "changePercent": -2.8379
+      "price": 1902.85,
+      "change": 25.7498,
+      "changePercent": 1.3718
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.371,
-      "change": -0.0081,
-      "changePercent": -0.025
+      "price": 32.345,
+      "change": -0.0341,
+      "changePercent": -0.1053
     },
     "JPYTWD": {
-      "price": 0.1953,
-      "change": -0.0032,
-      "changePercent": -1.622
+      "price": 0.1954,
+      "change": -0.0031,
+      "changePercent": -1.5716
     },
     "EURTWD": {
-      "price": 36.866,
-      "change": -0.088,
-      "changePercent": -0.2382
+      "price": 36.893,
+      "change": -0.061,
+      "changePercent": -0.1651
     },
     "CNYTWD": {
-      "price": 4.782,
+      "price": 4.7805,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4030.7,
-    "twd": 4195.0,
-    "tael": 157311.0,
-    "twdTotal": 130478.0,
-    "changePercent": -0.3929
+    "usd": 4044.6,
+    "twd": 4206.0,
+    "tael": 157727.0,
+    "twdTotal": 130823.0,
+    "changePercent": -0.0494
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84UnNiV3c3d3lLR1dSazluYVVleVZDOTI4U0t6SzZLcFNjNG1jM2NIQ2djSFdXT0J6dWswcWt6M1kwQU9HcmJ6SDEtUXBYdnJkWGdkYnpiQUQ2R25fNEdF0gFkQVVfeXFMUFhGSS01bFNxMDAwME5vWGRheGw4TU5oRl9xMG11Ny13enNkaHBkVEg3a2ZnNmxOYjlQLXl1VkRlWlZwYmZmWUVhbG5FUHZCS1hNVzVFNk4zeWpHT3A0bjZCTWJJYg?oc=5"
     },
     {
-      "title": "美股拖累台指期！夜盤高低點震逾970點失守45K - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KUnFuWE9sWHFKVWNGQTdwaV9HUVYzbWxYS1pnNG1jbHhObmliZGhKVXZwOFZkWXJYMEd5Nm0tenVUT2ZTYnZ3RjRpZi0xbEVaMlNNWFZ2RDA5Q2vSAWBBVV95cUxQVkNOQXdWRWtnVUxlbGg1VnBPZzRUaF9nbkVfX1U4dl9PMnB5OWItcHZHU0thenpWOGljQm5zU1hpUjQyU0tIUi1VV2M1aU51SjVQSHpTRGFHMGNWTEo0WXc?oc=5"
-    },
-    {
-      "title": "AI燒錢引爆質疑！Google、特斯拉股價重挫 美股4大指數血流成河 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQYkI4VGdQUWJ1ZlpacEtxY0JtcEhLeHVtdGFNUGNWNUJudmc3dXgxWE5hdnRadUIwbG5rRnMxdEw1bEY0Rmo0UkxWc045Nzd1YnBKc09PcnpORDVNSGtwMjJTc3dueXUtdEhfMGFSd0xTN1UxOFRzelVMNFZ3SDdza2tiX1RqbEF0cG4wSllwc0hoZkEyVU9xbjlUZVI3cmp3NWVYQjRfdTNYLXJWaE5oMFV2aFJsUENoWnFhb0p5MUdxSzV1aEZYZ0dJVWlwS1lYRjJIcHpEa1dVVjZRVDJOLVo5Z1RwUzQyY0twY0R6bzlkVHJxQjFKbnFBbTJNZDU2TUFVQlhwQTQ4d3dyYTZqV0Vnc2IycWZUZFhzcFlZZVhNWkFBNVRiZG04NmVSZVo4endBbExzWi1RUm1qY3JYdkJVZjA2NFc0dlJSWk5UaGIzX010aERVQzVTNW5VMWpZRzhDSTBrdnNSLVFwUzh6QjdvWQ?oc=5"
-    },
-    {
       "title": "【0723台股盤後】台股大盤拉回回測月線展現強勁支撐！台股夜盤受美科技股崩跌影響下跌521點；外本比排行策略：緯創、合晶、聯一光---0724盤前｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMihwZBVV95cUxNR3VLS3EzYlFOVW9VS3IzdTdQY3VPakVia0ZmYVpGZEU1eDgyaTlSN3U5Nm9OcUJMYnlzUGJGaEZDbmFGWTAxZU1JbUpodzFpaGRrUFdaU1l0eWdjRFd5N3dJbWNMRnRyQV9ORHQ1LUN2MHVfOHotSkRYbWk4djFHVFF1NzJPdjBJTjdWQkJHaExFMW9IMzlvRmJqSkxRVHBjcW5mTHEya2dfbmxud0V5R3YxXzZoakxHZjRRLThtbjhTSy1KbFRCRGFVSXFEWEZoSVZFNW4zbEJwSlRuNS0xb2JHRFhDMkNSSFdsMXhhbmtIZmt3Y2JsVUtPNE9LVTNTd3AtcVlxUXNEcENZcHZMWjlPZ1FCQXJPVVZXOHVBNVZ2LXduOWdMZm5MUlY4Z2lTUnp6ZGhVMXFmNDJuWVRIb2JDTGdUSDVPQ2RTUUpQZmlWMzNXWWxEckpvX1hVb3pfci02UHZ0RzdaVzhRSDVsYnNlMHN3dDJITFpWa21TY2xIVjhGdUVXMTJZcm1kUVliWlVOakVDblF3ZmhocjdpLXhwRzBtNFZEemR3OEs4OXNFU0x2a3lVcDBiNmVsQTZEU1JyVUN3U3pHVFlCcUg0cEZrMnh0MDgyZ2JRTFQ3RHlEY2dNaTVBNVNvVVVXMjRkOHd4MFhMMzM1RTQzczFyQmRuWFVHbFFJUUNtT3hoR0VPTkp1bUt1dGNCRzY2NnVTZlZLbUk5eDVGQ2Zoam1GaVY0YTBQU2l0WWl4WkZhc0JWXzBSZzQyNEdyZERMNWZZSVZxWVVZZ2pfaXctenpnVUZnSFFUMnVpQWFkeWNjZVhQcV9NV28wVlRhTjJWTElIdHFCWmZNVXVNQjlKZHNoUnd0eU9wb3hBalpMVVk4TzdLQzExSmZNLVRLT3c3V2g4Z2h5M05Jb1VrOUdIT3hwQW9TWnFicDExSHFhamtWMm0yWmhzdTNLR3c5TC1mY3JYMnN4eE9HV3ZFV1BLa0xVWVRPVldnLVVETTFIdXJ2bkFyTTZhQlBF?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi5gVBVV95cUxPSlhMX2p6ZjdJZEkzcE5HTmpKdGVBSDVkRHVzOWZ3LVF2TXh6UWtkZEtQS2JJLVFuZjBWallIYTZ4M1kwS1JIN005Yk1RN1hOTmM5QlFQV2Ixa1NfWlh5dnNWcU5Scm5GbDdHeG1tcFJndndKa00tMmdmcjBfbU1KRzI2RFhUVFM2REZJaVowQjN3N1hvLVoxMlg0TjRrNnJQeEtWYmJaVHpKMnI1ZC14M29FQTloYWhIeTYzSHNhZ2twN1JqajBKdHpuSlBHZUhyMXZTMGF0b05aWkVTdXgxYWtOalFhcjQ4ZnltMlhZSVNrNVNNb3RsclpaM2dGME5WZ1lXMU10WDRpSDNOb2xDR0VDSV9qZi1SNEw2TFBYWXBKSEl2c2c1bTZDN1BoN1UwSUEtSnJEV0dTNTYwb3lGMC0wZHFlNlh0N210T3JZTnZjd1BRckVUQno0dG9kUVUyNjdkM24wM0V5MXdXOXlCUU5uXzNsdHpRVDFxUkVwQzVKXzhaM2M2bVlBeXBsMGxVdU9NekhPQmU4MEpVcGdnWFljMFlaVGZFNGtqVmFCNDVEMkF1MzM0cklrekZQbS0yQVo5QS0tbUc5VWluZHkwRlJxX1lhdHdOM2drYUZvT0FObHpTcVUya01QN1U4R1RhRWp3WE13MzVSSkxfOHhfRTIwbnB1UHp6R3ByVFBFY1dRVURDdFdOYml3RXNKWXVGNjNkbFJJSnlwTXBLNWhKSFppdDcwSWhoTkFYMU5IanNVVHBiSkJ4RDV5SEZVVnFnR1lRcHc3OEFpa3hKNHVlNE5fX3gxZU1rdHBLdEVuM2w4dkRKUVJFMkxSVnlJS1hkRThsR0ZEWFRURTlfV3I5S0lPNVkyR2w5aTdQNklGLXo5MXgwYWltMU1WdjlWM2ZPVFE2WmJNRFoyZ3JFN2QzcGtYRTFVbXZfUGsyb1pYd1hiS0x6R2tBLUNUT1Fiak1lVHJVX2p3?oc=5"
     },
     {
-      "title": "黃金長期投資價值穩固金礦股可望成為受惠者- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUEduaVZOSkFhcFFyMUJlbGo0ZG9zQ2w4SDFYc3BtQzRhVEpSNjdCdmhtdW5IOHQ1Rl9mYnBsREk4ZlUtZ3loZjRDQXhycF9CVFlSNWpRV2lGX1RUSUFrVC1IME4xS1RNSVFPMnlqVFk0dWFvYUtjaG0tRzM1UU1mcnZGa0xxRnlpMGxtblFURk8wUQ?oc=5"
+      "title": "台股成交量「3個月最低」！不到8千億元 分析師：一好一壞 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPMEVPcnBueGFIZkc1RDRwV0p2QXhIdHNZQ2oweUZlcWNGS2t6NWd4enlvQkEwMEhEeXhjMUFCc0RaYzRqSEFaZUpfNWZIMkNaQWVzWGNDTS01bFVXcFBLdDMzRjdQNVZSazRmRDFKVWUwU2FBS0lDalVITEpwbk8tTkMtWl9PNEljSHlfc0x5WkRqRHRRM0VVcmxHR0s2OHYzRlVsZjRtVUllRVZEQXZDc2ZRSkJFTHpSUU52VzNJMF9YMnJZOF85MXNFNmk3LTZiSDdZMkJvUm1JRTZJQWNWRWJVZ0FFTmJkOFRnSmhPd0FYV3JCM3Fmck5LUGtpcVZwOHV2VjBwQU85U0ROOVdQVUItMzBpcGtFa3YyZVFlYXpCVTdVekNTSVJTX1FyTnpiOWpMOE9sUzdLSHliclpHV3dLSWhrQzh0ektYNG05WVdkWmRnWThtWl9iSllMcVpBbTJuMWhyNFFRS1U0M3YzZ1BjQmlnbDRVOEhEc1BIcy1jaEk4WkpLNmhXTQ?oc=5"
     },
     {
-      "title": "AI軍備賽！谷歌、特斯拉狂燒錢美股巨頭現金流警報大響- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ubzZJTEp3WlBrdV9zWTgyb2hSREU1Q0tjVHhfMktpN0dyMmU1a3Nvb0twbEd3YnppX19yQlZJMDdORXJWMHlySGxidzFUT1pPTUlrSmJWUDdGcmR5WUtv?oc=5"
+      "title": "美股早盤／字母燒錢兇…布蘭特升破100美元指數盡墨、美債受壓| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43RXA0VWNiaHk0a1FmTXJ1ajB3YWtWQmc3SFZHQk1YeUZhWU9leEgzLVk3bWxIWG9ZSkh4a0ExWE10cmdaRXZaVVZZUS1wX0ZK?oc=5"
     },
     {
       "title": "台股盤中震盪挫逾千點 跌破季線失守44000點 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80Q0JNSGZITk1sOWlXMnRTdzhSRmtFR0xKbElBaFRjNFlySzBqX2JiWmJIQzBmbU1WdXk1VmZyNG1Jb2QtUk1raHFsLUpsZHFTQjR0djBBZ1hpSi1FU2c?oc=5"
+    },
+    {
+      "title": "台股跌千點！避險資金湧向ETF　3檔台股ETF交易量居前三 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MQUxMUWktZENkRF9ud0xPdW9GWnpBTkdJSF83M3Y0dHpGMjZDVUowVWVOLW1WZ1VDMXRvQ0U3ZTJGcVYwV0hFOUpjQlEyNVg2SlHSAVBBVV95cUxNM0RyMm5nTXNZV2pQYUpMeTFCekdRZzdndVVaMWVrNVNOR0xBNmJMcXVydjdtZW1sMUdhbXRIU2g1X0Q5UHdWbXNWSzNvZlBubw?oc=5"
+    },
+    {
+      "title": "黃金長期投資價值穩固金礦股可望成為受惠者- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUEduaVZOSkFhcFFyMUJlbGo0ZG9zQ2w4SDFYc3BtQzRhVEpSNjdCdmhtdW5IOHQ1Rl9mYnBsREk4ZlUtZ3loZjRDQXhycF9CVFlSNWpRV2lGX1RUSUFrVC1IME4xS1RNSVFPMnlqVFk0dWFvYUtjaG0tRzM1UU1mcnZGa0xxRnlpMGxtblFURk8wUQ?oc=5"
     }
   ]
 }
