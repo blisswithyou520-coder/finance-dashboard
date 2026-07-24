@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/24 15:17",
+  "updated_tw": "07/24 17:53",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65722.14,
-      "change": 677.3275,
-      "changePercent": 1.0413
+      "price": 65071.79,
+      "change": 26.9775,
+      "changePercent": 0.0415
     },
     "ETH": {
-      "price": 1902.85,
-      "change": 25.7498,
-      "changePercent": 1.3718
+      "price": 1886.83,
+      "change": 9.7298,
+      "changePercent": 0.5183
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.345,
-      "change": -0.0341,
-      "changePercent": -0.1053
+      "price": 32.337,
+      "change": -0.0421,
+      "changePercent": -0.13
     },
     "JPYTWD": {
-      "price": 0.1954,
-      "change": -0.0031,
-      "changePercent": -1.5716
+      "price": 0.1953,
+      "change": -0.0032,
+      "changePercent": -1.622
     },
     "EURTWD": {
-      "price": 36.893,
-      "change": -0.061,
-      "changePercent": -0.1651
+      "price": 36.868,
+      "change": -0.086,
+      "changePercent": -0.2327
     },
     "CNYTWD": {
-      "price": 4.7805,
+      "price": 4.7798,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4044.6,
-    "twd": 4206.0,
-    "tael": 157727.0,
-    "twdTotal": 130823.0,
-    "changePercent": -0.0494
+    "usd": 4057.7,
+    "twd": 4219.0,
+    "tael": 158198.0,
+    "twdTotal": 131214.0,
+    "changePercent": 0.2743
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPMEVPcnBueGFIZkc1RDRwV0p2QXhIdHNZQ2oweUZlcWNGS2t6NWd4enlvQkEwMEhEeXhjMUFCc0RaYzRqSEFaZUpfNWZIMkNaQWVzWGNDTS01bFVXcFBLdDMzRjdQNVZSazRmRDFKVWUwU2FBS0lDalVITEpwbk8tTkMtWl9PNEljSHlfc0x5WkRqRHRRM0VVcmxHR0s2OHYzRlVsZjRtVUllRVZEQXZDc2ZRSkJFTHpSUU52VzNJMF9YMnJZOF85MXNFNmk3LTZiSDdZMkJvUm1JRTZJQWNWRWJVZ0FFTmJkOFRnSmhPd0FYV3JCM3Fmck5LUGtpcVZwOHV2VjBwQU85U0ROOVdQVUItMzBpcGtFa3YyZVFlYXpCVTdVekNTSVJTX1FyTnpiOWpMOE9sUzdLSHliclpHV3dLSWhrQzh0ektYNG05WVdkWmRnWThtWl9iSllMcVpBbTJuMWhyNFFRS1U0M3YzZ1BjQmlnbDRVOEhEc1BIcy1jaEk4WkpLNmhXTQ?oc=5"
     },
     {
-      "title": "美股早盤／字母燒錢兇…布蘭特升破100美元指數盡墨、美債受壓| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43RXA0VWNiaHk0a1FmTXJ1ajB3YWtWQmc3SFZHQk1YeUZhWU9leEgzLVk3bWxIWG9ZSkh4a0ExWE10cmdaRXZaVVZZUS1wX0ZK?oc=5"
+      "title": "台股重挫為史上最大單日跌點 金管會回應了 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTmt5a1MxTnlWc2hrb1ZMSTY5Q0c1WVZla2lkc2hWSzZDempCZkY1YmdmU2J6SVpKY1ktM1hLY0tOOHRxSl9jVURWLW5la3BtS3RXRW9oV3Znd9IBX0FVX3lxTE54SFE0LW80NENpN05WZmpnWVM5N1NFMjI1NldFZGRBV2ozTWtsSzVzUmtCUkVmVXc4dXFpNEVldm1xMEtSbExYVzZCMkpGZjJUdGZwbktJVUl2cmNfTHFR?oc=5"
     },
     {
       "title": "台股盤中震盪挫逾千點 跌破季線失守44000點 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80Q0JNSGZITk1sOWlXMnRTdzhSRmtFR0xKbElBaFRjNFlySzBqX2JiWmJIQzBmbU1WdXk1VmZyNG1Jb2QtUk1raHFsLUpsZHFTQjR0djBBZ1hpSi1FU2c?oc=5"
     },
     {
-      "title": "台股跌千點！避險資金湧向ETF　3檔台股ETF交易量居前三 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MQUxMUWktZENkRF9ud0xPdW9GWnpBTkdJSF83M3Y0dHpGMjZDVUowVWVOLW1WZ1VDMXRvQ0U3ZTJGcVYwV0hFOUpjQlEyNVg2SlHSAVBBVV95cUxNM0RyMm5nTXNZV2pQYUpMeTFCekdRZzdndVVaMWVrNVNOR0xBNmJMcXVydjdtZW1sMUdhbXRIU2g1X0Q5UHdWbXNWSzNvZlBubw?oc=5"
+      "title": "快訊／台股收盤大跌1195.97點　台積電跌55元至2350 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00alhJb0duN3lWRnIteFRyQkw4ZnRTMGJMSkI4QlJpaEhEZmdyeWdhQTdZaG1GWDF6Mi1NVEEyc0t0dFlTanJxY3hGS1gwS0FiVUHSAVBBVV95cUxPZnY3ZlBBMnFIU3pFcDZhV24xTlJEMXJqZ0JGRGFDN254dXkzV1RkY2U2Z2ota2NfT3hxN3hhVEU3LXF6NUpBb1NlckxTTmRtTw?oc=5"
     },
     {
-      "title": "黃金長期投資價值穩固金礦股可望成為受惠者- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUEduaVZOSkFhcFFyMUJlbGo0ZG9zQ2w4SDFYc3BtQzRhVEpSNjdCdmhtdW5IOHQ1Rl9mYnBsREk4ZlUtZ3loZjRDQXhycF9CVFlSNWpRV2lGX1RUSUFrVC1IME4xS1RNSVFPMnlqVFk0dWFvYUtjaG0tRzM1UU1mcnZGa0xxRnlpMGxtblFURk8wUQ?oc=5"
+      "title": "美股收盤》油價飆、AI支出疑慮升！道瓊跌逾500點 台積電ADR收低 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVTlFrUkk0LVpsU0VTT3Z2WmhkaFVZbkJVYXdmME92YkVYZ1JMZHNmY0dUYnpQa0xjeUlBYnZuZ1NwbkZUR1hrQk5WSjVLWGNrQzZxZE0weEVnTjhWX1NJ0gFkQVVfeXFMTWxfbFRjX0ZRTDRuOGZjeFZNLXV5T1oxWmZiNmlkTThSM1pEM3V6U2hlUFY3S2YxVzFWWWRES1dHeG43YVhWRFRPbDh0TFMxN0NVUVpacWI1SUZFLTNrbkdwU1lpLQ?oc=5"
     }
   ]
 }
