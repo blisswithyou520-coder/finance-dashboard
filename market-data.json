@@ -1,73 +1,73 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/24 23:05",
+  "updated_tw": "07/25 00:57",
   "taiwan": {
     "2330": {
       "price": 2350.0,
-      "change": -55.0,
-      "changePercent": -2.2869
+      "change": -50.0,
+      "changePercent": -2.0833
     },
     "2454": {
       "price": 3750.0,
-      "change": -125.0,
-      "changePercent": -3.2258
+      "change": -100.0,
+      "changePercent": -2.5974
     },
     "2317": {
       "price": 252.5,
-      "change": -5.0,
-      "changePercent": -1.9417
+      "change": 1.0,
+      "changePercent": 0.3976
     },
     "0050": {
       "price": 101.7,
-      "change": -2.2,
-      "changePercent": -2.1174
+      "change": -2.15,
+      "changePercent": -2.0703
     },
     "00878": {
       "price": 32.61,
-      "change": -0.12,
-      "changePercent": -0.3666
+      "change": -0.11,
+      "changePercent": -0.3362
     },
     "00919": {
       "price": 29.49,
-      "change": -0.01,
-      "changePercent": -0.0339
+      "change": 0.03,
+      "changePercent": 0.1018
     }
   },
   "us": {
     "NVDA": {
-      "price": 209.11,
-      "change": 0.35,
-      "changePercent": 0.1677
+      "price": 210.17,
+      "change": 1.41,
+      "changePercent": 0.6754
     },
     "AAPL": {
-      "price": 330.3,
-      "change": 8.64,
-      "changePercent": 2.6861
+      "price": 332.925,
+      "change": 11.265,
+      "changePercent": 3.5021
     },
     "TSLA": {
-      "price": 310.42,
-      "change": -9.27,
-      "changePercent": -2.8997
+      "price": 309.75,
+      "change": -9.94,
+      "changePercent": -3.1093
     },
     "QQQ": {
-      "price": 687.39,
-      "change": -4.57,
-      "changePercent": -0.6604
+      "price": 689.365,
+      "change": -2.595,
+      "changePercent": -0.375
     },
     "SPY": {
-      "price": 740.32,
-      "change": 2.14,
-      "changePercent": 0.2899
+      "price": 741.411,
+      "change": 3.231,
+      "changePercent": 0.4377
     },
     "SCHD": {
-      "price": 33.21,
-      "change": 0.41,
-      "changePercent": 1.25
+      "price": 33.205,
+      "change": 0.405,
+      "changePercent": 1.2348
     },
     "VOO": {
-      "price": 680.46,
-      "change": 1.85,
-      "changePercent": 0.2726
+      "price": 681.49,
+      "change": 2.88,
+      "changePercent": 0.4244
     }
   },
   "crypto": {
@@ -84,38 +84,46 @@
   },
   "fx": {
     "USDTWD": {
-      "price": 32.351,
-      "change": -0.0281,
-      "changePercent": -0.0868
+      "price": 32.321,
+      "change": -0.0581,
+      "changePercent": -0.1794
     },
     "JPYTWD": {
-      "price": 0.1954,
-      "change": -0.0031,
-      "changePercent": -1.5716
+      "price": 0.1952,
+      "change": -0.0033,
+      "changePercent": -1.6724
     },
     "EURTWD": {
-      "price": 36.856,
-      "change": -0.098,
-      "changePercent": -0.2652
+      "price": 36.825,
+      "change": -0.129,
+      "changePercent": -0.3491
     },
     "CNYTWD": {
-      "price": 4.7819,
+      "price": 4.7783,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4064.7,
-    "twd": 4228.0,
-    "tael": 158540.0,
-    "twdTotal": 131497.0,
-    "changePercent": 0.4473
+    "usd": 4069.7,
+    "twd": 4229.0,
+    "tael": 158588.0,
+    "twdTotal": 131537.0,
+    "changePercent": 0.5708
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "美股早盤不穩！費半重挫400點、美光大跌6% 台積電ADR走低、台指期夜盤也下挫 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNTDlIV29HN2VoTjhEWVZScXBhRU5kbVY3M3dlcDZNeEFIYS1mc0RkLWw5M1ZpVnQ2aFpMT0RkSk1DSUpnRmIzbGc1d1lxQzhQQUVLanNBTnp3cUFhSzZZVmJwRTZDWDdWcEVZUnk5c3hHeE5SNmU5Y1dkZXhIYjdoS1pnR04xejNvaEFhMmFUV3dIQ0lyLU5xVEpPUjBocS1oMmtYRmw5VDNfdDAxTDRqenp1c2FmZFMwS2JkdWNUUi1Oc0JjZEdzX0JIbXBnaHlJOGJmVG1XUDZQNS1CSzhoSmxlZ1hHYVdNMTVaUTZkdklMVlc4UlBkOG5JUnRFaXV2djNIUlJYeW1rRVdDeHZudG5JTWlRR1Npc0RGM2FrU1M4cUtzVDMtelNCbERDNV9CMXVPM01CTXNPeVVDQzhHY04wVUNHZlhXcUZuX1F0WkNXU0JZU0J2UjRyMEg1YTU5UHVodExKcTk4VGNNakp0eVliMEtUWFE3UHZOS1hpOFpYZ2FiNV9vVXZRdVhvd293eml2Q2FrT01iMU5oTGg4RThWdzIyR0xucElsR0VaUDdnQjdTZmF3ZWt3?oc=5"
+    },
+    {
+      "title": "美股早盤／國際油價回落！三大指數平盤遊走 費半指數跌0.8% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuMVYxU3VVNTAxT0ZqX1JJX0ZaUVBTZ0R3aHdtSkVBaUZINEp3Y0NMblFlekhOX3lMXzVETExwOW5iQ2VHNldRdjl0dmN4SXd1?oc=5"
+    },
     {
       "title": "美股早盤震盪！費半狂瀉近400點　台指期夜盤跟跌 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15YjRTVUlROVh1SkxkX0ZJUGxUSzZTbjMzRlQzMmR6WV9EOE9ZZTF6aUVUanhSMzFtdUdfYUJZQUZob0ROYkZFczFxSWdBbWNBVXfSAVBBVV95cUxQRl9QTWh2NUk1cnNHRjFieUlDUG5TblNhZVIydkFZaUVwVmMzT1Vmek96cVhoX05xSVE0ZWE3cUI2WlZaREVGRVpjOUplaXlGWg?oc=5"
@@ -129,16 +137,8 @@
       "link": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxPejJ4YUR5WExNV3oyVFhsQkh6ZkNrUjNUY3JfbTI1YVJVOUNsdUplQ1BSRm5uX0ppZXlzbFRhcC1GYmVsU0hPVHE1RTVrN0lNendkQ3dlTGZVaUdCcUZudkJCX2hLNURFcng4ZWxuY2F2T0tleXdPVjZvSVFkMmhSTW51TE8zMlFMQlFETXdoSmtOc0dHa0ppRUIxc0tfWkJqVjNvYnRaXzJwUmxhazBUTE0yM29HV1B1c3ptdkRkT1JuZ3VYcFl2bldUU01GTXJ5OFJDT3VQZGVLYVJxdlYzWFZ2M0d0b3lNaFVVSko0NkdVNzNFWmFsdk5Ya3Nwd0ZEOHB5aWtlam0wcFpjNmdQcFJnWkpmc2QxcGt6emtrTVdXVDNiMVhvT2lkTlZKRlFxU1FpVTJUYXpWdzFTc2g0dzc1ZTN1eUFfbkQ1dVVVcHd5akRiM2lfbWhwMWI2VV9WZFNzdkxkdk5QaXg3SHk5NFgtbjRqQlI3V3hyRGtIVWNSaXVwWUhsRGMzdkhYSWhVM0ZCbnFiWUNMZnpvNFA5NW9LbUFCcFBRWHNRMFVRekdEWWY2ZU9DUmstZW43djVUM3pjWllqZTYxeG9uSnJDdmFHNzc0WDUzQjdzY1A5VGdUQWNReUloZmNyV2VtMmVSRlRUMXNqVXRtd3BzQ2hZNG1INFFGV3hCSjZtVExQYXFNZ0xuQVp2WjlycnJYdUR3VUE3b0p3NHR2aW5GUWd1cVVFOXdVRldkNnpOYk85VjV3UzVmVm9NYV9YdmxJbXhjRFhCMXduczBudnNJZ1dlTE44UUp4MWFQWGtsaWxJTGhpdDFXVmpwb200Qk9QbGowWWZYWXFfbWJLa1k?oc=5"
     },
     {
-      "title": "台股又有3檔被抓去關！「最強妖股」連拉6根漲停入列、「這無人機大廠」也在名單上 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQRGpsUHJ1YU80WHpCVHVjaFZXWXhVT3ktTTc1V3RpbkNTNWRzTkZvUXRoRllKNHM5SnVnYjgwM1ZDTzJ6X0JyX3B4SUFCcElPbndFakJlczF6UFVVQVc5aFhkYnJoVUZXdmlFQU0zZFNFOHJ6QzFadm9vYUgxUm50ekFFZVhrcW96ZkxmRmQ3RUNyQVA5RlBfRnBDWF94MGNDVl9hd1dPcXJuajJqRWt5dTFmUG50ZTFTRXB2NzZCMlBmVllYSksxV2VXTEwwZV9KQjlqaTB5ZGppbDlVaUpZVDJTYkV3LVY4VFNkenhqbW93ZlpPQS1KZHFOZkQ3SERqcnVKT29NNFVqRGthYnZIREpHSmJHSE5kOXhIX0xQaElmeTFRWl9yQzEtTkt1Qk5Bd3pvNllOaVlZbU1uQThaN0lKWmRSWEFBQXVrUzJsa1RTQ1BUejZjQ3B4M0NUVmtyYUp6U0M0RDVHTE53bGFudDgyWlUtemJKTUNoREhVR1F4OFE5WWRZX09RVzlScG9HSzd5bThralVqS2kzcHpZd2ZmSER0b1ViRWlwbXBtNFZLTVhKQWhfTjRoSmZWUnN2dVFXQ1BITHRKcUo4X2lYZl9NZFdRdjg?oc=5"
-    },
-    {
       "title": "黃金才大漲完就暴跌！「這些貴金屬」也完蛋 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84UnNiV3c3d3lLR1dSazluYVVleVZDOTI4U0t6SzZLcFNjNG1jM2NIQ2djSFdXT0J6dWswcWt6M1kwQU9HcmJ6SDEtUXBYdnJkWGdkYnpiQUQ2R25fNEdF0gFkQVVfeXFMUFhGSS01bFNxMDAwME5vWGRheGw4TU5oRl9xMG11Ny13enNkaHBkVEg3a2ZnNmxOYjlQLXl1VkRlWlZwYmZmWUVhbG5FUHZCS1hNVzVFNk4zeWpHT3A0bjZCTWJJYg?oc=5"
-    },
-    {
-      "title": "美股早盤／國際油價回落！三大指數平盤遊走 費半指數跌0.8% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuMVYxU3VVNTAxT0ZqX1JJX0ZaUVBTZ0R3aHdtSkVBaUZINEp3Y0NMblFlekhOX3lMXzVETExwOW5iQ2VHNldRdjl0dmN4SXd1?oc=5"
     },
     {
       "title": "拆解台股暴跌真相 AI基本面還可信？如何買黑不買紅？ - 天下雜誌",
