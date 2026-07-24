@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/25 02:21",
+  "updated_tw": "07/25 03:54",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -35,39 +35,39 @@
   },
   "us": {
     "NVDA": {
-      "price": 208.7,
-      "change": -0.06,
-      "changePercent": -0.0287
+      "price": 206.06,
+      "change": -2.7,
+      "changePercent": -1.2933
     },
     "AAPL": {
-      "price": 332.385,
-      "change": 10.725,
-      "changePercent": 3.3343
+      "price": 333.415,
+      "change": 11.755,
+      "changePercent": 3.6545
     },
     "TSLA": {
-      "price": 308.155,
-      "change": -11.535,
-      "changePercent": -3.6082
+      "price": 311.54,
+      "change": -8.15,
+      "changePercent": -2.5493
     },
     "QQQ": {
-      "price": 686.65,
-      "change": -5.31,
-      "changePercent": -0.7674
+      "price": 683.9,
+      "change": -8.06,
+      "changePercent": -1.1648
     },
     "SPY": {
-      "price": 739.78,
-      "change": 1.6,
-      "changePercent": 0.2168
+      "price": 738.44,
+      "change": 0.26,
+      "changePercent": 0.0352
     },
     "SCHD": {
-      "price": 33.24,
-      "change": 0.44,
-      "changePercent": 1.3415
+      "price": 33.25,
+      "change": 0.45,
+      "changePercent": 1.372
     },
     "VOO": {
-      "price": 680.0,
-      "change": 1.39,
-      "changePercent": 0.2048
+      "price": 678.71,
+      "change": 0.1,
+      "changePercent": 0.0147
     }
   },
   "crypto": {
@@ -84,32 +84,32 @@
   },
   "fx": {
     "USDTWD": {
-      "price": 32.321,
-      "change": -0.0581,
-      "changePercent": -0.1794
+      "price": 32.337,
+      "change": -0.0421,
+      "changePercent": -0.13
     },
     "JPYTWD": {
-      "price": 0.1951,
-      "change": -0.0034,
-      "changePercent": -1.7228
+      "price": 0.1952,
+      "change": -0.0033,
+      "changePercent": -1.6724
     },
     "EURTWD": {
-      "price": 36.793,
-      "change": -0.161,
-      "changePercent": -0.4357
+      "price": 36.816,
+      "change": -0.138,
+      "changePercent": -0.3735
     },
     "CNYTWD": {
-      "price": 4.7782,
+      "price": 4.7822,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4064.7,
-    "twd": 4224.0,
-    "tael": 158393.0,
-    "twdTotal": 131375.0,
-    "changePercent": 0.4473
+    "usd": 4058.7,
+    "twd": 4220.0,
+    "tael": 158237.0,
+    "twdTotal": 131246.0,
+    "changePercent": 0.299
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股早盤不穩！費半重挫400點、美光大跌6% 台積電ADR走低、台指期夜盤也下挫 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNTDlIV29HN2VoTjhEWVZScXBhRU5kbVY3M3dlcDZNeEFIYS1mc0RkLWw5M1ZpVnQ2aFpMT0RkSk1DSUpnRmIzbGc1d1lxQzhQQUVLanNBTnp3cUFhSzZZVmJwRTZDWDdWcEVZUnk5c3hHeE5SNmU5Y1dkZXhIYjdoS1pnR04xejNvaEFhMmFUV3dIQ0lyLU5xVEpPUjBocS1oMmtYRmw5VDNfdDAxTDRqenp1c2FmZFMwS2JkdWNUUi1Oc0JjZEdzX0JIbXBnaHlJOGJmVG1XUDZQNS1CSzhoSmxlZ1hHYVdNMTVaUTZkdklMVlc4UlBkOG5JUnRFaXV2djNIUlJYeW1rRVdDeHZudG5JTWlRR1Npc0RGM2FrU1M4cUtzVDMtelNCbERDNV9CMXVPM01CTXNPeVVDQzhHY04wVUNHZlhXcUZuX1F0WkNXU0JZU0J2UjRyMEg1YTU5UHVodExKcTk4VGNNakp0eVliMEtUWFE3UHZOS1hpOFpYZ2FiNV9vVXZRdVhvd293eml2Q2FrT01iMU5oTGg4RThWdzIyR0xucElsR0VaUDdnQjdTZmF3ZWt3?oc=5"
-    },
-    {
       "title": "美股早盤／國際油價回落！三大指數平盤遊走 費半指數跌0.8% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuMVYxU3VVNTAxT0ZqX1JJX0ZaUVBTZ0R3aHdtSkVBaUZINEp3Y0NMblFlekhOX3lMXzVETExwOW5iQ2VHNldRdjl0dmN4SXd1?oc=5"
+    },
+    {
+      "title": "美股早盤不穩！費半重挫400點、美光大跌6% 台積電ADR走低、台指期夜盤也下挫 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNTDlIV29HN2VoTjhEWVZScXBhRU5kbVY3M3dlcDZNeEFIYS1mc0RkLWw5M1ZpVnQ2aFpMT0RkSk1DSUpnRmIzbGc1d1lxQzhQQUVLanNBTnp3cUFhSzZZVmJwRTZDWDdWcEVZUnk5c3hHeE5SNmU5Y1dkZXhIYjdoS1pnR04xejNvaEFhMmFUV3dIQ0lyLU5xVEpPUjBocS1oMmtYRmw5VDNfdDAxTDRqenp1c2FmZFMwS2JkdWNUUi1Oc0JjZEdzX0JIbXBnaHlJOGJmVG1XUDZQNS1CSzhoSmxlZ1hHYVdNMTVaUTZkdklMVlc4UlBkOG5JUnRFaXV2djNIUlJYeW1rRVdDeHZudG5JTWlRR1Npc0RGM2FrU1M4cUtzVDMtelNCbERDNV9CMXVPM01CTXNPeVVDQzhHY04wVUNHZlhXcUZuX1F0WkNXU0JZU0J2UjRyMEg1YTU5UHVodExKcTk4VGNNakp0eVliMEtUWFE3UHZOS1hpOFpYZ2FiNV9vVXZRdVhvd293eml2Q2FrT01iMU5oTGg4RThWdzIyR0xucElsR0VaUDdnQjdTZmF3ZWt3?oc=5"
     },
     {
       "title": "美股早盤震盪！費半狂瀉近400點　台指期夜盤跟跌 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15YjRTVUlROVh1SkxkX0ZJUGxUSzZTbjMzRlQzMmR6WV9EOE9ZZTF6aUVUanhSMzFtdUdfYUJZQUZob0ROYkZFczFxSWdBbWNBVXfSAVBBVV95cUxQRl9QTWh2NUk1cnNHRjFieUlDUG5TblNhZVIydkFZaUVwVmMzT1Vmek96cVhoX05xSVE0ZWE3cUI2WlZaREVGRVpjOUplaXlGWg?oc=5"
     },
     {
-      "title": "〈美股盤後〉Alphabet、特斯拉暴跌 布油飆破百美元 四大指數收黑 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXNTFoQlNoQS03VXNWUGJSd19hOGJSTzB3NmpOYnFBS05GMUdBc2J0VzByMlpDbGh3c1o2SjdOLWNmdkNnN1A5eFdUSUVGeGs?oc=5"
-    },
-    {
-      "title": "【0724台股盤後】美股科技股高檔拉回致台股大跌！台股大盤重挫 1,195 點尋求支撐；投本比排行：華星光、聯亞、大聯大 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxPejJ4YUR5WExNV3oyVFhsQkh6ZkNrUjNUY3JfbTI1YVJVOUNsdUplQ1BSRm5uX0ppZXlzbFRhcC1GYmVsU0hPVHE1RTVrN0lNendkQ3dlTGZVaUdCcUZudkJCX2hLNURFcng4ZWxuY2F2T0tleXdPVjZvSVFkMmhSTW51TE8zMlFMQlFETXdoSmtOc0dHa0ppRUIxc0tfWkJqVjNvYnRaXzJwUmxhazBUTE0yM29HV1B1c3ptdkRkT1JuZ3VYcFl2bldUU01GTXJ5OFJDT3VQZGVLYVJxdlYzWFZ2M0d0b3lNaFVVSko0NkdVNzNFWmFsdk5Ya3Nwd0ZEOHB5aWtlam0wcFpjNmdQcFJnWkpmc2QxcGt6emtrTVdXVDNiMVhvT2lkTlZKRlFxU1FpVTJUYXpWdzFTc2g0dzc1ZTN1eUFfbkQ1dVVVcHd5akRiM2lfbWhwMWI2VV9WZFNzdkxkdk5QaXg3SHk5NFgtbjRqQlI3V3hyRGtIVWNSaXVwWUhsRGMzdkhYSWhVM0ZCbnFiWUNMZnpvNFA5NW9LbUFCcFBRWHNRMFVRekdEWWY2ZU9DUmstZW43djVUM3pjWllqZTYxeG9uSnJDdmFHNzc0WDUzQjdzY1A5VGdUQWNReUloZmNyV2VtMmVSRlRUMXNqVXRtd3BzQ2hZNG1INFFGV3hCSjZtVExQYXFNZ0xuQVp2WjlycnJYdUR3VUE3b0p3NHR2aW5GUWd1cVVFOXdVRldkNnpOYk85VjV3UzVmVm9NYV9YdmxJbXhjRFhCMXduczBudnNJZ1dlTE44UUp4MWFQWGtsaWxJTGhpdDFXVmpwb200Qk9QbGowWWZYWXFfbWJLa1k?oc=5"
-    },
-    {
-      "title": "聖石金業吸金181億38人遭起訴 黃金投資話術騙逾5百人 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWXB2NW55V2NVOHFtV3o1dkRWWV94VnJYdUNBcTJaVUliOVUwTlZKZGNEaHR0c2FQUl96OEVvRk5sY29LaVZ5LUk3ZmtvczQ?oc=5"
+      "title": "【美股盤前0724】特斯拉、谷歌財報引爆賣壓！Mag7 蒸發八千億、中東局勢再起原油衝破$100｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxPYm12NUxjbV9pY1NPQ0JzVkxEbW4xbEYzUWZzUHY5ZkFtMmEtcV9PbG52TnRNa0d5RnZzUnZzQm5uMFhEbFg2RGZxdzVEQVhUNHcwbGd5NFd1WFVIUU44M0lDZ1doTmgwQkliYnRIQ0FaaU15dmYxbzNfMS00ei03VGxpeFVtWTEwclE4dTFiMkUyRHhBSGkzR3VDMjBoY3NlM0g4LUNDZTFPX290Z1FwZ2xWNnJaS1J5UTJFQmFMdkliVEVaTkNzZDliT2lKdlU1NV8yeFZmYWxDUzR3dTlCQUlkYTVwNENrUW1teWt1U2lNekF4dGU1bWtZdFU5bWo0V2xsNUZkbTJoN1N3a2tCLXBwRmZRWkFMNzFZbW9UQVpDVV9CRUVDR3VraVZkSUtySTMyVFFaYWRoSWg2aldRZEtGcHdyMklYSlhHdFhjNWFza0xlS2VyTnB5YjVMZ2lQQjNZQ3p6OExmcnFYZ1djblAwVTNNcGdYbDFGUDRMYjZxNFh3RkY1NkpPd3g3TzJWR1V5RWFJLWcyUXZnbHVQMzM2V2lVMS1EYnFySVdoMWdzOE0wR0ZpUTIwY2pJb3FJdWVYVHlGZ3ZNWExKWUhZbktIb2ExbTZucUo5V3I4WS01c2swTWZEZFdyT01uMEFpM1dOUXJoOVk1SHZxdFE?oc=5"
     },
     {
       "title": "天下財經週報：美股、台股怎麼走，美聯準會本週利率決策動見觀瞻 - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fcEFVM2VQSDZOUm5ub1JfRGJnX0lNQk15MEtrdFVhSE1UdmVHVlppeTdRdk5HS3VLbTc5ZWVuZ3RIQi1CdlJKUWJZSlNFQQ?oc=5"
     },
     {
-      "title": "美股收盤》油價飆、AI支出疑慮升！道瓊跌逾500點 台積電ADR收低 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVTlFrUkk0LVpsU0VTT3Z2WmhkaFVZbkJVYXdmME92YkVYZ1JMZHNmY0dUYnpQa0xjeUlBYnZuZ1NwbkZUR1hrQk5WSjVLWGNrQzZxZE0weEVnTjhWX1NJ0gFkQVVfeXFMTWxfbFRjX0ZRTDRuOGZjeFZNLXV5T1oxWmZiNmlkTThSM1pEM3V6U2hlUFY3S2YxVzFWWWRES1dHeG43YVhWRFRPbDh0TFMxN0NVUVpacWI1SUZFLTNrbkdwU1lpLQ?oc=5"
+      "title": "聖石金業吸金181億38人遭起訴 黃金投資話術騙逾5百人 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWXB2NW55V2NVOHFtV3o1dkRWWV94VnJYdUNBcTJaVUliOVUwTlZKZGNEaHR0c2FQUl96OEVvRk5sY29LaVZ5LUk3ZmtvczQ?oc=5"
+    },
+    {
+      "title": "台股重挫為史上最大單日跌點 金管會回應了 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTmt5a1MxTnlWc2hrb1ZMSTY5Q0c1WVZla2lkc2hWSzZDempCZkY1YmdmU2J6SVpKY1ktM1hLY0tOOHRxSl9jVURWLW5la3BtS3RXRW9oV3Znd9IBX0FVX3lxTE54SFE0LW80NENpN05WZmpnWVM5N1NFMjI1NldFZGRBV2ozTWtsSzVzUmtCUkVmVXc4dXFpNEVldm1xMEtSbExYVzZCMkpGZjJUdGZwbktJVUl2cmNfTHFR?oc=5"
+    },
+    {
+      "title": "美股開盤跳水！費半大跌逾3.2% 台積電ADR挫2.37% - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPR3IzWkhkb3J1Q2VUbXE4VzVjbzRmOTNsdmE2eU0tRUVpeG5PcG91cnZyaGd0c1Vwbk5DWnE2WXhJaU9Pck5qaHZ6S01TMmhBYWw1aVpsb2ZOVkZOZ1NWcGlKYVZIanZSYXd2eUNJTUFyMGpkbkhsZC0tQkVYZWluTHNnMWVNZXRrbWhaUTJVXzhiU0RseTZCSmtZVnhmd3Qtc3NSSXZneGZuWHFXYVJ0MEE5NnB0bHVtV1hhY2tjdEFTZzdvZktvWmdVWU82RGo5YmtWVHo1Z3hiTjlJbmltWGF1akprQnVqQmlGNVM4Y0RtSlZzTHdrcHM5VXlmdmFZZmhmcE95Y21iaWFxNl94WDJoQWdaSmM?oc=5"
     }
   ]
 }
