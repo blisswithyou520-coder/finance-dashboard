@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/24 07:39",
+  "updated_tw": "07/24 09:08",
   "taiwan": {
     "2330": {
       "price": 2405.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65153.78,
-      "change": -947.0169,
-      "changePercent": -1.4327
+      "price": 65006.08,
+      "change": -1094.7169,
+      "changePercent": -1.6561
     },
     "ETH": {
-      "price": 1882.11,
-      "change": -51.3801,
-      "changePercent": -2.6574
+      "price": 1873.2,
+      "change": -60.2901,
+      "changePercent": -3.1182
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.289,
-      "change": -0.0901,
-      "changePercent": -0.2783
+      "price": 32.297,
+      "change": -0.0821,
+      "changePercent": -0.2536
     },
     "JPYTWD": {
       "price": 0.1949,
@@ -94,9 +94,9 @@
       "changePercent": -1.8235
     },
     "EURTWD": {
-      "price": 36.787,
-      "change": -0.167,
-      "changePercent": -0.4519
+      "price": 36.81,
+      "change": -0.144,
+      "changePercent": -0.3897
     },
     "CNYTWD": {
       "price": 4.7701,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4051.3,
-    "twd": 4206.0,
-    "tael": 157714.0,
-    "twdTotal": 130812.0,
-    "changePercent": -2.3053
+    "usd": 4052.5,
+    "twd": 4208.0,
+    "tael": 157800.0,
+    "twdTotal": 130884.0,
+    "changePercent": -2.2764
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "美股收盤》油價飆、AI支出疑慮升！道瓊跌逾500點 台積電ADR收低 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVTlFrUkk0LVpsU0VTT3Z2WmhkaFVZbkJVYXdmME92YkVYZ1JMZHNmY0dUYnpQa0xjeUlBYnZuZ1NwbkZUR1hrQk5WSjVLWGNrQzZxZE0weEVnTjhWX1NJ0gFkQVVfeXFMTWxfbFRjX0ZRTDRuOGZjeFZNLXV5T1oxWmZiNmlkTThSM1pEM3V6U2hlUFY3S2YxVzFWWWRES1dHeG43YVhWRFRPbDh0TFMxN0NVUVpacWI1SUZFLTNrbkdwU1lpLQ?oc=5"
-    },
-    {
       "title": "〈美股盤後〉Alphabet、特斯拉暴跌 布油飆破百美元 四大指數收黑 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXNTFoQlNoQS03VXNWUGJSd19hOGJSTzB3NmpOYnFBS05GMUdBc2J0VzByMlpDbGh3c1o2SjdOLWNmdkNnN1A5eFdUSUVGeGs?oc=5"
+    },
+    {
+      "title": "美股收盤》油價飆、AI支出疑慮升！道瓊跌逾500點 台積電ADR收低 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVTlFrUkk0LVpsU0VTT3Z2WmhkaFVZbkJVYXdmME92YkVYZ1JMZHNmY0dUYnpQa0xjeUlBYnZuZ1NwbkZUR1hrQk5WSjVLWGNrQzZxZE0weEVnTjhWX1NJ0gFkQVVfeXFMTWxfbFRjX0ZRTDRuOGZjeFZNLXV5T1oxWmZiNmlkTThSM1pEM3V6U2hlUFY3S2YxVzFWWWRES1dHeG43YVhWRFRPbDh0TFMxN0NVUVpacWI1SUZFLTNrbkdwU1lpLQ?oc=5"
     },
     {
       "title": "美股拖累台指期！夜盤高低點震逾970點失守45K - 經濟日報",
@@ -133,8 +133,12 @@
       "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQYkI4VGdQUWJ1ZlpacEtxY0JtcEhLeHVtdGFNUGNWNUJudmc3dXgxWE5hdnRadUIwbG5rRnMxdEw1bEY0Rmo0UkxWc045Nzd1YnBKc09PcnpORDVNSGtwMjJTc3dueXUtdEhfMGFSd0xTN1UxOFRzelVMNFZ3SDdza2tiX1RqbEF0cG4wSllwc0hoZkEyVU9xbjlUZVI3cmp3NWVYQjRfdTNYLXJWaE5oMFV2aFJsUENoWnFhb0p5MUdxSzV1aEZYZ0dJVWlwS1lYRjJIcHpEa1dVVjZRVDJOLVo5Z1RwUzQyY0twY0R6bzlkVHJxQjFKbnFBbTJNZDU2TUFVQlhwQTQ4d3dyYTZqV0Vnc2IycWZUZFhzcFlZZVhNWkFBNVRiZG04NmVSZVo4endBbExzWi1RUm1qY3JYdkJVZjA2NFc0dlJSWk5UaGIzX010aERVQzVTNW5VMWpZRzhDSTBrdnNSLVFwUzh6QjdvWQ?oc=5"
     },
     {
-      "title": "油價美債雙殺、美股走低特斯拉市值蒸發2000億美元| 國際 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RLXBwN0hLQWE1emhZN0ZhOG5GVk1DbUJUZjF3RTh6dTJEOGEzeEVPTDEzNHZiY2YwR3VvbWZVa3VBaVFXM1hmZlE5cVN0clFURXo1cGZjeF90aFh4Vng4?oc=5"
+      "title": "《貴金屬》COMEX黃金下跌2.5% ETF持倉增加- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemZCQjBZVks1Y3lQcUdjXzgzbDlPei1sVEtwd0sxN0VRdnZFR1VJdXYtVHVqS2NwN25RN1BQUHVNUnYyMEZqOV9wd045TXRSUVRCTWFlbUVtVkJtZF9aUlo2MnZqY2U4X2RDWjlMek5wMzIwU1QzSV83TVhWbGljYmVXXzBLQTJNemsxNndUSnVhdw?oc=5"
+    },
+    {
+      "title": "地緣政治衝突升溫美股下挫法人看台股續震盪| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IN0tZZUFOS1o1X0dVenIteGx4MjJlTTJMaUpHSW9taVdFdGVwZFMtaG9mVHU3VW1GY1pKekx6V2tPT0FNOUstbmdDYUNTVGFlMUo2WDBHUEYzU3hEQlE?oc=5"
     },
     {
       "title": "美股早盤／字母燒錢兇…布蘭特升破100美元指數盡墨、美債受壓| 全球財經| 全球 - UDN",
@@ -143,10 +147,6 @@
     {
       "title": "AI燒錢嚇壞華爾街！美股道瓊開盤大跌600點 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPVmI0dEh4UElBd253QmRPbU1zdEVucWQ4V2xXVnhxT09fWXRzOEFwekNQbjZfZms3WWs2LUdBOHk2YXNRTFZEeGphMVF4eW1ZLTJlSUxVejI3UFd3NmgxS1RNU2pfS2k1dUVmdW9xM2hxbGlxVC1UWk56Q25jdHk4OXhadTJRVDg2NEMyYU1YWXl5R0lyenVLeDh5NUdvU3F0eTFKNjhFVXRfZ2FQQVU4ajhxVndkVU10T0FRTUZVWDBPcVI0bEVaa1J5MmdEQjNDQThGbjREYXZ0QlFiTVFqcGVOYXl3TlVHcUV5NzhaRDNRSW5sVEFtUGtBa2xyLWZRVUJNXzgtOHh1ZkdIbmtlY2Jtek5xdWVmdy1N?oc=5"
-    },
-    {
-      "title": "〈美股早盤〉AI支出與百美元油價施壓！主要指數開低 道指一度崩逾600點 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zejlxbE1PamJjcGV5aEZTNkYwTUNONi1yTWRsUF9BeDJNUUgtOWhqRGh3bXpOaEZUMWt6akdGa2k2VWFxbmhHT3hzSnNFUEk?oc=5"
     }
   ]
 }
