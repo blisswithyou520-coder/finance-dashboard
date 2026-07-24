@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/25 05:02",
+  "updated_tw": "07/25 06:17",
   "taiwan": {
     "2330": {
       "price": 2350.0,
-      "change": -50.0,
-      "changePercent": -2.0833
+      "change": -55.0,
+      "changePercent": -2.2869
     },
     "2454": {
       "price": 3750.0,
-      "change": -100.0,
-      "changePercent": -2.5974
+      "change": -125.0,
+      "changePercent": -3.2258
     },
     "2317": {
       "price": 252.5,
-      "change": 1.0,
-      "changePercent": 0.3976
+      "change": -5.0,
+      "changePercent": -1.9417
     },
     "0050": {
       "price": 101.7,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64122.52,
-      "change": -922.2925,
-      "changePercent": -1.4179
+      "price": 64096.33,
+      "change": -948.4825,
+      "changePercent": -1.4582
     },
     "ETH": {
-      "price": 1859.31,
-      "change": -17.7902,
-      "changePercent": -0.9478
+      "price": 1857.92,
+      "change": -19.1802,
+      "changePercent": -1.0218
     }
   },
   "fx": {
@@ -94,22 +94,22 @@
       "changePercent": -1.0278
     },
     "EURTWD": {
-      "price": 36.798,
-      "change": 0.0524,
-      "changePercent": 0.1426
+      "price": 36.785,
+      "change": 0.0394,
+      "changePercent": 0.1073
     },
     "CNYTWD": {
-      "price": 4.7768,
+      "price": 4.7797,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4056.7,
-    "twd": 4215.0,
-    "tael": 158081.0,
-    "twdTotal": 131117.0,
-    "changePercent": 0.2496
+    "usd": 4055.7,
+    "twd": 4214.0,
+    "tael": 158042.0,
+    "twdTotal": 131084.0,
+    "changePercent": 0.2249
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,6 +129,10 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15YjRTVUlROVh1SkxkX0ZJUGxUSzZTbjMzRlQzMmR6WV9EOE9ZZTF6aUVUanhSMzFtdUdfYUJZQUZob0ROYkZFczFxSWdBbWNBVXfSAVBBVV95cUxQRl9QTWh2NUk1cnNHRjFieUlDUG5TblNhZVIydkFZaUVwVmMzT1Vmek96cVhoX05xSVE0ZWE3cUI2WlZaREVGRVpjOUplaXlGWg?oc=5"
     },
     {
+      "title": "〈美股盤後〉Alphabet、特斯拉暴跌 布油飆破百美元 四大指數收黑 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXNTFoQlNoQS03VXNWUGJSd19hOGJSTzB3NmpOYnFBS05GMUdBc2J0VzByMlpDbGh3c1o2SjdOLWNmdkNnN1A5eFdUSUVGeGs?oc=5"
+    },
+    {
       "title": "黃金才大漲完就暴跌！「這些貴金屬」也完蛋 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84UnNiV3c3d3lLR1dSazluYVVleVZDOTI4U0t6SzZLcFNjNG1jM2NIQ2djSFdXT0J6dWswcWt6M1kwQU9HcmJ6SDEtUXBYdnJkWGdkYnpiQUQ2R25fNEdF0gFkQVVfeXFMUFhGSS01bFNxMDAwME5vWGRheGw4TU5oRl9xMG11Ny13enNkaHBkVEg3a2ZnNmxOYjlQLXl1VkRlWlZwYmZmWUVhbG5FUHZCS1hNVzVFNk4zeWpHT3A0bjZCTWJJYg?oc=5"
     },
@@ -141,12 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWXB2NW55V2NVOHFtV3o1dkRWWV94VnJYdUNBcTJaVUliOVUwTlZKZGNEaHR0c2FQUl96OEVvRk5sY29LaVZ5LUk3ZmtvczQ?oc=5"
     },
     {
-      "title": "美股開盤跳水！費半大跌逾3.2% 台積電ADR挫2.37% - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPR3IzWkhkb3J1Q2VUbXE4VzVjbzRmOTNsdmE2eU0tRUVpeG5PcG91cnZyaGd0c1Vwbk5DWnE2WXhJaU9Pck5qaHZ6S01TMmhBYWw1aVpsb2ZOVkZOZ1NWcGlKYVZIanZSYXd2eUNJTUFyMGpkbkhsZC0tQkVYZWluTHNnMWVNZXRrbWhaUTJVXzhiU0RseTZCSmtZVnhmd3Qtc3NSSXZneGZuWHFXYVJ0MEE5NnB0bHVtV1hhY2tjdEFTZzdvZktvWmdVWU82RGo5YmtWVHo1Z3hiTjlJbmltWGF1akprQnVqQmlGNVM4Y0RtSlZzTHdrcHM5VXlmdmFZZmhmcE95Y21iaWFxNl94WDJoQWdaSmM?oc=5"
-    },
-    {
-      "title": "台股跌千點 投資人不恐慌仍看多後市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pVkUwbmttUTNCLUk4UWJwU1dycUtWU196TEprSzF3cjloU1piOWJveGZhOW1BVUVSUVVMcDFhZEhkUV8xN0loNE4xTXo5cFpB0gFWQVVfeXFMT1ZRam1WUjNjTlh6dlNVd1FzRDMxWGZZWTgwanpQNmdkUUJsci1KSHlIVGlGcEpRaTJ5ajNlSllrM3BkREJLYngtRllOTUZPanFtR0ZWTmc?oc=5"
+      "title": "台股重挫為史上最大單日跌點 金管會回應了 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTmt5a1MxTnlWc2hrb1ZMSTY5Q0c1WVZla2lkc2hWSzZDempCZkY1YmdmU2J6SVpKY1ktM1hLY0tOOHRxSl9jVURWLW5la3BtS3RXRW9oV3Znd9IBX0FVX3lxTE54SFE0LW80NENpN05WZmpnWVM5N1NFMjI1NldFZGRBV2ozTWtsSzVzUmtCUkVmVXc4dXFpNEVldm1xMEtSbExYVzZCMkpGZjJUdGZwbktJVUl2cmNfTHFR?oc=5"
     }
   ]
 }
