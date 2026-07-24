@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/24 19:41",
+  "updated_tw": "07/24 21:06",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64941.58,
-      "change": -103.2325,
-      "changePercent": -0.1587
+      "price": 64492.23,
+      "change": -552.5825,
+      "changePercent": -0.8495
     },
     "ETH": {
-      "price": 1878.84,
-      "change": 1.7398,
-      "changePercent": 0.0927
+      "price": 1864.63,
+      "change": -12.4702,
+      "changePercent": -0.6643
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.333,
-      "change": -0.0461,
-      "changePercent": -0.1424
+      "price": 32.361,
+      "change": -0.0181,
+      "changePercent": -0.0559
     },
     "JPYTWD": {
-      "price": 0.1952,
-      "change": -0.0033,
-      "changePercent": -1.6724
+      "price": 0.1953,
+      "change": -0.0032,
+      "changePercent": -1.622
     },
     "EURTWD": {
-      "price": 36.847,
-      "change": -0.107,
-      "changePercent": -0.2896
+      "price": 36.84,
+      "change": -0.114,
+      "changePercent": -0.3085
     },
     "CNYTWD": {
-      "price": 4.7801,
+      "price": 4.7836,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4061.6,
-    "twd": 4222.0,
-    "tael": 158331.0,
-    "twdTotal": 131324.0,
-    "changePercent": 0.3707
+    "usd": 4056.0,
+    "twd": 4220.0,
+    "tael": 158249.0,
+    "twdTotal": 131256.0,
+    "changePercent": 0.2323
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPa3BQRzN2akNDQjk5ektsUGk0WS1Wd3YyR2NoZ0pVY2ZuTHZTOVRUSERPT3RGdDJkZ09oblRJSkZSeVJkWVc3T3FiWFRteXNGeUFMM3BvTFJXTnhTdHlOQkl5b20xcE1kM0RSOWdiQ3hDV0tKbEV1Y1UwcHR4M0JWdHMyWVZTUGhBU3o1dGRHNXV1cHB5MFBmZ3BnNHljVUhQYlktSjQzQ0lnVVpHUlFteW5aWkt6SmVJSXhGN1hHMjJlbUwzQ2dtUmljSGdIN3p4X1VvdXRHaThVSVg0ckp5VjB5eGszalViZU1VTTVYWGVvWXRkTjM2bjZ4NVVaZzZHX1NMQmo3RTlnMDBUM2FUZ21RMnlQSnc1elExb2s3RlpnRUVCaklWenc1VVMyNG9sMm9BUjgzd2U2UjRCZXU1a1pPdHVFem9KanpOSTVoMmhIdDFWYTN0VVN3Z3V5TGp1NllpZldLdG1ma1g0bVczNkNzVFZyVzVRV29lV1p0MUppeVlyRHFGR2Q2a1A0WXhQWmdTbnE0bm1LLUo3Mm93bUgxbEx0WHV3NjhrbmpFb2QyLUhvczFhbEtOM21EZzNlVktiM2lidi1pTDJDRl9PUDBPd0pFMkpPM2t5cmRLQkJ1OVlNekhkMmlIcEEyZkh0dWRRRHJUbmNqX1FY?oc=5"
     },
     {
-      "title": "Coinbase成比特幣安全聯盟創始成員 聚焦基建安全 - 台視全球資訊網",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdEVSS1JsdWtWRENKdlQyN3lJa3psWTAyellRZEJiV1FkUzM5eHdROWtTQ195dW9zV3V2RjB0NzYwdXdsVnctVlFZb0Z0TkNPVnZPOVNrd3FPUUczTm9oMW1Bc2dBM0U2VkdpWnkxaEI1ekVLRjlLRTVEanN4bHBWYWNybTkxdUZhWkVENmVqd19GUQ?oc=5"
-    },
-    {
-      "title": "台股重挫為史上最大單日跌點 金管會回應了 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTmt5a1MxTnlWc2hrb1ZMSTY5Q0c1WVZla2lkc2hWSzZDempCZkY1YmdmU2J6SVpKY1ktM1hLY0tOOHRxSl9jVURWLW5la3BtS3RXRW9oV3Znd9IBX0FVX3lxTE54SFE0LW80NENpN05WZmpnWVM5N1NFMjI1NldFZGRBV2ozTWtsSzVzUmtCUkVmVXc4dXFpNEVldm1xMEtSbExYVzZCMkpGZjJUdGZwbktJVUl2cmNfTHFR?oc=5"
-    },
-    {
       "title": "拆解台股暴跌真相 AI基本面還可信？如何買黑不買紅？ - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FemlhQzB0SlNJSENmWE96ZWJRNjlJNUhCa3hjUHE3aTlUdHZoSURPY3ZoVWVoNWE0WldOeWhjMTdqMkxBU0g0a0t2VjEtdw?oc=5"
     },
     {
-      "title": "快訊／台股收盤大跌1195.97點　台積電跌55元至2350 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00alhJb0duN3lWRnIteFRyQkw4ZnRTMGJMSkI4QlJpaEhEZmdyeWdhQTdZaG1GWDF6Mi1NVEEyc0t0dFlTanJxY3hGS1gwS0FiVUHSAVBBVV95cUxPZnY3ZlBBMnFIU3pFcDZhV24xTlJEMXJqZ0JGRGFDN254dXkzV1RkY2U2Z2ota2NfT3hxN3hhVEU3LXF6NUpBb1NlckxTTmRtTw?oc=5"
+      "title": "台股大跌逾千點！陳重銘預估第3季走勢：4萬2至4萬8區間盤整| 台股雜談| 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhUFVNaXVWSFlWNlRlck9CNUFOMmtRTGFuanFPLXVpMHhnRFpLT1FmMXJWOVBKekNXWUs1a1pIZHpIeVV2a0ZybW14QTI0akd3LUE?oc=5"
+    },
+    {
+      "title": "比特幣市場回暖了嗎？從鏈上數據「4 大訊號」看反彈真相 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWGNUNk9UaThYQmF6Z2FVYThBVDZxc0lidlB4aUE3REE2bi0xMDY4SjRLZ0FlVkFkX2NmOGxfZDNqWjBJNmlGRGpfZjYzWkdiNFFCdUFGcGxFT0lCX014NFFGeUxoWWNIenkxNThmWUsxQUJIU085aUZVRzNpWmxRSWlkZVRmOU5uT2VjdnZOSEdZa05kb1VtSS1lVQ?oc=5"
+    },
+    {
+      "title": "聖石金業吸金181億38人遭起訴 黃金投資話術騙逾5百人 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWXB2NW55V2NVOHFtV3o1dkRWWV94VnJYdUNBcTJaVUliOVUwTlZKZGNEaHR0c2FQUl96OEVvRk5sY29LaVZ5LUk3ZmtvczQ?oc=5"
     }
   ]
 }
