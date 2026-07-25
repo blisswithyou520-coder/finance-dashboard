@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/25 12:27",
+  "updated_tw": "07/25 14:39",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 101.7,
-      "change": -2.15,
-      "changePercent": -2.0703
+      "change": -2.2,
+      "changePercent": -2.1174
     },
     "00878": {
       "price": 32.61,
-      "change": -0.11,
-      "changePercent": -0.3362
+      "change": -0.12,
+      "changePercent": -0.3666
     },
     "00919": {
       "price": 29.49,
-      "change": 0.03,
-      "changePercent": 0.1018
+      "change": -0.01,
+      "changePercent": -0.0339
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64048.51,
-      "change": -996.3025,
-      "changePercent": -1.5317
+      "price": 63961.98,
+      "change": -136.5161,
+      "changePercent": -0.213
     },
     "ETH": {
-      "price": 1858.13,
-      "change": -18.9702,
-      "changePercent": -1.0106
+      "price": 1855.14,
+      "change": -5.0368,
+      "changePercent": -0.2708
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4055.7,
-    "twd": 4217.0,
-    "tael": 158135.0,
-    "twdTotal": 131161.0,
-    "changePercent": 0.2249
+    "usd": 4070.8,
+    "twd": 4233.0,
+    "tael": 158724.0,
+    "twdTotal": 131650.0,
+    "changePercent": 0.598
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pclZfeWM5YnZEZkVUbXdCUXFaaVI0UjRIcmpOdU5KNGlJOVhuWkRWa1YzT2VjVmJzY05aVDF2c0d4dm5uUHJFS2c2bW9qRldBRnlFcUZpdTZfRS1YY3JZ0gFkQVVfeXFMT3NwdFM3bDlQaUY4OTl6eHJSakNZX1B1QUtrZ21yZEIxbWJPSU51N1lOcEF5QzhuUE9oMHp1bDdBMkgtM2o3WUNwTzh0X0pWOTRWRF9KM0t0UjRMVGxYZmIzQXdXWg?oc=5"
     },
     {
+      "title": "台股Q3下探4萬點？群創、聯電、友達、南亞可以買？杜金龍「10檔補漲股」口袋名單：這樣操作「超好賺的啦」 - 今周刊",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSndkSkVwN1J1SW1IaWxheXpncS1nQ3UyRG5LTnRLN3NHdHU4aW9Pd0syODFsZ19HMzR5T3psRm44Mm42NjEzaUFLTjl1ajBtQjdtVWpocTd6Z184eWJUMnQyR014ZWtkNDJxc2hEcTAwUURkX29BaEpocl8tSnRpcw?oc=5"
+    },
+    {
       "title": "台股再度進入季線攻防戰　短線轉為區間震盪 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZN0pVWDJnWXVNTlMwLU9abVQza01ac3RpenhUZDBGN0pPOEw5c09pWXpMY1dqMUItSEdrMVFqbk5VZFpKeG0zSWVKM091SVp3S0HSAVBBVV95cUxOa2JDM3pQbTJ6bHp0WlBxZngxRTRtTnVkWVVwQ2hPZ1Iwc2V1aFRveGFxTF9UdUgxRkdKeFNTamJfLTdxQ25xMzMzUG9zbkoxUg?oc=5"
     },
     {
+      "title": "Bitdeer维持比特币零持仓，本周出售274.6枚BTC - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3WkthOU5kVGhTazdzR0hNbVZudmNYUGxsWWRUdmliT0h2bXB0Qzl6MGJyaHZsaGR2X0p2Um1fQTlhX2dHTkt4OFdCcmJPdm5JaF9uQ1pHNXhMdzBRZVZvV1Z4bFEwQQ?oc=5"
+    },
+    {
       "title": "美股早盤不穩！費半重挫400點、美光大跌6% 台積電ADR走低、台指期夜盤也下挫 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNTDlIV29HN2VoTjhEWVZScXBhRU5kbVY3M3dlcDZNeEFIYS1mc0RkLWw5M1ZpVnQ2aFpMT0RkSk1DSUpnRmIzbGc1d1lxQzhQQUVLanNBTnp3cUFhSzZZVmJwRTZDWDdWcEVZUnk5c3hHeE5SNmU5Y1dkZXhIYjdoS1pnR04xejNvaEFhMmFUV3dIQ0lyLU5xVEpPUjBocS1oMmtYRmw5VDNfdDAxTDRqenp1c2FmZFMwS2JkdWNUUi1Oc0JjZEdzX0JIbXBnaHlJOGJmVG1XUDZQNS1CSzhoSmxlZ1hHYVdNMTVaUTZkdklMVlc4UlBkOG5JUnRFaXV2djNIUlJYeW1rRVdDeHZudG5JTWlRR1Npc0RGM2FrU1M4cUtzVDMtelNCbERDNV9CMXVPM01CTXNPeVVDQzhHY04wVUNHZlhXcUZuX1F0WkNXU0JZU0J2UjRyMEg1YTU5UHVodExKcTk4VGNNakp0eVliMEtUWFE3UHZOS1hpOFpYZ2FiNV9vVXZRdVhvd293eml2Q2FrT01iMU5oTGg4RThWdzIyR0xucElsR0VaUDdnQjdTZmF3ZWt3?oc=5"
-    },
-    {
-      "title": "台股重挫為史上最大單日跌點 金管會回應了 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTmt5a1MxTnlWc2hrb1ZMSTY5Q0c1WVZla2lkc2hWSzZDempCZkY1YmdmU2J6SVpKY1ktM1hLY0tOOHRxSl9jVURWLW5la3BtS3RXRW9oV3Znd9IBX0FVX3lxTE54SFE0LW80NENpN05WZmpnWVM5N1NFMjI1NldFZGRBV2ozTWtsSzVzUmtCUkVmVXc4dXFpNEVldm1xMEtSbExYVzZCMkpGZjJUdGZwbktJVUl2cmNfTHFR?oc=5"
-    },
-    {
-      "title": "美股重點新聞摘要2026年7月25日 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGYmpWRlRoWmdWU2o2dHpNWHdtMHZvVVQ2SVR5R3oxTVJtN09VX3hqMVRUZ0dUWkllZnZGbnc1SHJfZ2tVNGFWY05TSFRqSXc?oc=5"
     }
   ]
 }
