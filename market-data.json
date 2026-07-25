@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/25 19:44",
+  "updated_tw": "07/25 20:46",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -61,25 +61,25 @@
     },
     "SCHD": {
       "price": 33.29,
-      "change": 0.49,
-      "changePercent": 1.4939
+      "change": 0.39,
+      "changePercent": 1.1854
     },
     "VOO": {
       "price": 679.14,
-      "change": 0.53,
-      "changePercent": 0.0781
+      "change": -7.89,
+      "changePercent": -1.1484
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63992.26,
-      "change": -106.2361,
-      "changePercent": -0.1657
+      "price": 64033.57,
+      "change": -64.9261,
+      "changePercent": -0.1013
     },
     "ETH": {
-      "price": 1856.35,
-      "change": -3.8268,
-      "changePercent": -0.2057
+      "price": 1856.33,
+      "change": -3.8468,
+      "changePercent": -0.2068
     }
   },
   "fx": {
@@ -129,10 +129,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTmt5a1MxTnlWc2hrb1ZMSTY5Q0c1WVZla2lkc2hWSzZDempCZkY1YmdmU2J6SVpKY1ktM1hLY0tOOHRxSl9jVURWLW5la3BtS3RXRW9oV3Znd9IBX0FVX3lxTE54SFE0LW80NENpN05WZmpnWVM5N1NFMjI1NldFZGRBV2ozTWtsSzVzUmtCUkVmVXc4dXFpNEVldm1xMEtSbExYVzZCMkpGZjJUdGZwbktJVUl2cmNfTHFR?oc=5"
     },
     {
-      "title": "台股Q3下探4萬點？群創、聯電、友達、南亞可以買？杜金龍「10檔補漲股」口袋名單：這樣操作「超好賺的啦」 - 今周刊",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSndkSkVwN1J1SW1IaWxheXpncS1nQ3UyRG5LTnRLN3NHdHU4aW9Pd0syODFsZ19HMzR5T3psRm44Mm42NjEzaUFLTjl1ajBtQjdtVWpocTd6Z184eWJUMnQyR014ZWtkNDJxc2hEcTAwUURkX29BaEpocl8tSnRpcw?oc=5"
-    },
-    {
       "title": "台股「殺千點免驚」下週強彈了？專家曝抄底時間點 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNT1NzOEthUDltUkZlSTBsbjRfb3QwRDhqb0ZMN0RXaEZYZFlMQS1Icnl1OU4ydXppSHN1M1k5a0tTdU8zMFB0ZlBHRS1TcUZZVDN0U1Q1MElQbXJXMk1HdkJRWDUzc1VDX2pnYmlNVTY4QjJHTjM1Ump5RThnQmtOMlRyOHA0RVZoQXYza1pqWUtGSjJ2R1Zpb3JqWjljbEkyX2FRU0xPVE4weTZ4UGo0VThpemdpSm5ndmpvazVXTUZmejVEd0ZPSG9hQkdJWGpKWUZDd1hSS2lHTkdrZjRxOFV4cmg1cGpyVVMwZ0JxWm52ZGtoak5MeUhwTUNmZkJNekljOGpFcEhWcFNJZGhyQVEzWk9ud0cyRkdnRkJ6d3dPN3ZHOXFZY2pZMDFkNHcyUVNVQzgydlgzYklSb1V4c2djMlFVcHEwWUs0aXBjbw?oc=5"
     },
@@ -147,6 +143,10 @@
     {
       "title": "美股早盤不穩！費半重挫400點、美光大跌6% 台積電ADR走低、台指期夜盤也下挫 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNTDlIV29HN2VoTjhEWVZScXBhRU5kbVY3M3dlcDZNeEFIYS1mc0RkLWw5M1ZpVnQ2aFpMT0RkSk1DSUpnRmIzbGc1d1lxQzhQQUVLanNBTnp3cUFhSzZZVmJwRTZDWDdWcEVZUnk5c3hHeE5SNmU5Y1dkZXhIYjdoS1pnR04xejNvaEFhMmFUV3dIQ0lyLU5xVEpPUjBocS1oMmtYRmw5VDNfdDAxTDRqenp1c2FmZFMwS2JkdWNUUi1Oc0JjZEdzX0JIbXBnaHlJOGJmVG1XUDZQNS1CSzhoSmxlZ1hHYVdNMTVaUTZkdklMVlc4UlBkOG5JUnRFaXV2djNIUlJYeW1rRVdDeHZudG5JTWlRR1Npc0RGM2FrU1M4cUtzVDMtelNCbERDNV9CMXVPM01CTXNPeVVDQzhHY04wVUNHZlhXcUZuX1F0WkNXU0JZU0J2UjRyMEg1YTU5UHVodExKcTk4VGNNakp0eVliMEtUWFE3UHZOS1hpOFpYZ2FiNV9vVXZRdVhvd293eml2Q2FrT01iMU5oTGg4RThWdzIyR0xucElsR0VaUDdnQjdTZmF3ZWt3?oc=5"
+    },
+    {
+      "title": "美股早盤／國際油價回落！三大指數平盤遊走 費半指數跌0.8% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuMVYxU3VVNTAxT0ZqX1JJX0ZaUVBTZ0R3aHdtSkVBaUZINEp3Y0NMblFlekhOX3lMXzVETExwOW5iQ2VHNldRdjl0dmN4SXd1?oc=5"
     }
   ]
 }
