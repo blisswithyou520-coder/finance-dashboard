@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/26 00:55",
+  "updated_tw": "07/26 01:58",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64129.77,
-      "change": 31.2739,
-      "changePercent": 0.0488
+      "price": 64192.14,
+      "change": 93.6439,
+      "changePercent": 0.1461
     },
     "ETH": {
-      "price": 1865.32,
-      "change": 5.1432,
-      "changePercent": 0.2765
+      "price": 1870.69,
+      "change": 10.5132,
+      "changePercent": 0.5652
     }
   },
   "fx": {
@@ -125,8 +125,8 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FcVRlYkZWUWVqcVdNS19hRWRPOXFHa3F2T3g4MVY5QTNoemdFMHhGWDY3TDRJcEFVd1M2QUtZa2VHa1kxVTUxc3RkQQ?oc=5"
     },
     {
-      "title": "塑膠、油電股重跌 台股大跌1195點 跌破四萬四 惟周線仍翻紅 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HRXhEaEwySlZ5TjJBT25wUzJVWkoyLXlBSlg5SHU4WUtTYnh2LXNtSTRnc0xzNlhONEpKZ1pWSmppdkR5aUVfMWlrLUN2ZjZoN1VPdHAzWVRuQdIBX0FVX3lxTE1TRG9xdWVobzBVWWpTV2x2bmRMOG5DeGE3OUdwVXpnaTFNcmN3b1d2akdxOXdTRUFVVGJaQ2JoUVFVczJtRTg0dUVrNmpsUllfM0VYNDlFYzE0clNIRkd3?oc=5"
+      "title": "黃金代幣化 央行展開規劃 打造新數位清算機制 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkNU1zSkNucG5fWWh0RFBPUzIwSHR4MHFzOGVzbFNjMko0cEkxZGxXbzVuU1Y5aGVzQ0hudDV6N0FHMVZHbmZINk1HbzhKYktWbHU1RFhuOUtpZ9IBX0FVX3lxTE9EeGVZalIwSkc0Mm9fdjJSbEQtLVpmazN2N08wSnVsbEF1bTFqZjNTSlF1WDBZU1poRERWUGp6T19QVzVmRl9QRUJtSkRnU3c4Y0xOaFZBaDF0T3c0Y1Rv?oc=5"
     },
     {
       "title": "美股收盤》晶片股疲弱！費半下挫逾4％ 台積電ADR跌近3％ - 自由財經",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tZUM0Rmk4YmNna1FkN3VJcGVJdmdBVGp4UFlPc0d0UVVrakZxa3pnZ2hFcE1KTGpYcFlLanEyNE51UjlFZGNsSW9DRnJ5M00?oc=5"
     },
     {
-      "title": "美股早盤不穩！費半重挫400點、美光大跌6% 台積電ADR走低、台指期夜盤也下挫 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNTDlIV29HN2VoTjhEWVZScXBhRU5kbVY3M3dlcDZNeEFIYS1mc0RkLWw5M1ZpVnQ2aFpMT0RkSk1DSUpnRmIzbGc1d1lxQzhQQUVLanNBTnp3cUFhSzZZVmJwRTZDWDdWcEVZUnk5c3hHeE5SNmU5Y1dkZXhIYjdoS1pnR04xejNvaEFhMmFUV3dIQ0lyLU5xVEpPUjBocS1oMmtYRmw5VDNfdDAxTDRqenp1c2FmZFMwS2JkdWNUUi1Oc0JjZEdzX0JIbXBnaHlJOGJmVG1XUDZQNS1CSzhoSmxlZ1hHYVdNMTVaUTZkdklMVlc4UlBkOG5JUnRFaXV2djNIUlJYeW1rRVdDeHZudG5JTWlRR1Npc0RGM2FrU1M4cUtzVDMtelNCbERDNV9CMXVPM01CTXNPeVVDQzhHY04wVUNHZlhXcUZuX1F0WkNXU0JZU0J2UjRyMEg1YTU5UHVodExKcTk4VGNNakp0eVliMEtUWFE3UHZOS1hpOFpYZ2FiNV9vVXZRdVhvd293eml2Q2FrT01iMU5oTGg4RThWdzIyR0xucElsR0VaUDdnQjdTZmF3ZWt3?oc=5"
+      "title": "塑膠、油電股重跌 台股大跌1195點 跌破四萬四 惟周線仍翻紅 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HRXhEaEwySlZ5TjJBT25wUzJVWkoyLXlBSlg5SHU4WUtTYnh2LXNtSTRnc0xzNlhONEpKZ1pWSmppdkR5aUVfMWlrLUN2ZjZoN1VPdHAzWVRuQdIBX0FVX3lxTE1TRG9xdWVobzBVWWpTV2x2bmRMOG5DeGE3OUdwVXpnaTFNcmN3b1d2akdxOXdTRUFVVGJaQ2JoUVFVczJtRTg0dUVrNmpsUllfM0VYNDlFYzE0clNIRkd3?oc=5"
     },
     {
-      "title": "投資人風險偏好降溫 美股波動擴大 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qNURpdjBXdUVTTEhwTk82bGZlR0EydE5EQVZtaWJvdVkxUnlnWVlvbEQxWWpCNmVqcUVFYlZSZFJKZFROZXJOaFdsZzBrQ2tzMmZkTmRtZWlfUdIBX0FVX3lxTE5IQkNyUmhGNW00OHhKMjZwQVJlZHQzN1VZTmNiVnhpa2llUWpLSjBFR2NrbVBtVFBPMXRoLWtsdG9QeTE2bjgzQzU4YU12cmJaOFlNUHBIVnJOZjU3TWpV?oc=5"
+      "title": "美股早盤不穩！費半重挫400點、美光大跌6% 台積電ADR走低、台指期夜盤也下挫 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNTDlIV29HN2VoTjhEWVZScXBhRU5kbVY3M3dlcDZNeEFIYS1mc0RkLWw5M1ZpVnQ2aFpMT0RkSk1DSUpnRmIzbGc1d1lxQzhQQUVLanNBTnp3cUFhSzZZVmJwRTZDWDdWcEVZUnk5c3hHeE5SNmU5Y1dkZXhIYjdoS1pnR04xejNvaEFhMmFUV3dIQ0lyLU5xVEpPUjBocS1oMmtYRmw5VDNfdDAxTDRqenp1c2FmZFMwS2JkdWNUUi1Oc0JjZEdzX0JIbXBnaHlJOGJmVG1XUDZQNS1CSzhoSmxlZ1hHYVdNMTVaUTZkdklMVlc4UlBkOG5JUnRFaXV2djNIUlJYeW1rRVdDeHZudG5JTWlRR1Npc0RGM2FrU1M4cUtzVDMtelNCbERDNV9CMXVPM01CTXNPeVVDQzhHY04wVUNHZlhXcUZuX1F0WkNXU0JZU0J2UjRyMEg1YTU5UHVodExKcTk4VGNNakp0eVliMEtUWFE3UHZOS1hpOFpYZ2FiNV9vVXZRdVhvd293eml2Q2FrT01iMU5oTGg4RThWdzIyR0xucElsR0VaUDdnQjdTZmF3ZWt3?oc=5"
     }
   ]
 }
