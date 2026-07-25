@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/26 05:25",
+  "updated_tw": "07/26 06:26",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -36,50 +36,50 @@
   "us": {
     "NVDA": {
       "price": 206.84,
-      "change": -1.92,
-      "changePercent": -0.9197
+      "change": -5.22,
+      "changePercent": -2.4616
     },
     "AAPL": {
       "price": 333.02,
-      "change": 11.36,
-      "changePercent": 3.5317
+      "change": 7.13,
+      "changePercent": 2.1879
     },
     "TSLA": {
       "price": 313.03,
-      "change": -6.66,
-      "changePercent": -2.0833
+      "change": -60.98,
+      "changePercent": -16.3044
     },
     "QQQ": {
       "price": 684.23,
-      "change": -7.73,
-      "changePercent": -1.1171
+      "change": -21.12,
+      "changePercent": -2.9943
     },
     "SPY": {
       "price": 738.93,
-      "change": 0.75,
-      "changePercent": 0.1016
+      "change": -8.48,
+      "changePercent": -1.1346
     },
     "SCHD": {
       "price": 33.29,
-      "change": 0.49,
-      "changePercent": 1.4939
+      "change": 0.39,
+      "changePercent": 1.1854
     },
     "VOO": {
       "price": 679.14,
-      "change": 0.53,
-      "changePercent": 0.0781
+      "change": -7.89,
+      "changePercent": -1.1484
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64225.26,
-      "change": 126.7639,
-      "changePercent": 0.1978
+      "price": 64337.0,
+      "change": 238.5039,
+      "changePercent": 0.3721
     },
     "ETH": {
-      "price": 1868.25,
-      "change": 8.0732,
-      "changePercent": 0.434
+      "price": 1873.51,
+      "change": 13.3332,
+      "changePercent": 0.7168
     }
   },
   "fx": {
@@ -117,6 +117,10 @@
   },
   "news": [
     {
+      "title": "台股反彈1,783點 最後掙扎？ - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVW1lTGFSZ0JoU0hfUkJCTG5QTWZ0dWtxZXU0WHppRWhuMFo5NG5JZDd2ZldRQVlKQUdwZGJQYmtaanlVamF6d3VSTjNSQUlYVW94ZkVPZHBGd9IBX0FVX3lxTE5ZUVBVMHZXTkxCdFYyR0R1eS05YnRkRVJ2b3RtSW0tdC1vWVhJa0xGNHFDZy1pWXU4S0poZVJJRzlROXlGZXhUal9ndXBhZ3BFMWRzY2hDMmIwRHNNbUVZ?oc=5"
+    },
+    {
       "title": "晶片股遇拋售潮！美股費半重挫逾4%、台積電ADR跌2.93% 台指期夜盤下滑445點 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNaUR2RmxRMmZfc0ZRT2tCMmZvVnQtQWtveF9qbklrM0lPalJ3WFVoQ29PNENqbzhBVEJmWFJPRDZzSU5xN1NpeTlvbTJQb2RHdTVVMTE1ZWNoSTI4RV82R0xfOFJBZDYwWEFMc1dybEV6SzAwTHRuNVBWbFB2aWhXUTI3b3ZXOTVyeVlYcmM2ODlJSTNBLUZFZTVVUGdMUVNUWXFsdFg1eVN1YkFPRWpSXzFGa2FIR015WXJhTHd1QXVWMnpGaF9vNHQ5NjFyeHNZTGp3SVdZOFBfRldRbjYtVk9SSWxzckFaSnBWVXZfS0NHVnJIRFlBYzFKSGZrWU9fbVpXX2FaeVhQZ1ppZTNFdzVqZXlsb2VVRXloZFd1ZlNTcDZqMUJmY0ZJOTAtWlFvZ3ZrZml4dEV0cTdVWU9PUFNNaEZ4MWVsSVM2REFTLTIzTHdJSWtKVHBITWhFbjBpYWlJa19ObXpKODFGRzBldkEwb3FOQl9iMDdFZFBzSE5qZVM2d2JLUF95MnJkZXhOUGFRNzBHLVNKV2VaSzI3N3pEd290QQ?oc=5"
     },
@@ -125,28 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FcVRlYkZWUWVqcVdNS19hRWRPOXFHa3F2T3g4MVY5QTNoemdFMHhGWDY3TDRJcEFVd1M2QUtZa2VHa1kxVTUxc3RkQQ?oc=5"
     },
     {
+      "title": "美股周線續黑緊盯三變數- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5USHZhQTBianNWWGtEMWhvZTlkcVV5V21aSWRxM0QtbkpkLXczNGgyUWN6Z1c0VFRiTWM2ODRTcVlNWU5WU0NqbjI5dGNzSzJJN0xnNW44bFFEelRVNnpF?oc=5"
+    },
+    {
       "title": "微軟、亞馬遜和Meta本周財報+Fed大戲美股指標| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JZFhHNjN2dXZ6MlRqRmtRaFpsa21ZZUFrMFJfTm5TMHhkamswRHBxX3F5OUtmYlhlVHVaM3pKay1zMkZVWUd6RVc4RnZzcE1O?oc=5"
-    },
-    {
-      "title": "黃金才大漲完就暴跌！「這些貴金屬」也完蛋 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84UnNiV3c3d3lLR1dSazluYVVleVZDOTI4U0t6SzZLcFNjNG1jM2NIQ2djSFdXT0J6dWswcWt6M1kwQU9HcmJ6SDEtUXBYdnJkWGdkYnpiQUQ2R25fNEdF0gFkQVVfeXFMUFhGSS01bFNxMDAwME5vWGRheGw4TU5oRl9xMG11Ny13enNkaHBkVEg3a2ZnNmxOYjlQLXl1VkRlWlZwYmZmWUVhbG5FUHZCS1hNVzVFNk4zeWpHT3A0bjZCTWJJYg?oc=5"
-    },
-    {
-      "title": "黃金代幣化 央行展開規劃：打造新數位清算機制 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UTGZNRThDVDN0QmhpVVotU01DSmMyS19Xdl9uTmxjUHFibzVhWm9VZTVVUG1sWGVoSE12X0hwZWVPRGdKUmxIZk1RMDVSWVdo0gFWQVVfeXFMTmVlMWpkempsSkJndlVoNFZqcFh5ZVQ0VENaZlNkU0xFZzhCSTU2THNzVlVNbXd4RzFYUmQ2NzVJWTBCNTlYeU9yckpwTHM4RmtKWnZMaEE?oc=5"
     },
     {
       "title": "美股早盤不穩！費半重挫400點、美光大跌6% 台積電ADR走低、台指期夜盤也下挫 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNTDlIV29HN2VoTjhEWVZScXBhRU5kbVY3M3dlcDZNeEFIYS1mc0RkLWw5M1ZpVnQ2aFpMT0RkSk1DSUpnRmIzbGc1d1lxQzhQQUVLanNBTnp3cUFhSzZZVmJwRTZDWDdWcEVZUnk5c3hHeE5SNmU5Y1dkZXhIYjdoS1pnR04xejNvaEFhMmFUV3dIQ0lyLU5xVEpPUjBocS1oMmtYRmw5VDNfdDAxTDRqenp1c2FmZFMwS2JkdWNUUi1Oc0JjZEdzX0JIbXBnaHlJOGJmVG1XUDZQNS1CSzhoSmxlZ1hHYVdNMTVaUTZkdklMVlc4UlBkOG5JUnRFaXV2djNIUlJYeW1rRVdDeHZudG5JTWlRR1Npc0RGM2FrU1M4cUtzVDMtelNCbERDNV9CMXVPM01CTXNPeVVDQzhHY04wVUNHZlhXcUZuX1F0WkNXU0JZU0J2UjRyMEg1YTU5UHVodExKcTk4VGNNakp0eVliMEtUWFE3UHZOS1hpOFpYZ2FiNV9vVXZRdVhvd293eml2Q2FrT01iMU5oTGg4RThWdzIyR0xucElsR0VaUDdnQjdTZmF3ZWt3?oc=5"
     },
     {
-      "title": "〈美股盤後〉Alphabet、特斯拉暴跌 布油飆破百美元 四大指數收黑 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXNTFoQlNoQS03VXNWUGJSd19hOGJSTzB3NmpOYnFBS05GMUdBc2J0VzByMlpDbGh3c1o2SjdOLWNmdkNnN1A5eFdUSUVGeGs?oc=5"
+      "title": "比特幣、銀行加密系統迎量子威脅？穆迪警告：恐將造成3兆美元損失 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zUC1DQVpzOWd0ZjlINEJSc3Y1Q2l5MDBaUXFVTG9ZNmFpWkxfSHZRM0pteWI3ZUQzNXROZnUycHZJUzJRaW9KUEZ4eW9QR3M?oc=5"
     },
     {
-      "title": "台股「殺千點免驚」下週強彈了？專家曝抄底時間點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNT1NzOEthUDltUkZlSTBsbjRfb3QwRDhqb0ZMN0RXaEZYZFlMQS1Icnl1OU4ydXppSHN1M1k5a0tTdU8zMFB0ZlBHRS1TcUZZVDN0U1Q1MElQbXJXMk1HdkJRWDUzc1VDX2pnYmlNVTY4QjJHTjM1Ump5RThnQmtOMlRyOHA0RVZoQXYza1pqWUtGSjJ2R1Zpb3JqWjljbEkyX2FRU0xPVE4weTZ4UGo0VThpemdpSm5ndmpvazVXTUZmejVEd0ZPSG9hQkdJWGpKWUZDd1hSS2lHTkdrZjRxOFV4cmg1cGpyVVMwZ0JxWm52ZGtoak5MeUhwTUNmZkJNekljOGpFcEhWcFNJZGhyQVEzWk9ud0cyRkdnRkJ6d3dPN3ZHOXFZY2pZMDFkNHcyUVNVQzgydlgzYklSb1V4c2djMlFVcHEwWUs0aXBjbw?oc=5"
+      "title": "黃金代幣化 央行展開規劃：打造新數位清算機制 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UTGZNRThDVDN0QmhpVVotU01DSmMyS19Xdl9uTmxjUHFibzVhWm9VZTVVUG1sWGVoSE12X0hwZWVPRGdKUmxIZk1RMDVSWVdo0gFWQVVfeXFMTmVlMWpkempsSkJndlVoNFZqcFh5ZVQ0VENaZlNkU0xFZzhCSTU2THNzVlVNbXd4RzFYUmQ2NzVJWTBCNTlYeU9yckpwTHM4RmtKWnZMaEE?oc=5"
     }
   ]
 }
