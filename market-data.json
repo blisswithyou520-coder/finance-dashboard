@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/25 09:09",
+  "updated_tw": "07/25 12:27",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64004.1,
-      "change": -1040.7125,
-      "changePercent": -1.6
+      "price": 64048.51,
+      "change": -996.3025,
+      "changePercent": -1.5317
     },
     "ETH": {
-      "price": 1859.34,
-      "change": -17.7602,
-      "changePercent": -0.9462
+      "price": 1858.13,
+      "change": -18.9702,
+      "changePercent": -1.0106
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "〈美股盤後〉AI燒錢疑慮升溫 晶片股遭拋售 費半重挫4.5% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tZUM0Rmk4YmNna1FkN3VJcGVJdmdBVGp4UFlPc0d0UVVrakZxa3pnZ2hFcE1KTGpYcFlLanEyNE51UjlFZGNsSW9DRnJ5M00?oc=5"
+      "title": "晶片股遇拋售潮！美股費半重挫逾4%、台積電ADR跌2.93% 台指期夜盤下滑445點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNaUR2RmxRMmZfc0ZRT2tCMmZvVnQtQWtveF9qbklrM0lPalJ3WFVoQ29PNENqbzhBVEJmWFJPRDZzSU5xN1NpeTlvbTJQb2RHdTVVMTE1ZWNoSTI4RV82R0xfOFJBZDYwWEFMc1dybEV6SzAwTHRuNVBWbFB2aWhXUTI3b3ZXOTVyeVlYcmM2ODlJSTNBLUZFZTVVUGdMUVNUWXFsdFg1eVN1YkFPRWpSXzFGa2FIR015WXJhTHd1QXVWMnpGaF9vNHQ5NjFyeHNZTGp3SVdZOFBfRldRbjYtVk9SSWxzckFaSnBWVXZfS0NHVnJIRFlBYzFKSGZrWU9fbVpXX2FaeVhQZ1ppZTNFdzVqZXlsb2VVRXloZFd1ZlNTcDZqMUJmY0ZJOTAtWlFvZ3ZrZml4dEV0cTdVWU9PUFNNaEZ4MWVsSVM2REFTLTIzTHdJSWtKVHBITWhFbjBpYWlJa19ObXpKODFGRzBldkEwb3FOQl9iMDdFZFBzSE5qZVM2d2JLUF95MnJkZXhOUGFRNzBHLVNKV2VaSzI3N3pEd290QQ?oc=5"
     },
     {
-      "title": "美股早盤不穩！費半重挫400點、美光大跌6% 台積電ADR走低、台指期夜盤也下挫 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNTDlIV29HN2VoTjhEWVZScXBhRU5kbVY3M3dlcDZNeEFIYS1mc0RkLWw5M1ZpVnQ2aFpMT0RkSk1DSUpnRmIzbGc1d1lxQzhQQUVLanNBTnp3cUFhSzZZVmJwRTZDWDdWcEVZUnk5c3hHeE5SNmU5Y1dkZXhIYjdoS1pnR04xejNvaEFhMmFUV3dIQ0lyLU5xVEpPUjBocS1oMmtYRmw5VDNfdDAxTDRqenp1c2FmZFMwS2JkdWNUUi1Oc0JjZEdzX0JIbXBnaHlJOGJmVG1XUDZQNS1CSzhoSmxlZ1hHYVdNMTVaUTZkdklMVlc4UlBkOG5JUnRFaXV2djNIUlJYeW1rRVdDeHZudG5JTWlRR1Npc0RGM2FrU1M4cUtzVDMtelNCbERDNV9CMXVPM01CTXNPeVVDQzhHY04wVUNHZlhXcUZuX1F0WkNXU0JZU0J2UjRyMEg1YTU5UHVodExKcTk4VGNNakp0eVliMEtUWFE3UHZOS1hpOFpYZ2FiNV9vVXZRdVhvd293eml2Q2FrT01iMU5oTGg4RThWdzIyR0xucElsR0VaUDdnQjdTZmF3ZWt3?oc=5"
+      "title": "〈美股盤後〉AI燒錢疑慮升溫 晶片股遭拋售 費半重挫4.5% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tZUM0Rmk4YmNna1FkN3VJcGVJdmdBVGp4UFlPc0d0UVVrakZxa3pnZ2hFcE1KTGpYcFlLanEyNE51UjlFZGNsSW9DRnJ5M00?oc=5"
     },
     {
       "title": "美股早盤／國際油價回落！三大指數平盤遊走 費半指數跌0.8% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuMVYxU3VVNTAxT0ZqX1JJX0ZaUVBTZ0R3aHdtSkVBaUZINEp3Y0NMblFlekhOX3lMXzVETExwOW5iQ2VHNldRdjl0dmN4SXd1?oc=5"
     },
     {
-      "title": "美股早盤震盪！費半狂瀉近400點　台指期夜盤跟跌 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15YjRTVUlROVh1SkxkX0ZJUGxUSzZTbjMzRlQzMmR6WV9EOE9ZZTF6aUVUanhSMzFtdUdfYUJZQUZob0ROYkZFczFxSWdBbWNBVXfSAVBBVV95cUxQRl9QTWh2NUk1cnNHRjFieUlDUG5TblNhZVIydkFZaUVwVmMzT1Vmek96cVhoX05xSVE0ZWE3cUI2WlZaREVGRVpjOUplaXlGWg?oc=5"
+      "title": "美股收盤》晶片股疲弱！費半下挫逾4％ 台積電ADR跌近3％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pclZfeWM5YnZEZkVUbXdCUXFaaVI0UjRIcmpOdU5KNGlJOVhuWkRWa1YzT2VjVmJzY05aVDF2c0d4dm5uUHJFS2c2bW9qRldBRnlFcUZpdTZfRS1YY3JZ0gFkQVVfeXFMT3NwdFM3bDlQaUY4OTl6eHJSakNZX1B1QUtrZ21yZEIxbWJPSU51N1lOcEF5QzhuUE9oMHp1bDdBMkgtM2o3WUNwTzh0X0pWOTRWRF9KM0t0UjRMVGxYZmIzQXdXWg?oc=5"
     },
     {
-      "title": "油價拉回美股止穩科技股賣壓仍重| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55VWQ4SVNxUTJOUEQ1VEtFNlVvODQzV09SLTJpYVlyNTViTXJUUlItcjFhMzliOHRycnVWQ0lzbWZyNjV3dk9NSnZCTnR3cDVRWnNvbHg4OVlvZnNKTGc?oc=5"
+      "title": "台股再度進入季線攻防戰　短線轉為區間震盪 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZN0pVWDJnWXVNTlMwLU9abVQza01ac3RpenhUZDBGN0pPOEw5c09pWXpMY1dqMUItSEdrMVFqbk5VZFpKeG0zSWVKM091SVp3S0HSAVBBVV95cUxOa2JDM3pQbTJ6bHp0WlBxZngxRTRtTnVkWVVwQ2hPZ1Iwc2V1aFRveGFxTF9UdUgxRkdKeFNTamJfLTdxQ25xMzMzUG9zbkoxUg?oc=5"
     },
     {
-      "title": "晶片股遇拋售潮！美股費半重挫逾4%、台積電ADR跌2.93% 台指期夜盤下滑445點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNaUR2RmxRMmZfc0ZRT2tCMmZvVnQtQWtveF9qbklrM0lPalJ3WFVoQ29PNENqbzhBVEJmWFJPRDZzSU5xN1NpeTlvbTJQb2RHdTVVMTE1ZWNoSTI4RV82R0xfOFJBZDYwWEFMc1dybEV6SzAwTHRuNVBWbFB2aWhXUTI3b3ZXOTVyeVlYcmM2ODlJSTNBLUZFZTVVUGdMUVNUWXFsdFg1eVN1YkFPRWpSXzFGa2FIR015WXJhTHd1QXVWMnpGaF9vNHQ5NjFyeHNZTGp3SVdZOFBfRldRbjYtVk9SSWxzckFaSnBWVXZfS0NHVnJIRFlBYzFKSGZrWU9fbVpXX2FaeVhQZ1ppZTNFdzVqZXlsb2VVRXloZFd1ZlNTcDZqMUJmY0ZJOTAtWlFvZ3ZrZml4dEV0cTdVWU9PUFNNaEZ4MWVsSVM2REFTLTIzTHdJSWtKVHBITWhFbjBpYWlJa19ObXpKODFGRzBldkEwb3FOQl9iMDdFZFBzSE5qZVM2d2JLUF95MnJkZXhOUGFRNzBHLVNKV2VaSzI3N3pEd290QQ?oc=5"
+      "title": "美股早盤不穩！費半重挫400點、美光大跌6% 台積電ADR走低、台指期夜盤也下挫 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNTDlIV29HN2VoTjhEWVZScXBhRU5kbVY3M3dlcDZNeEFIYS1mc0RkLWw5M1ZpVnQ2aFpMT0RkSk1DSUpnRmIzbGc1d1lxQzhQQUVLanNBTnp3cUFhSzZZVmJwRTZDWDdWcEVZUnk5c3hHeE5SNmU5Y1dkZXhIYjdoS1pnR04xejNvaEFhMmFUV3dIQ0lyLU5xVEpPUjBocS1oMmtYRmw5VDNfdDAxTDRqenp1c2FmZFMwS2JkdWNUUi1Oc0JjZEdzX0JIbXBnaHlJOGJmVG1XUDZQNS1CSzhoSmxlZ1hHYVdNMTVaUTZkdklMVlc4UlBkOG5JUnRFaXV2djNIUlJYeW1rRVdDeHZudG5JTWlRR1Npc0RGM2FrU1M4cUtzVDMtelNCbERDNV9CMXVPM01CTXNPeVVDQzhHY04wVUNHZlhXcUZuX1F0WkNXU0JZU0J2UjRyMEg1YTU5UHVodExKcTk4VGNNakp0eVliMEtUWFE3UHZOS1hpOFpYZ2FiNV9vVXZRdVhvd293eml2Q2FrT01iMU5oTGg4RThWdzIyR0xucElsR0VaUDdnQjdTZmF3ZWt3?oc=5"
     },
     {
       "title": "台股重挫為史上最大單日跌點 金管會回應了 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTmt5a1MxTnlWc2hrb1ZMSTY5Q0c1WVZla2lkc2hWSzZDempCZkY1YmdmU2J6SVpKY1ktM1hLY0tOOHRxSl9jVURWLW5la3BtS3RXRW9oV3Znd9IBX0FVX3lxTE54SFE0LW80NENpN05WZmpnWVM5N1NFMjI1NldFZGRBV2ozTWtsSzVzUmtCUkVmVXc4dXFpNEVldm1xMEtSbExYVzZCMkpGZjJUdGZwbktJVUl2cmNfTHFR?oc=5"
     },
     {
-      "title": "台股再度進入季線攻防戰　短線轉為區間震盪 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZN0pVWDJnWXVNTlMwLU9abVQza01ac3RpenhUZDBGN0pPOEw5c09pWXpMY1dqMUItSEdrMVFqbk5VZFpKeG0zSWVKM091SVp3S0HSAVBBVV95cUxOa2JDM3pQbTJ6bHp0WlBxZngxRTRtTnVkWVVwQ2hPZ1Iwc2V1aFRveGFxTF9UdUgxRkdKeFNTamJfLTdxQ25xMzMzUG9zbkoxUg?oc=5"
+      "title": "美股重點新聞摘要2026年7月25日 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGYmpWRlRoWmdWU2o2dHpNWHdtMHZvVVQ2SVR5R3oxTVJtN09VX3hqMVRUZ0dUWkllZnZGbnc1SHJfZ2tVNGFWY05TSFRqSXc?oc=5"
     }
   ]
 }
