@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/26 03:20",
+  "updated_tw": "07/26 04:26",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64346.63,
-      "change": 248.1339,
-      "changePercent": 0.3871
+      "price": 64300.05,
+      "change": 201.5539,
+      "changePercent": 0.3144
     },
     "ETH": {
-      "price": 1873.08,
-      "change": 12.9032,
-      "changePercent": 0.6937
+      "price": 1870.28,
+      "change": 10.1032,
+      "changePercent": 0.5431
     }
   },
   "fx": {
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JZFhHNjN2dXZ6MlRqRmtRaFpsa21ZZUFrMFJfTm5TMHhkamswRHBxX3F5OUtmYlhlVHVaM3pKay1zMkZVWUd6RVc4RnZzcE1O?oc=5"
     },
     {
-      "title": "美股周線續黑緊盯三變數- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5USHZhQTBianNWWGtEMWhvZTlkcVV5V21aSWRxM0QtbkpkLXczNGgyUWN6Z1c0VFRiTWM2ODRTcVlNWU5WU0NqbjI5dGNzSzJJN0xnNW44bFFEelRVNnpF?oc=5"
-    },
-    {
       "title": "美股收盤》晶片股疲弱！費半下挫逾4％ 台積電ADR跌近3％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pclZfeWM5YnZEZkVUbXdCUXFaaVI0UjRIcmpOdU5KNGlJOVhuWkRWa1YzT2VjVmJzY05aVDF2c0d4dm5uUHJFS2c2bW9qRldBRnlFcUZpdTZfRS1YY3JZ0gFkQVVfeXFMT3NwdFM3bDlQaUY4OTl6eHJSakNZX1B1QUtrZ21yZEIxbWJPSU51N1lOcEF5QzhuUE9oMHp1bDdBMkgtM2o3WUNwTzh0X0pWOTRWRF9KM0t0UjRMVGxYZmIzQXdXWg?oc=5"
-    },
-    {
-      "title": "台股「殺千點免驚」下週強彈了？專家曝抄底時間點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNT1NzOEthUDltUkZlSTBsbjRfb3QwRDhqb0ZMN0RXaEZYZFlMQS1Icnl1OU4ydXppSHN1M1k5a0tTdU8zMFB0ZlBHRS1TcUZZVDN0U1Q1MElQbXJXMk1HdkJRWDUzc1VDX2pnYmlNVTY4QjJHTjM1Ump5RThnQmtOMlRyOHA0RVZoQXYza1pqWUtGSjJ2R1Zpb3JqWjljbEkyX2FRU0xPVE4weTZ4UGo0VThpemdpSm5ndmpvazVXTUZmejVEd0ZPSG9hQkdJWGpKWUZDd1hSS2lHTkdrZjRxOFV4cmg1cGpyVVMwZ0JxWm52ZGtoak5MeUhwTUNmZkJNekljOGpFcEhWcFNJZGhyQVEzWk9ud0cyRkdnRkJ6d3dPN3ZHOXFZY2pZMDFkNHcyUVNVQzgydlgzYklSb1V4c2djMlFVcHEwWUs0aXBjbw?oc=5"
     },
     {
       "title": "黃金代幣化 央行展開規劃：打造新數位清算機制 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UTGZNRThDVDN0QmhpVVotU01DSmMyS19Xdl9uTmxjUHFibzVhWm9VZTVVUG1sWGVoSE12X0hwZWVPRGdKUmxIZk1RMDVSWVdo0gFWQVVfeXFMTmVlMWpkempsSkJndlVoNFZqcFh5ZVQ0VENaZlNkU0xFZzhCSTU2THNzVlVNbXd4RzFYUmQ2NzVJWTBCNTlYeU9yckpwTHM4RmtKWnZMaEE?oc=5"
     },
     {
+      "title": "台股「殺千點免驚」下週強彈了？專家曝抄底時間點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNT1NzOEthUDltUkZlSTBsbjRfb3QwRDhqb0ZMN0RXaEZYZFlMQS1Icnl1OU4ydXppSHN1M1k5a0tTdU8zMFB0ZlBHRS1TcUZZVDN0U1Q1MElQbXJXMk1HdkJRWDUzc1VDX2pnYmlNVTY4QjJHTjM1Ump5RThnQmtOMlRyOHA0RVZoQXYza1pqWUtGSjJ2R1Zpb3JqWjljbEkyX2FRU0xPVE4weTZ4UGo0VThpemdpSm5ndmpvazVXTUZmejVEd0ZPSG9hQkdJWGpKWUZDd1hSS2lHTkdrZjRxOFV4cmg1cGpyVVMwZ0JxWm52ZGtoak5MeUhwTUNmZkJNekljOGpFcEhWcFNJZGhyQVEzWk9ud0cyRkdnRkJ6d3dPN3ZHOXFZY2pZMDFkNHcyUVNVQzgydlgzYklSb1V4c2djMlFVcHEwWUs0aXBjbw?oc=5"
+    },
+    {
       "title": "〈美股盤後〉AI燒錢疑慮升溫 晶片股遭拋售 費半重挫4.5% - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tZUM0Rmk4YmNna1FkN3VJcGVJdmdBVGp4UFlPc0d0UVVrakZxa3pnZ2hFcE1KTGpYcFlLanEyNE51UjlFZGNsSW9DRnJ5M00?oc=5"
+    },
+    {
+      "title": "美股早盤不穩！費半重挫400點、美光大跌6% 台積電ADR走低、台指期夜盤也下挫 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNTDlIV29HN2VoTjhEWVZScXBhRU5kbVY3M3dlcDZNeEFIYS1mc0RkLWw5M1ZpVnQ2aFpMT0RkSk1DSUpnRmIzbGc1d1lxQzhQQUVLanNBTnp3cUFhSzZZVmJwRTZDWDdWcEVZUnk5c3hHeE5SNmU5Y1dkZXhIYjdoS1pnR04xejNvaEFhMmFUV3dIQ0lyLU5xVEpPUjBocS1oMmtYRmw5VDNfdDAxTDRqenp1c2FmZFMwS2JkdWNUUi1Oc0JjZEdzX0JIbXBnaHlJOGJmVG1XUDZQNS1CSzhoSmxlZ1hHYVdNMTVaUTZkdklMVlc4UlBkOG5JUnRFaXV2djNIUlJYeW1rRVdDeHZudG5JTWlRR1Npc0RGM2FrU1M4cUtzVDMtelNCbERDNV9CMXVPM01CTXNPeVVDQzhHY04wVUNHZlhXcUZuX1F0WkNXU0JZU0J2UjRyMEg1YTU5UHVodExKcTk4VGNNakp0eVliMEtUWFE3UHZOS1hpOFpYZ2FiNV9vVXZRdVhvd293eml2Q2FrT01iMU5oTGg4RThWdzIyR0xucElsR0VaUDdnQjdTZmF3ZWt3?oc=5"
     }
   ]
 }
