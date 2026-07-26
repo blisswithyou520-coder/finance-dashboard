@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/27 06:12",
+  "updated_tw": "07/27 07:12",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -36,50 +36,50 @@
   "us": {
     "NVDA": {
       "price": 206.84,
-      "change": -5.22,
-      "changePercent": -2.4616
+      "change": -1.92,
+      "changePercent": -0.9197
     },
     "AAPL": {
       "price": 333.02,
-      "change": 7.13,
-      "changePercent": 2.1879
+      "change": 11.36,
+      "changePercent": 3.5317
     },
     "TSLA": {
       "price": 313.03,
-      "change": -60.98,
-      "changePercent": -16.3044
+      "change": -6.66,
+      "changePercent": -2.0833
     },
     "QQQ": {
       "price": 684.23,
-      "change": -21.12,
-      "changePercent": -2.9943
+      "change": -7.73,
+      "changePercent": -1.1171
     },
     "SPY": {
       "price": 738.93,
-      "change": -8.48,
-      "changePercent": -1.1346
+      "change": 0.75,
+      "changePercent": 0.1016
     },
     "SCHD": {
       "price": 33.29,
-      "change": 0.39,
-      "changePercent": 1.1854
+      "change": 0.49,
+      "changePercent": 1.4939
     },
     "VOO": {
       "price": 679.14,
-      "change": -7.89,
-      "changePercent": -1.1484
+      "change": 0.53,
+      "changePercent": 0.0781
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65148.0,
-      "change": 836.1875,
-      "changePercent": 1.3002
+      "price": 65449.44,
+      "change": 1137.6275,
+      "changePercent": 1.7689
     },
     "ETH": {
-      "price": 1934.75,
-      "change": 61.5276,
-      "changePercent": 3.2846
+      "price": 1958.6,
+      "change": 85.3776,
+      "changePercent": 4.5578
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4070.8,
-    "twd": 4230.0,
-    "tael": 158631.0,
-    "twdTotal": 131572.0,
-    "changePercent": 0.0787
+    "usd": 4090.8,
+    "twd": 4251.0,
+    "tael": 159410.0,
+    "twdTotal": 132219.0,
+    "changePercent": 0.5704
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股週報》反覆震盪打底 外資提款縮小 - PChome Online 股市",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcThUTGs4NVNiWm1TQm9YTWU5dW5Wa2NtNEpOWjhiNzlVaUg3TC1kVFhXODJhM1hobndseG9qdUVheUJWdGJlenZCSWtjUHJYZ200Z2s1T0RVS25iaGZMOENkUkp6UlRyYnZEaWlpb0ZfSFowNnZaMXMwZ29NOHpBeg?oc=5"
+      "title": "台股反彈動能不足法人：耐心等待籌碼沉澱 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQN0p5elBoRnBRcmFuUjZ5YkJnUFhkcDBmWWNtY2JKdTRUTUpPTm04dTcySEREZnFXd0xIdFVtX3pvVUl1bmhaSWJ3NE5PNU9IS2s0TldSSTZwdzRwMGUxbUlwSFN2OWp3ZjZwUHY2S19sZEFuem53TlVaYWlqOGpGS0VOdWpmQ2VtT05yVk9kak9HYjZRNDNXdDlXVGFmTjNPaUZqY2dISERFYzFxbEtXR3lrSFBHYk9YazlicElUTFc1Vl9hbElkM0ptUnd6T0N3aEdUVEpXVm5aRDBBdms2VUwtdzNVeFV6cHNqS3NJUlM5U2xUMENRTXBkejJDUmZZYzJWNzhXSDZzeFZxTUp4UlpRQ3F6TlN5YVR1WDZubHFOSXJHUUNMLTNjTXFJdw?oc=5"
     },
     {
       "title": "台股反彈1,783點 最後掙扎？ - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVW1lTGFSZ0JoU0hfUkJCTG5QTWZ0dWtxZXU0WHppRWhuMFo5NG5JZDd2ZldRQVlKQUdwZGJQYmtaanlVamF6d3VSTjNSQUlYVW94ZkVPZHBGd9IBX0FVX3lxTE5ZUVBVMHZXTkxCdFYyR0R1eS05YnRkRVJ2b3RtSW0tdC1vWVhJa0xGNHFDZy1pWXU4S0poZVJJRzlROXlGZXhUal9ndXBhZ3BFMWRzY2hDMmIwRHNNbUVZ?oc=5"
     },
     {
-      "title": "台股反彈力道不足法人：籌碼沉澱後仍有機會 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPYUVfUXBma2ZNaklsSEp1SzczMV9wVU9KaDJwVXlQNFdrbmhwWExwaFRvMXUzLTZpU1ZPYmRaaGw0R3VDUko5TnJrNUhfdS1yTFlPV0hLbFYxYnlOSEJxdm9IQS14dUl6bEJ4V2Y2S0trazk5UTkzeHFHWmNxRnVQM04zbGtBOUZIX1l0VWtTaEJtRkFfeGs0bkQwak5YeXo0bFotcERveXowTmdMdU42b3FUNkk5MncybnpFR1cyOXg4bkxQUVpJWVhOT2lXZk1KYTdDUnNpSnFKbTF5aVVZZ2hVSWRDMjUwendEMVo2X3k4STM5TUZSenpsY0pmbFdzVDRZcGQ4OGFQRm1peWE5RzhEMU5ubVBVX2hlN3F5M3oxTk5Gd1lRVWlLQXF0WjJ5TG9OZmNuSksyTGhiZlpTUDNn?oc=5"
-    },
-    {
       "title": "AI投資「最壞情境」上演！美股兩大利空夾擊 後市走向如何？ - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EemlDUDZjd1g3bHdnMGhXczMzdDJ5dlAxTVdhcVVfU2tWeGxjckh0eHZaMmljX2xGMzRsc3V4ZkdkWE1hbFNtYkdSTWRDX00?oc=5"
     },
     {
-      "title": "黃金長期牛市才剛開始 華爾街名家勸不要輸在起跑點 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PUzJTNGZIeE1sdTlTcHlxb1BSdURVbWEtb3VVZUpOWVp1YTFMRlNzR01pNlBGUDh0SE1zUjlHTnlBTGVpelRvOC16YUh4S0xQV2k2aWd2bk40bVBFZFE40gFkQVVfeXFMTTY3a3d2ZXBLRVdjMGJFRnBSWktCYzBpa2l6dENPdjl6YUZ2LWNxSTNVcVpyMVlqb0NXTjg5NUdmalVqZ3VsNEFkQWllTzgzVHFTVncxSjljYktRbi1pamRKaGZIZA?oc=5"
+      "title": "《貴金屬》COMEX黃金上漲0.5% ETF持倉增加-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMnNuNUNTYjhXeElPSUlhSExhSHRwQV9MOU1KbDBPYUFFeU9jbGxaQ1FuVUM5ZXZHWkNBRldrZ2JiaU5mY3oxMVE4VVQyajdyLWRNSU9CZXRVemFRMU1RRmNMdTBxd2dkajV3UURMSl9OVWMwc0F3a2p5eURiMDdZR0gxNGdhYlhpb0pYYzM3TjI?oc=5"
     },
     {
-      "title": "六檔台股平衡基金績效贏大盤- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vZnYyWE5Qb0kyUjNRZHV3d0p2N3ltY1pQOExOU0FLcmI4c3FVMjJnY0RQMWtGY3pVTV9vamduczJOTHNrZTRqOGVqbjUwNkt0NVBUYXdUT0hUaFZJUWpz?oc=5"
+      "title": "〈財經週報-台股看盤〉台股震盪整理待明朗 佈局策略重風控 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aakJCWWNsWFpOYXprM21CYnBrVkpxZnhsSmF1UFRLX2dXVU1xeGhhM0x1aFNYNFMxanVKR203eGl3ODNBaldLenpNZnNuTFRCUU1IQzhB0gFbQVVfeXFMTnBHcGpYRlU4S2FGWTB6T05zeDRpRkh2eko5QWVXaE5tcUx0T1NKOG1WQUxLYlBjQnhxOWU4TGpVX1lDelhZMGFCZGRRdWt2NFJlMmFMZTNjd0U4Zw?oc=5"
+    },
+    {
+      "title": "台股還要跌？ 阮慕驊點出本週6大變數：29、30日是股市大考 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPYnZ1cS03WWdOMGFXTnNFSk1lci1ON1JTcnF0aUttMHpGWjN1aGFFSnNHTXhDdHAtUGc1ak5JSEJLVlFIRGhGWG1qY1FrbzZiVV9PVGVOc0dxRXN3ZW84UWpTUllfNmc3dzhZSXJmNlFtZm5NXzkxRjMzaXh5LXdCYTVwODlkNjl0bDB2SEdnQUJneEdlTDRKNkVJOG53WXJDd3Jud2VtSktOQXljdUo0YVJsaGMwLTM4Z3p1OTVwRWVmZUpZWEt5bWhjX0IySXZCdXM3bFRkLTJheWVXZEdyOGtuZ29PRS1rVXF4T1NPa2l6S091cGc4S21rMmFFbVNQYVlOV0hoem1BT3ItdVZ1aEg1Ri1iRWZsNnRKQm5ZSUpnaE5abUhOR21tcDhLM2dOeEJOM3N2akZySlJOeUdKa0pGQ0FSaUxFWFpTbHQxOVRPQ3YyYWlRWWNn?oc=5"
     },
     {
       "title": "黃金期 暫時觀望 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VWHJHT1lXRGd4cVl6djRvdWRha3JlNDJUQXRKNHQ5ZUhoMHhUUHhxeUw1eWUtOWVVcXI1Tlp2eDVQNlJCVUQ5LUZmZUdmWUJz0gFWQVVfeXFMTmhOWHRLdjdBaUpLNDEwcmxGUEtFbmFUTDV5Q0pteHdMaHpZRkZUZXRzV1gyMGVaamN6NXc4YUhGRFdJM3phTWFLU2lvd09CdVpseFNsOUE?oc=5"
     },
     {
-      "title": "台股還要跌？ 阮慕驊點出本週6大變數：29、30日是股市大考 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPYnZ1cS03WWdOMGFXTnNFSk1lci1ON1JTcnF0aUttMHpGWjN1aGFFSnNHTXhDdHAtUGc1ak5JSEJLVlFIRGhGWG1qY1FrbzZiVV9PVGVOc0dxRXN3ZW84UWpTUllfNmc3dzhZSXJmNlFtZm5NXzkxRjMzaXh5LXdCYTVwODlkNjl0bDB2SEdnQUJneEdlTDRKNkVJOG53WXJDd3Jud2VtSktOQXljdUo0YVJsaGMwLTM4Z3p1OTVwRWVmZUpZWEt5bWhjX0IySXZCdXM3bFRkLTJheWVXZEdyOGtuZ29PRS1rVXF4T1NPa2l6S091cGc4S21rMmFFbVNQYVlOV0hoem1BT3ItdVZ1aEg1Ri1iRWZsNnRKQm5ZSUpnaE5abUhOR21tcDhLM2dOeEJOM3N2akZySlJOeUdKa0pGQ0FSaUxFWFpTbHQxOVRPQ3YyYWlRWWNn?oc=5"
+      "title": "〈台股盤前要聞〉費半指數重挫逾4%、季線反攻戰添難度、超級法說周登場 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zYXdIeFl6b3JBTWNKU3loZ3NiT2RWUFFJWFhSbC01WHRxRGo3a3pIRXhtY2hFYktoSllsZk1BSlBhYlE5bnpYOGRMQnhMWHM?oc=5"
     }
   ]
 }
