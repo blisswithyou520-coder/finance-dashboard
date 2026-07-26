@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/26 09:14",
+  "updated_tw": "07/26 12:46",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -36,50 +36,50 @@
   "us": {
     "NVDA": {
       "price": 206.84,
-      "change": -1.92,
-      "changePercent": -0.9197
+      "change": -5.22,
+      "changePercent": -2.4616
     },
     "AAPL": {
       "price": 333.02,
-      "change": 11.36,
-      "changePercent": 3.5317
+      "change": 7.13,
+      "changePercent": 2.1879
     },
     "TSLA": {
       "price": 313.03,
-      "change": -6.66,
-      "changePercent": -2.0833
+      "change": -60.98,
+      "changePercent": -16.3044
     },
     "QQQ": {
       "price": 684.23,
-      "change": -7.73,
-      "changePercent": -1.1171
+      "change": -21.12,
+      "changePercent": -2.9943
     },
     "SPY": {
       "price": 738.93,
-      "change": 0.75,
-      "changePercent": 0.1016
+      "change": -8.48,
+      "changePercent": -1.1346
     },
     "SCHD": {
       "price": 33.29,
-      "change": 0.49,
-      "changePercent": 1.4939
+      "change": 0.39,
+      "changePercent": 1.1854
     },
     "VOO": {
       "price": 679.14,
-      "change": 0.53,
-      "changePercent": 0.0781
+      "change": -7.89,
+      "changePercent": -1.1484
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64435.18,
-      "change": 336.6839,
-      "changePercent": 0.5253
+      "price": 64517.49,
+      "change": 418.9939,
+      "changePercent": 0.6537
     },
     "ETH": {
-      "price": 1878.48,
-      "change": 18.3032,
-      "changePercent": 0.984
+      "price": 1885.68,
+      "change": 25.5032,
+      "changePercent": 1.371
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "台股跳水式下殺「該不該停損？」 Cheap曝數據：最猛反彈都緊黏著大跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPeDU3YU5BSXpacGdFODk1N2JVbWVDX0ZsUlhDNW9xc1k4UnhmMkc3aW5pcnBFUDhpVGZDbjl3RGhDZ25xRXlvUHNHTm80VDUzbVJoTjlBQ21KY09rQ3VxdXBxQ2JlbjNLRkFWdWxjUlllcld4dzgtd0RLblBIZm5IZkRPcW5WRWxleTYzR29xYlEtSFNaMVhESFJ3bzlQY0RIUUY5a2VSQUp4QWpYX2gzQ0huVTlIdDBrTl8yZTcwMUtHSmN4QVVmY3B6X3F4WERQLUl3dnQzQ2NDT0dWWTVhT1dtZWJsbE5pMm1iTDdyb1I0SmM3QmI3dmRldVhfcExPZlNpSldWb1ZLZDg1V2hWYzdXaW1TRXkycGlaSUpVOWVoOVhPNThUYVZoY00zSk5BMEEzbzdxLWZQcVM2SUY5OTJEcUxjTkJRSFFfcWMzd3hYQTBNZ1VBNENDcUl6RTZSM2JDNnQyMFlWM0NJcEJPQURmaGxDLWsyUmg3NWJmX0NxcEdrcWpBekxxc2JkbUx6QlE?oc=5"
+    },
+    {
       "title": "台股反彈1,783點 最後掙扎？ - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVW1lTGFSZ0JoU0hfUkJCTG5QTWZ0dWtxZXU0WHppRWhuMFo5NG5JZDd2ZldRQVlKQUdwZGJQYmtaanlVamF6d3VSTjNSQUlYVW94ZkVPZHBGd9IBX0FVX3lxTE5ZUVBVMHZXTkxCdFYyR0R1eS05YnRkRVJ2b3RtSW0tdC1vWVhJa0xGNHFDZy1pWXU4S0poZVJJRzlROXlGZXhUal9ndXBhZ3BFMWRzY2hDMmIwRHNNbUVZ?oc=5"
     },
     {
-      "title": "晶片股遇拋售潮！美股費半重挫逾4%、台積電ADR跌2.93% 台指期夜盤下滑445點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNaUR2RmxRMmZfc0ZRT2tCMmZvVnQtQWtveF9qbklrM0lPalJ3WFVoQ29PNENqbzhBVEJmWFJPRDZzSU5xN1NpeTlvbTJQb2RHdTVVMTE1ZWNoSTI4RV82R0xfOFJBZDYwWEFMc1dybEV6SzAwTHRuNVBWbFB2aWhXUTI3b3ZXOTVyeVlYcmM2ODlJSTNBLUZFZTVVUGdMUVNUWXFsdFg1eVN1YkFPRWpSXzFGa2FIR015WXJhTHd1QXVWMnpGaF9vNHQ5NjFyeHNZTGp3SVdZOFBfRldRbjYtVk9SSWxzckFaSnBWVXZfS0NHVnJIRFlBYzFKSGZrWU9fbVpXX2FaeVhQZ1ppZTNFdzVqZXlsb2VVRXloZFd1ZlNTcDZqMUJmY0ZJOTAtWlFvZ3ZrZml4dEV0cTdVWU9PUFNNaEZ4MWVsSVM2REFTLTIzTHdJSWtKVHBITWhFbjBpYWlJa19ObXpKODFGRzBldkEwb3FOQl9iMDdFZFBzSE5qZVM2d2JLUF95MnJkZXhOUGFRNzBHLVNKV2VaSzI3N3pEd290QQ?oc=5"
+      "title": "台股拉回緯創獨扛 6檔含緯ETF近一周含息報酬衝破4% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xOFB4Q2Z0RjRGc2IyNkxZaXhIQ2kwTkNKdlJVVDNpckNKOEdYaWlpeU9NN3hGeXFieDRPaDNwMXcwV0dOd1IzZWlwWXcwTVE?oc=5"
     },
     {
       "title": "台股跌千點你恐慌　股海老牛曝加碼訊號 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yaFlhLWh2T3lnTFZQRnZQUFVVekdCUlRxc193cUh1YzMtOEJjRFRtT3NtVzRZQVIzSWJtVVZTYzQyVkg2YkpNNkhsM0ZLOFhKNXfSAVBBVV95cUxPV2VFbWV6R3ZMRjR0bHJrajVmeThWeG91UVM4SVd5VzEwbHh4Y1Q4Z0pRd09CVU84Tm9DVzREaHVxcHB4OV9nZEpRY2Nkb1RwaA?oc=5"
     },
     {
+      "title": "韓股崩盤引爆去槓桿骨牌！台股慘崩千點竟奇蹟翻紅「恐怖星期一斷頭潮來襲？」專家：搶反彈就看這一天- 上市櫃 - 旺得富理財網",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02VFd1X1VKUy15MWZMRnZZZnI2RG1TVDdTT3NYMnB2QktLYkRzOFBNMEZuNnBaWjRtRlBoejM0ZXZ4dUlqT29ZSzVJLWhHUWVJUGUtaEdHZlA0b19XWldZRkFaRkNsbnc1Vmc?oc=5"
+    },
+    {
       "title": "台股重挫近1200點 投顧估本週落在42500至45000點 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtd2E0bndJNVZaU3prTzJFeG9EZjNVU1FlWHRKNE12QnJ6ZmpfODlKRVBTYkhVODdRbGoxUmRfbWcteVNpbWRkamkxUDZ3Ui1HUVVMbl9maVltYVBNU2Nr0gFkQVVfeXFMTnI3S1pENUxGZFpFWkhwSjZ3SW5tbkszaTFla0V6dm9xcVhJUXgzdWR5SHZXTlBzT3pzeExKSlM4S0p1UGZHY2F0djY0M2ExYjN2RXp2dnZQOE44SGxDa2EtbTgzOA?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉Alphabet、特斯拉暴跌 布油飆破百美元 四大指數收黑 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXNTFoQlNoQS03VXNWUGJSd19hOGJSTzB3NmpOYnFBS05GMUdBc2J0VzByMlpDbGh3c1o2SjdOLWNmdkNnN1A5eFdUSUVGeGs?oc=5"
-    },
-    {
-      "title": "台股遭大提款！欣興、旺宏等16檔「跌出身價」外資逆勢進場撿便宜- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GbHMxUkl0QWlOSmhmVlRMSnMyMzJMclVpQW5xWXJ0SVJEcWh2cnBEUVNvXzlqSG5mY0pMSVRWRWxDZmxsamhtY2c5NEhWemhJZ1VFU0JjdEV5ODRMZWNr?oc=5"
     },
     {
       "title": "美股早盤不穩！費半重挫400點、美光大跌6% 台積電ADR走低、台指期夜盤也下挫 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNTDlIV29HN2VoTjhEWVZScXBhRU5kbVY3M3dlcDZNeEFIYS1mc0RkLWw5M1ZpVnQ2aFpMT0RkSk1DSUpnRmIzbGc1d1lxQzhQQUVLanNBTnp3cUFhSzZZVmJwRTZDWDdWcEVZUnk5c3hHeE5SNmU5Y1dkZXhIYjdoS1pnR04xejNvaEFhMmFUV3dIQ0lyLU5xVEpPUjBocS1oMmtYRmw5VDNfdDAxTDRqenp1c2FmZFMwS2JkdWNUUi1Oc0JjZEdzX0JIbXBnaHlJOGJmVG1XUDZQNS1CSzhoSmxlZ1hHYVdNMTVaUTZkdklMVlc4UlBkOG5JUnRFaXV2djNIUlJYeW1rRVdDeHZudG5JTWlRR1Npc0RGM2FrU1M4cUtzVDMtelNCbERDNV9CMXVPM01CTXNPeVVDQzhHY04wVUNHZlhXcUZuX1F0WkNXU0JZU0J2UjRyMEg1YTU5UHVodExKcTk4VGNNakp0eVliMEtUWFE3UHZOS1hpOFpYZ2FiNV9vVXZRdVhvd293eml2Q2FrT01iMU5oTGg4RThWdzIyR0xucElsR0VaUDdnQjdTZmF3ZWt3?oc=5"
     },
     {
-      "title": "微軟、亞馬遜和Meta本周財報+Fed大戲美股指標| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JZFhHNjN2dXZ6MlRqRmtRaFpsa21ZZUFrMFJfTm5TMHhkamswRHBxX3F5OUtmYlhlVHVaM3pKay1zMkZVWUd6RVc4RnZzcE1O?oc=5"
+      "title": "費半重挫逾4% 法人：台股短線仍處修正整理| 股市要聞| 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxejUzaS1rRkNDRmdaMTR4RzI3NXQ0ZzhUTmlvMXZFWVZVV25wUHVQV2lzZjZ6ZUV6ZFFCQzFwZE9Gb28tUjFEbGY2eDBKUnJh?oc=5"
     }
   ]
 }
