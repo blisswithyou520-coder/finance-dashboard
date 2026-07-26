@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/27 02:44",
+  "updated_tw": "07/27 03:56",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64655.71,
-      "change": 343.8975,
-      "changePercent": 0.5347
+      "price": 64643.59,
+      "change": 331.7775,
+      "changePercent": 0.5159
     },
     "ETH": {
-      "price": 1911.94,
-      "change": 38.7176,
-      "changePercent": 2.0669
+      "price": 1912.44,
+      "change": 39.2176,
+      "changePercent": 2.0936
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "台股週報》反覆震盪打底 外資提款縮小 - PChome Online 股市",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcThUTGs4NVNiWm1TQm9YTWU5dW5Wa2NtNEpOWjhiNzlVaUg3TC1kVFhXODJhM1hobndseG9qdUVheUJWdGJlenZCSWtjUHJYZ200Z2s1T0RVS25iaGZMOENkUkp6UlRyYnZEaWlpb0ZfSFowNnZaMXMwZ29NOHpBeg?oc=5"
+    },
+    {
       "title": "台股反彈力道不足法人：籌碼沉澱後仍有機會 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPYUVfUXBma2ZNaklsSEp1SzczMV9wVU9KaDJwVXlQNFdrbmhwWExwaFRvMXUzLTZpU1ZPYmRaaGw0R3VDUko5TnJrNUhfdS1yTFlPV0hLbFYxYnlOSEJxdm9IQS14dUl6bEJ4V2Y2S0trazk5UTkzeHFHWmNxRnVQM04zbGtBOUZIX1l0VWtTaEJtRkFfeGs0bkQwak5YeXo0bFotcERveXowTmdMdU42b3FUNkk5MncybnpFR1cyOXg4bkxQUVpJWVhOT2lXZk1KYTdDUnNpSnFKbTF5aVVZZ2hVSWRDMjUwendEMVo2X3k4STM5TUZSenpsY0pmbFdzVDRZcGQ4OGFQRm1peWE5RzhEMU5ubVBVX2hlN3F5M3oxTk5Gd1lRVWlLQXF0WjJ5TG9OZmNuSksyTGhiZlpTUDNn?oc=5"
     },
     {
-      "title": "黃金期 暫時觀望 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pYS1PdG9LVVJySTI2THVWWWtBWDNsM2J1NnRMZTRhS1pBRXU5RlVvdUY5aUJZREp1VFkzS21SZVQtYWlscUlSMWZDZjVpZUVSSm00dGl0alc1UdIBX0FVX3lxTE91R1EyLUU5MTlucExLdkRqSE1EODBZN19KdHZIWFJBV0RidVl0WlZPZTc0ckZsOU1vak15TE1MeTB2NlZITDdMOGpPYWtzcTBVel9GOFdLUjk0ZVQ3M0tn?oc=5"
+      "title": "台股反彈1,783點 最後掙扎？ - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVW1lTGFSZ0JoU0hfUkJCTG5QTWZ0dWtxZXU0WHppRWhuMFo5NG5JZDd2ZldRQVlKQUdwZGJQYmtaanlVamF6d3VSTjNSQUlYVW94ZkVPZHBGd9IBX0FVX3lxTE5ZUVBVMHZXTkxCdFYyR0R1eS05YnRkRVJ2b3RtSW0tdC1vWVhJa0xGNHFDZy1pWXU4S0poZVJJRzlROXlGZXhUal9ndXBhZ3BFMWRzY2hDMmIwRHNNbUVZ?oc=5"
+    },
+    {
+      "title": "台股打底42K成關鍵支撐- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IWWsyVXhuUEFoQmxOWXZSUVBaOEwyaTI4VXB1aXFwVXJwN0k2eXJzSnpBQTR2aVJUX254V3psd1N2ZnZxR1VhNi1yNEgtaENYdWFRb2gwNXZrbF81bVY0?oc=5"
     },
     {
       "title": "黃金長期牛市才剛開始 華爾街名家勸不要輸在起跑點 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PUzJTNGZIeE1sdTlTcHlxb1BSdURVbWEtb3VVZUpOWVp1YTFMRlNzR01pNlBGUDh0SE1zUjlHTnlBTGVpelRvOC16YUh4S0xQV2k2aWd2bk40bVBFZFE40gFkQVVfeXFMTTY3a3d2ZXBLRVdjMGJFRnBSWktCYzBpa2l6dENPdjl6YUZ2LWNxSTNVcVpyMVlqb0NXTjg5NUdmalVqZ3VsNEFkQWllTzgzVHFTVncxSjljYktRbi1pamRKaGZIZA?oc=5"
     },
     {
-      "title": "台股週報》反覆震盪打底 外資提款縮小 - 卡優新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGZzJpMlRZSVdLSzlRdTIxUkR1Vi1kNGVxcnBxUktWODdZRVVBQXZMUUd3WlM3ZHBfWUF4aTl4YXhVanpBbHNUSDN0VkFTOVR3M1ZPbFJzQXhzdw?oc=5"
-    },
-    {
       "title": "聚焦美股財報.Fed利率決議台股觀望氛圍濃| 金融 - 非凡新聞台",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ndGRFd1JsYS03U2lvNEVqcGp1dHUyaXZQTUVEN1k1VGVhdkMzWHlQYlRpM2RqVXFGRlpiZjRLZjhvQ3daN3JRNG1oZmN5ZkZwM2pleDJzWWZXQ0c2a0QwakE3blhNRUR3b3EteQ?oc=5"
-    },
-    {
-      "title": "費半重挫逾4% 法人：台股短線仍處修正整理| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XX3ZBRUc1eDczYmVTbnNySUM3ckV0ZGxPS2FYbVVvSjlhQVQ2Z0gzU1VIU3lPMUFmWnYwSlVZSHJ5YkIxNUROTXY4LWJXdjB2SVMyYmZFMHZtV1BGT2c?oc=5"
     },
     {
       "title": "美股風暴周、台指期先挫! 台股季線難收復、將成大型箱型整理格局 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPM2RRai1YN0g4dnlzdG5Ra25ibEpBNzE0SWl4SlUydENVdl9falQ4RW51TFFZYkZ3ZUJhNEdWVkpDLVlPbEJxUVZja20tdThidkRsYWNvSy1ZdnFZRXVITHVOR29KdmlyVnh3QUYyYkYwTE9LUXYwcjIwOW5wY3Y3RHdvaENRdmtZQlVkdVVTTkZ1aWYxVTBLMm1nWDc4V0tWclFURUswMDNNR0xfeVo1WGpObC14VGxPeFJKZl9TTzliWkkzenV5SVBqbTZ4akM5c3NVcEhZSF9HRlZtLWpVSkN0SldkNDRDbFI3MTVZazNObW84cFBtR192U3VHaFdkYkZPWG9GdjMtak9RSnVRTDRwaEZsbERvNmIwNW14RjBSZk9GWW1xNlFZSGZfWjRqN0xIMDNkTXhodXJ0Mm9lOGtSS25OV3lIYWVPMlo5S2JjZUkwLXN2RzNCR1hkX0FMcDhDLVVtM0pxZDJZS2dxQWtMWm5CelI0RVc3bUhEVWdfckc3bkUxMURoZFlNZV8yTWdYUm0wcmxaOG8?oc=5"
     },
     {
-      "title": "台股反彈1,783點 最後掙扎？ - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVW1lTGFSZ0JoU0hfUkJCTG5QTWZ0dWtxZXU0WHppRWhuMFo5NG5JZDd2ZldRQVlKQUdwZGJQYmtaanlVamF6d3VSTjNSQUlYVW94ZkVPZHBGd9IBX0FVX3lxTE5ZUVBVMHZXTkxCdFYyR0R1eS05YnRkRVJ2b3RtSW0tdC1vWVhJa0xGNHFDZy1pWXU4S0poZVJJRzlROXlGZXhUal9ndXBhZ3BFMWRzY2hDMmIwRHNNbUVZ?oc=5"
+      "title": "外資今年來賣超台股1.6兆元 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RNGlsNFNlUzhjbkEzdUR1T3dWeERvTFFsOW56T2V2aUxYLVpDLWE5Vzh3VEdoUk8xdDJOZFNSNkw4RHdKZVdJRzRQQjVwcEtY0gFWQVVfeXFMTmFvblg3Wlp0Z2dvMjNGVXVPVlJ6Z0R0Y1pEdmkzakR6RGZTS3lFVnA2R011NEJTbUtuUTdleGthRmVKeVl3dTAyOWM1ZlBuOUs3OFNHUkE?oc=5"
     }
   ]
 }
