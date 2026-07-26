@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/26 17:46",
+  "updated_tw": "07/26 19:18",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -36,50 +36,50 @@
   "us": {
     "NVDA": {
       "price": 206.84,
-      "change": -1.92,
-      "changePercent": -0.9197
+      "change": -5.22,
+      "changePercent": -2.4616
     },
     "AAPL": {
       "price": 333.02,
-      "change": 11.36,
-      "changePercent": 3.5317
+      "change": 7.13,
+      "changePercent": 2.1879
     },
     "TSLA": {
       "price": 313.03,
-      "change": -6.66,
-      "changePercent": -2.0833
+      "change": -60.98,
+      "changePercent": -16.3044
     },
     "QQQ": {
       "price": 684.23,
-      "change": -7.73,
-      "changePercent": -1.1171
+      "change": -21.12,
+      "changePercent": -2.9943
     },
     "SPY": {
       "price": 738.93,
-      "change": 0.75,
-      "changePercent": 0.1016
+      "change": -8.48,
+      "changePercent": -1.1346
     },
     "SCHD": {
       "price": 33.29,
-      "change": 0.49,
-      "changePercent": 1.4939
+      "change": 0.39,
+      "changePercent": 1.1854
     },
     "VOO": {
       "price": 679.14,
-      "change": 0.53,
-      "changePercent": 0.0781
+      "change": -7.89,
+      "changePercent": -1.1484
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64486.44,
-      "change": 174.6275,
-      "changePercent": 0.2715
+      "price": 64457.73,
+      "change": 145.9175,
+      "changePercent": 0.2269
     },
     "ETH": {
-      "price": 1883.04,
-      "change": 9.8176,
-      "changePercent": 0.5241
+      "price": 1885.49,
+      "change": 12.2676,
+      "changePercent": 0.6549
     }
   },
   "fx": {
@@ -117,12 +117,16 @@
   },
   "news": [
     {
+      "title": "比特幣價格守穩64,000美元上方，交易者靜待聯準會利率決議 - Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOdkFLVks5dUplSUc2NmIxUEtSa1RUVHZmenNnUGh2Wk1EWEJBZGFuclo0czI1VFBRTzZxY0xQdWVadGh0WnlCYVJTSjJ5blpqXzRVVDY0ODZSN05fSWhNRE1RenFhclY2N0t2NFI4RkhzYS13b1FjMUtobkVwVi0zRmhjZWhXb25zZzMzdzJsaHhMWHRfd2pNbFJac0VaenVFTEZFSG5yTkZNVGpra19oWjd6NVY5QndNZGV3ZTlXUHlrQk15UndOcXV4cmpVaUFSWWtMNVFxTm5SY3RPVkZqZld6Skc4RHpxS3pPekh0Q0FSd2RETjRJTzNNV1lwdXdSYkJTOWVfRVNSQm5WY1lxYlN4Z2FFY1Q0UlhFbGlqUl9xdHk1OXJseFU4cElKUzYwQkdsSUpqN3JZb3NVTDNJYXEzRnlCX0RsRVBTQlZxZTA4UHdPcFJfa2tJSW9yY251VTJRS2tERXRrdmhFa2ZSNjc2SUZ4dmQ2X2hF?oc=5"
+    },
+    {
       "title": "台股反彈1,783點 最後掙扎？ - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVW1lTGFSZ0JoU0hfUkJCTG5QTWZ0dWtxZXU0WHppRWhuMFo5NG5JZDd2ZldRQVlKQUdwZGJQYmtaanlVamF6d3VSTjNSQUlYVW94ZkVPZHBGd9IBX0FVX3lxTE5ZUVBVMHZXTkxCdFYyR0R1eS05YnRkRVJ2b3RtSW0tdC1vWVhJa0xGNHFDZy1pWXU4S0poZVJJRzlROXlGZXhUal9ndXBhZ3BFMWRzY2hDMmIwRHNNbUVZ?oc=5"
     },
     {
-      "title": "美股半導體ETF重挫4.4%！瑞穗證券曝「多重利空疊加」引發市場賣壓 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNVG1JMGVXMVQ0NU5nRjNSMUo2cnppOVAxZUtnWDJDTEZaREw1bV80Ykg1TXd3cUpyVmJ3OUZZcHdtSFFwanJ5Y3RHMkM2QnE3Y1pndUtCWTRXeGVVTnV6RVp6R21IUUdVTGNwSTVMUjExa2E1T3diZ1NqemZZcXk5ZVBLNWFXSVpDTXVHTldDWVl6T2RHeWFleWVjYXZDUTFObEFaQmlXZ3BBREJtUVpqUWhwQ01pVGg0X2F3WVUwR2ZlNVZNR3FwaVdqSmpQVnBMOHlaSFA2S1RGR00yZzU3dmVsaHlfanNZMjBYSXNFaEhGMDIyTzBvY0p5STBRYW5iRFhIRUg3bTVybm4yZW1iQ1lmTG5FTEVLLTBlUzdBTElfYVBiX21SX3kzSVAwQnBVRHdfWjhsVW14bTNtWjFfRXVJM2JuY3phT204ZkdBRUFfbzYwbmctMnZyVGpHY0xJdFp6dmZDc0U4MDVteDBWSkFQeEtENEZaZnR0ejQ5MlVVQ0NRQjNZ?oc=5"
+      "title": "費半重挫逾4% 法人：台股短線仍處修正整理| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XX3ZBRUc1eDczYmVTbnNySUM3ckV0ZGxPS2FYbVVvSjlhQVQ2Z0gzU1VIU3lPMUFmWnYwSlVZSHJ5YkIxNUROTXY4LWJXdjB2SVMyYmZFMHZtV1BGT2c?oc=5"
     },
     {
       "title": "台股拉回緯創獨扛 6檔含緯ETF近一周含息報酬衝破4% - news.cnyes.com",
@@ -137,16 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yaFlhLWh2T3lnTFZQRnZQUFVVekdCUlRxc193cUh1YzMtOEJjRFRtT3NtVzRZQVIzSWJtVVZTYzQyVkg2YkpNNkhsM0ZLOFhKNXfSAVBBVV95cUxPV2VFbWV6R3ZMRjR0bHJrajVmeThWeG91UVM4SVd5VzEwbHh4Y1Q4Z0pRd09CVU84Tm9DVzREaHVxcHB4OV9nZEpRY2Nkb1RwaA?oc=5"
     },
     {
-      "title": "中東戰火推升升息預期 黃金反彈挑戰大 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4STlHaDgzWUE2aHZ4d0JUYTRrSmlCUHFvdjJSelJhQ0lyeS05eExxeDduWU54dmdIcWV1Z0V5ZF9SZFJBdTFxRUhiUVNhLUZZZ0Q3T2VVTS02ZVBwTEpN0gFkQVVfeXFMT3kwUW56V0V4RDhTWDRoOWhEbnJrUjBFWVgtRFRmV1prU2JhUk15Z0FGZkhmcDBTcEZtV1NkalV5NlNEOThKV2RfRVA0VGJKNHlYTkxTalBSMlQzWk9UcVN2VXY2eA?oc=5"
+      "title": "台股反彈動能不足 法人：耐心等待籌碼沉澱 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PbndGUXdydUZZVTN4dEZ4WnlXdkVmOURQME5kSVlTNFFiNzhhUnRTMjNnLVZpUkdaTDZtWXJSYk9LOERlQ3RkTDF2VFhaRzdk0gFWQVVfeXFMT1hhTmJ5M3RFbUgtb1c0VEpLYnhIcTBVdWRtZ3J6cEp4ZC1PZ2F0V1RETkxpdXZIcE9renRoMVpNdFJYVVRXMTVOZjR6OHIzY3V4bkRBcWc?oc=5"
     },
     {
-      "title": "比特幣也要打進外交戰！BTC 政策學院成國務院數位自由計畫創始夥伴| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWXUySGhaM2sxencyazg5RlJjZnh0c1I2OEpQNER1Q3FKTnFwV255b29NUzlEeEJfNU40NGdZT1Z4ZUtmVHVWcC13QlJDU29rdHNtdU84TG5wZDdNZ0p0Ny1qSFpyNkw0UmVpcWo3YzM0VzBXY0JmMENKcnh5elpQQzlLNmhJMkNnbndzUmdaVmlybmtk?oc=5"
-    },
-    {
-      "title": "美科技股週五慘跌…台股週一挫著等？ 專家揭16檔抗震個股| 財經焦點 - 太報 TaiSounds",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpVnpKS18tbXFvYXEtREZiTVhVQ1hWeGNPQnNoc2dPcHppM0FkSHg0SWhKRENEYThuUDJrQjZUQWJBVUFrU2ExZldjblhERldvQzhTdVFONERJYW45?oc=5"
+      "title": "美股半導體ETF重挫4.4%！瑞穗證券曝「多重利空疊加」引發市場賣壓 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNVG1JMGVXMVQ0NU5nRjNSMUo2cnppOVAxZUtnWDJDTEZaREw1bV80Ykg1TXd3cUpyVmJ3OUZZcHdtSFFwanJ5Y3RHMkM2QnE3Y1pndUtCWTRXeGVVTnV6RVp6R21IUUdVTGNwSTVMUjExa2E1T3diZ1NqemZZcXk5ZVBLNWFXSVpDTXVHTldDWVl6T2RHeWFleWVjYXZDUTFObEFaQmlXZ3BBREJtUVpqUWhwQ01pVGg0X2F3WVUwR2ZlNVZNR3FwaVdqSmpQVnBMOHlaSFA2S1RGR00yZzU3dmVsaHlfanNZMjBYSXNFaEhGMDIyTzBvY0p5STBRYW5iRFhIRUg3bTVybm4yZW1iQ1lmTG5FTEVLLTBlUzdBTElfYVBiX21SX3kzSVAwQnBVRHdfWjhsVW14bTNtWjFfRXVJM2JuY3phT204ZkdBRUFfbzYwbmctMnZyVGpHY0xJdFp6dmZDc0U4MDVteDBWSkFQeEtENEZaZnR0ejQ5MlVVQ0NRQjNZ?oc=5"
     }
   ]
 }
