@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/26 22:14",
+  "updated_tw": "07/26 23:32",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -56,8 +56,8 @@
     },
     "SPY": {
       "price": 738.93,
-      "change": 0.75,
-      "changePercent": 0.1016
+      "change": -8.48,
+      "changePercent": -1.1346
     },
     "SCHD": {
       "price": 33.29,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64645.99,
-      "change": 334.1775,
-      "changePercent": 0.5196
+      "price": 64688.49,
+      "change": 376.6775,
+      "changePercent": 0.5857
     },
     "ETH": {
-      "price": 1893.47,
-      "change": 20.2476,
-      "changePercent": 1.0809
+      "price": 1905.27,
+      "change": 32.0476,
+      "changePercent": 1.7108
     }
   },
   "fx": {
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "台股還要繼續跌？專家預言：下週2天迎大考 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNbE53blJFaHRuaFh3UTJxYWtacV9TX2F3TWJ6YTU0UFk5eHFFdDZKUmZ0RWhiTEhMYWNKcVFidXN2cWsyR2NwODFqMEJhZi1QLW9RVmFHbW1TZUlxVzR5VFY4bG1WQWxoNTJvb1ZpMWRmUzhYbHdISVBJWnBncjNNc294RE5NTk1LUXFmM3ZsakJ5UlJvNEptY0JkTDYzZjNnYzVLV2FHb0xfM1VUTWNhQ0dWcVp1Y3pySzg2a2t5QVF6SktfN0ZtUlhpcURPdXNTZHNwb2w5NFZ6dlZFUUhoazJiQ2M1MnUwOTlBLVAxNGIwV1hHSG5hVkE4c3dFaVlFb2pwZUZUc3FtZW8zcFJCUnNlOHRBa1A0VXZPYll4SzQ4c0FBNDEyTG9fRQ?oc=5"
-    },
-    {
       "title": "台股反彈1,783點 最後掙扎？ - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVW1lTGFSZ0JoU0hfUkJCTG5QTWZ0dWtxZXU0WHppRWhuMFo5NG5JZDd2ZldRQVlKQUdwZGJQYmtaanlVamF6d3VSTjNSQUlYVW94ZkVPZHBGd9IBX0FVX3lxTE5ZUVBVMHZXTkxCdFYyR0R1eS05YnRkRVJ2b3RtSW0tdC1vWVhJa0xGNHFDZy1pWXU4S0poZVJJRzlROXlGZXhUal9ndXBhZ3BFMWRzY2hDMmIwRHNNbUVZ?oc=5"
+    },
+    {
+      "title": "晶片股遇拋售潮！美股費半重挫逾4%、台積電ADR跌2.93% 台指期夜盤下滑445點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNaUR2RmxRMmZfc0ZRT2tCMmZvVnQtQWtveF9qbklrM0lPalJ3WFVoQ29PNENqbzhBVEJmWFJPRDZzSU5xN1NpeTlvbTJQb2RHdTVVMTE1ZWNoSTI4RV82R0xfOFJBZDYwWEFMc1dybEV6SzAwTHRuNVBWbFB2aWhXUTI3b3ZXOTVyeVlYcmM2ODlJSTNBLUZFZTVVUGdMUVNUWXFsdFg1eVN1YkFPRWpSXzFGa2FIR015WXJhTHd1QXVWMnpGaF9vNHQ5NjFyeHNZTGp3SVdZOFBfRldRbjYtVk9SSWxzckFaSnBWVXZfS0NHVnJIRFlBYzFKSGZrWU9fbVpXX2FaeVhQZ1ppZTNFdzVqZXlsb2VVRXloZFd1ZlNTcDZqMUJmY0ZJOTAtWlFvZ3ZrZml4dEV0cTdVWU9PUFNNaEZ4MWVsSVM2REFTLTIzTHdJSWtKVHBITWhFbjBpYWlJa19ObXpKODFGRzBldkEwb3FOQl9iMDdFZFBzSE5qZVM2d2JLUF95MnJkZXhOUGFRNzBHLVNKV2VaSzI3N3pEd290QQ?oc=5"
     },
     {
       "title": "費半重挫逾4% 法人：台股短線仍處修正整理| 證券 - 中央社 CNA",
@@ -141,8 +141,8 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWXUySGhaM2sxencyazg5RlJjZnh0c1I2OEpQNER1Q3FKTnFwV255b29NUzlEeEJfNU40NGdZT1Z4ZUtmVHVWcC13QlJDU29rdHNtdU84TG5wZDdNZ0p0Ny1qSFpyNkw0UmVpcWo3YzM0VzBXY0JmMENKcnh5elpQQzlLNmhJMkNnbndzUmdaVmlybmtk?oc=5"
     },
     {
-      "title": "晶片股遇拋售潮！美股費半重挫逾4%、台積電ADR跌2.93% 台指期夜盤下滑445點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNaUR2RmxRMmZfc0ZRT2tCMmZvVnQtQWtveF9qbklrM0lPalJ3WFVoQ29PNENqbzhBVEJmWFJPRDZzSU5xN1NpeTlvbTJQb2RHdTVVMTE1ZWNoSTI4RV82R0xfOFJBZDYwWEFMc1dybEV6SzAwTHRuNVBWbFB2aWhXUTI3b3ZXOTVyeVlYcmM2ODlJSTNBLUZFZTVVUGdMUVNUWXFsdFg1eVN1YkFPRWpSXzFGa2FIR015WXJhTHd1QXVWMnpGaF9vNHQ5NjFyeHNZTGp3SVdZOFBfRldRbjYtVk9SSWxzckFaSnBWVXZfS0NHVnJIRFlBYzFKSGZrWU9fbVpXX2FaeVhQZ1ppZTNFdzVqZXlsb2VVRXloZFd1ZlNTcDZqMUJmY0ZJOTAtWlFvZ3ZrZml4dEV0cTdVWU9PUFNNaEZ4MWVsSVM2REFTLTIzTHdJSWtKVHBITWhFbjBpYWlJa19ObXpKODFGRzBldkEwb3FOQl9iMDdFZFBzSE5qZVM2d2JLUF95MnJkZXhOUGFRNzBHLVNKV2VaSzI3N3pEd290QQ?oc=5"
+      "title": "美股半導體ETF重挫4.4%！瑞穗證券曝「多重利空疊加」引發市場賣壓 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNVG1JMGVXMVQ0NU5nRjNSMUo2cnppOVAxZUtnWDJDTEZaREw1bV80Ykg1TXd3cUpyVmJ3OUZZcHdtSFFwanJ5Y3RHMkM2QnE3Y1pndUtCWTRXeGVVTnV6RVp6R21IUUdVTGNwSTVMUjExa2E1T3diZ1NqemZZcXk5ZVBLNWFXSVpDTXVHTldDWVl6T2RHeWFleWVjYXZDUTFObEFaQmlXZ3BBREJtUVpqUWhwQ01pVGg0X2F3WVUwR2ZlNVZNR3FwaVdqSmpQVnBMOHlaSFA2S1RGR00yZzU3dmVsaHlfanNZMjBYSXNFaEhGMDIyTzBvY0p5STBRYW5iRFhIRUg3bTVybm4yZW1iQ1lmTG5FTEVLLTBlUzdBTElfYVBiX21SX3kzSVAwQnBVRHdfWjhsVW14bTNtWjFfRXVJM2JuY3phT204ZkdBRUFfbzYwbmctMnZyVGpHY0xJdFp6dmZDc0U4MDVteDBWSkFQeEtENEZaZnR0ejQ5MlVVQ0NRQjNZ?oc=5"
     },
     {
       "title": "台股反彈動能不足 法人：耐心等待籌碼沉澱 - UDN",
