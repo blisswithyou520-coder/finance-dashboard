@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/26 20:36",
+  "updated_tw": "07/26 22:14",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64500.63,
-      "change": 188.8175,
-      "changePercent": 0.2936
+      "price": 64645.99,
+      "change": 334.1775,
+      "changePercent": 0.5196
     },
     "ETH": {
-      "price": 1888.06,
-      "change": 14.8376,
-      "changePercent": 0.7921
+      "price": 1893.47,
+      "change": 20.2476,
+      "changePercent": 1.0809
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.34,
-      "change": 0.041,
-      "changePercent": 0.1269
+      "price": 32.321,
+      "change": 0.022,
+      "changePercent": 0.0681
     },
     "JPYTWD": {
       "price": 0.1951,
@@ -106,9 +106,9 @@
   },
   "gold": {
     "usd": 4070.8,
-    "twd": 4233.0,
-    "tael": 158724.0,
-    "twdTotal": 131650.0,
+    "twd": 4230.0,
+    "tael": 158631.0,
+    "twdTotal": 131572.0,
     "changePercent": 0.598
   },
   "fed": {
@@ -117,8 +117,8 @@
   },
   "news": [
     {
-      "title": "比特幣價格守穩64,000美元上方，交易者靜待聯準會利率決議 - Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOdkFLVks5dUplSUc2NmIxUEtSa1RUVHZmenNnUGh2Wk1EWEJBZGFuclo0czI1VFBRTzZxY0xQdWVadGh0WnlCYVJTSjJ5blpqXzRVVDY0ODZSN05fSWhNRE1RenFhclY2N0t2NFI4RkhzYS13b1FjMUtobkVwVi0zRmhjZWhXb25zZzMzdzJsaHhMWHRfd2pNbFJac0VaenVFTEZFSG5yTkZNVGpra19oWjd6NVY5QndNZGV3ZTlXUHlrQk15UndOcXV4cmpVaUFSWWtMNVFxTm5SY3RPVkZqZld6Skc4RHpxS3pPekh0Q0FSd2RETjRJTzNNV1lwdXdSYkJTOWVfRVNSQm5WY1lxYlN4Z2FFY1Q0UlhFbGlqUl9xdHk1OXJseFU4cElKUzYwQkdsSUpqN3JZb3NVTDNJYXEzRnlCX0RsRVBTQlZxZTA4UHdPcFJfa2tJSW9yY251VTJRS2tERXRrdmhFa2ZSNjc2SUZ4dmQ2X2hF?oc=5"
+      "title": "台股還要繼續跌？專家預言：下週2天迎大考 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNbE53blJFaHRuaFh3UTJxYWtacV9TX2F3TWJ6YTU0UFk5eHFFdDZKUmZ0RWhiTEhMYWNKcVFidXN2cWsyR2NwODFqMEJhZi1QLW9RVmFHbW1TZUlxVzR5VFY4bG1WQWxoNTJvb1ZpMWRmUzhYbHdISVBJWnBncjNNc294RE5NTk1LUXFmM3ZsakJ5UlJvNEptY0JkTDYzZjNnYzVLV2FHb0xfM1VUTWNhQ0dWcVp1Y3pySzg2a2t5QVF6SktfN0ZtUlhpcURPdXNTZHNwb2w5NFZ6dlZFUUhoazJiQ2M1MnUwOTlBLVAxNGIwV1hHSG5hVkE4c3dFaVlFb2pwZUZUc3FtZW8zcFJCUnNlOHRBa1A0VXZPYll4SzQ4c0FBNDEyTG9fRQ?oc=5"
     },
     {
       "title": "台股反彈1,783點 最後掙扎？ - 經濟日報",
@@ -133,16 +133,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xOFB4Q2Z0RjRGc2IyNkxZaXhIQ2kwTkNKdlJVVDNpckNKOEdYaWlpeU9NN3hGeXFieDRPaDNwMXcwV0dOd1IzZWlwWXcwTVE?oc=5"
     },
     {
-      "title": "台股跌千點你恐慌 股海老牛曝加碼訊號 - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPMzl1LVNQem5JMUlCSTdFbXpPZFl1S1VRMzFUcGstMThpVnhfTVJzODdUUHBOUWJkdFplc01rdDRUU1l3UmpVVm9NNTkwZTBtNzNCRFpMdGQyU2ZnVjhGWllXd1NqTklJWTVvb3lodF84UXBFS19pcXFoVW5QclQyY3Nsb0dnX3pkNHFhQUlHTHlHVVI5bk9EMk9ZSzV1SERVRldlSm1pUHQtYVplTXJCUnN0T205X1liQzNZcHpKUlE2VHB3ajBUNnlSN0pWY09iRUhxSXNkYV9WYjBmbG1WVS1iOTlIMVo4REFQNU9FTklLNlhsTXR1elBqNDliaVFuWjg0XzFZZFgzNDdlT01GMGVLcnlkNjE0VVFDUGY1MjkyOVJMczExQXVFZjlvNnBaSGlwdmZn?oc=5"
-    },
-    {
-      "title": "台股跌千點你恐慌　股海老牛曝加碼訊號 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yaFlhLWh2T3lnTFZQRnZQUFVVekdCUlRxc193cUh1YzMtOEJjRFRtT3NtVzRZQVIzSWJtVVZTYzQyVkg2YkpNNkhsM0ZLOFhKNXfSAVBBVV95cUxPV2VFbWV6R3ZMRjR0bHJrajVmeThWeG91UVM4SVd5VzEwbHh4Y1Q4Z0pRd09CVU84Tm9DVzREaHVxcHB4OV9nZEpRY2Nkb1RwaA?oc=5"
-    },
-    {
       "title": "費半大跌4.3%台股週一恐不妙？專家提16檔「外資逢低撿」個股 - 三立新聞",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FVnhIVGF0blhPbnlCUmFwNTVvalpKdWc1b04wcEx0RkdKS2h3dmxtU1RHWDZBWktoQ05EdWdwNmVMQXlqd1VlTEtpSQ?oc=5"
+    },
+    {
+      "title": "比特幣也要打進外交戰！BTC 政策學院成國務院數位自由計畫創始夥伴| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWXUySGhaM2sxencyazg5RlJjZnh0c1I2OEpQNER1Q3FKTnFwV255b29NUzlEeEJfNU40NGdZT1Z4ZUtmVHVWcC13QlJDU29rdHNtdU84TG5wZDdNZ0p0Ny1qSFpyNkw0UmVpcWo3YzM0VzBXY0JmMENKcnh5elpQQzlLNmhJMkNnbndzUmdaVmlybmtk?oc=5"
+    },
+    {
+      "title": "晶片股遇拋售潮！美股費半重挫逾4%、台積電ADR跌2.93% 台指期夜盤下滑445點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNaUR2RmxRMmZfc0ZRT2tCMmZvVnQtQWtveF9qbklrM0lPalJ3WFVoQ29PNENqbzhBVEJmWFJPRDZzSU5xN1NpeTlvbTJQb2RHdTVVMTE1ZWNoSTI4RV82R0xfOFJBZDYwWEFMc1dybEV6SzAwTHRuNVBWbFB2aWhXUTI3b3ZXOTVyeVlYcmM2ODlJSTNBLUZFZTVVUGdMUVNUWXFsdFg1eVN1YkFPRWpSXzFGa2FIR015WXJhTHd1QXVWMnpGaF9vNHQ5NjFyeHNZTGp3SVdZOFBfRldRbjYtVk9SSWxzckFaSnBWVXZfS0NHVnJIRFlBYzFKSGZrWU9fbVpXX2FaeVhQZ1ppZTNFdzVqZXlsb2VVRXloZFd1ZlNTcDZqMUJmY0ZJOTAtWlFvZ3ZrZml4dEV0cTdVWU9PUFNNaEZ4MWVsSVM2REFTLTIzTHdJSWtKVHBITWhFbjBpYWlJa19ObXpKODFGRzBldkEwb3FOQl9iMDdFZFBzSE5qZVM2d2JLUF95MnJkZXhOUGFRNzBHLVNKV2VaSzI3N3pEd290QQ?oc=5"
     },
     {
       "title": "台股反彈動能不足 法人：耐心等待籌碼沉澱 - UDN",
