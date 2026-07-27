@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/28 05:09",
+  "updated_tw": "07/28 06:17",
   "taiwan": {
     "2330": {
       "price": 2350.0,
-      "change": -55.0,
-      "changePercent": -2.2869
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "2454": {
       "price": 3680.0,
-      "change": -195.0,
-      "changePercent": -5.0323
+      "change": -70.0,
+      "changePercent": -1.8667
     },
     "2317": {
       "price": 253.0,
-      "change": -4.5,
-      "changePercent": -1.7476
+      "change": 0.5,
+      "changePercent": 0.198
     },
     "0050": {
       "price": 101.45,
@@ -72,31 +72,31 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64868.11,
-      "change": -472.1908,
-      "changePercent": -0.7227
+      "price": 64675.76,
+      "change": -664.5408,
+      "changePercent": -1.017
     },
     "ETH": {
-      "price": 1946.24,
-      "change": -7.1713,
-      "changePercent": -0.3671
+      "price": 1936.71,
+      "change": -16.7013,
+      "changePercent": -0.855
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.278,
-      "change": -0.0443,
-      "changePercent": -0.1371
+      "price": 32.289,
+      "change": -0.0333,
+      "changePercent": -0.103
     },
     "JPYTWD": {
-      "price": 0.1949,
-      "change": -0.0026,
-      "changePercent": -1.2975
+      "price": 0.195,
+      "change": -0.0025,
+      "changePercent": -1.2468
     },
     "EURTWD": {
-      "price": 36.74,
-      "change": -0.0727,
-      "changePercent": -0.1975
+      "price": 36.759,
+      "change": -0.0537,
+      "changePercent": -0.1459
     },
     "CNYTWD": {
       "price": 4.7777,
@@ -105,17 +105,21 @@
     }
   },
   "gold": {
-    "usd": 4078.6,
-    "twd": 4233.0,
-    "tael": 158723.0,
-    "twdTotal": 131649.0,
-    "changePercent": 0.2704
+    "usd": 4081.8,
+    "twd": 4237.0,
+    "tael": 158902.0,
+    "twdTotal": 131797.0,
+    "changePercent": 0.3491
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "〈美股盤後〉油價大幅回落 道瓊漲逾260點 美光、SK海力士ADR、ASML同步重挫 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9acDlRMnNpQndsVzdrOWVZV0lCWE1CRFhySzNCQXU0MlRyeFJtb19RaDZzdnRXSUpYamE3R2xvcjNrUlowQ2JoYktCRU5QcDA?oc=5"
+    },
     {
       "title": "川普心情放晴、美伊停火在即！美股4大指數開盤齊揚 道瓊一度飆逾600點 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPREIyY0FaUkhqRlNicExTd2t6WnpuakJSbXM3QkZneWlERUs4Wmd6T1ZSSF9WNHJvaUpWRjZreGxFRXBfc3VJMkhqWElGdzZrM0VrdGw2aDJkTEtoc1NzLVplT0txY3NpMHRRdmM2Z0JjaEw4Qk56ekd0eHc0aG1tX1lFZmpqYms5WjdQZFFXME9MZUdzMW9Pby1iNWQyVTNyemdPSExOREVaeFduak1PU2dfZ2w5MzlrM0F6by1vUVdMcEg3LUJ0WktPaGVZb3BSTExWRktSVHozYnZHVlJuVzV5VjRTTzNpS0VLRng3X0NpOXI2cDFEa0dVcXdhb0JDUjZIZnAwY3VSc3BwYkpNemN5dUJnRkZIZ1R3MXN3MmJncjRVNmdkdUdYQUF3WjVRSllKTnNMNnNFNUlTNHNPdlBEWlZucm1BY0hZZ1AtWlpHb1ZqR2hNSVo4SzNmNXR3ekJyWjVWY0xGek9LVW1uOURta3Rmc2lTZnZWVFJwT1FWLW4wOFRhMWJlMTBYOEhSenRxTEtTbVZyNW0ycXVoSVJJUFpic0NsY1E?oc=5"
@@ -133,16 +137,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oWTBuY1dZamxKUUpMQ0xYZEUxbUhoYnNqLWpaVnF1V21EdzlLaVpQMEgyOHBUT0Y2NXlxbWNwQ2RPbFNCaGpPXzV5Um1BYmVUd2tIMEVjazl1TEtHQ213?oc=5"
     },
     {
-      "title": "美股漲勢要來了？摩根大通神祕指標亮出「買進訊號」 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0SERRTnBNLURZSVhpeWFKQ09TVXhheHR1S3NDOE5jYVpDMnk0WVFJNXhMVUF4U3Jla05tbmg1Y1hyVVlhQWJWeVJCNkpVV1E?oc=5"
-    },
-    {
-      "title": "企業獲利撐起美股下半場 科技巨頭、金融股成兩大布局主軸 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZWtPTUplWGJZSkJPUzNxRm5BM191Y0dBb3VKeDljQzIyTVRZaEZtTWMwMTg5UmZ1M092NGhVODdqN0gzeEMxZ2duRHRaWDUtREpzbkVxMFA3cE1rVzNwNHNieHRoZmdnSjRlTWxmWHJVTUR1Q29ZRlo2cTJMMU9NTDNoTktTUm8tNXR6dDFEcWN5NXVnS3kw?oc=5"
-    },
-    {
       "title": "美股估值過熱？「巴菲特指標」飆破236% 外媒：投資人正在玩火 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNMFdxU1VNQm9XQ04xenIxWVg1NTFtcDdtY1RpRGpnTUN6ZGpzU0l6SEp4VDR1SGJXVnhpQWNfZnAxLXNRUmZDelY4bC1zNlctazNYazl3M0gxTFJLVXJLRXdnNnphZEIyZ2QzcUFfLWYwM0l4UmZ1cTZOMlFhMmRTQjgyd0FiTDNHeHBXOHNyTXVMazF5RlZMTXFFUGFHWGJ3ejg0ajhwSHVRZW1KT2RWQjlWU08waUFiVktCaDBQS1UtTnNvdms5QjhpNDQyN2dtdHhma1JuTm1Zc2FOZGtiVS1QZ1NnTE5LdnVtdlc2Q1k3NXpzY1UxMXJHUTVJNTlQdHo1YTJsaFFaVnh6U0dtYm1xUzRNRGZSclhfS3AwaEFFQktCbTBnT3VxRzRHMkV4eFc4bXV2QWstWW40a0w3b0ZaMjdJVDhJcnpXLXdjME41R2pYc1QzVnRuSENCaDNkcXBHVVVKNnhyQ0Zy?oc=5"
+    },
+    {
+      "title": "〈美股早盤〉美伊暫停交火提振風險偏好 主要指數開高 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1COWpPNkF2d3dtZmduOFAyV2Q4eXhvSFBBLVpYTTZWVWdqUnlCMzhVRW1tNnVZeDlqb1E5NFRCM0hHVE11R3liem1xcVlfTTA?oc=5"
     },
     {
       "title": "台股外資轉買大盤震盪投資人靜待聯準會FOMC利率決議| 股市要聞| 股市 - UDN",
