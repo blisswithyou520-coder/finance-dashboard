@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/27 15:50",
+  "updated_tw": "07/27 19:19",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65246.32,
-      "change": -93.9808,
-      "changePercent": -0.1438
+      "price": 65195.01,
+      "change": -145.2908,
+      "changePercent": -0.2224
     },
     "ETH": {
-      "price": 1966.93,
-      "change": 13.5187,
-      "changePercent": 0.6921
+      "price": 1962.8,
+      "change": 9.3887,
+      "changePercent": 0.4806
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.33,
-      "change": 0.031,
-      "changePercent": 0.096
+      "price": 32.288,
+      "change": -0.011,
+      "changePercent": -0.0341
     },
     "JPYTWD": {
-      "price": 0.1956,
-      "change": -0.0015,
-      "changePercent": -0.7741
+      "price": 0.1951,
+      "change": -0.002,
+      "changePercent": -1.0278
     },
     "EURTWD": {
-      "price": 36.903,
-      "change": 0.1574,
-      "changePercent": 0.4284
+      "price": 36.831,
+      "change": 0.0854,
+      "changePercent": 0.2325
     },
     "CNYTWD": {
-      "price": 4.7844,
+      "price": 4.7778,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4101.0,
-    "twd": 4263.0,
-    "tael": 159852.0,
-    "twdTotal": 132585.0,
-    "changePercent": 0.8211
+    "usd": 4105.3,
+    "twd": 4262.0,
+    "tael": 159812.0,
+    "twdTotal": 132552.0,
+    "changePercent": 0.9268
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "聯準會決策、GDP報告與科技財報 本週美股三大焦點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOb0dNYUdTTFlqcXp0WWdVcGxJRzBWQTMxMTExclZLQUlzdDRzcDVhMkIxcURMZnZLTk5yZHVWV0JHVWpzbW1RMGdadGJqWHVUS0oxXzRYSDFaeUQ4Y0djWDIwdlFfNnNsMUxPWmF6dXE5Ti1GTUxZUldfbmJCRkRrMTQtRFRnNGx1YUNCbTRFb1VCS1ltWWhYajhRc01pVDBhUjAtTENGOHpfZDBWemRhZGR5X0s2dEZLdF9zTndId1Zsd0JLano0aFh0UzVVZGVrQy1nOXhvV09tdmdsRTlkWnlDQS1sWGVHbTRIT0JRa29kdzk1WGJkQVZVVmJNVGFWbDhDbFFOMW8tblZJWUg0WVRTc2h0SnluSl9RRjJZYl9iR1dLVGtnUHlJc2RmMFlfejByTVlhR1FnOHV0UXFuNzF0b0pDRDZGZTNsZlFPTEJEdw?oc=5"
+      "title": "2026美股超級事件週來襲，Meta、微軟、蘋果財報撞上FOMC利率決議，四大重點完整解析（0727～0731）｜美股觀察 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxQbXdScUhMYy1BSG9OVHZicFhtSmpDTUlHbmg3T2hKRUJTZTJqZmMtS0dXWGVXZ3YwcU1nYUxVMmg4QXlBdElKR3BPRjBISFZESE1sSGl6NXZhN2F6N3FtVnpPb3hQd2ItbHI5NExLYk1lOXBxQlcxck5wRGdkQjNuWlJOZ3B4ZG5kVGNReDNVckdRdmZqVUx2VjVYNmM0a1BwSnV6d0MzeG9ZeU1sanFYckw1MHJWTWZOcTdPN2pxVTZaYkpkSFc1Q09fZWFlTGFxa2lFZ2dwZVRCQzRyZHFvb3ZGRGtMZWdEQzY4d21Ka1RYUEFkcjB4YjU1bExkbEltM0dJRGQwTDUxR1QtMUZtWkp4SXRuLU12OHduZ0FZTTZkbTkwY3RFYldNT1VvMXZWbWVsN3FMc05iSXBzUDBUWTVUaDM3U2RqYXZIOFF0d0dTNjFjRy1TaUhTUnpCZXhkdUpGS1ZxczdOSUwzb0xsRm9lOTdEQXBUcElzQXlwTE52NzRnWEZRRG4wOEpFVGlEeWxQUmN1cTFqUkg5UzdjNXdBc21PaEpwNE85aDNMcC1maUFoTElIMGNZVE9IbFE2Z0hKdDUtNnI4T2phNlJfU1dMQjJWTmRnWDBHeGVuX0JxYm1BRlduaFRZRzJyZHdCS042ZkFpMmtiYkQ3TlRrV3JjY290aEc0YVBESmpITEdLXzYwUHM3THlGV29EUnc5SFpZSGx3aXg4dDdjNWc?oc=5"
     },
     {
-      "title": "台股開盤大跌逾600點 本週多空行情影響震盪加劇 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uLXFlTFd0cHdFRkRNeElqallrXzRYTUZFODZxZGxYZXV1emdWdU5zWGZrU2tXSkc2dzI0cjViS0V2RjlVUjR2VEE5eVBLdEk?oc=5"
+      "title": "別再煩惱要選台股還是美股，一軍大聯盟幫你兩者兼顧！ - 鉅亨買基金",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaEdwYWVhbkk2TnJSVVpDMVRVeFpYdWRrVUExT2phMEtCV2J0TDd0V1RLWlU0Z1JiamxHaGFhdWtybmF6cFlPblBCdHl6Zlpjdy10Sl9sWThSY2N6QTZiRkxXa1pPcDhQa2txeTFhbl9GT2lPajJBTV9rdFVWX2tVMktpaUo2VUNIcUxucFB0UFowb0ROUm1FSVRn?oc=5"
+    },
+    {
+      "title": "台股量縮收黑季線擦身而過！兆豐金逆風創高領金融軍團撐盤｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPZ3M4cW5vWHBZckpzYkY2WXhQLWM4YjFDYUR2YWxIdkRueGVxc21xWm1oVkxneFg5VlcwTEl5Q0d4VmRSTFI4Ykh4ZlkzV0wxYmJESXVSaDlzTG9MMmRPWDdPaVZCVEc5MUxoTndOQUZNNUJWQTdIcGhQRE5VaHZ2ZGJibjNYYWVJWTJCb1d0VE11OHZrX2h6UHVyLUR2Ymh4TktLQTNMSUxLT0NnR0NVbWdSWHBudy1PTnY1ZnNxd1JJVzJqR2FIMnpFRzZJU2tGdi1seXk3SmlvUnQ2R0pxRjVsdlJUa3dJOUpGY0tsa3lsYUpWaDBkT2JISG9fOXNrVG82U25mSjhEWXZSRzdIblVIbTdvWHNXdzFUMDBxWkpXWWQ3YzhuckNrWi1kNTg3N0xxaGF0SEp2N0pZbHh1QldmX20zbDBlZmpYN3ZWRE9MNVMxR1FlUWNCMmQ5N0prT25VNTZJb1RnZkhrdUEtM2kwX3cyRC0tZlNXQzdCcFpXa2hHOFV6aXpEOXk1bzFKemxobHlNQ3p1SXVhS1h1WVdiZUNtRVRLbzZyeXFBU0M2YmFSTTM4OFJFVjlEZVRJMEsxbGxhdjYyUG1mMW1tLWk0cWdIQmhLeEhDbDl4MnZ3UQ?oc=5"
     },
     {
       "title": "美股恐迎劇烈波動！四大科技巨頭財報、Fed決議登場 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12NjlzZERNYTA1NGFCLVpIWVU5UG9lUXlCR196elFzbk9RQ0RDLURxMDIxY0xhMHNYdk53aDFTUzFnZTlWWW5STXB6YU1RXzQ?oc=5"
     },
     {
+      "title": "台股開盤大跌逾600點 本週多空行情影響震盪加劇 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uLXFlTFd0cHdFRkRNeElqallrXzRYTUZFODZxZGxYZXV1emdWdU5zWGZrU2tXSkc2dzI0cjViS0V2RjlVUjR2VEE5eVBLdEk?oc=5"
+    },
+    {
       "title": "Strategy聚焦比特幣部位與資本彈性 - 台視全球資訊網",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFVPT3dpZUZVN28wcDJvNmtwYnFpUFoxcUJsQkl1QklNQzFRLXN5UzVjcEUwNnptaEpLNXRlWlpqclp5RXNNUVZEWk1HT3NXVGNFalNXVms2SWcyVmpWMVJBMVltX3BDZDRlcGFSeXI2MEpRRzBaUmUyQUh5MkItQTVWZzZXUno3ZGJpdEhLVnQ4dw?oc=5"
     },
     {
-      "title": "記憶體光通訊反彈台股量縮下跌20點留616點下影線| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZcEgxSTh3dzZlRzE1Uk50MVpOSENfb1lkaVVWdlRmdTRlcWZ3ZUd5dWtjODdSZVdRMWtRVldaTENLMGM3N291cHJhcUctMmhPenRVTW41TFFiclVNQUE?oc=5"
+      "title": "台股反彈1,783點 最後掙扎？ - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVW1lTGFSZ0JoU0hfUkJCTG5QTWZ0dWtxZXU0WHppRWhuMFo5NG5JZDd2ZldRQVlKQUdwZGJQYmtaanlVamF6d3VSTjNSQUlYVW94ZkVPZHBGd9IBX0FVX3lxTE5ZUVBVMHZXTkxCdFYyR0R1eS05YnRkRVJ2b3RtSW0tdC1vWVhJa0xGNHFDZy1pWXU4S0poZVJJRzlROXlGZXhUal9ndXBhZ3BFMWRzY2hDMmIwRHNNbUVZ?oc=5"
     },
     {
-      "title": "台股史詩級震盪沒在怕 0050投資人數有望突破350萬大關 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTenpEem5HSHUzRHlGa1Rid2gzZUdpSXRzd2c3NnZTZzdvRUJVSm9UZnhHMVNwbVhXN0dJbFhzejhlR1dmZ3VZQXlSWlVnZ1dHU0NsUVZFSGhCZTJJaWRR0gFkQVVfeXFMTV8zc1VBUTZ6WGtPZl9ZMTJVaXBQX1BrT25VU09GV0dhZkt0c0tYbzQzVHBpQ0V6azE0MFkwYnZkS2d4S21QU295SGJXanI5ZV9UMzFSUUdNWHAyekcwSi1hVW9QNQ?oc=5"
-    },
-    {
-      "title": "台股黑色星期五重挫7月消費者信心指數下滑| 財經焦點| 產經 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ldDdTYzVVcGtVbWRqTk5LWThtX29pQVE5RlhyQ3ZrVUNYMTNBUEhGVVFtM0YzZHhhdl9vQVZmTTdMX3RqT2ZzRUpZaEx0bjhG?oc=5"
-    },
-    {
-      "title": "比特幣重返 6.5 萬美元！美伊連 2 天停火、油價跌 5%，市場風險偏好回溫 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzh0RXdlVFB2d182cDlsazlJMERLUkxFSUNXMXlLVGZpMi1iMUgwT2o0M0VETUhxYUVtZUxuY2xFZWRXVUI5TjZNYi1VcXQ0MlI0akV5bWNXOEkzeGRvVFJoMURyX3NUQ0tJZXFSMWg3dUVfSGRLOTY3aTZmSUt4ZV9MMnJKSkhTa2NuOWlVUQ?oc=5"
+      "title": "《CLARITY 法案》若通過，比特幣上看 20 萬美元？還有「 7 大障礙」待克服 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZklrWGMtRnNldzJNOUZ2cVR6SmJzbHdlRTVPX2M0ME9yczRrT0RWcE9nMFVuQ0dkcDI1NDFWcGJlUUhWYVB5azlha3Y2RWpWclpJaEJfdVB5ZFA5SVRDZks4SGd6cHhCc0l2UExSeHg1dm5ObHJHNGpmRzBZT19RbTlJTVpZTVd1Rm5SbFpJdk1GckpRWWFCMUNPclNBSmhtWFpUdU0yMXA2Z2RhQnpIbkViZVQ?oc=5"
     }
   ]
 }
