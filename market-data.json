@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/28 00:18",
+  "updated_tw": "07/28 02:03",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 197.08,
-      "change": -9.76,
-      "changePercent": -4.7186
+      "price": 196.96,
+      "change": -9.88,
+      "changePercent": -4.7766
     },
     "AAPL": {
-      "price": 337.575,
-      "change": 4.555,
-      "changePercent": 1.3678
+      "price": 335.42,
+      "change": 2.4,
+      "changePercent": 0.7207
     },
     "TSLA": {
-      "price": 308.24,
-      "change": -4.79,
-      "changePercent": -1.5302
+      "price": 308.575,
+      "change": -4.455,
+      "changePercent": -1.4232
     },
     "QQQ": {
-      "price": 678.825,
-      "change": -5.405,
-      "changePercent": -0.7899
+      "price": 679.83,
+      "change": -4.4,
+      "changePercent": -0.6431
     },
     "SPY": {
-      "price": 737.25,
-      "change": -1.68,
-      "changePercent": -0.2274
+      "price": 737.81,
+      "change": -1.12,
+      "changePercent": -0.1516
     },
     "SCHD": {
-      "price": 33.495,
-      "change": 0.205,
-      "changePercent": 0.6158
+      "price": 33.5,
+      "change": 0.21,
+      "changePercent": 0.6308
     },
     "VOO": {
-      "price": 677.655,
-      "change": -1.485,
-      "changePercent": -0.2187
+      "price": 678.15,
+      "change": -0.99,
+      "changePercent": -0.1458
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64487.35,
-      "change": -852.9508,
-      "changePercent": -1.3054
+      "price": 64971.01,
+      "change": -369.2908,
+      "changePercent": -0.5652
     },
     "ETH": {
-      "price": 1925.7,
-      "change": -27.7113,
-      "changePercent": -1.4186
+      "price": 1942.06,
+      "change": -11.3513,
+      "changePercent": -0.5811
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.293,
-      "change": -0.006,
-      "changePercent": -0.0186
+      "price": 32.285,
+      "change": -0.014,
+      "changePercent": -0.0433
     },
     "JPYTWD": {
-      "price": 0.1951,
-      "change": -0.002,
-      "changePercent": -1.0278
+      "price": 0.195,
+      "change": -0.0021,
+      "changePercent": -1.0785
     },
     "EURTWD": {
-      "price": 36.786,
-      "change": 0.0404,
-      "changePercent": 0.11
+      "price": 36.758,
+      "change": 0.0124,
+      "changePercent": 0.0338
     },
     "CNYTWD": {
-      "price": 4.7799,
+      "price": 4.7786,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4084.1,
-    "twd": 4240.0,
-    "tael": 159011.0,
-    "twdTotal": 131888.0,
-    "changePercent": 0.4056
+    "usd": 4076.9,
+    "twd": 4232.0,
+    "tael": 158691.0,
+    "twdTotal": 131623.0,
+    "changePercent": 0.2286
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oWTBuY1dZamxKUUpMQ0xYZEUxbUhoYnNqLWpaVnF1V21EdzlLaVpQMEgyOHBUT0Y2NXlxbWNwQ2RPbFNCaGpPXzV5Um1BYmVUd2tIMEVjazl1TEtHQ213?oc=5"
     },
     {
-      "title": "美銀警告：美股最弱窗口即將到來，黃金美元有望迎來機會 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXd4MmRBSHlnTE5udk83OG1PNDFaU19BQ3VjU1RrZy0xUkFPQlpoRjBubzVXR0QxXzBJTVBmUDRSQ0MzV3NxVDdhS1VYWG9ZNmhxMFJfSDRXNm50cmlSX013cy1vNGZxeEJsS09UN1g0dmhKZml2dFNyUVhyRWUzb0lvQkpDVXo5TTl0djlWUQ?oc=5"
-    },
-    {
       "title": "記憶體光通訊反彈台股量縮下跌20點留616點下影線| 證券 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZcEgxSTh3dzZlRzE1Uk50MVpOSENfb1lkaVVWdlRmdTRlcWZ3ZUd5dWtjODdSZVdRMWtRVldaTENLMGM3N291cHJhcUctMmhPenRVTW41TFFiclVNQUE?oc=5"
+    },
+    {
+      "title": "快訊／美股高開低走費半重挫 台指期夜盤急殺逾900點 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZHFBQnFDYVgzbGk2SnhWc1Y2LTdDQUJfZW1ueWtZYmxpaU9rYjBvWi03X2d2dld4akh1N3FIV3BEMVFqR2NEcXNody1yck5iTVlwdDFMRVE1SkpEUEFyNFNJaGI5MTRvYkJsTENGMG1Ob2YzcVU4d0x0X2VHc0VRNzc0LTg3N3FBazk5NThaNklrZEFOM2ZwZGFQRUNRTWtDWTA3NDJod1RTaWJsQ1RkcTJRUTl3R1RFV2pNUTVUQXhkYWJmRmdFTENUV25BTURaVldzaEtfZFVnaDExcFF0dVlLSnNRcTFFLXR1dTNnek0yTmFHUUtOZGdGcDU4LV9hek5tM0RVNTdQdTRJb1Z0RDd5MFp1c3RUckpQTUM3Yjhod0VrWEFNTGF0SUV0QnlON0tXMTlHOWw0Zi1hVEZZQVYzamF0YS1URFZla1l3WU55YmphQ3c?oc=5"
     }
   ]
 }
