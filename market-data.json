@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/28 06:17",
+  "updated_tw": "07/28 07:33",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -36,80 +36,80 @@
   "us": {
     "NVDA": {
       "price": 196.51,
-      "change": -12.25,
-      "changePercent": -5.868
+      "change": -10.33,
+      "changePercent": -4.9942
     },
     "AAPL": {
       "price": 336.91,
-      "change": 15.25,
-      "changePercent": 4.741
+      "change": 3.89,
+      "changePercent": 1.1681
     },
     "TSLA": {
       "price": 309.22,
-      "change": -10.47,
-      "changePercent": -3.275
+      "change": -3.81,
+      "changePercent": -1.2171
     },
     "QQQ": {
       "price": 682.12,
-      "change": -9.84,
-      "changePercent": -1.4221
+      "change": -2.11,
+      "changePercent": -0.3084
     },
     "SPY": {
       "price": 739.09,
-      "change": 0.91,
-      "changePercent": 0.1233
+      "change": 0.16,
+      "changePercent": 0.0217
     },
     "SCHD": {
       "price": 33.43,
-      "change": 0.63,
-      "changePercent": 1.9207
+      "change": 0.14,
+      "changePercent": 0.4205
     },
     "VOO": {
       "price": 679.31,
-      "change": 0.7,
-      "changePercent": 0.1032
+      "change": 0.17,
+      "changePercent": 0.025
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64675.76,
-      "change": -664.5408,
-      "changePercent": -1.017
+      "price": 63796.49,
+      "change": -1543.8108,
+      "changePercent": -2.3627
     },
     "ETH": {
-      "price": 1936.71,
-      "change": -16.7013,
-      "changePercent": -0.855
+      "price": 1891.78,
+      "change": -61.6313,
+      "changePercent": -3.1551
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.289,
-      "change": -0.0333,
-      "changePercent": -0.103
+      "price": 32.301,
+      "change": -0.0213,
+      "changePercent": -0.0659
     },
     "JPYTWD": {
-      "price": 0.195,
-      "change": -0.0025,
-      "changePercent": -1.2468
+      "price": 0.1951,
+      "change": -0.0024,
+      "changePercent": -1.1962
     },
     "EURTWD": {
-      "price": 36.759,
-      "change": -0.0537,
-      "changePercent": -0.1459
+      "price": 36.772,
+      "change": -0.0407,
+      "changePercent": -0.1106
     },
     "CNYTWD": {
-      "price": 4.7777,
+      "price": 4.779,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4081.8,
-    "twd": 4237.0,
-    "tael": 158902.0,
-    "twdTotal": 131797.0,
-    "changePercent": 0.3491
+    "usd": 4074.9,
+    "twd": 4232.0,
+    "tael": 158692.0,
+    "twdTotal": 131623.0,
+    "changePercent": 0.1795
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,20 +117,28 @@
   },
   "news": [
     {
-      "title": "〈美股盤後〉油價大幅回落 道瓊漲逾260點 美光、SK海力士ADR、ASML同步重挫 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9acDlRMnNpQndsVzdrOWVZV0lCWE1CRFhySzNCQXU0MlRyeFJtb19RaDZzdnRXSUpYamE3R2xvcjNrUlowQ2JoYktCRU5QcDA?oc=5"
+      "title": "別再煩惱要選台股還是美股，一軍大聯盟幫你兩者兼顧！ - 鉅亨買基金",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaEdwYWVhbkk2TnJSVVpDMVRVeFpYdWRrVUExT2phMEtCV2J0TDd0V1RLWlU0Z1JiamxHaGFhdWtybmF6cFlPblBCdHl6Zlpjdy10Sl9sWThSY2N6QTZiRkxXa1pPcDhQa2txeTFhbl9GT2lPajJBTV9rdFVWX2tVMktpaUo2VUNIcUxucFB0UFowb0ROUm1FSVRn?oc=5"
     },
     {
-      "title": "川普心情放晴、美伊停火在即！美股4大指數開盤齊揚 道瓊一度飆逾600點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPREIyY0FaUkhqRlNicExTd2t6WnpuakJSbXM3QkZneWlERUs4Wmd6T1ZSSF9WNHJvaUpWRjZreGxFRXBfc3VJMkhqWElGdzZrM0VrdGw2aDJkTEtoc1NzLVplT0txY3NpMHRRdmM2Z0JjaEw4Qk56ekd0eHc0aG1tX1lFZmpqYms5WjdQZFFXME9MZUdzMW9Pby1iNWQyVTNyemdPSExOREVaeFduak1PU2dfZ2w5MzlrM0F6by1vUVdMcEg3LUJ0WktPaGVZb3BSTExWRktSVHozYnZHVlJuVzV5VjRTTzNpS0VLRng3X0NpOXI2cDFEa0dVcXdhb0JDUjZIZnAwY3VSc3BwYkpNemN5dUJnRkZIZ1R3MXN3MmJncjRVNmdkdUdYQUF3WjVRSllKTnNMNnNFNUlTNHNPdlBEWlZucm1BY0hZZ1AtWlpHb1ZqR2hNSVo4SzNmNXR3ekJyWjVWY0xGek9LVW1uOURta3Rmc2lTZnZWVFJwT1FWLW4wOFRhMWJlMTBYOEhSenRxTEtTbVZyNW0ycXVoSVJJUFpic0NsY1E?oc=5"
+      "title": "美股收盤》科技股財報、Fed決議將登場！費半挫2.2％、台積電ADR跌逾1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80MzRweFNhNC1SNzhpNjFMUEE1VnpOa0NPQkV1MUpkTE0tTzdlSXY0TGlRUy1JNEM1SVhTM2RUMm5SOXZ4NENPMjFrWnBmcU8xdGt5M3drTXFJdUJHakFF0gFkQVVfeXFMTlZmbWlBN1ppQlFWYUhWQjJxcWtKYkJFOGx3Q2hKcHU1WmhWakVsbXdoLWNoNWVIcWxhcDVNVWdadGI3dGloWlRkRllTVTdpcTZ5VDlGSjhHekdFZndyeGJjWUJQcw?oc=5"
     },
     {
       "title": "美股早盤／美伊周末暫停互攻油價降 道瓊大漲逾600點 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50MFZCeDU5RjNmY3BCdHlHT3pqZV82V1MwOXJodFF3S2Z3NlE2dnU5M1llNnd3NTlNd2hJNzJCQ2ZaOUxuWC1QMkxIZ2pJUkE5TnpTcGg1MVBCR0Iz0gFiQVVfeXFMT0gwRzE4MlZHRXZMUDNFbXlUbEVibXk5SW1QeUU2MS10Vl9ma255VEF5Yjcyb3hRbC1TSVBhSDVLSERmR3JDdUZCbzJPYVJiQ1hqdW0wWHVyV185a1lBbWdwUUE?oc=5"
     },
     {
-      "title": "別再煩惱要選台股還是美股，一軍大聯盟幫你兩者兼顧！ - 鉅亨買基金",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaEdwYWVhbkk2TnJSVVpDMVRVeFpYdWRrVUExT2phMEtCV2J0TDd0V1RLWlU0Z1JiamxHaGFhdWtybmF6cFlPblBCdHl6Zlpjdy10Sl9sWThSY2N6QTZiRkxXa1pPcDhQa2txeTFhbl9GT2lPajJBTV9rdFVWX2tVMktpaUo2VUNIcUxucFB0UFowb0ROUm1FSVRn?oc=5"
+      "title": "川普心情放晴、美伊停火在即！美股4大指數開盤齊揚 道瓊一度飆逾600點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPREIyY0FaUkhqRlNicExTd2t6WnpuakJSbXM3QkZneWlERUs4Wmd6T1ZSSF9WNHJvaUpWRjZreGxFRXBfc3VJMkhqWElGdzZrM0VrdGw2aDJkTEtoc1NzLVplT0txY3NpMHRRdmM2Z0JjaEw4Qk56ekd0eHc0aG1tX1lFZmpqYms5WjdQZFFXME9MZUdzMW9Pby1iNWQyVTNyemdPSExOREVaeFduak1PU2dfZ2w5MzlrM0F6by1vUVdMcEg3LUJ0WktPaGVZb3BSTExWRktSVHozYnZHVlJuVzV5VjRTTzNpS0VLRng3X0NpOXI2cDFEa0dVcXdhb0JDUjZIZnAwY3VSc3BwYkpNemN5dUJnRkZIZ1R3MXN3MmJncjRVNmdkdUdYQUF3WjVRSllKTnNMNnNFNUlTNHNPdlBEWlZucm1BY0hZZ1AtWlpHb1ZqR2hNSVo4SzNmNXR3ekJyWjVWY0xGek9LVW1uOURta3Rmc2lTZnZWVFJwT1FWLW4wOFRhMWJlMTBYOEhSenRxTEtTbVZyNW0ycXVoSVJJUFpic0NsY1E?oc=5"
+    },
+    {
+      "title": "2026美股超級事件週來襲，Meta、微軟、蘋果財報撞上FOMC利率決議，四大重點完整解析（0727～0731）｜美股觀察 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxQbXdScUhMYy1BSG9OVHZicFhtSmpDTUlHbmg3T2hKRUJTZTJqZmMtS0dXWGVXZ3YwcU1nYUxVMmg4QXlBdElKR3BPRjBISFZESE1sSGl6NXZhN2F6N3FtVnpPb3hQd2ItbHI5NExLYk1lOXBxQlcxck5wRGdkQjNuWlJOZ3B4ZG5kVGNReDNVckdRdmZqVUx2VjVYNmM0a1BwSnV6d0MzeG9ZeU1sanFYckw1MHJWTWZOcTdPN2pxVTZaYkpkSFc1Q09fZWFlTGFxa2lFZ2dwZVRCQzRyZHFvb3ZGRGtMZWdEQzY4d21Ka1RYUEFkcjB4YjU1bExkbEltM0dJRGQwTDUxR1QtMUZtWkp4SXRuLU12OHduZ0FZTTZkbTkwY3RFYldNT1VvMXZWbWVsN3FMc05iSXBzUDBUWTVUaDM3U2RqYXZIOFF0d0dTNjFjRy1TaUhTUnpCZXhkdUpGS1ZxczdOSUwzb0xsRm9lOTdEQXBUcElzQXlwTE52NzRnWEZRRG4wOEpFVGlEeWxQUmN1cTFqUkg5UzdjNXdBc21PaEpwNE85aDNMcC1maUFoTElIMGNZVE9IbFE2Z0hKdDUtNnI4T2phNlJfU1dMQjJWTmRnWDBHeGVuX0JxYm1BRlduaFRZRzJyZHdCS042ZkFpMmtiYkQ3TlRrV3JjY290aEc0YVBESmpITEdLXzYwUHM3THlGV29EUnc5SFpZSGx3aXg4dDdjNWc?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉油價大幅回落 道瓊漲逾260點 美光、SK海力士ADR、ASML同步重挫 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9acDlRMnNpQndsVzdrOWVZV0lCWE1CRFhySzNCQXU0MlRyeFJtb19RaDZzdnRXSUpYamE3R2xvcjNrUlowQ2JoYktCRU5QcDA?oc=5"
     },
     {
       "title": "美股核彈級崩盤倒數？巴菲特最愛指標衝新高：投資人正在玩火- 國際 - 工商時報",
@@ -139,14 +147,6 @@
     {
       "title": "美股估值過熱？「巴菲特指標」飆破236% 外媒：投資人正在玩火 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNMFdxU1VNQm9XQ04xenIxWVg1NTFtcDdtY1RpRGpnTUN6ZGpzU0l6SEp4VDR1SGJXVnhpQWNfZnAxLXNRUmZDelY4bC1zNlctazNYazl3M0gxTFJLVXJLRXdnNnphZEIyZ2QzcUFfLWYwM0l4UmZ1cTZOMlFhMmRTQjgyd0FiTDNHeHBXOHNyTXVMazF5RlZMTXFFUGFHWGJ3ejg0ajhwSHVRZW1KT2RWQjlWU08waUFiVktCaDBQS1UtTnNvdms5QjhpNDQyN2dtdHhma1JuTm1Zc2FOZGtiVS1QZ1NnTE5LdnVtdlc2Q1k3NXpzY1UxMXJHUTVJNTlQdHo1YTJsaFFaVnh6U0dtYm1xUzRNRGZSclhfS3AwaEFFQktCbTBnT3VxRzRHMkV4eFc4bXV2QWstWW40a0w3b0ZaMjdJVDhJcnpXLXdjME41R2pYc1QzVnRuSENCaDNkcXBHVVVKNnhyQ0Zy?oc=5"
-    },
-    {
-      "title": "〈美股早盤〉美伊暫停交火提振風險偏好 主要指數開高 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1COWpPNkF2d3dtZmduOFAyV2Q4eXhvSFBBLVpYTTZWVWdqUnlCMzhVRW1tNnVZeDlqb1E5NFRCM0hHVE11R3liem1xcVlfTTA?oc=5"
-    },
-    {
-      "title": "台股外資轉買大盤震盪投資人靜待聯準會FOMC利率決議| 股市要聞| 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pemlUY08zaUZKS3JWUkZRLVhESTdlLTBJTUY3eUJSVFlQNDJtRExUWVYyejl6b3YzazBoNnBoa1VMc2h6LVNfcDl3QV9HcUZv?oc=5"
     }
   ]
 }
