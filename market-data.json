@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/29 05:47",
+  "updated_tw": "07/29 06:57",
   "taiwan": {
     "2330": {
       "price": 2280.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63941.49,
-      "change": 216.5916,
-      "changePercent": 0.3399
+      "price": 63756.93,
+      "change": 32.0316,
+      "changePercent": 0.0503
     },
     "ETH": {
-      "price": 1922.21,
-      "change": 31.5965,
-      "changePercent": 1.6712
+      "price": 1911.54,
+      "change": 20.9265,
+      "changePercent": 1.1069
     }
   },
   "fx": {
@@ -89,14 +89,14 @@
       "changePercent": 0.1796
     },
     "JPYTWD": {
-      "price": 0.1954,
-      "change": -0.0018,
-      "changePercent": -0.9273
+      "price": 0.1953,
+      "change": -0.0019,
+      "changePercent": -0.978
     },
     "EURTWD": {
-      "price": 36.914,
-      "change": 0.1863,
-      "changePercent": 0.5073
+      "price": 36.888,
+      "change": 0.1603,
+      "changePercent": 0.4365
     },
     "CNYTWD": {
       "price": 4.7832,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4028.8,
-    "twd": 4192.0,
-    "tael": 157183.0,
-    "twdTotal": 130372.0,
-    "changePercent": -1.1216
+    "usd": 4015.1,
+    "twd": 4177.0,
+    "tael": 156649.0,
+    "twdTotal": 129929.0,
+    "changePercent": -1.4578
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "快訊／美股多空交戰！費半挫逾3％ 台指期夜盤強勢反彈 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQM2ZyVzczLXNKaGY5SzExRC1fWjZYWjZ3OF82czhWQlFUUEZ2ejBBQmtEYXNfbHdZT2tNalZpQVJBbUdjNlhmUTlXYmh1MmI1djB4OEFaZ2E3QjNUbHJtY2NXLXI2clpzYXlWVDZqdDk4cndqUVV1dTZkOXB0dUdVcDZ5d1prU3dFMWN0RVl6X2UwSnBuaEtMMGtDOEMteHdBN28zZ0l3ckdqbGp0VFgyYldxR3FyQkRNQTUxT211NDhYZ2NRT0tzQTZ4cjE5bWVuYnpsbTQ2RFJpNTN2ZHNZaGF1eXhkaEpYSkpBNzJCdEl5QjJoNlpoeGZQT1ZxQ182a3dTT0ZYQlFScHluZV9WeERZYzRRS1F3d3JoQ2Jrdl9Pcnh5QXEtSkQ2YVVGdEJKN0tHX2JJSmJJX0VjbFlJRk1NOUlfak9MRndlVzREQmxrNTI5?oc=5"
+      "title": "〈美股盤後〉油價下滑 道瓊漲逾500點 全球晶片股慘遭血洗 費半狂瀉近5% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yNkdaOFZhWVpZeEdRallIR3IzMWhJQ2NHR2U1OFFCUzU0SEpMaUMwTmZiSlh1QUFKOVVxQlBVZy1qdEZaMVJfMVMxekdxdjA?oc=5"
+    },
+    {
+      "title": "美股4大指數漲跌互現！道瓊上漲537點 費城重挫519點 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQMWxlTVBXMDc1azlEQ2VuUWZYWkJaZEpJZlRrUGVDclBubnY3THg5VmwtMEVUdXBZMXJsZUF1Y2xaam1VMmwtUjZkaWNhdGcxclY2RjZ2Wm0yWTUzVUhRUXBsWE9ZWFhGT0ZQTFA4Wjd0aWxjY3ZhSUd1ZEFfWU1WaHc1RkFsQnpoTWxKOTNiRnV0N0xyNjZ6R3Rnbk45dW1Ya2xaa2FTT3hUaWxETHpvTDIzUDM5dy1lRFZxLVFNQnROSVMxcFVUZ3lpT05XSk94YUZoOHoyVXZ6TGdZRUNfU1c2VC1mR0phTmNUNlI1NDBCeFVSZEhTZ0VCWFU0SEx1WnBlRDhLZWhJZEZMRW0xZlFFOU8tUHVJUDBPb3BxckRSV2VJQ2tVRFg4QnF4dVp5bmJaMkR4ZEZUMG1pSzVCQXkzdw?oc=5"
     },
     {
       "title": "美股早盤／費半重挫5%...指數漲跌互見 康寧瀉18% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iWXUwTmtjb2M3ak5zZm5QRHl3Zm1CVkptY21tZVJjN1BQWlhTMzBiMXd2dGhwYUhfa3FwenlUSzFhbFEzZ0pnZTVLclhSQm9a?oc=5"
     },
     {
+      "title": "《貴金屬》等待Fed決策 COMEX黃金下跌1.1% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQekNZakZERlNnMUdmbE9HSWpBYWVodzlEVWRNenQ0VUlqeHdXUlpMcTFxWmtSRURVanF4cUZWMTRROTBpX3BfbnB3eUNjaEtLWVk5aTgxOGhRYktZM05HU1I1MWhBQmcwek9ZVFV3bmtrbTlFQ1VPelY5YjU1dlhGbENPczdiNmNnLVZsY1ZvYzA5QQ?oc=5"
+    },
+    {
+      "title": "台股大跌怎麼辦，空手、套牢、獲利者各有不同，抄底前先看這三件事｜股市話題｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10X3FzUEVadmM2MFYtbnFoR2Y0X2k5N0lQakt5ZE1kTGlDVGJWQkNWSFlwMXo5THF4V2ZvVFhUOVg0UExyVTU0bDRSODZaQVdvaE1mVllVZWNabzhaVndVM0VPMlBfRHZ0OEVTMXpaenNsV0xxNDI4cGVTN2E?oc=5"
+    },
+    {
+      "title": "快訊／美股多空交戰！費半挫逾3％ 台指期夜盤強勢反彈 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQM2ZyVzczLXNKaGY5SzExRC1fWjZYWjZ3OF82czhWQlFUUEZ2ejBBQmtEYXNfbHdZT2tNalZpQVJBbUdjNlhmUTlXYmh1MmI1djB4OEFaZ2E3QjNUbHJtY2NXLXI2clpzYXlWVDZqdDk4cndqUVV1dTZkOXB0dUdVcDZ5d1prU3dFMWN0RVl6X2UwSnBuaEtMMGtDOEMteHdBN28zZ0l3ckdqbGp0VFgyYldxR3FyQkRNQTUxT211NDhYZ2NRT0tzQTZ4cjE5bWVuYnpsbTQ2RFJpNTN2ZHNZaGF1eXhkaEpYSkpBNzJCdEl5QjJoNlpoeGZQT1ZxQ182a3dTT0ZYQlFScHluZV9WeERZYzRRS1F3d3JoQ2Jrdl9Pcnh5QXEtSkQ2YVVGdEJKN0tHX2JJSmJJX0VjbFlJRk1NOUlfak9MRndlVzREQmxrNTI5?oc=5"
+    },
+    {
       "title": "〈美股早盤〉主要指數漲跌互現 半導體股續挫 台積電ADR跌近4% - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jYU1zaDNBSnd1NzdFdWEwbmkxUGxGS1NFSkhBWi1DeVFURk9KUmFPLWJpOTJnRTZLQ0FYaXU4NnkyWEc0V3RwdUtMSUpJZ0U?oc=5"
     },
     {
-      "title": "2026年8月美股財經行事曆｜降息還是重啟升息？從 CPI、非農到 PCE，關鍵 8 大指標一次看 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxPUmdueDNXMXJycHVUdml3V0tqOUFPLTg1dm5qWWJkVUNCc2poc1BqbkRvalNHMGV4SlFGZEd4VTBJOE9uaVh1MF8xdlhzUDJxdExVRWlvRkJzQ3ZCVFNRVlM3Z0lMcEtBelNuM0VSTWptQlVETmo5OUxvZEtzLWFHMlBtMmlzQUlqaXAzMUQ2ZldvUml3SENZSFUyNF9NM2h5UmRrdlU5clhEQjU5TzMwX2FaeERmZ3J6ZXk1Mjc2TkpzZTVQZDNXMVpiSWRuT2hJb012ZXNQS0dJNjFNc0pOb3JaYmNvU3liTTVrUlVFeFp1a2FLSDJPc0ZNV1ZkQzJFQ2c4eW1CendVVlkzTXZQOGJ1dUpTSFZWRmMzWjlROVR5UC01TlpKMnFwNDVpZzNMOElOZ2RyZVN5Q201MXNJbVRaeFRvaEx5UWdVVENEM2NIRDA5Z2pMbGlnakg1SzR6cHZ4RVpFelh2OUJodW1XaEhaWm9IdndmR01wNHRyRnFFaUZlUUc1THNqREY3eUl3YUU2WEd4cVo1TnNQMTRNeWJtTS0yWWJnbFF4bXJSOXZvTndoUE1LWEtoaFpCN3lIc1E0Yjg4RFZEaHZhb2hPdEtlQzdjMk9CVDVHNXczWFdwZGhpM2pYdU56TVMtWGVzUndv?oc=5"
-    },
-    {
-      "title": "快訊／科技股賣壓湧現！美股開盤4指數漲跌互見 費半重挫逾4％ - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNNTlTZjBuR2tZTEJUM19xeVQ4elNqYktmcS1Da0ZhS2NBUFdIeUpzcVUxRGs1cmNoZDFhdTlvVjI4R19YdHhTUHUtUnVwbVh3ODFmSlRieFU4OTdnd19qNHlrNFBrZGh6ancxRUU4T2ZyWE0yVWR4T21vLUtwVHNNeEE0Q3d5MTNRS3MtRmJjZ292cGF1RVlkWlRDLWJfUjl1THRLZ1l6RkJaNVZ4R2JhbXgzQTFFMC01RTNXdWlPZVhYWTRmT3AwellkSWVJRWdCeWJDc0twZGdjM2dlRG5xQnZjd1laR0xDM04xZTZjbURtSjNMd3hPTmtWbWo0VlNRTjdjemdKM0xQbjlwSHVsVzd2UHFWWWEyZ2FILXZRNkpobGFSdFIzOVRYR1N1SDVhSUdOeC1sdVBRTXBRbzBvLUV0RWx2MFpIVVMwelhDdUZhUXlZY1loenhtcnhJaHRJbExCSDI3WmZadzVzblMtRS1XVG51RDg4cHc?oc=5"
-    },
-    {
-      "title": "台股ETF法人喊低接 大盤單日跌逾1,500點 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3UV9MWnl6TDctaTFxbHhQLTItMW5LUFBmLVlDNnQzRWg2UkxDNUpEUW93bUo3d0s4akNXTGgwaWRWWnNMTTBZR0gzbDF5dzFlZXRr0gFYQVVfeXFMUHZQODVTa0NyT1JCQWdJT1VKQnoyNlZMUkZTeGZya3FocGFuRWJ4aUJZcDZDNG43MWlXUFNlNlYtb2RWMVpjb25OUTFISUVKa0Nrbms2TEM4Tw?oc=5"
-    },
-    {
-      "title": "2026美股超級事件週來襲，Meta、微軟、蘋果財報撞上FOMC利率決議，四大重點完整解析（0727～0731）｜美股觀察 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxQbXdScUhMYy1BSG9OVHZicFhtSmpDTUlHbmg3T2hKRUJTZTJqZmMtS0dXWGVXZ3YwcU1nYUxVMmg4QXlBdElKR3BPRjBISFZESE1sSGl6NXZhN2F6N3FtVnpPb3hQd2ItbHI5NExLYk1lOXBxQlcxck5wRGdkQjNuWlJOZ3B4ZG5kVGNReDNVckdRdmZqVUx2VjVYNmM0a1BwSnV6d0MzeG9ZeU1sanFYckw1MHJWTWZOcTdPN2pxVTZaYkpkSFc1Q09fZWFlTGFxa2lFZ2dwZVRCQzRyZHFvb3ZGRGtMZWdEQzY4d21Ka1RYUEFkcjB4YjU1bExkbEltM0dJRGQwTDUxR1QtMUZtWkp4SXRuLU12OHduZ0FZTTZkbTkwY3RFYldNT1VvMXZWbWVsN3FMc05iSXBzUDBUWTVUaDM3U2RqYXZIOFF0d0dTNjFjRy1TaUhTUnpCZXhkdUpGS1ZxczdOSUwzb0xsRm9lOTdEQXBUcElzQXlwTE52NzRnWEZRRG4wOEpFVGlEeWxQUmN1cTFqUkg5UzdjNXdBc21PaEpwNE85aDNMcC1maUFoTElIMGNZVE9IbFE2Z0hKdDUtNnI4T2phNlJfU1dMQjJWTmRnWDBHeGVuX0JxYm1BRlduaFRZRzJyZHdCS042ZkFpMmtiYkQ3TlRrV3JjY290aEc0YVBESmpITEdLXzYwUHM3THlGV29EUnc5SFpZSGx3aXg4dDdjNWc?oc=5"
-    },
-    {
-      "title": "財報利多也照跌！網揭美股回調背後「1原因」：非單純反映基本面 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPUEJQZjd4alNfSC1XVmFhLTVUam54QkFlUlpzUTc2b2RvZ1pJYXBmSmtkZmRQS2tYaUVuSnVtYVJfUUVsTDJ3aWZNRjJvTXdIaTcyM2tNV19yVVFsMjh4c2JaS3RrU0dtcWI4Yk1IWTNKWXV3b1JGa1JSRnM1Z3VaRV9RU2V3M2NjTW5qMnlxQ2JRT0ZrR1FSQjdfZWV5TUlfN3Rvd3lDa1pIVDAtMFRxVzB6TjdTb3JVTVJlajgtQ0RPUU5jVHlvcE1zbUl0LWxJc1JoeFIyWk42X0FaaTVYOHBhOGZHWnlzdU9EeUF0dEVrY1loM2x4Wl9mLWYwMVVRWTRZUnpkeDZLS2l1V1psRzhObFQ2b0F4bTB2TjZ0bGVfcEhMWnptODBBbExCX2o1SUtsQnNHRzVBUF9rWmxWUGNQLWhLNmNsWE1ralFyaUs1OEdDRHRxbmxKXzRTOFA5UjVBMk5XdkhyTFZhVEt3SXdybTJxNTFaTnFobU9FbnIzYm1iVERkN3NlZ1Q?oc=5"
+      "title": "美股族群可逢低承接法人看好企業獲利穩健AI發展趨勢未變| 基金 | 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IcDMzYWIwWHh0VEVZTzYwVC0wUHloVUlscVFNUTN3MWNEQTk3anBpdW1hbkZaeVh1ZnRqN0dBZGY4dW1WTmNBdHpGU0U0OG15Nmc?oc=5"
     }
   ]
 }
