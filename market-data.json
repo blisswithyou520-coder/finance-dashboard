@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/28 15:16",
+  "updated_tw": "07/28 18:04",
   "taiwan": {
     "2330": {
       "price": 2280.0,
@@ -72,31 +72,31 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63490.07,
-      "change": -234.8284,
-      "changePercent": -0.3685
+      "price": 63289.49,
+      "change": -435.4084,
+      "changePercent": -0.6833
     },
     "ETH": {
-      "price": 1885.26,
-      "change": -5.3535,
-      "changePercent": -0.2832
+      "price": 1875.0,
+      "change": -15.6135,
+      "changePercent": -0.8258
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.386,
-      "change": 0.0637,
-      "changePercent": 0.1971
+      "price": 32.388,
+      "change": 0.0657,
+      "changePercent": 0.2033
     },
     "JPYTWD": {
-      "price": 0.1956,
-      "change": -0.0019,
-      "changePercent": -0.943
+      "price": 0.1955,
+      "change": -0.002,
+      "changePercent": -0.9936
     },
     "EURTWD": {
-      "price": 36.881,
-      "change": 0.0683,
-      "changePercent": 0.1855
+      "price": 36.838,
+      "change": 0.0253,
+      "changePercent": 0.0687
     },
     "CNYTWD": {
       "price": 4.7928,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4048.1,
-    "twd": 4215.0,
-    "tael": 158063.0,
-    "twdTotal": 131102.0,
-    "changePercent": -0.6479
+    "usd": 4030.0,
+    "twd": 4196.0,
+    "tael": 157366.0,
+    "twdTotal": 130524.0,
+    "changePercent": -1.0922
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPUEJQZjd4alNfSC1XVmFhLTVUam54QkFlUlpzUTc2b2RvZ1pJYXBmSmtkZmRQS2tYaUVuSnVtYVJfUUVsTDJ3aWZNRjJvTXdIaTcyM2tNV19yVVFsMjh4c2JaS3RrU0dtcWI4Yk1IWTNKWXV3b1JGa1JSRnM1Z3VaRV9RU2V3M2NjTW5qMnlxQ2JRT0ZrR1FSQjdfZWV5TUlfN3Rvd3lDa1pIVDAtMFRxVzB6TjdTb3JVTVJlajgtQ0RPUU5jVHlvcE1zbUl0LWxJc1JoeFIyWk42X0FaaTVYOHBhOGZHWnlzdU9EeUF0dEVrY1loM2x4Wl9mLWYwMVVRWTRZUnpkeDZLS2l1V1psRzhObFQ2b0F4bTB2TjZ0bGVfcEhMWnptODBBbExCX2o1SUtsQnNHRzVBUF9rWmxWUGNQLWhLNmNsWE1ralFyaUs1OEdDRHRxbmxKXzRTOFA5UjVBMk5XdkhyTFZhVEt3SXdybTJxNTFaTnFobU9FbnIzYm1iVERkN3NlZ1Q?oc=5"
     },
     {
-      "title": "美股盤後｜中國傳技術突破，AI擔憂蓋過油價下跌，費半、那指均收黑0728｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQTEJiTWRnZjZGUC1MNEhfZ1JEaUhnSzMtYmdtWXdhUW1SWlpqUUtpOUxkbnFmZWY0TlNtT3RrcGRxUUk5bml6TE9UU2lYU2dlSTdQTVBiNXMxSXhTUG9hZWYxMF9FTzExQ0hxSGZ1Sk5Wd2gxYUt2emlpemJJdHNYNG56TFZXR2JKbFdjdExYNWFwT1A0WGxROUdJcHlncTBTSDctS3E3WDlHTXo3eHM5SV9DRHVTUXpGLTAyZlpJZjAwS2FLTFZnWHZVNVJMMmxmR0RYWVMtRS1tTGl5Y2RjWnQxYldEOXlYLUgwUzhGTGdqdkhmNVJ6VEVteEE1TEpWc1lQeHMzTl9ZeENWV3VyS3VkdVphNFZ2d2c0TTNNUlVxZ1pPLTU0T3pIZWNfaVU4T096NDI2VWI3TlF5dGxvRXQtM2c3ZVRidlZneGdERUNoTUFMSEtnclNBbGxjVE9UZ0pNdHlDVld5UGRzNWZlaWo4ak9VWFRWV3dOamtRdzBHSmlCMzFUeEVMeEpYd3VGM3NCY012dmMxNWw2UjJIX0JaXzVody01NGFUSko0YldEcVBISDRUZlhoR1lwYzZpSnpJ?oc=5"
+      "title": "美股收盤》科技股財報、Fed決議將登場！費半挫2.2％、台積電ADR跌逾1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80MzRweFNhNC1SNzhpNjFMUEE1VnpOa0NPQkV1MUpkTE0tTzdlSXY0TGlRUy1JNEM1SVhTM2RUMm5SOXZ4NENPMjFrWnBmcU8xdGt5M3drTXFJdUJHakFF0gFkQVVfeXFMTlZmbWlBN1ppQlFWYUhWQjJxcWtKYkJFOGx3Q2hKcHU1WmhWakVsbXdoLWNoNWVIcWxhcDVNVWdadGI3dGloWlRkRllTVTdpcTZ5VDlGSjhHekdFZndyeGJjWUJQcw?oc=5"
+    },
+    {
+      "title": "美股收盤／晶片股賣壓抵銷油價大跌利多 美股漲跌互見靜待科技七雄財報 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MQTVySWx6TUVOLTFyZkRMem13MkpRV2l5UHNYUWxnRjRmT2NFU0hBYTR6YTlWUm1CME1yOWFPYlRrQ253ZEpBd1ZnYjVGNVhibU9Oa0dGaTdKVS000gFiQVVfeXFMUFRlT01HM0ZsWkE3NjAwclJwdDRlMS0tQVo0ZGFCamRuMHJDSV90ZVlOU0UyWHk4VUNvSGMwLTRmc1Z4b0xQMDFXeVhMcWJGSFdxaVBfRlVfYlRCM296cHhZZmc?oc=5"
     },
     {
       "title": "美股重點新聞摘要2026年7月28日 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0bTN2X3c2TmZHU3AxYWQ0NG40RzB6dXZUWXB6b0lzQVBaaWR3QklfTzRpTE5KbndmeHNMUXVJdExranFvbHQ4SjZQNzIwYlU?oc=5"
     },
     {
-      "title": "美股早盤／美伊周末暫停互攻油價降 道瓊大漲逾600點 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MTUdnSW9iWmE1N0RaNzVhRnp0dVBSRDNlU3dJYXJTcnBkTzNKb0Etc1AyREpvMDFRSi14RjVTcldqSmRrRlFDdzljbDZvNmxL?oc=5"
-    },
-    {
       "title": "台股開盤一度大跌1900點 日、韓股市同步重挫 - 公視新聞網PNN",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kMlotdDFjTmVCejZnQmJ5Sl8xUk9PcVVzWjcwS1NNVVhHYjNKYlgyQ2w4OGVGZHhURDNhNnZ3UWxGQTYtNGg3YUJyUG1rdG8?oc=5"
     },
     {
-      "title": "美股收盤》科技股財報、Fed決議將登場！費半挫2.2％、台積電ADR跌逾1％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80MzRweFNhNC1SNzhpNjFMUEE1VnpOa0NPQkV1MUpkTE0tTzdlSXY0TGlRUy1JNEM1SVhTM2RUMm5SOXZ4NENPMjFrWnBmcU8xdGt5M3drTXFJdUJHakFF0gFkQVVfeXFMTlZmbWlBN1ppQlFWYUhWQjJxcWtKYkJFOGx3Q2hKcHU1WmhWakVsbXdoLWNoNWVIcWxhcDVNVWdadGI3dGloWlRkRllTVTdpcTZ5VDlGSjhHekdFZndyeGJjWUJQcw?oc=5"
+      "title": "台股大跌怎麼辦，空手、套牢、獲利者各有不同，抄底前先看這三件事｜股市話題｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPTjYxRDhYYXRZdjNRZGFHZGw1X0ppMDE5cnRIRzdoblVDbk15V01zbGdjZzAzWHkyakk0dlloOHhLYVhuNjBXNlpXX0NERExQZXhUV3dWMUg0YVNrdDM4OFhCU3J5VzE5S3pfUkxQZHpycW0zZ2h1bExCWktOVHBfSVo2SW9VeGtvYklvT01sdUhlQkpkcEJXRTBWdzBXdUJOOVV4OFFuMjNwbE1YTmJYU1dpdjdjaUdJbUNHQmE0dEduajlTVVI5OTNzeFA3ek9nQnF5ZE5DYXhjSEl3YTREbldqWkY0bERDWlc2RXZqUTMtZnNKM2x2cFJtVWJ0WUVuNVBFN3Rqb05IRlVNelZQdGpreDBPa3JlTlhGVzFRRzRwTDNwNnZMZ3REWEpsMDVfVHRfYXV3bTVLbXUwXzNTTVprTThxTDkyRDNoYUtmcEVpUTVYLWREYXFwcjQwRlZNam1pdWFJOWFvT3drTzhpWFh6dzdjdjlGSWpLRW5KcW1LcFJIRkdHYnlPd2JqSU1lTXJqUWxZYlVLdnpTTUR4RzBQUzhjam5uWkY2dXd0YTZfOTVWWnJieUY5VDJQdjhQR2o3dTg3MHRsN1lnWFltRVZPUmVsNkVUek1YTDc1U0NWU0xxbXhkZDBBTVphU1R2Um5ieXhENA?oc=5"
+    },
+    {
+      "title": "台股盤中重挫2069點史上第5大記憶體股成重災區| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tZHJUM1BoRER4aDJMdThVdmdRQkVCSU1tT1lNaDdqWWNuZG1iN2lUY1JBTDdQWkhUUzFFMXpUcklsMTdyZzUtNUNJNjFPSExFc016UDg4UGREaTJYT1E?oc=5"
     },
     {
       "title": "重演1987美股慘案！台1妖股被腰斬、韓股爆斷頭 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOVUh1cF90ckphMjlvOTFfSWJhZVYtQ1VJQUQ3OU1jbGpNN1EtWDlaOThYaDA2M2lZUnVDbnpXcVRTNklGbmFvazlodmgyWjdSNEFFaDdEM1hGRFZxYkdvcVhsaVdFWXhack1PaUY0NlZVYXc3dHBlZXZfd0ZkeXozZnB3YkRGLW41Z1EzQ196ZjJpQU0weWNZSGlnQnpyZU8tOE1TM056VFJIdFlkalliLUoxYzBJVTBKSHhRVElYUU9ubnBTZ21OWkhBdzk5QnItaUZOR2c3Tmw3c1RMQWhIMW1sMkFDS1dlLUVZRXk1d3ZLYnpMM09UV2lYX1lPZHJIZ3NLckFpTHBxTVR0VVlFYjZoTWxSdXRNcFJQbUNnOXpzenIwaWZmNTdLSVRxNTJo?oc=5"
-    },
-    {
-      "title": "【美股盤前0728】空頭加碼做空美光！資金正在悄悄「逃離AI」，這3大訊號不可不知！｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPZVRnTEYzblFGb2VYN3AwZUstN3BUaXhsUG43LTFhTUp0UWRoX1BCdk5rYk1Va09qSkVFVGloRVUteXNmRmJsR29URjdhR0NncjlFVzdXSkxWbHpzQm5YNkwtSG0xNnRYSzhzTEl6d3Jvcy00UktwVWdlcHU2cVBNYTlYbTVsN3I1NEE5RXpYcHFyN21LQTNOVmV2RUNPeVVZdVFPWjltekVJSEJDQ1BERno3QWEtdm5HbkdXdVdpa2dzYzZMcEFZNkFEcnJSN3NLbUFuc3loZC1xQ3JxQTdqSVRYWDJqNGVSMS1Pb21qMEF5LXBzZGRWNUNJdFAtbkwxTTFlZl9CQmc5d0NXa2NNVDRCckF3QmEtaHh3X1ZrTkZUVng1NEJ1NEl6eDQ2M3YzbG0tQWhFT3dLa0l3cE1EZ2ltQ1RFLXY2VG5KYjkyUDhXYk04M0lSOE00dFQtZFJMRFllR3BscjhJV1Q4elpJWnVDdllyNmpzVDI4R1dzaDF2TF9CZC1hLXdvQnprdDAxcXhCTFNOR0hIbmtrVGhyNmo2NGJMRG9SRVVBYkNMQzRwbEFMY013aFRQLVVIYmlFelR0Xy1LekF4RnczekxJUl9BZHJ3aDVQRXFmTGt5UQ?oc=5"
     }
   ]
 }
