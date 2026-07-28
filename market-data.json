@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/29 01:53",
+  "updated_tw": "07/29 03:21",
   "taiwan": {
     "2330": {
       "price": 2280.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 196.97,
-      "change": 0.46,
-      "changePercent": 0.2341
+      "price": 197.615,
+      "change": 1.105,
+      "changePercent": 0.5623
     },
     "AAPL": {
-      "price": 339.785,
-      "change": 2.875,
-      "changePercent": 0.8533
+      "price": 339.345,
+      "change": 2.435,
+      "changePercent": 0.7227
     },
     "TSLA": {
-      "price": 306.435,
-      "change": -2.785,
-      "changePercent": -0.9007
+      "price": 306.654,
+      "change": -2.566,
+      "changePercent": -0.8298
     },
     "QQQ": {
-      "price": 676.16,
-      "change": -5.96,
-      "changePercent": -0.8737
+      "price": 677.19,
+      "change": -4.93,
+      "changePercent": -0.7227
     },
     "SPY": {
-      "price": 740.86,
-      "change": 1.77,
-      "changePercent": 0.2395
+      "price": 741.595,
+      "change": 2.505,
+      "changePercent": 0.3389
     },
     "SCHD": {
-      "price": 33.895,
-      "change": 0.465,
-      "changePercent": 1.391
+      "price": 33.88,
+      "change": 0.45,
+      "changePercent": 1.3461
     },
     "VOO": {
-      "price": 681.01,
-      "change": 1.7,
-      "changePercent": 0.2503
+      "price": 681.63,
+      "change": 2.32,
+      "changePercent": 0.3415
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63542.77,
-      "change": -182.1284,
-      "changePercent": -0.2858
+      "price": 63665.05,
+      "change": -59.8484,
+      "changePercent": -0.0939
     },
     "ETH": {
-      "price": 1895.8,
-      "change": 5.1865,
-      "changePercent": 0.2743
+      "price": 1912.14,
+      "change": 21.5265,
+      "changePercent": 1.1386
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.365,
-      "change": 0.0427,
-      "changePercent": 0.1321
+      "price": 32.366,
+      "change": 0.0437,
+      "changePercent": 0.1352
     },
     "JPYTWD": {
       "price": 0.1954,
@@ -94,32 +94,28 @@
       "changePercent": -1.0443
     },
     "EURTWD": {
-      "price": 36.913,
-      "change": 0.1003,
-      "changePercent": 0.2724
+      "price": 36.911,
+      "change": 0.0983,
+      "changePercent": 0.267
     },
     "CNYTWD": {
-      "price": 4.787,
+      "price": 4.784,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4028.2,
-    "twd": 4192.0,
-    "tael": 157184.0,
-    "twdTotal": 130373.0,
-    "changePercent": -1.1363
+    "usd": 4023.6,
+    "twd": 4187.0,
+    "tael": 157010.0,
+    "twdTotal": 130228.0,
+    "changePercent": -1.2492
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
-    {
-      "title": "快訊／美股多空交戰！費半挫逾3％ 台指期夜盤強勢反彈 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQM2ZyVzczLXNKaGY5SzExRC1fWjZYWjZ3OF82czhWQlFUUEZ2ejBBQmtEYXNfbHdZT2tNalZpQVJBbUdjNlhmUTlXYmh1MmI1djB4OEFaZ2E3QjNUbHJtY2NXLXI2clpzYXlWVDZqdDk4cndqUVV1dTZkOXB0dUdVcDZ5d1prU3dFMWN0RVl6X2UwSnBuaEtMMGtDOEMteHdBN28zZ0l3ckdqbGp0VFgyYldxR3FyQkRNQTUxT211NDhYZ2NRT0tzQTZ4cjE5bWVuYnpsbTQ2RFJpNTN2ZHNZaGF1eXhkaEpYSkpBNzJCdEl5QjJoNlpoeGZQT1ZxQ182a3dTT0ZYQlFScHluZV9WeERZYzRRS1F3d3JoQ2Jrdl9Pcnh5QXEtSkQ2YVVGdEJKN0tHX2JJSmJJX0VjbFlJRk1NOUlfak9MRndlVzREQmxrNTI5?oc=5"
-    },
     {
       "title": "美股早盤／費半重挫5%...指數漲跌互見 康寧瀉18% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iWXUwTmtjb2M3ak5zZm5QRHl3Zm1CVkptY21tZVJjN1BQWlhTMzBiMXd2dGhwYUhfa3FwenlUSzFhbFEzZ0pnZTVLclhSQm9a?oc=5"
@@ -129,16 +125,20 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xMm1BbzNyZ3FqNTVSYmxQUzdRanhjNjFDMUxnVm41QVBHTE12aUVzWTlybENlek8xVVdHaHd1bWE4UXgwUnNvRDhheVA2VHc?oc=5"
     },
     {
+      "title": "快訊／美股多空交戰！費半挫逾3％ 台指期夜盤強勢反彈 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQM2ZyVzczLXNKaGY5SzExRC1fWjZYWjZ3OF82czhWQlFUUEZ2ejBBQmtEYXNfbHdZT2tNalZpQVJBbUdjNlhmUTlXYmh1MmI1djB4OEFaZ2E3QjNUbHJtY2NXLXI2clpzYXlWVDZqdDk4cndqUVV1dTZkOXB0dUdVcDZ5d1prU3dFMWN0RVl6X2UwSnBuaEtMMGtDOEMteHdBN28zZ0l3ckdqbGp0VFgyYldxR3FyQkRNQTUxT211NDhYZ2NRT0tzQTZ4cjE5bWVuYnpsbTQ2RFJpNTN2ZHNZaGF1eXhkaEpYSkpBNzJCdEl5QjJoNlpoeGZQT1ZxQ182a3dTT0ZYQlFScHluZV9WeERZYzRRS1F3d3JoQ2Jrdl9Pcnh5QXEtSkQ2YVVGdEJKN0tHX2JJSmJJX0VjbFlJRk1NOUlfak9MRndlVzREQmxrNTI5?oc=5"
+    },
+    {
+      "title": "2026年8月美股財經行事曆｜降息還是重啟升息？從 CPI、非農到 PCE，關鍵 8 大指標一次看 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxPUmdueDNXMXJycHVUdml3V0tqOUFPLTg1dm5qWWJkVUNCc2poc1BqbkRvalNHMGV4SlFGZEd4VTBJOE9uaVh1MF8xdlhzUDJxdExVRWlvRkJzQ3ZCVFNRVlM3Z0lMcEtBelNuM0VSTWptQlVETmo5OUxvZEtzLWFHMlBtMmlzQUlqaXAzMUQ2ZldvUml3SENZSFUyNF9NM2h5UmRrdlU5clhEQjU5TzMwX2FaeERmZ3J6ZXk1Mjc2TkpzZTVQZDNXMVpiSWRuT2hJb012ZXNQS0dJNjFNc0pOb3JaYmNvU3liTTVrUlVFeFp1a2FLSDJPc0ZNV1ZkQzJFQ2c4eW1CendVVlkzTXZQOGJ1dUpTSFZWRmMzWjlROVR5UC01TlpKMnFwNDVpZzNMOElOZ2RyZVN5Q201MXNJbVRaeFRvaEx5UWdVVENEM2NIRDA5Z2pMbGlnakg1SzR6cHZ4RVpFelh2OUJodW1XaEhaWm9IdndmR01wNHRyRnFFaUZlUUc1THNqREY3eUl3YUU2WEd4cVo1TnNQMTRNeWJtTS0yWWJnbFF4bXJSOXZvTndoUE1LWEtoaFpCN3lIc1E0Yjg4RFZEaHZhb2hPdEtlQzdjMk9CVDVHNXczWFdwZGhpM2pYdU56TVMtWGVzUndv?oc=5"
+    },
+    {
       "title": "台股收跌2030點失守42K 創史上第3大跌點 - 公視新聞網PNN",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5paFZEMGpIaFpYdVFJY3h6cXAya1VsLS01VUJSRkFvSkR3VE9BWTJFMVFQZ1U1a3Q0d3I5bXg3N2swSUk5cVJzVXdNUmdXOUE?oc=5"
     },
     {
       "title": "【美股盤前急殺】ASML盤前跌5%，中國複製機台嚇壞市場 - CMoney投資網誌",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2FoLUN2dGJCLXFXN1ZZbDU3ZGFFbnp3anVTSnJRUUR6OF9FU3htQlYxbnVDWDRHbmswdV94NUl4b0N1aV85MnJkVVZXbV90emlOY1hsOTl4NTkyRDM4RG9CMlN0RkJVUGNJUnMxRWRuUUxfaXg0UkRjU01qMzFGUkxuVTEzMDYtYWk1NzBn?oc=5"
-    },
-    {
-      "title": "台股大跌怎麼辦，空手、套牢、獲利者各有不同，抄底前先看這三件事｜股市話題｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPTjYxRDhYYXRZdjNRZGFHZGw1X0ppMDE5cnRIRzdoblVDbk15V01zbGdjZzAzWHkyakk0dlloOHhLYVhuNjBXNlpXX0NERExQZXhUV3dWMUg0YVNrdDM4OFhCU3J5VzE5S3pfUkxQZHpycW0zZ2h1bExCWktOVHBfSVo2SW9VeGtvYklvT01sdUhlQkpkcEJXRTBWdzBXdUJOOVV4OFFuMjNwbE1YTmJYU1dpdjdjaUdJbUNHQmE0dEduajlTVVI5OTNzeFA3ek9nQnF5ZE5DYXhjSEl3YTREbldqWkY0bERDWlc2RXZqUTMtZnNKM2x2cFJtVWJ0WUVuNVBFN3Rqb05IRlVNelZQdGpreDBPa3JlTlhGVzFRRzRwTDNwNnZMZ3REWEpsMDVfVHRfYXV3bTVLbXUwXzNTTVprTThxTDkyRDNoYUtmcEVpUTVYLWREYXFwcjQwRlZNam1pdWFJOWFvT3drTzhpWFh6dzdjdjlGSWpLRW5KcW1LcFJIRkdHYnlPd2JqSU1lTXJqUWxZYlVLdnpTTUR4RzBQUzhjam5uWkY2dXd0YTZfOTVWWnJieUY5VDJQdjhQR2o3dTg3MHRsN1lnWFltRVZPUmVsNkVUek1YTDc1U0NWU0xxbXhkZDBBTVphU1R2Um5ieXhENA?oc=5"
     },
     {
       "title": "〈美股早盤〉主要指數漲跌互現 半導體股續挫 台積電ADR跌近4% - news.cnyes.com",
