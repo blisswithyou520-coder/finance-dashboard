@@ -1,43 +1,43 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/28 09:03",
+  "updated_tw": "07/28 12:27",
   "taiwan": {
     "2330": {
-      "price": 2350.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 2300.0,
+      "change": -50.0,
+      "changePercent": -2.1277
     },
     "2454": {
-      "price": 3680.0,
-      "change": -70.0,
-      "changePercent": -1.8667
+      "price": 3350.0,
+      "change": -330.0,
+      "changePercent": -8.9674
     },
     "2317": {
-      "price": 253.0,
-      "change": 0.5,
-      "changePercent": 0.198
+      "price": 242.5,
+      "change": -10.5,
+      "changePercent": -4.1502
     },
     "0050": {
-      "price": 101.45,
-      "change": -0.25,
-      "changePercent": -0.2458
+      "price": 97.65,
+      "change": -3.8,
+      "changePercent": -3.7457
     },
     "00878": {
-      "price": 32.55,
-      "change": -0.18,
-      "changePercent": -0.55
+      "price": 31.7,
+      "change": -0.91,
+      "changePercent": -2.7906
     },
     "00919": {
-      "price": 29.59,
-      "change": 0.1,
-      "changePercent": 0.3391
+      "price": 29.08,
+      "change": -0.51,
+      "changePercent": -1.7236
     }
   },
   "us": {
     "NVDA": {
       "price": 196.51,
-      "change": -12.25,
-      "changePercent": -5.868
+      "change": -10.33,
+      "changePercent": -4.9942
     },
     "AAPL": {
       "price": 336.91,
@@ -46,70 +46,70 @@
     },
     "TSLA": {
       "price": 309.22,
-      "change": -10.47,
-      "changePercent": -3.275
+      "change": -3.81,
+      "changePercent": -1.2171
     },
     "QQQ": {
       "price": 682.12,
-      "change": -9.84,
-      "changePercent": -1.4221
+      "change": -2.11,
+      "changePercent": -0.3084
     },
     "SPY": {
       "price": 739.09,
-      "change": 0.91,
-      "changePercent": 0.1233
+      "change": 0.16,
+      "changePercent": 0.0217
     },
     "SCHD": {
       "price": 33.43,
-      "change": 0.63,
-      "changePercent": 1.9207
+      "change": 0.14,
+      "changePercent": 0.4205
     },
     "VOO": {
       "price": 679.31,
-      "change": 0.7,
-      "changePercent": 0.1032
+      "change": 0.17,
+      "changePercent": 0.025
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63449.94,
-      "change": -1890.3608,
-      "changePercent": -2.8931
+      "price": 63231.01,
+      "change": -2109.2908,
+      "changePercent": -3.2282
     },
     "ETH": {
-      "price": 1878.4,
-      "change": -75.0113,
-      "changePercent": -3.84
+      "price": 1877.21,
+      "change": -76.2013,
+      "changePercent": -3.9009
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.309,
-      "change": -0.0133,
-      "changePercent": -0.0411
+      "price": 32.425,
+      "change": 0.1027,
+      "changePercent": 0.3177
     },
     "JPYTWD": {
-      "price": 0.1951,
-      "change": -0.0024,
-      "changePercent": -1.1962
+      "price": 0.1957,
+      "change": -0.0018,
+      "changePercent": -0.8923
     },
     "EURTWD": {
-      "price": 36.792,
-      "change": -0.0207,
-      "changePercent": -0.0563
+      "price": 36.897,
+      "change": 0.0843,
+      "changePercent": 0.229
     },
     "CNYTWD": {
-      "price": 4.782,
+      "price": 4.7964,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4059.1,
-    "twd": 4216.0,
-    "tael": 158116.0,
-    "twdTotal": 131145.0,
-    "changePercent": -0.209
+    "usd": 4047.0,
+    "twd": 4219.0,
+    "tael": 158211.0,
+    "twdTotal": 131224.0,
+    "changePercent": -0.6749
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股重點新聞摘要2026年7月28日 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0bTN2X3c2TmZHU3AxYWQ0NG40RzB6dXZUWXB6b0lzQVBaaWR3QklfTzRpTE5KbndmeHNMUXVJdExranFvbHQ4SjZQNzIwYlU?oc=5"
-    },
-    {
-      "title": "美股早盤／美伊周末暫停互攻油價降 道瓊大漲逾600點 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50MFZCeDU5RjNmY3BCdHlHT3pqZV82V1MwOXJodFF3S2Z3NlE2dnU5M1llNnd3NTlNd2hJNzJCQ2ZaOUxuWC1QMkxIZ2pJUkE5TnpTcGg1MVBCR0Iz0gFiQVVfeXFMT0gwRzE4MlZHRXZMUDNFbXlUbEVibXk5SW1QeUU2MS10Vl9ma255VEF5Yjcyb3hRbC1TSVBhSDVLSERmR3JDdUZCbzJPYVJiQ1hqdW0wWHVyV185a1lBbWdwUUE?oc=5"
-    },
-    {
-      "title": "川普心情放晴、美伊停火在即！美股4大指數開盤齊揚 道瓊一度飆逾600點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPREIyY0FaUkhqRlNicExTd2t6WnpuakJSbXM3QkZneWlERUs4Wmd6T1ZSSF9WNHJvaUpWRjZreGxFRXBfc3VJMkhqWElGdzZrM0VrdGw2aDJkTEtoc1NzLVplT0txY3NpMHRRdmM2Z0JjaEw4Qk56ekd0eHc0aG1tX1lFZmpqYms5WjdQZFFXME9MZUdzMW9Pby1iNWQyVTNyemdPSExOREVaeFduak1PU2dfZ2w5MzlrM0F6by1vUVdMcEg3LUJ0WktPaGVZb3BSTExWRktSVHozYnZHVlJuVzV5VjRTTzNpS0VLRng3X0NpOXI2cDFEa0dVcXdhb0JDUjZIZnAwY3VSc3BwYkpNemN5dUJnRkZIZ1R3MXN3MmJncjRVNmdkdUdYQUF3WjVRSllKTnNMNnNFNUlTNHNPdlBEWlZucm1BY0hZZ1AtWlpHb1ZqR2hNSVo4SzNmNXR3ekJyWjVWY0xGek9LVW1uOURta3Rmc2lTZnZWVFJwT1FWLW4wOFRhMWJlMTBYOEhSenRxTEtTbVZyNW0ycXVoSVJJUFpic0NsY1E?oc=5"
-    },
-    {
-      "title": "美股收盤》科技股財報、Fed決議將登場！費半挫2.2％、台積電ADR跌逾1％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80MzRweFNhNC1SNzhpNjFMUEE1VnpOa0NPQkV1MUpkTE0tTzdlSXY0TGlRUy1JNEM1SVhTM2RUMm5SOXZ4NENPMjFrWnBmcU8xdGt5M3drTXFJdUJHakFF0gFkQVVfeXFMTlZmbWlBN1ppQlFWYUhWQjJxcWtKYkJFOGx3Q2hKcHU1WmhWakVsbXdoLWNoNWVIcWxhcDVNVWdadGI3dGloWlRkRllTVTdpcTZ5VDlGSjhHekdFZndyeGJjWUJQcw?oc=5"
+      "title": "美股盤後｜中國傳技術突破，AI擔憂蓋過油價下跌，費半、那指均收黑0728｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQTEJiTWRnZjZGUC1MNEhfZ1JEaUhnSzMtYmdtWXdhUW1SWlpqUUtpOUxkbnFmZWY0TlNtT3RrcGRxUUk5bml6TE9UU2lYU2dlSTdQTVBiNXMxSXhTUG9hZWYxMF9FTzExQ0hxSGZ1Sk5Wd2gxYUt2emlpemJJdHNYNG56TFZXR2JKbFdjdExYNWFwT1A0WGxROUdJcHlncTBTSDctS3E3WDlHTXo3eHM5SV9DRHVTUXpGLTAyZlpJZjAwS2FLTFZnWHZVNVJMMmxmR0RYWVMtRS1tTGl5Y2RjWnQxYldEOXlYLUgwUzhGTGdqdkhmNVJ6VEVteEE1TEpWc1lQeHMzTl9ZeENWV3VyS3VkdVphNFZ2d2c0TTNNUlVxZ1pPLTU0T3pIZWNfaVU4T096NDI2VWI3TlF5dGxvRXQtM2c3ZVRidlZneGdERUNoTUFMSEtnclNBbGxjVE9UZ0pNdHlDVld5UGRzNWZlaWo4ak9VWFRWV3dOamtRdzBHSmlCMzFUeEVMeEpYd3VGM3NCY012dmMxNWw2UjJIX0JaXzVody01NGFUSko0YldEcVBISDRUZlhoR1lwYzZpSnpJ?oc=5"
     },
     {
       "title": "別再煩惱要選台股還是美股，一軍大聯盟幫你兩者兼顧！ - 鉅亨買基金",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaEdwYWVhbkk2TnJSVVpDMVRVeFpYdWRrVUExT2phMEtCV2J0TDd0V1RLWlU0Z1JiamxHaGFhdWtybmF6cFlPblBCdHl6Zlpjdy10Sl9sWThSY2N6QTZiRkxXa1pPcDhQa2txeTFhbl9GT2lPajJBTV9rdFVWX2tVMktpaUo2VUNIcUxucFB0UFowb0ROUm1FSVRn?oc=5"
     },
     {
-      "title": "《貴金屬》通膨擔憂減輕 COMEX黃金上漲0.2% - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcDd3ZzQycVhJX2RwMzhjdUZpck1sckkya3lLRXFlOVdkZ244eGJrcEoyMGozaG95cjB6M2w4NzJRVTNQZUZId3FOWXFsTmlNMTBseTFROUhXMTNvLWZFS3p1TFVRWmJZZXZtZy1sQmd6ckF6V1lDazktM3F0VU9YeTNzVkY3bzlKdEQ2a28wNkhmdw?oc=5"
+      "title": "美股重點新聞摘要2026年7月28日 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0bTN2X3c2TmZHU3AxYWQ0NG40RzB6dXZUWXB6b0lzQVBaaWR3QklfTzRpTE5KbndmeHNMUXVJdExranFvbHQ4SjZQNzIwYlU?oc=5"
     },
     {
-      "title": "美股核彈級崩盤倒數？巴菲特最愛指標衝新高：投資人正在玩火- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oWTBuY1dZamxKUUpMQ0xYZEUxbUhoYnNqLWpaVnF1V21EdzlLaVpQMEgyOHBUT0Y2NXlxbWNwQ2RPbFNCaGpPXzV5Um1BYmVUd2tIMEVjazl1TEtHQ213?oc=5"
+      "title": "川普心情放晴、美伊停火在即！美股4大指數開盤齊揚 道瓊一度飆逾600點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPREIyY0FaUkhqRlNicExTd2t6WnpuakJSbXM3QkZneWlERUs4Wmd6T1ZSSF9WNHJvaUpWRjZreGxFRXBfc3VJMkhqWElGdzZrM0VrdGw2aDJkTEtoc1NzLVplT0txY3NpMHRRdmM2Z0JjaEw4Qk56ekd0eHc0aG1tX1lFZmpqYms5WjdQZFFXME9MZUdzMW9Pby1iNWQyVTNyemdPSExOREVaeFduak1PU2dfZ2w5MzlrM0F6by1vUVdMcEg3LUJ0WktPaGVZb3BSTExWRktSVHozYnZHVlJuVzV5VjRTTzNpS0VLRng3X0NpOXI2cDFEa0dVcXdhb0JDUjZIZnAwY3VSc3BwYkpNemN5dUJnRkZIZ1R3MXN3MmJncjRVNmdkdUdYQUF3WjVRSllKTnNMNnNFNUlTNHNPdlBEWlZucm1BY0hZZ1AtWlpHb1ZqR2hNSVo4SzNmNXR3ekJyWjVWY0xGek9LVW1uOURta3Rmc2lTZnZWVFJwT1FWLW4wOFRhMWJlMTBYOEhSenRxTEtTbVZyNW0ycXVoSVJJUFpic0NsY1E?oc=5"
     },
     {
-      "title": "美股估值過熱？「巴菲特指標」飆破236% 外媒：投資人正在玩火 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNMFdxU1VNQm9XQ04xenIxWVg1NTFtcDdtY1RpRGpnTUN6ZGpzU0l6SEp4VDR1SGJXVnhpQWNfZnAxLXNRUmZDelY4bC1zNlctazNYazl3M0gxTFJLVXJLRXdnNnphZEIyZ2QzcUFfLWYwM0l4UmZ1cTZOMlFhMmRTQjgyd0FiTDNHeHBXOHNyTXVMazF5RlZMTXFFUGFHWGJ3ejg0ajhwSHVRZW1KT2RWQjlWU08waUFiVktCaDBQS1UtTnNvdms5QjhpNDQyN2dtdHhma1JuTm1Zc2FOZGtiVS1QZ1NnTE5LdnVtdlc2Q1k3NXpzY1UxMXJHUTVJNTlQdHo1YTJsaFFaVnh6U0dtYm1xUzRNRGZSclhfS3AwaEFFQktCbTBnT3VxRzRHMkV4eFc4bXV2QWstWW40a0w3b0ZaMjdJVDhJcnpXLXdjME41R2pYc1QzVnRuSENCaDNkcXBHVVVKNnhyQ0Zy?oc=5"
+      "title": "美股早盤／美伊周末暫停互攻油價降 道瓊大漲逾600點 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MTUdnSW9iWmE1N0RaNzVhRnp0dVBSRDNlU3dJYXJTcnBkTzNKb0Etc1AyREpvMDFRSi14RjVTcldqSmRrRlFDdzljbDZvNmxL?oc=5"
+    },
+    {
+      "title": "美股收盤》科技股財報、Fed決議將登場！費半挫2.2％、台積電ADR跌逾1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80MzRweFNhNC1SNzhpNjFMUEE1VnpOa0NPQkV1MUpkTE0tTzdlSXY0TGlRUy1JNEM1SVhTM2RUMm5SOXZ4NENPMjFrWnBmcU8xdGt5M3drTXFJdUJHakFF0gFkQVVfeXFMTlZmbWlBN1ppQlFWYUhWQjJxcWtKYkJFOGx3Q2hKcHU1WmhWakVsbXdoLWNoNWVIcWxhcDVNVWdadGI3dGloWlRkRllTVTdpcTZ5VDlGSjhHekdFZndyeGJjWUJQcw?oc=5"
+    },
+    {
+      "title": "中東局勢緩和美股走勢分歧投顧：台股技術面弱勢整理| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GNzZ4OGdydmxWeXRDT0xKT2VQOFp4ZUxQcWI5NTg5WjFzaWRLOEh6bEVUVUZHV2RLMjRUVHRic1Z1cEFfdTYwWFhubWp3dlVoU05DUnhOS0FHcFh1emc?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉油價大幅回落 道瓊漲逾260點 美光、SK海力士ADR、ASML同步重挫 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9acDlRMnNpQndsVzdrOWVZV0lCWE1CRFhySzNCQXU0MlRyeFJtb19RaDZzdnRXSUpYamE3R2xvcjNrUlowQ2JoYktCRU5QcDA?oc=5"
     }
   ]
 }
