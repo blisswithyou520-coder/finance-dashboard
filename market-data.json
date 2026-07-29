@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/29 14:18",
+  "updated_tw": "07/29 17:20",
   "taiwan": {
     "2330": {
       "price": 2200.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64035.65,
-      "change": 310.7516,
-      "changePercent": 0.4876
+      "price": 64392.99,
+      "change": 521.6267,
+      "changePercent": 0.8167
     },
     "ETH": {
-      "price": 1910.41,
-      "change": 19.7965,
-      "changePercent": 1.0471
+      "price": 1917.62,
+      "change": -2.3285,
+      "changePercent": -0.1213
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.413,
-      "change": 0.111,
-      "changePercent": 0.3436
+      "price": 32.408,
+      "change": 0.106,
+      "changePercent": 0.3282
     },
     "JPYTWD": {
-      "price": 0.1961,
-      "change": -0.0011,
-      "changePercent": -0.5724
+      "price": 0.1959,
+      "change": -0.0013,
+      "changePercent": -0.6738
     },
     "EURTWD": {
-      "price": 36.996,
-      "change": 0.2683,
-      "changePercent": 0.7305
+      "price": 36.955,
+      "change": 0.2273,
+      "changePercent": 0.6189
     },
     "CNYTWD": {
-      "price": 4.796,
+      "price": 4.7946,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4035.2,
-    "twd": 4205.0,
-    "tael": 157691.0,
-    "twdTotal": 130793.0,
-    "changePercent": -0.0273
+    "usd": 4096.2,
+    "twd": 4268.0,
+    "tael": 160050.0,
+    "twdTotal": 132750.0,
+    "changePercent": 1.484
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,16 +129,8 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50YXdJWVpRa1ZZcmgtNnF1dDVDTUtoYUpyZEtKN1NYLTNib0w4c09yM0dwNS1GVGNrN2tNMVp2S1RqOWxNUzBsdW9oSlhkT2I5YTdUeUlHdFNyamF6MVNv?oc=5"
     },
     {
-      "title": "美股重點新聞摘要2026年7月29日 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CMmZ4QkdvN2dxREtfdWdZUXY3REVHdkUyMDU1bXBoMTJtNTUwM3FLbGpRRXZRSElqb2xrSEJyMkdLOUhxZDlRbll5NE9HenM?oc=5"
-    },
-    {
-      "title": "台股跌破4萬點四大因素衝擊市場情緒| 股市要聞| 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpaHpvNHk3UEdZOU1vd2NpR1FoTDA1U0ZVOUFUS3RrLWl3WHkyams5TUp5Qi1WYzZFZnBoVGh3NWw1aDR4UGZ1SjBGc2RCd2hR?oc=5"
-    },
-    {
-      "title": "台股重挫1564點歷史第7大跌點4萬點關卡失而復得| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hVWxBNzBMQXRYVTJmWUlwRFpfYVZxQXRwdnNkakQyV3E5TmYxemx5aGdDdlUzZGw4cGFPZzE3cVVpRGhGZ3pOcHlDckJpZjdVMFprUzVlM0I5c0tPZXc?oc=5"
+      "title": "〈美股盤後〉油價下滑 道瓊漲逾500點 全球晶片股慘遭血洗 費半狂瀉近5% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yNkdaOFZhWVpZeEdRallIR3IzMWhJQ2NHR2U1OFFCUzU0SEpMaUMwTmZiSlh1QUFKOVVxQlBVZy1qdEZaMVJfMVMxekdxdjA?oc=5"
     },
     {
       "title": "美股法說BE｜AI供電巨頭Bloom Energy財報超預期，營收首破10億美元大關、毛利率強勢攀升，盤後股價飆漲，高力、康舒有望受惠(BE US)｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
@@ -147,6 +139,14 @@
     {
       "title": "不意外！台股暴跌2千點百萬散戶大軍又進場…再跌千點住「套房」 安全嗎？分析師這麼看 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQMXVoU053QkkxVng3c3hycm9mUThpQ0hKci0yeExqQlM2THYyQWRjb0s4ZHVFbFNkTHdjR3FBX0gtV1BEMnJKX0lrazEtUEZkT1R5VlVVMXliWm0xeENEaUR2eUEwbFV3TkpsR2Zrc3Z2NFd1YXpNUG9aSXR2ZUtiVDE3SWxPX0hKYnhkMXMyd3RiM3AzNUp6LUpMWFdHYzh3RFExSTJNLTBBTFpmQmE1WXdsbkpqWFJvSHlmZjg0VGZXWWNUNm1aaG1hYVNpakg0Q3NUT2FqX1FaV3hycE56VFJtdHdWcjE3YTFCVmhEaWFPM0U3WEdMaW4xaDV6NnJ2LWw5anVsYXFvWDZZSURIV242bnVQV3NIdnZoalpOZkp3c0pKRVBSTzdXRzd2YkpLal9wY2Jtd3R4TzlhNlF4U25Tbzh5VVJBMEM4Y1hGTjhjLS1URWNMYUQ4bzJQZWw5cFVCb3hjR3pCcHNLM3FEcTI0c3dHcGJtNm1yX3VNNkNYbUtldk5HRUJPMUlOQk5XZzRSdnBkRC1fR1Y2Sk1jZG9lTUxHYUk0dWJQclJNUnExRDhCR2lwSDRHS19DbjVoR0F1M21FdWoxbG40SUNKYnNROG9pVWJlWXlVenlmVXRycExpRGF4Rk8yTElrTlFhQjFwZGdwUDNQQ2dfclZvTm41eEtpUWFmNm1DUlZUU0FEQXhIOUd2RVFpRUJxSXk1UUNxTndn?oc=5"
+    },
+    {
+      "title": "美股收盤》道瓊漲537點、費半續挫逾4％ 台積電ADR跌1.7％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UcE5wTVZGT1o4MFBPWXdPc2VFdWhwLUNRWEpocmJyLWRyN1hKYXM0X0dkeEZ6YWZYTGRmVWlhc01mRnQyazlmU1htNVJVQ3Q5RkQwNFFObEp5RExrRktR?oc=5"
+    },
+    {
+      "title": "美股聚焦超級星期三 微軟、Meta財報接棒 聯準會決策成市場三大焦點 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2ZkhVMlZLWjdiTmpjNVFJQl9KRFoxVWtkaXVRSzJmdzM1cUc5Y3h0LW13Q3FjN1JENTZJQUZxaGdhME95NDVMbDVIalJFbGs?oc=5"
     }
   ]
 }
