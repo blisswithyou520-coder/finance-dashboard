@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/29 17:20",
+  "updated_tw": "07/29 19:38",
   "taiwan": {
     "2330": {
       "price": 2200.0,
@@ -61,8 +61,8 @@
     },
     "SCHD": {
       "price": 33.89,
-      "change": 0.46,
-      "changePercent": 1.376
+      "change": 0.6,
+      "changePercent": 1.8023
     },
     "VOO": {
       "price": 680.96,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64392.99,
-      "change": 521.6267,
-      "changePercent": 0.8167
+      "price": 64350.63,
+      "change": 479.2667,
+      "changePercent": 0.7504
     },
     "ETH": {
-      "price": 1917.62,
-      "change": -2.3285,
-      "changePercent": -0.1213
+      "price": 1909.21,
+      "change": -10.7385,
+      "changePercent": -0.5593
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.408,
-      "change": 0.106,
-      "changePercent": 0.3282
+      "price": 32.423,
+      "change": 0.121,
+      "changePercent": 0.3746
     },
     "JPYTWD": {
       "price": 0.1959,
@@ -94,22 +94,22 @@
       "changePercent": -0.6738
     },
     "EURTWD": {
-      "price": 36.955,
-      "change": 0.2273,
-      "changePercent": 0.6189
+      "price": 36.965,
+      "change": 0.2373,
+      "changePercent": 0.6461
     },
     "CNYTWD": {
-      "price": 4.7946,
+      "price": 4.7969,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4096.2,
-    "twd": 4268.0,
-    "tael": 160050.0,
-    "twdTotal": 132750.0,
-    "changePercent": 1.484
+    "usd": 4092.1,
+    "twd": 4266.0,
+    "tael": 159964.0,
+    "twdTotal": 132678.0,
+    "changePercent": 1.3825
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,8 +117,8 @@
   },
   "news": [
     {
-      "title": "【美股盤前0729】記憶體與光通訊空頭襲擊！蘋果突圍衝5兆市值，聯準會利率決議前夕該注意什麼？ - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMixgRBVV95cUxNUmVnaXo5MVUyaUplbzBDbFpkU05qNGpCak9CUjhobWxSLUJTZmt3WTlMeVlVNEpxYkhqQk9XaEk5ZGd2cjA4cFVONm80bUpfdkMyQWlHMFA1aXVTVml1TXd4SkhNaWd0c01BRTBkQllyYm93WkZlOTBjdTk1WS1kUFZiYlUxZndqanJ6V1RYNkxULUltTEpJNTVIbE42M0NVYU1YYUI5TXIxMkRmTWlFUUlwTjMzU2MzYklVVmg0b0NqenVicmJWeF9lTnhaMFhDdDVsODdqM2pQVVRVSmJXN0M2Mlc2djVRbnVYRzMwcVdBUmJWU0h6UkNJdE1EdlZ4ZlA0X0U0SkZwbkR5SHo3QXRaSmhFWUpLdUpMQXpQUGZnNTlxSE1XcVI3ckJYcTZOclJWNE5RaEhlQk45cnNJdV9yUWlaNWszNGE5U2xOOEFjWmthR0p0SGFwc182VkZQMk9NV2JIeFR2blN5MHpKZWQ0QmxmS1BaWGUxM0xTcDlVVjlPSjRyMlpTdlNNWHFHa3hNS2RTaFRidmdfZW5PYW5sLWR1UGF2emkwUldBRjFrZUN2MFhKbHZRRF9SbjU4RThBTkN5cVVkbWF2bVI5SHZmdTI0MkJzNkp3N0NOWUJyVjIxVm1wRmtSXzhBUFJaRFQyUEpuXzJuMzN1SU5OdjcyT3RfUkt1WmdxWXZpcUtCR3hBUm9TM1daa0swcGlLTmhiN2l1NS1GN19CZmM3V3lxa2p0amphWkYtaUFLd1RSOG1TNlE?oc=5"
+      "title": "美股法說GLW｜康寧 Q2 財報亮眼卻遭逢股價重挫，光通訊需求噴發，聯亞、上詮、光聖、華星光、波若威等台廠供應鏈亮點一次看(GLW US)｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi0AVBVV95cUxPS2wwemxTNzE5QV9tRFBGbnlZMUo2bmRqaGFBdWtzZ3RUQ1FyTE1NbDJfbXlNMUZLRzBydW9wVVdBSThPWjFIMHFJcGxza08td0x2TXVuaDF3VVVhUXlIN0dQRFpFRDEzU3UtblpaTm1LRzBycG9XT2FnYnQ4TjFld1ZadlFVRkk3TEJDUU42X0Vlai03R01pcW1JYV9tdXJvaEM0bXNNTlgzQ3E2RFN1S0VKbzhVZUpGTF9oZlgwN0FpSmVScm5id2k4RUZ5QWUyS1h0U1Y0MVc2SEFUa2xva1ducTBRdFZVZi10UHo0Sm43enhkTUg4ZExrcjROay1qd18yX0xNZmtOS2xVUTg1dkgxU01tekN6UXJ2bk1aS0RYYVpXVkZOYnlnbTZzLVREckprM2Jlb2VqSmptZ2pmYUxwTEZsSVJYT1UxVnpiVE5jRDBmZEt6dDFVQXVnVkJrcW4zbV9Pbm5zR19pUUFDNGZoSHk3Z3Q4SVJ4MmRJenhMbHR2ZVNmLXNyZ2RMYUc3TGNuc054bm8zM1FPYUFidWhHRElYOF9JZmplZ1d0YnUwYmtKRXhONnRVa1BHMU5oODhTZU4taUdzUkV2OGJpSnE0SFZiNXUwakFWc0pGOUJLOV9ST3N1YmNCT2Z6bFctYW5Ud1NqQnVXRDFpSWZpMlpIZjFISWxPQ3J2aDFxSV8xcFA5Z3VrQTFuNnkyYXNsTFpMY3BTMzFWbTY3RWtiQy1odWZ5bEp0V3BEUVktZl9GekU1SG1sZnVXejFELU0tZV9janJFYUhMdjY3UHk1MEZqNjJaZHpMVHRJNXgwbEMzZFR3MmRxWlhuVXdtdk1uMHd3S2VfbzRvUVdYNWFHeVllbTQ5RlNoZXIzQjBTVmtMaHNwaHhqYU9hSUtfVWJmejBCcDdObWt5WjU4aUpsZEU2NUpRaUVZQV9tU1NOb0E?oc=5"
     },
     {
       "title": "台股大反攻？不懼美股費半崩跌 台指期夜盤反彈 - Yahoo股市",
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50YXdJWVpRa1ZZcmgtNnF1dDVDTUtoYUpyZEtKN1NYLTNib0w4c09yM0dwNS1GVGNrN2tNMVp2S1RqOWxNUzBsdW9oSlhkT2I5YTdUeUlHdFNyamF6MVNv?oc=5"
     },
     {
-      "title": "〈美股盤後〉油價下滑 道瓊漲逾500點 全球晶片股慘遭血洗 費半狂瀉近5% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yNkdaOFZhWVpZeEdRallIR3IzMWhJQ2NHR2U1OFFCUzU0SEpMaUMwTmZiSlh1QUFKOVVxQlBVZy1qdEZaMVJfMVMxekdxdjA?oc=5"
+      "title": "台股續下殺！證交所澄清整戶維持率無虞 必要時配合主管機關採穩定措施 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HRnRTSXdEN29BcEctNy1YOUx0SXBTMTZxQVEwWWhablRHYm4tTExjbjJYWW5aRnFpWE5HWTdYejRxQXp5a1BNNUZiWQ?oc=5"
     },
     {
-      "title": "美股法說BE｜AI供電巨頭Bloom Energy財報超預期，營收首破10億美元大關、毛利率強勢攀升，盤後股價飆漲，高力、康舒有望受惠(BE US)｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMirAVBVV95cUxPNlU3YVJDOWx6MVpQcTlZRlV3Qzdib19uTVhyUmdiYkhSSk1yS0V4NU5sRG9ONFpWVUowZ1J0OXdZN1ZvemFpRU12cGhUTGFvalZ0Q3hfRUxSLTc0UjFUVjlURjdoM2gtNDM5MVNJYi1VazNzQmxVOVIta2tDX1ZnaHNRb3RtcEJFbTRQUW0tQldtOUYxdXdRdHhoN2N6QWswSjd6Z2FLb1ZsSHlxUkNaT2ZRNGNGY0t6MjVSd09GaVVEcmg0d1FRbG5CYkdTYXlJanE3WnFqZjNYcmF0RktISEJmTXJoWG5TU1oxV0pnX0IySFM1MTRuUVZjRW1ZbWNRNTRNX0FUMFVnUER4aHh2Sm5OLWVOeDhzT1NuYVJLUGM2LTYyT2l5NjEtWVYzMnYxTUNRa0NpRm0wa0xHWXAtNldXOFJZTm9pUkVVZ1Y5WEZKQVdqVHFWcWR3bUY0RFNpbVhJY3ZUWnBDUVN5NDMtN1pHXzhxVzdQZkN1d3Rob3h4U2pmbXFQQW9oUFJVVzRNczlSOEFJWlYydWNaYlZTZENCZ2hMQkFyZXFlTkx2R1dua2x3UG9CLVBubVBldGZIazZYN2pYZEVOU2plVHczQ0tidWJab3JhTnJSOUZwSnVCMlpudnI4d0VxWlB3VGtTaHR4aC11TEpzV1BBYk5rS0NNZDNGYThTTFRUSFg4eEZlUDV1WEZ5QlFEbV9ZZW9VVFU0dFZqZTd0X2MwSXJ4bFdoOXNMS0hMczl3b2cxdUo2VU50OGdfZzYzX3dlVklsZWptNmdsbjVMeXVEZHFmMU5TX3VJWWxnY3YwRkV5LXNmbzNWdExaakl0Y1RnR2FOcmFROEFFRGJfVktLNEhaTlQyU1E1NWY4TnNBazhHamZUdEFHT3R1SXBMMWI?oc=5"
+      "title": "台股2天慘崩4200點 股民慘套牢 網友:公園已客滿 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNSTBsSVhOcTVzajluUDZpUXh3UUhRRWp1VVpCTGQxQWRkWG1jRXhTUUx6bVB6cVk1ZkdyVG54MlV0N1Bvb2NaR1JFWXhQemxqVFpVNm11SXVLZVZTcHl5OXEzOFpPbHJXeDVBY1JqeFZDb2lLeVN3clozb0NUalcxZEtSS2ZtQ2Vlc0hFQ25zam1tdmh2N1dPWEFEQk0yODJkcWxOa1AydWhHNGNaWVVrVWtEdENfM1FZUjlwc3ZVdTMtSFRRRU5xdGc4aWpuVlIyZElWVTJxY1F1X251X0JfUnF1WVVvVmF2OTlhQm43X0VObF9SbkRwYS15YUxFSzlhTU9KdmNXLWJBNnVmTTZVNWFCcFZZZ3RXM3R1cHpITzBoSDE5T0RhNi16ZG5ISmM5X0lxSXFwNHBzbFk0UGc?oc=5"
     },
     {
-      "title": "不意外！台股暴跌2千點百萬散戶大軍又進場…再跌千點住「套房」 安全嗎？分析師這麼看 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQMXVoU053QkkxVng3c3hycm9mUThpQ0hKci0yeExqQlM2THYyQWRjb0s4ZHVFbFNkTHdjR3FBX0gtV1BEMnJKX0lrazEtUEZkT1R5VlVVMXliWm0xeENEaUR2eUEwbFV3TkpsR2Zrc3Z2NFd1YXpNUG9aSXR2ZUtiVDE3SWxPX0hKYnhkMXMyd3RiM3AzNUp6LUpMWFdHYzh3RFExSTJNLTBBTFpmQmE1WXdsbkpqWFJvSHlmZjg0VGZXWWNUNm1aaG1hYVNpakg0Q3NUT2FqX1FaV3hycE56VFJtdHdWcjE3YTFCVmhEaWFPM0U3WEdMaW4xaDV6NnJ2LWw5anVsYXFvWDZZSURIV242bnVQV3NIdnZoalpOZkp3c0pKRVBSTzdXRzd2YkpLal9wY2Jtd3R4TzlhNlF4U25Tbzh5VVJBMEM4Y1hGTjhjLS1URWNMYUQ4bzJQZWw5cFVCb3hjR3pCcHNLM3FEcTI0c3dHcGJtNm1yX3VNNkNYbUtldk5HRUJPMUlOQk5XZzRSdnBkRC1fR1Y2Sk1jZG9lTUxHYUk0dWJQclJNUnExRDhCR2lwSDRHS19DbjVoR0F1M21FdWoxbG40SUNKYnNROG9pVWJlWXlVenlmVXRycExpRGF4Rk8yTElrTlFhQjFwZGdwUDNQQ2dfclZvTm41eEtpUWFmNm1DUlZUU0FEQXhIOUd2RVFpRUJxSXk1UUNxTndn?oc=5"
+      "title": "【0729台股盤後】大盤去槓桿重挫1,564 點！台股大盤下跌至40,039 點，關注凌晨FOMC會議，主本比排行鎖定【聯一光、立碁、光鼎】｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMihgVBVV95cUxNT2ppS19fbExnVVJWcUlJeHhFSGpjLVpOcm50aVpXMzFuRFpEODFmTmVVQzM2cnFWZ0VCc3B5SEo3ZWlacDM2VEJxTjhnQ3ZIWjZkQVU3THgwZjBwVVhHdWhRaTNCVU94em9CejNNb3BHcUhSdWEydzJPejFvMlA1UkxOME1wZ0VNSUI1Njh6VUw3MVBja0JyU2dtd1VvRzJTUUFDenhCVF85cEhqeUp4OWFDTFZtaTEwMWZ1dXY5WEZYYjdGSll4UGZqd3ZZT1RCM0E1RzVZUTRabTRHR1FtaEJpb29lRUJKQVI1TjBJallEVmwyamZpdkg2S0R4X1lJalJzVmExUlI3LUJJemI2LTdqWnNGalpJVzRuTFFkZm1CVWYwTkh6M0hGbFVsUVVqUlhKaXlUOU5hNTRFbDI3OFNMZ2RhMDFvYjVXLTRpM1lHMVlyMEM0eWRQeUgxVGgybUFjQi1EZEtFRERYMjhxcWJlYXN4MU5OWTJiWHJxelpCcDlIN1FaazFZdV95UXVnX2FqV3lyanZUZXNHVU9KMC1KbXhVWmw2RndpTXR4RHRDYmh4WGxDV3N5aVl3LUVlTVBlb2pMOHlJYmkwZU9JY2d1NlhXMWpabEdOb0lZRmxLOEJRMW5vcTRBWVZDSDRfdEtsRlVMWi1xNm9QNmxOZDhNRTlzMzF6VXF3R19NVXBhdG9leERmREpfbHB0WE9uRzVXQWZxRWdjcVJSZHp5UTdkcUk4NEtSY1ZXSXhBRjE1RVh2MHgxeXR3OXBnaS1Rdzk5eXc4QVZTemgyckFFcVU1UXVaTGlpLVdYWlBsZDNFTGFRWlhvRlRXV2tSNmRON1hoRTNn?oc=5"
     },
     {
       "title": "美股收盤》道瓊漲537點、費半續挫逾4％ 台積電ADR跌1.7％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UcE5wTVZGT1o4MFBPWXdPc2VFdWhwLUNRWEpocmJyLWRyN1hKYXM0X0dkeEZ6YWZYTGRmVWlhc01mRnQyazlmU1htNVJVQ3Q5RkQwNFFObEp5RExrRktR?oc=5"
     },
     {
-      "title": "美股聚焦超級星期三 微軟、Meta財報接棒 聯準會決策成市場三大焦點 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2ZkhVMlZLWjdiTmpjNVFJQl9KRFoxVWtkaXVRSzJmdzM1cUc5Y3h0LW13Q3FjN1JENTZJQUZxaGdhME95NDVMbDVIalJFbGs?oc=5"
+      "title": "不意外！台股暴跌2千點百萬散戶大軍又進場…再跌千點住「套房」 安全嗎？分析師這麼看 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQMXVoU053QkkxVng3c3hycm9mUThpQ0hKci0yeExqQlM2THYyQWRjb0s4ZHVFbFNkTHdjR3FBX0gtV1BEMnJKX0lrazEtUEZkT1R5VlVVMXliWm0xeENEaUR2eUEwbFV3TkpsR2Zrc3Z2NFd1YXpNUG9aSXR2ZUtiVDE3SWxPX0hKYnhkMXMyd3RiM3AzNUp6LUpMWFdHYzh3RFExSTJNLTBBTFpmQmE1WXdsbkpqWFJvSHlmZjg0VGZXWWNUNm1aaG1hYVNpakg0Q3NUT2FqX1FaV3hycE56VFJtdHdWcjE3YTFCVmhEaWFPM0U3WEdMaW4xaDV6NnJ2LWw5anVsYXFvWDZZSURIV242bnVQV3NIdnZoalpOZkp3c0pKRVBSTzdXRzd2YkpLal9wY2Jtd3R4TzlhNlF4U25Tbzh5VVJBMEM4Y1hGTjhjLS1URWNMYUQ4bzJQZWw5cFVCb3hjR3pCcHNLM3FEcTI0c3dHcGJtNm1yX3VNNkNYbUtldk5HRUJPMUlOQk5XZzRSdnBkRC1fR1Y2Sk1jZG9lTUxHYUk0dWJQclJNUnExRDhCR2lwSDRHS19DbjVoR0F1M21FdWoxbG40SUNKYnNROG9pVWJlWXlVenlmVXRycExpRGF4Rk8yTElrTlFhQjFwZGdwUDNQQ2dfclZvTm41eEtpUWFmNm1DUlZUU0FEQXhIOUd2RVFpRUJxSXk1UUNxTndn?oc=5"
     }
   ]
 }
