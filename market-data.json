@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/29 06:57",
+  "updated_tw": "07/29 08:01",
   "taiwan": {
     "2330": {
       "price": 2280.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63756.93,
-      "change": 32.0316,
-      "changePercent": 0.0503
+      "price": 63921.18,
+      "change": 196.2816,
+      "changePercent": 0.308
     },
     "ETH": {
-      "price": 1911.54,
-      "change": 20.9265,
-      "changePercent": 1.1069
+      "price": 1922.0,
+      "change": 31.3865,
+      "changePercent": 1.6601
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.36,
-      "change": 0.058,
-      "changePercent": 0.1796
+      "price": 32.363,
+      "change": 0.061,
+      "changePercent": 0.1888
     },
     "JPYTWD": {
       "price": 0.1953,
@@ -94,22 +94,22 @@
       "changePercent": -0.978
     },
     "EURTWD": {
-      "price": 36.888,
-      "change": 0.1603,
-      "changePercent": 0.4365
+      "price": 36.89,
+      "change": 0.1623,
+      "changePercent": 0.4419
     },
     "CNYTWD": {
-      "price": 4.7832,
+      "price": 4.7831,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4015.1,
-    "twd": 4177.0,
-    "tael": 156649.0,
-    "twdTotal": 129929.0,
-    "changePercent": -1.4578
+    "usd": 4021.6,
+    "twd": 4184.0,
+    "tael": 156917.0,
+    "twdTotal": 130151.0,
+    "changePercent": -1.2983
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,24 @@
   },
   "news": [
     {
-      "title": "〈美股盤後〉油價下滑 道瓊漲逾500點 全球晶片股慘遭血洗 費半狂瀉近5% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yNkdaOFZhWVpZeEdRallIR3IzMWhJQ2NHR2U1OFFCUzU0SEpMaUMwTmZiSlh1QUFKOVVxQlBVZy1qdEZaMVJfMVMxekdxdjA?oc=5"
+      "title": "美股收盤》道瓊漲537點、費半續挫逾4％ 台積電ADR跌1.7％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UcE5wTVZGT1o4MFBPWXdPc2VFdWhwLUNRWEpocmJyLWRyN1hKYXM0X0dkeEZ6YWZYTGRmVWlhc01mRnQyazlmU1htNVJVQ3Q5RkQwNFFObEp5RExrRktR?oc=5"
     },
     {
       "title": "美股4大指數漲跌互現！道瓊上漲537點 費城重挫519點 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQMWxlTVBXMDc1azlEQ2VuUWZYWkJaZEpJZlRrUGVDclBubnY3THg5VmwtMEVUdXBZMXJsZUF1Y2xaam1VMmwtUjZkaWNhdGcxclY2RjZ2Wm0yWTUzVUhRUXBsWE9ZWFhGT0ZQTFA4Wjd0aWxjY3ZhSUd1ZEFfWU1WaHc1RkFsQnpoTWxKOTNiRnV0N0xyNjZ6R3Rnbk45dW1Ya2xaa2FTT3hUaWxETHpvTDIzUDM5dy1lRFZxLVFNQnROSVMxcFVUZ3lpT05XSk94YUZoOHoyVXZ6TGdZRUNfU1c2VC1mR0phTmNUNlI1NDBCeFVSZEhTZ0VCWFU0SEx1WnBlRDhLZWhJZEZMRW0xZlFFOU8tUHVJUDBPb3BxckRSV2VJQ2tVRFg4QnF4dVp5bmJaMkR4ZEZUMG1pSzVCQXkzdw?oc=5"
     },
     {
+      "title": "〈美股盤後〉油價下滑 道瓊漲逾500點 全球晶片股慘遭血洗 費半狂瀉近5% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yNkdaOFZhWVpZeEdRallIR3IzMWhJQ2NHR2U1OFFCUzU0SEpMaUMwTmZiSlh1QUFKOVVxQlBVZy1qdEZaMVJfMVMxekdxdjA?oc=5"
+    },
+    {
       "title": "美股早盤／費半重挫5%...指數漲跌互見 康寧瀉18% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iWXUwTmtjb2M3ak5zZm5QRHl3Zm1CVkptY21tZVJjN1BQWlhTMzBiMXd2dGhwYUhfa3FwenlUSzFhbFEzZ0pnZTVLclhSQm9a?oc=5"
+    },
+    {
+      "title": "台股最快8月見底　國巨腰斬重演2018年戲碼 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mWWY5ZUE1VjF0ZVJrVHJXVXEtczJ3djFCMEttZ09xU1NrdVRqWFFGWlpTNGF5aUJwTUppQjhXQmtwdzB3VVlpM0RkSlU2YjhEN2fSAVBBVV95cUxQMFVpLTdkLXdfUHBxazJOV3o3dl9rX2JROVB1MUdOXzBMTHF0OXB5WERTUXRselJrYV9ITVRxUWIwMUVxTTVQRUtVY2RmRWI3dQ?oc=5"
     },
     {
       "title": "《貴金屬》等待Fed決策 COMEX黃金下跌1.1% - MoneyDJ",
@@ -139,14 +147,6 @@
     {
       "title": "快訊／美股多空交戰！費半挫逾3％ 台指期夜盤強勢反彈 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQM2ZyVzczLXNKaGY5SzExRC1fWjZYWjZ3OF82czhWQlFUUEZ2ejBBQmtEYXNfbHdZT2tNalZpQVJBbUdjNlhmUTlXYmh1MmI1djB4OEFaZ2E3QjNUbHJtY2NXLXI2clpzYXlWVDZqdDk4cndqUVV1dTZkOXB0dUdVcDZ5d1prU3dFMWN0RVl6X2UwSnBuaEtMMGtDOEMteHdBN28zZ0l3ckdqbGp0VFgyYldxR3FyQkRNQTUxT211NDhYZ2NRT0tzQTZ4cjE5bWVuYnpsbTQ2RFJpNTN2ZHNZaGF1eXhkaEpYSkpBNzJCdEl5QjJoNlpoeGZQT1ZxQ182a3dTT0ZYQlFScHluZV9WeERZYzRRS1F3d3JoQ2Jrdl9Pcnh5QXEtSkQ2YVVGdEJKN0tHX2JJSmJJX0VjbFlJRk1NOUlfak9MRndlVzREQmxrNTI5?oc=5"
-    },
-    {
-      "title": "〈美股早盤〉主要指數漲跌互現 半導體股續挫 台積電ADR跌近4% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jYU1zaDNBSnd1NzdFdWEwbmkxUGxGS1NFSkhBWi1DeVFURk9KUmFPLWJpOTJnRTZLQ0FYaXU4NnkyWEc0V3RwdUtMSUpJZ0U?oc=5"
-    },
-    {
-      "title": "美股族群可逢低承接法人看好企業獲利穩健AI發展趨勢未變| 基金 | 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IcDMzYWIwWHh0VEVZTzYwVC0wUHloVUlscVFNUTN3MWNEQTk3anBpdW1hbkZaeVh1ZnRqN0dBZGY4dW1WTmNBdHpGU0U0OG15Nmc?oc=5"
     }
   ]
 }
