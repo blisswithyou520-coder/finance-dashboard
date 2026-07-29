@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/30 02:06",
+  "updated_tw": "07/30 03:42",
   "taiwan": {
     "2330": {
       "price": 2200.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 193.775,
-      "change": -2.735,
-      "changePercent": -1.3918
+      "price": 191.97,
+      "change": -5.04,
+      "changePercent": -2.5582
     },
     "AAPL": {
-      "price": 344.28,
-      "change": 7.37,
-      "changePercent": 2.1875
+      "price": 339.72,
+      "change": -0.36,
+      "changePercent": -0.1059
     },
     "TSLA": {
-      "price": 304.86,
-      "change": -4.36,
-      "changePercent": -1.41
+      "price": 299.6,
+      "change": -7.84,
+      "changePercent": -2.5501
     },
     "QQQ": {
-      "price": 674.24,
-      "change": -7.88,
-      "changePercent": -1.1552
+      "price": 666.0,
+      "change": -9.49,
+      "changePercent": -1.4049
     },
     "SPY": {
-      "price": 738.58,
-      "change": -0.51,
-      "changePercent": -0.069
+      "price": 731.79,
+      "change": -9.07,
+      "changePercent": -1.2243
     },
     "SCHD": {
-      "price": 34.015,
-      "change": 0.585,
-      "changePercent": 1.7499
+      "price": 33.81,
+      "change": -0.08,
+      "changePercent": -0.2361
     },
     "VOO": {
-      "price": 678.9,
-      "change": -0.41,
-      "changePercent": -0.0604
+      "price": 672.71,
+      "change": -8.25,
+      "changePercent": -1.2115
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64375.46,
-      "change": 504.0967,
-      "changePercent": 0.7892
+      "price": 63851.85,
+      "change": -19.5133,
+      "changePercent": -0.0306
     },
     "ETH": {
-      "price": 1921.71,
-      "change": 1.7615,
-      "changePercent": 0.0917
+      "price": 1900.2,
+      "change": -19.7485,
+      "changePercent": -1.0286
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.32,
-      "change": 0.018,
-      "changePercent": 0.0557
+      "price": 32.298,
+      "change": -0.004,
+      "changePercent": -0.0124
     },
     "JPYTWD": {
-      "price": 0.1953,
-      "change": -0.0019,
-      "changePercent": -0.978
+      "price": 0.1955,
+      "change": -0.0017,
+      "changePercent": -0.8766
     },
     "EURTWD": {
-      "price": 36.927,
-      "change": 0.1993,
-      "changePercent": 0.5427
+      "price": 37.039,
+      "change": 0.3113,
+      "changePercent": 0.8476
     },
     "CNYTWD": {
-      "price": 4.7786,
+      "price": 4.7774,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4101.6,
-    "twd": 4262.0,
-    "tael": 159826.0,
-    "twdTotal": 132564.0,
-    "changePercent": 1.6178
+    "usd": 4145.6,
+    "twd": 4305.0,
+    "tael": 161430.0,
+    "twdTotal": 133895.0,
+    "changePercent": 2.7079
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mWlFpVXh1dEE5Y21seW1qTUZRQ2JwS2N4YkRzV01JdFM3YmlLYkdtc3VxZWNsVWd4RVBFYmh2Y21mc0c5dDJ1R3ZLRS1CN0tM?oc=5"
     },
     {
+      "title": "《強勢美股特報》ACN,INTU,IT,ADBE等10檔 - 台視全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGgwdXpIT0dIUV9HSWhZLXZJSDBlWnJBdFdGcW1RekxlenNoVGcycGF2U3pULTZ0TjhnV1o4enJjR3c1dGYxNEJWdWtBWkgzSXJIV0FwTE15N0VzMnRVTDlkYUIwLXVyUC1ZR1E4S3IyRm9ZWUlCVlU5d0w4cHVUUmZNN2dXUnFBZFhycENnUl83QQ?oc=5"
+    },
+    {
       "title": "快訊／美股開盤道瓊「大跌500點」 3大指數齊跌 - 東森新聞",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KaEtFZjdqSjJrT1QtM2lYNV9sc3pnX3BmOTVELW8zZ2hqVmVfSkpaSkc2dExhNlNzcjBaV0xiZnJzVnZrXzdTRkpKS3ZBU2FtMEpzcGVqZw?oc=5"
+    },
+    {
+      "title": "Fed 7月會議聲明全文 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuU0l6SGxacncybTVjM3RUM2FOeDBRSFEyMFhiMHlLT0ljdkY2b2pheUp6dmFsRVlRWGRLSm52LUVnTFdSOV9YSUY5Wlo0Yk0?oc=5"
+    },
+    {
+      "title": "台股狂瀉「最便宜正2」成交量破百萬張　專家：痛苦、快樂都加倍 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kZVUydEdGeHhTV1BTZE5nTTZYb05OYWdXbFB5dUp4azhjc2ZZaWNiVEJCM0Rvc0xuck5ZOC04QnVqUzFlemxfSkdqRVJpdTZjdHfSAVBBVV95cUxPaVFoX3A5eTdDSkZ4TTlMaW9tRXROUFJLLVRScU5jRUFvN214cnUzSTZDUVRHWWxlMTlxdkMtS0JwN3R3ZmxPZ1FLSm5zdmx1ag?oc=5"
     },
     {
       "title": "黃金寫1低點紀錄 最新「預測價」被調降了 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50YXdJWVpRa1ZZcmgtNnF1dDVDTUtoYUpyZEtKN1NYLTNib0w4c09yM0dwNS1GVGNrN2tNMVp2S1RqOWxNUzBsdW9oSlhkT2I5YTdUeUlHdFNyamF6MVNv?oc=5"
     },
     {
-      "title": "台股今創史上第7大跌點 上市櫃共119家跌停 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jbUZFNE0wMWtJejVOazdXOUJQdlZyZjdocGxBYmJ0Y2s4cURCR0hReWFBb3FGTTg3UDJuWTd1cUhFeEJPQ1M4bWo0SDJPZFE?oc=5"
-    },
-    {
       "title": "【0729台股盤後】大盤去槓桿重挫1,564 點！台股大盤下跌至40,039 點，關注凌晨FOMC會議，主本比排行鎖定【聯一光、立碁、光鼎】｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMihgVBVV95cUxNT2ppS19fbExnVVJWcUlJeHhFSGpjLVpOcm50aVpXMzFuRFpEODFmTmVVQzM2cnFWZ0VCc3B5SEo3ZWlacDM2VEJxTjhnQ3ZIWjZkQVU3THgwZjBwVVhHdWhRaTNCVU94em9CejNNb3BHcUhSdWEydzJPejFvMlA1UkxOME1wZ0VNSUI1Njh6VUw3MVBja0JyU2dtd1VvRzJTUUFDenhCVF85cEhqeUp4OWFDTFZtaTEwMWZ1dXY5WEZYYjdGSll4UGZqd3ZZT1RCM0E1RzVZUTRabTRHR1FtaEJpb29lRUJKQVI1TjBJallEVmwyamZpdkg2S0R4X1lJalJzVmExUlI3LUJJemI2LTdqWnNGalpJVzRuTFFkZm1CVWYwTkh6M0hGbFVsUVVqUlhKaXlUOU5hNTRFbDI3OFNMZ2RhMDFvYjVXLTRpM1lHMVlyMEM0eWRQeUgxVGgybUFjQi1EZEtFRERYMjhxcWJlYXN4MU5OWTJiWHJxelpCcDlIN1FaazFZdV95UXVnX2FqV3lyanZUZXNHVU9KMC1KbXhVWmw2RndpTXR4RHRDYmh4WGxDV3N5aVl3LUVlTVBlb2pMOHlJYmkwZU9JY2d1NlhXMWpabEdOb0lZRmxLOEJRMW5vcTRBWVZDSDRfdEtsRlVMWi1xNm9QNmxOZDhNRTlzMzF6VXF3R19NVXBhdG9leERmREpfbHB0WE9uRzVXQWZxRWdjcVJSZHp5UTdkcUk4NEtSY1ZXSXhBRjE1RVh2MHgxeXR3OXBnaS1Rdzk5eXc4QVZTemgyckFFcVU1UXVaTGlpLVdYWlBsZDNFTGFRWlhvRlRXV2tSNmRON1hoRTNn?oc=5"
-    },
-    {
-      "title": "煞車壞了？Fed決策前美股全面走弱 台指期夜盤暗藏危機 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQY0JqcThkVUJwOUJ2THRWd2xIaDcwRG0yS19xR0VMc0ZfYmtpaFlGaEYzZTFGN0ZDRUZhbVl5VjhlZ1NhaGZjMVhuMHd5QUdLZ3l1ZTlqSGV6R0ZMblVfU2N5T2xDeEF5OHRwWlZWUkxZRnkwQ3B2bW5sZnNlVE5kVTdyZFJ5S0dDSnVIUV91WUZ2VUEwdURCVzFHSGtoOWVHUEYyMk1hTHRtSHhwdThSUmw2dFFvZVU0YW9icGs1NWQzdzdJZzlrQmtzSWJFaUlUZmhXWFV0LTZScU45d0I2cEF3Q3dRbVk2NW5TR3NGcDFLbXludkQ1NTVvNmpqcExvMzU4alQzWXRSNWdiTDQxTkdCdDg4WDlmNF9ROXlSaGIxOG5PYTdEODBzczJ1cEwwWkpIczNPVlJlTmVhQmNBWm9lVXlMZGRCUW1yb1lpMENlYl9UWWtTNXRsUUFxUlljY1E?oc=5"
-    },
-    {
-      "title": "Fed 決策直播搶先看／油價跳升 靜候 Fed 決策 四大指數盡墨 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hTzNhRTJ1WklYQ2xTbFlocnV4bGhLek96QXl4c3Q5VDZDcEV6alFqTGt0cDJMc1hVSVFnTFd2N2k2UkprcjJ4YnVLWXg0dHYtTGRxVXM5NVAyYldT0gFiQVVfeXFMUGNrSXJBLTZRalhNRE85TGprNEpiaWI3OXg0bWdJMnFtTlpHTExHbDl5eVBNemJoUmd2cEFSZXRnWEFOdC1LQmppS1l1UXM2NUtOZjBZSXhMNVQ4MzNfRHE1WFE?oc=5"
     }
   ]
 }
