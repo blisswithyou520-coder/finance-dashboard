@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/30 04:36",
+  "updated_tw": "07/30 05:37",
   "taiwan": {
     "2330": {
       "price": 2200.0,
-      "change": -150.0,
-      "changePercent": -6.383
+      "change": -80.0,
+      "changePercent": -3.5088
     },
     "2454": {
       "price": 3150.0,
-      "change": -530.0,
-      "changePercent": -14.4022
+      "change": -165.0,
+      "changePercent": -4.9774
     },
     "2317": {
       "price": 237.0,
-      "change": -16.0,
-      "changePercent": -6.3241
+      "change": -1.0,
+      "changePercent": -0.4202
     },
     "0050": {
       "price": 93.7,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63535.69,
-      "change": -335.6733,
-      "changePercent": -0.5255
+      "price": 63485.95,
+      "change": -385.4133,
+      "changePercent": -0.6034
     },
     "ETH": {
-      "price": 1885.11,
-      "change": -34.8385,
-      "changePercent": -1.8146
+      "price": 1887.6,
+      "change": -32.3485,
+      "changePercent": -1.6849
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.328,
-      "change": -0.0358,
-      "changePercent": -0.1106
+      "price": 32.345,
+      "change": -0.0188,
+      "changePercent": -0.0581
     },
     "JPYTWD": {
-      "price": 0.1955,
-      "change": -0.002,
-      "changePercent": -1.0127
+      "price": 0.1957,
+      "change": -0.0018,
+      "changePercent": -0.9114
     },
     "EURTWD": {
-      "price": 37.1,
-      "change": 0.2476,
-      "changePercent": 0.6718
+      "price": 37.129,
+      "change": 0.2766,
+      "changePercent": 0.7505
     },
     "CNYTWD": {
-      "price": 4.7774,
+      "price": 4.7854,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4108.7,
-    "twd": 4270.0,
-    "tael": 160142.0,
-    "twdTotal": 132826.0,
-    "changePercent": 1.7937
+    "usd": 4126.0,
+    "twd": 4291.0,
+    "tael": 160901.0,
+    "twdTotal": 133455.0,
+    "changePercent": 2.2223
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,32 +117,32 @@
   },
   "news": [
     {
+      "title": "美股早盤下挫　市場等候聯準會決策及科技業財報出爐 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fQlpVb2dLaDhDNnJFaEVEY2ZEZkJPZjBWOEhLbHc3T3J1MmlaUHZkbmJDdnBPZW5NemZBRGhxVm1PbUZJS0VrdkFtY0otb3VrbFRSYlR2akVZX2ht0gFiQVVfeXFMUGJvMWxFYWwwNDlEWVRoXzhRXzdONkE2RGliRG55NzMtanlxNzVMU1V3eldLbkExZjA5SkhGTkhYaXNDa09ZVWJMNVdnWjZkTkdqd1ZtVlhkREtRRlllVUF4elE?oc=5"
+    },
+    {
       "title": "川普一句話油價續飆！美股四大指數全面綠油油 台積電ADR慘崩3.85%、聯電ADR逆勢走揚 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSkhCZ1VRQ3NXQ0N2RDBBTlRBaXBfdjBjYldhU0Q1S05HMzFZQlV4TFZfM1NWZGNySFBrNkw1c3lMWGtpLU5kT2FHSEtlNGZoOGQ1S0hKRmFqdWdRbWNHSlJRR0ZFSzdaTC1abHdpaUVWY3F0ZFdhZ2lxMVI3a0dQUTVoam9zNlBMMGJkcGJzbnQyN0lOdzNGcnJwT0J5YWtVMjR5b1Z2eEZkWDU2VjB4VnNURTJRQkpsbTZsRHZfN3Z1dkRPYWh5eUt1dHlSbFhSZ0JBM2EydkdLZjQtekFlT3E1aTZCbmt1bTZWc0RoOHZsV2JZVzhmb2VNY3k5VDNKQ05fZGZzSHo5QkQyenJJVTlqR2VpVkpqVk9scFRUczZpVHBCMkU2bzVrZFpyZmt3U0E4NzBBeDM0NWQ2bm04bXlJeWJwYWx5cDNaX2NRUFdJNVJqeDJwOFdINHRveFZtZC1nTzdjUzl6YmZ2NEU1bC1felZ3R3BFeVd5R29DVWlrel9pdi1mMw?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉Fed利率連五凍但鷹派抬頭 債市動盪 道瓊急殺超1100點 費半崩超5% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10cjFrdnd4Q3NDcXhiUnZKeXhtMHk0cEREMzd3U0Fkbzh2ZnFlc3NfTjJ2MHVwYzk2OUVZQlZwbllpRkg5cWtSRmRWR2NmdGs?oc=5"
     },
     {
       "title": "《強勢美股特報》ACN,INTU,IT,ADBE等10檔 - 台視全球資訊網",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGgwdXpIT0dIUV9HSWhZLXZJSDBlWnJBdFdGcW1RekxlenNoVGcycGF2U3pULTZ0TjhnV1o4enJjR3c1dGYxNEJWdWtBWkgzSXJIV0FwTE15N0VzMnRVTDlkYUIwLXVyUC1ZR1E4S3IyRm9ZWUlCVlU5d0w4cHVUUmZNN2dXUnFBZFhycENnUl83QQ?oc=5"
     },
     {
-      "title": "美股早盤／油價跳升、靜候Fed決策四大指數盡墨| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mWlFpVXh1dEE5Y21seW1qTUZRQ2JwS2N4YkRzV01JdFM3YmlLYkdtc3VxZWNsVWd4RVBFYmh2Y21mc0c5dDJ1R3ZLRS1CN0tM?oc=5"
-    },
-    {
       "title": "快訊／美股開盤道瓊「大跌500點」 3大指數齊跌 - 東森新聞",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KaEtFZjdqSjJrT1QtM2lYNV9sc3pnX3BmOTVELW8zZ2hqVmVfSkpaSkc2dExhNlNzcjBaV0xiZnJzVnZrXzdTRkpKS3ZBU2FtMEpzcGVqZw?oc=5"
-    },
-    {
-      "title": "Fed 7月會議聲明全文 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuU0l6SGxacncybTVjM3RUM2FOeDBRSFEyMFhiMHlLT0ljdkY2b2pheUp6dmFsRVlRWGRLSm52LUVnTFdSOV9YSUY5Wlo0Yk0?oc=5"
     },
     {
       "title": "台股狂瀉「最便宜正2」成交量破百萬張　專家：痛苦、快樂都加倍 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kZVUydEdGeHhTV1BTZE5nTTZYb05OYWdXbFB5dUp4azhjc2ZZaWNiVEJCM0Rvc0xuck5ZOC04QnVqUzFlemxfSkdqRVJpdTZjdHfSAVBBVV95cUxPaVFoX3A5eTdDSkZ4TTlMaW9tRXROUFJLLVRScU5jRUFvN214cnUzSTZDUVRHWWxlMTlxdkMtS0JwN3R3ZmxPZ1FLSm5zdmx1ag?oc=5"
     },
     {
-      "title": "【0729台股盤後】大盤去槓桿重挫1,564 點！台股大盤下跌至40,039 點，關注凌晨FOMC會議，主本比排行鎖定【聯一光、立碁、光鼎】｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMihgVBVV95cUxNT2ppS19fbExnVVJWcUlJeHhFSGpjLVpOcm50aVpXMzFuRFpEODFmTmVVQzM2cnFWZ0VCc3B5SEo3ZWlacDM2VEJxTjhnQ3ZIWjZkQVU3THgwZjBwVVhHdWhRaTNCVU94em9CejNNb3BHcUhSdWEydzJPejFvMlA1UkxOME1wZ0VNSUI1Njh6VUw3MVBja0JyU2dtd1VvRzJTUUFDenhCVF85cEhqeUp4OWFDTFZtaTEwMWZ1dXY5WEZYYjdGSll4UGZqd3ZZT1RCM0E1RzVZUTRabTRHR1FtaEJpb29lRUJKQVI1TjBJallEVmwyamZpdkg2S0R4X1lJalJzVmExUlI3LUJJemI2LTdqWnNGalpJVzRuTFFkZm1CVWYwTkh6M0hGbFVsUVVqUlhKaXlUOU5hNTRFbDI3OFNMZ2RhMDFvYjVXLTRpM1lHMVlyMEM0eWRQeUgxVGgybUFjQi1EZEtFRERYMjhxcWJlYXN4MU5OWTJiWHJxelpCcDlIN1FaazFZdV95UXVnX2FqV3lyanZUZXNHVU9KMC1KbXhVWmw2RndpTXR4RHRDYmh4WGxDV3N5aVl3LUVlTVBlb2pMOHlJYmkwZU9JY2d1NlhXMWpabEdOb0lZRmxLOEJRMW5vcTRBWVZDSDRfdEtsRlVMWi1xNm9QNmxOZDhNRTlzMzF6VXF3R19NVXBhdG9leERmREpfbHB0WE9uRzVXQWZxRWdjcVJSZHp5UTdkcUk4NEtSY1ZXSXhBRjE1RVh2MHgxeXR3OXBnaS1Rdzk5eXc4QVZTemgyckFFcVU1UXVaTGlpLVdYWlBsZDNFTGFRWlhvRlRXV2tSNmRON1hoRTNn?oc=5"
+      "title": "美股早盤／油價跳升、靜候Fed決策四大指數盡墨| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mWlFpVXh1dEE5Y21seW1qTUZRQ2JwS2N4YkRzV01JdFM3YmlLYkdtc3VxZWNsVWd4RVBFYmh2Y21mc0c5dDJ1R3ZLRS1CN0tM?oc=5"
     },
     {
       "title": "煞車壞了？Fed決策前美股全面走弱 台指期夜盤暗藏危機 - Yahoo新聞",
