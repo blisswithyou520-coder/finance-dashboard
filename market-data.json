@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/30 05:37",
+  "updated_tw": "07/30 06:39",
   "taiwan": {
     "2330": {
       "price": 2200.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63485.95,
-      "change": -385.4133,
-      "changePercent": -0.6034
+      "price": 63881.0,
+      "change": 9.6367,
+      "changePercent": 0.0151
     },
     "ETH": {
-      "price": 1887.6,
-      "change": -32.3485,
-      "changePercent": -1.6849
+      "price": 1902.95,
+      "change": -16.9985,
+      "changePercent": -0.8854
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.345,
-      "change": -0.0188,
-      "changePercent": -0.0581
+      "price": 32.354,
+      "change": -0.0098,
+      "changePercent": -0.0303
     },
     "JPYTWD": {
-      "price": 0.1957,
-      "change": -0.0018,
-      "changePercent": -0.9114
+      "price": 0.1958,
+      "change": -0.0017,
+      "changePercent": -0.8608
     },
     "EURTWD": {
-      "price": 37.129,
-      "change": 0.2766,
-      "changePercent": 0.7505
+      "price": 37.147,
+      "change": 0.2946,
+      "changePercent": 0.7993
     },
     "CNYTWD": {
-      "price": 4.7854,
+      "price": 4.7884,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4126.0,
-    "twd": 4291.0,
-    "tael": 160901.0,
-    "twdTotal": 133455.0,
-    "changePercent": 2.2223
+    "usd": 4132.5,
+    "twd": 4299.0,
+    "tael": 161199.0,
+    "twdTotal": 133703.0,
+    "changePercent": 2.3834
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,20 @@
   },
   "news": [
     {
+      "title": "天下晨間新聞：美股又吃土！費半狂跌5.3%，Fed說了什麼？Meta、微軟誰在放火？ - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvc3ltcTZyZkpuMG1FYVBVMTRsVWp5X3dleTFIOS0yTXpnZTZYOFdIQmVLTE8xcVRVNk9DZjdLeklycGZHWjVmb0pKMnVEQQ?oc=5"
+    },
+    {
+      "title": "AI泡沫要破了！美股費半跌超5% 台指期夜盤收黑683點 - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNSXhlTEcyQjYtNl9vcFY2SHlvWk0yUkh2VmR3QllnYW1ORGVISnA5MkZuUXoza3R5eGpQQjc2T3dVU1p3aVlFaWh3TXAtWFJVaGNkMXNUSHFJOXFnUV9Eakl4NnpIbHpfRHJHREJOOFdkR1NBTXBwT3FyWkNGS3dManZqSEdWbE16cnFGVWUtMjhGRm0yN1RXTHVuSjFiRlItMl94a3BaV0JNU1Vtam9QVmRzOHNSQ19nbFoycXJ5a2VFZXVkYkQyVi1ncFhORkxlZk5GT0wzd05CZnVnSlJwa3BXcUtxdVZ6ZE85VWM5VHpZcTl5ZmxZM25DTmlOc0RGaFU1RGM4WjJ6TlVYSUs4LURVSkxUeG1ReWpwMDJaVEdDZlpUcWhzSVJHRERUOVNnNWJUT2FQeU5kaFBxVy1lT0FFYTVXT2lrUm51dVFnNVhyenQ0d3c?oc=5"
+    },
+    {
       "title": "美股早盤下挫　市場等候聯準會決策及科技業財報出爐 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fQlpVb2dLaDhDNnJFaEVEY2ZEZkJPZjBWOEhLbHc3T3J1MmlaUHZkbmJDdnBPZW5NemZBRGhxVm1PbUZJS0VrdkFtY0otb3VrbFRSYlR2akVZX2ht0gFiQVVfeXFMUGJvMWxFYWwwNDlEWVRoXzhRXzdONkE2RGliRG55NzMtanlxNzVMU1V3eldLbkExZjA5SkhGTkhYaXNDa09ZVWJMNVdnWjZkTkdqd1ZtVlhkREtRRlllVUF4elE?oc=5"
     },
     {
-      "title": "川普一句話油價續飆！美股四大指數全面綠油油 台積電ADR慘崩3.85%、聯電ADR逆勢走揚 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSkhCZ1VRQ3NXQ0N2RDBBTlRBaXBfdjBjYldhU0Q1S05HMzFZQlV4TFZfM1NWZGNySFBrNkw1c3lMWGtpLU5kT2FHSEtlNGZoOGQ1S0hKRmFqdWdRbWNHSlJRR0ZFSzdaTC1abHdpaUVWY3F0ZFdhZ2lxMVI3a0dQUTVoam9zNlBMMGJkcGJzbnQyN0lOdzNGcnJwT0J5YWtVMjR5b1Z2eEZkWDU2VjB4VnNURTJRQkpsbTZsRHZfN3Z1dkRPYWh5eUt1dHlSbFhSZ0JBM2EydkdLZjQtekFlT3E1aTZCbmt1bTZWc0RoOHZsV2JZVzhmb2VNY3k5VDNKQ05fZGZzSHo5QkQyenJJVTlqR2VpVkpqVk9scFRUczZpVHBCMkU2bzVrZFpyZmt3U0E4NzBBeDM0NWQ2bm04bXlJeWJwYWx5cDNaX2NRUFdJNVJqeDJwOFdINHRveFZtZC1nTzdjUzl6YmZ2NEU1bC1felZ3R3BFeVd5R29DVWlrel9pdi1mMw?oc=5"
+      "title": "美股4大指數全收黑！晶片股領跌 道瓊重挫1153點、費半跌逾5.3% - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPQkxuanRYWk5NZlUwOVY3QXhwbHp3WnI5R3Vfc3lsM1NlcFVYOW5hREh0V0o4SjJ3U04zWGlfLVFEZW5zQnRnNml6aE5BclFXTGZNYjNaRF9fTzMtT240T3NtOW1DRWZ5TmlrMHVVam9SUjNlcDZyckRuMzB5MHI3OFFvSmVaOF9GTWNjS0RlTVhxLTNvczY3aG1sVWs5cGlKV3hoZzNkRjNfdllfdWF4TDlCcmVxN3dQTWFaOG1GakNValk1OXA0dzlGM0lzTXlEZVlpQl9NWHlGOVhWUkgxeWtCTFYyMmV0NDF0d0ZCdllYajVhQ0p0c2p4Y0tOS1pwN29kTGRPLUdXNUlyRVRaZXJrLUhfMldmdWVLRjNRWm80WjMxYTRfWDBJSDV1ZFRuaG9qaUFDY1kzM3hXZlBOWVRmMkRKaW1Iamg5ay1ZcUM3UGtwTGYtY3A2RjVTaEdVd21wNkdxMDlLUQ?oc=5"
     },
     {
       "title": "〈美股盤後〉Fed利率連五凍但鷹派抬頭 債市動盪 道瓊急殺超1100點 費半崩超5% - news.cnyes.com",
@@ -137,16 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KaEtFZjdqSjJrT1QtM2lYNV9sc3pnX3BmOTVELW8zZ2hqVmVfSkpaSkc2dExhNlNzcjBaV0xiZnJzVnZrXzdTRkpKS3ZBU2FtMEpzcGVqZw?oc=5"
     },
     {
-      "title": "台股狂瀉「最便宜正2」成交量破百萬張　專家：痛苦、快樂都加倍 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kZVUydEdGeHhTV1BTZE5nTTZYb05OYWdXbFB5dUp4azhjc2ZZaWNiVEJCM0Rvc0xuck5ZOC04QnVqUzFlemxfSkdqRVJpdTZjdHfSAVBBVV95cUxPaVFoX3A5eTdDSkZ4TTlMaW9tRXROUFJLLVRScU5jRUFvN214cnUzSTZDUVRHWWxlMTlxdkMtS0JwN3R3ZmxPZ1FLSm5zdmx1ag?oc=5"
-    },
-    {
-      "title": "美股早盤／油價跳升、靜候Fed決策四大指數盡墨| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mWlFpVXh1dEE5Y21seW1qTUZRQ2JwS2N4YkRzV01JdFM3YmlLYkdtc3VxZWNsVWd4RVBFYmh2Y21mc0c5dDJ1R3ZLRS1CN0tM?oc=5"
-    },
-    {
-      "title": "煞車壞了？Fed決策前美股全面走弱 台指期夜盤暗藏危機 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQY0JqcThkVUJwOUJ2THRWd2xIaDcwRG0yS19xR0VMc0ZfYmtpaFlGaEYzZTFGN0ZDRUZhbVl5VjhlZ1NhaGZjMVhuMHd5QUdLZ3l1ZTlqSGV6R0ZMblVfU2N5T2xDeEF5OHRwWlZWUkxZRnkwQ3B2bW5sZnNlVE5kVTdyZFJ5S0dDSnVIUV91WUZ2VUEwdURCVzFHSGtoOWVHUEYyMk1hTHRtSHhwdThSUmw2dFFvZVU0YW9icGs1NWQzdzdJZzlrQmtzSWJFaUlUZmhXWFV0LTZScU45d0I2cEF3Q3dRbVk2NW5TR3NGcDFLbXludkQ1NTVvNmpqcExvMzU4alQzWXRSNWdiTDQxTkdCdDg4WDlmNF9ROXlSaGIxOG5PYTdEODBzczJ1cEwwWkpIczNPVlJlTmVhQmNBWm9lVXlMZGRCUW1yb1lpMENlYl9UWWtTNXRsUUFxUlljY1E?oc=5"
+      "title": "川普一句話油價續飆！美股四大指數全面綠油油 台積電ADR慘崩3.85%、聯電ADR逆勢走揚 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSkhCZ1VRQ3NXQ0N2RDBBTlRBaXBfdjBjYldhU0Q1S05HMzFZQlV4TFZfM1NWZGNySFBrNkw1c3lMWGtpLU5kT2FHSEtlNGZoOGQ1S0hKRmFqdWdRbWNHSlJRR0ZFSzdaTC1abHdpaUVWY3F0ZFdhZ2lxMVI3a0dQUTVoam9zNlBMMGJkcGJzbnQyN0lOdzNGcnJwT0J5YWtVMjR5b1Z2eEZkWDU2VjB4VnNURTJRQkpsbTZsRHZfN3Z1dkRPYWh5eUt1dHlSbFhSZ0JBM2EydkdLZjQtekFlT3E1aTZCbmt1bTZWc0RoOHZsV2JZVzhmb2VNY3k5VDNKQ05fZGZzSHo5QkQyenJJVTlqR2VpVkpqVk9scFRUczZpVHBCMkU2bzVrZFpyZmt3U0E4NzBBeDM0NWQ2bm04bXlJeWJwYWx5cDNaX2NRUFdJNVJqeDJwOFdINHRveFZtZC1nTzdjUzl6YmZ2NEU1bC1felZ3R3BFeVd5R29DVWlrel9pdi1mMw?oc=5"
     }
   ]
 }
