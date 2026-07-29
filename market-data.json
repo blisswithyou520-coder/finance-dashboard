@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/29 21:23",
+  "updated_tw": "07/29 23:28",
   "taiwan": {
     "2330": {
       "price": 2200.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 197.01,
-      "change": 0.5,
-      "changePercent": 0.2544
+      "price": 192.46,
+      "change": -4.05,
+      "changePercent": -2.061
     },
     "AAPL": {
-      "price": 340.08,
-      "change": 3.17,
-      "changePercent": 0.9409
+      "price": 339.96,
+      "change": -0.12,
+      "changePercent": -0.0353
     },
     "TSLA": {
-      "price": 307.44,
-      "change": -1.78,
-      "changePercent": -0.5756
+      "price": 302.575,
+      "change": -4.865,
+      "changePercent": -1.5824
     },
     "QQQ": {
-      "price": 675.49,
-      "change": -6.63,
-      "changePercent": -0.972
+      "price": 666.965,
+      "change": -8.525,
+      "changePercent": -1.262
     },
     "SPY": {
-      "price": 740.86,
-      "change": 1.77,
-      "changePercent": 0.2395
+      "price": 734.505,
+      "change": -6.355,
+      "changePercent": -0.8578
     },
     "SCHD": {
-      "price": 33.89,
-      "change": 0.46,
-      "changePercent": 1.376
+      "price": 34.055,
+      "change": 0.165,
+      "changePercent": 0.4869
     },
     "VOO": {
-      "price": 680.96,
-      "change": 1.65,
-      "changePercent": 0.2429
+      "price": 675.09,
+      "change": -5.87,
+      "changePercent": -0.862
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64087.38,
-      "change": 216.0167,
-      "changePercent": 0.3382
+      "price": 63975.67,
+      "change": 104.3067,
+      "changePercent": 0.1633
     },
     "ETH": {
-      "price": 1899.65,
-      "change": -20.2985,
-      "changePercent": -1.0572
+      "price": 1892.07,
+      "change": -27.8785,
+      "changePercent": -1.452
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.376,
-      "change": 0.074,
-      "changePercent": 0.2291
+      "price": 32.381,
+      "change": 0.079,
+      "changePercent": 0.2446
     },
     "JPYTWD": {
-      "price": 0.1955,
-      "change": -0.0017,
-      "changePercent": -0.8766
+      "price": 0.1954,
+      "change": -0.0018,
+      "changePercent": -0.9273
     },
     "EURTWD": {
-      "price": 36.897,
-      "change": 0.1693,
-      "changePercent": 0.461
+      "price": 36.893,
+      "change": 0.1653,
+      "changePercent": 0.4501
     },
     "CNYTWD": {
-      "price": 4.7895,
+      "price": 4.7891,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4073.9,
-    "twd": 4241.0,
-    "tael": 159022.0,
-    "twdTotal": 131897.0,
-    "changePercent": 0.9315
+    "usd": 4065.2,
+    "twd": 4232.0,
+    "tael": 158706.0,
+    "twdTotal": 131635.0,
+    "changePercent": 0.716
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股大反攻？不懼美股費半崩跌 台指期夜盤反彈 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOalBQWWs2TEF6TS0xcTNtRzhEaEVha2RVWGgxaXFtOF9fdVg4Ym45VzRTTG5qS3RsN1EwNnowa2RCNndvR1ZXaXFweWNyS3ZtaThTb1Q2ZS1YWWF4Z09rMzBoR2NydlBCeFhEQzFJMUZ3UjlRQjlmZzVpWW9KemVwbENGT3hjYWY2YmdVbHVSSVo2ZlFXSmw1dDgzREpoaGZ0LUVudFltcmdZMmktNEVoMzgxVW95V3hOczZzLS1BVmJ2N3RIQTZaR0NlaklqenFRNDlBTEZGUVAwdHJpZEd0MFJpZF9wT194cml1TUxoZ2VZbTY3S3U3UjhRVWI5b2hHMnR3Sjg3Z1VDeFgwNk5Xc1FNWnFvblNPZlFDWG5Ga25oQzFwNDB6eUpod05DNjZlVWxyMFp0ZXRuXy1OaWZmdEk2RjYzcHJycGNRNFF3?oc=5"
+      "title": "美股早盤／油價跳升、靜候Fed決策四大指數盡墨| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mWlFpVXh1dEE5Y21seW1qTUZRQ2JwS2N4YkRzV01JdFM3YmlLYkdtc3VxZWNsVWd4RVBFYmh2Y21mc0c5dDJ1R3ZLRS1CN0tM?oc=5"
+    },
+    {
+      "title": "煞車壞了？Fed決策前美股全面走弱 台指期夜盤暗藏危機 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQY0JqcThkVUJwOUJ2THRWd2xIaDcwRG0yS19xR0VMc0ZfYmtpaFlGaEYzZTFGN0ZDRUZhbVl5VjhlZ1NhaGZjMVhuMHd5QUdLZ3l1ZTlqSGV6R0ZMblVfU2N5T2xDeEF5OHRwWlZWUkxZRnkwQ3B2bW5sZnNlVE5kVTdyZFJ5S0dDSnVIUV91WUZ2VUEwdURCVzFHSGtoOWVHUEYyMk1hTHRtSHhwdThSUmw2dFFvZVU0YW9icGs1NWQzdzdJZzlrQmtzSWJFaUlUZmhXWFV0LTZScU45d0I2cEF3Q3dRbVk2NW5TR3NGcDFLbXludkQ1NTVvNmpqcExvMzU4alQzWXRSNWdiTDQxTkdCdDg4WDlmNF9ROXlSaGIxOG5PYTdEODBzczJ1cEwwWkpIczNPVlJlTmVhQmNBWm9lVXlMZGRCUW1yb1lpMENlYl9UWWtTNXRsUUFxUlljY1E?oc=5"
     },
     {
       "title": "黃金寫1低點紀錄 最新「預測價」被調降了 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50YXdJWVpRa1ZZcmgtNnF1dDVDTUtoYUpyZEtKN1NYLTNib0w4c09yM0dwNS1GVGNrN2tNMVp2S1RqOWxNUzBsdW9oSlhkT2I5YTdUeUlHdFNyamF6MVNv?oc=5"
     },
     {
-      "title": "【0729台股盤後】大盤去槓桿重挫1,564 點！台股大盤下跌至40,039 點，關注凌晨FOMC會議，主本比排行鎖定【聯一光、立碁、光鼎】｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMihgVBVV95cUxNT2ppS19fbExnVVJWcUlJeHhFSGpjLVpOcm50aVpXMzFuRFpEODFmTmVVQzM2cnFWZ0VCc3B5SEo3ZWlacDM2VEJxTjhnQ3ZIWjZkQVU3THgwZjBwVVhHdWhRaTNCVU94em9CejNNb3BHcUhSdWEydzJPejFvMlA1UkxOME1wZ0VNSUI1Njh6VUw3MVBja0JyU2dtd1VvRzJTUUFDenhCVF85cEhqeUp4OWFDTFZtaTEwMWZ1dXY5WEZYYjdGSll4UGZqd3ZZT1RCM0E1RzVZUTRabTRHR1FtaEJpb29lRUJKQVI1TjBJallEVmwyamZpdkg2S0R4X1lJalJzVmExUlI3LUJJemI2LTdqWnNGalpJVzRuTFFkZm1CVWYwTkh6M0hGbFVsUVVqUlhKaXlUOU5hNTRFbDI3OFNMZ2RhMDFvYjVXLTRpM1lHMVlyMEM0eWRQeUgxVGgybUFjQi1EZEtFRERYMjhxcWJlYXN4MU5OWTJiWHJxelpCcDlIN1FaazFZdV95UXVnX2FqV3lyanZUZXNHVU9KMC1KbXhVWmw2RndpTXR4RHRDYmh4WGxDV3N5aVl3LUVlTVBlb2pMOHlJYmkwZU9JY2d1NlhXMWpabEdOb0lZRmxLOEJRMW5vcTRBWVZDSDRfdEtsRlVMWi1xNm9QNmxOZDhNRTlzMzF6VXF3R19NVXBhdG9leERmREpfbHB0WE9uRzVXQWZxRWdjcVJSZHp5UTdkcUk4NEtSY1ZXSXhBRjE1RVh2MHgxeXR3OXBnaS1Rdzk5eXc4QVZTemgyckFFcVU1UXVaTGlpLVdYWlBsZDNFTGFRWlhvRlRXV2tSNmRON1hoRTNn?oc=5"
+      "title": "台股今創史上第7大跌點 上市櫃共119家跌停 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jbUZFNE0wMWtJejVOazdXOUJQdlZyZjdocGxBYmJ0Y2s4cURCR0hReWFBb3FGTTg3UDJuWTd1cUhFeEJPQ1M4bWo0SDJPZFE?oc=5"
+    },
+    {
+      "title": "美股早盤｜費半續挫、台積電ADR跌逾1% 川普放話猛攻伊朗帶動油價飆7% - 知新聞",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uLUl6YktLZlRJTFNvM0xBTWdmSHRHalNyMkFTM3dRaW5qZ2tGNGtZSXpLQkI0ZjZLS3Z0N2NSODVEMGhyQTJUb2k3UnFnTUs4T3lPWlpSS3BMRUM4VXlDZnBFcWd5eHpadUxIRkNNMA?oc=5"
     },
     {
       "title": "台股2天暴跌3593點證交所：基本面及資金動能穩健| 證券 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41Y0tFbU51M1RrcDFGck9oc2ZYUllWZzhCTUJVZ0hlY0g4Qm5nWkNyb2JoR09MRmZDLUx1bHdJNWhYU2xZNDhseHpOR2dEY3F6WjlsU2RYN19xNDFYZ2c?oc=5"
     },
     {
-      "title": "台股連2日爆破千點！巨人傑警示「真正危機」：比關稅戰還慘 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNbXhWaXJRR3BDRzdXTmptY1NuOEg0b0R6aEdvc2s4NmdmQ3BjeVUyWkRGaGFtTWlVRFlaZ0VpdWpGOFZJOE9pMllnUU02bVNZQ0Uxc0Vja3JMRGp5VENyczQzWGxpMHI4eVdPendZQVNSYWgyNExRMTdENTk2ZG00ZVBfWnRfSFAweUdyTllXODJfVE1KSXhkQkNBQ3hyTnF5V29iNnlDbzVLSXpLell6NldVdG9SRk84QUZjWDR6dWdiRk02WVZURHZQeUQzcHRMdHdRLUFrTEFWSmV3QzVzWlhuWWd6OXBtYUFnTVRLRmJfSC1Mc2gzb09XRkZodV9iVS1LYmxIbWEtdnhzbllhZWVabkJZZGpSeVhvcUFXT2pibFJrSXZJTjZJUWlldTZ0eG9jVUJMUU5Td00xNUxMckZoc3JWRHRITEk3dHlLVXlNSktVTzg0b3UxS1VOUDVvNXl1YWdMWmlkc210a1VLOXdwVm4?oc=5"
+      "title": "川普一句話油價續飆！美股四大指數全面綠油油 台積電ADR慘崩3.85%、聯電ADR逆勢走揚 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSkhCZ1VRQ3NXQ0N2RDBBTlRBaXBfdjBjYldhU0Q1S05HMzFZQlV4TFZfM1NWZGNySFBrNkw1c3lMWGtpLU5kT2FHSEtlNGZoOGQ1S0hKRmFqdWdRbWNHSlJRR0ZFSzdaTC1abHdpaUVWY3F0ZFdhZ2lxMVI3a0dQUTVoam9zNlBMMGJkcGJzbnQyN0lOdzNGcnJwT0J5YWtVMjR5b1Z2eEZkWDU2VjB4VnNURTJRQkpsbTZsRHZfN3Z1dkRPYWh5eUt1dHlSbFhSZ0JBM2EydkdLZjQtekFlT3E1aTZCbmt1bTZWc0RoOHZsV2JZVzhmb2VNY3k5VDNKQ05fZGZzSHo5QkQyenJJVTlqR2VpVkpqVk9scFRUczZpVHBCMkU2bzVrZFpyZmt3U0E4NzBBeDM0NWQ2bm04bXlJeWJwYWx5cDNaX2NRUFdJNVJqeDJwOFdINHRveFZtZC1nTzdjUzl6YmZ2NEU1bC1felZ3R3BFeVd5R29DVWlrel9pdi1mMw?oc=5"
     },
     {
-      "title": "美股收盤》道瓊漲537點、費半續挫逾4％ 台積電ADR跌1.7％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UcE5wTVZGT1o4MFBPWXdPc2VFdWhwLUNRWEpocmJyLWRyN1hKYXM0X0dkeEZ6YWZYTGRmVWlhc01mRnQyazlmU1htNVJVQ3Q5RkQwNFFObEp5RExrRktR?oc=5"
-    },
-    {
-      "title": "台股連兩日重挫3595點，盤中失守4萬點大關，後市止跌三大觀察重點｜股市話題｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQdXUwcExfNEFkTGFNbzRGUnRhd01uZmtrUlNVMExkTktqRlVmajNWY2QyQkNQMDJlVk1IVUNiLUk4SUI2UkpHdTZSbHZDNzV5OVJlSGlXS3NGU240em83OThRWW9QbjJkdHBCV2hTdk12ZS1OY3F4N0dLanBtVFBJd0lTOWNDdGdaSjlOTkhnTk9CQW4yY3VvSWE2ZHoxV0xjMU1EcHZ6d3R3cEs4ZGl1ZHloZllZWVBhZGFzWGJpMGh5Wm1jVGtpYjRfNWUyZ21qQ2NVY3VENzUwS3RmWnZwd2M0UG9vQ2xaUnItNlBzU0ZFMjZPMU5sQkhvWUo3RUtUM2JLVlBPeUE1dFVVS1dmTjB1djZPWHZ5VlZNUXFFdzByQmJTejN4N2lCSUpkTURLS1U1NUd2Rjc1T3dnX1VTRWIwcWEzTGZOR19lclhQUFFwRE05N3Bjbm9mWUZRZzhObk9WVFdKNktXVjhMeldUZG5nY1ZFNnVHdlV2SFFaRklaVlh6WTdCZkJ2bk4td0FZX1dQUjd3YmgxMm02N2xNTmxhZkd0N1FtaTBmVzZMdTZTbkY4eWp6MzU0Y0lMbkYyWkdsZkhNQ3h3TDJkSGV0MUpCVzczZlIzbjF5eXBPdlI4YjBaR3BsNlY0bnlFbDQ?oc=5"
-    },
-    {
-      "title": "不意外！台股暴跌2千點百萬散戶大軍又進場…再跌千點住「套房」 安全嗎？分析師這麼看 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQMXVoU053QkkxVng3c3hycm9mUThpQ0hKci0yeExqQlM2THYyQWRjb0s4ZHVFbFNkTHdjR3FBX0gtV1BEMnJKX0lrazEtUEZkT1R5VlVVMXliWm0xeENEaUR2eUEwbFV3TkpsR2Zrc3Z2NFd1YXpNUG9aSXR2ZUtiVDE3SWxPX0hKYnhkMXMyd3RiM3AzNUp6LUpMWFdHYzh3RFExSTJNLTBBTFpmQmE1WXdsbkpqWFJvSHlmZjg0VGZXWWNUNm1aaG1hYVNpakg0Q3NUT2FqX1FaV3hycE56VFJtdHdWcjE3YTFCVmhEaWFPM0U3WEdMaW4xaDV6NnJ2LWw5anVsYXFvWDZZSURIV242bnVQV3NIdnZoalpOZkp3c0pKRVBSTzdXRzd2YkpLal9wY2Jtd3R4TzlhNlF4U25Tbzh5VVJBMEM4Y1hGTjhjLS1URWNMYUQ4bzJQZWw5cFVCb3hjR3pCcHNLM3FEcTI0c3dHcGJtNm1yX3VNNkNYbUtldk5HRUJPMUlOQk5XZzRSdnBkRC1fR1Y2Sk1jZG9lTUxHYUk0dWJQclJNUnExRDhCR2lwSDRHS19DbjVoR0F1M21FdWoxbG40SUNKYnNROG9pVWJlWXlVenlmVXRycExpRGF4Rk8yTElrTlFhQjFwZGdwUDNQQ2dfclZvTm41eEtpUWFmNm1DUlZUU0FEQXhIOUd2RVFpRUJxSXk1UUNxTndn?oc=5"
+      "title": "快訊／FOMC決議將揭曉！美股開盤「4大指數表現分化」 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPVzNPS1FBRk5wQmd0cVBtb2Rnc3o2V3JUUk0tYkpFbE9rN3FacUpWb3JRbmljNFdIQVFYeG9LbjdJZURxWHFJMW5vUEhVaGdaa2V6Q0xzTlMwUjlwam1IV0NJdEg1ZmVMSy05MjVub29KY3Y2eU5vdTdRS3pFbDhEcUZubHNwbWlBVmI3RjFRdjBhX3NhSUpZMGRnakhYbzhwSXllUVJmN1ZGaGlQeVRsUmpqbWtKQnE1R3RwMDFYWEgzWFFaTEJsUkdDTjFWSV9lUDFsRlNqbVJ6cWU4b0ZVdHpJRV94ZDlmNVQzREZHbm91Q1dFVXo2RUw4OExVS1BxNXFQUU5fSTl4dmFfT3poS3ZFUkxTZnFIeGp0SzFBVE9xNVhrODY1bmlia01SV0tHT2xCQ3Zn?oc=5"
     }
   ]
 }
