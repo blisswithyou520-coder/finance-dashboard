@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/31 01:00",
+  "updated_tw": "07/31 02:24",
   "taiwan": {
     "2330": {
       "price": 2205.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 193.395,
-      "change": 3.385,
-      "changePercent": 1.7815
+      "price": 193.5,
+      "change": 3.49,
+      "changePercent": 1.8367
     },
     "AAPL": {
-      "price": 331.71,
-      "change": -6.48,
-      "changePercent": -1.9161
+      "price": 332.99,
+      "change": -5.2,
+      "changePercent": -1.5376
     },
     "TSLA": {
-      "price": 306.31,
-      "change": 7.99,
-      "changePercent": 2.6783
+      "price": 307.645,
+      "change": 9.325,
+      "changePercent": 3.1258
     },
     "QQQ": {
-      "price": 681.46,
-      "change": 19.73,
-      "changePercent": 2.9816
+      "price": 682.375,
+      "change": 20.645,
+      "changePercent": 3.1199
     },
     "SPY": {
-      "price": 739.36,
-      "change": 9.9,
-      "changePercent": 1.3572
+      "price": 740.33,
+      "change": 10.87,
+      "changePercent": 1.4901
     },
     "SCHD": {
-      "price": 33.276,
-      "change": -0.554,
-      "changePercent": -1.6376
+      "price": 33.355,
+      "change": -0.475,
+      "changePercent": -1.4041
     },
     "VOO": {
-      "price": 679.63,
-      "change": 9.0,
-      "changePercent": 1.342
+      "price": 680.464,
+      "change": 9.834,
+      "changePercent": 1.4664
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64756.84,
-      "change": 848.672,
-      "changePercent": 1.328
+      "price": 64733.49,
+      "change": 825.322,
+      "changePercent": 1.2914
     },
     "ETH": {
-      "price": 1917.3,
-      "change": 8.781,
-      "changePercent": 0.4601
+      "price": 1918.07,
+      "change": 9.551,
+      "changePercent": 0.5004
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.407,
-      "change": 0.0432,
-      "changePercent": 0.1335
+      "price": 32.413,
+      "change": 0.0492,
+      "changePercent": 0.152
     },
     "JPYTWD": {
-      "price": 0.2009,
-      "change": 0.0034,
-      "changePercent": 1.7215
+      "price": 0.2017,
+      "change": 0.0042,
+      "changePercent": 2.1266
     },
     "EURTWD": {
-      "price": 37.399,
-      "change": 0.5466,
-      "changePercent": 1.4831
+      "price": 37.419,
+      "change": 0.5666,
+      "changePercent": 1.5374
     },
     "CNYTWD": {
-      "price": 4.8053,
+      "price": 4.8049,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4168.3,
-    "twd": 4343.0,
-    "tael": 162862.0,
-    "twdTotal": 135082.0,
-    "changePercent": 3.3113
+    "usd": 4165.2,
+    "twd": 4341.0,
+    "tael": 162771.0,
+    "twdTotal": 135007.0,
+    "changePercent": 3.2344
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "美股早盤／低接買盤湧現！指數齊揚 微軟噴高15%、台積ADR勁升 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STzJmaTYya1BmV09iWnE3aUZqQzRGeHREMjNIbnFIMHNNTXNhMzFTOXBOZEdjTWtTajVvTDB4TmtIbVAyOXctTmZMdTktdFpk?oc=5"
+      "title": "快訊／台股有望？美股強勁反彈！半導體領漲 台期指飆破1500點 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQYTZPVV9SZ2l3NUZ5M2k3UGF1ZFkzcEs3alhCYlpvc203bTF6V1c0LTRMaDVkVVFUcUVRU3I3RWo4VWlUR1NwbHgySWw0QUsyeGc3Nm5GbTVRVUhUNFNrb1JtQ3VjNTc3R3pVbmJjYXp6a0FUd182Ulh2eDdDQjJoMXhUVENibXdCWk9oaGFVSVNXTDc5SFZPS3I2UFM2UGVBUjFmX2ZBZk02MmFYcktmUlFxcmZ1RHo1bG1YZ2Q3Q3BDOTF4NXNvRGQyVVRzWDh2bnVWS0lHRlRaU2tucjBvNTNZby1nNUFfYUNEUTdtMUhBd2NlVjg2RUFSTXRuSnNYQ25fNlBQY2JjR3lkYnJyMG53bmYxRVVUTGpGYVhKUm01ZThaMWl1NEFHRVFhbDE1bTZhR1hKSlhkcVVsb3RneW9sb0hPTkhNZkdCNExobEpxX25jX3dZaGoxd0FGUGxQUllMXzBQYkJuNW1lZ3JhemR3?oc=5"
     },
     {
-      "title": "市場信心大反攻！美股狂歡模式開啟 台股夜盤暴拉800點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPSjNLdGs0V0ZRQW80eUJiNU13bVZDUmxHVHJRNUpmSUZGYkZPenRxNHNXdWJOWmpZMnVBTF8tYXRWOGE1dXFCYUU5TEtUSENxazdpOW1YekFtallHM0xXTEhFSXNzalN5UGlTRm1pU2hHTHFSR2Y0b3Z2VzFJMDE3ZVRlaGJESllrM0ZOa182dzJyUl90OTBtOVNRR3N3Nlhtbm5wTl9uVUtnM183b0oxT1F0M2FlcmFWLUdWYy1QV21zcVVQdFNfX1FwcDZHV09iTHpIbGpuMTVwYWdQVHU1dGtNc0g5NnNoOGo1elFuUXIzTG5EQjRQejZ4Yzd0ZUg4alBVdkNyUzkteXZMcHZEaDc0c2hUUTBuQXZTT290b2hTWmJBdnFwSDFfbkxTeTlrYS1CdG5MSHR1dlJNdEJmMC1UbnBfdnU3cTBCVDBtQ3lTZGNVTXhCYmVCQlp6ZDZYUGc?oc=5"
+      "title": "美股早盤／低接買盤湧現！指數齊揚 微軟噴高15%、台積ADR勁升 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STzJmaTYya1BmV09iWnE3aUZqQzRGeHREMjNIbnFIMHNNTXNhMzFTOXBOZEdjTWtTajVvTDB4TmtIbVAyOXctTmZMdTktdFpk?oc=5"
     },
     {
       "title": "〈美股早盤〉微軟財報送定心丸！主要指數開高 台積電ADR漲逾5% - news.cnyes.com",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcGc1RThDQkZRajNIZk05cUZOdTQwd3VQVEVrX2RqYkFpQnV6ei0yQUM5bURPMzdKVlBFTTJ1c2ItelpGeXMxOFE1UTQ4R2twZVltaWtHU2V6b1BvZXMwbWVPRVVXeXlhRUhvb1dJQWJzaEhqcm9VYThuYmlmVG1pUDV6YnR2WVNWSGdkdmJxQQ?oc=5"
     },
     {
-      "title": "台股盤中一度衝高千點 終場跌105點失守40K - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DYXZ4N1VZeFpndFl5TmVZTHcxZGU2ZTV6cUxOQ2dHZE1QMmdESmt4dWdWckc4TEVWdjFrbzVjQXpfQzRrRmlETTRTcXBqdGM?oc=5"
+      "title": "快訊／科技股利多來了？美股開盤費半噴漲560點 台指期夜盤勁揚792點 - 三立新聞",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQOHJqNmpvVTQwc0JnUEVVZ1JOUDgydUtSUXRVV2g3WkdSX0ZOdHJROUFuRzJpeldYMWp3eVlhYVNjUmdpLWRHb3JSbw?oc=5"
     },
     {
-      "title": "快訊／科技股利多來了？美股開盤費半噴漲560點 台指期夜盤勁揚792點 - 三立新聞網SETN.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQOHJqNmpvVTQwc0JnUEVVZ1JOUDgydUtSUXRVV2g3WkdSX0ZOdHJROUFuRzJpeldYMWp3eVlhYVNjUmdpLWRHb3JSbw?oc=5"
+      "title": "黃金急拉衝高！強勢翻紅 背後原因曝光 - ec.ltn.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LeDBsNUJRUmktb1M3dWZLTFdxckJpRkpaZmxyVFppY2F2bGkxMkhnTUg5TW0yeHNSTTFHRFFDTXVMM1pLWkhZeUZ6Y25WaTgxdHV5UkZpNDVwQVZ5Tmpz?oc=5"
     }
   ]
 }
