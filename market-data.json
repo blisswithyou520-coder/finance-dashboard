@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/30 12:20",
+  "updated_tw": "07/30 15:11",
   "taiwan": {
     "2330": {
-      "price": 2235.0,
-      "change": 35.0,
-      "changePercent": 1.5909
+      "price": 2205.0,
+      "change": 5.0,
+      "changePercent": 0.2273
     },
     "2454": {
-      "price": 3280.0,
-      "change": 130.0,
-      "changePercent": 4.127
+      "price": 3235.0,
+      "change": 85.0,
+      "changePercent": 2.6984
     },
     "2317": {
-      "price": 231.0,
-      "change": -6.0,
-      "changePercent": -2.5316
+      "price": 229.5,
+      "change": -7.5,
+      "changePercent": -3.1646
     },
     "0050": {
-      "price": 94.35,
-      "change": -2.8,
-      "changePercent": -2.8821
+      "price": 93.5,
+      "change": -0.2,
+      "changePercent": -0.2134
     },
     "00878": {
-      "price": 30.84,
-      "change": -0.66,
-      "changePercent": -2.0952
+      "price": 30.75,
+      "change": -0.16,
+      "changePercent": -0.5176
     },
     "00919": {
-      "price": 28.26,
-      "change": -0.63,
-      "changePercent": -2.1807
+      "price": 28.25,
+      "change": -0.25,
+      "changePercent": -0.8772
     }
   },
   "us": {
@@ -72,50 +72,54 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64015.56,
-      "change": 144.1967,
-      "changePercent": 0.2258
+      "price": 63976.46,
+      "change": 68.292,
+      "changePercent": 0.1069
     },
     "ETH": {
-      "price": 1903.52,
-      "change": -16.4285,
-      "changePercent": -0.8557
+      "price": 1902.12,
+      "change": -6.399,
+      "changePercent": -0.3353
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.443,
-      "change": 0.0792,
-      "changePercent": 0.2447
+      "price": 32.473,
+      "change": 0.1092,
+      "changePercent": 0.3374
     },
     "JPYTWD": {
-      "price": 0.1963,
-      "change": -0.0012,
-      "changePercent": -0.6076
+      "price": 0.1964,
+      "change": -0.0011,
+      "changePercent": -0.557
     },
     "EURTWD": {
-      "price": 37.211,
-      "change": 0.3586,
-      "changePercent": 0.973
+      "price": 37.234,
+      "change": 0.3816,
+      "changePercent": 1.0354
     },
     "CNYTWD": {
-      "price": 4.8073,
+      "price": 4.8148,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4112.9,
-    "twd": 4290.0,
-    "tael": 160876.0,
-    "twdTotal": 133435.0,
-    "changePercent": 1.9382
+    "usd": 4098.4,
+    "twd": 4279.0,
+    "tael": 160457.0,
+    "twdTotal": 133087.0,
+    "changePercent": 1.5788
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "美股受Fed未升息影響全面收黑 台股4萬點關卡來回震盪 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByNVBQNVRNVUlVU2VCZkQ0QmlCLXhmZjVLYnAtN0FuRmM3V2tyUXdPMGNteUVpOUwyLXgxanRIelA0RjRLdmpkdm4zaVAwLVE?oc=5"
+    },
     {
       "title": "AI真的泡沫化了？美股「道瓊崩千點、費半下挫5%」 台積電ADR跌4.5%、台指期夜盤失守4萬關卡 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNWXJNdVJWS3dwT2FNcm5JN3U4b0gzTEUydDVrTmJQbnR3Y0ZwaVd2bGRsb1NvaWU5YmhlNHdoMy1ZQVBYU2k4anlwOUJiVi04TXp0Q3lvNG1UWmNSa0Rpbl85R0NrQmd1cUZiSHN0OW0tRVR0SHVTcEFnNmJFWERqSXU1OXcwY21GbmltdEhwR3dKbWQwXzRnRmtuUEVfcU5CejYwcWthNGNPaE1MRWdzRHdMcDhNZk81bV9vWkJkNlNjMGhCQW1qU0ZoMmMzTG9BNWI5Zk1rRG4tNnp0bkVsY2tLYW93WDJocUFGWjlMYkRtYkdqWTA5VkR4TnQ5bDRod2lLV29Xa2JTem93bVEwcGFPLVJBa3h1ZnZibThfVmg1eEZmcC1IVmRPMExqU2ZxaTROVWRhX3BveGFyR04zZHgtSU1XX3Q0UXJmaXViOW8xSV9VaV9IT0xIeXNUNjVjRUxVS0tR?oc=5"
@@ -129,11 +133,7 @@
       "link": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxQR1dJUUZuSXBuVW9XRUc3M29uSUhxU3F2RWlZM3lxMms4YlFlV3NtWDF3YTdBOG1QcjlsZGtfMnlwd3Y1MkdjQ0lKbnVQS3dIRXByV0NGc3lMV2ZIYnhsc181UW9RVEFMSDRPNHdfcUZVYzU1Rm9CZWtJVGJYSE9WaS1YMFlBbnFjZ0FPd1dHT0F6SHZLNXJFTEpOa0NIM0xjbnFFX0U5Y2JPZHJpWHlJLTRTeVlkYU16VVdGZzZWTnp2aGszRFQ5Tk5TcGp2ZVVTYXpfbEVnMVloc1pySF9ORlMtbnJTUGJsWG9fZGtGT29kLV9uOUV0TXhuRGVRVEdJdlRwMzN4RXlXdnR0UTdfTGtvVV9JelM4akRqaGk0aXNOR0F4c1FyYmo1OFMxeDRLSTU2cVRCMHR2ckhuaEp6Q0x3NWd5VnhBT2ZHbUJMdndlYXBEZzFUbnB0VkZabW5sZnFpczdSQnJxMVdKYTBlbmJTNmtmY1JRdjdfS0FPbHV4OEQ4eWhZVU5zSVJDT29VY0RURDcyM3o3NTRJTUVpSXQ5MzItRWlPVUZBVTZSa0hhNG5DZ3lZSkRET3FQdWRfUjhSUnRaallTemZjM2ljN1FEUUpvY2dNMGdaZ3BKQ0xTMmF6RU4wZzJpNlRZMEJkcGRLdDNvRHk1X2p2MVZKNnVDaGM3d0NoanFHVXVHXzNpX21RdmFHVmIzZ1NhR0JOTkZNWGVYSjBHMGFkTDZVMEhkVjNoQk9FLVdxdnZ6U2pPaTVqLXRiTG9vUFNOa0YxY3NucUZBdmE5T2ZXc01WTHE4R2FEX3JEODZFRHllWmJKaV8xYlE?oc=5"
     },
     {
-      "title": "天下晨間新聞：美股又吃土！費半狂跌5.3%，Fed說了什麼？Meta、微軟誰在放火？ - cw.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvc3ltcTZyZkpuMG1FYVBVMTRsVWp5X3dleTFIOS0yTXpnZTZYOFdIQmVLTE8xcVRVNk9DZjdLeklycGZHWjVmb0pKMnVEQQ?oc=5"
-    },
-    {
-      "title": "美股收盤》Fed利率不變！道瓊挫逾1100點 台積電ADR跌4.50％ - 自由財經",
+      "title": "美股收盤》Fed利率不變！道瓊挫逾1100點 台積電ADR跌4.5％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Za2w2VU1aTEh6RWVyeDNIekpnN014Y2w4U0JJREk4SjJ4anJfUHNnMHA1a245czNFM0NxakU0WjhGUmtlYlRfZG1fQ1pHQjRqU1k4SUhCaGFiSWVQOEsw?oc=5"
     },
     {
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10cjFrdnd4Q3NDcXhiUnZKeXhtMHk0cEREMzd3U0Fkbzh2ZnFlc3NfTjJ2MHVwYzk2OUVZQlZwbllpRkg5cWtSRmRWR2NmdGs?oc=5"
     },
     {
-      "title": "美股｜Fed釋鷹浪 道指狂瀉1,153點 費半挫逾5％ 美光慘崩10％ 台積電ADR跌4.5％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jeE9ZRGQtYTh3YjVSYlVuSUJ4YkFwaldSb2dEQkNHOF9HZC1mMUNScWhaczljWWhxeHpJRDVDTFpfZEp4VmJSZ3MxSTdrT3owbzYybE9zTENHdklOM3l3?oc=5"
+      "title": "天下晨間新聞：美股又吃土！費半狂跌5.3%，Fed說了什麼？Meta、微軟誰在放火？ - cw.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvc3ltcTZyZkpuMG1FYVBVMTRsVWp5X3dleTFIOS0yTXpnZTZYOFdIQmVLTE8xcVRVNk9DZjdLeklycGZHWjVmb0pKMnVEQQ?oc=5"
     },
     {
-      "title": "【美股快訊】聯準會3票要升息，高估值科技股憑什麼不跌？ - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XUVRsTkZ0T1B4STFQYm5SLV8xcW9tUHFtSkFNRnRJZVRuamVubnFiSWVBTGNNcTJUaEJHNHBFYU40MWVLaktBOUZoQ1J3bU1YdWUyem5GUExGUHVzek5YTHJfRDJtWWM?oc=5"
+      "title": "美股｜Fed釋鷹浪 道指狂瀉1,153點 費半挫逾5％ 美光慘崩10％ 台積電ADR跌4.5％ - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jeE9ZRGQtYTh3YjVSYlVuSUJ4YkFwaldSb2dEQkNHOF9HZC1mMUNScWhaczljWWhxeHpJRDVDTFpfZEp4VmJSZ3MxSTdrT3owbzYybE9zTENHdklOM3l3?oc=5"
     }
   ]
 }
