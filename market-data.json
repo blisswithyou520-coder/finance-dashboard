@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/31 04:01",
+  "updated_tw": "07/31 05:31",
   "taiwan": {
     "2330": {
       "price": 2205.0,
-      "change": -75.0,
-      "changePercent": -3.2895
+      "change": 5.0,
+      "changePercent": 0.2273
     },
     "2454": {
       "price": 3235.0,
-      "change": -80.0,
-      "changePercent": -2.4133
+      "change": 85.0,
+      "changePercent": 2.6984
     },
     "2317": {
       "price": 229.5,
-      "change": -8.5,
-      "changePercent": -3.5714
+      "change": -7.5,
+      "changePercent": -3.1646
     },
     "0050": {
       "price": 93.5,
@@ -55,61 +55,61 @@
       "changePercent": 3.2974
     },
     "SPY": {
-      "price": 741.74,
-      "change": 12.28,
-      "changePercent": 1.6834
+      "price": 741.69,
+      "change": 12.23,
+      "changePercent": 1.6766
     },
     "SCHD": {
-      "price": 33.39,
-      "change": -0.44,
-      "changePercent": -1.3006
+      "price": 33.41,
+      "change": -0.42,
+      "changePercent": -1.2415
     },
     "VOO": {
-      "price": 681.61,
-      "change": 10.98,
-      "changePercent": 1.6373
+      "price": 681.79,
+      "change": 11.16,
+      "changePercent": 1.6641
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64827.86,
-      "change": 919.692,
-      "changePercent": 1.4391
+      "price": 64685.56,
+      "change": 777.392,
+      "changePercent": 1.2164
     },
     "ETH": {
-      "price": 1925.04,
-      "change": 16.521,
-      "changePercent": 0.8656
+      "price": 1920.32,
+      "change": 11.801,
+      "changePercent": 0.6183
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.397,
-      "change": 0.0481,
-      "changePercent": 0.1487
+      "price": 32.393,
+      "change": 0.0441,
+      "changePercent": 0.1363
     },
     "JPYTWD": {
-      "price": 0.2011,
-      "change": 0.003,
-      "changePercent": 1.5277
+      "price": 0.2009,
+      "change": 0.0028,
+      "changePercent": 1.4267
     },
     "EURTWD": {
-      "price": 37.406,
-      "change": 0.3116,
-      "changePercent": 0.8401
+      "price": 37.376,
+      "change": 0.2816,
+      "changePercent": 0.7592
     },
     "CNYTWD": {
-      "price": 4.8048,
+      "price": 4.8023,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4170.7,
-    "twd": 4344.0,
-    "tael": 162906.0,
-    "twdTotal": 135118.0,
-    "changePercent": 3.3708
+    "usd": 4162.8,
+    "twd": 4335.0,
+    "tael": 162577.0,
+    "twdTotal": 134846.0,
+    "changePercent": 3.175
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,20 +117,16 @@
   },
   "news": [
     {
+      "title": "華爾街多頭沒力了！高盛：美股短期缺乏上漲燃料 680億美元賣壓恐來襲 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ySHgxNVh1SmpTWnd5ckVwYUo4WXBVT1Q1WXpicnVKczdCMExSLVh4LVcxQ0ZfWGYyV0FBbjJpU0RWVkItcEUwMElHR01pdlE?oc=5"
+    },
+    {
       "title": "快訊／台股有望？美股強勁反彈！半導體領漲 台期指飆破1500點 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQYTZPVV9SZ2l3NUZ5M2k3UGF1ZFkzcEs3alhCYlpvc203bTF6V1c0LTRMaDVkVVFUcUVRU3I3RWo4VWlUR1NwbHgySWw0QUsyeGc3Nm5GbTVRVUhUNFNrb1JtQ3VjNTc3R3pVbmJjYXp6a0FUd182Ulh2eDdDQjJoMXhUVENibXdCWk9oaGFVSVNXTDc5SFZPS3I2UFM2UGVBUjFmX2ZBZk02MmFYcktmUlFxcmZ1RHo1bG1YZ2Q3Q3BDOTF4NXNvRGQyVVRzWDh2bnVWS0lHRlRaU2tucjBvNTNZby1nNUFfYUNEUTdtMUhBd2NlVjg2RUFSTXRuSnNYQ25fNlBQY2JjR3lkYnJyMG53bmYxRVVUTGpGYVhKUm01ZThaMWl1NEFHRVFhbDE1bTZhR1hKSlhkcVVsb3RneW9sb0hPTkhNZkdCNExobEpxX25jX3dZaGoxd0FGUGxQUllMXzBQYkJuNW1lZ3JhemR3?oc=5"
     },
     {
       "title": "美股早盤／低接買盤湧現！指數齊揚 微軟噴高15%、台積ADR勁升 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STzJmaTYya1BmV09iWnE3aUZqQzRGeHREMjNIbnFIMHNNTXNhMzFTOXBOZEdjTWtTajVvTDB4TmtIbVAyOXctTmZMdTktdFpk?oc=5"
-    },
-    {
-      "title": "華爾街多頭沒力了！高盛：美股短期缺乏上漲燃料 680億美元賣壓恐來襲 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ySHgxNVh1SmpTWnd5ckVwYUo4WXBVT1Q1WXpicnVKczdCMExSLVh4LVcxQ0ZfWGYyV0FBbjJpU0RWVkItcEUwMElHR01pdlE?oc=5"
-    },
-    {
-      "title": "費半大跌該恐慌，還是分批布局？3 個問題判斷該不該進場｜美股評析｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNY2hQM3gxZ3ZhOVRYblg2Qm5wYXc4OGVsNUFHcXJtbDBoSnd1WHpqeU80Zlp0dUs1cS15a096eHBjRzEwTDNHeFc5Vjd2cDQtTzA1VXdfUjVEc0Fpd1pNVTQyR09uV250aFJrRjVUc2Z3bngyc0tjemhMUWozNDhVWWJpdkxNUlhIbHVndlNNbUt2SWtmekVOY0R6QXN0NWtMNnVfNVRPcFFldE8zMFdSVUhaazhXa1VSbkI5MTlGQjJ6M0pycWp6clBSSklYeFRINjhGUE91aUtFREc1OGVNTlQwZGNUYm14Q0lrb2hTMm1ZNFpkYkt0bW1DRkhjMjY0MklPeXdBYzVaSjI5clRKNzFaTXNLRVNZbV9hbFBmLTJ2bkV6X1ZlaUJVVEVmd25fTjVvUWNvZVF5Rk9fMUtKcE9qMmtfLW5yTkdEV1FvbTlfNjhpa0tsSTBrRk1tZjVtQzI1SDIzRlEwWVVoUjFxMWZLcEk5NEZaZ0NmenBmMlVBRXYyc1k0UXgyRGtjT05WODc5VFE1UEppR19CUG5yTmpvOUdWTHNyMXBMR0owUGpzS3RIMTN2aENVSXZ6Q2VVWDhqMkp3OA?oc=5"
     },
     {
       "title": "微軟與晶片股帶頭 美股絕地大反攻！台指期大漲近2％ - 工商時報",
@@ -147,6 +143,10 @@
     {
       "title": "快訊／科技股利多來了？美股開盤費半噴漲560點 台指期夜盤勁揚792點 - 三立新聞",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQOHJqNmpvVTQwc0JnUEVVZ1JOUDgydUtSUXRVV2g3WkdSX0ZOdHJROUFuRzJpeldYMWp3eVlhYVNjUmdpLWRHb3JSbw?oc=5"
+    },
+    {
+      "title": "黃金急拉衝高！強勢翻紅 背後原因曝光 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LeDBsNUJRUmktb1M3dWZLTFdxckJpRkpaZmxyVFppY2F2bGkxMkhnTUg5TW0yeHNSTTFHRFFDTXVMM1pLWkhZeUZ6Y25WaTgxdHV5UkZpNDVwQVZ5Tmpz?oc=5"
     }
   ]
 }
