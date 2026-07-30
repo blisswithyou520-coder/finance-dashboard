@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/31 02:24",
+  "updated_tw": "07/31 04:01",
   "taiwan": {
     "2330": {
       "price": 2205.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 193.5,
-      "change": 3.49,
-      "changePercent": 1.8367
+      "price": 195.04,
+      "change": 5.03,
+      "changePercent": 2.6472
     },
     "AAPL": {
-      "price": 332.99,
-      "change": -5.2,
-      "changePercent": -1.5376
+      "price": 333.43,
+      "change": -4.76,
+      "changePercent": -1.4075
     },
     "TSLA": {
-      "price": 307.645,
-      "change": 9.325,
-      "changePercent": 3.1258
+      "price": 308.85,
+      "change": 10.53,
+      "changePercent": 3.5298
     },
     "QQQ": {
-      "price": 682.375,
-      "change": 20.645,
-      "changePercent": 3.1199
+      "price": 683.55,
+      "change": 21.82,
+      "changePercent": 3.2974
     },
     "SPY": {
-      "price": 740.33,
-      "change": 10.87,
-      "changePercent": 1.4901
+      "price": 741.74,
+      "change": 12.28,
+      "changePercent": 1.6834
     },
     "SCHD": {
-      "price": 33.355,
-      "change": -0.475,
-      "changePercent": -1.4041
+      "price": 33.39,
+      "change": -0.44,
+      "changePercent": -1.3006
     },
     "VOO": {
-      "price": 680.464,
-      "change": 9.834,
-      "changePercent": 1.4664
+      "price": 681.61,
+      "change": 10.98,
+      "changePercent": 1.6373
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64733.49,
-      "change": 825.322,
-      "changePercent": 1.2914
+      "price": 64827.86,
+      "change": 919.692,
+      "changePercent": 1.4391
     },
     "ETH": {
-      "price": 1918.07,
-      "change": 9.551,
-      "changePercent": 0.5004
+      "price": 1925.04,
+      "change": 16.521,
+      "changePercent": 0.8656
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.413,
-      "change": 0.0492,
-      "changePercent": 0.152
+      "price": 32.397,
+      "change": 0.0481,
+      "changePercent": 0.1487
     },
     "JPYTWD": {
-      "price": 0.2017,
-      "change": 0.0042,
-      "changePercent": 2.1266
+      "price": 0.2011,
+      "change": 0.003,
+      "changePercent": 1.5277
     },
     "EURTWD": {
-      "price": 37.419,
-      "change": 0.5666,
-      "changePercent": 1.5374
+      "price": 37.406,
+      "change": 0.3116,
+      "changePercent": 0.8401
     },
     "CNYTWD": {
-      "price": 4.8049,
+      "price": 4.8048,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4165.2,
-    "twd": 4341.0,
-    "tael": 162771.0,
-    "twdTotal": 135007.0,
-    "changePercent": 3.2344
+    "usd": 4170.7,
+    "twd": 4344.0,
+    "tael": 162906.0,
+    "twdTotal": 135118.0,
+    "changePercent": 3.3708
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,8 +125,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STzJmaTYya1BmV09iWnE3aUZqQzRGeHREMjNIbnFIMHNNTXNhMzFTOXBOZEdjTWtTajVvTDB4TmtIbVAyOXctTmZMdTktdFpk?oc=5"
     },
     {
-      "title": "〈美股早盤〉微軟財報送定心丸！主要指數開高 台積電ADR漲逾5% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53QXMwZERldVFNb2d6LURhbVNwTzl6VE5tajJVMmdweC1iamhSUnBPLVBHc2JpN2pqeXZGS1FqR0FtNUppdEI3cUlhaTk2bEk?oc=5"
+      "title": "華爾街多頭沒力了！高盛：美股短期缺乏上漲燃料 680億美元賣壓恐來襲 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ySHgxNVh1SmpTWnd5ckVwYUo4WXBVT1Q1WXpicnVKczdCMExSLVh4LVcxQ0ZfWGYyV0FBbjJpU0RWVkItcEUwMElHR01pdlE?oc=5"
     },
     {
       "title": "費半大跌該恐慌，還是分批布局？3 個問題判斷該不該進場｜美股評析｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04VVRzSTlqcnZtWVhodDh2ckoyYjFOV2xiS3RGYlZOWkJ5OVlCR2lid3BIOTZjSVJBM3A5d1l6cXRKNHg4WkZlSUtVeEo0RVFnMXhiNGttdGxDTFNDVE53?oc=5"
     },
     {
+      "title": "台指期夜盤狂噴逾千點！台積電ADR飆6%　美股AI概念股大反攻 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Scll3dnFBMlpUM3EwLXpMMFNiOE5wZW54ZHNqR3MwNU10VmFCR2FJTWRwV0JTVEFURjB5S1ZjeFJoX2dxQlNNcERETlZIVHVLR1HSAVBBVV95cUxQcUZxYmlhYzd6Y1pKWVRybXk3ekE2UU1rUUZsTGxPTnRJZ00zYVRkRUc1Z1BzbHpSSmJORUhUZ1BHWHlmei1MQng0Y0J5N2Fhag?oc=5"
+    },
+    {
       "title": "民營黃金巨頭公告：海外大礦黃金當量大增超100噸 | 盤後公 - capitalfutures.com.tw",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcGc1RThDQkZRajNIZk05cUZOdTQwd3VQVEVrX2RqYkFpQnV6ei0yQUM5bURPMzdKVlBFTTJ1c2ItelpGeXMxOFE1UTQ4R2twZVltaWtHU2V6b1BvZXMwbWVPRVVXeXlhRUhvb1dJQWJzaEhqcm9VYThuYmlmVG1pUDV6YnR2WVNWSGdkdmJxQQ?oc=5"
     },
     {
       "title": "快訊／科技股利多來了？美股開盤費半噴漲560點 台指期夜盤勁揚792點 - 三立新聞",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQOHJqNmpvVTQwc0JnUEVVZ1JOUDgydUtSUXRVV2g3WkdSX0ZOdHJROUFuRzJpeldYMWp3eVlhYVNjUmdpLWRHb3JSbw?oc=5"
-    },
-    {
-      "title": "黃金急拉衝高！強勢翻紅 背後原因曝光 - ec.ltn.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LeDBsNUJRUmktb1M3dWZLTFdxckJpRkpaZmxyVFppY2F2bGkxMkhnTUg5TW0yeHNSTTFHRFFDTXVMM1pLWkhZeUZ6Y25WaTgxdHV5UkZpNDVwQVZ5Tmpz?oc=5"
     }
   ]
 }
