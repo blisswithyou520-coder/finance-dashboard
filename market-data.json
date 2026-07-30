@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/30 07:42",
+  "updated_tw": "07/30 09:02",
   "taiwan": {
     "2330": {
       "price": 2200.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63890.51,
-      "change": 19.1467,
-      "changePercent": 0.03
+      "price": 63676.63,
+      "change": -194.7333,
+      "changePercent": -0.3049
     },
     "ETH": {
-      "price": 1906.09,
-      "change": -13.8585,
-      "changePercent": -0.7218
+      "price": 1899.1,
+      "change": -20.8485,
+      "changePercent": -1.0859
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.347,
-      "change": -0.0168,
-      "changePercent": -0.0519
+      "price": 32.381,
+      "change": 0.0172,
+      "changePercent": 0.0531
     },
     "JPYTWD": {
       "price": 0.1958,
@@ -94,9 +94,9 @@
       "changePercent": -0.8608
     },
     "EURTWD": {
-      "price": 37.138,
-      "change": 0.2856,
-      "changePercent": 0.7749
+      "price": 37.126,
+      "change": 0.2736,
+      "changePercent": 0.7424
     },
     "CNYTWD": {
       "price": 4.7857,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4149.2,
-    "twd": 4315.0,
-    "tael": 161816.0,
-    "twdTotal": 134214.0,
-    "changePercent": 2.7971
+    "usd": 4123.3,
+    "twd": 4293.0,
+    "tael": 160975.0,
+    "twdTotal": 133517.0,
+    "changePercent": 2.1554
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,16 @@
   },
   "news": [
     {
-      "title": "美股收盤》Fed利率不變 晶片股續跌美股收黑 台積電ADR跌4.50％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Za2w2VU1aTEh6RWVyeDNIekpnN014Y2w4U0JJREk4SjJ4anJfUHNnMHA1a245czNFM0NxakU0WjhGUmtlYlRfZG1fQ1pHQjRqU1k4SUhCaGFiSWVQOEsw?oc=5"
+      "title": "AI真的泡沫化了？美股「道瓊崩千點、費半下挫5%」 台積電ADR跌4.5%、台指期夜盤失守4萬關卡 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNWXJNdVJWS3dwT2FNcm5JN3U4b0gzTEUydDVrTmJQbnR3Y0ZwaVd2bGRsb1NvaWU5YmhlNHdoMy1ZQVBYU2k4anlwOUJiVi04TXp0Q3lvNG1UWmNSa0Rpbl85R0NrQmd1cUZiSHN0OW0tRVR0SHVTcEFnNmJFWERqSXU1OXcwY21GbmltdEhwR3dKbWQwXzRnRmtuUEVfcU5CejYwcWthNGNPaE1MRWdzRHdMcDhNZk81bV9vWkJkNlNjMGhCQW1qU0ZoMmMzTG9BNWI5Zk1rRG4tNnp0bkVsY2tLYW93WDJocUFGWjlMYkRtYkdqWTA5VkR4TnQ5bDRod2lLV29Xa2JTem93bVEwcGFPLVJBa3h1ZnZibThfVmg1eEZmcC1IVmRPMExqU2ZxaTROVWRhX3BveGFyR04zZHgtSU1XX3Q0UXJmaXViOW8xSV9VaV9IT0xIeXNUNjVjRUxVS0tR?oc=5"
     },
     {
-      "title": "美股4大指數全收黑！晶片股領跌 道瓊重挫1153點、費半跌逾5.3% - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPQkxuanRYWk5NZlUwOVY3QXhwbHp3WnI5R3Vfc3lsM1NlcFVYOW5hREh0V0o4SjJ3U04zWGlfLVFEZW5zQnRnNml6aE5BclFXTGZNYjNaRF9fTzMtT240T3NtOW1DRWZ5TmlrMHVVam9SUjNlcDZyckRuMzB5MHI3OFFvSmVaOF9GTWNjS0RlTVhxLTNvczY3aG1sVWs5cGlKV3hoZzNkRjNfdllfdWF4TDlCcmVxN3dQTWFaOG1GakNValk1OXA0dzlGM0lzTXlEZVlpQl9NWHlGOVhWUkgxeWtCTFYyMmV0NDF0d0ZCdllYajVhQ0p0c2p4Y0tOS1pwN29kTGRPLUdXNUlyRVRaZXJrLUhfMldmdWVLRjNRWm80WjMxYTRfWDBJSDV1ZFRuaG9qaUFDY1kzM3hXZlBOWVRmMkRKaW1Iamg5ay1ZcUM3UGtwTGYtY3A2RjVTaEdVd21wNkdxMDlLUQ?oc=5"
+      "title": "天下晨間新聞：美股又吃土！費半狂跌5.3%，Fed說了什麼？Meta、微軟誰在放火？ - cw.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvc3ltcTZyZkpuMG1FYVBVMTRsVWp5X3dleTFIOS0yTXpnZTZYOFdIQmVLTE8xcVRVNk9DZjdLeklycGZHWjVmb0pKMnVEQQ?oc=5"
+    },
+    {
+      "title": "美股收盤》Fed利率不變！道瓊挫逾1100點 台積電ADR跌4.50％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Za2w2VU1aTEh6RWVyeDNIekpnN014Y2w4U0JJREk4SjJ4anJfUHNnMHA1a245czNFM0NxakU0WjhGUmtlYlRfZG1fQ1pHQjRqU1k4SUhCaGFiSWVQOEsw?oc=5"
     },
     {
       "title": "美股早盤下挫　市場等候聯準會決策及科技業財報出爐 - 經濟日報",
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10cjFrdnd4Q3NDcXhiUnZKeXhtMHk0cEREMzd3U0Fkbzh2ZnFlc3NfTjJ2MHVwYzk2OUVZQlZwbllpRkg5cWtSRmRWR2NmdGs?oc=5"
     },
     {
-      "title": "AI泡沫要破了！美股費半跌超5% 台指期夜盤收黑683點 - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNSXhlTEcyQjYtNl9vcFY2SHlvWk0yUkh2VmR3QllnYW1ORGVISnA5MkZuUXoza3R5eGpQQjc2T3dVU1p3aVlFaWh3TXAtWFJVaGNkMXNUSHFJOXFnUV9Eakl4NnpIbHpfRHJHREJOOFdkR1NBTXBwT3FyWkNGS3dManZqSEdWbE16cnFGVWUtMjhGRm0yN1RXTHVuSjFiRlItMl94a3BaV0JNU1Vtam9QVmRzOHNSQ19nbFoycXJ5a2VFZXVkYkQyVi1ncFhORkxlZk5GT0wzd05CZnVnSlJwa3BXcUtxdVZ6ZE85VWM5VHpZcTl5ZmxZM25DTmlOc0RGaFU1RGM4WjJ6TlVYSUs4LURVSkxUeG1ReWpwMDJaVEdDZlpUcWhzSVJHRERUOVNnNWJUT2FQeU5kaFBxVy1lT0FFYTVXT2lrUm51dVFnNVhyenQ0d3c?oc=5"
-    },
-    {
       "title": "美股｜Fed釋鷹浪 道指狂瀉1,153點 費半挫逾5％ 美光慘崩10％ 台積電ADR跌4.5％ - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jeE9ZRGQtYTh3YjVSYlVuSUJ4YkFwaldSb2dEQkNHOF9HZC1mMUNScWhaczljWWhxeHpJRDVDTFpfZEp4VmJSZ3MxSTdrT3owbzYybE9zTENHdklOM3l3?oc=5"
     },
     {
-      "title": "天下晨間新聞：美股又吃土！費半狂跌5.3%，Fed說了什麼？Meta、微軟誰在放火？ - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvc3ltcTZyZkpuMG1FYVBVMTRsVWp5X3dleTFIOS0yTXpnZTZYOFdIQmVLTE8xcVRVNk9DZjdLeklycGZHWjVmb0pKMnVEQQ?oc=5"
+      "title": "快訊／美股開盤道瓊「大跌500點」 3大指數齊跌 - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KaEtFZjdqSjJrT1QtM2lYNV9sc3pnX3BmOTVELW8zZ2hqVmVfSkpaSkc2dExhNlNzcjBaV0xiZnJzVnZrXzdTRkpKS3ZBU2FtMEpzcGVqZw?oc=5"
     },
     {
-      "title": "快訊／美股開盤道瓊「大跌500點」 3大指數齊跌 - news.ebc.net.tw",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KaEtFZjdqSjJrT1QtM2lYNV9sc3pnX3BmOTVELW8zZ2hqVmVfSkpaSkc2dExhNlNzcjBaV0xiZnJzVnZrXzdTRkpKS3ZBU2FtMEpzcGVqZw?oc=5"
+      "title": "《貴金屬》COMEX黃金下跌0.1% ETF持倉減少- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONm9VU0twV3V0T0pOYzFneGphMXA0R1ZtbmNyOG5fZk9VM0tSUkMxeElkYkVaQmJ3N3NERUs3VDR6ZDlIenZTUFhJNV9RRTV1MnE2akp4S3luM25sUjFFRGpyTHExNVk1bVFxQlpYOFBCMjgyY3BxU0UxdUttdmFMa3BlNTJiSTJlSGdlRWhrQmVBQQ?oc=5"
     }
   ]
 }
