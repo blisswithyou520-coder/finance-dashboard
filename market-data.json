@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/30 23:25",
+  "updated_tw": "07/31 01:00",
   "taiwan": {
     "2330": {
       "price": 2205.0,
-      "change": 5.0,
-      "changePercent": 0.2273
+      "change": -75.0,
+      "changePercent": -3.2895
     },
     "2454": {
       "price": 3235.0,
-      "change": 85.0,
-      "changePercent": 2.6984
+      "change": -80.0,
+      "changePercent": -2.4133
     },
     "2317": {
       "price": 229.5,
-      "change": -7.5,
-      "changePercent": -3.1646
+      "change": -8.5,
+      "changePercent": -3.5714
     },
     "0050": {
       "price": 93.5,
-      "change": -0.2,
-      "changePercent": -0.2134
+      "change": -3.65,
+      "changePercent": -3.7571
     },
     "00878": {
       "price": 30.75,
-      "change": -0.16,
-      "changePercent": -0.5176
+      "change": -0.75,
+      "changePercent": -2.381
     },
     "00919": {
       "price": 28.25,
-      "change": -0.25,
-      "changePercent": -0.8772
+      "change": -0.64,
+      "changePercent": -2.2153
     }
   },
   "us": {
     "NVDA": {
-      "price": 193.84,
-      "change": 3.83,
-      "changePercent": 2.0157
+      "price": 193.395,
+      "change": 3.385,
+      "changePercent": 1.7815
     },
     "AAPL": {
-      "price": 331.451,
-      "change": -6.739,
-      "changePercent": -1.9927
+      "price": 331.71,
+      "change": -6.48,
+      "changePercent": -1.9161
     },
     "TSLA": {
-      "price": 305.05,
-      "change": 6.73,
-      "changePercent": 2.256
+      "price": 306.31,
+      "change": 7.99,
+      "changePercent": 2.6783
     },
     "QQQ": {
-      "price": 678.86,
-      "change": 17.13,
-      "changePercent": 2.5887
+      "price": 681.46,
+      "change": 19.73,
+      "changePercent": 2.9816
     },
     "SPY": {
-      "price": 735.27,
-      "change": 5.81,
-      "changePercent": 0.7965
+      "price": 739.36,
+      "change": 9.9,
+      "changePercent": 1.3572
     },
     "SCHD": {
-      "price": 33.105,
-      "change": -0.725,
-      "changePercent": -2.1431
+      "price": 33.276,
+      "change": -0.554,
+      "changePercent": -1.6376
     },
     "VOO": {
-      "price": 675.84,
-      "change": 5.21,
-      "changePercent": 0.7769
+      "price": 679.63,
+      "change": 9.0,
+      "changePercent": 1.342
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64697.22,
-      "change": 789.052,
-      "changePercent": 1.2347
+      "price": 64756.84,
+      "change": 848.672,
+      "changePercent": 1.328
     },
     "ETH": {
-      "price": 1916.92,
-      "change": 8.401,
-      "changePercent": 0.4402
+      "price": 1917.3,
+      "change": 8.781,
+      "changePercent": 0.4601
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.431,
-      "change": 0.0672,
-      "changePercent": 0.2076
+      "price": 32.407,
+      "change": 0.0432,
+      "changePercent": 0.1335
     },
     "JPYTWD": {
-      "price": 0.2013,
-      "change": 0.0038,
-      "changePercent": 1.924
+      "price": 0.2009,
+      "change": 0.0034,
+      "changePercent": 1.7215
     },
     "EURTWD": {
-      "price": 37.385,
-      "change": 0.5326,
-      "changePercent": 1.4452
+      "price": 37.399,
+      "change": 0.5466,
+      "changePercent": 1.4831
     },
     "CNYTWD": {
-      "price": 4.8081,
+      "price": 4.8053,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4148.9,
-    "twd": 4326.0,
-    "tael": 162224.0,
-    "twdTotal": 134553.0,
-    "changePercent": 2.8304
+    "usd": 4168.3,
+    "twd": 4343.0,
+    "tael": 162862.0,
+    "twdTotal": 135082.0,
+    "changePercent": 3.3113
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STzJmaTYya1BmV09iWnE3aUZqQzRGeHREMjNIbnFIMHNNTXNhMzFTOXBOZEdjTWtTajVvTDB4TmtIbVAyOXctTmZMdTktdFpk?oc=5"
     },
     {
-      "title": "〈美股早盤〉微軟財報送定心丸！主要指數開高 台積電ADR漲逾5% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53QXMwZERldVFNb2d6LURhbVNwTzl6VE5tajJVMmdweC1iamhSUnBPLVBHc2JpN2pqeXZGS1FqR0FtNUppdEI3cUlhaTk2bEk?oc=5"
-    },
-    {
       "title": "市場信心大反攻！美股狂歡模式開啟 台股夜盤暴拉800點 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPSjNLdGs0V0ZRQW80eUJiNU13bVZDUmxHVHJRNUpmSUZGYkZPenRxNHNXdWJOWmpZMnVBTF8tYXRWOGE1dXFCYUU5TEtUSENxazdpOW1YekFtallHM0xXTEhFSXNzalN5UGlTRm1pU2hHTHFSR2Y0b3Z2VzFJMDE3ZVRlaGJESllrM0ZOa182dzJyUl90OTBtOVNRR3N3Nlhtbm5wTl9uVUtnM183b0oxT1F0M2FlcmFWLUdWYy1QV21zcVVQdFNfX1FwcDZHV09iTHpIbGpuMTVwYWdQVHU1dGtNc0g5NnNoOGo1elFuUXIzTG5EQjRQejZ4Yzd0ZUg4alBVdkNyUzkteXZMcHZEaDc0c2hUUTBuQXZTT290b2hTWmJBdnFwSDFfbkxTeTlrYS1CdG5MSHR1dlJNdEJmMC1UbnBfdnU3cTBCVDBtQ3lTZGNVTXhCYmVCQlp6ZDZYUGc?oc=5"
     },
     {
-      "title": "【0730台股盤後】FOMC 鷹派訊號衝擊科技股評價下修！台股大盤小跌 105 跌破四萬關卡，投本比排行:【景碩、大成鋼、欣興】 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMihgVBVV95cUxOVFlUYk9vQ3JyMmNaTmhkOUN4Q1Z1ZmloMllVN3R0bDNEa2c0V2ZCMkI5Z1l2SDhoTlNoMktIamY1SGVrZmJKcEJ5YVpMQlRuMHVnNjY5ZkZVOU1QRHNZOUV5LWc0aHVTNHN5Sjc2dzhjNjBEZC1RMTIyZDRqV3dsY1dVUTFJb3ZXU28yc2s0d0p2YmtTUTE2Nkd4ZE81QXktSXYtNVhyQVBGXy1mcUxqN0UwSlJDZ1RiUzRESFBETTh3TlZFNXJBbHc3N0stNmlleVpNcmxkZGFrOGpUdDVEMzE0ckotNl9jOHJRS2l1djRYN25kaFNjTkZSZmtsQkpkazBsYUdJaEhtVlpLQXhxQXQ5SFNRUjctNDFFZS1oUkNKVW93MkUxc1Z5UzRlQkY4eXJxZ3hMMVFZYjNqVmM4T0lBaEVGQWtjNEdvYzFUZFg1UGlHYjgyUm1HX3g2bGZNM0NLX2FMNGoxQXZHZmRXRkVmN2o5TUVMa0NKMllIR3FmNWp1WGpwNkVDN3BPTnotWGRYX04ya1ZkclZGejI0M0txS2F3N0lILVczU0QwYjdtY1REMk1qQ1lDQjdHQS1pSTh4ekkyYWpIQWJXSkYzMFpoRi1ocGRadlpNVThSLUFwbGFEVFE2MVBWSHQ0VHVtc3pfZ0NwZ0psWkpZY282T29qSFF0MTAxLWlCU19YZXVWclk4WUJESlNfSlZ1eDRRNHVXMFRqcGtRYXQwVEVRaUlmMVBIZU9KbUE4amtTOXRiS2NyOVdYQlo4WHJZNjFMN1Z0R1JDZGtHaTZQcllYN3lVZ3Y5R0JvOW1keWM0WE5JM0syVHl2c09BNTMyLTI0cVVzbUV3?oc=5"
+      "title": "〈美股早盤〉微軟財報送定心丸！主要指數開高 台積電ADR漲逾5% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53QXMwZERldVFNb2d6LURhbVNwTzl6VE5tajJVMmdweC1iamhSUnBPLVBHc2JpN2pqeXZGS1FqR0FtNUppdEI3cUlhaTk2bEk?oc=5"
+    },
+    {
+      "title": "費半大跌該恐慌，還是分批布局？3 個問題判斷該不該進場｜美股評析｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNY2hQM3gxZ3ZhOVRYblg2Qm5wYXc4OGVsNUFHcXJtbDBoSnd1WHpqeU80Zlp0dUs1cS15a096eHBjRzEwTDNHeFc5Vjd2cDQtTzA1VXdfUjVEc0Fpd1pNVTQyR09uV250aFJrRjVUc2Z3bngyc0tjemhMUWozNDhVWWJpdkxNUlhIbHVndlNNbUt2SWtmekVOY0R6QXN0NWtMNnVfNVRPcFFldE8zMFdSVUhaazhXa1VSbkI5MTlGQjJ6M0pycWp6clBSSklYeFRINjhGUE91aUtFREc1OGVNTlQwZGNUYm14Q0lrb2hTMm1ZNFpkYkt0bW1DRkhjMjY0MklPeXdBYzVaSjI5clRKNzFaTXNLRVNZbV9hbFBmLTJ2bkV6X1ZlaUJVVEVmd25fTjVvUWNvZVF5Rk9fMUtKcE9qMmtfLW5yTkdEV1FvbTlfNjhpa0tsSTBrRk1tZjVtQzI1SDIzRlEwWVVoUjFxMWZLcEk5NEZaZ0NmenBmMlVBRXYyc1k0UXgyRGtjT05WODc5VFE1UEppR19CUG5yTmpvOUdWTHNyMXBMR0owUGpzS3RIMTN2aENVSXZ6Q2VVWDhqMkp3OA?oc=5"
+    },
+    {
+      "title": "微軟與晶片股帶頭 美股絕地大反攻！台指期大漲近2％ - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04VVRzSTlqcnZtWVhodDh2ckoyYjFOV2xiS3RGYlZOWkJ5OVlCR2lid3BIOTZjSVJBM3A5d1l6cXRKNHg4WkZlSUtVeEo0RVFnMXhiNGttdGxDTFNDVE53?oc=5"
     },
     {
       "title": "民營黃金巨頭公告：海外大礦黃金當量大增超100噸 | 盤後公 - capitalfutures.com.tw",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcGc1RThDQkZRajNIZk05cUZOdTQwd3VQVEVrX2RqYkFpQnV6ei0yQUM5bURPMzdKVlBFTTJ1c2ItelpGeXMxOFE1UTQ4R2twZVltaWtHU2V6b1BvZXMwbWVPRVVXeXlhRUhvb1dJQWJzaEhqcm9VYThuYmlmVG1pUDV6YnR2WVNWSGdkdmJxQQ?oc=5"
     },
     {
-      "title": "快訊／科技股利多來了？美股開盤費半噴漲560點 台指期夜盤勁揚792點 - 三立新聞",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQOHJqNmpvVTQwc0JnUEVVZ1JOUDgydUtSUXRVV2g3WkdSX0ZOdHJROUFuRzJpeldYMWp3eVlhYVNjUmdpLWRHb3JSbw?oc=5"
-    },
-    {
-      "title": "黃金急拉衝高！強勢翻紅 背後原因曝光 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LeDBsNUJRUmktb1M3dWZLTFdxckJpRkpaZmxyVFppY2F2bGkxMkhnTUg5TW0yeHNSTTFHRFFDTXVMM1pLWkhZeUZ6Y25WaTgxdHV5UkZpNDVwQVZ5Tmpz?oc=5"
-    },
-    {
       "title": "台股盤中一度衝高千點 終場跌105點失守40K - 公視新聞網PNN",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DYXZ4N1VZeFpndFl5TmVZTHcxZGU2ZTV6cUxOQ2dHZE1QMmdESmt4dWdWckc4TEVWdjFrbzVjQXpfQzRrRmlETTRTcXBqdGM?oc=5"
+    },
+    {
+      "title": "快訊／科技股利多來了？美股開盤費半噴漲560點 台指期夜盤勁揚792點 - 三立新聞網SETN.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQOHJqNmpvVTQwc0JnUEVVZ1JOUDgydUtSUXRVV2g3WkdSX0ZOdHJROUFuRzJpeldYMWp3eVlhYVNjUmdpLWRHb3JSbw?oc=5"
     }
   ]
 }
