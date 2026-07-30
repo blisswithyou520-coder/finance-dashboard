@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/30 17:42",
+  "updated_tw": "07/30 19:33",
   "taiwan": {
     "2330": {
       "price": 2205.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64514.46,
-      "change": 606.292,
-      "changePercent": 0.9487
+      "price": 64475.73,
+      "change": 567.562,
+      "changePercent": 0.8881
     },
     "ETH": {
-      "price": 1916.31,
-      "change": 7.791,
-      "changePercent": 0.4082
+      "price": 1916.48,
+      "change": 7.961,
+      "changePercent": 0.4171
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.524,
-      "change": 0.1602,
-      "changePercent": 0.495
+      "price": 32.495,
+      "change": 0.1312,
+      "changePercent": 0.4054
     },
     "JPYTWD": {
-      "price": 0.1968,
-      "change": -0.0007,
-      "changePercent": -0.3544
+      "price": 0.1972,
+      "change": -0.0003,
+      "changePercent": -0.1519
     },
     "EURTWD": {
-      "price": 37.313,
-      "change": 0.4606,
-      "changePercent": 1.2498
+      "price": 37.306,
+      "change": 0.4536,
+      "changePercent": 1.2308
     },
     "CNYTWD": {
-      "price": 4.8201,
+      "price": 4.8152,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4120.0,
-    "twd": 4308.0,
-    "tael": 161556.0,
-    "twdTotal": 133999.0,
-    "changePercent": 2.1142
+    "usd": 4138.0,
+    "twd": 4323.0,
+    "tael": 162117.0,
+    "twdTotal": 134464.0,
+    "changePercent": 2.5603
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股受Fed未升息影響全面收黑 台股4萬點關卡來回震盪 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByNVBQNVRNVUlVU2VCZkQ0QmlCLXhmZjVLYnAtN0FuRmM3V2tyUXdPMGNteUVpOUwyLXgxanRIelA0RjRLdmpkdm4zaVAwLVE?oc=5"
-    },
-    {
-      "title": "美股法說MSFT｜微軟財報大爆發！獲利超預期盤後飆漲8%！Azure年營收突破千億美元，有望帶動廣達、緯創行情(MSFT US)｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxQR1dJUUZuSXBuVW9XRUc3M29uSUhxU3F2RWlZM3lxMms4YlFlV3NtWDF3YTdBOG1QcjlsZGtfMnlwd3Y1MkdjQ0lKbnVQS3dIRXByV0NGc3lMV2ZIYnhsc181UW9RVEFMSDRPNHdfcUZVYzU1Rm9CZWtJVGJYSE9WaS1YMFlBbnFjZ0FPd1dHT0F6SHZLNXJFTEpOa0NIM0xjbnFFX0U5Y2JPZHJpWHlJLTRTeVlkYU16VVdGZzZWTnp2aGszRFQ5Tk5TcGp2ZVVTYXpfbEVnMVloc1pySF9ORlMtbnJTUGJsWG9fZGtGT29kLV9uOUV0TXhuRGVRVEdJdlRwMzN4RXlXdnR0UTdfTGtvVV9JelM4akRqaGk0aXNOR0F4c1FyYmo1OFMxeDRLSTU2cVRCMHR2ckhuaEp6Q0x3NWd5VnhBT2ZHbUJMdndlYXBEZzFUbnB0VkZabW5sZnFpczdSQnJxMVdKYTBlbmJTNmtmY1JRdjdfS0FPbHV4OEQ4eWhZVU5zSVJDT29VY0RURDcyM3o3NTRJTUVpSXQ5MzItRWlPVUZBVTZSa0hhNG5DZ3lZSkRET3FQdWRfUjhSUnRaallTemZjM2ljN1FEUUpvY2dNMGdaZ3BKQ0xTMmF6RU4wZzJpNlRZMEJkcGRLdDNvRHk1X2p2MVZKNnVDaGM3d0NoanFHVXVHXzNpX21RdmFHVmIzZ1NhR0JOTkZNWGVYSjBHMGFkTDZVMEhkVjNoQk9FLVdxdnZ6U2pPaTVqLXRiTG9vUFNOa0YxY3NucUZBdmE5T2ZXc01WTHE4R2FEX3JEODZFRHllWmJKaV8xYlE?oc=5"
+      "title": "AI真的泡沫化了？美股「道瓊崩千點、費半下挫5%」 台積電ADR跌4.5%、台指期夜盤失守4萬關卡 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNWXJNdVJWS3dwT2FNcm5JN3U4b0gzTEUydDVrTmJQbnR3Y0ZwaVd2bGRsb1NvaWU5YmhlNHdoMy1ZQVBYU2k4anlwOUJiVi04TXp0Q3lvNG1UWmNSa0Rpbl85R0NrQmd1cUZiSHN0OW0tRVR0SHVTcEFnNmJFWERqSXU1OXcwY21GbmltdEhwR3dKbWQwXzRnRmtuUEVfcU5CejYwcWthNGNPaE1MRWdzRHdMcDhNZk81bV9vWkJkNlNjMGhCQW1qU0ZoMmMzTG9BNWI5Zk1rRG4tNnp0bkVsY2tLYW93WDJocUFGWjlMYkRtYkdqWTA5VkR4TnQ5bDRod2lLV29Xa2JTem93bVEwcGFPLVJBa3h1ZnZibThfVmg1eEZmcC1IVmRPMExqU2ZxaTROVWRhX3BveGFyR04zZHgtSU1XX3Q0UXJmaXViOW8xSV9VaV9IT0xIeXNUNjVjRUxVS0tR?oc=5"
     },
     {
       "title": "美股收盤／華許抗通膨決心遭質疑 長債殖利率急升 道瓊跌逾千點 費半再摔5.3% - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoZktJd09qX2Q2TFh3b2hzWXlLWmdnbnVCMXNXZDN4blhqVXZjRjRnYmYwZGlKS09KbTBPcERPQVBkN2lUZnFPaXRaT0FRRW1EVmhyLUVqdXlEOFdm0gFiQVVfeXFMUFBMbFpIZk5ZTlhfX0VGS0JNckVjZW45TzhnZ1g1WHZCNmpRUjBrcEtnc29HaEZmWUJwczZpUEZqYkktRFoycDFNX3dDdXJVSVhFTFpud3RPTmhKbjY1XzVyWWc?oc=5"
     },
     {
-      "title": "AI真的泡沫化了？美股「道瓊崩千點、費半下挫5%」 台積電ADR跌4.5%、台指期夜盤失守4萬關卡 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNWXJNdVJWS3dwT2FNcm5JN3U4b0gzTEUydDVrTmJQbnR3Y0ZwaVd2bGRsb1NvaWU5YmhlNHdoMy1ZQVBYU2k4anlwOUJiVi04TXp0Q3lvNG1UWmNSa0Rpbl85R0NrQmd1cUZiSHN0OW0tRVR0SHVTcEFnNmJFWERqSXU1OXcwY21GbmltdEhwR3dKbWQwXzRnRmtuUEVfcU5CejYwcWthNGNPaE1MRWdzRHdMcDhNZk81bV9vWkJkNlNjMGhCQW1qU0ZoMmMzTG9BNWI5Zk1rRG4tNnp0bkVsY2tLYW93WDJocUFGWjlMYkRtYkdqWTA5VkR4TnQ5bDRod2lLV29Xa2JTem93bVEwcGFPLVJBa3h1ZnZibThfVmg1eEZmcC1IVmRPMExqU2ZxaTROVWRhX3BveGFyR04zZHgtSU1XX3Q0UXJmaXViOW8xSV9VaV9IT0xIeXNUNjVjRUxVS0tR?oc=5"
-    },
-    {
       "title": "黃金急拉衝高！強勢翻紅 背後原因曝光 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LeDBsNUJRUmktb1M3dWZLTFdxckJpRkpaZmxyVFppY2F2bGkxMkhnTUg5TW0yeHNSTTFHRFFDTXVMM1pLWkhZeUZ6Y25WaTgxdHV5UkZpNDVwQVZ5Tmpz?oc=5"
+    },
+    {
+      "title": "【0730台股盤後】FOMC 鷹派訊號衝擊科技股評價下修！台股大盤小跌 105 跌破四萬關卡，投本比排行:【景碩、大成鋼、欣興】 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMihgVBVV95cUxOVFlUYk9vQ3JyMmNaTmhkOUN4Q1Z1ZmloMllVN3R0bDNEa2c0V2ZCMkI5Z1l2SDhoTlNoMktIamY1SGVrZmJKcEJ5YVpMQlRuMHVnNjY5ZkZVOU1QRHNZOUV5LWc0aHVTNHN5Sjc2dzhjNjBEZC1RMTIyZDRqV3dsY1dVUTFJb3ZXU28yc2s0d0p2YmtTUTE2Nkd4ZE81QXktSXYtNVhyQVBGXy1mcUxqN0UwSlJDZ1RiUzRESFBETTh3TlZFNXJBbHc3N0stNmlleVpNcmxkZGFrOGpUdDVEMzE0ckotNl9jOHJRS2l1djRYN25kaFNjTkZSZmtsQkpkazBsYUdJaEhtVlpLQXhxQXQ5SFNRUjctNDFFZS1oUkNKVW93MkUxc1Z5UzRlQkY4eXJxZ3hMMVFZYjNqVmM4T0lBaEVGQWtjNEdvYzFUZFg1UGlHYjgyUm1HX3g2bGZNM0NLX2FMNGoxQXZHZmRXRkVmN2o5TUVMa0NKMllIR3FmNWp1WGpwNkVDN3BPTnotWGRYX04ya1ZkclZGejI0M0txS2F3N0lILVczU0QwYjdtY1REMk1qQ1lDQjdHQS1pSTh4ekkyYWpIQWJXSkYzMFpoRi1ocGRadlpNVThSLUFwbGFEVFE2MVBWSHQ0VHVtc3pfZ0NwZ0psWkpZY282T29qSFF0MTAxLWlCU19YZXVWclk4WUJESlNfSlZ1eDRRNHVXMFRqcGtRYXQwVEVRaUlmMVBIZU9KbUE4amtTOXRiS2NyOVdYQlo4WHJZNjFMN1Z0R1JDZGtHaTZQcllYN3lVZ3Y5R0JvOW1keWM0WE5JM0syVHl2c09BNTMyLTI0cVVzbUV3?oc=5"
     },
     {
       "title": "〈美股盤後〉Fed利率連五凍但鷹派抬頭 債市動盪 道瓊急殺超1100點 費半崩超5% - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10cjFrdnd4Q3NDcXhiUnZKeXhtMHk0cEREMzd3U0Fkbzh2ZnFlc3NfTjJ2MHVwYzk2OUVZQlZwbllpRkg5cWtSRmRWR2NmdGs?oc=5"
     },
     {
-      "title": "天下晨間新聞：美股又吃土！費半狂跌5.3%，Fed說了什麼？Meta、微軟誰在放火？ - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvc3ltcTZyZkpuMG1FYVBVMTRsVWp5X3dleTFIOS0yTXpnZTZYOFdIQmVLTE8xcVRVNk9DZjdLeklycGZHWjVmb0pKMnVEQQ?oc=5"
+      "title": "美股｜Fed釋鷹浪 道指狂瀉1,153點 費半挫逾5％ 美光慘崩10％ 台積電ADR跌4.5％ - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jeE9ZRGQtYTh3YjVSYlVuSUJ4YkFwaldSb2dEQkNHOF9HZC1mMUNScWhaczljWWhxeHpJRDVDTFpfZEp4VmJSZ3MxSTdrT3owbzYybE9zTENHdklOM3l3?oc=5"
     },
     {
-      "title": "美股法說 META｜Meta 財報利空來襲！獲利、財測全不如預期，台股伺服器供應鏈廣達、緯穎恐受衝擊？ - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxNM0tveF80Nk56emhmUWoyUEk5VU5NazlDLXJwSjVKaEIwTjF4MFBTLTkxTzZrRUtFZGwtOHBrY2ZNVmpkRWFEckVSdkIzZUh0WWlZQ0dTSkZvMjdmX2hnT3huOUxSTl9jWFRhTjJSMkFETzRrTXN1dkxreEhSVXgzZ3o1RU5wRGhVQ3V4N0hDWFRrSGlQUUVwMW1YOGwtWTdxd09hY25iV0o1TTJNSmoyQkxSaFpzVU1ibVdHaE8yd01INHgtOHh1TGFJcXhSdjMzOUtUVWF4SVcxcFNnU1NfQ0NEd0t1SENCZE91Ry00ZzRBT0h4ZmZocmV2TW5hdWFHNzNzX2tQZmdFdGdiN2ZtNEpYZzdXcE9xNmpVTDhORWttNV9TZE5UcDg4WDcwd29rMFFiWE9MeXpoYl9kVDBteDZ4NDM4c1lhRW40MXFpOWIwcXp0WWN6RkczWFpsWkZHTDRNLVQwUGZQZ1JkRzhDVDJMWmJPSll3TU92dVJjQlM0dEtqSHZkU3N2S1ppemtkMFJPT2pOUURodWNOS2NMNFp2ZEFPQzZCVzhKcThndmlQbkxUSFBoR3l4cFpnSGltMTBvZUVMTktxMURMeVVVTU1lSzU4RXc3UURFdVRsVFhqUlBVaTI2bDRUTGZobnE0aVZ1bUp4VTl6MERPNUM0Rk1hME5WSXcxcElBZmF6X1hSZDc4TzJtWU94b3dmZXFIUHM3VG93dERXWGNSejhCb3FXRFE1Zw?oc=5"
+      "title": "台股假彈真摔失守4萬點！「三王齊漲」撐不住 廣達國巨跌停澆熄多頭｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxPN1ZwNUNDakNLVWVEeS1yOG9vT0VzS3lfS3kwcVBpSUxwelRXdFlRd1J0MHNraEZ3dW1KVDhCblBJSTNQNlVQdnRGYlRVdjdySXhzXzByUDdxWmh4dmhnSFJfeFIxcGx1ZWlYYXRuMUlOSEVKN3BJcUhwQmg5NHVPVTFaU2FrZndwUXZ5TU5oM2JaS2xEVTJRS20weGluamNrN2ljYlFWT2FlV21iajJwTWY5N2lmX3lUYlBRdXQzRGVOakhPWTN1cEF2Znd0Y0ZVbkVmSS04Rl93T05ST1ZRN0t1N3lMYXcxaVZlNmZsN0x5NXMwUEd6TFJlRnNTYmNod0l0Q1JBQUg1UkpBU2xQUlItVmNFWW5keTVpaExQZW9MbkRKLUpTUXhSd0NQM1owMDZUUk0xVURnSGpja3RVNHdLaHZqd3JwamhaR2pmX1ZqUTIzbklDc3hleEFxT1BacmtrTWNzNU80THc0ajZ1Q0JRS0tTYTR5R0V6cEZOR3o1TnBoOFBXZjZkRjdLTWgySUlTbEkySTFHMFdGRTNZZGF5NnVPcW8tTU1kNFNMc0R6aDZpTDZacmU2d1VsQUNSYkRKamVqNUY0Y1p1NGRIUlRHSEpCNVZGb0F2N0tVSUprMmpuVmJ5YV9HNEIyNG9abWNqNm9HLU5NMWxzWFp0NEdLZldZdi1z?oc=5"
+    },
+    {
+      "title": "晶片股拋售潮未止…美股收黑費半跌逾5%、道瓊挫逾千點| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9meXA4cnNfT0VTaUhNSjVQQ1lzWUlvbUdkdGxzRVhiZXB4V0ExeUdfd2dqRlVtUjFiNnp1ekNCYUNNdWFuX3V2aWhhblZjeHot?oc=5"
     }
   ]
 }
