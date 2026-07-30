@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/31 05:31",
+  "updated_tw": "07/31 06:46",
   "taiwan": {
     "2330": {
       "price": 2205.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64685.56,
-      "change": 777.392,
-      "changePercent": 1.2164
+      "price": 64839.59,
+      "change": 931.422,
+      "changePercent": 1.4574
     },
     "ETH": {
-      "price": 1920.32,
-      "change": 11.801,
-      "changePercent": 0.6183
+      "price": 1928.05,
+      "change": 19.531,
+      "changePercent": 1.0234
     }
   },
   "fx": {
@@ -89,27 +89,27 @@
       "changePercent": 0.1363
     },
     "JPYTWD": {
-      "price": 0.2009,
-      "change": 0.0028,
-      "changePercent": 1.4267
+      "price": 0.2008,
+      "change": 0.0027,
+      "changePercent": 1.3763
     },
     "EURTWD": {
-      "price": 37.376,
-      "change": 0.2816,
-      "changePercent": 0.7592
+      "price": 37.394,
+      "change": 0.2996,
+      "changePercent": 0.8077
     },
     "CNYTWD": {
-      "price": 4.8023,
+      "price": 4.8002,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4162.8,
-    "twd": 4335.0,
-    "tael": 162577.0,
-    "twdTotal": 134846.0,
-    "changePercent": 3.175
+    "usd": 4166.8,
+    "twd": 4340.0,
+    "tael": 162733.0,
+    "twdTotal": 134975.0,
+    "changePercent": 3.2741
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,16 @@
   },
   "news": [
     {
-      "title": "華爾街多頭沒力了！高盛：美股短期缺乏上漲燃料 680億美元賣壓恐來襲 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ySHgxNVh1SmpTWnd5ckVwYUo4WXBVT1Q1WXpicnVKczdCMExSLVh4LVcxQ0ZfWGYyV0FBbjJpU0RWVkItcEUwMElHR01pdlE?oc=5"
+      "title": "〈美股盤後〉微軟狂飆近16%締新高 那指終止連六黑 費半暴漲超8% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CYzRfWXBqME5tbWVJT1NpRkZ6Zm5OOGN1azRvY0VnZzgzVU5KdktqWjNxZXpSWS0yTGZPWGs2OS0yZXNFNGFHdi1RQjlTSHM?oc=5"
+    },
+    {
+      "title": "美股早盤／低接買盤湧現 指數齊揚 微軟噴高15% 台積 ADR 勁升 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CLV9NYldvbEJBZm9OZG1yQ2l3S1dnVUMzY3Y1bGpqZzRMaUJnSDBWcngzQTI5Z3ZaVmVnM19RSFl6NGZzcFNGZzRiWGEyb1plUlJtRlhIUHFOb0Rv0gFiQVVfeXFMTi1yZGt1QnVZZExHWDU3VzBjUlZNMTRuVF9NRWdhOWlHNzlBeFdnX2I0TlpWQU5yMWFIZmR2NklwZWdfdElvOU5ISElIVElfQkxrTkVrb1c2ak5BQjVLb0NYR3c?oc=5"
     },
     {
       "title": "快訊／台股有望？美股強勁反彈！半導體領漲 台期指飆破1500點 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQYTZPVV9SZ2l3NUZ5M2k3UGF1ZFkzcEs3alhCYlpvc203bTF6V1c0LTRMaDVkVVFUcUVRU3I3RWo4VWlUR1NwbHgySWw0QUsyeGc3Nm5GbTVRVUhUNFNrb1JtQ3VjNTc3R3pVbmJjYXp6a0FUd182Ulh2eDdDQjJoMXhUVENibXdCWk9oaGFVSVNXTDc5SFZPS3I2UFM2UGVBUjFmX2ZBZk02MmFYcktmUlFxcmZ1RHo1bG1YZ2Q3Q3BDOTF4NXNvRGQyVVRzWDh2bnVWS0lHRlRaU2tucjBvNTNZby1nNUFfYUNEUTdtMUhBd2NlVjg2RUFSTXRuSnNYQ25fNlBQY2JjR3lkYnJyMG53bmYxRVVUTGpGYVhKUm01ZThaMWl1NEFHRVFhbDE1bTZhR1hKSlhkcVVsb3RneW9sb0hPTkhNZkdCNExobEpxX25jX3dZaGoxd0FGUGxQUllMXzBQYkJuNW1lZ3JhemR3?oc=5"
-    },
-    {
-      "title": "美股早盤／低接買盤湧現！指數齊揚 微軟噴高15%、台積ADR勁升 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STzJmaTYya1BmV09iWnE3aUZqQzRGeHREMjNIbnFIMHNNTXNhMzFTOXBOZEdjTWtTajVvTDB4TmtIbVAyOXctTmZMdTktdFpk?oc=5"
     },
     {
       "title": "微軟與晶片股帶頭 美股絕地大反攻！台指期大漲近2％ - 工商時報",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Scll3dnFBMlpUM3EwLXpMMFNiOE5wZW54ZHNqR3MwNU10VmFCR2FJTWRwV0JTVEFURjB5S1ZjeFJoX2dxQlNNcERETlZIVHVLR1HSAVBBVV95cUxQcUZxYmlhYzd6Y1pKWVRybXk3ekE2UU1rUUZsTGxPTnRJZ00zYVRkRUc1Z1BzbHpSSmJORUhUZ1BHWHlmei1MQng0Y0J5N2Fhag?oc=5"
     },
     {
-      "title": "民營黃金巨頭公告：海外大礦黃金當量大增超100噸 | 盤後公 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcGc1RThDQkZRajNIZk05cUZOdTQwd3VQVEVrX2RqYkFpQnV6ei0yQUM5bURPMzdKVlBFTTJ1c2ItelpGeXMxOFE1UTQ4R2twZVltaWtHU2V6b1BvZXMwbWVPRVVXeXlhRUhvb1dJQWJzaEhqcm9VYThuYmlmVG1pUDV6YnR2WVNWSGdkdmJxQQ?oc=5"
+      "title": "台股若失序 國安基金：會適度處理 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XSWYyVFpKUXhZa0p0bVE4dWVRUXJRdnFqZ3gxRFRFQjF6S3lybHhnZTlvbVNUY0gtWDZOb290SnYtRGJlMnR3Zm5MS1VaeTFKVzVRUGxR?oc=5"
     },
     {
-      "title": "快訊／科技股利多來了？美股開盤費半噴漲560點 台指期夜盤勁揚792點 - 三立新聞",
+      "title": "微軟財報激勵美股！道瓊飆613點、台積電ADR漲7.63％ - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzeTh1OXlUc1E5UWRiRFA5U3FRakU0Skd6ZWtDcDJUMWR6T0ZTeUVNdEc3aFkxamJabnF2NHM0T3k0MVp1cEJnaGJtZTZqVUpwaGk1UHRvV0haTWttSmZRVEZDREJqeUl4NVcyX1Jn?oc=5"
+    },
+    {
+      "title": "快訊／科技股利多來了？美股開盤費半噴漲560點 台指期夜盤勁揚792點 - 三立新聞網SETN.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQOHJqNmpvVTQwc0JnUEVVZ1JOUDgydUtSUXRVV2g3WkdSX0ZOdHJROUFuRzJpeldYMWp3eVlhYVNjUmdpLWRHb3JSbw?oc=5"
-    },
-    {
-      "title": "黃金急拉衝高！強勢翻紅 背後原因曝光 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LeDBsNUJRUmktb1M3dWZLTFdxckJpRkpaZmxyVFppY2F2bGkxMkhnTUg5TW0yeHNSTTFHRFFDTXVMM1pLWkhZeUZ6Y25WaTgxdHV5UkZpNDVwQVZ5Tmpz?oc=5"
     }
   ]
 }
