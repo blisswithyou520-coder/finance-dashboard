@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/01 04:40",
+  "updated_tw": "08/01 05:46",
   "taiwan": {
     "2330": {
       "price": 2425.0,
-      "change": 225.0,
-      "changePercent": 10.2273
+      "change": 220.0,
+      "changePercent": 9.9773
     },
     "2454": {
       "price": 3555.0,
-      "change": 405.0,
-      "changePercent": 12.8571
+      "change": 320.0,
+      "changePercent": 9.8918
     },
     "2317": {
       "price": 250.5,
-      "change": 13.5,
-      "changePercent": 5.6962
+      "change": 21.0,
+      "changePercent": 9.1503
     },
     "0050": {
       "price": 102.85,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62922.12,
-      "change": -1803.1886,
-      "changePercent": -2.7859
+      "price": 62987.81,
+      "change": -1737.4986,
+      "changePercent": -2.6844
     },
     "ETH": {
-      "price": 1863.89,
-      "change": -53.4829,
-      "changePercent": -2.7894
+      "price": 1861.09,
+      "change": -56.2829,
+      "changePercent": -2.9354
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.282,
-      "change": -0.113,
-      "changePercent": -0.3488
+      "price": 32.295,
+      "change": -0.1,
+      "changePercent": -0.3087
     },
     "JPYTWD": {
-      "price": 0.2023,
-      "change": 0.0,
-      "changePercent": 0.0114
+      "price": 0.2029,
+      "change": 0.0006,
+      "changePercent": 0.308
     },
     "EURTWD": {
-      "price": 37.286,
-      "change": -0.0453,
-      "changePercent": -0.1214
+      "price": 37.275,
+      "change": -0.0563,
+      "changePercent": -0.1509
     },
     "CNYTWD": {
-      "price": 4.7841,
+      "price": 4.785,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4105.3,
-    "twd": 4261.0,
-    "tael": 159782.0,
-    "twdTotal": 132527.0,
-    "changePercent": 0.1268
+    "usd": 4098.6,
+    "twd": 4256.0,
+    "tael": 159585.0,
+    "twdTotal": 132364.0,
+    "changePercent": -0.0366
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,12 +121,12 @@
       "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxORUhmeTNjM2luVlVxU21TU0Y3WHBwX0owWHh1elotUmR0R1o0WGMtSmhLa2ZJRkFOQzNLT2RzeDJVRm5XOXVkTEJqYjdEOFdqRG1jX05XNjdldlhlaWdlQkJwWEFaLXBkUjhsTGZUUThQZWpaX3IyTS1EV0VDOU1kOHdtRWM5Q2JNSmdrNFZma3MxcjU2ZGxEczN6Y1F6c3RJTENkVi1fUkRsV1dwNjFUamVXclVsQWlUVENCRnNSd1BIcTVyLVo1Zk4xWXNmaDl6N1VVdjdHTkVHakpjd1BVWGRvR1BlcEhCSnk4Mi00TVM3VTdQWGQzS1d1UkUySmNuZ1FsRzA0TzhXSUdnaEk2aGVZYWNYVHBpaEFmN0tVNVB6MEZqTTBUR2dOc1F6V0xSOVVQbWpyU3pmRFEzVTFpbDNCQkc2VFdValM3Y1NhN0dieWZnWHhhblRUXzBLajlieGlnR1FxZWRRN2l4dFVjRGxiNTYwcnFrbGFnR1cyWUh0TWJaNHFRXzVBSXkxM0FUSGkzUllB?oc=5"
     },
     {
-      "title": "美股早盤／4大指數齊揚！費半一度漲5%但「漲幅收斂」蘋果摔9% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56Nk40QmtwU19yWkc4NWpObmpjSzF5WE9Dc2xHUDY5c0dxV0h0cFE5ODNjVGxxVkhST05WTEpiQ2RhY0d6bWhvd3BPTVp1eWFD?oc=5"
-    },
-    {
       "title": "華爾街不再閉眼買美股七雄！AI資金開始大搬家 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGWi1WelBaM0lRel83NzM3cG0tdHI5NkFFUU1CZ1ZiZlB0OU9XalhjWkVrQ1k5WHplaVpXQUk0enNENHZ0dTJma1BJR3JWYTA?oc=5"
+    },
+    {
+      "title": "美股早盤／4大指數齊揚！費半一度漲5%但「漲幅收斂」蘋果摔9% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56Nk40QmtwU19yWkc4NWpObmpjSzF5WE9Dc2xHUDY5c0dxV0h0cFE5ODNjVGxxVkhST05WTEpiQ2RhY0d6bWhvd3BPTVp1eWFD?oc=5"
     },
     {
       "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZbkVzX2hOUTNUdDNXX3dnb1ZnSmJjSFo1dmk0cDk3aVZ1SVdsRkRqLVFzeXNLbTAwUG03TlUtVjdBT3Yza0RHUVpFcXU0a0FpLWtMekhEd0dVdw?oc=5"
     },
     {
-      "title": "財經一週：台股從史上第三大跌點到最大漲點、聯準會分歧下維持利率不變 - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02S001dUtQaERFMno5cDhUVGszbUFibmQzNF8xcDRPaFhLZkZ5VVRXN1V6ZXNfX0VFUHNqNjVmMVd1UzJlc3pfUnEyd2owQQ?oc=5"
-    },
-    {
-      "title": "台股創史上最大漲點！暴衝攻上43k⋯後市法說看「3重點」－經濟日報 - 商周",
+      "title": "台股創史上最大漲點！暴衝攻上43k⋯後市法說看「3重點」－經濟日報｜商周 - 商周",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HcDI3Y01QakhvM2oxZmNtWEdNNVpSMXY0STkyWTk2aEVCeWdJZzNoUU5xSHFmTUgzYU5NbmpfamxwbUVUdVlzeUFULW5fZXNVc3RCb2lick8wY3RrUDBfQXdYclkwQQ?oc=5"
     },
     {
       "title": "台股下周一接炸彈？美股4大指數開高走低 台指期夜盤「自由落體」狂洩逾千點 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPTVRya1haOXNQTVVxZUVYcUZET01YMkdRQ0ZWYjEyM3daZFpWRDNHN0tSaUE5R2FreEtFQ004OHBqaEF5QUgyekZmTGVIR2NwYWJXYUdxRWZnUkhOR1hoRV9fbURFb3pmZ1BsVTRYdlJWM1hRRWxEaFpwUmQ1cU1XbkFvSlEydnBVRFhab3YtSkdnWklIZVFYV19jdmhCaXp5c2YzZWxYYVVlc0tQRGhkVGNJcFBFYnRObWJ5aUtLNjMwTkdpRE1LOHczOVBTMExRSjNua3dtdzVrejBIU1g0NVAtLUhaU2VaTEZwRV9hVkFyZUxuNUtlXzhaTnRQQjhPR1B1cjJQd0ptV1dHb1lKZURJb2VncmFxUFJWVzgwWkMyaGdONHNZV2pqLVdTaThsa3FIWk9iX3BsSzdnSlZkTGNJTEhFVWFLMm5TSGVpQW0xekJqNFkwc1pUZVFoTk9uaXZzLWxQUnlUUnR1R3h1RVFJRUoyV25nckltYXpRQTRoM1hwR2c?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉微軟創全球最大單日市值增量紀錄 那指終止連六黑 費半暴漲超8% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CYzRfWXBqME5tbWVJT1NpRkZ6Zm5OOGN1azRvY0VnZzgzVU5KdktqWjNxZXpSWS0yTGZPWGs2OS0yZXNFNGFHdi1RQjlTSHM?oc=5"
     }
   ]
 }
