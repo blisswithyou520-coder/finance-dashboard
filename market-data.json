@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/01 00:11",
+  "updated_tw": "08/01 01:52",
   "taiwan": {
     "2330": {
       "price": 2425.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 196.51,
-      "change": 1.47,
-      "changePercent": 0.7537
+      "price": 199.55,
+      "change": 4.51,
+      "changePercent": 2.3123
     },
     "AAPL": {
-      "price": 301.37,
-      "change": -32.06,
-      "changePercent": -9.6152
+      "price": 301.155,
+      "change": -32.275,
+      "changePercent": -9.6797
     },
     "TSLA": {
-      "price": 307.87,
-      "change": -0.98,
-      "changePercent": -0.3173
+      "price": 311.25,
+      "change": 2.4,
+      "changePercent": 0.7771
     },
     "QQQ": {
-      "price": 684.84,
-      "change": 1.29,
-      "changePercent": 0.1887
+      "price": 689.235,
+      "change": 5.685,
+      "changePercent": 0.8317
     },
     "SPY": {
-      "price": 743.26,
-      "change": 1.57,
-      "changePercent": 0.2117
+      "price": 745.75,
+      "change": 4.06,
+      "changePercent": 0.5474
     },
     "SCHD": {
-      "price": 33.395,
-      "change": -0.015,
-      "changePercent": -0.0449
+      "price": 33.405,
+      "change": -0.005,
+      "changePercent": -0.015
     },
     "VOO": {
-      "price": 683.151,
-      "change": 1.361,
-      "changePercent": 0.1996
+      "price": 685.498,
+      "change": 3.708,
+      "changePercent": 0.5439
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62806.56,
-      "change": -1918.7486,
-      "changePercent": -2.9644
+      "price": 63172.49,
+      "change": -1552.8186,
+      "changePercent": -2.3991
     },
     "ETH": {
-      "price": 1862.58,
-      "change": -54.7929,
-      "changePercent": -2.8577
+      "price": 1875.8,
+      "change": -41.5729,
+      "changePercent": -2.1682
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.302,
-      "change": -0.0469,
-      "changePercent": -0.145
+      "price": 32.265,
+      "change": -0.0839,
+      "changePercent": -0.2594
     },
     "JPYTWD": {
-      "price": 0.2006,
-      "change": 0.0025,
-      "changePercent": 1.2753
+      "price": 0.2016,
+      "change": 0.0035,
+      "changePercent": 1.7801
     },
     "EURTWD": {
-      "price": 37.231,
-      "change": 0.1366,
-      "changePercent": 0.3683
+      "price": 37.265,
+      "change": 0.1706,
+      "changePercent": 0.46
     },
     "CNYTWD": {
-      "price": 4.7866,
+      "price": 4.7837,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4100.3,
-    "twd": 4258.0,
-    "tael": 159686.0,
-    "twdTotal": 132448.0,
-    "changePercent": 0.0049
+    "usd": 4106.6,
+    "twd": 4260.0,
+    "tael": 159748.0,
+    "twdTotal": 132499.0,
+    "changePercent": 0.1585
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
     },
     {
-      "title": "台股漲逾3千點創盤中最大漲點 市值單日增逾9兆 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HT1ZsN0k1TDNzRVVBTGZkUHFyQnNTakxFYUdSRW02OXF4T1d0eHpzM2xKWXVMeHgzbE5YWEZsdmQ5dEtpcC1PcWZhcFB5RTQ?oc=5"
+      "title": "美股前市重挫！這些股票大幅下跌，Karyopharm驚現67.6％崩盤！ - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRbmRvcGw4Z0p2X0pMaFNycTdvM251bXRqUWdza0h2MDNqOXRjd1dQSEdLdTZtd01EenR0M3piOUVSR1BhbFN5VVRZY2ZNdkdmQzFVRExYaVFuekJTMmV3dF9GbUpwUms?oc=5"
     },
     {
-      "title": "〈美股盤後〉微軟創全球最大單日市值增量紀錄 那指終止連六黑 費半暴漲超8% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CYzRfWXBqME5tbWVJT1NpRkZ6Zm5OOGN1azRvY0VnZzgzVU5KdktqWjNxZXpSWS0yTGZPWGs2OS0yZXNFNGFHdi1RQjlTSHM?oc=5"
+      "title": "台股漲逾3千點創盤中最大漲點 市值單日增逾9兆 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HT1ZsN0k1TDNzRVVBTGZkUHFyQnNTakxFYUdSRW02OXF4T1d0eHpzM2xKWXVMeHgzbE5YWEZsdmQ5dEtpcC1PcWZhcFB5RTQ?oc=5"
     },
     {
       "title": "財經一週：台股從史上第三大跌點到最大漲點、聯準會分歧下維持利率不變 - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02S001dUtQaERFMno5cDhUVGszbUFibmQzNF8xcDRPaFhLZkZ5VVRXN1V6ZXNfX0VFUHNqNjVmMVd1UzJlc3pfUnEyd2owQQ?oc=5"
     },
     {
-      "title": "今天進場的完蛋？台指期夜盤暴跌千點 美股漲也救不了 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPT3I1em9XSHh4QXBYN1p5aVpQYTNuVGdqZW1fUUZYRDJKdWRkUUFvZHJvU2hxY3VNUWUyWDVOdGNFcnRKalNtUXh1Qkd5TGEyOHR0eGU3WHZTdld4RDFMbjh4YTN5a1B5R2hqLTNVWVhmOV9rR2U0NE9TM1cyVVpQdHhzNHctU0hORU9NOHRsYksxVTBKSHhvclVhT3MwSDhMZnhRME1KcjlDWFNaVjl2VEsyVHZEMU0xU090SkxERTc3M1o1MXhzenNiaElVM2Q0bG1pSHNWQ0xNUGlPalVsWFl6SGdWcFpwUmlpU3Y3bHlvZFUyOGVmOXI3ZE1fYlhmcWN5X0M1bUZ0ZkhCZVJYMFRnejNXN21ZRFZaTnpUdHVia1Awc2lRX2NzU1QxMmEzbk9JRGU2aWtYU2xIQTVvbGx4c1BTNHZfVWt2VXRHbXFLR0Z4eF9neDZLR21Ma3BtQ1lsMXg5dTMtUQ?oc=5"
+      "title": "〈美股盤後〉微軟創全球最大單日市值增量紀錄 那指終止連六黑 費半暴漲超8% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CYzRfWXBqME5tbWVJT1NpRkZ6Zm5OOGN1azRvY0VnZzgzVU5KdktqWjNxZXpSWS0yTGZPWGs2OS0yZXNFNGFHdi1RQjlTSHM?oc=5"
     },
     {
-      "title": "台股比美股賠更大？他曝最大風險被忽視：想停損無法出場| 台股雜談| 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIN1R2c04tU1ZCMzdod3E0YlMxV3dkdGVreURGSHpKeVM3MjhjVE43MzI3bzVNdGVfSFprMGl4Z2d0cko4LVdTMjBRNUMwcmxaSnc?oc=5"
+      "title": "台股飆漲3186點創紀錄總市值激增逾10兆元| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OaGRKaEFPeFRnay1DRWxtZmxkNDVrZ3JVczhIcnBQV2QxZWljdVoxS19pdzA2c2wtYVJBSVk4YmhwQ1MyUE1rZFpYYzdfZGFkMjJDWXoxVTRwRTMwSnc?oc=5"
     }
   ]
 }
