@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/01 03:22",
+  "updated_tw": "08/01 04:40",
   "taiwan": {
     "2330": {
       "price": 2425.0,
@@ -35,68 +35,68 @@
   },
   "us": {
     "NVDA": {
-      "price": 200.98,
-      "change": 5.94,
-      "changePercent": 3.0455
+      "price": 200.75,
+      "change": 5.71,
+      "changePercent": 2.9276
     },
     "AAPL": {
-      "price": 305.02,
-      "change": -28.41,
-      "changePercent": -8.5205
+      "price": 308.91,
+      "change": -24.52,
+      "changePercent": -7.3539
     },
     "TSLA": {
-      "price": 311.03,
-      "change": 2.18,
-      "changePercent": 0.7058
+      "price": 311.21,
+      "change": 2.36,
+      "changePercent": 0.7641
     },
     "QQQ": {
-      "price": 690.18,
-      "change": 6.63,
-      "changePercent": 0.9699
+      "price": 687.99,
+      "change": 4.44,
+      "changePercent": 0.6496
     },
     "SPY": {
-      "price": 747.909,
-      "change": 6.219,
-      "changePercent": 0.8385
+      "price": 747.03,
+      "change": 5.34,
+      "changePercent": 0.72
     },
     "SCHD": {
-      "price": 33.515,
-      "change": 0.105,
-      "changePercent": 0.3143
+      "price": 33.47,
+      "change": 0.06,
+      "changePercent": 0.1796
     },
     "VOO": {
-      "price": 687.42,
-      "change": 5.63,
-      "changePercent": 0.8258
+      "price": 686.65,
+      "change": 4.86,
+      "changePercent": 0.7128
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62996.72,
-      "change": -1728.5886,
-      "changePercent": -2.6707
+      "price": 62922.12,
+      "change": -1803.1886,
+      "changePercent": -2.7859
     },
     "ETH": {
-      "price": 1868.29,
-      "change": -49.0829,
-      "changePercent": -2.5599
+      "price": 1863.89,
+      "change": -53.4829,
+      "changePercent": -2.7894
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.296,
-      "change": -0.0529,
-      "changePercent": -0.1635
+      "price": 32.282,
+      "change": -0.113,
+      "changePercent": -0.3488
     },
     "JPYTWD": {
-      "price": 0.2008,
-      "change": 0.0027,
-      "changePercent": 1.3763
+      "price": 0.2023,
+      "change": 0.0,
+      "changePercent": 0.0114
     },
     "EURTWD": {
-      "price": 37.278,
-      "change": 0.1836,
-      "changePercent": 0.495
+      "price": 37.286,
+      "change": -0.0453,
+      "changePercent": -0.1214
     },
     "CNYTWD": {
       "price": 4.7841,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4103.5,
+    "usd": 4105.3,
     "twd": 4261.0,
-    "tael": 159781.0,
+    "tael": 159782.0,
     "twdTotal": 132527.0,
-    "changePercent": 0.0829
+    "changePercent": 0.1268
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,16 +133,16 @@
       "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
     },
     {
-      "title": "美股前市重挫！這些股票大幅下跌，Karyopharm驚現67.6％崩盤！ - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRbmRvcGw4Z0p2X0pMaFNycTdvM251bXRqUWdza0h2MDNqOXRjd1dQSEdLdTZtd01EenR0M3piOUVSR1BhbFN5VVRZY2ZNdkdmQzFVRExYaVFuekJTMmV3dF9GbUpwUms?oc=5"
+      "title": "台股狂噴3186點創紀錄 交易戶數定期定額創高 - 卡優新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZbkVzX2hOUTNUdDNXX3dnb1ZnSmJjSFo1dmk0cDk3aVZ1SVdsRkRqLVFzeXNLbTAwUG03TlUtVjdBT3Yza0RHUVpFcXU0a0FpLWtMekhEd0dVdw?oc=5"
     },
     {
       "title": "財經一週：台股從史上第三大跌點到最大漲點、聯準會分歧下維持利率不變 - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02S001dUtQaERFMno5cDhUVGszbUFibmQzNF8xcDRPaFhLZkZ5VVRXN1V6ZXNfX0VFUHNqNjVmMVd1UzJlc3pfUnEyd2owQQ?oc=5"
     },
     {
-      "title": "台股漲逾3千點創盤中最大漲點 市值單日增逾9兆 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HT1ZsN0k1TDNzRVVBTGZkUHFyQnNTakxFYUdSRW02OXF4T1d0eHpzM2xKWXVMeHgzbE5YWEZsdmQ5dEtpcC1PcWZhcFB5RTQ?oc=5"
+      "title": "台股創史上最大漲點！暴衝攻上43k⋯後市法說看「3重點」－經濟日報 - 商周",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HcDI3Y01QakhvM2oxZmNtWEdNNVpSMXY0STkyWTk2aEVCeWdJZzNoUU5xSHFmTUgzYU5NbmpfamxwbUVUdVlzeUFULW5fZXNVc3RCb2lick8wY3RrUDBfQXdYclkwQQ?oc=5"
     },
     {
       "title": "台股下周一接炸彈？美股4大指數開高走低 台指期夜盤「自由落體」狂洩逾千點 - Yahoo新聞",
