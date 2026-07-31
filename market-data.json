@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/31 22:03",
+  "updated_tw": "08/01 00:11",
   "taiwan": {
     "2330": {
       "price": 2425.0,
-      "change": 220.0,
-      "changePercent": 9.9773
+      "change": 225.0,
+      "changePercent": 10.2273
     },
     "2454": {
       "price": 3555.0,
-      "change": 320.0,
-      "changePercent": 9.8918
+      "change": 405.0,
+      "changePercent": 12.8571
     },
     "2317": {
       "price": 250.5,
-      "change": 21.0,
-      "changePercent": 9.1503
+      "change": 13.5,
+      "changePercent": 5.6962
     },
     "0050": {
       "price": 102.85,
-      "change": 9.35,
-      "changePercent": 10.0
+      "change": 9.15,
+      "changePercent": 9.7652
     },
     "00878": {
       "price": 32.43,
-      "change": 1.68,
-      "changePercent": 5.4634
+      "change": 1.52,
+      "changePercent": 4.9175
     },
     "00919": {
       "price": 29.57,
-      "change": 1.32,
-      "changePercent": 4.6726
+      "change": 1.07,
+      "changePercent": 3.7544
     }
   },
   "us": {
     "NVDA": {
-      "price": 196.86,
-      "change": 1.82,
-      "changePercent": 0.9331
+      "price": 196.51,
+      "change": 1.47,
+      "changePercent": 0.7537
     },
     "AAPL": {
-      "price": 301.485,
-      "change": -31.945,
-      "changePercent": -9.5807
+      "price": 301.37,
+      "change": -32.06,
+      "changePercent": -9.6152
     },
     "TSLA": {
-      "price": 304.4,
-      "change": -4.45,
-      "changePercent": -1.4408
+      "price": 307.87,
+      "change": -0.98,
+      "changePercent": -0.3173
     },
     "QQQ": {
-      "price": 684.71,
-      "change": 1.16,
-      "changePercent": 0.1697
+      "price": 684.84,
+      "change": 1.29,
+      "changePercent": 0.1887
     },
     "SPY": {
-      "price": 740.77,
-      "change": -0.92,
-      "changePercent": -0.124
+      "price": 743.26,
+      "change": 1.57,
+      "changePercent": 0.2117
     },
     "SCHD": {
-      "price": 33.215,
-      "change": -0.195,
-      "changePercent": -0.5837
+      "price": 33.395,
+      "change": -0.015,
+      "changePercent": -0.0449
     },
     "VOO": {
-      "price": 680.89,
-      "change": -0.9,
-      "changePercent": -0.132
+      "price": 683.151,
+      "change": 1.361,
+      "changePercent": 0.1996
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63062.77,
-      "change": -1662.5386,
-      "changePercent": -2.5686
+      "price": 62806.56,
+      "change": -1918.7486,
+      "changePercent": -2.9644
     },
     "ETH": {
-      "price": 1862.62,
-      "change": -54.7529,
-      "changePercent": -2.8556
+      "price": 1862.58,
+      "change": -54.7929,
+      "changePercent": -2.8577
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.283,
-      "change": -0.0659,
-      "changePercent": -0.2037
+      "price": 32.302,
+      "change": -0.0469,
+      "changePercent": -0.145
     },
     "JPYTWD": {
-      "price": 0.2003,
-      "change": 0.0022,
-      "changePercent": 1.1238
+      "price": 0.2006,
+      "change": 0.0025,
+      "changePercent": 1.2753
     },
     "EURTWD": {
-      "price": 37.069,
-      "change": -0.0254,
-      "changePercent": -0.0684
+      "price": 37.231,
+      "change": 0.1366,
+      "changePercent": 0.3683
     },
     "CNYTWD": {
-      "price": 4.7851,
+      "price": 4.7866,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4082.3,
-    "twd": 4237.0,
-    "tael": 158892.0,
-    "twdTotal": 131789.0,
-    "changePercent": -0.4341
+    "usd": 4100.3,
+    "twd": 4258.0,
+    "tael": 159686.0,
+    "twdTotal": 132448.0,
+    "changePercent": 0.0049
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,20 +117,16 @@
   },
   "news": [
     {
+      "title": "亞馬遜狂噴15%領軍！美股4大指數開高後陷震盪台積電ADR強噴4%拉回、台指期夜盤崩逾千點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxORUhmeTNjM2luVlVxU21TU0Y3WHBwX0owWHh1elotUmR0R1o0WGMtSmhLa2ZJRkFOQzNLT2RzeDJVRm5XOXVkTEJqYjdEOFdqRG1jX05XNjdldlhlaWdlQkJwWEFaLXBkUjhsTGZUUThQZWpaX3IyTS1EV0VDOU1kOHdtRWM5Q2JNSmdrNFZma3MxcjU2ZGxEczN6Y1F6c3RJTENkVi1fUkRsV1dwNjFUamVXclVsQWlUVENCRnNSd1BIcTVyLVo1Zk4xWXNmaDl6N1VVdjdHTkVHakpjd1BVWGRvR1BlcEhCSnk4Mi00TVM3VTdQWGQzS1d1UkUySmNuZ1FsRzA0TzhXSUdnaEk2aGVZYWNYVHBpaEFmN0tVNVB6MEZqTTBUR2dOc1F6V0xSOVVQbWpyU3pmRFEzVTFpbDNCQkc2VFdValM3Y1NhN0dieWZnWHhhblRUXzBLajlieGlnR1FxZWRRN2l4dFVjRGxiNTYwcnFrbGFnR1cyWUh0TWJaNHFRXzVBSXkxM0FUSGkzUllB?oc=5"
+    },
+    {
+      "title": "美股早盤／4大指數齊揚！費半一度漲5%但「漲幅收斂」蘋果摔9% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56Nk40QmtwU19yWkc4NWpObmpjSzF5WE9Dc2xHUDY5c0dxV0h0cFE5ODNjVGxxVkhST05WTEpiQ2RhY0d6bWhvd3BPTVp1eWFD?oc=5"
+    },
+    {
       "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
-    },
-    {
-      "title": "微軟帶頭飆漲15%！美股收紅「費半強噴逾8%」 台積電ADR大漲7.64%、台指期夜盤重返41K - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQREp4QlZDS3hhcVNITjNDYUhUUmxjR1FVdkZmZjVPX2FLeDVzTVFwXzFXOWZabUszWDlKYXFsZlBidm9fazBDeGVRclNKdGZHdTUwUVpOdnhXVDNwaExMV2l3VHdvU09ld2Nid2JRYm1KeXpFMUwzTTZ0cTlGLWEyeG5HelRBUDQzTjg5Tm5VSXNLQl9IT255TVRvS3lkRGE1RVBubWEtc2RoSUM3S1NBV3BqemRTQnhXdHMtdlNtRDNhVnZfc19OenVUekpHOUNibE9MU2FEajU1c3VVWUFzMTViZ0M5UXdsUXpvbnJCZWRHc0lzWVNyWEZRZXl5UW1lZUU4NXo3UDNzVTFBU0Q3MDJ1YjZEcTVCSzFWbS1wM2ptaEstTmphYjE4TjJyT2VZQ2VweTRUcS1RRDJUZEVEaWpzWndhcGh6MmFhVjlJOVdHNzBQM1lOTVhGSlo?oc=5"
-    },
-    {
-      "title": "美股前市重挫！這些股票大幅下跌，Karyopharm驚現67.6％崩盤！ - cmoney.tw",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRbmRvcGw4Z0p2X0pMaFNycTdvM251bXRqUWdza0h2MDNqOXRjd1dQSEdLdTZtd01EenR0M3piOUVSR1BhbFN5VVRZY2ZNdkdmQzFVRExYaVFuekJTMmV3dF9GbUpwUms?oc=5"
-    },
-    {
-      "title": "台股比美股賠更大？他曝最大風險被忽視：想停損無法出場| 台股雜談| 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIN1R2c04tU1ZCMzdod3E0YlMxV3dkdGVreURGSHpKeVM3MjhjVE43MzI3bzVNdGVfSFprMGl4Z2d0cko4LVdTMjBRNUMwcmxaSnc?oc=5"
     },
     {
       "title": "台股漲逾3千點創盤中最大漲點 市值單日增逾9兆 - 公視新聞網PNN",
@@ -141,12 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CYzRfWXBqME5tbWVJT1NpRkZ6Zm5OOGN1azRvY0VnZzgzVU5KdktqWjNxZXpSWS0yTGZPWGs2OS0yZXNFNGFHdi1RQjlTSHM?oc=5"
     },
     {
-      "title": "台股飆漲3186點創紀錄總市值激增逾10兆元| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OaGRKaEFPeFRnay1DRWxtZmxkNDVrZ3JVczhIcnBQV2QxZWljdVoxS19pdzA2c2wtYVJBSVk4YmhwQ1MyUE1rZFpYYzdfZGFkMjJDWXoxVTRwRTMwSnc?oc=5"
+      "title": "財經一週：台股從史上第三大跌點到最大漲點、聯準會分歧下維持利率不變 - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02S001dUtQaERFMno5cDhUVGszbUFibmQzNF8xcDRPaFhLZkZ5VVRXN1V6ZXNfX0VFUHNqNjVmMVd1UzJlc3pfUnEyd2owQQ?oc=5"
     },
     {
-      "title": "4~6月全球黃金投資需求減半，金價跌8% - 日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWlV3MVVWVjhCaVBjNTV6Vl9URDZHME1qdWN4Y3RtMG1aVXVkSHVLbGNyRVIwd3MxLVhMNGY2ZWdycmptR01VdFVJUHZPdno3bWJjMFJyN1QycEgyZWRQdmY3dXRTNmRjQjFtSFdGMnBwWDFoR1ZvZjBBTkhaSFVfeUNuWWU4eHFCTEE?oc=5"
+      "title": "今天進場的完蛋？台指期夜盤暴跌千點 美股漲也救不了 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPT3I1em9XSHh4QXBYN1p5aVpQYTNuVGdqZW1fUUZYRDJKdWRkUUFvZHJvU2hxY3VNUWUyWDVOdGNFcnRKalNtUXh1Qkd5TGEyOHR0eGU3WHZTdld4RDFMbjh4YTN5a1B5R2hqLTNVWVhmOV9rR2U0NE9TM1cyVVpQdHhzNHctU0hORU9NOHRsYksxVTBKSHhvclVhT3MwSDhMZnhRME1KcjlDWFNaVjl2VEsyVHZEMU0xU090SkxERTc3M1o1MXhzenNiaElVM2Q0bG1pSHNWQ0xNUGlPalVsWFl6SGdWcFpwUmlpU3Y3bHlvZFUyOGVmOXI3ZE1fYlhmcWN5X0M1bUZ0ZkhCZVJYMFRnejNXN21ZRFZaTnpUdHVia1Awc2lRX2NzU1QxMmEzbk9JRGU2aWtYU2xIQTVvbGx4c1BTNHZfVWt2VXRHbXFLR0Z4eF9neDZLR21Ma3BtQ1lsMXg5dTMtUQ?oc=5"
+    },
+    {
+      "title": "台股比美股賠更大？他曝最大風險被忽視：想停損無法出場| 台股雜談| 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIN1R2c04tU1ZCMzdod3E0YlMxV3dkdGVreURGSHpKeVM3MjhjVE43MzI3bzVNdGVfSFprMGl4Z2d0cko4LVdTMjBRNUMwcmxaSnc?oc=5"
     }
   ]
 }
