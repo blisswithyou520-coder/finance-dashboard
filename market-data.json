@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/31 08:00",
+  "updated_tw": "07/31 11:48",
   "taiwan": {
     "2330": {
-      "price": 2205.0,
-      "change": 5.0,
-      "changePercent": 0.2273
+      "price": 2395.0,
+      "change": 190.0,
+      "changePercent": 8.6168
     },
     "2454": {
-      "price": 3235.0,
-      "change": 85.0,
-      "changePercent": 2.6984
+      "price": 3555.0,
+      "change": 320.0,
+      "changePercent": 9.8918
     },
     "2317": {
-      "price": 229.5,
-      "change": -7.5,
-      "changePercent": -3.1646
+      "price": 247.5,
+      "change": 18.0,
+      "changePercent": 7.8431
     },
     "0050": {
-      "price": 93.5,
-      "change": -3.65,
-      "changePercent": -3.7571
+      "price": 102.35,
+      "change": 8.65,
+      "changePercent": 9.2316
     },
     "00878": {
-      "price": 30.75,
-      "change": -0.75,
-      "changePercent": -2.381
+      "price": 32.16,
+      "change": 1.25,
+      "changePercent": 4.044
     },
     "00919": {
-      "price": 28.25,
-      "change": -0.64,
-      "changePercent": -2.2153
+      "price": 29.4,
+      "change": 0.9,
+      "changePercent": 3.1579
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64743.6,
-      "change": 835.432,
-      "changePercent": 1.3072
+      "price": 64293.36,
+      "change": 385.192,
+      "changePercent": 0.6027
     },
     "ETH": {
-      "price": 1917.33,
-      "change": 8.811,
-      "changePercent": 0.4617
+      "price": 1905.62,
+      "change": -2.899,
+      "changePercent": -0.1519
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.394,
-      "change": 0.0451,
-      "changePercent": 0.1394
+      "price": 32.385,
+      "change": 0.0361,
+      "changePercent": 0.1116
     },
     "JPYTWD": {
-      "price": 0.2001,
-      "change": 0.002,
-      "changePercent": 1.0229
+      "price": 0.1993,
+      "change": 0.0012,
+      "changePercent": 0.619
     },
     "EURTWD": {
-      "price": 37.374,
-      "change": 0.2796,
-      "changePercent": 0.7538
+      "price": 37.307,
+      "change": 0.2126,
+      "changePercent": 0.5732
     },
     "CNYTWD": {
-      "price": 4.8025,
+      "price": 4.8053,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4166.5,
-    "twd": 4339.0,
-    "tael": 162727.0,
-    "twdTotal": 134970.0,
-    "changePercent": 3.2667
+    "usd": 4136.1,
+    "twd": 4307.0,
+    "tael": 161494.0,
+    "twdTotal": 133948.0,
+    "changePercent": 0.878
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "〈美股盤後〉微軟狂飆近16%締新高 那指終止連六黑 費半暴漲超8% - news.cnyes.com",
+      "title": "美股盤後｜微軟財報激勵，記憶體回神，費半大漲8% 0731｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNb2QyLW1iX2RocVF5MEwtYWhwREFGSmZCdmhrS1Q5LTNnNW55NzJPLTNxZFY5LUhRcERfbE1sUFNfT2JZNmc0eHNKQ0tyTFBpczcxdUc3X29NaE1yTS1RTW1KZVBMazRhdndRSkI5Z3dkNzVHT0FLV3VuRVRneUlLbi04QV9nYWk4bzdPcEc2WVcxaWVQQTMyd0d0UUtvdWIzOHVpekNxOHp4SWtobm9GMkRJWWdLSWh1WThBeXFBYUpUNTc0MEdfSEhKQmZ0RDB0WDFRcF9RX1FBeG5jSXFpMTNad2xXQng4dnIyNU05Z2tvUGNacWFMRlVkTVMtOTM5QU5hY0xUWGI1UFlZOUJkbDc1dkR6a2xCdF94TGZ3VUxRQXlHTTBwV1dGSjdCV2pkUUw3em5SaVk1YWsyQnlFSTdNeUlxSUxsamdvbWZXbVBmcll2VjFCeVJjR2RlZHJPNWtrelRjc2pkeEM1YUE?oc=5"
+    },
+    {
+      "title": "微軟帶頭飆漲15%！美股收紅「費半強噴逾8%」 台積電ADR大漲7.64%、台指期夜盤重返41K - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQREp4QlZDS3hhcVNITjNDYUhUUmxjR1FVdkZmZjVPX2FLeDVzTVFwXzFXOWZabUszWDlKYXFsZlBidm9fazBDeGVRclNKdGZHdTUwUVpOdnhXVDNwaExMV2l3VHdvU09ld2Nid2JRYm1KeXpFMUwzTTZ0cTlGLWEyeG5HelRBUDQzTjg5Tm5VSXNLQl9IT255TVRvS3lkRGE1RVBubWEtc2RoSUM3S1NBV3BqemRTQnhXdHMtdlNtRDNhVnZfc19OenVUekpHOUNibE9MU2FEajU1c3VVWUFzMTViZ0M5UXdsUXpvbnJCZWRHc0lzWVNyWEZRZXl5UW1lZUU4NXo3UDNzVTFBU0Q3MDJ1YjZEcTVCSzFWbS1wM2ptaEstTmphYjE4TjJyT2VZQ2VweTRUcS1RRDJUZEVEaWpzWndhcGh6MmFhVjlJOVdHNzBQM1lOTVhGSlo?oc=5"
+    },
+    {
+      "title": "台股比美股賠更大？他曝最大風險被忽視：想停損無法出場| 台股雜談| 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIN1R2c04tU1ZCMzdod3E0YlMxV3dkdGVreURGSHpKeVM3MjhjVE43MzI3bzVNdGVfSFprMGl4Z2d0cko4LVdTMjBRNUMwcmxaSnc?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉微軟創全球最大單日市值增量紀錄 那指終止連六黑 費半暴漲超8% - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CYzRfWXBqME5tbWVJT1NpRkZ6Zm5OOGN1azRvY0VnZzgzVU5KdktqWjNxZXpSWS0yTGZPWGs2OS0yZXNFNGFHdi1RQjlTSHM?oc=5"
     },
     {
-      "title": "美股早盤／低接買盤湧現 指數齊揚 微軟噴高15% 台積 ADR 勁升 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CLV9NYldvbEJBZm9OZG1yQ2l3S1dnVUMzY3Y1bGpqZzRMaUJnSDBWcngzQTI5Z3ZaVmVnM19RSFl6NGZzcFNGZzRiWGEyb1plUlJtRlhIUHFOb0Rv0gFiQVVfeXFMTi1yZGt1QnVZZExHWDU3VzBjUlZNMTRuVF9NRWdhOWlHNzlBeFdnX2I0TlpWQU5yMWFIZmR2NklwZWdfdElvOU5ISElIVElfQkxrTkVrb1c2ak5BQjVLb0NYR3c?oc=5"
+      "title": "美股收盤》晶片股回神！費半強彈逾8％ 台積電ADR飆漲7.6％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IcHRRdzVYWTQzV21TdTJtMXBGRTVJVmpvaXdDRDlkNTJPbGpBRnZkYUZEZUNCTEVjdVVJanpSR1NyYVZtWVRuQkRtUUpYSEZhVmg5T2k0VWxCX3JQa1ln?oc=5"
     },
     {
-      "title": "市場信心大反攻！美股狂歡模式開啟 台股夜盤暴拉800點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPSjNLdGs0V0ZRQW80eUJiNU13bVZDUmxHVHJRNUpmSUZGYkZPenRxNHNXdWJOWmpZMnVBTF8tYXRWOGE1dXFCYUU5TEtUSENxazdpOW1YekFtallHM0xXTEhFSXNzalN5UGlTRm1pU2hHTHFSR2Y0b3Z2VzFJMDE3ZVRlaGJESllrM0ZOa182dzJyUl90OTBtOVNRR3N3Nlhtbm5wTl9uVUtnM183b0oxT1F0M2FlcmFWLUdWYy1QV21zcVVQdFNfX1FwcDZHV09iTHpIbGpuMTVwYWdQVHU1dGtNc0g5NnNoOGo1elFuUXIzTG5EQjRQejZ4Yzd0ZUg4alBVdkNyUzkteXZMcHZEaDc0c2hUUTBuQXZTT290b2hTWmJBdnFwSDFfbkxTeTlrYS1CdG5MSHR1dlJNdEJmMC1UbnBfdnU3cTBCVDBtQ3lTZGNVTXhCYmVCQlp6ZDZYUGc?oc=5"
+      "title": "全球黃金投資需求4~6月減半，金價跌8% - zh.cn.nikkei.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWlV3MVVWVjhCaVBjNTV6Vl9URDZHME1qdWN4Y3RtMG1aVXVkSHVLbGNyRVIwd3MxLVhMNGY2ZWdycmptR01VdFVJUHZPdno3bWJjMFJyN1QycEgyZWRQdmY3dXRTNmRjQjFtSFdGMnBwWDFoR1ZvZjBBTkhaSFVfeUNuWWU4eHFCTEE?oc=5"
     },
     {
-      "title": "微軟與晶片股帶頭 美股絕地大反攻！台指期大漲近2％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04VVRzSTlqcnZtWVhodDh2ckoyYjFOV2xiS3RGYlZOWkJ5OVlCR2lid3BIOTZjSVJBM3A5d1l6cXRKNHg4WkZlSUtVeEo0RVFnMXhiNGttdGxDTFNDVE53?oc=5"
+      "title": "國泰觀點｜AI還能布局嗎？ 台股基金帶您聚焦下波科技成長主軸 - 鉅亨買基金",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSUFzUjNRNl9oQi0tWVZLUll4WTZJMmVSUnFMX3VTVS03NHVKNzZXdmVKYnN6aVM5NXhFVjBtMVRsb2ozTEpRQjFxNGwzam5hU3oxRm0xa3hCZWNrTG5FNkxWQmZyUXNkTkgxaDVZMFpFYnJsUFZzTEczUXBwWUxCQ2wtNkszbkx5SHMzblVvRlVhUQ?oc=5"
     },
     {
-      "title": "微軟財報激勵美股！道瓊飆613點、台積電ADR漲7.63％ - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzeTh1OXlUc1E5UWRiRFA5U3FRakU0Skd6ZWtDcDJUMWR6T0ZTeUVNdEc3aFkxamJabnF2NHM0T3k0MVp1cEJnaGJtZTZqVUpwaGk1UHRvV0haTWttSmZRVEZDREJqeUl4NVcyX1Jn?oc=5"
-    },
-    {
-      "title": "台股若失序 國安基金：會適度處理 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XSWYyVFpKUXhZa0p0bVE4dWVRUXJRdnFqZ3gxRFRFQjF6S3lybHhnZTlvbVNUY0gtWDZOb290SnYtRGJlMnR3Zm5MS1VaeTFKVzVRUGxR?oc=5"
-    },
-    {
-      "title": "華爾街多頭沒力了！高盛：美股短期缺乏上漲燃料 680億美元賣壓恐來襲 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ySHgxNVh1SmpTWnd5ckVwYUo4WXBVT1Q1WXpicnVKczdCMExSLVh4LVcxQ0ZfWGYyV0FBbjJpU0RWVkItcEUwMElHR01pdlE?oc=5"
-    },
-    {
-      "title": "快訊／台股有望？美股強勁反彈！半導體領漲 台期指飆破1500點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQYTZPVV9SZ2l3NUZ5M2k3UGF1ZFkzcEs3alhCYlpvc203bTF6V1c0LTRMaDVkVVFUcUVRU3I3RWo4VWlUR1NwbHgySWw0QUsyeGc3Nm5GbTVRVUhUNFNrb1JtQ3VjNTc3R3pVbmJjYXp6a0FUd182Ulh2eDdDQjJoMXhUVENibXdCWk9oaGFVSVNXTDc5SFZPS3I2UFM2UGVBUjFmX2ZBZk02MmFYcktmUlFxcmZ1RHo1bG1YZ2Q3Q3BDOTF4NXNvRGQyVVRzWDh2bnVWS0lHRlRaU2tucjBvNTNZby1nNUFfYUNEUTdtMUhBd2NlVjg2RUFSTXRuSnNYQ25fNlBQY2JjR3lkYnJyMG53bmYxRVVUTGpGYVhKUm01ZThaMWl1NEFHRVFhbDE1bTZhR1hKSlhkcVVsb3RneW9sb0hPTkhNZkdCNExobEpxX25jX3dZaGoxd0FGUGxQUllMXzBQYkJuNW1lZ3JhemR3?oc=5"
+      "title": "台股早盤勁揚逾2900點突破42800點 台積電上漲195元 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsaXZuOGtCVXZCMEUzd0E2dkdySmZBdlJybzdoTHhmcnMtYWNXdVRGN21EbkpWTFp1Nl9ZMmUxWW9ad1pQcXhaa1pYX0ktVHRoaHdUYTRBd0w3LU1qbVE?oc=5"
     }
   ]
 }
