@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/31 14:42",
+  "updated_tw": "07/31 17:32",
   "taiwan": {
     "2330": {
       "price": 2425.0,
@@ -72,81 +72,48 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64247.39,
-      "change": 339.222,
-      "changePercent": 0.5308
+      "price": 63580.77,
+      "change": -1144.5386,
+      "changePercent": -1.7683
     },
     "ETH": {
-      "price": 1900.8,
-      "change": -7.719,
-      "changePercent": -0.4045
+      "price": 1880.81,
+      "change": -36.5629,
+      "changePercent": -1.9069
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.384,
-      "change": 0.0351,
-      "changePercent": 0.1085
+      "price": 32.294,
+      "change": -0.0549,
+      "changePercent": -0.1697
     },
     "JPYTWD": {
-      "price": 0.1994,
-      "change": 0.0013,
-      "changePercent": 0.6694
+      "price": 0.1991,
+      "change": 0.001,
+      "changePercent": 0.518
     },
     "EURTWD": {
-      "price": 37.283,
-      "change": 0.1886,
-      "changePercent": 0.5085
+      "price": 37.171,
+      "change": 0.0766,
+      "changePercent": 0.2065
     },
     "CNYTWD": {
-      "price": 4.7987,
+      "price": 4.7855,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4140.1,
-    "twd": 4311.0,
-    "tael": 161646.0,
-    "twdTotal": 134073.0,
-    "changePercent": 0.9756
+    "usd": 4110.8,
+    "twd": 4268.0,
+    "tael": 160055.0,
+    "twdTotal": 132754.0,
+    "changePercent": 0.261
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": [
-    {
-      "title": "美股盤後｜微軟財報激勵，記憶體回神，費半大漲8% 0731｜豐雲學堂 2026 年 07 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNb2QyLW1iX2RocVF5MEwtYWhwREFGSmZCdmhrS1Q5LTNnNW55NzJPLTNxZFY5LUhRcERfbE1sUFNfT2JZNmc0eHNKQ0tyTFBpczcxdUc3X29NaE1yTS1RTW1KZVBMazRhdndRSkI5Z3dkNzVHT0FLV3VuRVRneUlLbi04QV9nYWk4bzdPcEc2WVcxaWVQQTMyd0d0UUtvdWIzOHVpekNxOHp4SWtobm9GMkRJWWdLSWh1WThBeXFBYUpUNTc0MEdfSEhKQmZ0RDB0WDFRcF9RX1FBeG5jSXFpMTNad2xXQng4dnIyNU05Z2tvUGNacWFMRlVkTVMtOTM5QU5hY0xUWGI1UFlZOUJkbDc1dkR6a2xCdF94TGZ3VUxRQXlHTTBwV1dGSjdCV2pkUUw3em5SaVk1YWsyQnlFSTdNeUlxSUxsamdvbWZXbVBmcll2VjFCeVJjR2RlZHJPNWtrelRjc2pkeEM1YUE?oc=5"
-    },
-    {
-      "title": "微軟帶頭飆漲15%！美股收紅「費半強噴逾8%」 台積電ADR大漲7.64%、台指期夜盤重返41K - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQREp4QlZDS3hhcVNITjNDYUhUUmxjR1FVdkZmZjVPX2FLeDVzTVFwXzFXOWZabUszWDlKYXFsZlBidm9fazBDeGVRclNKdGZHdTUwUVpOdnhXVDNwaExMV2l3VHdvU09ld2Nid2JRYm1KeXpFMUwzTTZ0cTlGLWEyeG5HelRBUDQzTjg5Tm5VSXNLQl9IT255TVRvS3lkRGE1RVBubWEtc2RoSUM3S1NBV3BqemRTQnhXdHMtdlNtRDNhVnZfc19OenVUekpHOUNibE9MU2FEajU1c3VVWUFzMTViZ0M5UXdsUXpvbnJCZWRHc0lzWVNyWEZRZXl5UW1lZUU4NXo3UDNzVTFBU0Q3MDJ1YjZEcTVCSzFWbS1wM2ptaEstTmphYjE4TjJyT2VZQ2VweTRUcS1RRDJUZEVEaWpzWndhcGh6MmFhVjlJOVdHNzBQM1lOTVhGSlo?oc=5"
-    },
-    {
-      "title": "台股比美股賠更大？他曝最大風險被忽視：想停損無法出場| 台股雜談| 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIN1R2c04tU1ZCMzdod3E0YlMxV3dkdGVreURGSHpKeVM3MjhjVE43MzI3bzVNdGVfSFprMGl4Z2d0cko4LVdTMjBRNUMwcmxaSnc?oc=5"
-    },
-    {
-      "title": "美股收盤》晶片股回神！費半強彈逾8％ 台積電ADR飆漲7.6％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IcHRRdzVYWTQzV21TdTJtMXBGRTVJVmpvaXdDRDlkNTJPbGpBRnZkYUZEZUNCTEVjdVVJanpSR1NyYVZtWVRuQkRtUUpYSEZhVmg5T2k0VWxCX3JQa1ln?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉微軟創全球最大單日市值增量紀錄 那指終止連六黑 費半暴漲超8% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CYzRfWXBqME5tbWVJT1NpRkZ6Zm5OOGN1azRvY0VnZzgzVU5KdktqWjNxZXpSWS0yTGZPWGs2OS0yZXNFNGFHdi1RQjlTSHM?oc=5"
-    },
-    {
-      "title": "台積電漲停台股飆漲逾3200點創紀錄| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01MHQ4TDNpV2Y2V3o0ejhDazZBdW5USk9WVkpNc0xfaHE5QVY3YnBXYmFkWURLMXctbnY1ZTN4RFFOUFJ3cTVfQTRHTmpvMy1iNExBSnNRaDY5X0JaM0E?oc=5"
-    },
-    {
-      "title": "微軟財報點燃晶片股反彈，美股三大指數週四強勁收漲 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxObHNERnVRNlA4YTEwdGg2bXdhN09ZTVYtZ1VkVURzbkZxMzlFZlJFTlV1WS1kLUJadU16dzl5OW4tM0JFbGo2WENINUlYMXRVT2s1Ty1VM3RvUE5DbFlibWh6R0Mtc2ZlazlCUUJySExFa05GRkdfenJkTWlYR3lMSHM0WFh2MDRtSWpqdW9nY1FVN0R3dFVwdUcwdWNaUFFPMkxaYnMyWWQ2ZUNCc0FySDBuZlhJYWdFQW5EeXRMa3FYQjl6dWxKeEVoT2NUV3RGTlJPTkpYTHJzeER1R0JaZFJRcW9SS2x0LVpNVlV6Vmt5RU5KbnZjMTdyQWZ5dXhPTGg4MVEtelVVdGZuMFdlU25MNFFmWTlmOUJMc05QekQyZ2JTejBRS1B4TFU0S25UZmVVTEhDYjBGNUgwLVpJbkk4MVBoeHVHNzdnc3d3bG56YktpdVFNTUlzTVBibU1EVFd5V3ZKTFpibWJPTkxmdw?oc=5"
-    },
-    {
-      "title": "美股法說 AAPL｜蘋果 Q3 財報重點一次看：iPhone 撐場、庫克謝幕，供應鏈大廠台積電、鴻海迎旺季 (AAPL US) - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxPUklBYlFSaENTdGNZeTlLcC00RXFhblkxdHMzeWJPU0sxR0d1ZHkyQWpuQUd5MnlBSFBiUnZNR3V3T2dCZnpLUDNvSXY1aUNQN2lrbmc1M3NWb0FZcTZ0eFk3YWxMRUZNNVlKWHVoSlpJWURORVFHdFc0RmRzUEwxMG14SVNhWDhSSHVWbEVWR3RYeDVncjNtUi1IajRqa2x1MmluMDNTcFJ5dGZBMkk1Rld0UG5zdE1wNS1NYW90Zm0tZlJtWmo1R3o0WWtKcnBaQW1HV25vcHFfQU9OSkRyVlQxdHRvSHRYbnRIdE9xbjJnYTR0bENvWU9fZ0luZk0wdlpOekl2MEdTNVV0Wll3T1lPd3NyZnNHMnJlb0dyaGhsNnhxdlk2akFzVWx1YXZIOEhVaFd2ZGxqWEV4NUFUT1pFM2psZnQ0MmRONVhIcG1rZkRwTERkRkc4SXdXa3F3dXhJUks0aENGWk9lRVFlWXRyOFFDODI4MnVqeHRsZXRJMFNwRmhIOFVSenJNRHFZajRENEFQVkloZkZ4c3h1NEVWWVZWU0xWTGdQWm0tQm8zWnpkeGx1OHdvMzBsR21xdGRpRURJSnZ6YkVxLVdhVS1xTjJpLURfY0FBbWNQQUZNQjVZNnlrM3pONlRKSjhranUxeURNWXBFOWNCM2x6OXRRT2F0X2VEM1lGQXVIbFpJNWUwV01jVGpZUjdRY2JHTlNpMHpn?oc=5"
-    }
-  ]
+  "news": []
 }
