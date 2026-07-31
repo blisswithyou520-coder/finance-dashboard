@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "07/31 19:47",
+  "updated_tw": "07/31 22:03",
   "taiwan": {
     "2330": {
       "price": 2425.0,
@@ -35,85 +35,118 @@
   },
   "us": {
     "NVDA": {
-      "price": 195.04,
-      "change": 5.03,
-      "changePercent": 2.6472
+      "price": 196.86,
+      "change": 1.82,
+      "changePercent": 0.9331
     },
     "AAPL": {
-      "price": 333.43,
-      "change": -4.76,
-      "changePercent": -1.4075
+      "price": 301.485,
+      "change": -31.945,
+      "changePercent": -9.5807
     },
     "TSLA": {
-      "price": 308.85,
-      "change": 10.53,
-      "changePercent": 3.5298
+      "price": 304.4,
+      "change": -4.45,
+      "changePercent": -1.4408
     },
     "QQQ": {
-      "price": 683.55,
-      "change": 21.82,
-      "changePercent": 3.2974
+      "price": 684.71,
+      "change": 1.16,
+      "changePercent": 0.1697
     },
     "SPY": {
-      "price": 741.69,
-      "change": 12.23,
-      "changePercent": 1.6766
+      "price": 740.77,
+      "change": -0.92,
+      "changePercent": -0.124
     },
     "SCHD": {
-      "price": 33.41,
-      "change": -0.42,
-      "changePercent": -1.2415
+      "price": 33.215,
+      "change": -0.195,
+      "changePercent": -0.5837
     },
     "VOO": {
-      "price": 681.79,
-      "change": 11.16,
-      "changePercent": 1.6641
+      "price": 680.89,
+      "change": -0.9,
+      "changePercent": -0.132
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63766.01,
-      "change": -959.2986,
-      "changePercent": -1.4821
+      "price": 63062.77,
+      "change": -1662.5386,
+      "changePercent": -2.5686
     },
     "ETH": {
-      "price": 1881.66,
-      "change": -35.7129,
-      "changePercent": -1.8626
+      "price": 1862.62,
+      "change": -54.7529,
+      "changePercent": -2.8556
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.294,
-      "change": -0.0549,
-      "changePercent": -0.1697
+      "price": 32.283,
+      "change": -0.0659,
+      "changePercent": -0.2037
     },
     "JPYTWD": {
-      "price": 0.1991,
-      "change": 0.001,
-      "changePercent": 0.518
+      "price": 0.2003,
+      "change": 0.0022,
+      "changePercent": 1.1238
     },
     "EURTWD": {
-      "price": 37.171,
-      "change": 0.0766,
-      "changePercent": 0.2065
+      "price": 37.069,
+      "change": -0.0254,
+      "changePercent": -0.0684
     },
     "CNYTWD": {
-      "price": 4.7855,
+      "price": 4.7851,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4110.8,
-    "twd": 4268.0,
-    "tael": 160055.0,
-    "twdTotal": 132754.0,
-    "changePercent": 0.261
+    "usd": 4082.3,
+    "twd": 4237.0,
+    "tael": 158892.0,
+    "twdTotal": 131789.0,
+    "changePercent": -0.4341
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
+    },
+    {
+      "title": "微軟帶頭飆漲15%！美股收紅「費半強噴逾8%」 台積電ADR大漲7.64%、台指期夜盤重返41K - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQREp4QlZDS3hhcVNITjNDYUhUUmxjR1FVdkZmZjVPX2FLeDVzTVFwXzFXOWZabUszWDlKYXFsZlBidm9fazBDeGVRclNKdGZHdTUwUVpOdnhXVDNwaExMV2l3VHdvU09ld2Nid2JRYm1KeXpFMUwzTTZ0cTlGLWEyeG5HelRBUDQzTjg5Tm5VSXNLQl9IT255TVRvS3lkRGE1RVBubWEtc2RoSUM3S1NBV3BqemRTQnhXdHMtdlNtRDNhVnZfc19OenVUekpHOUNibE9MU2FEajU1c3VVWUFzMTViZ0M5UXdsUXpvbnJCZWRHc0lzWVNyWEZRZXl5UW1lZUU4NXo3UDNzVTFBU0Q3MDJ1YjZEcTVCSzFWbS1wM2ptaEstTmphYjE4TjJyT2VZQ2VweTRUcS1RRDJUZEVEaWpzWndhcGh6MmFhVjlJOVdHNzBQM1lOTVhGSlo?oc=5"
+    },
+    {
+      "title": "美股前市重挫！這些股票大幅下跌，Karyopharm驚現67.6％崩盤！ - cmoney.tw",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRbmRvcGw4Z0p2X0pMaFNycTdvM251bXRqUWdza0h2MDNqOXRjd1dQSEdLdTZtd01EenR0M3piOUVSR1BhbFN5VVRZY2ZNdkdmQzFVRExYaVFuekJTMmV3dF9GbUpwUms?oc=5"
+    },
+    {
+      "title": "台股比美股賠更大？他曝最大風險被忽視：想停損無法出場| 台股雜談| 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIN1R2c04tU1ZCMzdod3E0YlMxV3dkdGVreURGSHpKeVM3MjhjVE43MzI3bzVNdGVfSFprMGl4Z2d0cko4LVdTMjBRNUMwcmxaSnc?oc=5"
+    },
+    {
+      "title": "台股漲逾3千點創盤中最大漲點 市值單日增逾9兆 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HT1ZsN0k1TDNzRVVBTGZkUHFyQnNTakxFYUdSRW02OXF4T1d0eHpzM2xKWXVMeHgzbE5YWEZsdmQ5dEtpcC1PcWZhcFB5RTQ?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉微軟創全球最大單日市值增量紀錄 那指終止連六黑 費半暴漲超8% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CYzRfWXBqME5tbWVJT1NpRkZ6Zm5OOGN1azRvY0VnZzgzVU5KdktqWjNxZXpSWS0yTGZPWGs2OS0yZXNFNGFHdi1RQjlTSHM?oc=5"
+    },
+    {
+      "title": "台股飆漲3186點創紀錄總市值激增逾10兆元| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OaGRKaEFPeFRnay1DRWxtZmxkNDVrZ3JVczhIcnBQV2QxZWljdVoxS19pdzA2c2wtYVJBSVk4YmhwQ1MyUE1rZFpYYzdfZGFkMjJDWXoxVTRwRTMwSnc?oc=5"
+    },
+    {
+      "title": "4~6月全球黃金投資需求減半，金價跌8% - 日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWlV3MVVWVjhCaVBjNTV6Vl9URDZHME1qdWN4Y3RtMG1aVXVkSHVLbGNyRVIwd3MxLVhMNGY2ZWdycmptR01VdFVJUHZPdno3bWJjMFJyN1QycEgyZWRQdmY3dXRTNmRjQjFtSFdGMnBwWDFoR1ZvZjBBTkhaSFVfeUNuWWU4eHFCTEE?oc=5"
+    }
+  ]
 }
