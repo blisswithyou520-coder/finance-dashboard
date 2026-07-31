@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/01 01:52",
+  "updated_tw": "08/01 03:22",
   "taiwan": {
     "2330": {
       "price": 2425.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 199.55,
-      "change": 4.51,
-      "changePercent": 2.3123
+      "price": 200.98,
+      "change": 5.94,
+      "changePercent": 3.0455
     },
     "AAPL": {
-      "price": 301.155,
-      "change": -32.275,
-      "changePercent": -9.6797
+      "price": 305.02,
+      "change": -28.41,
+      "changePercent": -8.5205
     },
     "TSLA": {
-      "price": 311.25,
-      "change": 2.4,
-      "changePercent": 0.7771
+      "price": 311.03,
+      "change": 2.18,
+      "changePercent": 0.7058
     },
     "QQQ": {
-      "price": 689.235,
-      "change": 5.685,
-      "changePercent": 0.8317
+      "price": 690.18,
+      "change": 6.63,
+      "changePercent": 0.9699
     },
     "SPY": {
-      "price": 745.75,
-      "change": 4.06,
-      "changePercent": 0.5474
+      "price": 747.909,
+      "change": 6.219,
+      "changePercent": 0.8385
     },
     "SCHD": {
-      "price": 33.405,
-      "change": -0.005,
-      "changePercent": -0.015
+      "price": 33.515,
+      "change": 0.105,
+      "changePercent": 0.3143
     },
     "VOO": {
-      "price": 685.498,
-      "change": 3.708,
-      "changePercent": 0.5439
+      "price": 687.42,
+      "change": 5.63,
+      "changePercent": 0.8258
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63172.49,
-      "change": -1552.8186,
-      "changePercent": -2.3991
+      "price": 62996.72,
+      "change": -1728.5886,
+      "changePercent": -2.6707
     },
     "ETH": {
-      "price": 1875.8,
-      "change": -41.5729,
-      "changePercent": -2.1682
+      "price": 1868.29,
+      "change": -49.0829,
+      "changePercent": -2.5599
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.265,
-      "change": -0.0839,
-      "changePercent": -0.2594
+      "price": 32.296,
+      "change": -0.0529,
+      "changePercent": -0.1635
     },
     "JPYTWD": {
-      "price": 0.2016,
-      "change": 0.0035,
-      "changePercent": 1.7801
+      "price": 0.2008,
+      "change": 0.0027,
+      "changePercent": 1.3763
     },
     "EURTWD": {
-      "price": 37.265,
-      "change": 0.1706,
-      "changePercent": 0.46
+      "price": 37.278,
+      "change": 0.1836,
+      "changePercent": 0.495
     },
     "CNYTWD": {
-      "price": 4.7837,
+      "price": 4.7841,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4106.6,
-    "twd": 4260.0,
-    "tael": 159748.0,
-    "twdTotal": 132499.0,
-    "changePercent": 0.1585
+    "usd": 4103.5,
+    "twd": 4261.0,
+    "tael": 159781.0,
+    "twdTotal": 132527.0,
+    "changePercent": 0.0829
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,6 +125,10 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56Nk40QmtwU19yWkc4NWpObmpjSzF5WE9Dc2xHUDY5c0dxV0h0cFE5ODNjVGxxVkhST05WTEpiQ2RhY0d6bWhvd3BPTVp1eWFD?oc=5"
     },
     {
+      "title": "華爾街不再閉眼買美股七雄！AI資金開始大搬家 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGWi1WelBaM0lRel83NzM3cG0tdHI5NkFFUU1CZ1ZiZlB0OU9XalhjWkVrQ1k5WHplaVpXQUk0enNENHZ0dTJma1BJR3JWYTA?oc=5"
+    },
+    {
       "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
     },
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRbmRvcGw4Z0p2X0pMaFNycTdvM251bXRqUWdza0h2MDNqOXRjd1dQSEdLdTZtd01EenR0M3piOUVSR1BhbFN5VVRZY2ZNdkdmQzFVRExYaVFuekJTMmV3dF9GbUpwUms?oc=5"
     },
     {
-      "title": "台股漲逾3千點創盤中最大漲點 市值單日增逾9兆 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HT1ZsN0k1TDNzRVVBTGZkUHFyQnNTakxFYUdSRW02OXF4T1d0eHpzM2xKWXVMeHgzbE5YWEZsdmQ5dEtpcC1PcWZhcFB5RTQ?oc=5"
-    },
-    {
       "title": "財經一週：台股從史上第三大跌點到最大漲點、聯準會分歧下維持利率不變 - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02S001dUtQaERFMno5cDhUVGszbUFibmQzNF8xcDRPaFhLZkZ5VVRXN1V6ZXNfX0VFUHNqNjVmMVd1UzJlc3pfUnEyd2owQQ?oc=5"
     },
     {
-      "title": "〈美股盤後〉微軟創全球最大單日市值增量紀錄 那指終止連六黑 費半暴漲超8% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CYzRfWXBqME5tbWVJT1NpRkZ6Zm5OOGN1azRvY0VnZzgzVU5KdktqWjNxZXpSWS0yTGZPWGs2OS0yZXNFNGFHdi1RQjlTSHM?oc=5"
+      "title": "台股漲逾3千點創盤中最大漲點 市值單日增逾9兆 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HT1ZsN0k1TDNzRVVBTGZkUHFyQnNTakxFYUdSRW02OXF4T1d0eHpzM2xKWXVMeHgzbE5YWEZsdmQ5dEtpcC1PcWZhcFB5RTQ?oc=5"
     },
     {
-      "title": "台股飆漲3186點創紀錄總市值激增逾10兆元| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OaGRKaEFPeFRnay1DRWxtZmxkNDVrZ3JVczhIcnBQV2QxZWljdVoxS19pdzA2c2wtYVJBSVk4YmhwQ1MyUE1rZFpYYzdfZGFkMjJDWXoxVTRwRTMwSnc?oc=5"
+      "title": "台股下周一接炸彈？美股4大指數開高走低 台指期夜盤「自由落體」狂洩逾千點 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPTVRya1haOXNQTVVxZUVYcUZET01YMkdRQ0ZWYjEyM3daZFpWRDNHN0tSaUE5R2FreEtFQ004OHBqaEF5QUgyekZmTGVIR2NwYWJXYUdxRWZnUkhOR1hoRV9fbURFb3pmZ1BsVTRYdlJWM1hRRWxEaFpwUmQ1cU1XbkFvSlEydnBVRFhab3YtSkdnWklIZVFYV19jdmhCaXp5c2YzZWxYYVVlc0tQRGhkVGNJcFBFYnRObWJ5aUtLNjMwTkdpRE1LOHczOVBTMExRSjNua3dtdzVrejBIU1g0NVAtLUhaU2VaTEZwRV9hVkFyZUxuNUtlXzhaTnRQQjhPR1B1cjJQd0ptV1dHb1lKZURJb2VncmFxUFJWVzgwWkMyaGdONHNZV2pqLVdTaThsa3FIWk9iX3BsSzdnSlZkTGNJTEhFVWFLMm5TSGVpQW0xekJqNFkwc1pUZVFoTk9uaXZzLWxQUnlUUnR1R3h1RVFJRUoyV25nckltYXpRQTRoM1hwR2c?oc=5"
     }
   ]
 }
