@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/02 05:56",
+  "updated_tw": "08/02 06:56",
   "taiwan": {
     "2330": {
       "price": 2425.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62741.89,
-      "change": -71.8561,
-      "changePercent": -0.1144
+      "price": 62777.29,
+      "change": -36.4561,
+      "changePercent": -0.058
     },
     "ETH": {
-      "price": 1843.12,
-      "change": -17.2259,
-      "changePercent": -0.926
+      "price": 1845.5,
+      "change": -14.8459,
+      "changePercent": -0.798
     }
   },
   "fx": {
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MR19DcUx1alNBbFdzTmlJcDBBVWF5VGNNSWdqdzhiMHktOGFQdVRBeFd5LUw0UWNnVU1leThnN2l6WGZMTmxPMW9TNUdWQ292SEs4Ynp2MVc5UnRf0gFiQVVfeXFMT2NIUmxMN2FZajA0dlRRMl9jS2R1dXI4VFBvQ09FQzY4REtKMDlralNyenZUaUZtWDNIeWNxTEFlUWNINDJwSmxFM2hyZF9JTU9pYXBHVy1mVVFoeWd6dUlFV2c?oc=5"
     },
     {
-      "title": "全民瘋台股》散戶3指標超速 台股過熱警鈴大響 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ybW1zYTZRLWpuSXhTX0dad1pac0V5OXBaVUtwLTN3VGlCRkxUVTFVdW5IbEdVX0dYN0dhQ1JhVm91M3QzUlZfa2l2MXNGdkVXOGNPLXZHOFE?oc=5"
+      "title": "美股收盤》亞馬遜飆逾15％！道瓊漲276點 台積電ADR走升 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kSXpTQkJrZFZ2blowMXJMOWMtWFQtVGs3X296M0VqRktWZHUta04tNTNUWV9KUTVNOUFtSHhhbWRDd2tUV2ZxbGU2b1VoV3dRNnN1TTZHd3NBay1kb0xV?oc=5"
     }
   ]
 }
