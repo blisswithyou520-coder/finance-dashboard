@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/02 00:31",
+  "updated_tw": "08/02 01:42",
   "taiwan": {
     "2330": {
       "price": 2425.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62887.0,
-      "change": 73.2539,
-      "changePercent": 0.1166
+      "price": 62758.74,
+      "change": -55.0061,
+      "changePercent": -0.0876
     },
     "ETH": {
-      "price": 1868.95,
-      "change": 8.6041,
-      "changePercent": 0.4625
+      "price": 1860.59,
+      "change": 0.2441,
+      "changePercent": 0.0131
     }
   },
   "fx": {
@@ -137,8 +137,8 @@
       "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
     },
     {
-      "title": "亞馬遜強噴15%！美股收紅、台積電ADR小漲0.23% 台指期夜盤下滑1077點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNZmFsLXZ6WDNxazBSV1JIUkxrZEx5MHZtMGJRZ0xodE84YUtrUE84SXZMT2NPOGlLTnJJRkRpQ21PeWZxMV9CekhWYlBPcGoxZFB0Y2ZxeWNIMnhGb1FjazJzS3BiRnBfaTMzTW5tbWVJV2JHd3ZydFZndnd1MmVZS0QzdUNaM05ra29fWFotWkZ4NTNSRE91cWh1RmxlRXdpaXhrV1hkUUZzdVlZNDV2WWxfaHBZUmlkLVlTenNGY01sb0JaU1hQb3JDS1JCSnl6TDZENXZnWGYwaTdLMEpmdzI2aDZhS2lVckNMN2dYVjIxYmliQ2pOWFVKcHFVMU9qTXdVOEllZlc0djJQMW5kR19hdFU1N1I1S0JSaWhnNVlOU2N1b01xOUFEOWktWWVSX3NjRm53eXJVVUFGM0NOeVl6YlZzQS1MNGNUN180eDdzY2lKbl9oX3BwN3lLeXZwQkVGYms1NzViTjJmb3NGaURtTVZWUnVR?oc=5"
+      "title": "美股全紅也沒用？ 台指期夜盤暴跌1077點 網驚問：人道走廊關了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNVklGWFNVQnVJZHFaQ3hodVdRVE96OHAzQVBvci1hSVJkR1p3UG1hWnZrMFpnTXE2SWtmNE5SaHdlVllub0h2M1ROQ2dENFJxb1Bha080X21naWZXUW5EU0tUc0lxem5yZ0JTZlZWMXA0WTkwdmZmSEVRN2NsZTA4ZmFOV2pXUklrUUM5RHQ0NmZZTmQtMGFoUW1CN1JSZnROeWNYZ2VYa0U3azFGcWo0OTFuakpybFdZeko5MmRSRTNVX01wVzUzeDRLMWRld29BZDJieXRUbEt6RW1UYkN3R2NROEtvZ0VBTWdweDdmU3V2bklWWXhubkt3WmdBYWVNUWFNTDhHM1dac1QzYmtTdHduamhITW0tVWh6SWxwc2FwNEZvXy1Jcm5YVUt4RUttUWM0OFNRZ2Q3MlR4dF84RGlMT1JnYndTcVRaZ0E5bUhVLXVGRmg4WC1zWXF1bGtCN3hVaktUcmw2dXJoWDVFZ1QxVl92dm1sX3k2aUR1MXRONkw2?oc=5"
     },
     {
       "title": "台股下週剉咧等！台指期夜盤狂瀉超1000點 但美股卻全面大漲 - 自由財經",
