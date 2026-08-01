@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/01 14:27",
+  "updated_tw": "08/01 16:41",
   "taiwan": {
     "2330": {
       "price": 2425.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63013.97,
-      "change": -1711.3386,
-      "changePercent": -2.644
+      "price": 63041.64,
+      "change": 227.8939,
+      "changePercent": 0.3628
     },
     "ETH": {
-      "price": 1868.34,
-      "change": -49.0329,
-      "changePercent": -2.5573
+      "price": 1866.22,
+      "change": 5.8741,
+      "changePercent": 0.3158
     }
   },
   "fx": {
@@ -133,6 +133,10 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kSXpTQkJrZFZ2blowMXJMOWMtWFQtVGs3X296M0VqRktWZHUta04tNTNUWV9KUTVNOUFtSHhhbWRDd2tUV2ZxbGU2b1VoV3dRNnN1TTZHd3NBay1kb0xV?oc=5"
     },
     {
+      "title": "崩跌後就會暴漲！財經作家曝「下一步操作」　先出清1部位 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5naFNjYXB3VGNfTFUtbUc0XzhJbWxlSkRGUWg4MTV2MENranhlNXB5X3hBNzBST3JrNzJuTHBNWENKampUaU1uVlp3NkwxUUxUbVHSAVBBVV95cUxPV3hrYzNuV3Zfc1p4MllQSnVfOHJJVkZvUEQ5UjBSdmgxQzYxcFYwU2I3bWt5d3dIcTZGaDNYN0hxemZhNk96NkpyWHpjaHgxSw?oc=5"
+    },
+    {
       "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
     },
@@ -143,10 +147,6 @@
     {
       "title": "台股下週剉咧等！台指期夜盤狂瀉超1000點 但美股卻全面大漲 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RWDZQaGh3RDFxaXZyWGxnYlRSWm91eDVnd1ZPN0FQQXdXcE5WVEx0M1JpMUw0QV95S3ZtVGliV0x3OUZ0SktZNFh3MUlyNVNYbE5fZ0o0MmRtVDBhcTFj?oc=5"
-    },
-    {
-      "title": "台股飆最大漲點 四貸同堂效應 本周不可不知的五件財經大事 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRdkxLbGZUZDU0N0MyTXdtc3F4Z2RvWlpmd3dtc2FFRjRoTU9LYy1hc3NuVkxlVldmMWlOOVBZaTZJU1pyTjZBRzFpSm5Mb2h0Wl95TVZFdmFkd9IBX0FVX3lxTE92bWJkNXIwNnRxNEZHYl9Zb3A4Q1B3UEEtLXRfeVV2OC0wbnpna09EUHNYM1ppbGc4NG5BcVZRWnhIQmE0dlJHZXNFZWVTS01kNW9pUFBzMUNUVzZmb3Fr?oc=5"
     }
   ]
 }
