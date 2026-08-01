@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/01 16:41",
+  "updated_tw": "08/01 18:22",
   "taiwan": {
     "2330": {
       "price": 2425.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63041.64,
-      "change": 227.8939,
-      "changePercent": 0.3628
+      "price": 63004.41,
+      "change": 190.6639,
+      "changePercent": 0.3035
     },
     "ETH": {
-      "price": 1866.22,
-      "change": 5.8741,
-      "changePercent": 0.3158
+      "price": 1864.14,
+      "change": 3.7941,
+      "changePercent": 0.2039
     }
   },
   "fx": {
@@ -117,8 +117,12 @@
   },
   "news": [
     {
-      "title": "亞馬遜強噴15%！美股收紅、台積電ADR小漲0.23% 台指期夜盤下滑1077點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNZmFsLXZ6WDNxazBSV1JIUkxrZEx5MHZtMGJRZ0xodE84YUtrUE84SXZMT2NPOGlLTnJJRkRpQ21PeWZxMV9CekhWYlBPcGoxZFB0Y2ZxeWNIMnhGb1FjazJzS3BiRnBfaTMzTW5tbWVJV2JHd3ZydFZndnd1MmVZS0QzdUNaM05ra29fWFotWkZ4NTNSRE91cWh1RmxlRXdpaXhrV1hkUUZzdVlZNDV2WWxfaHBZUmlkLVlTenNGY01sb0JaU1hQb3JDS1JCSnl6TDZENXZnWGYwaTdLMEpmdzI2aDZhS2lVckNMN2dYVjIxYmliQ2pOWFVKcHFVMU9qTXdVOEllZlc0djJQMW5kR19hdFU1N1I1S0JSaWhnNVlOU2N1b01xOUFEOWktWWVSX3NjRm53eXJVVUFGM0NOeVl6YlZzQS1MNGNUN180eDdzY2lKbl9oX3BwN3lLeXZwQkVGYms1NzViTjJmb3NGaURtTVZWUnVR?oc=5"
+      "title": "黃金大跌！但1紀錄意外終結 後市緊盯「這價格」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZbFpRMi01cEpwMnpIR2lUTHE2Z2VlYXZVN3I3YVBlTzBIVmhEOGFaMTdJT3JIVUlpMVgzaS1ZQktJUmdVenFqUFlpNWZ3aVVES2NPb3d4UHptS2t0LXNj?oc=5"
+    },
+    {
+      "title": "台股危機四伏？阿斯匹靈：六貸同堂風險爆衝 留意這訊號 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNYWZUc2RsaXd0Mlg5NmtMYWw3aTBkNDdhZ2RxVDlCYlJZWjlJOHFBOU1HUkF1ZlFYbnFwMTE0YzJYVWxTbDM2MzYyVUdaSGdqYkktSjZQNU5XeXlpSFJuZGdHQnQtZ2xKeTRJTk9Wc2ExaEZWZDdMczdzUzBKLVJBajNodTlJRVU0RGNHNWJveXJXU3Ridm04X1VxTFNna1hqTm9BRkJXSVZoVkZ4M0ZTTmJSdFVQa2hOZzVZTVZIM2hkMGhhSEdiaUt6TE50SDNCcXVZR3FVVldQc2toelpFUkxJZWNnTkVFbExEcnpPS0YwRnJDdURCVjJDQS1RZ0hWRlpYRWstaHI5Z1g3YWRES1pnT3Y2TVBCQlBxeC0zTmdsN0JQWXg2ZmUxVWdKa2tabnh4UzlvdmMtbWs1bmZyX29fMVY3RFBRUnFhYTNRSnc0SHZYVl8wOURtUk52NnFvVVFVcmZfaHl1WlFWWnAzeF8yaw?oc=5"
     },
     {
       "title": "〈美股盤後〉亞馬遜飆超15% 蘋果挫逾7% 那指收高但創2006年來最慘7月表現 - news.cnyes.com",
@@ -129,10 +133,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MR19DcUx1alNBbFdzTmlJcDBBVWF5VGNNSWdqdzhiMHktOGFQdVRBeFd5LUw0UWNnVU1leThnN2l6WGZMTmxPMW9TNUdWQ292SEs4Ynp2MVc5UnRf0gFiQVVfeXFMT2NIUmxMN2FZajA0dlRRMl9jS2R1dXI4VFBvQ09FQzY4REtKMDlralNyenZUaUZtWDNIeWNxTEFlUWNINDJwSmxFM2hyZF9JTU9pYXBHVy1mVVFoeWd6dUlFV2c?oc=5"
     },
     {
-      "title": "美股收盤》亞馬遜飆逾15％！道瓊漲276點 台積電ADR走升 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kSXpTQkJrZFZ2blowMXJMOWMtWFQtVGs3X296M0VqRktWZHUta04tNTNUWV9KUTVNOUFtSHhhbWRDd2tUV2ZxbGU2b1VoV3dRNnN1TTZHd3NBay1kb0xV?oc=5"
-    },
-    {
       "title": "崩跌後就會暴漲！財經作家曝「下一步操作」　先出清1部位 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5naFNjYXB3VGNfTFUtbUc0XzhJbWxlSkRGUWg4MTV2MENranhlNXB5X3hBNzBST3JrNzJuTHBNWENKampUaU1uVlp3NkwxUUxUbVHSAVBBVV95cUxPV3hrYzNuV3Zfc1p4MllQSnVfOHJJVkZvUEQ5UjBSdmgxQzYxcFYwU2I3bWt5d3dIcTZGaDNYN0hxemZhNk96NkpyWHpjaHgxSw?oc=5"
     },
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
     },
     {
-      "title": "亞馬遜狂噴15%領軍！美股4大指數開高後陷震盪台積電ADR強噴4%拉回、台指期夜盤崩逾千點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxORUhmeTNjM2luVlVxU21TU0Y3WHBwX0owWHh1elotUmR0R1o0WGMtSmhLa2ZJRkFOQzNLT2RzeDJVRm5XOXVkTEJqYjdEOFdqRG1jX05XNjdldlhlaWdlQkJwWEFaLXBkUjhsTGZUUThQZWpaX3IyTS1EV0VDOU1kOHdtRWM5Q2JNSmdrNFZma3MxcjU2ZGxEczN6Y1F6c3RJTENkVi1fUkRsV1dwNjFUamVXclVsQWlUVENCRnNSd1BIcTVyLVo1Zk4xWXNmaDl6N1VVdjdHTkVHakpjd1BVWGRvR1BlcEhCSnk4Mi00TVM3VTdQWGQzS1d1UkUySmNuZ1FsRzA0TzhXSUdnaEk2aGVZYWNYVHBpaEFmN0tVNVB6MEZqTTBUR2dOc1F6V0xSOVVQbWpyU3pmRFEzVTFpbDNCQkc2VFdValM3Y1NhN0dieWZnWHhhblRUXzBLajlieGlnR1FxZWRRN2l4dFVjRGxiNTYwcnFrbGFnR1cyWUh0TWJaNHFRXzVBSXkxM0FUSGkzUllB?oc=5"
+      "title": "亞馬遜強噴15%！美股收紅、台積電ADR小漲0.23% 台指期夜盤下滑1077點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNZmFsLXZ6WDNxazBSV1JIUkxrZEx5MHZtMGJRZ0xodE84YUtrUE84SXZMT2NPOGlLTnJJRkRpQ21PeWZxMV9CekhWYlBPcGoxZFB0Y2ZxeWNIMnhGb1FjazJzS3BiRnBfaTMzTW5tbWVJV2JHd3ZydFZndnd1MmVZS0QzdUNaM05ra29fWFotWkZ4NTNSRE91cWh1RmxlRXdpaXhrV1hkUUZzdVlZNDV2WWxfaHBZUmlkLVlTenNGY01sb0JaU1hQb3JDS1JCSnl6TDZENXZnWGYwaTdLMEpmdzI2aDZhS2lVckNMN2dYVjIxYmliQ2pOWFVKcHFVMU9qTXdVOEllZlc0djJQMW5kR19hdFU1N1I1S0JSaWhnNVlOU2N1b01xOUFEOWktWWVSX3NjRm53eXJVVUFGM0NOeVl6YlZzQS1MNGNUN180eDdzY2lKbl9oX3BwN3lLeXZwQkVGYms1NzViTjJmb3NGaURtTVZWUnVR?oc=5"
     },
     {
-      "title": "台股下週剉咧等！台指期夜盤狂瀉超1000點 但美股卻全面大漲 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RWDZQaGh3RDFxaXZyWGxnYlRSWm91eDVnd1ZPN0FQQXdXcE5WVEx0M1JpMUw0QV95S3ZtVGliV0x3OUZ0SktZNFh3MUlyNVNYbE5fZ0o0MmRtVDBhcTFj?oc=5"
+      "title": "美股收盤》亞馬遜飆逾15％！道瓊漲276點 台積電ADR走升 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kSXpTQkJrZFZ2blowMXJMOWMtWFQtVGs3X296M0VqRktWZHUta04tNTNUWV9KUTVNOUFtSHhhbWRDd2tUV2ZxbGU2b1VoV3dRNnN1TTZHd3NBay1kb0xV?oc=5"
     }
   ]
 }
