@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/01 11:49",
+  "updated_tw": "08/01 14:27",
   "taiwan": {
     "2330": {
       "price": 2425.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 102.85,
-      "change": 9.15,
-      "changePercent": 9.7652
+      "change": 9.35,
+      "changePercent": 10.0
     },
     "00878": {
       "price": 32.43,
-      "change": 1.52,
-      "changePercent": 4.9175
+      "change": 1.68,
+      "changePercent": 5.4634
     },
     "00919": {
       "price": 29.57,
-      "change": 1.07,
-      "changePercent": 3.7544
+      "change": 1.32,
+      "changePercent": 4.6726
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62920.0,
-      "change": -1805.3086,
-      "changePercent": -2.7892
+      "price": 63013.97,
+      "change": -1711.3386,
+      "changePercent": -2.644
     },
     "ETH": {
-      "price": 1866.52,
-      "change": -50.8529,
-      "changePercent": -2.6522
+      "price": 1868.34,
+      "change": -49.0329,
+      "changePercent": -2.5573
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4098.6,
-    "twd": 4256.0,
-    "tael": 159585.0,
-    "twdTotal": 132364.0,
-    "changePercent": -0.0366
+    "usd": 4107.0,
+    "twd": 4264.0,
+    "tael": 159912.0,
+    "twdTotal": 132636.0,
+    "changePercent": 0.1683
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,7 +121,11 @@
       "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNZmFsLXZ6WDNxazBSV1JIUkxrZEx5MHZtMGJRZ0xodE84YUtrUE84SXZMT2NPOGlLTnJJRkRpQ21PeWZxMV9CekhWYlBPcGoxZFB0Y2ZxeWNIMnhGb1FjazJzS3BiRnBfaTMzTW5tbWVJV2JHd3ZydFZndnd1MmVZS0QzdUNaM05ra29fWFotWkZ4NTNSRE91cWh1RmxlRXdpaXhrV1hkUUZzdVlZNDV2WWxfaHBZUmlkLVlTenNGY01sb0JaU1hQb3JDS1JCSnl6TDZENXZnWGYwaTdLMEpmdzI2aDZhS2lVckNMN2dYVjIxYmliQ2pOWFVKcHFVMU9qTXdVOEllZlc0djJQMW5kR19hdFU1N1I1S0JSaWhnNVlOU2N1b01xOUFEOWktWWVSX3NjRm53eXJVVUFGM0NOeVl6YlZzQS1MNGNUN180eDdzY2lKbl9oX3BwN3lLeXZwQkVGYms1NzViTjJmb3NGaURtTVZWUnVR?oc=5"
     },
     {
-      "title": "美股早盤／四大指數齊揚 費半一度漲5%但隨後「漲幅收斂」蘋果摔9% - money.udn.com",
+      "title": "〈美股盤後〉亞馬遜飆超15% 蘋果挫逾7% 那指收高但創2006年來最慘7月表現 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51QnFUSXZkVGw5b1dWSWlYM3A1WHBlV0ltRTRPUmNqSU5OVVJWNnhhaVRLZFotMEVlZmlnSHNDXzFnSGJhRWt1cmQ1S3Ytbms?oc=5"
+    },
+    {
+      "title": "美股早盤／四大指數齊揚 費半一度漲5%但隨後「漲幅收斂」蘋果摔9% - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MR19DcUx1alNBbFdzTmlJcDBBVWF5VGNNSWdqdzhiMHktOGFQdVRBeFd5LUw0UWNnVU1leThnN2l6WGZMTmxPMW9TNUdWQ292SEs4Ynp2MVc5UnRf0gFiQVVfeXFMT2NIUmxMN2FZajA0dlRRMl9jS2R1dXI4VFBvQ09FQzY4REtKMDlralNyenZUaUZtWDNIeWNxTEFlUWNINDJwSmxFM2hyZF9JTU9pYXBHVy1mVVFoeWd6dUlFV2c?oc=5"
     },
     {
@@ -129,16 +133,8 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kSXpTQkJrZFZ2blowMXJMOWMtWFQtVGs3X296M0VqRktWZHUta04tNTNUWV9KUTVNOUFtSHhhbWRDd2tUV2ZxbGU2b1VoV3dRNnN1TTZHd3NBay1kb0xV?oc=5"
     },
     {
-      "title": "華爾街不再閉眼買美股七雄！AI資金開始大搬家 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGWi1WelBaM0lRel83NzM3cG0tdHI5NkFFUU1CZ1ZiZlB0OU9XalhjWkVrQ1k5WHplaVpXQUk0enNENHZ0dTJma1BJR3JWYTA?oc=5"
-    },
-    {
       "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
-    },
-    {
-      "title": "早安世界》台股飆3186.45點創史上最大漲點 7月下跌3006點 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YaEI0dDBiSU50SE1xVm5kN0xTQl9NSzU0V05ET2YyNEdINkw4NTV6amtnZ2JqQ0t1ZFZvdUNZUnFNNXdRaWtmMlVrVWtGSElBTkF6ZXFINS1tazZ5R3Nr?oc=5"
     },
     {
       "title": "亞馬遜狂噴15%領軍！美股4大指數開高後陷震盪台積電ADR強噴4%拉回、台指期夜盤崩逾千點 - Yahoo股市",
@@ -147,6 +143,10 @@
     {
       "title": "台股下週剉咧等！台指期夜盤狂瀉超1000點 但美股卻全面大漲 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RWDZQaGh3RDFxaXZyWGxnYlRSWm91eDVnd1ZPN0FQQXdXcE5WVEx0M1JpMUw0QV95S3ZtVGliV0x3OUZ0SktZNFh3MUlyNVNYbE5fZ0o0MmRtVDBhcTFj?oc=5"
+    },
+    {
+      "title": "台股飆最大漲點 四貸同堂效應 本周不可不知的五件財經大事 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRdkxLbGZUZDU0N0MyTXdtc3F4Z2RvWlpmd3dtc2FFRjRoTU9LYy1hc3NuVkxlVldmMWlOOVBZaTZJU1pyTjZBRzFpSm5Mb2h0Wl95TVZFdmFkd9IBX0FVX3lxTE92bWJkNXIwNnRxNEZHYl9Zb3A4Q1B3UEEtLXRfeVV2OC0wbnpna09EUHNYM1ppbGc4NG5BcVZRWnhIQmE0dlJHZXNFZWVTS01kNW9pUFBzMUNUVzZmb3Fr?oc=5"
     }
   ]
 }
