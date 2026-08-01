@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/01 06:58",
+  "updated_tw": "08/01 08:07",
   "taiwan": {
     "2330": {
       "price": 2425.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62876.5,
-      "change": -1848.8086,
-      "changePercent": -2.8564
+      "price": 62877.55,
+      "change": -1847.7586,
+      "changePercent": -2.8548
     },
     "ETH": {
-      "price": 1859.98,
-      "change": -57.3929,
-      "changePercent": -2.9933
+      "price": 1862.19,
+      "change": -55.1829,
+      "changePercent": -2.878
     }
   },
   "fx": {
@@ -121,11 +121,15 @@
       "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxORUhmeTNjM2luVlVxU21TU0Y3WHBwX0owWHh1elotUmR0R1o0WGMtSmhLa2ZJRkFOQzNLT2RzeDJVRm5XOXVkTEJqYjdEOFdqRG1jX05XNjdldlhlaWdlQkJwWEFaLXBkUjhsTGZUUThQZWpaX3IyTS1EV0VDOU1kOHdtRWM5Q2JNSmdrNFZma3MxcjU2ZGxEczN6Y1F6c3RJTENkVi1fUkRsV1dwNjFUamVXclVsQWlUVENCRnNSd1BIcTVyLVo1Zk4xWXNmaDl6N1VVdjdHTkVHakpjd1BVWGRvR1BlcEhCSnk4Mi00TVM3VTdQWGQzS1d1UkUySmNuZ1FsRzA0TzhXSUdnaEk2aGVZYWNYVHBpaEFmN0tVNVB6MEZqTTBUR2dOc1F6V0xSOVVQbWpyU3pmRFEzVTFpbDNCQkc2VFdValM3Y1NhN0dieWZnWHhhblRUXzBLajlieGlnR1FxZWRRN2l4dFVjRGxiNTYwcnFrbGFnR1cyWUh0TWJaNHFRXzVBSXkxM0FUSGkzUllB?oc=5"
     },
     {
-      "title": "華爾街不再閉眼買美股七雄！AI資金開始大搬家 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGWi1WelBaM0lRel83NzM3cG0tdHI5NkFFUU1CZ1ZiZlB0OU9XalhjWkVrQ1k5WHplaVpXQUk0enNENHZ0dTJma1BJR3JWYTA?oc=5"
+      "title": "〈美股盤後〉亞馬遜飆超15% 蘋果挫逾7% 那指收高但創2006年來最慘7月表現 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51QnFUSXZkVGw5b1dWSWlYM3A1WHBlV0ltRTRPUmNqSU5OVVJWNnhhaVRLZFotMEVlZmlnSHNDXzFnSGJhRWt1cmQ1S3Ytbms?oc=5"
     },
     {
-      "title": "美股早盤／4大指數齊揚！費半一度漲5%但「漲幅收斂」蘋果摔9% - UDN",
+      "title": "美股收盤》亞馬遜飆逾15％！道瓊漲276點 台積電ADR走升 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kSXpTQkJrZFZ2blowMXJMOWMtWFQtVGs3X296M0VqRktWZHUta04tNTNUWV9KUTVNOUFtSHhhbWRDd2tUV2ZxbGU2b1VoV3dRNnN1TTZHd3NBay1kb0xV?oc=5"
+    },
+    {
+      "title": "美股早盤／4大指數齊揚！費半一度漲5%但「漲幅收斂」蘋果摔9% - udn.com",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56Nk40QmtwU19yWkc4NWpObmpjSzF5WE9Dc2xHUDY5c0dxV0h0cFE5ODNjVGxxVkhST05WTEpiQ2RhY0d6bWhvd3BPTVp1eWFD?oc=5"
     },
     {
@@ -137,16 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPTVRya1haOXNQTVVxZUVYcUZET01YMkdRQ0ZWYjEyM3daZFpWRDNHN0tSaUE5R2FreEtFQ004OHBqaEF5QUgyekZmTGVIR2NwYWJXYUdxRWZnUkhOR1hoRV9fbURFb3pmZ1BsVTRYdlJWM1hRRWxEaFpwUmQ1cU1XbkFvSlEydnBVRFhab3YtSkdnWklIZVFYV19jdmhCaXp5c2YzZWxYYVVlc0tQRGhkVGNJcFBFYnRObWJ5aUtLNjMwTkdpRE1LOHczOVBTMExRSjNua3dtdzVrejBIU1g0NVAtLUhaU2VaTEZwRV9hVkFyZUxuNUtlXzhaTnRQQjhPR1B1cjJQd0ptV1dHb1lKZURJb2VncmFxUFJWVzgwWkMyaGdONHNZV2pqLVdTaThsa3FIWk9iX3BsSzdnSlZkTGNJTEhFVWFLMm5TSGVpQW0xekJqNFkwc1pUZVFoTk9uaXZzLWxQUnlUUnR1R3h1RVFJRUoyV25nckltYXpRQTRoM1hwR2c?oc=5"
     },
     {
-      "title": "超瘋狂7月！台股單日飆升3,186點 指數一個月內包辦最大漲點與跌點 - UDN",
+      "title": "華爾街不再閉眼買美股七雄！AI資金開始大搬家 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGWi1WelBaM0lRel83NzM3cG0tdHI5NkFFUU1CZ1ZiZlB0OU9XalhjWkVrQ1k5WHplaVpXQUk0enNENHZ0dTJma1BJR3JWYTA?oc=5"
+    },
+    {
+      "title": "超瘋狂7月！台股單日飆升3,186點 指數一個月內包辦最大漲點與跌點 - udn.com",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pQ0xEYW9uYjgxUXljYURac1JacFFDQmE2X2hSdkVmMHNzOGxsOEEzV0RhSzU5Zkx2bEFnYTE4NzAtdWNVdjg0cFB4SFdHYnlv0gFWQVVfeXFMTzVrLWdCVmpEcEFWcTJpVmU0ZmZHa1BWV0NjTUl4OVBZUHZMMXZjY2ZEemd2RGdFcTYySjJiUEg1Z1laQzhuZml2Z28tQl9Vcy1BTmhZWUE?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉亞馬遜飆超15% 蘋果挫逾7% 那指收高但創2006年來最慘7月表現 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51QnFUSXZkVGw5b1dWSWlYM3A1WHBlV0ltRTRPUmNqSU5OVVJWNnhhaVRLZFotMEVlZmlnSHNDXzFnSGJhRWt1cmQ1S3Ytbms?oc=5"
-    },
-    {
-      "title": "今天進場的完蛋？台指期夜盤暴跌千點 美股漲也救不了 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPT3I1em9XSHh4QXBYN1p5aVpQYTNuVGdqZW1fUUZYRDJKdWRkUUFvZHJvU2hxY3VNUWUyWDVOdGNFcnRKalNtUXh1Qkd5TGEyOHR0eGU3WHZTdld4RDFMbjh4YTN5a1B5R2hqLTNVWVhmOV9rR2U0NE9TM1cyVVpQdHhzNHctU0hORU9NOHRsYksxVTBKSHhvclVhT3MwSDhMZnhRME1KcjlDWFNaVjl2VEsyVHZEMU0xU090SkxERTc3M1o1MXhzenNiaElVM2Q0bG1pSHNWQ0xNUGlPalVsWFl6SGdWcFpwUmlpU3Y3bHlvZFUyOGVmOXI3ZE1fYlhmcWN5X0M1bUZ0ZkhCZVJYMFRnejNXN21ZRFZaTnpUdHVia1Awc2lRX2NzU1QxMmEzbk9JRGU2aWtYU2xIQTVvbGx4c1BTNHZfVWt2VXRHbXFLR0Z4eF9neDZLR21Ma3BtQ1lsMXg5dTMtUQ?oc=5"
     }
   ]
 }
