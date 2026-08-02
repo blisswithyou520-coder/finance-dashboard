@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/03 06:09",
+  "updated_tw": "08/03 07:11",
   "taiwan": {
     "2330": {
       "price": 2425.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63611.79,
-      "change": 848.4697,
-      "changePercent": 1.3519
+      "price": 63308.52,
+      "change": 545.1997,
+      "changePercent": 0.8687
     },
     "ETH": {
-      "price": 1891.31,
-      "change": 47.8923,
-      "changePercent": 2.598
+      "price": 1877.41,
+      "change": 33.9923,
+      "changePercent": 1.844
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.295,
-      "change": -0.1,
-      "changePercent": -0.3087
+      "price": 32.293,
+      "change": -0.102,
+      "changePercent": -0.3149
     },
     "JPYTWD": {
-      "price": 0.2029,
-      "change": 0.0006,
-      "changePercent": 0.308
+      "price": 0.203,
+      "change": 0.0007,
+      "changePercent": 0.3574
     },
     "EURTWD": {
-      "price": 37.275,
-      "change": -0.0563,
-      "changePercent": -0.1509
+      "price": 37.327,
+      "change": -0.0043,
+      "changePercent": -0.0116
     },
     "CNYTWD": {
-      "price": 4.7907,
+      "price": 4.7904,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4107.0,
-    "twd": 4264.0,
-    "tael": 159912.0,
-    "twdTotal": 132636.0,
-    "changePercent": 0.1683
+    "usd": 4120.6,
+    "twd": 4278.0,
+    "tael": 160432.0,
+    "twdTotal": 133067.0,
+    "changePercent": 1.7658
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,8 +117,8 @@
   },
   "news": [
     {
-      "title": "台股週報》期貨夜盤還在跌 融資減少助反攻 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPRjN2VC1HMEo1a244N0xxZW1YSlhCTk9VNV9rbFY4NV9jVGRhSjB2SFBsY0ZIU0xVMWlaaXZTYzE1QkJ1a0ozNGdfY0ZhRzhjS2JydTRXUTlHRkJ0OWhVZ1hWY3JXUGJFbWxydWFTQ09wcDJESVZYdVB4Y05sNzZHT0lzYXh3VkxVbkVOQTV2TndBallQQlk5aWJZQjVZN3dwTXNCdlRVNS1kQ3VaZkFDMm5WUWUwdE51OUhkRlVoMnQ2dk9LR1BBWUhyajU2UTVVZEJXRWJ3amNPX2QyaVFiazhMMHJiczdYX2tqSmxpclc5bVlmNDRrcXNhdnVtc29uLUdhbWZyYmJKUFczMkFVaG5MbEhTT2hOMnJWMkNaQlJSSmExeG1WSm9ZSzVNZw?oc=5"
+      "title": "夜盤暴跌千點台股今不妙？專家揭「1關鍵轉折訊號」：可稍微安心 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPNHdkUmZWbi1zczJ0UG9JUng3dDRPNG1RS0xUTUVSMk9naHF5bDFTbVVSQU4yd194dk8xeVBKd1dGVENhTF9FWGpHQzNhWkd4TFJmbm8zdDRxZkZDMkEzc0R3aVpSY2NfeDYxZVFsd3BldXhxMS1jcklkSmF1aFQ0U0FKM2xBMVg1a2dxRkljVnNnZmNRWExmYUxPMmgxUW0zUF94S0NWNGkyemk5RFhzaENfUmRpMkhNMjJwUDI5T28tRkNTWHVmTXo1b1pJNmE3Zno4R0VmSWtUWDJjSlpkSWZ4bkpkV0NVZk5LZDlyb2FBVkJSWjNVeU15OGdwVjF3MUhHdFctaGNHbmZScjB5S3hGMEY2MXNTUjBUN2g5dmZKcS11WXd4MlNYZnZEU29aeVNsX2J1OWRiSWN6MEdXeEhUd19XcXdUSXU3Z1ZEcW84b1E3Z1NTZy0tLWVidDhQN013aUd4TG1EbWFoakE0d2RFOThXZnBqajdmUngycEVkcG5P?oc=5"
     },
     {
       "title": "郭哲榮：台股破4萬點 我大買1億的0050 | 市場焦點 | 證券 - 經濟日報",
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oaEpNajU3Ym1QWENmUXo0RUFuZDhBWks3dEoyU3VyZUZKTUhTSkx4MXB1aUF6amo2TUZnN1drdC16Y1lLdDlrUFV1eWJoUGs?oc=5"
     },
     {
+      "title": "《貴金屬》COMEX黃金下跌1.3% ETF持倉減少- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUZGa1BabWUzaWVRb2ZMQUpzTnBINXBQZ0Y1QjVEUjd5U0x3LU4talZxZW9wMkI0Wlh3MUFlVndLOW03RkZ5THdWZ2VINlBOU1M4czJoTEJaUGpYZ3laMHJ4UEVDY3dYYk5pU1ZwalJzNkdVTkVnQTdoVWdXMm53T3NlSk1Rd1ZjUHQydGdRQVBpQQ?oc=5"
+    },
+    {
       "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
     },
     {
-      "title": "台股上演急跌急彈震盪週展望後市多空因素一次看| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QT2lqUFBEN05FdV9IX2NsbXI1TWlqM0htWmI0SXhOX0JGYnF6Zk9DeFkxNU94R2pIMlBQT2huekZUc3VRTVVlVUFuZk8zY01rTjE5Vk1RN1pXZmEtVlE?oc=5"
-    },
-    {
-      "title": "夜盤暴跌千點台股今不妙？專家揭「1關鍵轉折訊號」：可稍微安心 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPNHdkUmZWbi1zczJ0UG9JUng3dDRPNG1RS0xUTUVSMk9naHF5bDFTbVVSQU4yd194dk8xeVBKd1dGVENhTF9FWGpHQzNhWkd4TFJmbm8zdDRxZkZDMkEzc0R3aVpSY2NfeDYxZVFsd3BldXhxMS1jcklkSmF1aFQ0U0FKM2xBMVg1a2dxRkljVnNnZmNRWExmYUxPMmgxUW0zUF94S0NWNGkyemk5RFhzaENfUmRpMkhNMjJwUDI5T28tRkNTWHVmTXo1b1pJNmE3Zno4R0VmSWtUWDJjSlpkSWZ4bkpkV0NVZk5LZDlyb2FBVkJSWjNVeU15OGdwVjF3MUhHdFctaGNHbmZScjB5S3hGMEY2MXNTUjBUN2g5dmZKcS11WXd4MlNYZnZEU29aeVNsX2J1OWRiSWN6MEdXeEhUd19XcXdUSXU3Z1ZEcW84b1E3Z1NTZy0tLWVidDhQN013aUd4TG1EbWFoakE0d2RFOThXZnBqajdmUngycEVkcG5P?oc=5"
+      "title": "台股週報》期貨夜盤還在跌 融資減少助反攻 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPRjN2VC1HMEo1a244N0xxZW1YSlhCTk9VNV9rbFY4NV9jVGRhSjB2SFBsY0ZIU0xVMWlaaXZTYzE1QkJ1a0ozNGdfY0ZhRzhjS2JydTRXUTlHRkJ0OWhVZ1hWY3JXUGJFbWxydWFTQ09wcDJESVZYdVB4Y05sNzZHT0lzYXh3VkxVbkVOQTV2TndBallQQlk5aWJZQjVZN3dwTXNCdlRVNS1kQ3VaZkFDMm5WUWUwdE51OUhkRlVoMnQ2dk9LR1BBWUhyajU2UTVVZEJXRWJ3amNPX2QyaVFiazhMMHJiczdYX2tqSmxpclc5bVlmNDRrcXNhdnVtc29uLUdhbWZyYmJKUFczMkFVaG5MbEhTT2hOMnJWMkNaQlJSSmExeG1WSm9ZSzVNZw?oc=5"
     },
     {
       "title": "台股8月天 三利多撐腰 盤勢整理後將有望上攻45K大關 | 市場焦點 | 證券 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kYWltZU0wMHRiWGxzejZlODVWbUJGVWE5ZFIxWmU2RlUxMTcteVZrT01UVnN5cVZjVjN3SzQtUXk5eGxmVVNYUFU4T1NGRDYxdG5pVzltY1JycmVzV3V5aWt4dnhPSGNUM2U2S0ZROUdPSEdSd3c?oc=5"
     },
     {
-      "title": "〈台股盤前要聞〉狂飆3186點後回防4萬3、Q2GDP上修至12.92%、聯發科上調ASIC市占率 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tekMzYmViQjVPYUlxYWhlazY1OGNHdnRtb0xUMHNTSlRSSXZYNXhtS211d0JBRGZhOFQ3TGcyQk9PYUZ2SnhqOFQ4dWwzWm8?oc=5"
+      "title": "《美股》亞馬遜/谷歌嗨 那指揚 緊盯公債殖利率-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2V5ekdyYlZDVk13WDBxamNkRDFGRjVMRHNRVnJfU3BjNThXN19XQXRnVHVDcHE2Rm1zbjRwWWZFZE1GU1NKYTM5Y2ZGNEJXVG9GcDQzeGQyT3prOUhoYmRnNnU2TzBWSkIyRE1UVmlJZlJxeWxUb3dPZmhmUExfZmxFME9sOVEycGxGY2hiaTM?oc=5"
     }
   ]
 }
