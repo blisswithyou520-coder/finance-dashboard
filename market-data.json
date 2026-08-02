@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/02 19:41",
+  "updated_tw": "08/02 20:42",
   "taiwan": {
     "2330": {
       "price": 2425.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63105.91,
-      "change": 342.5897,
-      "changePercent": 0.5458
+      "price": 63081.85,
+      "change": 318.5297,
+      "changePercent": 0.5075
     },
     "ETH": {
-      "price": 1859.69,
-      "change": 16.2723,
-      "changePercent": 0.8827
+      "price": 1856.12,
+      "change": 12.7023,
+      "changePercent": 0.6891
     }
   },
   "fx": {
@@ -117,6 +117,10 @@
   },
   "news": [
     {
+      "title": "台股漲停買不到夜盤又轉跌！散戶憂「周一被外資殺」 網嘆：人道走廊你不跑 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPcTRIYTEzcDBfS09NZlNWaENBWDVLMTB2YUNORE04NzhHZjBxWF9GUGltazZNb0xzLVJOdkhqVWFqcmRmQndXNWpSc2hTbWJKZEE3M3preVd4ZFhqeGNvRnk1cFh4b1R5SG9QdEFQaWxDN2tRV1VIM3hsejFRLTYweW1iVVQwbGRpXzVyc2ZyM1RtdmdmZVNmcV9TaVppblFMbS1PTFhPaWVTam51dkpud2xJaU9raUluM2hPVF90NWgzbEpLdVk2THhlanQ2MVRoVlp4SkZSek80ZmtTN2JEVGZGamVWclp3ZEsyX0NPY1piSUVwb0JoMXJwSU5mWVpwNnA4Q2N4YWZtdWVIZ05QN0duRVFtRURpc19na0RqZ2lwWTBFZXE0bldDdm9yelpIQlNFR253RVNlWDJEa3hvTkR1bzdoNngzMEhPU0NfSl9pMDB6bU1wUk5COTduWTRhRE9uMnlLUno?oc=5"
+    },
+    {
       "title": "台股上演急跌急彈震盪週展望後市多空因素一次看| 證券 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QT2lqUFBEN05FdV9IX2NsbXI1TWlqM0htWmI0SXhOX0JGYnF6Zk9DeFkxNU94R2pIMlBQT2huekZUc3VRTVVlVUFuZk8zY01rTjE5Vk1RN1pXZmEtVlE?oc=5"
     },
@@ -129,24 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3QWVKQkZVUmpjTjB1bGp3RUZMWHRDX1pHak5iSXlIbWVXTjY0OG5SUUt1NWZhZm5qcXEtZGU4ZW9qaGs4YWdPbHJxa0kybmc?oc=5"
     },
     {
-      "title": "台股漲停買不到夜盤又轉跌！散戶憂「周一被外資殺」 網嘆：人道走廊你不跑 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPcTRIYTEzcDBfS09NZlNWaENBWDVLMTB2YUNORE04NzhHZjBxWF9GUGltazZNb0xzLVJOdkhqVWFqcmRmQndXNWpSc2hTbWJKZEE3M3preVd4ZFhqeGNvRnk1cFh4b1R5SG9QdEFQaWxDN2tRV1VIM3hsejFRLTYweW1iVVQwbGRpXzVyc2ZyM1RtdmdmZVNmcV9TaVppblFMbS1PTFhPaWVTam51dkpud2xJaU9raUluM2hPVF90NWgzbEpLdVk2THhlanQ2MVRoVlp4SkZSek80ZmtTN2JEVGZGamVWclp3ZEsyX0NPY1piSUVwb0JoMXJwSU5mWVpwNnA4Q2N4YWZtdWVIZ05QN0duRVFtRURpc19na0RqZ2lwWTBFZXE0bldDdm9yelpIQlNFR253RVNlWDJEa3hvTkR1bzdoNngzMEhPU0NfSl9pMDB6bU1wUk5COTduWTRhRE9uMnlLUno?oc=5"
-    },
-    {
       "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
     },
     {
-      "title": "熱門族群》 金融股強勢防禦 台股震盪中流砥柱 - 自由財經",
+      "title": "台股周一漲還是跌？台積電、欣興、南亞…8月V轉機率多高？先看股市老手16檔口袋名單「甜甜價浮現」 - 今周刊",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVZwZnJmSWVhQ2NHYkJlTi1EUzU3cVNGLUNtN0JvWUFhQm0xMF9KbVUyRFFzWVY4cUlnb1lqd0F5SHVrVU1uMUxtU2R5aGlIODVzN3pnei1tMlo0Q3dYM0wwNmcwSEVJQlltNlpjUHY0b0tDQmtiVFBpQmFqUXJrbg?oc=5"
+    },
+    {
+      "title": "熱門族群》 金融股強勢防禦 台股震盪中流砥柱 - ec.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OUXBIUmdIS1VPVXNCczFpSkY4UGFnX28zME1sUTI1Mkw1SlFJR01JZGNEOTBsNnVib3c2ZUdqVlpXQU1Nc1BWREdDeVBVN1Q3QXFZcHJ5T1VCTnVaOGxr?oc=5"
     },
     {
       "title": "台股周一挫咧等！財經達人卻說回檔「很正常」 6檔逢低撿便宜「這標的」毋通- 證券 - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sUHVnN1U0c1lDcGlpZ1lQV24yQ0hWMWZOVElaSThqMkRUdG9faTE4UlFYa19yN0Mza3pqbDdwY1VjYjZxWDF3b3c4bXhXYlg0dTlFLU1lUkQ3c19Xei1z?oc=5"
-    },
-    {
-      "title": "台股周一漲還是跌？台積電、欣興、南亞…8月V轉機率多高？先看股市老手16檔口袋名單「甜甜價浮現」 - 今周刊",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVZwZnJmSWVhQ2NHYkJlTi1EUzU3cVNGLUNtN0JvWUFhQm0xMF9KbVUyRFFzWVY4cUlnb1lqd0F5SHVrVU1uMUxtU2R5aGlIODVzN3pnei1tMlo0Q3dYM0wwNmcwSEVJQlltNlpjUHY0b0tDQmtiVFBpQmFqUXJrbg?oc=5"
     }
   ]
 }
