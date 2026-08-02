@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/03 02:43",
+  "updated_tw": "08/03 03:58",
   "taiwan": {
     "2330": {
       "price": 2425.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63420.45,
-      "change": 657.1297,
-      "changePercent": 1.047
+      "price": 63374.21,
+      "change": 610.8897,
+      "changePercent": 0.9733
     },
     "ETH": {
-      "price": 1878.3,
-      "change": 34.8823,
-      "changePercent": 1.8923
+      "price": 1880.2,
+      "change": 36.7823,
+      "changePercent": 1.9953
     }
   },
   "fx": {
@@ -125,11 +125,15 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kYWltZU0wMHRiWGxzejZlODVWbUJGVWE5ZFIxWmU2RlUxMTcteVZrT01UVnN5cVZjVjN3SzQtUXk5eGxmVVNYUFU4T1NGRDYxdG5pVzltY1JycmVzV3V5aWt4dnhPSGNUM2U2S0ZROUdPSEdSd3c?oc=5"
     },
     {
+      "title": "台股週報》期貨夜盤還在跌 融資減少助反攻 - 卡優新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41bThMZTdoQlNmalZFczZvcS13T0VRSFB3S2hSdUVyd0x5QTRpSFJIUmRkWlBHU05HWEJGTmNyeHBPMDVkWHV5Tzc0TFd4TEFYeWMtbXh1N2ZjZw?oc=5"
+    },
+    {
       "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
     },
     {
-      "title": "台股上演急跌急彈震盪週展望後市多空因素一次看| 證券 - 中央社 CNA",
+      "title": "台股上演急跌急彈震盪週展望後市多空因素一次看| 證券 - cna.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QT2lqUFBEN05FdV9IX2NsbXI1TWlqM0htWmI0SXhOX0JGYnF6Zk9DeFkxNU94R2pIMlBQT2huekZUc3VRTVVlVUFuZk8zY01rTjE5Vk1RN1pXZmEtVlE?oc=5"
     },
     {
@@ -143,10 +147,6 @@
     {
       "title": "台股震盪跌逾500點！「光通訊黑馬」逆勢周漲9.3% 6月EPS達0.22元翻轉去年虧損慘況 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOQUY2dG53aU5WY25ybGFlQ1BGcUhBOHpocnFwaWs2WEtMbXBmb2VHU21OUC1yMTVFU0Zkb1l1WkJ1WVZiWTMxU2I3LWpSa19GMDBRUTg3cEcyRUZ3b0xHMFlzWFR0ZGQ1OUN0Q19CSURQZ01xNHA5a1Zta0JrY1pxNWExNWppNWE1WGEzdk0yVHoydlRCODRHT3JySmRIY0xZT2F6LXItM08xQkhxb3BkZ2J6VVFuWEpoWGtyYWp0UDNTTlU5SFhHVmFWYzFHMkJZVDlWQjg4ZmpaYWxja3lPaVl0clBlQ2haenlxWVhKc0hxbEp6c0Q5b0M2aWd3d0tzSjl4cmNKUWkxUThvd0JldWlkTnFxMWEtQTNrbEp2eXFKR25NeG03S2xWR01LY3BMMng4UEI1cERqVlMweml4VXU3ekkxdw?oc=5"
-    },
-    {
-      "title": "美股早盤／四大指數齊揚 費半一度漲5%但隨後「漲幅收斂」蘋果摔9% - money.udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MR19DcUx1alNBbFdzTmlJcDBBVWF5VGNNSWdqdzhiMHktOGFQdVRBeFd5LUw0UWNnVU1leThnN2l6WGZMTmxPMW9TNUdWQ292SEs4Ynp2MVc5UnRf0gFiQVVfeXFMT2NIUmxMN2FZajA0dlRRMl9jS2R1dXI4VFBvQ09FQzY4REtKMDlralNyenZUaUZtWDNIeWNxTEFlUWNINDJwSmxFM2hyZF9JTU9pYXBHVy1mVVFoeWd6dUlFV2c?oc=5"
     }
   ]
 }
