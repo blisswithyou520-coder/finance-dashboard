@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/02 16:43",
+  "updated_tw": "08/02 18:20",
   "taiwan": {
     "2330": {
       "price": 2425.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63205.22,
-      "change": 441.8997,
-      "changePercent": 0.7041
+      "price": 63167.47,
+      "change": 404.1497,
+      "changePercent": 0.6439
     },
     "ETH": {
-      "price": 1868.2,
-      "change": 24.7823,
-      "changePercent": 1.3444
+      "price": 1867.5,
+      "change": 24.0823,
+      "changePercent": 1.3064
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
-    },
-    {
       "title": "台股上演急跌急彈震盪週展望後市多空因素一次看| 證券 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QT2lqUFBEN05FdV9IX2NsbXI1TWlqM0htWmI0SXhOX0JGYnF6Zk9DeFkxNU94R2pIMlBQT2huekZUc3VRTVVlVUFuZk8zY01rTjE5Vk1RN1pXZmEtVlE?oc=5"
-    },
-    {
-      "title": "台股漲停買不到夜盤又轉跌！散戶憂「周一被外資殺」 網嘆：人道走廊你不跑 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPcTRIYTEzcDBfS09NZlNWaENBWDVLMTB2YUNORE04NzhHZjBxWF9GUGltazZNb0xzLVJOdkhqVWFqcmRmQndXNWpSc2hTbWJKZEE3M3preVd4ZFhqeGNvRnk1cFh4b1R5SG9QdEFQaWxDN2tRV1VIM3hsejFRLTYweW1iVVQwbGRpXzVyc2ZyM1RtdmdmZVNmcV9TaVppblFMbS1PTFhPaWVTam51dkpud2xJaU9raUluM2hPVF90NWgzbEpLdVk2THhlanQ2MVRoVlp4SkZSek80ZmtTN2JEVGZGamVWclp3ZEsyX0NPY1piSUVwb0JoMXJwSU5mWVpwNnA4Q2N4YWZtdWVIZ05QN0duRVFtRURpc19na0RqZ2lwWTBFZXE0bldDdm9yelpIQlNFR253RVNlWDJEa3hvTkR1bzdoNngzMEhPU0NfSl9pMDB6bU1wUk5COTduWTRhRE9uMnlLUno?oc=5"
     },
     {
       "title": "賣壓大幅收斂 台股出現量縮強漲結構 法人：關注成交量是否放大 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iYVR6NFhYRXZHcm10c0xSVmFJbDlEa2R1cHdtU1JQZk1TdHAzakM5ejQ0eXFKRHhSTExmNWNkZzI0b2hCM1NRTElxZWI5VzMt0gFWQVVfeXFMTk1Ya2V6ZzZPTVVmSGY1eU5iNFFfVFE3YXQ5Z2hkZG45a1hHR2trenNjSnI3cFVxaUFuZDRiLUVhUTJVTU9yZHF3VnM5c3kwTlhKYUVkeEE?oc=5"
     },
     {
+      "title": "台股漲停買不到夜盤又轉跌！散戶憂「周一被外資殺」 網嘆：人道走廊你不跑 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPcTRIYTEzcDBfS09NZlNWaENBWDVLMTB2YUNORE04NzhHZjBxWF9GUGltazZNb0xzLVJOdkhqVWFqcmRmQndXNWpSc2hTbWJKZEE3M3preVd4ZFhqeGNvRnk1cFh4b1R5SG9QdEFQaWxDN2tRV1VIM3hsejFRLTYweW1iVVQwbGRpXzVyc2ZyM1RtdmdmZVNmcV9TaVppblFMbS1PTFhPaWVTam51dkpud2xJaU9raUluM2hPVF90NWgzbEpLdVk2THhlanQ2MVRoVlp4SkZSek80ZmtTN2JEVGZGamVWclp3ZEsyX0NPY1piSUVwb0JoMXJwSU5mWVpwNnA4Q2N4YWZtdWVIZ05QN0duRVFtRURpc19na0RqZ2lwWTBFZXE0bldDdm9yelpIQlNFR253RVNlWDJEa3hvTkR1bzdoNngzMEhPU0NfSl9pMDB6bU1wUk5COTduWTRhRE9uMnlLUno?oc=5"
+    },
+    {
       "title": "〈台股風向球〉台股最慘7月收斂正乖 8月多方拚突破月季線兩個反壓 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3QWVKQkZVUmpjTjB1bGp3RUZMWHRDX1pHak5iSXlIbWVXTjY0OG5SUUt1NWZhZm5qcXEtZGU4ZW9qaGs4YWdPbHJxa0kybmc?oc=5"
     },
     {
-      "title": "熱門族群》 金融股強勢防禦 台股震盪中流砥柱 - 自由財經",
+      "title": "熱門族群》 金融股強勢防禦 台股震盪中流砥柱 - ec.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OUXBIUmdIS1VPVXNCczFpSkY4UGFnX28zME1sUTI1Mkw1SlFJR01JZGNEOTBsNnVib3c2ZUdqVlpXQU1Nc1BWREdDeVBVN1Q3QXFZcHJ5T1VCTnVaOGxr?oc=5"
     },
     {
-      "title": "台股夜盤急殺千點！陳重銘分析周一仍有賣壓 曝「這6檔」可逢低入場 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPTWhveW5wMkJVZFBzTEp4dktwUEVvOS1HWkhET0Rpb2Jfa2hCeWJfZ1RFZXBFbDZVcTJqOVVHaHJPMGNxa3h1NzJlcHZwUzdDbjNQM1YyRVA3aHZJU1loQlkyeS1PNUtoY1BmSkJHRmxCdmQ5a2p6WUNhX0VaUzMxcFpCSXlaUlZjYzgzZ1NJU0RGd0hlT01XYkxIWENLVTVqU3oyWEwyQ2lMNmg0bENOcF9Kb1FhWkJzcGJkdkdqc1FmQ3hMaGJNbGt1UGEzZmt1eFBJbVlGamdzdGJhT3VoV0tNeXdWaE1jNFo4NkFHdzc0RDZ5bk1nczZ1bkhSMTJzWnFxcVRaUEVqeTZoemZES29VakZtU3c3cnNsR2dKRS1Qb2pxbzZyOTlCcHo2RlN4aW5pTmJpUWhRdmc4SUpFaEZYS3JReW9rNGIySF9CSFZoSFptYS1MenVxOHJ3dw?oc=5"
+      "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
     },
     {
-      "title": "美股早盤／四大指數齊揚 費半一度漲5%但隨後「漲幅收斂」蘋果摔9% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MR19DcUx1alNBbFdzTmlJcDBBVWF5VGNNSWdqdzhiMHktOGFQdVRBeFd5LUw0UWNnVU1leThnN2l6WGZMTmxPMW9TNUdWQ292SEs4Ynp2MVc5UnRf0gFiQVVfeXFMT2NIUmxMN2FZajA0dlRRMl9jS2R1dXI4VFBvQ09FQzY4REtKMDlralNyenZUaUZtWDNIeWNxTEFlUWNINDJwSmxFM2hyZF9JTU9pYXBHVy1mVVFoeWd6dUlFV2c?oc=5"
+      "title": "台股周一挫咧等！財經達人卻說回檔「很正常」 6檔逢低撿便宜「這標的」毋通- 證券 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sUHVnN1U0c1lDcGlpZ1lQV24yQ0hWMWZOVElaSThqMkRUdG9faTE4UlFYa19yN0Mza3pqbDdwY1VjYjZxWDF3b3c4bXhXYlg0dTlFLU1lUkQ3c19Xei1z?oc=5"
+    },
+    {
+      "title": "台股暴漲3186點「史上最大」！星期一開盤穩了？不敗教主卻這樣說 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNTlAzZVAyZllmY3ZBUHktaWFGd2QtaUpsd3hrRW5TdmxVdmh6OV8yekRSYTdHdEROMUJ1ME9WcXNBOUg1MjZqNjVMekVKMnF2ZWtqM0hIOURuWVdYNkplREVtYTJ5MEVIYzZ1bFdHV09YZjhydTl5ekZSTkRweEJKVzJ2RU1UUEQ3aGY2a291TjE5Z2UzeEI2UkN1ejJNY0xudG5PNXNZRWpYMGdIVWhfM0xJME1JYlk1RGJVeDRFdlJCbGxyUWppbF9yb2RwRWpIbmFRZEotVDA5RmFxbldNSDFabmZqeGczTU5NaHJLTXA3U25BRlAwNlE4Qjlvb2x4RmQ0VDhCb1RtOUc2NVVJemxtb0NCVFBCSnYweFFlNVZUQkk2MWZHM1kzekJycmFVaXIxQUVWS1AxRHptdVhpLVRRTnpBdVc0TmVwcFRvQTdlQkV0NTlFaWxGV0RJbFpNNDJXRXFoTkJ1bEl3TnQ1TnpvRlpCNVVFMlE?oc=5"
     }
   ]
 }
