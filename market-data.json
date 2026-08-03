@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/04 00:07",
+  "updated_tw": "08/04 02:04",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -35,118 +35,85 @@
   },
   "us": {
     "NVDA": {
-      "price": 206.8,
-      "change": 6.05,
-      "changePercent": 3.0137
+      "price": 208.33,
+      "change": 7.58,
+      "changePercent": 3.7758
     },
     "AAPL": {
-      "price": 304.935,
-      "change": -3.975,
-      "changePercent": -1.2868
+      "price": 306.205,
+      "change": -2.705,
+      "changePercent": -0.8757
     },
     "TSLA": {
-      "price": 323.44,
-      "change": 12.23,
-      "changePercent": 3.9298
+      "price": 322.0,
+      "change": 10.79,
+      "changePercent": 3.4671
     },
     "QQQ": {
-      "price": 697.74,
-      "change": 9.75,
-      "changePercent": 1.4172
+      "price": 701.015,
+      "change": 13.025,
+      "changePercent": 1.8932
     },
     "SPY": {
-      "price": 755.965,
-      "change": 8.935,
-      "changePercent": 1.1961
+      "price": 758.08,
+      "change": 11.05,
+      "changePercent": 1.4792
     },
     "SCHD": {
-      "price": 33.495,
-      "change": 0.025,
-      "changePercent": 0.0747
+      "price": 33.48,
+      "change": 0.01,
+      "changePercent": 0.0299
     },
     "VOO": {
-      "price": 694.88,
-      "change": 8.23,
-      "changePercent": 1.1986
+      "price": 696.8,
+      "change": 10.15,
+      "changePercent": 1.4782
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63724.79,
-      "change": 242.79,
-      "changePercent": 0.3825
+      "price": 63833.01,
+      "change": 351.01,
+      "changePercent": 0.5529
     },
     "ETH": {
-      "price": 1862.41,
-      "change": -20.112,
-      "changePercent": -1.0684
+      "price": 1868.18,
+      "change": -14.342,
+      "changePercent": -0.7618
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.468,
-      "change": 0.073,
-      "changePercent": 0.2253
+      "price": 32.464,
+      "change": 0.069,
+      "changePercent": 0.213
     },
     "JPYTWD": {
-      "price": 0.2046,
-      "change": 0.0023,
-      "changePercent": 1.1484
+      "price": 0.2045,
+      "change": 0.0022,
+      "changePercent": 1.099
     },
     "EURTWD": {
-      "price": 37.411,
-      "change": 0.0797,
-      "changePercent": 0.2134
+      "price": 37.382,
+      "change": 0.0507,
+      "changePercent": 0.1358
     },
     "CNYTWD": {
-      "price": 4.8098,
+      "price": 4.8107,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4092.6,
-    "twd": 4272.0,
-    "tael": 160205.0,
-    "twdTotal": 132879.0,
-    "changePercent": 1.0743
+    "usd": 4086.7,
+    "twd": 4265.0,
+    "tael": 159955.0,
+    "twdTotal": 132671.0,
+    "changePercent": 0.9286
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": [
-    {
-      "title": "美股走勢兩極！道瓊狂飆近700點、費半逆勢下挫 台積電ADR陷400美元保衛戰 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOb0EtZWJEdlB5NTRxM1F0Z3dVR19ickplbVVXWkkwTDVtWVkyVHlLVVVzTkVpbVQtTFhxdEk4YWdFZHQyMWNCVHY3dERJR0RTUExLR0s3UE50bEZ0aGFuRWo3QmR1aXFYdk5ubkZ0MnVGWU5VYnNYeFhsLWp2YUVPN0JMekNFVkxneWQ3OEZGMlF5WXNrXzBaSmlreXdNUHRfaHQ2RmpGdy1yNEJNQk1aVUZNVjdJNUt4YnhkeERQM3lQcHVBQ1lJeVBWTjhvcm9IdF9NX2Rjay1pZWtyU1JRLUdrSF9qNnVZdTNjVmE5dHg1aGJ1NkVKRFhJclhGY0pGemVyQUszalVjUy0xWnQ2bjZOc3VhQlFjWlN3amZKamZyRnBmbTI0d2ZtRFk5Y3dXcllweE1wZVdPTnJTQWpFc2R2YjhsVGhiV05USU51aDVfU2xkOVpQOUN5aVV4MkdVS19JRVZkNUg0SVRleGdIVkYxN25qd3VJUXByS2NvMXVFRDNVcG5lQVFGMFNwWnVHU0RfeG9aYm1DRjZibUx1RUw5cDAzNE5hZGJhV3VpUQ?oc=5"
-    },
-    {
-      "title": "美股早盤／三大指數揚費半獨憔悴…動能交易料轉往這些類股| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93dVg4eTZPR3dWaHZaUHMzUjdsVWM2WXJ3Z3hOeXBQWGRZY2g3ZkxZQzhKckEtNUYzWDFFWDFZbmhJak84d25GWVptMFJQQ1Zl?oc=5"
-    },
-    {
-      "title": "〈美股早盤〉美伊緊張局勢降溫、油價跌破80美元 主要指數開高 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DajNXOFRyNVZLbkMzX3ozZXlvMlFkVDNkQ0VZWkpJZGVzZlZ1X3oxVXVhVkQ4VWtydk9BTXBVVS1jQXcwcG04bWxqWjN4cDA?oc=5"
-    },
-    {
-      "title": "【美股盤前0803】亞馬遜財報亮眼大漲15%！今晚7 月 ISM 製造業PMI 觀戰指南｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNYi1BQjZKRFE4VWZ0WTRHZ1phb3dnZExwOFY3QUhhNWI3RE5JUHM3NTY4aWY2RE11N2JtNGtNYWhxbkhtVjdZRFYzVDlEcTdMcUNQZFRFM0tXMFduNU1IcEs0YVBqUHNid3hwdk11OGtVQWpTOV9iUlE5bldIYU9UYlByMmxvb0FxLW0tMDlidHlGYjRoRGI1aDF6YlYyaXpYeXpxT0ZHcDN0aDdScXY4ZnhhOGdvd3JJaEVUbTdSMkpjU3psdFlRSzJaZm5rNHF2OFdVbmFuUmI4bDlXM3gxcGFEVXFkM0NQWUlwalVuM2ZUYnUtc0VjOFQ3RmNpUWhYclNNZWVOdDl6YjBkTGgyWXhuTnItZkdNNjE3eGN6RGVzVHJ4b1JwX3dmSEVVTWtPdnF6NERRTkxZZ05hSFQzLTZUQnRhOV9VVXc0LWtKY2R5dEdXOTYwdWRDdmxXMjlFV2stZ2dZN3VpSERJTE8tSm5iYWZOanM2aV9KampsUDEyR1lQcGptNTc0bE9TRG5ETUd1NG9kbHpicllWSmY5TUdCUWt0M2NuZG02eUVXSQ?oc=5"
-    },
-    {
-      "title": "快訊／川普又轉彎了！美股開盤3大指數齊漲 道瓊勁揚605點 - 三立新聞",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JLXJEV0EtN3JhdHVPdjQ4bGo3WWxfcFlLakVnRXB0dU5LSmJSVFNnazhvc2lDN1RrQnJvdEpLY3dUSDRrOUN3SUtiaw?oc=5"
-    },
-    {
-      "title": "「去槓桿」是關鍵字！台股史上最大跌點紀錄後，法人都在看這4大族群- 商周新財富備忘錄 - businessweekly.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wWnFoTDQ5bm5GcXp5dDh5YTdTY01lMEMtbWtnZlg1WFBGQ1k3UUZYR0dOSE1ZenNGMnoweWdla3R0U1JPMTJ4TUZFUFY4TVZDYVo3bGZVOE1NRW5kS2dKdkZEUC1ldmQxMS11TVln?oc=5"
-    },
-    {
-      "title": "對話達利歐：當下正處 AI 泡沫中，投資組合的 1% 是比特幣 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3BOd2Jsd2lmR3dUUWtOTGUwNEtxa19renllYk9fNV9zUGhYRjlFem9ib2Q3eFdlN0xERm1LcE9US0dxQ2g2UjVRY19fZUJ3RzVsMXFyTVZ6dWN5bVRCbFJFdm4xZ2NNeHdpUWZMcmxNLXBwVVAzaldNNUo4U0xmaldPMGgwVGhzcHZ3OG5VSk9MZ2FwU0g1WQ?oc=5"
-    },
-    {
-      "title": "美股開盤三大指數開高！費半指數狂瀉3% 連累台指期夜盤暴跌982點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNVEdIWDFRUzJ6Y2c2QThpcE9DRGlxTTNpbEVpUFFoanZrY2RZLVNjSW1haDFnNzlHTTA4OUZBQjBPLXhTeHQtVndaUlVVbXBFNHJxR3E3bzI2UktJaVNaRTYtU1JFdHI5VUdNdTJTalRNX0pSdWxWR3B0QkhvSnk3blh5RHBqaDM5dkdpMm1KTFFJaXM1Nlc0VUpaVFB2T2tOWENabXkxRWJHSDVxX25feEljRlV3S2J0YzB1TXdxcjZPaFA1UHFWdE1Vc3ZwTU43VWNpVTE4X3hrSG9ORGdQQzBPcnltODNjZ1RDbWFCWGlyeXJkbTJ6WEdrTFVscFFwem0wY0hieVB4am5RS2lpeTMwdEh2TGZPc2xSSHZkb3dLc1Z5TW9FRzhCNFg0RFdLblEtLXNLRHBYS3VHdmVGQ0gzeUR2dmwwdkJyX0JIdUpqdTlmaEwtWkFPMlRuQTlYWHN0QjJRZTBoWTBmZHAwNnBiWFFwOFdINllmcUVOVFBVbUs3dDRYU2xpbkp2YnktRDhJ?oc=5"
-    }
-  ]
+  "news": []
 }
