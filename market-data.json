@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/04 06:17",
+  "updated_tw": "08/04 07:35",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,50 +72,54 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63474.19,
-      "change": -7.81,
-      "changePercent": -0.0123
+      "price": 63455.71,
+      "change": -26.29,
+      "changePercent": -0.0414
     },
     "ETH": {
-      "price": 1859.78,
-      "change": -22.742,
-      "changePercent": -1.2081
+      "price": 1856.74,
+      "change": -25.782,
+      "changePercent": -1.3695
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.397,
-      "change": 0.1039,
-      "changePercent": 0.3217
+      "price": 32.395,
+      "change": 0.1019,
+      "changePercent": 0.3156
     },
     "JPYTWD": {
-      "price": 0.2039,
-      "change": -0.0009,
-      "changePercent": -0.421
+      "price": 0.2036,
+      "change": -0.0012,
+      "changePercent": -0.5675
     },
     "EURTWD": {
-      "price": 37.335,
-      "change": 0.0537,
-      "changePercent": 0.1439
+      "price": 37.33,
+      "change": 0.0487,
+      "changePercent": 0.1305
     },
     "CNYTWD": {
-      "price": 4.8053,
+      "price": 4.7987,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4105.1,
-    "twd": 4276.0,
-    "tael": 160343.0,
-    "twdTotal": 132993.0,
-    "changePercent": 1.383
+    "usd": 4108.4,
+    "twd": 4279.0,
+    "tael": 160462.0,
+    "twdTotal": 133092.0,
+    "changePercent": 1.4645
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "美股收盤》美伊局勢降溫使美股收高 台積電ADR上漲0.46％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xRVBNMmlOU1hzY1kxZzlPY1hGaVJnZ2h5OVA4ZUE3V1VTYjNMTE9RLVBrcm1JM1E3UDlGMXhSYUIwa0pPbi1sUFZoaDJSalBsbnNqWlJibG1lOU91bDFN?oc=5"
+    },
     {
       "title": "美股走勢兩極！道瓊狂飆近700點、費半逆勢下挫 台積電ADR陷400美元保衛戰 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOb0EtZWJEdlB5NTRxM1F0Z3dVR19ickplbVVXWkkwTDVtWVkyVHlLVVVzTkVpbVQtTFhxdEk4YWdFZHQyMWNCVHY3dERJR0RTUExLR0s3UE50bEZ0aGFuRWo3QmR1aXFYdk5ubkZ0MnVGWU5VYnNYeFhsLWp2YUVPN0JMekNFVkxneWQ3OEZGMlF5WXNrXzBaSmlreXdNUHRfaHQ2RmpGdy1yNEJNQk1aVUZNVjdJNUt4YnhkeERQM3lQcHVBQ1lJeVBWTjhvcm9IdF9NX2Rjay1pZWtyU1JRLUdrSF9qNnVZdTNjVmE5dHg1aGJ1NkVKRFhJclhGY0pGemVyQUszalVjUy0xWnQ2bjZOc3VhQlFjWlN3amZKamZyRnBmbTI0d2ZtRFk5Y3dXcllweE1wZVdPTnJTQWpFc2R2YjhsVGhiV05USU51aDVfU2xkOVpQOUN5aVV4MkdVS19JRVZkNUg0SVRleGdIVkYxN25qd3VJUXByS2NvMXVFRDNVcG5lQVFGMFNwWnVHU0RfeG9aYm1DRjZibUx1RUw5cDAzNE5hZGJhV3VpUQ?oc=5"
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNYi1BQjZKRFE4VWZ0WTRHZ1phb3dnZExwOFY3QUhhNWI3RE5JUHM3NTY4aWY2RE11N2JtNGtNYWhxbkhtVjdZRFYzVDlEcTdMcUNQZFRFM0tXMFduNU1IcEs0YVBqUHNid3hwdk11OGtVQWpTOV9iUlE5bldIYU9UYlByMmxvb0FxLW0tMDlidHlGYjRoRGI1aDF6YlYyaXpYeXpxT0ZHcDN0aDdScXY4ZnhhOGdvd3JJaEVUbTdSMkpjU3psdFlRSzJaZm5rNHF2OFdVbmFuUmI4bDlXM3gxcGFEVXFkM0NQWUlwalVuM2ZUYnUtc0VjOFQ3RmNpUWhYclNNZWVOdDl6YjBkTGgyWXhuTnItZkdNNjE3eGN6RGVzVHJ4b1JwX3dmSEVVTWtPdnF6NERRTkxZZ05hSFQzLTZUQnRhOV9VVXc0LWtKY2R5dEdXOTYwdWRDdmxXMjlFV2stZ2dZN3VpSERJTE8tSm5iYWZOanM2aV9KampsUDEyR1lQcGptNTc0bE9TRG5ETUd1NG9kbHpicllWSmY5TUdCUWt0M2NuZG02eUVXSQ?oc=5"
     },
     {
+      "title": "美股很貴快逃？哈佛教授：看漏這數據，錯失未來10年行情 - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qbERLZ1pxT1pkVFZqVzRlWHBSa19wVUdXMUNzSExuR3FxZlBURVdZaXI3R2liR05US0VFbGowcVJEOERqUkNEX1Y5ZTdhUQ?oc=5"
+    },
+    {
       "title": "快訊／川普又轉彎了！美股開盤3大指數齊漲 道瓊勁揚605點 - 三立新聞",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JLXJEV0EtN3JhdHVPdjQ4bGo3WWxfcFlLakVnRXB0dU5LSmJSVFNnazhvc2lDN1RrQnJvdEpLY3dUSDRrOUN3SUtiaw?oc=5"
     },
     {
       "title": "快訊／兩樣情！美股強勢反彈 台指期夜盤「一度跌近千點」失守43K大關 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQNGNYbHcyNi11YWZyT0NvU2JnVFlJb3ZOQUVxNmZETllJY2Z2SUxfTV9tNktUVWRVT3Yzdi04WE1fWWFTX1BpX3pXMGRnZWE5OF80aVRhSWl6NGR0dkFvMWM3N1NKQ1BpNnpUYmxpZnRLdGNXYkQxX3otRDhPSlRubEJybVI1LXlGY0puLXUzNlp4M045QUZHdnp3NU9ERlJVX1ZUaW50dmNwVmZIRnpGQmg1VVhRbW00WWhaYzlvQmhELUNyb3lhWi1xUFlncGo2STNmcVpmRkZQWWpsX21XT3JSSTdYNC1iY3VnVkFpSl9FeUdFSHI1bTY2NExQQU56QnR1dWpMVF81SDBOYXVzRElVOTNpb3dxRFJHQk11VFc1dHFtdmVHMTRwcEY4aDh3TUpsSVZPZXRlV1JJUURXMmFHX0J6c1gyNlJHSGJZQk8tenVh?oc=5"
-    },
-    {
-      "title": "〈美股早盤〉美伊緊張局勢降溫、油價跌破80美元 主要指數開高 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DajNXOFRyNVZLbkMzX3ozZXlvMlFkVDNkQ0VZWkpJZGVzZlZ1X3oxVXVhVkQ4VWtydk9BTXBVVS1jQXcwcG04bWxqWjN4cDA?oc=5"
-    },
-    {
-      "title": "【0803台股盤後】加權指數企穩反彈收復4.3 萬大關！OTC 暴攻4.32%，內資與投信強勢加碼記憶體，投本比排行:亞翔、喬山、台光電｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiowVBVV95cUxNYy1RYnBuWmFndXRHZ3ZCOVhCSkl4VmgwZkhzay16cnJVd3kyNWl1Sk84NllxYTd6VzFrV3ZfY3VDaEpaTlhBMVFxTlRXLTRjVGVwRVJOX2lrNUt6VHZHQnZiY3hFT21OMDFkeEI2ZDV3UFdiangzSVlrZWdONXNDVFRaN3J6YVlOczhBNW83YVdQbEZfUkJFcFd6c1ZfNWRpQkV2QVVJR1FzYWYzSnFZblp4MTlXcmhMaGwyQjJscXFjZE1wckk3aks4WFhaemdMRm5ZRzR6TFZKcjJZaTdwekxxSlpSd2FKYnA0d29YR0tlX0kzc0p2U2xpbE1JNWhhbTdoZlNhX1RGRDh4aDR3VXZ2bVZtVnM2R0hvR1A0YVJaR1Ixd25MVlMzSXpSWG5YNDJiZnd2a1NIY0tkMHRMZVJWTDNncGUzTmtLMk5yQ2NhMzlTLU13UWs4QjRqRlBzMU5LMHBMNzE3VFlKcmxtSU9UZVo3MnpEOXlWcmZJS1NISmJhbExhNndHUTZXZzRmZ2pGMmM4ZkRUVHdzakR2Qkc4LU1lRjFMUzdQN1RWN3lWT2pJYXFLZmNydE10UEpYdHJ4T25uMC12c0pudlVBRk5YUlM2Uk0zZHNjXzJHR1RGeDc4UzZRMWVIQk44YXdNTEhuVnZvT3VHZzQ4QnNBSXFkRExKckRXaXhJN3NGYTlDM2JnOUstbnhNYTZRRkRpUHpUcHFJaDlrNkZNWWE5ZFZLcU5RQ0tWSjhwU2EzRU5HaXBsYzdyQVhuVTMweXU3dmd6MksxQ3o5QnBXZzhYR2Y4S2dBTWE3LTFRSVZ6dWNlRUxJeEk3S0tjOGJoWHR2YVF5OTFESVVLTkJhUnBjSTdyeVUzOEZqOENIUTFGcXh1WDQ?oc=5"
     }
   ]
 }
