@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/04 03:57",
+  "updated_tw": "08/04 05:09",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 206.39,
-      "change": 5.64,
-      "changePercent": 2.8095
+      "price": 206.64,
+      "change": 5.89,
+      "changePercent": 2.934
     },
     "AAPL": {
-      "price": 303.08,
-      "change": -5.83,
-      "changePercent": -1.8873
+      "price": 303.42,
+      "change": -5.49,
+      "changePercent": -1.7772
     },
     "TSLA": {
-      "price": 322.175,
-      "change": 10.965,
-      "changePercent": 3.5233
+      "price": 322.08,
+      "change": 10.87,
+      "changePercent": 3.4928
     },
     "QQQ": {
-      "price": 699.84,
-      "change": 11.85,
-      "changePercent": 1.7224
+      "price": 700.07,
+      "change": 12.08,
+      "changePercent": 1.7558
     },
     "SPY": {
-      "price": 757.88,
-      "change": 10.85,
-      "changePercent": 1.4524
+      "price": 757.67,
+      "change": 10.64,
+      "changePercent": 1.4243
     },
     "SCHD": {
-      "price": 33.575,
-      "change": 0.105,
-      "changePercent": 0.3137
+      "price": 33.56,
+      "change": 0.09,
+      "changePercent": 0.2689
     },
     "VOO": {
-      "price": 696.6,
-      "change": 9.95,
-      "changePercent": 1.4491
+      "price": 696.4,
+      "change": 9.75,
+      "changePercent": 1.4199
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63845.54,
-      "change": 363.54,
-      "changePercent": 0.5727
+      "price": 63674.24,
+      "change": 192.24,
+      "changePercent": 0.3028
     },
     "ETH": {
-      "price": 1869.84,
-      "change": -12.682,
-      "changePercent": -0.6737
+      "price": 1865.38,
+      "change": -17.142,
+      "changePercent": -0.9106
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.419,
-      "change": 0.024,
-      "changePercent": 0.0741
+      "price": 32.397,
+      "change": 0.1039,
+      "changePercent": 0.3217
     },
     "JPYTWD": {
-      "price": 0.2044,
-      "change": 0.0021,
-      "changePercent": 1.0495
+      "price": 0.2039,
+      "change": -0.0009,
+      "changePercent": -0.421
     },
     "EURTWD": {
-      "price": 37.364,
-      "change": 0.0327,
-      "changePercent": 0.0875
+      "price": 37.339,
+      "change": 0.0577,
+      "changePercent": 0.1546
     },
     "CNYTWD": {
-      "price": 4.804,
+      "price": 4.8053,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4111.0,
-    "twd": 4285.0,
-    "tael": 160683.0,
-    "twdTotal": 133275.0,
-    "changePercent": 1.5287
+    "usd": 4111.3,
+    "twd": 4282.0,
+    "tael": 160585.0,
+    "twdTotal": 133194.0,
+    "changePercent": 1.5361
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JLXJEV0EtN3JhdHVPdjQ4bGo3WWxfcFlLakVnRXB0dU5LSmJSVFNnazhvc2lDN1RrQnJvdEpLY3dUSDRrOUN3SUtiaw?oc=5"
     },
     {
-      "title": "「去槓桿」是關鍵字！台股史上最大跌點紀錄後，法人都在看這4大族群- 商周新財富備忘錄 - 商周",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wWnFoTDQ5bm5GcXp5dDh5YTdTY01lMEMtbWtnZlg1WFBGQ1k3UUZYR0dOSE1ZenNGMnoweWdla3R0U1JPMTJ4TUZFUFY4TVZDYVo3bGZVOE1NRW5kS2dKdkZEUC1ldmQxMS11TVln?oc=5"
-    },
-    {
       "title": "美股很貴快逃？哈佛教授：看漏這數據，錯失未來10年行情 - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qbERLZ1pxT1pkVFZqVzRlWHBSa19wVUdXMUNzSExuR3FxZlBURVdZaXI3R2liR05US0VFbGowcVJEOERqUkNEX1Y5ZTdhUQ?oc=5"
     },
     {
       "title": "快訊／兩樣情！美股強勢反彈 台指期夜盤「一度跌近千點」失守43K大關 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQNGNYbHcyNi11YWZyT0NvU2JnVFlJb3ZOQUVxNmZETllJY2Z2SUxfTV9tNktUVWRVT3Yzdi04WE1fWWFTX1BpX3pXMGRnZWE5OF80aVRhSWl6NGR0dkFvMWM3N1NKQ1BpNnpUYmxpZnRLdGNXYkQxX3otRDhPSlRubEJybVI1LXlGY0puLXUzNlp4M045QUZHdnp3NU9ERlJVX1ZUaW50dmNwVmZIRnpGQmg1VVhRbW00WWhaYzlvQmhELUNyb3lhWi1xUFlncGo2STNmcVpmRkZQWWpsX21XT3JSSTdYNC1iY3VnVkFpSl9FeUdFSHI1bTY2NExQQU56QnR1dWpMVF81SDBOYXVzRElVOTNpb3dxRFJHQk11VFc1dHFtdmVHMTRwcEY4aDh3TUpsSVZPZXRlV1JJUURXMmFHX0J6c1gyNlJHSGJZQk8tenVh?oc=5"
+    },
+    {
+      "title": "「巴菲特指標」衝破230%狂閃紅燈 美股真的要崩盤了嗎？ - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43X3NQQTBjNzgzbXdMdmhHczhRN3FOYnBBWWZTclpmX0VYWVQ0RmQ0bjlCVTNodlVFU3hJYWgxYi1KZVM1ZlBDZnFJbl9acFU?oc=5"
     }
   ]
 }
