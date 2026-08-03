@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/03 15:30",
+  "updated_tw": "08/03 18:55",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62553.46,
-      "change": -209.8603,
-      "changePercent": -0.3344
+      "price": 62605.29,
+      "change": -876.71,
+      "changePercent": -1.381
     },
     "ETH": {
-      "price": 1842.74,
-      "change": -0.6777,
-      "changePercent": -0.0368
+      "price": 1842.6,
+      "change": -39.922,
+      "changePercent": -2.1207
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.482,
-      "change": 0.087,
-      "changePercent": 0.2686
+      "price": 32.437,
+      "change": 0.042,
+      "changePercent": 0.1296
     },
     "JPYTWD": {
-      "price": 0.2049,
-      "change": 0.0026,
-      "changePercent": 1.2967
+      "price": 0.2047,
+      "change": 0.0024,
+      "changePercent": 1.1979
     },
     "EURTWD": {
-      "price": 37.439,
-      "change": 0.1077,
-      "changePercent": 0.2884
+      "price": 37.442,
+      "change": 0.1107,
+      "changePercent": 0.2965
     },
     "CNYTWD": {
-      "price": 4.8099,
+      "price": 4.8114,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4108.2,
-    "twd": 4290.0,
-    "tael": 160885.0,
-    "twdTotal": 133443.0,
-    "changePercent": 1.4596
+    "usd": 4105.2,
+    "twd": 4281.0,
+    "tael": 160545.0,
+    "twdTotal": 133160.0,
+    "changePercent": 1.3855
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "獲利跳水、 AI 「搶電搶錢」！比特幣「挖礦難度」自今年高點重挫 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wQnp6UXhKVV8zMkI0bzRsVUJHNGJyNUU0dklNRjk3ZG14RFYwNmdwSDlyZEgyaHVnb29GS3dyTlVheExndUVlOWZqcw?oc=5"
-    },
-    {
-      "title": "台股開低走高盤中大漲逾600點 市場看好擺脫恐慌性賣壓 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBza2k4eTQ3VkJEUVFUUU5EeFgxcjVuMFhobEdaYXEwU3RjWWNGcXVoOHhaeEk0RkR6eU5EZWkwX1p2aTQ1aUFPNGRUb0dDNU0?oc=5"
-    },
-    {
-      "title": "散戶大對決!台贏美日韓 台股進入三好時代 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNU095anJxczlQVUJSRXhZT1c4V1RPVjhsM09ZNVBJRnNib3lDRi1TZDNaYURGT010MElHT3VQMEg0S2hUR2ZZcXNGNHJUWDJDcW1CXzE2SW9Tc3M5c3JDMmlCQk9zX2pMQjM3TGtwdXlyVlZVbXh6WVh0d2tFZXlHLXVXU0dnNE51bUJVNTA3MDhyNnRyX2RQNm1zRFBIYnB3bnlnclN2d0VENmdsRmdrNnhQTURfWUNVSnpGZ0N2clhxNml3UG1HQmNHU092SEthWWVSWjRmRlpvNE1zZjVTYWZWN1FEanNlU3lSUHI0Z0RwNFZYQk8yeTBMTUp6OWtmUHN5QmF0VDFZbXVQbjZvOWVHT1ItR3dIZVFMT21EU1FGSXMxUWVCWE0tQlVyeUJCS09TS0ZR?oc=5"
-    },
-    {
-      "title": "比特幣 7 月逆勢收漲 7%！分析師：強制平倉賣壓已耗盡、 8 月恐維持震盪 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM080Q0gxd3d3QjM5M21VajB1TjlVaXA2WDV1X3JrM0VWdk5MMXZLY3FPRkFjLUVQa2hYaDd3b1Z3dzNxWV9SWU5JZmVjNFQ5UnpjUHAxY2piQmNZWmY4VTNXUjF3TUhZUFVCOUlBbkRJOXJ3MzVjN1ozQ1pkd0JobjJSN2tQRmVQM3JLeFctclZNaHlveVBid1FudkpqU29rVmxPWmlmUWduQnM?oc=5"
-    },
-    {
       "title": "【美股盤前0803】亞馬遜財報亮眼大漲15%！今晚7 月 ISM 製造業PMI 觀戰指南｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNYi1BQjZKRFE4VWZ0WTRHZ1phb3dnZExwOFY3QUhhNWI3RE5JUHM3NTY4aWY2RE11N2JtNGtNYWhxbkhtVjdZRFYzVDlEcTdMcUNQZFRFM0tXMFduNU1IcEs0YVBqUHNid3hwdk11OGtVQWpTOV9iUlE5bldIYU9UYlByMmxvb0FxLW0tMDlidHlGYjRoRGI1aDF6YlYyaXpYeXpxT0ZHcDN0aDdScXY4ZnhhOGdvd3JJaEVUbTdSMkpjU3psdFlRSzJaZm5rNHF2OFdVbmFuUmI4bDlXM3gxcGFEVXFkM0NQWUlwalVuM2ZUYnUtc0VjOFQ3RmNpUWhYclNNZWVOdDl6YjBkTGgyWXhuTnItZkdNNjE3eGN6RGVzVHJ4b1JwX3dmSEVVTWtPdnF6NERRTkxZZ05hSFQzLTZUQnRhOV9VVXc0LWtKY2R5dEdXOTYwdWRDdmxXMjlFV2stZ2dZN3VpSERJTE8tSm5iYWZOanM2aV9KampsUDEyR1lQcGptNTc0bE9TRG5ETUd1NG9kbHpicllWSmY5TUdCUWt0M2NuZG02eUVXSQ?oc=5"
     },
     {
-      "title": "台股開低後翻紅聯發科、創意與日月光投控漲停| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pc3FEd1VuajJBTTR5VDFoR253RWRjWm9qUjItUEE4QS04Uk9wdWY0X1U3SnQ3U2pZZFJLOWNubnNNU0JOdTRVd2ZlZGwyUlpjandVM1FCenhLWlBSS0E?oc=5"
+      "title": "台股7月重挫衝擊勞工退休金？勞金局證實：已逢低加碼 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPQnZaWUFWNEFXZUpZVXpyamcwSFc0aU53Ym4tVXh6aW52VTdYSjhVdGVQUVlNeFg4OUdhaFZwMlpoUVhaLXM5TEhtY25jeVdOUkpFaHVWSTM4RzNpdU16RVpWRFVzaklTY0Jrb3JQcVJLa3RZNk9iMHJoTmhuSlFjLWppZnBka25XR1MyVloyZ1dsTHNaX0J1Q3hoS1JXcnRqU3g1LUk0a0wwN1JadjdERlVOVXNkWTlxUFRnUXh6ZTFrNVpvUjdwTm5ST1RqWkJLSlFGYlNnYnhlLVA4SzNjTXAyaVJzNlI2dmtZek5tUjREM2h4TnpVNk9oSTNmMktuWlRrcGVZcnJpaWVqR09wdnB4ZzdXRnJhVWJoNENfV3lMVDllaHlRRS10cjRRWm9CT2J1WU5uNTdSTUlaR2FLNUdSR2RTc3JSV2hkNFFza0tWWkh5RTBwb0hpcWhlQVdTb0JlNEVTamFvUHlJMnZkYU1IM0lWY1QtVW9yXw?oc=5"
     },
     {
-      "title": "台股逆勢上漲 法人：半年線附近小心布局 8月區間震盪39K至45K - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TUzBxTjRIc1otNGgzM0RTWm1kb2I0ZURCR1FlSlhRQS1NbDRJb0xpaDBrd0F2WERqaWRnYXFfanBnb1ZsTEFVLTVDWlpBaW9SZXhGOTluZW1pZ9IBX0FVX3lxTFBEdGJXWm5vLS1GeGFHT2sxX3JtYVYwZGQ0Zm52dEZlbHZ2RUVSelJwTlNiSDhWN0RZVmF2UkFyNnF2enVEbi1TOEZkVjZhOExSZl9haGlUSVhJYURIZjA4?oc=5"
+      "title": "股市向下扎根！台股7月開戶數突破1,460萬大關 未成年族群成增加主力 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13RFhoVHVyN2VWZ0ZteVZtb0ozNUdkUnZlRVJ3cEhuY3ZmVWJ3QzFDZy1nTUdyZE1DeHp6ajNYdFY5bGpVSzdtSUQ1MlpMTHkzek5LcXRJcUExQdIBX0FVX3lxTE1Pa29KeE0tczVTajlIOWd2R0ZFRHNrbjhiSW9IempDbVBOTnEzQS1wOXJmSUZRZ1QzN0ViNHdSdktreV9FNWJfTzBiOFl0dENzSERwb0wxVnJtTzRjNUgw?oc=5"
     },
     {
-      "title": "台積電跌50元至2375　台股跌339點後翻紅震盪 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pV2NNeU84dFU0VzBKR1hfbTlFbXVLdlJBenJxWGY1U0RlNWJZMm5qTm9SZ3ZnaHpWTncySXFUT0Nwa2F0UDEwcVBDb2gzeTV3cWfSAVBBVV95cUxQendncWd1NXJZSm1IbW02aUNhTGdvOWx3UlZpTGVKYm9JNjlFQWhBTlVMczlYaC16ODlCT1BXNmhYUDkwcUR2aEdKa1pDa1hFVA?oc=5"
+      "title": "科技股領漲 台股開低翻紅收漲266.66點 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFQjVIcGpxOGE3emFMUV9qUlpDaDNOZy1lZUNPNWJFMXFLZVczMm5JUjZEQ3ppNENfRnV2ZTNQN3RxWFQyMm4xdm96a3JpcWFkZFFjN2ZIYmVENG12b3c?oc=5"
+    },
+    {
+      "title": "台股收漲266點　台積電跌55元至2370 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrZ0dEX1NlclRyelgzcFdLUFVnZDdnWUpPcm1NaHNCdHJxcjN3ZkZsSm1tdE5NUFFGWEp3T3ZiNHoydlQ4ZWZxbHBUbzN6ejNmbFHSAVBBVV95cUxNNVpyeXhIMXNCeTE0LTlPZWdCY2JGMi1CYk94WHMxUVZwbFlkeEhJc281MUk1N21GWkpZSmR5R214Z2JvYWtjMW5fempJbXlRdQ?oc=5"
+    },
+    {
+      "title": "砸盤疑雲？川普媒體轉移 1.65 億美元比特幣，官方急澄清：沒要賣幣 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWVKemo3dUxJMFY1N1dyc1V6NDc2LTRxcTVNYVRscEJnOVBjaDY1RlRhMmtDVEtXVnRDUlp0M3VGUHBrb2IzUURmSUZWVEFIbHpTWjJ6NTVVMjBfd2Z2R2JQVlByZU9GaWlRQllreG41X0t4ZmgzYjl4NElIRVRZX1V3VVFjMkprbUN0ZF96dEpxS2xfU0E?oc=5"
+    },
+    {
+      "title": "台股黑翻紅靠電子撐盤！聯發科、國巨攻漲停 記憶體族群強勢反彈｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPZmY3aW1XV25fZU9Yb2U3YThYLW8yZDhaZjY4cTFIQXN3MWRWX0dFSFJ4OWdLbTFGQXhxcVpWanMzTnNXSVRoUDZncVJQOWxpMVRzalZBQXdaYUZwYTBfREZVNXhYODFqemdoVENhUThCd0s5b2RucEtwdzdpYThPUlppU2ZCV1FKYlBWLWxzXzVEal9DQnptMGNhTkpIaFpqMm1mNVc2dGx5NFZ6bXEyc01qWlJGdUNLLVB0UEhkeDVMYTNKWHZnZU00cDJJa1IxRXJkcmotT292Zjk1QmZ0NTBjVHdtd3pxTmVTcGFSdjRSbFRQYjBRZjhYX3VScnZfNXplb0M5VUgxX0J3VGJraXlPWUpiSlB6QXlxeHVhRU1vYTR1NUtPNl9FNUJmS2h6ZzBBd0taLWFJdjcxS0tuN3NYcWVWcVRGbmFDd1NaS1RsdGp6NVVlSWhpaHMyZXNvb200LTNTR3hET0NiRk5LV1lkTHpRTDcwRkhHdThXYXVOaFktMEJBdWdiVkhya2Y3cjhma2N3VW1tOUJ6SzItOWlYRHpRNUllakkxZEo2SjlHNS0yaXlRck43S2JBR2xsRFBPWkZiRzRCYklvZXdQdkdPWEN2dGczelZTVTVTbWd4Q2dYX1FNV0U1VHNJeXlKUFQ2Z2RNQkhyVWs?oc=5"
+    },
+    {
+      "title": "台股將打第二隻腳 破4萬嗎？ | 市場焦點 | 證券 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yN3pRN2oycUpPSzNfbl9WUW5FTHhBU0FlSGh1SlV2TGpOUm5kekp4RzhOblc0Qjl0M3lBNEFHNXNWUWU0ZWw0UVpkWXFhNHBUVzVIbk90NUxRdw?oc=5"
     }
   ]
 }
