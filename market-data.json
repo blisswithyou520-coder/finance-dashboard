@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/03 18:55",
+  "updated_tw": "08/03 21:40",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 200.75,
-      "change": 5.71,
-      "changePercent": 2.9276
+      "price": 198.685,
+      "change": -2.065,
+      "changePercent": -1.0286
     },
     "AAPL": {
-      "price": 308.91,
-      "change": -24.52,
-      "changePercent": -7.3539
+      "price": 308.135,
+      "change": -0.775,
+      "changePercent": -0.2509
     },
     "TSLA": {
-      "price": 311.21,
-      "change": 2.36,
-      "changePercent": 0.7641
+      "price": 317.86,
+      "change": 6.65,
+      "changePercent": 2.1368
     },
     "QQQ": {
-      "price": 687.99,
-      "change": 4.44,
-      "changePercent": 0.6496
+      "price": 689.44,
+      "change": 1.45,
+      "changePercent": 0.2108
     },
     "SPY": {
-      "price": 747.03,
-      "change": 5.34,
-      "changePercent": 0.72
+      "price": 751.57,
+      "change": 4.54,
+      "changePercent": 0.6077
     },
     "SCHD": {
-      "price": 33.47,
-      "change": 0.06,
-      "changePercent": 0.1796
+      "price": 33.62,
+      "change": 0.15,
+      "changePercent": 0.4482
     },
     "VOO": {
-      "price": 686.65,
-      "change": 4.86,
-      "changePercent": 0.7128
+      "price": 690.824,
+      "change": 4.174,
+      "changePercent": 0.6079
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62605.29,
-      "change": -876.71,
-      "changePercent": -1.381
+      "price": 62816.03,
+      "change": -665.97,
+      "changePercent": -1.0491
     },
     "ETH": {
-      "price": 1842.6,
-      "change": -39.922,
-      "changePercent": -2.1207
+      "price": 1845.93,
+      "change": -36.592,
+      "changePercent": -1.9438
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.437,
-      "change": 0.042,
-      "changePercent": 0.1296
+      "price": 32.408,
+      "change": 0.013,
+      "changePercent": 0.0401
     },
     "JPYTWD": {
-      "price": 0.2047,
-      "change": 0.0024,
-      "changePercent": 1.1979
+      "price": 0.2051,
+      "change": 0.0028,
+      "changePercent": 1.3956
     },
     "EURTWD": {
-      "price": 37.442,
-      "change": 0.1107,
-      "changePercent": 0.2965
+      "price": 37.424,
+      "change": 0.0927,
+      "changePercent": 0.2483
     },
     "CNYTWD": {
-      "price": 4.8114,
+      "price": 4.8073,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4105.2,
-    "twd": 4281.0,
-    "tael": 160545.0,
-    "twdTotal": 133160.0,
-    "changePercent": 1.3855
+    "usd": 4090.4,
+    "twd": 4262.0,
+    "tael": 159823.0,
+    "twdTotal": 132562.0,
+    "changePercent": 1.02
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNYi1BQjZKRFE4VWZ0WTRHZ1phb3dnZExwOFY3QUhhNWI3RE5JUHM3NTY4aWY2RE11N2JtNGtNYWhxbkhtVjdZRFYzVDlEcTdMcUNQZFRFM0tXMFduNU1IcEs0YVBqUHNid3hwdk11OGtVQWpTOV9iUlE5bldIYU9UYlByMmxvb0FxLW0tMDlidHlGYjRoRGI1aDF6YlYyaXpYeXpxT0ZHcDN0aDdScXY4ZnhhOGdvd3JJaEVUbTdSMkpjU3psdFlRSzJaZm5rNHF2OFdVbmFuUmI4bDlXM3gxcGFEVXFkM0NQWUlwalVuM2ZUYnUtc0VjOFQ3RmNpUWhYclNNZWVOdDl6YjBkTGgyWXhuTnItZkdNNjE3eGN6RGVzVHJ4b1JwX3dmSEVVTWtPdnF6NERRTkxZZ05hSFQzLTZUQnRhOV9VVXc0LWtKY2R5dEdXOTYwdWRDdmxXMjlFV2stZ2dZN3VpSERJTE8tSm5iYWZOanM2aV9KampsUDEyR1lQcGptNTc0bE9TRG5ETUd1NG9kbHpicllWSmY5TUdCUWt0M2NuZG02eUVXSQ?oc=5"
     },
     {
-      "title": "台股7月重挫衝擊勞工退休金？勞金局證實：已逢低加碼 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPQnZaWUFWNEFXZUpZVXpyamcwSFc0aU53Ym4tVXh6aW52VTdYSjhVdGVQUVlNeFg4OUdhaFZwMlpoUVhaLXM5TEhtY25jeVdOUkpFaHVWSTM4RzNpdU16RVpWRFVzaklTY0Jrb3JQcVJLa3RZNk9iMHJoTmhuSlFjLWppZnBka25XR1MyVloyZ1dsTHNaX0J1Q3hoS1JXcnRqU3g1LUk0a0wwN1JadjdERlVOVXNkWTlxUFRnUXh6ZTFrNVpvUjdwTm5ST1RqWkJLSlFGYlNnYnhlLVA4SzNjTXAyaVJzNlI2dmtZek5tUjREM2h4TnpVNk9oSTNmMktuWlRrcGVZcnJpaWVqR09wdnB4ZzdXRnJhVWJoNENfV3lMVDllaHlRRS10cjRRWm9CT2J1WU5uNTdSTUlaR2FLNUdSR2RTc3JSV2hkNFFza0tWWkh5RTBwb0hpcWhlQVdTb0JlNEVTamFvUHlJMnZkYU1IM0lWY1QtVW9yXw?oc=5"
+      "title": "台股震盪衝擊景氣信心下滑？中經院長連賢明：還不到擔憂程度 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOSkE1enZ1LUo3SXNfQmFEWDIyakpZaEQzRERLdUtuYi1tY3JmR0pTNjlDYWJXY1Y4a3VMN3VITTdpMThBYWJxQ0Q5NzJFQkEwaVlzaVhRSzJaLWRqMURyZkl2bWlQSUhrVnBGWFBjWldGdHJvNS1FYWtjM0dqVUhGMU5pazZUZklhZWtPTm1RVEhFeFFCa0N1SjJNamI3UElQYVB2VWx0MTd6TWFEeGoyNFlLTFRyR3ItVnB1OVpIakUxYkVCaEt3Qk5YSy1OS2hOMDBYamJwbXZuY3RnV0lSVWk0SmEyV3VsaDVVV1J5UzNORm9TbTV4X3BKcFlsT054YzVKbXVwaV8yQVBzd1hoVjNEdndOdjU0aDUwRlY3Nmtpb2FDaE5sbnh1cTJfd04xLWkxa250ODhTdE9nQ0NSMzdnWlZnWGxLZnpkb3p5dnNTVE9oTk9oeVllUVU5aXIweXJaMFNsUEdpZjVLUGMwNGhTNERfRjZrMGtuX0h2eVZ5Z3otT0I0UF9KOWoyZlE3cXNpVXI2ZWUwRzdYLUJVWTF1RG9nQW9KRF8w?oc=5"
     },
     {
-      "title": "股市向下扎根！台股7月開戶數突破1,460萬大關 未成年族群成增加主力 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13RFhoVHVyN2VWZ0ZteVZtb0ozNUdkUnZlRVJ3cEhuY3ZmVWJ3QzFDZy1nTUdyZE1DeHp6ajNYdFY5bGpVSzdtSUQ1MlpMTHkzek5LcXRJcUExQdIBX0FVX3lxTE1Pa29KeE0tczVTajlIOWd2R0ZFRHNrbjhiSW9IempDbVBOTnEzQS1wOXJmSUZRZ1QzN0ViNHdSdktreV9FNWJfTzBiOFl0dENzSERwb0wxVnJtTzRjNUgw?oc=5"
-    },
-    {
-      "title": "科技股領漲 台股開低翻紅收漲266.66點 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFQjVIcGpxOGE3emFMUV9qUlpDaDNOZy1lZUNPNWJFMXFLZVczMm5JUjZEQ3ppNENfRnV2ZTNQN3RxWFQyMm4xdm96a3JpcWFkZFFjN2ZIYmVENG12b3c?oc=5"
-    },
-    {
-      "title": "台股收漲266點　台積電跌55元至2370 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrZ0dEX1NlclRyelgzcFdLUFVnZDdnWUpPcm1NaHNCdHJxcjN3ZkZsSm1tdE5NUFFGWEp3T3ZiNHoydlQ4ZWZxbHBUbzN6ejNmbFHSAVBBVV95cUxNNVpyeXhIMXNCeTE0LTlPZWdCY2JGMi1CYk94WHMxUVZwbFlkeEhJc281MUk1N21GWkpZSmR5R214Z2JvYWtjMW5fempJbXlRdQ?oc=5"
+      "title": "台股將打第二隻腳 破4萬嗎？ | 市場焦點 | 證券 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yN3pRN2oycUpPSzNfbl9WUW5FTHhBU0FlSGh1SlV2TGpOUm5kekp4RzhOblc0Qjl0M3lBNEFHNXNWUWU0ZWw0UVpkWXFhNHBUVzVIbk90NUxRdw?oc=5"
     },
     {
       "title": "砸盤疑雲？川普媒體轉移 1.65 億美元比特幣，官方急澄清：沒要賣幣 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWVKemo3dUxJMFY1N1dyc1V6NDc2LTRxcTVNYVRscEJnOVBjaDY1RlRhMmtDVEtXVnRDUlp0M3VGUHBrb2IzUURmSUZWVEFIbHpTWjJ6NTVVMjBfd2Z2R2JQVlByZU9GaWlRQllreG41X0t4ZmgzYjl4NElIRVRZX1V3VVFjMkprbUN0ZF96dEpxS2xfU0E?oc=5"
     },
     {
-      "title": "台股黑翻紅靠電子撐盤！聯發科、國巨攻漲停 記憶體族群強勢反彈｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPZmY3aW1XV25fZU9Yb2U3YThYLW8yZDhaZjY4cTFIQXN3MWRWX0dFSFJ4OWdLbTFGQXhxcVpWanMzTnNXSVRoUDZncVJQOWxpMVRzalZBQXdaYUZwYTBfREZVNXhYODFqemdoVENhUThCd0s5b2RucEtwdzdpYThPUlppU2ZCV1FKYlBWLWxzXzVEal9DQnptMGNhTkpIaFpqMm1mNVc2dGx5NFZ6bXEyc01qWlJGdUNLLVB0UEhkeDVMYTNKWHZnZU00cDJJa1IxRXJkcmotT292Zjk1QmZ0NTBjVHdtd3pxTmVTcGFSdjRSbFRQYjBRZjhYX3VScnZfNXplb0M5VUgxX0J3VGJraXlPWUpiSlB6QXlxeHVhRU1vYTR1NUtPNl9FNUJmS2h6ZzBBd0taLWFJdjcxS0tuN3NYcWVWcVRGbmFDd1NaS1RsdGp6NVVlSWhpaHMyZXNvb200LTNTR3hET0NiRk5LV1lkTHpRTDcwRkhHdThXYXVOaFktMEJBdWdiVkhya2Y3cjhma2N3VW1tOUJ6SzItOWlYRHpRNUllakkxZEo2SjlHNS0yaXlRck43S2JBR2xsRFBPWkZiRzRCYklvZXdQdkdPWEN2dGczelZTVTVTbWd4Q2dYX1FNV0U1VHNJeXlKUFQ2Z2RNQkhyVWs?oc=5"
+      "title": "韓國央行抄底黃金 13年來首次增持！ - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sblotZkdnWXhtRWN6SllUd180V2p1OGJERDBVM3JTTFVQTmU3Tzhpa1lWdmRUS3BQR1VHT0pIM0diV21kc3BDbkNnYTBBenM?oc=5"
     },
     {
-      "title": "台股將打第二隻腳 破4萬嗎？ | 市場焦點 | 證券 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yN3pRN2oycUpPSzNfbl9WUW5FTHhBU0FlSGh1SlV2TGpOUm5kekp4RzhOblc0Qjl0M3lBNEFHNXNWUWU0ZWw0UVpkWXFhNHBUVzVIbk90NUxRdw?oc=5"
+      "title": "快訊／台股「抓去關」新規下周上路！刑期大幅縮短　2分鐘撮合 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVa0JrR0UtZFN0X25qZThIMWJZbDhoZnJnN1lzUUFac3pBdlM5VlVLOS1nWG9rcGJyREI5R3hpTjZJTmd4UlRQY1NoWG81SGdxcHfSAVBBVV95cUxNZ25sNjJ4cm9aTGgwVjdpbWMtMm9SLWFONDREWjY0Y09yS0ZWWFd2SG9UY3loVGRqWl9yd21IOVdUQnF3ZGFESDhZSl95LV9nZw?oc=5"
+    },
+    {
+      "title": "對賭比特幣與槓桿 AI：華爾街高風險新戰場全面失火 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03RDlMVzVuN2VZN2x4MDdYT0xJS0xLcXQxY0dqSzdaOXEwN09MbmxLeTVFWkltWUFFM3Z2ZUl1WXRKb05GbkVZT3AtVHlZaVUyUkctN3F1N05zR1F1Zi1QNi1tMFU5cXc?oc=5"
+    },
+    {
+      "title": "科技股領漲 台股開低翻紅收漲266.66點 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFQjVIcGpxOGE3emFMUV9qUlpDaDNOZy1lZUNPNWJFMXFLZVczMm5JUjZEQ3ppNENfRnV2ZTNQN3RxWFQyMm4xdm96a3JpcWFkZFFjN2ZIYmVENG12b3c?oc=5"
     }
   ]
 }
