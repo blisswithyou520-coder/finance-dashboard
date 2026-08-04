@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/05 04:23",
+  "updated_tw": "08/05 05:48",
   "taiwan": {
     "2330": {
       "price": 2320.0,
@@ -65,51 +65,51 @@
       "changePercent": 0.8641
     },
     "VOO": {
-      "price": 709.0,
-      "change": 12.6,
-      "changePercent": 1.8093
+      "price": 708.98,
+      "change": 12.58,
+      "changePercent": 1.8064
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64049.25,
-      "change": 588.3516,
-      "changePercent": 0.9271
+      "price": 64169.62,
+      "change": 708.7216,
+      "changePercent": 1.1168
     },
     "ETH": {
-      "price": 1868.5,
-      "change": 10.2435,
-      "changePercent": 0.5512
+      "price": 1871.38,
+      "change": 13.1235,
+      "changePercent": 0.7062
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.391,
-      "change": 0.0979,
-      "changePercent": 0.3032
+      "price": 32.393,
+      "change": -0.003,
+      "changePercent": -0.0093
     },
     "JPYTWD": {
       "price": 0.2032,
-      "change": -0.0016,
-      "changePercent": -0.7628
+      "change": -0.0027,
+      "changePercent": -1.2902
     },
     "EURTWD": {
       "price": 37.401,
-      "change": 0.1197,
-      "changePercent": 0.321
+      "change": 0.1158,
+      "changePercent": 0.3106
     },
     "CNYTWD": {
-      "price": 4.8036,
+      "price": 4.8028,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4136.8,
-    "twd": 4308.0,
-    "tael": 161552.0,
-    "twdTotal": 133995.0,
-    "changePercent": 2.556
+    "usd": 4134.2,
+    "twd": 4306.0,
+    "tael": 161460.0,
+    "twdTotal": 133919.0,
+    "changePercent": 2.4915
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,16 @@
   },
   "news": [
     {
-      "title": "美股早盤／布蘭特油價跌破80美元...費半衝高5% Palantir飆21% - udn",
+      "title": "美股早盤／布蘭特油價跌破80美元...費半衝高5% Palantir飆21% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jV19uU3VBM3ZncTQ5MXhzUDdFNi1pelJfenFtaU5jVjZ5UHZEdWpUN01YR2hsZHpkNEFaVnk2Z2VtU1pHNWVBa0ZObXdxYzBx?oc=5"
     },
     {
       "title": "快訊／美股開盤道瓊飆漲772點 標普再寫歷史新高 - 東森新聞",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FM19UZ2twY0dnQlVSeTdNMWE3bHhUUDh0czN4bnp0dTFIYzgtRnB6bU1CWFhpLTlfbmxQZ0RXMlVndlNwbkwwVFVGWTFNeV9hY2lDeDQ4dw?oc=5"
+    },
+    {
+      "title": "玉山證券APP美股投資再升級 掌握個股盤後資訊 分析企業體質 - esunbank.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUQwNXlaNjFqYVlQdTRPVHNfUVNtWktsZ2xfZkdMUzNsbVl3OUwySU4xR2pndUEwYnNEMGlFd2p4R2ZtY2dpVXlJczk4YTBSNVp1VDJVWkVoN0ZVM2l6Nk4tUEpoZFhSd0dXRlBiRHZvc1M3QWRFREVYNXBoQXl5cDM2RGU1UEtEVjdaaTVHMllqUmxXRHc?oc=5"
     },
     {
       "title": "台股明有望反彈？台指期飆破4.4萬點、美股全開紅盤 - Yahoo新聞",
@@ -137,16 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OdXM5NElQNmQ1VzNQT2xYZGtGdTEtTGhKWllBS0hweEJBVmxRa3VlSUVuVXhjMUFhOHVfcTBqak40V2VhcWF3WkhOMHBVcW8?oc=5"
     },
     {
-      "title": "玉山證券APP美股投資再升級 掌握個股盤後資訊 分析企業體質 - esunbank.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVjFrZWpuRGd3cW9USTVRNlk5UzY2aHFneVo3b1h5NklIVTV3cU1aZzlxb29RNW1LZ3pYUmRLeW5jUFBBTHExYlJyTGp0X3k5cWpNWkpla1gxT2VXSnRzWjFOQk9LNWJQMHRKLS1qOTN0aHJzZVBPbFZyVDV2cFNhMFgtbmcwVm1hMlFuU0lUXzRlc1Q1c0tTSU9WWEpnQjdPMkZrSjhxVk5yS1duS21iLWxUQ0pFd0lHemZJT2hHQ1hGb0dp?oc=5"
-    },
-    {
       "title": "美股開盤大漲「費半勁揚逾5％」！台積電ADR跟著上攻 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hd0NFSEdtcUg3a1NjVkc0bVFsbldHRU5hT25EVnJUb0xWUGVET0tCY01TbG9feFJ1R0Nud19pNUt1SmlaaHF2blBfQUI4LWVCcVHSAVBBVV95cUxQd2M1RXZvRC1mRXJZaGV5UXJOZjQ1OXJBVV81ZktJZkVBbUtVRGtzcTNxdkh1UEtlMlFzcmpILTRaTV9mb0N0OGVRZ2pteDgyWg?oc=5"
     },
     {
-      "title": "開盤危險了？美股道瓊創歷史新高 台指期夜盤卻逆勢下跌 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNR1Joam9RZmV2UWRtSXphdzd0SFdVWW1kUDZ3eEFLUTJTaUlYbUpBNng2VUxfT3ZkWXhOWU5aSE90bE11Z0pCc2ZuVUlITURSY3pTbTJ0NXhNeGtteURidmZpZW5VeDhfb09scXNJcXV2eFNyT0ZxdFF6Q0psWkFqS0pzaEduRDh4VzBNcTNBX09ZRllhZE9lM3FKbXh0d1RZbUNkSDVQeW0wSzdnS081VDJtMkk5RXNSY1dLX3VOTUJyQURLY3U1WWhkWk1MV1J5TTJwN3padi1TNUlxWVp3YzBEMWVsNmFKbWtlMlhpcXhBVFBkSXphclNQMnBUVGIyU0RwNml6QmZXejFOR3g0SkVsNEV5ZE8zYTFwVG84MDhaWVZmeU5XYkVZeGVrYXBrS0tBb0JobUZ2Njg1MlRYdEhManVXenJkY3pNQm1PT1AyRlltTktSQVFiejlkTENmUE82blFSMXNHS3o2ZGpXR0ZOVDFkRW9FbUhoZlh3?oc=5"
+      "title": "8月ETF配息旺季! 股民等AMD財報 台股震千點收跌25點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPa3VscnFBQWZwVFdMeEk0LTRnNGhiZG5STG5pZ1dudE5kR3JBYTE5eTMwUHJRUm5wcnlHV2NYRDJMZ01oMkRhM1Nxd0JMQVVzZVdZR0pNY09udjhBdVpHZ244UkpLVXJ2Zk5fWkczeDRfT05fdzFNSWQwczkxblhpN2dpb2JsQ3BUOUpNbEJaYU5sYUxjRVFDLVNTZGJ2Q1dKdVdqczlsMUtoTHZTbGVqT0c2MGZsLUl0dnZZaXdtUzRoYURadGo3bDJadWZ6eHpNd3NnLVdTMFU2SUpaMUd6T08tNk02VzZpRktPV2h1SFdQdzFPdFNCLVBzNVV2R1IwLXJjZzlIUjFJbzVJX1I2QjgybTg3ZkpIQ1l5b0lCTFRXUjRkcU1YaUE0SnR5ZnJ1RktMSG1xLTB3c2ZSOVViUWN3?oc=5"
     }
   ]
 }
