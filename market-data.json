@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/04 18:09",
+  "updated_tw": "08/04 20:18",
   "taiwan": {
     "2330": {
       "price": 2320.0,
@@ -36,80 +36,80 @@
   "us": {
     "NVDA": {
       "price": 206.64,
-      "change": 11.6,
-      "changePercent": 5.9475
+      "change": 5.89,
+      "changePercent": 2.934
     },
     "AAPL": {
       "price": 303.42,
-      "change": -30.01,
-      "changePercent": -9.0004
+      "change": -5.49,
+      "changePercent": -1.7772
     },
     "TSLA": {
       "price": 322.08,
-      "change": 13.23,
-      "changePercent": 4.2836
+      "change": 10.87,
+      "changePercent": 3.4928
     },
     "QQQ": {
       "price": 700.07,
-      "change": 16.52,
-      "changePercent": 2.4168
+      "change": 12.08,
+      "changePercent": 1.7558
     },
     "SPY": {
       "price": 757.67,
-      "change": 15.98,
-      "changePercent": 2.1545
+      "change": 10.64,
+      "changePercent": 1.4243
     },
     "SCHD": {
       "price": 33.56,
-      "change": 0.15,
-      "changePercent": 0.449
+      "change": 0.09,
+      "changePercent": 0.2689
     },
     "VOO": {
       "price": 696.4,
-      "change": 14.61,
-      "changePercent": 2.1429
+      "change": 9.75,
+      "changePercent": 1.4199
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63470.42,
-      "change": -11.58,
-      "changePercent": -0.0182
+      "price": 63746.3,
+      "change": 264.3,
+      "changePercent": 0.4163
     },
     "ETH": {
-      "price": 1855.23,
-      "change": -27.292,
-      "changePercent": -1.4498
+      "price": 1866.78,
+      "change": -15.742,
+      "changePercent": -0.8362
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.414,
-      "change": 0.1209,
-      "changePercent": 0.3744
+      "price": 32.39,
+      "change": 0.0969,
+      "changePercent": 0.3001
     },
     "JPYTWD": {
-      "price": 0.2031,
-      "change": -0.0017,
-      "changePercent": -0.8117
+      "price": 0.2036,
+      "change": -0.0012,
+      "changePercent": -0.5675
     },
     "EURTWD": {
-      "price": 37.351,
-      "change": 0.0697,
-      "changePercent": 0.1868
+      "price": 37.347,
+      "change": 0.0657,
+      "changePercent": 0.1761
     },
     "CNYTWD": {
-      "price": 4.805,
+      "price": 4.8039,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4105.3,
-    "twd": 4278.0,
-    "tael": 160435.0,
-    "twdTotal": 133069.0,
-    "changePercent": 1.388
+    "usd": 4119.8,
+    "twd": 4290.0,
+    "tael": 160883.0,
+    "twdTotal": 133440.0,
+    "changePercent": 2.1345
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93dVg4eTZPR3dWaHZaUHMzUjdsVWM2WXJ3Z3hOeXBQWGRZY2g3ZkxZQzhKckEtNUYzWDFFWDFZbmhJak84d25GWVptMFJQQ1Zl?oc=5"
     },
     {
-      "title": "Strategy 再賣 1,638 枚比特幣！套現逾 1.05 億美元、持倉降至 84.3 萬枚 - blockcast.it",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc1Z1N0cyX0VaQnk2RmE0WmZDeHR6ZDhObTV3TV9neGdrUXUyUVdudXNBVGdGeGR1YlN3TVhwd2t4ZHRxYWRISnZkaXJUNFJJdFJZVEl1N09pRnd2U3pEdTZQZm9fT2tRVXdseHBvU0FndDZzZl9Yc3hVVnI5dmZ2aU82cnJIT2c?oc=5"
-    },
-    {
       "title": "8月開門紅！美股4大指數大漲 道瓊創歷史新高 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPc1RjOU1EdHlONVhFZkZmMkpyRnlRMW5lZXNxaGQtUTdmUTBCWmRoRDUtcF9qcTE0dENMR2lldnlXY0NhblB2bmZwaG54bVhUcXhXdXVXZ21qdUVvTEF4bGV5NlM0MFQwUURGRHQtalktdE9kTXRGLXU3OThBMUxpVzcyQU5aSUdPVy1SR084aEJpUEI1cHhnZGJsMnFfOENkY3hKQWcyc3dRWVRTOGFkM19tNl8wU1FHVEg0OGRzU2RGWTNoSHI0SFZwbkc2Qmxxenlqc0F6bE1YMlRIMWFPU0I2MGRTbDM3LXhKbFltQW1KQ2xTUEtGYjVPdzE0bXNqU2VfeDNKTllrY0gtYmpwVjVmZFJabjB5VHhDczNBOWNvZEZEN2tIeGNJYTMwOFA5OWs1Wm9Fdkk?oc=5"
     },
     {
       "title": "美股最糟時刻過了？華爾街三大專家示警：通膨、高利率與AI恐掀下一波震盪 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uVTlRZ1Z1b1g4WUJ4RjFTeUsyTVpjX2J5Skd6RnJOSkF5TXgzdG5QV0tMUXdCbEh6Q3BfUzc4cXV0TzBySVdfQ2ktV3NWYm8?oc=5"
+    },
+    {
+      "title": "【0803台股盤後】加權指數企穩反彈收復4.3 萬大關！OTC 暴攻4.32%，美股強攻助台股夜盤開低走高小跌67點 ，內資與投信強勢加碼記憶體，投本比排行:亞翔、喬山、台光電｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMigAZBVV95cUxOTEFndGxacTBBNzN3UTl3d1NsNVdLLXlKQWNpWVdrRzJCd3BqVFFmbzUzLVpzZGN4bTRBR1RnQ3lad2dVUWhrV1FNSElkMG85b2F6RzZiMkgwWmRjOUp6ZEJKV0J5c3RDZVRpNWtQLUd3MmVqLWxLdW9YVE5IZ1g4Qm5VMThveE96eDJwMlBSdkdpMFdubUtkSEZsdk01TGtWRGY1RjJLbF9VLTA1SG5KSGV6OXdwZlY2N0dUX2tMeklTVU1fZUF0VWZkYkdsY0NPR0ZSc094ZFJuQXdsakJYUWgzYWlBVUhFRTZCWUJPME8wLUREVzY1cURPSnBFdU9tbmlzUE1GdFE2em04cldWRnNNd1ZUMU1yTGhzd2dVYVQ4dFVqY3QyRkpaYUdoRV8zTlN3Qzd5RzJIeUFnaWZPLUQyZ1RaT1oxUWpIeVpKYnNNUVAweHlOR095MHFrUVNDcmpWOXBmSm5MbFBCZV96QjBSZVJPcGx1Tm5TbXJVMjNSbE9CX2piMFVVZ1VoY1Btc1pqb1FMMGJDdDNpQjlyWWdxN0Y2QUwyMng0QlJoeXhFNzdqNWd3VW9nLS04akFsTDJZOGNnb3Y1aF9hZWNMOU1lVDVPVHN5Vll6RDV6V2Yyc3dUbTZRdlhjdjBtSlJ4TXJIOUR2VXZHdU1lM1d5MndXaEkwTjMyOGc4OUFFYVdCM0pTN2VFZHppZ0ZpRjAwMTgyYkg3TkNvLW01cHpBTWFGcTJDREZKNlZaMC1GdjJoRzczam1sMW10SERTaXJZMjdid21pTWlPMUs4b1YyUlBQQjNCZUlZNTFiSW1oUmJjYzkyMGNSXzExWWNxLTZWWEVWOVRsWEdiQ1BIMXBXSXUzVUUwUlZ5QkprbW1aNkVYc3drZzJZRDQxcHZFTUEwRTFHNWZKbEZkYndKNXlCMWRfOTBhV016cmNVZHdiRGFaRlpPT3lJbERwMGlVekRYNFVLbU5FS0t0bnVyQTh0Qk5ITnRFbTFENnVyd1ppTVU?oc=5"
     }
   ]
 }
