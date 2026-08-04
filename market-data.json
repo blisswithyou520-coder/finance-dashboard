@@ -1,92 +1,92 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/04 23:00",
+  "updated_tw": "08/05 01:02",
   "taiwan": {
     "2330": {
       "price": 2320.0,
-      "change": -50.0,
-      "changePercent": -2.1097
+      "change": -105.0,
+      "changePercent": -4.3299
     },
     "2454": {
       "price": 3865.0,
-      "change": -45.0,
-      "changePercent": -1.1509
+      "change": 310.0,
+      "changePercent": 8.7201
     },
     "2317": {
       "price": 250.0,
-      "change": -3.0,
-      "changePercent": -1.1858
+      "change": -0.5,
+      "changePercent": -0.1996
     },
     "0050": {
       "price": 100.65,
-      "change": -1.35,
-      "changePercent": -1.3235
+      "change": -2.2,
+      "changePercent": -2.139
     },
     "00878": {
       "price": 32.57,
-      "change": 0.0,
-      "changePercent": 0.0
+      "change": 0.14,
+      "changePercent": 0.4317
     },
     "00919": {
       "price": 29.51,
-      "change": 0.06,
-      "changePercent": 0.2037
+      "change": -0.06,
+      "changePercent": -0.2029
     }
   },
   "us": {
     "NVDA": {
-      "price": 209.57,
-      "change": 2.93,
-      "changePercent": 1.4179
+      "price": 210.82,
+      "change": 4.18,
+      "changePercent": 2.0228
     },
     "AAPL": {
-      "price": 306.17,
-      "change": 2.75,
-      "changePercent": 0.9063
+      "price": 308.85,
+      "change": 5.43,
+      "changePercent": 1.7896
     },
     "TSLA": {
-      "price": 324.1,
-      "change": 2.02,
-      "changePercent": 0.6272
+      "price": 325.665,
+      "change": 3.585,
+      "changePercent": 1.1131
     },
     "QQQ": {
-      "price": 715.79,
-      "change": 15.72,
-      "changePercent": 2.2455
+      "price": 721.05,
+      "change": 20.98,
+      "changePercent": 2.9968
     },
     "SPY": {
-      "price": 766.29,
-      "change": 8.62,
-      "changePercent": 1.1377
+      "price": 770.76,
+      "change": 13.09,
+      "changePercent": 1.7277
     },
     "SCHD": {
-      "price": 33.6,
-      "change": 0.04,
-      "changePercent": 0.1192
+      "price": 33.8,
+      "change": 0.24,
+      "changePercent": 0.7151
     },
     "VOO": {
-      "price": 704.41,
-      "change": 8.01,
-      "changePercent": 1.1502
+      "price": 708.48,
+      "change": 12.08,
+      "changePercent": 1.7346
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64076.41,
-      "change": 615.5116,
-      "changePercent": 0.9699
+      "price": 63997.24,
+      "change": 536.3416,
+      "changePercent": 0.8452
     },
     "ETH": {
-      "price": 1871.48,
-      "change": 13.2235,
-      "changePercent": 0.7116
+      "price": 1872.59,
+      "change": 14.3335,
+      "changePercent": 0.7713
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.391,
-      "change": 0.0979,
-      "changePercent": 0.3032
+      "price": 32.387,
+      "change": 0.0939,
+      "changePercent": 0.2908
     },
     "JPYTWD": {
       "price": 0.2034,
@@ -94,22 +94,22 @@
       "changePercent": -0.6652
     },
     "EURTWD": {
-      "price": 37.369,
-      "change": 0.0877,
-      "changePercent": 0.2351
+      "price": 37.36,
+      "change": 0.0787,
+      "changePercent": 0.211
     },
     "CNYTWD": {
-      "price": 4.8056,
+      "price": 4.8057,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4137.7,
-    "twd": 4309.0,
-    "tael": 161587.0,
-    "twdTotal": 134024.0,
-    "changePercent": 2.5783
+    "usd": 4149.6,
+    "twd": 4321.0,
+    "tael": 162031.0,
+    "twdTotal": 134393.0,
+    "changePercent": 2.8733
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "明天台股反彈有望？台指期夜盤重返4.4萬點大關「勁揚近700點」 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPNmRLeXQtWk5PaTF1LXQ4OUZaZVpaRDM3eXRmMVFLakdrTmlEVC14Mk4tSi0tRHEyNnRFYVBXbklDQzd1ODJLSUFrUnNIWkVfZ01fWTBiN2dIWE1FSmdjLWY5NV9mZFM3NW9GWGtBYm1aRklWZWo4M2RkRHZLRUZreF9DdnZMaGlteFZ6VlIzY3VfUkZ2dzVROUdYbmcwN1A3SF81ZEtFTkhwOHR2RDk0ZGpzazl1a3h4aXItejc5SHdDZ2prYXNSTTBQZVo4U0tyOEVveWNjWU9mYTN4ekNOVzNvbVhWaDhNZGxOTGJ6T19NeVJXRzk1d3FoUlVFbzMxd1lsQnZjczJ5NUE2UU9XQVU4SnFVUXhZQnc1SjhHNy02cGhHaUZhQ0toRC03T3RfUUNEelFqbDM0Ym4zUGNNTkFpaGxtQjNxenhiMXNEUHFhVUpsTG9qLTExX2dMMkhSWWlGeGI1U2dKOVdVNDBpbnJYOVZXRk9VaHc?oc=5"
+      "title": "〈美股早盤〉AI財報報喜、美伊協議露曙光！主要指數開高 道瓊狂飆700點 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OdXM5NElQNmQ1VzNQT2xYZGtGdTEtTGhKWllBS0hweEJBVmxRa3VlSUVuVXhjMUFhOHVfcTBqak40V2VhcWF3WkhOMHBVcW8?oc=5"
     },
     {
       "title": "快訊／美股開盤飆漲 1指數寫歷史新高 - news.ebc.net.tw",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FM19UZ2twY0dnQlVSeTdNMWE3bHhUUDh0czN4bnp0dTFIYzgtRnB6bU1CWFhpLTlfbmxQZ0RXMlVndlNwbkwwVFVGWTFNeV9hY2lDeDQ4dw?oc=5"
     },
     {
-      "title": "美股收盤》美伊局勢降溫使美股收高 台積電ADR上漲0.46％ - ec.ltn.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xRVBNMmlOU1hzY1kxZzlPY1hGaVJnZ2h5OVA4ZUE3V1VTYjNMTE9RLVBrcm1JM1E3UDlGMXhSYUIwa0pPbi1sUFZoaDJSalBsbnNqWlJibG1lOU91bDFN?oc=5"
+      "title": "開盤危險了？美股道瓊創歷史新高 台指期夜盤卻逆勢下跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNR1Joam9RZmV2UWRtSXphdzd0SFdVWW1kUDZ3eEFLUTJTaUlYbUpBNng2VUxfT3ZkWXhOWU5aSE90bE11Z0pCc2ZuVUlITURSY3pTbTJ0NXhNeGtteURidmZpZW5VeDhfb09scXNJcXV2eFNyT0ZxdFF6Q0psWkFqS0pzaEduRDh4VzBNcTNBX09ZRllhZE9lM3FKbXh0d1RZbUNkSDVQeW0wSzdnS081VDJtMkk5RXNSY1dLX3VOTUJyQURLY3U1WWhkWk1MV1J5TTJwN3padi1TNUlxWVp3YzBEMWVsNmFKbWtlMlhpcXhBVFBkSXphclNQMnBUVGIyU0RwNml6QmZXejFOR3g0SkVsNEV5ZE8zYTFwVG84MDhaWVZmeU5XYkVZeGVrYXBrS0tBb0JobUZ2Njg1MlRYdEhManVXenJkY3pNQm1PT1AyRlltTktSQVFiejlkTENmUE82blFSMXNHS3o2ZGpXR0ZOVDFkRW9FbUhoZlh3?oc=5"
     },
     {
       "title": "【0731台股盤後】台股暴飆3,186 點創歷史最大漲點！加權指數重返4.3 萬大關，但台股夜盤卻跌超1000點?投本比排行:力成、世界｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi_gVBVV95cUxPRW81SVlVQWxnS01MZ3dmS2NKeWtsbmc3RXhrWWF1Q0RxUnZmc2llck13UU9JVG55aXozd0U2dUhiekVTLTNUYU5kLXVOczM5SzNfWElPMnZlVV9QSGxCbnlpTUJVSFluNFZUNW5RdjRLSHFtcUI0NDhvNUtRZnlHWUZ6ZkRLQnE4Tm5TRkY0N3dRT3l3T190ZkdDVTMybjdvcHNSYmR0RVM5cnZjdG1ycmowNndmcWJNbktwd1pRbUhtNHBNVW5mY01iV3NkTVdDamFoQ0ZqazIxeW13RmdRNHp4OGlzdmhjdkV2SnJraGdVRzFxQTRma00wLTFEcnFsaEZsd1dveFR5cGJSZmY3X0FiWnozM3EwcGU4WDFaWGVHa0J1UXl4ajVPNTZrOVA4UHN1cldQNVhLTzF3cUgtLXBHbXJibU9aTG1nZTdMdjNabC1jdk95UEFJTDJrVEpEVU9PSmtpXzBEOFlsWGVzVW5vTnNHcUZtWDZJM2MzLWlUNWVxcGo0dEVxTE93X285WVlRSHRZdmFjQWU0aTNKMWxpNVJzNzladU1GRVFtdWJpcThiSV9wbGhGTGhDOHRBdnA4cVNzRWxZeTRhcVd4aFZXZWpMTE5vZVVtLV8wLTlHd2hONGZFek9aN05pYmNtQm1nSnE1R2lHbV8xVFJBRzUyOXRIb21KY3V0RkpYc1p2bEwyVXd6Q2lBZGNoLWNnSUUxdEo2ZS0zcmVzWWpCbktnUUdpeUtjOG42Z0xtQmpTUW1peGVlZ1JTUXBHN2xZWjRmMktVWUU0c0c4ckVfRzhqUEVMeUxCV0RaMzJ0X3pqb0FCcmpDYVZ5V3E1UkZpc05uTTYxTkJ5T2pvT1MyT21QVjBhZmdRTnczT3paNHRUcTN4UGtfU2t2V25jbGhQQXBPRVFwdEd1RnEtM3ZUMWRSU1phMVJUYUZ2bU9sMEVPc1B5OF95LVRrOFd6dTJPb1B3aFBGaXRoTXNlckZiVFJwQmFMcUFKMXVFcHp3?oc=5"
     },
     {
-      "title": "〈美股盤後〉川普給伊朗「最後一次機會」道瓊飆近700點創新猷 亞馬遜市值破3兆美元 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCaGIzM2J4Ym9Ea1FMaV85SWJZc2wwQTU2cXcxbVlyOWtWSzVTQThTZTUzc0dTdGtZYXE0bXRjNFRmM19rbGJRRDNlN3FXM0E?oc=5"
-    },
-    {
       "title": "玉山證券APP美股投資再升級 掌握個股盤後資訊 分析企業體質 - esunbank.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVjFrZWpuRGd3cW9USTVRNlk5UzY2aHFneVo3b1h5NklIVTV3cU1aZzlxb29RNW1LZ3pYUmRLeW5jUFBBTHExYlJyTGp0X3k5cWpNWkpla1gxT2VXSnRzWjFOQk9LNWJQMHRKLS1qOTN0aHJzZVBPbFZyVDV2cFNhMFgtbmcwVm1hMlFuU0lUXzRlc1Q1c0tTSU9WWEpnQjdPMkZrSjhxVk5yS1duS21iLWxUQ0pFd0lHemZJT2hHQ1hGb0dp?oc=5"
     },
     {
-      "title": "開盤危險了？美股道瓊創歷史新高 台指期夜盤卻逆勢下跌 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNR1Joam9RZmV2UWRtSXphdzd0SFdVWW1kUDZ3eEFLUTJTaUlYbUpBNng2VUxfT3ZkWXhOWU5aSE90bE11Z0pCc2ZuVUlITURSY3pTbTJ0NXhNeGtteURidmZpZW5VeDhfb09scXNJcXV2eFNyT0ZxdFF6Q0psWkFqS0pzaEduRDh4VzBNcTNBX09ZRllhZE9lM3FKbXh0d1RZbUNkSDVQeW0wSzdnS081VDJtMkk5RXNSY1dLX3VOTUJyQURLY3U1WWhkWk1MV1J5TTJwN3padi1TNUlxWVp3YzBEMWVsNmFKbWtlMlhpcXhBVFBkSXphclNQMnBUVGIyU0RwNml6QmZXejFOR3g0SkVsNEV5ZE8zYTFwVG84MDhaWVZmeU5XYkVZeGVrYXBrS0tBb0JobUZ2Njg1MlRYdEhManVXenJkY3pNQm1PT1AyRlltTktSQVFiejlkTENmUE82blFSMXNHS3o2ZGpXR0ZOVDFkRW9FbUhoZlh3?oc=5"
+      "title": "美股開盤大漲「費半勁揚逾5％」！台積電ADR跟著上攻 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hd0NFSEdtcUg3a1NjVkc0bVFsbldHRU5hT25EVnJUb0xWUGVET0tCY01TbG9feFJ1R0Nud19pNUt1SmlaaHF2blBfQUI4LWVCcVHSAVBBVV95cUxQd2M1RXZvRC1mRXJZaGV5UXJOZjQ1OXJBVV81ZktJZkVBbUtVRGtzcTNxdkh1UEtlMlFzcmpILTRaTV9mb0N0OGVRZ2pteDgyWg?oc=5"
     },
     {
-      "title": "美股最糟時刻過了？華爾街三大專家示警：通膨、高利率與AI恐掀下一波震盪 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uVTlRZ1Z1b1g4WUJ4RjFTeUsyTVpjX2J5Skd6RnJOSkF5TXgzdG5QV0tMUXdCbEh6Q3BfUzc4cXV0TzBySVdfQ2ktV3NWYm8?oc=5"
+      "title": "8月ETF配息旺季! 股民等AMD財報 台股震千點收跌25點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPa3VscnFBQWZwVFdMeEk0LTRnNGhiZG5STG5pZ1dudE5kR3JBYTE5eTMwUHJRUm5wcnlHV2NYRDJMZ01oMkRhM1Nxd0JMQVVzZVdZR0pNY09udjhBdVpHZ244UkpLVXJ2Zk5fWkczeDRfT05fdzFNSWQwczkxblhpN2dpb2JsQ3BUOUpNbEJaYU5sYUxjRVFDLVNTZGJ2Q1dKdVdqczlsMUtoTHZTbGVqT0c2MGZsLUl0dnZZaXdtUzRoYURadGo3bDJadWZ6eHpNd3NnLVdTMFU2SUpaMUd6T08tNk02VzZpRktPV2h1SFdQdzFPdFNCLVBzNVV2R1IwLXJjZzlIUjFJbzVJX1I2QjgybTg3ZkpIQ1l5b0lCTFRXUjRkcU1YaUE0SnR5ZnJ1RktMSG1xLTB3c2ZSOVViUWN3?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉川普給伊朗「最後一次機會」道瓊飆近700點創新猷 亞馬遜市值破3兆美元 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCaGIzM2J4Ym9Ea1FMaV85SWJZc2wwQTU2cXcxbVlyOWtWSzVTQThTZTUzc0dTdGtZYXE0bXRjNFRmM19rbGJRRDNlN3FXM0E?oc=5"
     }
   ]
 }
