@@ -1,16 +1,16 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/04 12:30",
+  "updated_tw": "08/04 15:23",
   "taiwan": {
     "2330": {
-      "price": 2315.0,
-      "change": -55.0,
-      "changePercent": -2.3207
+      "price": 2320.0,
+      "change": -50.0,
+      "changePercent": -2.1097
     },
     "2454": {
-      "price": 3845.0,
-      "change": -65.0,
-      "changePercent": -1.6624
+      "price": 3865.0,
+      "change": -45.0,
+      "changePercent": -1.1509
     },
     "2317": {
       "price": 250.0,
@@ -18,19 +18,19 @@
       "changePercent": -1.1858
     },
     "0050": {
-      "price": 100.5,
-      "change": -1.5,
-      "changePercent": -1.4706
+      "price": 100.65,
+      "change": -1.35,
+      "changePercent": -1.3235
     },
     "00878": {
-      "price": 32.66,
-      "change": 0.09,
-      "changePercent": 0.2763
+      "price": 32.57,
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "00919": {
-      "price": 29.57,
-      "change": 0.12,
-      "changePercent": 0.4075
+      "price": 29.51,
+      "change": 0.06,
+      "changePercent": 0.2037
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63776.95,
-      "change": 294.95,
-      "changePercent": 0.4646
+      "price": 63446.09,
+      "change": -35.91,
+      "changePercent": -0.0566
     },
     "ETH": {
-      "price": 1864.8,
-      "change": -17.722,
-      "changePercent": -0.9414
+      "price": 1852.19,
+      "change": -30.332,
+      "changePercent": -1.6112
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.375,
-      "change": 0.0819,
-      "changePercent": 0.2536
+      "price": 32.409,
+      "change": 0.1159,
+      "changePercent": 0.3589
     },
     "JPYTWD": {
-      "price": 0.2032,
-      "change": -0.0016,
-      "changePercent": -0.7628
+      "price": 0.2034,
+      "change": -0.0014,
+      "changePercent": -0.6652
     },
     "EURTWD": {
-      "price": 37.293,
-      "change": 0.0117,
-      "changePercent": 0.0313
+      "price": 37.358,
+      "change": 0.0767,
+      "changePercent": 0.2056
     },
     "CNYTWD": {
-      "price": 4.7983,
+      "price": 4.8073,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4111.6,
-    "twd": 4280.0,
-    "tael": 160488.0,
-    "twdTotal": 133113.0,
-    "changePercent": 1.5436
+    "usd": 4118.0,
+    "twd": 4291.0,
+    "tael": 160907.0,
+    "twdTotal": 133460.0,
+    "changePercent": 1.7016
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCaGIzM2J4Ym9Ea1FMaV85SWJZc2wwQTU2cXcxbVlyOWtWSzVTQThTZTUzc0dTdGtZYXE0bXRjNFRmM19rbGJRRDNlN3FXM0E?oc=5"
     },
     {
-      "title": "美股早盤／三大指數揚費半獨憔悴…動能交易料轉往這些類股| 全球財經| 全球 - UDN",
+      "title": "美股早盤／三大指數揚費半獨憔悴…動能交易料轉往這些類股| 全球財經| 全球 - udn",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93dVg4eTZPR3dWaHZaUHMzUjdsVWM2WXJ3Z3hOeXBQWGRZY2g3ZkxZQzhKckEtNUYzWDFFWDFZbmhJak84d25GWVptMFJQQ1Zl?oc=5"
     },
     {
-      "title": "美伊和談帶動美股大漲法人：台股留意月線反壓| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wYXFMajNKVlJZbklrM2lkekVLel93THNEMk9FSFVDMzBoRVBSRDBMNElsWVktVU5qaDRZRUwxUmlkZTR5TGtkOFVId0pYRFZTaTBBVW0wZzZscjFtbGc?oc=5"
+      "title": "2026美股超級事件週來襲，Meta、微軟、蘋果財報撞上FOMC利率決議，四大重點完整解析｜美股觀察 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMinwRBVV95cUxOT3BYUWtUaDRoM0swOW9wamtVaDhLMUdCclBhYVRuTnRoZTF4MDJBb1EwcVEtTHE2OTJIWHlPekNZOC1mWU01VzdfUVZHZTVEVTFuNHJaWXJmVUdGeDBoazlpVlBWbmZQQXlLRkxGN21xN3F0ZkVKR0RWZFZLb3NwQnJhWnZQbVk2Q0ZsaTRMa3BGelhHYk1pS2I4N1pFWnB2dEE5cWxWa2FhV05UTi1fcTFPWUVFRVk2VGE5Y25FUjlCanRULTRON1VxT281c1dGcFRBTU14bnV2SHJKbUhvUHlDYXZTR3p1NUdqdUFZcmtBSDhkWFJBTTE0elVDSzVxU0VibmJpWmduU2w1SDJLX3NaX01lUGVKcnhzbjQ3Q0JHUm85dmJXaHBfeTVlUGhpV0F0VElkZDhoV1NLX2s5RzhIU0JIN2NGWFNXaEh4NDhXWnpNUDZJa011ejIyTjBIajItcnZKSGZqMVZBcC1NVTl6TTRZeFY2NVFvQkpnamtNQVlzVWpVTGlGa0VBZUttLUVmLVNYcU9qV2FDaXNqZzJiXzhLdlJEUWgybnVZUGk5VDV3LTA3OHF0MjVDc0h3X2VHTjNRMDBQdUJqS0pydVJCNXQxbnNWekkwODFyMVZlV3Z0Tnpfb3gyMEN4TW5lUWZwXzRod0JUWXlxeG04Z1B6czNpc3FMUGM1aXJ1WWcxRVJUcVdYdlJoY3hsWnc?oc=5"
+    },
+    {
+      "title": "8月開門紅！美股4大指數大漲 道瓊創歷史新高 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPc1RjOU1EdHlONVhFZkZmMkpyRnlRMW5lZXNxaGQtUTdmUTBCWmRoRDUtcF9qcTE0dENMR2lldnlXY0NhblB2bmZwaG54bVhUcXhXdXVXZ21qdUVvTEF4bGV5NlM0MFQwUURGRHQtalktdE9kTXRGLXU3OThBMUxpVzcyQU5aSUdPVy1SR084aEJpUEI1cHhnZGJsMnFfOENkY3hKQWcyc3dRWVRTOGFkM19tNl8wU1FHVEg0OGRzU2RGWTNoSHI0SFZwbkc2Qmxxenlqc0F6bE1YMlRIMWFPU0I2MGRTbDM3LXhKbFltQW1KQ2xTUEtGYjVPdzE0bXNqU2VfeDNKTllrY0gtYmpwVjVmZFJabjB5VHhDczNBOWNvZEZEN2tIeGNJYTMwOFA5OWs1Wm9Fdkk?oc=5"
+    },
+    {
+      "title": "〈美股早盤〉美伊緊張局勢降溫、油價跌破80美元 主要指數開高 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DajNXOFRyNVZLbkMzX3ozZXlvMlFkVDNkQ0VZWkpJZGVzZlZ1X3oxVXVhVkQ4VWtydk9BTXBVVS1jQXcwcG04bWxqWjN4cDA?oc=5"
     },
     {
       "title": "美股走勢兩極！道瓊狂飆近700點、費半逆勢下挫 台積電ADR陷400美元保衛戰 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOb0EtZWJEdlB5NTRxM1F0Z3dVR19ickplbVVXWkkwTDVtWVkyVHlLVVVzTkVpbVQtTFhxdEk4YWdFZHQyMWNCVHY3dERJR0RTUExLR0s3UE50bEZ0aGFuRWo3QmR1aXFYdk5ubkZ0MnVGWU5VYnNYeFhsLWp2YUVPN0JMekNFVkxneWQ3OEZGMlF5WXNrXzBaSmlreXdNUHRfaHQ2RmpGdy1yNEJNQk1aVUZNVjdJNUt4YnhkeERQM3lQcHVBQ1lJeVBWTjhvcm9IdF9NX2Rjay1pZWtyU1JRLUdrSF9qNnVZdTNjVmE5dHg1aGJ1NkVKRFhJclhGY0pGemVyQUszalVjUy0xWnQ2bjZOc3VhQlFjWlN3amZKamZyRnBmbTI0d2ZtRFk5Y3dXcllweE1wZVdPTnJTQWpFc2R2YjhsVGhiV05USU51aDVfU2xkOVpQOUN5aVV4MkdVS19JRVZkNUg0SVRleGdIVkYxN25qd3VJUXByS2NvMXVFRDNVcG5lQVFGMFNwWnVHU0RfeG9aYm1DRjZibUx1RUw5cDAzNE5hZGJhV3VpUQ?oc=5"
-    },
-    {
-      "title": "比特幣冷儲存產品1億美元駭客攻擊 你需要了解什麼？ - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQM1c0RXVyQW1ZQy0wNkpaYXR2dTZocmtMVUNkV0FLRWpMV1V2elFYSEw4TU1fRm4wbHJxU1BaZC1QcXJ4Vk5Rd0VXZw?oc=5"
-    },
-    {
-      "title": "台股早盤開低震盪 一度跌破43000點 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56NVhSQTFZS0l0cFhYa0owWGtuVjdmY3VTdDJuUkcyZDJSVG5kcmZHcnBWR25oODF0eTN2Z0ZrdGFDYUpzcV9XUzg1dkhWcWZrWkFBM1Z2RUY3Wk10VHc?oc=5"
     }
   ]
 }
