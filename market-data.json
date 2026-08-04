@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/05 01:02",
+  "updated_tw": "08/05 02:51",
   "taiwan": {
     "2330": {
       "price": 2320.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 210.82,
-      "change": 4.18,
-      "changePercent": 2.0228
+      "price": 212.76,
+      "change": 6.12,
+      "changePercent": 2.9617
     },
     "AAPL": {
-      "price": 308.85,
-      "change": 5.43,
-      "changePercent": 1.7896
+      "price": 309.05,
+      "change": 5.63,
+      "changePercent": 1.8555
     },
     "TSLA": {
-      "price": 325.665,
-      "change": 3.585,
-      "changePercent": 1.1131
+      "price": 328.361,
+      "change": 6.281,
+      "changePercent": 1.9501
     },
     "QQQ": {
-      "price": 721.05,
-      "change": 20.98,
-      "changePercent": 2.9968
+      "price": 723.99,
+      "change": 23.92,
+      "changePercent": 3.4168
     },
     "SPY": {
-      "price": 770.76,
-      "change": 13.09,
-      "changePercent": 1.7277
+      "price": 772.12,
+      "change": 14.45,
+      "changePercent": 1.9072
     },
     "SCHD": {
-      "price": 33.8,
-      "change": 0.24,
-      "changePercent": 0.7151
+      "price": 33.815,
+      "change": 0.255,
+      "changePercent": 0.7598
     },
     "VOO": {
-      "price": 708.48,
-      "change": 12.08,
-      "changePercent": 1.7346
+      "price": 709.75,
+      "change": 13.35,
+      "changePercent": 1.917
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63997.24,
-      "change": 536.3416,
-      "changePercent": 0.8452
+      "price": 64252.14,
+      "change": 791.2416,
+      "changePercent": 1.2468
     },
     "ETH": {
-      "price": 1872.59,
-      "change": 14.3335,
-      "changePercent": 0.7713
+      "price": 1873.58,
+      "change": 15.3235,
+      "changePercent": 0.8246
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.387,
-      "change": 0.0939,
-      "changePercent": 0.2908
+      "price": 32.406,
+      "change": 0.1129,
+      "changePercent": 0.3496
     },
     "JPYTWD": {
-      "price": 0.2034,
-      "change": -0.0014,
-      "changePercent": -0.6652
+      "price": 0.2033,
+      "change": -0.0015,
+      "changePercent": -0.714
     },
     "EURTWD": {
-      "price": 37.36,
-      "change": 0.0787,
-      "changePercent": 0.211
+      "price": 37.399,
+      "change": 0.1177,
+      "changePercent": 0.3156
     },
     "CNYTWD": {
-      "price": 4.8057,
+      "price": 4.8065,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4149.6,
-    "twd": 4321.0,
-    "tael": 162031.0,
-    "twdTotal": 134393.0,
-    "changePercent": 2.8733
+    "usd": 4134.5,
+    "twd": 4308.0,
+    "tael": 161537.0,
+    "twdTotal": 133983.0,
+    "changePercent": 2.4989
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,11 +117,15 @@
   },
   "news": [
     {
+      "title": "美股早盤／布蘭特油價跌破80美元...費半衝高5% Palantir飆21% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jV19uU3VBM3ZncTQ5MXhzUDdFNi1pelJfenFtaU5jVjZ5UHZEdWpUN01YR2hsZHpkNEFaVnk2Z2VtU1pHNWVBa0ZObXdxYzBx?oc=5"
+    },
+    {
       "title": "〈美股早盤〉AI財報報喜、美伊協議露曙光！主要指數開高 道瓊狂飆700點 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OdXM5NElQNmQ1VzNQT2xYZGtGdTEtTGhKWllBS0hweEJBVmxRa3VlSUVuVXhjMUFhOHVfcTBqak40V2VhcWF3WkhOMHBVcW8?oc=5"
     },
     {
-      "title": "快訊／美股開盤飆漲 1指數寫歷史新高 - news.ebc.net.tw",
+      "title": "快訊／美股開盤道瓊飆漲772點 標普再寫歷史新高 - 東森新聞",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FM19UZ2twY0dnQlVSeTdNMWE3bHhUUDh0czN4bnp0dTFIYzgtRnB6bU1CWFhpLTlfbmxQZ0RXMlVndlNwbkwwVFVGWTFNeV9hY2lDeDQ4dw?oc=5"
     },
     {
@@ -129,8 +133,8 @@
       "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNR1Joam9RZmV2UWRtSXphdzd0SFdVWW1kUDZ3eEFLUTJTaUlYbUpBNng2VUxfT3ZkWXhOWU5aSE90bE11Z0pCc2ZuVUlITURSY3pTbTJ0NXhNeGtteURidmZpZW5VeDhfb09scXNJcXV2eFNyT0ZxdFF6Q0psWkFqS0pzaEduRDh4VzBNcTNBX09ZRllhZE9lM3FKbXh0d1RZbUNkSDVQeW0wSzdnS081VDJtMkk5RXNSY1dLX3VOTUJyQURLY3U1WWhkWk1MV1J5TTJwN3padi1TNUlxWVp3YzBEMWVsNmFKbWtlMlhpcXhBVFBkSXphclNQMnBUVGIyU0RwNml6QmZXejFOR3g0SkVsNEV5ZE8zYTFwVG84MDhaWVZmeU5XYkVZeGVrYXBrS0tBb0JobUZ2Njg1MlRYdEhManVXenJkY3pNQm1PT1AyRlltTktSQVFiejlkTENmUE82blFSMXNHS3o2ZGpXR0ZOVDFkRW9FbUhoZlh3?oc=5"
     },
     {
-      "title": "【0731台股盤後】台股暴飆3,186 點創歷史最大漲點！加權指數重返4.3 萬大關，但台股夜盤卻跌超1000點?投本比排行:力成、世界｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi_gVBVV95cUxPRW81SVlVQWxnS01MZ3dmS2NKeWtsbmc3RXhrWWF1Q0RxUnZmc2llck13UU9JVG55aXozd0U2dUhiekVTLTNUYU5kLXVOczM5SzNfWElPMnZlVV9QSGxCbnlpTUJVSFluNFZUNW5RdjRLSHFtcUI0NDhvNUtRZnlHWUZ6ZkRLQnE4Tm5TRkY0N3dRT3l3T190ZkdDVTMybjdvcHNSYmR0RVM5cnZjdG1ycmowNndmcWJNbktwd1pRbUhtNHBNVW5mY01iV3NkTVdDamFoQ0ZqazIxeW13RmdRNHp4OGlzdmhjdkV2SnJraGdVRzFxQTRma00wLTFEcnFsaEZsd1dveFR5cGJSZmY3X0FiWnozM3EwcGU4WDFaWGVHa0J1UXl4ajVPNTZrOVA4UHN1cldQNVhLTzF3cUgtLXBHbXJibU9aTG1nZTdMdjNabC1jdk95UEFJTDJrVEpEVU9PSmtpXzBEOFlsWGVzVW5vTnNHcUZtWDZJM2MzLWlUNWVxcGo0dEVxTE93X285WVlRSHRZdmFjQWU0aTNKMWxpNVJzNzladU1GRVFtdWJpcThiSV9wbGhGTGhDOHRBdnA4cVNzRWxZeTRhcVd4aFZXZWpMTE5vZVVtLV8wLTlHd2hONGZFek9aN05pYmNtQm1nSnE1R2lHbV8xVFJBRzUyOXRIb21KY3V0RkpYc1p2bEwyVXd6Q2lBZGNoLWNnSUUxdEo2ZS0zcmVzWWpCbktnUUdpeUtjOG42Z0xtQmpTUW1peGVlZ1JTUXBHN2xZWjRmMktVWUU0c0c4ckVfRzhqUEVMeUxCV0RaMzJ0X3pqb0FCcmpDYVZ5V3E1UkZpc05uTTYxTkJ5T2pvT1MyT21QVjBhZmdRTnczT3paNHRUcTN4UGtfU2t2V25jbGhQQXBPRVFwdEd1RnEtM3ZUMWRSU1phMVJUYUZ2bU9sMEVPc1B5OF95LVRrOFd6dTJPb1B3aFBGaXRoTXNlckZiVFJwQmFMcUFKMXVFcHp3?oc=5"
+      "title": "【0804台股盤後】記憶體與ABF 載板強攻噴發！台股大盤震盪守43,300 點；櫃買勁揚3.35% 重回多頭軌道，營收創高策略鎖定【南亞科、晶豪科、倉和、南電】｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMigAZBVV95cUxORmlPeGlOdU8tS1BhSlphM3BDekRzelhnWElYMnExcWVJVVAtREJkak9fZGpUQV83cTYwXzVlRUhYVlRXVEpqNWJUQlFQVENlaE52ZnNtZy13WDFWc19RcWRIMXpoSEdTSXRfSDRJMi1qMHpuZ1dSQ21lM1h6c0k1NExzVmlTLUJWRXNMT2RHSXVUTXRlZFBEWFlfdThWX3dJTmVtNUw2VTNJbS1XaU0tcnFVMlBDWEJvaEtqQVk4QXNUQTJwWFdQajVLYnFZdnJReENLNUNNeTVfelVMNUlCZEpRQWpvc3Q3Rmpfd2NZd1RUSGZHZ1lwbkdfM1RTcHVIZG9lbVR5Y3JsbmNyamxTZ2Z6U1hoVnFscVUtZWRoWHFwSnlaekg3ZUZVSF9iSGI2ME0zYUsya3d4eFBaNGVleHJvQXNMdmdrdXZrYU5SX2JPcHBVTGR2S256SXdCY0xEeUhqRmxIUk9fcm1wSl9obXBzVjZpX09GZFpETjRYejJoZzNJM2dlQ05wMktFUE83b3VMcWlhcWxUM2t1eENKTkZKZDR2WlEyaTAybnkwVDBUbGhva3dpdUw5Z0JhNlZGb2Z5SF8tX2pOMzFnSGNiYWJkUlA2TlJtM0xtRmhNQ3poVldlcHNjcUFKdWR2NmtwWjRVTkpnRUwzSGxaZUhza3NMVFlyaklVQkpFbXJiSTFJSEdjY0Ftc2ZjRWxWdmxOdjFMb0lpS1lXd2Zjd210TGJQckpJXy1xbVJwTlM2ZGExZnlTUks1N3JmdVZBeDVyZXhFYjJMeHFNQndzOGhhOTkwTUJ6VlFYQlFXTWRldWUtdnpsV09UcDJKZjdZbU5MeFlnUjV4bkp0ZnQ3THB4S0hhdnU4dUVhU19tNUlHYjNtV1h6X3JfS1BUZXJfajBFcHBXbjNJeUJyaDU0WmdRRDdtZzdKMVlkZmhqVTBsOFdBandwTllScTJhY2dUVjE1eFVVcmZYQjVvZWtZOFFndV9oSERqUVNFTUVTSDJNRFE?oc=5"
     },
     {
       "title": "玉山證券APP美股投資再升級 掌握個股盤後資訊 分析企業體質 - esunbank.com",
@@ -141,12 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hd0NFSEdtcUg3a1NjVkc0bVFsbldHRU5hT25EVnJUb0xWUGVET0tCY01TbG9feFJ1R0Nud19pNUt1SmlaaHF2blBfQUI4LWVCcVHSAVBBVV95cUxQd2M1RXZvRC1mRXJZaGV5UXJOZjQ1OXJBVV81ZktJZkVBbUtVRGtzcTNxdkh1UEtlMlFzcmpILTRaTV9mb0N0OGVRZ2pteDgyWg?oc=5"
     },
     {
-      "title": "8月ETF配息旺季! 股民等AMD財報 台股震千點收跌25點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPa3VscnFBQWZwVFdMeEk0LTRnNGhiZG5STG5pZ1dudE5kR3JBYTE5eTMwUHJRUm5wcnlHV2NYRDJMZ01oMkRhM1Nxd0JMQVVzZVdZR0pNY09udjhBdVpHZ244UkpLVXJ2Zk5fWkczeDRfT05fdzFNSWQwczkxblhpN2dpb2JsQ3BUOUpNbEJaYU5sYUxjRVFDLVNTZGJ2Q1dKdVdqczlsMUtoTHZTbGVqT0c2MGZsLUl0dnZZaXdtUzRoYURadGo3bDJadWZ6eHpNd3NnLVdTMFU2SUpaMUd6T08tNk02VzZpRktPV2h1SFdQdzFPdFNCLVBzNVV2R1IwLXJjZzlIUjFJbzVJX1I2QjgybTg3ZkpIQ1l5b0lCTFRXUjRkcU1YaUE0SnR5ZnJ1RktMSG1xLTB3c2ZSOVViUWN3?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉川普給伊朗「最後一次機會」道瓊飆近700點創新猷 亞馬遜市值破3兆美元 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCaGIzM2J4Ym9Ea1FMaV85SWJZc2wwQTU2cXcxbVlyOWtWSzVTQThTZTUzc0dTdGtZYXE0bXRjNFRmM19rbGJRRDNlN3FXM0E?oc=5"
+      "title": "台股明有望反彈？台指期飆破4.4萬點、美股全開紅盤 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNR0hEM1h3WHJjWWN1WE50MU1ZZGZNaUppWER6aFJ6d19fOTNRMWZmYnpYR083WFBpZlU3WXkzSEVZcVR1N3YwNkc4RXNRSkxyemJ6TUZOUzdJelpVWmEtY1FRVmJrendIZFlaLWNIdVlDN0E1a1l2UmJ1TC00UWVGa2JydzFCVHYxUllzZk9XSl9rczJKZnZ0V2c1QUhkOThEUHFKVk5FdjQ1ZXBEVGw5ell4RVBIcGI4VzlyS2VyVXFMckx4aXp5Y1FhLVVzX2EyOWxla0Vnb1pKa1VKRHpkd2VpRGFEeHhXYXIzYmxjdHNxU21mTlJPTjBfTUNNNnZvU2ZBeG9Va05DVkR3T1EzNGZPVThlc29EVWNkRlQ3SjFIbko0MnJNdnlEcE50SHA1c010VVIzdGtPeDJpQkJ4TDJ4d3F1dGRRQUE?oc=5"
     }
   ]
 }
