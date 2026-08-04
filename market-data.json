@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/04 15:23",
+  "updated_tw": "08/04 18:09",
   "taiwan": {
     "2330": {
       "price": 2320.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63446.09,
-      "change": -35.91,
-      "changePercent": -0.0566
+      "price": 63470.42,
+      "change": -11.58,
+      "changePercent": -0.0182
     },
     "ETH": {
-      "price": 1852.19,
-      "change": -30.332,
-      "changePercent": -1.6112
+      "price": 1855.23,
+      "change": -27.292,
+      "changePercent": -1.4498
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.409,
-      "change": 0.1159,
-      "changePercent": 0.3589
+      "price": 32.414,
+      "change": 0.1209,
+      "changePercent": 0.3744
     },
     "JPYTWD": {
-      "price": 0.2034,
-      "change": -0.0014,
-      "changePercent": -0.6652
+      "price": 0.2031,
+      "change": -0.0017,
+      "changePercent": -0.8117
     },
     "EURTWD": {
-      "price": 37.358,
-      "change": 0.0767,
-      "changePercent": 0.2056
+      "price": 37.351,
+      "change": 0.0697,
+      "changePercent": 0.1868
     },
     "CNYTWD": {
-      "price": 4.8073,
+      "price": 4.805,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4118.0,
-    "twd": 4291.0,
-    "tael": 160907.0,
-    "twdTotal": 133460.0,
-    "changePercent": 1.7016
+    "usd": 4105.3,
+    "twd": 4278.0,
+    "tael": 160435.0,
+    "twdTotal": 133069.0,
+    "changePercent": 1.388
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xRVBNMmlOU1hzY1kxZzlPY1hGaVJnZ2h5OVA4ZUE3V1VTYjNMTE9RLVBrcm1JM1E3UDlGMXhSYUIwa0pPbi1sUFZoaDJSalBsbnNqWlJibG1lOU91bDFN?oc=5"
     },
     {
+      "title": "【0731台股盤後】台股暴飆3,186 點創歷史最大漲點！加權指數重返4.3 萬大關，但台股夜盤卻跌超1000點?投本比排行:力成、世界｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi_gVBVV95cUxPRW81SVlVQWxnS01MZ3dmS2NKeWtsbmc3RXhrWWF1Q0RxUnZmc2llck13UU9JVG55aXozd0U2dUhiekVTLTNUYU5kLXVOczM5SzNfWElPMnZlVV9QSGxCbnlpTUJVSFluNFZUNW5RdjRLSHFtcUI0NDhvNUtRZnlHWUZ6ZkRLQnE4Tm5TRkY0N3dRT3l3T190ZkdDVTMybjdvcHNSYmR0RVM5cnZjdG1ycmowNndmcWJNbktwd1pRbUhtNHBNVW5mY01iV3NkTVdDamFoQ0ZqazIxeW13RmdRNHp4OGlzdmhjdkV2SnJraGdVRzFxQTRma00wLTFEcnFsaEZsd1dveFR5cGJSZmY3X0FiWnozM3EwcGU4WDFaWGVHa0J1UXl4ajVPNTZrOVA4UHN1cldQNVhLTzF3cUgtLXBHbXJibU9aTG1nZTdMdjNabC1jdk95UEFJTDJrVEpEVU9PSmtpXzBEOFlsWGVzVW5vTnNHcUZtWDZJM2MzLWlUNWVxcGo0dEVxTE93X285WVlRSHRZdmFjQWU0aTNKMWxpNVJzNzladU1GRVFtdWJpcThiSV9wbGhGTGhDOHRBdnA4cVNzRWxZeTRhcVd4aFZXZWpMTE5vZVVtLV8wLTlHd2hONGZFek9aN05pYmNtQm1nSnE1R2lHbV8xVFJBRzUyOXRIb21KY3V0RkpYc1p2bEwyVXd6Q2lBZGNoLWNnSUUxdEo2ZS0zcmVzWWpCbktnUUdpeUtjOG42Z0xtQmpTUW1peGVlZ1JTUXBHN2xZWjRmMktVWUU0c0c4ckVfRzhqUEVMeUxCV0RaMzJ0X3pqb0FCcmpDYVZ5V3E1UkZpc05uTTYxTkJ5T2pvT1MyT21QVjBhZmdRTnczT3paNHRUcTN4UGtfU2t2V25jbGhQQXBPRVFwdEd1RnEtM3ZUMWRSU1phMVJUYUZ2bU9sMEVPc1B5OF95LVRrOFd6dTJPb1B3aFBGaXRoTXNlckZiVFJwQmFMcUFKMXVFcHp3?oc=5"
+    },
+    {
       "title": "〈美股盤後〉川普給伊朗「最後一次機會」道瓊飆近700點創新猷 亞馬遜市值破3兆美元 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCaGIzM2J4Ym9Ea1FMaV85SWJZc2wwQTU2cXcxbVlyOWtWSzVTQThTZTUzc0dTdGtZYXE0bXRjNFRmM19rbGJRRDNlN3FXM0E?oc=5"
     },
     {
-      "title": "美股早盤／三大指數揚費半獨憔悴…動能交易料轉往這些類股| 全球財經| 全球 - udn",
+      "title": "美股早盤／三大指數揚費半獨憔悴…動能交易料轉往這些類股| 全球財經| 全球 - udn.com",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93dVg4eTZPR3dWaHZaUHMzUjdsVWM2WXJ3Z3hOeXBQWGRZY2g3ZkxZQzhKckEtNUYzWDFFWDFZbmhJak84d25GWVptMFJQQ1Zl?oc=5"
     },
     {
-      "title": "2026美股超級事件週來襲，Meta、微軟、蘋果財報撞上FOMC利率決議，四大重點完整解析｜美股觀察 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMinwRBVV95cUxOT3BYUWtUaDRoM0swOW9wamtVaDhLMUdCclBhYVRuTnRoZTF4MDJBb1EwcVEtTHE2OTJIWHlPekNZOC1mWU01VzdfUVZHZTVEVTFuNHJaWXJmVUdGeDBoazlpVlBWbmZQQXlLRkxGN21xN3F0ZkVKR0RWZFZLb3NwQnJhWnZQbVk2Q0ZsaTRMa3BGelhHYk1pS2I4N1pFWnB2dEE5cWxWa2FhV05UTi1fcTFPWUVFRVk2VGE5Y25FUjlCanRULTRON1VxT281c1dGcFRBTU14bnV2SHJKbUhvUHlDYXZTR3p1NUdqdUFZcmtBSDhkWFJBTTE0elVDSzVxU0VibmJpWmduU2w1SDJLX3NaX01lUGVKcnhzbjQ3Q0JHUm85dmJXaHBfeTVlUGhpV0F0VElkZDhoV1NLX2s5RzhIU0JIN2NGWFNXaEh4NDhXWnpNUDZJa011ejIyTjBIajItcnZKSGZqMVZBcC1NVTl6TTRZeFY2NVFvQkpnamtNQVlzVWpVTGlGa0VBZUttLUVmLVNYcU9qV2FDaXNqZzJiXzhLdlJEUWgybnVZUGk5VDV3LTA3OHF0MjVDc0h3X2VHTjNRMDBQdUJqS0pydVJCNXQxbnNWekkwODFyMVZlV3Z0Tnpfb3gyMEN4TW5lUWZwXzRod0JUWXlxeG04Z1B6czNpc3FMUGM1aXJ1WWcxRVJUcVdYdlJoY3hsWnc?oc=5"
+      "title": "Strategy 再賣 1,638 枚比特幣！套現逾 1.05 億美元、持倉降至 84.3 萬枚 - blockcast.it",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc1Z1N0cyX0VaQnk2RmE0WmZDeHR6ZDhObTV3TV9neGdrUXUyUVdudXNBVGdGeGR1YlN3TVhwd2t4ZHRxYWRISnZkaXJUNFJJdFJZVEl1N09pRnd2U3pEdTZQZm9fT2tRVXdseHBvU0FndDZzZl9Yc3hVVnI5dmZ2aU82cnJIT2c?oc=5"
     },
     {
       "title": "8月開門紅！美股4大指數大漲 道瓊創歷史新高 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPc1RjOU1EdHlONVhFZkZmMkpyRnlRMW5lZXNxaGQtUTdmUTBCWmRoRDUtcF9qcTE0dENMR2lldnlXY0NhblB2bmZwaG54bVhUcXhXdXVXZ21qdUVvTEF4bGV5NlM0MFQwUURGRHQtalktdE9kTXRGLXU3OThBMUxpVzcyQU5aSUdPVy1SR084aEJpUEI1cHhnZGJsMnFfOENkY3hKQWcyc3dRWVRTOGFkM19tNl8wU1FHVEg0OGRzU2RGWTNoSHI0SFZwbkc2Qmxxenlqc0F6bE1YMlRIMWFPU0I2MGRTbDM3LXhKbFltQW1KQ2xTUEtGYjVPdzE0bXNqU2VfeDNKTllrY0gtYmpwVjVmZFJabjB5VHhDczNBOWNvZEZEN2tIeGNJYTMwOFA5OWs1Wm9Fdkk?oc=5"
     },
     {
-      "title": "〈美股早盤〉美伊緊張局勢降溫、油價跌破80美元 主要指數開高 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DajNXOFRyNVZLbkMzX3ozZXlvMlFkVDNkQ0VZWkpJZGVzZlZ1X3oxVXVhVkQ4VWtydk9BTXBVVS1jQXcwcG04bWxqWjN4cDA?oc=5"
-    },
-    {
-      "title": "美股走勢兩極！道瓊狂飆近700點、費半逆勢下挫 台積電ADR陷400美元保衛戰 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOb0EtZWJEdlB5NTRxM1F0Z3dVR19ickplbVVXWkkwTDVtWVkyVHlLVVVzTkVpbVQtTFhxdEk4YWdFZHQyMWNCVHY3dERJR0RTUExLR0s3UE50bEZ0aGFuRWo3QmR1aXFYdk5ubkZ0MnVGWU5VYnNYeFhsLWp2YUVPN0JMekNFVkxneWQ3OEZGMlF5WXNrXzBaSmlreXdNUHRfaHQ2RmpGdy1yNEJNQk1aVUZNVjdJNUt4YnhkeERQM3lQcHVBQ1lJeVBWTjhvcm9IdF9NX2Rjay1pZWtyU1JRLUdrSF9qNnVZdTNjVmE5dHg1aGJ1NkVKRFhJclhGY0pGemVyQUszalVjUy0xWnQ2bjZOc3VhQlFjWlN3amZKamZyRnBmbTI0d2ZtRFk5Y3dXcllweE1wZVdPTnJTQWpFc2R2YjhsVGhiV05USU51aDVfU2xkOVpQOUN5aVV4MkdVS19JRVZkNUg0SVRleGdIVkYxN25qd3VJUXByS2NvMXVFRDNVcG5lQVFGMFNwWnVHU0RfeG9aYm1DRjZibUx1RUw5cDAzNE5hZGJhV3VpUQ?oc=5"
+      "title": "美股最糟時刻過了？華爾街三大專家示警：通膨、高利率與AI恐掀下一波震盪 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uVTlRZ1Z1b1g4WUJ4RjFTeUsyTVpjX2J5Skd6RnJOSkF5TXgzdG5QV0tMUXdCbEh6Q3BfUzc4cXV0TzBySVdfQ2ktV3NWYm8?oc=5"
     }
   ]
 }
