@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/04 07:35",
+  "updated_tw": "08/04 09:05",
   "taiwan": {
     "2330": {
       "price": 2370.0,
-      "change": 165.0,
-      "changePercent": 7.483
+      "change": -55.0,
+      "changePercent": -2.268
     },
     "2454": {
       "price": 3910.0,
-      "change": 675.0,
-      "changePercent": 20.8655
+      "change": 355.0,
+      "changePercent": 9.9859
     },
     "2317": {
       "price": 253.0,
-      "change": 23.5,
-      "changePercent": 10.2397
+      "change": 2.5,
+      "changePercent": 0.998
     },
     "0050": {
       "price": 102.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63455.71,
-      "change": -26.29,
-      "changePercent": -0.0414
+      "price": 63421.05,
+      "change": -60.95,
+      "changePercent": -0.096
     },
     "ETH": {
-      "price": 1856.74,
-      "change": -25.782,
-      "changePercent": -1.3695
+      "price": 1852.36,
+      "change": -30.162,
+      "changePercent": -1.6022
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.395,
-      "change": 0.1019,
-      "changePercent": 0.3156
+      "price": 32.388,
+      "change": 0.0949,
+      "changePercent": 0.2939
     },
     "JPYTWD": {
-      "price": 0.2036,
-      "change": -0.0012,
-      "changePercent": -0.5675
+      "price": 0.2032,
+      "change": -0.0016,
+      "changePercent": -0.7628
     },
     "EURTWD": {
-      "price": 37.33,
-      "change": 0.0487,
-      "changePercent": 0.1305
+      "price": 37.272,
+      "change": -0.0093,
+      "changePercent": -0.0251
     },
     "CNYTWD": {
-      "price": 4.7987,
+      "price": 4.7993,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4108.4,
-    "twd": 4279.0,
-    "tael": 160462.0,
-    "twdTotal": 133092.0,
-    "changePercent": 1.4645
+    "usd": 4111.0,
+    "twd": 4281.0,
+    "tael": 160529.0,
+    "twdTotal": 133147.0,
+    "changePercent": 1.5287
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xRVBNMmlOU1hzY1kxZzlPY1hGaVJnZ2h5OVA4ZUE3V1VTYjNMTE9RLVBrcm1JM1E3UDlGMXhSYUIwa0pPbi1sUFZoaDJSalBsbnNqWlJibG1lOU91bDFN?oc=5"
     },
     {
-      "title": "美股走勢兩極！道瓊狂飆近700點、費半逆勢下挫 台積電ADR陷400美元保衛戰 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOb0EtZWJEdlB5NTRxM1F0Z3dVR19ickplbVVXWkkwTDVtWVkyVHlLVVVzTkVpbVQtTFhxdEk4YWdFZHQyMWNCVHY3dERJR0RTUExLR0s3UE50bEZ0aGFuRWo3QmR1aXFYdk5ubkZ0MnVGWU5VYnNYeFhsLWp2YUVPN0JMekNFVkxneWQ3OEZGMlF5WXNrXzBaSmlreXdNUHRfaHQ2RmpGdy1yNEJNQk1aVUZNVjdJNUt4YnhkeERQM3lQcHVBQ1lJeVBWTjhvcm9IdF9NX2Rjay1pZWtyU1JRLUdrSF9qNnVZdTNjVmE5dHg1aGJ1NkVKRFhJclhGY0pGemVyQUszalVjUy0xWnQ2bjZOc3VhQlFjWlN3amZKamZyRnBmbTI0d2ZtRFk5Y3dXcllweE1wZVdPTnJTQWpFc2R2YjhsVGhiV05USU51aDVfU2xkOVpQOUN5aVV4MkdVS19JRVZkNUg0SVRleGdIVkYxN25qd3VJUXByS2NvMXVFRDNVcG5lQVFGMFNwWnVHU0RfeG9aYm1DRjZibUx1RUw5cDAzNE5hZGJhV3VpUQ?oc=5"
-    },
-    {
       "title": "〈美股盤後〉川普給伊朗「最後一次機會」道瓊飆近700點創新猷 亞馬遜市值破3兆美元 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCaGIzM2J4Ym9Ea1FMaV85SWJZc2wwQTU2cXcxbVlyOWtWSzVTQThTZTUzc0dTdGtZYXE0bXRjNFRmM19rbGJRRDNlN3FXM0E?oc=5"
+    },
+    {
+      "title": "美股走勢兩極！道瓊狂飆近700點、費半逆勢下挫 台積電ADR陷400美元保衛戰 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOb0EtZWJEdlB5NTRxM1F0Z3dVR19ickplbVVXWkkwTDVtWVkyVHlLVVVzTkVpbVQtTFhxdEk4YWdFZHQyMWNCVHY3dERJR0RTUExLR0s3UE50bEZ0aGFuRWo3QmR1aXFYdk5ubkZ0MnVGWU5VYnNYeFhsLWp2YUVPN0JMekNFVkxneWQ3OEZGMlF5WXNrXzBaSmlreXdNUHRfaHQ2RmpGdy1yNEJNQk1aVUZNVjdJNUt4YnhkeERQM3lQcHVBQ1lJeVBWTjhvcm9IdF9NX2Rjay1pZWtyU1JRLUdrSF9qNnVZdTNjVmE5dHg1aGJ1NkVKRFhJclhGY0pGemVyQUszalVjUy0xWnQ2bjZOc3VhQlFjWlN3amZKamZyRnBmbTI0d2ZtRFk5Y3dXcllweE1wZVdPTnJTQWpFc2R2YjhsVGhiV05USU51aDVfU2xkOVpQOUN5aVV4MkdVS19JRVZkNUg0SVRleGdIVkYxN25qd3VJUXByS2NvMXVFRDNVcG5lQVFGMFNwWnVHU0RfeG9aYm1DRjZibUx1RUw5cDAzNE5hZGJhV3VpUQ?oc=5"
     },
     {
       "title": "美股早盤／三大指數揚費半獨憔悴…動能交易料轉往這些類股| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93dVg4eTZPR3dWaHZaUHMzUjdsVWM2WXJ3Z3hOeXBQWGRZY2g3ZkxZQzhKckEtNUYzWDFFWDFZbmhJak84d25GWVptMFJQQ1Zl?oc=5"
     },
     {
-      "title": "【美股盤前0803】亞馬遜財報亮眼大漲15%！今晚7 月 ISM 製造業PMI 觀戰指南｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNYi1BQjZKRFE4VWZ0WTRHZ1phb3dnZExwOFY3QUhhNWI3RE5JUHM3NTY4aWY2RE11N2JtNGtNYWhxbkhtVjdZRFYzVDlEcTdMcUNQZFRFM0tXMFduNU1IcEs0YVBqUHNid3hwdk11OGtVQWpTOV9iUlE5bldIYU9UYlByMmxvb0FxLW0tMDlidHlGYjRoRGI1aDF6YlYyaXpYeXpxT0ZHcDN0aDdScXY4ZnhhOGdvd3JJaEVUbTdSMkpjU3psdFlRSzJaZm5rNHF2OFdVbmFuUmI4bDlXM3gxcGFEVXFkM0NQWUlwalVuM2ZUYnUtc0VjOFQ3RmNpUWhYclNNZWVOdDl6YjBkTGgyWXhuTnItZkdNNjE3eGN6RGVzVHJ4b1JwX3dmSEVVTWtPdnF6NERRTkxZZ05hSFQzLTZUQnRhOV9VVXc0LWtKY2R5dEdXOTYwdWRDdmxXMjlFV2stZ2dZN3VpSERJTE8tSm5iYWZOanM2aV9KampsUDEyR1lQcGptNTc0bE9TRG5ETUd1NG9kbHpicllWSmY5TUdCUWt0M2NuZG02eUVXSQ?oc=5"
-    },
-    {
-      "title": "美股很貴快逃？哈佛教授：看漏這數據，錯失未來10年行情 - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qbERLZ1pxT1pkVFZqVzRlWHBSa19wVUdXMUNzSExuR3FxZlBURVdZaXI3R2liR05US0VFbGowcVJEOERqUkNEX1Y5ZTdhUQ?oc=5"
+      "title": "美伊和談帶動美股大漲法人：台股留意月線反壓| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wYXFMajNKVlJZbklrM2lkekVLel93THNEMk9FSFVDMzBoRVBSRDBMNElsWVktVU5qaDRZRUwxUmlkZTR5TGtkOFVId0pYRFZTaTBBVW0wZzZscjFtbGc?oc=5"
     },
     {
       "title": "快訊／川普又轉彎了！美股開盤3大指數齊漲 道瓊勁揚605點 - 三立新聞",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JLXJEV0EtN3JhdHVPdjQ4bGo3WWxfcFlLakVnRXB0dU5LSmJSVFNnazhvc2lDN1RrQnJvdEpLY3dUSDRrOUN3SUtiaw?oc=5"
     },
     {
-      "title": "快訊／兩樣情！美股強勢反彈 台指期夜盤「一度跌近千點」失守43K大關 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQNGNYbHcyNi11YWZyT0NvU2JnVFlJb3ZOQUVxNmZETllJY2Z2SUxfTV9tNktUVWRVT3Yzdi04WE1fWWFTX1BpX3pXMGRnZWE5OF80aVRhSWl6NGR0dkFvMWM3N1NKQ1BpNnpUYmxpZnRLdGNXYkQxX3otRDhPSlRubEJybVI1LXlGY0puLXUzNlp4M045QUZHdnp3NU9ERlJVX1ZUaW50dmNwVmZIRnpGQmg1VVhRbW00WWhaYzlvQmhELUNyb3lhWi1xUFlncGo2STNmcVpmRkZQWWpsX21XT3JSSTdYNC1iY3VnVkFpSl9FeUdFSHI1bTY2NExQQU56QnR1dWpMVF81SDBOYXVzRElVOTNpb3dxRFJHQk11VFc1dHFtdmVHMTRwcEY4aDh3TUpsSVZPZXRlV1JJUURXMmFHX0J6c1gyNlJHSGJZQk8tenVh?oc=5"
+      "title": "《貴金屬》通膨擔憂仍存 COMEX黃金下跌0.4% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlhrYTdFS2lQX1VlVEI5S1F4VTcwS3p3a0U1NkFBWVpIX3YxQzAxUHRPZmtBY09UaUZjeVNaMVFabGJIT0ZwcGVBOG5jcExxTzFRYXBsLU5saU9rQ0dfTmxWMDlzMVphR3RveUg2NzFhSUlhRjNFcFZ1U2E2Z05xZXpXTlRhb1Q5X2swUDh0YjVYdw?oc=5"
+    },
+    {
+      "title": "美股很貴快逃？哈佛教授：看漏這數據，錯失未來10年行情 - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qbERLZ1pxT1pkVFZqVzRlWHBSa19wVUdXMUNzSExuR3FxZlBURVdZaXI3R2liR05US0VFbGowcVJEOERqUkNEX1Y5ZTdhUQ?oc=5"
     }
   ]
 }
