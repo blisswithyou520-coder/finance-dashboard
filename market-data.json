@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/06 05:46",
+  "updated_tw": "08/06 06:57",
   "taiwan": {
     "2330": {
       "price": 2405.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64629.47,
-      "change": 573.5169,
-      "changePercent": 0.8953
+      "price": 64566.77,
+      "change": 510.8169,
+      "changePercent": 0.7975
     },
     "ETH": {
-      "price": 1906.4,
-      "change": 38.0141,
-      "changePercent": 2.0346
+      "price": 1905.46,
+      "change": 37.0741,
+      "changePercent": 1.9843
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.256,
-      "change": -0.1391,
-      "changePercent": -0.4294
+      "price": 32.259,
+      "change": -0.1361,
+      "changePercent": -0.4201
     },
     "JPYTWD": {
-      "price": 0.2023,
-      "change": -0.003,
-      "changePercent": -1.4762
+      "price": 0.2024,
+      "change": -0.0029,
+      "changePercent": -1.4275
     },
     "EURTWD": {
-      "price": 37.308,
-      "change": -0.048,
-      "changePercent": -0.1284
+      "price": 37.317,
+      "change": -0.039,
+      "changePercent": -0.1043
     },
     "CNYTWD": {
-      "price": 4.7825,
+      "price": 4.7828,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4308.0,
-    "twd": 4468.0,
-    "tael": 167536.0,
-    "twdTotal": 138959.0,
-    "changePercent": 5.1912
+    "usd": 4307.1,
+    "twd": 4467.0,
+    "tael": 167517.0,
+    "twdTotal": 138943.0,
+    "changePercent": 5.1692
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsNmVEcHRral9PcGkwUWhoeTBpWWJJNXo2ZXFmRXF6WFdfZ3pOZzZudGlSQ295ZVhnaDBMaGFDYnpablNQNTA4RzNYRmZIamVt?oc=5"
     },
     {
+      "title": "〈美股盤後〉SpaceX財報後狂瀉逾13% 道瓊改寫新高 標普、那指終止連四漲 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrWjg0M3RKSW9xUmxZa3pQWmR6VU5VcVBOOFVfQ1FWTzhUMHZyVzV2LWRjekhLLWwtRG9zNjlCNUFZOGxmZVVOeHVIWEczTzg?oc=5"
+    },
+    {
+      "title": "美伊協議見曙光！美股道瓊創新高 台指期夜盤跌259點 - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQaUVxdUJ2Q3ZPZk53QmprQmtmSWd4QlRneksyUEJCNzljcUNSYkhRNktsM0FmVXJTVEZhQ0Fhcy1USnZVNTdkNWNBRGN2V2JMTGlQVW8yYjRodTlSdXFLREFLMHVtWEtzank1cE1oZTdtVktMV1V6REhwMV9xNDV5Yno1a1UwTE9YbFgzUzlWUkpFSHYzSjN5b2t3S21TVXgyTUJPbDVmQzJrZjhseVcxaUlZaUNVVnh0MTZRdXBKandsQ1RpaVJiQXlyRXRYSWt4ajd3QjVLUnFmTDY1cVlSbHVjU3ZlNmY1eVFOa3FuRzVpZlBZVXNYbkFpejVGUF9hejBQWUlQc20xbEJ4dWNfYXMtMDcxbmRyMG1zVDFOZDU4WlIwc2wxRlRFOC1ldDNUa05QanhhMUF5X21sYUNlQ0dOeUlzT3EwdnNSOE5Yak4xYnhxbEJUNThBd2ctLXNnWGlPTTZNR0ZCUQ?oc=5"
+    },
+    {
+      "title": "【美股巨頭】SanDisk財測踩雷，記憶體股憑什麼還漲？ - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR0pIUDByOFhQeUNvSDQ2c3BxUU0xNlk3amlQZWI5Xzc4UmlMaWoteVdIUGZiRkdLSTI0a2MtVHkweDFMNC1QLTNYMHFFNDkybGtvdF9GRTZoNUJuaURSS3otVnBraTNCcW9RTGxnNFpjM1BIMXNneW1YOVQ0eVU0dHFaa1laVXVlY0pMdXdn?oc=5"
+    },
+    {
+      "title": "台股盤前／費半走弱拖累！台指夜盤回檔259點 台股挑戰反彈續航力 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNcGlPdURhZ2VQZkZpbF9aXzFXUVF3X1pVRnlvT2xIZlB1c2xPOURDVkJGZ2JsWWc2UlFmUXlyb1h6dGxLRHllU0pqZWt4LUJLLWxvMFB5LTRzNEFRUUdHWlJBM1pLMEFYZG85eDd5WFZYODVITWpSV20ySWNVZzlCLTB4ZDNEVzJsdDZDN0hEczlZZ2xrdjBUSHVzME1Jd2lZVWI5emtxYW9hU215OFNJYm1IWDlQblNySWpWNURmbFhhZGNFMTRSMDlaRzYxbzlDaklsQlQ3U0FlblpTRjhyZVo4aHN4QTBvWWx6eFNyclcyNXVocC1ZNmdYYnczMXdKRDJvQ0NtR3A0TXhuSTFrYzJlR1ZHS3JtR1N2blMwbkdnMDBDWFVQMGZpOGsxN0JLMGJKQkNzWEdOZDNwVnIxaC1pUVNtcnNVQzdZdU9Lc09wSUpwM2wxWjlLZnF1VE9xMXZBaEtmd2hmQ2RvMHlOTFVHU19tYTRXWHdIS3JQTDJPcUd0QlBRNm5SZG5EMzFsR2RJ?oc=5"
+    },
+    {
       "title": "台股急跌又強彈！兩大關鍵訊號看懂台股「真止跌」還是「假反彈」 - anuefund.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOalg3YV96Y1h6bG9YUWlRYWRBOWpKUnFSWU9lcnVDZ0VCdXN4bFlfTTZaeGhFRW1EelRCQVVOU0wyTkF6NEV4TGt5OTBGc1NXaUlHMEt2OWVYSWt0dmdzdVhxMHQxeEs1bTdTTkhnbzk0aldtVmFSd2hKVGhyT2FPdG1IYnMySl9CaXl6QWRGRjJYUmo5LTlTOW9n?oc=5"
     },
     {
-      "title": "台股千點狂洗怎麼買？林昌興拋433黃金配置：3成資金低檔搶波段 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQQ0hGRDVIbnNRb0VZU3FvTS1OSy1rdEtQVDc2TXJacm1SaV9ZV20yV3hCbUhvUUh2d1FLUDRIWm44WldzNHpSUGtBd0lNcnMwRW5Pb3o5NkZ4TEJpS19zLUl6U1J6RjJEZWhpMEtjM3c0NzgzZXhpcXdDMHFIVFhRNHFuRTllcUlzRTJ1dWFUSmdUWHNvRkFpdEtWVExrVUVTOTd1MlB6b2dOQXJidEpyOXZtYy00V1ZpZXR4U2JLQS1FTkI5SFBqV0kwazN4THUzazJEZ2kzZDl1eTBNVWpUM3kyNnVSVHRMOUlWRVQ5eS01WnBjRW9Od2tCVGRyVVRpNFNHWVBpQllvTVY4QW45REg4aFBPWldBTGd0a2lsMkg3T2ZhenV1bkR5U3MzcllXMmZtWXYzR2tUd1BMOFpGR0lvSzYwaFZUWHllNUtQekRlY1dfQW4yRk5wMGg2Q0FSU085NndwSG9tZ2R6QTRJdWFoY2hkN05pZi13TGcwMmFTMG1OOUxB?oc=5"
+      "title": "美股收盤》SpaceX跌逾13％！道瓊創新高 台積電ADR走低 - ec.ltn.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92UlQzMUpFSjBBYkN6VDJFZDlERzI2V25ubmtuQ0ZsOFBJcjJXUmF2c004Sk5aZkdsM0dqUDhnXzVUTWd5TGNhQUVUTWlEemtybmJ2b1BJelM4M0VMREdr?oc=5"
     },
     {
       "title": "【0805台股盤後】台股大盤大漲1,250 點放量突破1.19 兆；外資買超903 億創近期新高，光通訊聯亞、全新帶頭衝，外本比排行策略鎖定【鈺創、宏致、中光電】｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi_gVBVV95cUxPOHVFejgtWGk0UWtwTmJvdHpFZ2ZvOGllUVhqbHBsNmJBOGFEcWdUTkc3akswTVBtMmFEaFNqYUpFNkVoYzFKaFllSWtHTWZQb3M5YmZOYm9hb0F5aS1OUy15elFmSFA2N1FlUm1wQk9aSFNwcHVJQzQwN2NPX1FLNXJzRnIwVmNhMEdLUl9TajRUbmo1OXoyLWs0UThMZVh2aEJwSGwza3ZaeUdOS3pfRzRpeWRmUHJZNzJfWmtTcGtENlZUaEJnUUdIUmNsOW1ubkhDNnZCMzQ5ZlJNNDNDcXN0SnNpWTk0ZG1OMEFXazNtb2NoYTJUbVpTZkJvUENmcWxxbmplQ2NOMHp3dG41a3NEaExnYmxGNVgxZ2hEWXNFLTFiN1BBTEwyNDlScEJhWnNIWUFBekhkU0JCeV9LNkdCRjhlM1ZnbTBKMEFIQ0hGRVg5RzBTR0JBVElMeWtrdHZ1SmZIalZwVnNiY0c4YlFDTlB4ZG9DaHVLNHVjUXFoSG1sUFA5MWNzd3gzWE9qaktORGpfYm5Ddk1MdWtOR1JCNVpZaGxkbFpUTDlVQkViODRSOVhXaTBxNnBheFhWamw2U2dqVm5DSEpqYjlqNXpzZE54MGoyMUtQcWhQTEwtbWM1bVhxT3FVQzhtZnhENHVmaTRpT0pNMkpiRUhXdFNyaC1vWFVvU3FqM3pyeHp0ZEZRbnBqcEFMUWJyaElUamJaZmt5aHp3clpydXBqNS1rT2xLOUVzZzFPQnl5dTZ0R0ZQZjhLeDdkdWpHaTNRYkdDQjBXSi1RUGhid2xncXQ1VVFZS05jWHZrZTUzS2U1dVZqN2V1VTItdGQ1M19Jc1NhZ3Q4TjhSbmxvSnpGd2NPRzd4YUlIX2t5cXM1SUhoRFptS1otUWJVMjFSTFB2T1FnYWc1OUpWTDUybE9aejhuRXFxUEp3V0Q1c1NmejR4QWQ2Rmo5WW4yOHZLM1RSdk5vNW9UREx2d1FXaW1OV3dJN3NjQ1Z2dlg1YzhR?oc=5"
-    },
-    {
-      "title": "美股剛創新高，卻將撞上最危險的3個月！專家建議別急著清倉，3大理由曝轉機 | 林彥呈 | 財經 - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzb2JxUFVCQ1l1dkZmLTNycGd3OTNmS2F2MGJsY2x4STRUNk5pMGliVzR6MXZ5N2h2R2wzazIwWFFseFotQW9TYlNrQ0tvZw?oc=5"
-    },
-    {
-      "title": "黃金終於漲了！背後有原因曝光 「這些貴金屬」大暴衝 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiOUZ0ZmhXZ1BZTXc5TkZBWHI4UklORlhaRnB6eW52Szk1UV9yNDhYVnBIc3lMb0MyLTg5NXBDZzllRng3UVllaEc3RkVFay1yNlRISExlWFd2aXJ0VWM0?oc=5"
-    },
-    {
-      "title": "美伊和談曙光帶動美股上揚 台股終場大漲1250點 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JeXRBWjRObGEtTlVSM3MxOUcza09wTVRicEg4VUU2YW0xRWlCa25VYUx3T0pYb0hqT1JLX1BfSmRKbk0xSFpDZlNyUG1wZHM?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉美伊談判露曙光！道瓊標普刷新高 費半暴漲超6.5% SpaceX盤後急跳水 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yZDhsazhGbVhqenVoOHNOYy1FQWVBWk5mRk1fNzhfQk50MzdJOVZNNndsR3A4QkxDTFdYVkNDdERuU2FFRzd3anFxVGFvR2c?oc=5"
     }
   ]
 }
