@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/06 04:25",
+  "updated_tw": "08/06 05:46",
   "taiwan": {
     "2330": {
       "price": 2405.0,
-      "change": 35.0,
-      "changePercent": 1.4768
+      "change": 85.0,
+      "changePercent": 3.6638
     },
     "2454": {
       "price": 4000.0,
-      "change": 90.0,
-      "changePercent": 2.3018
+      "change": 135.0,
+      "changePercent": 3.4929
     },
     "2317": {
       "price": 258.5,
-      "change": 5.5,
-      "changePercent": 2.1739
+      "change": 8.5,
+      "changePercent": 3.4
     },
     "0050": {
       "price": 103.8,
@@ -55,9 +55,9 @@
       "changePercent": -0.9049
     },
     "SPY": {
-      "price": 769.77,
-      "change": -1.56,
-      "changePercent": -0.2023
+      "price": 769.79,
+      "change": -1.54,
+      "changePercent": -0.1997
     },
     "SCHD": {
       "price": 33.64,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64924.34,
-      "change": 868.3869,
-      "changePercent": 1.3557
+      "price": 64629.47,
+      "change": 573.5169,
+      "changePercent": 0.8953
     },
     "ETH": {
-      "price": 1919.53,
-      "change": 51.1441,
-      "changePercent": 2.7373
+      "price": 1906.4,
+      "change": 38.0141,
+      "changePercent": 2.0346
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.262,
-      "change": -0.1331,
-      "changePercent": -0.4109
+      "price": 32.256,
+      "change": -0.1391,
+      "changePercent": -0.4294
     },
     "JPYTWD": {
       "price": 0.2023,
@@ -94,22 +94,22 @@
       "changePercent": -1.4762
     },
     "EURTWD": {
-      "price": 37.311,
-      "change": -0.045,
-      "changePercent": -0.1204
+      "price": 37.308,
+      "change": -0.048,
+      "changePercent": -0.1284
     },
     "CNYTWD": {
-      "price": 4.7868,
+      "price": 4.7825,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4309.8,
-    "twd": 4470.0,
-    "tael": 167637.0,
-    "twdTotal": 139043.0,
-    "changePercent": 5.2351
+    "usd": 4308.0,
+    "twd": 4468.0,
+    "tael": 167536.0,
+    "twdTotal": 138959.0,
+    "changePercent": 5.1912
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,12 +121,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsNmVEcHRral9PcGkwUWhoeTBpWWJJNXo2ZXFmRXF6WFdfZ3pOZzZudGlSQ295ZVhnaDBMaGFDYnpablNQNTA4RzNYRmZIamVt?oc=5"
     },
     {
-      "title": "台股急跌又強彈！兩大關鍵訊號看懂台股「真止跌」還是「假反彈」 - 鉅亨買基金",
+      "title": "台股急跌又強彈！兩大關鍵訊號看懂台股「真止跌」還是「假反彈」 - anuefund.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOalg3YV96Y1h6bG9YUWlRYWRBOWpKUnFSWU9lcnVDZ0VCdXN4bFlfTTZaeGhFRW1EelRCQVVOU0wyTkF6NEV4TGt5OTBGc1NXaUlHMEt2OWVYSWt0dmdzdVhxMHQxeEs1bTdTTkhnbzk0aldtVmFSd2hKVGhyT2FPdG1IYnMySl9CaXl6QWRGRjJYUmo5LTlTOW9n?oc=5"
     },
     {
-      "title": "美股飆漲不追高！台股連3紅他轉押0050 網質疑進場時機：跌時不買現在追 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNdElkSjkwZ1d6U2wyY3QtdE1qbmk5T1ktczhRb3BtRld0UlZUUEpQanplc1VtNGdaY2lrWWdMMTVNNnFPcHNvb0xoZmh2dUl5SzdTaVlxVUY3bm1TTngybHd6WkJwMWlKRG43ejRwSUJKUTRsNFphZWlmaUFLU2JtLUVnWmVVT2lKUGVEQkl5aTVuaTV5X3hXdnlRODVvLVEtMTh3MXRtbFVubEc1UnNlNkZlNERLa3lyVy16Q1ZqbkpqSDB1OUphQmJjS2dzUXQzUjc3UTNoV1k5TUw4ZHJNODYzazFhV2pNVXVoWVNVam4tOURmWDgyRFNkWkVqNWFyZ0xPb0l4anRfNThqc1FTVGdnMjQwcHRSY3R2aTdzU2JUblBmREdDTkhNdW1NQmVCNVRSX3ZKeFlsMzdXY0dUS3dQSUtrb01iWVk2UFFFRTA4VVJnLWxtX0s0MEY4eXJwNlgtWE9fZmNvZFhSbGNJMHdrZDJOSmRKdGswdFJkMFVORG5zYmRKMEptWXlGNVRsdmZLVXA2YWNzWWlQeXh3SGZuWjZ5eTEyQ1BrN2loYTR2OExxWmc?oc=5"
+      "title": "台股千點狂洗怎麼買？林昌興拋433黃金配置：3成資金低檔搶波段 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQQ0hGRDVIbnNRb0VZU3FvTS1OSy1rdEtQVDc2TXJacm1SaV9ZV20yV3hCbUhvUUh2d1FLUDRIWm44WldzNHpSUGtBd0lNcnMwRW5Pb3o5NkZ4TEJpS19zLUl6U1J6RjJEZWhpMEtjM3c0NzgzZXhpcXdDMHFIVFhRNHFuRTllcUlzRTJ1dWFUSmdUWHNvRkFpdEtWVExrVUVTOTd1MlB6b2dOQXJidEpyOXZtYy00V1ZpZXR4U2JLQS1FTkI5SFBqV0kwazN4THUzazJEZ2kzZDl1eTBNVWpUM3kyNnVSVHRMOUlWRVQ5eS01WnBjRW9Od2tCVGRyVVRpNFNHWVBpQllvTVY4QW45REg4aFBPWldBTGd0a2lsMkg3T2ZhenV1bkR5U3MzcllXMmZtWXYzR2tUd1BMOFpGR0lvSzYwaFZUWHllNUtQekRlY1dfQW4yRk5wMGg2Q0FSU085NndwSG9tZ2R6QTRJdWFoY2hkN05pZi13TGcwMmFTMG1OOUxB?oc=5"
     },
     {
       "title": "【0805台股盤後】台股大盤大漲1,250 點放量突破1.19 兆；外資買超903 億創近期新高，光通訊聯亞、全新帶頭衝，外本比排行策略鎖定【鈺創、宏致、中光電】｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
