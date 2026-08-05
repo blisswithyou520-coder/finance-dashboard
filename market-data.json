@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/05 14:11",
+  "updated_tw": "08/05 17:06",
   "taiwan": {
     "2330": {
       "price": 2405.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64281.59,
-      "change": 820.6916,
-      "changePercent": 1.2932
+      "price": 64074.46,
+      "change": 613.5616,
+      "changePercent": 0.9668
     },
     "ETH": {
-      "price": 1871.05,
-      "change": 12.7935,
-      "changePercent": 0.6885
+      "price": 1869.12,
+      "change": 10.8635,
+      "changePercent": 0.5846
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.273,
-      "change": -0.123,
-      "changePercent": -0.3797
+      "price": 32.322,
+      "change": -0.074,
+      "changePercent": -0.2284
     },
     "JPYTWD": {
       "price": 0.2027,
@@ -94,22 +94,22 @@
       "changePercent": -1.5331
     },
     "EURTWD": {
-      "price": 37.308,
-      "change": 0.0228,
-      "changePercent": 0.0611
+      "price": 37.328,
+      "change": 0.0428,
+      "changePercent": 0.1148
     },
     "CNYTWD": {
-      "price": 4.7935,
+      "price": 4.7964,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4223.6,
-    "twd": 4382.0,
-    "tael": 164340.0,
-    "twdTotal": 136308.0,
-    "changePercent": 3.1303
+    "usd": 4220.6,
+    "twd": 4386.0,
+    "tael": 164473.0,
+    "twdTotal": 136418.0,
+    "changePercent": 3.0571
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,6 +121,14 @@
       "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOc3k3cE9QV3hJTVRTeFh5Rk9BWHRWdDRzd1dPRGxMUUZhWE9ZV054dUhpZG5HYUhFWEZSV2xpLWlWakJTSEk0UHBlM0o3RXE4VWxLNFBTcVpZNXE4Q09tMjcyeDR0cUQ0OUp1Y0Z0V0tZVVV0LXdwU0czNXRiTmplcmhBWkNvRlJwZzRuRDhON01hUlpTTUJHR1ZUc3V4bWdHTDZyaXE0a29wOVJHZ2JqcTdFaG9TMC1OTU4tcFdsMlh2VHRPTU4tNGhmcHUtOTVibm1jTVp2ZXU4dUZnMEE5WXJWWV9nb3Y2dU0tbmhXTEUwTmRWX0NtbGpxUHN6bDd6TmdLZUlVTmdscFJTSG1GRFlwMld4QXhjeGtzTFNEcFRDRHlLSWZHTmt5eEFTcExncTQ2TFE5Rm1neURnRlNQazFZRzNEN1FIamdCYldzWmVBX1FnRDNyQV8tTnhleTIzYmk0c1d2Q3lmcXpmY2dzWjRSNndhSzFoeEV1VXZfa3ZVMjdBanc5LTdB?oc=5"
     },
     {
+      "title": "美股剛創新高，卻將撞上最危險的3個月！專家建議別急著清倉，3大理由曝轉機 | 林彥呈 | 財經 - 風傳媒",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzb2JxUFVCQ1l1dkZmLTNycGd3OTNmS2F2MGJsY2x4STRUNk5pMGliVzR6MXZ5N2h2R2wzazIwWFFseFotQW9TYlNrQ0tvZw?oc=5"
+    },
+    {
+      "title": "台股急跌又強彈！兩大關鍵訊號看懂台股「真止跌」還是「假反彈」 - 鉅亨買基金",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOalg3YV96Y1h6bG9YUWlRYWRBOWpKUnFSWU9lcnVDZ0VCdXN4bFlfTTZaeGhFRW1EelRCQVVOU0wyTkF6NEV4TGt5OTBGc1NXaUlHMEt2OWVYSWt0dmdzdVhxMHQxeEs1bTdTTkhnbzk0aldtVmFSd2hKVGhyT2FPdG1IYnMySl9CaXl6QWRGRjJYUmo5LTlTOW9n?oc=5"
+    },
+    {
       "title": "黃金終於漲了！背後有原因曝光 「這些貴金屬」大暴衝 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiOUZ0ZmhXZ1BZTXc5TkZBWHI4UklORlhaRnB6eW52Szk1UV9yNDhYVnBIc3lMb0MyLTg5NXBDZzllRng3UVllaEc3RkVFay1yNlRISExlWFd2aXJ0VWM0?oc=5"
     },
@@ -129,24 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yZDhsazhGbVhqenVoOHNOYy1FQWVBWk5mRk1fNzhfQk50MzdJOVZNNndsR3A4QkxDTFdYVkNDdERuU2FFRzd3anFxVGFvR2c?oc=5"
     },
     {
-      "title": "美股早盤／布蘭特油價跌破80美元...費半衝高5% Palantir飆21% - UDN",
+      "title": "美股早盤／布蘭特油價跌破80美元...費半衝高5% Palantir飆21% - udn.com",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jV19uU3VBM3ZncTQ5MXhzUDdFNi1pelJfenFtaU5jVjZ5UHZEdWpUN01YR2hsZHpkNEFaVnk2Z2VtU1pHNWVBa0ZObXdxYzBx?oc=5"
     },
     {
-      "title": "野村觀點｜台股進入下半場，如何助投資發光？野村智慧優選主動挑好股 - 鉅亨買基金",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0hTRWp3ZG9Ma3doRVRoZm45ZktyUjYwXzB0MzRFbEJ3N1hLRlVJYmZ3YjZTUG5LMHI5UnVhR3djdEtncHE4V2M2ZDRpMk9ra3c4ZHlTeUxkZl9ITXBJS3lEN1JabzlYOFRWOWJucTVrSWZfeXRQMlIyR2YxSm1mUThUZ0F5UG5ERmVCQW1qd3RhSjg3NFhoUk1n?oc=5"
+      "title": "台股連2天狂震千點元凶找到了！法人：短線操作嚴守2原則－經濟日報｜商周 - businessweekly.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iRnMyaUJ4VkFtQUlzT1JQWXZCb0M5aXBxc2gxQWdLdkhZelpSWU5ZTlVQSHNOUmNDLTJZSzF5NHNTMlZkMkpuYjB6NmwwVFNudEFncGVqRlliOWcxWE9OZV9EeTE3UQ?oc=5"
     },
     {
-      "title": "【0804台股盤後】記憶體與ABF 載板強攻噴發！台股大盤震盪守43,300 點，台股夜盤漲1195點；櫃買勁揚3.35% 重回多頭軌道，營收創高策略鎖定【南亞科、晶豪科、倉和、南電】｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMizwZBVV95cUxPZ0t6WjFWRmhCM1h6cGp3QkdEYzVLbmNuRmFaVHl4LW9GYkdnUFNNbDFIaDVuejYzNmg3bVVsQ3NFNEZlMFE4OWlzVDUxN3dEcXhJallYbzIxbWxvMVZoZ05JOEdrZUV0NHU3TVRmd0dHQVpnXzRYVXhLbmltX0M4eEtXa0Q2SnJhQTF4RzUwNDlIRVRxdjlqNGtrM1ZYZmRFQndKTEhwMzdMeVBQcURLbF9vZWZPblhOS20xaTNFV1pIc0NyaWRvS05PRXdUaEhwTGU2dUxvWFVtZHZscWtDNkM5Q0ZOWDdhcEl2YW1VUWdTcVJxU19sdlNSb0lVOXhIclNHWFB6NTVvNlZKbHV3M29vMzNEdG5TbjRQbUpKZnhEanBxSm9TRmR2Z3F1REZrcHQ5NjRmeGhSR2x6RFZkMHpRREQtT3Jrb2Q4amtUMHE2Q0UxRVQ1dkJvVHhfaTY2cFVrMlpiYS1UVUlidkVLU2hlV2VjZ2tCYlJ5WC1wZnJ3elB6TG03YndKWDNMczJQd2thRC1qTk9pMkFCeXVkTFl3VHlQLS1XeEoyUVNyZGlwOUJ4SEtTckR2dDRVLVdZWVJRWXdhdHRVVDVBdjZVSzNrbFBFSno4S243S0J5UzJFMmE2SnA5SFZZeTNVYlhkby12VDhDYlZaUmQyMVdKM2djRmw1OGdYYlVuNmhFamVqSjZlUHVsMlloWHU1dVRzUXlqS0dsYUxWRmdkekl0VWNXbVZvTDlENWxpNXAxUU9fUndXYmMtWnoyWUswNkE4ZVp6YjVwb2tNd2NaSWZRT2V0UU14NXd5UnFmcmg4bDd1UlBhZjNuc2RRV01MZ191ZWVHZUx2ZEpqOGgxdXhnNVlHeXVIMzRwZ0NxNWV1X2d6OXhFN0VMWEVWM3JfaGhNS0dPMXRDejREUDdyckJEUC1seWdsYkZ1S0FPcGtDeGJSVkU5cmlpdXFTZHBwczBYX01hQms1czdMd3daMW83aHFCOWpjdUhqMDdBSkNObzd1YjEyWUpSX3N5V1pyQjY1UGsyeE55YVFPSzZIOFBkQXBMYTFkZ3cwQ3dCU2QydG56cHMxdDVlRFM4amppUVE0ZE4wcFVFOFNRRENwVnQ4?oc=5"
-    },
-    {
-      "title": "台積電領軍衝鋒台股盤中飆漲1562點創第8大漲點| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxYWYwM2EyQUJHb1A5djk2ZXVSVlpJMkZNU1VScnZ1aENMNldDcGFXUFNvYzJ5VDRqb1pyUzFYNUkwaFN0WjA4eWFrenpCWDhWckc2cnhqNmp6bjd5Y0E?oc=5"
-    },
-    {
-      "title": "快訊／台積電漲70元至2390　台股開盤大漲逾1400點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mLWo5UFBoUU1zdllTZ3JBUnd3NXd2V3BQRDc5eHNleUxlTTVHWlk0WjVESndmWkJEUzlMVnR0bDFEaHlic1ktSzdRU0NkYkRtb1HSAVBBVV95cUxNc1BuUWlQZXcxakF0TXBSX2VaY3JOU0hnVUg4Q1lXSEY0ZXRvNVVnT0w2VUc5UW9SNV9icVljMWNrSkNhWC1rUGpHeVpYU2NqZg?oc=5"
+      "title": "台股大漲1250點收復季線電子權值及矽光子強勢| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtMlpxYThFS1JHcHR6b0R3UmRrYjRxVG53UnFHLWJtekF5RmJNMExoaXFrM3lfVzVuRFVuMXFuSUx0WFowb0Yya2VlQTlrRVphRzNucDY1NXAtVzJ3eHc?oc=5"
     }
   ]
 }
