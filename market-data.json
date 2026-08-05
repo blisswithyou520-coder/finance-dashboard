@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/05 07:02",
+  "updated_tw": "08/05 08:13",
   "taiwan": {
     "2330": {
       "price": 2320.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64179.2,
-      "change": 718.3016,
-      "changePercent": 1.1319
+      "price": 63977.59,
+      "change": 516.6916,
+      "changePercent": 0.8142
     },
     "ETH": {
-      "price": 1872.6,
-      "change": 14.3435,
-      "changePercent": 0.7719
+      "price": 1866.96,
+      "change": 8.7035,
+      "changePercent": 0.4684
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.393,
-      "change": 0.0999,
-      "changePercent": 0.3094
+      "price": 32.364,
+      "change": -0.032,
+      "changePercent": -0.0988
     },
     "JPYTWD": {
-      "price": 0.2032,
-      "change": -0.0016,
-      "changePercent": -0.7628
+      "price": 0.2031,
+      "change": -0.0028,
+      "changePercent": -1.3388
     },
     "EURTWD": {
-      "price": 37.404,
-      "change": 0.1227,
-      "changePercent": 0.329
+      "price": 37.4,
+      "change": 0.1148,
+      "changePercent": 0.3079
     },
     "CNYTWD": {
-      "price": 4.8028,
+      "price": 4.8029,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4139.5,
-    "twd": 4311.0,
-    "tael": 161667.0,
-    "twdTotal": 134091.0,
-    "changePercent": 2.6229
+    "usd": 4129.8,
+    "twd": 4297.0,
+    "tael": 161144.0,
+    "twdTotal": 133657.0,
+    "changePercent": 2.3824
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,16 +121,20 @@
       "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNdXNvemxqVTdxaEFMUDF6MUZmYlFBNmdseGJla0xBeW4zWDNZcXA4b0kwSm05clVhZ25nUDRUT2EtdE1UN2YtSW5RSy0wWHZzRkR1UzRRdTZYWG5XZGZHSTgwM0p1OUtfeUlLSFpBXzY3UGQ4TXgzRXE2MVlaVjNzVDlHYzNncUZ1VG10cUhMOVpIMnVOX0pnWWFwOHhBUk5YZER6Q1hUOXRyLXVqckY1WE9zUkdKcXpWWnhqcmdtNGdLcFRFbTVaYlJhWV9Najl6aF9Md21JYk9ad1F3NlVtYno2YjRKMXh3a3VkM3Z6VGNVNlI3ZXVVMmw0TU4xeDZnTkhsRjVXb1B3OTJUVXlFY3A3ZzNKOE40a3RqM0p5UWR3OHIxNzZSckhyX2EydW1rQ1JiajZFbVlFVHBaTXRUb0NUS2NRMnZ4U0dmeTQ0Zy13ZnZnMktSSjFqU25TcHIxS255Q1JlOFFUSkVLSWY2WHNCamdUUXltY3NSM1B4Zw?oc=5"
     },
     {
-      "title": "美股早盤／布蘭特油價跌破80美元...費半衝高5% Palantir飆21% - udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jV19uU3VBM3ZncTQ5MXhzUDdFNi1pelJfenFtaU5jVjZ5UHZEdWpUN01YR2hsZHpkNEFaVnk2Z2VtU1pHNWVBa0ZObXdxYzBx?oc=5"
+      "title": "美股收盤》道瓊標普全收紅創新高 台積電ADR漲2.72％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBM180djJpU1d5bGVrSUR1XzM1dW1vR2dyT25zSGxXZy1STmkwZjZrX2ZGQTRhbWZPbGhlSEJtT3VVdlJ6bGY2RnhzNjEtc3BYX3hrYUpkalpuOUVWb1Bn?oc=5"
     },
     {
-      "title": "美股爆發！道瓊收高907點 台指期夜盤大漲1195點 - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPWVoxQ2VZVDB6cUZtUXdqZWxHY2p6enA2b1lWOGhqSjJaZmZpTXcwUDBlWkdlOVllN0NBVXpESlNvRGYzcmVweG9kSE1qNTVRbGhkbnpuYTd1aEdMRXI2VVpLNGp0N1c1SzdzX2gtaGtNQ25uanlKZEt2QW42NHRGZHNHNi1jNXJTd1hXa3BIQ3I1VVRTRW9LdHMtd1E1YlBvQWJvVlhfOS1sdUJtOUEyTnJCdk50YmVjSGsteVpyWEk0cFc5UjJzbkd2c3VleDdEMm1MRjQyZ2RFTmljSTE2QWlRbXJmbnpXSUg1SzNhQlFNa0VNQnZjT21kdFBTazh4STlneWl2LW81Tk1GS0xtMi1scXNIVldXVHRscnQ2YmhYZHU5amRTOXpFNDJMVF9GNXB5dHE1cWxENW5XZ1I0?oc=5"
+      "title": "美股早盤／布蘭特油價跌破80美元...費半衝高5% Palantir飆21% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jV19uU3VBM3ZncTQ5MXhzUDdFNi1pelJfenFtaU5jVjZ5UHZEdWpUN01YR2hsZHpkNEFaVnk2Z2VtU1pHNWVBa0ZObXdxYzBx?oc=5"
     },
     {
       "title": "〈美股盤後〉美伊談判露曙光！道瓊標普刷新高 費半暴漲超6.5% SpaceX盤後急跳水 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yZDhsazhGbVhqenVoOHNOYy1FQWVBWk5mRk1fNzhfQk50MzdJOVZNNndsR3A4QkxDTFdYVkNDdERuU2FFRzd3anFxVGFvR2c?oc=5"
+    },
+    {
+      "title": "美股爆發！道瓊收高907點 台指期夜盤大漲1195點 - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPWVoxQ2VZVDB6cUZtUXdqZWxHY2p6enA2b1lWOGhqSjJaZmZpTXcwUDBlWkdlOVllN0NBVXpESlNvRGYzcmVweG9kSE1qNTVRbGhkbnpuYTd1aEdMRXI2VVpLNGp0N1c1SzdzX2gtaGtNQ25uanlKZEt2QW42NHRGZHNHNi1jNXJTd1hXa3BIQ3I1VVRTRW9LdHMtd1E1YlBvQWJvVlhfOS1sdUJtOUEyTnJCdk50YmVjSGsteVpyWEk0cFc5UjJzbkd2c3VleDdEMm1MRjQyZ2RFTmljSTE2QWlRbXJmbnpXSUg1SzNhQlFNa0VNQnZjT21kdFBTazh4STlneWl2LW81Tk1GS0xtMi1scXNIVldXVHRscnQ2YmhYZHU5amRTOXpFNDJMVF9GNXB5dHE1cWxENW5XZ1I0?oc=5"
     },
     {
       "title": "快訊／美股開盤道瓊飆漲772點 標普再寫歷史新高 - 東森新聞",
@@ -141,12 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUQwNXlaNjFqYVlQdTRPVHNfUVNtWktsZ2xfZkdMUzNsbVl3OUwySU4xR2pndUEwYnNEMGlFd2p4R2ZtY2dpVXlJczk4YTBSNVp1VDJVWkVoN0ZVM2l6Nk4tUEpoZFhSd0dXRlBiRHZvc1M3QWRFREVYNXBoQXl5cDM2RGU1UEtEVjdaaTVHMllqUmxXRHc?oc=5"
     },
     {
-      "title": "【0804台股盤後】記憶體與ABF 載板強攻噴發！台股大盤震盪守43,300 點；櫃買勁揚3.35% 重回多頭軌道，營收創高策略鎖定【南亞科、晶豪科、倉和、南電】｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMigAZBVV95cUxORmlPeGlOdU8tS1BhSlphM3BDekRzelhnWElYMnExcWVJVVAtREJkak9fZGpUQV83cTYwXzVlRUhYVlRXVEpqNWJUQlFQVENlaE52ZnNtZy13WDFWc19RcWRIMXpoSEdTSXRfSDRJMi1qMHpuZ1dSQ21lM1h6c0k1NExzVmlTLUJWRXNMT2RHSXVUTXRlZFBEWFlfdThWX3dJTmVtNUw2VTNJbS1XaU0tcnFVMlBDWEJvaEtqQVk4QXNUQTJwWFdQajVLYnFZdnJReENLNUNNeTVfelVMNUlCZEpRQWpvc3Q3Rmpfd2NZd1RUSGZHZ1lwbkdfM1RTcHVIZG9lbVR5Y3JsbmNyamxTZ2Z6U1hoVnFscVUtZWRoWHFwSnlaekg3ZUZVSF9iSGI2ME0zYUsya3d4eFBaNGVleHJvQXNMdmdrdXZrYU5SX2JPcHBVTGR2S256SXdCY0xEeUhqRmxIUk9fcm1wSl9obXBzVjZpX09GZFpETjRYejJoZzNJM2dlQ05wMktFUE83b3VMcWlhcWxUM2t1eENKTkZKZDR2WlEyaTAybnkwVDBUbGhva3dpdUw5Z0JhNlZGb2Z5SF8tX2pOMzFnSGNiYWJkUlA2TlJtM0xtRmhNQ3poVldlcHNjcUFKdWR2NmtwWjRVTkpnRUwzSGxaZUhza3NMVFlyaklVQkpFbXJiSTFJSEdjY0Ftc2ZjRWxWdmxOdjFMb0lpS1lXd2Zjd210TGJQckpJXy1xbVJwTlM2ZGExZnlTUks1N3JmdVZBeDVyZXhFYjJMeHFNQndzOGhhOTkwTUJ6VlFYQlFXTWRldWUtdnpsV09UcDJKZjdZbU5MeFlnUjV4bkp0ZnQ3THB4S0hhdnU4dUVhU19tNUlHYjNtV1h6X3JfS1BUZXJfajBFcHBXbjNJeUJyaDU0WmdRRDdtZzdKMVlkZmhqVTBsOFdBandwTllScTJhY2dUVjE1eFVVcmZYQjVvZWtZOFFndV9oSERqUVNFTUVTSDJNRFE?oc=5"
-    },
-    {
-      "title": "美伊有望達成協議開放荷莫茲海峽美股收高| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtWG5XWGxjUjlZUTBodVhmV0V1aEZBbE5DYTgwa2RGRm4xclV1ZTU4R2R2c2xxdlVSZ2lnalIzblVnY1dTc04tQW56NXkyZGxPZUtjQldnZnFIekZ4VWc?oc=5"
+      "title": "鉅額AI投資無阻企業獲利美股道瓊標普攜手創新高| 產經 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qNGZsM0hCZF9SZl9xOEhZeWhXMVJlZndIbUxmcFNRWEhvWTZDajhkd1lLVzI0YWJPNTZqUUFDTWV3LVFZUW5Qd0RNVXVjamE4ME9fcGt5TnpYT0J3emc?oc=5"
     }
   ]
 }
