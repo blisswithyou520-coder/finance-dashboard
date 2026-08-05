@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/05 19:28",
+  "updated_tw": "08/05 21:12",
   "taiwan": {
     "2330": {
       "price": 2405.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64025.44,
-      "change": -30.5131,
-      "changePercent": -0.0476
+      "price": 64093.14,
+      "change": 37.1869,
+      "changePercent": 0.0581
     },
     "ETH": {
-      "price": 1867.4,
-      "change": -0.9859,
-      "changePercent": -0.0528
+      "price": 1867.14,
+      "change": -1.2459,
+      "changePercent": -0.0667
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.307,
-      "change": -0.089,
-      "changePercent": -0.2747
+      "price": 32.258,
+      "change": -0.138,
+      "changePercent": -0.426
     },
     "JPYTWD": {
-      "price": 0.2029,
-      "change": -0.003,
-      "changePercent": -1.436
+      "price": 0.2027,
+      "change": -0.0032,
+      "changePercent": -1.5331
     },
     "EURTWD": {
-      "price": 37.353,
-      "change": 0.0678,
-      "changePercent": 0.1818
+      "price": 37.315,
+      "change": 0.0298,
+      "changePercent": 0.0799
     },
     "CNYTWD": {
-      "price": 4.7917,
+      "price": 4.7885,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4231.0,
-    "twd": 4395.0,
-    "tael": 164802.0,
-    "twdTotal": 136691.0,
-    "changePercent": 3.311
+    "usd": 4251.1,
+    "twd": 4409.0,
+    "tael": 165334.0,
+    "twdTotal": 137132.0,
+    "changePercent": 3.8018
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "今天開盤穩了？美股四指數大漲 台指期夜盤強拉破千點慶祝 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOc3k3cE9QV3hJTVRTeFh5Rk9BWHRWdDRzd1dPRGxMUUZhWE9ZV054dUhpZG5HYUhFWEZSV2xpLWlWakJTSEk0UHBlM0o3RXE4VWxLNFBTcVpZNXE4Q09tMjcyeDR0cUQ0OUp1Y0Z0V0tZVVV0LXdwU0czNXRiTmplcmhBWkNvRlJwZzRuRDhON01hUlpTTUJHR1ZUc3V4bWdHTDZyaXE0a29wOVJHZ2JqcTdFaG9TMC1OTU4tcFdsMlh2VHRPTU4tNGhmcHUtOTVibm1jTVp2ZXU4dUZnMEE5WXJWWV9nb3Y2dU0tbmhXTEUwTmRWX0NtbGpxUHN6bDd6TmdLZUlVTmdscFJTSG1GRFlwMld4QXhjeGtzTFNEcFRDRHlLSWZHTmt5eEFTcExncTQ2TFE5Rm1neURnRlNQazFZRzNEN1FIamdCYldzWmVBX1FnRDNyQV8tTnhleTIzYmk0c1d2Q3lmcXpmY2dzWjRSNndhSzFoeEV1VXZfa3ZVMjdBanc5LTdB?oc=5"
-    },
-    {
       "title": "台股急跌又強彈！兩大關鍵訊號看懂台股「真止跌」還是「假反彈」 - 鉅亨買基金",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOalg3YV96Y1h6bG9YUWlRYWRBOWpKUnFSWU9lcnVDZ0VCdXN4bFlfTTZaeGhFRW1EelRCQVVOU0wyTkF6NEV4TGt5OTBGc1NXaUlHMEt2OWVYSWt0dmdzdVhxMHQxeEs1bTdTTkhnbzk0aldtVmFSd2hKVGhyT2FPdG1IYnMySl9CaXl6QWRGRjJYUmo5LTlTOW9n?oc=5"
+    },
+    {
+      "title": "今天開盤穩了？美股四指數大漲 台指期夜盤強拉破千點慶祝 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOc3k3cE9QV3hJTVRTeFh5Rk9BWHRWdDRzd1dPRGxMUUZhWE9ZV054dUhpZG5HYUhFWEZSV2xpLWlWakJTSEk0UHBlM0o3RXE4VWxLNFBTcVpZNXE4Q09tMjcyeDR0cUQ0OUp1Y0Z0V0tZVVV0LXdwU0czNXRiTmplcmhBWkNvRlJwZzRuRDhON01hUlpTTUJHR1ZUc3V4bWdHTDZyaXE0a29wOVJHZ2JqcTdFaG9TMC1OTU4tcFdsMlh2VHRPTU4tNGhmcHUtOTVibm1jTVp2ZXU4dUZnMEE5WXJWWV9nb3Y2dU0tbmhXTEUwTmRWX0NtbGpxUHN6bDd6TmdLZUlVTmdscFJTSG1GRFlwMld4QXhjeGtzTFNEcFRDRHlLSWZHTmt5eEFTcExncTQ2TFE5Rm1neURnRlNQazFZRzNEN1FIamdCYldzWmVBX1FnRDNyQV8tTnhleTIzYmk0c1d2Q3lmcXpmY2dzWjRSNndhSzFoeEV1VXZfa3ZVMjdBanc5LTdB?oc=5"
     },
     {
       "title": "美股剛創新高，卻將撞上最危險的3個月！專家建議別急著清倉，3大理由曝轉機 | 林彥呈 | 財經 - 風傳媒",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiOUZ0ZmhXZ1BZTXc5TkZBWHI4UklORlhaRnB6eW52Szk1UV9yNDhYVnBIc3lMb0MyLTg5NXBDZzllRng3UVllaEc3RkVFay1yNlRISExlWFd2aXJ0VWM0?oc=5"
     },
     {
-      "title": "〈美股盤後〉美伊談判露曙光！道瓊標普刷新高 費半暴漲超6.5% SpaceX盤後急跳水 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yZDhsazhGbVhqenVoOHNOYy1FQWVBWk5mRk1fNzhfQk50MzdJOVZNNndsR3A4QkxDTFdYVkNDdERuU2FFRzd3anFxVGFvR2c?oc=5"
-    },
-    {
       "title": "8月美股創高，不只因美伊和談：當地緣政治降溫遇上企業獲利上修，5檔美股ETF怎麼選｜美股評析｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMixgRBVV95cUxPOTdEdk9UMHI5STBwRnUwcTM4b25jdjZsVGV4SlA1SjFnanFHaHN2RU9aWjU3VzJUME5pYXdnYi1CbkNueDJ3VWZBUkRJVVpFNDhTSExBMmFrWjZBMmYzb0F6NVAyb19Zb1FCUFB3ZjVUZDBpSmJOdHVDRVoxTEFrVUFHc1BGeC03WGg3bENWb1JPcEhiWWxSNnRjNWFueXJvSUNibUw2OF93NlVaTXY4RF9oc0RaaVZNdFBWWHg5TGZYYWcxX3hoaGxOVHBQRW55SDdENzlsamEwUll4X3NCeXJXdUs2T1pmQ3ltRi1FaXhKQnNnWnFQdUNWR1dJZm5fSDJjUlFlcmg4SDYxbnQwa2hybVpOM2pxMkpaZkM0aEkwTnpnTUJFNzl5bXZsZ2k2T1lXRjZGZURHUWwxTmFWdnR4TmZ4alZnMEpRQzg3N2stZWtWcUlxYXBsU1VZSGFQTm5IRURwcGlvanRjU2h0ZG1RWlVUWDRkOEprbWJZMHJFWktldURYaEpxWnVDOWs5R2NCQWNpb2hUNkFpc2FQTFdmRWFjQVUzX3A3M1ZCMmR2OXhlSWhYR3ZEckxXckhqaUREa1U3dW9md3JXLVR6TXZaelczQkF6bkNyRGRxSXRYMUd6Slk1OGRrLU5kSk1SUE5zQmtBQndaV2dZZkdDZTJUWmIxQUNOY0dIVVlQVV8yOWFBZkstQW9SR25CZFpEckZkY1lrSXg0UzlwRDQzS0stMzZhTVpNb0k2S0V3VkhmZnp5enc?oc=5"
     },
     {
-      "title": "美股8月創新高在望？華爾街大多頭：就等5大利多點火助攻| 全球財經| 全球 - udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HVWxTdUdWbHBZMFJMVWhDRGdERjBJZEp2SzFvTl92ZGZMNFhYM3BMUE42TEJqYXlsRFFPTENiWUtYWTF2aXM5elZCSmtfVkpp?oc=5"
+      "title": "美伊和談曙光帶動美股上揚 台股終場大漲1250點 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JeXRBWjRObGEtTlVSM3MxOUcza09wTVRicEg4VUU2YW0xRWlCa25VYUx3T0pYb0hqT1JLX1BfSmRKbk0xSFpDZlNyUG1wZHM?oc=5"
     },
     {
-      "title": "台股大漲1,250點收復月、季線這檔記憶體亮紅燈8.5萬張買單高掛- 證券 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84MVM0UTZZRUM4UHhNU2dXVGxNbUdwa3hNd1RuTldjLWpCTU5hcGdJbHZyem9DRzVzdkZGVExrbGdIMEh4bmpUbkxWXzNLY0p2bHphMUJwUVo0TGRza21Z?oc=5"
+      "title": "台股量能回歸 外資狂掃904億、三大法人買超1004.06億元 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9maUZwZHQ5ZFNxMURMeGFqcExYWnZUdnRKeDZ2NkVLd0ZXZkJsZ3Fpbm52UUJxLWI5T3RpSnk2dXk3dG5SdTFpQnFmQQ?oc=5"
+    },
+    {
+      "title": "美股8月創新高在望？華爾街大多頭：就等5大利多點火助攻| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HVWxTdUdWbHBZMFJMVWhDRGdERjBJZEp2SzFvTl92ZGZMNFhYM3BMUE42TEJqYXlsRFFPTENiWUtYWTF2aXM5elZCSmtfVkpp?oc=5"
     }
   ]
 }
