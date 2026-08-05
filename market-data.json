@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/05 17:06",
+  "updated_tw": "08/05 19:28",
   "taiwan": {
     "2330": {
       "price": 2405.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64074.46,
-      "change": 613.5616,
-      "changePercent": 0.9668
+      "price": 64025.44,
+      "change": -30.5131,
+      "changePercent": -0.0476
     },
     "ETH": {
-      "price": 1869.12,
-      "change": 10.8635,
-      "changePercent": 0.5846
+      "price": 1867.4,
+      "change": -0.9859,
+      "changePercent": -0.0528
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.322,
-      "change": -0.074,
-      "changePercent": -0.2284
+      "price": 32.307,
+      "change": -0.089,
+      "changePercent": -0.2747
     },
     "JPYTWD": {
-      "price": 0.2027,
-      "change": -0.0032,
-      "changePercent": -1.5331
+      "price": 0.2029,
+      "change": -0.003,
+      "changePercent": -1.436
     },
     "EURTWD": {
-      "price": 37.328,
-      "change": 0.0428,
-      "changePercent": 0.1148
+      "price": 37.353,
+      "change": 0.0678,
+      "changePercent": 0.1818
     },
     "CNYTWD": {
-      "price": 4.7964,
+      "price": 4.7917,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4220.6,
-    "twd": 4386.0,
-    "tael": 164473.0,
-    "twdTotal": 136418.0,
-    "changePercent": 3.0571
+    "usd": 4231.0,
+    "twd": 4395.0,
+    "tael": 164802.0,
+    "twdTotal": 136691.0,
+    "changePercent": 3.311
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,12 +121,12 @@
       "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOc3k3cE9QV3hJTVRTeFh5Rk9BWHRWdDRzd1dPRGxMUUZhWE9ZV054dUhpZG5HYUhFWEZSV2xpLWlWakJTSEk0UHBlM0o3RXE4VWxLNFBTcVpZNXE4Q09tMjcyeDR0cUQ0OUp1Y0Z0V0tZVVV0LXdwU0czNXRiTmplcmhBWkNvRlJwZzRuRDhON01hUlpTTUJHR1ZUc3V4bWdHTDZyaXE0a29wOVJHZ2JqcTdFaG9TMC1OTU4tcFdsMlh2VHRPTU4tNGhmcHUtOTVibm1jTVp2ZXU4dUZnMEE5WXJWWV9nb3Y2dU0tbmhXTEUwTmRWX0NtbGpxUHN6bDd6TmdLZUlVTmdscFJTSG1GRFlwMld4QXhjeGtzTFNEcFRDRHlLSWZHTmt5eEFTcExncTQ2TFE5Rm1neURnRlNQazFZRzNEN1FIamdCYldzWmVBX1FnRDNyQV8tTnhleTIzYmk0c1d2Q3lmcXpmY2dzWjRSNndhSzFoeEV1VXZfa3ZVMjdBanc5LTdB?oc=5"
     },
     {
-      "title": "美股剛創新高，卻將撞上最危險的3個月！專家建議別急著清倉，3大理由曝轉機 | 林彥呈 | 財經 - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzb2JxUFVCQ1l1dkZmLTNycGd3OTNmS2F2MGJsY2x4STRUNk5pMGliVzR6MXZ5N2h2R2wzazIwWFFseFotQW9TYlNrQ0tvZw?oc=5"
-    },
-    {
       "title": "台股急跌又強彈！兩大關鍵訊號看懂台股「真止跌」還是「假反彈」 - 鉅亨買基金",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOalg3YV96Y1h6bG9YUWlRYWRBOWpKUnFSWU9lcnVDZ0VCdXN4bFlfTTZaeGhFRW1EelRCQVVOU0wyTkF6NEV4TGt5OTBGc1NXaUlHMEt2OWVYSWt0dmdzdVhxMHQxeEs1bTdTTkhnbzk0aldtVmFSd2hKVGhyT2FPdG1IYnMySl9CaXl6QWRGRjJYUmo5LTlTOW9n?oc=5"
+    },
+    {
+      "title": "美股剛創新高，卻將撞上最危險的3個月！專家建議別急著清倉，3大理由曝轉機 | 林彥呈 | 財經 - 風傳媒",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzb2JxUFVCQ1l1dkZmLTNycGd3OTNmS2F2MGJsY2x4STRUNk5pMGliVzR6MXZ5N2h2R2wzazIwWFFseFotQW9TYlNrQ0tvZw?oc=5"
     },
     {
       "title": "黃金終於漲了！背後有原因曝光 「這些貴金屬」大暴衝 - 自由財經",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yZDhsazhGbVhqenVoOHNOYy1FQWVBWk5mRk1fNzhfQk50MzdJOVZNNndsR3A4QkxDTFdYVkNDdERuU2FFRzd3anFxVGFvR2c?oc=5"
     },
     {
-      "title": "美股早盤／布蘭特油價跌破80美元...費半衝高5% Palantir飆21% - udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jV19uU3VBM3ZncTQ5MXhzUDdFNi1pelJfenFtaU5jVjZ5UHZEdWpUN01YR2hsZHpkNEFaVnk2Z2VtU1pHNWVBa0ZObXdxYzBx?oc=5"
+      "title": "8月美股創高，不只因美伊和談：當地緣政治降溫遇上企業獲利上修，5檔美股ETF怎麼選｜美股評析｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMixgRBVV95cUxPOTdEdk9UMHI5STBwRnUwcTM4b25jdjZsVGV4SlA1SjFnanFHaHN2RU9aWjU3VzJUME5pYXdnYi1CbkNueDJ3VWZBUkRJVVpFNDhTSExBMmFrWjZBMmYzb0F6NVAyb19Zb1FCUFB3ZjVUZDBpSmJOdHVDRVoxTEFrVUFHc1BGeC03WGg3bENWb1JPcEhiWWxSNnRjNWFueXJvSUNibUw2OF93NlVaTXY4RF9oc0RaaVZNdFBWWHg5TGZYYWcxX3hoaGxOVHBQRW55SDdENzlsamEwUll4X3NCeXJXdUs2T1pmQ3ltRi1FaXhKQnNnWnFQdUNWR1dJZm5fSDJjUlFlcmg4SDYxbnQwa2hybVpOM2pxMkpaZkM0aEkwTnpnTUJFNzl5bXZsZ2k2T1lXRjZGZURHUWwxTmFWdnR4TmZ4alZnMEpRQzg3N2stZWtWcUlxYXBsU1VZSGFQTm5IRURwcGlvanRjU2h0ZG1RWlVUWDRkOEprbWJZMHJFWktldURYaEpxWnVDOWs5R2NCQWNpb2hUNkFpc2FQTFdmRWFjQVUzX3A3M1ZCMmR2OXhlSWhYR3ZEckxXckhqaUREa1U3dW9md3JXLVR6TXZaelczQkF6bkNyRGRxSXRYMUd6Slk1OGRrLU5kSk1SUE5zQmtBQndaV2dZZkdDZTJUWmIxQUNOY0dIVVlQVV8yOWFBZkstQW9SR25CZFpEckZkY1lrSXg0UzlwRDQzS0stMzZhTVpNb0k2S0V3VkhmZnp5enc?oc=5"
     },
     {
-      "title": "台股連2天狂震千點元凶找到了！法人：短線操作嚴守2原則－經濟日報｜商周 - businessweekly.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iRnMyaUJ4VkFtQUlzT1JQWXZCb0M5aXBxc2gxQWdLdkhZelpSWU5ZTlVQSHNOUmNDLTJZSzF5NHNTMlZkMkpuYjB6NmwwVFNudEFncGVqRlliOWcxWE9OZV9EeTE3UQ?oc=5"
+      "title": "美股8月創新高在望？華爾街大多頭：就等5大利多點火助攻| 全球財經| 全球 - udn.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HVWxTdUdWbHBZMFJMVWhDRGdERjBJZEp2SzFvTl92ZGZMNFhYM3BMUE42TEJqYXlsRFFPTENiWUtYWTF2aXM5elZCSmtfVkpp?oc=5"
     },
     {
-      "title": "台股大漲1250點收復季線電子權值及矽光子強勢| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtMlpxYThFS1JHcHR6b0R3UmRrYjRxVG53UnFHLWJtekF5RmJNMExoaXFrM3lfVzVuRFVuMXFuSUx0WFowb0Yya2VlQTlrRVphRzNucDY1NXAtVzJ3eHc?oc=5"
+      "title": "台股大漲1,250點收復月、季線這檔記憶體亮紅燈8.5萬張買單高掛- 證券 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84MVM0UTZZRUM4UHhNU2dXVGxNbUdwa3hNd1RuTldjLWpCTU5hcGdJbHZyem9DRzVzdkZGVExrbGdIMEh4bmpUbkxWXzNLY0p2bHphMUJwUVo0TGRza21Z?oc=5"
     }
   ]
 }
