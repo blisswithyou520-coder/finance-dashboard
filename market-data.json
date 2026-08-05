@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/05 23:29",
+  "updated_tw": "08/06 01:04",
   "taiwan": {
     "2330": {
       "price": 2405.0,
-      "change": 85.0,
-      "changePercent": 3.6638
+      "change": 35.0,
+      "changePercent": 1.4768
     },
     "2454": {
       "price": 4000.0,
-      "change": 135.0,
-      "changePercent": 3.4929
+      "change": 90.0,
+      "changePercent": 2.3018
     },
     "2317": {
       "price": 258.5,
-      "change": 8.5,
-      "changePercent": 3.4
+      "change": 5.5,
+      "changePercent": 2.1739
     },
     "0050": {
       "price": 103.8,
-      "change": 1.8,
-      "changePercent": 1.7647
+      "change": 0.95,
+      "changePercent": 0.9237
     },
     "00878": {
       "price": 33.15,
-      "change": 0.58,
-      "changePercent": 1.7808
+      "change": 0.72,
+      "changePercent": 2.2202
     },
     "00919": {
       "price": 29.94,
-      "change": 0.49,
-      "changePercent": 1.6638
+      "change": 0.37,
+      "changePercent": 1.2513
     }
   },
   "us": {
     "NVDA": {
-      "price": 219.075,
-      "change": 7.135,
-      "changePercent": 3.3665
+      "price": 221.077,
+      "change": 9.137,
+      "changePercent": 4.3111
     },
     "AAPL": {
-      "price": 308.63,
-      "change": -0.75,
-      "changePercent": -0.2424
+      "price": 308.98,
+      "change": -0.4,
+      "changePercent": -0.1293
     },
     "TSLA": {
-      "price": 322.215,
-      "change": -5.135,
-      "changePercent": -1.5687
+      "price": 323.86,
+      "change": -3.49,
+      "changePercent": -1.0661
     },
     "QQQ": {
-      "price": 721.9,
-      "change": -1.95,
-      "changePercent": -0.2694
+      "price": 721.37,
+      "change": -2.48,
+      "changePercent": -0.3426
     },
     "SPY": {
-      "price": 771.57,
-      "change": 0.24,
-      "changePercent": 0.0311
+      "price": 771.415,
+      "change": 0.085,
+      "changePercent": 0.011
     },
     "SCHD": {
-      "price": 33.527,
-      "change": -0.323,
-      "changePercent": -0.9542
+      "price": 33.605,
+      "change": -0.245,
+      "changePercent": -0.7238
     },
     "VOO": {
-      "price": 709.25,
-      "change": 0.27,
-      "changePercent": 0.0381
+      "price": 709.1,
+      "change": 0.12,
+      "changePercent": 0.0169
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64481.38,
-      "change": 425.4269,
-      "changePercent": 0.6641
+      "price": 64604.94,
+      "change": 548.9869,
+      "changePercent": 0.857
     },
     "ETH": {
-      "price": 1875.82,
-      "change": 7.4341,
-      "changePercent": 0.3979
+      "price": 1895.0,
+      "change": 26.6141,
+      "changePercent": 1.4244
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.289,
-      "change": -0.107,
-      "changePercent": -0.3303
+      "price": 32.286,
+      "change": -0.11,
+      "changePercent": -0.3395
     },
     "JPYTWD": {
-      "price": 0.2028,
-      "change": -0.0031,
-      "changePercent": -1.4845
+      "price": 0.2025,
+      "change": -0.0034,
+      "changePercent": -1.6303
     },
     "EURTWD": {
-      "price": 37.337,
-      "change": 0.0518,
-      "changePercent": 0.1389
+      "price": 37.318,
+      "change": 0.0328,
+      "changePercent": 0.0879
     },
     "CNYTWD": {
-      "price": 4.792,
+      "price": 4.7888,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4314.0,
-    "twd": 4478.0,
-    "tael": 167941.0,
-    "twdTotal": 139295.0,
-    "changePercent": 5.3377
+    "usd": 4304.7,
+    "twd": 4468.0,
+    "tael": 167564.0,
+    "twdTotal": 138982.0,
+    "changePercent": 5.1106
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "美股8月創新高在望？華爾街大多頭：就等5大利多點火助攻| 全球財經| 全球 - udn",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HVWxTdUdWbHBZMFJMVWhDRGdERjBJZEp2SzFvTl92ZGZMNFhYM3BMUE42TEJqYXlsRFFPTENiWUtYWTF2aXM5elZCSmtfVkpp?oc=5"
+      "title": "美股早盤／標普再創新高！美伊進展持續激勵信心 但SpaceX瀉10% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsNmVEcHRral9PcGkwUWhoeTBpWWJJNXo2ZXFmRXF6WFdfZ3pOZzZudGlSQ295ZVhnaDBMaGFDYnpablNQNTA4RzNYRmZIamVt?oc=5"
     },
     {
-      "title": "美股收盤》道瓊標普全收紅創新高 台積電ADR漲2.72％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBM180djJpU1d5bGVrSUR1XzM1dW1vR2dyT25zSGxXZy1STmkwZjZrX2ZGQTRhbWZPbGhlSEJtT3VVdlJ6bGY2RnhzNjEtc3BYX3hrYUpkalpuOUVWb1Bn?oc=5"
+      "title": "〈美股盤後〉美伊談判露曙光！道瓊標普刷新高 費半暴漲超6.5% SpaceX盤後急跳水 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yZDhsazhGbVhqenVoOHNOYy1FQWVBWk5mRk1fNzhfQk50MzdJOVZNNndsR3A4QkxDTFdYVkNDdERuU2FFRzd3anFxVGFvR2c?oc=5"
     },
     {
       "title": "今天開盤穩了？美股四指數大漲 台指期夜盤強拉破千點慶祝 - Yahoo股市",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzb2JxUFVCQ1l1dkZmLTNycGd3OTNmS2F2MGJsY2x4STRUNk5pMGliVzR6MXZ5N2h2R2wzazIwWFFseFotQW9TYlNrQ0tvZw?oc=5"
     },
     {
+      "title": "黃金終於漲了！背後有原因曝光 「這些貴金屬」大暴衝 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiOUZ0ZmhXZ1BZTXc5TkZBWHI4UklORlhaRnB6eW52Szk1UV9yNDhYVnBIc3lMb0MyLTg5NXBDZzllRng3UVllaEc3RkVFay1yNlRISExlWFd2aXJ0VWM0?oc=5"
+    },
+    {
       "title": "8月美股創高，不只因美伊和談：當地緣政治降溫遇上企業獲利上修，5檔美股ETF怎麼選｜美股評析｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQcURDbjVFdFRmMGlPUzMzb1owRTZkNUpXa2h4XzVkN2Z6NGFTYXhLNkc1NTY5VFpiUW9BXy1zbU5RcHpTZDJHazkxRzl0cVFCMG9GWWZrWmxPVE5TSlZMcFdiQlJ4bENhX0Z1Y1E5bGV5aHdyWHhiajRaTFFuLVFBYjBrX2Z5TTc2SUl0b0ZKdjc3QzJnV29HaHpWaFJMWW11cXFIaWNUQUwyNFNGcDc0YkxXdk1ScGhPMml3U2cxUnk4S1p5QzNXYmJPWDZyM0RaVUZESjRpVGxyXzEtOFlhTER0cWVVMmJpdXJaRG5aOXdFVVh4Z0cyUXJhSVY3UF9uOUhGSFUydkxwc1VON2w5WktCMjQxZG1JWGZIYkRtTkZwZExwR21YU3huanVFOXNCczFoMDl6WWdsN3FjVjlOdy1hQ2tyUlU2cWVBUzB6M0doQkNRV0szbGE2RFc0eXh0YnRTbmxrbmhvS3ZQYkZlRXZuM2xmRkdRV1NPMG9fTUFiU2xUWVl0VHBjOWp0LUN3bndVRkVuX2c5Nk5GTVZicHVGYzlUQktQQ21HWHBOd1d4cTQ?oc=5"
     },
     {
-      "title": "外資買超台股903億史上第3大台指期淨空單8.7萬口| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SZlR1MGg1RjRFWVJ0Y3JEN3pjSV9OazVMR09Bd01FYTlGbHNqNmhQbUNheEtwRkV3SlNBQmhvOV91VlczbDBCQmNPWHVXcFJscHIyUjVfeDlrREVvNVE?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉美伊談判露曙光！道瓊標普刷新高 費半暴漲超6.5% SpaceX盤後急跳水 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yZDhsazhGbVhqenVoOHNOYy1FQWVBWk5mRk1fNzhfQk50MzdJOVZNNndsR3A4QkxDTFdYVkNDdERuU2FFRzd3anFxVGFvR2c?oc=5"
+      "title": "美伊和談曙光帶動美股上揚 台股終場大漲1250點 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JeXRBWjRObGEtTlVSM3MxOUcza09wTVRicEg4VUU2YW0xRWlCa25VYUx3T0pYb0hqT1JLX1BfSmRKbk0xSFpDZlNyUG1wZHM?oc=5"
     }
   ]
 }
