@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/06 01:04",
+  "updated_tw": "08/06 02:51",
   "taiwan": {
     "2330": {
       "price": 2405.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 221.077,
-      "change": 9.137,
-      "changePercent": 4.3111
+      "price": 221.695,
+      "change": 9.755,
+      "changePercent": 4.6027
     },
     "AAPL": {
-      "price": 308.98,
-      "change": -0.4,
-      "changePercent": -0.1293
+      "price": 308.83,
+      "change": -0.55,
+      "changePercent": -0.1778
     },
     "TSLA": {
-      "price": 323.86,
-      "change": -3.49,
-      "changePercent": -1.0661
+      "price": 320.79,
+      "change": -6.56,
+      "changePercent": -2.004
     },
     "QQQ": {
-      "price": 721.37,
-      "change": -2.48,
-      "changePercent": -0.3426
+      "price": 720.708,
+      "change": -3.142,
+      "changePercent": -0.4341
     },
     "SPY": {
-      "price": 771.415,
-      "change": 0.085,
-      "changePercent": 0.011
+      "price": 771.83,
+      "change": 0.5,
+      "changePercent": 0.0648
     },
     "SCHD": {
-      "price": 33.605,
-      "change": -0.245,
-      "changePercent": -0.7238
+      "price": 33.648,
+      "change": -0.202,
+      "changePercent": -0.5967
     },
     "VOO": {
-      "price": 709.1,
-      "change": 0.12,
-      "changePercent": 0.0169
+      "price": 709.465,
+      "change": 0.485,
+      "changePercent": 0.0684
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64604.94,
-      "change": 548.9869,
-      "changePercent": 0.857
+      "price": 64736.15,
+      "change": 680.1969,
+      "changePercent": 1.0619
     },
     "ETH": {
-      "price": 1895.0,
-      "change": 26.6141,
-      "changePercent": 1.4244
+      "price": 1916.54,
+      "change": 48.1541,
+      "changePercent": 2.5773
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.286,
-      "change": -0.11,
-      "changePercent": -0.3395
+      "price": 32.272,
+      "change": -0.124,
+      "changePercent": -0.3828
     },
     "JPYTWD": {
       "price": 0.2025,
@@ -94,22 +94,22 @@
       "changePercent": -1.6303
     },
     "EURTWD": {
-      "price": 37.318,
-      "change": 0.0328,
-      "changePercent": 0.0879
+      "price": 37.334,
+      "change": 0.0488,
+      "changePercent": 0.1309
     },
     "CNYTWD": {
-      "price": 4.7888,
+      "price": 4.7868,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4304.7,
-    "twd": 4468.0,
-    "tael": 167564.0,
-    "twdTotal": 138982.0,
-    "changePercent": 5.1106
+    "usd": 4319.8,
+    "twd": 4482.0,
+    "tael": 168078.0,
+    "twdTotal": 139409.0,
+    "changePercent": 5.4793
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,12 +125,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yZDhsazhGbVhqenVoOHNOYy1FQWVBWk5mRk1fNzhfQk50MzdJOVZNNndsR3A4QkxDTFdYVkNDdERuU2FFRzd3anFxVGFvR2c?oc=5"
     },
     {
-      "title": "今天開盤穩了？美股四指數大漲 台指期夜盤強拉破千點慶祝 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOc3k3cE9QV3hJTVRTeFh5Rk9BWHRWdDRzd1dPRGxMUUZhWE9ZV054dUhpZG5HYUhFWEZSV2xpLWlWakJTSEk0UHBlM0o3RXE4VWxLNFBTcVpZNXE4Q09tMjcyeDR0cUQ0OUp1Y0Z0V0tZVVV0LXdwU0czNXRiTmplcmhBWkNvRlJwZzRuRDhON01hUlpTTUJHR1ZUc3V4bWdHTDZyaXE0a29wOVJHZ2JqcTdFaG9TMC1OTU4tcFdsMlh2VHRPTU4tNGhmcHUtOTVibm1jTVp2ZXU4dUZnMEE5WXJWWV9nb3Y2dU0tbmhXTEUwTmRWX0NtbGpxUHN6bDd6TmdLZUlVTmdscFJTSG1GRFlwMld4QXhjeGtzTFNEcFRDRHlLSWZHTmt5eEFTcExncTQ2TFE5Rm1neURnRlNQazFZRzNEN1FIamdCYldzWmVBX1FnRDNyQV8tTnhleTIzYmk0c1d2Q3lmcXpmY2dzWjRSNndhSzFoeEV1VXZfa3ZVMjdBanc5LTdB?oc=5"
-    },
-    {
       "title": "台股急跌又強彈！兩大關鍵訊號看懂台股「真止跌」還是「假反彈」 - 鉅亨買基金",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOalg3YV96Y1h6bG9YUWlRYWRBOWpKUnFSWU9lcnVDZ0VCdXN4bFlfTTZaeGhFRW1EelRCQVVOU0wyTkF6NEV4TGt5OTBGc1NXaUlHMEt2OWVYSWt0dmdzdVhxMHQxeEs1bTdTTkhnbzk0aldtVmFSd2hKVGhyT2FPdG1IYnMySl9CaXl6QWRGRjJYUmo5LTlTOW9n?oc=5"
+    },
+    {
+      "title": "美股飆漲不追高！台股連3紅他轉押0050 網質疑進場時機：跌時不買現在追 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNdElkSjkwZ1d6U2wyY3QtdE1qbmk5T1ktczhRb3BtRld0UlZUUEpQanplc1VtNGdaY2lrWWdMMTVNNnFPcHNvb0xoZmh2dUl5SzdTaVlxVUY3bm1TTngybHd6WkJwMWlKRG43ejRwSUJKUTRsNFphZWlmaUFLU2JtLUVnWmVVT2lKUGVEQkl5aTVuaTV5X3hXdnlRODVvLVEtMTh3MXRtbFVubEc1UnNlNkZlNERLa3lyVy16Q1ZqbkpqSDB1OUphQmJjS2dzUXQzUjc3UTNoV1k5TUw4ZHJNODYzazFhV2pNVXVoWVNVam4tOURmWDgyRFNkWkVqNWFyZ0xPb0l4anRfNThqc1FTVGdnMjQwcHRSY3R2aTdzU2JUblBmREdDTkhNdW1NQmVCNVRSX3ZKeFlsMzdXY0dUS3dQSUtrb01iWVk2UFFFRTA4VVJnLWxtX0s0MEY4eXJwNlgtWE9fZmNvZFhSbGNJMHdrZDJOSmRKdGswdFJkMFVORG5zYmRKMEptWXlGNVRsdmZLVXA2YWNzWWlQeXh3SGZuWjZ5eTEyQ1BrN2loYTR2OExxWmc?oc=5"
+    },
+    {
+      "title": "【0805台股盤後】台股大盤大漲1,250 點放量突破1.19 兆；外資買超903 億創近期新高，光通訊聯亞、全新帶頭衝，外本比排行策略鎖定【鈺創、宏致、中光電】｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi_gVBVV95cUxPOHVFejgtWGk0UWtwTmJvdHpFZ2ZvOGllUVhqbHBsNmJBOGFEcWdUTkc3akswTVBtMmFEaFNqYUpFNkVoYzFKaFllSWtHTWZQb3M5YmZOYm9hb0F5aS1OUy15elFmSFA2N1FlUm1wQk9aSFNwcHVJQzQwN2NPX1FLNXJzRnIwVmNhMEdLUl9TajRUbmo1OXoyLWs0UThMZVh2aEJwSGwza3ZaeUdOS3pfRzRpeWRmUHJZNzJfWmtTcGtENlZUaEJnUUdIUmNsOW1ubkhDNnZCMzQ5ZlJNNDNDcXN0SnNpWTk0ZG1OMEFXazNtb2NoYTJUbVpTZkJvUENmcWxxbmplQ2NOMHp3dG41a3NEaExnYmxGNVgxZ2hEWXNFLTFiN1BBTEwyNDlScEJhWnNIWUFBekhkU0JCeV9LNkdCRjhlM1ZnbTBKMEFIQ0hGRVg5RzBTR0JBVElMeWtrdHZ1SmZIalZwVnNiY0c4YlFDTlB4ZG9DaHVLNHVjUXFoSG1sUFA5MWNzd3gzWE9qaktORGpfYm5Ddk1MdWtOR1JCNVpZaGxkbFpUTDlVQkViODRSOVhXaTBxNnBheFhWamw2U2dqVm5DSEpqYjlqNXpzZE54MGoyMUtQcWhQTEwtbWM1bVhxT3FVQzhtZnhENHVmaTRpT0pNMkpiRUhXdFNyaC1vWFVvU3FqM3pyeHp0ZEZRbnBqcEFMUWJyaElUamJaZmt5aHp3clpydXBqNS1rT2xLOUVzZzFPQnl5dTZ0R0ZQZjhLeDdkdWpHaTNRYkdDQjBXSi1RUGhid2xncXQ1VVFZS05jWHZrZTUzS2U1dVZqN2V1VTItdGQ1M19Jc1NhZ3Q4TjhSbmxvSnpGd2NPRzd4YUlIX2t5cXM1SUhoRFptS1otUWJVMjFSTFB2T1FnYWc1OUpWTDUybE9aejhuRXFxUEp3V0Q1c1NmejR4QWQ2Rmo5WW4yOHZLM1RSdk5vNW9UREx2d1FXaW1OV3dJN3NjQ1Z2dlg1YzhR?oc=5"
     },
     {
       "title": "美股剛創新高，卻將撞上最危險的3個月！專家建議別急著清倉，3大理由曝轉機 | 林彥呈 | 財經 - 風傳媒",
@@ -141,11 +145,7 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiOUZ0ZmhXZ1BZTXc5TkZBWHI4UklORlhaRnB6eW52Szk1UV9yNDhYVnBIc3lMb0MyLTg5NXBDZzllRng3UVllaEc3RkVFay1yNlRISExlWFd2aXJ0VWM0?oc=5"
     },
     {
-      "title": "8月美股創高，不只因美伊和談：當地緣政治降溫遇上企業獲利上修，5檔美股ETF怎麼選｜美股評析｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQcURDbjVFdFRmMGlPUzMzb1owRTZkNUpXa2h4XzVkN2Z6NGFTYXhLNkc1NTY5VFpiUW9BXy1zbU5RcHpTZDJHazkxRzl0cVFCMG9GWWZrWmxPVE5TSlZMcFdiQlJ4bENhX0Z1Y1E5bGV5aHdyWHhiajRaTFFuLVFBYjBrX2Z5TTc2SUl0b0ZKdjc3QzJnV29HaHpWaFJMWW11cXFIaWNUQUwyNFNGcDc0YkxXdk1ScGhPMml3U2cxUnk4S1p5QzNXYmJPWDZyM0RaVUZESjRpVGxyXzEtOFlhTER0cWVVMmJpdXJaRG5aOXdFVVh4Z0cyUXJhSVY3UF9uOUhGSFUydkxwc1VON2w5WktCMjQxZG1JWGZIYkRtTkZwZExwR21YU3huanVFOXNCczFoMDl6WWdsN3FjVjlOdy1hQ2tyUlU2cWVBUzB6M0doQkNRV0szbGE2RFc0eXh0YnRTbmxrbmhvS3ZQYkZlRXZuM2xmRkdRV1NPMG9fTUFiU2xUWVl0VHBjOWp0LUN3bndVRkVuX2c5Nk5GTVZicHVGYzlUQktQQ21HWHBOd1d4cTQ?oc=5"
-    },
-    {
-      "title": "美伊和談曙光帶動美股上揚 台股終場大漲1250點 - 公視新聞網PNN",
+      "title": "美伊和談曙光帶動美股上揚 台股終場大漲1250點 - news.pts.org.tw",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JeXRBWjRObGEtTlVSM3MxOUcza09wTVRicEg4VUU2YW0xRWlCa25VYUx3T0pYb0hqT1JLX1BfSmRKbk0xSFpDZlNyUG1wZHM?oc=5"
     }
   ]
