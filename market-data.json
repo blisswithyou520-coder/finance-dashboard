@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/06 21:19",
+  "updated_tw": "08/06 23:41",
   "taiwan": {
     "2330": {
       "price": 2365.0,
@@ -35,85 +35,118 @@
   },
   "us": {
     "NVDA": {
-      "price": 219.22,
-      "change": 7.28,
-      "changePercent": 3.4349
+      "price": 217.73,
+      "change": -1.49,
+      "changePercent": -0.6797
     },
     "AAPL": {
-      "price": 311.0,
-      "change": 1.62,
-      "changePercent": 0.5236
+      "price": 310.28,
+      "change": -0.72,
+      "changePercent": -0.2315
     },
     "TSLA": {
-      "price": 321.55,
-      "change": -5.8,
-      "changePercent": -1.7718
+      "price": 320.635,
+      "change": -0.915,
+      "changePercent": -0.2846
     },
     "QQQ": {
-      "price": 717.3,
-      "change": -6.55,
-      "changePercent": -0.9049
+      "price": 716.48,
+      "change": -0.82,
+      "changePercent": -0.1143
     },
     "SPY": {
-      "price": 769.79,
-      "change": -1.54,
-      "changePercent": -0.1997
+      "price": 768.725,
+      "change": -1.065,
+      "changePercent": -0.1383
     },
     "SCHD": {
-      "price": 33.64,
-      "change": -0.21,
-      "changePercent": -0.6204
+      "price": 33.63,
+      "change": -0.01,
+      "changePercent": -0.0297
     },
     "VOO": {
-      "price": 707.6,
-      "change": -1.38,
-      "changePercent": -0.1946
+      "price": 706.59,
+      "change": -1.01,
+      "changePercent": -0.1427
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64786.2,
-      "change": 188.7,
-      "changePercent": 0.2921
+      "price": 64719.29,
+      "change": 121.79,
+      "changePercent": 0.1885
     },
     "ETH": {
-      "price": 1907.89,
-      "change": 1.364,
-      "changePercent": 0.0715
+      "price": 1914.35,
+      "change": 7.824,
+      "changePercent": 0.4104
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.27,
-      "change": -0.1251,
-      "changePercent": -0.3862
+      "price": 32.259,
+      "change": -0.1361,
+      "changePercent": -0.4201
     },
     "JPYTWD": {
-      "price": 0.2023,
-      "change": -0.003,
-      "changePercent": -1.4762
+      "price": 0.2014,
+      "change": -0.0039,
+      "changePercent": -1.9145
     },
     "EURTWD": {
-      "price": 37.308,
-      "change": -0.048,
-      "changePercent": -0.1284
+      "price": 37.207,
+      "change": -0.149,
+      "changePercent": -0.3988
     },
     "CNYTWD": {
-      "price": 4.7891,
+      "price": 4.7836,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4320.7,
-    "twd": 4483.0,
-    "tael": 168103.0,
-    "twdTotal": 139429.0,
-    "changePercent": 1.7641
+    "usd": 4312.8,
+    "twd": 4473.0,
+    "tael": 167738.0,
+    "twdTotal": 139127.0,
+    "changePercent": 1.578
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "資金又轉回科技股？台股震盪「這檔」慘寫連4黑登弱勢股王 國票金、潤泰新也淪大盤刀下魂 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOdExVeXM2N1hvM1N4YzJaRG1WMm9qX0otay1qQ2UyVENaUGZ3QlVqNWwxRFJYaHVMclJuQmY2MlhmNEM3eDBBc3pYTUQ1TTJCQkczT2x3WmYtN29CMTdTRVpLcTlKTWhHTUY1M3BiUzV6dHNGZU16azdKVFdZckgtTkVCVjNJWHRoYkxhOGFUU0FzMklxSXloRHRxVUNlNXkyN1RjOEQyYXV2ZnBDWGpUdFRzN2F5d2hrTHEzVk91bWszYURHbmFoQnpsVHQ0a1o2QmVHa2pJejlCaFNOR0IzcWIyWHJUSHFLTkRPZ0VJVzlPdjRqRUl4Wlo2QlJVVGdVbGxzUGZQSW90MWxjS2tYLVpYU0JXN0xKYnl3X2JyRF9XZ3N1NWVTM2F5S1UtTU5oZkdZNnRHd1VRcXFoSmVUckZXc0JSdXI2dzB3cUVkUXZubDFMOWNpczgtLUpsY3pHSkRuNzBDM1pNbS16OFg2Y3JHc0dPN3NTcU9SSkszblhURDJpeE1KWmhNYThNdFJfX1BHZVlJZmIxUQ?oc=5"
+    },
+    {
+      "title": "美股收盤》SpaceX跌逾13％！道瓊創新高 台積電ADR走低 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92UlQzMUpFSjBBYkN6VDJFZDlERzI2V25ubmtuQ0ZsOFBJcjJXUmF2c004Sk5aZkdsM0dqUDhnXzVUTWd5TGNhQUVUTWlEemtybmJ2b1BJelM4M0VMREdr?oc=5"
+    },
+    {
+      "title": "財經8點檔-美債殖利率攀高 美股下半年恐倍感壓力 0806 - taiwandaily.net",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Ncl95QmRHYjlXb3RwLTF3SlJGYU9tQUc3cWtUc2g5c2lrQ0p0bzJlaTI5ZU9VSmVBcU01R1Bhb1A1dmFGeklDS0xVM1lhVF9kVVRjY3hJM2lWWkZVNE13UHNnM2JGbjJnMWZ2aGIyVmZqQkNtOVg4?oc=5"
+    },
+    {
+      "title": "美國出手救日圓為何美股飆新高？因解除股債匯AI風險連環爆引信| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5Nlg0Z1JBMDZRS1p0UTF2Y25BNHc5Nk1PaDltUzBXLURUSjhuQno5MVp1aG9UVHZ6MXZKcDJ4MmRUcnFoS0Q4VnhpVUF1dU5N?oc=5"
+    },
+    {
+      "title": "台股高價股撐盤再現雙萬金量縮跌214點守住季線| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JblM2WDVBekZvUEN6eGxQMFJmNVJ6YjdxWkJMd21rbE9rMXNsRjg2b0JMbDZzbUdoRlZHWjhNY1NvRDI4TTlWcGNwMkxIMmVaMVBXTGtRdE1oVG5PR1E?oc=5"
+    },
+    {
+      "title": "逢低加碼！台股急跌反吸金 ETF單月爆5500億 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPNHI5SkxZMG11OE9FWnlzWVB4Zm5wMFJWNnBUc2tMZnRHcTU4ajVPN240OWxkeldJMG5Pa1Bhc2FWLWlFSTNIbnhraUl0Ukg5QTdQclZaMFppUXNQa3V5WXZ2a2VpTDhpanVjS0p6MDllZ1Z0Q2g1aDVILWNyMW5VN1FqQ0NfQzVqMnFiREktQUtmS1VGVDFDcUpjaUlTRGJfaU5oY0hOWWlIQVp6T1ZBRk9WQ2JIdzBucXJPUS1OZ1hKVXFGbVkxNEpZNExPR3FMa2tVdGlCdlpYVmFGeTVlU19jbmo2Qldxam5oQVMwem9XVEgzMGxvOVZlM04taGlOQU1QeFRhMzNiQzA5MjU0bkZVY3Fibi1ZY0hn?oc=5"
+    },
+    {
+      "title": "美股8月創新高在望？華爾街大多頭：就等5大利多點火助攻| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HVWxTdUdWbHBZMFJMVWhDRGdERjBJZEp2SzFvTl92ZGZMNFhYM3BMUE42TEJqYXlsRFFPTENiWUtYWTF2aXM5elZCSmtfVkpp?oc=5"
+    },
+    {
+      "title": "台股1次違約交割後預收足額款券？金管會：研議中| 產經 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fbEF0UUV6X2VNN0hzVU1jX0dEMUxSNlM0akxWeHYtUkFZRjRhRnFrTURwUWNQTnNkTlZPbUVVbE94MzBDaDFZX2RZcXFuVGJVc2IxSmRjLXFKR1BiTnc?oc=5"
+    }
+  ]
 }
