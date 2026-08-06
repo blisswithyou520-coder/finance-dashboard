@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/06 11:35",
+  "updated_tw": "08/06 14:14",
   "taiwan": {
     "2330": {
-      "price": 2370.0,
-      "change": -35.0,
-      "changePercent": -1.4553
+      "price": 2365.0,
+      "change": -40.0,
+      "changePercent": -1.6632
     },
     "2454": {
-      "price": 3955.0,
-      "change": -45.0,
-      "changePercent": -1.125
+      "price": 3920.0,
+      "change": -80.0,
+      "changePercent": -2.0
     },
     "2317": {
-      "price": 265.0,
-      "change": 6.5,
-      "changePercent": 2.5145
+      "price": 264.5,
+      "change": 6.0,
+      "changePercent": 2.3211
     },
     "0050": {
-      "price": 103.5,
-      "change": 2.85,
-      "changePercent": 2.8316
+      "price": 103.3,
+      "change": -0.5,
+      "changePercent": -0.4817
     },
     "00878": {
-      "price": 32.91,
-      "change": 0.34,
-      "changePercent": 1.0439
+      "price": 32.84,
+      "change": -0.31,
+      "changePercent": -0.9351
     },
     "00919": {
-      "price": 29.71,
-      "change": 0.2,
-      "changePercent": 0.6777
+      "price": 29.6,
+      "change": -0.34,
+      "changePercent": -1.1356
     }
   },
   "us": {
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64476.94,
-      "change": 420.9869,
-      "changePercent": 0.6572
+      "price": 64717.45,
+      "change": 661.4969,
+      "changePercent": 1.0327
     },
     "ETH": {
-      "price": 1895.16,
-      "change": 26.7741,
-      "changePercent": 1.433
+      "price": 1908.01,
+      "change": 39.6241,
+      "changePercent": 2.1208
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.179,
-      "change": -0.2161,
-      "changePercent": -0.6671
+      "price": 32.237,
+      "change": -0.1581,
+      "changePercent": -0.488
     },
     "JPYTWD": {
       "price": 0.2021,
@@ -94,22 +94,22 @@
       "changePercent": -1.5736
     },
     "EURTWD": {
-      "price": 37.258,
-      "change": -0.098,
-      "changePercent": -0.2623
+      "price": 37.26,
+      "change": -0.096,
+      "changePercent": -0.2569
     },
     "CNYTWD": {
-      "price": 4.7817,
+      "price": 4.7828,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4323.9,
-    "twd": 4473.0,
-    "tael": 167753.0,
-    "twdTotal": 139139.0,
-    "changePercent": 5.5794
+    "usd": 4326.9,
+    "twd": 4485.0,
+    "tael": 168172.0,
+    "twdTotal": 139486.0,
+    "changePercent": 1.9101
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股收盤》SpaceX跌逾13％！道瓊創新高 台積電ADR走低 - ec.ltn.com.tw",
+      "title": "美股收盤》SpaceX跌逾13％！道瓊創新高 台積電ADR走低 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92UlQzMUpFSjBBYkN6VDJFZDlERzI2V25ubmtuQ0ZsOFBJcjJXUmF2c004Sk5aZkdsM0dqUDhnXzVUTWd5TGNhQUVUTWlEemtybmJ2b1BJelM4M0VMREdr?oc=5"
     },
     {
-      "title": "台股開盤跌逾300點！台積電下殺35元、聯發科由紅翻黑 這「光通訊大廠」攜15檔速衝漲停 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQcS1veGRuemtlVHhpNFdlT3RyeXlmYXRsOHRyNkZ0b3BIT3RJWHJISXJfU0pYRkZ2RVRfNW9MUzJTM2xRd1NYSmdES1FaXzZ2cXoyRlBQM0hIbWZYclVPZk51TWVPQmNDcVJGdjFYcy1VS0IxZTdseTJxeU5tdVBzZXZvTHlJYkJuWGQ2UUFZcmV6MU80eUlIc0hzSS1Sa0dEQ1hNRXRTWDA4ZFBNcEphT3hRSkgyck1Tbzc1VW9hZXpETkJJM3VoajB3b280V0ZPOEIwYVV1SENBUlVzMkZIYjk1eDYxYUxPY2xNakI3Y280UDE1NHJ2NG14d2hmeEpTajBLSGRpNHVqWmZ6OG90Q2lRQ1htZnRQNlFHWHAwM01wWXFDZms0MVBCSXVLSnZOMjF5eGsxczY5YUQ3RjEwOU1UVzNnQnZUQ2cyWlRaTXl6ajh6dkVUNFB0TG5qVlVySmh3MEVMQXFaUlR6TjdiVTV5bWNFTnlFTmpzR1Zuc0FURFZnZkloNEFPdTBlQTJhaFg5UkhPWUVXMTh0aWxN?oc=5"
+      "title": "黃金暴漲「2個月最高」！他一口氣搬「15兩」變現260萬元：要買股票 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxORTZ5YkNkTnlrdXRuZzhVQ3FNWjlTakMyZzZncnRZNHROYnl5MnFwcTQtTWdDaXBXZzh0eWx5TG5KdXdhLW00YnlUUnRFY29QUGVrQ3lZWGFDaDlpcEx3NWdZRllRbHhMSDNjTWNhN29qUGpPQnRIS1lla19JTFctQmF4aHlMQ1pqejFMb3hvQkZMYVcwUHN6VzNGM20wTW5CM3VXWXBPTjdpV3hqWVBBVDJnaHlFcUF4X0d1SGtlWHZ0dzRURWxLZjk2QjJGNHIybERRc2Z4d0I2WUFqeDNHSWN2ZVB2MmZPVm94bzg4N2ZSOE1xSVFIRzc1Rk16eDRaakxKVVV0ZmtnR3NvYy1RTnpucUdMRENVRHFINEVHalFuaUZHQkhjUkU3YzVBeE9mWUZoRDNrOVJQT1ZIMTRaZE16a0xtR0ZMUDNidnNsRE1IZVpadXhKTUVTLXNNMmpMOGRXdlZ6eDNvZ1I5aEtVWEgweVhueFVKNTFKWVAtSVMtcFBocVpXNUE5RXlOdkZDc2swNjF1dzhQUkFpWVc0ZkRnaDNQc0JHS1dyX3k1SXhpbzQ?oc=5"
     },
     {
-      "title": "美股早盤／標普再創新高！美伊進展持續激勵信心 但SpaceX瀉10% - udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsNmVEcHRral9PcGkwUWhoeTBpWWJJNXo2ZXFmRXF6WFdfZ3pOZzZudGlSQ295ZVhnaDBMaGFDYnpablNQNTA4RzNYRmZIamVt?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉美伊談判露曙光！道瓊標普刷新高 費半暴漲超6.5% SpaceX盤後急跳水 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yZDhsazhGbVhqenVoOHNOYy1FQWVBWk5mRk1fNzhfQk50MzdJOVZNNndsR3A4QkxDTFdYVkNDdERuU2FFRzd3anFxVGFvR2c?oc=5"
-    },
-    {
-      "title": "《貴金屬》COMEX黃金上漲3.7% ETF持倉增加- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1R0YVY0MkxUcmdheHhJMllZUHVaTkh4bGliLWNGYmx5VEcxVTNpaDNab2hVX0U2WTFMeWxzc3BJa0g0ZVZXcFlWM21wYUUzZVNwTi1rdGQ0azFMYkppSzZMclZwaFd0azFsM0N3eDhkQjFmUEw5Wk9aNV82Z282UmRLXzNObGlIYmhEOXkyVm1qUQ?oc=5"
+      "title": "台股7月大跌不改散戶對半導體業信心虧損慘重仍逢低加碼| 股市要聞| 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94YWR6TFloUjgzX1M2bU5vdXYyNzZyUlltblp1LVNHZzRibUNNNFczQnhsNXdGZnEtMWx4M2x4Wm1IejlVWTYwdjNDSnhjb1JF?oc=5"
     },
     {
       "title": "道瓊創高台積電ADR收黑投顧：台股估區間震盪| 證券 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5peDZlOGNaVlozVTRPS1Nrb1MzSE9tbVpYMTdaNWlTUng1ckFDSDJJazJPUV9vWmtxRzM3Y0hIS05UV1NmQU0wZmhickc5bi1vbUtRZUdRemk0VGxpRkE?oc=5"
     },
     {
-      "title": "台股6日隨美股回檔44000點面臨考驗 光寶科逆勢反彈上漲2% - 理財周刊",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmNVVpTHRiS0NjQnVQTi1UQUUwTkxoX18wMlpXSko3Mnd0U3YyMUJkc3hFTzFqbVlia1d2aUM5Sk1pQU5jTUZkUGt4RFk0SENHWkkyczNObTRRV1ljQzBvOFhCMER0Q0J4T0xTQlo0Zw?oc=5"
+      "title": "美股ETF怎麼選？從人氣ETF到009826、VT比較，一次看懂布局重點！ - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBENmxfMmdLOXdSX2prYnlaNkhuVktNMHI1WW5TX2ZQWTJYZUpDX1RRSjZNd0NKZkMzbjZQT2hnTkFZSUZxYTVQTFQ4N1NtcmM?oc=5"
     },
     {
-      "title": "台股急跌又強彈！兩大關鍵訊號看懂台股「真止跌」還是「假反彈」 - 鉅亨買基金",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOalg3YV96Y1h6bG9YUWlRYWRBOWpKUnFSWU9lcnVDZ0VCdXN4bFlfTTZaeGhFRW1EelRCQVVOU0wyTkF6NEV4TGt5OTBGc1NXaUlHMEt2OWVYSWt0dmdzdVhxMHQxeEs1bTdTTkhnbzk0aldtVmFSd2hKVGhyT2FPdG1IYnMySl9CaXl6QWRGRjJYUmo5LTlTOW9n?oc=5"
+      "title": "地緣政治、債務膨脹與去美元化推動黃金多頭- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWFNmTV95YzVJS2FxZTZ2Z1VRWW4wQ0E3N015N2swMDdEWXNTOENPd1ZkbGxRc0dsNTNJTnY4R0tZbjhpSTd3OWRQbDl1Wll0Y2MyNXdObkc2Z081cFJUbjRFazVjWXBBc1RPR3hJUjRMZzJiZ0lXSGl0SzAtRDBZYVZTMDdpdGNXamk4RjVERVgwZw?oc=5"
+    },
+    {
+      "title": "台股跌239點 台積電跌25元 「這記憶體」逆勢噴5% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQdy12NFF2d183R2ZhNGgyTmVJV212WkhCcEYxNnFQb2tsMXFUODBtNlV5TEpSVUFGcUtTdmJNQUlUOXEzS3RTSmdfSDJKaDY2OVg4Sm5pWjhOYTE5bmh1RUNtODJyTkRWWGo0ekRzRXVRdG85emhtbVJWZzN1bnZZeGVybDdIbTlicTQzQXBPVWJqRk1XeTZFd1NWc3R2WDI2N3RlbDFjcFViMnNJeUx0R1BFYW1PZnM5akhlM0xYQ3JhTlBDb2pqRXlGX3dmekVqM25XZ0w1SmR0OTlPNWFwdnVYQXhZeDYwU0VqWFFjbFJLMUNqZGpSR3VJT21HdDVfSU1PSjFJSnBPdGZ6cldlcUM4WHktbDhQcHEwRU1aU2ZMYk1HYW1n?oc=5"
+    },
+    {
+      "title": "台股開盤》晶圓雙雄領跌 指數跌逾300點 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDSlhZTDJPYW01MjUyZ3F0SU1PNm9MR09tRkg2bnplbmhjQ3AtR1luZGVwSVh5bUh4TGlyZmliYUgxT1VqbTdpcFVCMjhONF9ONUlOdXR6eDJPZUoyN2VN?oc=5"
     }
   ]
 }
