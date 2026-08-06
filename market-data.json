@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/06 14:14",
+  "updated_tw": "08/06 17:09",
   "taiwan": {
     "2330": {
       "price": 2365.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64717.45,
-      "change": 661.4969,
-      "changePercent": 1.0327
+      "price": 64786.2,
+      "change": 188.7,
+      "changePercent": 0.2921
     },
     "ETH": {
-      "price": 1908.01,
-      "change": 39.6241,
-      "changePercent": 2.1208
+      "price": 1907.89,
+      "change": 1.364,
+      "changePercent": 0.0715
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.237,
-      "change": -0.1581,
-      "changePercent": -0.488
+      "price": 32.283,
+      "change": -0.1121,
+      "changePercent": -0.346
     },
     "JPYTWD": {
-      "price": 0.2021,
-      "change": -0.0032,
-      "changePercent": -1.5736
+      "price": 0.2023,
+      "change": -0.003,
+      "changePercent": -1.4762
     },
     "EURTWD": {
-      "price": 37.26,
-      "change": -0.096,
-      "changePercent": -0.2569
+      "price": 37.308,
+      "change": -0.048,
+      "changePercent": -0.1284
     },
     "CNYTWD": {
-      "price": 4.7828,
+      "price": 4.7891,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4326.9,
+    "usd": 4320.7,
     "twd": 4485.0,
-    "tael": 168172.0,
-    "twdTotal": 139486.0,
-    "changePercent": 1.9101
+    "tael": 168171.0,
+    "twdTotal": 139485.0,
+    "changePercent": 1.7641
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92UlQzMUpFSjBBYkN6VDJFZDlERzI2V25ubmtuQ0ZsOFBJcjJXUmF2c004Sk5aZkdsM0dqUDhnXzVUTWd5TGNhQUVUTWlEemtybmJ2b1BJelM4M0VMREdr?oc=5"
     },
     {
-      "title": "黃金暴漲「2個月最高」！他一口氣搬「15兩」變現260萬元：要買股票 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxORTZ5YkNkTnlrdXRuZzhVQ3FNWjlTakMyZzZncnRZNHROYnl5MnFwcTQtTWdDaXBXZzh0eWx5TG5KdXdhLW00YnlUUnRFY29QUGVrQ3lZWGFDaDlpcEx3NWdZRllRbHhMSDNjTWNhN29qUGpPQnRIS1lla19JTFctQmF4aHlMQ1pqejFMb3hvQkZMYVcwUHN6VzNGM20wTW5CM3VXWXBPTjdpV3hqWVBBVDJnaHlFcUF4X0d1SGtlWHZ0dzRURWxLZjk2QjJGNHIybERRc2Z4d0I2WUFqeDNHSWN2ZVB2MmZPVm94bzg4N2ZSOE1xSVFIRzc1Rk16eDRaakxKVVV0ZmtnR3NvYy1RTnpucUdMRENVRHFINEVHalFuaUZHQkhjUkU3YzVBeE9mWUZoRDNrOVJQT1ZIMTRaZE16a0xtR0ZMUDNidnNsRE1IZVpadXhKTUVTLXNNMmpMOGRXdlZ6eDNvZ1I5aEtVWEgweVhueFVKNTFKWVAtSVMtcFBocVpXNUE5RXlOdkZDc2swNjF1dzhQUkFpWVc0ZkRnaDNQc0JHS1dyX3k1SXhpbzQ?oc=5"
+      "title": "2檔黃金ETF暴衝 最強一周漲逾一成 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSklBZHN2MFFPZWVYdjZxUkowMkJlUnloVmtFbkdVTk8wOHBYUW4tMkg4RHFwUDF0OERYUm03c0tIQlRJMTcxRGQxTkRmVzNSMmZJM2N3bExJY2lyRVFUQ1B4RTNCVDFWdlRMakVBLU9sR29ZWnBBNXM0dE4xVkJCck9wS2c1R3dWM2JwNXdfTXlaT1lzb0pHVzZvV0lTQ3EzUTVjaWNsdU9GVzhxNHZGVE5uMlpuUDFCTkdHQS1NVGdSNHJPX3MtYmNqNVJFNnhfdFdTelEzeWlYdm9pNEFqYjZyM3ZqNTNTTFI2OWJveHdJX3Zqamx6VDE4ZjVPUQ?oc=5"
     },
     {
-      "title": "台股7月大跌不改散戶對半導體業信心虧損慘重仍逢低加碼| 股市要聞| 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94YWR6TFloUjgzX1M2bU5vdXYyNzZyUlltblp1LVNHZzRibUNNNFczQnhsNXdGZnEtMWx4M2x4Wm1IejlVWTYwdjNDSnhjb1JF?oc=5"
-    },
-    {
-      "title": "道瓊創高台積電ADR收黑投顧：台股估區間震盪| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5peDZlOGNaVlozVTRPS1Nrb1MzSE9tbVpYMTdaNWlTUng1ckFDSDJJazJPUV9vWmtxRzM3Y0hIS05UV1NmQU0wZmhickc5bi1vbUtRZUdRemk0VGxpRkE?oc=5"
+      "title": "台股高價股撐盤再現雙萬金量縮跌214點守住季線| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JblM2WDVBekZvUEN6eGxQMFJmNVJ6YjdxWkJMd21rbE9rMXNsRjg2b0JMbDZzbUdoRlZHWjhNY1NvRDI4TTlWcGNwMkxIMmVaMVBXTGtRdE1oVG5PR1E?oc=5"
     },
     {
       "title": "美股ETF怎麼選？從人氣ETF到009826、VT比較，一次看懂布局重點！ - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBENmxfMmdLOXdSX2prYnlaNkhuVktNMHI1WW5TX2ZQWTJYZUpDX1RRSjZNd0NKZkMzbjZQT2hnTkFZSUZxYTVQTFQ4N1NtcmM?oc=5"
     },
     {
-      "title": "地緣政治、債務膨脹與去美元化推動黃金多頭- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWFNmTV95YzVJS2FxZTZ2Z1VRWW4wQ0E3N015N2swMDdEWXNTOENPd1ZkbGxRc0dsNTNJTnY4R0tZbjhpSTd3OWRQbDl1Wll0Y2MyNXdObkc2Z081cFJUbjRFazVjWXBBc1RPR3hJUjRMZzJiZ0lXSGl0SzAtRDBZYVZTMDdpdGNXamk4RjVERVgwZw?oc=5"
+      "title": "台股大修正誰最抗跌？正2與高股息跌幅大公開股添樂歪樓：買元大金也不錯| 存股族愛ETF | 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnQlVSRVJhSEJwQm1ONWhnd1dhbGFORlQ5T2Y1Z01GMUxxNXlHbF9la1BvUXB2a2hOUnhGYUE0SUlNX3RJaUlsWGZGcWhiZmRoLV84?oc=5"
     },
     {
-      "title": "台股跌239點 台積電跌25元 「這記憶體」逆勢噴5% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQdy12NFF2d183R2ZhNGgyTmVJV212WkhCcEYxNnFQb2tsMXFUODBtNlV5TEpSVUFGcUtTdmJNQUlUOXEzS3RTSmdfSDJKaDY2OVg4Sm5pWjhOYTE5bmh1RUNtODJyTkRWWGo0ekRzRXVRdG85emhtbVJWZzN1bnZZeGVybDdIbTlicTQzQXBPVWJqRk1XeTZFd1NWc3R2WDI2N3RlbDFjcFViMnNJeUx0R1BFYW1PZnM5akhlM0xYQ3JhTlBDb2pqRXlGX3dmekVqM25XZ0w1SmR0OTlPNWFwdnVYQXhZeDYwU0VqWFFjbFJLMUNqZGpSR3VJT21HdDVfSU1PSjFJSnBPdGZ6cldlcUM4WHktbDhQcHEwRU1aU2ZMYk1HYW1n?oc=5"
+      "title": "【Hot台股】台股摔近600點拉回平盤...網喊話「鬼月還沒到」 分析師看多：僅壓力測試 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxQNlMtZnZpRnplQkE2UEZjV3hFNjRnWmtCZVVXcVZCODZ5OG5vSXRQUkhKU09DUEVsOTlhN3BIcXpQcVJOMWJpVnlNbXZLUm5zekxmbFVqdVhDN1g4QW9pcGgzTGl3OHlCeWJWOERMd0tobjRQRFNSaGVZZEVJWWx4TGc5VklSWVgzb0lwcUJzRHozbUE2dEphZ1drNVdWZjBjUmlhRjREMFhDdThUNXl2SjFuX0N3XzFrWm43dHFLSEtWOHI3TkN4Um1OQzFsVEZvOF9PMUVlakhaRWpOV0hFYmVtWU85RTJtOFFoUTJFYUZXVDEwQkEyZ2NPTy1QNUdJalhMc1JQSDB4TWV2Sm9xWjBpeGdhTHR4NUlvRXV1WlBBZnFiQVJjY0s3cFlfczNXdWFEVDh1WGRObEQ4VVh6NFRBcmFJdzB0eFJJVDFJdHRkQ3oydFNfT2djZndTLUlKM0ZxaVI5OEtIYzIzNldvT0ZOd0NKblRNMHlGLThNUDREMnk3eURzcHdZRUVKNERtZUZLaEVhMEU4Nkpic09PcjZGOXJycnZTUEs4UmNPSzc1UFZlckRtY3c1TU1JRWN2UTd3TUFfVDJWdWQ4WW90dGlvMER2ZWQtVV9QRWlHN0hnYkRHcjdEckFrT3lOWkN5eXR2M25qZEgyeVVU?oc=5"
     },
     {
-      "title": "台股開盤》晶圓雙雄領跌 指數跌逾300點 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDSlhZTDJPYW01MjUyZ3F0SU1PNm9MR09tRkg2bnplbmhjQ3AtR1luZGVwSVh5bUh4TGlyZmliYUgxT1VqbTdpcFVCMjhONF9ONUlOdXR6eDJPZUoyN2VN?oc=5"
+      "title": "台股7月大跌不改散戶對半導體業信心虧損慘重仍逢低加碼| 股市要聞| 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94YWR6TFloUjgzX1M2bU5vdXYyNzZyUlltblp1LVNHZzRibUNNNFczQnhsNXdGZnEtMWx4M2x4Wm1IejlVWTYwdjNDSnhjb1JF?oc=5"
+    },
+    {
+      "title": "台股處置制度更新，樂觀看待流動性改善 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBha2wxV0ExWlg0YTBwVkI0MTZMb2JoZTRHNFZadkY0UUpod09md2tnY3JvNDUtdGE2WUpyd2FOZFl2V3dwYWJtN3Z5MA?oc=5"
     }
   ]
 }
