@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/06 17:09",
+  "updated_tw": "08/06 19:32",
   "taiwan": {
     "2330": {
       "price": 2365.0,
@@ -84,9 +84,9 @@
   },
   "fx": {
     "USDTWD": {
-      "price": 32.283,
-      "change": -0.1121,
-      "changePercent": -0.346
+      "price": 32.27,
+      "change": -0.1251,
+      "changePercent": -0.3862
     },
     "JPYTWD": {
       "price": 0.2023,
@@ -106,9 +106,9 @@
   },
   "gold": {
     "usd": 4320.7,
-    "twd": 4485.0,
-    "tael": 168171.0,
-    "twdTotal": 139485.0,
+    "twd": 4483.0,
+    "tael": 168103.0,
+    "twdTotal": 139429.0,
     "changePercent": 1.7641
   },
   "fed": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股收盤》SpaceX跌逾13％！道瓊創新高 台積電ADR走低 - 自由財經",
+      "title": "權值股腿軟小兵續衝！台股收跌214點 川湖成第3檔「萬金股」｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQQUZNWVpCN1VWUlpMaFRXTUJjYW9FMlVjNkVSdVNySjVFbjU0QjRKeE9QMFIyR00tNmJnX0JvRkpWb2Z3MEtQWHR2NHhfSzJuNVYydjM5VndNcU9EUFhXTFNiYjBrcjVCMDBONVZtRzRGTUZnRFFlZE5JT0lMYUNRRjlaTC1ycTBiOGRFdUYybDl0Um9UX1pwNzJRaEkydXY5MHFqNnk3Wm9SUkllLXVwOUdWVFNCM3FTOEdUM0ZscDhJZklDb0lhSzVjOG8yd0hFT0IyYW9DQkcxTWRRdWs2UDFZZjVwMjNNX1NIcWlwX2ZZM0tSY3NwcXE3cXZWRXYtUU1CLUZLd1pfVHE2QjZIWHU0UEZWclNlemoyc2dtQzBybThNaHdpTkR0UUpOeHI5dlFPSGVSQ1BjTjhsQjBtVk90V1pwdXBlcjFGVWg4VmxmUFFiUDVKRWxMSTRjNHhhWkxkNXlKd1JmMUd1SDZPbnAzb2hyaEtEV1cyX28tb2FfYWdGZFh0cXZWSEF0M1dZejJlaXd4a1Vwa1pwQlJCTTZVOGJZdzRaNTZ6S0EtckR0TExRdV9JQU1KU0tKM0w4NEFRR0VwY2tHaTViTWtVVA?oc=5"
+    },
+    {
+      "title": "美股收盤》SpaceX跌逾13％！道瓊創新高 台積電ADR走低 - ec.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92UlQzMUpFSjBBYkN6VDJFZDlERzI2V25ubmtuQ0ZsOFBJcjJXUmF2c004Sk5aZkdsM0dqUDhnXzVUTWd5TGNhQUVUTWlEemtybmJ2b1BJelM4M0VMREdr?oc=5"
     },
     {
-      "title": "2檔黃金ETF暴衝 最強一周漲逾一成 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSklBZHN2MFFPZWVYdjZxUkowMkJlUnloVmtFbkdVTk8wOHBYUW4tMkg4RHFwUDF0OERYUm03c0tIQlRJMTcxRGQxTkRmVzNSMmZJM2N3bExJY2lyRVFUQ1B4RTNCVDFWdlRMakVBLU9sR29ZWnBBNXM0dE4xVkJCck9wS2c1R3dWM2JwNXdfTXlaT1lzb0pHVzZvV0lTQ3EzUTVjaWNsdU9GVzhxNHZGVE5uMlpuUDFCTkdHQS1NVGdSNHJPX3MtYmNqNVJFNnhfdFdTelEzeWlYdm9pNEFqYjZyM3ZqNTNTTFI2OWJveHdJX3Zqamx6VDE4ZjVPUQ?oc=5"
+      "title": "〈美股盤後〉SpaceX財報後狂瀉逾13% 道瓊改寫新高 標普、那指終止連四漲 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrWjg0M3RKSW9xUmxZa3pQWmR6VU5VcVBOOFVfQ1FWTzhUMHZyVzV2LWRjekhLLWwtRG9zNjlCNUFZOGxmZVVOeHVIWEczTzg?oc=5"
     },
     {
-      "title": "台股高價股撐盤再現雙萬金量縮跌214點守住季線| 證券 - 中央社 CNA",
+      "title": "台股早盤一度重挫近600點 南韓股市再度觸發熔斷 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QV3FzTkRkLXJ2ZlNyRmw2Y0tKSlpsSmlvZVNpMFlUZWg3Y3Btekh4V19ZcmdPR3Z1Um9DWmFtaE1CVlhKWUcyMlh2clhjTHM?oc=5"
+    },
+    {
+      "title": "台股高價股撐盤再現雙萬金量縮跌214點守住季線| 證券 - cna.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JblM2WDVBekZvUEN6eGxQMFJmNVJ6YjdxWkJMd21rbE9rMXNsRjg2b0JMbDZzbUdoRlZHWjhNY1NvRDI4TTlWcGNwMkxIMmVaMVBXTGtRdE1oVG5PR1E?oc=5"
-    },
-    {
-      "title": "美股ETF怎麼選？從人氣ETF到009826、VT比較，一次看懂布局重點！ - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBENmxfMmdLOXdSX2prYnlaNkhuVktNMHI1WW5TX2ZQWTJYZUpDX1RRSjZNd0NKZkMzbjZQT2hnTkFZSUZxYTVQTFQ4N1NtcmM?oc=5"
     },
     {
       "title": "台股大修正誰最抗跌？正2與高股息跌幅大公開股添樂歪樓：買元大金也不錯| 存股族愛ETF | 股市 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnQlVSRVJhSEJwQm1ONWhnd1dhbGFORlQ5T2Y1Z01GMUxxNXlHbF9la1BvUXB2a2hOUnhGYUE0SUlNX3RJaUlsWGZGcWhiZmRoLV84?oc=5"
     },
     {
-      "title": "【Hot台股】台股摔近600點拉回平盤...網喊話「鬼月還沒到」 分析師看多：僅壓力測試 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxQNlMtZnZpRnplQkE2UEZjV3hFNjRnWmtCZVVXcVZCODZ5OG5vSXRQUkhKU09DUEVsOTlhN3BIcXpQcVJOMWJpVnlNbXZLUm5zekxmbFVqdVhDN1g4QW9pcGgzTGl3OHlCeWJWOERMd0tobjRQRFNSaGVZZEVJWWx4TGc5VklSWVgzb0lwcUJzRHozbUE2dEphZ1drNVdWZjBjUmlhRjREMFhDdThUNXl2SjFuX0N3XzFrWm43dHFLSEtWOHI3TkN4Um1OQzFsVEZvOF9PMUVlakhaRWpOV0hFYmVtWU85RTJtOFFoUTJFYUZXVDEwQkEyZ2NPTy1QNUdJalhMc1JQSDB4TWV2Sm9xWjBpeGdhTHR4NUlvRXV1WlBBZnFiQVJjY0s3cFlfczNXdWFEVDh1WGRObEQ4VVh6NFRBcmFJdzB0eFJJVDFJdHRkQ3oydFNfT2djZndTLUlKM0ZxaVI5OEtIYzIzNldvT0ZOd0NKblRNMHlGLThNUDREMnk3eURzcHdZRUVKNERtZUZLaEVhMEU4Nkpic09PcjZGOXJycnZTUEs4UmNPSzc1UFZlckRtY3c1TU1JRWN2UTd3TUFfVDJWdWQ4WW90dGlvMER2ZWQtVV9QRWlHN0hnYkRHcjdEckFrT3lOWkN5eXR2M25qZEgyeVVU?oc=5"
+      "title": "黃金突破下跌趨勢，現在該買嗎？ - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04bnRpaDI4c3UtOERsbUNzRERPNlVmakJtSEpaT016UWdIWi01cm5BNVQyd2g5b0ZQVS1QZGVIX0YwS2NXR25RV0o5U3pRZw?oc=5"
     },
     {
-      "title": "台股7月大跌不改散戶對半導體業信心虧損慘重仍逢低加碼| 股市要聞| 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94YWR6TFloUjgzX1M2bU5vdXYyNzZyUlltblp1LVNHZzRibUNNNFczQnhsNXdGZnEtMWx4M2x4Wm1IejlVWTYwdjNDSnhjb1JF?oc=5"
-    },
-    {
-      "title": "台股處置制度更新，樂觀看待流動性改善 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBha2wxV0ExWlg0YTBwVkI0MTZMb2JoZTRHNFZadkY0UUpod09md2tnY3JvNDUtdGE2WUpyd2FOZFl2V3dwYWJtN3Z5MA?oc=5"
+      "title": "2檔黃金ETF暴衝 最強一周漲逾一成 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSklBZHN2MFFPZWVYdjZxUkowMkJlUnloVmtFbkdVTk8wOHBYUW4tMkg4RHFwUDF0OERYUm03c0tIQlRJMTcxRGQxTkRmVzNSMmZJM2N3bExJY2lyRVFUQ1B4RTNCVDFWdlRMakVBLU9sR29ZWnBBNXM0dE4xVkJCck9wS2c1R3dWM2JwNXdfTXlaT1lzb0pHVzZvV0lTQ3EzUTVjaWNsdU9GVzhxNHZGVE5uMlpuUDFCTkdHQS1NVGdSNHJPX3MtYmNqNVJFNnhfdFdTelEzeWlYdm9pNEFqYjZyM3ZqNTNTTFI2OWJveHdJX3Zqamx6VDE4ZjVPUQ?oc=5"
     }
   ]
 }
