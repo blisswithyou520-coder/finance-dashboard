@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/08 03:33",
+  "updated_tw": "08/08 04:21",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -35,68 +35,68 @@
   },
   "us": {
     "NVDA": {
-      "price": 222.451,
-      "change": 3.461,
-      "changePercent": 1.5804
+      "price": 223.96,
+      "change": 4.97,
+      "changePercent": 2.2695
     },
     "AAPL": {
-      "price": 313.22,
-      "change": 0.81,
-      "changePercent": 0.2593
+      "price": 313.33,
+      "change": 0.92,
+      "changePercent": 0.2945
     },
     "TSLA": {
-      "price": 327.952,
-      "change": 8.422,
-      "changePercent": 2.6357
+      "price": 328.58,
+      "change": 9.05,
+      "changePercent": 2.8323
     },
     "QQQ": {
-      "price": 721.895,
-      "change": 7.245,
-      "changePercent": 1.0138
+      "price": 723.03,
+      "change": 8.38,
+      "changePercent": 1.1726
     },
     "SPY": {
-      "price": 772.875,
-      "change": 4.315,
-      "changePercent": 0.5614
+      "price": 773.22,
+      "change": 4.66,
+      "changePercent": 0.6063
     },
     "SCHD": {
-      "price": 33.875,
-      "change": 0.175,
-      "changePercent": 0.5193
+      "price": 33.9,
+      "change": 0.2,
+      "changePercent": 0.5935
     },
     "VOO": {
-      "price": 710.452,
-      "change": 4.052,
-      "changePercent": 0.5736
+      "price": 710.71,
+      "change": 4.31,
+      "changePercent": 0.6101
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64939.14,
-      "change": 677.0267,
-      "changePercent": 1.0535
+      "price": 64915.26,
+      "change": 653.1467,
+      "changePercent": 1.0164
     },
     "ETH": {
-      "price": 1917.25,
-      "change": 15.1925,
-      "changePercent": 0.7987
+      "price": 1915.37,
+      "change": 13.3125,
+      "changePercent": 0.6999
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.25,
-      "change": -0.0148,
-      "changePercent": -0.0459
+      "price": 32.242,
+      "change": 0.0352,
+      "changePercent": 0.1093
     },
     "JPYTWD": {
-      "price": 0.2026,
-      "change": -0.0021,
-      "changePercent": -1.0452
+      "price": 0.2022,
+      "change": -0.0011,
+      "changePercent": -0.5401
     },
     "EURTWD": {
-      "price": 37.354,
-      "change": 0.0636,
-      "changePercent": 0.1705
+      "price": 37.309,
+      "change": 0.1916,
+      "changePercent": 0.5161
     },
     "CNYTWD": {
       "price": 4.7834,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4409.0,
-    "twd": 4572.0,
-    "tael": 171432.0,
-    "twdTotal": 142190.0,
-    "changePercent": 3.9368
+    "usd": 4398.8,
+    "twd": 4560.0,
+    "tael": 170993.0,
+    "twdTotal": 141826.0,
+    "changePercent": 3.6964
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,19 +129,19 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2WGlyS2xVYXBxX0tjbkxBdllCbFZSb1BZcC1uY0YxcW9iRUVLNkh5amo2VlRqdU9GZE1ERWk5NUc2OTVXdHRmRlp5eVk0UQ?oc=5"
     },
     {
-      "title": "【0807台股盤後】川普變數+非農前夕，台股震盪洗盤回守均線，哪些族群表現強勢？營收創高模範生:上銀、鼎元、聯茂 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNVmxjdzVYVE9GSWhGYmtHblNTMTg4dnRPQU03Z0prRzZyY3NGWllpa3FHeUZ0NmJHS0pCbHROT3J5S2dxYWZCWktRVHVIN0xQX0FfMW9USF8xX1BkdkJCSC1vOEVIeHRkUnZOVFdSaEFkRmozRlFZRlpkRVVGYkxqbWprdTQwRjNOME9iX3pPQzZJRWdNdU1UN2hZVWxvQWNsb3hNdGRlQXZOalg5YXViQk5nZVNYRWVjbm03OWlOQ194SlZmU3VnTXlwemFEZ09LUFpndzRpb0gtRW9MQjZpTzhCVEp0aGRTNWI2ekpNQjUzd1lVS1dvcTY0aVU5LTJoNVlRaUJnMEVtN3N3NzZROThycTRVTkNIbndDY2NMYlFNRHRabDIwVE8tMEdUNkdWQkZxWmJXLW0zSWRUSHFzVGRzakhCS050ajlJa1hoVEdZalRhSXBNV212Z0JkN25MRmdQUDBWZDJMYm1NelJuNWRWbkZzSmw2QjZzWHRRT2Y0V2JyOFJXTHd2NG4tNkRoZUdVZGtRQUM0M0puSmQ2LTBtVURlcHdpakdfQTZRVEswOXY0TDdVUlBXYzM3Z1ZfTjJpYXhLSXVMdGNuajd6UmdqQXh3YWEtYlFCMmhxX1dlV1hsX2ttWHlESmxKVU9UOUlrc3JNSzd0Nzd3YnNrUkRKcmdnMDlwMjFGYWlBRE1xS3Q4MnZhN24xeHFzOFpFUWw5OGYzRVlXOUZabkJ3YjBhcF90bGxjUnI2TFhjbWFiV3lPcUMybnVNcFladnhoTlQ5Q2thYVNqNVpNVDJxWlp4cEZMUXV6NWlPNEpoc2hUeGsybDlSZE1GNTZyN3NqTkNGSGRNM012SG5ROE96Rg?oc=5"
+      "title": "日圓干預後，美元與黃金會怎麼走？會影響科技股？資產連動一次看｜美股評析｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNSzN0VGhsd29jYTM4cDFUYm93Z1FRdUx1S3NYVjZSTktzdkx3dHBsaEFxWnZ6NTFEeU5IWkJGQk8zalB1aV9hTmVvY1RpN1hXbF9DaWVBYmJnWDdMVUJtTGctajlwSTJ5UEdaakdZYXgtN0YtNE1UaGlpVFFMRVhRaURPUWlfY0VmUjRMSVhxTHktdXY2R3d0bXZKRjVIWVNGSWViZ0taMXFyMFFhalBGUXQ3VjM4LWF4Rl8tUFAyNzFaVGhmaUFsUzc4allJazM5RHpnb0VlOUpibFJQOWVWeC1EN05YWTNvNVZGLUROUGw0UEI3MjFfdVg2eW15dy15dzVicXpSUmJGLUFsaHBiVjNkeV9WSEw2MGU5UWVab3VtM25TQ1FwRC1aekh0VHhQcGdLcXNURHhFODhvTXQ1ejcxS3Q3YWhpRXl6U042anpYeFV3amZvcHlaZ2RLcU1OdHZUZVF5alhieVZVNklTZWdaX3dVZy02eDdmR0dWcTRkWWJnSXRHMWZJU0EtTTdjc3dpcEk0X2dhY0luNFpQRWNIeTNLRl9ZdV90U2NUdUFNTUxuX3R5c2NBNDdyallWaXltd1lnMDVkZl83QWZCNVEySXdPSnNMOVdsV2ZBblB5TUFvVTE4S2lKWWpXWXM1OU8yM1Jn?oc=5"
     },
     {
       "title": "從估值擴張到基本面驗證：第三季美股進入新的考驗 - CME Group",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zU0NhR2pOWlpCMTJtNF9mRkpkTE5kYWw0M281amstVkpSTkFhQ19wQ1VhLW1uRGVnWURUeFowbmFpTURaQlN6NDhmWkdkcGxUNmhGVUJzb3V3b0ZzZmZWTVk0WVRDMVhlMDU4WkFiR2dON2h3bmxzOTM1MVM5c2c?oc=5"
     },
     {
-      "title": "美股開盤「費半上攻逾300點」！台積電ADR跟著上漲 - ETtoday財經雲",
+      "title": "美股開盤「費半上攻逾300點」！台積電ADR跟著上漲 - finance.ettoday.net",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iRWRNcW56VEFnd0JSQlhGNTdfdUh6ODdwd1ZYQjJvNnFCQl9BZEU2NXpMWWRLYnJNMTBMVXY5ZU9LZlduNURVYzhUcEJLdkY1NWfSAVBBVV95cUxPMjJHcnVtVWl1NF81cG1ISmRRTGR4Y0JpLWoyMnFhR1FWYzMyNXlKdi1WV2NEeXI3Um1feGhSc182XzdWUTkwRUtxWEhybDFSNQ?oc=5"
     },
     {
-      "title": "《強勢美股特報》ABNB,LITE,NOW,UBER等10檔 - ttv.com.tw",
+      "title": "《強勢美股特報》ABNB,LITE,NOW,UBER等10檔 - 台視全球資訊網",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLUsxU3NTYUFQMVlkMEFQN3NQd2laWVdLRlpGdUl5cjJON0ZoMUdWNkMxQWI2N3pUYTdLRDl6Szg5OWxLSlpqT3dZRnQ2STRYVEplX2E3SkRMcUZVZG5BRDBsd3BGTW9KNGgtcTZ4QXJaMWRYVVlIN2JZOWNFcU5GN280Y1lHTnJVZzc0NlpBcV9ZZw?oc=5"
     },
     {
