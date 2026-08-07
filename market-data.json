@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/07 17:15",
+  "updated_tw": "08/07 18:25",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64692.5,
-      "change": 430.3867,
-      "changePercent": 0.6697
+      "price": 64766.51,
+      "change": 504.3967,
+      "changePercent": 0.7849
     },
     "ETH": {
-      "price": 1911.21,
-      "change": 9.1525,
-      "changePercent": 0.4812
+      "price": 1911.77,
+      "change": 9.7125,
+      "changePercent": 0.5106
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.26,
-      "change": -0.0048,
-      "changePercent": -0.0149
+      "price": 32.262,
+      "change": -0.0028,
+      "changePercent": -0.0087
     },
     "JPYTWD": {
       "price": 0.2015,
@@ -94,22 +94,22 @@
       "changePercent": -1.5825
     },
     "EURTWD": {
-      "price": 37.224,
-      "change": -0.0664,
-      "changePercent": -0.1781
+      "price": 37.236,
+      "change": -0.0544,
+      "changePercent": -0.146
     },
     "CNYTWD": {
-      "price": 4.7865,
+      "price": 4.7856,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4365.1,
-    "twd": 4527.0,
-    "tael": 169778.0,
-    "twdTotal": 140818.0,
-    "changePercent": 2.9019
+    "usd": 4367.6,
+    "twd": 4530.0,
+    "tael": 169886.0,
+    "twdTotal": 140908.0,
+    "changePercent": 2.9609
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股收盤》市場緊盯財報、中東局勢！道瓊跌464點 台積電ADR漲逾1％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaUmp4QTlaczdoLUN4MS1wTGpscmplSGp2M1dRVHFSaWk2Y0FjTTFSR3NnYlhnTDIxMUF4NjNEdkRWTGV2aWxMYkpxWURWY0FXZk9FVk1pSHNxMnpZR2dF?oc=5"
-    },
-    {
       "title": "美股開盤「冰火兩重天」！那指下跌94點 輝達、台積電逆勢走高 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQRjd6Q0dXVGsxNzJMcEdpZzNfVDdJdjFjdEVfR3QwVl84QkVHT1JjSDIwX0xyMTgxRllwV3lZVWwtbEJWM0xmYlE3b2o5NTAzeFB5bWtGRzJ6em1vWUpSdU1OWDNfaGRxYWpYRXVnYTFSbVpEWlBLc3cwTkVtSUVHYTc5dkU0SFpZX2lSTDYtdXpFdGdfTXVHU2owNVg2ZWZkU1Y1RlZhclU5U3hBUEk0eW9DU0dNaG1PMjJ1VVBCLWRQZUFZUkwtS1M2V3c4RURKT1ZkanVTRGlQT1ctM3lBN3U5bVhnel80NVJsMU5VME9LSHhmLUl5RFpoVVpwazJhNjVqeDQ5ai1DZjc5XzBSUXpfTXgtUlg3eGFGdmNQdndnR2RwUVVCdjFLU1EydFV4ekdVd0Q5VktSTUZ2T3VzUWpZQUg5QUtpQUZkS2tqTnhTcnhIS3Z1WURCdDlOVGhnZ0d1SVdXd2xUbkF6UXgyTk1FZW5vU28?oc=5"
+    },
+    {
+      "title": "美股收盤》市場緊盯財報、中東局勢！道瓊跌464點 台積電ADR漲逾1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaUmp4QTlaczdoLUN4MS1wTGpscmplSGp2M1dRVHFSaWk2Y0FjTTFSR3NnYlhnTDIxMUF4NjNEdkRWTGV2aWxMYkpxWURWY0FXZk9FVk1pSHNxMnpZR2dF?oc=5"
     },
     {
       "title": "日圓干預後，美元與黃金會怎麼走？會影響科技股？資產連動一次看｜美股評析｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNSzN0VGhsd29jYTM4cDFUYm93Z1FRdUx1S3NYVjZSTktzdkx3dHBsaEFxWnZ6NTFEeU5IWkJGQk8zalB1aV9hTmVvY1RpN1hXbF9DaWVBYmJnWDdMVUJtTGctajlwSTJ5UEdaakdZYXgtN0YtNE1UaGlpVFFMRVhRaURPUWlfY0VmUjRMSVhxTHktdXY2R3d0bXZKRjVIWVNGSWViZ0taMXFyMFFhalBGUXQ3VjM4LWF4Rl8tUFAyNzFaVGhmaUFsUzc4allJazM5RHpnb0VlOUpibFJQOWVWeC1EN05YWTNvNVZGLUROUGw0UEI3MjFfdVg2eW15dy15dzVicXpSUmJGLUFsaHBiVjNkeV9WSEw2MGU5UWVab3VtM25TQ1FwRC1aekh0VHhQcGdLcXNURHhFODhvTXQ1ejcxS3Q3YWhpRXl6U042anpYeFV3amZvcHlaZ2RLcU1OdHZUZVF5alhieVZVNklTZWdaX3dVZy02eDdmR0dWcTRkWWJnSXRHMWZJU0EtTTdjc3dpcEk0X2dhY0luNFpQRWNIeTNLRl9ZdV90U2NUdUFNTUxuX3R5c2NBNDdyallWaXltd1lnMDVkZl83QWZCNVEySXdPSnNMOVdsV2ZBblB5TUFvVTE4S2lKWWpXWXM1OU8yM1Jn?oc=5"
     },
     {
+      "title": "那斯達克拍板年底開跑 23 小時交易：美股一天只休 1 小時，向全日無休交易邁進 - blocktempo.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDRyWkpPSUZ0OHcySURxRk9mLUo3UlhMcERuWTZ2OUJSMlhsZVl1VnBkWl9sQ3RlaHJPZVJ5UEtUenJ0RHJkT25TbkFjVzM1WmxxMEpRdjduMnZMYkh1aFdVdjRuMGxXRGVBSjlwYVNVbU9yMERnLVBXWHRydWdHS0NRS2ZVVzFNTDRqRnUyQQ?oc=5"
+    },
+    {
       "title": "美股早盤／指數幾近平盤！那指、費半微漲 台積電ADR漲0.57% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3N25hemxvZFBZZERLc0Z5SkI0UnVDbUktd2g0SU9iTzVkSFNxNkRwTEVTQXYzbFlJS0Y5ZFVZZkg5RnoyN1NrNXQ1S3lXV2VY?oc=5"
     },
     {
-      "title": "台股開高走低震盪逾880點 終場失守季線收44225點 - 中央社 CNA",
+      "title": "台股開高走低震盪逾880點 終場失守季線收44225點 - cna.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NSjg4ZmtZc3RUWE80WWlYLUYwdV9fcW1QbDVtcWVKZXhhcGhKS2paQkxHNXBQaDFwM2oyb3lrclZjUG8xTHdjcENCcU9XRXJNSVVUTW5rSFJPS3RXRHc?oc=5"
     },
     {
-      "title": "獨／詐10億囤黃金暴增值3倍！律師：慈濟可望全額追回創司法史上第一例 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOeUFnVnR6bHRsVEkxandzbjZzUmFDQzFtSWc1b2FTOXYtcWVudloxbDlXVEJqdzRPNThQQjZBaC1nX3NDS0ExZElxODc1OVNtelBFLTdpa1lnYS1WUHRNdXpuQkl3dHRJdnBYMktMNU9rTlY0T0tEVkdIcngzZHgxaW9FOW9mRmV4dnBLa0dhN3ZGVVlkUEQ4dU5LTlFRcndNSm95NllsT3ZJYVR5cFFia3FFM2FyYWdYeUdGQ2lEenJYUndVYlNoX2djb3JRZDFwVThnNkxjUVJJZjljZGZUdzI0Z0l0dTZsUGJCYTA3ZFNwSldReUZKekh5UGNaRk9xaHpEV3pmeFB6dU52eHhHc1BJVlZQVUw3a19oOWZqQXl1TUVmeGc1cFpfdXAxeFpUbUVkczNHcWVzM3ZNdDhpdjZuQWdSV0tuLW15MUU3aWY5eUJMaUtCM205alFfUkItcjBDTHVob205TElIdnJuUERDazdJdlBvU0Fqa1lvWVdqWlJ1NTZvY2pmMHp3ZmdJVTBCaGxCODdkcGcyNzV0bg?oc=5"
+      "title": "《台股盤後》量縮收跌170點、失守季線；週K翻紅- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaEx0SEdBa1NLa0ZaOWh6QWpQM0tPMnRvTGsyakpBVFZtdGIybTg0cWF5dnNkTlVneE9HZUlsV1BDczMzVHVXUUlWSFk0QndJTnliNW9mSEtJcDJrWDJKMDc3SGVvN0NTQURjcVJ4X2U3QlZmS0xwRXRJc2RPZjRqZmlxVEE2em8wdHYtNmV5bVNpdw?oc=5"
     },
     {
-      "title": "美股盤後｜市場靜待非農就業數據公布，四大指數漲跌互見0807｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNTjFGTkRYVmN1V21Vbk5pVTRtRFZoUnBvMTZkRXpuR1dVNHJZR2NFRzJaZFlBSFFrNEQzdkZCekhwQkphdmp6U2lqWE1BNFRyb0FLV2hXd1RqOXF3UXBDOUNxcWRXRHhpcWpEemFJRk5Xb011ZldwdmFoMHdHdHRPaUZzWVlHVk83VUdCZ0VibDZ2MHBjX1BOV0FiQWMxeDAyY0hicWRnNTV6SzJveDRabTFmM3JHRld5TUF6VTFoWnJZZ0xTeTBwVlRCRXktbzNTVUxZWlBGWGZTS05NbXFYalNxN2pnYm9lTDdvWERSQkV4QTdWVXdOTHpTR05qbjllTXc5LWIxU3lUZDJBUlh2Y2I0Qjc2WUJiUVdkUnB3dVlMb2RwcmtCRTRzaGNRcGRGd3dwSEpLVHRaVmFYMjE2M3hqR1llQ1NueTM2R2duV1JJbUNZZFpSanNXZnJwNHdGcWtQYmN2eGFhb09DQjhXbjJkRDdJeG9sVklJNjhDdWhDV1YtajFwVTRxY1JpcjNWa1FfZXVFbnZnRHVITjBMRUh1dXE?oc=5"
-    },
-    {
-      "title": "瑞銀看好黃金後市 明年上半年金價目標上看5,200美元 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxTWNzczljMnEwZHNBRG9xMHVfX2RXMS1aVmNheW90ZkR5MVJHWXl5X3RSZWFYTmN2Y3RkYkhvNmtCZ01vMHpUcEhVRzNoNmU0RFhDVHdoS1UzQdIBX0FVX3lxTFAtNDZBdC1tTVhnRlN3WTBzckhBdzdIOU9ET3BJeHpJRGo3cXF6NlVYZDZoeEpxZFJjblpLMFpSQlhZbl92R1hkS2FEdzdJbml3UmJNZ3BMci01Q3JEVU40?oc=5"
+      "title": "台股量縮跌170點丟季線！川湖續演萬元漲停秀 機器人軍團逆風狂奔｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNbzNuMmxTdTdndEQ4YXVLSmRTTUxjTXg0ZGI1eUJwZEV2T202R1gta1lMZEI5TzVabVo1Ym5uUnlJNlItbXpHd005clRzdkw2WW5xVTlrVHB0a2pvTEJjY1psM0JSVENVbHZhQVFHUE1yNVFkQTBQa2NjNjl2VWdTY1hkaENXaFk4WXcza1V2NGwxTERnTDRkaFp2dEtWZ1d1YmNVdFloRklHQjVUTDlpcTlKY25oaXJtd3ZrT2NQOUR3YXA5azE4M3EzUzNGajQxbkhTZF9laWI5X1BzWVZoSXJqWmtGNTk5WTBtSDFmSnhSUlRzcGxQUTYxWWRmMzNVMGRhOVRHN1hWRmpDUG16WWhQTVlVS09nTmh2R2haV0JpODhYMUZXdHJJNy1oTEhaX052a2FzTTdwQmswWFVNMlhjd0NNeDNoNl9pSW56NU9pMkxtNHQ2blJZdTNZYkxrWDlfOWFmTkFrUURrTE1kelRLTmJETWliXzNwWnNJMk9XNTJKOHpiSnYwWnpIWnhFaHBKT3A4eExvWHkxWm52eUhDcHF2SURiZE1VRnJqM2tlUjlod3JOdTdFM3JkMm4wRnlMblpFRjJhQTBwT2hHRk53bWllQ2s3ekFBcERSbS1nSWpLU1h1NkV6VVZub3c5cS1F?oc=5"
     }
   ]
 }
