@@ -1,16 +1,16 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/07 11:38",
+  "updated_tw": "08/07 13:22",
   "taiwan": {
     "2330": {
-      "price": 2375.0,
-      "change": 10.0,
-      "changePercent": 0.4228
+      "price": 2370.0,
+      "change": 5.0,
+      "changePercent": 0.2114
     },
     "2454": {
-      "price": 3910.0,
-      "change": -10.0,
-      "changePercent": -0.2551
+      "price": 3895.0,
+      "change": -25.0,
+      "changePercent": -0.6378
     },
     "2317": {
       "price": 260.0,
@@ -18,19 +18,19 @@
       "changePercent": -1.7013
     },
     "0050": {
-      "price": 102.8,
-      "change": -0.24,
-      "changePercent": -0.2329
+      "price": 102.7,
+      "change": -0.6,
+      "changePercent": -0.5808
     },
     "00878": {
-      "price": 32.73,
-      "change": -0.42,
-      "changePercent": -1.267
+      "price": 32.76,
+      "change": -0.08,
+      "changePercent": -0.2436
     },
     "00919": {
-      "price": 29.65,
-      "change": -0.29,
-      "changePercent": -0.9686
+      "price": 29.75,
+      "change": 0.15,
+      "changePercent": 0.5068
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64264.84,
-      "change": -332.66,
-      "changePercent": -0.515
+      "price": 64149.02,
+      "change": -448.48,
+      "changePercent": -0.6943
     },
     "ETH": {
-      "price": 1898.0,
-      "change": -8.526,
-      "changePercent": -0.4472
+      "price": 1895.76,
+      "change": -10.766,
+      "changePercent": -0.5647
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.211,
-      "change": -0.0538,
-      "changePercent": -0.1667
+      "price": 32.205,
+      "change": -0.0598,
+      "changePercent": -0.1853
     },
     "JPYTWD": {
-      "price": 0.2011,
-      "change": -0.0036,
-      "changePercent": -1.7779
+      "price": 0.2012,
+      "change": -0.0035,
+      "changePercent": -1.729
     },
     "EURTWD": {
-      "price": 37.146,
-      "change": -0.1444,
-      "changePercent": -0.3873
+      "price": 37.16,
+      "change": -0.1304,
+      "changePercent": -0.3498
     },
     "CNYTWD": {
-      "price": 4.7798,
+      "price": 4.7806,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4315.6,
-    "twd": 4469.0,
-    "tael": 167598.0,
-    "twdTotal": 139010.0,
-    "changePercent": 1.644
+    "usd": 4328.5,
+    "twd": 4482.0,
+    "tael": 168067.0,
+    "twdTotal": 139399.0,
+    "changePercent": 2.0391
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,16 +121,16 @@
       "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQRjd6Q0dXVGsxNzJMcEdpZzNfVDdJdjFjdEVfR3QwVl84QkVHT1JjSDIwX0xyMTgxRllwV3lZVWwtbEJWM0xmYlE3b2o5NTAzeFB5bWtGRzJ6em1vWUpSdU1OWDNfaGRxYWpYRXVnYTFSbVpEWlBLc3cwTkVtSUVHYTc5dkU0SFpZX2lSTDYtdXpFdGdfTXVHU2owNVg2ZWZkU1Y1RlZhclU5U3hBUEk0eW9DU0dNaG1PMjJ1VVBCLWRQZUFZUkwtS1M2V3c4RURKT1ZkanVTRGlQT1ctM3lBN3U5bVhnel80NVJsMU5VME9LSHhmLUl5RFpoVVpwazJhNjVqeDQ5ai1DZjc5XzBSUXpfTXgtUlg3eGFGdmNQdndnR2RwUVVCdjFLU1EydFV4ekdVd0Q5VktSTUZ2T3VzUWpZQUg5QUtpQUZkS2tqTnhTcnhIS3Z1WURCdDlOVGhnZ0d1SVdXd2xUbkF6UXgyTk1FZW5vU28?oc=5"
     },
     {
-      "title": "美股收盤》市場緊盯財報、中東局勢！道瓊跌464點 台積電ADR漲逾1％ - 自由財經",
+      "title": "美股盤後｜市場靜待非農就業數據公布，四大指數漲跌互見0807｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNTjFGTkRYVmN1V21Vbk5pVTRtRFZoUnBvMTZkRXpuR1dVNHJZR2NFRzJaZFlBSFFrNEQzdkZCekhwQkphdmp6U2lqWE1BNFRyb0FLV2hXd1RqOXF3UXBDOUNxcWRXRHhpcWpEemFJRk5Xb011ZldwdmFoMHdHdHRPaUZzWVlHVk83VUdCZ0VibDZ2MHBjX1BOV0FiQWMxeDAyY0hicWRnNTV6SzJveDRabTFmM3JHRld5TUF6VTFoWnJZZ0xTeTBwVlRCRXktbzNTVUxZWlBGWGZTS05NbXFYalNxN2pnYm9lTDdvWERSQkV4QTdWVXdOTHpTR05qbjllTXc5LWIxU3lUZDJBUlh2Y2I0Qjc2WUJiUVdkUnB3dVlMb2RwcmtCRTRzaGNRcGRGd3dwSEpLVHRaVmFYMjE2M3hqR1llQ1NueTM2R2duV1JJbUNZZFpSanNXZnJwNHdGcWtQYmN2eGFhb09DQjhXbjJkRDdJeG9sVklJNjhDdWhDV1YtajFwVTRxY1JpcjNWa1FfZXVFbnZnRHVITjBMRUh1dXE?oc=5"
+    },
+    {
+      "title": "美股收盤》市場緊盯財報、中東局勢！道瓊跌464點 台積電ADR漲逾1％ - ec.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaUmp4QTlaczdoLUN4MS1wTGpscmplSGp2M1dRVHFSaWk2Y0FjTTFSR3NnYlhnTDIxMUF4NjNEdkRWTGV2aWxMYkpxWURWY0FXZk9FVk1pSHNxMnpZR2dF?oc=5"
     },
     {
       "title": "美股早盤／指數幾近平盤！那指、費半微漲 台積電ADR漲0.57% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3N25hemxvZFBZZERLc0Z5SkI0UnVDbUktd2g0SU9iTzVkSFNxNkRwTEVTQXYzbFlJS0Y5ZFVZZkg5RnoyN1NrNXQ1S3lXV2VY?oc=5"
-    },
-    {
-      "title": "SNDK、WDC等美股記憶體，財報亮眼股價卻跌？台股聚焦哪幾檔「數字落地」個股？｜股市話題｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxOUWVtOTVBMU8tV2lBWHZQT0szeHpseGFSdDV0STY2RE5saDJSQmZscWxzd2VIRXJoeUtYQ196aVpVQm5qRVdadzMyUG1lV2xyZU4zZFRCZEw1cGY1NnRCRHBuaWNwNmFVZmlaQVFLZHJIYWt5b2xtRVNmTVRlVVdIbnNsTTdydEV6d05JeXRSZThuYWkyc3ZhakQ4WDZ1Qkx1eDlLOVZnOWVEZThkeWVBeW9aTEJha1hzd2ZRQ3U1bDl2SU1sclV0bDk3R1k5eXpobkxvYzlqYUFXMWlyWHRtYWVIZkJ6bGxPZUJwZ3BVSkdCejZNUFFSUWpnZFlCT2IzLWU2LU9qY3VzOUZ0eXUwQlRnaHppck5wM2g2SlRLZ2NocWdXUjFDLUZVTlNrZGpmYkdlT1o5ZlE2eDBwVTJPZDVydl8teFJRbVNfejNtUXNJOWYwTEVmOE1md0kzenpIX21VazNBYkdVQ1pQY0gtWExSVllDX2JCOGQ4U09wNm1LY1JiMFJPQlJDSV80N3pTajlEck51eEgxSVlsUDFOVXg4YkJyUmZyRVN6MVBJOEJ0UTJwX2FRbm4wR2xtN3BqMXI1TkZhdUpieVhsbnc5ZXQxQ3MzTFJ0bkRsU3FuUGhUeG5nYXdSMjlOcU9aajl3enFKdkpRUzUzWGVxaU5mTDVqMA?oc=5"
     },
     {
       "title": "〈美股盤後〉油價走高拖累 標普收黑 道瓊跌逾450點終結連五紅 - news.cnyes.com",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUkFEWkVPWUdWS0lrek13NzRrYVl2Ung3eENNYVVvazZNelVpeFJSUVhIV3l4MUdlYWMxd29jdGNET3d2dktZR1JSajdmdFl1dVUzdmtJTHFmd2ZlUm5HbktJY0lwZWNmV25zTUljVXJmblAxZEtzRlVMMXBZRExfakNmUU5yOVc4bGdXXzI1WGR2QQ?oc=5"
     },
     {
-      "title": "台積電走揚 台股開高漲逾430點突破44800點 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrWm84TE5mWnhaWUg1RVo4OHhwUGJZX3E3TXJleFhJUFF6cS1sNllUcVc2ZHNBazcxRHZqV0hFdUgzOEl6bTlLT0FZQVYwVmR1N2tRSjltZC1WalpsQkE?oc=5"
+      "title": "台積電ADR小漲投顧：台股短期急漲留意季線攻防| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83RGhyaUNGRC1pUFNnUUNzelEwcFJuMzVzZXNOZ0ppank3OUlsS1N4NlpFLTJEZ19OX1J5eHdVUkZfMlFIYTJ2endmRmx4WjUzb3FzVVc0UVZrX2lwaUE?oc=5"
     },
     {
-      "title": "黃金暴漲「2個月最高」！他一口氣搬「15兩」變現260萬元：要買股票 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxORTZ5YkNkTnlrdXRuZzhVQ3FNWjlTakMyZzZncnRZNHROYnl5MnFwcTQtTWdDaXBXZzh0eWx5TG5KdXdhLW00YnlUUnRFY29QUGVrQ3lZWGFDaDlpcEx3NWdZRllRbHhMSDNjTWNhN29qUGpPQnRIS1lla19JTFctQmF4aHlMQ1pqejFMb3hvQkZMYVcwUHN6VzNGM20wTW5CM3VXWXBPTjdpV3hqWVBBVDJnaHlFcUF4X0d1SGtlWHZ0dzRURWxLZjk2QjJGNHIybERRc2Z4d0I2WUFqeDNHSWN2ZVB2MmZPVm94bzg4N2ZSOE1xSVFIRzc1Rk16eDRaakxKVVV0ZmtnR3NvYy1RTnpucUdMRENVRHFINEVHalFuaUZHQkhjUkU3YzVBeE9mWUZoRDNrOVJQT1ZIMTRaZE16a0xtR0ZMUDNidnNsRE1IZVpadXhKTUVTLXNNMmpMOGRXdlZ6eDNvZ1I5aEtVWEgweVhueFVKNTFKWVAtSVMtcFBocVpXNUE5RXlOdkZDc2swNjF1dzhQUkFpWVc0ZkRnaDNQc0JHS1dyX3k1SXhpbzQ?oc=5"
+      "title": "台塑四寶衝了！「新科萬金」又漲停 台股上漲330點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOeXlUNVlfZTZVT0l1VnNrY09aOXljVEpNb1htLWF1ZXNraWhDU3h2SUlNSFJpS3lWVG8wbTh0SUR0d1E1MXY4WkZvVDhRSDFLWXJvMmc5d0w3aHRuUXBfUkhMOXMyWDFzaXMwTFdidFFDUlJ5ZWIwOUtrZkpwYXN6a2twZTBQS2x4dzF0dFlNSEhrak1NeVR2aTBaSGRkVUs2OHNBOTFpdWZRbUdPV1ZmaVhQNURpMkRRazJsblZvaDFwanlHZ1BmTy1uSDItNUdoRXZlUmNnVmhMUEFlUjVYNE0xcW81R3ZEcmUwcTg3bXNlV3ZoUndsZ0lNSGpEWGliZzI0UGJDb1BENEVyd0ZvV002SkNUZTU0UXdSTkV4SU5BVjRtWU02S00yLUlBQWtXc0k3aV9WZG9tMHM?oc=5"
     }
   ]
 }
