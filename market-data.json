@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/08 04:21",
+  "updated_tw": "08/08 05:09",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -55,9 +55,9 @@
       "changePercent": 1.1726
     },
     "SPY": {
-      "price": 773.22,
-      "change": 4.66,
-      "changePercent": 0.6063
+      "price": 773.26,
+      "change": 4.7,
+      "changePercent": 0.6115
     },
     "SCHD": {
       "price": 33.9,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64915.26,
-      "change": 653.1467,
-      "changePercent": 1.0164
+      "price": 64938.52,
+      "change": 676.4067,
+      "changePercent": 1.0526
     },
     "ETH": {
-      "price": 1915.37,
-      "change": 13.3125,
-      "changePercent": 0.6999
+      "price": 1913.3,
+      "change": 11.2425,
+      "changePercent": 0.5911
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.242,
-      "change": 0.0352,
-      "changePercent": 0.1093
+      "price": 32.235,
+      "change": 0.0282,
+      "changePercent": 0.0876
     },
     "JPYTWD": {
-      "price": 0.2022,
-      "change": -0.0011,
-      "changePercent": -0.5401
+      "price": 0.2021,
+      "change": -0.0012,
+      "changePercent": -0.5893
     },
     "EURTWD": {
-      "price": 37.309,
-      "change": 0.1916,
-      "changePercent": 0.5161
+      "price": 37.304,
+      "change": 0.1866,
+      "changePercent": 0.5026
     },
     "CNYTWD": {
-      "price": 4.7834,
+      "price": 4.7815,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4398.8,
-    "twd": 4560.0,
-    "tael": 170993.0,
-    "twdTotal": 141826.0,
-    "changePercent": 3.6964
+    "usd": 4400.5,
+    "twd": 4561.0,
+    "tael": 171022.0,
+    "twdTotal": 141850.0,
+    "changePercent": 3.7364
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,12 +137,12 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zU0NhR2pOWlpCMTJtNF9mRkpkTE5kYWw0M281amstVkpSTkFhQ19wQ1VhLW1uRGVnWURUeFowbmFpTURaQlN6NDhmWkdkcGxUNmhGVUJzb3V3b0ZzZmZWTVk0WVRDMVhlMDU4WkFiR2dON2h3bmxzOTM1MVM5c2c?oc=5"
     },
     {
-      "title": "美股開盤「費半上攻逾300點」！台積電ADR跟著上漲 - finance.ettoday.net",
+      "title": "美股開盤「費半上攻逾300點」！台積電ADR跟著上漲 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iRWRNcW56VEFnd0JSQlhGNTdfdUh6ODdwd1ZYQjJvNnFCQl9BZEU2NXpMWWRLYnJNMTBMVXY5ZU9LZlduNURVYzhUcEJLdkY1NWfSAVBBVV95cUxPMjJHcnVtVWl1NF81cG1ISmRRTGR4Y0JpLWoyMnFhR1FWYzMyNXlKdi1WV2NEeXI3Um1feGhSc182XzdWUTkwRUtxWEhybDFSNQ?oc=5"
     },
     {
-      "title": "《強勢美股特報》ABNB,LITE,NOW,UBER等10檔 - 台視全球資訊網",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLUsxU3NTYUFQMVlkMEFQN3NQd2laWVdLRlpGdUl5cjJON0ZoMUdWNkMxQWI2N3pUYTdLRDl6Szg5OWxLSlpqT3dZRnQ2STRYVEplX2E3SkRMcUZVZG5BRDBsd3BGTW9KNGgtcTZ4QXJaMWRYVVlIN2JZOWNFcU5GN280Y1lHTnJVZzc0NlpBcV9ZZw?oc=5"
+      "title": "台股力守4萬4！法人研判持續震盪 逢低留意這些族群 - PChome Online 股市",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaUF1YlJ6bXBXdDNaUmJoaTBjSGFMVDQwS2cxRE42Qi0yd2tvVVZFRndzcnlBNmR3VDkyeFBEYkRMdVo3TElmTGFRcU5jWDZ1NmtjZl9FSjhrQjJHOVhXWHdKMnMtWnBqQ3liczF2UmNCSlFob3FoalhpWURrRkNvNQ?oc=5"
     },
     {
       "title": "台股開高走低收跌170點 台股錯失轉強機會？三條件找出長期好股 - Yahoo股市",
