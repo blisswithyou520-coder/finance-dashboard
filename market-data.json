@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/08 01:32",
+  "updated_tw": "08/08 02:29",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 221.85,
-      "change": 2.86,
-      "changePercent": 1.306
+      "price": 221.95,
+      "change": 2.96,
+      "changePercent": 1.3517
     },
     "AAPL": {
-      "price": 312.8,
-      "change": 0.39,
-      "changePercent": 0.1248
+      "price": 311.875,
+      "change": -0.535,
+      "changePercent": -0.1713
     },
     "TSLA": {
-      "price": 326.9,
-      "change": 7.37,
-      "changePercent": 2.3065
+      "price": 327.07,
+      "change": 7.54,
+      "changePercent": 2.3597
     },
     "QQQ": {
-      "price": 720.74,
-      "change": 6.09,
-      "changePercent": 0.8522
+      "price": 719.944,
+      "change": 5.294,
+      "changePercent": 0.7408
     },
     "SPY": {
-      "price": 771.99,
-      "change": 3.43,
-      "changePercent": 0.4463
+      "price": 771.502,
+      "change": 2.942,
+      "changePercent": 0.3828
     },
     "SCHD": {
-      "price": 33.895,
-      "change": 0.195,
-      "changePercent": 0.5786
+      "price": 33.88,
+      "change": 0.18,
+      "changePercent": 0.5341
     },
     "VOO": {
-      "price": 709.571,
-      "change": 3.171,
-      "changePercent": 0.4489
+      "price": 709.17,
+      "change": 2.77,
+      "changePercent": 0.3921
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64502.49,
-      "change": 240.3767,
-      "changePercent": 0.3741
+      "price": 64774.38,
+      "change": 512.2667,
+      "changePercent": 0.7972
     },
     "ETH": {
-      "price": 1906.45,
-      "change": 4.3925,
-      "changePercent": 0.2309
+      "price": 1911.57,
+      "change": 9.5125,
+      "changePercent": 0.5001
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.238,
-      "change": -0.0268,
-      "changePercent": -0.0831
+      "price": 32.244,
+      "change": -0.0208,
+      "changePercent": -0.0645
     },
     "JPYTWD": {
-      "price": 0.2026,
-      "change": -0.0021,
-      "changePercent": -1.0452
+      "price": 0.2024,
+      "change": -0.0023,
+      "changePercent": -1.1429
     },
     "EURTWD": {
-      "price": 37.316,
-      "change": 0.0256,
-      "changePercent": 0.0686
+      "price": 37.318,
+      "change": 0.0276,
+      "changePercent": 0.0739
     },
     "CNYTWD": {
-      "price": 4.7841,
+      "price": 4.7845,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4395.6,
-    "twd": 4556.0,
-    "tael": 170847.0,
-    "twdTotal": 141705.0,
-    "changePercent": 3.6209
+    "usd": 4396.4,
+    "twd": 4558.0,
+    "tael": 170910.0,
+    "twdTotal": 141758.0,
+    "changePercent": 3.6398
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,19 +125,19 @@
       "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxObm5oUExsZXJldzhqY19ZTXMxZnpza1FzQjVkQVVJVnZ1SW5EUVZRWjlEejVreVd2UXN6UUV1ZWlwNW5KX3J0TElUVl8tV3JyZnY3SE9Gakp0UHprcndwalg1aGhiSGQxOEpBV1Z1WnVXTWNWaExQVmUtb0piN3R5SmZTbXV0LUVYTHhEZV9yaVA3U25JbzhzWHFxc3NMMkdjbnZxU2szS1RpNzJJenJ4VEdBZF84amp1SEh3dDlZd3ZUVnZzOXB6cm9NQlF4dVZuMnY1LWZiN1RXN1F0LU9TaFBWT3NZY1V1S0s1OGVaWW54alkwM3ZDcDZxMVVXMTVEU1FsZl9Za3FCWl9YeWVmUXBHVXJmQ1M0a0ZlenNrbXZ5SWFHOVIyY29EMmJsVlRrNU9FUXdLUFZKdDFhb1ZLeUd5TWkyOHVFSS1oeGJ3Z0REZTVqM3hLNmUxdVh2MFBpTGlPVTl3?oc=5"
     },
     {
-      "title": "觀點：比特幣宏觀底部或已經形成，三大長線指標暗示周期底部 - cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaZ3Y0SjU0blg1bWo4R0ZuTFQ2NXlYVkFJcDRzVncycEJVQjZKQi1PNUxTc1ZQVndYdGtjbEd6Z0c2XzE3dm5zZGttZw?oc=5"
+      "title": "台股回神帳面還在賠！融資大戶也殺到怕，如何調整避險策略？ - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2WGlyS2xVYXBxX0tjbkxBdllCbFZSb1BZcC1uY0YxcW9iRUVLNkh5amo2VlRqdU9GZE1ERWk5NUc2OTVXdHRmRlp5eVk0UQ?oc=5"
     },
     {
-      "title": "【0807台股盤後】川普變數+非農前夕，台股震盪洗盤回守均線，哪些族群表現強勢？營收創高模範生:上銀、鼎元、聯茂 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNVmxjdzVYVE9GSWhGYmtHblNTMTg4dnRPQU03Z0prRzZyY3NGWllpa3FHeUZ0NmJHS0pCbHROT3J5S2dxYWZCWktRVHVIN0xQX0FfMW9USF8xX1BkdkJCSC1vOEVIeHRkUnZOVFdSaEFkRmozRlFZRlpkRVVGYkxqbWprdTQwRjNOME9iX3pPQzZJRWdNdU1UN2hZVWxvQWNsb3hNdGRlQXZOalg5YXViQk5nZVNYRWVjbm03OWlOQ194SlZmU3VnTXlwemFEZ09LUFpndzRpb0gtRW9MQjZpTzhCVEp0aGRTNWI2ekpNQjUzd1lVS1dvcTY0aVU5LTJoNVlRaUJnMEVtN3N3NzZROThycTRVTkNIbndDY2NMYlFNRHRabDIwVE8tMEdUNkdWQkZxWmJXLW0zSWRUSHFzVGRzakhCS050ajlJa1hoVEdZalRhSXBNV212Z0JkN25MRmdQUDBWZDJMYm1NelJuNWRWbkZzSmw2QjZzWHRRT2Y0V2JyOFJXTHd2NG4tNkRoZUdVZGtRQUM0M0puSmQ2LTBtVURlcHdpakdfQTZRVEswOXY0TDdVUlBXYzM3Z1ZfTjJpYXhLSXVMdGNuajd6UmdqQXh3YWEtYlFCMmhxX1dlV1hsX2ttWHlESmxKVU9UOUlrc3JNSzd0Nzd3YnNrUkRKcmdnMDlwMjFGYWlBRE1xS3Q4MnZhN24xeHFzOFpFUWw5OGYzRVlXOUZabkJ3YjBhcF90bGxjUnI2TFhjbWFiV3lPcUMybnVNcFladnhoTlQ5Q2thYVNqNVpNVDJxWlp4cEZMUXV6NWlPNEpoc2hUeGsybDlSZE1GNTZyN3NqTkNGSGRNM012SG5ROE96Rg?oc=5"
+      "title": "日圓干預後，美元與黃金會怎麼走？會影響科技股？資產連動一次看｜美股評析｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNSzN0VGhsd29jYTM4cDFUYm93Z1FRdUx1S3NYVjZSTktzdkx3dHBsaEFxWnZ6NTFEeU5IWkJGQk8zalB1aV9hTmVvY1RpN1hXbF9DaWVBYmJnWDdMVUJtTGctajlwSTJ5UEdaakdZYXgtN0YtNE1UaGlpVFFMRVhRaURPUWlfY0VmUjRMSVhxTHktdXY2R3d0bXZKRjVIWVNGSWViZ0taMXFyMFFhalBGUXQ3VjM4LWF4Rl8tUFAyNzFaVGhmaUFsUzc4allJazM5RHpnb0VlOUpibFJQOWVWeC1EN05YWTNvNVZGLUROUGw0UEI3MjFfdVg2eW15dy15dzVicXpSUmJGLUFsaHBiVjNkeV9WSEw2MGU5UWVab3VtM25TQ1FwRC1aekh0VHhQcGdLcXNURHhFODhvTXQ1ejcxS3Q3YWhpRXl6U042anpYeFV3amZvcHlaZ2RLcU1OdHZUZVF5alhieVZVNklTZWdaX3dVZy02eDdmR0dWcTRkWWJnSXRHMWZJU0EtTTdjc3dpcEk0X2dhY0luNFpQRWNIeTNLRl9ZdV90U2NUdUFNTUxuX3R5c2NBNDdyallWaXltd1lnMDVkZl83QWZCNVEySXdPSnNMOVdsV2ZBblB5TUFvVTE4S2lKWWpXWXM1OU8yM1Jn?oc=5"
     },
     {
-      "title": "從估值擴張到基本面驗證：第三季美股進入新的考驗 - CME Group",
+      "title": "從估值擴張到基本面驗證：第三季美股進入新的考驗 - cmegroup.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zU0NhR2pOWlpCMTJtNF9mRkpkTE5kYWw0M281amstVkpSTkFhQ19wQ1VhLW1uRGVnWURUeFowbmFpTURaQlN6NDhmWkdkcGxUNmhGVUJzb3V3b0ZzZmZWTVk0WVRDMVhlMDU4WkFiR2dON2h3bmxzOTM1MVM5c2c?oc=5"
     },
     {
-      "title": "美股收盤》市場緊盯財報、中東局勢！道瓊跌464點 台積電ADR漲逾1％ - 自由財經",
+      "title": "美股收盤》市場緊盯財報、中東局勢！道瓊跌464點 台積電ADR漲逾1％ - ec.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaUmp4QTlaczdoLUN4MS1wTGpscmplSGp2M1dRVHFSaWk2Y0FjTTFSR3NnYlhnTDIxMUF4NjNEdkRWTGV2aWxMYkpxWURWY0FXZk9FVk1pSHNxMnpZR2dF?oc=5"
     },
     {
