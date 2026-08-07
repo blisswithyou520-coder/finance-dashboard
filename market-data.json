@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/08 00:33",
+  "updated_tw": "08/08 01:32",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 222.297,
-      "change": 3.307,
-      "changePercent": 1.5101
+      "price": 221.85,
+      "change": 2.86,
+      "changePercent": 1.306
     },
     "AAPL": {
-      "price": 311.68,
-      "change": -0.73,
-      "changePercent": -0.2337
+      "price": 312.8,
+      "change": 0.39,
+      "changePercent": 0.1248
     },
     "TSLA": {
-      "price": 328.91,
-      "change": 9.38,
-      "changePercent": 2.9356
+      "price": 326.9,
+      "change": 7.37,
+      "changePercent": 2.3065
     },
     "QQQ": {
-      "price": 719.96,
-      "change": 5.31,
-      "changePercent": 0.743
+      "price": 720.74,
+      "change": 6.09,
+      "changePercent": 0.8522
     },
     "SPY": {
-      "price": 771.54,
-      "change": 2.98,
-      "changePercent": 0.3877
+      "price": 771.99,
+      "change": 3.43,
+      "changePercent": 0.4463
     },
     "SCHD": {
-      "price": 33.825,
-      "change": 0.125,
-      "changePercent": 0.3709
+      "price": 33.895,
+      "change": 0.195,
+      "changePercent": 0.5786
     },
     "VOO": {
-      "price": 709.205,
-      "change": 2.805,
-      "changePercent": 0.3971
+      "price": 709.571,
+      "change": 3.171,
+      "changePercent": 0.4489
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64900.74,
-      "change": 638.6267,
-      "changePercent": 0.9938
+      "price": 64502.49,
+      "change": 240.3767,
+      "changePercent": 0.3741
     },
     "ETH": {
-      "price": 1914.0,
-      "change": 11.9425,
-      "changePercent": 0.6279
+      "price": 1906.45,
+      "change": 4.3925,
+      "changePercent": 0.2309
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.24,
-      "change": -0.0248,
-      "changePercent": -0.0769
+      "price": 32.238,
+      "change": -0.0268,
+      "changePercent": -0.0831
     },
     "JPYTWD": {
-      "price": 0.2027,
-      "change": -0.002,
-      "changePercent": -0.9964
+      "price": 0.2026,
+      "change": -0.0021,
+      "changePercent": -1.0452
     },
     "EURTWD": {
-      "price": 37.322,
-      "change": 0.0316,
-      "changePercent": 0.0847
+      "price": 37.316,
+      "change": 0.0256,
+      "changePercent": 0.0686
     },
     "CNYTWD": {
-      "price": 4.7842,
+      "price": 4.7841,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4400.7,
-    "twd": 4562.0,
-    "tael": 171056.0,
-    "twdTotal": 141879.0,
-    "changePercent": 3.7412
+    "usd": 4395.6,
+    "twd": 4556.0,
+    "tael": 170847.0,
+    "twdTotal": 141705.0,
+    "changePercent": 3.6209
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,7 +117,7 @@
   },
   "news": [
     {
-      "title": "美股早盤／四大指數走高！就業意外爆冷提高Fed按兵不動可能性| 全球財經| 全球 | 聯合新聞網 - UDN",
+      "title": "美股早盤／四大指數走高！就業意外爆冷提高Fed按兵不動可能性| 全球財經| 全球 | 聯合新聞網 - udn",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IbGlzYTQxWkVPakRaVXJZQ2d3cVFZLV9rb2RXV3lLS3VRVFFmMkdzZXRLcGVTeFotR0hGVVBCSmpNczZlV3hrckdURjlEel82?oc=5"
     },
     {
@@ -125,7 +125,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxObm5oUExsZXJldzhqY19ZTXMxZnpza1FzQjVkQVVJVnZ1SW5EUVZRWjlEejVreVd2UXN6UUV1ZWlwNW5KX3J0TElUVl8tV3JyZnY3SE9Gakp0UHprcndwalg1aGhiSGQxOEpBV1Z1WnVXTWNWaExQVmUtb0piN3R5SmZTbXV0LUVYTHhEZV9yaVA3U25JbzhzWHFxc3NMMkdjbnZxU2szS1RpNzJJenJ4VEdBZF84amp1SEh3dDlZd3ZUVnZzOXB6cm9NQlF4dVZuMnY1LWZiN1RXN1F0LU9TaFBWT3NZY1V1S0s1OGVaWW54alkwM3ZDcDZxMVVXMTVEU1FsZl9Za3FCWl9YeWVmUXBHVXJmQ1M0a0ZlenNrbXZ5SWFHOVIyY29EMmJsVlRrNU9FUXdLUFZKdDFhb1ZLeUd5TWkyOHVFSS1oeGJ3Z0REZTVqM3hLNmUxdVh2MFBpTGlPVTl3?oc=5"
     },
     {
-      "title": "觀點：比特幣宏觀底部或已經形成，三大長線指標暗示周期底部 - 鉅亨網",
+      "title": "觀點：比特幣宏觀底部或已經形成，三大長線指標暗示周期底部 - cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaZ3Y0SjU0blg1bWo4R0ZuTFQ2NXlYVkFJcDRzVncycEJVQjZKQi1PNUxTc1ZQVndYdGtjbEd6Z0c2XzE3dm5zZGttZw?oc=5"
     },
     {
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaUmp4QTlaczdoLUN4MS1wTGpscmplSGp2M1dRVHFSaWk2Y0FjTTFSR3NnYlhnTDIxMUF4NjNEdkRWTGV2aWxMYkpxWURWY0FXZk9FVk1pSHNxMnpZR2dF?oc=5"
     },
     {
-      "title": "巨鯨「先定10個大目標」唱響比特幣多頭集結號：「最後上車的機會」 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jb01rOHBTX0U5Ukl2cUt5dW80cml3dTdhTHhPdWIyMHlxYzBfM1ZpaDJBMkxxc2FHTE1KT1MyR29TTy01QnBJN2Z4cw?oc=5"
+      "title": "美股開盤「費半上攻逾300點」！台積電ADR跟著上漲 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iRWRNcW56VEFnd0JSQlhGNTdfdUh6ODdwd1ZYQjJvNnFCQl9BZEU2NXpMWWRLYnJNMTBMVXY5ZU9LZlduNURVYzhUcEJLdkY1NWfSAVBBVV95cUxPMjJHcnVtVWl1NF81cG1ISmRRTGR4Y0JpLWoyMnFhR1FWYzMyNXlKdi1WV2NEeXI3Um1feGhSc182XzdWUTkwRUtxWEhybDFSNQ?oc=5"
     },
     {
-      "title": "美國7月非農「不增反減」！美股全線衝刺、台指期一度衝破45K - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOV0Y5T0VoeUF0U196QkItVnZBNm1OYXBfMmRrVlZEZVFWb2ZvX3UtMHdSTTNBX29kZjNmUmF6VUNvaXNGZVY4M21hWHhvUFpNci0xeTJyQlZwNDdYOE5xcTVFZFJZckUwVEFfQnlzc0Z3VmlaZ2tvSllMYWdXRFd0ZmRWYTUxSm9xMllQcXlVNGtla0JiaUxCQTBUTXVEc1gwNGs0eElweG11OE1SWFByMkhSckt5dGlNU2c2UEthUnpIT1B0bklsQjk0aHkxM2VxRjhTZVJRZFpHRlgzVTloTnA1THhTejk3bElXc1RQdVl6T1gzd0o5ZkxXVGU4Nlh2WklSX2lmMVZ0X2lmdHYyc0UwSVk2eTI4ZkVpSTdGSzBEcVlMc2ZSLWxlS01WX3k3NFZxLVRYTVJrNTRFaDNXdU1ITERnUWRBem5wWnRtVEdBY20zUjhGWTNhZGdoNzF3akE?oc=5"
+      "title": "《強勢美股特報》ABNB,LITE,NOW,UBER等10檔 - 台視全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLUsxU3NTYUFQMVlkMEFQN3NQd2laWVdLRlpGdUl5cjJON0ZoMUdWNkMxQWI2N3pUYTdLRDl6Szg5OWxLSlpqT3dZRnQ2STRYVEplX2E3SkRMcUZVZG5BRDBsd3BGTW9KNGgtcTZ4QXJaMWRYVVlIN2JZOWNFcU5GN280Y1lHTnJVZzc0NlpBcV9ZZw?oc=5"
     }
   ]
 }
