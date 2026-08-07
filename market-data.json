@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/08 05:55",
+  "updated_tw": "08/08 06:34",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64913.84,
-      "change": 651.7267,
-      "changePercent": 1.0142
+      "price": 64840.99,
+      "change": 578.8767,
+      "changePercent": 0.9008
     },
     "ETH": {
-      "price": 1915.76,
-      "change": 13.7025,
-      "changePercent": 0.7204
+      "price": 1913.68,
+      "change": 11.6225,
+      "changePercent": 0.611
     }
   },
   "fx": {
@@ -117,16 +117,12 @@
   },
   "news": [
     {
-      "title": "美股早盤／四大指數走高！就業意外爆冷提高Fed按兵不動可能性| 全球財經| 全球 | 聯合新聞網 - UDN",
+      "title": "美股早盤／四大指數走高！就業意外爆冷提高Fed按兵不動可能性| 全球財經| 全球 | 聯合新聞網 - udn",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IbGlzYTQxWkVPakRaVXJZQ2d3cVFZLV9rb2RXV3lLS3VRVFFmMkdzZXRLcGVTeFotR0hGVVBCSmpNczZlV3hrckdURjlEel82?oc=5"
     },
     {
       "title": "「聯準會短期不升息」帶動漲勢 美股三大指數開盤走高 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxObm5oUExsZXJldzhqY19ZTXMxZnpza1FzQjVkQVVJVnZ1SW5EUVZRWjlEejVreVd2UXN6UUV1ZWlwNW5KX3J0TElUVl8tV3JyZnY3SE9Gakp0UHprcndwalg1aGhiSGQxOEpBV1Z1WnVXTWNWaExQVmUtb0piN3R5SmZTbXV0LUVYTHhEZV9yaVA3U25JbzhzWHFxc3NMMkdjbnZxU2szS1RpNzJJenJ4VEdBZF84amp1SEh3dDlZd3ZUVnZzOXB6cm9NQlF4dVZuMnY1LWZiN1RXN1F0LU9TaFBWT3NZY1V1S0s1OGVaWW54alkwM3ZDcDZxMVVXMTVEU1FsZl9Za3FCWl9YeWVmUXBHVXJmQ1M0a0ZlenNrbXZ5SWFHOVIyY29EMmJsVlRrNU9FUXdLUFZKdDFhb1ZLeUd5TWkyOHVFSS1oeGJ3Z0REZTVqM3hLNmUxdVh2MFBpTGlPVTl3?oc=5"
-    },
-    {
-      "title": "glassnode：比特幣期權情緒正在改善，但長期下行保護需求仍高 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ldEdpWkdDakdZSkRsU1MxZmh1R3dxUW54QlFmTEVfSEkzN19ZRGxSaEZ6YlVpUGI5bkU0cEFxU0NlTlo5ZjgyMERmWQ?oc=5"
     },
     {
       "title": "台股回神帳面還在賠！融資大戶也殺到怕，如何調整避險策略？ - 天下雜誌",
@@ -139,6 +135,10 @@
     {
       "title": "從估值擴張到基本面驗證：第三季美股進入新的考驗 - CME Group",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zU0NhR2pOWlpCMTJtNF9mRkpkTE5kYWw0M281amstVkpSTkFhQ19wQ1VhLW1uRGVnWURUeFowbmFpTURaQlN6NDhmWkdkcGxUNmhGVUJzb3V3b0ZzZmZWTVk0WVRDMVhlMDU4WkFiR2dON2h3bmxzOTM1MVM5c2c?oc=5"
+    },
+    {
+      "title": "《強勢美股特報》ABNB,LITE,NOW,UBER等10檔 - 台視全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLUsxU3NTYUFQMVlkMEFQN3NQd2laWVdLRlpGdUl5cjJON0ZoMUdWNkMxQWI2N3pUYTdLRDl6Szg5OWxLSlpqT3dZRnQ2STRYVEplX2E3SkRMcUZVZG5BRDBsd3BGTW9KNGgtcTZ4QXJaMWRYVVlIN2JZOWNFcU5GN280Y1lHTnJVZzc0NlpBcV9ZZw?oc=5"
     },
     {
       "title": "黃金暴漲「2個月最高」！他一口氣搬「15兩」變現260萬元：要買股票 - Yahoo股市",
