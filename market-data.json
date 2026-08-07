@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/08 07:17",
+  "updated_tw": "08/08 07:58",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64848.43,
-      "change": 586.3167,
-      "changePercent": 0.9124
+      "price": 64888.04,
+      "change": 625.9267,
+      "changePercent": 0.974
     },
     "ETH": {
-      "price": 1914.72,
-      "change": 12.6625,
-      "changePercent": 0.6657
+      "price": 1913.24,
+      "change": 11.1825,
+      "changePercent": 0.5879
     }
   },
   "fx": {
@@ -125,14 +125,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IbGlzYTQxWkVPakRaVXJZQ2d3cVFZLV9rb2RXV3lLS3VRVFFmMkdzZXRLcGVTeFotR0hGVVBCSmpNczZlV3hrckdURjlEel82?oc=5"
     },
     {
-      "title": "美股收盤》Fed升息風險降低4大指數均收紅 台積電ADR漲0.44％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQeWpvVHdKZlpoM2JUeUpLQnFaZ0ZON1JramM1UEJxeFlidktNOFYwWlFtVEZuTXJFTWNfdkxxSDJ6TGpmNzdWWVM2Qm92MFNKRFRFYUc1UlN6MTJGcm9Z?oc=5"
-    },
-    {
-      "title": "台股回神帳面還在賠！融資大戶也殺到怕，如何調整避險策略？ - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2WGlyS2xVYXBxX0tjbkxBdllCbFZSb1BZcC1uY0YxcW9iRUVLNkh5amo2VlRqdU9GZE1ERWk5NUc2OTVXdHRmRlp5eVk0UQ?oc=5"
-    },
-    {
       "title": "【0807台股盤後】川普變數+非農前夕，台股震盪洗盤回守均線，哪些族群表現強勢？營收創高模範生:上銀、鼎元、聯茂 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNVmxjdzVYVE9GSWhGYmtHblNTMTg4dnRPQU03Z0prRzZyY3NGWllpa3FHeUZ0NmJHS0pCbHROT3J5S2dxYWZCWktRVHVIN0xQX0FfMW9USF8xX1BkdkJCSC1vOEVIeHRkUnZOVFdSaEFkRmozRlFZRlpkRVVGYkxqbWprdTQwRjNOME9iX3pPQzZJRWdNdU1UN2hZVWxvQWNsb3hNdGRlQXZOalg5YXViQk5nZVNYRWVjbm03OWlOQ194SlZmU3VnTXlwemFEZ09LUFpndzRpb0gtRW9MQjZpTzhCVEp0aGRTNWI2ekpNQjUzd1lVS1dvcTY0aVU5LTJoNVlRaUJnMEVtN3N3NzZROThycTRVTkNIbndDY2NMYlFNRHRabDIwVE8tMEdUNkdWQkZxWmJXLW0zSWRUSHFzVGRzakhCS050ajlJa1hoVEdZalRhSXBNV212Z0JkN25MRmdQUDBWZDJMYm1NelJuNWRWbkZzSmw2QjZzWHRRT2Y0V2JyOFJXTHd2NG4tNkRoZUdVZGtRQUM0M0puSmQ2LTBtVURlcHdpakdfQTZRVEswOXY0TDdVUlBXYzM3Z1ZfTjJpYXhLSXVMdGNuajd6UmdqQXh3YWEtYlFCMmhxX1dlV1hsX2ttWHlESmxKVU9UOUlrc3JNSzd0Nzd3YnNrUkRKcmdnMDlwMjFGYWlBRE1xS3Q4MnZhN24xeHFzOFpFUWw5OGYzRVlXOUZabkJ3YjBhcF90bGxjUnI2TFhjbWFiV3lPcUMybnVNcFladnhoTlQ5Q2thYVNqNVpNVDJxWlp4cEZMUXV6NWlPNEpoc2hUeGsybDlSZE1GNTZyN3NqTkNGSGRNM012SG5ROE96Rg?oc=5"
     },
@@ -141,12 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zU0NhR2pOWlpCMTJtNF9mRkpkTE5kYWw0M281amstVkpSTkFhQ19wQ1VhLW1uRGVnWURUeFowbmFpTURaQlN6NDhmWkdkcGxUNmhGVUJzb3V3b0ZzZmZWTVk0WVRDMVhlMDU4WkFiR2dON2h3bmxzOTM1MVM5c2c?oc=5"
     },
     {
-      "title": "升息疑慮消退！美股全面大漲 標普500再創歷史新高 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQaF9GeTJSdkFTNTdNV25uc05HTmtBNEQ5TWtUX2dOdWZBMVNvckJUTDhuWVBiRXczLXVWN21lNjlucVNycXdHejlhaElmbVhiS0RCMjE1Vlh4SEl6TzAxRFFpN1FyTVNqZTdZS3BKbGlUdUJXWDdjQm9xTjdhSktvdnNkZGk1RzdPdWRpT1g0OUdRb0JYSWpqc0szWVRoM2p3SDRGWDJvODBkNzA5QVJVWXB6empBeGxOc3ItNTFWQTYzdm8ySW1zbnBrVUZlX1BBN1RINGZ2MHpQMmktRUN4RTFacmhYTUNSZ0QwLUNFdGwxa2FBWkhyU1FjNmFreVA2VjZkemJ6WW5nZExwNGxBQzNDd0tQYVc5bkFFRWdRcVUyWVlxbzNkdU04cmFyZHRSRlI2TkhTUnNPYkhqWGxXSkRXQkdZUUh0eVhlR1kwTVYzQQ?oc=5"
+      "title": "星期一開盤噴爆？美股標普500創歷史新高 台指期夜盤大漲 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOSzNIcGN1RzNPY29jdHBjMFp2RDBNWG5KQlJqUkw1UkdzN09lZURQXzlUREdGUXRrc3NiM3RuVXZLd3AzcFhDUGo1R21SRXctd1RfUWJXV2tIdGZsNzJkQmtELW0tLVdwRmRVYldOeU5pMWlFeVBBZWpYUzg3czF4WC0wNTI5S2d3NzFUeGE3RU9EY3NMU1BRcml6NlNNanlXYk5hZ05JOHJWOHk1TWJFMFI2Q3F5R3AwZVB6LWlMbzNqTkp5N3ZhZEprdFByS29aalBXZmdHcURnTk0tc3dWRHppQkpFaktISk9iX0Q1cnlTTWN1dUFuVjNwd0RZa0VzX0lpeS1HdVJsSzNmbGY4S1h1THFYeGFNbk5Fa3dyYktjQ3paeks3OEo5d25UNzFMaks1NDk1UlVWTkJsb1p3NkJDeWc4dEJGVl8tbGJJeU9ZeC1EbHRjOVJjdENZdjdpN0EtdHBwM0Y1WHc?oc=5"
     },
     {
       "title": "日圓干預後，美元與黃金會怎麼走？會影響科技股？資產連動一次看｜美股評析｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNSzN0VGhsd29jYTM4cDFUYm93Z1FRdUx1S3NYVjZSTktzdkx3dHBsaEFxWnZ6NTFEeU5IWkJGQk8zalB1aV9hTmVvY1RpN1hXbF9DaWVBYmJnWDdMVUJtTGctajlwSTJ5UEdaakdZYXgtN0YtNE1UaGlpVFFMRVhRaURPUWlfY0VmUjRMSVhxTHktdXY2R3d0bXZKRjVIWVNGSWViZ0taMXFyMFFhalBGUXQ3VjM4LWF4Rl8tUFAyNzFaVGhmaUFsUzc4allJazM5RHpnb0VlOUpibFJQOWVWeC1EN05YWTNvNVZGLUROUGw0UEI3MjFfdVg2eW15dy15dzVicXpSUmJGLUFsaHBiVjNkeV9WSEw2MGU5UWVab3VtM25TQ1FwRC1aekh0VHhQcGdLcXNURHhFODhvTXQ1ejcxS3Q3YWhpRXl6U042anpYeFV3amZvcHlaZ2RLcU1OdHZUZVF5alhieVZVNklTZWdaX3dVZy02eDdmR0dWcTRkWWJnSXRHMWZJU0EtTTdjc3dpcEk0X2dhY0luNFpQRWNIeTNLRl9ZdV90U2NUdUFNTUxuX3R5c2NBNDdyallWaXltd1lnMDVkZl83QWZCNVEySXdPSnNMOVdsV2ZBblB5TUFvVTE4S2lKWWpXWXM1OU8yM1Jn?oc=5"
+    },
+    {
+      "title": "美股早盤／指數幾近平盤！那指、費半微漲台積電ADR漲0.57% | 全球財經| 全球 | 聯合新聞網 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3N25hemxvZFBZZERLc0Z5SkI0UnVDbUktd2g0SU9iTzVkSFNxNkRwTEVTQXYzbFlJS0Y5ZFVZZkg5RnoyN1NrNXQ1S3lXV2VY?oc=5"
+    },
+    {
+      "title": "升息疑慮消退！美股全面大漲 標普500再創歷史新高 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQaF9GeTJSdkFTNTdNV25uc05HTmtBNEQ5TWtUX2dOdWZBMVNvckJUTDhuWVBiRXczLXVWN21lNjlucVNycXdHejlhaElmbVhiS0RCMjE1Vlh4SEl6TzAxRFFpN1FyTVNqZTdZS3BKbGlUdUJXWDdjQm9xTjdhSktvdnNkZGk1RzdPdWRpT1g0OUdRb0JYSWpqc0szWVRoM2p3SDRGWDJvODBkNzA5QVJVWXB6empBeGxOc3ItNTFWQTYzdm8ySW1zbnBrVUZlX1BBN1RINGZ2MHpQMmktRUN4RTFacmhYTUNSZ0QwLUNFdGwxa2FBWkhyU1FjNmFreVA2VjZkemJ6WW5nZExwNGxBQzNDd0tQYVc5bkFFRWdRcVUyWVlxbzNkdU04cmFyZHRSRlI2TkhTUnNPYkhqWGxXSkRXQkdZUUh0eVhlR1kwTVYzQQ?oc=5"
     }
   ]
 }
