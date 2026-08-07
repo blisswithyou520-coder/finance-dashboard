@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/07 08:39",
+  "updated_tw": "08/07 11:38",
   "taiwan": {
     "2330": {
-      "price": 2365.0,
-      "change": -40.0,
-      "changePercent": -1.6632
+      "price": 2375.0,
+      "change": 10.0,
+      "changePercent": 0.4228
     },
     "2454": {
-      "price": 3920.0,
-      "change": -80.0,
-      "changePercent": -2.0
+      "price": 3910.0,
+      "change": -10.0,
+      "changePercent": -0.2551
     },
     "2317": {
-      "price": 264.5,
-      "change": 6.0,
-      "changePercent": 2.3211
+      "price": 260.0,
+      "change": -4.5,
+      "changePercent": -1.7013
     },
     "0050": {
-      "price": 103.3,
-      "change": -0.5,
-      "changePercent": -0.4817
+      "price": 102.8,
+      "change": -0.24,
+      "changePercent": -0.2329
     },
     "00878": {
-      "price": 32.84,
-      "change": 0.27,
-      "changePercent": 0.829
+      "price": 32.73,
+      "change": -0.42,
+      "changePercent": -1.267
     },
     "00919": {
-      "price": 29.6,
-      "change": 0.09,
-      "changePercent": 0.305
+      "price": 29.65,
+      "change": -0.29,
+      "changePercent": -0.9686
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64211.83,
-      "change": -385.67,
-      "changePercent": -0.597
+      "price": 64264.84,
+      "change": -332.66,
+      "changePercent": -0.515
     },
     "ETH": {
-      "price": 1899.68,
-      "change": -6.846,
-      "changePercent": -0.3591
+      "price": 1898.0,
+      "change": -8.526,
+      "changePercent": -0.4472
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.209,
-      "change": -0.0558,
-      "changePercent": -0.1729
+      "price": 32.211,
+      "change": -0.0538,
+      "changePercent": -0.1667
     },
     "JPYTWD": {
-      "price": 0.201,
-      "change": -0.0037,
-      "changePercent": -1.8267
+      "price": 0.2011,
+      "change": -0.0036,
+      "changePercent": -1.7779
     },
     "EURTWD": {
-      "price": 37.159,
-      "change": -0.1314,
-      "changePercent": -0.3525
+      "price": 37.146,
+      "change": -0.1444,
+      "changePercent": -0.3873
     },
     "CNYTWD": {
-      "price": 4.7736,
+      "price": 4.7798,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4301.4,
-    "twd": 4454.0,
-    "tael": 167036.0,
-    "twdTotal": 138544.0,
-    "changePercent": 1.3095
+    "usd": 4315.6,
+    "twd": 4469.0,
+    "tael": 167598.0,
+    "twdTotal": 139010.0,
+    "changePercent": 1.644
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,20 +129,20 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3N25hemxvZFBZZERLc0Z5SkI0UnVDbUktd2g0SU9iTzVkSFNxNkRwTEVTQXYzbFlJS0Y5ZFVZZkg5RnoyN1NrNXQ1S3lXV2VY?oc=5"
     },
     {
+      "title": "SNDK、WDC等美股記憶體，財報亮眼股價卻跌？台股聚焦哪幾檔「數字落地」個股？｜股市話題｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxOUWVtOTVBMU8tV2lBWHZQT0szeHpseGFSdDV0STY2RE5saDJSQmZscWxzd2VIRXJoeUtYQ196aVpVQm5qRVdadzMyUG1lV2xyZU4zZFRCZEw1cGY1NnRCRHBuaWNwNmFVZmlaQVFLZHJIYWt5b2xtRVNmTVRlVVdIbnNsTTdydEV6d05JeXRSZThuYWkyc3ZhakQ4WDZ1Qkx1eDlLOVZnOWVEZThkeWVBeW9aTEJha1hzd2ZRQ3U1bDl2SU1sclV0bDk3R1k5eXpobkxvYzlqYUFXMWlyWHRtYWVIZkJ6bGxPZUJwZ3BVSkdCejZNUFFSUWpnZFlCT2IzLWU2LU9qY3VzOUZ0eXUwQlRnaHppck5wM2g2SlRLZ2NocWdXUjFDLUZVTlNrZGpmYkdlT1o5ZlE2eDBwVTJPZDVydl8teFJRbVNfejNtUXNJOWYwTEVmOE1md0kzenpIX21VazNBYkdVQ1pQY0gtWExSVllDX2JCOGQ4U09wNm1LY1JiMFJPQlJDSV80N3pTajlEck51eEgxSVlsUDFOVXg4YkJyUmZyRVN6MVBJOEJ0UTJwX2FRbm4wR2xtN3BqMXI1TkZhdUpieVhsbnc5ZXQxQ3MzTFJ0bkRsU3FuUGhUeG5nYXdSMjlOcU9aajl3enFKdkpRUzUzWGVxaU5mTDVqMA?oc=5"
+    },
+    {
       "title": "〈美股盤後〉油價走高拖累 標普收黑 道瓊跌逾450點終結連五紅 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aME9lMTNPdW9zSGJfTGdJTmJIQWNHVXdmMFZDX1FCdVhwdkx1ZkVNOUVjYlRuNDJfbW92cHlLRmF4T2Njd21KYm4yNzA3T0U?oc=5"
     },
     {
-      "title": "《美股》油價漲、軟體股跳水 標普跌 SpaceX逆漲-新聞內容-基金 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQmhjaURkeWNXM1V6Q19PSzFpLXFDbk5PZmtoemM5RFVteDhJZ1RkWUpEcko5a2d6VXVtcnFBbHRkMC0zc3hxR1VfX3UtcnpnLUJRMzVZTmpuclI5aFI2VlZfbXZLZFZXaUhQLWItaG96NTdWblN3V3czZVU5dXNfNGNKVGwtNzgwNk9GWmJwYUQ?oc=5"
+      "title": "《美股》油價漲、軟體股跳水標普跌SpaceX逆漲- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUkFEWkVPWUdWS0lrek13NzRrYVl2Ung3eENNYVVvazZNelVpeFJSUVhIV3l4MUdlYWMxd29jdGNET3d2dktZR1JSajdmdFl1dVUzdmtJTHFmd2ZlUm5HbktJY0lwZWNmV25zTUljVXJmblAxZEtzRlVMMXBZRExfakNmUU5yOVc4bGdXXzI1WGR2QQ?oc=5"
     },
     {
-      "title": "美股道瓊跌464點　台指期夜盤反漲285點、台積電ADR漲1.01％ - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwclY0Sm9vNkh0Y1BHVUdYU2lNY0FiR1NGUUxoN0xrYWJHUHdpYnlXVVBIWGduQi1jVC1BOERoTWc2ekZjc3BFOTFNYWF3NlY2Q0HSAVBBVV95cUxOcjNOZlVvWVhwME9MVkJWQ3NodVdlejhzR1VhNGF0Q0IyZ2hLdE0zZ3RsclktUmdfTGthNW5SZHZMcVhnRFNZYl9RU290TmJGaQ?oc=5"
-    },
-    {
-      "title": "台股量縮震盪雙萬金逆勢再現- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wRml6dnpob3ctblo5SDJoM3B6aVVTVThnMmdxbVNoNFhsajZnMmZfRmhicDVySXNhYlppOFdXNmktYk9zVDFabWluUE16Zmo4cXAyYWJsMkgwVTlYZm9N?oc=5"
+      "title": "台積電走揚 台股開高漲逾430點突破44800點 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrWm84TE5mWnhaWUg1RVo4OHhwUGJZX3E3TXJleFhJUFF6cS1sNllUcVc2ZHNBazcxRHZqV0hFdUgzOEl6bTlLT0FZQVYwVmR1N2tRSjltZC1WalpsQkE?oc=5"
     },
     {
       "title": "黃金暴漲「2個月最高」！他一口氣搬「15兩」變現260萬元：要買股票 - Yahoo股市",
