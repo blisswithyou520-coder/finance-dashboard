@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/08 06:34",
+  "updated_tw": "08/08 07:17",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64840.99,
-      "change": 578.8767,
-      "changePercent": 0.9008
+      "price": 64848.43,
+      "change": 586.3167,
+      "changePercent": 0.9124
     },
     "ETH": {
-      "price": 1913.68,
-      "change": 11.6225,
-      "changePercent": 0.611
+      "price": 1914.72,
+      "change": 12.6625,
+      "changePercent": 0.6657
     }
   },
   "fx": {
@@ -117,12 +117,16 @@
   },
   "news": [
     {
-      "title": "美股早盤／四大指數走高！就業意外爆冷提高Fed按兵不動可能性| 全球財經| 全球 | 聯合新聞網 - udn",
+      "title": "就業意外爆冷！美股4大指數全收紅 那指漲342點、標普500創新高 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOa1hLMnBfMWVfZjFTQmx0c2w2T0EwM0NzOEFHaVNQb0UwT08tSHJVSG5ZNWo1c01jLTVOanFEZGxSV2dWenZ5cXZyajBfLWJfZ0lzT2ViSkgxUVdmT2I0ZFVSdmNQd1lYNWhwZENyamdzUW50NEdCN2xQZWJQUkE5eHdkQzRiRXhCMkRxZXZmQ0JraFJCeF92NTZnN2p0a1R0QW51UXJqR2ZIb2lDQW5zQXFJUzE1SEdpaVZfejBrTEUyY0kxc3NURjUxdWFuMHhKTGw5TmV2ejF3elZUbWRwTzVsTko5MjJsTE9QQ2ROeG9jR1pOZ1BDOHhTZ0MzQWFQM29PQUwtbkxnYUstcG8wNWE1SzlXcU84dHRHUzFRUi1kS1VZUDgwOTBVZHhpZGpHVTBuRzF2RGNDNm1WSUJNZ1RmWk9zc0dvUXZueXE0Skl6TlRYdUdGeTAwRGZBUzFSMk85NTlzenoteDlOckdEenFBX20?oc=5"
+    },
+    {
+      "title": "美股早盤／四大指數走高！就業意外爆冷提高Fed按兵不動可能性| 全球財經| 全球 | 聯合新聞網 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IbGlzYTQxWkVPakRaVXJZQ2d3cVFZLV9rb2RXV3lLS3VRVFFmMkdzZXRLcGVTeFotR0hGVVBCSmpNczZlV3hrckdURjlEel82?oc=5"
     },
     {
-      "title": "「聯準會短期不升息」帶動漲勢 美股三大指數開盤走高 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxObm5oUExsZXJldzhqY19ZTXMxZnpza1FzQjVkQVVJVnZ1SW5EUVZRWjlEejVreVd2UXN6UUV1ZWlwNW5KX3J0TElUVl8tV3JyZnY3SE9Gakp0UHprcndwalg1aGhiSGQxOEpBV1Z1WnVXTWNWaExQVmUtb0piN3R5SmZTbXV0LUVYTHhEZV9yaVA3U25JbzhzWHFxc3NMMkdjbnZxU2szS1RpNzJJenJ4VEdBZF84amp1SEh3dDlZd3ZUVnZzOXB6cm9NQlF4dVZuMnY1LWZiN1RXN1F0LU9TaFBWT3NZY1V1S0s1OGVaWW54alkwM3ZDcDZxMVVXMTVEU1FsZl9Za3FCWl9YeWVmUXBHVXJmQ1M0a0ZlenNrbXZ5SWFHOVIyY29EMmJsVlRrNU9FUXdLUFZKdDFhb1ZLeUd5TWkyOHVFSS1oeGJ3Z0REZTVqM3hLNmUxdVh2MFBpTGlPVTl3?oc=5"
+      "title": "美股收盤》Fed升息風險降低4大指數均收紅 台積電ADR漲0.44％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQeWpvVHdKZlpoM2JUeUpLQnFaZ0ZON1JramM1UEJxeFlidktNOFYwWlFtVEZuTXJFTWNfdkxxSDJ6TGpmNzdWWVM2Qm92MFNKRFRFYUc1UlN6MTJGcm9Z?oc=5"
     },
     {
       "title": "台股回神帳面還在賠！融資大戶也殺到怕，如何調整避險策略？ - 天下雜誌",
@@ -137,12 +141,8 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zU0NhR2pOWlpCMTJtNF9mRkpkTE5kYWw0M281amstVkpSTkFhQ19wQ1VhLW1uRGVnWURUeFowbmFpTURaQlN6NDhmWkdkcGxUNmhGVUJzb3V3b0ZzZmZWTVk0WVRDMVhlMDU4WkFiR2dON2h3bmxzOTM1MVM5c2c?oc=5"
     },
     {
-      "title": "《強勢美股特報》ABNB,LITE,NOW,UBER等10檔 - 台視全球資訊網",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLUsxU3NTYUFQMVlkMEFQN3NQd2laWVdLRlpGdUl5cjJON0ZoMUdWNkMxQWI2N3pUYTdLRDl6Szg5OWxLSlpqT3dZRnQ2STRYVEplX2E3SkRMcUZVZG5BRDBsd3BGTW9KNGgtcTZ4QXJaMWRYVVlIN2JZOWNFcU5GN280Y1lHTnJVZzc0NlpBcV9ZZw?oc=5"
-    },
-    {
-      "title": "黃金暴漲「2個月最高」！他一口氣搬「15兩」變現260萬元：要買股票 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxORTZ5YkNkTnlrdXRuZzhVQ3FNWjlTakMyZzZncnRZNHROYnl5MnFwcTQtTWdDaXBXZzh0eWx5TG5KdXdhLW00YnlUUnRFY29QUGVrQ3lZWGFDaDlpcEx3NWdZRllRbHhMSDNjTWNhN29qUGpPQnRIS1lla19JTFctQmF4aHlMQ1pqejFMb3hvQkZMYVcwUHN6VzNGM20wTW5CM3VXWXBPTjdpV3hqWVBBVDJnaHlFcUF4X0d1SGtlWHZ0dzRURWxLZjk2QjJGNHIybERRc2Z4d0I2WUFqeDNHSWN2ZVB2MmZPVm94bzg4N2ZSOE1xSVFIRzc1Rk16eDRaakxKVVV0ZmtnR3NvYy1RTnpucUdMRENVRHFINEVHalFuaUZHQkhjUkU3YzVBeE9mWUZoRDNrOVJQT1ZIMTRaZE16a0xtR0ZMUDNidnNsRE1IZVpadXhKTUVTLXNNMmpMOGRXdlZ6eDNvZ1I5aEtVWEgweVhueFVKNTFKWVAtSVMtcFBocVpXNUE5RXlOdkZDc2swNjF1dzhQUkFpWVc0ZkRnaDNQc0JHS1dyX3k1SXhpbzQ?oc=5"
+      "title": "升息疑慮消退！美股全面大漲 標普500再創歷史新高 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQaF9GeTJSdkFTNTdNV25uc05HTmtBNEQ5TWtUX2dOdWZBMVNvckJUTDhuWVBiRXczLXVWN21lNjlucVNycXdHejlhaElmbVhiS0RCMjE1Vlh4SEl6TzAxRFFpN1FyTVNqZTdZS3BKbGlUdUJXWDdjQm9xTjdhSktvdnNkZGk1RzdPdWRpT1g0OUdRb0JYSWpqc0szWVRoM2p3SDRGWDJvODBkNzA5QVJVWXB6empBeGxOc3ItNTFWQTYzdm8ySW1zbnBrVUZlX1BBN1RINGZ2MHpQMmktRUN4RTFacmhYTUNSZ0QwLUNFdGwxa2FBWkhyU1FjNmFreVA2VjZkemJ6WW5nZExwNGxBQzNDd0tQYVc5bkFFRWdRcVUyWVlxbzNkdU04cmFyZHRSRlI2TkhTUnNPYkhqWGxXSkRXQkdZUUh0eVhlR1kwTVYzQQ?oc=5"
     },
     {
       "title": "日圓干預後，美元與黃金會怎麼走？會影響科技股？資產連動一次看｜美股評析｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
