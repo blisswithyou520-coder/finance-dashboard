@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/08 05:09",
+  "updated_tw": "08/08 05:55",
   "taiwan": {
     "2330": {
       "price": 2370.0,
-      "change": -35.0,
-      "changePercent": -1.4553
+      "change": 5.0,
+      "changePercent": 0.2114
     },
     "2454": {
       "price": 3900.0,
-      "change": -100.0,
-      "changePercent": -2.5
+      "change": -20.0,
+      "changePercent": -0.5102
     },
     "2317": {
       "price": 260.0,
-      "change": 1.5,
-      "changePercent": 0.5803
+      "change": -4.5,
+      "changePercent": -1.7013
     },
     "0050": {
       "price": 102.85,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64938.52,
-      "change": 676.4067,
-      "changePercent": 1.0526
+      "price": 64913.84,
+      "change": 651.7267,
+      "changePercent": 1.0142
     },
     "ETH": {
-      "price": 1913.3,
-      "change": 11.2425,
-      "changePercent": 0.5911
+      "price": 1915.76,
+      "change": 13.7025,
+      "changePercent": 0.7204
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4400.5,
+    "usd": 4401.3,
     "twd": 4561.0,
-    "tael": 171022.0,
-    "twdTotal": 141850.0,
-    "changePercent": 3.7364
+    "tael": 171053.0,
+    "twdTotal": 141876.0,
+    "changePercent": 3.7553
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxObm5oUExsZXJldzhqY19ZTXMxZnpza1FzQjVkQVVJVnZ1SW5EUVZRWjlEejVreVd2UXN6UUV1ZWlwNW5KX3J0TElUVl8tV3JyZnY3SE9Gakp0UHprcndwalg1aGhiSGQxOEpBV1Z1WnVXTWNWaExQVmUtb0piN3R5SmZTbXV0LUVYTHhEZV9yaVA3U25JbzhzWHFxc3NMMkdjbnZxU2szS1RpNzJJenJ4VEdBZF84amp1SEh3dDlZd3ZUVnZzOXB6cm9NQlF4dVZuMnY1LWZiN1RXN1F0LU9TaFBWT3NZY1V1S0s1OGVaWW54alkwM3ZDcDZxMVVXMTVEU1FsZl9Za3FCWl9YeWVmUXBHVXJmQ1M0a0ZlenNrbXZ5SWFHOVIyY29EMmJsVlRrNU9FUXdLUFZKdDFhb1ZLeUd5TWkyOHVFSS1oeGJ3Z0REZTVqM3hLNmUxdVh2MFBpTGlPVTl3?oc=5"
     },
     {
+      "title": "glassnode：比特幣期權情緒正在改善，但長期下行保護需求仍高 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ldEdpWkdDakdZSkRsU1MxZmh1R3dxUW54QlFmTEVfSEkzN19ZRGxSaEZ6YlVpUGI5bkU0cEFxU0NlTlo5ZjgyMERmWQ?oc=5"
+    },
+    {
       "title": "台股回神帳面還在賠！融資大戶也殺到怕，如何調整避險策略？ - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2WGlyS2xVYXBxX0tjbkxBdllCbFZSb1BZcC1uY0YxcW9iRUVLNkh5amo2VlRqdU9GZE1ERWk5NUc2OTVXdHRmRlp5eVk0UQ?oc=5"
     },
     {
-      "title": "日圓干預後，美元與黃金會怎麼走？會影響科技股？資產連動一次看｜美股評析｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNSzN0VGhsd29jYTM4cDFUYm93Z1FRdUx1S3NYVjZSTktzdkx3dHBsaEFxWnZ6NTFEeU5IWkJGQk8zalB1aV9hTmVvY1RpN1hXbF9DaWVBYmJnWDdMVUJtTGctajlwSTJ5UEdaakdZYXgtN0YtNE1UaGlpVFFMRVhRaURPUWlfY0VmUjRMSVhxTHktdXY2R3d0bXZKRjVIWVNGSWViZ0taMXFyMFFhalBGUXQ3VjM4LWF4Rl8tUFAyNzFaVGhmaUFsUzc4allJazM5RHpnb0VlOUpibFJQOWVWeC1EN05YWTNvNVZGLUROUGw0UEI3MjFfdVg2eW15dy15dzVicXpSUmJGLUFsaHBiVjNkeV9WSEw2MGU5UWVab3VtM25TQ1FwRC1aekh0VHhQcGdLcXNURHhFODhvTXQ1ejcxS3Q3YWhpRXl6U042anpYeFV3amZvcHlaZ2RLcU1OdHZUZVF5alhieVZVNklTZWdaX3dVZy02eDdmR0dWcTRkWWJnSXRHMWZJU0EtTTdjc3dpcEk0X2dhY0luNFpQRWNIeTNLRl9ZdV90U2NUdUFNTUxuX3R5c2NBNDdyallWaXltd1lnMDVkZl83QWZCNVEySXdPSnNMOVdsV2ZBblB5TUFvVTE4S2lKWWpXWXM1OU8yM1Jn?oc=5"
+      "title": "【0807台股盤後】川普變數+非農前夕，台股震盪洗盤回守均線，哪些族群表現強勢？營收創高模範生:上銀、鼎元、聯茂 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNVmxjdzVYVE9GSWhGYmtHblNTMTg4dnRPQU03Z0prRzZyY3NGWllpa3FHeUZ0NmJHS0pCbHROT3J5S2dxYWZCWktRVHVIN0xQX0FfMW9USF8xX1BkdkJCSC1vOEVIeHRkUnZOVFdSaEFkRmozRlFZRlpkRVVGYkxqbWprdTQwRjNOME9iX3pPQzZJRWdNdU1UN2hZVWxvQWNsb3hNdGRlQXZOalg5YXViQk5nZVNYRWVjbm03OWlOQ194SlZmU3VnTXlwemFEZ09LUFpndzRpb0gtRW9MQjZpTzhCVEp0aGRTNWI2ekpNQjUzd1lVS1dvcTY0aVU5LTJoNVlRaUJnMEVtN3N3NzZROThycTRVTkNIbndDY2NMYlFNRHRabDIwVE8tMEdUNkdWQkZxWmJXLW0zSWRUSHFzVGRzakhCS050ajlJa1hoVEdZalRhSXBNV212Z0JkN25MRmdQUDBWZDJMYm1NelJuNWRWbkZzSmw2QjZzWHRRT2Y0V2JyOFJXTHd2NG4tNkRoZUdVZGtRQUM0M0puSmQ2LTBtVURlcHdpakdfQTZRVEswOXY0TDdVUlBXYzM3Z1ZfTjJpYXhLSXVMdGNuajd6UmdqQXh3YWEtYlFCMmhxX1dlV1hsX2ttWHlESmxKVU9UOUlrc3JNSzd0Nzd3YnNrUkRKcmdnMDlwMjFGYWlBRE1xS3Q4MnZhN24xeHFzOFpFUWw5OGYzRVlXOUZabkJ3YjBhcF90bGxjUnI2TFhjbWFiV3lPcUMybnVNcFladnhoTlQ5Q2thYVNqNVpNVDJxWlp4cEZMUXV6NWlPNEpoc2hUeGsybDlSZE1GNTZyN3NqTkNGSGRNM012SG5ROE96Rg?oc=5"
     },
     {
       "title": "從估值擴張到基本面驗證：第三季美股進入新的考驗 - CME Group",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zU0NhR2pOWlpCMTJtNF9mRkpkTE5kYWw0M281amstVkpSTkFhQ19wQ1VhLW1uRGVnWURUeFowbmFpTURaQlN6NDhmWkdkcGxUNmhGVUJzb3V3b0ZzZmZWTVk0WVRDMVhlMDU4WkFiR2dON2h3bmxzOTM1MVM5c2c?oc=5"
     },
     {
-      "title": "美股開盤「費半上攻逾300點」！台積電ADR跟著上漲 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iRWRNcW56VEFnd0JSQlhGNTdfdUh6ODdwd1ZYQjJvNnFCQl9BZEU2NXpMWWRLYnJNMTBMVXY5ZU9LZlduNURVYzhUcEJLdkY1NWfSAVBBVV95cUxPMjJHcnVtVWl1NF81cG1ISmRRTGR4Y0JpLWoyMnFhR1FWYzMyNXlKdi1WV2NEeXI3Um1feGhSc182XzdWUTkwRUtxWEhybDFSNQ?oc=5"
+      "title": "黃金暴漲「2個月最高」！他一口氣搬「15兩」變現260萬元：要買股票 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxORTZ5YkNkTnlrdXRuZzhVQ3FNWjlTakMyZzZncnRZNHROYnl5MnFwcTQtTWdDaXBXZzh0eWx5TG5KdXdhLW00YnlUUnRFY29QUGVrQ3lZWGFDaDlpcEx3NWdZRllRbHhMSDNjTWNhN29qUGpPQnRIS1lla19JTFctQmF4aHlMQ1pqejFMb3hvQkZMYVcwUHN6VzNGM20wTW5CM3VXWXBPTjdpV3hqWVBBVDJnaHlFcUF4X0d1SGtlWHZ0dzRURWxLZjk2QjJGNHIybERRc2Z4d0I2WUFqeDNHSWN2ZVB2MmZPVm94bzg4N2ZSOE1xSVFIRzc1Rk16eDRaakxKVVV0ZmtnR3NvYy1RTnpucUdMRENVRHFINEVHalFuaUZHQkhjUkU3YzVBeE9mWUZoRDNrOVJQT1ZIMTRaZE16a0xtR0ZMUDNidnNsRE1IZVpadXhKTUVTLXNNMmpMOGRXdlZ6eDNvZ1I5aEtVWEgweVhueFVKNTFKWVAtSVMtcFBocVpXNUE5RXlOdkZDc2swNjF1dzhQUkFpWVc0ZkRnaDNQc0JHS1dyX3k1SXhpbzQ?oc=5"
     },
     {
-      "title": "台股力守4萬4！法人研判持續震盪 逢低留意這些族群 - PChome Online 股市",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaUF1YlJ6bXBXdDNaUmJoaTBjSGFMVDQwS2cxRE42Qi0yd2tvVVZFRndzcnlBNmR3VDkyeFBEYkRMdVo3TElmTGFRcU5jWDZ1NmtjZl9FSjhrQjJHOVhXWHdKMnMtWnBqQ3liczF2UmNCSlFob3FoalhpWURrRkNvNQ?oc=5"
-    },
-    {
-      "title": "台股開高走低收跌170點 台股錯失轉強機會？三條件找出長期好股 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQd2kwYU1EUUQ3TjFFMGpSMkxlU1NqRG9zRkVrZ3RBdjRNaHRtdklFY2hpT3pvTkY0ZFo1SlZCQk4xR2NYejhKVTJCd1RkUGNSM0ozRW9EZmt4bUlEMEd1a2lZclBnNjRBdWlhb2JkS0kteE9mQ1RjREwydDBOT05ZdW51R2VFa1dneTBCQlBJWTZHb2cwQWczRFp1TUp3b3gteVRzNFBaNEJNdWw2bVk1eWptdUpjRTF4QkRvNUxtT0l3VU10bFBGUHBWaXg2Z3FHQ0V1S2c4bFhwNDFCLUxwdEJUYXMtdUJfbGFvdWZ1YmQ3aVhYME5GdXk4OENhN1Q4alY1RklhS0UwUlRESHBNY3VkdTN3U1pHalI0cHdLTFZ4eU1sWThnaGhZeUN2OGJNQzc5THRMTGJZeUs2d3Nzak1BVjRkaXAySEFlcmlDTnZPSEE4ZVlvcjBlY0pOblFuT3NoVFdFckpkTEo5SUdYVFFQaFRKQWtFWm5Za0VFU2ZTRGxqanVoeldQX1RKak5sMVk1WVdnMnZSZw?oc=5"
+      "title": "日圓干預後，美元與黃金會怎麼走？會影響科技股？資產連動一次看｜美股評析｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNSzN0VGhsd29jYTM4cDFUYm93Z1FRdUx1S3NYVjZSTktzdkx3dHBsaEFxWnZ6NTFEeU5IWkJGQk8zalB1aV9hTmVvY1RpN1hXbF9DaWVBYmJnWDdMVUJtTGctajlwSTJ5UEdaakdZYXgtN0YtNE1UaGlpVFFMRVhRaURPUWlfY0VmUjRMSVhxTHktdXY2R3d0bXZKRjVIWVNGSWViZ0taMXFyMFFhalBGUXQ3VjM4LWF4Rl8tUFAyNzFaVGhmaUFsUzc4allJazM5RHpnb0VlOUpibFJQOWVWeC1EN05YWTNvNVZGLUROUGw0UEI3MjFfdVg2eW15dy15dzVicXpSUmJGLUFsaHBiVjNkeV9WSEw2MGU5UWVab3VtM25TQ1FwRC1aekh0VHhQcGdLcXNURHhFODhvTXQ1ejcxS3Q3YWhpRXl6U042anpYeFV3amZvcHlaZ2RLcU1OdHZUZVF5alhieVZVNklTZWdaX3dVZy02eDdmR0dWcTRkWWJnSXRHMWZJU0EtTTdjc3dpcEk0X2dhY0luNFpQRWNIeTNLRl9ZdV90U2NUdUFNTUxuX3R5c2NBNDdyallWaXltd1lnMDVkZl83QWZCNVEySXdPSnNMOVdsV2ZBblB5TUFvVTE4S2lKWWpXWXM1OU8yM1Jn?oc=5"
     }
   ]
 }
