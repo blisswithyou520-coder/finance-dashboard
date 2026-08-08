@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/08 12:39",
+  "updated_tw": "08/08 13:26",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 102.85,
-      "change": -0.95,
-      "changePercent": -0.9152
+      "change": -0.45,
+      "changePercent": -0.4356
     },
     "00878": {
       "price": 32.81,
-      "change": -0.34,
-      "changePercent": -1.0256
+      "change": -0.03,
+      "changePercent": -0.0914
     },
     "00919": {
       "price": 29.74,
-      "change": -0.2,
-      "changePercent": -0.668
+      "change": 0.14,
+      "changePercent": 0.473
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65000.72,
-      "change": 738.6067,
-      "changePercent": 1.1494
+      "price": 64986.23,
+      "change": 724.1167,
+      "changePercent": 1.1268
     },
     "ETH": {
-      "price": 1916.96,
-      "change": 14.9025,
-      "changePercent": 0.7835
+      "price": 1916.53,
+      "change": 14.4725,
+      "changePercent": 0.7609
     }
   },
   "fx": {
@@ -125,12 +125,16 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IbGlzYTQxWkVPakRaVXJZQ2d3cVFZLV9rb2RXV3lLS3VRVFFmMkdzZXRLcGVTeFotR0hGVVBCSmpNczZlV3hrckdURjlEel82?oc=5"
     },
     {
-      "title": "美股全時段交易 只休一小時12月6 日啟動 - 理財周刊",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KSmt5Mmd1MDFFLXRsdm43T0o5d0RqN3g2MWNBTWpXQ2s2S2V6TE9aVXBlSXZodkQzaEJ1SGQxdnJsX2ptX2ZvM25CU2dTQmF6MzFuTjBkc09zM1NualQ2dl9MMGo1TUVHbUM4U09QOA?oc=5"
+      "title": "昨日美國現貨比特幣 ETF 淨流入 1.017 億美元，連續五個交易日強勁流入 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LbDltTUVYbGN3RGNWRjEtbmN1UHJ3cktuUmY3NDFwbTlNYnZDb1pSUmJrQm1VM0Y2Z1BBRWVncmZvRDRPZnUyMF9jTQ?oc=5"
     },
     {
-      "title": "台股反彈量縮進入橫向盤整期　法人建議低接ABF載板3族群 - ETtoday財經雲",
+      "title": "台股反彈量縮進入橫向盤整期　法人建議低接ABF載板3族群 - finance.ettoday.net",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MbHlqWk9pUXJtSVpqNkxjaU1vQU8zVUxNY3I1YzRVQlgzNGM3YW92QjlGR2tSVEc2UXd6TUs1bkVYUDBYZEstMEdkaUVveldJRUHSAVBBVV95cUxQdEtNd2JFVnhZb1h1Ml8xcFMwWUxnMzAwVENJQU1NeVBQU3cxWEl0V3pMR284OG1Nd0xYTFprY1RBVWo1azBFNjlSOU9oZmh4OA?oc=5"
+    },
+    {
+      "title": "美股全時段交易 只休一小時12月6 日啟動 - moneyweekly.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KSmt5Mmd1MDFFLXRsdm43T0o5d0RqN3g2MWNBTWpXQ2s2S2V6TE9aVXBlSXZodkQzaEJ1SGQxdnJsX2ptX2ZvM25CU2dTQmF6MzFuTjBkc09zM1NualQ2dl9MMGo1TUVHbUM4U09QOA?oc=5"
     },
     {
       "title": "美股收盤》Fed升息風險降低4大指數均收紅 台積電ADR漲0.44％ - 自由財經",
@@ -139,10 +143,6 @@
     {
       "title": "台股處置新制周一上路，不再禁當沖？最新撮合、交易懶人包 股人點名一類股受惠 | 李瑋萱 | 新聞 - 風傳媒",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxNUNQVjYzMTZvRDRqXzY1Tmg0U21ZT0I4NzhGemJ5Nzh6ZUI0WXVYcjdETzhIUXltNnFCXzc2ZUQ0amtlWTJmNmhHOWZDZw?oc=5"
-    },
-    {
-      "title": "《台股盤後》量縮收跌170點、失守季線；週K翻紅-新聞內容-基金 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTBmeDFhOEZFcXZVT0l3STNYWTNUVzM4dkZmZzhrZ1FHX3ktSEhxRWdoMDZCZ0hmSWs3a0d4OG1OY1E0ZXBYa3c1Z0EzWVB1ZXZDNnNzZWhYeWhVSFltYU83WEpMQUVlQ2VpeWhkZndMRDVNWDI4U3czUkdwam43N2FxZjBpREZ5ZzNDU1RXWEI?oc=5"
     },
     {
       "title": "美股重大變革》邁向23小時不打烊新制一次看 那斯達克率先公布時程 - Yahoo新聞",
