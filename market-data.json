@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/08 21:57",
+  "updated_tw": "08/08 22:36",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64974.13,
-      "change": 93.9386,
-      "changePercent": 0.1448
+      "price": 65128.85,
+      "change": 248.6586,
+      "changePercent": 0.3833
     },
     "ETH": {
-      "price": 1918.63,
-      "change": 5.3506,
-      "changePercent": 0.2797
+      "price": 1923.97,
+      "change": 10.6906,
+      "changePercent": 0.5588
     }
   },
   "fx": {
@@ -125,8 +125,8 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10cEd4Mk1zVy1waFZIWEJfSXljaWNleF8zbS1Jcl95UVU5azl1dmZ4UXZWWjZvVFVoQjhKc0VNRkVjNnJGMEdNWnVtZw?oc=5"
     },
     {
-      "title": "台股在季線上下震盪換手 法人認為中長期多頭格局未變 - udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qR0gxM2pzLUQ2Q3hKNk01TDNYSkl6dlpvRHNzVk9GMkxYS2xCSGlyZFBYNFV4QXJyTTg4Yi13RnRGSF9uV29DUWh5MkZBVzA30gFWQVVfeXFMTklZTnoxdF9TX0hGYVYtVzVfMmtEc0M0eENNQVRMcE5xZXc0LTVscmdKR3BPWVpxRTVERWVHeE5kbVBBYmdENVhiYzdiUmt5dTk0bHdFTmc?oc=5"
+      "title": "美股早盤／四大指數走高！就業意外爆冷提高Fed按兵不動可能性| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IbGlzYTQxWkVPakRaVXJZQ2d3cVFZLV9rb2RXV3lLS3VRVFFmMkdzZXRLcGVTeFotR0hGVVBCSmpNczZlV3hrckdURjlEel82?oc=5"
     },
     {
       "title": "韓股連7周跌 螞蟻大軍轉戰美股 衝AI.半導體 - 非凡新聞台",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04bnRpaDI4c3UtOERsbUNzRERPNlVmakJtSEpaT016UWdIWi01cm5BNVQyd2g5b0ZQVS1QZGVIX0YwS2NXR25RV0o5U3pRZw?oc=5"
     },
     {
-      "title": "美股重大變革》邁向23小時不打烊新制一次看 那斯達克率先公布時程 - tw.news.yahoo.com",
+      "title": "美股重大變革》邁向23小時不打烊新制一次看 那斯達克率先公布時程 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxOU0t5VVRYZW1BSHMtcUJQdTFfcDVuMWNJa09qNVo3WjBZNXNOcmhBWDJNU2tocUY5ZDhmV3o5Y2d3R0FjU054c3hJay1VUXVLNUxWRnYydmJUUmV1RE1CVDdRb0xmdU92QUlSQmpHVmtMbUdoVEluWUZZR19lZWNjRTBEczgybF83UElaY2JoQjdDSENJODB4MDRzUjB1V1B5Y3hDcTE1aFlINHVUQmVCY3E0SjhBQnRuQVo5SFFoZV9JT1l0ODVaV3p0MU4xV2NReHdmNUdPcU9fbWU2STZXRE1iT1lKeEl1VVExVFRWTWtaZnFMbzNIclFaX1hPcUphUXlFaHQ5LVV5N0hRbEkxYXpuZVV4d1RQTFNsMmtOaVZPbDVfZkxwOEFhYlNMNkt3YTRpUU1PMHZaWm44eC11TExEOE1WNjJNeXdoRktTOHAzTVl1Mm0yeGhsdFF0UWVQODRSQVR1MmswZGRJV2RnNjNOdGF4b0x3MjNXY21qQURyUEVIZ3M0ZF91Q0k2a3dkY01ScFZaZmtKMHVoelE?oc=5"
     },
     {
-      "title": "美股早盤／四大指數走高！就業意外爆冷提高Fed按兵不動可能性| 全球財經| 全球 - udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IbGlzYTQxWkVPakRaVXJZQ2d3cVFZLV9rb2RXV3lLS3VRVFFmMkdzZXRLcGVTeFotR0hGVVBCSmpNczZlV3hrckdURjlEel82?oc=5"
+      "title": "台股在季線上下震盪換手 法人認為中長期多頭格局未變 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qR0gxM2pzLUQ2Q3hKNk01TDNYSkl6dlpvRHNzVk9GMkxYS2xCSGlyZFBYNFV4QXJyTTg4Yi13RnRGSF9uV29DUWh5MkZBVzA30gFWQVVfeXFMTklZTnoxdF9TX0hGYVYtVzVfMmtEc0M0eENNQVRMcE5xZXc0LTVscmdKR3BPWVpxRTVERWVHeE5kbVBBYmdENVhiYzdiUmt5dTk0bHdFTmc?oc=5"
     }
   ]
 }
