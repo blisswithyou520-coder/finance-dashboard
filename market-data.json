@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/09 06:58",
+  "updated_tw": "08/09 07:36",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64899.02,
-      "change": 18.8286,
-      "changePercent": 0.029
+      "price": 64907.83,
+      "change": 27.6386,
+      "changePercent": 0.0426
     },
     "ETH": {
-      "price": 1915.73,
-      "change": 2.4506,
-      "changePercent": 0.1281
+      "price": 1916.8,
+      "change": 3.5206,
+      "changePercent": 0.184
     }
   },
   "fx": {
@@ -133,10 +133,6 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04bnRpaDI4c3UtOERsbUNzRERPNlVmakJtSEpaT016UWdIWi01cm5BNVQyd2g5b0ZQVS1QZGVIX0YwS2NXR25RV0o5U3pRZw?oc=5"
     },
     {
-      "title": "美股收盤》市場緊盯財報、中東局勢！道瓊跌464點 台積電ADR漲逾1％ - ec.ltn.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaUmp4QTlaczdoLUN4MS1wTGpscmplSGp2M1dRVHFSaWk2Y0FjTTFSR3NnYlhnTDIxMUF4NjNEdkRWTGV2aWxMYkpxWURWY0FXZk9FVk1pSHNxMnpZR2dF?oc=5"
-    },
-    {
       "title": "美股全時段交易 只休一小時12月6 日啟動 - 理財周刊",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KSmt5Mmd1MDFFLXRsdm43T0o5d0RqN3g2MWNBTWpXQ2s2S2V6TE9aVXBlSXZodkQzaEJ1SGQxdnJsX2ptX2ZvM25CU2dTQmF6MzFuTjBkc09zM1NualQ2dl9MMGo1TUVHbUM4U09QOA?oc=5"
     },
@@ -145,8 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPdFg2VFRFaVRqSmJEdlFBNGh4ellXMWVIeG5ZNVJNYWhpc3k1NEgtV0hQWDBQYlI2cFBmLW9XZXFyTW1MeklqTkNFR3ZyZjZrVERBZUFqZFp2M1BodHlHUGp5TTdtNnBTT1lPemNqbmM2ejFBUl9CUU52YUE4VHpPNGRkcW9acExGWDZwTnhrcHZ5U2ozMG5MT2pOdVNkNXJSOWc0ZVBlVmFoY3JtTUI1VWZrcE5WQ1JIX3duTFVjWUJlaHdHMlRmQm1UejAySFNyYzk3a3ktSEVTbERJTG9uZ2hqejdfM29GM2pkcDVaNGJCcGdiV0RoRTFwQzU2bFhqWlliY1BPYlFlUWxwWUJVRXZ4Z1pZRHZqOGFJcGo2ZGFrVm93WTNubWljRkxRdkxNSVBHeVJKRjhMaHRKWWlmWm9aVXVSNU4y?oc=5"
     },
     {
-      "title": "美股早盤／四大指數走高！就業意外爆冷提高Fed按兵不動可能性| 全球財經| 全球 - UDN",
+      "title": "美股早盤／四大指數走高！就業意外爆冷提高Fed按兵不動可能性| 全球財經| 全球 - udn",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IbGlzYTQxWkVPakRaVXJZQ2d3cVFZLV9rb2RXV3lLS3VRVFFmMkdzZXRLcGVTeFotR0hGVVBCSmpNczZlV3hrckdURjlEel82?oc=5"
+    },
+    {
+      "title": "美非農意外轉負! 美股收紅標普創收盤新高| 國際 - 非凡新聞台",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WSEhKUUpSR2E0ZnZsUlI2TEt1NUdYTHZOMVZ1NWlKQjJWeFdJd2NoYWY5Y0hNeUJlUEhfeTZTWkdpQU1mNHl3Ql9GRlJKWjMzOTlFN1dwaDVWY2M?oc=5"
     }
   ]
 }
