@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/09 00:12",
+  "updated_tw": "08/09 00:53",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65046.67,
-      "change": 166.4786,
-      "changePercent": 0.2566
+      "price": 65023.21,
+      "change": 143.0186,
+      "changePercent": 0.2204
     },
     "ETH": {
-      "price": 1922.58,
-      "change": 9.3006,
-      "changePercent": 0.4861
+      "price": 1921.03,
+      "change": 7.7506,
+      "changePercent": 0.4051
     }
   },
   "fx": {
@@ -129,20 +129,20 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iT2tNM2Z4TXRBNUFsQ04yOFo0RHdCR2FhbTNuODB3bERFakpfamoyS2NFSi14aEpMOFFZWFdYWFZNTEE2dmZsc1dzZThNMUlt?oc=5"
     },
     {
-      "title": "美股全面收紅下周通膨數據決定續航力- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1UmFRa1puSUVnenBYeXNhOXdOY1FaUWVoa01pT0ZEa2xSNkgxMjRJSTh0Qk83TzV5bWRuai1SVENxVjU3WFduTmhZQlBZVUs4eW9tSmRMUVFpaHZnTndv?oc=5"
-    },
-    {
       "title": "韓股連7周跌 螞蟻大軍轉戰美股 衝AI.半導體 - 非凡新聞台",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OVFBvUktUemNZT0dxVHV4X3NUZVNoQ3JZb0N6UHljMUNjZ1oxQm50ZE5WUDFleDJDY1NqZzhGM3ctS2tBdUpDT1ZvMGhQLXhvcmtHclhmNWlnRVFX?oc=5"
     },
     {
-      "title": "黃金突破下降趨勢，現在該買嗎？ - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04bnRpaDI4c3UtOERsbUNzRERPNlVmakJtSEpaT016UWdIWi01cm5BNVQyd2g5b0ZQVS1QZGVIX0YwS2NXR25RV0o5U3pRZw?oc=5"
+      "title": "美股全面收紅下周通膨數據決定續航力- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1UmFRa1puSUVnenBYeXNhOXdOY1FaUWVoa01pT0ZEa2xSNkgxMjRJSTh0Qk83TzV5bWRuai1SVENxVjU3WFduTmhZQlBZVUs4eW9tSmRMUVFpaHZnTndv?oc=5"
     },
     {
-      "title": "美股收盤》市場緊盯財報、中東局勢！道瓊跌464點 台積電ADR漲逾1％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaUmp4QTlaczdoLUN4MS1wTGpscmplSGp2M1dRVHFSaWk2Y0FjTTFSR3NnYlhnTDIxMUF4NjNEdkRWTGV2aWxMYkpxWURWY0FXZk9FVk1pSHNxMnpZR2dF?oc=5"
+      "title": "新一輪黃金牛市即將開始？這些勢頭出來了 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXYnd4dHZKd3VITFN0TGt6VTRUbkZubVlISUFYNmdRNmp0ZW1URnY0MmJxd2t4cTVJRjViOFdqMUcwc0xKMEVCU04xd1RybVR2ZmdsNEt0UEU?oc=5"
+    },
+    {
+      "title": "黃金突破下降趨勢，現在該買嗎？ - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04bnRpaDI4c3UtOERsbUNzRERPNlVmakJtSEpaT016UWdIWi01cm5BNVQyd2g5b0ZQVS1QZGVIX0YwS2NXR25RV0o5U3pRZw?oc=5"
     },
     {
       "title": "就業意外爆冷！美股4大指數全收紅 那指漲342點、標普500創新高 - Yahoo新聞",
