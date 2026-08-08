@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/08 23:03",
+  "updated_tw": "08/08 23:44",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65079.27,
-      "change": 199.0786,
-      "changePercent": 0.3068
+      "price": 65015.34,
+      "change": 135.1486,
+      "changePercent": 0.2083
     },
     "ETH": {
-      "price": 1922.28,
-      "change": 9.0006,
-      "changePercent": 0.4704
+      "price": 1920.72,
+      "change": 7.4406,
+      "changePercent": 0.3889
     }
   },
   "fx": {
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IbGlzYTQxWkVPakRaVXJZQ2d3cVFZLV9rb2RXV3lLS3VRVFFmMkdzZXRLcGVTeFotR0hGVVBCSmpNczZlV3hrckdURjlEel82?oc=5"
     },
     {
-      "title": "韓股連7周跌 螞蟻大軍轉戰美股 衝AI.半導體 - 非凡新聞台",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OVFBvUktUemNZT0dxVHV4X3NUZVNoQ3JZb0N6UHljMUNjZ1oxQm50ZE5WUDFleDJDY1NqZzhGM3ctS2tBdUpDT1ZvMGhQLXhvcmtHclhmNWlnRVFX?oc=5"
+      "title": "美股全面收紅下周通膨數據決定續航力- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1UmFRa1puSUVnenBYeXNhOXdOY1FaUWVoa01pT0ZEa2xSNkgxMjRJSTh0Qk83TzV5bWRuai1SVENxVjU3WFduTmhZQlBZVUs4eW9tSmRMUVFpaHZnTndv?oc=5"
     },
     {
-      "title": "美股狂飆！科技股領軍標普再創新高 輝達市值暴增5,620億美元- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TUm5Xb1J6UjI1U0JtQkRtLXcxcU5saGxTOFR6Q04yQldqSlVSQXVhdmVuVjFuZWVORV9KRkdtQmNDWHNJWGJJeVpZeUh2enJBZU02VXItLWEwNExXSVlv?oc=5"
+      "title": "韓股連7周跌 螞蟻大軍轉戰美股 衝AI.半導體 - 非凡新聞台",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OVFBvUktUemNZT0dxVHV4X3NUZVNoQ3JZb0N6UHljMUNjZ1oxQm50ZE5WUDFleDJDY1NqZzhGM3ctS2tBdUpDT1ZvMGhQLXhvcmtHclhmNWlnRVFX?oc=5"
     },
     {
       "title": "黃金突破下降趨勢，現在該買嗎？ - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04bnRpaDI4c3UtOERsbUNzRERPNlVmakJtSEpaT016UWdIWi01cm5BNVQyd2g5b0ZQVS1QZGVIX0YwS2NXR25RV0o5U3pRZw?oc=5"
     },
     {
-      "title": "就業意外爆冷！美股4大指數全收紅 那指漲342點、標普500創新高 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOa1hLMnBfMWVfZjFTQmx0c2w2T0EwM0NzOEFHaVNQb0UwT08tSHJVSG5ZNWo1c01jLTVOanFEZGxSV2dWenZ5cXZyajBfLWJfZ0lzT2ViSkgxUVdmT2I0ZFVSdmNQd1lYNWhwZENyamdzUW50NEdCN2xQZWJQUkE5eHdkQzRiRXhCMkRxZXZmQ0JraFJCeF92NTZnN2p0a1R0QW51UXJqR2ZIb2lDQW5zQXFJUzE1SEdpaVZfejBrTEUyY0kxc3NURjUxdWFuMHhKTGw5TmV2ejF3elZUbWRwTzVsTko5MjJsTE9QQ2ROeG9jR1pOZ1BDOHhTZ0MzQWFQM29PQUwtbkxnYUstcG8wNWE1SzlXcU84dHRHUzFRUi1kS1VZUDgwOTBVZHhpZGpHVTBuRzF2RGNDNm1WSUJNZ1RmWk9zc0dvUXZueXE0Skl6TlRYdUdGeTAwRGZBUzFSMk85NTlzenoteDlOckdEenFBX20?oc=5"
+      "title": "美股收盤》市場緊盯財報、中東局勢！道瓊跌464點 台積電ADR漲逾1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaUmp4QTlaczdoLUN4MS1wTGpscmplSGp2M1dRVHFSaWk2Y0FjTTFSR3NnYlhnTDIxMUF4NjNEdkRWTGV2aWxMYkpxWURWY0FXZk9FVk1pSHNxMnpZR2dF?oc=5"
     },
     {
-      "title": "台股在季線上下震盪換手 法人認為中長期多頭格局未變 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qR0gxM2pzLUQ2Q3hKNk01TDNYSkl6dlpvRHNzVk9GMkxYS2xCSGlyZFBYNFV4QXJyTTg4Yi13RnRGSF9uV29DUWh5MkZBVzA30gFWQVVfeXFMTklZTnoxdF9TX0hGYVYtVzVfMmtEc0M0eENNQVRMcE5xZXc0LTVscmdKR3BPWVpxRTVERWVHeE5kbVBBYmdENVhiYzdiUmt5dTk0bHdFTmc?oc=5"
+      "title": "就業意外爆冷！美股4大指數全收紅 那指漲342點、標普500創新高 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOa1hLMnBfMWVfZjFTQmx0c2w2T0EwM0NzOEFHaVNQb0UwT08tSHJVSG5ZNWo1c01jLTVOanFEZGxSV2dWenZ5cXZyajBfLWJfZ0lzT2ViSkgxUVdmT2I0ZFVSdmNQd1lYNWhwZENyamdzUW50NEdCN2xQZWJQUkE5eHdkQzRiRXhCMkRxZXZmQ0JraFJCeF92NTZnN2p0a1R0QW51UXJqR2ZIb2lDQW5zQXFJUzE1SEdpaVZfejBrTEUyY0kxc3NURjUxdWFuMHhKTGw5TmV2ejF3elZUbWRwTzVsTko5MjJsTE9QQ2ROeG9jR1pOZ1BDOHhTZ0MzQWFQM29PQUwtbkxnYUstcG8wNWE1SzlXcU84dHRHUzFRUi1kS1VZUDgwOTBVZHhpZGpHVTBuRzF2RGNDNm1WSUJNZ1RmWk9zc0dvUXZueXE0Skl6TlRYdUdGeTAwRGZBUzFSMk85NTlzenoteDlOckdEenFBX20?oc=5"
     }
   ]
 }
