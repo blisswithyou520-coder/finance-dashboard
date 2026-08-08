@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/08 19:42",
+  "updated_tw": "08/08 20:02",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64930.94,
-      "change": 50.7486,
-      "changePercent": 0.0782
+      "price": 64915.7,
+      "change": 35.5086,
+      "changePercent": 0.0547
     },
     "ETH": {
-      "price": 1918.34,
-      "change": 5.0606,
-      "changePercent": 0.2645
+      "price": 1919.2,
+      "change": 5.9206,
+      "changePercent": 0.3094
     }
   },
   "fx": {
@@ -129,6 +129,10 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IbGlzYTQxWkVPakRaVXJZQ2d3cVFZLV9rb2RXV3lLS3VRVFFmMkdzZXRLcGVTeFotR0hGVVBCSmpNczZlV3hrckdURjlEel82?oc=5"
     },
     {
+      "title": "美股收盤》市場緊盯財報、中東局勢！道瓊跌464點 台積電ADR漲逾1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaUmp4QTlaczdoLUN4MS1wTGpscmplSGp2M1dRVHFSaWk2Y0FjTTFSR3NnYlhnTDIxMUF4NjNEdkRWTGV2aWxMYkpxWURWY0FXZk9FVk1pSHNxMnpZR2dF?oc=5"
+    },
+    {
       "title": "美股重大變革》邁向23小時不打烊新制一次看 那斯達克率先公布時程 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxOU0t5VVRYZW1BSHMtcUJQdTFfcDVuMWNJa09qNVo3WjBZNXNOcmhBWDJNU2tocUY5ZDhmV3o5Y2d3R0FjU054c3hJay1VUXVLNUxWRnYydmJUUmV1RE1CVDdRb0xmdU92QUlSQmpHVmtMbUdoVEluWUZZR19lZWNjRTBEczgybF83UElaY2JoQjdDSENJODB4MDRzUjB1V1B5Y3hDcTE1aFlINHVUQmVCY3E0SjhBQnRuQVo5SFFoZV9JT1l0ODVaV3p0MU4xV2NReHdmNUdPcU9fbWU2STZXRE1iT1lKeEl1VVExVFRWTWtaZnFMbzNIclFaX1hPcUphUXlFaHQ5LVV5N0hRbEkxYXpuZVV4d1RQTFNsMmtOaVZPbDVfZkxwOEFhYlNMNkt3YTRpUU1PMHZaWm44eC11TExEOE1WNjJNeXdoRktTOHAzTVl1Mm0yeGhsdFF0UWVQODRSQVR1MmswZGRJV2RnNjNOdGF4b0x3MjNXY21qQURyUEVIZ3M0ZF91Q0k2a3dkY01ScFZaZmtKMHVoelE?oc=5"
     },
@@ -143,10 +147,6 @@
     {
       "title": "〈美股盤後〉非農爆冷Fed、升息機率降！標普登新高 單周大漲3.6%今年來次佳 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZeFZ0ajhLbVdRaGd6emlhZHZORWlLNmJRUVZiZ1lhMXQwTmtHb2x6SkpvZzdGb1BWRlFseGhrNnMzcmh1ejcyR0MxVTBEV2c?oc=5"
-    },
-    {
-      "title": "美股早盤／指數幾近平盤！那指、費半微漲 台積電ADR漲0.57% - udn",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3N25hemxvZFBZZERLc0Z5SkI0UnVDbUktd2g0SU9iTzVkSFNxNkRwTEVTQXYzbFlJS0Y5ZFVZZkg5RnoyN1NrNXQ1S3lXV2VY?oc=5"
     }
   ]
 }
