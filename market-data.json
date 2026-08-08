@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/08 11:42",
+  "updated_tw": "08/08 12:39",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64974.14,
-      "change": 712.0267,
-      "changePercent": 1.108
+      "price": 65000.72,
+      "change": 738.6067,
+      "changePercent": 1.1494
     },
     "ETH": {
-      "price": 1916.95,
-      "change": 14.8925,
-      "changePercent": 0.783
+      "price": 1916.96,
+      "change": 14.9025,
+      "changePercent": 0.7835
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4401.3,
-    "twd": 4561.0,
-    "tael": 171053.0,
-    "twdTotal": 141876.0,
-    "changePercent": 3.7553
+    "usd": 4399.7,
+    "twd": 4560.0,
+    "tael": 170991.0,
+    "twdTotal": 141824.0,
+    "changePercent": 3.7176
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,7 +117,7 @@
   },
   "news": [
     {
-      "title": "星期一開盤噴爆？美股標普500創歷史新高 台指期夜盤大漲 - tw.stock.yahoo.com",
+      "title": "星期一開盤噴爆？美股標普500創歷史新高 台指期夜盤大漲 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOSzNIcGN1RzNPY29jdHBjMFp2RDBNWG5KQlJqUkw1UkdzN09lZURQXzlUREdGUXRrc3NiM3RuVXZLd3AzcFhDUGo1R21SRXctd1RfUWJXV2tIdGZsNzJkQmtELW0tLVdwRmRVYldOeU5pMWlFeVBBZWpYUzg3czF4WC0wNTI5S2d3NzFUeGE3RU9EY3NMU1BRcml6NlNNanlXYk5hZ05JOHJWOHk1TWJFMFI2Q3F5R3AwZVB6LWlMbzNqTkp5N3ZhZEprdFByS29aalBXZmdHcURnTk0tc3dWRHppQkpFaktISk9iX0Q1cnlTTWN1dUFuVjNwd0RZa0VzX0lpeS1HdVJsSzNmbGY4S1h1THFYeGFNbk5Fa3dyYktjQ3paeks3OEo5d25UNzFMaks1NDk1UlVWTkJsb1p3NkJDeWc4dEJGVl8tbGJJeU9ZeC1EbHRjOVJjdENZdjdpN0EtdHBwM0Y1WHc?oc=5"
     },
     {
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IbGlzYTQxWkVPakRaVXJZQ2d3cVFZLV9rb2RXV3lLS3VRVFFmMkdzZXRLcGVTeFotR0hGVVBCSmpNczZlV3hrckdURjlEel82?oc=5"
     },
     {
-      "title": "美股全時段交易 只休一小時12月6 日啟動 - moneyweekly.com.tw",
+      "title": "美股全時段交易 只休一小時12月6 日啟動 - 理財周刊",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KSmt5Mmd1MDFFLXRsdm43T0o5d0RqN3g2MWNBTWpXQ2s2S2V6TE9aVXBlSXZodkQzaEJ1SGQxdnJsX2ptX2ZvM25CU2dTQmF6MzFuTjBkc09zM1NualQ2dl9MMGo1TUVHbUM4U09QOA?oc=5"
+    },
+    {
+      "title": "台股反彈量縮進入橫向盤整期　法人建議低接ABF載板3族群 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MbHlqWk9pUXJtSVpqNkxjaU1vQU8zVUxNY3I1YzRVQlgzNGM3YW92QjlGR2tSVEc2UXd6TUs1bkVYUDBYZEstMEdkaUVveldJRUHSAVBBVV95cUxQdEtNd2JFVnhZb1h1Ml8xcFMwWUxnMzAwVENJQU1NeVBQU3cxWEl0V3pMR284OG1Nd0xYTFprY1RBVWo1azBFNjlSOU9oZmh4OA?oc=5"
+    },
+    {
+      "title": "美股收盤》Fed升息風險降低4大指數均收紅 台積電ADR漲0.44％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQeWpvVHdKZlpoM2JUeUpLQnFaZ0ZON1JramM1UEJxeFlidktNOFYwWlFtVEZuTXJFTWNfdkxxSDJ6TGpmNzdWWVM2Qm92MFNKRFRFYUc1UlN6MTJGcm9Z?oc=5"
+    },
+    {
+      "title": "台股處置新制周一上路，不再禁當沖？最新撮合、交易懶人包 股人點名一類股受惠 | 李瑋萱 | 新聞 - 風傳媒",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxNUNQVjYzMTZvRDRqXzY1Tmg0U21ZT0I4NzhGemJ5Nzh6ZUI0WXVYcjdETzhIUXltNnFCXzc2ZUQ0amtlWTJmNmhHOWZDZw?oc=5"
     },
     {
       "title": "《台股盤後》量縮收跌170點、失守季線；週K翻紅-新聞內容-基金 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTBmeDFhOEZFcXZVT0l3STNYWTNUVzM4dkZmZzhrZ1FHX3ktSEhxRWdoMDZCZ0hmSWs3a0d4OG1OY1E0ZXBYa3c1Z0EzWVB1ZXZDNnNzZWhYeWhVSFltYU83WEpMQUVlQ2VpeWhkZndMRDVNWDI4U3czUkdwam43N2FxZjBpREZ5ZzNDU1RXWEI?oc=5"
     },
     {
-      "title": "【0807台股盤後】川普變數+非農前夕，台股震盪洗盤回守均線，哪些族群表現強勢？營收創高模範生:上銀、鼎元、聯茂 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNVmxjdzVYVE9GSWhGYmtHblNTMTg4dnRPQU03Z0prRzZyY3NGWllpa3FHeUZ0NmJHS0pCbHROT3J5S2dxYWZCWktRVHVIN0xQX0FfMW9USF8xX1BkdkJCSC1vOEVIeHRkUnZOVFdSaEFkRmozRlFZRlpkRVVGYkxqbWprdTQwRjNOME9iX3pPQzZJRWdNdU1UN2hZVWxvQWNsb3hNdGRlQXZOalg5YXViQk5nZVNYRWVjbm03OWlOQ194SlZmU3VnTXlwemFEZ09LUFpndzRpb0gtRW9MQjZpTzhCVEp0aGRTNWI2ekpNQjUzd1lVS1dvcTY0aVU5LTJoNVlRaUJnMEVtN3N3NzZROThycTRVTkNIbndDY2NMYlFNRHRabDIwVE8tMEdUNkdWQkZxWmJXLW0zSWRUSHFzVGRzakhCS050ajlJa1hoVEdZalRhSXBNV212Z0JkN25MRmdQUDBWZDJMYm1NelJuNWRWbkZzSmw2QjZzWHRRT2Y0V2JyOFJXTHd2NG4tNkRoZUdVZGtRQUM0M0puSmQ2LTBtVURlcHdpakdfQTZRVEswOXY0TDdVUlBXYzM3Z1ZfTjJpYXhLSXVMdGNuajd6UmdqQXh3YWEtYlFCMmhxX1dlV1hsX2ttWHlESmxKVU9UOUlrc3JNSzd0Nzd3YnNrUkRKcmdnMDlwMjFGYWlBRE1xS3Q4MnZhN24xeHFzOFpFUWw5OGYzRVlXOUZabkJ3YjBhcF90bGxjUnI2TFhjbWFiV3lPcUMybnVNcFladnhoTlQ5Q2thYVNqNVpNVDJxWlp4cEZMUXV6NWlPNEpoc2hUeGsybDlSZE1GNTZyN3NqTkNGSGRNM012SG5ROE96Rg?oc=5"
-    },
-    {
       "title": "美股重大變革》邁向23小時不打烊新制一次看 那斯達克率先公布時程 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxOU0t5VVRYZW1BSHMtcUJQdTFfcDVuMWNJa09qNVo3WjBZNXNOcmhBWDJNU2tocUY5ZDhmV3o5Y2d3R0FjU054c3hJay1VUXVLNUxWRnYydmJUUmV1RE1CVDdRb0xmdU92QUlSQmpHVmtMbUdoVEluWUZZR19lZWNjRTBEczgybF83UElaY2JoQjdDSENJODB4MDRzUjB1V1B5Y3hDcTE1aFlINHVUQmVCY3E0SjhBQnRuQVo5SFFoZV9JT1l0ODVaV3p0MU4xV2NReHdmNUdPcU9fbWU2STZXRE1iT1lKeEl1VVExVFRWTWtaZnFMbzNIclFaX1hPcUphUXlFaHQ5LVV5N0hRbEkxYXpuZVV4d1RQTFNsMmtOaVZPbDVfZkxwOEFhYlNMNkt3YTRpUU1PMHZaWm44eC11TExEOE1WNjJNeXdoRktTOHAzTVl1Mm0yeGhsdFF0UWVQODRSQVR1MmswZGRJV2RnNjNOdGF4b0x3MjNXY21qQURyUEVIZ3M0ZF91Q0k2a3dkY01ScFZaZmtKMHVoelE?oc=5"
-    },
-    {
-      "title": "台股迎新資金潮 股息4,257億 341檔月底前派發 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fOWhkQUsxM3ExZHJoLV9IMEdIU0l4X3lIWWZaTGxnRGZPX184SGRzZzhDbUV2dDNsMGZrbG1VaGxyZTlSTGR1Q1pBVkJ6UEZaaHllNE9IeS1XUdIBX0FVX3lxTE9IVVh4UzRsYmZVQkptTkIxYjE4SV9XWGlNMHE5aDkyMWNfbzBBVzV2Wjd4UUV2VzJDRFpwNml0YVpZb1Z4V0hCc0d5U3JiNEFyZ2Jva01DMkpGUlFPT2Vr?oc=5"
-    },
-    {
-      "title": "就業意外爆冷！美股4大指數全收紅 那指漲342點、標普500創新高 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOa1hLMnBfMWVfZjFTQmx0c2w2T0EwM0NzOEFHaVNQb0UwT08tSHJVSG5ZNWo1c01jLTVOanFEZGxSV2dWenZ5cXZyajBfLWJfZ0lzT2ViSkgxUVdmT2I0ZFVSdmNQd1lYNWhwZENyamdzUW50NEdCN2xQZWJQUkE5eHdkQzRiRXhCMkRxZXZmQ0JraFJCeF92NTZnN2p0a1R0QW51UXJqR2ZIb2lDQW5zQXFJUzE1SEdpaVZfejBrTEUyY0kxc3NURjUxdWFuMHhKTGw5TmV2ejF3elZUbWRwTzVsTko5MjJsTE9QQ2ROeG9jR1pOZ1BDOHhTZ0MzQWFQM29PQUwtbkxnYUstcG8wNWE1SzlXcU84dHRHUzFRUi1kS1VZUDgwOTBVZHhpZGpHVTBuRzF2RGNDNm1WSUJNZ1RmWk9zc0dvUXZueXE0Skl6TlRYdUdGeTAwRGZBUzFSMk85NTlzenoteDlOckdEenFBX20?oc=5"
     }
   ]
 }
