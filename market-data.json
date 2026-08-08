@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/09 06:27",
+  "updated_tw": "08/09 06:58",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64950.85,
-      "change": 70.6586,
-      "changePercent": 0.1089
+      "price": 64899.02,
+      "change": 18.8286,
+      "changePercent": 0.029
     },
     "ETH": {
-      "price": 1919.0,
-      "change": 5.7206,
-      "changePercent": 0.299
+      "price": 1915.73,
+      "change": 2.4506,
+      "changePercent": 0.1281
     }
   },
   "fx": {
@@ -115,5 +115,38 @@
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "黃金暴漲「2個月最高」！他一口氣搬「15兩」變現260萬元：要買股票 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxORTZ5YkNkTnlrdXRuZzhVQ3FNWjlTakMyZzZncnRZNHROYnl5MnFwcTQtTWdDaXBXZzh0eWx5TG5KdXdhLW00YnlUUnRFY29QUGVrQ3lZWGFDaDlpcEx3NWdZRllRbHhMSDNjTWNhN29qUGpPQnRIS1lla19JTFctQmF4aHlMQ1pqejFMb3hvQkZMYVcwUHN6VzNGM20wTW5CM3VXWXBPTjdpV3hqWVBBVDJnaHlFcUF4X0d1SGtlWHZ0dzRURWxLZjk2QjJGNHIybERRc2Z4d0I2WUFqeDNHSWN2ZVB2MmZPVm94bzg4N2ZSOE1xSVFIRzc1Rk16eDRaakxKVVV0ZmtnR3NvYy1RTnpucUdMRENVRHFINEVHalFuaUZHQkhjUkU3YzVBeE9mWUZoRDNrOVJQT1ZIMTRaZE16a0xtR0ZMUDNidnNsRE1IZVpadXhKTUVTLXNNMmpMOGRXdlZ6eDNvZ1I5aEtVWEgweVhueFVKNTFKWVAtSVMtcFBocVpXNUE5RXlOdkZDc2swNjF1dzhQUkFpWVc0ZkRnaDNQc0JHS1dyX3k1SXhpbzQ?oc=5"
+    },
+    {
+      "title": "企業財報報佳音 美股走勢帶勁 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OaTVtZENXWHhYWUlqMktrRGttNW95R1Y1aGczczg0N2J0bkhYNzVOU3RaYXg1QW14TmdjaXNpcG1VaU5kQmhEX0FEbXVSQlI4U1VNeUZWRHRqQdIBX0FVX3lxTE05SmFsRFV3V1JBbHhqNFV5VlZ1WjgxWEJzZmJTeGN1MlJUTmJNTHRHb1hjY2pQUVhJcGNTUGlfOXBDLWZDcENzZkQ3U3JjSnVDMFpHalVUZXhIWnpNZUhJ?oc=5"
+    },
+    {
+      "title": "韓股連7周跌 螞蟻大軍轉戰美股 衝AI.半導體 - 非凡新聞台",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OVFBvUktUemNZT0dxVHV4X3NUZVNoQ3JZb0N6UHljMUNjZ1oxQm50ZE5WUDFleDJDY1NqZzhGM3ctS2tBdUpDT1ZvMGhQLXhvcmtHclhmNWlnRVFX?oc=5"
+    },
+    {
+      "title": "黃金突破下降趨勢，現在該買嗎？ - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04bnRpaDI4c3UtOERsbUNzRERPNlVmakJtSEpaT016UWdIWi01cm5BNVQyd2g5b0ZQVS1QZGVIX0YwS2NXR25RV0o5U3pRZw?oc=5"
+    },
+    {
+      "title": "美股收盤》市場緊盯財報、中東局勢！道瓊跌464點 台積電ADR漲逾1％ - ec.ltn.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaUmp4QTlaczdoLUN4MS1wTGpscmplSGp2M1dRVHFSaWk2Y0FjTTFSR3NnYlhnTDIxMUF4NjNEdkRWTGV2aWxMYkpxWURWY0FXZk9FVk1pSHNxMnpZR2dF?oc=5"
+    },
+    {
+      "title": "美股全時段交易 只休一小時12月6 日啟動 - 理財周刊",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KSmt5Mmd1MDFFLXRsdm43T0o5d0RqN3g2MWNBTWpXQ2s2S2V6TE9aVXBlSXZodkQzaEJ1SGQxdnJsX2ptX2ZvM25CU2dTQmF6MzFuTjBkc09zM1NualQ2dl9MMGo1TUVHbUM4U09QOA?oc=5"
+    },
+    {
+      "title": "很多國家都在買！黃金彈回4300美元 高盛：訊號來了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPdFg2VFRFaVRqSmJEdlFBNGh4ellXMWVIeG5ZNVJNYWhpc3k1NEgtV0hQWDBQYlI2cFBmLW9XZXFyTW1MeklqTkNFR3ZyZjZrVERBZUFqZFp2M1BodHlHUGp5TTdtNnBTT1lPemNqbmM2ejFBUl9CUU52YUE4VHpPNGRkcW9acExGWDZwTnhrcHZ5U2ozMG5MT2pOdVNkNXJSOWc0ZVBlVmFoY3JtTUI1VWZrcE5WQ1JIX3duTFVjWUJlaHdHMlRmQm1UejAySFNyYzk3a3ktSEVTbERJTG9uZ2hqejdfM29GM2pkcDVaNGJCcGdiV0RoRTFwQzU2bFhqWlliY1BPYlFlUWxwWUJVRXZ4Z1pZRHZqOGFJcGo2ZGFrVm93WTNubWljRkxRdkxNSVBHeVJKRjhMaHRKWWlmWm9aVXVSNU4y?oc=5"
+    },
+    {
+      "title": "美股早盤／四大指數走高！就業意外爆冷提高Fed按兵不動可能性| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IbGlzYTQxWkVPakRaVXJZQ2d3cVFZLV9rb2RXV3lLS3VRVFFmMkdzZXRLcGVTeFotR0hGVVBCSmpNczZlV3hrckdURjlEel82?oc=5"
+    }
+  ]
 }
