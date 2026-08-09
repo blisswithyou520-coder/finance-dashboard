@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/09 23:00",
+  "updated_tw": "08/09 23:46",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65198.91,
-      "change": 294.2225,
-      "changePercent": 0.4533
+      "price": 65177.48,
+      "change": 272.7925,
+      "changePercent": 0.4203
     },
     "ETH": {
-      "price": 1923.11,
-      "change": 7.577,
-      "changePercent": 0.3956
+      "price": 1924.88,
+      "change": 9.347,
+      "changePercent": 0.488
     }
   },
   "fx": {
@@ -99,7 +99,7 @@
       "changePercent": 0.5026
     },
     "CNYTWD": {
-      "price": 4.7815,
+      "price": 4.7844,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -125,6 +125,10 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iT2tNM2Z4TXRBNUFsQ04yOFo0RHdCR2FhbTNuODB3bERFakpfamoyS2NFSi14aEpMOFFZWFdYWFZNTEE2dmZsc1dzZThNMUlt?oc=5"
     },
     {
+      "title": "分析師：比特幣面臨 6.7 萬及 7.2 萬美元成本線阻力，或存在潛在拋壓 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qZWZiMVl2TFJPdF9MM2JBSHBCNExadlNOMEZxWWJiV2pybzNvWFY1OTFjRUhBbDJudS1jeURWNzduMDhyUlNkLWVfNA?oc=5"
+    },
+    {
       "title": "美股重大變革！那斯達克拍板「23小時交易」　一天只休市1小時 - finance.ettoday.net",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45MGg2UFVEN0FIUnBmUURnVTlMZjcxRFMyaXREZ3QzUGFQQlZrc085N3E2dXZEbU5WWl9Ob0xVWjd3T3VYbS14ZmtCckF6amt4MnfSAVBBVV95cUxNLW9QZUhOZlp6NThHNFkyb0gzVUd5eV9GWUhUX2VIb0EwNUR2c04xZEZVMGs0RGtiVTVqT0xtM1ZTdFNjTDkzcldjN1pJeWVNTA?oc=5"
     },
@@ -137,16 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYy1LSXQtYjZfOXVRUENzTF9hWTl0RkZ2NkRkUjZXTUtiS05GV2ZVNm12UjNydkI5ZFVvYTB2RG5TQm9Fb3hlLU15Y0tZV3V2RGpCdlU4Vy1kWl83NVV1aHM1Q3Jkcm01QzhhVGZPalMwb3c4dVlrUmRnRHQwU1RBS1NOdUZsaGlJYUJuSFlRVldZMHR1TmlKcmJUUQ?oc=5"
     },
     {
-      "title": "非農數據疲弱助攻、金價衝上4300美元 黃金ETF股價創近期新高 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04dl9nNkh6anJhVGtZRGhCZGxXX0pTNV9kMUJZOU1nSEVIN3BRM25vcjB5dS04SXJjUDItaFBfU2FzT3ZUU3M5UlVMX0NqOG82aUotYzNsSndGNDluc1RB?oc=5"
+      "title": "狂飆後考驗來了！華爾街示警：下週「1指標」恐掀美股暴動 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPWi1nbWtWS0pRSDVRY0laVWRGelZGWDctT0V2R2FnOGhpakwwa0dHdExPankzTUp4Z0owdWF3QjJSYmZWLU5yWjEyNjY1WHBNVmhkTmtETENlZEljR2hKeHdfTWZia3l4TFFlTS1hU09vOWlPT1hpQklTM08tY2NXbUdHV0JTYlN6bEJKdE54MlE4c1Q4UnJONFNlLWYyODI1VXd3SkxuTnFJNnZveXVtbGpHNW14eVpfOGpoVHVoWi1pMHBWRDg3YmJUZWc5dTQ2Yjh0N2VEWV92RjFURGxtdzFlTlg0eDE4VlBGeGMtN205TG0wYVJKVFNPTGwtUHpFZTkwVWxia19aMVI2b2hSTjRiREowZUM4U0k0VVBYNTdpb1JxbXRTYmFxVENhMlVNZVQ2ejd3czNhTGxGeXd4NnF1QXNfVmo5MEZNck1aa3IyS1FEUU9zMUdSeUpjdjlSZ2c?oc=5"
     },
     {
-      "title": "台股上周勁揚1106點! 台指期預告周一再攻? - 非凡新聞台",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBOGtoZEVnbHpDbW45NDJnbThUQ2c3OXZWTmh5ekltbUp0QVBQUm1yTk5pUFh4aEVrbUE5REk5ME5McTFBOW0tS0NKUmxQTzJyTC12dlhVc0ZCaExS?oc=5"
-    },
-    {
-      "title": "處置股新制明上路 台股開盤前2風險 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTWNnZGhKbUZpTVhpWElDemJmSlVTaTFDdnAxMVVpby1KZlVjRGJHNWZCRFBJcjlNam9aZVFLQ0dnZE5Na3NwSnpwUFFUcEhrTThVWmxfTjdja3BNaHU3MW0za0FnM0U2UDIwWlB1Rk03VDNyd3loWFA1RjR2T1BxS1BmOEk5TlVicjhTT1hOejZVOFFMZW45cTJFS3Q3YmZXalJNSnA4ckN1SUptZmMyLTJhaWl2YWJMVVJvOFVKVHZmY2FpUGwtSzZ0YVJfdXhzdFVldHhYdzFPVzhLVTRrRXI5bDE5MkpUVXdxbjNJT2lTcm12QlY2czI0R21aU2JfQ3dscjhkRk1kUQ?oc=5"
+      "title": "若比特幣突破6.7萬美元，主流CEX累計空單清算強度將達4.12億 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93eUFmaHRVZ2pqd0UyMmI0NmQwdzdxRy0tcjNuRlJiTWFvaWlhVWlwZThHWHFVRmRqR3BlNkhZWkc5LTlxZjc1M0R3QQ?oc=5"
     }
   ]
 }
