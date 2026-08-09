@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/10 07:01",
+  "updated_tw": "08/10 07:45",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64990.01,
-      "change": 85.3225,
-      "changePercent": 0.1315
+      "price": 64873.86,
+      "change": -30.8275,
+      "changePercent": -0.0475
     },
     "ETH": {
-      "price": 1917.12,
-      "change": 1.587,
-      "changePercent": 0.0829
+      "price": 1910.59,
+      "change": -4.943,
+      "changePercent": -0.258
     }
   },
   "fx": {
@@ -89,14 +89,14 @@
       "changePercent": 0.0845
     },
     "JPYTWD": {
-      "price": 0.2022,
-      "change": -0.0011,
-      "changePercent": -0.5401
+      "price": 0.202,
+      "change": -0.0013,
+      "changePercent": -0.6385
     },
     "EURTWD": {
-      "price": 37.314,
-      "change": 0.1966,
-      "changePercent": 0.5296
+      "price": 37.302,
+      "change": 0.1846,
+      "changePercent": 0.4972
     },
     "CNYTWD": {
       "price": 4.7814,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4403.0,
-    "twd": 4563.0,
-    "tael": 171114.0,
-    "twdTotal": 141926.0,
-    "changePercent": 1.4352
+    "usd": 4400.8,
+    "twd": 4561.0,
+    "tael": 171028.0,
+    "twdTotal": 141855.0,
+    "changePercent": 1.3846
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,12 +121,16 @@
       "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOYXhLVHZRdFVTOEVqU0N1aklqenJTREw4cFZ3TnYxRk4yR3BNVGlPOXlKbS1zRkd5Vm9pb19xX29rMXBDNUVMeTFTeTJ4LWNEbXNmQ1Q5ZVhHZDFURjY5Rzc0OHgtRk1FYWhhZXUySWRsOUU1cHB4al9aWVVrQkhzMU1jQlFLdjdxaTFQejFMODZnakwxRGgzLXBqX1BIQzNXRUxMQWs4TmhMdFREaHcwNXd0dEJDRzJETGlSRHJfLU1XSVNYMmZYaTVuek9SZjJIS0s5RG4weFJYdUMwMXBNOHhtUWJjMnBfelN2OTdKRTV5VFVLT1RqeG9UcGJxNUl3bTBFUE91WEpYMDU2WGNIb3FKbUhGbFhXLS01QWtRQ2xvVm9tVzBLQnQ3YkZrQjc3WHpMMTBodlBsaURYNGgyNjh0RHA3cnZKSW1zcTNfbHhSdzN0Mmh4ajNaUWhlN1pxbmV6dTItSkpDYzljOUxkYmZ1NEhxQmg2Q1AxaUhhRFJ4TC0tbWJqQUZoWEp6aWVxeUY1NzNoMHRSLUVYZFFOZVdLY1lBdnBxWGdKLWxuVkV3Tlhm?oc=5"
     },
     {
-      "title": "《貴金屬》COMEX黃金上漲2.3% ETF持倉增加-新聞內容-基金 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkh6NTRSNUQzTy02QkdQdUNZS1d2QkZXYkpsUXpucHJ6dUFTcWpmc0ViZ2ZmVVdvRlUwdWRYWkNWYXFUUjRhYld2QXpoNjlSVldWZnVweVVGcE5yX2cxLXNTbEtWc0xPQkVzVEt1NzJuNTN5YlVrNEd3S3ZRTG1WZGd0UDBXdWpTSDh3b0FKam8?oc=5"
+      "title": "《貴金屬》COMEX黃金上漲2.3% ETF持倉增加- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX0JjQnI3SFJmT3Q5QXhQSW0yUHJ6TE9ZbGVhVTk3NW14cHZmbV9zSnRjZHJhcUhod2NmZXdVOXg2aTZabmhncVg5c0J3WWZIY3pSNEVzYXRDLUZQc1A5MWY2TXBqSURTWmNXeXJNbXRJV0w5bjVGRjBwMktFXzlSR2FsRjdGREpkY1ZoZmpldWJtZw?oc=5"
     },
     {
       "title": "美股科技市值型有看頭| 存股族愛ETF | 股市 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15OU5ndFQxR0tUajlfUTFhRVRpcnRUazNFVUZsZ2ItbkNkYkg2NDJPUk0tWnFoZTBfUGJXRnFJRXMtVThPOUVwSXJvR0s0a3FaaVVV?oc=5"
+    },
+    {
+      "title": "金十數據全球財經早餐 | 2026年8月10日 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQekZNRjRnYjhSRkFHVFhqOC13bUw1b01XZ1VFTjBTdXFOYXJFRktCVnNZblcwaVRoUG0zdHI3NHlkTVdnOW5KQ1Q1cGE5ZEMxNGJmT05FNXZhaEpNMTFoc25mV0k1OVpiWVNKQVRGRngxM1BYZFNXUkQxMDd3bzJBMS1BMFpMY0U0bVRvZmtRdUM5Xy1yN1d5aHRPemZzNkV3?oc=5"
     },
     {
       "title": "「席勒本益比」飆破42顯示美股恐崩盤？高盛：未來10年仍有7%報酬 - 鉅亨網",
@@ -143,10 +147,6 @@
     {
       "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
-    },
-    {
-      "title": "那斯達克啟動「全球交易時間」 美股每日最長交易23小時 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNSG1EenNXZ3JVeFNtS01HUGtTOTlNbmJQR3U3ZW9xeDVaTExwYXRxTGNSN3E0RDBDOTE4TUc2NEFIVjJpb1dvTkxSbkpfaXJZUzhzQ1ZEMEZzLUd3ZnpOUWVTU0lsWE0wZV9OVGl0UjZjeTB4aHNPcUNMN3NrWld0a0ZQcmlpT3VRbjI3ek0zMnV0a2VEb2tUZy13Q3BVUGVyNVdtNjIzQ281MVdXR3pwbnZmSU9BZG0tNVFGYVdtNTc2WmRIWU9MdG0zNzVvVDdIU0RJd2Vma2RYWktNSm40VlE1a3o2bDA5TWZVQWt0MEJLdDRNUVdTX2c4eXdyX1U0bkdqb0U2UGtGV0xmY0hDZ1lTdnlXRjF0dWxXTm9WU1E0UTFGeG5PMjNhRU1qVjF5X2Z2WmlKQ29yQjJjWkRlTk5zNHdxbWdCa2xvSFpOa2pmYlB4aFZjQkZiSlNYcUF6?oc=5"
     }
   ]
 }
