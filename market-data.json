@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/10 06:29",
+  "updated_tw": "08/10 07:01",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65183.0,
-      "change": 278.3125,
-      "changePercent": 0.4288
+      "price": 64990.01,
+      "change": 85.3225,
+      "changePercent": 0.1315
     },
     "ETH": {
-      "price": 1927.82,
-      "change": 12.287,
-      "changePercent": 0.6414
+      "price": 1917.12,
+      "change": 1.587,
+      "changePercent": 0.0829
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4400.6,
-    "twd": 4561.0,
-    "tael": 171021.0,
-    "twdTotal": 141849.0,
-    "changePercent": 1.38
+    "usd": 4403.0,
+    "twd": 4563.0,
+    "tael": 171114.0,
+    "twdTotal": 141926.0,
+    "changePercent": 1.4352
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,11 +121,11 @@
       "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOYXhLVHZRdFVTOEVqU0N1aklqenJTREw4cFZ3TnYxRk4yR3BNVGlPOXlKbS1zRkd5Vm9pb19xX29rMXBDNUVMeTFTeTJ4LWNEbXNmQ1Q5ZVhHZDFURjY5Rzc0OHgtRk1FYWhhZXUySWRsOUU1cHB4al9aWVVrQkhzMU1jQlFLdjdxaTFQejFMODZnakwxRGgzLXBqX1BIQzNXRUxMQWs4TmhMdFREaHcwNXd0dEJDRzJETGlSRHJfLU1XSVNYMmZYaTVuek9SZjJIS0s5RG4weFJYdUMwMXBNOHhtUWJjMnBfelN2OTdKRTV5VFVLT1RqeG9UcGJxNUl3bTBFUE91WEpYMDU2WGNIb3FKbUhGbFhXLS01QWtRQ2xvVm9tVzBLQnQ3YkZrQjc3WHpMMTBodlBsaURYNGgyNjh0RHA3cnZKSW1zcTNfbHhSdzN0Mmh4ajNaUWhlN1pxbmV6dTItSkpDYzljOUxkYmZ1NEhxQmg2Q1AxaUhhRFJ4TC0tbWJqQUZoWEp6aWVxeUY1NzNoMHRSLUVYZFFOZVdLY1lBdnBxWGdKLWxuVkV3Tlhm?oc=5"
     },
     {
-      "title": "《貴金屬》COMEX黃金上漲2.3% ETF持倉增加- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZExDX3RmQnlVdmZ5Y09YNXZqLW56MnpvLVlnOU5DZEl3WGxmYVRNNVVham9IbmQ1blFZb2xaaG40UGdON1JUM2c3eG1tQ1dJQ21zOHRFUVEtOHpfZ1dkamFfUkJMbXdYbzVMSEVjaGlGQVNSRmlPYlVLVGs2MEFSb0d1VlZfLTNxSnZLSTNzbVhUN1dUY0E?oc=5"
+      "title": "《貴金屬》COMEX黃金上漲2.3% ETF持倉增加-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkh6NTRSNUQzTy02QkdQdUNZS1d2QkZXYkpsUXpucHJ6dUFTcWpmc0ViZ2ZmVVdvRlUwdWRYWkNWYXFUUjRhYld2QXpoNjlSVldWZnVweVVGcE5yX2cxLXNTbEtWc0xPQkVzVEt1NzJuNTN5YlVrNEd3S3ZRTG1WZGd0UDBXdWpTSDh3b0FKam8?oc=5"
     },
     {
-      "title": "美股科技市值型有看頭| 存股族愛ETF | 股市 - udn.com",
+      "title": "美股科技市值型有看頭| 存股族愛ETF | 股市 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15OU5ndFQxR0tUajlfUTFhRVRpcnRUazNFVUZsZ2ItbkNkYkg2NDJPUk0tWnFoZTBfUGJXRnFJRXMtVThPOUVwSXJvR0s0a3FaaVVV?oc=5"
     },
     {
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
     },
     {
-      "title": "《美股》升息預期減弱標普500指數創新高- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSGlkM05uTWpNQ3VCSDNOTE9Sd2JMV2MwTE8xOEI0dVBBUlVlRGRhekpZQ3Q2bXBvN3RYSm83cHBIZ3l2RzJLUU02NzFnRXBaalZ0QWZrajdSLUJnRDY3T3h4LWZza1Z3cnkyX0RRbm9EYWRBUExrbW1CaHVEblpOTUNOX0ROWnZUNmFwTGJLblJQVTIxdGc?oc=5"
+      "title": "那斯達克啟動「全球交易時間」 美股每日最長交易23小時 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNSG1EenNXZ3JVeFNtS01HUGtTOTlNbmJQR3U3ZW9xeDVaTExwYXRxTGNSN3E0RDBDOTE4TUc2NEFIVjJpb1dvTkxSbkpfaXJZUzhzQ1ZEMEZzLUd3ZnpOUWVTU0lsWE0wZV9OVGl0UjZjeTB4aHNPcUNMN3NrWld0a0ZQcmlpT3VRbjI3ek0zMnV0a2VEb2tUZy13Q3BVUGVyNVdtNjIzQ281MVdXR3pwbnZmSU9BZG0tNVFGYVdtNTc2WmRIWU9MdG0zNzVvVDdIU0RJd2Vma2RYWktNSm40VlE1a3o2bDA5TWZVQWt0MEJLdDRNUVdTX2c4eXdyX1U0bkdqb0U2UGtGV0xmY0hDZ1lTdnlXRjF0dWxXTm9WU1E0UTFGeG5PMjNhRU1qVjF5X2Z2WmlKQ29yQjJjWkRlTk5zNHdxbWdCa2xvSFpOa2pmYlB4aFZjQkZiSlNYcUF6?oc=5"
     }
   ]
 }
