@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/09 16:07",
+  "updated_tw": "08/09 17:01",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64856.5,
-      "change": -48.1875,
-      "changePercent": -0.0742
+      "price": 64771.42,
+      "change": -133.2675,
+      "changePercent": -0.2053
     },
     "ETH": {
-      "price": 1921.72,
-      "change": 6.187,
-      "changePercent": 0.323
+      "price": 1914.23,
+      "change": -1.303,
+      "changePercent": -0.068
     }
   },
   "fx": {
@@ -115,38 +115,5 @@
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": [
-    {
-      "title": "《大賣空》原型警告1987崩盤重演可信嗎？ 專家：「萬年空頭」忽略美股重要事實| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iT2tNM2Z4TXRBNUFsQ04yOFo0RHdCR2FhbTNuODB3bERFakpfamoyS2NFSi14aEpMOFFZWFdYWFZNTEE2dmZsc1dzZThNMUlt?oc=5"
-    },
-    {
-      "title": "美股重大變革！那斯達克拍板「23小時交易」　一天只休市1小時 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45MGg2UFVEN0FIUnBmUURnVTlMZjcxRFMyaXREZ3QzUGFQQlZrc085N3E2dXZEbU5WWl9Ob0xVWjd3T3VYbS14ZmtCckF6amt4MnfSAVBBVV95cUxNLW9QZUhOZlp6NThHNFkyb0gzVUd5eV9GWUhUX2VIb0EwNUR2c04xZEZVMGs0RGtiVTVqT0xtM1ZTdFNjTDkzcldjN1pJeWVNTA?oc=5"
-    },
-    {
-      "title": "比特幣礦企瘋轉型 AI，華爾街不買單？財報季揭曉：誰有現金流、誰還在畫大餅 - blockcast.it",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYy1LSXQtYjZfOXVRUENzTF9hWTl0RkZ2NkRkUjZXTUtiS05GV2ZVNm12UjNydkI5ZFVvYTB2RG5TQm9Fb3hlLU15Y0tZV3V2RGpCdlU4Vy1kWl83NVV1aHM1Q3Jkcm01QzhhVGZPalMwb3c4dVlrUmRnRHQwU1RBS1NOdUZsaGlJYUJuSFlRVldZMHR1TmlKcmJUUQ?oc=5"
-    },
-    {
-      "title": "Santiment：比特幣鏈上交易量激增，一周新增錢包創10個月來新高 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OcG0xbnk0T21MQXM3TXNuakh2blhaQnNqeDFuZkFfMlZ6Y01rZzN0NnNaSDkwQjNVZnlidHQ3SnByTUd4NEI0YzJvWQ?oc=5"
-    },
-    {
-      "title": "台股失守季線！法人：量能不足恐續震盪 這些族群可逢低布局 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNaC1wZ01zYTVXcnJraUlmd3VqOENhdkxNamVVeWUwejZrVjlqMHNSRjV2Qkd4SUlSdi05Z3JCV1VSRi1COWdnMWRvQXpMOGJVQ0ZiQXhBOS02MUN4WnllUURhM3F1SVdEZ3AzWDJZUWxkY2JDbEx6X2NCYXA4ZGRXVnJSMHNoanYtdEoxNGl2MFN6OU5nVXdNRS1JU1Y0UWlPLXN6NUk3OUY3V19kdjNWM1RkSHVsdDFSN0NYTUoweHVRT3NCRTBIUzV3OWt2cjdtbXIzSS1YUEtSc2c0UWE5cUliYjNtdTJ6N0Y2UkxIOVZaMk55TWtSc3hyOUlRMEV0U20wSXNoT1lxa0hrNTg0UE9KOUpSaUMzQktWdUxUVF9rT05hajYzbUhRVzAtQThVOFUyLXhZd1JpOUJwdEotUnZLZ2J0cy1lSWdKMHhSX1N2V1RUaER3aTlxejEtV1pncGNXeWJUZWFXVHRKUEhhUV82dUhmRjlrdmRiMHB5RjVGcjA?oc=5"
-    },
-    {
-      "title": "非農數據疲弱助攻、金價衝上4300美元 黃金ETF股價創近期新高 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04dl9nNkh6anJhVGtZRGhCZGxXX0pTNV9kMUJZOU1nSEVIN3BRM25vcjB5dS04SXJjUDItaFBfU2FzT3ZUU3M5UlVMX0NqOG82aUotYzNsSndGNDluc1RB?oc=5"
-    },
-    {
-      "title": "非農就業爆冷再燃降息預期！台股周一鐵定跳空噴漲？「反轉回升還欠它關鍵一擊」投信提前換將4類低位階族群- 上市櫃 - 旺得富理財網",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGSndlNFBVQkxIaFlQU0E2OEhFeFoxeVprLTlSd0dVZmNmU0VFcGFGYkpueG5wcU5vVDFqdzdTcUVBdE5haG1JTGktdzJ0RXV6UjFXdVlpaFc1ZVFIcWpnaXNJOGNqWFRsT1E?oc=5"
-    },
-    {
-      "title": "【美股週報】 大跌之後的驗證 什麼族群能抗跌且反彈又大漲 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rUGJ5Z3RieHNYd01CNnd6cl9ESHZHeXN1dzdJaXQ2TzQ0dHVqZVJLeGFoZDl4Y09MRWZFLWU4UUdNMnRsNXpyQ0dwNmxwaXUtTHVsa3pLLVVndW9zY2xOTmVEU1E0dUE?oc=5"
-    }
-  ]
+  "news": []
 }
