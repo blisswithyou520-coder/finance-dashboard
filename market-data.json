@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/09 13:17",
+  "updated_tw": "08/09 14:07",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64733.98,
-      "change": -146.2114,
-      "changePercent": -0.2254
+      "price": 64752.01,
+      "change": -128.1814,
+      "changePercent": -0.1976
     },
     "ETH": {
-      "price": 1913.3,
-      "change": 0.0206,
-      "changePercent": 0.0011
+      "price": 1913.89,
+      "change": 0.6106,
+      "changePercent": 0.0319
     }
   },
   "fx": {
@@ -121,7 +121,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iT2tNM2Z4TXRBNUFsQ04yOFo0RHdCR2FhbTNuODB3bERFakpfamoyS2NFSi14aEpMOFFZWFdYWFZNTEE2dmZsc1dzZThNMUlt?oc=5"
     },
     {
-      "title": "非農數據疲弱助攻、金價衝上4300美元 黃金ETF股價創近期新高 - ec.ltn.com.tw",
+      "title": "非農數據疲弱助攻、金價衝上4300美元 黃金ETF股價創近期新高 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04dl9nNkh6anJhVGtZRGhCZGxXX0pTNV9kMUJZOU1nSEVIN3BRM25vcjB5dS04SXJjUDItaFBfU2FzT3ZUU3M5UlVMX0NqOG82aUotYzNsSndGNDluc1RB?oc=5"
     },
     {
@@ -133,6 +133,10 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYy1LSXQtYjZfOXVRUENzTF9hWTl0RkZ2NkRkUjZXTUtiS05GV2ZVNm12UjNydkI5ZFVvYTB2RG5TQm9Fb3hlLU15Y0tZV3V2RGpCdlU4Vy1kWl83NVV1aHM1Q3Jkcm01QzhhVGZPalMwb3c4dVlrUmRnRHQwU1RBS1NOdUZsaGlJYUJuSFlRVldZMHR1TmlKcmJUUQ?oc=5"
     },
     {
+      "title": "非農就業爆冷再燃降息預期！台股周一鐵定跳空噴漲？「反轉回升還欠它關鍵一擊」投信提前換將4類低位階族群- 上市櫃 - 旺得富理財網",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGSndlNFBVQkxIaFlQU0E2OEhFeFoxeVprLTlSd0dVZmNmU0VFcGFGYkpueG5wcU5vVDFqdzdTcUVBdE5haG1JTGktdzJ0RXV6UjFXdVlpaFc1ZVFIcWpnaXNJOGNqWFRsT1E?oc=5"
+    },
+    {
       "title": "美股大變革！那斯達克宣佈「23小時交易」這天起正式上路，每天僅休市1小時 | 江勳紘 | 風生活 - 風傳媒",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qblo3TlpIaTZKdkxTZVpZSFRwLTJ3OGF3d01ZZi1rRE83SkdRc1RWY1FvVlJLd1Ffd2JrRTdKSU82bEFpYVNWa0o0SllKNkJr?oc=5"
     },
@@ -141,12 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04bnRpaDI4c3UtOERsbUNzRERPNlVmakJtSEpaT016UWdIWi01cm5BNVQyd2g5b0ZQVS1QZGVIX0YwS2NXR25RV0o5U3pRZw?oc=5"
     },
     {
-      "title": "台股反彈惟市場波動提升 法人：審慎評估投資機會 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CbFhTRmF6Z2RwQmVkQTd4NjY1ZXZ4cEpHclMwQ0x6c0VoSjFXeklaN1ZCcGJnOHNDTzlJY05rNUduVEdIT0NHYjlwRUhvZFN50gFWQVVfeXFMUEhwaWotVEQwS1VJU2F3M2V3ZUtLcjZVWXZyTElPT0lqRXUtQnIyS2c2STlZam5Ebjl3aU92czlwVHdLQTdYYWhrbkxaemZNTXBaMTBhRWc?oc=5"
-    },
-    {
-      "title": "星期一開盤噴爆？美股標普500創歷史新高 台指期夜盤大漲 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOSzNIcGN1RzNPY29jdHBjMFp2RDBNWG5KQlJqUkw1UkdzN09lZURQXzlUREdGUXRrc3NiM3RuVXZLd3AzcFhDUGo1R21SRXctd1RfUWJXV2tIdGZsNzJkQmtELW0tLVdwRmRVYldOeU5pMWlFeVBBZWpYUzg3czF4WC0wNTI5S2d3NzFUeGE3RU9EY3NMU1BRcml6NlNNanlXYk5hZ05JOHJWOHk1TWJFMFI2Q3F5R3AwZVB6LWlMbzNqTkp5N3ZhZEprdFByS29aalBXZmdHcURnTk0tc3dWRHppQkpFaktISk9iX0Q1cnlTTWN1dUFuVjNwd0RZa0VzX0lpeS1HdVJsSzNmbGY4S1h1THFYeGFNbk5Fa3dyYktjQ3paeks3OEo5d25UNzFMaks1NDk1UlVWTkJsb1p3NkJDeWc4dEJGVl8tbGJJeU9ZeC1EbHRjOVJjdENZdjdpN0EtdHBwM0Y1WHc?oc=5"
+      "title": "【美股重大變革！那斯達克拍板「23小時交易」 一天只休市1小時】 哇 ...真‧不讓你睡。（#豬頭皮） - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNcWZ4Yk5pSkFKQTV6NzZvWGlNUDVPZXVGWWg5eDNOenpjd2lqYW53ck1oVnRvREY3QzRLVW1ZVk1LQ3NLSUFpNWFMTGpveWZBUHI1RU5WRXNQN2lMLTEtOVE5T2JkSjZORFdWNUlrVGFyNFVtUUk0N3JTaHpxdk9HZWRWUTBIbjl3eDByZm5XTVlkc25vNnZIQzFMN3BRMy1KcTBLWXZOY3BLdU1pOXV2dmMxd01SbTRUeUlxRktZUEp1eUUxLTkxclhRNVdsbGd2ZlNpUmh3ZzFaRkRIRkR2RVhMdUxjSkhJVnBndkdqeUlaTHlBMGxKdDkzUFFQSnpkTDlFdzJSUnRuMWQzZmI3ZDlRV1FWcXl4cFJ2ckVuWDZpdTR0azJGVWdDMjViUnJKSFgta0FGazFTWFlDNDZOckRXRnZiNkltcWMtTDJKSFhuMF9kdllZczc1Z1pYSTNIc3pONVNPMDkxUEVXLXZyN0pmc2t3SzJfNXBkNmVoUWxtbVVjWlAycnQzS1A1UXNiR25lZnVNcmpiY0xWWWNtMmdJLTdhdzN2ckJ2NzV1OXdhaWUtcTVYVnZTYW1WSlJGdGJpd19vRGhZVURnUUVZQnlXWDhiRVNMazIybnA1OU51Z1E3R3pndjZRVV81Si1O?oc=5"
     }
   ]
 }
