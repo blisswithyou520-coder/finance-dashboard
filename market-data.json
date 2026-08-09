@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/10 05:12",
+  "updated_tw": "08/10 05:49",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,34 +72,34 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65087.61,
-      "change": 182.9225,
-      "changePercent": 0.2818
+      "price": 65159.82,
+      "change": 255.1325,
+      "changePercent": 0.3931
     },
     "ETH": {
-      "price": 1918.8,
-      "change": 3.267,
-      "changePercent": 0.1706
+      "price": 1924.71,
+      "change": 9.177,
+      "changePercent": 0.4791
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.235,
-      "change": 0.0282,
-      "changePercent": 0.0876
+      "price": 32.234,
+      "change": 0.0272,
+      "changePercent": 0.0845
     },
     "JPYTWD": {
-      "price": 0.2021,
-      "change": -0.0012,
-      "changePercent": -0.5893
+      "price": 0.2022,
+      "change": -0.0011,
+      "changePercent": -0.5401
     },
     "EURTWD": {
-      "price": 37.304,
-      "change": 0.1866,
-      "changePercent": 0.5026
+      "price": 37.314,
+      "change": 0.1966,
+      "changePercent": 0.5296
     },
     "CNYTWD": {
-      "price": 4.7844,
+      "price": 4.7814,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -107,8 +107,8 @@
   "gold": {
     "usd": 4399.7,
     "twd": 4560.0,
-    "tael": 170991.0,
-    "twdTotal": 141824.0,
+    "tael": 170986.0,
+    "twdTotal": 141820.0,
     "changePercent": 3.7176
   },
   "fed": {
@@ -133,6 +133,10 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Hanh3elVEQ1ZVemJjaURMb3VqOWdOLUVLclBZTEZ5SEtVZkpxQ2RzMkE3aERjN29VNzdQV0xWR1NsZ2xFcFBJREpkQQ?oc=5"
     },
     {
+      "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
+    },
+    {
       "title": "那斯達克啟動「全球交易時間」 美股每日最長交易23小時 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNSG1EenNXZ3JVeFNtS01HUGtTOTlNbmJQR3U3ZW9xeDVaTExwYXRxTGNSN3E0RDBDOTE4TUc2NEFIVjJpb1dvTkxSbkpfaXJZUzhzQ1ZEMEZzLUd3ZnpOUWVTU0lsWE0wZV9OVGl0UjZjeTB4aHNPcUNMN3NrWld0a0ZQcmlpT3VRbjI3ek0zMnV0a2VEb2tUZy13Q3BVUGVyNVdtNjIzQ281MVdXR3pwbnZmSU9BZG0tNVFGYVdtNTc2WmRIWU9MdG0zNzVvVDdIU0RJd2Vma2RYWktNSm40VlE1a3o2bDA5TWZVQWt0MEJLdDRNUVdTX2c4eXdyX1U0bkdqb0U2UGtGV0xmY0hDZ1lTdnlXRjF0dWxXTm9WU1E0UTFGeG5PMjNhRU1qVjF5X2Z2WmlKQ29yQjJjWkRlTk5zNHdxbWdCa2xvSFpOa2pmYlB4aFZjQkZiSlNYcUF6?oc=5"
     },
@@ -143,10 +147,6 @@
     {
       "title": "分析師：比特幣面臨 6.7 萬及 7.2 萬美元成本線阻力，或存在潛在拋壓 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qZWZiMVl2TFJPdF9MM2JBSHBCNExadlNOMEZxWWJiV2pybzNvWFY1OTFjRUhBbDJudS1jeURWNzduMDhyUlNkLWVfNA?oc=5"
-    },
-    {
-      "title": "台指期站回四萬五 台股本周多空交戰、迎MSCI季調恐調降 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNcnc1ZW1MX2FPMlc0cTgtdXpCaHZQX2N0dWctVFRDS20tejBTR3BMTk9oam1FZVpwSUZ6RHgyREV4eUFGSVRCZUJYb2xGNDlUZlpVUEFjS21DZHc4LUlfM2UwcGdueEo4bnNMWk5nZ20wdzJrRDBRVGtCWDlBU3FBSm5GRnpyZXZ3d3pKd2dyU1AyWXJaZDFFcXBJSzJSZUFFWXltV0VFM2JYakRPSVpGQUVHRmt2NmdYYkg0M2hWMW5tNkFEbUJsZjhnRUxGcEd6SmJEYkhJcnlaNnNoQjRvQXV0X2ZtZHBTb25hQjdiSVVTaS10Q1I3d1VCUDE5RlJkbWl2ZDBJNFRSN0ZNNkdPa3YzTVJnMEZWOFNTZEhqMTF5Um9JWFRMMWdlQW5FdlVnc1dKdTBMY3h6MnlJZVoyVXhBcDZVWW02TUpYb1U0UXpWd0wwV0JtTnUwaURWY2ZzUkt3?oc=5"
     }
   ]
 }
