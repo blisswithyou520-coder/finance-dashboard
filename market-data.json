@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/10 03:19",
+  "updated_tw": "08/10 03:56",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65169.98,
-      "change": 265.2925,
-      "changePercent": 0.4087
+      "price": 65148.8,
+      "change": 244.1125,
+      "changePercent": 0.3761
     },
     "ETH": {
-      "price": 1920.61,
-      "change": 5.077,
-      "changePercent": 0.265
+      "price": 1920.7,
+      "change": 5.167,
+      "changePercent": 0.2697
     }
   },
   "fx": {
@@ -121,8 +121,8 @@
       "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOYXhLVHZRdFVTOEVqU0N1aklqenJTREw4cFZ3TnYxRk4yR3BNVGlPOXlKbS1zRkd5Vm9pb19xX29rMXBDNUVMeTFTeTJ4LWNEbXNmQ1Q5ZVhHZDFURjY5Rzc0OHgtRk1FYWhhZXUySWRsOUU1cHB4al9aWVVrQkhzMU1jQlFLdjdxaTFQejFMODZnakwxRGgzLXBqX1BIQzNXRUxMQWs4TmhMdFREaHcwNXd0dEJDRzJETGlSRHJfLU1XSVNYMmZYaTVuek9SZjJIS0s5RG4weFJYdUMwMXBNOHhtUWJjMnBfelN2OTdKRTV5VFVLT1RqeG9UcGJxNUl3bTBFUE91WEpYMDU2WGNIb3FKbUhGbFhXLS01QWtRQ2xvVm9tVzBLQnQ3YkZrQjc3WHpMMTBodlBsaURYNGgyNjh0RHA3cnZKSW1zcTNfbHhSdzN0Mmh4ajNaUWhlN1pxbmV6dTItSkpDYzljOUxkYmZ1NEhxQmg2Q1AxaUhhRFJ4TC0tbWJqQUZoWEp6aWVxeUY1NzNoMHRSLUVYZFFOZVdLY1lBdnBxWGdKLWxuVkV3Tlhm?oc=5"
     },
     {
-      "title": "白銀投資 躍居Plus版黃金 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tQTVJMlNZNWhTdjVfTXBTLWNVM3VnT1pyeUROa0Vrb0pENG5PUkwzNkliMWVhdkNyaHJicktVQ20wdGV2c1NDNmo5SnQ1RXppSmtr0gFYQVVfeXFMTVIxWDNpMnJwVXBXbUJORFJ6alUyTVR0OE9IdmR0RVo2QkNtU0lVLW9CamVEYkc3X0w1SlVUR0FmTXhDWlYwX3dIZ3hTTXJkYW5VMEpwakNnXw?oc=5"
+      "title": "美股科技市值型有看頭| 存股族愛ETF | 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15OU5ndFQxR0tUajlfUTFhRVRpcnRUazNFVUZsZ2ItbkNkYkg2NDJPUk0tWnFoZTBfUGJXRnFJRXMtVThPOUVwSXJvR0s0a3FaaVVV?oc=5"
     },
     {
       "title": "台股週報》外資由賣轉買 夜盤先站回45K - 卡優新聞網",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLam8xNXB1Snk5ekxvRGlxQ01sZEdRRm1lazBfNVVWNlRwN0QyWUlFbEszV0s0MmVTUXdlY2NjOUxpMy03a2hMUVp2akZpak9qT3ZvbjYtdWpraUtvdXRJ?oc=5"
     },
     {
-      "title": "美股創高《大賣空》本尊卻喊要股災了！專家酸：唱衰成癮整天只會嚇人 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPVzhnX194ZVZzaEhpbUl6NGZkMlhZVDFOOUVud1R5WTM0cUgyNkExUXloOUo4NFA3b0M3S0pGNlEybW9Jb25lWVozU3BneDc4dGU5bzZFOVBWWEVVbXNZWThKSm9MaGtCSWlKQUQzNllnbkhYUnNESmJfcEdVOFRVRm1SdWk2R2NkNXpaNXhKUmJIRDNNNXVkRG82cnhTVE5YRkVWamdCZ3EwSl9wcGdxeHQyZ2NJX01ST2h6U3RaQkM1d05yY01MV0lXcnFXd3pXNTBiTDhkdUd1QmFIVFVuTGxrM3plbXhhYzV4dFlyaVpHY2dZUnFYZVlSWVd2R2pkT3QzNHB5UkNzczBvdGZGbnNQcUoxcU1CRWlaTThFSlZScGR5T1dCdUFSUHVJb1NUYy02ZUZPclU0Y1BVZ1lpQU5jRjlRNWZRRXdzdF9JaXVMbnpxQkEtTkhTVjZJRno5NDJHam9wQkk0dEJYbGtmU3VwNzc2WlFuNWdiZDlmcU11TnNKRzAyc3lRTWR0ZDVVQWVPX1BJVDF1WmtkaF9CSjVNZEthdkhT?oc=5"
+      "title": "投顧：台股短線已反彈5000點 第四季逢低布局 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuVjRzZUlQclpSTFo3RG9OYVlrNkJ4clYyVXJ0RnZsbk0xVFpHQ3kyT0Fjc3ZHRDZoeWFIV3VqckNoM3Y0OER0emlRU1A2Y1Z1NnRKVWg2a3cxTkxaZktZ?oc=5"
     },
     {
-      "title": "《大賣空》原型警告1987崩盤重演可信嗎？ 專家：「萬年空頭」忽略美股重要事實| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iT2tNM2Z4TXRBNUFsQ04yOFo0RHdCR2FhbTNuODB3bERFakpfamoyS2NFSi14aEpMOFFZWFdYWFZNTEE2dmZsc1dzZThNMUlt?oc=5"
+      "title": "那斯達克啟動「全球交易時間」 美股每日最長交易23小時 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNSG1EenNXZ3JVeFNtS01HUGtTOTlNbmJQR3U3ZW9xeDVaTExwYXRxTGNSN3E0RDBDOTE4TUc2NEFIVjJpb1dvTkxSbkpfaXJZUzhzQ1ZEMEZzLUd3ZnpOUWVTU0lsWE0wZV9OVGl0UjZjeTB4aHNPcUNMN3NrWld0a0ZQcmlpT3VRbjI3ek0zMnV0a2VEb2tUZy13Q3BVUGVyNVdtNjIzQ281MVdXR3pwbnZmSU9BZG0tNVFGYVdtNTc2WmRIWU9MdG0zNzVvVDdIU0RJd2Vma2RYWktNSm40VlE1a3o2bDA5TWZVQWt0MEJLdDRNUVdTX2c4eXdyX1U0bkdqb0U2UGtGV0xmY0hDZ1lTdnlXRjF0dWxXTm9WU1E0UTFGeG5PMjNhRU1qVjF5X2Z2WmlKQ29yQjJjWkRlTk5zNHdxbWdCa2xvSFpOa2pmYlB4aFZjQkZiSlNYcUF6?oc=5"
     },
     {
-      "title": "若比特幣突破6.7萬美元，主流CEX累計空單清算強度將達4.12億 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93eUFmaHRVZ2pqd0UyMmI0NmQwdzdxRy0tcjNuRlJiTWFvaWlhVWlwZThHWHFVRmRqR3BlNkhZWkc5LTlxZjc1M0R3QQ?oc=5"
+      "title": "白銀投資 躍居Plus版黃金 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tQTVJMlNZNWhTdjVfTXBTLWNVM3VnT1pyeUROa0Vrb0pENG5PUkwzNkliMWVhdkNyaHJicktVQ20wdGV2c1NDNmo5SnQ1RXppSmtr0gFYQVVfeXFMTVIxWDNpMnJwVXBXbUJORFJ6alUyTVR0OE9IdmR0RVo2QkNtU0lVLW9CamVEYkc3X0w1SlVUR0FmTXhDWlYwX3dIZ3hTTXJkYW5VMEpwakNnXw?oc=5"
     }
   ]
 }
