@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/10 03:56",
+  "updated_tw": "08/10 04:36",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65148.8,
-      "change": 244.1125,
-      "changePercent": 0.3761
+      "price": 65100.31,
+      "change": 195.6225,
+      "changePercent": 0.3014
     },
     "ETH": {
-      "price": 1920.7,
-      "change": 5.167,
-      "changePercent": 0.2697
+      "price": 1919.15,
+      "change": 3.617,
+      "changePercent": 0.1888
     }
   },
   "fx": {
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qZWZiMVl2TFJPdF9MM2JBSHBCNExadlNOMEZxWWJiV2pybzNvWFY1OTFjRUhBbDJudS1jeURWNzduMDhyUlNkLWVfNA?oc=5"
     },
     {
-      "title": "台股5面向利多齊發- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLam8xNXB1Snk5ekxvRGlxQ01sZEdRRm1lazBfNVVWNlRwN0QyWUlFbEszV0s0MmVTUXdlY2NjOUxpMy03a2hMUVp2akZpak9qT3ZvbjYtdWpraUtvdXRJ?oc=5"
-    },
-    {
-      "title": "投顧：台股短線已反彈5000點 第四季逢低布局 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuVjRzZUlQclpSTFo3RG9OYVlrNkJ4clYyVXJ0RnZsbk0xVFpHQ3kyT0Fjc3ZHRDZoeWFIV3VqckNoM3Y0OER0emlRU1A2Y1Z1NnRKVWg2a3cxTkxaZktZ?oc=5"
-    },
-    {
       "title": "那斯達克啟動「全球交易時間」 美股每日最長交易23小時 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNSG1EenNXZ3JVeFNtS01HUGtTOTlNbmJQR3U3ZW9xeDVaTExwYXRxTGNSN3E0RDBDOTE4TUc2NEFIVjJpb1dvTkxSbkpfaXJZUzhzQ1ZEMEZzLUd3ZnpOUWVTU0lsWE0wZV9OVGl0UjZjeTB4aHNPcUNMN3NrWld0a0ZQcmlpT3VRbjI3ek0zMnV0a2VEb2tUZy13Q3BVUGVyNVdtNjIzQ281MVdXR3pwbnZmSU9BZG0tNVFGYVdtNTc2WmRIWU9MdG0zNzVvVDdIU0RJd2Vma2RYWktNSm40VlE1a3o2bDA5TWZVQWt0MEJLdDRNUVdTX2c4eXdyX1U0bkdqb0U2UGtGV0xmY0hDZ1lTdnlXRjF0dWxXTm9WU1E0UTFGeG5PMjNhRU1qVjF5X2Z2WmlKQ29yQjJjWkRlTk5zNHdxbWdCa2xvSFpOa2pmYlB4aFZjQkZiSlNYcUF6?oc=5"
     },
     {
       "title": "白銀投資 躍居Plus版黃金 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tQTVJMlNZNWhTdjVfTXBTLWNVM3VnT1pyeUROa0Vrb0pENG5PUkwzNkliMWVhdkNyaHJicktVQ20wdGV2c1NDNmo5SnQ1RXppSmtr0gFYQVVfeXFMTVIxWDNpMnJwVXBXbUJORFJ6alUyTVR0OE9IdmR0RVo2QkNtU0lVLW9CamVEYkc3X0w1SlVUR0FmTXhDWlYwX3dIZ3hTTXJkYW5VMEpwakNnXw?oc=5"
+    },
+    {
+      "title": "若比特幣突破6.7萬美元，主流CEX累計空單清算強度將達4.12億 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93eUFmaHRVZ2pqd0UyMmI0NmQwdzdxRy0tcjNuRlJiTWFvaWlhVWlwZThHWHFVRmRqR3BlNkhZWkc5LTlxZjc1M0R3QQ?oc=5"
+    },
+    {
+      "title": "台指期站回四萬五 台股本周多空交戰、迎MSCI季調恐調降 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNcnc1ZW1MX2FPMlc0cTgtdXpCaHZQX2N0dWctVFRDS20tejBTR3BMTk9oam1FZVpwSUZ6RHgyREV4eUFGSVRCZUJYb2xGNDlUZlpVUEFjS21DZHc4LUlfM2UwcGdueEo4bnNMWk5nZ20wdzJrRDBRVGtCWDlBU3FBSm5GRnpyZXZ3d3pKd2dyU1AyWXJaZDFFcXBJSzJSZUFFWXltV0VFM2JYakRPSVpGQUVHRmt2NmdYYkg0M2hWMW5tNkFEbUJsZjhnRUxGcEd6SmJEYkhJcnlaNnNoQjRvQXV0X2ZtZHBTb25hQjdiSVVTaS10Q1I3d1VCUDE5RlJkbWl2ZDBJNFRSN0ZNNkdPa3YzTVJnMEZWOFNTZEhqMTF5Um9JWFRMMWdlQW5FdlVnc1dKdTBMY3h6MnlJZVoyVXhBcDZVWW02TUpYb1U0UXpWd0wwV0JtTnUwaURWY2ZzUkt3?oc=5"
     }
   ]
 }
