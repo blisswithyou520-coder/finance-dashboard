@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/10 04:36",
+  "updated_tw": "08/10 05:12",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65100.31,
-      "change": 195.6225,
-      "changePercent": 0.3014
+      "price": 65087.61,
+      "change": 182.9225,
+      "changePercent": 0.2818
     },
     "ETH": {
-      "price": 1919.15,
-      "change": 3.617,
-      "changePercent": 0.1888
+      "price": 1918.8,
+      "change": 3.267,
+      "changePercent": 0.1706
     }
   },
   "fx": {
@@ -129,8 +129,8 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EM1hmaDBhWjRTV3FzQUx6ZkY3NXg5TW1pb2lvZGtETlFnRU8yc0hnNFVQNHFiRVR3RjJwMXVGUVpyOE1uVktsX0h2T1NOVVZuOWRvNFVTZjBUZw?oc=5"
     },
     {
-      "title": "分析師：比特幣面臨 6.7 萬及 7.2 萬美元成本線阻力，或存在潛在拋壓 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qZWZiMVl2TFJPdF9MM2JBSHBCNExadlNOMEZxWWJiV2pybzNvWFY1OTFjRUhBbDJudS1jeURWNzduMDhyUlNkLWVfNA?oc=5"
+      "title": "「席勒本益比」飆破42顯示美股恐崩盤？高盛：未來10年仍有7%報酬 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Hanh3elVEQ1ZVemJjaURMb3VqOWdOLUVLclBZTEZ5SEtVZkpxQ2RzMkE3aERjN29VNzdQV0xWR1NsZ2xFcFBJREpkQQ?oc=5"
     },
     {
       "title": "那斯達克啟動「全球交易時間」 美股每日最長交易23小時 - Yahoo新聞",
@@ -141,8 +141,8 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tQTVJMlNZNWhTdjVfTXBTLWNVM3VnT1pyeUROa0Vrb0pENG5PUkwzNkliMWVhdkNyaHJicktVQ20wdGV2c1NDNmo5SnQ1RXppSmtr0gFYQVVfeXFMTVIxWDNpMnJwVXBXbUJORFJ6alUyTVR0OE9IdmR0RVo2QkNtU0lVLW9CamVEYkc3X0w1SlVUR0FmTXhDWlYwX3dIZ3hTTXJkYW5VMEpwakNnXw?oc=5"
     },
     {
-      "title": "若比特幣突破6.7萬美元，主流CEX累計空單清算強度將達4.12億 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93eUFmaHRVZ2pqd0UyMmI0NmQwdzdxRy0tcjNuRlJiTWFvaWlhVWlwZThHWHFVRmRqR3BlNkhZWkc5LTlxZjc1M0R3QQ?oc=5"
+      "title": "分析師：比特幣面臨 6.7 萬及 7.2 萬美元成本線阻力，或存在潛在拋壓 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qZWZiMVl2TFJPdF9MM2JBSHBCNExadlNOMEZxWWJiV2pybzNvWFY1OTFjRUhBbDJudS1jeURWNzduMDhyUlNkLWVfNA?oc=5"
     },
     {
       "title": "台指期站回四萬五 台股本周多空交戰、迎MSCI季調恐調降 - Yahoo新聞",
