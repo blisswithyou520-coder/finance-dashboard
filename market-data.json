@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/09 20:16",
+  "updated_tw": "08/09 21:30",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64891.78,
-      "change": -12.9075,
-      "changePercent": -0.0199
+      "price": 65056.19,
+      "change": 151.5025,
+      "changePercent": 0.2334
     },
     "ETH": {
-      "price": 1916.45,
-      "change": 0.917,
-      "changePercent": 0.0479
+      "price": 1923.43,
+      "change": 7.897,
+      "changePercent": 0.4123
     }
   },
   "fx": {
@@ -117,7 +117,7 @@
   },
   "news": [
     {
-      "title": "美股交易時間將延長！那斯達克「23小時交易」這天上路 每日僅休市1小時 - tw.stock.yahoo.com",
+      "title": "美股交易時間將延長！那斯達克「23小時交易」這天上路 每日僅休市1小時 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOYXhLVHZRdFVTOEVqU0N1aklqenJTREw4cFZ3TnYxRk4yR3BNVGlPOXlKbS1zRkd5Vm9pb19xX29rMXBDNUVMeTFTeTJ4LWNEbXNmQ1Q5ZVhHZDFURjY5Rzc0OHgtRk1FYWhhZXUySWRsOUU1cHB4al9aWVVrQkhzMU1jQlFLdjdxaTFQejFMODZnakwxRGgzLXBqX1BIQzNXRUxMQWs4TmhMdFREaHcwNXd0dEJDRzJETGlSRHJfLU1XSVNYMmZYaTVuek9SZjJIS0s5RG4weFJYdUMwMXBNOHhtUWJjMnBfelN2OTdKRTV5VFVLT1RqeG9UcGJxNUl3bTBFUE91WEpYMDU2WGNIb3FKbUhGbFhXLS01QWtRQ2xvVm9tVzBLQnQ3YkZrQjc3WHpMMTBodlBsaURYNGgyNjh0RHA3cnZKSW1zcTNfbHhSdzN0Mmh4ajNaUWhlN1pxbmV6dTItSkpDYzljOUxkYmZ1NEhxQmg2Q1AxaUhhRFJ4TC0tbWJqQUZoWEp6aWVxeUY1NzNoMHRSLUVYZFFOZVdLY1lBdnBxWGdKLWxuVkV3Tlhm?oc=5"
     },
     {
@@ -129,19 +129,19 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45MGg2UFVEN0FIUnBmUURnVTlMZjcxRFMyaXREZ3QzUGFQQlZrc085N3E2dXZEbU5WWl9Ob0xVWjd3T3VYbS14ZmtCckF6amt4MnfSAVBBVV95cUxNLW9QZUhOZlp6NThHNFkyb0gzVUd5eV9GWUhUX2VIb0EwNUR2c04xZEZVMGs0RGtiVTVqT0xtM1ZTdFNjTDkzcldjN1pJeWVNTA?oc=5"
     },
     {
-      "title": "幣圈院士：8.9比特幣（BTC）橫盤拉鋸絕非休整 讀懂加密市場的方向醞釀信號 最新行情分析 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pd0dJT0FyU2xhZVBVanFLUXh4bkh5MUpCdG9zdEk5Z2lTWWpkM3ZWUi0xQ0Jmd2Z4eDQ3WmNYM0Z1X3h2TTJpS3YyRQ?oc=5"
+      "title": "Santiment：比特幣鏈上交易量激增，一周新增錢包創10個月來新高 - cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OcG0xbnk0T21MQXM3TXNuakh2blhaQnNqeDFuZkFfMlZ6Y01rZzN0NnNaSDkwQjNVZnlidHQ3SnByTUd4NEI0YzJvWQ?oc=5"
     },
     {
       "title": "比特幣礦企瘋轉型 AI，華爾街不買單？財報季揭曉：誰有現金流、誰還在畫大餅 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYy1LSXQtYjZfOXVRUENzTF9hWTl0RkZ2NkRkUjZXTUtiS05GV2ZVNm12UjNydkI5ZFVvYTB2RG5TQm9Fb3hlLU15Y0tZV3V2RGpCdlU4Vy1kWl83NVV1aHM1Q3Jkcm01QzhhVGZPalMwb3c4dVlrUmRnRHQwU1RBS1NOdUZsaGlJYUJuSFlRVldZMHR1TmlKcmJUUQ?oc=5"
     },
     {
-      "title": "非農數據疲弱助攻、金價衝上4300美元 黃金ETF股價創近期新高 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04dl9nNkh6anJhVGtZRGhCZGxXX0pTNV9kMUJZOU1nSEVIN3BRM25vcjB5dS04SXJjUDItaFBfU2FzT3ZUU3M5UlVMX0NqOG82aUotYzNsSndGNDluc1RB?oc=5"
+      "title": "7月台股跌破季線 散戶狂買ETF逾5500億元、0050申購破紀錄 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10VnFfLXRLOUdWUGxOdFlkVks2Z3FjRHgtbC1qQlhrUjhoWHVOcV9GVzNyTFlWYXd3Z3FuV3hyQW9aT3BVcHRUVWpsYXEwRE5nVFhhN2ZKT3RhQ19xUkJF?oc=5"
     },
     {
-      "title": "台股上周勁揚1106點! 台指期預告周一再攻? - 非凡新聞台",
+      "title": "台股上周勁揚1106點! 台指期預告周一再攻? - news.ustv.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBOGtoZEVnbHpDbW45NDJnbThUQ2c3OXZWTmh5ekltbUp0QVBQUm1yTk5pUFh4aEVrbUE5REk5ME5McTFBOW0tS0NKUmxQTzJyTC12dlhVc0ZCaExS?oc=5"
     },
     {
