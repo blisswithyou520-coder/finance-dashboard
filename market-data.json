@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/11 05:11",
+  "updated_tw": "08/11 05:58",
   "taiwan": {
     "2330": {
       "price": 2380.0,
-      "change": 15.0,
-      "changePercent": 0.6342
+      "change": 10.0,
+      "changePercent": 0.4219
     },
     "2454": {
       "price": 3960.0,
-      "change": 40.0,
-      "changePercent": 1.0204
+      "change": 60.0,
+      "changePercent": 1.5385
     },
     "2317": {
       "price": 264.5,
-      "change": 0.0,
-      "changePercent": 0.0
+      "change": 4.5,
+      "changePercent": 1.7308
     },
     "0050": {
       "price": 104.25,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64055.28,
-      "change": -789.6067,
-      "changePercent": -1.2177
+      "price": 63936.0,
+      "change": -908.8867,
+      "changePercent": -1.4016
     },
     "ETH": {
-      "price": 1875.24,
-      "change": -33.4427,
-      "changePercent": -1.7521
+      "price": 1872.99,
+      "change": -35.6927,
+      "changePercent": -1.87
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.237,
-      "change": 0.0019,
-      "changePercent": 0.0059
+      "price": 32.235,
+      "change": -0.0001,
+      "changePercent": -0.0003
     },
     "JPYTWD": {
       "price": 0.2002,
@@ -94,21 +94,21 @@
       "changePercent": -1.9675
     },
     "EURTWD": {
-      "price": 37.264,
-      "change": 0.0088,
-      "changePercent": 0.0235
+      "price": 37.257,
+      "change": 0.0018,
+      "changePercent": 0.0047
     },
     "CNYTWD": {
-      "price": 4.7868,
+      "price": 4.7817,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
     "usd": 4448.6,
-    "twd": 4611.0,
-    "tael": 172902.0,
-    "twdTotal": 143410.0,
+    "twd": 4610.0,
+    "tael": 172891.0,
+    "twdTotal": 143401.0,
     "changePercent": 2.4858
   },
   "fed": {
@@ -125,6 +125,10 @@
       "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPZks0OUdZMzQzOUl0aUY5M29QbEwyS3NFMmNDeUZ5ZnFiaUE1dkdHUHdxd25GV2lmNVB4aXcwWUV3QUVCZzdJbDVSSk96cXhwZ3c0OXJyN0ZCVVZ3UHo3eEhlTVdTckYtWDZFbTYtSjhVTl9Uc1VxVTRMTV8wdVV0NEdfRWRsbk1pQ0tVdkczYjhxSzVzTVBSenJ4bkJYODdCNjJrY051YUV4bno3Ukc4SkhNOTZpT1VsTFJoQW9fN1RaZFlCWkYwdDlxdlVsWjVVUmVhUWpwbUNLVXRPV0drSklSLUlpQnV1d3N4M2VINXU4YW41TmUybDJJRUpEVXZnV2FqNHpPcXlGTVBrYndkTjY0cTVXOHBlU21tVmkyY0ZyMHNjWXRUUG1mc0FabGxoNnZwWHJJbnUtd3FkZHZxTzFkWHkzblZtNmFtUDJyOG14OGM3Q3pERFJ6TXhZZmdEOGhOM3BpY3RZakxKaTZIWlFlSUZZU0g2MGx5bjdSOHhlZ21Nd3oyS2w4ZUZROHpxZlRQd0F1LXh2Zw?oc=5"
     },
     {
+      "title": "〈美股早盤〉荷姆茲僵局推升油價與美債殖利率 主要指數平盤震盪 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2akRkT2lRaTBHQXpSN0N5LXpoclhFSlVxcFNqN25CdFI3RXpvenpfMVdNSEw5em5IZnpBUVFCY1VDT1dMNGliZlFNemQ4aVk?oc=5"
+    },
+    {
       "title": "美股崩盤將至？歷史揭「永不失敗」投資策略 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPVGNkNnJVdmNuS3c5TFJSLU50MXpnRmlXS0xFZ0hlbFVoVHd2djlNT0NYbm01NVV2NXl4V3RnRzdsNXAyR3FSRWdrTVVIYjlsTWZ1el9GTTFvdnBPUjR4RXZGY09YYVdldzNCazBmanBTcGJlUklScXltX2lheDNSdFlCdkktVE5YMm9OWjNPYWx6M1ZXSnhwdmNnV2c3VlBkVGQtX2dHWUV0Z3RTa0FrUTFrSHN2LXpfdU5WcFZJaVN3NmJ5eHREX0NQS0hHNVdyVVhreEdyZ0cxNmRsY1RUTW5iSHdJb2VDNzhXeW1oWWtXd0tLY0RQQ0hVVXU5bDZhWEpMSGhMUW9zdG5FLXBxem42OVFuRGZ3UElVSDA4cGZqdzA?oc=5"
     },
@@ -135,10 +139,6 @@
     {
       "title": "《強勢美股特報》P,VAL,PBF,MP等10檔 - 台視全球資訊網",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcS1TWGlHdkVlRWpHYmlRem5TTmZkMDhIdzJJX1VXQ2VJWXBHXzROcHJQVGpKVm1WTFFCVVhXZjFtSXBwYXZWaHpIQnRaNS1KV01KVmZyX2dDU2IzTGs2bDV5ckRvajFVaHRGbWp0d18tTFY1R3otdHh3V1lFU1psQkNKYWhCQ05UVExyVVl5OTBYdw?oc=5"
-    },
-    {
-      "title": "《台股盤後》收漲702點、日K翻紅，45K得而復失- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVGF4dUZHMC1Sam44Sjl5eWdoRFBrUkxQNmZodmVzbjdYbUpQTDFqYmFaM0VkNk44Z2JHZ21ORDFSeFY2OThNNDh3eFc2aTdIakQzUHBPNmJwNTgzMmdaeVdJM1dDQ2g3WHgxRGZidjI0STN5YVNqU3l0bF9Za3Mwa0RUZGZ3R3Z3di0xVTM4d3VJZw?oc=5"
     },
     {
       "title": "主動式台股ETF有勁 上月底來平均績效逾19%超越大盤 - UDN",
