@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/10 23:40",
+  "updated_tw": "08/11 00:32",
   "taiwan": {
     "2330": {
       "price": 2380.0,
-      "change": 10.0,
-      "changePercent": 0.4219
+      "change": 15.0,
+      "changePercent": 0.6342
     },
     "2454": {
       "price": 3960.0,
-      "change": 60.0,
-      "changePercent": 1.5385
+      "change": 40.0,
+      "changePercent": 1.0204
     },
     "2317": {
       "price": 264.5,
-      "change": 4.5,
-      "changePercent": 1.7308
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "0050": {
       "price": 104.25,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 218.99,
-      "change": -4.97,
-      "changePercent": -2.2191
+      "price": 218.18,
+      "change": -5.78,
+      "changePercent": -2.5808
     },
     "AAPL": {
-      "price": 306.565,
-      "change": -6.765,
-      "changePercent": -2.1591
+      "price": 305.435,
+      "change": -7.895,
+      "changePercent": -2.5197
     },
     "TSLA": {
-      "price": 328.79,
-      "change": 0.21,
-      "changePercent": 0.0639
+      "price": 330.06,
+      "change": 1.48,
+      "changePercent": 0.4504
     },
     "QQQ": {
-      "price": 721.74,
-      "change": -1.29,
-      "changePercent": -0.1784
+      "price": 721.78,
+      "change": -1.25,
+      "changePercent": -0.1729
     },
     "SPY": {
-      "price": 773.5,
-      "change": 0.24,
-      "changePercent": 0.031
+      "price": 772.88,
+      "change": -0.38,
+      "changePercent": -0.0491
     },
     "SCHD": {
-      "price": 34.07,
-      "change": 0.17,
-      "changePercent": 0.5015
+      "price": 34.085,
+      "change": 0.185,
+      "changePercent": 0.5457
     },
     "VOO": {
-      "price": 710.99,
-      "change": 0.28,
-      "changePercent": 0.0394
+      "price": 710.417,
+      "change": -0.293,
+      "changePercent": -0.0412
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64240.41,
-      "change": -604.4767,
-      "changePercent": -0.9322
+      "price": 64047.63,
+      "change": -797.2567,
+      "changePercent": -1.2295
     },
     "ETH": {
-      "price": 1876.45,
-      "change": -32.2327,
-      "changePercent": -1.6887
+      "price": 1873.13,
+      "change": -35.5527,
+      "changePercent": -1.8627
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.231,
-      "change": 0.0242,
-      "changePercent": 0.0751
+      "price": 32.243,
+      "change": 0.0362,
+      "changePercent": 0.1124
     },
     "JPYTWD": {
-      "price": 0.2006,
-      "change": -0.0027,
-      "changePercent": -1.3271
+      "price": 0.2007,
+      "change": -0.0026,
+      "changePercent": -1.2779
     },
     "EURTWD": {
-      "price": 37.261,
-      "change": 0.1436,
-      "changePercent": 0.3868
+      "price": 37.292,
+      "change": 0.1746,
+      "changePercent": 0.4703
     },
     "CNYTWD": {
-      "price": 4.7833,
+      "price": 4.7853,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4410.2,
-    "twd": 4570.0,
-    "tael": 171378.0,
-    "twdTotal": 142145.0,
-    "changePercent": 1.6011
+    "usd": 4422.1,
+    "twd": 4584.0,
+    "tael": 171904.0,
+    "twdTotal": 142582.0,
+    "changePercent": 1.8753
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,7 +137,7 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iQ0RISDI3aEN3aXBZbjdqSDlBVkNfZmF2ekFvTWlvVkZydms4UmdIZjVrZmVyUXdaa21RTzNsb2R0RTZzbkItTzRnOWJ4QXM?oc=5"
     },
     {
-      "title": "芝商所比特幣期貨翻多！分析：避險基金棄守空單、押注後市走揚 - 區塊客",
+      "title": "芝商所比特幣期貨翻多！分析：避險基金棄守空單、押注後市走揚 - blockcast.it",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTR0RUxvOE41b0pBLVJFYXk5aVhwSS1xOS1ad2Q5ZU84YzlQOG1BTHJ2RGtOOTlkc2FaeWRrVGp6aHZfbGlfT25ZZTNBdGZGbHJzNU9wWjA1WXdhXzhhTXQyVnU1MUNPOTd3SDAtOXVheGhuVTR4WnlYazFOaEZlUzZNSnBTT2xqN1NkcVEtZWtWVlB0U2V4RGVkZHRuQlZuYUw5SUo5Zld3UQ?oc=5"
     },
     {
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVGF4dUZHMC1Sam44Sjl5eWdoRFBrUkxQNmZodmVzbjdYbUpQTDFqYmFaM0VkNk44Z2JHZ21ORDFSeFY2OThNNDh3eFc2aTdIakQzUHBPNmJwNTgzMmdaeVdJM1dDQ2g3WHgxRGZidjI0STN5YVNqU3l0bF9Za3Mwa0RUZGZ3R3Z3di0xVTM4d3VJZw?oc=5"
     },
     {
-      "title": "台股漲700點外資回頭買超512億元 敲進中鋼反手砍航空、金融股 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MTG82VF9vcDVKNjdNYXB1RFhIQjJkcG44Y085V3J1VXI4cERnNlJ1aWRCMEp6aGtFSnpwZ3BnclR0RUZxYW40Z2NpNi1oWXc?oc=5"
+      "title": "美股漲到沒人敢做空！華爾街FOMO全面失控 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQQUo5VjQ5ekFLUGdaU0tyOWwwY2E2TXcxZGZna2tvekhEY3J3d1FrVUdJMHJDMTYzZGpWU2NJbnhCNDlmU3ZsVkZMVENYYkpUcWJaczJOZEZfUHVYNFZ1Q1BmdG4xdURTaVFkLU1vR0tfSEhQU1ZmSHVaMFJrTExPOEhMbUltRUtNTGZvUFFqU3NmYWZaaDNXS0FJR2hjalhreVlleDNrdkdiQUJDOTJSdUZraVNXZ2QxTG9QMnhBT0lIT2xoN2EzRXFZSEdUUmFuWjJBMU55THBMMEJaZVd5dGdweFFWRDM3NXYxNVYyNEtBMldERG1oamxERG5EU1Q2b09xUEo0cGFYc0lrZW95bGhVbS1HWDhVVGVPSnpLRlFJUQ?oc=5"
     }
   ]
 }
