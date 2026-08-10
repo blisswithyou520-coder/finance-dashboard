@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/10 21:34",
+  "updated_tw": "08/10 22:43",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 222.45,
-      "change": -1.51,
-      "changePercent": -0.6742
+      "price": 220.44,
+      "change": -3.52,
+      "changePercent": -1.5717
     },
     "AAPL": {
-      "price": 306.415,
-      "change": -6.915,
-      "changePercent": -2.2069
+      "price": 306.575,
+      "change": -6.755,
+      "changePercent": -2.1559
     },
     "TSLA": {
-      "price": 328.91,
-      "change": 0.33,
-      "changePercent": 0.1004
+      "price": 330.45,
+      "change": 1.87,
+      "changePercent": 0.5691
     },
     "QQQ": {
-      "price": 721.31,
-      "change": -1.72,
-      "changePercent": -0.2379
+      "price": 724.2,
+      "change": 1.17,
+      "changePercent": 0.1618
     },
     "SPY": {
-      "price": 772.74,
-      "change": -0.52,
-      "changePercent": -0.0672
+      "price": 774.54,
+      "change": 1.28,
+      "changePercent": 0.1655
     },
     "SCHD": {
-      "price": 33.94,
-      "change": 0.04,
-      "changePercent": 0.118
+      "price": 33.985,
+      "change": 0.085,
+      "changePercent": 0.2507
     },
     "VOO": {
-      "price": 710.36,
-      "change": -0.35,
-      "changePercent": -0.0492
+      "price": 711.96,
+      "change": 1.25,
+      "changePercent": 0.1759
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64841.08,
-      "change": -3.8067,
-      "changePercent": -0.0059
+      "price": 64823.54,
+      "change": -21.3467,
+      "changePercent": -0.0329
     },
     "ETH": {
-      "price": 1906.82,
-      "change": -1.8627,
-      "changePercent": -0.0976
+      "price": 1899.84,
+      "change": -8.8427,
+      "changePercent": -0.4633
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.228,
-      "change": 0.0212,
-      "changePercent": 0.0658
+      "price": 32.241,
+      "change": 0.0342,
+      "changePercent": 0.1062
     },
     "JPYTWD": {
-      "price": 0.2006,
-      "change": -0.0027,
-      "changePercent": -1.3271
+      "price": 0.2007,
+      "change": -0.0026,
+      "changePercent": -1.2779
     },
     "EURTWD": {
-      "price": 37.265,
-      "change": 0.1476,
-      "changePercent": 0.3976
+      "price": 37.303,
+      "change": 0.1856,
+      "changePercent": 0.4999
     },
     "CNYTWD": {
-      "price": 4.7822,
+      "price": 4.7858,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4388.9,
-    "twd": 4548.0,
-    "tael": 170534.0,
-    "twdTotal": 141445.0,
-    "changePercent": 1.1104
+    "usd": 4406.9,
+    "twd": 4568.0,
+    "tael": 171303.0,
+    "twdTotal": 142083.0,
+    "changePercent": 1.5251
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,15 +121,19 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1AxZ0dON3ZYRnJwbW5wUHlJSDctT01wSjZiVzhNQlc5Q1ZKVzJ3czdhMGhYVlBqZVBhVlZ4dExCR0Z2ODZYRGJLTzRWN3V6YnFPcktJanhRTjBpdXRLMDBfZmNhRmJNMG1qV0tOVUtPTVMzZGhmSFl1R1YzajEzU0lMUGNzQVBKNXo5T2V4UkowUDczeFJLLWtfRENxX3V6?oc=5"
     },
     {
-      "title": "台股暴漲藏危機勿追！專家揭3大「不妙訊號」：恐準備殺一波 - tw.news.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNYm5FSGtFdWRBOGxQcGNxRTFiaUhBNG1WQXRmOHBpRHEtdkQ4dUJCd3N1TlpFV3o4WmxRdDI2clRDUllZRnJ6TzhvMXhtaDFCeTlrWDZvT3BBcTltWGl3V2dnMTF4VUl4UHRyTmpVckxKTnlOeHZNV28yMkFRSFZNcHpZY1NyX3ZZQjIzSnBfSzU2Mm1oV1FkSWJvQkQ1dmFhcDNsRndZYldJSE83dUFuZTcyb0F5VEZWRy1ZamRUOEhOQjBvWGRBSHFiazdCSXc3bzRQc3d1a2pqZzVLSjJaVWxBcVAxaG1kUUp1RU5Dd0lBNGpERjV3NXJpelNHdjItaUdPX0NuamZQSXF6TDhuLUVtc1pQdXFVeUlpbVhYejNNTHNpZnlsN3k5d3NFQkVlSHdYM00wUFJkczAway03TTZnWTUxNHl6U3d4YjVkcDFqQkUwcXZZM28xbjNLZzhKYWc?oc=5"
-    },
-    {
       "title": "【0810台股盤後】台股大盤飆702 點強勢攻克45,000 點大關！記憶體、MLCC、光通訊三強拱頂，鎖定「營收創高模範生」至上、力積電、盟立｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxPc2JCOGhaY1ZwVm1LMTZzYzhseUtuTDVQTDBNSjljTWVyNU5Za01UYUN5eV9MblFkS0JROGhFSnQzN2YySGcxX1pKZWdINWNITTNfTGk1TlBzODFrdjJvRTExbjFHVVpzalVfamdUVkljdVl0Tzc1dzlFN2dwbmdiNHdjaWNQMFBIbkFnZHhTbXRBTUIwTlI5NnVhT19xYkVPWXVsdklOdTVyMGZOZ2d5OFFhZTNwbGRBSkRWTGhVNnBKVUdMdWF2R1hvSXlKU25mcWd4TW1JNlpLV3AwbkRzRHlva0R5SnZDcTE4Slcwc3BvNWdjRElTVVlCaHBIMGdaSHJRUzZUclY0Vm9lT0lyMGxGOUtPV2tmTVN0UEFvTUs1T1ZUc3ROaHYxcXRSemNPNkhPaWVjUXVieU9kRGZSaDIzY3ZIUUxTZWE5WTQ5cll3T0tQem1mT3IyUGhhRDVxalo1aGZUQ01kclNvbmNybEJCVmE5RTlPejVYZzVjalFwbkswZGlndGdFSUxEeDVCSkFjSjZEc1U1VndPWDY4ZmhCd0FTSnBHUDB1SFdkRlYxWWhoTFhwcm9wdk92ckNSamFNTDMwQkNvTWJMbS02bkVqMVdBSVVfWWFGdU1iTWZuMmdzTVotc1F5cjlUSzZISTB1RDZfRUVaVzVaYTl0dzI3c2hFNklfNnhsMHpUc1JZcFI5UzBTYl9RbUQ2eHdxQUh4VFJDdlZzcHMtc08ydnRIU29MdXVrSHVfOWtDSVY5SzBZR2dmLXlTZ1VOVUdRVjFuUUZDdEJmbFp6d2Z5TGV4SXdZV1NZZWI4d3hEU1hHRW01b2FBekVVc3J2eXI1R1JsNFlycFFlWmlsT0lUYS11VzhNZDZBdmc1YkVaeE84R2hwSDItRTlB?oc=5"
     },
     {
-      "title": "科技股回神大反攻美股基金近周狂吸95億美元勇奪冠| 股市要聞| 股市 - udn.com",
+      "title": "台股暴漲藏危機勿追！專家揭3大「不妙訊號」：恐準備殺一波 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNYm5FSGtFdWRBOGxQcGNxRTFiaUhBNG1WQXRmOHBpRHEtdkQ4dUJCd3N1TlpFV3o4WmxRdDI2clRDUllZRnJ6TzhvMXhtaDFCeTlrWDZvT3BBcTltWGl3V2dnMTF4VUl4UHRyTmpVckxKTnlOeHZNV28yMkFRSFZNcHpZY1NyX3ZZQjIzSnBfSzU2Mm1oV1FkSWJvQkQ1dmFhcDNsRndZYldJSE83dUFuZTcyb0F5VEZWRy1ZamRUOEhOQjBvWGRBSHFiazdCSXc3bzRQc3d1a2pqZzVLSjJaVWxBcVAxaG1kUUp1RU5Dd0lBNGpERjV3NXJpelNHdjItaUdPX0NuamZQSXF6TDhuLUVtc1pQdXFVeUlpbVhYejNNTHNpZnlsN3k5d3NFQkVlSHdYM00wUFJkczAway03TTZnWTUxNHl6U3d4YjVkcDFqQkUwcXZZM28xbjNLZzhKYWc?oc=5"
+    },
+    {
+      "title": "台股處置新制上路縮短撮合時間 業界肯定有助流動性提升 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iQ0RISDI3aEN3aXBZbjdqSDlBVkNfZmF2ekFvTWlvVkZydms4UmdIZjVrZmVyUXdaa21RTzNsb2R0RTZzbkItTzRnOWJ4QXM?oc=5"
+    },
+    {
+      "title": "科技股回神大反攻美股基金近周狂吸95億美元勇奪冠| 股市要聞| 股市 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qXzV2dkNqc2o3OWhUTEc2cl9NYmhkbGZCSmZIQmFEaVAzVU1VdzJqdXpmOWZfUGw0S20zOUNOVUNENGJGaDNkRk1mNE52MWcz?oc=5"
     },
     {
@@ -137,11 +141,7 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVGF4dUZHMC1Sam44Sjl5eWdoRFBrUkxQNmZodmVzbjdYbUpQTDFqYmFaM0VkNk44Z2JHZ21ORDFSeFY2OThNNDh3eFc2aTdIakQzUHBPNmJwNTgzMmdaeVdJM1dDQ2g3WHgxRGZidjI0STN5YVNqU3l0bF9Za3Mwa0RUZGZ3R3Z3di0xVTM4d3VJZw?oc=5"
     },
     {
-      "title": "台股暴漲暴跌，當沖怎麼做？林昇揭「選股金三角」防多空雙巴-觀點新聞 - 商周財富網",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHYlotODlpWXo2bkduM1pVWFgzcFRCUWNUSzlhMmZuWFI5cmlCbE9pcFZuSE5Cb0RfY3I2WkYwRXJranVfSG9QZ2g0SHdJS0xaNHRwejNiNVJ6VmRfNGloTWZjbnQ0OVpDQW56ajdyNlIyVEYtVHc?oc=5"
-    },
-    {
-      "title": "比特幣最新軟分叉「夭折」：8 小時僅挖 2 個區塊，老礦工集體唱反調 - 區塊客",
+      "title": "比特幣最新軟分叉「夭折」：8 小時僅挖 2 個區塊，老礦工集體唱反調 - blockcast.it",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcW5EU2UwSFhFRzhldWhVT3I4b3hUQUR6ZUk1djlUWmRTSzB3QTU5MkVpNGFQWEwxYUVwdEVwc2YwUUZGVUp1MGtzRFh3XzNRMFdZdVRXT1ZJbEhNTW5GOFAweXIyZG11dXFta3ptZHE5QUNtTVQ5TW1KWHlBdDdYM1kwSjFKaEF0eHFJWmx3?oc=5"
     },
     {
