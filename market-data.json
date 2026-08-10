@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/11 05:58",
+  "updated_tw": "08/11 06:48",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63936.0,
-      "change": -908.8867,
-      "changePercent": -1.4016
+      "price": 63935.16,
+      "change": -909.7267,
+      "changePercent": -1.4029
     },
     "ETH": {
-      "price": 1872.99,
-      "change": -35.6927,
-      "changePercent": -1.87
+      "price": 1873.65,
+      "change": -35.0327,
+      "changePercent": -1.8354
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.235,
-      "change": -0.0001,
-      "changePercent": -0.0003
+      "price": 32.229,
+      "change": -0.0061,
+      "changePercent": -0.0189
     },
     "JPYTWD": {
       "price": 0.2002,
@@ -94,28 +94,32 @@
       "changePercent": -1.9675
     },
     "EURTWD": {
-      "price": 37.257,
-      "change": 0.0018,
-      "changePercent": 0.0047
+      "price": 37.248,
+      "change": -0.0072,
+      "changePercent": -0.0194
     },
     "CNYTWD": {
-      "price": 4.7817,
+      "price": 4.7853,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4448.6,
-    "twd": 4610.0,
-    "tael": 172891.0,
-    "twdTotal": 143401.0,
-    "changePercent": 2.4858
+    "usd": 4452.8,
+    "twd": 4614.0,
+    "tael": 173022.0,
+    "twdTotal": 143509.0,
+    "changePercent": 2.5825
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "美股崩盤將至？歷史揭「永不失敗」投資策略 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPVGNkNnJVdmNuS3c5TFJSLU50MXpnRmlXS0xFZ0hlbFVoVHd2djlNT0NYbm01NVV2NXl4V3RnRzdsNXAyR3FSRWdrTVVIYjlsTWZ1el9GTTFvdnBPUjR4RXZGY09YYVdldzNCazBmanBTcGJlUklScXltX2lheDNSdFlCdkktVE5YMm9OWjNPYWx6M1ZXSnhwdmNnV2c3VlBkVGQtX2dHWUV0Z3RTa0FrUTFrSHN2LXpfdU5WcFZJaVN3NmJ5eHREX0NQS0hHNVdyVVhreEdyZ0cxNmRsY1RUTW5iSHdJb2VDNzhXeW1oWWtXd0tLY0RQQ0hVVXU5bDZhWEpMSGhMUW9zdG5FLXBxem42OVFuRGZ3UElVSDA4cGZqdzA?oc=5"
+    },
     {
       "title": "美股早盤／中東陷僵局「四大指數盡墨」 英特爾跌4%、晶片股挫| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5La21IcEJaZXNKbE9BZHI2RlJTR1JnLUJUQlBPMG5oUTRaNEFIOGUwY2F6OXliTlY0RDl3c0ZwWFhhOC1SU01QRHBQRVozSGx6?oc=5"
@@ -129,24 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2akRkT2lRaTBHQXpSN0N5LXpoclhFSlVxcFNqN25CdFI3RXpvenpfMVdNSEw5em5IZnpBUVFCY1VDT1dMNGliZlFNemQ4aVk?oc=5"
     },
     {
-      "title": "美股崩盤將至？歷史揭「永不失敗」投資策略 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPVGNkNnJVdmNuS3c5TFJSLU50MXpnRmlXS0xFZ0hlbFVoVHd2djlNT0NYbm01NVV2NXl4V3RnRzdsNXAyR3FSRWdrTVVIYjlsTWZ1el9GTTFvdnBPUjR4RXZGY09YYVdldzNCazBmanBTcGJlUklScXltX2lheDNSdFlCdkktVE5YMm9OWjNPYWx6M1ZXSnhwdmNnV2c3VlBkVGQtX2dHWUV0Z3RTa0FrUTFrSHN2LXpfdU5WcFZJaVN3NmJ5eHREX0NQS0hHNVdyVVhreEdyZ0cxNmRsY1RUTW5iSHdJb2VDNzhXeW1oWWtXd0tLY0RQQ0hVVXU5bDZhWEpMSGhMUW9zdG5FLXBxem42OVFuRGZ3UElVSDA4cGZqdzA?oc=5"
+      "title": "美股收盤》美伊僵持油價飆 美股震盪費半重挫 台積電ADR跌0.37％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ndm8xNlJDOVJqcjhHb2hWNnBscjk4OG1kcnRxR2ZzRkVYZWk2cE1kaTNrWUtFbVMtTV9kZmFNWHNjaGlBMWdiU0I1cUp6djhLcmV2eDFxNTdIbk4xQUhB?oc=5"
     },
     {
       "title": "台股處置新制上路縮短撮合時間 業界肯定有助流動性提升 - 公視新聞網PNN",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iQ0RISDI3aEN3aXBZbjdqSDlBVkNfZmF2ekFvTWlvVkZydms4UmdIZjVrZmVyUXdaa21RTzNsb2R0RTZzbkItTzRnOWJ4QXM?oc=5"
     },
     {
-      "title": "《強勢美股特報》P,VAL,PBF,MP等10檔 - 台視全球資訊網",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcS1TWGlHdkVlRWpHYmlRem5TTmZkMDhIdzJJX1VXQ2VJWXBHXzROcHJQVGpKVm1WTFFCVVhXZjFtSXBwYXZWaHpIQnRaNS1KV01KVmZyX2dDU2IzTGs2bDV5ckRvajFVaHRGbWp0d18tTFY1R3otdHh3V1lFU1psQkNKYWhCQ05UVExyVVl5OTBYdw?oc=5"
+      "title": "《貴金屬》等待通膨數據 COMEX黃金上漲0.5% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEtkUGFxMEplOEZaOE5BNmx6Znc4YWlXLVBNcDFHRGlaNzZwNGlyUlBnTHBNWXYxQjZ0OXdOY3BPcWlrRTVfT2ltWHdDNGYzdjZwU1F2V1NKR1JBdFlXeXROSllVRmxuNnVvNHpwYzZheUU5bU9Vb1hKWFkwb0xpTWhKRDhOVVpmU0EydHNVTUtDZw?oc=5"
     },
     {
       "title": "主動式台股ETF有勁 上月底來平均績效逾19%超越大盤 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuZUp6bDF5OUFFeExCUTU0MTEwR1Jfa3BkNWo2RTB0RjBSczhuRnZ5d0FuUGdoWHl0aDluN3lvQkY0dUJjdlhHcFUwMjZnUzF2NFhF0gFYQVVfeXFMUC00cDRwNmRJU1BPTWZrMUxtcHFWMnBHQTh2YWhhTWwtc1R2UkdpbGlYTVVzVTN1dHpZWTNLMmttcGRKRTZZRkh5bU1MUTB0bWlRX09ZQ2R3dw?oc=5"
-    },
-    {
-      "title": "台股強彈702點！面板雙虎、電源雙雄爆量漲停記憶體全面點火｜Yahoo財經掃描｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxNQ25FZC04NzFaZTk0bnhVWmtrb2tXUTNJcEYtaUE2UXIxS0RkR3AxeVdCUEZvdEhvRDZHakpvS1hQYnFBazNBcXZhYWY5bnRubjVBcHdKVUw4b243VGJDUEpmLWJzd1BmMUg1YkFHUWNGeFoxWjhZQ1JwVFY0ZUluamN2R2lTOF9mVHl3SUZlLV9HSFBIYnRhXzh3djc4UDRTNGN4eEF5TVZHRmxpb3FpSUxNZUEzQzRzYzBiSlZDdUxVdGx0U0hXWGxTV1YzTTRKWjNYakRMbEJuU3NBTFZMQjJnaWIwRXhKNlZQMUVzeTd4QUFsT0M0MFN0NVBSbGhCRWdVOVNpTHNkYVNjbzJFSGN3T3BuZ0VieWZPa2xGdERJVmJQdjBYdlkxNmJ4cmRzb2hHZndBRlRYWHlIb2Qwb052M0pHUDd4cjBnXzQ0dkFVUl9PTEdzbTdOX0RVVWhqdDB6eExMcDFMNEMwSTd1X0QxbUxfbnM0akNTRmRyTE04UjNac0d6UktYeWJDVEttUnlxM05DYjNGM2RxQldrYklsWWtZOHRtS2RmT0p1ZnVXOWotVTNCdWVPeDlHdlFCY2FkYVNWVEhrMzZaYVRydGh5aUhKZklnOEJZQThpTWFUX3llUjAxUUdqOU5ENS0xRGV4cFUwcEgzT1Bhb0JCckQtYUNIVWROUlVnNVZpVmVLYVJxUFI0djdNamE2dw?oc=5"
     }
   ]
 }
