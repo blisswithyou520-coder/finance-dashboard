@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/11 02:33",
+  "updated_tw": "08/11 03:41",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 218.5,
-      "change": -5.46,
-      "changePercent": -2.4379
+      "price": 218.89,
+      "change": -5.07,
+      "changePercent": -2.2638
     },
     "AAPL": {
-      "price": 306.81,
-      "change": -6.52,
-      "changePercent": -2.0809
+      "price": 307.4,
+      "change": -5.93,
+      "changePercent": -1.8926
     },
     "TSLA": {
-      "price": 328.478,
-      "change": -0.102,
-      "changePercent": -0.031
+      "price": 329.615,
+      "change": 1.035,
+      "changePercent": 0.315
     },
     "QQQ": {
-      "price": 721.316,
-      "change": -1.714,
-      "changePercent": -0.2371
+      "price": 721.595,
+      "change": -1.435,
+      "changePercent": -0.1985
     },
     "SPY": {
-      "price": 772.55,
-      "change": -0.71,
-      "changePercent": -0.0918
+      "price": 773.03,
+      "change": -0.23,
+      "changePercent": -0.0297
     },
     "SCHD": {
-      "price": 34.135,
-      "change": 0.235,
-      "changePercent": 0.6932
+      "price": 34.145,
+      "change": 0.245,
+      "changePercent": 0.7227
     },
     "VOO": {
-      "price": 710.126,
-      "change": -0.584,
-      "changePercent": -0.0822
+      "price": 710.595,
+      "change": -0.115,
+      "changePercent": -0.0162
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63850.37,
-      "change": -994.5167,
-      "changePercent": -1.5337
+      "price": 63868.69,
+      "change": -976.1967,
+      "changePercent": -1.5054
     },
     "ETH": {
-      "price": 1870.87,
-      "change": -37.8127,
-      "changePercent": -1.9811
+      "price": 1875.72,
+      "change": -32.9627,
+      "changePercent": -1.727
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.244,
-      "change": 0.0372,
-      "changePercent": 0.1155
+      "price": 32.25,
+      "change": 0.0432,
+      "changePercent": 0.1341
     },
     "JPYTWD": {
-      "price": 0.2004,
-      "change": -0.0029,
-      "changePercent": -1.4255
+      "price": 0.2002,
+      "change": -0.0031,
+      "changePercent": -1.5239
     },
     "EURTWD": {
-      "price": 37.269,
-      "change": 0.1516,
-      "changePercent": 0.4083
+      "price": 37.267,
+      "change": 0.1496,
+      "changePercent": 0.4029
     },
     "CNYTWD": {
-      "price": 4.7858,
+      "price": 4.7881,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4423.0,
-    "twd": 4585.0,
-    "tael": 171944.0,
-    "twdTotal": 142615.0,
-    "changePercent": 1.896
+    "usd": 4447.9,
+    "twd": 4612.0,
+    "tael": 172945.0,
+    "twdTotal": 143445.0,
+    "changePercent": 2.4696
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPZks0OUdZMzQzOUl0aUY5M29QbEwyS3NFMmNDeUZ5ZnFiaUE1dkdHUHdxd25GV2lmNVB4aXcwWUV3QUVCZzdJbDVSSk96cXhwZ3c0OXJyN0ZCVVZ3UHo3eEhlTVdTckYtWDZFbTYtSjhVTl9Uc1VxVTRMTV8wdVV0NEdfRWRsbk1pQ0tVdkczYjhxSzVzTVBSenJ4bkJYODdCNjJrY051YUV4bno3Ukc4SkhNOTZpT1VsTFJoQW9fN1RaZFlCWkYwdDlxdlVsWjVVUmVhUWpwbUNLVXRPV0drSklSLUlpQnV1d3N4M2VINXU4YW41TmUybDJJRUpEVXZnV2FqNHpPcXlGTVBrYndkTjY0cTVXOHBlU21tVmkyY0ZyMHNjWXRUUG1mc0FabGxoNnZwWHJJbnUtd3FkZHZxTzFkWHkzblZtNmFtUDJyOG14OGM3Q3pERFJ6TXhZZmdEOGhOM3BpY3RZakxKaTZIWlFlSUZZU0g2MGx5bjdSOHhlZ21Nd3oyS2w4ZUZROHpxZlRQd0F1LXh2Zw?oc=5"
     },
     {
-      "title": "快訊／7月營收狂增44.7%！美股開盤台積電ADR走勢曝 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxObTVXUjJaSFF5dlRDaXg3UnZkbDJDc09UcUFYMzlHd2JIVjZma3ZkQWxJUXhYUkxObmd4dm5MR1hudDZ0MV9ycEx5UDI3WkR5S3hGSTFLYVdXajVnTXZWbGI0VHhBSHR2OTViM0t5MUluY2RRODdBMjhSN3RubFdnVjNMemREVXBCVzF6VFFweXZKLTJNZ2lEZVZQVEpRZnhEZm0zbTBpUXZpSVJVOW1KX3N4S0NjcFR1a0N5NHp1OExEcmZBZGxBOVpJMVBzMHV6amdsNVZ3VUo2b3lINFY3VjdsNDZ5dDRoYlN5dUpJQXBuRldBaHFsWjZUZU9aQUV1c1RFUDU4SXZablp2TlhkaGNKT29JMDE5TEt0LVU1SnhkNnV6Sm90WGNKREg?oc=5"
-    },
-    {
       "title": "城堡證券今年來首次喊多黃金：五大催化劑共振有望引爆金價 - capitalfutures.com.tw",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1AxZ0dON3ZYRnJwbW5wUHlJSDctT01wSjZiVzhNQlc5Q1ZKVzJ3czdhMGhYVlBqZVBhVlZ4dExCR0Z2ODZYRGJLTzRWN3V6YnFPcktJanhRTjBpdXRLMDBfZmNhRmJNMG1qV0tOVUtPTVMzZGhmSFl1R1YzajEzU0lMUGNzQVBKNXo5T2V4UkowUDczeFJLLWtfRENxX3V6?oc=5"
     },
     {
-      "title": "台股處置新制上路縮短撮合時間 業界肯定有助流動性提升 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iQ0RISDI3aEN3aXBZbjdqSDlBVkNfZmF2ekFvTWlvVkZydms4UmdIZjVrZmVyUXdaa21RTzNsb2R0RTZzbkItTzRnOWJ4QXM?oc=5"
+      "title": "不只賣比特幣還賣股票 Strategy一周套現逾7億美元 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWcmh2Wm1wa245N2VXcEVaZHRPZ2RCWklPVk1BRDJhNi10M0FkSDk2MDlfejlRLXZFMFIxT01WdW9lbDF3QlRPSlhjenFhUWs?oc=5"
+    },
+    {
+      "title": "台股強彈702點！面板雙虎、電源雙雄爆量漲停記憶體全面點火｜Yahoo財經掃描｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxNQ25FZC04NzFaZTk0bnhVWmtrb2tXUTNJcEYtaUE2UXIxS0RkR3AxeVdCUEZvdEhvRDZHakpvS1hQYnFBazNBcXZhYWY5bnRubjVBcHdKVUw4b243VGJDUEpmLWJzd1BmMUg1YkFHUWNGeFoxWjhZQ1JwVFY0ZUluamN2R2lTOF9mVHl3SUZlLV9HSFBIYnRhXzh3djc4UDRTNGN4eEF5TVZHRmxpb3FpSUxNZUEzQzRzYzBiSlZDdUxVdGx0U0hXWGxTV1YzTTRKWjNYakRMbEJuU3NBTFZMQjJnaWIwRXhKNlZQMUVzeTd4QUFsT0M0MFN0NVBSbGhCRWdVOVNpTHNkYVNjbzJFSGN3T3BuZ0VieWZPa2xGdERJVmJQdjBYdlkxNmJ4cmRzb2hHZndBRlRYWHlIb2Qwb052M0pHUDd4cjBnXzQ0dkFVUl9PTEdzbTdOX0RVVWhqdDB6eExMcDFMNEMwSTd1X0QxbUxfbnM0akNTRmRyTE04UjNac0d6UktYeWJDVEttUnlxM05DYjNGM2RxQldrYklsWWtZOHRtS2RmT0p1ZnVXOWotVTNCdWVPeDlHdlFCY2FkYVNWVEhrMzZaYVRydGh5aUhKZklnOEJZQThpTWFUX3llUjAxUUdqOU5ENS0xRGV4cFUwcEgzT1Bhb0JCckQtYUNIVWROUlVnNVZpVmVLYVJxUFI0djdNamE2dw?oc=5"
     },
     {
       "title": "芝商所比特幣期貨翻多！分析：避險基金棄守空單、押注後市走揚 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTR0RUxvOE41b0pBLVJFYXk5aVhwSS1xOS1ad2Q5ZU84YzlQOG1BTHJ2RGtOOTlkc2FaeWRrVGp6aHZfbGlfT25ZZTNBdGZGbHJzNU9wWjA1WXdhXzhhTXQyVnU1MUNPOTd3SDAtOXVheGhuVTR4WnlYazFOaEZlUzZNSnBTT2xqN1NkcVEtZWtWVlB0U2V4RGVkZHRuQlZuYUw5SUo5Zld3UQ?oc=5"
     },
     {
-      "title": "台股法說會行情開跑 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlamhaT2Iwejg5dmVwaXNuN1JYZkFoMGdEb1hzQTBLWFd5aHRGalluam1zN2RxcGY3YjZUeC0xeEg0MGt5Y290WGtJU28tNVc5NFFnWWZrR0d0d9IBX0FVX3lxTFBBQzZ5Q3RuOXJaa1BfRDZoT29raWprUUl4bDl6Uk9IVF9GNzIxeHdvOHBWYnZIbi1aUzRDajhzQV9Xd0JUenBTbDNIa2FjWlFhdk1MSF9QWC1XRDV3c2Rn?oc=5"
+      "title": "《強勢美股特報》P,VAL,PBF,MP等10檔 - 台視全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcS1TWGlHdkVlRWpHYmlRem5TTmZkMDhIdzJJX1VXQ2VJWXBHXzROcHJQVGpKVm1WTFFCVVhXZjFtSXBwYXZWaHpIQnRaNS1KV01KVmZyX2dDU2IzTGs2bDV5ckRvajFVaHRGbWp0d18tTFY1R3otdHh3V1lFU1psQkNKYWhCQ05UVExyVVl5OTBYdw?oc=5"
     },
     {
-      "title": "台股強彈702點！面板雙虎、電源雙雄爆量漲停記憶體全面點火｜Yahoo財經掃描｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxNQ25FZC04NzFaZTk0bnhVWmtrb2tXUTNJcEYtaUE2UXIxS0RkR3AxeVdCUEZvdEhvRDZHakpvS1hQYnFBazNBcXZhYWY5bnRubjVBcHdKVUw4b243VGJDUEpmLWJzd1BmMUg1YkFHUWNGeFoxWjhZQ1JwVFY0ZUluamN2R2lTOF9mVHl3SUZlLV9HSFBIYnRhXzh3djc4UDRTNGN4eEF5TVZHRmxpb3FpSUxNZUEzQzRzYzBiSlZDdUxVdGx0U0hXWGxTV1YzTTRKWjNYakRMbEJuU3NBTFZMQjJnaWIwRXhKNlZQMUVzeTd4QUFsT0M0MFN0NVBSbGhCRWdVOVNpTHNkYVNjbzJFSGN3T3BuZ0VieWZPa2xGdERJVmJQdjBYdlkxNmJ4cmRzb2hHZndBRlRYWHlIb2Qwb052M0pHUDd4cjBnXzQ0dkFVUl9PTEdzbTdOX0RVVWhqdDB6eExMcDFMNEMwSTd1X0QxbUxfbnM0akNTRmRyTE04UjNac0d6UktYeWJDVEttUnlxM05DYjNGM2RxQldrYklsWWtZOHRtS2RmT0p1ZnVXOWotVTNCdWVPeDlHdlFCY2FkYVNWVEhrMzZaYVRydGh5aUhKZklnOEJZQThpTWFUX3llUjAxUUdqOU5ENS0xRGV4cFUwcEgzT1Bhb0JCckQtYUNIVWROUlVnNVZpVmVLYVJxUFI0djdNamE2dw?oc=5"
+      "title": "主動式台股ETF有勁 上月底來平均績效逾19%超越大盤 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuZUp6bDF5OUFFeExCUTU0MTEwR1Jfa3BkNWo2RTB0RjBSczhuRnZ5d0FuUGdoWHl0aDluN3lvQkY0dUJjdlhHcFUwMjZnUzF2NFhF0gFYQVVfeXFMUC00cDRwNmRJU1BPTWZrMUxtcHFWMnBHQTh2YWhhTWwtc1R2UkdpbGlYTVVzVTN1dHpZWTNLMmttcGRKRTZZRkh5bU1MUTB0bWlRX09ZQ2R3dw?oc=5"
     }
   ]
 }
