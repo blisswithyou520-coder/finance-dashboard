@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/10 14:41",
+  "updated_tw": "08/10 16:16",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65148.97,
-      "change": 244.2825,
-      "changePercent": 0.3764
+      "price": 65208.3,
+      "change": 363.4133,
+      "changePercent": 0.5604
     },
     "ETH": {
-      "price": 1923.82,
-      "change": 8.287,
-      "changePercent": 0.4326
+      "price": 1925.6,
+      "change": 16.9173,
+      "changePercent": 0.8863
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.171,
-      "change": -0.0358,
-      "changePercent": -0.1112
+      "price": 32.22,
+      "change": 0.0132,
+      "changePercent": 0.041
     },
     "JPYTWD": {
-      "price": 0.201,
-      "change": -0.0023,
-      "changePercent": -1.1304
+      "price": 0.2011,
+      "change": -0.0022,
+      "changePercent": -1.0812
     },
     "EURTWD": {
-      "price": 37.245,
-      "change": 0.1276,
-      "changePercent": 0.3437
+      "price": 37.294,
+      "change": 0.1766,
+      "changePercent": 0.4757
     },
     "CNYTWD": {
-      "price": 4.7801,
+      "price": 4.7821,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4406.3,
-    "twd": 4558.0,
-    "tael": 170907.0,
-    "twdTotal": 141755.0,
-    "changePercent": 1.5113
+    "usd": 4413.0,
+    "twd": 4571.0,
+    "tael": 171428.0,
+    "twdTotal": 142187.0,
+    "changePercent": 1.6656
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,6 +125,10 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObVJLWE5LSF9Bc2tIRWxrRGFMZWJ1QkhvaDNvcGY1VEJMRTRzOUh3YTRtZmdaOUxDS3ZrWkpOUEJYUDhuWkF2NEw2ZmlFUVRBQ1ByX1ZRMzhuWXVSTzVuOFlYWUFaU0otb0c2c0tkSGc4aE84WVlQS1cyUjgyMzhCU3ZJdUlBTWt6emxMaEg3VkdRQ1ZpU19iUnJ1d2JQaXlK?oc=5"
     },
     {
+      "title": "台股暴漲702點「就是要洗掉這群人」！他爽收「配息108萬」揭布局了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQOGYxdnZFXzZyY3pMbmRLOVl1NC01TmdYNnFySElPMDNHMklWdUtHMnBJSU1sdGk3b05GcF9YUlg2V0FwcW10U0xaWmktZWN0Yjhob0FUQTQxd2RJd2ZQZThiVEZZV29MTkgzVjdUNnlMaWxFT2pHVmNJNkgyZUZoZzFpYldQZmgwWGlaYVF1QTBCZTFET19YTHlSNlNtT0JyWjFKX19MclhZekl5SXM3d0c0Tzc3cTRKUlVIZC1qQ09CRHVWbzR6bG1xMTZILWhMZUlpNlNJMVYtUk1YT1dmX09wZkd5VHgyM0tlaDVhNkUwdmNNLVM0dU9rWnRPVmZOYXRsZG9WNTdZdF93VkVodldpWE54cUpaU0hKSlBzclhmblRYRGx5VTZDOHFqaEZQcC1SNWRNS2VDemVpWUFieVJxLWR3OWE1c0xuU2J5YkhMdC1zMlNLeDFkdjZPT21kTnNSc19CeVdkZktJT3Q5UFZuTldUYk9wdk10Vw?oc=5"
+    },
+    {
       "title": "美股那斯達克將23小時交易！休息時間確定了？高層揭大膽想法 - 財訊",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqN25yYUptXzJlUm45d0dJeHByREd4ak41WjI3YWgwY1diRC1WSEs4Q2xycEpIUFo5cDdGelhzZkNxclh0WFR6T2lDM05xWGFZNVFhV0xBUWlQeHhRemtNY3NxaVF0dWNoTXZXN2NIeGlPOWtTeEZDNUJtQQ?oc=5"
     },
@@ -133,16 +137,12 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LdTAyTWI0MjlDSnRIM25QVnotcHdoYzE4Yi12R1dBdHdTV1ctWXFiZ3FXbG5Ea2VxZ0VVRXY1YWtBQTM5UVRxQ2NNNA?oc=5"
     },
     {
-      "title": "【Yahoo早盤】台股漲逾900點攻上4萬5大關！分析師王兆立：不宜急著追高 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOOUpFUDBxOUROU2hYNmFOUXRucVhvV25Ic2x0cmFDMUs5ajRUVk51S0JOQVdXaC1hNnF0Q01HQXlBdG5SZHhtWk0xSDE1SW52bFVpWFQ3Mm1YWWY0Q25aUDdtbFJ0ZEpqTWgxanZPdDZ2RkhlOXZJZkxqcHg2NVBMdGFFNTkyMWE3cnBQVEVxTjVJUWxLTVVpS0dJMFNnQlpQclVfOWdtbm5XSms1MmtweDI2Mk9WWnhZdGpwXzZBTGVmcll6RURjQUltaHZ6MHJOZWQyWndmaTZyR1BlZDFYVE5RZWIzMzJXc1BoSFhSRU80NWUwc0FQS1JoWkJ4NFVoTVBraDdLZ2l3c3ZZZ0lINnVKN0VHNm1BUTRSZmlBY3R0dU9XNW1nem9jUk9ELVlmckZob3JJUUpxcmZLUG9xalVtMWF4ME9wemRjekRTNFBhU21IZ0FrdjRXTHVycFpndWs0ZFluRnNHbElvVXZ0ZW9xNEZyM0xzZjB6eTU1MU9GLTRjbDEtTmRnbTNleE03YUlrbVp1RjFiWXQya0R0b0xjeHVaLWFWWFY1VUc4a2RNdVYtZXVDZA?oc=5"
+      "title": "台股收漲702點　台積電漲10元至2380 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9faFYwVGRlcUd1SVJWaTRVTWNvUHh5VnFqQXVPMEQ4SUhzOU9aMzJQckpKX2dwUTVrZnFGSndEZUtPdVRMdFdFdHJ1TG5idVYyRXfSAVBBVV95cUxNYmYzQUR0MHBjcVdwZzlST09BRDllaFNTT0hPejVDWjhLMEhyRWNXVkVxOEwzM3pQaXRMMkRCSU45MGN0X04tQ3NweWhBaW85Sw?oc=5"
     },
     {
-      "title": "台股開高走高大漲近千點 法人：升息預期降溫 有利向上彈升 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xUXVxTGlVQzQtQW9vbUNnNW5vZzlFV2p3djhPcEZ3b3ctR1J2elBDc0xBeUE3dXlyM19xM3NhVVpZYjB6TWdTcC1MZjR6SC1V0gFWQVVfeXFMUGU3bk5pMGlNTk9LbXRzOFRWMUNTbGdkc1dFRzdDTV9kb25lWDFGbnhxZkl0Ni0tSUFPM01yUW83YXhSM2lwMFg0dzl1N0FyOWhkanVNSEE?oc=5"
-    },
-    {
-      "title": "《貴金屬》COMEX黃金上漲2.3% ETF持倉增加- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX0JjQnI3SFJmT3Q5QXhQSW0yUHJ6TE9ZbGVhVTk3NW14cHZmbV9zSnRjZHJhcUhod2NmZXdVOXg2aTZabmhncVg5c0J3WWZIY3pSNEVzYXRDLUZQc1A5MWY2TXBqSURTWmNXeXJNbXRJV0w5bjVGRjBwMktFXzlSR2FsRjdGREpkY1ZoZmpldWJtZw?oc=5"
+      "title": "台股強彈4千點強中透弱？股添樂提醒「別盲目樂觀」：4隱憂恐重演多殺多| 股市要聞| 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kbS1Qc1EzdHVZclZSVDJPTjNUZ2otdjlvZVd3eUhabWFOWU1GeFdEbW44a2JGSFQ3QmhoYWhPMlp2VXBzZ3YzU3ZuQndwY0o1?oc=5"
     },
     {
       "title": "台股上漲702點收44928點 收復季線44331點 - cna.com.tw",
