@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/10 17:56",
+  "updated_tw": "08/10 19:11",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64918.8,
-      "change": 73.9133,
-      "changePercent": 0.114
+      "price": 64953.19,
+      "change": 108.3033,
+      "changePercent": 0.167
     },
     "ETH": {
-      "price": 1915.19,
-      "change": 6.5073,
-      "changePercent": 0.3409
+      "price": 1914.61,
+      "change": 5.9273,
+      "changePercent": 0.3105
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.219,
-      "change": 0.0122,
-      "changePercent": 0.0379
+      "price": 32.227,
+      "change": 0.0202,
+      "changePercent": 0.0627
     },
     "JPYTWD": {
       "price": 0.2007,
@@ -94,22 +94,22 @@
       "changePercent": -1.2779
     },
     "EURTWD": {
-      "price": 37.293,
-      "change": 0.1756,
-      "changePercent": 0.473
+      "price": 37.274,
+      "change": 0.1566,
+      "changePercent": 0.4218
     },
     "CNYTWD": {
-      "price": 4.785,
+      "price": 4.7831,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4403.6,
-    "twd": 4562.0,
-    "tael": 171058.0,
-    "twdTotal": 141880.0,
-    "changePercent": 1.4491
+    "usd": 4395.0,
+    "twd": 4554.0,
+    "tael": 170766.0,
+    "twdTotal": 141638.0,
+    "changePercent": 1.2509
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,27 +117,23 @@
   },
   "news": [
     {
-      "title": "那斯達克「23 小時交易」將上路！外媒曝隱憂，對台灣投資人3 大影響｜美股觀察｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPd0dtWXIxRk51TGNHMTNnQkZseVFyYXpxT1ZEYTJMZXBoUkxKUWo2Q05lZFM0YVNHdnFsVDhmeGsxSUxDMUxyU2VYYm1SU0JWUEM5ajFEMmhISDhCUU9VUGdXVm9ZeU9iYWN0cWExSGowM2hWTnBoZEV0Y2ZCMnVFN2o3NVVtYnlkYVVwazhXdFRqWFVPMWRsal9NVzZfc3NXYmUzeTYwRHBBQ29FWks2RFRxTVp4M0NMQzdqVXU3NkNfb2FDRUtoaWZheGVaXzJwRjhab2ZHSm03clhxQUtOTGRZR3V6ME9SRnhVRzVTMDlrS1NzQUVYWHdjTTZQX2pQNnVqeXI2QU9Jd21pWUp4czdscHVlbnZfN0lyU3hkY1BrN2ZRRnBxbjRsZXNhc2ZlYlZleTZzNncza2dlRzl1ZjZwWW5CYXBIRng5S2RGbE1iOTQ5MkhpckJOX0lfaDFzckFzWjdSbUNDLWlYYjNMQXA5bW8yT3RYUmZBenNBd1VKMmw0ZWM2WGZvd2xnYktqbTFJTExXVXpvV3NXejdydXpCYU9wVFNreXNlTVNJd194a3FOMmNEMW8wUmtHUHQtZ2lKcjc4eFR6OTYyUTlJbklyeGNXUEV0SzZPRzFGLUVSdjItVEpr?oc=5"
-    },
-    {
       "title": "城堡證券今年來首次喊多黃金：五大催化劑共振有望引爆金價 - capitalfutures.com.tw",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1AxZ0dON3ZYRnJwbW5wUHlJSDctT01wSjZiVzhNQlc5Q1ZKVzJ3czdhMGhYVlBqZVBhVlZ4dExCR0Z2ODZYRGJLTzRWN3V6YnFPcktJanhRTjBpdXRLMDBfZmNhRmJNMG1qV0tOVUtPTVMzZGhmSFl1R1YzajEzU0lMUGNzQVBKNXo5T2V4UkowUDczeFJLLWtfRENxX3V6?oc=5"
     },
     {
-      "title": "CryptoQuant CEO：芝加哥商品交易所上的對沖基金比特幣期貨持倉已轉為凈多頭 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WRzJhTDgyLU9WNWlEbXZyLXhHU3VfY2V0ZHB3eG11eVpyLU16SVlRdmswcTk1Y2dDREp3anhWdE5rektsRmN5dGJPaw?oc=5"
+      "title": "【0810台股盤後】台股大盤飆702 點強勢攻克45,000 點大關！記憶體、MLCC、光通訊三強拱頂，鎖定「營收創高模範生」至上、力積電、盟立｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxPc2JCOGhaY1ZwVm1LMTZzYzhseUtuTDVQTDBNSjljTWVyNU5Za01UYUN5eV9MblFkS0JROGhFSnQzN2YySGcxX1pKZWdINWNITTNfTGk1TlBzODFrdjJvRTExbjFHVVpzalVfamdUVkljdVl0Tzc1dzlFN2dwbmdiNHdjaWNQMFBIbkFnZHhTbXRBTUIwTlI5NnVhT19xYkVPWXVsdklOdTVyMGZOZ2d5OFFhZTNwbGRBSkRWTGhVNnBKVUdMdWF2R1hvSXlKU25mcWd4TW1JNlpLV3AwbkRzRHlva0R5SnZDcTE4Slcwc3BvNWdjRElTVVlCaHBIMGdaSHJRUzZUclY0Vm9lT0lyMGxGOUtPV2tmTVN0UEFvTUs1T1ZUc3ROaHYxcXRSemNPNkhPaWVjUXVieU9kRGZSaDIzY3ZIUUxTZWE5WTQ5cll3T0tQem1mT3IyUGhhRDVxalo1aGZUQ01kclNvbmNybEJCVmE5RTlPejVYZzVjalFwbkswZGlndGdFSUxEeDVCSkFjSjZEc1U1VndPWDY4ZmhCd0FTSnBHUDB1SFdkRlYxWWhoTFhwcm9wdk92ckNSamFNTDMwQkNvTWJMbS02bkVqMVdBSVVfWWFGdU1iTWZuMmdzTVotc1F5cjlUSzZISTB1RDZfRUVaVzVaYTl0dzI3c2hFNklfNnhsMHpUc1JZcFI5UzBTYl9RbUQ2eHdxQUh4VFJDdlZzcHMtc08ydnRIU29MdXVrSHVfOWtDSVY5SzBZR2dmLXlTZ1VOVUdRVjFuUUZDdEJmbFp6d2Z5TGV4SXdZV1NZZWI4d3hEU1hHRW01b2FBekVVc3J2eXI1R1JsNFlycFFlWmlsT0lUYS11VzhNZDZBdmc1YkVaeE84R2hwSDItRTlB?oc=5"
     },
     {
-      "title": "台股強彈702點！面板雙虎、電源雙雄爆量漲停記憶體全面點火｜Yahoo財經掃描｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxNQ25FZC04NzFaZTk0bnhVWmtrb2tXUTNJcEYtaUE2UXIxS0RkR3AxeVdCUEZvdEhvRDZHakpvS1hQYnFBazNBcXZhYWY5bnRubjVBcHdKVUw4b243VGJDUEpmLWJzd1BmMUg1YkFHUWNGeFoxWjhZQ1JwVFY0ZUluamN2R2lTOF9mVHl3SUZlLV9HSFBIYnRhXzh3djc4UDRTNGN4eEF5TVZHRmxpb3FpSUxNZUEzQzRzYzBiSlZDdUxVdGx0U0hXWGxTV1YzTTRKWjNYakRMbEJuU3NBTFZMQjJnaWIwRXhKNlZQMUVzeTd4QUFsT0M0MFN0NVBSbGhCRWdVOVNpTHNkYVNjbzJFSGN3T3BuZ0VieWZPa2xGdERJVmJQdjBYdlkxNmJ4cmRzb2hHZndBRlRYWHlIb2Qwb052M0pHUDd4cjBnXzQ0dkFVUl9PTEdzbTdOX0RVVWhqdDB6eExMcDFMNEMwSTd1X0QxbUxfbnM0akNTRmRyTE04UjNac0d6UktYeWJDVEttUnlxM05DYjNGM2RxQldrYklsWWtZOHRtS2RmT0p1ZnVXOWotVTNCdWVPeDlHdlFCY2FkYVNWVEhrMzZaYVRydGh5aUhKZklnOEJZQThpTWFUX3llUjAxUUdqOU5ENS0xRGV4cFUwcEgzT1Bhb0JCckQtYUNIVWROUlVnNVZpVmVLYVJxUFI0djdNamE2dw?oc=5"
+      "title": "台股爆噴別急追！他示警「3大危險訊號」揪1幕不合理 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQQTZXSVYxcWZSLUo1M1JPbzlQVjFOaHpxUUZrcmhvUUVUSEpER3VFcUozQ3B0NlowUk15am5mM0J0Zng5MU1KTldwY3o1VnpyZHBpcHl3VFJCczlGSHV3QnI2a2x1WmhuN1NXRzJ5cDJ1YnFvN1V3bHFOT0pHcFNEaHVzOTVscFhzV3lEYXRubmhUMHJuS21CWE1WSkoxSlZmQ2lwX1hwZ3JwVTI3SnVqX0l2QnV4ZGZOME1XcEN6SDRZVlFrWWZmOVBfenk5bngzSjFWMlVxWWFDSDM3XzNrb2QxcTh6dUVMc25hRzBaaGViX0daOXRfUG9IU2Z5M2U5ZmZnb0NIdkQ0LWZvQmhOb21tVE54Q0d0QndpUm11TjdydVVwc2tBYUpad2lzdUxwaUNDaWEwVVhMc0twMHY0Z3FZd0JkSHpzOEJnOVE0eGp6dw?oc=5"
     },
     {
       "title": "外資買超台股517億元　加碼中鋼6.4萬張居首 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ybkcxdnkxTG9nNmJrdVdnNE9YcXhmNnZDdFVoVFgxNzFoaXRRdlhQeGZPdUtMZFFUdzZ0b3JFLVpVdnhrbEV3aG11UVk5UFBnVWZRaVBobjBaQdIBX0FVX3lxTE9TYTFVNFhqd2RHc1BOcGU5SXJKa2g2bjU1TXZPZFhEWjhLMGwwWnBZRzJxV2ozUW4xTFlKYllOYXhfSm93TnhyY0FkVjM2bF9HUU5zeGljcUM4dmRFbG5R?oc=5"
     },
     {
-      "title": "台股收漲702點　台積電漲10元至2380 - ETtoday財經雲",
+      "title": "台股收漲702點　台積電漲10元至2380 - finance.ettoday.net",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9faFYwVGRlcUd1SVJWaTRVTWNvUHh5VnFqQXVPMEQ4SUhzOU9aMzJQckpKX2dwUTVrZnFGSndEZUtPdVRMdFdFdHJ1TG5idVYyRXfSAVBBVV95cUxNYmYzQUR0MHBjcVdwZzlST09BRDllaFNTT0hPejVDWjhLMEhyRWNXVkVxOEwzM3pQaXRMMkRCSU45MGN0X04tQ3NweWhBaW85Sw?oc=5"
     },
     {
@@ -147,6 +143,10 @@
     {
       "title": "《台股盤後》收漲702點、日K翻紅，45K得而復失- 新聞 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVGF4dUZHMC1Sam44Sjl5eWdoRFBrUkxQNmZodmVzbjdYbUpQTDFqYmFaM0VkNk44Z2JHZ21ORDFSeFY2OThNNDh3eFc2aTdIakQzUHBPNmJwNTgzMmdaeVdJM1dDQ2g3WHgxRGZidjI0STN5YVNqU3l0bF9Za3Mwa0RUZGZ3R3Z3di0xVTM4d3VJZw?oc=5"
+    },
+    {
+      "title": "【0810台股盤後】台股大飆 702 點強勢攻克 45,000 點大關！記憶體、MLCC、光通訊 CPO 三強拱頂，鎖定「營收創高模範生」至上、力積電、盟立 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yVjB5cnV4VkNZTUVwa0NQcWtRV2lxMGp0TkJlVVRUMW1xa0VqdnQyVC1rU3JHcnZXNlppcWxYSTU0cW94X3hRakU3Rkk2T28?oc=5"
     }
   ]
 }
