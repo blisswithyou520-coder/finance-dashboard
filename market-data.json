@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/11 17:59",
+  "updated_tw": "08/11 18:58",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64231.39,
-      "change": 320.8041,
-      "changePercent": 0.502
+      "price": 64173.24,
+      "change": 262.6541,
+      "changePercent": 0.411
     },
     "ETH": {
-      "price": 1883.25,
-      "change": 11.9713,
-      "changePercent": 0.6397
+      "price": 1884.79,
+      "change": 13.5113,
+      "changePercent": 0.722
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.261,
-      "change": 0.0259,
-      "changePercent": 0.0803
+      "price": 32.251,
+      "change": 0.0159,
+      "changePercent": 0.0493
     },
     "JPYTWD": {
-      "price": 0.2004,
-      "change": -0.0038,
-      "changePercent": -1.8696
+      "price": 0.2003,
+      "change": -0.0039,
+      "changePercent": -1.9185
     },
     "EURTWD": {
-      "price": 37.269,
-      "change": 0.0138,
-      "changePercent": 0.0369
+      "price": 37.25,
+      "change": -0.0052,
+      "changePercent": -0.0141
     },
     "CNYTWD": {
-      "price": 4.7905,
+      "price": 4.787,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4432.8,
-    "twd": 4598.0,
-    "tael": 172416.0,
-    "twdTotal": 143007.0,
-    "changePercent": 1.6278
+    "usd": 4438.7,
+    "twd": 4602.0,
+    "tael": 172592.0,
+    "twdTotal": 143153.0,
+    "changePercent": 1.763
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,11 +117,15 @@
   },
   "news": [
     {
+      "title": "黃金衝破4400美元后急剎車，機構喊話：短期噪音不改牛市根基 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRG4tNWF4eGI2dXVaRFFwc1VNS3dQVkNUVmY2TlhYTVNEUnAzNTVCZ1FqZUtvS3hleWxncEtkRWxscFE2ZUZUUHkyamlhVWdnZldXeFlYVnJlN1hvMklBbmgzSjhUem9lb3VuZ0czMmZ1d2J5aTVIQzYwRzZmQTdaV2dzbWswalhnb0NTMnZhdw?oc=5"
+    },
+    {
       "title": "台股才反彈「美股AI天團倒一片」！專家警2大警訊喊：靠自己 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPaFV0Q1RoQV9YdW83bWJuREwzNzFHV0hvQmxDaWNXdm1yNUlqN2dralJyZ0lMZ3FrUlB4Qll0ZFRTaGF4QlFReThISURLdVJBM1FIY3gzalYyWmZXMGdnb3A4ZmZJYnJ4aTZrX1hpY184LW1QcS15YWx1TzNlNXlCUTdlOXFHQ015cjB2bkhac3VrWnFOakc4X3B6TjZKc0RRSGc3Q2gxOWlSVFZnZ0E1RXhSVFNWcHlBMmt3bGtuLUoyT2txTGRhcGt3VVBkSVZEaDdPcUYtSmRFb1ZWcWE0ak1FdW0wRGNIaDd3QVJRX3Y0ZlpMVUJzUmd2U2E5UXRkVmlIWnNHLTdWWFFIWFFaWWNCMU5HaDVyaDNFZ2tSdExFZzRqZEExVUVIbkxvNGxiaDZrbnlRZHdYNFR2dHBBemoyRE8wbWNubW9oUHE5TXhIR295V3BheGtSTWcxVXh6TVJoSEEwN0JkNHRtSXZKVkIwNExLeWNlU25lMDF6ZEJ1NklCTFlSa1BTOEM0Y2I1RE1ESUh6cw?oc=5"
     },
     {
-      "title": "黃金狂飆9週高點！機構罕見喊買「數月來最佳機會」曝光 - ec.ltn.com.tw",
+      "title": "黃金狂飆9週高點！機構罕見喊買「數月來最佳機會」曝光 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJUWhsaGxVcHkxTVJ5VUZCMl9RczdDSU54TjVhNnNycGpfS0dkNXNZV3FzN3FOQU1iWUxqeExXeE1QcVJvNU1KaDNXanJXQWhSZzMwc1F1bTJGbVItLWxv?oc=5"
     },
     {
@@ -141,12 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU1ZBaVYxVUk2WXFlMWQza08zQkZOODZWNEV6MTNUemJhSUk5dE1FNXF2TU5UU2RBMjh1RldOeHgtczFuQmVjSGRkTFd1RmVaeWxkd2o4TjJTNmFTNGp4SFRpazR6UGpCSEJUZTY4SEFkdE03eUdEVXpVbWZGZklsb3lTc2M4eEVOZ0tzNlNCZGluSUoxc0ZaanVnTnpfbXhycGNadg?oc=5"
     },
     {
-      "title": "美股早盤／中東陷僵局「四大指數盡墨」 英特爾跌4%、晶片股挫| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5La21IcEJaZXNKbE9BZHI2RlJTR1JnLUJUQlBPMG5oUTRaNEFIOGUwY2F6OXliTlY0RDl3c0ZwWFhhOC1SU01QRHBQRVozSGx6?oc=5"
-    },
-    {
-      "title": "美股V型反轉背後，看漲期權瘋狂湧入！盈利擴散正在接管市場主線 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTXlWX1pZc2VwZkg1OTdDSXU0UFU0ZWVJZ0VwTGV1dndxcWNRUXkzVjRubVVLRllGbVp1U1hzSEtLdTBYUUxCOXNlbkJwZWZ3aDhwRUtZQTJUZnlXTTJWaVlXbmYyUnlkeUFvN29aV0ZSYlVTSzRERkFCcHIwTlJmRGJvbDF1elFkVVd2MzZiTVU1ZTlNQVV0aVFmYUQ5Rlls?oc=5"
+      "title": "《台股盤後》開低走高、收漲191點，站上45K - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSjFseGppVy1FRVI5RDBXdFpOSkFISGNtbzVUS29XcFRmS3dQTUgtc25Va3ktRXRjeXREMzdhU0cwRVpLX0xQUE44QWNVYkNkcVdaLXA2Q0hpWGxvb2JoV2E4ZVkxZ3k0ZlEzX01ZX1plR3NlTHNhbER1UlB1OWJoY3cwcVBRcEtualNpMGZ4T3RyQQ?oc=5"
     }
   ]
 }
