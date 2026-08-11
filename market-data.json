@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/12 04:40",
+  "updated_tw": "08/12 05:28",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,31 +72,31 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63640.3,
-      "change": -270.2859,
-      "changePercent": -0.4229
+      "price": 63611.76,
+      "change": -298.8259,
+      "changePercent": -0.4676
     },
     "ETH": {
-      "price": 1879.83,
-      "change": 8.5513,
-      "changePercent": 0.457
+      "price": 1879.96,
+      "change": 8.6813,
+      "changePercent": 0.4639
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.213,
-      "change": -0.0141,
-      "changePercent": -0.0438
+      "price": 32.226,
+      "change": -0.0011,
+      "changePercent": -0.0034
     },
     "JPYTWD": {
-      "price": 0.2,
-      "change": -0.0023,
-      "changePercent": -1.1545
+      "price": 0.2001,
+      "change": -0.0022,
+      "changePercent": -1.1051
     },
     "EURTWD": {
-      "price": 37.226,
-      "change": 0.026,
-      "changePercent": 0.0699
+      "price": 37.232,
+      "change": 0.032,
+      "changePercent": 0.086
     },
     "CNYTWD": {
       "price": 4.7852,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4429.0,
-    "twd": 4587.0,
-    "tael": 172012.0,
-    "twdTotal": 142671.0,
-    "changePercent": 1.5407
+    "usd": 4427.8,
+    "twd": 4588.0,
+    "tael": 172035.0,
+    "twdTotal": 142690.0,
+    "changePercent": 1.5131
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -119,6 +119,10 @@
     {
       "title": "美股早盤／四大指數漲跌互見傳輝達研發AI開源模型股價揚| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PdFUtMW5CYXM2X3hYbjd3ZnJJbVRxX1pWRGVYa2NoUGhnSVU1YnN6aHlySDlnWTBwTnd1RFFBbU9vUHN5c1Vma3VvSWpzdnpB?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉川普要求伊朗賠償 油價飆 英特爾領跌晶片股 費半重挫近3% | 鉅亨網 - 美股雷達 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSSzlUc2hCWElGVnRhVzlLcm8zYWlOWTFTamJpVXlsSFRCX3FOai1XSGI1UWUzMU43QnBKZXNEUE5RSXBGT2xEYlhSeVFHamM?oc=5"
     },
     {
       "title": "黃金衝破4400美元后急剎車，機構喊話：短期噪音不改牛市根基 - capitalfutures.com.tw",
@@ -139,10 +143,6 @@
     {
       "title": "【 0811台股盤後】台股開低走高小漲192 點站上45,120 點！MLCC、消費用電池、銅箔基板三強攻頂，「投本比」策略:順達、富世達、華星光｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPS09sMHM0QUlGQko0NVZmdDZOUUpyWVVMRng0cXpEcC13TDg4LUM2RW9ERUdEdWtFd0Q4aGlnaF93T3A0VV9ickwwallGbVNJNzhkSGZuVlloRE1icnd6OGNHQ2pxemJKUnNjVmFCMGpIVVhrVTdNZkF3amd1M3UzNHpyeGE0LVptdkRaal9qMDdQVDRId3ZkOTNXNDNJWTBrNGljLTZnNkZNazRKeThZS3RXT2QxVmo1eFZSNm5vX2NMa0RoZWJaMlFXYTFUM1pCNEVrVnJNcG92UndxdjBWaEV5TDVMS3o3aVVVaTh2OVAtZDlyaEFXeGl0NUdCNm5vR1lDX29Sd1hhYUxpX0lfdjBZQko4SmVmbVkycnFObWJoaEtpNy05UEhMNkRtbl9ncEt6b3dIVFhHRm8tckw2VDd5YllUdVBaSTZvSTNVNl9UdWxZQl9LeEdaSkMtZ0ZVTE9FWDFvZ1k5cEo3NmNrZW15RzBZQTRFT1Z2aFFoZ0RneHFiQkgtSFVva0Rxc1FBU2dxUjY0NUhHV2dKQzl6WGNiUzdBcHo2bEkzZmlHeWstd1VUVDR4UE5zMWlkeTYxWkxIX0JveS1lNWc1c3A2V3kzSVB4TzliMHphZ00xUUhfVFpLbHhVRHRlVjFWU2Jlb2VIQkFScW51WDFKNnhHdzR0STczVERoQW40UmdZRWdLZVktbzVUT01UQkFyLWdPUHBKRVhRQzhZVkNlRmhsWnVqcUFKRFBZRWhrbUNJaVVaRUVXVjNuXzJYUEhMOXYxOUpQUG9HYnFwc3BHSWpFQWRTalpJTnZZT05wYms4M0ZHWTlTcG51MG1lR2NMb1NzN2hjSU1kZ0h2bFhkd3NYT19Rc3ExbUZDVzJuOGk0RQ?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉川普要求伊朗賠償 油價飆 英特爾領跌晶片股 費半重挫近3% | 鉅亨網 - 美股雷達 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSSzlUc2hCWElGVnRhVzlLcm8zYWlOWTFTamJpVXlsSFRCX3FOai1XSGI1UWUzMU43QnBKZXNEUE5RSXBGT2xEYlhSeVFHamM?oc=5"
     },
     {
       "title": "資金重返黃金市場，中國央行連續21個月增持 - 日經中文網",
