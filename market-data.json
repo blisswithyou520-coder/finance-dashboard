@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/11 18:58",
+  "updated_tw": "08/11 19:50",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64173.24,
-      "change": 262.6541,
-      "changePercent": 0.411
+      "price": 64293.69,
+      "change": 383.1041,
+      "changePercent": 0.5994
     },
     "ETH": {
-      "price": 1884.79,
-      "change": 13.5113,
-      "changePercent": 0.722
+      "price": 1891.7,
+      "change": 20.4213,
+      "changePercent": 1.0913
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.251,
-      "change": 0.0159,
-      "changePercent": 0.0493
+      "price": 32.239,
+      "change": 0.0039,
+      "changePercent": 0.0121
     },
     "JPYTWD": {
       "price": 0.2003,
@@ -94,22 +94,22 @@
       "changePercent": -1.9185
     },
     "EURTWD": {
-      "price": 37.25,
-      "change": -0.0052,
-      "changePercent": -0.0141
+      "price": 37.24,
+      "change": -0.0152,
+      "changePercent": -0.0409
     },
     "CNYTWD": {
-      "price": 4.787,
+      "price": 4.7854,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4438.7,
-    "twd": 4602.0,
-    "tael": 172592.0,
-    "twdTotal": 143153.0,
-    "changePercent": 1.763
+    "usd": 4443.2,
+    "twd": 4605.0,
+    "tael": 172703.0,
+    "twdTotal": 143244.0,
+    "changePercent": 1.8662
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,16 +121,20 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRG4tNWF4eGI2dXVaRFFwc1VNS3dQVkNUVmY2TlhYTVNEUnAzNTVCZ1FqZUtvS3hleWxncEtkRWxscFE2ZUZUUHkyamlhVWdnZldXeFlYVnJlN1hvMklBbmgzSjhUem9lb3VuZ0czMmZ1d2J5aTVIQzYwRzZmQTdaV2dzbWswalhnb0NTMnZhdw?oc=5"
     },
     {
-      "title": "台股才反彈「美股AI天團倒一片」！專家警2大警訊喊：靠自己 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPaFV0Q1RoQV9YdW83bWJuREwzNzFHV0hvQmxDaWNXdm1yNUlqN2dralJyZ0lMZ3FrUlB4Qll0ZFRTaGF4QlFReThISURLdVJBM1FIY3gzalYyWmZXMGdnb3A4ZmZJYnJ4aTZrX1hpY184LW1QcS15YWx1TzNlNXlCUTdlOXFHQ015cjB2bkhac3VrWnFOakc4X3B6TjZKc0RRSGc3Q2gxOWlSVFZnZ0E1RXhSVFNWcHlBMmt3bGtuLUoyT2txTGRhcGt3VVBkSVZEaDdPcUYtSmRFb1ZWcWE0ak1FdW0wRGNIaDd3QVJRX3Y0ZlpMVUJzUmd2U2E5UXRkVmlIWnNHLTdWWFFIWFFaWWNCMU5HaDVyaDNFZ2tSdExFZzRqZEExVUVIbkxvNGxiaDZrbnlRZHdYNFR2dHBBemoyRE8wbWNubW9oUHE5TXhIR295V3BheGtSTWcxVXh6TVJoSEEwN0JkNHRtSXZKVkIwNExLeWNlU25lMDF6ZEJ1NklCTFlSa1BTOEM0Y2I1RE1ESUh6cw?oc=5"
-    },
-    {
       "title": "黃金狂飆9週高點！機構罕見喊買「數月來最佳機會」曝光 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJUWhsaGxVcHkxTVJ5VUZCMl9RczdDSU54TjVhNnNycGpfS0dkNXNZV3FzN3FOQU1iWUxqeExXeE1QcVJvNU1KaDNXanJXQWhSZzMwc1F1bTJGbVItLWxv?oc=5"
     },
     {
       "title": "黃金又要噴了？金價衝9週新高 華爾街巨頭罕見轉多：機會來了 - 財訊",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81MnlhcE1RNzRLWVZMNDlwZmNVNUZSd1l5UUc2TWh2NkpmWlVUellHSFdEbVFlMkJQWTd1ZGRQWXNNeW9HazhiTzBoSDZsVTM1SzJhZlphMjRWNlNLZzF3bm1wT1VMcHdHNEhEY2xmU2I1NlZvM0JTVnk5UQ?oc=5"
+    },
+    {
+      "title": "台股才反彈「美股AI天團倒一片」！專家警2大警訊喊：靠自己 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPaFV0Q1RoQV9YdW83bWJuREwzNzFHV0hvQmxDaWNXdm1yNUlqN2dralJyZ0lMZ3FrUlB4Qll0ZFRTaGF4QlFReThISURLdVJBM1FIY3gzalYyWmZXMGdnb3A4ZmZJYnJ4aTZrX1hpY184LW1QcS15YWx1TzNlNXlCUTdlOXFHQ015cjB2bkhac3VrWnFOakc4X3B6TjZKc0RRSGc3Q2gxOWlSVFZnZ0E1RXhSVFNWcHlBMmt3bGtuLUoyT2txTGRhcGt3VVBkSVZEaDdPcUYtSmRFb1ZWcWE0ak1FdW0wRGNIaDd3QVJRX3Y0ZlpMVUJzUmd2U2E5UXRkVmlIWnNHLTdWWFFIWFFaWWNCMU5HaDVyaDNFZ2tSdExFZzRqZEExVUVIbkxvNGxiaDZrbnlRZHdYNFR2dHBBemoyRE8wbWNubW9oUHE5TXhIR295V3BheGtSTWcxVXh6TVJoSEEwN0JkNHRtSXZKVkIwNExLeWNlU25lMDF6ZEJ1NklCTFlSa1BTOEM0Y2I1RE1ESUh6cw?oc=5"
+    },
+    {
+      "title": "【 0811台股盤後】台股開低走高小漲192 點站上45,120 點！MLCC、消費用電池、銅箔基板三強攻頂，「投本比」策略:順達、富世達、華星光｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPS09sMHM0QUlGQko0NVZmdDZOUUpyWVVMRng0cXpEcC13TDg4LUM2RW9ERUdEdWtFd0Q4aGlnaF93T3A0VV9ickwwallGbVNJNzhkSGZuVlloRE1icnd6OGNHQ2pxemJKUnNjVmFCMGpIVVhrVTdNZkF3amd1M3UzNHpyeGE0LVptdkRaal9qMDdQVDRId3ZkOTNXNDNJWTBrNGljLTZnNkZNazRKeThZS3RXT2QxVmo1eFZSNm5vX2NMa0RoZWJaMlFXYTFUM1pCNEVrVnJNcG92UndxdjBWaEV5TDVMS3o3aVVVaTh2OVAtZDlyaEFXeGl0NUdCNm5vR1lDX29Sd1hhYUxpX0lfdjBZQko4SmVmbVkycnFObWJoaEtpNy05UEhMNkRtbl9ncEt6b3dIVFhHRm8tckw2VDd5YllUdVBaSTZvSTNVNl9UdWxZQl9LeEdaSkMtZ0ZVTE9FWDFvZ1k5cEo3NmNrZW15RzBZQTRFT1Z2aFFoZ0RneHFiQkgtSFVva0Rxc1FBU2dxUjY0NUhHV2dKQzl6WGNiUzdBcHo2bEkzZmlHeWstd1VUVDR4UE5zMWlkeTYxWkxIX0JveS1lNWc1c3A2V3kzSVB4TzliMHphZ00xUUhfVFpLbHhVRHRlVjFWU2Jlb2VIQkFScW51WDFKNnhHdzR0STczVERoQW40UmdZRWdLZVktbzVUT01UQkFyLWdPUHBKRVhRQzhZVkNlRmhsWnVqcUFKRFBZRWhrbUNJaVVaRUVXVjNuXzJYUEhMOXYxOUpQUG9HYnFwc3BHSWpFQWRTalpJTnZZT05wYms4M0ZHWTlTcG51MG1lR2NMb1NzN2hjSU1kZ0h2bFhkd3NYT19Rc3ExbUZDVzJuOGk0RQ?oc=5"
     },
     {
       "title": "〈美股盤後〉川普要求伊朗賠償 油價飆 英特爾領跌晶片股 費半重挫近3% - news.cnyes.com",
@@ -143,10 +147,6 @@
     {
       "title": "市場情緒轉向！貝萊德：比特幣、美股「脫鉤」是健康現象 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU1ZBaVYxVUk2WXFlMWQza08zQkZOODZWNEV6MTNUemJhSUk5dE1FNXF2TU5UU2RBMjh1RldOeHgtczFuQmVjSGRkTFd1RmVaeWxkd2o4TjJTNmFTNGp4SFRpazR6UGpCSEJUZTY4SEFkdE03eUdEVXpVbWZGZklsb3lTc2M4eEVOZ0tzNlNCZGluSUoxc0ZaanVnTnpfbXhycGNadg?oc=5"
-    },
-    {
-      "title": "《台股盤後》開低走高、收漲191點，站上45K - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSjFseGppVy1FRVI5RDBXdFpOSkFISGNtbzVUS29XcFRmS3dQTUgtc25Va3ktRXRjeXREMzdhU0cwRVpLX0xQUE44QWNVYkNkcVdaLXA2Q0hpWGxvb2JoV2E4ZVkxZ3k0ZlEzX01ZX1plR3NlTHNhbER1UlB1OWJoY3cwcVBRcEtualNpMGZ4T3RyQQ?oc=5"
     }
   ]
 }
