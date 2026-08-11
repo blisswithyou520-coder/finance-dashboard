@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/12 02:36",
+  "updated_tw": "08/12 03:45",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 216.726,
-      "change": -0.824,
-      "changePercent": -0.3788
+      "price": 217.55,
+      "change": -0.0,
+      "changePercent": -0.0
     },
     "AAPL": {
-      "price": 303.695,
-      "change": -4.565,
-      "changePercent": -1.4809
+      "price": 304.34,
+      "change": -3.92,
+      "changePercent": -1.2717
     },
     "TSLA": {
-      "price": 331.285,
-      "change": 0.405,
-      "changePercent": 0.1224
+      "price": 331.991,
+      "change": 1.111,
+      "changePercent": 0.3358
     },
     "QQQ": {
-      "price": 716.835,
-      "change": -4.035,
-      "changePercent": -0.5597
+      "price": 718.1,
+      "change": -2.77,
+      "changePercent": -0.3843
     },
     "SPY": {
-      "price": 770.13,
-      "change": -2.9,
-      "changePercent": -0.3752
+      "price": 770.48,
+      "change": -2.55,
+      "changePercent": -0.3299
     },
     "SCHD": {
-      "price": 34.28,
-      "change": 0.09,
-      "changePercent": 0.2632
+      "price": 34.265,
+      "change": 0.075,
+      "changePercent": 0.2194
     },
     "VOO": {
-      "price": 707.92,
-      "change": -2.73,
-      "changePercent": -0.3842
+      "price": 708.24,
+      "change": -2.41,
+      "changePercent": -0.3391
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63345.06,
-      "change": -565.5259,
-      "changePercent": -0.8849
+      "price": 63379.34,
+      "change": -531.2459,
+      "changePercent": -0.8312
     },
     "ETH": {
-      "price": 1863.59,
-      "change": -7.6887,
-      "changePercent": -0.4109
+      "price": 1869.63,
+      "change": -1.6487,
+      "changePercent": -0.0881
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.231,
-      "change": -0.0041,
-      "changePercent": -0.0127
+      "price": 32.228,
+      "change": -0.0071,
+      "changePercent": -0.022
     },
     "JPYTWD": {
-      "price": 0.2001,
-      "change": -0.0041,
-      "changePercent": -2.0165
+      "price": 0.2002,
+      "change": -0.004,
+      "changePercent": -1.9675
     },
     "EURTWD": {
-      "price": 37.234,
-      "change": -0.0212,
-      "changePercent": -0.057
+      "price": 37.243,
+      "change": -0.0122,
+      "changePercent": -0.0329
     },
     "CNYTWD": {
-      "price": 4.7848,
+      "price": 4.7852,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4423.9,
-    "twd": 4584.0,
-    "tael": 171910.0,
-    "twdTotal": 142587.0,
-    "changePercent": 1.4237
+    "usd": 4430.8,
+    "twd": 4591.0,
+    "tael": 172162.0,
+    "twdTotal": 142796.0,
+    "changePercent": 1.5819
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,12 +125,12 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRG4tNWF4eGI2dXVaRFFwc1VNS3dQVkNUVmY2TlhYTVNEUnAzNTVCZ1FqZUtvS3hleWxncEtkRWxscFE2ZUZUUHkyamlhVWdnZldXeFlYVnJlN1hvMklBbmgzSjhUem9lb3VuZ0czMmZ1d2J5aTVIQzYwRzZmQTdaV2dzbWswalhnb0NTMnZhdw?oc=5"
     },
     {
-      "title": "黃金狂飆9週高點！機構罕見喊買「數月來最佳機會」曝光 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJUWhsaGxVcHkxTVJ5VUZCMl9RczdDSU54TjVhNnNycGpfS0dkNXNZV3FzN3FOQU1iWUxqeExXeE1QcVJvNU1KaDNXanJXQWhSZzMwc1F1bTJGbVItLWxv?oc=5"
-    },
-    {
       "title": "台股才反彈「美股AI天團倒一片」！專家警2大警訊喊：靠自己 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPaFV0Q1RoQV9YdW83bWJuREwzNzFHV0hvQmxDaWNXdm1yNUlqN2dralJyZ0lMZ3FrUlB4Qll0ZFRTaGF4QlFReThISURLdVJBM1FIY3gzalYyWmZXMGdnb3A4ZmZJYnJ4aTZrX1hpY184LW1QcS15YWx1TzNlNXlCUTdlOXFHQ015cjB2bkhac3VrWnFOakc4X3B6TjZKc0RRSGc3Q2gxOWlSVFZnZ0E1RXhSVFNWcHlBMmt3bGtuLUoyT2txTGRhcGt3VVBkSVZEaDdPcUYtSmRFb1ZWcWE0ak1FdW0wRGNIaDd3QVJRX3Y0ZlpMVUJzUmd2U2E5UXRkVmlIWnNHLTdWWFFIWFFaWWNCMU5HaDVyaDNFZ2tSdExFZzRqZEExVUVIbkxvNGxiaDZrbnlRZHdYNFR2dHBBemoyRE8wbWNubW9oUHE5TXhIR295V3BheGtSTWcxVXh6TVJoSEEwN0JkNHRtSXZKVkIwNExLeWNlU25lMDF6ZEJ1NklCTFlSa1BTOEM0Y2I1RE1ESUh6cw?oc=5"
+    },
+    {
+      "title": "黃金狂飆9週高點！機構罕見喊買「數月來最佳機會」曝光 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJUWhsaGxVcHkxTVJ5VUZCMl9RczdDSU54TjVhNnNycGpfS0dkNXNZV3FzN3FOQU1iWUxqeExXeE1QcVJvNU1KaDNXanJXQWhSZzMwc1F1bTJGbVItLWxv?oc=5"
     },
     {
       "title": "快訊／美股開盤一片綠！道瓊跌逾60點 台積電ADR上漲0.71% - 三立新聞",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPS09sMHM0QUlGQko0NVZmdDZOUUpyWVVMRng0cXpEcC13TDg4LUM2RW9ERUdEdWtFd0Q4aGlnaF93T3A0VV9ickwwallGbVNJNzhkSGZuVlloRE1icnd6OGNHQ2pxemJKUnNjVmFCMGpIVVhrVTdNZkF3amd1M3UzNHpyeGE0LVptdkRaal9qMDdQVDRId3ZkOTNXNDNJWTBrNGljLTZnNkZNazRKeThZS3RXT2QxVmo1eFZSNm5vX2NMa0RoZWJaMlFXYTFUM1pCNEVrVnJNcG92UndxdjBWaEV5TDVMS3o3aVVVaTh2OVAtZDlyaEFXeGl0NUdCNm5vR1lDX29Sd1hhYUxpX0lfdjBZQko4SmVmbVkycnFObWJoaEtpNy05UEhMNkRtbl9ncEt6b3dIVFhHRm8tckw2VDd5YllUdVBaSTZvSTNVNl9UdWxZQl9LeEdaSkMtZ0ZVTE9FWDFvZ1k5cEo3NmNrZW15RzBZQTRFT1Z2aFFoZ0RneHFiQkgtSFVva0Rxc1FBU2dxUjY0NUhHV2dKQzl6WGNiUzdBcHo2bEkzZmlHeWstd1VUVDR4UE5zMWlkeTYxWkxIX0JveS1lNWc1c3A2V3kzSVB4TzliMHphZ00xUUhfVFpLbHhVRHRlVjFWU2Jlb2VIQkFScW51WDFKNnhHdzR0STczVERoQW40UmdZRWdLZVktbzVUT01UQkFyLWdPUHBKRVhRQzhZVkNlRmhsWnVqcUFKRFBZRWhrbUNJaVVaRUVXVjNuXzJYUEhMOXYxOUpQUG9HYnFwc3BHSWpFQWRTalpJTnZZT05wYms4M0ZHWTlTcG51MG1lR2NMb1NzN2hjSU1kZ0h2bFhkd3NYT19Rc3ExbUZDVzJuOGk0RQ?oc=5"
     },
     {
-      "title": "資金重返黃金市場，中國央行連續21個月增持 - 日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbml5TWlyLXpJWmZGbnFPby1PUm1GeVhUbFZwT0xjRk5Bclctc1pLSWVxVHhJZ1RBd3dYSTZ6MUgxN1RmZktvUk5rOVBjR1dpRC1rQk9jWHc5eG1leXQ1eXc5c2thYXFfVnRKYndRQVk1MEtEVC1TSnV5TjVERUJjQ2RnOGR6clpnWHc?oc=5"
+      "title": "〈美股盤後〉川普要求伊朗賠償 油價飆 英特爾領跌晶片股 費半重挫近3% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSSzlUc2hCWElGVnRhVzlLcm8zYWlOWTFTamJpVXlsSFRCX3FOai1XSGI1UWUzMU43QnBKZXNEUE5RSXBGT2xEYlhSeVFHamM?oc=5"
     },
     {
-      "title": "美伊傳和平協議曙光！美股盤前走高 科技與個股成焦點 - finance.ftvnews.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rYTZicHI5VlIwVDV1NXgzMmRiYXppbjNJRm02Z1Z0MGE3SjQ1TWU2RjhlYzZzSkJNNTUxaDFXNUUwXzF2MnNYUFdYQVVxSkNaX18wSkxQU2NjQnNKbjh0TWVqRGluQQ?oc=5"
+      "title": "資金重返黃金市場，中國央行連續21個月增持 - 日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbml5TWlyLXpJWmZGbnFPby1PUm1GeVhUbFZwT0xjRk5Bclctc1pLSWVxVHhJZ1RBd3dYSTZ6MUgxN1RmZktvUk5rOVBjR1dpRC1rQk9jWHc5eG1leXQ1eXc5c2thYXFfVnRKYndRQVk1MEtEVC1TSnV5TjVERUJjQ2RnOGR6clpnWHc?oc=5"
     }
   ]
 }
