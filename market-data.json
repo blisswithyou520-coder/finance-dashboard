@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/11 08:32",
+  "updated_tw": "08/11 10:51",
   "taiwan": {
     "2330": {
-      "price": 2380.0,
-      "change": 10.0,
-      "changePercent": 0.4219
+      "price": 2395.0,
+      "change": 15.0,
+      "changePercent": 0.6303
     },
     "2454": {
-      "price": 3960.0,
-      "change": 60.0,
-      "changePercent": 1.5385
+      "price": 3920.0,
+      "change": -40.0,
+      "changePercent": -1.0101
     },
     "2317": {
-      "price": 264.5,
-      "change": 4.5,
-      "changePercent": 1.7308
+      "price": 261.5,
+      "change": -3.0,
+      "changePercent": -1.1342
     },
     "0050": {
-      "price": 104.25,
-      "change": 1.4,
-      "changePercent": 1.3612
+      "price": 103.95,
+      "change": -0.3,
+      "changePercent": -0.2878
     },
     "00878": {
-      "price": 33.4,
-      "change": 0.59,
-      "changePercent": 1.7982
+      "price": 33.32,
+      "change": -0.08,
+      "changePercent": -0.2395
     },
     "00919": {
-      "price": 30.03,
-      "change": 0.29,
-      "changePercent": 0.9751
+      "price": 30.08,
+      "change": 0.05,
+      "changePercent": 0.1665
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63925.0,
-      "change": -919.8867,
-      "changePercent": -1.4186
+      "price": 63974.71,
+      "change": -870.1767,
+      "changePercent": -1.3419
     },
     "ETH": {
-      "price": 1873.02,
-      "change": -35.6627,
-      "changePercent": -1.8684
+      "price": 1876.23,
+      "change": -32.4527,
+      "changePercent": -1.7003
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.221,
-      "change": -0.0141,
-      "changePercent": -0.0437
+      "price": 32.22,
+      "change": -0.0151,
+      "changePercent": -0.0468
     },
     "JPYTWD": {
-      "price": 0.2002,
-      "change": -0.004,
-      "changePercent": -1.9675
+      "price": 0.2001,
+      "change": -0.0041,
+      "changePercent": -2.0165
     },
     "EURTWD": {
-      "price": 37.255,
-      "change": -0.0002,
-      "changePercent": -0.0007
+      "price": 37.229,
+      "change": -0.0262,
+      "changePercent": -0.0704
     },
     "CNYTWD": {
-      "price": 4.7796,
+      "price": 4.7843,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4468.8,
-    "twd": 4629.0,
-    "tael": 173601.0,
-    "twdTotal": 143989.0,
-    "changePercent": 2.9511
+    "usd": 4479.9,
+    "twd": 4641.0,
+    "tael": 174027.0,
+    "twdTotal": 144342.0,
+    "changePercent": 2.7076
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSSzlUc2hCWElGVnRhVzlLcm8zYWlOWTFTamJpVXlsSFRCX3FOai1XSGI1UWUzMU43QnBKZXNEUE5RSXBGT2xEYlhSeVFHamM?oc=5"
     },
     {
-      "title": "《貴金屬》等待通膨數據 COMEX黃金上漲0.5% - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEtkUGFxMEplOEZaOE5BNmx6Znc4YWlXLVBNcDFHRGlaNzZwNGlyUlBnTHBNWXYxQjZ0OXdOY3BPcWlrRTVfT2ltWHdDNGYzdjZwU1F2V1NKR1JBdFlXeXROSllVRmxuNnVvNHpwYzZheUU5bU9Vb1hKWFkwb0xpTWhKRDhOVVpmU0EydHNVTUtDZw?oc=5"
+      "title": "【0810台股盤後】台股大盤飆702 點強勢攻克45,000 點大關！記憶體、MLCC、光通訊三強拱頂，鎖定「營收創高模範生」至上、力積電、盟立｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxPc2JCOGhaY1ZwVm1LMTZzYzhseUtuTDVQTDBNSjljTWVyNU5Za01UYUN5eV9MblFkS0JROGhFSnQzN2YySGcxX1pKZWdINWNITTNfTGk1TlBzODFrdjJvRTExbjFHVVpzalVfamdUVkljdVl0Tzc1dzlFN2dwbmdiNHdjaWNQMFBIbkFnZHhTbXRBTUIwTlI5NnVhT19xYkVPWXVsdklOdTVyMGZOZ2d5OFFhZTNwbGRBSkRWTGhVNnBKVUdMdWF2R1hvSXlKU25mcWd4TW1JNlpLV3AwbkRzRHlva0R5SnZDcTE4Slcwc3BvNWdjRElTVVlCaHBIMGdaSHJRUzZUclY0Vm9lT0lyMGxGOUtPV2tmTVN0UEFvTUs1T1ZUc3ROaHYxcXRSemNPNkhPaWVjUXVieU9kRGZSaDIzY3ZIUUxTZWE5WTQ5cll3T0tQem1mT3IyUGhhRDVxalo1aGZUQ01kclNvbmNybEJCVmE5RTlPejVYZzVjalFwbkswZGlndGdFSUxEeDVCSkFjSjZEc1U1VndPWDY4ZmhCd0FTSnBHUDB1SFdkRlYxWWhoTFhwcm9wdk92ckNSamFNTDMwQkNvTWJMbS02bkVqMVdBSVVfWWFGdU1iTWZuMmdzTVotc1F5cjlUSzZISTB1RDZfRUVaVzVaYTl0dzI3c2hFNklfNnhsMHpUc1JZcFI5UzBTYl9RbUQ2eHdxQUh4VFJDdlZzcHMtc08ydnRIU29MdXVrSHVfOWtDSVY5SzBZR2dmLXlTZ1VOVUdRVjFuUUZDdEJmbFp6d2Z5TGV4SXdZV1NZZWI4d3hEU1hHRW01b2FBekVVc3J2eXI1R1JsNFlycFFlWmlsT0lUYS11VzhNZDZBdmc1YkVaeE84R2hwSDItRTlB?oc=5"
     },
     {
       "title": "荷莫茲海峽重開協議陷不確定性美股收跌| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LVDdkVWdRazUxcDJFTlhfZFlkSHh2cnByN2I4aG5LXy1kUmZqMEVQSVdDQzhvaG5OdkRfX0JBbHM5UTYwblJhVXd3ZUY4Ukds?oc=5"
     },
     {
-      "title": "美股轉弱引發避險情緒 那斯達克挫跌0.44% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQMzlMSjNzcFQyT2NyN2FCY3Y5OUV6Ujk4THRKR21nRnFuaGx2b2J1TGd3UTE4Vm5RVi1BSW1jT1I3SEFYQXJ6OVkwQ2tuV1M0WWhCMmNfbXFIZUFYNGNnTWJESGxfMW5RSGtKcHh1ZDZabnlHa1VVUDBZUE14djR2dDdUTHhVNERZTXhKcXEtUjJfZXBEZHo0SjlsRmxIR0NXLW9tNl9GeC1NeXB1SjQwdUJPSzg4ZEpyUjd5Ulluak54SmdyVTVpMjl1cTRWbHZMYlhJQmR6aDNvX2hDaW04VzJQR1ljdzV1Vmo5MnNkX1hmQzdxcmR4VS0zNG8zXzFkci1qOVkyZ3QtWGx1TmVpeGcyVGZYZG5QMHVIYjdnd3VtUQ?oc=5"
+      "title": "美股全收低！台股早盤震盪走跌 台積電開2390元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNMXZpY3lrb3haTTAwSS1rWERYY3M4R3VUdXJSNVZhSE9CODQ0WGcycmJheTRWN3ZpWHBqOXotLVIwc2RZR281MTlhZldPdndZdEtQSUVuZUlwengtRXZ5ZTk2Nk9ra001a3F5dU15c2RVbTF2TzRObXdGeEtqZTdoNTlyT3FBREVHbGN0MjNuVnh4aHkxaFo3WG1GTGhHX29DY0kzYWV0RHNJRWlqbVFQTkpLUlZrRUtGb1pQTVZLV0FsZmgzUFVKWW4tOVJqZUR5Z3JtX0dWX29rR3B5LWhUbWtOVzdNV1liWTVqb0JPcEJ4REloYmJFdG91Mkl5TXVfY2JfWV9hcVNYaVlRMVRLR2taM0NqZHV4U2dmY09iQ040RGliNnZUXzFibmlpWGc5TjVpMTlabE5NOGs?oc=5"
     },
     {
-      "title": "〈美股早盤〉荷姆茲僵局推升油價與美債殖利率 主要指數平盤震盪 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2akRkT2lRaTBHQXpSN0N5LXpoclhFSlVxcFNqN25CdFI3RXpvenpfMVdNSEw5em5IZnpBUVFCY1VDT1dMNGliZlFNemQ4aVk?oc=5"
+      "title": "黃金狂飆9週高點！機構罕見喊買「數月來最佳機會」曝光 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJUWhsaGxVcHkxTVJ5VUZCMl9RczdDSU54TjVhNnNycGpfS0dkNXNZV3FzN3FOQU1iWUxqeExXeE1QcVJvNU1KaDNXanJXQWhSZzMwc1F1bTJGbVItLWxv?oc=5"
     }
   ]
 }
