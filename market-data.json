@@ -1,31 +1,31 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/11 13:33",
+  "updated_tw": "08/11 14:35",
   "taiwan": {
     "2330": {
-      "price": 2405.0,
-      "change": 25.0,
-      "changePercent": 1.0504
+      "price": 2395.0,
+      "change": 15.0,
+      "changePercent": 0.6303
     },
     "2454": {
-      "price": 4025.0,
-      "change": 65.0,
-      "changePercent": 1.6414
+      "price": 4020.0,
+      "change": 60.0,
+      "changePercent": 1.5152
     },
     "2317": {
-      "price": 264.0,
-      "change": -0.5,
-      "changePercent": -0.189
+      "price": 263.0,
+      "change": -1.5,
+      "changePercent": -0.5671
     },
     "0050": {
-      "price": 104.7,
-      "change": 0.45,
-      "changePercent": 0.4317
+      "price": 104.6,
+      "change": 0.35,
+      "changePercent": 0.3357
     },
     "00878": {
-      "price": 33.42,
-      "change": 0.02,
-      "changePercent": 0.0599
+      "price": 33.47,
+      "change": 0.07,
+      "changePercent": 0.2096
     },
     "00919": {
       "price": 30.12,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63933.23,
-      "change": -911.6567,
-      "changePercent": -1.4059
+      "price": 63846.78,
+      "change": -998.1067,
+      "changePercent": -1.5392
     },
     "ETH": {
-      "price": 1873.4,
-      "change": -35.2827,
-      "changePercent": -1.8485
+      "price": 1870.8,
+      "change": -37.8827,
+      "changePercent": -1.9848
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.241,
-      "change": 0.0059,
-      "changePercent": 0.0183
+      "price": 32.233,
+      "change": -0.0021,
+      "changePercent": -0.0065
     },
     "JPYTWD": {
-      "price": 0.2004,
-      "change": -0.0038,
-      "changePercent": -1.8696
+      "price": 0.2003,
+      "change": -0.0039,
+      "changePercent": -1.9185
     },
     "EURTWD": {
-      "price": 37.267,
-      "change": 0.0118,
-      "changePercent": 0.0316
+      "price": 37.226,
+      "change": -0.0292,
+      "changePercent": -0.0785
     },
     "CNYTWD": {
-      "price": 4.7888,
+      "price": 4.7858,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4457.6,
-    "twd": 4621.0,
-    "tael": 173273.0,
-    "twdTotal": 143717.0,
-    "changePercent": 2.1963
+    "usd": 4430.8,
+    "twd": 4592.0,
+    "tael": 172189.0,
+    "twdTotal": 142818.0,
+    "changePercent": 1.5819
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJUWhsaGxVcHkxTVJ5VUZCMl9RczdDSU54TjVhNnNycGpfS0dkNXNZV3FzN3FOQU1iWUxqeExXeE1QcVJvNU1KaDNXanJXQWhSZzMwc1F1bTJGbVItLWxv?oc=5"
     },
     {
-      "title": "美股收盤／三大指數小跌費半重挫近3% 英特爾等晶片股籌資消息掀賣壓| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nR2JnbjNvbHRBdHNQU0JzNTJWaE5qdmxjN2lzX3hocjdOaklXUi1PdlQ4Z3Z4d2xKdFZhOXBHakI5U2xic0pxczFxYnhicG9H?oc=5"
+      "title": "美股崩盤將至？歷史揭「永不失敗」投資策略 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPVGNkNnJVdmNuS3c5TFJSLU50MXpnRmlXS0xFZ0hlbFVoVHd2djlNT0NYbm01NVV2NXl4V3RnRzdsNXAyR3FSRWdrTVVIYjlsTWZ1el9GTTFvdnBPUjR4RXZGY09YYVdldzNCazBmanBTcGJlUklScXltX2lheDNSdFlCdkktVE5YMm9OWjNPYWx6M1ZXSnhwdmNnV2c3VlBkVGQtX2dHWUV0Z3RTa0FrUTFrSHN2LXpfdU5WcFZJaVN3NmJ5eHREX0NQS0hHNVdyVVhreEdyZ0cxNmRsY1RUTW5iSHdJb2VDNzhXeW1oWWtXd0tLY0RQQ0hVVXU5bDZhWEpMSGhMUW9zdG5FLXBxem42OVFuRGZ3UElVSDA4cGZqdzA?oc=5"
     },
     {
       "title": "〈美股盤後〉川普要求伊朗賠償 油價飆 英特爾領跌晶片股 費半重挫近3% - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSSzlUc2hCWElGVnRhVzlLcm8zYWlOWTFTamJpVXlsSFRCX3FOai1XSGI1UWUzMU43QnBKZXNEUE5RSXBGT2xEYlhSeVFHamM?oc=5"
     },
     {
-      "title": "美股崩盤將至？歷史揭「永不失敗」投資策略 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPVGNkNnJVdmNuS3c5TFJSLU50MXpnRmlXS0xFZ0hlbFVoVHd2djlNT0NYbm01NVV2NXl4V3RnRzdsNXAyR3FSRWdrTVVIYjlsTWZ1el9GTTFvdnBPUjR4RXZGY09YYVdldzNCazBmanBTcGJlUklScXltX2lheDNSdFlCdkktVE5YMm9OWjNPYWx6M1ZXSnhwdmNnV2c3VlBkVGQtX2dHWUV0Z3RTa0FrUTFrSHN2LXpfdU5WcFZJaVN3NmJ5eHREX0NQS0hHNVdyVVhreEdyZ0cxNmRsY1RUTW5iSHdJb2VDNzhXeW1oWWtXd0tLY0RQQ0hVVXU5bDZhWEpMSGhMUW9zdG5FLXBxem42OVFuRGZ3UElVSDA4cGZqdzA?oc=5"
+      "title": "美股早盤／中東陷僵局「四大指數盡墨」 英特爾跌4%、晶片股挫| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5La21IcEJaZXNKbE9BZHI2RlJTR1JnLUJUQlBPMG5oUTRaNEFIOGUwY2F6OXliTlY0RDl3c0ZwWFhhOC1SU01QRHBQRVozSGx6?oc=5"
     },
     {
       "title": "資金重返黃金市場，中國央行連續21個月增持 - 日經中文網",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbml5TWlyLXpJWmZGbnFPby1PUm1GeVhUbFZwT0xjRk5Bclctc1pLSWVxVHhJZ1RBd3dYSTZ6MUgxN1RmZktvUk5rOVBjR1dpRC1rQk9jWHc5eG1leXQ1eXc5c2thYXFfVnRKYndRQVk1MEtEVC1TSnV5TjVERUJjQ2RnOGR6clpnWHc?oc=5"
     },
     {
-      "title": "美股收跌台股早盤震盪翻紅 台積電上漲5元 - cna.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80aS0xUmNIN1hfMUlvX0ptbjJjbHJRWXp1UDRZTXoxMnVBZ0hlTE43OFhnTktxT01qSi1vblZEY0FYNzN0SDhqYk1QZXVpbTdOT1U0cUdHZTNScF8yNmc?oc=5"
+      "title": "台股震盪逾500點收漲191點多檔被動元件攻漲停| 證券 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82TDRqNkFSVEZQdk0xdmU3eHB3UGVOMGdJOE95NE1sQ0lJc2xzREF3X1FlR2VrUEZxUEJRTkE3bEw1VXdCM3pPRFItYVJvZmVYNkgxdGp3RDJJY3I4LWc?oc=5"
     },
     {
       "title": "美股收盤》美伊僵持油價飆 美股震盪費半重挫 台積電ADR跌0.37％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ndm8xNlJDOVJqcjhHb2hWNnBscjk4OG1kcnRxR2ZzRkVYZWk2cE1kaTNrWUtFbVMtTV9kZmFNWHNjaGlBMWdiU0I1cUp6djhLcmV2eDFxNTdIbk4xQUhB?oc=5"
     },
     {
-      "title": "美股早盤／中東陷僵局「四大指數盡墨」 英特爾跌4%、晶片股挫| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5La21IcEJaZXNKbE9BZHI2RlJTR1JnLUJUQlBPMG5oUTRaNEFIOGUwY2F6OXliTlY0RDl3c0ZwWFhhOC1SU01QRHBQRVozSGx6?oc=5"
+      "title": "美股真的屌打台股？含息報酬沒天差地遠…矽谷工程師：最大風險是台積電就占42％ - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vNXUtUEloelpjdl9SUE93ZzdkUUp6ZW5Db2xvQllxMmRtSkMzV3IzWERYeTZvMHVfTDNHUE1BSTdJeU54Q1FrTS1lWHJfWERvS3c?oc=5"
     }
   ]
 }
