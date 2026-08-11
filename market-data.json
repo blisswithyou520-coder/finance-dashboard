@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/12 03:45",
+  "updated_tw": "08/12 04:40",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -35,68 +35,68 @@
   },
   "us": {
     "NVDA": {
-      "price": 217.55,
-      "change": -0.0,
-      "changePercent": -0.0
+      "price": 217.5,
+      "change": -0.05,
+      "changePercent": -0.023
     },
     "AAPL": {
-      "price": 304.34,
-      "change": -3.92,
-      "changePercent": -1.2717
+      "price": 304.91,
+      "change": -3.35,
+      "changePercent": -1.0867
     },
     "TSLA": {
-      "price": 331.991,
-      "change": 1.111,
-      "changePercent": 0.3358
+      "price": 332.81,
+      "change": 1.93,
+      "changePercent": 0.5833
     },
     "QQQ": {
-      "price": 718.1,
-      "change": -2.77,
-      "changePercent": -0.3843
+      "price": 718.45,
+      "change": -2.42,
+      "changePercent": -0.3357
     },
     "SPY": {
-      "price": 770.48,
-      "change": -2.55,
-      "changePercent": -0.3299
+      "price": 770.56,
+      "change": -2.47,
+      "changePercent": -0.3195
     },
     "SCHD": {
-      "price": 34.265,
-      "change": 0.075,
-      "changePercent": 0.2194
+      "price": 34.27,
+      "change": 0.08,
+      "changePercent": 0.234
     },
     "VOO": {
-      "price": 708.24,
-      "change": -2.41,
-      "changePercent": -0.3391
+      "price": 708.42,
+      "change": -2.23,
+      "changePercent": -0.3138
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63379.34,
-      "change": -531.2459,
-      "changePercent": -0.8312
+      "price": 63640.3,
+      "change": -270.2859,
+      "changePercent": -0.4229
     },
     "ETH": {
-      "price": 1869.63,
-      "change": -1.6487,
-      "changePercent": -0.0881
+      "price": 1879.83,
+      "change": 8.5513,
+      "changePercent": 0.457
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.228,
-      "change": -0.0071,
-      "changePercent": -0.022
+      "price": 32.213,
+      "change": -0.0141,
+      "changePercent": -0.0438
     },
     "JPYTWD": {
-      "price": 0.2002,
-      "change": -0.004,
-      "changePercent": -1.9675
+      "price": 0.2,
+      "change": -0.0023,
+      "changePercent": -1.1545
     },
     "EURTWD": {
-      "price": 37.243,
-      "change": -0.0122,
-      "changePercent": -0.0329
+      "price": 37.226,
+      "change": 0.026,
+      "changePercent": 0.0699
     },
     "CNYTWD": {
       "price": 4.7852,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4430.8,
-    "twd": 4591.0,
-    "tael": 172162.0,
-    "twdTotal": 142796.0,
-    "changePercent": 1.5819
+    "usd": 4429.0,
+    "twd": 4587.0,
+    "tael": 172012.0,
+    "twdTotal": 142671.0,
+    "changePercent": 1.5407
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -141,7 +141,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPS09sMHM0QUlGQko0NVZmdDZOUUpyWVVMRng0cXpEcC13TDg4LUM2RW9ERUdEdWtFd0Q4aGlnaF93T3A0VV9ickwwallGbVNJNzhkSGZuVlloRE1icnd6OGNHQ2pxemJKUnNjVmFCMGpIVVhrVTdNZkF3amd1M3UzNHpyeGE0LVptdkRaal9qMDdQVDRId3ZkOTNXNDNJWTBrNGljLTZnNkZNazRKeThZS3RXT2QxVmo1eFZSNm5vX2NMa0RoZWJaMlFXYTFUM1pCNEVrVnJNcG92UndxdjBWaEV5TDVMS3o3aVVVaTh2OVAtZDlyaEFXeGl0NUdCNm5vR1lDX29Sd1hhYUxpX0lfdjBZQko4SmVmbVkycnFObWJoaEtpNy05UEhMNkRtbl9ncEt6b3dIVFhHRm8tckw2VDd5YllUdVBaSTZvSTNVNl9UdWxZQl9LeEdaSkMtZ0ZVTE9FWDFvZ1k5cEo3NmNrZW15RzBZQTRFT1Z2aFFoZ0RneHFiQkgtSFVva0Rxc1FBU2dxUjY0NUhHV2dKQzl6WGNiUzdBcHo2bEkzZmlHeWstd1VUVDR4UE5zMWlkeTYxWkxIX0JveS1lNWc1c3A2V3kzSVB4TzliMHphZ00xUUhfVFpLbHhVRHRlVjFWU2Jlb2VIQkFScW51WDFKNnhHdzR0STczVERoQW40UmdZRWdLZVktbzVUT01UQkFyLWdPUHBKRVhRQzhZVkNlRmhsWnVqcUFKRFBZRWhrbUNJaVVaRUVXVjNuXzJYUEhMOXYxOUpQUG9HYnFwc3BHSWpFQWRTalpJTnZZT05wYms4M0ZHWTlTcG51MG1lR2NMb1NzN2hjSU1kZ0h2bFhkd3NYT19Rc3ExbUZDVzJuOGk0RQ?oc=5"
     },
     {
-      "title": "〈美股盤後〉川普要求伊朗賠償 油價飆 英特爾領跌晶片股 費半重挫近3% - news.cnyes.com",
+      "title": "〈美股盤後〉川普要求伊朗賠償 油價飆 英特爾領跌晶片股 費半重挫近3% | 鉅亨網 - 美股雷達 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSSzlUc2hCWElGVnRhVzlLcm8zYWlOWTFTamJpVXlsSFRCX3FOai1XSGI1UWUzMU43QnBKZXNEUE5RSXBGT2xEYlhSeVFHamM?oc=5"
     },
     {
