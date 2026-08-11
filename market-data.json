@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/11 23:38",
+  "updated_tw": "08/12 00:35",
   "taiwan": {
     "2330": {
       "price": 2395.0,
-      "change": 15.0,
-      "changePercent": 0.6303
+      "change": 25.0,
+      "changePercent": 1.0549
     },
     "2454": {
       "price": 4020.0,
-      "change": 60.0,
-      "changePercent": 1.5152
+      "change": 120.0,
+      "changePercent": 3.0769
     },
     "2317": {
       "price": 263.0,
-      "change": -1.5,
-      "changePercent": -0.5671
+      "change": 3.0,
+      "changePercent": 1.1538
     },
     "0050": {
       "price": 104.6,
-      "change": 0.35,
-      "changePercent": 0.3357
+      "change": 1.75,
+      "changePercent": 1.7015
     },
     "00878": {
       "price": 33.47,
-      "change": 0.07,
-      "changePercent": 0.2096
+      "change": 0.66,
+      "changePercent": 2.0116
     },
     "00919": {
       "price": 30.12,
-      "change": 0.09,
-      "changePercent": 0.2997
+      "change": 0.38,
+      "changePercent": 1.2777
     }
   },
   "us": {
     "NVDA": {
-      "price": 219.11,
-      "change": 1.56,
-      "changePercent": 0.7171
+      "price": 218.86,
+      "change": 1.31,
+      "changePercent": 0.6022
     },
     "AAPL": {
-      "price": 306.64,
-      "change": -1.62,
-      "changePercent": -0.5255
+      "price": 306.3,
+      "change": -1.96,
+      "changePercent": -0.6358
     },
     "TSLA": {
-      "price": 332.82,
-      "change": 1.94,
-      "changePercent": 0.5863
+      "price": 331.455,
+      "change": 0.575,
+      "changePercent": 0.1738
     },
     "QQQ": {
-      "price": 719.685,
-      "change": -1.185,
-      "changePercent": -0.1644
+      "price": 718.31,
+      "change": -2.56,
+      "changePercent": -0.3551
     },
     "SPY": {
-      "price": 772.03,
-      "change": -1.0,
-      "changePercent": -0.1294
+      "price": 771.54,
+      "change": -1.49,
+      "changePercent": -0.1928
     },
     "SCHD": {
-      "price": 34.235,
-      "change": 0.045,
-      "changePercent": 0.1316
+      "price": 34.265,
+      "change": 0.075,
+      "changePercent": 0.2194
     },
     "VOO": {
-      "price": 709.63,
-      "change": -1.02,
-      "changePercent": -0.1435
+      "price": 709.22,
+      "change": -1.43,
+      "changePercent": -0.2012
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63474.6,
-      "change": -435.9859,
-      "changePercent": -0.6822
+      "price": 63474.66,
+      "change": -435.9259,
+      "changePercent": -0.6821
     },
     "ETH": {
-      "price": 1857.71,
-      "change": -13.5687,
-      "changePercent": -0.7251
+      "price": 1861.7,
+      "change": -9.5787,
+      "changePercent": -0.5119
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.228,
-      "change": -0.0071,
-      "changePercent": -0.022
+      "price": 32.216,
+      "change": -0.0191,
+      "changePercent": -0.0593
     },
     "JPYTWD": {
-      "price": 0.2001,
-      "change": -0.0041,
-      "changePercent": -2.0165
+      "price": 0.2002,
+      "change": -0.004,
+      "changePercent": -1.9675
     },
     "EURTWD": {
-      "price": 37.23,
-      "change": -0.0252,
-      "changePercent": -0.0678
+      "price": 37.229,
+      "change": -0.0262,
+      "changePercent": -0.0704
     },
     "CNYTWD": {
-      "price": 4.7834,
+      "price": 4.7824,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4445.5,
-    "twd": 4606.0,
-    "tael": 172733.0,
-    "twdTotal": 143270.0,
-    "changePercent": 1.9189
+    "usd": 4441.4,
+    "twd": 4600.0,
+    "tael": 172510.0,
+    "twdTotal": 143084.0,
+    "changePercent": 1.8249
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -145,7 +145,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPS09sMHM0QUlGQko0NVZmdDZOUUpyWVVMRng0cXpEcC13TDg4LUM2RW9ERUdEdWtFd0Q4aGlnaF93T3A0VV9ickwwallGbVNJNzhkSGZuVlloRE1icnd6OGNHQ2pxemJKUnNjVmFCMGpIVVhrVTdNZkF3amd1M3UzNHpyeGE0LVptdkRaal9qMDdQVDRId3ZkOTNXNDNJWTBrNGljLTZnNkZNazRKeThZS3RXT2QxVmo1eFZSNm5vX2NMa0RoZWJaMlFXYTFUM1pCNEVrVnJNcG92UndxdjBWaEV5TDVMS3o3aVVVaTh2OVAtZDlyaEFXeGl0NUdCNm5vR1lDX29Sd1hhYUxpX0lfdjBZQko4SmVmbVkycnFObWJoaEtpNy05UEhMNkRtbl9ncEt6b3dIVFhHRm8tckw2VDd5YllUdVBaSTZvSTNVNl9UdWxZQl9LeEdaSkMtZ0ZVTE9FWDFvZ1k5cEo3NmNrZW15RzBZQTRFT1Z2aFFoZ0RneHFiQkgtSFVva0Rxc1FBU2dxUjY0NUhHV2dKQzl6WGNiUzdBcHo2bEkzZmlHeWstd1VUVDR4UE5zMWlkeTYxWkxIX0JveS1lNWc1c3A2V3kzSVB4TzliMHphZ00xUUhfVFpLbHhVRHRlVjFWU2Jlb2VIQkFScW51WDFKNnhHdzR0STczVERoQW40UmdZRWdLZVktbzVUT01UQkFyLWdPUHBKRVhRQzhZVkNlRmhsWnVqcUFKRFBZRWhrbUNJaVVaRUVXVjNuXzJYUEhMOXYxOUpQUG9HYnFwc3BHSWpFQWRTalpJTnZZT05wYms4M0ZHWTlTcG51MG1lR2NMb1NzN2hjSU1kZ0h2bFhkd3NYT19Rc3ExbUZDVzJuOGk0RQ?oc=5"
     },
     {
-      "title": "美伊傳和平協議曙光！美股盤前走高 科技與個股成焦點 - finance.ftvnews.com.tw",
+      "title": "美伊傳和平協議曙光！美股盤前走高 科技與個股成焦點 - 民視財經網",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rYTZicHI5VlIwVDV1NXgzMmRiYXppbjNJRm02Z1Z0MGE3SjQ1TWU2RjhlYzZzSkJNNTUxaDFXNUUwXzF2MnNYUFdYQVVxSkNaX18wSkxQU2NjQnNKbjh0TWVqRGluQQ?oc=5"
     }
   ]
