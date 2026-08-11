@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/11 15:54",
+  "updated_tw": "08/11 16:53",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63999.05,
-      "change": 88.4641,
-      "changePercent": 0.1384
+      "price": 64042.24,
+      "change": 131.6541,
+      "changePercent": 0.206
     },
     "ETH": {
-      "price": 1875.0,
-      "change": 3.7213,
-      "changePercent": 0.1989
+      "price": 1876.0,
+      "change": 4.7213,
+      "changePercent": 0.2523
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.269,
-      "change": 0.0339,
-      "changePercent": 0.1052
+      "price": 32.253,
+      "change": 0.0179,
+      "changePercent": 0.0555
     },
     "JPYTWD": {
-      "price": 0.2003,
-      "change": -0.0039,
-      "changePercent": -1.9185
+      "price": 0.2002,
+      "change": -0.004,
+      "changePercent": -1.9675
     },
     "EURTWD": {
-      "price": 37.258,
-      "change": 0.0028,
-      "changePercent": 0.0074
+      "price": 37.25,
+      "change": -0.0052,
+      "changePercent": -0.0141
     },
     "CNYTWD": {
-      "price": 4.7895,
+      "price": 4.7875,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4417.2,
-    "twd": 4583.0,
-    "tael": 171852.0,
-    "twdTotal": 142539.0,
-    "changePercent": 1.2701
+    "usd": 4434.3,
+    "twd": 4598.0,
+    "tael": 172432.0,
+    "twdTotal": 143019.0,
+    "changePercent": 1.6622
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股收盤》美伊僵持油價飆 美股震盪費半重挫 台積電ADR跌0.37％ - 自由財經",
+      "title": "美股收盤》美伊僵持油價飆 美股震盪費半重挫 台積電ADR跌0.37％ - ec.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ndm8xNlJDOVJqcjhHb2hWNnBscjk4OG1kcnRxR2ZzRkVYZWk2cE1kaTNrWUtFbVMtTV9kZmFNWHNjaGlBMWdiU0I1cUp6djhLcmV2eDFxNTdIbk4xQUhB?oc=5"
-    },
-    {
-      "title": "美股收盤／三大指數小跌費半重挫近3% 英特爾等晶片股籌資消息掀賣壓| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nR2JnbjNvbHRBdHNQU0JzNTJWaE5qdmxjN2lzX3hocjdOaklXUi1PdlQ4Z3Z4d2xKdFZhOXBHakI5U2xic0pxczFxYnhicG9H?oc=5"
     },
     {
       "title": "黃金又要噴了？金價衝9週新高 華爾街巨頭罕見轉多：機會來了 - 財訊",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81MnlhcE1RNzRLWVZMNDlwZmNVNUZSd1l5UUc2TWh2NkpmWlVUellHSFdEbVFlMkJQWTd1ZGRQWXNNeW9HazhiTzBoSDZsVTM1SzJhZlphMjRWNlNLZzF3bm1wT1VMcHdHNEhEY2xmU2I1NlZvM0JTVnk5UQ?oc=5"
     },
     {
-      "title": "美股崩盤將至？歷史揭「永不失敗」投資策略 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPVGNkNnJVdmNuS3c5TFJSLU50MXpnRmlXS0xFZ0hlbFVoVHd2djlNT0NYbm01NVV2NXl4V3RnRzdsNXAyR3FSRWdrTVVIYjlsTWZ1el9GTTFvdnBPUjR4RXZGY09YYVdldzNCazBmanBTcGJlUklScXltX2lheDNSdFlCdkktVE5YMm9OWjNPYWx6M1ZXSnhwdmNnV2c3VlBkVGQtX2dHWUV0Z3RTa0FrUTFrSHN2LXpfdU5WcFZJaVN3NmJ5eHREX0NQS0hHNVdyVVhreEdyZ0cxNmRsY1RUTW5iSHdJb2VDNzhXeW1oWWtXd0tLY0RQQ0hVVXU5bDZhWEpMSGhMUW9zdG5FLXBxem42OVFuRGZ3UElVSDA4cGZqdzA?oc=5"
+      "title": "台股才反彈「美股AI天團倒一片」！專家警2大警訊喊：靠自己 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPaFV0Q1RoQV9YdW83bWJuREwzNzFHV0hvQmxDaWNXdm1yNUlqN2dralJyZ0lMZ3FrUlB4Qll0ZFRTaGF4QlFReThISURLdVJBM1FIY3gzalYyWmZXMGdnb3A4ZmZJYnJ4aTZrX1hpY184LW1QcS15YWx1TzNlNXlCUTdlOXFHQ015cjB2bkhac3VrWnFOakc4X3B6TjZKc0RRSGc3Q2gxOWlSVFZnZ0E1RXhSVFNWcHlBMmt3bGtuLUoyT2txTGRhcGt3VVBkSVZEaDdPcUYtSmRFb1ZWcWE0ak1FdW0wRGNIaDd3QVJRX3Y0ZlpMVUJzUmd2U2E5UXRkVmlIWnNHLTdWWFFIWFFaWWNCMU5HaDVyaDNFZ2tSdExFZzRqZEExVUVIbkxvNGxiaDZrbnlRZHdYNFR2dHBBemoyRE8wbWNubW9oUHE5TXhIR295V3BheGtSTWcxVXh6TVJoSEEwN0JkNHRtSXZKVkIwNExLeWNlU25lMDF6ZEJ1NklCTFlSa1BTOEM0Y2I1RE1ESUh6cw?oc=5"
     },
     {
       "title": "〈美股盤後〉川普要求伊朗賠償 油價飆 英特爾領跌晶片股 費半重挫近3% - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSSzlUc2hCWElGVnRhVzlLcm8zYWlOWTFTamJpVXlsSFRCX3FOai1XSGI1UWUzMU43QnBKZXNEUE5RSXBGT2xEYlhSeVFHamM?oc=5"
     },
     {
-      "title": "市場情緒轉向！貝萊德：比特幣、美股「脫鉤」是健康現象 - blockcast.it",
+      "title": "資金重返黃金市場，中國央行連續21個月增持 - 日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbml5TWlyLXpJWmZGbnFPby1PUm1GeVhUbFZwT0xjRk5Bclctc1pLSWVxVHhJZ1RBd3dYSTZ6MUgxN1RmZktvUk5rOVBjR1dpRC1rQk9jWHc5eG1leXQ1eXc5c2thYXFfVnRKYndRQVk1MEtEVC1TSnV5TjVERUJjQ2RnOGR6clpnWHc?oc=5"
+    },
+    {
+      "title": "市場情緒轉向！貝萊德：比特幣、美股「脫鉤」是健康現象 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU1ZBaVYxVUk2WXFlMWQza08zQkZOODZWNEV6MTNUemJhSUk5dE1FNXF2TU5UU2RBMjh1RldOeHgtczFuQmVjSGRkTFd1RmVaeWxkd2o4TjJTNmFTNGp4SFRpazR6UGpCSEJUZTY4SEFkdE03eUdEVXpVbWZGZklsb3lTc2M4eEVOZ0tzNlNCZGluSUoxc0ZaanVnTnpfbXhycGNadg?oc=5"
+    },
+    {
+      "title": "台股收復4萬5千點還會上攻？ 三大法人買超281億元 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fOGhFdmZQQ3AtQWNkWlBDdVdLMk80c1FibUp2RW1yakhhQzNQZ3hQXzBfczUzenB6SWVDVVlrT3VqQzl5U1RvRnFwQ1NGUGk20gFWQVVfeXFMTTAtTE1iSlFfLXMzZXhwMHFQTFY3TFhvWlpQNVdnalFKb1d6eGtmSGNEQ3A2RVp5Q2VhZUJGTVQxbkxnS0M3UlZDazRObWc5anZyOE9lcFE?oc=5"
     },
     {
       "title": "美股V型反轉背後，看漲期權瘋狂湧入！盈利擴散正在接管市場主線 - capitalfutures.com.tw",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTXlWX1pZc2VwZkg1OTdDSXU0UFU0ZWVJZ0VwTGV1dndxcWNRUXkzVjRubVVLRllGbVp1U1hzSEtLdTBYUUxCOXNlbkJwZWZ3aDhwRUtZQTJUZnlXTTJWaVlXbmYyUnlkeUFvN29aV0ZSYlVTSzRERkFCcHIwTlJmRGJvbDF1elFkVVd2MzZiTVU1ZTlNQVV0aVFmYUQ5Rlls?oc=5"
-    },
-    {
-      "title": "資金重返黃金市場，中國央行連續21個月增持 - 日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbml5TWlyLXpJWmZGbnFPby1PUm1GeVhUbFZwT0xjRk5Bclctc1pLSWVxVHhJZ1RBd3dYSTZ6MUgxN1RmZktvUk5rOVBjR1dpRC1rQk9jWHc5eG1leXQ1eXc5c2thYXFfVnRKYndRQVk1MEtEVC1TSnV5TjVERUJjQ2RnOGR6clpnWHc?oc=5"
     }
   ]
 }
