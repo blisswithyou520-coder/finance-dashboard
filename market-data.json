@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/11 12:18",
+  "updated_tw": "08/11 13:33",
   "taiwan": {
     "2330": {
-      "price": 2400.0,
-      "change": 20.0,
-      "changePercent": 0.8403
+      "price": 2405.0,
+      "change": 25.0,
+      "changePercent": 1.0504
     },
     "2454": {
-      "price": 4015.0,
-      "change": 55.0,
-      "changePercent": 1.3889
+      "price": 4025.0,
+      "change": 65.0,
+      "changePercent": 1.6414
     },
     "2317": {
-      "price": 263.0,
-      "change": -1.5,
-      "changePercent": -0.5671
+      "price": 264.0,
+      "change": -0.5,
+      "changePercent": -0.189
     },
     "0050": {
-      "price": 104.45,
-      "change": 0.2,
-      "changePercent": 0.1918
+      "price": 104.7,
+      "change": 0.45,
+      "changePercent": 0.4317
     },
     "00878": {
-      "price": 33.36,
-      "change": -0.04,
-      "changePercent": -0.1198
+      "price": 33.42,
+      "change": 0.02,
+      "changePercent": 0.0599
     },
     "00919": {
-      "price": 30.07,
-      "change": 0.04,
-      "changePercent": 0.1332
+      "price": 30.12,
+      "change": 0.09,
+      "changePercent": 0.2997
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64054.06,
-      "change": -790.8267,
-      "changePercent": -1.2196
+      "price": 63933.23,
+      "change": -911.6567,
+      "changePercent": -1.4059
     },
     "ETH": {
-      "price": 1878.15,
-      "change": -30.5327,
-      "changePercent": -1.5997
+      "price": 1873.4,
+      "change": -35.2827,
+      "changePercent": -1.8485
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.237,
-      "change": 0.0019,
-      "changePercent": 0.0059
+      "price": 32.241,
+      "change": 0.0059,
+      "changePercent": 0.0183
     },
     "JPYTWD": {
-      "price": 0.2003,
-      "change": -0.0039,
-      "changePercent": -1.9185
+      "price": 0.2004,
+      "change": -0.0038,
+      "changePercent": -1.8696
     },
     "EURTWD": {
-      "price": 37.266,
-      "change": 0.0108,
-      "changePercent": 0.0289
+      "price": 37.267,
+      "change": 0.0118,
+      "changePercent": 0.0316
     },
     "CNYTWD": {
-      "price": 4.7874,
+      "price": 4.7888,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4474.7,
-    "twd": 4638.0,
-    "tael": 173917.0,
-    "twdTotal": 144251.0,
-    "changePercent": 2.5884
+    "usd": 4457.6,
+    "twd": 4621.0,
+    "tael": 173273.0,
+    "twdTotal": 143717.0,
+    "changePercent": 2.1963
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,20 +125,16 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nR2JnbjNvbHRBdHNQU0JzNTJWaE5qdmxjN2lzX3hocjdOaklXUi1PdlQ4Z3Z4d2xKdFZhOXBHakI5U2xic0pxczFxYnhicG9H?oc=5"
     },
     {
-      "title": "美股崩盤將至？歷史揭「永不失敗」投資策略 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPVGNkNnJVdmNuS3c5TFJSLU50MXpnRmlXS0xFZ0hlbFVoVHd2djlNT0NYbm01NVV2NXl4V3RnRzdsNXAyR3FSRWdrTVVIYjlsTWZ1el9GTTFvdnBPUjR4RXZGY09YYVdldzNCazBmanBTcGJlUklScXltX2lheDNSdFlCdkktVE5YMm9OWjNPYWx6M1ZXSnhwdmNnV2c3VlBkVGQtX2dHWUV0Z3RTa0FrUTFrSHN2LXpfdU5WcFZJaVN3NmJ5eHREX0NQS0hHNVdyVVhreEdyZ0cxNmRsY1RUTW5iSHdJb2VDNzhXeW1oWWtXd0tLY0RQQ0hVVXU5bDZhWEpMSGhMUW9zdG5FLXBxem42OVFuRGZ3UElVSDA4cGZqdzA?oc=5"
-    },
-    {
       "title": "〈美股盤後〉川普要求伊朗賠償 油價飆 英特爾領跌晶片股 費半重挫近3% - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSSzlUc2hCWElGVnRhVzlLcm8zYWlOWTFTamJpVXlsSFRCX3FOai1XSGI1UWUzMU43QnBKZXNEUE5RSXBGT2xEYlhSeVFHamM?oc=5"
     },
     {
-      "title": "資金重返黃金市場，中國央行連續21個月增持 - 日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbml5TWlyLXpJWmZGbnFPby1PUm1GeVhUbFZwT0xjRk5Bclctc1pLSWVxVHhJZ1RBd3dYSTZ6MUgxN1RmZktvUk5rOVBjR1dpRC1rQk9jWHc5eG1leXQ1eXc5c2thYXFfVnRKYndRQVk1MEtEVC1TSnV5TjVERUJjQ2RnOGR6clpnWHc?oc=5"
+      "title": "美股崩盤將至？歷史揭「永不失敗」投資策略 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPVGNkNnJVdmNuS3c5TFJSLU50MXpnRmlXS0xFZ0hlbFVoVHd2djlNT0NYbm01NVV2NXl4V3RnRzdsNXAyR3FSRWdrTVVIYjlsTWZ1el9GTTFvdnBPUjR4RXZGY09YYVdldzNCazBmanBTcGJlUklScXltX2lheDNSdFlCdkktVE5YMm9OWjNPYWx6M1ZXSnhwdmNnV2c3VlBkVGQtX2dHWUV0Z3RTa0FrUTFrSHN2LXpfdU5WcFZJaVN3NmJ5eHREX0NQS0hHNVdyVVhreEdyZ0cxNmRsY1RUTW5iSHdJb2VDNzhXeW1oWWtXd0tLY0RQQ0hVVXU5bDZhWEpMSGhMUW9zdG5FLXBxem42OVFuRGZ3UElVSDA4cGZqdzA?oc=5"
     },
     {
-      "title": "《貴金屬》等待通膨數據 COMEX黃金上漲0.5% - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEtkUGFxMEplOEZaOE5BNmx6Znc4YWlXLVBNcDFHRGlaNzZwNGlyUlBnTHBNWXYxQjZ0OXdOY3BPcWlrRTVfT2ltWHdDNGYzdjZwU1F2V1NKR1JBdFlXeXROSllVRmxuNnVvNHpwYzZheUU5bU9Vb1hKWFkwb0xpTWhKRDhOVVpmU0EydHNVTUtDZw?oc=5"
+      "title": "資金重返黃金市場，中國央行連續21個月增持 - 日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbml5TWlyLXpJWmZGbnFPby1PUm1GeVhUbFZwT0xjRk5Bclctc1pLSWVxVHhJZ1RBd3dYSTZ6MUgxN1RmZktvUk5rOVBjR1dpRC1rQk9jWHc5eG1leXQ1eXc5c2thYXFfVnRKYndRQVk1MEtEVC1TSnV5TjVERUJjQ2RnOGR6clpnWHc?oc=5"
     },
     {
       "title": "美股收跌台股早盤震盪翻紅 台積電上漲5元 - cna.com.tw",
@@ -147,6 +143,10 @@
     {
       "title": "美股收盤》美伊僵持油價飆 美股震盪費半重挫 台積電ADR跌0.37％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ndm8xNlJDOVJqcjhHb2hWNnBscjk4OG1kcnRxR2ZzRkVYZWk2cE1kaTNrWUtFbVMtTV9kZmFNWHNjaGlBMWdiU0I1cUp6djhLcmV2eDFxNTdIbk4xQUhB?oc=5"
+    },
+    {
+      "title": "美股早盤／中東陷僵局「四大指數盡墨」 英特爾跌4%、晶片股挫| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5La21IcEJaZXNKbE9BZHI2RlJTR1JnLUJUQlBPMG5oUTRaNEFIOGUwY2F6OXliTlY0RDl3c0ZwWFhhOC1SU01QRHBQRVozSGx6?oc=5"
     }
   ]
 }
