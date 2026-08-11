@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/12 06:20",
+  "updated_tw": "08/12 07:11",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63651.45,
-      "change": -259.1359,
-      "changePercent": -0.4055
+      "price": 63527.11,
+      "change": -383.4759,
+      "changePercent": -0.6
     },
     "ETH": {
-      "price": 1881.6,
-      "change": 10.3213,
-      "changePercent": 0.5516
+      "price": 1878.2,
+      "change": 6.9213,
+      "changePercent": 0.3699
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.215,
-      "change": -0.0121,
-      "changePercent": -0.0375
+      "price": 32.209,
+      "change": -0.0181,
+      "changePercent": -0.0562
     },
     "JPYTWD": {
       "price": 0.2001,
@@ -94,22 +94,22 @@
       "changePercent": -1.1051
     },
     "EURTWD": {
-      "price": 37.23,
-      "change": 0.03,
-      "changePercent": 0.0807
+      "price": 37.226,
+      "change": 0.026,
+      "changePercent": 0.0699
     },
     "CNYTWD": {
-      "price": 4.7807,
+      "price": 4.7825,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4432.4,
-    "twd": 4591.0,
-    "tael": 172155.0,
-    "twdTotal": 142790.0,
-    "changePercent": 1.6186
+    "usd": 4427.1,
+    "twd": 4584.0,
+    "tael": 171917.0,
+    "twdTotal": 142592.0,
+    "changePercent": 1.4971
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,6 +121,10 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Nc2REZXd6UDZwMEtORFlGZU1XalV1ZjRPZTdtelV3bzVUM3poSEpkdVdpQTN6Y3lhdTBlcnRtekl0emhCSHAyMFZkcUo1VE0?oc=5"
     },
     {
+      "title": "美股收盤》科技股疲弱、中東陷僵局！道瓊跌184點 台積電ADR漲近1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBbVlzUUxPdE5WSVJUT1c5UmZvZi1PWDR3bFFEZnplbkVfRFRZTWVpXzZicEwyMnQ3THdKTmIxYlo2UzJmVEhPMVBma09sT3g2Qzh1Vi1jNk10Zm84MThr?oc=5"
+    },
+    {
       "title": "美股早盤／四大指數漲跌互見傳輝達研發AI開源模型股價揚| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PdFUtMW5CYXM2X3hYbjd3ZnJJbVRxX1pWRGVYa2NoUGhnSVU1YnN6aHlySDlnWTBwTnd1RFFBbU9vUHN5c1Vma3VvSWpzdnpB?oc=5"
     },
@@ -129,24 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRG4tNWF4eGI2dXVaRFFwc1VNS3dQVkNUVmY2TlhYTVNEUnAzNTVCZ1FqZUtvS3hleWxncEtkRWxscFE2ZUZUUHkyamlhVWdnZldXeFlYVnJlN1hvMklBbmgzSjhUem9lb3VuZ0czMmZ1d2J5aTVIQzYwRzZmQTdaV2dzbWswalhnb0NTMnZhdw?oc=5"
     },
     {
-      "title": "台股才反彈「美股AI天團倒一片」！專家警2大警訊喊：靠自己 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPaFV0Q1RoQV9YdW83bWJuREwzNzFHV0hvQmxDaWNXdm1yNUlqN2dralJyZ0lMZ3FrUlB4Qll0ZFRTaGF4QlFReThISURLdVJBM1FIY3gzalYyWmZXMGdnb3A4ZmZJYnJ4aTZrX1hpY184LW1QcS15YWx1TzNlNXlCUTdlOXFHQ015cjB2bkhac3VrWnFOakc4X3B6TjZKc0RRSGc3Q2gxOWlSVFZnZ0E1RXhSVFNWcHlBMmt3bGtuLUoyT2txTGRhcGt3VVBkSVZEaDdPcUYtSmRFb1ZWcWE0ak1FdW0wRGNIaDd3QVJRX3Y0ZlpMVUJzUmd2U2E5UXRkVmlIWnNHLTdWWFFIWFFaWWNCMU5HaDVyaDNFZ2tSdExFZzRqZEExVUVIbkxvNGxiaDZrbnlRZHdYNFR2dHBBemoyRE8wbWNubW9oUHE5TXhIR295V3BheGtSTWcxVXh6TVJoSEEwN0JkNHRtSXZKVkIwNExLeWNlU25lMDF6ZEJ1NklCTFlSa1BTOEM0Y2I1RE1ESUh6cw?oc=5"
+      "title": "開盤穩了？不懼美股3指數收跌 台指期夜盤逆勢上漲 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOZzV4bnp4V21Rc2pzM1NkbnB5Z1hZeDdiT04wSkpRNjF1Zk1sWHZEM29nYUg3V1hxYVFSYWlodmJfYXFHR1VsSmJiS3BGcFBnM3VielRRb1RuTFBXUXJNdy1qMmo5QURNN3pBbVI0OWktTzViZU9PWlNzRF9CLTcyN1lTcWZXbEcxLW1RS3pfRXJwS2RnVmR6a3QyRWlSMjVOSE9GcHBzekpLVV8tRmpGZ2gtczJrZUJCQmt3d2R0YVY1NVlRcWdOZWg4OGZQTUZfajE2SW5zUXRZdXg0VHdjVnlGbnE4azN6NFQ5TVQtME9USXRQbkctWjkzcVNOYTlzWGhrdlhpaksySmpOMjJ5aHpIMUIzNWU1QnQtN3FlVlcxWjFxdGZJSHNVdDVvQkhfd3pENXpkVWUzOEFBaVhRMUMyZV82V0psZ3RoYi0yTG1QVmFZTkFoUzhONA?oc=5"
     },
     {
-      "title": "黃金狂飆9週高點！機構罕見喊買「數月來最佳機會」曝光 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJUWhsaGxVcHkxTVJ5VUZCMl9RczdDSU54TjVhNnNycGpfS0dkNXNZV3FzN3FOQU1iWUxqeExXeE1QcVJvNU1KaDNXanJXQWhSZzMwc1F1bTJGbVItLWxv?oc=5"
+      "title": "【美股盤前0811】Fed升息機率破50%！美股多頭結構惡化了嗎? 週3公布CPI 市場怎麼看?｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNMlB4SjhnMFRMVWpXYjNHckhRY1hwZ2pHTERSVXpuWlBqZWhBaUR1SGpxcTZYYjV4Q1J6cjdIY2wtZWdfSmlHSEhhSjBWazk0YjRoZlpJbmpPdzlCMkRRN0lNaTRranJIWkMwLTlSeTVGM2NqNFpoX19tWHRleEZwM09hRzFYNzB2RnhSdmdGWlpqNDA4QVBsQWJNMjBua0w2YUY3ekZkU3BjYWpuc0w1T3JDcXlOZ0E2ZGp0ZnliQ181ZXp0SWxPQklGV1FwNFNFRXJCTnhtaTcxdExhNG9uZ041UmNDTS1sa0JEQmdYV2RCa183aHJFYnZzRURubUZjbG9FTFhxMC1vMTJpU2lQZS1SSERiTU5pUnlERFF0Nkh6U3VUNWFOTVBGdURJMlNCdXQ0WVhrRE9xVW9zcDZER1VKd1BIWlI1RzJLZHZxa1VwVzJLSFNTVlV3T3VrajFXUTBxSl82WDZVb1FaNDhwNDI5UUI?oc=5"
+    },
+    {
+      "title": "《貴金屬》等待通膨數據 COMEX黃金上漲0.5% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmVTNkJIQWlJNDh5TGg1VHVvTUcxbVUzNmJRTGpRcDBPbGlNVzlNNllhWXBGUkJIeHR3a2YxOHJ4NkxVSl9lOXNoZW5faWZ2aE1WSWF2R0hPdEsweDdzbm5IeS04dDhsMGFPY0hJSWYycDdHQ1RzekpraEYwRTVzT2ZoZ1BOeFp2LWx1bmZpdnNkdw?oc=5"
     },
     {
       "title": "快訊／美股開盤一片綠！道瓊跌逾60點 台積電ADR上漲0.71% - 三立新聞",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUaGZGUzlKUGNCWWNRSnJsVW5sYnFtTDk4YjJBTnYzSkRQendhS082Ym1Fb2lvejhDVk1hVVgzTGdyeXJRRXJJVDB2Zw?oc=5"
-    },
-    {
-      "title": "【 0811台股盤後】台股開低走高小漲192 點站上45,120 點！MLCC、消費用電池、銅箔基板三強攻頂，「投本比」策略:順達、富世達、華星光｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPS09sMHM0QUlGQko0NVZmdDZOUUpyWVVMRng0cXpEcC13TDg4LUM2RW9ERUdEdWtFd0Q4aGlnaF93T3A0VV9ickwwallGbVNJNzhkSGZuVlloRE1icnd6OGNHQ2pxemJKUnNjVmFCMGpIVVhrVTdNZkF3amd1M3UzNHpyeGE0LVptdkRaal9qMDdQVDRId3ZkOTNXNDNJWTBrNGljLTZnNkZNazRKeThZS3RXT2QxVmo1eFZSNm5vX2NMa0RoZWJaMlFXYTFUM1pCNEVrVnJNcG92UndxdjBWaEV5TDVMS3o3aVVVaTh2OVAtZDlyaEFXeGl0NUdCNm5vR1lDX29Sd1hhYUxpX0lfdjBZQko4SmVmbVkycnFObWJoaEtpNy05UEhMNkRtbl9ncEt6b3dIVFhHRm8tckw2VDd5YllUdVBaSTZvSTNVNl9UdWxZQl9LeEdaSkMtZ0ZVTE9FWDFvZ1k5cEo3NmNrZW15RzBZQTRFT1Z2aFFoZ0RneHFiQkgtSFVva0Rxc1FBU2dxUjY0NUhHV2dKQzl6WGNiUzdBcHo2bEkzZmlHeWstd1VUVDR4UE5zMWlkeTYxWkxIX0JveS1lNWc1c3A2V3kzSVB4TzliMHphZ00xUUhfVFpLbHhVRHRlVjFWU2Jlb2VIQkFScW51WDFKNnhHdzR0STczVERoQW40UmdZRWdLZVktbzVUT01UQkFyLWdPUHBKRVhRQzhZVkNlRmhsWnVqcUFKRFBZRWhrbUNJaVVaRUVXVjNuXzJYUEhMOXYxOUpQUG9HYnFwc3BHSWpFQWRTalpJTnZZT05wYms4M0ZHWTlTcG51MG1lR2NMb1NzN2hjSU1kZ0h2bFhkd3NYT19Rc3ExbUZDVzJuOGk0RQ?oc=5"
-    },
-    {
-      "title": "《強勢美股特報》AA,PBF,HOG,TLN等10檔 - 台視全球資訊網",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ2RHVXBhTEpfc3lHUVh5bmNHTHE3d0kxd2RDVG1ZZHpZN3ZFRW5Id01LMGZVSlEtZmV6aUVxSHdBQ1dVQ0lqVFkzckpRVHhZNlBRWGF2ZnA0eEQ2Y3I3Q2QwLXZ2V1ZVd3U5ZTVLQmRLRWlDdkw5Tll6X2RpT21TT25hdjFGT3ZrcHNTZ2w3b3BZZw?oc=5"
     }
   ]
 }
