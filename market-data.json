@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/12 05:28",
+  "updated_tw": "08/12 06:20",
   "taiwan": {
     "2330": {
       "price": 2395.0,
-      "change": 25.0,
-      "changePercent": 1.0549
+      "change": 15.0,
+      "changePercent": 0.6303
     },
     "2454": {
       "price": 4020.0,
-      "change": 120.0,
-      "changePercent": 3.0769
+      "change": 60.0,
+      "changePercent": 1.5152
     },
     "2317": {
       "price": 263.0,
-      "change": 3.0,
-      "changePercent": 1.1538
+      "change": -1.5,
+      "changePercent": -0.5671
     },
     "0050": {
       "price": 104.6,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63611.76,
-      "change": -298.8259,
-      "changePercent": -0.4676
+      "price": 63651.45,
+      "change": -259.1359,
+      "changePercent": -0.4055
     },
     "ETH": {
-      "price": 1879.96,
-      "change": 8.6813,
-      "changePercent": 0.4639
+      "price": 1881.6,
+      "change": 10.3213,
+      "changePercent": 0.5516
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.226,
-      "change": -0.0011,
-      "changePercent": -0.0034
+      "price": 32.215,
+      "change": -0.0121,
+      "changePercent": -0.0375
     },
     "JPYTWD": {
       "price": 0.2001,
@@ -94,22 +94,22 @@
       "changePercent": -1.1051
     },
     "EURTWD": {
-      "price": 37.232,
-      "change": 0.032,
-      "changePercent": 0.086
+      "price": 37.23,
+      "change": 0.03,
+      "changePercent": 0.0807
     },
     "CNYTWD": {
-      "price": 4.7852,
+      "price": 4.7807,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4427.8,
-    "twd": 4588.0,
-    "tael": 172035.0,
-    "twdTotal": 142690.0,
-    "changePercent": 1.5131
+    "usd": 4432.4,
+    "twd": 4591.0,
+    "tael": 172155.0,
+    "twdTotal": 142790.0,
+    "changePercent": 1.6186
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "美股早盤／四大指數漲跌互見傳輝達研發AI開源模型股價揚| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PdFUtMW5CYXM2X3hYbjd3ZnJJbVRxX1pWRGVYa2NoUGhnSVU1YnN6aHlySDlnWTBwTnd1RFFBbU9vUHN5c1Vma3VvSWpzdnpB?oc=5"
+      "title": "〈美股盤後〉美伊協議未見進展 三大指數盡墨 記憶體族群逆勢走強 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Nc2REZXd6UDZwMEtORFlGZU1XalV1ZjRPZTdtelV3bzVUM3poSEpkdVdpQTN6Y3lhdTBlcnRtekl0emhCSHAyMFZkcUo1VE0?oc=5"
     },
     {
-      "title": "〈美股盤後〉川普要求伊朗賠償 油價飆 英特爾領跌晶片股 費半重挫近3% | 鉅亨網 - 美股雷達 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSSzlUc2hCWElGVnRhVzlLcm8zYWlOWTFTamJpVXlsSFRCX3FOai1XSGI1UWUzMU43QnBKZXNEUE5RSXBGT2xEYlhSeVFHamM?oc=5"
+      "title": "美股早盤／四大指數漲跌互見傳輝達研發AI開源模型股價揚| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PdFUtMW5CYXM2X3hYbjd3ZnJJbVRxX1pWRGVYa2NoUGhnSVU1YnN6aHlySDlnWTBwTnd1RFFBbU9vUHN5c1Vma3VvSWpzdnpB?oc=5"
     },
     {
       "title": "黃金衝破4400美元后急剎車，機構喊話：短期噪音不改牛市根基 - capitalfutures.com.tw",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPS09sMHM0QUlGQko0NVZmdDZOUUpyWVVMRng0cXpEcC13TDg4LUM2RW9ERUdEdWtFd0Q4aGlnaF93T3A0VV9ickwwallGbVNJNzhkSGZuVlloRE1icnd6OGNHQ2pxemJKUnNjVmFCMGpIVVhrVTdNZkF3amd1M3UzNHpyeGE0LVptdkRaal9qMDdQVDRId3ZkOTNXNDNJWTBrNGljLTZnNkZNazRKeThZS3RXT2QxVmo1eFZSNm5vX2NMa0RoZWJaMlFXYTFUM1pCNEVrVnJNcG92UndxdjBWaEV5TDVMS3o3aVVVaTh2OVAtZDlyaEFXeGl0NUdCNm5vR1lDX29Sd1hhYUxpX0lfdjBZQko4SmVmbVkycnFObWJoaEtpNy05UEhMNkRtbl9ncEt6b3dIVFhHRm8tckw2VDd5YllUdVBaSTZvSTNVNl9UdWxZQl9LeEdaSkMtZ0ZVTE9FWDFvZ1k5cEo3NmNrZW15RzBZQTRFT1Z2aFFoZ0RneHFiQkgtSFVva0Rxc1FBU2dxUjY0NUhHV2dKQzl6WGNiUzdBcHo2bEkzZmlHeWstd1VUVDR4UE5zMWlkeTYxWkxIX0JveS1lNWc1c3A2V3kzSVB4TzliMHphZ00xUUhfVFpLbHhVRHRlVjFWU2Jlb2VIQkFScW51WDFKNnhHdzR0STczVERoQW40UmdZRWdLZVktbzVUT01UQkFyLWdPUHBKRVhRQzhZVkNlRmhsWnVqcUFKRFBZRWhrbUNJaVVaRUVXVjNuXzJYUEhMOXYxOUpQUG9HYnFwc3BHSWpFQWRTalpJTnZZT05wYms4M0ZHWTlTcG51MG1lR2NMb1NzN2hjSU1kZ0h2bFhkd3NYT19Rc3ExbUZDVzJuOGk0RQ?oc=5"
     },
     {
-      "title": "資金重返黃金市場，中國央行連續21個月增持 - 日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbml5TWlyLXpJWmZGbnFPby1PUm1GeVhUbFZwT0xjRk5Bclctc1pLSWVxVHhJZ1RBd3dYSTZ6MUgxN1RmZktvUk5rOVBjR1dpRC1rQk9jWHc5eG1leXQ1eXc5c2thYXFfVnRKYndRQVk1MEtEVC1TSnV5TjVERUJjQ2RnOGR6clpnWHc?oc=5"
+      "title": "《強勢美股特報》AA,PBF,HOG,TLN等10檔 - 台視全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ2RHVXBhTEpfc3lHUVh5bmNHTHE3d0kxd2RDVG1ZZHpZN3ZFRW5Id01LMGZVSlEtZmV6aUVxSHdBQ1dVQ0lqVFkzckpRVHhZNlBRWGF2ZnA0eEQ2Y3I3Q2QwLXZ2V1ZVd3U5ZTVLQmRLRWlDdkw5Tll6X2RpT21TT25hdjFGT3ZrcHNTZ2w3b3BZZw?oc=5"
     }
   ]
 }
