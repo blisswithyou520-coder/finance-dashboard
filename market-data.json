@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/11 14:35",
+  "updated_tw": "08/11 15:54",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63846.78,
-      "change": -998.1067,
-      "changePercent": -1.5392
+      "price": 63999.05,
+      "change": 88.4641,
+      "changePercent": 0.1384
     },
     "ETH": {
-      "price": 1870.8,
-      "change": -37.8827,
-      "changePercent": -1.9848
+      "price": 1875.0,
+      "change": 3.7213,
+      "changePercent": 0.1989
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.233,
-      "change": -0.0021,
-      "changePercent": -0.0065
+      "price": 32.269,
+      "change": 0.0339,
+      "changePercent": 0.1052
     },
     "JPYTWD": {
       "price": 0.2003,
@@ -94,22 +94,22 @@
       "changePercent": -1.9185
     },
     "EURTWD": {
-      "price": 37.226,
-      "change": -0.0292,
-      "changePercent": -0.0785
+      "price": 37.258,
+      "change": 0.0028,
+      "changePercent": 0.0074
     },
     "CNYTWD": {
-      "price": 4.7858,
+      "price": 4.7895,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4430.8,
-    "twd": 4592.0,
-    "tael": 172189.0,
-    "twdTotal": 142818.0,
-    "changePercent": 1.5819
+    "usd": 4417.2,
+    "twd": 4583.0,
+    "tael": 171852.0,
+    "twdTotal": 142539.0,
+    "changePercent": 1.2701
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,8 +117,16 @@
   },
   "news": [
     {
-      "title": "黃金狂飆9週高點！機構罕見喊買「數月來最佳機會」曝光 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJUWhsaGxVcHkxTVJ5VUZCMl9RczdDSU54TjVhNnNycGpfS0dkNXNZV3FzN3FOQU1iWUxqeExXeE1QcVJvNU1KaDNXanJXQWhSZzMwc1F1bTJGbVItLWxv?oc=5"
+      "title": "美股收盤》美伊僵持油價飆 美股震盪費半重挫 台積電ADR跌0.37％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ndm8xNlJDOVJqcjhHb2hWNnBscjk4OG1kcnRxR2ZzRkVYZWk2cE1kaTNrWUtFbVMtTV9kZmFNWHNjaGlBMWdiU0I1cUp6djhLcmV2eDFxNTdIbk4xQUhB?oc=5"
+    },
+    {
+      "title": "美股收盤／三大指數小跌費半重挫近3% 英特爾等晶片股籌資消息掀賣壓| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nR2JnbjNvbHRBdHNQU0JzNTJWaE5qdmxjN2lzX3hocjdOaklXUi1PdlQ4Z3Z4d2xKdFZhOXBHakI5U2xic0pxczFxYnhicG9H?oc=5"
+    },
+    {
+      "title": "黃金又要噴了？金價衝9週新高 華爾街巨頭罕見轉多：機會來了 - 財訊",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81MnlhcE1RNzRLWVZMNDlwZmNVNUZSd1l5UUc2TWh2NkpmWlVUellHSFdEbVFlMkJQWTd1ZGRQWXNNeW9HazhiTzBoSDZsVTM1SzJhZlphMjRWNlNLZzF3bm1wT1VMcHdHNEhEY2xmU2I1NlZvM0JTVnk5UQ?oc=5"
     },
     {
       "title": "美股崩盤將至？歷史揭「永不失敗」投資策略 - Yahoo新聞",
@@ -129,24 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSSzlUc2hCWElGVnRhVzlLcm8zYWlOWTFTamJpVXlsSFRCX3FOai1XSGI1UWUzMU43QnBKZXNEUE5RSXBGT2xEYlhSeVFHamM?oc=5"
     },
     {
-      "title": "美股早盤／中東陷僵局「四大指數盡墨」 英特爾跌4%、晶片股挫| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5La21IcEJaZXNKbE9BZHI2RlJTR1JnLUJUQlBPMG5oUTRaNEFIOGUwY2F6OXliTlY0RDl3c0ZwWFhhOC1SU01QRHBQRVozSGx6?oc=5"
+      "title": "市場情緒轉向！貝萊德：比特幣、美股「脫鉤」是健康現象 - blockcast.it",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU1ZBaVYxVUk2WXFlMWQza08zQkZOODZWNEV6MTNUemJhSUk5dE1FNXF2TU5UU2RBMjh1RldOeHgtczFuQmVjSGRkTFd1RmVaeWxkd2o4TjJTNmFTNGp4SFRpazR6UGpCSEJUZTY4SEFkdE03eUdEVXpVbWZGZklsb3lTc2M4eEVOZ0tzNlNCZGluSUoxc0ZaanVnTnpfbXhycGNadg?oc=5"
+    },
+    {
+      "title": "美股V型反轉背後，看漲期權瘋狂湧入！盈利擴散正在接管市場主線 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTXlWX1pZc2VwZkg1OTdDSXU0UFU0ZWVJZ0VwTGV1dndxcWNRUXkzVjRubVVLRllGbVp1U1hzSEtLdTBYUUxCOXNlbkJwZWZ3aDhwRUtZQTJUZnlXTTJWaVlXbmYyUnlkeUFvN29aV0ZSYlVTSzRERkFCcHIwTlJmRGJvbDF1elFkVVd2MzZiTVU1ZTlNQVV0aVFmYUQ5Rlls?oc=5"
     },
     {
       "title": "資金重返黃金市場，中國央行連續21個月增持 - 日經中文網",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbml5TWlyLXpJWmZGbnFPby1PUm1GeVhUbFZwT0xjRk5Bclctc1pLSWVxVHhJZ1RBd3dYSTZ6MUgxN1RmZktvUk5rOVBjR1dpRC1rQk9jWHc5eG1leXQ1eXc5c2thYXFfVnRKYndRQVk1MEtEVC1TSnV5TjVERUJjQ2RnOGR6clpnWHc?oc=5"
-    },
-    {
-      "title": "台股震盪逾500點收漲191點多檔被動元件攻漲停| 證券 - cna.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82TDRqNkFSVEZQdk0xdmU3eHB3UGVOMGdJOE95NE1sQ0lJc2xzREF3X1FlR2VrUEZxUEJRTkE3bEw1VXdCM3pPRFItYVJvZmVYNkgxdGp3RDJJY3I4LWc?oc=5"
-    },
-    {
-      "title": "美股收盤》美伊僵持油價飆 美股震盪費半重挫 台積電ADR跌0.37％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ndm8xNlJDOVJqcjhHb2hWNnBscjk4OG1kcnRxR2ZzRkVYZWk2cE1kaTNrWUtFbVMtTV9kZmFNWHNjaGlBMWdiU0I1cUp6djhLcmV2eDFxNTdIbk4xQUhB?oc=5"
-    },
-    {
-      "title": "美股真的屌打台股？含息報酬沒天差地遠…矽谷工程師：最大風險是台積電就占42％ - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vNXUtUEloelpjdl9SUE93ZzdkUUp6ZW5Db2xvQllxMmRtSkMzV3IzWERYeTZvMHVfTDNHUE1BSTdJeU54Q1FrTS1lWHJfWERvS3c?oc=5"
     }
   ]
 }
