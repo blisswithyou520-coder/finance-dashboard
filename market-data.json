@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/11 07:33",
+  "updated_tw": "08/11 08:32",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63904.71,
-      "change": -940.1767,
-      "changePercent": -1.4499
+      "price": 63925.0,
+      "change": -919.8867,
+      "changePercent": -1.4186
     },
     "ETH": {
-      "price": 1870.73,
-      "change": -37.9527,
-      "changePercent": -1.9884
+      "price": 1873.02,
+      "change": -35.6627,
+      "changePercent": -1.8684
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.226,
-      "change": -0.0091,
-      "changePercent": -0.0282
+      "price": 32.221,
+      "change": -0.0141,
+      "changePercent": -0.0437
     },
     "JPYTWD": {
       "price": 0.2002,
@@ -94,22 +94,22 @@
       "changePercent": -1.9675
     },
     "EURTWD": {
-      "price": 37.245,
-      "change": -0.0102,
-      "changePercent": -0.0275
+      "price": 37.255,
+      "change": -0.0002,
+      "changePercent": -0.0007
     },
     "CNYTWD": {
-      "price": 4.785,
+      "price": 4.7796,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4454.5,
-    "twd": 4615.0,
-    "tael": 173072.0,
-    "twdTotal": 143551.0,
-    "changePercent": 2.6217
+    "usd": 4468.8,
+    "twd": 4629.0,
+    "tael": 173601.0,
+    "twdTotal": 143989.0,
+    "changePercent": 2.9511
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "美股崩盤將至？歷史揭「永不失敗」投資策略 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPVGNkNnJVdmNuS3c5TFJSLU50MXpnRmlXS0xFZ0hlbFVoVHd2djlNT0NYbm01NVV2NXl4V3RnRzdsNXAyR3FSRWdrTVVIYjlsTWZ1el9GTTFvdnBPUjR4RXZGY09YYVdldzNCazBmanBTcGJlUklScXltX2lheDNSdFlCdkktVE5YMm9OWjNPYWx6M1ZXSnhwdmNnV2c3VlBkVGQtX2dHWUV0Z3RTa0FrUTFrSHN2LXpfdU5WcFZJaVN3NmJ5eHREX0NQS0hHNVdyVVhreEdyZ0cxNmRsY1RUTW5iSHdJb2VDNzhXeW1oWWtXd0tLY0RQQ0hVVXU5bDZhWEpMSGhMUW9zdG5FLXBxem42OVFuRGZ3UElVSDA4cGZqdzA?oc=5"
+      "title": "美股收盤／三大指數小跌費半重挫近3% 英特爾等晶片股籌資消息掀賣壓| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nR2JnbjNvbHRBdHNQU0JzNTJWaE5qdmxjN2lzX3hocjdOaklXUi1PdlQ4Z3Z4d2xKdFZhOXBHakI5U2xic0pxczFxYnhicG9H?oc=5"
     },
     {
-      "title": "荷莫茲海峽重開協議陷不確定性美股收跌| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LVDdkVWdRazUxcDJFTlhfZFlkSHh2cnByN2I4aG5LXy1kUmZqMEVQSVdDQzhvaG5OdkRfX0JBbHM5UTYwblJhVXd3ZUY4Ukds?oc=5"
+      "title": "美股崩盤將至？歷史揭「永不失敗」投資策略 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPVGNkNnJVdmNuS3c5TFJSLU50MXpnRmlXS0xFZ0hlbFVoVHd2djlNT0NYbm01NVV2NXl4V3RnRzdsNXAyR3FSRWdrTVVIYjlsTWZ1el9GTTFvdnBPUjR4RXZGY09YYVdldzNCazBmanBTcGJlUklScXltX2lheDNSdFlCdkktVE5YMm9OWjNPYWx6M1ZXSnhwdmNnV2c3VlBkVGQtX2dHWUV0Z3RTa0FrUTFrSHN2LXpfdU5WcFZJaVN3NmJ5eHREX0NQS0hHNVdyVVhreEdyZ0cxNmRsY1RUTW5iSHdJb2VDNzhXeW1oWWtXd0tLY0RQQ0hVVXU5bDZhWEpMSGhMUW9zdG5FLXBxem42OVFuRGZ3UElVSDA4cGZqdzA?oc=5"
     },
     {
       "title": "美股收盤》美伊僵持油價飆 美股震盪費半重挫 台積電ADR跌0.37％ - 自由財經",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSSzlUc2hCWElGVnRhVzlLcm8zYWlOWTFTamJpVXlsSFRCX3FOai1XSGI1UWUzMU43QnBKZXNEUE5RSXBGT2xEYlhSeVFHamM?oc=5"
     },
     {
-      "title": "美股早盤／中東陷僵局「四大指數盡墨」 英特爾跌4%、晶片股挫| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5La21IcEJaZXNKbE9BZHI2RlJTR1JnLUJUQlBPMG5oUTRaNEFIOGUwY2F6OXliTlY0RDl3c0ZwWFhhOC1SU01QRHBQRVozSGx6?oc=5"
+      "title": "《貴金屬》等待通膨數據 COMEX黃金上漲0.5% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEtkUGFxMEplOEZaOE5BNmx6Znc4YWlXLVBNcDFHRGlaNzZwNGlyUlBnTHBNWXYxQjZ0OXdOY3BPcWlrRTVfT2ltWHdDNGYzdjZwU1F2V1NKR1JBdFlXeXROSllVRmxuNnVvNHpwYzZheUU5bU9Vb1hKWFkwb0xpTWhKRDhOVVpmU0EydHNVTUtDZw?oc=5"
     },
     {
-      "title": "快訊／美CPI公布前夕「Fed升息疑慮再起」 美股四指跌多漲少 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNeS1mMjEzSGR3Tnp1OVJPUGYybi1hTklxOXpFRFExSE1TUFNjM29kNW9KbVhKNWdEdWttYkkxZmZCN0F1Q1AwNUQzUldrYU1NRUptZzVsa3ViQkF2dVJWdnFDUmQ1czNDczk4RVNrekMwdFE5Ulh6NURzb0lsM01yV0JabFZOYnZWWlBFZ25reUhYMjNMZEpjWDg2YkREaEdOSjRDTDFhMVQxMFhkbnJ6a2x3QWhLT1dfdWhXeVFUUmJKTTMtTmZzWFI2U3NPcThWZXNCVUtJaWFKV1lzTTNmOC01Yk1yVzhZYTNRZUFaSWJ2cENsR1c0dVdDVDZIZU85ckNCMmVNS2dUNDloUUFzb0JHTXJJZl92amhhY3FyT3Yyd1VWTG02X21VUDl3SjBQR1U0dmNKY3kzek1Tb015MEEzV1BNNW1WSnhBVWZSREQ4bXJTSlJ6VktqTQ?oc=5"
+      "title": "荷莫茲海峽重開協議陷不確定性美股收跌| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LVDdkVWdRazUxcDJFTlhfZFlkSHh2cnByN2I4aG5LXy1kUmZqMEVQSVdDQzhvaG5OdkRfX0JBbHM5UTYwblJhVXd3ZUY4Ukds?oc=5"
+    },
+    {
+      "title": "美股轉弱引發避險情緒 那斯達克挫跌0.44% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQMzlMSjNzcFQyT2NyN2FCY3Y5OUV6Ujk4THRKR21nRnFuaGx2b2J1TGd3UTE4Vm5RVi1BSW1jT1I3SEFYQXJ6OVkwQ2tuV1M0WWhCMmNfbXFIZUFYNGNnTWJESGxfMW5RSGtKcHh1ZDZabnlHa1VVUDBZUE14djR2dDdUTHhVNERZTXhKcXEtUjJfZXBEZHo0SjlsRmxIR0NXLW9tNl9GeC1NeXB1SjQwdUJPSzg4ZEpyUjd5Ulluak54SmdyVTVpMjl1cTRWbHZMYlhJQmR6aDNvX2hDaW04VzJQR1ljdzV1Vmo5MnNkX1hmQzdxcmR4VS0zNG8zXzFkci1qOVkyZ3QtWGx1TmVpeGcyVGZYZG5QMHVIYjdnd3VtUQ?oc=5"
     },
     {
       "title": "〈美股早盤〉荷姆茲僵局推升油價與美債殖利率 主要指數平盤震盪 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2akRkT2lRaTBHQXpSN0N5LXpoclhFSlVxcFNqN25CdFI3RXpvenpfMVdNSEw5em5IZnpBUVFCY1VDT1dMNGliZlFNemQ4aVk?oc=5"
-    },
-    {
-      "title": "台股盤前／油價狂飆5%費半重挫！台指夜盤跌271點 台股4萬5攻堅恐受阻 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOSEE1SGZTaTE5Q3BVaUdCczVZZ1ZIdTNtZlFZYnM4blh2Zm9tLTlYU3dqTVVhR1VIOTF1ZHZ0WHNjR19TdE80OVVYYUl6UDJZX29Rc0VqQWRnRmkxQ18tUzdaZGlCZWwwX3FCU0FNcEFzc2Q5YkplMEJYcFFGUlJrQ3lJVm02WXFwdF9TLXR5TTRlUW9SX2l2bVk0NTJJN1Zpc2lsLUE1cDdiV1VSV004aHBwazVra0E3MG55TWdMelRoUUd0dXM3N09nRFhrVnJnYVJrbk96cnoxS1NBd0ZZam5XYkNKaFQ3UEZsajVlWmwxdVp1VWlSQTRIVUJQRW00OUZqb01HVzZQbzk2WHVybU5aZVF5TGtaaGd3X2dwM3RJakRVZEJ6SzMzUXVOeDA5T21ieTBEMHRHN1V2N2U2dUx1djh6WGtmb2ZZZng0SFljVkFobGdDSTI0ME1uQmNTdmhJT2Y3Z1BhaXE1RXgyczBsN2p1QW5YdkYzT2hNck9VMHNFVUc3Z0lUeHB2M2hEbVJPVURwS3k?oc=5"
     }
   ]
 }
