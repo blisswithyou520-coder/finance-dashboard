@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/12 01:40",
+  "updated_tw": "08/12 02:36",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 217.175,
-      "change": -0.375,
-      "changePercent": -0.1724
+      "price": 216.726,
+      "change": -0.824,
+      "changePercent": -0.3788
     },
     "AAPL": {
-      "price": 306.33,
-      "change": -1.93,
-      "changePercent": -0.6261
+      "price": 303.695,
+      "change": -4.565,
+      "changePercent": -1.4809
     },
     "TSLA": {
-      "price": 331.63,
-      "change": 0.75,
-      "changePercent": 0.2267
+      "price": 331.285,
+      "change": 0.405,
+      "changePercent": 0.1224
     },
     "QQQ": {
-      "price": 717.755,
-      "change": -3.115,
-      "changePercent": -0.4321
+      "price": 716.835,
+      "change": -4.035,
+      "changePercent": -0.5597
     },
     "SPY": {
-      "price": 770.88,
-      "change": -2.15,
-      "changePercent": -0.2781
+      "price": 770.13,
+      "change": -2.9,
+      "changePercent": -0.3752
     },
     "SCHD": {
-      "price": 34.245,
-      "change": 0.055,
-      "changePercent": 0.1609
+      "price": 34.28,
+      "change": 0.09,
+      "changePercent": 0.2632
     },
     "VOO": {
-      "price": 708.585,
-      "change": -2.065,
-      "changePercent": -0.2906
+      "price": 707.92,
+      "change": -2.73,
+      "changePercent": -0.3842
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63463.18,
-      "change": -447.4059,
-      "changePercent": -0.7
+      "price": 63345.06,
+      "change": -565.5259,
+      "changePercent": -0.8849
     },
     "ETH": {
-      "price": 1861.6,
-      "change": -9.6787,
-      "changePercent": -0.5172
+      "price": 1863.59,
+      "change": -7.6887,
+      "changePercent": -0.4109
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.226,
-      "change": -0.0091,
-      "changePercent": -0.0282
+      "price": 32.231,
+      "change": -0.0041,
+      "changePercent": -0.0127
     },
     "JPYTWD": {
       "price": 0.2001,
@@ -94,22 +94,22 @@
       "changePercent": -2.0165
     },
     "EURTWD": {
-      "price": 37.225,
-      "change": -0.0302,
-      "changePercent": -0.0812
+      "price": 37.234,
+      "change": -0.0212,
+      "changePercent": -0.057
     },
     "CNYTWD": {
-      "price": 4.7838,
+      "price": 4.7848,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4440.0,
-    "twd": 4600.0,
-    "tael": 172509.0,
-    "twdTotal": 143083.0,
-    "changePercent": 1.7928
+    "usd": 4423.9,
+    "twd": 4584.0,
+    "tael": 171910.0,
+    "twdTotal": 142587.0,
+    "changePercent": 1.4237
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,15 +121,11 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PdFUtMW5CYXM2X3hYbjd3ZnJJbVRxX1pWRGVYa2NoUGhnSVU1YnN6aHlySDlnWTBwTnd1RFFBbU9vUHN5c1Vma3VvSWpzdnpB?oc=5"
     },
     {
-      "title": "〈美股早盤〉美伊和平露曙光 主要指數漲跌互現、美債殖利率下滑 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnSTBfT2RjN2R3Sy1YR2trelhpdTVoSS1GaGJMbGZ3X1JTS0ppQUZtY1VCTzNlOUNZRF96Q2VPdTNaemlBd0hnakZWS25UWTA?oc=5"
-    },
-    {
       "title": "黃金衝破4400美元后急剎車，機構喊話：短期噪音不改牛市根基 - capitalfutures.com.tw",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRG4tNWF4eGI2dXVaRFFwc1VNS3dQVkNUVmY2TlhYTVNEUnAzNTVCZ1FqZUtvS3hleWxncEtkRWxscFE2ZUZUUHkyamlhVWdnZldXeFlYVnJlN1hvMklBbmgzSjhUem9lb3VuZ0czMmZ1d2J5aTVIQzYwRzZmQTdaV2dzbWswalhnb0NTMnZhdw?oc=5"
     },
     {
-      "title": "黃金狂飆9週高點！機構罕見喊買「數月來最佳機會」曝光 - ec.ltn.com.tw",
+      "title": "黃金狂飆9週高點！機構罕見喊買「數月來最佳機會」曝光 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJUWhsaGxVcHkxTVJ5VUZCMl9RczdDSU54TjVhNnNycGpfS0dkNXNZV3FzN3FOQU1iWUxqeExXeE1QcVJvNU1KaDNXanJXQWhSZzMwc1F1bTJGbVItLWxv?oc=5"
     },
     {
@@ -145,8 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPS09sMHM0QUlGQko0NVZmdDZOUUpyWVVMRng0cXpEcC13TDg4LUM2RW9ERUdEdWtFd0Q4aGlnaF93T3A0VV9ickwwallGbVNJNzhkSGZuVlloRE1icnd6OGNHQ2pxemJKUnNjVmFCMGpIVVhrVTdNZkF3amd1M3UzNHpyeGE0LVptdkRaal9qMDdQVDRId3ZkOTNXNDNJWTBrNGljLTZnNkZNazRKeThZS3RXT2QxVmo1eFZSNm5vX2NMa0RoZWJaMlFXYTFUM1pCNEVrVnJNcG92UndxdjBWaEV5TDVMS3o3aVVVaTh2OVAtZDlyaEFXeGl0NUdCNm5vR1lDX29Sd1hhYUxpX0lfdjBZQko4SmVmbVkycnFObWJoaEtpNy05UEhMNkRtbl9ncEt6b3dIVFhHRm8tckw2VDd5YllUdVBaSTZvSTNVNl9UdWxZQl9LeEdaSkMtZ0ZVTE9FWDFvZ1k5cEo3NmNrZW15RzBZQTRFT1Z2aFFoZ0RneHFiQkgtSFVva0Rxc1FBU2dxUjY0NUhHV2dKQzl6WGNiUzdBcHo2bEkzZmlHeWstd1VUVDR4UE5zMWlkeTYxWkxIX0JveS1lNWc1c3A2V3kzSVB4TzliMHphZ00xUUhfVFpLbHhVRHRlVjFWU2Jlb2VIQkFScW51WDFKNnhHdzR0STczVERoQW40UmdZRWdLZVktbzVUT01UQkFyLWdPUHBKRVhRQzhZVkNlRmhsWnVqcUFKRFBZRWhrbUNJaVVaRUVXVjNuXzJYUEhMOXYxOUpQUG9HYnFwc3BHSWpFQWRTalpJTnZZT05wYms4M0ZHWTlTcG51MG1lR2NMb1NzN2hjSU1kZ0h2bFhkd3NYT19Rc3ExbUZDVzJuOGk0RQ?oc=5"
     },
     {
-      "title": "市場情緒轉向！貝萊德：比特幣、美股「脫鉤」是健康現象 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU1ZBaVYxVUk2WXFlMWQza08zQkZOODZWNEV6MTNUemJhSUk5dE1FNXF2TU5UU2RBMjh1RldOeHgtczFuQmVjSGRkTFd1RmVaeWxkd2o4TjJTNmFTNGp4SFRpazR6UGpCSEJUZTY4SEFkdE03eUdEVXpVbWZGZklsb3lTc2M4eEVOZ0tzNlNCZGluSUoxc0ZaanVnTnpfbXhycGNadg?oc=5"
+      "title": "資金重返黃金市場，中國央行連續21個月增持 - 日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbml5TWlyLXpJWmZGbnFPby1PUm1GeVhUbFZwT0xjRk5Bclctc1pLSWVxVHhJZ1RBd3dYSTZ6MUgxN1RmZktvUk5rOVBjR1dpRC1rQk9jWHc5eG1leXQ1eXc5c2thYXFfVnRKYndRQVk1MEtEVC1TSnV5TjVERUJjQ2RnOGR6clpnWHc?oc=5"
+    },
+    {
+      "title": "美伊傳和平協議曙光！美股盤前走高 科技與個股成焦點 - finance.ftvnews.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rYTZicHI5VlIwVDV1NXgzMmRiYXppbjNJRm02Z1Z0MGE3SjQ1TWU2RjhlYzZzSkJNNTUxaDFXNUUwXzF2MnNYUFdYQVVxSkNaX18wSkxQU2NjQnNKbjh0TWVqRGluQQ?oc=5"
     }
   ]
 }
