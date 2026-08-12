@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/13 03:47",
+  "updated_tw": "08/13 04:41",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 222.65,
-      "change": 5.15,
-      "changePercent": 2.3678
+      "price": 224.09,
+      "change": 6.59,
+      "changePercent": 3.0299
     },
     "AAPL": {
-      "price": 301.27,
-      "change": -3.64,
-      "changePercent": -1.1938
+      "price": 302.25,
+      "change": -2.66,
+      "changePercent": -0.8724
     },
     "TSLA": {
-      "price": 327.41,
-      "change": -5.4,
-      "changePercent": -1.6225
+      "price": 327.51,
+      "change": -5.3,
+      "changePercent": -1.5925
     },
     "QQQ": {
-      "price": 723.74,
-      "change": 5.29,
-      "changePercent": 0.7363
+      "price": 723.7,
+      "change": 5.25,
+      "changePercent": 0.7307
     },
     "SPY": {
-      "price": 772.86,
-      "change": 2.3,
-      "changePercent": 0.2985
+      "price": 772.49,
+      "change": 1.93,
+      "changePercent": 0.2505
     },
     "SCHD": {
-      "price": 34.275,
-      "change": 0.005,
-      "changePercent": 0.0146
+      "price": 34.26,
+      "change": -0.01,
+      "changePercent": -0.0292
     },
     "VOO": {
-      "price": 710.41,
-      "change": 1.99,
-      "changePercent": 0.2809
+      "price": 710.17,
+      "change": 1.75,
+      "changePercent": 0.247
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63277.98,
-      "change": -273.895,
-      "changePercent": -0.431
+      "price": 63497.09,
+      "change": -54.785,
+      "changePercent": -0.0862
     },
     "ETH": {
-      "price": 1878.35,
-      "change": -3.0235,
-      "changePercent": -0.1607
+      "price": 1885.07,
+      "change": 3.6965,
+      "changePercent": 0.1965
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.226,
-      "change": -0.0011,
-      "changePercent": -0.0034
+      "price": 32.215,
+      "change": 0.0059,
+      "changePercent": 0.0183
     },
     "JPYTWD": {
       "price": 0.1999,
-      "change": -0.0024,
-      "changePercent": -1.2039
+      "change": -0.0023,
+      "changePercent": -1.1473
     },
     "EURTWD": {
-      "price": 37.178,
-      "change": -0.022,
-      "changePercent": -0.0591
+      "price": 37.17,
+      "change": -0.0144,
+      "changePercent": -0.0386
     },
     "CNYTWD": {
-      "price": 4.7855,
+      "price": 4.7854,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4472.2,
-    "twd": 4634.0,
-    "tael": 173760.0,
-    "twdTotal": 144121.0,
-    "changePercent": 2.0351
+    "usd": 4467.5,
+    "twd": 4627.0,
+    "tael": 173518.0,
+    "twdTotal": 143921.0,
+    "changePercent": 1.9279
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,7 +129,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5od0tiSjB3SHZuV241ZF9fd2plU3BzazJqdGdmMEJiRUNJZERXNDdfRjFsZFNOX29OMnBpZzdYVks0R19VOEljRHVRZkxPUkV40gFWQVVfeXFMT1ZsMkdSLVN0dk11T0pxSHpPaWo1VVR6Uk9iaFdSRVg0U2J2eTV5RnpmVnlmTnZEMGUzOVpYbTUxcnFsQlZaMWkyTDVjbHRmUlZCVnE2alE?oc=5"
     },
     {
-      "title": "快訊／美股開盤「費半狂飆逾3％」！AI股漲勢不止 - finance.ettoday.net",
+      "title": "快訊／美股開盤「費半狂飆逾3％」！AI股漲勢不止 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SVS10cE1taGpmUUxvd1d2UFRzYk5GZjdrUG5oOUUyQV9hV0lGM20yaUJoVUEtVGs5dFhKTk1KTWdLUFROU0praGxjMGpsX0F4ZkHSAVBBVV95cUxOZ2NvazZ3eDZqcTBPbi0zSV95b1hPa3lfU1ZrdU45UW12QlFTRjBtaGJhSG9XM3JNR2NzdVV4TndkVklGdEktUHJrZ0lPQ1JqQw?oc=5"
     },
     {
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxObExvX1dzMmFrRUZaYXBLYU9LdG9ZemdCem9QeWZTR2dsOTdUZFpyWlZhRVVfQ1pCYnBQODZWeDlERHRrLTBHRnFGaDhHeGpSeTUyYTBnQXh5UHVNVl80bFZkVWRMTEoyY2NWa3VFMWxvSkpYQUhJX05udk5tY0lpam9zZERsLXFvMkI0UXhXLWdmN0pFTFc1QlBkcjFOUVJwSXkyc0tDaFY3S2xyYU9ubnNVZ0x6REFOTVEtNGdaYVlKTzYxOWJaRGRUYVV1bmJGZ3UxclkxWEprQl9rZ0s0dDNDNTNxTlBJaGs0NEU0RW1aZWNXTndudVlVZVhqeDhOdmE3NVpJMU16eGwyaFVlaVBrWTBpdkc4NnhHT3g4TFZQR0xhQlNkTkpfTk9oV2ZRZmlPXzFwQmpFcjRQazRINmhFcWpNTG0xSS1GaXpETDI1MDNmZjFVWkxvNHJYOTExZE81U294ekRIdE5FOFFXeE5Hcnc3ZHU3azZuWDdLWV9mMDVzcS1CNW1HY1pYRVlBSUFuNXZFNFhRZHc?oc=5"
     },
     {
-      "title": "開盤穩了？不懼美股3指數收跌 台指期夜盤逆勢上漲 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOZzV4bnp4V21Rc2pzM1NkbnB5Z1hZeDdiT04wSkpRNjF1Zk1sWHZEM29nYUg3V1hxYVFSYWlodmJfYXFHR1VsSmJiS3BGcFBnM3VielRRb1RuTFBXUXJNdy1qMmo5QURNN3pBbVI0OWktTzViZU9PWlNzRF9CLTcyN1lTcWZXbEcxLW1RS3pfRXJwS2RnVmR6a3QyRWlSMjVOSE9GcHBzekpLVV8tRmpGZ2gtczJrZUJCQmt3d2R0YVY1NVlRcWdOZWg4OGZQTUZfajE2SW5zUXRZdXg0VHdjVnlGbnE4azN6NFQ5TVQtME9USXRQbkctWjkzcVNOYTlzWGhrdlhpaksySmpOMjJ5aHpIMUIzNWU1QnQtN3FlVlcxWjFxdGZJSHNVdDVvQkhfd3pENXpkVWUzOEFBaVhRMUMyZV82V0psZ3RoYi0yTG1QVmFZTkFoUzhONA?oc=5"
+      "title": "別只盯台股！企業獲利創2021年來最強 美股10強名單出爐 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPVGw3ZGUtWXU1VmN6d2xtb2RJV0xhZ0NmWS1MVGNZY1N4c2haVjRFSzZzbHZIbXgxRU90WHhuSHNqdzVWc1d1VTNFMGdEcGU1X1pacHJmcWo2X0Q3NEdGcExtQ01OR2hQUTZ2a3drMkhQZGdxb2FVSldVdFN1TUNHLU1DMWdJZ3I5RnV6UDlKdnhSLXRBYVZHZTJzME9YSTNIWDlRcmZJSF84dFVnN24yZFlJOEZVUm10UWNCd0NTZktDT2YwTk91T18xcVJ2RkhpZllaazFrbzZiY01nUzZUM0tsazNDTUwwWFlQT1Q5ei1neFlIY29fcDlKcG5GYmgtOXdoRTItUHN2bVhsM2w5WkpSMmtHdVllTVFEYmp3Wm1KMHo5M1BXUzZxd2Z5bWdNYlkwcVU5N0Y1Q3F0dGE0WnViQWZHMDk5LTdjWVY1d1FOVE5Kc1JQOTZ3?oc=5"
     }
   ]
 }
