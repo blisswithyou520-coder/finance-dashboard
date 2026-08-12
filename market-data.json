@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/12 07:11",
+  "updated_tw": "08/12 08:00",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,50 +72,54 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63527.11,
-      "change": -383.4759,
-      "changePercent": -0.6
+      "price": 63542.72,
+      "change": -1302.1667,
+      "changePercent": -2.0081
     },
     "ETH": {
-      "price": 1878.2,
-      "change": 6.9213,
-      "changePercent": 0.3699
+      "price": 1881.03,
+      "change": -27.6527,
+      "changePercent": -1.4488
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.209,
-      "change": -0.0181,
-      "changePercent": -0.0562
+      "price": 32.208,
+      "change": -0.0191,
+      "changePercent": -0.0593
     },
     "JPYTWD": {
-      "price": 0.2001,
-      "change": -0.0022,
-      "changePercent": -1.1051
+      "price": 0.2,
+      "change": -0.0023,
+      "changePercent": -1.1545
     },
     "EURTWD": {
-      "price": 37.226,
-      "change": 0.026,
-      "changePercent": 0.0699
+      "price": 37.222,
+      "change": 0.022,
+      "changePercent": 0.0592
     },
     "CNYTWD": {
-      "price": 4.7825,
+      "price": 4.7822,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4427.1,
-    "twd": 4584.0,
-    "tael": 171917.0,
-    "twdTotal": 142592.0,
-    "changePercent": 1.4971
+    "usd": 4428.2,
+    "twd": 4585.0,
+    "tael": 171954.0,
+    "twdTotal": 142623.0,
+    "changePercent": 1.5223
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "美股早盤／四大指數漲跌互見傳輝達研發AI開源模型股價揚| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PdFUtMW5CYXM2X3hYbjd3ZnJJbVRxX1pWRGVYa2NoUGhnSVU1YnN6aHlySDlnWTBwTnd1RFFBbU9vUHN5c1Vma3VvSWpzdnpB?oc=5"
+    },
     {
       "title": "〈美股盤後〉美伊協議未見進展 三大指數盡墨 記憶體族群逆勢走強 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Nc2REZXd6UDZwMEtORFlGZU1XalV1ZjRPZTdtelV3bzVUM3poSEpkdVdpQTN6Y3lhdTBlcnRtekl0emhCSHAyMFZkcUo1VE0?oc=5"
@@ -125,20 +129,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBbVlzUUxPdE5WSVJUT1c5UmZvZi1PWDR3bFFEZnplbkVfRFRZTWVpXzZicEwyMnQ3THdKTmIxYlo2UzJmVEhPMVBma09sT3g2Qzh1Vi1jNk10Zm84MThr?oc=5"
     },
     {
-      "title": "美股早盤／四大指數漲跌互見傳輝達研發AI開源模型股價揚| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PdFUtMW5CYXM2X3hYbjd3ZnJJbVRxX1pWRGVYa2NoUGhnSVU1YnN6aHlySDlnWTBwTnd1RFFBbU9vUHN5c1Vma3VvSWpzdnpB?oc=5"
+      "title": "比特幣跌破6.4萬美元關卡 美國證管會將推動加密資產新監管 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQRGk3OHVpWGEzY0dxdTloa3FyODVvdEdiU1lrSHFUVmNudE9XZ3RSWl9qelNCU3hoRWtJZFREdllBbE11NmFtSjh6R1ViMFhjSFdhYUhzNVc2RGV5ckxrdXp2cEtMbHJSbjFLaUR4WUhDOTdqSGlnTEltYndmTzdnZExyV2I4UVZKT0o1SVRWb1JTUldXRjcySnI5SmFpWmZwaEZUYV84WnlZcS1EX2ZRYlRYai1ON3hsV0lWM1V0WU5BbE5ITmVqLXA5SDVqd1laSUJSakZxVTdubGdMa19RX3BFTHYtbVJRckQ3ZjdmOUotN2sxTFhMb2dldTNyVHQ4cDA4eDlzd2JManhpcTZfeElmUmlOZVZNb0RXYTF3Vm5pekVLWmV6dWx0TUhzdXViUmllRjVoT0pmMVpXVnJUNGJMYmdKelhaWFRza2VJUXc5czhxS1VwN2h4clRGQ3Zib3JtbU4yX0pKLVYzZ2UxdHhDdnQ2X0RESmlTRmdQb09GT3o3ei1FTG1GNHY?oc=5"
     },
     {
       "title": "黃金衝破4400美元后急剎車，機構喊話：短期噪音不改牛市根基 - capitalfutures.com.tw",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRG4tNWF4eGI2dXVaRFFwc1VNS3dQVkNUVmY2TlhYTVNEUnAzNTVCZ1FqZUtvS3hleWxncEtkRWxscFE2ZUZUUHkyamlhVWdnZldXeFlYVnJlN1hvMklBbmgzSjhUem9lb3VuZ0czMmZ1d2J5aTVIQzYwRzZmQTdaV2dzbWswalhnb0NTMnZhdw?oc=5"
-    },
-    {
-      "title": "開盤穩了？不懼美股3指數收跌 台指期夜盤逆勢上漲 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOZzV4bnp4V21Rc2pzM1NkbnB5Z1hZeDdiT04wSkpRNjF1Zk1sWHZEM29nYUg3V1hxYVFSYWlodmJfYXFHR1VsSmJiS3BGcFBnM3VielRRb1RuTFBXUXJNdy1qMmo5QURNN3pBbVI0OWktTzViZU9PWlNzRF9CLTcyN1lTcWZXbEcxLW1RS3pfRXJwS2RnVmR6a3QyRWlSMjVOSE9GcHBzekpLVV8tRmpGZ2gtczJrZUJCQmt3d2R0YVY1NVlRcWdOZWg4OGZQTUZfajE2SW5zUXRZdXg0VHdjVnlGbnE4azN6NFQ5TVQtME9USXRQbkctWjkzcVNOYTlzWGhrdlhpaksySmpOMjJ5aHpIMUIzNWU1QnQtN3FlVlcxWjFxdGZJSHNVdDVvQkhfd3pENXpkVWUzOEFBaVhRMUMyZV82V0psZ3RoYi0yTG1QVmFZTkFoUzhONA?oc=5"
-    },
-    {
-      "title": "【美股盤前0811】Fed升息機率破50%！美股多頭結構惡化了嗎? 週3公布CPI 市場怎麼看?｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNMlB4SjhnMFRMVWpXYjNHckhRY1hwZ2pHTERSVXpuWlBqZWhBaUR1SGpxcTZYYjV4Q1J6cjdIY2wtZWdfSmlHSEhhSjBWazk0YjRoZlpJbmpPdzlCMkRRN0lNaTRranJIWkMwLTlSeTVGM2NqNFpoX19tWHRleEZwM09hRzFYNzB2RnhSdmdGWlpqNDA4QVBsQWJNMjBua0w2YUY3ekZkU3BjYWpuc0w1T3JDcXlOZ0E2ZGp0ZnliQ181ZXp0SWxPQklGV1FwNFNFRXJCTnhtaTcxdExhNG9uZ041UmNDTS1sa0JEQmdYV2RCa183aHJFYnZzRURubUZjbG9FTFhxMC1vMTJpU2lQZS1SSERiTU5pUnlERFF0Nkh6U3VUNWFOTVBGdURJMlNCdXQ0WVhrRE9xVW9zcDZER1VKd1BIWlI1RzJLZHZxa1VwVzJLSFNTVlV3T3VrajFXUTBxSl82WDZVb1FaNDhwNDI5UUI?oc=5"
     },
     {
       "title": "《貴金屬》等待通膨數據 COMEX黃金上漲0.5% - MoneyDJ",
@@ -147,6 +143,10 @@
     {
       "title": "快訊／美股開盤一片綠！道瓊跌逾60點 台積電ADR上漲0.71% - 三立新聞",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUaGZGUzlKUGNCWWNRSnJsVW5sYnFtTDk4YjJBTnYzSkRQendhS082Ym1Fb2lvejhDVk1hVVgzTGdyeXJRRXJJVDB2Zw?oc=5"
+    },
+    {
+      "title": "美國通膨數據揭曉前夕美股收盤互有漲跌| 證券 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83ZnJlUGhPRG5MUm93RUZnR3JjcGFfUmwtUDRqM1E0OXhiaTRXR2VReHBoQ2NPTEJ6VDFQaW50aTAzaEZFWVdVdlNNMWhtX2U3Qlp0YW1nUXRHTGhYbFE?oc=5"
     }
   ]
 }
