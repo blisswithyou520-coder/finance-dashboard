@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/13 05:28",
+  "updated_tw": "08/13 06:19",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 105.2,
-      "change": 2.35,
-      "changePercent": 2.2849
+      "change": 0.95,
+      "changePercent": 0.9113
     },
     "00878": {
       "price": 33.52,
-      "change": 0.71,
-      "changePercent": 2.164
+      "change": 0.12,
+      "changePercent": 0.3593
     },
     "00919": {
       "price": 30.19,
-      "change": 0.45,
-      "changePercent": 1.5131
+      "change": 0.16,
+      "changePercent": 0.5328
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63399.58,
-      "change": -152.295,
-      "changePercent": -0.2396
+      "price": 63432.13,
+      "change": -119.745,
+      "changePercent": -0.1884
     },
     "ETH": {
-      "price": 1872.64,
-      "change": -8.7335,
-      "changePercent": -0.4642
+      "price": 1877.36,
+      "change": -4.0135,
+      "changePercent": -0.2133
     }
   },
   "fx": {
@@ -94,22 +94,22 @@
       "changePercent": -1.1473
     },
     "EURTWD": {
-      "price": 37.167,
-      "change": -0.0174,
-      "changePercent": -0.0467
+      "price": 37.175,
+      "change": -0.0094,
+      "changePercent": -0.0252
     },
     "CNYTWD": {
-      "price": 4.7854,
+      "price": 4.7797,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4469.0,
-    "twd": 4629.0,
-    "tael": 173587.0,
-    "twdTotal": 143978.0,
-    "changePercent": 1.9621
+    "usd": 4462.8,
+    "twd": 4623.0,
+    "tael": 173346.0,
+    "twdTotal": 143778.0,
+    "changePercent": 1.8207
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,7 +133,7 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CMHR2TFVaWVNHTHQ1UHhqbTNVVkZJaVRBUEFMdDd1TzNKMTZJZnhlUGgzb1FNNFNfSW5WaDJJUGpQNDJTVEg4U0wtZVVjQXRLNklB0gFYQVVfeXFMTmZaRFdWLTV4WlFmVWZXLTk1emFxMmxYSkwyQ2JsNFpoaGFyOEpGNk5weFJJVW1laVZUSm9TSlRaSGtiSVZITFpPNE96VWczOTVKYUNEZjZQXw?oc=5"
     },
     {
-      "title": "黃金創高後拉回！下一步專家全說了 - ec.ltn.com.tw",
+      "title": "黃金創高後拉回！下一步專家全說了 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JRmFraGxKbEFodXhoSTRBZUlSMzdxN1FQQ2NTWHpVakRsajlaR0NKRVBsOGt6N0NwaTNoNloyYjA2Y0UydjNDanN6ZkM2dVdOSGZFLXE4SU5CUEdOT05z?oc=5"
     },
     {
