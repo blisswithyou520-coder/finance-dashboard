@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/13 07:09",
+  "updated_tw": "08/13 07:57",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63357.82,
-      "change": -194.055,
-      "changePercent": -0.3053
+      "price": 63347.95,
+      "change": -203.925,
+      "changePercent": -0.3209
     },
     "ETH": {
-      "price": 1874.8,
-      "change": -6.5735,
-      "changePercent": -0.3494
+      "price": 1876.99,
+      "change": -4.3835,
+      "changePercent": -0.233
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.217,
-      "change": 0.0079,
-      "changePercent": 0.0245
+      "price": 32.2,
+      "change": -0.0091,
+      "changePercent": -0.0282
     },
     "JPYTWD": {
-      "price": 0.2,
-      "change": -0.0022,
-      "changePercent": -1.0978
+      "price": 0.1999,
+      "change": -0.0023,
+      "changePercent": -1.1473
     },
     "EURTWD": {
-      "price": 37.181,
-      "change": -0.0034,
-      "changePercent": -0.0091
+      "price": 37.166,
+      "change": -0.0184,
+      "changePercent": -0.0494
     },
     "CNYTWD": {
-      "price": 4.7797,
+      "price": 4.7775,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4460.6,
-    "twd": 4620.0,
-    "tael": 173261.0,
-    "twdTotal": 143707.0,
-    "changePercent": 1.7705
+    "usd": 4467.8,
+    "twd": 4625.0,
+    "tael": 173449.0,
+    "twdTotal": 143863.0,
+    "changePercent": 1.9347
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,28 +121,28 @@
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQbnhMaldWTkRDZVJ0VENjSllJZFE5MUV3Qmc0cUZLbWJjVGhWMVJUY21teUk5SFFzenNxM3hNOVZwdHBObnZZRVRJM3FRRG5faFVDUlNtNy1CQjZ2Mmt5WXBMdEJENTg0N1RON1BJNVpPNFNUOU1IU1Nra055QXMzMVU0czRVdlpld0hHYVdaQm9UR2lJdlVzOVVsUGZoUXlvWGFXRkdid2Jqd1VQdHBZd2x5SlowV0g4dFFuR01ETkVhZDJfb1ItQkhmLWRmZWtxZFBwV1RPcGRfeU9aa2Q3RWV0cXotWWhSX0ZyYnBwLUNGdkFqN2E0bTFMQTNjOFdPVC03dkozQnY3dUViVE5rTWFrUWRPcENuaEpFOTFKSFh3QnduNjB3d2pLaXJlaWJaM09HY3lJS1VYWVdQeEtXUFY3eDFVTnlkLXBpUE9FeVI4MzlXRU9HeUxSWUhFQ1BnOEdaUXZoMXFuUDlWaGVlQzBQQ1JmR0JXdXc?oc=5"
     },
     {
+      "title": "美股早盤／通膨數據溫和…四大指數齊揚 CoreWeave暴漲18% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01UFQ0Qk5QQmhrT1JJQlBHYzlRV1RKa0swWlRLSFp5OFhIZGZPdEE0X2pfd3VTYmJtX283R0VwSmQ1THVTRHBvU0xCbWpIRG1R?oc=5"
+    },
+    {
       "title": "美國7月CPI符預期、升息壓力降！美股四大指數齊揚、費半飆3% 美光大漲6%、台股ADR一片紅 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOQWNFNWx1UFlNLTZEYTFxdTNQLUN0YTN2c3U4LUtmZnBPT1hJdTNxRzVBVVhWMlBfb09HZjZUNGRBbGhBMHJSV1BXM0N2clVXdWZzZTdEd3k0WDV5eTU1WXJEc3dLS1JLcDlqbHZJY0xBUmwwM1YxcDBDZkpzMkNvUW1PbkxpWGRLV05pMDJ5aUlScWhzVnAxalVITk9tNFNhRlBwX1dRMzZ6NXh2QkZ5LU5FOE9FYlJyTEo4Y1h5VURzQld0cEJRZFlkWndiTFBFWTVKb3lpQnZXMjg4ejdzNURrQmppUk1zbUxVYmNfVFhCS2ZkckhVMmJHLW04SzNoUFBHRmRxaW85VEg5V0pNMXNUYUplU203c3V0enE1TVhlQ0pwRzdLTmF2QTRlOHpqRmVETTUycTRSbEJ6Y2xmQVNvQjU1YWJ1WGhfMFZlZEdsb3pUb0VpWWFpeUdoam5nc1I1SWMxTU9QbVhTZFptU3NyaGU4Rl9GSWJJOW5PeTBJa2ZzRmdGdk1QV2RXU3Boc3FmeHZ1ampSclRTeUxmWA?oc=5"
     },
     {
-      "title": "2026美股科技股、半導體ETF懶人包：QQQ、SMH、00891等10檔完整比較，大戶投複委託也可以買｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQX183aW1aVm9VdGtyOTZTaVY2d0hEeW1TTWQ2NnI0UkhHQW1PdGJUVEJ0NmZ6dWRHNlc2dnk0aWNwQjhIWGxJRnVhV1BISFA2TDNGRTJkUXljWnFFRkF4MFZmZk0xb0sxRm9SRGF2cnRtdUJLU0xTQlI4ZUtaV3pDbXFQSzhiOUZYakhNOF9DYmx6RURsS2NlRkhCeWhPLWI4RTNOYjBfQlMzZy1WdVNRU1JRRUJ1TVB4VW1RT0k2eVRxYnNnbGlubEFGMlBCVFZSUzlydWFyZ2haS0tOcnduWi0tZml0M0pxVzBua2pRekt4eWhraDBOTVRYdk94blRaQXhqOWFhWDQtSENsZlNXVTAtWUtidGh4R0d4eUlGbWx3ak5OcEE4TnM4TVNBLXV6UWlmUFpGczBrWmVLeFlSeHBRRkY0dDB3MkN5Xy1oS2M2ZUxLQTljUE42VlBuZDV4b1FhQTJ1UE16U0lrN0hnWUktY3ZyVWJxbDllX1lGN0gxSVZwOUUwUlIwUWZ6UUR0VTlBODUwc0h2QkJSdXhhRng5ajAzOGdydk9lTmkzOFR0dGVZYkx0R3dUcDM4WC1KeGg5djV5UjJDUFNBcnowZVg4NWI3cGYtdkpsUDd5ck8?oc=5"
+      "title": "【0807台股盤後】川普變數+非農前夕，台股震盪洗盤回守均線，哪些族群表現強勢？營收創高模範生:上銀、鼎元、聯茂 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNVmxjdzVYVE9GSWhGYmtHblNTMTg4dnRPQU03Z0prRzZyY3NGWllpa3FHeUZ0NmJHS0pCbHROT3J5S2dxYWZCWktRVHVIN0xQX0FfMW9USF8xX1BkdkJCSC1vOEVIeHRkUnZOVFdSaEFkRmozRlFZRlpkRVVGYkxqbWprdTQwRjNOME9iX3pPQzZJRWdNdU1UN2hZVWxvQWNsb3hNdGRlQXZOalg5YXViQk5nZVNYRWVjbm03OWlOQ194SlZmU3VnTXlwemFEZ09LUFpndzRpb0gtRW9MQjZpTzhCVEp0aGRTNWI2ekpNQjUzd1lVS1dvcTY0aVU5LTJoNVlRaUJnMEVtN3N3NzZROThycTRVTkNIbndDY2NMYlFNRHRabDIwVE8tMEdUNkdWQkZxWmJXLW0zSWRUSHFzVGRzakhCS050ajlJa1hoVEdZalRhSXBNV212Z0JkN25MRmdQUDBWZDJMYm1NelJuNWRWbkZzSmw2QjZzWHRRT2Y0V2JyOFJXTHd2NG4tNkRoZUdVZGtRQUM0M0puSmQ2LTBtVURlcHdpakdfQTZRVEswOXY0TDdVUlBXYzM3Z1ZfTjJpYXhLSXVMdGNuajd6UmdqQXh3YWEtYlFCMmhxX1dlV1hsX2ttWHlESmxKVU9UOUlrc3JNSzd0Nzd3YnNrUkRKcmdnMDlwMjFGYWlBRE1xS3Q4MnZhN24xeHFzOFpFUWw5OGYzRVlXOUZabkJ3YjBhcF90bGxjUnI2TFhjbWFiV3lPcUMybnVNcFladnhoTlQ5Q2thYVNqNVpNVDJxWlp4cEZMUXV6NWlPNEpoc2hUeGsybDlSZE1GNTZyN3NqTkNGSGRNM012SG5ROE96Rg?oc=5"
     },
     {
       "title": "快訊／美股開盤「費半狂飆逾3％」！AI股漲勢不止 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SVS10cE1taGpmUUxvd1d2UFRzYk5GZjdrUG5oOUUyQV9hV0lGM20yaUJoVUEtVGs5dFhKTk1KTWdLUFROU0praGxjMGpsX0F4ZkHSAVBBVV95cUxOZ2NvazZ3eDZqcTBPbi0zSV95b1hPa3lfU1ZrdU45UW12QlFTRjBtaGJhSG9XM3JNR2NzdVV4TndkVklGdEktUHJrZ0lPQ1JqQw?oc=5"
     },
     {
-      "title": "美股ETF 長線買點到 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CMHR2TFVaWVNHTHQ1UHhqbTNVVkZJaVRBUEFMdDd1TzNKMTZJZnhlUGgzb1FNNFNfSW5WaDJJUGpQNDJTVEg4U0wtZVVjQXRLNklB0gFYQVVfeXFMTmZaRFdWLTV4WlFmVWZXLTk1emFxMmxYSkwyQ2JsNFpoaGFyOEpGNk5weFJJVW1laVZUSm9TSlRaSGtiSVZITFpPNE96VWczOTVKYUNEZjZQXw?oc=5"
+      "title": "《美股》CPI溫和、SpaceX/算力/光通訊飆 費半嗨-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlE5bnJ1YlhGNHNfUDU1NGFUV0hvNm5uZFgxbUVveThXWkZfQnFwY0NxdUJ2UnhOZW1Zd2lFQUtWYjdKWl82M09GTDhSdkhSam9KOXpuNzlINkVObVJ2NWZsZWJjT0hRWktleE0yUUZwdWdOM0Rra25vRWdIdGxiUk03djY5ZHpTemotUzFxdU4?oc=5"
     },
     {
-      "title": "《貴金屬》COMEX黃金上漲0.6% ETF持倉增加- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3dHRTMxS2lRcXlOVjFHc0EzVW4zeG9ZQnlRTWNZOGxhTHBqaWVfUDlYYmxWQVBpOGVWSml1eDB2WnZrMHVweHdETWFoVUhUVlBMZlZoQl9YUWU1cFhReXBTazl4OUtJQkwzVFFpLUx0akV3TGdyODhRQU0xU0p6R2VrVXFJU1JBazh1eWpzTjB6UQ?oc=5"
-    },
-    {
-      "title": "黃金創高後拉回！下一步專家全說了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JRmFraGxKbEFodXhoSTRBZUlSMzdxN1FQQ2NTWHpVakRsajlaR0NKRVBsOGt6N0NwaTNoNloyYjA2Y0UydjNDanN6ZkM2dVdOSGZFLXE4SU5CUEdOT05z?oc=5"
+      "title": "美股收盤》AI股強勁！費半漲近2.5％ 台積電ADR收高1.68％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SUGpObWxPb0hncTdPLU9wY2lpY2V0SGkzUUM2bFVzQlFSaDVXd3lCUWRWdFJvTkthWFVXQUNqWUlORzRaNzhoRnowMGdxWXJmUXdZaWxNQTJKR1BuMjk0?oc=5"
     },
     {
       "title": "美股迎24/5新時代那斯達克23小時交易12月6日上線| 證券 - cna.com.tw",
