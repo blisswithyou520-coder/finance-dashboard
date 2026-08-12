@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/12 12:28",
+  "updated_tw": "08/12 13:59",
   "taiwan": {
     "2330": {
-      "price": 2405.0,
-      "change": 10.0,
-      "changePercent": 0.4175
+      "price": 2415.0,
+      "change": 20.0,
+      "changePercent": 0.8351
     },
     "2454": {
-      "price": 3995.0,
-      "change": -25.0,
-      "changePercent": -0.6219
+      "price": 4015.0,
+      "change": -5.0,
+      "changePercent": -0.1244
     },
     "2317": {
-      "price": 268.5,
-      "change": 5.5,
-      "changePercent": 2.0913
+      "price": 270.0,
+      "change": 7.0,
+      "changePercent": 2.6616
     },
     "0050": {
-      "price": 105.05,
-      "change": 0.8,
-      "changePercent": 0.7674
+      "price": 105.2,
+      "change": 0.95,
+      "changePercent": 0.9113
     },
     "00878": {
-      "price": 33.45,
-      "change": 0.05,
-      "changePercent": 0.1497
+      "price": 33.52,
+      "change": 0.12,
+      "changePercent": 0.3593
     },
     "00919": {
-      "price": 30.16,
-      "change": 0.13,
-      "changePercent": 0.4329
+      "price": 30.19,
+      "change": 0.16,
+      "changePercent": 0.5328
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63767.93,
-      "change": -142.6559,
-      "changePercent": -0.2232
+      "price": 63791.98,
+      "change": -118.6059,
+      "changePercent": -0.1856
     },
     "ETH": {
-      "price": 1888.87,
-      "change": 17.5913,
-      "changePercent": 0.9401
+      "price": 1890.2,
+      "change": 18.9213,
+      "changePercent": 1.0111
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.192,
-      "change": -0.0351,
-      "changePercent": -0.1089
+      "price": 32.194,
+      "change": -0.0331,
+      "changePercent": -0.1027
     },
     "JPYTWD": {
-      "price": 0.1997,
-      "change": -0.0026,
-      "changePercent": -1.3028
+      "price": 0.1998,
+      "change": -0.0025,
+      "changePercent": -1.2534
     },
     "EURTWD": {
-      "price": 37.172,
-      "change": -0.028,
-      "changePercent": -0.0753
+      "price": 37.177,
+      "change": -0.023,
+      "changePercent": -0.0618
     },
     "CNYTWD": {
-      "price": 4.7784,
+      "price": 4.7789,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4456.6,
-    "twd": 4613.0,
-    "tael": 172971.0,
-    "twdTotal": 143467.0,
-    "changePercent": 1.6792
+    "usd": 4445.8,
+    "twd": 4602.0,
+    "tael": 172563.0,
+    "twdTotal": 143128.0,
+    "changePercent": 1.4328
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,7 +117,7 @@
   },
   "news": [
     {
-      "title": "美股收盤／美伊談判僵局推升油價 大型科技股走弱 美股連二黑 - money.udn.com",
+      "title": "美股收盤／美伊談判僵局推升油價 大型科技股走弱 美股連二黑 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoNDh2SDUyWHhaUjM2MGQ5ZW1SclNQeTN2bDNVRlNPcUpraWM3NlpqcWJuRzcyM2Y2U3M5MU9mOVlhVzRQbm5GMUhOU0JlWWVaYWV0eU9qOVEzMXN40gFiQVVfeXFMTnVqb0hqZEVhdTFvd0Z4THdwRlBGRnVqOFB2b2x1cWNWVGRwc0RaaHZXdmlfaEZfNWhTZDdfekQ2NGF1Q1pPeHNqTTBjYmdGNm9JdWNxQVA3bE1tX01jdDVhaVE?oc=5"
     },
     {
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOZzV4bnp4V21Rc2pzM1NkbnB5Z1hZeDdiT04wSkpRNjF1Zk1sWHZEM29nYUg3V1hxYVFSYWlodmJfYXFHR1VsSmJiS3BGcFBnM3VielRRb1RuTFBXUXJNdy1qMmo5QURNN3pBbVI0OWktTzViZU9PWlNzRF9CLTcyN1lTcWZXbEcxLW1RS3pfRXJwS2RnVmR6a3QyRWlSMjVOSE9GcHBzekpLVV8tRmpGZ2gtczJrZUJCQmt3d2R0YVY1NVlRcWdOZWg4OGZQTUZfajE2SW5zUXRZdXg0VHdjVnlGbnE4azN6NFQ5TVQtME9USXRQbkctWjkzcVNOYTlzWGhrdlhpaksySmpOMjJ5aHpIMUIzNWU1QnQtN3FlVlcxWjFxdGZJSHNVdDVvQkhfd3pENXpkVWUzOEFBaVhRMUMyZV82V0psZ3RoYi0yTG1QVmFZTkFoUzhONA?oc=5"
     },
     {
-      "title": "美股法說SMCI｜美超微財報亮眼：AI伺服器訂單破表，帶動緯創與台達電(SMCI US)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxPNDBmVmlLNU9jSjY0RHJLVTNXOWo3VFZ2andlb19wT1hXN0VqUVZjOElZTHhVTVRVVVJVZGNrdjQzT1M0NE9lelFxQm5YLVZjTjlFMUdsdGV4Z0lfMkRLSXVIT3hzY2dqWFF5WW56T3BUZnRkek9HS0E0eS1fbHFfTUh2cE9CRkw4clJQWVdPTHF5UW5CYmY0WUJFYWR2WE5zMDlPZmczSEs0dXkweHFXSzlac1ZWdy1zM3lCcjhObnFfOE5kemtORmZVX1Y1UkI2OW5RSl9wQ2lGUlVIRnVFejR6M244aGlTaFFwZzBZNmxfMWdZNDBPTHBlb2VKc1kyZ0Y0bHNWWUExa081aXN0MkZuX0ZyNkplTU11azNUYlgzcE43dHlSb2c2ODBCak01UXFNZk1MTzdnUlJmalQ0T3R2emhzRmFWQXhmQlNUcVEzUllGSHBXZXlJS0RlTl9OSEJPclFfWTVxTFFBdzR6S2xPYU90ZnFpUmNNZFRDcnRDUHNxc1BYQ2MwdDlYSlNrNHdjTTVlNGt5cE9pU3g2MUFUcFZEQWw1V1FNbTNmVTh4NEZNbjhNNjNJRUhMcVFTMHN0SjJnd3JCVk5sN0cw?oc=5"
+      "title": "黃金時隔103個交易日再現危險信號，小心今夜CPI或成“回調 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1MxRkg3ejFpTnBWQVQwLW5reHBnVzJIV2hLeTN5bWFybjUyQ3NmUFFibmVXbXZUNFVlQkVHcU1keGo2V0lQUlJsVGNMMUZnTHF5LWJrMHJoT2Z0WnoyQlFEQVdyc25EcFktYnp2OFp5QVAxalJCaDFXaERSdFZnd3YzRUJUY01BcUJCRkoxaUc3T29WajZ2aUVjWTIwMS1M?oc=5"
+    },
+    {
+      "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
+    },
+    {
+      "title": "ETF 狂吸金、比特幣卻漲不動！礦商、企業賣壓抵銷買盤，CPI 能否打破僵局？ - blockcast.it",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWdiS1VzUnYzaGQxZDdJU0RYVVc2ZVVpcEpHenhLS3RKbWp2MmVHc29VakNGNGRtWDN0R3lfQVdQVkZGdklCbURnMHRsbU5ZRjRWUXYzTFBBRUNINUxrSEhZWVU4QVpTT09wa290b0NJcXdyN3BRRGRfWHNGUEdoNG5uc0p0TEhDNzdqeXhFeEs0YnE3cHNDaUw4c3BrUXNjWDNLNkdTUTFsa3VX?oc=5"
     },
     {
       "title": "〈美股盤後〉美伊協議未見進展 三大指數盡墨 記憶體族群逆勢走強 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Nc2REZXd6UDZwMEtORFlGZU1XalV1ZjRPZTdtelV3bzVUM3poSEpkdVdpQTN6Y3lhdTBlcnRtekl0emhCSHAyMFZkcUo1VE0?oc=5"
     },
     {
-      "title": "美股收盤》科技股疲弱、中東陷僵局！道瓊跌184點 台積電ADR漲近1％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBbVlzUUxPdE5WSVJUT1c5UmZvZi1PWDR3bFFEZnplbkVfRFRZTWVpXzZicEwyMnQ3THdKTmIxYlo2UzJmVEhPMVBma09sT3g2Qzh1Vi1jNk10Zm84MThr?oc=5"
-    },
-    {
-      "title": "伊朗揚言關海峽！美股3指數收跌 費半逆勢上漲 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPRHc0b1pHMHRNQmc0aVh0N29WZ09Qa3IwYWtwd0poM0tXY0ZGRHFxNkhkbEVJTWZWdlBYVlBJUzdLbnFySVZjMUNlYjJ3OWJjcGhLcWItOW9jM1dVSkZWbmlFbDh3ZEREZFpRbFpVNmh5T3ZNUVhSYUFQX3hGMVZ3TFZUbVFVcTVqOVFKVmJWM29BT2szYVlNX0hBWVFpQ29GQmNGcGtPeXBROWhncUNoTE9KTEFaZlRqZDAyQlZ1YlhQTDV3d3AxM1ZyeXJxYjBTR3hidDBENExhMHpsd3ROVFlhOFJvWGJOME53cUVLVktUcHJZall1dFpSLVk3NHQ5VEFXZ2JqbVJUeVJPdlY1RHpycHlFT3c0RExlbHM3MnU0NmNrRnNQSUxNdnNvVGViUXVvRDhHam1yNlRhYzQ2aW5uUQ?oc=5"
-    },
-    {
-      "title": "美股早盤／四大指數漲跌互見傳輝達研發AI開源模型股價揚| 全球財經| 全球 - udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PdFUtMW5CYXM2X3hYbjd3ZnJJbVRxX1pWRGVYa2NoUGhnSVU1YnN6aHlySDlnWTBwTnd1RFFBbU9vUHN5c1Vma3VvSWpzdnpB?oc=5"
+      "title": "比特幣礦商Riot轉攻AI基建拿下Anthropic大單- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbnV6U0RoSVhfcEc1YlVZeXIySkZmS3pGLUlkVy1rZ3BLaklIekRCbWxKZGprSEtfMHpVWDZzcUNGVjc4TW1FX2hFZk5IbDVtNjk3T3IyR0FVOEVTSWZhbjJlN2lqblI1RjRha3M2My1OdVpyMERvR2xYbzZjSG1zNDJoX0FzQkVuMFRycFRtOVZrQQ?oc=5"
     }
   ]
 }
