@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/12 23:38",
+  "updated_tw": "08/13 00:36",
   "taiwan": {
     "2330": {
       "price": 2415.0,
-      "change": 20.0,
-      "changePercent": 0.8351
+      "change": 35.0,
+      "changePercent": 1.4706
     },
     "2454": {
       "price": 4015.0,
-      "change": -5.0,
-      "changePercent": -0.1244
+      "change": 55.0,
+      "changePercent": 1.3889
     },
     "2317": {
       "price": 270.0,
-      "change": 7.0,
-      "changePercent": 2.6616
+      "change": 5.5,
+      "changePercent": 2.0794
     },
     "0050": {
       "price": 105.2,
-      "change": 0.95,
-      "changePercent": 0.9113
+      "change": 2.35,
+      "changePercent": 2.2849
     },
     "00878": {
       "price": 33.52,
-      "change": 0.12,
-      "changePercent": 0.3593
+      "change": 0.71,
+      "changePercent": 2.164
     },
     "00919": {
       "price": 30.19,
-      "change": 0.16,
-      "changePercent": 0.5328
+      "change": 0.45,
+      "changePercent": 1.5131
     }
   },
   "us": {
     "NVDA": {
-      "price": 223.336,
-      "change": 5.836,
-      "changePercent": 2.6832
+      "price": 222.805,
+      "change": 5.305,
+      "changePercent": 2.4391
     },
     "AAPL": {
-      "price": 301.1,
-      "change": -3.81,
-      "changePercent": -1.2496
+      "price": 301.5,
+      "change": -3.41,
+      "changePercent": -1.1184
     },
     "TSLA": {
-      "price": 324.11,
-      "change": -8.7,
-      "changePercent": -2.6141
+      "price": 326.9,
+      "change": -5.91,
+      "changePercent": -1.7758
     },
     "QQQ": {
-      "price": 723.58,
-      "change": 5.13,
-      "changePercent": 0.714
+      "price": 723.716,
+      "change": 5.266,
+      "changePercent": 0.733
     },
     "SPY": {
-      "price": 772.0,
-      "change": 1.44,
-      "changePercent": 0.1869
+      "price": 772.29,
+      "change": 1.73,
+      "changePercent": 0.2245
     },
     "SCHD": {
-      "price": 34.165,
-      "change": -0.105,
-      "changePercent": -0.3064
+      "price": 34.21,
+      "change": -0.06,
+      "changePercent": -0.1751
     },
     "VOO": {
-      "price": 709.62,
-      "change": 1.2,
-      "changePercent": 0.1694
+      "price": 709.89,
+      "change": 1.47,
+      "changePercent": 0.2075
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63433.89,
-      "change": -117.985,
-      "changePercent": -0.1857
+      "price": 63460.8,
+      "change": -91.075,
+      "changePercent": -0.1433
     },
     "ETH": {
-      "price": 1892.81,
-      "change": 11.4365,
-      "changePercent": 0.6079
+      "price": 1891.24,
+      "change": 9.8665,
+      "changePercent": 0.5244
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.227,
-      "change": -0.0001,
-      "changePercent": -0.0003
+      "price": 32.221,
+      "change": -0.0061,
+      "changePercent": -0.0189
     },
     "JPYTWD": {
-      "price": 0.2002,
-      "change": -0.0021,
-      "changePercent": -1.0557
+      "price": 0.2,
+      "change": -0.0023,
+      "changePercent": -1.1545
     },
     "EURTWD": {
-      "price": 37.243,
-      "change": 0.043,
-      "changePercent": 0.1156
+      "price": 37.192,
+      "change": -0.008,
+      "changePercent": -0.0215
     },
     "CNYTWD": {
-      "price": 4.7869,
+      "price": 4.7828,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4482.5,
-    "twd": 4644.0,
-    "tael": 174166.0,
-    "twdTotal": 144458.0,
-    "changePercent": 2.2701
+    "usd": 4483.9,
+    "twd": 4645.0,
+    "tael": 174188.0,
+    "twdTotal": 144476.0,
+    "changePercent": 2.3021
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,8 +117,12 @@
   },
   "news": [
     {
-      "title": "獨／美股23小時交易將引爆新戰局！券商系統、人力挑戰擴大至複委託 - udn.com",
+      "title": "獨／美股23小時交易將引爆新戰局！券商系統、人力挑戰擴大至複委託 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5od0tiSjB3SHZuV241ZF9fd2plU3BzazJqdGdmMEJiRUNJZERXNDdfRjFsZFNOX29OMnBpZzdYVks0R19VOEljRHVRZkxPUkV40gFWQVVfeXFMT1ZsMkdSLVN0dk11T0pxSHpPaWo1VVR6Uk9iaFdSRVg0U2J2eTV5RnpmVnlmTnZEMGUzOVpYbTUxcnFsQlZaMWkyTDVjbHRmUlZCVnE2alE?oc=5"
+    },
+    {
+      "title": "美國7月CPI符預期、升息壓力降！美股四大指數齊揚、費半飆3% 美光大漲6%、台股ADR一片紅 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOQWNFNWx1UFlNLTZEYTFxdTNQLUN0YTN2c3U4LUtmZnBPT1hJdTNxRzVBVVhWMlBfb09HZjZUNGRBbGhBMHJSV1BXM0N2clVXdWZzZTdEd3k0WDV5eTU1WXJEc3dLS1JLcDlqbHZJY0xBUmwwM1YxcDBDZkpzMkNvUW1PbkxpWGRLV05pMDJ5aUlScWhzVnAxalVITk9tNFNhRlBwX1dRMzZ6NXh2QkZ5LU5FOE9FYlJyTEo4Y1h5VURzQld0cEJRZFlkWndiTFBFWTVKb3lpQnZXMjg4ejdzNURrQmppUk1zbUxVYmNfVFhCS2ZkckhVMmJHLW04SzNoUFBHRmRxaW85VEg5V0pNMXNUYUplU203c3V0enE1TVhlQ0pwRzdLTmF2QTRlOHpqRmVETTUycTRSbEJ6Y2xmQVNvQjU1YWJ1WGhfMFZlZEdsb3pUb0VpWWFpeUdoam5nc1I1SWMxTU9QbVhTZFptU3NyaGU4Rl9GSWJJOW5PeTBJa2ZzRmdGdk1QV2RXU3Boc3FmeHZ1ampSclRTeUxmWA?oc=5"
     },
     {
       "title": "快訊／美股開盤「費半狂飆逾3％」！AI股漲勢不止 - ETtoday財經雲",
@@ -131,10 +135,6 @@
     {
       "title": "黃金創高後拉回！下一步專家全說了 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JRmFraGxKbEFodXhoSTRBZUlSMzdxN1FQQ2NTWHpVakRsajlaR0NKRVBsOGt6N0NwaTNoNloyYjA2Y0UydjNDanN6ZkM2dVdOSGZFLXE4SU5CUEdOT05z?oc=5"
-    },
-    {
-      "title": "美國7月CPI符預期、升息壓力降！美股四大指數齊揚、費半飆3% 美光大漲6%、台股ADR一片紅 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOQWNFNWx1UFlNLTZEYTFxdTNQLUN0YTN2c3U4LUtmZnBPT1hJdTNxRzVBVVhWMlBfb09HZjZUNGRBbGhBMHJSV1BXM0N2clVXdWZzZTdEd3k0WDV5eTU1WXJEc3dLS1JLcDlqbHZJY0xBUmwwM1YxcDBDZkpzMkNvUW1PbkxpWGRLV05pMDJ5aUlScWhzVnAxalVITk9tNFNhRlBwX1dRMzZ6NXh2QkZ5LU5FOE9FYlJyTEo4Y1h5VURzQld0cEJRZFlkWndiTFBFWTVKb3lpQnZXMjg4ejdzNURrQmppUk1zbUxVYmNfVFhCS2ZkckhVMmJHLW04SzNoUFBHRmRxaW85VEg5V0pNMXNUYUplU203c3V0enE1TVhlQ0pwRzdLTmF2QTRlOHpqRmVETTUycTRSbEJ6Y2xmQVNvQjU1YWJ1WGhfMFZlZEdsb3pUb0VpWWFpeUdoam5nc1I1SWMxTU9QbVhTZFptU3NyaGU4Rl9GSWJJOW5PeTBJa2ZzRmdGdk1QV2RXU3Boc3FmeHZ1ampSclRTeUxmWA?oc=5"
     },
     {
       "title": "7月CPI成爲“定方向數據”！不同情景下，美元黃金美股如何反 - capitalfutures.com.tw",
