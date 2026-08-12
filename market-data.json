@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/13 06:19",
+  "updated_tw": "08/13 07:09",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63432.13,
-      "change": -119.745,
-      "changePercent": -0.1884
+      "price": 63357.82,
+      "change": -194.055,
+      "changePercent": -0.3053
     },
     "ETH": {
-      "price": 1877.36,
-      "change": -4.0135,
-      "changePercent": -0.2133
+      "price": 1874.8,
+      "change": -6.5735,
+      "changePercent": -0.3494
     }
   },
   "fx": {
@@ -89,14 +89,14 @@
       "changePercent": 0.0245
     },
     "JPYTWD": {
-      "price": 0.1999,
-      "change": -0.0023,
-      "changePercent": -1.1473
+      "price": 0.2,
+      "change": -0.0022,
+      "changePercent": -1.0978
     },
     "EURTWD": {
-      "price": 37.175,
-      "change": -0.0094,
-      "changePercent": -0.0252
+      "price": 37.181,
+      "change": -0.0034,
+      "changePercent": -0.0091
     },
     "CNYTWD": {
       "price": 4.7797,
@@ -105,17 +105,21 @@
     }
   },
   "gold": {
-    "usd": 4462.8,
-    "twd": 4623.0,
-    "tael": 173346.0,
-    "twdTotal": 143778.0,
-    "changePercent": 1.8207
+    "usd": 4460.6,
+    "twd": 4620.0,
+    "tael": 173261.0,
+    "twdTotal": 143707.0,
+    "changePercent": 1.7705
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "「輝達親兒子」創AI新希望！美股費半漲近3％ 台指期夜盤漲601點 - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQbnhMaldWTkRDZVJ0VENjSllJZFE5MUV3Qmc0cUZLbWJjVGhWMVJUY21teUk5SFFzenNxM3hNOVZwdHBObnZZRVRJM3FRRG5faFVDUlNtNy1CQjZ2Mmt5WXBMdEJENTg0N1RON1BJNVpPNFNUOU1IU1Nra055QXMzMVU0czRVdlpld0hHYVdaQm9UR2lJdlVzOVVsUGZoUXlvWGFXRkdid2Jqd1VQdHBZd2x5SlowV0g4dFFuR01ETkVhZDJfb1ItQkhmLWRmZWtxZFBwV1RPcGRfeU9aa2Q3RWV0cXotWWhSX0ZyYnBwLUNGdkFqN2E0bTFMQTNjOFdPVC03dkozQnY3dUViVE5rTWFrUWRPcENuaEpFOTFKSFh3QnduNjB3d2pLaXJlaWJaM09HY3lJS1VYWVdQeEtXUFY3eDFVTnlkLXBpUE9FeVI4MzlXRU9HeUxSWUhFQ1BnOEdaUXZoMXFuUDlWaGVlQzBQQ1JmR0JXdXc?oc=5"
+    },
     {
       "title": "美國7月CPI符預期、升息壓力降！美股四大指數齊揚、費半飆3% 美光大漲6%、台股ADR一片紅 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOQWNFNWx1UFlNLTZEYTFxdTNQLUN0YTN2c3U4LUtmZnBPT1hJdTNxRzVBVVhWMlBfb09HZjZUNGRBbGhBMHJSV1BXM0N2clVXdWZzZTdEd3k0WDV5eTU1WXJEc3dLS1JLcDlqbHZJY0xBUmwwM1YxcDBDZkpzMkNvUW1PbkxpWGRLV05pMDJ5aUlScWhzVnAxalVITk9tNFNhRlBwX1dRMzZ6NXh2QkZ5LU5FOE9FYlJyTEo4Y1h5VURzQld0cEJRZFlkWndiTFBFWTVKb3lpQnZXMjg4ejdzNURrQmppUk1zbUxVYmNfVFhCS2ZkckhVMmJHLW04SzNoUFBHRmRxaW85VEg5V0pNMXNUYUplU203c3V0enE1TVhlQ0pwRzdLTmF2QTRlOHpqRmVETTUycTRSbEJ6Y2xmQVNvQjU1YWJ1WGhfMFZlZEdsb3pUb0VpWWFpeUdoam5nc1I1SWMxTU9QbVhTZFptU3NyaGU4Rl9GSWJJOW5PeTBJa2ZzRmdGdk1QV2RXU3Boc3FmeHZ1ampSclRTeUxmWA?oc=5"
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CMHR2TFVaWVNHTHQ1UHhqbTNVVkZJaVRBUEFMdDd1TzNKMTZJZnhlUGgzb1FNNFNfSW5WaDJJUGpQNDJTVEg4U0wtZVVjQXRLNklB0gFYQVVfeXFMTmZaRFdWLTV4WlFmVWZXLTk1emFxMmxYSkwyQ2JsNFpoaGFyOEpGNk5weFJJVW1laVZUSm9TSlRaSGtiSVZITFpPNE96VWczOTVKYUNEZjZQXw?oc=5"
     },
     {
+      "title": "《貴金屬》COMEX黃金上漲0.6% ETF持倉增加- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3dHRTMxS2lRcXlOVjFHc0EzVW4zeG9ZQnlRTWNZOGxhTHBqaWVfUDlYYmxWQVBpOGVWSml1eDB2WnZrMHVweHdETWFoVUhUVlBMZlZoQl9YUWU1cFhReXBTazl4OUtJQkwzVFFpLUx0akV3TGdyODhRQU0xU0p6R2VrVXFJU1JBazh1eWpzTjB6UQ?oc=5"
+    },
+    {
       "title": "黃金創高後拉回！下一步專家全說了 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JRmFraGxKbEFodXhoSTRBZUlSMzdxN1FQQ2NTWHpVakRsajlaR0NKRVBsOGt6N0NwaTNoNloyYjA2Y0UydjNDanN6ZkM2dVdOSGZFLXE4SU5CUEdOT05z?oc=5"
     },
     {
-      "title": "【0807台股盤後】川普變數+非農前夕，台股震盪洗盤回守均線，哪些族群表現強勢？營收創高模範生:上銀、鼎元、聯茂 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNVmxjdzVYVE9GSWhGYmtHblNTMTg4dnRPQU03Z0prRzZyY3NGWllpa3FHeUZ0NmJHS0pCbHROT3J5S2dxYWZCWktRVHVIN0xQX0FfMW9USF8xX1BkdkJCSC1vOEVIeHRkUnZOVFdSaEFkRmozRlFZRlpkRVVGYkxqbWprdTQwRjNOME9iX3pPQzZJRWdNdU1UN2hZVWxvQWNsb3hNdGRlQXZOalg5YXViQk5nZVNYRWVjbm03OWlOQ194SlZmU3VnTXlwemFEZ09LUFpndzRpb0gtRW9MQjZpTzhCVEp0aGRTNWI2ekpNQjUzd1lVS1dvcTY0aVU5LTJoNVlRaUJnMEVtN3N3NzZROThycTRVTkNIbndDY2NMYlFNRHRabDIwVE8tMEdUNkdWQkZxWmJXLW0zSWRUSHFzVGRzakhCS050ajlJa1hoVEdZalRhSXBNV212Z0JkN25MRmdQUDBWZDJMYm1NelJuNWRWbkZzSmw2QjZzWHRRT2Y0V2JyOFJXTHd2NG4tNkRoZUdVZGtRQUM0M0puSmQ2LTBtVURlcHdpakdfQTZRVEswOXY0TDdVUlBXYzM3Z1ZfTjJpYXhLSXVMdGNuajd6UmdqQXh3YWEtYlFCMmhxX1dlV1hsX2ttWHlESmxKVU9UOUlrc3JNSzd0Nzd3YnNrUkRKcmdnMDlwMjFGYWlBRE1xS3Q4MnZhN24xeHFzOFpFUWw5OGYzRVlXOUZabkJ3YjBhcF90bGxjUnI2TFhjbWFiV3lPcUMybnVNcFladnhoTlQ5Q2thYVNqNVpNVDJxWlp4cEZMUXV6NWlPNEpoc2hUeGsybDlSZE1GNTZyN3NqTkNGSGRNM012SG5ROE96Rg?oc=5"
-    },
-    {
-      "title": "主動式台股基金 犀利 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94aU10RXlraWYtUC1Db21GYV9fTEdYaGR4QmROdUJ2dG83UzhGV2U0R3JrSFdGMXQxYi1sNWVkaVVya3ZIZ3dBXzlwNlJCR0Q4TDEwZlQ0UVJYd9IBX0FVX3lxTE5IYmc0UGJyWm4wM2Q1cFFzWHFneVVTZEZIUlB0UEppWDc1eGRPQk9jc2Jua1Q0QkZWS1lZODNuUlNrSnRTOXc0X28tOWZGUjhuWW9IV1lMYzFEd3hCbXpN?oc=5"
-    },
-    {
-      "title": "別只盯台股！企業獲利創2021年來最強 美股10強名單出爐 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPVGw3ZGUtWXU1VmN6d2xtb2RJV0xhZ0NmWS1MVGNZY1N4c2haVjRFSzZzbHZIbXgxRU90WHhuSHNqdzVWc1d1VTNFMGdEcGU1X1pacHJmcWo2X0Q3NEdGcExtQ01OR2hQUTZ2a3drMkhQZGdxb2FVSldVdFN1TUNHLU1DMWdJZ3I5RnV6UDlKdnhSLXRBYVZHZTJzME9YSTNIWDlRcmZJSF84dFVnN24yZFlJOEZVUm10UWNCd0NTZktDT2YwTk91T18xcVJ2RkhpZllaazFrbzZiY01nUzZUM0tsazNDTUwwWFlQT1Q5ei1neFlIY29fcDlKcG5GYmgtOXdoRTItUHN2bVhsM2w5WkpSMmtHdVllTVFEYmp3Wm1KMHo5M1BXUzZxd2Z5bWdNYlkwcVU5N0Y1Q3F0dGE0WnViQWZHMDk5LTdjWVY1d1FOVE5Kc1JQOTZ3?oc=5"
+      "title": "美股迎24/5新時代那斯達克23小時交易12月6日上線| 證券 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyS0ZxNUJmQXd5UGJwSS0wUlVGajViTnE4aUZ4S0h4QmJkanhueFpGOHlmY3NCeG5XLXBaVFFMQ3VXdEVUWDV4SE5MVW9hdmJ1anl5VlhiNENmblpUQlE?oc=5"
     }
   ]
 }
