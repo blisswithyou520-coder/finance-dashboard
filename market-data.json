@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/13 04:41",
+  "updated_tw": "08/13 05:28",
   "taiwan": {
     "2330": {
       "price": 2415.0,
-      "change": 35.0,
-      "changePercent": 1.4706
+      "change": 20.0,
+      "changePercent": 0.8351
     },
     "2454": {
       "price": 4015.0,
-      "change": 55.0,
-      "changePercent": 1.3889
+      "change": -5.0,
+      "changePercent": -0.1244
     },
     "2317": {
       "price": 270.0,
-      "change": 5.5,
-      "changePercent": 2.0794
+      "change": 7.0,
+      "changePercent": 2.6616
     },
     "0050": {
       "price": 105.2,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63497.09,
-      "change": -54.785,
-      "changePercent": -0.0862
+      "price": 63399.58,
+      "change": -152.295,
+      "changePercent": -0.2396
     },
     "ETH": {
-      "price": 1885.07,
-      "change": 3.6965,
-      "changePercent": 0.1965
+      "price": 1872.64,
+      "change": -8.7335,
+      "changePercent": -0.4642
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.215,
-      "change": 0.0059,
-      "changePercent": 0.0183
+      "price": 32.217,
+      "change": 0.0079,
+      "changePercent": 0.0245
     },
     "JPYTWD": {
       "price": 0.1999,
@@ -94,9 +94,9 @@
       "changePercent": -1.1473
     },
     "EURTWD": {
-      "price": 37.17,
-      "change": -0.0144,
-      "changePercent": -0.0386
+      "price": 37.167,
+      "change": -0.0174,
+      "changePercent": -0.0467
     },
     "CNYTWD": {
       "price": 4.7854,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4467.5,
-    "twd": 4627.0,
-    "tael": 173518.0,
-    "twdTotal": 143921.0,
-    "changePercent": 1.9279
+    "usd": 4469.0,
+    "twd": 4629.0,
+    "tael": 173587.0,
+    "twdTotal": 143978.0,
+    "changePercent": 1.9621
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,24 +125,24 @@
       "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQX183aW1aVm9VdGtyOTZTaVY2d0hEeW1TTWQ2NnI0UkhHQW1PdGJUVEJ0NmZ6dWRHNlc2dnk0aWNwQjhIWGxJRnVhV1BISFA2TDNGRTJkUXljWnFFRkF4MFZmZk0xb0sxRm9SRGF2cnRtdUJLU0xTQlI4ZUtaV3pDbXFQSzhiOUZYakhNOF9DYmx6RURsS2NlRkhCeWhPLWI4RTNOYjBfQlMzZy1WdVNRU1JRRUJ1TVB4VW1RT0k2eVRxYnNnbGlubEFGMlBCVFZSUzlydWFyZ2haS0tOcnduWi0tZml0M0pxVzBua2pRekt4eWhraDBOTVRYdk94blRaQXhqOWFhWDQtSENsZlNXVTAtWUtidGh4R0d4eUlGbWx3ak5OcEE4TnM4TVNBLXV6UWlmUFpGczBrWmVLeFlSeHBRRkY0dDB3MkN5Xy1oS2M2ZUxLQTljUE42VlBuZDV4b1FhQTJ1UE16U0lrN0hnWUktY3ZyVWJxbDllX1lGN0gxSVZwOUUwUlIwUWZ6UUR0VTlBODUwc0h2QkJSdXhhRng5ajAzOGdydk9lTmkzOFR0dGVZYkx0R3dUcDM4WC1KeGg5djV5UjJDUFNBcnowZVg4NWI3cGYtdkpsUDd5ck8?oc=5"
     },
     {
-      "title": "獨／美股23小時交易將引爆新戰局！券商系統、人力挑戰擴大至複委託 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5od0tiSjB3SHZuV241ZF9fd2plU3BzazJqdGdmMEJiRUNJZERXNDdfRjFsZFNOX29OMnBpZzdYVks0R19VOEljRHVRZkxPUkV40gFWQVVfeXFMT1ZsMkdSLVN0dk11T0pxSHpPaWo1VVR6Uk9iaFdSRVg0U2J2eTV5RnpmVnlmTnZEMGUzOVpYbTUxcnFsQlZaMWkyTDVjbHRmUlZCVnE2alE?oc=5"
-    },
-    {
       "title": "快訊／美股開盤「費半狂飆逾3％」！AI股漲勢不止 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SVS10cE1taGpmUUxvd1d2UFRzYk5GZjdrUG5oOUUyQV9hV0lGM20yaUJoVUEtVGs5dFhKTk1KTWdLUFROU0praGxjMGpsX0F4ZkHSAVBBVV95cUxOZ2NvazZ3eDZqcTBPbi0zSV95b1hPa3lfU1ZrdU45UW12QlFTRjBtaGJhSG9XM3JNR2NzdVV4TndkVklGdEktUHJrZ0lPQ1JqQw?oc=5"
-    },
-    {
-      "title": "黃金創高後拉回！下一步專家全說了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JRmFraGxKbEFodXhoSTRBZUlSMzdxN1FQQ2NTWHpVakRsajlaR0NKRVBsOGt6N0NwaTNoNloyYjA2Y0UydjNDanN6ZkM2dVdOSGZFLXE4SU5CUEdOT05z?oc=5"
     },
     {
       "title": "美股ETF 長線買點到 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CMHR2TFVaWVNHTHQ1UHhqbTNVVkZJaVRBUEFMdDd1TzNKMTZJZnhlUGgzb1FNNFNfSW5WaDJJUGpQNDJTVEg4U0wtZVVjQXRLNklB0gFYQVVfeXFMTmZaRFdWLTV4WlFmVWZXLTk1emFxMmxYSkwyQ2JsNFpoaGFyOEpGNk5weFJJVW1laVZUSm9TSlRaSGtiSVZITFpPNE96VWczOTVKYUNEZjZQXw?oc=5"
     },
     {
-      "title": "美國CPI將公布！9月升息成絕響？黃金成為下一匹黑馬？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxObExvX1dzMmFrRUZaYXBLYU9LdG9ZemdCem9QeWZTR2dsOTdUZFpyWlZhRVVfQ1pCYnBQODZWeDlERHRrLTBHRnFGaDhHeGpSeTUyYTBnQXh5UHVNVl80bFZkVWRMTEoyY2NWa3VFMWxvSkpYQUhJX05udk5tY0lpam9zZERsLXFvMkI0UXhXLWdmN0pFTFc1QlBkcjFOUVJwSXkyc0tDaFY3S2xyYU9ubnNVZ0x6REFOTVEtNGdaYVlKTzYxOWJaRGRUYVV1bmJGZ3UxclkxWEprQl9rZ0s0dDNDNTNxTlBJaGs0NEU0RW1aZWNXTndudVlVZVhqeDhOdmE3NVpJMU16eGwyaFVlaVBrWTBpdkc4NnhHT3g4TFZQR0xhQlNkTkpfTk9oV2ZRZmlPXzFwQmpFcjRQazRINmhFcWpNTG0xSS1GaXpETDI1MDNmZjFVWkxvNHJYOTExZE81U294ekRIdE5FOFFXeE5Hcnc3ZHU3azZuWDdLWV9mMDVzcS1CNW1HY1pYRVlBSUFuNXZFNFhRZHc?oc=5"
+      "title": "黃金創高後拉回！下一步專家全說了 - ec.ltn.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JRmFraGxKbEFodXhoSTRBZUlSMzdxN1FQQ2NTWHpVakRsajlaR0NKRVBsOGt6N0NwaTNoNloyYjA2Y0UydjNDanN6ZkM2dVdOSGZFLXE4SU5CUEdOT05z?oc=5"
+    },
+    {
+      "title": "【0807台股盤後】川普變數+非農前夕，台股震盪洗盤回守均線，哪些族群表現強勢？營收創高模範生:上銀、鼎元、聯茂 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNVmxjdzVYVE9GSWhGYmtHblNTMTg4dnRPQU03Z0prRzZyY3NGWllpa3FHeUZ0NmJHS0pCbHROT3J5S2dxYWZCWktRVHVIN0xQX0FfMW9USF8xX1BkdkJCSC1vOEVIeHRkUnZOVFdSaEFkRmozRlFZRlpkRVVGYkxqbWprdTQwRjNOME9iX3pPQzZJRWdNdU1UN2hZVWxvQWNsb3hNdGRlQXZOalg5YXViQk5nZVNYRWVjbm03OWlOQ194SlZmU3VnTXlwemFEZ09LUFpndzRpb0gtRW9MQjZpTzhCVEp0aGRTNWI2ekpNQjUzd1lVS1dvcTY0aVU5LTJoNVlRaUJnMEVtN3N3NzZROThycTRVTkNIbndDY2NMYlFNRHRabDIwVE8tMEdUNkdWQkZxWmJXLW0zSWRUSHFzVGRzakhCS050ajlJa1hoVEdZalRhSXBNV212Z0JkN25MRmdQUDBWZDJMYm1NelJuNWRWbkZzSmw2QjZzWHRRT2Y0V2JyOFJXTHd2NG4tNkRoZUdVZGtRQUM0M0puSmQ2LTBtVURlcHdpakdfQTZRVEswOXY0TDdVUlBXYzM3Z1ZfTjJpYXhLSXVMdGNuajd6UmdqQXh3YWEtYlFCMmhxX1dlV1hsX2ttWHlESmxKVU9UOUlrc3JNSzd0Nzd3YnNrUkRKcmdnMDlwMjFGYWlBRE1xS3Q4MnZhN24xeHFzOFpFUWw5OGYzRVlXOUZabkJ3YjBhcF90bGxjUnI2TFhjbWFiV3lPcUMybnVNcFladnhoTlQ5Q2thYVNqNVpNVDJxWlp4cEZMUXV6NWlPNEpoc2hUeGsybDlSZE1GNTZyN3NqTkNGSGRNM012SG5ROE96Rg?oc=5"
+    },
+    {
+      "title": "主動式台股基金 犀利 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94aU10RXlraWYtUC1Db21GYV9fTEdYaGR4QmROdUJ2dG83UzhGV2U0R3JrSFdGMXQxYi1sNWVkaVVya3ZIZ3dBXzlwNlJCR0Q4TDEwZlQ0UVJYd9IBX0FVX3lxTE5IYmc0UGJyWm4wM2Q1cFFzWHFneVVTZEZIUlB0UEppWDc1eGRPQk9jc2Jua1Q0QkZWS1lZODNuUlNrSnRTOXc0X28tOWZGUjhuWW9IV1lMYzFEd3hCbXpN?oc=5"
     },
     {
       "title": "別只盯台股！企業獲利創2021年來最強 美股10強名單出爐 - Yahoo新聞",
