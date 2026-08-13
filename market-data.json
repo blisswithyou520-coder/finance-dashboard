@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/14 05:20",
+  "updated_tw": "08/14 06:10",
   "taiwan": {
     "2330": {
       "price": 2435.0,
-      "change": 40.0,
-      "changePercent": 1.6701
+      "change": 20.0,
+      "changePercent": 0.8282
     },
     "2454": {
       "price": 4225.0,
-      "change": 205.0,
-      "changePercent": 5.0995
+      "change": 210.0,
+      "changePercent": 5.2304
     },
     "2317": {
       "price": 262.0,
-      "change": -1.0,
-      "changePercent": -0.3802
+      "change": -8.0,
+      "changePercent": -2.963
     },
     "0050": {
       "price": 106.7,
-      "change": 2.45,
-      "changePercent": 2.3501
+      "change": 2.1,
+      "changePercent": 2.0076
     },
     "00878": {
       "price": 33.78,
-      "change": 0.38,
-      "changePercent": 1.1377
+      "change": 0.31,
+      "changePercent": 0.9262
     },
     "00919": {
       "price": 30.41,
-      "change": 0.38,
-      "changePercent": 1.2654
+      "change": 0.29,
+      "changePercent": 0.9628
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63381.49,
-      "change": -20.9436,
-      "changePercent": -0.033
+      "price": 63507.84,
+      "change": 105.4064,
+      "changePercent": 0.1662
     },
     "ETH": {
-      "price": 1885.65,
-      "change": 7.515,
-      "changePercent": 0.4001
+      "price": 1889.86,
+      "change": 11.725,
+      "changePercent": 0.6243
     }
   },
   "fx": {
@@ -94,9 +94,9 @@
       "changePercent": -1.4388
     },
     "EURTWD": {
-      "price": 37.074,
-      "change": -0.0481,
-      "changePercent": -0.1295
+      "price": 37.081,
+      "change": -0.0411,
+      "changePercent": -0.1107
     },
     "CNYTWD": {
       "price": 4.7705,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4407.1,
-    "twd": 4551.0,
-    "tael": 170667.0,
-    "twdTotal": 141556.0,
-    "changePercent": -0.0408
+    "usd": 4408.0,
+    "twd": 4552.0,
+    "tael": 170702.0,
+    "twdTotal": 141585.0,
+    "changePercent": -0.0204
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -123,6 +123,10 @@
     {
       "title": "〈美股早盤〉Fed升息警報降溫！主要指數開高 標普再攻歷史新高 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EVVY4WVVlSkNSekV1WFc1c3o4eDlaZ0hxWFcybndrblpqaUV2b3lxQUlIU0RCRUxNNERaM0RDVGxYNUNSejJQcXZNNll4dzA?oc=5"
+    },
+    {
+      "title": "美股不用熬夜買了？那斯達克23小時交易12/6上路！日券商跟進，台灣呢？－中央社 - 商周",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZQjVyYTdYS3BvbTBPZ2RQdGUtVDlzUFlZY1YyVkJ3WV9oMUZRc0hnaThuTHN5N2REMHdrUzFkYkc4dlc2cWZZUG1LUlVHN1RZYXJ6aDlmNDVGdlBSaG5xU2hkUEp2QQ?oc=5"
     },
     {
       "title": "南韓央行避險 大買黃金資產 - UDN",
@@ -143,10 +147,6 @@
     {
       "title": "美股ETF 三族群帶財| 存股族愛ETF | 股市 - UDN",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EeVBvYkNWV3NTRHNnMXRtbmNFODBtQVFuOHF0aGpfTWhoQ2xlek9uTlQtNmRSMXd1S1JvNGFiTjdabGNwSTliNGVjVmFpRXhHZXA5STA3U0V3YnRpX2NGeEJSWDItd1QxNjJHNXMzb3pBRmR4?oc=5"
-    },
-    {
-      "title": "超過 14 億美元加密貨幣期權今日到期，BTC 最大痛點 6.4 萬美元 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBES014aGVxUTdUOWZkS0xpaE9Nc0JnaU1vVy1wOWt1STliSXl0TTBUMjVXVjZJSUViRDY4V1B0UTVfOUNtem96S1BRYw?oc=5"
     }
   ]
 }
