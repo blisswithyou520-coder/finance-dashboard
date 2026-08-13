@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/14 06:10",
+  "updated_tw": "08/14 07:02",
   "taiwan": {
     "2330": {
       "price": 2435.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63507.84,
-      "change": 105.4064,
-      "changePercent": 0.1662
+      "price": 63450.01,
+      "change": 47.5764,
+      "changePercent": 0.075
     },
     "ETH": {
-      "price": 1889.86,
-      "change": 11.725,
-      "changePercent": 0.6243
+      "price": 1886.05,
+      "change": 7.915,
+      "changePercent": 0.4214
     }
   },
   "fx": {
@@ -94,22 +94,22 @@
       "changePercent": -1.4388
     },
     "EURTWD": {
-      "price": 37.081,
-      "change": -0.0411,
-      "changePercent": -0.1107
+      "price": 37.085,
+      "change": -0.0371,
+      "changePercent": -0.0999
     },
     "CNYTWD": {
-      "price": 4.7705,
+      "price": 4.7653,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4408.0,
-    "twd": 4552.0,
-    "tael": 170702.0,
-    "twdTotal": 141585.0,
-    "changePercent": -0.0204
+    "usd": 4410.9,
+    "twd": 4555.0,
+    "tael": 170815.0,
+    "twdTotal": 141678.0,
+    "changePercent": 0.0454
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "美股收盤》通膨緩解、科技股提振！標普創新高 台積電ADR上漲 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02cUlpU0w3bmhwM09LMDZRN1drVWstWTkxR05iUTI2QUhxZ0xCN2NRSmxmUEU1Q3RTTlhwVk1LT3ZqQjZObXllSnFSYUJDLWZ5YlZWLW54NFAwUDF2UDZV?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉PPI意外持平 油價挫逾2% SanDisk暴漲超13% 標普締歷史新高 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81YUNWX3pEWjM4RUpMN29aU3JaaUZ3QkFMWks3XzMwRzVFUUZLZHRUTVMzQkFKbTh2ZDNva2FUS2V4TjFiM1pLV2YwMEFYWW8?oc=5"
+    },
+    {
       "title": "歷史警示：美股現三大崩盤訊號 估值與債務創新高 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPVUEtTDhyU0pGTF9Dald4OHlpMVg3SEZOZDFyVU9WYWJOT0pVOVV3dGg2Z1RoN3dsT3ZFanZMelc0Y0dISjJFYkQtU1VkbGljMU15NFlKTW1jc0tTa1FCcW10SmZIR0EwYkVTM21iTF9Ob21kRjJ6anh0VTFJRFRLZ3phMjg3d2VwSmtqeXY3WENrN0FkN0stb2R4SExicUcxeUJTZVlHelJBV0ZEZHhWcTlBV1hBMkdLV1F5VlNUZUFpdHpsWEVVSUxGX2Y0cEdGT0lZaldYdTVpSUJMa1pzdkFTM3c3dTZjSVlRZkpRN2xxSE5pem5nVWJWb2lsRXpvNmpjM0tjaFZNeDJ0VXlFR2xEcGFneWRlY2hwWm1UVE1tVWw2V2lRRGJQUkZkOE56ZGhMVHhqUEI4NVNhRENzOXZaRWZ3UDhnSDljdkc3TEdzREk0WFZHcFhB?oc=5"
     },
     {
-      "title": "〈美股早盤〉Fed升息警報降溫！主要指數開高 標普再攻歷史新高 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EVVY4WVVlSkNSekV1WFc1c3o4eDlaZ0hxWFcybndrblpqaUV2b3lxQUlIU0RCRUxNNERaM0RDVGxYNUNSejJQcXZNNll4dzA?oc=5"
-    },
-    {
-      "title": "美股不用熬夜買了？那斯達克23小時交易12/6上路！日券商跟進，台灣呢？－中央社 - 商周",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZQjVyYTdYS3BvbTBPZ2RQdGUtVDlzUFlZY1YyVkJ3WV9oMUZRc0hnaThuTHN5N2REMHdrUzFkYkc4dlc2cWZZUG1LUlVHN1RZYXJ6aDlmNDVGdlBSaG5xU2hkUEp2QQ?oc=5"
-    },
-    {
-      "title": "南韓央行避險 大買黃金資產 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTT2Q0YzAzeloxMElsQ215QVltenJ5ZzIwTVBZdkVoNWZfVk5EdW9UZUgtOXZLZXB2TDVDcHBpNFJhalI4R3hXeGFvME9Jak5j0gFWQVVfeXFMTzhON2RybEZSUzI4eTZuR3poMlV5R1pISE1yMG5SWENvRnN1LUsxZl9GaDRLeE5OU183SWRqVDJCVThFZUQ0Zk5EeC0yLTFaRUNPWGRuc0E?oc=5"
+      "title": "升息疑慮降助美股收漲標普500再創歷史新高| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yenVGS1gwQzdLbHdib2pkNWpabmJQVGtYM3hPd09JTnZUQmxGU1EwNnRXTEdZbmFnc3A4eEJVU1NUaWRfOVUtcTZ0YnBJZXVq?oc=5"
     },
     {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
     },
     {
-      "title": "黃金又創2個月新高！但「一大變數」恐釀金價大反轉 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOaWozU1RwR3hZRVdEMFd6Q2tyNHdLOF9VZ1pNRDBFNjFmLTJRMWJhUFhiZGkzOWVrSndQcFU0M0hMTWpSMDYyWEpZZ1h0SFMxNTgtdjFaUjZqUWlfUmxr?oc=5"
+      "title": "《貴金屬》短線獲利了結 COMEX黃金下跌1.1% - 期權 - 新聞 - MoneyDJ理財網",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOWFMX1RWZnhlTTFjME5oRV9rS2dSdGxJV0E3RVlfS0RzOUlST0laOU9aSGZrd1BPZGRnX3dUX2w4TjBKd2ZYWU9OeHhONDQ4X283bVNIZVFSTVhrcWNGWWFqb2plRXRJN0wwb2pVX2UtRzNQc05RYUxTZzlsZ1BsQmEyclpwTjA?oc=5"
+    },
+    {
+      "title": "升息疑慮降助美股收漲標普500再創歷史新高| 證券 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10a0xHa25Wc3lNNUtxT0g2elpad3FsQ1I3MThyQnNIVHh5WVR3VENiLVd6TE8tcWs0ZmxaYkhtWUMxWlBqT1k3b1JLTGgtU0tVSmtwdmdPZU03MkptelE?oc=5"
     },
     {
       "title": "金價衝上2個月新高！黃金大多頭：拋售已結束 很快將重返「這價位」 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxONWd3WjU3aEF2T3Nubjh0Rl9YRXZ2ZjdFb3lEalRVTXFucVZ1YW93N3JDWVhVRVlCLWVaREVGNFk3TTdpb0ZQNmNINmJWaGQzelVRNXlvTjlyZV9ZWUZncDZXMGZKamtRdUtkWHdhZ3dVVE5RZGN5b3pJaHpuSUcwOGtmYTlja09QNEI5Y19PV0NfR3E5OWE1N196NGhRTC1JMFo0Z2R2YTVVTElqczdoc1NBYkVpX0diekdwT29ZS3NiUGlNN3o0OHlWaWpSa2NvMWdYbXNxcjBxZXZfTUJuSXFucjhFb0xLT0NvX2NINlRELURiU3BFRGdQR1JtTGFzUFZ0QzE2UzIyR1phaWRuaEg5NzJoNy1kRHBQM1RzaDZiNHplTGk2Wkx4cXBEQ0NoRXl3Q1R2ZEdFajZudGJwYU9nQ1ItTXJPdExRa3l1LXlsVzBMRDREQ1dyUVdubl9Xc0RTbkh1ZzhfdzVrWlRDTjFQOHlhUU5YT09pY2xZak5aZ21IajR6TTlja2ZDQUpXWFE?oc=5"
-    },
-    {
-      "title": "美股ETF 三族群帶財| 存股族愛ETF | 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EeVBvYkNWV3NTRHNnMXRtbmNFODBtQVFuOHF0aGpfTWhoQ2xlek9uTlQtNmRSMXd1S1JvNGFiTjdabGNwSTliNGVjVmFpRXhHZXA5STA3U0V3YnRpX2NGeEJSWDItd1QxNjJHNXMzb3pBRmR4?oc=5"
     }
   ]
 }
