@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/14 04:22",
+  "updated_tw": "08/14 05:20",
   "taiwan": {
     "2330": {
       "price": 2435.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63384.96,
-      "change": -17.4736,
-      "changePercent": -0.0276
+      "price": 63381.49,
+      "change": -20.9436,
+      "changePercent": -0.033
     },
     "ETH": {
-      "price": 1885.76,
-      "change": 7.625,
-      "changePercent": 0.406
+      "price": 1885.65,
+      "change": 7.515,
+      "changePercent": 0.4001
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.113,
-      "change": -0.0893,
-      "changePercent": -0.2773
+      "price": 32.12,
+      "change": -0.0823,
+      "changePercent": -0.2556
     },
     "JPYTWD": {
-      "price": 0.1991,
-      "change": -0.003,
-      "changePercent": -1.4883
+      "price": 0.1992,
+      "change": -0.0029,
+      "changePercent": -1.4388
     },
     "EURTWD": {
-      "price": 37.062,
-      "change": -0.0601,
-      "changePercent": -0.1619
+      "price": 37.074,
+      "change": -0.0481,
+      "changePercent": -0.1295
     },
     "CNYTWD": {
-      "price": 4.7622,
+      "price": 4.7705,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4405.8,
-    "twd": 4549.0,
-    "tael": 170580.0,
-    "twdTotal": 141483.0,
-    "changePercent": -0.0703
+    "usd": 4407.1,
+    "twd": 4551.0,
+    "tael": 170667.0,
+    "twdTotal": 141556.0,
+    "changePercent": -0.0408
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,8 +125,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EVVY4WVVlSkNSekV1WFc1c3o4eDlaZ0hxWFcybndrblpqaUV2b3lxQUlIU0RCRUxNNERaM0RDVGxYNUNSejJQcXZNNll4dzA?oc=5"
     },
     {
-      "title": "美股ETF 三族群帶財| 存股族愛ETF | 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EeVBvYkNWV3NTRHNnMXRtbmNFODBtQVFuOHF0aGpfTWhoQ2xlek9uTlQtNmRSMXd1S1JvNGFiTjdabGNwSTliNGVjVmFpRXhHZXA5STA3U0V3YnRpX2NGeEJSWDItd1QxNjJHNXMzb3pBRmR4?oc=5"
+      "title": "南韓央行避險 大買黃金資產 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTT2Q0YzAzeloxMElsQ215QVltenJ5ZzIwTVBZdkVoNWZfVk5EdW9UZUgtOXZLZXB2TDVDcHBpNFJhalI4R3hXeGFvME9Jak5j0gFWQVVfeXFMTzhON2RybEZSUzI4eTZuR3poMlV5R1pISE1yMG5SWENvRnN1LUsxZl9GaDRLeE5OU183SWRqVDJCVThFZUQ0Zk5EeC0yLTFaRUNPWGRuc0E?oc=5"
     },
     {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxONWd3WjU3aEF2T3Nubjh0Rl9YRXZ2ZjdFb3lEalRVTXFucVZ1YW93N3JDWVhVRVlCLWVaREVGNFk3TTdpb0ZQNmNINmJWaGQzelVRNXlvTjlyZV9ZWUZncDZXMGZKamtRdUtkWHdhZ3dVVE5RZGN5b3pJaHpuSUcwOGtmYTlja09QNEI5Y19PV0NfR3E5OWE1N196NGhRTC1JMFo0Z2R2YTVVTElqczdoc1NBYkVpX0diekdwT29ZS3NiUGlNN3o0OHlWaWpSa2NvMWdYbXNxcjBxZXZfTUJuSXFucjhFb0xLT0NvX2NINlRELURiU3BFRGdQR1JtTGFzUFZ0QzE2UzIyR1phaWRuaEg5NzJoNy1kRHBQM1RzaDZiNHplTGk2Wkx4cXBEQ0NoRXl3Q1R2ZEdFajZudGJwYU9nQ1ItTXJPdExRa3l1LXlsVzBMRDREQ1dyUVdubl9Xc0RTbkh1ZzhfdzVrWlRDTjFQOHlhUU5YT09pY2xZak5aZ21IajR6TTlja2ZDQUpXWFE?oc=5"
     },
     {
-      "title": "南韓央行避險 大買黃金資產 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTT2Q0YzAzeloxMElsQ215QVltenJ5ZzIwTVBZdkVoNWZfVk5EdW9UZUgtOXZLZXB2TDVDcHBpNFJhalI4R3hXeGFvME9Jak5j0gFWQVVfeXFMTzhON2RybEZSUzI4eTZuR3poMlV5R1pISE1yMG5SWENvRnN1LUsxZl9GaDRLeE5OU183SWRqVDJCVThFZUQ0Zk5EeC0yLTFaRUNPWGRuc0E?oc=5"
+      "title": "美股ETF 三族群帶財| 存股族愛ETF | 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EeVBvYkNWV3NTRHNnMXRtbmNFODBtQVFuOHF0aGpfTWhoQ2xlek9uTlQtNmRSMXd1S1JvNGFiTjdabGNwSTliNGVjVmFpRXhHZXA5STA3U0V3YnRpX2NGeEJSWDItd1QxNjJHNXMzb3pBRmR4?oc=5"
     },
     {
-      "title": "【0813台股盤後】台股開高走低上漲503 點！美 CPI 降溫帶動半導體與被動元件走強，MSCI 季調記憶體轉強，「強勢動能排行」: 力積電、南亞科、信昌電｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiggZBVV95cUxQam1YdjFkUjVLdkNJVEw5Ty1WM0VVMXFWQ1lNTVk4TE1Eek1ldGU1LTFuQjFpbmZvY0REcTltWlBvckg4SUlsaDlxUUtFajkzMEw4QmpBUkJzZUFrMWF5a1h0czRJNUNvekFBSzRiTWh4ZGxUSjRzQWVIcU5KWVk5SVF6WjFvRlZ4Rm5YbVY0NlVENTF4SUVNaDNOYmJLaWJaQ2dnanNwNml2VkdtSF9XWUVlUnh3dnAwQnRzNk5PejBwT1lEaGpzQmlxQmVoX3R4cjJ0X2YtbmFBY0k5cmJhMldxT240UG95clJxejRIbldBaEZaSk1ZV21URTlHNDQ5Q3pjYVBBd3lYMXN1MXVUT3pSclZSeUVoVjR1RDV0Mkp0OG1MZ1RnU0hsNG1pV3ZLVzFkQ2FRRTVEOUlLUTFnRVpSbF9UdFZwNWVrbV80LW53bTNxdmdkYkxiRTNKbjdtOWFOY1V3WUIzRDlPQm1IOHQxR1RZVXVHdTFvU1lCQXV0RHlNSkJ3NlBRU3gtbzJVdGZKamFja2lWMGhFdmctNWhCb21XVVFLMV9rZ09BSXU0TzE5VEJGS1BIcjVEUklFLTd3UUVzWS1LcU1RcDRmSktOUEFTblhYRTI3bTkzcDlPWWRlV3k5VVpic1FLSkpiSXlsNnBzMzg4cmJCczE3M0MxeVRyM2RaTFlXUUItTVRwMmdpLTl6YkJTWXRIcGJxcEtPMGJpOGxxZWVsZ2tENHpISEQwSG1fOVlpb3phRFRZT1JDNlgxcXhjQi1fa2pBZ3VxNWNmRUYyeFN5ZGxQWC02Sm9TcUY0U1k2N2oybkxJekRqZjVfZGxOTGlqTVhKRk1CWVRqcmZ0Zk10bXIzdFJlV1lvelcyZm1QRTVxYlZWck9xNzBXTUZCNG5ZV0FwWmFqTWE5WkE0Yl9CMFVESml5TTRvb0NnTGNLWm5XcDU0QUI0bFFFSWpNeVJJV0RfTFpoTlVPdG9KUXNqQTAwQ2hmREhmQVUzdnU4U01aQl9uZw?oc=5"
+      "title": "超過 14 億美元加密貨幣期權今日到期，BTC 最大痛點 6.4 萬美元 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBES014aGVxUTdUOWZkS0xpaE9Nc0JnaU1vVy1wOWt1STliSXl0TTBUMjVXVjZJSUViRDY4V1B0UTVfOUNtem96S1BRYw?oc=5"
     }
   ]
 }
