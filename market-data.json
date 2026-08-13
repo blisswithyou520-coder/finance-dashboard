@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/13 12:24",
+  "updated_tw": "08/13 13:56",
   "taiwan": {
     "2330": {
-      "price": 2430.0,
-      "change": 15.0,
-      "changePercent": 0.6211
+      "price": 2435.0,
+      "change": 20.0,
+      "changePercent": 0.8282
     },
     "2454": {
-      "price": 4210.0,
-      "change": 195.0,
-      "changePercent": 4.8568
+      "price": 4225.0,
+      "change": 210.0,
+      "changePercent": 5.2304
     },
     "2317": {
-      "price": 262.5,
-      "change": -7.5,
-      "changePercent": -2.7778
+      "price": 262.0,
+      "change": -8.0,
+      "changePercent": -2.963
     },
     "0050": {
-      "price": 106.55,
-      "change": 1.95,
-      "changePercent": 1.8642
+      "price": 106.7,
+      "change": 2.1,
+      "changePercent": 2.0076
     },
     "00878": {
-      "price": 33.71,
-      "change": 0.24,
-      "changePercent": 0.7171
+      "price": 33.78,
+      "change": 0.31,
+      "changePercent": 0.9262
     },
     "00919": {
-      "price": 30.38,
-      "change": 0.26,
-      "changePercent": 0.8632
+      "price": 30.41,
+      "change": 0.29,
+      "changePercent": 0.9628
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63537.94,
-      "change": -13.935,
-      "changePercent": -0.0219
+      "price": 63831.12,
+      "change": 279.245,
+      "changePercent": 0.4394
     },
     "ETH": {
-      "price": 1884.15,
-      "change": 2.7765,
-      "changePercent": 0.1476
+      "price": 1894.95,
+      "change": 13.5765,
+      "changePercent": 0.7216
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.152,
-      "change": -0.0571,
-      "changePercent": -0.1773
+      "price": 32.161,
+      "change": -0.0481,
+      "changePercent": -0.1493
     },
     "JPYTWD": {
-      "price": 0.1995,
-      "change": -0.0027,
-      "changePercent": -1.3451
+      "price": 0.1997,
+      "change": -0.0025,
+      "changePercent": -1.2462
     },
     "EURTWD": {
-      "price": 37.091,
-      "change": -0.0934,
-      "changePercent": -0.2511
+      "price": 37.11,
+      "change": -0.0744,
+      "changePercent": -0.2
     },
     "CNYTWD": {
-      "price": 4.7751,
+      "price": 4.7757,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4451.9,
-    "twd": 4602.0,
-    "tael": 172574.0,
-    "twdTotal": 143137.0,
-    "changePercent": 0.9753
+    "usd": 4444.7,
+    "twd": 4596.0,
+    "tael": 172343.0,
+    "twdTotal": 142946.0,
+    "changePercent": 0.812
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,7 +117,7 @@
   },
   "news": [
     {
-      "title": "美股拍板重大變革！那斯達克「這天起」23小時交易 - tw.stock.yahoo.com",
+      "title": "美股拍板重大變革！那斯達克「這天起」23小時交易 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPeEk5bWgxTWdkLVpESVE2Z3h6ZHVJYTZNOWdKdDdoZHFXRnpNRDlwSUVYSURNSXdDWVh3eUhkY0Y0MEkyTnVPVEpMWGl5WXk1ZmM3eUFPbzlFbHRSMUlOSloxTk5meFBjSG1abXhubFo0R2t4VmlLQktZTWpnNEg1bDZ4UUZLMHgtY2FrOVNLMC1fczFJNEliSUE3V1JmQUxmOV9qNlZFTkI0R0cxUi1IRWd6ajN0RS14MlRubmg5VnVQejRvc3RGR3c3cm9DTmFjZ2ZkVFoyYVBfM0JydXZBRjVERGhYTFZZNkYyU19OX3hVdkpmaVZYM0lCc05pakc1ZHNZM2pSTFFTVmpmU3p6U2RraUhldERSSzVMaFVRa1I1QmtiSUY0SUtJTmg0OEZtYUtKM3RXNVo3c2RxMmU2ejZXa0NRUQ?oc=5"
     },
     {
@@ -133,16 +133,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13ZnRWakVEOUN1MW5PSHcybUlycU9sdmFwZDRSd2xOLUhnZkZTWEZwX2lvNU13WEtTV05xakhCcTYxVEtkR2EweW5Jd01NZ0k?oc=5"
     },
     {
-      "title": "挪威主權基金台股買什麼？最新持股曝光，5招學國家級ETF存股術！｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNcXZsUjNTd2Nyc3paRnE5VXVpbzlMYllCMXlVY3FvS2sySy1YSnB3Y0VvdFU4ajJWVE5CRVRhenBwUmdvSWUxb3h3UDBWYkNzTzY1NktGSUdncDVheXVyNEgzbUhNWlhDOTJ3SlRvMFdJejhfX01yMjdRdFV4Z0RVZnNqQjVBMnZGalAweDB1T21iRURWeGo1TzdLcmlNUUJvdlJoWnhmNThvTnFvb1N5ajVaVkx0cXVvekI1WDl3RmRJSEFqMmVKYUdTaWFQMDBnY2NqTDEyU2NnbHpzZ1VHMXhUeEtlWXdfblVJNHVNUGZRSlNVSk1DejFPY25ZODZCZEZnZjQtNjdwM3JfV29jQmE0eXRLcjdNSVRYcjZRcGdocTdwTEpoTjRnY0hwS1FsVE04T0xOU1lPWjl0cEk1aldhdUFGS1RMclVNcEVuWkJaOTVDejg2VmRON1hCSHZyYnVYWlRPSG8zdU1hR0ZvV1JkVk9LNE03Zk1VVW5xeWI0ZEU4dXV3eHZjblZrWHdLN2oyR01wcFdvcDdfakVuV2FYRVFaUmw1RDlnNUcxcEttdw?oc=5"
-    },
-    {
       "title": "《貴金屬》COMEX黃金上漲0.6% ETF持倉增加- 新聞 - MoneyDJ理財網",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3dHRTMxS2lRcXlOVjFHc0EzVW4zeG9ZQnlRTWNZOGxhTHBqaWVfUDlYYmxWQVBpOGVWSml1eDB2WnZrMHVweHdETWFoVUhUVlBMZlZoQl9YUWU1cFhReXBTazl4OUtJQkwzVFFpLUx0akV3TGdyODhRQU0xU0p6R2VrVXFJU1JBazh1eWpzTjB6UQ?oc=5"
     },
     {
-      "title": "快訊／美股開盤「費半狂飆逾3％」！AI股漲勢不止 - finance.ettoday.net",
+      "title": "快訊／美股開盤「費半狂飆逾3％」！AI股漲勢不止 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SVS10cE1taGpmUUxvd1d2UFRzYk5GZjdrUG5oOUUyQV9hV0lGM20yaUJoVUEtVGs5dFhKTk1KTWdLUFROU0praGxjMGpsX0F4ZkHSAVBBVV95cUxOZ2NvazZ3eDZqcTBPbi0zSV95b1hPa3lfU1ZrdU45UW12QlFTRjBtaGJhSG9XM3JNR2NzdVV4TndkVklGdEktUHJrZ0lPQ1JqQw?oc=5"
+    },
+    {
+      "title": "【0807台股盤後】川普變數+非農前夕，台股震盪洗盤回守均線，哪些族群表現強勢？營收創高模範生:上銀、鼎元、聯茂 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNVmxjdzVYVE9GSWhGYmtHblNTMTg4dnRPQU03Z0prRzZyY3NGWllpa3FHeUZ0NmJHS0pCbHROT3J5S2dxYWZCWktRVHVIN0xQX0FfMW9USF8xX1BkdkJCSC1vOEVIeHRkUnZOVFdSaEFkRmozRlFZRlpkRVVGYkxqbWprdTQwRjNOME9iX3pPQzZJRWdNdU1UN2hZVWxvQWNsb3hNdGRlQXZOalg5YXViQk5nZVNYRWVjbm03OWlOQ194SlZmU3VnTXlwemFEZ09LUFpndzRpb0gtRW9MQjZpTzhCVEp0aGRTNWI2ekpNQjUzd1lVS1dvcTY0aVU5LTJoNVlRaUJnMEVtN3N3NzZROThycTRVTkNIbndDY2NMYlFNRHRabDIwVE8tMEdUNkdWQkZxWmJXLW0zSWRUSHFzVGRzakhCS050ajlJa1hoVEdZalRhSXBNV212Z0JkN25MRmdQUDBWZDJMYm1NelJuNWRWbkZzSmw2QjZzWHRRT2Y0V2JyOFJXTHd2NG4tNkRoZUdVZGtRQUM0M0puSmQ2LTBtVURlcHdpakdfQTZRVEswOXY0TDdVUlBXYzM3Z1ZfTjJpYXhLSXVMdGNuajd6UmdqQXh3YWEtYlFCMmhxX1dlV1hsX2ttWHlESmxKVU9UOUlrc3JNSzd0Nzd3YnNrUkRKcmdnMDlwMjFGYWlBRE1xS3Q4MnZhN24xeHFzOFpFUWw5OGYzRVlXOUZabkJ3YjBhcF90bGxjUnI2TFhjbWFiV3lPcUMybnVNcFladnhoTlQ5Q2thYVNqNVpNVDJxWlp4cEZMUXV6NWlPNEpoc2hUeGsybDlSZE1GNTZyN3NqTkNGSGRNM012SG5ROE96Rg?oc=5"
     },
     {
       "title": "美股早盤／通膨數據溫和…四大指數齊揚 CoreWeave暴漲18% - UDN",
