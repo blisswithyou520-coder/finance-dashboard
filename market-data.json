@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/14 01:42",
+  "updated_tw": "08/14 02:38",
   "taiwan": {
     "2330": {
       "price": 2435.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 225.525,
-      "change": 1.435,
-      "changePercent": 0.6404
+      "price": 225.72,
+      "change": 1.63,
+      "changePercent": 0.7274
     },
     "AAPL": {
-      "price": 303.355,
-      "change": 1.105,
-      "changePercent": 0.3656
+      "price": 303.385,
+      "change": 1.135,
+      "changePercent": 0.3755
     },
     "TSLA": {
-      "price": 336.29,
-      "change": 8.78,
-      "changePercent": 2.6808
+      "price": 338.605,
+      "change": 11.095,
+      "changePercent": 3.3877
     },
     "QQQ": {
-      "price": 732.67,
-      "change": 8.97,
-      "changePercent": 1.2395
+      "price": 732.72,
+      "change": 9.02,
+      "changePercent": 1.2464
     },
     "SPY": {
-      "price": 776.76,
-      "change": 4.27,
-      "changePercent": 0.5528
+      "price": 777.37,
+      "change": 4.88,
+      "changePercent": 0.6317
     },
     "SCHD": {
-      "price": 34.33,
-      "change": 0.07,
-      "changePercent": 0.2043
+      "price": 34.325,
+      "change": 0.065,
+      "changePercent": 0.1897
     },
     "VOO": {
-      "price": 713.98,
-      "change": 3.81,
-      "changePercent": 0.5365
+      "price": 714.545,
+      "change": 4.375,
+      "changePercent": 0.6161
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63141.2,
-      "change": -261.2336,
-      "changePercent": -0.412
+      "price": 63088.13,
+      "change": -314.3036,
+      "changePercent": -0.4957
     },
     "ETH": {
-      "price": 1876.68,
-      "change": -1.455,
-      "changePercent": -0.0775
+      "price": 1875.89,
+      "change": -2.245,
+      "changePercent": -0.1195
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.105,
-      "change": -0.1041,
-      "changePercent": -0.3232
+      "price": 32.112,
+      "change": -0.0971,
+      "changePercent": -0.3015
     },
     "JPYTWD": {
       "price": 0.1991,
@@ -94,22 +94,22 @@
       "changePercent": -1.5429
     },
     "EURTWD": {
-      "price": 37.055,
-      "change": -0.1294,
-      "changePercent": -0.3479
+      "price": 37.057,
+      "change": -0.1274,
+      "changePercent": -0.3425
     },
     "CNYTWD": {
-      "price": 4.7649,
+      "price": 4.7651,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4419.0,
-    "twd": 4561.0,
-    "tael": 171048.0,
-    "twdTotal": 141872.0,
-    "changePercent": 0.2291
+    "usd": 4414.0,
+    "twd": 4557.0,
+    "tael": 170892.0,
+    "twdTotal": 141742.0,
+    "changePercent": 0.1157
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,20 +129,20 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Ed1RCTTNWTHJ3MGpvMkREeVUzVktFWE9TSVk1azB5ejZ1a0cycXhKN2I5TVpyTTFpaUsya3dkSGN6ZWxxLUFJN3RSY1FWZm1Tal9NMHl3bkJsZGln0gFiQVVfeXFMT3E5SGtNQk5ObXlFX1FOQ1Q4YWZrQzJyZ1k0dUdxNmJ6MU5kTi1xZ1M4X0d6a3V0SUhYTTRNYllXMVVOc3c3MTJsYkJrOW9MRFM4TC1xRHFUYjBzQk0yaVozNUE?oc=5"
     },
     {
-      "title": "黃金又創2個月新高！但「一大變數」恐釀金價大反轉 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOaWozU1RwR3hZRVdEMFd6Q2tyNHdLOF9VZ1pNRDBFNjFmLTJRMWJhUFhiZGkzOWVrSndQcFU0M0hMTWpSMDYyWEpZZ1h0SFMxNTgtdjFaUjZqUWlfUmxr?oc=5"
-    },
-    {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
+    },
+    {
+      "title": "黃金又創2個月新高！但「一大變數」恐釀金價大反轉 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOaWozU1RwR3hZRVdEMFd6Q2tyNHdLOF9VZ1pNRDBFNjFmLTJRMWJhUFhiZGkzOWVrSndQcFU0M0hMTWpSMDYyWEpZZ1h0SFMxNTgtdjFaUjZqUWlfUmxr?oc=5"
     },
     {
       "title": "金價衝上2個月新高！黃金大多頭：拋售已結束 很快將重返「這價位」 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxONWd3WjU3aEF2T3Nubjh0Rl9YRXZ2ZjdFb3lEalRVTXFucVZ1YW93N3JDWVhVRVlCLWVaREVGNFk3TTdpb0ZQNmNINmJWaGQzelVRNXlvTjlyZV9ZWUZncDZXMGZKamtRdUtkWHdhZ3dVVE5RZGN5b3pJaHpuSUcwOGtmYTlja09QNEI5Y19PV0NfR3E5OWE1N196NGhRTC1JMFo0Z2R2YTVVTElqczdoc1NBYkVpX0diekdwT29ZS3NiUGlNN3o0OHlWaWpSa2NvMWdYbXNxcjBxZXZfTUJuSXFucjhFb0xLT0NvX2NINlRELURiU3BFRGdQR1JtTGFzUFZ0QzE2UzIyR1phaWRuaEg5NzJoNy1kRHBQM1RzaDZiNHplTGk2Wkx4cXBEQ0NoRXl3Q1R2ZEdFajZudGJwYU9nQ1ItTXJPdExRa3l1LXlsVzBMRDREQ1dyUVdubl9Xc0RTbkh1ZzhfdzVrWlRDTjFQOHlhUU5YT09pY2xZak5aZ21IajR6TTlja2ZDQUpXWFE?oc=5"
     },
     {
-      "title": "台股逾40家上半年EPS攀峰 法人預期將有更多績優股入列 多頭注強心針 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nS3ZjM1JWS05ITUdxQTJ2eW5qTEd1X2JQbmtVOS0zclYxWTdWaFJqOFJ5TjgtLUF1UVF5ektHNmtPMGRlZEUwYU9UeWwxZlluRXNxd3Vwb1dQZ9IBX0FVX3lxTE5rWTRjaG56cmdBR0ZrQTBCdzNPQ0h5SkVmUXBFRnVWN09Md2FkM2pGSGFBODBaemJpUmY2RDV1RnQ2QVlKU1hMUHFFUG1KUzVrUlR0Um9JalFSdm5CcUVv?oc=5"
+      "title": "美股ETF 三族群帶財| 存股族愛ETF | 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EeVBvYkNWV3NTRHNnMXRtbmNFODBtQVFuOHF0aGpfTWhoQ2xlek9uTlQtNmRSMXd1S1JvNGFiTjdabGNwSTliNGVjVmFpRXhHZXA5STA3U0V3YnRpX2NGeEJSWDItd1QxNjJHNXMzb3pBRmR4?oc=5"
     },
     {
       "title": "〈美股盤後〉溫和CPI消除升息疑慮 費半強漲近2.5% 記憶體類股噴高 - news.cnyes.com",
