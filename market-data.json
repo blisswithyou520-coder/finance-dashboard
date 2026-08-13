@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/13 21:36",
+  "updated_tw": "08/13 22:44",
   "taiwan": {
     "2330": {
       "price": 2435.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 225.97,
-      "change": 1.88,
-      "changePercent": 0.839
+      "price": 225.691,
+      "change": 1.601,
+      "changePercent": 0.7144
     },
     "AAPL": {
-      "price": 303.97,
-      "change": 1.72,
-      "changePercent": 0.5691
+      "price": 305.07,
+      "change": 2.82,
+      "changePercent": 0.933
     },
     "TSLA": {
-      "price": 329.005,
-      "change": 1.495,
-      "changePercent": 0.4565
+      "price": 333.735,
+      "change": 6.225,
+      "changePercent": 1.9007
     },
     "QQQ": {
-      "price": 727.07,
-      "change": 3.37,
-      "changePercent": 0.4657
+      "price": 733.17,
+      "change": 9.47,
+      "changePercent": 1.3086
     },
     "SPY": {
-      "price": 775.79,
-      "change": 3.3,
-      "changePercent": 0.4272
+      "price": 778.77,
+      "change": 6.28,
+      "changePercent": 0.813
     },
     "SCHD": {
-      "price": 34.41,
-      "change": 0.15,
-      "changePercent": 0.4378
+      "price": 34.43,
+      "change": 0.17,
+      "changePercent": 0.4962
     },
     "VOO": {
-      "price": 713.145,
-      "change": 2.975,
-      "changePercent": 0.4189
+      "price": 715.83,
+      "change": 5.66,
+      "changePercent": 0.797
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63677.73,
-      "change": 275.2964,
-      "changePercent": 0.4342
+      "price": 63890.59,
+      "change": 488.1564,
+      "changePercent": 0.7699
     },
     "ETH": {
-      "price": 1891.39,
-      "change": 13.255,
-      "changePercent": 0.7058
+      "price": 1893.92,
+      "change": 15.785,
+      "changePercent": 0.8405
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.101,
-      "change": -0.1081,
-      "changePercent": -0.3356
+      "price": 32.098,
+      "change": -0.1111,
+      "changePercent": -0.3449
     },
     "JPYTWD": {
-      "price": 0.1993,
-      "change": -0.0029,
-      "changePercent": -1.444
+      "price": 0.1994,
+      "change": -0.0028,
+      "changePercent": -1.3945
     },
     "EURTWD": {
-      "price": 37.058,
-      "change": -0.1264,
-      "changePercent": -0.3398
+      "price": 37.066,
+      "change": -0.1184,
+      "changePercent": -0.3183
     },
     "CNYTWD": {
-      "price": 4.7646,
+      "price": 4.7627,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4444.6,
-    "twd": 4587.0,
-    "tael": 172018.0,
-    "twdTotal": 142676.0,
-    "changePercent": 0.8097
+    "usd": 4432.2,
+    "twd": 4574.0,
+    "tael": 171522.0,
+    "twdTotal": 142265.0,
+    "changePercent": 0.5285
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,12 +121,12 @@
       "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPVUEtTDhyU0pGTF9Dald4OHlpMVg3SEZOZDFyVU9WYWJOT0pVOVV3dGg2Z1RoN3dsT3ZFanZMelc0Y0dISjJFYkQtU1VkbGljMU15NFlKTW1jc0tTa1FCcW10SmZIR0EwYkVTM21iTF9Ob21kRjJ6anh0VTFJRFRLZ3phMjg3d2VwSmtqeXY3WENrN0FkN0stb2R4SExicUcxeUJTZVlHelJBV0ZEZHhWcTlBV1hBMkdLV1F5VlNUZUFpdHpsWEVVSUxGX2Y0cEdGT0lZaldYdTVpSUJMa1pzdkFTM3c3dTZjSVlRZkpRN2xxSE5pem5nVWJWb2lsRXpvNmpjM0tjaFZNeDJ0VXlFR2xEcGFneWRlY2hwWm1UVE1tVWw2V2lRRGJQUkZkOE56ZGhMVHhqUEI4NVNhRENzOXZaRWZ3UDhnSDljdkc3TEdzREk0WFZHcFhB?oc=5"
     },
     {
-      "title": "美股不用熬夜買了？那斯達克23小時交易12/6上路！日券商跟進，台灣呢？－中央社｜商周 - 商周",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZQjVyYTdYS3BvbTBPZ2RQdGUtVDlzUFlZY1YyVkJ3WV9oMUZRc0hnaThuTHN5N2REMHdrUzFkYkc4dlc2cWZZUG1LUlVHN1RZYXJ6aDlmNDVGdlBSaG5xU2hkUEp2QQ?oc=5"
+      "title": "〈美股早盤〉Fed升息警報降溫！主要指數開高 標普再攻歷史新高 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EVVY4WVVlSkNSekV1WFc1c3o4eDlaZ0hxWFcybndrblpqaUV2b3lxQUlIU0RCRUxNNERaM0RDVGxYNUNSejJQcXZNNll4dzA?oc=5"
     },
     {
-      "title": "巴西比特幣財庫公司OranjeBTC將推出比特幣生態優先股ETF，預計9月上市 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yT29mOHpsTmF6UGExYk9SY21FU3N0N1dGRV9rSjNnUllfLXh0UnNTa19LMmNrY3AzaHFYelM4LXNfWnN4VW5MRFJqMA?oc=5"
+      "title": "美股不用熬夜買了？那斯達克23小時交易12/6上路！日券商跟進，台灣呢？－中央社 - 商周",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZQjVyYTdYS3BvbTBPZ2RQdGUtVDlzUFlZY1YyVkJ3WV9oMUZRc0hnaThuTHN5N2REMHdrUzFkYkc4dlc2cWZZUG1LUlVHN1RZYXJ6aDlmNDVGdlBSaG5xU2hkUEp2QQ?oc=5"
     },
     {
       "title": "黃金又創2個月新高！但「一大變數」恐釀金價大反轉 - 自由財經",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Ed1RCTTNWTHJ3MGpvMkREeVUzVktFWE9TSVk1azB5ejZ1a0cycXhKN2I5TVpyTTFpaUsya3dkSGN6ZWxxLUFJN3RSY1FWZm1Tal9NMHl3bkJsZGln0gFiQVVfeXFMT3E5SGtNQk5ObXlFX1FOQ1Q4YWZrQzJyZ1k0dUdxNmJ6MU5kTi1xZ1M4X0d6a3V0SUhYTTRNYllXMVVOc3c3MTJsYkJrOW9MRFM4TC1xRHFUYjBzQk0yaVozNUE?oc=5"
     },
     {
-      "title": "深陷「倒貨」疑雲！Metaplanet 否認拋售 3.2 億美元比特幣 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sYUJ1RHhOY2JIaHp5a1gwWTF2b0JrN01ZRlZBU2QtbFdJMnZxY1Q2dVdYeTlGU2ljV1pScEV6RWN3OXd0bVBIbHFURWRjYTVoWWxtRHp2TXJJSUxGVEFUWXQ4RWt2OWwwTnBfdjhwNUYzOUhtVWE5bmVHdw?oc=5"
+      "title": "美股法說CSCO｜思科財報超越預期但股價表現受壓，關注智邦、光聖供應鏈效應(CSCO US)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxOU3hLeVpvZ1RBVUlGUjNMY0RwNXNGQWMxOXJIYlFoemdoeGJXX25EQzhYdkl2a3lZNTVPcU90aGIzMUZLQXB1MkRRSzhyekNGOHFCR3JJb3IzdVNQcUFaSzlJNHltdEs0SWFPN0otTktUQ0dRdVFtZ0E5T1N6R3R6cnVINGpvWVVJTUdNRVBneVFiT3l1NjY3cVNhbE0wRFM0U3pTSkk0SE8waUcwdkgyT2F4cnp5SUNaT0FFR0FIZlRxeVBVeU9zbW1MNTZEckpZbDhoX0o3VV85a2FwZUVJSGpPYWg0ZF8teDFWTFF0YWoyLVMtYnFKS3hxUkkweThkOUV5WWRrMEpMdFpJZDZ6LWJfdEpLZWp5TlpOYU5sZFlqa09oR1RhV2dEMENmemVrZmZfN2ZUWEtTS1Q1V1V2WmZZeVZ6TXh2T0lZeFF5cU9YazdnbFBCWml4SjBQOTFKTy1XOEZfZVNnTmNYbFZIeXd5ZUFVdnAzemF0ZWNlUDgzTlJUb0xRc0ZaZl90Wl9PUHdTUjBlcnhHbkZFMVJodGNZLVdQQmp0cTRLX0lrbWxjSDVzYjBHenVPWUJZOHJjQ0FUQnJaaURIcnU4ZmFqazFPMktHUFRreGEyTjNyN3IwMTZDZ214OEMtZmk2a01NN1ZsbG1B?oc=5"
     },
     {
       "title": "MSCI權重三升台股漲503點重回4萬6今量破兆| 金融 - 非凡新聞台",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBselctc2hzZEw1dGVpWXpCaFVBMWEyV1FTRHFHUGFmU0xoTUlLM2xKNGFLMGV0OHpLNmZINFg2UU45cXJuY3ZQWjB4Vm1jV0N1WFVOYVNTNEQxLUk?oc=5"
     },
     {
-      "title": "科技股走強台股收漲503點成交值重回兆元之上| 證券 - cna.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFb3YyM21CMUc5MjVqa3N5N2VoUnd6NUxOeHZNUG5tbVBlQUk1czlwb2dTbzduQTdIcUVqNk0tdTZVUEtCamU0STVIWVNnSTQzOTdSNjdCZV85Tm5HUGc?oc=5"
+      "title": "外資連4買！台股拱上46K　加碼力積電、調節鴻海 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56YTRmUG5oNWRKZEtER1JIYlpvOEJVMVNzaU82ZzI5TjVhMDIzZmRDc0F3M3kxaVdjbXo1VENKbnRTQzMxUlRqcmZCSGg0NV9hSUHSAVBBVV95cUxNcjhzRXNkR0ZiNW14LVNQT2NKNmJkcF9LM2R5QzUtejZYVHVpaU9neXYxcm1hMmU4dHB2SDlmdHY0TUZzRkRUckNNT3paUkZCeQ?oc=5"
     }
   ]
 }
