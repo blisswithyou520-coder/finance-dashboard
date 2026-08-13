@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/13 16:54",
+  "updated_tw": "08/13 18:03",
   "taiwan": {
     "2330": {
       "price": 2435.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63675.12,
-      "change": 272.6864,
-      "changePercent": 0.4301
+      "price": 63623.6,
+      "change": 221.1664,
+      "changePercent": 0.3488
     },
     "ETH": {
-      "price": 1886.76,
-      "change": 8.625,
-      "changePercent": 0.4592
+      "price": 1881.11,
+      "change": 2.975,
+      "changePercent": 0.1584
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.14,
-      "change": -0.0691,
-      "changePercent": -0.2145
+      "price": 32.126,
+      "change": -0.0831,
+      "changePercent": -0.258
     },
     "JPYTWD": {
       "price": 0.1994,
@@ -94,22 +94,22 @@
       "changePercent": -1.3945
     },
     "EURTWD": {
-      "price": 37.085,
-      "change": -0.0994,
-      "changePercent": -0.2672
+      "price": 37.097,
+      "change": -0.0874,
+      "changePercent": -0.235
     },
     "CNYTWD": {
-      "price": 4.7717,
+      "price": 4.7684,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4430.2,
-    "twd": 4578.0,
-    "tael": 171669.0,
-    "twdTotal": 142387.0,
-    "changePercent": 0.4831
+    "usd": 4437.2,
+    "twd": 4583.0,
+    "tael": 171865.0,
+    "twdTotal": 142549.0,
+    "changePercent": 0.6419
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,20 +117,20 @@
   },
   "news": [
     {
-      "title": "美股收盤／美通膨降溫、AI 財報亮眼 標普逼近歷史新高、費半大漲2.5% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Ed1RCTTNWTHJ3MGpvMkREeVUzVktFWE9TSVk1azB5ejZ1a0cycXhKN2I5TVpyTTFpaUsya3dkSGN6ZWxxLUFJN3RSY1FWZm1Tal9NMHl3bkJsZGln0gFiQVVfeXFMT3E5SGtNQk5ObXlFX1FOQ1Q4YWZrQzJyZ1k0dUdxNmJ6MU5kTi1xZ1M4X0d6a3V0SUhYTTRNYllXMVVOc3c3MTJsYkJrOW9MRFM4TC1xRHFUYjBzQk0yaVozNUE?oc=5"
-    },
-    {
       "title": "黃金又創2個月新高！但「一大變數」恐釀金價大反轉 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOaWozU1RwR3hZRVdEMFd6Q2tyNHdLOF9VZ1pNRDBFNjFmLTJRMWJhUFhiZGkzOWVrSndQcFU0M0hMTWpSMDYyWEpZZ1h0SFMxNTgtdjFaUjZqUWlfUmxr?oc=5"
+    },
+    {
+      "title": "美股收盤／美通膨降溫、AI 財報亮眼 標普逼近歷史新高、費半大漲2.5% - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Ed1RCTTNWTHJ3MGpvMkREeVUzVktFWE9TSVk1azB5ejZ1a0cycXhKN2I5TVpyTTFpaUsya3dkSGN6ZWxxLUFJN3RSY1FWZm1Tal9NMHl3bkJsZGln0gFiQVVfeXFMT3E5SGtNQk5ObXlFX1FOQ1Q4YWZrQzJyZ1k0dUdxNmJ6MU5kTi1xZ1M4X0d6a3V0SUhYTTRNYllXMVVOc3c3MTJsYkJrOW9MRFM4TC1xRHFUYjBzQk0yaVozNUE?oc=5"
     },
     {
       "title": "〈美股盤後〉溫和CPI消除升息疑慮 費半強漲近2.5% 記憶體類股噴高 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13ZnRWakVEOUN1MW5PSHcybUlycU9sdmFwZDRSd2xOLUhnZkZTWEZwX2lvNU13WEtTV05xakhCcTYxVEtkR2EweW5Jd01NZ0k?oc=5"
     },
     {
-      "title": "美國7月CPI符預期、升息壓力降！美股四大指數齊揚、費半飆3% 美光大漲6%、台股ADR一片紅 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOQWNFNWx1UFlNLTZEYTFxdTNQLUN0YTN2c3U4LUtmZnBPT1hJdTNxRzVBVVhWMlBfb09HZjZUNGRBbGhBMHJSV1BXM0N2clVXdWZzZTdEd3k0WDV5eTU1WXJEc3dLS1JLcDlqbHZJY0xBUmwwM1YxcDBDZkpzMkNvUW1PbkxpWGRLV05pMDJ5aUlScWhzVnAxalVITk9tNFNhRlBwX1dRMzZ6NXh2QkZ5LU5FOE9FYlJyTEo4Y1h5VURzQld0cEJRZFlkWndiTFBFWTVKb3lpQnZXMjg4ejdzNURrQmppUk1zbUxVYmNfVFhCS2ZkckhVMmJHLW04SzNoUFBHRmRxaW85VEg5V0pNMXNUYUplU203c3V0enE1TVhlQ0pwRzdLTmF2QTRlOHpqRmVETTUycTRSbEJ6Y2xmQVNvQjU1YWJ1WGhfMFZlZEdsb3pUb0VpWWFpeUdoam5nc1I1SWMxTU9QbVhTZFptU3NyaGU4Rl9GSWJJOW5PeTBJa2ZzRmdGdk1QV2RXU3Boc3FmeHZ1ampSclRTeUxmWA?oc=5"
+      "title": "台股重返「兆元量」！國巨引領被動元件飆風再起 華碩財報點火「雙碩」漲停｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxNTDBlUkE1cjJBbXc5QkRjYk4xaHBFR283YmNHLU5Ub3JBZWE2eW1qbmtRbmRsOVFhQnkycFVZemJSbG8wUGhBMVVGd1R6WnpBa2dHdU9iN05XRnlZSHcxQlZzU0NhMTZDdklycU1lLVZldGJleWR5dlNqWDNYdldEV3VCT2hZNHJtSC1mcC1STXVlcW9JSTJxMDhIR2JyMFl6QjhZeHZvemhqcm1WTDduSXM5NVoyRHZDajNuVUxJZUItSGFRWm03cEJURXIzQWJOd0VmMXh1YUNpYTM2ampFSG5RM1JPM2dfRmY5VGFDZmpEYzVpYjBDWUVSdlg5OWRaT1V5UHNZZENadFFWNi1VSGROSGQ5QnJla1dLUk5qLWh3Yk1pa04yeHZjYWMtb1hna3RaVzlxemE3NjdQTF9tMmNUdm5GVE42YlBlUnZGWXVDTGF3elU3Mng2Qy05cW5RdkRWQjh6UTFTVHlXSDBHTmYtSTJ2QkQ3Q1BzLWN1amVqb3dKbk9uLUdGeGFsWXlxRkEwVklMd2lmdml0ZWZNcFdIdFgxczFNYzFpMmlrM29PcnByM1JqYUJLUHNHN29MQ1AtcVotMFJWRlZZcmZuMlBNeUg4M29hQVdCbUxFemtRRnVuVXZGZDFEX3Zja1lKY083b3JVRFlVaVNFajZ5cXNZamFJcHhTdmtCYnpjSGhWenFWemVXUEo0M2tReUpTVTVEaWM4amhmV2JxY0U1R2lBM3FxV0U?oc=5"
     },
     {
       "title": "挪威主權基金台股買什麼？台積電、聯發科、國巨...最新持股曝光，5招學國家級ETF存股術！｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFb3YyM21CMUc5MjVqa3N5N2VoUnd6NUxOeHZNUG5tbVBlQUk1czlwb2dTbzduQTdIcUVqNk0tdTZVUEtCamU0STVIWVNnSTQzOTdSNjdCZV85Tm5HUGc?oc=5"
     },
     {
-      "title": "《貴金屬》COMEX黃金上漲0.6% ETF持倉增加- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3dHRTMxS2lRcXlOVjFHc0EzVW4zeG9ZQnlRTWNZOGxhTHBqaWVfUDlYYmxWQVBpOGVWSml1eDB2WnZrMHVweHdETWFoVUhUVlBMZlZoQl9YUWU1cFhReXBTazl4OUtJQkwzVFFpLUx0akV3TGdyODhRQU0xU0p6R2VrVXFJU1JBazh1eWpzTjB6UQ?oc=5"
+      "title": "《台股盤後》電子權值股領軍 收漲503點/重返46K - MoneyDJ理財網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjQ5UDdzVlR2ajhtWUpJbkZlYnpmRDRObjdLaDNFMm1FSGVTb1JSMFZUYTRUbzd2QTJxYjJaTWtVbXoxVUc0ZjdjLXdvbmNQM0o0eEVwckNSYTJyX1N6bTdUSWZBa21pWGpMT0ZOc3BfSXBQVm40NFZXZlJzcms3bTQzTFhlZFA1ZXRaYWswdFlzUQ?oc=5"
     },
     {
-      "title": "分析：比特幣短期持有者佔比持續下降，市場或接近熊市末期 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05N2pITFZaZ29qeGZldnBRbXdkZlhxcmh4dlhLZU9vVFFwclBMS0dMRHlKeWNkTWl6VzZEQ1IwcHJlREpVRVdDalVwcw?oc=5"
+      "title": "台股收漲503點站上46K　台積電漲20元至2435 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4bng5aGZYUV8zVXd5QUxKYmFyVjNJMmw2SDlRcUc4eTN6SVRzcVVrVzUyd3RyZ1pIV1EzRkdGbVBxUDI0NkVyN0J6MExDSjhkQUHSAVBBVV95cUxQdWpLLWxod1pBNWhkdVdHZE85MkJlcjc1N0JyQWh1UTRYWXMtTmFkdjZ6YkpfR2lMb1Q1S0VXMDdmaEYwZDkzVld2TDJiYlJLVQ?oc=5"
     }
   ]
 }
