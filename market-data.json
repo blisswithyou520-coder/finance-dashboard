@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/13 19:11",
+  "updated_tw": "08/13 19:59",
   "taiwan": {
     "2330": {
       "price": 2435.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63546.22,
-      "change": 143.7864,
-      "changePercent": 0.2268
+      "price": 63414.9,
+      "change": 12.4664,
+      "changePercent": 0.0197
     },
     "ETH": {
-      "price": 1880.02,
-      "change": 1.885,
-      "changePercent": 0.1004
+      "price": 1878.33,
+      "change": 0.195,
+      "changePercent": 0.0104
     }
   },
   "fx": {
@@ -105,17 +105,21 @@
     }
   },
   "gold": {
-    "usd": 4449.5,
-    "twd": 4594.0,
-    "tael": 172288.0,
-    "twdTotal": 142900.0,
-    "changePercent": 0.9209
+    "usd": 4441.4,
+    "twd": 4586.0,
+    "tael": 171974.0,
+    "twdTotal": 142640.0,
+    "changePercent": 0.7371
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "美股不用熬夜買了？那斯達克23小時交易12/6上路！日券商跟進，台灣呢？－中央社｜商周 - 商周",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZQjVyYTdYS3BvbTBPZ2RQdGUtVDlzUFlZY1YyVkJ3WV9oMUZRc0hnaThuTHN5N2REMHdrUzFkYkc4dlc2cWZZUG1LUlVHN1RZYXJ6aDlmNDVGdlBSaG5xU2hkUEp2QQ?oc=5"
+    },
     {
       "title": "黃金又創2個月新高！但「一大變數」恐釀金價大反轉 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOaWozU1RwR3hZRVdEMFd6Q2tyNHdLOF9VZ1pNRDBFNjFmLTJRMWJhUFhiZGkzOWVrSndQcFU0M0hMTWpSMDYyWEpZZ1h0SFMxNTgtdjFaUjZqUWlfUmxr?oc=5"
@@ -133,10 +137,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13ZnRWakVEOUN1MW5PSHcybUlycU9sdmFwZDRSd2xOLUhnZkZTWEZwX2lvNU13WEtTV05xakhCcTYxVEtkR2EweW5Jd01NZ0k?oc=5"
     },
     {
-      "title": "科技股走強台股收漲503點成交值重回兆元之上| 證券 - cna.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFb3YyM21CMUc5MjVqa3N5N2VoUnd6NUxOeHZNUG5tbVBlQUk1czlwb2dTbzduQTdIcUVqNk0tdTZVUEtCamU0STVIWVNnSTQzOTdSNjdCZV85Tm5HUGc?oc=5"
-    },
-    {
       "title": "深陷「倒貨」疑雲！Metaplanet 否認拋售 3.2 億美元比特幣 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sYUJ1RHhOY2JIaHp5a1gwWTF2b0JrN01ZRlZBU2QtbFdJMnZxY1Q2dVdYeTlGU2ljV1pScEV6RWN3OXd0bVBIbHFURWRjYTVoWWxtRHp2TXJJSUxGVEFUWXQ4RWt2OWwwTnBfdjhwNUYzOUhtVWE5bmVHdw?oc=5"
     },
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBselctc2hzZEw1dGVpWXpCaFVBMWEyV1FTRHFHUGFmU0xoTUlLM2xKNGFLMGV0OHpLNmZINFg2UU45cXJuY3ZQWjB4Vm1jV0N1WFVOYVNTNEQxLUk?oc=5"
     },
     {
-      "title": "《貴金屬》COMEX黃金上漲0.6% ETF持倉增加- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3dHRTMxS2lRcXlOVjFHc0EzVW4zeG9ZQnlRTWNZOGxhTHBqaWVfUDlYYmxWQVBpOGVWSml1eDB2WnZrMHVweHdETWFoVUhUVlBMZlZoQl9YUWU1cFhReXBTazl4OUtJQkwzVFFpLUx0akV3TGdyODhRQU0xU0p6R2VrVXFJU1JBazh1eWpzTjB6UQ?oc=5"
+      "title": "科技股走強台股收漲503點成交值重回兆元之上| 證券 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFb3YyM21CMUc5MjVqa3N5N2VoUnd6NUxOeHZNUG5tbVBlQUk1czlwb2dTbzduQTdIcUVqNk0tdTZVUEtCamU0STVIWVNnSTQzOTdSNjdCZV85Tm5HUGc?oc=5"
     }
   ]
 }
