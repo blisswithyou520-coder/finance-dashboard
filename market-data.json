@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/13 15:37",
+  "updated_tw": "08/13 16:54",
   "taiwan": {
     "2330": {
       "price": 2435.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63824.45,
-      "change": 422.0164,
-      "changePercent": 0.6656
+      "price": 63675.12,
+      "change": 272.6864,
+      "changePercent": 0.4301
     },
     "ETH": {
-      "price": 1896.21,
-      "change": 18.075,
-      "changePercent": 0.9624
+      "price": 1886.76,
+      "change": 8.625,
+      "changePercent": 0.4592
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.167,
-      "change": -0.0421,
-      "changePercent": -0.1307
+      "price": 32.14,
+      "change": -0.0691,
+      "changePercent": -0.2145
     },
     "JPYTWD": {
-      "price": 0.1996,
-      "change": -0.0026,
-      "changePercent": -1.2956
+      "price": 0.1994,
+      "change": -0.0028,
+      "changePercent": -1.3945
     },
     "EURTWD": {
-      "price": 37.105,
-      "change": -0.0794,
-      "changePercent": -0.2134
+      "price": 37.085,
+      "change": -0.0994,
+      "changePercent": -0.2672
     },
     "CNYTWD": {
-      "price": 4.7756,
+      "price": 4.7717,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4432.7,
-    "twd": 4584.0,
-    "tael": 171910.0,
-    "twdTotal": 142587.0,
-    "changePercent": 0.5398
+    "usd": 4430.2,
+    "twd": 4578.0,
+    "tael": 171669.0,
+    "twdTotal": 142387.0,
+    "changePercent": 0.4831
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOQWNFNWx1UFlNLTZEYTFxdTNQLUN0YTN2c3U4LUtmZnBPT1hJdTNxRzVBVVhWMlBfb09HZjZUNGRBbGhBMHJSV1BXM0N2clVXdWZzZTdEd3k0WDV5eTU1WXJEc3dLS1JLcDlqbHZJY0xBUmwwM1YxcDBDZkpzMkNvUW1PbkxpWGRLV05pMDJ5aUlScWhzVnAxalVITk9tNFNhRlBwX1dRMzZ6NXh2QkZ5LU5FOE9FYlJyTEo4Y1h5VURzQld0cEJRZFlkWndiTFBFWTVKb3lpQnZXMjg4ejdzNURrQmppUk1zbUxVYmNfVFhCS2ZkckhVMmJHLW04SzNoUFBHRmRxaW85VEg5V0pNMXNUYUplU203c3V0enE1TVhlQ0pwRzdLTmF2QTRlOHpqRmVETTUycTRSbEJ6Y2xmQVNvQjU1YWJ1WGhfMFZlZEdsb3pUb0VpWWFpeUdoam5nc1I1SWMxTU9QbVhTZFptU3NyaGU4Rl9GSWJJOW5PeTBJa2ZzRmdGdk1QV2RXU3Boc3FmeHZ1ampSclRTeUxmWA?oc=5"
     },
     {
-      "title": "通膨降溫卻激不起浪花！比特幣失守 6.4 萬大關，市場等待 Fed 下一步動向 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjdwWTV5Qk5lc0NSREZqMXdlNW1ZQ3hqbzBXazlsczBmdjVRRkJUN3dqOHhYZW81NGRPY1VlN2NUUF90bVJGY2l1UWI2X1VaVEQtdHVnNmJsNVJfTktteV9SakM3X3ktckh2SUEzN1pmeVIwN2I5T1BVNFo1elRjWUFJUGlGeE84clNMNmw3Yk96WUNV?oc=5"
+      "title": "挪威主權基金台股買什麼？台積電、聯發科、國巨...最新持股曝光，5招學國家級ETF存股術！｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxQckNxc1R5bHduVnAyTzdGak5JR1ZXZS1PSHR3ZEQtUkZuMDQzZGZkQkpab2lyMWJQU2pFdmtpM1RlaTczVTBpUzQ5R2xYenRKb1o4aDFtSEI5OTVEZGRwRm9jQTFGbk54S2xmVnhrSzlERzRtMjNqWTBsRmdVQnZubFNIY1l1NDBlcTBQQ18wNnMzY3FhdVE3R3ZuLVgyTXpiMENoSXZXcnM2Tjh5aktncHJWaDhKWUNBc2NfQ2VGc1UzNFNoaVJseWEyYmE5Zmdvd1dPNy1oQWVFY0VFbVdFYUYzWi1DdEx2NHozbWUtY2Jad25YUF9wMXBiT1RqVzRkcmhsT2NFU2ZZaHdBVjhQRHpwSGlmcWQ5dUdvZ1JPTDVUdENCRkFxS2lMa2Q0NkZPYVg4QWVPcm5SRkdzR3RpS0xiZWpHenBlSi1iZ0NGYUVPSDJhNU5kcUhmNWptRFZteUx2aEhyYU9aLW1NZjQ0NWYwRm5Bbm5JWUV0UTdaZGdkX3V3enUyUVpsZklRSVhpNktzcGV3ZTZhaWNwcjNyWkxOQXVEWTZpVmlFV2hOMGhrSE1HTHY2VlJ2Qm41V1JQZ0JyUk12WUo4eTh1ckt2S2lvRThjSGhrSDRuZlJJejU4LWpZbmZ6SjdfTTVTX2ZURFJWTklNblJuV1ZkUnVmaVowdFhUS29iRVMwOEdvMUZjWjc4dzBWQw?oc=5"
     },
     {
-      "title": "《貴金屬》COMEX黃金上漲0.6% ETF持倉增加- 新聞 - MoneyDJ理財網",
+      "title": "科技股走強台股收漲503點成交值重回兆元之上| 證券 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFb3YyM21CMUc5MjVqa3N5N2VoUnd6NUxOeHZNUG5tbVBlQUk1czlwb2dTbzduQTdIcUVqNk0tdTZVUEtCamU0STVIWVNnSTQzOTdSNjdCZV85Tm5HUGc?oc=5"
+    },
+    {
+      "title": "《貴金屬》COMEX黃金上漲0.6% ETF持倉增加- 新聞 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3dHRTMxS2lRcXlOVjFHc0EzVW4zeG9ZQnlRTWNZOGxhTHBqaWVfUDlYYmxWQVBpOGVWSml1eDB2WnZrMHVweHdETWFoVUhUVlBMZlZoQl9YUWU1cFhReXBTazl4OUtJQkwzVFFpLUx0akV3TGdyODhRQU0xU0p6R2VrVXFJU1JBazh1eWpzTjB6UQ?oc=5"
     },
     {
-      "title": "【0807台股盤後】川普變數+非農前夕，台股震盪洗盤回守均線，哪些族群表現強勢？營收創高模範生:上銀、鼎元、聯茂 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNVmxjdzVYVE9GSWhGYmtHblNTMTg4dnRPQU03Z0prRzZyY3NGWllpa3FHeUZ0NmJHS0pCbHROT3J5S2dxYWZCWktRVHVIN0xQX0FfMW9USF8xX1BkdkJCSC1vOEVIeHRkUnZOVFdSaEFkRmozRlFZRlpkRVVGYkxqbWprdTQwRjNOME9iX3pPQzZJRWdNdU1UN2hZVWxvQWNsb3hNdGRlQXZOalg5YXViQk5nZVNYRWVjbm03OWlOQ194SlZmU3VnTXlwemFEZ09LUFpndzRpb0gtRW9MQjZpTzhCVEp0aGRTNWI2ekpNQjUzd1lVS1dvcTY0aVU5LTJoNVlRaUJnMEVtN3N3NzZROThycTRVTkNIbndDY2NMYlFNRHRabDIwVE8tMEdUNkdWQkZxWmJXLW0zSWRUSHFzVGRzakhCS050ajlJa1hoVEdZalRhSXBNV212Z0JkN25MRmdQUDBWZDJMYm1NelJuNWRWbkZzSmw2QjZzWHRRT2Y0V2JyOFJXTHd2NG4tNkRoZUdVZGtRQUM0M0puSmQ2LTBtVURlcHdpakdfQTZRVEswOXY0TDdVUlBXYzM3Z1ZfTjJpYXhLSXVMdGNuajd6UmdqQXh3YWEtYlFCMmhxX1dlV1hsX2ttWHlESmxKVU9UOUlrc3JNSzd0Nzd3YnNrUkRKcmdnMDlwMjFGYWlBRE1xS3Q4MnZhN24xeHFzOFpFUWw5OGYzRVlXOUZabkJ3YjBhcF90bGxjUnI2TFhjbWFiV3lPcUMybnVNcFladnhoTlQ5Q2thYVNqNVpNVDJxWlp4cEZMUXV6NWlPNEpoc2hUeGsybDlSZE1GNTZyN3NqTkNGSGRNM012SG5ROE96Rg?oc=5"
-    },
-    {
-      "title": "美股早盤／通膨數據溫和…四大指數齊揚 CoreWeave暴漲18% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01UFQ0Qk5QQmhrT1JJQlBHYzlRV1RKa0swWlRLSFp5OFhIZGZPdEE0X2pfd3VTYmJtX283R0VwSmQ1THVTRHBvU0xCbWpIRG1R?oc=5"
+      "title": "分析：比特幣短期持有者佔比持續下降，市場或接近熊市末期 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05N2pITFZaZ29qeGZldnBRbXdkZlhxcmh4dlhLZU9vVFFwclBMS0dMRHlKeWNkTWl6VzZEQ1IwcHJlREpVRVdDalVwcw?oc=5"
     }
   ]
 }
