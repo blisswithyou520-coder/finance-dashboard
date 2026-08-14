@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/14 20:24",
+  "updated_tw": "08/14 21:52",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 225.3,
-      "change": 1.21,
-      "changePercent": 0.54
+      "price": 225.855,
+      "change": 0.555,
+      "changePercent": 0.2463
     },
     "AAPL": {
-      "price": 305.26,
-      "change": 3.01,
-      "changePercent": 0.9959
+      "price": 306.53,
+      "change": 1.27,
+      "changePercent": 0.416
     },
     "TSLA": {
-      "price": 339.96,
-      "change": 12.45,
-      "changePercent": 3.8014
+      "price": 349.56,
+      "change": 9.6,
+      "changePercent": 2.8239
     },
     "QQQ": {
-      "price": 732.07,
-      "change": 8.37,
-      "changePercent": 1.1566
+      "price": 733.77,
+      "change": 1.7,
+      "changePercent": 0.2322
     },
     "SPY": {
-      "price": 777.88,
-      "change": 5.39,
-      "changePercent": 0.6977
+      "price": 778.475,
+      "change": 0.595,
+      "changePercent": 0.0765
     },
     "SCHD": {
-      "price": 34.43,
-      "change": 0.17,
-      "changePercent": 0.4962
+      "price": 34.435,
+      "change": 0.005,
+      "changePercent": 0.0145
     },
     "VOO": {
-      "price": 714.95,
-      "change": 4.78,
-      "changePercent": 0.6731
+      "price": 715.63,
+      "change": 0.68,
+      "changePercent": 0.0951
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62784.73,
-      "change": -617.4419,
-      "changePercent": -0.9738
+      "price": 62559.64,
+      "change": -842.5319,
+      "changePercent": -1.3289
     },
     "ETH": {
-      "price": 1874.8,
-      "change": -9.1913,
-      "changePercent": -0.4879
+      "price": 1864.97,
+      "change": -19.0213,
+      "changePercent": -1.0096
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.943,
-      "change": -0.2593,
-      "changePercent": -0.8052
+      "price": 31.936,
+      "change": -0.2663,
+      "changePercent": -0.827
     },
     "JPYTWD": {
       "price": 0.1989,
@@ -94,22 +94,22 @@
       "changePercent": -1.5873
     },
     "EURTWD": {
-      "price": 37.013,
-      "change": -0.1091,
-      "changePercent": -0.2939
+      "price": 37.046,
+      "change": -0.0761,
+      "changePercent": -0.205
     },
     "CNYTWD": {
-      "price": 4.7476,
+      "price": 4.7433,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4426.7,
-    "twd": 4546.0,
-    "tael": 170482.0,
-    "twdTotal": 141402.0,
-    "changePercent": 1.4461
+    "usd": 4449.3,
+    "twd": 4568.0,
+    "tael": 171315.0,
+    "twdTotal": 142093.0,
+    "changePercent": 1.964
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LeGxxY2xwdkJaSTRCeEF4MVFzRTM3SGR5V1JTY2lqYzhSQldoSE9GNVFPckVOSVNGRUNwLVRhZlpxbTJrXzRZWnBXUQ?oc=5"
     },
     {
-      "title": "黃金創高後！又立馬遭下殺 專家有話要說 - 自由財經",
+      "title": "黃金創高後！又立馬遭下殺 專家有話要說 - ec.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWOVNFOFgtcDRaV1JONUlaVy0tcUhzaUVTVmJ6cjJtZkE2SjA2MWNqYUNrNThiamZ4YVpCZ2NXN1Q1cEctYlNFZkR5emJ1RFpnSkp5R3F2MGNGMnRaZW5F?oc=5"
+    },
+    {
+      "title": "寶可夢卡牌報酬超越標普500與比特幣 收藏品成另類投資新寵 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOQndHMkVEMGJZS0JkN3ZCYlhSRDdPV2lMbkp3TUp3Ym1WcFh5TDhxX3JUcnhkTkU3dDdEbll0SEVTclJnUFAxbDlNLUdMcVhzdm9lU2R4dTRMQXRyRm1obmxxYmR0VnprLVc3NE4yQnhCeTAzM2h2X2V5enU0TDlIUTk1VDdfc3pjTGxRMUthZm85elowX243R2FsOWxXYUxIMDJKWnNZbFhvQlRreEd4UUhCNG9RSE53UDRpUFRya1lBbnE0WE1LcG1iWUZQRldDaVlFUW5yQWdlOEZGeGhLWm1TTzFrTU45elBxV0JfSnZ6ZEs5c25qN3ZwQU1DQVpWejRUNnhZcnhzbnQzbVJHT09mRjFfaEk4bHgzT2pkMzY1SlBqTFItRUZPUXByMkZkMV9SZGgyb05nQWhfbXNJeWlZaEV3YVJHSU41YmY5OVQ4aXhVNi05OU93alZHa2JrWFlJcmpqci1UOXRxTzFGVlE5cEh6WlpWUm04TTk5cUduQldveF9kbC1jTDM?oc=5"
     },
     {
       "title": "2026美股科技股、半導體ETF懶人包：QQQ、SMH、DRAM、00891等11檔完整比較，大戶投複委託也可以買 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOM0VsRzhtU1RlX1diYVZ3dmdQZGVvQ3l6eTZtem1xbEY3N3R5LVljWWtyNllaR3Fic28wRTFHUTJhS2pkanIwb0Z3MXNka3RncS1CTExhbEVuVThGVE9GRFBXLWpoTE1mMm5qY3V2dy12YVBJTHNCVDlEWjlHRU5SVkNaemRCOWl4dm1JeGQ3aDVoRy12RFNLWjh5VFRRWVpFWm9jUjl0RUVFT2FzNmJ1SXVMcmVpRUM0ZUw1eGFhSURIVk5FQkp2UmpzVjBLSllnWHZ6TkNWQ1l2QXhycFdTSTMzRXdUbXNLN0dOVHFoUGstMTRrWWVfRUMwVllYQTNzVXpDOE9VQWNpQ0VkVFhiRUIyYVpyWGplX0x5R3RaOXZVbEowRVpVLTN2YUo5ZzBBWXNtVUNJeUlvUVdaeUc2QXBhUzVBVGpLQjlRQkhWd0NhS3JXMXNHSEJDU2djYXlWcVVXd3pjTS05LUZtSFdhSUl5dUFldklwTVAtZlJBYjg2cUluYTB5Zjh6WGtqWWpJZ2xhWDlvX3VfTnhEbzVtLVV3MjNjb29QU2lXMUV2b1hJZnNVN2NQcTB5REt6alJlODRvWmdoWXd5ay1DYUdKRjdfRWZmWVNPX1RWd1ppVFp0M2JDOHZV?oc=5"
     },
     {
-      "title": "台股周線強噴1585點收紅 權值三王暫休兵 金融軍工兩軍團扛大旗｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQOUt3UUEtcWRiUXZuQkd2RDZmTG0tWFpxYW9vZDFVUTRrekptOFlQNU5JZVhSdG1lMW80M2wyU2NjTGRfdlJ3T2VzaG9waDkzMEk3RExBZU9LekdSTGotSk9jYnZTR1FITkplQ0VxVHJNQUdSSTV4TXlMQU5nb0VoSWtmNEJYVzFVbi0tZ0xXdTVRSE9zaTdyem11bzFRZFlraVd2LUowNlB2ZWxFX3BJdHRoVXVsaXlpdTFMZGZfUWhFa2xfLUlYRnByTmc4WUpBWU9WelJrVTh2aWloYnhETm54Y0JUQVlRcmx0bkJFcl9ZeHY4RFByYzBUMFVndzExTjFJa1ZlWF8xckF0YXRsblB6b3p2ZFN2TEtqM0VMbUdyODF2RXZIT09JUzJOZFpRVFcwby00TVdsWUZQbld3XzFHREJRQTJBQkZWQ2hJTng5eWVxUS1HTHpmdjB4WkU4Y2g1Zi1Yd3EtUFN3WU5ETlNEcEJMM0xlSzRheVB4SE5aZVlyZ0lUTTlvVDVHekU1Z1RaWTZ4WGtOOFRZQWRvMEd4R24yemlRNl9Tc3VTTzE3RzUtcjhJeFZMaWVJZ09UR0xSZ3F1YnZNUWU5dkJxSnE1RkxMMmFGbjQwYnhB?oc=5"
+      "title": "比特幣短線遇亂流免驚！灰度曝「3 大利多」：加密市場正走向「機構化」 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUm9UN0NaclVRVDAxNUZZNlJxY0p2aWllRTFMalR3ME5kazNSenNOVnZyTjk0cFFiOVdwVy1ld0h3RUtGMENtU2pLYXljazBLSU9uV1hSYTZud0ItMHQtSTI5WEtObXJpTC1iVGl2OV82ZGhWVHA5SEJGeE9td01Bb1lmLUdNaGwxWTRBOVJ1UEIxdURkNEs2TGp0TGpBcDNGNm1KNk5pdHhiM1BlZWhwaFRNOTJObThxRDlwMUZfWEZvTFdh?oc=5"
     },
     {
-      "title": "亂世為何人們還是買黃金？台大經濟系教授揭：它是衡量貨幣誠信的一把尺 - wealth.com.tw",
+      "title": "亂世為何人們還是買黃金？台大經濟系教授揭：它是衡量貨幣誠信的一把尺 - 財訊",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HRkpRX3I2M0RHVHhjMFFFTDYxOEVUWnRTSEh5R2lYZlA1M3lZYmZ6SW5LanNNTEw5WVNEMGJpWjQwNmdocU10QnZDcTkyc0FLZkNDdU44eUFDWGFhdS1KamhyQjQ5bDUydXJSMVZBQzg2dENONy1Lc1VhRQ?oc=5"
     },
     {
-      "title": "萬物代幣化！業者算盤打到黃金與銅等實體金屬成籌措資金新管道| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Bd2daVkltYUpRT3F0a3F6ZUdJZGFBLW9IaU93dFZjOTR2RFV6NTk2cWNUOVVjRC0yNHRtMERVVEhuam90ekc4LUpmaUhsOTla?oc=5"
+      "title": "百點上漲、千家下跌 台股假反彈？ - money.udn.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12QXFQazZORUYzbWItVnBIRlM2bnIwX0NwbWt6WkM0clUzNlk0SU03S3JQMmxXNzBaVmpLMlNvVzVETGdySVVxbi0yWVY4NW53OHJfLW9DNFpRQdIBX0FVX3lxTE96VjJJTjFfdmhZYm82Rl9FRjdBZ1luZlJORFBMMmNzT21Lcms0cXc3ZHo1cTRwcnlkWnVXMnNoN1ROMnI4Vk9CRHo1Ti1NZk9iTVFVNmRPMFQtUXhrNHQ0?oc=5"
     },
     {
       "title": "某千幣巨鯨增持300枚比特幣，總BTC持有價值7043百萬美元 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaVlJIOTRxSnBQR1FhVWhUdTBneUxQV1gtdnlTQmJoTFdiZTJyTWJUUmpSZDlUQ1pnMmRqaW9YYlVzRUoxSll5bXNDZw?oc=5"
-    },
-    {
-      "title": "美國CPI、PPI過關之後呢？接下來關注甚麼？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOb2J6aDROTnZVcFI0bFEzcVN5R0h6LWhCa2Rwd2t4b3VIT2VIeW1UaFRPdlgyWDM1a3ZBdGNoVVBUT01KOXlNZGE3LUJsZHE5eE5Obms1RlBDakN0dWhGV2JGRVJuUmt5MVVkNkVmSlhIT2ZwQlBZVTV5SWppREIxOW1WRExGN1hVTTdST2VhUlZoTmgwZ1VWcEhwTTJ2RjJ6RUVwSHV3ZFlpYnZXaVc3N1llaG0yUFEtRnVITUVQQXJnSUhwXzhQUzZvcTg3Y0lvaGhPQlNLZDlpck9DU0NZUEU0NHliY0xzNzROSFdKOVpHbzEyNEYxRHNROWMxYmt0YjVZNlBmTmNGajcxYUZvMTFqUjJicTRiREZWSHhSdE1COHN6dUs4NWFKSmJuSjl3S18yMkVmclRYTVdjM2pkWUhIdVV2Q25HS2FFNEFQbDNVZFo0ZHloYk5laDRpNlJPb3FwcllZNXJKZw?oc=5"
     }
   ]
 }
