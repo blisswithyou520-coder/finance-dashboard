@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/14 17:44",
+  "updated_tw": "08/14 18:42",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62693.53,
-      "change": -708.6419,
-      "changePercent": -1.1177
+      "price": 62794.36,
+      "change": -607.8119,
+      "changePercent": -0.9587
     },
     "ETH": {
-      "price": 1870.51,
-      "change": -13.4813,
-      "changePercent": -0.7156
+      "price": 1874.12,
+      "change": -9.8713,
+      "changePercent": -0.524
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.997,
-      "change": -0.2053,
-      "changePercent": -0.6375
+      "price": 31.995,
+      "change": -0.2073,
+      "changePercent": -0.6437
     },
     "JPYTWD": {
-      "price": 0.1988,
-      "change": -0.0033,
-      "changePercent": -1.6367
+      "price": 0.1989,
+      "change": -0.0032,
+      "changePercent": -1.5873
     },
     "EURTWD": {
-      "price": 37.007,
-      "change": -0.1151,
-      "changePercent": -0.31
+      "price": 37.028,
+      "change": -0.0941,
+      "changePercent": -0.2535
     },
     "CNYTWD": {
-      "price": 4.7528,
+      "price": 4.7525,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4409.2,
-    "twd": 4536.0,
-    "tael": 170095.0,
-    "twdTotal": 141081.0,
-    "changePercent": 1.045
+    "usd": 4405.4,
+    "twd": 4532.0,
+    "tael": 169938.0,
+    "twdTotal": 140951.0,
+    "changePercent": 0.9579
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,8 +117,8 @@
   },
   "news": [
     {
-      "title": "某千幣巨鯨增持300枚比特幣，總BTC持有價值7043百萬美元 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaVlJIOTRxSnBQR1FhVWhUdTBneUxQV1gtdnlTQmJoTFdiZTJyTWJUUmpSZDlUQ1pnMmRqaW9YYlVzRUoxSll5bXNDZw?oc=5"
+      "title": "Hyperscale Data完成出售約685枚比特幣，仍持有約275枚比特幣 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LeGxxY2xwdkJaSTRCeEF4MVFzRTM3SGR5V1JTY2lqYzhSQldoSE9GNVFPckVOSVNGRUNwLVRhZlpxbTJrXzRZWnBXUQ?oc=5"
     },
     {
       "title": "黃金創高後！又立馬遭下殺 專家有話要說 - 自由財經",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQOUt3UUEtcWRiUXZuQkd2RDZmTG0tWFpxYW9vZDFVUTRrekptOFlQNU5JZVhSdG1lMW80M2wyU2NjTGRfdlJ3T2VzaG9waDkzMEk3RExBZU9LekdSTGotSk9jYnZTR1FITkplQ0VxVHJNQUdSSTV4TXlMQU5nb0VoSWtmNEJYVzFVbi0tZ0xXdTVRSE9zaTdyem11bzFRZFlraVd2LUowNlB2ZWxFX3BJdHRoVXVsaXlpdTFMZGZfUWhFa2xfLUlYRnByTmc4WUpBWU9WelJrVTh2aWloYnhETm54Y0JUQVlRcmx0bkJFcl9ZeHY4RFByYzBUMFVndzExTjFJa1ZlWF8xckF0YXRsblB6b3p2ZFN2TEtqM0VMbUdyODF2RXZIT09JUzJOZFpRVFcwby00TVdsWUZQbld3XzFHREJRQTJBQkZWQ2hJTng5eWVxUS1HTHpmdjB4WkU4Y2g1Zi1Yd3EtUFN3WU5ETlNEcEJMM0xlSzRheVB4SE5aZVlyZ0lUTTlvVDVHekU1Z1RaWTZ4WGtOOFRZQWRvMEd4R24yemlRNl9Tc3VTTzE3RzUtcjhJeFZMaWVJZ09UR0xSZ3F1YnZNUWU5dkJxSnE1RkxMMmFGbjQwYnhB?oc=5"
     },
     {
+      "title": "亂世為何人們還是買黃金？台大經濟系教授揭：它是衡量貨幣誠信的一把尺 - 財訊",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HRkpRX3I2M0RHVHhjMFFFTDYxOEVUWnRTSEh5R2lYZlA1M3lZYmZ6SW5LanNNTEw5WVNEMGJpWjQwNmdocU10QnZDcTkyc0FLZkNDdU44eUFDWGFhdS1KamhyQjQ5bDUydXJSMVZBQzg2dENONy1Lc1VhRQ?oc=5"
+    },
+    {
       "title": "萬物代幣化！業者算盤打到黃金與銅等實體金屬成籌措資金新管道| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Bd2daVkltYUpRT3F0a3F6ZUdJZGFBLW9IaU93dFZjOTR2RFV6NTk2cWNUOVVjRC0yNHRtMERVVEhuam90ekc4LUpmaUhsOTla?oc=5"
     },
     {
-      "title": "軍工股飆不敵電子回檔 台股跌210點終結連4漲 - cna.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kZ0hfd19JaWNWclhzbV9xbHd3SWp4NVVYRXRJN1dIYmVoWDVzRExBb2Y4RUI5bnMtNUVRUnBqRDQtOUkxSTlEOXk0c2NENzNmX1ZVSUxiQklIU2FPZVE?oc=5"
+      "title": "《台股盤後》收跌210點、5日線有守；周K連二紅- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWVtUXdHV3JlczBLRWtXYmZCTjZEQ3JHaDN3YnFONEJIRFRmbFlBVEVHM2ZwVUQxWDNJX3pWWW5Ja2Jrc0twZENfQUxjMV8zdUk0NXlSa2RIenlQUXFjNmFubjlyUHlsa1ZrZHplR3Q1LXFrVjBNV3ZxOEF3cDBIYjhJckFfSjdVU3ZBSDlELUVKZw?oc=5"
     },
     {
-      "title": "美股收盤》通膨緩解、科技股提振！標普創新高 台積電ADR上漲 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02cUlpU0w3bmhwM09LMDZRN1drVWstWTkxR05iUTI2QUhxZ0xCN2NRSmxmUEU1Q3RTTlhwVk1LT3ZqQjZObXllSnFSYUJDLWZ5YlZWLW54NFAwUDF2UDZV?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉PPI意外持平 油價挫逾2% SanDisk暴漲超13% 標普締歷史新高 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81YUNWX3pEWjM4RUpMN29aU3JaaUZ3QkFMWks3XzMwRzVFUUZLZHRUTVMzQkFKbTh2ZDNva2FUS2V4TjFiM1pLV2YwMEFYWW8?oc=5"
+      "title": "某千幣巨鯨增持300枚比特幣，總BTC持有價值7043百萬美元 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaVlJIOTRxSnBQR1FhVWhUdTBneUxQV1gtdnlTQmJoTFdiZTJyTWJUUmpSZDlUQ1pnMmRqaW9YYlVzRUoxSll5bXNDZw?oc=5"
     }
   ]
 }
