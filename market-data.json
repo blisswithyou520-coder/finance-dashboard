@@ -1,16 +1,16 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 06:59",
+  "updated_tw": "08/15 07:29",
   "taiwan": {
     "2330": {
       "price": 2395.0,
-      "change": -20.0,
-      "changePercent": -0.8282
+      "change": -40.0,
+      "changePercent": -1.6427
     },
     "2454": {
       "price": 4210.0,
-      "change": 195.0,
-      "changePercent": 4.8568
+      "change": -15.0,
+      "changePercent": -0.355
     },
     "2317": {
       "price": 259.5,
@@ -24,13 +24,13 @@
     },
     "00878": {
       "price": 33.87,
-      "change": 0.4,
-      "changePercent": 1.1951
+      "change": 0.35,
+      "changePercent": 1.0442
     },
     "00919": {
       "price": 30.57,
-      "change": 0.45,
-      "changePercent": 1.494
+      "change": 0.38,
+      "changePercent": 1.2587
     }
   },
   "us": {
@@ -72,26 +72,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62823.06,
-      "change": -579.1119,
-      "changePercent": -0.9134
+      "price": 62880.48,
+      "change": -521.6919,
+      "changePercent": -0.8228
     },
     "ETH": {
-      "price": 1878.06,
-      "change": -5.9313,
-      "changePercent": -0.3148
+      "price": 1879.08,
+      "change": -4.9113,
+      "changePercent": -0.2607
     }
   },
   "fx": {
     "USDTWD": {
       "price": 32.004,
-      "change": -0.1983,
-      "changePercent": -0.6158
+      "change": -0.1201,
+      "changePercent": -0.3739
     },
     "JPYTWD": {
       "price": 0.1987,
-      "change": -0.0034,
-      "changePercent": -1.6862
+      "change": -0.0028,
+      "changePercent": -1.3729
     },
     "EURTWD": {
       "price": 37.074,
@@ -129,12 +129,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xOXpMR2JVUExWQVZRdm1fVThuRE9YWEMwYVZ6c29yQ2x1aUJGaUdocVdtLWU2ZGZpY2ZLejBJemxiQ0I2aGZfN0FEWmRGTWVM?oc=5"
     },
     {
-      "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
+      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
     },
     {
-      "title": "黃金創高後！又立馬遭下殺 專家有話要說 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWOVNFOFgtcDRaV1JONUlaVy0tcUhzaUVTVmJ6cjJtZkE2SjA2MWNqYUNrNThiamZ4YVpCZ2NXN1Q1cEctYlNFZkR5emJ1RFpnSkp5R3F2MGNGMnRaZW5F?oc=5"
+      "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
     },
     {
       "title": "美股全面收黑！零售數據疲軟拖累　台積電ADR跌0.96% - ETtoday財經雲",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUm9UN0NaclVRVDAxNUZZNlJxY0p2aWllRTFMalR3ME5kazNSenNOVnZyTjk0cFFiOVdwVy1ld0h3RUtGMENtU2pLYXljazBLSU9uV1hSYTZud0ItMHQtSTI5WEtObXJpTC1iVGl2OV82ZGhWVHA5SEJGeE9td01Bb1lmLUdNaGwxWTRBOVJ1UEIxdURkNEs2TGp0TGpBcDNGNm1KNk5pdHhiM1BlZWhwaFRNOTJObThxRDlwMUZfWEZvTFdh?oc=5"
     },
     {
-      "title": "周末前市場氣氛保守 美股收黑 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kaVowaFlCZlppbUxUOThNNFhSdFF3YUN6ZEswUmRkYTJUbjZDQjdWbHJlNWFacWFsM1FQOVdXdTF4WjlfaFlOTjB5RTdlUXVJY3B5ZlhqbXo5VzE30gFiQVVfeXFMTVlKdGh3MFhReDZBRC1FZy1pUVF6dTdmUWNUS21TRkVyZ2JHWVlLSFVDQ1Z1b3p1T1JmTHdBak81bzFYYTN6RURjWkxycGJnM2VtSXB5VURxbXJUck9NQ0RWQUE?oc=5"
+      "title": "星期一開盤慘了？美股全面收黑 台指期夜盤也下殺 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVVZrbWJhV1VLUXNmR1JPNHlRQjNHNVNuNXNhSGZSNU5LLUpqRnN5dUpUWFEySHVuV1cxM1ZRc2Nmb3VLOUtzWTZoZWxwSkJ4OXRvOFB2RkJ1Qjk3ZzNobzI4eVlwa3VUVlNwdVBxQURkbHdoekQ0LTRpbDJSUEtGWmRUZ19jTWtocWlab0RlcmpmYzZlaUExUi0wT1pqWnJyMVBhRTZqS2ZPM3Y2bE9FTmRVY3dqMlNNQzQzV0VIS1drWnN6ZWxWRVdCRjI3NDJyZWhVcnFNaHR4d0luSGljRjFQMWFiVV9vcnFMLWRINUJwMWJ6NExNU0xzeTlWT2VYRnAtSFlPUXVCTU45U2R1ZzNTa282ZURpZ2JlUDJXdHhQakdHS1o0Y1plclVjVDQ2aVZTMkh4SmlfYm5LUXRVZmZxWGdLdEdEZDhaUHVHTQ?oc=5"
     }
   ]
 }
