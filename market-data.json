@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 03:47",
+  "updated_tw": "08/15 04:29",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 225.09,
-      "change": -0.21,
-      "changePercent": -0.0932
+      "price": 225.16,
+      "change": -0.14,
+      "changePercent": -0.0621
     },
     "AAPL": {
-      "price": 305.69,
-      "change": 0.43,
-      "changePercent": 0.1409
+      "price": 305.93,
+      "change": 0.67,
+      "changePercent": 0.2195
     },
     "TSLA": {
-      "price": 341.385,
-      "change": 1.425,
-      "changePercent": 0.4192
+      "price": 342.27,
+      "change": 2.31,
+      "changePercent": 0.6795
     },
     "QQQ": {
-      "price": 730.1,
-      "change": -1.97,
-      "changePercent": -0.2691
+      "price": 731.07,
+      "change": -1.0,
+      "changePercent": -0.1366
     },
     "SPY": {
-      "price": 776.03,
-      "change": -1.85,
-      "changePercent": -0.2378
+      "price": 776.34,
+      "change": -1.54,
+      "changePercent": -0.198
     },
     "SCHD": {
-      "price": 34.49,
-      "change": 0.06,
-      "changePercent": 0.1743
+      "price": 34.52,
+      "change": 0.09,
+      "changePercent": 0.2614
     },
     "VOO": {
-      "price": 713.34,
-      "change": -1.61,
-      "changePercent": -0.2252
+      "price": 713.61,
+      "change": -1.34,
+      "changePercent": -0.1874
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62892.69,
-      "change": -509.4819,
-      "changePercent": -0.8036
+      "price": 62877.67,
+      "change": -524.5019,
+      "changePercent": -0.8273
     },
     "ETH": {
-      "price": 1878.13,
-      "change": -5.8613,
-      "changePercent": -0.3111
+      "price": 1878.0,
+      "change": -5.9913,
+      "changePercent": -0.318
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.981,
-      "change": -0.2213,
-      "changePercent": -0.6872
+      "price": 32.0,
+      "change": -0.1241,
+      "changePercent": -0.3863
     },
     "JPYTWD": {
-      "price": 0.1985,
-      "change": -0.0036,
-      "changePercent": -1.7852
+      "price": 0.1986,
+      "change": -0.0029,
+      "changePercent": -1.4226
     },
     "EURTWD": {
-      "price": 37.049,
-      "change": -0.0731,
-      "changePercent": -0.1969
+      "price": 37.066,
+      "change": 0.0157,
+      "changePercent": 0.0424
     },
     "CNYTWD": {
-      "price": 4.7523,
+      "price": 4.754,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4433.2,
-    "twd": 4558.0,
-    "tael": 170935.0,
-    "twdTotal": 141778.0,
-    "changePercent": 1.595
+    "usd": 4429.1,
+    "twd": 4557.0,
+    "tael": 170879.0,
+    "twdTotal": 141731.0,
+    "changePercent": 1.5011
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,16 +133,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWOVNFOFgtcDRaV1JONUlaVy0tcUhzaUVTVmJ6cjJtZkE2SjA2MWNqYUNrNThiamZ4YVpCZ2NXN1Q1cEctYlNFZkR5emJ1RFpnSkp5R3F2MGNGMnRaZW5F?oc=5"
     },
     {
-      "title": "美國CPI、PPI過關之後呢？接下來關注甚麼？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOb2J6aDROTnZVcFI0bFEzcVN5R0h6LWhCa2Rwd2t4b3VIT2VIeW1UaFRPdlgyWDM1a3ZBdGNoVVBUT01KOXlNZGE3LUJsZHE5eE5Obms1RlBDakN0dWhGV2JGRVJuUmt5MVVkNkVmSlhIT2ZwQlBZVTV5SWppREIxOW1WRExGN1hVTTdST2VhUlZoTmgwZ1VWcEhwTTJ2RjJ6RUVwSHV3ZFlpYnZXaVc3N1llaG0yUFEtRnVITUVQQXJnSUhwXzhQUzZvcTg3Y0lvaGhPQlNLZDlpck9DU0NZUEU0NHliY0xzNzROSFdKOVpHbzEyNEYxRHNROWMxYmt0YjVZNlBmTmNGajcxYUZvMTFqUjJicTRiREZWSHhSdE1COHN6dUs4NWFKSmJuSjl3S18yMkVmclRYTVdjM2pkWUhIdVV2Q25HS2FFNEFQbDNVZFo0ZHloYk5laDRpNlJPb3FwcllZNXJKZw?oc=5"
-    },
-    {
-      "title": "比特幣短線遇亂流免驚！灰度曝「3 大利多」：加密市場正走向「機構化」 - blockcast.it",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUm9UN0NaclVRVDAxNUZZNlJxY0p2aWllRTFMalR3ME5kazNSenNOVnZyTjk0cFFiOVdwVy1ld0h3RUtGMENtU2pLYXljazBLSU9uV1hSYTZud0ItMHQtSTI5WEtObXJpTC1iVGl2OV82ZGhWVHA5SEJGeE9td01Bb1lmLUdNaGwxWTRBOVJ1UEIxdURkNEs2TGp0TGpBcDNGNm1KNk5pdHhiM1BlZWhwaFRNOTJObThxRDlwMUZfWEZvTFdh?oc=5"
+      "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
     },
     {
       "title": "台股開盤一度衝破4萬6400點 分析師看好長期國際資金投入 - 公視新聞網PNN",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHVHdydkt1M3BUS1V4UVRXZmV1WVREamhBSjFQRmt4dVZydXpDeEZ0Z1A2dGpoYXhubEVzREhjVUs3MXhsQzdPcU1hMzdZNEU?oc=5"
+    },
+    {
+      "title": "比特幣短線遇亂流免驚！灰度曝「3 大利多」：加密市場正走向「機構化」 - blockcast.it",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUm9UN0NaclVRVDAxNUZZNlJxY0p2aWllRTFMalR3ME5kazNSenNOVnZyTjk0cFFiOVdwVy1ld0h3RUtGMENtU2pLYXljazBLSU9uV1hSYTZud0ItMHQtSTI5WEtObXJpTC1iVGl2OV82ZGhWVHA5SEJGeE9td01Bb1lmLUdNaGwxWTRBOVJ1UEIxdURkNEs2TGp0TGpBcDNGNm1KNk5pdHhiM1BlZWhwaFRNOTJObThxRDlwMUZfWEZvTFdh?oc=5"
     },
     {
       "title": "快訊／美股開盤費半下挫 「這記憶體大廠」逆勢漲4.66% - Yahoo新聞",
