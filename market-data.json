@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/14 21:52",
+  "updated_tw": "08/14 22:49",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -35,29 +35,29 @@
   },
   "us": {
     "NVDA": {
-      "price": 225.855,
-      "change": 0.555,
-      "changePercent": 0.2463
+      "price": 226.704,
+      "change": 1.404,
+      "changePercent": 0.6232
     },
     "AAPL": {
-      "price": 306.53,
-      "change": 1.27,
-      "changePercent": 0.416
+      "price": 305.26,
+      "change": -0.0,
+      "changePercent": -0.0
     },
     "TSLA": {
-      "price": 349.56,
-      "change": 9.6,
-      "changePercent": 2.8239
+      "price": 342.6,
+      "change": 2.64,
+      "changePercent": 0.7766
     },
     "QQQ": {
-      "price": 733.77,
-      "change": 1.7,
-      "changePercent": 0.2322
+      "price": 731.25,
+      "change": -0.82,
+      "changePercent": -0.112
     },
     "SPY": {
-      "price": 778.475,
-      "change": 0.595,
-      "changePercent": 0.0765
+      "price": 777.24,
+      "change": -0.64,
+      "changePercent": -0.0823
     },
     "SCHD": {
       "price": 34.435,
@@ -65,51 +65,51 @@
       "changePercent": 0.0145
     },
     "VOO": {
-      "price": 715.63,
-      "change": 0.68,
-      "changePercent": 0.0951
+      "price": 714.457,
+      "change": -0.493,
+      "changePercent": -0.069
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62559.64,
-      "change": -842.5319,
-      "changePercent": -1.3289
+      "price": 62679.98,
+      "change": -722.1919,
+      "changePercent": -1.1391
     },
     "ETH": {
-      "price": 1864.97,
-      "change": -19.0213,
-      "changePercent": -1.0096
+      "price": 1868.29,
+      "change": -15.7013,
+      "changePercent": -0.8334
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.936,
-      "change": -0.2663,
-      "changePercent": -0.827
+      "price": 31.951,
+      "change": -0.2513,
+      "changePercent": -0.7804
     },
     "JPYTWD": {
-      "price": 0.1989,
-      "change": -0.0032,
-      "changePercent": -1.5873
+      "price": 0.1988,
+      "change": -0.0033,
+      "changePercent": -1.6367
     },
     "EURTWD": {
-      "price": 37.046,
-      "change": -0.0761,
-      "changePercent": -0.205
+      "price": 37.053,
+      "change": -0.0691,
+      "changePercent": -0.1861
     },
     "CNYTWD": {
-      "price": 4.7433,
+      "price": 4.7445,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4449.3,
-    "twd": 4568.0,
-    "tael": 171315.0,
-    "twdTotal": 142093.0,
-    "changePercent": 1.964
+    "usd": 4444.3,
+    "twd": 4565.0,
+    "tael": 171203.0,
+    "twdTotal": 142000.0,
+    "changePercent": 1.8494
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,7 +121,7 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LeGxxY2xwdkJaSTRCeEF4MVFzRTM3SGR5V1JTY2lqYzhSQldoSE9GNVFPckVOSVNGRUNwLVRhZlpxbTJrXzRZWnBXUQ?oc=5"
     },
     {
-      "title": "黃金創高後！又立馬遭下殺 專家有話要說 - ec.ltn.com.tw",
+      "title": "黃金創高後！又立馬遭下殺 專家有話要說 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWOVNFOFgtcDRaV1JONUlaVy0tcUhzaUVTVmJ6cjJtZkE2SjA2MWNqYUNrNThiamZ4YVpCZ2NXN1Q1cEctYlNFZkR5emJ1RFpnSkp5R3F2MGNGMnRaZW5F?oc=5"
     },
     {
@@ -129,8 +129,16 @@
       "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOQndHMkVEMGJZS0JkN3ZCYlhSRDdPV2lMbkp3TUp3Ym1WcFh5TDhxX3JUcnhkTkU3dDdEbll0SEVTclJnUFAxbDlNLUdMcVhzdm9lU2R4dTRMQXRyRm1obmxxYmR0VnprLVc3NE4yQnhCeTAzM2h2X2V5enU0TDlIUTk1VDdfc3pjTGxRMUthZm85elowX243R2FsOWxXYUxIMDJKWnNZbFhvQlRreEd4UUhCNG9RSE53UDRpUFRya1lBbnE0WE1LcG1iWUZQRldDaVlFUW5yQWdlOEZGeGhLWm1TTzFrTU45elBxV0JfSnZ6ZEs5c25qN3ZwQU1DQVpWejRUNnhZcnhzbnQzbVJHT09mRjFfaEk4bHgzT2pkMzY1SlBqTFItRUZPUXByMkZkMV9SZGgyb05nQWhfbXNJeWlZaEV3YVJHSU41YmY5OVQ4aXhVNi05OU93alZHa2JrWFlJcmpqci1UOXRxTzFGVlE5cEh6WlpWUm04TTk5cUduQldveF9kbC1jTDM?oc=5"
     },
     {
+      "title": "美股早盤／3大指數接近平盤記憶體族群上漲、美無人機高飛| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xOXpMR2JVUExWQVZRdm1fVThuRE9YWEMwYVZ6c29yQ2x1aUJGaUdocVdtLWU2ZGZpY2ZLejBJemxiQ0I2aGZfN0FEWmRGTWVM?oc=5"
+    },
+    {
       "title": "2026美股科技股、半導體ETF懶人包：QQQ、SMH、DRAM、00891等11檔完整比較，大戶投複委託也可以買 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOM0VsRzhtU1RlX1diYVZ3dmdQZGVvQ3l6eTZtem1xbEY3N3R5LVljWWtyNllaR3Fic28wRTFHUTJhS2pkanIwb0Z3MXNka3RncS1CTExhbEVuVThGVE9GRFBXLWpoTE1mMm5qY3V2dy12YVBJTHNCVDlEWjlHRU5SVkNaemRCOWl4dm1JeGQ3aDVoRy12RFNLWjh5VFRRWVpFWm9jUjl0RUVFT2FzNmJ1SXVMcmVpRUM0ZUw1eGFhSURIVk5FQkp2UmpzVjBLSllnWHZ6TkNWQ1l2QXhycFdTSTMzRXdUbXNLN0dOVHFoUGstMTRrWWVfRUMwVllYQTNzVXpDOE9VQWNpQ0VkVFhiRUIyYVpyWGplX0x5R3RaOXZVbEowRVpVLTN2YUo5ZzBBWXNtVUNJeUlvUVdaeUc2QXBhUzVBVGpLQjlRQkhWd0NhS3JXMXNHSEJDU2djYXlWcVVXd3pjTS05LUZtSFdhSUl5dUFldklwTVAtZlJBYjg2cUluYTB5Zjh6WGtqWWpJZ2xhWDlvX3VfTnhEbzVtLVV3MjNjb29QU2lXMUV2b1hJZnNVN2NQcTB5REt6alJlODRvWmdoWXd5ay1DYUdKRjdfRWZmWVNPX1RWd1ppVFp0M2JDOHZV?oc=5"
+    },
+    {
+      "title": "軍工股飆不敵電子回檔 台股跌210點終結連4漲 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kZ0hfd19JaWNWclhzbV9xbHd3SWp4NVVYRXRJN1dIYmVoWDVzRExBb2Y4RUI5bnMtNUVRUnBqRDQtOUkxSTlEOXk0c2NENzNmX1ZVSUxiQklIU2FPZVE?oc=5"
     },
     {
       "title": "比特幣短線遇亂流免驚！灰度曝「3 大利多」：加密市場正走向「機構化」 - 區塊客",
@@ -139,14 +147,6 @@
     {
       "title": "亂世為何人們還是買黃金？台大經濟系教授揭：它是衡量貨幣誠信的一把尺 - 財訊",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HRkpRX3I2M0RHVHhjMFFFTDYxOEVUWnRTSEh5R2lYZlA1M3lZYmZ6SW5LanNNTEw5WVNEMGJpWjQwNmdocU10QnZDcTkyc0FLZkNDdU44eUFDWGFhdS1KamhyQjQ5bDUydXJSMVZBQzg2dENONy1Lc1VhRQ?oc=5"
-    },
-    {
-      "title": "百點上漲、千家下跌 台股假反彈？ - money.udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12QXFQazZORUYzbWItVnBIRlM2bnIwX0NwbWt6WkM0clUzNlk0SU03S3JQMmxXNzBaVmpLMlNvVzVETGdySVVxbi0yWVY4NW53OHJfLW9DNFpRQdIBX0FVX3lxTE96VjJJTjFfdmhZYm82Rl9FRjdBZ1luZlJORFBMMmNzT21Lcms0cXc3ZHo1cTRwcnlkWnVXMnNoN1ROMnI4Vk9CRHo1Ti1NZk9iTVFVNmRPMFQtUXhrNHQ0?oc=5"
-    },
-    {
-      "title": "某千幣巨鯨增持300枚比特幣，總BTC持有價值7043百萬美元 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaVlJIOTRxSnBQR1FhVWhUdTBneUxQV1gtdnlTQmJoTFdiZTJyTWJUUmpSZDlUQ1pnMmRqaW9YYlVzRUoxSll5bXNDZw?oc=5"
     }
   ]
 }
