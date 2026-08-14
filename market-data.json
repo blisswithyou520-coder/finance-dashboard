@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 04:58",
+  "updated_tw": "08/15 05:32",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62834.53,
-      "change": -567.6419,
-      "changePercent": -0.8953
+      "price": 62814.77,
+      "change": -587.4019,
+      "changePercent": -0.9265
     },
     "ETH": {
-      "price": 1878.47,
-      "change": -5.5213,
-      "changePercent": -0.2931
+      "price": 1877.93,
+      "change": -6.0613,
+      "changePercent": -0.3217
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.995,
-      "change": -0.1291,
-      "changePercent": -0.4019
+      "price": 32.004,
+      "change": -0.1983,
+      "changePercent": -0.6158
     },
     "JPYTWD": {
       "price": 0.1987,
-      "change": -0.0028,
-      "changePercent": -1.3729
+      "change": -0.0034,
+      "changePercent": -1.6862
     },
     "EURTWD": {
       "price": 37.074,
-      "change": 0.0237,
-      "changePercent": 0.0639
+      "change": -0.0481,
+      "changePercent": -0.1295
     },
     "CNYTWD": {
-      "price": 4.754,
+      "price": 4.7508,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4431.1,
-    "twd": 4558.0,
-    "tael": 170929.0,
-    "twdTotal": 141773.0,
-    "changePercent": 1.5469
+    "usd": 4432.0,
+    "twd": 4560.0,
+    "tael": 171012.0,
+    "twdTotal": 141842.0,
+    "changePercent": 1.5675
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,7 +121,7 @@
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYWU4MjFISFZhWFpBeUNtSV85eWNNTmw4b3cxcjZsRDA1emNVQW43dU9iTHZQeFdaazF0cm9rWHYwak01ODlHc01KSHdqUkxlOENia2kzaFhsM2g4NWJjeVB6cnhHM1lYejJZRXhIdVhSWlUzS2YzS1dkSy1LMGlwUWFLRlJBUUhuZmRsbkZxMDUwUXEyc2l4S0ctYVZNVmR2dnQ5TE5faks2Tk5fV0tyWFNJVEtMMGhvZHdFSkRZSkZiR09aeGltVEMtckM3MDJkWVBKaERNdkRjMXQyOElsLVpINkZUWFhkTExSTzVoeFRIOUtIdlU2WWg0azhSSFVZZzZ5R0cxMWdTQldNRGpNLW52UEFHd2wtLW1zQ3hmb25wN2t0bUxpQ3FGaVBrRzNiZWp3Sw?oc=5"
     },
     {
-      "title": "美股早盤／3大指數接近平盤記憶體族群上漲、美無人機高飛| 全球財經| 全球 - udn.com",
+      "title": "美股早盤／3大指數接近平盤記憶體族群上漲、美無人機高飛| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xOXpMR2JVUExWQVZRdm1fVThuRE9YWEMwYVZ6c29yQ2x1aUJGaUdocVdtLWU2ZGZpY2ZLejBJemxiQ0I2aGZfN0FEWmRGTWVM?oc=5"
     },
     {
@@ -137,12 +137,12 @@
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
     },
     {
-      "title": "台股開盤一度衝破4萬6400點 分析師看好長期國際資金投入 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHVHdydkt1M3BUS1V4UVRXZmV1WVREamhBSjFQRmt4dVZydXpDeEZ0Z1A2dGpoYXhubEVzREhjVUs3MXhsQzdPcU1hMzdZNEU?oc=5"
-    },
-    {
       "title": "比特幣短線遇亂流免驚！灰度曝「3 大利多」：加密市場正走向「機構化」 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUm9UN0NaclVRVDAxNUZZNlJxY0p2aWllRTFMalR3ME5kazNSenNOVnZyTjk0cFFiOVdwVy1ld0h3RUtGMENtU2pLYXljazBLSU9uV1hSYTZud0ItMHQtSTI5WEtObXJpTC1iVGl2OV82ZGhWVHA5SEJGeE9td01Bb1lmLUdNaGwxWTRBOVJ1UEIxdURkNEs2TGp0TGpBcDNGNm1KNk5pdHhiM1BlZWhwaFRNOTJObThxRDlwMUZfWEZvTFdh?oc=5"
+    },
+    {
+      "title": "美現貨比特幣ETF買氣回溫持有量突破2萬枚| 國際 - 非凡新聞台",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BZG5jc212UzJ5WU1tRk04X3hYdW83dERhcUFZOG5qZDZ3WER5SHpEZkRUTjJoM05HMC1VNWRiVUVYOFlLSW1uS1RKNXFnLUVpcnhpSVc2ZDk3ZDA?oc=5"
     },
     {
       "title": "快訊／美股開盤費半下挫 「這記憶體大廠」逆勢漲4.66% - Yahoo新聞",
