@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 05:58",
+  "updated_tw": "08/15 06:31",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -9,13 +9,13 @@
     },
     "2454": {
       "price": 4210.0,
-      "change": -15.0,
-      "changePercent": -0.355
+      "change": 195.0,
+      "changePercent": 4.8568
     },
     "2317": {
       "price": 259.5,
-      "change": -2.5,
-      "changePercent": -0.9542
+      "change": -10.5,
+      "changePercent": -3.8889
     },
     "0050": {
       "price": 106.4,
@@ -24,8 +24,8 @@
     },
     "00878": {
       "price": 33.87,
-      "change": 0.35,
-      "changePercent": 1.0442
+      "change": 0.4,
+      "changePercent": 1.1951
     },
     "00919": {
       "price": 30.57,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62859.64,
-      "change": -542.5319,
-      "changePercent": -0.8557
+      "price": 62786.44,
+      "change": -615.7319,
+      "changePercent": -0.9712
     },
     "ETH": {
-      "price": 1877.47,
-      "change": -6.5213,
-      "changePercent": -0.3461
+      "price": 1876.94,
+      "change": -7.0513,
+      "changePercent": -0.3743
     }
   },
   "fx": {
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFWjNiWnNhRFJTcUZjNE10UU5WLXRfRWR0WkxjZlJRcDJWbTEtbThVU0owam5TcWpVNzYzTlNYaHVUcGxCXzZqWTlYSldOM2M?oc=5"
     },
     {
-      "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
+      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
     },
     {
-      "title": "黃金創高後！又立馬遭下殺 專家有話要說 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWOVNFOFgtcDRaV1JONUlaVy0tcUhzaUVTVmJ6cjJtZkE2SjA2MWNqYUNrNThiamZ4YVpCZ2NXN1Q1cEctYlNFZkR5emJ1RFpnSkp5R3F2MGNGMnRaZW5F?oc=5"
+      "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
     },
     {
       "title": "比特幣短線遇亂流免驚！灰度曝「3 大利多」：加密市場正走向「機構化」 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUm9UN0NaclVRVDAxNUZZNlJxY0p2aWllRTFMalR3ME5kazNSenNOVnZyTjk0cFFiOVdwVy1ld0h3RUtGMENtU2pLYXljazBLSU9uV1hSYTZud0ItMHQtSTI5WEtObXJpTC1iVGl2OV82ZGhWVHA5SEJGeE9td01Bb1lmLUdNaGwxWTRBOVJ1UEIxdURkNEs2TGp0TGpBcDNGNm1KNk5pdHhiM1BlZWhwaFRNOTJObThxRDlwMUZfWEZvTFdh?oc=5"
     },
     {
-      "title": "Hyperscale Data完成出售約685枚比特幣，仍持有約275枚比特幣 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LeGxxY2xwdkJaSTRCeEF4MVFzRTM3SGR5V1JTY2lqYzhSQldoSE9GNVFPckVOSVNGRUNwLVRhZlpxbTJrXzRZWnBXUQ?oc=5"
+      "title": "周末前市場氣氛保守 美股收黑 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kaVowaFlCZlppbUxUOThNNFhSdFF3YUN6ZEswUmRkYTJUbjZDQjdWbHJlNWFacWFsM1FQOVdXdTF4WjlfaFlOTjB5RTdlUXVJY3B5ZlhqbXo5VzE30gFiQVVfeXFMTVlKdGh3MFhReDZBRC1FZy1pUVF6dTdmUWNUS21TRkVyZ2JHWVlLSFVDQ1Z1b3p1T1JmTHdBak81bzFYYTN6RURjWkxycGJnM2VtSXB5VURxbXJUck9NQ0RWQUE?oc=5"
     },
     {
-      "title": "富蘭克林黃金 閃亮 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xZDJWbzhoVU1QcGdkb3N5bGd5WHczNXMxMERxLUxaX1FNb2pDVVc0SUc3Y3NYdHFCQUd1dWUtQnVFT0YxZk91Tk9kenJ3Y2gwRWfSAVdBVV95cUxOdkJ6ZzkzTFFmZ2RBdV9CLXdzZ2JDYVk2eTc1TUtIdk5tLVlpeXRjSGUyUjVDLXR2OXZxSjRreFRKNXQ4dXNMeWVrVlgyQ2g2RkJHQVk3TTg?oc=5"
+      "title": "歷史警示：美股現三大崩盤訊號 估值與債務創新高 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPVUEtTDhyU0pGTF9Dald4OHlpMVg3SEZOZDFyVU9WYWJOT0pVOVV3dGg2Z1RoN3dsT3ZFanZMelc0Y0dISjJFYkQtU1VkbGljMU15NFlKTW1jc0tTa1FCcW10SmZIR0EwYkVTM21iTF9Ob21kRjJ6anh0VTFJRFRLZ3phMjg3d2VwSmtqeXY3WENrN0FkN0stb2R4SExicUcxeUJTZVlHelJBV0ZEZHhWcTlBV1hBMkdLV1F5VlNUZUFpdHpsWEVVSUxGX2Y0cEdGT0lZaldYdTVpSUJMa1pzdkFTM3c3dTZjSVlRZkpRN2xxSE5pem5nVWJWb2lsRXpvNmpjM0tjaFZNeDJ0VXlFR2xEcGFneWRlY2hwWm1UVE1tVWw2V2lRRGJQUkZkOE56ZGhMVHhqUEI4NVNhRENzOXZaRWZ3UDhnSDljdkc3TEdzREk0WFZHcFhB?oc=5"
     }
   ]
 }
