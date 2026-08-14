@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 06:31",
+  "updated_tw": "08/15 06:59",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -14,13 +14,13 @@
     },
     "2317": {
       "price": 259.5,
-      "change": -10.5,
-      "changePercent": -3.8889
+      "change": -2.5,
+      "changePercent": -0.9542
     },
     "0050": {
       "price": 106.4,
-      "change": 1.8,
-      "changePercent": 1.7208
+      "change": 1.2,
+      "changePercent": 1.1407
     },
     "00878": {
       "price": 33.87,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62786.44,
-      "change": -615.7319,
-      "changePercent": -0.9712
+      "price": 62823.06,
+      "change": -579.1119,
+      "changePercent": -0.9134
     },
     "ETH": {
-      "price": 1876.94,
-      "change": -7.0513,
-      "changePercent": -0.3743
+      "price": 1878.06,
+      "change": -5.9313,
+      "changePercent": -0.3148
     }
   },
   "fx": {
@@ -121,20 +121,24 @@
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYWU4MjFISFZhWFpBeUNtSV85eWNNTmw4b3cxcjZsRDA1emNVQW43dU9iTHZQeFdaazF0cm9rWHYwak01ODlHc01KSHdqUkxlOENia2kzaFhsM2g4NWJjeVB6cnhHM1lYejJZRXhIdVhSWlUzS2YzS1dkSy1LMGlwUWFLRlJBUUhuZmRsbkZxMDUwUXEyc2l4S0ctYVZNVmR2dnQ5TE5faks2Tk5fV0tyWFNJVEtMMGhvZHdFSkRZSkZiR09aeGltVEMtckM3MDJkWVBKaERNdkRjMXQyOElsLVpINkZUWFhkTExSTzVoeFRIOUtIdlU2WWg0azhSSFVZZzZ5R0cxMWdTQldNRGpNLW52UEFHd2wtLW1zQ3hmb25wN2t0bUxpQ3FGaVBrRzNiZWp3Sw?oc=5"
     },
     {
-      "title": "美股早盤／3大指數接近平盤記憶體族群上漲、美無人機高飛| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xOXpMR2JVUExWQVZRdm1fVThuRE9YWEMwYVZ6c29yQ2x1aUJGaUdocVdtLWU2ZGZpY2ZLejBJemxiQ0I2aGZfN0FEWmRGTWVM?oc=5"
-    },
-    {
       "title": "美股漲勢暗藏風險！VIX 探底凸顯過度樂觀 專家警告：平靜過後恐迎更猛烈跌勢 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFWjNiWnNhRFJTcUZjNE10UU5WLXRfRWR0WkxjZlJRcDJWbTEtbThVU0owam5TcWpVNzYzTlNYaHVUcGxCXzZqWTlYSldOM2M?oc=5"
     },
     {
-      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
+      "title": "美股早盤／3大指數接近平盤記憶體族群上漲、美無人機高飛| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xOXpMR2JVUExWQVZRdm1fVThuRE9YWEMwYVZ6c29yQ2x1aUJGaUdocVdtLWU2ZGZpY2ZLejBJemxiQ0I2aGZfN0FEWmRGTWVM?oc=5"
     },
     {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
+    },
+    {
+      "title": "黃金創高後！又立馬遭下殺 專家有話要說 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWOVNFOFgtcDRaV1JONUlaVy0tcUhzaUVTVmJ6cjJtZkE2SjA2MWNqYUNrNThiamZ4YVpCZ2NXN1Q1cEctYlNFZkR5emJ1RFpnSkp5R3F2MGNGMnRaZW5F?oc=5"
+    },
+    {
+      "title": "美股全面收黑！零售數據疲軟拖累　台積電ADR跌0.96% - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBObWFSeElrYXNCZWZVOURZRzVjWmVOcUJEdnZ2WGh0Y2hZZUtDSGh3NkxQYVo4SUZlSGRmQ3dsWUZHNW5LUXcwd1RsZ0hzbUxkTVHSAVBBVV95cUxPN2VWSFd5dmYwS2RpN0xKSGtaUlZuMWRhNHJMX3ZLcTZuLXpzN3dtdkJKRXFLcnAyU29PeEFxUmI3WFNBSC1adS1POEtKdkEzWQ?oc=5"
     },
     {
       "title": "比特幣短線遇亂流免驚！灰度曝「3 大利多」：加密市場正走向「機構化」 - 區塊客",
@@ -143,10 +147,6 @@
     {
       "title": "周末前市場氣氛保守 美股收黑 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kaVowaFlCZlppbUxUOThNNFhSdFF3YUN6ZEswUmRkYTJUbjZDQjdWbHJlNWFacWFsM1FQOVdXdTF4WjlfaFlOTjB5RTdlUXVJY3B5ZlhqbXo5VzE30gFiQVVfeXFMTVlKdGh3MFhReDZBRC1FZy1pUVF6dTdmUWNUS21TRkVyZ2JHWVlLSFVDQ1Z1b3p1T1JmTHdBak81bzFYYTN6RURjWkxycGJnM2VtSXB5VURxbXJUck9NQ0RWQUE?oc=5"
-    },
-    {
-      "title": "歷史警示：美股現三大崩盤訊號 估值與債務創新高 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPVUEtTDhyU0pGTF9Dald4OHlpMVg3SEZOZDFyVU9WYWJOT0pVOVV3dGg2Z1RoN3dsT3ZFanZMelc0Y0dISjJFYkQtU1VkbGljMU15NFlKTW1jc0tTa1FCcW10SmZIR0EwYkVTM21iTF9Ob21kRjJ6anh0VTFJRFRLZ3phMjg3d2VwSmtqeXY3WENrN0FkN0stb2R4SExicUcxeUJTZVlHelJBV0ZEZHhWcTlBV1hBMkdLV1F5VlNUZUFpdHpsWEVVSUxGX2Y0cEdGT0lZaldYdTVpSUJMa1pzdkFTM3c3dTZjSVlRZkpRN2xxSE5pem5nVWJWb2lsRXpvNmpjM0tjaFZNeDJ0VXlFR2xEcGFneWRlY2hwWm1UVE1tVWw2V2lRRGJQUkZkOE56ZGhMVHhqUEI4NVNhRENzOXZaRWZ3UDhnSDljdkc3TEdzREk0WFZHcFhB?oc=5"
     }
   ]
 }
