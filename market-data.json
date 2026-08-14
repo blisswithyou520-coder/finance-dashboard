@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/14 18:42",
+  "updated_tw": "08/14 19:29",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62794.36,
-      "change": -607.8119,
-      "changePercent": -0.9587
+      "price": 62818.14,
+      "change": -584.0319,
+      "changePercent": -0.9212
     },
     "ETH": {
-      "price": 1874.12,
-      "change": -9.8713,
-      "changePercent": -0.524
+      "price": 1875.25,
+      "change": -8.7413,
+      "changePercent": -0.464
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.995,
-      "change": -0.2073,
-      "changePercent": -0.6437
+      "price": 31.959,
+      "change": -0.2433,
+      "changePercent": -0.7555
     },
     "JPYTWD": {
-      "price": 0.1989,
-      "change": -0.0032,
-      "changePercent": -1.5873
+      "price": 0.1988,
+      "change": -0.0033,
+      "changePercent": -1.6367
     },
     "EURTWD": {
-      "price": 37.028,
-      "change": -0.0941,
-      "changePercent": -0.2535
+      "price": 37.019,
+      "change": -0.1031,
+      "changePercent": -0.2777
     },
     "CNYTWD": {
-      "price": 4.7525,
+      "price": 4.7477,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4405.4,
-    "twd": 4532.0,
-    "tael": 169938.0,
-    "twdTotal": 140951.0,
-    "changePercent": 0.9579
+    "usd": 4411.6,
+    "twd": 4533.0,
+    "tael": 169985.0,
+    "twdTotal": 140990.0,
+    "changePercent": 1.1
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,8 +117,8 @@
   },
   "news": [
     {
-      "title": "Hyperscale Data完成出售約685枚比特幣，仍持有約275枚比特幣 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LeGxxY2xwdkJaSTRCeEF4MVFzRTM3SGR5V1JTY2lqYzhSQldoSE9GNVFPckVOSVNGRUNwLVRhZlpxbTJrXzRZWnBXUQ?oc=5"
+      "title": "某千幣巨鯨增持300枚比特幣，總BTC持有價值7043百萬美元 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaVlJIOTRxSnBQR1FhVWhUdTBneUxQV1gtdnlTQmJoTFdiZTJyTWJUUmpSZDlUQ1pnMmRqaW9YYlVzRUoxSll5bXNDZw?oc=5"
     },
     {
       "title": "黃金創高後！又立馬遭下殺 專家有話要說 - 自由財經",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWVtUXdHV3JlczBLRWtXYmZCTjZEQ3JHaDN3YnFONEJIRFRmbFlBVEVHM2ZwVUQxWDNJX3pWWW5Ja2Jrc0twZENfQUxjMV8zdUk0NXlSa2RIenlQUXFjNmFubjlyUHlsa1ZrZHplR3Q1LXFrVjBNV3ZxOEF3cDBIYjhJckFfSjdVU3ZBSDlELUVKZw?oc=5"
     },
     {
-      "title": "某千幣巨鯨增持300枚比特幣，總BTC持有價值7043百萬美元 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaVlJIOTRxSnBQR1FhVWhUdTBneUxQV1gtdnlTQmJoTFdiZTJyTWJUUmpSZDlUQ1pnMmRqaW9YYlVzRUoxSll5bXNDZw?oc=5"
+      "title": "《美股主題週報》金融創新與消費趨勢—COIN、XYZ、PYPL - 台視全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWluVEFTX0d6cHlUVVFQV1hVS2J6Tnd0TDJOTk1temgwZTg5US1rTG9jRVFZbE5XN2N3Q0JtdVRqeFA1YTVEb3p0OXhJZ1lWZGRWMnB3dGx2OVlMZFRjeEtyRWFQZ2o0NnV5YkJRRDdUMEoxZEZ6cnYwYTVPcXlkU0NOTkhuMF9wNmFPZEx3WkJXQQ?oc=5"
     }
   ]
 }
