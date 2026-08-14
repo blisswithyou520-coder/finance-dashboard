@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 01:51",
+  "updated_tw": "08/15 02:52",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 225.302,
-      "change": 0.002,
-      "changePercent": 0.0009
+      "price": 225.173,
+      "change": -0.127,
+      "changePercent": -0.0564
     },
     "AAPL": {
-      "price": 305.865,
-      "change": 0.605,
-      "changePercent": 0.1982
+      "price": 305.803,
+      "change": 0.543,
+      "changePercent": 0.1779
     },
     "TSLA": {
-      "price": 340.89,
-      "change": 0.93,
-      "changePercent": 0.2736
+      "price": 341.55,
+      "change": 1.59,
+      "changePercent": 0.4677
     },
     "QQQ": {
-      "price": 728.88,
-      "change": -3.19,
-      "changePercent": -0.4358
+      "price": 730.02,
+      "change": -2.05,
+      "changePercent": -0.28
     },
     "SPY": {
-      "price": 775.535,
-      "change": -2.345,
-      "changePercent": -0.3015
+      "price": 776.46,
+      "change": -1.42,
+      "changePercent": -0.1825
     },
     "SCHD": {
-      "price": 34.45,
-      "change": 0.02,
-      "changePercent": 0.0581
+      "price": 34.535,
+      "change": 0.105,
+      "changePercent": 0.305
     },
     "VOO": {
-      "price": 712.83,
-      "change": -2.12,
-      "changePercent": -0.2965
+      "price": 713.72,
+      "change": -1.23,
+      "changePercent": -0.172
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63033.02,
-      "change": -369.1519,
-      "changePercent": -0.5822
+      "price": 62836.54,
+      "change": -565.6319,
+      "changePercent": -0.8921
     },
     "ETH": {
-      "price": 1880.41,
-      "change": -3.5813,
-      "changePercent": -0.1901
+      "price": 1873.6,
+      "change": -10.3913,
+      "changePercent": -0.5516
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.991,
-      "change": -0.2113,
-      "changePercent": -0.6562
+      "price": 31.983,
+      "change": -0.2193,
+      "changePercent": -0.681
     },
     "JPYTWD": {
       "price": 0.1985,
@@ -94,22 +94,22 @@
       "changePercent": -1.7852
     },
     "EURTWD": {
-      "price": 37.037,
-      "change": -0.0851,
-      "changePercent": -0.2292
+      "price": 37.035,
+      "change": -0.0871,
+      "changePercent": -0.2346
     },
     "CNYTWD": {
-      "price": 4.7501,
+      "price": 4.7485,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4437.7,
-    "twd": 4564.0,
-    "tael": 171162.0,
-    "twdTotal": 141966.0,
-    "changePercent": 1.6981
+    "usd": 4437.9,
+    "twd": 4563.0,
+    "tael": 171127.0,
+    "twdTotal": 141937.0,
+    "changePercent": 1.7027
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,23 +125,23 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xOXpMR2JVUExWQVZRdm1fVThuRE9YWEMwYVZ6c29yQ2x1aUJGaUdocVdtLWU2ZGZpY2ZLejBJemxiQ0I2aGZfN0FEWmRGTWVM?oc=5"
     },
     {
-      "title": "灰度將572.9枚 BTC 和 44,320 枚 LINK 轉入 Coinbase Prime - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xOHJDcHgzS0FmR2Q5d2l3RVBsMWNnT042MzBuZGtMTGlLbGx5WHZ5WFRGbUVxMlVtZjNaOFhKWlBmRmt0eFJqM2dmMA?oc=5"
+      "title": "Hyperscale Data完成出售約685枚比特幣，仍持有約275枚比特幣 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LeGxxY2xwdkJaSTRCeEF4MVFzRTM3SGR5V1JTY2lqYzhSQldoSE9GNVFPckVOSVNGRUNwLVRhZlpxbTJrXzRZWnBXUQ?oc=5"
     },
     {
       "title": "黃金創高後！又立馬遭下殺 專家有話要說 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWOVNFOFgtcDRaV1JONUlaVy0tcUhzaUVTVmJ6cjJtZkE2SjA2MWNqYUNrNThiamZ4YVpCZ2NXN1Q1cEctYlNFZkR5emJ1RFpnSkp5R3F2MGNGMnRaZW5F?oc=5"
     },
     {
-      "title": "美國CPI、PPI過關之後呢？接下來關注甚麼？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOb2J6aDROTnZVcFI0bFEzcVN5R0h6LWhCa2Rwd2t4b3VIT2VIeW1UaFRPdlgyWDM1a3ZBdGNoVVBUT01KOXlNZGE3LUJsZHE5eE5Obms1RlBDakN0dWhGV2JGRVJuUmt5MVVkNkVmSlhIT2ZwQlBZVTV5SWppREIxOW1WRExGN1hVTTdST2VhUlZoTmgwZ1VWcEhwTTJ2RjJ6RUVwSHV3ZFlpYnZXaVc3N1llaG0yUFEtRnVITUVQQXJnSUhwXzhQUzZvcTg3Y0lvaGhPQlNLZDlpck9DU0NZUEU0NHliY0xzNzROSFdKOVpHbzEyNEYxRHNROWMxYmt0YjVZNlBmTmNGajcxYUZvMTFqUjJicTRiREZWSHhSdE1COHN6dUs4NWFKSmJuSjl3S18yMkVmclRYTVdjM2pkWUhIdVV2Q25HS2FFNEFQbDNVZFo0ZHloYk5laDRpNlJPb3FwcllZNXJKZw?oc=5"
-    },
-    {
       "title": "比特幣短線遇亂流免驚！灰度曝「3 大利多」：加密市場正走向「機構化」 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUm9UN0NaclVRVDAxNUZZNlJxY0p2aWllRTFMalR3ME5kazNSenNOVnZyTjk0cFFiOVdwVy1ld0h3RUtGMENtU2pLYXljazBLSU9uV1hSYTZud0ItMHQtSTI5WEtObXJpTC1iVGl2OV82ZGhWVHA5SEJGeE9td01Bb1lmLUdNaGwxWTRBOVJ1UEIxdURkNEs2TGp0TGpBcDNGNm1KNk5pdHhiM1BlZWhwaFRNOTJObThxRDlwMUZfWEZvTFdh?oc=5"
     },
     {
-      "title": "台股開盤一度衝破4萬6400點 分析師看好長期國際資金投入 - 公視新聞網PNN",
+      "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
+    },
+    {
+      "title": "台股開盤一度衝破4萬6400點 分析師看好長期國際資金投入 - news.pts.org.tw",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHVHdydkt1M3BUS1V4UVRXZmV1WVREamhBSjFQRmt4dVZydXpDeEZ0Z1A2dGpoYXhubEVzREhjVUs3MXhsQzdPcU1hMzdZNEU?oc=5"
     },
     {
