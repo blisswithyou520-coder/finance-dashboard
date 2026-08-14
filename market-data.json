@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/14 13:55",
+  "updated_tw": "08/14 15:23",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,48 +72,81 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63306.18,
-      "change": -96.2536,
-      "changePercent": -0.1518
+      "price": 63037.45,
+      "change": -364.7219,
+      "changePercent": -0.5753
     },
     "ETH": {
-      "price": 1882.37,
-      "change": 4.235,
-      "changePercent": 0.2255
+      "price": 1875.76,
+      "change": -8.2313,
+      "changePercent": -0.4369
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.946,
-      "change": -0.2563,
-      "changePercent": -0.7959
+      "price": 31.99,
+      "change": -0.2123,
+      "changePercent": -0.6593
     },
     "JPYTWD": {
-      "price": 0.1985,
-      "change": -0.0036,
-      "changePercent": -1.7852
+      "price": 0.1987,
+      "change": -0.0034,
+      "changePercent": -1.6862
     },
     "EURTWD": {
-      "price": 36.944,
-      "change": -0.1781,
-      "changePercent": -0.4797
+      "price": 36.984,
+      "change": -0.1381,
+      "changePercent": -0.372
     },
     "CNYTWD": {
-      "price": 4.7479,
+      "price": 4.7512,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4373.8,
-    "twd": 4492.0,
-    "tael": 168460.0,
-    "twdTotal": 139725.0,
-    "changePercent": 0.2337
+    "usd": 4388.5,
+    "twd": 4514.0,
+    "tael": 169259.0,
+    "twdTotal": 140388.0,
+    "changePercent": 0.5706
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "黃金創高後！又立馬遭下殺 專家有話要說 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWOVNFOFgtcDRaV1JONUlaVy0tcUhzaUVTVmJ6cjJtZkE2SjA2MWNqYUNrNThiamZ4YVpCZ2NXN1Q1cEctYlNFZkR5emJ1RFpnSkp5R3F2MGNGMnRaZW5F?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉PPI意外持平 油價挫逾2% SanDisk暴漲超13% 標普締歷史新高 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81YUNWX3pEWjM4RUpMN29aU3JaaUZ3QkFMWks3XzMwRzVFUUZLZHRUTVMzQkFKbTh2ZDNva2FUS2V4TjFiM1pLV2YwMEFYWW8?oc=5"
+    },
+    {
+      "title": "歷史警示：美股現三大崩盤訊號 估值與債務創新高 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPVUEtTDhyU0pGTF9Dald4OHlpMVg3SEZOZDFyVU9WYWJOT0pVOVV3dGg2Z1RoN3dsT3ZFanZMelc0Y0dISjJFYkQtU1VkbGljMU15NFlKTW1jc0tTa1FCcW10SmZIR0EwYkVTM21iTF9Ob21kRjJ6anh0VTFJRFRLZ3phMjg3d2VwSmtqeXY3WENrN0FkN0stb2R4SExicUcxeUJTZVlHelJBV0ZEZHhWcTlBV1hBMkdLV1F5VlNUZUFpdHpsWEVVSUxGX2Y0cEdGT0lZaldYdTVpSUJMa1pzdkFTM3c3dTZjSVlRZkpRN2xxSE5pem5nVWJWb2lsRXpvNmpjM0tjaFZNeDJ0VXlFR2xEcGFneWRlY2hwWm1UVE1tVWw2V2lRRGJQUkZkOE56ZGhMVHhqUEI4NVNhRENzOXZaRWZ3UDhnSDljdkc3TEdzREk0WFZHcFhB?oc=5"
+    },
+    {
+      "title": "萬物代幣化！業者算盤打到黃金與銅等實體金屬成籌措資金新管道| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Bd2daVkltYUpRT3F0a3F6ZUdJZGFBLW9IaU93dFZjOTR2RFV6NTk2cWNUOVVjRC0yNHRtMERVVEhuam90ekc4LUpmaUhsOTla?oc=5"
+    },
+    {
+      "title": "【0813台股盤後】台股開高走低上漲503 點，台股夜盤上漲364點！美 CPI 降溫帶動半導體與被動元件走強，MSCI 季調記憶體轉強，「強勢動能排行」: 力積電、南亞科、信昌電｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi2wZBVV95cUxPSVRCV1BnYUVTbjJ3aVpRaDlYVUtPZE11NHBHWjNBcGZkdmZBT0ZlUXRVUzE4TzNCMVNySzhxN0RUdFNORmFnNlA4cklKcU1sVmsySWhtOFBWT0hsdjhjcVRXSTlwY3VONm5pUkQ1ZURzdkFxOF9uR2JfLUFjSUsyei1xVWFPLXkwRFZacDdUR1R6TF9RX01KOG5idFp5eVRoTlVjTnlhYldQNTByYWRUbzVjS3NlMDRfb3JwcF9NSGFtbGNRMWdkeEduemdGdGhDNkFEWk41b2tlc3BXSV9iT3I5dzJCMVNMcS0zX1p1emtEX3RBRkFCdlEtblJ0Y3FRRHQ5MnNfX2tPVnBlYXhEUzNHR0JPalNqLU1ReXZxQUlaaW9NRGxBd1Fuc0tCN3g3bzkyVF91TnRmOVVxVTAzV1NwRk1FRVByRS1zYTZ4Uk5OSFJIS2dZUnd3R0toRTcwUThFa213OWltUjMxVzd0QV9XTGFVMmlmVkhpTlZGc2F1MEhHYTg1LW81TWZOMWJxTnlDTVVhcTZNM000Wm5rMHQxWEJfZHA3UnZRRzRXc3hyWml0bzl2bm96cEZESDB2aE5HTmZvZDVTa0FtdHVfYnJlYklpekJkVVg1UTRfVkpIb0lIVHBXa0JOaDMxSE8zVmxwWTVKeHhTd2RpZnItSV94NjhTSHVXNVl5OVpKblU4MFN1UEI5NWYtS1k4ZExjNmoyMTM3OWEtTld0X1NkTTJpUjdzVnZyM25zTDJydFlNRGFHV3VxeXBfd0lFMGdjYnFkZ1BIS0ZzQmJPR0l6akZuR2ptV0xHMmdBT0VQTU5zWDlxOXgwQjAzWlVDTkJIUmxua3ZXTXhUMXc0ZzAxVklhWDNVNTU5MTVZeTY2aWRVdC1jZ3Z2VXZWV2ZIUmdpSHVWM2dhMmVpUnFET09vMkQ5RDB3dVFrSWJxaTZPTXNEZ3h6N2ExRy1ROVlqM0hRZUkxdzBPOTM2MmwweW9SaUswRm5wNkgtSnZlNEVoWXUzbGZPdFFxVDdlQmhTR3F0Y0Vsakt5c2FNclM0b3JIMU5PQlRESnd2c3E0RDNsT3BSMTNIZjN1N1JCMFFBaU9UQkoxeFA0bWxVeExXOWZtZy12bUhzcVhwYUxr?oc=5"
+    },
+    {
+      "title": "南亞漲停華碩攻克千元台股盤中區間震盪| 證券 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zN1pPM1F1T2NiYXZXSmFTLV90NTBhdmpjR2l5RjgyeTlSWm01WjdJNVlCVVl6VjlhM1Q3aFVMNFQ4am95dDUtWlJMaGlVeUR4VjVrM1FFR1BWMFl1dmc?oc=5"
+    },
+    {
+      "title": "美股收盤》通膨緩解、科技股提振！標普創新高 台積電ADR上漲 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02cUlpU0w3bmhwM09LMDZRN1drVWstWTkxR05iUTI2QUhxZ0xCN2NRSmxmUEU1Q3RTTlhwVk1LT3ZqQjZObXllSnFSYUJDLWZ5YlZWLW54NFAwUDF2UDZV?oc=5"
+    },
+    {
+      "title": "小心美股9月魔咒！上漲機率全年最低 背後有心理學依據？ - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmRU1OWDkwWUMtaWZpVVNsbEh0MDhCYjQySjhaNjFlenpmb0NYY1c4MVVsVklwS2lkQWVJc2VYZVdfTUZPNEV4d3R0UGttT09XRks4UHpMbGh1TDNT0gFiQVVfeXFMTU1zTU5xTTBoTERHUlVDT3NTbFZZOWowNDN5R1Z2dkx4eVpmdnNFVzU5bTkzS2E0Wl9VRzBKV0Z6ZHFEN0ROM1YxRHJoVERoai0wVEEwenNhVlJtRjM3S1FPV2c?oc=5"
+    }
+  ]
 }
