@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 18:51",
+  "updated_tw": "08/15 19:18",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62983.26,
-      "change": 7.6663,
-      "changePercent": 0.0122
+      "price": 62971.71,
+      "change": -3.8838,
+      "changePercent": -0.0062
     },
     "ETH": {
-      "price": 1878.69,
-      "change": -1.96,
-      "changePercent": -0.1042
+      "price": 1878.7,
+      "change": -1.95,
+      "changePercent": -0.1037
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": -0.0481,
-      "changePercent": -0.1295
+      "change": 0.0237,
+      "changePercent": 0.0639
     },
     "CNYTWD": {
       "price": 4.7544,
@@ -117,28 +117,28 @@
   },
   "news": [
     {
-      "title": "分析：比特幣表觀需求明顯改善，但結構性囤積量尚無法完全吸收新供應 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5OVZBU3F0cGRzOGNVekVONFVJQTFXdDhrUkEtNjNfbXEwWV80N0V2Tk1VQnZ3TlBUcE1nMWZYZDdJVDduVkM1el8zOA?oc=5"
+      "title": "星期一開盤慘了？美股全面收黑 台指期夜盤也下殺 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVVZrbWJhV1VLUXNmR1JPNHlRQjNHNVNuNXNhSGZSNU5LLUpqRnN5dUpUWFEySHVuV1cxM1ZRc2Nmb3VLOUtzWTZoZWxwSkJ4OXRvOFB2RkJ1Qjk3ZzNobzI4eVlwa3VUVlNwdVBxQURkbHdoekQ0LTRpbDJSUEtGWmRUZ19jTWtocWlab0RlcmpmYzZlaUExUi0wT1pqWnJyMVBhRTZqS2ZPM3Y2bE9FTmRVY3dqMlNNQzQzV0VIS1drWnN6ZWxWRVdCRjI3NDJyZWhVcnFNaHR4d0luSGljRjFQMWFiVV9vcnFMLWRINUJwMWJ6NExNU0xzeTlWT2VYRnAtSFlPUXVCTU45U2R1ZzNTa282ZURpZ2JlUDJXdHhQakdHS1o0Y1plclVjVDQ2aVZTMkh4SmlfYm5LUXRVZmZxWGdLdEdEZDhaUHVHTQ?oc=5"
     },
     {
       "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
     },
     {
-      "title": "零售數據疲軟＋中東關係緊張！美股4大指數收黑 台積電ADR跌近1%、台指期夜盤下滑85點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOX2lyRlBPQ1N6YWVtTmpEM1JBcjE2Xzg1MTBJU050OVJ6U2gtbDN3RnhVdUFSTGZkM2xSZGE3c2RDOVNNWUJVRHRYM0lITlMxak1PUUhFMGJ4TG0xVWxpeEVZaVRId3ZZNEZTbWF3SDlTX2FiaS1GUVRXcDJHdk9BR0ZnemRuZm9KbnplMUcyZnd1MlIzOFdlX2dFM0dLUEhoREdkeWJhTjBfWnQzNldFeC1NaXRRZ3NVMHZzdXFaVTBZcHlpekdyX3pTS1Q3MThIRFVSeTViTDUwa0hsRFJ2b3REQl9ZTFJWSkFKU0tmTk03dXpqT0d6N2kwVFBOcGlXXzNNLWV2R1VPTjNiY1BzRzlUUURpZTN1eENKd1oybFd5U21WUEoxamhsNHFUYVJxOU55TGlrREtDVHRZakxoNWloQXhkMkdJOE9XVnR6SE9vY2VsUDhRMC1vb1I5b1FfaVROSXdFTkdidmJaLXdBQW5YaGFXYlczTk1mcnVBb3lFbktPNm85bE44N1ZpLVZxT0lUaV9sZThtMkVyZ1dJZUpGWXp1STVOMm84XzMxS0Rnblc5TkVYdi1PV01vTmFjUXZMaHhQMExiNkQyLWxqVFFUbUgtUzZ0Z2Jkb3lwYXJNNHkwRzNLcExR?oc=5"
+      "title": "分析：比特幣表觀需求明顯改善，但結構性囤積量尚無法完全吸收新供應 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5OVZBU3F0cGRzOGNVekVONFVJQTFXdDhrUkEtNjNfbXEwWV80N0V2Tk1VQnZ3TlBUcE1nMWZYZDdJVDduVkM1el8zOA?oc=5"
     },
     {
       "title": "美股早盤／3大指數接近平盤記憶體族群上漲、美無人機高飛| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xOXpMR2JVUExWQVZRdm1fVThuRE9YWEMwYVZ6c29yQ2x1aUJGaUdocVdtLWU2ZGZpY2ZLejBJemxiQ0I2aGZfN0FEWmRGTWVM?oc=5"
     },
     {
-      "title": "美股黃金齊上漲、比特幣反彈缺席，底部訊號出現了嗎？ - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONGJGZGNrM05hRU9FZjNDUklqd3FSZERBb1ZOOGxYSF9OSVo5cGVLWG4zc1dQNU5pZ056eVJkeEJlWjY4a05OaHVMbElwTFozdFFPV2xmMGhZSHhtbTFrdWcxc3czWjU5S3JBZEc5V0RNZjZPazVnVzJ3QlNtek94T2pFbzdsSVBuUXA0RDNueUhmd2Q2RkE?oc=5"
-    },
-    {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
+    },
+    {
+      "title": "美股黃金齊上漲、比特幣反彈缺席，底部訊號出現了嗎？ - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONGJGZGNrM05hRU9FZjNDUklqd3FSZERBb1ZOOGxYSF9OSVo5cGVLWG4zc1dQNU5pZ056eVJkeEJlWjY4a05OaHVMbElwTFozdFFPV2xmMGhZSHhtbTFrdWcxc3czWjU5S3JBZEc5V0RNZjZPazVnVzJ3QlNtek94T2pFbzdsSVBuUXA0RDNueUhmd2Q2RkE?oc=5"
     },
     {
       "title": "CZ：比特币挖矿量已超2007万枚，且部分丢失或无法找回，比特币是通缩资产 - TradingView",
