@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 22:20",
+  "updated_tw": "08/15 22:47",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62953.06,
-      "change": -22.5338,
-      "changePercent": -0.0358
+      "price": 62967.16,
+      "change": -8.4337,
+      "changePercent": -0.0134
     },
     "ETH": {
-      "price": 1880.47,
-      "change": -0.18,
-      "changePercent": -0.0096
+      "price": 1880.7,
+      "change": 0.05,
+      "changePercent": 0.0027
     }
   },
   "fx": {
@@ -117,19 +117,19 @@
   },
   "news": [
     {
-      "title": "星期一開盤慘了？美股全面收黑 台指期夜盤也下殺 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVVZrbWJhV1VLUXNmR1JPNHlRQjNHNVNuNXNhSGZSNU5LLUpqRnN5dUpUWFEySHVuV1cxM1ZRc2Nmb3VLOUtzWTZoZWxwSkJ4OXRvOFB2RkJ1Qjk3ZzNobzI4eVlwa3VUVlNwdVBxQURkbHdoekQ0LTRpbDJSUEtGWmRUZ19jTWtocWlab0RlcmpmYzZlaUExUi0wT1pqWnJyMVBhRTZqS2ZPM3Y2bE9FTmRVY3dqMlNNQzQzV0VIS1drWnN6ZWxWRVdCRjI3NDJyZWhVcnFNaHR4d0luSGljRjFQMWFiVV9vcnFMLWRINUJwMWJ6NExNU0xzeTlWT2VYRnAtSFlPUXVCTU45U2R1ZzNTa282ZURpZ2JlUDJXdHhQakdHS1o0Y1plclVjVDQ2aVZTMkh4SmlfYm5LUXRVZmZxWGdLdEdEZDhaUHVHTQ?oc=5"
-    },
-    {
       "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
+    },
+    {
+      "title": "星期一開盤慘了？美股全面收黑 台指期夜盤也下殺 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVVZrbWJhV1VLUXNmR1JPNHlRQjNHNVNuNXNhSGZSNU5LLUpqRnN5dUpUWFEySHVuV1cxM1ZRc2Nmb3VLOUtzWTZoZWxwSkJ4OXRvOFB2RkJ1Qjk3ZzNobzI4eVlwa3VUVlNwdVBxQURkbHdoekQ0LTRpbDJSUEtGWmRUZ19jTWtocWlab0RlcmpmYzZlaUExUi0wT1pqWnJyMVBhRTZqS2ZPM3Y2bE9FTmRVY3dqMlNNQzQzV0VIS1drWnN6ZWxWRVdCRjI3NDJyZWhVcnFNaHR4d0luSGljRjFQMWFiVV9vcnFMLWRINUJwMWJ6NExNU0xzeTlWT2VYRnAtSFlPUXVCTU45U2R1ZzNTa282ZURpZ2JlUDJXdHhQakdHS1o0Y1plclVjVDQ2aVZTMkh4SmlfYm5LUXRVZmZxWGdLdEdEZDhaUHVHTQ?oc=5"
     },
     {
       "title": "分析：比特幣表觀需求明顯改善，但結構性囤積量尚無法完全吸收新供應 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5OVZBU3F0cGRzOGNVekVONFVJQTFXdDhrUkEtNjNfbXEwWV80N0V2Tk1VQnZ3TlBUcE1nMWZYZDdJVDduVkM1el8zOA?oc=5"
     },
     {
-      "title": "台股AI資本支出擴張疑慮仍在 下半年能否再創高？ | 市場焦點 | 證券 - money.udn.com",
+      "title": "台股AI資本支出擴張疑慮仍在 下半年能否再創高？ | 市場焦點 | 證券 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9La09ScEhVZi0ybzR0SEljd1FyU2FBbEFianJLT2dDdFF2QUVLaXFzSkNPRkx0a3RUcE1Cb3hKUlBSdVQ0RTZiMXpOa3dob25ZXzZZV21xeUNMdw?oc=5"
     },
     {
@@ -141,8 +141,8 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONGJGZGNrM05hRU9FZjNDUklqd3FSZERBb1ZOOGxYSF9OSVo5cGVLWG4zc1dQNU5pZ056eVJkeEJlWjY4a05OaHVMbElwTFozdFFPV2xmMGhZSHhtbTFrdWcxc3czWjU5S3JBZEc5V0RNZjZPazVnVzJ3QlNtek94T2pFbzdsSVBuUXA0RDNueUhmd2Q2RkE?oc=5"
     },
     {
-      "title": "零售數據疲軟＋中東關係緊張！美股4大指數收黑 台積電ADR跌近1%、台指期夜盤下滑85點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOX2lyRlBPQ1N6YWVtTmpEM1JBcjE2Xzg1MTBJU050OVJ6U2gtbDN3RnhVdUFSTGZkM2xSZGE3c2RDOVNNWUJVRHRYM0lITlMxak1PUUhFMGJ4TG0xVWxpeEVZaVRId3ZZNEZTbWF3SDlTX2FiaS1GUVRXcDJHdk9BR0ZnemRuZm9KbnplMUcyZnd1MlIzOFdlX2dFM0dLUEhoREdkeWJhTjBfWnQzNldFeC1NaXRRZ3NVMHZzdXFaVTBZcHlpekdyX3pTS1Q3MThIRFVSeTViTDUwa0hsRFJ2b3REQl9ZTFJWSkFKU0tmTk03dXpqT0d6N2kwVFBOcGlXXzNNLWV2R1VPTjNiY1BzRzlUUURpZTN1eENKd1oybFd5U21WUEoxamhsNHFUYVJxOU55TGlrREtDVHRZakxoNWloQXhkMkdJOE9XVnR6SE9vY2VsUDhRMC1vb1I5b1FfaVROSXdFTkdidmJaLXdBQW5YaGFXYlczTk1mcnVBb3lFbktPNm85bE44N1ZpLVZxT0lUaV9sZThtMkVyZ1dJZUpGWXp1STVOMm84XzMxS0Rnblc5TkVYdi1PV01vTmFjUXZMaHhQMExiNkQyLWxqVFFUbUgtUzZ0Z2Jkb3lwYXJNNHkwRzNLcExR?oc=5"
+      "title": "美國經濟警訊來了？專家「被問台股漲OR跌」這樣回 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNbzAxbDZZUk5BVnoxSlVXb2NWU3F1Y0NpWlAzX19Fa1BxZTRtRFZkUFVfMTNLV2RvQUhoU3I5TUVGRmphdTFGTUtrTjZNUnlZSzZaYjQ4TWhYS0gzaFFmbDdRRWl5WnNGcU1iY0dTTmxueVZyNmFZR2NIRWVlNG5hamJlendUc1lYTmxCcHFfVldRcV9sYkprY3U5TWFqWmdIcTUtb19PbUdJOERDSGM4U3Q4VlNqY2IySUY3MlpmVFFjbktqNHVzdk1RUjJsTnZHblh5UnJENFhUaE5YckJGeEF5TThFdk1JU3VhMlkxUi1DWWhFV3k3ZENUSlZWeFVsbnYyXzdaTndMSnFBaTdvTGlUdWZHLU9nbE5TbTdxUzFiUWtuZ21EX2YtZGItSU9VUWdVbXRDMG1HRVppQ3NnNEdHNmM0QQ?oc=5"
     },
     {
       "title": "美股漲勢暗藏風險！VIX 探底凸顯過度樂觀 專家警告：平靜過後恐迎更猛烈跌勢 - news.cnyes.com",
