@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 21:53",
+  "updated_tw": "08/15 22:20",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62975.86,
-      "change": 0.2663,
-      "changePercent": 0.0004
+      "price": 62953.06,
+      "change": -22.5338,
+      "changePercent": -0.0358
     },
     "ETH": {
-      "price": 1881.55,
-      "change": 0.9,
-      "changePercent": 0.0479
+      "price": 1880.47,
+      "change": -0.18,
+      "changePercent": -0.0096
     }
   },
   "fx": {
@@ -129,7 +129,7 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5OVZBU3F0cGRzOGNVekVONFVJQTFXdDhrUkEtNjNfbXEwWV80N0V2Tk1VQnZ3TlBUcE1nMWZYZDdJVDduVkM1el8zOA?oc=5"
     },
     {
-      "title": "台股AI資本支出擴張疑慮仍在 下半年能否再創高？ | 市場焦點 | 證券 - 經濟日報",
+      "title": "台股AI資本支出擴張疑慮仍在 下半年能否再創高？ | 市場焦點 | 證券 - money.udn.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9La09ScEhVZi0ybzR0SEljd1FyU2FBbEFianJLT2dDdFF2QUVLaXFzSkNPRkx0a3RUcE1Cb3hKUlBSdVQ0RTZiMXpOa3dob25ZXzZZV21xeUNMdw?oc=5"
     },
     {
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONGJGZGNrM05hRU9FZjNDUklqd3FSZERBb1ZOOGxYSF9OSVo5cGVLWG4zc1dQNU5pZ056eVJkeEJlWjY4a05OaHVMbElwTFozdFFPV2xmMGhZSHhtbTFrdWcxc3czWjU5S3JBZEc5V0RNZjZPazVnVzJ3QlNtek94T2pFbzdsSVBuUXA0RDNueUhmd2Q2RkE?oc=5"
     },
     {
-      "title": "CZ：比特币挖矿量已超2007万枚，且部分丢失或无法找回，比特币是通缩资产 - tw.tradingview.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xdWhUenhwTHpoYkhrT0lHdEVKY29kcTVBWklSSXVNeUdjd0Zmb1FJSFhYRTYtLWZCUkRHNndtRFJhQXpYOVY2bzJtV21nbzlQb1IxNzlGc3JhRlR6UW5qLWhzMFZ1Zw?oc=5"
-    },
-    {
       "title": "零售數據疲軟＋中東關係緊張！美股4大指數收黑 台積電ADR跌近1%、台指期夜盤下滑85點 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOX2lyRlBPQ1N6YWVtTmpEM1JBcjE2Xzg1MTBJU050OVJ6U2gtbDN3RnhVdUFSTGZkM2xSZGE3c2RDOVNNWUJVRHRYM0lITlMxak1PUUhFMGJ4TG0xVWxpeEVZaVRId3ZZNEZTbWF3SDlTX2FiaS1GUVRXcDJHdk9BR0ZnemRuZm9KbnplMUcyZnd1MlIzOFdlX2dFM0dLUEhoREdkeWJhTjBfWnQzNldFeC1NaXRRZ3NVMHZzdXFaVTBZcHlpekdyX3pTS1Q3MThIRFVSeTViTDUwa0hsRFJ2b3REQl9ZTFJWSkFKU0tmTk03dXpqT0d6N2kwVFBOcGlXXzNNLWV2R1VPTjNiY1BzRzlUUURpZTN1eENKd1oybFd5U21WUEoxamhsNHFUYVJxOU55TGlrREtDVHRZakxoNWloQXhkMkdJOE9XVnR6SE9vY2VsUDhRMC1vb1I5b1FfaVROSXdFTkdidmJaLXdBQW5YaGFXYlczTk1mcnVBb3lFbktPNm85bE44N1ZpLVZxT0lUaV9sZThtMkVyZ1dJZUpGWXp1STVOMm84XzMxS0Rnblc5TkVYdi1PV01vTmFjUXZMaHhQMExiNkQyLWxqVFFUbUgtUzZ0Z2Jkb3lwYXJNNHkwRzNLcExR?oc=5"
+    },
+    {
+      "title": "美股漲勢暗藏風險！VIX 探底凸顯過度樂觀 專家警告：平靜過後恐迎更猛烈跌勢 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFWjNiWnNhRFJTcUZjNE10UU5WLXRfRWR0WkxjZlJRcDJWbTEtbThVU0owam5TcWpVNzYzTlNYaHVUcGxCXzZqWTlYSldOM2M?oc=5"
     }
   ]
 }
