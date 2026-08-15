@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 19:18",
+  "updated_tw": "08/15 19:44",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62971.71,
-      "change": -3.8838,
-      "changePercent": -0.0062
+      "price": 62978.21,
+      "change": 2.6162,
+      "changePercent": 0.0042
     },
     "ETH": {
-      "price": 1878.7,
-      "change": -1.95,
-      "changePercent": -0.1037
+      "price": 1878.16,
+      "change": -2.49,
+      "changePercent": -0.1324
     }
   },
   "fx": {
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "星期一開盤慘了？美股全面收黑 台指期夜盤也下殺 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVVZrbWJhV1VLUXNmR1JPNHlRQjNHNVNuNXNhSGZSNU5LLUpqRnN5dUpUWFEySHVuV1cxM1ZRc2Nmb3VLOUtzWTZoZWxwSkJ4OXRvOFB2RkJ1Qjk3ZzNobzI4eVlwa3VUVlNwdVBxQURkbHdoekQ0LTRpbDJSUEtGWmRUZ19jTWtocWlab0RlcmpmYzZlaUExUi0wT1pqWnJyMVBhRTZqS2ZPM3Y2bE9FTmRVY3dqMlNNQzQzV0VIS1drWnN6ZWxWRVdCRjI3NDJyZWhVcnFNaHR4d0luSGljRjFQMWFiVV9vcnFMLWRINUJwMWJ6NExNU0xzeTlWT2VYRnAtSFlPUXVCTU45U2R1ZzNTa282ZURpZ2JlUDJXdHhQakdHS1o0Y1plclVjVDQ2aVZTMkh4SmlfYm5LUXRVZmZxWGdLdEdEZDhaUHVHTQ?oc=5"
-    },
-    {
       "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
+    },
+    {
+      "title": "星期一開盤慘了？美股全面收黑 台指期夜盤也下殺 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVVZrbWJhV1VLUXNmR1JPNHlRQjNHNVNuNXNhSGZSNU5LLUpqRnN5dUpUWFEySHVuV1cxM1ZRc2Nmb3VLOUtzWTZoZWxwSkJ4OXRvOFB2RkJ1Qjk3ZzNobzI4eVlwa3VUVlNwdVBxQURkbHdoekQ0LTRpbDJSUEtGWmRUZ19jTWtocWlab0RlcmpmYzZlaUExUi0wT1pqWnJyMVBhRTZqS2ZPM3Y2bE9FTmRVY3dqMlNNQzQzV0VIS1drWnN6ZWxWRVdCRjI3NDJyZWhVcnFNaHR4d0luSGljRjFQMWFiVV9vcnFMLWRINUJwMWJ6NExNU0xzeTlWT2VYRnAtSFlPUXVCTU45U2R1ZzNTa282ZURpZ2JlUDJXdHhQakdHS1o0Y1plclVjVDQ2aVZTMkh4SmlfYm5LUXRVZmZxWGdLdEdEZDhaUHVHTQ?oc=5"
     },
     {
       "title": "分析：比特幣表觀需求明顯改善，但結構性囤積量尚無法完全吸收新供應 - 鉅亨網",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xdWhUenhwTHpoYkhrT0lHdEVKY29kcTVBWklSSXVNeUdjd0Zmb1FJSFhYRTYtLWZCUkRHNndtRFJhQXpYOVY2bzJtV21nbzlQb1IxNzlGc3JhRlR6UW5qLWhzMFZ1Zw?oc=5"
     },
     {
-      "title": "美股不用熬夜買了？那斯達克23小時交易12/6上路！日券商跟進，台灣呢？－中央社｜商周 - 商周",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZQjVyYTdYS3BvbTBPZ2RQdGUtVDlzUFlZY1YyVkJ3WV9oMUZRc0hnaThuTHN5N2REMHdrUzFkYkc4dlc2cWZZUG1LUlVHN1RZYXJ6aDlmNDVGdlBSaG5xU2hkUEp2QQ?oc=5"
+      "title": "秋天一到美股就跌？9月平均報酬率-1.1% 專家點名「南瓜拿鐵效應」 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZmJOOFBiUW1tR1hPS2oyTGRfVUlnaldlMnlmMzRPVVVHY040NEptQWFkemh4MnhHaTFMa29NaklrRVhuLVNEN0lBWUl0aWpKMF9IVjBNa3dpOUNBSnRfdUdLS0VubU4zeXhpc20xMFJUWFJMZmtmTktMR2x4MVNWa1l4RVV3MmMySnNLS3RjeXhSbDJObVNjOGxvajFQMi1vZl9DbTl2eU5KZDljZkhqVV9peFFJX185c2x3b2ViMEtHNDZNU2g5YUdFcWF6Yjl3ZmJOMGlHeHUyOGZRbGI4MnJSLVloOTFTejd5VTRhUjA0Z0ljNEFPc1Y3OXlNNTFa?oc=5"
     }
   ]
 }
