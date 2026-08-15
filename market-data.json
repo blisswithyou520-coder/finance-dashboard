@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 19:44",
+  "updated_tw": "08/15 19:58",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62978.21,
-      "change": 2.6162,
-      "changePercent": 0.0042
+      "price": 62961.11,
+      "change": -14.4837,
+      "changePercent": -0.023
     },
     "ETH": {
-      "price": 1878.16,
-      "change": -2.49,
-      "changePercent": -0.1324
+      "price": 1877.45,
+      "change": -3.2,
+      "changePercent": -0.1702
     }
   },
   "fx": {
@@ -129,8 +129,8 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5OVZBU3F0cGRzOGNVekVONFVJQTFXdDhrUkEtNjNfbXEwWV80N0V2Tk1VQnZ3TlBUcE1nMWZYZDdJVDduVkM1el8zOA?oc=5"
     },
     {
-      "title": "美股早盤／3大指數接近平盤記憶體族群上漲、美無人機高飛| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xOXpMR2JVUExWQVZRdm1fVThuRE9YWEMwYVZ6c29yQ2x1aUJGaUdocVdtLWU2ZGZpY2ZLejBJemxiQ0I2aGZfN0FEWmRGTWVM?oc=5"
+      "title": "台股AI資本支出擴張疑慮仍在 下半年能否再創高？ | 市場焦點 | 證券 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9La09ScEhVZi0ybzR0SEljd1FyU2FBbEFianJLT2dDdFF2QUVLaXFzSkNPRkx0a3RUcE1Cb3hKUlBSdVQ0RTZiMXpOa3dob25ZXzZZV21xeUNMdw?oc=5"
     },
     {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
