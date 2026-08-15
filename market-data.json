@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/16 01:48",
+  "updated_tw": "08/16 02:26",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62996.19,
-      "change": 20.5963,
-      "changePercent": 0.0327
+      "price": 62987.76,
+      "change": 12.1663,
+      "changePercent": 0.0193
     },
     "ETH": {
-      "price": 1881.88,
-      "change": 1.23,
-      "changePercent": 0.0654
+      "price": 1881.41,
+      "change": 0.76,
+      "changePercent": 0.0404
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": -0.0481,
-      "changePercent": -0.1295
+      "change": 0.0237,
+      "changePercent": 0.0639
     },
     "CNYTWD": {
       "price": 4.7544,
@@ -117,16 +117,16 @@
   },
   "news": [
     {
+      "title": "美股又要噴了？企業獲利創5年來最佳 這2檔近月績效逾8% - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNem5kd1lRZ3NmNF9qYW5HN0d1M1ByUWZKYXhlZXJfTFhoNEt2U0xBSXNMU3N5WGdHUjgzdndjblNwYXFwZFBvR3hiMFpBR0RzWjA2T2Uxbm5yaldPSzlFZm9CMTZ5VkJ4M2pGTklEM3FZMEtYTjN4cUJRNjNMaXMwTFRDOWRjOUNVRVhyUUhaTTRWU3RjQVNsOFJzYzNyTEFKLVNWeDVjQ01YdURZa3ZVVmZvOTNVWGNvcF9VVzVWQzhvcnBEc1V6Mkd4VnM4SGpvTENKOWZFbTloRUktSWFPbVcxVkUxajU3YUk3dXNnNHVaZE5QaEEycU5mQUwxY0tWYWdNNllNc19adVAtaWQ2S3BjcnRQWV9PT2c2SWxCOG4zX05YRFdHclY3S2syQU9ydzdETWV1NGFQcGFQRURyLUVUWkotZGFNb2xMTERoUlRiUUNSSHdGS1pUNmFkVnU1Qnc?oc=5"
+    },
+    {
       "title": "美債殖利率飆高但美股照樣登頂 結果會是哪個拉回？ - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zem5Qb1dpVlpSdkViUUE3X2hmWXVMelM0YkN0S0lZNDY5ZkM3UVJaR0VhMUYzR3Z5U0R2Z1pYcU92MW5sdEdSendqNHhQRGdY?oc=5"
     },
     {
-      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - ec.ltn.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
-    },
-    {
-      "title": "星期一開盤慘了？美股全面收黑 台指期夜盤也下殺 - tw.stock.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVVZrbWJhV1VLUXNmR1JPNHlRQjNHNVNuNXNhSGZSNU5LLUpqRnN5dUpUWFEySHVuV1cxM1ZRc2Nmb3VLOUtzWTZoZWxwSkJ4OXRvOFB2RkJ1Qjk3ZzNobzI4eVlwa3VUVlNwdVBxQURkbHdoekQ0LTRpbDJSUEtGWmRUZ19jTWtocWlab0RlcmpmYzZlaUExUi0wT1pqWnJyMVBhRTZqS2ZPM3Y2bE9FTmRVY3dqMlNNQzQzV0VIS1drWnN6ZWxWRVdCRjI3NDJyZWhVcnFNaHR4d0luSGljRjFQMWFiVV9vcnFMLWRINUJwMWJ6NExNU0xzeTlWT2VYRnAtSFlPUXVCTU45U2R1ZzNTa282ZURpZ2JlUDJXdHhQakdHS1o0Y1plclVjVDQ2aVZTMkh4SmlfYm5LUXRVZmZxWGdLdEdEZDhaUHVHTQ?oc=5"
+      "title": "黃金發威了！背後原因、本週最新走勢一次看 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Femp2S3VJb3hBMXU0ZEQzMkQwWEZTdWEtYUFibW9hWlVpc3NnWGd6NFU3Tm1JQTFlRXNTbTRzbXh1cFBPYnVHZkMycGtJUjJHNXVQbVg3QXQ3anF4ZVVr?oc=5"
     },
     {
       "title": "分析：比特幣表觀需求明顯改善，但結構性囤積量尚無法完全吸收新供應 - 鉅亨網",
@@ -137,12 +137,12 @@
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
     },
     {
-      "title": "黃金發威了！背後原因、本週最新走勢一次看 - ec.ltn.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Femp2S3VJb3hBMXU0ZEQzMkQwWEZTdWEtYUFibW9hWlVpc3NnWGd6NFU3Tm1JQTFlRXNTbTRzbXh1cFBPYnVHZkMycGtJUjJHNXVQbVg3QXQ3anF4ZVVr?oc=5"
+      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
     },
     {
-      "title": "零售數據疲軟＋中東關係緊張！美股4大指數收黑 台積電ADR跌近1%、台指期夜盤下滑85點 - tw.stock.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOX2lyRlBPQ1N6YWVtTmpEM1JBcjE2Xzg1MTBJU050OVJ6U2gtbDN3RnhVdUFSTGZkM2xSZGE3c2RDOVNNWUJVRHRYM0lITlMxak1PUUhFMGJ4TG0xVWxpeEVZaVRId3ZZNEZTbWF3SDlTX2FiaS1GUVRXcDJHdk9BR0ZnemRuZm9KbnplMUcyZnd1MlIzOFdlX2dFM0dLUEhoREdkeWJhTjBfWnQzNldFeC1NaXRRZ3NVMHZzdXFaVTBZcHlpekdyX3pTS1Q3MThIRFVSeTViTDUwa0hsRFJ2b3REQl9ZTFJWSkFKU0tmTk03dXpqT0d6N2kwVFBOcGlXXzNNLWV2R1VPTjNiY1BzRzlUUURpZTN1eENKd1oybFd5U21WUEoxamhsNHFUYVJxOU55TGlrREtDVHRZakxoNWloQXhkMkdJOE9XVnR6SE9vY2VsUDhRMC1vb1I5b1FfaVROSXdFTkdidmJaLXdBQW5YaGFXYlczTk1mcnVBb3lFbktPNm85bE44N1ZpLVZxT0lUaV9sZThtMkVyZ1dJZUpGWXp1STVOMm84XzMxS0Rnblc5TkVYdi1PV01vTmFjUXZMaHhQMExiNkQyLWxqVFFUbUgtUzZ0Z2Jkb3lwYXJNNHkwRzNLcExR?oc=5"
+      "title": "星期一開盤慘了？美股全面收黑 台指期夜盤也下殺 - tw.stock.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVVZrbWJhV1VLUXNmR1JPNHlRQjNHNVNuNXNhSGZSNU5LLUpqRnN5dUpUWFEySHVuV1cxM1ZRc2Nmb3VLOUtzWTZoZWxwSkJ4OXRvOFB2RkJ1Qjk3ZzNobzI4eVlwa3VUVlNwdVBxQURkbHdoekQ0LTRpbDJSUEtGWmRUZ19jTWtocWlab0RlcmpmYzZlaUExUi0wT1pqWnJyMVBhRTZqS2ZPM3Y2bE9FTmRVY3dqMlNNQzQzV0VIS1drWnN6ZWxWRVdCRjI3NDJyZWhVcnFNaHR4d0luSGljRjFQMWFiVV9vcnFMLWRINUJwMWJ6NExNU0xzeTlWT2VYRnAtSFlPUXVCTU45U2R1ZzNTa282ZURpZ2JlUDJXdHhQakdHS1o0Y1plclVjVDQ2aVZTMkh4SmlfYm5LUXRVZmZxWGdLdEdEZDhaUHVHTQ?oc=5"
     },
     {
       "title": "美企獲利加速成長 美股走勢有撐 - 經濟日報",
