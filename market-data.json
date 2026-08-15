@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 20:52",
+  "updated_tw": "08/15 21:28",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62881.99,
-      "change": -93.6038,
-      "changePercent": -0.1486
+      "price": 62968.58,
+      "change": -7.0137,
+      "changePercent": -0.0111
     },
     "ETH": {
-      "price": 1876.43,
-      "change": -4.22,
-      "changePercent": -0.2244
+      "price": 1880.96,
+      "change": 0.31,
+      "changePercent": 0.0165
     }
   },
   "fx": {
@@ -121,12 +121,12 @@
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVVZrbWJhV1VLUXNmR1JPNHlRQjNHNVNuNXNhSGZSNU5LLUpqRnN5dUpUWFEySHVuV1cxM1ZRc2Nmb3VLOUtzWTZoZWxwSkJ4OXRvOFB2RkJ1Qjk3ZzNobzI4eVlwa3VUVlNwdVBxQURkbHdoekQ0LTRpbDJSUEtGWmRUZ19jTWtocWlab0RlcmpmYzZlaUExUi0wT1pqWnJyMVBhRTZqS2ZPM3Y2bE9FTmRVY3dqMlNNQzQzV0VIS1drWnN6ZWxWRVdCRjI3NDJyZWhVcnFNaHR4d0luSGljRjFQMWFiVV9vcnFMLWRINUJwMWJ6NExNU0xzeTlWT2VYRnAtSFlPUXVCTU45U2R1ZzNTa282ZURpZ2JlUDJXdHhQakdHS1o0Y1plclVjVDQ2aVZTMkh4SmlfYm5LUXRVZmZxWGdLdEdEZDhaUHVHTQ?oc=5"
     },
     {
-      "title": "分析：比特幣表觀需求明顯改善，但結構性囤積量尚無法完全吸收新供應 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5OVZBU3F0cGRzOGNVekVONFVJQTFXdDhrUkEtNjNfbXEwWV80N0V2Tk1VQnZ3TlBUcE1nMWZYZDdJVDduVkM1el8zOA?oc=5"
-    },
-    {
       "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
+    },
+    {
+      "title": "分析：比特幣表觀需求明顯改善，但結構性囤積量尚無法完全吸收新供應 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5OVZBU3F0cGRzOGNVekVONFVJQTFXdDhrUkEtNjNfbXEwWV80N0V2Tk1VQnZ3TlBUcE1nMWZYZDdJVDduVkM1el8zOA?oc=5"
     },
     {
       "title": "台股AI資本支出擴張疑慮仍在 下半年能否再創高？ | 市場焦點 | 證券 - 經濟日報",
