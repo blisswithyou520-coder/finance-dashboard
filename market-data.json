@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 23:44",
+  "updated_tw": "08/15 23:59",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63041.76,
-      "change": 66.1663,
-      "changePercent": 0.1051
+      "price": 63022.96,
+      "change": 47.3662,
+      "changePercent": 0.0752
     },
     "ETH": {
-      "price": 1883.3,
-      "change": 2.65,
-      "changePercent": 0.1409
+      "price": 1882.95,
+      "change": 2.3,
+      "changePercent": 0.1223
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": 0.0237,
-      "changePercent": 0.0639
+      "change": -0.0481,
+      "changePercent": -0.1295
     },
     "CNYTWD": {
       "price": 4.7544,
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONGJGZGNrM05hRU9FZjNDUklqd3FSZERBb1ZOOGxYSF9OSVo5cGVLWG4zc1dQNU5pZ056eVJkeEJlWjY4a05OaHVMbElwTFozdFFPV2xmMGhZSHhtbTFrdWcxc3czWjU5S3JBZEc5V0RNZjZPazVnVzJ3QlNtek94T2pFbzdsSVBuUXA0RDNueUhmd2Q2RkE?oc=5"
     },
     {
-      "title": "零售數據疲軟＋中東關係緊張！美股4大指數收黑 台積電ADR跌近1%、台指期夜盤下滑85點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOX2lyRlBPQ1N6YWVtTmpEM1JBcjE2Xzg1MTBJU050OVJ6U2gtbDN3RnhVdUFSTGZkM2xSZGE3c2RDOVNNWUJVRHRYM0lITlMxak1PUUhFMGJ4TG0xVWxpeEVZaVRId3ZZNEZTbWF3SDlTX2FiaS1GUVRXcDJHdk9BR0ZnemRuZm9KbnplMUcyZnd1MlIzOFdlX2dFM0dLUEhoREdkeWJhTjBfWnQzNldFeC1NaXRRZ3NVMHZzdXFaVTBZcHlpekdyX3pTS1Q3MThIRFVSeTViTDUwa0hsRFJ2b3REQl9ZTFJWSkFKU0tmTk03dXpqT0d6N2kwVFBOcGlXXzNNLWV2R1VPTjNiY1BzRzlUUURpZTN1eENKd1oybFd5U21WUEoxamhsNHFUYVJxOU55TGlrREtDVHRZakxoNWloQXhkMkdJOE9XVnR6SE9vY2VsUDhRMC1vb1I5b1FfaVROSXdFTkdidmJaLXdBQW5YaGFXYlczTk1mcnVBb3lFbktPNm85bE44N1ZpLVZxT0lUaV9sZThtMkVyZ1dJZUpGWXp1STVOMm84XzMxS0Rnblc5TkVYdi1PV01vTmFjUXZMaHhQMExiNkQyLWxqVFFUbUgtUzZ0Z2Jkb3lwYXJNNHkwRzNLcExR?oc=5"
+      "title": "美股不用熬夜買了？那斯達克23小時交易12/6上路！日券商跟進，台灣呢？－中央社｜商周 - 商周",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZQjVyYTdYS3BvbTBPZ2RQdGUtVDlzUFlZY1YyVkJ3WV9oMUZRc0hnaThuTHN5N2REMHdrUzFkYkc4dlc2cWZZUG1LUlVHN1RZYXJ6aDlmNDVGdlBSaG5xU2hkUEp2QQ?oc=5"
     },
     {
-      "title": "BTC與ETH ETF上週吸金11億美元，結束2026年大部分時間淨流出局面 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44TTZYWThxbHBqVElKMjN4STVDam43NDROLXN6cVBPQTRBLTNXdXZlN2tkTnpvUlNMV0M4aVBsVUNrX09UZUJDbldwZw?oc=5"
+      "title": "零售數據疲軟＋中東關係緊張！美股4大指數收黑 台積電ADR跌近1%、台指期夜盤下滑85點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOX2lyRlBPQ1N6YWVtTmpEM1JBcjE2Xzg1MTBJU050OVJ6U2gtbDN3RnhVdUFSTGZkM2xSZGE3c2RDOVNNWUJVRHRYM0lITlMxak1PUUhFMGJ4TG0xVWxpeEVZaVRId3ZZNEZTbWF3SDlTX2FiaS1GUVRXcDJHdk9BR0ZnemRuZm9KbnplMUcyZnd1MlIzOFdlX2dFM0dLUEhoREdkeWJhTjBfWnQzNldFeC1NaXRRZ3NVMHZzdXFaVTBZcHlpekdyX3pTS1Q3MThIRFVSeTViTDUwa0hsRFJ2b3REQl9ZTFJWSkFKU0tmTk03dXpqT0d6N2kwVFBOcGlXXzNNLWV2R1VPTjNiY1BzRzlUUURpZTN1eENKd1oybFd5U21WUEoxamhsNHFUYVJxOU55TGlrREtDVHRZakxoNWloQXhkMkdJOE9XVnR6SE9vY2VsUDhRMC1vb1I5b1FfaVROSXdFTkdidmJaLXdBQW5YaGFXYlczTk1mcnVBb3lFbktPNm85bE44N1ZpLVZxT0lUaV9sZThtMkVyZ1dJZUpGWXp1STVOMm84XzMxS0Rnblc5TkVYdi1PV01vTmFjUXZMaHhQMExiNkQyLWxqVFFUbUgtUzZ0Z2Jkb3lwYXJNNHkwRzNLcExR?oc=5"
     }
   ]
 }
