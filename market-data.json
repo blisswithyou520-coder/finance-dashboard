@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/16 05:27",
+  "updated_tw": "08/16 05:48",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 106.4,
-      "change": 1.2,
-      "changePercent": 1.1407
+      "change": -0.3,
+      "changePercent": -0.2812
     },
     "00878": {
       "price": 33.87,
-      "change": 0.35,
-      "changePercent": 1.0442
+      "change": 0.09,
+      "changePercent": 0.2664
     },
     "00919": {
       "price": 30.57,
-      "change": 0.38,
-      "changePercent": 1.2587
+      "change": 0.16,
+      "changePercent": 0.5261
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63068.73,
-      "change": 93.1363,
-      "changePercent": 0.1479
+      "price": 63087.05,
+      "change": 111.4563,
+      "changePercent": 0.177
     },
     "ETH": {
-      "price": 1882.64,
-      "change": 1.99,
-      "changePercent": 0.1058
+      "price": 1883.24,
+      "change": 2.59,
+      "changePercent": 0.1377
     }
   },
   "fx": {
