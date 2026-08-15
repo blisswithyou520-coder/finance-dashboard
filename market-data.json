@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 12:29",
+  "updated_tw": "08/15 12:58",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63063.41,
-      "change": -338.7619,
-      "changePercent": -0.5343
+      "price": 63052.01,
+      "change": -350.1619,
+      "changePercent": -0.5523
     },
     "ETH": {
-      "price": 1882.53,
-      "change": -1.4613,
-      "changePercent": -0.0776
+      "price": 1882.46,
+      "change": -1.5313,
+      "changePercent": -0.0813
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4432.0,
-    "twd": 4560.0,
-    "tael": 171012.0,
-    "twdTotal": 141842.0,
-    "changePercent": 1.5675
+    "usd": 4437.3,
+    "twd": 4566.0,
+    "tael": 171216.0,
+    "twdTotal": 142011.0,
+    "changePercent": 1.689
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,16 @@
   },
   "news": [
     {
+      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
+    },
+    {
       "title": "美股綠油油！博通、應材慘摔逾4% 台積電ADR也跌1.2％ - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYWU4MjFISFZhWFpBeUNtSV85eWNNTmw4b3cxcjZsRDA1emNVQW43dU9iTHZQeFdaazF0cm9rWHYwak01ODlHc01KSHdqUkxlOENia2kzaFhsM2g4NWJjeVB6cnhHM1lYejJZRXhIdVhSWlUzS2YzS1dkSy1LMGlwUWFLRlJBUUhuZmRsbkZxMDUwUXEyc2l4S0ctYVZNVmR2dnQ5TE5faks2Tk5fV0tyWFNJVEtMMGhvZHdFSkRZSkZiR09aeGltVEMtckM3MDJkWVBKaERNdkRjMXQyOElsLVpINkZUWFhkTExSTzVoeFRIOUtIdlU2WWg0azhSSFVZZzZ5R0cxMWdTQldNRGpNLW52UEFHd2wtLW1zQ3hmb25wN2t0bUxpQ3FGaVBrRzNiZWp3Sw?oc=5"
     },
     {
       "title": "美股早盤／3大指數接近平盤記憶體族群上漲、美無人機高飛| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xOXpMR2JVUExWQVZRdm1fVThuRE9YWEMwYVZ6c29yQ2x1aUJGaUdocVdtLWU2ZGZpY2ZLejBJemxiQ0I2aGZfN0FEWmRGTWVM?oc=5"
-    },
-    {
-      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
     },
     {
       "title": "美股漲勢暗藏風險！VIX 探底凸顯過度樂觀 專家警告：平靜過後恐迎更猛烈跌勢 - news.cnyes.com",
