@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 18:29",
+  "updated_tw": "08/15 18:51",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62945.02,
-      "change": -30.5738,
-      "changePercent": -0.0485
+      "price": 62983.26,
+      "change": 7.6663,
+      "changePercent": 0.0122
     },
     "ETH": {
-      "price": 1877.42,
-      "change": -3.23,
-      "changePercent": -0.1718
+      "price": 1878.69,
+      "change": -1.96,
+      "changePercent": -0.1042
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": 0.0237,
-      "changePercent": 0.0639
+      "change": -0.0481,
+      "changePercent": -0.1295
     },
     "CNYTWD": {
       "price": 4.7544,
@@ -117,16 +117,16 @@
   },
   "news": [
     {
+      "title": "分析：比特幣表觀需求明顯改善，但結構性囤積量尚無法完全吸收新供應 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5OVZBU3F0cGRzOGNVekVONFVJQTFXdDhrUkEtNjNfbXEwWV80N0V2Tk1VQnZ3TlBUcE1nMWZYZDdJVDduVkM1el8zOA?oc=5"
+    },
+    {
       "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
     },
     {
-      "title": "分析：比特幣表觀需求明顯改善，但結構性囤積量尚無法完全吸收新供應 - cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5OVZBU3F0cGRzOGNVekVONFVJQTFXdDhrUkEtNjNfbXEwWV80N0V2Tk1VQnZ3TlBUcE1nMWZYZDdJVDduVkM1el8zOA?oc=5"
-    },
-    {
-      "title": "美股綠油油！博通、應材慘摔逾4% 台積電ADR也跌1.2％ - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYWU4MjFISFZhWFpBeUNtSV85eWNNTmw4b3cxcjZsRDA1emNVQW43dU9iTHZQeFdaazF0cm9rWHYwak01ODlHc01KSHdqUkxlOENia2kzaFhsM2g4NWJjeVB6cnhHM1lYejJZRXhIdVhSWlUzS2YzS1dkSy1LMGlwUWFLRlJBUUhuZmRsbkZxMDUwUXEyc2l4S0ctYVZNVmR2dnQ5TE5faks2Tk5fV0tyWFNJVEtMMGhvZHdFSkRZSkZiR09aeGltVEMtckM3MDJkWVBKaERNdkRjMXQyOElsLVpINkZUWFhkTExSTzVoeFRIOUtIdlU2WWg0azhSSFVZZzZ5R0cxMWdTQldNRGpNLW52UEFHd2wtLW1zQ3hmb25wN2t0bUxpQ3FGaVBrRzNiZWp3Sw?oc=5"
+      "title": "零售數據疲軟＋中東關係緊張！美股4大指數收黑 台積電ADR跌近1%、台指期夜盤下滑85點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOX2lyRlBPQ1N6YWVtTmpEM1JBcjE2Xzg1MTBJU050OVJ6U2gtbDN3RnhVdUFSTGZkM2xSZGE3c2RDOVNNWUJVRHRYM0lITlMxak1PUUhFMGJ4TG0xVWxpeEVZaVRId3ZZNEZTbWF3SDlTX2FiaS1GUVRXcDJHdk9BR0ZnemRuZm9KbnplMUcyZnd1MlIzOFdlX2dFM0dLUEhoREdkeWJhTjBfWnQzNldFeC1NaXRRZ3NVMHZzdXFaVTBZcHlpekdyX3pTS1Q3MThIRFVSeTViTDUwa0hsRFJ2b3REQl9ZTFJWSkFKU0tmTk03dXpqT0d6N2kwVFBOcGlXXzNNLWV2R1VPTjNiY1BzRzlUUURpZTN1eENKd1oybFd5U21WUEoxamhsNHFUYVJxOU55TGlrREtDVHRZakxoNWloQXhkMkdJOE9XVnR6SE9vY2VsUDhRMC1vb1I5b1FfaVROSXdFTkdidmJaLXdBQW5YaGFXYlczTk1mcnVBb3lFbktPNm85bE44N1ZpLVZxT0lUaV9sZThtMkVyZ1dJZUpGWXp1STVOMm84XzMxS0Rnblc5TkVYdi1PV01vTmFjUXZMaHhQMExiNkQyLWxqVFFUbUgtUzZ0Z2Jkb3lwYXJNNHkwRzNLcExR?oc=5"
     },
     {
       "title": "美股早盤／3大指數接近平盤記憶體族群上漲、美無人機高飛| 全球財經| 全球 - UDN",
