@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 15:32",
+  "updated_tw": "08/15 15:58",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63010.26,
-      "change": 34.6663,
-      "changePercent": 0.055
+      "price": 63005.66,
+      "change": 30.0663,
+      "changePercent": 0.0477
     },
     "ETH": {
-      "price": 1879.22,
-      "change": -1.43,
-      "changePercent": -0.076
+      "price": 1878.53,
+      "change": -2.12,
+      "changePercent": -0.1127
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": 0.0237,
-      "changePercent": 0.0639
+      "change": -0.0481,
+      "changePercent": -0.1295
     },
     "CNYTWD": {
       "price": 4.7544,
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
     },
     {
-      "title": "Edleman Financial持有3400万美元比特币ETF - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhSUNzU0pMc0daMGRqcndZU2JBVXJtcUVodGVQU1YyZkVOcFJqRmxVMUpxaFk2WkI3SUR3UktSQjUtNGtBcTlUNHpfN0o1dDRRbGNoN3JjRGJnbFhtbzV3aTQ1MU1TUQ?oc=5"
-    },
-    {
       "title": "美股綠油油！博通、應材慘摔逾4% 台積電ADR也跌1.2％ - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYWU4MjFISFZhWFpBeUNtSV85eWNNTmw4b3cxcjZsRDA1emNVQW43dU9iTHZQeFdaazF0cm9rWHYwak01ODlHc01KSHdqUkxlOENia2kzaFhsM2g4NWJjeVB6cnhHM1lYejJZRXhIdVhSWlUzS2YzS1dkSy1LMGlwUWFLRlJBUUhuZmRsbkZxMDUwUXEyc2l4S0ctYVZNVmR2dnQ5TE5faks2Tk5fV0tyWFNJVEtMMGhvZHdFSkRZSkZiR09aeGltVEMtckM3MDJkWVBKaERNdkRjMXQyOElsLVpINkZUWFhkTExSTzVoeFRIOUtIdlU2WWg0azhSSFVZZzZ5R0cxMWdTQldNRGpNLW52UEFHd2wtLW1zQ3hmb25wN2t0bUxpQ3FGaVBrRzNiZWp3Sw?oc=5"
+    },
+    {
+      "title": "美國消費轉弱、美股自歷史高點回落 半導體後市聚焦月底輝達財報 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcVEwRkF4LVJlUGpMb0J5azJDdmItcVlJUjlDeDg3TGJMVDM4YklPblFTTWdSeWdMS2NyOTZYR3pnbkU4T3d3X2htZVpSSXpsVzJ1ZjJ6aGFENHJF0gFiQVVfeXFMUGF6WFlYTEFKU19NUmpodW9wQkdhVHF0SkFIZkN2MzN5eWdDWmVScXg5WjNxSmRPQXlpX2tndWxpMmtqVDBsZlRPUURCa1RFNXJnQ2dJalR3aEc4cnpSSm1kT1E?oc=5"
     }
   ]
 }
