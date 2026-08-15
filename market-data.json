@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 14:56",
+  "updated_tw": "08/15 15:32",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63067.53,
-      "change": -334.6419,
-      "changePercent": -0.5278
+      "price": 63010.26,
+      "change": 34.6663,
+      "changePercent": 0.055
     },
     "ETH": {
-      "price": 1881.53,
-      "change": -2.4613,
-      "changePercent": -0.1306
+      "price": 1879.22,
+      "change": -1.43,
+      "changePercent": -0.076
     }
   },
   "fx": {
@@ -117,16 +117,16 @@
   },
   "news": [
     {
-      "title": "美股綠油油！博通、應材慘摔逾4% 台積電ADR也跌1.2％ - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYWU4MjFISFZhWFpBeUNtSV85eWNNTmw4b3cxcjZsRDA1emNVQW43dU9iTHZQeFdaazF0cm9rWHYwak01ODlHc01KSHdqUkxlOENia2kzaFhsM2g4NWJjeVB6cnhHM1lYejJZRXhIdVhSWlUzS2YzS1dkSy1LMGlwUWFLRlJBUUhuZmRsbkZxMDUwUXEyc2l4S0ctYVZNVmR2dnQ5TE5faks2Tk5fV0tyWFNJVEtMMGhvZHdFSkRZSkZiR09aeGltVEMtckM3MDJkWVBKaERNdkRjMXQyOElsLVpINkZUWFhkTExSTzVoeFRIOUtIdlU2WWg0azhSSFVZZzZ5R0cxMWdTQldNRGpNLW52UEFHd2wtLW1zQ3hmb25wN2t0bUxpQ3FGaVBrRzNiZWp3Sw?oc=5"
+      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
+    },
+    {
+      "title": "零售數據疲軟＋中東關係緊張！美股4大指數收黑 台積電ADR跌近1%、台指期夜盤下滑85點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOX2lyRlBPQ1N6YWVtTmpEM1JBcjE2Xzg1MTBJU050OVJ6U2gtbDN3RnhVdUFSTGZkM2xSZGE3c2RDOVNNWUJVRHRYM0lITlMxak1PUUhFMGJ4TG0xVWxpeEVZaVRId3ZZNEZTbWF3SDlTX2FiaS1GUVRXcDJHdk9BR0ZnemRuZm9KbnplMUcyZnd1MlIzOFdlX2dFM0dLUEhoREdkeWJhTjBfWnQzNldFeC1NaXRRZ3NVMHZzdXFaVTBZcHlpekdyX3pTS1Q3MThIRFVSeTViTDUwa0hsRFJ2b3REQl9ZTFJWSkFKU0tmTk03dXpqT0d6N2kwVFBOcGlXXzNNLWV2R1VPTjNiY1BzRzlUUURpZTN1eENKd1oybFd5U21WUEoxamhsNHFUYVJxOU55TGlrREtDVHRZakxoNWloQXhkMkdJOE9XVnR6SE9vY2VsUDhRMC1vb1I5b1FfaVROSXdFTkdidmJaLXdBQW5YaGFXYlczTk1mcnVBb3lFbktPNm85bE44N1ZpLVZxT0lUaV9sZThtMkVyZ1dJZUpGWXp1STVOMm84XzMxS0Rnblc5TkVYdi1PV01vTmFjUXZMaHhQMExiNkQyLWxqVFFUbUgtUzZ0Z2Jkb3lwYXJNNHkwRzNLcExR?oc=5"
     },
     {
       "title": "美股早盤／3大指數接近平盤記憶體族群上漲、美無人機高飛| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xOXpMR2JVUExWQVZRdm1fVThuRE9YWEMwYVZ6c29yQ2x1aUJGaUdocVdtLWU2ZGZpY2ZLejBJemxiQ0I2aGZfN0FEWmRGTWVM?oc=5"
-    },
-    {
-      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
     },
     {
       "title": "美股漲勢暗藏風險！VIX 探底凸顯過度樂觀 專家警告：平靜過後恐迎更猛烈跌勢 - news.cnyes.com",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
     },
     {
-      "title": "Edleman Financial持有3400万美元比特币ETF - tw.tradingview.com",
+      "title": "Edleman Financial持有3400万美元比特币ETF - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhSUNzU0pMc0daMGRqcndZU2JBVXJtcUVodGVQU1YyZkVOcFJqRmxVMUpxaFk2WkI3SUR3UktSQjUtNGtBcTlUNHpfN0o1dDRRbGNoN3JjRGJnbFhtbzV3aTQ1MU1TUQ?oc=5"
     },
     {
-      "title": "美國消費轉弱美股自歷史高點回落、半導體後市聚焦月底輝達財報| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12cWFDTllkTVYyQWtHZVhWaWRUSi02ZjNtTTJ3cHJCRHF4RFRxMXBNOGl3NTRlUHBwSmJMQV9OamV1UHRGYklSRzYzcnFjUEVf?oc=5"
+      "title": "美股綠油油！博通、應材慘摔逾4% 台積電ADR也跌1.2％ - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYWU4MjFISFZhWFpBeUNtSV85eWNNTmw4b3cxcjZsRDA1emNVQW43dU9iTHZQeFdaazF0cm9rWHYwak01ODlHc01KSHdqUkxlOENia2kzaFhsM2g4NWJjeVB6cnhHM1lYejJZRXhIdVhSWlUzS2YzS1dkSy1LMGlwUWFLRlJBUUhuZmRsbkZxMDUwUXEyc2l4S0ctYVZNVmR2dnQ5TE5faks2Tk5fV0tyWFNJVEtMMGhvZHdFSkRZSkZiR09aeGltVEMtckM3MDJkWVBKaERNdkRjMXQyOElsLVpINkZUWFhkTExSTzVoeFRIOUtIdlU2WWg0azhSSFVZZzZ5R0cxMWdTQldNRGpNLW52UEFHd2wtLW1zQ3hmb25wN2t0bUxpQ3FGaVBrRzNiZWp3Sw?oc=5"
     }
   ]
 }
