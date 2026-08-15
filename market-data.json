@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 23:59",
+  "updated_tw": "08/16 00:34",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63022.96,
-      "change": 47.3662,
-      "changePercent": 0.0752
+      "price": 63018.05,
+      "change": 42.4563,
+      "changePercent": 0.0674
     },
     "ETH": {
-      "price": 1882.95,
-      "change": 2.3,
-      "changePercent": 0.1223
+      "price": 1882.37,
+      "change": 1.72,
+      "changePercent": 0.0915
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": -0.0481,
-      "changePercent": -0.1295
+      "change": 0.0237,
+      "changePercent": 0.0639
     },
     "CNYTWD": {
       "price": 4.7544,
@@ -117,32 +117,32 @@
   },
   "news": [
     {
-      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
+      "title": "美債殖利率飆高但美股照樣登頂 結果會是哪個拉回？ - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zem5Qb1dpVlpSdkViUUE3X2hmWXVMelM0YkN0S0lZNDY5ZkM3UVJaR0VhMUYzR3Z5U0R2Z1pYcU92MW5sdEdSendqNHhQRGdY?oc=5"
     },
     {
       "title": "星期一開盤慘了？美股全面收黑 台指期夜盤也下殺 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVVZrbWJhV1VLUXNmR1JPNHlRQjNHNVNuNXNhSGZSNU5LLUpqRnN5dUpUWFEySHVuV1cxM1ZRc2Nmb3VLOUtzWTZoZWxwSkJ4OXRvOFB2RkJ1Qjk3ZzNobzI4eVlwa3VUVlNwdVBxQURkbHdoekQ0LTRpbDJSUEtGWmRUZ19jTWtocWlab0RlcmpmYzZlaUExUi0wT1pqWnJyMVBhRTZqS2ZPM3Y2bE9FTmRVY3dqMlNNQzQzV0VIS1drWnN6ZWxWRVdCRjI3NDJyZWhVcnFNaHR4d0luSGljRjFQMWFiVV9vcnFMLWRINUJwMWJ6NExNU0xzeTlWT2VYRnAtSFlPUXVCTU45U2R1ZzNTa282ZURpZ2JlUDJXdHhQakdHS1o0Y1plclVjVDQ2aVZTMkh4SmlfYm5LUXRVZmZxWGdLdEdEZDhaUHVHTQ?oc=5"
     },
     {
-      "title": "分析：比特幣表觀需求明顯改善，但結構性囤積量尚無法完全吸收新供應 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5OVZBU3F0cGRzOGNVekVONFVJQTFXdDhrUkEtNjNfbXEwWV80N0V2Tk1VQnZ3TlBUcE1nMWZYZDdJVDduVkM1el8zOA?oc=5"
+      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - ec.ltn.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
     },
     {
-      "title": "台股AI資本支出擴張疑慮仍在 下半年能否再創高？ | 市場焦點 | 證券 - money.udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9La09ScEhVZi0ybzR0SEljd1FyU2FBbEFianJLT2dDdFF2QUVLaXFzSkNPRkx0a3RUcE1Cb3hKUlBSdVQ0RTZiMXpOa3dob25ZXzZZV21xeUNMdw?oc=5"
+      "title": "分析：比特幣表觀需求明顯改善，但結構性囤積量尚無法完全吸收新供應 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5OVZBU3F0cGRzOGNVekVONFVJQTFXdDhrUkEtNjNfbXEwWV80N0V2Tk1VQnZ3TlBUcE1nMWZYZDdJVDduVkM1el8zOA?oc=5"
     },
     {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
     },
     {
-      "title": "美股黃金齊上漲、比特幣反彈缺席，底部訊號出現了嗎？ - blockcast.it",
+      "title": "美股黃金齊上漲、比特幣反彈缺席，底部訊號出現了嗎？ - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONGJGZGNrM05hRU9FZjNDUklqd3FSZERBb1ZOOGxYSF9OSVo5cGVLWG4zc1dQNU5pZ056eVJkeEJlWjY4a05OaHVMbElwTFozdFFPV2xmMGhZSHhtbTFrdWcxc3czWjU5S3JBZEc5V0RNZjZPazVnVzJ3QlNtek94T2pFbzdsSVBuUXA0RDNueUhmd2Q2RkE?oc=5"
     },
     {
-      "title": "美股不用熬夜買了？那斯達克23小時交易12/6上路！日券商跟進，台灣呢？－中央社｜商周 - 商周",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZQjVyYTdYS3BvbTBPZ2RQdGUtVDlzUFlZY1YyVkJ3WV9oMUZRc0hnaThuTHN5N2REMHdrUzFkYkc4dlc2cWZZUG1LUlVHN1RZYXJ6aDlmNDVGdlBSaG5xU2hkUEp2QQ?oc=5"
+      "title": "黃金發威了！背後原因、本週最新走勢一次看 - ec.ltn.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Femp2S3VJb3hBMXU0ZEQzMkQwWEZTdWEtYUFibW9hWlVpc3NnWGd6NFU3Tm1JQTFlRXNTbTRzbXh1cFBPYnVHZkMycGtJUjJHNXVQbVg3QXQ3anF4ZVVr?oc=5"
     },
     {
       "title": "零售數據疲軟＋中東關係緊張！美股4大指數收黑 台積電ADR跌近1%、台指期夜盤下滑85點 - Yahoo股市",
