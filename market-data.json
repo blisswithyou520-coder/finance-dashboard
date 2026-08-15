@@ -1,11 +1,11 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/15 07:51",
+  "updated_tw": "08/15 09:09",
   "taiwan": {
     "2330": {
       "price": 2395.0,
-      "change": -20.0,
-      "changePercent": -0.8282
+      "change": -40.0,
+      "changePercent": -1.6427
     },
     "2454": {
       "price": 4210.0,
@@ -14,13 +14,13 @@
     },
     "2317": {
       "price": 259.5,
-      "change": -10.5,
-      "changePercent": -3.8889
+      "change": -2.5,
+      "changePercent": -0.9542
     },
     "0050": {
       "price": 106.4,
-      "change": 1.8,
-      "changePercent": 1.7208
+      "change": 1.2,
+      "changePercent": 1.1407
     },
     "00878": {
       "price": 33.87,
@@ -29,8 +29,8 @@
     },
     "00919": {
       "price": 30.57,
-      "change": 0.45,
-      "changePercent": 1.494
+      "change": 0.38,
+      "changePercent": 1.2587
     }
   },
   "us": {
@@ -72,31 +72,31 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62957.07,
-      "change": -445.1019,
-      "changePercent": -0.702
+      "price": 62944.49,
+      "change": -457.6819,
+      "changePercent": -0.7219
     },
     "ETH": {
-      "price": 1879.02,
-      "change": -4.9713,
-      "changePercent": -0.2639
+      "price": 1880.25,
+      "change": -3.7413,
+      "changePercent": -0.1986
     }
   },
   "fx": {
     "USDTWD": {
       "price": 32.004,
-      "change": -0.1983,
-      "changePercent": -0.6158
+      "change": -0.1201,
+      "changePercent": -0.3739
     },
     "JPYTWD": {
       "price": 0.1987,
-      "change": -0.0034,
-      "changePercent": -1.6862
+      "change": -0.0028,
+      "changePercent": -1.3729
     },
     "EURTWD": {
       "price": 37.074,
-      "change": -0.0481,
-      "changePercent": -0.1295
+      "change": 0.0237,
+      "changePercent": 0.0639
     },
     "CNYTWD": {
       "price": 4.7508,
@@ -117,32 +117,32 @@
   },
   "news": [
     {
-      "title": "〈美股盤後〉升息警報暫解 美股獲利了結 標普收黑仍寫周線三連漲 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45aUFxal9yZDlDc1AxY243UzRHSy15dlFvNHFiRjFSNEFHSy1fT3FobHo3NzFkWExQQ3ktcFBNQlg5V1pNWGJzaVBZYXU2UWc?oc=5"
+      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
     },
     {
-      "title": "美股綠油油！博通、應材慘摔逾4% 台積電ADR也跌1.2％ - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYWU4MjFISFZhWFpBeUNtSV85eWNNTmw4b3cxcjZsRDA1emNVQW43dU9iTHZQeFdaazF0cm9rWHYwak01ODlHc01KSHdqUkxlOENia2kzaFhsM2g4NWJjeVB6cnhHM1lYejJZRXhIdVhSWlUzS2YzS1dkSy1LMGlwUWFLRlJBUUhuZmRsbkZxMDUwUXEyc2l4S0ctYVZNVmR2dnQ5TE5faks2Tk5fV0tyWFNJVEtMMGhvZHdFSkRZSkZiR09aeGltVEMtckM3MDJkWVBKaERNdkRjMXQyOElsLVpINkZUWFhkTExSTzVoeFRIOUtIdlU2WWg0azhSSFVZZzZ5R0cxMWdTQldNRGpNLW52UEFHd2wtLW1zQ3hmb25wN2t0bUxpQ3FGaVBrRzNiZWp3Sw?oc=5"
+      "title": "〈美股盤後〉升息警報暫解 美股獲利了結 標普收黑仍寫周線三連漲 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45aUFxal9yZDlDc1AxY243UzRHSy15dlFvNHFiRjFSNEFHSy1fT3FobHo3NzFkWExQQ3ktcFBNQlg5V1pNWGJzaVBZYXU2UWc?oc=5"
     },
     {
       "title": "美股早盤／3大指數接近平盤記憶體族群上漲、美無人機高飛| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xOXpMR2JVUExWQVZRdm1fVThuRE9YWEMwYVZ6c29yQ2x1aUJGaUdocVdtLWU2ZGZpY2ZLejBJemxiQ0I2aGZfN0FEWmRGTWVM?oc=5"
     },
     {
-      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
-    },
-    {
-      "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
+      "title": "美股綠油油！博通、應材慘摔逾4% 台積電ADR也跌1.2％ - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYWU4MjFISFZhWFpBeUNtSV85eWNNTmw4b3cxcjZsRDA1emNVQW43dU9iTHZQeFdaazF0cm9rWHYwak01ODlHc01KSHdqUkxlOENia2kzaFhsM2g4NWJjeVB6cnhHM1lYejJZRXhIdVhSWlUzS2YzS1dkSy1LMGlwUWFLRlJBUUhuZmRsbkZxMDUwUXEyc2l4S0ctYVZNVmR2dnQ5TE5faks2Tk5fV0tyWFNJVEtMMGhvZHdFSkRZSkZiR09aeGltVEMtckM3MDJkWVBKaERNdkRjMXQyOElsLVpINkZUWFhkTExSTzVoeFRIOUtIdlU2WWg0azhSSFVZZzZ5R0cxMWdTQldNRGpNLW52UEFHd2wtLW1zQ3hmb25wN2t0bUxpQ3FGaVBrRzNiZWp3Sw?oc=5"
     },
     {
       "title": "美股全面收黑！零售數據疲軟拖累　台積電ADR跌0.96% - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBObWFSeElrYXNCZWZVOURZRzVjWmVOcUJEdnZ2WGh0Y2hZZUtDSGh3NkxQYVo4SUZlSGRmQ3dsWUZHNW5LUXcwd1RsZ0hzbUxkTVHSAVBBVV95cUxPN2VWSFd5dmYwS2RpN0xKSGtaUlZuMWRhNHJMX3ZLcTZuLXpzN3dtdkJKRXFLcnAyU29PeEFxUmI3WFNBSC1adS1POEtKdkEzWQ?oc=5"
     },
     {
-      "title": "比特幣短線遇亂流免驚！灰度曝「3 大利多」：加密市場正走向「機構化」 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUm9UN0NaclVRVDAxNUZZNlJxY0p2aWllRTFMalR3ME5kazNSenNOVnZyTjk0cFFiOVdwVy1ld0h3RUtGMENtU2pLYXljazBLSU9uV1hSYTZud0ItMHQtSTI5WEtObXJpTC1iVGl2OV82ZGhWVHA5SEJGeE9td01Bb1lmLUdNaGwxWTRBOVJ1UEIxdURkNEs2TGp0TGpBcDNGNm1KNk5pdHhiM1BlZWhwaFRNOTJObThxRDlwMUZfWEZvTFdh?oc=5"
+      "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
+    },
+    {
+      "title": "快訊／美股開盤費半下挫 「這記憶體大廠」逆勢漲4.66% - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOYThNeTIyZExESklnZHR2OWROZlhQSXM0ZzQyT2N4XzBwdS1SREtXMy1JYmNnTFpvSFV4cXRtZjB4QzVMSVBGZHhrV01OM2ZyUm9jM2ltZjlER3p5SUZjWG5OQXN0ME9VcGhhU0IzTEljYmE2NEJmRlFXSFRZM1lyWlJkU2p3S3hoQVRqNmFZenFKQkpDd2Nxdzhqdzh6bEJDY25NamlpdFdCSG5kQU54UEE2anZMRl9VMHZCdjJNOGZYbnY4TUNydUFPYzFqaWJidGpCSEU1eXdudmkyb2J5LUlxdjU0Nm4zNzQzTXZaYlBiODg0Ty1FME5vcDExS1JFTTM3bW1QRi1QM1o4ekoxdkxaR0U2eDNqZHlMY29GVHpmb2I1U092ZFh4R01PUEZYZjI4NHpORGpUZ1pLX0ZyWg?oc=5"
     },
     {
       "title": "美股漲勢暗藏風險！VIX 探底凸顯過度樂觀 專家警告：平靜過後恐迎更猛烈跌勢 - news.cnyes.com",
