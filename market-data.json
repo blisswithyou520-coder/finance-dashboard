@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/16 02:56",
+  "updated_tw": "08/16 03:23",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62983.3,
-      "change": 7.7063,
-      "changePercent": 0.0122
+      "price": 63046.5,
+      "change": 70.9062,
+      "changePercent": 0.1126
     },
     "ETH": {
-      "price": 1881.11,
-      "change": 0.46,
-      "changePercent": 0.0245
+      "price": 1882.26,
+      "change": 1.61,
+      "changePercent": 0.0856
     }
   },
   "fx": {
@@ -117,7 +117,7 @@
   },
   "news": [
     {
-      "title": "美股又要噴了？企業獲利創5年來最佳 這2檔近月績效逾8% - Yahoo新聞",
+      "title": "美股又要噴了？企業獲利創5年來最佳 這2檔近月績效逾8% - tw.news.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNem5kd1lRZ3NmNF9qYW5HN0d1M1ByUWZKYXhlZXJfTFhoNEt2U0xBSXNMU3N5WGdHUjgzdndjblNwYXFwZFBvR3hiMFpBR0RzWjA2T2Uxbm5yaldPSzlFZm9CMTZ5VkJ4M2pGTklEM3FZMEtYTjN4cUJRNjNMaXMwTFRDOWRjOUNVRVhyUUhaTTRWU3RjQVNsOFJzYzNyTEFKLVNWeDVjQ01YdURZa3ZVVmZvOTNVWGNvcF9VVzVWQzhvcnBEc1V6Mkd4VnM4SGpvTENKOWZFbTloRUktSWFPbVcxVkUxajU3YUk3dXNnNHVaZE5QaEEycU5mQUwxY0tWYWdNNllNc19adVAtaWQ2S3BjcnRQWV9PT2c2SWxCOG4zX05YRFdHclY3S2syQU9ydzdETWV1NGFQcGFQRURyLUVUWkotZGFNb2xMTERoUlRiUUNSSHdGS1pUNmFkVnU1Qnc?oc=5"
     },
     {
@@ -137,12 +137,12 @@
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
     },
     {
-      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
+      "title": "獲利賣壓出籠美股陷盤整格局- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wdXNweUc2UGVqTmVjb0IxWDdiN1o1TzEtbC1iT1BQM2htZGl0cU1xMHBDRks5MVF5R25Za2kzSkFjNEpmUnhYemVFQzJXU0czYUpwMmUtZmdJTTloeVVN?oc=5"
     },
     {
-      "title": "星期一開盤慘了？美股全面收黑 台指期夜盤也下殺 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVVZrbWJhV1VLUXNmR1JPNHlRQjNHNVNuNXNhSGZSNU5LLUpqRnN5dUpUWFEySHVuV1cxM1ZRc2Nmb3VLOUtzWTZoZWxwSkJ4OXRvOFB2RkJ1Qjk3ZzNobzI4eVlwa3VUVlNwdVBxQURkbHdoekQ0LTRpbDJSUEtGWmRUZ19jTWtocWlab0RlcmpmYzZlaUExUi0wT1pqWnJyMVBhRTZqS2ZPM3Y2bE9FTmRVY3dqMlNNQzQzV0VIS1drWnN6ZWxWRVdCRjI3NDJyZWhVcnFNaHR4d0luSGljRjFQMWFiVV9vcnFMLWRINUJwMWJ6NExNU0xzeTlWT2VYRnAtSFlPUXVCTU45U2R1ZzNTa282ZURpZ2JlUDJXdHhQakdHS1o0Y1plclVjVDQ2aVZTMkh4SmlfYm5LUXRVZmZxWGdLdEdEZDhaUHVHTQ?oc=5"
+      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
     },
     {
       "title": "美企獲利加速成長 美股走勢有撐 - 經濟日報",
