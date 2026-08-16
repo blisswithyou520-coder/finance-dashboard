@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 05:44",
+  "updated_tw": "08/17 05:58",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62849.6,
-      "change": -174.7203,
-      "changePercent": -0.2772
+      "price": 62895.11,
+      "change": -129.2103,
+      "changePercent": -0.205
     },
     "ETH": {
-      "price": 1871.39,
-      "change": -9.5183,
-      "changePercent": -0.506
+      "price": 1874.92,
+      "change": -5.9883,
+      "changePercent": -0.3184
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": -0.0481,
-      "changePercent": -0.1295
+      "change": 0.0237,
+      "changePercent": 0.0639
     },
     "CNYTWD": {
       "price": 4.7508,
@@ -129,8 +129,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11WkdyM1pHOTBMZ1RkMFNZekxlaDBNUWRiQjFNRTlNQzFNelVSLW5TYzJKM3h5VVUxNGw5TjhCVHR6UHpka2dNS2stdUZrR28?oc=5"
     },
     {
-      "title": "〈財經週報-投資觀點〉美股怎麼買？透過國內證券商 讓你的投資更有保障 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OWmc5b1dNV0h2Q1hWOTBVemdmYnFiWE5JamozWmtYUDRHM2tiUE9HLTQybjZoLWU5dUFiU0hLbjQ5QzhOcmRtZmpobXZrTk9GSUR4VC1R?oc=5"
+      "title": "〈財經週報-台股看盤〉AI去槓桿漸入尾聲 主動選股卡位台股反彈行情 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDWnQtZFdXUkF3M2lpSnNKZVlpVFdUZDZXa0w0bDB2dlcyUzB3RndUekw1ZDFicmQtZUROVURfa0VQU1JLSXNnZUFTX3lGaG40b09YQVFn?oc=5"
     },
     {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12RWNYWThqc3RVTXJYM3IwUVlLLW9sbVpWaVhCNVlTTkZ0U1UwdUZNQzZVcjBCc1dMT2cweVduaXBmNlRBcHphQ1NrTW1hS29aNHfSAVdBVV95cUxNdUt6UDFUYktRTDVlN2dNejUwcWdIdkY3elM3Q1o1TUVYSDZfMU9jR2tXdnBDZXVBV1JpR1BmdVJNdmtJMVhIelYzc1hyTW1vQzE5OWV2OTA?oc=5"
     },
     {
-      "title": "台股遇小頭部頸線！站不穩46000調節賣壓出籠？分析師曝回測買點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPYU5WRGEzMnZYM2NTMkl1WnVqVFBpMWlVTXo5V1FpaG0xcnF5OUsyOG1qOHBpZ2lnUXk3Zm5ySjZlX1ZNQWU5OHQ2VDVheVpzeXIycjh4STdkeDJDTGNOcXFpVE41RG1ScmRYaVJRX2Y1Rm82ZXpsSmpEZmhLRUpZeExndU9wbExzdWl2cUR1Z1lMVjJBbWo5M2dCNG0xVnRtVE9nZVh1cmVJdDZzUFFCVExWRjlCOGpDYklTUFVtWEhGQWMxWnU3QVFYcEdhZkhKUGR2UVkxMWNib2gtNjNWYlNnLThTNS1QTF9nTDZ0U3dkVzhXWWw4ekJMc044WlczbDBWc0pJRDFHb1FhYTVndkVHUFVpNkhVUWpKbzB4QW1JMU5Rd0d5ajdlaURvc1JxeC1YYlJRNzgxdDRSeVFEUmkyU0RfSHVIM1h0QnJvbGVta0h3b3hlaWpINHpRdkNpX3FBSlhtVFJnNjBxTWJ6bEtNMVBtb3VGYzdlUFY1U2lDWU44MkhRbg?oc=5"
+      "title": "〈財經週報-投資觀點〉美股怎麼買？透過國內證券商 讓你的投資更有保障 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OWmc5b1dNV0h2Q1hWOTBVemdmYnFiWE5JamozWmtYUDRHM2tiUE9HLTQybjZoLWU5dUFiU0hLbjQ5QzhOcmRtZmpobXZrTk9GSUR4VC1R?oc=5"
     }
   ]
 }
