@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 01:43",
+  "updated_tw": "08/17 01:57",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63077.74,
-      "change": 53.4197,
-      "changePercent": 0.0848
+      "price": 63087.15,
+      "change": 62.8297,
+      "changePercent": 0.0997
     },
     "ETH": {
-      "price": 1883.63,
-      "change": 2.7217,
-      "changePercent": 0.1447
+      "price": 1883.64,
+      "change": 2.7317,
+      "changePercent": 0.1452
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": -0.0481,
-      "changePercent": -0.1295
+      "change": 0.0237,
+      "changePercent": 0.0639
     },
     "CNYTWD": {
       "price": 4.7508,
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaHNRdEdPUktlMGpIX3BpeDFYcXZOR2dSR0JBelB2WW1fWHB6b2Rfbm02YkN5dlhLWGN4bjRIVjU5Q09QSTVNemxCWG1nWmN0dWg3Nmx5YldPWlM3NnVPZHF6ZDI5czl5VnRaM19FUjBLQkQ4YW9LVE9NcUpySE1Mcw?oc=5"
     },
     {
-      "title": "台股往46K大關挺進 法人點名三大布局方向 和碩、至上等逢低布局 | 市場焦點 | 證券 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aWTc5Q0NNS1YyWTZtajlIMnFJeGJ2d1hoVjNQT2lha1ZHX09YbVM3NTh3bUZ3ZEV3eXVqUXZ2UlhpLVBjNnhoTHR1eXRUc3BZbU5GM3FNanpUQQ?oc=5"
+      "title": "週五台股跌210點 明開盤前3風險 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeWo0WkFaTTlKeE1WWVZHZnVGeXJ1Qk9kODlPTEx1cWZUVkJzVDN2c3gzdFMwS3pVUVNCUmFINXp4U2YxUzJrTW1QYXJZbS1kQ1RtQmVvZVp1X2pjSzduWmtZQ1RITnRDSnBCUkxoMDZQTHYyVTdYQkZuaHZkRlpST0U1TFA0bHZ0ZzJzQkxLRnBRamxzeU5iYmg5YUVOa0hGbEFxXzRoWGEyY3Jkb05mMkFVazdDNWdXZWxFVjdWMWFfZ2RyazFfY19mRENMNGtQTnRKX3huY1hJVUppbkdGMzA0LXJKZnZSNEE?oc=5"
     }
   ]
 }
