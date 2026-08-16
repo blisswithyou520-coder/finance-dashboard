@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 02:37",
+  "updated_tw": "08/17 03:02",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63089.61,
-      "change": 65.2897,
-      "changePercent": 0.1036
+      "price": 63087.35,
+      "change": 63.0297,
+      "changePercent": 0.1
     },
     "ETH": {
-      "price": 1883.57,
-      "change": 2.6617,
-      "changePercent": 0.1415
+      "price": 1884.66,
+      "change": 3.7517,
+      "changePercent": 0.1995
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": 0.0237,
-      "changePercent": 0.0639
+      "change": -0.0481,
+      "changePercent": -0.1295
     },
     "CNYTWD": {
       "price": 4.7508,
@@ -117,16 +117,16 @@
   },
   "news": [
     {
-      "title": "暑假打工挖到3.3億黃金！18歲學生「一鏟翻出巨量金條」報警下場曝 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQdV9SaFppakVpd2FIU053VGdVekN0MnhEak4zd2lNU3NtQVRuejlBaHh3U1Y5YlhGREdRYnk4blk1aHl4YWlZdHFndnVUeWFSMGZmdFJ2bGZBa0lEM0EtTVYxeVc4LWFtTzJjeWN5T1Ftb3VmU2dVZDN2ZWlHY1NMU21YUXhYTVQ0S1JhWHRxeHJKLVB0bzA0TlNFSFk0T0ZiWUdBRU5HaEYteC1sbzZLVUtqdTJlamUtajliT2twdjFHMWkyN1ROOGZ6MTE1U2VUc0stNXQwOG40NjhvVk9RbWZyN2JVRjM5dkxXTGx3X0ZZVHpXMmlXTGNPVXR1NF9rQXNPR3VmUzBGNENJbVowUXM0NTAwME5TRmlJZVJmc1NUckd1RW1SZzZ0SHh5dVdjTjVLQlJqa0gyYV9rMGZDVEk5MERpdXVZQVF1RE56bDA1eFQ3cENSQjFNb0Y0SWNOdXlIUzFyU1VjZU1UM2xZdTNVU0plSG1GMXdDYnp3?oc=5"
-    },
-    {
       "title": "黃金期 有望續漲 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfR3AwN3JXeFBkVGpvV2d4ZkJUVmtjd1Qway15N0Q5RDRpY3QxakE4X29SMXNkT0MxY0NONGpZdHVQbWpDZU04LVNJYU9aVzJW0gFWQVVfeXFMT3FkdW41RjFjbG1zOVc3eVFCYmZtX0lGYnlyRUxWR0I4S2tIWUg0a0gyQU56OTlrVmsyaHJqMVFFTzBlNXdJX3pUSkt2bm40aVFMdnlHSHc?oc=5"
     },
     {
-      "title": "分析：比特幣潛在「遺失」量創歷史新高，約佔流通供應量的17.7% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VOGx4dmJaWHRHMTVnMGRuNEFwVWdMOFZhbTVUVkJKOHpKd3N6X05GVmhlVGhVQ0hRd181d3VPVzBxOEQ3TnRMSlYtdw?oc=5"
+      "title": "暑假打工挖到3.3億黃金！18歲學生「一鏟翻出巨量金條」報警下場曝 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQdV9SaFppakVpd2FIU053VGdVekN0MnhEak4zd2lNU3NtQVRuejlBaHh3U1Y5YlhGREdRYnk4blk1aHl4YWlZdHFndnVUeWFSMGZmdFJ2bGZBa0lEM0EtTVYxeVc4LWFtTzJjeWN5T1Ftb3VmU2dVZDN2ZWlHY1NMU21YUXhYTVQ0S1JhWHRxeHJKLVB0bzA0TlNFSFk0T0ZiWUdBRU5HaEYteC1sbzZLVUtqdTJlamUtajliT2twdjFHMWkyN1ROOGZ6MTE1U2VUc0stNXQwOG40NjhvVk9RbWZyN2JVRjM5dkxXTGx3X0ZZVHpXMmlXTGNPVXR1NF9rQXNPR3VmUzBGNENJbVowUXM0NTAwME5TRmlJZVJmc1NUckd1RW1SZzZ0SHh5dVdjTjVLQlJqa0gyYV9rMGZDVEk5MERpdXVZQVF1RE56bDA1eFQ3cENSQjFNb0Y0SWNOdXlIUzFyU1VjZU1UM2xZdTNVU0plSG1GMXdDYnp3?oc=5"
+    },
+    {
+      "title": "美股8月「牛市」又回來了！AI、科技股狂飆但「金髮女孩」行情恐藏風險 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11WkdyM1pHOTBMZ1RkMFNZekxlaDBNUWRiQjFNRTlNQzFNelVSLW5TYzJKM3h5VVUxNGw5TjhCVHR6UHpka2dNS2stdUZrR28?oc=5"
     },
     {
       "title": "漲也糾結跌也猶豫：普通人買黃金，消費還是投資？--經濟·科技--人民網 - 人民网",
