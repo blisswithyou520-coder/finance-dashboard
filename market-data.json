@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/16 14:58",
+  "updated_tw": "08/16 15:37",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62992.21,
-      "change": 16.6162,
-      "changePercent": 0.0264
+      "price": 62993.52,
+      "change": -30.8003,
+      "changePercent": -0.0489
     },
     "ETH": {
-      "price": 1878.51,
-      "change": -2.14,
-      "changePercent": -0.1138
+      "price": 1879.22,
+      "change": -1.6883,
+      "changePercent": -0.0898
     }
   },
   "fx": {
@@ -117,20 +117,20 @@
   },
   "news": [
     {
+      "title": "分析：比特幣潛在「遺失」量創歷史新高，約佔流通供應量的17.7% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VOGx4dmJaWHRHMTVnMGRuNEFwVWdMOFZhbTVUVkJKOHpKd3N6X05GVmhlVGhVQ0hRd181d3VPVzBxOEQ3TnRMSlYtdw?oc=5"
+    },
+    {
       "title": "重塑站前門戶！彰化縣員林市黃金帝國公辦都更案正式公告招商 - chcg.gov.tw",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaW8wdEZmdEdyZ0JESEJhS0FJZzBuQTVKb0VqLXFIUlVoZi1nUjE2elhpcjJOUTJzWWMyR0Z4Ylp4amxCOElVVVJHU2ZNZ0o0eHNpaEt6RDJPZ2FHT253V3NzY19YclBHaDBhX3dXODNVc0JKWjZQTmlRRWY2cEdHVXo5elhWMzlObGc?oc=5"
     },
     {
-      "title": "美國消費動能降溫 週五美股四大指數翻黑 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yOTk2TzBta2Q0eEI3ZkFkZ216d1lQRnBCeUxjMHVKaGtQNXZ4NTJiaVRjbHdxdHg0eW93NTlmV1dRM3Z0UDBjVkJWbHIwZ0E?oc=5"
-    },
-    {
-      "title": "Coinbase 比特幣負溢價已持續 90 天，續創歷史最長紀錄 - cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95R0NJRHNXTHhUd2ZTQ0Y1UGRGR29ib1JfTk41RVNSWThnenNvdHRtSDZuV0NSYnktcncyZTFrcUNFdEQtTlZqWDBRSQ?oc=5"
-    },
-    {
       "title": "劍指台股股王！「這AI伺服器導軌龍頭」7月稅後盈餘年增321% 法人上調獲利預估、目標價 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxOblhrVmJWaXVzc25paFpXZVRlMmdVRHV5Q0tHT3Q0d2tvakVCN2paN0h5MFdFeHctam1CaG9rYVJNVUFiVHhaRVRyN2tuc3RTbHFmempKdUJHelc2clRCMDVVRVN2WG82RmR6cE1XdEFsRV9Vd2dNVVdCSE5pT3BOZFVtajlFMUFEdGRTUmRRa2Rqa0ZodlFvWE1JQVdSbGtzckZJLU0tTk5veGFLeUgweDJndXMwcG1SVzNGUGZ5TGQ4LTlJOWdfZ194VFd2bTNKUWd0N0w2R01vRTdfMjlXd2pkb09ic1Ixbk9HbGFfUm0wNk9mWjBENGotUVhyMWtzcEg3YklHLTRvTWxqdlFBSEZvSlpROFY4TU5RTEtTZGNnNnlrTGFQSktrcFpDR1NZakI2QmdESk5aVXBfR095ZFYxUnVVWVc2OU0tQjBFNThXM1E5ekJNWFBtaTUyTFlCMVdKZjh0blptZldvbnhKcUE2SnpXNk9xVEpFcG9sdkZaQVhZdlBTYnJzNl9pSVp0ZzQzVUw4TEtHSlk4MzNQTmIxTE9WUXRROG52N2hrejNwT05BdEtPdkNiSEdhVUpiQXdVQWIzNVBIblhNTGhtNG9Fa2xYbTg4aDgyMkVDLVFZNW40TEd0dQ?oc=5"
+    },
+    {
+      "title": "美國消費動能降溫 週五美股四大指數翻黑 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yOTk2TzBta2Q0eEI3ZkFkZ216d1lQRnBCeUxjMHVKaGtQNXZ4NTJiaVRjbHdxdHg0eW93NTlmV1dRM3Z0UDBjVkJWbHIwZ0E?oc=5"
     },
     {
       "title": "漲也糾結跌也猶豫：普通人買黃金，消費還是投資？--經濟·科技--人民網 - 人民网",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hM2hfY0t6STBOaXctcUlZejBIdExISTZFSVFYY0ZNbDhWTTlPd0dXdHdqd2p1cWc3RE1pclNMekVfMGFhYWdLX1hTS2w0TFFy?oc=5"
     },
     {
-      "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
+      "title": "分析师：比特币或于10月6日至16日触及市场底部，可在4.8万至6.2万美元区间定投 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LbXdjcHJnNThYejBFeFpoN2NfcVZ5WFY0RzBFRGFPQWtSMzRweFVJY0dRamp1d1pKOVlGNDI5LTEwYXdDRlBSLXZnY2o2X0dSNkl6TDNGdWd0N05GSHVsM3k0TEZvUQ?oc=5"
     }
   ]
 }
