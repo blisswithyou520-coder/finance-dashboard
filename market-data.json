@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 01:17",
+  "updated_tw": "08/17 01:43",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63156.09,
-      "change": 131.7697,
-      "changePercent": 0.2091
+      "price": 63077.74,
+      "change": 53.4197,
+      "changePercent": 0.0848
     },
     "ETH": {
-      "price": 1884.81,
-      "change": 3.9017,
-      "changePercent": 0.2074
+      "price": 1883.63,
+      "change": 2.7217,
+      "changePercent": 0.1447
     }
   },
   "fx": {
@@ -117,16 +117,16 @@
   },
   "news": [
     {
+      "title": "暑假打工挖到3.3億黃金！18歲學生「一鏟翻出巨量金條」報警下場曝 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQdV9SaFppakVpd2FIU053VGdVekN0MnhEak4zd2lNU3NtQVRuejlBaHh3U1Y5YlhGREdRYnk4blk1aHl4YWlZdHFndnVUeWFSMGZmdFJ2bGZBa0lEM0EtTVYxeVc4LWFtTzJjeWN5T1Ftb3VmU2dVZDN2ZWlHY1NMU21YUXhYTVQ0S1JhWHRxeHJKLVB0bzA0TlNFSFk0T0ZiWUdBRU5HaEYteC1sbzZLVUtqdTJlamUtajliT2twdjFHMWkyN1ROOGZ6MTE1U2VUc0stNXQwOG40NjhvVk9RbWZyN2JVRjM5dkxXTGx3X0ZZVHpXMmlXTGNPVXR1NF9rQXNPR3VmUzBGNENJbVowUXM0NTAwME5TRmlJZVJmc1NUckd1RW1SZzZ0SHh5dVdjTjVLQlJqa0gyYV9rMGZDVEk5MERpdXVZQVF1RE56bDA1eFQ3cENSQjFNb0Y0SWNOdXlIUzFyU1VjZU1UM2xZdTNVU0plSG1GMXdDYnp3?oc=5"
+    },
+    {
       "title": "黃金期 有望續漲 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CM3BDVmk3S1JHQWRJYWpLYTFGdXNrZm9YTl96cGcwLTIxNGUtTUJhbXZjdTRRS3N4SlpTN21wNlNyQ3ctdGpwT2p0YnV6dGxjOXFGMTRnd1g2RXPSAWBBVV95cUxNZDFYdkIxNGVrTkloM2lzN0FGSHdTT3FCLWdDX0ZCelU2T0xmbnJDdlVPWjM0N3JfUVhHYVJZVkw4QkRYMXk3Ymtmb1hVc0ZYbkg5UHpRT0dwVkN6bkFuUHE?oc=5"
     },
     {
-      "title": "分析：比特幣潛在「遺失」量創歷史新高，約佔流通供應量的17.7% - cnyes.com",
+      "title": "分析：比特幣潛在「遺失」量創歷史新高，約佔流通供應量的17.7% - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VOGx4dmJaWHRHMTVnMGRuNEFwVWdMOFZhbTVUVkJKOHpKd3N6X05GVmhlVGhVQ0hRd181d3VPVzBxOEQ3TnRMSlYtdw?oc=5"
-    },
-    {
-      "title": "週五台股跌210點 明開盤前3風險 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeWo0WkFaTTlKeE1WWVZHZnVGeXJ1Qk9kODlPTEx1cWZUVkJzVDN2c3gzdFMwS3pVUVNCUmFINXp4U2YxUzJrTW1QYXJZbS1kQ1RtQmVvZVp1X2pjSzduWmtZQ1RITnRDSnBCUkxoMDZQTHYyVTdYQkZuaHZkRlpST0U1TFA0bHZ0ZzJzQkxLRnBRamxzeU5iYmg5YUVOa0hGbEFxXzRoWGEyY3Jkb05mMkFVazdDNWdXZWxFVjdWMWFfZ2RyazFfY19mRENMNGtQTnRKX3huY1hJVUppbkdGMzA0LXJKZnZSNEE?oc=5"
     },
     {
       "title": "漲也糾結跌也猶豫：普通人買黃金，消費還是投資？--經濟·科技--人民網 - 人民网",
@@ -137,12 +137,12 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yMFF5N0VuVnNvVHROY2VsN2d2WDZxenZpNXkzMDZqVzlST0dBenV6S0I5d2lqeElPWC1CaUFLWGNmWnVlb0lBSlVsUnFMWDBBYmtiZ2RaV1k1YXRiVnhoUjNWTUVzTTh5MTRtag?oc=5"
     },
     {
-      "title": "金價單周狂漲7%、創2個月新高，為何突然大漲？黃金現在可以買？李其展「底部墊高趨勢還沒結束」，買點曝光 - 今周刊",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaHNRdEdPUktlMGpIX3BpeDFYcXZOR2dSR0JBelB2WW1fWHB6b2Rfbm02YkN5dlhLWGN4bjRIVjU5Q09QSTVNemxCWG1nWmN0dWg3Nmx5YldPWlM3NnVPZHF6ZDI5czl5VnRaM19FUjBLQkQ4YW9LVE9NcUpySE1Mcw?oc=5"
-    },
-    {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
+    },
+    {
+      "title": "金價單周狂漲7%、創2個月新高，為何突然大漲？黃金現在可以買？李其展「底部墊高趨勢還沒結束」，買點曝光 - 今周刊",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaHNRdEdPUktlMGpIX3BpeDFYcXZOR2dSR0JBelB2WW1fWHB6b2Rfbm02YkN5dlhLWGN4bjRIVjU5Q09QSTVNemxCWG1nWmN0dWg3Nmx5YldPWlM3NnVPZHF6ZDI5czl5VnRaM19FUjBLQkQ4YW9LVE9NcUpySE1Mcw?oc=5"
     },
     {
       "title": "台股往46K大關挺進 法人點名三大布局方向 和碩、至上等逢低布局 | 市場焦點 | 證券 - 經濟日報",
