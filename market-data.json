@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/16 23:45",
+  "updated_tw": "08/17 00:22",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63044.99,
-      "change": 20.6697,
-      "changePercent": 0.0328
+      "price": 63223.9,
+      "change": 199.5797,
+      "changePercent": 0.3167
     },
     "ETH": {
-      "price": 1881.34,
-      "change": 0.4317,
-      "changePercent": 0.023
+      "price": 1885.59,
+      "change": 4.6817,
+      "changePercent": 0.2489
     }
   },
   "fx": {
@@ -99,7 +99,7 @@
       "changePercent": -0.1295
     },
     "CNYTWD": {
-      "price": 4.7544,
+      "price": 4.7508,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -125,12 +125,16 @@
       "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPN3R3T3plYzVCVG1VSlo1amNJd2RHZVR3TTctNVZPRVhLcUhoZUYzZzRHbjZCcUxDMU40dzRxUDdWWGZsRDM5eDdERHc5bTBQM1hTTGVZQ3M1VDBGbzZEams0RXl4VGgxUWEwX0RuZ0JNVVVPaTdwalBfVjVxSWpubGljaGpDN0xpT2lCdUtiVTUzVHVxM0h3WHFQcS11NkI0TVF5aDVscGxmblVsUFBFcmt3V0tnbFpCSjhhUExZY3I0ZWJ3LWJpdjZhZmRmMVdBNFFoa2h4aXI2MXVwSVFybGhXZzdkSlVmNFI3THYyTExEYm1RSGhsMDZ1X2J0TEdGQXZodTJISWlEbGVQbWZQaS1Fd3FpbnU1LWtqaUxqVmt1TzVobzNqd1NobmIzdDMtdWlaOEs5bGo?oc=5"
     },
     {
-      "title": "漲也糾結跌也猶豫：普通人買黃金，消費還是投資？--經濟·科技--人民網 - 人民网",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZY0FfTTNyUTgxWU9jYmFRcUpwYVhzc0Vpa3I5SzNNQzEwY0JLdkloSHJKRVNQVVBmYkVrQnY1TlpZVDc1bVdRWXoxNVR4T1pNc1dETFZ0VF9iNzJhRTZ0RmMwLS14ajdBY3pEZlpZYUJUUExk?oc=5"
+      "title": "台股往46K大關挺進 法人點名三大布局方向 和碩、至上等逢低布局 | 市場焦點 | 證券 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aWTc5Q0NNS1YyWTZtajlIMnFJeGJ2d1hoVjNQT2lha1ZHX09YbVM3NTh3bUZ3ZEV3eXVqUXZ2UlhpLVBjNnhoTHR1eXRUc3BZbU5GM3FNanpUQQ?oc=5"
     },
     {
       "title": "黃金還能追嗎？瑞銀財管 CIO：金價 2027 上半年有望衝過 5,000 美元 - finance.technews.tw",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yMFF5N0VuVnNvVHROY2VsN2d2WDZxenZpNXkzMDZqVzlST0dBenV6S0I5d2lqeElPWC1CaUFLWGNmWnVlb0lBSlVsUnFMWDBBYmtiZ2RaV1k1YXRiVnhoUjNWTUVzTTh5MTRtag?oc=5"
+    },
+    {
+      "title": "漲也糾結跌也猶豫：普通人買黃金，消費還是投資？--經濟·科技--人民網 - 人民网",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZY0FfTTNyUTgxWU9jYmFRcUpwYVhzc0Vpa3I5SzNNQzEwY0JLdkloSHJKRVNQVVBmYkVrQnY1TlpZVDc1bVdRWXoxNVR4T1pNc1dETFZ0VF9iNzJhRTZ0RmMwLS14ajdBY3pEZlpZYUJUUExk?oc=5"
     },
     {
       "title": "金價單周狂漲7%、創2個月新高，為何突然大漲？黃金現在可以買？李其展「底部墊高趨勢還沒結束」，買點曝光 - 今周刊",
@@ -141,12 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
     },
     {
-      "title": "美股早盤／3大指數接近平盤記憶體族群上漲、美無人機高飛| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xOXpMR2JVUExWQVZRdm1fVThuRE9YWEMwYVZ6c29yQ2x1aUJGaUdocVdtLWU2ZGZpY2ZLejBJemxiQ0I2aGZfN0FEWmRGTWVM?oc=5"
-    },
-    {
-      "title": "金價創高背後1原因才是殘酷事實 並非市場繁榮標誌 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90WkFyUGpfZWtIeFczTHRZdEJ1NnFFeG9fMWI0M2hrSmFVOVhCa21xcU1nN1dNWFg0cFpxa1pGaGMtVmJEWmlUcVpQWWpSTmZXbzZJbVpEVndQUzVrQ1RV?oc=5"
+      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
     }
   ]
 }
