@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/16 20:36",
+  "updated_tw": "08/16 21:18",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62942.17,
-      "change": -82.1503,
-      "changePercent": -0.1303
+      "price": 62999.97,
+      "change": -24.3503,
+      "changePercent": -0.0386
     },
     "ETH": {
-      "price": 1877.86,
-      "change": -3.0483,
-      "changePercent": -0.1621
+      "price": 1878.9,
+      "change": -2.0083,
+      "changePercent": -0.1068
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": 0.0237,
-      "changePercent": 0.0639
+      "change": -0.0481,
+      "changePercent": -0.1295
     },
     "CNYTWD": {
       "price": 4.7544,
@@ -133,8 +133,12 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZY0FfTTNyUTgxWU9jYmFRcUpwYVhzc0Vpa3I5SzNNQzEwY0JLdkloSHJKRVNQVVBmYkVrQnY1TlpZVDc1bVdRWXoxNVR4T1pNc1dETFZ0VF9iNzJhRTZ0RmMwLS14ajdBY3pEZlpZYUJUUExk?oc=5"
     },
     {
-      "title": "台股強彈高檔盤整 留意題材與落後補漲股 - 經濟日報",
+      "title": "台股強彈高檔盤整 留意題材與落後補漲股 - money.udn.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3Tmo3TnpxNENQSWdTeFpiTEdWLXdJaDUtaDIwbm9DV2tXUWVidG4zaW5nVUpLMkdGRUI0WjlRRTFDaDZiV3h6RjVvSUJzZzROd2RNcC1GcE5pUdIBX0FVX3lxTFBSck5WaVhVS1VtSXZkejRna0JORXNPQXpwOTRhVGxoV0FMbzZNQkRwUGVPSG5qWnM0dHFueTBtbTI0QmN3TU90elNTSXhpc2RESjI3TUpMZFpRcWowRnlV?oc=5"
+    },
+    {
+      "title": "金價單周狂漲7%、創2個月新高，為何突然大漲？黃金現在可以買？李其展「底部墊高趨勢還沒結束」，買點曝光 - 今周刊",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaHNRdEdPUktlMGpIX3BpeDFYcXZOR2dSR0JBelB2WW1fWHB6b2Rfbm02YkN5dlhLWGN4bjRIVjU5Q09QSTVNemxCWG1nWmN0dWg3Nmx5YldPWlM3NnVPZHF6ZDI5czl5VnRaM19FUjBLQkQ4YW9LVE9NcUpySE1Mcw?oc=5"
     },
     {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
@@ -143,10 +147,6 @@
     {
       "title": "美股風向球13F報告揭曉! 近半機構減碼\"AI股\" - 非凡新聞台",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FNldxekFhSlgzVGVoNE1ndVpLU19aMGdERHFpVGdrZnVSd1BCM254R0l6T05oTEc0VmotaGlxTDViYk9xWEZscVd5MURVQ3pWU3ZQdTc1b0hTRXVu?oc=5"
-    },
-    {
-      "title": "18歲學生暑假工地打工！挖到「3.3億黃金」 驚動比利時警方 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNcllwRHpBbDNKVHZaRm5JN2dhSDdWdXNNX3ZJdnMxbEhzNzJWTlVocDVGSnNJZ0diaG9CcVdfMnRpVHhaUU1iR2JLbnkyX1h6NmVseXJ6S0wzRWtEaVFzSXFVT0toX1dma0NyUUgyVGdtRFpiWU5aX2xYWUNaR1YybmtmYk92WmVtWW8ySnJrbTdaYW9HREg5WUtnRXFFN2J1WG9iWk5VWXRxM3N0MkVnT0JzRTZvd0lIak5sb3ZHaGtmYlhLempZUnNnV3NmblBjSEFGZmdmOHdJaE9TOC05M1JvR0doMEVkTDJrX1pERnB1ejhyeW9GTnJLRURvRUVkUEF5dzBaNHJQWjhkT25yQkkwMml5d3dkV0pjNzZqVkRCdms1SVA2WTRZMVpmbFV3bTRWb3FYR2VQMlFlS2otTkcxX2RNeE85RHlLQXln?oc=5"
     }
   ]
 }
