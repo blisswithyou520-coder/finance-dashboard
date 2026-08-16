@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/16 13:42",
+  "updated_tw": "08/16 14:02",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63009.1,
-      "change": 33.5062,
-      "changePercent": 0.0532
+      "price": 63001.8,
+      "change": 26.2063,
+      "changePercent": 0.0416
     },
     "ETH": {
-      "price": 1879.24,
-      "change": -1.41,
-      "changePercent": -0.075
+      "price": 1878.83,
+      "change": -1.82,
+      "changePercent": -0.0968
     }
   },
   "fx": {
@@ -117,10 +117,6 @@
   },
   "news": [
     {
-      "title": "重塑站前門戶！彰化縣員林市黃金帝國公辦都更案正式公告招商 - chcg.gov.tw",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaW8wdEZmdEdyZ0JESEJhS0FJZzBuQTVKb0VqLXFIUlVoZi1nUjE2elhpcjJOUTJzWWMyR0Z4Ylp4amxCOElVVVJHU2ZNZ0o0eHNpaEt6RDJPZ2FHT253V3NzY19YclBHaDBhX3dXODNVc0JKWjZQTmlRRWY2cEdHVXo5elhWMzlObGc?oc=5"
-    },
-    {
       "title": "Coinbase 比特幣負溢價已持續 90 天，續創歷史最長紀錄 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95R0NJRHNXTHhUd2ZTQ0Y1UGRGR29ib1JfTk41RVNSWThnenNvdHRtSDZuV0NSYnktcncyZTFrcUNFdEQtTlZqWDBRSQ?oc=5"
     },
@@ -129,7 +125,7 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yOTk2TzBta2Q0eEI3ZkFkZ216d1lQRnBCeUxjMHVKaGtQNXZ4NTJiaVRjbHdxdHg0eW93NTlmV1dRM3Z0UDBjVkJWbHIwZ0E?oc=5"
     },
     {
-      "title": "漲也糾結跌也猶豫：普通人買黃金，消費還是投資？--經濟·科技--人民網 - 人民网",
+      "title": "漲也糾結跌也猶豫：普通人買黃金，消費還是投資？--經濟·科技--人民網 - finance.people.com.cn",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZY0FfTTNyUTgxWU9jYmFRcUpwYVhzc0Vpa3I5SzNNQzEwY0JLdkloSHJKRVNQVVBmYkVrQnY1TlpZVDc1bVdRWXoxNVR4T1pNc1dETFZ0VF9iNzJhRTZ0RmMwLS14ajdBY3pEZlpZYUJUUExk?oc=5"
     },
     {
@@ -137,16 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03LVV2T3JZS3lhM29lSGJzSzZxbVFvRVRPR1pjV0JSbVRwQlpaUnV5ZzZRRzZ6U0VJNFBjUk5fX2NXbWN4LUN0a3BDOFU0dWJfYVhSZjNPaDVpVUlRMnc?oc=5"
     },
     {
-      "title": "明台股開盤「1記憶體股」該衝了？郭哲榮點2關鍵：老天送錢 - tw.news.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNVHdDMjZ1enlYbF8zRTFDUjY3NWRINU9MYUpDeDRlNFcxSVpYYzZwRUFldmdubVN6Y0JhcU9ydDZtYlFRVTNvekF1Q0FPYjRLcW15aVhaOUdKcFNnX0NoRWZ3NURKenhKeHdCWXRaWk9XaGsyZmNWaGh0VnMybTRlbFI1SDhkNVN0cHBfbGZYanBvNlV1dmFZa3RHdmxJd0tRY29WekNva3g4TTNGZnQ1TVc4enBiUHktNXU4T2dBTDByMDZhaGVMSUd0Uk9xbnN0S2FoRkNjSlJNaEZyb3A0NXVSVUF0anNYLWM2aTVmY2VSVnRfelJ0YWlxd1RTTGtMVTdlNi1CN3lRSk9BYWhGVlZWaHFFY0JrcE1FcWYtQV9PVzBtdjZzOGgyLWZ0Szh1MXBJc1RackFfcEQ5ckI0Nkc1RDBBQkREUzFhcWdqSmR2c0VZLUI0VU9pdXhXbmxfcXBn?oc=5"
-    },
-    {
       "title": "關禁閉大鬆綁台股新利多| 雜誌 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hM2hfY0t6STBOaXctcUlZejBIdExISTZFSVFYY0ZNbDhWTTlPd0dXdHdqd2p1cWc3RE1pclNMekVfMGFhYWdLX1hTS2w0TFFy?oc=5"
     },
     {
+      "title": "第3季台股落在42K至49K區間　光通訊、AI零組件4族群掌多頭兵符 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UeHRWVm53ZEdxTjRjUDU0aXh5YUM3a3FvaVdad3BLVHh1OWNKbGNaLUJad0lIbV8zeEkwa1d6bGtsTEhyNUVrREdfMkR3V00tUXfSAVBBVV95cUxOSUlPSjBENHFob0hqbWJQV203TXdVWGlyeHJ0OFp6d1FSWXpxWlo1Q1lpZ3dpR19kM3RZTEFlVWt1OUU2RHFqZWU3d2UzUTBHTg?oc=5"
+    },
+    {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
+    },
+    {
+      "title": "〈台股風向球〉8月來反彈2700點 4萬6關前籌碼面轉強有助驚驚漲格局 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SaWtERE04N0x2Skw5d016WGllNGpTOTVZRDhUenpGQy1adVRjSGNBOHo2d1JPaUN3SVdlOXlfLU5lLVVCd0hCZG9NdEU5ejA?oc=5"
     }
   ]
 }
