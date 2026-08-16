@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 00:22",
+  "updated_tw": "08/17 00:50",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63223.9,
-      "change": 199.5797,
-      "changePercent": 0.3167
+      "price": 63215.72,
+      "change": 191.3997,
+      "changePercent": 0.3037
     },
     "ETH": {
-      "price": 1885.59,
-      "change": 4.6817,
-      "changePercent": 0.2489
+      "price": 1888.2,
+      "change": 7.2917,
+      "changePercent": 0.3877
     }
   },
   "fx": {
@@ -117,24 +117,24 @@
   },
   "news": [
     {
-      "title": "分析：比特幣潛在「遺失」量創歷史新高，約佔流通供應量的17.7% - 鉅亨網",
+      "title": "布局美股基金 一兼二顧 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZUVVVOHN3cEx0ZU1LMW9pbEp2Vy1lVi12SEpYSTdLYkIwZ2t2ZEZUTzlJY09nOWUxSDlRdTVwdExIbk8yeUhSckpiZl9qbU1aQ0xqR3U5Nkd1d9IBX0FVX3lxTE9HOFA5bTBDR1dqYVlYVUg0ZjFFblNic09XVEpoelR1LWhQNmxBWnZhOVNRZDdEUklnUGx3LUdfN1BmanJRcVJIbmJEMDVHRkRVcHZ1Tkw0bHNqVS1hd0l3?oc=5"
+    },
+    {
+      "title": "分析：比特幣潛在「遺失」量創歷史新高，約佔流通供應量的17.7% - cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VOGx4dmJaWHRHMTVnMGRuNEFwVWdMOFZhbTVUVkJKOHpKd3N6X05GVmhlVGhVQ0hRd181d3VPVzBxOEQ3TnRMSlYtdw?oc=5"
     },
     {
-      "title": "台股開盤「這檔股」要衝了？郭哲榮：老天爺送錢 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPN3R3T3plYzVCVG1VSlo1amNJd2RHZVR3TTctNVZPRVhLcUhoZUYzZzRHbjZCcUxDMU40dzRxUDdWWGZsRDM5eDdERHc5bTBQM1hTTGVZQ3M1VDBGbzZEams0RXl4VGgxUWEwX0RuZ0JNVVVPaTdwalBfVjVxSWpubGljaGpDN0xpT2lCdUtiVTUzVHVxM0h3WHFQcS11NkI0TVF5aDVscGxmblVsUFBFcmt3V0tnbFpCSjhhUExZY3I0ZWJ3LWJpdjZhZmRmMVdBNFFoa2h4aXI2MXVwSVFybGhXZzdkSlVmNFI3THYyTExEYm1RSGhsMDZ1X2J0TEdGQXZodTJISWlEbGVQbWZQaS1Fd3FpbnU1LWtqaUxqVmt1TzVobzNqd1NobmIzdDMtdWlaOEs5bGo?oc=5"
-    },
-    {
-      "title": "台股往46K大關挺進 法人點名三大布局方向 和碩、至上等逢低布局 | 市場焦點 | 證券 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aWTc5Q0NNS1YyWTZtajlIMnFJeGJ2d1hoVjNQT2lha1ZHX09YbVM3NTh3bUZ3ZEV3eXVqUXZ2UlhpLVBjNnhoTHR1eXRUc3BZbU5GM3FNanpUQQ?oc=5"
-    },
-    {
-      "title": "黃金還能追嗎？瑞銀財管 CIO：金價 2027 上半年有望衝過 5,000 美元 - finance.technews.tw",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yMFF5N0VuVnNvVHROY2VsN2d2WDZxenZpNXkzMDZqVzlST0dBenV6S0I5d2lqeElPWC1CaUFLWGNmWnVlb0lBSlVsUnFMWDBBYmtiZ2RaV1k1YXRiVnhoUjNWTUVzTTh5MTRtag?oc=5"
+      "title": "週五台股跌210點 明開盤前3風險 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeWo0WkFaTTlKeE1WWVZHZnVGeXJ1Qk9kODlPTEx1cWZUVkJzVDN2c3gzdFMwS3pVUVNCUmFINXp4U2YxUzJrTW1QYXJZbS1kQ1RtQmVvZVp1X2pjSzduWmtZQ1RITnRDSnBCUkxoMDZQTHYyVTdYQkZuaHZkRlpST0U1TFA0bHZ0ZzJzQkxLRnBRamxzeU5iYmg5YUVOa0hGbEFxXzRoWGEyY3Jkb05mMkFVazdDNWdXZWxFVjdWMWFfZ2RyazFfY19mRENMNGtQTnRKX3huY1hJVUppbkdGMzA0LXJKZnZSNEE?oc=5"
     },
     {
       "title": "漲也糾結跌也猶豫：普通人買黃金，消費還是投資？--經濟·科技--人民網 - 人民网",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZY0FfTTNyUTgxWU9jYmFRcUpwYVhzc0Vpa3I5SzNNQzEwY0JLdkloSHJKRVNQVVBmYkVrQnY1TlpZVDc1bVdRWXoxNVR4T1pNc1dETFZ0VF9iNzJhRTZ0RmMwLS14ajdBY3pEZlpZYUJUUExk?oc=5"
+    },
+    {
+      "title": "黃金還能追嗎？瑞銀財管 CIO：金價 2027 上半年有望衝過 5,000 美元 - TechNews 科技新報",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yMFF5N0VuVnNvVHROY2VsN2d2WDZxenZpNXkzMDZqVzlST0dBenV6S0I5d2lqeElPWC1CaUFLWGNmWnVlb0lBSlVsUnFMWDBBYmtiZ2RaV1k1YXRiVnhoUjNWTUVzTTh5MTRtag?oc=5"
     },
     {
       "title": "金價單周狂漲7%、創2個月新高，為何突然大漲？黃金現在可以買？李其展「底部墊高趨勢還沒結束」，買點曝光 - 今周刊",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
     },
     {
-      "title": "美股收盤》4大指數收黑！台積電ADR跌近1％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2MUFHcGhIMENWc1V1RXlJb0N2Q1k1NVlsTUJzOU56LWNJaHRKWFNNTWVvT2pvSUF5dDA3SDQ5UENDNlZnM01iOU1jZFJrbEZ0Rk9nNVhHeDFmMEJuS2Zj?oc=5"
+      "title": "📊 美股復盤與買賣邏輯分享：新思科技 (SNPS) - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTHhIYWRTY2E1dXVMVjg4RUNvSjY0c3BvcHhPeVJOU0lMTHdmeHNpNzFrdDNlR0V5b1g2X0ZIa2s3cjBjdnVIVzM0RXl6dGl3aUkzVnFYSVo1NGFMdVFqWEdoUE5rYnIwdUhZZEJ6S09EUlpFbFBiZnc4ckw4MzNCblNNRGROZE1Ia2NMLXdiMWMzSC1tYW45OWpKdWJoQXl5TFZYR3hFTUlBLTYtRXBIcEU3YVE4Q3lQ?oc=5"
     }
   ]
 }
