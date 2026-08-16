@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/16 17:41",
+  "updated_tw": "08/16 17:59",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62977.15,
-      "change": -47.1703,
-      "changePercent": -0.0748
+      "price": 62917.51,
+      "change": -106.8103,
+      "changePercent": -0.1695
     },
     "ETH": {
-      "price": 1879.36,
-      "change": -1.5483,
-      "changePercent": -0.0823
+      "price": 1878.14,
+      "change": -2.7683,
+      "changePercent": -0.1472
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": -0.0481,
-      "changePercent": -0.1295
+      "change": 0.0237,
+      "changePercent": 0.0639
     },
     "CNYTWD": {
       "price": 4.7544,
@@ -121,12 +121,12 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VOGx4dmJaWHRHMTVnMGRuNEFwVWdMOFZhbTVUVkJKOHpKd3N6X05GVmhlVGhVQ0hRd181d3VPVzBxOEQ3TnRMSlYtdw?oc=5"
     },
     {
-      "title": "漲也糾結跌也猶豫：普通人買黃金，消費還是投資？--經濟·科技--人民網 - 人民网",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZY0FfTTNyUTgxWU9jYmFRcUpwYVhzc0Vpa3I5SzNNQzEwY0JLdkloSHJKRVNQVVBmYkVrQnY1TlpZVDc1bVdRWXoxNVR4T1pNc1dETFZ0VF9iNzJhRTZ0RmMwLS14ajdBY3pEZlpZYUJUUExk?oc=5"
-    },
-    {
       "title": "18歲學生暑假工地打工！挖到「3.3億黃金」 驚動比利時警方 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNcllwRHpBbDNKVHZaRm5JN2dhSDdWdXNNX3ZJdnMxbEhzNzJWTlVocDVGSnNJZ0diaG9CcVdfMnRpVHhaUU1iR2JLbnkyX1h6NmVseXJ6S0wzRWtEaVFzSXFVT0toX1dma0NyUUgyVGdtRFpiWU5aX2xYWUNaR1YybmtmYk92WmVtWW8ySnJrbTdaYW9HREg5WUtnRXFFN2J1WG9iWk5VWXRxM3N0MkVnT0JzRTZvd0lIak5sb3ZHaGtmYlhLempZUnNnV3NmblBjSEFGZmdmOHdJaE9TOC05M1JvR0doMEVkTDJrX1pERnB1ejhyeW9GTnJLRURvRUVkUEF5dzBaNHJQWjhkT25yQkkwMml5d3dkV0pjNzZqVkRCdms1SVA2WTRZMVpmbFV3bTRWb3FYR2VQMlFlS2otTkcxX2RNeE85RHlLQXln?oc=5"
+    },
+    {
+      "title": "漲也糾結跌也猶豫：普通人買黃金，消費還是投資？--經濟·科技--人民網 - 人民网",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZY0FfTTNyUTgxWU9jYmFRcUpwYVhzc0Vpa3I5SzNNQzEwY0JLdkloSHJKRVNQVVBmYkVrQnY1TlpZVDc1bVdRWXoxNVR4T1pNc1dETFZ0VF9iNzJhRTZ0RmMwLS14ajdBY3pEZlpZYUJUUExk?oc=5"
     },
     {
       "title": "法人看AI趨勢未變台股短線需留意通膨| 證券 - cna.com.tw",
