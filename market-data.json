@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/16 19:26",
+  "updated_tw": "08/16 19:46",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62915.27,
-      "change": -109.0503,
-      "changePercent": -0.173
+      "price": 62910.5,
+      "change": -113.8203,
+      "changePercent": -0.1806
     },
     "ETH": {
-      "price": 1878.1,
-      "change": -2.8083,
-      "changePercent": -0.1493
+      "price": 1878.13,
+      "change": -2.7783,
+      "changePercent": -0.1477
     }
   },
   "fx": {
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VOGx4dmJaWHRHMTVnMGRuNEFwVWdMOFZhbTVUVkJKOHpKd3N6X05GVmhlVGhVQ0hRd181d3VPVzBxOEQ3TnRMSlYtdw?oc=5"
     },
     {
-      "title": "比特幣價格突破63,000美元，Saylor稱其為「數字貨幣能量」 - Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQUnlJN2F6M0ZSekRPTEx4MUt1ZF9fc0JiOWZKejFnTmw4eFJOTnNNcFNzVXh2eDdqRkdMaGNoWUVibjFuNTQ3eFVhNHlBTERhTmZJQUctbS1vZ1NiVFlWMXI1VlFoaFd2VUdQbWxnV3BaN0RCeTU3S1h4LUJLd3djTVBHMzB5MFh2bzE3ek1FTVJwWlJjdktYX3IyN0JhRksyNXBSYzZ1dzNvdVp4RzI4ZXhYVXNmeFRYSGlESG1FdEdzWXE2a2laa1VfSjlFQjVKbFQ5M2xxVWtTMGhCdmpGM3diY05xZmJzdkJGaUtlOUlHVVJ1UFRzYlFPeWpWeTB4aDlPVGJDb3FBNkdoVjVzY1NWS2xxZm1VU0gxdEF5ZHh4U2c2bm9sUHNMSk0wZU9tN2FHSkl1ci1YYm8xUElfSUlPVFhVSnkz?oc=5"
+      "title": "黃金還能追嗎？瑞銀財管 CIO：金價 2027 上半年有望衝過 5,000 美元 - TechNews 科技新報",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yMFF5N0VuVnNvVHROY2VsN2d2WDZxenZpNXkzMDZqVzlST0dBenV6S0I5d2lqeElPWC1CaUFLWGNmWnVlb0lBSlVsUnFMWDBBYmtiZ2RaV1k1YXRiVnhoUjNWTUVzTTh5MTRtag?oc=5"
+    },
+    {
+      "title": "18歲學生暑假工地打工！挖到「3.3億黃金」 驚動比利時警方 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNcllwRHpBbDNKVHZaRm5JN2dhSDdWdXNNX3ZJdnMxbEhzNzJWTlVocDVGSnNJZ0diaG9CcVdfMnRpVHhaUU1iR2JLbnkyX1h6NmVseXJ6S0wzRWtEaVFzSXFVT0toX1dma0NyUUgyVGdtRFpiWU5aX2xYWUNaR1YybmtmYk92WmVtWW8ySnJrbTdaYW9HREg5WUtnRXFFN2J1WG9iWk5VWXRxM3N0MkVnT0JzRTZvd0lIak5sb3ZHaGtmYlhLempZUnNnV3NmblBjSEFGZmdmOHdJaE9TOC05M1JvR0doMEVkTDJrX1pERnB1ejhyeW9GTnJLRURvRUVkUEF5dzBaNHJQWjhkT25yQkkwMml5d3dkV0pjNzZqVkRCdms1SVA2WTRZMVpmbFV3bTRWb3FYR2VQMlFlS2otTkcxX2RNeE85RHlLQXln?oc=5"
     },
     {
       "title": "漲也糾結跌也猶豫：普通人買黃金，消費還是投資？--經濟·科技--人民網 - 人民网",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZY0FfTTNyUTgxWU9jYmFRcUpwYVhzc0Vpa3I5SzNNQzEwY0JLdkloSHJKRVNQVVBmYkVrQnY1TlpZVDc1bVdRWXoxNVR4T1pNc1dETFZ0VF9iNzJhRTZ0RmMwLS14ajdBY3pEZlpZYUJUUExk?oc=5"
     },
     {
-      "title": "黃金還能追嗎？瑞銀財管 CIO：金價 2027 上半年有望衝過 5,000 美元 - TechNews 科技新報",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yMFF5N0VuVnNvVHROY2VsN2d2WDZxenZpNXkzMDZqVzlST0dBenV6S0I5d2lqeElPWC1CaUFLWGNmWnVlb0lBSlVsUnFMWDBBYmtiZ2RaV1k1YXRiVnhoUjNWTUVzTTh5MTRtag?oc=5"
+      "title": "台股強彈高檔盤整 留意題材與落後補漲股 - money.udn.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3Tmo3TnpxNENQSWdTeFpiTEdWLXdJaDUtaDIwbm9DV2tXUWVidG4zaW5nVUpLMkdGRUI0WjlRRTFDaDZiV3h6RjVvSUJzZzROd2RNcC1GcE5pUdIBX0FVX3lxTFBSck5WaVhVS1VtSXZkejRna0JORXNPQXpwOTRhVGxoV0FMbzZNQkRwUGVPSG5qWnM0dHFueTBtbTI0QmN3TU90elNTSXhpc2RESjI3TUpMZFpRcWowRnlV?oc=5"
     },
     {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
     },
     {
-      "title": "美股早盤／3大指數接近平盤記憶體族群上漲、美無人機高飛| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xOXpMR2JVUExWQVZRdm1fVThuRE9YWEMwYVZ6c29yQ2x1aUJGaUdocVdtLWU2ZGZpY2ZLejBJemxiQ0I2aGZfN0FEWmRGTWVM?oc=5"
-    },
-    {
       "title": "分析师：比特币或于10月6日至16日触及市场底部，可在4.8万至6.2万美元区间定投 - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LbXdjcHJnNThYejBFeFpoN2NfcVZ5WFY0RzBFRGFPQWtSMzRweFVJY0dRamp1d1pKOVlGNDI5LTEwYXdDRlBSLXZnY2o2X0dSNkl6TDNGdWd0N05GSHVsM3k0TEZvUQ?oc=5"
     },
     {
-      "title": "18歲學生暑假工地打工！挖到「3.3億黃金」 驚動比利時警方 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNcllwRHpBbDNKVHZaRm5JN2dhSDdWdXNNX3ZJdnMxbEhzNzJWTlVocDVGSnNJZ0diaG9CcVdfMnRpVHhaUU1iR2JLbnkyX1h6NmVseXJ6S0wzRWtEaVFzSXFVT0toX1dma0NyUUgyVGdtRFpiWU5aX2xYWUNaR1YybmtmYk92WmVtWW8ySnJrbTdaYW9HREg5WUtnRXFFN2J1WG9iWk5VWXRxM3N0MkVnT0JzRTZvd0lIak5sb3ZHaGtmYlhLempZUnNnV3NmblBjSEFGZmdmOHdJaE9TOC05M1JvR0doMEVkTDJrX1pERnB1ejhyeW9GTnJLRURvRUVkUEF5dzBaNHJQWjhkT25yQkkwMml5d3dkV0pjNzZqVkRCdms1SVA2WTRZMVpmbFV3bTRWb3FYR2VQMlFlS2otTkcxX2RNeE85RHlLQXln?oc=5"
+      "title": "台股進入壓力區 分析師︰AI趨勢未變 短線需留意通膨 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNODlLb2tjcEdTN0lFdmhCaW5YNEdTQXFLV0lvN20zZUVIdy1HWV83Q0FyYTJadTVPcTdUdE5fTm5aWF8wX09UVG5nS2VpNmFyVXUteXhweURCLW9HV29ka21ZS1N5dUg0eTc5NFg1OHVveUhNM3BRQ0JhMW1ac09za05Db1JpU2hiY3E4NzNPU2FXSVA1dElBektJVlNjWnF6anphaXM5REtodXlweG50QzFVbTlSYzdJazFDVzJoZGZwYkZqemlFX0RrLVdfMDdDekVKLXFXRnN1MUdta3pZd0NSOTZ1Wi1iVk1IRm9rbUdVcGNJOHp1dXVaMVlHSWEtWFFXN2FiQ0dxQUVWZFlxTXpoNDNCLXRGRkM1dGFIcE53emtqakJ4VXlHNGFSbEo4QXNScnRhMmNBZldzRnpGUHhHTFowbVNWMER0czZNcUNTb0tvT2NHRFFtM1Z6MkNT?oc=5"
     }
   ]
 }
