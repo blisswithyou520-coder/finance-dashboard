@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 05:18",
+  "updated_tw": "08/17 05:44",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63011.77,
-      "change": -12.5503,
-      "changePercent": -0.0199
+      "price": 62849.6,
+      "change": -174.7203,
+      "changePercent": -0.2772
     },
     "ETH": {
-      "price": 1880.38,
-      "change": -0.5283,
-      "changePercent": -0.0281
+      "price": 1871.39,
+      "change": -9.5183,
+      "changePercent": -0.506
     }
   },
   "fx": {
@@ -121,12 +121,16 @@
       "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQdV9SaFppakVpd2FIU053VGdVekN0MnhEak4zd2lNU3NtQVRuejlBaHh3U1Y5YlhGREdRYnk4blk1aHl4YWlZdHFndnVUeWFSMGZmdFJ2bGZBa0lEM0EtTVYxeVc4LWFtTzJjeWN5T1Ftb3VmU2dVZDN2ZWlHY1NMU21YUXhYTVQ0S1JhWHRxeHJKLVB0bzA0TlNFSFk0T0ZiWUdBRU5HaEYteC1sbzZLVUtqdTJlamUtajliT2twdjFHMWkyN1ROOGZ6MTE1U2VUc0stNXQwOG40NjhvVk9RbWZyN2JVRjM5dkxXTGx3X0ZZVHpXMmlXTGNPVXR1NF9rQXNPR3VmUzBGNENJbVowUXM0NTAwME5TRmlJZVJmc1NUckd1RW1SZzZ0SHh5dVdjTjVLQlJqa0gyYV9rMGZDVEk5MERpdXVZQVF1RE56bDA1eFQ3cENSQjFNb0Y0SWNOdXlIUzFyU1VjZU1UM2xZdTNVU0plSG1GMXdDYnp3?oc=5"
     },
     {
-      "title": "黃金期 有望續漲 - UDN",
+      "title": "期貨商論壇／黃金期 有望續漲 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfR3AwN3JXeFBkVGpvV2d4ZkJUVmtjd1Qway15N0Q5RDRpY3QxakE4X29SMXNkT0MxY0NONGpZdHVQbWpDZU04LVNJYU9aVzJW0gFWQVVfeXFMT3FkdW41RjFjbG1zOVc3eVFCYmZtX0lGYnlyRUxWR0I4S2tIWUg0a0gyQU56OTlrVmsyaHJqMVFFTzBlNXdJX3pUSkt2bm40aVFMdnlHSHc?oc=5"
     },
     {
       "title": "美股8月「牛市」又回來了！AI、科技股狂飆但「金髮女孩」行情恐藏風險 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11WkdyM1pHOTBMZ1RkMFNZekxlaDBNUWRiQjFNRTlNQzFNelVSLW5TYzJKM3h5VVUxNGw5TjhCVHR6UHpka2dNS2stdUZrR28?oc=5"
+    },
+    {
+      "title": "〈財經週報-投資觀點〉美股怎麼買？透過國內證券商 讓你的投資更有保障 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OWmc5b1dNV0h2Q1hWOTBVemdmYnFiWE5JamozWmtYUDRHM2tiUE9HLTQybjZoLWU5dUFiU0hLbjQ5QzhOcmRtZmpobXZrTk9GSUR4VC1R?oc=5"
     },
     {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
@@ -143,10 +147,6 @@
     {
       "title": "台股遇小頭部頸線！站不穩46000調節賣壓出籠？分析師曝回測買點 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPYU5WRGEzMnZYM2NTMkl1WnVqVFBpMWlVTXo5V1FpaG0xcnF5OUsyOG1qOHBpZ2lnUXk3Zm5ySjZlX1ZNQWU5OHQ2VDVheVpzeXIycjh4STdkeDJDTGNOcXFpVE41RG1ScmRYaVJRX2Y1Rm82ZXpsSmpEZmhLRUpZeExndU9wbExzdWl2cUR1Z1lMVjJBbWo5M2dCNG0xVnRtVE9nZVh1cmVJdDZzUFFCVExWRjlCOGpDYklTUFVtWEhGQWMxWnU3QVFYcEdhZkhKUGR2UVkxMWNib2gtNjNWYlNnLThTNS1QTF9nTDZ0U3dkVzhXWWw4ekJMc044WlczbDBWc0pJRDFHb1FhYTVndkVHUFVpNkhVUWpKbzB4QW1JMU5Rd0d5ajdlaURvc1JxeC1YYlJRNzgxdDRSeVFEUmkyU0RfSHVIM1h0QnJvbGVta0h3b3hlaWpINHpRdkNpX3FBSlhtVFJnNjBxTWJ6bEtNMVBtb3VGYzdlUFY1U2lDWU44MkhRbg?oc=5"
-    },
-    {
-      "title": "台股企業獲利 法人上修 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6NjF5aHhXRDlMSXNwSWdiLWtsYUNwcHZ1ZUZyaFo3YnRmME5rbUZ0Q1lsN2ZsRFRfUVZwSXphOGxfeU84QnJGekE3YWpJczRu0gFWQVVfeXFMT0FPUEl0d19nLU1QaGlzblREaVQ2QU00RXVleWRjeGVLOHVSQjJobjBxeC0taG5GemtxVzZSdFhkbVVFakpmajZZVk1qS25YWGhGb1BlckE?oc=5"
     }
   ]
 }
