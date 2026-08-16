@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 00:50",
+  "updated_tw": "08/17 01:17",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63215.72,
-      "change": 191.3997,
-      "changePercent": 0.3037
+      "price": 63156.09,
+      "change": 131.7697,
+      "changePercent": 0.2091
     },
     "ETH": {
-      "price": 1888.2,
-      "change": 7.2917,
-      "changePercent": 0.3877
+      "price": 1884.81,
+      "change": 3.9017,
+      "changePercent": 0.2074
     }
   },
   "fx": {
@@ -117,8 +117,8 @@
   },
   "news": [
     {
-      "title": "布局美股基金 一兼二顧 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZUVVVOHN3cEx0ZU1LMW9pbEp2Vy1lVi12SEpYSTdLYkIwZ2t2ZEZUTzlJY09nOWUxSDlRdTVwdExIbk8yeUhSckpiZl9qbU1aQ0xqR3U5Nkd1d9IBX0FVX3lxTE9HOFA5bTBDR1dqYVlYVUg0ZjFFblNic09XVEpoelR1LWhQNmxBWnZhOVNRZDdEUklnUGx3LUdfN1BmanJRcVJIbmJEMDVHRkRVcHZ1Tkw0bHNqVS1hd0l3?oc=5"
+      "title": "黃金期 有望續漲 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CM3BDVmk3S1JHQWRJYWpLYTFGdXNrZm9YTl96cGcwLTIxNGUtTUJhbXZjdTRRS3N4SlpTN21wNlNyQ3ctdGpwT2p0YnV6dGxjOXFGMTRnd1g2RXPSAWBBVV95cUxNZDFYdkIxNGVrTkloM2lzN0FGSHdTT3FCLWdDX0ZCelU2T0xmbnJDdlVPWjM0N3JfUVhHYVJZVkw4QkRYMXk3Ymtmb1hVc0ZYbkg5UHpRT0dwVkN6bkFuUHE?oc=5"
     },
     {
       "title": "分析：比特幣潛在「遺失」量創歷史新高，約佔流通供應量的17.7% - cnyes.com",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
     },
     {
-      "title": "📊 美股復盤與買賣邏輯分享：新思科技 (SNPS) - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTHhIYWRTY2E1dXVMVjg4RUNvSjY0c3BvcHhPeVJOU0lMTHdmeHNpNzFrdDNlR0V5b1g2X0ZIa2s3cjBjdnVIVzM0RXl6dGl3aUkzVnFYSVo1NGFMdVFqWEdoUE5rYnIwdUhZZEJ6S09EUlpFbFBiZnc4ckw4MzNCblNNRGROZE1Ia2NMLXdiMWMzSC1tYW45OWpKdWJoQXl5TFZYR3hFTUlBLTYtRXBIcEU3YVE4Q3lQ?oc=5"
+      "title": "台股往46K大關挺進 法人點名三大布局方向 和碩、至上等逢低布局 | 市場焦點 | 證券 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aWTc5Q0NNS1YyWTZtajlIMnFJeGJ2d1hoVjNQT2lha1ZHX09YbVM3NTh3bUZ3ZEV3eXVqUXZ2UlhpLVBjNnhoTHR1eXRUc3BZbU5GM3FNanpUQQ?oc=5"
     }
   ]
 }
