@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/16 23:20",
+  "updated_tw": "08/16 23:45",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63036.21,
-      "change": 11.8897,
-      "changePercent": 0.0189
+      "price": 63044.99,
+      "change": 20.6697,
+      "changePercent": 0.0328
     },
     "ETH": {
-      "price": 1881.86,
-      "change": 0.9517,
-      "changePercent": 0.0506
+      "price": 1881.34,
+      "change": 0.4317,
+      "changePercent": 0.023
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": 0.0237,
-      "changePercent": 0.0639
+      "change": -0.0481,
+      "changePercent": -0.1295
     },
     "CNYTWD": {
       "price": 4.7544,
