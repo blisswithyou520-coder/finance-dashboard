@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/16 10:58",
+  "updated_tw": "08/16 11:53",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63053.33,
-      "change": 77.7363,
-      "changePercent": 0.1234
+      "price": 63058.26,
+      "change": 82.6663,
+      "changePercent": 0.1313
     },
     "ETH": {
-      "price": 1881.46,
-      "change": 0.81,
-      "changePercent": 0.0431
+      "price": 1881.04,
+      "change": 0.39,
+      "changePercent": 0.0207
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": 0.0237,
-      "changePercent": 0.0639
+      "change": -0.0481,
+      "changePercent": -0.1295
     },
     "CNYTWD": {
       "price": 4.7544,
@@ -117,16 +117,20 @@
   },
   "news": [
     {
-      "title": "台股11天狂飆6700點 46000站不穩？關鍵第二隻腳來了！謝晨彥曝買點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNcHh0Vzg0YmJDOWF2dFFSR1dkbjZneVNvNl9BM2tpcVZaczBtdWZRbzNtZXpNVFVSdEMzOE5YbHdGdzh2Y3VhUVBtSkVlNzJMWDFGLW1vSjB4M3lTb21kdjM2amh3QjhMODFXSzVXZGViTy1IbDd1d1A5aTZCTjY3Nk50Sk8tWVl2YUlNWUYzWmtrUnlpa3VmQ0c4ZDFqNFhIa05PLVVSazI1bWdLY29VTW9OQ0lsRVY1WTJUdm1ocUxCWE10OHNQV0x6SlkxbXh4UlU1VWZuUlNFalU3dzcteVY4UmxDbTgtZUtzcWF3TG1tTUk5c0pUaUFzNGFrbGdxcnBiME8yLWpLZXBrMFN4X1o1MkFYc1k5MWNjcHZEQUZ5eDJRbkNKYldEWFYwVjBmbnhXcHkzRjRsTW9DRVFFSGVWbHhtaERxTWM5UWw1cFhCcG5BNGhCV0wtbDhLUUZfZVhpRHcxcmprbE1QaDE2LUNrcUFjQUZBRFE?oc=5"
+      "title": "Coinbase 比特幣負溢價已持續 90 天，續創歷史最長紀錄 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95R0NJRHNXTHhUd2ZTQ0Y1UGRGR29ib1JfTk41RVNSWThnenNvdHRtSDZuV0NSYnktcncyZTFrcUNFdEQtTlZqWDBRSQ?oc=5"
+    },
+    {
+      "title": "台股修復行情！6檔主動ETF扮反彈急先鋒 今年漲幅重回7-8成 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOSDdMNi1ZTGIyREloVGVjYXEtNTVDREtaOU44dmJzeVJpVmNtNzBoQ2RzaDMtMEtxaWFJTmlBMEI3aWFqSTlTX3N3UlhFTGM5M1JNY1VMMVZSWDF0WDZ0MW4yTkFtYlJscUJ5TmF4UzZBLVQwVksxa0RaU1lmMzludXd1cENCazdPR1NFRUc2eVcyNDAySjZZQ1dYc1pZN1FtU3NHY1RXZ1E2akFad1dTYXprYldKSmNOQVp5c05Wc3M2MjR0V05MVzM2LWpkcG16VFpBclJvanFlS0JENWpvQWFMMWh5UjRGd1VMTjlIR2NGaVJ4SlNZSDljbmJobGRvZkJkU2JFekpON3JreXdKUVlWOGgwNVh0dzlIRTZjbXZoR2pGQXR1Rk5aODJUVEgzeUhDcERpMGdkZ0JoSjc5MDRsQ1IzS0dmVk51RGc4WDk2eEU3bGtyY3NTOS15SUpzX3lDbk0zaDROZ3ptenJN?oc=5"
+    },
+    {
+      "title": "法人看AI趨勢未變台股短線需留意通膨| 證券 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03LVV2T3JZS3lhM29lSGJzSzZxbVFvRVRPR1pjV0JSbVRwQlpaUnV5ZzZRRzZ6U0VJNFBjUk5fX2NXbWN4LUN0a3BDOFU0dWJfYVhSZjNPaDVpVUlRMnc?oc=5"
     },
     {
       "title": "關禁閉大鬆綁台股新利多| 雜誌 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hM2hfY0t6STBOaXctcUlZejBIdExISTZFSVFYY0ZNbDhWTTlPd0dXdHdqd2p1cWc3RE1pclNMekVfMGFhYWdLX1hTS2w0TFFy?oc=5"
-    },
-    {
-      "title": "台股修復行情！6檔主動ETF扮反彈急先鋒 今年漲幅重回7-8成 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuWTU1eVBtbWhlRlRMVDYwOTVxSk4tanN1NEh3bGhrVnM4a0FHUV9EZ3NKTjVuVVRsRWhoaFllZkdHVl9JcGIzY1FaeWVQRmM?oc=5"
     },
     {
       "title": "第3季台股落在42K至49K區間　光通訊、AI零組件4族群掌多頭兵符 - ETtoday財經雲",
@@ -141,12 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
     },
     {
-      "title": "美股還能繼續漲？華爾街：派對還沒結束 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNMmJVdXFWYmNHblU2c0pLb2lYYUptTVZHWlJWQTgwMXVIU3JVb2x0akZFdlpKbnlkWHJ0dlNFMTVRckhyQTlwWERKcjUxdVpOVnVoVjFQd1Z2ZjhNOFoxRmNaNVgyazZkd0xQN3R0V1I1ckJvMEZVdzgwWlNFTEJ0eXN4cThuMDFNVG0xazRYc1hYczVxYmk3d245YklXTlduYjhORFg5QUdKVlBmcDlmSlJMbkV2U0x0TW5MT3RYZkpIeGpPY1NBbVhVd21ISlpXZldWaDZXOW5va3VqcHJFWHI2OHJnOXFVZGk3NDVZR1BhTzRBTkZEMmtLODBvNVVDOS1lcmZjNmd6NV9oc2VOTHdjS0pqUQ?oc=5"
-    },
-    {
-      "title": "消費數據意外下滑美股四大指數走跌…本周盯零售業財報| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mM056WTBzbGRzSDBPMnNRVW04bDlUUnBCbUZaYThrbENWV2ZCSDBLZlVYUWNfb0xvaWtKb0szdnNsY2RObVJwMkg5b3dzdF9B?oc=5"
+      "title": "〈台股風向球〉8月來反彈2700點 4萬6關前籌碼面轉強有助驚驚漲格局 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SaWtERE04N0x2Skw5d016WGllNGpTOTVZRDhUenpGQy1adVRjSGNBOHo2d1JPaUN3SVdlOXlfLU5lLVVCd0hCZG9NdEU5ejA?oc=5"
     }
   ]
 }
