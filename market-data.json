@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 05:58",
+  "updated_tw": "08/17 06:29",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62895.11,
-      "change": -129.2103,
-      "changePercent": -0.205
+      "price": 62771.42,
+      "change": -252.9003,
+      "changePercent": -0.4013
     },
     "ETH": {
-      "price": 1874.92,
-      "change": -5.9883,
-      "changePercent": -0.3184
+      "price": 1873.2,
+      "change": -7.7083,
+      "changePercent": -0.4098
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4437.3,
-    "twd": 4566.0,
-    "tael": 171216.0,
-    "twdTotal": 142011.0,
-    "changePercent": 1.689
+    "usd": 4430.1,
+    "twd": 4558.0,
+    "tael": 170939.0,
+    "twdTotal": 141781.0,
+    "changePercent": 1.1346
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,12 +125,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfR3AwN3JXeFBkVGpvV2d4ZkJUVmtjd1Qway15N0Q5RDRpY3QxakE4X29SMXNkT0MxY0NONGpZdHVQbWpDZU04LVNJYU9aVzJW0gFWQVVfeXFMT3FkdW41RjFjbG1zOVc3eVFCYmZtX0lGYnlyRUxWR0I4S2tIWUg0a0gyQU56OTlrVmsyaHJqMVFFTzBlNXdJX3pUSkt2bm40aVFMdnlHSHc?oc=5"
     },
     {
-      "title": "美股8月「牛市」又回來了！AI、科技股狂飆但「金髮女孩」行情恐藏風險 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11WkdyM1pHOTBMZ1RkMFNZekxlaDBNUWRiQjFNRTlNQzFNelVSLW5TYzJKM3h5VVUxNGw5TjhCVHR6UHpka2dNS2stdUZrR28?oc=5"
-    },
-    {
       "title": "〈財經週報-台股看盤〉AI去槓桿漸入尾聲 主動選股卡位台股反彈行情 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDWnQtZFdXUkF3M2lpSnNKZVlpVFdUZDZXa0w0bDB2dlcyUzB3RndUekw1ZDFicmQtZUROVURfa0VQU1JLSXNnZUFTX3lGaG40b09YQVFn?oc=5"
+    },
+    {
+      "title": "美股8月「牛市」又回來了！AI、科技股狂飆但「金髮女孩」行情恐藏風險 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11WkdyM1pHOTBMZ1RkMFNZekxlaDBNUWRiQjFNRTlNQzFNelVSLW5TYzJKM3h5VVUxNGw5TjhCVHR6UHpka2dNS2stdUZrR28?oc=5"
     },
     {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12RWNYWThqc3RVTXJYM3IwUVlLLW9sbVpWaVhCNVlTTkZ0U1UwdUZNQzZVcjBCc1dMT2cweVduaXBmNlRBcHphQ1NrTW1hS29aNHfSAVdBVV95cUxNdUt6UDFUYktRTDVlN2dNejUwcWdIdkY3elM3Q1o1TUVYSDZfMU9jR2tXdnBDZXVBV1JpR1BmdVJNdmtJMVhIelYzc1hyTW1vQzE5OWV2OTA?oc=5"
     },
     {
-      "title": "〈財經週報-投資觀點〉美股怎麼買？透過國內證券商 讓你的投資更有保障 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OWmc5b1dNV0h2Q1hWOTBVemdmYnFiWE5JamozWmtYUDRHM2tiUE9HLTQybjZoLWU5dUFiU0hLbjQ5QzhOcmRtZmpobXZrTk9GSUR4VC1R?oc=5"
+      "title": "台股待補量 法人︰年底前再拚大行情 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WeU1PdENRNnpudjFsVV9TZXRoMXNBZExwM0hYWUJoUkpmNllSN2RnQS04OGtyUjZDd3ZIZ2owYUZHcjF6QUJPamc3UnB4Sm1WRXBDUDBR?oc=5"
     }
   ]
 }
