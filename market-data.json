@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/16 09:50",
+  "updated_tw": "08/16 10:58",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62996.93,
-      "change": 21.3363,
-      "changePercent": 0.0339
+      "price": 63053.33,
+      "change": 77.7363,
+      "changePercent": 0.1234
     },
     "ETH": {
-      "price": 1877.86,
-      "change": -2.79,
-      "changePercent": -0.1484
+      "price": 1881.46,
+      "change": 0.81,
+      "changePercent": 0.0431
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": -0.0481,
-      "changePercent": -0.1295
+      "change": 0.0237,
+      "changePercent": 0.0639
     },
     "CNYTWD": {
       "price": 4.7544,
@@ -117,24 +117,24 @@
   },
   "news": [
     {
-      "title": "台股3檔週一「抓去關」！「玻纖布大廠」出現名單中、天瀚遭處10分鐘撮合 原因一次看 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNN0pjNUJNNzloWGUxSEx4UEtmYkNwMmtpbXNLa3EyOUdOcHpJa3FvR1NwWDZQRTZMTHNYUEVsbnBOemZiWWJRcXNtTWdYakZGNjQyVFVlb1VOSkYwVXFabi1Ed29BLVVlb2hIelI5N1V6OHZJUVpXOWJLSFpNYkdPbUgtZGxiQWxwV1Z6VGE4M2FETkxjdUd1bEMtX0tTU1lZQUhUVG14R0VrLWYzdEpnTC1QRW9GLUc0N0R3YTZWRnFWR2NiSm1JcThrei1OTVoySEhDaGlCTEpyZnVwTmttU1RiMm1CZWZQVnh4MFRDWkhLYld3YTJRV3pLeWNpY1FZNzA0U1hRQmRSZFBQVGFVbkE4cURaZEszWXNXdkYtQ3hVR1dsSHMwdnIyTXhJYVg1VU52czV1TjViUk5uWlpONnNYcXVPMjJoNGFQempjb0dlVlNEa3dxd19qUDVmY1U3WFZDRE5lcUVVdnQwc0tWTUh5a3BjTDVyV0Q1N0lvbGU4YnYwQ2tJY0stLUcwVDhJ?oc=5"
+      "title": "台股11天狂飆6700點 46000站不穩？關鍵第二隻腳來了！謝晨彥曝買點 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNcHh0Vzg0YmJDOWF2dFFSR1dkbjZneVNvNl9BM2tpcVZaczBtdWZRbzNtZXpNVFVSdEMzOE5YbHdGdzh2Y3VhUVBtSkVlNzJMWDFGLW1vSjB4M3lTb21kdjM2amh3QjhMODFXSzVXZGViTy1IbDd1d1A5aTZCTjY3Nk50Sk8tWVl2YUlNWUYzWmtrUnlpa3VmQ0c4ZDFqNFhIa05PLVVSazI1bWdLY29VTW9OQ0lsRVY1WTJUdm1ocUxCWE10OHNQV0x6SlkxbXh4UlU1VWZuUlNFalU3dzcteVY4UmxDbTgtZUtzcWF3TG1tTUk5c0pUaUFzNGFrbGdxcnBiME8yLWpLZXBrMFN4X1o1MkFYc1k5MWNjcHZEQUZ5eDJRbkNKYldEWFYwVjBmbnhXcHkzRjRsTW9DRVFFSGVWbHhtaERxTWM5UWw1cFhCcG5BNGhCV0wtbDhLUUZfZVhpRHcxcmprbE1QaDE2LUNrcUFjQUZBRFE?oc=5"
     },
     {
       "title": "關禁閉大鬆綁台股新利多| 雜誌 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hM2hfY0t6STBOaXctcUlZejBIdExISTZFSVFYY0ZNbDhWTTlPd0dXdHdqd2p1cWc3RE1pclNMekVfMGFhYWdLX1hTS2w0TFFy?oc=5"
     },
     {
-      "title": "第3季台股落在42K至49K區間　光通訊、AI零組件4族群掌多頭兵符 - finance.ettoday.net",
+      "title": "台股修復行情！6檔主動ETF扮反彈急先鋒 今年漲幅重回7-8成 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuWTU1eVBtbWhlRlRMVDYwOTVxSk4tanN1NEh3bGhrVnM4a0FHUV9EZ3NKTjVuVVRsRWhoaFllZkdHVl9JcGIzY1FaeWVQRmM?oc=5"
+    },
+    {
+      "title": "第3季台股落在42K至49K區間　光通訊、AI零組件4族群掌多頭兵符 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UeHRWVm53ZEdxTjRjUDU0aXh5YUM3a3FvaVdad3BLVHh1OWNKbGNaLUJad0lIbV8zeEkwa1d6bGtsTEhyNUVrREdfMkR3V00tUXfSAVBBVV95cUxOSUlPSjBENHFob0hqbWJQV203TXdVWGlyeHJ0OFp6d1FSWXpxWlo1Q1lpZ3dpR19kM3RZTEFlVWt1OUU2RHFqZWU3d2UzUTBHTg?oc=5"
     },
     {
       "title": "10x Research研究主管：比特币在2030年达100万美元基本不可能 - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LczEwVUlHZThIb3lGdEYybVowSUZXTGlwdl9GbVFJUGRxT0xvVUxDRDE2N3N4Sk1YNjBWbGNQMUhySVM4SWxEQUpRR1RIS3NTcVlUbEZVUU1mcEFEaVZteHJZQlphQQ?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉升息警報暫解 美股獲利了結 標普收黑仍寫周線三連漲 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45aUFxal9yZDlDc1AxY243UzRHSy15dlFvNHFiRjFSNEFHSy1fT3FobHo3NzFkWExQQ3ktcFBNQlg5V1pNWGJzaVBZYXU2UWc?oc=5"
     },
     {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
