@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/16 11:53",
+  "updated_tw": "08/16 12:33",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63058.26,
-      "change": 82.6663,
-      "changePercent": 0.1313
+      "price": 63053.36,
+      "change": 77.7663,
+      "changePercent": 0.1235
     },
     "ETH": {
-      "price": 1881.04,
-      "change": 0.39,
-      "changePercent": 0.0207
+      "price": 1880.78,
+      "change": 0.13,
+      "changePercent": 0.0069
     }
   },
   "fx": {
@@ -129,16 +129,12 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03LVV2T3JZS3lhM29lSGJzSzZxbVFvRVRPR1pjV0JSbVRwQlpaUnV5ZzZRRzZ6U0VJNFBjUk5fX2NXbWN4LUN0a3BDOFU0dWJfYVhSZjNPaDVpVUlRMnc?oc=5"
     },
     {
-      "title": "關禁閉大鬆綁台股新利多| 雜誌 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hM2hfY0t6STBOaXctcUlZejBIdExISTZFSVFYY0ZNbDhWTTlPd0dXdHdqd2p1cWc3RE1pclNMekVfMGFhYWdLX1hTS2w0TFFy?oc=5"
-    },
-    {
-      "title": "第3季台股落在42K至49K區間　光通訊、AI零組件4族群掌多頭兵符 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UeHRWVm53ZEdxTjRjUDU0aXh5YUM3a3FvaVdad3BLVHh1OWNKbGNaLUJad0lIbV8zeEkwa1d6bGtsTEhyNUVrREdfMkR3V00tUXfSAVBBVV95cUxOSUlPSjBENHFob0hqbWJQV203TXdVWGlyeHJ0OFp6d1FSWXpxWlo1Q1lpZ3dpR19kM3RZTEFlVWt1OUU2RHFqZWU3d2UzUTBHTg?oc=5"
-    },
-    {
       "title": "10x Research研究主管：比特币在2030年达100万美元基本不可能 - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LczEwVUlHZThIb3lGdEYybVowSUZXTGlwdl9GbVFJUGRxT0xvVUxDRDE2N3N4Sk1YNjBWbGNQMUhySVM4SWxEQUpRR1RIS3NTcVlUbEZVUU1mcEFEaVZteHJZQlphQQ?oc=5"
+    },
+    {
+      "title": "美股早盤／3大指數接近平盤記憶體族群上漲、美無人機高飛| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xOXpMR2JVUExWQVZRdm1fVThuRE9YWEMwYVZ6c29yQ2x1aUJGaUdocVdtLWU2ZGZpY2ZLejBJemxiQ0I2aGZfN0FEWmRGTWVM?oc=5"
     },
     {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
@@ -147,6 +143,10 @@
     {
       "title": "〈台股風向球〉8月來反彈2700點 4萬6關前籌碼面轉強有助驚驚漲格局 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SaWtERE04N0x2Skw5d016WGllNGpTOTVZRDhUenpGQy1adVRjSGNBOHo2d1JPaUN3SVdlOXlfLU5lLVVCd0hCZG9NdEU5ejA?oc=5"
+    },
+    {
+      "title": "歷史警示：美股現三大崩盤訊號 估值與債務創新高 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPVUEtTDhyU0pGTF9Dald4OHlpMVg3SEZOZDFyVU9WYWJOT0pVOVV3dGg2Z1RoN3dsT3ZFanZMelc0Y0dISjJFYkQtU1VkbGljMU15NFlKTW1jc0tTa1FCcW10SmZIR0EwYkVTM21iTF9Ob21kRjJ6anh0VTFJRFRLZ3phMjg3d2VwSmtqeXY3WENrN0FkN0stb2R4SExicUcxeUJTZVlHelJBV0ZEZHhWcTlBV1hBMkdLV1F5VlNUZUFpdHpsWEVVSUxGX2Y0cEdGT0lZaldYdTVpSUJMa1pzdkFTM3c3dTZjSVlRZkpRN2xxSE5pem5nVWJWb2lsRXpvNmpjM0tjaFZNeDJ0VXlFR2xEcGFneWRlY2hwWm1UVE1tVWw2V2lRRGJQUkZkOE56ZGhMVHhqUEI4NVNhRENzOXZaRWZ3UDhnSDljdkc3TEdzREk0WFZHcFhB?oc=5"
     }
   ]
 }
