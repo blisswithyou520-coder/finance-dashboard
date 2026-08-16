@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 07:18",
+  "updated_tw": "08/17 07:44",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62787.71,
-      "change": -236.6103,
-      "changePercent": -0.3754
+      "price": 62828.26,
+      "change": -196.0603,
+      "changePercent": -0.3111
     },
     "ETH": {
-      "price": 1872.52,
-      "change": -8.3883,
-      "changePercent": -0.446
+      "price": 1873.76,
+      "change": -7.1483,
+      "changePercent": -0.38
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": -0.0481,
-      "changePercent": -0.1295
+      "change": 0.0237,
+      "changePercent": 0.0639
     },
     "CNYTWD": {
       "price": 4.7508,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4437.8,
-    "twd": 4566.0,
-    "tael": 171236.0,
-    "twdTotal": 142027.0,
-    "changePercent": 1.3104
+    "usd": 4426.2,
+    "twd": 4554.0,
+    "tael": 170788.0,
+    "twdTotal": 141656.0,
+    "changePercent": 1.0456
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,8 +117,8 @@
   },
   "news": [
     {
-      "title": "【台股盤前】美股消費降溫收黑！台指夜盤跌85點 台股今恐迎激烈攻防 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxQZXY3Z19fUEpXQktEdWZ1eXlxLXZCbWFlb2FKWnhjQTdiS05LMUZQd3JJT3VxYUJTTjNrV3FRNDJHYmhNeVZpblVIUzZYSnVoekN2VEx4aFhnSEJlcVBtUTVPTzhtallnX0d0c2hTcXpMREMxWUp5T1UyM21xSktPa1ozNjNHWFV3UlE3anFFUTFQakNBWVJyTjBJSWN1VFNZQzlUcTA4SEp0anl6YmZ1VHZMZ0dKck81OUozb2NYbnVCNjFRZ01Palh4dUIteUZHSnBwRndzVS1EUkp6a0xMck5LaTg5MUowTUpRbWI5WUxVSURaTC1WR0JKOVhXSWctUTQyUDNpVFhHQ0k4bHdNd05jU0RiVUNibmVCSkFpSnhyNmkyZ2VWQU13V1kxeUdkc1R2RkNsS2pDUU9vSV9EYjRERkNlRURFYnhDQ0NQMjExOWtXSk5CMk4tczJhZzFpYzBCRWI2bHdUUHI2bURyUFpLMmpTb0JPRTM4c1diMXVzd2dXdnZoQUhKS3d0NU1qT1pqXzNPaXp3SkFvQXc?oc=5"
+      "title": "美股期貨盤前上漲 分析師緊盯聯準會與中東局勢 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQY2lrQTNndUEwcldCU3FLZGJ6aV9DYmh6Ync4UXhBUC1sRHVfa3owZGRrR3BUUDd4VVlNWVdkN0ZLVzVXUVgxU0l4Z1pZcFFXN0VKelFBckpGbVp5NlFLQTFYNnh1cjAtbklMUUN3aXRNVlRQemhsRElUbXIxdG90MWFmWjEwRzl4dzdyQjZyS0JORl9kRjRaNEUyMHVLY0paVkZpMDRUOURDWk5sRTdOeFFGbmcySzcxLUx6bDBBZXZORF8zcmR3NUhxaUlweWpYNzJqTlhQbVVZRU1MOTZKeFVPMjdzT053RFlMcW1TWVhtYUl1OVp4LWZSeHRYQUw0QkRYUF9EQTAycGNya2NJZndsSXZveVROY0FjR0hCZEFDbll0RkhueWl1a0tVejBfMFgwVEh3a3plUUZKLW5WcVA3bHp4NUpDMmZCblMyLTRlN1NrZXoxSw?oc=5"
     },
     {
       "title": "期貨商論壇／黃金期 有望續漲 - UDN",
