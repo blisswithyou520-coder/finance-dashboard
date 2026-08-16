@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 03:32",
+  "updated_tw": "08/17 03:54",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63132.0,
-      "change": 107.6797,
-      "changePercent": 0.1709
+      "price": 63041.0,
+      "change": 16.6797,
+      "changePercent": 0.0265
     },
     "ETH": {
-      "price": 1885.17,
-      "change": 4.2617,
-      "changePercent": 0.2266
+      "price": 1883.31,
+      "change": 2.4017,
+      "changePercent": 0.1277
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": 0.0237,
-      "changePercent": 0.0639
+      "change": -0.0481,
+      "changePercent": -0.1295
     },
     "CNYTWD": {
       "price": 4.7508,
@@ -117,7 +117,7 @@
   },
   "news": [
     {
-      "title": "黃金期 有望續漲 - udn.com",
+      "title": "黃金期 有望續漲 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfR3AwN3JXeFBkVGpvV2d4ZkJUVmtjd1Qway15N0Q5RDRpY3QxakE4X29SMXNkT0MxY0NONGpZdHVQbWpDZU04LVNJYU9aVzJW0gFWQVVfeXFMT3FkdW41RjFjbG1zOVc3eVFCYmZtX0lGYnlyRUxWR0I4S2tIWUg0a0gyQU56OTlrVmsyaHJqMVFFTzBlNXdJX3pUSkt2bm40aVFMdnlHSHc?oc=5"
     },
     {
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZY0FfTTNyUTgxWU9jYmFRcUpwYVhzc0Vpa3I5SzNNQzEwY0JLdkloSHJKRVNQVVBmYkVrQnY1TlpZVDc1bVdRWXoxNVR4T1pNc1dETFZ0VF9iNzJhRTZ0RmMwLS14ajdBY3pEZlpZYUJUUExk?oc=5"
     },
     {
-      "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
+      "title": "布局美股基金 一兼二顧 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12RWNYWThqc3RVTXJYM3IwUVlLLW9sbVpWaVhCNVlTTkZ0U1UwdUZNQzZVcjBCc1dMT2cweVduaXBmNlRBcHphQ1NrTW1hS29aNHfSAVdBVV95cUxNdUt6UDFUYktRTDVlN2dNejUwcWdIdkY3elM3Q1o1TUVYSDZfMU9jR2tXdnBDZXVBV1JpR1BmdVJNdmtJMVhIelYzc1hyTW1vQzE5OWV2OTA?oc=5"
     },
     {
-      "title": "布局美股基金 一兼二顧 - udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12RWNYWThqc3RVTXJYM3IwUVlLLW9sbVpWaVhCNVlTTkZ0U1UwdUZNQzZVcjBCc1dMT2cweVduaXBmNlRBcHphQ1NrTW1hS29aNHfSAVdBVV95cUxNdUt6UDFUYktRTDVlN2dNejUwcWdIdkY3elM3Q1o1TUVYSDZfMU9jR2tXdnBDZXVBV1JpR1BmdVJNdmtJMVhIelYzc1hyTW1vQzE5OWV2OTA?oc=5"
+      "title": "分析：比特幣潛在「遺失」量創歷史新高，約佔流通供應量的17.7% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VOGx4dmJaWHRHMTVnMGRuNEFwVWdMOFZhbTVUVkJKOHpKd3N6X05GVmhlVGhVQ0hRd181d3VPVzBxOEQ3TnRMSlYtdw?oc=5"
     }
   ]
 }
