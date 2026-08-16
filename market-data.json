@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 06:29",
+  "updated_tw": "08/17 06:49",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62771.42,
-      "change": -252.9003,
-      "changePercent": -0.4013
+      "price": 62738.48,
+      "change": -285.8403,
+      "changePercent": -0.4535
     },
     "ETH": {
-      "price": 1873.2,
-      "change": -7.7083,
-      "changePercent": -0.4098
+      "price": 1872.21,
+      "change": -8.6983,
+      "changePercent": -0.4625
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4430.1,
-    "twd": 4558.0,
-    "tael": 170939.0,
-    "twdTotal": 141781.0,
-    "changePercent": 1.1346
+    "usd": 4434.6,
+    "twd": 4563.0,
+    "tael": 171112.0,
+    "twdTotal": 141925.0,
+    "changePercent": 1.2373
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,12 +125,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfR3AwN3JXeFBkVGpvV2d4ZkJUVmtjd1Qway15N0Q5RDRpY3QxakE4X29SMXNkT0MxY0NONGpZdHVQbWpDZU04LVNJYU9aVzJW0gFWQVVfeXFMT3FkdW41RjFjbG1zOVc3eVFCYmZtX0lGYnlyRUxWR0I4S2tIWUg0a0gyQU56OTlrVmsyaHJqMVFFTzBlNXdJX3pUSkt2bm40aVFMdnlHSHc?oc=5"
     },
     {
-      "title": "〈財經週報-台股看盤〉AI去槓桿漸入尾聲 主動選股卡位台股反彈行情 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDWnQtZFdXUkF3M2lpSnNKZVlpVFdUZDZXa0w0bDB2dlcyUzB3RndUekw1ZDFicmQtZUROVURfa0VQU1JLSXNnZUFTX3lGaG40b09YQVFn?oc=5"
-    },
-    {
       "title": "美股8月「牛市」又回來了！AI、科技股狂飆但「金髮女孩」行情恐藏風險 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11WkdyM1pHOTBMZ1RkMFNZekxlaDBNUWRiQjFNRTlNQzFNelVSLW5TYzJKM3h5VVUxNGw5TjhCVHR6UHpka2dNS2stdUZrR28?oc=5"
+    },
+    {
+      "title": "〈財經週報-台股看盤〉AI去槓桿漸入尾聲 主動選股卡位台股反彈行情 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDWnQtZFdXUkF3M2lpSnNKZVlpVFdUZDZXa0w0bDB2dlcyUzB3RndUekw1ZDFicmQtZUROVURfa0VQU1JLSXNnZUFTX3lGaG40b09YQVFn?oc=5"
     },
     {
       "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
