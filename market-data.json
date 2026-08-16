@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 06:49",
+  "updated_tw": "08/17 07:18",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62738.48,
-      "change": -285.8403,
-      "changePercent": -0.4535
+      "price": 62787.71,
+      "change": -236.6103,
+      "changePercent": -0.3754
     },
     "ETH": {
-      "price": 1872.21,
-      "change": -8.6983,
-      "changePercent": -0.4625
+      "price": 1872.52,
+      "change": -8.3883,
+      "changePercent": -0.446
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": 0.0237,
-      "changePercent": 0.0639
+      "change": -0.0481,
+      "changePercent": -0.1295
     },
     "CNYTWD": {
       "price": 4.7508,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4434.6,
-    "twd": 4563.0,
-    "tael": 171112.0,
-    "twdTotal": 141925.0,
-    "changePercent": 1.2373
+    "usd": 4437.8,
+    "twd": 4566.0,
+    "tael": 171236.0,
+    "twdTotal": 142027.0,
+    "changePercent": 1.3104
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,8 +117,8 @@
   },
   "news": [
     {
-      "title": "暑假打工挖到3.3億黃金！18歲學生「一鏟翻出巨量金條」報警下場曝 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQdV9SaFppakVpd2FIU053VGdVekN0MnhEak4zd2lNU3NtQVRuejlBaHh3U1Y5YlhGREdRYnk4blk1aHl4YWlZdHFndnVUeWFSMGZmdFJ2bGZBa0lEM0EtTVYxeVc4LWFtTzJjeWN5T1Ftb3VmU2dVZDN2ZWlHY1NMU21YUXhYTVQ0S1JhWHRxeHJKLVB0bzA0TlNFSFk0T0ZiWUdBRU5HaEYteC1sbzZLVUtqdTJlamUtajliT2twdjFHMWkyN1ROOGZ6MTE1U2VUc0stNXQwOG40NjhvVk9RbWZyN2JVRjM5dkxXTGx3X0ZZVHpXMmlXTGNPVXR1NF9rQXNPR3VmUzBGNENJbVowUXM0NTAwME5TRmlJZVJmc1NUckd1RW1SZzZ0SHh5dVdjTjVLQlJqa0gyYV9rMGZDVEk5MERpdXVZQVF1RE56bDA1eFQ3cENSQjFNb0Y0SWNOdXlIUzFyU1VjZU1UM2xZdTNVU0plSG1GMXdDYnp3?oc=5"
+      "title": "【台股盤前】美股消費降溫收黑！台指夜盤跌85點 台股今恐迎激烈攻防 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxQZXY3Z19fUEpXQktEdWZ1eXlxLXZCbWFlb2FKWnhjQTdiS05LMUZQd3JJT3VxYUJTTjNrV3FRNDJHYmhNeVZpblVIUzZYSnVoekN2VEx4aFhnSEJlcVBtUTVPTzhtallnX0d0c2hTcXpMREMxWUp5T1UyM21xSktPa1ozNjNHWFV3UlE3anFFUTFQakNBWVJyTjBJSWN1VFNZQzlUcTA4SEp0anl6YmZ1VHZMZ0dKck81OUozb2NYbnVCNjFRZ01Palh4dUIteUZHSnBwRndzVS1EUkp6a0xMck5LaTg5MUowTUpRbWI5WUxVSURaTC1WR0JKOVhXSWctUTQyUDNpVFhHQ0k4bHdNd05jU0RiVUNibmVCSkFpSnhyNmkyZ2VWQU13V1kxeUdkc1R2RkNsS2pDUU9vSV9EYjRERkNlRURFYnhDQ0NQMjExOWtXSk5CMk4tczJhZzFpYzBCRWI2bHdUUHI2bURyUFpLMmpTb0JPRTM4c1diMXVzd2dXdnZoQUhKS3d0NU1qT1pqXzNPaXp3SkFvQXc?oc=5"
     },
     {
       "title": "期貨商論壇／黃金期 有望續漲 - UDN",
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11WkdyM1pHOTBMZ1RkMFNZekxlaDBNUWRiQjFNRTlNQzFNelVSLW5TYzJKM3h5VVUxNGw5TjhCVHR6UHpka2dNS2stdUZrR28?oc=5"
     },
     {
-      "title": "〈財經週報-台股看盤〉AI去槓桿漸入尾聲 主動選股卡位台股反彈行情 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDWnQtZFdXUkF3M2lpSnNKZVlpVFdUZDZXa0w0bDB2dlcyUzB3RndUekw1ZDFicmQtZUROVURfa0VQU1JLSXNnZUFTX3lGaG40b09YQVFn?oc=5"
+      "title": "台股待補量 法人︰年底前再拚大行情 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WeU1PdENRNnpudjFsVV9TZXRoMXNBZExwM0hYWUJoUkpmNllSN2RnQS04OGtyUjZDd3ZIZ2owYUZHcjF6QUJPamc3UnB4Sm1WRXBDUDBR?oc=5"
     },
     {
-      "title": "美伊若達成協議，下一個市場焦點竟是黃金？｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
+      "title": "《貴金屬》美元指數下跌 COMEX黃金上漲0.4% - 頭條新聞 - 新聞 - MoneyDJ理財網",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0c2Ykw4dThGTWs3Zlk1M2J3eC1wY3RUUEdUUzlzb0tvYnRMc213bndRVVZGWnRQeDhkMW1DUC1JMGJsUUstZ25DTFMzcVFNOXo3MDkwbzFtLVVwRTkySElRRjlQeVFXMFhrbkVUQmdPRUh4cHdhTG1QcWpIYXlhUU9lV0RXbE0?oc=5"
     },
     {
-      "title": "台股市值狂增逾5兆！上週暴漲1585點 它最猛竟大漲12% - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOaks1dDgtdEhBdTNNN0xsSU8zZWxvdXBNdFFORWVRYmxReUxoV2xqcjBQdUROQlZuVzlWcko2VnIwVzBCVWVrZFRkUHhzZWJQcFE1V2Z5RWNkVkxZczRZLXJtWVF2d3RyUHVzWnlqU2N2Rk4zSU1DZVN6c3UyLTZQYUZLQzBST01KWFY3aklESnNqMG5ISjhqVS1vQndyMUhTa2FKVk9aOXlnYWtGWDF3NWJHcWhoaUlsMjRLR2taeng1dzhtM0gxOTlFOWtvM1VONk00emkwMDlTV0I4Zi1YbWpzTGxNUDNjTVI4QVFyTlNJU1ZYMEhVUktzM3FaN2dsZUFicmI4NTB0dDRkanNrSXBMVC02eEFNSVhNQkpScFViRExfZTAxODNuN3FIX0doaVpPWGtKN05Tb3ZYa1d6UF9zTQ?oc=5"
+      "title": "台股中小型基金 發威 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXBrWlhtM1F2aTRqN3pWcW5nRXJmbVBOaWRiYmdJaUpvLS1FX05CSmIwZHhEUDYtSFRySXBIOGNra01TRm5sQVA0djg5b2gwS3AtX05tQWZ1ZUE1RzFOSXVNdlNnQVhSZTl5eTlTbFZQZjRYb1FSZmp4SlZYMERyZHBVMjdwdjNOSS03ZFlIOHlWTTh6Ni1mTEtEWnBIQ09ScG9KVmdYQi1GSFBrdVRYYmxqSXNrRzF4bXozemZTRnk?oc=5"
     },
     {
       "title": "布局美股基金 一兼二顧 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12RWNYWThqc3RVTXJYM3IwUVlLLW9sbVpWaVhCNVlTTkZ0U1UwdUZNQzZVcjBCc1dMT2cweVduaXBmNlRBcHphQ1NrTW1hS29aNHfSAVdBVV95cUxNdUt6UDFUYktRTDVlN2dNejUwcWdIdkY3elM3Q1o1TUVYSDZfMU9jR2tXdnBDZXVBV1JpR1BmdVJNdmtJMVhIelYzc1hyTW1vQzE5OWV2OTA?oc=5"
     },
     {
-      "title": "台股待補量 法人︰年底前再拚大行情 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WeU1PdENRNnpudjFsVV9TZXRoMXNBZExwM0hYWUJoUkpmNllSN2RnQS04OGtyUjZDd3ZIZ2owYUZHcjF6QUJPamc3UnB4Sm1WRXBDUDBR?oc=5"
+      "title": "〈財經週報-台股看盤〉AI去槓桿漸入尾聲 主動選股卡位台股反彈行情 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDWnQtZFdXUkF3M2lpSnNKZVlpVFdUZDZXa0w0bDB2dlcyUzB3RndUekw1ZDFicmQtZUROVURfa0VQU1JLSXNnZUFTX3lGaG40b09YQVFn?oc=5"
     }
   ]
 }
