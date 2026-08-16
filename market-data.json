@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 03:02",
+  "updated_tw": "08/17 03:32",
   "taiwan": {
     "2330": {
       "price": 2395.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63087.35,
-      "change": 63.0297,
-      "changePercent": 0.1
+      "price": 63132.0,
+      "change": 107.6797,
+      "changePercent": 0.1709
     },
     "ETH": {
-      "price": 1884.66,
-      "change": 3.7517,
-      "changePercent": 0.1995
+      "price": 1885.17,
+      "change": 4.2617,
+      "changePercent": 0.2266
     }
   },
   "fx": {
@@ -95,8 +95,8 @@
     },
     "EURTWD": {
       "price": 37.074,
-      "change": -0.0481,
-      "changePercent": -0.1295
+      "change": 0.0237,
+      "changePercent": 0.0639
     },
     "CNYTWD": {
       "price": 4.7508,
@@ -117,7 +117,7 @@
   },
   "news": [
     {
-      "title": "黃金期 有望續漲 - UDN",
+      "title": "黃金期 有望續漲 - udn.com",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfR3AwN3JXeFBkVGpvV2d4ZkJUVmtjd1Qway15N0Q5RDRpY3QxakE4X29SMXNkT0MxY0NONGpZdHVQbWpDZU04LVNJYU9aVzJW0gFWQVVfeXFMT3FkdW41RjFjbG1zOVc3eVFCYmZtX0lGYnlyRUxWR0I4S2tIWUg0a0gyQU56OTlrVmsyaHJqMVFFTzBlNXdJX3pUSkt2bm40aVFMdnlHSHc?oc=5"
     },
     {
@@ -129,6 +129,14 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11WkdyM1pHOTBMZ1RkMFNZekxlaDBNUWRiQjFNRTlNQzFNelVSLW5TYzJKM3h5VVUxNGw5TjhCVHR6UHpka2dNS2stdUZrR28?oc=5"
     },
     {
+      "title": "台股週報》外資天天買超 助攻收復4萬6 - 卡優新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sNW5uZWV5Ny1ULXN5Qk5CSWFvbF9vZ29OWEQ5OUlja1pRdnZ4YmJHUV9Bd2tRMjdqa3dCR2dwdF9PTEZtaFlNUXAyUXlSWDA2X29yOU9KWjhOZw?oc=5"
+    },
+    {
+      "title": "AI做後盾！外資看多台股戰新高- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmMGN4MFlQYmpQbndFODF0azZuZzJwOFQ4YjJqNDRlR3ZFNTBVbHUwYjluamdLSUFuZHpOQjdlZVN0NHNxajFtVWlBeWpWcTNuTl8yZG52STIyYXE5Y1I0?oc=5"
+    },
+    {
       "title": "漲也糾結跌也猶豫：普通人買黃金，消費還是投資？--經濟·科技--人民網 - 人民网",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZY0FfTTNyUTgxWU9jYmFRcUpwYVhzc0Vpa3I5SzNNQzEwY0JLdkloSHJKRVNQVVBmYkVrQnY1TlpZVDc1bVdRWXoxNVR4T1pNc1dETFZ0VF9iNzJhRTZ0RmMwLS14ajdBY3pEZlpZYUJUUExk?oc=5"
     },
@@ -137,15 +145,7 @@
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSEV1WXRrMGxteXdPTUtkTkhGUWdudUZlbWt4SXFjdGNiZXo1RnNzZGtkRlk3c2hjLVM0T09pT0ptUTdrbDdSZ1U2cUh0YnZfMVdpZWFjbnNoeHlKcTcxcFVSWDU1X1NQckx4cmhORGdmNmMxQ0NYbVRuZDRwUHJwN2VNeVpUYzN4SGEzeXYzUTJ6TDJnN244Z3hQTDVabmtEZl9RaWlBTTdHaWhPVDU4RjZxZzV5MUx3SmZLVWlrd0x1bGhiU3I5Nm5OcUJvWmlFMkxlaGZtTl9ZVnFxTXc3djJqbmRjTGUtYWIwU09kUGpOdWRuQW5LbGJhbW5ZN0pfa2RfUTJTcHBCZkQ5NkJwQW1YZUp0YmxXVlg4MFJDVUdOM0xPYnVUSk9CUFpFLXBTbmRub1RLQXRiNzRpSUNmVjFyWnEtWGNyZ2w4M0FxVHJ3RnFURUM1THZUUU1LRjAwRzdvU2toYXVJd3VKbjhVRzNuQ1pUYnJ0R1o0YW9kamxOMkJoWVFIRQ?oc=5"
     },
     {
-      "title": "黃金還能追嗎？瑞銀財管 CIO：金價 2027 上半年有望衝過 5,000 美元 - TechNews 科技新報",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yMFF5N0VuVnNvVHROY2VsN2d2WDZxenZpNXkzMDZqVzlST0dBenV6S0I5d2lqeElPWC1CaUFLWGNmWnVlb0lBSlVsUnFMWDBBYmtiZ2RaV1k1YXRiVnhoUjNWTUVzTTh5MTRtag?oc=5"
-    },
-    {
-      "title": "金價單周狂漲7%、創2個月新高，為何突然大漲？黃金現在可以買？李其展「底部墊高趨勢還沒結束」，買點曝光 - 今周刊",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaHNRdEdPUktlMGpIX3BpeDFYcXZOR2dSR0JBelB2WW1fWHB6b2Rfbm02YkN5dlhLWGN4bjRIVjU5Q09QSTVNemxCWG1nWmN0dWg3Nmx5YldPWlM3NnVPZHF6ZDI5czl5VnRaM19FUjBLQkQ4YW9LVE9NcUpySE1Mcw?oc=5"
-    },
-    {
-      "title": "布局美股基金 一兼二顧 - UDN",
+      "title": "布局美股基金 一兼二顧 - udn.com",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12RWNYWThqc3RVTXJYM3IwUVlLLW9sbVpWaVhCNVlTTkZ0U1UwdUZNQzZVcjBCc1dMT2cweVduaXBmNlRBcHphQ1NrTW1hS29aNHfSAVdBVV95cUxNdUt6UDFUYktRTDVlN2dNejUwcWdIdkY3elM3Q1o1TUVYSDZfMU9jR2tXdnBDZXVBV1JpR1BmdVJNdmtJMVhIelYzc1hyTW1vQzE5OWV2OTA?oc=5"
     }
   ]
