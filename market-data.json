@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 07:58",
+  "updated_tw": "08/17 09:48",
   "taiwan": {
     "2330": {
       "price": 2395.0,
-      "change": -40.0,
-      "changePercent": -1.6427
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "2454": {
-      "price": 4210.0,
-      "change": -15.0,
-      "changePercent": -0.355
+      "price": 4070.0,
+      "change": -140.0,
+      "changePercent": -3.3254
     },
     "2317": {
-      "price": 259.5,
-      "change": -2.5,
-      "changePercent": -0.9542
+      "price": 258.5,
+      "change": -1.0,
+      "changePercent": -0.3854
     },
     "0050": {
-      "price": 106.4,
-      "change": -0.3,
-      "changePercent": -0.2812
+      "price": 106.45,
+      "change": 0.05,
+      "changePercent": 0.047
     },
     "00878": {
-      "price": 33.87,
-      "change": 0.09,
-      "changePercent": 0.2664
+      "price": 33.79,
+      "change": -0.08,
+      "changePercent": -0.2362
     },
     "00919": {
-      "price": 30.57,
-      "change": 0.16,
-      "changePercent": 0.5261
+      "price": 30.44,
+      "change": -0.13,
+      "changePercent": -0.4253
     }
   },
   "us": {
@@ -72,81 +72,48 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62813.74,
-      "change": -210.5803,
-      "changePercent": -0.3341
+      "price": 63119.98,
+      "change": 95.6597,
+      "changePercent": 0.1518
     },
     "ETH": {
-      "price": 1874.1,
-      "change": -6.8083,
-      "changePercent": -0.362
+      "price": 1890.91,
+      "change": 10.0017,
+      "changePercent": 0.5317
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.004,
-      "change": -0.1201,
-      "changePercent": -0.3739
+      "price": 31.869,
+      "change": -0.2551,
+      "changePercent": -0.7941
     },
     "JPYTWD": {
-      "price": 0.1987,
-      "change": -0.0028,
-      "changePercent": -1.3729
+      "price": 0.1983,
+      "change": -0.0032,
+      "changePercent": -1.5715
     },
     "EURTWD": {
-      "price": 37.074,
-      "change": -0.0481,
-      "changePercent": -0.1295
+      "price": 36.994,
+      "change": -0.0563,
+      "changePercent": -0.152
     },
     "CNYTWD": {
-      "price": 4.7508,
+      "price": 4.7392,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4428.4,
-    "twd": 4557.0,
-    "tael": 170873.0,
-    "twdTotal": 141727.0,
-    "changePercent": 1.0958
+    "usd": 4457.1,
+    "twd": 4567.0,
+    "tael": 171255.0,
+    "twdTotal": 142043.0,
+    "changePercent": 1.751
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": [
-    {
-      "title": "美股期貨盤前上漲 分析師緊盯聯準會與中東局勢 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQY2lrQTNndUEwcldCU3FLZGJ6aV9DYmh6Ync4UXhBUC1sRHVfa3owZGRrR3BUUDd4VVlNWVdkN0ZLVzVXUVgxU0l4Z1pZcFFXN0VKelFBckpGbVp5NlFLQTFYNnh1cjAtbklMUUN3aXRNVlRQemhsRElUbXIxdG90MWFmWjEwRzl4dzdyQjZyS0JORl9kRjRaNEUyMHVLY0paVkZpMDRUOURDWk5sRTdOeFFGbmcySzcxLUx6bDBBZXZORF8zcmR3NUhxaUlweWpYNzJqTlhQbVVZRU1MOTZKeFVPMjdzT053RFlMcW1TWVhtYUl1OVp4LWZSeHRYQUw0QkRYUF9EQTAycGNya2NJZndsSXZveVROY0FjR0hCZEFDbll0RkhueWl1a0tVejBfMFgwVEh3a3plUUZKLW5WcVA3bHp4NUpDMmZCblMyLTRlN1NrZXoxSw?oc=5"
-    },
-    {
-      "title": "期貨商論壇／黃金期 有望續漲 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfR3AwN3JXeFBkVGpvV2d4ZkJUVmtjd1Qway15N0Q5RDRpY3QxakE4X29SMXNkT0MxY0NONGpZdHVQbWpDZU04LVNJYU9aVzJW0gFWQVVfeXFMT3FkdW41RjFjbG1zOVc3eVFCYmZtX0lGYnlyRUxWR0I4S2tIWUg0a0gyQU56OTlrVmsyaHJqMVFFTzBlNXdJX3pUSkt2bm40aVFMdnlHSHc?oc=5"
-    },
-    {
-      "title": "《貴金屬》美元指數下跌 COMEX黃金上漲0.4% - MoneyDJ理財網",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWVR6UURvT3Fad2VTNVdjdzNxT0FNQ19YT2h4MFpTd29nSGQ5LXcwRGZpT21VVjdDcDZtNnJVWC1oWlFBMFRETURVSVhsVEh5VmsxWHNobDlTeHZRV2x0NUp3SlY2Q1ZhX3ZrZWhfU3FXMGktZF9BV3JMZEVYRW50YmlGaG5CYm9XdDhlUjAtX0pUUQ?oc=5"
-    },
-    {
-      "title": "美股8月「牛市」又回來了！AI、科技股狂飆但「金髮女孩」行情恐藏風險 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11WkdyM1pHOTBMZ1RkMFNZekxlaDBNUWRiQjFNRTlNQzFNelVSLW5TYzJKM3h5VVUxNGw5TjhCVHR6UHpka2dNS2stdUZrR28?oc=5"
-    },
-    {
-      "title": "台股待補量 法人︰年底前再拚大行情 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WeU1PdENRNnpudjFsVV9TZXRoMXNBZExwM0hYWUJoUkpmNllSN2RnQS04OGtyUjZDd3ZIZ2owYUZHcjF6QUJPamc3UnB4Sm1WRXBDUDBR?oc=5"
-    },
-    {
-      "title": "【台股盤前】美股消費降溫收黑！台指夜盤跌85點 台股今恐迎激烈攻防 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxQZXY3Z19fUEpXQktEdWZ1eXlxLXZCbWFlb2FKWnhjQTdiS05LMUZQd3JJT3VxYUJTTjNrV3FRNDJHYmhNeVZpblVIUzZYSnVoekN2VEx4aFhnSEJlcVBtUTVPTzhtallnX0d0c2hTcXpMREMxWUp5T1UyM21xSktPa1ozNjNHWFV3UlE3anFFUTFQakNBWVJyTjBJSWN1VFNZQzlUcTA4SEp0anl6YmZ1VHZMZ0dKck81OUozb2NYbnVCNjFRZ01Palh4dUIteUZHSnBwRndzVS1EUkp6a0xMck5LaTg5MUowTUpRbWI5WUxVSURaTC1WR0JKOVhXSWctUTQyUDNpVFhHQ0k4bHdNd05jU0RiVUNibmVCSkFpSnhyNmkyZ2VWQU13V1kxeUdkc1R2RkNsS2pDUU9vSV9EYjRERkNlRURFYnhDQ0NQMjExOWtXSk5CMk4tczJhZzFpYzBCRWI2bHdUUHI2bURyUFpLMmpTb0JPRTM4c1diMXVzd2dXdnZoQUhKS3d0NU1qT1pqXzNPaXp3SkFvQXc?oc=5"
-    },
-    {
-      "title": "布局美股基金 一兼二顧 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12RWNYWThqc3RVTXJYM3IwUVlLLW9sbVpWaVhCNVlTTkZ0U1UwdUZNQzZVcjBCc1dMT2cweVduaXBmNlRBcHphQ1NrTW1hS29aNHfSAVdBVV95cUxNdUt6UDFUYktRTDVlN2dNejUwcWdIdkY3elM3Q1o1TUVYSDZfMU9jR2tXdnBDZXVBV1JpR1BmdVJNdmtJMVhIelYzc1hyTW1vQzE5OWV2OTA?oc=5"
-    },
-    {
-      "title": "〈財經週報-台股看盤〉AI去槓桿漸入尾聲 主動選股卡位台股反彈行情 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDWnQtZFdXUkF3M2lpSnNKZVlpVFdUZDZXa0w0bDB2dlcyUzB3RndUekw1ZDFicmQtZUROVURfa0VQU1JLSXNnZUFTX3lGaG40b09YQVFn?oc=5"
-    }
-  ]
+  "news": []
 }
