@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 13:21",
+  "updated_tw": "08/17 13:59",
   "taiwan": {
     "2330": {
-      "price": 2405.0,
-      "change": 10.0,
-      "changePercent": 0.4175
+      "price": 2400.0,
+      "change": 5.0,
+      "changePercent": 0.2088
     },
     "2454": {
-      "price": 4075.0,
-      "change": -135.0,
-      "changePercent": -3.2067
+      "price": 4050.0,
+      "change": -160.0,
+      "changePercent": -3.8005
     },
     "2317": {
-      "price": 255.5,
-      "change": -4.0,
-      "changePercent": -1.5414
+      "price": 255.0,
+      "change": -4.5,
+      "changePercent": -1.7341
     },
     "0050": {
-      "price": 106.75,
-      "change": 0.35,
-      "changePercent": 0.3289
+      "price": 106.45,
+      "change": 0.05,
+      "changePercent": 0.047
     },
     "00878": {
-      "price": 33.71,
-      "change": -0.16,
-      "changePercent": -0.4724
+      "price": 33.75,
+      "change": -0.12,
+      "changePercent": -0.3543
     },
     "00919": {
-      "price": 30.39,
-      "change": -0.18,
-      "changePercent": -0.5888
+      "price": 30.34,
+      "change": -0.23,
+      "changePercent": -0.7524
     }
   },
   "us": {
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63504.32,
-      "change": 479.9997,
-      "changePercent": 0.7616
+      "price": 63456.6,
+      "change": 432.2797,
+      "changePercent": 0.6859
     },
     "ETH": {
-      "price": 1901.95,
-      "change": 21.0417,
-      "changePercent": 1.1187
+      "price": 1897.79,
+      "change": 16.8817,
+      "changePercent": 0.8975
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.867,
-      "change": -0.2571,
-      "changePercent": -0.8003
+      "price": 31.861,
+      "change": -0.2631,
+      "changePercent": -0.819
     },
     "JPYTWD": {
       "price": 0.1981,
@@ -94,22 +94,22 @@
       "changePercent": -1.6708
     },
     "EURTWD": {
-      "price": 36.965,
-      "change": -0.0853,
-      "changePercent": -0.2302
+      "price": 36.961,
+      "change": -0.0893,
+      "changePercent": -0.241
     },
     "CNYTWD": {
-      "price": 4.7344,
+      "price": 4.7345,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4448.0,
-    "twd": 4557.0,
-    "tael": 170895.0,
-    "twdTotal": 141744.0,
-    "changePercent": 1.5432
+    "usd": 4453.2,
+    "twd": 4562.0,
+    "tael": 171062.0,
+    "twdTotal": 141883.0,
+    "changePercent": 1.662
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,12 +137,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wX2xXMGlMY3E1Rk83My1idTN3S01sQXdpZ1FPbXVSMUNBM2hOdWdBWHh0YVNNT205OVRKY185R3ctcHNHZkxmVXlLdWNIdEZscVHSAVBBVV95cUxQbnRWeWdPSlpmTkdBczVodTh0VkdYNVVCUmlaOWRSUnpJWkJzQmkyamR1X0ZCRHdGYmNXc0I3MUFqVnJGRFdvSkxmdnJSRUM0Ug?oc=5"
     },
     {
-      "title": "中國官方買盤支撐黃金需求投資與消費分化- 新聞 - MoneyDJ理財網",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3FzcUJUMlIzQkhpSDdIMkcxaGU1MkkyTEU3dEliaXN6U1dIcnAwOFV1ODJUaXRVT1FEbWUwUUN3b3UzMHF3bExxcmg4SDAzaXJHeEpXTHJxMFVWak00ZjJNbDBMaGktcEtuZFBROTdNTU9jdUFkS09LWUgxZWRhNjFta0tlX0xnVk11VXZncXh6Zw?oc=5"
-    },
-    {
       "title": "台股開高震盪 盤中一度上漲378點至46,189點 收復46,000點大關 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yWE5KazdYR2l5MXhmSTlzelQ5VGNnUFNneUtEdC1TR1FPdmxiNkpmQ2NkRXlWendzcmExRHlOc29vcEtETFVYNTNCYng0YXNS0gFWQVVfeXFMTzBsUmprV3hLdGdJREwyNFVWbXlVV2NKVlNKRFUwdkVKVXRXNFdJU0RvVjN2MHB0WGpiUzR4cFNBLXJaUTFYaUM5c3M5WkNhT3VNSTdZakE?oc=5"
+    },
+    {
+      "title": "中國官方買盤支撐黃金需求投資與消費分化- 新聞 - MoneyDJ理財網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3FzcUJUMlIzQkhpSDdIMkcxaGU1MkkyTEU3dEliaXN6U1dIcnAwOFV1ODJUaXRVT1FEbWUwUUN3b3UzMHF3bExxcmg4SDAzaXJHeEpXTHJxMFVWak00ZjJNbDBMaGktcEtuZFBROTdNTU9jdUFkS09LWUgxZWRhNjFta0tlX0xnVk11VXZncXh6Zw?oc=5"
     },
     {
       "title": "【結算前小心！】台股狂彈6000點！下週先跌再漲？ - 鉅亨網",
