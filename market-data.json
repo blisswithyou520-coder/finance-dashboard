@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 15:10",
+  "updated_tw": "08/17 16:00",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63519.62,
-      "change": 495.2997,
-      "changePercent": 0.7859
+      "price": 63482.05,
+      "change": 663.3977,
+      "changePercent": 1.0561
     },
     "ETH": {
-      "price": 1904.08,
-      "change": 23.1717,
-      "changePercent": 1.2319
+      "price": 1899.21,
+      "change": 25.267,
+      "changePercent": 1.3483
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.768,
-      "change": -0.3561,
-      "changePercent": -1.1085
+      "price": 31.762,
+      "change": -0.3621,
+      "changePercent": -1.1272
     },
     "JPYTWD": {
-      "price": 0.1978,
-      "change": -0.0037,
-      "changePercent": -1.8197
+      "price": 0.1976,
+      "change": -0.0039,
+      "changePercent": -1.9189
     },
     "EURTWD": {
-      "price": 36.893,
-      "change": -0.1573,
-      "changePercent": -0.4246
+      "price": 36.899,
+      "change": -0.1513,
+      "changePercent": -0.4084
     },
     "CNYTWD": {
-      "price": 4.7221,
+      "price": 4.7195,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4459.3,
-    "twd": 4555.0,
-    "tael": 170796.0,
-    "twdTotal": 141663.0,
-    "changePercent": 1.8012
+    "usd": 4464.0,
+    "twd": 4559.0,
+    "tael": 170944.0,
+    "twdTotal": 141786.0,
+    "changePercent": 1.9085
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -118,35 +118,35 @@
   "news": [
     {
       "title": "黃金再觸4400美元關口，下一階段靠什麼上漲？ - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS29yeW1ISE9KeHJSNUhDZ1ZzZ3pZU0hZaUlsMU1jOWkyYjN1YmtWdjlZbm0waXRXTW9YaXV0bFdEWU9uLW1Dbk9IdmlOLUprTllQanowTVVQNFV0SUNzckpGbFJ2alRPYzJpNHlWczk2YVRIWGVOamk0QXlpNjZPS1NGNl9NWWE5eVNheFpNZ2gxdGowQU9LMFo1NHplTkti?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdE95U2xIWnVIY2JOdDhHbzJ0RFliUnpwRWRPeHVBM2poZWNXTERiVExZam91dHZReTF0cWkwMWprcnlIMnAxOHZUZ3RfQjk5cFh4dUp0YkhVeGtRM0NpLWZWZDRQWlZ2dFJvaHRqdVVfYUxpWlh3WHB6OUl4TjF5dkpqZmJ4a3ZJSlVLdGwyV3N4RFhHcVBaNTZCWVV0WlRI?oc=5"
     },
     {
-      "title": "4萬6保衛戰！台股收漲46點 PCB「3檔」攻漲停 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPN0V0R3I2QUNoYWoyQW5oeXlQQlQteFJpc0Y2OTJ6ajFERkxiSDlyZEY1a21CT09meS1jbVRFSHYxZVRSUWIzNGtfYXZfNW5xQUcxQWxjTzdQR0JKN1laLUZmTjJIdzJqb3kyM1M2LUNmeDU2aFZMVFJwUXJyRUlGLTlBZG1FSHFJVVlFMmRfRS0tYjV0TDJINmgwYW1BZGVHMUpTZmZIam1RTmVvLWVacl9CdnBLSlhGdzFINjl0bWVKQlUtZ2RzTjJreG84d3QweWIycGtuQzExVV9KS2MzMWE4Z2dmVXo5RzRydzNHZjlxTTJBM2VXM1g2VU8zd0NGcmNtV2lCMA?oc=5"
+      "title": "【Follow法人】外資續挺台股買超454億元 投信轉賣超177億元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPZlZaWFRNdVZoa0d0ZHBGSkJmZElrR2tmSlkwR3lHNmpBNzZLSG1WZUZWYU1HWmx6Ty14Y3RZSndNd0xBSUdqMkRQcERMYlhlMG5FYXBiTkZjMjdmQWw2RWlveEZ0dzFJeXNFTzBmQU1WNDc3Y1pnSDJBLTRoS3g5TkJtMHl1bzlHZTd6YzExbGFIZGd6NDJkQloyYTY4Wlp5V1V4bExyN21jWkZnVFVnRk95ZXNGUDZsYWdFOGEwV2k2TThmaHVfZXI3dWQ4aGdBV1pQT253YVNwZm9URHBBOWxXOXZRUUxHNUg0Ym1mQ3M4eEZxcC1EWV9Gb0hESFR0RHg4VExfSTJnVmxoNjl0MFdsUGlMZFpwaV9hZGplMndkVFYyMFdjVjVVRGpoV2syZzY0U3VaLS0tTnZkei1RRXE0YnNwelQ4VGEwYjZnRkZWQ0ZYdEVhMGJIN0NtTE9IY0gwcXc1WHA?oc=5"
     },
     {
       "title": "越南人為何這麼喜歡屯黃金？家戶「私藏」近 5 百公噸、超過整個台灣央行的關鍵原因 - 換日線 Crossing",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xVF9JLWhaMWxDYVVIM3QwdFhPTmxVYnVuZHdCdEJEZ2g3T1U2ZkZnd1JFQmFPWHVkZEZYLUI3OXhxZ3AyYk5Lajh3VzdXcWktYXc?oc=5"
     },
     {
-      "title": "台積電漲15元至2410　台股漲逾330點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wX2xXMGlMY3E1Rk83My1idTN3S01sQXdpZ1FPbXVSMUNBM2hOdWdBWHh0YVNNT205OVRKY185R3ctcHNHZkxmVXlLdWNIdEZscVHSAVBBVV95cUxQbnRWeWdPSlpmTkdBczVodTh0VkdYNVVCUmlaOWRSUnpJWkJzQmkyamR1X0ZCRHdGYmNXc0I3MUFqVnJGRFdvSkxmdnJSRUM0Ug?oc=5"
+      "title": "博通單日重挫5.94%，美銀報告說些什麼?三重壓力夾擊AI晶片龍頭｜美股觀察｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNMGZKX3BUU1FmTlgtUHR3NWVFR3liajdnUk9jdjBSaEc0LUdSU2xLX0FIT2JmNHRTdkdta3oxazl4TU5JUFdmeUhZQS1keHZobXcyNnlzT2FOTUIzV2tEVW1ETXBsQlFyaFVjeWVqX2FWbmx6bTJscEVHX0h3M3NibjR0QktsMlVMYXY0V1NhR1B4REdtMFVrRTVaUmpkN1FjdXgwR2hsZW5iaEdhdFZnZVlyalJueS1NNWxIZVQ3YUlWRVBkNkhZSENKbmd1QWpQTWZZWEFpTjFEcjNuME1yY0JhdDFDMVNYRzZLN09BRnlUUDB1MmU0bjU1VzZONC1DN0J2MU9mVWt6T205U3drVjNiVnltdUZmTHVsWldXVlhySVA4NG15OVRlem9kTTF0QXJmTU9fb3lZSFBVLXoxZUh1ck5yc3hBZDRuWm5POGxJZ3V0MEY4TGRWR0hYTG51d1hBbl9BTjM0dGtuSXdDa244dFZCNkdSY1pzeUx0N2NXclFIQmdVT1ZmYmdjM0RzNmZQdWd1MDB2R3pfNTc1VGJVdGl5bzVnb3hCOW5FZTkyV20xdG9pdFprRFhkUkJVUFdBSWg2em5UZGxXeEV2b3FFNWNaZndKcGc?oc=5"
     },
     {
-      "title": "台股收盤上漲46點 股后川湖漲停再創新天價 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpMVdTNGpfOW5oTS0wOVQ1SjlWYllkcmRLWTI3MzRTb0VZRUpMUnZlUktfd0NoT0ptTTI1V1VIZU5udmVldGRhSVJvZTdGOE5V0gFWQVVfeXFMUGJ4S0pnZW5HaUNwaWRSUTh5cVhnUTMxcm1OWWxBc2xTZ0ZVcjRQZ1NrY3FFX1lDWThVX0N3S1d0QTN0WTNUQ0hPUTV5Z1JnM0ttc0FDMUE?oc=5"
+      "title": "台股今年要衝5萬點恐有變數？股添樂揭4大隱憂：當利多大家都知道就難再漲| 股市要聞| 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aTVpWWkZFYUxMQ0dZYnB3bE0zOXdsRkFxVkt5Zld0TXBPX1RfOUxBQjZuaEU5b3F0VXdPUkRwT3VhOEpMbExyWHFOcnlxd3Ay?oc=5"
+    },
+    {
+      "title": "台積電漲15元至2410　台股漲逾330點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wX2xXMGlMY3E1Rk83My1idTN3S01sQXdpZ1FPbXVSMUNBM2hOdWdBWHh0YVNNT205OVRKY185R3ctcHNHZkxmVXlLdWNIdEZscVHSAVBBVV95cUxQbnRWeWdPSlpmTkdBczVodTh0VkdYNVVCUmlaOWRSUnpJWkJzQmkyamR1X0ZCRHdGYmNXc0I3MUFqVnJGRFdvSkxmdnJSRUM0Ug?oc=5"
     },
     {
       "title": "Capital B增持5枚比特币，总持有量达3,145枚 - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XQjRHQmFqVUozUGh3QUo0T2xiUFprVkRWQjBaSVl4Ulg1M0dnMk1OaFBPNWI4ZzVvci1DVUJwa1pFTlVXWlBkampqbHA4ZVRDOTRPanpta0FhTTViNjVYT1ZkYjFaZw?oc=5"
     },
     {
-      "title": "中國官方買盤支撐黃金需求投資與消費分化- 新聞 - MoneyDJ理財網",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3FzcUJUMlIzQkhpSDdIMkcxaGU1MkkyTEU3dEliaXN6U1dIcnAwOFV1ODJUaXRVT1FEbWUwUUN3b3UzMHF3bExxcmg4SDAzaXJHeEpXTHJxMFVWak00ZjJNbDBMaGktcEtuZFBROTdNTU9jdUFkS09LWUgxZWRhNjFta0tlX0xnVk11VXZncXh6Zw?oc=5"
-    },
-    {
-      "title": "台股小漲46點！台積電漲5元獨自撐盤 聯發科重摔160元、鴻海跌逾1% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOR1RGdmRlSi12cWJ3R3JSaW1hWDVpRWk4a1RvUThVS0tfRlpvOU5WVVJabDZQa2pqWmVfZXpJN29WQzZ2X0VjR2FEUWtqdFdDcnlUX0UyRnRIcWVCZy1iQ3phV282SXdFWHhHTW9oejloTTZ4eVNrUlBEZWVGa2VjdkZaeWZSanhQR1pncDVDWEVWaS1GSW16dzZlakVTWFhXWXAxTmltUFpDLXQzRC1YckRyWTNoVko1ZmlPYkpFMmYwc3FKYjloZTVBdnd3MWR5dmpSa0JBMlp1bFhHUnQtR0o2OTg3N0ZFTkN2Ui1mT25qeld0NjgteGw3VzZhZ3BIemJSd2I4bDNyRldDaFFYTWlYT1RfYnh3YlY1UXE2U0k1S1hZSDJyQTk1RTFLeVhGdHlJWHFMS0hoTU12WE5mdVl1MmlhaU5HN21jSUJFY0tDbkViUlRGV2FNcTRNODl3bTduemN1X0VUQ3VhNXRwbGJsVXpqVnFjaHVXaV9Ta0FmaF9XQUtyaw?oc=5"
+      "title": "台積電上漲5元 台股震盪424點收45857點小漲46點 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pejN3UlN3MzQwMDdaZTRDYWUzMnZJRTcyOHNac0M5cGs1YWU5VHpiT1VzTjNMdHY2RUNuQ2dfQmFic1BOaEYxUjJ1TzZrakpyZGp1NUJ4WUxZRjNReXc?oc=5"
     }
   ]
 }
