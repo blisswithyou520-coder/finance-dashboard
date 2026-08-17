@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 12:42",
+  "updated_tw": "08/17 13:21",
   "taiwan": {
     "2330": {
-      "price": 2415.0,
-      "change": 20.0,
-      "changePercent": 0.8351
+      "price": 2405.0,
+      "change": 10.0,
+      "changePercent": 0.4175
     },
     "2454": {
-      "price": 4060.0,
-      "change": -150.0,
-      "changePercent": -3.5629
+      "price": 4075.0,
+      "change": -135.0,
+      "changePercent": -3.2067
     },
     "2317": {
-      "price": 256.0,
-      "change": -3.5,
-      "changePercent": -1.3487
+      "price": 255.5,
+      "change": -4.0,
+      "changePercent": -1.5414
     },
     "0050": {
-      "price": 106.9,
-      "change": 0.5,
-      "changePercent": 0.4699
+      "price": 106.75,
+      "change": 0.35,
+      "changePercent": 0.3289
     },
     "00878": {
-      "price": 33.72,
-      "change": -0.15,
-      "changePercent": -0.4429
+      "price": 33.71,
+      "change": -0.16,
+      "changePercent": -0.4724
     },
     "00919": {
-      "price": 30.43,
-      "change": -0.14,
-      "changePercent": -0.458
+      "price": 30.39,
+      "change": -0.18,
+      "changePercent": -0.5888
     }
   },
   "us": {
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63450.1,
-      "change": 425.7797,
-      "changePercent": 0.6756
+      "price": 63504.32,
+      "change": 479.9997,
+      "changePercent": 0.7616
     },
     "ETH": {
-      "price": 1901.19,
-      "change": 20.2817,
-      "changePercent": 1.0783
+      "price": 1901.95,
+      "change": 21.0417,
+      "changePercent": 1.1187
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.853,
-      "change": -0.2711,
-      "changePercent": -0.8439
+      "price": 31.867,
+      "change": -0.2571,
+      "changePercent": -0.8003
     },
     "JPYTWD": {
       "price": 0.1981,
@@ -94,22 +94,22 @@
       "changePercent": -1.6708
     },
     "EURTWD": {
-      "price": 36.96,
-      "change": -0.0903,
-      "changePercent": -0.2437
+      "price": 36.965,
+      "change": -0.0853,
+      "changePercent": -0.2302
     },
     "CNYTWD": {
-      "price": 4.733,
+      "price": 4.7344,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4445.6,
-    "twd": 4553.0,
-    "tael": 170727.0,
-    "twdTotal": 141606.0,
-    "changePercent": 1.4885
+    "usd": 4448.0,
+    "twd": 4557.0,
+    "tael": 170895.0,
+    "twdTotal": 141744.0,
+    "changePercent": 1.5432
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,16 +121,16 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS29yeW1ISE9KeHJSNUhDZ1ZzZ3pZU0hZaUlsMU1jOWkyYjN1YmtWdjlZbm0waXRXTW9YaXV0bFdEWU9uLW1Dbk9IdmlOLUprTllQanowTVVQNFV0SUNzckpGbFJ2alRPYzJpNHlWczk2YVRIWGVOamk0QXlpNjZPS1NGNl9NWWE5eVNheFpNZ2gxdGowQU9LMFo1NHplTkti?oc=5"
     },
     {
+      "title": "glassnode：資金轉動期比特幣受冷落，風險資金持續湧向美股與AI資產 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yXzBBbjVDQWpxbWVsMV9vYUNWejQ0WnFZVktSN095RkdTTm5pa1ltU1N0b24tSnYxVmdWSVFsaWNiTDY4ajdlY3ZMRQ?oc=5"
+    },
+    {
       "title": "越南人為何這麼喜歡屯黃金？家戶「私藏」近 5 百公噸、超過整個台灣央行的關鍵原因 - 換日線 Crossing",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xVF9JLWhaMWxDYVVIM3QwdFhPTmxVYnVuZHdCdEJEZ2g3T1U2ZkZnd1JFQmFPWHVkZEZYLUI3OXhxZ3AyYk5Lajh3VzdXcWktYXc?oc=5"
     },
     {
       "title": "【台股盤前】美股消費降溫收黑！台指夜盤跌85點 台股今恐迎激烈攻防 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxQZXY3Z19fUEpXQktEdWZ1eXlxLXZCbWFlb2FKWnhjQTdiS05LMUZQd3JJT3VxYUJTTjNrV3FRNDJHYmhNeVZpblVIUzZYSnVoekN2VEx4aFhnSEJlcVBtUTVPTzhtallnX0d0c2hTcXpMREMxWUp5T1UyM21xSktPa1ozNjNHWFV3UlE3anFFUTFQakNBWVJyTjBJSWN1VFNZQzlUcTA4SEp0anl6YmZ1VHZMZ0dKck81OUozb2NYbnVCNjFRZ01Palh4dUIteUZHSnBwRndzVS1EUkp6a0xMck5LaTg5MUowTUpRbWI5WUxVSURaTC1WR0JKOVhXSWctUTQyUDNpVFhHQ0k4bHdNd05jU0RiVUNibmVCSkFpSnhyNmkyZ2VWQU13V1kxeUdkc1R2RkNsS2pDUU9vSV9EYjRERkNlRURFYnhDQ0NQMjExOWtXSk5CMk4tczJhZzFpYzBCRWI2bHdUUHI2bURyUFpLMmpTb0JPRTM4c1diMXVzd2dXdnZoQUhKS3d0NU1qT1pqXzNPaXp3SkFvQXc?oc=5"
-    },
-    {
-      "title": "【結算前小心！】台股狂彈6000點！下週先跌再漲？ - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80ZDVWX24xQVB2aDFLVWJPVzlPT2hBUHJyajY5MTcxd0NWc2tuYkZpZzFjYjdTckpZNEdiUkJfUmhIbEd6Mk1PRGtPbw?oc=5"
     },
     {
       "title": "台積電漲15元至2410　台股漲逾330點 - ETtoday財經雲",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yWE5KazdYR2l5MXhmSTlzelQ5VGNnUFNneUtEdC1TR1FPdmxiNkpmQ2NkRXlWendzcmExRHlOc29vcEtETFVYNTNCYng0YXNS0gFWQVVfeXFMTzBsUmprV3hLdGdJREwyNFVWbXlVV2NKVlNKRFUwdkVKVXRXNFdJU0RvVjN2MHB0WGpiUzR4cFNBLXJaUTFYaUM5c3M5WkNhT3VNSTdZakE?oc=5"
     },
     {
-      "title": "【Hot台股】技嘉盤中慘摜跌停！網問「是甜甜價還是接刀呢？」 分析師示警 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxPWmw0RzZqdkNoaUVzbVNPWDhzQi1NUVhpMmdyWktJZ1lnLW9vV0xFS1Y4bFNhREJPTklhakVxc0c0Qm1ZbFFneDhjcjZuaWpwaWtIUGdrYWxoeW1zMGhBZ2VCdmE4TWNBaVI0QnhQdjJDVUFYTnRoaE96MWdwVTZWWUFORTR5RjJNUUNmdUZJYkM3djBmcVBPeEVoV0NoWmVKUkl4czRaQ0N4Wmt2V0NUTDkzUFpNaVRFQU5oM1l2Vks2VnVBQ1Z6bHBkeTZkOURqTXR0TDlQMmx1bFE5NlhTOVdlQ1NLNy0zWEZKbWRTZHhSUnFzMkk1UktiekhEWHF6ZXlTcUU2YUFsTGc4RFk3bGJVeXlHVTVvSG5IRlFDVjVBU3BQQklFS1oxTS1lZGFPc2lKS3dPdHRpQTZBWkNwMUJnUnd4OGppb2JKZjdOeG5BSTIyZHdXeXQtVGtYY0s1enB0bG9PR2h5eERMWXhjSkF3ZzZlSVUxb0Q1S2gwVWNscGNtcWFoOEJZZmNySmZkelZuMmt5QmhLNVdqNDJOOUJ4a21IMzZVOTRfeW14dTJwS3hKTE90cUlQbFotclM5Z3RLd2pWRG5LbjdrT3Y5aUZ6T3ZYWWZSLUVNWTN2SmM?oc=5"
+      "title": "【結算前小心！】台股狂彈6000點！下週先跌再漲？ - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80ZDVWX24xQVB2aDFLVWJPVzlPT2hBUHJyajY5MTcxd0NWc2tuYkZpZzFjYjdTckpZNEdiUkJfUmhIbEd6Mk1PRGtPbw?oc=5"
     }
   ]
 }
