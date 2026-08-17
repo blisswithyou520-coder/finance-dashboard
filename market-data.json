@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/18 00:25",
+  "updated_tw": "08/18 00:55",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 227.05,
-      "change": 1.89,
-      "changePercent": 0.8394
+      "price": 226.99,
+      "change": 1.83,
+      "changePercent": 0.8128
     },
     "AAPL": {
-      "price": 303.585,
-      "change": -2.345,
-      "changePercent": -0.7665
+      "price": 303.45,
+      "change": -2.48,
+      "changePercent": -0.8106
     },
     "TSLA": {
-      "price": 339.665,
-      "change": -2.605,
-      "changePercent": -0.7611
+      "price": 339.72,
+      "change": -2.55,
+      "changePercent": -0.745
     },
     "QQQ": {
-      "price": 732.64,
-      "change": 1.57,
-      "changePercent": 0.2148
+      "price": 732.25,
+      "change": 1.18,
+      "changePercent": 0.1614
     },
     "SPY": {
-      "price": 775.39,
-      "change": -0.95,
-      "changePercent": -0.1224
+      "price": 774.835,
+      "change": -1.505,
+      "changePercent": -0.1939
     },
     "SCHD": {
-      "price": 34.315,
-      "change": -0.205,
-      "changePercent": -0.5939
+      "price": 34.31,
+      "change": -0.21,
+      "changePercent": -0.6083
     },
     "VOO": {
-      "price": 712.73,
-      "change": -0.88,
-      "changePercent": -0.1233
+      "price": 712.24,
+      "change": -1.37,
+      "changePercent": -0.192
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64021.12,
-      "change": 1202.4677,
-      "changePercent": 1.9142
+      "price": 64020.43,
+      "change": 1201.7777,
+      "changePercent": 1.9131
     },
     "ETH": {
-      "price": 1906.73,
-      "change": 32.787,
-      "changePercent": 1.7496
+      "price": 1903.72,
+      "change": 29.777,
+      "changePercent": 1.589
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.822,
-      "change": -0.3021,
-      "changePercent": -0.9404
+      "price": 31.827,
+      "change": -0.2971,
+      "changePercent": -0.9248
     },
     "JPYTWD": {
       "price": 0.1975,
@@ -94,59 +94,26 @@
       "changePercent": -1.9686
     },
     "EURTWD": {
-      "price": 36.927,
-      "change": -0.1233,
-      "changePercent": -0.3328
+      "price": 36.928,
+      "change": -0.1223,
+      "changePercent": -0.3301
     },
     "CNYTWD": {
-      "price": 4.7264,
+      "price": 4.7271,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4483.8,
-    "twd": 4587.0,
-    "tael": 172027.0,
-    "twdTotal": 142683.0,
-    "changePercent": 2.3605
+    "usd": 4481.8,
+    "twd": 4586.0,
+    "tael": 171977.0,
+    "twdTotal": 142642.0,
+    "changePercent": 2.3149
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": [
-    {
-      "title": "〈美股早盤〉美伊緊張局勢壓抑風險偏好 主要指數漲跌互現 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xTFZDc2c1eF9HVVYyTVFsTmswRndSUzk2MGFlVnhHREdGNmlkQzhQbWpyVXdraEx3SDRrNXd5U2VxbkFRMndEVGM4Mko1QWM?oc=5"
-    },
-    {
-      "title": "快訊／美股開盤兩樣情！那指費半雙雙走揚 台指期夜盤漲破46K - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPVlRvLURCTnhmTzNMcnFWLUYyTHFBY3lvX1R6d2h0MGVnRWt0bUNTT3VwV1FGeU5ILTFBalNCaEVHcEVlN1hlRG9GTDU5RnZTb1IwT3N0eXZ3SFF1Ylh6SjBuMGJkN0h5cG1BMVB6YnM5SVhGVXFqVzVNZHZmN3pKUFdjaUpRam0tUFpfaThkUUx4c01mVnBLQWFKdlYtVUdHOWdYZkJHYTEzRE5yT21vR3lHYnYydmQ4TExmRlhrQk8wb0p6MmMzTG1sWVlaYkl5UDRMS0xvRzBmTHFwWHNkQ1dsOC0tRm41WkYzN2ZKeGVVWWFxd056WTltVTVaenN4UlIxdUEtZGdNLXRsYXdiQkRvNnBrNUNMbzdNTlNGYlpNUTE3VHJMSEtoVXlDZFR5b2JBeW44dTF2amEzZ0Q1TG1zY1N4RzhhMVFuTVZxd1Z1M0JicU44UEdLTFAzOFpKNXd3dC1pODg3UlRXYXk3ZHdQU1ZwWGtBTENF?oc=5"
-    },
-    {
-      "title": "光進銅退是什麼？光通訊怎麼投資？台美股、ETF 都能參與｜美股產業｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQZjZjcE55RlRGa3pqVlNWbGRaelJMcVkzbEE4LURkUWdqbmFWXzRzZGxManVjSW9ZYUw0blBqVlhEb2VSa3Y0YkVmSjd1T1RhTHMtSS1ET0lWN0p1UE5fYnFGbUNDc1ZkVE45dUdtNG1Fd3QweXNWSm1rMDF6M29veVc3ZmNybzlFSzZjWkdka3hlYkZ5M05YcFhNaFlYYmVVOExMVW5fOUxmVzdBMEt3aDM0d0dGeHNsOGFVNzc4LS05eVoxV2FOQzJlUUp3YmNMaDdmeG8tUlFFSmhzVWd1WTFMWHZJeldfS3ZMV25TZ2wyU3FLanFtX0lBTklsRHF3SVhjemFrUVotb0xLNFA1YlozbVF2Vm9KenVwT21pZW55RDRKUzhMekNlWXNsV3BPS29GblJFNFpwQm9PZEhKWHVWR0gwRXQ2THZ1anB2UmFsTDI2clhxNjRnUF9KYzI4aWR4Y0p1LTgxVXEweDRkWThIUEg1NFd6TUwwckZ2UlVfWVJ2S3BhVGE1a2toUHJvUUQ1YVZ2RjE5d1I4NnpSeGJRSFFjTXNPbWdBYlRCSjd0cnhBZEE?oc=5"
-    },
-    {
-      "title": "AI 攻進加密安全腹地！中國開源模型成比特幣社群「救火隊」 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHhwMkZMdFI1QXR3TzJCdmpfbzhzQVpwSlZDM3l5S1RzbUQyMXliajdZdFVqN0dpNXdBLW9fYUZBLTl1UllYN0xjclRNOVhLME5mSjltVWpuNlEwNUJNTHYwMDNPOWtlSy1EV0hHckRjZmU2b3NVaGlIQTB4X1hmZmdGeXVuRnNkWnpxcXo5bm56UUVCY19jT0k3YmdXcnp2cFBsd2RDTmdmREU?oc=5"
-    },
-    {
-      "title": "分析：比特幣現貨流動性疲弱與 ETF 流出抑制市場，但資金外流趨緩初現企穩信號 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYa3lYdWtxRlYweTB1cnRFN2pyNXhWZnVmZDEyLTd3MF9BOHpKY2VSUkpkZ0s5bjBhNTg0QXdHRGhJeGtMVUdnNkZmcw?oc=5"
-    },
-    {
-      "title": "美伊戰火、AI利多正面交鋒！美股4大指數多空激戰漲跌拉鋸 台積電ADR逆勢噴紅0.74％ - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxQajh2MWwzRUZiWjVhTWZ6VUFiZ0xsUTRCVkVQZ0NNVWJhbFVZa1FpSEdjRUhSWldlTzZwMThWaGlTZjFkb21xNVZwMnl0SzctaFFsTm9XTHBKeFpmMkcxMVV3TUM4elVwNE1GNTEtT2Z2NmhmbzRtd0UtZVV0UWpyd3dxZ2NWSWxTZ0xmT2tMQVVRU3A5WDZvOXFtaUdVcGpjcnNDX0pQd243cWtIOVBiN1Z4NTgtSzFTdmdQcHFUSG1TUlhybmlKN2xRN1RtVHB1cVBZUThkU3lYbUhzMlZZTzBrQmV3alhxdzdyNTZ3SG5yeW83Wi1GOElfTDJuVUtpNzlFMjZBcE5KRjF1TnVVNFlSNlQwTzlPdnlSTGFGMXdEQnBjbnBNOFRPTTdfelhldG1TdG9vczA3UnBQZjVQR245clBlVGRObFEycjFqckdCdkpJeU4xVk4ydDlkdnNtbEJwVVpZOHBWV0hUaDJyZ085eHVSTm5qeW5hNHdPazJkZGZxdlVuRmZvZzBjN3JvRXhabjNKWTBuVE1LNk9IYVV5RDA0SFRJbU1Md0duYVd6WTRPcmJON2NvejRPVjZ4eUZ3bFFDVHR4SlhoR05ObFNGcG0?oc=5"
-    },
-    {
-      "title": "【美股盤前0817】零售銷售意外下滑0.6%！美股四大指數全面收黑，本週緊盯Fed 會議紀要｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxPWFVmUzFxVkt5WVVtelFJdXJzN3BzWlNqMWJrdUpjNTlvNlpRMDAyN1FINU1VUFFaSFlqWlYxdjlhSXJ4NEFqUjhyN0hla3k3R2NIbDFGUDN6bUZWNjBDWFg4Ylpya3VBTTFPQ3hhVER5b1VBempNVW40amd5bzZPTktPWE5mYlBfTUlaY2pvSldJM01IX0tNZUVCSXVhR0o0TExPV1NpT3ZSeXE1MGRRNTdsQTJYSV9aYkZ0dDBUTDRzc0FtdG1wYUpOUVFPRnNHRmdtekdrVmJYTlVxZ0Jua2d2bHZYTFR0UVFESlBtMk1SeW56VEd2bk56MWpHcEZaQ0ItQS1JMjJTS1NMX0xaQkRLS1FJbHBBLWdQYjB0N2J6MHZiMmZGeDVPbEVkYW1NbW4tSDgwU2l1VTdWSGhPbzlMLWc2MTJOZ2dlbkxPelZzTWdLTzgxRGM1Mzltai1zbUlrVkZjRXdLTmNOcEc1d0ZhRkI5M1NuQjdmZlJVNDktVjJUbnNlTlNNY3RmQjBZMEVYM2JCNDlRNWtoMUtKOGZHTWhPeTZyTzN2Q2RGTzRqY2V5RVU1SVozYVFEamZwSHY0YUo1SmtIYmRyR2dvcHRxXzBHSkZPSHJSeV9YM1N3UTRQZmpQMktXWlVsbnp4cXRQSTRwdGdHMnlyRHE1c19DdmU?oc=5"
-    },
-    {
-      "title": "高盛斷言 Fed 下月「不可能升息」，比特幣有望迎利多、打破橫盤僵局？ - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnhsNlJfMENpelN1dlpjSzdhZmtJaHBNMWNLNFI2NGpDcG0wVFljOWJwX2Jna0p6OVYzNk9aUlJhQ0ZaV2VCalgwMnR4dUNEaWhqRS0tQndrVEFhQ0o3WEhudnFucGtsVjNtMUhzVUxiY3RVaEFJcGZ3ZzZQalRJWVk1STZaTmNmb0l1eHNyMldPZUpxN0g1bmM5bHljaU5YdHo2QWZ5MldYb3ZYZ0tReC1vbw?oc=5"
-    }
-  ]
+  "news": []
 }
