@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/18 04:53",
+  "updated_tw": "08/18 05:24",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64330.2,
-      "change": 1511.5477,
-      "changePercent": 2.4062
+      "price": 64297.21,
+      "change": 1478.5577,
+      "changePercent": 2.3537
     },
     "ETH": {
-      "price": 1904.38,
-      "change": 30.437,
-      "changePercent": 1.6242
+      "price": 1905.04,
+      "change": 31.097,
+      "changePercent": 1.6594
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.854,
-      "change": -0.1362,
-      "changePercent": -0.4258
+      "price": 31.852,
+      "change": -0.1382,
+      "changePercent": -0.432
     },
     "JPYTWD": {
-      "price": 0.1975,
-      "change": -0.0034,
-      "changePercent": -1.6987
+      "price": 0.1976,
+      "change": -0.0033,
+      "changePercent": -1.649
     },
     "EURTWD": {
-      "price": 36.924,
-      "change": -0.1008,
-      "changePercent": -0.2724
+      "price": 36.925,
+      "change": -0.0998,
+      "changePercent": -0.2697
     },
     "CNYTWD": {
-      "price": 4.7328,
+      "price": 4.7322,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4471.7,
-    "twd": 4580.0,
-    "tael": 171735.0,
-    "twdTotal": 142442.0,
-    "changePercent": 2.0843
+    "usd": 4473.1,
+    "twd": 4581.0,
+    "tael": 171778.0,
+    "twdTotal": 142477.0,
+    "changePercent": 2.1162
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,19 +117,19 @@
   },
   "news": [
     {
-      "title": "快訊／美股開盤兩樣情！那指費半雙雙走揚 台指期夜盤漲破46K - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPVlRvLURCTnhmTzNMcnFWLUYyTHFBY3lvX1R6d2h0MGVnRWt0bUNTT3VwV1FGeU5ILTFBalNCaEVHcEVlN1hlRG9GTDU5RnZTb1IwT3N0eXZ3SFF1Ylh6SjBuMGJkN0h5cG1BMVB6YnM5SVhGVXFqVzVNZHZmN3pKUFdjaUpRam0tUFpfaThkUUx4c01mVnBLQWFKdlYtVUdHOWdYZkJHYTEzRE5yT21vR3lHYnYydmQ4TExmRlhrQk8wb0p6MmMzTG1sWVlaYkl5UDRMS0xvRzBmTHFwWHNkQ1dsOC0tRm41WkYzN2ZKeGVVWWFxd056WTltVTVaenN4UlIxdUEtZGdNLXRsYXdiQkRvNnBrNUNMbzdNTlNGYlpNUTE3VHJMSEtoVXlDZFR5b2JBeW44dTF2amEzZ0Q1TG1zY1N4RzhhMVFuTVZxd1Z1M0JicU44UEdLTFAzOFpKNXd3dC1pODg3UlRXYXk3ZHdQU1ZwWGtBTENF?oc=5"
-    },
-    {
       "title": "〈美股早盤〉美伊緊張局勢壓抑風險偏好 主要指數漲跌互現 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xTFZDc2c1eF9HVVYyTVFsTmswRndSUzk2MGFlVnhHREdGNmlkQzhQbWpyVXdraEx3SDRrNXd5U2VxbkFRMndEVGM4Mko1QWM?oc=5"
+    },
+    {
+      "title": "快訊／美股開盤兩樣情！那指費半雙雙走揚 台指期夜盤漲破46K - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPVlRvLURCTnhmTzNMcnFWLUYyTHFBY3lvX1R6d2h0MGVnRWt0bUNTT3VwV1FGeU5ILTFBalNCaEVHcEVlN1hlRG9GTDU5RnZTb1IwT3N0eXZ3SFF1Ylh6SjBuMGJkN0h5cG1BMVB6YnM5SVhGVXFqVzVNZHZmN3pKUFdjaUpRam0tUFpfaThkUUx4c01mVnBLQWFKdlYtVUdHOWdYZkJHYTEzRE5yT21vR3lHYnYydmQ4TExmRlhrQk8wb0p6MmMzTG1sWVlaYkl5UDRMS0xvRzBmTHFwWHNkQ1dsOC0tRm41WkYzN2ZKeGVVWWFxd056WTltVTVaenN4UlIxdUEtZGdNLXRsYXdiQkRvNnBrNUNMbzdNTlNGYlpNUTE3VHJMSEtoVXlDZFR5b2JBeW44dTF2amEzZ0Q1TG1zY1N4RzhhMVFuTVZxd1Z1M0JicU44UEdLTFAzOFpKNXd3dC1pODg3UlRXYXk3ZHdQU1ZwWGtBTENF?oc=5"
     },
     {
       "title": "光進銅退是什麼？光通訊怎麼投資？台美股、ETF 都能參與｜美股產業｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQZjZjcE55RlRGa3pqVlNWbGRaelJMcVkzbEE4LURkUWdqbmFWXzRzZGxManVjSW9ZYUw0blBqVlhEb2VSa3Y0YkVmSjd1T1RhTHMtSS1ET0lWN0p1UE5fYnFGbUNDc1ZkVE45dUdtNG1Fd3QweXNWSm1rMDF6M29veVc3ZmNybzlFSzZjWkdka3hlYkZ5M05YcFhNaFlYYmVVOExMVW5fOUxmVzdBMEt3aDM0d0dGeHNsOGFVNzc4LS05eVoxV2FOQzJlUUp3YmNMaDdmeG8tUlFFSmhzVWd1WTFMWHZJeldfS3ZMV25TZ2wyU3FLanFtX0lBTklsRHF3SVhjemFrUVotb0xLNFA1YlozbVF2Vm9KenVwT21pZW55RDRKUzhMekNlWXNsV3BPS29GblJFNFpwQm9PZEhKWHVWR0gwRXQ2THZ1anB2UmFsTDI2clhxNjRnUF9KYzI4aWR4Y0p1LTgxVXEweDRkWThIUEg1NFd6TUwwckZ2UlVfWVJ2S3BhVGE1a2toUHJvUUQ1YVZ2RjE5d1I4NnpSeGJRSFFjTXNPbWdBYlRCSjd0cnhBZEE?oc=5"
     },
     {
-      "title": "AI 攻進加密安全腹地！中國開源模型成比特幣社群「救火隊」 - blockcast.it",
+      "title": "AI 攻進加密安全腹地！中國開源模型成比特幣社群「救火隊」 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHhwMkZMdFI1QXR3TzJCdmpfbzhzQVpwSlZDM3l5S1RzbUQyMXliajdZdFVqN0dpNXdBLW9fYUZBLTl1UllYN0xjclRNOVhLME5mSjltVWpuNlEwNUJNTHYwMDNPOWtlSy1EV0hHckRjZmU2b3NVaGlIQTB4X1hmZmdGeXVuRnNkWnpxcXo5bm56UUVCY19jT0k3YmdXcnp2cFBsd2RDTmdmREU?oc=5"
     },
     {
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hcXpKeGFfOGg2bkNYZTNVYzhwamgzdWkxOUhUNUNzbHlYUE9UZW9ndEtGOGdNbElFZ2V3Rmg2RjZTbWxUamJJSUF6Mm5XR1U?oc=5"
     },
     {
-      "title": "Reddit 正式納入 S&P 500！AVB 遭剔除｜美股觀察｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPUl9mSEFBOU9TZWVnbUdzYjF4bmktX2JGdm4weFZHN0RPZXFKT25ERFZoLXFDb0VOVGRxVXR4ZXFIeHU0M1pJTEFUX3FBdk5xdVdWNWVlbnVHVGkyMkx5WnVUTUlKVTE4c0g1bFdPcUVyWWFLejI4cnk3UlRjNnotcTdpQWRLcjQ3Zm4xSnFFbkx5emp2R2cwQlhzQ2wtYUpiYXhsS1hCWDVJampkQUNxdEY3TjlKWC00Vklidk5MUGcxaVMwZV91T2ZrVTFqSHNxUjhFZ3JxSmlZTFhfNllJc2hSVklhUWJHQndpZEtuM1R0cTFzc1pocjgyeEl2clZYa2pFNkRhZmxuT3dqZlNfZWZfcmQ5V1BBZGhmVA?oc=5"
+      "title": "【0817台股盤後】台股微揚46 點收45,857 點站穩短均！法人動向多空交戰投信加權賣超177 億，關注「營收亮眼法人買」標的萬潤、聯鈞、致茂｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxPVmlqb1BRUHpJbVFhNk51dHBUR19HTmI2NWxXa21oZFIzcUI5QXBSRlRYN1c4dExGb284ME1zMWVUX2tjYjZsTDlqMGpKUjdZRTJCeWIzQTc1TFpmaUlqajJJOEs2QjE5TU01aHJlQTZKOE9yckxIRnZ0aEtnYzcxN2xnNHhwZlJSOWt3dFJqYlBCWFY0Y294S0JvTS05aXNPM1ZWSEdIZkgxUjMxTmFEbGRCUVlzUDhEMTZ4bnZhLXE1MGQ0V0RDM3BlRWtNaTJoejVYZ2tDVFo5SzRELUZDRkxiXzlCVU5RWHpaTXVwdUt4MFJOSkRnY3NIM1Ruc1JXVnpWa0VZN0xyQk80WFVHTFJfbDZ3ZWV5WmsxSHBuMnpzdjkwTWh6M2poYlVCVlNRYURTLTVUUTFhc0Z3WEx5ZnBYaUItZS0yNXZWaUVubzg0dFFucHN1NWcxQ25VWjhJNHJxNFNvTlMwTWtJRXJYSWlDSGxfOTZ6QS1DSXRNamcxdE0tTDJrdE9VU0dzR1FqM2RpbzVFV1pLREk5WEphQnZjR1NXdkNOaDM3RDNSdVRiX1BhQmU5VU9nS21JQUEzbFZhMU5zTDhYZWswNTBnTWJqMWc4VnA1Z0hWcjYwN3VxVk1RclhOQm93bnAxSEwzcXNyM2xGN21kRkhpNTVOWUJ3M2laYjNxeE8tM2JxalpIV1lXSGtQbWRBWm5kZmEtaHRhMUNyam1IcTVna2EwMER1ZjNhRTdhOVQ5enhlRElYb1hrQUpjeHA4RjNOWVc5RmhpX1BaMmNfWGFEdWVsdG1WOHNSbzl6VWhzelBWNlNsb2FKYTJma0Zrb0hneXQtWXYzZ3NDUFVLaEI1LUxNc1RPeW5NdkMzUXRqcWkwR1hrdUR2eVU4VllyblZ0MVRzeDhvekwybHk1NEZNVWkybVB1QTVrSjJQOEtKZkdrcUczbC1BRV9HYkk4bTU?oc=5"
     }
   ]
 }
