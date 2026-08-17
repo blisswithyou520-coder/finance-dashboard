@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 18:30",
+  "updated_tw": "08/17 19:01",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63402.44,
-      "change": 583.7877,
-      "changePercent": 0.9293
+      "price": 63597.64,
+      "change": 778.9877,
+      "changePercent": 1.2401
     },
     "ETH": {
-      "price": 1897.29,
-      "change": 23.347,
-      "changePercent": 1.2459
+      "price": 1904.55,
+      "change": 30.607,
+      "changePercent": 1.6333
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.8,
-      "change": -0.3241,
-      "changePercent": -1.0089
+      "price": 31.805,
+      "change": -0.3191,
+      "changePercent": -0.9933
     },
     "JPYTWD": {
-      "price": 0.1977,
-      "change": -0.0038,
-      "changePercent": -1.8693
+      "price": 0.1976,
+      "change": -0.0039,
+      "changePercent": -1.9189
     },
     "EURTWD": {
-      "price": 36.932,
-      "change": -0.1901,
-      "changePercent": -0.5121
+      "price": 36.911,
+      "change": -0.1393,
+      "changePercent": -0.376
     },
     "CNYTWD": {
-      "price": 4.7273,
+      "price": 4.7254,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4453.6,
-    "twd": 4553.0,
-    "tael": 170750.0,
-    "twdTotal": 141624.0,
-    "changePercent": 1.6711
+    "usd": 4455.0,
+    "twd": 4555.0,
+    "tael": 170831.0,
+    "twdTotal": 141691.0,
+    "changePercent": 1.703
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,8 @@
   },
   "news": [
     {
-      "title": "黃金衝破4400美元！貴金屬ETF近半月暴衝 勝過科技股 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZRXIwbHJrcVNKeEN4T3VlOTJtN3BtazU3V1RSdnppOXpoY21kcV8tb3QtWFdjclBCOGFXZjNlZVdDaUJuM0xfVXpqNA?oc=5"
-    },
-    {
-      "title": "美股估值訊號亮紅燈 投資人宜為熊市備戰 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaHVDSlVKOWN2a2tCcHVtYjVrekVHY3k4OWN5VUs2Z1FsNzRycWFFQUxxRHVOQTZxbEh6RmhxREc5andnRUJZOGdEcXd0NkJDX2w4Rl8ySnlLcmE4SW4xNjluaFJ0ZUZUbGdQV2dMVUk1X1dqWFJtZVNUOHg5U3pWelhPSlRQVWQ5OU9jY1NhTVdoWWF6SmtFMW84VFlZdzNta3FuX0xtdWw2V2FiWmVGZm8xUUJLWEYtVUhmX1BQcnBTamtiN1l5MmZiOVhIbVoxb1FuclY5TjZJWUxLSHowMXk3QV93YS1XWDBPX3J4aEJ4YW5BeXdiS2dIVlhGaERPMGc5RmJxbjhuaVRpUUp2Zktzb2ZnRk9KRElMUEhoWWhrbDNJSFpzNEVzVFpVeV8ydmhpUw?oc=5"
+      "title": "外資大買454億 台股只漲46點 網炸鍋：大哥看到了什麼？ - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQVk5CSWZzUllTb3AtbnhFWmtIZUZEUk84OU9FbnNFWkgxTFdOYnJaOGZIUkhEVFNLWVBYZ21zWnljSnhpNVJFRF9USGpxbzgtX1JuTDZuMC1Mak1RQUxjZWxuYlVkVXRfWldMTWxyYnlRdFBfcDJ2M2tIeFhOQmZqTDNEUVBocWxCY3FtZDRySXFlWWZnUXZFaWk0U3Z5bUNWYl8yVkJWTm0yQWVkUjB0T3phTzR3MVhzQXYwd1N3cGJQQTA2OEFPTTRmaTh5RzIzNl8xQzBqaU82eXpkQ081YWRPU282RDRmeWN0aWo2RmFTVm5IaDIxVG1jc1R1b2cyenVGdFV2ZjNFdEtRbW0xWHh0UkxjMjBQclVNT1RFVnhGZEYzNlRvdDJTUXI2alVrQWpOQUZnYmlBOV9kalhvbTQzLUpORkMtYmNPdGVCd2NjRExsOGc?oc=5"
     },
     {
       "title": "光進銅退是什麼？光通訊怎麼投資？台美股、ETF 都能參與｜美股產業｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
@@ -141,12 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnhsNlJfMENpelN1dlpjSzdhZmtJaHBNMWNLNFI2NGpDcG0wVFljOWJwX2Jna0p6OVYzNk9aUlJhQ0ZaV2VCalgwMnR4dUNEaWhqRS0tQndrVEFhQ0o3WEhudnFucGtsVjNtMUhzVUxiY3RVaEFJcGZ3ZzZQalRJWVk1STZaTmNmb0l1eHNyMldPZUpxN0g1bmM5bHljaU5YdHo2QWZ5MldYb3ZYZ0tReC1vbw?oc=5"
     },
     {
-      "title": "台積電漲5元至2400　台股收漲46點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LWVNlVkFQTHgxbk82ZWtnbjR1aS1WS3hiZWtCOHdZUW8taGFGVUtEaTlvRDVCSXVDb21yd3BjdVZ2Nm5jOFNoSFpsSXE0Szd2cWfSAVBBVV95cUxQUUY4aE5kcUtLSGZhaXJXRmFRTk4wRWo4cFBaSDFvWEtwUFpQbWNaQVREYkJuR3VJbTlFQkNfUWN0RTRnQjZNSVZ4YUdOQjJXZg?oc=5"
+      "title": "美股估值訊號亮紅燈 投資人宜為熊市備戰 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaHVDSlVKOWN2a2tCcHVtYjVrekVHY3k4OWN5VUs2Z1FsNzRycWFFQUxxRHVOQTZxbEh6RmhxREc5andnRUJZOGdEcXd0NkJDX2w4Rl8ySnlLcmE4SW4xNjluaFJ0ZUZUbGdQV2dMVUk1X1dqWFJtZVNUOHg5U3pWelhPSlRQVWQ5OU9jY1NhTVdoWWF6SmtFMW84VFlZdzNta3FuX0xtdWw2V2FiWmVGZm8xUUJLWEYtVUhmX1BQcnBTamtiN1l5MmZiOVhIbVoxb1FuclY5TjZJWUxLSHowMXk3QV93YS1XWDBPX3J4aEJ4YW5BeXdiS2dIVlhGaERPMGc5RmJxbjhuaVRpUUp2Zktzb2ZnRk9KRElMUEhoWWhrbDNJSFpzNEVzVFpVeV8ydmhpUw?oc=5"
     },
     {
-      "title": "台股擂台／「低調黑馬」陳奇琛：缺乏國際股市帶動與新利多催化 量能未見有效放大 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IZXgwNkdjSXBJRjE5VmZwUEFPWThUSTN6QmlRVGx5cnB3M21Fbkd4UTRsLWNvYTkwZGlaQklNVHkxbmQ5OTJZRUU2dTVJcERkSjg3MzJCOFJrdFFE?oc=5"
+      "title": "【美股盤前0817】零售銷售意外重摔0.6%！美股四大指數全面收黑，本週緊盯Fed 會議紀要｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxOTlg2bXhPRkJqODlFNGhtVkN0UzJUcFp1WWRZTUd3QlM2QVJ6Ni1WOHlDQ2xYVUduN1hXNFlQUmhsVzc2ZGs2QTFTRXBMRVRnbktENTRlTjF5VURKOEpvWDRlR2xCOWVWejlHclZvNVhxQUZ0NW5DQ2VpVGsyNDM2T1c4ZFlxdmtOUnJZLXczSGlNQjl2dHoyR2VVQmQxRjFhOG9Pajc3c2NjQ1drRUVIQ25UTUZpUE4zY3NRYjZ0OURpTV9Yakh4ZkdiOEtwMkVsa0ROVU9hRl94UE1GUlNjQnhXSzBhRkFSeWhFcUdPUUU1bkE1MkNFRW10RTlEMWdBczhBbVRVYTFmbElFSmJjS0V6bmZFcjJxZzZBTzIzd1UwSkZreHdoVnNNTmtxdjcwTHFJWGF5eHRLekZyWExETjYwdVlvUEdMb3ZOMGRGTHRXdkI1S1hXYmk4dmR2cmR6bW5fY3ZNN3RYRTdmUnRaVmtnYmY3TWw5akVobEhfMTZTSnZrNklRdkVZdDNiR01jTU9RZHZNVkFjUVNkSkkwS0VybmoycnozOXNjUUF4RWpYNzVDMC1YbGpkZTlTQVRPeEFvMklnRUNQT2FzYlNRQlVLVU5lOFJQVU55djlQM28yT3RLX2t3SFlwbWRRMFRtQWE5UTRnTGk3RUVVY0VaQm9Bbm4?oc=5"
+    },
+    {
+      "title": "光電、航運強勢 台股上漲46.26點收45857.27點 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0V09CbXlYV0I3QTg3YS1qQ0s0XzNyekdDZWdod3l5d1dDalBxUmNPYVVjNlJxdGxQazg2eU9kTXNaUzBIVHdGZVZHeEhZQTVJanJkQ29EYkhnbVRVOXc?oc=5"
     }
   ]
 }
