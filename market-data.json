@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 09:48",
+  "updated_tw": "08/17 10:58",
   "taiwan": {
     "2330": {
-      "price": 2395.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 2405.0,
+      "change": 10.0,
+      "changePercent": 0.4175
     },
     "2454": {
-      "price": 4070.0,
-      "change": -140.0,
-      "changePercent": -3.3254
+      "price": 4095.0,
+      "change": -115.0,
+      "changePercent": -2.7316
     },
     "2317": {
-      "price": 258.5,
-      "change": -1.0,
-      "changePercent": -0.3854
+      "price": 257.5,
+      "change": -2.0,
+      "changePercent": -0.7707
     },
     "0050": {
-      "price": 106.45,
-      "change": 0.05,
-      "changePercent": 0.047
+      "price": 106.7,
+      "change": 0.3,
+      "changePercent": 0.282
     },
     "00878": {
-      "price": 33.79,
-      "change": -0.08,
-      "changePercent": -0.2362
+      "price": 33.61,
+      "change": -0.26,
+      "changePercent": -0.7676
     },
     "00919": {
-      "price": 30.44,
-      "change": -0.13,
-      "changePercent": -0.4253
+      "price": 30.23,
+      "change": -0.34,
+      "changePercent": -1.1122
     }
   },
   "us": {
@@ -72,48 +72,81 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63119.98,
-      "change": 95.6597,
-      "changePercent": 0.1518
+      "price": 63343.49,
+      "change": 319.1697,
+      "changePercent": 0.5064
     },
     "ETH": {
-      "price": 1890.91,
-      "change": 10.0017,
-      "changePercent": 0.5317
+      "price": 1900.09,
+      "change": 19.1817,
+      "changePercent": 1.0198
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.869,
-      "change": -0.2551,
-      "changePercent": -0.7941
+      "price": 31.871,
+      "change": -0.2531,
+      "changePercent": -0.7879
     },
     "JPYTWD": {
-      "price": 0.1983,
-      "change": -0.0032,
-      "changePercent": -1.5715
+      "price": 0.1982,
+      "change": -0.0033,
+      "changePercent": -1.6211
     },
     "EURTWD": {
-      "price": 36.994,
-      "change": -0.0563,
-      "changePercent": -0.152
+      "price": 36.958,
+      "change": -0.1641,
+      "changePercent": -0.442
     },
     "CNYTWD": {
-      "price": 4.7392,
+      "price": 4.7355,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4457.1,
-    "twd": 4567.0,
-    "tael": 171255.0,
-    "twdTotal": 142043.0,
-    "changePercent": 1.751
+    "usd": 4448.7,
+    "twd": 4558.0,
+    "tael": 170943.0,
+    "twdTotal": 141785.0,
+    "changePercent": 1.5592
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "黃金再觸4400美元關口，下一階段靠什麼上漲？ - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS29yeW1ISE9KeHJSNUhDZ1ZzZ3pZU0hZaUlsMU1jOWkyYjN1YmtWdjlZbm0waXRXTW9YaXV0bFdEWU9uLW1Dbk9IdmlOLUprTllQanowTVVQNFV0SUNzckpGbFJ2alRPYzJpNHlWczk2YVRIWGVOamk0QXlpNjZPS1NGNl9NWWE5eVNheFpNZ2gxdGowQU9LMFo1NHplTkti?oc=5"
+    },
+    {
+      "title": "【台股盤前】美股消費降溫收黑！台指夜盤跌85點 台股今恐迎激烈攻防 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxQZXY3Z19fUEpXQktEdWZ1eXlxLXZCbWFlb2FKWnhjQTdiS05LMUZQd3JJT3VxYUJTTjNrV3FRNDJHYmhNeVZpblVIUzZYSnVoekN2VEx4aFhnSEJlcVBtUTVPTzhtallnX0d0c2hTcXpMREMxWUp5T1UyM21xSktPa1ozNjNHWFV3UlE3anFFUTFQakNBWVJyTjBJSWN1VFNZQzlUcTA4SEp0anl6YmZ1VHZMZ0dKck81OUozb2NYbnVCNjFRZ01Palh4dUIteUZHSnBwRndzVS1EUkp6a0xMck5LaTg5MUowTUpRbWI5WUxVSURaTC1WR0JKOVhXSWctUTQyUDNpVFhHQ0k4bHdNd05jU0RiVUNibmVCSkFpSnhyNmkyZ2VWQU13V1kxeUdkc1R2RkNsS2pDUU9vSV9EYjRERkNlRURFYnhDQ0NQMjExOWtXSk5CMk4tczJhZzFpYzBCRWI2bHdUUHI2bURyUFpLMmpTb0JPRTM4c1diMXVzd2dXdnZoQUhKS3d0NU1qT1pqXzNPaXp3SkFvQXc?oc=5"
+    },
+    {
+      "title": "8月17日 五件財經大事搶先看 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6eHBiT09mNTR4b0dsM0phWlJLRFRqS19vemZ0QjVPcUlUR1dkYmxHSXRtWHRmWXVnYkItV1d2cE9Ib2xuYnVLOEh2T2NNTTdDZ2hhbUlTWDZoQdIBX0FVX3lxTFBoVHN6d3BfcFhMQnFvem5HVVRfRElxckxzU0d4WEFNSjJJNDdxdlZUOHozR3ZnR3R5RFB0M0Y1SjZYcHdUN1IxcFhUSkxVMV95T21YQ3pLWkdCRnVmVDNN?oc=5"
+    },
+    {
+      "title": "【結算前小心！】台股狂彈6000點！下週先跌再漲？ - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80ZDVWX24xQVB2aDFLVWJPVzlPT2hBUHJyajY5MTcxd0NWc2tuYkZpZzFjYjdTckpZNEdiUkJfUmhIbEd6Mk1PRGtPbw?oc=5"
+    },
+    {
+      "title": "台積電漲15元至2410　台股漲逾330點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wX2xXMGlMY3E1Rk83My1idTN3S01sQXdpZ1FPbXVSMUNBM2hOdWdBWHh0YVNNT205OVRKY185R3ctcHNHZkxmVXlLdWNIdEZscVHSAVBBVV95cUxQbnRWeWdPSlpmTkdBczVodTh0VkdYNVVCUmlaOWRSUnpJWkJzQmkyamR1X0ZCRHdGYmNXc0I3MUFqVnJGRFdvSkxmdnJSRUM0Ug?oc=5"
+    },
+    {
+      "title": "中國官方買盤支撐黃金需求投資與消費分化- 新聞 - MoneyDJ理財網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3FzcUJUMlIzQkhpSDdIMkcxaGU1MkkyTEU3dEliaXN6U1dIcnAwOFV1ODJUaXRVT1FEbWUwUUN3b3UzMHF3bExxcmg4SDAzaXJHeEpXTHJxMFVWak00ZjJNbDBMaGktcEtuZFBROTdNTU9jdUFkS09LWUgxZWRhNjFta0tlX0xnVk11VXZncXh6Zw?oc=5"
+    },
+    {
+      "title": "【Yahoo早盤】台股漲逾350點登4萬6又消風...分析師白易弘：狹幅震盪難收高 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPRWlKNzNhYVNMNzV6RmxQQ2hkV0tkR1dUWkxYODZyUE9LTlJmZUhiX3FPRlFYek9SWlRkVkNIQzdVVUxUTF9FWXpvM3ZxaEhsTy1QaGtFUzlkY2ZaVjFJTnRuUG9wa3RhMENnR2hsTGFJc25hTjVIYVhqejJKWFRIS3pqUjRNanJwRFVFYmJqYWJSdFFKQjVpRzJ4amdLNUcxQmpnOHNaWW1Kei05cjRPMlJRTVItWWFzV0lfRVZYQ3JkVXczWDc1azJyaHE1ZVM5aEhFWmtSUGY2bEpvb2VoZ2o2QzNEdmRFM25LaEFENmlxeVNoV2hrOXF5a1lYUjhldTZ5eTFqOWhzTmdWVUZEQ2RWTmhkWmZvb0lvVE1tX1liNktGLTA0Y1lCb1FlU3E0NDNwQjYzV05QbFAweWhaSkNMLUs1bDBoMXltNWwwQ2RkSzR3U1JlOFNHcndXSm9NLWJIbEwxRUNSUE5lOEp4RzAtOUY0NVF0LXVBZDMyTlRicTZnLXhPQkduNUgzaTdoNVUzVzllYWV4M21DVkhZTXpPNTRRd0szZGpTMlZuYV8ybzNZaGJuNw?oc=5"
+    },
+    {
+      "title": "《貴金屬》美元指數下跌 COMEX黃金上漲0.4% - MoneyDJ理財網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWVR6UURvT3Fad2VTNVdjdzNxT0FNQ19YT2h4MFpTd29nSGQ5LXcwRGZpT21VVjdDcDZtNnJVWC1oWlFBMFRETURVSVhsVEh5VmsxWHNobDlTeHZRV2x0NUp3SlY2Q1ZhX3ZrZWhfU3FXMGktZF9BV3JMZEVYRW50YmlGaG5CYm9XdDhlUjAtX0pUUQ?oc=5"
+    }
+  ]
 }
