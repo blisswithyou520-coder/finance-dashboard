@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 19:59",
+  "updated_tw": "08/17 20:59",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63537.79,
-      "change": 719.1377,
-      "changePercent": 1.1448
+      "price": 63481.39,
+      "change": 662.7377,
+      "changePercent": 1.055
     },
     "ETH": {
-      "price": 1902.08,
-      "change": 28.137,
-      "changePercent": 1.5015
+      "price": 1896.86,
+      "change": 22.917,
+      "changePercent": 1.2229
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.787,
-      "change": -0.3371,
-      "changePercent": -1.0494
+      "price": 31.802,
+      "change": -0.3221,
+      "changePercent": -1.0027
     },
     "JPYTWD": {
       "price": 0.1975,
@@ -94,22 +94,22 @@
       "changePercent": -1.9686
     },
     "EURTWD": {
-      "price": 36.899,
-      "change": -0.2231,
-      "changePercent": -0.601
+      "price": 36.922,
+      "change": -0.2001,
+      "changePercent": -0.539
     },
     "CNYTWD": {
-      "price": 4.7246,
+      "price": 4.7258,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4455.0,
-    "twd": 4553.0,
-    "tael": 170734.0,
-    "twdTotal": 141611.0,
-    "changePercent": 1.703
+    "usd": 4435.0,
+    "twd": 4535.0,
+    "tael": 170048.0,
+    "twdTotal": 141042.0,
+    "changePercent": 1.2465
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,16 @@
   },
   "news": [
     {
-      "title": "美股估值訊號亮紅燈 投資人宜為熊市備戰 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaHVDSlVKOWN2a2tCcHVtYjVrekVHY3k4OWN5VUs2Z1FsNzRycWFFQUxxRHVOQTZxbEh6RmhxREc5andnRUJZOGdEcXd0NkJDX2w4Rl8ySnlLcmE4SW4xNjluaFJ0ZUZUbGdQV2dMVUk1X1dqWFJtZVNUOHg5U3pWelhPSlRQVWQ5OU9jY1NhTVdoWWF6SmtFMW84VFlZdzNta3FuX0xtdWw2V2FiWmVGZm8xUUJLWEYtVUhmX1BQcnBTamtiN1l5MmZiOVhIbVoxb1FuclY5TjZJWUxLSHowMXk3QV93YS1XWDBPX3J4aEJ4YW5BeXdiS2dIVlhGaERPMGc5RmJxbjhuaVRpUUp2Zktzb2ZnRk9KRElMUEhoWWhrbDNJSFpzNEVzVFpVeV8ydmhpUw?oc=5"
+      "title": "Strategy上週未增持比特幣，出售3.34億美元股票，美元儲備升至48億美元 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mUlBzdGFNeHJuc053cnZ2TnFtVlNObGlmZnVQeS16bENYd2xtY0VPSVdtNDQxLWQ3dXREaVZJUjhFY3M2akoxcjNVbw?oc=5"
     },
     {
-      "title": "光進銅退是什麼？光通訊怎麼投資？台美股、ETF 都能參與｜美股產業｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQZjZjcE55RlRGa3pqVlNWbGRaelJMcVkzbEE4LURkUWdqbmFWXzRzZGxManVjSW9ZYUw0blBqVlhEb2VSa3Y0YkVmSjd1T1RhTHMtSS1ET0lWN0p1UE5fYnFGbUNDc1ZkVE45dUdtNG1Fd3QweXNWSm1rMDF6M29veVc3ZmNybzlFSzZjWkdka3hlYkZ5M05YcFhNaFlYYmVVOExMVW5fOUxmVzdBMEt3aDM0d0dGeHNsOGFVNzc4LS05eVoxV2FOQzJlUUp3YmNMaDdmeG8tUlFFSmhzVWd1WTFMWHZJeldfS3ZMV25TZ2wyU3FLanFtX0lBTklsRHF3SVhjemFrUVotb0xLNFA1YlozbVF2Vm9KenVwT21pZW55RDRKUzhMekNlWXNsV3BPS29GblJFNFpwQm9PZEhKWHVWR0gwRXQ2THZ1anB2UmFsTDI2clhxNjRnUF9KYzI4aWR4Y0p1LTgxVXEweDRkWThIUEg1NFd6TUwwckZ2UlVfWVJ2S3BhVGE1a2toUHJvUUQ1YVZ2RjE5d1I4NnpSeGJRSFFjTXNPbWdBYlRCSjd0cnhBZEE?oc=5"
+      "title": "投信史上最大賣超來襲！台股靠大立光、川湖點燈救場 甩尾小漲46點收紅｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilgRBVV95cUxOWFZQY1htWTEzZms4WFF5U25PNzZEYUo0OXlrT0dVYlBDWHZDSjVrU0dic2tlS1dUa1FLcEFaZGlfVVZRTUN6bktPbTlQQUYxLTdxM1dsS0MwWGNiRExJVnNPSlBpVmJMRnFQdWtMenR1RTN1WW41dDhzZVJQZUZPeDhkR201a1RoMWpVVlpjVV9CUURmWW83Zk43TGxSTXZpZy0zRUh0a3l3ZE5UUWlwVjllQWh0R3BvaVpnTENDdFU5bWpDSFZoR0FPVnVYaExqbHcwdExRZlBhMzJTWEY3QUVWd1l0aG4zYlJleU9FSUp1QUJRcGFyWGJqTk5iNzVtV0tQTlRkcHAwaTBDYnk1WVhGWmd0NGRZLTBpX2ZHZEVJNFJfZFktT3hiZWN6WDlZeU42SWdYU3VTOGN1M19VNHJkODBlQ1M3elBzU3A0WHlObWR1WVE4Q0pqZ3V2ejkwN0VwWUxSVUJzS3NaMXNjdlRRemtkWjJ3OVM3bHd0NFBiU09QRXlUWDBrcjlVVVBLM05mNmZJUHFuQ09WT3pTR0xtYXdWNlN6bDZZVUtDUk5XRFlsVHNLOHo4QUd1dGFfellYY1dHcVVacnlLTXdXbWJRQWNfSmJmOW1sVlZJbVd5RmFFOUV6U2xMd05Jb0xzdk5pbUhtLXFXaTM1OXgzeGZYN1Q5cHNHYXVsQjZCdWlQb1lXMkE?oc=5"
+    },
+    {
+      "title": "Reddit 正式納入 S&P 500！AVB 遭剔除｜美股觀察｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPUl9mSEFBOU9TZWVnbUdzYjF4bmktX2JGdm4weFZHN0RPZXFKT25ERFZoLXFDb0VOVGRxVXR4ZXFIeHU0M1pJTEFUX3FBdk5xdVdWNWVlbnVHVGkyMkx5WnVUTUlKVTE4c0g1bFdPcUVyWWFLejI4cnk3UlRjNnotcTdpQWRLcjQ3Zm4xSnFFbkx5emp2R2cwQlhzQ2wtYUpiYXhsS1hCWDVJampkQUNxdEY3TjlKWC00Vklidk5MUGcxaVMwZV91T2ZrVTFqSHNxUjhFZ3JxSmlZTFhfNllJc2hSVklhUWJHQndpZEtuM1R0cTFzc1pocjgyeEl2clZYa2pFNkRhZmxuT3dqZlNfZWZfcmQ5V1BBZGhmVA?oc=5"
     },
     {
       "title": "黃金再觸4400美元關口，下一階段靠什麼上漲？ - capitalfutures.com.tw",
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnhsNlJfMENpelN1dlpjSzdhZmtJaHBNMWNLNFI2NGpDcG0wVFljOWJwX2Jna0p6OVYzNk9aUlJhQ0ZaV2VCalgwMnR4dUNEaWhqRS0tQndrVEFhQ0o3WEhudnFucGtsVjNtMUhzVUxiY3RVaEFJcGZ3ZzZQalRJWVk1STZaTmNmb0l1eHNyMldPZUpxN0g1bmM5bHljaU5YdHo2QWZ5MldYb3ZYZ0tReC1vbw?oc=5"
     },
     {
-      "title": "黃金衝破4400美元！貴金屬ETF近半月暴衝 勝過科技股 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iYnc0YVhfQ2dpUmJvYjZmd1BnS21DNUd1ZW44THVnbzF2UHd3VUtFQVV1WHl3N09heE1UcmxuTjU2SUtqUDljSkt1XzcwQXc?oc=5"
-    },
-    {
       "title": "台積電上漲5元 台股震盪424點收45857點小漲46點 - cna.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pejN3UlN3MzQwMDdaZTRDYWUzMnZJRTcyOHNac0M5cGs1YWU5VHpiT1VzTjNMdHY2RUNuQ2dfQmFic1BOaEYxUjJ1TzZrakpyZGp1NUJ4WUxZRjNReXc?oc=5"
     },
     {
-      "title": "投信史上最大賣超來襲！台股靠大立光、川湖點燈救場 甩尾小漲46點收紅｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilgRBVV95cUxOWFZQY1htWTEzZms4WFF5U25PNzZEYUo0OXlrT0dVYlBDWHZDSjVrU0dic2tlS1dUa1FLcEFaZGlfVVZRTUN6bktPbTlQQUYxLTdxM1dsS0MwWGNiRExJVnNPSlBpVmJMRnFQdWtMenR1RTN1WW41dDhzZVJQZUZPeDhkR201a1RoMWpVVlpjVV9CUURmWW83Zk43TGxSTXZpZy0zRUh0a3l3ZE5UUWlwVjllQWh0R3BvaVpnTENDdFU5bWpDSFZoR0FPVnVYaExqbHcwdExRZlBhMzJTWEY3QUVWd1l0aG4zYlJleU9FSUp1QUJRcGFyWGJqTk5iNzVtV0tQTlRkcHAwaTBDYnk1WVhGWmd0NGRZLTBpX2ZHZEVJNFJfZFktT3hiZWN6WDlZeU42SWdYU3VTOGN1M19VNHJkODBlQ1M3elBzU3A0WHlObWR1WVE4Q0pqZ3V2ejkwN0VwWUxSVUJzS3NaMXNjdlRRemtkWjJ3OVM3bHd0NFBiU09QRXlUWDBrcjlVVVBLM05mNmZJUHFuQ09WT3pTR0xtYXdWNlN6bDZZVUtDUk5XRFlsVHNLOHo4QUd1dGFfellYY1dHcVVacnlLTXdXbWJRQWNfSmJmOW1sVlZJbVd5RmFFOUV6U2xMd05Jb0xzdk5pbUhtLXFXaTM1OXgzeGZYN1Q5cHNHYXVsQjZCdWlQb1lXMkE?oc=5"
+      "title": "比特幣熊市後期信號浮現：波動率與流動性壓縮至多年低位，宏觀環境已率先轉暖 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MSVR3Y2VsN2VhVm5mbUxpbmwtZENVNVVxZVU0Z05ZYlJCaldaQmVackwyRGxFR0Q2cVR2NUZEeWFTV0FkeGdFSnltcw?oc=5"
     },
     {
-      "title": "【美股盤前0817】零售銷售意外下滑0.6%！美股四大指數全面收黑，本週緊盯Fed 會議紀要｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxPWFVmUzFxVkt5WVVtelFJdXJzN3BzWlNqMWJrdUpjNTlvNlpRMDAyN1FINU1VUFFaSFlqWlYxdjlhSXJ4NEFqUjhyN0hla3k3R2NIbDFGUDN6bUZWNjBDWFg4Ylpya3VBTTFPQ3hhVER5b1VBempNVW40amd5bzZPTktPWE5mYlBfTUlaY2pvSldJM01IX0tNZUVCSXVhR0o0TExPV1NpT3ZSeXE1MGRRNTdsQTJYSV9aYkZ0dDBUTDRzc0FtdG1wYUpOUVFPRnNHRmdtekdrVmJYTlVxZ0Jua2d2bHZYTFR0UVFESlBtMk1SeW56VEd2bk56MWpHcEZaQ0ItQS1JMjJTS1NMX0xaQkRLS1FJbHBBLWdQYjB0N2J6MHZiMmZGeDVPbEVkYW1NbW4tSDgwU2l1VTdWSGhPbzlMLWc2MTJOZ2dlbkxPelZzTWdLTzgxRGM1Mzltai1zbUlrVkZjRXdLTmNOcEc1d0ZhRkI5M1NuQjdmZlJVNDktVjJUbnNlTlNNY3RmQjBZMEVYM2JCNDlRNWtoMUtKOGZHTWhPeTZyTzN2Q2RGTzRqY2V5RVU1SVozYVFEamZwSHY0YUo1SmtIYmRyR2dvcHRxXzBHSkZPSHJSeV9YM1N3UTRQZmpQMktXWlVsbnp4cXRQSTRwdGdHMnlyRHE1c19DdmU?oc=5"
+      "title": "美股估值訊號亮紅燈 投資人宜為熊市備戰 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaHVDSlVKOWN2a2tCcHVtYjVrekVHY3k4OWN5VUs2Z1FsNzRycWFFQUxxRHVOQTZxbEh6RmhxREc5andnRUJZOGdEcXd0NkJDX2w4Rl8ySnlLcmE4SW4xNjluaFJ0ZUZUbGdQV2dMVUk1X1dqWFJtZVNUOHg5U3pWelhPSlRQVWQ5OU9jY1NhTVdoWWF6SmtFMW84VFlZdzNta3FuX0xtdWw2V2FiWmVGZm8xUUJLWEYtVUhmX1BQcnBTamtiN1l5MmZiOVhIbVoxb1FuclY5TjZJWUxLSHowMXk3QV93YS1XWDBPX3J4aEJ4YW5BeXdiS2dIVlhGaERPMGc5RmJxbjhuaVRpUUp2Zktzb2ZnRk9KRElMUEhoWWhrbDNJSFpzNEVzVFpVeV8ydmhpUw?oc=5"
     }
   ]
 }
