@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/18 02:37",
+  "updated_tw": "08/18 03:15",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -35,29 +35,29 @@
   },
   "us": {
     "NVDA": {
-      "price": 225.53,
-      "change": 0.37,
-      "changePercent": 0.1643
+      "price": 225.51,
+      "change": 0.35,
+      "changePercent": 0.1554
     },
     "AAPL": {
-      "price": 304.76,
-      "change": -1.17,
-      "changePercent": -0.3824
+      "price": 305.84,
+      "change": -0.09,
+      "changePercent": -0.0294
     },
     "TSLA": {
-      "price": 339.6,
-      "change": -2.67,
-      "changePercent": -0.7801
+      "price": 340.57,
+      "change": -1.7,
+      "changePercent": -0.4967
     },
     "QQQ": {
-      "price": 730.269,
-      "change": -0.801,
-      "changePercent": -0.1096
+      "price": 729.78,
+      "change": -1.29,
+      "changePercent": -0.1765
     },
     "SPY": {
-      "price": 773.38,
-      "change": -2.96,
-      "changePercent": -0.3813
+      "price": 773.2,
+      "change": -3.14,
+      "changePercent": -0.4045
     },
     "SCHD": {
       "price": 34.28,
@@ -65,21 +65,21 @@
       "changePercent": -0.6953
     },
     "VOO": {
-      "price": 710.91,
-      "change": -2.7,
-      "changePercent": -0.3784
+      "price": 710.711,
+      "change": -2.899,
+      "changePercent": -0.4062
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64406.11,
-      "change": 1587.4577,
-      "changePercent": 2.527
+      "price": 64277.9,
+      "change": 1459.2477,
+      "changePercent": 2.323
     },
     "ETH": {
-      "price": 1908.58,
-      "change": 34.637,
-      "changePercent": 1.8483
+      "price": 1905.18,
+      "change": 31.237,
+      "changePercent": 1.6669
     }
   },
   "fx": {
@@ -94,22 +94,22 @@
       "changePercent": -1.9686
     },
     "EURTWD": {
-      "price": 36.926,
-      "change": -0.1243,
-      "changePercent": -0.3355
+      "price": 36.924,
+      "change": -0.1263,
+      "changePercent": -0.3409
     },
     "CNYTWD": {
-      "price": 4.7326,
+      "price": 4.7341,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4465.6,
-    "twd": 4575.0,
-    "tael": 171555.0,
-    "twdTotal": 142292.0,
-    "changePercent": 1.945
+    "usd": 4459.8,
+    "twd": 4569.0,
+    "tael": 171332.0,
+    "twdTotal": 142107.0,
+    "changePercent": 1.8126
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,12 +129,12 @@
       "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQZjZjcE55RlRGa3pqVlNWbGRaelJMcVkzbEE4LURkUWdqbmFWXzRzZGxManVjSW9ZYUw0blBqVlhEb2VSa3Y0YkVmSjd1T1RhTHMtSS1ET0lWN0p1UE5fYnFGbUNDc1ZkVE45dUdtNG1Fd3QweXNWSm1rMDF6M29veVc3ZmNybzlFSzZjWkdka3hlYkZ5M05YcFhNaFlYYmVVOExMVW5fOUxmVzdBMEt3aDM0d0dGeHNsOGFVNzc4LS05eVoxV2FOQzJlUUp3YmNMaDdmeG8tUlFFSmhzVWd1WTFMWHZJeldfS3ZMV25TZ2wyU3FLanFtX0lBTklsRHF3SVhjemFrUVotb0xLNFA1YlozbVF2Vm9KenVwT21pZW55RDRKUzhMekNlWXNsV3BPS29GblJFNFpwQm9PZEhKWHVWR0gwRXQ2THZ1anB2UmFsTDI2clhxNjRnUF9KYzI4aWR4Y0p1LTgxVXEweDRkWThIUEg1NFd6TUwwckZ2UlVfWVJ2S3BhVGE1a2toUHJvUUQ1YVZ2RjE5d1I4NnpSeGJRSFFjTXNPbWdBYlRCSjd0cnhBZEE?oc=5"
     },
     {
-      "title": "美股早盤／三大指數平盤拉鋸AI樂觀情緒與中東情勢緊張相抗衡| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wYzZGNEREbmlzaUFHbTlqSEhaa2w5eWU1eGd0eFBYTWtYQ2Y4WUJFNldDYTZtOTNBQjRlaHVrTVBhUkI5SFhITGkteXdtRHVY?oc=5"
-    },
-    {
       "title": "AI 攻進加密安全腹地！中國開源模型成比特幣社群「救火隊」 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHhwMkZMdFI1QXR3TzJCdmpfbzhzQVpwSlZDM3l5S1RzbUQyMXliajdZdFVqN0dpNXdBLW9fYUZBLTl1UllYN0xjclRNOVhLME5mSjltVWpuNlEwNUJNTHYwMDNPOWtlSy1EV0hHckRjZmU2b3NVaGlIQTB4X1hmZmdGeXVuRnNkWnpxcXo5bm56UUVCY19jT0k3YmdXcnp2cFBsd2RDTmdmREU?oc=5"
+    },
+    {
+      "title": "美股早盤／三大指數平盤拉鋸AI樂觀情緒與中東情勢緊張相抗衡| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wYzZGNEREbmlzaUFHbTlqSEhaa2w5eWU1eGd0eFBYTWtYQ2Y4WUJFNldDYTZtOTNBQjRlaHVrTVBhUkI5SFhITGkteXdtRHVY?oc=5"
     },
     {
       "title": "分析：比特幣現貨流動性疲弱與 ETF 流出抑制市場，但資金外流趨緩初現企穩信號 - 鉅亨網",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaHVDSlVKOWN2a2tCcHVtYjVrekVHY3k4OWN5VUs2Z1FsNzRycWFFQUxxRHVOQTZxbEh6RmhxREc5andnRUJZOGdEcXd0NkJDX2w4Rl8ySnlLcmE4SW4xNjluaFJ0ZUZUbGdQV2dMVUk1X1dqWFJtZVNUOHg5U3pWelhPSlRQVWQ5OU9jY1NhTVdoWWF6SmtFMW84VFlZdzNta3FuX0xtdWw2V2FiWmVGZm8xUUJLWEYtVUhmX1BQcnBTamtiN1l5MmZiOVhIbVoxb1FuclY5TjZJWUxLSHowMXk3QV93YS1XWDBPX3J4aEJ4YW5BeXdiS2dIVlhGaERPMGc5RmJxbjhuaVRpUUp2Zktzb2ZnRk9KRElMUEhoWWhrbDNJSFpzNEVzVFpVeV8ydmhpUw?oc=5"
     },
     {
-      "title": "【0817台股盤後】台股微揚46 點收45,857 點站穩短均！法人動向多空交戰投信加權賣超177 億，關注「營收亮眼法人買」標的萬潤、聯鈞、致茂｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxPVmlqb1BRUHpJbVFhNk51dHBUR19HTmI2NWxXa21oZFIzcUI5QXBSRlRYN1c4dExGb284ME1zMWVUX2tjYjZsTDlqMGpKUjdZRTJCeWIzQTc1TFpmaUlqajJJOEs2QjE5TU01aHJlQTZKOE9yckxIRnZ0aEtnYzcxN2xnNHhwZlJSOWt3dFJqYlBCWFY0Y294S0JvTS05aXNPM1ZWSEdIZkgxUjMxTmFEbGRCUVlzUDhEMTZ4bnZhLXE1MGQ0V0RDM3BlRWtNaTJoejVYZ2tDVFo5SzRELUZDRkxiXzlCVU5RWHpaTXVwdUt4MFJOSkRnY3NIM1Ruc1JXVnpWa0VZN0xyQk80WFVHTFJfbDZ3ZWV5WmsxSHBuMnpzdjkwTWh6M2poYlVCVlNRYURTLTVUUTFhc0Z3WEx5ZnBYaUItZS0yNXZWaUVubzg0dFFucHN1NWcxQ25VWjhJNHJxNFNvTlMwTWtJRXJYSWlDSGxfOTZ6QS1DSXRNamcxdE0tTDJrdE9VU0dzR1FqM2RpbzVFV1pLREk5WEphQnZjR1NXdkNOaDM3RDNSdVRiX1BhQmU5VU9nS21JQUEzbFZhMU5zTDhYZWswNTBnTWJqMWc4VnA1Z0hWcjYwN3VxVk1RclhOQm93bnAxSEwzcXNyM2xGN21kRkhpNTVOWUJ3M2laYjNxeE8tM2JxalpIV1lXSGtQbWRBWm5kZmEtaHRhMUNyam1IcTVna2EwMER1ZjNhRTdhOVQ5enhlRElYb1hrQUpjeHA4RjNOWVc5RmhpX1BaMmNfWGFEdWVsdG1WOHNSbzl6VWhzelBWNlNsb2FKYTJma0Zrb0hneXQtWXYzZ3NDUFVLaEI1LUxNc1RPeW5NdkMzUXRqcWkwR1hrdUR2eVU4VllyblZ0MVRzeDhvekwybHk1NEZNVWkybVB1QTVrSjJQOEtKZkdrcUczbC1BRV9HYkk4bTU?oc=5"
+      "title": "Reddit 正式納入 S&P 500！AVB 遭剔除｜美股觀察｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPUl9mSEFBOU9TZWVnbUdzYjF4bmktX2JGdm4weFZHN0RPZXFKT25ERFZoLXFDb0VOVGRxVXR4ZXFIeHU0M1pJTEFUX3FBdk5xdVdWNWVlbnVHVGkyMkx5WnVUTUlKVTE4c0g1bFdPcUVyWWFLejI4cnk3UlRjNnotcTdpQWRLcjQ3Zm4xSnFFbkx5emp2R2cwQlhzQ2wtYUpiYXhsS1hCWDVJampkQUNxdEY3TjlKWC00Vklidk5MUGcxaVMwZV91T2ZrVTFqSHNxUjhFZ3JxSmlZTFhfNllJc2hSVklhUWJHQndpZEtuM1R0cTFzc1pocjgyeEl2clZYa2pFNkRhZmxuT3dqZlNfZWZfcmQ5V1BBZGhmVA?oc=5"
     }
   ]
 }
