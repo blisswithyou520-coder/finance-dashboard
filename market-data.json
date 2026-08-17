@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 22:25",
+  "updated_tw": "08/17 22:53",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 226.27,
-      "change": 1.11,
-      "changePercent": 0.493
+      "price": 225.71,
+      "change": 0.55,
+      "changePercent": 0.2443
     },
     "AAPL": {
-      "price": 304.785,
-      "change": -1.145,
-      "changePercent": -0.3743
+      "price": 303.735,
+      "change": -2.195,
+      "changePercent": -0.7175
     },
     "TSLA": {
-      "price": 339.201,
-      "change": -3.069,
-      "changePercent": -0.8967
+      "price": 341.1,
+      "change": -1.17,
+      "changePercent": -0.3418
     },
     "QQQ": {
-      "price": 731.985,
-      "change": 0.915,
-      "changePercent": 0.1252
+      "price": 732.72,
+      "change": 1.65,
+      "changePercent": 0.2257
     },
     "SPY": {
-      "price": 775.14,
-      "change": -1.2,
-      "changePercent": -0.1546
+      "price": 775.035,
+      "change": -1.305,
+      "changePercent": -0.1681
     },
     "SCHD": {
-      "price": 34.365,
-      "change": -0.155,
-      "changePercent": -0.449
+      "price": 34.345,
+      "change": -0.175,
+      "changePercent": -0.507
     },
     "VOO": {
-      "price": 712.5,
-      "change": -1.11,
-      "changePercent": -0.1555
+      "price": 712.39,
+      "change": -1.22,
+      "changePercent": -0.171
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63585.0,
-      "change": 766.3477,
-      "changePercent": 1.2199
+      "price": 63685.97,
+      "change": 867.3177,
+      "changePercent": 1.3807
     },
     "ETH": {
-      "price": 1898.1,
-      "change": 24.157,
-      "changePercent": 1.2891
+      "price": 1904.7,
+      "change": 30.757,
+      "changePercent": 1.6413
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.811,
-      "change": -0.3131,
-      "changePercent": -0.9747
+      "price": 31.819,
+      "change": -0.3051,
+      "changePercent": -0.9498
     },
     "JPYTWD": {
       "price": 0.1976,
@@ -94,22 +94,22 @@
       "changePercent": -1.9189
     },
     "EURTWD": {
-      "price": 36.938,
-      "change": -0.1123,
-      "changePercent": -0.3031
+      "price": 36.919,
+      "change": -0.1313,
+      "changePercent": -0.3544
     },
     "CNYTWD": {
-      "price": 4.7266,
+      "price": 4.7261,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4470.9,
-    "twd": 4573.0,
-    "tael": 171473.0,
-    "twdTotal": 142224.0,
-    "changePercent": 2.066
+    "usd": 4476.4,
+    "twd": 4579.0,
+    "tael": 171727.0,
+    "twdTotal": 142435.0,
+    "changePercent": 2.1916
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,16 @@
   },
   "news": [
     {
+      "title": "快訊／美股開盤兩樣情！那指費半雙雙走揚 台指期夜盤漲破46K - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPVlRvLURCTnhmTzNMcnFWLUYyTHFBY3lvX1R6d2h0MGVnRWt0bUNTT3VwV1FGeU5ILTFBalNCaEVHcEVlN1hlRG9GTDU5RnZTb1IwT3N0eXZ3SFF1Ylh6SjBuMGJkN0h5cG1BMVB6YnM5SVhGVXFqVzVNZHZmN3pKUFdjaUpRam0tUFpfaThkUUx4c01mVnBLQWFKdlYtVUdHOWdYZkJHYTEzRE5yT21vR3lHYnYydmQ4TExmRlhrQk8wb0p6MmMzTG1sWVlaYkl5UDRMS0xvRzBmTHFwWHNkQ1dsOC0tRm41WkYzN2ZKeGVVWWFxd056WTltVTVaenN4UlIxdUEtZGdNLXRsYXdiQkRvNnBrNUNMbzdNTlNGYlpNUTE3VHJMSEtoVXlDZFR5b2JBeW44dTF2amEzZ0Q1TG1zY1N4RzhhMVFuTVZxd1Z1M0JicU44UEdLTFAzOFpKNXd3dC1pODg3UlRXYXk3ZHdQU1ZwWGtBTENF?oc=5"
+    },
+    {
       "title": "分析：比特幣現貨流動性疲弱與 ETF 流出抑制市場，但資金外流趨緩初現企穩信號 - cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYa3lYdWtxRlYweTB1cnRFN2pyNXhWZnVmZDEyLTd3MF9BOHpKY2VSUkpkZ0s5bjBhNTg0QXdHRGhJeGtMVUdnNkZmcw?oc=5"
     },
     {
-      "title": "Reddit 正式納入 S&P 500！AVB 遭剔除｜美股觀察｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPUl9mSEFBOU9TZWVnbUdzYjF4bmktX2JGdm4weFZHN0RPZXFKT25ERFZoLXFDb0VOVGRxVXR4ZXFIeHU0M1pJTEFUX3FBdk5xdVdWNWVlbnVHVGkyMkx5WnVUTUlKVTE4c0g1bFdPcUVyWWFLejI4cnk3UlRjNnotcTdpQWRLcjQ3Zm4xSnFFbkx5emp2R2cwQlhzQ2wtYUpiYXhsS1hCWDVJampkQUNxdEY3TjlKWC00Vklidk5MUGcxaVMwZV91T2ZrVTFqSHNxUjhFZ3JxSmlZTFhfNllJc2hSVklhUWJHQndpZEtuM1R0cTFzc1pocjgyeEl2clZYa2pFNkRhZmxuT3dqZlNfZWZfcmQ5V1BBZGhmVA?oc=5"
-    },
-    {
-      "title": "投信史上最大賣超來襲！台股靠大立光、川湖點燈救場 甩尾小漲46點收紅｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilgRBVV95cUxOWFZQY1htWTEzZms4WFF5U25PNzZEYUo0OXlrT0dVYlBDWHZDSjVrU0dic2tlS1dUa1FLcEFaZGlfVVZRTUN6bktPbTlQQUYxLTdxM1dsS0MwWGNiRExJVnNPSlBpVmJMRnFQdWtMenR1RTN1WW41dDhzZVJQZUZPeDhkR201a1RoMWpVVlpjVV9CUURmWW83Zk43TGxSTXZpZy0zRUh0a3l3ZE5UUWlwVjllQWh0R3BvaVpnTENDdFU5bWpDSFZoR0FPVnVYaExqbHcwdExRZlBhMzJTWEY3QUVWd1l0aG4zYlJleU9FSUp1QUJRcGFyWGJqTk5iNzVtV0tQTlRkcHAwaTBDYnk1WVhGWmd0NGRZLTBpX2ZHZEVJNFJfZFktT3hiZWN6WDlZeU42SWdYU3VTOGN1M19VNHJkODBlQ1M3elBzU3A0WHlObWR1WVE4Q0pqZ3V2ejkwN0VwWUxSVUJzS3NaMXNjdlRRemtkWjJ3OVM3bHd0NFBiU09QRXlUWDBrcjlVVVBLM05mNmZJUHFuQ09WT3pTR0xtYXdWNlN6bDZZVUtDUk5XRFlsVHNLOHo4QUd1dGFfellYY1dHcVVacnlLTXdXbWJRQWNfSmJmOW1sVlZJbVd5RmFFOUV6U2xMd05Jb0xzdk5pbUhtLXFXaTM1OXgzeGZYN1Q5cHNHYXVsQjZCdWlQb1lXMkE?oc=5"
+      "title": "【美股盤前0817】零售銷售意外下滑0.6%！美股四大指數全面收黑，本週緊盯Fed 會議紀要｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxPWFVmUzFxVkt5WVVtelFJdXJzN3BzWlNqMWJrdUpjNTlvNlpRMDAyN1FINU1VUFFaSFlqWlYxdjlhSXJ4NEFqUjhyN0hla3k3R2NIbDFGUDN6bUZWNjBDWFg4Ylpya3VBTTFPQ3hhVER5b1VBempNVW40amd5bzZPTktPWE5mYlBfTUlaY2pvSldJM01IX0tNZUVCSXVhR0o0TExPV1NpT3ZSeXE1MGRRNTdsQTJYSV9aYkZ0dDBUTDRzc0FtdG1wYUpOUVFPRnNHRmdtekdrVmJYTlVxZ0Jua2d2bHZYTFR0UVFESlBtMk1SeW56VEd2bk56MWpHcEZaQ0ItQS1JMjJTS1NMX0xaQkRLS1FJbHBBLWdQYjB0N2J6MHZiMmZGeDVPbEVkYW1NbW4tSDgwU2l1VTdWSGhPbzlMLWc2MTJOZ2dlbkxPelZzTWdLTzgxRGM1Mzltai1zbUlrVkZjRXdLTmNOcEc1d0ZhRkI5M1NuQjdmZlJVNDktVjJUbnNlTlNNY3RmQjBZMEVYM2JCNDlRNWtoMUtKOGZHTWhPeTZyTzN2Q2RGTzRqY2V5RVU1SVozYVFEamZwSHY0YUo1SmtIYmRyR2dvcHRxXzBHSkZPSHJSeV9YM1N3UTRQZmpQMktXWlVsbnp4cXRQSTRwdGdHMnlyRHE1c19DdmU?oc=5"
     },
     {
       "title": "黃金再觸4400美元關口，下一階段靠什麼上漲？ - capitalfutures.com.tw",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MSVR3Y2VsN2VhVm5mbUxpbmwtZENVNVVxZVU0Z05ZYlJCaldaQmVackwyRGxFR0Q2cVR2NUZEeWFTV0FkeGdFSnltcw?oc=5"
     },
     {
-      "title": "台股又新增3檔「關禁閉」！「這無人機指標股」入列、處置時間皆到8月24日 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxOaVpmNkJTTDhtWFpLemc0N3BJellkTGxFSmFxcHoxT2Y3VUVaRFV0Vzh4NW1idzdsR1Z1TE1qblBKZHVkN3Y2ZjQ2a2JabW1UM2NBX0k4bHFuU3lSY0drZUw1UGZ3dWE1YkJCRjVpQUdZek5vTFh0U0tqVDhCUG1mQW9UMEU2OGNwdUUxcTMta2lKYndDeW5nMXJieHgzVm9tUG83SFJobXBtbzhPWWpCanFPQzUxdk5nVzE5QVJNc1hkR0Q5dy1QQjJDQzF4TS1PM2dmWWJmZC00azVTMmEyMzZGQTJvZmpqSHdGS01MS21yVlZ3NlNkcGN5UFFqQS1TdXByUWdfdVRJVmhjdmpGRHpjbzN5Q1Ayb0dDV1lrSmU2ZE1TX3lmN3BzYkZ0SHdnQkhnSmNtOThObk1aeGFyVzRIMS1RWm9PNU1wUjNvV0hVMlUxQzlsWDVIZF9SdFNuUm1LcTZrVlBFR1NCck93WGhxaEtia3M4N21EYzV2cDB4UFJmU3pOOVlnWkk0c0R5cGdCVzBadTdKWW5RZGc?oc=5"
+      "title": "投信史上最大賣超來襲！台股靠大立光、川湖點燈救場 甩尾小漲46點收紅｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilgRBVV95cUxOWFZQY1htWTEzZms4WFF5U25PNzZEYUo0OXlrT0dVYlBDWHZDSjVrU0dic2tlS1dUa1FLcEFaZGlfVVZRTUN6bktPbTlQQUYxLTdxM1dsS0MwWGNiRExJVnNPSlBpVmJMRnFQdWtMenR1RTN1WW41dDhzZVJQZUZPeDhkR201a1RoMWpVVlpjVV9CUURmWW83Zk43TGxSTXZpZy0zRUh0a3l3ZE5UUWlwVjllQWh0R3BvaVpnTENDdFU5bWpDSFZoR0FPVnVYaExqbHcwdExRZlBhMzJTWEY3QUVWd1l0aG4zYlJleU9FSUp1QUJRcGFyWGJqTk5iNzVtV0tQTlRkcHAwaTBDYnk1WVhGWmd0NGRZLTBpX2ZHZEVJNFJfZFktT3hiZWN6WDlZeU42SWdYU3VTOGN1M19VNHJkODBlQ1M3elBzU3A0WHlObWR1WVE4Q0pqZ3V2ejkwN0VwWUxSVUJzS3NaMXNjdlRRemtkWjJ3OVM3bHd0NFBiU09QRXlUWDBrcjlVVVBLM05mNmZJUHFuQ09WT3pTR0xtYXdWNlN6bDZZVUtDUk5XRFlsVHNLOHo4QUd1dGFfellYY1dHcVVacnlLTXdXbWJRQWNfSmJmOW1sVlZJbVd5RmFFOUV6U2xMd05Jb0xzdk5pbUhtLXFXaTM1OXgzeGZYN1Q5cHNHYXVsQjZCdWlQb1lXMkE?oc=5"
     },
     {
-      "title": "【美股盤前0817】零售銷售意外下滑0.6%！美股四大指數全面收黑，本週緊盯Fed 會議紀要｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxPWFVmUzFxVkt5WVVtelFJdXJzN3BzWlNqMWJrdUpjNTlvNlpRMDAyN1FINU1VUFFaSFlqWlYxdjlhSXJ4NEFqUjhyN0hla3k3R2NIbDFGUDN6bUZWNjBDWFg4Ylpya3VBTTFPQ3hhVER5b1VBempNVW40amd5bzZPTktPWE5mYlBfTUlaY2pvSldJM01IX0tNZUVCSXVhR0o0TExPV1NpT3ZSeXE1MGRRNTdsQTJYSV9aYkZ0dDBUTDRzc0FtdG1wYUpOUVFPRnNHRmdtekdrVmJYTlVxZ0Jua2d2bHZYTFR0UVFESlBtMk1SeW56VEd2bk56MWpHcEZaQ0ItQS1JMjJTS1NMX0xaQkRLS1FJbHBBLWdQYjB0N2J6MHZiMmZGeDVPbEVkYW1NbW4tSDgwU2l1VTdWSGhPbzlMLWc2MTJOZ2dlbkxPelZzTWdLTzgxRGM1Mzltai1zbUlrVkZjRXdLTmNOcEc1d0ZhRkI5M1NuQjdmZlJVNDktVjJUbnNlTlNNY3RmQjBZMEVYM2JCNDlRNWtoMUtKOGZHTWhPeTZyTzN2Q2RGTzRqY2V5RVU1SVozYVFEamZwSHY0YUo1SmtIYmRyR2dvcHRxXzBHSkZPSHJSeV9YM1N3UTRQZmpQMktXWlVsbnp4cXRQSTRwdGdHMnlyRHE1c19DdmU?oc=5"
+      "title": "光進銅退是什麼？光通訊怎麼投資？台美股、ETF 都能參與｜美股產業｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQZjZjcE55RlRGa3pqVlNWbGRaelJMcVkzbEE4LURkUWdqbmFWXzRzZGxManVjSW9ZYUw0blBqVlhEb2VSa3Y0YkVmSjd1T1RhTHMtSS1ET0lWN0p1UE5fYnFGbUNDc1ZkVE45dUdtNG1Fd3QweXNWSm1rMDF6M29veVc3ZmNybzlFSzZjWkdka3hlYkZ5M05YcFhNaFlYYmVVOExMVW5fOUxmVzdBMEt3aDM0d0dGeHNsOGFVNzc4LS05eVoxV2FOQzJlUUp3YmNMaDdmeG8tUlFFSmhzVWd1WTFMWHZJeldfS3ZMV25TZ2wyU3FLanFtX0lBTklsRHF3SVhjemFrUVotb0xLNFA1YlozbVF2Vm9KenVwT21pZW55RDRKUzhMekNlWXNsV3BPS29GblJFNFpwQm9PZEhKWHVWR0gwRXQ2THZ1anB2UmFsTDI2clhxNjRnUF9KYzI4aWR4Y0p1LTgxVXEweDRkWThIUEg1NFd6TUwwckZ2UlVfWVJ2S3BhVGE1a2toUHJvUUQ1YVZ2RjE5d1I4NnpSeGJRSFFjTXNPbWdBYlRCSjd0cnhBZEE?oc=5"
     }
   ]
 }
