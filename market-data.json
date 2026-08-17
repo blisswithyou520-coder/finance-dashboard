@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/18 03:50",
+  "updated_tw": "08/18 04:25",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -35,68 +35,68 @@
   },
   "us": {
     "NVDA": {
-      "price": 225.538,
-      "change": 0.378,
-      "changePercent": 0.1679
+      "price": 225.01,
+      "change": -0.15,
+      "changePercent": -0.0666
     },
     "AAPL": {
-      "price": 305.42,
-      "change": -0.51,
-      "changePercent": -0.1667
+      "price": 305.59,
+      "change": -0.34,
+      "changePercent": -0.1111
     },
     "TSLA": {
-      "price": 338.6,
-      "change": -3.67,
-      "changePercent": -1.0722
+      "price": 339.3,
+      "change": -2.97,
+      "changePercent": -0.8677
     },
     "QQQ": {
-      "price": 730.44,
-      "change": -0.63,
-      "changePercent": -0.0862
+      "price": 729.87,
+      "change": -1.2,
+      "changePercent": -0.1641
     },
     "SPY": {
-      "price": 773.145,
-      "change": -3.195,
-      "changePercent": -0.4115
+      "price": 772.67,
+      "change": -3.67,
+      "changePercent": -0.4727
     },
     "SCHD": {
-      "price": 34.3,
-      "change": -0.22,
-      "changePercent": -0.6373
+      "price": 34.29,
+      "change": -0.23,
+      "changePercent": -0.6663
     },
     "VOO": {
-      "price": 710.69,
-      "change": -2.92,
-      "changePercent": -0.4092
+      "price": 710.27,
+      "change": -3.34,
+      "changePercent": -0.468
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64310.37,
-      "change": 1491.7177,
-      "changePercent": 2.3746
+      "price": 64316.65,
+      "change": 1497.9977,
+      "changePercent": 2.3846
     },
     "ETH": {
-      "price": 1907.21,
-      "change": 33.267,
-      "changePercent": 1.7752
+      "price": 1905.68,
+      "change": 31.737,
+      "changePercent": 1.6936
     }
   },
   "fx": {
     "USDTWD": {
       "price": 31.864,
-      "change": -0.2601,
-      "changePercent": -0.8097
+      "change": -0.1262,
+      "changePercent": -0.3945
     },
     "JPYTWD": {
-      "price": 0.1977,
-      "change": -0.0038,
-      "changePercent": -1.8693
+      "price": 0.1976,
+      "change": -0.0033,
+      "changePercent": -1.649
     },
     "EURTWD": {
       "price": 36.942,
-      "change": -0.1083,
-      "changePercent": -0.2923
+      "change": -0.0828,
+      "changePercent": -0.2237
     },
     "CNYTWD": {
       "price": 4.7346,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4473.1,
-    "twd": 4582.0,
-    "tael": 171843.0,
-    "twdTotal": 142531.0,
-    "changePercent": 2.1162
+    "usd": 4474.1,
+    "twd": 4583.0,
+    "tael": 171881.0,
+    "twdTotal": 142563.0,
+    "changePercent": 2.1391
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,7 +137,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wYzZGNEREbmlzaUFHbTlqSEhaa2w5eWU1eGd0eFBYTWtYQ2Y4WUJFNldDYTZtOTNBQjRlaHVrTVBhUkI5SFhITGkteXdtRHVY?oc=5"
     },
     {
-      "title": "分析：比特幣現貨流動性疲弱與 ETF 流出抑制市場，但資金外流趨緩初現企穩信號 - cnyes.com",
+      "title": "分析：比特幣現貨流動性疲弱與 ETF 流出抑制市場，但資金外流趨緩初現企穩信號 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYa3lYdWtxRlYweTB1cnRFN2pyNXhWZnVmZDEyLTd3MF9BOHpKY2VSUkpkZ0s5bjBhNTg0QXdHRGhJeGtMVUdnNkZmcw?oc=5"
     },
     {
