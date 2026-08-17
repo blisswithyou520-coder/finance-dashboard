@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/18 03:15",
+  "updated_tw": "08/18 03:50",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -35,51 +35,51 @@
   },
   "us": {
     "NVDA": {
-      "price": 225.51,
-      "change": 0.35,
-      "changePercent": 0.1554
+      "price": 225.538,
+      "change": 0.378,
+      "changePercent": 0.1679
     },
     "AAPL": {
-      "price": 305.84,
-      "change": -0.09,
-      "changePercent": -0.0294
+      "price": 305.42,
+      "change": -0.51,
+      "changePercent": -0.1667
     },
     "TSLA": {
-      "price": 340.57,
-      "change": -1.7,
-      "changePercent": -0.4967
+      "price": 338.6,
+      "change": -3.67,
+      "changePercent": -1.0722
     },
     "QQQ": {
-      "price": 729.78,
-      "change": -1.29,
-      "changePercent": -0.1765
+      "price": 730.44,
+      "change": -0.63,
+      "changePercent": -0.0862
     },
     "SPY": {
-      "price": 773.2,
-      "change": -3.14,
-      "changePercent": -0.4045
+      "price": 773.145,
+      "change": -3.195,
+      "changePercent": -0.4115
     },
     "SCHD": {
-      "price": 34.28,
-      "change": -0.24,
-      "changePercent": -0.6953
+      "price": 34.3,
+      "change": -0.22,
+      "changePercent": -0.6373
     },
     "VOO": {
-      "price": 710.711,
-      "change": -2.899,
-      "changePercent": -0.4062
+      "price": 710.69,
+      "change": -2.92,
+      "changePercent": -0.4092
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64277.9,
-      "change": 1459.2477,
-      "changePercent": 2.323
+      "price": 64310.37,
+      "change": 1491.7177,
+      "changePercent": 2.3746
     },
     "ETH": {
-      "price": 1905.18,
-      "change": 31.237,
-      "changePercent": 1.6669
+      "price": 1907.21,
+      "change": 33.267,
+      "changePercent": 1.7752
     }
   },
   "fx": {
@@ -89,27 +89,27 @@
       "changePercent": -0.8097
     },
     "JPYTWD": {
-      "price": 0.1975,
-      "change": -0.004,
-      "changePercent": -1.9686
+      "price": 0.1977,
+      "change": -0.0038,
+      "changePercent": -1.8693
     },
     "EURTWD": {
-      "price": 36.924,
-      "change": -0.1263,
-      "changePercent": -0.3409
+      "price": 36.942,
+      "change": -0.1083,
+      "changePercent": -0.2923
     },
     "CNYTWD": {
-      "price": 4.7341,
+      "price": 4.7346,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4459.8,
-    "twd": 4569.0,
-    "tael": 171332.0,
-    "twdTotal": 142107.0,
-    "changePercent": 1.8126
+    "usd": 4473.1,
+    "twd": 4582.0,
+    "tael": 171843.0,
+    "twdTotal": 142531.0,
+    "changePercent": 2.1162
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,7 +137,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wYzZGNEREbmlzaUFHbTlqSEhaa2w5eWU1eGd0eFBYTWtYQ2Y4WUJFNldDYTZtOTNBQjRlaHVrTVBhUkI5SFhITGkteXdtRHVY?oc=5"
     },
     {
-      "title": "分析：比特幣現貨流動性疲弱與 ETF 流出抑制市場，但資金外流趨緩初現企穩信號 - 鉅亨網",
+      "title": "分析：比特幣現貨流動性疲弱與 ETF 流出抑制市場，但資金外流趨緩初現企穩信號 - cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYa3lYdWtxRlYweTB1cnRFN2pyNXhWZnVmZDEyLTd3MF9BOHpKY2VSUkpkZ0s5bjBhNTg0QXdHRGhJeGtMVUdnNkZmcw?oc=5"
     },
     {
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaHVDSlVKOWN2a2tCcHVtYjVrekVHY3k4OWN5VUs2Z1FsNzRycWFFQUxxRHVOQTZxbEh6RmhxREc5andnRUJZOGdEcXd0NkJDX2w4Rl8ySnlLcmE4SW4xNjluaFJ0ZUZUbGdQV2dMVUk1X1dqWFJtZVNUOHg5U3pWelhPSlRQVWQ5OU9jY1NhTVdoWWF6SmtFMW84VFlZdzNta3FuX0xtdWw2V2FiWmVGZm8xUUJLWEYtVUhmX1BQcnBTamtiN1l5MmZiOVhIbVoxb1FuclY5TjZJWUxLSHowMXk3QV93YS1XWDBPX3J4aEJ4YW5BeXdiS2dIVlhGaERPMGc5RmJxbjhuaVRpUUp2Zktzb2ZnRk9KRElMUEhoWWhrbDNJSFpzNEVzVFpVeV8ydmhpUw?oc=5"
     },
     {
-      "title": "Reddit 正式納入 S&P 500！AVB 遭剔除｜美股觀察｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPUl9mSEFBOU9TZWVnbUdzYjF4bmktX2JGdm4weFZHN0RPZXFKT25ERFZoLXFDb0VOVGRxVXR4ZXFIeHU0M1pJTEFUX3FBdk5xdVdWNWVlbnVHVGkyMkx5WnVUTUlKVTE4c0g1bFdPcUVyWWFLejI4cnk3UlRjNnotcTdpQWRLcjQ3Zm4xSnFFbkx5emp2R2cwQlhzQ2wtYUpiYXhsS1hCWDVJampkQUNxdEY3TjlKWC00Vklidk5MUGcxaVMwZV91T2ZrVTFqSHNxUjhFZ3JxSmlZTFhfNllJc2hSVklhUWJHQndpZEtuM1R0cTFzc1pocjgyeEl2clZYa2pFNkRhZmxuT3dqZlNfZWZfcmQ5V1BBZGhmVA?oc=5"
+      "title": "【0817台股盤後】台股微揚46 點收45,857 點站穩短均！法人動向多空交戰投信加權賣超177 億，關注「營收亮眼法人買」標的萬潤、聯鈞、致茂｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxPVmlqb1BRUHpJbVFhNk51dHBUR19HTmI2NWxXa21oZFIzcUI5QXBSRlRYN1c4dExGb284ME1zMWVUX2tjYjZsTDlqMGpKUjdZRTJCeWIzQTc1TFpmaUlqajJJOEs2QjE5TU01aHJlQTZKOE9yckxIRnZ0aEtnYzcxN2xnNHhwZlJSOWt3dFJqYlBCWFY0Y294S0JvTS05aXNPM1ZWSEdIZkgxUjMxTmFEbGRCUVlzUDhEMTZ4bnZhLXE1MGQ0V0RDM3BlRWtNaTJoejVYZ2tDVFo5SzRELUZDRkxiXzlCVU5RWHpaTXVwdUt4MFJOSkRnY3NIM1Ruc1JXVnpWa0VZN0xyQk80WFVHTFJfbDZ3ZWV5WmsxSHBuMnpzdjkwTWh6M2poYlVCVlNRYURTLTVUUTFhc0Z3WEx5ZnBYaUItZS0yNXZWaUVubzg0dFFucHN1NWcxQ25VWjhJNHJxNFNvTlMwTWtJRXJYSWlDSGxfOTZ6QS1DSXRNamcxdE0tTDJrdE9VU0dzR1FqM2RpbzVFV1pLREk5WEphQnZjR1NXdkNOaDM3RDNSdVRiX1BhQmU5VU9nS21JQUEzbFZhMU5zTDhYZWswNTBnTWJqMWc4VnA1Z0hWcjYwN3VxVk1RclhOQm93bnAxSEwzcXNyM2xGN21kRkhpNTVOWUJ3M2laYjNxeE8tM2JxalpIV1lXSGtQbWRBWm5kZmEtaHRhMUNyam1IcTVna2EwMER1ZjNhRTdhOVQ5enhlRElYb1hrQUpjeHA4RjNOWVc5RmhpX1BaMmNfWGFEdWVsdG1WOHNSbzl6VWhzelBWNlNsb2FKYTJma0Zrb0hneXQtWXYzZ3NDUFVLaEI1LUxNc1RPeW5NdkMzUXRqcWkwR1hrdUR2eVU4VllyblZ0MVRzeDhvekwybHk1NEZNVWkybVB1QTVrSjJQOEtKZkdrcUczbC1BRV9HYkk4bTU?oc=5"
     }
   ]
 }
