@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/18 05:24",
+  "updated_tw": "08/18 05:49",
   "taiwan": {
     "2330": {
       "price": 2400.0,
-      "change": -35.0,
-      "changePercent": -1.4374
+      "change": 5.0,
+      "changePercent": 0.2088
     },
     "2454": {
       "price": 4050.0,
-      "change": -175.0,
-      "changePercent": -4.142
+      "change": -160.0,
+      "changePercent": -3.8005
     },
     "2317": {
       "price": 255.0,
-      "change": -7.0,
-      "changePercent": -2.6718
+      "change": -4.5,
+      "changePercent": -1.7341
     },
     "0050": {
       "price": 106.45,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64297.21,
-      "change": 1478.5577,
-      "changePercent": 2.3537
+      "price": 64318.99,
+      "change": 1500.3377,
+      "changePercent": 2.3884
     },
     "ETH": {
-      "price": 1905.04,
-      "change": 31.097,
-      "changePercent": 1.6594
+      "price": 1904.74,
+      "change": 30.797,
+      "changePercent": 1.6434
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.852,
-      "change": -0.1382,
-      "changePercent": -0.432
+      "price": 31.85,
+      "change": -0.1402,
+      "changePercent": -0.4383
     },
     "JPYTWD": {
       "price": 0.1976,
@@ -94,21 +94,21 @@
       "changePercent": -1.649
     },
     "EURTWD": {
-      "price": 36.925,
-      "change": -0.0998,
-      "changePercent": -0.2697
+      "price": 36.922,
+      "change": -0.1028,
+      "changePercent": -0.2778
     },
     "CNYTWD": {
-      "price": 4.7322,
+      "price": 4.7288,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
     "usd": 4473.1,
-    "twd": 4581.0,
-    "tael": 171778.0,
-    "twdTotal": 142477.0,
+    "twd": 4580.0,
+    "tael": 171767.0,
+    "twdTotal": 142468.0,
     "changePercent": 2.1162
   },
   "fed": {
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "〈美股早盤〉美伊緊張局勢壓抑風險偏好 主要指數漲跌互現 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xTFZDc2c1eF9HVVYyTVFsTmswRndSUzk2MGFlVnhHREdGNmlkQzhQbWpyVXdraEx3SDRrNXd5U2VxbkFRMndEVGM4Mko1QWM?oc=5"
-    },
-    {
       "title": "快訊／美股開盤兩樣情！那指費半雙雙走揚 台指期夜盤漲破46K - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPVlRvLURCTnhmTzNMcnFWLUYyTHFBY3lvX1R6d2h0MGVnRWt0bUNTT3VwV1FGeU5ILTFBalNCaEVHcEVlN1hlRG9GTDU5RnZTb1IwT3N0eXZ3SFF1Ylh6SjBuMGJkN0h5cG1BMVB6YnM5SVhGVXFqVzVNZHZmN3pKUFdjaUpRam0tUFpfaThkUUx4c01mVnBLQWFKdlYtVUdHOWdYZkJHYTEzRE5yT21vR3lHYnYydmQ4TExmRlhrQk8wb0p6MmMzTG1sWVlaYkl5UDRMS0xvRzBmTHFwWHNkQ1dsOC0tRm41WkYzN2ZKeGVVWWFxd056WTltVTVaenN4UlIxdUEtZGdNLXRsYXdiQkRvNnBrNUNMbzdNTlNGYlpNUTE3VHJMSEtoVXlDZFR5b2JBeW44dTF2amEzZ0Q1TG1zY1N4RzhhMVFuTVZxd1Z1M0JicU44UEdLTFAzOFpKNXd3dC1pODg3UlRXYXk3ZHdQU1ZwWGtBTENF?oc=5"
+    },
+    {
+      "title": "〈美股早盤〉美伊緊張局勢壓抑風險偏好 主要指數漲跌互現 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xTFZDc2c1eF9HVVYyTVFsTmswRndSUzk2MGFlVnhHREdGNmlkQzhQbWpyVXdraEx3SDRrNXd5U2VxbkFRMndEVGM4Mko1QWM?oc=5"
     },
     {
       "title": "光進銅退是什麼？光通訊怎麼投資？台美股、ETF 都能參與｜美股產業｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
@@ -133,8 +133,8 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHhwMkZMdFI1QXR3TzJCdmpfbzhzQVpwSlZDM3l5S1RzbUQyMXliajdZdFVqN0dpNXdBLW9fYUZBLTl1UllYN0xjclRNOVhLME5mSjltVWpuNlEwNUJNTHYwMDNPOWtlSy1EV0hHckRjZmU2b3NVaGlIQTB4X1hmZmdGeXVuRnNkWnpxcXo5bm56UUVCY19jT0k3YmdXcnp2cFBsd2RDTmdmREU?oc=5"
     },
     {
-      "title": "美股早盤／三大指數平盤拉鋸AI樂觀情緒與中東情勢緊張相抗衡| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wYzZGNEREbmlzaUFHbTlqSEhaa2w5eWU1eGd0eFBYTWtYQ2Y4WUJFNldDYTZtOTNBQjRlaHVrTVBhUkI5SFhITGkteXdtRHVY?oc=5"
+      "title": "百點上漲、千家下跌 台股假反彈？ - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12QXFQazZORUYzbWItVnBIRlM2bnIwX0NwbWt6WkM0clUzNlk0SU03S3JQMmxXNzBaVmpLMlNvVzVETGdySVVxbi0yWVY4NW53OHJfLW9DNFpRQdIBX0FVX3lxTE96VjJJTjFfdmhZYm82Rl9FRjdBZ1luZlJORFBMMmNzT21Lcms0cXc3ZHo1cTRwcnlkWnVXMnNoN1ROMnI4Vk9CRHo1Ti1NZk9iTVFVNmRPMFQtUXhrNHQ0?oc=5"
     },
     {
       "title": "美股估值訊號亮紅燈 投資人宜為熊市備戰 - Yahoo股市",
