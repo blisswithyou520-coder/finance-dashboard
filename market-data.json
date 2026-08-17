@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/18 01:25",
+  "updated_tw": "08/18 01:55",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 225.926,
-      "change": 0.766,
-      "changePercent": 0.3402
+      "price": 226.14,
+      "change": 0.98,
+      "changePercent": 0.4352
     },
     "AAPL": {
-      "price": 304.09,
-      "change": -1.84,
-      "changePercent": -0.6014
+      "price": 304.36,
+      "change": -1.57,
+      "changePercent": -0.5132
     },
     "TSLA": {
-      "price": 339.41,
-      "change": -2.86,
-      "changePercent": -0.8356
+      "price": 339.46,
+      "change": -2.81,
+      "changePercent": -0.821
     },
     "QQQ": {
-      "price": 730.2,
-      "change": -0.87,
-      "changePercent": -0.119
+      "price": 730.43,
+      "change": -0.64,
+      "changePercent": -0.0875
     },
     "SPY": {
-      "price": 773.69,
-      "change": -2.65,
-      "changePercent": -0.3413
+      "price": 773.54,
+      "change": -2.8,
+      "changePercent": -0.3607
     },
     "SCHD": {
-      "price": 34.29,
-      "change": -0.23,
-      "changePercent": -0.6663
+      "price": 34.275,
+      "change": -0.245,
+      "changePercent": -0.7097
     },
     "VOO": {
-      "price": 711.2,
-      "change": -2.41,
-      "changePercent": -0.3377
+      "price": 711.055,
+      "change": -2.555,
+      "changePercent": -0.358
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64211.4,
-      "change": 1392.7477,
-      "changePercent": 2.2171
+      "price": 64261.7,
+      "change": 1443.0477,
+      "changePercent": 2.2972
     },
     "ETH": {
-      "price": 1908.32,
-      "change": 34.377,
-      "changePercent": 1.8345
+      "price": 1907.23,
+      "change": 33.287,
+      "changePercent": 1.7763
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.857,
-      "change": -0.2671,
-      "changePercent": -0.8315
+      "price": 31.867,
+      "change": -0.2571,
+      "changePercent": -0.8003
     },
     "JPYTWD": {
       "price": 0.1976,
@@ -94,22 +94,22 @@
       "changePercent": -1.9189
     },
     "EURTWD": {
-      "price": 36.946,
-      "change": -0.1043,
-      "changePercent": -0.2815
+      "price": 36.945,
+      "change": -0.1053,
+      "changePercent": -0.2842
     },
     "CNYTWD": {
-      "price": 4.7315,
+      "price": 4.733,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4480.2,
-    "twd": 4589.0,
-    "tael": 172078.0,
-    "twdTotal": 142726.0,
-    "changePercent": 2.2783
+    "usd": 4474.9,
+    "twd": 4585.0,
+    "tael": 171928.0,
+    "twdTotal": 142602.0,
+    "changePercent": 2.1573
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,12 +129,12 @@
       "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQZjZjcE55RlRGa3pqVlNWbGRaelJMcVkzbEE4LURkUWdqbmFWXzRzZGxManVjSW9ZYUw0blBqVlhEb2VSa3Y0YkVmSjd1T1RhTHMtSS1ET0lWN0p1UE5fYnFGbUNDc1ZkVE45dUdtNG1Fd3QweXNWSm1rMDF6M29veVc3ZmNybzlFSzZjWkdka3hlYkZ5M05YcFhNaFlYYmVVOExMVW5fOUxmVzdBMEt3aDM0d0dGeHNsOGFVNzc4LS05eVoxV2FOQzJlUUp3YmNMaDdmeG8tUlFFSmhzVWd1WTFMWHZJeldfS3ZMV25TZ2wyU3FLanFtX0lBTklsRHF3SVhjemFrUVotb0xLNFA1YlozbVF2Vm9KenVwT21pZW55RDRKUzhMekNlWXNsV3BPS29GblJFNFpwQm9PZEhKWHVWR0gwRXQ2THZ1anB2UmFsTDI2clhxNjRnUF9KYzI4aWR4Y0p1LTgxVXEweDRkWThIUEg1NFd6TUwwckZ2UlVfWVJ2S3BhVGE1a2toUHJvUUQ1YVZ2RjE5d1I4NnpSeGJRSFFjTXNPbWdBYlRCSjd0cnhBZEE?oc=5"
     },
     {
-      "title": "AI 攻進加密安全腹地！中國開源模型成比特幣社群「救火隊」 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHhwMkZMdFI1QXR3TzJCdmpfbzhzQVpwSlZDM3l5S1RzbUQyMXliajdZdFVqN0dpNXdBLW9fYUZBLTl1UllYN0xjclRNOVhLME5mSjltVWpuNlEwNUJNTHYwMDNPOWtlSy1EV0hHckRjZmU2b3NVaGlIQTB4X1hmZmdGeXVuRnNkWnpxcXo5bm56UUVCY19jT0k3YmdXcnp2cFBsd2RDTmdmREU?oc=5"
+      "title": "美股早盤／三大指數平盤拉鋸AI樂觀情緒與中東情勢緊張相抗衡| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wYzZGNEREbmlzaUFHbTlqSEhaa2w5eWU1eGd0eFBYTWtYQ2Y4WUJFNldDYTZtOTNBQjRlaHVrTVBhUkI5SFhITGkteXdtRHVY?oc=5"
     },
     {
-      "title": "市場權衡美伊緊張　美股開盤走勢不一 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrNXZqVUZERVR3d1plajRFdHRQemlITUpGd3FnLXlxNGpmSXhHanp5MnRoTUNHUmxtblZPMTBJWDVEMUIwaHFXRW5pSUcwWnBHd09OVUswRm5NRzd30gFiQVVfeXFMT0ZkX19GQjJkYU5sdXFyUC05RGlNLTIyZFVZMkpaM05OTmFubTJKWVBhemZxVEF0ZEEwSEIwT2N5SUVNUm9val95RGdwbmNsWDFNbTEybmhMckFROFhXQWVkaGc?oc=5"
+      "title": "AI 攻進加密安全腹地！中國開源模型成比特幣社群「救火隊」 - blockcast.it",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHhwMkZMdFI1QXR3TzJCdmpfbzhzQVpwSlZDM3l5S1RzbUQyMXliajdZdFVqN0dpNXdBLW9fYUZBLTl1UllYN0xjclRNOVhLME5mSjltVWpuNlEwNUJNTHYwMDNPOWtlSy1EV0hHckRjZmU2b3NVaGlIQTB4X1hmZmdGeXVuRnNkWnpxcXo5bm56UUVCY19jT0k3YmdXcnp2cFBsd2RDTmdmREU?oc=5"
     },
     {
       "title": "分析：比特幣現貨流動性疲弱與 ETF 流出抑制市場，但資金外流趨緩初現企穩信號 - 鉅亨網",
