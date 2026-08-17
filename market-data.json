@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 21:45",
+  "updated_tw": "08/17 22:25",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 225.91,
-      "change": 0.75,
-      "changePercent": 0.3331
+      "price": 226.27,
+      "change": 1.11,
+      "changePercent": 0.493
     },
     "AAPL": {
-      "price": 305.28,
-      "change": -0.65,
-      "changePercent": -0.2125
+      "price": 304.785,
+      "change": -1.145,
+      "changePercent": -0.3743
     },
     "TSLA": {
-      "price": 340.825,
-      "change": -1.445,
-      "changePercent": -0.4222
+      "price": 339.201,
+      "change": -3.069,
+      "changePercent": -0.8967
     },
     "QQQ": {
-      "price": 732.59,
-      "change": 1.52,
-      "changePercent": 0.2079
+      "price": 731.985,
+      "change": 0.915,
+      "changePercent": 0.1252
     },
     "SPY": {
-      "price": 775.66,
-      "change": -0.68,
-      "changePercent": -0.0876
+      "price": 775.14,
+      "change": -1.2,
+      "changePercent": -0.1546
     },
     "SCHD": {
-      "price": 34.35,
-      "change": -0.17,
-      "changePercent": -0.4925
+      "price": 34.365,
+      "change": -0.155,
+      "changePercent": -0.449
     },
     "VOO": {
-      "price": 712.99,
-      "change": -0.62,
-      "changePercent": -0.0869
+      "price": 712.5,
+      "change": -1.11,
+      "changePercent": -0.1555
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63569.3,
-      "change": 750.6477,
-      "changePercent": 1.1949
+      "price": 63585.0,
+      "change": 766.3477,
+      "changePercent": 1.2199
     },
     "ETH": {
-      "price": 1902.68,
-      "change": 28.737,
-      "changePercent": 1.5335
+      "price": 1898.1,
+      "change": 24.157,
+      "changePercent": 1.2891
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.822,
-      "change": -0.3021,
-      "changePercent": -0.9404
+      "price": 31.811,
+      "change": -0.3131,
+      "changePercent": -0.9747
     },
     "JPYTWD": {
-      "price": 0.1975,
-      "change": -0.004,
-      "changePercent": -1.9686
+      "price": 0.1976,
+      "change": -0.0039,
+      "changePercent": -1.9189
     },
     "EURTWD": {
-      "price": 36.936,
-      "change": -0.1143,
-      "changePercent": -0.3085
+      "price": 36.938,
+      "change": -0.1123,
+      "changePercent": -0.3031
     },
     "CNYTWD": {
-      "price": 4.729,
+      "price": 4.7266,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4444.3,
-    "twd": 4547.0,
-    "tael": 170511.0,
-    "twdTotal": 141427.0,
-    "changePercent": 1.4588
+    "usd": 4470.9,
+    "twd": 4573.0,
+    "tael": 171473.0,
+    "twdTotal": 142224.0,
+    "changePercent": 2.066
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,16 +133,16 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdE95U2xIWnVIY2JOdDhHbzJ0RFliUnpwRWRPeHVBM2poZWNXTERiVExZam91dHZReTF0cWkwMWprcnlIMnAxOHZUZ3RfQjk5cFh4dUp0YkhVeGtRM0NpLWZWZDRQWlZ2dFJvaHRqdVVfYUxpWlh3WHB6OUl4TjF5dkpqZmJ4a3ZJSlVLdGwyV3N4RFhHcVBaNTZCWVV0WlRI?oc=5"
     },
     {
-      "title": "高盛斷言 Fed 下月「不可能升息」，比特幣有望迎利多、打破橫盤僵局？ - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnhsNlJfMENpelN1dlpjSzdhZmtJaHBNMWNLNFI2NGpDcG0wVFljOWJwX2Jna0p6OVYzNk9aUlJhQ0ZaV2VCalgwMnR4dUNEaWhqRS0tQndrVEFhQ0o3WEhudnFucGtsVjNtMUhzVUxiY3RVaEFJcGZ3ZzZQalRJWVk1STZaTmNmb0l1eHNyMldPZUpxN0g1bmM5bHljaU5YdHo2QWZ5MldYb3ZYZ0tReC1vbw?oc=5"
+      "title": "AI 攻進加密安全腹地！中國開源模型成比特幣社群「救火隊」 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHhwMkZMdFI1QXR3TzJCdmpfbzhzQVpwSlZDM3l5S1RzbUQyMXliajdZdFVqN0dpNXdBLW9fYUZBLTl1UllYN0xjclRNOVhLME5mSjltVWpuNlEwNUJNTHYwMDNPOWtlSy1EV0hHckRjZmU2b3NVaGlIQTB4X1hmZmdGeXVuRnNkWnpxcXo5bm56UUVCY19jT0k3YmdXcnp2cFBsd2RDTmdmREU?oc=5"
     },
     {
       "title": "比特幣熊市後期信號浮現：波動率與流動性壓縮至多年低位，宏觀環境已率先轉暖 - cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MSVR3Y2VsN2VhVm5mbUxpbmwtZENVNVVxZVU0Z05ZYlJCaldaQmVackwyRGxFR0Q2cVR2NUZEeWFTV0FkeGdFSnltcw?oc=5"
     },
     {
-      "title": "美股估值訊號亮紅燈 投資人宜為熊市備戰 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaHVDSlVKOWN2a2tCcHVtYjVrekVHY3k4OWN5VUs2Z1FsNzRycWFFQUxxRHVOQTZxbEh6RmhxREc5andnRUJZOGdEcXd0NkJDX2w4Rl8ySnlLcmE4SW4xNjluaFJ0ZUZUbGdQV2dMVUk1X1dqWFJtZVNUOHg5U3pWelhPSlRQVWQ5OU9jY1NhTVdoWWF6SmtFMW84VFlZdzNta3FuX0xtdWw2V2FiWmVGZm8xUUJLWEYtVUhmX1BQcnBTamtiN1l5MmZiOVhIbVoxb1FuclY5TjZJWUxLSHowMXk3QV93YS1XWDBPX3J4aEJ4YW5BeXdiS2dIVlhGaERPMGc5RmJxbjhuaVRpUUp2Zktzb2ZnRk9KRElMUEhoWWhrbDNJSFpzNEVzVFpVeV8ydmhpUw?oc=5"
+      "title": "台股又新增3檔「關禁閉」！「這無人機指標股」入列、處置時間皆到8月24日 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxOaVpmNkJTTDhtWFpLemc0N3BJellkTGxFSmFxcHoxT2Y3VUVaRFV0Vzh4NW1idzdsR1Z1TE1qblBKZHVkN3Y2ZjQ2a2JabW1UM2NBX0k4bHFuU3lSY0drZUw1UGZ3dWE1YkJCRjVpQUdZek5vTFh0U0tqVDhCUG1mQW9UMEU2OGNwdUUxcTMta2lKYndDeW5nMXJieHgzVm9tUG83SFJobXBtbzhPWWpCanFPQzUxdk5nVzE5QVJNc1hkR0Q5dy1QQjJDQzF4TS1PM2dmWWJmZC00azVTMmEyMzZGQTJvZmpqSHdGS01MS21yVlZ3NlNkcGN5UFFqQS1TdXByUWdfdVRJVmhjdmpGRHpjbzN5Q1Ayb0dDV1lrSmU2ZE1TX3lmN3BzYkZ0SHdnQkhnSmNtOThObk1aeGFyVzRIMS1RWm9PNU1wUjNvV0hVMlUxQzlsWDVIZF9SdFNuUm1LcTZrVlBFR1NCck93WGhxaEtia3M4N21EYzV2cDB4UFJmU3pOOVlnWkk0c0R5cGdCVzBadTdKWW5RZGc?oc=5"
     },
     {
       "title": "【美股盤前0817】零售銷售意外下滑0.6%！美股四大指數全面收黑，本週緊盯Fed 會議紀要｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
