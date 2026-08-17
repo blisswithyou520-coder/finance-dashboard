@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/17 23:23",
+  "updated_tw": "08/17 23:49",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 227.536,
-      "change": 2.376,
-      "changePercent": 1.0552
+      "price": 227.4,
+      "change": 2.24,
+      "changePercent": 0.9948
     },
     "AAPL": {
-      "price": 304.535,
-      "change": -1.395,
-      "changePercent": -0.456
+      "price": 303.21,
+      "change": -2.72,
+      "changePercent": -0.8891
     },
     "TSLA": {
-      "price": 340.13,
-      "change": -2.14,
-      "changePercent": -0.6252
+      "price": 340.84,
+      "change": -1.43,
+      "changePercent": -0.4178
     },
     "QQQ": {
-      "price": 734.28,
-      "change": 3.21,
-      "changePercent": 0.4391
+      "price": 733.095,
+      "change": 2.025,
+      "changePercent": 0.277
     },
     "SPY": {
-      "price": 775.75,
-      "change": -0.59,
-      "changePercent": -0.076
+      "price": 775.15,
+      "change": -1.19,
+      "changePercent": -0.1533
     },
     "SCHD": {
-      "price": 34.275,
-      "change": -0.245,
-      "changePercent": -0.7097
+      "price": 34.265,
+      "change": -0.255,
+      "changePercent": -0.7387
     },
     "VOO": {
-      "price": 713.05,
-      "change": -0.56,
-      "changePercent": -0.0785
+      "price": 712.52,
+      "change": -1.09,
+      "changePercent": -0.1527
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63779.11,
-      "change": 960.4577,
-      "changePercent": 1.5289
+      "price": 64115.47,
+      "change": 1296.8177,
+      "changePercent": 2.0644
     },
     "ETH": {
-      "price": 1903.53,
-      "change": 29.587,
-      "changePercent": 1.5789
+      "price": 1910.86,
+      "change": 36.917,
+      "changePercent": 1.97
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.822,
-      "change": -0.3021,
-      "changePercent": -0.9404
+      "price": 31.824,
+      "change": -0.3001,
+      "changePercent": -0.9342
     },
     "JPYTWD": {
       "price": 0.1975,
@@ -94,22 +94,22 @@
       "changePercent": -1.9686
     },
     "EURTWD": {
-      "price": 36.91,
-      "change": -0.1403,
-      "changePercent": -0.3787
+      "price": 36.907,
+      "change": -0.1433,
+      "changePercent": -0.3868
     },
     "CNYTWD": {
-      "price": 4.7292,
+      "price": 4.7272,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4478.7,
-    "twd": 4582.0,
-    "tael": 171831.0,
-    "twdTotal": 142521.0,
-    "changePercent": 2.2441
+    "usd": 4479.6,
+    "twd": 4583.0,
+    "tael": 171876.0,
+    "twdTotal": 142559.0,
+    "changePercent": 2.2646
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,11 +133,11 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdE95U2xIWnVIY2JOdDhHbzJ0RFliUnpwRWRPeHVBM2poZWNXTERiVExZam91dHZReTF0cWkwMWprcnlIMnAxOHZUZ3RfQjk5cFh4dUp0YkhVeGtRM0NpLWZWZDRQWlZ2dFJvaHRqdVVfYUxpWlh3WHB6OUl4TjF5dkpqZmJ4a3ZJSlVLdGwyV3N4RFhHcVBaNTZCWVV0WlRI?oc=5"
     },
     {
-      "title": "AI 攻進加密安全腹地！中國開源模型成比特幣社群「救火隊」 - 區塊客",
+      "title": "AI 攻進加密安全腹地！中國開源模型成比特幣社群「救火隊」 - blockcast.it",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHhwMkZMdFI1QXR3TzJCdmpfbzhzQVpwSlZDM3l5S1RzbUQyMXliajdZdFVqN0dpNXdBLW9fYUZBLTl1UllYN0xjclRNOVhLME5mSjltVWpuNlEwNUJNTHYwMDNPOWtlSy1EV0hHckRjZmU2b3NVaGlIQTB4X1hmZmdGeXVuRnNkWnpxcXo5bm56UUVCY19jT0k3YmdXcnp2cFBsd2RDTmdmREU?oc=5"
     },
     {
-      "title": "分析：比特幣現貨流動性疲弱與 ETF 流出抑制市場，但資金外流趨緩初現企穩信號 - cnyes.com",
+      "title": "分析：比特幣現貨流動性疲弱與 ETF 流出抑制市場，但資金外流趨緩初現企穩信號 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYa3lYdWtxRlYweTB1cnRFN2pyNXhWZnVmZDEyLTd3MF9BOHpKY2VSUkpkZ0s5bjBhNTg0QXdHRGhJeGtMVUdnNkZmcw?oc=5"
     },
     {
