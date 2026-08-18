@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 07:20",
+  "updated_tw": "08/19 07:46",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64659.02,
-      "change": 152.7661,
-      "changePercent": 0.2368
+      "price": 64709.75,
+      "change": 203.4961,
+      "changePercent": 0.3155
     },
     "ETH": {
-      "price": 1916.1,
-      "change": 3.8979,
-      "changePercent": 0.2038
+      "price": 1917.87,
+      "change": 5.6679,
+      "changePercent": 0.2964
     }
   },
   "fx": {
@@ -94,9 +94,9 @@
       "changePercent": -1.1422
     },
     "EURTWD": {
-      "price": 36.957,
-      "change": 0.0591,
-      "changePercent": 0.1601
+      "price": 36.948,
+      "change": 0.0501,
+      "changePercent": 0.1357
     },
     "CNYTWD": {
       "price": 4.7316,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4387.4,
-    "twd": 4497.0,
-    "tael": 168656.0,
-    "twdTotal": 139888.0,
-    "changePercent": -0.6881
+    "usd": 4382.7,
+    "twd": 4493.0,
+    "tael": 168476.0,
+    "twdTotal": 139738.0,
+    "changePercent": -0.7945
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "星期三開盤慘了？美股費半重挫近5% 台指期夜盤大暴跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNcHdpRnhaUGZEb3o0UXNkbnh4NUFNMVFremliODNOM1REWmdyb0VVQzVWZ0JWTlo2eUdDZUtjeTljcDZQbHhZVHExZk1pQVozaWs5aWFyWWYyYk1jc0RFQ1lNTFZkMEpoby1ZRGtpdGpRRHlZU0FNdjR4eDFFMWxoSVdsUUtYd3RkemFocVVZeUVaejktdHRsYUtRZDRHMDNJME9EbHdnNVlTMzhoUWN1SF85akJwME5BbjktRS1BZzZSLU95UTQtU1RyREVGXzM3N2hiTi1mRl9HQmJ5aXJtaGlKWmpHcjJISklYTXJhcmVfeU1HalJmNHdEMnUyTDZMZ1dwdUZ0b08xbFJmTnRSUGtVN2FiWUF2OXVtNGZGeVRDd0p6cE5DMldDcXdjY1FldTVzTF9KeE1UazVnWUtINGFNdmw2T1d4MmtMY2lyd0lRYXNPWkswSTRpcGNlbW5yQ0pveXVUOA?oc=5"
+    },
+    {
       "title": "美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ud2VELXM5QWRtRHp2SW5nRi1HbkRCMldHMjBUZDBCZ3REV1EtQ3FGN29YNmY3M1E5bTd5Vlp2cVJYOGJCblQxQ09aVHlBV3NfNWJaN2huay1NSDhETXVB?oc=5"
     },
     {
-      "title": "美股集體跳水！美伊衝突、美債殖利率創19年高雙面夾殺 台積電ADR同步重挫3.75% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQZkRCTVpjQThyT3I4N25qQ3pSOVBsZzlLNi1BbTYyejQ1SGNGaVh2Y2wtckVBREpRdTJLeDlqX1JoY0RnR3B5UWpWTzY1S0dMWUF6ZjNQZnFYQTZqRDk5T3FPTHZ4UWhMbjNjX0RIZFg5XzVzUmhtTUU4bEZHSUVvTUw5Y3I0NE9FOGZNVFJPRjR2bzZ4M2hFeUFXMm1JWnk4N0JYSGtORUhjeDFhbTYzNk1qYlN5QjlQX1MxSGQ3eURLdmcweEVmWEw4aDJ1RTNWc0VYMm1xM2liMGc0TGRmb2NzdkJuOTFPWFAzOFVmRERjS1dNUlZQaTFJNkRKaXc4SFhDYjJvRjFDQUdZWGp3QjVvWVZUamp5Q0IxXzZpLVBQRzRvTWFYWUt5WGQ3WEJJc2YzTnJETU8zOFBEaXVzcDNPOC1EUV9mdVp3TzB1dVctM1ZVV1A0eU9neURjQ0JOOXNLNDJ2U19BbUtrTHVvc2lZYTZpVnpJOWhrb3MxY3cxOHk5WHV2RVh5OE56NThPTEF5SWx5c204ZFdCQVNfaVV4S0ZzeE5rRlE5V3hsMlVJZUJ3UURCTzl4SDYtbEl5MG9lczBRTQ?oc=5"
+      "title": "〈美股盤後〉全球債市掀起拋售風暴 晶片股全面潰敗 費半指數狂瀉近5% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Vb0NWTGdxQzhMclNMcnlhTFVORW1rQk5vMHZIVWFlZmhZMHhsaDBNUVpqODdhQk8zZzdZeUpDZHJrS2tpLXM5bjRMVzlGaTQ?oc=5"
     },
     {
       "title": "美股早盤／AI 發債搶錢 美長債殖利率衝19年高 費半瀉3% - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tUXA2c3N3SS1NWU42UlhtMEkxTUExNGk2TW92T2NjUkFreTliTmpXbmRwd093enhVWDMwQl9FSHN5M2FfelRsVTZaYXI4RnhPYWxXcEZLSVdocTA10gFiQVVfeXFMT0hDdW5jNXZ5ckd0RWRSRmdoWnlQU3hQM1hQbVB0UDM4V18yZGNKTENoX1o1X0ZndXZUS1ZFckI5MjlWdnBHRllfZFV4bE1aYjg5LWJIQl8weDA5VUVnc2wwTnc?oc=5"
     },
     {
-      "title": "〈美股早盤〉油價與美債殖利率雙殺！主要指數開低半導體股成重災區 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43WW5nMmttTW9SMGxHc01xRHlqeTA2SnBsTXctektjbWZYZ1hWRmI5SkhpQTNoWXhkTFNta2FmU2cyYVU1RHJkYmdPalJoMHM?oc=5"
+      "title": "《美股》全球殖利率跳高 記憶體/光通訊/費半摔-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR2RtdVJXaXZteExKUGV6bVZMN3RwMGpVREd6NUM3bTYxTkt3a1duY2VqUENGZmhZdk5FZkc2czIwRmlRTWcxbm9pcHhORzZsTkJ1LXdHOGV2OFhOQUlZaXJSN2lCUUhjUnJLU0szYW5RenBUdHQ5SEVLUnRJM0FHWW9NSkJuZlFNY1U4dXc2SFE?oc=5"
     },
     {
       "title": "兩大魔王利空來襲！美股三大指數開盤挫低科技股一片哀嚎- 國際 - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1scU10Z2I1YnV5ZmRySE1xSEFiaVRoSVhHMXJCX1ZtUXc0eE1xZjJhMHlUYU5DaHNNMFNNM1k1S01yU1VOeEYwSW1XY05Qd2N3N0cxeDN3MmFHX09BVnIw?oc=5"
     },
     {
-      "title": "《貴金屬》COMEX黃金下跌1.2% ETF持倉增加- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZi1WRWRfUTM2U0wxaDZENFZFVnpQb1kwUmVaMUtQWkpLdW9ZQktZdHB5T1NPdUNFc09RaVRJckg0dGRZVVdRcGRzM3JsUVE2VmcyeER1X09VdU0xdHZsQVduX25HQWVna05jOUF0UDJXdVVwNnlBeks2VldFdnRDdjVYZWtLMWFHa2FkVnV2ZC1RUQ?oc=5"
+      "title": "美股集體跳水！美伊衝突、美債殖利率創19年高雙面夾殺 台積電ADR同步重挫3.75% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQZkRCTVpjQThyT3I4N25qQ3pSOVBsZzlLNi1BbTYyejQ1SGNGaVh2Y2wtckVBREpRdTJLeDlqX1JoY0RnR3B5UWpWTzY1S0dMWUF6ZjNQZnFYQTZqRDk5T3FPTHZ4UWhMbjNjX0RIZFg5XzVzUmhtTUU4bEZHSUVvTUw5Y3I0NE9FOGZNVFJPRjR2bzZ4M2hFeUFXMm1JWnk4N0JYSGtORUhjeDFhbTYzNk1qYlN5QjlQX1MxSGQ3eURLdmcweEVmWEw4aDJ1RTNWc0VYMm1xM2liMGc0TGRmb2NzdkJuOTFPWFAzOFVmRERjS1dNUlZQaTFJNkRKaXc4SFhDYjJvRjFDQUdZWGp3QjVvWVZUamp5Q0IxXzZpLVBQRzRvTWFYWUt5WGQ3WEJJc2YzTnJETU8zOFBEaXVzcDNPOC1EUV9mdVp3TzB1dVctM1ZVV1A0eU9neURjQ0JOOXNLNDJ2U19BbUtrTHVvc2lZYTZpVnpJOWhrb3MxY3cxOHk5WHV2RVh5OE56NThPTEF5SWx5c204ZFdCQVNfaVV4S0ZzeE5rRlE5V3hsMlVJZUJ3UURCTzl4SDYtbEl5MG9lczBRTQ?oc=5"
     },
     {
-      "title": "快訊／談判快破局！美股開盤費半挫407點 台指期夜盤失守45K - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNckY4MTRqSlZVYWZQdWF4NWF6RHM2clNqTF9Ud1VtYzk0TlZ3UXlzM0VEZXNsazdnWFdlWmVOZ1FnY0tYSVpIUC1Sdl9FUzhIU2RLZEU0dHQ0M2xYZ3lkTnpxcG9sc2E2NmhseXlWVTZ6NW5jVTBONTVsSWIxLWFTa1FxTExJUjZkT0hVdGxxclZMcEo3Mm5rQU9NazBIYW9SemlsbFFHSUFkdWpoOVhRb0lxZi1Cc0J5TUx1RnF1amVhN1J1dzJHVEJ4SUVqY29RaGlnMnU3SHpoT1ZPNWw4XzBlZ1ZnOU90cVF5VmVnTDNtN3VWNXYzQ1MzQ2xWTFNqalY3MGFLQWhxMmstVmdGNXVDakNqN3kwYXpRR0E1RGpKZGRqVlhaMTN1ZFBEdDJvbW94bGFjYnFkdlpmT0RJR1dmR1dKRUp2ZFkxaDlsUVd5Wlo3RUxmS3ZhX3Zrb2pyNE52aE9mZw?oc=5"
-    },
-    {
-      "title": "美股收盤／美債殖利率走揚 AI 高期待反成壓力 費半重挫5%拖累美股 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tMHNCYndyMkw5X3pBN1l1NFlrOHNGUW0zWXlSUWdkSlQ3aVRGSlV6OF96bFlhMkNkY3hFNnZ1Ui1oajh4M2VlRlpzQlNseWx4ZHoxRGZYV0U1VWVI0gFiQVVfeXFMT1VheE9xZnVDbWp0NGQ2ejcwX1VGWFI5ME5oZGZ4cUlraHY4S3lsRUNFT2NxbEVTdFJpMG1HOVB5MG4xcXE1YnpRN0dUcnBXUDVlWmlSdG5HZjVvMlEzVnBKemc?oc=5"
+      "title": "〈美股早盤〉油價與美債殖利率雙殺！主要指數開低半導體股成重災區 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43WW5nMmttTW9SMGxHc01xRHlqeTA2SnBsTXctektjbWZYZ1hWRmI5SkhpQTNoWXhkTFNta2FmU2cyYVU1RHJkYmdPalJoMHM?oc=5"
     }
   ]
 }
