@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 05:22",
+  "updated_tw": "08/19 05:47",
   "taiwan": {
     "2330": {
       "price": 2380.0,
-      "change": -15.0,
-      "changePercent": -0.6263
+      "change": -20.0,
+      "changePercent": -0.8333
     },
     "2454": {
       "price": 3885.0,
-      "change": -325.0,
-      "changePercent": -7.7197
+      "change": -165.0,
+      "changePercent": -4.0741
     },
     "2317": {
       "price": 249.0,
-      "change": -10.5,
-      "changePercent": -4.0462
+      "change": -6.0,
+      "changePercent": -2.3529
     },
     "0050": {
       "price": 104.9,
@@ -24,8 +24,8 @@
     },
     "00878": {
       "price": 32.38,
-      "change": -1.4,
-      "changePercent": -4.1445
+      "change": -1.49,
+      "changePercent": -4.3992
     },
     "00919": {
       "price": 30.34,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64572.87,
-      "change": 66.6161,
-      "changePercent": 0.1033
+      "price": 64551.0,
+      "change": 44.7461,
+      "changePercent": 0.0694
     },
     "ETH": {
-      "price": 1912.34,
-      "change": 0.1379,
-      "changePercent": 0.0072
+      "price": 1910.31,
+      "change": -1.8921,
+      "changePercent": -0.099
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.917,
-      "change": 0.0667,
-      "changePercent": 0.2094
+      "price": 31.907,
+      "change": 0.0567,
+      "changePercent": 0.178
     },
     "JPYTWD": {
       "price": 0.1977,
@@ -94,21 +94,21 @@
       "changePercent": -1.0921
     },
     "EURTWD": {
-      "price": 36.996,
-      "change": 0.0981,
-      "changePercent": 0.2658
+      "price": 36.978,
+      "change": 0.0801,
+      "changePercent": 0.217
     },
     "CNYTWD": {
-      "price": 4.7374,
+      "price": 4.735,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
     "usd": 4389.5,
-    "twd": 4504.0,
-    "tael": 168912.0,
-    "twdTotal": 140100.0,
+    "twd": 4503.0,
+    "tael": 168859.0,
+    "twdTotal": 140056.0,
     "changePercent": -0.6406
   },
   "fed": {
@@ -121,6 +121,10 @@
       "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQZkRCTVpjQThyT3I4N25qQ3pSOVBsZzlLNi1BbTYyejQ1SGNGaVh2Y2wtckVBREpRdTJLeDlqX1JoY0RnR3B5UWpWTzY1S0dMWUF6ZjNQZnFYQTZqRDk5T3FPTHZ4UWhMbjNjX0RIZFg5XzVzUmhtTUU4bEZHSUVvTUw5Y3I0NE9FOGZNVFJPRjR2bzZ4M2hFeUFXMm1JWnk4N0JYSGtORUhjeDFhbTYzNk1qYlN5QjlQX1MxSGQ3eURLdmcweEVmWEw4aDJ1RTNWc0VYMm1xM2liMGc0TGRmb2NzdkJuOTFPWFAzOFVmRERjS1dNUlZQaTFJNkRKaXc4SFhDYjJvRjFDQUdZWGp3QjVvWVZUamp5Q0IxXzZpLVBQRzRvTWFYWUt5WGQ3WEJJc2YzTnJETU8zOFBEaXVzcDNPOC1EUV9mdVp3TzB1dVctM1ZVV1A0eU9neURjQ0JOOXNLNDJ2U19BbUtrTHVvc2lZYTZpVnpJOWhrb3MxY3cxOHk5WHV2RVh5OE56NThPTEF5SWx5c204ZFdCQVNfaVV4S0ZzeE5rRlE5V3hsMlVJZUJ3UURCTzl4SDYtbEl5MG9lczBRTQ?oc=5"
     },
     {
+      "title": "美股早盤／AI 發債搶錢 美長債殖利率衝19年高 費半瀉3% - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tUXA2c3N3SS1NWU42UlhtMEkxTUExNGk2TW92T2NjUkFreTliTmpXbmRwd093enhVWDMwQl9FSHN5M2FfelRsVTZaYXI4RnhPYWxXcEZLSVdocTA10gFiQVVfeXFMT0hDdW5jNXZ5ckd0RWRSRmdoWnlQU3hQM1hQbVB0UDM4V18yZGNKTENoX1o1X0ZndXZUS1ZFckI5MjlWdnBHRllfZFV4bE1aYjg5LWJIQl8weDA5VUVnc2wwTnc?oc=5"
+    },
+    {
       "title": "〈美股早盤〉油價與美債殖利率雙殺！主要指數開低半導體股成重災區 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43WW5nMmttTW9SMGxHc01xRHlqeTA2SnBsTXctektjbWZYZ1hWRmI5SkhpQTNoWXhkTFNta2FmU2cyYVU1RHJkYmdPalJoMHM?oc=5"
     },
@@ -131,10 +135,6 @@
     {
       "title": "SEMICON 2026 矽光子論壇前瞻：從美股大漲看聯亞、波若威、光聖等台股「七劍客」財報解析｜股市話題 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNUVVPS2NDVXN2WmJFZ3g5eWtadWVTY05jVkNEZGpSTWpSb0ZmelR1WnBSWGl3NmR0TXY2VWRVdl9UV2MyYmtiOXREWnVFSTlGd1pfT1IwUjF1ZjVJb3pBM3ZYOFY5WmlTZENBOC1McUVVM2JiM1lsalQ3RWpiaVhQV2tCY3NJSS1pdzBFWHhxcmg5QmxSZHp2Y2dYT3Y5eDg5cVBjcFZnSXNjeV9UcVFMLVhtemNHekMyRGFVTG5PcEtjZk5EM1RWVVBmN2IzbDlTOTlXN20yMnBWSFZKNkpMZXBWd3BaNzluREFiMkV3N1ZWX2JuV2F3TDlGak5nbnUwLTBYZ3BuM1hnR293Tm5HSEN6d2dndjVfdTBpZWVBYmlaZWxPdjdfMGljWGFqS1NrUUxPWUNDSTNvbFVacXVxaVlmQ3ZvWk1jelFFeWZyV3V3dzRGVHFCRFc3SUwtdktoc0ZacEJMV2tvWWtwTDlEMlRvdlQ2V0N1U25HeGJkdHRpa0xOWkJJWmtRQVkySm5JWWVIRjBiNml6ZGZZTWZ6dUxuSjdsUVpCdVUtX0NueWVlZkdNaVN6TGlUUlBNcUN1WlEzTjBhUlNXSC1wUDdQYXVqR1VWV1lTZDE5N0VXTEN0RUk0djVCR3lkZmV0dHNiMDRsLTEyVUppRmJaQnN6VjhvaGtZZ0gzbUJZOGRCaUlhNzUxVlVmQUJJNlFkXzhfUDhNNVlZR2JrSDk0UEE?oc=5"
-    },
-    {
-      "title": "美股收盤／費半重返多頭 美股收低 因油價和美債殖利率走高 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JZkNYSGZiSGVEZmtBQkp2VnlWUV9QNVFPN2QzdkxxLUMzOEFyaG1vbXJ6dEdJMDFDRTNqMTdyTEVJR1p4TmRQWlRTT3JEOEdYZjUxVG54YUNnSDh10gFiQVVfeXFMTjE2NE9CY3I2enJQdm9JMms5UDd3dmd6OXlpbnN4VnVrV2dHa1dGT01QS3dwRGs0N0xtMXdBZ3FsY0V4NkExTG5CZVZJU01EbmlTZE1vM1VFdDZ1eDhMQV9uUHc?oc=5"
     },
     {
       "title": "黃金強勢反彈了！背後原因揭曉 - 自由財經",
