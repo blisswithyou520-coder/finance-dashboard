@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 02:55",
+  "updated_tw": "08/19 03:27",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 219.84,
-      "change": -5.17,
-      "changePercent": -2.2977
+      "price": 219.28,
+      "change": -5.73,
+      "changePercent": -2.5466
     },
     "AAPL": {
-      "price": 310.5,
-      "change": 4.91,
-      "changePercent": 1.6067
+      "price": 309.936,
+      "change": 4.346,
+      "changePercent": 1.4222
     },
     "TSLA": {
-      "price": 335.503,
-      "change": -3.797,
-      "changePercent": -1.1191
+      "price": 336.65,
+      "change": -2.65,
+      "changePercent": -0.781
     },
     "QQQ": {
-      "price": 717.2,
-      "change": -12.67,
-      "changePercent": -1.7359
+      "price": 717.875,
+      "change": -11.995,
+      "changePercent": -1.6434
     },
     "SPY": {
-      "price": 767.755,
-      "change": -4.915,
-      "changePercent": -0.6361
+      "price": 768.135,
+      "change": -4.535,
+      "changePercent": -0.5869
     },
     "SCHD": {
-      "price": 34.58,
-      "change": 0.29,
-      "changePercent": 0.8457
+      "price": 34.595,
+      "change": 0.305,
+      "changePercent": 0.8895
     },
     "VOO": {
-      "price": 705.7,
-      "change": -4.57,
-      "changePercent": -0.6434
+      "price": 706.08,
+      "change": -4.19,
+      "changePercent": -0.5899
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64724.76,
-      "change": 218.5061,
-      "changePercent": 0.3387
+      "price": 64727.04,
+      "change": 220.7861,
+      "changePercent": 0.3423
     },
     "ETH": {
-      "price": 1914.62,
-      "change": 2.4179,
-      "changePercent": 0.1264
+      "price": 1915.07,
+      "change": 2.8679,
+      "changePercent": 0.15
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.926,
-      "change": -0.0642,
-      "changePercent": -0.2007
+      "price": 31.924,
+      "change": -0.0662,
+      "changePercent": -0.2069
     },
     "JPYTWD": {
       "price": 0.1978,
@@ -94,22 +94,22 @@
       "changePercent": -1.5494
     },
     "EURTWD": {
-      "price": 36.997,
-      "change": -0.0278,
-      "changePercent": -0.0752
+      "price": 37.001,
+      "change": -0.0238,
+      "changePercent": -0.0644
     },
     "CNYTWD": {
-      "price": 4.7375,
+      "price": 4.7374,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4409.9,
-    "twd": 4527.0,
-    "tael": 169744.0,
-    "twdTotal": 140790.0,
-    "changePercent": -0.1788
+    "usd": 4412.9,
+    "twd": 4529.0,
+    "tael": 169849.0,
+    "twdTotal": 140877.0,
+    "changePercent": -0.1109
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYV9BX05BVC0ydnpyUTRSMGVXLUFVUXhiSU80d0lLcVp4amdKYjhQY0xsNEljQnBPZFFjUHRqaGNGS1ZLTWhIaUZINWo4Um1oRjExN0dHQm02SWxGbUVncW5UMnZQR0NBVS0tUmhudE85UTl0a01WY1hJYTlRcUlObHdKUEliQ3VVbjBTOGZqSXJBZmROZEZfWUN3MmtYNEhKZUk4REp1Qkk?oc=5"
     },
     {
-      "title": "美股收盤／費半重返多頭 美股收低 因油價和美債殖利率走高 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JZkNYSGZiSGVEZmtBQkp2VnlWUV9QNVFPN2QzdkxxLUMzOEFyaG1vbXJ6dEdJMDFDRTNqMTdyTEVJR1p4TmRQWlRTT3JEOEdYZjUxVG54YUNnSDh10gFiQVVfeXFMTjE2NE9CY3I2enJQdm9JMms5UDd3dmd6OXlpbnN4VnVrV2dHa1dGT01QS3dwRGs0N0xtMXdBZ3FsY0V4NkExTG5CZVZJU01EbmlTZE1vM1VFdDZ1eDhMQV9uUHc?oc=5"
+      "title": "台股平衡型基金 完勝大盤 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzSEE1UWpyM3NrUGs5VjlrNE9nYUJMbFdVbTFxa2tGLXVfOUZGSTdJTFVudER3dmpBTTEtaWZkcTF1NVJTMlZCeFNHMDI2V2h4WmfSAVdBVV95cUxNWWhrWnpSNy1MaFhRNzhQSHJ0WlFwSUN4X3Z4WlE5SDRlblo5Q0MwSUsxWUZ5SFV3QXZnNFg3aDNibC1PVUtYdmRQNURzUlFPSHU3aU1jMXc?oc=5"
     },
     {
-      "title": "快訊／談判快破局！美股開盤費半挫407點 台指期夜盤失守45K - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNckY4MTRqSlZVYWZQdWF4NWF6RHM2clNqTF9Ud1VtYzk0TlZ3UXlzM0VEZXNsazdnWFdlWmVOZ1FnY0tYSVpIUC1Sdl9FUzhIU2RLZEU0dHQ0M2xYZ3lkTnpxcG9sc2E2NmhseXlWVTZ6NW5jVTBONTVsSWIxLWFTa1FxTExJUjZkT0hVdGxxclZMcEo3Mm5rQU9NazBIYW9SemlsbFFHSUFkdWpoOVhRb0lxZi1Cc0J5TUx1RnF1amVhN1J1dzJHVEJ4SUVqY29RaGlnMnU3SHpoT1ZPNWw4XzBlZ1ZnOU90cVF5VmVnTDNtN3VWNXYzQ1MzQ2xWTFNqalY3MGFLQWhxMmstVmdGNXVDakNqN3kwYXpRR0E1RGpKZGRqVlhaMTN1ZFBEdDJvbW94bGFjYnFkdlpmT0RJR1dmR1dKRUp2ZFkxaDlsUVd5Wlo3RUxmS3ZhX3Zrb2pyNE52aE9mZw?oc=5"
+      "title": "債市暴跌殖利率飆升 美股週二開盤科技股大跌 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPN1BsV3lieW00OVRMVF85d0I0UUd0UVQ4Wnd3aUVHMWVVUURQMFpDWVp4TERaalJ0Sjk4UHFKa3RaRkNUVUlVUlF6b1NRZEpTZ3Y2U25YdVRjREdyZnRCbnNwRU41ZEZEd2ZjYUJnOWRlTmx6SmF3bXJlUXB3V3RLdjYxT2oxaWx0aGpnbjZzdUdqajJleHItZDVqTG1BNXJlWmNzTDUxZU9MT1cyTkxxODJ6SFNTVUhPZTIzMUI5d1BFR1M2SUI1ZWRjMDFTaml1QVFrTlBVS0pLWWYzWFhsc09OdGlqdGc1RDZmSzdfWG15ZFc2ZUc3a3VrUS1DTjVNTE0ycklQbHVyb0pZR1VmWDBud3gzVmJLNDlFWWIydGwxeFNZQ0s0MFRvNkVmZzRhd2ktR2xXYVBXbWdyWW9CZ3QyVFQ?oc=5"
     }
   ]
 }
