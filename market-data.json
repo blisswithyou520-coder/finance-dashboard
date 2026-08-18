@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/18 16:53",
+  "updated_tw": "08/18 17:31",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64211.41,
-      "change": -294.8439,
-      "changePercent": -0.4571
+      "price": 64091.6,
+      "change": -414.6539,
+      "changePercent": -0.6428
     },
     "ETH": {
-      "price": 1897.66,
-      "change": -14.5421,
-      "changePercent": -0.7605
+      "price": 1894.6,
+      "change": -17.6021,
+      "changePercent": -0.9205
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.885,
-      "change": -0.1052,
-      "changePercent": -0.3289
+      "price": 31.884,
+      "change": -0.1062,
+      "changePercent": -0.332
     },
     "JPYTWD": {
       "price": 0.1976,
@@ -94,22 +94,22 @@
       "changePercent": -1.649
     },
     "EURTWD": {
-      "price": 36.966,
-      "change": -0.0588,
-      "changePercent": -0.1589
+      "price": 36.957,
+      "change": -0.0678,
+      "changePercent": -0.1832
     },
     "CNYTWD": {
-      "price": 4.7373,
+      "price": 4.7357,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4453.3,
-    "twd": 4565.0,
-    "tael": 171195.0,
-    "twdTotal": 141993.0,
-    "changePercent": 0.8036
+    "usd": 4446.6,
+    "twd": 4558.0,
+    "tael": 170932.0,
+    "twdTotal": 141775.0,
+    "changePercent": 0.6519
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,6 +129,10 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYV9BX05BVC0ydnpyUTRSMGVXLUFVUXhiSU80d0lLcVp4amdKYjhQY0xsNEljQnBPZFFjUHRqaGNGS1ZLTWhIaUZINWo4Um1oRjExN0dHQm02SWxGbUVncW5UMnZQR0NBVS0tUmhudE85UTl0a01WY1hJYTlRcUlObHdKUEliQ3VVbjBTOGZqSXJBZmROZEZfWUN3MmtYNEhKZUk4REp1Qkk?oc=5"
     },
     {
+      "title": "外資變心終止連6買！台股摔548點 金融、航運股聯手撐盤｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNaGRsUTlpSF9uRmJUNktjRWVtS1lXSldZLXhxOGFtSTh1NmtKcG9YNkdqOWdvbVM2ZENZMFloaTlyY2RfWGhqMFpRalZoWTR3RUtLLTAxaHVQTGphTWE5emhNUXRySFhOV0o3bmxDVXR4WGR2cHhlYU44clpraDlxaWgySHloRExpUU9uVFByU2R6bENZQXBNODl2NC1hUmF0VnFJaXFqcERDSDlZV1M3TDFtZEdPNEtReUpoTG5VdnotVy12Wm9mSUhXblpKMkhlc0Q5WXJoOU00MWZ4cnN2VDRCMmphcWNpRVNyY1REOTVrSDJmNElNNDVpZDlWd1JJNGVrOWU2TF9TWGtadDRsRDVVQlF6dEJ0eWpaUDVWMXFoMGdXa0o5elc1OG1OVkJyWU1LR2V6QjlvNmlfMFRMeGtDTHJacWg2OWY2Tzl4RE4taXNweHJiNHotMVZuaFpQV0VCTU50QU5rc3c1Z0JjSVBnS1NZRFROYWhyYklPeDNDejBfZUJfM3VUcEZRUURYdDItMllCMnl6WVJYYTEzUFhBcnF3cmpqSVZLZkFnclVidFVTc3djSw?oc=5"
+    },
+    {
       "title": "台股0050，美股009814？2026海外ETF定期定額存股指南：AI帶動009805電力黑馬，這檔績效破100%成新寵！ - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPX3gzMXRYaUNsRGJfZEg1WF9BRmJhaTF6Tnd4SEd4SVVadGRxRm51dlQ5QWVCSnY2WnF5dUxodXNUcVBRcW41cWJ2MElPSEpTc2pIdURLMmVGRkpiTkZDX3dTMnp2cXctQnhjSlNGbUNiTDd5WU1IaXdRYnNHbEtsbmJtNVhfXzBmam16M2hISU1maHFiWVdPeXhEZWJrY2NvaGVuTEs4SElodmpCZkJQRnVJSWk2ak9sMmNQVnB4S3AzaTJLby01U29VUDdxbnpGVjBBS0dOeFZIcWRKVnc2S0dFaUNUbWg4OXVCMGJVV19zQ0FTaF9wUnBTUGdvZGlubmlNMGVOTDB3TGVBb3J4Ni1fMjFKLWR3V3FTLUp5WU5TMmNFMmFvMjVSdDhsLWM1M19wNUtzR3llV053ZmZQalpDNHJJWTdGdUJveHFkTXFDWTR5Mm43Q2hVQXhMUnktMXBGVmdJMjhRM0s2S2FWdWtaYUo1YVZEUm9hTE1Yc3FkTDdWVk1MdXFvUW5UX2g0M00wUHN6dmxORF9jenhRNU1LcUN5YWIyc0MxNDF6N0dXOXpja0pGZDRXeUJJeUJlLVVfRG81RmJXajFObHp1aU9XSE03NGNjdzN5MlBsajhsN3VwZUljeWZxY3p3NXJ4Y3NWSkEtanc?oc=5"
     },
@@ -137,12 +141,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOdFJjZ3B6NEZTeG95QVQ2ZzVsb3hsb1g5cHc4NnlOWlUweTk0d0pCci1XTFA4VEU5Sk5FY1JLWXVPc2VGVTBZVHFueUx3V1E?oc=5"
     },
     {
-      "title": "記憶體漲逾600％還能追？財經名嘴看好「這檔」能再翻倍：機會大到不能不把握 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOQ2pzaWFWRV84c2JoeHRweTIwSkFZeFMxYVhyNXZIeThRRXJ0VWhfUXRsaW9hMDdvSllCVlMzTGxWdGNEYWFaUUs0djRSQU82Nk5FWTMyQ0JjOEwyemw5OUpPYUN1aFdsemlrM2ZsNmdoVVg1b19YdTN0X2YyZG9rYzdaUmxjTFdZMkNPeDZBWDVTa3VzMXp5MHkyUlB6cjRlQno2WDdzY1VWajcxeVhzRzBCTFpVUkFlY0tUQURnbGxRVllFSGxHeDJKcjdBQzJLTXVDMnlDdEtxVXVDT08xSUIwdFVDQXNUYVh1MVVrak9PbDQ0VlVRRjBma19SaVJwUXVyN1dFalNtd3FOUTVYcHdoOVdFSHg1SHhkdUh3UHdueHFjVS0yQXV6dzlNSWhEeTE2R1lSdy1kVG93QVFEMlVjalRkUGZfeEpRNWlGMGdBdFB0?oc=5"
-    },
-    {
-      "title": "美私人信貸壓力創2017年新高 比特幣面臨流動性挑戰 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNOUtPbndCTUk2VU5vajdwWjZEbExnT00xckFyQ0drc3JYUGFkdVlZUEc2NXAxZmNzVEIzY2xkZTY3LXoxb3FMNC1LbkJlWFhFcHJoX090dktEQ1FkQ0UxVVd4djJVMGcxZVNITERTcFF6bU5FUFpXVEJxWF92OXJYdUJmdHFjQ3R4YWpTRlpoQ1B2TkNjN2I3TFVFeW1qd1I2Q0diS1drZXNGSlNSb0MteWgteWRaNm1kOFNNQXUyQ0YtQTR6TGdkTzBiaDd6RTFtNTZ0aVAzd1ltS1ZhOU1BY2tuWW91RDhHWmd0b1ZRLWgtTGFqY2ZYZ1U5UXFsRXpTZG1KWlJmZEJneHFzM2pWRHRrWmYwYmNMakQwbEhCdjBEdkZHOEtaTzJnSUs5RlBaUm5yS2laRE4xWEdkRXpCc081bnVLWnJsbVMtRldnYlU1Ml8yMHdNNFlRZlB5QQ?oc=5"
+      "title": "台股收跌548點！ 網見三大法人籌碼嘆：體感像倒貨千億 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQcmdWSm9vMXNIUnVidU9VLVM5YWNNSG5ZTVFsOXlwemc3Wjdmaktvd2NITFpDSTZ0Z3hLejdUV2NMVUlfd2NralZwbU9JUjRLS3hEZkNRRmdfS1VTNlJOMlpqMURMWVdNaThHUnYzYi1jYndRdml6UDZ1Mk5TV1hRd3FoYTNmcVBXNTNaU0prY19kYWhzRmVMUTN1RUQ3UGJHRnNwZmdlam5CRWozNm8tam12TnNFM1NDdnl2c2lSWkdxSzJxLVUxb3NNbFJXX0pTZ3V0RW1mR0VCUm00MUJSelhORnNEQ1FmdUF0UXNzOV94WWdqdnk2REZmamF6MWZFNGo4by1pTlFWVjA2WmNpZmJIS2ZUN2FQdkVsY3N3aEpjS2JtdXpuSmdibEp1OXlUMzRZLWJlSWpRb1p6ZmpYMkRxR2FWbk52X0E3RGlFc3ZCZzVnV21scGZTRFVLdw?oc=5"
     },
     {
       "title": "台股大翻車！1383家齊跳水 指數收跌548點 - 自由財經",
