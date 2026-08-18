@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/18 23:30",
+  "updated_tw": "08/18 23:59",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 219.55,
-      "change": -5.61,
-      "changePercent": -2.4916
+      "price": 219.775,
+      "change": -5.235,
+      "changePercent": -2.3266
     },
     "AAPL": {
-      "price": 310.48,
-      "change": 4.55,
-      "changePercent": 1.4873
+      "price": 309.65,
+      "change": 4.06,
+      "changePercent": 1.3286
     },
     "TSLA": {
-      "price": 337.385,
-      "change": -4.885,
-      "changePercent": -1.4272
+      "price": 339.815,
+      "change": 0.515,
+      "changePercent": 0.1518
     },
     "QQQ": {
-      "price": 717.66,
-      "change": -13.41,
-      "changePercent": -1.8343
+      "price": 718.55,
+      "change": -11.32,
+      "changePercent": -1.551
     },
     "SPY": {
-      "price": 767.84,
-      "change": -8.5,
-      "changePercent": -1.0949
+      "price": 768.11,
+      "change": -4.56,
+      "changePercent": -0.5902
     },
     "SCHD": {
-      "price": 34.525,
-      "change": 0.005,
-      "changePercent": 0.0145
+      "price": 34.52,
+      "change": 0.23,
+      "changePercent": 0.6707
     },
     "VOO": {
-      "price": 705.86,
-      "change": -7.75,
-      "changePercent": -1.086
+      "price": 706.07,
+      "change": -4.2,
+      "changePercent": -0.5913
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64749.61,
-      "change": 243.3561,
-      "changePercent": 0.3773
+      "price": 64797.81,
+      "change": 291.5561,
+      "changePercent": 0.452
     },
     "ETH": {
-      "price": 1914.65,
-      "change": 2.4479,
-      "changePercent": 0.128
+      "price": 1915.65,
+      "change": 3.4479,
+      "changePercent": 0.1803
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.914,
-      "change": -0.0762,
-      "changePercent": -0.2382
+      "price": 31.912,
+      "change": -0.0782,
+      "changePercent": -0.2444
     },
     "JPYTWD": {
-      "price": 0.1977,
-      "change": -0.0032,
-      "changePercent": -1.5992
+      "price": 0.1978,
+      "change": -0.0031,
+      "changePercent": -1.5494
     },
     "EURTWD": {
-      "price": 36.995,
-      "change": -0.0298,
-      "changePercent": -0.0806
+      "price": 36.997,
+      "change": -0.0278,
+      "changePercent": -0.0752
     },
     "CNYTWD": {
-      "price": 4.7377,
+      "price": 4.737,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4409.4,
-    "twd": 4524.0,
-    "tael": 169661.0,
-    "twdTotal": 140722.0,
-    "changePercent": -0.1901
+    "usd": 4418.6,
+    "twd": 4533.0,
+    "tael": 170005.0,
+    "twdTotal": 141006.0,
+    "changePercent": 0.0181
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,12 +133,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96MHFJZThjMUNHcW1McXE3X244X2FTcFkxX25EdFUyRnlycXNVSDBjaVNiNVhZNEljUFpueXhjTnkwMjVZUWxvcE1kcW1IWlFxc053dUdrMEtOdUhBMFhv?oc=5"
     },
     {
-      "title": "美股收盤／費半重返多頭 美股收低 因油價和美債殖利率走高 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JZkNYSGZiSGVEZmtBQkp2VnlWUV9QNVFPN2QzdkxxLUMzOEFyaG1vbXJ6dEdJMDFDRTNqMTdyTEVJR1p4TmRQWlRTT3JEOEdYZjUxVG54YUNnSDh10gFiQVVfeXFMTjE2NE9CY3I2enJQdm9JMms5UDd3dmd6OXlpbnN4VnVrV2dHa1dGT01QS3dwRGs0N0xtMXdBZ3FsY0V4NkExTG5CZVZJU01EbmlTZE1vM1VFdDZ1eDhMQV9uUHc?oc=5"
-    },
-    {
       "title": "SEMICON 2026 矽光子論壇前瞻：從美股大漲看聯亞、波若威、光聖等台股「七劍客」財報解析｜股市話題 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNUVVPS2NDVXN2WmJFZ3g5eWtadWVTY05jVkNEZGpSTWpSb0ZmelR1WnBSWGl3NmR0TXY2VWRVdl9UV2MyYmtiOXREWnVFSTlGd1pfT1IwUjF1ZjVJb3pBM3ZYOFY5WmlTZENBOC1McUVVM2JiM1lsalQ3RWpiaVhQV2tCY3NJSS1pdzBFWHhxcmg5QmxSZHp2Y2dYT3Y5eDg5cVBjcFZnSXNjeV9UcVFMLVhtemNHekMyRGFVTG5PcEtjZk5EM1RWVVBmN2IzbDlTOTlXN20yMnBWSFZKNkpMZXBWd3BaNzluREFiMkV3N1ZWX2JuV2F3TDlGak5nbnUwLTBYZ3BuM1hnR293Tm5HSEN6d2dndjVfdTBpZWVBYmlaZWxPdjdfMGljWGFqS1NrUUxPWUNDSTNvbFVacXVxaVlmQ3ZvWk1jelFFeWZyV3V3dzRGVHFCRFc3SUwtdktoc0ZacEJMV2tvWWtwTDlEMlRvdlQ2V0N1U25HeGJkdHRpa0xOWkJJWmtRQVkySm5JWWVIRjBiNml6ZGZZTWZ6dUxuSjdsUVpCdVUtX0NueWVlZkdNaVN6TGlUUlBNcUN1WlEzTjBhUlNXSC1wUDdQYXVqR1VWV1lTZDE5N0VXTEN0RUk0djVCR3lkZmV0dHNiMDRsLTEyVUppRmJaQnN6VjhvaGtZZ0gzbUJZOGRCaUlhNzUxVlVmQUJJNlFkXzhfUDhNNVlZR2JrSDk0UEE?oc=5"
+    },
+    {
+      "title": "美股收盤／費半重返多頭 美股收低 因油價和美債殖利率走高 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JZkNYSGZiSGVEZmtBQkp2VnlWUV9QNVFPN2QzdkxxLUMzOEFyaG1vbXJ6dEdJMDFDRTNqMTdyTEVJR1p4TmRQWlRTT3JEOEdYZjUxVG54YUNnSDh10gFiQVVfeXFMTjE2NE9CY3I2enJQdm9JMms5UDd3dmd6OXlpbnN4VnVrV2dHa1dGT01QS3dwRGs0N0xtMXdBZ3FsY0V4NkExTG5CZVZJU01EbmlTZE1vM1VFdDZ1eDhMQV9uUHc?oc=5"
     },
     {
       "title": "掌握黃金30天，權益保障不漏接 - mof.gov.tw",
