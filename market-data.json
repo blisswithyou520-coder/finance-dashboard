@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 03:49",
+  "updated_tw": "08/19 04:21",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -35,68 +35,68 @@
   },
   "us": {
     "NVDA": {
-      "price": 219.55,
-      "change": -5.46,
-      "changePercent": -2.4266
+      "price": 219.74,
+      "change": -5.27,
+      "changePercent": -2.3421
     },
     "AAPL": {
-      "price": 310.54,
-      "change": 4.95,
-      "changePercent": 1.6198
+      "price": 310.03,
+      "change": 4.44,
+      "changePercent": 1.4529
     },
     "TSLA": {
-      "price": 336.365,
-      "change": -2.935,
-      "changePercent": -0.865
+      "price": 336.87,
+      "change": -2.43,
+      "changePercent": -0.7162
     },
     "QQQ": {
-      "price": 717.9,
-      "change": -11.97,
-      "changePercent": -1.64
+      "price": 717.51,
+      "change": -12.36,
+      "changePercent": -1.6935
     },
     "SPY": {
-      "price": 767.85,
-      "change": -4.82,
-      "changePercent": -0.6238
+      "price": 767.45,
+      "change": -5.22,
+      "changePercent": -0.6756
     },
     "SCHD": {
-      "price": 34.555,
-      "change": 0.265,
-      "changePercent": 0.7728
+      "price": 34.51,
+      "change": 0.22,
+      "changePercent": 0.6416
     },
     "VOO": {
-      "price": 705.81,
-      "change": -4.46,
-      "changePercent": -0.6279
+      "price": 705.33,
+      "change": -4.94,
+      "changePercent": -0.6955
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64622.37,
-      "change": 116.1161,
-      "changePercent": 0.18
+      "price": 64577.21,
+      "change": 70.9561,
+      "changePercent": 0.11
     },
     "ETH": {
-      "price": 1913.5,
-      "change": 1.2979,
-      "changePercent": 0.0679
+      "price": 1911.7,
+      "change": -0.5021,
+      "changePercent": -0.0263
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.919,
-      "change": -0.0712,
-      "changePercent": -0.2226
+      "price": 31.924,
+      "change": 0.0737,
+      "changePercent": 0.2314
     },
     "JPYTWD": {
-      "price": 0.1978,
-      "change": -0.0031,
-      "changePercent": -1.5494
+      "price": 0.1977,
+      "change": -0.0022,
+      "changePercent": -1.0921
     },
     "EURTWD": {
-      "price": 37.01,
-      "change": -0.0148,
-      "changePercent": -0.0401
+      "price": 36.98,
+      "change": 0.0821,
+      "changePercent": 0.2224
     },
     "CNYTWD": {
       "price": 4.7374,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4409.7,
-    "twd": 4525.0,
-    "tael": 169700.0,
-    "twdTotal": 140753.0,
-    "changePercent": -0.1833
+    "usd": 4396.9,
+    "twd": 4513.0,
+    "tael": 169233.0,
+    "twdTotal": 140367.0,
+    "changePercent": -0.4731
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,8 +129,8 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1scU10Z2I1YnV5ZmRySE1xSEFiaVRoSVhHMXJCX1ZtUXc0eE1xZjJhMHlUYU5DaHNNMFNNM1k1S01yU1VOeEYwSW1XY05Qd2N3N0cxeDN3MmFHX09BVnIw?oc=5"
     },
     {
-      "title": "期貨商論壇／黃金期 氣勢轉強 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OakJWMWk3bTZIblY3VENTdHVYQmtyZU5JMWhOWlNUVlA5Szk5RUVlMzZTN1ZMYVNNNmhHaDJPV3gybnh1eDEwVkRCNDRvLUhD0gFWQVVfeXFMTlQ3RWZOekdwVTZlbXZ0WHJQR05JWXBCRTBpTHVMa0pQamxXNEk4OG1KWTRabVlMYkhxc1lJdUNOaVV3MmtzQk9yVldtRmxFQkQwYUp6Snc?oc=5"
+      "title": "美股收盤／費半重返多頭 美股收低 因油價和美債殖利率走高 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JZkNYSGZiSGVEZmtBQkp2VnlWUV9QNVFPN2QzdkxxLUMzOEFyaG1vbXJ6dEdJMDFDRTNqMTdyTEVJR1p4TmRQWlRTT3JEOEdYZjUxVG54YUNnSDh10gFiQVVfeXFMTjE2NE9CY3I2enJQdm9JMms5UDd3dmd6OXlpbnN4VnVrV2dHa1dGT01QS3dwRGs0N0xtMXdBZ3FsY0V4NkExTG5CZVZJU01EbmlTZE1vM1VFdDZ1eDhMQV9uUHc?oc=5"
     },
     {
       "title": "黃金強勢反彈了！背後原因揭曉 - 自由財經",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxQWHJvajd2bzhkNXh5dFFIbHdydXVldXZYYVhvWVRqX0hqYVFJck45WHpUOE50eldQMENSMjlGbF9iLTEtZzNaZkkxM2xMUmpuVS1FVFVlS0Z4MGJ0RTJwd1RJbU04eHR4bWtybWhrVU1vTkFQOVBZdnFjVWlaWTFTNlJJZE9HX2tKUHNjek9Ob2lqM3ZJT3N5ekktSEplRjUtU0dKdnpQX2dFOF9yaEJESkNHSFRONUpHWGtlNk8tcTFRLV9TRGhwcXBJLVlkRzVVUWlMTnNkVXI1ZVhLS05JQmtXU2NKZ2g2Y3pha2hlbl9CWVQwazROMjZrLXlDOVVvVjlpVjJrX1RISTV2OG9PcTdtWHN5MlR0MHFvTjc4WW5SSjdkYXFIcTMxbVZfOUZ4cm9OTHNxSjRYMzlaNHY2d21UUXVvRzRlZzlXVlE0c2M0dW16eUpXeUtwUy1oTlh6US1KakhUZE9PRThMSHJuWlNBaDRKRFdhd043ekVLNnY0MGhHcmkyWFdHMVlJbVlCOGxESVZnSWZLRXgtTnhqSE50SlJfUkp6cW1GVmtGT3phRzR2U3p1WHdlVE5oTWt2emxMalJLWXd5aVVLQ0JTeU1XM1RTZEtwdWJaTTU4YlEzaTdTRlB2a0N4cUNmVWRsRnNXLXhPNTIxbWdMSzdGMkx1b1JSaUNVZEdsYk1XbHQ?oc=5"
     },
     {
-      "title": "債市暴跌殖利率飆升 美股週二開盤科技股大跌 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPN1BsV3lieW00OVRMVF85d0I0UUd0UVQ4Wnd3aUVHMWVVUURQMFpDWVp4TERaalJ0Sjk4UHFKa3RaRkNUVUlVUlF6b1NRZEpTZ3Y2U25YdVRjREdyZnRCbnNwRU41ZEZEd2ZjYUJnOWRlTmx6SmF3bXJlUXB3V3RLdjYxT2oxaWx0aGpnbjZzdUdqajJleHItZDVqTG1BNXJlWmNzTDUxZU9MT1cyTkxxODJ6SFNTVUhPZTIzMUI5d1BFR1M2SUI1ZWRjMDFTaml1QVFrTlBVS0pLWWYzWFhsc09OdGlqdGc1RDZmSzdfWG15ZFc2ZUc3a3VrUS1DTjVNTE0ycklQbHVyb0pZR1VmWDBud3gzVmJLNDlFWWIydGwxeFNZQ0s0MFRvNkVmZzRhd2ktR2xXYVBXbWdyWW9CZ3QyVFQ?oc=5"
+      "title": "快訊／談判快破局！美股開盤費半挫407點 台指期夜盤失守45K - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNckY4MTRqSlZVYWZQdWF4NWF6RHM2clNqTF9Ud1VtYzk0TlZ3UXlzM0VEZXNsazdnWFdlWmVOZ1FnY0tYSVpIUC1Sdl9FUzhIU2RLZEU0dHQ0M2xYZ3lkTnpxcG9sc2E2NmhseXlWVTZ6NW5jVTBONTVsSWIxLWFTa1FxTExJUjZkT0hVdGxxclZMcEo3Mm5rQU9NazBIYW9SemlsbFFHSUFkdWpoOVhRb0lxZi1Cc0J5TUx1RnF1amVhN1J1dzJHVEJ4SUVqY29RaGlnMnU3SHpoT1ZPNWw4XzBlZ1ZnOU90cVF5VmVnTDNtN3VWNXYzQ1MzQ2xWTFNqalY3MGFLQWhxMmstVmdGNXVDakNqN3kwYXpRR0E1RGpKZGRqVlhaMTN1ZFBEdDJvbW94bGFjYnFkdlpmT0RJR1dmR1dKRUp2ZFkxaDlsUVd5Wlo3RUxmS3ZhX3Zrb2pyNE52aE9mZw?oc=5"
     }
   ]
 }
