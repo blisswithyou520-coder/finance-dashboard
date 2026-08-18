@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/18 10:28",
+  "updated_tw": "08/18 11:23",
   "taiwan": {
     "2330": {
-      "price": 2390.0,
-      "change": -10.0,
-      "changePercent": -0.4167
+      "price": 2380.0,
+      "change": -20.0,
+      "changePercent": -0.8333
     },
     "2454": {
-      "price": 3935.0,
-      "change": -115.0,
-      "changePercent": -2.8395
+      "price": 3915.0,
+      "change": -135.0,
+      "changePercent": -3.3333
     },
     "2317": {
-      "price": 251.5,
-      "change": -3.5,
-      "changePercent": -1.3725
+      "price": 250.5,
+      "change": -4.5,
+      "changePercent": -1.7647
     },
     "0050": {
-      "price": 105.65,
-      "change": -0.8,
-      "changePercent": -0.7515
+      "price": 105.3,
+      "change": -1.15,
+      "changePercent": -1.0803
     },
     "00878": {
-      "price": 32.43,
-      "change": -1.44,
-      "changePercent": -4.2515
+      "price": 32.36,
+      "change": -1.51,
+      "changePercent": -4.4582
     },
     "00919": {
-      "price": 30.2,
-      "change": -0.14,
-      "changePercent": -0.4614
+      "price": 30.24,
+      "change": -0.1,
+      "changePercent": -0.3296
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64113.07,
-      "change": 1294.4177,
-      "changePercent": 2.0606
+      "price": 64050.09,
+      "change": 1231.4377,
+      "changePercent": 1.9603
     },
     "ETH": {
-      "price": 1896.89,
-      "change": 22.947,
-      "changePercent": 1.2245
+      "price": 1888.8,
+      "change": 14.857,
+      "changePercent": 0.7928
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.809,
-      "change": -0.1812,
-      "changePercent": -0.5664
+      "price": 31.813,
+      "change": -0.1772,
+      "changePercent": -0.5539
     },
     "JPYTWD": {
-      "price": 0.1972,
-      "change": -0.0037,
-      "changePercent": -1.8481
+      "price": 0.1973,
+      "change": -0.0036,
+      "changePercent": -1.7983
     },
     "EURTWD": {
-      "price": 36.866,
-      "change": -0.1588,
-      "changePercent": -0.429
+      "price": 36.869,
+      "change": -0.1558,
+      "changePercent": -0.4209
     },
     "CNYTWD": {
-      "price": 4.7217,
+      "price": 4.7246,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4460.1,
-    "twd": 4561.0,
-    "tael": 171048.0,
-    "twdTotal": 141871.0,
-    "changePercent": 1.8195
+    "usd": 4457.1,
+    "twd": 4559.0,
+    "tael": 170954.0,
+    "twdTotal": 141794.0,
+    "changePercent": 1.751
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxQajh2MWwzRUZiWjVhTWZ6VUFiZ0xsUTRCVkVQZ0NNVWJhbFVZa1FpSEdjRUhSWldlTzZwMThWaGlTZjFkb21xNVZwMnl0SzctaFFsTm9XTHBKeFpmMkcxMVV3TUM4elVwNE1GNTEtT2Z2NmhmbzRtd0UtZVV0UWpyd3dxZ2NWSWxTZ0xmT2tMQVVRU3A5WDZvOXFtaUdVcGpjcnNDX0pQd243cWtIOVBiN1Z4NTgtSzFTdmdQcHFUSG1TUlhybmlKN2xRN1RtVHB1cVBZUThkU3lYbUhzMlZZTzBrQmV3alhxdzdyNTZ3SG5yeW83Wi1GOElfTDJuVUtpNzlFMjZBcE5KRjF1TnVVNFlSNlQwTzlPdnlSTGFGMXdEQnBjbnBNOFRPTTdfelhldG1TdG9vczA3UnBQZjVQR245clBlVGRObFEycjFqckdCdkpJeU4xVk4ydDlkdnNtbEJwVVpZOHBWV0hUaDJyZ085eHVSTm5qeW5hNHdPazJkZGZxdlVuRmZvZzBjN3JvRXhabjNKWTBuVE1LNk9IYVV5RDA0SFRJbU1Md0duYVd6WTRPcmJON2NvejRPVjZ4eUZ3bFFDVHR4SlhoR05ObFNGcG0?oc=5"
     },
     {
-      "title": "台積電漲15元至2415　台股漲逾200點至46064 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tZF9UR2dUX3VMc3BOc0g0cXMwbjFsWG5QV0RYY1B0dndwbGFDczk1ZVB1TFRGTUlHVHl0WEQwN3JNUXZQandlZ08zVnk3aVBJMnfSAVBBVV95cUxNeDJkOUJMZFdwVUFSUWdkX2JidzN2ZU1uRWlsWkgwbmZ4ZURrTFpERzVBZ3FKZnpqMGowSWxLSEt4N05fV1JxV2hHRGhmRWxhaw?oc=5"
-    },
-    {
       "title": "通膨環境黃金及其他大宗商品為投資配置優選- 新聞 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZUlhVFRmMkZ2NWVBQmpWeENhRHBLa0tGWmMxTFh5YnlSS29ZZi1PSkR5QmpQWEZjcDJ0bUFIR3VKaXFNNWdyZG9TZG1SNFNDeERXM0c5cVgyVUdHWEpzdnFLNmN1ZVR6dWFBalNfTEpReVdhQVE5bzk3Q1JSU3dnZHJGU2gwdWF4Vm93V2lxdmdYdw?oc=5"
-    },
-    {
-      "title": "台股開高漲逾200點　重返46000點 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RRV9XYmR0ZHcyRmZvLU8tRWM1WGtsNG50SHR6eGR3VjhLUlhKMHBPY1YzWGhMcktKaWFOdXJyRUduSnhPLUJZVElFOW5acG5RTWwyV0FYTlZMZ9IBX0FVX3lxTE5wRXA1eEVvanR2WUdxeVNpWlczVFF0WXNLNFlNOGozYl9GcXJvdGpITHFsSTM1V1c3Ym9JS3FHREs5LTg5dzI2Yy03Q1J4cHZrVzVtZW1tWmFLSnRGNUR3?oc=5"
     },
     {
       "title": "黃金強勢反彈了！背後原因揭曉 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96MHFJZThjMUNHcW1McXE3X244X2FTcFkxX25EdFUyRnlycXNVSDBjaVNiNVhZNEljUFpueXhjTnkwMjVZUWxvcE1kcW1IWlFxc053dUdrMEtOdUhBMFhv?oc=5"
     },
     {
-      "title": "快訊／美股開盤兩樣情！那指費半雙雙走揚 台指期夜盤漲破46K - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPVlRvLURCTnhmTzNMcnFWLUYyTHFBY3lvX1R6d2h0MGVnRWt0bUNTT3VwV1FGeU5ILTFBalNCaEVHcEVlN1hlRG9GTDU5RnZTb1IwT3N0eXZ3SFF1Ylh6SjBuMGJkN0h5cG1BMVB6YnM5SVhGVXFqVzVNZHZmN3pKUFdjaUpRam0tUFpfaThkUUx4c01mVnBLQWFKdlYtVUdHOWdYZkJHYTEzRE5yT21vR3lHYnYydmQ4TExmRlhrQk8wb0p6MmMzTG1sWVlaYkl5UDRMS0xvRzBmTHFwWHNkQ1dsOC0tRm41WkYzN2ZKeGVVWWFxd056WTltVTVaenN4UlIxdUEtZGdNLXRsYXdiQkRvNnBrNUNMbzdNTlNGYlpNUTE3VHJMSEtoVXlDZFR5b2JBeW44dTF2amEzZ0Q1TG1zY1N4RzhhMVFuTVZxd1Z1M0JicU44UEdLTFAzOFpKNXd3dC1pODg3UlRXYXk3ZHdQU1ZwWGtBTENF?oc=5"
+      "title": "台股開高漲逾200點 重返46000點 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wRUVqRGF4elZVN01iOFBNWVZXckJOZHlvaHdEYVhwekU1dVBPT1U1M3hSWG9hYU0zU1AxNi1NZ1dLdjFqS0xSMHJSMzg4YU96MmJnTGFqcEFiWTU3ZXc?oc=5"
     },
     {
-      "title": "〈美股早盤〉美伊緊張局勢壓抑風險偏好 主要指數漲跌互現 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xTFZDc2c1eF9HVVYyTVFsTmswRndSUzk2MGFlVnhHREdGNmlkQzhQbWpyVXdraEx3SDRrNXd5U2VxbkFRMndEVGM4Mko1QWM?oc=5"
+      "title": "美股榮景即將變調？歷史顯示中期選舉年「最危險時段」將至 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyOGZreGxNMnZkOFRTWV9kN2N6WlVUdWoxOXByMnBRZXdEX1A3NGZ6VXNpTGM0T0NoWkNvZXh4Wk8xTVM1TFVXSWQtOA?oc=5"
+    },
+    {
+      "title": "台股早盤漲逾200點後陷震盪！台積電開2415元、漲15元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOMDRZOVVLb3BoTDNzeXhGNnN6eWxydVhFLXlsTXk1YTJTNU5yWHdvRXBvLXRGQS1nLW1BUzhrUmpjTEt5YURveHNFUG5mUVVrNDk3RDByTFBmM0tCRkFKRmpVanZINnZnclBERF9MdFJDUk1nNGFBX09mVmhCYnBPaUxjR0FEdVl4YVMxb2dRSkFaU1N5X0JUNzhXcjlhczMybU05T0hZNWd0S3Z3V3NSNHFvZ1gtZ3ZzOHJtQmZ0VU1SZU1takp2Ry1iRHFXNG5yS2hGM2E0cHdkNm91Y01TVzF4OE0yS1AwTUN3LXVHR3k1YTMzaDMtNWVfaVptOFlzZDFHZU12aG9NV0dJTUZYWUljNzV4dnhlWEZMMTkxQWJzX2cydTJpUGhtUGNDNHFhUE1oczBmSWhZM0JldjVyN0d3?oc=5"
+    },
+    {
+      "title": "《貴金屬》美元走弱 COMEX黃金上漲0.8% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNamdSR2l5aEdQU1FtMWQ2TEJhYVVFeGZrVkx0bkJROTVfNmdvaDlYZExXT3hvZDI0empXcWszd0ZRdWdHR0RFcnZpdHpNSkI0N3BobWpTN3NqdEtIMERnVVlZU3ZUOGVkVmZhZV9RRjA1Z0RNakNBM2FvMVkxWWgtdTZjUVRLOVNBQ0RiMHcwWDUxZw?oc=5"
     }
   ]
 }
