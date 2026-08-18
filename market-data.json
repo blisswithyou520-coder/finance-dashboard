@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 06:21",
+  "updated_tw": "08/19 06:50",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64556.44,
-      "change": 50.1861,
-      "changePercent": 0.0778
+      "price": 64581.82,
+      "change": 75.5661,
+      "changePercent": 0.1171
     },
     "ETH": {
-      "price": 1913.6,
-      "change": 1.3979,
-      "changePercent": 0.0731
+      "price": 1912.47,
+      "change": 0.2679,
+      "changePercent": 0.014
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.889,
-      "change": 0.0387,
-      "changePercent": 0.1215
+      "price": 31.884,
+      "change": 0.0337,
+      "changePercent": 0.1058
     },
     "JPYTWD": {
       "price": 0.1976,
@@ -94,26 +94,59 @@
       "changePercent": -1.1422
     },
     "EURTWD": {
-      "price": 36.96,
-      "change": 0.0621,
-      "changePercent": 0.1682
+      "price": 36.956,
+      "change": 0.0581,
+      "changePercent": 0.1574
     },
     "CNYTWD": {
-      "price": 4.7337,
+      "price": 4.7318,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4395.3,
-    "twd": 4506.0,
-    "tael": 168986.0,
-    "twdTotal": 140162.0,
-    "changePercent": -0.5093
+    "usd": 4386.9,
+    "twd": 4497.0,
+    "tael": 168637.0,
+    "twdTotal": 139872.0,
+    "changePercent": -0.6994
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "美股集體跳水！美伊衝突、美債殖利率創19年高雙面夾殺 台積電ADR同步重挫3.75% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQZkRCTVpjQThyT3I4N25qQ3pSOVBsZzlLNi1BbTYyejQ1SGNGaVh2Y2wtckVBREpRdTJLeDlqX1JoY0RnR3B5UWpWTzY1S0dMWUF6ZjNQZnFYQTZqRDk5T3FPTHZ4UWhMbjNjX0RIZFg5XzVzUmhtTUU4bEZHSUVvTUw5Y3I0NE9FOGZNVFJPRjR2bzZ4M2hFeUFXMm1JWnk4N0JYSGtORUhjeDFhbTYzNk1qYlN5QjlQX1MxSGQ3eURLdmcweEVmWEw4aDJ1RTNWc0VYMm1xM2liMGc0TGRmb2NzdkJuOTFPWFAzOFVmRERjS1dNUlZQaTFJNkRKaXc4SFhDYjJvRjFDQUdZWGp3QjVvWVZUamp5Q0IxXzZpLVBQRzRvTWFYWUt5WGQ3WEJJc2YzTnJETU8zOFBEaXVzcDNPOC1EUV9mdVp3TzB1dVctM1ZVV1A0eU9neURjQ0JOOXNLNDJ2U19BbUtrTHVvc2lZYTZpVnpJOWhrb3MxY3cxOHk5WHV2RVh5OE56NThPTEF5SWx5c204ZFdCQVNfaVV4S0ZzeE5rRlE5V3hsMlVJZUJ3UURCTzl4SDYtbEl5MG9lczBRTQ?oc=5"
+    },
+    {
+      "title": "中東局勢緩和希望渺茫　美股收黑 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LWHdFRldTUGJPVjIxME1FOGptN2VUTFdsSDB0Xzl4WWM3czRxeldmeHVvRERheE1paC1rb2J2LUlUX0lpT1FMNkRHYnd0V1JaODZEbmFGTG5leTFD0gFiQVVfeXFMUE1uQTlFbXdCenFEbm8wWGVQaGdPSmJBWjJWT2I0cDNfM20wNHE4NF9jRW44US0yMzN2VnM4Ri1CRUotajFJZW0zQU1vZUJoeldMa25uQ2tZeEp4bHlweW5jZ1E?oc=5"
+    },
+    {
+      "title": "〈美股早盤〉油價與美債殖利率雙殺！主要指數開低半導體股成重災區 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43WW5nMmttTW9SMGxHc01xRHlqeTA2SnBsTXctektjbWZYZ1hWRmI5SkhpQTNoWXhkTFNta2FmU2cyYVU1RHJkYmdPalJoMHM?oc=5"
+    },
+    {
+      "title": "兩大魔王利空來襲！美股三大指數開盤挫低科技股一片哀嚎- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1scU10Z2I1YnV5ZmRySE1xSEFiaVRoSVhHMXJCX1ZtUXc0eE1xZjJhMHlUYU5DaHNNMFNNM1k1S01yU1VOeEYwSW1XY05Qd2N3N0cxeDN3MmFHX09BVnIw?oc=5"
+    },
+    {
+      "title": "美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ud2VELXM5QWRtRHp2SW5nRi1HbkRCMldHMjBUZDBCZ3REV1EtQ3FGN29YNmY3M1E5bTd5Vlp2cVJYOGJCblQxQ09aVHlBV3NfNWJaN2huay1NSDhETXVB?oc=5"
+    },
+    {
+      "title": "美股早盤／AI 發債搶錢 美長債殖利率衝19年高 費半瀉3% - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tUXA2c3N3SS1NWU42UlhtMEkxTUExNGk2TW92T2NjUkFreTliTmpXbmRwd093enhVWDMwQl9FSHN5M2FfelRsVTZaYXI4RnhPYWxXcEZLSVdocTA10gFiQVVfeXFMT0hDdW5jNXZ5ckd0RWRSRmdoWnlQU3hQM1hQbVB0UDM4V18yZGNKTENoX1o1X0ZndXZUS1ZFckI5MjlWdnBHRllfZFV4bE1aYjg5LWJIQl8weDA5VUVnc2wwTnc?oc=5"
+    },
+    {
+      "title": "快訊／談判快破局！美股開盤費半挫407點 台指期夜盤失守45K - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNckY4MTRqSlZVYWZQdWF4NWF6RHM2clNqTF9Ud1VtYzk0TlZ3UXlzM0VEZXNsazdnWFdlWmVOZ1FnY0tYSVpIUC1Sdl9FUzhIU2RLZEU0dHQ0M2xYZ3lkTnpxcG9sc2E2NmhseXlWVTZ6NW5jVTBONTVsSWIxLWFTa1FxTExJUjZkT0hVdGxxclZMcEo3Mm5rQU9NazBIYW9SemlsbFFHSUFkdWpoOVhRb0lxZi1Cc0J5TUx1RnF1amVhN1J1dzJHVEJ4SUVqY29RaGlnMnU3SHpoT1ZPNWw4XzBlZ1ZnOU90cVF5VmVnTDNtN3VWNXYzQ1MzQ2xWTFNqalY3MGFLQWhxMmstVmdGNXVDakNqN3kwYXpRR0E1RGpKZGRqVlhaMTN1ZFBEdDJvbW94bGFjYnFkdlpmT0RJR1dmR1dKRUp2ZFkxaDlsUVd5Wlo3RUxmS3ZhX3Zrb2pyNE52aE9mZw?oc=5"
+    },
+    {
+      "title": "比特幣波動率降至周期低點，交易員轉向AI股票和預測市場 - cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PZDFNYzFTVmhzMkU0S3g4WWtOeWh4YlVVSm9JbVF2Yk8wckxVbXQ2X0hNVE9GbUI5QXU0WnJ0SHUyTkJ6eF9UWE1aNA?oc=5"
+    }
+  ]
 }
