@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/18 13:27",
+  "updated_tw": "08/18 13:55",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -8,9 +8,9 @@
       "changePercent": -0.8333
     },
     "2454": {
-      "price": 3905.0,
-      "change": -145.0,
-      "changePercent": -3.5802
+      "price": 3885.0,
+      "change": -165.0,
+      "changePercent": -4.0741
     },
     "2317": {
       "price": 249.0,
@@ -18,14 +18,14 @@
       "changePercent": -2.3529
     },
     "0050": {
-      "price": 105.0,
-      "change": -1.45,
-      "changePercent": -1.3621
+      "price": 104.9,
+      "change": -1.55,
+      "changePercent": -1.4561
     },
     "00878": {
-      "price": 32.41,
-      "change": -1.46,
-      "changePercent": -4.3106
+      "price": 32.38,
+      "change": -1.49,
+      "changePercent": -4.3992
     },
     "00919": {
       "price": 30.34,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64155.64,
-      "change": 1336.9877,
-      "changePercent": 2.1283
+      "price": 64147.85,
+      "change": 1329.1977,
+      "changePercent": 2.1159
     },
     "ETH": {
-      "price": 1894.54,
-      "change": 20.597,
-      "changePercent": 1.0991
+      "price": 1894.11,
+      "change": 20.167,
+      "changePercent": 1.0762
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.845,
-      "change": -0.1452,
-      "changePercent": -0.4539
+      "price": 31.856,
+      "change": -0.1342,
+      "changePercent": -0.4195
     },
     "JPYTWD": {
-      "price": 0.1972,
-      "change": -0.0037,
-      "changePercent": -1.8481
+      "price": 0.1973,
+      "change": -0.0036,
+      "changePercent": -1.7983
     },
     "EURTWD": {
-      "price": 36.897,
-      "change": -0.1278,
-      "changePercent": -0.3453
+      "price": 36.912,
+      "change": -0.1128,
+      "changePercent": -0.3048
     },
     "CNYTWD": {
-      "price": 4.7294,
+      "price": 4.7308,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4448.9,
-    "twd": 4555.0,
-    "tael": 170811.0,
-    "twdTotal": 141675.0,
-    "changePercent": 0.704
+    "usd": 4449.1,
+    "twd": 4557.0,
+    "tael": 170878.0,
+    "twdTotal": 141731.0,
+    "changePercent": 0.7085
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xYlZRRExHejVPSFNhb0Fuck5uQzhEYzhVVkZjQk9WZ0NvNWRpMHpDSVdYdjVTUFlKMFotVzJZODBGQkdtWm5sdzZRSUZUdzZtQkHSAVBBVV95cUxOTl8yWjRfdnliOVMzTERYYUNhOV9pZ2lMQnJveEFhX1pCa3ZRWVBwNDQxeUhSV0MteWMxY3hCY0ZXS0FVcjJTU1VYbGkzSGtPNQ?oc=5"
     },
     {
-      "title": "台股衝上4.6萬點杜金龍竟「砍台積電」！持股水位9成降至5成 點名這2大黑馬接棒 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxPM2YzdkRPUFM2NUQydU1Xa2JJVm1pVGViYWFUUFV0akJpZ2hNak1TazdsUDExMkxMN2JndjZjMWJGMjdPWUZlRldHSDZ2aXNTRUtYUzRHaTVyQU8wRThldDNxUkVNSWlValBoelJ0WG9uVmdSWWQwMlhvY2dENGF0MTgxMlk4TkZQU3FGQVdmVWdtQ3BPT05LYVN2WGx4R2pwSURYU2NySWo3X1E5cHNqVWFMdE0yd0NnR25DUnVTYm5VUU5sdzhHUG9pai1zYktDZFNoQkFEMHlqdVdqRGV6RkRxeTYzazJoZDJZbTkzUjZMdDFBd3EyblNkOXcxNHpJMmk0czVEVW1MNWFoX2Z2cWFVNnZnUkhlSWNyV1ZuSU1BRWdEVEh6X0dxR21aM3RucC1kNFFHTDJodklyRWl1ZXBKRFBLV1ZIX09hVVZnYnpzU3NIS3Rmc01UWWpfVS0xbGZ6cFFUbkIzdTRIb2Q0QmxDU0hVRHV2aXU1TTR0TmUwWndjbllRZ0FENnpZdXRGUGdGd2VBeFFSdWJVbzdIdDdJajF0bjQtS3NweURxTGdfQjlnbEs3ZngxcVJZMnQxZG9YZ2xtRGRmTUtoZ2VJ?oc=5"
+      "title": "美股季線關卡振盪時可關注的標的；輝達融資與財報搶先看｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNRVNFV3hhWUNmemMyUGFseHdZaFRTUjRFNWx4UjNZN0dtNzVCVXZ5ekU2ZnlRUnllQS1EQlotd2x6aDQ5cDJleGQwMENRR2dwZHhDbkl2aGUyN3lHeGg4cDBNR0hpUXRISWlXVll3a01aR01JNEc0TTh1UHBFMDNtVHYyQnhwUEVrUHBwR0pSRG1BejhzTklkdGVqRkNGVXlXZGI1clRqYURqVDVEX0FVRlhCN21NZFBwemhyNV9SejNOTFBxWnV4Zm1qX1VOM0x5ZlBLazR3SjhYcGhpSzdKcWFMSk1hUl9FaHk0NkpxY29fMGFqaTVIel94bmk3MlhxR1hkMXFkNEpqZG9TTzVMQlVqZU5CUmhSNktpMXFhS3JkQ3RZYWdCTURIbHpXVlpYRjYwcUl5ZjlUYmQ3R3RVRFJUaXFNbklXX3FYQnNtZkVlYzBNLVkzbU1pZ241eW9WNDVkamRFVFVjQUV1X1dfZGpTOHhWSVNkRlJnaFFER2NVX2JTSnpWMmFvSWNPaUlrZDZwTWVmWUJZTE9HOGdyNl9pbjNEQW5nMHVLWDYwV2R3bFJSOVdLcg?oc=5"
     }
   ]
 }
