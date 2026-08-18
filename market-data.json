@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/18 15:24",
+  "updated_tw": "08/18 16:02",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64251.68,
-      "change": -254.5739,
-      "changePercent": -0.3946
+      "price": 64141.11,
+      "change": -365.1439,
+      "changePercent": -0.5661
     },
     "ETH": {
-      "price": 1899.36,
-      "change": -12.8421,
-      "changePercent": -0.6716
+      "price": 1896.73,
+      "change": -15.4721,
+      "changePercent": -0.8091
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.902,
-      "change": -0.0882,
-      "changePercent": -0.2757
+      "price": 31.896,
+      "change": -0.0942,
+      "changePercent": -0.2945
     },
     "JPYTWD": {
       "price": 0.1975,
@@ -94,22 +94,22 @@
       "changePercent": -1.6987
     },
     "EURTWD": {
-      "price": 36.96,
-      "change": -0.0648,
-      "changePercent": -0.1751
+      "price": 36.958,
+      "change": -0.0668,
+      "changePercent": -0.1805
     },
     "CNYTWD": {
-      "price": 4.7383,
+      "price": 4.7371,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4452.6,
-    "twd": 4567.0,
-    "tael": 171259.0,
-    "twdTotal": 142047.0,
-    "changePercent": 0.7877
+    "usd": 4455.2,
+    "twd": 4569.0,
+    "tael": 171327.0,
+    "twdTotal": 142103.0,
+    "changePercent": 0.8466
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JZkNYSGZiSGVEZmtBQkp2VnlWUV9QNVFPN2QzdkxxLUMzOEFyaG1vbXJ6dEdJMDFDRTNqMTdyTEVJR1p4TmRQWlRTT3JEOEdYZjUxVG54YUNnSDh10gFiQVVfeXFMTjE2NE9CY3I2enJQdm9JMms5UDd3dmd6OXlpbnN4VnVrV2dHa1dGT01QS3dwRGs0N0xtMXdBZ3FsY0V4NkExTG5CZVZJU01EbmlTZE1vM1VFdDZ1eDhMQV9uUHc?oc=5"
     },
     {
-      "title": "黃金強勢反彈了！背後原因揭曉 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96MHFJZThjMUNHcW1McXE3X244X2FTcFkxX25EdFUyRnlycXNVSDBjaVNiNVhZNEljUFpueXhjTnkwMjVZUWxvcE1kcW1IWlFxc053dUdrMEtOdUhBMFhv?oc=5"
-    },
-    {
       "title": "掌握黃金30天，權益保障不漏接 - mof.gov.tw",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYV9BX05BVC0ydnpyUTRSMGVXLUFVUXhiSU80d0lLcVp4amdKYjhQY0xsNEljQnBPZFFjUHRqaGNGS1ZLTWhIaUZINWo4Um1oRjExN0dHQm02SWxGbUVncW5UMnZQR0NBVS0tUmhudE85UTl0a01WY1hJYTlRcUlObHdKUEliQ3VVbjBTOGZqSXJBZmROZEZfWUN3MmtYNEhKZUk4REp1Qkk?oc=5"
     },
     {
-      "title": "全球最大主權基金買了哪些台股？333檔口袋名單曝光 國巨持股市值暴增426%｜看圖說股市 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxOVGg2Qm44UWNRMDQ3UDNFTjUxUTdBV0JnWmNrN3RNRUFfRk44amdNMXBtWnhKU3ZtWnkydGFLaERsRDdoZ082ZVRtU0EyMzMzd1J0OFJES0FhRnlNVzJreW8wZm13T2ZaRXA3OU5jVTM3SWh3cFJPSFdXYTBEWndoYmNENkVxX1d5VHh3Z195UTdlcUlBOFJ0Z1ZjWEd2dTk0QV83Sks2NjN4RWpZR3JfRjRJTkJWU29iMFZMYXg2NFdDNXdLTjRFcWpvaUlta3RKZmhGR1lUbmVQdk9zbmxBWU1IT29rWnpuZEZPdFdSbGRHSWFnNmxGM2wwbTVmOUtoZHhZZS1IOW9weTBtSkhEYWJNeE1lS1JwQUc4RXA4RVVFanNiajk2TjZoQ1RONDVVM01FS0VqZDRkaDZoVGFBMjFkSU1jb1Bwd0RZSFlueUN5M0JyUmNuUjdYMTNBSEJId0RhM3Y3N1dGTWhMaThxX2o3SFpvWDhCMlBLNUt1Q2pybG5IQ0d4SzQzQ18tY0x0M3dzVEZvbTE3Y1FQX181SFR2c0x2cnU3dnV6WnZ1TzAwWGM5UHpBMGY5RUZFNHM4SVlqV2hyaXZCVjF0dnFDUzBZUDU5UGhSTGpsaGdIaFQwaXlYVXFqakpyZktXelpZVS16QTRJSGJETHdULUNjQ3pEdWVFTEJvX29pNGpyYmhpU2ZK?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉美伊60天談判大限到！油債雙重壓力來襲 那指收黑 費半逆勢勁揚 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOdFJjZ3B6NEZTeG95QVQ2ZzVsb3hsb1g5cHc4NnlOWlUweTk0d0pCci1XTFA4VEU5Sk5FY1JLWXVPc2VGVTBZVHFueUx3V1E?oc=5"
+      "title": "黃金強勢反彈了！背後原因揭曉 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96MHFJZThjMUNHcW1McXE3X244X2FTcFkxX25EdFUyRnlycXNVSDBjaVNiNVhZNEljUFpueXhjTnkwMjVZUWxvcE1kcW1IWlFxc053dUdrMEtOdUhBMFhv?oc=5"
     },
     {
       "title": "台股0050，美股009814？2026海外ETF定期定額存股指南：AI帶動009805電力黑馬，這檔績效破100%成新寵！ - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPX3gzMXRYaUNsRGJfZEg1WF9BRmJhaTF6Tnd4SEd4SVVadGRxRm51dlQ5QWVCSnY2WnF5dUxodXNUcVBRcW41cWJ2MElPSEpTc2pIdURLMmVGRkpiTkZDX3dTMnp2cXctQnhjSlNGbUNiTDd5WU1IaXdRYnNHbEtsbmJtNVhfXzBmam16M2hISU1maHFiWVdPeXhEZWJrY2NvaGVuTEs4SElodmpCZkJQRnVJSWk2ak9sMmNQVnB4S3AzaTJLby01U29VUDdxbnpGVjBBS0dOeFZIcWRKVnc2S0dFaUNUbWg4OXVCMGJVV19zQ0FTaF9wUnBTUGdvZGlubmlNMGVOTDB3TGVBb3J4Ni1fMjFKLWR3V3FTLUp5WU5TMmNFMmFvMjVSdDhsLWM1M19wNUtzR3llV053ZmZQalpDNHJJWTdGdUJveHFkTXFDWTR5Mm43Q2hVQXhMUnktMXBGVmdJMjhRM0s2S2FWdWtaYUo1YVZEUm9hTE1Yc3FkTDdWVk1MdXFvUW5UX2g0M00wUHN6dmxORF9jenhRNU1LcUN5YWIyc0MxNDF6N0dXOXpja0pGZDRXeUJJeUJlLVVfRG81RmJXajFObHp1aU9XSE03NGNjdzN5MlBsajhsN3VwZUljeWZxY3p3NXJ4Y3NWSkEtanc?oc=5"
     },
     {
-      "title": "《台股盤後》電子股熄火 指數翻黑收跌548點-新聞內容-基金 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3UxQzNlejlPekZpOGtteGhMSlJUUXo5N2FGX1UwVHNBdFF2SzVTQmhMOG03d3NIVG1YdjdPM0V4dy1zaC1zR21mWmtoWEFtUVdpWklCNkNVRVpQb0x1bVVZWG02NUpSR3FTWEUzMlpkMmFwRUZBZXRQSU5wYW44MDJZNTc0eGRXcEtVTzNFd2s?oc=5"
+      "title": "〈美股盤後〉美伊60天談判大限到！油債雙重壓力來襲 那指收黑 費半逆勢勁揚 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOdFJjZ3B6NEZTeG95QVQ2ZzVsb3hsb1g5cHc4NnlOWlUweTk0d0pCci1XTFA4VEU5Sk5FY1JLWXVPc2VGVTBZVHFueUx3V1E?oc=5"
     },
     {
-      "title": "記憶體漲逾600％還能追？財經名嘴看好「這檔」能再翻倍：機會大到不能不把握 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOQ2pzaWFWRV84c2JoeHRweTIwSkFZeFMxYVhyNXZIeThRRXJ0VWhfUXRsaW9hMDdvSllCVlMzTGxWdGNEYWFaUUs0djRSQU82Nk5FWTMyQ0JjOEwyemw5OUpPYUN1aFdsemlrM2ZsNmdoVVg1b19YdTN0X2YyZG9rYzdaUmxjTFdZMkNPeDZBWDVTa3VzMXp5MHkyUlB6cjRlQno2WDdzY1VWajcxeVhzRzBCTFpVUkFlY0tUQURnbGxRVllFSGxHeDJKcjdBQzJLTXVDMnlDdEtxVXVDT08xSUIwdFVDQXNUYVh1MVVrak9PbDQ0VlVRRjBma19SaVJwUXVyN1dFalNtd3FOUTVYcHdoOVdFSHg1SHhkdUh3UHdueHFjVS0yQXV6dzlNSWhEeTE2R1lSdy1kVG93QVFEMlVjalRkUGZfeEpRNWlGMGdBdFB0?oc=5"
+      "title": "【Follow法人】外資終止連6買...調節台股119億元 分析師揭2原因 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOV0VBa1FGVVRoMFZNVnFOM3JoSnZCYWRQWE1JaWdyZzlVSFNpQ3Q4d3ZrYVhMcmJxWWlheEs4LW1KeXZQV1gtc2VIdEY3RjZHbnh0MjNwWmFicXJOdVBBTFEzLTNJbS1xbmlZbGpmYldFcWR5eWVOSzNMVk9tSGs4Z04yZnFYZU5HWHpLazYweU00STMyQjRvSElYY012Qlp6TmhZenY3ZHVPN2ltRDFaVXJSZU1DT3p2MnRwYkxDVEY0MER1em1OOVNZc3hCTkhBX2ROTm1obGstWGJpYml1ZlFSUkNwcGg3czhXUExleEFQNzZYMV8xV3ltVGllMV9KQWJzM2g2V3phTjhRMFdHVU5MRVh0VjVOOTFBeUhQTnFPU21zc19EM3drekcyNUJpUEg4U0Q3X2cyTkRac1NVOVRYbzhrN19yMXk1cDFuVFA1SjdYZ0p2dFFUQjUyUDZkT3RSblhMY2tFQU5RQnd3WWdldw?oc=5"
+    },
+    {
+      "title": "通膨環境黃金及其他大宗商品為投資配置優選- 新聞 - moneydj.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZUlhVFRmMkZ2NWVBQmpWeENhRHBLa0tGWmMxTFh5YnlSS29ZZi1PSkR5QmpQWEZjcDJ0bUFIR3VKaXFNNWdyZG9TZG1SNFNDeERXM0c5cVgyVUdHWEpzdnFLNmN1ZVR6dWFBalNfTEpReVdhQVE5bzk3Q1JSU3dnZHJGU2gwdWF4Vm93V2lxdmdYdw?oc=5"
+    },
+    {
+      "title": "台股18日開高殺低終場大跌548點 光寶科買盤推升股價收漲3.8% - 理財周刊",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lYzZIOW01akp6cjJTLW9lY3hsYUVIMzExR2d4V1ZmWTM0NjNUc1VtMFNzdXFWR01QblBvQmhRankya0lHSTkyUXcySGQ1Ym4tZFJjYlJ2OTZudTV2OWxiMTBFa0ZKMWdWc2RXYUZ2bw?oc=5"
     }
   ]
 }
