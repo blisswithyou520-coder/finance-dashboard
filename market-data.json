@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/18 17:31",
+  "updated_tw": "08/18 18:03",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64091.6,
-      "change": -414.6539,
-      "changePercent": -0.6428
+      "price": 64111.33,
+      "change": -394.9239,
+      "changePercent": -0.6122
     },
     "ETH": {
-      "price": 1894.6,
-      "change": -17.6021,
-      "changePercent": -0.9205
+      "price": 1895.19,
+      "change": -17.0121,
+      "changePercent": -0.8897
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.884,
-      "change": -0.1062,
-      "changePercent": -0.332
+      "price": 31.876,
+      "change": -0.1142,
+      "changePercent": -0.357
     },
     "JPYTWD": {
-      "price": 0.1976,
-      "change": -0.0033,
-      "changePercent": -1.649
+      "price": 0.1975,
+      "change": -0.0034,
+      "changePercent": -1.6987
     },
     "EURTWD": {
-      "price": 36.957,
-      "change": -0.0678,
-      "changePercent": -0.1832
+      "price": 36.952,
+      "change": -0.0728,
+      "changePercent": -0.1967
     },
     "CNYTWD": {
-      "price": 4.7357,
+      "price": 4.7345,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4446.6,
-    "twd": 4558.0,
-    "tael": 170932.0,
-    "twdTotal": 141775.0,
-    "changePercent": 0.6519
+    "usd": 4449.4,
+    "twd": 4560.0,
+    "tael": 170997.0,
+    "twdTotal": 141829.0,
+    "changePercent": 0.7153
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,20 +117,20 @@
   },
   "news": [
     {
-      "title": "美股收盤／費半重返多頭 美股收低 因油價和美債殖利率走高 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JZkNYSGZiSGVEZmtBQkp2VnlWUV9QNVFPN2QzdkxxLUMzOEFyaG1vbXJ6dEdJMDFDRTNqMTdyTEVJR1p4TmRQWlRTT3JEOEdYZjUxVG54YUNnSDh10gFiQVVfeXFMTjE2NE9CY3I2enJQdm9JMms5UDd3dmd6OXlpbnN4VnVrV2dHa1dGT01QS3dwRGs0N0xtMXdBZ3FsY0V4NkExTG5CZVZJU01EbmlTZE1vM1VFdDZ1eDhMQV9uUHc?oc=5"
-    },
-    {
       "title": "黃金強勢反彈了！背後原因揭曉 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96MHFJZThjMUNHcW1McXE3X244X2FTcFkxX25EdFUyRnlycXNVSDBjaVNiNVhZNEljUFpueXhjTnkwMjVZUWxvcE1kcW1IWlFxc053dUdrMEtOdUhBMFhv?oc=5"
     },
     {
-      "title": "掌握黃金30天，權益保障不漏接 - mof.gov.tw",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYV9BX05BVC0ydnpyUTRSMGVXLUFVUXhiSU80d0lLcVp4amdKYjhQY0xsNEljQnBPZFFjUHRqaGNGS1ZLTWhIaUZINWo4Um1oRjExN0dHQm02SWxGbUVncW5UMnZQR0NBVS0tUmhudE85UTl0a01WY1hJYTlRcUlObHdKUEliQ3VVbjBTOGZqSXJBZmROZEZfWUN3MmtYNEhKZUk4REp1Qkk?oc=5"
+      "title": "美股收盤／費半重返多頭 美股收低 因油價和美債殖利率走高 - money.udn.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JZkNYSGZiSGVEZmtBQkp2VnlWUV9QNVFPN2QzdkxxLUMzOEFyaG1vbXJ6dEdJMDFDRTNqMTdyTEVJR1p4TmRQWlRTT3JEOEdYZjUxVG54YUNnSDh10gFiQVVfeXFMTjE2NE9CY3I2enJQdm9JMms5UDd3dmd6OXlpbnN4VnVrV2dHa1dGT01QS3dwRGs0N0xtMXdBZ3FsY0V4NkExTG5CZVZJU01EbmlTZE1vM1VFdDZ1eDhMQV9uUHc?oc=5"
     },
     {
       "title": "外資變心終止連6買！台股摔548點 金融、航運股聯手撐盤｜Yahoo財經掃描 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNaGRsUTlpSF9uRmJUNktjRWVtS1lXSldZLXhxOGFtSTh1NmtKcG9YNkdqOWdvbVM2ZENZMFloaTlyY2RfWGhqMFpRalZoWTR3RUtLLTAxaHVQTGphTWE5emhNUXRySFhOV0o3bmxDVXR4WGR2cHhlYU44clpraDlxaWgySHloRExpUU9uVFByU2R6bENZQXBNODl2NC1hUmF0VnFJaXFqcERDSDlZV1M3TDFtZEdPNEtReUpoTG5VdnotVy12Wm9mSUhXblpKMkhlc0Q5WXJoOU00MWZ4cnN2VDRCMmphcWNpRVNyY1REOTVrSDJmNElNNDVpZDlWd1JJNGVrOWU2TF9TWGtadDRsRDVVQlF6dEJ0eWpaUDVWMXFoMGdXa0o5elc1OG1OVkJyWU1LR2V6QjlvNmlfMFRMeGtDTHJacWg2OWY2Tzl4RE4taXNweHJiNHotMVZuaFpQV0VCTU50QU5rc3c1Z0JjSVBnS1NZRFROYWhyYklPeDNDejBfZUJfM3VUcEZRUURYdDItMllCMnl6WVJYYTEzUFhBcnF3cmpqSVZLZkFnclVidFVTc3djSw?oc=5"
+    },
+    {
+      "title": "掌握黃金30天，權益保障不漏接 - mof.gov.tw",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYV9BX05BVC0ydnpyUTRSMGVXLUFVUXhiSU80d0lLcVp4amdKYjhQY0xsNEljQnBPZFFjUHRqaGNGS1ZLTWhIaUZINWo4Um1oRjExN0dHQm02SWxGbUVncW5UMnZQR0NBVS0tUmhudE85UTl0a01WY1hJYTlRcUlObHdKUEliQ3VVbjBTOGZqSXJBZmROZEZfWUN3MmtYNEhKZUk4REp1Qkk?oc=5"
     },
     {
       "title": "台股0050，美股009814？2026海外ETF定期定額存股指南：AI帶動009805電力黑馬，這檔績效破100%成新寵！ - sinotrade.com.tw",
