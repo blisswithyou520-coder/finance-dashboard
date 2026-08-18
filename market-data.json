@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/18 12:07",
+  "updated_tw": "08/18 12:51",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -8,9 +8,9 @@
       "changePercent": -0.8333
     },
     "2454": {
-      "price": 3920.0,
-      "change": -130.0,
-      "changePercent": -3.2099
+      "price": 3930.0,
+      "change": -120.0,
+      "changePercent": -2.963
     },
     "2317": {
       "price": 248.5,
@@ -23,9 +23,9 @@
       "changePercent": -1.2212
     },
     "00878": {
-      "price": 32.4,
-      "change": -1.47,
-      "changePercent": -4.3401
+      "price": 32.41,
+      "change": -1.46,
+      "changePercent": -4.3106
     },
     "00919": {
       "price": 30.34,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64072.7,
-      "change": 1254.0477,
-      "changePercent": 1.9963
+      "price": 64144.19,
+      "change": 1325.5377,
+      "changePercent": 2.1101
     },
     "ETH": {
-      "price": 1892.07,
-      "change": 18.127,
-      "changePercent": 0.9673
+      "price": 1894.72,
+      "change": 20.777,
+      "changePercent": 1.1087
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.855,
-      "change": -0.1352,
-      "changePercent": -0.4226
+      "price": 31.845,
+      "change": -0.1452,
+      "changePercent": -0.4539
     },
     "JPYTWD": {
-      "price": 0.1974,
-      "change": -0.0035,
-      "changePercent": -1.7485
+      "price": 0.1973,
+      "change": -0.0036,
+      "changePercent": -1.7983
     },
     "EURTWD": {
-      "price": 36.904,
-      "change": -0.1208,
-      "changePercent": -0.3264
+      "price": 36.907,
+      "change": -0.1178,
+      "changePercent": -0.3183
     },
     "CNYTWD": {
-      "price": 4.7301,
+      "price": 4.7293,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4447.3,
-    "twd": 4555.0,
-    "tael": 170803.0,
-    "twdTotal": 141669.0,
-    "changePercent": 1.9181
+    "usd": 4446.8,
+    "twd": 4553.0,
+    "tael": 170731.0,
+    "twdTotal": 141608.0,
+    "changePercent": 0.6564
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "美股收盤／費半重返多頭 美股收低 因油價和美債殖利率走高 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JZkNYSGZiSGVEZmtBQkp2VnlWUV9QNVFPN2QzdkxxLUMzOEFyaG1vbXJ6dEdJMDFDRTNqMTdyTEVJR1p4TmRQWlRTT3JEOEdYZjUxVG54YUNnSDh10gFiQVVfeXFMTjE2NE9CY3I2enJQdm9JMms5UDd3dmd6OXlpbnN4VnVrV2dHa1dGT01QS3dwRGs0N0xtMXdBZ3FsY0V4NkExTG5CZVZJU01EbmlTZE1vM1VFdDZ1eDhMQV9uUHc?oc=5"
+    },
+    {
       "title": "黃金強勢反彈了！背後原因揭曉 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96MHFJZThjMUNHcW1McXE3X244X2FTcFkxX25EdFUyRnlycXNVSDBjaVNiNVhZNEljUFpueXhjTnkwMjVZUWxvcE1kcW1IWlFxc053dUdrMEtOdUhBMFhv?oc=5"
     },
     {
-      "title": "美伊戰火、AI利多正面交鋒！美股4大指數多空激戰漲跌拉鋸 台積電ADR逆勢噴紅0.74％ - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxQajh2MWwzRUZiWjVhTWZ6VUFiZ0xsUTRCVkVQZ0NNVWJhbFVZa1FpSEdjRUhSWldlTzZwMThWaGlTZjFkb21xNVZwMnl0SzctaFFsTm9XTHBKeFpmMkcxMVV3TUM4elVwNE1GNTEtT2Z2NmhmbzRtd0UtZVV0UWpyd3dxZ2NWSWxTZ0xmT2tMQVVRU3A5WDZvOXFtaUdVcGpjcnNDX0pQd243cWtIOVBiN1Z4NTgtSzFTdmdQcHFUSG1TUlhybmlKN2xRN1RtVHB1cVBZUThkU3lYbUhzMlZZTzBrQmV3alhxdzdyNTZ3SG5yeW83Wi1GOElfTDJuVUtpNzlFMjZBcE5KRjF1TnVVNFlSNlQwTzlPdnlSTGFGMXdEQnBjbnBNOFRPTTdfelhldG1TdG9vczA3UnBQZjVQR245clBlVGRObFEycjFqckdCdkpJeU4xVk4ydDlkdnNtbEJwVVpZOHBWV0hUaDJyZ085eHVSTm5qeW5hNHdPazJkZGZxdlVuRmZvZzBjN3JvRXhabjNKWTBuVE1LNk9IYVV5RDA0SFRJbU1Md0duYVd6WTRPcmJON2NvejRPVjZ4eUZ3bFFDVHR4SlhoR05ObFNGcG0?oc=5"
+      "title": "掌握黃金30天，權益保障不漏接 - mof.gov.tw",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYV9BX05BVC0ydnpyUTRSMGVXLUFVUXhiSU80d0lLcVp4amdKYjhQY0xsNEljQnBPZFFjUHRqaGNGS1ZLTWhIaUZINWo4Um1oRjExN0dHQm02SWxGbUVncW5UMnZQR0NBVS0tUmhudE85UTl0a01WY1hJYTlRcUlObHdKUEliQ3VVbjBTOGZqSXJBZmROZEZfWUN3MmtYNEhKZUk4REp1Qkk?oc=5"
     },
     {
       "title": "〈美股盤後〉美伊60天談判大限到！油債雙重壓力來襲 那指收黑 費半逆勢勁揚 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOdFJjZ3B6NEZTeG95QVQ2ZzVsb3hsb1g5cHc4NnlOWlUweTk0d0pCci1XTFA4VEU5Sk5FY1JLWXVPc2VGVTBZVHFueUx3V1E?oc=5"
     },
     {
-      "title": "台股震盪整理 盤中一度下殺540點 失守五日線 法人：留意指標過熱壓力 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4ODlZUTVLYk05c1dGanVwSThqbDVDVHNOYy1fWHY5NVZEQmh6aWpfVlVqTUN0NXdENmc4bGtXOUlZc0xsOFBFOFpoVWhPQVJR0gFWQVVfeXFMTnQ4b29NNWdRYjh4d2didFJJTlpTblFOdEFvMFhia09fMkc4YkJYNDlFeUdWNUVxbVpWcmdxU0RUN0lRMDBhVTRWbFdDYW8wRmhpT0UzRVE?oc=5"
+      "title": "美伊戰火、AI利多正面交鋒！美股4大指數多空激戰漲跌拉鋸 台積電ADR逆勢噴紅0.74％ - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxQajh2MWwzRUZiWjVhTWZ6VUFiZ0xsUTRCVkVQZ0NNVWJhbFVZa1FpSEdjRUhSWldlTzZwMThWaGlTZjFkb21xNVZwMnl0SzctaFFsTm9XTHBKeFpmMkcxMVV3TUM4elVwNE1GNTEtT2Z2NmhmbzRtd0UtZVV0UWpyd3dxZ2NWSWxTZ0xmT2tMQVVRU3A5WDZvOXFtaUdVcGpjcnNDX0pQd243cWtIOVBiN1Z4NTgtSzFTdmdQcHFUSG1TUlhybmlKN2xRN1RtVHB1cVBZUThkU3lYbUhzMlZZTzBrQmV3alhxdzdyNTZ3SG5yeW83Wi1GOElfTDJuVUtpNzlFMjZBcE5KRjF1TnVVNFlSNlQwTzlPdnlSTGFGMXdEQnBjbnBNOFRPTTdfelhldG1TdG9vczA3UnBQZjVQR245clBlVGRObFEycjFqckdCdkpJeU4xVk4ydDlkdnNtbEJwVVpZOHBWV0hUaDJyZ085eHVSTm5qeW5hNHdPazJkZGZxdlVuRmZvZzBjN3JvRXhabjNKWTBuVE1LNk9IYVV5RDA0SFRJbU1Md0duYVd6WTRPcmJON2NvejRPVjZ4eUZ3bFFDVHR4SlhoR05ObFNGcG0?oc=5"
     },
     {
       "title": "通膨環境黃金及其他大宗商品為投資配置優選- 新聞 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZUlhVFRmMkZ2NWVBQmpWeENhRHBLa0tGWmMxTFh5YnlSS29ZZi1PSkR5QmpQWEZjcDJ0bUFIR3VKaXFNNWdyZG9TZG1SNFNDeERXM0c5cVgyVUdHWEpzdnFLNmN1ZVR6dWFBalNfTEpReVdhQVE5bzk3Q1JSU3dnZHJGU2gwdWF4Vm93V2lxdmdYdw?oc=5"
     },
     {
+      "title": "台股衝上4.6萬點杜金龍竟「砍台積電」！持股水位9成降至5成 點名這2大黑馬接棒 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxPM2YzdkRPUFM2NUQydU1Xa2JJVm1pVGViYWFUUFV0akJpZ2hNak1TazdsUDExMkxMN2JndjZjMWJGMjdPWUZlRldHSDZ2aXNTRUtYUzRHaTVyQU8wRThldDNxUkVNSWlValBoelJ0WG9uVmdSWWQwMlhvY2dENGF0MTgxMlk4TkZQU3FGQVdmVWdtQ3BPT05LYVN2WGx4R2pwSURYU2NySWo3X1E5cHNqVWFMdE0yd0NnR25DUnVTYm5VUU5sdzhHUG9pai1zYktDZFNoQkFEMHlqdVdqRGV6RkRxeTYzazJoZDJZbTkzUjZMdDFBd3EyblNkOXcxNHpJMmk0czVEVW1MNWFoX2Z2cWFVNnZnUkhlSWNyV1ZuSU1BRWdEVEh6X0dxR21aM3RucC1kNFFHTDJodklyRWl1ZXBKRFBLV1ZIX09hVVZnYnpzU3NIS3Rmc01UWWpfVS0xbGZ6cFFUbkIzdTRIb2Q0QmxDU0hVRHV2aXU1TTR0TmUwWndjbllRZ0FENnpZdXRGUGdGd2VBeFFSdWJVbzdIdDdJajF0bjQtS3NweURxTGdfQjlnbEs3ZngxcVJZMnQxZG9YZ2xtRGRmTUtoZ2VJ?oc=5"
+    },
+    {
       "title": "〈美股早盤〉美伊緊張局勢壓抑風險偏好 主要指數漲跌互現 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xTFZDc2c1eF9HVVYyTVFsTmswRndSUzk2MGFlVnhHREdGNmlkQzhQbWpyVXdraEx3SDRrNXd5U2VxbkFRMndEVGM4Mko1QWM?oc=5"
-    },
-    {
-      "title": "快訊／美股開盤兩樣情！那指費半雙雙走揚 台指期夜盤漲破46K - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPVlRvLURCTnhmTzNMcnFWLUYyTHFBY3lvX1R6d2h0MGVnRWt0bUNTT3VwV1FGeU5ILTFBalNCaEVHcEVlN1hlRG9GTDU5RnZTb1IwT3N0eXZ3SFF1Ylh6SjBuMGJkN0h5cG1BMVB6YnM5SVhGVXFqVzVNZHZmN3pKUFdjaUpRam0tUFpfaThkUUx4c01mVnBLQWFKdlYtVUdHOWdYZkJHYTEzRE5yT21vR3lHYnYydmQ4TExmRlhrQk8wb0p6MmMzTG1sWVlaYkl5UDRMS0xvRzBmTHFwWHNkQ1dsOC0tRm41WkYzN2ZKeGVVWWFxd056WTltVTVaenN4UlIxdUEtZGdNLXRsYXdiQkRvNnBrNUNMbzdNTlNGYlpNUTE3VHJMSEtoVXlDZFR5b2JBeW44dTF2amEzZ0Q1TG1zY1N4RzhhMVFuTVZxd1Z1M0JicU44UEdLTFAzOFpKNXd3dC1pODg3UlRXYXk3ZHdQU1ZwWGtBTENF?oc=5"
-    },
-    {
-      "title": "黃金今年才開始瘋？大摩CIO一句話驚醒市場：牛市已持續了25年了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pSnl1M3Z5dlBHa3lnRWFVUUs3SXNsb1h1QUVCY2VWeUZtRW9YWnJ5YjNlc2FhQ3VDM0xZcXNBdlg4X0RYeExsa3hNbmVJS3hyWjd3REN5OTNqd1lFeUdv?oc=5"
     }
   ]
 }
