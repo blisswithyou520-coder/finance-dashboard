@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 01:42",
+  "updated_tw": "08/19 02:03",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 220.37,
-      "change": -4.64,
-      "changePercent": -2.0621
+      "price": 219.78,
+      "change": -5.23,
+      "changePercent": -2.3243
     },
     "AAPL": {
-      "price": 310.085,
-      "change": 4.495,
-      "changePercent": 1.4709
+      "price": 309.81,
+      "change": 4.22,
+      "changePercent": 1.3809
     },
     "TSLA": {
-      "price": 337.07,
-      "change": -2.23,
-      "changePercent": -0.6572
+      "price": 336.28,
+      "change": -3.02,
+      "changePercent": -0.8901
     },
     "QQQ": {
-      "price": 718.14,
-      "change": -11.73,
-      "changePercent": -1.6071
+      "price": 717.12,
+      "change": -12.75,
+      "changePercent": -1.7469
     },
     "SPY": {
-      "price": 768.13,
-      "change": -4.54,
-      "changePercent": -0.5876
+      "price": 767.61,
+      "change": -5.06,
+      "changePercent": -0.6549
     },
     "SCHD": {
-      "price": 34.565,
-      "change": 0.275,
-      "changePercent": 0.802
+      "price": 34.58,
+      "change": 0.29,
+      "changePercent": 0.8457
     },
     "VOO": {
-      "price": 706.07,
-      "change": -4.2,
-      "changePercent": -0.5913
+      "price": 705.6,
+      "change": -4.67,
+      "changePercent": -0.6575
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64686.74,
-      "change": 180.4861,
-      "changePercent": 0.2798
+      "price": 64617.14,
+      "change": 110.8861,
+      "changePercent": 0.1719
     },
     "ETH": {
-      "price": 1912.46,
-      "change": 0.2579,
-      "changePercent": 0.0135
+      "price": 1910.3,
+      "change": -1.9021,
+      "changePercent": -0.0995
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.916,
-      "change": -0.0742,
-      "changePercent": -0.2319
+      "price": 31.929,
+      "change": -0.0612,
+      "changePercent": -0.1913
     },
     "JPYTWD": {
       "price": 0.1978,
@@ -94,22 +94,22 @@
       "changePercent": -1.5494
     },
     "EURTWD": {
-      "price": 36.989,
-      "change": -0.0358,
-      "changePercent": -0.0968
+      "price": 36.999,
+      "change": -0.0258,
+      "changePercent": -0.0698
     },
     "CNYTWD": {
-      "price": 4.7403,
+      "price": 4.7384,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4419.2,
-    "twd": 4535.0,
-    "tael": 170049.0,
-    "twdTotal": 141043.0,
-    "changePercent": 0.0317
+    "usd": 4414.1,
+    "twd": 4531.0,
+    "tael": 169922.0,
+    "twdTotal": 140938.0,
+    "changePercent": -0.0837
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,12 +137,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96MHFJZThjMUNHcW1McXE3X244X2FTcFkxX25EdFUyRnlycXNVSDBjaVNiNVhZNEljUFpueXhjTnkwMjVZUWxvcE1kcW1IWlFxc053dUdrMEtOdUhBMFhv?oc=5"
     },
     {
-      "title": "美股收盤／費半重返多頭 美股收低 因油價和美債殖利率走高 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JZkNYSGZiSGVEZmtBQkp2VnlWUV9QNVFPN2QzdkxxLUMzOEFyaG1vbXJ6dEdJMDFDRTNqMTdyTEVJR1p4TmRQWlRTT3JEOEdYZjUxVG54YUNnSDh10gFiQVVfeXFMTjE2NE9CY3I2enJQdm9JMms5UDd3dmd6OXlpbnN4VnVrV2dHa1dGT01QS3dwRGs0N0xtMXdBZ3FsY0V4NkExTG5CZVZJU01EbmlTZE1vM1VFdDZ1eDhMQV9uUHc?oc=5"
-    },
-    {
       "title": "掌握黃金30天，權益保障不漏接 - mof.gov.tw",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYV9BX05BVC0ydnpyUTRSMGVXLUFVUXhiSU80d0lLcVp4amdKYjhQY0xsNEljQnBPZFFjUHRqaGNGS1ZLTWhIaUZINWo4Um1oRjExN0dHQm02SWxGbUVncW5UMnZQR0NBVS0tUmhudE85UTl0a01WY1hJYTlRcUlObHdKUEliQ3VVbjBTOGZqSXJBZmROZEZfWUN3MmtYNEhKZUk4REp1Qkk?oc=5"
+    },
+    {
+      "title": "美股收盤／費半重返多頭 美股收低 因油價和美債殖利率走高 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JZkNYSGZiSGVEZmtBQkp2VnlWUV9QNVFPN2QzdkxxLUMzOEFyaG1vbXJ6dEdJMDFDRTNqMTdyTEVJR1p4TmRQWlRTT3JEOEdYZjUxVG54YUNnSDh10gFiQVVfeXFMTjE2NE9CY3I2enJQdm9JMms5UDd3dmd6OXlpbnN4VnVrV2dHa1dGT01QS3dwRGs0N0xtMXdBZ3FsY0V4NkExTG5CZVZJU01EbmlTZE1vM1VFdDZ1eDhMQV9uUHc?oc=5"
     },
     {
       "title": "快訊／談判快破局！美股開盤費半挫407點 台指期夜盤失守45K - Yahoo新聞",
