@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 21:31",
+  "updated_tw": "08/19 22:17",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 222.007,
-      "change": 2.267,
-      "changePercent": 1.0317
+      "price": 217.18,
+      "change": -2.56,
+      "changePercent": -1.165
     },
     "AAPL": {
-      "price": 310.54,
-      "change": 0.51,
-      "changePercent": 0.1645
+      "price": 317.43,
+      "change": 7.4,
+      "changePercent": 2.3869
     },
     "TSLA": {
-      "price": 338.482,
-      "change": 1.612,
-      "changePercent": 0.4785
+      "price": 339.67,
+      "change": 2.8,
+      "changePercent": 0.8312
     },
     "QQQ": {
-      "price": 720.235,
-      "change": 2.725,
-      "changePercent": 0.3798
+      "price": 714.79,
+      "change": -2.72,
+      "changePercent": -0.3791
     },
     "SPY": {
-      "price": 770.405,
-      "change": 2.955,
-      "changePercent": 0.385
+      "price": 769.85,
+      "change": 2.4,
+      "changePercent": 0.3127
     },
     "SCHD": {
-      "price": 34.905,
-      "change": 0.395,
-      "changePercent": 1.1446
+      "price": 35.25,
+      "change": 0.74,
+      "changePercent": 2.1443
     },
     "VOO": {
-      "price": 708.265,
-      "change": 2.865,
-      "changePercent": 0.4061
+      "price": 707.64,
+      "change": 2.24,
+      "changePercent": 0.3175
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65145.43,
-      "change": 464.7191,
-      "changePercent": 0.7185
+      "price": 65363.09,
+      "change": 682.3791,
+      "changePercent": 1.055
     },
     "ETH": {
-      "price": 1938.29,
-      "change": 21.8304,
-      "changePercent": 1.1391
+      "price": 1936.28,
+      "change": 19.8204,
+      "changePercent": 1.0342
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.845,
-      "change": -0.0053,
-      "changePercent": -0.0166
+      "price": 31.85,
+      "change": -0.0003,
+      "changePercent": -0.0009
     },
     "JPYTWD": {
-      "price": 0.1988,
-      "change": -0.0011,
-      "changePercent": -0.5418
+      "price": 0.199,
+      "change": -0.0009,
+      "changePercent": -0.4418
     },
     "EURTWD": {
-      "price": 37.153,
-      "change": 0.2551,
-      "changePercent": 0.6913
+      "price": 37.195,
+      "change": 0.2971,
+      "changePercent": 0.8051
     },
     "CNYTWD": {
-      "price": 4.7376,
+      "price": 4.7395,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4515.8,
-    "twd": 4623.0,
-    "tael": 173380.0,
-    "twdTotal": 143806.0,
-    "changePercent": 3.4311
+    "usd": 4524.5,
+    "twd": 4633.0,
+    "tael": 173741.0,
+    "twdTotal": 144105.0,
+    "changePercent": 3.6303
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,6 +133,10 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVlRBbHcxc1RwMjRrblB2akt0cVhoZkVnWVN1eW9Ucl8taVV4blktdERlX3FHV1lnQkZsTnNHZDJRci1YQ09WRUpTSmxOak02NjhNX05KTmtsNmZhWDVuTmJ3bkk?oc=5"
     },
     {
+      "title": "AI疑慮加上美債殖利率攀升 美股收黑、亞股重挫 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95b1pSYzVnR1hLLTBBN1dyZl9UcFpBbDdQT3FodU5CUFphRGR1WF85MU53MW5uRnFReTFXb0ppbzZZTmJiMGxySVpVVHM4YzQ?oc=5"
+    },
+    {
       "title": "美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ud2VELXM5QWRtRHp2SW5nRi1HbkRCMldHMjBUZDBCZ3REV1EtQ3FGN29YNmY3M1E5bTd5Vlp2cVJYOGJCblQxQ09aVHlBV3NfNWJaN2huay1NSDhETXVB?oc=5"
     },
@@ -143,10 +147,6 @@
     {
       "title": "星期三開盤慘了？美股費半重挫近5% 台指期夜盤大暴跌 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNcHdpRnhaUGZEb3o0UXNkbnh4NUFNMVFremliODNOM1REWmdyb0VVQzVWZ0JWTlo2eUdDZUtjeTljcDZQbHhZVHExZk1pQVozaWs5aWFyWWYyYk1jc0RFQ1lNTFZkMEpoby1ZRGtpdGpRRHlZU0FNdjR4eDFFMWxoSVdsUUtYd3RkemFocVVZeUVaejktdHRsYUtRZDRHMDNJME9EbHdnNVlTMzhoUWN1SF85akJwME5BbjktRS1BZzZSLU95UTQtU1RyREVGXzM3N2hiTi1mRl9HQmJ5aXJtaGlKWmpHcjJISklYTXJhcmVfeU1HalJmNHdEMnUyTDZMZ1dwdUZ0b08xbFJmTnRSUGtVN2FiWUF2OXVtNGZGeVRDd0p6cE5DMldDcXdjY1FldTVzTF9KeE1UazVnWUtINGFNdmw2T1d4MmtMY2lyd0lRYXNPWkswSTRpcGNlbW5yQ0pveXVUOA?oc=5"
-    },
-    {
-      "title": "比特幣巨鯨重返市場 兩個月增持27.5億美元 | 國際焦點 | 國際 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14NnBaZ0VoWnM3cENaVEhxUW55X2N2MVRZTFpJekNCQTkxMHFZX2VOaE1rUW5pX3BFdjZucFUzMFh6eGwyVVJsLXJfdTVSaUpEdFFEUThhWXdndw?oc=5"
     }
   ]
 }
