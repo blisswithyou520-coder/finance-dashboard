@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 19:25",
+  "updated_tw": "08/19 19:50",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64474.04,
-      "change": -206.6709,
-      "changePercent": -0.3195
+      "price": 64454.59,
+      "change": -226.1209,
+      "changePercent": -0.3496
     },
     "ETH": {
-      "price": 1921.44,
-      "change": 4.9804,
-      "changePercent": 0.2599
+      "price": 1921.4,
+      "change": 4.9404,
+      "changePercent": 0.2578
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.947,
-      "change": 0.0967,
-      "changePercent": 0.3036
+      "price": 31.942,
+      "change": 0.0917,
+      "changePercent": 0.2879
     },
     "JPYTWD": {
       "price": 0.1986,
@@ -94,22 +94,22 @@
       "changePercent": -0.6419
     },
     "EURTWD": {
-      "price": 37.126,
-      "change": 0.2281,
-      "changePercent": 0.6181
+      "price": 37.117,
+      "change": 0.2191,
+      "changePercent": 0.5937
     },
     "CNYTWD": {
-      "price": 4.7473,
+      "price": 4.7464,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4427.7,
-    "twd": 4548.0,
-    "tael": 170542.0,
-    "twdTotal": 141452.0,
-    "changePercent": 1.4132
+    "usd": 4421.7,
+    "twd": 4541.0,
+    "tael": 170284.0,
+    "twdTotal": 141238.0,
+    "changePercent": 1.2758
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,7 +121,7 @@
       "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQUUh5d1o4TEZsRzFGRnpwMzkwaDFlQndZVk9MckVtTlpKV2NRZ05mc0lqaHZocnhtN093UGhSalRKYklPSTRadnBEZlRHZHVYNmE1cjR5V2h2ZUhwZWhHMnRDeUx6WWFleVd5bk5Gd2ZRaTVVM05zNnFmLVlaTzIxQ2lFbExsTU5tTDdfTEE3VUppY2VCeHUwZS00TEtCbXlUZVVEUXY1OERXY0U3UGtKbDJiTnB4Q2V0SUxZZFFnOHdnbnRYa1c1bHd4ZE1ONFNHMllUUFV2YVdNVjk5TXI5eTQxbGV5dUh1d2hia1J6NlFOMmlmcklWcFRaMXZLQVROeXRzV3BXLVV2QmxjNHUwTmYzMkh4cG9ReXdqNzZfcXNFWGxxMHhTbi1kWDhScHNQMTdrSUtDQ2pPc0dMSEFmdXc3TzhtdF9YTEU2MGJJYmxudUVZV01CTW9nd0J0b1RZbFpJVDhqdmtPV3dVWTg3OFR4dXBlNjl2dWhyQkNTTnlnWWxGa1hOUnZCYWdPWVlOd0QwZW9Xd2JYcEJOeDVpcHdyYU8?oc=5"
     },
     {
-      "title": "美股收盤／美債殖利率走揚 AI 高期待反成壓力 費半重挫5%拖累美股 - money.udn.com",
+      "title": "美股收盤／美債殖利率走揚 AI 高期待反成壓力 費半重挫5%拖累美股 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tMHNCYndyMkw5X3pBN1l1NFlrOHNGUW0zWXlSUWdkSlQ3aVRGSlV6OF96bFlhMkNkY3hFNnZ1Ui1oajh4M2VlRlpzQlNseWx4ZHoxRGZYV0U1VWVI0gFiQVVfeXFMT1VheE9xZnVDbWp0NGQ2ejcwX1VGWFI5ME5oZGZ4cUlraHY4S3lsRUNFT2NxbEVTdFJpMG1HOVB5MG4xcXE1YnpRN0dUcnBXUDVlWmlSdG5HZjVvMlEzVnBKemc?oc=5"
     },
     {
@@ -141,8 +141,8 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ud2VELXM5QWRtRHp2SW5nRi1HbkRCMldHMjBUZDBCZ3REV1EtQ3FGN29YNmY3M1E5bTd5Vlp2cVJYOGJCblQxQ09aVHlBV3NfNWJaN2huay1NSDhETXVB?oc=5"
     },
     {
-      "title": "【美股盤前0819】長天期美債殖利率飆破5%！今晚美國FOMC會議紀要成市場焦點｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQVGpYckJUSDlRZ2dkcnF4QVlFWE9ENUpVdmR6aXl2dHlWNnZ4czd3bXNLSTNCMmV0dVdwN0l0NDV4NUplbTRJZl8zVmNCc0tSNFpBWFRERFZ6bmtQaVU4bUZHenBNNkkwTXR5OHZfUzd6YVZWb0szdzRVamlRVElOLVdVcTVmUE45UE4tLWtLM1RSTTU4Ql9iV2hKYUdSQXIxaG8xemdPTUx3bXAtTFVIeERkTlhOMlA0SlktNE5ZOU5CMlFuUjZPVlhNYjk5M2NCaEp6cG5JczlGZzAzM0N2OFkzeFNOSnhwcUE0Xzd5TFlqd09tQnVjRFYwQy1aUTgzU3d4MVZ4eWFHSUR3Z3hFS3hkRmFOVzZtWGdoWlN2NFJVZ0prZmRJclg4NDFoWW9hVVdKY1F1NGgzSWNzUjFZaWFOYm5MR2k2Xzk5bnJqQm5IUEtTbHhhQlVuVTAxQ3VVaTJvUnVqOFN5cVRScGZQLWVtM1dxMkI1VVplTHNPM0ZWWFlIOXFGaHF6VVh4VTdUU1JqSUhObG1XZUo1NENTZTB1VTlsdFVORm96ZDU5b0xQbG9TWTFZNG12anpJTmZTdFZRVmd4cEUwNjB5c2NORzNNSVozdXN4UUE?oc=5"
+      "title": "【0819台股盤後】台指期結算壓低大盤跌589 點收44,719 點！三大法人狂砍708 億，震檔盤勢中被動元件異軍突起【3090 日電貿】【6173 信昌電】【2492 華新科】｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi6AVBVV95cUxQQ2kyS29CeDl1YWhyRVIzOG9hUm5wdFQ1UEZqSUZvdW9OLUVicXNFa0oyLVRBNmh6bm53TEk2T3dpRlNudmpSOU5IZnBWUmlralRPanlqUG1JeWN2M2tEaG1vWXNudXVPTUFkVUdyY3V5bkxkV1JadEs0U0F3clhiZGo5X2hQLWJ3SE9yWGI0M1pOMXlWb21DSHRyVGRSTVN6cmY1RlowSzJrbkNJTDZMRU1WYmhoTXdhT1hfZU5NNVBFU2Z6LUV1N0V2UDREUzNKNVpXMnhhTEg3LUdGdHZHNTBmVmgzUFFnVVhSUDhGeXROSFVyQnN0ZEVwNmVyNEp0WUZGY3ROSmsxdkJtNnA1Q196bUNva1NSUVV3ODN4cjg3UDN5QjlZb1dXaS1ReFZ2S3Z3Vy1veVlTejViOWllWWZQN1dpNzltakRNX0dxMUNQRDB1dmVwcVBlX3ZZa1pRNWxOYU8yWjhiZFBVanBTaW82aTgya3JRQnprMUVSSXBtMlh4T3ZyZjN6M09JU0hZRXZEYzYyaXFTbVViaTNUa3FZM2g3TWVuNGR1Vlp1ZGs4QjFQMG5sSVlYSk1Mdm9Oamp3UUpiN3UwdGNDOXJWUTZpalJqaDJPNmNtS2g5dU14Wmx3N1lUYXB5Mnd3eW1pcUlkY1dYRmg1Sllmb3REYmNZc1hScmdtMEoxc2wyc2xqWnk2MU9JQ3RaN1FNRFluX1ZxZGFmQXUycV9YSElybWN1YkplR0pCdXJUdF9GX2Q3bFFRWURWOThfZnpWMHhFZzZZQTY2ZHo5TjlSdTZ3Y3JUWWtzZ29xZi1aM1k0dWF4M0ZMVW5DVHlfTzFacnpqTGRVM2YyQmFZbmszQ0doTDc0VXlLS0MxM2hfU1VkUzJ0TnAzTmhVZURIaW1FalJ4OWxZdFhXaDEzak1CcHpoTVNkR09BZ3JqYkQwYWhNTVJzaXE4S1E1U3dUWGlVRWZxNWM1dkI5SG8?oc=5"
     },
     {
       "title": "星期三開盤慘了？美股費半重挫近5% 台指期夜盤大暴跌 - Yahoo股市",
