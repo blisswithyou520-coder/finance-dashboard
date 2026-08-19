@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 15:36",
+  "updated_tw": "08/19 16:15",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64336.55,
-      "change": -344.1609,
-      "changePercent": -0.5321
+      "price": 64198.31,
+      "change": -482.4009,
+      "changePercent": -0.7458
     },
     "ETH": {
-      "price": 1919.27,
-      "change": 2.8104,
-      "changePercent": 0.1466
+      "price": 1914.23,
+      "change": -2.2296,
+      "changePercent": -0.1163
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.913,
-      "change": 0.0627,
-      "changePercent": 0.1969
+      "price": 31.88,
+      "change": 0.0297,
+      "changePercent": 0.0932
     },
     "JPYTWD": {
-      "price": 0.1983,
-      "change": -0.0016,
-      "changePercent": -0.792
+      "price": 0.1982,
+      "change": -0.0017,
+      "changePercent": -0.842
     },
     "EURTWD": {
-      "price": 37.055,
-      "change": 0.1571,
-      "changePercent": 0.4257
+      "price": 37.038,
+      "change": 0.1401,
+      "changePercent": 0.3796
     },
     "CNYTWD": {
-      "price": 4.7433,
+      "price": 4.739,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4409.1,
-    "twd": 4524.0,
-    "tael": 169645.0,
-    "twdTotal": 140708.0,
-    "changePercent": 0.9872
+    "usd": 4411.3,
+    "twd": 4521.0,
+    "tael": 169554.0,
+    "twdTotal": 140632.0,
+    "changePercent": 1.0376
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xYWhDeUN4NVcxYTBHQVJkT2EzeHNnVXJ2Q0JLc1lZRUNFaVlnWlo5UkZNRkt2TWdSSXJ5R0xqbm1RZHVCbXNKa3JOR3JhN2c?oc=5"
     },
     {
-      "title": "熬過 11 個月陣痛期！VanEck：比特幣「8 大投降訊號」亮燈、步入築底階段 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaXg3MVEtOVJ2SDdJR2tLN3NJb01abFYtSkRKWXRSNDJWOFpLb0pXVVdMNlRQU1lMeVRGMnZJQjNWYlNnSWhISmV4Qk1qaDhmY01PbldzOHdOcjFlc1dxbndfdWEzcXlwcjZXcDBZcVdqcWlpdnlKU1R3XzBuRGE2QUhUclotRlJiRDFSUXlR?oc=5"
-    },
-    {
       "title": "星期三開盤慘了？美股費半重挫近5% 台指期夜盤大暴跌 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNcHdpRnhaUGZEb3o0UXNkbnh4NUFNMVFremliODNOM1REWmdyb0VVQzVWZ0JWTlo2eUdDZUtjeTljcDZQbHhZVHExZk1pQVozaWs5aWFyWWYyYk1jc0RFQ1lNTFZkMEpoby1ZRGtpdGpRRHlZU0FNdjR4eDFFMWxoSVdsUUtYd3RkemFocVVZeUVaejktdHRsYUtRZDRHMDNJME9EbHdnNVlTMzhoUWN1SF85akJwME5BbjktRS1BZzZSLU95UTQtU1RyREVGXzM3N2hiTi1mRl9HQmJ5aXJtaGlKWmpHcjJISklYTXJhcmVfeU1HalJmNHdEMnUyTDZMZ1dwdUZ0b08xbFJmTnRSUGtVN2FiWUF2OXVtNGZGeVRDd0p6cE5DMldDcXdjY1FldTVzTF9KeE1UazVnWUtINGFNdmw2T1d4MmtMY2lyd0lRYXNPWkswSTRpcGNlbW5yQ0pveXVUOA?oc=5"
+    },
+    {
+      "title": "比特幣巨鯨結束拋售 60天增持27億美元 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwYmtLQlczSTdGdVN0cTNaQlJEelpmOC1aNmJvX1FHaVk4bDVJRlBsSWxqRmhlTnk0V3hYZTBhTERHQ2pMUy1VV2xQNA?oc=5"
     }
   ]
 }
