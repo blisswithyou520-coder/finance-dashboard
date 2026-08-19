@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 13:57",
+  "updated_tw": "08/19 14:53",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64194.84,
-      "change": -311.4139,
-      "changePercent": -0.4828
+      "price": 64240.37,
+      "change": -265.8839,
+      "changePercent": -0.4122
     },
     "ETH": {
-      "price": 1908.52,
-      "change": -3.6821,
-      "changePercent": -0.1926
+      "price": 1912.95,
+      "change": 0.7479,
+      "changePercent": 0.0391
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.873,
-      "change": 0.0227,
-      "changePercent": 0.0713
+      "price": 31.917,
+      "change": 0.0667,
+      "changePercent": 0.2094
     },
     "JPYTWD": {
-      "price": 0.1979,
-      "change": -0.002,
-      "changePercent": -0.9921
+      "price": 0.1982,
+      "change": -0.0017,
+      "changePercent": -0.842
     },
     "EURTWD": {
-      "price": 36.984,
-      "change": 0.0861,
-      "changePercent": 0.2332
+      "price": 37.058,
+      "change": 0.1601,
+      "changePercent": 0.4338
     },
     "CNYTWD": {
-      "price": 4.7369,
+      "price": 4.7443,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4388.9,
-    "twd": 4497.0,
-    "tael": 168656.0,
-    "twdTotal": 139887.0,
-    "changePercent": 0.5245
+    "usd": 4396.6,
+    "twd": 4512.0,
+    "tael": 169185.0,
+    "twdTotal": 140326.0,
+    "changePercent": 0.7009
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,7 +129,7 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Vb0NWTGdxQzhMclNMcnlhTFVORW1rQk5vMHZIVWFlZmhZMHhsaDBNUVpqODdhQk8zZzdZeUpDZHJrS2tpLXM5bjRMVzlGaTQ?oc=5"
     },
     {
-      "title": "美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ - ec.ltn.com.tw",
+      "title": "美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ud2VELXM5QWRtRHp2SW5nRi1HbkRCMldHMjBUZDBCZ3REV1EtQ3FGN29YNmY3M1E5bTd5Vlp2cVJYOGJCblQxQ09aVHlBV3NfNWJaN2huay1NSDhETXVB?oc=5"
     },
     {
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNcHdpRnhaUGZEb3o0UXNkbnh4NUFNMVFremliODNOM1REWmdyb0VVQzVWZ0JWTlo2eUdDZUtjeTljcDZQbHhZVHExZk1pQVozaWs5aWFyWWYyYk1jc0RFQ1lNTFZkMEpoby1ZRGtpdGpRRHlZU0FNdjR4eDFFMWxoSVdsUUtYd3RkemFocVVZeUVaejktdHRsYUtRZDRHMDNJME9EbHdnNVlTMzhoUWN1SF85akJwME5BbjktRS1BZzZSLU95UTQtU1RyREVGXzM3N2hiTi1mRl9HQmJ5aXJtaGlKWmpHcjJISklYTXJhcmVfeU1HalJmNHdEMnUyTDZMZ1dwdUZ0b08xbFJmTnRSUGtVN2FiWUF2OXVtNGZGeVRDd0p6cE5DMldDcXdjY1FldTVzTF9KeE1UazVnWUtINGFNdmw2T1d4MmtMY2lyd0lRYXNPWkswSTRpcGNlbW5yQ0pveXVUOA?oc=5"
     },
     {
-      "title": "美股法說｜Home Depot Q2財報優於預期、線上營收連五季雙位數成長但股價拉回收平(HD US)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNZ0VJOHVYT2E3TGE5TzMtN0lZSzhCTjVKcjhnaVNZbUJtcWNLbmlqRVVHSzVXRkhUMkozUjRxMkVveHFkN2x2X3pRMmJEUjhPZlRucGpfMjRsOWNxbThyX1h2SkNJdUtlSDZ5QVBxQ2tTaGRwZF9peGx0UGNwbV9yZnh1TWVQRkxCQTRxbENuczZORFlweWxhdDFIT1dva1VRYkJueV9EMnlTZXJ1TEhNbEk5eHR1V0lqeGZoMi1yMFpLVnFFcUY2dWlaYW53dUQyb0lZZWUyY0ktR2FzVGRvbUhQS2R0S2RyWVRuYkdna2k4RzdLbkh6MTQ4QlBEbEY0OTJxMUlHSXR4SzJKRTF2VmE5VlpfcmtGMDlaMTQ0MFVfZk10bUxqM1RtMGlURXlUREJSVC16VGhRUmZ4R1IzbXdZeGxxQ2dYZTlCOU5vS0FKamJobTFXUnltQW5DemUtbV8xY1NVVTZ0TmdJUXl5b2Q2cEhYUWpYZTZXY29hMkQ4cUFvTkxZZ2dsRGRPVGVBSURaRDg4NGlFSnQySGVpVjlJeXc5UW9BeDNMdHZtbVZwc1RGUGhaWEF0bEMtVU9QVXdjR3Y0UDdRMmZ1Q0VMMGRxRnRHbHl4dHQ4OG1OdjNsNUxBOHlwS1FiM0h6T1RaSjNDZ1lUa3Q?oc=5"
+      "title": "台股連2天大跌的凶手找到了 分析師強調反攻號角看 AI 六大族群優先買 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KY0RuZTF0akxEb2VXZ2NabkpsTlI3OXlrRWxtX21FTUFvNHNpeFBKbWxKT01ORkg5Sml3OXRqMnowNGRiWFQzT09Cb0JYUUk50gFWQVVfeXFMUDlwdnhlOUNXUWZVbGtxSGRSdDhqNk5Md3JPdEl0d3B6VGpCb2I0QkhyUlFYeUF3RzJoOVFMMkVpS1hwMEoxY3c5eG9taU54R2pqUlNmVFE?oc=5"
     }
   ]
 }
