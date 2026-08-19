@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 00:29",
+  "updated_tw": "08/20 00:57",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 219.42,
-      "change": -0.32,
-      "changePercent": -0.1456
+      "price": 218.91,
+      "change": -0.83,
+      "changePercent": -0.3777
     },
     "AAPL": {
-      "price": 316.67,
-      "change": 6.64,
-      "changePercent": 2.1417
+      "price": 314.81,
+      "change": 4.78,
+      "changePercent": 1.5418
     },
     "TSLA": {
-      "price": 348.29,
-      "change": 11.42,
-      "changePercent": 3.39
+      "price": 347.374,
+      "change": 10.504,
+      "changePercent": 3.1181
     },
     "QQQ": {
-      "price": 718.3,
-      "change": 0.79,
-      "changePercent": 0.1101
+      "price": 717.085,
+      "change": -0.425,
+      "changePercent": -0.0592
     },
     "SPY": {
-      "price": 770.815,
-      "change": 3.365,
-      "changePercent": 0.4385
+      "price": 769.72,
+      "change": 2.27,
+      "changePercent": 0.2958
     },
     "SCHD": {
-      "price": 35.075,
-      "change": 0.565,
-      "changePercent": 1.6372
+      "price": 35.1,
+      "change": 0.59,
+      "changePercent": 1.7097
     },
     "VOO": {
-      "price": 708.535,
-      "change": 3.135,
-      "changePercent": 0.4444
+      "price": 707.555,
+      "change": 2.155,
+      "changePercent": 0.3055
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68874.63,
-      "change": 4193.9191,
-      "changePercent": 6.484
+      "price": 68503.43,
+      "change": 3822.7191,
+      "changePercent": 5.9101
     },
     "ETH": {
-      "price": 2099.32,
-      "change": 182.8604,
-      "changePercent": 9.5416
+      "price": 2089.56,
+      "change": 173.1004,
+      "changePercent": 9.0323
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.846,
-      "change": -0.0043,
-      "changePercent": -0.0135
+      "price": 31.849,
+      "change": -0.0013,
+      "changePercent": -0.0041
     },
     "JPYTWD": {
       "price": 0.1989,
@@ -94,9 +94,9 @@
       "changePercent": -0.4918
     },
     "EURTWD": {
-      "price": 37.217,
-      "change": 0.3191,
-      "changePercent": 0.8647
+      "price": 37.209,
+      "change": 0.3111,
+      "changePercent": 0.843
     },
     "CNYTWD": {
       "price": 4.7388,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4555.1,
-    "twd": 4664.0,
-    "tael": 174894.0,
-    "twdTotal": 145062.0,
-    "changePercent": 4.3312
+    "usd": 4552.7,
+    "twd": 4662.0,
+    "tael": 174818.0,
+    "twdTotal": 144999.0,
+    "changePercent": 4.2762
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,16 +125,16 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qMkR6TjhlZWFNZ0M5a2trbHUwZUFadGZCVl8yeE9qY3ZxbnE3R2djeGE1VERRMTV2RmJXbWIya1p5WTNmRnk3VGZVZFpabk9RWE9FOW1ndjdkSXNL0gFiQVVfeXFMTkQ1Q0xDV3ZGanR6UlVaWDlJN2JacURoNTQ0aU1aRDdUaGRhNFFLU292N0p2OTVMV2Y5Tmphdk5SQl9RVGhobEZZc2pRZWZ0dnBnODMzS05mS0dpdGJVZVRpY0E?oc=5"
     },
     {
-      "title": "回購規模翻倍！美財政部突發“救市”，黃金短線暴漲70美元 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnJ1MkpmYjRuVHJabFRFbWpLMHpMUWFMdExsSWV4UXQ3S3Vaa3Z6b1VzS1V4WDB0RTcxTVdRWENDSlRuQThmNGZSSTVXYUhKeEdvSm5pdVEtS21mTjdCOXZuRlZNNWFzRUMzN3lCblRPSE5sSFZiVFBLbmhTTGEwbktGU3RRMTU2UGpwVnF3a1lmQVF6VWFEd2FvQ0xuRm1D?oc=5"
+      "title": "美股「異常平靜」藏危機！華爾街抓出3警訊　8月下旬起恐迎修正潮 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05MjMzSnI2SVl2MHVBR0xMQzYxZ3JaMHNWUE4yNWhyTEpkaE1feGx6T1lUbFc4VG5uSURua1lEUWdVYUZaRkVHR3NDSXdMRzVZQUHSAVBBVV95cUxPN0ExX1lMXzBYTVVDMmNncVpPOWNMT2RmeUUxM2JCVW8wd3FkMTZWNUlOSjBzM3hrbk1GZHdGRmFwVHV0YXVHUUdQeS1Rbm1ndw?oc=5"
     },
     {
-      "title": "美股「恐慌指數」創2026新低！專家示警：有3大未爆彈 - news.ebc.net.tw",
+      "title": "〈美股早盤〉美財政部擴大長債回購！主要指數開高 美債殖利率回落 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4weUpxOGJQWUpYdkUweXA3M1ZZMTQ2aHhLSkkzS2NJTzdmdmdmc19ObGN4Q1h0VW5obzFtUFJSNmFYZDl4NmFsSE1JdmFmT28?oc=5"
+    },
+    {
+      "title": "美股「恐慌指數」創2026新低！專家示警：有3大未爆彈 - 東森新聞",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZWViMV82YXBDU054Y3pnaVZRYTlFR0c5QU1zOVZLalpHaWQxWmZZNldXby0ybklYT1hZWkM2X2RNVENBM29kV01yRzMzbFowc2wzVFF4SQ?oc=5"
-    },
-    {
-      "title": "比特幣突破65,000美元 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kdUZZSzRfMHdydGJkSWFZaVhsYjMwWGRlMUJRQjhESkNHbFNtYjNucnBXR3hSUHdzOW5SQllNQ2JwdXU1cEllM2w5UQ?oc=5"
     },
     {
       "title": "事廢再利用邁入 2 年黃金轉型期 環境部攜手各部會接軌新制 - 環境部新聞專區",
