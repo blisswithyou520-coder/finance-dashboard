@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 02:45",
+  "updated_tw": "08/20 03:23",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 219.57,
-      "change": -0.17,
-      "changePercent": -0.0774
+      "price": 219.805,
+      "change": 0.065,
+      "changePercent": 0.0296
     },
     "AAPL": {
-      "price": 314.89,
-      "change": 4.86,
-      "changePercent": 1.5676
+      "price": 316.316,
+      "change": 6.286,
+      "changePercent": 2.0275
     },
     "TSLA": {
-      "price": 348.59,
-      "change": 11.72,
-      "changePercent": 3.4791
+      "price": 348.728,
+      "change": 11.858,
+      "changePercent": 3.5201
     },
     "QQQ": {
-      "price": 716.97,
-      "change": -0.54,
-      "changePercent": -0.0753
+      "price": 717.065,
+      "change": -0.445,
+      "changePercent": -0.062
     },
     "SPY": {
-      "price": 769.77,
-      "change": 2.32,
-      "changePercent": 0.3023
+      "price": 769.85,
+      "change": 2.4,
+      "changePercent": 0.3127
     },
     "SCHD": {
-      "price": 35.165,
-      "change": 0.655,
-      "changePercent": 1.898
+      "price": 35.14,
+      "change": 0.63,
+      "changePercent": 1.8256
     },
     "VOO": {
-      "price": 707.59,
-      "change": 2.19,
-      "changePercent": 0.3105
+      "price": 707.67,
+      "change": 2.27,
+      "changePercent": 0.3218
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68435.01,
-      "change": 3754.2991,
-      "changePercent": 5.8044
+      "price": 68296.07,
+      "change": 3615.3591,
+      "changePercent": 5.5895
     },
     "ETH": {
-      "price": 2091.24,
-      "change": 174.7804,
-      "changePercent": 9.12
+      "price": 2097.11,
+      "change": 180.6504,
+      "changePercent": 9.4263
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.852,
-      "change": 0.0017,
-      "changePercent": 0.0053
+      "price": 31.843,
+      "change": -0.0073,
+      "changePercent": -0.0229
     },
     "JPYTWD": {
-      "price": 0.199,
-      "change": -0.0009,
-      "changePercent": -0.4418
+      "price": 0.1991,
+      "change": -0.0008,
+      "changePercent": -0.3917
     },
     "EURTWD": {
-      "price": 37.221,
-      "change": 0.3231,
-      "changePercent": 0.8756
+      "price": 37.233,
+      "change": 0.3351,
+      "changePercent": 0.9081
     },
     "CNYTWD": {
-      "price": 4.738,
+      "price": 4.7364,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4539.2,
-    "twd": 4648.0,
-    "tael": 174316.0,
-    "twdTotal": 144583.0,
-    "changePercent": 3.967
+    "usd": 4561.9,
+    "twd": 4670.0,
+    "tael": 175139.0,
+    "twdTotal": 145265.0,
+    "changePercent": 4.4869
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,7 +117,7 @@
   },
   "news": [
     {
-      "title": "黃金狂跌還能漲？美銀分析師曝「衝破5000美元」關鍵條件 - Yahoo股市",
+      "title": "黃金狂跌還能漲？美銀分析師曝「衝破5000美元」關鍵條件 - tw.stock.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPYzFLSWRKY1BHYTNtQkJWR3JBZ1lreVBPTkpUU2tXTmNVcDNJYy1fQ0NRUzJnT3dvVUtuTktuYklaVTlkVTFUWFBRRGtFQTZfbEJNeVdpdy1KYUp5NXg5ZEducV8xczd1Uno3dWI5SXY4VklUNjB2M2NwS3FHLU1xSTRlLTNKVl9FNG5vMWc3SjQ4Ty1KVS1TQWRZSnNDQ21JejM2eC1BS3JvbHpDdUdHbi1RNmxST1Z0dFpyMXY0ZnY1akIxRlpIYlhHbUVPYVB2VmVybmdvTnhjN1RfWndUcUlPMjY2aGJaQ0loU2s4V3hDeW5pXzJiUFp0R3M5QnBWNG5vTF8xWG51WVBoVUVlSkdYX1FlaDRxT2R0X19QMTRHTDN2TWdwOVBuZEFLVWFaNmtZUnhMTUluMDFKYWRCQmR6cUpVUk1XUDk4Q2JfV0RWc01Hb2ZjMkFON3NSbXk3?oc=5"
     },
     {
@@ -125,7 +125,7 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qMkR6TjhlZWFNZ0M5a2trbHUwZUFadGZCVl8yeE9qY3ZxbnE3R2djeGE1VERRMTV2RmJXbWIya1p5WTNmRnk3VGZVZFpabk9RWE9FOW1ndjdkSXNL0gFiQVVfeXFMTkQ1Q0xDV3ZGanR6UlVaWDlJN2JacURoNTQ0aU1aRDdUaGRhNFFLU292N0p2OTVMV2Y5Tmphdk5SQl9RVGhobEZZc2pRZWZ0dnBnODMzS05mS0dpdGJVZVRpY0E?oc=5"
     },
     {
-      "title": "美股「異常平靜」藏危機！華爾街抓出3警訊　8月下旬起恐迎修正潮 - ETtoday財經雲",
+      "title": "美股「異常平靜」藏危機！華爾街抓出3警訊　8月下旬起恐迎修正潮 - finance.ettoday.net",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05MjMzSnI2SVl2MHVBR0xMQzYxZ3JaMHNWUE4yNWhyTEpkaE1feGx6T1lUbFc4VG5uSURua1lEUWdVYUZaRkVHR3NDSXdMRzVZQUHSAVBBVV95cUxPN0ExX1lMXzBYTVVDMmNncVpPOWNMT2RmeUUxM2JCVW8wd3FkMTZWNUlOSjBzM3hrbk1GZHdGRmFwVHV0YXVHUUdQeS1Rbm1ndw?oc=5"
     },
     {
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4weUpxOGJQWUpYdkUweXA3M1ZZMTQ2aHhLSkkzS2NJTzdmdmdmc19ObGN4Q1h0VW5obzFtUFJSNmFYZDl4NmFsSE1JdmFmT28?oc=5"
     },
     {
-      "title": "事廢再利用邁入 2 年黃金轉型期 環境部攜手各部會接軌新制 - enews.moenv.gov.tw",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVlRBbHcxc1RwMjRrblB2akt0cVhoZkVnWVN1eW9Ucl8taVV4blktdERlX3FHV1lnQkZsTnNHZDJRci1YQ09WRUpTSmxOak02NjhNX05KTmtsNmZhWDVuTmJ3bkk?oc=5"
+      "title": "美股「恐慌指數」創2026新低！專家示警：有3大未爆彈 - news.ebc.net.tw",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZWViMV82YXBDU054Y3pnaVZRYTlFR0c5QU1zOVZLalpHaWQxWmZZNldXby0ybklYT1hZWkM2X2RNVENBM29kV01yRzMzbFowc2wzVFF4SQ?oc=5"
     },
     {
       "title": "快訊／美股開盤漲跌互見！ 3指數上漲「費半獨跌近1％」 - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQS05ueTdIb3NhZmFkMW1qQ3VNWWNSX0tHdk9UZFl5LWhidmJWSDBfaDhYTkZSdnFSUUlWVnFTT1pHRXhCZEZGa3FzLXBOMFptREVhTkl2bHpkeDJMTTJHV1JXNHpXeFhHdjR5WmZYSkVmaGdsczNSZW5JVFhwcHc1dWlfN1J5SUd5UWRPLTJzRDVhc3FaVmFJcGx3ZDRJSUdnTC01QUV3RUZDeHJzSEQyVEVyZ1ZKNkwya1hXM1UtYnpuUjNzcUk4akttWEVyWVY5MllVN201ck9kYm1fZkVDWEI4V2xOY25WUlBvekoxRkdZUTY5TGdJSWtaQ2RwYXdwTkVCXzRhdWd5ckhnN2hpMlladDhfV19XcTFabFY1V1dzTVZhQlhRUFVSWVBrNTFUZldrbUZxcml2UmRRamZoeUJxM1h3cno3ellUdk0wMA?oc=5"
     },
     {
-      "title": "AI疑慮加上美債殖利率攀升 美股收黑、亞股重挫 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95b1pSYzVnR1hLLTBBN1dyZl9UcFpBbDdQT3FodU5CUFphRGR1WF85MU53MW5uRnFReTFXb0ppbzZZTmJiMGxySVpVVHM4YzQ?oc=5"
+      "title": "事廢再利用邁入 2 年黃金轉型期 環境部攜手各部會接軌新制 - 環境部新聞專區",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVlRBbHcxc1RwMjRrblB2akt0cVhoZkVnWVN1eW9Ucl8taVV4blktdERlX3FHV1lnQkZsTnNHZDJRci1YQ09WRUpTSmxOak02NjhNX05KTmtsNmZhWDVuTmJ3bkk?oc=5"
     },
     {
-      "title": "【0819台股盤後】台指期結算壓低大盤跌589 點收44,719 點！三大法人狂砍708 億，震檔盤勢中被動元件異軍突起【3090 日電貿】【6173 信昌電】【2492 華新科】｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi6AVBVV95cUxQQ2kyS29CeDl1YWhyRVIzOG9hUm5wdFQ1UEZqSUZvdW9OLUVicXNFa0oyLVRBNmh6bm53TEk2T3dpRlNudmpSOU5IZnBWUmlralRPanlqUG1JeWN2M2tEaG1vWXNudXVPTUFkVUdyY3V5bkxkV1JadEs0U0F3clhiZGo5X2hQLWJ3SE9yWGI0M1pOMXlWb21DSHRyVGRSTVN6cmY1RlowSzJrbkNJTDZMRU1WYmhoTXdhT1hfZU5NNVBFU2Z6LUV1N0V2UDREUzNKNVpXMnhhTEg3LUdGdHZHNTBmVmgzUFFnVVhSUDhGeXROSFVyQnN0ZEVwNmVyNEp0WUZGY3ROSmsxdkJtNnA1Q196bUNva1NSUVV3ODN4cjg3UDN5QjlZb1dXaS1ReFZ2S3Z3Vy1veVlTejViOWllWWZQN1dpNzltakRNX0dxMUNQRDB1dmVwcVBlX3ZZa1pRNWxOYU8yWjhiZFBVanBTaW82aTgya3JRQnprMUVSSXBtMlh4T3ZyZjN6M09JU0hZRXZEYzYyaXFTbVViaTNUa3FZM2g3TWVuNGR1Vlp1ZGs4QjFQMG5sSVlYSk1Mdm9Oamp3UUpiN3UwdGNDOXJWUTZpalJqaDJPNmNtS2g5dU14Wmx3N1lUYXB5Mnd3eW1pcUlkY1dYRmg1Sllmb3REYmNZc1hScmdtMEoxc2wyc2xqWnk2MU9JQ3RaN1FNRFluX1ZxZGFmQXUycV9YSElybWN1YkplR0pCdXJUdF9GX2Q3bFFRWURWOThfZnpWMHhFZzZZQTY2ZHo5TjlSdTZ3Y3JUWWtzZ29xZi1aM1k0dWF4M0ZMVW5DVHlfTzFacnpqTGRVM2YyQmFZbmszQ0doTDc0VXlLS0MxM2hfU1VkUzJ0TnAzTmhVZURIaW1FalJ4OWxZdFhXaDEzak1CcHpoTVNkR09BZ3JqYkQwYWhNTVJzaXE4S1E1U3dUWGlVRWZxNWM1dkI5SG8?oc=5"
+      "title": "AI疑慮加上美債殖利率攀升 美股收黑、亞股重挫 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95b1pSYzVnR1hLLTBBN1dyZl9UcFpBbDdQT3FodU5CUFphRGR1WF85MU53MW5uRnFReTFXb0ppbzZZTmJiMGxySVpVVHM4YzQ?oc=5"
     }
   ]
 }
