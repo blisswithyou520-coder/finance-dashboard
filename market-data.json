@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 04:25",
+  "updated_tw": "08/20 04:53",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -55,9 +55,9 @@
       "changePercent": -0.1993
     },
     "SPY": {
-      "price": 769.1,
-      "change": 1.65,
-      "changePercent": 0.215
+      "price": 769.06,
+      "change": 1.61,
+      "changePercent": 0.2098
     },
     "SCHD": {
       "price": 35.09,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 68788.89,
-      "change": 4108.1791,
-      "changePercent": 6.3515
+      "price": 69110.87,
+      "change": 4430.1591,
+      "changePercent": 6.8493
     },
     "ETH": {
-      "price": 2117.59,
-      "change": 201.1304,
-      "changePercent": 10.4949
+      "price": 2203.53,
+      "change": 287.0704,
+      "changePercent": 14.9792
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.851,
-      "change": -0.0309,
-      "changePercent": -0.0969
+      "price": 31.844,
+      "change": -0.0379,
+      "changePercent": -0.1189
     },
     "JPYTWD": {
       "price": 0.1992,
@@ -94,9 +94,9 @@
       "changePercent": -0.3073
     },
     "EURTWD": {
-      "price": 37.237,
-      "change": 0.3324,
-      "changePercent": 0.9007
+      "price": 37.242,
+      "change": 0.3374,
+      "changePercent": 0.9142
     },
     "CNYTWD": {
       "price": 4.7364,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4564.5,
-    "twd": 4674.0,
-    "tael": 175283.0,
-    "twdTotal": 145384.0,
-    "changePercent": 4.5465
+    "usd": 4578.7,
+    "twd": 4688.0,
+    "tael": 175789.0,
+    "twdTotal": 145804.0,
+    "changePercent": 4.8717
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,19 +133,19 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4weUpxOGJQWUpYdkUweXA3M1ZZMTQ2aHhLSkkzS2NJTzdmdmdmc19ObGN4Q1h0VW5obzFtUFJSNmFYZDl4NmFsSE1JdmFmT28?oc=5"
     },
     {
-      "title": "美股「恐慌指數」創2026新低！專家示警：有3大未爆彈 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZWViMV82YXBDU054Y3pnaVZRYTlFR0c5QU1zOVZLalpHaWQxWmZZNldXby0ybklYT1hZWkM2X2RNVENBM29kV01yRzMzbFowc2wzVFF4SQ?oc=5"
-    },
-    {
       "title": "事廢再利用邁入 2 年黃金轉型期 環境部攜手各部會接軌新制 - 環境部新聞專區",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVlRBbHcxc1RwMjRrblB2akt0cVhoZkVnWVN1eW9Ucl8taVV4blktdERlX3FHV1lnQkZsTnNHZDJRci1YQ09WRUpTSmxOak02NjhNX05KTmtsNmZhWDVuTmJ3bkk?oc=5"
+    },
+    {
+      "title": "美股「恐慌指數」創2026新低！專家示警：有3大未爆彈 - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZWViMV82YXBDU054Y3pnaVZRYTlFR0c5QU1zOVZLalpHaWQxWmZZNldXby0ybklYT1hZWkM2X2RNVENBM29kV01yRzMzbFowc2wzVFF4SQ?oc=5"
     },
     {
       "title": "AI疑慮加上美債殖利率攀升 美股收黑、亞股重挫 - 公視新聞網PNN",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95b1pSYzVnR1hLLTBBN1dyZl9UcFpBbDdQT3FodU5CUFphRGR1WF85MU53MW5uRnFReTFXb0ppbzZZTmJiMGxySVpVVHM4YzQ?oc=5"
     },
     {
-      "title": "快訊／美股4大指數回血 「知名藥廠」瘋漲破90％ - Yahoo新聞",
+      "title": "快訊／美股4大指數回血 「知名藥廠」瘋漲破90％ - tw.news.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWkVVQU11R29FSXpXOTJfa3lkSndTSnFvWkJTODRBbjlUVTZabDBJN1M4YzZ3Yzg1anh0WXpqRUZ5YUpnZVJQVDFBMzhjb1JhMFBXTVl6emdkWExCbWo1SEVSLTNGNm5hWEUxM3FuUjNWWmZ5ZjEzNXFhWWoxWjF4bXRpWjFhOFd0dkVqb3BiVWNSYVJlQ2tEeVZuTDgwdVNkcUp5ZzNzOWtfU19lZVJ5NTJ6WHdrelM3cW1RR3l3Smg2YVVaSzhJSmQxcXR4dWdfbjBRaEs1MkZJcGZTbWRmOHZsM19CbTVJSzJvM2kxN0lUSUVRUnRZTW5MZmRaMnFLOG8zS0JsYUxYalhjUGtuQ19rRzJReS01VjY0?oc=5"
     }
   ]
