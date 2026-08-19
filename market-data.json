@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 17:03",
+  "updated_tw": "08/19 17:48",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64393.55,
-      "change": -287.1609,
-      "changePercent": -0.444
+      "price": 64316.46,
+      "change": -364.2509,
+      "changePercent": -0.5632
     },
     "ETH": {
-      "price": 1922.1,
-      "change": 5.6404,
-      "changePercent": 0.2943
+      "price": 1916.52,
+      "change": 0.0604,
+      "changePercent": 0.0032
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.939,
-      "change": 0.0887,
-      "changePercent": 0.2785
+      "price": 31.942,
+      "change": 0.0917,
+      "changePercent": 0.2879
     },
     "JPYTWD": {
-      "price": 0.1984,
-      "change": -0.0015,
-      "changePercent": -0.7419
+      "price": 0.1985,
+      "change": -0.0014,
+      "changePercent": -0.6919
     },
     "EURTWD": {
-      "price": 37.082,
-      "change": 0.1841,
-      "changePercent": 0.4988
+      "price": 37.106,
+      "change": 0.2081,
+      "changePercent": 0.5639
     },
     "CNYTWD": {
-      "price": 4.7462,
+      "price": 4.7449,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4413.7,
-    "twd": 4532.0,
-    "tael": 169960.0,
-    "twdTotal": 140969.0,
-    "changePercent": 1.0925
+    "usd": 4411.1,
+    "twd": 4530.0,
+    "tael": 169876.0,
+    "twdTotal": 140899.0,
+    "changePercent": 1.033
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,12 +129,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Vb0NWTGdxQzhMclNMcnlhTFVORW1rQk5vMHZIVWFlZmhZMHhsaDBNUVpqODdhQk8zZzdZeUpDZHJrS2tpLXM5bjRMVzlGaTQ?oc=5"
     },
     {
+      "title": "美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ud2VELXM5QWRtRHp2SW5nRi1HbkRCMldHMjBUZDBCZ3REV1EtQ3FGN29YNmY3M1E5bTd5Vlp2cVJYOGJCblQxQ09aVHlBV3NfNWJaN2huay1NSDhETXVB?oc=5"
+    },
+    {
       "title": "台股震盪誰能突圍？矽晶圓、功率半導體能否複製被動元件漲價行情？｜股市話題｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQX0c5RzBfT3dJeDlIVzRRd2Q3VHJQbVFCTWc2RjNZbWplS0k4NU5Vbko2Q2xyWXV5YmFOWGZoMGpWZDNJc05QcjVmSllrMDUzeUQ5WXFrXzF5ZnhMNjdyNXRqZkMtUjhuT21xcGhveEN1MnpjcUNONXEtOTBDVm5abC1BY2xIT1R1N1Z3bHVfcnVpeEczeDJ4a25CNXpWSWRMb1dsR01hMWR4YTc3alROSFhrU0VlRzVkLW44VW1Pd1kyN3EtdVFHYndpMm9DbGtKM0Y1dDZ5YzQ5MTdBYnRzNW9nczZaeTlSMnExUVZTUGJiLWtsNWJjeEswR25TdzltRGVvNml4czU1NEprV1NZU2J6b3l6VHV5RC1qc3MtNTEwc0NSNXVTd2pXZWxYblpWX2VfY25valB2LXhpZDk4al9WMElMX0pySXJEc1g5YmctZS12Y0E5ejJ6MHg2Z0JmSFdKLUxMQl9oTk5ZX1p2S0VRRHVSbE9aTDUwcldpejNFRFNDdkE3MmhNLVZBUnEyOWlYaVk3M3RKdXFfcTZGUldKVGpZbXpVVm91bXdiS3AtTTNmUzctSDRiZ3ZQRGlFN3BsWGZzLU5OZUdFekdRUS0yRjhqQlkxallmUG5VQko5Y3dmUzFRVUhmRlFlSmlIUUs3RFl2dnVQa2NqYjluQzhn?oc=5"
     },
     {
-      "title": "美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ud2VELXM5QWRtRHp2SW5nRi1HbkRCMldHMjBUZDBCZ3REV1EtQ3FGN29YNmY3M1E5bTd5Vlp2cVJYOGJCblQxQ09aVHlBV3NfNWJaN2huay1NSDhETXVB?oc=5"
+      "title": "事廢再利用邁入 2 年黃金轉型期 環境部攜手各部會接軌新制 - 環境部新聞專區",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVlRBbHcxc1RwMjRrblB2akt0cVhoZkVnWVN1eW9Ucl8taVV4blktdERlX3FHV1lnQkZsTnNHZDJRci1YQ09WRUpTSmxOak02NjhNX05KTmtsNmZhWDVuTmJ3bkk?oc=5"
     },
     {
       "title": "台股盤中一度大跌千點 學者：美經濟基本面轉弱影響 - 公視新聞網PNN",
@@ -143,10 +147,6 @@
     {
       "title": "星期三開盤慘了？美股費半重挫近5% 台指期夜盤大暴跌 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNcHdpRnhaUGZEb3o0UXNkbnh4NUFNMVFremliODNOM1REWmdyb0VVQzVWZ0JWTlo2eUdDZUtjeTljcDZQbHhZVHExZk1pQVozaWs5aWFyWWYyYk1jc0RFQ1lNTFZkMEpoby1ZRGtpdGpRRHlZU0FNdjR4eDFFMWxoSVdsUUtYd3RkemFocVVZeUVaejktdHRsYUtRZDRHMDNJME9EbHdnNVlTMzhoUWN1SF85akJwME5BbjktRS1BZzZSLU95UTQtU1RyREVGXzM3N2hiTi1mRl9HQmJ5aXJtaGlKWmpHcjJISklYTXJhcmVfeU1HalJmNHdEMnUyTDZMZ1dwdUZ0b08xbFJmTnRSUGtVN2FiWUF2OXVtNGZGeVRDd0p6cE5DMldDcXdjY1FldTVzTF9KeE1UazVnWUtINGFNdmw2T1d4MmtMY2lyd0lRYXNPWkswSTRpcGNlbW5yQ0pveXVUOA?oc=5"
-    },
-    {
-      "title": "比特幣巨鯨結束拋售 60天增持27億美元 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwYmtLQlczSTdGdVN0cTNaQlJEelpmOC1aNmJvX1FHaVk4bDVJRlBsSWxqRmhlTnk0V3hYZTBhTERHQ2pMUy1VV2xQNA?oc=5"
     }
   ]
 }
