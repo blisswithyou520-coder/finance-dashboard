@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 01:58",
+  "updated_tw": "08/20 02:45",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 219.16,
-      "change": -0.58,
-      "changePercent": -0.264
+      "price": 219.57,
+      "change": -0.17,
+      "changePercent": -0.0774
     },
     "AAPL": {
-      "price": 315.315,
-      "change": 5.285,
-      "changePercent": 1.7047
+      "price": 314.89,
+      "change": 4.86,
+      "changePercent": 1.5676
     },
     "TSLA": {
-      "price": 347.85,
-      "change": 10.98,
-      "changePercent": 3.2594
+      "price": 348.59,
+      "change": 11.72,
+      "changePercent": 3.4791
     },
     "QQQ": {
-      "price": 716.74,
-      "change": -0.77,
-      "changePercent": -0.1073
+      "price": 716.97,
+      "change": -0.54,
+      "changePercent": -0.0753
     },
     "SPY": {
-      "price": 769.55,
-      "change": 2.1,
-      "changePercent": 0.2736
+      "price": 769.77,
+      "change": 2.32,
+      "changePercent": 0.3023
     },
     "SCHD": {
-      "price": 35.09,
-      "change": 0.58,
-      "changePercent": 1.6807
+      "price": 35.165,
+      "change": 0.655,
+      "changePercent": 1.898
     },
     "VOO": {
-      "price": 707.38,
-      "change": 1.98,
-      "changePercent": 0.2807
+      "price": 707.59,
+      "change": 2.19,
+      "changePercent": 0.3105
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68231.79,
-      "change": 3551.0791,
-      "changePercent": 5.4902
+      "price": 68435.01,
+      "change": 3754.2991,
+      "changePercent": 5.8044
     },
     "ETH": {
-      "price": 2091.22,
-      "change": 174.7604,
-      "changePercent": 9.1189
+      "price": 2091.24,
+      "change": 174.7804,
+      "changePercent": 9.12
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.841,
-      "change": -0.0093,
-      "changePercent": -0.0292
+      "price": 31.852,
+      "change": 0.0017,
+      "changePercent": 0.0053
     },
     "JPYTWD": {
-      "price": 0.1986,
-      "change": -0.0013,
-      "changePercent": -0.6419
+      "price": 0.199,
+      "change": -0.0009,
+      "changePercent": -0.4418
     },
     "EURTWD": {
-      "price": 37.184,
-      "change": 0.2861,
-      "changePercent": 0.7753
+      "price": 37.221,
+      "change": 0.3231,
+      "changePercent": 0.8756
     },
     "CNYTWD": {
-      "price": 4.7384,
+      "price": 4.738,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4546.2,
-    "twd": 4654.0,
-    "tael": 174525.0,
-    "twdTotal": 144756.0,
-    "changePercent": 4.1273
+    "usd": 4539.2,
+    "twd": 4648.0,
+    "tael": 174316.0,
+    "twdTotal": 144583.0,
+    "changePercent": 3.967
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4weUpxOGJQWUpYdkUweXA3M1ZZMTQ2aHhLSkkzS2NJTzdmdmdmc19ObGN4Q1h0VW5obzFtUFJSNmFYZDl4NmFsSE1JdmFmT28?oc=5"
     },
     {
-      "title": "美股「恐慌指數」創2026新低！專家示警：有3大未爆彈 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZWViMV82YXBDU054Y3pnaVZRYTlFR0c5QU1zOVZLalpHaWQxWmZZNldXby0ybklYT1hZWkM2X2RNVENBM29kV01yRzMzbFowc2wzVFF4SQ?oc=5"
+      "title": "事廢再利用邁入 2 年黃金轉型期 環境部攜手各部會接軌新制 - enews.moenv.gov.tw",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVlRBbHcxc1RwMjRrblB2akt0cVhoZkVnWVN1eW9Ucl8taVV4blktdERlX3FHV1lnQkZsTnNHZDJRci1YQ09WRUpTSmxOak02NjhNX05KTmtsNmZhWDVuTmJ3bkk?oc=5"
     },
     {
       "title": "快訊／美股開盤漲跌互見！ 3指數上漲「費半獨跌近1％」 - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQS05ueTdIb3NhZmFkMW1qQ3VNWWNSX0tHdk9UZFl5LWhidmJWSDBfaDhYTkZSdnFSUUlWVnFTT1pHRXhCZEZGa3FzLXBOMFptREVhTkl2bHpkeDJMTTJHV1JXNHpXeFhHdjR5WmZYSkVmaGdsczNSZW5JVFhwcHc1dWlfN1J5SUd5UWRPLTJzRDVhc3FaVmFJcGx3ZDRJSUdnTC01QUV3RUZDeHJzSEQyVEVyZ1ZKNkwya1hXM1UtYnpuUjNzcUk4akttWEVyWVY5MllVN201ck9kYm1fZkVDWEI4V2xOY25WUlBvekoxRkdZUTY5TGdJSWtaQ2RwYXdwTkVCXzRhdWd5ckhnN2hpMlladDhfV19XcTFabFY1V1dzTVZhQlhRUFVSWVBrNTFUZldrbUZxcml2UmRRamZoeUJxM1h3cno3ellUdk0wMA?oc=5"
     },
     {
-      "title": "事廢再利用邁入 2 年黃金轉型期 環境部攜手各部會接軌新制 - enews.moenv.gov.tw",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVlRBbHcxc1RwMjRrblB2akt0cVhoZkVnWVN1eW9Ucl8taVV4blktdERlX3FHV1lnQkZsTnNHZDJRci1YQ09WRUpTSmxOak02NjhNX05KTmtsNmZhWDVuTmJ3bkk?oc=5"
-    },
-    {
       "title": "AI疑慮加上美債殖利率攀升 美股收黑、亞股重挫 - 公視新聞網PNN",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95b1pSYzVnR1hLLTBBN1dyZl9UcFpBbDdQT3FodU5CUFphRGR1WF85MU53MW5uRnFReTFXb0ppbzZZTmJiMGxySVpVVHM4YzQ?oc=5"
+    },
+    {
+      "title": "【0819台股盤後】台指期結算壓低大盤跌589 點收44,719 點！三大法人狂砍708 億，震檔盤勢中被動元件異軍突起【3090 日電貿】【6173 信昌電】【2492 華新科】｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi6AVBVV95cUxQQ2kyS29CeDl1YWhyRVIzOG9hUm5wdFQ1UEZqSUZvdW9OLUVicXNFa0oyLVRBNmh6bm53TEk2T3dpRlNudmpSOU5IZnBWUmlralRPanlqUG1JeWN2M2tEaG1vWXNudXVPTUFkVUdyY3V5bkxkV1JadEs0U0F3clhiZGo5X2hQLWJ3SE9yWGI0M1pOMXlWb21DSHRyVGRSTVN6cmY1RlowSzJrbkNJTDZMRU1WYmhoTXdhT1hfZU5NNVBFU2Z6LUV1N0V2UDREUzNKNVpXMnhhTEg3LUdGdHZHNTBmVmgzUFFnVVhSUDhGeXROSFVyQnN0ZEVwNmVyNEp0WUZGY3ROSmsxdkJtNnA1Q196bUNva1NSUVV3ODN4cjg3UDN5QjlZb1dXaS1ReFZ2S3Z3Vy1veVlTejViOWllWWZQN1dpNzltakRNX0dxMUNQRDB1dmVwcVBlX3ZZa1pRNWxOYU8yWjhiZFBVanBTaW82aTgya3JRQnprMUVSSXBtMlh4T3ZyZjN6M09JU0hZRXZEYzYyaXFTbVViaTNUa3FZM2g3TWVuNGR1Vlp1ZGs4QjFQMG5sSVlYSk1Mdm9Oamp3UUpiN3UwdGNDOXJWUTZpalJqaDJPNmNtS2g5dU14Wmx3N1lUYXB5Mnd3eW1pcUlkY1dYRmg1Sllmb3REYmNZc1hScmdtMEoxc2wyc2xqWnk2MU9JQ3RaN1FNRFluX1ZxZGFmQXUycV9YSElybWN1YkplR0pCdXJUdF9GX2Q3bFFRWURWOThfZnpWMHhFZzZZQTY2ZHo5TjlSdTZ3Y3JUWWtzZ29xZi1aM1k0dWF4M0ZMVW5DVHlfTzFacnpqTGRVM2YyQmFZbmszQ0doTDc0VXlLS0MxM2hfU1VkUzJ0TnAzTmhVZURIaW1FalJ4OWxZdFhXaDEzak1CcHpoTVNkR09BZ3JqYkQwYWhNTVJzaXE4S1E1U3dUWGlVRWZxNWM1dkI5SG8?oc=5"
     }
   ]
 }
