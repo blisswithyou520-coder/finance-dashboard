@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 16:15",
+  "updated_tw": "08/19 17:03",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64198.31,
-      "change": -482.4009,
-      "changePercent": -0.7458
+      "price": 64393.55,
+      "change": -287.1609,
+      "changePercent": -0.444
     },
     "ETH": {
-      "price": 1914.23,
-      "change": -2.2296,
-      "changePercent": -0.1163
+      "price": 1922.1,
+      "change": 5.6404,
+      "changePercent": 0.2943
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.88,
-      "change": 0.0297,
-      "changePercent": 0.0932
+      "price": 31.939,
+      "change": 0.0887,
+      "changePercent": 0.2785
     },
     "JPYTWD": {
-      "price": 0.1982,
-      "change": -0.0017,
-      "changePercent": -0.842
+      "price": 0.1984,
+      "change": -0.0015,
+      "changePercent": -0.7419
     },
     "EURTWD": {
-      "price": 37.038,
-      "change": 0.1401,
-      "changePercent": 0.3796
+      "price": 37.082,
+      "change": 0.1841,
+      "changePercent": 0.4988
     },
     "CNYTWD": {
-      "price": 4.739,
+      "price": 4.7462,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4411.3,
-    "twd": 4521.0,
-    "tael": 169554.0,
-    "twdTotal": 140632.0,
-    "changePercent": 1.0376
+    "usd": 4413.7,
+    "twd": 4532.0,
+    "tael": 169960.0,
+    "twdTotal": 140969.0,
+    "changePercent": 1.0925
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,12 +129,12 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Vb0NWTGdxQzhMclNMcnlhTFVORW1rQk5vMHZIVWFlZmhZMHhsaDBNUVpqODdhQk8zZzdZeUpDZHJrS2tpLXM5bjRMVzlGaTQ?oc=5"
     },
     {
-      "title": "美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ud2VELXM5QWRtRHp2SW5nRi1HbkRCMldHMjBUZDBCZ3REV1EtQ3FGN29YNmY3M1E5bTd5Vlp2cVJYOGJCblQxQ09aVHlBV3NfNWJaN2huay1NSDhETXVB?oc=5"
-    },
-    {
       "title": "台股震盪誰能突圍？矽晶圓、功率半導體能否複製被動元件漲價行情？｜股市話題｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQX0c5RzBfT3dJeDlIVzRRd2Q3VHJQbVFCTWc2RjNZbWplS0k4NU5Vbko2Q2xyWXV5YmFOWGZoMGpWZDNJc05QcjVmSllrMDUzeUQ5WXFrXzF5ZnhMNjdyNXRqZkMtUjhuT21xcGhveEN1MnpjcUNONXEtOTBDVm5abC1BY2xIT1R1N1Z3bHVfcnVpeEczeDJ4a25CNXpWSWRMb1dsR01hMWR4YTc3alROSFhrU0VlRzVkLW44VW1Pd1kyN3EtdVFHYndpMm9DbGtKM0Y1dDZ5YzQ5MTdBYnRzNW9nczZaeTlSMnExUVZTUGJiLWtsNWJjeEswR25TdzltRGVvNml4czU1NEprV1NZU2J6b3l6VHV5RC1qc3MtNTEwc0NSNXVTd2pXZWxYblpWX2VfY25valB2LXhpZDk4al9WMElMX0pySXJEc1g5YmctZS12Y0E5ejJ6MHg2Z0JmSFdKLUxMQl9oTk5ZX1p2S0VRRHVSbE9aTDUwcldpejNFRFNDdkE3MmhNLVZBUnEyOWlYaVk3M3RKdXFfcTZGUldKVGpZbXpVVm91bXdiS3AtTTNmUzctSDRiZ3ZQRGlFN3BsWGZzLU5OZUdFekdRUS0yRjhqQlkxallmUG5VQko5Y3dmUzFRVUhmRlFlSmlIUUs3RFl2dnVQa2NqYjluQzhn?oc=5"
+    },
+    {
+      "title": "美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ud2VELXM5QWRtRHp2SW5nRi1HbkRCMldHMjBUZDBCZ3REV1EtQ3FGN29YNmY3M1E5bTd5Vlp2cVJYOGJCblQxQ09aVHlBV3NfNWJaN2huay1NSDhETXVB?oc=5"
     },
     {
       "title": "台股盤中一度大跌千點 學者：美經濟基本面轉弱影響 - 公視新聞網PNN",
