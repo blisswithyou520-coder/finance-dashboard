@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 19:50",
+  "updated_tw": "08/19 20:42",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64454.59,
-      "change": -226.1209,
-      "changePercent": -0.3496
+      "price": 64825.05,
+      "change": 144.3391,
+      "changePercent": 0.2232
     },
     "ETH": {
-      "price": 1921.4,
-      "change": 4.9404,
-      "changePercent": 0.2578
+      "price": 1927.72,
+      "change": 11.2604,
+      "changePercent": 0.5876
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.942,
-      "change": 0.0917,
-      "changePercent": 0.2879
+      "price": 31.906,
+      "change": 0.0557,
+      "changePercent": 0.1749
     },
     "JPYTWD": {
-      "price": 0.1986,
-      "change": -0.0013,
-      "changePercent": -0.6419
+      "price": 0.1993,
+      "change": -0.0006,
+      "changePercent": -0.2917
     },
     "EURTWD": {
-      "price": 37.117,
-      "change": 0.2191,
-      "changePercent": 0.5937
+      "price": 37.109,
+      "change": 0.2111,
+      "changePercent": 0.572
     },
     "CNYTWD": {
-      "price": 4.7464,
+      "price": 4.7371,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4421.7,
-    "twd": 4541.0,
-    "tael": 170284.0,
-    "twdTotal": 141238.0,
-    "changePercent": 1.2758
+    "usd": 4429.0,
+    "twd": 4543.0,
+    "tael": 170373.0,
+    "twdTotal": 141312.0,
+    "changePercent": 1.443
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,7 +129,7 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Vb0NWTGdxQzhMclNMcnlhTFVORW1rQk5vMHZIVWFlZmhZMHhsaDBNUVpqODdhQk8zZzdZeUpDZHJrS2tpLXM5bjRMVzlGaTQ?oc=5"
     },
     {
-      "title": "事廢再利用邁入 2 年黃金轉型期 環境部攜手各部會接軌新制 - 環境部新聞專區",
+      "title": "事廢再利用邁入 2 年黃金轉型期 環境部攜手各部會接軌新制 - enews.moenv.gov.tw",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVlRBbHcxc1RwMjRrblB2akt0cVhoZkVnWVN1eW9Ucl8taVV4blktdERlX3FHV1lnQkZsTnNHZDJRci1YQ09WRUpTSmxOak02NjhNX05KTmtsNmZhWDVuTmJ3bkk?oc=5"
     },
     {
