@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 00:57",
+  "updated_tw": "08/20 01:30",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -35,51 +35,51 @@
   },
   "us": {
     "NVDA": {
-      "price": 218.91,
-      "change": -0.83,
-      "changePercent": -0.3777
+      "price": 219.08,
+      "change": -0.66,
+      "changePercent": -0.3004
     },
     "AAPL": {
-      "price": 314.81,
-      "change": 4.78,
-      "changePercent": 1.5418
+      "price": 315.05,
+      "change": 5.02,
+      "changePercent": 1.6192
     },
     "TSLA": {
-      "price": 347.374,
-      "change": 10.504,
-      "changePercent": 3.1181
+      "price": 346.955,
+      "change": 10.085,
+      "changePercent": 2.9937
     },
     "QQQ": {
-      "price": 717.085,
-      "change": -0.425,
-      "changePercent": -0.0592
+      "price": 716.59,
+      "change": -0.92,
+      "changePercent": -0.1282
     },
     "SPY": {
-      "price": 769.72,
-      "change": 2.27,
-      "changePercent": 0.2958
+      "price": 769.66,
+      "change": 2.21,
+      "changePercent": 0.288
     },
     "SCHD": {
-      "price": 35.1,
-      "change": 0.59,
-      "changePercent": 1.7097
+      "price": 35.09,
+      "change": 0.58,
+      "changePercent": 1.6807
     },
     "VOO": {
-      "price": 707.555,
-      "change": 2.155,
-      "changePercent": 0.3055
+      "price": 707.43,
+      "change": 2.03,
+      "changePercent": 0.2878
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68503.43,
-      "change": 3822.7191,
-      "changePercent": 5.9101
+      "price": 67946.14,
+      "change": 3265.4291,
+      "changePercent": 5.0485
     },
     "ETH": {
-      "price": 2089.56,
-      "change": 173.1004,
-      "changePercent": 9.0323
+      "price": 2074.98,
+      "change": 158.5204,
+      "changePercent": 8.2715
     }
   },
   "fx": {
@@ -89,27 +89,27 @@
       "changePercent": -0.0041
     },
     "JPYTWD": {
-      "price": 0.1989,
-      "change": -0.001,
-      "changePercent": -0.4918
+      "price": 0.1988,
+      "change": -0.0011,
+      "changePercent": -0.5418
     },
     "EURTWD": {
-      "price": 37.209,
-      "change": 0.3111,
-      "changePercent": 0.843
+      "price": 37.201,
+      "change": 0.3031,
+      "changePercent": 0.8214
     },
     "CNYTWD": {
-      "price": 4.7388,
+      "price": 4.7391,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4552.7,
-    "twd": 4662.0,
-    "tael": 174818.0,
-    "twdTotal": 144999.0,
-    "changePercent": 4.2762
+    "usd": 4546.5,
+    "twd": 4655.0,
+    "tael": 174580.0,
+    "twdTotal": 144801.0,
+    "changePercent": 4.1342
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,12 +137,12 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZWViMV82YXBDU054Y3pnaVZRYTlFR0c5QU1zOVZLalpHaWQxWmZZNldXby0ybklYT1hZWkM2X2RNVENBM29kV01yRzMzbFowc2wzVFF4SQ?oc=5"
     },
     {
-      "title": "事廢再利用邁入 2 年黃金轉型期 環境部攜手各部會接軌新制 - 環境部新聞專區",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVlRBbHcxc1RwMjRrblB2akt0cVhoZkVnWVN1eW9Ucl8taVV4blktdERlX3FHV1lnQkZsTnNHZDJRci1YQ09WRUpTSmxOak02NjhNX05KTmtsNmZhWDVuTmJ3bkk?oc=5"
-    },
-    {
       "title": "快訊／美股開盤漲跌互見！ 3指數上漲「費半獨跌近1％」 - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQS05ueTdIb3NhZmFkMW1qQ3VNWWNSX0tHdk9UZFl5LWhidmJWSDBfaDhYTkZSdnFSUUlWVnFTT1pHRXhCZEZGa3FzLXBOMFptREVhTkl2bHpkeDJMTTJHV1JXNHpXeFhHdjR5WmZYSkVmaGdsczNSZW5JVFhwcHc1dWlfN1J5SUd5UWRPLTJzRDVhc3FaVmFJcGx3ZDRJSUdnTC01QUV3RUZDeHJzSEQyVEVyZ1ZKNkwya1hXM1UtYnpuUjNzcUk4akttWEVyWVY5MllVN201ck9kYm1fZkVDWEI4V2xOY25WUlBvekoxRkdZUTY5TGdJSWtaQ2RwYXdwTkVCXzRhdWd5ckhnN2hpMlladDhfV19XcTFabFY1V1dzTVZhQlhRUFVSWVBrNTFUZldrbUZxcml2UmRRamZoeUJxM1h3cno3ellUdk0wMA?oc=5"
+    },
+    {
+      "title": "事廢再利用邁入 2 年黃金轉型期 環境部攜手各部會接軌新制 - enews.moenv.gov.tw",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVlRBbHcxc1RwMjRrblB2akt0cVhoZkVnWVN1eW9Ucl8taVV4blktdERlX3FHV1lnQkZsTnNHZDJRci1YQ09WRUpTSmxOak02NjhNX05KTmtsNmZhWDVuTmJ3bkk?oc=5"
     },
     {
       "title": "AI疑慮加上美債殖利率攀升 美股收黑、亞股重挫 - 公視新聞網PNN",
