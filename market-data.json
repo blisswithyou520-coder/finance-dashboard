@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 13:28",
+  "updated_tw": "08/19 13:57",
   "taiwan": {
     "2330": {
-      "price": 2340.0,
-      "change": -40.0,
-      "changePercent": -1.6807
+      "price": 2350.0,
+      "change": -30.0,
+      "changePercent": -1.2605
     },
     "2454": {
-      "price": 3835.0,
-      "change": -50.0,
-      "changePercent": -1.287
+      "price": 3845.0,
+      "change": -40.0,
+      "changePercent": -1.0296
     },
     "2317": {
-      "price": 245.5,
-      "change": -3.5,
-      "changePercent": -1.4056
+      "price": 245.0,
+      "change": -4.0,
+      "changePercent": -1.6064
     },
     "0050": {
       "price": 103.1,
@@ -23,14 +23,14 @@
       "changePercent": -3.147
     },
     "00878": {
-      "price": 32.31,
-      "change": -1.44,
-      "changePercent": -4.2667
+      "price": 32.3,
+      "change": -1.45,
+      "changePercent": -4.2963
     },
     "00919": {
-      "price": 30.42,
-      "change": 0.08,
-      "changePercent": 0.2637
+      "price": 30.39,
+      "change": 0.05,
+      "changePercent": 0.1648
     }
   },
   "us": {
@@ -51,13 +51,13 @@
     },
     "QQQ": {
       "price": 717.51,
-      "change": -13.56,
-      "changePercent": -1.8548
+      "change": -12.36,
+      "changePercent": -1.6935
     },
     "SPY": {
       "price": 767.45,
-      "change": -8.89,
-      "changePercent": -1.1451
+      "change": -5.22,
+      "changePercent": -0.6756
     },
     "SCHD": {
       "price": 34.51,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64312.63,
-      "change": -193.6239,
-      "changePercent": -0.3002
+      "price": 64194.84,
+      "change": -311.4139,
+      "changePercent": -0.4828
     },
     "ETH": {
-      "price": 1912.2,
-      "change": -0.0021,
-      "changePercent": -0.0001
+      "price": 1908.52,
+      "change": -3.6821,
+      "changePercent": -0.1926
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.854,
-      "change": 0.0037,
-      "changePercent": 0.0116
+      "price": 31.873,
+      "change": 0.0227,
+      "changePercent": 0.0713
     },
     "JPYTWD": {
       "price": 0.1979,
@@ -94,22 +94,22 @@
       "changePercent": -0.9921
     },
     "EURTWD": {
-      "price": 36.965,
-      "change": 0.0671,
-      "changePercent": 0.1818
+      "price": 36.984,
+      "change": 0.0861,
+      "changePercent": 0.2332
     },
     "CNYTWD": {
-      "price": 4.7343,
+      "price": 4.7369,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4390.9,
+    "usd": 4388.9,
     "twd": 4497.0,
-    "tael": 168632.0,
-    "twdTotal": 139868.0,
-    "changePercent": 0.5703
+    "tael": 168656.0,
+    "twdTotal": 139887.0,
+    "changePercent": 0.5245
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,7 +129,7 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Vb0NWTGdxQzhMclNMcnlhTFVORW1rQk5vMHZIVWFlZmhZMHhsaDBNUVpqODdhQk8zZzdZeUpDZHJrS2tpLXM5bjRMVzlGaTQ?oc=5"
     },
     {
-      "title": "美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ - 自由財經",
+      "title": "美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ - ec.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ud2VELXM5QWRtRHp2SW5nRi1HbkRCMldHMjBUZDBCZ3REV1EtQ3FGN29YNmY3M1E5bTd5Vlp2cVJYOGJCblQxQ09aVHlBV3NfNWJaN2huay1NSDhETXVB?oc=5"
     },
     {
@@ -137,12 +137,12 @@
       "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQX0c5RzBfT3dJeDlIVzRRd2Q3VHJQbVFCTWc2RjNZbWplS0k4NU5Vbko2Q2xyWXV5YmFOWGZoMGpWZDNJc05QcjVmSllrMDUzeUQ5WXFrXzF5ZnhMNjdyNXRqZkMtUjhuT21xcGhveEN1MnpjcUNONXEtOTBDVm5abC1BY2xIT1R1N1Z3bHVfcnVpeEczeDJ4a25CNXpWSWRMb1dsR01hMWR4YTc3alROSFhrU0VlRzVkLW44VW1Pd1kyN3EtdVFHYndpMm9DbGtKM0Y1dDZ5YzQ5MTdBYnRzNW9nczZaeTlSMnExUVZTUGJiLWtsNWJjeEswR25TdzltRGVvNml4czU1NEprV1NZU2J6b3l6VHV5RC1qc3MtNTEwc0NSNXVTd2pXZWxYblpWX2VfY25valB2LXhpZDk4al9WMElMX0pySXJEc1g5YmctZS12Y0E5ejJ6MHg2Z0JmSFdKLUxMQl9oTk5ZX1p2S0VRRHVSbE9aTDUwcldpejNFRFNDdkE3MmhNLVZBUnEyOWlYaVk3M3RKdXFfcTZGUldKVGpZbXpVVm91bXdiS3AtTTNmUzctSDRiZ3ZQRGlFN3BsWGZzLU5OZUdFekdRUS0yRjhqQlkxallmUG5VQko5Y3dmUzFRVUhmRlFlSmlIUUs3RFl2dnVQa2NqYjluQzhn?oc=5"
     },
     {
-      "title": "星期三開盤慘了？美股費半重挫近5% 台指期夜盤大暴跌 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNcHdpRnhaUGZEb3o0UXNkbnh4NUFNMVFremliODNOM1REWmdyb0VVQzVWZ0JWTlo2eUdDZUtjeTljcDZQbHhZVHExZk1pQVozaWs5aWFyWWYyYk1jc0RFQ1lNTFZkMEpoby1ZRGtpdGpRRHlZU0FNdjR4eDFFMWxoSVdsUUtYd3RkemFocVVZeUVaejktdHRsYUtRZDRHMDNJME9EbHdnNVlTMzhoUWN1SF85akJwME5BbjktRS1BZzZSLU95UTQtU1RyREVGXzM3N2hiTi1mRl9HQmJ5aXJtaGlKWmpHcjJISklYTXJhcmVfeU1HalJmNHdEMnUyTDZMZ1dwdUZ0b08xbFJmTnRSUGtVN2FiWUF2OXVtNGZGeVRDd0p6cE5DMldDcXdjY1FldTVzTF9KeE1UazVnWUtINGFNdmw2T1d4MmtMY2lyd0lRYXNPWkswSTRpcGNlbW5yQ0pveXVUOA?oc=5"
+      "title": "台股盤中一度大跌千點 學者：美經濟基本面轉弱影響 - 公視新聞網PNN",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xYWhDeUN4NVcxYTBHQVJkT2EzeHNnVXJ2Q0JLc1lZRUNFaVlnWlo5UkZNRkt2TWdSSXJ5R0xqbm1RZHVCbXNKa3JOR3JhN2c?oc=5"
     },
     {
-      "title": "台股連2天大跌的凶手找到了 分析師強調反攻號角看 AI 六大族群優先買 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KY0RuZTF0akxEb2VXZ2NabkpsTlI3OXlrRWxtX21FTUFvNHNpeFBKbWxKT01ORkg5Sml3OXRqMnowNGRiWFQzT09Cb0JYUUk50gFWQVVfeXFMUDlwdnhlOUNXUWZVbGtxSGRSdDhqNk5Md3JPdEl0d3B6VGpCb2I0QkhyUlFYeUF3RzJoOVFMMkVpS1hwMEoxY3c5eG9taU54R2pqUlNmVFE?oc=5"
+      "title": "星期三開盤慘了？美股費半重挫近5% 台指期夜盤大暴跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNcHdpRnhaUGZEb3o0UXNkbnh4NUFNMVFremliODNOM1REWmdyb0VVQzVWZ0JWTlo2eUdDZUtjeTljcDZQbHhZVHExZk1pQVozaWs5aWFyWWYyYk1jc0RFQ1lNTFZkMEpoby1ZRGtpdGpRRHlZU0FNdjR4eDFFMWxoSVdsUUtYd3RkemFocVVZeUVaejktdHRsYUtRZDRHMDNJME9EbHdnNVlTMzhoUWN1SF85akJwME5BbjktRS1BZzZSLU95UTQtU1RyREVGXzM3N2hiTi1mRl9HQmJ5aXJtaGlKWmpHcjJISklYTXJhcmVfeU1HalJmNHdEMnUyTDZMZ1dwdUZ0b08xbFJmTnRSUGtVN2FiWUF2OXVtNGZGeVRDd0p6cE5DMldDcXdjY1FldTVzTF9KeE1UazVnWUtINGFNdmw2T1d4MmtMY2lyd0lRYXNPWkswSTRpcGNlbW5yQ0pveXVUOA?oc=5"
     },
     {
       "title": "美股法說｜Home Depot Q2財報優於預期、線上營收連五季雙位數成長但股價拉回收平(HD US)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
