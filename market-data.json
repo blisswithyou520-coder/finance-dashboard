@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 10:31",
+  "updated_tw": "08/19 11:29",
   "taiwan": {
     "2330": {
-      "price": 2350.0,
-      "change": -30.0,
-      "changePercent": -1.2605
+      "price": 2345.0,
+      "change": -35.0,
+      "changePercent": -1.4706
     },
     "2454": {
-      "price": 3835.0,
-      "change": -50.0,
-      "changePercent": -1.287
+      "price": 3845.0,
+      "change": -40.0,
+      "changePercent": -1.0296
     },
     "2317": {
-      "price": 245.0,
-      "change": -4.0,
-      "changePercent": -1.6064
+      "price": 246.5,
+      "change": -2.5,
+      "changePercent": -1.004
     },
     "0050": {
-      "price": 103.3,
-      "change": -3.15,
-      "changePercent": -2.9591
+      "price": 103.55,
+      "change": -2.9,
+      "changePercent": -2.7243
     },
     "00878": {
-      "price": 32.08,
-      "change": -1.67,
-      "changePercent": -4.9481
+      "price": 32.28,
+      "change": -1.47,
+      "changePercent": -4.3556
     },
     "00919": {
-      "price": 30.21,
-      "change": -0.13,
-      "changePercent": -0.4285
+      "price": 30.35,
+      "change": 0.01,
+      "changePercent": 0.033
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64345.0,
-      "change": -161.2539,
-      "changePercent": -0.25
+      "price": 64314.57,
+      "change": -191.6839,
+      "changePercent": -0.2972
     },
     "ETH": {
-      "price": 1908.42,
-      "change": -3.7821,
-      "changePercent": -0.1978
+      "price": 1911.5,
+      "change": -0.7021,
+      "changePercent": -0.0367
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.898,
-      "change": 0.0477,
-      "changePercent": 0.1498
+      "price": 31.874,
+      "change": 0.0237,
+      "changePercent": 0.0744
     },
     "JPYTWD": {
-      "price": 0.1977,
-      "change": -0.0022,
-      "changePercent": -1.0921
+      "price": 0.1978,
+      "change": -0.0021,
+      "changePercent": -1.0421
     },
     "EURTWD": {
-      "price": 36.936,
-      "change": 0.0381,
-      "changePercent": 0.1032
+      "price": 36.96,
+      "change": 0.0621,
+      "changePercent": 0.1682
     },
     "CNYTWD": {
-      "price": 4.7294,
+      "price": 4.7335,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4414.9,
-    "twd": 4528.0,
-    "tael": 169788.0,
-    "twdTotal": 140826.0,
-    "changePercent": -0.0656
+    "usd": 4406.2,
+    "twd": 4515.0,
+    "tael": 169326.0,
+    "twdTotal": 140443.0,
+    "changePercent": 0.9208
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,7 +129,7 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Vb0NWTGdxQzhMclNMcnlhTFVORW1rQk5vMHZIVWFlZmhZMHhsaDBNUVpqODdhQk8zZzdZeUpDZHJrS2tpLXM5bjRMVzlGaTQ?oc=5"
     },
     {
-      "title": "美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ - 自由財經",
+      "title": "美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ - ec.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ud2VELXM5QWRtRHp2SW5nRi1HbkRCMldHMjBUZDBCZ3REV1EtQ3FGN29YNmY3M1E5bTd5Vlp2cVJYOGJCblQxQ09aVHlBV3NfNWJaN2huay1NSDhETXVB?oc=5"
     },
     {
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNZ0VJOHVYT2E3TGE5TzMtN0lZSzhCTjVKcjhnaVNZbUJtcWNLbmlqRVVHSzVXRkhUMkozUjRxMkVveHFkN2x2X3pRMmJEUjhPZlRucGpfMjRsOWNxbThyX1h2SkNJdUtlSDZ5QVBxQ2tTaGRwZF9peGx0UGNwbV9yZnh1TWVQRkxCQTRxbENuczZORFlweWxhdDFIT1dva1VRYkJueV9EMnlTZXJ1TEhNbEk5eHR1V0lqeGZoMi1yMFpLVnFFcUY2dWlaYW53dUQyb0lZZWUyY0ktR2FzVGRvbUhQS2R0S2RyWVRuYkdna2k4RzdLbkh6MTQ4QlBEbEY0OTJxMUlHSXR4SzJKRTF2VmE5VlpfcmtGMDlaMTQ0MFVfZk10bUxqM1RtMGlURXlUREJSVC16VGhRUmZ4R1IzbXdZeGxxQ2dYZTlCOU5vS0FKamJobTFXUnltQW5DemUtbV8xY1NVVTZ0TmdJUXl5b2Q2cEhYUWpYZTZXY29hMkQ4cUFvTkxZZ2dsRGRPVGVBSURaRDg4NGlFSnQySGVpVjlJeXc5UW9BeDNMdHZtbVZwc1RGUGhaWEF0bEMtVU9QVXdjR3Y0UDdRMmZ1Q0VMMGRxRnRHbHl4dHQ4OG1OdjNsNUxBOHlwS1FiM0h6T1RaSjNDZ1lUa3Q?oc=5"
     },
     {
-      "title": "美股盡墨費半挫近5% 法人：台股面臨45000點保衛戰| 證券 - cna.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hZVMxU1NCNG91alNlUlhmbEFvQmNJeFdGLVhKZDFLbjNPLVh3eTZzcVY1VWowM3o1MWJRQk1WR0FPckNCdkZlanJlOWxjU28wTVd1RG5kenJkTDA3aWc?oc=5"
+      "title": "權值股走跌 台股早盤急跌近千點失守45000點 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sbnU5dklWbXpXYXd0UFN6Y1JDWUptdGNfcHl6LWxnMmFTMGhOOW9GbVFwN21YUGx3S3BZVE0zYXd2Zk12dklrOC1sZm1xbVhBRVhFd1hXcWxUdDVLOXc?oc=5"
     },
     {
       "title": "星期三開盤慘了？美股費半重挫近5% 台指期夜盤大暴跌 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNcHdpRnhaUGZEb3o0UXNkbnh4NUFNMVFremliODNOM1REWmdyb0VVQzVWZ0JWTlo2eUdDZUtjeTljcDZQbHhZVHExZk1pQVozaWs5aWFyWWYyYk1jc0RFQ1lNTFZkMEpoby1ZRGtpdGpRRHlZU0FNdjR4eDFFMWxoSVdsUUtYd3RkemFocVVZeUVaejktdHRsYUtRZDRHMDNJME9EbHdnNVlTMzhoUWN1SF85akJwME5BbjktRS1BZzZSLU95UTQtU1RyREVGXzM3N2hiTi1mRl9HQmJ5aXJtaGlKWmpHcjJISklYTXJhcmVfeU1HalJmNHdEMnUyTDZMZ1dwdUZ0b08xbFJmTnRSUGtVN2FiWUF2OXVtNGZGeVRDd0p6cE5DMldDcXdjY1FldTVzTF9KeE1UazVnWUtINGFNdmw2T1d4MmtMY2lyd0lRYXNPWkswSTRpcGNlbW5yQ0pveXVUOA?oc=5"
     },
     {
-      "title": "美股早盤／AI 發債搶錢 美長債殖利率衝19年高 費半瀉3% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tUXA2c3N3SS1NWU42UlhtMEkxTUExNGk2TW92T2NjUkFreTliTmpXbmRwd093enhVWDMwQl9FSHN5M2FfelRsVTZaYXI4RnhPYWxXcEZLSVdocTA10gFiQVVfeXFMT0hDdW5jNXZ5ckd0RWRSRmdoWnlQU3hQM1hQbVB0UDM4V18yZGNKTENoX1o1X0ZndXZUS1ZFckI5MjlWdnBHRllfZFV4bE1aYjg5LWJIQl8weDA5VUVnc2wwTnc?oc=5"
+      "title": "Coldcard超千枚比特幣被盜事件追蹤：首輪攻擊者身份或已被FBI掌握 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FS0RJN3NmY0RGa1JTSmdMNENuV196UldpS2VEUDk0UHFoT185S1lSQ1k3RTRmS2ItQUEyQUE2MFVsa3ZyRG1aSU0tOA?oc=5"
     }
   ]
 }
