@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 03:49",
+  "updated_tw": "08/20 04:25",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -35,68 +35,68 @@
   },
   "us": {
     "NVDA": {
-      "price": 218.3,
-      "change": -1.44,
-      "changePercent": -0.6553
+      "price": 217.56,
+      "change": -2.18,
+      "changePercent": -0.9921
     },
     "AAPL": {
-      "price": 315.685,
-      "change": 5.655,
-      "changePercent": 1.824
+      "price": 316.83,
+      "change": 6.8,
+      "changePercent": 2.1933
     },
     "TSLA": {
-      "price": 347.635,
-      "change": 10.765,
-      "changePercent": 3.1956
+      "price": 351.12,
+      "change": 14.25,
+      "changePercent": 4.2301
     },
     "QQQ": {
-      "price": 715.765,
-      "change": -1.745,
-      "changePercent": -0.2432
+      "price": 716.08,
+      "change": -1.43,
+      "changePercent": -0.1993
     },
     "SPY": {
-      "price": 768.71,
-      "change": 1.26,
-      "changePercent": 0.1642
+      "price": 769.1,
+      "change": 1.65,
+      "changePercent": 0.215
     },
     "SCHD": {
-      "price": 35.066,
-      "change": 0.556,
-      "changePercent": 1.6111
+      "price": 35.09,
+      "change": 0.58,
+      "changePercent": 1.6807
     },
     "VOO": {
-      "price": 706.63,
-      "change": 1.23,
-      "changePercent": 0.1744
+      "price": 706.91,
+      "change": 1.51,
+      "changePercent": 0.2141
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68359.38,
-      "change": 3678.6691,
-      "changePercent": 5.6874
+      "price": 68788.89,
+      "change": 4108.1791,
+      "changePercent": 6.3515
     },
     "ETH": {
-      "price": 2097.2,
-      "change": 180.7404,
-      "changePercent": 9.431
+      "price": 2117.59,
+      "change": 201.1304,
+      "changePercent": 10.4949
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.854,
-      "change": 0.0037,
-      "changePercent": 0.0116
+      "price": 31.851,
+      "change": -0.0309,
+      "changePercent": -0.0969
     },
     "JPYTWD": {
-      "price": 0.1991,
-      "change": -0.0008,
-      "changePercent": -0.3917
+      "price": 0.1992,
+      "change": -0.0006,
+      "changePercent": -0.3073
     },
     "EURTWD": {
-      "price": 37.224,
-      "change": 0.3261,
-      "changePercent": 0.8837
+      "price": 37.237,
+      "change": 0.3324,
+      "changePercent": 0.9007
     },
     "CNYTWD": {
       "price": 4.7364,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4564.1,
+    "usd": 4564.5,
     "twd": 4674.0,
-    "tael": 175284.0,
-    "twdTotal": 145385.0,
-    "changePercent": 4.5373
+    "tael": 175283.0,
+    "twdTotal": 145384.0,
+    "changePercent": 4.5465
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,7 +117,7 @@
   },
   "news": [
     {
-      "title": "黃金狂跌還能漲？美銀分析師曝「衝破5000美元」關鍵條件 - tw.stock.yahoo.com",
+      "title": "黃金狂跌還能漲？美銀分析師曝「衝破5000美元」關鍵條件 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPYzFLSWRKY1BHYTNtQkJWR3JBZ1lreVBPTkpUU2tXTmNVcDNJYy1fQ0NRUzJnT3dvVUtuTktuYklaVTlkVTFUWFBRRGtFQTZfbEJNeVdpdy1KYUp5NXg5ZEducV8xczd1Uno3dWI5SXY4VklUNjB2M2NwS3FHLU1xSTRlLTNKVl9FNG5vMWc3SjQ4Ty1KVS1TQWRZSnNDQ21JejM2eC1BS3JvbHpDdUdHbi1RNmxST1Z0dFpyMXY0ZnY1akIxRlpIYlhHbUVPYVB2VmVybmdvTnhjN1RfWndUcUlPMjY2aGJaQ0loU2s4V3hDeW5pXzJiUFp0R3M5QnBWNG5vTF8xWG51WVBoVUVlSkdYX1FlaDRxT2R0X19QMTRHTDN2TWdwOVBuZEFLVWFaNmtZUnhMTUluMDFKYWRCQmR6cUpVUk1XUDk4Q2JfV0RWc01Hb2ZjMkFON3NSbXk3?oc=5"
     },
     {
@@ -125,7 +125,7 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qMkR6TjhlZWFNZ0M5a2trbHUwZUFadGZCVl8yeE9qY3ZxbnE3R2djeGE1VERRMTV2RmJXbWIya1p5WTNmRnk3VGZVZFpabk9RWE9FOW1ndjdkSXNL0gFiQVVfeXFMTkQ1Q0xDV3ZGanR6UlVaWDlJN2JacURoNTQ0aU1aRDdUaGRhNFFLU292N0p2OTVMV2Y5Tmphdk5SQl9RVGhobEZZc2pRZWZ0dnBnODMzS05mS0dpdGJVZVRpY0E?oc=5"
     },
     {
-      "title": "美股「異常平靜」藏危機！華爾街抓出3警訊　8月下旬起恐迎修正潮 - finance.ettoday.net",
+      "title": "美股「異常平靜」藏危機！華爾街抓出3警訊　8月下旬起恐迎修正潮 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05MjMzSnI2SVl2MHVBR0xMQzYxZ3JaMHNWUE4yNWhyTEpkaE1feGx6T1lUbFc4VG5uSURua1lEUWdVYUZaRkVHR3NDSXdMRzVZQUHSAVBBVV95cUxPN0ExX1lMXzBYTVVDMmNncVpPOWNMT2RmeUUxM2JCVW8wd3FkMTZWNUlOSjBzM3hrbk1GZHdGRmFwVHV0YXVHUUdQeS1Rbm1ndw?oc=5"
     },
     {
@@ -133,7 +133,7 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4weUpxOGJQWUpYdkUweXA3M1ZZMTQ2aHhLSkkzS2NJTzdmdmdmc19ObGN4Q1h0VW5obzFtUFJSNmFYZDl4NmFsSE1JdmFmT28?oc=5"
     },
     {
-      "title": "美股「恐慌指數」創2026新低！專家示警：有3大未爆彈 - news.ebc.net.tw",
+      "title": "美股「恐慌指數」創2026新低！專家示警：有3大未爆彈 - 東森新聞",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZWViMV82YXBDU054Y3pnaVZRYTlFR0c5QU1zOVZLalpHaWQxWmZZNldXby0ybklYT1hZWkM2X2RNVENBM29kV01yRzMzbFowc2wzVFF4SQ?oc=5"
     },
     {
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVlRBbHcxc1RwMjRrblB2akt0cVhoZkVnWVN1eW9Ucl8taVV4blktdERlX3FHV1lnQkZsTnNHZDJRci1YQ09WRUpTSmxOak02NjhNX05KTmtsNmZhWDVuTmJ3bkk?oc=5"
     },
     {
-      "title": "快訊／美股開盤漲跌互見！ 3指數上漲「費半獨跌近1％」 - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQS05ueTdIb3NhZmFkMW1qQ3VNWWNSX0tHdk9UZFl5LWhidmJWSDBfaDhYTkZSdnFSUUlWVnFTT1pHRXhCZEZGa3FzLXBOMFptREVhTkl2bHpkeDJMTTJHV1JXNHpXeFhHdjR5WmZYSkVmaGdsczNSZW5JVFhwcHc1dWlfN1J5SUd5UWRPLTJzRDVhc3FaVmFJcGx3ZDRJSUdnTC01QUV3RUZDeHJzSEQyVEVyZ1ZKNkwya1hXM1UtYnpuUjNzcUk4akttWEVyWVY5MllVN201ck9kYm1fZkVDWEI4V2xOY25WUlBvekoxRkdZUTY5TGdJSWtaQ2RwYXdwTkVCXzRhdWd5ckhnN2hpMlladDhfV19XcTFabFY1V1dzTVZhQlhRUFVSWVBrNTFUZldrbUZxcml2UmRRamZoeUJxM1h3cno3ellUdk0wMA?oc=5"
-    },
-    {
       "title": "AI疑慮加上美債殖利率攀升 美股收黑、亞股重挫 - 公視新聞網PNN",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95b1pSYzVnR1hLLTBBN1dyZl9UcFpBbDdQT3FodU5CUFphRGR1WF85MU53MW5uRnFReTFXb0ppbzZZTmJiMGxySVpVVHM4YzQ?oc=5"
+    },
+    {
+      "title": "快訊／美股4大指數回血 「知名藥廠」瘋漲破90％ - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWkVVQU11R29FSXpXOTJfa3lkSndTSnFvWkJTODRBbjlUVTZabDBJN1M4YzZ3Yzg1anh0WXpqRUZ5YUpnZVJQVDFBMzhjb1JhMFBXTVl6emdkWExCbWo1SEVSLTNGNm5hWEUxM3FuUjNWWmZ5ZjEzNXFhWWoxWjF4bXRpWjFhOFd0dkVqb3BiVWNSYVJlQ2tEeVZuTDgwdVNkcUp5ZzNzOWtfU19lZVJ5NTJ6WHdrelM3cW1RR3l3Smg2YVVaSzhJSmQxcXR4dWdfbjBRaEs1MkZJcGZTbWRmOHZsM19CbTVJSzJvM2kxN0lUSUVRUnRZTW5MZmRaMnFLOG8zS0JsYUxYalhjUGtuQ19rRzJReS01VjY0?oc=5"
     }
   ]
 }
