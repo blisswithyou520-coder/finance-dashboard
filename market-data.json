@@ -1,11 +1,11 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 11:29",
+  "updated_tw": "08/19 12:10",
   "taiwan": {
     "2330": {
-      "price": 2345.0,
-      "change": -35.0,
-      "changePercent": -1.4706
+      "price": 2350.0,
+      "change": -30.0,
+      "changePercent": -1.2605
     },
     "2454": {
       "price": 3845.0,
@@ -13,9 +13,9 @@
       "changePercent": -1.0296
     },
     "2317": {
-      "price": 246.5,
-      "change": -2.5,
-      "changePercent": -1.004
+      "price": 246.0,
+      "change": -3.0,
+      "changePercent": -1.2048
     },
     "0050": {
       "price": 103.55,
@@ -23,26 +23,26 @@
       "changePercent": -2.7243
     },
     "00878": {
-      "price": 32.28,
-      "change": -1.47,
-      "changePercent": -4.3556
+      "price": 32.33,
+      "change": -1.42,
+      "changePercent": -4.2074
     },
     "00919": {
-      "price": 30.35,
-      "change": 0.01,
-      "changePercent": 0.033
+      "price": 30.4,
+      "change": 0.06,
+      "changePercent": 0.1978
     }
   },
   "us": {
     "NVDA": {
       "price": 219.74,
-      "change": -5.27,
-      "changePercent": -2.3421
+      "change": -5.42,
+      "changePercent": -2.4072
     },
     "AAPL": {
       "price": 310.03,
-      "change": 4.44,
-      "changePercent": 1.4529
+      "change": 4.1,
+      "changePercent": 1.3402
     },
     "TSLA": {
       "price": 336.87,
@@ -61,8 +61,8 @@
     },
     "SCHD": {
       "price": 34.51,
-      "change": 0.22,
-      "changePercent": 0.6416
+      "change": -0.01,
+      "changePercent": -0.029
     },
     "VOO": {
       "price": 705.4,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64314.57,
-      "change": -191.6839,
-      "changePercent": -0.2972
+      "price": 64243.08,
+      "change": -263.1739,
+      "changePercent": -0.408
     },
     "ETH": {
-      "price": 1911.5,
-      "change": -0.7021,
-      "changePercent": -0.0367
+      "price": 1909.17,
+      "change": -3.0321,
+      "changePercent": -0.1586
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.874,
-      "change": 0.0237,
-      "changePercent": 0.0744
+      "price": 31.877,
+      "change": 0.0267,
+      "changePercent": 0.0838
     },
     "JPYTWD": {
       "price": 0.1978,
@@ -94,22 +94,22 @@
       "changePercent": -1.0421
     },
     "EURTWD": {
-      "price": 36.96,
-      "change": 0.0621,
-      "changePercent": 0.1682
+      "price": 36.97,
+      "change": 0.0721,
+      "changePercent": 0.1953
     },
     "CNYTWD": {
-      "price": 4.7335,
+      "price": 4.7369,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4406.2,
-    "twd": 4515.0,
-    "tael": 169326.0,
-    "twdTotal": 140443.0,
-    "changePercent": 0.9208
+    "usd": 4409.6,
+    "twd": 4519.0,
+    "tael": 169472.0,
+    "twdTotal": 140565.0,
+    "changePercent": 0.9986
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Vb0NWTGdxQzhMclNMcnlhTFVORW1rQk5vMHZIVWFlZmhZMHhsaDBNUVpqODdhQk8zZzdZeUpDZHJrS2tpLXM5bjRMVzlGaTQ?oc=5"
     },
     {
-      "title": "美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ - ec.ltn.com.tw",
+      "title": "美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ud2VELXM5QWRtRHp2SW5nRi1HbkRCMldHMjBUZDBCZ3REV1EtQ3FGN29YNmY3M1E5bTd5Vlp2cVJYOGJCblQxQ09aVHlBV3NfNWJaN2huay1NSDhETXVB?oc=5"
     },
     {
-      "title": "美股法說｜Home Depot Q2財報優於預期、線上營收連五季雙位數成長但股價拉回收平(HD US)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNZ0VJOHVYT2E3TGE5TzMtN0lZSzhCTjVKcjhnaVNZbUJtcWNLbmlqRVVHSzVXRkhUMkozUjRxMkVveHFkN2x2X3pRMmJEUjhPZlRucGpfMjRsOWNxbThyX1h2SkNJdUtlSDZ5QVBxQ2tTaGRwZF9peGx0UGNwbV9yZnh1TWVQRkxCQTRxbENuczZORFlweWxhdDFIT1dva1VRYkJueV9EMnlTZXJ1TEhNbEk5eHR1V0lqeGZoMi1yMFpLVnFFcUY2dWlaYW53dUQyb0lZZWUyY0ktR2FzVGRvbUhQS2R0S2RyWVRuYkdna2k4RzdLbkh6MTQ4QlBEbEY0OTJxMUlHSXR4SzJKRTF2VmE5VlpfcmtGMDlaMTQ0MFVfZk10bUxqM1RtMGlURXlUREJSVC16VGhRUmZ4R1IzbXdZeGxxQ2dYZTlCOU5vS0FKamJobTFXUnltQW5DemUtbV8xY1NVVTZ0TmdJUXl5b2Q2cEhYUWpYZTZXY29hMkQ4cUFvTkxZZ2dsRGRPVGVBSURaRDg4NGlFSnQySGVpVjlJeXc5UW9BeDNMdHZtbVZwc1RGUGhaWEF0bEMtVU9QVXdjR3Y0UDdRMmZ1Q0VMMGRxRnRHbHl4dHQ4OG1OdjNsNUxBOHlwS1FiM0h6T1RaSjNDZ1lUa3Q?oc=5"
-    },
-    {
-      "title": "權值股走跌 台股早盤急跌近千點失守45000點 - cna.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sbnU5dklWbXpXYXd0UFN6Y1JDWUptdGNfcHl6LWxnMmFTMGhOOW9GbVFwN21YUGx3S3BZVE0zYXd2Zk12dklrOC1sZm1xbVhBRVhFd1hXcWxUdDVLOXc?oc=5"
+      "title": "台股震盪誰能突圍？矽晶圓、功率半導體能否複製被動元件漲價行情？｜股市話題｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQX0c5RzBfT3dJeDlIVzRRd2Q3VHJQbVFCTWc2RjNZbWplS0k4NU5Vbko2Q2xyWXV5YmFOWGZoMGpWZDNJc05QcjVmSllrMDUzeUQ5WXFrXzF5ZnhMNjdyNXRqZkMtUjhuT21xcGhveEN1MnpjcUNONXEtOTBDVm5abC1BY2xIT1R1N1Z3bHVfcnVpeEczeDJ4a25CNXpWSWRMb1dsR01hMWR4YTc3alROSFhrU0VlRzVkLW44VW1Pd1kyN3EtdVFHYndpMm9DbGtKM0Y1dDZ5YzQ5MTdBYnRzNW9nczZaeTlSMnExUVZTUGJiLWtsNWJjeEswR25TdzltRGVvNml4czU1NEprV1NZU2J6b3l6VHV5RC1qc3MtNTEwc0NSNXVTd2pXZWxYblpWX2VfY25valB2LXhpZDk4al9WMElMX0pySXJEc1g5YmctZS12Y0E5ejJ6MHg2Z0JmSFdKLUxMQl9oTk5ZX1p2S0VRRHVSbE9aTDUwcldpejNFRFNDdkE3MmhNLVZBUnEyOWlYaVk3M3RKdXFfcTZGUldKVGpZbXpVVm91bXdiS3AtTTNmUzctSDRiZ3ZQRGlFN3BsWGZzLU5OZUdFekdRUS0yRjhqQlkxallmUG5VQko5Y3dmUzFRVUhmRlFlSmlIUUs3RFl2dnVQa2NqYjluQzhn?oc=5"
     },
     {
       "title": "星期三開盤慘了？美股費半重挫近5% 台指期夜盤大暴跌 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNcHdpRnhaUGZEb3o0UXNkbnh4NUFNMVFremliODNOM1REWmdyb0VVQzVWZ0JWTlo2eUdDZUtjeTljcDZQbHhZVHExZk1pQVozaWs5aWFyWWYyYk1jc0RFQ1lNTFZkMEpoby1ZRGtpdGpRRHlZU0FNdjR4eDFFMWxoSVdsUUtYd3RkemFocVVZeUVaejktdHRsYUtRZDRHMDNJME9EbHdnNVlTMzhoUWN1SF85akJwME5BbjktRS1BZzZSLU95UTQtU1RyREVGXzM3N2hiTi1mRl9HQmJ5aXJtaGlKWmpHcjJISklYTXJhcmVfeU1HalJmNHdEMnUyTDZMZ1dwdUZ0b08xbFJmTnRSUGtVN2FiWUF2OXVtNGZGeVRDd0p6cE5DMldDcXdjY1FldTVzTF9KeE1UazVnWUtINGFNdmw2T1d4MmtMY2lyd0lRYXNPWkswSTRpcGNlbW5yQ0pveXVUOA?oc=5"
     },
     {
-      "title": "Coldcard超千枚比特幣被盜事件追蹤：首輪攻擊者身份或已被FBI掌握 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FS0RJN3NmY0RGa1JTSmdMNENuV196UldpS2VEUDk0UHFoT185S1lSQ1k3RTRmS2ItQUEyQUE2MFVsa3ZyRG1aSU0tOA?oc=5"
+      "title": "美股法說｜Home Depot Q2財報優於預期、線上營收連五季雙位數成長但股價拉回收平(HD US)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNZ0VJOHVYT2E3TGE5TzMtN0lZSzhCTjVKcjhnaVNZbUJtcWNLbmlqRVVHSzVXRkhUMkozUjRxMkVveHFkN2x2X3pRMmJEUjhPZlRucGpfMjRsOWNxbThyX1h2SkNJdUtlSDZ5QVBxQ2tTaGRwZF9peGx0UGNwbV9yZnh1TWVQRkxCQTRxbENuczZORFlweWxhdDFIT1dva1VRYkJueV9EMnlTZXJ1TEhNbEk5eHR1V0lqeGZoMi1yMFpLVnFFcUY2dWlaYW53dUQyb0lZZWUyY0ktR2FzVGRvbUhQS2R0S2RyWVRuYkdna2k4RzdLbkh6MTQ4QlBEbEY0OTJxMUlHSXR4SzJKRTF2VmE5VlpfcmtGMDlaMTQ0MFVfZk10bUxqM1RtMGlURXlUREJSVC16VGhRUmZ4R1IzbXdZeGxxQ2dYZTlCOU5vS0FKamJobTFXUnltQW5DemUtbV8xY1NVVTZ0TmdJUXl5b2Q2cEhYUWpYZTZXY29hMkQ4cUFvTkxZZ2dsRGRPVGVBSURaRDg4NGlFSnQySGVpVjlJeXc5UW9BeDNMdHZtbVZwc1RGUGhaWEF0bEMtVU9QVXdjR3Y0UDdRMmZ1Q0VMMGRxRnRHbHl4dHQ4OG1OdjNsNUxBOHlwS1FiM0h6T1RaSjNDZ1lUa3Q?oc=5"
+    },
+    {
+      "title": "美股早盤／AI 發債搶錢 美長債殖利率衝19年高 費半瀉3% - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tUXA2c3N3SS1NWU42UlhtMEkxTUExNGk2TW92T2NjUkFreTliTmpXbmRwd093enhVWDMwQl9FSHN5M2FfelRsVTZaYXI4RnhPYWxXcEZLSVdocTA10gFiQVVfeXFMT0hDdW5jNXZ5ckd0RWRSRmdoWnlQU3hQM1hQbVB0UDM4V18yZGNKTENoX1o1X0ZndXZUS1ZFckI5MjlWdnBHRllfZFV4bE1aYjg5LWJIQl8weDA5VUVnc2wwTnc?oc=5"
     }
   ]
 }
