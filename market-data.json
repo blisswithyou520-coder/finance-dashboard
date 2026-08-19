@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 05:23",
+  "updated_tw": "08/20 05:50",
   "taiwan": {
     "2330": {
       "price": 2350.0,
-      "change": -50.0,
-      "changePercent": -2.0833
+      "change": -30.0,
+      "changePercent": -1.2605
     },
     "2454": {
       "price": 3845.0,
-      "change": -205.0,
-      "changePercent": -5.0617
+      "change": -40.0,
+      "changePercent": -1.0296
     },
     "2317": {
       "price": 245.0,
-      "change": -10.0,
-      "changePercent": -3.9216
+      "change": -4.0,
+      "changePercent": -1.6064
     },
     "0050": {
       "price": 103.1,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 69701.16,
-      "change": 5020.4491,
-      "changePercent": 7.7619
+      "price": 69758.08,
+      "change": 5077.3691,
+      "changePercent": 7.8499
     },
     "ETH": {
-      "price": 2269.95,
-      "change": 353.4904,
-      "changePercent": 18.445
+      "price": 2291.1,
+      "change": 374.6404,
+      "changePercent": 19.5486
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.846,
-      "change": -0.0359,
-      "changePercent": -0.1126
+      "price": 31.845,
+      "change": -0.0369,
+      "changePercent": -0.1157
     },
     "JPYTWD": {
       "price": 0.1992,
@@ -94,12 +94,12 @@
       "changePercent": -0.3073
     },
     "EURTWD": {
-      "price": 37.225,
-      "change": 0.3204,
-      "changePercent": 0.8681
+      "price": 37.232,
+      "change": 0.3274,
+      "changePercent": 0.8871
     },
     "CNYTWD": {
-      "price": 4.7388,
+      "price": 4.736,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -107,8 +107,8 @@
   "gold": {
     "usd": 4580.7,
     "twd": 4690.0,
-    "tael": 175877.0,
-    "twdTotal": 145877.0,
+    "tael": 175871.0,
+    "twdTotal": 145872.0,
     "changePercent": 4.9175
   },
   "fed": {
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZWViMV82YXBDU054Y3pnaVZRYTlFR0c5QU1zOVZLalpHaWQxWmZZNldXby0ybklYT1hZWkM2X2RNVENBM29kV01yRzMzbFowc2wzVFF4SQ?oc=5"
     },
     {
-      "title": "快訊／美股4大指數回血 「知名藥廠」瘋漲破90％ - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWkVVQU11R29FSXpXOTJfa3lkSndTSnFvWkJTODRBbjlUVTZabDBJN1M4YzZ3Yzg1anh0WXpqRUZ5YUpnZVJQVDFBMzhjb1JhMFBXTVl6emdkWExCbWo1SEVSLTNGNm5hWEUxM3FuUjNWWmZ5ZjEzNXFhWWoxWjF4bXRpWjFhOFd0dkVqb3BiVWNSYVJlQ2tEeVZuTDgwdVNkcUp5ZzNzOWtfU19lZVJ5NTJ6WHdrelM3cW1RR3l3Smg2YVVaSzhJSmQxcXR4dWdfbjBRaEs1MkZJcGZTbWRmOHZsM19CbTVJSzJvM2kxN0lUSUVRUnRZTW5MZmRaMnFLOG8zS0JsYUxYalhjUGtuQ19rRzJReS01VjY0?oc=5"
+      "title": "Forbes: 比特幣或解決美元特里芬難題，成為全球中性儲備資產 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1WU8yUi1kcnphWDFTazM3eUdwVVpzWmp4aGZIREExeW5qVUwyRFE2MmNuZ0lNV3FnQjNKbHlBQVRKZFltcjBUbTdxUQ?oc=5"
     },
     {
-      "title": "〈美股盤後〉全球債市掀起拋售風暴 晶片股全面潰敗 費半指數狂瀉近5% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Vb0NWTGdxQzhMclNMcnlhTFVORW1rQk5vMHZIVWFlZmhZMHhsaDBNUVpqODdhQk8zZzdZeUpDZHJrS2tpLXM5bjRMVzlGaTQ?oc=5"
+      "title": "快訊／美股4大指數回血 「知名藥廠」瘋漲破90％ - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWkVVQU11R29FSXpXOTJfa3lkSndTSnFvWkJTODRBbjlUVTZabDBJN1M4YzZ3Yzg1anh0WXpqRUZ5YUpnZVJQVDFBMzhjb1JhMFBXTVl6emdkWExCbWo1SEVSLTNGNm5hWEUxM3FuUjNWWmZ5ZjEzNXFhWWoxWjF4bXRpWjFhOFd0dkVqb3BiVWNSYVJlQ2tEeVZuTDgwdVNkcUp5ZzNzOWtfU19lZVJ5NTJ6WHdrelM3cW1RR3l3Smg2YVVaSzhJSmQxcXR4dWdfbjBRaEs1MkZJcGZTbWRmOHZsM19CbTVJSzJvM2kxN0lUSUVRUnRZTW5MZmRaMnFLOG8zS0JsYUxYalhjUGtuQ19rRzJReS01VjY0?oc=5"
     }
   ]
 }
