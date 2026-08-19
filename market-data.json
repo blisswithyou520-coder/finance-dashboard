@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 05:50",
+  "updated_tw": "08/20 06:22",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 103.1,
-      "change": -3.3,
-      "changePercent": -3.1015
+      "change": -3.35,
+      "changePercent": -3.147
     },
     "00878": {
       "price": 32.3,
-      "change": -1.57,
-      "changePercent": -4.6354
+      "change": -1.45,
+      "changePercent": -4.2963
     },
     "00919": {
       "price": 30.39,
-      "change": -0.18,
-      "changePercent": -0.5888
+      "change": 0.05,
+      "changePercent": 0.1648
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 69758.08,
-      "change": 5077.3691,
-      "changePercent": 7.8499
+      "price": 69262.19,
+      "change": 4581.4791,
+      "changePercent": 7.0832
     },
     "ETH": {
-      "price": 2291.1,
-      "change": 374.6404,
-      "changePercent": 19.5486
+      "price": 2265.22,
+      "change": 348.7604,
+      "changePercent": 18.1982
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.845,
-      "change": -0.0369,
-      "changePercent": -0.1157
+      "price": 31.849,
+      "change": -0.0329,
+      "changePercent": -0.1032
     },
     "JPYTWD": {
-      "price": 0.1992,
-      "change": -0.0006,
-      "changePercent": -0.3073
+      "price": 0.1993,
+      "change": -0.0005,
+      "changePercent": -0.2572
     },
     "EURTWD": {
-      "price": 37.232,
-      "change": 0.3274,
-      "changePercent": 0.8871
+      "price": 37.239,
+      "change": 0.3344,
+      "changePercent": 0.9061
     },
     "CNYTWD": {
-      "price": 4.736,
+      "price": 4.7361,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4580.7,
-    "twd": 4690.0,
-    "tael": 175871.0,
-    "twdTotal": 145872.0,
-    "changePercent": 4.9175
+    "usd": 4577.3,
+    "twd": 4687.0,
+    "tael": 175763.0,
+    "twdTotal": 145782.0,
+    "changePercent": 4.8397
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,7 +121,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPYzFLSWRKY1BHYTNtQkJWR3JBZ1lreVBPTkpUU2tXTmNVcDNJYy1fQ0NRUzJnT3dvVUtuTktuYklaVTlkVTFUWFBRRGtFQTZfbEJNeVdpdy1KYUp5NXg5ZEducV8xczd1Uno3dWI5SXY4VklUNjB2M2NwS3FHLU1xSTRlLTNKVl9FNG5vMWc3SjQ4Ty1KVS1TQWRZSnNDQ21JejM2eC1BS3JvbHpDdUdHbi1RNmxST1Z0dFpyMXY0ZnY1akIxRlpIYlhHbUVPYVB2VmVybmdvTnhjN1RfWndUcUlPMjY2aGJaQ0loU2s4V3hDeW5pXzJiUFp0R3M5QnBWNG5vTF8xWG51WVBoVUVlSkdYX1FlaDRxT2R0X19QMTRHTDN2TWdwOVBuZEFLVWFaNmtZUnhMTUluMDFKYWRCQmR6cUpVUk1XUDk4Q2JfV0RWc01Hb2ZjMkFON3NSbXk3?oc=5"
     },
     {
-      "title": "美股早盤／美財政部加碼買債 費半仍跌 但邁威爾飆10% - 經濟日報",
+      "title": "美股早盤／美財政部加碼買債 費半仍跌 但邁威爾飆10% - money.udn.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qMkR6TjhlZWFNZ0M5a2trbHUwZUFadGZCVl8yeE9qY3ZxbnE3R2djeGE1VERRMTV2RmJXbWIya1p5WTNmRnk3VGZVZFpabk9RWE9FOW1ndjdkSXNL0gFiQVVfeXFMTkQ1Q0xDV3ZGanR6UlVaWDlJN2JacURoNTQ0aU1aRDdUaGRhNFFLU292N0p2OTVMV2Y5Tmphdk5SQl9RVGhobEZZc2pRZWZ0dnBnODMzS05mS0dpdGJVZVRpY0E?oc=5"
     },
     {
@@ -145,7 +145,7 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1WU8yUi1kcnphWDFTazM3eUdwVVpzWmp4aGZIREExeW5qVUwyRFE2MmNuZ0lNV3FnQjNKbHlBQVRKZFltcjBUbTdxUQ?oc=5"
     },
     {
-      "title": "快訊／美股4大指數回血 「知名藥廠」瘋漲破90％ - Yahoo新聞",
+      "title": "快訊／美股4大指數回血 「知名藥廠」瘋漲破90％ - tw.news.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWkVVQU11R29FSXpXOTJfa3lkSndTSnFvWkJTODRBbjlUVTZabDBJN1M4YzZ3Yzg1anh0WXpqRUZ5YUpnZVJQVDFBMzhjb1JhMFBXTVl6emdkWExCbWo1SEVSLTNGNm5hWEUxM3FuUjNWWmZ5ZjEzNXFhWWoxWjF4bXRpWjFhOFd0dkVqb3BiVWNSYVJlQ2tEeVZuTDgwdVNkcUp5ZzNzOWtfU19lZVJ5NTJ6WHdrelM3cW1RR3l3Smg2YVVaSzhJSmQxcXR4dWdfbjBRaEs1MkZJcGZTbWRmOHZsM19CbTVJSzJvM2kxN0lUSUVRUnRZTW5MZmRaMnFLOG8zS0JsYUxYalhjUGtuQ19rRzJReS01VjY0?oc=5"
     }
   ]
