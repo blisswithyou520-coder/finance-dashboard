@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 20:42",
+  "updated_tw": "08/19 21:31",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 219.74,
-      "change": -5.27,
-      "changePercent": -2.3421
+      "price": 222.007,
+      "change": 2.267,
+      "changePercent": 1.0317
     },
     "AAPL": {
-      "price": 310.03,
-      "change": 4.44,
-      "changePercent": 1.4529
+      "price": 310.54,
+      "change": 0.51,
+      "changePercent": 0.1645
     },
     "TSLA": {
-      "price": 336.87,
-      "change": -2.43,
-      "changePercent": -0.7162
+      "price": 338.482,
+      "change": 1.612,
+      "changePercent": 0.4785
     },
     "QQQ": {
-      "price": 717.51,
-      "change": -12.36,
-      "changePercent": -1.6935
+      "price": 720.235,
+      "change": 2.725,
+      "changePercent": 0.3798
     },
     "SPY": {
-      "price": 767.45,
-      "change": -5.22,
-      "changePercent": -0.6756
+      "price": 770.405,
+      "change": 2.955,
+      "changePercent": 0.385
     },
     "SCHD": {
-      "price": 34.51,
-      "change": 0.22,
-      "changePercent": 0.6416
+      "price": 34.905,
+      "change": 0.395,
+      "changePercent": 1.1446
     },
     "VOO": {
-      "price": 705.4,
-      "change": -4.87,
-      "changePercent": -0.6857
+      "price": 708.265,
+      "change": 2.865,
+      "changePercent": 0.4061
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64825.05,
-      "change": 144.3391,
-      "changePercent": 0.2232
+      "price": 65145.43,
+      "change": 464.7191,
+      "changePercent": 0.7185
     },
     "ETH": {
-      "price": 1927.72,
-      "change": 11.2604,
-      "changePercent": 0.5876
+      "price": 1938.29,
+      "change": 21.8304,
+      "changePercent": 1.1391
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.906,
-      "change": 0.0557,
-      "changePercent": 0.1749
+      "price": 31.845,
+      "change": -0.0053,
+      "changePercent": -0.0166
     },
     "JPYTWD": {
-      "price": 0.1993,
-      "change": -0.0006,
-      "changePercent": -0.2917
+      "price": 0.1988,
+      "change": -0.0011,
+      "changePercent": -0.5418
     },
     "EURTWD": {
-      "price": 37.109,
-      "change": 0.2111,
-      "changePercent": 0.572
+      "price": 37.153,
+      "change": 0.2551,
+      "changePercent": 0.6913
     },
     "CNYTWD": {
-      "price": 4.7371,
+      "price": 4.7376,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4429.0,
-    "twd": 4543.0,
-    "tael": 170373.0,
-    "twdTotal": 141312.0,
-    "changePercent": 1.443
+    "usd": 4515.8,
+    "twd": 4623.0,
+    "tael": 173380.0,
+    "twdTotal": 143806.0,
+    "changePercent": 3.4311
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,12 +129,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Vb0NWTGdxQzhMclNMcnlhTFVORW1rQk5vMHZIVWFlZmhZMHhsaDBNUVpqODdhQk8zZzdZeUpDZHJrS2tpLXM5bjRMVzlGaTQ?oc=5"
     },
     {
-      "title": "事廢再利用邁入 2 年黃金轉型期 環境部攜手各部會接軌新制 - enews.moenv.gov.tw",
+      "title": "事廢再利用邁入 2 年黃金轉型期 環境部攜手各部會接軌新制 - 環境部新聞專區",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVlRBbHcxc1RwMjRrblB2akt0cVhoZkVnWVN1eW9Ucl8taVV4blktdERlX3FHV1lnQkZsTnNHZDJRci1YQ09WRUpTSmxOak02NjhNX05KTmtsNmZhWDVuTmJ3bkk?oc=5"
-    },
-    {
-      "title": "熬過 11 個月陣痛期！VanEck：比特幣「8 大投降訊號」亮燈、步入築底階段 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaXg3MVEtOVJ2SDdJR2tLN3NJb01abFYtSkRKWXRSNDJWOFpLb0pXVVdMNlRQU1lMeVRGMnZJQjNWYlNnSWhISmV4Qk1qaDhmY01PbldzOHdOcjFlc1dxbndfdWEzcXlwcjZXcDBZcVdqcWlpdnlKU1R3XzBuRGE2QUhUclotRlJiRDFSUXlR?oc=5"
     },
     {
       "title": "美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ - 自由財經",
@@ -147,6 +143,10 @@
     {
       "title": "星期三開盤慘了？美股費半重挫近5% 台指期夜盤大暴跌 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNcHdpRnhaUGZEb3o0UXNkbnh4NUFNMVFremliODNOM1REWmdyb0VVQzVWZ0JWTlo2eUdDZUtjeTljcDZQbHhZVHExZk1pQVozaWs5aWFyWWYyYk1jc0RFQ1lNTFZkMEpoby1ZRGtpdGpRRHlZU0FNdjR4eDFFMWxoSVdsUUtYd3RkemFocVVZeUVaejktdHRsYUtRZDRHMDNJME9EbHdnNVlTMzhoUWN1SF85akJwME5BbjktRS1BZzZSLU95UTQtU1RyREVGXzM3N2hiTi1mRl9HQmJ5aXJtaGlKWmpHcjJISklYTXJhcmVfeU1HalJmNHdEMnUyTDZMZ1dwdUZ0b08xbFJmTnRSUGtVN2FiWUF2OXVtNGZGeVRDd0p6cE5DMldDcXdjY1FldTVzTF9KeE1UazVnWUtINGFNdmw2T1d4MmtMY2lyd0lRYXNPWkswSTRpcGNlbW5yQ0pveXVUOA?oc=5"
+    },
+    {
+      "title": "比特幣巨鯨重返市場 兩個月增持27.5億美元 | 國際焦點 | 國際 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14NnBaZ0VoWnM3cENaVEhxUW55X2N2MVRZTFpJekNCQTkxMHFZX2VOaE1rUW5pX3BFdjZucFUzMFh6eGwyVVJsLXJfdTVSaUpEdFFEUThhWXdndw?oc=5"
     }
   ]
 }
