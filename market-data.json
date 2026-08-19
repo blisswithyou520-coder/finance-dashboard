@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/19 14:53",
+  "updated_tw": "08/19 15:36",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64240.37,
-      "change": -265.8839,
-      "changePercent": -0.4122
+      "price": 64336.55,
+      "change": -344.1609,
+      "changePercent": -0.5321
     },
     "ETH": {
-      "price": 1912.95,
-      "change": 0.7479,
-      "changePercent": 0.0391
+      "price": 1919.27,
+      "change": 2.8104,
+      "changePercent": 0.1466
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.917,
-      "change": 0.0667,
-      "changePercent": 0.2094
+      "price": 31.913,
+      "change": 0.0627,
+      "changePercent": 0.1969
     },
     "JPYTWD": {
-      "price": 0.1982,
-      "change": -0.0017,
-      "changePercent": -0.842
+      "price": 0.1983,
+      "change": -0.0016,
+      "changePercent": -0.792
     },
     "EURTWD": {
-      "price": 37.058,
-      "change": 0.1601,
-      "changePercent": 0.4338
+      "price": 37.055,
+      "change": 0.1571,
+      "changePercent": 0.4257
     },
     "CNYTWD": {
-      "price": 4.7443,
+      "price": 4.7433,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4396.6,
-    "twd": 4512.0,
-    "tael": 169185.0,
-    "twdTotal": 140326.0,
-    "changePercent": 0.7009
+    "usd": 4409.1,
+    "twd": 4524.0,
+    "tael": 169645.0,
+    "twdTotal": 140708.0,
+    "changePercent": 0.9872
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xYWhDeUN4NVcxYTBHQVJkT2EzeHNnVXJ2Q0JLc1lZRUNFaVlnWlo5UkZNRkt2TWdSSXJ5R0xqbm1RZHVCbXNKa3JOR3JhN2c?oc=5"
     },
     {
-      "title": "星期三開盤慘了？美股費半重挫近5% 台指期夜盤大暴跌 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNcHdpRnhaUGZEb3o0UXNkbnh4NUFNMVFremliODNOM1REWmdyb0VVQzVWZ0JWTlo2eUdDZUtjeTljcDZQbHhZVHExZk1pQVozaWs5aWFyWWYyYk1jc0RFQ1lNTFZkMEpoby1ZRGtpdGpRRHlZU0FNdjR4eDFFMWxoSVdsUUtYd3RkemFocVVZeUVaejktdHRsYUtRZDRHMDNJME9EbHdnNVlTMzhoUWN1SF85akJwME5BbjktRS1BZzZSLU95UTQtU1RyREVGXzM3N2hiTi1mRl9HQmJ5aXJtaGlKWmpHcjJISklYTXJhcmVfeU1HalJmNHdEMnUyTDZMZ1dwdUZ0b08xbFJmTnRSUGtVN2FiWUF2OXVtNGZGeVRDd0p6cE5DMldDcXdjY1FldTVzTF9KeE1UazVnWUtINGFNdmw2T1d4MmtMY2lyd0lRYXNPWkswSTRpcGNlbW5yQ0pveXVUOA?oc=5"
+      "title": "熬過 11 個月陣痛期！VanEck：比特幣「8 大投降訊號」亮燈、步入築底階段 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaXg3MVEtOVJ2SDdJR2tLN3NJb01abFYtSkRKWXRSNDJWOFpLb0pXVVdMNlRQU1lMeVRGMnZJQjNWYlNnSWhISmV4Qk1qaDhmY01PbldzOHdOcjFlc1dxbndfdWEzcXlwcjZXcDBZcVdqcWlpdnlKU1R3XzBuRGE2QUhUclotRlJiRDFSUXlR?oc=5"
     },
     {
-      "title": "台股連2天大跌的凶手找到了 分析師強調反攻號角看 AI 六大族群優先買 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KY0RuZTF0akxEb2VXZ2NabkpsTlI3OXlrRWxtX21FTUFvNHNpeFBKbWxKT01ORkg5Sml3OXRqMnowNGRiWFQzT09Cb0JYUUk50gFWQVVfeXFMUDlwdnhlOUNXUWZVbGtxSGRSdDhqNk5Md3JPdEl0d3B6VGpCb2I0QkhyUlFYeUF3RzJoOVFMMkVpS1hwMEoxY3c5eG9taU54R2pqUlNmVFE?oc=5"
+      "title": "星期三開盤慘了？美股費半重挫近5% 台指期夜盤大暴跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNcHdpRnhaUGZEb3o0UXNkbnh4NUFNMVFremliODNOM1REWmdyb0VVQzVWZ0JWTlo2eUdDZUtjeTljcDZQbHhZVHExZk1pQVozaWs5aWFyWWYyYk1jc0RFQ1lNTFZkMEpoby1ZRGtpdGpRRHlZU0FNdjR4eDFFMWxoSVdsUUtYd3RkemFocVVZeUVaejktdHRsYUtRZDRHMDNJME9EbHdnNVlTMzhoUWN1SF85akJwME5BbjktRS1BZzZSLU95UTQtU1RyREVGXzM3N2hiTi1mRl9HQmJ5aXJtaGlKWmpHcjJISklYTXJhcmVfeU1HalJmNHdEMnUyTDZMZ1dwdUZ0b08xbFJmTnRSUGtVN2FiWUF2OXVtNGZGeVRDd0p6cE5DMldDcXdjY1FldTVzTF9KeE1UazVnWUtINGFNdmw2T1d4MmtMY2lyd0lRYXNPWkswSTRpcGNlbW5yQ0pveXVUOA?oc=5"
     }
   ]
 }
