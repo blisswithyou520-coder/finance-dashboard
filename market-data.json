@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/21 06:44",
+  "updated_tw": "08/21 07:09",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -72,48 +72,81 @@
   },
   "crypto": {
     "BTC": {
-      "price": 72686.76,
-      "change": 3420.5725,
-      "changePercent": 4.9383
+      "price": 72808.57,
+      "change": 3542.3825,
+      "changePercent": 5.1142
     },
     "ETH": {
-      "price": 2311.41,
-      "change": 59.952,
-      "changePercent": 2.6628
+      "price": 2317.09,
+      "change": 65.632,
+      "changePercent": 2.9151
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.858,
-      "change": 0.0429,
-      "changePercent": 0.1348
+      "price": 31.862,
+      "change": 0.0469,
+      "changePercent": 0.1474
     },
     "JPYTWD": {
-      "price": 0.1982,
-      "change": -0.0028,
-      "changePercent": -1.395
+      "price": 0.1983,
+      "change": -0.0027,
+      "changePercent": -1.3452
     },
     "EURTWD": {
-      "price": 37.264,
-      "change": 0.1246,
-      "changePercent": 0.3355
+      "price": 37.275,
+      "change": 0.1356,
+      "changePercent": 0.3651
     },
     "CNYTWD": {
-      "price": 4.7406,
+      "price": 4.7404,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4575.9,
-    "twd": 4687.0,
-    "tael": 175759.0,
-    "twdTotal": 145779.0,
-    "changePercent": 1.9268
+    "usd": 4580.2,
+    "twd": 4692.0,
+    "tael": 175946.0,
+    "twdTotal": 145934.0,
+    "changePercent": 2.0225
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "〈美股盤後〉貝森特干預美債曇花一現、油價再飆！道瓊急瀉超700點 沃爾瑪崩逾9% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zTkdRdWtUbXFkSFpCQ0NtRTl3LXo0TUxGbFQ0RTZzcjRlblRZYVVFYXJWeVhsd1RocWRiaHRDNzlCbUtWenJ0cW1BSldqUEU?oc=5"
+    },
+    {
+      "title": "專家：5個原因，美股可能大跌10% - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VME02RlJEZnBIeUx0a29GM0JNblVfV3o0UDNWOFZZdmxpUmJRMmhGbjM0WlVHZFdxWl9XNF9yUGptQkpxNjhmOTZRM2hNZw?oc=5"
+    },
+    {
+      "title": "美股早盤／財部擴大購債效應僅一天公債殖利率轉升、三大指數全倒| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WcGwzZTFnaGdiSFd1MEJRM3laTThlWnlGYmo4MHdlZVpMTnZPOU5UbWc4NGVUMU5URWx2M3g4a2ZqdXpLTDkxWmo4WjNBakhj?oc=5"
+    },
+    {
+      "title": "美放水救債、黃金嗨了！台銀黃金存摺飆「2個月最高」 他買百克放2個月增值5萬元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxOU2YzbW9XTTFIQWNUNEVSSDEtcnFVZlAwTUZBVmpBbmRxdU5LVzhHR1pSRmhHU25DZm9xU3YyaC1oT0RvVllYTlozRTFqQ1BlUzVKeWtqWC11YVZBeVc2S05XUzVmcmk1OWdEQ3I5RFpRUmtUamtITjduSFhxS3RiSC1McUN3SUI3V1J6NmV4X1AtQmNscUVEeUJMUVJWZ3RFdTFZdENRT1RjbHV0dl9jVDc1ZTY2R1BwWW9nWW5FVHhid29OYV9VejdJbHNfYmZKZDlSS3JrWDhCRGl2VWNoalZhS2sxWUg2RzRnV3JHZGdzSDdpemlDaHZ0TzZuUXhJWHJIeXdXSDJEVUZKOUhSVHpBTlhZT1RKTWhpRUMzdktNU0dfOW1xOGxjblBoMDdGcFFGWmVLbkh4Z2tEdkZmR0thY1VsbG95ZEYyQWpWZVpaREVtTmRVVnkyRlFJMHE2ZV9xS3dsMHotS2FmNDA0LW8xdzk0UWRjT0pPN250VzhjX1N2WHVCTnV2VFNFaFRQUmlaNmV3U0gwQ2t4N1FGd01XMFpkQ0xTUHBNZzc0MlNCcnh3U3k1NVBjU2UxMkZOWkV3a19ZWTM0TEl4Y2d3aHk3Z1p4SVlaMmY4OVNTZ2VkYlA3Z2czdmwyNlh6bGFGbjFEUFkxc0NtYnZvVGJfUU9GRm0?oc=5"
+    },
+    {
+      "title": "《貴金屬》COMEX黃金上漲0.6% ETF持倉增加-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX29VbXR6Unc5MWdjWE1ndEE2eWY4cUhRZUdpUk9UM1JKZ29GRGpQaUExWG13MjZRNHRMMjNhUnAxb3pjN3F6RkRVN2NoSnpuQjlkTlloMEFLbEVyQVVYZGxyQlRhMllTZEQ3LWZjcnAtQXdJT1VSRDIxMklWRDdreDNRaEdDdVdDckRiRWZaQkY?oc=5"
+    },
+    {
+      "title": "美股法說｜ADI 法說繳出歷史新高財報，股價卻不漲反跌，台積電、日月光成隱形受惠者(ADI US)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMinwRBVV95cUxPTVM5WTBvdUJLLWFuWVF0WHRBeTctTXVKZzVWSkUyTzJlMzlxRms1b19HVnJTN3lleVRCWWRkWmRkUERVdWFjVTMzelh3WjhFLWRhWHREaGJhMUtTRFFwS3ZaaVRIX2tPaTgtRU03UWRSVnAzUEJDZ1NLZFR0NmItT0ptT0dVNVExbC1JUnlFZzgwYy1Nd1JUMlNfQ1lqTXU3SDJCYlFsS2dGSTJZa01MUWNhX0YxTklVUjB0VjBhbzhTLXBJWFVXU1gxLWhDWnRYOWFvREs2UF9FQ2dXWEdxaHFuMGxaeThTS3NqVXNpWHBwenFyQ2FUM0FVM0pjeGpGQWE3ckJrM3ZHZWlaQnVVX1NRcnZBbTYteUltNVZ3WV85dVRXeXZ1QURCRklhU0VkbzJDYlNKT1N1MVpNOHY4TDZOMlQwUnZZZVNSYWRKMVRMYUhKbTI3WEtpZy15eXBaSUstdXJvNlNxSzJ2eHRRV3V6V0ZrSEoxRWhTbS0zYnVtLXViMWZfdHRrSlg3SE4wbGllUXNEMzJLdi1yQlBWeHZhZG00RmVfdTdicXhiRGRQSFc4WUZzLVNqazc1OTl1cFZfWUY1M091NDJEY0p0U2hkNjd3aEhpN2lxMF9xY0tNN1lqUTc0NTZmTFJDWTVpY3B3RUNEQUdZUmhlYnJ2ZW1ONW5hMDktTHhIdHMtWjFyT25sT2pncDNwNHJMTUU?oc=5"
+    },
+    {
+      "title": "黃金大暴漲！創1新高 背後關鍵曝光 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fcGg4Z1ZiMTNYYkZ3TnlKRzdvY1Jldno2WW9vYjJkMVdJemF0d3RpMTFlaVc1WThXcEFuSEJWWE1UUHNWczRLS2g5eEs1bFhXczVvcmpfa2dkRmhZRlBZ?oc=5"
+    },
+    {
+      "title": "美股五大風險齊聚 標普今年恐回檔10%至20% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QcWNaSlpkUnFRUXB5a0txaE1OTUxEUk1WZnhieUZzeTUzYUc2Z3N2RHFzMEZKczBJMDdEUkJNQ05kQ1Q5Q2RTNS1SanNKV2M?oc=5"
+    }
+  ]
 }
