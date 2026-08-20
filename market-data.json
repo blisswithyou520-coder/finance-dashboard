@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/21 01:46",
+  "updated_tw": "08/21 02:36",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -35,29 +35,29 @@
   },
   "us": {
     "NVDA": {
-      "price": 216.55,
-      "change": -1.01,
-      "changePercent": -0.4642
+      "price": 216.59,
+      "change": -0.97,
+      "changePercent": -0.4459
     },
     "AAPL": {
-      "price": 316.59,
-      "change": -0.24,
-      "changePercent": -0.0757
+      "price": 315.56,
+      "change": -1.27,
+      "changePercent": -0.4008
     },
     "TSLA": {
-      "price": 341.945,
-      "change": -9.175,
-      "changePercent": -2.6131
+      "price": 343.38,
+      "change": -7.74,
+      "changePercent": -2.2044
     },
     "QQQ": {
-      "price": 710.85,
-      "change": -5.23,
-      "changePercent": -0.7304
+      "price": 708.955,
+      "change": -7.125,
+      "changePercent": -0.995
     },
     "SPY": {
-      "price": 764.648,
-      "change": -4.412,
-      "changePercent": -0.5737
+      "price": 763.515,
+      "change": -5.545,
+      "changePercent": -0.721
     },
     "SCHD": {
       "price": 34.975,
@@ -65,51 +65,51 @@
       "changePercent": -0.3277
     },
     "VOO": {
-      "price": 702.85,
-      "change": -4.06,
-      "changePercent": -0.5743
+      "price": 701.81,
+      "change": -5.1,
+      "changePercent": -0.7214
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72708.48,
-      "change": 3442.2925,
-      "changePercent": 4.9697
+      "price": 72518.25,
+      "change": 3252.0625,
+      "changePercent": 4.695
     },
     "ETH": {
-      "price": 2344.34,
-      "change": 92.882,
-      "changePercent": 4.1254
+      "price": 2313.88,
+      "change": 62.422,
+      "changePercent": 2.7725
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.898,
-      "change": 0.0161,
-      "changePercent": 0.0505
+      "price": 31.885,
+      "change": 0.0031,
+      "changePercent": 0.0097
     },
     "JPYTWD": {
-      "price": 0.1983,
-      "change": -0.0015,
-      "changePercent": -0.7577
+      "price": 0.1982,
+      "change": -0.0016,
+      "changePercent": -0.8078
     },
     "EURTWD": {
-      "price": 37.277,
-      "change": 0.3724,
-      "changePercent": 1.009
+      "price": 37.266,
+      "change": 0.3614,
+      "changePercent": 0.9792
     },
     "CNYTWD": {
-      "price": 4.7479,
+      "price": 4.75,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4573.2,
+    "usd": 4575.2,
     "twd": 4690.0,
-    "tael": 175876.0,
-    "twdTotal": 145876.0,
-    "changePercent": 1.8666
+    "tael": 175881.0,
+    "twdTotal": 145880.0,
+    "changePercent": 1.9112
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,20 +117,20 @@
   },
   "news": [
     {
-      "title": "專家：5個原因，美股可能大跌10% - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VME02RlJEZnBIeUx0a29GM0JNblVfV3o0UDNWOFZZdmxpUmJRMmhGbjM0WlVHZFdxWl9XNF9yUGptQkpxNjhmOTZRM2hNZw?oc=5"
-    },
-    {
       "title": "美股早盤／財部擴大購債效應僅一天公債殖利率轉升、三大指數全倒| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WcGwzZTFnaGdiSFd1MEJRM3laTThlWnlGYmo4MHdlZVpMTnZPOU5UbWc4NGVUMU5URWx2M3g4a2ZqdXpLTDkxWmo4WjNBakhj?oc=5"
     },
     {
-      "title": "美放水救債、黃金嗨了！台銀黃金存摺飆「2個月最高」 他買百克放2個月增值5萬元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxOU2YzbW9XTTFIQWNUNEVSSDEtcnFVZlAwTUZBVmpBbmRxdU5LVzhHR1pSRmhHU25DZm9xU3YyaC1oT0RvVllYTlozRTFqQ1BlUzVKeWtqWC11YVZBeVc2S05XUzVmcmk1OWdEQ3I5RFpRUmtUamtITjduSFhxS3RiSC1McUN3SUI3V1J6NmV4X1AtQmNscUVEeUJMUVJWZ3RFdTFZdENRT1RjbHV0dl9jVDc1ZTY2R1BwWW9nWW5FVHhid29OYV9VejdJbHNfYmZKZDlSS3JrWDhCRGl2VWNoalZhS2sxWUg2RzRnV3JHZGdzSDdpemlDaHZ0TzZuUXhJWHJIeXdXSDJEVUZKOUhSVHpBTlhZT1RKTWhpRUMzdktNU0dfOW1xOGxjblBoMDdGcFFGWmVLbkh4Z2tEdkZmR0thY1VsbG95ZEYyQWpWZVpaREVtTmRVVnkyRlFJMHE2ZV9xS3dsMHotS2FmNDA0LW8xdzk0UWRjT0pPN250VzhjX1N2WHVCTnV2VFNFaFRQUmlaNmV3U0gwQ2t4N1FGd01XMFpkQ0xTUHBNZzc0MlNCcnh3U3k1NVBjU2UxMkZOWkV3a19ZWTM0TEl4Y2d3aHk3Z1p4SVlaMmY4OVNTZ2VkYlA3Z2czdmwyNlh6bGFGbjFEUFkxc0NtYnZvVGJfUU9GRm0?oc=5"
+      "title": "專家：5個原因，美股可能大跌10% - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VME02RlJEZnBIeUx0a29GM0JNblVfV3o0UDNWOFZZdmxpUmJRMmhGbjM0WlVHZFdxWl9XNF9yUGptQkpxNjhmOTZRM2hNZw?oc=5"
     },
     {
       "title": "沉寂11年比特幣錢包集體「蘇醒」，24小時內轉移1214枚BTC - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rbzg2dkN6RWcxWjRjeEpPSUI5SEVzWG5oNkVzMGttMlo2RWE4NTFqbW1pT3k5RE9XQ1VGWVJaMkhDUFo1RC1WT3Awbw?oc=5"
+    },
+    {
+      "title": "美放水救債、黃金嗨了！台銀黃金存摺飆「2個月最高」 他買百克放2個月增值5萬元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxOU2YzbW9XTTFIQWNUNEVSSDEtcnFVZlAwTUZBVmpBbmRxdU5LVzhHR1pSRmhHU25DZm9xU3YyaC1oT0RvVllYTlozRTFqQ1BlUzVKeWtqWC11YVZBeVc2S05XUzVmcmk1OWdEQ3I5RFpRUmtUamtITjduSFhxS3RiSC1McUN3SUI3V1J6NmV4X1AtQmNscUVEeUJMUVJWZ3RFdTFZdENRT1RjbHV0dl9jVDc1ZTY2R1BwWW9nWW5FVHhid29OYV9VejdJbHNfYmZKZDlSS3JrWDhCRGl2VWNoalZhS2sxWUg2RzRnV3JHZGdzSDdpemlDaHZ0TzZuUXhJWHJIeXdXSDJEVUZKOUhSVHpBTlhZT1RKTWhpRUMzdktNU0dfOW1xOGxjblBoMDdGcFFGWmVLbkh4Z2tEdkZmR0thY1VsbG95ZEYyQWpWZVpaREVtTmRVVnkyRlFJMHE2ZV9xS3dsMHotS2FmNDA0LW8xdzk0UWRjT0pPN250VzhjX1N2WHVCTnV2VFNFaFRQUmlaNmV3U0gwQ2t4N1FGd01XMFpkQ0xTUHBNZzc0MlNCcnh3U3k1NVBjU2UxMkZOWkV3a19ZWTM0TEl4Y2d3aHk3Z1p4SVlaMmY4OVNTZ2VkYlA3Z2czdmwyNlh6bGFGbjFEUFkxc0NtYnZvVGJfUU9GRm0?oc=5"
     },
     {
       "title": "美股法說｜ADI 法說繳出歷史新高財報，股價卻不漲反跌，台積電、日月光成隱形受惠者(ADI US)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TNXhaaUlXelNFZ2pxUzFvVUJrUnRxcUVRWEE5SjduU1BrWms4YXZJUkpESVVoVThsN0VFQ3lqYTNzSmlYU3BicUptSQ?oc=5"
     },
     {
-      "title": "美股收盤／美財部擴大買回長債壓低殖利率 美股小漲 莫德納暴漲177%激勵生技股 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4RVN1ZEZ6SUg5ZE9ZRVV6NWJHeVo1S2lNeE55UW90UEQxMWR6TkN6SXlnMElxMGxkeVFYZUJieFQ5YVRRX3hmOEJHYVpMZUpQbkpIWlh0djJMVjhK0gFiQVVfeXFMUE9JREM1cHNsVTVObXNNQkZFdDdpLXBLdEZ6YUg0dUZtQXF1UVdxYjh2cVIta0dZNDRMY29CZXlscHkwR0ZLcV9Lb0RzQzlncXNuWWRoV2RtX0VPQmtEY013Y0E?oc=5"
+      "title": "台股黑翻紅！量能探三周低點外資轉買助攻指數收復季線| 股市要聞| 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9icVRYTW9CcE50LVB1WlRwYnE2eGR6Tm1IblJtNW9obHJnemw0d2dxT1IyTUZmcExVb3lYVWJJYWRxUFVySFRwSDBrMFU4UzBQ?oc=5"
     }
   ]
 }
