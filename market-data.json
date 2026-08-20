@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/21 07:39",
+  "updated_tw": "08/21 07:59",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73107.45,
-      "change": 3841.2625,
-      "changePercent": 5.5457
+      "price": 73031.29,
+      "change": 3765.1025,
+      "changePercent": 5.4357
     },
     "ETH": {
-      "price": 2325.84,
-      "change": 74.382,
-      "changePercent": 3.3037
+      "price": 2327.14,
+      "change": 75.682,
+      "changePercent": 3.3615
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.865,
-      "change": 0.0499,
-      "changePercent": 0.1568
+      "price": 31.837,
+      "change": 0.0219,
+      "changePercent": 0.0688
     },
     "JPYTWD": {
-      "price": 0.1983,
-      "change": -0.0027,
-      "changePercent": -1.3452
+      "price": 0.1982,
+      "change": -0.0028,
+      "changePercent": -1.395
     },
     "EURTWD": {
-      "price": 37.284,
-      "change": 0.1446,
-      "changePercent": 0.3893
+      "price": 37.27,
+      "change": 0.1306,
+      "changePercent": 0.3516
     },
     "CNYTWD": {
-      "price": 4.741,
+      "price": 4.7394,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4582.9,
-    "twd": 4695.0,
-    "tael": 176066.0,
-    "twdTotal": 146034.0,
-    "changePercent": 2.0827
+    "usd": 4582.3,
+    "twd": 4690.0,
+    "tael": 175889.0,
+    "twdTotal": 145887.0,
+    "changePercent": 2.0693
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,6 +133,10 @@
       "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxOU2YzbW9XTTFIQWNUNEVSSDEtcnFVZlAwTUZBVmpBbmRxdU5LVzhHR1pSRmhHU25DZm9xU3YyaC1oT0RvVllYTlozRTFqQ1BlUzVKeWtqWC11YVZBeVc2S05XUzVmcmk1OWdEQ3I5RFpRUmtUamtITjduSFhxS3RiSC1McUN3SUI3V1J6NmV4X1AtQmNscUVEeUJMUVJWZ3RFdTFZdENRT1RjbHV0dl9jVDc1ZTY2R1BwWW9nWW5FVHhid29OYV9VejdJbHNfYmZKZDlSS3JrWDhCRGl2VWNoalZhS2sxWUg2RzRnV3JHZGdzSDdpemlDaHZ0TzZuUXhJWHJIeXdXSDJEVUZKOUhSVHpBTlhZT1RKTWhpRUMzdktNU0dfOW1xOGxjblBoMDdGcFFGWmVLbkh4Z2tEdkZmR0thY1VsbG95ZEYyQWpWZVpaREVtTmRVVnkyRlFJMHE2ZV9xS3dsMHotS2FmNDA0LW8xdzk0UWRjT0pPN250VzhjX1N2WHVCTnV2VFNFaFRQUmlaNmV3U0gwQ2t4N1FGd01XMFpkQ0xTUHBNZzc0MlNCcnh3U3k1NVBjU2UxMkZOWkV3a19ZWTM0TEl4Y2d3aHk3Z1p4SVlaMmY4OVNTZ2VkYlA3Z2czdmwyNlh6bGFGbjFEUFkxc0NtYnZvVGJfUU9GRm0?oc=5"
     },
     {
+      "title": "《貴金屬》COMEX黃金上漲0.6% ETF持倉增加- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYjdUZkpTTzJkb1RmTDlYUmFrVGFMZkJTSjY3RTZvM1ZyYnNNMVNYaGxTNW5MVndIRkxUM3ZkS2dwYWRwaDRIakdBWUhsYzlhTTNmam82NXhXLWdESlJ4VElUempYZ3JfcHp0b0VhdWdVQWxlLXY1T2hzd1oxNVdLblBRanRnLXZ0djEyWE1MS0pOdw?oc=5"
+    },
+    {
       "title": "美股法說｜ADI 法說繳出歷史新高財報，股價卻不漲反跌，台積電、日月光成隱形受惠者(ADI US)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMinwRBVV95cUxPTVM5WTBvdUJLLWFuWVF0WHRBeTctTXVKZzVWSkUyTzJlMzlxRms1b19HVnJTN3lleVRCWWRkWmRkUERVdWFjVTMzelh3WjhFLWRhWHREaGJhMUtTRFFwS3ZaaVRIX2tPaTgtRU03UWRSVnAzUEJDZ1NLZFR0NmItT0ptT0dVNVExbC1JUnlFZzgwYy1Nd1JUMlNfQ1lqTXU3SDJCYlFsS2dGSTJZa01MUWNhX0YxTklVUjB0VjBhbzhTLXBJWFVXU1gxLWhDWnRYOWFvREs2UF9FQ2dXWEdxaHFuMGxaeThTS3NqVXNpWHBwenFyQ2FUM0FVM0pjeGpGQWE3ckJrM3ZHZWlaQnVVX1NRcnZBbTYteUltNVZ3WV85dVRXeXZ1QURCRklhU0VkbzJDYlNKT1N1MVpNOHY4TDZOMlQwUnZZZVNSYWRKMVRMYUhKbTI3WEtpZy15eXBaSUstdXJvNlNxSzJ2eHRRV3V6V0ZrSEoxRWhTbS0zYnVtLXViMWZfdHRrSlg3SE4wbGllUXNEMzJLdi1yQlBWeHZhZG00RmVfdTdicXhiRGRQSFc4WUZzLVNqazc1OTl1cFZfWUY1M091NDJEY0p0U2hkNjd3aEhpN2lxMF9xY0tNN1lqUTc0NTZmTFJDWTVpY3B3RUNEQUdZUmhlYnJ2ZW1ONW5hMDktTHhIdHMtWjFyT25sT2pncDNwNHJMTUU?oc=5"
     },
@@ -143,10 +147,6 @@
     {
       "title": "比特幣回神 升破7萬美元 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14V0VUQzFCb0RWaEJrVk1jdXhsZkdLR3JzQU5uZlpWMVNrNGk3clFmMDF1Mk5WcGFTLUxfd0trZlI3SWxBVHdUVVZQNmlGUTMtZTU3d2Rkd3duQdIBX0FVX3lxTE9XX2ZfMmJkc2JfVFM4YXFDOFVfOF9XU2FvdWpfUGdYS3p3NlkwWERyTmZ5NW1NZ0prR3ZqUWpwaHZNZUdYbnFKbUhaRkp0N0Z1blBzZXNfWFYzTXN6NWVr?oc=5"
-    },
-    {
-      "title": "貝森特出手美債仍飆升！美股道瓊跌破700點 台積電ADR逆風漲近1%、台指期夜盤跌99點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNWUxnaHlfVjk5SkdGamtwYkRlV09sR1RlcGpWSXN3OXVhQWUydUREMW9JN1lWTXJBTGlKanRreXJtdzN5TWhJNFRUMkZtaHBjdmxpNzJaOF96dnZIblAyalZJRGhidlBMVk9rT0dzNU12Si1wUGRSMFVmOEZzQjlpM09SOUVPRFpjV0xlVXBuX2c0YWtSa3NtTU5DdjlZc3Z6VmFPeVNjdm9XajBuSUhsOUhXeWd6dkMybnlIVzB0QXpjZjFWeXFTN1JadUxIX3h1ZUEtb01ESk9LWmlOcnZnQklsM2haOXlKOVJEWnNYM1dzWC1WX191MG1sSEJyNlMtZnhqMnFlQVQ0dE53S3V1cC1sdG9ycGc3b0txSTR2VVhpdkNva1I5MUY2TXQza3Z5dEhQLWhMU3NIaVMyRnctTEdMMmlNVVJMV1BuNnlsd0RCdHphaTVmXzJaTU02bTdKYjBLUjZudm81Tjg5WkptSWloM3FESlU5NFluUi05eEQ0Z0xtdkdfTC1wUGlPYkRyUmJaMUQtQ0tsSGlqX1hPN0YxdmZlSTNMNG0wcXRjWndEMzB1NnY4b1A5UndnZTFjUXQxVmFybF8tbFE1bmVxVllNMC1fM09HUk1yY3lGRQ?oc=5"
     }
   ]
 }
