@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 17:59",
+  "updated_tw": "08/20 18:38",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71705.4,
-      "change": 2439.2125,
-      "changePercent": 3.5215
+      "price": 71809.81,
+      "change": 2543.6225,
+      "changePercent": 3.6722
     },
     "ETH": {
-      "price": 2276.56,
-      "change": 25.102,
-      "changePercent": 1.1149
+      "price": 2284.81,
+      "change": 33.352,
+      "changePercent": 1.4814
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.87,
-      "change": -0.0119,
-      "changePercent": -0.0373
+      "price": 31.876,
+      "change": -0.0059,
+      "changePercent": -0.0185
     },
     "JPYTWD": {
       "price": 0.1992,
@@ -94,22 +94,22 @@
       "changePercent": -0.3073
     },
     "EURTWD": {
-      "price": 37.37,
-      "change": 0.4654,
-      "changePercent": 1.261
+      "price": 37.364,
+      "change": 0.4594,
+      "changePercent": 1.2448
     },
     "CNYTWD": {
-      "price": 4.75,
+      "price": 4.7488,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4542.8,
-    "twd": 4655.0,
-    "tael": 174553.0,
-    "twdTotal": 144779.0,
-    "changePercent": 1.1895
+    "usd": 4547.4,
+    "twd": 4660.0,
+    "tael": 174763.0,
+    "twdTotal": 144953.0,
+    "changePercent": 1.2919
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,12 +125,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80VWp0Zi1nLVJDWXppcm01TDJMQ0NrOHpPRm5hMFpYTXk1LUozdDNGeWcyMGpXZTBnMFlCaGpBdVBKRFNLbUhRb29Eb3VVV2FTZk1SMXMxMlVZWDFDdlRF?oc=5"
     },
     {
-      "title": "美財部擴大買回長債壓低殖利率美股小漲莫德納暴漲177%激勵生技股| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kdHAtME43YU5zNmFoNHRqTDRzZTJ3Rk5EMEZlNEFXQmpFRFVvazlBQkJLMGkyQXdmdVVxQWVkcFZ2OEFHVVhSUmsyWThRb1dY?oc=5"
+      "title": "創近 3 個月新高！比特幣現貨 ETF 單日淨流入 5.17 億美元 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91QnpHRklZbmFBdm9yT3ZWbE9MeThhQjYzOUVuTVZhR2ZGQzRoUU9uTE10RVcta1U3WE9CV3JjV2hTRFd4NDJ3X1Rraw?oc=5"
     },
     {
-      "title": "〈美股盤後〉貝森特下猛藥救美債 三大指數終止三連黑 莫德納暴漲約177% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhbWUwWVNXRnlZY1BDVG1Mc1U3bmZyRlFQM1JkLTBxejlpR09LMXd5VkJEYW9SR1NZVlNYQm03Q2FSRUZzeUdKS3FUS1dHTHM?oc=5"
+      "title": "美財部擴大買回長債壓低殖利率美股小漲莫德納暴漲177%激勵生技股| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kdHAtME43YU5zNmFoNHRqTDRzZTJ3Rk5EMEZlNEFXQmpFRFVvazlBQkJLMGkyQXdmdVVxQWVkcFZ2OEFHVVhSUmsyWThRb1dY?oc=5"
     },
     {
       "title": "美股法說｜ADI 法說繳出歷史新高財報，股價卻不漲反跌，台積電、日月光成隱形受惠者(ADI US)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
