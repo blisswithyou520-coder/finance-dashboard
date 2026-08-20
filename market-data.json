@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 12:10",
+  "updated_tw": "08/20 12:52",
   "taiwan": {
     "2330": {
-      "price": 2355.0,
-      "change": 5.0,
-      "changePercent": 0.2128
+      "price": 2365.0,
+      "change": 15.0,
+      "changePercent": 0.6383
     },
     "2454": {
-      "price": 3700.0,
-      "change": -145.0,
-      "changePercent": -3.7711
+      "price": 3710.0,
+      "change": -135.0,
+      "changePercent": -3.5111
     },
     "2317": {
-      "price": 245.5,
-      "change": 0.5,
-      "changePercent": 0.2041
+      "price": 246.0,
+      "change": 1.0,
+      "changePercent": 0.4082
     },
     "0050": {
-      "price": 103.25,
-      "change": -1.65,
-      "changePercent": -1.5729
+      "price": 103.5,
+      "change": -1.4,
+      "changePercent": -1.3346
     },
     "00878": {
-      "price": 32.03,
-      "change": -0.35,
-      "changePercent": -1.0809
+      "price": 32.06,
+      "change": -0.32,
+      "changePercent": -0.9883
     },
     "00919": {
-      "price": 30.22,
-      "change": -0.12,
-      "changePercent": -0.3955
+      "price": 30.25,
+      "change": -0.09,
+      "changePercent": -0.2966
     }
   },
   "us": {
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 69297.61,
-      "change": 4616.8991,
-      "changePercent": 7.138
+      "price": 69438.01,
+      "change": 4757.2991,
+      "changePercent": 7.3551
     },
     "ETH": {
-      "price": 2255.43,
-      "change": 338.9704,
-      "changePercent": 17.6873
+      "price": 2252.75,
+      "change": 336.2904,
+      "changePercent": 17.5475
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.836,
-      "change": -0.0459,
-      "changePercent": -0.144
+      "price": 31.844,
+      "change": -0.0379,
+      "changePercent": -0.1189
     },
     "JPYTWD": {
       "price": 0.1987,
@@ -94,22 +94,22 @@
       "changePercent": -0.5575
     },
     "EURTWD": {
-      "price": 37.227,
-      "change": 0.3224,
-      "changePercent": 0.8736
+      "price": 37.233,
+      "change": 0.3284,
+      "changePercent": 0.8898
     },
     "CNYTWD": {
-      "price": 4.7418,
+      "price": 4.7437,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4556.1,
-    "twd": 4663.0,
-    "tael": 174878.0,
-    "twdTotal": 145048.0,
-    "changePercent": 1.4857
+    "usd": 4545.3,
+    "twd": 4654.0,
+    "tael": 174507.0,
+    "twdTotal": 144741.0,
+    "changePercent": 1.2452
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,8 +133,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhbWUwWVNXRnlZY1BDVG1Mc1U3bmZyRlFQM1JkLTBxejlpR09LMXd5VkJEYW9SR1NZVlNYQm03Q2FSRUZzeUdKS3FUS1dHTHM?oc=5"
     },
     {
-      "title": "《美股》殖利率挫生技/比特幣/軟體嗨費半逆跌- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzB2SHhTOHhZTHBZc1lWRUxqQUpzeWk2R1BPSmVIeEs0ZVNSRFhDRkVtSTNHY0N5WVJoYmRNU0V6eG5rd3VzWC1EZ0NORFJha0FuNjB2Nndublo4VjRwWlpPNnk4SXpGWFFtcmljY3l2UGJPejhFRmstcUpRVjNMUFBQUWVKRUp1eVhnQ2ZMdDkxZw?oc=5"
+      "title": "日本黃金零售價衝2個半月高、ETF大漲- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdy15ZUtBNkdSU2hiWlFETWszQlpTT3R5Y1dYLUhGamJfY19nZFZBNVBIWWR6YUtwTGQ4ZmV6aVZuNVJNTklYMWJEdVlMeW1vTXd2bDR6S2psQUM1eGczMURZelQzS1JJX1JONGJhZVFSWDY0THdzbzdIOURQTk9nQzFyVV9kdVlpVnltNjZUZXhUQQ?oc=5"
     },
     {
       "title": "【0819台股盤後】台指期結算壓低大盤跌589 點收44,719 點，台股夜盤收漲302點！三大法人狂砍708 億，震檔盤勢中被動元件異軍突起【3090 日電貿】【6173 信昌電】【2492 華新科】｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
