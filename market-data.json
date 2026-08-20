@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 07:46",
+  "updated_tw": "08/20 09:09",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 69221.67,
-      "change": 4540.9591,
-      "changePercent": 7.0206
+      "price": 69307.1,
+      "change": 4626.3891,
+      "changePercent": 7.1527
     },
     "ETH": {
-      "price": 2254.1,
-      "change": 337.6404,
-      "changePercent": 17.6179
+      "price": 2253.34,
+      "change": 336.8804,
+      "changePercent": 17.5783
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.814,
-      "change": -0.0679,
-      "changePercent": -0.213
+      "price": 31.816,
+      "change": -0.0659,
+      "changePercent": -0.2067
     },
     "JPYTWD": {
-      "price": 0.1991,
-      "change": -0.0007,
-      "changePercent": -0.3573
+      "price": 0.1986,
+      "change": -0.0012,
+      "changePercent": -0.6076
     },
     "EURTWD": {
-      "price": 37.229,
-      "change": 0.3244,
-      "changePercent": 0.879
+      "price": 37.184,
+      "change": 0.2794,
+      "changePercent": 0.757
     },
     "CNYTWD": {
-      "price": 4.7374,
+      "price": 4.7317,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4572.0,
-    "twd": 4676.0,
-    "tael": 175367.0,
-    "twdTotal": 145454.0,
-    "changePercent": 4.7183
+    "usd": 4563.3,
+    "twd": 4668.0,
+    "tael": 175044.0,
+    "twdTotal": 145186.0,
+    "changePercent": 4.519
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,20 @@
   },
   "news": [
     {
+      "title": "【美股「異常平靜」藏危機！華爾街抓出3警訊 8月下旬起恐迎修正潮】 （圖／路透） - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxPMXdzTHluYUViRnZLMEVnWFhoNlVqbDM5ekFLQ3FtTEtPbFRvby1NQ1YzSGtuTG5lTkFIR3h5NHhJdlh6WklZUnZoc3NvZVYtR0F1eXFEQUFWekZDTFFKcl9TYjFNLUVxLTFlMXFDM1BRTldRcXRxWmtOOWxSUHA4bEs4N1E4X0RPT2x5ZnBIemFieTJhbXI2NFdDNGdtRG5mVmd5cVpnQXdVYkNUNU02c1hDNEQ0aURMWUlKTk82blhtZlk2NjF0Rnk5aWNmTWFpNmdITEYzVlBuQnI2YkhsNHQ5M0JtcHNvUU5NaE9qaEhjMURELWNKWDZKNnl1Uzl0WTVUZW5fdk54c0VOQkpSWWE2UDR2eHczc2YxUDRqdVprSDVmeDJhVDNzWHFDV0NndVRUNktJeV9GU1ZxZlp2YUludm9hd29OZFRhS1BoZGVpaEEwMXhXby01bGIwbkpseG1oQVZBQmNSRWxiak9tbC02aTZCZThPR2Y0T3BCOEczMHBESUIxdHYzS1Q0MXJiVTBnRmcyOUNybzVoY2lZOUpNRzVXUUVYcFExTWQzSk1vSTd4ckJLSVhhcm8?oc=5"
+    },
+    {
+      "title": "美財部擴大買回長債壓低殖利率美股小漲莫德納暴漲177%激勵生技股| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kdHAtME43YU5zNmFoNHRqTDRzZTJ3Rk5EMEZlNEFXQmpFRFVvazlBQkJLMGkyQXdmdVVxQWVkcFZ2OEFHVVhSUmsyWThRb1dY?oc=5"
+    },
+    {
       "title": "美股收盤》貝森特出手穩債市、美股多收紅 台積電ADR跌0.32％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80VWp0Zi1nLVJDWXppcm01TDJMQ0NrOHpPRm5hMFpYTXk1LUozdDNGeWcyMGpXZTBnMFlCaGpBdVBKRFNLbUhRb29Eb3VVV2FTZk1SMXMxMlVZWDFDdlRF?oc=5"
     },
     {
-      "title": "黃金狂跌還能漲？美銀分析師曝「衝破5000美元」關鍵條件 - tw.stock.yahoo.com",
+      "title": "黃金狂跌還能漲？美銀分析師曝「衝破5000美元」關鍵條件 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPYzFLSWRKY1BHYTNtQkJWR3JBZ1lreVBPTkpUU2tXTmNVcDNJYy1fQ0NRUzJnT3dvVUtuTktuYklaVTlkVTFUWFBRRGtFQTZfbEJNeVdpdy1KYUp5NXg5ZEducV8xczd1Uno3dWI5SXY4VklUNjB2M2NwS3FHLU1xSTRlLTNKVl9FNG5vMWc3SjQ4Ty1KVS1TQWRZSnNDQ21JejM2eC1BS3JvbHpDdUdHbi1RNmxST1Z0dFpyMXY0ZnY1akIxRlpIYlhHbUVPYVB2VmVybmdvTnhjN1RfWndUcUlPMjY2aGJaQ0loU2s4V3hDeW5pXzJiUFp0R3M5QnBWNG5vTF8xWG51WVBoVUVlSkdYX1FlaDRxT2R0X19QMTRHTDN2TWdwOVBuZEFLVWFaNmtZUnhMTUluMDFKYWRCQmR6cUpVUk1XUDk4Q2JfV0RWc01Hb2ZjMkFON3NSbXk3?oc=5"
-    },
-    {
-      "title": "美股早盤／美財政部加碼買債 費半仍跌 但邁威爾飆10% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qMkR6TjhlZWFNZ0M5a2trbHUwZUFadGZCVl8yeE9qY3ZxbnE3R2djeGE1VERRMTV2RmJXbWIya1p5WTNmRnk3VGZVZFpabk9RWE9FOW1ndjdkSXNL0gFiQVVfeXFMTkQ1Q0xDV3ZGanR6UlVaWDlJN2JacURoNTQ0aU1aRDdUaGRhNFFLU292N0p2OTVMV2Y5Tmphdk5SQl9RVGhobEZZc2pRZWZ0dnBnODMzS05mS0dpdGJVZVRpY0E?oc=5"
     },
     {
       "title": "〈美股盤後〉貝森特下猛藥救美債 三大指數終止三連黑 莫德納暴漲約177% - news.cnyes.com",
@@ -137,16 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05MjMzSnI2SVl2MHVBR0xMQzYxZ3JaMHNWUE4yNWhyTEpkaE1feGx6T1lUbFc4VG5uSURua1lEUWdVYUZaRkVHR3NDSXdMRzVZQUHSAVBBVV95cUxPN0ExX1lMXzBYTVVDMmNncVpPOWNMT2RmeUUxM2JCVW8wd3FkMTZWNUlOSjBzM3hrbk1GZHdGRmFwVHV0YXVHUUdQeS1Rbm1ndw?oc=5"
     },
     {
+      "title": "《美股》殖利率挫生技/比特幣/軟體嗨費半逆跌- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzB2SHhTOHhZTHBZc1lWRUxqQUpzeWk2R1BPSmVIeEs0ZVNSRFhDRkVtSTNHY0N5WVJoYmRNU0V6eG5rd3VzWC1EZ0NORFJha0FuNjB2Nndublo4VjRwWlpPNnk4SXpGWFFtcmljY3l2UGJPejhFRmstcUpRVjNMUFBQUWVKRUp1eVhnQ2ZMdDkxZw?oc=5"
+    },
+    {
       "title": "事廢再利用邁入 2 年黃金轉型期 環境部攜手各部會接軌新制 - 環境部新聞專區",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVlRBbHcxc1RwMjRrblB2akt0cVhoZkVnWVN1eW9Ucl8taVV4blktdERlX3FHV1lnQkZsTnNHZDJRci1YQ09WRUpTSmxOak02NjhNX05KTmtsNmZhWDVuTmJ3bkk?oc=5"
-    },
-    {
-      "title": "金十數據全球財經早餐 | 2026年8月20日 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZExqY1NLTUFvSmhNT1YyUEgzdlkyejBiMFhnS244QWFfN1I4UWNncVF6aW1SazVvXzBaV2VHLVBIb1pUN2N0WFJLMm5VY0NCMUhXay01NTNxeWZ6cmNqUjhtS081UExHRGw0bnpkbWtMdXdZT1lxM2xzdmU5VGxOZ1JzS05kY2JUeG5icWxWTEROQVhkZVRQbmlSTHNLRHRV?oc=5"
-    },
-    {
-      "title": "美股紅綠交錯！道瓊、標普走高 費半重挫2%、台積電ADR微跌0.45% - tw.stock.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOUDJKdHdadkVjWmhKb1U0bE5HVlpfWG81a2pJQ0VCYjY0a0xrTFp3UHBEMEl5TXNkbHBVNlBpS1hlUkFZMVM2TUNDTndOazVZTkVYUVdFaEZRV1lCd0NoUXVxSEtJdGRKTDdBN1Iwb3hVcW1NeGtyRW5TaFlURUcyUlNyTzVNSldyWGpMYXBWTG5BVzVHOGpsZklyUG1ndjZBQU0xZEtQaFpydjQxNl9xdFQxSWRpZUpJTnBaQXV6S3QwRkRHNmNqaWtROGVfSTZvWXI3SGN1NWRERlN5bFA4alcxdXBfY01CS29FZkNoNzEzUU52OFg4U3VmTlVDY2R2YzlXT0pwVTNWNmpQczZKUVVVNURjR1lxdzcwdE1HN3o3VldkaUFYSDV1c0JJMWNNYy1iWEVjRE5SeFdPSUl6NW15S0hYeGNGbHFjdkk0T0ZHSHFjeHdIdzVjT0NVSnRaQW9J?oc=5"
     }
   ]
 }
