@@ -1,31 +1,31 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 23:58",
+  "updated_tw": "08/21 00:42",
   "taiwan": {
     "2330": {
       "price": 2375.0,
-      "change": 25.0,
-      "changePercent": 1.0638
+      "change": -5.0,
+      "changePercent": -0.2101
     },
     "2454": {
       "price": 3700.0,
-      "change": -145.0,
-      "changePercent": -3.7711
+      "change": -185.0,
+      "changePercent": -4.7619
     },
     "2317": {
       "price": 246.5,
-      "change": 1.5,
-      "changePercent": 0.6122
+      "change": -2.5,
+      "changePercent": -1.004
     },
     "0050": {
       "price": 103.8,
-      "change": -1.1,
-      "changePercent": -1.0486
+      "change": -2.65,
+      "changePercent": -2.4894
     },
     "00878": {
       "price": 32.15,
-      "change": -0.23,
-      "changePercent": -0.7103
+      "change": -1.6,
+      "changePercent": -4.7407
     },
     "00919": {
       "price": 30.31,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 216.272,
-      "change": -1.288,
-      "changePercent": -0.592
+      "price": 216.905,
+      "change": -0.655,
+      "changePercent": -0.3011
     },
     "AAPL": {
-      "price": 316.88,
-      "change": 0.05,
-      "changePercent": 0.0158
+      "price": 317.22,
+      "change": 0.39,
+      "changePercent": 0.1231
     },
     "TSLA": {
-      "price": 345.735,
-      "change": -5.385,
-      "changePercent": -1.5337
+      "price": 344.88,
+      "change": -6.24,
+      "changePercent": -1.7772
     },
     "QQQ": {
-      "price": 711.5,
-      "change": -4.58,
-      "changePercent": -0.6396
+      "price": 712.36,
+      "change": -3.72,
+      "changePercent": -0.5195
     },
     "SPY": {
-      "price": 765.79,
-      "change": -3.27,
-      "changePercent": -0.4252
+      "price": 766.43,
+      "change": -2.63,
+      "changePercent": -0.342
     },
     "SCHD": {
-      "price": 35.095,
-      "change": 0.005,
-      "changePercent": 0.0142
+      "price": 35.021,
+      "change": -0.069,
+      "changePercent": -0.1966
     },
     "VOO": {
-      "price": 703.93,
-      "change": -2.98,
-      "changePercent": -0.4215
+      "price": 704.53,
+      "change": -2.38,
+      "changePercent": -0.3367
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72457.08,
-      "change": 3190.8925,
-      "changePercent": 4.6067
+      "price": 72557.73,
+      "change": 3291.5425,
+      "changePercent": 4.752
     },
     "ETH": {
-      "price": 2327.19,
-      "change": 75.732,
-      "changePercent": 3.3637
+      "price": 2345.53,
+      "change": 94.072,
+      "changePercent": 4.1783
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.881,
-      "change": -0.0009,
-      "changePercent": -0.0028
+      "price": 31.904,
+      "change": 0.0221,
+      "changePercent": 0.0693
     },
     "JPYTWD": {
       "price": 0.1984,
@@ -94,22 +94,22 @@
       "changePercent": -0.7077
     },
     "EURTWD": {
-      "price": 37.277,
-      "change": 0.3724,
-      "changePercent": 1.009
+      "price": 37.285,
+      "change": 0.3804,
+      "changePercent": 1.0307
     },
     "CNYTWD": {
-      "price": 4.7474,
+      "price": 4.7501,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4574.9,
-    "twd": 4689.0,
-    "tael": 175847.0,
-    "twdTotal": 145852.0,
-    "changePercent": 1.9045
+    "usd": 4562.1,
+    "twd": 4680.0,
+    "tael": 175482.0,
+    "twdTotal": 145549.0,
+    "changePercent": 1.6194
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fcGg4Z1ZiMTNYYkZ3TnlKRzdvY1Jldno2WW9vYjJkMVdJemF0d3RpMTFlaVc1WThXcEFuSEJWWE1UUHNWczRLS2g5eEs1bFhXczVvcmpfa2dkRmhZRlBZ?oc=5"
     },
     {
-      "title": "台股盤中一度重回4萬5千點 分析師：利空仍未完全解除 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zaU16QXdxbEQxeHNCSmh3RW10ZElkcFZMLTdwOXVQRmU0bllJZ2lfVExYU0hQOVBZOFJPZ01BSVhtVGdmNTFhdjgzb3ItM0U?oc=5"
-    },
-    {
       "title": "Adam Back：比特幣達到100萬美元或將比市場預期更快 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ob1FyMHBJcU56cF9FREZiUksyMkhGdGRWdWVtYUw2elQzWExwX21MUS03aFBvT0dZLW5oNE82dEVIdXk2VlBEay1Wcw?oc=5"
+    },
+    {
+      "title": "比特幣漲逾7萬美元空軍慘遭血洗24小時爆倉逾30億美元| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwT2k1cmkxZXYtZXctcHZjRzNuemNsZEduN003R3lKM1UwZ2xPemROYk1JcXBmOXhGNG51YmtmUlFWVmZmbnpGRzFqSGw3T1lP?oc=5"
     }
   ]
 }
