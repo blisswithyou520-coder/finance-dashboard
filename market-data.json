@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/21 04:26",
+  "updated_tw": "08/21 04:56",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -55,9 +55,9 @@
       "changePercent": -0.7192
     },
     "SPY": {
-      "price": 762.78,
-      "change": -6.28,
-      "changePercent": -0.8166
+      "price": 762.6,
+      "change": -6.46,
+      "changePercent": -0.84
     },
     "SCHD": {
       "price": 34.83,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 72871.19,
-      "change": 3605.0025,
-      "changePercent": 5.2046
+      "price": 72617.14,
+      "change": 3350.9525,
+      "changePercent": 4.8378
     },
     "ETH": {
-      "price": 2327.63,
-      "change": 76.172,
-      "changePercent": 3.3832
+      "price": 2317.14,
+      "change": 65.682,
+      "changePercent": 2.9173
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.874,
-      "change": 0.0589,
-      "changePercent": 0.1851
+      "price": 31.852,
+      "change": 0.0369,
+      "changePercent": 0.116
     },
     "JPYTWD": {
-      "price": 0.1981,
-      "change": -0.0029,
-      "changePercent": -1.4447
+      "price": 0.198,
+      "change": -0.003,
+      "changePercent": -1.4945
     },
     "EURTWD": {
-      "price": 37.261,
-      "change": 0.1216,
-      "changePercent": 0.3274
+      "price": 37.24,
+      "change": 0.1006,
+      "changePercent": 0.2709
     },
     "CNYTWD": {
-      "price": 4.7486,
+      "price": 4.7449,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4578.3,
-    "twd": 4692.0,
-    "tael": 175939.0,
-    "twdTotal": 145929.0,
-    "changePercent": 1.9802
+    "usd": 4574.8,
+    "twd": 4685.0,
+    "tael": 175684.0,
+    "twdTotal": 145717.0,
+    "changePercent": 1.9023
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "專家：5個原因，美股可能大跌10% - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VME02RlJEZnBIeUx0a29GM0JNblVfV3o0UDNWOFZZdmxpUmJRMmhGbjM0WlVHZFdxWl9XNF9yUGptQkpxNjhmOTZRM2hNZw?oc=5"
-    },
-    {
       "title": "美股早盤／財部擴大購債效應僅一天公債殖利率轉升、三大指數全倒| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WcGwzZTFnaGdiSFd1MEJRM3laTThlWnlGYmo4MHdlZVpMTnZPOU5UbWc4NGVUMU5URWx2M3g4a2ZqdXpLTDkxWmo4WjNBakhj?oc=5"
+    },
+    {
+      "title": "專家：5個原因，美股可能大跌10% - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VME02RlJEZnBIeUx0a29GM0JNblVfV3o0UDNWOFZZdmxpUmJRMmhGbjM0WlVHZFdxWl9XNF9yUGptQkpxNjhmOTZRM2hNZw?oc=5"
     },
     {
       "title": "美放水救債、黃金嗨了！台銀黃金存摺飆「2個月最高」 他買百克放2個月增值5萬元 - Yahoo股市",
@@ -133,16 +133,16 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rbzg2dkN6RWcxWjRjeEpPSUI5SEVzWG5oNkVzMGttMlo2RWE4NTFqbW1pT3k5RE9XQ1VGWVJaMkhDUFo1RC1WT3Awbw?oc=5"
     },
     {
-      "title": "黃金大暴漲！創1新高 背後關鍵曝光 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fcGg4Z1ZiMTNYYkZ3TnlKRzdvY1Jldno2WW9vYjJkMVdJemF0d3RpMTFlaVc1WThXcEFuSEJWWE1UUHNWczRLS2g5eEs1bFhXczVvcmpfa2dkRmhZRlBZ?oc=5"
-    },
-    {
       "title": "美股法說｜ADI 法說繳出歷史新高財報，股價卻不漲反跌，台積電、日月光成隱形受惠者(ADI US)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMinwRBVV95cUxPTVM5WTBvdUJLLWFuWVF0WHRBeTctTXVKZzVWSkUyTzJlMzlxRms1b19HVnJTN3lleVRCWWRkWmRkUERVdWFjVTMzelh3WjhFLWRhWHREaGJhMUtTRFFwS3ZaaVRIX2tPaTgtRU03UWRSVnAzUEJDZ1NLZFR0NmItT0ptT0dVNVExbC1JUnlFZzgwYy1Nd1JUMlNfQ1lqTXU3SDJCYlFsS2dGSTJZa01MUWNhX0YxTklVUjB0VjBhbzhTLXBJWFVXU1gxLWhDWnRYOWFvREs2UF9FQ2dXWEdxaHFuMGxaeThTS3NqVXNpWHBwenFyQ2FUM0FVM0pjeGpGQWE3ckJrM3ZHZWlaQnVVX1NRcnZBbTYteUltNVZ3WV85dVRXeXZ1QURCRklhU0VkbzJDYlNKT1N1MVpNOHY4TDZOMlQwUnZZZVNSYWRKMVRMYUhKbTI3WEtpZy15eXBaSUstdXJvNlNxSzJ2eHRRV3V6V0ZrSEoxRWhTbS0zYnVtLXViMWZfdHRrSlg3SE4wbGllUXNEMzJLdi1yQlBWeHZhZG00RmVfdTdicXhiRGRQSFc4WUZzLVNqazc1OTl1cFZfWUY1M091NDJEY0p0U2hkNjd3aEhpN2lxMF9xY0tNN1lqUTc0NTZmTFJDWTVpY3B3RUNEQUdZUmhlYnJ2ZW1ONW5hMDktTHhIdHMtWjFyT25sT2pncDNwNHJMTUU?oc=5"
     },
     {
-      "title": "比特幣衝破 7 萬美元！空方單日爆倉近 27 億美元，創 2021 年來最高紀錄 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUhvRFRvY05NQ2JPYWF2Z3JtSzVjY1ozRmhfaFprblpJbzdYbmRDQWlaV3Z5bi16ZmdpODNYdGIyemJpYWJQUnFLT0hJcFZVZkpIcUpHRHV3Z0o3d2RxX004MmRRLVluMFJSQVZZcWFtZkZGc1FJWlpsSXZ2YnMxRTZhNlowc1dHWl9sRUthRGp5a3A1Wm95bmFB?oc=5"
+      "title": "黃金大暴漲！創1新高 背後關鍵曝光 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fcGg4Z1ZiMTNYYkZ3TnlKRzdvY1Jldno2WW9vYjJkMVdJemF0d3RpMTFlaVc1WThXcEFuSEJWWE1UUHNWczRLS2g5eEs1bFhXczVvcmpfa2dkRmhZRlBZ?oc=5"
+    },
+    {
+      "title": "Coinbase CEO：比特幣未來幾年可能將漲至30萬至40萬美元 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TNXhaaUlXelNFZ2pxUzFvVUJrUnRxcUVRWEE5SjduU1BrWms4YXZJUkpESVVoVThsN0VFQ3lqYTNzSmlYU3BicUptSQ?oc=5"
     },
     {
       "title": "比特幣回神 升破7萬美元 - 經濟日報",
