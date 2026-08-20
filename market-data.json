@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 09:09",
+  "updated_tw": "08/20 10:30",
   "taiwan": {
     "2330": {
-      "price": 2350.0,
-      "change": -30.0,
-      "changePercent": -1.2605
+      "price": 2360.0,
+      "change": 10.0,
+      "changePercent": 0.4255
     },
     "2454": {
-      "price": 3845.0,
-      "change": -40.0,
-      "changePercent": -1.0296
+      "price": 3750.0,
+      "change": -95.0,
+      "changePercent": -2.4707
     },
     "2317": {
-      "price": 245.0,
-      "change": -4.0,
-      "changePercent": -1.6064
+      "price": 246.5,
+      "change": 1.5,
+      "changePercent": 0.6122
     },
     "0050": {
-      "price": 103.1,
-      "change": -3.35,
-      "changePercent": -3.147
+      "price": 103.55,
+      "change": -1.35,
+      "changePercent": -1.2869
     },
     "00878": {
-      "price": 32.3,
-      "change": -1.45,
-      "changePercent": -4.2963
+      "price": 32.13,
+      "change": -0.25,
+      "changePercent": -0.7721
     },
     "00919": {
-      "price": 30.39,
-      "change": 0.05,
-      "changePercent": 0.1648
+      "price": 30.26,
+      "change": -0.08,
+      "changePercent": -0.2637
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 69307.1,
-      "change": 4626.3891,
-      "changePercent": 7.1527
+      "price": 69460.0,
+      "change": 4779.2891,
+      "changePercent": 7.389
     },
     "ETH": {
-      "price": 2253.34,
-      "change": 336.8804,
-      "changePercent": 17.5783
+      "price": 2256.22,
+      "change": 339.7604,
+      "changePercent": 17.7285
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.816,
-      "change": -0.0659,
-      "changePercent": -0.2067
+      "price": 31.852,
+      "change": -0.0299,
+      "changePercent": -0.0938
     },
     "JPYTWD": {
-      "price": 0.1986,
-      "change": -0.0012,
-      "changePercent": -0.6076
+      "price": 0.1989,
+      "change": -0.0009,
+      "changePercent": -0.4574
     },
     "EURTWD": {
-      "price": 37.184,
-      "change": 0.2794,
-      "changePercent": 0.757
+      "price": 37.252,
+      "change": 0.3474,
+      "changePercent": 0.9413
     },
     "CNYTWD": {
-      "price": 4.7317,
+      "price": 4.7464,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4563.3,
-    "twd": 4668.0,
-    "tael": 175044.0,
-    "twdTotal": 145186.0,
-    "changePercent": 4.519
+    "usd": 4548.6,
+    "twd": 4658.0,
+    "tael": 174677.0,
+    "twdTotal": 144882.0,
+    "changePercent": 4.1823
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxPMXdzTHluYUViRnZLMEVnWFhoNlVqbDM5ekFLQ3FtTEtPbFRvby1NQ1YzSGtuTG5lTkFIR3h5NHhJdlh6WklZUnZoc3NvZVYtR0F1eXFEQUFWekZDTFFKcl9TYjFNLUVxLTFlMXFDM1BRTldRcXRxWmtOOWxSUHA4bEs4N1E4X0RPT2x5ZnBIemFieTJhbXI2NFdDNGdtRG5mVmd5cVpnQXdVYkNUNU02c1hDNEQ0aURMWUlKTk82blhtZlk2NjF0Rnk5aWNmTWFpNmdITEYzVlBuQnI2YkhsNHQ5M0JtcHNvUU5NaE9qaEhjMURELWNKWDZKNnl1Uzl0WTVUZW5fdk54c0VOQkpSWWE2UDR2eHczc2YxUDRqdVprSDVmeDJhVDNzWHFDV0NndVRUNktJeV9GU1ZxZlp2YUludm9hd29OZFRhS1BoZGVpaEEwMXhXby01bGIwbkpseG1oQVZBQmNSRWxiak9tbC02aTZCZThPR2Y0T3BCOEczMHBESUIxdHYzS1Q0MXJiVTBnRmcyOUNybzVoY2lZOUpNRzVXUUVYcFExTWQzSk1vSTd4ckJLSVhhcm8?oc=5"
     },
     {
-      "title": "美財部擴大買回長債壓低殖利率美股小漲莫德納暴漲177%激勵生技股| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kdHAtME43YU5zNmFoNHRqTDRzZTJ3Rk5EMEZlNEFXQmpFRFVvazlBQkJLMGkyQXdmdVVxQWVkcFZ2OEFHVVhSUmsyWThRb1dY?oc=5"
-    },
-    {
       "title": "美股收盤》貝森特出手穩債市、美股多收紅 台積電ADR跌0.32％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80VWp0Zi1nLVJDWXppcm01TDJMQ0NrOHpPRm5hMFpYTXk1LUozdDNGeWcyMGpXZTBnMFlCaGpBdVBKRFNLbUhRb29Eb3VVV2FTZk1SMXMxMlVZWDFDdlRF?oc=5"
     },
     {
-      "title": "黃金狂跌還能漲？美銀分析師曝「衝破5000美元」關鍵條件 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPYzFLSWRKY1BHYTNtQkJWR3JBZ1lreVBPTkpUU2tXTmNVcDNJYy1fQ0NRUzJnT3dvVUtuTktuYklaVTlkVTFUWFBRRGtFQTZfbEJNeVdpdy1KYUp5NXg5ZEducV8xczd1Uno3dWI5SXY4VklUNjB2M2NwS3FHLU1xSTRlLTNKVl9FNG5vMWc3SjQ4Ty1KVS1TQWRZSnNDQ21JejM2eC1BS3JvbHpDdUdHbi1RNmxST1Z0dFpyMXY0ZnY1akIxRlpIYlhHbUVPYVB2VmVybmdvTnhjN1RfWndUcUlPMjY2aGJaQ0loU2s4V3hDeW5pXzJiUFp0R3M5QnBWNG5vTF8xWG51WVBoVUVlSkdYX1FlaDRxT2R0X19QMTRHTDN2TWdwOVBuZEFLVWFaNmtZUnhMTUluMDFKYWRCQmR6cUpVUk1XUDk4Q2JfV0RWc01Hb2ZjMkFON3NSbXk3?oc=5"
+      "title": "〈貴金屬盤後〉美債殖利率跳水、美元重挫引爆買盤黃金飆逾3%衝上4500美元白銀、鉑金同步狂漲 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQS0lWSV8xVHl2RnNTdVpqRGFMYWRuRTNxVzl0R0NjVWNVTVUyY0lOc0FPdjFsZUhKNkFNdHBTdDV4aDI2ZGp6aDdlenoyejgyZmxibEl5X1JtLWtPVk1DQVdwNnFuR3BFSF9QSldDR1VCb2R1cVJneDRCdjBhZ1N5eFhtbWt2aXVLeWVzUVFWWU1JdTZpTXZXTmRlczRyVzhnSDBYMjJPRU0yYWhQcHFVX0J3d3lmdkZ3Q0pTNHVjeDRzRW1RR0U1OGNZV3JHOUlnVk9aMm9kdTZWbDVhOUZhb1JVTGFVdnhZMm9BT2FMT0Z6TEMtSE8xbEEyN0VxYW9LVDBneDJzZ0s3bXlLc3ZpN0dkYnVKUDB6V05WZDB4bWlWbkp4TXNZd2NBbkg1NlphRktUUTd0TmpMN1A2dDR1M2wybW9WYnZxQjVXeWFxT0VSM09OMDNUVXBqbEdHMW9ZdEk3bXJNQl9Iai1SNmQwaUlGUVFQSTgzUzRqVGRYN3l6TndXT3kwMTlrbThwNjdMbE1LQTBjM3dJc0VBMUFBSzRCS09WTXl6M1RBUDI1dVhKWi1kaHNF?oc=5"
     },
     {
       "title": "〈美股盤後〉貝森特下猛藥救美債 三大指數終止三連黑 莫德納暴漲約177% - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhbWUwWVNXRnlZY1BDVG1Mc1U3bmZyRlFQM1JkLTBxejlpR09LMXd5VkJEYW9SR1NZVlNYQm03Q2FSRUZzeUdKS3FUS1dHTHM?oc=5"
     },
     {
+      "title": "債市賣壓會擊沉美股嗎？技術分析師：5跡象顯示拉回後將蓄勢反攻| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GQk9VeGd1T3Y4VzVJa3Nxc2ZjRWFJVnVnNjBkYXFXZmpNZ09Fb3pmVTRsNndVVF80alV3VFd1LXRuMFRsSDlqMGtLSTRPTjlj?oc=5"
+    },
+    {
+      "title": "《美股》殖利率挫生技/比特幣/軟體嗨費半逆跌- 新聞 - moneydj.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzB2SHhTOHhZTHBZc1lWRUxqQUpzeWk2R1BPSmVIeEs0ZVNSRFhDRkVtSTNHY0N5WVJoYmRNU0V6eG5rd3VzWC1EZ0NORFJha0FuNjB2Nndublo4VjRwWlpPNnk4SXpGWFFtcmljY3l2UGJPejhFRmstcUpRVjNMUFBQUWVKRUp1eVhnQ2ZMdDkxZw?oc=5"
+    },
+    {
       "title": "美股「異常平靜」藏危機！華爾街抓出3警訊　8月下旬起恐迎修正潮 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05MjMzSnI2SVl2MHVBR0xMQzYxZ3JaMHNWUE4yNWhyTEpkaE1feGx6T1lUbFc4VG5uSURua1lEUWdVYUZaRkVHR3NDSXdMRzVZQUHSAVBBVV95cUxPN0ExX1lMXzBYTVVDMmNncVpPOWNMT2RmeUUxM2JCVW8wd3FkMTZWNUlOSjBzM3hrbk1GZHdGRmFwVHV0YXVHUUdQeS1Rbm1ndw?oc=5"
     },
     {
-      "title": "《美股》殖利率挫生技/比特幣/軟體嗨費半逆跌- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzB2SHhTOHhZTHBZc1lWRUxqQUpzeWk2R1BPSmVIeEs0ZVNSRFhDRkVtSTNHY0N5WVJoYmRNU0V6eG5rd3VzWC1EZ0NORFJha0FuNjB2Nndublo4VjRwWlpPNnk4SXpGWFFtcmljY3l2UGJPejhFRmstcUpRVjNMUFBQUWVKRUp1eVhnQ2ZMdDkxZw?oc=5"
-    },
-    {
-      "title": "事廢再利用邁入 2 年黃金轉型期 環境部攜手各部會接軌新制 - 環境部新聞專區",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVlRBbHcxc1RwMjRrblB2akt0cVhoZkVnWVN1eW9Ucl8taVV4blktdERlX3FHV1lnQkZsTnNHZDJRci1YQ09WRUpTSmxOak02NjhNX05KTmtsNmZhWDVuTmJ3bkk?oc=5"
+      "title": "費半修正期怎麼選股？台美股供應鏈 7 檔優先觀察清單 ｜美股觀察｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxNelFBbVJvdFotdE85bUJ0ZzdQSE1oalFuM1U2SnE1QWQ2ZFRwYWMza3pWemhMTVFEVlVZOWx3c3VTZUxBVkJmQnlvOUpsUi13bWNaWl9BYUIwSE9zaG8tUVVNNmtLMG5NU2xsbHcxaE5JbXV1OWNacFpkVUFFR0doMnBiZlVmaWZNQTR3TmF0R3k4bkN2YlhUTWI2OFRoaG5ETjNGdS1IUUl5WnEtVDNscEpuZDg5S2dVWlprTjZJcVhhWXlPNDVPRUVBaXhGSjBKMzNab0VqX2VWQTMtNHRVY1B6dldHeVkyUXlBX1UyaUlWUmJEcWhqTW8wSnFnTGN5emJZTlVUdHBxRXRYSGNUWW52cUgxRENRLXdmMVl0WGlveFRtejM3OE9JMk1obWttcXRxeWJVNTlWbF9qOVZZNFRXMk8tSHhOVmRkbWM3YUw5ZTROVzlUdWFUOVZ1Y0JMTmFxaFBjNlc2QjN0TFdKazRHQV9wTlp3bHFOdExiMU1IR2dueFF3TUlLZ2dodlFnYXhjdkJqUFVBM0Z0SEI1VjZyNkxvekhqWTJKYTVrMnAyOWtYNGRPMnRBLUM?oc=5"
     }
   ]
 }
