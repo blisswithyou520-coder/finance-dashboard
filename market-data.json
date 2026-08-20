@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 19:03",
+  "updated_tw": "08/20 19:41",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 72060.35,
-      "change": 2794.1625,
-      "changePercent": 4.0339
+      "price": 72249.3,
+      "change": 2983.1125,
+      "changePercent": 4.3067
     },
     "ETH": {
-      "price": 2289.0,
-      "change": 37.542,
-      "changePercent": 1.6675
+      "price": 2310.01,
+      "change": 58.552,
+      "changePercent": 2.6006
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.893,
-      "change": 0.0111,
-      "changePercent": 0.0348
+      "price": 31.921,
+      "change": 0.0391,
+      "changePercent": 0.1226
     },
     "JPYTWD": {
       "price": 0.1991,
@@ -94,22 +94,22 @@
       "changePercent": -0.3573
     },
     "EURTWD": {
-      "price": 37.356,
-      "change": 0.4514,
-      "changePercent": 1.2231
+      "price": 37.357,
+      "change": 0.4524,
+      "changePercent": 1.2258
     },
     "CNYTWD": {
-      "price": 4.7497,
+      "price": 4.7507,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4545.7,
+    "usd": 4541.2,
     "twd": 4661.0,
-    "tael": 174791.0,
-    "twdTotal": 144976.0,
-    "changePercent": 1.2541
+    "tael": 174771.0,
+    "twdTotal": 144960.0,
+    "changePercent": 1.1538
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxOU2YzbW9XTTFIQWNUNEVSSDEtcnFVZlAwTUZBVmpBbmRxdU5LVzhHR1pSRmhHU25DZm9xU3YyaC1oT0RvVllYTlozRTFqQ1BlUzVKeWtqWC11YVZBeVc2S05XUzVmcmk1OWdEQ3I5RFpRUmtUamtITjduSFhxS3RiSC1McUN3SUI3V1J6NmV4X1AtQmNscUVEeUJMUVJWZ3RFdTFZdENRT1RjbHV0dl9jVDc1ZTY2R1BwWW9nWW5FVHhid29OYV9VejdJbHNfYmZKZDlSS3JrWDhCRGl2VWNoalZhS2sxWUg2RzRnV3JHZGdzSDdpemlDaHZ0TzZuUXhJWHJIeXdXSDJEVUZKOUhSVHpBTlhZT1RKTWhpRUMzdktNU0dfOW1xOGxjblBoMDdGcFFGWmVLbkh4Z2tEdkZmR0thY1VsbG95ZEYyQWpWZVpaREVtTmRVVnkyRlFJMHE2ZV9xS3dsMHotS2FmNDA0LW8xdzk0UWRjT0pPN250VzhjX1N2WHVCTnV2VFNFaFRQUmlaNmV3U0gwQ2t4N1FGd01XMFpkQ0xTUHBNZzc0MlNCcnh3U3k1NVBjU2UxMkZOWkV3a19ZWTM0TEl4Y2d3aHk3Z1p4SVlaMmY4OVNTZ2VkYlA3Z2czdmwyNlh6bGFGbjFEUFkxc0NtYnZvVGJfUU9GRm0?oc=5"
     },
     {
-      "title": "比特幣短期持有者昨日向CEX轉入4.43萬枚BTC，創今年以來最大規模獲利了結行為 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FMW5mcHpGR3J5MFRoNDg2LXlIYkJBWm9HQTlPMnZOLVJGN2FNbFQ0aDBHdW5qQTdYX2w4VGVqVDVPR2ljVk0tRWdmWQ?oc=5"
-    },
-    {
-      "title": "美財部擴大買回長債壓低殖利率美股小漲莫德納暴漲177%激勵生技股| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kdHAtME43YU5zNmFoNHRqTDRzZTJ3Rk5EMEZlNEFXQmpFRFVvazlBQkJLMGkyQXdmdVVxQWVkcFZ2OEFHVVhSUmsyWThRb1dY?oc=5"
-    },
-    {
       "title": "美股收盤》貝森特出手穩債市、美股多收紅 台積電ADR跌0.32％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80VWp0Zi1nLVJDWXppcm01TDJMQ0NrOHpPRm5hMFpYTXk1LUozdDNGeWcyMGpXZTBnMFlCaGpBdVBKRFNLbUhRb29Eb3VVV2FTZk1SMXMxMlVZWDFDdlRF?oc=5"
     },
     {
-      "title": "【美股盤前0820】最大零售商沃爾瑪財報來襲！貝森特猛力救債，三大指數終止三連黑｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwRBVV95cUxNVkZ1dnFSSEU2N0ttYzNtNnU1dmlsTGJNTWUyRm5RQkZONWVGdjJjTGNTTFE4bUZxM0xYNXE4eUZXZWwwampyLVYxLWxZYnRVZ2NndzN0eUZ3MHdUS2VHV3NKaWlPR2VKZ1ZlUDlDQlN2UUwwVUg0OFJObkdaMlhlRlQ0V1pHbHhHNHcwTzJkdHdyYVhIM1dzM3AzaGp0M2h6Y0lCbDhzOThFc3FJNEw1WVBTbGlic0FqOHYyQTlkNGVEVmV3Y2dzcHlJRzBvbnU3YzhRMV9lN0EybUNlVzB1aV82eEwzS0dKbktkMDktMzB6WEVSd01XaVJSN3AweWdxYVdBdC1keml0ZWY3YjM4Q1ZRcm9WUHB4Qi04Z0p1UUFwQ0tCTjFjV0p6Q1lDOUNQOUxlRk9jblZsVUNZU2d5Ulc2MXVCd2dzRWdRcGE3bVNkcnNKZmVhejJHclViTVdxOXJVb3RocmwyT1p1YkstUWJEY2xoaThsQ1VBblJzc3VXb09EY3ZoZ1dDZXNKUlJEVHRuSnhyWU5wNTRadXllem5WTWVEXzR6T0sxQ28zXzROSzBhODVKS21kRDJqVTlqRndhektKRzc0c1hSTmR2a3pyejhOWFc5YldwZ3BRVXBZMHJtRmhpSHhxZ3R1VjhENHVEcFBna2RYOTZLQ2Jtd3pyRzhQcjFKWHI0ak41aw?oc=5"
+      "title": "易理華：比特幣強勢反彈突破6.8萬美元或表明加密下跌周期趨勢結束 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JVVZqMXplUHFPZ1lFdi14ZFlRYjlLOFpXRU8tU1FiNlp4UWhDTmJxTUVOZFVpakpXcU81MmdNeVRSMUZQSVBwV3JiZw?oc=5"
+    },
+    {
+      "title": "比特幣漲逾7萬美元空軍慘遭血洗24小時爆倉逾30億美元| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwT2k1cmkxZXYtZXctcHZjRzNuemNsZEduN003R3lKM1UwZ2xPemROYk1JcXBmOXhGNG51YmtmUlFWVmZmbnpGRzFqSGw3T1lP?oc=5"
     },
     {
       "title": "台股盤中一度重回4萬5千點 分析師：利空仍未完全解除 - 公視新聞網PNN",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zaU16QXdxbEQxeHNCSmh3RW10ZElkcFZMLTdwOXVQRmU0bllJZ2lfVExYU0hQOVBZOFJPZ01BSVhtVGdmNTFhdjgzb3ItM0U?oc=5"
     },
     {
-      "title": "比特幣睽違 2 個月首攻破 7 萬美元！川普挺加密法案、流動性回溫成推手 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFhmMWxtUWNxNXF2TFBwbVBxOE96LXFPdkVzWDZaTHJaU01zVzg3YTBBTHpqUno0a1R2RUo3SU9vYnhhSEdLLTZLVGVsNlVDTWFYREwxVEFZbmdhVU1vbXlZM25FYVBiWi1sdkIzQUxSQ240MVlEc0RzRVF4Sk0zd3hYNmd4WUFfYVlRNjUweUtUSFE?oc=5"
+      "title": "美股法說｜ADI 法說繳出歷史新高財報，股價卻不漲反跌，台積電、日月光成隱形受惠者(ADI US)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMinwRBVV95cUxPTVM5WTBvdUJLLWFuWVF0WHRBeTctTXVKZzVWSkUyTzJlMzlxRms1b19HVnJTN3lleVRCWWRkWmRkUERVdWFjVTMzelh3WjhFLWRhWHREaGJhMUtTRFFwS3ZaaVRIX2tPaTgtRU03UWRSVnAzUEJDZ1NLZFR0NmItT0ptT0dVNVExbC1JUnlFZzgwYy1Nd1JUMlNfQ1lqTXU3SDJCYlFsS2dGSTJZa01MUWNhX0YxTklVUjB0VjBhbzhTLXBJWFVXU1gxLWhDWnRYOWFvREs2UF9FQ2dXWEdxaHFuMGxaeThTS3NqVXNpWHBwenFyQ2FUM0FVM0pjeGpGQWE3ckJrM3ZHZWlaQnVVX1NRcnZBbTYteUltNVZ3WV85dVRXeXZ1QURCRklhU0VkbzJDYlNKT1N1MVpNOHY4TDZOMlQwUnZZZVNSYWRKMVRMYUhKbTI3WEtpZy15eXBaSUstdXJvNlNxSzJ2eHRRV3V6V0ZrSEoxRWhTbS0zYnVtLXViMWZfdHRrSlg3SE4wbGllUXNEMzJLdi1yQlBWeHZhZG00RmVfdTdicXhiRGRQSFc4WUZzLVNqazc1OTl1cFZfWUY1M091NDJEY0p0U2hkNjd3aEhpN2lxMF9xY0tNN1lqUTc0NTZmTFJDWTVpY3B3RUNEQUdZUmhlYnJ2ZW1ONW5hMDktTHhIdHMtWjFyT25sT2pncDNwNHJMTUU?oc=5"
     },
     {
-      "title": "易理華：比特幣強勢反彈突破6.8萬美元或表明加密下跌周期趨勢結束 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JVVZqMXplUHFPZ1lFdi14ZFlRYjlLOFpXRU8tU1FiNlp4UWhDTmJxTUVOZFVpakpXcU81MmdNeVRSMUZQSVBwV3JiZw?oc=5"
+      "title": "專家：5個原因，美股可能大跌10% - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VME02RlJEZnBIeUx0a29GM0JNblVfV3o0UDNWOFZZdmxpUmJRMmhGbjM0WlVHZFdxWl9XNF9yUGptQkpxNjhmOTZRM2hNZw?oc=5"
+    },
+    {
+      "title": "比特幣睽違 2 個月首攻破 7 萬美元！川普挺加密法案、流動性回溫成推手 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFhmMWxtUWNxNXF2TFBwbVBxOE96LXFPdkVzWDZaTHJaU01zVzg3YTBBTHpqUno0a1R2RUo3SU9vYnhhSEdLLTZLVGVsNlVDTWFYREwxVEFZbmdhVU1vbXlZM25FYVBiWi1sdkIzQUxSQ240MVlEc0RzRVF4Sk0zd3hYNmd4WUFfYVlRNjUweUtUSFE?oc=5"
     }
   ]
 }
