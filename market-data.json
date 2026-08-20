@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 22:44",
+  "updated_tw": "08/20 23:17",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 218.646,
-      "change": 1.086,
-      "changePercent": 0.4992
+      "price": 217.45,
+      "change": -0.11,
+      "changePercent": -0.0506
     },
     "AAPL": {
-      "price": 316.495,
-      "change": -0.335,
-      "changePercent": -0.1057
+      "price": 316.24,
+      "change": -0.59,
+      "changePercent": -0.1862
     },
     "TSLA": {
-      "price": 340.155,
-      "change": -10.965,
-      "changePercent": -3.1229
+      "price": 342.695,
+      "change": -8.425,
+      "changePercent": -2.3995
     },
     "QQQ": {
-      "price": 713.78,
-      "change": -2.3,
-      "changePercent": -0.3212
+      "price": 712.155,
+      "change": -3.925,
+      "changePercent": -0.5481
     },
     "SPY": {
-      "price": 767.17,
-      "change": -1.89,
-      "changePercent": -0.2458
+      "price": 766.565,
+      "change": -2.495,
+      "changePercent": -0.3244
     },
     "SCHD": {
-      "price": 34.995,
-      "change": -0.095,
-      "changePercent": -0.2707
+      "price": 35.099,
+      "change": 0.009,
+      "changePercent": 0.0256
     },
     "VOO": {
-      "price": 705.175,
-      "change": -1.735,
-      "changePercent": -0.2454
+      "price": 704.675,
+      "change": -2.235,
+      "changePercent": -0.3162
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71468.76,
-      "change": 2202.5725,
-      "changePercent": 3.1799
+      "price": 72098.13,
+      "change": 2831.9425,
+      "changePercent": 4.0885
     },
     "ETH": {
-      "price": 2275.45,
-      "change": 23.992,
-      "changePercent": 1.0656
+      "price": 2295.7,
+      "change": 44.242,
+      "changePercent": 1.965
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.889,
-      "change": 0.0071,
-      "changePercent": 0.0223
+      "price": 31.9,
+      "change": 0.0181,
+      "changePercent": 0.0568
     },
     "JPYTWD": {
-      "price": 0.1986,
-      "change": -0.0012,
-      "changePercent": -0.6076
+      "price": 0.1987,
+      "change": -0.0011,
+      "changePercent": -0.5575
     },
     "EURTWD": {
-      "price": 37.294,
-      "change": 0.3894,
-      "changePercent": 1.0551
+      "price": 37.308,
+      "change": 0.4034,
+      "changePercent": 1.093
     },
     "CNYTWD": {
-      "price": 4.7475,
+      "price": 4.7486,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4550.7,
-    "twd": 4666.0,
-    "tael": 174961.0,
-    "twdTotal": 145117.0,
-    "changePercent": 1.3654
+    "usd": 4586.1,
+    "twd": 4704.0,
+    "tael": 176383.0,
+    "twdTotal": 146297.0,
+    "changePercent": 2.154
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zaU16QXdxbEQxeHNCSmh3RW10ZElkcFZMLTdwOXVQRmU0bllJZ2lfVExYU0hQOVBZOFJPZ01BSVhtVGdmNTFhdjgzb3ItM0U?oc=5"
     },
     {
-      "title": "Adam Back：比特幣達到100萬美元或將比市場預期更快 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ob1FyMHBJcU56cF9FREZiUksyMkhGdGRWdWVtYUw2elQzWExwX21MUS03aFBvT0dZLW5oNE82dEVIdXk2VlBEay1Wcw?oc=5"
+      "title": "【美股盤前】失業金與製造業數據今日雙發，科技股能否守穩高位？（2026.08.20） - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMktXYzJvamNoMWpaaGVGODdsS0pSUU1hTHphLTRBM2tsc0JhclRieU1ESjJ5YkJMZTlRYXc1eGJocER3Vl8yYjhISl9xMlp6bGFIRVlIUUdXa1FwWERyMzh6X1Y4cEdlVXVSQXpFUWZUcG5hYnRhdC1xVzFnazVYMXVmTHo0eDhXcXUzS2xB?oc=5"
     }
   ]
 }
