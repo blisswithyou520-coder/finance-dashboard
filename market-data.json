@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 23:17",
+  "updated_tw": "08/20 23:58",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 217.45,
-      "change": -0.11,
-      "changePercent": -0.0506
+      "price": 216.272,
+      "change": -1.288,
+      "changePercent": -0.592
     },
     "AAPL": {
-      "price": 316.24,
-      "change": -0.59,
-      "changePercent": -0.1862
+      "price": 316.88,
+      "change": 0.05,
+      "changePercent": 0.0158
     },
     "TSLA": {
-      "price": 342.695,
-      "change": -8.425,
-      "changePercent": -2.3995
+      "price": 345.735,
+      "change": -5.385,
+      "changePercent": -1.5337
     },
     "QQQ": {
-      "price": 712.155,
-      "change": -3.925,
-      "changePercent": -0.5481
+      "price": 711.5,
+      "change": -4.58,
+      "changePercent": -0.6396
     },
     "SPY": {
-      "price": 766.565,
-      "change": -2.495,
-      "changePercent": -0.3244
+      "price": 765.79,
+      "change": -3.27,
+      "changePercent": -0.4252
     },
     "SCHD": {
-      "price": 35.099,
-      "change": 0.009,
-      "changePercent": 0.0256
+      "price": 35.095,
+      "change": 0.005,
+      "changePercent": 0.0142
     },
     "VOO": {
-      "price": 704.675,
-      "change": -2.235,
-      "changePercent": -0.3162
+      "price": 703.93,
+      "change": -2.98,
+      "changePercent": -0.4215
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72098.13,
-      "change": 2831.9425,
-      "changePercent": 4.0885
+      "price": 72457.08,
+      "change": 3190.8925,
+      "changePercent": 4.6067
     },
     "ETH": {
-      "price": 2295.7,
-      "change": 44.242,
-      "changePercent": 1.965
+      "price": 2327.19,
+      "change": 75.732,
+      "changePercent": 3.3637
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.9,
-      "change": 0.0181,
-      "changePercent": 0.0568
+      "price": 31.881,
+      "change": -0.0009,
+      "changePercent": -0.0028
     },
     "JPYTWD": {
-      "price": 0.1987,
-      "change": -0.0011,
-      "changePercent": -0.5575
+      "price": 0.1984,
+      "change": -0.0014,
+      "changePercent": -0.7077
     },
     "EURTWD": {
-      "price": 37.308,
-      "change": 0.4034,
-      "changePercent": 1.093
+      "price": 37.277,
+      "change": 0.3724,
+      "changePercent": 1.009
     },
     "CNYTWD": {
-      "price": 4.7486,
+      "price": 4.7474,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4586.1,
-    "twd": 4704.0,
-    "tael": 176383.0,
-    "twdTotal": 146297.0,
-    "changePercent": 2.154
+    "usd": 4574.9,
+    "twd": 4689.0,
+    "tael": 175847.0,
+    "twdTotal": 145852.0,
+    "changePercent": 1.9045
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,16 +121,16 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VME02RlJEZnBIeUx0a29GM0JNblVfV3o0UDNWOFZZdmxpUmJRMmhGbjM0WlVHZFdxWl9XNF9yUGptQkpxNjhmOTZRM2hNZw?oc=5"
     },
     {
+      "title": "美股早盤／財部擴大購債效應僅一天公債殖利率轉升、三大指數全倒| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WcGwzZTFnaGdiSFd1MEJRM3laTThlWnlGYmo4MHdlZVpMTnZPOU5UbWc4NGVUMU5URWx2M3g4a2ZqdXpLTDkxWmo4WjNBakhj?oc=5"
+    },
+    {
       "title": "美放水救債、黃金嗨了！台銀黃金存摺飆「2個月最高」 他買百克放2個月增值5萬元 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxOU2YzbW9XTTFIQWNUNEVSSDEtcnFVZlAwTUZBVmpBbmRxdU5LVzhHR1pSRmhHU25DZm9xU3YyaC1oT0RvVllYTlozRTFqQ1BlUzVKeWtqWC11YVZBeVc2S05XUzVmcmk1OWdEQ3I5RFpRUmtUamtITjduSFhxS3RiSC1McUN3SUI3V1J6NmV4X1AtQmNscUVEeUJMUVJWZ3RFdTFZdENRT1RjbHV0dl9jVDc1ZTY2R1BwWW9nWW5FVHhid29OYV9VejdJbHNfYmZKZDlSS3JrWDhCRGl2VWNoalZhS2sxWUg2RzRnV3JHZGdzSDdpemlDaHZ0TzZuUXhJWHJIeXdXSDJEVUZKOUhSVHpBTlhZT1RKTWhpRUMzdktNU0dfOW1xOGxjblBoMDdGcFFGWmVLbkh4Z2tEdkZmR0thY1VsbG95ZEYyQWpWZVpaREVtTmRVVnkyRlFJMHE2ZV9xS3dsMHotS2FmNDA0LW8xdzk0UWRjT0pPN250VzhjX1N2WHVCTnV2VFNFaFRQUmlaNmV3U0gwQ2t4N1FGd01XMFpkQ0xTUHBNZzc0MlNCcnh3U3k1NVBjU2UxMkZOWkV3a19ZWTM0TEl4Y2d3aHk3Z1p4SVlaMmY4OVNTZ2VkYlA3Z2czdmwyNlh6bGFGbjFEUFkxc0NtYnZvVGJfUU9GRm0?oc=5"
     },
     {
       "title": "沉寂11年比特幣錢包集體「蘇醒」，24小時內轉移1214枚BTC - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rbzg2dkN6RWcxWjRjeEpPSUI5SEVzWG5oNkVzMGttMlo2RWE4NTFqbW1pT3k5RE9XQ1VGWVJaMkhDUFo1RC1WT3Awbw?oc=5"
-    },
-    {
-      "title": "比特幣漲逾7萬美元空軍慘遭血洗24小時爆倉逾30億美元| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwT2k1cmkxZXYtZXctcHZjRzNuemNsZEduN003R3lKM1UwZ2xPemROYk1JcXBmOXhGNG51YmtmUlFWVmZmbnpGRzFqSGw3T1lP?oc=5"
     },
     {
       "title": "美股法說｜ADI 法說繳出歷史新高財報，股價卻不漲反跌，台積電、日月光成隱形受惠者(ADI US)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zaU16QXdxbEQxeHNCSmh3RW10ZElkcFZMLTdwOXVQRmU0bllJZ2lfVExYU0hQOVBZOFJPZ01BSVhtVGdmNTFhdjgzb3ItM0U?oc=5"
     },
     {
-      "title": "【美股盤前】失業金與製造業數據今日雙發，科技股能否守穩高位？（2026.08.20） - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMktXYzJvamNoMWpaaGVGODdsS0pSUU1hTHphLTRBM2tsc0JhclRieU1ESjJ5YkJMZTlRYXc1eGJocER3Vl8yYjhISl9xMlp6bGFIRVlIUUdXa1FwWERyMzh6X1Y4cEdlVXVSQXpFUWZUcG5hYnRhdC1xVzFnazVYMXVmTHo0eDhXcXUzS2xB?oc=5"
+      "title": "Adam Back：比特幣達到100萬美元或將比市場預期更快 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ob1FyMHBJcU56cF9FREZiUksyMkhGdGRWdWVtYUw2elQzWExwX21MUS03aFBvT0dZLW5oNE82dEVIdXk2VlBEay1Wcw?oc=5"
     }
   ]
 }
