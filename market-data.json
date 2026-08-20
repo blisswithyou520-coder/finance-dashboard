@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/20 13:58",
+  "updated_tw": "08/20 14:57",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 69363.62,
-      "change": 4682.9091,
-      "changePercent": 7.24
+      "price": 69819.25,
+      "change": 5138.5391,
+      "changePercent": 7.9445
     },
     "ETH": {
-      "price": 2246.83,
-      "change": 330.3704,
-      "changePercent": 17.2386
+      "price": 2261.18,
+      "change": 344.7204,
+      "changePercent": 17.9874
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.848,
-      "change": -0.0339,
-      "changePercent": -0.1063
+      "price": 31.866,
+      "change": -0.0159,
+      "changePercent": -0.0499
     },
     "JPYTWD": {
-      "price": 0.1985,
-      "change": -0.0013,
-      "changePercent": -0.6576
+      "price": 0.1989,
+      "change": -0.0009,
+      "changePercent": -0.4574
     },
     "EURTWD": {
-      "price": 37.216,
-      "change": 0.3114,
-      "changePercent": 0.8437
+      "price": 37.276,
+      "change": 0.3714,
+      "changePercent": 1.0063
     },
     "CNYTWD": {
-      "price": 4.743,
+      "price": 4.7455,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4537.9,
-    "twd": 4647.0,
-    "tael": 174245.0,
-    "twdTotal": 144523.0,
-    "changePercent": 1.0803
+    "usd": 4552.3,
+    "twd": 4664.0,
+    "tael": 174896.0,
+    "twdTotal": 145064.0,
+    "changePercent": 1.4011
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,7 +133,7 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhbWUwWVNXRnlZY1BDVG1Mc1U3bmZyRlFQM1JkLTBxejlpR09LMXd5VkJEYW9SR1NZVlNYQm03Q2FSRUZzeUdKS3FUS1dHTHM?oc=5"
     },
     {
-      "title": "比特幣睽違 2 個月首攻破 7 萬美元！川普挺加密法案、流動性回溫成推手 - blockcast.it",
+      "title": "比特幣睽違 2 個月首攻破 7 萬美元！川普挺加密法案、流動性回溫成推手 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFhmMWxtUWNxNXF2TFBwbVBxOE96LXFPdkVzWDZaTHJaU01zVzg3YTBBTHpqUno0a1R2RUo3SU9vYnhhSEdLLTZLVGVsNlVDTWFYREwxVEFZbmdhVU1vbXlZM25FYVBiWi1sdkIzQUxSQ240MVlEc0RzRVF4Sk0zd3hYNmd4WUFfYVlRNjUweUtUSFE?oc=5"
     },
     {
@@ -141,8 +141,8 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdy15ZUtBNkdSU2hiWlFETWszQlpTT3R5Y1dYLUhGamJfY19nZFZBNVBIWWR6YUtwTGQ4ZmV6aVZuNVJNTklYMWJEdVlMeW1vTXd2bDR6S2psQUM1eGczMURZelQzS1JJX1JONGJhZVFSWDY0THdzbzdIOURQTk9nQzFyVV9kdVlpVnltNjZUZXhUQQ?oc=5"
     },
     {
-      "title": "美股法說｜ADI 法說繳出歷史新高財報，股價卻不漲反跌，台積電、日月光成隱形受惠者(ADI US)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMinwRBVV95cUxPTVM5WTBvdUJLLWFuWVF0WHRBeTctTXVKZzVWSkUyTzJlMzlxRms1b19HVnJTN3lleVRCWWRkWmRkUERVdWFjVTMzelh3WjhFLWRhWHREaGJhMUtTRFFwS3ZaaVRIX2tPaTgtRU03UWRSVnAzUEJDZ1NLZFR0NmItT0ptT0dVNVExbC1JUnlFZzgwYy1Nd1JUMlNfQ1lqTXU3SDJCYlFsS2dGSTJZa01MUWNhX0YxTklVUjB0VjBhbzhTLXBJWFVXU1gxLWhDWnRYOWFvREs2UF9FQ2dXWEdxaHFuMGxaeThTS3NqVXNpWHBwenFyQ2FUM0FVM0pjeGpGQWE3ckJrM3ZHZWlaQnVVX1NRcnZBbTYteUltNVZ3WV85dVRXeXZ1QURCRklhU0VkbzJDYlNKT1N1MVpNOHY4TDZOMlQwUnZZZVNSYWRKMVRMYUhKbTI3WEtpZy15eXBaSUstdXJvNlNxSzJ2eHRRV3V6V0ZrSEoxRWhTbS0zYnVtLXViMWZfdHRrSlg3SE4wbGllUXNEMzJLdi1yQlBWeHZhZG00RmVfdTdicXhiRGRQSFc4WUZzLVNqazc1OTl1cFZfWUY1M091NDJEY0p0U2hkNjd3aEhpN2lxMF9xY0tNN1lqUTc0NTZmTFJDWTVpY3B3RUNEQUdZUmhlYnJ2ZW1ONW5hMDktTHhIdHMtWjFyT25sT2pncDNwNHJMTUU?oc=5"
+      "title": "美股法說WOLF｜Wolfspeed 財報營收獲利雙雙不如預期，股價盤後重挫近一成(WOLF US)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxOVXZIOXhvUHRDT2lJRnNDczJnbm5QTGVvWWI0VmNORHBjMzU4TFFtaGRzRHFLM2FhZ0ZRV29VMTRER29WTnFqS1MwdG9tU3gyZXlmNVo2QjgtbWVndXJEamR1T0N2cGNjRGxsWkRpZ0JuQUxZNWtmakQ3TVkyRVpOYUtZY0N0dFpTTE5QeU9pSXZ1Qk40c29ObnM0c2N3RXlDMkY2SnhBWFByZ3JYakFEVHhFVGsxeVFMNVhBZEpnRGg1Y1ZpUk5KYmxfaTRFeG9zR1VxYmFQYkhnOWtuU1ZHWHVOUGcwZTVaWVVaakk1aUV1ZDJHSjlZV3BYR0QxS3dKdWNnRUFxV1ZBRnN6cDE4c2VVQ3AzczNHT0dydEY1M0NXdEg0eVRSWXFxZ0E5dERvWHZxVFFFRlkzSFNqQUstamxuYlFtRU55WUhBczYyRXVkMDJ5aXNSa21yS0x2T0JkamoycHdkcGJKS0lJQ2lBVW44Z09tUmQ3X3J1YVdrQU9vSlFESEJ6NmNyOUpaLTFQN1hCS0MyY0VQWXhZQUFmZkxtUm1aQVQxZkhCcDNodzJXc1poWG1lck8xY3ZPNUxmMXd2eF91cUhfeURv?oc=5"
     },
     {
       "title": "美股收盤》貝森特出手穩債市、美股多收紅 台積電ADR跌0.32％ - 自由財經",
