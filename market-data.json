@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/21 00:42",
+  "updated_tw": "08/21 01:11",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 216.905,
-      "change": -0.655,
-      "changePercent": -0.3011
+      "price": 216.96,
+      "change": -0.6,
+      "changePercent": -0.2758
     },
     "AAPL": {
-      "price": 317.22,
-      "change": 0.39,
-      "changePercent": 0.1231
+      "price": 317.49,
+      "change": 0.66,
+      "changePercent": 0.2083
     },
     "TSLA": {
-      "price": 344.88,
-      "change": -6.24,
-      "changePercent": -1.7772
+      "price": 343.62,
+      "change": -7.5,
+      "changePercent": -2.136
     },
     "QQQ": {
-      "price": 712.36,
-      "change": -3.72,
-      "changePercent": -0.5195
+      "price": 712.08,
+      "change": -4.0,
+      "changePercent": -0.5586
     },
     "SPY": {
-      "price": 766.43,
-      "change": -2.63,
-      "changePercent": -0.342
+      "price": 765.74,
+      "change": -3.32,
+      "changePercent": -0.4317
     },
     "SCHD": {
-      "price": 35.021,
-      "change": -0.069,
-      "changePercent": -0.1966
+      "price": 35.029,
+      "change": -0.061,
+      "changePercent": -0.1738
     },
     "VOO": {
-      "price": 704.53,
-      "change": -2.38,
-      "changePercent": -0.3367
+      "price": 703.85,
+      "change": -3.06,
+      "changePercent": -0.4329
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72557.73,
-      "change": 3291.5425,
-      "changePercent": 4.752
+      "price": 72600.12,
+      "change": 3333.9325,
+      "changePercent": 4.8132
     },
     "ETH": {
-      "price": 2345.53,
-      "change": 94.072,
-      "changePercent": 4.1783
+      "price": 2336.62,
+      "change": 85.162,
+      "changePercent": 3.7825
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.904,
-      "change": 0.0221,
-      "changePercent": 0.0693
+      "price": 31.89,
+      "change": 0.0081,
+      "changePercent": 0.0254
     },
     "JPYTWD": {
       "price": 0.1984,
@@ -94,22 +94,22 @@
       "changePercent": -0.7077
     },
     "EURTWD": {
-      "price": 37.285,
-      "change": 0.3804,
-      "changePercent": 1.0307
+      "price": 37.269,
+      "change": 0.3644,
+      "changePercent": 0.9874
     },
     "CNYTWD": {
-      "price": 4.7501,
+      "price": 4.7469,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4562.1,
-    "twd": 4680.0,
-    "tael": 175482.0,
-    "twdTotal": 145549.0,
-    "changePercent": 1.6194
+    "usd": 4568.1,
+    "twd": 4684.0,
+    "tael": 175636.0,
+    "twdTotal": 145677.0,
+    "changePercent": 1.753
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fcGg4Z1ZiMTNYYkZ3TnlKRzdvY1Jldno2WW9vYjJkMVdJemF0d3RpMTFlaVc1WThXcEFuSEJWWE1UUHNWczRLS2g5eEs1bFhXczVvcmpfa2dkRmhZRlBZ?oc=5"
     },
     {
-      "title": "Adam Back：比特幣達到100萬美元或將比市場預期更快 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ob1FyMHBJcU56cF9FREZiUksyMkhGdGRWdWVtYUw2elQzWExwX21MUS03aFBvT0dZLW5oNE82dEVIdXk2VlBEay1Wcw?oc=5"
+      "title": "Coinbase CEO：比特幣未來幾年可能將漲至30萬至40萬美元 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TNXhaaUlXelNFZ2pxUzFvVUJrUnRxcUVRWEE5SjduU1BrWms4YXZJUkpESVVoVThsN0VFQ3lqYTNzSmlYU3BicUptSQ?oc=5"
     },
     {
-      "title": "比特幣漲逾7萬美元空軍慘遭血洗24小時爆倉逾30億美元| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwT2k1cmkxZXYtZXctcHZjRzNuemNsZEduN003R3lKM1UwZ2xPemROYk1JcXBmOXhGNG51YmtmUlFWVmZmbnpGRzFqSGw3T1lP?oc=5"
+      "title": "美股收盤／美財部擴大買回長債壓低殖利率 美股小漲 莫德納暴漲177%激勵生技股 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4RVN1ZEZ6SUg5ZE9ZRVV6NWJHeVo1S2lNeE55UW90UEQxMWR6TkN6SXlnMElxMGxkeVFYZUJieFQ5YVRRX3hmOEJHYVpMZUpQbkpIWlh0djJMVjhK0gFiQVVfeXFMUE9JREM1cHNsVTVObXNNQkZFdDdpLXBLdEZ6YUg0dUZtQXF1UVdxYjh2cVIta0dZNDRMY29CZXlscHkwR0ZLcV9Lb0RzQzlncXNuWWRoV2RtX0VPQmtEY013Y0E?oc=5"
     }
   ]
 }
