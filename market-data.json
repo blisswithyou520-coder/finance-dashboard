@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/21 23:13",
+  "updated_tw": "08/21 23:49",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 215.7,
-      "change": -1.15,
-      "changePercent": -0.5303
+      "price": 215.99,
+      "change": -0.86,
+      "changePercent": -0.3966
     },
     "AAPL": {
-      "price": 309.774,
-      "change": -1.526,
-      "changePercent": -0.4902
+      "price": 311.11,
+      "change": -0.19,
+      "changePercent": -0.061
     },
     "TSLA": {
-      "price": 362.291,
-      "change": 17.161,
-      "changePercent": 4.9723
+      "price": 362.29,
+      "change": 17.16,
+      "changePercent": 4.972
     },
     "QQQ": {
-      "price": 712.545,
-      "change": 1.615,
-      "changePercent": 0.2272
+      "price": 714.31,
+      "change": 3.38,
+      "changePercent": 0.4754
     },
     "SPY": {
-      "price": 765.94,
-      "change": 3.34,
-      "changePercent": 0.438
+      "price": 767.01,
+      "change": 4.41,
+      "changePercent": 0.5783
     },
     "SCHD": {
-      "price": 35.148,
-      "change": 0.318,
-      "changePercent": 0.913
+      "price": 35.17,
+      "change": 0.34,
+      "changePercent": 0.9762
     },
     "VOO": {
-      "price": 704.05,
-      "change": 3.04,
-      "changePercent": 0.4337
+      "price": 705.04,
+      "change": 4.03,
+      "changePercent": 0.5749
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77677.87,
-      "change": 4645.1122,
-      "changePercent": 6.3603
+      "price": 77347.36,
+      "change": 4314.6022,
+      "changePercent": 5.9078
     },
     "ETH": {
-      "price": 2399.66,
-      "change": 73.2752,
-      "changePercent": 3.1497
+      "price": 2398.35,
+      "change": 71.9652,
+      "changePercent": 3.0934
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.827,
-      "change": 0.0119,
-      "changePercent": 0.0374
+      "price": 31.81,
+      "change": -0.0051,
+      "changePercent": -0.016
     },
     "JPYTWD": {
       "price": 0.1979,
@@ -94,22 +94,22 @@
       "changePercent": -1.5442
     },
     "EURTWD": {
-      "price": 37.179,
-      "change": 0.0396,
-      "changePercent": 0.1066
+      "price": 37.196,
+      "change": 0.0566,
+      "changePercent": 0.1524
     },
     "CNYTWD": {
-      "price": 4.7382,
+      "price": 4.7373,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4650.6,
-    "twd": 4759.0,
-    "tael": 178454.0,
-    "twdTotal": 148015.0,
-    "changePercent": 2.9737
+    "usd": 4664.0,
+    "twd": 4770.0,
+    "tael": 178873.0,
+    "twdTotal": 148362.0,
+    "changePercent": 3.2704
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,20 +121,20 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlNDNlhINU0zRW5id093LUZKYi03OVQtbEFVYjZrOW1fRGtRRkhsRVlvc0FZWWFQYUd3bDVlLXV1OVRSa0lUT0d0Qi01Y21wSXhmbXhjZUF6NlpCM2xXRV9qb3JlRHdxUy1Nay1fd3lCd005R1hlcEhCTkROMEZXY1Q0NU01N3dCSFRUWFJ3cw?oc=5"
     },
     {
-      "title": "glassnode：比特幣僅用3天抹去相對標普500的3個月劣勢表現 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BeDJwTnlmOU02QVhKZlB5Zk9VQ1gwc2RuMlJKYkR2S1BIOHU2VTRTTEE4M2x3ZnVPS1F3VVg0Z2xsTkFpb0pVR1VkRQ?oc=5"
+      "title": "快訊／比特幣行情報喜 美股開盤「這檔加密貨幣股」漲5% - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNRXd2WGtnX0l3THozZWFQVlV1TU5LSUgxUTRrMW5kVDJlY3BUbFlxWWMzS2IxRzdoU3I1Q2UzMFpndDhDczc3VGVTcVE4ZVFFMzVRTnB4eVJKV21qdGNhTlpTcTFGbGwwVnczbXBaR2oyVkd6R2Q3NHVianJUb3FkNVZsSVByWS0tdElURV84X3VtdHp5V2RIenpJclZPeFpYaGg3SDA4WC1KOTlvZVYzQ3Uwb0N3Ym5hTmhQWnRhX2tkaVAwYVMwZ1NLRDAyVGJyQXZrS1JJTFBWR3dEaWZadmxxTUFYV25fWHVwcmpSUFFaTTJmdDNFdzRQMEV4UnlJX1hKVmt1U0xjYkxfMEZTZHdtbjJ0RHhSekN5N2VCcTRyZjFkWG13cmpmTDJIeFlqSmh2ZnJlM3VXcWNPQjNlZ0R3aEl5Z2NMcHRBUVdaN1lQbk1OWVE?oc=5"
     },
     {
-      "title": "創5月以來新高！市場看好美國加密貨幣立法 比特幣連3天漲逾5% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RamZ1c0RoT29KTzVkd3NoTEl2Z2lWRno2RUdiOGxncDZrYkJSdjFaaWktY2N3OVFMTG5YUklmWm52UjRSZ0tIZnhzamRBNThu?oc=5"
-    },
-    {
-      "title": "美債市場回穩 美股三大指數開盤走高 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNT1o5UXR0cFNfSndVbWtlVldSTWw1dWJ6UWRTcjI5T2l3M2lGcS1NV0liUXB6QVdOb183ancxd214TGdhNVk4ZDhzWW9Xd0k5QjNFVWNlTW0yczVONTlBaHNqaEdGX1hOdjlYdjVZemg0Ykd6RTFZcWVKWHh5aUcwSnI4amY2cEdfVndkR3RxdnRKaV9Xa0lWaFNDNFRoUGw1Nlp1dkVabDNfV3dxa2FjVm5seHd2XzVwQ3RxMDdCaC01UjdudGRRYW9mVG9FRUhENVNyc1ZpemRrUmJuVnBsZzFzZE9Va3l4UFhlU3g0OGNXMWdab2c4MXk5YkdyWV9UU3IyU1dQblZmY0xfeXhWSEdmLVpGYkM0ekE1SA?oc=5"
+      "title": "美股早盤／市場擺脫殖利率攀升陰霾 4大指數齊揚、台積電ADR漲1% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uN3dKc1l6X0NhcVJ0OEhxRldPdFYwSGNSZXY2MEhmaXlxb1V5aEltam9QS281VFVfQ29raVVQclk5Mk9fbWxZa0dSc0p3a0pT?oc=5"
     },
     {
       "title": "黃金高檔震盪！最快「這時」衝破5000美元 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1bEVXOWxscXF0SDZuMHJYa0pSQmJ4RWliUmRPcmJwRlcyajVfSFJUTnZQYWg0dXNUU28wUUJUS3ZDZlRjbXJNYjRKRUstVHpxUnBGQUczd2JtNktHZXRn?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉貝森特干預美債曇花一現、油價再飆！道瓊急瀉超700點 沃爾瑪崩逾9% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zTkdRdWtUbXFkSFpCQ0NtRTl3LXo0TUxGbFQ0RTZzcjRlblRZYVVFYXJWeVhsd1RocWRiaHRDNzlCbUtWenJ0cW1BSldqUEU?oc=5"
     },
     {
       "title": "美財政部「猛藥」救市引爆多頭行情！策略師：比特幣上看 18 萬美元 - 區塊客",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNRkpVOHZwZDJsQ2J3ZHFLUXNPT2ItNVVCWGNvNEhLQ3NxN2JuQ0VWWjFBejNrb1ZUV090ZHJ3MFRidzFTby13RVZCVkYzc2E0dHM1WTBmcTlBOUN0R3VfdE9MTGdRaGdUbm4xZHRiTkw1NTY3ODRlTWxDZkNNaU43OGY2aUtnYlNOUkdqQkRqdEFIZ0RodW8tQ05aMGFxampMMDhVd1ZqdDFRZkZHRVp3V3NUNDBvcjdmM2wxVHU1T1lHcjNyNlhPeDZzMkNnMVpZV3prejNqQXdiYTQ3TXhuRUl0ZDJySFRuc1AzUXhnM3lNUlh5RWY0c2FlM0p1NTJjSFVUd1JuNVRVdElGYnEtdFhNMnZIWTNGcTNSVzFrUGhuOTVmQkFQRnZmZXlhMUhtM05rY3A3QWxsSjFlQ0ZzWHVCZzQ3ejBaUkFxaUZFTUhuRnV5VXY4NGJhUGFVd09nZE5BbWVaeHFyajNsa2VhRGtZYnUzaERib1NmZEpmVUMzc0QxejU2YUFyLVNkbHh2U0E0S2lBRENVbDE4ckNCcU5TTEpTUW9fX3pITDFpaWhhZ2YxTDJORS1teDN1cjVBVXFEUjUwQnV5X0JpTXlwNDJ3TE5SaWl0MG5F?oc=5"
     },
     {
-      "title": "美股早盤／市場擺脫殖利率攀升陰霾 4大指數齊揚、台積電ADR漲1% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uN3dKc1l6X0NhcVJ0OEhxRldPdFYwSGNSZXY2MEhmaXlxb1V5aEltam9QS281VFVfQ29raVVQclk5Mk9fbWxZa0dSc0p3a0pT?oc=5"
+      "title": "美股又殺費半！台積電ADR小漲、台指期夜盤45K保衛戰 比特幣暴力拉升衝77000美元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQU0NxcFQ0Uk1VRlFjZ1lIbXZBcG82TFVkR1lXUDFNZGh1ZzlNckdjRGU2NWVKY3pQUXRjZldNanMxbGFKbGEyTGlXRGdvM3lBcURqUFh4cUZaZXY3dTAyMV9OTEtSMEpaZDEycU1ZVnk2QWdTSXFITXNadkdrQmhYbVpfQ2ZkZEZTX1M3Rk5Hc1BiUGJGT05oa3JoMnl5UDFrVERHUm5sOG5KdG5Vc0xmMnJXVjdhTFFaZDF3OU9Uc2ljN1hfcWFPbVMtbUVTdEdGUHZqVUt1SnNsZlB3bDRKV2I1SWZrVVQ5dGZqRjFidC1WZm9NSF9iTnpIRlhUWHlMdjJQWEVfZ3Z5ZXhvV0NOU1JDWXFHdm0zWXNrdWhsempuQnJnMzB3RzZuQ05acVlUSXdpajF1dElKYlhOSWVLQXZxZ0VUQWtsc21lUlFMUUJUdHVSbGkyNW9FLXNtNi0zb3NGMnJJUTRvLV9sbnkzb3g3YVBCMEQydzBlNl8xLW94aFlkZEVoYVQxalpvZjU2bDk4RjNVOGNmZEtETVhnZTFkTjkwWmlOanhId3dKTDdnU0JuRk9kalcwejNpTGZDSnhBQloyczV4QQ?oc=5"
     }
   ]
 }
