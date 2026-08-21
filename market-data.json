@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/21 21:57",
+  "updated_tw": "08/21 22:40",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 216.305,
-      "change": -0.545,
-      "changePercent": -0.2513
+      "price": 214.99,
+      "change": -1.86,
+      "changePercent": -0.8577
     },
     "AAPL": {
-      "price": 307.31,
-      "change": -3.99,
-      "changePercent": -1.2817
+      "price": 308.055,
+      "change": -3.245,
+      "changePercent": -1.0424
     },
     "TSLA": {
-      "price": 350.92,
-      "change": 5.79,
-      "changePercent": 1.6776
+      "price": 356.075,
+      "change": 10.945,
+      "changePercent": 3.1713
     },
     "QQQ": {
-      "price": 710.86,
-      "change": -0.07,
-      "changePercent": -0.0098
+      "price": 710.69,
+      "change": -0.24,
+      "changePercent": -0.0338
     },
     "SPY": {
-      "price": 764.5,
-      "change": 1.9,
-      "changePercent": 0.2492
+      "price": 764.52,
+      "change": 1.92,
+      "changePercent": 0.2518
     },
     "SCHD": {
-      "price": 35.025,
-      "change": 0.195,
-      "changePercent": 0.5599
+      "price": 35.105,
+      "change": 0.275,
+      "changePercent": 0.7895
     },
     "VOO": {
-      "price": 702.8,
-      "change": 1.79,
-      "changePercent": 0.2553
+      "price": 702.79,
+      "change": 1.78,
+      "changePercent": 0.2539
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77285.55,
-      "change": 4252.7922,
-      "changePercent": 5.8231
+      "price": 76872.25,
+      "change": 3839.4922,
+      "changePercent": 5.2572
     },
     "ETH": {
-      "price": 2387.56,
-      "change": 61.1752,
-      "changePercent": 2.6296
+      "price": 2379.01,
+      "change": 52.6252,
+      "changePercent": 2.2621
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.812,
-      "change": -0.0031,
-      "changePercent": -0.0097
+      "price": 31.832,
+      "change": 0.0169,
+      "changePercent": 0.0531
     },
     "JPYTWD": {
-      "price": 0.1981,
-      "change": -0.0029,
-      "changePercent": -1.4447
+      "price": 0.198,
+      "change": -0.003,
+      "changePercent": -1.4945
     },
     "EURTWD": {
-      "price": 37.202,
-      "change": 0.0626,
-      "changePercent": 0.1685
+      "price": 37.185,
+      "change": 0.0456,
+      "changePercent": 0.1228
     },
     "CNYTWD": {
-      "price": 4.7366,
+      "price": 4.7394,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4646.9,
-    "twd": 4753.0,
-    "tael": 178228.0,
-    "twdTotal": 147827.0,
-    "changePercent": 2.8918
+    "usd": 4656.7,
+    "twd": 4766.0,
+    "tael": 178716.0,
+    "twdTotal": 148232.0,
+    "changePercent": 3.1087
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,8 +129,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RamZ1c0RoT29KTzVkd3NoTEl2Z2lWRno2RUdiOGxncDZrYkJSdjFaaWktY2N3OVFMTG5YUklmWm52UjRSZ0tIZnhzamRBNThu?oc=5"
     },
     {
-      "title": "台股量縮漲290點搶回4萬5！聯發科回神反彈揪航海王炸場「韓版0050」一出道就爆紅｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxNeTRNOVN4Z1dWeGdLNnhaQnptUDRTQnA3UGtzOFBUa3JIVmNPS1o2UnRwZFEyYnZDOW1MSkR2M1NSbWhwNGJvVXp6WkZjT1lTNXhUR1MyYVBNb2JSVWR3bnJLWWk2TXd5S0MzRHN0U0J6eGZlQ2dMZ29KQlZzSVFnYlZ6bUh5ZFVzYWZEQmJmbm1ZNnJmaUp2N1NlV0x4a0tCY1NycGF4cnBXWUhFcjB1MV9kZi14RU5Bb2FYbE12TzdUcGVoZVhpSmFqYWNlSGRyaGQ2UWRySHB5UHZUYUZJYk5wb1BBOXJ6QThsbktJSmh0UWRtM0RqNjd6dmxiWmp4RHJqM0dZRlFHUUlfZ3JRd3dmbzdZQVcwYXVOb3ZlLUpsYUNTTUs2bi0yYks3ZTFCWXNUSVppdFRfZ2dzLXBDMzBma1FGYlhDMkdoR25XY3ZnblNFejRhU0tFS2NQLVdJRFVNVDN3V3JUZjk5X2lFV3htc19uUnZRZ2JITTRuQ21zcC1vdktzbkhleGJkZmJWOWhUVE9Obm44Sl9oX3diRGRGUlJGMTZVSmwwZ29EU1FmUEpYbTJIbTFJZmE1c3lhbk9DaVJiLWhEYzVISHpka3dGY1JzNnFhbDVxbmU2TE9pbW4xZTkxaEVBNTZUMGI0RlpnVHp4bDFfMnJ4S212c3RvTXlBVmlFaVBNN2c5djZleEdjblZONlBUTU9ON0hNRjBhV1hLOXdtTEJTLTk1cm9GbURaQQ?oc=5"
+      "title": "快訊／比特幣行情報喜 美股開盤「這檔加密貨幣股」漲5% - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNRXd2WGtnX0l3THozZWFQVlV1TU5LSUgxUTRrMW5kVDJlY3BUbFlxWWMzS2IxRzdoU3I1Q2UzMFpndDhDczc3VGVTcVE4ZVFFMzVRTnB4eVJKV21qdGNhTlpTcTFGbGwwVnczbXBaR2oyVkd6R2Q3NHVianJUb3FkNVZsSVByWS0tdElURV84X3VtdHp5V2RIenpJclZPeFpYaGg3SDA4WC1KOTlvZVYzQ3Uwb0N3Ym5hTmhQWnRhX2tkaVAwYVMwZ1NLRDAyVGJyQXZrS1JJTFBWR3dEaWZadmxxTUFYV25fWHVwcmpSUFFaTTJmdDNFdzRQMEV4UnlJX1hKVmt1U0xjYkxfMEZTZHdtbjJ0RHhSekN5N2VCcTRyZjFkWG13cmpmTDJIeFlqSmh2ZnJlM3VXcWNPQjNlZ0R3aEl5Z2NMcHRBUVdaN1lQbk1OWVE?oc=5"
     },
     {
       "title": "黃金高檔震盪！最快「這時」衝破5000美元 - 自由財經",
