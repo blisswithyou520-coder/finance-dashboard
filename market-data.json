@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/21 17:19",
+  "updated_tw": "08/21 18:00",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77581.02,
-      "change": 4548.2622,
-      "changePercent": 6.2277
+      "price": 77861.52,
+      "change": 4828.7622,
+      "changePercent": 6.6118
     },
     "ETH": {
-      "price": 2388.87,
-      "change": 62.4852,
-      "changePercent": 2.6859
+      "price": 2403.4,
+      "change": 77.0152,
+      "changePercent": 3.3105
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.794,
-      "change": -0.0211,
-      "changePercent": -0.0663
+      "price": 31.796,
+      "change": -0.0191,
+      "changePercent": -0.06
     },
     "JPYTWD": {
-      "price": 0.1984,
-      "change": -0.0026,
-      "changePercent": -1.2955
+      "price": 0.1983,
+      "change": -0.0027,
+      "changePercent": -1.3452
     },
     "EURTWD": {
-      "price": 37.261,
-      "change": 0.1216,
-      "changePercent": 0.3274
+      "price": 37.247,
+      "change": 0.1076,
+      "changePercent": 0.2897
     },
     "CNYTWD": {
-      "price": 4.7368,
+      "price": 4.7379,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4652.5,
-    "twd": 4756.0,
-    "tael": 178342.0,
-    "twdTotal": 147922.0,
-    "changePercent": 3.0157
+    "usd": 4638.8,
+    "twd": 4742.0,
+    "tael": 177828.0,
+    "twdTotal": 147495.0,
+    "changePercent": 2.7124
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,16 +129,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zTkdRdWtUbXFkSFpCQ0NtRTl3LXo0TUxGbFQ0RTZzcjRlblRZYVVFYXJWeVhsd1RocWRiaHRDNzlCbUtWenJ0cW1BSldqUEU?oc=5"
     },
     {
-      "title": "日本黃金零售價續漲、近3個月高；ETF揚升- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTlsUVV0blVsWjdBRWRmMTVHUWM2QkVZakpyb29kRzduUzFId3huOVhUaTBhUWpPSXU4eGg2cWttbGxVa3dIWUNwUVkzY3BSQWt2R0pFblJUa0ZIdWJTNXY5LU50bDBxZmlRbGNqY3pqRUVwMkFNSjVFYXF1YkdZVFQ3S2FiUEFGVlo5dXZaZG5zUQ?oc=5"
+      "title": "貝森特出手美債仍飆升！美股道瓊跌破700點 台積電ADR逆風漲近1%、台指期夜盤跌99點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNWUxnaHlfVjk5SkdGamtwYkRlV09sR1RlcGpWSXN3OXVhQWUydUREMW9JN1lWTXJBTGlKanRreXJtdzN5TWhJNFRUMkZtaHBjdmxpNzJaOF96dnZIblAyalZJRGhidlBMVk9rT0dzNU12Si1wUGRSMFVmOEZzQjlpM09SOUVPRFpjV0xlVXBuX2c0YWtSa3NtTU5DdjlZc3Z6VmFPeVNjdm9XajBuSUhsOUhXeWd6dkMybnlIVzB0QXpjZjFWeXFTN1JadUxIX3h1ZUEtb01ESk9LWmlOcnZnQklsM2haOXlKOVJEWnNYM1dzWC1WX191MG1sSEJyNlMtZnhqMnFlQVQ0dE53S3V1cC1sdG9ycGc3b0txSTR2VVhpdkNva1I5MUY2TXQza3Z5dEhQLWhMU3NIaVMyRnctTEdMMmlNVVJMV1BuNnlsd0RCdHphaTVmXzJaTU02bTdKYjBLUjZudm81Tjg5WkptSWloM3FESlU5NFluUi05eEQ0Z0xtdkdfTC1wUGlPYkRyUmJaMUQtQ0tsSGlqX1hPN0YxdmZlSTNMNG0wcXRjWndEMzB1NnY4b1A5UndnZTFjUXQxVmFybF8tbFE1bmVxVllNMC1fM09HUk1yY3lGRQ?oc=5"
     },
     {
       "title": "2026美期中選舉倒數：美股「選前弱、選後強」是真的嗎？該如何布局？｜美股觀察｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNRkpVOHZwZDJsQ2J3ZHFLUXNPT2ItNVVCWGNvNEhLQ3NxN2JuQ0VWWjFBejNrb1ZUV090ZHJ3MFRidzFTby13RVZCVkYzc2E0dHM1WTBmcTlBOUN0R3VfdE9MTGdRaGdUbm4xZHRiTkw1NTY3ODRlTWxDZkNNaU43OGY2aUtnYlNOUkdqQkRqdEFIZ0RodW8tQ05aMGFxampMMDhVd1ZqdDFRZkZHRVp3V3NUNDBvcjdmM2wxVHU1T1lHcjNyNlhPeDZzMkNnMVpZV3prejNqQXdiYTQ3TXhuRUl0ZDJySFRuc1AzUXhnM3lNUlh5RWY0c2FlM0p1NTJjSFVUd1JuNVRVdElGYnEtdFhNMnZIWTNGcTNSVzFrUGhuOTVmQkFQRnZmZXlhMUhtM05rY3A3QWxsSjFlQ0ZzWHVCZzQ3ejBaUkFxaUZFTUhuRnV5VXY4NGJhUGFVd09nZE5BbWVaeHFyajNsa2VhRGtZYnUzaERib1NmZEpmVUMzc0QxejU2YUFyLVNkbHh2U0E0S2lBRENVbDE4ckNCcU5TTEpTUW9fX3pITDFpaWhhZ2YxTDJORS1teDN1cjVBVXFEUjUwQnV5X0JpTXlwNDJ3TE5SaWl0MG5F?oc=5"
     },
     {
-      "title": "台股量縮收漲290點！ 三大法人全買超 外資狂撿283億 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPQ1VnNHVNeHF6b1BFcERjYTdlM3c4NlZ1cGd0aXk0U2FhNElMWXBxeE94bmR6U2otR2dPWTNVck5lcU9rNnd6UHk4QWdyRWRRSXhxR1d3dDFBdTBlcTJSUi1LU3VGblMzV2tIUW1ZeFh0emxwT1BDVmhtTENHd2YyaXBPelY4ZG1hTVAyMV9Bekk3MjNDYnRFdmh3R3hwYTBYUUdNbGR0YTBtZHZobDJmSjdtYmg2MU10aFM0b0g0WlZsX1Q5YnFwNzFFbGJ4Vm5vckZpZU82V3dzUVBaeFJubTVXbS1DTzQ3emd5dnBLVEJQeG9JcXJFTzRrc3pCcGhiODFtcE02VEpib0Z1QWNLOGVKX3g5Z3ZZT3FhSHJ3SFRBZzN1X0VkNmtGcE5CRkZvRXdNUTZyZkg3M09rZlFDRFU1dklTcDI2aGc?oc=5"
+      "title": "日本黃金零售價續漲、近3個月高；ETF揚升- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTlsUVV0blVsWjdBRWRmMTVHUWM2QkVZakpyb29kRzduUzFId3huOVhUaTBhUWpPSXU4eGg2cWttbGxVa3dIWUNwUVkzY3BSQWt2R0pFblJUa0ZIdWJTNXY5LU50bDBxZmlRbGNqY3pqRUVwMkFNSjVFYXF1YkdZVFQ3S2FiUEFGVlo5dXZaZG5zUQ?oc=5"
     },
     {
       "title": "台股還要冷多久？法人：五變數干擾、多頭「這時間」重啟攻勢 - 經濟日報",
