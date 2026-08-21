@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/21 23:49",
+  "updated_tw": "08/22 00:31",
   "taiwan": {
     "2330": {
       "price": 2410.0,
-      "change": 35.0,
-      "changePercent": 1.4737
+      "change": 60.0,
+      "changePercent": 2.5532
     },
     "2454": {
       "price": 3790.0,
-      "change": 90.0,
-      "changePercent": 2.4324
+      "change": -55.0,
+      "changePercent": -1.4304
     },
     "2317": {
       "price": 245.5,
-      "change": -1.0,
-      "changePercent": -0.4057
+      "change": 0.5,
+      "changePercent": 0.2041
     },
     "0050": {
       "price": 104.65,
-      "change": 1.55,
-      "changePercent": 1.5034
+      "change": -0.25,
+      "changePercent": -0.2383
     },
     "00878": {
       "price": 32.38,
-      "change": 0.08,
-      "changePercent": 0.2477
+      "change": -0.0,
+      "changePercent": -0.0
     },
     "00919": {
       "price": 30.8,
-      "change": 0.41,
-      "changePercent": 1.3491
+      "change": 0.46,
+      "changePercent": 1.5161
     }
   },
   "us": {
     "NVDA": {
-      "price": 215.99,
-      "change": -0.86,
-      "changePercent": -0.3966
+      "price": 215.572,
+      "change": -1.278,
+      "changePercent": -0.5894
     },
     "AAPL": {
-      "price": 311.11,
-      "change": -0.19,
-      "changePercent": -0.061
+      "price": 310.86,
+      "change": -0.44,
+      "changePercent": -0.1413
     },
     "TSLA": {
-      "price": 362.29,
-      "change": 17.16,
-      "changePercent": 4.972
+      "price": 363.29,
+      "change": 18.16,
+      "changePercent": 5.2618
     },
     "QQQ": {
-      "price": 714.31,
-      "change": 3.38,
-      "changePercent": 0.4754
+      "price": 713.52,
+      "change": 2.59,
+      "changePercent": 0.3643
     },
     "SPY": {
-      "price": 767.01,
-      "change": 4.41,
-      "changePercent": 0.5783
+      "price": 766.17,
+      "change": 3.57,
+      "changePercent": 0.4681
     },
     "SCHD": {
-      "price": 35.17,
-      "change": 0.34,
-      "changePercent": 0.9762
+      "price": 35.109,
+      "change": 0.279,
+      "changePercent": 0.801
     },
     "VOO": {
-      "price": 705.04,
-      "change": 4.03,
-      "changePercent": 0.5749
+      "price": 704.265,
+      "change": 3.255,
+      "changePercent": 0.4643
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77347.36,
-      "change": 4314.6022,
-      "changePercent": 5.9078
+      "price": 77273.91,
+      "change": 4241.1522,
+      "changePercent": 5.8072
     },
     "ETH": {
-      "price": 2398.35,
-      "change": 71.9652,
-      "changePercent": 3.0934
+      "price": 2399.23,
+      "change": 72.8452,
+      "changePercent": 3.1313
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.81,
-      "change": -0.0051,
-      "changePercent": -0.016
+      "price": 31.817,
+      "change": 0.0019,
+      "changePercent": 0.006
     },
     "JPYTWD": {
-      "price": 0.1979,
-      "change": -0.0031,
-      "changePercent": -1.5442
+      "price": 0.198,
+      "change": -0.003,
+      "changePercent": -1.4945
     },
     "EURTWD": {
-      "price": 37.196,
-      "change": 0.0566,
-      "changePercent": 0.1524
+      "price": 37.217,
+      "change": 0.0776,
+      "changePercent": 0.2089
     },
     "CNYTWD": {
-      "price": 4.7373,
+      "price": 4.7408,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4664.0,
-    "twd": 4770.0,
-    "tael": 178873.0,
-    "twdTotal": 148362.0,
-    "changePercent": 3.2704
+    "usd": 4670.5,
+    "twd": 4778.0,
+    "tael": 179162.0,
+    "twdTotal": 148601.0,
+    "changePercent": 3.4143
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,12 +121,16 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlNDNlhINU0zRW5id093LUZKYi03OVQtbEFVYjZrOW1fRGtRRkhsRVlvc0FZWWFQYUd3bDVlLXV1OVRSa0lUT0d0Qi01Y21wSXhmbXhjZUF6NlpCM2xXRV9qb3JlRHdxUy1Nay1fd3lCd005R1hlcEhCTkROMEZXY1Q0NU01N3dCSFRUWFJ3cw?oc=5"
     },
     {
-      "title": "快訊／比特幣行情報喜 美股開盤「這檔加密貨幣股」漲5% - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNRXd2WGtnX0l3THozZWFQVlV1TU5LSUgxUTRrMW5kVDJlY3BUbFlxWWMzS2IxRzdoU3I1Q2UzMFpndDhDczc3VGVTcVE4ZVFFMzVRTnB4eVJKV21qdGNhTlpTcTFGbGwwVnczbXBaR2oyVkd6R2Q3NHVianJUb3FkNVZsSVByWS0tdElURV84X3VtdHp5V2RIenpJclZPeFpYaGg3SDA4WC1KOTlvZVYzQ3Uwb0N3Ym5hTmhQWnRhX2tkaVAwYVMwZ1NLRDAyVGJyQXZrS1JJTFBWR3dEaWZadmxxTUFYV25fWHVwcmpSUFFaTTJmdDNFdzRQMEV4UnlJX1hKVmt1U0xjYkxfMEZTZHdtbjJ0RHhSekN5N2VCcTRyZjFkWG13cmpmTDJIeFlqSmh2ZnJlM3VXcWNPQjNlZ0R3aEl5Z2NMcHRBUVdaN1lQbk1OWVE?oc=5"
+      "title": "美股又殺費半！台積電ADR小漲、台指期夜盤45K保衛戰 比特幣暴力拉升衝77000美元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQU0NxcFQ0Uk1VRlFjZ1lIbXZBcG82TFVkR1lXUDFNZGh1ZzlNckdjRGU2NWVKY3pQUXRjZldNanMxbGFKbGEyTGlXRGdvM3lBcURqUFh4cUZaZXY3dTAyMV9OTEtSMEpaZDEycU1ZVnk2QWdTSXFITXNadkdrQmhYbVpfQ2ZkZEZTX1M3Rk5Hc1BiUGJGT05oa3JoMnl5UDFrVERHUm5sOG5KdG5Vc0xmMnJXVjdhTFFaZDF3OU9Uc2ljN1hfcWFPbVMtbUVTdEdGUHZqVUt1SnNsZlB3bDRKV2I1SWZrVVQ5dGZqRjFidC1WZm9NSF9iTnpIRlhUWHlMdjJQWEVfZ3Z5ZXhvV0NOU1JDWXFHdm0zWXNrdWhsempuQnJnMzB3RzZuQ05acVlUSXdpajF1dElKYlhOSWVLQXZxZ0VUQWtsc21lUlFMUUJUdHVSbGkyNW9FLXNtNi0zb3NGMnJJUTRvLV9sbnkzb3g3YVBCMEQydzBlNl8xLW94aFlkZEVoYVQxalpvZjU2bDk4RjNVOGNmZEtETVhnZTFkTjkwWmlOanhId3dKTDdnU0JuRk9kalcwejNpTGZDSnhBQloyczV4QQ?oc=5"
     },
     {
       "title": "美股早盤／市場擺脫殖利率攀升陰霾 4大指數齊揚、台積電ADR漲1% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uN3dKc1l6X0NhcVJ0OEhxRldPdFYwSGNSZXY2MEhmaXlxb1V5aEltam9QS281VFVfQ29raVVQclk5Mk9fbWxZa0dSc0p3a0pT?oc=5"
+    },
+    {
+      "title": "美財政部「猛藥」救市引爆多頭行情！策略師：比特幣上看 18 萬美元 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTFnTHAwc29DdFFqZVJ3TzlwSEFoR3BnMjBNRktVUG4xM01SZ1E0cE9OaER4blRfa2NMV3FPVnpEeVk5ckpnb2h0NWU1WWg3b1g4bnRBSE5hZUl3cnhvY1d2UVRucXVTMW1ZMUpLMFNyWTB2dndBLWQ2WDlJNF9URExjUzdqWFUtcl82YU5zNy1yUE5YUUs3dnh2ZUo?oc=5"
     },
     {
       "title": "黃金高檔震盪！最快「這時」衝破5000美元 - 自由財經",
@@ -137,16 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zTkdRdWtUbXFkSFpCQ0NtRTl3LXo0TUxGbFQ0RTZzcjRlblRZYVVFYXJWeVhsd1RocWRiaHRDNzlCbUtWenJ0cW1BSldqUEU?oc=5"
     },
     {
-      "title": "美財政部「猛藥」救市引爆多頭行情！策略師：比特幣上看 18 萬美元 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTFnTHAwc29DdFFqZVJ3TzlwSEFoR3BnMjBNRktVUG4xM01SZ1E0cE9OaER4blRfa2NMV3FPVnpEeVk5ckpnb2h0NWU1WWg3b1g4bnRBSE5hZUl3cnhvY1d2UVRucXVTMW1ZMUpLMFNyWTB2dndBLWQ2WDlJNF9URExjUzdqWFUtcl82YU5zNy1yUE5YUUs3dnh2ZUo?oc=5"
-    },
-    {
       "title": "2026美期中選舉倒數：美股「選前弱、選後強」是真的嗎？該如何布局？｜美股觀察｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNRkpVOHZwZDJsQ2J3ZHFLUXNPT2ItNVVCWGNvNEhLQ3NxN2JuQ0VWWjFBejNrb1ZUV090ZHJ3MFRidzFTby13RVZCVkYzc2E0dHM1WTBmcTlBOUN0R3VfdE9MTGdRaGdUbm4xZHRiTkw1NTY3ODRlTWxDZkNNaU43OGY2aUtnYlNOUkdqQkRqdEFIZ0RodW8tQ05aMGFxampMMDhVd1ZqdDFRZkZHRVp3V3NUNDBvcjdmM2wxVHU1T1lHcjNyNlhPeDZzMkNnMVpZV3prejNqQXdiYTQ3TXhuRUl0ZDJySFRuc1AzUXhnM3lNUlh5RWY0c2FlM0p1NTJjSFVUd1JuNVRVdElGYnEtdFhNMnZIWTNGcTNSVzFrUGhuOTVmQkFQRnZmZXlhMUhtM05rY3A3QWxsSjFlQ0ZzWHVCZzQ3ejBaUkFxaUZFTUhuRnV5VXY4NGJhUGFVd09nZE5BbWVaeHFyajNsa2VhRGtZYnUzaERib1NmZEpmVUMzc0QxejU2YUFyLVNkbHh2U0E0S2lBRENVbDE4ckNCcU5TTEpTUW9fX3pITDFpaWhhZ2YxTDJORS1teDN1cjVBVXFEUjUwQnV5X0JpTXlwNDJ3TE5SaWl0MG5F?oc=5"
     },
     {
-      "title": "美股又殺費半！台積電ADR小漲、台指期夜盤45K保衛戰 比特幣暴力拉升衝77000美元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQU0NxcFQ0Uk1VRlFjZ1lIbXZBcG82TFVkR1lXUDFNZGh1ZzlNckdjRGU2NWVKY3pQUXRjZldNanMxbGFKbGEyTGlXRGdvM3lBcURqUFh4cUZaZXY3dTAyMV9OTEtSMEpaZDEycU1ZVnk2QWdTSXFITXNadkdrQmhYbVpfQ2ZkZEZTX1M3Rk5Hc1BiUGJGT05oa3JoMnl5UDFrVERHUm5sOG5KdG5Vc0xmMnJXVjdhTFFaZDF3OU9Uc2ljN1hfcWFPbVMtbUVTdEdGUHZqVUt1SnNsZlB3bDRKV2I1SWZrVVQ5dGZqRjFidC1WZm9NSF9iTnpIRlhUWHlMdjJQWEVfZ3Z5ZXhvV0NOU1JDWXFHdm0zWXNrdWhsempuQnJnMzB3RzZuQ05acVlUSXdpajF1dElKYlhOSWVLQXZxZ0VUQWtsc21lUlFMUUJUdHVSbGkyNW9FLXNtNi0zb3NGMnJJUTRvLV9sbnkzb3g3YVBCMEQydzBlNl8xLW94aFlkZEVoYVQxalpvZjU2bDk4RjNVOGNmZEtETVhnZTFkTjkwWmlOanhId3dKTDdnU0JuRk9kalcwejNpTGZDSnhBQloyczV4QQ?oc=5"
+      "title": "日本黃金零售價續漲、近3個月高；ETF揚升- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTlsUVV0blVsWjdBRWRmMTVHUWM2QkVZakpyb29kRzduUzFId3huOVhUaTBhUWpPSXU4eGg2cWttbGxVa3dIWUNwUVkzY3BSQWt2R0pFblJUa0ZIdWJTNXY5LU50bDBxZmlRbGNqY3pqRUVwMkFNSjVFYXF1YkdZVFQ3S2FiUEFGVlo5dXZaZG5zUQ?oc=5"
     }
   ]
 }
