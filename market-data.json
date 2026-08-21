@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/21 12:53",
+  "updated_tw": "08/21 13:30",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -13,24 +13,24 @@
       "changePercent": 1.6216
     },
     "2317": {
-      "price": 245.5,
-      "change": -1.0,
-      "changePercent": -0.4057
+      "price": 245.0,
+      "change": -1.5,
+      "changePercent": -0.6085
     },
     "0050": {
-      "price": 104.5,
-      "change": 1.4,
-      "changePercent": 1.3579
+      "price": 104.45,
+      "change": 1.35,
+      "changePercent": 1.3094
     },
     "00878": {
-      "price": 32.33,
-      "change": 0.03,
-      "changePercent": 0.0929
+      "price": 32.36,
+      "change": 0.06,
+      "changePercent": 0.1858
     },
     "00919": {
-      "price": 30.75,
-      "change": 0.36,
-      "changePercent": 1.1846
+      "price": 30.81,
+      "change": 0.42,
+      "changePercent": 1.382
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 74929.52,
-      "change": 5663.3325,
-      "changePercent": 8.1762
+      "price": 75136.68,
+      "change": 5870.4925,
+      "changePercent": 8.4753
     },
     "ETH": {
-      "price": 2353.24,
-      "change": 101.782,
-      "changePercent": 4.5207
+      "price": 2352.13,
+      "change": 100.672,
+      "changePercent": 4.4714
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.843,
-      "change": 0.0279,
-      "changePercent": 0.0877
+      "price": 31.855,
+      "change": 0.0399,
+      "changePercent": 0.1254
     },
     "JPYTWD": {
-      "price": 0.198,
-      "change": -0.003,
-      "changePercent": -1.4945
+      "price": 0.1981,
+      "change": -0.0029,
+      "changePercent": -1.4447
     },
     "EURTWD": {
-      "price": 37.276,
-      "change": 0.1366,
-      "changePercent": 0.3678
+      "price": 37.289,
+      "change": 0.1496,
+      "changePercent": 0.4028
     },
     "CNYTWD": {
-      "price": 4.7446,
+      "price": 4.7464,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4598.7,
-    "twd": 4708.0,
-    "tael": 176551.0,
-    "twdTotal": 146436.0,
-    "changePercent": 1.8245
+    "usd": 4590.3,
+    "twd": 4701.0,
+    "tael": 176295.0,
+    "twdTotal": 146224.0,
+    "changePercent": 1.6385
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,12 +129,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1odDJZcGJob3haMW5OQUdMWU5hNENQUmcwMlk2MlR3ZFBjaFNSNk5wUWlUcjcycEl4dXNvaTBadlJpVlRYVnBIdmFkVm5aWjEz?oc=5"
     },
     {
-      "title": "ChatGPT 預測比特幣 2026 年底價格上看 11 萬美元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUHJhY09VTkV0bWJIMENSYTdyT1VPTlZzRHRkQllIUHZZeVNSOFpYXzNUa29ocEJQQkRQbjA4YkpMQkZWWW9xczhadjJSYlcxZ1hDM0tueThydTNEZFhNLWE1YThmZ0dTWEF4Q2VNNGIyVDlIVFQ3MkY3UVlfVW9wbi1aWUZkSG42ZmRZc19vd3JBa2pJUUhsNjdEaDFGb1BpTmc0ZG1TV1RRTVVtQkhQNF9KRDJKaG95SlBGcnRodHpUcWd1ZmxPUDk2S0h5eDdIcGU0dC1UTk1sd0VQSUc3MUs2bkdIWW5jMXc1QmxQRURCczRZVkE?oc=5"
-    },
-    {
-      "title": "台積電ADR漲近1% 投顧：台股反彈量縮估震盪整理| 證券 - cna.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bU16aXRGbHVyc1F0X1BDdFBBV3B1UjZ6QlBrdzJxRW9RdmZYdzNVenVOaTJITkFRU2ZCdHNUd3dEQkh6ZEk2QnM3c09uUzFCWVZWQlFxZnJ3UFAyekE?oc=5"
+      "title": "【0820台股盤後】台股近期低量打底，反彈 214 點收44,933 點，台股夜盤下跌99點！外資翻多買超37 億，記憶體類股【2344 華邦電】【2337 旺宏】【2408 南亞科】強勢｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi7AVBVV95cUxOdFVuWDdUVG1NNEVnTm9NUFRFV0pMY3VYOWtwRXlqbHljNWJNdVRjelFmaHp5eFp1UzV1ZEQycTJyZFcyTWpIRzA0TlJ3TlRiQTl6OGg3elB6blZtTjZ5SGpZZmVKejRScFM0T3VMWG1Mb2dLNTgxX2FzdTlhY3RMWjFsZE9RdUxZWVBYUE1iaHI1S19EMlhENVZXc19PMFAwTXowUk1tSDI0LWM3bWdsXzdDc1lVWWpoU0t1TEdvbDRsM0RMRzE1cG5wMWw0aGtpd2Vva1RlMnB6LS1BS1c0MmZUVUk3MmloakFvaGFlRm5Bc3lQcHR2U3RUbFhucWhPWG5QU2xlcXV1NGQtMWd1c1M2Ung0R2dqeDNrN0hMY2N5TnV3ZEtybEJvT3VhU3RHRzdQWmtycThvcVZ4WW9pWjUxeEs3Q2F4eGt2dmRxbmFFT0h2cUFJVHg2QmdrZ2JsLV9aS1FBaTBfcHpwZG9xb1FCMks0eEt6b2NIN0xWQkRRR0REY2s1QkxycGxkWGJ0aGNmTVM1TE10VkVQRmh2RGd1VmFNUkVkSTdBeHpiZHpuejBZaURSaUJUR2stTlpwVHEwOG14enRRSWZnTjUtOVJSUmx6NTFGdC1ObFR1VTVBaUdzZWdKdE5Ja2ZHZzNHSU1PSDN2dEM0WFdvOHdtUXhIYjh5T1FNaW5wbVNucjhwLTBDMUVNWW1pUHpOU2NpckRZajhxMEROQVBXOG9qR1ZjXzhfeU9tUWJUOTFYSEo0YVZjQm9ZTzFuRS1SVHl5dVpEZGxabzdUUWhZYVc1Y0hfX1FTX0U5c0ZJbzdUN1BfR3lkSlFldWFHTzBKS0lkclI5M1BETFdzU21ONl9XWDdUajdORlAtOXNGTE5LSFFzSEJScUJnMnV2T2xCU1cwZDZoemhPb3dHdmJmUEpldHZXc2YxX1NBZEI3WDFfQ0lnT3VOVXNpRjdOejU0VElFTF9UenJGby1CX0ho?oc=5"
     },
     {
       "title": "比特幣突破 7.5 萬美元！分析師警告：這波漲勢「來得太早」 - 區塊客",
@@ -145,8 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VME02RlJEZnBIeUx0a29GM0JNblVfV3o0UDNWOFZZdmxpUmJRMmhGbjM0WlVHZFdxWl9XNF9yUGptQkpxNjhmOTZRM2hNZw?oc=5"
     },
     {
-      "title": "比特幣時隔9個月重返200日均線上方，漲勢或釋放長期趨勢轉強信號 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DeHdvVmR0YUR6U1ZleFhwMTZJUXJZTEthYURfbDdPNWp1LUpiQlVCdFNFcFpKWVJMcE92RWRWTklQX2g4WTROV1Q2Yw?oc=5"
+      "title": "台股剩光通訊在漲？「大黑馬」曝光 聯亞買黑操作勝算高 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPdTV5SzVDUzNUX3lDZXREd2gzWEFBRm9pNUk1SHJCRWlFb0hUX296MmdZWFBTTGg0ZkVBVFF0amhBblgtSGJ0M3owbFZHNnJaVkVDbEFFLTNRbkZ0TXJaOFgxeExKTXgzX0p4djdJTV9zZ0oxcUtzSG9xWXVaeHlLcDJmaVJxLV9KT0l0dldrZ3VzbWk3MTNGa2dKWklLMVRUclZScXJiTDdZVk1qVVpSelJvX1otMzM4c2tadDhpWmYwRFdYc0RHbnU1QklRNEpwWjhTSTZ3QVNvSE10TnM4YWlMbTNYSTZqSUk5Um94dFllVnhheFdfeldaTlpqNS1yMUtZbTBsRkpOcVhCN0RPSHpaOG1NcVQxMmdicnVnbUhSS2lrTEJKUHFybk9BSHRObFVjd0h5c19NY1dlSUQzU0dlZ1pyRkg0Nnk3WW9QUHFiZ1h2Ym5vTG96c2JWeDZYZ0c4dlFjbw?oc=5"
+    },
+    {
+      "title": "台股早盤下跌逾300點後翻紅 台積電漲15元 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0Y0JSY0tzcnFFVlpEZ2poYjhlaUhFVlVQazhicFZ2QU9xZVYtWEJPeVlEcWhlQVNJa1dZZTdwVHhobFBNRXJwLVQtNkZoTkZUbk02cUY5dmE4MEliTFE?oc=5"
     }
   ]
 }
