@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/22 02:14",
+  "updated_tw": "08/22 02:58",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 215.94,
-      "change": -0.91,
-      "changePercent": -0.4196
+      "price": 215.235,
+      "change": -1.615,
+      "changePercent": -0.7448
     },
     "AAPL": {
-      "price": 309.085,
-      "change": -2.215,
-      "changePercent": -0.7115
+      "price": 308.555,
+      "change": -2.745,
+      "changePercent": -0.8818
     },
     "TSLA": {
-      "price": 363.575,
-      "change": 18.445,
-      "changePercent": 5.3444
+      "price": 364.76,
+      "change": 19.63,
+      "changePercent": 5.6877
     },
     "QQQ": {
-      "price": 713.105,
-      "change": 2.175,
-      "changePercent": 0.3059
+      "price": 713.52,
+      "change": 2.59,
+      "changePercent": 0.3643
     },
     "SPY": {
-      "price": 765.44,
-      "change": 2.84,
-      "changePercent": 0.3724
+      "price": 766.02,
+      "change": 3.42,
+      "changePercent": 0.4485
     },
     "SCHD": {
-      "price": 35.06,
-      "change": 0.23,
-      "changePercent": 0.6603
+      "price": 35.095,
+      "change": 0.265,
+      "changePercent": 0.7608
     },
     "VOO": {
-      "price": 703.6,
-      "change": 2.59,
-      "changePercent": 0.3695
+      "price": 704.13,
+      "change": 3.12,
+      "changePercent": 0.4451
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77344.49,
-      "change": 4311.7322,
-      "changePercent": 5.9038
+      "price": 77018.85,
+      "change": 3986.0922,
+      "changePercent": 5.458
     },
     "ETH": {
-      "price": 2424.66,
-      "change": 98.2752,
-      "changePercent": 4.2244
+      "price": 2416.14,
+      "change": 89.7552,
+      "changePercent": 3.8581
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.82,
-      "change": 0.0049,
-      "changePercent": 0.0154
+      "price": 31.812,
+      "change": -0.0031,
+      "changePercent": -0.0097
     },
     "JPYTWD": {
-      "price": 0.1979,
-      "change": -0.0031,
-      "changePercent": -1.5442
+      "price": 0.1978,
+      "change": -0.0032,
+      "changePercent": -1.594
     },
     "EURTWD": {
-      "price": 37.213,
-      "change": 0.0736,
-      "changePercent": 0.1982
+      "price": 37.208,
+      "change": 0.0686,
+      "changePercent": 0.1847
     },
     "CNYTWD": {
-      "price": 4.7385,
+      "price": 4.7368,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4684.4,
-    "twd": 4792.0,
-    "tael": 179712.0,
-    "twdTotal": 149058.0,
-    "changePercent": 3.7221
+    "usd": 4682.4,
+    "twd": 4789.0,
+    "tael": 179590.0,
+    "twdTotal": 148957.0,
+    "changePercent": 3.6778
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNRkpVOHZwZDJsQ2J3ZHFLUXNPT2ItNVVCWGNvNEhLQ3NxN2JuQ0VWWjFBejNrb1ZUV090ZHJ3MFRidzFTby13RVZCVkYzc2E0dHM1WTBmcTlBOUN0R3VfdE9MTGdRaGdUbm4xZHRiTkw1NTY3ODRlTWxDZkNNaU43OGY2aUtnYlNOUkdqQkRqdEFIZ0RodW8tQ05aMGFxampMMDhVd1ZqdDFRZkZHRVp3V3NUNDBvcjdmM2wxVHU1T1lHcjNyNlhPeDZzMkNnMVpZV3prejNqQXdiYTQ3TXhuRUl0ZDJySFRuc1AzUXhnM3lNUlh5RWY0c2FlM0p1NTJjSFVUd1JuNVRVdElGYnEtdFhNMnZIWTNGcTNSVzFrUGhuOTVmQkFQRnZmZXlhMUhtM05rY3A3QWxsSjFlQ0ZzWHVCZzQ3ejBaUkFxaUZFTUhuRnV5VXY4NGJhUGFVd09nZE5BbWVaeHFyajNsa2VhRGtZYnUzaERib1NmZEpmVUMzc0QxejU2YUFyLVNkbHh2U0E0S2lBRENVbDE4ckNCcU5TTEpTUW9fX3pITDFpaWhhZ2YxTDJORS1teDN1cjVBVXFEUjUwQnV5X0JpTXlwNDJ3TE5SaWl0MG5F?oc=5"
     },
     {
-      "title": "日本黃金零售價續漲、近3個月高；ETF揚升- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTlsUVV0blVsWjdBRWRmMTVHUWM2QkVZakpyb29kRzduUzFId3huOVhUaTBhUWpPSXU4eGg2cWttbGxVa3dIWUNwUVkzY3BSQWt2R0pFblJUa0ZIdWJTNXY5LU50bDBxZmlRbGNqY3pqRUVwMkFNSjVFYXF1YkdZVFQ3S2FiUEFGVlo5dXZaZG5zUQ?oc=5"
+      "title": "7.6萬美元！比特幣周漲20% 漲勢三年來最猛 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fYmlrNzQxM1RFc1lxUjlYbW5hT2NJREtFSl9KRWNoS0ZKOXRFa2hGcGhKQjBPZEhMX3hTUTB5c2d0SXVxRWZENGFCT0Q0dUFBVHo1OVIzUmo0d9IBX0FVX3lxTFA4RU1GZ3VkQ1JrS2YyQzYzQ2FEM2diZ3VoNmRLVlNJTXF3bDNWMnc1TnE0UG15RHhGM3pCTzFRa010SGExLV94T3JHUDIyVEJNMlFDZ0pJYm0wUml3UU5n?oc=5"
     }
   ]
 }
