@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/22 00:31",
+  "updated_tw": "08/22 01:06",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 215.572,
-      "change": -1.278,
-      "changePercent": -0.5894
+      "price": 215.47,
+      "change": -1.38,
+      "changePercent": -0.6364
     },
     "AAPL": {
-      "price": 310.86,
-      "change": -0.44,
-      "changePercent": -0.1413
+      "price": 311.22,
+      "change": -0.08,
+      "changePercent": -0.0257
     },
     "TSLA": {
-      "price": 363.29,
-      "change": 18.16,
-      "changePercent": 5.2618
+      "price": 364.545,
+      "change": 19.415,
+      "changePercent": 5.6254
     },
     "QQQ": {
-      "price": 713.52,
-      "change": 2.59,
-      "changePercent": 0.3643
+      "price": 713.81,
+      "change": 2.88,
+      "changePercent": 0.4051
     },
     "SPY": {
-      "price": 766.17,
-      "change": 3.57,
-      "changePercent": 0.4681
+      "price": 766.295,
+      "change": 3.695,
+      "changePercent": 0.4845
     },
     "SCHD": {
-      "price": 35.109,
-      "change": 0.279,
-      "changePercent": 0.801
+      "price": 35.095,
+      "change": 0.265,
+      "changePercent": 0.7608
     },
     "VOO": {
-      "price": 704.265,
-      "change": 3.255,
-      "changePercent": 0.4643
+      "price": 704.395,
+      "change": 3.385,
+      "changePercent": 0.4829
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77273.91,
-      "change": 4241.1522,
-      "changePercent": 5.8072
+      "price": 77559.24,
+      "change": 4526.4822,
+      "changePercent": 6.1979
     },
     "ETH": {
-      "price": 2399.23,
-      "change": 72.8452,
-      "changePercent": 3.1313
+      "price": 2408.3,
+      "change": 81.9152,
+      "changePercent": 3.5211
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.817,
-      "change": 0.0019,
-      "changePercent": 0.006
+      "price": 31.818,
+      "change": 0.0029,
+      "changePercent": 0.0091
     },
     "JPYTWD": {
-      "price": 0.198,
-      "change": -0.003,
-      "changePercent": -1.4945
+      "price": 0.1979,
+      "change": -0.0031,
+      "changePercent": -1.5442
     },
     "EURTWD": {
-      "price": 37.217,
-      "change": 0.0776,
-      "changePercent": 0.2089
+      "price": 37.21,
+      "change": 0.0706,
+      "changePercent": 0.1901
     },
     "CNYTWD": {
-      "price": 4.7408,
+      "price": 4.7389,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4670.5,
-    "twd": 4778.0,
-    "tael": 179162.0,
-    "twdTotal": 148601.0,
-    "changePercent": 3.4143
+    "usd": 4683.5,
+    "twd": 4791.0,
+    "tael": 179666.0,
+    "twdTotal": 149020.0,
+    "changePercent": 3.7022
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,16 @@
   },
   "news": [
     {
+      "title": "多頭接棒意願 比特幣續航關鍵 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYUDk0MXNfa2VOSzJvNHZpOXRFRWhuS0ZEYlVIamh0aDF6bjRXdGlJaTVFalQyT2pZbHA1d3NzSEJrM08wUmxrTXJBVTdDTFBySThUUDZHSWJmZ9IBX0FVX3lxTE9YczNYNU4zODh1YjlBTC10bk1KeVhrTDQyRWItbnY5ZEZsZDFtWjJoNC1kNmppVlNlUUp2QXpOeU9XWHVxb1g5RlZKc29XRFZZQ1lzZGtJdTdsZXVweGN3?oc=5"
+    },
+    {
       "title": "結構性支撐與核心催化劑齊至！黃金或將走出二季度暴跌陰霾 - capitalfutures.com.tw",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlNDNlhINU0zRW5id093LUZKYi03OVQtbEFVYjZrOW1fRGtRRkhsRVlvc0FZWWFQYUd3bDVlLXV1OVRSa0lUT0d0Qi01Y21wSXhmbXhjZUF6NlpCM2xXRV9qb3JlRHdxUy1Nay1fd3lCd005R1hlcEhCTkROMEZXY1Q0NU01N3dCSFRUWFJ3cw?oc=5"
     },
     {
       "title": "美股又殺費半！台積電ADR小漲、台指期夜盤45K保衛戰 比特幣暴力拉升衝77000美元 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQU0NxcFQ0Uk1VRlFjZ1lIbXZBcG82TFVkR1lXUDFNZGh1ZzlNckdjRGU2NWVKY3pQUXRjZldNanMxbGFKbGEyTGlXRGdvM3lBcURqUFh4cUZaZXY3dTAyMV9OTEtSMEpaZDEycU1ZVnk2QWdTSXFITXNadkdrQmhYbVpfQ2ZkZEZTX1M3Rk5Hc1BiUGJGT05oa3JoMnl5UDFrVERHUm5sOG5KdG5Vc0xmMnJXVjdhTFFaZDF3OU9Uc2ljN1hfcWFPbVMtbUVTdEdGUHZqVUt1SnNsZlB3bDRKV2I1SWZrVVQ5dGZqRjFidC1WZm9NSF9iTnpIRlhUWHlMdjJQWEVfZ3Z5ZXhvV0NOU1JDWXFHdm0zWXNrdWhsempuQnJnMzB3RzZuQ05acVlUSXdpajF1dElKYlhOSWVLQXZxZ0VUQWtsc21lUlFMUUJUdHVSbGkyNW9FLXNtNi0zb3NGMnJJUTRvLV9sbnkzb3g3YVBCMEQydzBlNl8xLW94aFlkZEVoYVQxalpvZjU2bDk4RjNVOGNmZEtETVhnZTFkTjkwWmlOanhId3dKTDdnU0JuRk9kalcwejNpTGZDSnhBQloyczV4QQ?oc=5"
-    },
-    {
-      "title": "美股早盤／市場擺脫殖利率攀升陰霾 4大指數齊揚、台積電ADR漲1% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uN3dKc1l6X0NhcVJ0OEhxRldPdFYwSGNSZXY2MEhmaXlxb1V5aEltam9QS281VFVfQ29raVVQclk5Mk9fbWxZa0dSc0p3a0pT?oc=5"
     },
     {
       "title": "美財政部「猛藥」救市引爆多頭行情！策略師：比特幣上看 18 萬美元 - 區塊客",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zTkdRdWtUbXFkSFpCQ0NtRTl3LXo0TUxGbFQ0RTZzcjRlblRZYVVFYXJWeVhsd1RocWRiaHRDNzlCbUtWenJ0cW1BSldqUEU?oc=5"
     },
     {
-      "title": "2026美期中選舉倒數：美股「選前弱、選後強」是真的嗎？該如何布局？｜美股觀察｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNRkpVOHZwZDJsQ2J3ZHFLUXNPT2ItNVVCWGNvNEhLQ3NxN2JuQ0VWWjFBejNrb1ZUV090ZHJ3MFRidzFTby13RVZCVkYzc2E0dHM1WTBmcTlBOUN0R3VfdE9MTGdRaGdUbm4xZHRiTkw1NTY3ODRlTWxDZkNNaU43OGY2aUtnYlNOUkdqQkRqdEFIZ0RodW8tQ05aMGFxampMMDhVd1ZqdDFRZkZHRVp3V3NUNDBvcjdmM2wxVHU1T1lHcjNyNlhPeDZzMkNnMVpZV3prejNqQXdiYTQ3TXhuRUl0ZDJySFRuc1AzUXhnM3lNUlh5RWY0c2FlM0p1NTJjSFVUd1JuNVRVdElGYnEtdFhNMnZIWTNGcTNSVzFrUGhuOTVmQkFQRnZmZXlhMUhtM05rY3A3QWxsSjFlQ0ZzWHVCZzQ3ejBaUkFxaUZFTUhuRnV5VXY4NGJhUGFVd09nZE5BbWVaeHFyajNsa2VhRGtZYnUzaERib1NmZEpmVUMzc0QxejU2YUFyLVNkbHh2U0E0S2lBRENVbDE4ckNCcU5TTEpTUW9fX3pITDFpaWhhZ2YxTDJORS1teDN1cjVBVXFEUjUwQnV5X0JpTXlwNDJ3TE5SaWl0MG5F?oc=5"
-    },
-    {
       "title": "日本黃金零售價續漲、近3個月高；ETF揚升- 新聞 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTlsUVV0blVsWjdBRWRmMTVHUWM2QkVZakpyb29kRzduUzFId3huOVhUaTBhUWpPSXU4eGg2cWttbGxVa3dIWUNwUVkzY3BSQWt2R0pFblJUa0ZIdWJTNXY5LU50bDBxZmlRbGNqY3pqRUVwMkFNSjVFYXF1YkdZVFQ3S2FiUEFGVlo5dXZaZG5zUQ?oc=5"
+    },
+    {
+      "title": "美股早盤／市場擺脫殖利率攀升陰霾 4大指數齊揚、台積電ADR漲1% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uN3dKc1l6X0NhcVJ0OEhxRldPdFYwSGNSZXY2MEhmaXlxb1V5aEltam9QS281VFVfQ29raVVQclk5Mk9fbWxZa0dSc0p3a0pT?oc=5"
     }
   ]
 }
