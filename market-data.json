@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/22 02:58",
+  "updated_tw": "08/22 03:30",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -35,63 +35,63 @@
   },
   "us": {
     "NVDA": {
-      "price": 215.235,
-      "change": -1.615,
-      "changePercent": -0.7448
+      "price": 214.95,
+      "change": -1.9,
+      "changePercent": -0.8762
     },
     "AAPL": {
-      "price": 308.555,
-      "change": -2.745,
-      "changePercent": -0.8818
+      "price": 309.94,
+      "change": -1.36,
+      "changePercent": -0.4369
     },
     "TSLA": {
-      "price": 364.76,
-      "change": 19.63,
-      "changePercent": 5.6877
+      "price": 364.105,
+      "change": 18.975,
+      "changePercent": 5.4979
     },
     "QQQ": {
-      "price": 713.52,
-      "change": 2.59,
-      "changePercent": 0.3643
+      "price": 713.69,
+      "change": 2.76,
+      "changePercent": 0.3882
     },
     "SPY": {
-      "price": 766.02,
-      "change": 3.42,
-      "changePercent": 0.4485
+      "price": 766.18,
+      "change": 3.58,
+      "changePercent": 0.4694
     },
     "SCHD": {
-      "price": 35.095,
-      "change": 0.265,
-      "changePercent": 0.7608
+      "price": 35.08,
+      "change": 0.25,
+      "changePercent": 0.7178
     },
     "VOO": {
-      "price": 704.13,
-      "change": 3.12,
-      "changePercent": 0.4451
+      "price": 704.29,
+      "change": 3.28,
+      "changePercent": 0.4679
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77018.85,
-      "change": 3986.0922,
-      "changePercent": 5.458
+      "price": 77294.25,
+      "change": 4261.4922,
+      "changePercent": 5.835
     },
     "ETH": {
-      "price": 2416.14,
-      "change": 89.7552,
-      "changePercent": 3.8581
+      "price": 2417.89,
+      "change": 91.5052,
+      "changePercent": 3.9334
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.812,
-      "change": -0.0031,
-      "changePercent": -0.0097
+      "price": 31.82,
+      "change": 0.0049,
+      "changePercent": 0.0154
     },
     "JPYTWD": {
-      "price": 0.1978,
-      "change": -0.0032,
-      "changePercent": -1.594
+      "price": 0.1979,
+      "change": -0.0031,
+      "changePercent": -1.5442
     },
     "EURTWD": {
       "price": 37.208,
@@ -99,17 +99,17 @@
       "changePercent": 0.1847
     },
     "CNYTWD": {
-      "price": 4.7368,
+      "price": 4.7376,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4682.4,
-    "twd": 4789.0,
-    "tael": 179590.0,
-    "twdTotal": 148957.0,
-    "changePercent": 3.6778
+    "usd": 4679.8,
+    "twd": 4788.0,
+    "tael": 179535.0,
+    "twdTotal": 148911.0,
+    "changePercent": 3.6202
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1bEVXOWxscXF0SDZuMHJYa0pSQmJ4RWliUmRPcmJwRlcyajVfSFJUTnZQYWg0dXNUU28wUUJUS3ZDZlRjbXJNYjRKRUstVHpxUnBGQUczd2JtNktHZXRn?oc=5"
     },
     {
-      "title": "2026美期中選舉倒數：美股「選前弱、選後強」是真的嗎？該如何布局？｜美股觀察｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNRkpVOHZwZDJsQ2J3ZHFLUXNPT2ItNVVCWGNvNEhLQ3NxN2JuQ0VWWjFBejNrb1ZUV090ZHJ3MFRidzFTby13RVZCVkYzc2E0dHM1WTBmcTlBOUN0R3VfdE9MTGdRaGdUbm4xZHRiTkw1NTY3ODRlTWxDZkNNaU43OGY2aUtnYlNOUkdqQkRqdEFIZ0RodW8tQ05aMGFxampMMDhVd1ZqdDFRZkZHRVp3V3NUNDBvcjdmM2wxVHU1T1lHcjNyNlhPeDZzMkNnMVpZV3prejNqQXdiYTQ3TXhuRUl0ZDJySFRuc1AzUXhnM3lNUlh5RWY0c2FlM0p1NTJjSFVUd1JuNVRVdElGYnEtdFhNMnZIWTNGcTNSVzFrUGhuOTVmQkFQRnZmZXlhMUhtM05rY3A3QWxsSjFlQ0ZzWHVCZzQ3ejBaUkFxaUZFTUhuRnV5VXY4NGJhUGFVd09nZE5BbWVaeHFyajNsa2VhRGtZYnUzaERib1NmZEpmVUMzc0QxejU2YUFyLVNkbHh2U0E0S2lBRENVbDE4ckNCcU5TTEpTUW9fX3pITDFpaWhhZ2YxTDJORS1teDN1cjVBVXFEUjUwQnV5X0JpTXlwNDJ3TE5SaWl0MG5F?oc=5"
+      "title": "政策利多比特幣衝破7.9萬美元- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LdEpjLVpHa1B4Si04QjQ1UFo3c1hsMzJCd2I2b2l3R05iTUdsc2NiZEFqUmVMRExza1psYlAwSlVFNXJVWkxNNk1mWXJjUjcwS0JZZDFLeUN2clVsMVJJ?oc=5"
     },
     {
-      "title": "7.6萬美元！比特幣周漲20% 漲勢三年來最猛 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fYmlrNzQxM1RFc1lxUjlYbW5hT2NJREtFSl9KRWNoS0ZKOXRFa2hGcGhKQjBPZEhMX3hTUTB5c2d0SXVxRWZENGFCT0Q0dUFBVHo1OVIzUmo0d9IBX0FVX3lxTFA4RU1GZ3VkQ1JrS2YyQzYzQ2FEM2diZ3VoNmRLVlNJTXF3bDNWMnc1TnE0UG15RHhGM3pCTzFRa010SGExLV94T3JHUDIyVEJNMlFDZ0pJYm0wUml3UU5n?oc=5"
+      "title": "2026美期中選舉倒數：美股「選前弱、選後強」是真的嗎？該如何布局？｜美股觀察｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNRkpVOHZwZDJsQ2J3ZHFLUXNPT2ItNVVCWGNvNEhLQ3NxN2JuQ0VWWjFBejNrb1ZUV090ZHJ3MFRidzFTby13RVZCVkYzc2E0dHM1WTBmcTlBOUN0R3VfdE9MTGdRaGdUbm4xZHRiTkw1NTY3ODRlTWxDZkNNaU43OGY2aUtnYlNOUkdqQkRqdEFIZ0RodW8tQ05aMGFxampMMDhVd1ZqdDFRZkZHRVp3V3NUNDBvcjdmM2wxVHU1T1lHcjNyNlhPeDZzMkNnMVpZV3prejNqQXdiYTQ3TXhuRUl0ZDJySFRuc1AzUXhnM3lNUlh5RWY0c2FlM0p1NTJjSFVUd1JuNVRVdElGYnEtdFhNMnZIWTNGcTNSVzFrUGhuOTVmQkFQRnZmZXlhMUhtM05rY3A3QWxsSjFlQ0ZzWHVCZzQ3ejBaUkFxaUZFTUhuRnV5VXY4NGJhUGFVd09nZE5BbWVaeHFyajNsa2VhRGtZYnUzaERib1NmZEpmVUMzc0QxejU2YUFyLVNkbHh2U0E0S2lBRENVbDE4ckNCcU5TTEpTUW9fX3pITDFpaWhhZ2YxTDJORS1teDN1cjVBVXFEUjUwQnV5X0JpTXlwNDJ3TE5SaWl0MG5F?oc=5"
     }
   ]
 }
