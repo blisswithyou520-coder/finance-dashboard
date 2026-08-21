@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/21 09:49",
+  "updated_tw": "08/21 11:01",
   "taiwan": {
     "2330": {
-      "price": 2385.0,
-      "change": 10.0,
-      "changePercent": 0.4211
+      "price": 2400.0,
+      "change": 25.0,
+      "changePercent": 1.0526
     },
     "2454": {
-      "price": 3795.0,
-      "change": 95.0,
-      "changePercent": 2.5676
+      "price": 3765.0,
+      "change": 65.0,
+      "changePercent": 1.7568
     },
     "2317": {
-      "price": 245.0,
-      "change": -1.5,
-      "changePercent": -0.6085
+      "price": 246.0,
+      "change": -0.5,
+      "changePercent": -0.2028
     },
     "0050": {
-      "price": 104.0,
-      "change": 0.9,
-      "changePercent": 0.8729
+      "price": 104.6,
+      "change": 1.5,
+      "changePercent": 1.4549
     },
     "00878": {
-      "price": 32.16,
-      "change": -0.14,
-      "changePercent": -0.4334
+      "price": 32.36,
+      "change": 0.06,
+      "changePercent": 0.1858
     },
     "00919": {
-      "price": 30.4,
-      "change": 0.01,
-      "changePercent": 0.0329
+      "price": 30.68,
+      "change": 0.29,
+      "changePercent": 0.9543
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75579.5,
-      "change": 6313.3125,
-      "changePercent": 9.1146
+      "price": 74388.03,
+      "change": 5121.8425,
+      "changePercent": 7.3944
     },
     "ETH": {
-      "price": 2375.29,
-      "change": 123.832,
-      "changePercent": 5.5001
+      "price": 2343.37,
+      "change": 91.912,
+      "changePercent": 4.0823
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.82,
-      "change": 0.0049,
-      "changePercent": 0.0154
+      "price": 31.878,
+      "change": 0.0629,
+      "changePercent": 0.1977
     },
     "JPYTWD": {
-      "price": 0.1979,
-      "change": -0.0031,
-      "changePercent": -1.5442
+      "price": 0.1982,
+      "change": -0.0028,
+      "changePercent": -1.395
     },
     "EURTWD": {
-      "price": 37.235,
-      "change": 0.0956,
-      "changePercent": 0.2574
+      "price": 37.305,
+      "change": 0.1656,
+      "changePercent": 0.4459
     },
     "CNYTWD": {
-      "price": 4.7396,
+      "price": 4.7464,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4584.4,
-    "twd": 4690.0,
-    "tael": 175875.0,
-    "twdTotal": 145876.0,
-    "changePercent": 2.1161
+    "usd": 4592.5,
+    "twd": 4707.0,
+    "tael": 176507.0,
+    "twdTotal": 146400.0,
+    "changePercent": 2.2965
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WcGwzZTFnaGdiSFd1MEJRM3laTThlWnlGYmo4MHdlZVpMTnZPOU5UbWc4NGVUMU5URWx2M3g4a2ZqdXpLTDkxWmo4WjNBakhj?oc=5"
     },
     {
+      "title": "人勒？ 台股下跌215點 估量僅6200億 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ1NPeFdDbUFacmxjeEVkS0FYYjBOU0FSa1hsTWdVQXBCQ2ZCNWlMMVhzaGY0VzA0YWJfNmZjZlZVY09ObGpLU21EbDJ3cGtuMVF6OE5HS2JoZFRPWXB0cjdZQlpLVG9UR0UxNHhCYjJ1QlpUYzY1cXF1REZhYWZVT0ZIQ2p3V3ZxRFk1UFduZ2ZJdVV6UTU0NWFreXdEMFlWajRIOFVjSG1UNnZDdVdJNjB1eWltZS1VUU1TQ2szZkRKWlJ1ZkEyS0hNZzJ5bWJwNmhfNjNJMWJrSFh3MW02SWtnQmFINXV5SkNZ?oc=5"
+    },
+    {
       "title": "專家：5個原因，美股可能大跌10% - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VME02RlJEZnBIeUx0a29GM0JNblVfV3o0UDNWOFZZdmxpUmJRMmhGbjM0WlVHZFdxWl9XNF9yUGptQkpxNjhmOTZRM2hNZw?oc=5"
     },
     {
-      "title": "全球債務增加 專家看好黃金的長期多頭環境-新聞內容-基金 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbVlWSERSZm9kdUU3TUVOa0FMai0wSHJsV29RNUVHMkJaR0dvX1RuSDAxNm1yZHkzNEt4RHEzdlJlYjRhaGVtM1hTOW9PUkw0WWJPZWhPRFMtTzBabGJDQlVLdWFOVXpWMldmM3lMdHIxeHBDTEFNeXN2QkxCX3dGb0lJSWNsUU1DRmE0V1BlUGo?oc=5"
-    },
-    {
-      "title": "美股盤後｜美伊局勢升溫、美債殖利率居高不下，三大指數盡墨 0821｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOQ1dORm05V1EtaFRWaWdNRThlX0pXZGRrd0tPTnZ5SlFud2dBLThMUHg4eER0bV93SlBHZzJYSUFja00teEp5MGozQWdZbHpUWHVhb19FQ2JzUFNKWUFHMXhLN1dDaE9MMlhlNmVsRGJaWGVFSWNjX21lam1fcFFwZUx3Z0Y3LWJuWUpJWlJaZjlVUjh0TmY5aTJtUXROdm8zX0JfUkRQUnhfM1YxSDROYjJ6ODcxYnU4b1RaaEdHbGJWcm9kd1lmaE1PUHVSNHdIR3VCRWRzMUpEN2ZaX2FsNDNMcml6STJ6cHpMbTM5YzNEYk1UOGR5SDQ5Y25LM1VNUVdZOFdIb1gtR05EWnp5bFB6bXA2QUw5NlowSWNsV1A0MVM2ZXF3aEpOTmU4emN3cFREQThBaFBuS3I3VzlidVEyZ1hxR0Rua0I1bHBWclFidEFKX0pENjJVWnJUeGM3VUJsTWRFRVpyQWxKcFN6azdzVHB5ZDM4WGd5eXVFUndpMlZYZ21xVXkzNmx2eThmbF90OUZic3A5c0c3MWNaQ2REQUFSQnRycGZGa0NKMkpFN0RlLXhYczkyYw?oc=5"
-    },
-    {
-      "title": "台股早盤下殺349點！台積電開平走高 千金股竑騰火速亮燈、「9檔飆股」逆風上攻 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxQQ25tbkVrVXZtbkhURmY3MGtOU3pQM1E5QkRteXhabnUyZTBrNW9BZXJUSjVId21qdDFPS09EY19ESTMxd0VBUnA1N3Yyb2JvcnFuT1NoVXBIRF9IY2d4LUJwaGlTeU1uRG91a3RLd1NFS1hzbHZvaWhaN1lGVEpDS0d6aUZtalVEMkxOYnR1OE91Vm96SUR5TXN2YWFMOFZ3WXZESWJpeHJiMVYwV1I3LS1hZ0d4R3dRT0VvVll2djQ4U19jLU9VTjdzdWVjZ284V3Q1OWZvV0dwWXFnQzBORUZZRVZkS3cyYzJsUEVWOTNCaDMwa2pPTmprSXlIQlktb19jOFBHWkZGOHBobHYzR2xQX2Q4bnRYNEl4Q0h4emRDbERPajR4VzRTR3YxdU8yN3psSVVFa3JnbEZIcXhRYUR0THFGLW44SkEyMURmaXJJbWs4TzFhSEh2djVzSGt2aE9Hazc0dnBlS2J4dTJJZ1RIRUZnamNJZmc5WWlyYjBTRXloZ1FDaktQMk5HTjlLcjNTVGV0MmV4bkhWRllnbmlQUzlFRF9yMkRRZ3VOaFdtRnZRc0tISW9FMVJMSk5lWElFbVJ1OFVRbEVyVUE?oc=5"
-    },
-    {
       "title": "台積電ADR漲近1% 投顧：台股反彈量縮估震盪整理| 證券 - cna.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bU16aXRGbHVyc1F0X1BDdFBBV3B1UjZ6QlBrdzJxRW9RdmZYdzNVenVOaTJITkFRU2ZCdHNUd3dEQkh6ZEk2QnM3c09uUzFCWVZWQlFxZnJ3UFAyekE?oc=5"
+    },
+    {
+      "title": "《貴金屬》COMEX黃金上漲0.6% ETF持倉增加- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYjdUZkpTTzJkb1RmTDlYUmFrVGFMZkJTSjY3RTZvM1ZyYnNNMVNYaGxTNW5MVndIRkxUM3ZkS2dwYWRwaDRIakdBWUhsYzlhTTNmam82NXhXLWdESlJ4VElUempYZ3JfcHp0b0VhdWdVQWxlLXY1T2hzd1oxNVdLblBRanRnLXZ0djEyWE1MS0pOdw?oc=5"
+    },
+    {
+      "title": "00909 國泰數位支付服務- 比特幣價格飆升11.50%重新突破200日均線- 股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKazRxU1NRN0dibVlsa2pkejRRYUctbWRuTWc2MmcwOFhEZjBnYVlWZm5tV1NSVXZNcHdPWUZLTDVlVG1GYVI0U1hLaUE5Rkk4bW0yVU1HQTg?oc=5"
     }
   ]
 }
