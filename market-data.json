@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/21 14:03",
+  "updated_tw": "08/21 15:06",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75390.73,
-      "change": 6124.5425,
-      "changePercent": 8.842
+      "price": 75682.21,
+      "change": 2649.4522,
+      "changePercent": 3.6278
     },
     "ETH": {
-      "price": 2370.83,
-      "change": 119.372,
-      "changePercent": 5.302
+      "price": 2372.16,
+      "change": 45.7752,
+      "changePercent": 1.9677
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.855,
-      "change": 0.0399,
-      "changePercent": 0.1254
+      "price": 31.824,
+      "change": 0.0089,
+      "changePercent": 0.028
     },
     "JPYTWD": {
       "price": 0.1983,
@@ -94,22 +94,22 @@
       "changePercent": -1.3452
     },
     "EURTWD": {
-      "price": 37.288,
-      "change": 0.1486,
-      "changePercent": 0.4001
+      "price": 37.3,
+      "change": 0.1606,
+      "changePercent": 0.4324
     },
     "CNYTWD": {
-      "price": 4.7434,
+      "price": 4.745,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4604.6,
-    "twd": 4716.0,
-    "tael": 176845.0,
-    "twdTotal": 146680.0,
-    "changePercent": 1.9551
+    "usd": 4623.6,
+    "twd": 4731.0,
+    "tael": 177402.0,
+    "twdTotal": 147141.0,
+    "changePercent": 2.3758
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CV2hWdUhHZ01Nb21HM19XeFoxNE5UaWh5Sk9qdjRCNHd3ZjlycmRSb3lOZWpmTENXRmt0bGlsRG1mVkltc3pTVGV6R0xLMW5sSFhLc21JLVhzVHJfbzRZ?oc=5"
     },
     {
-      "title": "比特幣突破 7.5 萬美元！分析師警告：這波漲勢「來得太早」 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcS1mMUd1REFIVEJlUmRiSjlEZnR6V3J4WnRPeS1QZzFkYktTQzYzYWtlWFYyaWplcFhKSkd1MlBDbmhLQkI1MXNwTy0tdmphR3EyQUl6VlRlVFFwNFdiRFppb2s4RGx5ZHJONlVvWUpubnpBMjVRVE54cUhFQXlIZ19lcXg?oc=5"
-    },
-    {
-      "title": "【0820台股盤後】台股近期低量打底，反彈 214 點收44,933 點，台股夜盤下跌99點！外資翻多買超37 億，記憶體類股【2344 華邦電】【2337 旺宏】【2408 南亞科】強勢｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi7AVBVV95cUxOdFVuWDdUVG1NNEVnTm9NUFRFV0pMY3VYOWtwRXlqbHljNWJNdVRjelFmaHp5eFp1UzV1ZEQycTJyZFcyTWpIRzA0TlJ3TlRiQTl6OGg3elB6blZtTjZ5SGpZZmVKejRScFM0T3VMWG1Mb2dLNTgxX2FzdTlhY3RMWjFsZE9RdUxZWVBYUE1iaHI1S19EMlhENVZXc19PMFAwTXowUk1tSDI0LWM3bWdsXzdDc1lVWWpoU0t1TEdvbDRsM0RMRzE1cG5wMWw0aGtpd2Vva1RlMnB6LS1BS1c0MmZUVUk3MmloakFvaGFlRm5Bc3lQcHR2U3RUbFhucWhPWG5QU2xlcXV1NGQtMWd1c1M2Ung0R2dqeDNrN0hMY2N5TnV3ZEtybEJvT3VhU3RHRzdQWmtycThvcVZ4WW9pWjUxeEs3Q2F4eGt2dmRxbmFFT0h2cUFJVHg2QmdrZ2JsLV9aS1FBaTBfcHpwZG9xb1FCMks0eEt6b2NIN0xWQkRRR0REY2s1QkxycGxkWGJ0aGNmTVM1TE10VkVQRmh2RGd1VmFNUkVkSTdBeHpiZHpuejBZaURSaUJUR2stTlpwVHEwOG14enRRSWZnTjUtOVJSUmx6NTFGdC1ObFR1VTVBaUdzZWdKdE5Ja2ZHZzNHSU1PSDN2dEM0WFdvOHdtUXhIYjh5T1FNaW5wbVNucjhwLTBDMUVNWW1pUHpOU2NpckRZajhxMEROQVBXOG9qR1ZjXzhfeU9tUWJUOTFYSEo0YVZjQm9ZTzFuRS1SVHl5dVpEZGxabzdUUWhZYVc1Y0hfX1FTX0U5c0ZJbzdUN1BfR3lkSlFldWFHTzBKS0lkclI5M1BETFdzU21ONl9XWDdUajdORlAtOXNGTE5LSFFzSEJScUJnMnV2T2xCU1cwZDZoemhPb3dHdmJmUEpldHZXc2YxX1NBZEI3WDFfQ0lnT3VOVXNpRjdOejU0VElFTF9UenJGby1CX0ho?oc=5"
-    },
-    {
       "title": "美股早盤／財部擴大購債效應僅一天公債殖利率轉升、三大指數全倒| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WcGwzZTFnaGdiSFd1MEJRM3laTThlWnlGYmo4MHdlZVpMTnZPOU5UbWc4NGVUMU5URWx2M3g4a2ZqdXpLTDkxWmo4WjNBakhj?oc=5"
     },
     {
-      "title": "【Hot台股】欣興盤中跌停「點燈」！網哀「1200套幾世」 分析師：該停損還是要停損 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQNGVZb0tPQ0k2M0czWEV0MEUtNEJORVBObzVXV1d6aktkdks4MUx4cFRVeC1CTk1tTHc3bkYtTUV1a1c0MmJ1WW1rQ0pOZmtqM0M3VE55VEUzUjBmcVlwRUxOM3lpNlNHc0NBSTJGMFQtajVuUjF3ZmJBeUlsb3c2WnV1UjgzOGVDdTJTbGtVSUd3MkJnZ0NKaU9fTVdnQjhFd2NDUVNzZGFJMktHbl90dC1YbmkzNzJZTDBfaWlpQ2VKN3BNV0hJS1NQZ3pfOHVoY0FzR2dPM0JTWWRFbm8yU2lVQXJpYzlTaWRoNTFDMmxERGdoREFFMlZKRldJeW9qV0tYZWJLTXRfX0Y3UURZelRQOUZzQVJSLVdtM2dhanBxVDZ1Z1VVbDJiQmY3UGhXRXBsVndsOVFqb3hQaXRqTUJqSkQyRnc5MDZDaUlFOW1uVU5weGVFOFNfcEVOSWtocTZlSTJRTXB1QW83VXBxeHVGV296WmVvUVc2N1ctRERfMFZKYWU4dmU3V08yLXNCRld4bWE2Yi10NTZhTVctaVlHcEtLTkRUdFlYMjVzb2UyUjZweE5Gd3oyS0RjdUxZeFBXN1ZDN29DWmhIY0E4Q2FicDI2N3ZsS281dDdYUi16NzZmNExndG1seExqbkRxckFGeGtiTEp3SWJ2MWc?oc=5"
+      "title": "聯準會暗示持續升息 美股逆勢連三漲但全球衰退隱憂仍在 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPU0xYVmpQSTRKVGFVTlJxSkYtV1d2bzVwbDZBVVBTUV9ocUtNZF9rS29UNDl6Y0xXR1ZsSlYwc21YRC15UXRpNThkVkt0MldYT1lqckYxODY1SVJoZVZXaUhnUHdPRnpRclpzRmJ2dGZxa21aSzN4eFZ1TlNJSU5SMUsyaGFUQVN1X19CTUFsTUR2QUxhYVdGRlF1VURicV9KVk9UV1FNTXF2X3RDMy1CR1ZJaXlNQXA5VGcyTF9aLWh4NGN4UVlSWE5wT0JlNXVhZmhjM2kxVzVHWWlVRXhBVktteGE3MVN5aHdneWp0eEFvRDN5eWhPbVFQMmVXeU1mSy12azdvaEY2bnFQc1oxMlRQRUtDVzVjQ1NrU3ZZcVdadVdSZ1dRTDZzRHhQdS1kSkJrTVRucXdJYjlmQmxUNnNPdHFGUnJobDUyUjZrZjctaWpBZzZGN3JrZHg2ZXdJX0tJYlRaT25xOEVjckhDU3VXRE05QmtfWm5Ta2pSZTN4dmhES2JLdw?oc=5"
+    },
+    {
+      "title": "比特幣突破 7.5 萬美元！分析師警告：這波漲勢「來得太早」 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcS1mMUd1REFIVEJlUmRiSjlEZnR6V3J4WnRPeS1QZzFkYktTQzYzYWtlWFYyaWplcFhKSkd1MlBDbmhLQkI1MXNwTy0tdmphR3EyQUl6VlRlVFFwNFdiRFppb2s4RGx5ZHJONlVvWUpubnpBMjVRVE54cUhFQXlIZ19lcXg?oc=5"
     },
     {
       "title": "日本黃金零售價續漲、近3個月高；ETF揚升- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzRteE9zTktWYkFmc0dzTFVteHVqSFRhMXphRGJkckJsUkxsM3hJZWhfUlUxWXljUjlnQnIzMmloNWhWX0d4TC1sQU1LVW5OUGFnRk96YTgwX295cUFpU1dqQ3NzSkhnZWw0QUxPZTNwaWt6cE1QZGRGZWpnQkFLbXZkTmF6LW8?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTlsUVV0blVsWjdBRWRmMTVHUWM2QkVZakpyb29kRzduUzFId3huOVhUaTBhUWpPSXU4eGg2cWttbGxVa3dIWUNwUVkzY3BSQWt2R0pFblJUa0ZIdWJTNXY5LU50bDBxZmlRbGNqY3pqRUVwMkFNSjVFYXF1YkdZVFQ3S2FiUEFGVlo5dXZaZG5zUQ?oc=5"
+    },
+    {
+      "title": "台股早盤下跌逾300點後翻紅 台積電漲15元 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0Y0JSY0tzcnFFVlpEZ2poYjhlaUhFVlVQazhicFZ2QU9xZVYtWEJPeVlEcWhlQVNJa1dZZTdwVHhobFBNRXJwLVQtNkZoTkZUbk02cUY5dmE4MEliTFE?oc=5"
     }
   ]
 }
