@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/21 15:56",
+  "updated_tw": "08/21 16:44",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76397.92,
-      "change": 3365.1622,
-      "changePercent": 4.6077
+      "price": 77680.87,
+      "change": 4648.1122,
+      "changePercent": 6.3644
     },
     "ETH": {
-      "price": 2371.16,
-      "change": 44.7752,
-      "changePercent": 1.9247
+      "price": 2412.01,
+      "change": 85.6252,
+      "changePercent": 3.6806
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.806,
-      "change": -0.0091,
-      "changePercent": -0.0286
+      "price": 31.783,
+      "change": -0.0321,
+      "changePercent": -0.1009
     },
     "JPYTWD": {
-      "price": 0.1982,
-      "change": -0.0028,
-      "changePercent": -1.395
+      "price": 0.1983,
+      "change": -0.0027,
+      "changePercent": -1.3452
     },
     "EURTWD": {
-      "price": 37.246,
-      "change": 0.1066,
-      "changePercent": 0.287
+      "price": 37.245,
+      "change": 0.1056,
+      "changePercent": 0.2843
     },
     "CNYTWD": {
-      "price": 4.7428,
+      "price": 4.7388,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4620.7,
-    "twd": 4725.0,
-    "tael": 177190.0,
-    "twdTotal": 146966.0,
-    "changePercent": 2.3116
+    "usd": 4637.3,
+    "twd": 4739.0,
+    "tael": 177698.0,
+    "twdTotal": 147387.0,
+    "changePercent": 2.6792
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTlsUVV0blVsWjdBRWRmMTVHUWM2QkVZakpyb29kRzduUzFId3huOVhUaTBhUWpPSXU4eGg2cWttbGxVa3dIWUNwUVkzY3BSQWt2R0pFblJUa0ZIdWJTNXY5LU50bDBxZmlRbGNqY3pqRUVwMkFNSjVFYXF1YkdZVFQ3S2FiUEFGVlo5dXZaZG5zUQ?oc=5"
     },
     {
-      "title": "台股早盤下跌逾300點後翻紅 台積電漲15元 - cna.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0Y0JSY0tzcnFFVlpEZ2poYjhlaUhFVlVQazhicFZ2QU9xZVYtWEJPeVlEcWhlQVNJa1dZZTdwVHhobFBNRXJwLVQtNkZoTkZUbk02cUY5dmE4MEliTFE?oc=5"
-    },
-    {
-      "title": "台股還要冷多久？法人：五變數干擾、多頭「這時間」重啟攻勢 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yeFFfOTI4UUZMUmNZMEhUUGpsTnZhbjZBWGNCa2Z6czJaTHprNWpaSE5PUDRWb05hNjNtRmsyMDBMdE1FUVNMdklhQlltR1Ra0gFWQVVfeXFMUHdzVGtJRzJOSHk0S2xSbEZKeUtlT3RtUFB4cGh1a01wT05JLUZVdFdWaERreGp3T3N1ejB3TkQ3aHJGN1RRUldSeW82eDRVN1ZJa3N1dGc?oc=5"
+      "title": "台股還要冷多久？法人：五變數干擾、多頭「這時間」重啟攻勢 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IUjJKNUJIWXZXMnZIOWZxRzRRQzRQUVl0SXUwUndJcHc1MWxGRnMzOWRDUXEtN2ZPNlZaeTFocS11a1Q3dUc1VkZkaFpwYk9KVHJFcm9mVTNXZ9IBX0FVX3lxTE8zR2djY0xPZ2xFRUlEOVFrY3FRX2t1cElNaGhic0dvdGtOUmZqTEM0cWYxRXI3dHdiTmV5ck9rWExDb2YyZXdFd3BPRUo4R1JoQ2xJMTVfWDJXYUtYWER3?oc=5"
     },
     {
       "title": "比特幣突破 7.5 萬美元！分析師警告：這波漲勢「來得太早」 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcS1mMUd1REFIVEJlUmRiSjlEZnR6V3J4WnRPeS1QZzFkYktTQzYzYWtlWFYyaWplcFhKSkd1MlBDbmhLQkI1MXNwTy0tdmphR3EyQUl6VlRlVFFwNFdiRFppb2s4RGx5ZHJONlVvWUpubnpBMjVRVE54cUhFQXlIZ19lcXg?oc=5"
+    },
+    {
+      "title": "美股盤後｜美伊局勢升溫、美債殖利率居高不下，三大指數盡墨 0821｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOQ1dORm05V1EtaFRWaWdNRThlX0pXZGRrd0tPTnZ5SlFud2dBLThMUHg4eER0bV93SlBHZzJYSUFja00teEp5MGozQWdZbHpUWHVhb19FQ2JzUFNKWUFHMXhLN1dDaE9MMlhlNmVsRGJaWGVFSWNjX21lam1fcFFwZUx3Z0Y3LWJuWUpJWlJaZjlVUjh0TmY5aTJtUXROdm8zX0JfUkRQUnhfM1YxSDROYjJ6ODcxYnU4b1RaaEdHbGJWcm9kd1lmaE1PUHVSNHdIR3VCRWRzMUpEN2ZaX2FsNDNMcml6STJ6cHpMbTM5YzNEYk1UOGR5SDQ5Y25LM1VNUVdZOFdIb1gtR05EWnp5bFB6bXA2QUw5NlowSWNsV1A0MVM2ZXF3aEpOTmU4emN3cFREQThBaFBuS3I3VzlidVEyZ1hxR0Rua0I1bHBWclFidEFKX0pENjJVWnJUeGM3VUJsTWRFRVpyQWxKcFN6azdzVHB5ZDM4WGd5eXVFUndpMlZYZ21xVXkzNmx2eThmbF90OUZic3A5c0c3MWNaQ2REQUFSQnRycGZGa0NKMkpFN0RlLXhYczkyYw?oc=5"
     }
   ]
 }
