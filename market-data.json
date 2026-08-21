@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/21 20:02",
+  "updated_tw": "08/21 21:10",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76657.43,
-      "change": 3624.6722,
-      "changePercent": 4.9631
+      "price": 77213.03,
+      "change": 4180.2722,
+      "changePercent": 5.7238
     },
     "ETH": {
-      "price": 2368.99,
-      "change": 42.6052,
-      "changePercent": 1.8314
+      "price": 2389.66,
+      "change": 63.2752,
+      "changePercent": 2.7199
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.8,
-      "change": -0.0151,
-      "changePercent": -0.0475
+      "price": 31.799,
+      "change": -0.0161,
+      "changePercent": -0.0506
     },
     "JPYTWD": {
-      "price": 0.1982,
-      "change": -0.0028,
-      "changePercent": -1.395
+      "price": 0.1981,
+      "change": -0.0029,
+      "changePercent": -1.4447
     },
     "EURTWD": {
-      "price": 37.253,
-      "change": 0.1136,
-      "changePercent": 0.3059
+      "price": 37.222,
+      "change": 0.0826,
+      "changePercent": 0.2224
     },
     "CNYTWD": {
-      "price": 4.7364,
+      "price": 4.7381,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4656.6,
-    "twd": 4761.0,
-    "tael": 178533.0,
-    "twdTotal": 148080.0,
-    "changePercent": 3.1065
+    "usd": 4633.9,
+    "twd": 4738.0,
+    "tael": 177657.0,
+    "twdTotal": 147353.0,
+    "changePercent": 2.6039
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,16 +121,16 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BeDJwTnlmOU02QVhKZlB5Zk9VQ1gwc2RuMlJKYkR2S1BIOHU2VTRTTEE4M2x3ZnVPS1F3VVg0Z2xsTkFpb0pVR1VkRQ?oc=5"
     },
     {
+      "title": "創5月以來新高！市場看好美國加密貨幣立法 比特幣連3天漲逾5% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RamZ1c0RoT29KTzVkd3NoTEl2Z2lWRno2RUdiOGxncDZrYkJSdjFaaWktY2N3OVFMTG5YUklmWm52UjRSZ0tIZnhzamRBNThu?oc=5"
+    },
+    {
       "title": "黃金高檔震盪！最快「這時」衝破5000美元 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1bEVXOWxscXF0SDZuMHJYa0pSQmJ4RWliUmRPcmJwRlcyajVfSFJUTnZQYWg0dXNUU28wUUJUS3ZDZlRjbXJNYjRKRUstVHpxUnBGQUczd2JtNktHZXRn?oc=5"
     },
     {
       "title": "黃金有望連續第三週收漲！債務壓力成爲金價上漲的新燃料 - capitalfutures.com.tw",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNGtsYUdGWmRQVjRTQ1FXVGtBZVVfV2hmNEdWMzhUTHJrQUZDdWp4djUwbm91Mk5OckJQMFN2Sk03Zm9yd0pmXzBhTDc1My1yLXlieE9XclZqU05OcmRGSm1yY2RDMU9EYXZSWU9VRjUzb21VSXNtNlo2NExnM0puU1poSWRGWW0waG01Yi1GRQ?oc=5"
-    },
-    {
-      "title": "創5月以來新高！市場看好美國加密貨幣立法 比特幣連3天漲逾5% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RamZ1c0RoT29KTzVkd3NoTEl2Z2lWRno2RUdiOGxncDZrYkJSdjFaaWktY2N3OVFMTG5YUklmWm52UjRSZ0tIZnhzamRBNThu?oc=5"
     },
     {
       "title": "台股量縮漲290點搶回4萬5！聯發科回神反彈揪航海王炸場「韓版0050」一出道就爆紅｜Yahoo財經掃描 - Yahoo股市",
