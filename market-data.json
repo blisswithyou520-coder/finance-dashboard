@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/22 06:50",
+  "updated_tw": "08/22 07:22",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,26 +72,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78273.09,
-      "change": 5240.3322,
-      "changePercent": 7.1753
+      "price": 78688.19,
+      "change": 5655.4322,
+      "changePercent": 7.7437
     },
     "ETH": {
-      "price": 2517.75,
-      "change": 191.3652,
-      "changePercent": 8.2259
+      "price": 2543.97,
+      "change": 217.5852,
+      "changePercent": 9.3529
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.823,
-      "change": -0.0153,
-      "changePercent": -0.0481
+      "price": 31.82,
+      "change": -0.0183,
+      "changePercent": -0.0575
     },
     "JPYTWD": {
-      "price": 0.1981,
-      "change": -0.0022,
-      "changePercent": -1.1206
+      "price": 0.1977,
+      "change": -0.0026,
+      "changePercent": -1.3202
     },
     "EURTWD": {
       "price": 37.214,
@@ -107,8 +107,8 @@
   "gold": {
     "usd": 4661.6,
     "twd": 4769.0,
-    "tael": 178854.0,
-    "twdTotal": 148346.0,
+    "tael": 178837.0,
+    "twdTotal": 148332.0,
     "changePercent": 3.2172
   },
   "fed": {
@@ -116,6 +116,10 @@
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "美股收盤》道瓊強彈517點！台積電ADR漲0.71％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZmdWeGNlM2hYMDFqRHBxOXJ2N2dJM3FUb2pPYV9CT0g2azAtOFVPZFJnQUlBc1h4MW1YdGswdWhWMUNSYU9Bc2xxUkhhZWFjMS1vVWN0YmR0dzZUUVZR?oc=5"
+    },
     {
       "title": "美股又殺費半！台積電ADR小漲、台指期夜盤45K保衛戰 比特幣暴力拉升衝77000美元 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQU0NxcFQ0Uk1VRlFjZ1lIbXZBcG82TFVkR1lXUDFNZGh1ZzlNckdjRGU2NWVKY3pQUXRjZldNanMxbGFKbGEyTGlXRGdvM3lBcURqUFh4cUZaZXY3dTAyMV9OTEtSMEpaZDEycU1ZVnk2QWdTSXFITXNadkdrQmhYbVpfQ2ZkZEZTX1M3Rk5Hc1BiUGJGT05oa3JoMnl5UDFrVERHUm5sOG5KdG5Vc0xmMnJXVjdhTFFaZDF3OU9Uc2ljN1hfcWFPbVMtbUVTdEdGUHZqVUt1SnNsZlB3bDRKV2I1SWZrVVQ5dGZqRjFidC1WZm9NSF9iTnpIRlhUWHlMdjJQWEVfZ3Z5ZXhvV0NOU1JDWXFHdm0zWXNrdWhsempuQnJnMzB3RzZuQ05acVlUSXdpajF1dElKYlhOSWVLQXZxZ0VUQWtsc21lUlFMUUJUdHVSbGkyNW9FLXNtNi0zb3NGMnJJUTRvLV9sbnkzb3g3YVBCMEQydzBlNl8xLW94aFlkZEVoYVQxalpvZjU2bDk4RjNVOGNmZEtETVhnZTFkTjkwWmlOanhId3dKTDdnU0JuRk9kalcwejNpTGZDSnhBQloyczV4QQ?oc=5"
@@ -141,12 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yal9pYjNobS1zZ1hTaTMwSHB4YUVpcWZ6bTdmOHRpWjZBSkNSZGxQQ1JCZVB1aDBvT19MUjhWQm96ZnZFcERqSmhScUZDUHZVTlN5TjJibFVUdUUy0gFiQVVfeXFMTV9fRkVFTXVSQmN6X09wZXR1eWhySVdTeFJTTkE2NDdFSHl5QV9JM05JWEZhME0yM2xmZHhCd2t5WC12YU9LZmxFeXUwLWJZTG5ONG9lQmVYb1FhdmNseWRPRnc?oc=5"
     },
     {
-      "title": "〈美股盤後〉美股止血反彈！道瓊漲逾500點 但高殖利率陰霾揮之不去 三大指數周線全黑 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPcndSQ09qWlNPRV9KTFpZN1EwaWxNTkFsZDRpZDlxY0llckFMMlRUdGlKMi14Q2ktOGVjTUU4RjdZM1luS1VXNjE5Y0ZlNXlfcEtmS3V3Y21tTXJZaGxHQlVQNkxrb05zU2p4bEtleXJXc2Vob244RGs2Z0t3bkhfWHhZU1dxTUJzME13Z3hTRmpjYlJXOHhmajNIMldONG5Zbk92YTdyNl92dUFnS3Q5RndmUTNNYjVlWDQzdVhXOGxSbUJkTU1sVGFwMjEyY1dtay0yM2lBc1M0d3JVLXNGMm4tbFpJODF0d3R6NV9jMUl1ZEhMbDVkdUVuT1o4RjJTbFpPNXRKR3Q0b1dWVVk2NXotQnBwZno2WGJYQ0ljMWRuNVlNWFZjaTBUc3RCdG51SUhEY2JBRkkyUEtIeDc5SmZqYWtQZ2ZDZEZUOFlSd0tzLUhTUXF5UGdEbzk3SkU3clhXNEU1REowUGc3RzZIa3ZPVXVFTnpLc1V0MjhFZnBSbGlQRnVhOGY1clRILXJuTEVqZmVnUXFqcV9wWUE0ZDlZaDZBb0VKUlZkWFFmX29ZZzd1cGtfYlNuUzV0Z3RjWTltdzdpd0RHOVZvVW5FUXkyRnJxMk9NcEZpbFRMY2VOaUd4NmpnczRySk5WMGdjODZwVzdWWFhnVFdo?oc=5"
-    },
-    {
-      "title": "黃金有望連續第三週收漲！債務壓力成爲金價上漲的新燃料 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNGtsYUdGWmRQVjRTQ1FXVGtBZVVfV2hmNEdWMzhUTHJrQUZDdWp4djUwbm91Mk5OckJQMFN2Sk03Zm9yd0pmXzBhTDc1My1yLXlieE9XclZqU05OcmRGSm1yY2RDMU9EYXZSWU9VRjUzb21VSXNtNlo2NExnM0puU1poSWRGWW0waG01Yi1GRQ?oc=5"
+      "title": "經濟數據報喜！美股3大指數齊揚 道瓊大漲517點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPdS1vQlZ5OUxwQzNQQzBleVQ1WGRzN0Nlc0hhOUhjQzdGcmpCYmhqRXB1WGNOU1JNdkZ6dGFrQjdiR3Z4WURSQ1N6QkRWaF9KaFR4cTVHRU44X05MNTgtcGJPd215d3dvZ3kxWmJwMVIxT2Z0TzJpM1lXWkVhenYyUUtrRnVtRWk5bm9qUFZYYldyTUhCSjE3TTJXV1EtaVdNQmVMTXVuUHNUd1hYR3hUTk52R0xULWdicDRjVTU5WW5Vd21DU09jazdId1FZemVQOHZZV3J3VTJvVXk0UzJleFhRdHdvRFg5UGhmUGtJb08yQnZ2Sm9xMEdLTUU3WUdhcG1USUx5ekNkcDZTdWdFTG1PdEdwWUlzU0ZUeXN3enV3Znc5emIzR2dMaFhubkxQQ1BFcWtvMmFLWDg?oc=5"
     }
   ]
 }
