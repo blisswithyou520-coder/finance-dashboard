@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/21 12:00",
+  "updated_tw": "08/21 12:53",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -8,29 +8,29 @@
       "changePercent": 1.0526
     },
     "2454": {
-      "price": 3770.0,
-      "change": 70.0,
-      "changePercent": 1.8919
+      "price": 3760.0,
+      "change": 60.0,
+      "changePercent": 1.6216
     },
     "2317": {
-      "price": 246.0,
-      "change": -0.5,
-      "changePercent": -0.2028
+      "price": 245.5,
+      "change": -1.0,
+      "changePercent": -0.4057
     },
     "0050": {
-      "price": 104.55,
-      "change": 1.45,
-      "changePercent": 1.4064
+      "price": 104.5,
+      "change": 1.4,
+      "changePercent": 1.3579
     },
     "00878": {
-      "price": 32.35,
-      "change": 0.05,
-      "changePercent": 0.1548
+      "price": 32.33,
+      "change": 0.03,
+      "changePercent": 0.0929
     },
     "00919": {
-      "price": 30.76,
-      "change": 0.37,
-      "changePercent": 1.2175
+      "price": 30.75,
+      "change": 0.36,
+      "changePercent": 1.1846
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 74564.4,
-      "change": 5298.2125,
-      "changePercent": 7.6491
+      "price": 74929.52,
+      "change": 5663.3325,
+      "changePercent": 8.1762
     },
     "ETH": {
-      "price": 2342.67,
-      "change": 91.212,
-      "changePercent": 4.0512
+      "price": 2353.24,
+      "change": 101.782,
+      "changePercent": 4.5207
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.846,
-      "change": 0.0309,
-      "changePercent": 0.0971
+      "price": 31.843,
+      "change": 0.0279,
+      "changePercent": 0.0877
     },
     "JPYTWD": {
-      "price": 0.1981,
-      "change": -0.0029,
-      "changePercent": -1.4447
+      "price": 0.198,
+      "change": -0.003,
+      "changePercent": -1.4945
     },
     "EURTWD": {
-      "price": 37.288,
-      "change": 0.1486,
-      "changePercent": 0.4001
+      "price": 37.276,
+      "change": 0.1366,
+      "changePercent": 0.3678
     },
     "CNYTWD": {
-      "price": 4.7451,
+      "price": 4.7446,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4588.0,
-    "twd": 4698.0,
-    "tael": 176157.0,
-    "twdTotal": 146109.0,
-    "changePercent": 5.0847
+    "usd": 4598.7,
+    "twd": 4708.0,
+    "tael": 176551.0,
+    "twdTotal": 146436.0,
+    "changePercent": 1.8245
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CV2hWdUhHZ01Nb21HM19XeFoxNE5UaWh5Sk9qdjRCNHd3ZjlycmRSb3lOZWpmTENXRmt0bGlsRG1mVkltc3pTVGV6R0xLMW5sSFhLc21JLVhzVHJfbzRZ?oc=5"
     },
     {
-      "title": "美股早盤／財部擴大購債效應僅一天公債殖利率轉升、三大指數全倒| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WcGwzZTFnaGdiSFd1MEJRM3laTThlWnlGYmo4MHdlZVpMTnZPOU5UbWc4NGVUMU5URWx2M3g4a2ZqdXpLTDkxWmo4WjNBakhj?oc=5"
+      "title": "比特幣繼續突破7.5萬美元 專家揭暴漲20%背後「真正主因」 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1odDJZcGJob3haMW5OQUdMWU5hNENQUmcwMlk2MlR3ZFBjaFNSNk5wUWlUcjcycEl4dXNvaTBadlJpVlRYVnBIdmFkVm5aWjEz?oc=5"
     },
     {
-      "title": "台股5萬不是終點！杜金龍改口：還有末升段 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQOEpWUzlZZDhRcEwxaFJkRHVhbDVHUndta0c0U01iQVhaOUZGMk5vVXZnTWlWM3NleWl1YnFObm9oWGRwS245LUMtMjJ3ejVzZm40RjFLdm1JNmY3eFdHbmhVdjdxX2FQeUhWdHB2NFFtajd3Wm5Nc3I2dHB4b1Rmai1mVklJRXpXcWtocTRBazBVQ2I2eGdEZmV6eW9kNWRKUDhBaE85MnhtNGRReHVDaU9pdkJnZ1JpV3puLVkzS09heUEyNlZrWWhzWmwwSHlPRTdJTkF3MTZkMEpjeXlHYkdQQ0IwY3Yza3BPQ1FRWkRWd052cjExNG9QSHZSUTRrUU5Bb3ktdjhZOXIxTHZuZHJjelNMNy02UnJqeHkwblBzdjMzMEhUV1paQWdrNXR2LXJnaFRRTHZJZU9YV2pqaA?oc=5"
-    },
-    {
-      "title": "專家：5個原因，美股可能大跌10% - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VME02RlJEZnBIeUx0a29GM0JNblVfV3o0UDNWOFZZdmxpUmJRMmhGbjM0WlVHZFdxWl9XNF9yUGptQkpxNjhmOTZRM2hNZw?oc=5"
-    },
-    {
-      "title": "比特幣突破 7.5 萬美元！分析師警告：這波漲勢「來得太早」 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcS1mMUd1REFIVEJlUmRiSjlEZnR6V3J4WnRPeS1QZzFkYktTQzYzYWtlWFYyaWplcFhKSkd1MlBDbmhLQkI1MXNwTy0tdmphR3EyQUl6VlRlVFFwNFdiRFppb2s4RGx5ZHJONlVvWUpubnpBMjVRVE54cUhFQXlIZ19lcXg?oc=5"
+      "title": "ChatGPT 預測比特幣 2026 年底價格上看 11 萬美元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUHJhY09VTkV0bWJIMENSYTdyT1VPTlZzRHRkQllIUHZZeVNSOFpYXzNUa29ocEJQQkRQbjA4YkpMQkZWWW9xczhadjJSYlcxZ1hDM0tueThydTNEZFhNLWE1YThmZ0dTWEF4Q2VNNGIyVDlIVFQ3MkY3UVlfVW9wbi1aWUZkSG42ZmRZc19vd3JBa2pJUUhsNjdEaDFGb1BpTmc0ZG1TV1RRTVVtQkhQNF9KRDJKaG95SlBGcnRodHpUcWd1ZmxPUDk2S0h5eDdIcGU0dC1UTk1sd0VQSUc3MUs2bkdIWW5jMXc1QmxQRURCczRZVkE?oc=5"
     },
     {
       "title": "台積電ADR漲近1% 投顧：台股反彈量縮估震盪整理| 證券 - cna.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bU16aXRGbHVyc1F0X1BDdFBBV3B1UjZ6QlBrdzJxRW9RdmZYdzNVenVOaTJITkFRU2ZCdHNUd3dEQkh6ZEk2QnM3c09uUzFCWVZWQlFxZnJ3UFAyekE?oc=5"
     },
     {
-      "title": "快訊／台積電下挫5元至2370　台股跌70點狹幅震盪 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UbTNaU2cxdFU4SDE1MUxvaFNJbkVQZFFtUFdHVmttTEdSWWs1NVd5WE1FRHhUV3diUjR2SFUtOXdQd0UzRUxCLXZ1OWQ4ZDZmbXfSAVBBVV95cUxPR0tPQXFpQXBWVjl1S3hHcVpfZFlXRmw2aWF6VVlVNHdHWDAzTGp4RUFIUTZFSmxjVGZpVTJNeElod1lWYlRia3pUSXl6WVlwMQ?oc=5"
+      "title": "比特幣突破 7.5 萬美元！分析師警告：這波漲勢「來得太早」 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcS1mMUd1REFIVEJlUmRiSjlEZnR6V3J4WnRPeS1QZzFkYktTQzYzYWtlWFYyaWplcFhKSkd1MlBDbmhLQkI1MXNwTy0tdmphR3EyQUl6VlRlVFFwNFdiRFppb2s4RGx5ZHJONlVvWUpubnpBMjVRVE54cUhFQXlIZ19lcXg?oc=5"
+    },
+    {
+      "title": "專家：5個原因，美股可能大跌10% - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VME02RlJEZnBIeUx0a29GM0JNblVfV3o0UDNWOFZZdmxpUmJRMmhGbjM0WlVHZFdxWl9XNF9yUGptQkpxNjhmOTZRM2hNZw?oc=5"
+    },
+    {
+      "title": "比特幣時隔9個月重返200日均線上方，漲勢或釋放長期趨勢轉強信號 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DeHdvVmR0YUR6U1ZleFhwMTZJUXJZTEthYURfbDdPNWp1LUpiQlVCdFNFcFpKWVJMcE92RWRWTklQX2g4WTROV1Q2Yw?oc=5"
     }
   ]
 }
