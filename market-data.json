@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/22 04:28",
+  "updated_tw": "08/22 04:52",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -65,28 +65,28 @@
       "changePercent": 0.8039
     },
     "VOO": {
-      "price": 703.77,
-      "change": 2.76,
-      "changePercent": 0.3937
+      "price": 703.71,
+      "change": 2.7,
+      "changePercent": 0.3852
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77446.69,
-      "change": 4413.9322,
-      "changePercent": 6.0438
+      "price": 77491.99,
+      "change": 4459.2322,
+      "changePercent": 6.1058
     },
     "ETH": {
-      "price": 2441.04,
-      "change": 114.6552,
-      "changePercent": 4.9285
+      "price": 2441.98,
+      "change": 115.5952,
+      "changePercent": 4.9689
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.827,
-      "change": -0.0113,
-      "changePercent": -0.0355
+      "price": 31.824,
+      "change": -0.0143,
+      "changePercent": -0.0449
     },
     "JPYTWD": {
       "price": 0.198,
@@ -94,32 +94,28 @@
       "changePercent": -1.1705
     },
     "EURTWD": {
-      "price": 37.213,
-      "change": 0.0018,
-      "changePercent": 0.0048
+      "price": 37.206,
+      "change": -0.0052,
+      "changePercent": -0.014
     },
     "CNYTWD": {
-      "price": 4.7376,
+      "price": 4.7383,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4670.9,
-    "twd": 4780.0,
-    "tael": 179233.0,
-    "twdTotal": 148661.0,
-    "changePercent": 3.4232
+    "usd": 4666.5,
+    "twd": 4775.0,
+    "tael": 179048.0,
+    "twdTotal": 148507.0,
+    "changePercent": 3.3257
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
-    {
-      "title": "股市VIP - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1GbEQ1N3dJeFVPd004VmJEN3VWN24zemNSS2dPQ2RYWnY2N2dVN0xfcEIwVFJKdmZ1TFJVUGQ3MG0?oc=5"
-    },
     {
       "title": "多頭接棒意願 比特幣續航關鍵 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYUDk0MXNfa2VOSzJvNHZpOXRFRWhuS0ZEYlVIamh0aDF6bjRXdGlJaTVFalQyT2pZbHA1d3NzSEJrM08wUmxrTXJBVTdDTFBySThUUDZHSWJmZ9IBX0FVX3lxTE9YczNYNU4zODh1YjlBTC10bk1KeVhrTDQyRWItbnY5ZEZsZDFtWjJoNC1kNmppVlNlUUp2QXpOeU9XWHVxb1g5RlZKc29XRFZZQ1lzZGtJdTdsZXVweGN3?oc=5"
@@ -129,8 +125,16 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlNDNlhINU0zRW5id093LUZKYi03OVQtbEFVYjZrOW1fRGtRRkhsRVlvc0FZWWFQYUd3bDVlLXV1OVRSa0lUT0d0Qi01Y21wSXhmbXhjZUF6NlpCM2xXRV9qb3JlRHdxUy1Nay1fd3lCd005R1hlcEhCTkROMEZXY1Q0NU01N3dCSFRUWFJ3cw?oc=5"
     },
     {
+      "title": "美股又殺費半！台積電ADR小漲、台指期夜盤45K保衛戰 比特幣暴力拉升衝77000美元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQU0NxcFQ0Uk1VRlFjZ1lIbXZBcG82TFVkR1lXUDFNZGh1ZzlNckdjRGU2NWVKY3pQUXRjZldNanMxbGFKbGEyTGlXRGdvM3lBcURqUFh4cUZaZXY3dTAyMV9OTEtSMEpaZDEycU1ZVnk2QWdTSXFITXNadkdrQmhYbVpfQ2ZkZEZTX1M3Rk5Hc1BiUGJGT05oa3JoMnl5UDFrVERHUm5sOG5KdG5Vc0xmMnJXVjdhTFFaZDF3OU9Uc2ljN1hfcWFPbVMtbUVTdEdGUHZqVUt1SnNsZlB3bDRKV2I1SWZrVVQ5dGZqRjFidC1WZm9NSF9iTnpIRlhUWHlMdjJQWEVfZ3Z5ZXhvV0NOU1JDWXFHdm0zWXNrdWhsempuQnJnMzB3RzZuQ05acVlUSXdpajF1dElKYlhOSWVLQXZxZ0VUQWtsc21lUlFMUUJUdHVSbGkyNW9FLXNtNi0zb3NGMnJJUTRvLV9sbnkzb3g3YVBCMEQydzBlNl8xLW94aFlkZEVoYVQxalpvZjU2bDk4RjNVOGNmZEtETVhnZTFkTjkwWmlOanhId3dKTDdnU0JuRk9kalcwejNpTGZDSnhBQloyczV4QQ?oc=5"
+    },
+    {
       "title": "美財政部「猛藥」救市引爆多頭行情！策略師：比特幣上看 18 萬美元 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTFnTHAwc29DdFFqZVJ3TzlwSEFoR3BnMjBNRktVUG4xM01SZ1E0cE9OaER4blRfa2NMV3FPVnpEeVk5ckpnb2h0NWU1WWg3b1g4bnRBSE5hZUl3cnhvY1d2UVRucXVTMW1ZMUpLMFNyWTB2dndBLWQ2WDlJNF9URExjUzdqWFUtcl82YU5zNy1yUE5YUUs3dnh2ZUo?oc=5"
+    },
+    {
+      "title": "日本黃金零售價續漲、近3個月高；ETF揚升-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONGl6TWdTN3RYVTZSWDBRSy1FYlFFZFRuYXlVYTBDWjBsWHRzSW1ybWZOLWVZZEttMXZZRG54YnNxeGg2bkdaX3diX1cwSUFxX1FNdXo0NE11MXJ5RXhfRGVJdmIwRHdlMnRPaUNESm0zOEREVEtsTk5rZW9qX29uSS1OREttRk91YVdsTjIzVUw?oc=5"
     },
     {
       "title": "黃金高檔震盪！最快「這時」衝破5000美元 - 自由財經",
@@ -143,10 +147,6 @@
     {
       "title": "7.6萬美元！比特幣周漲20% 漲勢三年來最猛 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fYmlrNzQxM1RFc1lxUjlYbW5hT2NJREtFSl9KRWNoS0ZKOXRFa2hGcGhKQjBPZEhMX3hTUTB5c2d0SXVxRWZENGFCT0Q0dUFBVHo1OVIzUmo0d9IBX0FVX3lxTFA4RU1GZ3VkQ1JrS2YyQzYzQ2FEM2diZ3VoNmRLVlNJTXF3bDNWMnc1TnE0UG15RHhGM3pCTzFRa010SGExLV94T3JHUDIyVEJNMlFDZ0pJYm0wUml3UU5n?oc=5"
-    },
-    {
-      "title": "美股又殺費半！台積電ADR小漲、台指期夜盤45K保衛戰 比特幣暴力拉升衝77000美元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQU0NxcFQ0Uk1VRlFjZ1lIbXZBcG82TFVkR1lXUDFNZGh1ZzlNckdjRGU2NWVKY3pQUXRjZldNanMxbGFKbGEyTGlXRGdvM3lBcURqUFh4cUZaZXY3dTAyMV9OTEtSMEpaZDEycU1ZVnk2QWdTSXFITXNadkdrQmhYbVpfQ2ZkZEZTX1M3Rk5Hc1BiUGJGT05oa3JoMnl5UDFrVERHUm5sOG5KdG5Vc0xmMnJXVjdhTFFaZDF3OU9Uc2ljN1hfcWFPbVMtbUVTdEdGUHZqVUt1SnNsZlB3bDRKV2I1SWZrVVQ5dGZqRjFidC1WZm9NSF9iTnpIRlhUWHlMdjJQWEVfZ3Z5ZXhvV0NOU1JDWXFHdm0zWXNrdWhsempuQnJnMzB3RzZuQ05acVlUSXdpajF1dElKYlhOSWVLQXZxZ0VUQWtsc21lUlFMUUJUdHVSbGkyNW9FLXNtNi0zb3NGMnJJUTRvLV9sbnkzb3g3YVBCMEQydzBlNl8xLW94aFlkZEVoYVQxalpvZjU2bDk4RjNVOGNmZEtETVhnZTFkTjkwWmlOanhId3dKTDdnU0JuRk9kalcwejNpTGZDSnhBQloyczV4QQ?oc=5"
     }
   ]
 }
