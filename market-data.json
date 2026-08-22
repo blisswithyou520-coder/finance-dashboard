@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/23 01:45",
+  "updated_tw": "08/23 02:27",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77208.25,
-      "change": -1126.9375,
-      "changePercent": -1.4386
+      "price": 77308.47,
+      "change": -1026.7175,
+      "changePercent": -1.3107
     },
     "ETH": {
-      "price": 2424.19,
-      "change": -91.0917,
-      "changePercent": -3.6215
+      "price": 2432.39,
+      "change": -82.8917,
+      "changePercent": -3.2955
     }
   },
   "fx": {
@@ -117,8 +117,8 @@
   },
   "news": [
     {
-      "title": "【台股壓力測試】千萬大戶錢進境內基金 九成重押台股科技 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQcFpRbG81WFRoZXZsSnZWLTRMclpUWWlfa19NWGlvNVV6UklfaFpNX1ZiWFc1eDk5Z1ZEN1JFeUhVbnRlb280OThBalRJV1FpRUZMT3lMMDR2cjcwR2dFcms3cVVOZzZJaGtCRnlSOHhCbklQR19EUC10dTA3TndfX3ZuY1pDdHdkWEFwM0laVVVkX3E5MEFvUEJCeDVKRDRNMFZUa3pvRkstVUprc3JLNms5M3UzSHVhM2VlOWlZRURtTzdMVjc2RXNrWi1DbnUtZVA3d3o2bHNBY0ZHTE9XcXhJLWFpRU1aSHJwWHZsUFlsdHp0YTFwcGREaVR2ZjRMSDJITkpnTVBqbDVRdWFmZVlraWJQWmhVRW5HZ0tSeUVHY0hJMXZMNVpaYmV6NmEyUlVETjVDVW9waWxqUlRUNkpncEw2TmFQdENYTlVKX1ZYMzRvNEFpYmxRZkZ5UUdaTUQ1WkZZeE44cTJQQlBVTlRidm9vdw?oc=5"
+      "title": "【台股壓力測試】「第二隻腳」要來了 輝達財報、央行年會三大變數 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOT3BnY3lPLVFCMHhXRzQzOWpoQTlMYVpSaTVaZnZ1dkRJcGVQazZJNmFDTjBpVkdjRVBLclhNcEljbGJFZkJEbVVteW1uWUx0UF9nTi1HS0x2Q2RWRUdkU3lsTzR1ek9ubS1GOGNLWVBaSF9FMW1ndGJqSW5TYmE4bjNIRTc5ODBaWUo1MkluSG1Qal9JSTdlVXg4aEFibUpsUk4xSmdTckx6cXpUMWsxZE5DcVlEdUZSdUVLYXFOcEZELTUzdXU5azc2WG1xZHZZelNWaEN2RnlXd05ZQTlOSTNFSjlJdi1qdDhQZ2RWZjBPa2czZG5lVTVNYkxmR1RTb254UHpvbFBnN2JBcGljbFNOS09ISkZ3V296OENSczdycHlyYjV3VDVWLTFiblY0bmM1V3FkV290eEVJMDNMaGhRZElpWmtkdFE1aWpUTmItWktyWU9YeUk1ZmVYRnpjeGNGbU1aejRtRThMOHVSYWRKQXNjTE95X0N2bkVXaFc4ZGo1?oc=5"
     },
     {
       "title": "黃金大漲破1紀錄！最新「目標價」出爐 - 自由財經",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb1VLTDBxa2NvamRmQnVabDZaWnhVWF9fX0dpRmxkYkpmMlR1TVRWdTFKdmptTVNOeTJ3Um9kRVFOQ0JlcUlMWERRaFhMR1pCYkZEV2pfd2FfMkFMbWsySGtERVA1Wl9uUGN4N0pERDA2Y1RTZFAyb0RLUGk2VmlQQ0NyNl9OMTAyU0RHdFpHQQ?oc=5"
     },
     {
-      "title": "分析师：比特币23%的反弹引发自2月以来最大规模短期持有者资金流入 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuSmNJbElURjhNem1jUmRFOUlLU29BR2tJazhLUGFXQzR6UWhBZUdZcnNFaC0tNXA5MmQzLXpzbmIyV1dEZGREX2RVZTQwc0JLcGxZd3pDZDZPRDhLSmNLZnByemMxdw?oc=5"
+      "title": "定期定額該買0050還是美股ETF？他困惑為何都選「這檔」 內行人曝：績效比較強 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPNHpDSkJvYXYzLXB4NTJ6VlVjbUdjcnRvbHdhWWRGR08yT0NtWDNQQXdGcTZ6S2NPSkVxaENMNG5xdHNfTEpPRTRRZGVoTTVuNTJKMm9TLXhkR2FEdjJVekEzbHFpTFdaTE1SbTh5ZExtTkoyR2Q5OEN2Y291REgyUEd1R1AzODhKdFpVbExQRVp5Qk9GNHVjSHhncFhEUEdUcWp4NHBjVE5iaE9Ma0NjWDloNEpDX1gtc3d2TlVtXzZpajhlZHNmUE9YZk5YVHk4NmdKYjRGaDFKNW5zN3dycVRRLWIwcExZZ3p4Q29IWS16ZGRvUE9HWWpHUksxRWNmQUp1THBnMkJaM1M0cHp0WFlXV3VjQUlBR29qVDZxSG1QaTdRWGl2TDZ1QjNyWjV6ZUV2QWNkaTJfb3RJVWFKRnRRd3l5b29xY1pTdlhfYTg1Z0cwZnAwdmx1bW9VTTdsZkNHdDBwa1UwUHJoMUpGRjYwYy1jMTlCS2hBNm9GLTh5V3h6QWpJaV9OMUYxTEp6cVhrT1hWM24wNlZJLTRzOFJUQzI5QUFTeVJBYURrcldyVnVmLUthVDZB?oc=5"
     },
     {
-      "title": "黃金5天大漲4.7%！瑞銀喊上看5400美元 潛在漲幅16% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPVjRVbUx0c2RnR3d4UlMxRnNCbW5pOVV2WkFlREM3bXpEaHl4dlZuc2NvQmhiZ3RvaGZCWmJ3clB0OGhJdmlFYUFBSnZUYTlvai1ibDd6amZGbll2RWhGamVYLXc0a0NXMXBLR0lTRkdHVTU4Z0tLQTAtZHp3Nmk2NFctTFk2S3NBYUljNlU4SGtrX1pUQnhjbHp4SFNkSm04SEFuOXR2SUQ4VzVDSWlJUDlDdGJiNjdTY0YwWHZBYkdlTkVFc0JzSmwyNWREUDk5UWxHc3hBWHhqMUVmcGY0SDFtWi1UbTJ5SmFuajdfNnNFV2V1VHBzVTJjUUljQ1RlZ0diM00wNUIyQ0QyTS1FbnVGTnc3NXJnMzhPYUNjb0xWMTM1YnRpVkZ4QQ?oc=5"
+      "title": "美股收盤》道瓊強彈517點！台積電ADR漲0.71％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZmdWeGNlM2hYMDFqRHBxOXJ2N2dJM3FUb2pPYV9CT0g2azAtOFVPZFJnQUlBc1h4MW1YdGswdWhWMUNSYU9Bc2xxUkhhZWFjMS1vVWN0YmR0dzZUUVZR?oc=5"
     }
   ]
 }
