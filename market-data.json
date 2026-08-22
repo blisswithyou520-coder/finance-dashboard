@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/23 05:20",
+  "updated_tw": "08/23 05:45",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 104.65,
-      "change": 1.55,
-      "changePercent": 1.5034
+      "change": 0.85,
+      "changePercent": 0.8189
     },
     "00878": {
       "price": 32.38,
-      "change": 0.08,
-      "changePercent": 0.2477
+      "change": 0.23,
+      "changePercent": 0.7154
     },
     "00919": {
       "price": 30.8,
-      "change": 0.41,
-      "changePercent": 1.3491
+      "change": 0.49,
+      "changePercent": 1.6166
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77190.24,
-      "change": -1144.9475,
-      "changePercent": -1.4616
+      "price": 76976.83,
+      "change": -1358.3575,
+      "changePercent": -1.734
     },
     "ETH": {
-      "price": 2419.4,
-      "change": -95.8817,
-      "changePercent": -3.812
+      "price": 2413.75,
+      "change": -101.5317,
+      "changePercent": -4.0366
     }
   },
   "fx": {
@@ -129,16 +129,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52RFhJZmJSTDhhRnpjWUhKOFVud2dBSF9IV01lUHBXRk5qMEdxSFhJZ2lSUkNvUjlGT2RudmJHM1ZKclJKVXJKbEM3QldMM3NCb0VleFh2OWpRYmJtNUNR?oc=5"
     },
     {
-      "title": "地緣政治、美債干擾 美股氣勢轉弱 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxc2VHNjZIbWtVSkE1U1dlaHlILXhLRmV6THZsVlcycGxic0Fmd29vWFpxRzhEczJaaTdJRkJzYkVSOHpTbjZ3NnhzZExNWHo3dUJKeFhySy15Z9IBX0FVX3lxTE14X0RvWHJ4SHc3ZXRaYVNZa1hEd21ac3FZX3VJZElVaUFnUGY5T0NCRlp4Tzc1anJtQm1vNm1XN0hmSmlKZTlwRkdsRHFHM0RHVGd3NDJ2d29DRTV3aGk4?oc=5"
-    },
-    {
       "title": "美債壓力湧避險買盤 現貨黃金返4600美元 - 非凡新聞台",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16VWpuZktPbmo3cW9lNWFkNGdkYXNYb00wbFpkOVdMSVY1UmFVZXlKb3V0M2Nhb0N1UWhlZ19vRnYwbThQX2JGUExwQlJjbFVZVURrZDhlMmRJcWc?oc=5"
     },
     {
-      "title": "【台股壓力測試】千萬大戶錢進境內基金 九成重押台股科技 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQcFpRbG81WFRoZXZsSnZWLTRMclpUWWlfa19NWGlvNVV6UklfaFpNX1ZiWFc1eDk5Z1ZEN1JFeUhVbnRlb280OThBalRJV1FpRUZMT3lMMDR2cjcwR2dFcms3cVVOZzZJaGtCRnlSOHhCbklQR19EUC10dTA3TndfX3ZuY1pDdHdkWEFwM0laVVVkX3E5MEFvUEJCeDVKRDRNMFZUa3pvRkstVUprc3JLNms5M3UzSHVhM2VlOWlZRURtTzdMVjc2RXNrWi1DbnUtZVA3d3o2bHNBY0ZHTE9XcXhJLWFpRU1aSHJwWHZsUFlsdHp0YTFwcGREaVR2ZjRMSDJITkpnTVBqbDVRdWFmZVlraWJQWmhVRW5HZ0tSeUVHY0hJMXZMNVpaYmV6NmEyUlVETjVDVW9waWxqUlRUNkpncEw2TmFQdENYTlVKX1ZYMzRvNEFpYmxRZkZ5UUdaTUQ1WkZZeE44cTJQQlBVTlRidm9vdw?oc=5"
+      "title": "地緣政治、美債干擾 美股氣勢轉弱 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxc2VHNjZIbWtVSkE1U1dlaHlILXhLRmV6THZsVlcycGxic0Fmd29vWFpxRzhEczJaaTdJRkJzYkVSOHpTbjZ3NnhzZExNWHo3dUJKeFhySy15Z9IBX0FVX3lxTE14X0RvWHJ4SHc3ZXRaYVNZa1hEd21ac3FZX3VJZElVaUFnUGY5T0NCRlp4Tzc1anJtQm1vNm1XN0hmSmlKZTlwRkdsRHFHM0RHVGd3NDJ2d29DRTV3aGk4?oc=5"
+    },
+    {
+      "title": "定期定額該買0050還是美股ETF？他困惑為何都選「這檔」 內行人曝：績效比較強 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPNHpDSkJvYXYzLXB4NTJ6VlVjbUdjcnRvbHdhWWRGR08yT0NtWDNQQXdGcTZ6S2NPSkVxaENMNG5xdHNfTEpPRTRRZGVoTTVuNTJKMm9TLXhkR2FEdjJVekEzbHFpTFdaTE1SbTh5ZExtTkoyR2Q5OEN2Y291REgyUEd1R1AzODhKdFpVbExQRVp5Qk9GNHVjSHhncFhEUEdUcWp4NHBjVE5iaE9Ma0NjWDloNEpDX1gtc3d2TlVtXzZpajhlZHNmUE9YZk5YVHk4NmdKYjRGaDFKNW5zN3dycVRRLWIwcExZZ3p4Q29IWS16ZGRvUE9HWWpHUksxRWNmQUp1THBnMkJaM1M0cHp0WFlXV3VjQUlBR29qVDZxSG1QaTdRWGl2TDZ1QjNyWjV6ZUV2QWNkaTJfb3RJVWFKRnRRd3l5b29xY1pTdlhfYTg1Z0cwZnAwdmx1bW9VTTdsZkNHdDBwa1UwUHJoMUpGRjYwYy1jMTlCS2hBNm9GLTh5V3h6QWpJaV9OMUYxTEp6cVhrT1hWM24wNlZJLTRzOFJUQzI5QUFTeVJBYURrcldyVnVmLUthVDZB?oc=5"
     },
     {
       "title": "DWS 投資黃金貴金屬股票 USD LC 的總覽 | 鉅亨網 - 鉅亨網",
