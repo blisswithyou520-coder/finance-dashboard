@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/22 11:20",
+  "updated_tw": "08/22 12:04",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78516.29,
-      "change": 5483.5322,
-      "changePercent": 7.5083
+      "price": 78376.47,
+      "change": 5343.7122,
+      "changePercent": 7.3169
     },
     "ETH": {
-      "price": 2520.56,
-      "change": 194.1752,
-      "changePercent": 8.3467
+      "price": 2513.75,
+      "change": 187.3652,
+      "changePercent": 8.0539
     }
   },
   "fx": {
@@ -109,7 +109,7 @@
     "twd": 4769.0,
     "tael": 178837.0,
     "twdTotal": 148332.0,
-    "changePercent": 3.2172
+    "changePercent": 3.8357
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "美股又殺費半！台積電ADR小漲、台指期夜盤45K保衛戰 比特幣暴力拉升衝77000美元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQU0NxcFQ0Uk1VRlFjZ1lIbXZBcG82TFVkR1lXUDFNZGh1ZzlNckdjRGU2NWVKY3pQUXRjZldNanMxbGFKbGEyTGlXRGdvM3lBcURqUFh4cUZaZXY3dTAyMV9OTEtSMEpaZDEycU1ZVnk2QWdTSXFITXNadkdrQmhYbVpfQ2ZkZEZTX1M3Rk5Hc1BiUGJGT05oa3JoMnl5UDFrVERHUm5sOG5KdG5Vc0xmMnJXVjdhTFFaZDF3OU9Uc2ljN1hfcWFPbVMtbUVTdEdGUHZqVUt1SnNsZlB3bDRKV2I1SWZrVVQ5dGZqRjFidC1WZm9NSF9iTnpIRlhUWHlMdjJQWEVfZ3Z5ZXhvV0NOU1JDWXFHdm0zWXNrdWhsempuQnJnMzB3RzZuQ05acVlUSXdpajF1dElKYlhOSWVLQXZxZ0VUQWtsc21lUlFMUUJUdHVSbGkyNW9FLXNtNi0zb3NGMnJJUTRvLV9sbnkzb3g3YVBCMEQydzBlNl8xLW94aFlkZEVoYVQxalpvZjU2bDk4RjNVOGNmZEtETVhnZTFkTjkwWmlOanhId3dKTDdnU0JuRk9kalcwejNpTGZDSnhBQloyczV4QQ?oc=5"
-    },
-    {
       "title": "美股收盤》道瓊強彈517點！台積電ADR漲0.71％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZmdWeGNlM2hYMDFqRHBxOXJ2N2dJM3FUb2pPYV9CT0g2azAtOFVPZFJnQUlBc1h4MW1YdGswdWhWMUNSYU9Bc2xxUkhhZWFjMS1vVWN0YmR0dzZUUVZR?oc=5"
+    },
+    {
+      "title": "美股又殺費半！台積電ADR小漲、台指期夜盤45K保衛戰 比特幣暴力拉升衝77000美元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQU0NxcFQ0Uk1VRlFjZ1lIbXZBcG82TFVkR1lXUDFNZGh1ZzlNckdjRGU2NWVKY3pQUXRjZldNanMxbGFKbGEyTGlXRGdvM3lBcURqUFh4cUZaZXY3dTAyMV9OTEtSMEpaZDEycU1ZVnk2QWdTSXFITXNadkdrQmhYbVpfQ2ZkZEZTX1M3Rk5Hc1BiUGJGT05oa3JoMnl5UDFrVERHUm5sOG5KdG5Vc0xmMnJXVjdhTFFaZDF3OU9Uc2ljN1hfcWFPbVMtbUVTdEdGUHZqVUt1SnNsZlB3bDRKV2I1SWZrVVQ5dGZqRjFidC1WZm9NSF9iTnpIRlhUWHlMdjJQWEVfZ3Z5ZXhvV0NOU1JDWXFHdm0zWXNrdWhsempuQnJnMzB3RzZuQ05acVlUSXdpajF1dElKYlhOSWVLQXZxZ0VUQWtsc21lUlFMUUJUdHVSbGkyNW9FLXNtNi0zb3NGMnJJUTRvLV9sbnkzb3g3YVBCMEQydzBlNl8xLW94aFlkZEVoYVQxalpvZjU2bDk4RjNVOGNmZEtETVhnZTFkTjkwWmlOanhId3dKTDdnU0JuRk9kalcwejNpTGZDSnhBQloyczV4QQ?oc=5"
     },
     {
       "title": "美股重點新聞摘要2026年8月22日 - 鉅亨網",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rdWFSdFZ3OHBidzFjalM0OUVSU244Z0J4MU5CeE1kQmZZdkZQZTA1Y2ZtSS10eElmM3Q3My01SHVLWE9vaWxsdVc3alJkUk50TGfSAVBBVV95cUxPbHhlUmZCTFRvQmFsdDhJN25XV2Z3S0VVamk2SEU3Vm0tQmpmYWJ1M0RIci1JTk52eU9wU0RNVmhSR0tpUElhdUI1NUFvcGg4cA?oc=5"
     },
     {
+      "title": "台股量價背離 Q4多頭等柴火！阿魯米教你「順大勢逆小勢」 短停損、長獲利抓波段 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQMjhMRnBra29pWms2MHVsNlhKQjZCNnE3QlpPdl81aW41N3hvQ0RlQ1RTaHRqWmdIekIzSXlJTE1jck1ROXRQWHVncjFiX2I2SUZlU3llS1JkWENJVnVXVHpwM21rVE1JYlZVamdxVnB6cjJYaVBrYkU0bGs2Z2YtZTRzS2FQVld4ZXFJSEx4ckE3aElZY1NrZ0VWdW4wbXZWdlh1dWl3UHBKNDJaUmxkQ1ZDUE10b2RWdEdKMS1XYXNkZ0ZQSzFKMUo5VnlLUVBXTk5XeElsTlZkdm92Ql9mQmV3cUpZR3E4clBJWWxMelhDU0pEZFp5RUdKUXJjd2xDMmNtOG55MUJja1I2TkZWQ25mbmNRMDBFMkJyT0JiZjNjdnhrNXhLYzFybVBRYklNYXJMc1RVYUVQSmUxblFScEpUWUZhUzdtS0ZUQ2hzWUtTQXQ3Ujlmc1p0WDdtbm1aR25vWUhYY1dON2NrQkkwVW1hNVRRSnFKMVVfbUVWa0FwR3J0bE5ydFBfVDZLWkE?oc=5"
+    },
+    {
       "title": "投資人聚焦美國壓低長期借貸成本 美股多數漲 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yal9pYjNobS1zZ1hTaTMwSHB4YUVpcWZ6bTdmOHRpWjZBSkNSZGxQQ1JCZVB1aDBvT19MUjhWQm96ZnZFcERqSmhScUZDUHZVTlN5TjJibFVUdUUy0gFiQVVfeXFMTV9fRkVFTXVSQmN6X09wZXR1eWhySVdTeFJTTkE2NDdFSHl5QV9JM05JWEZhME0yM2xmZHhCd2t5WC12YU9LZmxFeXUwLWJZTG5ONG9lQmVYb1FhdmNseWRPRnc?oc=5"
     },
     {
-      "title": "經濟數據報喜！美股3大指數齊揚 道瓊大漲517點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPdS1vQlZ5OUxwQzNQQzBleVQ1WGRzN0Nlc0hhOUhjQzdGcmpCYmhqRXB1WGNOU1JNdkZ6dGFrQjdiR3Z4WURSQ1N6QkRWaF9KaFR4cTVHRU44X05MNTgtcGJPd215d3dvZ3kxWmJwMVIxT2Z0TzJpM1lXWkVhenYyUUtrRnVtRWk5bm9qUFZYYldyTUhCSjE3TTJXV1EtaVdNQmVMTXVuUHNUd1hYR3hUTk52R0xULWdicDRjVTU5WW5Vd21DU09jazdId1FZemVQOHZZV3J3VTJvVXk0UzJleFhRdHdvRFg5UGhmUGtJb08yQnZ2Sm9xMEdLTUU3WUdhcG1USUx5ekNkcDZTdWdFTG1PdEdwWUlzU0ZUeXN3enV3Znc5emIzR2dMaFhubkxQQ1BFcWtvMmFLWDg?oc=5"
-    },
-    {
-      "title": "財經青紅燈》台股底氣十足 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XbV9mdnR5Zzlid1pLV0g0NFUzN2JhLTgxMmphaEs4TkZkajdhc2lqMGNpWmRGNkpKYW0za1J5YUlrUVl3dk83UVREeFBmR3k3WUdFQ1NR?oc=5"
+      "title": "DWS 投資黃金貴金屬股票 USD LC - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFNSVZTQ2kybUxab2JiUmFnSFpVQWFzQzJBLVZqS0xQT2hZYjRaek1WR3BET3BWRkZNVGJzdXlsTlZZSWg1RWtGY054cGF2bVFySFJkUXVLcWVmamhra1lMaTRDd09OX0Vtc0NfQnFyU19wdUhRUFFNM1dpbmRPeWhWcHZHaXdVQXRwT3NUb0ZjanNUTXV4eWR3RlQwTWRERVFRLWx6U2VSbnFOOE5rcHJ0RU9raXkzdWNMUmZoa2JpOS1UQkxTTm5pWHBUSDc5T2U5SHJYU05uUTJmV1JybENpVQ?oc=5"
     }
   ]
 }
