@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/22 14:37",
+  "updated_tw": "08/22 15:18",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77274.78,
-      "change": 4242.0222,
-      "changePercent": 5.8084
+      "price": 77209.85,
+      "change": -1125.3375,
+      "changePercent": -1.4366
     },
     "ETH": {
-      "price": 2428.2,
-      "change": 101.8152,
-      "changePercent": 4.3765
+      "price": 2427.9,
+      "change": -87.3817,
+      "changePercent": -3.474
     }
   },
   "fx": {
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "美股又殺費半！台積電ADR小漲、台指期夜盤45K保衛戰 比特幣暴力拉升衝77000美元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQU0NxcFQ0Uk1VRlFjZ1lIbXZBcG82TFVkR1lXUDFNZGh1ZzlNckdjRGU2NWVKY3pQUXRjZldNanMxbGFKbGEyTGlXRGdvM3lBcURqUFh4cUZaZXY3dTAyMV9OTEtSMEpaZDEycU1ZVnk2QWdTSXFITXNadkdrQmhYbVpfQ2ZkZEZTX1M3Rk5Hc1BiUGJGT05oa3JoMnl5UDFrVERHUm5sOG5KdG5Vc0xmMnJXVjdhTFFaZDF3OU9Uc2ljN1hfcWFPbVMtbUVTdEdGUHZqVUt1SnNsZlB3bDRKV2I1SWZrVVQ5dGZqRjFidC1WZm9NSF9iTnpIRlhUWHlMdjJQWEVfZ3Z5ZXhvV0NOU1JDWXFHdm0zWXNrdWhsempuQnJnMzB3RzZuQ05acVlUSXdpajF1dElKYlhOSWVLQXZxZ0VUQWtsc21lUlFMUUJUdHVSbGkyNW9FLXNtNi0zb3NGMnJJUTRvLV9sbnkzb3g3YVBCMEQydzBlNl8xLW94aFlkZEVoYVQxalpvZjU2bDk4RjNVOGNmZEtETVhnZTFkTjkwWmlOanhId3dKTDdnU0JuRk9kalcwejNpTGZDSnhBQloyczV4QQ?oc=5"
-    },
-    {
       "title": "美股收盤》道瓊強彈517點！台積電ADR漲0.71％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZmdWeGNlM2hYMDFqRHBxOXJ2N2dJM3FUb2pPYV9CT0g2azAtOFVPZFJnQUlBc1h4MW1YdGswdWhWMUNSYU9Bc2xxUkhhZWFjMS1vVWN0YmR0dzZUUVZR?oc=5"
+    },
+    {
+      "title": "美股又殺費半！台積電ADR小漲、台指期夜盤45K保衛戰 比特幣暴力拉升衝77000美元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQU0NxcFQ0Uk1VRlFjZ1lIbXZBcG82TFVkR1lXUDFNZGh1ZzlNckdjRGU2NWVKY3pQUXRjZldNanMxbGFKbGEyTGlXRGdvM3lBcURqUFh4cUZaZXY3dTAyMV9OTEtSMEpaZDEycU1ZVnk2QWdTSXFITXNadkdrQmhYbVpfQ2ZkZEZTX1M3Rk5Hc1BiUGJGT05oa3JoMnl5UDFrVERHUm5sOG5KdG5Vc0xmMnJXVjdhTFFaZDF3OU9Uc2ljN1hfcWFPbVMtbUVTdEdGUHZqVUt1SnNsZlB3bDRKV2I1SWZrVVQ5dGZqRjFidC1WZm9NSF9iTnpIRlhUWHlMdjJQWEVfZ3Z5ZXhvV0NOU1JDWXFHdm0zWXNrdWhsempuQnJnMzB3RzZuQ05acVlUSXdpajF1dElKYlhOSWVLQXZxZ0VUQWtsc21lUlFMUUJUdHVSbGkyNW9FLXNtNi0zb3NGMnJJUTRvLV9sbnkzb3g3YVBCMEQydzBlNl8xLW94aFlkZEVoYVQxalpvZjU2bDk4RjNVOGNmZEtETVhnZTFkTjkwWmlOanhId3dKTDdnU0JuRk9kalcwejNpTGZDSnhBQloyczV4QQ?oc=5"
     },
     {
       "title": "美股反彈但周線收黑下周華許演說威力可能更甚輝達財報| 全球財經| 全球 - UDN",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rdWFSdFZ3OHBidzFjalM0OUVSU244Z0J4MU5CeE1kQmZZdkZQZTA1Y2ZtSS10eElmM3Q3My01SHVLWE9vaWxsdVc3alJkUk50TGfSAVBBVV95cUxPbHhlUmZCTFRvQmFsdDhJN25XV2Z3S0VVamk2SEU3Vm0tQmpmYWJ1M0RIci1JTk52eU9wU0RNVmhSR0tpUElhdUI1NUFvcGg4cA?oc=5"
     },
     {
+      "title": "Bitdeer维持比特币零持仓，本周出售265.6枚BTC - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xU1VlZUxrbGt3dHcxSDdRdU41NHIyZkIwSEtFbF9DY0ZSclhCaW05Uy1NdGVBbXdDUEpsSkU3OHYxTWNRUll5TkZQdHhodDlJTmpJM3dORlZwaTdNNmZDSUFfQkpLdw?oc=5"
+    },
+    {
       "title": "ENA 飆漲 48%、山寨幣反攻！分析師：比特幣資金外溢在即 - 動區動趨",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSDNCaWc5VTN5bWkzcEMzeE5TVU1PSkY2WTBNTVFGLXQwV3ZCTjVSN1JlYm1DNWp1dkFaTmFkeFVyU1NweHhuMkgwcnN0bFo5Qk9HbEtNTU55NTZBcmdaZnF2aVpKXzR6bzFkQ2RJSTBpT05qenpqYkJUYmZ4YllFSQ?oc=5"
     },
     {
-      "title": "Coinbase CEO 押注牛市回歸：比特幣上看 40 萬美元，法案通過將點燃市場 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeW5TSUZFUHdPcFBKUjc4clZIOEJiUklKUlp5emM5UjRTYU1vY2NvTmpGaXp1c0VIVVl0aC1CajllOTFfNnpKNlJkR1hiek52MjB1V0poYWxfUDNkdE1GTDFWcEt2b18xU1RjeUViUmgyRlhkRVBleU9xVEZMal9HR0JBTXF2blhIZzlqSEh6b0tHMEZxdTVoTmplOA?oc=5"
-    },
-    {
-      "title": "定期定額該買0050還是美股ETF？他困惑為何都選「這檔」 內行人曝：績效比較強 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPNHpDSkJvYXYzLXB4NTJ6VlVjbUdjcnRvbHdhWWRGR08yT0NtWDNQQXdGcTZ6S2NPSkVxaENMNG5xdHNfTEpPRTRRZGVoTTVuNTJKMm9TLXhkR2FEdjJVekEzbHFpTFdaTE1SbTh5ZExtTkoyR2Q5OEN2Y291REgyUEd1R1AzODhKdFpVbExQRVp5Qk9GNHVjSHhncFhEUEdUcWp4NHBjVE5iaE9Ma0NjWDloNEpDX1gtc3d2TlVtXzZpajhlZHNmUE9YZk5YVHk4NmdKYjRGaDFKNW5zN3dycVRRLWIwcExZZ3p4Q29IWS16ZGRvUE9HWWpHUksxRWNmQUp1THBnMkJaM1M0cHp0WFlXV3VjQUlBR29qVDZxSG1QaTdRWGl2TDZ1QjNyWjV6ZUV2QWNkaTJfb3RJVWFKRnRRd3l5b29xY1pTdlhfYTg1Z0cwZnAwdmx1bW9VTTdsZkNHdDBwa1UwUHJoMUpGRjYwYy1jMTlCS2hBNm9GLTh5V3h6QWpJaV9OMUYxTEp6cVhrT1hWM24wNlZJLTRzOFJUQzI5QUFTeVJBYURrcldyVnVmLUthVDZB?oc=5"
+      "title": "加密貨幣超19萬人爆倉！美股週五全面收紅 黃金、油價走強 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNUGJ2M2U2bUNualV5UldiMTFRLXBVcTdpN3djTk5sQ1lHb1h4RzllOFhpMkduTXZscWczUjlOV1BodllFbENGX0pDeTIySWJ3ajlNc21BR3lkNWMxQUF4YkFoeDgyblp4ZDgtd181a05uNmhFVEtudzVxWDdPRG5ncXU3OTMzY01NRG44X0g5Q3VvcVhneE00SmtmREctU3JzQ0tPNGNBLVl6ME85a2V3clRNMlJiVWlVMG1Xb0g5Slhhem4tZW9KVk1fdExCd0RRVmpzVk5SSlN5UU1CNW9kWG1qTUpMSkdtejhoMjY1dmR3WEozQmM5UWFwN1k2QklNMXBEcllhbU8za0xjM3B2RndQSzZzSzFlT3R2OUhydVByb0ViR2JKN1BpNEYxS29sbjdwVEhRdnE0cXB0ejNVUDFLd3B1bnZuM2ZuQmo3QVhNRVRkTXlCc19OSnZVN3JPTzF1Ujk1N181cmt4RGFRSFhOZ2xTUQ?oc=5"
     }
   ]
 }
