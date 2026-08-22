@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/22 10:20",
+  "updated_tw": "08/22 11:20",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78103.49,
-      "change": 5070.7322,
-      "changePercent": 6.9431
+      "price": 78516.29,
+      "change": 5483.5322,
+      "changePercent": 7.5083
     },
     "ETH": {
-      "price": 2510.34,
-      "change": 183.9552,
-      "changePercent": 7.9073
+      "price": 2520.56,
+      "change": 194.1752,
+      "changePercent": 8.3467
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股收盤》道瓊強彈517點！台積電ADR漲0.71％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZmdWeGNlM2hYMDFqRHBxOXJ2N2dJM3FUb2pPYV9CT0g2azAtOFVPZFJnQUlBc1h4MW1YdGswdWhWMUNSYU9Bc2xxUkhhZWFjMS1vVWN0YmR0dzZUUVZR?oc=5"
-    },
-    {
       "title": "美股又殺費半！台積電ADR小漲、台指期夜盤45K保衛戰 比特幣暴力拉升衝77000美元 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQU0NxcFQ0Uk1VRlFjZ1lIbXZBcG82TFVkR1lXUDFNZGh1ZzlNckdjRGU2NWVKY3pQUXRjZldNanMxbGFKbGEyTGlXRGdvM3lBcURqUFh4cUZaZXY3dTAyMV9OTEtSMEpaZDEycU1ZVnk2QWdTSXFITXNadkdrQmhYbVpfQ2ZkZEZTX1M3Rk5Hc1BiUGJGT05oa3JoMnl5UDFrVERHUm5sOG5KdG5Vc0xmMnJXVjdhTFFaZDF3OU9Uc2ljN1hfcWFPbVMtbUVTdEdGUHZqVUt1SnNsZlB3bDRKV2I1SWZrVVQ5dGZqRjFidC1WZm9NSF9iTnpIRlhUWHlMdjJQWEVfZ3Z5ZXhvV0NOU1JDWXFHdm0zWXNrdWhsempuQnJnMzB3RzZuQ05acVlUSXdpajF1dElKYlhOSWVLQXZxZ0VUQWtsc21lUlFMUUJUdHVSbGkyNW9FLXNtNi0zb3NGMnJJUTRvLV9sbnkzb3g3YVBCMEQydzBlNl8xLW94aFlkZEVoYVQxalpvZjU2bDk4RjNVOGNmZEtETVhnZTFkTjkwWmlOanhId3dKTDdnU0JuRk9kalcwejNpTGZDSnhBQloyczV4QQ?oc=5"
+    },
+    {
+      "title": "美股收盤》道瓊強彈517點！台積電ADR漲0.71％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZmdWeGNlM2hYMDFqRHBxOXJ2N2dJM3FUb2pPYV9CT0g2azAtOFVPZFJnQUlBc1h4MW1YdGswdWhWMUNSYU9Bc2xxUkhhZWFjMS1vVWN0YmR0dzZUUVZR?oc=5"
     },
     {
       "title": "美股重點新聞摘要2026年8月22日 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PWmU5bVU1dHN1QTlYZXpqd3pIRUo3aDdKZjNRb2ZLUkpEa0EzRmZOaXQwemRrZDc4OS1FYzhMT3AzbDVqTmo0YVZkcw?oc=5"
     },
     {
-      "title": "投資人聚焦美國壓低長期借貸成本 美股多數漲 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yal9pYjNobS1zZ1hTaTMwSHB4YUVpcWZ6bTdmOHRpWjZBSkNSZGxQQ1JCZVB1aDBvT19MUjhWQm96ZnZFcERqSmhScUZDUHZVTlN5TjJibFVUdUUy0gFiQVVfeXFMTV9fRkVFTXVSQmN6X09wZXR1eWhySVdTeFJTTkE2NDdFSHl5QV9JM05JWEZhME0yM2xmZHhCd2t5WC12YU9LZmxFeXUwLWJZTG5ONG9lQmVYb1FhdmNseWRPRnc?oc=5"
-    },
-    {
-      "title": "結構性支撐與核心催化劑齊至！黃金或將走出二季度暴跌陰霾 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlNDNlhINU0zRW5id093LUZKYi03OVQtbEFVYjZrOW1fRGtRRkhsRVlvc0FZWWFQYUd3bDVlLXV1OVRSa0lUT0d0Qi01Y21wSXhmbXhjZUF6NlpCM2xXRV9qb3JlRHdxUy1Nay1fd3lCd005R1hlcEhCTkROMEZXY1Q0NU01N3dCSFRUWFJ3cw?oc=5"
+      "title": "現貨 ETF 資金流入助攻 比特幣一度衝上7.8萬美元 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxLWN5RnloUXJ3anE2dmNwSXVVd1UtdlVta2o2aXhjRkNKc2MxTl9TSXhRd01OajdoMEdGUS1xemJIRjAyRHhDQnU3NjVVY28x0gFWQVVfeXFMTkNDME9wdUtMd0hTajBEVmhycW9pNUZpMDNPY0ZmODZrQmE4eTlJV2MxMk5CdDRqbkVVeHBmU2JUdXpDVnFvMDFlWlVoa0h2aVJYYU44d0E?oc=5"
     },
     {
       "title": "比特幣本周大漲22%！　單日空頭遭血洗27億美元 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rdWFSdFZ3OHBidzFjalM0OUVSU244Z0J4MU5CeE1kQmZZdkZQZTA1Y2ZtSS10eElmM3Q3My01SHVLWE9vaWxsdVc3alJkUk50TGfSAVBBVV95cUxPbHhlUmZCTFRvQmFsdDhJN25XV2Z3S0VVamk2SEU3Vm0tQmpmYWJ1M0RIci1JTk52eU9wU0RNVmhSR0tpUElhdUI1NUFvcGg4cA?oc=5"
     },
     {
-      "title": "美債風波投資人重新站穩腳跟 美股多收高 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQNl9INkZ2R3pxR0dLMFVBMzZPWjFnYkVmN3lQU09OZm16dFRCcmdRMWlsTS1WMkF0dTd3M2IxVmxrdkJPckQxLXVxbUV2WU5sS3AzS2ZfajdSN19CQmtLXzNtT3NFNXR5SU85QlFJcGw4bWpBVUFDbXJrdm1tSlJfY2ZpUWs1YzhSUWVMRERQV2RFS2hjNDhlS3ZhSE1Bc2lEVlZPMUdyZEQ4dDAzb093U3ZHUGg1TWRMM2hiNy1WX2NtMWl2SmVabWl4OEFWemJ0RE8xbXk2THIycmVpa3p3Ny1lT3ROaGR2aWtyMFJPR2tQdG5sbkNweEFaMmtGZGt2ZzJFbkNJb2wzVmNQVWdnRFdKQ2tKVVJrTWFVbFJ5R3pTSUc4X1NQaWhDb1Q?oc=5"
+      "title": "投資人聚焦美國壓低長期借貸成本 美股多數漲 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yal9pYjNobS1zZ1hTaTMwSHB4YUVpcWZ6bTdmOHRpWjZBSkNSZGxQQ1JCZVB1aDBvT19MUjhWQm96ZnZFcERqSmhScUZDUHZVTlN5TjJibFVUdUUy0gFiQVVfeXFMTV9fRkVFTXVSQmN6X09wZXR1eWhySVdTeFJTTkE2NDdFSHl5QV9JM05JWEZhME0yM2xmZHhCd2t5WC12YU9LZmxFeXUwLWJZTG5ONG9lQmVYb1FhdmNseWRPRnc?oc=5"
     },
     {
-      "title": "7.6萬美元！比特幣周漲20% 漲勢三年來最猛| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wYURYS1ZpT01FRFcwdG9vbWRmYXRvZEktejAyd1ZLSkJjRXVCM3E1dkJsQ0liWk1TVEh1UWRUQ3M5TTRYTXpGelhCeU84NjlE?oc=5"
+      "title": "經濟數據報喜！美股3大指數齊揚 道瓊大漲517點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPdS1vQlZ5OUxwQzNQQzBleVQ1WGRzN0Nlc0hhOUhjQzdGcmpCYmhqRXB1WGNOU1JNdkZ6dGFrQjdiR3Z4WURSQ1N6QkRWaF9KaFR4cTVHRU44X05MNTgtcGJPd215d3dvZ3kxWmJwMVIxT2Z0TzJpM1lXWkVhenYyUUtrRnVtRWk5bm9qUFZYYldyTUhCSjE3TTJXV1EtaVdNQmVMTXVuUHNUd1hYR3hUTk52R0xULWdicDRjVTU5WW5Vd21DU09jazdId1FZemVQOHZZV3J3VTJvVXk0UzJleFhRdHdvRFg5UGhmUGtJb08yQnZ2Sm9xMEdLTUU3WUdhcG1USUx5ekNkcDZTdWdFTG1PdEdwWUlzU0ZUeXN3enV3Znc5emIzR2dMaFhubkxQQ1BFcWtvMmFLWDg?oc=5"
+    },
+    {
+      "title": "財經青紅燈》台股底氣十足 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XbV9mdnR5Zzlid1pLV0g0NFUzN2JhLTgxMmphaEs4TkZkajdhc2lqMGNpWmRGNkpKYW0za1J5YUlrUVl3dk83UVREeFBmR3k3WUdFQ1NR?oc=5"
     }
   ]
 }
