@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/22 13:53",
+  "updated_tw": "08/22 14:37",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77326.29,
-      "change": 4293.5322,
-      "changePercent": 5.8789
+      "price": 77274.78,
+      "change": 4242.0222,
+      "changePercent": 5.8084
     },
     "ETH": {
-      "price": 2438.43,
-      "change": 112.0452,
-      "changePercent": 4.8163
+      "price": 2428.2,
+      "change": 101.8152,
+      "changePercent": 4.3765
     }
   },
   "fx": {
@@ -125,24 +125,24 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZmdWeGNlM2hYMDFqRHBxOXJ2N2dJM3FUb2pPYV9CT0g2azAtOFVPZFJnQUlBc1h4MW1YdGswdWhWMUNSYU9Bc2xxUkhhZWFjMS1vVWN0YmR0dzZUUVZR?oc=5"
     },
     {
-      "title": "美股重點新聞摘要2026年8月22日 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PWmU5bVU1dHN1QTlYZXpqd3pIRUo3aDdKZjNRb2ZLUkpEa0EzRmZOaXQwemRrZDc4OS1FYzhMT3AzbDVqTmo0YVZkcw?oc=5"
-    },
-    {
       "title": "美股反彈但周線收黑下周華許演說威力可能更甚輝達財報| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWQlpteDJRa296VEJScHRNNUhlY0dvYkV4LVptMFZreHBBVFVEV2xzbGFvQUxjeGx1Z2lNVHhfWlk5NHNLY0JWUlRiaUl3Mmxf?oc=5"
+    },
+    {
+      "title": "美股重點新聞摘要2026年8月22日 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PWmU5bVU1dHN1QTlYZXpqd3pIRUo3aDdKZjNRb2ZLUkpEa0EzRmZOaXQwemRrZDc4OS1FYzhMT3AzbDVqTmo0YVZkcw?oc=5"
     },
     {
       "title": "比特幣本周大漲22%！　單日空頭遭血洗27億美元 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rdWFSdFZ3OHBidzFjalM0OUVSU244Z0J4MU5CeE1kQmZZdkZQZTA1Y2ZtSS10eElmM3Q3My01SHVLWE9vaWxsdVc3alJkUk50TGfSAVBBVV95cUxPbHhlUmZCTFRvQmFsdDhJN25XV2Z3S0VVamk2SEU3Vm0tQmpmYWJ1M0RIci1JTk52eU9wU0RNVmhSR0tpUElhdUI1NUFvcGg4cA?oc=5"
     },
     {
-      "title": "Coinbase CEO 押注牛市回歸：比特幣上看 40 萬美元，法案通過將點燃市場 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeW5TSUZFUHdPcFBKUjc4clZIOEJiUklKUlp5emM5UjRTYU1vY2NvTmpGaXp1c0VIVVl0aC1CajllOTFfNnpKNlJkR1hiek52MjB1V0poYWxfUDNkdE1GTDFWcEt2b18xU1RjeUViUmgyRlhkRVBleU9xVEZMal9HR0JBTXF2blhIZzlqSEh6b0tHMEZxdTVoTmplOA?oc=5"
+      "title": "ENA 飆漲 48%、山寨幣反攻！分析師：比特幣資金外溢在即 - 動區動趨",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSDNCaWc5VTN5bWkzcEMzeE5TVU1PSkY2WTBNTVFGLXQwV3ZCTjVSN1JlYm1DNWp1dkFaTmFkeFVyU1NweHhuMkgwcnN0bFo5Qk9HbEtNTU55NTZBcmdaZnF2aVpKXzR6bzFkQ2RJSTBpT05qenpqYkJUYmZ4YllFSQ?oc=5"
     },
     {
-      "title": "美債殖利率恐戳破美股泡沫？分析：高估值與AI循環融資風險升高 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxYUE3MEVrS0hzSmZGYUU4ek82X2JnenFlZjIweDItamJWR0xvSm0yZkNwRmdzRjBRbEF1MjItcVBzTWt2dDhTb3NPTQ?oc=5"
+      "title": "Coinbase CEO 押注牛市回歸：比特幣上看 40 萬美元，法案通過將點燃市場 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeW5TSUZFUHdPcFBKUjc4clZIOEJiUklKUlp5emM5UjRTYU1vY2NvTmpGaXp1c0VIVVl0aC1CajllOTFfNnpKNlJkR1hiek52MjB1V0poYWxfUDNkdE1GTDFWcEt2b18xU1RjeUViUmgyRlhkRVBleU9xVEZMal9HR0JBTXF2blhIZzlqSEh6b0tHMEZxdTVoTmplOA?oc=5"
     },
     {
       "title": "定期定額該買0050還是美股ETF？他困惑為何都選「這檔」 內行人曝：績效比較強 - Yahoo股市",
