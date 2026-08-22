@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/22 22:19",
+  "updated_tw": "08/22 22:47",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76995.01,
-      "change": -1340.1775,
-      "changePercent": -1.7108
+      "price": 76979.1,
+      "change": -1356.0875,
+      "changePercent": -1.7311
     },
     "ETH": {
-      "price": 2416.82,
-      "change": -98.4617,
-      "changePercent": -3.9145
+      "price": 2412.61,
+      "change": -102.6717,
+      "changePercent": -4.0819
     }
   },
   "fx": {
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "美股收盤》道瓊強彈517點！台積電ADR漲0.71％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZmdWeGNlM2hYMDFqRHBxOXJ2N2dJM3FUb2pPYV9CT0g2azAtOFVPZFJnQUlBc1h4MW1YdGswdWhWMUNSYU9Bc2xxUkhhZWFjMS1vVWN0YmR0dzZUUVZR?oc=5"
+      "title": "短線資金獲利了結，Binance 比特幣流入量創 2 月以來新高 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxZ3hFNERLVTByMTdlelpLTHRwSFAzQ2lEdzVTRi1ITENKRkdsQXQzMVE5a0JJTVY0TzFRZUhzNWV2LWNtb0ducHY1dw?oc=5"
     },
     {
-      "title": "「1011閃崩」以來資金流入新高！比特幣現貨 ETF 本週吸金19.178億美元 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MWmlnYXVPS21JYzY0UTV4d0NmeHRac2NpT3RCOC0xVjlwZHdSSEVhMGp4WHJ2VWhVMUZmaDMybXdDdzJ1elZfdHZUSQ?oc=5"
+      "title": "美股收盤》道瓊強彈517點！台積電ADR漲0.71％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZmdWeGNlM2hYMDFqRHBxOXJ2N2dJM3FUb2pPYV9CT0g2azAtOFVPZFJnQUlBc1h4MW1YdGswdWhWMUNSYU9Bc2xxUkhhZWFjMS1vVWN0YmR0dzZUUVZR?oc=5"
     },
     {
       "title": "黃金5天大漲4.7%！瑞銀喊上看5400美元 潛在漲幅16% - Yahoo股市",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuSmNJbElURjhNem1jUmRFOUlLU29BR2tJazhLUGFXQzR6UWhBZUdZcnNFaC0tNXA5MmQzLXpzbmIyV1dEZGREX2RVZTQwc0JLcGxZd3pDZDZPRDhLSmNLZnByemMxdw?oc=5"
     },
     {
-      "title": "加密貨幣超19萬人爆倉！美股週五全面收紅 黃金、油價走強 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNUGJ2M2U2bUNualV5UldiMTFRLXBVcTdpN3djTk5sQ1lHb1h4RzllOFhpMkduTXZscWczUjlOV1BodllFbENGX0pDeTIySWJ3ajlNc21BR3lkNWMxQUF4YkFoeDgyblp4ZDgtd181a05uNmhFVEtudzVxWDdPRG5ncXU3OTMzY01NRG44X0g5Q3VvcVhneE00SmtmREctU3JzQ0tPNGNBLVl6ME85a2V3clRNMlJiVWlVMG1Xb0g5Slhhem4tZW9KVk1fdExCd0RRVmpzVk5SSlN5UU1CNW9kWG1qTUpMSkdtejhoMjY1dmR3WEozQmM5UWFwN1k2QklNMXBEcllhbU8za0xjM3B2RndQSzZzSzFlT3R2OUhydVByb0ViR2JKN1BpNEYxS29sbjdwVEhRdnE0cXB0ejNVUDFLd3B1bnZuM2ZuQmo3QVhNRVRkTXlCc19OSnZVN3JPTzF1Ujk1N181cmt4RGFRSFhOZ2xTUQ?oc=5"
+      "title": "「1011閃崩」以來資金流入新高！比特幣現貨 ETF 本週吸金19.178億美元 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MWmlnYXVPS21JYzY0UTV4d0NmeHRac2NpT3RCOC0xVjlwZHdSSEVhMGp4WHJ2VWhVMUZmaDMybXdDdzJ1elZfdHZUSQ?oc=5"
     },
     {
-      "title": "星橋黃金交易爆倉！香港辦公室人去樓空 有投資人帳戶慘歸零 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BRTRPT19FWHdhclkteXVjZHF4WE1sTThSRTdBSmFvYVhKZ1FDcmtZMGpTc0NzTnllSmZYWUdhLTVneHFpZ2VkTXJUM0dlNnhOelNhR0IwREVCN0NaRk40?oc=5"
+      "title": "加密貨幣超19萬人爆倉！美股週五全面收紅 黃金、油價走強 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNUGJ2M2U2bUNualV5UldiMTFRLXBVcTdpN3djTk5sQ1lHb1h4RzllOFhpMkduTXZscWczUjlOV1BodllFbENGX0pDeTIySWJ3ajlNc21BR3lkNWMxQUF4YkFoeDgyblp4ZDgtd181a05uNmhFVEtudzVxWDdPRG5ncXU3OTMzY01NRG44X0g5Q3VvcVhneE00SmtmREctU3JzQ0tPNGNBLVl6ME85a2V3clRNMlJiVWlVMG1Xb0g5Slhhem4tZW9KVk1fdExCd0RRVmpzVk5SSlN5UU1CNW9kWG1qTUpMSkdtejhoMjY1dmR3WEozQmM5UWFwN1k2QklNMXBEcllhbU8za0xjM3B2RndQSzZzSzFlT3R2OUhydVByb0ViR2JKN1BpNEYxS29sbjdwVEhRdnE0cXB0ejNVUDFLd3B1bnZuM2ZuQmo3QVhNRVRkTXlCc19OSnZVN3JPTzF1Ujk1N181cmt4RGFRSFhOZ2xTUQ?oc=5"
     }
   ]
 }
