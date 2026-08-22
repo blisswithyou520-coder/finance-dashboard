@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/22 18:32",
+  "updated_tw": "08/22 18:58",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76923.33,
-      "change": -1411.8575,
-      "changePercent": -1.8023
+      "price": 76928.53,
+      "change": -1406.6575,
+      "changePercent": -1.7957
     },
     "ETH": {
-      "price": 2408.46,
-      "change": -106.8217,
-      "changePercent": -4.2469
+      "price": 2409.87,
+      "change": -105.4117,
+      "changePercent": -4.1909
     }
   },
   "fx": {
@@ -117,10 +117,6 @@
   },
   "news": [
     {
-      "title": "美股收盤》道瓊強彈517點！台積電ADR漲0.71％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZmdWeGNlM2hYMDFqRHBxOXJ2N2dJM3FUb2pPYV9CT0g2azAtOFVPZFJnQUlBc1h4MW1YdGswdWhWMUNSYU9Bc2xxUkhhZWFjMS1vVWN0YmR0dzZUUVZR?oc=5"
-    },
-    {
       "title": "「1011閃崩」以來資金流入新高！比特幣現貨 ETF 本週吸金19.178億美元 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MWmlnYXVPS21JYzY0UTV4d0NmeHRac2NpT3RCOC0xVjlwZHdSSEVhMGp4WHJ2VWhVMUZmaDMybXdDdzJ1elZfdHZUSQ?oc=5"
     },
@@ -133,8 +129,16 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWQlpteDJRa296VEJScHRNNUhlY0dvYkV4LVptMFZreHBBVFVEV2xzbGFvQUxjeGx1Z2lNVHhfWlk5NHNLY0JWUlRiaUl3Mmxf?oc=5"
     },
     {
+      "title": "美股收盤》道瓊強彈517點！台積電ADR漲0.71％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZmdWeGNlM2hYMDFqRHBxOXJ2N2dJM3FUb2pPYV9CT0g2azAtOFVPZFJnQUlBc1h4MW1YdGswdWhWMUNSYU9Bc2xxUkhhZWFjMS1vVWN0YmR0dzZUUVZR?oc=5"
+    },
+    {
       "title": "一週展望：黃金衝上4600後，美伊制裁、傑克遜霍爾、PCE將 - capitalfutures.com.tw",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb1VLTDBxa2NvamRmQnVabDZaWnhVWF9fX0dpRmxkYkpmMlR1TVRWdTFKdmptTVNOeTJ3Um9kRVFOQ0JlcUlMWERRaFhMR1pCYkZEV2pfd2FfMkFMbWsySGtERVA1Wl9uUGN4N0pERDA2Y1RTZFAyb0RLUGk2VmlQQ0NyNl9OMTAyU0RHdFpHQQ?oc=5"
+    },
+    {
+      "title": "比特幣本周大漲22%！　單日空頭遭血洗27億美元 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rdWFSdFZ3OHBidzFjalM0OUVSU244Z0J4MU5CeE1kQmZZdkZQZTA1Y2ZtSS10eElmM3Q3My01SHVLWE9vaWxsdVc3alJkUk50TGfSAVBBVV95cUxPbHhlUmZCTFRvQmFsdDhJN25XV2Z3S0VVamk2SEU3Vm0tQmpmYWJ1M0RIci1JTk52eU9wU0RNVmhSR0tpUElhdUI1NUFvcGg4cA?oc=5"
     },
     {
       "title": "美股又殺費半！台積電ADR小漲、台指期夜盤45K保衛戰 比特幣暴力拉升衝77000美元 - Yahoo股市",
@@ -143,10 +147,6 @@
     {
       "title": "星橋黃金交易爆倉！香港辦公室人去樓空 有投資人帳戶慘歸零 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BRTRPT19FWHdhclkteXVjZHF4WE1sTThSRTdBSmFvYVhKZ1FDcmtZMGpTc0NzTnllSmZYWUdhLTVneHFpZ2VkTXJUM0dlNnhOelNhR0IwREVCN0NaRk40?oc=5"
-    },
-    {
-      "title": "美股四大指數周線收黑 聚焦輝達財報 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EN1UwTjVERi1vQm1BX3NYaWtQRjBVRnJEZ3Y5Mkk1UU9ITXpLOWx3ZzFXc0JJNjNrVG4yRlhEZTJlcTBSS0Y0cVlLUmpfajB10gFWQVVfeXFMTnpCZG1Ta1psYWdPcm0tMjM3RkgxWkZhN21vdXQyS1FTdmhIS0dXM3l3SjBJbHJkR2daRzU1UkV2c1VkaDlUYkpFeHYtNElNV01JbVE2dnc?oc=5"
     }
   ]
 }
