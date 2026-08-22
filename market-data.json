@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/23 03:48",
+  "updated_tw": "08/23 04:20",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77435.96,
-      "change": -899.2275,
-      "changePercent": -1.1479
+      "price": 77328.27,
+      "change": -1006.9175,
+      "changePercent": -1.2854
     },
     "ETH": {
-      "price": 2437.42,
-      "change": -77.8617,
-      "changePercent": -3.0955
+      "price": 2439.56,
+      "change": -75.7217,
+      "changePercent": -3.0105
     }
   },
   "fx": {
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JbGN4X1ZfS0tQNVlUMGNDVHJ4THkzR2VzY19SbEw2ZFF1OTJ5b1VOaTdTSFlmVUxIbjJIQWVnX2syV0FCdnhORThHdmJFbGszT3lfTE5RWnBaRlNGSXRZ?oc=5"
     },
     {
-      "title": "【台股壓力測試】千萬大戶錢進境內基金 九成重押台股科技 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQcFpRbG81WFRoZXZsSnZWLTRMclpUWWlfa19NWGlvNVV6UklfaFpNX1ZiWFc1eDk5Z1ZEN1JFeUhVbnRlb280OThBalRJV1FpRUZMT3lMMDR2cjcwR2dFcms3cVVOZzZJaGtCRnlSOHhCbklQR19EUC10dTA3TndfX3ZuY1pDdHdkWEFwM0laVVVkX3E5MEFvUEJCeDVKRDRNMFZUa3pvRkstVUprc3JLNms5M3UzSHVhM2VlOWlZRURtTzdMVjc2RXNrWi1DbnUtZVA3d3o2bHNBY0ZHTE9XcXhJLWFpRU1aSHJwWHZsUFlsdHp0YTFwcGREaVR2ZjRMSDJITkpnTVBqbDVRdWFmZVlraWJQWmhVRW5HZ0tSeUVHY0hJMXZMNVpaYmV6NmEyUlVETjVDVW9waWxqUlRUNkpncEw2TmFQdENYTlVKX1ZYMzRvNEFpYmxRZkZ5UUdaTUQ1WkZZeE44cTJQQlBVTlRidm9vdw?oc=5"
+      "title": "一週展望：黃金衝上4600後，美伊制裁、傑克遜霍爾、PCE將 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb1VLTDBxa2NvamRmQnVabDZaWnhVWF9fX0dpRmxkYkpmMlR1TVRWdTFKdmptTVNOeTJ3Um9kRVFOQ0JlcUlMWERRaFhMR1pCYkZEV2pfd2FfMkFMbWsySGtERVA1Wl9uUGN4N0pERDA2Y1RTZFAyb0RLUGk2VmlQQ0NyNl9OMTAyU0RHdFpHQQ?oc=5"
     },
     {
-      "title": "DWS 投資黃金貴金屬股票 USD LC 的總覽 | 鉅亨網 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFNSVZTQ2kybUxab2JiUmFnSFpVQWFzQzJBLVZqS0xQT2hZYjRaek1WR3BET3BWRkZNVGJzdXlsTlZZSWg1RWtGY054cGF2bVFySFJkUXVLcWVmamhra1lMaTRDd09OX0Vtc0NfQnFyU19wdUhRUFFNM1dpbmRPeWhWcHZHaXdVQXRwT3NUb0ZjanNUTXV4eWR3RlQwTWRERVFRLWx6U2VSbnFOOE5rcHJ0RU9raXkzdWNMUmZoa2JpOS1UQkxTTm5pWHBUSDc5T2U5SHJYU05uUTJmV1JybENpVQ?oc=5"
+      "title": "定期定額該買0050還是美股ETF？他困惑為何都選「這檔」 內行人曝：績效比較強 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPNHpDSkJvYXYzLXB4NTJ6VlVjbUdjcnRvbHdhWWRGR08yT0NtWDNQQXdGcTZ6S2NPSkVxaENMNG5xdHNfTEpPRTRRZGVoTTVuNTJKMm9TLXhkR2FEdjJVekEzbHFpTFdaTE1SbTh5ZExtTkoyR2Q5OEN2Y291REgyUEd1R1AzODhKdFpVbExQRVp5Qk9GNHVjSHhncFhEUEdUcWp4NHBjVE5iaE9Ma0NjWDloNEpDX1gtc3d2TlVtXzZpajhlZHNmUE9YZk5YVHk4NmdKYjRGaDFKNW5zN3dycVRRLWIwcExZZ3p4Q29IWS16ZGRvUE9HWWpHUksxRWNmQUp1THBnMkJaM1M0cHp0WFlXV3VjQUlBR29qVDZxSG1QaTdRWGl2TDZ1QjNyWjV6ZUV2QWNkaTJfb3RJVWFKRnRRd3l5b29xY1pTdlhfYTg1Z0cwZnAwdmx1bW9VTTdsZkNHdDBwa1UwUHJoMUpGRjYwYy1jMTlCS2hBNm9GLTh5V3h6QWpJaV9OMUYxTEp6cVhrT1hWM24wNlZJLTRzOFJUQzI5QUFTeVJBYURrcldyVnVmLUthVDZB?oc=5"
     }
   ]
 }
