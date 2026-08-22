@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/23 07:19",
+  "updated_tw": "08/23 07:44",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77003.57,
-      "change": -1331.6175,
-      "changePercent": -1.6999
+      "price": 77008.46,
+      "change": -1326.7275,
+      "changePercent": -1.6937
     },
     "ETH": {
-      "price": 2416.53,
-      "change": -98.7517,
-      "changePercent": -3.9261
+      "price": 2420.81,
+      "change": -94.4717,
+      "changePercent": -3.7559
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "牛來？比特幣強彈24% 幣圈大佬看好「這價位 」 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZWw4V1VmZ1ZXeGdPMnFGalAxSGtIUGJPdDc2X1JsQWhtdExXUXN5ZGVvODBHM2kzMldsZFh2enNfb19FSm9yc2dxcDBXb19MODZIUktuTjhJaDVtVThLY1FFT2J2VjVCeWpCOU9oY1BYNEE5WkxzU1VWNE9RQTRTWEpSaFNiSmJpVHJIdjliQjdWYzFWLU4zeGFSaUlPVzU0VGZWWXZ0Z29GcmJhQ3NEVEJ0Zk1WNEszdS1aQWNSQ3QxZllkZDlvRE1Pa2hrLU5pS3BGaVNZUk52b2RnT094RWx4WUc4azVBckhCb1czSXFsckN6eUtXYnRMaTIzUmE5eGZZbXViVWZESkdwRUo4enNyeWpickhCTmc?oc=5"
+      "title": "台股單週下殺586點！國家隊進場「台版VT」逾8千張 再加碼12.6億入手3檔高息ETF - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQUjBmNTVxQjdqb1pNUU0zcEFPTEtDaDczUU9VMzFoelVrR1pSWm9vdnBxVXJkU2VWQ2liR0Q5Z2Rod00wSHZ2OFV6Zm82YmZuMl91RW9QOTRwQV9FVmhNSmFHNG4wMHRBRVltMGJKX0tSQkI0ZWdNbHRZTTFsb2FES0VzdnZ4TW5rWHVxUXhmajJqaUhpTnZjVzY4c0VLSDhtNDhwU2hiS0NFYkFRci1pNjN3Zmhyc0RmMXJzN1B3VVJVVnZKZnFxUERSUW1nOXhfU2htLVdaR2lWRHM0UUhsbTJ2NXZ5aTVkb1lLcXR5eDhzV2JLc3Izbm92Mm13dEZpUW5DVjJ1VW9nZWswQTB2Q2h1QXJReTRKQkNtdThFdXBsQzJHTWUxZGhmeW54M2tKLTNyMGNtMGRiaHB3WHJQdnhtcFdNX1NLVG1zWUM4NjVOcUowcXB1QjNraw?oc=5"
     },
     {
       "title": "「1011閃崩」以來資金流入新高！比特幣現貨 ETF 本週吸金19.178億美元 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MWmlnYXVPS21JYzY0UTV4d0NmeHRac2NpT3RCOC0xVjlwZHdSSEVhMGp4WHJ2VWhVMUZmaDMybXdDdzJ1elZfdHZUSQ?oc=5"
     },
     {
+      "title": "美股收盤／美財部擴大買回長債壓低殖利率 美股小漲 莫德納暴漲177%激勵生技股 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4RVN1ZEZ6SUg5ZE9ZRVV6NWJHeVo1S2lNeE55UW90UEQxMWR6TkN6SXlnMElxMGxkeVFYZUJieFQ5YVRRX3hmOEJHYVpMZUpQbkpIWlh0djJMVjhK0gFiQVVfeXFMUE9JREM1cHNsVTVObXNNQkZFdDdpLXBLdEZ6YUg0dUZtQXF1UVdxYjh2cVIta0dZNDRMY29CZXlscHkwR0ZLcV9Lb0RzQzlncXNuWWRoV2RtX0VPQmtEY013Y0E?oc=5"
+    },
+    {
       "title": "黃金大漲破1紀錄！最新「目標價」出爐 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52RFhJZmJSTDhhRnpjWUhKOFVud2dBSF9IV01lUHBXRk5qMEdxSFhJZ2lSUkNvUjlGT2RudmJHM1ZKclJKVXJKbEM3QldMM3NCb0VleFh2OWpRYmJtNUNR?oc=5"
     },
     {
-      "title": "地緣政治、美債干擾 美股氣勢轉弱 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxc2VHNjZIbWtVSkE1U1dlaHlILXhLRmV6THZsVlcycGxic0Fmd29vWFpxRzhEczJaaTdJRkJzYkVSOHpTbjZ3NnhzZExNWHo3dUJKeFhySy15Z9IBX0FVX3lxTE14X0RvWHJ4SHc3ZXRaYVNZa1hEd21ac3FZX3VJZElVaUFnUGY5T0NCRlp4Tzc1anJtQm1vNm1XN0hmSmlKZTlwRkdsRHFHM0RHVGd3NDJ2d29DRTV3aGk4?oc=5"
-    },
-    {
-      "title": "定期定額該買0050還是美股ETF？他困惑為何都選「這檔」 內行人曝：績效比較強 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPNHpDSkJvYXYzLXB4NTJ6VlVjbUdjcnRvbHdhWWRGR08yT0NtWDNQQXdGcTZ6S2NPSkVxaENMNG5xdHNfTEpPRTRRZGVoTTVuNTJKMm9TLXhkR2FEdjJVekEzbHFpTFdaTE1SbTh5ZExtTkoyR2Q5OEN2Y291REgyUEd1R1AzODhKdFpVbExQRVp5Qk9GNHVjSHhncFhEUEdUcWp4NHBjVE5iaE9Ma0NjWDloNEpDX1gtc3d2TlVtXzZpajhlZHNmUE9YZk5YVHk4NmdKYjRGaDFKNW5zN3dycVRRLWIwcExZZ3p4Q29IWS16ZGRvUE9HWWpHUksxRWNmQUp1THBnMkJaM1M0cHp0WFlXV3VjQUlBR29qVDZxSG1QaTdRWGl2TDZ1QjNyWjV6ZUV2QWNkaTJfb3RJVWFKRnRRd3l5b29xY1pTdlhfYTg1Z0cwZnAwdmx1bW9VTTdsZkNHdDBwa1UwUHJoMUpGRjYwYy1jMTlCS2hBNm9GLTh5V3h6QWpJaV9OMUYxTEp6cVhrT1hWM24wNlZJLTRzOFJUQzI5QUFTeVJBYURrcldyVnVmLUthVDZB?oc=5"
+      "title": "輝達財報、Fed接力登場 美股下週迎2考驗 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNQjNwRmVWZ3o1N0tnalIxRzRPdTlDUFhSa2VndGFRNDBrSkplMWdtZ2Fta0lacTRQRDJFM3Q4NlNkMFpYenhtT281VktqdVEtSkZ3eDJwaV82a042N1NmUkQ4MmUwYVh6QjdGcmZzc0hsblg3akZySDFlNkNrMjVBMkYxcFJ3ZUlzSnQ5bHBfXzJTS0l0NlBiU2pscjM2OUNXRUR5TkJrNU5OeGFCXzlBcVBtbnNzZ084TERMamxfX3I1SURndTlYcGRmQmxiMGtTR2owNE1EbnNBUFNSem9OZ1dJdkFRMm82WFI2b1pWbGNob1I1YWZDUUlCTUNHRUo4c1RmV1N5eWVlbC1tVUFB?oc=5"
     },
     {
       "title": "DWS 投資黃金貴金屬股票 USD LC 的總覽 | 鉅亨網 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFNSVZTQ2kybUxab2JiUmFnSFpVQWFzQzJBLVZqS0xQT2hZYjRaek1WR3BET3BWRkZNVGJzdXlsTlZZSWg1RWtGY054cGF2bVFySFJkUXVLcWVmamhra1lMaTRDd09OX0Vtc0NfQnFyU19wdUhRUFFNM1dpbmRPeWhWcHZHaXdVQXRwT3NUb0ZjanNUTXV4eWR3RlQwTWRERVFRLWx6U2VSbnFOOE5rcHJ0RU9raXkzdWNMUmZoa2JpOS1UQkxTTm5pWHBUSDc5T2U5SHJYU05uUTJmV1JybENpVQ?oc=5"
     },
     {
-      "title": "美股收盤／美財部擴大買回長債壓低殖利率 美股小漲 莫德納暴漲177%激勵生技股 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4RVN1ZEZ6SUg5ZE9ZRVV6NWJHeVo1S2lNeE55UW90UEQxMWR6TkN6SXlnMElxMGxkeVFYZUJieFQ5YVRRX3hmOEJHYVpMZUpQbkpIWlh0djJMVjhK0gFiQVVfeXFMUE9JREM1cHNsVTVObXNNQkZFdDdpLXBLdEZ6YUg0dUZtQXF1UVdxYjh2cVIta0dZNDRMY29CZXlscHkwR0ZLcV9Lb0RzQzlncXNuWWRoV2RtX0VPQmtEY013Y0E?oc=5"
+      "title": "地緣政治、美債干擾 美股氣勢轉弱 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxc2VHNjZIbWtVSkE1U1dlaHlILXhLRmV6THZsVlcycGxic0Fmd29vWFpxRzhEczJaaTdJRkJzYkVSOHpTbjZ3NnhzZExNWHo3dUJKeFhySy15Z9IBX0FVX3lxTE14X0RvWHJ4SHc3ZXRaYVNZa1hEd21ac3FZX3VJZElVaUFnUGY5T0NCRlp4Tzc1anJtQm1vNm1XN0hmSmlKZTlwRkdsRHFHM0RHVGd3NDJ2d29DRTV3aGk4?oc=5"
     },
     {
-      "title": "【台股壓力測試】「第二隻腳」要來了 輝達財報、央行年會三大變數 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOT3BnY3lPLVFCMHhXRzQzOWpoQTlMYVpSaTVaZnZ1dkRJcGVQazZJNmFDTjBpVkdjRVBLclhNcEljbGJFZkJEbVVteW1uWUx0UF9nTi1HS0x2Q2RWRUdkU3lsTzR1ek9ubS1GOGNLWVBaSF9FMW1ndGJqSW5TYmE4bjNIRTc5ODBaWUo1MkluSG1Qal9JSTdlVXg4aEFibUpsUk4xSmdTckx6cXpUMWsxZE5DcVlEdUZSdUVLYXFOcEZELTUzdXU5azc2WG1xZHZZelNWaEN2RnlXd05ZQTlOSTNFSjlJdi1qdDhQZ2RWZjBPa2czZG5lVTVNYkxmR1RTb254UHpvbFBnN2JBcGljbFNOS09ISkZ3V296OENSczdycHlyYjV3VDVWLTFiblY0bmM1V3FkV290eEVJMDNMaGhRZElpWmtkdFE1aWpUTmItWktyWU9YeUk1ZmVYRnpjeGNGbU1aejRtRThMOHVSYWRKQXNjTE95X0N2bkVXaFc4ZGo1?oc=5"
+      "title": "牛來？比特幣強彈24% 幣圈大佬看好「這價位 」 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZWw4V1VmZ1ZXeGdPMnFGalAxSGtIUGJPdDc2X1JsQWhtdExXUXN5ZGVvODBHM2kzMldsZFh2enNfb19FSm9yc2dxcDBXb19MODZIUktuTjhJaDVtVThLY1FFT2J2VjVCeWpCOU9oY1BYNEE5WkxzU1VWNE9RQTRTWEpSaFNiSmJpVHJIdjliQjdWYzFWLU4zeGFSaUlPVzU0VGZWWXZ0Z29GcmJhQ3NEVEJ0Zk1WNEszdS1aQWNSQ3QxZllkZDlvRE1Pa2hrLU5pS3BGaVNZUk52b2RnT094RWx4WUc4azVBckhCb1czSXFsckN6eUtXYnRMaTIzUmE5eGZZbXViVWZESkdwRUo4enNyeWpickhCTmc?oc=5"
     }
   ]
 }
