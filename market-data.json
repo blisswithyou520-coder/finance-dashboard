@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/23 06:19",
+  "updated_tw": "08/23 06:47",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77050.79,
-      "change": -1284.3975,
-      "changePercent": -1.6396
+      "price": 77045.94,
+      "change": -1289.2475,
+      "changePercent": -1.6458
     },
     "ETH": {
-      "price": 2418.06,
-      "change": -97.2217,
-      "changePercent": -3.8652
+      "price": 2415.37,
+      "change": -99.9117,
+      "changePercent": -3.9722
     }
   },
   "fx": {
@@ -129,10 +129,6 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52RFhJZmJSTDhhRnpjWUhKOFVud2dBSF9IV01lUHBXRk5qMEdxSFhJZ2lSUkNvUjlGT2RudmJHM1ZKclJKVXJKbEM3QldMM3NCb0VleFh2OWpRYmJtNUNR?oc=5"
     },
     {
-      "title": "美債壓力湧避險買盤 現貨黃金返4600美元 - 非凡新聞台",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16VWpuZktPbmo3cW9lNWFkNGdkYXNYb00wbFpkOVdMSVY1UmFVZXlKb3V0M2Nhb0N1UWhlZ19vRnYwbThQX2JGUExwQlJjbFVZVURrZDhlMmRJcWc?oc=5"
-    },
-    {
       "title": "地緣政治、美債干擾 美股氣勢轉弱 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxc2VHNjZIbWtVSkE1U1dlaHlILXhLRmV6THZsVlcycGxic0Fmd29vWFpxRzhEczJaaTdJRkJzYkVSOHpTbjZ3NnhzZExNWHo3dUJKeFhySy15Z9IBX0FVX3lxTE14X0RvWHJ4SHc3ZXRaYVNZa1hEd21ac3FZX3VJZElVaUFnUGY5T0NCRlp4Tzc1anJtQm1vNm1XN0hmSmlKZTlwRkdsRHFHM0RHVGd3NDJ2d29DRTV3aGk4?oc=5"
     },
@@ -145,8 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFNSVZTQ2kybUxab2JiUmFnSFpVQWFzQzJBLVZqS0xQT2hZYjRaek1WR3BET3BWRkZNVGJzdXlsTlZZSWg1RWtGY054cGF2bVFySFJkUXVLcWVmamhra1lMaTRDd09OX0Vtc0NfQnFyU19wdUhRUFFNM1dpbmRPeWhWcHZHaXdVQXRwT3NUb0ZjanNUTXV4eWR3RlQwTWRERVFRLWx6U2VSbnFOOE5rcHJ0RU9raXkzdWNMUmZoa2JpOS1UQkxTTm5pWHBUSDc5T2U5SHJYU05uUTJmV1JybENpVQ?oc=5"
     },
     {
-      "title": "台股在「45K」震盪整理被動式ETF換血受矚目| 存股族愛ETF | 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14RXBLSmpuTWZNNmdVMk13M0VXLUdCOXdURC1KYXZEa2JxTXZ2ak8tUmZfc1RBXzFsQ3pWZ2xiTE9SNTZseWd2OTFiR3lLRExZNkR3?oc=5"
+      "title": "美股收盤／美財部擴大買回長債壓低殖利率 美股小漲 莫德納暴漲177%激勵生技股 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4RVN1ZEZ6SUg5ZE9ZRVV6NWJHeVo1S2lNeE55UW90UEQxMWR6TkN6SXlnMElxMGxkeVFYZUJieFQ5YVRRX3hmOEJHYVpMZUpQbkpIWlh0djJMVjhK0gFiQVVfeXFMUE9JREM1cHNsVTVObXNNQkZFdDdpLXBLdEZ6YUg0dUZtQXF1UVdxYjh2cVIta0dZNDRMY29CZXlscHkwR0ZLcV9Lb0RzQzlncXNuWWRoV2RtX0VPQmtEY013Y0E?oc=5"
+    },
+    {
+      "title": "星橋黃金交易爆倉！香港辦公室人去樓空 有投資人帳戶慘歸零 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BRTRPT19FWHdhclkteXVjZHF4WE1sTThSRTdBSmFvYVhKZ1FDcmtZMGpTc0NzTnllSmZYWUdhLTVneHFpZ2VkTXJUM0dlNnhOelNhR0IwREVCN0NaRk40?oc=5"
     }
   ]
 }
