@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/22 16:58",
+  "updated_tw": "08/22 17:33",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77180.66,
-      "change": -1154.5275,
-      "changePercent": -1.4738
+      "price": 77204.87,
+      "change": -1130.3175,
+      "changePercent": -1.4429
     },
     "ETH": {
-      "price": 2424.95,
-      "change": -90.3317,
-      "changePercent": -3.5913
+      "price": 2424.76,
+      "change": -90.5217,
+      "changePercent": -3.5989
     }
   },
   "fx": {
