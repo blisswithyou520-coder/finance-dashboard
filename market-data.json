@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/23 04:20",
+  "updated_tw": "08/23 04:48",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77328.27,
-      "change": -1006.9175,
-      "changePercent": -1.2854
+      "price": 77346.78,
+      "change": -988.4075,
+      "changePercent": -1.2618
     },
     "ETH": {
-      "price": 2439.56,
-      "change": -75.7217,
-      "changePercent": -3.0105
+      "price": 2435.37,
+      "change": -79.9117,
+      "changePercent": -3.177
     }
   },
   "fx": {
@@ -117,16 +117,16 @@
   },
   "news": [
     {
-      "title": "【台股壓力測試】「第二隻腳」要來了 輝達財報、央行年會三大變數 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOT3BnY3lPLVFCMHhXRzQzOWpoQTlMYVpSaTVaZnZ1dkRJcGVQazZJNmFDTjBpVkdjRVBLclhNcEljbGJFZkJEbVVteW1uWUx0UF9nTi1HS0x2Q2RWRUdkU3lsTzR1ek9ubS1GOGNLWVBaSF9FMW1ndGJqSW5TYmE4bjNIRTc5ODBaWUo1MkluSG1Qal9JSTdlVXg4aEFibUpsUk4xSmdTckx6cXpUMWsxZE5DcVlEdUZSdUVLYXFOcEZELTUzdXU5azc2WG1xZHZZelNWaEN2RnlXd05ZQTlOSTNFSjlJdi1qdDhQZ2RWZjBPa2czZG5lVTVNYkxmR1RTb254UHpvbFBnN2JBcGljbFNOS09ISkZ3V296OENSczdycHlyYjV3VDVWLTFiblY0bmM1V3FkV290eEVJMDNMaGhRZElpWmtkdFE1aWpUTmItWktyWU9YeUk1ZmVYRnpjeGNGbU1aejRtRThMOHVSYWRKQXNjTE95X0N2bkVXaFc4ZGo1?oc=5"
-    },
-    {
-      "title": "黃金大漲破1紀錄！最新「目標價」出爐 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52RFhJZmJSTDhhRnpjWUhKOFVud2dBSF9IV01lUHBXRk5qMEdxSFhJZ2lSUkNvUjlGT2RudmJHM1ZKclJKVXJKbEM3QldMM3NCb0VleFh2OWpRYmJtNUNR?oc=5"
+      "title": "牛來？比特幣強彈24% 幣圈大佬看好「這價位 」 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZWw4V1VmZ1ZXeGdPMnFGalAxSGtIUGJPdDc2X1JsQWhtdExXUXN5ZGVvODBHM2kzMldsZFh2enNfb19FSm9yc2dxcDBXb19MODZIUktuTjhJaDVtVThLY1FFT2J2VjVCeWpCOU9oY1BYNEE5WkxzU1VWNE9RQTRTWEpSaFNiSmJpVHJIdjliQjdWYzFWLU4zeGFSaUlPVzU0VGZWWXZ0Z29GcmJhQ3NEVEJ0Zk1WNEszdS1aQWNSQ3QxZllkZDlvRE1Pa2hrLU5pS3BGaVNZUk52b2RnT094RWx4WUc4azVBckhCb1czSXFsckN6eUtXYnRMaTIzUmE5eGZZbXViVWZESkdwRUo4enNyeWpickhCTmc?oc=5"
     },
     {
       "title": "「1011閃崩」以來資金流入新高！比特幣現貨 ETF 本週吸金19.178億美元 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MWmlnYXVPS21JYzY0UTV4d0NmeHRac2NpT3RCOC0xVjlwZHdSSEVhMGp4WHJ2VWhVMUZmaDMybXdDdzJ1elZfdHZUSQ?oc=5"
+    },
+    {
+      "title": "黃金大漲破1紀錄！最新「目標價」出爐 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52RFhJZmJSTDhhRnpjWUhKOFVud2dBSF9IV01lUHBXRk5qMEdxSFhJZ2lSUkNvUjlGT2RudmJHM1ZKclJKVXJKbEM3QldMM3NCb0VleFh2OWpRYmJtNUNR?oc=5"
     },
     {
       "title": "地緣政治、美債干擾 美股氣勢轉弱 - 經濟日報",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16VWpuZktPbmo3cW9lNWFkNGdkYXNYb00wbFpkOVdMSVY1UmFVZXlKb3V0M2Nhb0N1UWhlZ19vRnYwbThQX2JGUExwQlJjbFVZVURrZDhlMmRJcWc?oc=5"
     },
     {
-      "title": "AI超級循環現在進行式台股逢回加碼- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JbGN4X1ZfS0tQNVlUMGNDVHJ4THkzR2VzY19SbEw2ZFF1OTJ5b1VOaTdTSFlmVUxIbjJIQWVnX2syV0FCdnhORThHdmJFbGszT3lfTE5RWnBaRlNGSXRZ?oc=5"
-    },
-    {
       "title": "一週展望：黃金衝上4600後，美伊制裁、傑克遜霍爾、PCE將 - capitalfutures.com.tw",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb1VLTDBxa2NvamRmQnVabDZaWnhVWF9fX0dpRmxkYkpmMlR1TVRWdTFKdmptTVNOeTJ3Um9kRVFOQ0JlcUlMWERRaFhMR1pCYkZEV2pfd2FfMkFMbWsySGtERVA1Wl9uUGN4N0pERDA2Y1RTZFAyb0RLUGk2VmlQQ0NyNl9OMTAyU0RHdFpHQQ?oc=5"
     },
     {
-      "title": "定期定額該買0050還是美股ETF？他困惑為何都選「這檔」 內行人曝：績效比較強 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPNHpDSkJvYXYzLXB4NTJ6VlVjbUdjcnRvbHdhWWRGR08yT0NtWDNQQXdGcTZ6S2NPSkVxaENMNG5xdHNfTEpPRTRRZGVoTTVuNTJKMm9TLXhkR2FEdjJVekEzbHFpTFdaTE1SbTh5ZExtTkoyR2Q5OEN2Y291REgyUEd1R1AzODhKdFpVbExQRVp5Qk9GNHVjSHhncFhEUEdUcWp4NHBjVE5iaE9Ma0NjWDloNEpDX1gtc3d2TlVtXzZpajhlZHNmUE9YZk5YVHk4NmdKYjRGaDFKNW5zN3dycVRRLWIwcExZZ3p4Q29IWS16ZGRvUE9HWWpHUksxRWNmQUp1THBnMkJaM1M0cHp0WFlXV3VjQUlBR29qVDZxSG1QaTdRWGl2TDZ1QjNyWjV6ZUV2QWNkaTJfb3RJVWFKRnRRd3l5b29xY1pTdlhfYTg1Z0cwZnAwdmx1bW9VTTdsZkNHdDBwa1UwUHJoMUpGRjYwYy1jMTlCS2hBNm9GLTh5V3h6QWpJaV9OMUYxTEp6cVhrT1hWM24wNlZJLTRzOFJUQzI5QUFTeVJBYURrcldyVnVmLUthVDZB?oc=5"
+      "title": "【台股壓力測試】千萬大戶錢進境內基金 九成重押台股科技 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQcFpRbG81WFRoZXZsSnZWLTRMclpUWWlfa19NWGlvNVV6UklfaFpNX1ZiWFc1eDk5Z1ZEN1JFeUhVbnRlb280OThBalRJV1FpRUZMT3lMMDR2cjcwR2dFcms3cVVOZzZJaGtCRnlSOHhCbklQR19EUC10dTA3TndfX3ZuY1pDdHdkWEFwM0laVVVkX3E5MEFvUEJCeDVKRDRNMFZUa3pvRkstVUprc3JLNms5M3UzSHVhM2VlOWlZRURtTzdMVjc2RXNrWi1DbnUtZVA3d3o2bHNBY0ZHTE9XcXhJLWFpRU1aSHJwWHZsUFlsdHp0YTFwcGREaVR2ZjRMSDJITkpnTVBqbDVRdWFmZVlraWJQWmhVRW5HZ0tSeUVHY0hJMXZMNVpaYmV6NmEyUlVETjVDVW9waWxqUlRUNkpncEw2TmFQdENYTlVKX1ZYMzRvNEFpYmxRZkZ5UUdaTUQ1WkZZeE44cTJQQlBVTlRidm9vdw?oc=5"
+    },
+    {
+      "title": "DWS 投資黃金貴金屬股票 USD LC 的總覽 | 鉅亨網 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFNSVZTQ2kybUxab2JiUmFnSFpVQWFzQzJBLVZqS0xQT2hZYjRaek1WR3BET3BWRkZNVGJzdXlsTlZZSWg1RWtGY054cGF2bVFySFJkUXVLcWVmamhra1lMaTRDd09OX0Vtc0NfQnFyU19wdUhRUFFNM1dpbmRPeWhWcHZHaXdVQXRwT3NUb0ZjanNUTXV4eWR3RlQwTWRERVFRLWx6U2VSbnFOOE5rcHJ0RU9raXkzdWNMUmZoa2JpOS1UQkxTTm5pWHBUSDc5T2U5SHJYU05uUTJmV1JybENpVQ?oc=5"
     }
   ]
 }
