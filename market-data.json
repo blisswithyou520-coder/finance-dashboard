@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/23 11:01",
+  "updated_tw": "08/23 12:00",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77099.05,
-      "change": -1236.1375,
-      "changePercent": -1.578
+      "price": 76914.73,
+      "change": -1420.4575,
+      "changePercent": -1.8133
     },
     "ETH": {
-      "price": 2416.68,
-      "change": -98.6017,
-      "changePercent": -3.9201
+      "price": 2413.39,
+      "change": -101.8917,
+      "changePercent": -4.0509
     }
   },
   "fx": {
@@ -125,6 +125,10 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SUktoN0kweUJRUFhOeXhSRllXa21UYTFOUnhDZXdMRTZwQ0JfU2JzdnUwT3FwREVCRUcyc2E3TGpGNlRkMFBfVjk5Q0ZKYXY3Y3RVWXlPMGx6SzZGckE?oc=5"
     },
     {
+      "title": "台股漲贏費半！胡睿涵看週四大觀察重點 提醒留意長債風暴 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DYzBEQjRNWTE5cHV6LXlHU3VndlNEQWg2TG1nYnpIVkhkXzR5amthRmpOajZ6Q0lVSnpuOGh6MktWbE5xRWxjYnBzUlVfNGdjaVc1cU9yRk1Yd01SZzJ3?oc=5"
+    },
+    {
       "title": "DWS 投資黃金貴金屬股票 USD LC 的總覽 | 鉅亨網 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFNSVZTQ2kybUxab2JiUmFnSFpVQWFzQzJBLVZqS0xQT2hZYjRaek1WR3BET3BWRkZNVGJzdXlsTlZZSWg1RWtGY054cGF2bVFySFJkUXVLcWVmamhra1lMaTRDd09OX0Vtc0NfQnFyU19wdUhRUFFNM1dpbmRPeWhWcHZHaXdVQXRwT3NUb0ZjanNUTXV4eWR3RlQwTWRERVFRLWx6U2VSbnFOOE5rcHJ0RU9raXkzdWNMUmZoa2JpOS1UQkxTTm5pWHBUSDc5T2U5SHJYU05uUTJmV1JybENpVQ?oc=5"
     },
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREhDSGFndTdFbzRzSkMzRU1aWVV5cDNWbk42Sy1RR3lvUDdmVlpXV3FDTm5icDg2RTQ1VlBub2JzR0lzWjhBS1NjTjhza0pnYUY5QzkwWEhlSGIxelVkc0F4NHVuZlgwalpwZ25jNHJDYzdYQmluaGQ0WElTVHdZdDYxMEJiTkJ3bXF2RGUtdTV3aVhT?oc=5"
     },
     {
-      "title": "本周台股／光輝10月要來了？3大利空先讓行情反覆| 財經掃描 - 聯合報數位版",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1BKRmZsdmNqa1ZrRzlYRnE2U2FQQUNURHFyRml3ay00RjExVjIxbjRySVI0VHdKQ1ZRNFlLSjFYR1ppWUJfZ0dPRzJ1dXppZlpEcUowUkc5Q09ZQkxSV3QzWVRzWmdXZDl0RUxCMnZPZFhkRmhubWVqcGZqSTAtdmdENA?oc=5"
+      "title": "美股收盤／美財部擴大買回長債壓低殖利率 美股小漲 莫德納暴漲177%激勵生技股 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4RVN1ZEZ6SUg5ZE9ZRVV6NWJHeVo1S2lNeE55UW90UEQxMWR6TkN6SXlnMElxMGxkeVFYZUJieFQ5YVRRX3hmOEJHYVpMZUpQbkpIWlh0djJMVjhK0gFiQVVfeXFMUE9JREM1cHNsVTVObXNNQkZFdDdpLXBLdEZ6YUg0dUZtQXF1UVdxYjh2cVIta0dZNDRMY29CZXlscHkwR0ZLcV9Lb0RzQzlncXNuWWRoV2RtX0VPQmtEY013Y0E?oc=5"
     },
     {
       "title": "某巨鲸持有的比特币和以太坊多头头寸盈利2140万美元 - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CcXc4UUJaRHdfdmIyYWNLMnJEZkxvSjVOaEtwbmxnLVhsOThBb0NFMGtQb1F6VDNEaFk2ZEdnem1tRG85aVRjZGxnb1BlSEtKbTU2am51anJwTE9iNjZ3elg0c1ZKZw?oc=5"
     },
     {
-      "title": "AI超級循環現在進行式台股逢回加碼- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JbGN4X1ZfS0tQNVlUMGNDVHJ4THkzR2VzY19SbEw2ZFF1OTJ5b1VOaTdTSFlmVUxIbjJIQWVnX2syV0FCdnhORThHdmJFbGszT3lfTE5RWnBaRlNGSXRZ?oc=5"
-    },
-    {
-      "title": "輝達財報、Fed接力登場 美股下週迎2考驗 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNQjNwRmVWZ3o1N0tnalIxRzRPdTlDUFhSa2VndGFRNDBrSkplMWdtZ2Fta0lacTRQRDJFM3Q4NlNkMFpYenhtT281VktqdVEtSkZ3eDJwaV82a042N1NmUkQ4MmUwYVh6QjdGcmZzc0hsblg3akZySDFlNkNrMjVBMkYxcFJ3ZUlzSnQ5bHBfXzJTS0l0NlBiU2pscjM2OUNXRUR5TkJrNU5OeGFCXzlBcVBtbnNzZ084TERMamxfX3I1SURndTlYcGRmQmxiMGtTR2owNE1EbnNBUFNSem9OZ1dJdkFRMm82WFI2b1pWbGNob1I1YWZDUUlCTUNHRUo4c1RmV1N5eWVlbC1tVUFB?oc=5"
+      "title": "美債壓力湧避險買盤 現貨黃金返4600美元 - 非凡新聞台",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16VWpuZktPbmo3cW9lNWFkNGdkYXNYb00wbFpkOVdMSVY1UmFVZXlKb3V0M2Nhb0N1UWhlZ19vRnYwbThQX2JGUExwQlJjbFVZVURrZDhlMmRJcWc?oc=5"
     }
   ]
 }
