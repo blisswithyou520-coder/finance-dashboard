@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/24 06:19",
+  "updated_tw": "08/24 06:47",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77682.88,
-      "change": 599.4659,
-      "changePercent": 0.7777
+      "price": 77625.27,
+      "change": 541.8559,
+      "changePercent": 0.7029
     },
     "ETH": {
-      "price": 2462.35,
-      "change": 38.0988,
-      "changePercent": 1.5716
+      "price": 2459.78,
+      "change": 35.5288,
+      "changePercent": 1.4656
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4680.6,
-    "twd": 4788.0,
-    "tael": 179560.0,
-    "twdTotal": 148932.0,
-    "changePercent": 1.2219
+    "usd": 4672.4,
+    "twd": 4780.0,
+    "tael": 179246.0,
+    "twdTotal": 148671.0,
+    "changePercent": 1.0445
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,20 @@
   },
   "news": [
     {
+      "title": "2警訊亮燈！美股今年必崩？ - 三立新聞",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1N3Rua2xVNTZhNlh6bXdFWmxCNzZHZTZ3aTVzR3ZqYVBieU1MSjJDd3pjcVNoNmhSWEw0VHNsRkkxZW9JSlJpTEdLMA?oc=5"
+    },
+    {
+      "title": "台股震盪別怕！杜金龍急喊「汰弱留強」：台股回檔，可以加碼這些類股 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOM29GYnhQMHJRNUFlVFhyRXZtTW5OYlRfTHFud05XLTZVZVVaRkh0RXpvX1p5YUtVb0dvd1dwR05Oal9LdFdpYVlqdUpCRGZGYTFaYkF2LXphcmo5WXk4MkNDTzBXS2ZUSmpDUDNiQXVNWDJ3ZjcyZlFwaGk3eGMzRVdJRkpleWlITV9RenpVTkRRemM5RHJ3S2t4UHVFeHNTaVRTbHVEeHVCMzVBTHV3blIxQlluSHdvX0dDMUtpS05ETmlRQW9GTnhiaVpoQUUwX1FmaUladnhuTnMzcENkOGdpakRuUGVDR1NZWmxoWUQ4bl91RUNSREhQendnNHlyOVJnX1QtNERjamhpMEhIcHdxUXpkeGNNZW5EQl9UQkRQTzAwNXZqX1I1RkVLV0RiZHlrcGs5eWVZYU1nOWY4ZWRUSXh0bEhkaUllZVBtQTFvNHNSUFZPNUVsSnBiTnBMX1ZKWEpsQlZEUDU2dDJELW85TVBhOV8zS2tLRi0zc1c1SzVpTGFCeHd3R3UwVHJLeThXS1QyNlB3ckFZ?oc=5"
+    },
+    {
       "title": "黃金期 錢景看俏 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yV1dYekVxbW04d19zZ0I3b2xIbWxZdE9RRkhmRmVLWFFWcWIzUjlIRHZsQjFsdUcxcHVPak9Tc0dqc0p0eHdFUjlZc29mY19D0gFWQVVfeXFMTVgwZDFiMVh0dkNfNkdySTRqV05DYjlyS2d3MDBFaEFibmFnYWEyMlVZVHBwMzJ2eVVtTVJQOGJvdGJKUXVBYWRNbEpXSENmODBJclZKUEE?oc=5"
     },
     {
       "title": "為何比特幣、黃金齊漲？美債回購難穩殖利率、美元走弱引爆「貶值交易」 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DMG9VZ1dVRThmckhOVkNubEZGS2N6Q3BXVWxaWG9FR0hWOU4xMWppb2F4LWhSMmVab0ktRl9XZUF4ckNPNThJbHdXRlJCLTQ?oc=5"
-    },
-    {
-      "title": "台股本周看國際盤三大變數 以盤待變伺機突破大箱型格局 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNNVZMaDdwenZWVjhLeFBFTW5RYTJfazlOR1Nzc2xjQ3BBa2ZqMkg1V3hNZFlLNUc3Z21GSEVEWGpoY1VsWFNSMWl4eWY1UjloczZ0SWN5NEgwcGdsWnFmRVdlRUJGX0FLanhydEF3Rmo4UVVCQkl1SnpPd0VySUlvN3BEWDhjUUQxcUFJeXJHSkZwbnd4bjdkRUpHSEdfQUJRUVdXdEtFbjFnOXBjdDdYbExtT05JWC1QZWR0SGVzRjVtZXFpc09tWDhiZXIxWUNUMndVZmNHejRuM2stcl8xd1BZVXlyaEVfZlhVNVBrdDROU3RCRl9IQjVnb0pIbGlNcVQ0bGZaeENROUdEdE80SklvUmN1YjlhYy02ako3QUdBUnFVcDF6RVExWGZFV2phMEtkS21jd0VRaU4wcTVmOUFYMTJici02c1JDamxUNVljZ0RpTHM5QVhIS090ZjJBZHZJcEtJaGxEdkp3UzJvUkNtYXQtdmdQODY0UUhNM0U?oc=5"
     },
     {
       "title": "TWA00 加權指數- 8/24台股盤前｜45K守不守，看三件事- 股市爆料同學會 - CMoney",
@@ -143,10 +147,6 @@
     {
       "title": "灰度：比特幣當前價格可能為長期投資者提供有利的進場點 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DZFhvRG1yS0dOUXZFemh3TGZPUU9fVXFRbExaa3dPSUt1aUZReEtabkJNQnpLcGMzOFZXMnlNS0F4UG1sS2dET3poSQ?oc=5"
-    },
-    {
-      "title": "台股抗空頭三利多助陣 8月底、9月上旬有望重返47K大關 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMY3dycmVLa1NPRExGdzZXdjRRUlBmbGFGTWdzd1BFRWdhb1I2VWMwUUpfRXFjTk5YV2FrRmhzN1hsNEN3d3FIbXU0T1hTdTcwNzJ0RGNjb1J0UdIBX0FVX3lxTE1hUy1mbW9FZ19KVUN2RzJKS21xRlpWUk9GOHo3UTdFZmhPY21LZ3ZINkxSc3oyT19DZHhvR1pjREVJeFpwbUpINU9rUEZSb05Lb2RNcGFVenltaUpybEQw?oc=5"
     }
   ]
 }
