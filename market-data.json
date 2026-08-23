@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/23 19:27",
+  "updated_tw": "08/23 19:48",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77167.83,
-      "change": 84.4159,
-      "changePercent": 0.1095
+      "price": 77202.21,
+      "change": 118.7959,
+      "changePercent": 0.1541
     },
     "ETH": {
-      "price": 2427.72,
-      "change": 3.4688,
-      "changePercent": 0.1431
+      "price": 2429.89,
+      "change": 5.6388,
+      "changePercent": 0.2326
     }
   },
   "fx": {
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XUUFCVjJkNE9kWXA3WXgzakc2dkx6OVNFQ1duMlFxVFNya1NpWVlWeXhLUGpGQzZOUmt3eVNhYVZaRHhJbG9Qb0Z3dDg1ZXZ4UFhYR3ZxanJYa21hdGpTcFhkT2FqQQ?oc=5"
     },
     {
-      "title": "女誤信「假檢警話術」購大量黃金銀樓遭疑知情未通報- 綜合 - 華視新聞網",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xYTE5WkxvSTV4Y2JXT1VXNDhBZVhFMW93aDh4Z2tfOHBTWmJlanRjOEZRWVZNc2l5SEREM3IxZ29LTTFvNHNzOGUyZjdWQjczb1E0dDZzTVFXRF9YU3JDT2I2YjdVaFo4RjV0dFc2dHg?oc=5"
+      "title": "渣打銀行：比特幣年底10萬美元目標或過低，10月6日後復甦或加速 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXbG96MTUzY1pNRDBjY2NnUV9QNE1YQzdjaDVHRG1xcmpFeVN0Q1A1X3ZNYlpUNnZjY284N1p3NnNXRXlnTHpGNVFEOA?oc=5"
     }
   ]
 }
