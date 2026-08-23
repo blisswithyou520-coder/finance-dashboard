@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/23 15:55",
+  "updated_tw": "08/23 16:30",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75990.21,
-      "change": -1093.2041,
-      "changePercent": -1.4182
+      "price": 76242.39,
+      "change": -841.0241,
+      "changePercent": -1.0911
     },
     "ETH": {
-      "price": 2389.45,
-      "change": -34.8012,
-      "changePercent": -1.4355
+      "price": 2407.43,
+      "change": -16.8212,
+      "changePercent": -0.6939
     }
   },
   "fx": {
@@ -121,24 +121,24 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DZFhvRG1yS0dOUXZFemh3TGZPUU9fVXFRbExaa3dPSUt1aUZReEtabkJNQnpLcGMzOFZXMnlNS0F4UG1sS2dET3poSQ?oc=5"
     },
     {
-      "title": "國內複委託有望跟進？美股12月改23小時交易制 金管會：券商可自行評估 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOOC1OYXdtTldQTEFCZFQtS3NHOXJhdEtxUjlxWlJZalctTzhEUjlHTk9JMzRfcEFHLVpldkIzN3U1ZXJYVm9peF9UejJieWN4ZG9DWTczLUY3SkFFb2dRdjhXLTRsY1lxWkFvei1QV0YyUmNZNnc2YkdTSERFcFJXUmwxRkxGVnFnNnhaQkJycHVQdnloVWlkMTdlT2JWb29kTldlNUt0dm9aSlo0MFF2eHVNWmpES0R0MnRlM1lPaEVsWjA5Y3FhTjFLRzM4X1BRX01SN1puV1lpVlVqVm9ma05yNGNHOE1QeFM5UzlHSEpMVV80NjVEVklKY0U4VElHLWhrQV80dmkzQ2MzaDc4RFl5QUtBNW80V2pVeEdpRW56eEZQSGN6Qm5rQ1FNaHF6UUpwOFJ1V1ljOGJVd0hnWTM2QW91R3RZUnpkLU4zU1pDZlRiVXdRR2Vfdk93WHVHVktaUDJKQkQwNjY1bk1acDNkSkpnWW1ucGVEbW0wVTJ5MmxNa0R6dnplTzMyb3l0YTV1WjZOcUdyLXlLZEMwVVlzQXBWak8zSUFxQzN0R1FucktK?oc=5"
-    },
-    {
       "title": "比特幣多空論戰！機構樂觀看漲，為何 Peter Schiff 堅稱是「假突破」？ - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNWNTR0RtdlBJSko1TjNxX2prSW5BMHdmb1p2M1NGcHdFVkV6TFpYa0VkRUtvQVlKODhYNlJKQnN4OGh3ZFRjSEJlTzlLbWJuem1yX2wyV0ZGYTN4QmVSWDFPX1J2YjA1Uzc5a1BKbHBScGJHbVB4eXI4OE1QbC1CdHRqUXVEREIwajJSa09kdWlfX1RWQ1B5enJMaDc5Rm5XVkNtTQ?oc=5"
     },
     {
-      "title": "安聯投信：台股高檔震盪、輪動墊高 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkbGlwajlJRGFLQjN4UDlrYTAwb04zSG4tM0xNeGIxc1prRGRoa041V1IxS0N2Z0l3ZHdfWUVYV04yRFh3RkVPdDVnMEt5NzBmTTY2UnR1eG40d9IBX0FVX3lxTE1aS3NDaExPVEx6NFk1aGRJOTFuU1FTRHFmc0h2QnNUWTdSUzF3SE1GRGxneGp1ZXZzcG5yNHdjVEV2enlPTkFOMlo2T2I2cWVKdXZxc041STJJNmZlVUs4?oc=5"
+      "title": "國內複委託有望跟進？美股12月改23小時交易制 金管會：券商可自行評估 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOOC1OYXdtTldQTEFCZFQtS3NHOXJhdEtxUjlxWlJZalctTzhEUjlHTk9JMzRfcEFHLVpldkIzN3U1ZXJYVm9peF9UejJieWN4ZG9DWTczLUY3SkFFb2dRdjhXLTRsY1lxWkFvei1QV0YyUmNZNnc2YkdTSERFcFJXUmwxRkxGVnFnNnhaQkJycHVQdnloVWlkMTdlT2JWb29kTldlNUt0dm9aSlo0MFF2eHVNWmpES0R0MnRlM1lPaEVsWjA5Y3FhTjFLRzM4X1BRX01SN1puV1lpVlVqVm9ma05yNGNHOE1QeFM5UzlHSEpMVV80NjVEVklKY0U4VElHLWhrQV80dmkzQ2MzaDc4RFl5QUtBNW80V2pVeEdpRW56eEZQSGN6Qm5rQ1FNaHF6UUpwOFJ1V1ljOGJVd0hnWTM2QW91R3RZUnpkLU4zU1pDZlRiVXdRR2Vfdk93WHVHVktaUDJKQkQwNjY1bk1acDNkSkpnWW1ucGVEbW0wVTJ5MmxNa0R6dnplTzMyb3l0YTV1WjZOcUdyLXlLZEMwVVlzQXBWak8zSUFxQzN0R1FucktK?oc=5"
+    },
+    {
+      "title": "法人：本周台股看44000點到46000點 超過可積極做多 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iVWZ4WjBBZkd0V1dsZGJHWnBaS1kyeGpyU0VzZlFXX21JZzBhbnRBRHVUVW1PMUNJbks2dlRrMmFGTllSZzBWTzFUUTZOWmNw0gFWQVVfeXFMTTVYNXpRemVwUUM4a2hXanEwWnZDWjdqVlVVdTdWMmlRbElfOE94Y3Z0bFc3MlppR2JrbFpTOUlfblQ5clhBZURsOGM5YWZjVnV2Vy1iZmc?oc=5"
+    },
+    {
+      "title": "美股延長交易台灣複委託跟進？金管會：券商自行評估| 證券 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SUktoN0kweUJRUFhOeXhSRllXa21UYTFOUnhDZXdMRTZwQ0JfU2JzdnUwT3FwREVCRUcyc2E3TGpGNlRkMFBfVjk5Q0ZKYXY3Y3RVWXlPMGx6SzZGckE?oc=5"
     },
     {
       "title": "美股收盤》道瓊強彈517點！台積電ADR漲0.71％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZmdWeGNlM2hYMDFqRHBxOXJ2N2dJM3FUb2pPYV9CT0g2azAtOFVPZFJnQUlBc1h4MW1YdGswdWhWMUNSYU9Bc2xxUkhhZWFjMS1vVWN0YmR0dzZUUVZR?oc=5"
-    },
-    {
-      "title": "【美股週報】一根紅棒有代表意義嗎？紅棒背後的裂縫 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yQ2FoeEtFdUtEeHIyY20xN0ZEU1p6SHphS29hcjBzMzA5dXM2ZkpZcGhOQmh2ZWRkVmsxMnBiR1dzTDNBTkt6MUZudDhNZmlqWUxQYmxMNHQ0bG5FWV9oM2wxdEItXzg?oc=5"
     },
     {
       "title": "渣打銀行：比特幣年底10萬美元目標或過低，10月6日後復甦或加速 - 鉅亨網",
