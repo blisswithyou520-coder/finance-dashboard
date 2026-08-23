@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/23 16:30",
+  "updated_tw": "08/23 17:03",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76242.39,
-      "change": -841.0241,
-      "changePercent": -1.0911
+      "price": 76591.0,
+      "change": -492.4141,
+      "changePercent": -0.6388
     },
     "ETH": {
-      "price": 2407.43,
-      "change": -16.8212,
-      "changePercent": -0.6939
+      "price": 2414.76,
+      "change": -9.4912,
+      "changePercent": -0.3915
     }
   },
   "fx": {
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iVWZ4WjBBZkd0V1dsZGJHWnBaS1kyeGpyU0VzZlFXX21JZzBhbnRBRHVUVW1PMUNJbks2dlRrMmFGTllSZzBWTzFUUTZOWmNw0gFWQVVfeXFMTTVYNXpRemVwUUM4a2hXanEwWnZDWjdqVlVVdTdWMmlRbElfOE94Y3Z0bFc3MlppR2JrbFpTOUlfblQ5clhBZURsOGM5YWZjVnV2Vy1iZmc?oc=5"
     },
     {
+      "title": "比特幣、以太幣現貨 ETF 本週吸金 26 億美元，創去年 10 月來最強 - 動區動趨",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVjY5Vno3RGZBLVR4ZUpZWEdvUzJMN0FHdjdYTlp2MDRVOUFuNW1iUFhsS3ZuMnhWMmdHNFl0N0hfXzZibkZlQUJQNTg0MURhaDNCMjV1bmtuODcxVFd4THlUZFBtWEVQYklYNnVsNmYxaktJUjhqLTJtVzRRdE1iY3dSSkVqOXo4NjVKN0dhVTBSdUU?oc=5"
+    },
+    {
+      "title": "数据：上市公司与美国比特币现货ETP购买量是新增供应量3.6倍 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XUUFCVjJkNE9kWXA3WXgzakc2dkx6OVNFQ1duMlFxVFNya1NpWVlWeXhLUGpGQzZOUmt3eVNhYVZaRHhJbG9Qb0Z3dDg1ZXZ4UFhYR3ZxanJYa21hdGpTcFhkT2FqQQ?oc=5"
+    },
+    {
       "title": "美股延長交易台灣複委託跟進？金管會：券商自行評估| 證券 - cna.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SUktoN0kweUJRUFhOeXhSRllXa21UYTFOUnhDZXdMRTZwQ0JfU2JzdnUwT3FwREVCRUcyc2E3TGpGNlRkMFBfVjk5Q0ZKYXY3Y3RVWXlPMGx6SzZGckE?oc=5"
     },
     {
       "title": "美股收盤》道瓊強彈517點！台積電ADR漲0.71％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZmdWeGNlM2hYMDFqRHBxOXJ2N2dJM3FUb2pPYV9CT0g2azAtOFVPZFJnQUlBc1h4MW1YdGswdWhWMUNSYU9Bc2xxUkhhZWFjMS1vVWN0YmR0dzZUUVZR?oc=5"
-    },
-    {
-      "title": "渣打銀行：比特幣年底10萬美元目標或過低，10月6日後復甦或加速 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXbG96MTUzY1pNRDBjY2NnUV9QNE1YQzdjaDVHRG1xcmpFeVN0Q1A1X3ZNYlpUNnZjY284N1p3NnNXRXlnTHpGNVFEOA?oc=5"
-    },
-    {
-      "title": "【台股壓力測試】千萬大戶錢進境內基金 九成重押台股科技族群 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPa2pTbzFzdVladk50bThxXzljaEsxZlpsbk5oMGd6SVIyX2pubnlBczVQYVAyM3lMUVlLb0g0b3pkMzlDdGtEbk9NVGVxb3oxTmtMcUliQmpZTjVpR2N4aWdYUVFiVWVTVGdLUGw1SXFOTnJTMDBhUjZDTUluVm0yLTNjWHp6Z2tOdFFVamdzcFotTDFKcnR1M0ZRT2lfZE1nVTBCNjAxbFJURHBEZEJUZ3AwTktvOV95TU56aVhpZUhLbFBFT0FEa0tlTkJUQlNyQnpWb0ppMzlYUVRKekFSSm55TzJNUVZPTHdyQnd3UjJHR25lcVZBWUZ3WmR1WGoxSFYwb2g5blhHZHNMTld1YTQ4Wko5UDRidGpxS2JWSzlOZndtYUFxc2ZSRGpmQWVacUFiN1NoYm1pWnhDSWljckhuU3RPTzhkWVBRVkR0bXIyLW5tbVFpT1poeFRZS3J5RFhWd3MzcmxKVDVxcGtRdm1LZ2lTUkxiQWlnUEdJeFZqVC1VelFpaWEtalRWUQ?oc=5"
     }
   ]
 }
