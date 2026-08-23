@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/23 21:53",
+  "updated_tw": "08/23 22:21",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77365.59,
-      "change": 282.1759,
-      "changePercent": 0.3661
+      "price": 77482.08,
+      "change": 398.6659,
+      "changePercent": 0.5172
     },
     "ETH": {
-      "price": 2452.6,
-      "change": 28.3488,
-      "changePercent": 1.1694
+      "price": 2463.22,
+      "change": 38.9688,
+      "changePercent": 1.6075
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.82,
-      "change": -0.0183,
-      "changePercent": -0.0575
+      "price": 31.823,
+      "change": -0.0153,
+      "changePercent": -0.0481
     },
     "JPYTWD": {
       "price": 0.1977,
@@ -99,16 +99,16 @@
       "changePercent": 0.0075
     },
     "CNYTWD": {
-      "price": 4.7383,
+      "price": 4.7418,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
     "usd": 4680.6,
-    "twd": 4788.0,
-    "tael": 179566.0,
-    "twdTotal": 148937.0,
+    "twd": 4789.0,
+    "tael": 179583.0,
+    "twdTotal": 148951.0,
     "changePercent": 3.6379
   },
   "fed": {
@@ -121,8 +121,8 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DZFhvRG1yS0dOUXZFemh3TGZPUU9fVXFRbExaa3dPSUt1aUZReEtabkJNQnpLcGMzOFZXMnlNS0F4UG1sS2dET3poSQ?oc=5"
     },
     {
-      "title": "台股4檔明起被「抓去關」！「這光通訊飆股」入列、世紀連飆6根漲停也中鏢 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQVzQyVGw3TlpTVnNCN3NqR05vbnJWREZna2hzTHRscWtnSm9HYkhZVVR6T1Z0SWU3RFlTRG1GQUEtYjdxNXFxcVpKUGViX2l4c3dxdjBvUU5raXU3c1o2Nkp2RWZSU2N6ckY4ZG1EaXN5QmlwSGtoZm5td3U0MTdrN0NMSVFUVGdNNXdKcC1Qb3RualNiLTdTaHZQaWRHV0NHUWN5TDZNQkRzY0Jub2d0WVpmUXQ0eFJhU3lJajIwRzI5WkZHTS05OEFnZGowRFNvSTBRSXpiVFJPbk90c1R0aUNOLWVoYlNRUTV2OG9RSDdXb3Z2SHY5SG5tN3V0RVpLTzc3d040YzhRYVdTTUw5NGlzMU44clBSbGU5LVBPdHZyd1R6cWY3d0YzZ01ISXF2cGtaaXk3Mi04T3JZTGZMZk9aUmdYM3JyYXVjS1hzME82Zy1RM1pUQVcyVHdFeVVmUHcyb0dBdkc4Smx5ZzJoM19pSWY2NmxoTjIxbWhfMm5VTVRBLTdYTTI5ZGhjd2FIZWtYMGI5OHlwcHQwNU5TUTV4dDdfd0E?oc=5"
+      "title": "台股週線收黑 明開盤前3風險 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQb2ozZkh0M2puYzBGQ2MwY25vb2kzR0k3WkNKeUVuWDhqcW5mMDk4MmhXX0I1Qk00dXJwb0JfdTl1RjZPUGhiU3NzYjJHM2NDMkxmTTZ2X2JFWDdXYVJGbFRZcjlfZ21LV0R3d3VGc3VkQzNUNHljUkJmMWR4b0kwRkRvWkhCQVM2ZG1WR3RfTUhFM2J5aVJ3LTdSbjlkenAtTzhDaHdlX0RpNFVtb0NnT0JtMjZtMndUS0l0d0tZcm5Ca0xGdEdWWVdiYWtmbFFtWDZtNXAxS3FrbGNtTzBOWm5waU8xZw?oc=5"
     },
     {
       "title": "比特幣多空論戰！機構樂觀看漲，為何 Peter Schiff 堅稱是「假突破」？ - 區塊客",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQVGtONTl6NmthMGd0d0EzcWVKeVVKa2V4WUVXZWk2ZV84RDN2Q01jd0djRk5mcDdCMENqSTAyWm9wajJEMkNzejZDTExwcUJNVktaYTBWUnRkejZMWFFGdU1NSUV3Sjk3akM3b216TmVLYm05TzNVQXhjaFZPTEZQTDJZeGVJdEVTOEwySmJVdUdsbEUxSEkyZldfN044LUNMNlNqS3FOS0ljVG5SVUlNV01kRS1IdWFaVHpaZFhJQkZGTE1YNmVrRFNLRXBHZFdsYjVEZkNpdWNBY3VXbVZ3anZyNUtvNE5QMVJNNnZ6NktYejRfOUpJblg4TWV0akJHQXgtdzFuVnBkQ3hTdjF4cVhUVmV4QUdsMWJFRTJ0bjE4QTN5RGNveFdyY0piQkFRVk02cU51bWJ6U3M1djNNcHJTVG5BZWxnQjAyRi1oam1SLWJaa19CVGxEeTZPRXBZblg3MjJUSVFnWkpYaWNtbTN4ZEhlUWNVRjV3SA?oc=5"
     },
     {
-      "title": "比特幣為何突然暴漲？能否突破8萬美元需觀察這「三項指標」 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82Z0VCb0dfTEp3cTZSS0xHZDJTSGtkOTZlRU84Qk9wdDJyQ2V4Zk05SFV4Qm4tMkMzeHlQOGZTMF9xRW45c3psakpLZXNweWM?oc=5"
+      "title": "台股衝高先賣再分批買回？專家一算數據傻眼了 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQenBlcDJaTGwtcU1LU0FnRzdmVEliZFEtcGd3RmI3MTVYQ0g0WjAySV92VTcxR0pNRVJLRXRnXzQ1SUpBU1gzUkFmMFdZUjNzTk8zSFh6UVhRSEJobDRDeTlRNVZTcmh3TkZvS2tGTFNjWm5FWFhOM3R3NURhLVhCMGNsdVlYNWp0LTk0ZnZMa2tsRGhWRXJ3TWdSQ0R4Vk5OWFZNS1A2YVJCSWlYLVJlNFRqQzNXSjhmYnJBREZ0NE9nbHVlYk51Y2VTVWhGNkJKOEZQNHVvSmJFX1dSTzU0SkltT3RvMkRzYWpDOFBLdDItNHRFSjdWTDR3NS1ON2xDQklOSEd1ZGVzS1QzUm9lS2tRN0dCaEVKX29GaUMydXJGWFI2QVFjYk80amtLQm1QaG9jV0t1VHhMZw?oc=5"
     }
   ]
 }
