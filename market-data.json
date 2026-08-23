@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/23 22:21",
+  "updated_tw": "08/23 22:49",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77482.08,
-      "change": 398.6659,
-      "changePercent": 0.5172
+      "price": 77137.29,
+      "change": 53.8759,
+      "changePercent": 0.0699
     },
     "ETH": {
-      "price": 2463.22,
-      "change": 38.9688,
-      "changePercent": 1.6075
+      "price": 2431.67,
+      "change": 7.4188,
+      "changePercent": 0.306
     }
   },
   "fx": {
@@ -115,38 +115,5 @@
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": [
-    {
-      "title": "灰度：比特幣當前價格可能為長期投資者提供有利的進場點 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DZFhvRG1yS0dOUXZFemh3TGZPUU9fVXFRbExaa3dPSUt1aUZReEtabkJNQnpLcGMzOFZXMnlNS0F4UG1sS2dET3poSQ?oc=5"
-    },
-    {
-      "title": "台股週線收黑 明開盤前3風險 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQb2ozZkh0M2puYzBGQ2MwY25vb2kzR0k3WkNKeUVuWDhqcW5mMDk4MmhXX0I1Qk00dXJwb0JfdTl1RjZPUGhiU3NzYjJHM2NDMkxmTTZ2X2JFWDdXYVJGbFRZcjlfZ21LV0R3d3VGc3VkQzNUNHljUkJmMWR4b0kwRkRvWkhCQVM2ZG1WR3RfTUhFM2J5aVJ3LTdSbjlkenAtTzhDaHdlX0RpNFVtb0NnT0JtMjZtMndUS0l0d0tZcm5Ca0xGdEdWWVdiYWtmbFFtWDZtNXAxS3FrbGNtTzBOWm5waU8xZw?oc=5"
-    },
-    {
-      "title": "比特幣多空論戰！機構樂觀看漲，為何 Peter Schiff 堅稱是「假突破」？ - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNWNTR0RtdlBJSko1TjNxX2prSW5BMHdmb1p2M1NGcHdFVkV6TFpYa0VkRUtvQVlKODhYNlJKQnN4OGh3ZFRjSEJlTzlLbWJuem1yX2wyV0ZGYTN4QmVSWDFPX1J2YjA1Uzc5a1BKbHBScGJHbVB4eXI4OE1QbC1CdHRqUXVEREIwajJSa09kdWlfX1RWQ1B5enJMaDc5Rm5XVkNtTQ?oc=5"
-    },
-    {
-      "title": "法人：本周台股看44000點到46000點 超過可積極做多 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RNWdyTFVRR3F3SkJQcWtSRlBvVHoyRVRjbkJhQ0hoSS0wQXpkemtjLW1YakE0alhTdUNtX0RGNzVGX2pjcEsza0Exbzc5bVdFN09NQngxSkZzZ9IBX0FVX3lxTE45MVNVbWtHVnpLVmhYSUJXQUdwSHhsaFZVVnY1UFB5Vm9wVldmU25YdFE4T1Q2ZUZ6cllMZEczWE5NWGRmWUZvcVpCMHdVdGt4c196ZlBoMVBhajVwSVRn?oc=5"
-    },
-    {
-      "title": "比特幣、以太幣現貨 ETF 本週吸金 26 億美元，創去年 10 月來最強 - 動區動趨",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVjY5Vno3RGZBLVR4ZUpZWEdvUzJMN0FHdjdYTlp2MDRVOUFuNW1iUFhsS3ZuMnhWMmdHNFl0N0hfXzZibkZlQUJQNTg0MURhaDNCMjV1bmtuODcxVFd4THlUZFBtWEVQYklYNnVsNmYxaktJUjhqLTJtVzRRdE1iY3dSSkVqOXo4NjVKN0dhVTBSdUU?oc=5"
-    },
-    {
-      "title": "TWA00 加權指數- 法人：本周台股看44000點到46000點超過可積極做多- 股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHSGdpVFM3U21qcUNLRHhnSmVfaGtOVlo2UzUwakJsd09SSElrT1lnUF9KQkVLS0FGZlhaenB0OGFqUmdXNVJFbDhzNG5RZi1JTFY2dURScXo?oc=5"
-    },
-    {
-      "title": "【iPhone撐幾年換最划算？業者曝「黃金週期」】 我還在愛鳳13 ...（#豬頭皮） - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQVGtONTl6NmthMGd0d0EzcWVKeVVKa2V4WUVXZWk2ZV84RDN2Q01jd0djRk5mcDdCMENqSTAyWm9wajJEMkNzejZDTExwcUJNVktaYTBWUnRkejZMWFFGdU1NSUV3Sjk3akM3b216TmVLYm05TzNVQXhjaFZPTEZQTDJZeGVJdEVTOEwySmJVdUdsbEUxSEkyZldfN044LUNMNlNqS3FOS0ljVG5SVUlNV01kRS1IdWFaVHpaZFhJQkZGTE1YNmVrRFNLRXBHZFdsYjVEZkNpdWNBY3VXbVZ3anZyNUtvNE5QMVJNNnZ6NktYejRfOUpJblg4TWV0akJHQXgtdzFuVnBkQ3hTdjF4cVhUVmV4QUdsMWJFRTJ0bjE4QTN5RGNveFdyY0piQkFRVk02cU51bWJ6U3M1djNNcHJTVG5BZWxnQjAyRi1oam1SLWJaa19CVGxEeTZPRXBZblg3MjJUSVFnWkpYaWNtbTN4ZEhlUWNVRjV3SA?oc=5"
-    },
-    {
-      "title": "台股衝高先賣再分批買回？專家一算數據傻眼了 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQenBlcDJaTGwtcU1LU0FnRzdmVEliZFEtcGd3RmI3MTVYQ0g0WjAySV92VTcxR0pNRVJLRXRnXzQ1SUpBU1gzUkFmMFdZUjNzTk8zSFh6UVhRSEJobDRDeTlRNVZTcmh3TkZvS2tGTFNjWm5FWFhOM3R3NURhLVhCMGNsdVlYNWp0LTk0ZnZMa2tsRGhWRXJ3TWdSQ0R4Vk5OWFZNS1A2YVJCSWlYLVJlNFRqQzNXSjhmYnJBREZ0NE9nbHVlYk51Y2VTVWhGNkJKOEZQNHVvSmJFX1dSTzU0SkltT3RvMkRzYWpDOFBLdDItNHRFSjdWTDR3NS1ON2xDQklOSEd1ZGVzS1QzUm9lS2tRN0dCaEVKX29GaUMydXJGWFI2QVFjYk80amtLQm1QaG9jV0t1VHhMZw?oc=5"
-    }
-  ]
+  "news": []
 }
