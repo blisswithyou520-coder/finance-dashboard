@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/24 07:19",
+  "updated_tw": "08/24 07:45",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77585.69,
-      "change": 502.2759,
-      "changePercent": 0.6516
+      "price": 77492.48,
+      "change": 409.0659,
+      "changePercent": 0.5307
     },
     "ETH": {
-      "price": 2455.74,
-      "change": 31.4888,
-      "changePercent": 1.2989
+      "price": 2454.37,
+      "change": 30.1188,
+      "changePercent": 1.2424
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.819,
-      "change": -0.0193,
-      "changePercent": -0.0606
+      "price": 31.821,
+      "change": -0.0173,
+      "changePercent": -0.0543
     },
     "JPYTWD": {
-      "price": 0.198,
-      "change": -0.0023,
-      "changePercent": -1.1705
+      "price": 0.1979,
+      "change": -0.0024,
+      "changePercent": -1.2204
     },
     "EURTWD": {
-      "price": 37.196,
-      "change": -0.0152,
-      "changePercent": -0.0409
+      "price": 37.198,
+      "change": -0.0132,
+      "changePercent": -0.0355
     },
     "CNYTWD": {
-      "price": 4.7377,
+      "price": 4.7415,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4664.8,
-    "twd": 4772.0,
-    "tael": 178954.0,
-    "twdTotal": 148429.0,
-    "changePercent": 0.8802
+    "usd": 4675.4,
+    "twd": 4783.0,
+    "tael": 179372.0,
+    "twdTotal": 148776.0,
+    "changePercent": 1.1094
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,16 @@
   },
   "news": [
     {
-      "title": "《美股》比特幣強 那指漲 等輝達財報、華許談話-新聞內容-基金 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0FzYXdsRlh5V0tFU256UE9iblFBaWwxaWdFZktxREtTMGZXSGNhU2JzdjRDX0RjSGItRnRabmFhSmZDZDFRNUxhdnlUbFYxQmFpRnNoVFRJT3EzQzdfX09USHN0YXRhMFFQV01iNFlOcEdoUU81al8yWGtkcUhIdmo4cVd0Z25rTnF4OFgzaFU?oc=5"
+      "title": "《貴金屬》COMEX黃金上漲2.4% ETF持倉增加-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaHBhb05HUHYyWHIzNkpfU2tNRF9tYlI3dVVncGpWNkd1SVg0WlFnQ1g4cXozRXJQUTMtaHZyZGVIeVRPbk4tVThaX0Z1ejZPSVMtZVlNcWxNeURIenJaQUdlMDdQZlBHZldhWTV6N1dEMTM5ZWI0TTZ2alg2azkwSE1ic3puaHFHUHY1VzJxVW8?oc=5"
     },
     {
-      "title": "2警訊亮燈！美股今年必崩？ - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY3VQZjJzVEdjQkkyTGlqOHFsZmwyc2J3RWhBUDltVHhkS0dnNEp1eGZXZjdsMVRpSncxYWxNaWUzVVM4M3dXaHhhYm5TbVd0ZDNEbW0zWmFsV3hxUHZ4S2ZwU2RraVlNY0dsX0YxUm8yd1pfZlJ0ZDE0Ylo1N0JzSFpqMFdzeDdHN2c2eUdHRkxUaDFrakxoOFU5T1d4QWxFc2FObl9YejFOaURac0tNZmhWbS11bkFmYVlRSWFWaTF2c1ZUam8wZ1g5N2JaZw?oc=5"
+      "title": "台股缺量2／輝達財報＋央行年會來了！台股本週先「停看聽」 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxObzl5cEZZQ3VTNHVrY0JyOEFlV1c2ejlBYkhSdVBadDdrdi1yWHFob3pldVd2U25nNUE1UHRiM1hrRGtZRHhKc2VRTjg1ellJdGJwOTZxeVdRTVRTd2gzcTBvWUtYVHVEWWQwWVpPWkZ0QUhhTzZmWFo3c3k2amdIeHhJNlRKNG93dXlXOHVKc2d3ZjZYSXB4b2NxQnRWVUdpOHdfX1dydDRpdXg1a3BLNU9oZTNCWEZGUWlWTzhfUFJxUDgtSW50NmpOQ3ktbHVSOFFLclh1MnNNWGxyMVAtT0Y2aHA0UVZRc3hSMVRWSkxhQ0FLRy1pSFRyWTc5ZzRTeE01YUJrVnpLSF9jUG5QYUV3MHdUcGcwLUJwUzNmc0YxdS12RTZRSThsZ2tuUER3eUw2RDZzeFJtM1N3MHlheUtQbzJNNDNPYUUtdHBEOGd1OExfSXpqRXdGOXEwejBITFE?oc=5"
+    },
+    {
+      "title": "金十數據全球財經早餐 | 2026年8月24日 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXRZQWF4MHM1RW82eHJ3d3IxUjIxWFBDQTJiQlFOU3BCS09qVmh2aHNwMVdTaW81NDRRWF9OS2x4MEpCazdySXVFR2ZBWnBYbVV2LXVMZWVMcEFJUk0zRzBvXzVlUHNtTzhlV3VKQl92U19sbzdmUjBnNEk3QUUxOWUyN01YMW1xLTFRd3VIWQ?oc=5"
     },
     {
       "title": "黃金期 錢景看俏 - UDN",
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DMG9VZ1dVRThmckhOVkNubEZGS2N6Q3BXVWxaWG9FR0hWOU4xMWppb2F4LWhSMmVab0ktRl9XZUF4ckNPNThJbHdXRlJCLTQ?oc=5"
     },
     {
+      "title": "《美股》比特幣強那指漲等輝達財報、華許談話- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qRjlya0xHSmd6RExaMlBUaWlLZldzMl9ialplWWgxb1d1TU05RnVWTmdkQm9VQjVmNDd2LVdPZFkwWDk3aUV0cG9kYUpJN1VtNkN4VmVjNUlEMXVfbnNB?oc=5"
+    },
+    {
       "title": "TWA00 加權指數- 8/24台股盤前｜45K守不守，看三件事- 股市爆料同學會 - CMoney",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VMEJBLUxVNExhQTRlN1F4VjhkcnpSNERMdmdGenp4YVNXQTgwTjJYS1NHT0dGZW9MZ0lhS3luNVAweGJ2cE45dmtFY0JLVHB6MjhQOUdlUlk?oc=5"
     },
     {
-      "title": "《貴金屬》COMEX黃金上漲2.4% ETF持倉增加-新聞內容-基金 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaHBhb05HUHYyWHIzNkpfU2tNRF9tYlI3dVVncGpWNkd1SVg0WlFnQ1g4cXozRXJQUTMtaHZyZGVIeVRPbk4tVThaX0Z1ejZPSVMtZVlNcWxNeURIenJaQUdlMDdQZlBHZldhWTV6N1dEMTM5ZWI0TTZ2alg2azkwSE1ic3puaHFHUHY1VzJxVW8?oc=5"
-    },
-    {
-      "title": "台股一週蒸發近1.9兆！大盤跌587點 這族群卻暴漲13%成贏家 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOX0s0TVhKMHdEci1VUFNXV2I0T1NpUXZWdGxVUXIyQTJfazFjR2p5M3d6YVlWTDVDSFlqWUY3dGRsTHYxZXA5MXIwRXd0ZHA0LVZYcE9KVS1nN1RPTXNUbmxkNTFod1RNY2RvWmN2Y19ZbmNpU0FzSVVhdFlWT2dvNWJCSFlqY3NKYnVJeGxfZTdvZWlMVkI0Q2RRRlJUc3dIbFlpYzZDQ1o1SklacTJzaFpvMmJkN3Q2UVdreWoyY29aV0ZEUjRsbWo4YWNFNXNZdUVpTzRheWFFQWNzakJZcGQtZnp5ZkZmMG5TbGN2TjRyYjQtTWx1Qk9WZk90ME1jUHhFcEVaSVFmQVU2MGliODdKWHN6MmNBYlBQSVZNOEQ1UHBLc21xaGdfbVNzdw?oc=5"
-    },
-    {
-      "title": "台股抗空頭三利多助陣 8月底、9月上旬有望重返47K大關 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMY3dycmVLa1NPRExGdzZXdjRRUlBmbGFGTWdzd1BFRWdhb1I2VWMwUUpfRXFjTk5YV2FrRmhzN1hsNEN3d3FIbXU0T1hTdTcwNzJ0RGNjb1J0UdIBX0FVX3lxTE1hUy1mbW9FZ19KVUN2RzJKS21xRlpWUk9GOHo3UTdFZmhPY21LZ3ZINkxSc3oyT19DZHhvR1pjREVJeFpwbUpINU9rUEZSb05Lb2RNcGFVenltaUpybEQw?oc=5"
+      "title": "《美股》比特幣強那指漲等輝達財報、華許談話- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUk80U19YZ2tKUGZ5Yk9EckVycXJCcnNCZUhiY043TlBsU3R2bGluRXFUbWZheWZWRTVvRHZIay1fMDNCQ21oRU5CXzBwWlBTRzMxNURhMzFpaVpOOFo3eTc1a3VoN2piemJSVFhEblRKYXlWQ0pxYnZkTkgzYUx4bm5HSTdmS0ZuSHcyVWp3aWI5Zw?oc=5"
     }
   ]
 }
