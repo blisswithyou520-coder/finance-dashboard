@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/23 17:03",
+  "updated_tw": "08/23 17:42",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76591.0,
-      "change": -492.4141,
-      "changePercent": -0.6388
+      "price": 76541.99,
+      "change": -541.4241,
+      "changePercent": -0.7024
     },
     "ETH": {
-      "price": 2414.76,
-      "change": -9.4912,
-      "changePercent": -0.3915
+      "price": 2410.8,
+      "change": -13.4512,
+      "changePercent": -0.5549
     }
   },
   "fx": {
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVjY5Vno3RGZBLVR4ZUpZWEdvUzJMN0FHdjdYTlp2MDRVOUFuNW1iUFhsS3ZuMnhWMmdHNFl0N0hfXzZibkZlQUJQNTg0MURhaDNCMjV1bmtuODcxVFd4THlUZFBtWEVQYklYNnVsNmYxaktJUjhqLTJtVzRRdE1iY3dSSkVqOXo4NjVKN0dhVTBSdUU?oc=5"
     },
     {
+      "title": "TWA00 加權指數- 法人：本周台股看44000點到46000點超過可積極做多- 股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHSGdpVFM3U21qcUNLRHhnSmVfaGtOVlo2UzUwakJsd09SSElrT1lnUF9KQkVLS0FGZlhaenB0OGFqUmdXNVJFbDhzNG5RZi1JTFY2dURScXo?oc=5"
+    },
+    {
       "title": "数据：上市公司与美国比特币现货ETP购买量是新增供应量3.6倍 - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XUUFCVjJkNE9kWXA3WXgzakc2dkx6OVNFQ1duMlFxVFNya1NpWVlWeXhLUGpGQzZOUmt3eVNhYVZaRHhJbG9Qb0Z3dDg1ZXZ4UFhYR3ZxanJYa21hdGpTcFhkT2FqQQ?oc=5"
     },
     {
       "title": "美股延長交易台灣複委託跟進？金管會：券商自行評估| 證券 - cna.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SUktoN0kweUJRUFhOeXhSRllXa21UYTFOUnhDZXdMRTZwQ0JfU2JzdnUwT3FwREVCRUcyc2E3TGpGNlRkMFBfVjk5Q0ZKYXY3Y3RVWXlPMGx6SzZGckE?oc=5"
-    },
-    {
-      "title": "美股收盤》道瓊強彈517點！台積電ADR漲0.71％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZmdWeGNlM2hYMDFqRHBxOXJ2N2dJM3FUb2pPYV9CT0g2azAtOFVPZFJnQUlBc1h4MW1YdGswdWhWMUNSYU9Bc2xxUkhhZWFjMS1vVWN0YmR0dzZUUVZR?oc=5"
     }
   ]
 }
