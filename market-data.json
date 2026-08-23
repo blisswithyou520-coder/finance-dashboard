@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/23 23:46",
+  "updated_tw": "08/24 00:23",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77209.87,
-      "change": 126.4559,
-      "changePercent": 0.1641
+      "price": 77259.1,
+      "change": 175.6859,
+      "changePercent": 0.2279
     },
     "ETH": {
-      "price": 2446.5,
-      "change": 22.2488,
-      "changePercent": 0.9178
+      "price": 2444.51,
+      "change": 20.2588,
+      "changePercent": 0.8357
     }
   },
   "fx": {
@@ -133,10 +133,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNWNTR0RtdlBJSko1TjNxX2prSW5BMHdmb1p2M1NGcHdFVkV6TFpYa0VkRUtvQVlKODhYNlJKQnN4OGh3ZFRjSEJlTzlLbWJuem1yX2wyV0ZGYTN4QmVSWDFPX1J2YjA1Uzc5a1BKbHBScGJHbVB4eXI4OE1QbC1CdHRqUXVEREIwajJSa09kdWlfX1RWQ1B5enJMaDc5Rm5XVkNtTQ?oc=5"
     },
     {
-      "title": "風向變了！金融三業6月大砍台股757億 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sUFJrUWhHT2tyY00wdTRPenB1QUVaS1RnREp2N1Mtek9KVVd1ek8tOWhyVEQzd09ZY284d19TR2h4RUNpZnFGUEphWGVrYkliUnVHVFhETU9vTXhSMjFF?oc=5"
-    },
-    {
       "title": "比特幣、以太幣現貨 ETF 本週吸金 26 億美元，創去年 10 月來最強 - 動區動趨",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVjY5Vno3RGZBLVR4ZUpZWEdvUzJMN0FHdjdYTlp2MDRVOUFuNW1iUFhsS3ZuMnhWMmdHNFl0N0hfXzZibkZlQUJQNTg0MURhaDNCMjV1bmtuODcxVFd4THlUZFBtWEVQYklYNnVsNmYxaktJUjhqLTJtVzRRdE1iY3dSSkVqOXo4NjVKN0dhVTBSdUU?oc=5"
     },
@@ -147,6 +143,10 @@
     {
       "title": "比特幣為何突然暴漲？能否突破8萬美元需觀察這「三項指標」 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82Z0VCb0dfTEp3cTZSS0xHZDJTSGtkOTZlRU84Qk9wdDJyQ2V4Zk05SFV4Qm4tMkMzeHlQOGZTMF9xRW45c3psakpLZXNweWM?oc=5"
+    },
+    {
+      "title": "94檔台股 ETF 受益人數連二周下滑 減持背後透露什麼？ | 基金天地 | 理財 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQSl80bVd4QjNHanhzOHhnaTNiNGdQcU1KNTU0cEgzQUNuajM0ZV9YWk5hNEcwT0x5VHRrX0lnSXEzWFFxR1NwR0VYUnpQaGpMbDVFanhrQTlBdw?oc=5"
     }
   ]
 }
