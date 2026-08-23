@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/24 01:19",
+  "updated_tw": "08/24 01:45",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77330.18,
-      "change": 246.7659,
-      "changePercent": 0.3201
+      "price": 77252.86,
+      "change": 169.4459,
+      "changePercent": 0.2198
     },
     "ETH": {
-      "price": 2447.06,
-      "change": 22.8088,
-      "changePercent": 0.9409
+      "price": 2444.0,
+      "change": 19.7488,
+      "changePercent": 0.8146
     }
   },
   "fx": {
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "黃金期 錢景看俏 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsYzdCaVRhTTFyY3ozczJaYTR1WUViWHRzelBRa0lNN2V4WXZxTGNoVTBVZTlVX3o2WWhTRGxoUzBJQXcyU0tPLWlHU05RNUdPc0ZDSVpNd2x6d0nSAWBBVV95cUxOZU00Nk16Z3Q2TlJVMVVhNXp4UGVqTVN5VDBZXzFqSERYNGtHNnpBVTBiVHpGWGkzazBVUmRPaDhabzE0cmtXczF4a1FNel9ad0RXSlA2N1JiMXgyTk9QWTY?oc=5"
-    },
-    {
       "title": "灰度：比特幣當前價格可能為長期投資者提供有利的進場點 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DZFhvRG1yS0dOUXZFemh3TGZPUU9fVXFRbExaa3dPSUt1aUZReEtabkJNQnpLcGMzOFZXMnlNS0F4UG1sS2dET3poSQ?oc=5"
+    },
+    {
+      "title": "黃金期 錢景看俏 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsYzdCaVRhTTFyY3ozczJaYTR1WUViWHRzelBRa0lNN2V4WXZxTGNoVTBVZTlVX3o2WWhTRGxoUzBJQXcyU0tPLWlHU05RNUdPc0ZDSVpNd2x6d0nSAWBBVV95cUxOZU00Nk16Z3Q2TlJVMVVhNXp4UGVqTVN5VDBZXzFqSERYNGtHNnpBVTBiVHpGWGkzazBVUmRPaDhabzE0cmtXczF4a1FNel9ad0RXSlA2N1JiMXgyTk9QWTY?oc=5"
     },
     {
       "title": "台股週線收黑 明開盤前3風險 - Yahoo新聞",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVjY5Vno3RGZBLVR4ZUpZWEdvUzJMN0FHdjdYTlp2MDRVOUFuNW1iUFhsS3ZuMnhWMmdHNFl0N0hfXzZibkZlQUJQNTg0MURhaDNCMjV1bmtuODcxVFd4THlUZFBtWEVQYklYNnVsNmYxaktJUjhqLTJtVzRRdE1iY3dSSkVqOXo4NjVKN0dhVTBSdUU?oc=5"
     },
     {
-      "title": "台股本周看國際盤三大變數 以盤待變伺機突破大箱型格局| 財經焦點 - 太報 TaiSounds",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nOHhxU2JFQWk4MlVuSkFDQXZSUFpXUjFfRy0xQl85X0ZuYjJGaHZzS3g4eXpGbEdwZEQ2Wm1raDVJMnNDRzBMMW5yUTZONHZUbktQdGFZanZPczRi?oc=5"
-    },
-    {
       "title": "台股衝高先賣再分批買回？專家一算數據傻眼了 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQenBlcDJaTGwtcU1LU0FnRzdmVEliZFEtcGd3RmI3MTVYQ0g0WjAySV92VTcxR0pNRVJLRXRnXzQ1SUpBU1gzUkFmMFdZUjNzTk8zSFh6UVhRSEJobDRDeTlRNVZTcmh3TkZvS2tGTFNjWm5FWFhOM3R3NURhLVhCMGNsdVlYNWp0LTk0ZnZMa2tsRGhWRXJ3TWdSQ0R4Vk5OWFZNS1A2YVJCSWlYLVJlNFRqQzNXSjhmYnJBREZ0NE9nbHVlYk51Y2VTVWhGNkJKOEZQNHVvSmJFX1dSTzU0SkltT3RvMkRzYWpDOFBLdDItNHRFSjdWTDR3NS1ON2xDQklOSEd1ZGVzS1QzUm9lS2tRN0dCaEVKX29GaUMydXJGWFI2QVFjYk80amtLQm1QaG9jV0t1VHhMZw?oc=5"
+    },
+    {
+      "title": "黃金商品有料 法人喊進 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkMk5fVW1WWnNRZ2I3VUo2cEs1LUJJLUxUOXdkZXhGbkp1OW9IYXd3S0dPOHZDT2VvZHpud0kxbHVmY09wcWEyS3I3d00wa3llc1dIYkZfeE9aZ9IBX0FVX3lxTE9pd3ZxQ0pMZHBSeExUUXNjUGlrS0ZYeVFHc1dQcEdybGowX0VqUHVmZUtqSEgyenNneEJzLXZZdi1mTll2MjNrUGZtT29idGFGU3cwemlMNV9EakJVcXpJ?oc=5"
     }
   ]
 }
