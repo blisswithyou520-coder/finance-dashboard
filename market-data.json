@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/24 05:19",
+  "updated_tw": "08/24 05:45",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77950.92,
-      "change": 867.5059,
-      "changePercent": 1.1254
+      "price": 77632.73,
+      "change": 549.3159,
+      "changePercent": 0.7126
     },
     "ETH": {
-      "price": 2474.75,
-      "change": 50.4988,
-      "changePercent": 2.0831
+      "price": 2462.45,
+      "change": 38.1988,
+      "changePercent": 1.5757
     }
   },
   "fx": {
@@ -89,17 +89,17 @@
       "changePercent": -0.0606
     },
     "JPYTWD": {
-      "price": 0.198,
-      "change": -0.0023,
-      "changePercent": -1.1705
+      "price": 0.1981,
+      "change": -0.0022,
+      "changePercent": -1.1206
     },
     "EURTWD": {
-      "price": 37.203,
-      "change": -0.0082,
-      "changePercent": -0.0221
+      "price": 37.204,
+      "change": -0.0072,
+      "changePercent": -0.0194
     },
     "CNYTWD": {
-      "price": 4.7412,
+      "price": 4.7377,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -121,8 +121,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yV1dYekVxbW04d19zZ0I3b2xIbWxZdE9RRkhmRmVLWFFWcWIzUjlIRHZsQjFsdUcxcHVPak9Tc0dqc0p0eHdFUjlZc29mY19D0gFWQVVfeXFMTVgwZDFiMVh0dkNfNkdySTRqV05DYjlyS2d3MDBFaEFibmFnYWEyMlVZVHBwMzJ2eVVtTVJQOGJvdGJKUXVBYWRNbEpXSENmODBJclZKUEE?oc=5"
     },
     {
-      "title": "灰度：比特幣當前價格可能為長期投資者提供有利的進場點 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DZFhvRG1yS0dOUXZFemh3TGZPUU9fVXFRbExaa3dPSUt1aUZReEtabkJNQnpLcGMzOFZXMnlNS0F4UG1sS2dET3poSQ?oc=5"
+      "title": "為何比特幣、黃金齊漲？美債回購難穩殖利率、美元走弱引爆「貶值交易」 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DMG9VZ1dVRThmckhOVkNubEZGS2N6Q3BXVWxaWG9FR0hWOU4xMWppb2F4LWhSMmVab0ktRl9XZUF4ckNPNThJbHdXRlJCLTQ?oc=5"
     },
     {
       "title": "台股本周看國際盤三大變數 以盤待變伺機突破大箱型格局 - Yahoo新聞",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0akF3WWpEeHlEaW9jNjJGeUwyRHpOc1JQemZzREtCNGx5UmFZcGpnSlhCREYxRUMzUjQ0b3pWdUI2SEtxQ29DRU03ZlFiclM1NTY1STk5dldFQQ?oc=5"
     },
     {
-      "title": "風向變了！金融三業6月大砍台股757億 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sUFJrUWhHT2tyY00wdTRPenB1QUVaS1RnREp2N1Mtek9KVVd1ek8tOWhyVEQzd09ZY284d19TR2h4RUNpZnFGUEphWGVrYkliUnVHVFhETU9vTXhSMjFF?oc=5"
+      "title": "灰度：比特幣當前價格可能為長期投資者提供有利的進場點 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DZFhvRG1yS0dOUXZFemh3TGZPUU9fVXFRbExaa3dPSUt1aUZReEtabkJNQnpLcGMzOFZXMnlNS0F4UG1sS2dET3poSQ?oc=5"
     },
     {
-      "title": "為何比特幣、黃金齊漲？美債回購難穩殖利率、美元走弱引爆「貶值交易」 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DMG9VZ1dVRThmckhOVkNubEZGS2N6Q3BXVWxaWG9FR0hWOU4xMWppb2F4LWhSMmVab0ktRl9XZUF4ckNPNThJbHdXRlJCLTQ?oc=5"
+      "title": "台股抗空頭三利多助陣 8月底、9月上旬有望重返47K大關 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMY3dycmVLa1NPRExGdzZXdjRRUlBmbGFGTWdzd1BFRWdhb1I2VWMwUUpfRXFjTk5YV2FrRmhzN1hsNEN3d3FIbXU0T1hTdTcwNzJ0RGNjb1J0UdIBX0FVX3lxTE1hUy1mbW9FZ19KVUN2RzJKS21xRlpWUk9GOHo3UTdFZmhPY21LZ3ZINkxSc3oyT19DZHhvR1pjREVJeFpwbUpINU9rUEZSb05Lb2RNcGFVenltaUpybEQw?oc=5"
     }
   ]
 }
