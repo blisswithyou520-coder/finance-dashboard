@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 00:54",
+  "updated_tw": "08/25 01:29",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 209.81,
-      "change": -4.91,
-      "changePercent": -2.2867
+      "price": 209.26,
+      "change": -5.46,
+      "changePercent": -2.5428
     },
     "AAPL": {
-      "price": 312.76,
-      "change": 3.41,
-      "changePercent": 1.1023
+      "price": 312.185,
+      "change": 2.835,
+      "changePercent": 0.9164
     },
     "TSLA": {
-      "price": 354.773,
-      "change": -8.087,
-      "changePercent": -2.2287
+      "price": 356.72,
+      "change": -6.14,
+      "changePercent": -1.6921
     },
     "QQQ": {
-      "price": 708.3,
-      "change": -5.14,
-      "changePercent": -0.7205
+      "price": 707.43,
+      "change": -6.01,
+      "changePercent": -0.8424
     },
     "SPY": {
-      "price": 764.28,
-      "change": -1.44,
-      "changePercent": -0.1881
+      "price": 763.57,
+      "change": -2.15,
+      "changePercent": -0.2808
     },
     "SCHD": {
-      "price": 35.14,
-      "change": 0.03,
-      "changePercent": 0.0854
+      "price": 35.145,
+      "change": 0.035,
+      "changePercent": 0.0997
     },
     "VOO": {
-      "price": 702.5,
-      "change": -1.21,
-      "changePercent": -0.1719
+      "price": 701.85,
+      "change": -1.86,
+      "changePercent": -0.2643
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79011.23,
-      "change": 1255.9644,
-      "changePercent": 1.6153
+      "price": 78517.74,
+      "change": 762.4744,
+      "changePercent": 0.9806
     },
     "ETH": {
-      "price": 2482.01,
-      "change": 18.1941,
-      "changePercent": 0.7385
+      "price": 2457.21,
+      "change": -6.6059,
+      "changePercent": -0.2681
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.827,
-      "change": -0.0113,
-      "changePercent": -0.0355
+      "price": 31.823,
+      "change": -0.0153,
+      "changePercent": -0.0481
     },
     "JPYTWD": {
-      "price": 0.1979,
-      "change": -0.0024,
-      "changePercent": -1.2204
+      "price": 0.1978,
+      "change": -0.0025,
+      "changePercent": -1.2703
     },
     "EURTWD": {
-      "price": 37.17,
-      "change": -0.0412,
-      "changePercent": -0.1108
+      "price": 37.145,
+      "change": -0.0662,
+      "changePercent": -0.178
     },
     "CNYTWD": {
-      "price": 4.7402,
+      "price": 4.7399,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4717.7,
-    "twd": 4827.0,
-    "tael": 181029.0,
-    "twdTotal": 150150.0,
-    "changePercent": 2.0242
+    "usd": 4708.7,
+    "twd": 4818.0,
+    "tael": 180661.0,
+    "twdTotal": 149845.0,
+    "changePercent": 1.8295
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,12 +121,12 @@
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQRHIzb2NoYVVYY19aZ0dQa0drXy1YLXBnLXdzLVNWWkV5dzRfU1o4LUVpT3NJdkk3WGh1c2U3VF80bEtVWkFhQi1aVEowbUc2N0pPcHV6VG1IWVFVcXNsQWcwWGQ0a1dXemt2Nk1LZVNBSkw0dDJkNVRlejdJV0ZSdTAybHNlb0F6by1zTnpRdmhGcm8yWEhBSHR4U2h2RFdPTndfU3VqLWlNOXZLdkk5Um5PRENnNndjN1oxQXUxV2lLTUVkRDVHcl80bnVIT0dvd0FhZzhVeDVyZmc5TURYR0ZsYkdXbkIwazMtYVE4YkZQdWRrODAxN2lVNVZjUmFLQVZEVXZDMFRFSnVKMkdGaFI0czZmR19GcVdrbEN3LWU1R1ZldXRnc1lJbmtDdENjXzNlb3NnSEZCTXV0UFZUbXhLR1pTVHpjQ2xEU0pmYjVnX29KeHFESjdyY19GTlJ3T3lBY09KMEk2b1NHV2twM1E1d0pSWE5WZWc?oc=5"
     },
     {
-      "title": "美股》科技股開盤一片慘紅拖累大盤！標普、那指齊跌 台指期夜盤失守45K - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XNjhCb0E2RWNrTm1TMENRMkl3OVlBT1ZvODI4bHA0dTNjcVVWMmllajM4S1dGUFV1MWltMEhCclpDVkVRdWpuOTI2d3paWE80REVuMXhzaFVkT0Q3YVN3?oc=5"
+      "title": "〈美股早盤〉市場靜待伊朗制裁、輝達財報與通膨數據 主要指數開低 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZUjJOV2h6QnE4SnR6a1Q0RVpJd1hURlRwWldBc2lvMF96YnlxYVdjUzFZQndpTFVQcEJQYzlRdng0c0otVWNCU2FDRVlLMlE?oc=5"
     },
     {
-      "title": "比特幣直逼8萬美元！三天狂飆逾20% 加密空頭爆倉40億美元 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52aHFrODVuclpsWGo1T2lZYXNoUy1zVEhRR0FPUUVlNDNGUVlBREdiOU43U0lBQnF4WFdXTUswTVl4UEpYaVFRbUl4VHBxYmM?oc=5"
+      "title": "美股》科技股開盤一片慘紅拖累大盤！標普、那指齊跌 台指期夜盤失守45K - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XNjhCb0E2RWNrTm1TMENRMkl3OVlBT1ZvODI4bHA0dTNjcVVWMmllajM4S1dGUFV1MWltMEhCclpDVkVRdWpuOTI2d3paWE80REVuMXhzaFVkT0Q3YVN3?oc=5"
     },
     {
       "title": "【 0824台股盤後】台股大盤量縮拉回461 點收44,762 點！投信抗跌單日買超37 億，矽晶圓逆勢抗跌，投本比鎖碼禾伸堂、台勝科、宏致｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mdVp2QWNBQXYxTlNMUEw4by1hWDBzc2I1RDVUUF90eDNHa1ZuTUtHZDJ5V1lnbmxLc19FV1hyYzVrREFreUo5MzIyMXNRQQ?oc=5"
     },
     {
-      "title": "外資賣超台股157億元調節台塑四寶群創| 證券 - cna.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PbnFhR3l1Sk1pcE54bDRwYjNmRElHX0hUX2lRb0d2X29fU0RWWEgzZjc0LThYUjJ6cWlWLWpYZG05eDVlOHlnLTVqTkZ0R3RxaktpNjlSU0hnb0VhVVE?oc=5"
-    },
-    {
       "title": "美股今年恐迎崩盤！外媒示警「2指標」雙雙亮紅燈 PTT網友狂吐槽：穩了 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNeExic0RObkxsel92VkZIWW9xZk1qd3VzRi1NenMzZTB1ZnY0WTMtelhPaHJ5N01aRG9QWF85bW9ldTRpOVNjNVlXSU5adkN0WlZrVG44YVRtNHllcWlOU1hIbkRpMXpQODNYOEhtY0RITkdNMEhlUVVTaVR1ZFE5eEp3Ti04c1pVNFdIOS0zajVzSlRSdHd0aURqWFpKMmFONnpqZVU2UzNGZHFYZzhqU3pvaXNfVUJmMDlZU1VOMHdFeGQyUTBMMHNBcVFoQ0IzVnNuVS1kbWhYVWc1MGVQZjQ4RXRuSFZjeUZwb01LX0x6ZVdVTEMzYmZsUUhTOXAwekZNaWRrc1RmME13ZDdPckxyZUNNVTJKTGlrNUZfbThTMlNSSHZ1NFJiSFFxQnBOUVFueHpMVmJEM1NWM3VEUWxFM1p3bk93SzItUWM4ZFpxWHc3Q2xNVk9abjFUbktrdFlydWkzUWJ3QmY3MVFrOEJfaUhzSFRWUWg3dFJaZXpLcnhQM0E?oc=5"
+    },
+    {
+      "title": "比特幣直逼8萬美元！三天狂飆逾20% 加密空頭爆倉40億美元 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52aHFrODVuclpsWGo1T2lZYXNoUy1zVEhRR0FPUUVlNDNGUVlBREdiOU43U0lBQnF4WFdXTUswTVl4UEpYaVFRbUl4VHBxYmM?oc=5"
     }
   ]
 }
