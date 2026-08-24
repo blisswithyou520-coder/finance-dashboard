@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 02:00",
+  "updated_tw": "08/25 02:58",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 209.62,
-      "change": -5.1,
-      "changePercent": -2.3752
+      "price": 209.27,
+      "change": -5.45,
+      "changePercent": -2.5382
     },
     "AAPL": {
-      "price": 312.01,
-      "change": 2.66,
-      "changePercent": 0.8599
+      "price": 311.76,
+      "change": 2.41,
+      "changePercent": 0.7791
     },
     "TSLA": {
-      "price": 353.827,
-      "change": -9.033,
-      "changePercent": -2.4894
+      "price": 348.94,
+      "change": -13.92,
+      "changePercent": -3.8362
     },
     "QQQ": {
-      "price": 707.13,
-      "change": -6.31,
-      "changePercent": -0.8844
+      "price": 707.78,
+      "change": -5.66,
+      "changePercent": -0.7933
     },
     "SPY": {
-      "price": 763.45,
-      "change": -2.27,
-      "changePercent": -0.2964
+      "price": 764.16,
+      "change": -1.56,
+      "changePercent": -0.2037
     },
     "SCHD": {
-      "price": 35.175,
-      "change": 0.065,
-      "changePercent": 0.1851
+      "price": 35.185,
+      "change": 0.075,
+      "changePercent": 0.2136
     },
     "VOO": {
-      "price": 701.74,
-      "change": -1.97,
-      "changePercent": -0.2799
+      "price": 702.402,
+      "change": -1.308,
+      "changePercent": -0.1859
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78834.97,
-      "change": 1079.7044,
-      "changePercent": 1.3886
+      "price": 78942.06,
+      "change": 1186.7944,
+      "changePercent": 1.5263
     },
     "ETH": {
-      "price": 2472.22,
-      "change": 8.4041,
-      "changePercent": 0.3411
+      "price": 2476.18,
+      "change": 12.3641,
+      "changePercent": 0.5018
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.832,
-      "change": -0.0063,
-      "changePercent": -0.0198
+      "price": 31.829,
+      "change": -0.0093,
+      "changePercent": -0.0292
     },
     "JPYTWD": {
-      "price": 0.1978,
-      "change": -0.0025,
-      "changePercent": -1.2703
+      "price": 0.1977,
+      "change": -0.0026,
+      "changePercent": -1.3202
     },
     "EURTWD": {
-      "price": 37.154,
-      "change": -0.0572,
-      "changePercent": -0.1538
+      "price": 37.165,
+      "change": -0.0462,
+      "changePercent": -0.1242
     },
     "CNYTWD": {
-      "price": 4.7404,
+      "price": 4.7391,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4691.6,
-    "twd": 4801.0,
-    "tael": 180056.0,
-    "twdTotal": 149343.0,
-    "changePercent": 1.4597
+    "usd": 4687.8,
+    "twd": 4797.0,
+    "tael": 179893.0,
+    "twdTotal": 149208.0,
+    "changePercent": 1.3776
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,12 +129,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XNjhCb0E2RWNrTm1TMENRMkl3OVlBT1ZvODI4bHA0dTNjcVVWMmllajM4S1dGUFV1MWltMEhCclpDVkVRdWpuOTI2d3paWE80REVuMXhzaFVkT0Q3YVN3?oc=5"
     },
     {
-      "title": "黃金ETF績效放光芒 三檔擠進單日指數商品漲幅五強 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RZ1l0d0t4OTlEZFNtU3FIc0p4SzQ2T0IzWHp1Ni1nd2VaUlNERVU0NGVuaTlhZ3RQR01PZlNVQVB3T2V6QnA5b3BLR1RJY00wMjFz0gFYQVVfeXFMTmNXdXlMS0pDZ0tfem1WM0lCS24yc3ZIUTd2MXJEQm9GTlJMb3NwNThMSGRDQldJSkFuSTNVX05HZDJHa1g3ZlhCUlNOWUdZZ2hwbDUzcjZDRg?oc=5"
+      "title": "台股大盤成交量 四個半月低點 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZMjZJd1pzV0ZEQUIwdGhmZzN3dVVmVXpkZ3M1TmNsS0tkRTQyOVloRWNHSVRGRDdfemZBTm5kVDNlOXVYYWtJRFlPUV8zeEVx0gFWQVVfeXFMUHI1OXNuN0FrZEpDeVhDYjM5TUIwMEM0WkNtYlRTejB5bDkxdzAxX191SnM5UmVXZDE5TW83QnRrQWJRNTFDT3pmd251Q3d5c2VUb2VFRkE?oc=5"
     },
     {
       "title": "比特幣突然大漲，牛市要回來了嗎？ - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mdVp2QWNBQXYxTlNMUEw4by1hWDBzc2I1RDVUUF90eDNHa1ZuTUtHZDJ5V1lnbmxLc19FV1hyYzVrREFreUo5MzIyMXNRQQ?oc=5"
+    },
+    {
+      "title": "日本黃金零售價續漲衝破\"2.6萬\"、逾3個月高- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelhBR2FYYkFnd3ZuaTBaM2VPd0tGdGhCZ2JleWgwSVRXRVFWSVdMNng4N0M5MGFEVWtXSmhDRE50bEFsUDg0Z0toM1EyQk1iMTBKdlFDZnJrZ0oyanAtbTlhNVBmWlV6QVpfRDY4SlpaMHBCb3RjUmttYXhQTmtkMXJoNm5fMkVXYjVBZjhTN29VUQ?oc=5"
     },
     {
       "title": "美股今年恐迎崩盤！外媒示警「2指標」雙雙亮紅燈 PTT網友狂吐槽：穩了 - Yahoo股市",
@@ -143,10 +147,6 @@
     {
       "title": "比特幣直逼8萬美元！三天狂飆逾20% 加密空頭爆倉40億美元 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52aHFrODVuclpsWGo1T2lZYXNoUy1zVEhRR0FPUUVlNDNGUVlBREdiOU43U0lBQnF4WFdXTUswTVl4UEpYaVFRbUl4VHBxYmM?oc=5"
-    },
-    {
-      "title": "台股有戲 外資追著買連三周買超 對韓股由買轉賣 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQYm13SFlMQ2RFSmFMQ1FMQzlvb3E1VGZSSUxhQnp3QUh6RkVudzR2dEN4M2dXUjFjTUE4WWMyRjZsUWpRU0dQa2pZT00yQlVQaGNXWFZSUXBkUdIBX0FVX3lxTFBZd09kTzJrYmhSQzJNQzRyTlY1TkhsSEwxVlRqOFpSU05NeVZQRzhCc0I1bXFpQ3hvR004MHdxNTJNNHBzQWJ2MDE0TElOdXBJa1l6c3dlLXpnZTJ6UXRR?oc=5"
     }
   ]
 }
