@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 07:21",
+  "updated_tw": "08/25 07:45",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -72,31 +72,31 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78813.27,
-      "change": 1058.0044,
-      "changePercent": 1.3607
+      "price": 78976.41,
+      "change": 1221.1444,
+      "changePercent": 1.5705
     },
     "ETH": {
-      "price": 2480.29,
-      "change": 16.4741,
-      "changePercent": 0.6686
+      "price": 2484.49,
+      "change": 20.6741,
+      "changePercent": 0.8391
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.82,
-      "change": -0.002,
-      "changePercent": -0.0063
+      "price": 31.811,
+      "change": -0.011,
+      "changePercent": -0.0346
     },
     "JPYTWD": {
-      "price": 0.1978,
-      "change": -0.0024,
-      "changePercent": -1.1855
+      "price": 0.1977,
+      "change": -0.0025,
+      "changePercent": -1.2354
     },
     "EURTWD": {
-      "price": 37.166,
-      "change": 0.0107,
-      "changePercent": 0.0289
+      "price": 37.153,
+      "change": -0.0023,
+      "changePercent": -0.0061
     },
     "CNYTWD": {
       "price": 4.7377,
@@ -106,9 +106,9 @@
   },
   "gold": {
     "usd": 4728.9,
-    "twd": 4838.0,
-    "tael": 181419.0,
-    "twdTotal": 150474.0,
+    "twd": 4836.0,
+    "tael": 181368.0,
+    "twdTotal": 150431.0,
     "changePercent": 2.2664
   },
   "fed": {
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OcUlKTnMtVkVxRk5DbjJ0SmxLd2NLYXR1VExJZ01UVHpBUEVQdGlaU0xUWEpmSUExQUZZd0M3RFNwNHl3bDZOd0RGM194ejNp?oc=5"
     },
     {
+      "title": "《美股》記憶體、光通訊類股挫 費半跌破100日線-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3ZKQjRUN2ZJZ3dGS1JwOF9IdF9LUGJpaHlTaEZpR2NTdjZsMXhUOG1aM01Ya2lic1NUOWNxVmNaRjUwX2tHRWx2d0ppU09iTnppYXNKNndqd2hFRzJ3MG43YmhrZW43OE1laFNVMUQxMFR4Ui1MTmNFUXcyQTBNempZRTF2b0JabFlWNVlxZ2Q?oc=5"
+    },
+    {
       "title": "美股》科技股開盤一片慘紅拖累大盤！標普、那指齊跌 台指期夜盤失守45K - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XNjhCb0E2RWNrTm1TMENRMkl3OVlBT1ZvODI4bHA0dTNjcVVWMmllajM4S1dGUFV1MWltMEhCclpDVkVRdWpuOTI2d3paWE80REVuMXhzaFVkT0Q3YVN3?oc=5"
     },
     {
-      "title": "《貴金屬》市場觀望 COMEX黃金上漲0.4% - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVd2S3F3Z1NSNkxxX2ZNbFRZZjFTVUROS1JoYUdaWkszd3hORWhtMS1sdEt6emJjLTl4UFJyNGdleVkyQXBEazMwY2JQUFlVd21EQjFqTjJjODJ4T3BaUkhpQ2NiSDZzc0hDNHBqcU1ad05LbjFFSkxhYmpST3hnX3JXYlp0QVExRHBKbmNjSTZOQQ?oc=5"
+      "title": "美股收盤》輝達連跌7日 台積電ADR下挫2.11％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50eHRvblpidmxrTVNlYWhldHVJM2tWRm1YU3Z1SjdWb0pZVVF6OEFQOHgtRGw0S1gzXzBRVmhCbExBU1QyQjNPR1VpN0RsUVFvaTZqUXFXWDI3Q2txZktB?oc=5"
+    },
+    {
+      "title": "美元黃金比特幣現關鍵技術點位 市場聚焦聯準會本週動態 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPdXA4WjBUd3VlcEVDMzRXUWJKVHJiQk9aaGtLbTlTc1NUUVJieUtpWDZ2cWJKZS1Dd0Z3RDF1M0hCWTZQRUNkVGY2d3M1Mms3Y0t1QlVwSU5vaXdBMS1tai01Ykx6VlhWQ1J5aUJxZlVQcFJUamtxeDFzUnRXcVNvM2NzQ1pHSXJXUEVQX015OGVjbm1RMUlIZndtX1ZCOFpoTmxtRjFHNlFQeHF3MzNwX2UwOVlPQUFKTXRidS1BSWJqYXRXak8xOW96RHlYOG84WGt2Mk82cTl5NElJZTA5Q1VuRVdwR2Y4c1BlZXBYakdVY0MzQjZJZzFnTzZWSVM2Nk5RNUtYZGZHaE5pcTYxUEk3ZEx4blF6SmtrU0dRbmdVLXVwYnR6S3hMTlFEMW9odzFhbXhaeW1oQTdZNVZJYTk2dkNJUkdleFU2cFVBb2NEeG5wY2JIbmp0NEc3eGFPOXJadEJTdURPd2hua0o3b0pJbkZUOTBoNlpiR2N0bEpzeE9yU3J4OA?oc=5"
     },
     {
       "title": "〈美股早盤〉市場靜待伊朗制裁、輝達財報與通膨數據 主要指數開低 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZUjJOV2h6QnE4SnR6a1Q0RVpJd1hURlRwWldBc2lvMF96YnlxYVdjUzFZQndpTFVQcEJQYzlRdng0c0otVWNCU2FDRVlLMlE?oc=5"
-    },
-    {
-      "title": "美股今年恐迎崩盤！外媒示警「2指標」雙雙亮紅燈 PTT網友狂吐槽：穩了 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNeExic0RObkxsel92VkZIWW9xZk1qd3VzRi1NenMzZTB1ZnY0WTMtelhPaHJ5N01aRG9QWF85bW9ldTRpOVNjNVlXSU5adkN0WlZrVG44YVRtNHllcWlOU1hIbkRpMXpQODNYOEhtY0RITkdNMEhlUVVTaVR1ZFE5eEp3Ti04c1pVNFdIOS0zajVzSlRSdHd0aURqWFpKMmFONnpqZVU2UzNGZHFYZzhqU3pvaXNfVUJmMDlZU1VOMHdFeGQyUTBMMHNBcVFoQ0IzVnNuVS1kbWhYVWc1MGVQZjQ4RXRuSFZjeUZwb01LX0x6ZVdVTEMzYmZsUUhTOXAwekZNaWRrc1RmME13ZDdPckxyZUNNVTJKTGlrNUZfbThTMlNSSHZ1NFJiSFFxQnBOUVFueHpMVmJEM1NWM3VEUWxFM1p3bk93SzItUWM4ZFpxWHc3Q2xNVk9abjFUbktrdFlydWkzUWJ3QmY3MVFrOEJfaUhzSFRWUWg3dFJaZXpLcnhQM0E?oc=5"
-    },
-    {
-      "title": "美股收盤／輝達財報前連七跌 晶片股重挫拖累那指跌0.8% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3Tkl6LXRXR2p4SWc0aVVKeTJtSnAwUEx1THg1UU9sbHZvN0RhcmtNVlNiVTh6QmN3MWtxaUNELVFIcFh1WXg2SzRwWkZHWDJuemF5SnBJWnB3WmdV0gFiQVVfeXFMUFpKMUx5WEhOdE03cFROOG8xV0t3VmU3dlJWMEVLdF96clNvSXR2djAxeGhRbGFjMFJBaDJnVHJDVmVvV3JTZjYwMWdGaUxUOEhQaVlEQnZySTlRR29oRXozdUE?oc=5"
     }
   ]
 }
