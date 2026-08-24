@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 01:29",
+  "updated_tw": "08/25 02:00",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 209.26,
-      "change": -5.46,
-      "changePercent": -2.5428
+      "price": 209.62,
+      "change": -5.1,
+      "changePercent": -2.3752
     },
     "AAPL": {
-      "price": 312.185,
-      "change": 2.835,
-      "changePercent": 0.9164
+      "price": 312.01,
+      "change": 2.66,
+      "changePercent": 0.8599
     },
     "TSLA": {
-      "price": 356.72,
-      "change": -6.14,
-      "changePercent": -1.6921
+      "price": 353.827,
+      "change": -9.033,
+      "changePercent": -2.4894
     },
     "QQQ": {
-      "price": 707.43,
-      "change": -6.01,
-      "changePercent": -0.8424
+      "price": 707.13,
+      "change": -6.31,
+      "changePercent": -0.8844
     },
     "SPY": {
-      "price": 763.57,
-      "change": -2.15,
-      "changePercent": -0.2808
+      "price": 763.45,
+      "change": -2.27,
+      "changePercent": -0.2964
     },
     "SCHD": {
-      "price": 35.145,
-      "change": 0.035,
-      "changePercent": 0.0997
+      "price": 35.175,
+      "change": 0.065,
+      "changePercent": 0.1851
     },
     "VOO": {
-      "price": 701.85,
-      "change": -1.86,
-      "changePercent": -0.2643
+      "price": 701.74,
+      "change": -1.97,
+      "changePercent": -0.2799
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78517.74,
-      "change": 762.4744,
-      "changePercent": 0.9806
+      "price": 78834.97,
+      "change": 1079.7044,
+      "changePercent": 1.3886
     },
     "ETH": {
-      "price": 2457.21,
-      "change": -6.6059,
-      "changePercent": -0.2681
+      "price": 2472.22,
+      "change": 8.4041,
+      "changePercent": 0.3411
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.823,
-      "change": -0.0153,
-      "changePercent": -0.0481
+      "price": 31.832,
+      "change": -0.0063,
+      "changePercent": -0.0198
     },
     "JPYTWD": {
       "price": 0.1978,
@@ -94,22 +94,22 @@
       "changePercent": -1.2703
     },
     "EURTWD": {
-      "price": 37.145,
-      "change": -0.0662,
-      "changePercent": -0.178
+      "price": 37.154,
+      "change": -0.0572,
+      "changePercent": -0.1538
     },
     "CNYTWD": {
-      "price": 4.7399,
+      "price": 4.7404,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4708.7,
-    "twd": 4818.0,
-    "tael": 180661.0,
-    "twdTotal": 149845.0,
-    "changePercent": 1.8295
+    "usd": 4691.6,
+    "twd": 4801.0,
+    "tael": 180056.0,
+    "twdTotal": 149343.0,
+    "changePercent": 1.4597
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,12 +129,8 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XNjhCb0E2RWNrTm1TMENRMkl3OVlBT1ZvODI4bHA0dTNjcVVWMmllajM4S1dGUFV1MWltMEhCclpDVkVRdWpuOTI2d3paWE80REVuMXhzaFVkT0Q3YVN3?oc=5"
     },
     {
-      "title": "【 0824台股盤後】台股大盤量縮拉回461 點收44,762 點！投信抗跌單日買超37 億，矽晶圓逆勢抗跌，投本比鎖碼禾伸堂、台勝科、宏致｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxOUEJGVHpxMnRiREhpZDJpOWV0aTJWTG9ZRmhQSldCazJhZDlrWFhTUnZXX2U3dkhTVzdvVHpOWmhiOGxkSHhjVWc5dmYzekNSNmdXdUJMYlgxUU5TRmhfVGFIbFVPNmVkNkg4WHFoWVRaVXg3TG41X1kwZ1JodjZZY2hmLV9FSWpObzJkaTVXYUl5dnhodmtlY2t1QzEzUTc0aEd0ZndvOWM1dEhCcXRMQjV0X0NCSUtLbmJWTml3UmFzRzZxRjhtSVlmeXdHQ09iQXpMYlQyYnp2MTJBaWluMnp6a0pQWVduMm93c3pkQ0Y4WHlvMFNEeWs3eW1tMmhjdVA5LVNuaTBCcERvMHV3U2pJYlF2T0Vub3JpN0tJRXFybHZFbUJqMEVUbTdxWkdqUU04RGhLQ1hWUzk4T1lmRGZTRXJ3UFlwMTNHbldtcFRwQWRYaUNKQ1hmX3BydndSRlZYOHZSdElodHBuaVp4cnl3TlZBLU40WHE3ZjVwbkl1cTY1R3ZrUEtsajlYSzR2VjJWVWNhM1BMNFhIeVpfQjIyV0pHbFg1TVc2LUxRbHpVbVlwY0tqMVFJcjZ1X3RfNnFDRENDZ0tmRTFuaXZVOHVFRndoOHZseU9yMjFKUXBpR1BQNzRvX0ZWRmttTUd2c19qdUNveTFrLWItc2tlN2ZVMmVuTWJKMUlYaWFEdXFKRFYtdFk0ZjZtMzJRdXdCdnlUWTlScWtTS1QtemhvUmUyY2pYejVUZWpfR3VFY2E1NHhiR2pDeWdYenZjVTM5MTlBREVJOUtWdVhJZzNfWDhEbFp3anlTYUsyRnVYZm9vcldSZDJJM0tyY0FVelBYV0cwYVZFRUtQeXJqTHVodmcwUU1OMnBxUk1ieGhHd0pYcVd2cUprc1Q5VjNqNjluODVJbXd6ZmpWNGZ2bHZpcDJ6Y3MyanNJOXFEMGNua1dtRHBsZGxBUGt2ZVI?oc=5"
-    },
-    {
-      "title": "黃金 ETF 績效放光芒 三檔擠進單日指數商品漲幅五強 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUi1RS0sxRG1QYm1ZclpSWXlQanZVUVNuUDc2UEtkT19RbjVyaTl3VzN2emJld2theDlaa2JzX2s4M2RPZVpFZ19ZSzNHUE1qZzJaQTFHbzhWQdIBX0FVX3lxTE9Gc0RISHhXQkNzU00zZHI4dFBwUFZSYVdJZTRlUExfVkhIalFGRHJLenJac1lIOVd1eFN1RWl1bW84ZWlZX3FtUzZ0bmcwdnAxTnlXNmZuZGJLY21FUFBZ?oc=5"
+      "title": "黃金ETF績效放光芒 三檔擠進單日指數商品漲幅五強 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RZ1l0d0t4OTlEZFNtU3FIc0p4SzQ2T0IzWHp1Ni1nd2VaUlNERVU0NGVuaTlhZ3RQR01PZlNVQVB3T2V6QnA5b3BLR1RJY00wMjFz0gFYQVVfeXFMTmNXdXlMS0pDZ0tfem1WM0lCS24yc3ZIUTd2MXJEQm9GTlJMb3NwNThMSGRDQldJSkFuSTNVX05HZDJHa1g3ZlhCUlNOWUdZZ2hwbDUzcjZDRg?oc=5"
     },
     {
       "title": "比特幣突然大漲，牛市要回來了嗎？ - 天下雜誌",
@@ -147,6 +143,10 @@
     {
       "title": "比特幣直逼8萬美元！三天狂飆逾20% 加密空頭爆倉40億美元 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52aHFrODVuclpsWGo1T2lZYXNoUy1zVEhRR0FPUUVlNDNGUVlBREdiOU43U0lBQnF4WFdXTUswTVl4UEpYaVFRbUl4VHBxYmM?oc=5"
+    },
+    {
+      "title": "台股有戲 外資追著買連三周買超 對韓股由買轉賣 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQYm13SFlMQ2RFSmFMQ1FMQzlvb3E1VGZSSUxhQnp3QUh6RkVudzR2dEN4M2dXUjFjTUE4WWMyRjZsUWpRU0dQa2pZT00yQlVQaGNXWFZSUXBkUdIBX0FVX3lxTFBZd09kTzJrYmhSQzJNQzRyTlY1TkhsSEwxVlRqOFpSU05NeVZQRzhCc0I1bXFpQ3hvR004MHdxNTJNNHBzQWJ2MDE0TElOdXBJa1l6c3dlLXpnZTJ6UXRR?oc=5"
     }
   ]
 }
