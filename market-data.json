@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/24 18:52",
+  "updated_tw": "08/24 19:26",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77611.59,
-      "change": -143.6756,
-      "changePercent": -0.1848
+      "price": 77814.12,
+      "change": 58.8544,
+      "changePercent": 0.0757
     },
     "ETH": {
-      "price": 2462.38,
-      "change": -1.4359,
-      "changePercent": -0.0583
+      "price": 2471.01,
+      "change": 7.1941,
+      "changePercent": 0.292
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.82,
-      "change": -0.0183,
-      "changePercent": -0.0575
+      "price": 31.819,
+      "change": -0.0193,
+      "changePercent": -0.0606
     },
     "JPYTWD": {
       "price": 0.1977,
@@ -94,22 +94,22 @@
       "changePercent": -1.3202
     },
     "EURTWD": {
-      "price": 37.162,
-      "change": -0.0492,
-      "changePercent": -0.1323
+      "price": 37.166,
+      "change": -0.0452,
+      "changePercent": -0.1215
     },
     "CNYTWD": {
-      "price": 4.7383,
+      "price": 4.7386,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4702.3,
-    "twd": 4811.0,
-    "tael": 180398.0,
-    "twdTotal": 149627.0,
-    "changePercent": 1.6911
+    "usd": 4700.3,
+    "twd": 4808.0,
+    "tael": 180316.0,
+    "twdTotal": 149559.0,
+    "changePercent": 1.6479
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -119,10 +119,6 @@
     {
       "title": "美股今年恐迎崩盤！外媒示警「2指標」雙雙亮紅燈 PTT網友狂吐槽：穩了 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNeExic0RObkxsel92VkZIWW9xZk1qd3VzRi1NenMzZTB1ZnY0WTMtelhPaHJ5N01aRG9QWF85bW9ldTRpOVNjNVlXSU5adkN0WlZrVG44YVRtNHllcWlOU1hIbkRpMXpQODNYOEhtY0RITkdNMEhlUVVTaVR1ZFE5eEp3Ti04c1pVNFdIOS0zajVzSlRSdHd0aURqWFpKMmFONnpqZVU2UzNGZHFYZzhqU3pvaXNfVUJmMDlZU1VOMHdFeGQyUTBMMHNBcVFoQ0IzVnNuVS1kbWhYVWc1MGVQZjQ4RXRuSFZjeUZwb01LX0x6ZVdVTEMzYmZsUUhTOXAwekZNaWRrc1RmME13ZDdPckxyZUNNVTJKTGlrNUZfbThTMlNSSHZ1NFJiSFFxQnBOUVFueHpMVmJEM1NWM3VEUWxFM1p3bk93SzItUWM4ZFpxWHc3Q2xNVk9abjFUbktrdFlydWkzUWJ3QmY3MVFrOEJfaUhzSFRWUWg3dFJaZXpLcnhQM0E?oc=5"
-    },
-    {
-      "title": "Robinhood CEO：對比特幣長期持樂觀態度，熱愛加密貨幣 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rTnRYUmU0MVBvTTdSa0djR0tlS25kU2p0eU41LU1uRU1wOUx1QmdZWmx6V3lKN25oQWtfbk1MWW9DUFZiNFBHai1BMA?oc=5"
     },
     {
       "title": "比特幣周漲幅創2年來新高 - 日經中文網",
@@ -147,6 +143,10 @@
     {
       "title": "台股今天到底殺什麼？ 專家一眼看穿：不是美債 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPWk5IYlI4NkZUZmtZamtvTXFIU0plaW1jRU9aQmJnTVdSZHJUeXJqajVWck5lLWRUN1lUY3dKRE9NcXRuQmR2Z3h1SkM3ajZvUTMzNFJwQ08ycjZGS3NtV2pMbjFWQThWek1JTGZYYjZZMk9JVzllaXFiN3g1RmNDQ3h1YVljdVN0ZkpDV2lBQzZhTGlnUWpzd3NTaURLZFdLclZia1lLNWRlRGN3NFJna2xuOEF0Zy1pbTFZamtHcFJnRnZHTl9BaGFkV08yb1B6b1dEQXJpZWlDSndabFJpWDR1SC13RTNhWVhzUHdhYmFnR0xLcHEwUE9kWW9DMm5fTTVtQzNGQkxxSXREOFdxVDV6eGUtaFd2bF85TEIwYVNVbkRHYnRXUmFFT0FIRUlsZGw5YlNMVQ?oc=5"
+    },
+    {
+      "title": "《美股》比特幣強 那指漲 等輝達財報、華許談話-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ1FHN3VMUW96N1hYR0Z5MGw2dnRHb0pDc1ViT1RYZVBPRUxPb3RGTnlmNEVra2FfRDhVZkVWUXVJck42ZWxFcHE3a29hcXhJOExieW1CdEd6eEhKV0VuV1ZMYjBoYTNyOVg2N2o0UVk4YmlQT2ZpVXNKWDlDeHRiVmxJQ1RLWFRuWGRXWHRVazY?oc=5"
     }
   ]
 }
