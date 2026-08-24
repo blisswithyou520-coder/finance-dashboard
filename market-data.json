@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 04:02",
+  "updated_tw": "08/25 04:47",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -55,38 +55,38 @@
       "changePercent": -0.998
     },
     "SPY": {
-      "price": 763.54,
-      "change": -2.18,
-      "changePercent": -0.2847
+      "price": 763.47,
+      "change": -2.25,
+      "changePercent": -0.2938
     },
     "SCHD": {
-      "price": 35.205,
-      "change": 0.095,
-      "changePercent": 0.2706
+      "price": 35.21,
+      "change": 0.1,
+      "changePercent": 0.2848
     },
     "VOO": {
-      "price": 701.85,
-      "change": -1.86,
-      "changePercent": -0.2643
+      "price": 701.83,
+      "change": -1.88,
+      "changePercent": -0.2672
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78626.36,
-      "change": 871.0944,
-      "changePercent": 1.1203
+      "price": 78908.45,
+      "change": 1153.1844,
+      "changePercent": 1.4831
     },
     "ETH": {
-      "price": 2467.97,
-      "change": 4.1541,
-      "changePercent": 0.1686
+      "price": 2473.7,
+      "change": 9.8841,
+      "changePercent": 0.4012
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.824,
-      "change": 0.002,
-      "changePercent": 0.0063
+      "price": 31.819,
+      "change": -0.003,
+      "changePercent": -0.0094
     },
     "JPYTWD": {
       "price": 0.1978,
@@ -94,22 +94,22 @@
       "changePercent": -1.1855
     },
     "EURTWD": {
-      "price": 37.158,
-      "change": 0.0027,
-      "changePercent": 0.0074
+      "price": 37.155,
+      "change": -0.0003,
+      "changePercent": -0.0007
     },
     "CNYTWD": {
-      "price": 4.7413,
+      "price": 4.7404,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4709.4,
-    "twd": 4818.0,
-    "tael": 180694.0,
-    "twdTotal": 149872.0,
-    "changePercent": 1.8447
+    "usd": 4705.0,
+    "twd": 4813.0,
+    "tael": 180496.0,
+    "twdTotal": 149708.0,
+    "changePercent": 1.7495
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mdVp2QWNBQXYxTlNMUEw4by1hWDBzc2I1RDVUUF90eDNHa1ZuTUtHZDJ5V1lnbmxLc19FV1hyYzVrREFreUo5MzIyMXNRQQ?oc=5"
     },
     {
-      "title": "比特幣短線觸及 8 萬鎂大關、以太坊穩守 2500！全網爆倉 3.78 億美元 - 動區動趨",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU0cyajZwNXlMQWhZbHRSQ3kweVV1eW9adFRKN0FsQ0RSdnZwMnNZQWhlazNIWUFKNFFLOW8yYzh0Q0F0X2NfVDdZbGlGX2dBYjVlc0pERmYwNWlYbzBKMkFjNHk2UW9lZTRxUmpkWmFpWV9mRXZvVjlRVEFxckZJYm9n?oc=5"
-    },
-    {
       "title": "美股今年恐迎崩盤！外媒示警「2指標」雙雙亮紅燈 PTT網友狂吐槽：穩了 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNeExic0RObkxsel92VkZIWW9xZk1qd3VzRi1NenMzZTB1ZnY0WTMtelhPaHJ5N01aRG9QWF85bW9ldTRpOVNjNVlXSU5adkN0WlZrVG44YVRtNHllcWlOU1hIbkRpMXpQODNYOEhtY0RITkdNMEhlUVVTaVR1ZFE5eEp3Ti04c1pVNFdIOS0zajVzSlRSdHd0aURqWFpKMmFONnpqZVU2UzNGZHFYZzhqU3pvaXNfVUJmMDlZU1VOMHdFeGQyUTBMMHNBcVFoQ0IzVnNuVS1kbWhYVWc1MGVQZjQ4RXRuSFZjeUZwb01LX0x6ZVdVTEMzYmZsUUhTOXAwekZNaWRrc1RmME13ZDdPckxyZUNNVTJKTGlrNUZfbThTMlNSSHZ1NFJiSFFxQnBOUVFueHpMVmJEM1NWM3VEUWxFM1p3bk93SzItUWM4ZFpxWHc3Q2xNVk9abjFUbktrdFlydWkzUWJ3QmY3MVFrOEJfaUhzSFRWUWg3dFJaZXpLcnhQM0E?oc=5"
     },
     {
       "title": "黃金ETF績效放光芒 三檔擠進單日指數商品漲幅五強 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RZ1l0d0t4OTlEZFNtU3FIc0p4SzQ2T0IzWHp1Ni1nd2VaUlNERVU0NGVuaTlhZ3RQR01PZlNVQVB3T2V6QnA5b3BLR1RJY00wMjFz0gFYQVVfeXFMTmNXdXlMS0pDZ0tfem1WM0lCS24yc3ZIUTd2MXJEQm9GTlJMb3NwNThMSGRDQldJSkFuSTNVX05HZDJHa1g3ZlhCUlNOWUdZZ2hwbDUzcjZDRg?oc=5"
+    },
+    {
+      "title": "比特幣直逼8萬美元！三天狂飆逾20% 加密空頭爆倉40億美元 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52aHFrODVuclpsWGo1T2lZYXNoUy1zVEhRR0FPUUVlNDNGUVlBREdiOU43U0lBQnF4WFdXTUswTVl4UEpYaVFRbUl4VHBxYmM?oc=5"
     }
   ]
 }
