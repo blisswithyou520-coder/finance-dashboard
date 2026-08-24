@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/24 13:19",
+  "updated_tw": "08/24 14:02",
   "taiwan": {
     "2330": {
-      "price": 2390.0,
-      "change": -20.0,
-      "changePercent": -0.8299
+      "price": 2375.0,
+      "change": -35.0,
+      "changePercent": -1.4523
     },
     "2454": {
-      "price": 3770.0,
-      "change": -20.0,
-      "changePercent": -0.5277
+      "price": 3765.0,
+      "change": -25.0,
+      "changePercent": -0.6596
     },
     "2317": {
-      "price": 244.5,
-      "change": -1.0,
-      "changePercent": -0.4073
+      "price": 243.5,
+      "change": -2.0,
+      "changePercent": -0.8147
     },
     "0050": {
-      "price": 104.0,
-      "change": -0.65,
-      "changePercent": -0.6211
+      "price": 103.8,
+      "change": -0.85,
+      "changePercent": -0.8122
     },
     "00878": {
-      "price": 32.49,
-      "change": 0.11,
-      "changePercent": 0.3397
+      "price": 32.43,
+      "change": 0.05,
+      "changePercent": 0.1544
     },
     "00919": {
-      "price": 30.67,
-      "change": -0.13,
-      "changePercent": -0.4221
+      "price": 30.65,
+      "change": -0.15,
+      "changePercent": -0.487
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77059.33,
-      "change": -24.0841,
-      "changePercent": -0.0312
+      "price": 77116.59,
+      "change": 33.1759,
+      "changePercent": 0.043
     },
     "ETH": {
-      "price": 2454.2,
-      "change": 29.9488,
-      "changePercent": 1.2354
+      "price": 2447.09,
+      "change": 22.8388,
+      "changePercent": 0.9421
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.779,
-      "change": -0.0593,
-      "changePercent": -0.1863
+      "price": 31.881,
+      "change": 0.0427,
+      "changePercent": 0.1341
     },
     "JPYTWD": {
-      "price": 0.1978,
-      "change": -0.0025,
-      "changePercent": -1.2703
+      "price": 0.1981,
+      "change": -0.0022,
+      "changePercent": -1.1206
     },
     "EURTWD": {
-      "price": 37.172,
-      "change": -0.0392,
-      "changePercent": -0.1054
+      "price": 37.21,
+      "change": -0.0012,
+      "changePercent": -0.0033
     },
     "CNYTWD": {
-      "price": 4.7344,
+      "price": 4.7396,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4696.1,
-    "twd": 4798.0,
-    "tael": 179928.0,
-    "twdTotal": 149237.0,
-    "changePercent": 1.5571
+    "usd": 4697.5,
+    "twd": 4815.0,
+    "tael": 180560.0,
+    "twdTotal": 149761.0,
+    "changePercent": 1.5873
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,8 +121,12 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTGk3Z2plc0VRUXFWcXc4RHNHSE1vRkhsRm40Sko2NTFuRmZTTWhSVVZkYzAyVzVOSlZuaDQxZjM0bXZuTHFjeTNoSWU1R2x2dDIxM1huNzZkZVExd3BySy1xTEd4endJdFZmSGZFSWlDQXo2S2dyT3lmX29aNXdlSGdYbHlSalVPOFgw?oc=5"
     },
     {
-      "title": "【8月台股ETF風雲榜】0050、00878慘墊底！ 末段班20名一次看 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQdVJILTdOdmdlbUQ3a3BUbTRyTm45TWZZMkFVcHdVQ1RTX2pJcDJYempFb19zZ2ZjQ1pSRTNxMWgzMXN3emk5ZXRGcUJ2MDZUbnlIV1JhWFVSdHkweW9feWxXdlJhXzQ0bm9NSUQ1VG5nRHB6c3JJWlRjdmkwd2RVTmtIVWFvak5Eemg0ZzRaeTJxYmhTMWx3V29PXzNpc0k3ZEwwWXpGUFhJRGtZV1RGMGwtZEx3Mjgtay1OS1U2TFhsNkhucjRVazk4bG5PejJONXlQU2x5THpVZGgxSVNUb2xMVVJ4MXptSzFnWU5TZWcwQnZXaklWanptMUtRbUprZXQzNkNHQ051TmJWWEhtUFlPZnN2Q2dVSlVQby1WVmstREpnb0phYmRrTTBQNmNfbThUdWlHX3pJanlKX0NOeWFUT09IaG41ZTZFX0VQd290ak1XM1MzRnRHbTdKYXBl?oc=5"
+      "title": "美股市值排行2026怎麼看？輝達、蘋果、Google領軍，全球資金為何仍盯緊美股？ - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UUHRtaHNQQ3BuZHM0dFpXTlhJWUQxSFZ0dGFqZkN0R3FUbXFfVTJ4NXZyb1ZRWFdxNWM5dGVMUG1FM2RIZml3T29Qbw?oc=5"
+    },
+    {
+      "title": "4.5萬點保衛戰失守！台股一週慘跌587點 「這族群」卻暴衝13% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQSWwzRHliTExEdjB5aHhtRHNWTE1rdktIeEhaYi15S0MyaDBVU0h4bDh1dHdfMGFkeGVUMDFLMXFYNVlSVDc0X3IzaFZKR2I5Yk5sX3lpWjBUbjdBTnhRSzBXTndUOVRiYVZXVFpsbE5zTW1VQTdfeFVwTmotdzNVUTRMdW5WeU9kTS1mY21kZm4tWmpUdmV5UVdab1llVHlfVV9mQTk4ZzZWQkZKRWx6ei1SZGtUSHFJdTJiTUVUVm9UZlVuZmRzTWE2SnBSQlB3RUM2Nlc3X29FSW5zTl9jTFEwTEVUd2FHVlJQb3lqT1g2c3c2VUxIcDhiM3RkdEkwTGxZV01OUmJWRC1OcGhxZlI5c2lGV21Mbk5BSWY0UHd2R2dvMFdV?oc=5"
     },
     {
       "title": "美股盤後｜美經濟不著陸？加密貨幣與銅概念股領跑大盤 0824｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
@@ -137,12 +141,8 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV0JFZTVDT3FIMlc2bkFvZGxYb1Bob3g2RjJfZWdVS3ZPczl0ZEdZaDA1RU9wTlVQdVp6eWc1V0ozd2FodlBxUFRJTFJOLWl5ZVhWYk5PNld1SUlqRXVwSUMwdThFWFRhaE9hWTlFZlNKUGZKSXdhbk9kUTlBLUxsd2xYNUFqZUc3ako1NUhYUmF4UQ?oc=5"
     },
     {
-      "title": "台股高點賣掉等拉回分批買？清流君回測0050：自以為聰明反而少賺6.9個百分點| 存股族愛ETF | 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91Q0R0UTBEbkFaMEVINWxTQkJGR05XQ0lSZlBmdnZWcFh0SFV3NzVPd1JYdjFpaGtNVE1Hd2VaMlk3TG00aWh5VF9GdlFFN3ZtUFVr?oc=5"
-    },
-    {
-      "title": "【Yahoo早盤】台股無畏颱風來襲漲逾120點 分析師何文高：量縮7千億元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxOTTczSTRma0VvQzdxdUlmZHRZUWlDTVJqR2g3N1d1U0ZYMkVuOGZEWGMwOWZkMDdHbjN6T2djdU1lWl9WWnF6Y1VNaXVlUFNDM1Z2ekw1eThCel84SHBISmdERjEwMWVWSGo4Q0dHSXVCU0hqWHhoNFR0eTh3U2dDeXdMV2dvZExKUVVnUGRzaEJ1SlJZNFBHaDhmdnZybTJCOHpNN1o5eE13UDVRRUxSVmNqZ0lWc0VKai1OblJsSXpBYkZ6ZVJRUEttM3ZEQzBXdXdKRGthMmFMWl9LR2ZVWjJUMFAyNmo4N0JrU3Uxa1NOa3hNOVhnNWw2NUZIMTJsSm9abzBQdTVZbDVWWHBTR05iVEwzU0xtWlI1NS1QSnJsdEFLSGZ5X2ZtNFZwU2Nfa0pyWU12NVdQN2g2V2J3cmRURVNQMUtxc2VZNXlVdzJwNU8zb1lDSjdiQThZNFBGbVlDX2lvQzM4V1hrOEIyaTNCQ1FJekdfanJBNGlac3A4Q2F2MmlpLXBlcnlLMlVOQXNMalpuX0N4UDF5VG1CVmRBZWdJRnBLc3Izag?oc=5"
+      "title": "美股今年恐迎崩盤！外媒示警「2指標」雙雙亮紅燈 PTT網友狂吐槽：穩了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNeExic0RObkxsel92VkZIWW9xZk1qd3VzRi1NenMzZTB1ZnY0WTMtelhPaHJ5N01aRG9QWF85bW9ldTRpOVNjNVlXSU5adkN0WlZrVG44YVRtNHllcWlOU1hIbkRpMXpQODNYOEhtY0RITkdNMEhlUVVTaVR1ZFE5eEp3Ti04c1pVNFdIOS0zajVzSlRSdHd0aURqWFpKMmFONnpqZVU2UzNGZHFYZzhqU3pvaXNfVUJmMDlZU1VOMHdFeGQyUTBMMHNBcVFoQ0IzVnNuVS1kbWhYVWc1MGVQZjQ4RXRuSFZjeUZwb01LX0x6ZVdVTEMzYmZsUUhTOXAwekZNaWRrc1RmME13ZDdPckxyZUNNVTJKTGlrNUZfbThTMlNSSHZ1NFJiSFFxQnBOUVFueHpMVmJEM1NWM3VEUWxFM1p3bk93SzItUWM4ZFpxWHc3Q2xNVk9abjFUbktrdFlydWkzUWJ3QmY3MVFrOEJfaUhzSFRWUWg3dFJaZXpLcnhQM0E?oc=5"
     },
     {
       "title": "《美股》比特幣強那指漲等輝達財報、華許談話- 新聞 - MoneyDJ",
