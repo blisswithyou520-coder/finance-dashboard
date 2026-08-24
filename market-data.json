@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 05:26",
+  "updated_tw": "08/25 05:54",
   "taiwan": {
     "2330": {
       "price": 2375.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "change": -35.0,
+      "changePercent": -1.4523
     },
     "2454": {
       "price": 3765.0,
-      "change": 65.0,
-      "changePercent": 1.7568
+      "change": -25.0,
+      "changePercent": -0.6596
     },
     "2317": {
       "price": 243.5,
-      "change": -3.0,
-      "changePercent": -1.217
+      "change": -2.0,
+      "changePercent": -0.8147
     },
     "0050": {
       "price": 103.8,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78906.96,
-      "change": 1151.6944,
-      "changePercent": 1.4812
+      "price": 78922.75,
+      "change": 1167.4844,
+      "changePercent": 1.5015
     },
     "ETH": {
-      "price": 2481.2,
-      "change": 17.3841,
-      "changePercent": 0.7056
+      "price": 2482.71,
+      "change": 18.8941,
+      "changePercent": 0.7669
     }
   },
   "fx": {
@@ -89,9 +89,9 @@
       "changePercent": -0.0031
     },
     "JPYTWD": {
-      "price": 0.1979,
-      "change": -0.0023,
-      "changePercent": -1.1355
+      "price": 0.1978,
+      "change": -0.0024,
+      "changePercent": -1.1855
     },
     "EURTWD": {
       "price": 37.161,
@@ -99,7 +99,7 @@
       "changePercent": 0.0154
     },
     "CNYTWD": {
-      "price": 4.7406,
+      "price": 4.7379,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -129,6 +129,10 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XNjhCb0E2RWNrTm1TMENRMkl3OVlBT1ZvODI4bHA0dTNjcVVWMmllajM4S1dGUFV1MWltMEhCclpDVkVRdWpuOTI2d3paWE80REVuMXhzaFVkT0Q3YVN3?oc=5"
     },
     {
+      "title": "【 0824台股盤後】台股大盤量縮拉回461 點收44,762 點！投信抗跌單日買超37 億，矽晶圓逆勢抗跌，投本比鎖碼禾伸堂、台勝科、宏致｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiugVBVV95cUxOU2pHa2VEQm1ZZVl6WDN2YXpIbzJWM29MX0o5SzlETzVIOHpsNFF0cVV1bTBsQzZFSFZZMHlWRFh1dkxvOGNMUTdaYmhxYlI1eUViaFp2WFF6WXNodjJnMkNYSTBWdUR1dnViTzl6ZUlFeWYzX2txZnJZSDV3a014V2JTNVJkT1R4Sk5jQ25pRktJMGhEOGhpVENNVTVaMTBwZlJqZUFEYzBhdU1KQlZNZ2FPemd0dUYzNjJXdlphOUZ2SVZON09ic0RvU0YwU0RYX0ZHUWU5d2xsMkc4b1AwYkRNaWpFTzRWZW1nbDdibzhaNzBrQTdUbnJveTZ4NHRrcGw2TVNhTDZJQW9jcEFVV0dtSURvNjdjblFhUVJITXBna1dVSTl5d2hHeVBzODVpb0NSLXZiYnI0UmlTakVVMWdveHg5TEN0TDFoUHJick44a08yVi1sNW9EQjcwSUNLOGFyMTMwcXV1MkJiTG1JY1ZBV2thNDBUUmVyVkNqZ0NoQTZWbWptNzhTRGdWMU9PR0poa0NoSm0ySXBYRkxLU19vaHJiRDVFcTAtN0p5a19Md0Q2R1dQNzVYb1NRNmRSSW4wNXJ3Vld2VjJKVlZmWXBsZWNRQzlMQXNFNnloSkF3QWhINjZWTmVKdGszVC1nV2lpSlFvX3d5dUhnTzFzYTBVa0RNNVNpa2VzV3lFdVIxX2M4ZkE0eHpEdkpXaExhb2RneUswY0pVOGVMbXFfMWt4N21sUVkzZ3Y2UDlYU3JUMmRJYVo0MTl5U2pXWmxjSzJZZjJoUl80OVpiV3NUTVVodTBMRE4tVHZSbGdlMEpjaUdGamRFZ3RVb0VhcWhHNllJc2Zob0NSbGo0Rlg1ZjlsREdnRGU0TVlGaHJGUldvVEVRVE93dC1xWmlielNGWHg3VngwTGZFQQ?oc=5"
+    },
+    {
       "title": "台股大盤成交量 四個半月低點 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZMjZJd1pzV0ZEQUIwdGhmZzN3dVVmVXpkZ3M1TmNsS0tkRTQyOVloRWNHSVRGRDdfemZBTm5kVDNlOXVYYWtJRFlPUV8zeEVx0gFWQVVfeXFMUHI1OXNuN0FrZEpDeVhDYjM5TUIwMEM0WkNtYlRTejB5bDkxdzAxX191SnM5UmVXZDE5TW83QnRrQWJRNTFDT3pmd251Q3d5c2VUb2VFRkE?oc=5"
     },
@@ -137,16 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQkxkcHNjTlEzWmdKcWx5WG93MEdtWTdrLURRc20xdXhxRXA3eXd0R09tWE1FNWNONzlhYXJwVWwzc0l1RTNKb0RwTnI3LUhiTlRCVkJBaG1oNUFYbHNDRjZaX01sNzF0dEE4VGhDbTl6R083MmU4bnpMYWY1NnR1UzlXaWhXUk9Oc2MyTU9kVmM?oc=5"
     },
     {
+      "title": "比特幣突然大漲，牛市要回來了嗎？ - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mdVp2QWNBQXYxTlNMUEw4by1hWDBzc2I1RDVUUF90eDNHa1ZuTUtHZDJ5V1lnbmxLc19FV1hyYzVrREFreUo5MzIyMXNRQQ?oc=5"
+    },
+    {
       "title": "美股今年恐迎崩盤！外媒示警「2指標」雙雙亮紅燈 PTT網友狂吐槽：穩了 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNeExic0RObkxsel92VkZIWW9xZk1qd3VzRi1NenMzZTB1ZnY0WTMtelhPaHJ5N01aRG9QWF85bW9ldTRpOVNjNVlXSU5adkN0WlZrVG44YVRtNHllcWlOU1hIbkRpMXpQODNYOEhtY0RITkdNMEhlUVVTaVR1ZFE5eEp3Ti04c1pVNFdIOS0zajVzSlRSdHd0aURqWFpKMmFONnpqZVU2UzNGZHFYZzhqU3pvaXNfVUJmMDlZU1VOMHdFeGQyUTBMMHNBcVFoQ0IzVnNuVS1kbWhYVWc1MGVQZjQ4RXRuSFZjeUZwb01LX0x6ZVdVTEMzYmZsUUhTOXAwekZNaWRrc1RmME13ZDdPckxyZUNNVTJKTGlrNUZfbThTMlNSSHZ1NFJiSFFxQnBOUVFueHpMVmJEM1NWM3VEUWxFM1p3bk93SzItUWM4ZFpxWHc3Q2xNVk9abjFUbktrdFlydWkzUWJ3QmY3MVFrOEJfaUhzSFRWUWg3dFJaZXpLcnhQM0E?oc=5"
-    },
-    {
-      "title": "黃金ETF績效放光芒 三檔擠進單日指數商品漲幅五強 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RZ1l0d0t4OTlEZFNtU3FIc0p4SzQ2T0IzWHp1Ni1nd2VaUlNERVU0NGVuaTlhZ3RQR01PZlNVQVB3T2V6QnA5b3BLR1RJY00wMjFz0gFYQVVfeXFMTmNXdXlMS0pDZ0tfem1WM0lCS24yc3ZIUTd2MXJEQm9GTlJMb3NwNThMSGRDQldJSkFuSTNVX05HZDJHa1g3ZlhCUlNOWUdZZ2hwbDUzcjZDRg?oc=5"
-    },
-    {
-      "title": "比特幣直逼8萬美元！三天狂飆逾20% 加密空頭爆倉40億美元 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52aHFrODVuclpsWGo1T2lZYXNoUy1zVEhRR0FPUUVlNDNGUVlBREdiOU43U0lBQnF4WFdXTUswTVl4UEpYaVFRbUl4VHBxYmM?oc=5"
     }
   ]
 }
