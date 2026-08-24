@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/24 22:39",
+  "updated_tw": "08/24 23:21",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 210.055,
-      "change": -4.665,
-      "changePercent": -2.1726
+      "price": 208.948,
+      "change": -5.772,
+      "changePercent": -2.6882
     },
     "AAPL": {
-      "price": 312.95,
-      "change": 3.6,
-      "changePercent": 1.1637
+      "price": 311.775,
+      "change": 2.425,
+      "changePercent": 0.7839
     },
     "TSLA": {
-      "price": 357.67,
-      "change": -5.19,
-      "changePercent": -1.4303
+      "price": 357.18,
+      "change": -5.68,
+      "changePercent": -1.5653
     },
     "QQQ": {
-      "price": 705.81,
-      "change": -7.63,
-      "changePercent": -1.0695
+      "price": 705.07,
+      "change": -8.37,
+      "changePercent": -1.1732
     },
     "SPY": {
-      "price": 763.66,
-      "change": -2.06,
-      "changePercent": -0.269
+      "price": 762.51,
+      "change": -3.21,
+      "changePercent": -0.4192
     },
     "SCHD": {
-      "price": 35.198,
-      "change": 0.088,
-      "changePercent": 0.2506
+      "price": 35.135,
+      "change": 0.025,
+      "changePercent": 0.0712
     },
     "VOO": {
-      "price": 701.98,
-      "change": -1.73,
-      "changePercent": -0.2458
+      "price": 700.88,
+      "change": -2.83,
+      "changePercent": -0.4022
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79609.41,
-      "change": 1854.1444,
-      "changePercent": 2.3846
+      "price": 79739.06,
+      "change": 1983.7944,
+      "changePercent": 2.5513
     },
     "ETH": {
-      "price": 2525.28,
-      "change": 61.4641,
-      "changePercent": 2.4947
+      "price": 2517.6,
+      "change": 53.7841,
+      "changePercent": 2.183
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.821,
-      "change": -0.0173,
-      "changePercent": -0.0543
+      "price": 31.836,
+      "change": -0.0023,
+      "changePercent": -0.0072
     },
     "JPYTWD": {
-      "price": 0.1978,
-      "change": -0.0025,
-      "changePercent": -1.2703
+      "price": 0.1979,
+      "change": -0.0024,
+      "changePercent": -1.2204
     },
     "EURTWD": {
-      "price": 37.177,
-      "change": -0.0342,
-      "changePercent": -0.092
+      "price": 37.194,
+      "change": -0.0172,
+      "changePercent": -0.0463
     },
     "CNYTWD": {
-      "price": 4.7383,
+      "price": 4.7411,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4729.1,
-    "twd": 4838.0,
-    "tael": 181432.0,
-    "twdTotal": 150485.0,
-    "changePercent": 2.2707
+    "usd": 4730.1,
+    "twd": 4841.0,
+    "tael": 181556.0,
+    "twdTotal": 150587.0,
+    "changePercent": 2.2923
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "〈美股早盤〉市場靜待伊朗制裁、輝達財報與通膨數據 主要指數開低 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZUjJOV2h6QnE4SnR6a1Q0RVpJd1hURlRwWldBc2lvMF96YnlxYVdjUzFZQndpTFVQcEJQYzlRdng0c0otVWNCU2FDRVlLMlE?oc=5"
+    },
+    {
       "title": "美股今年恐迎崩盤！外媒示警「2指標」雙雙亮紅燈 PTT網友狂吐槽：穩了 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNeExic0RObkxsel92VkZIWW9xZk1qd3VzRi1NenMzZTB1ZnY0WTMtelhPaHJ5N01aRG9QWF85bW9ldTRpOVNjNVlXSU5adkN0WlZrVG44YVRtNHllcWlOU1hIbkRpMXpQODNYOEhtY0RITkdNMEhlUVVTaVR1ZFE5eEp3Ti04c1pVNFdIOS0zajVzSlRSdHd0aURqWFpKMmFONnpqZVU2UzNGZHFYZzhqU3pvaXNfVUJmMDlZU1VOMHdFeGQyUTBMMHNBcVFoQ0IzVnNuVS1kbWhYVWc1MGVQZjQ4RXRuSFZjeUZwb01LX0x6ZVdVTEMzYmZsUUhTOXAwekZNaWRrc1RmME13ZDdPckxyZUNNVTJKTGlrNUZfbThTMlNSSHZ1NFJiSFFxQnBOUVFueHpMVmJEM1NWM3VEUWxFM1p3bk93SzItUWM4ZFpxWHc3Q2xNVk9abjFUbktrdFlydWkzUWJ3QmY3MVFrOEJfaUhzSFRWUWg3dFJaZXpLcnhQM0E?oc=5"
     },
     {
-      "title": "美股開盤半導體與儲存板塊普跌，閃迪重挫超9%，美光、希捷、西數跌超4% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOcU9QWTFod094MGdBMXFGUG5GRXlEZVBucXd2Q0tUM2xVWkxvejNkMDBFc19DRzNjWlhWaS0xdzJhbmFMcnRlNUd3dw?oc=5"
+      "title": "美股》科技股開盤一片慘紅拖累大盤！標普、那指齊跌 台指期夜盤失守45K - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XNjhCb0E2RWNrTm1TMENRMkl3OVlBT1ZvODI4bHA0dTNjcVVWMmllajM4S1dGUFV1MWltMEhCclpDVkVRdWpuOTI2d3paWE80REVuMXhzaFVkT0Q3YVN3?oc=5"
     },
     {
       "title": "13F 大公開：機構沒有逃離 AI，只是換了位置｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNTTdzRVFNWFBhb3JDSXFhS2hxcE1XU0c2aGRLaUdSbUdRZmh3T0g0c3I5YXhST2VmdTZsdnpSN25MbS1ib2FBMEFzRTFJU0t2ZG4xOThwYXUyY3Nmc2pSSHdEMEtsTDBORDJPR1c1S2h5ZkEzZlg5QnhGWnlfWGU4aDZMNkJHdzEzUTg3c01RMHowbzRib3FWakJ6WUNOMm5tdjQwX1V6VDRXOHlid2hCOFliaFdBZkZldWtwa0syR0pDTnVRNjhzSmIwd0RMVFA4S0t5UXhPcEFESzNQbzFyTWFsblVwRHVIaTJ6bDdHTlFHRDR4RTJ6TXdpcDN1M3g5Z19MUk5TTmIyLUdHcWJOY0JYRmVEbmI0dlpkTVNYdDhpOHVOaWM4OTM0SkpUUndKc3p4ajBNOE80UW9USklHOVg1c0NCQWlHZTFPMUFTTmxDUndhRVlWN1NMLUJlSjhYRVNPZ1FvSUdJSzRKWGZGcUtiZlhrQQ?oc=5"
     },
     {
-      "title": "日本黃金零售價續漲衝破\"2.6萬\"、逾3個月高- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelhBR2FYYkFnd3ZuaTBaM2VPd0tGdGhCZ2JleWgwSVRXRVFWSVdMNng4N0M5MGFEVWtXSmhDRE50bEFsUDg0Z0toM1EyQk1iMTBKdlFDZnJrZ0oyanAtbTlhNVBmWlV6QVpfRDY4SlpaMHBCb3RjUmttYXhQTmtkMXJoNm5fMkVXYjVBZjhTN29VUQ?oc=5"
-    },
-    {
-      "title": "比特幣突然大漲，牛市要回來了嗎？ - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mdVp2QWNBQXYxTlNMUEw4by1hWDBzc2I1RDVUUF90eDNHa1ZuTUtHZDJ5V1lnbmxLc19FV1hyYzVrREFreUo5MzIyMXNRQQ?oc=5"
-    },
-    {
       "title": "外資賣超台股157億元調節台塑四寶群創| 證券 - cna.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PbnFhR3l1Sk1pcE54bDRwYjNmRElHX0hUX2lRb0d2X29fU0RWWEgzZjc0LThYUjJ6cWlWLWpYZG05eDVlOHlnLTVqTkZ0R3RxaktpNjlSU0hnb0VhVVE?oc=5"
+    },
+    {
+      "title": "日本黃金零售價續漲衝破\"2.6萬\"、逾3個月高- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelhBR2FYYkFnd3ZuaTBaM2VPd0tGdGhCZ2JleWgwSVRXRVFWSVdMNng4N0M5MGFEVWtXSmhDRE50bEFsUDg0Z0toM1EyQk1iMTBKdlFDZnJrZ0oyanAtbTlhNVBmWlV6QVpfRDY4SlpaMHBCb3RjUmttYXhQTmtkMXJoNm5fMkVXYjVBZjhTN29VUQ?oc=5"
     },
     {
       "title": "投資人評估美國制裁伊朗經濟行動成效 美股三大指數小跌開出 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQS28zLW9NQmFaSHd2SnNaVUxjZDBIaDN4SmNKYUxocnFGQkJYRlJRenRnRjVETVAydDlzNDk5dW9WRnZfYnhGUWNyVm1pRGFaa0JTTUszX0hoMGFhSUpEYTE1SmpFMUJfV2NsLWxfYk9Va1RoX0VZSk4yZmVaemtDcWl0LVNEX09RakRtckZPSGFfejk0cC03aXIyZm9LWk1jS2dGc3dFT3lYd3g2aERNbFBCZ0k3ZFVUVjVOM2NzQXM5SWFGTUctVzZYekRESVI1dk16VHl5ZGM2Y1BGdml1cGVRNFNENGxfWGY2TTBQamI4MTl2bVNVVGczZlFoN3VFVE5zMGxzTm5fMFp2NDVSVy1RWTBsWUxWNXlZQ0paY2pwV3ZIbFJVbUJwem5GSnRmRW5nNDFiTWpkRHhSckdIcHQzUDNOUDlCQXIyaGJ4dGQ0aVlaZjhsd1hsWVhydWExdVJDWWVUT09sZ0VEUTRJX1RQWHl3bEQ4cUFWMXRvcUpRZDJPUzVjSVJqbm9na0JuQ0NvRlZRVktZUFQ0YmN0dQ?oc=5"
     },
     {
-      "title": "〈美股早盤〉市場靜待伊朗制裁、輝達財報與通膨數據 主要指數開低 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZUjJOV2h6QnE4SnR6a1Q0RVpJd1hURlRwWldBc2lvMF96YnlxYVdjUzFZQndpTFVQcEJQYzlRdng0c0otVWNCU2FDRVlLMlE?oc=5"
+      "title": "美股開盤半導體與儲存板塊普跌，閃迪重挫超9%，美光、希捷、西數跌超4% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOcU9QWTFod094MGdBMXFGUG5GRXlEZVBucXd2Q0tUM2xVWkxvejNkMDBFc19DRzNjWlhWaS0xdzJhbmFMcnRlNUd3dw?oc=5"
     }
   ]
 }
