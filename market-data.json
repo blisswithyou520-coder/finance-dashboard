@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/24 16:10",
+  "updated_tw": "08/24 17:04",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77318.36,
-      "change": -436.9056,
-      "changePercent": -0.5619
+      "price": 77130.0,
+      "change": -625.2656,
+      "changePercent": -0.8041
     },
     "ETH": {
-      "price": 2452.46,
-      "change": -11.3559,
-      "changePercent": -0.4609
+      "price": 2459.18,
+      "change": -4.6359,
+      "changePercent": -0.1882
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.834,
-      "change": -0.0043,
-      "changePercent": -0.0135
+      "price": 31.82,
+      "change": -0.0183,
+      "changePercent": -0.0575
     },
     "JPYTWD": {
-      "price": 0.1977,
-      "change": -0.0026,
-      "changePercent": -1.3202
+      "price": 0.1978,
+      "change": -0.0025,
+      "changePercent": -1.2703
     },
     "EURTWD": {
-      "price": 37.161,
-      "change": -0.0502,
-      "changePercent": -0.135
+      "price": 37.172,
+      "change": -0.0392,
+      "changePercent": -0.1054
     },
     "CNYTWD": {
-      "price": 4.7385,
+      "price": 4.741,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4696.6,
-    "twd": 4807.0,
-    "tael": 180259.0,
-    "twdTotal": 149512.0,
-    "changePercent": 1.5679
+    "usd": 4697.2,
+    "twd": 4805.0,
+    "tael": 180203.0,
+    "twdTotal": 149465.0,
+    "changePercent": 1.5808
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,20 @@
   },
   "news": [
     {
+      "title": "美股今年恐迎崩盤！外媒示警「2指標」雙雙亮紅燈 PTT網友狂吐槽：穩了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNeExic0RObkxsel92VkZIWW9xZk1qd3VzRi1NenMzZTB1ZnY0WTMtelhPaHJ5N01aRG9QWF85bW9ldTRpOVNjNVlXSU5adkN0WlZrVG44YVRtNHllcWlOU1hIbkRpMXpQODNYOEhtY0RITkdNMEhlUVVTaVR1ZFE5eEp3Ti04c1pVNFdIOS0zajVzSlRSdHd0aURqWFpKMmFONnpqZVU2UzNGZHFYZzhqU3pvaXNfVUJmMDlZU1VOMHdFeGQyUTBMMHNBcVFoQ0IzVnNuVS1kbWhYVWc1MGVQZjQ4RXRuSFZjeUZwb01LX0x6ZVdVTEMzYmZsUUhTOXAwekZNaWRrc1RmME13ZDdPckxyZUNNVTJKTGlrNUZfbThTMlNSSHZ1NFJiSFFxQnBOUVFueHpMVmJEM1NWM3VEUWxFM1p3bk93SzItUWM4ZFpxWHc3Q2xNVk9abjFUbktrdFlydWkzUWJ3QmY3MVFrOEJfaUhzSFRWUWg3dFJaZXpLcnhQM0E?oc=5"
+    },
+    {
       "title": "比特幣周漲幅創2年來新高 - 日經中文網",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTGk3Z2plc0VRUXFWcXc4RHNHSE1vRkhsRm40Sko2NTFuRmZTTWhSVVZkYzAyVzVOSlZuaDQxZjM0bXZuTHFjeTNoSWU1R2x2dDIxM1huNzZkZVExd3BySy1xTEd4endJdFZmSGZFSWlDQXo2S2dyT3lmX29aNXdlSGdYbHlSalVPOFgw?oc=5"
     },
     {
-      "title": "《台股盤後》量再縮、收跌461點，季線又失守-新聞內容-基金 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQkxkcHNjTlEzWmdKcWx5WG93MEdtWTdrLURRc20xdXhxRXA3eXd0R09tWE1FNWNONzlhYXJwVWwzc0l1RTNKb0RwTnI3LUhiTlRCVkJBaG1oNUFYbHNDRjZaX01sNzF0dEE4VGhDbTl6R083MmU4bnpMYWY1NnR1UzlXaWhXUk9Oc2MyTU9kVmM?oc=5"
+      "title": "日本黃金零售價續漲衝破\"2.6萬\"、逾3個月高- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelhBR2FYYkFnd3ZuaTBaM2VPd0tGdGhCZ2JleWgwSVRXRVFWSVdMNng4N0M5MGFEVWtXSmhDRE50bEFsUDg0Z0toM1EyQk1iMTBKdlFDZnJrZ0oyanAtbTlhNVBmWlV6QVpfRDY4SlpaMHBCb3RjUmttYXhQTmtkMXJoNm5fMkVXYjVBZjhTN29VUQ?oc=5"
     },
     {
-      "title": "財政部才估台股日均量1.1兆元！今僅剩6千億元 學者潑冷水「估得太樂觀」 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPUWlkTVZ1TGFycGdfV0F4X2tWMUFBLWJlc1JkWldjTlRUcGdWWnR2Z1lGTm9ybjZzZzI5YWFKeGlRdW9mOTBqM0c4cG9ldk8zb3JEUThsZ1I3Vkx3M2VtLTVVUkkxcXVsUm56eDQ4ejc0QzBHaHlWU1J2S0UwNEEwSE1reWk4TU5QOHI1Y2IwakRMT0RtMC1FSmhrdlMtRDlCdWZEYmwzangxRzNpbHlGd2FYOHlOWXkyZGR3QkVZd3d6cFVrUkUxanV2U1JESmcxZkZpZnM5SE1FQnVId0hWMV83NV9uUVJEMmpJV3RFcUFOTzF1WXVKZ2ktX3FmVHE0azhkOG5wanRndEtwQnlLRkJpV1VhdlNTSW5FZFJvUjRnSGl4MVdZRGRCWlV5b19adHVnVmJSTGZSeHVuNUhMRmowWkp2YTcwU1ZWYWc4bTBwdVJHcnViNG90dlJuYzliUU1fbXhQTHBLaUlMSldwZGdva2stejRxQ0llSUxhZjJORlh5UzhNMzlwdko3eGp4TTdUVlUtb2pSaXk1b0tSWUhoVFlRcWJ2UmJrdEZRUHhvdUl2eVNDaFhlaVBrSy01enBJVUxIQ2k1bzZ2MEkxYjRoTTY?oc=5"
+      "title": "台股低量跌破45000點 投資人觀望輝達財報 | 證券 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUM0pYc2VMeVE3Z2N2X0tDcFpjV25oVXVRSUIydVQ3Qzh4RzFPYklvMmstZUlWRFp6TXNvNXZuZjdEdHZ4TVVDMzdXcGsxalU3TVFoWGNMd09qUC1aRnc?oc=5"
     },
     {
       "title": "13F 大公開：機構沒有逃離 AI，只是換了位置｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
@@ -137,16 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4ydFNaLWN1d2NCOUtSeEU0dV9tQkhJVU5tT2lEbmZ3bFQ1QngyUkJIUG9NUndveHRDUzlubWVfaWVqUTV1X05wVmtNc2o3OE1JR2laZnFGNUFUQkNOaEhwYUx4dTRpUQ?oc=5"
     },
     {
-      "title": "比特幣、以太幣 ETF 上周吸金 26 億美元，創去年 10 月以來最強紀錄 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmlITWg0ZUljYWZWb1MyMktISkdqSUEzTWczakJrRlZ2RENTQ1l2cGpTT3Z5ZDdENHI5WTRzc0UxU2ZzWHpnandBOHZDS2lKSXp3Z1R4RllfbTBLcWN0MzVOSVN0aDJTdE53VUcwVWVQa25HTTN5bEN0SDMtMVJNa0UxRVpBd0ZPaTVqUms3bWZoWkJKUVB5QnpZYjB0a0ZYc1UtcmVmTzF6ZFFyUE9hUQ?oc=5"
+      "title": "美股市值排行2026怎麼看？輝達、蘋果、Google領軍，全球資金為何仍盯緊美股？ - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IUGhpbjlsczZqNjNNYi1OVVRCZWpjWWpLcFc2cDQ4Wjk0ZTFNRUdnQ3pndEM0bDJKX1kzYk1xMFFMRUZKcjI2N0MzcWJzam8?oc=5"
     },
     {
-      "title": "台股成交量創逾4個月新低、外資翻空 三大法人賣超163.77億元 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByY2VEUDdnNTBHaGxmLUdKRzBsWGN5d0JGR3NaQmtXVEZlNnV5THEtZHVFc2xpQlFJTlpFaVZyQnZOV2lyaTZGNllCY2ZZLTQ?oc=5"
-    },
-    {
-      "title": "日本黃金零售價續漲衝破\"2.6萬\"、逾3個月高- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelhBR2FYYkFnd3ZuaTBaM2VPd0tGdGhCZ2JleWgwSVRXRVFWSVdMNng4N0M5MGFEVWtXSmhDRE50bEFsUDg0Z0toM1EyQk1iMTBKdlFDZnJrZ0oyanAtbTlhNVBmWlV6QVpfRDY4SlpaMHBCb3RjUmttYXhQTmtkMXJoNm5fMkVXYjVBZjhTN29VUQ?oc=5"
+      "title": "財政部才估台股日均量1.1兆元！今僅剩6千億元 學者潑冷水「估得太樂觀」 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPUWlkTVZ1TGFycGdfV0F4X2tWMUFBLWJlc1JkWldjTlRUcGdWWnR2Z1lGTm9ybjZzZzI5YWFKeGlRdW9mOTBqM0c4cG9ldk8zb3JEUThsZ1I3Vkx3M2VtLTVVUkkxcXVsUm56eDQ4ejc0QzBHaHlWU1J2S0UwNEEwSE1reWk4TU5QOHI1Y2IwakRMT0RtMC1FSmhrdlMtRDlCdWZEYmwzangxRzNpbHlGd2FYOHlOWXkyZGR3QkVZd3d6cFVrUkUxanV2U1JESmcxZkZpZnM5SE1FQnVId0hWMV83NV9uUVJEMmpJV3RFcUFOTzF1WXVKZ2ktX3FmVHE0azhkOG5wanRndEtwQnlLRkJpV1VhdlNTSW5FZFJvUjRnSGl4MVdZRGRCWlV5b19adHVnVmJSTGZSeHVuNUhMRmowWkp2YTcwU1ZWYWc4bTBwdVJHcnViNG90dlJuYzliUU1fbXhQTHBLaUlMSldwZGdva2stejRxQ0llSUxhZjJORlh5UzhNMzlwdko3eGp4TTdUVlUtb2pSaXk1b0tSWUhoVFlRcWJ2UmJrdEZRUHhvdUl2eVNDaFhlaVBrSy01enBJVUxIQ2k1bzZ2MEkxYjRoTTY?oc=5"
     }
   ]
 }
