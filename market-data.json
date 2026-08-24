@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/24 20:48",
+  "updated_tw": "08/24 21:50",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 214.72,
-      "change": -2.13,
-      "changePercent": -0.9822
+      "price": 209.55,
+      "change": -5.17,
+      "changePercent": -2.4078
     },
     "AAPL": {
-      "price": 309.35,
-      "change": -1.95,
-      "changePercent": -0.6264
+      "price": 311.53,
+      "change": 2.18,
+      "changePercent": 0.7047
     },
     "TSLA": {
-      "price": 362.86,
-      "change": 17.73,
-      "changePercent": 5.1372
+      "price": 352.9,
+      "change": -9.96,
+      "changePercent": -2.7449
     },
     "QQQ": {
-      "price": 713.44,
-      "change": 2.51,
-      "changePercent": 0.3531
+      "price": 703.53,
+      "change": -9.91,
+      "changePercent": -1.389
     },
     "SPY": {
-      "price": 765.72,
-      "change": 3.12,
-      "changePercent": 0.4091
+      "price": 763.07,
+      "change": -2.65,
+      "changePercent": -0.3461
     },
     "SCHD": {
-      "price": 35.11,
-      "change": 0.28,
-      "changePercent": 0.8039
+      "price": 35.28,
+      "change": 0.17,
+      "changePercent": 0.4842
     },
     "VOO": {
-      "price": 703.71,
-      "change": 2.7,
-      "changePercent": 0.3852
+      "price": 701.445,
+      "change": -2.265,
+      "changePercent": -0.3219
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78924.19,
-      "change": 1168.9244,
-      "changePercent": 1.5033
+      "price": 78206.81,
+      "change": 451.5444,
+      "changePercent": 0.5807
     },
     "ETH": {
-      "price": 2505.8,
-      "change": 41.9841,
-      "changePercent": 1.704
+      "price": 2489.78,
+      "change": 25.9641,
+      "changePercent": 1.0538
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.809,
-      "change": -0.0293,
-      "changePercent": -0.092
+      "price": 31.818,
+      "change": -0.0203,
+      "changePercent": -0.0638
     },
     "JPYTWD": {
-      "price": 0.1979,
-      "change": -0.0024,
-      "changePercent": -1.2204
+      "price": 0.1978,
+      "change": -0.0025,
+      "changePercent": -1.2703
     },
     "EURTWD": {
-      "price": 37.163,
-      "change": -0.0482,
-      "changePercent": -0.1296
+      "price": 37.175,
+      "change": -0.0362,
+      "changePercent": -0.0974
     },
     "CNYTWD": {
-      "price": 4.7377,
+      "price": 4.7387,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4720.9,
-    "twd": 4828.0,
-    "tael": 181049.0,
-    "twdTotal": 150167.0,
-    "changePercent": 2.0934
+    "usd": 4723.2,
+    "twd": 4832.0,
+    "tael": 181189.0,
+    "twdTotal": 150283.0,
+    "changePercent": 2.1431
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTGk3Z2plc0VRUXFWcXc4RHNHSE1vRkhsRm40Sko2NTFuRmZTTWhSVVZkYzAyVzVOSlZuaDQxZjM0bXZuTHFjeTNoSWU1R2x2dDIxM1huNzZkZVExd3BySy1xTEd4endJdFZmSGZFSWlDQXo2S2dyT3lmX29aNXdlSGdYbHlSalVPOFgw?oc=5"
     },
     {
-      "title": "《美股》比特幣強 那指漲 等輝達財報、華許談話-新聞內容-基金 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ1FHN3VMUW96N1hYR0Z5MGw2dnRHb0pDc1ViT1RYZVBPRUxPb3RGTnlmNEVra2FfRDhVZkVWUXVJck42ZWxFcHE3a29hcXhJOExieW1CdEd6eEhKV0VuV1ZMYjBoYTNyOVg2N2o0UVk4YmlQT2ZpVXNKWDlDeHRiVmxJQ1RLWFRuWGRXWHRVazY?oc=5"
-    },
-    {
-      "title": "比特幣突然大漲，牛市要回來了嗎？ - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mdVp2QWNBQXYxTlNMUEw4by1hWDBzc2I1RDVUUF90eDNHa1ZuTUtHZDJ5V1lnbmxLc19FV1hyYzVrREFreUo5MzIyMXNRQQ?oc=5"
+      "title": "美股早盤／科技股領跌費半摔2% 光通訊股重挫| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OcUlKTnMtVkVxRk5DbjJ0SmxLd2NLYXR1VExJZ01UVHpBUEVQdGlaU0xUWEpmSUExQUZZd0M3RFNwNHl3bDZOd0RGM194ejNp?oc=5"
     },
     {
       "title": "13F 大公開：機構沒有逃離 AI，只是換了位置｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNTTdzRVFNWFBhb3JDSXFhS2hxcE1XU0c2aGRLaUdSbUdRZmh3T0g0c3I5YXhST2VmdTZsdnpSN25MbS1ib2FBMEFzRTFJU0t2ZG4xOThwYXUyY3Nmc2pSSHdEMEtsTDBORDJPR1c1S2h5ZkEzZlg5QnhGWnlfWGU4aDZMNkJHdzEzUTg3c01RMHowbzRib3FWakJ6WUNOMm5tdjQwX1V6VDRXOHlid2hCOFliaFdBZkZldWtwa0syR0pDTnVRNjhzSmIwd0RMVFA4S0t5UXhPcEFESzNQbzFyTWFsblVwRHVIaTJ6bDdHTlFHRDR4RTJ6TXdpcDN1M3g5Z19MUk5TTmIyLUdHcWJOY0JYRmVEbmI0dlpkTVNYdDhpOHVOaWM4OTM0SkpUUndKc3p4ajBNOE80UW9USklHOVg1c0NCQWlHZTFPMUFTTmxDUndhRVlWN1NMLUJlSjhYRVNPZ1FvSUdJSzRKWGZGcUtiZlhrQQ?oc=5"
     },
     {
+      "title": "日本黃金零售價續漲衝破\"2.6萬\"、逾3個月高- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelhBR2FYYkFnd3ZuaTBaM2VPd0tGdGhCZ2JleWgwSVRXRVFWSVdMNng4N0M5MGFEVWtXSmhDRE50bEFsUDg0Z0toM1EyQk1iMTBKdlFDZnJrZ0oyanAtbTlhNVBmWlV6QVpfRDY4SlpaMHBCb3RjUmttYXhQTmtkMXJoNm5fMkVXYjVBZjhTN29VUQ?oc=5"
+    },
+    {
       "title": "貝森特盯上萬億美元「應急資金池」擬為美債買單，市場短線提振，比特幣、以太坊、黃金，美債全線上漲 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04SjlOdTdQUzhPcE94WkplLWM3Nm1nd0FnU3FkSVpmOWhwWnNkSWlITW13WXFOVTUzNjBhYlRzWE12MEZ6SGYzOVlITQ?oc=5"
     },
     {
-      "title": "台股今天到底殺什麼？ 專家一眼看穿：不是美債 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPWk5IYlI4NkZUZmtZamtvTXFIU0plaW1jRU9aQmJnTVdSZHJUeXJqajVWck5lLWRUN1lUY3dKRE9NcXRuQmR2Z3h1SkM3ajZvUTMzNFJwQ08ycjZGS3NtV2pMbjFWQThWek1JTGZYYjZZMk9JVzllaXFiN3g1RmNDQ3h1YVljdVN0ZkpDV2lBQzZhTGlnUWpzd3NTaURLZFdLclZia1lLNWRlRGN3NFJna2xuOEF0Zy1pbTFZamtHcFJnRnZHTl9BaGFkV08yb1B6b1dEQXJpZWlDSndabFJpWDR1SC13RTNhWVhzUHdhYmFnR0xLcHEwUE9kWW9DMm5fTTVtQzNGQkxxSXREOFdxVDV6eGUtaFd2bF85TEIwYVNVbkRHYnRXUmFFT0FIRUlsZGw5YlNMVQ?oc=5"
+      "title": "比特幣突然大漲，牛市要回來了嗎？ - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mdVp2QWNBQXYxTlNMUEw4by1hWDBzc2I1RDVUUF90eDNHa1ZuTUtHZDJ5V1lnbmxLc19FV1hyYzVrREFreUo5MzIyMXNRQQ?oc=5"
     },
     {
-      "title": "日本黃金零售價續漲衝破\"2.6萬\"、逾3個月高- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelhBR2FYYkFnd3ZuaTBaM2VPd0tGdGhCZ2JleWgwSVRXRVFWSVdMNng4N0M5MGFEVWtXSmhDRE50bEFsUDg0Z0toM1EyQk1iMTBKdlFDZnJrZ0oyanAtbTlhNVBmWlV6QVpfRDY4SlpaMHBCb3RjUmttYXhQTmtkMXJoNm5fMkVXYjVBZjhTN29VUQ?oc=5"
+      "title": "黃金正2單月狂飆27%！高盛喊出金價挑戰5500美元 投資人瘋搶 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOb1dQY2pxRU01OWc3cGI3a0pvSEIycmJUa3JNMV9peWtnQ1VxTk1yRDZYQXZya1pNX3lLeGZPREZmYWVHY2lyR1BBc2RYMkFWWWw4RWlhUUxIdm5mR3ZZNHZyMFh6NS1GdjRaMDZMR0dFbGtlVjhBQXpEZC1HVUNrUnN5WnM4VmQ3Z0dIb09rcHpNN21jZWpkZ00wMnpZX1hBU05ZdFdMa1hHNlBGemI2QUs2LVY3ckd5LXltSkw1dzVKQi1UYkhKSW5QOXhiLTNFMnhHTnNiMTZoRTNOMDNvVW9ZWHhfTkhHbzNKazFkTUhrejA4b3I2djhWZ0hkb1dkalg0Sk9PZ1ozMkZXTXdEbFZhTi0wZXdFQUplQkM4SnJmVW11T0dlb2l6V2hxTlFpcXJKQWpMdFZ0VHkwRFRHNXFZaVRlSnpwV0ZyTjNyZWthTjgxZzc0SzN3NTMzcDRzMXYwQWl1Ui10VzVXM0pz?oc=5"
     }
   ]
 }
