@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/24 15:19",
+  "updated_tw": "08/24 16:10",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77649.14,
-      "change": -106.1256,
-      "changePercent": -0.1365
+      "price": 77318.36,
+      "change": -436.9056,
+      "changePercent": -0.5619
     },
     "ETH": {
-      "price": 2464.3,
-      "change": 0.4841,
-      "changePercent": 0.0196
+      "price": 2452.46,
+      "change": -11.3559,
+      "changePercent": -0.4609
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.815,
-      "change": -0.0233,
-      "changePercent": -0.0732
+      "price": 31.834,
+      "change": -0.0043,
+      "changePercent": -0.0135
     },
     "JPYTWD": {
-      "price": 0.1978,
-      "change": -0.0025,
-      "changePercent": -1.2703
+      "price": 0.1977,
+      "change": -0.0026,
+      "changePercent": -1.3202
     },
     "EURTWD": {
-      "price": 37.192,
-      "change": -0.0192,
-      "changePercent": -0.0517
+      "price": 37.161,
+      "change": -0.0502,
+      "changePercent": -0.135
     },
     "CNYTWD": {
-      "price": 4.7406,
+      "price": 4.7385,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4701.6,
-    "twd": 4809.0,
-    "tael": 180343.0,
-    "twdTotal": 149581.0,
-    "changePercent": 1.676
+    "usd": 4696.6,
+    "twd": 4807.0,
+    "tael": 180259.0,
+    "twdTotal": 149512.0,
+    "changePercent": 1.5679
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,16 +121,16 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTGk3Z2plc0VRUXFWcXc4RHNHSE1vRkhsRm40Sko2NTFuRmZTTWhSVVZkYzAyVzVOSlZuaDQxZjM0bXZuTHFjeTNoSWU1R2x2dDIxM1huNzZkZVExd3BySy1xTEd4endJdFZmSGZFSWlDQXo2S2dyT3lmX29aNXdlSGdYbHlSalVPOFgw?oc=5"
     },
     {
+      "title": "《台股盤後》量再縮、收跌461點，季線又失守-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQkxkcHNjTlEzWmdKcWx5WG93MEdtWTdrLURRc20xdXhxRXA3eXd0R09tWE1FNWNONzlhYXJwVWwzc0l1RTNKb0RwTnI3LUhiTlRCVkJBaG1oNUFYbHNDRjZaX01sNzF0dEE4VGhDbTl6R083MmU4bnpMYWY1NnR1UzlXaWhXUk9Oc2MyTU9kVmM?oc=5"
+    },
+    {
       "title": "財政部才估台股日均量1.1兆元！今僅剩6千億元 學者潑冷水「估得太樂觀」 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPUWlkTVZ1TGFycGdfV0F4X2tWMUFBLWJlc1JkWldjTlRUcGdWWnR2Z1lGTm9ybjZzZzI5YWFKeGlRdW9mOTBqM0c4cG9ldk8zb3JEUThsZ1I3Vkx3M2VtLTVVUkkxcXVsUm56eDQ4ejc0QzBHaHlWU1J2S0UwNEEwSE1reWk4TU5QOHI1Y2IwakRMT0RtMC1FSmhrdlMtRDlCdWZEYmwzangxRzNpbHlGd2FYOHlOWXkyZGR3QkVZd3d6cFVrUkUxanV2U1JESmcxZkZpZnM5SE1FQnVId0hWMV83NV9uUVJEMmpJV3RFcUFOTzF1WXVKZ2ktX3FmVHE0azhkOG5wanRndEtwQnlLRkJpV1VhdlNTSW5FZFJvUjRnSGl4MVdZRGRCWlV5b19adHVnVmJSTGZSeHVuNUhMRmowWkp2YTcwU1ZWYWc4bTBwdVJHcnViNG90dlJuYzliUU1fbXhQTHBLaUlMSldwZGdva2stejRxQ0llSUxhZjJORlh5UzhNMzlwdko3eGp4TTdUVlUtb2pSaXk1b0tSWUhoVFlRcWJ2UmJrdEZRUHhvdUl2eVNDaFhlaVBrSy01enBJVUxIQ2k1bzZ2MEkxYjRoTTY?oc=5"
     },
     {
-      "title": "美股盤後｜美經濟不著陸？加密貨幣與銅概念股領跑大盤 0824｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNalBMYVZKUXZGNTF5bXEwZWxfeEF4MDc1MzRrT3ltWlhBRHFnRVd4SmFIQUJ6Sks4dHZaOTBsZnlwcFZUT3lFbGtPc1BnTHJsU01zUmJQZXhvc2ZUVVRXM2NqS3RPeVlUYWdNNlpMXzNJSm41U3J5ek5Hb0JQTHYzY2dSeUM2MGdXcURTTkt6bENlX2wzZ1V4OUhuTDJKcUlLcGIyVTQ2RWxNRk5hblV0MU1CaEJJRTUyUy1ibFpKQnJfdVFyNkZ3OXUxV0x2NDVKakpWTjY0QXdoaDB3S0RxWS0wcDhWb2VXcmVRREhHbWJYZWhOM3h1Z1pkYlEyMXBKWndYcE91azNaYkpjZzcxMHB0amFjSkRQNVYwOVIwQk84Yk5wWVoyTXFUTkN5VVJtaEZjZEZzenBhMVliY3JYSnRyOHg5NjRlTnRWM2ZFb1pwanBFZ2tXbjc3RkhFSlJPUWNwT1lZRjNnRXhfQnQweXlBOHM3UlczbS1qMzJsVHNWOGp6ZDdlMDZxTHdpbVEyVmRJQ3hkeS1MZkRPUHI3VG13?oc=5"
-    },
-    {
-      "title": "日本黃金零售價續漲衝破\"2.6萬\"、逾3個月高- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelhBR2FYYkFnd3ZuaTBaM2VPd0tGdGhCZ2JleWgwSVRXRVFWSVdMNng4N0M5MGFEVWtXSmhDRE50bEFsUDg0Z0toM1EyQk1iMTBKdlFDZnJrZ0oyanAtbTlhNVBmWlV6QVpfRDY4SlpaMHBCb3RjUmttYXhQTmtkMXJoNm5fMkVXYjVBZjhTN29VUQ?oc=5"
+      "title": "13F 大公開：機構沒有逃離 AI，只是換了位置｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNTTdzRVFNWFBhb3JDSXFhS2hxcE1XU0c2aGRLaUdSbUdRZmh3T0g0c3I5YXhST2VmdTZsdnpSN25MbS1ib2FBMEFzRTFJU0t2ZG4xOThwYXUyY3Nmc2pSSHdEMEtsTDBORDJPR1c1S2h5ZkEzZlg5QnhGWnlfWGU4aDZMNkJHdzEzUTg3c01RMHowbzRib3FWakJ6WUNOMm5tdjQwX1V6VDRXOHlid2hCOFliaFdBZkZldWtwa0syR0pDTnVRNjhzSmIwd0RMVFA4S0t5UXhPcEFESzNQbzFyTWFsblVwRHVIaTJ6bDdHTlFHRDR4RTJ6TXdpcDN1M3g5Z19MUk5TTmIyLUdHcWJOY0JYRmVEbmI0dlpkTVNYdDhpOHVOaWM4OTM0SkpUUndKc3p4ajBNOE80UW9USklHOVg1c0NCQWlHZTFPMUFTTmxDUndhRVlWN1NMLUJlSjhYRVNPZ1FvSUdJSzRKWGZGcUtiZlhrQQ?oc=5"
     },
     {
       "title": "新聞稿－把握兒童發展黃金期中正衛生所呼籲家長完成6次免費兒童發展篩檢 - klchb.klcg.gov.tw",
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmlITWg0ZUljYWZWb1MyMktISkdqSUEzTWczakJrRlZ2RENTQ1l2cGpTT3Z5ZDdENHI5WTRzc0UxU2ZzWHpnandBOHZDS2lKSXp3Z1R4RllfbTBLcWN0MzVOSVN0aDJTdE53VUcwVWVQa25HTTN5bEN0SDMtMVJNa0UxRVpBd0ZPaTVqUms3bWZoWkJKUVB5QnpZYjB0a0ZYc1UtcmVmTzF6ZFFyUE9hUQ?oc=5"
     },
     {
-      "title": "美股市值排行2026怎麼看？輝達、蘋果、Google領軍，全球資金為何仍盯緊美股？ - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IUGhpbjlsczZqNjNNYi1OVVRCZWpjWWpLcFc2cDQ4Wjk0ZTFNRUdnQ3pndEM0bDJKX1kzYk1xMFFMRUZKcjI2N0MzcWJzam8?oc=5"
+      "title": "台股成交量創逾4個月新低、外資翻空 三大法人賣超163.77億元 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByY2VEUDdnNTBHaGxmLUdKRzBsWGN5d0JGR3NaQmtXVEZlNnV5THEtZHVFc2xpQlFJTlpFaVZyQnZOV2lyaTZGNllCY2ZZLTQ?oc=5"
     },
     {
-      "title": "美股今年恐迎崩盤！外媒示警「2指標」雙雙亮紅燈 PTT網友狂吐槽：穩了 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNeExic0RObkxsel92VkZIWW9xZk1qd3VzRi1NenMzZTB1ZnY0WTMtelhPaHJ5N01aRG9QWF85bW9ldTRpOVNjNVlXSU5adkN0WlZrVG44YVRtNHllcWlOU1hIbkRpMXpQODNYOEhtY0RITkdNMEhlUVVTaVR1ZFE5eEp3Ti04c1pVNFdIOS0zajVzSlRSdHd0aURqWFpKMmFONnpqZVU2UzNGZHFYZzhqU3pvaXNfVUJmMDlZU1VOMHdFeGQyUTBMMHNBcVFoQ0IzVnNuVS1kbWhYVWc1MGVQZjQ4RXRuSFZjeUZwb01LX0x6ZVdVTEMzYmZsUUhTOXAwekZNaWRrc1RmME13ZDdPckxyZUNNVTJKTGlrNUZfbThTMlNSSHZ1NFJiSFFxQnBOUVFueHpMVmJEM1NWM3VEUWxFM1p3bk93SzItUWM4ZFpxWHc3Q2xNVk9abjFUbktrdFlydWkzUWJ3QmY3MVFrOEJfaUhzSFRWUWg3dFJaZXpLcnhQM0E?oc=5"
+      "title": "日本黃金零售價續漲衝破\"2.6萬\"、逾3個月高- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelhBR2FYYkFnd3ZuaTBaM2VPd0tGdGhCZ2JleWgwSVRXRVFWSVdMNng4N0M5MGFEVWtXSmhDRE50bEFsUDg0Z0toM1EyQk1iMTBKdlFDZnJrZ0oyanAtbTlhNVBmWlV6QVpfRDY4SlpaMHBCb3RjUmttYXhQTmtkMXJoNm5fMkVXYjVBZjhTN29VUQ?oc=5"
     }
   ]
 }
