@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 06:24",
+  "updated_tw": "08/25 06:53",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78841.9,
-      "change": 1086.6344,
-      "changePercent": 1.3975
+      "price": 78805.5,
+      "change": 1050.2344,
+      "changePercent": 1.3507
     },
     "ETH": {
-      "price": 2479.18,
-      "change": 15.3641,
-      "changePercent": 0.6236
+      "price": 2478.84,
+      "change": 15.0241,
+      "changePercent": 0.6098
     }
   },
   "fx": {
@@ -94,26 +94,59 @@
       "changePercent": -1.1855
     },
     "EURTWD": {
-      "price": 37.162,
-      "change": 0.0067,
-      "changePercent": 0.0181
+      "price": 37.163,
+      "change": 0.0077,
+      "changePercent": 0.0208
     },
     "CNYTWD": {
-      "price": 4.7405,
+      "price": 4.7377,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4715.7,
-    "twd": 4824.0,
-    "tael": 180913.0,
-    "twdTotal": 150054.0,
-    "changePercent": 1.9809
+    "usd": 4717.7,
+    "twd": 4826.0,
+    "tael": 180989.0,
+    "twdTotal": 150117.0,
+    "changePercent": 2.0242
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "輝達財報倒數！美股觀望氣氛濃 費半大跌逾3%、台積電ADR跌近3% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQRHIzb2NoYVVYY19aZ0dQa0drXy1YLXBnLXdzLVNWWkV5dzRfU1o4LUVpT3NJdkk3WGh1c2U3VF80bEtVWkFhQi1aVEowbUc2N0pPcHV6VG1IWVFVcXNsQWcwWGQ0a1dXemt2Nk1LZVNBSkw0dDJkNVRlejdJV0ZSdTAybHNlb0F6by1zTnpRdmhGcm8yWEhBSHR4U2h2RFdPTndfU3VqLWlNOXZLdkk5Um5PRENnNndjN1oxQXUxV2lLTUVkRDVHcl80bnVIT0dvd0FhZzhVeDVyZmc5TURYR0ZsYkdXbkIwazMtYVE4YkZQdWRrODAxN2lVNVZjUmFLQVZEVXZDMFRFSnVKMkdGaFI0czZmR19GcVdrbEN3LWU1R1ZldXRnc1lJbmtDdENjXzNlb3NnSEZCTXV0UFZUbXhLR1pTVHpjQ2xEU0pmYjVnX29KeHFESjdyY19GTlJ3T3lBY09KMEk2b1NHV2twM1E1d0pSWE5WZWc?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉輝達財報前連七黑 記憶體股崩跌 費半收黑2.7% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QZFlMOFVvNzJHRHhSajRqLTY2LTFpNU1Ea3VzVkdZMGJvSFNFOUZ0bTc0RlI0VC1tSk00bTBfSmwtX05ubTl3dDBnOVRCbVE?oc=5"
+    },
+    {
+      "title": "美股早盤／避險情緒升溫「科技股領跌」 費半摔2%、光通訊股重挫| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OcUlKTnMtVkVxRk5DbjJ0SmxLd2NLYXR1VExJZ01UVHpBUEVQdGlaU0xUWEpmSUExQUZZd0M3RFNwNHl3bDZOd0RGM194ejNp?oc=5"
+    },
+    {
+      "title": "美股》科技股開盤一片慘紅拖累大盤！標普、那指齊跌 台指期夜盤失守45K - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XNjhCb0E2RWNrTm1TMENRMkl3OVlBT1ZvODI4bHA0dTNjcVVWMmllajM4S1dGUFV1MWltMEhCclpDVkVRdWpuOTI2d3paWE80REVuMXhzaFVkT0Q3YVN3?oc=5"
+    },
+    {
+      "title": "【 0824台股盤後】台股大盤量縮拉回461 點收44,762 點！投信抗跌單日買超37 億，矽晶圓逆勢抗跌，投本比鎖碼禾伸堂、台勝科、宏致｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiugVBVV95cUxOU2pHa2VEQm1ZZVl6WDN2YXpIbzJWM29MX0o5SzlETzVIOHpsNFF0cVV1bTBsQzZFSFZZMHlWRFh1dkxvOGNMUTdaYmhxYlI1eUViaFp2WFF6WXNodjJnMkNYSTBWdUR1dnViTzl6ZUlFeWYzX2txZnJZSDV3a014V2JTNVJkT1R4Sk5jQ25pRktJMGhEOGhpVENNVTVaMTBwZlJqZUFEYzBhdU1KQlZNZ2FPemd0dUYzNjJXdlphOUZ2SVZON09ic0RvU0YwU0RYX0ZHUWU5d2xsMkc4b1AwYkRNaWpFTzRWZW1nbDdibzhaNzBrQTdUbnJveTZ4NHRrcGw2TVNhTDZJQW9jcEFVV0dtSURvNjdjblFhUVJITXBna1dVSTl5d2hHeVBzODVpb0NSLXZiYnI0UmlTakVVMWdveHg5TEN0TDFoUHJick44a08yVi1sNW9EQjcwSUNLOGFyMTMwcXV1MkJiTG1JY1ZBV2thNDBUUmVyVkNqZ0NoQTZWbWptNzhTRGdWMU9PR0poa0NoSm0ySXBYRkxLU19vaHJiRDVFcTAtN0p5a19Md0Q2R1dQNzVYb1NRNmRSSW4wNXJ3Vld2VjJKVlZmWXBsZWNRQzlMQXNFNnloSkF3QWhINjZWTmVKdGszVC1nV2lpSlFvX3d5dUhnTzFzYTBVa0RNNVNpa2VzV3lFdVIxX2M4ZkE0eHpEdkpXaExhb2RneUswY0pVOGVMbXFfMWt4N21sUVkzZ3Y2UDlYU3JUMmRJYVo0MTl5U2pXWmxjSzJZZjJoUl80OVpiV3NUTVVodTBMRE4tVHZSbGdlMEpjaUdGamRFZ3RVb0VhcWhHNllJc2Zob0NSbGo0Rlg1ZjlsREdnRGU0TVlGaHJGUldvVEVRVE93dC1xWmlielNGWHg3VngwTGZFQQ?oc=5"
+    },
+    {
+      "title": "比特幣突然大漲，牛市要回來了嗎？ - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mdVp2QWNBQXYxTlNMUEw4by1hWDBzc2I1RDVUUF90eDNHa1ZuTUtHZDJ5V1lnbmxLc19FV1hyYzVrREFreUo5MzIyMXNRQQ?oc=5"
+    },
+    {
+      "title": "《貴金屬》市場觀望 COMEX黃金上漲0.4% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVd2S3F3Z1NSNkxxX2ZNbFRZZjFTVUROS1JoYUdaWkszd3hORWhtMS1sdEt6emJjLTl4UFJyNGdleVkyQXBEazMwY2JQUFlVd21EQjFqTjJjODJ4T3BaUkhpQ2NiSDZzc0hDNHBqcU1ad05LbjFFSkxhYmpST3hnX3JXYlp0QVExRHBKbmNjSTZOQQ?oc=5"
+    },
+    {
+      "title": "美股今年恐迎崩盤！外媒示警「2指標」雙雙亮紅燈 PTT網友狂吐槽：穩了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNeExic0RObkxsel92VkZIWW9xZk1qd3VzRi1NenMzZTB1ZnY0WTMtelhPaHJ5N01aRG9QWF85bW9ldTRpOVNjNVlXSU5adkN0WlZrVG44YVRtNHllcWlOU1hIbkRpMXpQODNYOEhtY0RITkdNMEhlUVVTaVR1ZFE5eEp3Ti04c1pVNFdIOS0zajVzSlRSdHd0aURqWFpKMmFONnpqZVU2UzNGZHFYZzhqU3pvaXNfVUJmMDlZU1VOMHdFeGQyUTBMMHNBcVFoQ0IzVnNuVS1kbWhYVWc1MGVQZjQ4RXRuSFZjeUZwb01LX0x6ZVdVTEMzYmZsUUhTOXAwekZNaWRrc1RmME13ZDdPckxyZUNNVTJKTGlrNUZfbThTMlNSSHZ1NFJiSFFxQnBOUVFueHpMVmJEM1NWM3VEUWxFM1p3bk93SzItUWM4ZFpxWHc3Q2xNVk9abjFUbktrdFlydWkzUWJ3QmY3MVFrOEJfaUhzSFRWUWg3dFJaZXpLcnhQM0E?oc=5"
+    }
+  ]
 }
