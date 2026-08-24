@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/24 19:55",
+  "updated_tw": "08/24 20:48",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -72,31 +72,31 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78163.96,
-      "change": 408.6944,
-      "changePercent": 0.5256
+      "price": 78924.19,
+      "change": 1168.9244,
+      "changePercent": 1.5033
     },
     "ETH": {
-      "price": 2491.86,
-      "change": 28.0441,
-      "changePercent": 1.1382
+      "price": 2505.8,
+      "change": 41.9841,
+      "changePercent": 1.704
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.807,
-      "change": -0.0313,
-      "changePercent": -0.0983
+      "price": 31.809,
+      "change": -0.0293,
+      "changePercent": -0.092
     },
     "JPYTWD": {
-      "price": 0.1978,
-      "change": -0.0025,
-      "changePercent": -1.2703
+      "price": 0.1979,
+      "change": -0.0024,
+      "changePercent": -1.2204
     },
     "EURTWD": {
-      "price": 37.158,
-      "change": -0.0532,
-      "changePercent": -0.143
+      "price": 37.163,
+      "change": -0.0482,
+      "changePercent": -0.1296
     },
     "CNYTWD": {
       "price": 4.7377,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4716.2,
-    "twd": 4823.0,
-    "tael": 180858.0,
-    "twdTotal": 150008.0,
-    "changePercent": 1.9917
+    "usd": 4720.9,
+    "twd": 4828.0,
+    "tael": 181049.0,
+    "twdTotal": 150167.0,
+    "changePercent": 2.0934
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,20 +125,20 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTGk3Z2plc0VRUXFWcXc4RHNHSE1vRkhsRm40Sko2NTFuRmZTTWhSVVZkYzAyVzVOSlZuaDQxZjM0bXZuTHFjeTNoSWU1R2x2dDIxM1huNzZkZVExd3BySy1xTEd4endJdFZmSGZFSWlDQXo2S2dyT3lmX29aNXdlSGdYbHlSalVPOFgw?oc=5"
     },
     {
-      "title": "【 0824台股盤後】台股大盤量縮拉回461 點收44,762 點！投信抗跌單日買超37 億，矽晶圓逆勢抗跌，投本比鎖碼禾伸堂、台勝科、宏致｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiugVBVV95cUxOU2pHa2VEQm1ZZVl6WDN2YXpIbzJWM29MX0o5SzlETzVIOHpsNFF0cVV1bTBsQzZFSFZZMHlWRFh1dkxvOGNMUTdaYmhxYlI1eUViaFp2WFF6WXNodjJnMkNYSTBWdUR1dnViTzl6ZUlFeWYzX2txZnJZSDV3a014V2JTNVJkT1R4Sk5jQ25pRktJMGhEOGhpVENNVTVaMTBwZlJqZUFEYzBhdU1KQlZNZ2FPemd0dUYzNjJXdlphOUZ2SVZON09ic0RvU0YwU0RYX0ZHUWU5d2xsMkc4b1AwYkRNaWpFTzRWZW1nbDdibzhaNzBrQTdUbnJveTZ4NHRrcGw2TVNhTDZJQW9jcEFVV0dtSURvNjdjblFhUVJITXBna1dVSTl5d2hHeVBzODVpb0NSLXZiYnI0UmlTakVVMWdveHg5TEN0TDFoUHJick44a08yVi1sNW9EQjcwSUNLOGFyMTMwcXV1MkJiTG1JY1ZBV2thNDBUUmVyVkNqZ0NoQTZWbWptNzhTRGdWMU9PR0poa0NoSm0ySXBYRkxLU19vaHJiRDVFcTAtN0p5a19Md0Q2R1dQNzVYb1NRNmRSSW4wNXJ3Vld2VjJKVlZmWXBsZWNRQzlMQXNFNnloSkF3QWhINjZWTmVKdGszVC1nV2lpSlFvX3d5dUhnTzFzYTBVa0RNNVNpa2VzV3lFdVIxX2M4ZkE0eHpEdkpXaExhb2RneUswY0pVOGVMbXFfMWt4N21sUVkzZ3Y2UDlYU3JUMmRJYVo0MTl5U2pXWmxjSzJZZjJoUl80OVpiV3NUTVVodTBMRE4tVHZSbGdlMEpjaUdGamRFZ3RVb0VhcWhHNllJc2Zob0NSbGo0Rlg1ZjlsREdnRGU0TVlGaHJGUldvVEVRVE93dC1xWmlielNGWHg3VngwTGZFQQ?oc=5"
-    },
-    {
       "title": "《美股》比特幣強 那指漲 等輝達財報、華許談話-新聞內容-基金 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ1FHN3VMUW96N1hYR0Z5MGw2dnRHb0pDc1ViT1RYZVBPRUxPb3RGTnlmNEVra2FfRDhVZkVWUXVJck42ZWxFcHE3a29hcXhJOExieW1CdEd6eEhKV0VuV1ZMYjBoYTNyOVg2N2o0UVk4YmlQT2ZpVXNKWDlDeHRiVmxJQ1RLWFRuWGRXWHRVazY?oc=5"
     },
     {
-      "title": "台股低量跌破45000點 投資人觀望輝達財報 | 證券 - cna.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUM0pYc2VMeVE3Z2N2X0tDcFpjV25oVXVRSUIydVQ3Qzh4RzFPYklvMmstZUlWRFp6TXNvNXZuZjdEdHZ4TVVDMzdXcGsxalU3TVFoWGNMd09qUC1aRnc?oc=5"
-    },
-    {
       "title": "比特幣突然大漲，牛市要回來了嗎？ - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mdVp2QWNBQXYxTlNMUEw4by1hWDBzc2I1RDVUUF90eDNHa1ZuTUtHZDJ5V1lnbmxLc19FV1hyYzVrREFreUo5MzIyMXNRQQ?oc=5"
+    },
+    {
+      "title": "13F 大公開：機構沒有逃離 AI，只是換了位置｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNTTdzRVFNWFBhb3JDSXFhS2hxcE1XU0c2aGRLaUdSbUdRZmh3T0g0c3I5YXhST2VmdTZsdnpSN25MbS1ib2FBMEFzRTFJU0t2ZG4xOThwYXUyY3Nmc2pSSHdEMEtsTDBORDJPR1c1S2h5ZkEzZlg5QnhGWnlfWGU4aDZMNkJHdzEzUTg3c01RMHowbzRib3FWakJ6WUNOMm5tdjQwX1V6VDRXOHlid2hCOFliaFdBZkZldWtwa0syR0pDTnVRNjhzSmIwd0RMVFA4S0t5UXhPcEFESzNQbzFyTWFsblVwRHVIaTJ6bDdHTlFHRDR4RTJ6TXdpcDN1M3g5Z19MUk5TTmIyLUdHcWJOY0JYRmVEbmI0dlpkTVNYdDhpOHVOaWM4OTM0SkpUUndKc3p4ajBNOE80UW9USklHOVg1c0NCQWlHZTFPMUFTTmxDUndhRVlWN1NMLUJlSjhYRVNPZ1FvSUdJSzRKWGZGcUtiZlhrQQ?oc=5"
+    },
+    {
+      "title": "貝森特盯上萬億美元「應急資金池」擬為美債買單，市場短線提振，比特幣、以太坊、黃金，美債全線上漲 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04SjlOdTdQUzhPcE94WkplLWM3Nm1nd0FnU3FkSVpmOWhwWnNkSWlITW13WXFOVTUzNjBhYlRzWE12MEZ6SGYzOVlITQ?oc=5"
     },
     {
       "title": "台股今天到底殺什麼？ 專家一眼看穿：不是美債 - Yahoo股市",
