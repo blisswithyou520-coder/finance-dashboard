@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 04:47",
+  "updated_tw": "08/25 05:26",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78908.45,
-      "change": 1153.1844,
-      "changePercent": 1.4831
+      "price": 78906.96,
+      "change": 1151.6944,
+      "changePercent": 1.4812
     },
     "ETH": {
-      "price": 2473.7,
-      "change": 9.8841,
-      "changePercent": 0.4012
+      "price": 2481.2,
+      "change": 17.3841,
+      "changePercent": 0.7056
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.819,
-      "change": -0.003,
-      "changePercent": -0.0094
+      "price": 31.821,
+      "change": -0.001,
+      "changePercent": -0.0031
     },
     "JPYTWD": {
-      "price": 0.1978,
-      "change": -0.0024,
-      "changePercent": -1.1855
+      "price": 0.1979,
+      "change": -0.0023,
+      "changePercent": -1.1355
     },
     "EURTWD": {
-      "price": 37.155,
-      "change": -0.0003,
-      "changePercent": -0.0007
+      "price": 37.161,
+      "change": 0.0057,
+      "changePercent": 0.0154
     },
     "CNYTWD": {
-      "price": 4.7404,
+      "price": 4.7406,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4705.0,
-    "twd": 4813.0,
-    "tael": 180496.0,
-    "twdTotal": 149708.0,
-    "changePercent": 1.7495
+    "usd": 4710.0,
+    "twd": 4819.0,
+    "tael": 180700.0,
+    "twdTotal": 149877.0,
+    "changePercent": 1.8577
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,8 +133,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZMjZJd1pzV0ZEQUIwdGhmZzN3dVVmVXpkZ3M1TmNsS0tkRTQyOVloRWNHSVRGRDdfemZBTm5kVDNlOXVYYWtJRFlPUV8zeEVx0gFWQVVfeXFMUHI1OXNuN0FrZEpDeVhDYjM5TUIwMEM0WkNtYlRTejB5bDkxdzAxX191SnM5UmVXZDE5TW83QnRrQWJRNTFDT3pmd251Q3d5c2VUb2VFRkE?oc=5"
     },
     {
-      "title": "比特幣突然大漲，牛市要回來了嗎？ - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mdVp2QWNBQXYxTlNMUEw4by1hWDBzc2I1RDVUUF90eDNHa1ZuTUtHZDJ5V1lnbmxLc19FV1hyYzVrREFreUo5MzIyMXNRQQ?oc=5"
+      "title": "《台股盤後》量再縮、收跌461點，季線又失守-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQkxkcHNjTlEzWmdKcWx5WG93MEdtWTdrLURRc20xdXhxRXA3eXd0R09tWE1FNWNONzlhYXJwVWwzc0l1RTNKb0RwTnI3LUhiTlRCVkJBaG1oNUFYbHNDRjZaX01sNzF0dEE4VGhDbTl6R083MmU4bnpMYWY1NnR1UzlXaWhXUk9Oc2MyTU9kVmM?oc=5"
     },
     {
       "title": "美股今年恐迎崩盤！外媒示警「2指標」雙雙亮紅燈 PTT網友狂吐槽：穩了 - Yahoo股市",
