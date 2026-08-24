@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/24 12:28",
+  "updated_tw": "08/24 13:19",
   "taiwan": {
     "2330": {
-      "price": 2395.0,
-      "change": -15.0,
-      "changePercent": -0.6224
+      "price": 2390.0,
+      "change": -20.0,
+      "changePercent": -0.8299
     },
     "2454": {
-      "price": 3765.0,
-      "change": -25.0,
-      "changePercent": -0.6596
+      "price": 3770.0,
+      "change": -20.0,
+      "changePercent": -0.5277
     },
     "2317": {
-      "price": 244.0,
-      "change": -1.5,
-      "changePercent": -0.611
+      "price": 244.5,
+      "change": -1.0,
+      "changePercent": -0.4073
     },
     "0050": {
-      "price": 104.1,
-      "change": -0.55,
-      "changePercent": -0.5256
+      "price": 104.0,
+      "change": -0.65,
+      "changePercent": -0.6211
     },
     "00878": {
-      "price": 32.5,
-      "change": 0.12,
-      "changePercent": 0.3706
+      "price": 32.49,
+      "change": 0.11,
+      "changePercent": 0.3397
     },
     "00919": {
-      "price": 30.71,
-      "change": -0.09,
-      "changePercent": -0.2922
+      "price": 30.67,
+      "change": -0.13,
+      "changePercent": -0.4221
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77195.29,
-      "change": 111.8759,
-      "changePercent": 0.1451
+      "price": 77059.33,
+      "change": -24.0841,
+      "changePercent": -0.0312
     },
     "ETH": {
-      "price": 2443.87,
-      "change": 19.6188,
-      "changePercent": 0.8093
+      "price": 2454.2,
+      "change": 29.9488,
+      "changePercent": 1.2354
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.796,
-      "change": -0.0423,
-      "changePercent": -0.1329
+      "price": 31.779,
+      "change": -0.0593,
+      "changePercent": -0.1863
     },
     "JPYTWD": {
-      "price": 0.198,
-      "change": -0.0023,
-      "changePercent": -1.1705
+      "price": 0.1978,
+      "change": -0.0025,
+      "changePercent": -1.2703
     },
     "EURTWD": {
-      "price": 37.182,
-      "change": -0.0292,
-      "changePercent": -0.0785
+      "price": 37.172,
+      "change": -0.0392,
+      "changePercent": -0.1054
     },
     "CNYTWD": {
-      "price": 4.7363,
+      "price": 4.7344,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4695.0,
-    "twd": 4800.0,
-    "tael": 179983.0,
-    "twdTotal": 149282.0,
-    "changePercent": 1.5333
+    "usd": 4696.1,
+    "twd": 4798.0,
+    "tael": 179928.0,
+    "twdTotal": 149237.0,
+    "changePercent": 1.5571
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,28 +121,28 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTGk3Z2plc0VRUXFWcXc4RHNHSE1vRkhsRm40Sko2NTFuRmZTTWhSVVZkYzAyVzVOSlZuaDQxZjM0bXZuTHFjeTNoSWU1R2x2dDIxM1huNzZkZVExd3BySy1xTEd4endJdFZmSGZFSWlDQXo2S2dyT3lmX29aNXdlSGdYbHlSalVPOFgw?oc=5"
     },
     {
-      "title": "輝達財報0826登場，本週三大變數：AI泡沫疑慮、Fed升息疑慮、台股45000保衛戰｜股市話題｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxOZkYwN05uWFVUNWdYOGN1ZTA2QW9ZNklvYm43akNqa0hLSVR0N1lzaHBJZm9PbXZkanE4d0dMTlFtWWpobkxtc2w0S0lsdWpqRXpScjFhUkNXNWRqTTFXb2VJTjdCRXplVGY5b2hmOHFXcHlBZ0I0YUlrZTdmUHVaNUdRSXFmeXNsM3N4NWhjbFFrZW1vdXYyMmM5SWZKS0lyQ01rV0k0dzB6dnZEVHZENE5KLU05RW5hTVhqZG9LcjhQeFZEOW8xSGJXaWdkRnIyTEN0V04tRHFYSEdSVWs0RTVVaEJEWkFFSHZFem1zZHBjNVphTnFmajllTVczSFNjTzlFZm5LQUwzZDYzQXFUcFhlNktmalI3ZHFlaVF4Zm1JUkhZUWRCajE4SXljX3piWEZoM1pUNDlHV1dOSDVQZ1U2LWZCN0tkZFNuQWJJLWFONWllQWg4dVRFLXFPU2VmaHltS0hSSHQwemRPZnpPNG5mMVltVnJ6N19HOGE2Nk1pc3ZPSjgtT0hyNlo1RWMwYkg5OGJDVkFWdVRDRzFvQ2dpVFNKWlhITGU1REdvTkxtS2tfbTgtQ0dkaWN0SHBTd0VuZDFlUV9pNVU3cHFNcl9DMXQxN0pIZWhEXzRnN3FuVzRNaEpqOHNMNHltdllnWXc?oc=5"
-    },
-    {
-      "title": "【Yahoo早盤】台股無畏颱風來襲漲逾120點 分析師何文高：量縮7千億元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxOTTczSTRma0VvQzdxdUlmZHRZUWlDTVJqR2g3N1d1U0ZYMkVuOGZEWGMwOWZkMDdHbjN6T2djdU1lWl9WWnF6Y1VNaXVlUFNDM1Z2ekw1eThCel84SHBISmdERjEwMWVWSGo4Q0dHSXVCU0hqWHhoNFR0eTh3U2dDeXdMV2dvZExKUVVnUGRzaEJ1SlJZNFBHaDhmdnZybTJCOHpNN1o5eE13UDVRRUxSVmNqZ0lWc0VKai1OblJsSXpBYkZ6ZVJRUEttM3ZEQzBXdXdKRGthMmFMWl9LR2ZVWjJUMFAyNmo4N0JrU3Uxa1NOa3hNOVhnNWw2NUZIMTJsSm9abzBQdTVZbDVWWHBTR05iVEwzU0xtWlI1NS1QSnJsdEFLSGZ5X2ZtNFZwU2Nfa0pyWU12NVdQN2g2V2J3cmRURVNQMUtxc2VZNXlVdzJwNU8zb1lDSjdiQThZNFBGbVlDX2lvQzM4V1hrOEIyaTNCQ1FJekdfanJBNGlac3A4Q2F2MmlpLXBlcnlLMlVOQXNMalpuX0N4UDF5VG1CVmRBZWdJRnBLc3Izag?oc=5"
-    },
-    {
-      "title": "《貴金屬》COMEX黃金上漲2.4% ETF持倉增加- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV0JFZTVDT3FIMlc2bkFvZGxYb1Bob3g2RjJfZWdVS3ZPczl0ZEdZaDA1RU9wTlVQdVp6eWc1V0ozd2FodlBxUFRJTFJOLWl5ZVhWYk5PNld1SUlqRXVwSUMwdThFWFRhaE9hWTlFZlNKUGZKSXdhbk9kUTlBLUxsd2xYNUFqZUc3ako1NUhYUmF4UQ?oc=5"
-    },
-    {
-      "title": "比特幣、以太幣 ETF 上周吸金 26 億美元，創去年 10 月以來最強紀錄 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmlITWg0ZUljYWZWb1MyMktISkdqSUEzTWczakJrRlZ2RENTQ1l2cGpTT3Z5ZDdENHI5WTRzc0UxU2ZzWHpnandBOHZDS2lKSXp3Z1R4RllfbTBLcWN0MzVOSVN0aDJTdE53VUcwVWVQa25HTTN5bEN0SDMtMVJNa0UxRVpBd0ZPaTVqUms3bWZoWkJKUVB5QnpZYjB0a0ZYc1UtcmVmTzF6ZFFyUE9hUQ?oc=5"
+      "title": "【8月台股ETF風雲榜】0050、00878慘墊底！ 末段班20名一次看 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQdVJILTdOdmdlbUQ3a3BUbTRyTm45TWZZMkFVcHdVQ1RTX2pJcDJYempFb19zZ2ZjQ1pSRTNxMWgzMXN3emk5ZXRGcUJ2MDZUbnlIV1JhWFVSdHkweW9feWxXdlJhXzQ0bm9NSUQ1VG5nRHB6c3JJWlRjdmkwd2RVTmtIVWFvak5Eemg0ZzRaeTJxYmhTMWx3V29PXzNpc0k3ZEwwWXpGUFhJRGtZV1RGMGwtZEx3Mjgtay1OS1U2TFhsNkhucjRVazk4bG5PejJONXlQU2x5THpVZGgxSVNUb2xMVVJ4MXptSzFnWU5TZWcwQnZXaklWanptMUtRbUprZXQzNkNHQ051TmJWWEhtUFlPZnN2Q2dVSlVQby1WVmstREpnb0phYmRrTTBQNmNfbThUdWlHX3pJanlKX0NOeWFUT09IaG41ZTZFX0VQd290ak1XM1MzRnRHbTdKYXBl?oc=5"
     },
     {
       "title": "美股盤後｜美經濟不著陸？加密貨幣與銅概念股領跑大盤 0824｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNalBMYVZKUXZGNTF5bXEwZWxfeEF4MDc1MzRrT3ltWlhBRHFnRVd4SmFIQUJ6Sks4dHZaOTBsZnlwcFZUT3lFbGtPc1BnTHJsU01zUmJQZXhvc2ZUVVRXM2NqS3RPeVlUYWdNNlpMXzNJSm41U3J5ek5Hb0JQTHYzY2dSeUM2MGdXcURTTkt6bENlX2wzZ1V4OUhuTDJKcUlLcGIyVTQ2RWxNRk5hblV0MU1CaEJJRTUyUy1ibFpKQnJfdVFyNkZ3OXUxV0x2NDVKakpWTjY0QXdoaDB3S0RxWS0wcDhWb2VXcmVRREhHbWJYZWhOM3h1Z1pkYlEyMXBKWndYcE91azNaYkpjZzcxMHB0amFjSkRQNVYwOVIwQk84Yk5wWVoyTXFUTkN5VVJtaEZjZEZzenBhMVliY3JYSnRyOHg5NjRlTnRWM2ZFb1pwanBFZ2tXbjc3RkhFSlJPUWNwT1lZRjNnRXhfQnQweXlBOHM3UlczbS1qMzJsVHNWOGp6ZDdlMDZxTHdpbVEyVmRJQ3hkeS1MZkRPUHI3VG13?oc=5"
     },
     {
-      "title": "【8月台股ETF風雲榜】贏瑤池金母00981A近兩倍！ 前20強「00992A漲逾18%」奪冠 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxONzZCdUw4RHlRQUROSzBtVTlFUW4yRWItRG1fbDNPa0J6SWc2NUNkeFY2VDcwdnRsd1RmeUVNX3FVU3BKejBORGJxbGFROXhtVE15dW5iYXVJQWZFTXk5RHhPMDQ5NTZieDVIc25NRVJqZFZ1VldHVmM1cGRJeGZPYnRBVVB0dEtyNm1uVlRxd3ZEVjRBWWxyMGFUQ09nZ0U5Q3l5SUY4WEhKVnZHVmN1ZEZfbEhiTHVHN0l2NTJjY1NfWnJNeVdZS0p1dW9GY2VCTHYyMWd5V2xyVG9pYVFIUy1TNnFQcVUwbURmSEh2a0plc2luSXRYYXd4T2d3dkxFbkNoX3ktRWZZaFZBVk5XNWFZS0NjZlJEUTIycHoycWMzWWlyaXhiRTdsZGRaZnE1ZC1JdmE0bUhUTTZYVUxoQjJkeTdoRWF5NXRNUFRXakk3UWh2Ym9haUprWGRGX2Q1cExFb20zdmlZR2FLMG11WngxOWxrVW9KUFgzbG5paXJyMmpTM1hKMzNYTk8zekdjSjRDSkdiNVA0QmxucmdnV0NFQQ?oc=5"
+      "title": "比特幣、以太幣 ETF 上周吸金 26 億美元，創去年 10 月以來最強紀錄 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmlITWg0ZUljYWZWb1MyMktISkdqSUEzTWczakJrRlZ2RENTQ1l2cGpTT3Z5ZDdENHI5WTRzc0UxU2ZzWHpnandBOHZDS2lKSXp3Z1R4RllfbTBLcWN0MzVOSVN0aDJTdE53VUcwVWVQa25HTTN5bEN0SDMtMVJNa0UxRVpBd0ZPaTVqUms3bWZoWkJKUVB5QnpZYjB0a0ZYc1UtcmVmTzF6ZFFyUE9hUQ?oc=5"
+    },
+    {
+      "title": "《貴金屬》COMEX黃金上漲2.4% ETF持倉增加- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV0JFZTVDT3FIMlc2bkFvZGxYb1Bob3g2RjJfZWdVS3ZPczl0ZEdZaDA1RU9wTlVQdVp6eWc1V0ozd2FodlBxUFRJTFJOLWl5ZVhWYk5PNld1SUlqRXVwSUMwdThFWFRhaE9hWTlFZlNKUGZKSXdhbk9kUTlBLUxsd2xYNUFqZUc3ako1NUhYUmF4UQ?oc=5"
+    },
+    {
+      "title": "台股高點賣掉等拉回分批買？清流君回測0050：自以為聰明反而少賺6.9個百分點| 存股族愛ETF | 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91Q0R0UTBEbkFaMEVINWxTQkJGR05XQ0lSZlBmdnZWcFh0SFV3NzVPd1JYdjFpaGtNVE1Hd2VaMlk3TG00aWh5VF9GdlFFN3ZtUFVr?oc=5"
+    },
+    {
+      "title": "【Yahoo早盤】台股無畏颱風來襲漲逾120點 分析師何文高：量縮7千億元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxOTTczSTRma0VvQzdxdUlmZHRZUWlDTVJqR2g3N1d1U0ZYMkVuOGZEWGMwOWZkMDdHbjN6T2djdU1lWl9WWnF6Y1VNaXVlUFNDM1Z2ekw1eThCel84SHBISmdERjEwMWVWSGo4Q0dHSXVCU0hqWHhoNFR0eTh3U2dDeXdMV2dvZExKUVVnUGRzaEJ1SlJZNFBHaDhmdnZybTJCOHpNN1o5eE13UDVRRUxSVmNqZ0lWc0VKai1OblJsSXpBYkZ6ZVJRUEttM3ZEQzBXdXdKRGthMmFMWl9LR2ZVWjJUMFAyNmo4N0JrU3Uxa1NOa3hNOVhnNWw2NUZIMTJsSm9abzBQdTVZbDVWWHBTR05iVEwzU0xtWlI1NS1QSnJsdEFLSGZ5X2ZtNFZwU2Nfa0pyWU12NVdQN2g2V2J3cmRURVNQMUtxc2VZNXlVdzJwNU8zb1lDSjdiQThZNFBGbVlDX2lvQzM4V1hrOEIyaTNCQ1FJekdfanJBNGlac3A4Q2F2MmlpLXBlcnlLMlVOQXNMalpuX0N4UDF5VG1CVmRBZWdJRnBLc3Izag?oc=5"
     },
     {
       "title": "《美股》比特幣強那指漲等輝達財報、華許談話- 新聞 - MoneyDJ",
