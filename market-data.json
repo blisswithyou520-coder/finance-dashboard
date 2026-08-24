@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/24 18:03",
+  "updated_tw": "08/24 18:52",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77597.43,
-      "change": -157.8356,
-      "changePercent": -0.203
+      "price": 77611.59,
+      "change": -143.6756,
+      "changePercent": -0.1848
     },
     "ETH": {
-      "price": 2468.66,
-      "change": 4.8441,
-      "changePercent": 0.1966
+      "price": 2462.38,
+      "change": -1.4359,
+      "changePercent": -0.0583
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.823,
-      "change": -0.0153,
-      "changePercent": -0.0481
+      "price": 31.82,
+      "change": -0.0183,
+      "changePercent": -0.0575
     },
     "JPYTWD": {
       "price": 0.1977,
@@ -94,22 +94,22 @@
       "changePercent": -1.3202
     },
     "EURTWD": {
-      "price": 37.166,
-      "change": -0.0452,
-      "changePercent": -0.1215
+      "price": 37.162,
+      "change": -0.0492,
+      "changePercent": -0.1323
     },
     "CNYTWD": {
-      "price": 4.7407,
+      "price": 4.7383,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4699.3,
-    "twd": 4808.0,
-    "tael": 180300.0,
-    "twdTotal": 149546.0,
-    "changePercent": 1.6263
+    "usd": 4702.3,
+    "twd": 4811.0,
+    "tael": 180398.0,
+    "twdTotal": 149627.0,
+    "changePercent": 1.6911
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,12 +121,16 @@
       "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNeExic0RObkxsel92VkZIWW9xZk1qd3VzRi1NenMzZTB1ZnY0WTMtelhPaHJ5N01aRG9QWF85bW9ldTRpOVNjNVlXSU5adkN0WlZrVG44YVRtNHllcWlOU1hIbkRpMXpQODNYOEhtY0RITkdNMEhlUVVTaVR1ZFE5eEp3Ti04c1pVNFdIOS0zajVzSlRSdHd0aURqWFpKMmFONnpqZVU2UzNGZHFYZzhqU3pvaXNfVUJmMDlZU1VOMHdFeGQyUTBMMHNBcVFoQ0IzVnNuVS1kbWhYVWc1MGVQZjQ4RXRuSFZjeUZwb01LX0x6ZVdVTEMzYmZsUUhTOXAwekZNaWRrc1RmME13ZDdPckxyZUNNVTJKTGlrNUZfbThTMlNSSHZ1NFJiSFFxQnBOUVFueHpMVmJEM1NWM3VEUWxFM1p3bk93SzItUWM4ZFpxWHc3Q2xNVk9abjFUbktrdFlydWkzUWJ3QmY3MVFrOEJfaUhzSFRWUWg3dFJaZXpLcnhQM0E?oc=5"
     },
     {
+      "title": "Robinhood CEO：對比特幣長期持樂觀態度，熱愛加密貨幣 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rTnRYUmU0MVBvTTdSa0djR0tlS25kU2p0eU41LU1uRU1wOUx1QmdZWmx6V3lKN25oQWtfbk1MWW9DUFZiNFBHai1BMA?oc=5"
+    },
+    {
       "title": "比特幣周漲幅創2年來新高 - 日經中文網",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTGk3Z2plc0VRUXFWcXc4RHNHSE1vRkhsRm40Sko2NTFuRmZTTWhSVVZkYzAyVzVOSlZuaDQxZjM0bXZuTHFjeTNoSWU1R2x2dDIxM1huNzZkZVExd3BySy1xTEd4endJdFZmSGZFSWlDQXo2S2dyT3lmX29aNXdlSGdYbHlSalVPOFgw?oc=5"
     },
     {
-      "title": "Robinhood CEO：對比特幣長期持樂觀態度，熱愛加密貨幣 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rTnRYUmU0MVBvTTdSa0djR0tlS25kU2p0eU41LU1uRU1wOUx1QmdZWmx6V3lKN25oQWtfbk1MWW9DUFZiNFBHai1BMA?oc=5"
+      "title": "【 0824台股盤後】台股大盤量縮拉回461 點收44,762 點！投信抗跌單日買超37 億，矽晶圓逆勢抗跌，投本比鎖碼禾伸堂、台勝科、宏致｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiugVBVV95cUxOU2pHa2VEQm1ZZVl6WDN2YXpIbzJWM29MX0o5SzlETzVIOHpsNFF0cVV1bTBsQzZFSFZZMHlWRFh1dkxvOGNMUTdaYmhxYlI1eUViaFp2WFF6WXNodjJnMkNYSTBWdUR1dnViTzl6ZUlFeWYzX2txZnJZSDV3a014V2JTNVJkT1R4Sk5jQ25pRktJMGhEOGhpVENNVTVaMTBwZlJqZUFEYzBhdU1KQlZNZ2FPemd0dUYzNjJXdlphOUZ2SVZON09ic0RvU0YwU0RYX0ZHUWU5d2xsMkc4b1AwYkRNaWpFTzRWZW1nbDdibzhaNzBrQTdUbnJveTZ4NHRrcGw2TVNhTDZJQW9jcEFVV0dtSURvNjdjblFhUVJITXBna1dVSTl5d2hHeVBzODVpb0NSLXZiYnI0UmlTakVVMWdveHg5TEN0TDFoUHJick44a08yVi1sNW9EQjcwSUNLOGFyMTMwcXV1MkJiTG1JY1ZBV2thNDBUUmVyVkNqZ0NoQTZWbWptNzhTRGdWMU9PR0poa0NoSm0ySXBYRkxLU19vaHJiRDVFcTAtN0p5a19Md0Q2R1dQNzVYb1NRNmRSSW4wNXJ3Vld2VjJKVlZmWXBsZWNRQzlMQXNFNnloSkF3QWhINjZWTmVKdGszVC1nV2lpSlFvX3d5dUhnTzFzYTBVa0RNNVNpa2VzV3lFdVIxX2M4ZkE0eHpEdkpXaExhb2RneUswY0pVOGVMbXFfMWt4N21sUVkzZ3Y2UDlYU3JUMmRJYVo0MTl5U2pXWmxjSzJZZjJoUl80OVpiV3NUTVVodTBMRE4tVHZSbGdlMEpjaUdGamRFZ3RVb0VhcWhHNllJc2Zob0NSbGo0Rlg1ZjlsREdnRGU0TVlGaHJGUldvVEVRVE93dC1xWmlielNGWHg3VngwTGZFQQ?oc=5"
     },
     {
       "title": "日本黃金零售價續漲衝破\"2.6萬\"、逾3個月高- 新聞 - MoneyDJ",
@@ -137,16 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUM0pYc2VMeVE3Z2N2X0tDcFpjV25oVXVRSUIydVQ3Qzh4RzFPYklvMmstZUlWRFp6TXNvNXZuZjdEdHZ4TVVDMzdXcGsxalU3TVFoWGNMd09qUC1aRnc?oc=5"
     },
     {
-      "title": "13F 大公開：機構沒有逃離 AI，只是換了位置｜美股評析｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNTTdzRVFNWFBhb3JDSXFhS2hxcE1XU0c2aGRLaUdSbUdRZmh3T0g0c3I5YXhST2VmdTZsdnpSN25MbS1ib2FBMEFzRTFJU0t2ZG4xOThwYXUyY3Nmc2pSSHdEMEtsTDBORDJPR1c1S2h5ZkEzZlg5QnhGWnlfWGU4aDZMNkJHdzEzUTg3c01RMHowbzRib3FWakJ6WUNOMm5tdjQwX1V6VDRXOHlid2hCOFliaFdBZkZldWtwa0syR0pDTnVRNjhzSmIwd0RMVFA4S0t5UXhPcEFESzNQbzFyTWFsblVwRHVIaTJ6bDdHTlFHRDR4RTJ6TXdpcDN1M3g5Z19MUk5TTmIyLUdHcWJOY0JYRmVEbmI0dlpkTVNYdDhpOHVOaWM4OTM0SkpUUndKc3p4ajBNOE80UW9USklHOVg1c0NCQWlHZTFPMUFTTmxDUndhRVlWN1NMLUJlSjhYRVNPZ1FvSUdJSzRKWGZGcUtiZlhrQQ?oc=5"
-    },
-    {
       "title": "比特幣突然大漲，牛市要回來了嗎？ - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mdVp2QWNBQXYxTlNMUEw4by1hWDBzc2I1RDVUUF90eDNHa1ZuTUtHZDJ5V1lnbmxLc19FV1hyYzVrREFreUo5MzIyMXNRQQ?oc=5"
     },
     {
-      "title": "美債危機 3 年內爆發！橋水基金創辦人達里歐：快囤「黃金、比特幣」避險 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkUtbXFiMzdJblNnd281UmdtdlAwWEF5aGtjYmlQT1hQNUF5ajFfQWtISlJheTZoYmpQbF9xSi0ydGpaeEZnTUljRnZpRXR3M1RSUUlWeUl4VTM2SkF0ZWpNZUpVSWtfeEN1RGI4VGxCMHV3SjBZNHItVklQU3RhMkRCbFdlSjRlT3VWTXpOcm5RSXlNT3Z6TjQ3dWUxbzJF?oc=5"
+      "title": "台股今天到底殺什麼？ 專家一眼看穿：不是美債 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPWk5IYlI4NkZUZmtZamtvTXFIU0plaW1jRU9aQmJnTVdSZHJUeXJqajVWck5lLWRUN1lUY3dKRE9NcXRuQmR2Z3h1SkM3ajZvUTMzNFJwQ08ycjZGS3NtV2pMbjFWQThWek1JTGZYYjZZMk9JVzllaXFiN3g1RmNDQ3h1YVljdVN0ZkpDV2lBQzZhTGlnUWpzd3NTaURLZFdLclZia1lLNWRlRGN3NFJna2xuOEF0Zy1pbTFZamtHcFJnRnZHTl9BaGFkV08yb1B6b1dEQXJpZWlDSndabFJpWDR1SC13RTNhWVhzUHdhYmFnR0xLcHEwUE9kWW9DMm5fTTVtQzNGQkxxSXREOFdxVDV6eGUtaFd2bF85TEIwYVNVbkRHYnRXUmFFT0FIRUlsZGw5YlNMVQ?oc=5"
     }
   ]
 }
