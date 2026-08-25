@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/26 06:55",
+  "updated_tw": "08/26 07:23",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78888.04,
-      "change": -76.4444,
-      "changePercent": -0.0968
+      "price": 78725.12,
+      "change": -239.3644,
+      "changePercent": -0.3031
     },
     "ETH": {
-      "price": 2454.12,
-      "change": -27.7113,
-      "changePercent": -1.1166
+      "price": 2450.9,
+      "change": -30.9313,
+      "changePercent": -1.2463
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.845,
-      "change": 0.033,
-      "changePercent": 0.1037
+      "price": 31.843,
+      "change": 0.031,
+      "changePercent": 0.0974
     },
     "JPYTWD": {
       "price": 0.1978,
@@ -94,22 +94,22 @@
       "changePercent": -1.0609
     },
     "EURTWD": {
-      "price": 37.229,
-      "change": 0.1088,
-      "changePercent": 0.2931
+      "price": 37.225,
+      "change": 0.1048,
+      "changePercent": 0.2824
     },
     "CNYTWD": {
-      "price": 4.7454,
+      "price": 4.7423,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4727.2,
-    "twd": 4840.0,
-    "tael": 181496.0,
-    "twdTotal": 150538.0,
-    "changePercent": 1.8618
+    "usd": 4725.1,
+    "twd": 4837.0,
+    "tael": 181404.0,
+    "twdTotal": 150461.0,
+    "changePercent": 1.8165
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTXc5SjZMR2NBbC12czRLZTJWVnZKVXA4LVMydXkydlg4Vy1nMFNibUwzc1JUSXR5dnA1TnVGVEEwLWVPZHFKb0tnLTUyRXpkdVRENlpNdG1DUndpZWV3X3QzTG9vMmVEcjdVRTY4aWtMRWkwS1BlaXREeTEtbmdxS1dEbkF6NGc?oc=5"
     },
     {
+      "title": "TWA00 加權指數- 台股成交量縮從每日兆元明顯降溫！剩6千億「散戶跑了」？ - 股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FYk53c25HckNOZUIzN2ZOY2lISVdGWVE5NWpFSVl3eHpnT3QzUm5EN3F1dDlwSFVsUzZ5UjZsZU5BNGExUDlwdGVhVEpOY1pXLVlMR04zRnY?oc=5"
+    },
+    {
       "title": "黃金又創1新高！下一步走勢專家全說了 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5YkFfYVVZdnJSNHBZVjlpMzYwYUZVa1lKSGlCTzAtVTRFN3FiblVvUG5TSzA2YnJ0Q1g0MFRpNVRicXZ6cGJkSkl5dS1XcDFvVjRuU01fUG1iSG5yaWVV?oc=5"
     },
     {
-      "title": "【台股千金股交易「大改制」！】 （#大表哥） - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSDdQVTJLZ1k3TExOMmhlaUo0TldGNXR5TTR3RFBMUFc0RXFZRVFjQmljQ21Pbmh0LXNHT1A5aW9MeThNMkU5TE04bG5aLWRuX251ZmFGZXljNTZDTVdOTm55eWpMYk5JdmtiamZLNDUzQmV1QlNzeEhzeGRLQVJ4TGFzeUs3NGFmcGpBcTRlbTZNdE95bmh1V29QSXBBdEQ5MU5FNDJKa3dPb2FULUtFZTlrUXd0WUlhMHY5bldBbW1DY3JTaDNhUF94Zy1hTERKTy1hSmtsWGUwS0dmTXZCc2doVVBoSGdxMUppdmkzUkdyZEtYZk92bDBzTWtnUzRkOW5WbWZR?oc=5"
+      "title": "靜待輝達財報！美股全面收紅 台積電ADR走高 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQcG5IdWIybVpMQmx6YWJFNkg0cjBUR2tXUDAzQ0J3MnZKRS1IR3Z3OThyMmhKWHRPM1N1M0lWRWhzbXVIUDJEY2hsRHV5cEpvV19UWVI2bHgzeW1rZEZOUjBMRjRiTzlSUU9ZbGVrc1ZaTzM3SnNUUUFGc2ZwUEpCcUJvVUtnM2IzcUpnLUd4YkEwTXpxTmJuVm5WTDF2bE1rakVlU2pwNmswRndZR0R5Ymh4RDczSEFjenVXVk85TENQblFybEtBcngzUEZlaURuN2RrVGt1UWRFRzEzVHRwOG5BcUh4NUtoM3BMSVd2dkVfNV9uRVJiWGNMV0Rra183QnFkclhaZHFVTk9YSEJEc3BCZHhJSGdSa3ZORS1ZY2U3cWUyQjNNTzZMNzlJZw?oc=5"
     },
     {
       "title": "美國財政部意外干預債市效應比特幣、黃金漲勢再起| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Za2VyUkRzQ09ZLW16UEl0dW04RG5vbmpNRWNqaXpOLXRUcGVuSTFKQkFYRi1Dem5mNEthZlg4R0NfMTQ2eE43UlFfS2Q1S3hp?oc=5"
-    },
-    {
-      "title": "散戶真的撤了？台股量能縮至6562億 專家曝「下一波進場訊號」 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOTTNIWmZfN3A4WG0yblhPSml2ZFRhXzlnMGZ2WXJVY1pwbHYxaWFpblljNUlFc0F4TVE4Y1pVbkd4b2hwLUNDX1N3VUJCQWIyclV4QUk3RktLb3lwVzdlVFFNNFFKbTJvWXR0UlVvNm5VVkU1SWhvTnNhdjBoS3A1NFZ5M251WVp3UW9kR2Q2VkF0N0QzYk5IV0xIMUR1dVIxRUpkbDFua0NrY2VLOGl6S25MSDZnNEQzN184UzluVnpWWTBmWFpIbWVOTUdlSmZVX0RXc2lObk1QZENEaVdsVWN5YWx5SVk5cnNZSGNwTzVacDVlbXpqWWxHamZGN0MzSVY2SVJkam1FMUJMNS1SV213c3ZjMWQycGRWSE5XWFVWZlliVjNOYzRETllmQkFrTkEyOGRiM3UycmF1OGhmQ3VIV1RCTklXSmdwX1BWR0RBdzFEN3lCa3ZlMkxjUWV3TGVnLVNsd2N1Y24zMkE?oc=5"
     }
   ]
 }
