@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 12:22",
+  "updated_tw": "08/25 13:04",
   "taiwan": {
     "2330": {
-      "price": 2365.0,
-      "change": -10.0,
-      "changePercent": -0.4211
+      "price": 2380.0,
+      "change": 5.0,
+      "changePercent": 0.2105
     },
     "2454": {
-      "price": 3675.0,
-      "change": -90.0,
-      "changePercent": -2.3904
+      "price": 3690.0,
+      "change": -75.0,
+      "changePercent": -1.992
     },
     "2317": {
-      "price": 240.0,
-      "change": -3.5,
-      "changePercent": -1.4374
+      "price": 241.0,
+      "change": -2.5,
+      "changePercent": -1.0267
     },
     "0050": {
-      "price": 103.0,
-      "change": -0.8,
-      "changePercent": -0.7707
+      "price": 103.75,
+      "change": -0.05,
+      "changePercent": -0.0482
     },
     "00878": {
-      "price": 32.45,
-      "change": 0.02,
-      "changePercent": 0.0617
+      "price": 32.54,
+      "change": 0.11,
+      "changePercent": 0.3392
     },
     "00919": {
-      "price": 30.98,
-      "change": 0.33,
-      "changePercent": 1.0767
+      "price": 31.05,
+      "change": 0.4,
+      "changePercent": 1.3051
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80362.25,
-      "change": 2606.9844,
-      "changePercent": 3.3528
+      "price": 80426.94,
+      "change": 2671.6744,
+      "changePercent": 3.436
     },
     "ETH": {
-      "price": 2496.92,
-      "change": 33.1041,
-      "changePercent": 1.3436
+      "price": 2497.52,
+      "change": 33.7041,
+      "changePercent": 1.368
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.876,
-      "change": 0.054,
-      "changePercent": 0.1697
+      "price": 31.877,
+      "change": 0.055,
+      "changePercent": 0.1728
     },
     "JPYTWD": {
-      "price": 0.1978,
-      "change": -0.0024,
-      "changePercent": -1.1855
+      "price": 0.198,
+      "change": -0.0022,
+      "changePercent": -1.0856
     },
     "EURTWD": {
-      "price": 37.2,
-      "change": 0.0447,
-      "changePercent": 0.1204
+      "price": 37.219,
+      "change": 0.0637,
+      "changePercent": 0.1715
     },
     "CNYTWD": {
-      "price": 4.7481,
+      "price": 4.7507,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4692.4,
-    "twd": 4809.0,
-    "tael": 180335.0,
-    "twdTotal": 149575.0,
-    "changePercent": 1.1119
+    "usd": 4682.7,
+    "twd": 4799.0,
+    "tael": 179968.0,
+    "twdTotal": 149270.0,
+    "changePercent": 0.9029
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,12 +121,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5YkFfYVVZdnJSNHBZVjlpMzYwYUZVa1lKSGlCTzAtVTRFN3FiblVvUG5TSzA2YnJ0Q1g0MFRpNVRicXZ6cGJkSkl5dS1XcDFvVjRuU01fUG1iSG5yaWVV?oc=5"
     },
     {
-      "title": "美股收盤／輝達財報前連七跌 晶片股重挫拖累那指跌0.8% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3Tkl6LXRXR2p4SWc0aVVKeTJtSnAwUEx1THg1UU9sbHZvN0RhcmtNVlNiVTh6QmN3MWtxaUNELVFIcFh1WXg2SzRwWkZHWDJuemF5SnBJWnB3WmdV0gFiQVVfeXFMUFpKMUx5WEhOdE03cFROOG8xV0t3VmU3dlJWMEVLdF96clNvSXR2djAxeGhRbGFjMFJBaDJnVHJDVmVvV3JTZjYwMWdGaUxUOEhQaVlEQnZySTlRR29oRXozdUE?oc=5"
-    },
-    {
       "title": "比特幣礦企Metaplanet於1小時前向Coinbase Prime存入1000枚比特幣 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03WXZkQVRfM0RINk8wVDYxS0QzRzZsS0tLUEQxbG4zdFRvQnJmRWVVMlRjX1dqZzNGMlE5TFJLdkkzVDZvME9oellMQQ?oc=5"
+    },
+    {
+      "title": "美股收盤／輝達財報前連七跌 晶片股重挫拖累那指跌0.8% - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3Tkl6LXRXR2p4SWc0aVVKeTJtSnAwUEx1THg1UU9sbHZvN0RhcmtNVlNiVTh6QmN3MWtxaUNELVFIcFh1WXg2SzRwWkZHWDJuemF5SnBJWnB3WmdV0gFiQVVfeXFMUFpKMUx5WEhOdE03cFROOG8xV0t3VmU3dlJWMEVLdF96clNvSXR2djAxeGhRbGFjMFJBaDJnVHJDVmVvV3JTZjYwMWdGaUxUOEhQaVlEQnZySTlRR29oRXozdUE?oc=5"
     },
     {
       "title": "輝達財報倒數！美股觀望氣氛濃 費半大跌逾3%、台積電ADR跌近3% - Yahoo股市",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHJwMWFYOGt4MmVTazVISmpDbmsta1ZYT19GTUQ2WWhTT25TelJiNVp4V1ljb0RGR2RYcGU0X0JJWkRsblRCNGRjNUZLS2hGNmdJR3czOUUxYXBnT210Sm5tbnNKTzBtMWhRcnBDeGFnV2oyYmxMSWQ3WHlTVnBFQjFrUjQwNXM0YklJVmM3c0h2QWVwV2oxZTVEVk9hNjZTbzFr?oc=5"
     },
     {
-      "title": "〈美股盤後〉輝達財報前連七黑 記憶體股崩跌 費半收黑2.7% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QZFlMOFVvNzJHRHhSajRqLTY2LTFpNU1Ea3VzVkdZMGJvSFNFOUZ0bTc0RlI0VC1tSk00bTBfSmwtX05ubTl3dDBnOVRCbVE?oc=5"
+      "title": "比特幣衝破80,000美元大關下一個目標價與回檔風險曝光| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OSnVoM0pmRzhycEJ2aV9OU0VpUzRPWUNva181aldOZjNiMzNLNFp2YzBIMC16MWlnalZrejE0ZTk5NXZuYUdSZllBY1ZDNWJT?oc=5"
     }
   ]
 }
