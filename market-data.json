@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 15:30",
+  "updated_tw": "08/25 16:22",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80577.29,
-      "change": 1612.8056,
-      "changePercent": 2.0424
+      "price": 80050.12,
+      "change": 1085.6356,
+      "changePercent": 1.3748
     },
     "ETH": {
-      "price": 2502.36,
-      "change": 20.5287,
-      "changePercent": 0.8272
+      "price": 2490.35,
+      "change": 8.5187,
+      "changePercent": 0.3432
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.859,
-      "change": 0.037,
-      "changePercent": 0.1163
+      "price": 31.862,
+      "change": 0.04,
+      "changePercent": 0.1257
     },
     "JPYTWD": {
-      "price": 0.1977,
-      "change": -0.0025,
-      "changePercent": -1.2354
+      "price": 0.1976,
+      "change": -0.0026,
+      "changePercent": -1.2854
     },
     "EURTWD": {
-      "price": 37.192,
-      "change": 0.0367,
-      "changePercent": 0.0989
+      "price": 37.194,
+      "change": 0.0387,
+      "changePercent": 0.1042
     },
     "CNYTWD": {
-      "price": 4.7453,
+      "price": 4.7463,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4697.3,
-    "twd": 4811.0,
-    "tael": 180428.0,
-    "twdTotal": 149651.0,
-    "changePercent": 1.2175
+    "usd": 4680.9,
+    "twd": 4795.0,
+    "tael": 179815.0,
+    "twdTotal": 149143.0,
+    "changePercent": 0.8641
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,6 +121,10 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3ZKQjRUN2ZJZ3dGS1JwOF9IdF9LUGJpaHlTaEZpR2NTdjZsMXhUOG1aM01Ya2lic1NUOWNxVmNaRjUwX2tHRWx2d0ppU09iTnppYXNKNndqd2hFRzJ3MG43YmhrZW43OE1laFNVMUQxMFR4Ui1MTmNFUXcyQTBNempZRTF2b0JabFlWNVlxZ2Q?oc=5"
     },
     {
+      "title": "黃金又創1新高！下一步走勢專家全說了 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5YkFfYVVZdnJSNHBZVjlpMzYwYUZVa1lKSGlCTzAtVTRFN3FiblVvUG5TSzA2YnJ0Q1g0MFRpNVRicXZ6cGJkSkl5dS1XcDFvVjRuU01fUG1iSG5yaWVV?oc=5"
+    },
+    {
       "title": "輝達財報倒數！美股觀望氣氛濃 費半大跌逾3%、台積電ADR跌近3% - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQRHIzb2NoYVVYY19aZ0dQa0drXy1YLXBnLXdzLVNWWkV5dzRfU1o4LUVpT3NJdkk3WGh1c2U3VF80bEtVWkFhQi1aVEowbUc2N0pPcHV6VG1IWVFVcXNsQWcwWGQ0a1dXemt2Nk1LZVNBSkw0dDJkNVRlejdJV0ZSdTAybHNlb0F6by1zTnpRdmhGcm8yWEhBSHR4U2h2RFdPTndfU3VqLWlNOXZLdkk5Um5PRENnNndjN1oxQXUxV2lLTUVkRDVHcl80bnVIT0dvd0FhZzhVeDVyZmc5TURYR0ZsYkdXbkIwazMtYVE4YkZQdWRrODAxN2lVNVZjUmFLQVZEVXZDMFRFSnVKMkdGaFI0czZmR19GcVdrbEN3LWU1R1ZldXRnc1lJbmtDdENjXzNlb3NnSEZCTXV0UFZUbXhLR1pTVHpjQ2xEU0pmYjVnX29KeHFESjdyY19GTlJ3T3lBY09KMEk2b1NHV2twM1E1d0pSWE5WZWc?oc=5"
     },
@@ -129,24 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3Tkl6LXRXR2p4SWc0aVVKeTJtSnAwUEx1THg1UU9sbHZvN0RhcmtNVlNiVTh6QmN3MWtxaUNELVFIcFh1WXg2SzRwWkZHWDJuemF5SnBJWnB3WmdV0gFiQVVfeXFMUFpKMUx5WEhOdE03cFROOG8xV0t3VmU3dlJWMEVLdF96clNvSXR2djAxeGhRbGFjMFJBaDJnVHJDVmVvV3JTZjYwMWdGaUxUOEhQaVlEQnZySTlRR29oRXozdUE?oc=5"
     },
     {
-      "title": "黃金又創1新高！下一步走勢專家全說了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5YkFfYVVZdnJSNHBZVjlpMzYwYUZVa1lKSGlCTzAtVTRFN3FiblVvUG5TSzA2YnJ0Q1g0MFRpNVRicXZ6cGJkSkl5dS1XcDFvVjRuU01fUG1iSG5yaWVV?oc=5"
+      "title": "比特幣上漲就能吸引更多買家？ - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zRHFFSHRjSGJ3UU1FMk9aNjY3NTQ4cC1SNkVPX1JOWHdlUnpiMHZNT0s5MXBDaW1PUHlFbEt6UzFQSEowb2loNDRDOA?oc=5"
     },
     {
-      "title": "〈美股早盤〉市場靜待伊朗制裁、輝達財報與通膨數據 主要指數開低 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZUjJOV2h6QnE4SnR6a1Q0RVpJd1hURlRwWldBc2lvMF96YnlxYVdjUzFZQndpTFVQcEJQYzlRdng0c0otVWNCU2FDRVlLMlE?oc=5"
+      "title": "花旗把黃金短期目標價上調至4800，摩根大通押注大波動！ - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2pkdHAwS2dMLUNISzB5blRoUXdGQlRZRVA0WS1iUENVZllxYTF4X3pwbzlaZmZRQ2lnOS1WYmVwcWRsZGNPQWs3Nm5mZHdyVUFqWkMySmFJWHBhODFsbXFSZmtwYkM1MHp4R2ZTYVU4QTBjZTE4VUVuQk9Tc3VvREd5NU9zSDh3YmEwZ3VuQlBkVVBHYkp0Q2VIcXVFTk5G?oc=5"
+    },
+    {
+      "title": "比特幣續漲飆破 8 萬美元！分析師示警：下波「技術性回檔」才是真考驗 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHJwMWFYOGt4MmVTazVISmpDbmsta1ZYT19GTUQ2WWhTT25TelJiNVp4V1ljb0RGR2RYcGU0X0JJWkRsblRCNGRjNUZLS2hGNmdJR3czOUUxYXBnT210Sm5tbnNKTzBtMWhRcnBDeGFnV2oyYmxMSWQ3WHlTVnBFQjFrUjQwNXM0YklJVmM3c0h2QWVwV2oxZTVEVk9hNjZTbzFr?oc=5"
     },
     {
       "title": "貝森特「經濟D-Day」制裁伊朗，油價、黃金、美股怎麼反應？ ｜美股觀察｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPQ2Q0NFpLcjZ2REd1WEw4NWVRZnd4R0VxZG05X0VxbF9Dczh1NmswN1p1UmR6OEF2VVg1YU5TWGJJNkIxV1NsT0FMRWxpYVlTS2ZGVzhYeWt4RWs0ekFtc25zdll1X2duOXNjVDhsRUQ1UExMLUNQTGRXcHg4WmtSY0hlTEdwTUFabUtlODRnNlNOb08taGlXc2ZvczNMRTdzOWpVT3dMNEN4cmpWNFpDY1RUaDBFWHdUYUdfUVJhV0lvMXhVanIxUUNxZkhLd0kxbUFReTVSM3RVLU5UOFZEbTlDdlB1VHpibHY4ZzYwUE5raGdOLVFqTUJidzZKcmNhRG5mbGZaLUVEVXhjWEE3SG15YW5lQjZJcGhxYlFIbTNxTEVqY3ZhbFh6d1ltZW5zUjg5SXp2Smd1QkN4T2J2UEVaXzlrRVo5REh6MG0xdlZmNkhiT0psbGJRUXNxZzh6T2t2SUV6OFB6dG1OMzFpR2RJUGZ6c0JqaTJYbDdMSERpNjAtT2tXTXVZM3pycFo0TDVLQkM1YjV0WjktNEhaUVlB?oc=5"
-    },
-    {
-      "title": "【Follow法人】台股V轉959點翻上4萬5誰買的？外資仍未回頭小賣7億元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOVThFMmFfT25qVm5tOUhWeHBGcHoyaXV4R1RHWUVVWmlzNWJubkFpb2UwUzFodHU2enFtWkpoVTZPODc4ZXR5RFBrUTcyT2R1U1lubVQ4QThBamdLaHVkQjlXVjVVLThjSEdrX2VFNldvSk9JM3UwZkJNVW95aUF4X2xDY3NIcVliUF9oREZQNFdQQ0tfYjlOSUNoYnFQVmFLUG1JVGxxOFFmZDZ1RjhTcHNJX2JQamJiWlA4TXdDVDBac1RlVkY1Z29IUzUzZTNnbVJubXNKdXBTVHF1NzNlaDZqbFlJcENjc0pNV0s2TUUtOWlfZ253VG5RSFJUc19Ba0JJYXhIYVBaSmd1bXpWeUVJN0dRX0FuRHNBSlRGT1B6M2VyWlF5S0ZHNTBhV0hGN3A4d3Atdk5wMmhIMWhqd2dTbFlrTEwxa0RfZHN4VzhxekR2cXE4d1lRa3hLTW9NVWh1WlJacG84UFNKWVMxb0JSVlAxV2dONjBkM25kenZGTGZkakNfaUx3RldFTEZQa252X2E5Mno?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉輝達財報前連七黑 記憶體股崩跌 費半收黑2.7% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QZFlMOFVvNzJHRHhSajRqLTY2LTFpNU1Ea3VzVkdZMGJvSFNFOUZ0bTc0RlI0VC1tSk00bTBfSmwtX05ubTl3dDBnOVRCbVE?oc=5"
     }
   ]
 }
