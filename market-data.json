@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 07:45",
+  "updated_tw": "08/25 09:11",
   "taiwan": {
     "2330": {
       "price": 2375.0,
@@ -72,31 +72,31 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78976.41,
-      "change": 1221.1444,
-      "changePercent": 1.5705
+      "price": 79639.57,
+      "change": 1884.3044,
+      "changePercent": 2.4234
     },
     "ETH": {
-      "price": 2484.49,
-      "change": 20.6741,
-      "changePercent": 0.8391
+      "price": 2488.65,
+      "change": 24.8341,
+      "changePercent": 1.008
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.811,
-      "change": -0.011,
-      "changePercent": -0.0346
+      "price": 31.841,
+      "change": 0.019,
+      "changePercent": 0.0597
     },
     "JPYTWD": {
-      "price": 0.1977,
-      "change": -0.0025,
-      "changePercent": -1.2354
+      "price": 0.1978,
+      "change": -0.0024,
+      "changePercent": -1.1855
     },
     "EURTWD": {
-      "price": 37.153,
-      "change": -0.0023,
-      "changePercent": -0.0061
+      "price": 37.183,
+      "change": 0.0277,
+      "changePercent": 0.0746
     },
     "CNYTWD": {
       "price": 4.7377,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4728.9,
-    "twd": 4836.0,
-    "tael": 181368.0,
-    "twdTotal": 150431.0,
-    "changePercent": 2.2664
+    "usd": 4732.9,
+    "twd": 4845.0,
+    "tael": 181692.0,
+    "twdTotal": 150700.0,
+    "changePercent": 2.3529
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,32 +117,32 @@
   },
   "news": [
     {
-      "title": "〈美股盤後〉輝達財報前連七黑 記憶體股崩跌 費半收黑2.7% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QZFlMOFVvNzJHRHhSajRqLTY2LTFpNU1Ea3VzVkdZMGJvSFNFOUZ0bTc0RlI0VC1tSk00bTBfSmwtX05ubTl3dDBnOVRCbVE?oc=5"
-    },
-    {
       "title": "輝達財報倒數！美股觀望氣氛濃 費半大跌逾3%、台積電ADR跌近3% - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQRHIzb2NoYVVYY19aZ0dQa0drXy1YLXBnLXdzLVNWWkV5dzRfU1o4LUVpT3NJdkk3WGh1c2U3VF80bEtVWkFhQi1aVEowbUc2N0pPcHV6VG1IWVFVcXNsQWcwWGQ0a1dXemt2Nk1LZVNBSkw0dDJkNVRlejdJV0ZSdTAybHNlb0F6by1zTnpRdmhGcm8yWEhBSHR4U2h2RFdPTndfU3VqLWlNOXZLdkk5Um5PRENnNndjN1oxQXUxV2lLTUVkRDVHcl80bnVIT0dvd0FhZzhVeDVyZmc5TURYR0ZsYkdXbkIwazMtYVE4YkZQdWRrODAxN2lVNVZjUmFLQVZEVXZDMFRFSnVKMkdGaFI0czZmR19GcVdrbEN3LWU1R1ZldXRnc1lJbmtDdENjXzNlb3NnSEZCTXV0UFZUbXhLR1pTVHpjQ2xEU0pmYjVnX29KeHFESjdyY19GTlJ3T3lBY09KMEk2b1NHV2twM1E1d0pSWE5WZWc?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉輝達財報前連七黑 記憶體股崩跌 費半收黑2.7% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QZFlMOFVvNzJHRHhSajRqLTY2LTFpNU1Ea3VzVkdZMGJvSFNFOUZ0bTc0RlI0VC1tSk00bTBfSmwtX05ubTl3dDBnOVRCbVE?oc=5"
     },
     {
       "title": "美股早盤／避險情緒升溫「科技股領跌」 費半摔2%、光通訊股重挫| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OcUlKTnMtVkVxRk5DbjJ0SmxLd2NLYXR1VExJZ01UVHpBUEVQdGlaU0xUWEpmSUExQUZZd0M3RFNwNHl3bDZOd0RGM194ejNp?oc=5"
     },
     {
-      "title": "《美股》記憶體、光通訊類股挫 費半跌破100日線-新聞內容-基金 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3ZKQjRUN2ZJZ3dGS1JwOF9IdF9LUGJpaHlTaEZpR2NTdjZsMXhUOG1aM01Ya2lic1NUOWNxVmNaRjUwX2tHRWx2d0ppU09iTnppYXNKNndqd2hFRzJ3MG43YmhrZW43OE1laFNVMUQxMFR4Ui1MTmNFUXcyQTBNempZRTF2b0JabFlWNVlxZ2Q?oc=5"
+      "title": "【 0824台股盤後】台股大盤量縮拉回461 點收44,762 點！台股夜盤下跌208點，投信抗跌單日買超37 億，矽晶圓逆勢抗跌，投本比鎖碼禾伸堂、台勝科、宏致｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMikwZBVV95cUxOQUZGVEwzV0lRYjNPM3UzUGNMNUpobjl5YnVadloyd2QwdTBtZnlDaEpTeEVVZG16RnhwMVBSRWlJMGY3c1lDYnlFZ0liMldxTzJmY202LXpTVWZPck5QcU5tSThjYlQxR2FPQVZUSGdrRUtNamxFLXQ2SkJ1b1d1OVRtNWROdnd4ZGNxQ1VlSXZKMlpvNDQyZ0tvVDN1V3pBX1VQNnFNa1dWTFVscWJLUjlIMW80eGpvR2Nmbzk0cldpbzJvam9OYWVTQ3BjeTZqcjIxQkRtYS0wRnZFeURkUkFQaHRaUllJd2t2bmNXUnU1Ny15RVhFX3NiT0lXUDRaVllid2NQZmJjYk8xWFNNY0lIeVJxQXVfcXVfRHdWcVdORGhpSFpRV3QxZUUtN0VreHJYMjBuRDJuMUZJOGxaTnVycW5iZHZVWUwyaXpNZ19zcGRma3o5Ry0wQkJvRXpDMEhzRUsxU1pQSEhBaXVrU1hfWjVmWXVVVHJUNVlYOEZnV042YWNFYV9qLWNDek1CSTVfT091RTh6WXpQeTVtOUNjeVdmY0Y1SFUyTWluQ0l2Ml9vUWgtVGdxZS1pRTRXMFZxUkxMMHdKNmVXVUhEX1oxMURVYUpGRjRIdkVEdXQ1Um1EYVh0MGxqWkhYTFVMalE0ekx1R1YtVHJhZUs0OHpxNFloc0JrTDY4OXVqb1o3S1l0TDBxMVVkNDBDZ0M4YXdIQWN4YUF5X3V4XzRMeFpoMFIydVpBdzk5SndWeXd1U2RKZkJYRmNtemlWS0ZxVEZiaVRIVzQwNzEtbG9JZ3o5RXMtSGc4LWh6QlZmRDdaWUxvbVhqQXRoZjhwUUwxZ2J1RjhZdEpNWWJldU9JbGFHYU5zaUNJSFpZRDhXYnI0MVF4TjFxbDg3WWFxeld2TTJKUmdEaWQ0aF9lSDZHUEt2YXdnekJxYjZnZkMyQ3B6N2JsZXFrTGgxcEpmUmZ3WDFwQ191MjBrRjAyRmo4SG1ONG9peFYtemZnYTJ1VU5zVnhfYTI3V2FKdkU2UEY3SUxV?oc=5"
     },
     {
       "title": "美股》科技股開盤一片慘紅拖累大盤！標普、那指齊跌 台指期夜盤失守45K - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XNjhCb0E2RWNrTm1TMENRMkl3OVlBT1ZvODI4bHA0dTNjcVVWMmllajM4S1dGUFV1MWltMEhCclpDVkVRdWpuOTI2d3paWE80REVuMXhzaFVkT0Q3YVN3?oc=5"
     },
     {
-      "title": "美股收盤》輝達連跌7日 台積電ADR下挫2.11％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50eHRvblpidmxrTVNlYWhldHVJM2tWRm1YU3Z1SjdWb0pZVVF6OEFQOHgtRGw0S1gzXzBRVmhCbExBU1QyQjNPR1VpN0RsUVFvaTZqUXFXWDI3Q2txZktB?oc=5"
+      "title": "《貴金屬》市場觀望 COMEX黃金上漲0.4% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVd2S3F3Z1NSNkxxX2ZNbFRZZjFTVUROS1JoYUdaWkszd3hORWhtMS1sdEt6emJjLTl4UFJyNGdleVkyQXBEazMwY2JQUFlVd21EQjFqTjJjODJ4T3BaUkhpQ2NiSDZzc0hDNHBqcU1ad05LbjFFSkxhYmpST3hnX3JXYlp0QVExRHBKbmNjSTZOQQ?oc=5"
     },
     {
-      "title": "美元黃金比特幣現關鍵技術點位 市場聚焦聯準會本週動態 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPdXA4WjBUd3VlcEVDMzRXUWJKVHJiQk9aaGtLbTlTc1NUUVJieUtpWDZ2cWJKZS1Dd0Z3RDF1M0hCWTZQRUNkVGY2d3M1Mms3Y0t1QlVwSU5vaXdBMS1tai01Ykx6VlhWQ1J5aUJxZlVQcFJUamtxeDFzUnRXcVNvM2NzQ1pHSXJXUEVQX015OGVjbm1RMUlIZndtX1ZCOFpoTmxtRjFHNlFQeHF3MzNwX2UwOVlPQUFKTXRidS1BSWJqYXRXak8xOW96RHlYOG84WGt2Mk82cTl5NElJZTA5Q1VuRVdwR2Y4c1BlZXBYakdVY0MzQjZJZzFnTzZWSVM2Nk5RNUtYZGZHaE5pcTYxUEk3ZEx4blF6SmtrU0dRbmdVLXVwYnR6S3hMTlFEMW9odzFhbXhaeW1oQTdZNVZJYTk2dkNJUkdleFU2cFVBb2NEeG5wY2JIbmp0NEc3eGFPOXJadEJTdURPd2hua0o3b0pJbkZUOTBoNlpiR2N0bEpzeE9yU3J4OA?oc=5"
+      "title": "美半導體股挫跌法人：台股待補量關注華許演說| 證券 - cna.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vczhpRkFSTDZ6NU1JUnhVWkpWc3Z0eGQ5Wmg2TWMtazA3Mk5LSGk5SmQ1OUx6N1Z6TGlhcUt5LWNxeVplalc5R19hOGNFNkNZdnQtTVhMTHlLZDVpQ2c?oc=5"
     },
     {
       "title": "〈美股早盤〉市場靜待伊朗制裁、輝達財報與通膨數據 主要指數開低 - news.cnyes.com",
