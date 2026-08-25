@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 18:31",
+  "updated_tw": "08/25 19:04",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79273.39,
-      "change": 308.9056,
-      "changePercent": 0.3912
+      "price": 79265.16,
+      "change": 300.6756,
+      "changePercent": 0.3808
     },
     "ETH": {
-      "price": 2475.49,
-      "change": -6.3413,
-      "changePercent": -0.2555
+      "price": 2479.7,
+      "change": -2.1313,
+      "changePercent": -0.0859
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.852,
-      "change": 0.03,
-      "changePercent": 0.0943
+      "price": 31.847,
+      "change": 0.025,
+      "changePercent": 0.0786
     },
     "JPYTWD": {
       "price": 0.1977,
@@ -99,17 +99,17 @@
       "changePercent": 0.08
     },
     "CNYTWD": {
-      "price": 4.7444,
+      "price": 4.7441,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4692.0,
-    "twd": 4805.0,
-    "tael": 180184.0,
-    "twdTotal": 149450.0,
-    "changePercent": 1.1033
+    "usd": 4697.3,
+    "twd": 4810.0,
+    "tael": 180360.0,
+    "twdTotal": 149595.0,
+    "changePercent": 1.2175
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,16 @@
   },
   "news": [
     {
-      "title": "Coldcard駭客攻擊中87%被盜比特幣仍未移動，總計約1,789.28枚比特幣被盜 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xclZVdHFSZ1hFQ21JeEEzakpUWngyMGxKMFpEVHU1ZzFGUWdzZ0lTUkhNdF9DYlpBTVkweHB3dV9fQjFkYUZObkdHQQ?oc=5"
-    },
-    {
       "title": "台股爆量縮「散戶跑了」？專家反揭「撤退真相」：準備動作 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPTDEzXzlFQWg1Wnk4UmZjRS1pdjFUcHUxNE4xQUQ0aXBWbTFuLUJGaTA4dTBuQUVJWHV0NnVVM1ZOMEtTTUZlT0IzU040TGJmWFZVcTgxRzFubWkzelFLX1BTbGpXalBhSXRwZDJKdDBCMVdnblR1RTRuNFdiQnJ4cmlJMUpfZktxZ0hYWTlfM01vaXVhZ2xuLTJSV0JJdjdNU0VIVkhSUUFQTlRtRTRMNmt1c1dOYTU0MnNETUpQcXNJX3dseDVqdm8yQVdWdUVfV1Bsd3pnY2VmYjhTS1VXV0s0ZE5iQVM4Rk5GbGQta2prNHJqNTBTTkpfMGRMcVhBakE1NE55UzdwR2gxYkVkd3ZVcEduWVBpaVdwWi1ZQld3OVlvVVEzSUVVR3l3a0F2QzJYNHduWXpkcHducnJiMjdmYm9sVGh1Yk1DVjY1UkZWOUw2bTZQQzhnNGw?oc=5"
     },
     {
       "title": "黃金又創1新高！下一步走勢專家全說了 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5YkFfYVVZdnJSNHBZVjlpMzYwYUZVa1lKSGlCTzAtVTRFN3FiblVvUG5TSzA2YnJ0Q1g0MFRpNVRicXZ6cGJkSkl5dS1XcDFvVjRuU01fUG1iSG5yaWVV?oc=5"
+    },
+    {
+      "title": "分析：比特幣期現需求同步增長，超買之下仍不宜逆勢，最強上漲推動期來臨 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WY1VOQ05oYmVtYVVqdE81ZWVQYnFLX3FhZ05BRWhucnRyM2d5ejZ6cmFhUjY4Mk85RU1CWWE5R09Ccy1UYlZnaXdkUQ?oc=5"
     },
     {
       "title": "比特幣衝破8萬美元 6個月滾動報酬超車黃金/美股 - MoneyDJ",
@@ -137,12 +137,12 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3Tkl6LXRXR2p4SWc0aVVKeTJtSnAwUEx1THg1UU9sbHZvN0RhcmtNVlNiVTh6QmN3MWtxaUNELVFIcFh1WXg2SzRwWkZHWDJuemF5SnBJWnB3WmdV0gFiQVVfeXFMUFpKMUx5WEhOdE03cFROOG8xV0t3VmU3dlJWMEVLdF96clNvSXR2djAxeGhRbGFjMFJBaDJnVHJDVmVvV3JTZjYwMWdGaUxUOEhQaVlEQnZySTlRR29oRXozdUE?oc=5"
     },
     {
-      "title": "花旗把黃金短期目標價上調至4800，摩根大通押注大波動！ - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2pkdHAwS2dMLUNISzB5blRoUXdGQlRZRVA0WS1iUENVZllxYTF4X3pwbzlaZmZRQ2lnOS1WYmVwcWRsZGNPQWs3Nm5mZHdyVUFqWkMySmFJWHBhODFsbXFSZmtwYkM1MHp4R2ZTYVU4QTBjZTE4VUVuQk9Tc3VvREd5NU9zSDh3YmEwZ3VuQlBkVVBHYkp0Q2VIcXVFTk5G?oc=5"
-    },
-    {
       "title": "【美股盤前0825】美財政部擬動用1兆美元購債！貝森特表示美國正擴大對伊朗制裁，石油供應與海峽運輸問題再起 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMioAVBVV95cUxNc2MzNE0zb3BtMFNULUZKRnFjT3NzWS0tbWlGMWRIMXRRd3FxVnVlUHk5N2dDV0ZvVGx3Qm1HazBFRllZZDFUZHFWeFE3OGVVUXRkSlo4TXZoNXFHd2c0bEZrNWh1ZzVNLUt5MEVzc3pPWU9EQmM1TkRNd25RY0FjMWtvWlNqYWpXQlRiVVJlUFRJS3F2UkxmN0swSWpnMlZsYm5kX2pJS3I0TkJoeE5jUXpFNGd0MDJwUFpsSTlYOW5vYktsc1hLLW85THlqY1NYNGVJT0tYU1ZpZVJZc2ZENXRmMUk3S2NLbVhEZUlCQ3U3dHU1Wm84a1lUTER1NHRRV3JJaVNjSHZPWXRBZkxSNmZGa1dDUnJrZjNkUHlQX0V3RmoyYnRiZE1HanFMakZIWng4emctNVM2R0xNNURCUm9EdTNwblF6bHhOX3pQT1JOdkNwQ1hfYnBYN1QwcjJRMUUxRkllLWc2OWZuVGJnTm5wYUwyZ0FQR2g2dWViOFQtT1hSaUVSOFN1V0dFX0RidFEzY0s2Rk0wWWhxMTNwRUxlV0VsUzZIT25sblpjVEtsSXd2SHd5REdTYnhBZ01pV1hFZHc2VkI5UEtuT1lMUG84TjZQeU1CU0lhV1hwa04xNTQwWVJ6U0NxNzZiQ0N5eHpmVHA3eTR4el9KWjNzci1IRVB6UW1aVVNfaDVhS2k0RTNFSWdDQ0JrQnRUTEZfeFVYSDdrOUxmZl9EMUpzQ2ZzU2hHYzVuYU9MSGtOYkx4NXQyaml2MGl3d2pjdWN5d0NPQUNfT0dNZ2gzSFJLZmlDTFFVcldJRVdPeEFiem55SzZ2ZjFycXFrYmRfdDBVMF9ZeTMwQWR4SkR3clU5a1J3MUVZdzNwLTFUMmtlXzM?oc=5"
+    },
+    {
+      "title": "花旗把黃金短期目標價上調至4800，摩根大通押注大波動！ - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2pkdHAwS2dMLUNISzB5blRoUXdGQlRZRVA0WS1iUENVZllxYTF4X3pwbzlaZmZRQ2lnOS1WYmVwcWRsZGNPQWs3Nm5mZHdyVUFqWkMySmFJWHBhODFsbXFSZmtwYkM1MHp4R2ZTYVU4QTBjZTE4VUVuQk9Tc3VvREd5NU9zSDh3YmEwZ3VuQlBkVVBHYkp0Q2VIcXVFTk5G?oc=5"
     },
     {
       "title": "少年股神愛買美股！金管會放寬外幣融資 最快明年上路 - Yahoo股市",
