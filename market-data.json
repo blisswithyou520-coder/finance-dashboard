@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 19:43",
+  "updated_tw": "08/25 20:15",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79215.84,
-      "change": 251.3556,
-      "changePercent": 0.3183
+      "price": 79070.11,
+      "change": 105.6256,
+      "changePercent": 0.1338
     },
     "ETH": {
-      "price": 2480.01,
-      "change": -1.8213,
-      "changePercent": -0.0734
+      "price": 2476.47,
+      "change": -5.3613,
+      "changePercent": -0.216
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.862,
-      "change": 0.04,
-      "changePercent": 0.1257
+      "price": 31.859,
+      "change": 0.037,
+      "changePercent": 0.1163
     },
     "JPYTWD": {
       "price": 0.1978,
@@ -94,22 +94,22 @@
       "changePercent": -1.1855
     },
     "EURTWD": {
-      "price": 37.203,
-      "change": 0.0477,
-      "changePercent": 0.1285
+      "price": 37.199,
+      "change": 0.0437,
+      "changePercent": 0.1177
     },
     "CNYTWD": {
-      "price": 4.7469,
+      "price": 4.7463,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4698.0,
-    "twd": 4813.0,
-    "tael": 180471.0,
-    "twdTotal": 149688.0,
-    "changePercent": 1.2326
+    "usd": 4692.4,
+    "twd": 4806.0,
+    "tael": 180239.0,
+    "twdTotal": 149495.0,
+    "changePercent": 1.1119
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,16 +129,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5YkFfYVVZdnJSNHBZVjlpMzYwYUZVa1lKSGlCTzAtVTRFN3FiblVvUG5TSzA2YnJ0Q1g0MFRpNVRicXZ6cGJkSkl5dS1XcDFvVjRuU01fUG1iSG5yaWVV?oc=5"
     },
     {
-      "title": "比特幣衝破8萬美元 6個月滾動報酬超車黃金/美股 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRDlYaGZtRHFJQ01CSzBtNTNvZ3BveEZGdUMwX24wZUtJdXVPVGJ0Y2xvbHhnUkgyOVFWMEpQcUZkZ3ExYkwySjlsSU9SMi1wSmlfakNUd2M2OWUwM0t6MHhQbzRKclNEVnBoV1pfYm1WTE9FRjVWelpEVG9tRmhjazFYSU4zMmRXNU1EMkpZZU03UQ?oc=5"
-    },
-    {
       "title": "美股收盤／輝達財報前連七跌 晶片股重挫拖累那指跌0.8% - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3Tkl6LXRXR2p4SWc0aVVKeTJtSnAwUEx1THg1UU9sbHZvN0RhcmtNVlNiVTh6QmN3MWtxaUNELVFIcFh1WXg2SzRwWkZHWDJuemF5SnBJWnB3WmdV0gFiQVVfeXFMUFpKMUx5WEhOdE03cFROOG8xV0t3VmU3dlJWMEVLdF96clNvSXR2djAxeGhRbGFjMFJBaDJnVHJDVmVvV3JTZjYwMWdGaUxUOEhQaVlEQnZySTlRR29oRXozdUE?oc=5"
     },
     {
-      "title": "【美股盤前0825】美財政部擬動用1兆美元購債！貝森特表示美國正擴大對伊朗制裁，石油供應與海峽運輸問題再起 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAVBVV95cUxNc2MzNE0zb3BtMFNULUZKRnFjT3NzWS0tbWlGMWRIMXRRd3FxVnVlUHk5N2dDV0ZvVGx3Qm1HazBFRllZZDFUZHFWeFE3OGVVUXRkSlo4TXZoNXFHd2c0bEZrNWh1ZzVNLUt5MEVzc3pPWU9EQmM1TkRNd25RY0FjMWtvWlNqYWpXQlRiVVJlUFRJS3F2UkxmN0swSWpnMlZsYm5kX2pJS3I0TkJoeE5jUXpFNGd0MDJwUFpsSTlYOW5vYktsc1hLLW85THlqY1NYNGVJT0tYU1ZpZVJZc2ZENXRmMUk3S2NLbVhEZUlCQ3U3dHU1Wm84a1lUTER1NHRRV3JJaVNjSHZPWXRBZkxSNmZGa1dDUnJrZjNkUHlQX0V3RmoyYnRiZE1HanFMakZIWng4emctNVM2R0xNNURCUm9EdTNwblF6bHhOX3pQT1JOdkNwQ1hfYnBYN1QwcjJRMUUxRkllLWc2OWZuVGJnTm5wYUwyZ0FQR2g2dWViOFQtT1hSaUVSOFN1V0dFX0RidFEzY0s2Rk0wWWhxMTNwRUxlV0VsUzZIT25sblpjVEtsSXd2SHd5REdTYnhBZ01pV1hFZHc2VkI5UEtuT1lMUG84TjZQeU1CU0lhV1hwa04xNTQwWVJ6U0NxNzZiQ0N5eHpmVHA3eTR4el9KWjNzci1IRVB6UW1aVVNfaDVhS2k0RTNFSWdDQ0JrQnRUTEZfeFVYSDdrOUxmZl9EMUpzQ2ZzU2hHYzVuYU9MSGtOYkx4NXQyaml2MGl3d2pjdWN5d0NPQUNfT0dNZ2gzSFJLZmlDTFFVcldJRVdPeEFiem55SzZ2ZjFycXFrYmRfdDBVMF9ZeTMwQWR4SkR3clU5a1J3MUVZdzNwLTFUMmtlXzM?oc=5"
+      "title": "比特幣衝破8萬美元 6個月滾動報酬超車黃金/美股 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRDlYaGZtRHFJQ01CSzBtNTNvZ3BveEZGdUMwX24wZUtJdXVPVGJ0Y2xvbHhnUkgyOVFWMEpQcUZkZ3ExYkwySjlsSU9SMi1wSmlfakNUd2M2OWUwM0t6MHhQbzRKclNEVnBoV1pfYm1WTE9FRjVWelpEVG9tRmhjazFYSU4zMmRXNU1EMkpZZU03UQ?oc=5"
     },
     {
       "title": "花旗把黃金短期目標價上調至4800，摩根大通押注大波動！ - capitalfutures.com.tw",
@@ -147,6 +143,10 @@
     {
       "title": "少年股神愛買美股！金管會放寬外幣融資 最快明年上路 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOSjV4MVI1SHFyN281eTNvMWl4dHRtQ2oxRU9NXzhRT0J3MEF5cW9pNGs2b05jdUpZaFhPdmNkZ2xoZEpLV0IyVWpwb2NDcXMxLXRMdjVpNGU0WnBJakZ2aExrbUEtT0dqVnNlQmR6VTRGOFFMV3daalQwWU5SLS1ncGtzclprMWlqUURwa2VlUVRkU3BpU3VmeWhFdE1KQ0Frb0Ixb3kyWFpOT25IYnRCNHZ4cWdVNkZsX2JGMS1IRjl6aHktM0xrb29tLVd5alo0S2xZMVJodnp0dUtrVngyX1dyV0J5TzZZWWZIcDZOU0oybGtydjJOTk5fdXhjSkNJcTBYd044UXhBNzViRVFrRzNSVDNCZVFHWHNzY2R6M3ZHNUVPWmFaVTh1YUNLbHd6aklEQ3c5T0V1ZEh5UVM0ZVNrNVBFOXMtdkNSaDJ1SEFVRTBhSGpDUUZHWkVXMFVpd0lDdDZrUkZfeXExX2FqbWVOWnNVQ01jTUFQWg?oc=5"
+    },
+    {
+      "title": "台股基金震盪 專家：加入美股拚增值、搭配新興債降波動 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zT21mWnBhMk93eFg0ZFd6SEtzSTA3NU5pU0dsMzNiTFI3Q3dDRlVuamRmbnpiR09ZRGppbDVpNE4yVW01SkozRVRMNURlTkNX0gFWQVVfeXFMTUc0b2ZEdGxXX1ZTWmZ5MU8xdldyTHpiWHpJTHJ3ckcxS3N1Wi1CTWw5blR2R2QyWHdrYWV4S2hBRllldHhyOVFac0hWMUhlMDRVUjlJUVE?oc=5"
     }
   ]
 }
