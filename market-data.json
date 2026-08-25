@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 22:20",
+  "updated_tw": "08/25 23:20",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 213.43,
-      "change": 4.95,
-      "changePercent": 2.3743
+      "price": 210.78,
+      "change": 2.3,
+      "changePercent": 1.1032
     },
     "AAPL": {
-      "price": 310.34,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 309.19,
+      "change": -1.15,
+      "changePercent": -0.3706
     },
     "TSLA": {
-      "price": 350.735,
-      "change": 1.785,
-      "changePercent": 0.5115
+      "price": 352.755,
+      "change": 3.805,
+      "changePercent": 1.0904
     },
     "QQQ": {
-      "price": 710.13,
-      "change": 3.81,
-      "changePercent": 0.5394
+      "price": 710.18,
+      "change": 3.86,
+      "changePercent": 0.5465
     },
     "SPY": {
-      "price": 765.39,
-      "change": 1.92,
-      "changePercent": 0.2515
+      "price": 765.03,
+      "change": 1.56,
+      "changePercent": 0.2043
     },
     "SCHD": {
-      "price": 35.045,
-      "change": -0.165,
-      "changePercent": -0.4686
+      "price": 35.085,
+      "change": -0.125,
+      "changePercent": -0.355
     },
     "VOO": {
-      "price": 703.565,
-      "change": 1.735,
-      "changePercent": 0.2472
+      "price": 703.225,
+      "change": 1.395,
+      "changePercent": 0.1988
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79000.0,
-      "change": 35.5156,
-      "changePercent": 0.045
+      "price": 79264.16,
+      "change": 299.6756,
+      "changePercent": 0.3795
     },
     "ETH": {
-      "price": 2466.82,
-      "change": -15.0113,
-      "changePercent": -0.6048
+      "price": 2477.17,
+      "change": -4.6613,
+      "changePercent": -0.1878
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.868,
-      "change": 0.046,
-      "changePercent": 0.1446
+      "price": 31.875,
+      "change": 0.053,
+      "changePercent": 0.1665
     },
     "JPYTWD": {
       "price": 0.1979,
@@ -94,22 +94,22 @@
       "changePercent": -1.1355
     },
     "EURTWD": {
-      "price": 37.239,
-      "change": 0.0837,
-      "changePercent": 0.2254
+      "price": 37.24,
+      "change": 0.0847,
+      "changePercent": 0.2281
     },
     "CNYTWD": {
-      "price": 4.7479,
+      "price": 4.748,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4681.5,
-    "twd": 4797.0,
-    "tael": 179871.0,
-    "twdTotal": 149190.0,
-    "changePercent": 0.877
+    "usd": 4687.3,
+    "twd": 4804.0,
+    "tael": 180134.0,
+    "twdTotal": 149408.0,
+    "changePercent": 1.002
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,8 +117,8 @@
   },
   "news": [
     {
-      "title": "輝達財報開獎進入倒數！美股4指數齊揚 台指期夜盤漲303點、台積電ADR漲2% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPODhqUjltQmN4OEtGaUFYbkVYdWIyN01aakFoWVYtdjNIcElwZk9oaURJU291RGtjbGVkQ05XX2F3bUJYcXBYUmt4QlB3OVpPa2RzbmtNRUsweVJzblQ4cEV0dnZBOEFGZnFMQjlEYzNyd3hEYlBJMUNDalE1cU9uaXExazNFWHpJaWlySmhlb1NucTV4MGRDQzdNdWhVcWdyeUd2VWRmY0hBVGVraTBTdndJXzZ4XzZ0R3VFNEpmdlFDZGpFWThyajlISlF3XzlRR3ZvM0ZLbHhIMHh3U3NiZWcyN0hhT1FVT3pIeVJlOFFob2dtazZqUG5MQU5Ub2lCUlhFMU1TRFhRLTNKZkhILXdHUC1HQjh1NjNKcGpTeVdvbm1MV2JmQzc0SUxNdG13OFNucTJiMl84dENDRm84TXdhbnVGRXVxM3pfc2V6SjRiMzdvNlh6MkxIdS15WVVhZWg1X1hUX3BzdTlmRHdxN1AxeWNGZW5ERmo4Xzl0QmJQdlNPTGdNSkpZNUhaN1NnTi1CVXA2a1JZclVxYUtpNk5ZU2dETmdXWUw4YXZB?oc=5"
+      "title": "散戶真的撤了？台股量能縮至6562億 專家曝「下一波進場訊號」 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOTTNIWmZfN3A4WG0yblhPSml2ZFRhXzlnMGZ2WXJVY1pwbHYxaWFpblljNUlFc0F4TVE4Y1pVbkd4b2hwLUNDX1N3VUJCQWIyclV4QUk3RktLb3lwVzdlVFFNNFFKbTJvWXR0UlVvNm5VVkU1SWhvTnNhdjBoS3A1NFZ5M251WVp3UW9kR2Q2VkF0N0QzYk5IV0xIMUR1dVIxRUpkbDFua0NrY2VLOGl6S25MSDZnNEQzN184UzluVnpWWTBmWFpIbWVOTUdlSmZVX0RXc2lObk1QZENEaVdsVWN5YWx5SVk5cnNZSGNwTzVacDVlbXpqWWxHamZGN0MzSVY2SVJkam1FMUJMNS1SV213c3ZjMWQycGRWSE5XWFVWZlliVjNOYzRETllmQkFrTkEyOGRiM3UycmF1OGhmQ3VIV1RCTklXSmdwX1BWR0RBdzFEN3lCa3ZlMkxjUWV3TGVnLVNsd2N1Y24zMkE?oc=5"
     },
     {
       "title": "黃金又創1新高！下一步走勢專家全說了 - 自由財經",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QZFlMOFVvNzJHRHhSajRqLTY2LTFpNU1Ea3VzVkdZMGJvSFNFOUZ0bTc0RlI0VC1tSk00bTBfSmwtX05ubTl3dDBnOVRCbVE?oc=5"
     },
     {
-      "title": "少年股神愛買美股！金管會放寬外幣融資 最快明年上路 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOSjV4MVI1SHFyN281eTNvMWl4dHRtQ2oxRU9NXzhRT0J3MEF5cW9pNGs2b05jdUpZaFhPdmNkZ2xoZEpLV0IyVWpwb2NDcXMxLXRMdjVpNGU0WnBJakZ2aExrbUEtT0dqVnNlQmR6VTRGOFFMV3daalQwWU5SLS1ncGtzclprMWlqUURwa2VlUVRkU3BpU3VmeWhFdE1KQ0Frb0Ixb3kyWFpOT25IYnRCNHZ4cWdVNkZsX2JGMS1IRjl6aHktM0xrb29tLVd5alo0S2xZMVJodnp0dUtrVngyX1dyV0J5TzZZWWZIcDZOU0oybGtydjJOTk5fdXhjSkNJcTBYd044UXhBNzViRVFrRzNSVDNCZVFHWHNzY2R6M3ZHNUVPWmFaVTh1YUNLbHd6aklEQ3c5T0V1ZEh5UVM0ZVNrNVBFOXMtdkNSaDJ1SEFVRTBhSGpDUUZHWkVXMFVpd0lDdDZrUkZfeXExX2FqbWVOWnNVQ01jTUFQWg?oc=5"
+      "title": "輝達財報開獎進入倒數！美股4指數齊揚 台指期夜盤漲303點、台積電ADR漲2% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPODhqUjltQmN4OEtGaUFYbkVYdWIyN01aakFoWVYtdjNIcElwZk9oaURJU291RGtjbGVkQ05XX2F3bUJYcXBYUmt4QlB3OVpPa2RzbmtNRUsweVJzblQ4cEV0dnZBOEFGZnFMQjlEYzNyd3hEYlBJMUNDalE1cU9uaXExazNFWHpJaWlySmhlb1NucTV4MGRDQzdNdWhVcWdyeUd2VWRmY0hBVGVraTBTdndJXzZ4XzZ0R3VFNEpmdlFDZGpFWThyajlISlF3XzlRR3ZvM0ZLbHhIMHh3U3NiZWcyN0hhT1FVT3pIeVJlOFFob2dtazZqUG5MQU5Ub2lCUlhFMU1TRFhRLTNKZkhILXdHUC1HQjh1NjNKcGpTeVdvbm1MV2JmQzc0SUxNdG13OFNucTJiMl84dENDRm84TXdhbnVGRXVxM3pfc2V6SjRiMzdvNlh6MkxIdS15WVVhZWg1X1hUX3BzdTlmRHdxN1AxeWNGZW5ERmo4Xzl0QmJQdlNPTGdNSkpZNUhaN1NnTi1CVXA2a1JZclVxYUtpNk5ZU2dETmdXWUw4YXZB?oc=5"
     },
     {
       "title": "台股基金震盪 專家：加入美股拚增值、搭配新興債降波動 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zT21mWnBhMk93eFg0ZFd6SEtzSTA3NU5pU0dsMzNiTFI3Q3dDRlVuamRmbnpiR09ZRGppbDVpNE4yVW01SkozRVRMNURlTkNX0gFWQVVfeXFMTUc0b2ZEdGxXX1ZTWmZ5MU8xdldyTHpiWHpJTHJ3ckcxS3N1Wi1CTWw5blR2R2QyWHdrYWV4S2hBRllldHhyOVFac0hWMUhlMDRVUjlJUVE?oc=5"
     },
     {
-      "title": "市場大輪轉！美股近期「軟體漲、晶片跌」 績效差距創歷史新高 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FUDBXOGNqb3dqeFJTT0xOYW1paXRVSVhhQUpKM0dEXzJJUTlwTGxNTkhMWG5QNVU2MzM1RTdodTBIMF9zU0hTWW1Tb01PS1U?oc=5"
+      "title": "不只台積電領軍！台股強彈逾400點「這幾檔」也發威 金控雙雄助攻有感 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNNFNUSk9nblVOZzBOLUxZUkpjRTdNMGRoTDhDOEx3X1JWRnhxT2d0elh3eWEya3dJUGtsUjVvLURPVWxhX3QxWVZraEFQX0lXVlpaSjlVY1dYT1VORm41S2wzZ0FhaUtubDI0MkZUQ2ZOQTFoOVM3cGhRVVI5bnhqakFYTlBwNUkxeXBCVFVHa2w3a2UteHVvWWFPcTdGSExpRTdYYkt1djN6eHRtQUFiOUZubjRzVXJBY3g1elZxUTcyS0R1LS0tS1RncmdOZHdULUdwWk9kNXZXcHpnTjdfX3ptcGJ2azdkWnRuZFhYZ0xZc2lYdmpqOThEZkQtLWhBT0NDN014a2dMNm1mc0EzdzB0Z2VQdmZTMU14b2RmaW5oM1pUSjhuZVUzZzY2aUFKbDdSWDNybzQ3RURIREFGVTE2eDJQaWtpRWo0OEUwRnNVU2lIdlM3dGMzY0J2blI1NW1QR1JaSkpmZzRJQ0w5YklXOUdGQlNIUVQwY0lKTnlzMDMzblN2S3k2NU0zdldXRWFaT1pCdTUxMlByWGg0ZkV1Ty1tT05m?oc=5"
     }
   ]
 }
