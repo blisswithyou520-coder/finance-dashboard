@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 20:15",
+  "updated_tw": "08/25 21:27",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79070.11,
-      "change": 105.6256,
-      "changePercent": 0.1338
+      "price": 78683.3,
+      "change": -281.1844,
+      "changePercent": -0.3561
     },
     "ETH": {
-      "price": 2476.47,
-      "change": -5.3613,
-      "changePercent": -0.216
+      "price": 2458.59,
+      "change": -23.2413,
+      "changePercent": -0.9365
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.859,
-      "change": 0.037,
-      "changePercent": 0.1163
+      "price": 31.863,
+      "change": 0.041,
+      "changePercent": 0.1288
     },
     "JPYTWD": {
-      "price": 0.1978,
-      "change": -0.0024,
-      "changePercent": -1.1855
+      "price": 0.1979,
+      "change": -0.0023,
+      "changePercent": -1.1355
     },
     "EURTWD": {
-      "price": 37.199,
-      "change": 0.0437,
-      "changePercent": 0.1177
+      "price": 37.23,
+      "change": 0.0747,
+      "changePercent": 0.2011
     },
     "CNYTWD": {
-      "price": 4.7463,
+      "price": 4.747,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4692.4,
-    "twd": 4806.0,
-    "tael": 180239.0,
-    "twdTotal": 149495.0,
-    "changePercent": 1.1119
+    "usd": 4682.1,
+    "twd": 4796.0,
+    "tael": 179866.0,
+    "twdTotal": 149186.0,
+    "changePercent": 0.8899
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,12 +121,12 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xclZVdHFSZ1hFQ21JeEEzakpUWngyMGxKMFpEVHU1ZzFGUWdzZ0lTUkhNdF9DYlpBTVkweHB3dV9fQjFkYUZObkdHQQ?oc=5"
     },
     {
-      "title": "台股爆量縮「散戶跑了」？專家反揭「撤退真相」：準備動作 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPTDEzXzlFQWg1Wnk4UmZjRS1pdjFUcHUxNE4xQUQ0aXBWbTFuLUJGaTA4dTBuQUVJWHV0NnVVM1ZOMEtTTUZlT0IzU040TGJmWFZVcTgxRzFubWkzelFLX1BTbGpXalBhSXRwZDJKdDBCMVdnblR1RTRuNFdiQnJ4cmlJMUpfZktxZ0hYWTlfM01vaXVhZ2xuLTJSV0JJdjdNU0VIVkhSUUFQTlRtRTRMNmt1c1dOYTU0MnNETUpQcXNJX3dseDVqdm8yQVdWdUVfV1Bsd3pnY2VmYjhTS1VXV0s0ZE5iQVM4Rk5GbGQta2prNHJqNTBTTkpfMGRMcVhBakE1NE55UzdwR2gxYkVkd3ZVcEduWVBpaVdwWi1ZQld3OVlvVVEzSUVVR3l3a0F2QzJYNHduWXpkcHducnJiMjdmYm9sVGh1Yk1DVjY1UkZWOUw2bTZQQzhnNGw?oc=5"
-    },
-    {
       "title": "黃金又創1新高！下一步走勢專家全說了 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5YkFfYVVZdnJSNHBZVjlpMzYwYUZVa1lKSGlCTzAtVTRFN3FiblVvUG5TSzA2YnJ0Q1g0MFRpNVRicXZ6cGJkSkl5dS1XcDFvVjRuU01fUG1iSG5yaWVV?oc=5"
+    },
+    {
+      "title": "少年股神愛買美股！金管會放寬外幣融資 最快明年上路 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOSjV4MVI1SHFyN281eTNvMWl4dHRtQ2oxRU9NXzhRT0J3MEF5cW9pNGs2b05jdUpZaFhPdmNkZ2xoZEpLV0IyVWpwb2NDcXMxLXRMdjVpNGU0WnBJakZ2aExrbUEtT0dqVnNlQmR6VTRGOFFMV3daalQwWU5SLS1ncGtzclprMWlqUURwa2VlUVRkU3BpU3VmeWhFdE1KQ0Frb0Ixb3kyWFpOT25IYnRCNHZ4cWdVNkZsX2JGMS1IRjl6aHktM0xrb29tLVd5alo0S2xZMVJodnp0dUtrVngyX1dyV0J5TzZZWWZIcDZOU0oybGtydjJOTk5fdXhjSkNJcTBYd044UXhBNzViRVFrRzNSVDNCZVFHWHNzY2R6M3ZHNUVPWmFaVTh1YUNLbHd6aklEQ3c5T0V1ZEh5UVM0ZVNrNVBFOXMtdkNSaDJ1SEFVRTBhSGpDUUZHWkVXMFVpd0lDdDZrUkZfeXExX2FqbWVOWnNVQ01jTUFQWg?oc=5"
     },
     {
       "title": "美股收盤／輝達財報前連七跌 晶片股重挫拖累那指跌0.8% - 經濟日報",
@@ -141,8 +141,8 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2pkdHAwS2dMLUNISzB5blRoUXdGQlRZRVA0WS1iUENVZllxYTF4X3pwbzlaZmZRQ2lnOS1WYmVwcWRsZGNPQWs3Nm5mZHdyVUFqWkMySmFJWHBhODFsbXFSZmtwYkM1MHp4R2ZTYVU4QTBjZTE4VUVuQk9Tc3VvREd5NU9zSDh3YmEwZ3VuQlBkVVBHYkp0Q2VIcXVFTk5G?oc=5"
     },
     {
-      "title": "少年股神愛買美股！金管會放寬外幣融資 最快明年上路 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOSjV4MVI1SHFyN281eTNvMWl4dHRtQ2oxRU9NXzhRT0J3MEF5cW9pNGs2b05jdUpZaFhPdmNkZ2xoZEpLV0IyVWpwb2NDcXMxLXRMdjVpNGU0WnBJakZ2aExrbUEtT0dqVnNlQmR6VTRGOFFMV3daalQwWU5SLS1ncGtzclprMWlqUURwa2VlUVRkU3BpU3VmeWhFdE1KQ0Frb0Ixb3kyWFpOT25IYnRCNHZ4cWdVNkZsX2JGMS1IRjl6aHktM0xrb29tLVd5alo0S2xZMVJodnp0dUtrVngyX1dyV0J5TzZZWWZIcDZOU0oybGtydjJOTk5fdXhjSkNJcTBYd044UXhBNzViRVFrRzNSVDNCZVFHWHNzY2R6M3ZHNUVPWmFaVTh1YUNLbHd6aklEQ3c5T0V1ZEh5UVM0ZVNrNVBFOXMtdkNSaDJ1SEFVRTBhSGpDUUZHWkVXMFVpd0lDdDZrUkZfeXExX2FqbWVOWnNVQ01jTUFQWg?oc=5"
+      "title": "台股大漲407點！ 外資竟賣超7億 「這檔」昨天大買今天砍最兇 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNcXBRbGVMT2w3cmZDZjBHckhtTlAzWF9sb1E2MUNoSGFHTEw2eG9Uel9tcDA0NUFyMl8wUDdWU2c3YzBIQS0wbTV3VXpXTUV1Y3p4SkNwelpxSm1XbkdKb21scVIzZ3dkZHVhekxBYjQ1SDlZV2lzdVJQeUJPQnlnSFRfT2R1MS1CdHMxT0JGNnhremNvNDJTR3RoUDdaSUpMRXFEQVEzRmhlcjRFdjdIR09RVGJYQ1lMNkhvclVKNW1lR2tmc3Y3NXY5YThWOUZ4WkVYcS1RTWx6Zmg5MzVoWFNaWXVaMWl5U0xuX2hTb0FoZDhMbjNiaS1sWHRyQjduTER4aFJKYUd2TVo2cVhHUWxoeDc0OEFwSFFlZlRzblllMW1pdnV3VXhyMThDVFdTeG1uZ2pIWVhOZlpqeUZxMmg5c3hzdkFic1dzNW5YT3ZuRXZINmNWNlc4dV91MFhYeTI1QTNUVXpkZUct?oc=5"
     },
     {
       "title": "台股基金震盪 專家：加入美股拚增值、搭配新興債降波動 - UDN",
