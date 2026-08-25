@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 17:07",
+  "updated_tw": "08/25 17:50",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79794.98,
-      "change": 830.4956,
-      "changePercent": 1.0517
+      "price": 79434.88,
+      "change": 470.3956,
+      "changePercent": 0.5957
     },
     "ETH": {
-      "price": 2483.71,
-      "change": 1.8787,
-      "changePercent": 0.0757
+      "price": 2477.91,
+      "change": -3.9213,
+      "changePercent": -0.158
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.833,
-      "change": 0.011,
-      "changePercent": 0.0346
+      "price": 31.816,
+      "change": -0.006,
+      "changePercent": -0.0189
     },
     "JPYTWD": {
-      "price": 0.1977,
-      "change": -0.0025,
-      "changePercent": -1.2354
+      "price": 0.1976,
+      "change": -0.0026,
+      "changePercent": -1.2854
     },
     "EURTWD": {
-      "price": 37.193,
-      "change": 0.0377,
-      "changePercent": 0.1016
+      "price": 37.181,
+      "change": 0.0257,
+      "changePercent": 0.0693
     },
     "CNYTWD": {
-      "price": 4.7433,
+      "price": 4.7435,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4683.2,
-    "twd": 4793.0,
-    "tael": 179739.0,
-    "twdTotal": 149080.0,
-    "changePercent": 0.9136
+    "usd": 4689.3,
+    "twd": 4797.0,
+    "tael": 179877.0,
+    "twdTotal": 149195.0,
+    "changePercent": 1.0451
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,6 +125,10 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5YkFfYVVZdnJSNHBZVjlpMzYwYUZVa1lKSGlCTzAtVTRFN3FiblVvUG5TSzA2YnJ0Q1g0MFRpNVRicXZ6cGJkSkl5dS1XcDFvVjRuU01fUG1iSG5yaWVV?oc=5"
     },
     {
+      "title": "少年股神愛買美股！金管會放寬外幣融資 最快明年上路 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOSjV4MVI1SHFyN281eTNvMWl4dHRtQ2oxRU9NXzhRT0J3MEF5cW9pNGs2b05jdUpZaFhPdmNkZ2xoZEpLV0IyVWpwb2NDcXMxLXRMdjVpNGU0WnBJakZ2aExrbUEtT0dqVnNlQmR6VTRGOFFMV3daalQwWU5SLS1ncGtzclprMWlqUURwa2VlUVRkU3BpU3VmeWhFdE1KQ0Frb0Ixb3kyWFpOT25IYnRCNHZ4cWdVNkZsX2JGMS1IRjl6aHktM0xrb29tLVd5alo0S2xZMVJodnp0dUtrVngyX1dyV0J5TzZZWWZIcDZOU0oybGtydjJOTk5fdXhjSkNJcTBYd044UXhBNzViRVFrRzNSVDNCZVFHWHNzY2R6M3ZHNUVPWmFaVTh1YUNLbHd6aklEQ3c5T0V1ZEh5UVM0ZVNrNVBFOXMtdkNSaDJ1SEFVRTBhSGpDUUZHWkVXMFVpd0lDdDZrUkZfeXExX2FqbWVOWnNVQ01jTUFQWg?oc=5"
+    },
+    {
       "title": "比特幣衝破8萬美元 6個月滾動報酬超車黃金/美股 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRDlYaGZtRHFJQ01CSzBtNTNvZ3BveEZGdUMwX24wZUtJdXVPVGJ0Y2xvbHhnUkgyOVFWMEpQcUZkZ3ExYkwySjlsSU9SMi1wSmlfakNUd2M2OWUwM0t6MHhQbzRKclNEVnBoV1pfYm1WTE9FRjVWelpEVG9tRmhjazFYSU4zMmRXNU1EMkpZZU03UQ?oc=5"
     },
@@ -137,16 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2pkdHAwS2dMLUNISzB5blRoUXdGQlRZRVA0WS1iUENVZllxYTF4X3pwbzlaZmZRQ2lnOS1WYmVwcWRsZGNPQWs3Nm5mZHdyVUFqWkMySmFJWHBhODFsbXFSZmtwYkM1MHp4R2ZTYVU4QTBjZTE4VUVuQk9Tc3VvREd5NU9zSDh3YmEwZ3VuQlBkVVBHYkp0Q2VIcXVFTk5G?oc=5"
     },
     {
-      "title": "【Follow法人】台股V轉959點外資仍小賣7億元 分析師：並未翻多 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxORC0yNUZYMFdGOE9TYnBYb2pPRnpwcXl4WkI4V3p1LWY5S0pDTWhEVjJDclFieU9HNVhBRkY3UmNjWW8yLWVySWhGS25KRzZoMDlUd3drQmhhYk1yQjhsVDdNeTNLV1dYaGJqYnhlX0kyd1d1YVpEY0JjMGZMNDV2MmM0UkxZRFZrVU5IZHV0VUZrbnFsd1o1MDFuc2k0U3dramJNT1hGdTlIeU05cFNjeTJ1aVprQkJxMEZDems5aUN0QjRscXF5NHI2RkNpV09HS2RIQ09mM2MwaDI0S25WQlFKSnh3VXVTMExxMGFnQzN5ak1od0VGLU9aVWpvLWJ4VkxtdjFxbHgxeS1yVF9tMjdBVnlwWWZla3F2WHpXWkpUZzlQWDlHT0R2ZHFGVUVLcFhDVVUzdUZpMFNRSWRRWUNoeFhlbFFGYXFFbHBNelNtcGVPWmt0ZkdjSE1TYklnQ2RWcTZYdkRHendvdlR2ekxXTzJQTU9uelFYYk5ZQQ?oc=5"
+      "title": "Coldcard駭客攻擊中87%被盜比特幣仍未移動，總計約1,789.28枚比特幣被盜 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xclZVdHFSZ1hFQ21JeEEzakpUWngyMGxKMFpEVHU1ZzFGUWdzZ0lTUkhNdF9DYlpBTVkweHB3dV9fQjFkYUZObkdHQQ?oc=5"
     },
     {
-      "title": "貝森特「經濟D-Day」制裁伊朗，油價、黃金、美股怎麼反應？ ｜美股觀察｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPQ2Q0NFpLcjZ2REd1WEw4NWVRZnd4R0VxZG05X0VxbF9Dczh1NmswN1p1UmR6OEF2VVg1YU5TWGJJNkIxV1NsT0FMRWxpYVlTS2ZGVzhYeWt4RWs0ekFtc25zdll1X2duOXNjVDhsRUQ1UExMLUNQTGRXcHg4WmtSY0hlTEdwTUFabUtlODRnNlNOb08taGlXc2ZvczNMRTdzOWpVT3dMNEN4cmpWNFpDY1RUaDBFWHdUYUdfUVJhV0lvMXhVanIxUUNxZkhLd0kxbUFReTVSM3RVLU5UOFZEbTlDdlB1VHpibHY4ZzYwUE5raGdOLVFqTUJidzZKcmNhRG5mbGZaLUVEVXhjWEE3SG15YW5lQjZJcGhxYlFIbTNxTEVqY3ZhbFh6d1ltZW5zUjg5SXp2Smd1QkN4T2J2UEVaXzlrRVo5REh6MG0xdlZmNkhiT0psbGJRUXNxZzh6T2t2SUV6OFB6dG1OMzFpR2RJUGZ6c0JqaTJYbDdMSERpNjAtT2tXTXVZM3pycFo0TDVLQkM1YjV0WjktNEhaUVlB?oc=5"
-    },
-    {
-      "title": "Strategy 賣股套現 20 億美元！比特幣持有量維持 84 萬枚、現金部位大幅增加 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWDNCal95d1R4c3BhWWJPejJFZUlDczBIYUVaS0lKdkQxYTJSNjJoT2V1RXZvMk1CVU16SGlmbmNaNTdtS05LMDVxbElwbjRObnJEVVNiYUpCTnpfTUdFVU1VMU9rV3VXeERzMUtLOHNOcUlEQU5od2QxQWJ5YkRRc1lTOEpuaE0zbHhpWTk4aFlsY1BqZENXTzhEaHV2VkhW?oc=5"
+      "title": "台股爆量縮「散戶跑了」？專家反揭「撤退真相」：準備動作 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPTDEzXzlFQWg1Wnk4UmZjRS1pdjFUcHUxNE4xQUQ0aXBWbTFuLUJGaTA4dTBuQUVJWHV0NnVVM1ZOMEtTTUZlT0IzU040TGJmWFZVcTgxRzFubWkzelFLX1BTbGpXalBhSXRwZDJKdDBCMVdnblR1RTRuNFdiQnJ4cmlJMUpfZktxZ0hYWTlfM01vaXVhZ2xuLTJSV0JJdjdNU0VIVkhSUUFQTlRtRTRMNmt1c1dOYTU0MnNETUpQcXNJX3dseDVqdm8yQVdWdUVfV1Bsd3pnY2VmYjhTS1VXV0s0ZE5iQVM4Rk5GbGQta2prNHJqNTBTTkpfMGRMcVhBakE1NE55UzdwR2gxYkVkd3ZVcEduWVBpaVdwWi1ZQld3OVlvVVEzSUVVR3l3a0F2QzJYNHduWXpkcHducnJiMjdmYm9sVGh1Yk1DVjY1UkZWOUw2bTZQQzhnNGw?oc=5"
     }
   ]
 }
