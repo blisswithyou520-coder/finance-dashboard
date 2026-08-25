@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/26 04:00",
+  "updated_tw": "08/26 04:45",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -55,48 +55,48 @@
       "changePercent": 0.6229
     },
     "SPY": {
-      "price": 765.85,
-      "change": 2.38,
-      "changePercent": 0.3117
+      "price": 765.91,
+      "change": 2.44,
+      "changePercent": 0.3196
     },
     "SCHD": {
-      "price": 35.099,
-      "change": -0.111,
-      "changePercent": -0.3152
+      "price": 35.11,
+      "change": -0.1,
+      "changePercent": -0.284
     },
     "VOO": {
-      "price": 704.03,
-      "change": 2.2,
-      "changePercent": 0.3135
+      "price": 704.02,
+      "change": 2.19,
+      "changePercent": 0.312
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78963.55,
-      "change": -0.9344,
-      "changePercent": -0.0012
+      "price": 78488.54,
+      "change": -475.9444,
+      "changePercent": -0.6027
     },
     "ETH": {
-      "price": 2463.38,
-      "change": -18.4513,
-      "changePercent": -0.7435
+      "price": 2447.03,
+      "change": -34.8013,
+      "changePercent": -1.4022
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.855,
-      "change": 0.033,
-      "changePercent": 0.1037
+      "price": 31.837,
+      "change": 0.025,
+      "changePercent": 0.0786
     },
     "JPYTWD": {
-      "price": 0.198,
-      "change": -0.0022,
-      "changePercent": -1.0856
+      "price": 0.1978,
+      "change": -0.0021,
+      "changePercent": -1.0609
     },
     "EURTWD": {
-      "price": 37.242,
-      "change": 0.0867,
-      "changePercent": 0.2334
+      "price": 37.213,
+      "change": 0.0928,
+      "changePercent": 0.25
     },
     "CNYTWD": {
       "price": 4.7477,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4720.6,
-    "twd": 4835.0,
-    "tael": 181300.0,
-    "twdTotal": 150375.0,
-    "changePercent": 1.7195
+    "usd": 4718.6,
+    "twd": 4830.0,
+    "tael": 181121.0,
+    "twdTotal": 150226.0,
+    "changePercent": 1.6764
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Za2VyUkRzQ09ZLW16UEl0dW04RG5vbmpNRWNqaXpOLXRUcGVuSTFKQkFYRi1Dem5mNEthZlg4R0NfMTQ2eE43UlFfS2Q1S3hp?oc=5"
     },
     {
-      "title": "黃金又創1新高！下一步走勢專家全說了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5YkFfYVVZdnJSNHBZVjlpMzYwYUZVa1lKSGlCTzAtVTRFN3FiblVvUG5TSzA2YnJ0Q1g0MFRpNVRicXZ6cGJkSkl5dS1XcDFvVjRuU01fUG1iSG5yaWVV?oc=5"
+      "title": "比特幣衝破8萬美元 6個月滾動報酬超車黃金/美股-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaGNJSnpOOEUtVU1jeFF1UjlWdEc3T0Flak9QUUZJWFBLaVNOTVg4R1c3T1owcDBaVVlMOWJCeUc2UWZhVzMweE1uV181dTlQMjBaOHJHUjB3Y2xOYjZUWHZ4ZkdxUmRab0RvQmNRZ1BnSGFXd2lHNHJab0t2N2dQVXRGaThQaHZaY3Y3bmltbGw?oc=5"
     },
     {
-      "title": "比特幣衝破8萬美元 6個月滾動報酬超車黃金/美股 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRDlYaGZtRHFJQ01CSzBtNTNvZ3BveEZGdUMwX24wZUtJdXVPVGJ0Y2xvbHhnUkgyOVFWMEpQcUZkZ3ExYkwySjlsSU9SMi1wSmlfakNUd2M2OWUwM0t6MHhQbzRKclNEVnBoV1pfYm1WTE9FRjVWelpEVG9tRmhjazFYSU4zMmRXNU1EMkpZZU03UQ?oc=5"
+      "title": "黃金又創1新高！下一步走勢專家全說了 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5YkFfYVVZdnJSNHBZVjlpMzYwYUZVa1lKSGlCTzAtVTRFN3FiblVvUG5TSzA2YnJ0Q1g0MFRpNVRicXZ6cGJkSkl5dS1XcDFvVjRuU01fUG1iSG5yaWVV?oc=5"
     },
     {
       "title": "比特幣重返80,000美元大關，單週大漲23%創3年最大漲幅 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJeTRpbWhjUU9KS1VyNnc5RVJtcVBQcl9OVlNUVjI5ZnBkSE1RZmI3bW04SnU5cWFiSF9LRHVTLW01cXIzbmxHYlJSTHR2ZzA?oc=5"
     },
     {
-      "title": "【美股盤前0825】美財政部擬動用1兆美元購債！貝森特表示美國正擴大對伊朗制裁，石油供應與海峽運輸問題再起 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAVBVV95cUxNc2MzNE0zb3BtMFNULUZKRnFjT3NzWS0tbWlGMWRIMXRRd3FxVnVlUHk5N2dDV0ZvVGx3Qm1HazBFRllZZDFUZHFWeFE3OGVVUXRkSlo4TXZoNXFHd2c0bEZrNWh1ZzVNLUt5MEVzc3pPWU9EQmM1TkRNd25RY0FjMWtvWlNqYWpXQlRiVVJlUFRJS3F2UkxmN0swSWpnMlZsYm5kX2pJS3I0TkJoeE5jUXpFNGd0MDJwUFpsSTlYOW5vYktsc1hLLW85THlqY1NYNGVJT0tYU1ZpZVJZc2ZENXRmMUk3S2NLbVhEZUlCQ3U3dHU1Wm84a1lUTER1NHRRV3JJaVNjSHZPWXRBZkxSNmZGa1dDUnJrZjNkUHlQX0V3RmoyYnRiZE1HanFMakZIWng4emctNVM2R0xNNURCUm9EdTNwblF6bHhOX3pQT1JOdkNwQ1hfYnBYN1QwcjJRMUUxRkllLWc2OWZuVGJnTm5wYUwyZ0FQR2g2dWViOFQtT1hSaUVSOFN1V0dFX0RidFEzY0s2Rk0wWWhxMTNwRUxlV0VsUzZIT25sblpjVEtsSXd2SHd5REdTYnhBZ01pV1hFZHc2VkI5UEtuT1lMUG84TjZQeU1CU0lhV1hwa04xNTQwWVJ6U0NxNzZiQ0N5eHpmVHA3eTR4el9KWjNzci1IRVB6UW1aVVNfaDVhS2k0RTNFSWdDQ0JrQnRUTEZfeFVYSDdrOUxmZl9EMUpzQ2ZzU2hHYzVuYU9MSGtOYkx4NXQyaml2MGl3d2pjdWN5d0NPQUNfT0dNZ2gzSFJLZmlDTFFVcldJRVdPeEFiem55SzZ2ZjFycXFrYmRfdDBVMF9ZeTMwQWR4SkR3clU5a1J3MUVZdzNwLTFUMmtlXzM?oc=5"
-    },
-    {
       "title": "不只台積電領軍！台股強彈逾400點「這幾檔」也發威 金控雙雄助攻有感 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNNFNUSk9nblVOZzBOLUxZUkpjRTdNMGRoTDhDOEx3X1JWRnhxT2d0elh3eWEya3dJUGtsUjVvLURPVWxhX3QxWVZraEFQX0lXVlpaSjlVY1dYT1VORm41S2wzZ0FhaUtubDI0MkZUQ2ZOQTFoOVM3cGhRVVI5bnhqakFYTlBwNUkxeXBCVFVHa2w3a2UteHVvWWFPcTdGSExpRTdYYkt1djN6eHRtQUFiOUZubjRzVXJBY3g1elZxUTcyS0R1LS0tS1RncmdOZHdULUdwWk9kNXZXcHpnTjdfX3ptcGJ2azdkWnRuZFhYZ0xZc2lYdmpqOThEZkQtLWhBT0NDN014a2dMNm1mc0EzdzB0Z2VQdmZTMU14b2RmaW5oM1pUSjhuZVUzZzY2aUFKbDdSWDNybzQ3RURIREFGVTE2eDJQaWtpRWo0OEUwRnNVU2lIdlM3dGMzY0J2blI1NW1QR1JaSkpmZzRJQ0w5YklXOUdGQlNIUVQwY0lKTnlzMDMzblN2S3k2NU0zdldXRWFaT1pCdTUxMlByWGg0ZkV1Ty1tT05m?oc=5"
     },
     {
-      "title": "台股逆轉秀 台積電大功臣 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WVFVZczhVWDF6aVMzb0l5RmZoc1NZT05HckF0TmtrLUlaaFdIdmEwTWJWeXJaOVlEcUV0X0NoZTFFOFAwZkJhNjJwOG8xNmYz0gFWQVVfeXFMTXAzRXIxeHJCTVZ1WG5EVHFYOFdLWWVQNFI4bUNlT3Nsb3huaktfSGNVM3AtQmRMNk5VcGJyczlWQ1g2MGU0cmMxaVBrb0NYY3pYLUNoUWc?oc=5"
+      "title": "美股早盤／3大指數齊揚！市場對威脅伊朗無感 油價跌、台積電ADR漲1.6% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oenNsZGJMMjdFUHNWMTJuLThQWnBFWVpOSU5PVXdhUGdsek9jWmZ4dTB2a1JJYjFWLVFiR1AzTzdTX3FPWmpzQjBrUDdaWHN1?oc=5"
+    },
+    {
+      "title": "日本黃金期貨價創逾3個月高、零售價連4漲-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSjNBQzdIZVkxLVF3VmptN2FWQlN2b2hGVmJRMllDb2pVS1Z3SDJvYnhPelFSdEtqZGhYcGhBM1hTRGFST09KM3RJeXJwaWQ0ZVRjR0QydDBNNEpyYklLaGFRbTh5QTFxVHFhdjRuVFNqMW5FZEZmWXh4c1FuRXdmd0sxVFpVV1VtempqMV9EeXg?oc=5"
     }
   ]
 }
