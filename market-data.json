@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 19:04",
+  "updated_tw": "08/25 19:43",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79265.16,
-      "change": 300.6756,
-      "changePercent": 0.3808
+      "price": 79215.84,
+      "change": 251.3556,
+      "changePercent": 0.3183
     },
     "ETH": {
-      "price": 2479.7,
-      "change": -2.1313,
-      "changePercent": -0.0859
+      "price": 2480.01,
+      "change": -1.8213,
+      "changePercent": -0.0734
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.847,
-      "change": 0.025,
-      "changePercent": 0.0786
+      "price": 31.862,
+      "change": 0.04,
+      "changePercent": 0.1257
     },
     "JPYTWD": {
-      "price": 0.1977,
-      "change": -0.0025,
-      "changePercent": -1.2354
+      "price": 0.1978,
+      "change": -0.0024,
+      "changePercent": -1.1855
     },
     "EURTWD": {
-      "price": 37.185,
-      "change": 0.0297,
-      "changePercent": 0.08
+      "price": 37.203,
+      "change": 0.0477,
+      "changePercent": 0.1285
     },
     "CNYTWD": {
-      "price": 4.7441,
+      "price": 4.7469,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4697.3,
-    "twd": 4810.0,
-    "tael": 180360.0,
-    "twdTotal": 149595.0,
-    "changePercent": 1.2175
+    "usd": 4698.0,
+    "twd": 4813.0,
+    "tael": 180471.0,
+    "twdTotal": 149688.0,
+    "changePercent": 1.2326
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,16 @@
   },
   "news": [
     {
+      "title": "Coldcard駭客攻擊中87%被盜比特幣仍未移動，總計約1,789.28枚比特幣被盜 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xclZVdHFSZ1hFQ21JeEEzakpUWngyMGxKMFpEVHU1ZzFGUWdzZ0lTUkhNdF9DYlpBTVkweHB3dV9fQjFkYUZObkdHQQ?oc=5"
+    },
+    {
       "title": "台股爆量縮「散戶跑了」？專家反揭「撤退真相」：準備動作 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPTDEzXzlFQWg1Wnk4UmZjRS1pdjFUcHUxNE4xQUQ0aXBWbTFuLUJGaTA4dTBuQUVJWHV0NnVVM1ZOMEtTTUZlT0IzU040TGJmWFZVcTgxRzFubWkzelFLX1BTbGpXalBhSXRwZDJKdDBCMVdnblR1RTRuNFdiQnJ4cmlJMUpfZktxZ0hYWTlfM01vaXVhZ2xuLTJSV0JJdjdNU0VIVkhSUUFQTlRtRTRMNmt1c1dOYTU0MnNETUpQcXNJX3dseDVqdm8yQVdWdUVfV1Bsd3pnY2VmYjhTS1VXV0s0ZE5iQVM4Rk5GbGQta2prNHJqNTBTTkpfMGRMcVhBakE1NE55UzdwR2gxYkVkd3ZVcEduWVBpaVdwWi1ZQld3OVlvVVEzSUVVR3l3a0F2QzJYNHduWXpkcHducnJiMjdmYm9sVGh1Yk1DVjY1UkZWOUw2bTZQQzhnNGw?oc=5"
     },
     {
       "title": "黃金又創1新高！下一步走勢專家全說了 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5YkFfYVVZdnJSNHBZVjlpMzYwYUZVa1lKSGlCTzAtVTRFN3FiblVvUG5TSzA2YnJ0Q1g0MFRpNVRicXZ6cGJkSkl5dS1XcDFvVjRuU01fUG1iSG5yaWVV?oc=5"
-    },
-    {
-      "title": "分析：比特幣期現需求同步增長，超買之下仍不宜逆勢，最強上漲推動期來臨 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WY1VOQ05oYmVtYVVqdE81ZWVQYnFLX3FhZ05BRWhucnRyM2d5ejZ6cmFhUjY4Mk85RU1CWWE5R09Ccy1UYlZnaXdkUQ?oc=5"
     },
     {
       "title": "比特幣衝破8萬美元 6個月滾動報酬超車黃金/美股 - MoneyDJ",
