@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/26 06:25",
+  "updated_tw": "08/26 06:55",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78837.3,
-      "change": -127.1844,
-      "changePercent": -0.1611
+      "price": 78888.04,
+      "change": -76.4444,
+      "changePercent": -0.0968
     },
     "ETH": {
-      "price": 2447.13,
-      "change": -34.7013,
-      "changePercent": -1.3982
+      "price": 2454.12,
+      "change": -27.7113,
+      "changePercent": -1.1166
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.837,
-      "change": 0.025,
-      "changePercent": 0.0786
+      "price": 31.845,
+      "change": 0.033,
+      "changePercent": 0.1037
     },
     "JPYTWD": {
       "price": 0.1978,
@@ -94,28 +94,32 @@
       "changePercent": -1.0609
     },
     "EURTWD": {
-      "price": 37.221,
-      "change": 0.1008,
-      "changePercent": 0.2716
+      "price": 37.229,
+      "change": 0.1088,
+      "changePercent": 0.2931
     },
     "CNYTWD": {
-      "price": 4.7406,
+      "price": 4.7454,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4721.7,
-    "twd": 4833.0,
-    "tael": 181240.0,
-    "twdTotal": 150325.0,
-    "changePercent": 1.7432
+    "usd": 4727.2,
+    "twd": 4840.0,
+    "tael": 181496.0,
+    "twdTotal": 150538.0,
+    "changePercent": 1.8618
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "〈美股盤後〉輝達終止連七跌 美債買氣回籠 四大指數收紅 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfMjJaVERPbjBMbGRtMkduYUg0cUx4MlN4SjZIaV9sNFhlQ2pBOGVUYW9VWDlneWo4VEVuQ2lUdXU4Q3NFZU5pakNEbFlLQ1k?oc=5"
+    },
     {
       "title": "輝達財報開獎進入倒數！美股4指數齊揚 台指期夜盤漲303點、台積電ADR漲2% - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPODhqUjltQmN4OEtGaUFYbkVYdWIyN01aakFoWVYtdjNIcElwZk9oaURJU291RGtjbGVkQ05XX2F3bUJYcXBYUmt4QlB3OVpPa2RzbmtNRUsweVJzblQ4cEV0dnZBOEFGZnFMQjlEYzNyd3hEYlBJMUNDalE1cU9uaXExazNFWHpJaWlySmhlb1NucTV4MGRDQzdNdWhVcWdyeUd2VWRmY0hBVGVraTBTdndJXzZ4XzZ0R3VFNEpmdlFDZGpFWThyajlISlF3XzlRR3ZvM0ZLbHhIMHh3U3NiZWcyN0hhT1FVT3pIeVJlOFFob2dtazZqUG5MQU5Ub2lCUlhFMU1TRFhRLTNKZkhILXdHUC1HQjh1NjNKcGpTeVdvbm1MV2JmQzc0SUxNdG13OFNucTJiMl84dENDRm84TXdhbnVGRXVxM3pfc2V6SjRiMzdvNlh6MkxIdS15WVVhZWg1X1hUX3BzdTlmRHdxN1AxeWNGZW5ERmo4Xzl0QmJQdlNPTGdNSkpZNUhaN1NnTi1CVXA2a1JZclVxYUtpNk5ZU2dETmdXWUw4YXZB?oc=5"
@@ -125,20 +129,16 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EMUFhdWJzOWpkMzBxWmdSTEdtNk5ZdzhlRU1RS1JKaU5SZDFvNk0yUkxDM1RfZkZITGRjRUxteFlLdWJnY0RLMGExeWpvRnhRa0U5eEtOYzJHZ9IBX0FVX3lxTE5ySEFIQXIzSVdRREhiRWFacXQ4bFlmRGZmd3dUOU11dUxfZnlMQ2hVZy1jRkE4SEV5YzFTcVhUWkNlS3Azd09OSE9zanhidy1Pd25weHJzbUFUeHZvQUJn?oc=5"
     },
     {
-      "title": "比特幣衝破8萬美元 6個月滾動報酬超車黃金/美股-新聞內容-基金 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaGNJSnpOOEUtVU1jeFF1UjlWdEc3T0Flak9QUUZJWFBLaVNOTVg4R1c3T1owcDBaVVlMOWJCeUc2UWZhVzMweE1uV181dTlQMjBaOHJHUjB3Y2xOYjZUWHZ4ZkdxUmRab0RvQmNRZ1BnSGFXd2lHNHJab0t2N2dQVXRGaThQaHZaY3Y3bmltbGw?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉輝達終止連七跌 美債買氣回籠 四大指數收紅 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfMjJaVERPbjBMbGRtMkduYUg0cUx4MlN4SjZIaV9sNFhlQ2pBOGVUYW9VWDlneWo4VEVuQ2lUdXU4Q3NFZU5pakNEbFlLQ1k?oc=5"
+      "title": "《貴金屬》COMEX黃金下跌0.1% ETF持倉增加 - 期權 - 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTXc5SjZMR2NBbC12czRLZTJWVnZKVXA4LVMydXkydlg4Vy1nMFNibUwzc1JUSXR5dnA1TnVGVEEwLWVPZHFKb0tnLTUyRXpkdVRENlpNdG1DUndpZWV3X3QzTG9vMmVEcjdVRTY4aWtMRWkwS1BlaXREeTEtbmdxS1dEbkF6NGc?oc=5"
     },
     {
       "title": "黃金又創1新高！下一步走勢專家全說了 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5YkFfYVVZdnJSNHBZVjlpMzYwYUZVa1lKSGlCTzAtVTRFN3FiblVvUG5TSzA2YnJ0Q1g0MFRpNVRicXZ6cGJkSkl5dS1XcDFvVjRuU01fUG1iSG5yaWVV?oc=5"
     },
     {
-      "title": "台股震盪資金操作保守ETF爆量成吸金霸主| 金融 - 非凡新聞台",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HSl90Q2doTFdZMGxPbjV4OHd4TlZCX19SeFRfZWlHUUp0eF9GdE1VZVl4M0llVkZVanQ1am5JaFd6TG9ST0NZd005U1l2dmljSVR6eUswODZnQ3c?oc=5"
+      "title": "【台股千金股交易「大改制」！】 （#大表哥） - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSDdQVTJLZ1k3TExOMmhlaUo0TldGNXR5TTR3RFBMUFc0RXFZRVFjQmljQ21Pbmh0LXNHT1A5aW9MeThNMkU5TE04bG5aLWRuX251ZmFGZXljNTZDTVdOTm55eWpMYk5JdmtiamZLNDUzQmV1QlNzeEhzeGRLQVJ4TGFzeUs3NGFmcGpBcTRlbTZNdE95bmh1V29QSXBBdEQ5MU5FNDJKa3dPb2FULUtFZTlrUXd0WUlhMHY5bldBbW1DY3JTaDNhUF94Zy1hTERKTy1hSmtsWGUwS0dmTXZCc2doVVBoSGdxMUppdmkzUkdyZEtYZk92bDBzTWtnUzRkOW5WbWZR?oc=5"
     },
     {
       "title": "美國財政部意外干預債市效應比特幣、黃金漲勢再起| 全球財經| 全球 - UDN",
