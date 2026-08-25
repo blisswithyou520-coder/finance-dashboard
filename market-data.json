@@ -1,16 +1,16 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 13:47",
+  "updated_tw": "08/25 14:43",
   "taiwan": {
     "2330": {
-      "price": 2385.0,
-      "change": 10.0,
-      "changePercent": 0.4211
+      "price": 2400.0,
+      "change": 25.0,
+      "changePercent": 1.0526
     },
     "2454": {
-      "price": 3715.0,
-      "change": -50.0,
-      "changePercent": -1.328
+      "price": 3735.0,
+      "change": -30.0,
+      "changePercent": -0.7968
     },
     "2317": {
       "price": 243.0,
@@ -18,19 +18,19 @@
       "changePercent": -0.2053
     },
     "0050": {
-      "price": 104.2,
-      "change": 0.4,
-      "changePercent": 0.3854
+      "price": 104.4,
+      "change": 0.6,
+      "changePercent": 0.578
     },
     "00878": {
-      "price": 32.62,
-      "change": 0.19,
-      "changePercent": 0.5859
+      "price": 32.64,
+      "change": 0.21,
+      "changePercent": 0.6475
     },
     "00919": {
-      "price": 31.06,
-      "change": 0.41,
-      "changePercent": 1.3377
+      "price": 31.07,
+      "change": 0.42,
+      "changePercent": 1.3703
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80652.19,
-      "change": 2896.9244,
-      "changePercent": 3.7257
+      "price": 80527.44,
+      "change": 2772.1744,
+      "changePercent": 3.5653
     },
     "ETH": {
-      "price": 2505.29,
-      "change": 41.4741,
-      "changePercent": 1.6833
+      "price": 2503.07,
+      "change": 39.2541,
+      "changePercent": 1.5932
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.89,
-      "change": 0.068,
-      "changePercent": 0.2137
+      "price": 31.871,
+      "change": 0.049,
+      "changePercent": 0.154
     },
     "JPYTWD": {
-      "price": 0.198,
-      "change": -0.0022,
-      "changePercent": -1.0856
+      "price": 0.1979,
+      "change": -0.0023,
+      "changePercent": -1.1355
     },
     "EURTWD": {
-      "price": 37.211,
-      "change": 0.0557,
-      "changePercent": 0.15
+      "price": 37.197,
+      "change": 0.0417,
+      "changePercent": 0.1123
     },
     "CNYTWD": {
-      "price": 4.7501,
+      "price": 4.7485,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4700.2,
-    "twd": 4819.0,
-    "tael": 180715.0,
-    "twdTotal": 149889.0,
-    "changePercent": 1.28
+    "usd": 4708.8,
+    "twd": 4825.0,
+    "tael": 180937.0,
+    "twdTotal": 150074.0,
+    "changePercent": 1.4653
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,16 @@
   },
   "news": [
     {
+      "title": "比特幣礦企Metaplanet於1小時前向Coinbase Prime存入1000枚比特幣 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03WXZkQVRfM0RINk8wVDYxS0QzRzZsS0tLUEQxbG4zdFRvQnJmRWVVMlRjX1dqZzNGMlE5TFJLdkkzVDZvME9oellMQQ?oc=5"
+    },
+    {
       "title": "黃金又創1新高！下一步走勢專家全說了 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5YkFfYVVZdnJSNHBZVjlpMzYwYUZVa1lKSGlCTzAtVTRFN3FiblVvUG5TSzA2YnJ0Q1g0MFRpNVRicXZ6cGJkSkl5dS1XcDFvVjRuU01fUG1iSG5yaWVV?oc=5"
     },
     {
-      "title": "比特幣衝破8萬美元 6個月滾動報酬超車黃金/美股-新聞內容-基金 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaGNJSnpOOEUtVU1jeFF1UjlWdEc3T0Flak9QUUZJWFBLaVNOTVg4R1c3T1owcDBaVVlMOWJCeUc2UWZhVzMweE1uV181dTlQMjBaOHJHUjB3Y2xOYjZUWHZ4ZkdxUmRab0RvQmNRZ1BnSGFXd2lHNHJab0t2N2dQVXRGaThQaHZaY3Y3bmltbGw?oc=5"
+      "title": "花旗把黃金短期目標價上調至4800，摩根大通押注大波動！ - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2pkdHAwS2dMLUNISzB5blRoUXdGQlRZRVA0WS1iUENVZllxYTF4X3pwbzlaZmZRQ2lnOS1WYmVwcWRsZGNPQWs3Nm5mZHdyVUFqWkMySmFJWHBhODFsbXFSZmtwYkM1MHp4R2ZTYVU4QTBjZTE4VUVuQk9Tc3VvREd5NU9zSDh3YmEwZ3VuQlBkVVBHYkp0Q2VIcXVFTk5G?oc=5"
     },
     {
       "title": "美股收盤／輝達財報前連七跌 晶片股重挫拖累那指跌0.8% - 經濟日報",
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQRHIzb2NoYVVYY19aZ0dQa0drXy1YLXBnLXdzLVNWWkV5dzRfU1o4LUVpT3NJdkk3WGh1c2U3VF80bEtVWkFhQi1aVEowbUc2N0pPcHV6VG1IWVFVcXNsQWcwWGQ0a1dXemt2Nk1LZVNBSkw0dDJkNVRlejdJV0ZSdTAybHNlb0F6by1zTnpRdmhGcm8yWEhBSHR4U2h2RFdPTndfU3VqLWlNOXZLdkk5Um5PRENnNndjN1oxQXUxV2lLTUVkRDVHcl80bnVIT0dvd0FhZzhVeDVyZmc5TURYR0ZsYkdXbkIwazMtYVE4YkZQdWRrODAxN2lVNVZjUmFLQVZEVXZDMFRFSnVKMkdGaFI0czZmR19GcVdrbEN3LWU1R1ZldXRnc1lJbmtDdENjXzNlb3NnSEZCTXV0UFZUbXhLR1pTVHpjQ2xEU0pmYjVnX29KeHFESjdyY19GTlJ3T3lBY09KMEk2b1NHV2twM1E1d0pSWE5WZWc?oc=5"
     },
     {
-      "title": "花旗把黃金短期目標價上調至4800，摩根大通押注大波動！ - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2pkdHAwS2dMLUNISzB5blRoUXdGQlRZRVA0WS1iUENVZllxYTF4X3pwbzlaZmZRQ2lnOS1WYmVwcWRsZGNPQWs3Nm5mZHdyVUFqWkMySmFJWHBhODFsbXFSZmtwYkM1MHp4R2ZTYVU4QTBjZTE4VUVuQk9Tc3VvREd5NU9zSDh3YmEwZ3VuQlBkVVBHYkp0Q2VIcXVFTk5G?oc=5"
-    },
-    {
-      "title": "〈美股早盤〉市場靜待伊朗制裁、輝達財報與通膨數據 主要指數開低 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZUjJOV2h6QnE4SnR6a1Q0RVpJd1hURlRwWldBc2lvMF96YnlxYVdjUzFZQndpTFVQcEJQYzlRdng0c0otVWNCU2FDRVlLMlE?oc=5"
-    },
-    {
-      "title": "貝森特「經濟D-Day」制裁伊朗，油價、黃金、美股怎麼反應？ ｜美股觀察｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPQ2Q0NFpLcjZ2REd1WEw4NWVRZnd4R0VxZG05X0VxbF9Dczh1NmswN1p1UmR6OEF2VVg1YU5TWGJJNkIxV1NsT0FMRWxpYVlTS2ZGVzhYeWt4RWs0ekFtc25zdll1X2duOXNjVDhsRUQ1UExMLUNQTGRXcHg4WmtSY0hlTEdwTUFabUtlODRnNlNOb08taGlXc2ZvczNMRTdzOWpVT3dMNEN4cmpWNFpDY1RUaDBFWHdUYUdfUVJhV0lvMXhVanIxUUNxZkhLd0kxbUFReTVSM3RVLU5UOFZEbTlDdlB1VHpibHY4ZzYwUE5raGdOLVFqTUJidzZKcmNhRG5mbGZaLUVEVXhjWEE3SG15YW5lQjZJcGhxYlFIbTNxTEVqY3ZhbFh6d1ltZW5zUjg5SXp2Smd1QkN4T2J2UEVaXzlrRVo5REh6MG0xdlZmNkhiT0psbGJRUXNxZzh6T2t2SUV6OFB6dG1OMzFpR2RJUGZ6c0JqaTJYbDdMSERpNjAtT2tXTXVZM3pycFo0TDVLQkM1YjV0WjktNEhaUVlB?oc=5"
+      "title": "比特幣衝破8萬美元 6個月滾動報酬超車黃金/美股 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRDlYaGZtRHFJQ01CSzBtNTNvZ3BveEZGdUMwX24wZUtJdXVPVGJ0Y2xvbHhnUkgyOVFWMEpQcUZkZ3ExYkwySjlsSU9SMi1wSmlfakNUd2M2OWUwM0t6MHhQbzRKclNEVnBoV1pfYm1WTE9FRjVWelpEVG9tRmhjazFYSU4zMmRXNU1EMkpZZU03UQ?oc=5"
     },
     {
       "title": "比特幣續漲飆破 8 萬美元！分析師示警：下波「技術性回檔」才是真考驗 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHJwMWFYOGt4MmVTazVISmpDbmsta1ZYT19GTUQ2WWhTT25TelJiNVp4V1ljb0RGR2RYcGU0X0JJWkRsblRCNGRjNUZLS2hGNmdJR3czOUUxYXBnT210Sm5tbnNKTzBtMWhRcnBDeGFnV2oyYmxMSWQ3WHlTVnBFQjFrUjQwNXM0YklJVmM3c0h2QWVwV2oxZTVEVk9hNjZTbzFr?oc=5"
+    },
+    {
+      "title": "貝森特「經濟D-Day」制裁伊朗，油價、黃金、美股怎麼反應？ ｜美股觀察｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPQ2Q0NFpLcjZ2REd1WEw4NWVRZnd4R0VxZG05X0VxbF9Dczh1NmswN1p1UmR6OEF2VVg1YU5TWGJJNkIxV1NsT0FMRWxpYVlTS2ZGVzhYeWt4RWs0ekFtc25zdll1X2duOXNjVDhsRUQ1UExMLUNQTGRXcHg4WmtSY0hlTEdwTUFabUtlODRnNlNOb08taGlXc2ZvczNMRTdzOWpVT3dMNEN4cmpWNFpDY1RUaDBFWHdUYUdfUVJhV0lvMXhVanIxUUNxZkhLd0kxbUFReTVSM3RVLU5UOFZEbTlDdlB1VHpibHY4ZzYwUE5raGdOLVFqTUJidzZKcmNhRG5mbGZaLUVEVXhjWEE3SG15YW5lQjZJcGhxYlFIbTNxTEVqY3ZhbFh6d1ltZW5zUjg5SXp2Smd1QkN4T2J2UEVaXzlrRVo5REh6MG0xdlZmNkhiT0psbGJRUXNxZzh6T2t2SUV6OFB6dG1OMzFpR2RJUGZ6c0JqaTJYbDdMSERpNjAtT2tXTXVZM3pycFo0TDVLQkM1YjV0WjktNEhaUVlB?oc=5"
     }
   ]
 }
