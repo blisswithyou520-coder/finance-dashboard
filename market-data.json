@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/25 09:11",
+  "updated_tw": "08/25 10:31",
   "taiwan": {
     "2330": {
-      "price": 2375.0,
-      "change": -35.0,
-      "changePercent": -1.4523
+      "price": 2365.0,
+      "change": -10.0,
+      "changePercent": -0.4211
     },
     "2454": {
-      "price": 3765.0,
-      "change": -25.0,
-      "changePercent": -0.6596
+      "price": 3670.0,
+      "change": -95.0,
+      "changePercent": -2.5232
     },
     "2317": {
-      "price": 243.5,
-      "change": -2.0,
-      "changePercent": -0.8147
+      "price": 238.5,
+      "change": -5.0,
+      "changePercent": -2.0534
     },
     "0050": {
-      "price": 103.8,
-      "change": -0.85,
-      "changePercent": -0.8122
+      "price": 102.6,
+      "change": -1.2,
+      "changePercent": -1.1561
     },
     "00878": {
-      "price": 32.43,
-      "change": 0.05,
-      "changePercent": 0.1544
+      "price": 32.38,
+      "change": -0.05,
+      "changePercent": -0.1542
     },
     "00919": {
-      "price": 30.65,
-      "change": -0.15,
-      "changePercent": -0.487
+      "price": 30.89,
+      "change": 0.24,
+      "changePercent": 0.783
     }
   },
   "us": {
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79639.57,
-      "change": 1884.3044,
-      "changePercent": 2.4234
+      "price": 80857.33,
+      "change": 3102.0644,
+      "changePercent": 3.9895
     },
     "ETH": {
-      "price": 2488.65,
-      "change": 24.8341,
-      "changePercent": 1.008
+      "price": 2527.21,
+      "change": 63.3941,
+      "changePercent": 2.573
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.841,
-      "change": 0.019,
-      "changePercent": 0.0597
+      "price": 31.86,
+      "change": 0.038,
+      "changePercent": 0.1194
     },
     "JPYTWD": {
       "price": 0.1978,
@@ -94,22 +94,22 @@
       "changePercent": -1.1855
     },
     "EURTWD": {
-      "price": 37.183,
-      "change": 0.0277,
-      "changePercent": 0.0746
+      "price": 37.198,
+      "change": 0.0427,
+      "changePercent": 0.115
     },
     "CNYTWD": {
-      "price": 4.7377,
+      "price": 4.7444,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4732.9,
-    "twd": 4845.0,
-    "tael": 181692.0,
-    "twdTotal": 150700.0,
-    "changePercent": 2.3529
+    "usd": 4708.8,
+    "twd": 4823.0,
+    "tael": 180875.0,
+    "twdTotal": 150022.0,
+    "changePercent": 1.4653
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,16 @@
   },
   "news": [
     {
+      "title": "美股收盤／輝達財報前連七跌 晶片股重挫拖累那指跌0.8% - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3Tkl6LXRXR2p4SWc0aVVKeTJtSnAwUEx1THg1UU9sbHZvN0RhcmtNVlNiVTh6QmN3MWtxaUNELVFIcFh1WXg2SzRwWkZHWDJuemF5SnBJWnB3WmdV0gFiQVVfeXFMUFpKMUx5WEhOdE03cFROOG8xV0t3VmU3dlJWMEVLdF96clNvSXR2djAxeGhRbGFjMFJBaDJnVHJDVmVvV3JTZjYwMWdGaUxUOEhQaVlEQnZySTlRR29oRXozdUE?oc=5"
+    },
+    {
       "title": "輝達財報倒數！美股觀望氣氛濃 費半大跌逾3%、台積電ADR跌近3% - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQRHIzb2NoYVVYY19aZ0dQa0drXy1YLXBnLXdzLVNWWkV5dzRfU1o4LUVpT3NJdkk3WGh1c2U3VF80bEtVWkFhQi1aVEowbUc2N0pPcHV6VG1IWVFVcXNsQWcwWGQ0a1dXemt2Nk1LZVNBSkw0dDJkNVRlejdJV0ZSdTAybHNlb0F6by1zTnpRdmhGcm8yWEhBSHR4U2h2RFdPTndfU3VqLWlNOXZLdkk5Um5PRENnNndjN1oxQXUxV2lLTUVkRDVHcl80bnVIT0dvd0FhZzhVeDVyZmc5TURYR0ZsYkdXbkIwazMtYVE4YkZQdWRrODAxN2lVNVZjUmFLQVZEVXZDMFRFSnVKMkdGaFI0czZmR19GcVdrbEN3LWU1R1ZldXRnc1lJbmtDdENjXzNlb3NnSEZCTXV0UFZUbXhLR1pTVHpjQ2xEU0pmYjVnX29KeHFESjdyY19GTlJ3T3lBY09KMEk2b1NHV2twM1E1d0pSWE5WZWc?oc=5"
     },
     {
       "title": "〈美股盤後〉輝達財報前連七黑 記憶體股崩跌 費半收黑2.7% - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QZFlMOFVvNzJHRHhSajRqLTY2LTFpNU1Ea3VzVkdZMGJvSFNFOUZ0bTc0RlI0VC1tSk00bTBfSmwtX05ubTl3dDBnOVRCbVE?oc=5"
-    },
-    {
-      "title": "美股早盤／避險情緒升溫「科技股領跌」 費半摔2%、光通訊股重挫| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OcUlKTnMtVkVxRk5DbjJ0SmxLd2NLYXR1VExJZ01UVHpBUEVQdGlaU0xUWEpmSUExQUZZd0M3RFNwNHl3bDZOd0RGM194ejNp?oc=5"
     },
     {
       "title": "【 0824台股盤後】台股大盤量縮拉回461 點收44,762 點！台股夜盤下跌208點，投信抗跌單日買超37 億，矽晶圓逆勢抗跌，投本比鎖碼禾伸堂、台勝科、宏致｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XNjhCb0E2RWNrTm1TMENRMkl3OVlBT1ZvODI4bHA0dTNjcVVWMmllajM4S1dGUFV1MWltMEhCclpDVkVRdWpuOTI2d3paWE80REVuMXhzaFVkT0Q3YVN3?oc=5"
     },
     {
-      "title": "《貴金屬》市場觀望 COMEX黃金上漲0.4% - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVd2S3F3Z1NSNkxxX2ZNbFRZZjFTVUROS1JoYUdaWkszd3hORWhtMS1sdEt6emJjLTl4UFJyNGdleVkyQXBEazMwY2JQUFlVd21EQjFqTjJjODJ4T3BaUkhpQ2NiSDZzc0hDNHBqcU1ad05LbjFFSkxhYmpST3hnX3JXYlp0QVExRHBKbmNjSTZOQQ?oc=5"
-    },
-    {
-      "title": "美半導體股挫跌法人：台股待補量關注華許演說| 證券 - cna.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vczhpRkFSTDZ6NU1JUnhVWkpWc3Z0eGQ5Wmg2TWMtazA3Mk5LSGk5SmQ1OUx6N1Z6TGlhcUt5LWNxeVplalc5R19hOGNFNkNZdnQtTVhMTHlLZDVpQ2c?oc=5"
+      "title": "美股走弱！台股早盤下挫358點 台積電開盤價曝光 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNMHVJZzg2WTdQZ3RmOTBRdXZzZmsxVm55TkhwMHpSRjczeFpzRmttc0M0SlFGSHJJMGZsZ3pHa0tMYzBDWTY0NHQwOVZKSzhyNWdyOHVWcUVMYXpVRkhJTEZYVXRRS3o2NDg3M1EzSjRjU1dBaHhpZkdQNi1TT0QzWXpPamRSZDB5TVBvYWVUZThZQUk0OVBqVExHQVBiVUxCNkh3YjVrbFhta3AzQWRrcWYtN1lYWS15Q1pydENlQ0c0Zy1TdlJiVU8xVkVBRlVQOGUxSGZUYWRoRDBDR3hUUGdsM1A1ZlhfeUs5NF82YnRZVWJCbkVmVTFrLWx6OWQwM2tZZmQ4eW1xM2F3NjhpS1dKbEhGdGhPYTVtRUxEempXeGdEcEFjV2Q4dGR3a1Z0QlZDclppYTVaMUxwaTRCOUpIYlFidw?oc=5"
     },
     {
       "title": "〈美股早盤〉市場靜待伊朗制裁、輝達財報與通膨數據 主要指數開低 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZUjJOV2h6QnE4SnR6a1Q0RVpJd1hURlRwWldBc2lvMF96YnlxYVdjUzFZQndpTFVQcEJQYzlRdng0c0otVWNCU2FDRVlLMlE?oc=5"
+    },
+    {
+      "title": "美股早盤／避險情緒升溫「科技股領跌」 費半摔2%、光通訊股重挫| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OcUlKTnMtVkVxRk5DbjJ0SmxLd2NLYXR1VExJZ01UVHpBUEVQdGlaU0xUWEpmSUExQUZZd0M3RFNwNHl3bDZOd0RGM194ejNp?oc=5"
     }
   ]
 }
