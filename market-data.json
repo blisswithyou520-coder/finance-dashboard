@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/26 02:50",
+  "updated_tw": "08/26 03:30",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 213.115,
-      "change": 4.635,
-      "changePercent": 2.2232
+      "price": 211.97,
+      "change": 3.49,
+      "changePercent": 1.674
     },
     "AAPL": {
-      "price": 309.155,
-      "change": -1.185,
-      "changePercent": -0.3818
+      "price": 308.92,
+      "change": -1.42,
+      "changePercent": -0.4576
     },
     "TSLA": {
-      "price": 352.65,
-      "change": 3.7,
-      "changePercent": 1.0603
+      "price": 351.67,
+      "change": 2.72,
+      "changePercent": 0.7795
     },
     "QQQ": {
-      "price": 710.502,
-      "change": 4.182,
-      "changePercent": 0.5921
+      "price": 709.385,
+      "change": 3.065,
+      "changePercent": 0.4339
     },
     "SPY": {
-      "price": 765.79,
-      "change": 2.32,
-      "changePercent": 0.3039
+      "price": 765.18,
+      "change": 1.71,
+      "changePercent": 0.224
     },
     "SCHD": {
-      "price": 35.115,
-      "change": -0.095,
-      "changePercent": -0.2698
+      "price": 35.13,
+      "change": -0.08,
+      "changePercent": -0.2272
     },
     "VOO": {
-      "price": 703.94,
-      "change": 2.11,
-      "changePercent": 0.3006
+      "price": 703.36,
+      "change": 1.53,
+      "changePercent": 0.218
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79219.51,
-      "change": 255.0256,
-      "changePercent": 0.323
+      "price": 78930.39,
+      "change": -34.0944,
+      "changePercent": -0.0432
     },
     "ETH": {
-      "price": 2469.03,
-      "change": -12.8013,
-      "changePercent": -0.5158
+      "price": 2461.48,
+      "change": -20.3513,
+      "changePercent": -0.82
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.857,
-      "change": 0.035,
-      "changePercent": 0.11
+      "price": 31.861,
+      "change": 0.039,
+      "changePercent": 0.1226
     },
     "JPYTWD": {
-      "price": 0.1979,
-      "change": -0.0023,
-      "changePercent": -1.1355
+      "price": 0.198,
+      "change": -0.0022,
+      "changePercent": -1.0856
     },
     "EURTWD": {
-      "price": 37.238,
-      "change": 0.0827,
-      "changePercent": 0.2227
+      "price": 37.244,
+      "change": 0.0887,
+      "changePercent": 0.2388
     },
     "CNYTWD": {
-      "price": 4.7462,
+      "price": 4.7478,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4704.9,
-    "twd": 4819.0,
-    "tael": 180708.0,
-    "twdTotal": 149884.0,
-    "changePercent": 1.3812
+    "usd": 4723.5,
+    "twd": 4839.0,
+    "tael": 181445.0,
+    "twdTotal": 150495.0,
+    "changePercent": 1.782
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EMUFhdWJzOWpkMzBxWmdSTEdtNk5ZdzhlRU1RS1JKaU5SZDFvNk0yUkxDM1RfZkZITGRjRUxteFlLdWJnY0RLMGExeWpvRnhRa0U5eEtOYzJHZ9IBX0FVX3lxTE5ySEFIQXIzSVdRREhiRWFacXQ4bFlmRGZmd3dUOU11dUxfZnlMQ2hVZy1jRkE4SEV5YzFTcVhUWkNlS3Azd09OSE9zanhidy1Pd25weHJzbUFUeHZvQUJn?oc=5"
     },
     {
-      "title": "散戶真的撤了？台股量能縮至6562億 專家曝「下一波進場訊號」 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOTTNIWmZfN3A4WG0yblhPSml2ZFRhXzlnMGZ2WXJVY1pwbHYxaWFpblljNUlFc0F4TVE4Y1pVbkd4b2hwLUNDX1N3VUJCQWIyclV4QUk3RktLb3lwVzdlVFFNNFFKbTJvWXR0UlVvNm5VVkU1SWhvTnNhdjBoS3A1NFZ5M251WVp3UW9kR2Q2VkF0N0QzYk5IV0xIMUR1dVIxRUpkbDFua0NrY2VLOGl6S25MSDZnNEQzN184UzluVnpWWTBmWFpIbWVOTUdlSmZVX0RXc2lObk1QZENEaVdsVWN5YWx5SVk5cnNZSGNwTzVacDVlbXpqWWxHamZGN0MzSVY2SVJkam1FMUJMNS1SV213c3ZjMWQycGRWSE5XWFVWZlliVjNOYzRETllmQkFrTkEyOGRiM3UycmF1OGhmQ3VIV1RCTklXSmdwX1BWR0RBdzFEN3lCa3ZlMkxjUWV3TGVnLVNsd2N1Y24zMkE?oc=5"
+      "title": "美股估值有多高？九大歷史指標七項發警訊 專家：標普500未來10年恐吞負報酬 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12QWo1cVJ0UlF4cGwzdzVwenFiT3ZzUjRPVTlKcWpyMUJmMG9MRlYtdy1Xc3ZpRTN3YkRKelphbnNEdUJvQVFyejJOVXZMdjQ?oc=5"
     }
   ]
 }
