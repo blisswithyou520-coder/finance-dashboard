@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/26 00:54",
+  "updated_tw": "08/26 01:30",
   "taiwan": {
     "2330": {
       "price": 2400.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 212.252,
-      "change": 3.772,
-      "changePercent": 1.8093
+      "price": 212.28,
+      "change": 3.8,
+      "changePercent": 1.8227
     },
     "AAPL": {
-      "price": 309.97,
-      "change": -0.37,
-      "changePercent": -0.1192
+      "price": 309.66,
+      "change": -0.68,
+      "changePercent": -0.2191
     },
     "TSLA": {
-      "price": 356.45,
-      "change": 7.5,
-      "changePercent": 2.1493
+      "price": 353.51,
+      "change": 4.56,
+      "changePercent": 1.3068
     },
     "QQQ": {
-      "price": 710.33,
-      "change": 4.01,
-      "changePercent": 0.5677
+      "price": 709.49,
+      "change": 3.17,
+      "changePercent": 0.4488
     },
     "SPY": {
-      "price": 765.39,
-      "change": 1.92,
-      "changePercent": 0.2515
+      "price": 764.84,
+      "change": 1.37,
+      "changePercent": 0.1794
     },
     "SCHD": {
-      "price": 35.08,
-      "change": -0.13,
-      "changePercent": -0.3692
+      "price": 35.065,
+      "change": -0.145,
+      "changePercent": -0.4118
     },
     "VOO": {
-      "price": 703.63,
-      "change": 1.8,
-      "changePercent": 0.2565
+      "price": 703.04,
+      "change": 1.21,
+      "changePercent": 0.1724
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79138.96,
-      "change": 174.4756,
-      "changePercent": 0.221
+      "price": 78806.33,
+      "change": -158.1544,
+      "changePercent": -0.2003
     },
     "ETH": {
-      "price": 2472.46,
-      "change": -9.3713,
-      "changePercent": -0.3776
+      "price": 2459.66,
+      "change": -22.1713,
+      "changePercent": -0.8933
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.865,
-      "change": 0.043,
-      "changePercent": 0.1351
+      "price": 31.867,
+      "change": 0.045,
+      "changePercent": 0.1414
     },
     "JPYTWD": {
       "price": 0.1979,
@@ -94,22 +94,22 @@
       "changePercent": -1.1355
     },
     "EURTWD": {
-      "price": 37.237,
-      "change": 0.0817,
-      "changePercent": 0.22
+      "price": 37.241,
+      "change": 0.0857,
+      "changePercent": 0.2307
     },
     "CNYTWD": {
-      "price": 4.7473,
+      "price": 4.7474,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4701.8,
-    "twd": 4817.0,
-    "tael": 180634.0,
-    "twdTotal": 149823.0,
-    "changePercent": 1.3144
+    "usd": 4700.2,
+    "twd": 4816.0,
+    "tael": 180584.0,
+    "twdTotal": 149781.0,
+    "changePercent": 1.28
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,20 +121,24 @@
       "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPODhqUjltQmN4OEtGaUFYbkVYdWIyN01aakFoWVYtdjNIcElwZk9oaURJU291RGtjbGVkQ05XX2F3bUJYcXBYUmt4QlB3OVpPa2RzbmtNRUsweVJzblQ4cEV0dnZBOEFGZnFMQjlEYzNyd3hEYlBJMUNDalE1cU9uaXExazNFWHpJaWlySmhlb1NucTV4MGRDQzdNdWhVcWdyeUd2VWRmY0hBVGVraTBTdndJXzZ4XzZ0R3VFNEpmdlFDZGpFWThyajlISlF3XzlRR3ZvM0ZLbHhIMHh3U3NiZWcyN0hhT1FVT3pIeVJlOFFob2dtazZqUG5MQU5Ub2lCUlhFMU1TRFhRLTNKZkhILXdHUC1HQjh1NjNKcGpTeVdvbm1MV2JmQzc0SUxNdG13OFNucTJiMl84dENDRm84TXdhbnVGRXVxM3pfc2V6SjRiMzdvNlh6MkxIdS15WVVhZWg1X1hUX3BzdTlmRHdxN1AxeWNGZW5ERmo4Xzl0QmJQdlNPTGdNSkpZNUhaN1NnTi1CVXA2a1JZclVxYUtpNk5ZU2dETmdXWUw4YXZB?oc=5"
     },
     {
-      "title": "Coldcard駭客攻擊中87%被盜比特幣仍未移動，總計約1,789.28枚比特幣被盜 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xclZVdHFSZ1hFQ21JeEEzakpUWngyMGxKMFpEVHU1ZzFGUWdzZ0lTUkhNdF9DYlpBTVkweHB3dV9fQjFkYUZObkdHQQ?oc=5"
+      "title": "美國財政部意外干預債市效應 比特幣、黃金漲勢再起 | 國際焦點 | 國際 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKU3hRU3Q2QU1lQWxuYl9rM0pWSlYwTWlibjZ6cU1ZT2xRUjEzU2Z1VVhIeWtjTG9SMEZkU1R2c09wZE1VTDN3bE0wZ2JUYVpfb2ZCYWt0RE1PTmg4VXBxRVowd2IyWExrYkRjUmo3aE85MWNFTUE?oc=5"
     },
     {
       "title": "黃金又創1新高！下一步走勢專家全說了 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5YkFfYVVZdnJSNHBZVjlpMzYwYUZVa1lKSGlCTzAtVTRFN3FiblVvUG5TSzA2YnJ0Q1g0MFRpNVRicXZ6cGJkSkl5dS1XcDFvVjRuU01fUG1iSG5yaWVV?oc=5"
     },
     {
-      "title": "美股收盤／輝達財報前連七跌 晶片股重挫拖累那指跌0.8% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3Tkl6LXRXR2p4SWc0aVVKeTJtSnAwUEx1THg1UU9sbHZvN0RhcmtNVlNiVTh6QmN3MWtxaUNELVFIcFh1WXg2SzRwWkZHWDJuemF5SnBJWnB3WmdV0gFiQVVfeXFMUFpKMUx5WEhOdE03cFROOG8xV0t3VmU3dlJWMEVLdF96clNvSXR2djAxeGhRbGFjMFJBaDJnVHJDVmVvV3JTZjYwMWdGaUxUOEhQaVlEQnZySTlRR29oRXozdUE?oc=5"
+      "title": "比特幣重返80,000美元大關，單週大漲23%創3年最大漲幅 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJeTRpbWhjUU9KS1VyNnc5RVJtcVBQcl9OVlNUVjI5ZnBkSE1RZmI3bW04SnU5cWFiSF9LRHVTLW01cXIzbmxHYlJSTHR2ZzA?oc=5"
     },
     {
       "title": "比特幣衝破8萬美元 6個月滾動報酬超車黃金/美股 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRDlYaGZtRHFJQ01CSzBtNTNvZ3BveEZGdUMwX24wZUtJdXVPVGJ0Y2xvbHhnUkgyOVFWMEpQcUZkZ3ExYkwySjlsSU9SMi1wSmlfakNUd2M2OWUwM0t6MHhQbzRKclNEVnBoV1pfYm1WTE9FRjVWelpEVG9tRmhjazFYSU4zMmRXNU1EMkpZZU03UQ?oc=5"
+    },
+    {
+      "title": "【美股盤前0825】美財政部擬動用1兆美元購債！貝森特表示美國正擴大對伊朗制裁，石油供應與海峽運輸問題再起 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAVBVV95cUxNc2MzNE0zb3BtMFNULUZKRnFjT3NzWS0tbWlGMWRIMXRRd3FxVnVlUHk5N2dDV0ZvVGx3Qm1HazBFRllZZDFUZHFWeFE3OGVVUXRkSlo4TXZoNXFHd2c0bEZrNWh1ZzVNLUt5MEVzc3pPWU9EQmM1TkRNd25RY0FjMWtvWlNqYWpXQlRiVVJlUFRJS3F2UkxmN0swSWpnMlZsYm5kX2pJS3I0TkJoeE5jUXpFNGd0MDJwUFpsSTlYOW5vYktsc1hLLW85THlqY1NYNGVJT0tYU1ZpZVJZc2ZENXRmMUk3S2NLbVhEZUlCQ3U3dHU1Wm84a1lUTER1NHRRV3JJaVNjSHZPWXRBZkxSNmZGa1dDUnJrZjNkUHlQX0V3RmoyYnRiZE1HanFMakZIWng4emctNVM2R0xNNURCUm9EdTNwblF6bHhOX3pQT1JOdkNwQ1hfYnBYN1QwcjJRMUUxRkllLWc2OWZuVGJnTm5wYUwyZ0FQR2g2dWViOFQtT1hSaUVSOFN1V0dFX0RidFEzY0s2Rk0wWWhxMTNwRUxlV0VsUzZIT25sblpjVEtsSXd2SHd5REdTYnhBZ01pV1hFZHc2VkI5UEtuT1lMUG84TjZQeU1CU0lhV1hwa04xNTQwWVJ6U0NxNzZiQ0N5eHpmVHA3eTR4el9KWjNzci1IRVB6UW1aVVNfaDVhS2k0RTNFSWdDQ0JrQnRUTEZfeFVYSDdrOUxmZl9EMUpzQ2ZzU2hHYzVuYU9MSGtOYkx4NXQyaml2MGl3d2pjdWN5d0NPQUNfT0dNZ2gzSFJLZmlDTFFVcldJRVdPeEFiem55SzZ2ZjFycXFrYmRfdDBVMF9ZeTMwQWR4SkR3clU5a1J3MUVZdzNwLTFUMmtlXzM?oc=5"
     },
     {
       "title": "散戶真的撤了？台股量能縮至6562億 專家曝「下一波進場訊號」 - Yahoo股市",
@@ -143,10 +147,6 @@
     {
       "title": "台股基金震盪 專家：加入美股拚增值、搭配新興債降波動 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zT21mWnBhMk93eFg0ZFd6SEtzSTA3NU5pU0dsMzNiTFI3Q3dDRlVuamRmbnpiR09ZRGppbDVpNE4yVW01SkozRVRMNURlTkNX0gFWQVVfeXFMTUc0b2ZEdGxXX1ZTWmZ5MU8xdldyTHpiWHpJTHJ3ckcxS3N1Wi1CTWw5blR2R2QyWHdrYWV4S2hBRllldHhyOVFac0hWMUhlMDRVUjlJUVE?oc=5"
-    },
-    {
-      "title": "不只台積電領軍！台股強彈逾400點「這幾檔」也發威 金控雙雄助攻有感 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNNFNUSk9nblVOZzBOLUxZUkpjRTdNMGRoTDhDOEx3X1JWRnhxT2d0elh3eWEya3dJUGtsUjVvLURPVWxhX3QxWVZraEFQX0lXVlpaSjlVY1dYT1VORm41S2wzZ0FhaUtubDI0MkZUQ2ZOQTFoOVM3cGhRVVI5bnhqakFYTlBwNUkxeXBCVFVHa2w3a2UteHVvWWFPcTdGSExpRTdYYkt1djN6eHRtQUFiOUZubjRzVXJBY3g1elZxUTcyS0R1LS0tS1RncmdOZHdULUdwWk9kNXZXcHpnTjdfX3ptcGJ2azdkWnRuZFhYZ0xZc2lYdmpqOThEZkQtLWhBT0NDN014a2dMNm1mc0EzdzB0Z2VQdmZTMU14b2RmaW5oM1pUSjhuZVUzZzY2aUFKbDdSWDNybzQ3RURIREFGVTE2eDJQaWtpRWo0OEUwRnNVU2lIdlM3dGMzY0J2blI1NW1QR1JaSkpmZzRJQ0w5YklXOUdGQlNIUVQwY0lKTnlzMDMzblN2S3k2NU0zdldXRWFaT1pCdTUxMlByWGg0ZkV1Ty1tT05m?oc=5"
     }
   ]
 }
