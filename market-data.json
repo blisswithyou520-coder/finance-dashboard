@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/26 19:44",
+  "updated_tw": "08/26 20:17",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78463.57,
-      "change": -101.4066,
-      "changePercent": -0.1291
+      "price": 78397.6,
+      "change": -167.3766,
+      "changePercent": -0.213
     },
     "ETH": {
-      "price": 2462.11,
-      "change": 18.9506,
-      "changePercent": 0.7757
+      "price": 2460.3,
+      "change": 17.1406,
+      "changePercent": 0.7016
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.812,
-      "change": -0.0,
-      "changePercent": -0.0
+      "price": 31.821,
+      "change": 0.009,
+      "changePercent": 0.0283
     },
     "JPYTWD": {
-      "price": 0.1977,
-      "change": -0.0022,
-      "changePercent": -1.1109
+      "price": 0.1979,
+      "change": -0.002,
+      "changePercent": -1.0109
     },
     "EURTWD": {
-      "price": 37.148,
-      "change": 0.0278,
-      "changePercent": 0.0749
+      "price": 37.186,
+      "change": 0.0658,
+      "changePercent": 0.1773
     },
     "CNYTWD": {
-      "price": 4.7383,
+      "price": 4.7398,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4674.3,
-    "twd": 4781.0,
-    "tael": 179279.0,
-    "twdTotal": 148699.0,
-    "changePercent": 0.7805
+    "usd": 4684.1,
+    "twd": 4792.0,
+    "tael": 179706.0,
+    "twdTotal": 149053.0,
+    "changePercent": 0.9918
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNUW9BRXdEcTVZZjRCQ294RGZzb1p5ZGVaRmM5X2RUa2UtSTJ4bnRjT0VfMEszRlNBUFVldkdYMGNwUUJZSE5yRml6S01vanMzTGFIZVJSRURUZ1Uyem5qdTEyZHBtT0g2aHh5bmxvbDNnQklLSzdDb3RPWE9rT1hjUFZ3Vk1LU1NtSmRXSVJwb1FPRjl5S1NLbWE4NktFcEdhSTczOHZvU0Vtb2lsQ0M4bU5nbzJaZEoxbm5tNFhDaXF6el9xSVZOb2xBZ2wwRXNYb0h1bzJPZGtVV05hdmJ4dnVXV0g1LUlVMUFMbl9wVEZVdGRqMXlJcy15Z0tVRDUxMmZ6eVFiU3JiNDVFTDZiZzMtMGZ3X01INDBIaFJoX3I?oc=5"
     },
     {
-      "title": "分析師：比特幣鏈上資金流入近3個月來首次轉正，但需求強度仍處歷史低位 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrS2xGOUZyaXVxUTMwZGgyWkNtVW9XVnVWWk9abGdQYjVuQU1CWDgzWXpkU2hUMnc1TUo1RHU0NVUwQlE4ekVfNTJxQQ?oc=5"
+      "title": "〈美股盤後〉輝達終止連七跌 美債買氣回籠 四大指數收紅 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfMjJaVERPbjBMbGRtMkduYUg0cUx4MlN4SjZIaV9sNFhlQ2pBOGVUYW9VWDlneWo4VEVuQ2lUdXU4Q3NFZU5pakNEbFlLQ1k?oc=5"
     }
   ]
 }
