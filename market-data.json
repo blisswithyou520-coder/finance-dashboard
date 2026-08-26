@@ -1,16 +1,16 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/26 13:04",
+  "updated_tw": "08/26 13:49",
   "taiwan": {
     "2330": {
-      "price": 2420.0,
-      "change": 20.0,
-      "changePercent": 0.8333
+      "price": 2415.0,
+      "change": 15.0,
+      "changePercent": 0.625
     },
     "2454": {
-      "price": 3955.0,
-      "change": 220.0,
-      "changePercent": 5.8902
+      "price": 3940.0,
+      "change": 205.0,
+      "changePercent": 5.4886
     },
     "2317": {
       "price": 247.5,
@@ -18,9 +18,9 @@
       "changePercent": 1.8519
     },
     "0050": {
-      "price": 105.95,
-      "change": 2.15,
-      "changePercent": 2.0713
+      "price": 105.9,
+      "change": 2.1,
+      "changePercent": 2.0231
     },
     "00878": {
       "price": 32.84,
@@ -72,43 +72,43 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78764.5,
-      "change": -199.9844,
-      "changePercent": -0.2533
+      "price": 79055.93,
+      "change": 91.4456,
+      "changePercent": 0.1158
     },
     "ETH": {
-      "price": 2456.26,
-      "change": -25.5713,
-      "changePercent": -1.0303
+      "price": 2464.55,
+      "change": -17.2813,
+      "changePercent": -0.6963
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.831,
-      "change": 0.019,
-      "changePercent": 0.0597
+      "price": 31.827,
+      "change": 0.015,
+      "changePercent": 0.0472
     },
     "JPYTWD": {
-      "price": 0.1979,
-      "change": -0.002,
-      "changePercent": -1.0109
+      "price": 0.198,
+      "change": -0.0019,
+      "changePercent": -0.9609
     },
     "EURTWD": {
-      "price": 37.166,
-      "change": 0.0458,
-      "changePercent": 0.1234
+      "price": 37.169,
+      "change": 0.0488,
+      "changePercent": 0.1315
     },
     "CNYTWD": {
-      "price": 4.7426,
+      "price": 4.7416,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
     "usd": 4698.7,
-    "twd": 4809.0,
-    "tael": 180323.0,
-    "twdTotal": 149564.0,
+    "twd": 4808.0,
+    "tael": 180300.0,
+    "twdTotal": 149546.0,
     "changePercent": 1.3066
   },
   "fed": {
