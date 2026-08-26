@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/26 15:44",
+  "updated_tw": "08/26 16:24",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78990.04,
-      "change": 425.0634,
-      "changePercent": 0.541
+      "price": 78962.4,
+      "change": 397.4234,
+      "changePercent": 0.5059
     },
     "ETH": {
-      "price": 2464.67,
-      "change": 21.5106,
-      "changePercent": 0.8804
+      "price": 2460.18,
+      "change": 17.0206,
+      "changePercent": 0.6967
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.792,
-      "change": -0.02,
-      "changePercent": -0.0629
+      "price": 31.785,
+      "change": -0.027,
+      "changePercent": -0.0849
     },
     "JPYTWD": {
-      "price": 0.1977,
-      "change": -0.0022,
-      "changePercent": -1.1109
+      "price": 0.1978,
+      "change": -0.0021,
+      "changePercent": -1.0609
     },
     "EURTWD": {
-      "price": 37.147,
-      "change": 0.0268,
-      "changePercent": 0.0722
+      "price": 37.159,
+      "change": 0.0388,
+      "changePercent": 0.1046
     },
     "CNYTWD": {
-      "price": 4.7372,
+      "price": 4.7369,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4689.7,
-    "twd": 4794.0,
-    "tael": 179757.0,
-    "twdTotal": 149095.0,
-    "changePercent": 1.1125
+    "usd": 4683.1,
+    "twd": 4786.0,
+    "tael": 179464.0,
+    "twdTotal": 148852.0,
+    "changePercent": 0.9702
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,8 +117,8 @@
   },
   "news": [
     {
-      "title": "黃金又創1新高後！立馬遭下殺 專家解釋全說了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjLUNNRE96eEFJeEltZERiS2FwVXQzaE15dHlpZ0RGM1VLRVMyN1ZkbWlmYi03T0tFZVp1aXY3b0NJTk9LTGRnNGZVallkYlN0RGtBQXVqd1NaRVdpTS04?oc=5"
+      "title": "黃金多頭瘋了？金價狂漲逼近4700美元 德銀曝後市「雙利多」罕見行情 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGQ0hVTmpmNVp0ZnI5dE1KWUpCMklrT3UtV0JWeWI3bXg1Z1hWa2pCYTFDQU56cy1SVG9QbUVLcldxbHAxNjI5aGk1YklycXZUUnhxelhmRmN0ZkQyWEhB?oc=5"
     },
     {
       "title": "台股開盤大漲？美股全面收紅 台指期夜盤狂飆 - Yahoo股市",
@@ -129,8 +129,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfMjJaVERPbjBMbGRtMkduYUg0cUx4MlN4SjZIaV9sNFhlQ2pBOGVUYW9VWDlneWo4VEVuQ2lUdXU4Q3NFZU5pakNEbFlLQ1k?oc=5"
     },
     {
-      "title": "《貴金屬》COMEX黃金下跌0.1% ETF持倉增加- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbGJyWm9SSGtpNHlTelhBaTJZemhvcERrZXdRZ01HY2JmLWdRRjRLRHk0WUlQRk5EOVVXV0JaZE9OZ0FkUHZkdWVHV2lOdHgwX1A3dkRjMEhEcG4zM1dMM1RxcmF0eDhZb2xOZ3ZsV1UtanhCeGZGWFNITTc5eTlMS2JBakVHczhDLVpiMVM2c0RZZw?oc=5"
+      "title": "《貴金屬》COMEX黃金下跌0.1% ETF持倉增加-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWFJkazdhc0RxNnRrcG0yaGtQa05DUFVDY3FRR2c2S3JhZ013RVZGY1A4RUZvS1RvdElLM3VYX1F4SzlDX2xLaTZUQWVvYmNITHNxc1pvVTV6U0dVTU1qMkExOFQ4SHRWM0lzUElUVUdjS2tRQV9aQ0ZKVXd1MVlrTXRycGJVVnh2U3ZheU9vWlg?oc=5"
     },
     {
       "title": "台股漲逾600點大立光漲停創高、CPO族群勁揚| 證券 - cna.com.tw",
@@ -141,8 +141,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Za2VyUkRzQ09ZLW16UEl0dW04RG5vbmpNRWNqaXpOLXRUcGVuSTFKQkFYRi1Dem5mNEthZlg4R0NfMTQ2eE43UlFfS2Q1S3hp?oc=5"
     },
     {
-      "title": "黃金多頭瘋了？金價狂漲逼近4700美元 德銀曝後市「雙利多」罕見行情 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGQ0hVTmpmNVp0ZnI5dE1KWUpCMklrT3UtV0JWeWI3bXg1Z1hWa2pCYTFDQU56cy1SVG9QbUVLcldxbHAxNjI5aGk1YklycXZUUnhxelhmRmN0ZkQyWEhB?oc=5"
+      "title": "黃金又創1新高後！立馬遭下殺 專家解釋全說了 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjLUNNRE96eEFJeEltZERiS2FwVXQzaE15dHlpZ0RGM1VLRVMyN1ZkbWlmYi03T0tFZVp1aXY3b0NJTk9LTGRnNGZVallkYlN0RGtBQXVqd1NaRVdpTS04?oc=5"
     },
     {
       "title": "台股漲663點！成交量增至8000億「光學+PCB」11檔收漲停 - Yahoo股市",
