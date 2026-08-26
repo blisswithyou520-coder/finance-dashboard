@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/26 11:38",
+  "updated_tw": "08/26 12:24",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -8,19 +8,19 @@
       "changePercent": 0.8333
     },
     "2454": {
-      "price": 3950.0,
-      "change": 215.0,
-      "changePercent": 5.7564
+      "price": 3940.0,
+      "change": 205.0,
+      "changePercent": 5.4886
     },
     "2317": {
-      "price": 246.5,
-      "change": 3.5,
-      "changePercent": 1.4403
+      "price": 247.0,
+      "change": 4.0,
+      "changePercent": 1.6461
     },
     "0050": {
-      "price": 105.9,
-      "change": 2.1,
-      "changePercent": 2.0231
+      "price": 105.95,
+      "change": 2.15,
+      "changePercent": 2.0713
     },
     "00878": {
       "price": 32.82,
@@ -28,9 +28,9 @@
       "changePercent": 1.2026
     },
     "00919": {
-      "price": 31.21,
-      "change": 0.56,
-      "changePercent": 1.8271
+      "price": 31.2,
+      "change": 0.55,
+      "changePercent": 1.7945
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79058.5,
-      "change": 94.0156,
-      "changePercent": 0.1191
+      "price": 79065.36,
+      "change": 100.8756,
+      "changePercent": 0.1277
     },
     "ETH": {
-      "price": 2465.8,
-      "change": -16.0313,
-      "changePercent": -0.6459
+      "price": 2467.72,
+      "change": -14.1113,
+      "changePercent": -0.5686
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.832,
-      "change": 0.02,
-      "changePercent": 0.0629
+      "price": 31.822,
+      "change": 0.01,
+      "changePercent": 0.0314
     },
     "JPYTWD": {
-      "price": 0.1981,
-      "change": -0.0018,
-      "changePercent": -0.9109
+      "price": 0.198,
+      "change": -0.0019,
+      "changePercent": -0.9609
     },
     "EURTWD": {
-      "price": 37.18,
-      "change": 0.0598,
-      "changePercent": 0.1611
+      "price": 37.162,
+      "change": 0.0418,
+      "changePercent": 0.1126
     },
     "CNYTWD": {
-      "price": 4.743,
+      "price": 4.742,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4705.5,
-    "twd": 4816.0,
-    "tael": 180589.0,
-    "twdTotal": 149785.0,
-    "changePercent": 1.4532
+    "usd": 4699.9,
+    "twd": 4808.0,
+    "tael": 180318.0,
+    "twdTotal": 149560.0,
+    "changePercent": 1.3324
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,16 +121,16 @@
       "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOWVd0Z09zdE1HRG1XOEs3ZjZFbUxzSGcyRTFVYlpPR0xzMjZQQzJKbW5vVWdKbnlwRUhDWWFOaWFTNXpQam45am8zdldWeHZ0Q3g1Nk1fSk1vYWlaUy02V2lIRmtyNHJjaEtZNGU4ZGhyRk4yTGxQZ19ucW9CTHRINUk4M1FNREo1Y296Y1N1RWk1TDNMVHhVYUxYSzJuZUxjdGJzaHk4SkNvQlRCaHVVRm9hQWc1NjdVTU5RMmFzVVJ6czI5OGh3MjJ3Tkd2R0pvMEtNVURNYlNQMFlyeDVyd20ycUVvdkhaQlFLUUhsYk5nQ0dFVXBSNjc4SjNGQVNyN2xEaGp5UHNxcnFmbkZHWG9LZ3VLOVBRVlF6TXdsdWZBZDVGSXZyWl85NjJBS0pJY3F5bEtMWS1JWEdKdWZ2VWxn?oc=5"
     },
     {
+      "title": "美股收盤》輝達財報前終止連7跌！道瓊漲160點 台積電ADR升1.78％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZjQ5TFRVa3pUZ0tDM2JOZFFWVVZLbkM2bkdISzRsNnBPQjZITjA3a3hlR3JITWxHNWlGdC01emZkWDlGaDNwNk02dFZyRW1QSE53N0R6aU5GYTBUT3ZB?oc=5"
+    },
+    {
       "title": "〈美股盤後〉輝達終止連七跌 美債買氣回籠 四大指數收紅 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfMjJaVERPbjBMbGRtMkduYUg0cUx4MlN4SjZIaV9sNFhlQ2pBOGVUYW9VWDlneWo4VEVuQ2lUdXU4Q3NFZU5pakNEbFlLQ1k?oc=5"
     },
     {
       "title": "美國財政部意外干預債市效應比特幣、黃金漲勢再起| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Za2VyUkRzQ09ZLW16UEl0dW04RG5vbmpNRWNqaXpOLXRUcGVuSTFKQkFYRi1Dem5mNEthZlg4R0NfMTQ2eE43UlFfS2Q1S3hp?oc=5"
-    },
-    {
-      "title": "美股收盤》輝達財報前終止連7跌！道瓊漲160點 台積電ADR升1.78％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZjQ5TFRVa3pUZ0tDM2JOZFFWVVZLbkM2bkdISzRsNnBPQjZITjA3a3hlR3JITWxHNWlGdC01emZkWDlGaDNwNk02dFZyRW1QSE53N0R6aU5GYTBUT3ZB?oc=5"
     },
     {
       "title": "《貴金屬》COMEX黃金下跌0.1% ETF持倉增加- 新聞 - MoneyDJ",
@@ -141,8 +141,8 @@
       "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOcGdIUFZBQnVzSlNZRy1LYTdjUHhWeVc5TTIwOHhoMEtzTHRyVm14UzlKaXpOMkpVay1lWWtPRV9WS0lEaVdHRVhfMFFPSVpwMWthcmRlWFQ0VTFkYldLZ19NVy1lMmx4YnlpcHdPNVVEdERBZ3NvQ3g1eS1zdm8xaWg2MjFPTFpFNktBUWVmOUtBUXk4Sjc5YzJ4QnhiSTZUbUp2bXZoRFVPVWt2bHZLUXQ2RGl0aUdrbTVxSU9zNDlrNVRxVUZxX2xHMWZHdmpFOTN0SWtseGY4S01lM29WT0dGbGZjUUhmM3ZvTXZlWkJQZVpEamJGVXlBUkJBQ04wbnNnNEdLRDNWajJkMzVlWDFBMjJrOVF3cG94OWJoZFZrOXBrXy13eXFWYnVHampWa0tPSWdnTG84TkNXVDRxTTBDQVJvQnlPRURYVlI4d1RCYlo4R28zQVNJUXprbWFDTEpLQjVCWUs5Q3M0a3V6V2Z5aFFXZk1ubG1vaDF5U0xrLThlZ0g3R094M1RYYlItRVBxSHBDaFAtN1BwMGs4djlrR0J3My16M25zemZ6S3BHZVMwYVUyRWhTODRXVF8wRThobWdvTQ?oc=5"
     },
     {
-      "title": "靜待輝達財報！美股全面收紅 台積電ADR走高 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQcG5IdWIybVpMQmx6YWJFNkg0cjBUR2tXUDAzQ0J3MnZKRS1IR3Z3OThyMmhKWHRPM1N1M0lWRWhzbXVIUDJEY2hsRHV5cEpvV19UWVI2bHgzeW1rZEZOUjBMRjRiTzlSUU9ZbGVrc1ZaTzM3SnNUUUFGc2ZwUEpCcUJvVUtnM2IzcUpnLUd4YkEwTXpxTmJuVm5WTDF2bE1rakVlU2pwNmswRndZR0R5Ymh4RDczSEFjenVXVk85TENQblFybEtBcngzUEZlaURuN2RrVGt1UWRFRzEzVHRwOG5BcUh4NUtoM3BMSVd2dkVfNV9uRVJiWGNMV0Rra183QnFkclhaZHFVTk9YSEJEc3BCZHhJSGdSa3ZORS1ZY2U3cWUyQjNNTzZMNzlJZw?oc=5"
+      "title": "【Hot台股】富喬漲逾9%逼近漲停！網嗨「目標300」分析師示警：漲逾8成別急追 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPRl9GYW51Y0QzRVlCTzk1MlBKc1RyS2J5aXRUWEFZbGFyeHVwd29jTERmeGpxdW42Mm8yYkVISWlGV29pS2kyUC1HSDRCajR6ZHdvVDNibmxTTUtuVGxEUllrSGU0dHg2RTBiRDVIdHB0SzlNMnZQdmd5QmdwcWc4bzVsN1l0TGd5RHJvejRZU01KQVFKNDBCd3d1RWRyRGZyYVdCaXl1YnU5YnFITnNtNnZ4aUljUXdyYXl4NzFXcHA4eDdGV2E4R3h6VmpNNFpjYTduV2JhRWtJREF2VHRmSHBpT2YyNEtNdUZ5MEFjanBwQm1OLXhRQUc5ZDlHYlRjLUVvUGhVQTE1dEtyOTZoSmc3Q25JM0k3S0YwLUdyeDltVjVtcm9YY0ZfQUMxc2VNbGE1TVllbUpvTU1GdFFDeUJtRVctd3JMM0w4Y0hhVTF0UTZBVFpjVmQyMFFpaVByamVwUzFzRUFldUFrYUNUZlYwcmt2ZE1uQ3BzaUE1NGtrRUxxOE4yT1NXYlBGZVZBdVgzaW8zT0o3U09UZUdxaGZFcDQ5b3ZGY1JFUl9JZjNYdDFURUR0WjJLMjNQUkZKTGkxcEh4Y2lRSF9XQ0VxZjJMdXVsYXFaZUE?oc=5"
     },
     {
       "title": "黃金又創1新高後！立馬遭下殺 專家解釋全說了 - 自由財經",
