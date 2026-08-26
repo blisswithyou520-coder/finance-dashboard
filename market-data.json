@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/26 17:10",
+  "updated_tw": "08/26 17:57",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78821.52,
-      "change": 256.5434,
-      "changePercent": 0.3265
+      "price": 78431.17,
+      "change": -133.8066,
+      "changePercent": -0.1703
     },
     "ETH": {
-      "price": 2458.72,
-      "change": 15.5606,
-      "changePercent": 0.6369
+      "price": 2447.39,
+      "change": 4.2306,
+      "changePercent": 0.1732
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.791,
-      "change": -0.021,
-      "changePercent": -0.066
+      "price": 31.788,
+      "change": -0.024,
+      "changePercent": -0.0754
     },
     "JPYTWD": {
-      "price": 0.1977,
-      "change": -0.0022,
-      "changePercent": -1.1109
+      "price": 0.1978,
+      "change": -0.0021,
+      "changePercent": -1.0609
     },
     "EURTWD": {
-      "price": 37.143,
-      "change": 0.0228,
-      "changePercent": 0.0615
+      "price": 37.136,
+      "change": 0.0158,
+      "changePercent": 0.0426
     },
     "CNYTWD": {
-      "price": 4.7376,
+      "price": 4.7355,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4684.4,
-    "twd": 4788.0,
-    "tael": 179548.0,
-    "twdTotal": 148922.0,
-    "changePercent": 0.9983
+    "usd": 4679.6,
+    "twd": 4783.0,
+    "tael": 179347.0,
+    "twdTotal": 148755.0,
+    "changePercent": 0.8948
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,16 +125,12 @@
       "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOWVd0Z09zdE1HRG1XOEs3ZjZFbUxzSGcyRTFVYlpPR0xzMjZQQzJKbW5vVWdKbnlwRUhDWWFOaWFTNXpQam45am8zdldWeHZ0Q3g1Nk1fSk1vYWlaUy02V2lIRmtyNHJjaEtZNGU4ZGhyRk4yTGxQZ19ucW9CTHRINUk4M1FNREo1Y296Y1N1RWk1TDNMVHhVYUxYSzJuZUxjdGJzaHk4SkNvQlRCaHVVRm9hQWc1NjdVTU5RMmFzVVJ6czI5OGh3MjJ3Tkd2R0pvMEtNVURNYlNQMFlyeDVyd20ycUVvdkhaQlFLUUhsYk5nQ0dFVXBSNjc4SjNGQVNyN2xEaGp5UHNxcnFmbkZHWG9LZ3VLOVBRVlF6TXdsdWZBZDVGSXZyWl85NjJBS0pJY3F5bEtMWS1JWEdKdWZ2VWxn?oc=5"
     },
     {
-      "title": "機構擬降低比特幣巨鯨遷入 ETF 成本，貝萊德據稱將 IBIT 實物轉換門檻降至100萬美元 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VWldHWmVyR3BVT3pKNjR3RVNoMHhsd25jZ0hXc3ZEZEJnRmZYNW1qdkNoaFU0VTVxeU5maUdlNGRuTnZGVU5JOTlPTQ?oc=5"
+      "title": "分析：比特幣面臨 8 萬美元關鍵阻力，ETF 流入支援上漲但獲利回吐風險上升 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5ZXBTeGljVlltaUE4QV9NN1VuY0lTY0xDcExYWUlMZ2ZCNWhtTGlGOGdVdmJYTzlQUk50V1lNaHBLU3BjMWphU2tyVQ?oc=5"
     },
     {
-      "title": "忽視市場噪音！陳龍看好台股迎主升段大行情 突破歷史新高直指8萬點 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04YzNzYm0tYjRsRURGcXJDOWVVRGlabUV1d0lyVjhNVmljc3NWNWRaN003LXl2OFE3QXplcnp3cTJjU3FOckFYYkpITlFCWTlZVGfSAVdBVV95cUxNbWhVM3BCWWszN2dacHJzNHQtSTN5X3NvTTF0MmtiSjhLVk5QZm4xa1k4UWk2RlhiQWlHZ3ByQmxXM2lkOUQtLVJIOWIxR0R0WEpPVXdRd3c?oc=5"
-    },
-    {
-      "title": "台股漲逾600點大立光漲停創高、CPO族群勁揚| 證券 - cna.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9feGxCd01nSk5nc3BhbHlFSGFBcDhFejEyZXdaM3lWLUVfSjR5M1dkbDdVd3ZnVTJBeHlvUHhvZ0hxRGJZNnZUN19Xa2E1eFhIdnpCTUtGWnl6LVhQb3c?oc=5"
+      "title": "【美股盤前0826】今晚輝達財報登場！市場持續消化政府購債利多，中東局勢也出現緩和跡象｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiswRBVV95cUxNaGxzVmtYc0xscVpUUGhRTXBIWGc4cVZ0eVA4TkdVZFdzUU5XQUphT195QjZ3SndUV0pkTE9RbEZ2ZllqSXVoUDAtNDNDMzFPUFNSWFRINHJKMnBySWMxczVrTTgzcE90TnAyQ2tyMVdXOUl2VTBHMWRpUlpkU055bjRNQWc4TWg0OHNvNmdPTzc1MzdsNVVEOS1TeHRGVjhDUzk4cmtESDIwS3EtYldlODJMQnppMTdCV3NkZVloel8yaVp3SmNBS1RRSzBXNjBwdC1ueE10VVd1TW5LOEZEd3I3VHdWZVJDWE5UNWpyS2J4czZMc3dwVUZPeldpWndLQTB5Ujdjb0hsTks3RzFpV29GWUp5M01KWnp6bThaSzl0N19kNXBsWU5RdkxsUEVud0tpc2hzdHdBakZZdTNqdTdSOUNHUlZ2RjhkU0w1UTJ1OXhBMW10OXhBcm9fUk4wc2IzeERDSFZEenFYV2RnWTNZclFxbE5Uam1EV0hMQm8zSFJ5N19NaWlSY0lqRGxtTGdTLW84M251UFpwYkdGWW5rWUJrSnd5S0Q5di10X1VqclpkYm1CZEx2Vlp3ckxrcHVZMmFGWlpSNXZ6YkV5bGxXc2hyRjIwTjhHZ1FmU2Y2MkkxSG1NY1VYSHBLeTVJTWE3blVhVFF4Ty1qRmVRZGgzY01HeXZmbk9vWjFmNHRzbTN0Sl9DcFRnbmhveU55bkJnQk16RWdRSlo1Vk9HX3ZFTQ?oc=5"
     },
     {
       "title": "黃金又創1新高後！立馬遭下殺 專家解釋全說了 - 自由財經",
@@ -145,8 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPRDF1ZE4zVW5sVkVPNzA5Rm1adnJjcHFkUHJBbG01VHdNM1RwNGNWOF9vVHFiUi1obkJScDdrS0FqdmJVTVZJbHR5a3FMd2tYMzlKOTcwOGFTR2lBa3h2aGFfSTM0Rk00QUhWRS1xWHQyXzJtcGNFSEo3ZHlUMFBWZTVIeEYwOURKSTk5dnVmNEhsZTVoRy0xU0dXclJCT1lldkNMOUFzMGNZU044TTJUaFZUbjlOb1VjWHBJYlE5em5WNEF3ZHlxd0t2VnVGTFp4d25ZSXJINXZLeVNWSnp0amo3N0YyMHRZQUw1VTVBYUtaM1l3UHgtdUViOEZCeGNaSno3M2F2eXJLbWxzOHF6bGVKVlpsZk96Zmdpa3dMNVFlUjM2WVE0T0JncUNzd25GMzJDR25pMFI3aGZvcjczV200Y3c3UEswRFpqbE8wZw?oc=5"
     },
     {
-      "title": "〈美股盤後〉輝達終止連七跌 美債買氣回籠 四大指數收紅 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfMjJaVERPbjBMbGRtMkduYUg0cUx4MlN4SjZIaV9sNFhlQ2pBOGVUYW9VWDlneWo4VEVuQ2lUdXU4Q3NFZU5pakNEbFlLQ1k?oc=5"
+      "title": "機構擬降低比特幣巨鯨遷入 ETF 成本，貝萊德據稱將 IBIT 實物轉換門檻降至100萬美元 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VWldHWmVyR3BVT3pKNjR3RVNoMHhsd25jZ0hXc3ZEZEJnRmZYNW1qdkNoaFU0VTVxeU5maUdlNGRuTnZGVU5JOTlPTQ?oc=5"
+    },
+    {
+      "title": "台股大漲663點！ 三大法人「全站買方」網嘆：賣飛的舉手 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOaGFmSlFLQmRhUW14QjJ2ZXcxRkNxdDYwdVNhZUJ1eHprSEhzQmRiZnBxT2FEX2dpbFNPU3BZWVJlUmk3bXZKX0ExbGlqN0pDX1hSWkZHakR6eXd6eFMxbGQ0VU1Yc3ZtOFEzcTB3Z0VMWU9wWVNkc3hCd1p3RXFJeWZpM2FNc1ZpRWRHT3NRWWpkVW16cDdtLTI2MlJBRElndXE5SFBPemN1cjRuT2lSTjcxYlFVcnBZZlpkNWdPcTdPMkNhbzhCNmFrWlhQa0xsSV9Wa1BSM1VwVnUwUVMybk9WOEpqUHE0bzN5ZEZ5OWtjR2drOXg5TVI4dGZzT2FkcHpMaUZUVTlnTEsxYTlIUTJtckNrbGFoNG1kR0lGUnROWFB5S19PTnZDMVpCWHNLUTN1VGx5YndTdVd4VGItcF8xQWloazVpR2hha09VSnhSNTRT?oc=5"
     }
   ]
 }
