@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/27 22:26",
+  "updated_tw": "08/28 07:52",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 225.47,
-      "change": 15.81,
-      "changePercent": 7.5408
+      "price": 227.98,
+      "change": 18.32,
+      "changePercent": 8.738
     },
     "AAPL": {
-      "price": 310.59,
-      "change": -2.86,
-      "changePercent": -0.9124
+      "price": 314.58,
+      "change": 1.13,
+      "changePercent": 0.3605
     },
     "TSLA": {
-      "price": 352.8,
-      "change": 6.98,
-      "changePercent": 2.0184
+      "price": 354.81,
+      "change": 8.99,
+      "changePercent": 2.5996
     },
     "QQQ": {
-      "price": 718.591,
-      "change": 7.221,
-      "changePercent": 1.0151
+      "price": 721.11,
+      "change": 9.74,
+      "changePercent": 1.3692
     },
     "SPY": {
-      "price": 769.52,
-      "change": 3.44,
-      "changePercent": 0.449
+      "price": 771.1,
+      "change": 5.02,
+      "changePercent": 0.6553
     },
     "SCHD": {
-      "price": 34.825,
-      "change": -0.225,
-      "changePercent": -0.6419
+      "price": 34.83,
+      "change": -0.22,
+      "changePercent": -0.6277
     },
     "VOO": {
-      "price": 707.359,
-      "change": 3.159,
-      "changePercent": 0.4486
+      "price": 708.75,
+      "change": 4.55,
+      "changePercent": 0.6461
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79804.86,
-      "change": 777.4381,
-      "changePercent": 0.9838
+      "price": 80300.13,
+      "change": 1272.7081,
+      "changePercent": 1.6105
     },
     "ETH": {
-      "price": 2506.14,
-      "change": -0.121,
-      "changePercent": -0.0048
+      "price": 2511.76,
+      "change": 5.499,
+      "changePercent": 0.2194
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.684,
-      "change": -0.1579,
-      "changePercent": -0.4959
+      "price": 31.661,
+      "change": -0.1449,
+      "changePercent": -0.4556
     },
     "JPYTWD": {
-      "price": 0.1967,
-      "change": -0.0033,
-      "changePercent": -1.6264
+      "price": 0.1965,
+      "change": -0.0032,
+      "changePercent": -1.6103
     },
     "EURTWD": {
-      "price": 36.961,
-      "change": -0.2101,
-      "changePercent": -0.5653
+      "price": 36.944,
+      "change": -0.125,
+      "changePercent": -0.3371
     },
     "CNYTWD": {
-      "price": 4.7206,
+      "price": 4.7185,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4631.9,
-    "twd": 4718.0,
-    "tael": 176938.0,
-    "twdTotal": 146757.0,
-    "changePercent": 0.7329
+    "usd": 4652.9,
+    "twd": 4736.0,
+    "tael": 177611.0,
+    "twdTotal": 147315.0,
+    "changePercent": 1.1896
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股早盤／輝達財報夯翻 股價飆5% 費半揚升2% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uaVBTU0ZOSkFQTXhkQnBTRGMtd3c5S3dIVXFqTjlOTnFrNk9GMUJyUTFRTUtDN2hXTG1qT2NObTU4clRsOXhELWtFUl94aXps?oc=5"
+      "title": "〈美股盤後〉輝達市值一夕暴增逾4400億美元 費半指數、台積ADR強升逾2% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XWkZwY0xMSTVVMW1scDNScEk1YWNrVVV6R1dtZDFsVmNYTnpRWHd1dUdheGdGNjQ5LW1mbzZVN2JRM3BsMy1icm5IcXlaNWs?oc=5"
     },
     {
-      "title": "輝達財報點火台股衝高！一度站上46000點 大立光、南亞科領軍飆漲停 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNdEg0Z2dRNjB0QlRWV2g5cTgyV0dTNXdUbmFuRFVuMzFCUHZrMjN0QjBFMGxoV0lRdkZ6SVpvT1V6cnFkVnAyVGIyYnhOT1hCQnFCazlTcWg2QWs5RmVVZFB0U0hfc2FVeGlqelJLcHlRMV9ibGppYWVmV0pqVWQxUkRXNnNwbWhkYy1XLS05MXJlbGhIMDNfdWxUMngxT1dPMzVyLVVPQ0VWTElnOF9uVjNMazJfcG9tRzBtS2lqZ2VxenlScGVOaGhMS0FjYnY5cGZONnVIODhxcUR3bWZYZjQwcEhwREtXU0lZQVRMWlp6c3dfaUtoUnlGY1prNXJEWnV3aW1uMWRHNnhoUVAxeFpsVnFlVVowd2VSVDZDMXBBakNGdzVpeER3el8tbFZ2Z3F2cWF5X3p5OHJQWG5Rc19ZY19lRldrU1VqVzBpRDB1aGVVaXdkNG5ESUU2UFZyMDEwNmdjRUJBWEdYMXhKTTFKazZ0eUs5cmFhQ1lOVkdsaVJSMjFRdnBCVE5yTlkycGlod3NBVzZIZlFpZ2RSQUE3bkl0Y0VHUFk3SVdScXhuekU?oc=5"
-    },
-    {
-      "title": "黃金大跌！專家卻不怕 喊「這時」創歷史新高 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rUlNUdkZhZXd1LUNsNUYwXzhackdwRk1pV0ZGam1yYWJKeTlha2FBSGZvVWNnSGRnVURvcWF6TmtUNFRTUGpVM29yVWVxMkd6bTQ4eEZQVHc2cTNuM2hN?oc=5"
-    },
-    {
-      "title": "Justin Sun：比特幣達成抗量子共識需較長時間，波場計劃今年年底升級為具備抗量子能力網路 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtcGxYNDd1X0JBNEhwMUppMmlLbVYwUnM3c3VUMWxZd3NFNWpsZDRJdTQtTUFBNF9ja1dZbzJvQXlTVTU2YlR1Q01iYw?oc=5"
-    },
-    {
-      "title": "【台股操盤人筆記】把握榮景上漲機會，但也為循環轉折做準備-報告內容-基金 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUdBTmNHaUFPNFI3YmxCZnFNa1JURmFaOUV6blNnX1MyM3licDlnRjZHUkFIdDVXQUNPbnM1SDRubTBMY3BTNnRNNUxBMHVCanFjcWtneVBvd0FkZUlZN2FZak80OTVZNnV2cmVUVnJTSWVnMVlweGx2cnRoNW9kdkxKbEpZRVc4djZZS2lEU3I?oc=5"
+      "title": "「關稅帝君」又來！美股恐崩盤 股民趕快做1事 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQbUJIVDhZeGNJczVqZ0dtdk91OGo1VDRiVWswTkVkUkI5ZHM4YkdlZkJMd3ZJQjN1dHljRjFpejRyclZqRnU3QlZrN29VQWI0OXU1T0puMDQ4Q29EQVFpMks3VTJfdXZ3SW1fczkxV1M0WDYtZ1NJVUVCZDl1b04wam1ESER0UV9BcWMyay1BOEVGTG5YaVNzRm5jZU92WFNrTHNNVkFEbFBQY3dIcnVSY2M1ZTdXX1diVFVwalZiZHBHM1lpOExuMzhrbHZMUTVCTU81d1lvSjlHMmhtNmwtU3RqTEwxalJhSnpaSlNtWVhzcWlpcXl5SlZlT2hlck5KVnRFdVd0WkV1U1hnWEhRX2RVQTZwRkpBM1FaOEV4YnNPQV9G?oc=5"
     },
     {
       "title": "【0827台股盤後】加權指數開高走低留上影線，收盤小漲142 點收45,975 點！三大法人買超728 億元，外本比鎖碼【8103 瀚荃】、【2351 順德】、【3376 新日興】｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiygVBVV95cUxNOGRPNmtMelFOVXVtaWhLWDlCSGxISlVfZ1JkcFJFQXJiZHVldEw0NjJjc0hTRlZZS29zR01pRVRXMHBWWldCRmJFSC15c05BS3NiMlF4bXZKM0FsWEJrVHkxRERsa0FPakE5eUF3Y1dZenNzSkdPU0E0bmtscmhrU1BDSjA3SzNGMXluWkI1Z0xYTi15Y3M4SEFEY2F4UjdoTFJnYjNzeENGWE1zNUFtazNaZkNZbHBtQllxak5fSnB5d3hpZDI1UVFHWFIxbW5qT3hnWHRGYmRERmJsSl84dDFxVWVfLTVSZ3ZDalp2QXhUd2JBeFhFczNfWGxIRjR6eHpkZmhTNEdWV2R3dXJiNXRYTUlnX3ZPSmY1OUxZaGgxTzhmbVNPWG5XTGV3NDFtSTl1dG9qcmhLYnh1ZExMUnY0cXc0bWJ5ZURVSnVjd2ZaQW1VNk0yeC1fcFZYdWVzdThFWUhmNUJac0luVGZKM1lHNjBBdzNNQ1huZUdDNjEzVkV3OWdKYzJXTVNXYV93R21lYml1TWxhOTBXNS1pMWFBVWZsdE9ONXN2UTVJZWZOdTNEU0JSMWNBSlNiVko2WlpEZnZrazNrNk5Rd1VpVmY5eV9tcC1RSUotSXo2SGIwMkhKTDZlNzItSlh3dTRNbWE2aWdpM3g2QmswUV9TQ0dBVEFZQmdfSXE1MURvMm5aMzE2dmpabjN1eVNuZnNfdVNlNnVuX0NkMnZrNXc5MFZrQWtkdFV1WlhwdHcxRzNCbEp2ek5zY1IxXzREY0ZHOFp5RERsblNhOVhCTjJXR1pFVDJEYVZwN1R3U2NlMVozQnY1T2ZvX3ZSUFlDb1NobVlfZl9laUZiQnZ2U2RwbUM0dGhDbXJPWXluU01qdnhYSk9ST2FTUHREeUllUjdnZXpTTDk2TUo2N3JETm52bVV6UVkwZGZIRFE?oc=5"
     },
     {
-      "title": "IBIT 成交爆量狂吸金！貝萊德數位資產主管：比特幣總經前景正轉強 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTnNEUEIwM3lVcWZ0TWlab0dKZjgwNG1jSE1zemNfdFZHdjM0WlNTMG1jdDZhWGV4TkF6RVdmZkNFS2RNUl91NmRXbll6S0FndFRfZkhEbUhqSS1xTlgtUl9OajktVmdqTjZFSUdpa2lBWkVPZ0JRTFdYb29GcWlIalZ5WEZZVW1RbmQxUnlnS3c?oc=5"
+      "title": "美股早盤／輝達財報夯翻 股價飆5% 費半揚升2% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uaVBTU0ZOSkFQTXhkQnBTRGMtd3c5S3dIVXFqTjlOTnFrNk9GMUJyUTFRTUtDN2hXTG1qT2NObTU4clRsOXhELWtFUl94aXps?oc=5"
     },
     {
-      "title": "美股靜待輝達近乎持平 盤後展望優於預期轉漲逾4% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2ZUJrbVhLak9GUHpBY1F2TjhvN2JINXkxLWRxV2JVQy1BUHZuYXJhX2c1aXBieVh2dklSNjZTYVBJcmQ0bGY0dzlnWklHOVRs?oc=5"
+      "title": "《貴金屬》觀望政策風向 COMEX黃金上漲0.2% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWdIaElReFk3cXVUWUNkbTY4cFY3NHpQZjd1QUdudjVKUGk5Qm81Vi1aR3dvQlFpeTJ3eWVRZDhQTXpjNjIzTVNwYVgyMDFaMG1MUnNUWEh5MmthMF9NQUlZZUFiRktWUTZsUGt0aDBXVnFnYUc0cWhhOVFUUkNVT1lLbHZoRW90TUQzX1RhOWtuZw?oc=5"
+    },
+    {
+      "title": "台股49千金「守門員」揭密！4大會計師包辦47家　勤業眾信大贏家 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vNEhPNEhWNlkwUGZTNWN2OVZHd3VscUJoZnhKQkFLa0Z2T3kwSTVBNndtWXNoeTVEazlJWXlXNXNpSUhsd1oxQ2xVX3J2RmJ3a3fSAVBBVV95cUxPaUY0UHFnOFNkYW1zUUp2ZHREMTR4d19YQ3pOeXFSYWt3RmFFUW1tOG5ydFlaQ2U2UW1tTlhsRWlHa2VxUE5GWXE4RWszaFRocA?oc=5"
+    },
+    {
+      "title": "輝達財報、財測超預期！ 美股4大指數齊揚 台積電ADR、鴻海ADR同步走高 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPczN2R0t6cENLOGludGFuNDlpMVFYSUR6bHFaMjBHVXBrMEk1MUp3aTVoSllrei1hc0pDSzA4aldVZUk5LXhDbU4yX1FrQ3dQWDNnQnhNeVMtY0Q0Q1BGQ2ZGTXVxNTE1UnFXWUpQWWdoUE90eENhZzFNUUZvdWZmcnJuTEhGU3hRRldhZk5yVTg0bHBEVjU2UWM5eGJIRGxONkVDajIyNkxlWWxZUkNlNkJGSzNzSW1DRkRqanZNNmhsR1NZbXY4ZkxEMnhwSE1pR2REWGh3aUJnZnJFcDhJSXB2c01jaGhreXc3ZXdHdlRNdmt5UE0wM2NENUl1V1ZCSkhTMG9PZnNtd05ValJGOW16Q01aamxBajVwbUJqaEtGUjh0Z3RCWG54RFB5ekFpOWNXSHJVSUlqSVpydUhQbE55d09yS0YxaXBoRU52VnY2LUdzSFRJQXBlRUQ3T1pkajg1UzFqUUlybEw3ZHU4Q3Z5QWlvVjRTSEZmVWQ1SVphNGhQMXVERkJJSUFieHVPT1RXZXdB?oc=5"
+    },
+    {
+      "title": "美股基金+新興債 攻守兼備 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CdEFocWh0UDNqUm10YzgzM3RZNkxJSGxydkpJTmh5RkRxdUNlUFAxN2x0VlJuclhiV0dSc21mWHZWX3lObXZJdkxpLVBCR3E0ZVHSAVdBVV95cUxPOUtPRTlMd2tER210TXRqZGlYc0pmdlJ4Q0ZGOXpFNDNCaDUwX25yMkwxTjN5Ny1SM1cteWVJU2xOcm9pRVNvRTdKa2NNdEROWHpQdFFuVzQ?oc=5"
     }
   ]
 }
