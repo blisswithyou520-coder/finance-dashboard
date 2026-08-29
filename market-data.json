@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/29 23:03",
+  "updated_tw": "08/30 02:28",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77860.58,
-      "change": -2396.9591,
-      "changePercent": -2.9866
+      "price": 78070.0,
+      "change": -2187.5391,
+      "changePercent": -2.7256
     },
     "ETH": {
-      "price": 2441.68,
-      "change": -68.7302,
-      "changePercent": -2.7378
+      "price": 2447.37,
+      "change": -63.0402,
+      "changePercent": -2.5111
     }
   },
   "fx": {
@@ -115,5 +115,38 @@
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "美科技股重挫「台股週一恐血洗」？分析師點名抗跌族群「關鍵1防線」全說了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQa3NVMkFLZERhLTIxS0dwSDdMcEZWMFRYNktsQUo3SFA4ZEM0NmtycXBwQUFPd1lyZW5SWkMxcndqOXpCaVJCX0s0dzV4TlFVVVY0RlBfTzRjZUVjdmNFX0I5anA4NlpZeko1N2wxNGpwalpVTWZUZmNIZ1Iwc2dPUERaeVJYMVgxM0JocG9fdU9melJtNm9SV2tRd1JXM0IxbWVQdW1JN2hhS012a3hTVll4eUN2RmdqcW9ZalliUkFWSkJMNFRzTlphbVUzWElhMGxaMFZwVFUxX2x4SFU4YlBZQmlTZi00ZU15NE11WUNDamNBdE9tblhsVzlwdktOSlkzUVRuWnBFczF1d1FGSDVNYTBFMjV4Q05YcGp2ZnpZX25HeG45TkpEelVlaWF3SUZ3TTJYVkc3MFBFenhTWDFvcG9tenhvUWFzNVJubnlpRzBXRk13YUhGOXhGS2VZTGdUdXVuUmtHQm9HdnZ0WUstVy1qYzloYlVkWXpzeW45UmJidlh6RG4wUjBCdw?oc=5"
+    },
+    {
+      "title": "黃金價格突跳水！聯準會主席華許一句話引爆賣壓 市場到底在怕什麼？ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zSVpmeVdldHJ0X19ZSUVSTlRHY1gxQ2VvMmZlY2VQenVndG9jMGU0UlB2cVU2OUwtUWh2ZWpnTU1XQ3FhLUpVUEtkVjRmMFVHN2huU1lfZXZ3eHZld1Br?oc=5"
+    },
+    {
+      "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
+    },
+    {
+      "title": "美股收低科技股和晶片股跌勢較重…本周有兩大考驗| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14eURuVGVwSXo2cHFNX2xyRHRYWjdfRWNyQVlIQi1pSS1LY2hkTUp2Y1lsRUd5eUZwbWlKUW1NbzVpd2JpVGo4YkVGUzZuTmFC?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉華許傑克森霍爾首秀放鷹！9月升息風險驟升 美股翻黑、費半重挫近3.5% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LRlh0LUYxT1ppYWEtaDEtRVdaMVFnQnZkMmNlaGlyTEJDdzU0YzRzRHRnUFU5NktiNHVybFlGQ3J6WW5ubFkwdlgxaF94LTQ?oc=5"
+    },
+    {
+      "title": "分析师：比特币测试8万美元之际交易所流入激增 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zQjUxRm1iXzZVbElibThDSlg4b2ZXQk9MV3hFMFQzdy0weExkRUx4SGpCaGFBMTN5VDMwLWVMc0swLVhBbkNrQlpuRHFNVWtnNXNiNHdiRUJRUUlBT0UxYW55UTA2UQ?oc=5"
+    },
+    {
+      "title": "星期一開盤不妙了？美股全面收黑 台指期夜盤大跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNMVU4cVNtZXYwQnUyeFVwelRIOG1QQ0pUekI5OF9PbzJkWlBTOXlrZ1pybDAwcVZwbldud05BblRQLTZBeFcteng3YkQ3d0pkN1RMdDgwMloxSWU3RUNaU3VzRXF5NlVtbG9tSEhmSzNKZFk1NmZoam1xX0lRUTBRdnpia2dHeXVxYnRPd0phMzFqNEJEMmpjRTR3RUJLTHhSZThlZXdVUjU1RFE2SWhPdF9SSHlPZmtQUi1VdWJhT3BudWNjZEJWLWtEQTJmdHRjZzc2SGF6cXVuSzdKWGE5bWY2UGlFckVUQmNYRi1HSjFpcnd3RE5tcEVQVGhJcXBfRXRONXIxMlhXbXdXbk0tUkJfcmtfU2oyQ3ZnWGFfZkVLSld6am13QVdBTEwyME1EZkgteUowUE9wUElWamczbjlhZWY5TDJTQ0ZRdWxydw?oc=5"
+    },
+    {
+      "title": "美股收盤》華許放鷹！費半重挫3.47％ 台積電ADR跌逾2％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zOEpVWC1jTThMMVF6RzJNRWhwUm9CT1hIREpKY2lFT1RkRXdSM2RIVjM5MTJlV3BHQ1dMdFQwdzR0N1hBV3YzSFRWUmhkX0h1LWYwa3F3d0ZZZXc3U2xN?oc=5"
+    }
+  ]
 }
