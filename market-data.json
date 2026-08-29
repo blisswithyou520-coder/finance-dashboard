@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/30 05:06",
+  "updated_tw": "08/30 07:19",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78057.98,
-      "change": -2199.5591,
-      "changePercent": -2.7406
+      "price": 78245.48,
+      "change": -2012.0591,
+      "changePercent": -2.507
     },
     "ETH": {
-      "price": 2450.36,
-      "change": -60.0502,
-      "changePercent": -2.392
+      "price": 2455.42,
+      "change": -54.9902,
+      "changePercent": -2.1905
     }
   },
   "fx": {
@@ -117,8 +117,8 @@
   },
   "news": [
     {
-      "title": "美科技股重挫「台股週一恐血洗」？分析師點名抗跌族群「關鍵1防線」全說了 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQa3NVMkFLZERhLTIxS0dwSDdMcEZWMFRYNktsQUo3SFA4ZEM0NmtycXBwQUFPd1lyZW5SWkMxcndqOXpCaVJCX0s0dzV4TlFVVVY0RlBfTzRjZUVjdmNFX0I5anA4NlpZeko1N2wxNGpwalpVTWZUZmNIZ1Iwc2dPUERaeVJYMVgxM0JocG9fdU9melJtNm9SV2tRd1JXM0IxbWVQdW1JN2hhS012a3hTVll4eUN2RmdqcW9ZalliUkFWSkJMNFRzTlphbVUzWElhMGxaMFZwVFUxX2x4SFU4YlBZQmlTZi00ZU15NE11WUNDamNBdE9tblhsVzlwdktOSlkzUVRuWnBFczF1d1FGSDVNYTBFMjV4Q05YcGp2ZnpZX25HeG45TkpEelVlaWF3SUZ3TTJYVkc3MFBFenhTWDFvcG9tenhvUWFzNVJubnlpRzBXRk13YUhGOXhGS2VZTGdUdXVuUmtHQm9HdnZ0WUstVy1qYzloYlVkWXpzeW45UmJidlh6RG4wUjBCdw?oc=5"
+      "title": "金價狂飆賺翻了？國稅局示警買黃金存摺「少1動作」：恐連補帶罰 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQdkJSb2d5ZlF3RzlvWHhkeVJVdl80OHBBdncyVVJ2Tkh5Q1ZuTTV4S21ZT1N6X0tUMi15Q0NsWmNWY21JTWdRcmlrSDlnWGFJMXM1WGhiNS1vYUFWZm1OM1NrMEE4WlE5QVBKTnlLNHdCbm5hRHM0Q21ZRUxOVFRmV0M0MEZUcGlIMS1JdzAwVzZMN3VmSWZ0ZkNUUGdoMHE4T3lZbmw0NkhqcWgyclIxS3FhU0QzYU9iNVZLMlVZdzJld1B0Ny1NN21ybkJzaW5oYVlGMkZmd2pyalZONi1CU1FEclpteHJxME9Yb0RlWWN5ZXEzbS1qdWU1OXBFRVZKMzBFXzd4T2pmUWpDVHhKU1FRTmFCcWk0dkdaRm5jTFhSeDBkTEFXOGwyVm5Wc2YwOWFvY19IajRxd2g1Y282Vl9WSm1wWEM0c3lxdlJVaXJ4eGc3RmlYWE9FdHBQWkc4OUJSNlJUeEtBZ3FOa19NTVU1RkstSEVfVmxPR0hQMndIeVNq?oc=5"
     },
     {
       "title": "美股收低科技股和晶片股跌勢較重…本周有兩大考驗| 全球財經| 全球 - UDN",
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zSVpmeVdldHJ0X19ZSUVSTlRHY1gxQ2VvMmZlY2VQenVndG9jMGU0UlB2cVU2OUwtUWh2ZWpnTU1XQ3FhLUpVUEtkVjRmMFVHN2huU1lfZXZ3eHZld1Br?oc=5"
     },
     {
-      "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
-    },
-    {
       "title": "〈美股盤後〉華許傑克森霍爾首秀放鷹！9月升息風險驟升 美股翻黑、費半重挫近3.5% - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LRlh0LUYxT1ppYWEtaDEtRVdaMVFnQnZkMmNlaGlyTEJDdzU0YzRzRHRnUFU5NktiNHVybFlGQ3J6WW5ubFkwdlgxaF94LTQ?oc=5"
     },
     {
-      "title": "金價狂飆賺翻了？國稅局示警買黃金存摺「少1動作」：恐連補帶罰 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQdkJSb2d5ZlF3RzlvWHhkeVJVdl80OHBBdncyVVJ2Tkh5Q1ZuTTV4S21ZT1N6X0tUMi15Q0NsWmNWY21JTWdRcmlrSDlnWGFJMXM1WGhiNS1vYUFWZm1OM1NrMEE4WlE5QVBKTnlLNHdCbm5hRHM0Q21ZRUxOVFRmV0M0MEZUcGlIMS1JdzAwVzZMN3VmSWZ0ZkNUUGdoMHE4T3lZbmw0NkhqcWgyclIxS3FhU0QzYU9iNVZLMlVZdzJld1B0Ny1NN21ybkJzaW5oYVlGMkZmd2pyalZONi1CU1FEclpteHJxME9Yb0RlWWN5ZXEzbS1qdWU1OXBFRVZKMzBFXzd4T2pmUWpDVHhKU1FRTmFCcWk0dkdaRm5jTFhSeDBkTEFXOGwyVm5Wc2YwOWFvY19IajRxd2g1Y282Vl9WSm1wWEM0c3lxdlJVaXJ4eGc3RmlYWE9FdHBQWkc4OUJSNlJUeEtBZ3FOa19NTVU1RkstSEVfVmxPR0hQMndIeVNq?oc=5"
+      "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
     },
     {
-      "title": "股市投資 法人：回歸基本面 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EeXBDODM0MGJrMk9ZeVRWajU5UFVUZ1QwbDduT3F5aUZTTll6Vm1IYWE3UEJVbHlWaGdlZUdIS0pfcjl2OTktQk1YM24tLVFa0gFWQVVfeXFMTXpKVUFoTzMyQ0ZnNTFza1dScXBSajBSeXltdEFRNFdrSWJ2VTh5V01Rc04wZk9BRU5FT3NIbWhncXZJeG5FNHM0cVZGLXp2LVE2N0NFblE?oc=5"
+      "title": "分析师：比特币测试8万美元之际交易所流入激增 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zQjUxRm1iXzZVbElibThDSlg4b2ZXQk9MV3hFMFQzdy0weExkRUx4SGpCaGFBMTN5VDMwLWVMc0swLVhBbkNrQlpuRHFNVWtnNXNiNHdiRUJRUUlBT0UxYW55UTA2UQ?oc=5"
     },
     {
-      "title": "華許放鷹！美股收黑、台積電ADR摔2.29% 台指期夜盤跌457點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQbFgwaGU5Z0pTX1BuQllfV3ZnNFZzSkM3T3JMR08tUFVoWHRoNWN4d0VxYTFYV1hlamxVV1cxeWF1Y3dqUjI0NXJDWWxqNDE2ajUzZWdlckVkVERhN1Ywb1NGQXdkM04tdUF6cEtzQ3dwOVNEMlZsb050TDBjanZERFBOZ3ZWWi1hNVVvNS1GUkZzM0RLYmhpemZCOEV5RnVYdjdoVVVTRVhFcFp3aXVmUW1NNUxmNFFPME84c2R5NW5GNzhfUnh4VXhONmFwM2VGcmJ1aVJBQTA4VUdLTUtCak9JazJZaUc0ZGxxa0ZiY1FXdHNkTWlrWlRWTmxsNFBZamlNMDYxTDdJZk1HckVzSkhtTktUdTRDcTBmQlppdk9XRUhGU2RnNTNqcFdaSngzUmRvaUJBZURIejFXZDNLTFNnbV9qSUNCSkZiSzBOV28?oc=5"
+      "title": "晶片股輸了！美元走弱＋公債回購 黃金成避險寵兒8月暴衝43％ - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNV29BOFdLU0Iyb19RaU5lMEhJeVc0Q2RvakcyeFhFamhrZjJIdno3NXN3VzlObW4yMjczRVBnaS1VTDdJemhLZnJXdnd5TENmbXhWVGNYLU5BdnBLSmFQd3oyWFVRMFN4SGN6MXhNSk1sVWMyTzhmYXFuM0RKSHNXX2VnQ3ZwU2tmc0VTZXBtd0RrVmJwbURVRDIyTlJJX1EyLTVpcnRRZlR3OXpacW1fNnpLRUhMbTB2bnN6bm9taVlBMEhVWVhpX2VKQnRHZVpEelRhUEVRSnF4TEJwWXcwaXcxbkcyeEpEY2g1YlBKT1hRc1JsRmpYYnBycW9tZTJNZndKS3JYSkxLcVExV0pFWjVmVWxoT3V3dXVNdVMwYzhNSGU1VnhxbWFYc2lPRmFjZzBWX2RUYVYxYTAtTUdrVWNsQjd3eTdoWUxGbS1zQW9oamY2cm85d0hEa21jckJYVm5mZklrOVpzMWxSYTFxbWsxYkhoZ3c?oc=5"
+    },
+    {
+      "title": "確信台股會衝破5萬點 柯文哲警告：台灣真正危機才開始 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kUTk5S3JPQkxqcXRmMHpPWkVnV2tzalhMRmZqUWphNXZJQU9oUmFxWXdpSmJsR2xHVEhTZkZGdEg4ai1rSWl6cGFFc0d2ak400gFWQVVfeXFMT2NRRXh3Sm8xTl9HRllCQ29JWlYwVVVWN1ZIalNUN3A4clRRREFGcnYyT3FPQzhyVktVNG1WeTl1MXdIUk53STlVcHJ3RlJKZkZleTRDbXc?oc=5"
     }
   ]
 }
