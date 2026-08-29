@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/29 18:03",
+  "updated_tw": "08/29 23:03",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77614.43,
-      "change": -2643.1091,
-      "changePercent": -3.2933
+      "price": 77860.58,
+      "change": -2396.9591,
+      "changePercent": -2.9866
     },
     "ETH": {
-      "price": 2434.24,
-      "change": -76.1702,
-      "changePercent": -3.0342
+      "price": 2441.68,
+      "change": -68.7302,
+      "changePercent": -2.7378
     }
   },
   "fx": {
@@ -115,38 +115,5 @@
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": [
-    {
-      "title": "華許放鷹！美股收黑、台積電ADR摔2.29% 台指期夜盤跌457點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQbFgwaGU5Z0pTX1BuQllfV3ZnNFZzSkM3T3JMR08tUFVoWHRoNWN4d0VxYTFYV1hlamxVV1cxeWF1Y3dqUjI0NXJDWWxqNDE2ajUzZWdlckVkVERhN1Ywb1NGQXdkM04tdUF6cEtzQ3dwOVNEMlZsb050TDBjanZERFBOZ3ZWWi1hNVVvNS1GUkZzM0RLYmhpemZCOEV5RnVYdjdoVVVTRVhFcFp3aXVmUW1NNUxmNFFPME84c2R5NW5GNzhfUnh4VXhONmFwM2VGcmJ1aVJBQTA4VUdLTUtCak9JazJZaUc0ZGxxa0ZiY1FXdHNkTWlrWlRWTmxsNFBZamlNMDYxTDdJZk1HckVzSkhtTktUdTRDcTBmQlppdk9XRUhGU2RnNTNqcFdaSngzUmRvaUJBZURIejFXZDNLTFNnbV9qSUNCSkZiSzBOV28?oc=5"
-    },
-    {
-      "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
-    },
-    {
-      "title": "黃金價格突跳水！聯準會主席華許一句話引爆賣壓 市場到底在怕什麼？ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zSVpmeVdldHJ0X19ZSUVSTlRHY1gxQ2VvMmZlY2VQenVndG9jMGU0UlB2cVU2OUwtUWh2ZWpnTU1XQ3FhLUpVUEtkVjRmMFVHN2huU1lfZXZ3eHZld1Br?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉華許傑克森霍爾首秀放鷹！9月升息風險驟升 美股翻黑、費半重挫近3.5% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LRlh0LUYxT1ppYWEtaDEtRVdaMVFnQnZkMmNlaGlyTEJDdzU0YzRzRHRnUFU5NktiNHVybFlGQ3J6WW5ubFkwdlgxaF94LTQ?oc=5"
-    },
-    {
-      "title": "聯準會主席鷹派談話引發升息預期 美股收黑 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EUGRITU4tMDB1dHJmQzF5aEtpR1JBTWg1X2RPRVBrME5UOUxoU2NuRWs5dUFPOVprQlhYQUlvQ1FjbGQ0ejA0bGlxSkRVRlNNeUNSRVN5akNCOEVL0gFiQVVfeXFMT3FTY0lQMVctNmpjNWZ1Q2ZfSF9FUGtHVkxCLTJUeHY1eE85MEVtTmJuZ21TZkJTWVczc0lZXzB6WUJDaUw3Wmp1M3dNa1N3TnB6cFc2VjNJVjE3WUVaZWJLSUE?oc=5"
-    },
-    {
-      "title": "晶片股輸了！美元走弱＋公債回購 黃金成避險寵兒8月暴衝43％ - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNV29BOFdLU0Iyb19RaU5lMEhJeVc0Q2RvakcyeFhFamhrZjJIdno3NXN3VzlObW4yMjczRVBnaS1VTDdJemhLZnJXdnd5TENmbXhWVGNYLU5BdnBLSmFQd3oyWFVRMFN4SGN6MXhNSk1sVWMyTzhmYXFuM0RKSHNXX2VnQ3ZwU2tmc0VTZXBtd0RrVmJwbURVRDIyTlJJX1EyLTVpcnRRZlR3OXpacW1fNnpLRUhMbTB2bnN6bm9taVlBMEhVWVhpX2VKQnRHZVpEelRhUEVRSnF4TEJwWXcwaXcxbkcyeEpEY2g1YlBKT1hRc1JsRmpYYnBycW9tZTJNZndKS3JYSkxLcVExV0pFWjVmVWxoT3V3dXVNdVMwYzhNSGU1VnhxbWFYc2lPRmFjZzBWX2RUYVYxYTAtTUdrVWNsQjd3eTdoWUxGbS1zQW9oamY2cm85d0hEa21jckJYVm5mZklrOVpzMWxSYTFxbWsxYkhoZ3c?oc=5"
-    },
-    {
-      "title": "美股收盤》華許放鷹！費半重挫3.47％ 台積電ADR跌逾2％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zOEpVWC1jTThMMVF6RzJNRWhwUm9CT1hIREpKY2lFT1RkRXdSM2RIVjM5MTJlV3BHQ1dMdFQwdzR0N1hBV3YzSFRWUmhkX0h1LWYwa3F3d0ZZZXc3U2xN?oc=5"
-    },
-    {
-      "title": "〈美股早盤〉主要指數漲跌互見 市場靜待華許傑克森霍爾演說 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85VHBFa2lnbzlZWjA4Vk9VTTFoMDRjT05VMFhOX0FFNG5MdmhGaTRMOHo3czlBaG9aOEY2LVdyekxHNzFVZ1JWWjJqbTdteE0?oc=5"
-    }
-  ]
+  "news": []
 }
