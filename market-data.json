@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/30 15:11",
+  "updated_tw": "08/30 20:54",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78254.77,
-      "change": -2002.7691,
-      "changePercent": -2.4954
+      "price": 78628.99,
+      "change": 798.7009,
+      "changePercent": 1.0262
     },
     "ETH": {
-      "price": 2459.06,
-      "change": -51.3502,
-      "changePercent": -2.0455
+      "price": 2464.72,
+      "change": 22.1841,
+      "changePercent": 0.9082
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股週一扛的住嗎？Fed鷹派訊號發威「台指期夜盤失守4萬6」 美股4指數全黑 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxOX3dVS0FJRklwdVRHQU5tdVMwTTRXWldIWVZsb093RWVkdWxrS0NaRXlIZnFEZ0N3cnJvcnVOSzI2VlRxQ1UyeUxTSVR1R1BSZjh4X3lOamJhbkgtdFpKbEs5TWV6d3lUUVZpS1IxYzBoV0YtS2I5RmoyTWs4U2tQNDBaUTR4YzZZTkZmblhfaE9JRlk5MkcyRnRORXJRSC1JcG5WZW5lTXk1bU85bWo4S0twSWw3WHgzTVJMRjUtUmJQYk56YWxSaEVlM1N2VTdDa2ljSlRqcDhsalE4dDV4a0s1YmZjUXRXU1FOYWx2M2tKVE5wSWVmWjlwVTF3UThoZzlDTHhHZXg4bEtKYzlZZl9WbE1fZlQ3MXBvRFJkVjZtbWs0TzJsOGZXaDJ5dFZ3NVM4Y2R2LTQ0X3Z5eFg2NFpjeFMxaEk3by1RMDJDY1dYWjQxQ2hMU0NvN2lHZzhwWGE0RXFqT0dkZFM0ck9hS2FVTkhRRTgwR0Rzbm45YlZEMTVEcE0wd183cm0yWWpjWWROeVJHS3R2MUhlUHFyd04zRDhObjhUZW9fNQ?oc=5"
+      "title": "別再喊「比特幣是數位黃金」敘事？調查發現：這三大理由才是買入誘因 - 動區動趨",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0YwUnczMWlMMkNFb0NMYTFnUVVpS0szblhPaVAyMnRlcnZVbnoxRHQzNF82YmVmdDBEOEdwTldJNE9YLU0wdE9ZSmR5VERtYnVnQUlVNDA2c2pjdEx0YmJLNnJaWDVuOXlBR2FDeVlXQzU2NUlKM0JKaFJhX3lyS2lia3c4V0tSczlzcE1FdFNQMERqa0JURkU4VW0tendXcE42UnZCZXAzRVF3bkFmdw?oc=5"
+    },
+    {
+      "title": "美股漲勢恐在秋季踩煞車！美銀示警「兩大事件」恐掀市場反轉 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOcVBMc0xKTGY4VVdGeDdTWjZHS3lKTUU1engwX01pd0o4b1JQYlAtcWhDUjc3S0gySkpEbE5VWGhRWE9vcUlnYUhXb2FtNFNOQjRucS1FNVZvM0dMNGRoSDlWU3VrNF9rdVN2T2FRd3lTRjYwRURGelNfbE1vYjludDR6VVVLemVaMzEwQ1FNYXRSZmdyZV95SnFSazU5NjJmdTlxNjVIUDdaQ1JPaW1SOWNvRFREb2kyRFZaQUhLbUxZUTJJc3ozdzFGWkNGXzJzT2RMem1Va3hpN1hNeUtCSzhiUVNfZFM4MEZublVoWDlzQzRsazBRLXpkNTcxNXNHSWVGOU9vWGpwaFBfSUI2Z0g0UkJrOE5ZdWRvZEhiSm9xOFQ5Umh1Z2EzdFJNT1NPbHVDVjVwWF82RzlVZ3FaX01tWXpwVTNBLW8zWlNteXRlSi1fU0ZnQUg0cmxlS0VLQVZrckw3R2FCRW5sWDYwR2xsYnM5c3BMelM5TXVMYmkwWGc2dmtrY3lKMA?oc=5"
     },
     {
       "title": "薩爾瓦多比特幣海灘退燒！餐廳整月僅收 1 筆 BTC，民間回歸傳統刷卡 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQempsUmIxVkZ2U0JQNklIME01TjdIeDhnRGUyLVIyeWhWZWtJaUZMLXhLeHNtaUlZc01ZYUJ2ZVNMV2ZYQXMydVdvSzFKRkVfREhVVExUaXJpR3dMV2pvd3Y0WHJLUloyY2V2UVNibDRrY2RRdUMxUlJTaXJ0ajNIejBiZjJwallyUHU0OFpfbWwydlJjRjZCRXhHZw?oc=5"
     },
     {
+      "title": "黃金白銀遭血洗 分析師示警：跌破「這價位」恐再殺一波 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zU1d4d3k0M1ZBcnJNck5IU0dwXzRYUTJSa0w3RHVDWHBjY0lqUlluNnV6VnZZQ3BDakZsbkNaR3FXaDkzUnlUQXM0ZDJGN1NFYTQ5VS1MNnl2eF9ta3k4?oc=5"
+    },
+    {
+      "title": "華許放鷹美晶片股、台指期跌法人：台股本周多空交戰| 股市要聞| 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LN0JRem1BQ2c4YmZDa3BmVS00UHl3YjN3eW1YSmpTNGY1NHBfNVI5aWxaTjhBcEc3NmdLdnYtd3laOG13cm5ZZGw2dUJQbmNr?oc=5"
+    },
+    {
       "title": "〈台股風向球〉9月開局4萬6多空拔河 外資回流動能成行情一大關鍵 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TSE1kTFJSNFdPc3EydVBLMmt5dFN4X1BaMDkxbTh4UGRWWlZfZ1N0M01EeGt6cThqSzVfRG9hVW5OV1Q0dGJsV0VqNzduSHM?oc=5"
     },
     {
-      "title": "分析师：比特币短期持有者未实现利润接近15%，部分投资者或选择获利了结 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIdkpMSDBRUXUwQmhhbWJCZ0YwUUktczVTY21HQ0lOZmp2NnlJWFlmbFprUm1ydHBRdC1hWVVxNWxFY25rdk92UlpmWGRQUlVHY0Qxc2duRWh6YVdYYW1pNmRhZE5iUQ?oc=5"
+      "title": "台股週一恐血洗？分析師曝「關鍵防線」 點名1族群抗跌 - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQQTFmcjZKeTBQbmxEamZzbmhDWUh1emliemZoYW9OQ0pZVzJrZU1sSFI0dENoQXVBdjlOVXl5R18xQ2ZOd2FOTXkyMFhzamswQ2QtMmdnQTRoSndiaUs0dl9OamJ1M0JuMGNuSmRKYkhUeTdxc2YwTm1UektRX3FieGxTaUpMekFZbHYyazNYNEg2Z21YeFFXR1BpOEZ3ZkF2ZVp5LTBCSXJTb2RiZXJKV1B3bnJzbnA0ZjZIOUNna1B5SWVqUWdzdzdaWEhZNjhXdThxdEFQb3ZNUnNQWHo2WG56TThHcS1ORUN0Q2NPMVhzNDE2b2Q5ZDhCQjFuZUR1YVh0UklKLU1UMkhnVDF0dTZnLTNrX1NUVDRvR3dvaUIzdHVZM0wyaWVKMEx3Qk1aQlhyQkRaSFUyS0RscUhncVd1T2FxQVNoY0w5STZib2w2WFc3NjRULTh3eU96QjhiN0xZRUhDVQ?oc=5"
     },
     {
-      "title": "百兆財富傳承潮來襲，台股狂飆後有錢人正悄悄進行的「資產重分配」 - TechNews 科技新報",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYXBUd3o0TldaY3hSTElRMlZpdFhBMEJEVGQzUV9yTFdpbEp3WHR3NkxOWktody1OQk5KMU1CYlp0TGhySkVBdnN1VmlHSF9SY2gydGVpZVY4UlB5MTZsVFluSmhhcEpkUm5UbVBoT1YzMElCdmVvME5TT0lCLTQyd2ZmMHRLU1pIT2tPV1dLTVdPNjg?oc=5"
-    },
-    {
-      "title": "台股週一恐血洗？分析師曝「關鍵防線」　點名1族群抗跌 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYelpwWWF2dVd0azM3aGhGQXlXOXNqeW43cjU5YkxVMll3bE40STBfMUdPck5zZ3BxVU5WZGthSG9YamxQaThCT0RTTEFGUGJOQ0HSAVBBVV95cUxQWTFEbWJOXzJyWmNYZ1pIb0VOOExsSi10Rmd3RHhWQ2Nnek1CcmNJdEpqLVVjbk1yNTdhTHdRZ3lXamRJLW5mcXlnYUVZeU91Yg?oc=5"
-    },
-    {
-      "title": "郭哲榮：台股尾盤狂拉千點 誰在偷偷買？ - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EMUZ1ZC1hbUUtX1NsWlJ0TnZlMTVWOEhlRmRKNXJpNkJOSEZSWTg5ZUhWck5OOUhuODVpTUtFSl9lSm03d3VQY0NnbHB3YjFXOFN4eDNRWnlXQdIBX0FVX3lxTE9WaWp6aTN0UEF5VmZWemZQVFQzdV8xNnlTSTFsZ1o3UjhvRjloLXVGeWRyMVdFWFlHWDhNWEJQNkpWZTk4SWNxNmJ0NGg0ejduWXBMY3NzSG8xcGU4SFdz?oc=5"
-    },
-    {
-      "title": "八月投資人不可不知的關鍵時程：美股SpaceX、NVDA財報接力，台股法說、第二季營收陸續登場｜股市話題 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNOUUtc0RybWlEUkl0M2QyMUptdlhFZElzMGtiY2pvUzlRdjMyeDlRRG1ISWY3dmJhdnRKcWo1NEJ6MkNEOGtxcjZnLXUwRkpSdXVnZzNMQkZjRWtVek5EOGFUM1NSUFdOaWtFUjNHb2ZMdVhhamluZE1hZ0hzOC1zVWRxbnJBbWJwX3pBQkd2Wnc5LTk0ZkZZcExCMW52di1PSTRhQ2lpV18wY1VieXJSZTV0WEs3QWRicFRnNWRHaHN5dUtuOERGdVYtWHNaNF9qemlrMEEtRGcyZVZBenAyTEQ4bENWQUlCM1NqVjR5bElWazlFZzhxX09IalZtY29YZE91RjRaTzJKNHFaVmNFeFVFYlJsZ2gtdmxiUkpsTlZxMmZLcWt1T0dmcTRVclNzbVFOa21MRmNIQTBXdkZQS0ZEUkZNVGlTQTAxVF9mYUR0QkthSVZZN3R0c1BKRE1hQUk5bU5xVERqQ1FYaXZIMFZRVlZfeHg1ckRLcHJncFh3Q3lnMURpb1h3WHZNck5YTXN1NHAzMGZybXJnVFVtSjFBR09rcGhFZm9OTmNXaF95NHJYYlpZY21wTGlUN21nWlZxVjFaSU5FWENWTmtkYXZZZFc0V2lUaDlza3VQdTdSVXJKOXJyb28wTEotR240MFlnUHBTaElQUzRwc1BJQVZqeUJFaWl3d0N4YlNCemc0R0V2YkFsX0QycjlCdHZkSVh4UGFkYVVkSGtFNmtINkdjS04tMlE1NmZUdXFaWHdYdE1jaDliNEd6eWk?oc=5"
+      "title": "美股指數罕見背離 專家揭熊牛市秋季見真章 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQWVktRE1sdW5pTlRFOExCanFCbDhuc1pmMHJRS3JKMkxwWE5BNFl2TW5MeTBUaXpuVjFiN21vTTh6TnRYVEZ0dEJYck5MVkFSSWxicjFsRVl5WllmdTRCOFRxOHduZW8xMlBjalNWS0lKczNFeERCbXhIcUw0TkYzV2VMMk9TeG5tamJRY2l4cHlpWnJGbWc3ZzVhanZDTHZzdExzLTU0ZVJoYkU4ZHI5S3E2WHVvUk1YSzc5TXI1WnF1NGFWbFdmOWh2LWxGX1RGVk01T2NicjRYUXQwWlplYllFdnZJS2R1QU5NQV9qYXNSazVGaUI3bHE1M2oxelJOU2VmMmJRdUh0Z29XNFdNYUNLYXk5eHJqakwxMDQ0aVVJVmtXVnByV25LZDYwYldCMl9GN1ZhcDY?oc=5"
     }
   ]
 }
