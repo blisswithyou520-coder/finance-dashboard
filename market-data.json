@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/31 03:50",
+  "updated_tw": "08/31 06:24",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78795.86,
-      "change": 965.5709,
-      "changePercent": 1.2406
+      "price": 78367.76,
+      "change": 537.4709,
+      "changePercent": 0.6906
     },
     "ETH": {
-      "price": 2498.46,
-      "change": 55.9241,
-      "changePercent": 2.2896
+      "price": 2468.67,
+      "change": 26.1341,
+      "changePercent": 1.07
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.628,
-      "change": -0.0329,
-      "changePercent": -0.1039
+      "price": 31.624,
+      "change": -0.0369,
+      "changePercent": -0.1165
     },
     "JPYTWD": {
       "price": 0.1953,
@@ -94,22 +94,22 @@
       "changePercent": -1.7235
     },
     "EURTWD": {
-      "price": 36.68,
-      "change": -0.2157,
-      "changePercent": -0.5845
+      "price": 36.672,
+      "change": -0.2237,
+      "changePercent": -0.6062
     },
     "CNYTWD": {
-      "price": 4.7093,
+      "price": 4.7087,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4529.9,
-    "twd": 4606.0,
-    "tael": 172736.0,
-    "twdTotal": 143272.0,
-    "changePercent": -1.7311
+    "usd": 4508.4,
+    "twd": 4584.0,
+    "tael": 171894.0,
+    "twdTotal": 142574.0,
+    "changePercent": 0.6766
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zU1d4d3k0M1ZBcnJNck5IU0dwXzRYUTJSa0w3RHVDWHBjY0lqUlluNnV6VnZZQ3BDakZsbkNaR3FXaDkzUnlUQXM0ZDJGN1NFYTQ5VS1MNnl2eF9ta3k4?oc=5"
     },
     {
-      "title": "別再喊「比特幣是數位黃金」敘事？調查發現：這三大理由才是買入誘因 - 動區動趨",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0YwUnczMWlMMkNFb0NMYTFnUVVpS0szblhPaVAyMnRlcnZVbnoxRHQzNF82YmVmdDBEOEdwTldJNE9YLU0wdE9ZSmR5VERtYnVnQUlVNDA2c2pjdEx0YmJLNnJaWDVuOXlBR2FDeVlXQzU2NUlKM0JKaFJhX3lyS2lia3c4V0tSczlzcE1FdFNQMERqa0JURkU4VW0tendXcE42UnZCZXAzRVF3bkFmdw?oc=5"
+      "title": "台股一週狂噴1107點！這族群狂飆13%嚇死人 成最大贏家！ - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQQUV4Xy1RWXJzc1VweUtnVHRXTUNadWZ3N2dYZFhhYmM2aG1mZ3R4TUo5N3owWjNyb3RYUEp4bUw2ZkJXNkVRSUxOalRIWTJQSEcxNExSbGJzSHpxbUR0NzNuY0tVdHdYVjNZZmFKQUZYTmxsRkpYWjlyakRrNjNhM1AzYUJuR3FzaGIxUUVkdGMtbE94QnFFVTFraDFIRDdYYnBCNldFMDZKUU1lS0p0V3JmV1o5NWltQTBqSG1kRGR6SVp6Q1UzYnJPN1F6Q2I3NDhZN3BNMi1EWDJBYl9hZ0owSENpQURtUVVZX0YwVHktb0VDT2Z6TVhmbUdQSWdac00xMDFNN0ppVGd1OUd4bWNnRVlJY2lBS25CZGJPYkl5clJVSjg4NGVDNFlGMkU2UEs1WjFkQTVWZEFVX2JVZ1Vta1g?oc=5"
     },
     {
       "title": "黃金期 多頭格局 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hc19HTkd5bzFEOFFfdHJMdEpDYUJuc0V3Q3BEMmtjb293c1Q0S1ZyQnNyTVRuY3E2N0ZHb0J1bUt2OVRwdGJ0YVliY1dBeWh40gFWQVVfeXFMTTFKaUZpcVQ5NXVMbEFrZG9VT2lMWUpvYWRnbWV2RlBvWU5nNU9ETldiUkkzUE9rd2lFcXJYQkt2RFVQRGNhdUdmSnVhYWpZVWVTZzZnYVE?oc=5"
     },
     {
-      "title": "美股漲勢恐在秋季踩煞車！美銀示警「兩大事件」恐掀市場反轉 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOcVBMc0xKTGY4VVdGeDdTWjZHS3lKTUU1engwX01pd0o4b1JQYlAtcWhDUjc3S0gySkpEbE5VWGhRWE9vcUlnYUhXb2FtNFNOQjRucS1FNVZvM0dMNGRoSDlWU3VrNF9rdVN2T2FRd3lTRjYwRURGelNfbE1vYjludDR6VVVLemVaMzEwQ1FNYXRSZmdyZV95SnFSazU5NjJmdTlxNjVIUDdaQ1JPaW1SOWNvRFREb2kyRFZaQUhLbUxZUTJJc3ozdzFGWkNGXzJzT2RMem1Va3hpN1hNeUtCSzhiUVNfZFM4MEZublVoWDlzQzRsazBRLXpkNTcxNXNHSWVGOU9vWGpwaFBfSUI2Z0g0UkJrOE5ZdWRvZEhiSm9xOFQ5Umh1Z2EzdFJNT1NPbHVDVjVwWF82RzlVZ3FaX01tWXpwVTNBLW8zWlNteXRlSi1fU0ZnQUg0cmxlS0VLQVZrckw3R2FCRW5sWDYwR2xsYnM5c3BMelM5TXVMYmkwWGc2dmtrY3lKMA?oc=5"
+      "title": "橋水達里歐改口建議持有比特幣！分析：想靠它避險恐怕「錯了」 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12SFAwOGlSaGNnVzllam1WRklUckh0RTZaVWdrbnpjLTJ6RW9DZGVmM0YxVHF1Q2pJOE55dEtiNktvWl83Mi1hWkE2dVFLYlk?oc=5"
+    },
+    {
+      "title": "別再喊「比特幣是數位黃金」敘事？調查發現：這三大理由才是買入誘因 - 動區動趨",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0YwUnczMWlMMkNFb0NMYTFnUVVpS0szblhPaVAyMnRlcnZVbnoxRHQzNF82YmVmdDBEOEdwTldJNE9YLU0wdE9ZSmR5VERtYnVnQUlVNDA2c2pjdEx0YmJLNnJaWDVuOXlBR2FDeVlXQzU2NUlKM0JKaFJhX3lyS2lia3c4V0tSczlzcE1FdFNQMERqa0JURkU4VW0tendXcE42UnZCZXAzRVF3bkFmdw?oc=5"
+    },
+    {
+      "title": "美股9月不必預設悲觀：從Jackson Hole、長債殖利率到輝達財報，看懂年底行情真正關鍵｜美股評析 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiswRBVV95cUxQcjdfcmRucS04dmRNQ01NTnQ2b2s4RmdvR2Zxel9VRVJRRU1IbzQ2aENVZjd5ZGx4em5VMV9hNnlQdnp3R1B3TXE2Tmo2bVhyR3pPQURLT3lDVEJqZlp4bG5TZ0VVaGhDZWFWOEZkcEJQTlU1UHFfSEkyRzlXZjQ1S0RYZW5weWVFRjBMeExKcDdWNFZxaHJQX2VDSmJJNWJEb2I2T3NRN1c0LUZPUXNCRjFHaTUtMmtIWldTSnJjai1KV3g1aGU4MDNSTVcydXRrVHdSVjhZd1FWXzVsWVI3enNhVDFuTXluZG44azVFSkhoQzhGdVhQUFE4bVdwYlBMakRuV2YtdncxUUEtTkN5YU1ZRDF6Vm9nS1FRSHo4MHRrNHV1QWpMR24zTmlfcnpBMkpKdzU1aDBkWEpSOTMzMElUR1FoRThBY3ZoTGhrQVJrR1ZFNHlWeEpsUWVOZ2xhZzNzUmlmZ2N0X3RWRFNxb3JXY1JSQjQ5QnJLLWVXYnBSbS1JZWxoekFUdGNzYlNmMWFSVUZpbFZVdGZ3RVRIUU9Od0VXbk81bkk2ZnBEejFmUjJYTWtWZ1FBanFOWm9rZ3h0U2RCVmxjU1BLcWhPc0phLWJPQWZtb2NSUE9TZ25QOWdOVUtKbzVEUXN2bzBPV0VqSFh4UEdkQ3FLeXdhaXdidzR2V1NfVkJubzBwb3gzNDA2RjdYTm9OUmItN2V5T3d6bDhEYmVTUFpiSFQ4NlYwNA?oc=5"
     },
     {
       "title": "薩爾瓦多比特幣海灘退燒！餐廳整月僅收 1 筆 BTC，民間回歸傳統刷卡 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQempsUmIxVkZ2U0JQNklIME01TjdIeDhnRGUyLVIyeWhWZWtJaUZMLXhLeHNtaUlZc01ZYUJ2ZVNMV2ZYQXMydVdvSzFKRkVfREhVVExUaXJpR3dMV2pvd3Y0WHJLUloyY2V2UVNibDRrY2RRdUMxUlJTaXJ0ajNIejBiZjJwallyUHU0OFpfbWwydlJjRjZCRXhHZw?oc=5"
     },
     {
-      "title": "比特幣戰8萬美元後市變數大- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HZXRRbHc0X2lCd0JXOThnMkJQeHJvaEkxNGc0N05veXlhYzZvelQwMDBVMDhfdzR3Ym16Mko4d1EzeEV5bDBJVUZ2Z09wNTQ1Vk5zZG9TVEFyVk1xaTln?oc=5"
-    },
-    {
-      "title": "貝萊德世界黃金基金 A2 的總覽 | 鉅亨網 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUE5EaDlmdTJtWE9kX2dySEZSeEo2UE1lSVc1TU9PYXMxNEhxU1hMdzM4NHdQTm1nNllzWjNEZzRfdzZBbTU3N0paczBxcEtscHktNGx3aHVHQkRUN2hiRUpFVUNhMGlKSk5ZdEw5ZG0zaG8wZ0NnNTZFUHE1WU9vUTNGUjRiVC0xWER5Q0pPUGxGcDVxeXBvY2dmbW1HLUJpY25MLXZqTWxWRHRESkIyejBXdjU4SFZDREZzSUVZV3hrdnBVOHFQS0tXTWJCMzVQOHVWbTZJNkk?oc=5"
-    },
-    {
-      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QemZhREhvSlNET0N4NlFMQzNjeTJLSzNPXzBMd3NhLWJTMGJ5d0VvM2o2OXItcHNjQjJmUGNoaHZvWURqdXJsUzNKNVZzSDMtVmc1SDVPeTJUUdIBX0FVX3lxTE52NDVxWXR3OG5KWGh0ZS02UjB3c1FMN3JsbWUydmIyenVxN0l0LU1Pa19ReEI5Z3FvY0h3OGlLTFUyZDJYU1Nqd2c5c0xRNU5sZjRLekZJZEtQdHVRMGFV?oc=5"
+      "title": "華許放鷹 測試台股季線強度 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tMVFMc19uVV9XXzJ3bDQ1RElnZU80d25sX1MxUi1aNnlTUnI3bF83SlFaRHZQYzFJdG9hdW9mRkZHRVpvazJGQjdvZW95QzQxa1RyU2Vn?oc=5"
     }
   ]
 }
