@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "08/31 06:24",
+  "updated_tw": "08/31 08:45",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78367.76,
-      "change": 537.4709,
-      "changePercent": 0.6906
+      "price": 77999.19,
+      "change": 168.9009,
+      "changePercent": 0.217
     },
     "ETH": {
-      "price": 2468.67,
-      "change": 26.1341,
-      "changePercent": 1.07
+      "price": 2431.73,
+      "change": -10.8059,
+      "changePercent": -0.4424
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.624,
-      "change": -0.0369,
-      "changePercent": -0.1165
+      "price": 31.64,
+      "change": -0.0209,
+      "changePercent": -0.066
     },
     "JPYTWD": {
-      "price": 0.1953,
-      "change": -0.0034,
-      "changePercent": -1.7235
+      "price": 0.1955,
+      "change": -0.0032,
+      "changePercent": -1.6228
     },
     "EURTWD": {
-      "price": 36.672,
-      "change": -0.2237,
-      "changePercent": -0.6062
+      "price": 36.72,
+      "change": -0.1757,
+      "changePercent": -0.4761
     },
     "CNYTWD": {
-      "price": 4.7087,
+      "price": 4.7054,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4508.4,
-    "twd": 4584.0,
-    "tael": 171894.0,
-    "twdTotal": 142574.0,
-    "changePercent": 0.6766
+    "usd": 4513.6,
+    "twd": 4591.0,
+    "tael": 172180.0,
+    "twdTotal": 142810.0,
+    "changePercent": 0.7927
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "黃金多頭變聰明了：不再直接押漲，轉向奇異期權佈局下一輪行情 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMGNYcE9OYXhUcmh2ZFFuZ2NLSkdpVTlvSS14Y2VJcXBhX1FvWHpveVhqNkxoUzlOM2xGQTJES0plMzVpaHBCSzVGWmJFdzJ6OFZWS1NZMzZsWm80WjZFWUZFbTZrM3hrM01SUnNyc3owZWF5aW5vbTBLMk5pQlJSWnZOaFMyWVhwVmN4Q0txUVBuV0JZUWVOaGQ4eFJFX0tZ?oc=5"
+    },
+    {
       "title": "黃金白銀遭血洗 分析師示警：跌破「這價位」恐再殺一波 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zU1d4d3k0M1ZBcnJNck5IU0dwXzRYUTJSa0w3RHVDWHBjY0lqUlluNnV6VnZZQ3BDakZsbkNaR3FXaDkzUnlUQXM0ZDJGN1NFYTQ5VS1MNnl2eF9ta3k4?oc=5"
     },
     {
-      "title": "台股一週狂噴1107點！這族群狂飆13%嚇死人 成最大贏家！ - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQQUV4Xy1RWXJzc1VweUtnVHRXTUNadWZ3N2dYZFhhYmM2aG1mZ3R4TUo5N3owWjNyb3RYUEp4bUw2ZkJXNkVRSUxOalRIWTJQSEcxNExSbGJzSHpxbUR0NzNuY0tVdHdYVjNZZmFKQUZYTmxsRkpYWjlyakRrNjNhM1AzYUJuR3FzaGIxUUVkdGMtbE94QnFFVTFraDFIRDdYYnBCNldFMDZKUU1lS0p0V3JmV1o5NWltQTBqSG1kRGR6SVp6Q1UzYnJPN1F6Q2I3NDhZN3BNMi1EWDJBYl9hZ0owSENpQURtUVVZX0YwVHktb0VDT2Z6TVhmbUdQSWdac00xMDFNN0ppVGd1OUd4bWNnRVlJY2lBS25CZGJPYkl5clJVSjg4NGVDNFlGMkU2UEs1WjFkQTVWZEFVX2JVZ1Vta1g?oc=5"
+      "title": "《貴金屬》升息預期再起 COMEX黃金下跌2.9% - 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEtQUElpWWRyMVg5YWdTaDVGVUt1ejhiVnBYN0gyZUNqVHJiQVZ2UExVSzh3UUI2VlpoT3Mzc0hCdTBxZHg1OUxvNktBZXVDYTRpVXFrMWFqM0ZNblUxWm8tanFpaUVhamMzcGV2ZFFVOGpRb3R2MjlDNFJ0UG1TSUFMVGF4MzhiaEdmVUFLUXBwZw?oc=5"
     },
     {
-      "title": "黃金期 多頭格局 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hc19HTkd5bzFEOFFfdHJMdEpDYUJuc0V3Q3BEMmtjb293c1Q0S1ZyQnNyTVRuY3E2N0ZHb0J1bUt2OVRwdGJ0YVliY1dBeWh40gFWQVVfeXFMTTFKaUZpcVQ5NXVMbEFrZG9VT2lMWUpvYWRnbWV2RlBvWU5nNU9ETldiUkkzUE9rd2lFcXJYQkt2RFVQRGNhdUdmSnVhYWpZVWVTZzZnYVE?oc=5"
+      "title": "輝達強悍財報難救市！美股四大指數罕見背離 阮慕驊：答案9月將見分曉 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxOX1oyYlROZDFlaUI5cUJmb0wyN3F5M01sV1kyOUtvV0pCNmtrUnZpQ0Z6cS1vXzB2UGdwZk15N0JtbWNvT3kwZktxV0taSy1hR2Z6QTJOUHBEaHBRbzFvUDFBbWUwSUtwOUF5aXFIX05nX1ZabXBodXdRNlVtVjBSaHdrNDJiOFFnMmJzT1VkWlRQTjJ1QUZFNEVseE5KUnY4eE5TOUhFOGtHdWpQUzZwb1JpVzRzaFFIVHI2ZjFybzYydmlteE5sS0VFamlIZTUtZDhLRW9IZklodVVsSWt5S3NqcXNSRUpzYUx6aFNsdzhRQklrMlZMUGZlV1FpUm9rZ2x3TUZBVENjUXp1MVhUeWVsNEhoZ21PODctcEJ1UnBaWi1DR1RQRlJoMm5weDFMZG1Nc0s2OFVfOG45NngyUmFiQ1p2TmhuaVR5VlJTeWk4UGVwVkNzcUJnRlhieENJRDhhTDdNTkNYOHA2LW1TRTBZUVZKODlQMVpBVFNxYVhyMlRvSFduRG5PanNvcm9UdVlZazJ5QUdveTd3MGlCRlVYb25pREdsSjVNY201SHpSLU0tM1hOdGJ0RkQ?oc=5"
     },
     {
       "title": "橋水達里歐改口建議持有比特幣！分析：想靠它避險恐怕「錯了」 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12SFAwOGlSaGNnVzllam1WRklUckh0RTZaVWdrbnpjLTJ6RW9DZGVmM0YxVHF1Q2pJOE55dEtiNktvWl83Mi1hWkE2dVFLYlk?oc=5"
     },
     {
-      "title": "別再喊「比特幣是數位黃金」敘事？調查發現：這三大理由才是買入誘因 - 動區動趨",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0YwUnczMWlMMkNFb0NMYTFnUVVpS0szblhPaVAyMnRlcnZVbnoxRHQzNF82YmVmdDBEOEdwTldJNE9YLU0wdE9ZSmR5VERtYnVnQUlVNDA2c2pjdEx0YmJLNnJaWDVuOXlBR2FDeVlXQzU2NUlKM0JKaFJhX3lyS2lia3c4V0tSczlzcE1FdFNQMERqa0JURkU4VW0tendXcE42UnZCZXAzRVF3bkFmdw?oc=5"
+      "title": "黃金期 多頭格局 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hc19HTkd5bzFEOFFfdHJMdEpDYUJuc0V3Q3BEMmtjb293c1Q0S1ZyQnNyTVRuY3E2N0ZHb0J1bUt2OVRwdGJ0YVliY1dBeWh40gFWQVVfeXFMTTFKaUZpcVQ5NXVMbEFrZG9VT2lMWUpvYWRnbWV2RlBvWU5nNU9ETldiUkkzUE9rd2lFcXJYQkt2RFVQRGNhdUdmSnVhYWpZVWVTZzZnYVE?oc=5"
     },
     {
-      "title": "美股9月不必預設悲觀：從Jackson Hole、長債殖利率到輝達財報，看懂年底行情真正關鍵｜美股評析 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiswRBVV95cUxQcjdfcmRucS04dmRNQ01NTnQ2b2s4RmdvR2Zxel9VRVJRRU1IbzQ2aENVZjd5ZGx4em5VMV9hNnlQdnp3R1B3TXE2Tmo2bVhyR3pPQURLT3lDVEJqZlp4bG5TZ0VVaGhDZWFWOEZkcEJQTlU1UHFfSEkyRzlXZjQ1S0RYZW5weWVFRjBMeExKcDdWNFZxaHJQX2VDSmJJNWJEb2I2T3NRN1c0LUZPUXNCRjFHaTUtMmtIWldTSnJjai1KV3g1aGU4MDNSTVcydXRrVHdSVjhZd1FWXzVsWVI3enNhVDFuTXluZG44azVFSkhoQzhGdVhQUFE4bVdwYlBMakRuV2YtdncxUUEtTkN5YU1ZRDF6Vm9nS1FRSHo4MHRrNHV1QWpMR24zTmlfcnpBMkpKdzU1aDBkWEpSOTMzMElUR1FoRThBY3ZoTGhrQVJrR1ZFNHlWeEpsUWVOZ2xhZzNzUmlmZ2N0X3RWRFNxb3JXY1JSQjQ5QnJLLWVXYnBSbS1JZWxoekFUdGNzYlNmMWFSVUZpbFZVdGZ3RVRIUU9Od0VXbk81bkk2ZnBEejFmUjJYTWtWZ1FBanFOWm9rZ3h0U2RCVmxjU1BLcWhPc0phLWJPQWZtb2NSUE9TZ25QOWdOVUtKbzVEUXN2bzBPV0VqSFh4UEdkQ3FLeXdhaXdidzR2V1NfVkJubzBwb3gzNDA2RjdYTm9OUmItN2V5T3d6bDhEYmVTUFpiSFQ4NlYwNA?oc=5"
+      "title": "2026年9月台美股行事曆｜SEMICON 半導體展、FED 利率決策撞四巫日、台股法說營收季底作帳一次看 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiowRBVV95cUxNQkljNjBmRFUxVEVFc0E5dVJhTWRKQ2hrV29WR0NBSjUtNFFWeUF5alRwQmotQ21XZjUyYlZoSlFnSGVqMWc3SklwUnpMLTJTbWRnZjZzOF8xR0dBX0VHbmMwUnNlVjRUdEtWcFBobnlhWG1XVjhuSTRiNHFqZzA0Q2FhQU5TY282YXpVd2ZPRDJYMHlHTWZFR0lxZ1FnVEMxeDAxSWJHaTYzUHc4SmQ3VFpSQWdCTERZU0dFTVNzT0ZNZUthSGtQVXhnM2Z6R3VZcFIyT2doczhNRWViY3dmU3dMb2VyUW4zMUN6MExuRURSY1VxXzhYX1BpNzJlM2Q3TGwxN2VvZnVhNWZNaFk2ZU5OR0dQODlCS0w4d0hZVkJoZG01VTZoMk1XZXhYUlBnSDdsX002WFB0bElhVi1Tdml0N2NneGVCZHV5Y3plaktwMzFXWEd6Q0MwLUxTeDBpNE41MUNSc1J3TmpISnNVMEI3bzI3dXJ2MkV0QnBlT0RqSEhQUUFDOGpHSTlwaHo0SW1haXpBUXBhZHRJUVh1LXpTdmVrM3g5N2xYR0pYNHhEb0VRV05CZG50YzJuelZNZW9obkg0R2NYQlZTTW10NFBaR0FrYXIxVkZjWEFGM0JwdXhhbTk2bGljdGRkdGVudjgtSlBQdnBITzZIVDRCOUV5YnlKQW5YdlRjbkhSM3dQNlNDSFRiNG9SbnFrSG54QV9n?oc=5"
     },
     {
-      "title": "薩爾瓦多比特幣海灘退燒！餐廳整月僅收 1 筆 BTC，民間回歸傳統刷卡 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQempsUmIxVkZ2U0JQNklIME01TjdIeDhnRGUyLVIyeWhWZWtJaUZMLXhLeHNtaUlZc01ZYUJ2ZVNMV2ZYQXMydVdvSzFKRkVfREhVVExUaXJpR3dMV2pvd3Y0WHJLUloyY2V2UVNibDRrY2RRdUMxUlJTaXJ0ajNIejBiZjJwallyUHU0OFpfbWwydlJjRjZCRXhHZw?oc=5"
-    },
-    {
-      "title": "華許放鷹 測試台股季線強度 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tMVFMc19uVV9XXzJ3bDQ1RElnZU80d25sX1MxUi1aNnlTUnI3bF83SlFaRHZQYzFJdG9hdW9mRkZHRVpvazJGQjdvZW95QzQxa1RyU2Vn?oc=5"
+      "title": "台股成交量重返兆元！5大暴量ETF總點名 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQN0JwSXRBWnlhME5ObTgtWldtQkVCU2VrR3QzcTR1SE03blJjVlptZnZBQXJmTGFSNHhPXzRVYjM1N21seHI2Vk1VcWlhb3NoRzNDTTZUd2o0Ukg5Wll2RjFrSjJOVUdwREFzZUJKTXFUYlJaT0pCQTEwUmkzaDBQa2M4cDZxYU13dmVVSWJJeDNzRG1vM2VPNmtrYVBRVlpHWFVhVTRVWHB1MEE1ZlBFLUQzOTdtblhINkVuTGNVOEZfVnA2WlI2NGltSW42S2VGRG51UzQyazl4c19rZ2diWjU0STlEN0FFam1TWUF4YWpKLURHaXNuXzBYWHJDRk9sNVlFeXJWVE5fWkVEbnc?oc=5"
     }
   ]
 }
