@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/01 04:16",
+  "updated_tw": "09/01 07:59",
   "taiwan": {
     "2330": {
       "price": 2405.0,
@@ -19,97 +19,97 @@
     },
     "0050": {
       "price": 106.25,
-      "change": -0.7,
-      "changePercent": -0.6545
+      "change": 0.2,
+      "changePercent": 0.1886
     },
     "00878": {
       "price": 33.18,
-      "change": 0.18,
-      "changePercent": 0.5455
+      "change": 0.47,
+      "changePercent": 1.4369
     },
     "00919": {
       "price": 31.96,
-      "change": 0.52,
-      "changePercent": 1.6539
+      "change": 0.65,
+      "changePercent": 2.076
     }
   },
   "us": {
     "NVDA": {
       "price": 220.78,
-      "change": -7.2,
-      "changePercent": -3.1582
+      "change": 3.23,
+      "changePercent": 1.4847
     },
     "AAPL": {
       "price": 316.85,
-      "change": 2.27,
-      "changePercent": 0.7216
+      "change": -2.85,
+      "changePercent": -0.8915
     },
     "TSLA": {
       "price": 367.95,
-      "change": 13.14,
-      "changePercent": 3.7034
+      "change": 19.2,
+      "changePercent": 5.5054
     },
     "QQQ": {
       "price": 716.76,
-      "change": -4.35,
-      "changePercent": -0.6032
+      "change": 0.33,
+      "changePercent": 0.0461
     },
     "SPY": {
       "price": 767.05,
-      "change": -4.05,
-      "changePercent": -0.5252
+      "change": -2.3,
+      "changePercent": -0.299
     },
     "SCHD": {
       "price": 34.89,
-      "change": 0.06,
-      "changePercent": 0.1723
+      "change": -0.01,
+      "changePercent": -0.0287
     },
     "VOO": {
       "price": 704.89,
-      "change": -3.86,
-      "changePercent": -0.5446
+      "change": -2.35,
+      "changePercent": -0.3323
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78954.71,
-      "change": 1287.1397,
-      "changePercent": 1.6572
+      "price": 78552.7,
+      "change": 722.4109,
+      "changePercent": 0.9282
     },
     "ETH": {
-      "price": 2480.05,
-      "change": 62.1113,
-      "changePercent": 2.5688
+      "price": 2466.93,
+      "change": 24.3941,
+      "changePercent": 0.9987
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.688,
-      "change": 0.0271,
-      "changePercent": 0.0856
+      "price": 31.69,
+      "change": 0.0291,
+      "changePercent": 0.0919
     },
     "JPYTWD": {
-      "price": 0.1962,
-      "change": -0.0025,
-      "changePercent": -1.2706
+      "price": 0.1961,
+      "change": -0.0026,
+      "changePercent": -1.3209
     },
     "EURTWD": {
-      "price": 36.855,
-      "change": -0.0407,
-      "changePercent": -0.1102
+      "price": 36.852,
+      "change": -0.0437,
+      "changePercent": -0.1183
     },
     "CNYTWD": {
-      "price": 4.7229,
+      "price": 4.7188,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4501.3,
-    "twd": 4586.0,
-    "tael": 171971.0,
-    "twdTotal": 142637.0,
-    "changePercent": 0.5181
+    "usd": 4496.8,
+    "twd": 4582.0,
+    "tael": 171810.0,
+    "twdTotal": 142504.0,
+    "changePercent": 0.4176
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,20 @@
   },
   "news": [
     {
-      "title": "〈美股早盤〉美伊交火推升油價與美債殖利率 主要指數開低 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hOXJ6dUJBYVptb1dLTVN1d0t6dnhIQV9yMEpydWFncTVHaWxuQVoxaElZSFA3bnZtalZVZFRyZWZXaDh1ZzVtcWNGZWpLWWc?oc=5"
+      "title": "〈美股盤後〉美伊再度交火推升美債殖利率 道瓊跌超370點、月線仍迎連五紅 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtbmhSMjl0UVN1N3FicXZxSnN3NFRIWWVpTUtpNjVLT25NTzNpVU1zLVFqLVpzX1FTOUNVTHZvS21jMTBOWVNRTy1aQkFsZWs?oc=5"
+    },
+    {
+      "title": "【0831台股盤後】加權指數爆量 1.24 兆元甩尾拉回收 46,128 點！MSCI調整買盤強勢承接，主本比 鎖碼精材、聯鈞、富喬 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxNWVZwbGwwS3A5SENsTnZfZ0xOZ1FwU2hFN1BRYlViN0lpNWltc3VkUG14WDBadGxfTmdPX2hBQUVudzNpdG43bXY1SzlOQkdwVlNoUXBqb2hJY1FobHJib3pNazQyaFNIR2xzY1BPbVViRWgyRWRjZVQwTjFMMTJkdHRNYWtRenliS1Qyc0RfWUNxaGhHS3FOY2w3MmZvZU4ydC1tSlNTZWp0TG9kY2ZnQW8yZkM2S0dPYkU0ai1DSXZUdkpZRWZWZ0ttX25hV0JwZzBxWlVPRWNFVlRhcERQSnZrZC1NMTczd1RiT3ZKWE1RYU1NVmNRSTlBVTU1QXQyU1pEVzBvdFVfSDdXUTZoT0szdEVCMGFTWmxvSmFTQ2FPQmJzNS00NlRwS1B6YXBLS25SWnNRV19salQyV0t0RVVKWDFtS3BLOTB1WEF2QjBZNmQwU2dndllWNUZ0WGNCOFlINGRqbEJVQXhZUE1oS3hmblZ5ak9XdUZ3SGUwZUs5a1VEUXhuQmNfbXNjLUlvMkt0SW5ONDdMSF9odWphRnI4akkwWkJOZFVhcE44RXc2VWlXM21JcElrV1lyaEdRU1o5YlFCZFRZUVlVVWd0cGNDYTI5dlR1VlRIQlB3RWtZX1FwSDhpYmxOb2N0ajl6ZmpZUEhVWGJaV0J0ZWVJS09Bb3Brd1VUc045SE9hdml5OFpWOVdvZnFtOUlZanAxX0JJTUt3alBRbTJQck1xRUxvRFJTVU1aYWFxZVFXMEMycXV4d0dXMU45X0xrVmdnYzV1V0RaT0ZsdDI3aV9tMmVNOG4?oc=5"
     },
     {
       "title": "美伊又傳開戰 油價一度飆近3% 黃金價格跳水失守4400美元 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOdWVTYUJkLTlYdkd0R3kyUFMzbnQ0YWR3RWI3VVlVSndkQ2V4a1pSU1VkaE9zcGJ0TXBzYUd4WEZITmY0TVV0LXZzSDVNZE10UGFqV1Z3dnVadWJwZzlyQ3dMaDg3dGkwU3kxZnVueDY5QXBrWlFRbTVJdlZTdU5COTlyM2RMdldkMldTWUMtX1E3dU5aMnVjYmpqS284clJrLWhjMnAxX09wMDczajRsd0kzMFhNX1hJbGFJeENZVUwtVWdZWEQ3VG5xcWJaN3pfaXVGMGNMZ0NpV19FSDItc3ZQVm5aa1B0dm02RGNDc3Z6bm8zbnMtWHowSGk0Ynl6LWVvb0ZGck1RdUJVWGZJMkQxUkxYVFc4aHNvMkwwV2U2d0o3OE5VZW1ybTMtNlVsUDRTMG1FZlBDVko3T2VMZkI5LXFzQ3dvcU14cmJUYWN5dnVJeFk2MjE4bFlKU1NHUjRVSC15UWVkUVNQ?oc=5"
     },
     {
-      "title": "美股盤後｜Warsh放鷹，Marvell拖累，四大指數同步收黑｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNM0RRNzV3SmZsLWd6QkQzem80NWxrbmJ6OHFJekx5STV6Ymg0SnFVMEFqUnJKQ0dyYUxLLTh0bHh1WUZYME5GWnBfYmJHdXFGY2lZZ2tWQk9hSEZmbzNYQzgySHgyNmFDUFl2d3N1Yld0dERjLUxiQXRtNXpUOXh2Q084cHFjODlqNzRQRVVyaDdJZlg2Y2dTbi1TSk15U01TdDJvZTQtNDRqSGZNN1laUVNwa3lMN3hiN0diMjRGYk9BaGthb0lOb3dQY2RTaXF0SVFGMDI0cGFnU3NhSS01UFVqY25KQUNYbWpnVnJyakZqVWdGOW9QbTAybi1GUTA1UHJFM3JWZVAtQUdkeld0dFdmUmhJUTFoSm5RNWJORVhRc2JhdDg0blNQMWl2T0ZmOWZUeVJpcm1QVUVEQUZMZ3lzTElzWEhjeWszTHZVamVNaTc3dG1xNA?oc=5"
+      "title": "《貴金屬》COMEX黃金下跌1.1% LME假期休市- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWRuRHhZNVdBdkZlVV94VDB1M05nQjFNWVpyWFN1Z1pfR3Zya2VCc190MzczMUpXZDN5RS1jY2hnS0RhUExVU0piZXB5NmpEUUxOOVlmZkdVdkJtT0ZkZm8wRmtvbXpXRjFVX1JHckdpUEE0dUtCaHF2VE5xdEszRDFMSmtFcm1JUGo2VWhTN2FqUQ?oc=5"
     },
     {
       "title": "美聯儲和財政部“各打各的”，黃金被夾在政策博弈中 - capitalfutures.com.tw",
@@ -137,16 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55XzQwMWRzY3ZvU21XY1NiVkNoR2lHWmRwTzNtMFU0eFRXNThRTGVrVVlDTk9HSDRWdC1pd0VjXzZOa1FhMWktRHc1dHRaZ19wT2c3WWpHLVM4UW9kM1JPenFQbUFxNFhnVzYwSVozeXUyZw?oc=5"
     },
     {
-      "title": "摩根觀點｜台股震盪照樣有戲：你的台股基金怎麼選？ - 鉅亨買基金",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYWZKTERHdl9zSkY5eENpMU9RN1pIOGNmN3hTMDRnbUprVjN0RnRTYnYxcGd1WEZIRGVHNGlwVFBQX0NHTFhZTzZEZmVZSXVDUXMwN3UzTE9XdFltb3l4QzdMWFZkTlJ5bGxUd0dzSTE0ZjhNTVZjS291bHBRV1FuMnhfdEtVVlBqa0EyRnhSTmtYaWprTWtCVXZB?oc=5"
+      "title": "〈美股早盤〉美伊交火推升油價與美債殖利率 主要指數開低 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hOXJ6dUJBYVptb1dLTVN1d0t6dnhIQV9yMEpydWFncTVHaWxuQVoxaElZSFA3bnZtalZVZFRyZWZXaDh1ZzVtcWNGZWpLWWc?oc=5"
     },
     {
-      "title": "費半暴跌21%　美股罕見「背離」走勢！阮慕驊：9月會有答案 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UMlAzSUI4S1lmSVRFMzB6UUZlRlA3ekt0bzVJdnBKb1hkTlA1X0dwSHRZRmpSMmtNOVNnSWxYQzFacDZ4V0dQUEU2UTlUZjRyTGfSAVBBVV95cUxNNU9GSC1sVjZsS2JmS214Tm9FektCSmo4dlFtcFFEcHhTNU1qUHlBcEx3NXdsYjdtZlY4Z3ZGMFFnTUtWVkxYTEoyUEdKSExsbw?oc=5"
-    },
-    {
-      "title": "華爾街最強策略神話破滅？美股動量交易恐迎25年來最慘烈單季潰敗 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45QVoza2hmOGI3TVU3MC1SSTdvQ3lzMy1KZDRiYmk1VndLNnVRYndDSndWSVAwaDRabEtiVFZoN0VHZ3NjRTgzdDhTd2F2U2M?oc=5"
+      "title": "美伊衝突再起！市場憂通膨美股多收跌、費半逆勢上揚 台指期夜盤微漲 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOUnVpRDR2dkxqc2ZZYmdYMkFleXBPTFhkV1QwcWp3dUhzSlRYTWpQV2J0OTEyb3pqWjExVFBjdG8wQ052M2NUS0RqZFdUeTd6SzR4dTFFWmdRdzhKc3h6YnBaejZRXzRKcEx5bkJLQVlsZl9Jam5vTUg2SjZobURHU2ltSVdES0tpTFlNUmp4MlJGR1E3blBMeVBNcVZtMHA5aG1maU9xX0NBN1JJNHIxNWlXbnZKbzFxMW8yQmZBSjR6WFVSeUxoSHZpY0pMTVBubF9lVzNhNERxb2xvNDFZN3B6NHFYY2gtSkNQVzRqZ1Qza1FZZzl5WGU0b0trbE5wdnJLNGxzXzdCVmpGN2plUHdZeThaSWdEUTRBZ0s1dXJCRm5VY184LUE3UWlmQS1uXzhsMGdZZENMLTB3ZWZQVnhsSUFDTHNXc2NxaHZ4eE9YSVZ6eXc0YnQyZUx1UG1EMGFMZW5JT0FSdDNMRUNmQ0ZDNndSaExrenNGWWY1VVFZVjRrVk1iV2xVLUdJcWpkUTZrcWwtT2ZraUZuU3I3dk9JeGhxLUhpTEV1N05HWVV4X3JWS3RJY0xSRQ?oc=5"
     }
   ]
 }
