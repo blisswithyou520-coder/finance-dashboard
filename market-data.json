@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/02 01:57",
+  "updated_tw": "09/02 04:51",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 217.83,
-      "change": -2.95,
-      "changePercent": -1.3362
+      "price": 217.44,
+      "change": -3.34,
+      "changePercent": -1.5128
     },
     "AAPL": {
-      "price": 324.92,
-      "change": 8.07,
-      "changePercent": 2.5469
+      "price": 325.13,
+      "change": 8.28,
+      "changePercent": 2.6132
     },
     "TSLA": {
-      "price": 356.44,
-      "change": -11.51,
-      "changePercent": -3.1281
+      "price": 356.09,
+      "change": -11.86,
+      "changePercent": -3.2233
     },
     "QQQ": {
-      "price": 707.58,
-      "change": -9.18,
-      "changePercent": -1.2808
+      "price": 707.64,
+      "change": -9.12,
+      "changePercent": -1.2724
     },
     "SPY": {
-      "price": 761.49,
-      "change": -5.56,
-      "changePercent": -0.7249
+      "price": 761.78,
+      "change": -5.27,
+      "changePercent": -0.687
     },
     "SCHD": {
-      "price": 34.8,
-      "change": -0.09,
-      "changePercent": -0.258
+      "price": 34.81,
+      "change": -0.08,
+      "changePercent": -0.2293
     },
     "VOO": {
-      "price": 700.005,
-      "change": -4.885,
-      "changePercent": -0.693
+      "price": 700.28,
+      "change": -4.61,
+      "changePercent": -0.654
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77327.65,
-      "change": -1220.9828,
-      "changePercent": -1.5544
+      "price": 77320.87,
+      "change": -1227.7628,
+      "changePercent": -1.5631
     },
     "ETH": {
-      "price": 2422.07,
-      "change": -44.7503,
-      "changePercent": -1.8141
+      "price": 2416.02,
+      "change": -50.8003,
+      "changePercent": -2.0593
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.693,
-      "change": 0.067,
-      "changePercent": 0.2119
+      "price": 31.708,
+      "change": 0.02,
+      "changePercent": 0.0631
     },
     "JPYTWD": {
-      "price": 0.1956,
-      "change": -0.0019,
-      "changePercent": -0.9555
+      "price": 0.1958,
+      "change": -0.0026,
+      "changePercent": -1.2866
     },
     "EURTWD": {
-      "price": 36.765,
-      "change": 0.1197,
-      "changePercent": 0.3266
+      "price": 36.805,
+      "change": -0.0077,
+      "changePercent": -0.0209
     },
     "CNYTWD": {
-      "price": 4.7208,
+      "price": 4.7255,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4390.0,
-    "twd": 4473.0,
-    "tael": 167745.0,
-    "twdTotal": 139132.0,
-    "changePercent": -0.9275
+    "usd": 4374.9,
+    "twd": 4460.0,
+    "tael": 167247.0,
+    "twdTotal": 138719.0,
+    "changePercent": -1.2683
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1Y1N1ZU92ZXZfM1lXRkc1TDVOUnByNW1uNlpjWE9IYjA5VFNQZ0pBQWNWem55blhXd0NsRHh4Z3AxcFladTI4Z3F1alJwTFA4?oc=5"
     },
     {
-      "title": "〈美股早盤〉主要指數9月開門黑！道瓊挫逾300點、半導體股承壓 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15U1NfQk90SGR6eDhxTlZqcEFreU5CbXp6UFdLb0dnaUZHYzBGVGdnRjg1R0lRWC1WV2pkQi1jaWg1b0ZpbXNaN0RLOFFRM0E?oc=5"
-    },
-    {
       "title": "快訊／美股開盤「4大指數齊下挫」！那指狂瀉逾300點 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdHpCTl9RenRUWThXczhiZGNXRU5GSzVnWTlzT1lUVmVhNVdSVHdaSXRYSGdmMlJoLTVmS1YxVGpyeEFHakhVNUx4TExsaUo5M0HSAVBBVV95cUxNcHYtcXViNnhmandISlgtT3I3X040cmJ4SmxtbUxhVDRCR1VfaWVPOUk4QVNoQ0xrYzJyWVVYRWV3Yy1XSEJBeHdTQnZnWTh3Zw?oc=5"
     },
     {
-      "title": "快訊／美伊又開戰！美股4大指數全走跌 台指期夜盤大跌433點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPT29TYXFKT0JMcW91ZVF3ZktGYmJNN1ZsQnBuWHY4VkIxUHBiSzJTYThKdmF2aUJaX21WLUVTbjBWSGd1MlNBU2hWaEZJaTZtWWJEN19JNmZYRWFXcGUyMUJnZGtRTnZSZVItMHVEbDlDeVFJWFE1bGR1RVB4WFd2X2dUNVhVaEZ1MXlHM3g2aXhDSjJfaEdiUjUwZzdqOUtIZEkzTUFxZDlqUWg1cUUxUlRTZGxQdjVmcVplNURlRWdscjZ3X1Rub0liTVIwaExNNGE5dk5sZl9yamc4cnB5VkJlR1AzaTlXT19aOHFKWTI3LVVFUEw5ZkRhdUhHQURCcnNQdlUzNjByWkUwY2pPbk1EMjdYUzlDTTU3N1Z6c2N1UDJRMlo4Zk9ORE5JX3phVkxoNnczWlVYeUMtMmhFODFuY0dfSlFIQkNWYms5bzA3TV9RZWZvNUtJempRc0V1R0ZvdFhJZWI5T1hYTTJHRA?oc=5"
-    },
-    {
-      "title": "【即時新聞】美股9月魔咒發酵！標普500指數(SPX)期貨回跌，中東衝突升溫投資人縮手 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Fc2piNkFKZzBiaHFGbnNMUjJZc1lpcnU1Q0dURDBkVE5BZVU4SlA1MUFkZ3liZ3MxN0Q1eFhNTUdGUlZtUWNkdk1tMm1iTEhJc3RBZlJlSkI5OGg0a1BTNXBfbjlicGc?oc=5"
+      "title": "美伊再度交火！油價急升、市場避險情緒籠罩 美股4大指數、台積電ADR全面走跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxOTUphZFVCRk00WTczSjRiMGxqQkwzaUN1d29FS21XS0dGYnE0UmRDUGEyYmZjQVd4TXFWOGdLTjFJYzNkS1pJLWxyWGgweFVLTGtlSENDY1E2NklhZjBtSVJ2dVk3d09tdXJoZk1McWo4Nm9GMFJYNzBWbWFGZGdQM1V6NzN1MlVZUE9nWXRkRk9yaFZvM0RycVRPSG43QnFYZ0JWU2FiX24yTi11OGpnTjdJSV9OS0ZlWHJEUmdHUXA3b0hTOGs2d1RMaUsxbTRNWVZUVW5HR2R6cjIxSW5CVHIxLWczU0U2b0FpZ2J1aVRSOGh1ZWp3QXdKanNRTE9kT1BKcDlTM2REQl9QeXJwQjRHQmp4WGVNR21McU9TcDYwUkw5ZXFvZjNDN1k0T2ZaeDdDejJWV2d0Yy1VYnNEUWVhNlc4NFFDSWxSZVZKdTBPTVUwZlJWM2ltemlqV1ppajYzbHAxOFZnc293X3FrSmtURS1fMk9RSHVzdzJZaDNHak9oNnczUmNKQnNDc2xid25FQzRGUlQ1eDlDcll4WEVzYzZ5ZTRxSS10Mk5VZ0tqWHBBei12ZzE5c2FicUJHbGk0aFRYcEJRTEpCdnc?oc=5"
     },
     {
       "title": "黃金創今年最強單月！8月飆漲了「這麼多」 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pUEN3ZFU5cW0ybDgtcTNQMi1kU2d6OTlUOG8xbW9fOEJaa0kyRHJ1UzhYYU13SDRicTNIMF92Q3BZU2Rjb1ZDTmM5WGhpemQxX3FuczJUb3kwMzkyZ3pF0gFkQVVfeXFMTlZnczBXQ3YzenlHWUxoNktnUkZBXy14QTQxMHlPZ3VtU2prVHZlMG1Ra0kzOEtYMzJVSzdmTEx2dXNUZnItdWZGaU9ETjdaSEVMX0NVR1FuNzM5NnJEZ2RndXk3dg?oc=5"
     },
     {
-      "title": "比特幣與黃金鎖死同步！90 天相關性創歷史新高，牛市前兆再響 - 動區動趨",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU4zWGNvRTdWZi12MFM3RE9LUE11YXVETlZYYXAwOTNGVExaQXh2ZGxtYVItN1ZlTHB3YXlIMUFaTmNXeUl2aFZScHBlQjk3OGNvSndQX1kxMGVVc0dFNTJtcVA0QTRFTUIwSzdrRnp3Wk1nX0l6Q3lhemt3NWRNbFdEZmpwUzI2QXdlWkk4VVhhaHBERnFJRVVsMnBrVkQ0RElMZ1BCWEZteFk?oc=5"
+      "title": "美股「9月魔咒」恐再現？迎「史上最弱月份」：標普500、道瓊平均跌1.1% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05QUhOUVV1NDBaWURuWUVfRnBDc25YSDByYUNuaUJoSWhNRmd0Y3hWb19vY0FTLWlZTW55U0RhTTRhUWlsbzUwcFRoYzQtb3M?oc=5"
     },
     {
-      "title": "【美股盤前】全球債市拋售加劇，美股期指與晶片股齊跌！黃金失守4400美元，布油突破92美元 - tradingkey.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVVBWTNoODlreU91TFVtb0s5Nnk3OTVDYnRncUl2cng1OGxvZjJYOTRoOXFQZzR2eHFYazJmU0JOdHN6WnZyYTU3V2drRGxLSWkzR1VuZWlzOTd4UkEwdWNiQXpUcWhZYkVWem1mdUFlMFB0LW5IR0oyNlppLXZIbkVkVTJlYWkwMndTelA3cWRmV04zQWh3emJR?oc=5"
+      "title": "【0831台股盤後】加權指數爆量1.24 兆元甩尾拉回收46,128 點，台股夜盤震盪近400點！MSCI調整買盤強勢承接，主本比鎖碼精材、聯鈞、富喬｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi-AVBVV95cUxPQVBGS1BTZk5oZDB1Y1NLNUhmcGJMLUNmWXpGNkJoMXVQb2Z4OWhTclZBTncxdEJTeEtmc0Y5MEM0TUJTbXdEX1BvX3FuanU5Z2djdVdGU0xQMkoyVTFJbnl6NUZlZGpselpoRTRxVG5tR2ZhR1VqcUVBcGo4VE05WmVIXzdWUlJqWDkwcFpHeGVaZVJXcVJwd1ZzZk9OM0RCY1l6NFhteHgxS2NObEVLZ3RibmN2N19RXzJvaWhjLVZ4WW9sbHRBeHpzalhjeUpld01zRlZidnl6SWlYVko4NXBzRnRJb3JqcUtYaHFhdzloOW1nX0s4amQ1bFNhM0taMWxURVlXT3dXcEN4N2NQeTJNSFduX292dzRaNm1mTUsya3Jvek1nYlpoVTZaTHVvd3ZhYXFZNFAxTWpzakladElTNnZyRzN6c0t6LUhYXzRKbVMxanZtRzJta0xvblpYMFZrX0hjdjhWZEVCUEdkRUhjQ0ZJWXFhQ3ozZ3dreFpQTmh6Y1R3Q0tzdjlYcVdkSzVoU3FuNXhJYlJvdmFhdExJTFhLXzhPZGpXS3Bpbk1GSjlLTVh4dXNhOWx1c0hjMDVVRTNlenJWakVPem1nU1dFZ1ZQY3RfclJzLS1TbGgzWWQ2eTBoMkRYWWhkckRuSndKZ3lKaEFHc0NkeGxONXkyOERhTUtQTkcwbU5Jc1czV0VxSHd0VTM3TzNHNHJmWFc4Y1l6VUdiQkpoZ2Rka2hIeDQ4NE5NaVl0OE43S1Z3aG9jR3lFR2NUSTk5QWluMWFRdGozdUhNSTZLc3Vtbl90RWpkY1ZsdmZTTGxHeVJwTzAwRnJ5ODdBM21zbFFPZHVuQjhjVXZJaWZOZzI1bkMtRDRxbFRNeUxPMjNVTXJ0MDQ5ZlZyWTVoUmFSbi1qQmctcldhVEd1M1U1WFU4U1prdmN3OGZFNjlLRGJpbHhYLVBiVzVkakhkdHJvaE4taGw0aUtVeGNyNU1TbDV2VUh0UGs3djFS?oc=5"
+    },
+    {
+      "title": "台股8月開戶數再創新高 - udn.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OQk9nYlltX0MxMTRUWVpBY3R0MEVvdWt1UzZleWxmMmtheVhEUXJRMEhFX3I0WXkzc2J1MWNsZ0xWQkl4dTdHWWRBb1FmbHVD0gFWQVVfeXFMTXZVamhkTXRiYVFTdHhQTEJOc2F1bHdCR1VfeGhBeFYxcWV6VUFOLUdxTnVYQVRQdFd2NktlT1BNVmlCbFVxYnVoZzFhM1RFRG9ibE1UN1E?oc=5"
+    },
+    {
+      "title": "快訊／美伊又開戰！美股4大指數全走跌 台指期夜盤大跌433點 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPT29TYXFKT0JMcW91ZVF3ZktGYmJNN1ZsQnBuWHY4VkIxUHBiSzJTYThKdmF2aUJaX21WLUVTbjBWSGd1MlNBU2hWaEZJaTZtWWJEN19JNmZYRWFXcGUyMUJnZGtRTnZSZVItMHVEbDlDeVFJWFE1bGR1RVB4WFd2X2dUNVhVaEZ1MXlHM3g2aXhDSjJfaEdiUjUwZzdqOUtIZEkzTUFxZDlqUWg1cUUxUlRTZGxQdjVmcVplNURlRWdscjZ3X1Rub0liTVIwaExNNGE5dk5sZl9yamc4cnB5VkJlR1AzaTlXT19aOHFKWTI3LVVFUEw5ZkRhdUhHQURCcnNQdlUzNjByWkUwY2pPbk1EMjdYUzlDTTU3N1Z6c2N1UDJRMlo4Zk9ORE5JX3phVkxoNnczWlVYeUMtMmhFODFuY0dfSlFIQkNWYms5bzA3TV9RZWZvNUtJempRc0V1R0ZvdFhJZWI5T1hYTTJHRA?oc=5"
     }
   ]
 }
