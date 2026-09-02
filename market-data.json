@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/02 07:02",
+  "updated_tw": "09/02 09:00",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77217.42,
-      "change": -1331.2128,
-      "changePercent": -1.6948
+      "price": 77203.98,
+      "change": -1344.6528,
+      "changePercent": -1.7119
     },
     "ETH": {
-      "price": 2412.35,
-      "change": -54.4703,
-      "changePercent": -2.2081
+      "price": 2409.34,
+      "change": -57.4803,
+      "changePercent": -2.3301
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.644,
-      "change": -0.044,
-      "changePercent": -0.1389
+      "price": 31.701,
+      "change": 0.013,
+      "changePercent": 0.041
     },
     "JPYTWD": {
-      "price": 0.1954,
-      "change": -0.0021,
-      "changePercent": -1.0568
+      "price": 0.1955,
+      "change": -0.0029,
+      "changePercent": -1.4378
     },
     "EURTWD": {
-      "price": 36.734,
-      "change": 0.0887,
-      "changePercent": 0.242
+      "price": 36.745,
+      "change": -0.0677,
+      "changePercent": -0.1839
     },
     "CNYTWD": {
-      "price": 4.7131,
+      "price": 4.7214,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4377.2,
-    "twd": 4453.0,
-    "tael": 166998.0,
-    "twdTotal": 138512.0,
-    "changePercent": -1.2164
+    "usd": 4368.5,
+    "twd": 4452.0,
+    "tael": 166966.0,
+    "twdTotal": 138486.0,
+    "changePercent": -1.4127
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "殖利率飆新高美股為何沒崩？華爾街神諭算出美股耐受底線 - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OcjVDd0stWGpTTTdHdGVyRXd4aVB0V0Nhb0R1YWtIbW5oU0xMS2VtU2xHWVdLVUh6LV9FcG81M2lPSlZnX2RLcWUtQmU3M2dZaEx3NndCZHBoQjQ?oc=5"
+      "title": "今天開盤危險了？美股全面收黑 台指期夜盤大跌 - tw.stock.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPVW1kakRBZ0NsZzBXai1weUZIOTF0LTFHdFpCeC1QZ2p2cHktN0NyU3Z0TGFyZjJVWnR4QVE0SzlZMm5DVS1UdXo3MnZwRk1XTjdkZ05rOGJzZDNDMUJVbmJpWU15Nm1rR2JOR25TUGcwT3dWaXBzd25vNTNROGtUT1MyRE1oX3RSOW5WanNueG5zSVAweXNldFNmMVBuMGFIVVpwalk3NTdwclJ6OFZHaFRTZkxyWTJ6VHNlYWRpNVQ4S3RibWdtRG9BN3V6VkZDVmJKRW4xRzdwNkdfa3liM2dzMC1POXA5V0dEUTJuUU4wRTFMZDRDcm9QSU55V0hObnloa29KTnlhT3RjMk5KM1NPU2M2VWNacHo2aU8zb3FXVDB4XzRwWkFKZXBPUXFkNTZPVUhmYVhWbVE3UTlucVcwcTNvdFJxNmhsM2dB?oc=5"
     },
     {
-      "title": "〈美股早盤〉主要指數9月開門黑！道瓊挫逾300點、半導體股承壓 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15U1NfQk90SGR6eDhxTlZqcEFreU5CbXp6UFdLb0dnaUZHYzBGVGdnRjg1R0lRWC1WV2pkQi1jaWg1b0ZpbXNaN0RLOFFRM0E?oc=5"
+      "title": "〈美股盤後〉美軍再轟伊朗 油價飆 全球債市遭拋售 道瓊跌逾400點 費半摔逾2% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ESnc2MEV2SUJMdWNTSjl0RHpLY3hOZVJPQUkxTUc5SUs1SWp3ZjYyTGVvQlhSZXUyc2RLWVFZZHJxTHhHVy15d3RZY0Y3Y2c?oc=5"
+    },
+    {
+      "title": "美股早盤／4大指數盡墨！全球債市拋售潮費半摔2%、台積電ADR遊走平盤| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1Y1N1ZU92ZXZfM1lXRkc1TDVOUnByNW1uNlpjWE9IYjA5VFNQZ0pBQWNWem55blhXd0NsRHh4Z3AxcFladTI4Z3F1alJwTFA4?oc=5"
     },
     {
       "title": "快訊／美股開盤「4大指數齊下挫」！那指狂瀉逾300點 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdHpCTl9RenRUWThXczhiZGNXRU5GSzVnWTlzT1lUVmVhNVdSVHdaSXRYSGdmMlJoLTVmS1YxVGpyeEFHakhVNUx4TExsaUo5M0HSAVBBVV95cUxNcHYtcXViNnhmandISlgtT3I3X040cmJ4SmxtbUxhVDRCR1VfaWVPOUk4QVNoQ0xrYzJyWVVYRWV3Yy1XSEJBeHdTQnZnWTh3Zw?oc=5"
     },
     {
-      "title": "美伊再度交火！油價急升、市場避險情緒籠罩 美股4大指數、台積電ADR全面走跌 - tw.stock.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxOTUphZFVCRk00WTczSjRiMGxqQkwzaUN1d29FS21XS0dGYnE0UmRDUGEyYmZjQVd4TXFWOGdLTjFJYzNkS1pJLWxyWGgweFVLTGtlSENDY1E2NklhZjBtSVJ2dVk3d09tdXJoZk1McWo4Nm9GMFJYNzBWbWFGZGdQM1V6NzN1MlVZUE9nWXRkRk9yaFZvM0RycVRPSG43QnFYZ0JWU2FiX24yTi11OGpnTjdJSV9OS0ZlWHJEUmdHUXA3b0hTOGs2d1RMaUsxbTRNWVZUVW5HR2R6cjIxSW5CVHIxLWczU0U2b0FpZ2J1aVRSOGh1ZWp3QXdKanNRTE9kT1BKcDlTM2REQl9QeXJwQjRHQmp4WGVNR21McU9TcDYwUkw5ZXFvZjNDN1k0T2ZaeDdDejJWV2d0Yy1VYnNEUWVhNlc4NFFDSWxSZVZKdTBPTVUwZlJWM2ltemlqV1ppajYzbHAxOFZnc293X3FrSmtURS1fMk9RSHVzdzJZaDNHak9oNnczUmNKQnNDc2xid25FQzRGUlQ1eDlDcll4WEVzYzZ5ZTRxSS10Mk5VZ0tqWHBBei12ZzE5c2FicUJHbGk0aFRYcEJRTEpCdnc?oc=5"
-    },
-    {
-      "title": "台股大滿貫9月開門紅 將蓄勢挑戰48,218點新高 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sMXVTck0yenFLaXhYcmlYeEs3ZDB1S3ptTl9FbkY0eEQ2QTNCc3psdHRUOXJ2bWhFY25vRmhzbGZRUjJZNzZ5Y3QzMzVPYU8y0gFWQVVfeXFMUExtMV9DSmNhU0RIR2ljRElTaGxRQlYyODZzWWxYelVIX3FwQklXQ2lpTFRpa2RzZlEwRHhESndXLVExTGdWd1hTMDY0b3I0ZEcwbjN1SGc?oc=5"
-    },
-    {
-      "title": "黃金創今年最強單月！8月飆漲了「這麼多」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pUEN3ZFU5cW0ybDgtcTNQMi1kU2d6OTlUOG8xbW9fOEJaa0kyRHJ1UzhYYU13SDRicTNIMF92Q3BZU2Rjb1ZDTmM5WGhpemQxX3FuczJUb3kwMzkyZ3pF0gFkQVVfeXFMTlZnczBXQ3YzenlHWUxoNktnUkZBXy14QTQxMHlPZ3VtU2prVHZlMG1Ra0kzOEtYMzJVSzdmTEx2dXNUZnItdWZGaU9ETjdaSEVMX0NVR1FuNzM5NnJEZ2RndXk3dg?oc=5"
-    },
-    {
       "title": "《貴金屬》殖利率走高 COMEX黃金下跌1.9% - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbTk1eWJJeEd1STY1MHYtZnpjQUR0bTE2UTZQbEZxTUJoc05oZjJzU1lMYVZwaC1JekVkUEdOY1ljX3dqMlBNWDVnLVdlVFpSN1dWTy1PVHNMVFJ4U3BQeTZxdE5td3NmUUJIZUpabjV5MzVUWTVZNEF2U3ZvY3RldC1RRTR5M014RDFJSkozd0FJZw?oc=5"
     },
     {
-      "title": "比特幣與黃金鎖死同步！90 天相關性創歷史新高，牛市前兆再響 - 動區動趨",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU4zWGNvRTdWZi12MFM3RE9LUE11YXVETlZYYXAwOTNGVExaQXh2ZGxtYVItN1ZlTHB3YXlIMUFaTmNXeUl2aFZScHBlQjk3OGNvSndQX1kxMGVVc0dFNTJtcVA0QTRFTUIwSzdrRnp3Wk1nX0l6Q3lhemt3NWRNbFdEZmpwUzI2QXdlWkk4VVhhaHBERnFJRVVsMnBrVkQ0RElMZ1BCWEZteFk?oc=5"
+      "title": "黃金變臉暴跌！專家坦白曝「不妙變化」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMY3l6ZzU0cXFDeEtmbXRpczNHN3ZJUnFMTE5hUlZFaVBMR1Q4RmJ4NkhNd1NKR081NUlzY1VCZ2lfaDB5cEJlNG9WN19HQXVHdmRpUVRHM2d2bXdZdFNR0gFkQVVfeXFMTnJfNHNYU1VIWUV3Q1prWlpZUVZRRDdWakQydm5IWjMyeGF4SUxxM1QxUGtfTXJGS2ZzWEJ4ek5XaFdBUmdxbS1SUHdOTHhIZktnVmlqUmpnRVo3SWxUY3J2UXhlMg?oc=5"
+    },
+    {
+      "title": "天下晨間新聞：殖利率飆新高美股為何沒崩？華爾街神諭算出美股耐受底線 - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiMVF5QXBhS25ESHl6VkIxNHR3TjBTVzRVSWUxMDdWUVBiRUN1VkpIRzlxUVlqRGJlTklfdXUwci1vTzhkMFdVc3lDM29OUQ?oc=5"
+    },
+    {
+      "title": "百兆傳承潮2》今年發2.5兆元！台股股利年年創新高 有錢人為何搶辦「有價證券信託」？ - 財訊",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzb2ZrRFhlaXhtWXpCbWdlNmhQeFcyNlEySk92ellTM0ttRUh3TmlnTm9lcER3Y2hodU50R0t4YkFJQTVpRWNvX2lXQ243SzZnMTVUbnlRT1g3emlTYkIwWWY1d1V0VWkyQ2xBZnZpR3Q0Y0ducW1LMC1raw?oc=5"
     }
   ]
 }
