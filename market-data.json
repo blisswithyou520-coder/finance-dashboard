@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/04 05:20",
+  "updated_tw": "09/04 07:24",
   "taiwan": {
     "2330": {
       "price": 2390.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 106.2,
-      "change": -0.05,
-      "changePercent": -0.0471
+      "change": -2.25,
+      "changePercent": -2.0747
     },
     "00878": {
       "price": 33.58,
-      "change": 0.4,
-      "changePercent": 1.2055
+      "change": -0.18,
+      "changePercent": -0.5332
     },
     "00919": {
       "price": 32.52,
-      "change": 0.56,
-      "changePercent": 1.7522
+      "change": 0.21,
+      "changePercent": 0.6499
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81567.6,
-      "change": 4267.1234,
-      "changePercent": 5.5202
+      "price": 81185.13,
+      "change": 3884.6534,
+      "changePercent": 5.0254
     },
     "ETH": {
-      "price": 2510.74,
-      "change": 119.239,
-      "changePercent": 4.9859
+      "price": 2496.73,
+      "change": 105.229,
+      "changePercent": 4.4001
     }
   },
   "fx": {
@@ -89,27 +89,27 @@
       "changePercent": -0.0416
     },
     "JPYTWD": {
-      "price": 0.2013,
-      "change": 0.0017,
-      "changePercent": 0.8376
+      "price": 0.2011,
+      "change": 0.0015,
+      "changePercent": 0.7374
     },
     "EURTWD": {
-      "price": 36.922,
-      "change": 0.167,
-      "changePercent": 0.4543
+      "price": 36.912,
+      "change": 0.157,
+      "changePercent": 0.4271
     },
     "CNYTWD": {
-      "price": 4.7215,
+      "price": 4.7234,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4520.3,
-    "twd": 4609.0,
-    "tael": 172833.0,
-    "twdTotal": 143352.0,
-    "changePercent": 3.527
+    "usd": 4521.4,
+    "twd": 4610.0,
+    "tael": 172875.0,
+    "twdTotal": 143387.0,
+    "changePercent": 3.5522
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股早盤／Fed升息預期下降 道瓊漲400點、台積電ADR跌1% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DUVRVb2JWMFl0UERSLVh0OHNtRXZnMndkMVRpbG95UnZONkFvbmxCdmZqMGl2ZFZrQ2p4dDQ0NmxvOXNHYU9ibGdLeldtZWRG?oc=5"
-    },
-    {
       "title": "快訊／美股強勢反彈！道瓊狂飆600點 台指期漲500點 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNblRJVlliZk5qVXN6QUlldTZZckNad0Z2dFVEaUszdEFRaExENzFlTVd5YWRvNUdDR000X1M2anlLNG9PR0h1ckV2OU9RVnhsRDg3Mk1FZnFJbk9XSExpZUlITHBhTWk4TUxsMVdKQzQ0T25HZi1tUG03YW96UGtSQkc2aWd6WktFVmFxYXdaNmxobzZGbkp5cnBvZm4yTWNfcUY3N2gxcHlfU1hFd09YVk1yTjB5T2MyRXY3MzBUdkhKTk8tOXNESUNzMjMtc0dzeWxReWlkMld3N3RMN3V4c2EwUmUzaXB5emh2dlZ0NUo0MWdFc2pqZEhaWWNnbXJaeThYMGV1WnlIM0M5OEFqM2NKOHhMbmRaVVpTWXl5YWRjZHl4U28tSEdydldTbmxPSWNkZWhEQQ?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉華勒釋暫緩升息訊號 美債殖利率回落 三大指數齊漲逾1% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEU25uNk0zeFlNRjRjQVRUWldtU0RjeWk3UDR3RlgxMHFPaTFTQjNXWWVxWGZvZXBuUjU2NUZNNEgxY0hvV3l1YmN3a2VRWmM?oc=5"
     },
     {
       "title": "【9月美股財報前瞻】美光500億營收驗證AI浪潮？甲骨文靠AI反攻決戰OCI增速！好市多估值撐得住嗎？ - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxPZ2xFa0pVX2IxTXVWdk9EQWtUUlN0S19MREw3TTBwZlBhbUlIM2xUSnVKaEhPWXMxanU3dW9pMVNoa3BaYUlJNU9zdmIxeVVzQnZLLXBXVnc4RTVSRjlSUWxLLTd2NmxQV1N5ZVZreldCUWFVd1p4eHNEZDVzbENKeXJUbGtYdkxOeS1zWTF1S21CSzVpaDFpbU1UdGlsTE1iMFI2LWZqdUZWQWpBZ2JUYzdlVVFhaDdfaDZobkJnZmI1ZHNFbVdUU2Z1WjdyN2NibHpxZVJ2cmdWMXBXd3ZSclhDWWxXVDhiamhWdlJEVlNpLW1DM2dUWVlVSG9CS2hJcnNEQWs1TFhpU3VOQlRSeHVqdWpsM21NcnZ0SGRkYWFOOUZjeURYQ2hpbEVrWTFHZTh5LTFwTzBVd1M2QXMyTDVUTDJsRjAxeGJJbXg3eVE5am84NEJKdDhxLWhMR3NSRWZVTk8yMW1Bb2txRk5ONUl6OGViVVJKLW9Lb0hyeERYSkd0M2ozUXpoXzVXd2xQN2V1RVZMTGlRazhualNvdUJzOElfMzNKVjNORXVqWmZzWEpZV3BjekZJb2JzZExLM0NxZElNU0tpME9TckxGSGlDM1JVYURON013VGY2VGd1MG40ejI2T2dWUWRVckRoWHNKelk0Y2xMUExPN0sxNFpYMk9jQ21VejUtU3dXZy01MXhHanIyUWJqcS1ydDJWQzBYeWNEYmVZa1lhWXYyU2VHajVydw?oc=5"
     },
     {
-      "title": "〈美股早盤〉Fed理事華勒釋出耐心訊號！主要指數開高、美債殖利率回落 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xb3RkaDY0YXg2MHJGb2w2TWtETXdCWEF5Vk4wZjBGT0RxRVp1aXRZbm5yMGJkcDRzUzU4TG1vUHZZRG4waGpKWmVKdXJ1TEU?oc=5"
+      "title": "美股早盤／Fed升息預期下降 道瓊漲400點、台積電ADR跌1% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DUVRVb2JWMFl0UERSLVh0OHNtRXZnMndkMVRpbG95UnZONkFvbmxCdmZqMGl2ZFZrQ2p4dDQ0NmxvOXNHYU9ibGdLeldtZWRG?oc=5"
     },
     {
-      "title": "黃金還能上車嗎？低點強彈後 未來「關鍵」專家全說了 - 自由財經",
+      "title": "《美股》升息憂慮略緩 比特幣概念/特斯拉/輝達嗨-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeG9ZaTdxQUhJci1fWVo4V3V4c3VKVERDcFdNR1RxSzY0SXhiN1R1YVY5YXE1RkJGRmVuRFNOVjlvRURVSVNYX3d2MTE2WGo5SFVtLWdpSHVXUzVaVTNqc2lqZDRDRllKUXp2QXFkLVlEOTR1alc1YTh2VjFUd2NzcU80ZzVfcC1iMjRiSHA2bTE?oc=5"
+    },
+    {
+      "title": "金十數據全球財經早餐 | 2026年9月4日 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUkzRl9nNWFENHVDanRXcGRER0dPbzBQX3ROWXpXOEVVX2FKZGJMbDBWVHNLbURGLWtJUHRJNF8tSTRmNHU4VV9RY3I1Ui1FUGdvWm9IWWlWdjFCSHhZUEdoa1ZXUlpONEVaUXRLMEpkcHBfQXFTdEp1YmtTeUwybWhZNFFKZXRWSlBkMmVxQW4xem0tZ19Vam8zMFNmZEhq?oc=5"
+    },
+    {
+      "title": "黃金還能上車嗎？低點強彈後 未來「關鍵」專家全說了 - ec.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12a1lyU09pM3Z4TXFIeTBtS3NpUGYyOTdxV1RQVFpMb2JXdUoxbzR2clZtVmp5N2tTaFpVeG5YcGZLRmN1QzFjU3hja2lPQm9OUFpSM3NDOXpNTEZQOXpR0gFkQVVfeXFMTjc4dUVoM2tlRDhKZ3lDM29QZnhJUnhBczBKVVR6U3JrTUdTTEdueXZCNkNNMzRNQ2IwaWtERHotSVFCVUZ2ZF9jU1RHSXU5Z1pUNWhFejlPa3RKaTJnT3lCS3R2Mg?oc=5"
     },
     {
-      "title": "華勒鬆口9月或按兵不動！美股開盤全線走揚 - TVBS新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MSW1GbFZUdV9HMTV2ZEFySUk1bTBxQlFEdFRpM2Y2MEl4dXowSTRtNFB4c0JtVzZCaWRIRmdKMzE0bnd2YjM0SjlyWHFXQ1k?oc=5"
-    },
-    {
-      "title": "TWA00 加權指數- 台股連跌兩天，今天46,500才是重點- 股市爆料同學會 - cmoney.tw",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53OHZuX19NbGZVb1RweHlHc0txc1FmRjRSX2RrdlRUamdOV1JKamRNT0RPd3M4SGI0a25YX21UZ2tHYXBFQkNodzB4RzZSYlZGSzB2VWN2VEU?oc=5"
-    },
-    {
-      "title": "【0903台股盤後】加權指數跌 307 點收 45,857 點！三大法人賣超 637 億元，季報優於預期股鎖碼盟立、裕民、萬海 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiywRBVV95cUxNZ0VQZS1pRzBTYXRaNFpLazhQS1FwRXgzeGF4bWN5cnFfTXMwWDFDOENiVE1pR3lQRV9Ibjh3c0d6T0dvdUdJcndOY05mclM5cnNpOVhtNDM3N3dHV3lQRlNsMTY5d3pDV25keXVJdlQwNXdOVGJhWFNqdmIxSGRHWW9Jb3pEZzlxcDhMbnNRUjBzdDQ5SUYwSW5BTjkzMUhEUm9ROEt4MFBvMGlBUmFZc25fSUx5N0R3a3VCemZSVl92NU5oWW4yRDFFRXZ2bnRYd2QwZnVVTGdrcjRvSG9zNnh2cVlpZ25Ud3g2ZE1kMmh3UXdzdFZNcEsxX19CdU9Cd2Z6bG1hanB0Yjg3bGtkOWVXYUpoYnpFZDBDYURNMEg0VmxUbTZsSGhuT0R2UHBZa1oyLW5VRVN3eDFvdzNNRlBCN0FpN3czX08wNVhWLTczeTEtSmpjVGE0dVNLbHJkX1V4WDM4d2hQUFNQV3hkVFRMWWVaMy1yUV9JdXllai1rWUFqa3ZUSTJMeGw5eU5ORDJyVlVPUXh3ckt4NlVMN2MyZUFBemcxTXhvX3Y3Y1czOVZOSEZWbGZTMG51MFlOOHFOX0s1eWt6b3E5cTJKTEJ5VnMwUU9NSjBGME5zcTBlbHhtTlcyMXpLZlRDSElqS2Y1bXJ3UWxGMXhKMHppa0w4ai0tYlVhbU43bVpDUkpDZUxaVUs1N3NYbF9Ec2laMWxaakktOWVvVm9fTllla2dZdkRseDJpYjVQUTVlWG53a1pTX3FOWHIyMA?oc=5"
+      "title": "Fed理事華勒一句！美股4大指數收紅 道瓊漲624點、那指漲366點 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQUVMzU0xEMEs4ZmtxNzhHWVRSTnlQRG83cUpvMjJYN1k3SUw1R29pUEJ3RUctTHJaNWwxQXBmck1VZVpyNlZoYXNTMXR5S2liQVEwZzZWbmd6VDhEMkJBWThTZ3g2RUoxNFZoeGhrVVkwOE0xbHIxNk1EY2Eyck4tN3Z6VTZnc0tNaDFJa1htajNuclBZcUw2MUFPMGlVWndXblZNb21tbEhKUVVhX2I4Z3NqUXJsM0E3TzNENG1OSkF6OThsSFhtcG1QdlhMMzV6M080VnB6Nm5lLXFGaTNjSE1xYnhYdmExSFdpU0RyQ3YtZDd1cU1NdzJfdlVSRDlsNXdES3Q0NkZJWjA5TVc1N1dtRm5LSEgtNVN6VmozZUxoUXdtdWVoeGE3cjhDMjlsQTNtcnpnd0NfTk9zWDRkZEtuUHZMd2tnUktyM3VVM282eXJvU2c?oc=5"
     }
   ]
 }
