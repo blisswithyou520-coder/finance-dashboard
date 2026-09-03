@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/03 14:10",
+  "updated_tw": "09/03 19:14",
   "taiwan": {
     "2330": {
       "price": 2390.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77692.04,
-      "change": 288.415,
-      "changePercent": 0.3726
+      "price": 77782.14,
+      "change": 481.6634,
+      "changePercent": 0.6231
     },
     "ETH": {
-      "price": 2400.71,
-      "change": -17.132,
-      "changePercent": -0.7086
+      "price": 2398.62,
+      "change": 7.119,
+      "changePercent": 0.2977
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.707,
-      "change": 0.032,
-      "changePercent": 0.101
+      "price": 31.669,
+      "change": -0.006,
+      "changePercent": -0.0189
     },
     "JPYTWD": {
-      "price": 0.1994,
-      "change": 0.0017,
-      "changePercent": 0.8497
+      "price": 0.2007,
+      "change": 0.003,
+      "changePercent": 1.5072
     },
     "EURTWD": {
-      "price": 36.825,
-      "change": 0.1067,
-      "changePercent": 0.2907
+      "price": 36.813,
+      "change": 0.0947,
+      "changePercent": 0.258
     },
     "CNYTWD": {
-      "price": 4.7275,
+      "price": 4.7187,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4478.9,
-    "twd": 4566.0,
-    "tael": 171218.0,
-    "twdTotal": 142012.0,
-    "changePercent": 2.5788
+    "usd": 4471.7,
+    "twd": 4553.0,
+    "tael": 170738.0,
+    "twdTotal": 141614.0,
+    "changePercent": 2.4139
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "【盤前】川普一句話美股全紅！台股今拚終結跌勢 台指夜盤漲171點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxObEdUWllJUGQ3THJJWWJrajRKY3RDR2lxMTBTdTk1RmlZT205WDlZNjVwczhjVHR2dDNSZmlqOGd2aE9ua0dQbUZxUmVvUHpvSkF3Y0s1c3BkanY5MXp4bWVJejlScHc5NVRKUFNnVmRCaVhTeEFlR2l6TnJ0V1pJVW9UaUs5cVdKM1BBS2RKaTIyYjdUSmhDVGFycmVZYTBCZFYtT0QwMzFXelhJWVdlSldnQlZLX09Pam1lWE1iTjdkemRaWUJUaGNScnRsd0tnSjkzUEVzcW51U0hSemVwam02X2tyMDJaVXRTa1NnQ0FhV2tIS3ZzSHJJbzNpc2w0Ni1HSGhEaFJoa2xlNHV3c0NxeEkyclpHM19XSWJ6d1J4RG91cl9mQWtFMlRCcWRxa1V3M1BjS1R1bDVUVW53UkhWNm55aDZ6c2c5NzFKNDZWRkdvNVBtc051V3Y2UTZHbzQtcDRYZ1NOa2Ffc3NjY3Rtell2Rm53SjZWSQ?oc=5"
+      "title": "美股齊漲台股照樣摔 載板記憶體一起被提款！玉山金率金融軍團強漲撐盤 ｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMioARBVV95cUxNT3dzaUJud3lVMW84enR0OUFWakVjUTNmQUUzYTNVbUJlbFA3bFYyblZYWjBBejM2QzNtamFXaWhHUXE4TVRNN3hGcnVoMmx0M25jWU5Ja1gzaHhxYlExNWtYSHBBdElGTTE5ajBmeDdpWG5rdXZiUUF5d1dlcVViQm1yN19VVjBqUVFaUkpER3E0ZHlLR21CT2N3bHo5QlYwQm80dVp4ZXcyNXNHclRYT3drZExMRUtfQXB3dXp0UDRraFRmUzRSVEdwNmNiQU4zSVQzeVVQMDFyMDlhdWFvNVJGckNCVUNRZ3J3b29uWi1LWkh3Qy1MaHA0ZWVUdjFCbDdxSXZsSVAzMDNMbEIxS2tqOWc2eF9xZFBrOThxZXg2YjVYQ1VlWGx2LXhNUWZCaGF6T05lLVlUYTlMOU5FcVlCT3M5ZDdEUWt2Qmh1Wk9NWkxUZFpCU2Z1NVZVOXVqcTFwN1hOeDN5SFRIZ0pTWWVfUlUwVW9LZlViUWFIYkRQdEVDT2I3bkpFLW1kSklheHdyMFBRalBLTTN3RVY1SEpwNGRMakhUNTA0MTNpcGJhZExwdG1qeFMxN3loc2dwai1tSi0zWmEtMVByUmh0c3p1M3YyZ1ZyS1ltbi1LYkpkUE1mOU0taGFlcWFrR3JTRnRab0lyVWppZmxmOGI1aUJYY3huZE9zb1hMRmh5MTdqTUlUWjlUQTJTSlItMWdZ?oc=5"
+    },
+    {
+      "title": "【9月美股財報前瞻】美光500億營收驗證AI浪潮？甲骨文靠AI反攻決戰OCI增速！好市多會員續約率與電商變現能否撐起45倍以上估值？｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi1AVBVV95cUxNSjVXTnotRlFvcEloUG5Cc1JoZWtDUXUzWDVmZ1pvVTk3OFFZLWFxb3FQeVJWMzdlMklaVG9veGE5NFpGRVFYMmNBLWVSc3FBbkQyQkdjSW0tbzNleGNDTUR3dFo0RXVVcnhSdVh5RmU4eUVWcUpNV0dqS3V4ekY3N3QyWWxWNHVLTjlqWXczU2NRVm44NVZuU1NDVmdUdVJmRFFOSlFnTkhzbEc1Y3Q0STZjOTlfZzJQNEJRanBXaXBObDdBdjdibFdCNy1zSVhWQktIZUN4alNnWkUtcjVEOWRQelU0X2F4cWpLNVRWVGJqVW1zdEw2ekg1MkVFUmYwelEzeHRyOF9pcEstY3VwRGFMVkdYenFsbmhWNjhMcV9Kc3k1b2lpRmswaWhXOWZzWHQyTXhlZUUzWlBmWWhhX2cydFlLeXE1VS1pTk0yV2g4LXVnMjNqVnFlTDhTYUVHeGhFcEVkNnpTaXYxUWduU28wNVdmUWcwenFBUmNGWjYxMkdTU0NNUGprVUtfSFBlM3d0dHF1anBBbE5RN1BMNUFlSjZwSHMtOE4tVTQ5Z3ZRNzlhQ2NISjlEQ19UekZ4WGZMSmFrOHJJa0VVNk5xamZqUzFqbnZQSktGMmdXcDB5d3V4NDJXRW5oOWpOS29JdVJCa3JMUktnaWp1aEgzRHZIWUxlbVZjNHFxclBMeVM4WGx3UzFyZTBqRWRfMWNRS2xBNTFqSktCSWxRakpxX25YdHMySkRGUXFPeElLT1JWajA0Z0wxLUVqdUl6X1Jab2FYYmQ3SWlmT0pYNDZoTGpaQ2s0T0hFMUx6T0k1NWY3bGo5cWhuemgzdzVuOWQyaGNIUFNBUHZQMEU5aW8tMlBvUkRTUHFZd05DU2pzcWxYOXZJa1FtWk9uMlptd2RyY2YwVFZ5cUZubnl4aUNCc1NXc2FjaGR5OUhaMTVBaFBaTzQz?oc=5"
+    },
+    {
+      "title": "黃金牛市還沒走完：瑞銀稱三大結構性力量仍在推高金價 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRXduN3pRZzBXTUpHakFxdy1iY2tjdG1qNE5qcEtuc1l3ZzFyQjd5TkRrT0g1NG9VWVJaNVdoMmVlbzR4Q2FSM0ljdHhhdnNVQmVaNl9PeDNKaV9RWmNMbi1tRGpYQ2E3SnNVdEtiQWdOMUZkWThLbDdXbFg1UjVxU2liZXdFcVZONlE5dmtwSXVqUWxFWkVYbnNYLW1uM0k1?oc=5"
     },
     {
       "title": "〈美股盤後〉川普稱對伊軍事行動不會持續太久 油價漲勢趨緩 三大指數終結連三黑 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWOWN6a3FobDl1MkpQczMzMUtSWWRCcVhzY0JVZUdnV25kdjVWb09fa2pFZGlkTGxuYmVSbXJQZ0ZlR3BGWFp0My1HUk40b1U?oc=5"
     },
     {
-      "title": "美股早盤／油價略為回落...四大指數漲跌互見 戴爾飆12% - udn.com",
+      "title": "【盤前】川普一句話美股全紅！台股今拚終結跌勢 台指夜盤漲171點 - 三立新聞網SETN.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wVU1heXR0TWVVbVFWREU1T01qX3ZxMG1kbkNJdlBfdXVTRk5WYjlCQkFwMWNKbEdxVm1PSjB3andHVVprT2ozWnFwaw?oc=5"
+    },
+    {
+      "title": "美股早盤／油價略為回落...四大指數漲跌互見 戴爾飆12% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrbjZXdUs2QzhORXpXVnIzSDZjaVVGblNGVlBCSGtscXNadzNMVWZRMmdLeXl2X0ZtaUUwY2xTYjN4alFWLVk0Q3hZeXd3aHI2?oc=5"
     },
     {
-      "title": "美股台指期夜盤漲法人：台股觀察美伊局勢外資動向| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBNmE4bDk2SE5Tc1psVEk5SE1TZFRlR1Nlak9FZHFLTGJSLUJaYUNDQVhiRmJKeFpyUmt6RGY3TzFIV0dTLTVuWUNnSjFzNGczamNxSjgtYlQxYm1LWFE?oc=5"
+      "title": "Arthur Hayes：比特幣 2030 年上看 100 萬美元，現階段增量資金首選 ETH - blockcast.it",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdGdtRFJDclpLWHpPQUdmNDdjcUx6d3NTQ01CV1FSUENYWVhuSnlGUkhnVlNSdllWWFBWQ1lXUkhmeEwwS0g5bE5lTkJrTjR1RDU3RWRQMEZueTZyc0RESHZwSU82NUFmZV9NZjRjcWtFY1psdm56Qm02NnFZNXV4V21Wa25IekMzTm1KZktUWk1YakZ1OXhQZENfWkx5dzRlV2JuVmQ0VnlsQmhOaFJ6QzNhd3o2TkNPVEkyLWlVZHJhck9qbjhwNA?oc=5"
     },
     {
-      "title": "快訊／台積電持平至2385　台股漲249點來到46414點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mNnk5aDE5U3lNNlJNMnNLSjNxNmpESDlCTHlRQ2dJTTM1NEUxc0R2UFU4SVU2d24wdzJRQUg4Y1RZRTZwZW8ta05OdVBMUDRlWkHSAVBBVV95cUxOWVA1QWswVXkyWVc2blVnUVl2TXM2dnFudFllV21lU2N6czM2alFhS0VoMzFDd3dxRGtodndqSmgyRllsQi1pS3E4aEhUamozLQ?oc=5"
-    },
-    {
-      "title": "美股狂歡後的冷思考：為何華爾街拋售大型股，和中國搶黃金？ | 謝駒蕥 | 新聞 - Storm.mg",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WRFZhR0JEcVpCSVZUTmltd1FOOTZPMUNmMHk3emFyWU9mam5reEo1dDhZRHlMajNOQzBkZlV6TUtiQnd4dWVNVlJvZ0Y2Zw?oc=5"
-    },
-    {
-      "title": "荷蘭央行因地緣政治動盪 將黃金運離紐約 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNUlQ3czAzZVIwLXZ3WVN2eXlUUHg5WEFnSGhsLU5Vc2FOQ2ZEbXdFNk83ZTVmQkkyQmRkOHljSEZ0dllZdUY0T0VwOVBDc201eTRMYzhZVW83R0xFdVU4NzZpRWYyR2tmVnVIQ3Nhb1R3NWJsbzBWb3VKYWtxdExNTnBCeWkyN2N3bFJ3b2NGc1NCTU55VWsyQVEwLVNvam5kcWw1bnRvZjFSY2FETTNiOFozajN5OXVkWTYxWVJQZmJtNlFxdl9fM1dwQnNldW9YLW5udmlJRU1fNVZfX3FuSUFrMkNBbHhDOXVHQ0d1aGVnek9OaVBfaXUtWFdFUkdKU0REcGdPRDZWb2gxZDFCYlNsTkVSMkZxOUhtQ01NVGN1MFkxcXRuNTB2dVdibktJYkZ2Rw?oc=5"
-    },
-    {
-      "title": "美股重點新聞摘要2026年8月29日 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2YUVfbTRXOGVaOG5veE9sVVRmeXBYYlB6TGE4eTQ5VzNqZEc5NjY3ekxCQ3R4d2FwMlVVZjhUM3MwRGl3N09hU0ZXUQ?oc=5"
+      "title": "台股擁3大關鍵利多　美、台、韓AI金三角搶成長紅利 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94N09ESldMRUVFNVpPSlJrdzgxODh6T2V6MXlkNlI4d0lJd1dCU0J2UTBZRG1QalBfVlJkV3NCbjdPTXFqb2N3TURXb2NoYW54TWfSAVBBVV95cUxQb2FFQTFUUnI0V0o5UXVWRzFGODNlNXdEbU91c1I5LXpqRWlCMDZBWkl3QjVnaTd2bHptbXNqWUJ3bF9vQm94VGkzSDdaaks4NQ?oc=5"
     }
   ]
 }
