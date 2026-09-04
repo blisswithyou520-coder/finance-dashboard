@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/04 09:09",
+  "updated_tw": "09/04 13:53",
   "taiwan": {
     "2330": {
-      "price": 2390.0,
-      "change": 5.0,
-      "changePercent": 0.2096
+      "price": 2410.0,
+      "change": 20.0,
+      "changePercent": 0.8368
     },
     "2454": {
-      "price": 4340.0,
-      "change": 65.0,
-      "changePercent": 1.5205
+      "price": 4415.0,
+      "change": 75.0,
+      "changePercent": 1.7281
     },
     "2317": {
-      "price": 247.5,
-      "change": -3.5,
-      "changePercent": -1.3944
+      "price": 256.0,
+      "change": 8.5,
+      "changePercent": 3.4343
     },
     "0050": {
-      "price": 106.2,
-      "change": -2.25,
-      "changePercent": -2.0747
+      "price": 107.9,
+      "change": 1.1,
+      "changePercent": 1.03
     },
     "00878": {
-      "price": 33.58,
-      "change": -0.18,
-      "changePercent": -0.5332
+      "price": 34.11,
+      "change": 0.46,
+      "changePercent": 1.367
     },
     "00919": {
-      "price": 32.52,
-      "change": 0.21,
-      "changePercent": 0.6499
+      "price": 33.02,
+      "change": 0.67,
+      "changePercent": 2.0711
     }
   },
   "us": {
     "NVDA": {
       "price": 228.45,
-      "change": 11.01,
-      "changePercent": 5.0635
+      "change": 4.04,
+      "changePercent": 1.8003
     },
     "AAPL": {
       "price": 328.21,
-      "change": 3.08,
-      "changePercent": 0.9473
+      "change": 3.25,
+      "changePercent": 1.0001
     },
     "TSLA": {
       "price": 376.365,
-      "change": 20.275,
-      "changePercent": 5.6938
+      "change": 19.355,
+      "changePercent": 5.4214
     },
     "QQQ": {
       "price": 717.67,
-      "change": 10.03,
-      "changePercent": 1.4174
+      "change": 8.43,
+      "changePercent": 1.1886
     },
     "SPY": {
       "price": 773.17,
-      "change": 11.39,
-      "changePercent": 1.4952
+      "change": 8.01,
+      "changePercent": 1.0468
     },
     "SCHD": {
       "price": 35.08,
-      "change": 0.27,
-      "changePercent": 0.7756
+      "change": 0.07,
+      "changePercent": 0.1999
     },
     "VOO": {
       "price": 710.72,
-      "change": 10.44,
-      "changePercent": 1.4908
+      "change": 7.31,
+      "changePercent": 1.0392
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81070.04,
-      "change": 3769.5634,
-      "changePercent": 4.8765
+      "price": 80885.89,
+      "change": 3585.4134,
+      "changePercent": 4.6383
     },
     "ETH": {
-      "price": 2506.45,
-      "change": 114.949,
-      "changePercent": 4.8066
+      "price": 2505.29,
+      "change": 113.789,
+      "changePercent": 4.7581
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.686,
-      "change": -0.0402,
-      "changePercent": -0.1267
+      "price": 31.697,
+      "change": -0.0292,
+      "changePercent": -0.092
     },
     "JPYTWD": {
-      "price": 0.2012,
-      "change": 0.0016,
-      "changePercent": 0.7875
+      "price": 0.2005,
+      "change": 0.0009,
+      "changePercent": 0.4368
     },
     "EURTWD": {
-      "price": 36.893,
-      "change": 0.138,
-      "changePercent": 0.3754
+      "price": 36.895,
+      "change": 0.14,
+      "changePercent": 0.3808
     },
     "CNYTWD": {
-      "price": 4.7236,
+      "price": 4.7265,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4532.2,
-    "twd": 4617.0,
-    "tael": 173141.0,
-    "twdTotal": 143607.0,
-    "changePercent": 3.7996
+    "usd": 4518.9,
+    "twd": 4605.0,
+    "tael": 172692.0,
+    "twdTotal": 143236.0,
+    "changePercent": 0.6056
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "黃金暴漲！最新「目標價」出爐 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5SHBxdU5CS1pDaUExV0c5Q3p5UnpESEVCUkgzcnZZUVM3SWZWaTFYcFhHSkxBOGx0MDJ2dHE1Y3Rzdm51OHR6SnA3Q1k2Z2tnZVdmSFBRXzAwakZwaVgw0gFkQVVfeXFMTW94TS1EcGtfdXhtaG1vVURhOEE0VTlJUWloZ2JaMU5LTzB0TWtGN1hIemtsejZrRllwOGNvS0U5ajVkQXFhcm1ZOTVxT1I0eVJPaXRpUTJ6dXJpODk5ZmhpbWRaMw?oc=5"
+    },
+    {
       "title": "快訊／美股強勢反彈！道瓊狂飆600點 台指期漲500點 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNblRJVlliZk5qVXN6QUlldTZZckNad0Z2dFVEaUszdEFRaExENzFlTVd5YWRvNUdDR000X1M2anlLNG9PR0h1ckV2OU9RVnhsRDg3Mk1FZnFJbk9XSExpZUlITHBhTWk4TUxsMVdKQzQ0T25HZi1tUG03YW96UGtSQkc2aWd6WktFVmFxYXdaNmxobzZGbkp5cnBvZm4yTWNfcUY3N2gxcHlfU1hFd09YVk1yTjB5T2MyRXY3MzBUdkhKTk8tOXNESUNzMjMtc0dzeWxReWlkMld3N3RMN3V4c2EwUmUzaXB5emh2dlZ0NUo0MWdFc2pqZEhaWWNnbXJaeThYMGV1WnlIM0M5OEFqM2NKOHhMbmRaVVpTWXl5YWRjZHl4U28tSEdydldTbmxPSWNkZWhEQQ?oc=5"
     },
     {
-      "title": "〈美股盤後〉華勒釋暫緩升息訊號 美債殖利率回落 三大指數齊漲逾1% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEU25uNk0zeFlNRjRjQVRUWldtU0RjeWk3UDR3RlgxMHFPaTFTQjNXWWVxWGZvZXBuUjU2NUZNNEgxY0hvV3l1YmN3a2VRWmM?oc=5"
-    },
-    {
-      "title": "【9月美股財報前瞻】美光500億營收驗證AI浪潮？甲骨文靠AI反攻決戰OCI增速！好市多估值撐得住嗎？ - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxPZ2xFa0pVX2IxTXVWdk9EQWtUUlN0S19MREw3TTBwZlBhbUlIM2xUSnVKaEhPWXMxanU3dW9pMVNoa3BaYUlJNU9zdmIxeVVzQnZLLXBXVnc4RTVSRjlSUWxLLTd2NmxQV1N5ZVZreldCUWFVd1p4eHNEZDVzbENKeXJUbGtYdkxOeS1zWTF1S21CSzVpaDFpbU1UdGlsTE1iMFI2LWZqdUZWQWpBZ2JUYzdlVVFhaDdfaDZobkJnZmI1ZHNFbVdUU2Z1WjdyN2NibHpxZVJ2cmdWMXBXd3ZSclhDWWxXVDhiamhWdlJEVlNpLW1DM2dUWVlVSG9CS2hJcnNEQWs1TFhpU3VOQlRSeHVqdWpsM21NcnZ0SGRkYWFOOUZjeURYQ2hpbEVrWTFHZTh5LTFwTzBVd1M2QXMyTDVUTDJsRjAxeGJJbXg3eVE5am84NEJKdDhxLWhMR3NSRWZVTk8yMW1Bb2txRk5ONUl6OGViVVJKLW9Lb0hyeERYSkd0M2ozUXpoXzVXd2xQN2V1RVZMTGlRazhualNvdUJzOElfMzNKVjNORXVqWmZzWEpZV3BjekZJb2JzZExLM0NxZElNU0tpME9TckxGSGlDM1JVYURON013VGY2VGd1MG40ejI2T2dWUWRVckRoWHNKelk0Y2xMUExPN0sxNFpYMk9jQ21VejUtU3dXZy01MXhHanIyUWJqcS1ydDJWQzBYeWNEYmVZa1lhWXYyU2VHajVydw?oc=5"
+      "title": "法興銀行：黃金重新看漲的時候到了，回調數月後吸引力重現 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMFhNRk5fRlRxei1MMGp2c1hoVWhMdm8zTjRzRTVhUkNvMzZLZkYtcFVsVWFYRjZ3TVRjbVU5MXRWMG1BcUxJclE3em1hTXc1N0FROWFUU0xFSTNYYjltbl8zSzE0OEM1YTFWQWx5RU53WWJhb19RYWhiWjlHbnkwME5sbzVYRHFKV2gyVVZpdHQ2VlU3ZXJWdEd2dDBHUE4x?oc=5"
     },
     {
       "title": "美股早盤／Fed升息預期下降 道瓊漲400點、台積電ADR跌1% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DUVRVb2JWMFl0UERSLVh0OHNtRXZnMndkMVRpbG95UnZONkFvbmxCdmZqMGl2ZFZrQ2p4dDQ0NmxvOXNHYU9ibGdLeldtZWRG?oc=5"
     },
     {
+      "title": "〈美股盤後〉華勒釋暫緩升息訊號 美債殖利率回落 三大指數齊漲逾1% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEU25uNk0zeFlNRjRjQVRUWldtU0RjeWk3UDR3RlgxMHFPaTFTQjNXWWVxWGZvZXBuUjU2NUZNNEgxY0hvV3l1YmN3a2VRWmM?oc=5"
+    },
+    {
+      "title": "美股法說 LULU｜Lululemon 財報盈餘大贏預期，盤後卻崩跌 18%，儒鴻、聚陽等台灣供應鏈影響(LULU US) - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPdUpldFJfbjd3Rk9Va2psNGVCdjM3LVV0bDB2OE1nX2pzVVlTaEJFZTFCQW04c3VQbGZJWnZ1eUFsd0tVTkJ1Q3RrMlQzYl9kdk8ycGxBQ0VBaUVJMVBHaGU2RXVCcnFJR2J1MXh1SnhfaTVwMlcwM09JZlFxOVJRbUhuQ3NrM0Q4Qm5GQTFDTWRPV3JpOTZtX1RLLUM4MmV5MjBXTjVvTEZuTi13Q3VkSTBXSmFxZnNkcm9TQXFfZmV5VUVDSHVwZmZsUm1YSlRDbG9yZ1hMaFZmTDFwWjVNcjBGUnEzZ0JESVR2Q3VEbUo3MEs4MElnbWphNFZZY1dSNlhyR09qaXVaZXN3VFNQdHNxTlRaTXJMTTBfSVZRdmFheklCbXVqcTdQTldaWTV3VG1CNGt3VkJScVlFMzlfQjRTbklLUS1mNWRqX19UUzhPSjJsREl1bk9Pc3NyRjdhV045X0EzRzZLV3ZjbVZKczgzaXZfeWNnSnJiazZ4UEFxV1R6Y19mdDZXQlBLeVRObXNHaHR5cmhnMUNXeDJPUjJ2cU5YQjdscDFDV2gyNkpmYzFkZkw4M29zSHd1RHdnWVM5eFJVdng3V1B1QWtoYWFIdzVqeXl3V0E4N2tkcG5xR3N2cl9HeW5QcDM0TXhPYnJjWWY5WHdOVzlES005WlBfcw?oc=5"
+    },
+    {
       "title": "《美股》升息憂慮略緩比特幣概念/特斯拉/輝達嗨- 新聞 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0VwZHJFZEJpZWppbU5WOHB0OXN0YVVUMm9HZXhLNnZjQ2k3aGpCM3hBT0JiSy05QnlVWG5JU3RCek5XWnhfcTM2TFNXYmZaNGgtcDRHYXd3MDNMb3VTVng3endBOWEtZVhZTTVsZUF1clVxVTFLb1BqbWxqRjN0X0hEemc1MGNRLTV1LW5kQ1pzZw?oc=5"
     },
     {
-      "title": "美股收高台積電ADR小漲投顧：AI訂單兌現台股韌性強| 證券 - 中央社 CNA",
+      "title": "美股收高台積電ADR小漲投顧：AI訂單兌現台股韌性強| 證券 - cna.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sZHA0SWY1Vmp3cE9TcFcyUW52akRnQ3RlQ1BhZjZNMmFCa21oRmx4aEYtSVhkdmdVLTRqQjlrQnQ0UHJJb2RPYmI4QWpkQkVYbkpSWW5qTEg1T3FoY2c?oc=5"
-    },
-    {
-      "title": "Fed理事華勒一句！美股4大指數收紅 道瓊漲624點、那指漲366點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQUVMzU0xEMEs4ZmtxNzhHWVRSTnlQRG83cUpvMjJYN1k3SUw1R29pUEJ3RUctTHJaNWwxQXBmck1VZVpyNlZoYXNTMXR5S2liQVEwZzZWbmd6VDhEMkJBWThTZ3g2RUoxNFZoeGhrVVkwOE0xbHIxNk1EY2Eyck4tN3Z6VTZnc0tNaDFJa1htajNuclBZcUw2MUFPMGlVWndXblZNb21tbEhKUVVhX2I4Z3NqUXJsM0E3TzNENG1OSkF6OThsSFhtcG1QdlhMMzV6M080VnB6Nm5lLXFGaTNjSE1xYnhYdmExSFdpU0RyQ3YtZDd1cU1NdzJfdlVSRDlsNXdES3Q0NkZJWjA5TVc1N1dtRm5LSEgtNVN6VmozZUxoUXdtdWVoeGE3cjhDMjlsQTNtcnpnd0NfTk9zWDRkZEtuUHZMd2tnUktyM3VVM282eXJvU2c?oc=5"
-    },
-    {
-      "title": "〈美股早盤〉Fed理事華勒釋出耐心訊號！主要指數開高、美債殖利率回落 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xb3RkaDY0YXg2MHJGb2w2TWtETXdCWEF5Vk4wZjBGT0RxRVp1aXRZbm5yMGJkcDRzUzU4TG1vUHZZRG4waGpKWmVKdXJ1TEU?oc=5"
     }
   ]
 }
