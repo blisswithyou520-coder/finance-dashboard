@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/04 07:24",
+  "updated_tw": "09/04 09:09",
   "taiwan": {
     "2330": {
       "price": 2390.0,
@@ -36,80 +36,80 @@
   "us": {
     "NVDA": {
       "price": 228.45,
-      "change": 4.04,
-      "changePercent": 1.8003
+      "change": 11.01,
+      "changePercent": 5.0635
     },
     "AAPL": {
       "price": 328.21,
-      "change": 3.25,
-      "changePercent": 1.0001
+      "change": 3.08,
+      "changePercent": 0.9473
     },
     "TSLA": {
       "price": 376.365,
-      "change": 19.355,
-      "changePercent": 5.4214
+      "change": 20.275,
+      "changePercent": 5.6938
     },
     "QQQ": {
       "price": 717.67,
-      "change": 8.43,
-      "changePercent": 1.1886
+      "change": 10.03,
+      "changePercent": 1.4174
     },
     "SPY": {
       "price": 773.17,
-      "change": 8.01,
-      "changePercent": 1.0468
+      "change": 11.39,
+      "changePercent": 1.4952
     },
     "SCHD": {
       "price": 35.08,
-      "change": 0.07,
-      "changePercent": 0.1999
+      "change": 0.27,
+      "changePercent": 0.7756
     },
     "VOO": {
       "price": 710.72,
-      "change": 7.31,
-      "changePercent": 1.0392
+      "change": 10.44,
+      "changePercent": 1.4908
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81185.13,
-      "change": 3884.6534,
-      "changePercent": 5.0254
+      "price": 81070.04,
+      "change": 3769.5634,
+      "changePercent": 4.8765
     },
     "ETH": {
-      "price": 2496.73,
-      "change": 105.229,
-      "changePercent": 4.4001
+      "price": 2506.45,
+      "change": 114.949,
+      "changePercent": 4.8066
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.713,
-      "change": -0.0132,
-      "changePercent": -0.0416
+      "price": 31.686,
+      "change": -0.0402,
+      "changePercent": -0.1267
     },
     "JPYTWD": {
-      "price": 0.2011,
-      "change": 0.0015,
-      "changePercent": 0.7374
+      "price": 0.2012,
+      "change": 0.0016,
+      "changePercent": 0.7875
     },
     "EURTWD": {
-      "price": 36.912,
-      "change": 0.157,
-      "changePercent": 0.4271
+      "price": 36.893,
+      "change": 0.138,
+      "changePercent": 0.3754
     },
     "CNYTWD": {
-      "price": 4.7234,
+      "price": 4.7236,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4521.4,
-    "twd": 4610.0,
-    "tael": 172875.0,
-    "twdTotal": 143387.0,
-    "changePercent": 3.5522
+    "usd": 4532.2,
+    "twd": 4617.0,
+    "tael": 173141.0,
+    "twdTotal": 143607.0,
+    "changePercent": 3.7996
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DUVRVb2JWMFl0UERSLVh0OHNtRXZnMndkMVRpbG95UnZONkFvbmxCdmZqMGl2ZFZrQ2p4dDQ0NmxvOXNHYU9ibGdLeldtZWRG?oc=5"
     },
     {
-      "title": "《美股》升息憂慮略緩 比特幣概念/特斯拉/輝達嗨-新聞內容-基金 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeG9ZaTdxQUhJci1fWVo4V3V4c3VKVERDcFdNR1RxSzY0SXhiN1R1YVY5YXE1RkJGRmVuRFNOVjlvRURVSVNYX3d2MTE2WGo5SFVtLWdpSHVXUzVaVTNqc2lqZDRDRllKUXp2QXFkLVlEOTR1alc1YTh2VjFUd2NzcU80ZzVfcC1iMjRiSHA2bTE?oc=5"
+      "title": "《美股》升息憂慮略緩比特幣概念/特斯拉/輝達嗨- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0VwZHJFZEJpZWppbU5WOHB0OXN0YVVUMm9HZXhLNnZjQ2k3aGpCM3hBT0JiSy05QnlVWG5JU3RCek5XWnhfcTM2TFNXYmZaNGgtcDRHYXd3MDNMb3VTVng3endBOWEtZVhZTTVsZUF1clVxVTFLb1BqbWxqRjN0X0hEemc1MGNRLTV1LW5kQ1pzZw?oc=5"
     },
     {
-      "title": "金十數據全球財經早餐 | 2026年9月4日 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUkzRl9nNWFENHVDanRXcGRER0dPbzBQX3ROWXpXOEVVX2FKZGJMbDBWVHNLbURGLWtJUHRJNF8tSTRmNHU4VV9RY3I1Ui1FUGdvWm9IWWlWdjFCSHhZUEdoa1ZXUlpONEVaUXRLMEpkcHBfQXFTdEp1YmtTeUwybWhZNFFKZXRWSlBkMmVxQW4xem0tZ19Vam8zMFNmZEhq?oc=5"
-    },
-    {
-      "title": "黃金還能上車嗎？低點強彈後 未來「關鍵」專家全說了 - ec.ltn.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12a1lyU09pM3Z4TXFIeTBtS3NpUGYyOTdxV1RQVFpMb2JXdUoxbzR2clZtVmp5N2tTaFpVeG5YcGZLRmN1QzFjU3hja2lPQm9OUFpSM3NDOXpNTEZQOXpR0gFkQVVfeXFMTjc4dUVoM2tlRDhKZ3lDM29QZnhJUnhBczBKVVR6U3JrTUdTTEdueXZCNkNNMzRNQ2IwaWtERHotSVFCVUZ2ZF9jU1RHSXU5Z1pUNWhFejlPa3RKaTJnT3lCS3R2Mg?oc=5"
+      "title": "美股收高台積電ADR小漲投顧：AI訂單兌現台股韌性強| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sZHA0SWY1Vmp3cE9TcFcyUW52akRnQ3RlQ1BhZjZNMmFCa21oRmx4aEYtSVhkdmdVLTRqQjlrQnQ0UHJJb2RPYmI4QWpkQkVYbkpSWW5qTEg1T3FoY2c?oc=5"
     },
     {
       "title": "Fed理事華勒一句！美股4大指數收紅 道瓊漲624點、那指漲366點 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQUVMzU0xEMEs4ZmtxNzhHWVRSTnlQRG83cUpvMjJYN1k3SUw1R29pUEJ3RUctTHJaNWwxQXBmck1VZVpyNlZoYXNTMXR5S2liQVEwZzZWbmd6VDhEMkJBWThTZ3g2RUoxNFZoeGhrVVkwOE0xbHIxNk1EY2Eyck4tN3Z6VTZnc0tNaDFJa1htajNuclBZcUw2MUFPMGlVWndXblZNb21tbEhKUVVhX2I4Z3NqUXJsM0E3TzNENG1OSkF6OThsSFhtcG1QdlhMMzV6M080VnB6Nm5lLXFGaTNjSE1xYnhYdmExSFdpU0RyQ3YtZDd1cU1NdzJfdlVSRDlsNXdES3Q0NkZJWjA5TVc1N1dtRm5LSEgtNVN6VmozZUxoUXdtdWVoeGE3cjhDMjlsQTNtcnpnd0NfTk9zWDRkZEtuUHZMd2tnUktyM3VVM282eXJvU2c?oc=5"
+    },
+    {
+      "title": "〈美股早盤〉Fed理事華勒釋出耐心訊號！主要指數開高、美債殖利率回落 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xb3RkaDY0YXg2MHJGb2w2TWtETXdCWEF5Vk4wZjBGT0RxRVp1aXRZbm5yMGJkcDRzUzU4TG1vUHZZRG4waGpKWmVKdXJ1TEU?oc=5"
     }
   ]
 }
