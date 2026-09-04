@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/05 01:48",
+  "updated_tw": "09/05 04:18",
   "taiwan": {
     "2330": {
       "price": 2410.0,
-      "change": 25.0,
-      "changePercent": 1.0482
+      "change": 20.0,
+      "changePercent": 0.8368
     },
     "2454": {
       "price": 4415.0,
-      "change": 140.0,
-      "changePercent": 3.2749
+      "change": 75.0,
+      "changePercent": 1.7281
     },
     "2317": {
       "price": 256.0,
-      "change": 5.0,
-      "changePercent": 1.992
+      "change": 8.5,
+      "changePercent": 3.4343
     },
     "0050": {
       "price": 107.9,
@@ -35,91 +35,87 @@
   },
   "us": {
     "NVDA": {
-      "price": 230.32,
-      "change": 1.87,
-      "changePercent": 0.8186
+      "price": 230.36,
+      "change": 1.91,
+      "changePercent": 0.8361
     },
     "AAPL": {
-      "price": 321.105,
-      "change": -7.105,
-      "changePercent": -2.1648
+      "price": 319.97,
+      "change": -8.24,
+      "changePercent": -2.5106
     },
     "TSLA": {
-      "price": 352.128,
-      "change": -24.242,
-      "changePercent": -6.441
+      "price": 354.08,
+      "change": -22.29,
+      "changePercent": -5.9224
     },
     "QQQ": {
-      "price": 716.94,
-      "change": -0.73,
-      "changePercent": -0.1017
+      "price": 718.96,
+      "change": 1.29,
+      "changePercent": 0.1798
     },
     "SPY": {
-      "price": 769.35,
-      "change": -3.82,
-      "changePercent": -0.4941
+      "price": 770.19,
+      "change": -2.98,
+      "changePercent": -0.3854
     },
     "SCHD": {
-      "price": 34.855,
-      "change": -0.225,
-      "changePercent": -0.6414
+      "price": 34.8,
+      "change": -0.28,
+      "changePercent": -0.7982
     },
     "VOO": {
-      "price": 707.265,
-      "change": -3.455,
-      "changePercent": -0.4861
+      "price": 708.05,
+      "change": -2.67,
+      "changePercent": -0.3757
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79490.01,
-      "change": -1781.7322,
-      "changePercent": -2.1923
+      "price": 79826.0,
+      "change": -1445.7422,
+      "changePercent": -1.7789
     },
     "ETH": {
-      "price": 2446.64,
-      "change": -61.3808,
-      "changePercent": -2.4474
+      "price": 2453.61,
+      "change": -54.4108,
+      "changePercent": -2.1695
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.601,
-      "change": -0.1252,
-      "changePercent": -0.3946
+      "price": 31.611,
+      "change": -0.0844,
+      "changePercent": -0.2663
     },
     "JPYTWD": {
-      "price": 0.2003,
-      "change": 0.0007,
-      "changePercent": 0.3366
+      "price": 0.2,
+      "change": -0.0036,
+      "changePercent": -1.7711
     },
     "EURTWD": {
-      "price": 36.745,
-      "change": -0.01,
-      "changePercent": -0.0273
+      "price": 36.744,
+      "change": -0.1115,
+      "changePercent": -0.3027
     },
     "CNYTWD": {
-      "price": 4.7161,
+      "price": 4.7156,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4471.9,
-    "twd": 4543.0,
-    "tael": 170379.0,
-    "twdTotal": 141317.0,
-    "changePercent": -0.4408
+    "usd": 4478.7,
+    "twd": 4552.0,
+    "tael": 170692.0,
+    "twdTotal": 141576.0,
+    "changePercent": -0.2894
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
-    {
-      "title": "非農就業炸裂，美股下挫，升息升定了？4大問題一次看 - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tTGxIU1JCS05uYjlDV09KaXVQalJZZ1ZaMkhOU3JNSXE5UFFHSzFYUXVHaEtYTkJiSThJXzRERzBZOXQ5ZU5qRUFQaURKZw?oc=5"
-    },
     {
       "title": "美股早盤／非農就業超強但科技股沒在怕 費半揚升近3%、台積電ADR漲2% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFXzF0TEprcmU5NzliS1NaaFg5TzM3dHR6eEFiVFoxaUxkeXhaQk1sQVFGbm5UZzB0ZGlPT1RMZXBQemNRSlM2MWJ0bHJDU09o?oc=5"
@@ -137,7 +133,7 @@
       "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQUzlEMWdidENqYVdieWtvdVlPYWVSNTFKeGYwUXM1b2hjbnRfeHV5RlR3YW1ucHBCaFRWYi1DdTRvMkV1eTQ5ODlacHNZbjcyU2pDblQtWDRFQU1YV0liVnhNS2pWdjFKOGJ2YUtoSGRhYThTVVlXN2FmZjFNZW96TGJFeExtMkZHWGVaRUZKeFRuTnpobmxYU24zSGxSdjlES3lLcDNlVGhyS0hia0Z2SUxGMFY1dlpCZnBQVWp4THBoTUlYSVlVMzF5bWNpdUx3U2U3QjgwTkFDTUptMGdQWExBYzYzdVBYLVlmcXVRcGZxTjBVWTZGcXFDWFZ5T2p1Q0ZsZGRaNmJJeko5LVp5QS13MEozbk1yXzFnUGJUd1p5QzZfX0I4blBKZGpSb3k4S1hQVUgwT3hPODBGR2JjbTNicFJFbHdWaktiNVlNOGpMUUxzcW1TMU1Ddzk5VDBndXZnZ00xXzJ2bV93V00zc3VwNkhRWFpaVzFiWURVb0IwU2VjcnhKN0otRnNIU0NLdmpVQjMya2RITEVCdjhCamdQUXBaaERLMUd6UmVhdVBZRHQ5WnBVUDdmM0p6ZzlscUQ0eWxOd0k0TnM?oc=5"
     },
     {
-      "title": "黃金暴漲！最新「目標價」出爐 - ec.ltn.com.tw",
+      "title": "黃金暴漲！最新「目標價」出爐 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5SHBxdU5CS1pDaUExV0c5Q3p5UnpESEVCUkgzcnZZUVM3SWZWaTFYcFhHSkxBOGx0MDJ2dHE1Y3Rzdm51OHR6SnA3Q1k2Z2tnZVdmSFBRXzAwakZwaVgw0gFkQVVfeXFMTW94TS1EcGtfdXhtaG1vVURhOEE0VTlJUWloZ2JaMU5LTzB0TWtGN1hIemtsejZrRllwOGNvS0U5ajVkQXFhcm1ZOTVxT1I0eVJPaXRpUTJ6dXJpODk5ZmhpbWRaMw?oc=5"
     },
     {
@@ -145,8 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUt2U09HMUhnMnJyc1hVTkR4TUt5QVM5NGFtei1fU0RJd0gxRGZFeVZuNkdJMWhCak5UNUlxYk1UdFR5OFpTQ1lldGh3bEU3MHVOMWY2UjZYbXo0LWZRZnh6eVF3UENBTnZRN3FhdjFKVks0WEstbHJCUnlic19BcEhXTm4tUUhlYTI5bzNKZVVyZ1hMQVdXNlN2SkdlWk9i?oc=5"
     },
     {
-      "title": "【0904台股盤後】加權指數漲693 點收46,551 點！三大法人買超629 億元終結連2 賣，被動元件與散熱多檔漲停，「動能排行」: 永擎、倉和、光環｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMizgVBVV95cUxOcnRKaWV0Wlh3QmUwbDhfQkM1N1Z2QldfTjFhQU9ZY2VzbURqRnJLMDBLOXBxX2JfSjRzeTlqWkUwX2VrSC00YmpXc21sWkpBVUNFZEtDZTNCbUt2alFLTTVqb1VKYy1kYmt3VVdMZVdkbFYtSkl1Y1U4bk9wTHNyTjNYWENpTENvWDl0ZmQyUmFnS1NZVC1udHl5S3RRMzc2UGpWZGRLOFVRLVVVOXQwRlFKM2dTYmpULWxkVGVjTWllRF9CLXpnem1sbnZTclVTLXRFbEdOdERoOGo2Snd0UzhKTVJLWFVaUm9Xc090M0lINVljbnVscm4zeDMtYU1rT3NteEdjOG9EbDdJMmtxbV9oTXVsMmFLaFZiVWpQYlYtbndVZDdSRUJvMk5NSFZWOFFJMHpNd0ZPM1drWHN5VUh4UEZwaUVSRUFGQkZMRWZ2VWFzQm9vaHNobXJmUXYtOUlES0VoUzE4SEdtVGpVMjhNMUxRX1g1dlhmbURMMVBYcmQ5SndOeVZ5MFo2NVdSZHltbGFJQ0VRSXZfZjhXNzNXQ0c1ODNhZUdORGlvOHoyRzBSRjd2WThadG5sbVU2cE9TeU1RTVprTXVMSTBIT2prWWZLZVljWVF0VktYd1NmRHF5TjhMTmZuQ1lOUm03NnBRZjFrVkJaeThKc0xEdnp4U2ZkUVFROXItSjVtdVdCSXVqQXY1R3hVZDc3Nm9iMXBlOElHWkVFc00yODU5YWtFMGtMVWNJVVk3U3NZZkZLSlJrc1YzY0xxSnNMRkNDZU5XaW5RWXpqMVhVcUV0eFB3WXptQjhRd0N4TFlkdk1GWHVsNkVTZkhtQnFZcHNvNVh1RWtXMW9OZ2R2VmVwLWVpalNBNVppdXZqVW44bWluZW5kbnBScUN5R0V3R1AzYlBYMTBCZWlyZ0F5akNBOTZscmFJRFVRNVh3LXdn?oc=5"
+      "title": "非農就業數據引爆美股９月行情？聯準會還升息嗎？｜豐雲學堂 2026 年 09 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQY21HUGhfR2ZLMXZxbFRKTEhFZXdZOFNRbWdtc1o0d0l4WGxxYWJxR0NqOXRkbjhsQUROZnEyYnlZbDZOUC1fOUVwa3IxVUV3bEhVLVlpUjg1Y3YtdGhEMEFFMmNLalByWEg0VGZmWTBxSVRCMHlzdDdEWF9pUVg0b2xicnM0RXR3MVljdUZVR0RfczVnbl9jNXF5YV80OXNQWF9lYndnYUJVZ3VpaXJQN1QtclNmOGpZODFSZ3I5RW9ZOWs3ZlpiSERrYjgxaTY0N3drbnYyYW45eGxETm5aTDI2Q3czNnQ4dzZlWTlIZGlhU19zSzZ3SGtLY1VOcFNHQllBS1BBMTJUbkVyTjktNEZTbHVGa2puSDFvXzVTY1Q3OEtEZ05hdjE2cFJDMVZlYlZSQXN6WFI3VFRVTFpHc19HcUlXWl9hazVBVV96R2FueTlWdmgwZTdabHpwSGNRdDFVcGJYODl4RHV5bTVrRDJyUllPbi1xemRCLVM0Tm1XQUU?oc=5"
+    },
+    {
+      "title": "比特幣多頭夢醒？非農強勁引爆Fed升息警報 才站回8萬美元又被打下來 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12MXVXWDJBY19IMDB5ZHI3LXhZM2YzWHRiWVFHMS1wVlpKNi11ckxDVE9WMXZUNFdNRVg4dlk5dDZiTDYwUWZ1OHlQSmxVa28?oc=5"
     }
   ]
 }
