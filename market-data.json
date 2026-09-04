@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/04 22:32",
+  "updated_tw": "09/05 01:48",
   "taiwan": {
     "2330": {
       "price": 2410.0,
-      "change": 20.0,
-      "changePercent": 0.8368
+      "change": 25.0,
+      "changePercent": 1.0482
     },
     "2454": {
       "price": 4415.0,
-      "change": 75.0,
-      "changePercent": 1.7281
+      "change": 140.0,
+      "changePercent": 3.2749
     },
     "2317": {
       "price": 256.0,
-      "change": 8.5,
-      "changePercent": 3.4343
+      "change": 5.0,
+      "changePercent": 1.992
     },
     "0050": {
       "price": 107.9,
-      "change": 1.1,
-      "changePercent": 1.03
+      "change": -0.55,
+      "changePercent": -0.5071
     },
     "00878": {
       "price": 34.11,
-      "change": 0.46,
-      "changePercent": 1.367
+      "change": 0.35,
+      "changePercent": 1.0367
     },
     "00919": {
       "price": 33.02,
-      "change": 0.67,
-      "changePercent": 2.0711
+      "change": 0.71,
+      "changePercent": 2.1975
     }
   },
   "us": {
     "NVDA": {
-      "price": 233.73,
-      "change": 5.28,
-      "changePercent": 2.3112
+      "price": 230.32,
+      "change": 1.87,
+      "changePercent": 0.8186
     },
     "AAPL": {
-      "price": 320.87,
-      "change": -7.34,
-      "changePercent": -2.2364
+      "price": 321.105,
+      "change": -7.105,
+      "changePercent": -2.1648
     },
     "TSLA": {
-      "price": 354.19,
-      "change": -22.18,
-      "changePercent": -5.8931
+      "price": 352.128,
+      "change": -24.242,
+      "changePercent": -6.441
     },
     "QQQ": {
-      "price": 719.01,
-      "change": 1.34,
-      "changePercent": 0.1867
+      "price": 716.94,
+      "change": -0.73,
+      "changePercent": -0.1017
     },
     "SPY": {
-      "price": 770.95,
-      "change": -2.22,
-      "changePercent": -0.2871
+      "price": 769.35,
+      "change": -3.82,
+      "changePercent": -0.4941
     },
     "SCHD": {
-      "price": 34.895,
-      "change": -0.185,
-      "changePercent": -0.5274
+      "price": 34.855,
+      "change": -0.225,
+      "changePercent": -0.6414
     },
     "VOO": {
-      "price": 708.705,
-      "change": -2.015,
-      "changePercent": -0.2835
+      "price": 707.265,
+      "change": -3.455,
+      "changePercent": -0.4861
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79349.15,
-      "change": -1922.5922,
-      "changePercent": -2.3656
+      "price": 79490.01,
+      "change": -1781.7322,
+      "changePercent": -2.1923
     },
     "ETH": {
-      "price": 2453.4,
-      "change": -54.6208,
-      "changePercent": -2.1778
+      "price": 2446.64,
+      "change": -61.3808,
+      "changePercent": -2.4474
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.613,
-      "change": -0.1132,
-      "changePercent": -0.3568
+      "price": 31.601,
+      "change": -0.1252,
+      "changePercent": -0.3946
     },
     "JPYTWD": {
-      "price": 0.2005,
-      "change": 0.0009,
-      "changePercent": 0.4368
+      "price": 0.2003,
+      "change": 0.0007,
+      "changePercent": 0.3366
     },
     "EURTWD": {
-      "price": 36.774,
-      "change": 0.019,
-      "changePercent": 0.0516
+      "price": 36.745,
+      "change": -0.01,
+      "changePercent": -0.0273
     },
     "CNYTWD": {
-      "price": 4.7156,
+      "price": 4.7161,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4478.0,
-    "twd": 4551.0,
-    "tael": 170676.0,
-    "twdTotal": 141563.0,
-    "changePercent": -0.305
+    "usd": 4471.9,
+    "twd": 4543.0,
+    "tael": 170379.0,
+    "twdTotal": 141317.0,
+    "changePercent": -0.4408
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "【美股盤前0904】今晚非農數據來襲！華勒談話緩解市場對升息預期，美債殖利率回落，三大指數漲幅均逾1% - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxPTUdaSmljNnZ3YTZqbFVHazZPWmZ0R2czOHpYVmh3WG9MOWNQQTFIQ1h5eUUxSjU3T0sxbGJneGhiNmg3MF81TDFNSk9fWVJaMHZ5TnloSjVJLWhlSzd6MmVSbTc4YkUxMUF0VW9GNjRheHRURHR5QVAyVUV2NFhkWG9IVHRpOElSY0s2UzVVTVhFVm5HNVhDZTFCd284eWhlRE9KcG8td2Y3dnFoYldDTVhZTUxBUE1IR0o2Rll5NUFpdS1kNVFwYlYxbFpSQXZmckNFeWU2ZVB5VFZkMDZGODk1XzVhaDI5cXZ1emdCOVh3STd4cU1rZHdWSndCaGRacUs3b0piYngxb3Jackh0aVowaVZZWXNBeGo1Slh3WFlOYU5UN21uSU94RURSRUJuOWt1Rm1ydkxtdUt1MGgxSk5sdlphbGhnQ1lWWXJENlNnakJmY2h2OVhZRnJkZi1ET2k2UnhubzRMbk1lRDhaZHB1d1l3UUg2em9kQVVCZ3d4MnVTMTJyYjJNSE9yYjdEVTdqOERSYmhQY04tRGRnMGlYbVMwQlBqZG9jR05YeU5kMWxtc09nT2hidkstWkE2Q2xJWEQxS0ZCd3l4X19XTGxLdEx6VmZjMzhsa1hRQWk4bmZXb1FTRXFzMy1hVHdIZEU2d2pDVGRnYmJmVEx4a01SNVNCR1h2aWVzM1kxdld3T3RPUFk5RnJCdld5b1J5UUpHSURKRHdlUm9PcHZqLVhESU5EeHNSSjVQTUVVR3Z0QWNQeW5NM24yTTVCaTZCcUV0ZXVRUDk5VVJJLVMzcXZrSlM1STNCLTF6blFCOWNmSHM?oc=5"
+      "title": "非農就業炸裂，美股下挫，升息升定了？4大問題一次看 - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tTGxIU1JCS05uYjlDV09KaXVQalJZZ1ZaMkhOU3JNSXE5UFFHSzFYUXVHaEtYTkJiSThJXzRERzBZOXQ5ZU5qRUFQaURKZw?oc=5"
     },
     {
       "title": "美股早盤／非農就業超強但科技股沒在怕 費半揚升近3%、台積電ADR漲2% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFXzF0TEprcmU5NzliS1NaaFg5TzM3dHR6eEFiVFoxaUxkeXhaQk1sQVFGbm5UZzB0ZGlPT1RMZXBQemNRSlM2MWJ0bHJDU09o?oc=5"
     },
     {
-      "title": "黃金暴漲！最新「目標價」出爐 - 自由財經",
+      "title": "〈美股早盤〉非農太強推升Fed升息預期 主要指數漲跌互現 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jNVlGdzIwNndWMEg2TXhCc2FYeVp0YlVIOFZfb2VpQTV1c3lxaW9sVkhScHVGTXRUV2hsM2dhMFBCMzF3X2RKVFlBcW9NRHc?oc=5"
+    },
+    {
+      "title": "【美股盤前0904】今晚非農數據來襲！華勒談話緩解市場對升息預期，美債殖利率回落，三大指數漲幅均逾1% - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxPTUdaSmljNnZ3YTZqbFVHazZPWmZ0R2czOHpYVmh3WG9MOWNQQTFIQ1h5eUUxSjU3T0sxbGJneGhiNmg3MF81TDFNSk9fWVJaMHZ5TnloSjVJLWhlSzd6MmVSbTc4YkUxMUF0VW9GNjRheHRURHR5QVAyVUV2NFhkWG9IVHRpOElSY0s2UzVVTVhFVm5HNVhDZTFCd284eWhlRE9KcG8td2Y3dnFoYldDTVhZTUxBUE1IR0o2Rll5NUFpdS1kNVFwYlYxbFpSQXZmckNFeWU2ZVB5VFZkMDZGODk1XzVhaDI5cXZ1emdCOVh3STd4cU1rZHdWSndCaGRacUs3b0piYngxb3Jackh0aVowaVZZWXNBeGo1Slh3WFlOYU5UN21uSU94RURSRUJuOWt1Rm1ydkxtdUt1MGgxSk5sdlphbGhnQ1lWWXJENlNnakJmY2h2OVhZRnJkZi1ET2k2UnhubzRMbk1lRDhaZHB1d1l3UUg2em9kQVVCZ3d4MnVTMTJyYjJNSE9yYjdEVTdqOERSYmhQY04tRGRnMGlYbVMwQlBqZG9jR05YeU5kMWxtc09nT2hidkstWkE2Q2xJWEQxS0ZCd3l4X19XTGxLdEx6VmZjMzhsa1hRQWk4bmZXb1FTRXFzMy1hVHdIZEU2d2pDVGRnYmJmVEx4a01SNVNCR1h2aWVzM1kxdld3T3RPUFk5RnJCdld5b1J5UUpHSURKRHdlUm9PcHZqLVhESU5EeHNSSjVQTUVVR3Z0QWNQeW5NM24yTTVCaTZCcUV0ZXVRUDk5VVJJLVMzcXZrSlM1STNCLTF6blFCOWNmSHM?oc=5"
+    },
+    {
+      "title": "台股強彈收復5日線 日KD高檔背離風險未解? 股票不賣飛! 三大停利策略教學 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQUzlEMWdidENqYVdieWtvdVlPYWVSNTFKeGYwUXM1b2hjbnRfeHV5RlR3YW1ucHBCaFRWYi1DdTRvMkV1eTQ5ODlacHNZbjcyU2pDblQtWDRFQU1YV0liVnhNS2pWdjFKOGJ2YUtoSGRhYThTVVlXN2FmZjFNZW96TGJFeExtMkZHWGVaRUZKeFRuTnpobmxYU24zSGxSdjlES3lLcDNlVGhyS0hia0Z2SUxGMFY1dlpCZnBQVWp4THBoTUlYSVlVMzF5bWNpdUx3U2U3QjgwTkFDTUptMGdQWExBYzYzdVBYLVlmcXVRcGZxTjBVWTZGcXFDWFZ5T2p1Q0ZsZGRaNmJJeko5LVp5QS13MEozbk1yXzFnUGJUd1p5QzZfX0I4blBKZGpSb3k4S1hQVUgwT3hPODBGR2JjbTNicFJFbHdWaktiNVlNOGpMUUxzcW1TMU1Ddzk5VDBndXZnZ00xXzJ2bV93V00zc3VwNkhRWFpaVzFiWURVb0IwU2VjcnhKN0otRnNIU0NLdmpVQjMya2RITEVCdjhCamdQUXBaaERLMUd6UmVhdVBZRHQ5WnBVUDdmM0p6ZzlscUQ0eWxOd0k0TnM?oc=5"
+    },
+    {
+      "title": "黃金暴漲！最新「目標價」出爐 - ec.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5SHBxdU5CS1pDaUExV0c5Q3p5UnpESEVCUkgzcnZZUVM3SWZWaTFYcFhHSkxBOGx0MDJ2dHE1Y3Rzdm51OHR6SnA3Q1k2Z2tnZVdmSFBRXzAwakZwaVgw0gFkQVVfeXFMTW94TS1EcGtfdXhtaG1vVURhOEE0VTlJUWloZ2JaMU5LTzB0TWtGN1hIemtsejZrRllwOGNvS0U5ajVkQXFhcm1ZOTVxT1I0eVJPaXRpUTJ6dXJpODk5ZmhpbWRaMw?oc=5"
     },
     {
-      "title": "聯準會鬆口緩升息 美股聞聲齊揚公債殖利率降 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPQlFvZGxCVHhGcFlUSTQ0MEdMM3VCU283SFRYd1o4ZkVJNG9qU3p4UnFoQWN0Q3RZQk0zUElCQ2J3Ym5TRmdoRFA0Wjgta01mbUdJdFlmck9rWXpkaFdFc2tvRmFzNWtBQ3ByOWp5ZjktZEN5UEV5V24xLWl5MnVTOE15dzNuNUxYcHM1US1QdmZMSEhaSXRVei1IaFRSNGlETUZ2MW5QVXJLUVVQMkRISTA5X0o2aFJEVGs3WlkwSmk2YWVnV2EzSmNJNUh2MWFtQVkxQ012Q1ZPNXB1QWVOWkpmUktjdUI1eDVsMmNFbU54ZFRNYTR0aGFVWlZBblg4MjBsVmk1MTZDMloxdHNjU1NmdFVSNXFUMDJwQjVkRWJqNVB6WEI5cTVsTG0wcVE2cndha0RXZnJ3RGYzdURsR29LUzV0R3NYVllTLQ?oc=5"
+      "title": "市場漏算了特朗普“搞事”風險？美股或低估中期選舉風暴 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUt2U09HMUhnMnJyc1hVTkR4TUt5QVM5NGFtei1fU0RJd0gxRGZFeVZuNkdJMWhCak5UNUlxYk1UdFR5OFpTQ1lldGh3bEU3MHVOMWY2UjZYbXo0LWZRZnh6eVF3UENBTnZRN3FhdjFKVks0WEstbHJCUnlic19BcEhXTm4tUUhlYTI5bzNKZVVyZ1hMQVdXNlN2SkdlWk9i?oc=5"
     },
     {
-      "title": "法興銀行：黃金重新看漲的時候到了，回調數月後吸引力重現 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMFhNRk5fRlRxei1MMGp2c1hoVWhMdm8zTjRzRTVhUkNvMzZLZkYtcFVsVWFYRjZ3TVRjbVU5MXRWMG1BcUxJclE3em1hTXc1N0FROWFUU0xFSTNYYjltbl8zSzE0OEM1YTFWQWx5RU53WWJhb19RYWhiWjlHbnkwME5sbzVYRHFKV2gyVVZpdHQ2VlU3ZXJWdEd2dDBHUE4x?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉華勒釋暫緩升息訊號 美債殖利率回落 三大指數齊漲逾1% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEU25uNk0zeFlNRjRjQVRUWldtU0RjeWk3UDR3RlgxMHFPaTFTQjNXWWVxWGZvZXBuUjU2NUZNNEgxY0hvV3l1YmN3a2VRWmM?oc=5"
-    },
-    {
-      "title": "RWA代幣化黃金准擬真交易- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5neFlfbFEyR1B5bnpsZ09sS2hFUk51cG02MXluT19BM3ZUbWFQR19XTXNQVFBsOXRhZ2tyWGI3Yk9TTVY4V3V6T3ZZaG8yQU40d0luWlVuMGwxWERRZFFj?oc=5"
-    },
-    {
-      "title": "《美股》升息憂慮略緩 比特幣概念/特斯拉/輝達嗨-新聞內容-基金 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeG9ZaTdxQUhJci1fWVo4V3V4c3VKVERDcFdNR1RxSzY0SXhiN1R1YVY5YXE1RkJGRmVuRFNOVjlvRURVSVNYX3d2MTE2WGo5SFVtLWdpSHVXUzVaVTNqc2lqZDRDRllKUXp2QXFkLVlEOTR1alc1YTh2VjFUd2NzcU80ZzVfcC1iMjRiSHA2bTE?oc=5"
+      "title": "【0904台股盤後】加權指數漲693 點收46,551 點！三大法人買超629 億元終結連2 賣，被動元件與散熱多檔漲停，「動能排行」: 永擎、倉和、光環｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMizgVBVV95cUxOcnRKaWV0Wlh3QmUwbDhfQkM1N1Z2QldfTjFhQU9ZY2VzbURqRnJLMDBLOXBxX2JfSjRzeTlqWkUwX2VrSC00YmpXc21sWkpBVUNFZEtDZTNCbUt2alFLTTVqb1VKYy1kYmt3VVdMZVdkbFYtSkl1Y1U4bk9wTHNyTjNYWENpTENvWDl0ZmQyUmFnS1NZVC1udHl5S3RRMzc2UGpWZGRLOFVRLVVVOXQwRlFKM2dTYmpULWxkVGVjTWllRF9CLXpnem1sbnZTclVTLXRFbEdOdERoOGo2Snd0UzhKTVJLWFVaUm9Xc090M0lINVljbnVscm4zeDMtYU1rT3NteEdjOG9EbDdJMmtxbV9oTXVsMmFLaFZiVWpQYlYtbndVZDdSRUJvMk5NSFZWOFFJMHpNd0ZPM1drWHN5VUh4UEZwaUVSRUFGQkZMRWZ2VWFzQm9vaHNobXJmUXYtOUlES0VoUzE4SEdtVGpVMjhNMUxRX1g1dlhmbURMMVBYcmQ5SndOeVZ5MFo2NVdSZHltbGFJQ0VRSXZfZjhXNzNXQ0c1ODNhZUdORGlvOHoyRzBSRjd2WThadG5sbVU2cE9TeU1RTVprTXVMSTBIT2prWWZLZVljWVF0VktYd1NmRHF5TjhMTmZuQ1lOUm03NnBRZjFrVkJaeThKc0xEdnp4U2ZkUVFROXItSjVtdVdCSXVqQXY1R3hVZDc3Nm9iMXBlOElHWkVFc00yODU5YWtFMGtMVWNJVVk3U3NZZkZLSlJrc1YzY0xxSnNMRkNDZU5XaW5RWXpqMVhVcUV0eFB3WXptQjhRd0N4TFlkdk1GWHVsNkVTZkhtQnFZcHNvNVh1RWtXMW9OZ2R2VmVwLWVpalNBNVppdXZqVW44bWluZW5kbnBScUN5R0V3R1AzYlBYMTBCZWlyZ0F5akNBOTZscmFJRFVRNVh3LXdn?oc=5"
     }
   ]
 }
