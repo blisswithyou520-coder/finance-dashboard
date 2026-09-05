@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/05 06:27",
+  "updated_tw": "09/05 08:17",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -36,50 +36,50 @@
   "us": {
     "NVDA": {
       "price": 230.36,
-      "change": 1.91,
-      "changePercent": 0.8361
+      "change": 5.95,
+      "changePercent": 2.6514
     },
     "AAPL": {
       "price": 319.97,
-      "change": -8.24,
-      "changePercent": -2.5106
+      "change": -4.99,
+      "changePercent": -1.5356
     },
     "TSLA": {
       "price": 354.08,
-      "change": -22.29,
-      "changePercent": -5.9224
+      "change": -2.93,
+      "changePercent": -0.8207
     },
     "QQQ": {
       "price": 718.96,
-      "change": 1.29,
-      "changePercent": 0.1798
+      "change": 9.72,
+      "changePercent": 1.3705
     },
     "SPY": {
       "price": 770.19,
-      "change": -2.98,
-      "changePercent": -0.3854
+      "change": 5.03,
+      "changePercent": 0.6574
     },
     "SCHD": {
       "price": 34.8,
-      "change": -0.28,
-      "changePercent": -0.7982
+      "change": -0.21,
+      "changePercent": -0.5998
     },
     "VOO": {
       "price": 708.01,
-      "change": -2.71,
-      "changePercent": -0.3813
+      "change": 4.6,
+      "changePercent": 0.654
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79676.24,
-      "change": -1595.5022,
-      "changePercent": -1.9632
+      "price": 79614.59,
+      "change": -1657.1522,
+      "changePercent": -2.039
     },
     "ETH": {
-      "price": 2452.06,
-      "change": -55.9608,
-      "changePercent": -2.2313
+      "price": 2453.98,
+      "change": -54.0408,
+      "changePercent": -2.1547
     }
   },
   "fx": {
@@ -117,6 +117,14 @@
   },
   "news": [
     {
+      "title": "美股收盤》三大指數下跌、費半飆逾3％ 台積電ADR漲近3％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfeFU1TWljak1BVlRvXy03blVDci1uUFJsT0RLNEUwZjAwc05iS1Y4cmhJSEhvQzM0ZU1pYTJmcFlEVHpoYmJGM2NBOWpiVlRQaW1kdHcwaEd0bl9BMkJN0gFkQVVfeXFMUGJpSUFvc0ZJZDJxd1JsWGZvRjN1TTlmLXVVRV9qNE1nUDgwYTNiQUVYYkdWUFdPWFZMaVlOVnRJQUUyRzZ0cWJRVXNoSE91RnJ4OGNRcDhvZUs3anR4a01oYlBNcA?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉非農意外強勁、升息機率衝破五成 三大指數盡墨、記憶體股逆勢大漲 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EWVEzanlMX3U2VGd3UVBWdXZIVS00OE5iQ0JIQm4zOFRVNVlZd1p4RF9sUk1ZUWFEZllvdUxRSDFuSTNDUHQwby0xbzlLaTQ?oc=5"
+    },
+    {
       "title": "【美股盤前0904】今晚非農數據來襲！華勒談話緩解市場對升息預期，美債殖利率回落，三大指數漲幅均逾1% - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxPTUdaSmljNnZ3YTZqbFVHazZPWmZ0R2czOHpYVmh3WG9MOWNQQTFIQ1h5eUUxSjU3T0sxbGJneGhiNmg3MF81TDFNSk9fWVJaMHZ5TnloSjVJLWhlSzd6MmVSbTc4YkUxMUF0VW9GNjRheHRURHR5QVAyVUV2NFhkWG9IVHRpOElSY0s2UzVVTVhFVm5HNVhDZTFCd284eWhlRE9KcG8td2Y3dnFoYldDTVhZTUxBUE1IR0o2Rll5NUFpdS1kNVFwYlYxbFpSQXZmckNFeWU2ZVB5VFZkMDZGODk1XzVhaDI5cXZ1emdCOVh3STd4cU1rZHdWSndCaGRacUs3b0piYngxb3Jackh0aVowaVZZWXNBeGo1Slh3WFlOYU5UN21uSU94RURSRUJuOWt1Rm1ydkxtdUt1MGgxSk5sdlphbGhnQ1lWWXJENlNnakJmY2h2OVhZRnJkZi1ET2k2UnhubzRMbk1lRDhaZHB1d1l3UUg2em9kQVVCZ3d4MnVTMTJyYjJNSE9yYjdEVTdqOERSYmhQY04tRGRnMGlYbVMwQlBqZG9jR05YeU5kMWxtc09nT2hidkstWkE2Q2xJWEQxS0ZCd3l4X19XTGxLdEx6VmZjMzhsa1hRQWk4bmZXb1FTRXFzMy1hVHdIZEU2d2pDVGRnYmJmVEx4a01SNVNCR1h2aWVzM1kxdld3T3RPUFk5RnJCdld5b1J5UUpHSURKRHdlUm9PcHZqLVhESU5EeHNSSjVQTUVVR3Z0QWNQeW5NM24yTTVCaTZCcUV0ZXVRUDk5VVJJLVMzcXZrSlM1STNCLTF6blFCOWNmSHM?oc=5"
     },
@@ -125,28 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFXzF0TEprcmU5NzliS1NaaFg5TzM3dHR6eEFiVFoxaUxkeXhaQk1sQVFGbm5UZzB0ZGlPT1RMZXBQemNRSlM2MWJ0bHJDU09o?oc=5"
     },
     {
-      "title": "〈美股早盤〉非農太強推升Fed升息預期 主要指數漲跌互現 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jNVlGdzIwNndWMEg2TXhCc2FYeVp0YlVIOFZfb2VpQTV1c3lxaW9sVkhScHVGTXRUV2hsM2dhMFBCMzF3X2RKVFlBcW9NRHc?oc=5"
-    },
-    {
-      "title": "台股強彈收復5日線 日KD高檔背離風險未解? 股票不賣飛! 三大停利策略教學 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQUzlEMWdidENqYVdieWtvdVlPYWVSNTFKeGYwUXM1b2hjbnRfeHV5RlR3YW1ucHBCaFRWYi1DdTRvMkV1eTQ5ODlacHNZbjcyU2pDblQtWDRFQU1YV0liVnhNS2pWdjFKOGJ2YUtoSGRhYThTVVlXN2FmZjFNZW96TGJFeExtMkZHWGVaRUZKeFRuTnpobmxYU24zSGxSdjlES3lLcDNlVGhyS0hia0Z2SUxGMFY1dlpCZnBQVWp4THBoTUlYSVlVMzF5bWNpdUx3U2U3QjgwTkFDTUptMGdQWExBYzYzdVBYLVlmcXVRcGZxTjBVWTZGcXFDWFZ5T2p1Q0ZsZGRaNmJJeko5LVp5QS13MEozbk1yXzFnUGJUd1p5QzZfX0I4blBKZGpSb3k4S1hQVUgwT3hPODBGR2JjbTNicFJFbHdWaktiNVlNOGpMUUxzcW1TMU1Ddzk5VDBndXZnZ00xXzJ2bV93V00zc3VwNkhRWFpaVzFiWURVb0IwU2VjcnhKN0otRnNIU0NLdmpVQjMya2RITEVCdjhCamdQUXBaaERLMUd6UmVhdVBZRHQ5WnBVUDdmM0p6ZzlscUQ0eWxOd0k0TnM?oc=5"
-    },
-    {
-      "title": "美股收盤》三大指數下跌、費半飆逾3％ 台積電ADR漲近3％ - ec.ltn.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfeFU1TWljak1BVlRvXy03blVDci1uUFJsT0RLNEUwZjAwc05iS1Y4cmhJSEhvQzM0ZU1pYTJmcFlEVHpoYmJGM2NBOWpiVlRQaW1kdHcwaEd0bl9BMkJN0gFkQVVfeXFMUGJpSUFvc0ZJZDJxd1JsWGZvRjN1TTlmLXVVRV9qNE1nUDgwYTNiQUVYYkdWUFdPWFZMaVlOVnRJQUUyRzZ0cWJRVXNoSE91RnJ4OGNRcDhvZUs3anR4a01oYlBNcA?oc=5"
+      "title": "星期一開盤噴爆？美股費半逆天狂飆 台指期夜盤暴漲473點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNSUlwOTNoU0tWYjV1VUo2b0c5U0xUOGhEeWFZX0xfQmRXVklrVkl6RUFuV0syQVNyX2JmSTJjQ1ZjZkhWMlN6X2dMV1dMRDdzeGJfY0ljRHkxeFRIaEl4OThMQ2FocTRTUDVNU0E1dmMzVUE2WDhxbDV6Q2tqbi1PWEQtem1ZZVZ2SzljQWtOSVlfNGJDc3FmVW1FdmFQcVE5QmljYXJObTF5V2NjdEN6TFJQbjFFd3hHSFJ6b1VaUkhsQV80RHlSbzkwMkNsZmJERGw3djNaRXkzT25hWkxhd2MweGc4ZDBMZ20xMUZfcDJsVUp5UUlfNlZmTHFwQTItanFxZjlfV0FWcHlFYlRYYjQ5ZlhuWmk1alRjUXEtUzhOdmpWZmdZcjM1c3VjcGplT1ZhQnd0S1RwbElhZVBGemhOaGtRaEEwX0hCbThHVHo2SGpzR1BCLVM2bG9BWGlfenpQaWlXN2RNaTQ?oc=5"
     },
     {
       "title": "美長天期殖利率攀高　台股穩中透堅、高股息題材有發揮空間 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qMUtaN3JDTmpXUG1yd19hVDBnVEV6c1Fma1VqelZGOXJZa1JMTU5MUTU4SnZBbllRYTV1V29mVXNrUEozUm9La3FodGFzVDJuZHfSAVBBVV95cUxNRkJCZk80X0pmanJ6Si0zYU55TWNTNUxyTFVJcmxmN2h3UC11REJPOEZKbFRvelhkbkpyaGs3ZngwNjlmODdQanRxa1JLbW1xRw?oc=5"
     },
     {
-      "title": "市場漏算了特朗普“搞事”風險？美股或低估中期選舉風暴 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUt2U09HMUhnMnJyc1hVTkR4TUt5QVM5NGFtei1fU0RJd0gxRGZFeVZuNkdJMWhCak5UNUlxYk1UdFR5OFpTQ1lldGh3bEU3MHVOMWY2UjZYbXo0LWZRZnh6eVF3UENBTnZRN3FhdjFKVks0WEstbHJCUnlic19BcEhXTm4tUUhlYTI5bzNKZVVyZ1hMQVdXNlN2SkdlWk9i?oc=5"
+      "title": "〈美股早盤〉非農太強推升Fed升息預期 主要指數漲跌互現 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jNVlGdzIwNndWMEg2TXhCc2FYeVp0YlVIOFZfb2VpQTV1c3lxaW9sVkhScHVGTXRUV2hsM2dhMFBCMzF3X2RKVFlBcW9NRHc?oc=5"
     },
     {
-      "title": "美就業數據強勁加深升息預期 美股多數收黑 | 美股動態 | 國際 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iRDRERE92NmNWalcyVzJHVGE0bDZXS0txSVhhZmpLRU5qbV9SM3QyY3JaeFlmWVRNWno1X0h3YzU3LUk5aWE0azFCVmNTdjlIcGg2RllRdFlZd2xu?oc=5"
+      "title": "美國非農數據高出預期！美股3指數收黑、特斯拉挫近6% 記憶體類股暴漲、台指期夜盤上揚473點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNMjR1bmt4VE1qdEVZZVNWaktvX0paNlV1cUEwV21CUmFHSWlMNUc1VFVsbVYtTWNQb3ROR3g1MzNfS1V0eVNFRWR3cmhfWWZkN3diNkpRSFBRVnFxNnMwaXFhVnNHa3JlYjh6TE5RVXNTblV6MEhIMVlNY1FnTkphZGhnMVUwLV9yUksyUkJyZmYxbHN5X0FpTWpTbEJzTVRpNU9OU2xGUDd5dEN2OEFfMGt6RXgtd3FPRThBdW1GLXl2Sm5SVFptU0FXWWhNWUdrejh3UWhreDUyWG9YTlpXYk5mU1dGMy14eGZXeGhOWm1fa29jWGVMTXh4bmVOdW13N2dRRVhlRHVJVnpGNWRqSzY3cVNJVEZUVDJ4al96QWNDOGJORUVkcEdib25CTGJlQXV6dmFnZ2JoUU9LV3ZBLUl6OUF3dHk2bzVFbzFmMVBtZ01pcVQ5VEs0VFNuZlBFQk1FZ2l4ZEN3RVF0ZEFJcHVoSmRXc1lKQnlTN1RLLVNfaUVmZml3dlpIV3ZxeGJ4a3VUcHpDczdwUjhUaHVJSXpaaFdsM3E0Xy1iMlNKRjVaRlBfWXZ1b1hBYjhJNmMyMkUtU2Y2MTBBMmtlTDMyVGhNejZYRVlEN2VPcjJhTjNUSDZDS0NlRjg2UDZWTjIwbjNQWi1zRkw2TmctVmJkS1g5TVpBWWxYT2hYMldkYWZ4N2ZuWTdF?oc=5"
     }
   ]
 }
