@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/05 16:49",
+  "updated_tw": "09/05 20:23",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79609.88,
-      "change": -62.0887,
-      "changePercent": -0.0779
+      "price": 79671.08,
+      "change": -0.8887,
+      "changePercent": -0.0011
     },
     "ETH": {
-      "price": 2454.71,
-      "change": -1.3681,
-      "changePercent": -0.0557
+      "price": 2455.31,
+      "change": -0.7681,
+      "changePercent": -0.0313
     }
   },
   "fx": {
@@ -141,12 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EWVEzanlMX3U2VGd3UVBWdXZIVS00OE5iQ0JIQm4zOFRVNVlZd1p4RF9sUk1ZUWFEZllvdUxRSDFuSTNDUHQwby0xbzlLaTQ?oc=5"
     },
     {
-      "title": "美股早盤／非農就業超強但科技股沒在怕 費半揚升近3%、台積電ADR漲2% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFXzF0TEprcmU5NzliS1NaaFg5TzM3dHR6eEFiVFoxaUxkeXhaQk1sQVFGbm5UZzB0ZGlPT1RMZXBQemNRSlM2MWJ0bHJDU09o?oc=5"
+      "title": "非農就業炸裂，美股下挫，升息升定了？4大問題一次看 - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tTGxIU1JCS05uYjlDV09KaXVQalJZZ1ZaMkhOU3JNSXE5UFFHSzFYUXVHaEtYTkJiSThJXzRERzBZOXQ5ZU5qRUFQaURKZw?oc=5"
     },
     {
-      "title": "Bitdeer维持比特币零持仓，本周出售282枚BTC - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKZXhabmpuRXFEbzgxcVlCLUdKU3Uzd21CVXBfemczS1ZTOC04MWk5aXhpUVpPcnp1djJUWWRJTURNNUMtOGFYdmJEZEwyYmZkVHJtMFBnZHRfS3Rpa0o1STN3TF9VUQ?oc=5"
+      "title": "分析师：持有比特币超过5年的OG群体近期活动明显加强 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XOEFTRG5QU21tN3dsNTBjeHdDdWlldVNnRHU3cnotRlBCTS1vT0ZuWGJIbDFKUFZYejV4VTFOTG9JN0ZmVk93NVpqbzlsN1JVRG01ZDd2U0pVSE94enN4cnpqWHlZUQ?oc=5"
     }
   ]
 }
