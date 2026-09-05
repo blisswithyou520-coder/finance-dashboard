@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/05 23:26",
+  "updated_tw": "09/06 01:28",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79757.12,
-      "change": 85.1512,
-      "changePercent": 0.1069
+      "price": 80002.29,
+      "change": 330.3212,
+      "changePercent": 0.4146
     },
     "ETH": {
-      "price": 2460.11,
-      "change": 4.0319,
-      "changePercent": 0.1642
+      "price": 2476.41,
+      "change": 20.3319,
+      "changePercent": 0.8278
     }
   },
   "fx": {
@@ -117,24 +117,28 @@
   },
   "news": [
     {
-      "title": "川普怒吼救市？轟出美股「夜盤神奇V轉」！財經達人分析：別跟他對做 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQU0pxTU1xOE53OHhlMmV2SVVVZ1FJSlZzQmtNUFpSWlJXUkhoNnBwUGxYMmFlX0dQLVU2eFB4Ni1Db1RpOW1aNzZ4LVIwckZZbWFQS1VUMF9zVTdlMUxfZFZ0Tk5LMS1NWlpFSXJYdHkyU2FuOWN5SjZWUXp0eF9pQ2x2cUtkdlI4NWtLWEIwRTFRSzlTS2w2YzF3eFZyUk01SnVwM2FkdTdwSFV4ZHBsTGRyTTFfLVphQnhLTElVeTd6RmNyR0hKMVB4Zi1SM0JXeGxXSmZxRGRlbmVRU2JySVVrelI1aDEzeEc5dUloS3RvejBueHY3bEtYMlJoV09ERG11V3Rsa2tDMjJrVTBNR3F2ZTRjSFRIMDVCZ2VjQjI5UmxXR1RvMkdfSTNWbExvRzdPSzhyT1NNQkt4aEZDV0NSOEhLRk1PLTZHbkkyR1FKWFVpYnh6WjRqeEVaZng0VFMzNEI5SDlmV2dvWjFNYWxXakQ4VDZaUGVUaUlXQzJrbW9GbDBBLXFIWXlDV0E3MGE5N3NkRnh6QQ?oc=5"
-    },
-    {
       "title": "【9月美股財報前瞻】美光500億營收驗證AI浪潮？甲骨文靠AI反攻決戰OCI增速！好市多估值撐得住嗎？ - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxPZ2xFa0pVX2IxTXVWdk9EQWtUUlN0S19MREw3TTBwZlBhbUlIM2xUSnVKaEhPWXMxanU3dW9pMVNoa3BaYUlJNU9zdmIxeVVzQnZLLXBXVnc4RTVSRjlSUWxLLTd2NmxQV1N5ZVZreldCUWFVd1p4eHNEZDVzbENKeXJUbGtYdkxOeS1zWTF1S21CSzVpaDFpbU1UdGlsTE1iMFI2LWZqdUZWQWpBZ2JUYzdlVVFhaDdfaDZobkJnZmI1ZHNFbVdUU2Z1WjdyN2NibHpxZVJ2cmdWMXBXd3ZSclhDWWxXVDhiamhWdlJEVlNpLW1DM2dUWVlVSG9CS2hJcnNEQWs1TFhpU3VOQlRSeHVqdWpsM21NcnZ0SGRkYWFOOUZjeURYQ2hpbEVrWTFHZTh5LTFwTzBVd1M2QXMyTDVUTDJsRjAxeGJJbXg3eVE5am84NEJKdDhxLWhMR3NSRWZVTk8yMW1Bb2txRk5ONUl6OGViVVJKLW9Lb0hyeERYSkd0M2ozUXpoXzVXd2xQN2V1RVZMTGlRazhualNvdUJzOElfMzNKVjNORXVqWmZzWEpZV3BjekZJb2JzZExLM0NxZElNU0tpME9TckxGSGlDM1JVYURON013VGY2VGd1MG40ejI2T2dWUWRVckRoWHNKelk0Y2xMUExPN0sxNFpYMk9jQ21VejUtU3dXZy01MXhHanIyUWJqcS1ydDJWQzBYeWNEYmVZa1lhWXYyU2VHajVydw?oc=5"
+    },
+    {
+      "title": "川普怒吼救市？轟出美股「夜盤神奇V轉」！財經達人分析：別跟他對做 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQU0pxTU1xOE53OHhlMmV2SVVVZ1FJSlZzQmtNUFpSWlJXUkhoNnBwUGxYMmFlX0dQLVU2eFB4Ni1Db1RpOW1aNzZ4LVIwckZZbWFQS1VUMF9zVTdlMUxfZFZ0Tk5LMS1NWlpFSXJYdHkyU2FuOWN5SjZWUXp0eF9pQ2x2cUtkdlI4NWtLWEIwRTFRSzlTS2w2YzF3eFZyUk01SnVwM2FkdTdwSFV4ZHBsTGRyTTFfLVphQnhLTElVeTd6RmNyR0hKMVB4Zi1SM0JXeGxXSmZxRGRlbmVRU2JySVVrelI1aDEzeEc5dUloS3RvejBueHY3bEtYMlJoV09ERG11V3Rsa2tDMjJrVTBNR3F2ZTRjSFRIMDVCZ2VjQjI5UmxXR1RvMkdfSTNWbExvRzdPSzhyT1NNQkt4aEZDV0NSOEhLRk1PLTZHbkkyR1FKWFVpYnh6WjRqeEVaZng0VFMzNEI5SDlmV2dvWjFNYWxXakQ4VDZaUGVUaUlXQzJrbW9GbDBBLXFIWXlDV0E3MGE5N3NkRnh6QQ?oc=5"
     },
     {
       "title": "美股｜美非農爆強、Fed升息機率升溫 3大指數盡墨 特斯拉崩近6％ - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hZEJzSU94STJCVkQ0NEJSUTlsNGlrcFRKUi1RRHJUSk5nUzN5Z2RaQXItcEZjU3NiVVpnQjNMNjlYZm9ESENocFloazQ3dVBKeGZESEN4SVNFTDlqazVj?oc=5"
     },
     {
-      "title": "美股收盤》三大指數下跌、費半飆逾3％ 台積電ADR漲近3％ - 自由財經",
+      "title": "美股收盤》三大指數下跌、費半飆逾3％ 台積電ADR漲近3％ - ec.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfeFU1TWljak1BVlRvXy03blVDci1uUFJsT0RLNEUwZjAwc05iS1Y4cmhJSEhvQzM0ZU1pYTJmcFlEVHpoYmJGM2NBOWpiVlRQaW1kdHcwaEd0bl9BMkJN0gFkQVVfeXFMUGJpSUFvc0ZJZDJxd1JsWGZvRjN1TTlmLXVVRV9qNE1nUDgwYTNiQUVYYkdWUFdPWFZMaVlOVnRJQUUyRzZ0cWJRVXNoSE91RnJ4OGNRcDhvZUs3anR4a01oYlBNcA?oc=5"
     },
     {
       "title": "比特幣失守 8 萬美元！美國非農大超預期推升升息押注 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ05QYTlEVnlXcjRGZmpCWjlHN0VKTDFEcS05aC15enhFT2xhamk0dzZmYUNadmNmWW9hRzJ6RmVaT3gtbUwtbjM2R3pHTmNHU0dPbHI2dkNZRTV0YW9PTGtTNzdnYUZscTVZa0lnUWZLdkxHLUMwVUVUYnFrVEpUd2Fjc2FYc29HSHliWHNWNENOYXQyQld4SngyZmx3OTI0UmRsZlkxY3QtNkZRLVBhdURzWFY2MmoyWHgtSDJ6TGtzdWQycjRVRFVNc28?oc=5"
+    },
+    {
+      "title": "經濟仍具韌性 美股謹慎樂觀 | 基金天地 | 理財 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jaTZDeGVvb1VPMFd4amVrUF91VG1GajB2M2FzRDBqUUNCRVZOYkp5bklKekVpQWhfbGRxeXBTY2hTbkN5YXEzWmoxMndZQW84NzYxeXNBR3JOZw?oc=5"
     },
     {
       "title": "項目周刊｜Bitdeer維持比特幣零持倉 Robinhood Chain過去一周位居以太坊生態首位 - news.cnyes.com",
@@ -143,10 +147,6 @@
     {
       "title": "美國非農數據高出預期！美股3指數收黑、特斯拉挫近6% 記憶體類股暴漲、台指期夜盤上揚473點 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNMjR1bmt4VE1qdEVZZVNWaktvX0paNlV1cUEwV21CUmFHSWlMNUc1VFVsbVYtTWNQb3ROR3g1MzNfS1V0eVNFRWR3cmhfWWZkN3diNkpRSFBRVnFxNnMwaXFhVnNHa3JlYjh6TE5RVXNTblV6MEhIMVlNY1FnTkphZGhnMVUwLV9yUksyUkJyZmYxbHN5X0FpTWpTbEJzTVRpNU9OU2xGUDd5dEN2OEFfMGt6RXgtd3FPRThBdW1GLXl2Sm5SVFptU0FXWWhNWUdrejh3UWhreDUyWG9YTlpXYk5mU1dGMy14eGZXeGhOWm1fa29jWGVMTXh4bmVOdW13N2dRRVhlRHVJVnpGNWRqSzY3cVNJVEZUVDJ4al96QWNDOGJORUVkcEdib25CTGJlQXV6dmFnZ2JoUU9LV3ZBLUl6OUF3dHk2bzVFbzFmMVBtZ01pcVQ5VEs0VFNuZlBFQk1FZ2l4ZEN3RVF0ZEFJcHVoSmRXc1lKQnlTN1RLLVNfaUVmZml3dlpIV3ZxeGJ4a3VUcHpDczdwUjhUaHVJSXpaaFdsM3E0Xy1iMlNKRjVaRlBfWXZ1b1hBYjhJNmMyMkUtU2Y2MTBBMmtlTDMyVGhNejZYRVlEN2VPcjJhTjNUSDZDS0NlRjg2UDZWTjIwbjNQWi1zRkw2TmctVmJkS1g5TVpBWWxYT2hYMldkYWZ4N2ZuWTdF?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉非農意外強勁、升息機率衝破五成 三大指數盡墨、記憶體股逆勢大漲 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EWVEzanlMX3U2VGd3UVBWdXZIVS00OE5iQ0JIQm4zOFRVNVlZd1p4RF9sUk1ZUWFEZllvdUxRSDFuSTNDUHQwby0xbzlLaTQ?oc=5"
     }
   ]
 }
