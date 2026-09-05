@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/06 03:20",
+  "updated_tw": "09/06 05:30",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 107.9,
-      "change": 1.1,
-      "changePercent": 1.03
+      "change": 1.7,
+      "changePercent": 1.6008
     },
     "00878": {
       "price": 34.11,
-      "change": 0.46,
-      "changePercent": 1.367
+      "change": 0.53,
+      "changePercent": 1.5783
     },
     "00919": {
       "price": 33.02,
-      "change": 0.67,
-      "changePercent": 2.0711
+      "change": 0.5,
+      "changePercent": 1.5375
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79927.48,
-      "change": 255.5112,
-      "changePercent": 0.3207
+      "price": 79855.75,
+      "change": 183.7812,
+      "changePercent": 0.2307
     },
     "ETH": {
-      "price": 2478.91,
-      "change": 22.8319,
-      "changePercent": 0.9296
+      "price": 2481.33,
+      "change": 25.2519,
+      "changePercent": 1.0281
     }
   },
   "fx": {
@@ -125,24 +125,24 @@
       "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQU0pxTU1xOE53OHhlMmV2SVVVZ1FJSlZzQmtNUFpSWlJXUkhoNnBwUGxYMmFlX0dQLVU2eFB4Ni1Db1RpOW1aNzZ4LVIwckZZbWFQS1VUMF9zVTdlMUxfZFZ0Tk5LMS1NWlpFSXJYdHkyU2FuOWN5SjZWUXp0eF9pQ2x2cUtkdlI4NWtLWEIwRTFRSzlTS2w2YzF3eFZyUk01SnVwM2FkdTdwSFV4ZHBsTGRyTTFfLVphQnhLTElVeTd6RmNyR0hKMVB4Zi1SM0JXeGxXSmZxRGRlbmVRU2JySVVrelI1aDEzeEc5dUloS3RvejBueHY3bEtYMlJoV09ERG11V3Rsa2tDMjJrVTBNR3F2ZTRjSFRIMDVCZ2VjQjI5UmxXR1RvMkdfSTNWbExvRzdPSzhyT1NNQkt4aEZDV0NSOEhLRk1PLTZHbkkyR1FKWFVpYnh6WjRqeEVaZng0VFMzNEI5SDlmV2dvWjFNYWxXakQ4VDZaUGVUaUlXQzJrbW9GbDBBLXFIWXlDV0E3MGE5N3NkRnh6QQ?oc=5"
     },
     {
-      "title": "美股｜美非農爆強、Fed升息機率升溫 3大指數盡墨 特斯拉崩近6％ - 工商時報",
+      "title": "美股｜美非農爆強、Fed升息機率升溫 3大指數盡墨 特斯拉崩近6％ - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hZEJzSU94STJCVkQ0NEJSUTlsNGlrcFRKUi1RRHJUSk5nUzN5Z2RaQXItcEZjU3NiVVpnQjNMNjlYZm9ESENocFloazQ3dVBKeGZESEN4SVNFTDlqazVj?oc=5"
     },
     {
-      "title": "美股收盤》三大指數下跌、費半飆逾3％ 台積電ADR漲近3％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfeFU1TWljak1BVlRvXy03blVDci1uUFJsT0RLNEUwZjAwc05iS1Y4cmhJSEhvQzM0ZU1pYTJmcFlEVHpoYmJGM2NBOWpiVlRQaW1kdHcwaEd0bl9BMkJN0gFkQVVfeXFMUGJpSUFvc0ZJZDJxd1JsWGZvRjN1TTlmLXVVRV9qNE1nUDgwYTNiQUVYYkdWUFdPWFZMaVlOVnRJQUUyRzZ0cWJRVXNoSE91RnJ4OGNRcDhvZUs3anR4a01oYlBNcA?oc=5"
+      "title": "費半強漲！台積ADR上周五彈升2.9% 本周通膨數據牽動美股後市| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84cVZ5dHZBSGM1Ti1ZTmNvUUhxZS1TM2tDQW4xX3FSOVZWUDUtQXlVSG1qSFktZnRpOF84VDJXMDEwd0xVRXhwNTlPZ1laaHd4?oc=5"
     },
     {
       "title": "比特幣失守 8 萬美元！美國非農大超預期推升升息押注 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ05QYTlEVnlXcjRGZmpCWjlHN0VKTDFEcS05aC15enhFT2xhamk0dzZmYUNadmNmWW9hRzJ6RmVaT3gtbUwtbjM2R3pHTmNHU0dPbHI2dkNZRTV0YW9PTGtTNzdnYUZscTVZa0lnUWZLdkxHLUMwVUVUYnFrVEpUd2Fjc2FYc29HSHliWHNWNENOYXQyQld4SngyZmx3OTI0UmRsZlkxY3QtNkZRLVBhdURzWFY2MmoyWHgtSDJ6TGtzdWQycjRVRFVNc28?oc=5"
     },
     {
-      "title": "經濟仍具韌性 美股謹慎樂觀 | 基金天地 | 理財 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jaTZDeGVvb1VPMFd4amVrUF91VG1GajB2M2FzRDBqUUNCRVZOYkp5bklKekVpQWhfbGRxeXBTY2hTbkN5YXEzWmoxMndZQW84NzYxeXNBR3JOZw?oc=5"
-    },
-    {
       "title": "〈美股早盤〉非農太強推升Fed升息預期 主要指數漲跌互現 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jNVlGdzIwNndWMEg2TXhCc2FYeVp0YlVIOFZfb2VpQTV1c3lxaW9sVkhScHVGTXRUV2hsM2dhMFBCMzF3X2RKVFlBcW9NRHc?oc=5"
+    },
+    {
+      "title": "美股收盤》三大指數下跌、費半飆逾3％ 台積電ADR漲近3％ - ec.ltn.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfeFU1TWljak1BVlRvXy03blVDci1uUFJsT0RLNEUwZjAwc05iS1Y4cmhJSEhvQzM0ZU1pYTJmcFlEVHpoYmJGM2NBOWpiVlRQaW1kdHcwaEd0bl9BMkJN0gFkQVVfeXFMUGJpSUFvc0ZJZDJxd1JsWGZvRjN1TTlmLXVVRV9qNE1nUDgwYTNiQUVYYkdWUFdPWFZMaVlOVnRJQUUyRzZ0cWJRVXNoSE91RnJ4OGNRcDhvZUs3anR4a01oYlBNcA?oc=5"
     },
     {
       "title": "美國非農數據高出預期！美股3指數收黑、特斯拉挫近6% 記憶體類股暴漲、台指期夜盤上揚473點 - Yahoo股市",
