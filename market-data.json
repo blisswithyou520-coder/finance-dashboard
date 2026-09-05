@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/06 01:28",
+  "updated_tw": "09/06 03:20",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80002.29,
-      "change": 330.3212,
-      "changePercent": 0.4146
+      "price": 79927.48,
+      "change": 255.5112,
+      "changePercent": 0.3207
     },
     "ETH": {
-      "price": 2476.41,
-      "change": 20.3319,
-      "changePercent": 0.8278
+      "price": 2478.91,
+      "change": 22.8319,
+      "changePercent": 0.9296
     }
   },
   "fx": {
@@ -129,7 +129,7 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hZEJzSU94STJCVkQ0NEJSUTlsNGlrcFRKUi1RRHJUSk5nUzN5Z2RaQXItcEZjU3NiVVpnQjNMNjlYZm9ESENocFloazQ3dVBKeGZESEN4SVNFTDlqazVj?oc=5"
     },
     {
-      "title": "美股收盤》三大指數下跌、費半飆逾3％ 台積電ADR漲近3％ - ec.ltn.com.tw",
+      "title": "美股收盤》三大指數下跌、費半飆逾3％ 台積電ADR漲近3％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfeFU1TWljak1BVlRvXy03blVDci1uUFJsT0RLNEUwZjAwc05iS1Y4cmhJSEhvQzM0ZU1pYTJmcFlEVHpoYmJGM2NBOWpiVlRQaW1kdHcwaEd0bl9BMkJN0gFkQVVfeXFMUGJpSUFvc0ZJZDJxd1JsWGZvRjN1TTlmLXVVRV9qNE1nUDgwYTNiQUVYYkdWUFdPWFZMaVlOVnRJQUUyRzZ0cWJRVXNoSE91RnJ4OGNRcDhvZUs3anR4a01oYlBNcA?oc=5"
     },
     {
@@ -141,8 +141,8 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jaTZDeGVvb1VPMFd4amVrUF91VG1GajB2M2FzRDBqUUNCRVZOYkp5bklKekVpQWhfbGRxeXBTY2hTbkN5YXEzWmoxMndZQW84NzYxeXNBR3JOZw?oc=5"
     },
     {
-      "title": "項目周刊｜Bitdeer維持比特幣零持倉 Robinhood Chain過去一周位居以太坊生態首位 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93MUo1Wm5CdnpkYjFPVTd4TkNHZWFCZW5CRWpaV1Q5YjAyOXM1dzFvWXB6cVpJa0FtaXhCbDlKY3VTUFpkTUdYNlpYWnd4WjQ?oc=5"
+      "title": "〈美股早盤〉非農太強推升Fed升息預期 主要指數漲跌互現 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jNVlGdzIwNndWMEg2TXhCc2FYeVp0YlVIOFZfb2VpQTV1c3lxaW9sVkhScHVGTXRUV2hsM2dhMFBCMzF3X2RKVFlBcW9NRHc?oc=5"
     },
     {
       "title": "美國非農數據高出預期！美股3指數收黑、特斯拉挫近6% 記憶體類股暴漲、台指期夜盤上揚473點 - Yahoo股市",
