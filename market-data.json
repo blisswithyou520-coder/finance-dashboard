@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/06 18:38",
+  "updated_tw": "09/06 21:48",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79969.75,
-      "change": 145.8828,
-      "changePercent": 0.1828
+      "price": 79833.46,
+      "change": 9.5928,
+      "changePercent": 0.012
     },
     "ETH": {
-      "price": 2498.15,
-      "change": 17.4144,
-      "changePercent": 0.702
+      "price": 2494.14,
+      "change": 13.4044,
+      "changePercent": 0.5403
     }
   },
   "fx": {
@@ -115,5 +115,38 @@
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "美股距歷史新高只差1% 下週迎來3大魔王 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQMGF6dnpLM0NNY0xZa3RHbGI5a1dzR1hlTkNPT1lLdFl5SzFhRzc2WXVsT0E2YjFZYzQydnJXd1dNeVgzT2FvSkY0b0p2a216Tm9RbE9mUUhPS0k1Vk4wNXllRVZqSjE3RDFZdEthYk1iQVdpV2wyZUhScFRoVU1BMFRBc3pHQ0dQUGxnR0hCSWdfRE9Cc2ZETUNsZDhjMGFabUlOa2oxQzlSOVg5QzhPVXZlVFBxa21uY0ZIN2ZaQWl3cTRlUEthVFoxbzBDS250dFhvVDZjaGdsSXhkcWxCMEY5Qm5teGM0ZHZMMURXVXZ0dzdQMEZyUHlUaVhZS19rT1NfSUEtRWdhTC1tdWVyRzN1bjNCLUk?oc=5"
+    },
+    {
+      "title": "Willy Woo：比特币与股市脱钩程度为2015年以来罕见，流动性持续增强 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJQTFETG1ObjNCNzdCRXkxTHNOYm5MVjBQSl9NMk9UdHBURkpYREs1eEZfd1d5ZGJYMFF2bGZmcU42VTNCNHBCMXpYaDZpTlVWRld1MGNVZVpTdHhUeEpLYWhkeGhHZw?oc=5"
+    },
+    {
+      "title": "1 BTC 能買 18 盎司黃金：比特幣黃金比例創 2026 年最高 - 動區動趨",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWkVLQW1fRGprbHUzeGNtOVpUUU1KMlJ1Mk9NeF9TbUllRDJVeDBBeVJXWkJMalNCdUhSWUc3OTlHRlRBWG1wMkdJcENfZjZ4d3F6aS1nYW13Ni1Od0wyTy1neTJGdzZPalVHVlFUeGVWODNRSVcyc2RmTW9CR2lBcmx5b0g?oc=5"
+    },
+    {
+      "title": "【9月美股財報前瞻】美光500億營收驗證AI浪潮？甲骨文靠AI反攻決戰OCI增速！好市多估值撐得住嗎？ - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxPZ2xFa0pVX2IxTXVWdk9EQWtUUlN0S19MREw3TTBwZlBhbUlIM2xUSnVKaEhPWXMxanU3dW9pMVNoa3BaYUlJNU9zdmIxeVVzQnZLLXBXVnc4RTVSRjlSUWxLLTd2NmxQV1N5ZVZreldCUWFVd1p4eHNEZDVzbENKeXJUbGtYdkxOeS1zWTF1S21CSzVpaDFpbU1UdGlsTE1iMFI2LWZqdUZWQWpBZ2JUYzdlVVFhaDdfaDZobkJnZmI1ZHNFbVdUU2Z1WjdyN2NibHpxZVJ2cmdWMXBXd3ZSclhDWWxXVDhiamhWdlJEVlNpLW1DM2dUWVlVSG9CS2hJcnNEQWs1TFhpU3VOQlRSeHVqdWpsM21NcnZ0SGRkYWFOOUZjeURYQ2hpbEVrWTFHZTh5LTFwTzBVd1M2QXMyTDVUTDJsRjAxeGJJbXg3eVE5am84NEJKdDhxLWhMR3NSRWZVTk8yMW1Bb2txRk5ONUl6OGViVVJKLW9Lb0hyeERYSkd0M2ozUXpoXzVXd2xQN2V1RVZMTGlRazhualNvdUJzOElfMzNKVjNORXVqWmZzWEpZV3BjekZJb2JzZExLM0NxZElNU0tpME9TckxGSGlDM1JVYURON013VGY2VGd1MG40ejI2T2dWUWRVckRoWHNKelk0Y2xMUExPN0sxNFpYMk9jQ21VejUtU3dXZy01MXhHanIyUWJqcS1ydDJWQzBYeWNEYmVZa1lhWXYyU2VHajVydw?oc=5"
+    },
+    {
+      "title": "黃金版圖大洗牌！俄羅斯7個月輸港近百噸創高　西方制裁後座力 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zZzZiUnp2TUhWTHRTVUxDT2Q3cWJPamViRWZET3Vubk5ORGVJUmFsRk10QXZLTmhpaTdGTEpGLUFzMlRsZVRQOGg4VV90Z2VfaVHSAVBBVV95cUxQekFCblI5ZjRpTDdIS2NKVTdwVTNXd2pvRi1WVVluSHJ6SWR3TjdOZkZTbFM2YTRfWHlHc0tiUjRmbEUzNXV2LVNLLV9lY3QxWg?oc=5"
+    },
+    {
+      "title": "〈台股風向球〉聯準會升息壓抑難脫整理格局 先靠績優股輪流維繫多頭火種 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KT1BENWhVOVYycHFQZWZTWGJNT2p5cVFMZndrWEZRTEVZejRsV0xVclVTN2plSE13MEllOTdzbE9CMy03ZVU1aTVMdzZPNEU?oc=5"
+    },
+    {
+      "title": "【美股週報】那指停了 13 週：整理，不是出貨 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rSEp2ek12ZkQ3UEMzXzBhQW1rMGlSUURZM092aEZQTFdjUTdFODhzQjdUckVZR0tQWXAtR0ZlNElrc1g3OC1acmtXM2hfbTVGd2xGT3hMNzBIQnhGdWEzQzIzeXVfZms?oc=5"
+    },
+    {
+      "title": "美股收盤》三大指數下跌、費半飆逾3％ 台積電ADR漲近3％ - ec.ltn.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfeFU1TWljak1BVlRvXy03blVDci1uUFJsT0RLNEUwZjAwc05iS1Y4cmhJSEhvQzM0ZU1pYTJmcFlEVHpoYmJGM2NBOWpiVlRQaW1kdHcwaEd0bl9BMkJN0gFkQVVfeXFMUGJpSUFvc0ZJZDJxd1JsWGZvRjN1TTlmLXVVRV9qNE1nUDgwYTNiQUVYYkdWUFdPWFZMaVlOVnRJQUUyRzZ0cWJRVXNoSE91RnJ4OGNRcDhvZUs3anR4a01oYlBNcA?oc=5"
+    }
+  ]
 }
