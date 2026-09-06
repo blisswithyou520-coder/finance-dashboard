@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/07 04:51",
+  "updated_tw": "09/07 06:42",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79929.81,
-      "change": 105.9428,
-      "changePercent": 0.1327
+      "price": 79989.36,
+      "change": 165.4928,
+      "changePercent": 0.2073
     },
     "ETH": {
-      "price": 2499.92,
-      "change": 19.1844,
-      "changePercent": 0.7733
+      "price": 2507.18,
+      "change": 26.4444,
+      "changePercent": 1.066
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.64,
-      "change": -0.0554,
-      "changePercent": -0.1748
+      "price": 31.621,
+      "change": -0.0744,
+      "changePercent": -0.2347
     },
     "JPYTWD": {
-      "price": 0.2007,
-      "change": -0.0029,
-      "changePercent": -1.4273
+      "price": 0.2002,
+      "change": -0.0034,
+      "changePercent": -1.6728
     },
     "EURTWD": {
-      "price": 36.792,
-      "change": -0.0635,
-      "changePercent": -0.1724
+      "price": 36.757,
+      "change": -0.0985,
+      "changePercent": -0.2674
     },
     "CNYTWD": {
-      "price": 4.7217,
+      "price": 4.7157,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
     "usd": 4476.6,
-    "twd": 4554.0,
-    "tael": 170768.0,
-    "twdTotal": 141640.0,
-    "changePercent": -0.3362
+    "twd": 4551.0,
+    "tael": 170666.0,
+    "twdTotal": 141555.0,
+    "changePercent": 1.0565
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "黃金期 避險優選 - udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91ejYwT2prdWFTZEtvU092U3owSG5uS2VTZHdKS0Q2Z3Jua3ItNkFnSzZXaHpaamlhbExFaHZDZ1RiaFJaLW5qTnE4VmctU2Nq0gFWQVVfeXFMUF90eGpGVThMdlNRaTFpejh2a1VmUVg5Z2Q0MTE4TjhXSWQwMUl1c21ROU9paFVGM1BIUnNsZXJIdTR2SFJsdG1ESl9IdTZQdlYwWm92NlE?oc=5"
+      "title": "亞洲將成黃金中樞，香港與新加坡競逐 - 日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR205WGhDaGd1bUFPbjFhWnljNV92Q3Z6TlNNQUlsTi0xWlM3OUxaOGloQnhCN1QteGl2NGd3LVBkdndBSHFzVGFvUFpLdjQ3OUlxOE8zcWEyaEFFeEpEUjVSOFlqeG50cTVobEQ1blo5S0NKT2hldi1jX05uRUFqU3A4R3pYX2d2clE?oc=5"
+    },
+    {
+      "title": "逾408萬投資人笑開懷！11檔台股ETF齊創新高 00919連9天改寫紀錄 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQN21CS2ttaVVEaVUxdXI1Qi1nRzNMTk40WkpYQWw5MTVEdl81MzBRM0JINnIzcGF1VFJWWlRkZGFMWEZrVGtOd3ZzNnozUENuSFJFYV9zSmkzSkotYURacEliak9DaEJnOFZkOHByMTVrbXk2QVE4al9wQkduRjNod2treWRTUTNjTVJvdFk5UjNLVTF2Y1AtT1lZaDdIdlpaazZSUjdaeVlPXzlaQ3Z4ZF9kaExCU1llSkhHSjFHOW9XUkY0a2FCYmJQaVJmUi13U0lsc2I3MkNxY1c3NEFlc1dGTnhjdG13RjhMZHl0bVhhWWtjc25kWUtNYWY4N1I4X0FWWEpVaXhWLWtTUnBWLUREemczZmcwQzBsOHo2bWFXN29zQ2NFbExQZzBDOVQ1VVFUaWxLVzNNaU1VbG11ZTBqcnFGamdBbEZEZXZqVVFDSmlEdDF6NHhqa010dk9NOEthQkt5MkRDcFcx?oc=5"
+    },
+    {
+      "title": "《美股》美光、Bloom跳高費半嗨特斯拉逆勢挫- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOelh2bGMtWnFGUDJyM1dpbDQwQmRyVGZGamVsc3BYb3owaXJDaUdhNHlGUVR4cEk5OTRoQU5FaU00eTF3V3hHNDMzbzE4WldQa0Z5MERfc3BjaGxCeTJkMlZIOFBpczkwOWY1SnFTQWk5VEJ3SVd5Q2N3S2tQWlVYVTRtcVJHbzFBU0wwVFhoUkk5OTRBWUE?oc=5"
+    },
+    {
+      "title": "黃金期 避險優選 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBORWRZVUFSMDRmZDhPTmlLdk5iZmNtT1JRdG82WEtsSGszaTBwWHQxWTAwMlVDMjgtcGtIM0lweUJaOGdPdzU5U2ZYbkQ5MWRpZXFEUldpLVpwQdIBX0FVX3lxTE8tYVdjcWUxVnd2RE5hdTRidGFWY1NwcDZQaGp3QWhYWFZSUmhjYS1lUFFnbHl2MTNwUmFZWWpfMGFtdVFvUDRZWTgtdFlyOUxzdGozRVQzc2t3QVBEUVkw?oc=5"
     },
     {
       "title": "口袋台股專區 - pocket.tw",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yWkFXcUdRcXhEcll6eFU5aHVLbF9vTktRN0N0enFSVTJyLS1BWjdCMnQ0Wk01U2ZmWjR3T3NFSExTWGxGWWpweER3WQ?oc=5"
     },
     {
-      "title": "比特幣徘徊8萬美元關口，企業需求與美國加密政策成焦點 - Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPd2pXX2pvb0pIcVBuN3o5WXdBMEJXZTU1ZTVPMFFaYmR2Q19Ya2RNeDJhd01GR2tnMzl5MGhnSWxnWm1KWEozdUIxUm80ODZzS2YzQ0tqV2Fla0hDa2xfWTBOQ0lMMTBrWEJNTTVGM1pmbVR0aDZyVWdJaHQ2cVRJU3YxaG9NLVFmcmMzc3ltU2VvOXhRLW1kZEVCR0h1TUc1QkpOblp2N2FEWUxFOVBheHNoYXItNkh5TEdfQnZiVXdENmJlYS1oTmxMNHpKU293Z19nZG5Kenk1aHU4dzFDYnY4SmNOUkllOTJ0YXRXSi1vd01ZZ2RpdlpsTHZLd0NXSUhZTkZKUVh6RzZzX096aXkzcTViV2tJV0tfSW5tZ0IzVTZLWDlfY1o1eHNfZ1VJS1MyYkRpeW9KRGRtV3pudGR2SkVvMHJpWFNjaS12M2VGZGRyam9Yek1lWHE0MGd1cUljWVRsQ24tQ2N5M3NPNWFKbFpHR2llRDluQXY2ZFM?oc=5"
+      "title": "2026年9月台美股行事曆｜FED 利率決策撞四巫日、台股法說營收季底作帳一次看 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiowRBVV95cUxNQkljNjBmRFUxVEVFc0E5dVJhTWRKQ2hrV29WR0NBSjUtNFFWeUF5alRwQmotQ21XZjUyYlZoSlFnSGVqMWc3SklwUnpMLTJTbWRnZjZzOF8xR0dBX0VHbmMwUnNlVjRUdEtWcFBobnlhWG1XVjhuSTRiNHFqZzA0Q2FhQU5TY282YXpVd2ZPRDJYMHlHTWZFR0lxZ1FnVEMxeDAxSWJHaTYzUHc4SmQ3VFpSQWdCTERZU0dFTVNzT0ZNZUthSGtQVXhnM2Z6R3VZcFIyT2doczhNRWViY3dmU3dMb2VyUW4zMUN6MExuRURSY1VxXzhYX1BpNzJlM2Q3TGwxN2VvZnVhNWZNaFk2ZU5OR0dQODlCS0w4d0hZVkJoZG01VTZoMk1XZXhYUlBnSDdsX002WFB0bElhVi1Tdml0N2NneGVCZHV5Y3plaktwMzFXWEd6Q0MwLUxTeDBpNE41MUNSc1J3TmpISnNVMEI3bzI3dXJ2MkV0QnBlT0RqSEhQUUFDOGpHSTlwaHo0SW1haXpBUXBhZHRJUVh1LXpTdmVrM3g5N2xYR0pYNHhEb0VRV05CZG50YzJuelZNZW9obkg0R2NYQlZTTW10NFBaR0FrYXIxVkZjWEFGM0JwdXhhbTk2bGljdGRkdGVudjgtSlBQdnBITzZIVDRCOUV5YnlKQW5YdlRjbkhSM3dQNlNDSFRiNG9SbnFrSG54QV9n?oc=5"
     },
     {
       "title": "「挖金子」比黃金還賺！美國銀行點名：黃金礦業估值來到20年最便宜 - 商周",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85LU1VcE9rNjh4QndLWFV2c3F0N0dmN1g3ZzFFcEZCdENJalgtRjZMYXUyaGctNUpIZ1Q4YUZKREtkQ2tvM3huejZqcWYxdFdIeU9MSkJOcUZKY1FKVjRKXzVqanZmdw?oc=5"
     },
     {
-      "title": "2026年9月台美股行事曆｜FED 利率決策撞四巫日、台股法說營收季底作帳一次看 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiowRBVV95cUxNQkljNjBmRFUxVEVFc0E5dVJhTWRKQ2hrV29WR0NBSjUtNFFWeUF5alRwQmotQ21XZjUyYlZoSlFnSGVqMWc3SklwUnpMLTJTbWRnZjZzOF8xR0dBX0VHbmMwUnNlVjRUdEtWcFBobnlhWG1XVjhuSTRiNHFqZzA0Q2FhQU5TY282YXpVd2ZPRDJYMHlHTWZFR0lxZ1FnVEMxeDAxSWJHaTYzUHc4SmQ3VFpSQWdCTERZU0dFTVNzT0ZNZUthSGtQVXhnM2Z6R3VZcFIyT2doczhNRWViY3dmU3dMb2VyUW4zMUN6MExuRURSY1VxXzhYX1BpNzJlM2Q3TGwxN2VvZnVhNWZNaFk2ZU5OR0dQODlCS0w4d0hZVkJoZG01VTZoMk1XZXhYUlBnSDdsX002WFB0bElhVi1Tdml0N2NneGVCZHV5Y3plaktwMzFXWEd6Q0MwLUxTeDBpNE41MUNSc1J3TmpISnNVMEI3bzI3dXJ2MkV0QnBlT0RqSEhQUUFDOGpHSTlwaHo0SW1haXpBUXBhZHRJUVh1LXpTdmVrM3g5N2xYR0pYNHhEb0VRV05CZG50YzJuelZNZW9obkg0R2NYQlZTTW10NFBaR0FrYXIxVkZjWEFGM0JwdXhhbTk2bGljdGRkdGVudjgtSlBQdnBITzZIVDRCOUV5YnlKQW5YdlRjbkhSM3dQNlNDSFRiNG9SbnFrSG54QV9n?oc=5"
-    },
-    {
-      "title": "新聞周刊丨比特幣礦工持倉近一周增加261枚 Anthropic籌備上市 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tYzBQSUVYdTEtMFRHRzlkaHJmbWxUN1BRcHA1eDNVbGdpMjYzUGN4emhpS19OZWR0Tm9IbEFFblR1ckxHa0V1X0ZYTGUwLW8?oc=5"
-    },
-    {
-      "title": "黃金將迎接新一輪漲勢 分析師喊「這價位」極具吸引力 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02RU9Dek85OTV3QXhHN1BFR0VCdEstUVZLWGFzU1hydG84T1c2dG9ZNGowY0pNdk1LTFVOaktvSEdkQ0hsS0NDNy0xUWhhN1ZFN2w0ckNETG5xYjRtMGln0gFkQVVfeXFMTW5mODAzci1zLUlIckxLdDJ5TVR5LVNqY25aakc0SlRSbWtXVXZCbENhc2c5NmNjNHR2eUl0UV91MGVmd0xUWVRLS0JOMlVuMHc2ZEpZd013dmFPSTBQUkVGZy1JUg?oc=5"
-    },
-    {
-      "title": "台股週一怎麼走？台指期夜盤衝上4萬7 財經專家「揭秘」最新風向 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNTjBoTUpTalNDV3pQc1hmamRjSlJxOFFzQndYaDlKcEtleXFhOXRkUGdvWnZScktHLVlGaUJLQkdRZ3RDZ2UzUzFwWVpEUWVLeDRYYXZmZ1pvcndMYmdNMWNMRzA0ZFZ6U1VLSnVVekM2LVU5WmM5WEp3Y2Q1cWFwSjZwOTgtclU1VFRCNmVGekpOYm1PeWtXcU44b0tQWUVGSi1heUUxbkFic0xvTnhPWDA4TEFZS280RXNXclRHX1gwRHJNZkdTa29JeTh0WUNjT2tYM0JYN2I4ejM3QWFfYmlTemtxdlNNMjJtSjNZWTFMVkVTUjJRV00zTTNfZFl1MEFLNGR3RE82OTd2WnprLXRzUDluVC05UTdDZjNwdU5ZRjBsUXFHc09TRldTTlJIS3RrdmJveVNMdUtzNHcwLTFueUVVT2otelFEQW5yaFk1Qkk?oc=5"
+      "title": "〈台股盤前要聞〉台指期夜盤突破4萬7、金融指數率先創新高、台灣50指數藥華藥進榜 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03NXJUU09hSV8wMFU3MFAxYi1jZlRJWnFXMDZKdTVXTFloSTVhTm96eWM3V05aTl9rLXppcWZHMkJ5Yjh0dUs0c1dLUzljdW8?oc=5"
     }
   ]
 }
