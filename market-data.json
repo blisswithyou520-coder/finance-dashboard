@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/08 03:50",
+  "updated_tw": "09/08 06:30",
   "taiwan": {
     "2330": {
       "price": 2460.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79348.48,
-      "change": -1001.5669,
-      "changePercent": -1.2465
+      "price": 79056.04,
+      "change": -1294.0069,
+      "changePercent": -1.6105
     },
     "ETH": {
-      "price": 2495.4,
-      "change": -19.1488,
-      "changePercent": -0.7615
+      "price": 2484.61,
+      "change": -29.9388,
+      "changePercent": -1.1906
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.512,
-      "change": -0.1834,
-      "changePercent": -0.5786
+      "price": 31.504,
+      "change": -0.117,
+      "changePercent": -0.37
     },
     "JPYTWD": {
-      "price": 0.202,
-      "change": -0.0016,
-      "changePercent": -0.7888
+      "price": 0.2019,
+      "change": -0.0006,
+      "changePercent": -0.3012
     },
     "EURTWD": {
-      "price": 36.668,
-      "change": -0.1875,
-      "changePercent": -0.5089
+      "price": 36.664,
+      "change": -0.0619,
+      "changePercent": -0.1685
     },
     "CNYTWD": {
-      "price": 4.7027,
+      "price": 4.6991,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4476.6,
-    "twd": 4535.0,
-    "tael": 170077.0,
-    "twdTotal": 141067.0,
-    "changePercent": 1.0565
+    "usd": 4458.9,
+    "twd": 4516.0,
+    "tael": 169362.0,
+    "twdTotal": 140473.0,
+    "changePercent": 0.6569
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,6 +121,10 @@
       "link": "https://news.google.com/rss/articles/CBMimgRBVV95cUxQb28ybXJCXzlDemU5bHBINWMyRnFIb2lYN1BtUFFNd1VPclBYSGZmUDRyZVlGSHZObk0yanZ3LU9KSlUxamZ2NXNBTmptN0VMOWdwdkdiRENDRWxSV201MmdRVTdaVjh3c2pVLUVFVWtvVmNwdEo2LXFTYzB6dFhyNkhhMm9icHFIbGNOMkJLRXI3LVJoUnVvSHo0UmdDbHE2aUhRNzhTZ2tBQkl0UHpveVVqT3hwYnczRGplV2NoYXFqQlY5SkFHYWNlQTFNWVliMzIxZ0RXNW5vcG5ZbGExdUlhakNFb2lmb2Rkb04yMXJ0MGlYNE1lZHRXNlhwVGJOamFjZ2xZMmx6WG9pRlNGdnBEVTJtcE56LUl1U3NOTFBTaGg1ZmFFMjF4dVczMUZzYzRNc2RvZmdEWHFkX25DV3hxNzhTbl93aWg2dE1WMUlLdGxpUDdZdUh2SmVpdlhrRmxhNG5IR1Ffa3dtejhhbXFycl8ydVltbnp1R1lWSWw3YldhcUJ3czhkX2hDM1hpQl9wRFh0Z1RYNFlWQzZzRlZrWnRkWnhlUmhtNlZHalF2RDNtR3lmZ2xBWWpRRGY1RjRkYVU2ZURDd3BDLU1tWG9sYmMwZ0RkaHZ2Mi1OU3hrSmwwcU1JNWwzcjVHdGVwc0Z1YU54Zm5kU3BHTWIxVy1MemlwWV91ZlkwNVN0Sk1SQXBaZ19vSWdB?oc=5"
     },
     {
+      "title": "美股和債市今休市 因為要慶祝這節日 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10bGF4M0xNbjNUNjNaanIzVDBoWm5nb0t2bEExYW02UTFGRnVyNWUtUDdwSTNlSjRDNldtZXNWdlVqakloTDFWbEU1Z1R3Sko4NmRqQ19idXdheVFT0gFiQVVfeXFMUHFoRTRsLUd0Y0J0dXotTEJBMDVlUXZEanpKVldybG1LUF81S04tdVp4Ym5SeTlMSFEyRzZybUNJeTRUc0lFb21reGptUnhmN3hmNW11VEc5MThTVzRRU2E4bmc?oc=5"
+    },
+    {
       "title": "美股盤後｜非農好消息變成美股壞消息，記憶體族群一枝獨秀 0907｜豐雲學堂 2026 年 09 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxObnVCd0RoZ09IMTRrNUg3NFJXdjM4ajQ0dEpON1dUZ3RZWWFjNmxBRlM4NTNpaE5NSTF6Vm1iMEoteGFGb3VvYTR6eUY5YlluQmltd1pwOWlCZjVaTlh4bUpSS2pZSmROU051U19IU3owVURDR2otOEpxMjl0dnQ3RnhsYUY4Q01YOFYybXJ1NUJKRkFiNy00aVZRUm13U0lUbm1iRzBsaVRTVF9DNU95dFI3dmcxcV9ndjlOZjluaXRKczJ1ZU9QbEF4NE1UVU9ZYkt3LWJIdzR0SEs3QUc5bWRwMXdNODFUU1RFak1NOVdQMmFsRXAzX1pTRXB4VTdfZWF1dEsxdGlWdDhnTlRiUFZxSEdDWldZS3FWSWxuNzlIYk9vQkowRU9IVC16VGR3Y1VSSUYwaG1uLU9JbnlmT2ZJcmFwTWFLakhjRzNGTkx6T2pqdEh6QTNSdC1qYWhIY0kxd0JQS3RkeENRYVBCLUhDSWwzcW5XaE5KbGhvVkVJUmFvVG9ydVpZZHBEN1dwQmFxQlF4ZDJqYnoyZGdoakZ1eTBQamZOZTRzR0FoY0lSVHEtR0ZkSWxB?oc=5"
     },
@@ -129,16 +133,12 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43ajFSUWsxNURJSjVjTENYME9sM1cxR2VZa1NTR2YzMVllQUhpM2hFanFLd2tyRVZURWgwZXlJTTh1bktXX3FrSVE1cWpJYkU2bElKY0U4Q21rTkpfWkRlRUxKU2tqUdIBa0FVX3lxTFBGYnZNRFh4dFBVRkJ4blZtWFZxZjQyY2JLeFVzc1hLVHAwUFVWUXFKQXktbFdxOTBaTlNBRE5YeXljU3BRb0Q5TW1YS0hTY2VLSDRtbzU2X25VMmNhMU54cU55SlBNUTlkaWVz?oc=5"
     },
     {
-      "title": "美股和債市今休市 因為要慶祝這節日 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10bGF4M0xNbjNUNjNaanIzVDBoWm5nb0t2bEExYW02UTFGRnVyNWUtUDdwSTNlSjRDNldtZXNWdlVqakloTDFWbEU1Z1R3Sko4NmRqQ19idXdheVFT0gFiQVVfeXFMUHFoRTRsLUd0Y0J0dXotTEJBMDVlUXZEanpKVldybG1LUF81S04tdVp4Ym5SeTlMSFEyRzZybUNJeTRUc0lFb21reGptUnhmN3hmNW11VEc5MThTVzRRU2E4bmc?oc=5"
+      "title": "〈台股盤前要聞〉外資爆第四大買超 台股重回4萬7、漢翔拿下龐巴迪20年長單 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BQXFVX2tvUWZFeTN0T3hGWjFzUjByMi1tZTZFY1VDQWdLX0hmYXlFUjlabWdiRTBvZzFMc0k1ckoyTnlZcWc1Rk11TQ?oc=5"
     },
     {
       "title": "黃金最新「關鍵價格」曝光！下一步崩盤還是狂噴 答案揭曉 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jOXNGSm1yM1ZMVVdxaXYyMUptc3ltRTlKR3pSYzRsTGUyQW9id3BucUxLcnYzQ1FYU1pGbzFFVllQY0FjallmY2RrdU16UnBmX3MwNjd2TXlaWXVhaHc40gFkQVVfeXFMTVFWN29XaHNDMmtUWGNOZXFRT2xvM0xWbjBrVWJycGM5S0JvNFdYZHpFQ1hjdWRvTDB0T1laVTlZbTE1VFo4NFBtR2p6N3F4OGpLejlZT3NvQlYxUlRMZTJxcnc5cw?oc=5"
-    },
-    {
-      "title": "法人：台股年底登5萬點- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91WXUteUVqaW53bGxOLTVmejRnZkE4cUNjRFdBdU9yNnpmaEwwVk5GU21LSHNDT1VJT01CV3dIN3VWcC00VXEzNEdNRkZlRTRUUy1Zek5vdjFsdS10Nmkw?oc=5"
     },
     {
       "title": "今「美股休市」晚上不開盤 2026美國10天休市日一次看 - Yahoo新聞",
