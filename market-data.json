@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/07 06:42",
+  "updated_tw": "09/07 08:21",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,34 +72,34 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79989.36,
-      "change": 165.4928,
-      "changePercent": 0.2073
+      "price": 80165.17,
+      "change": 341.3028,
+      "changePercent": 0.4276
     },
     "ETH": {
-      "price": 2507.18,
-      "change": 26.4444,
-      "changePercent": 1.066
+      "price": 2514.19,
+      "change": 33.4544,
+      "changePercent": 1.3486
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.621,
-      "change": -0.0744,
-      "changePercent": -0.2347
+      "price": 31.62,
+      "change": -0.0754,
+      "changePercent": -0.2379
     },
     "JPYTWD": {
-      "price": 0.2002,
-      "change": -0.0034,
-      "changePercent": -1.6728
+      "price": 0.2003,
+      "change": -0.0033,
+      "changePercent": -1.6237
     },
     "EURTWD": {
-      "price": 36.757,
-      "change": -0.0985,
-      "changePercent": -0.2674
+      "price": 36.77,
+      "change": -0.0855,
+      "changePercent": -0.2321
     },
     "CNYTWD": {
-      "price": 4.7157,
+      "price": 4.7155,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -107,8 +107,8 @@
   "gold": {
     "usd": 4476.6,
     "twd": 4551.0,
-    "tael": 170666.0,
-    "twdTotal": 141555.0,
+    "tael": 170660.0,
+    "twdTotal": 141550.0,
     "changePercent": 1.0565
   },
   "fed": {
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR205WGhDaGd1bUFPbjFhWnljNV92Q3Z6TlNNQUlsTi0xWlM3OUxaOGloQnhCN1QteGl2NGd3LVBkdndBSHFzVGFvUFpLdjQ3OUlxOE8zcWEyaEFFeEpEUjVSOFlqeG50cTVobEQ1blo5S0NKT2hldi1jX05uRUFqU3A4R3pYX2d2clE?oc=5"
     },
     {
+      "title": "《貴金屬》升息擔憂影響 COMEX黃金下跌1.4% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXlUaGRZczlNbFhMalZXMHhSNkJMVjRyelhXQUExaFRhOTlXcFJZb1p5TEl1cGF3RElpRG1EU3BMMnlRWnJuVnJic3dmRkpRLVpQNmg3bi1NWnFTSjFiZ3RCQXlnMkZzWEtzeE94WDlYSzBFT1d2TzNJa1dDRldqQWJyTVlWVkVROFc1bkxqUkE4dw?oc=5"
+    },
+    {
+      "title": "美股「最佳祕密」曝！資深基金經理看好微型股、點名「這些股票」 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDNHd5OFdfaUVhS3drbVdJV3RQVlRjVFdfU2llMllnRU9RTlhXUXdralFaeHhyTnFyLXZSWWJJbFpib204STA1SzNZOA?oc=5"
+    },
+    {
       "title": "逾408萬投資人笑開懷！11檔台股ETF齊創新高 00919連9天改寫紀錄 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQN21CS2ttaVVEaVUxdXI1Qi1nRzNMTk40WkpYQWw5MTVEdl81MzBRM0JINnIzcGF1VFJWWlRkZGFMWEZrVGtOd3ZzNnozUENuSFJFYV9zSmkzSkotYURacEliak9DaEJnOFZkOHByMTVrbXk2QVE4al9wQkduRjNod2treWRTUTNjTVJvdFk5UjNLVTF2Y1AtT1lZaDdIdlpaazZSUjdaeVlPXzlaQ3Z4ZF9kaExCU1llSkhHSjFHOW9XUkY0a2FCYmJQaVJmUi13U0lsc2I3MkNxY1c3NEFlc1dGTnhjdG13RjhMZHl0bVhhWWtjc25kWUtNYWY4N1I4X0FWWEpVaXhWLWtTUnBWLUREemczZmcwQzBsOHo2bWFXN29zQ2NFbExQZzBDOVQ1VVFUaWxLVzNNaU1VbG11ZTBqcnFGamdBbEZEZXZqVVFDSmlEdDF6NHhqa010dk9NOEthQkt5MkRDcFcx?oc=5"
     },
     {
-      "title": "《美股》美光、Bloom跳高費半嗨特斯拉逆勢挫- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOelh2bGMtWnFGUDJyM1dpbDQwQmRyVGZGamVsc3BYb3owaXJDaUdhNHlGUVR4cEk5OTRoQU5FaU00eTF3V3hHNDMzbzE4WldQa0Z5MERfc3BjaGxCeTJkMlZIOFBpczkwOWY1SnFTQWk5VEJ3SVd5Q2N3S2tQWlVYVTRtcVJHbzFBU0wwVFhoUkk5OTRBWUE?oc=5"
+      "title": "9月7日 五件財經大事搶先看 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxM3c5bndvcmhQUElCd0VzLTg4SGVrNzlaY1RJeVRjRk9nbmN0aFVPQ3ZsVzBqQ0dueUN2SlJKY0dUTzFfaTFaSEdSWks2SmJ2NDZIS1NJUENBQdIBX0FVX3lxTE1Cd3VDYzNpc3BzcER1RE1hR1NhWEJWUmthYlBQaHBRZGdMNTd6OW5FNzVfaDJ5YndCaUFuWkFndXptMENQZ3BzdkFGZTBnMFVPeUZMQUZ6MDl2amxhWmhB?oc=5"
     },
     {
-      "title": "黃金期 避險優選 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBORWRZVUFSMDRmZDhPTmlLdk5iZmNtT1JRdG82WEtsSGszaTBwWHQxWTAwMlVDMjgtcGtIM0lweUJaOGdPdzU5U2ZYbkQ5MWRpZXFEUldpLVpwQdIBX0FVX3lxTE8tYVdjcWUxVnd2RE5hdTRidGFWY1NwcDZQaGp3QWhYWFZSUmhjYS1lUFFnbHl2MTNwUmFZWWpfMGFtdVFvUDRZWTgtdFlyOUxzdGozRVQzc2t3QVBEUVkw?oc=5"
+      "title": "金十數據全球財經早餐 | 2026年9月7日 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeWR4eVpiNEJNOFdtTmoyVnRCaVBhN3A4R0F3SHNYWmh0Vk4wbjF5aEh1MDY4dHkzYTNhaVZ3SG9lemVfYUpPRjgzOTFJa1d4M1Z2WGM5a3JxUjVYUlFCQ28ydGI4Zk50M21CaFdYd2JiYW1fejVoQUFTYzA0dzRwT3NCZ1k1VThzQi1ZdkFVdw?oc=5"
     },
     {
-      "title": "口袋台股專區 - pocket.tw",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yWkFXcUdRcXhEcll6eFU5aHVLbF9vTktRN0N0enFSVTJyLS1BWjdCMnQ0Wk01U2ZmWjR3T3NFSExTWGxGWWpweER3WQ?oc=5"
+      "title": "【0904台股盤後】加權指數漲693 點收46,551 點！三大法人買超629 億元終結連2 賣，被動元件與散熱多檔漲停，「動能排行」: 永擎、倉和、光環｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMizgVBVV95cUxOcnRKaWV0Wlh3QmUwbDhfQkM1N1Z2QldfTjFhQU9ZY2VzbURqRnJLMDBLOXBxX2JfSjRzeTlqWkUwX2VrSC00YmpXc21sWkpBVUNFZEtDZTNCbUt2alFLTTVqb1VKYy1kYmt3VVdMZVdkbFYtSkl1Y1U4bk9wTHNyTjNYWENpTENvWDl0ZmQyUmFnS1NZVC1udHl5S3RRMzc2UGpWZGRLOFVRLVVVOXQwRlFKM2dTYmpULWxkVGVjTWllRF9CLXpnem1sbnZTclVTLXRFbEdOdERoOGo2Snd0UzhKTVJLWFVaUm9Xc090M0lINVljbnVscm4zeDMtYU1rT3NteEdjOG9EbDdJMmtxbV9oTXVsMmFLaFZiVWpQYlYtbndVZDdSRUJvMk5NSFZWOFFJMHpNd0ZPM1drWHN5VUh4UEZwaUVSRUFGQkZMRWZ2VWFzQm9vaHNobXJmUXYtOUlES0VoUzE4SEdtVGpVMjhNMUxRX1g1dlhmbURMMVBYcmQ5SndOeVZ5MFo2NVdSZHltbGFJQ0VRSXZfZjhXNzNXQ0c1ODNhZUdORGlvOHoyRzBSRjd2WThadG5sbVU2cE9TeU1RTVprTXVMSTBIT2prWWZLZVljWVF0VktYd1NmRHF5TjhMTmZuQ1lOUm03NnBRZjFrVkJaeThKc0xEdnp4U2ZkUVFROXItSjVtdVdCSXVqQXY1R3hVZDc3Nm9iMXBlOElHWkVFc00yODU5YWtFMGtMVWNJVVk3U3NZZkZLSlJrc1YzY0xxSnNMRkNDZU5XaW5RWXpqMVhVcUV0eFB3WXptQjhRd0N4TFlkdk1GWHVsNkVTZkhtQnFZcHNvNVh1RWtXMW9OZ2R2VmVwLWVpalNBNVppdXZqVW44bWluZW5kbnBScUN5R0V3R1AzYlBYMTBCZWlyZ0F5akNBOTZscmFJRFVRNVh3LXdn?oc=5"
     },
     {
-      "title": "2026年9月台美股行事曆｜FED 利率決策撞四巫日、台股法說營收季底作帳一次看 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiowRBVV95cUxNQkljNjBmRFUxVEVFc0E5dVJhTWRKQ2hrV29WR0NBSjUtNFFWeUF5alRwQmotQ21XZjUyYlZoSlFnSGVqMWc3SklwUnpMLTJTbWRnZjZzOF8xR0dBX0VHbmMwUnNlVjRUdEtWcFBobnlhWG1XVjhuSTRiNHFqZzA0Q2FhQU5TY282YXpVd2ZPRDJYMHlHTWZFR0lxZ1FnVEMxeDAxSWJHaTYzUHc4SmQ3VFpSQWdCTERZU0dFTVNzT0ZNZUthSGtQVXhnM2Z6R3VZcFIyT2doczhNRWViY3dmU3dMb2VyUW4zMUN6MExuRURSY1VxXzhYX1BpNzJlM2Q3TGwxN2VvZnVhNWZNaFk2ZU5OR0dQODlCS0w4d0hZVkJoZG01VTZoMk1XZXhYUlBnSDdsX002WFB0bElhVi1Tdml0N2NneGVCZHV5Y3plaktwMzFXWEd6Q0MwLUxTeDBpNE41MUNSc1J3TmpISnNVMEI3bzI3dXJ2MkV0QnBlT0RqSEhQUUFDOGpHSTlwaHo0SW1haXpBUXBhZHRJUVh1LXpTdmVrM3g5N2xYR0pYNHhEb0VRV05CZG50YzJuelZNZW9obkg0R2NYQlZTTW10NFBaR0FrYXIxVkZjWEFGM0JwdXhhbTk2bGljdGRkdGVudjgtSlBQdnBITzZIVDRCOUV5YnlKQW5YdlRjbkhSM3dQNlNDSFRiNG9SbnFrSG54QV9n?oc=5"
-    },
-    {
-      "title": "「挖金子」比黃金還賺！美國銀行點名：黃金礦業估值來到20年最便宜 - 商周",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85LU1VcE9rNjh4QndLWFV2c3F0N0dmN1g3ZzFFcEZCdENJalgtRjZMYXUyaGctNUpIZ1Q4YUZKREtkQ2tvM3huejZqcWYxdFdIeU9MSkJOcUZKY1FKVjRKXzVqanZmdw?oc=5"
-    },
-    {
-      "title": "〈台股盤前要聞〉台指期夜盤突破4萬7、金融指數率先創新高、台灣50指數藥華藥進榜 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03NXJUU09hSV8wMFU3MFAxYi1jZlRJWnFXMDZKdTVXTFloSTVhTm96eWM3V05aTl9rLXppcWZHMkJ5Yjh0dUs0c1dLUzljdW8?oc=5"
+      "title": "美國正失去避險天堂地位？各國央行紛紛把黃金搬離紐約 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jb0hvdlpQWWh1XzUwY2NBa25iVDdyZmxvb2hKX2NlcGJUWnpmQVVXMEtyUzVLVkc4WmdTb1h2dmxjLXFyNzlpbmVqTHlkREU?oc=5"
     }
   ]
 }
