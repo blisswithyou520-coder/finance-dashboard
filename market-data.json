@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/07 23:58",
+  "updated_tw": "09/08 03:50",
   "taiwan": {
     "2330": {
       "price": 2460.0,
@@ -24,8 +24,8 @@
     },
     "00878": {
       "price": 34.39,
-      "change": 0.28,
-      "changePercent": 0.8209
+      "change": 0.81,
+      "changePercent": 2.4121
     },
     "00919": {
       "price": 32.91,
@@ -72,34 +72,34 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78835.48,
-      "change": -1514.5669,
-      "changePercent": -1.885
+      "price": 79348.48,
+      "change": -1001.5669,
+      "changePercent": -1.2465
     },
     "ETH": {
-      "price": 2471.57,
-      "change": -42.9788,
-      "changePercent": -1.7092
+      "price": 2495.4,
+      "change": -19.1488,
+      "changePercent": -0.7615
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.511,
-      "change": -0.1844,
-      "changePercent": -0.5818
+      "price": 31.512,
+      "change": -0.1834,
+      "changePercent": -0.5786
     },
     "JPYTWD": {
-      "price": 0.2019,
-      "change": -0.0017,
-      "changePercent": -0.8379
+      "price": 0.202,
+      "change": -0.0016,
+      "changePercent": -0.7888
     },
     "EURTWD": {
-      "price": 36.684,
-      "change": -0.1715,
-      "changePercent": -0.4655
+      "price": 36.668,
+      "change": -0.1875,
+      "changePercent": -0.5089
     },
     "CNYTWD": {
-      "price": 4.701,
+      "price": 4.7027,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -107,8 +107,8 @@
   "gold": {
     "usd": 4476.6,
     "twd": 4535.0,
-    "tael": 170072.0,
-    "twdTotal": 141062.0,
+    "tael": 170077.0,
+    "twdTotal": 141067.0,
     "changePercent": 1.0565
   },
   "fed": {
@@ -121,6 +121,14 @@
       "link": "https://news.google.com/rss/articles/CBMimgRBVV95cUxQb28ybXJCXzlDemU5bHBINWMyRnFIb2lYN1BtUFFNd1VPclBYSGZmUDRyZVlGSHZObk0yanZ3LU9KSlUxamZ2NXNBTmptN0VMOWdwdkdiRENDRWxSV201MmdRVTdaVjh3c2pVLUVFVWtvVmNwdEo2LXFTYzB6dFhyNkhhMm9icHFIbGNOMkJLRXI3LVJoUnVvSHo0UmdDbHE2aUhRNzhTZ2tBQkl0UHpveVVqT3hwYnczRGplV2NoYXFqQlY5SkFHYWNlQTFNWVliMzIxZ0RXNW5vcG5ZbGExdUlhakNFb2lmb2Rkb04yMXJ0MGlYNE1lZHRXNlhwVGJOamFjZ2xZMmx6WG9pRlNGdnBEVTJtcE56LUl1U3NOTFBTaGg1ZmFFMjF4dVczMUZzYzRNc2RvZmdEWHFkX25DV3hxNzhTbl93aWg2dE1WMUlLdGxpUDdZdUh2SmVpdlhrRmxhNG5IR1Ffa3dtejhhbXFycl8ydVltbnp1R1lWSWw3YldhcUJ3czhkX2hDM1hpQl9wRFh0Z1RYNFlWQzZzRlZrWnRkWnhlUmhtNlZHalF2RDNtR3lmZ2xBWWpRRGY1RjRkYVU2ZURDd3BDLU1tWG9sYmMwZ0RkaHZ2Mi1OU3hrSmwwcU1JNWwzcjVHdGVwc0Z1YU54Zm5kU3BHTWIxVy1MemlwWV91ZlkwNVN0Sk1SQXBaZ19vSWdB?oc=5"
     },
     {
+      "title": "美股盤後｜非農好消息變成美股壞消息，記憶體族群一枝獨秀 0907｜豐雲學堂 2026 年 09 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxObnVCd0RoZ09IMTRrNUg3NFJXdjM4ajQ0dEpON1dUZ3RZWWFjNmxBRlM4NTNpaE5NSTF6Vm1iMEoteGFGb3VvYTR6eUY5YlluQmltd1pwOWlCZjVaTlh4bUpSS2pZSmROU051U19IU3owVURDR2otOEpxMjl0dnQ3RnhsYUY4Q01YOFYybXJ1NUJKRkFiNy00aVZRUm13U0lUbm1iRzBsaVRTVF9DNU95dFI3dmcxcV9ndjlOZjluaXRKczJ1ZU9QbEF4NE1UVU9ZYkt3LWJIdzR0SEs3QUc5bWRwMXdNODFUU1RFak1NOVdQMmFsRXAzX1pTRXB4VTdfZWF1dEsxdGlWdDhnTlRiUFZxSEdDWldZS3FWSWxuNzlIYk9vQkowRU9IVC16VGR3Y1VSSUYwaG1uLU9JbnlmT2ZJcmFwTWFLakhjRzNGTkx6T2pqdEh6QTNSdC1qYWhIY0kxd0JQS3RkeENRYVBCLUhDSWwzcW5XaE5KbGhvVkVJUmFvVG9ydVpZZHBEN1dwQmFxQlF4ZDJqYnoyZGdoakZ1eTBQamZOZTRzR0FoY0lSVHEtR0ZkSWxB?oc=5"
+    },
+    {
+      "title": "黃金儲備：歐洲國家從北美提貨為甚麼？ - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43ajFSUWsxNURJSjVjTENYME9sM1cxR2VZa1NTR2YzMVllQUhpM2hFanFLd2tyRVZURWgwZXlJTTh1bktXX3FrSVE1cWpJYkU2bElKY0U4Q21rTkpfWkRlRUxKU2tqUdIBa0FVX3lxTFBGYnZNRFh4dFBVRkJ4blZtWFZxZjQyY2JLeFVzc1hLVHAwUFVWUXFKQXktbFdxOTBaTlNBRE5YeXljU3BRb0Q5TW1YS0hTY2VLSDRtbzU2X25VMmNhMU54cU55SlBNUTlkaWVz?oc=5"
+    },
+    {
       "title": "美股和債市今休市 因為要慶祝這節日 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10bGF4M0xNbjNUNjNaanIzVDBoWm5nb0t2bEExYW02UTFGRnVyNWUtUDdwSTNlSjRDNldtZXNWdlVqakloTDFWbEU1Z1R3Sko4NmRqQ19idXdheVFT0gFiQVVfeXFMUHFoRTRsLUd0Y0J0dXotTEJBMDVlUXZEanpKVldybG1LUF81S04tdVp4Ym5SeTlMSFEyRzZybUNJeTRUc0lFb21reGptUnhmN3hmNW11VEc5MThTVzRRU2E4bmc?oc=5"
     },
@@ -129,24 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jOXNGSm1yM1ZMVVdxaXYyMUptc3ltRTlKR3pSYzRsTGUyQW9id3BucUxLcnYzQ1FYU1pGbzFFVllQY0FjallmY2RrdU16UnBmX3MwNjd2TXlaWXVhaHc40gFkQVVfeXFMTVFWN29XaHNDMmtUWGNOZXFRT2xvM0xWbjBrVWJycGM5S0JvNFdYZHpFQ1hjdWRvTDB0T1laVTlZbTE1VFo4NFBtR2p6N3F4OGpLejlZT3NvQlYxUlRMZTJxcnc5cw?oc=5"
     },
     {
-      "title": "【0907台股盤後】加權指數漲1.67%！ 聯電攻漲停、聯發科獲輝達認購可轉債 季報優於預期股鎖碼尖點、華邦電、楠梓電 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNRXEtbnpuZ3k0eVRPOHd5R2xFUW9nbWhSYUFpczQ2TlRMWEZ6VkgzcERGS0dXUkN5UGNEeVZSaXVhTEI1SDg1MTNNVTFudklwcm1YRmhOQ2ZsYWNnUlJEU21ETklIVGhzTktCaWkwWWpRVVhHU3hULTV1b1ZzSFBYclZKM3U0N21lSE9fZGFxcXdCZ1FWMWE3YzdFenJzUUJiV3F3dVRMeWM4Z29KNFI4anU1NW5WZUJzLVY5YWR3RUs5Y0I5aThtcmRnbk9wWDF5ZEFiaGF3NTZ3QmFMSEJmQW1qVFpzQ25WcXR1TjVuVHEweE1tdmRHbFAwdEtBVUZtZVlrNWZ1MTgwaGl3WGVYMkFBMHZBOWJXTWVfRV9mMnZ6aGgwS0x3UkRzTVZwWmNiR0lHUmJCbWNnZzR6OWJkWlVtNk9LNEpuVDJvNzdaYTFpeHpYUzhiUkZ3RGI0cFJPaEpJSmpibTFWUlE5dG1sSEZHVUxQaGt0M1J4dlIyWjFvVnFaYW44WURwNjBhRW5uYmNkVnB3bThIekxsRXY2eHVJRGZOclN4dlhjMjZ5WE9pZzllby0wcjhzWEctV005VnJxanM2WXdlNi05N0kxczlHU1ZvZzBjN1Q1dk5nRTFVb3RCSkN6YlhfRGRGRzVIVUVFUkFocjBYQzhySHlycFNFZEc4VGZCQW5zX3kwdWVVWVd3SWJEZEZ0LXFEQnh2dWJCTWJ4aWZVaWlCYjlHQUZfTkpSUG5valpZc2ZJQjRPSDlWUlBWcVlZUnJJSlpZOTZWX05uZDNuVHpCM1RiaF9fVXRBdjIzMFBxVldhUkN3b05sQTZHcjhFaFgxVmlzX05VVFlrTWJpRjRGMTBrTg?oc=5"
-    },
-    {
-      "title": "黃金儲備：歐洲國家從北美提貨為甚麼？ - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43ajFSUWsxNURJSjVjTENYME9sM1cxR2VZa1NTR2YzMVllQUhpM2hFanFLd2tyRVZURWgwZXlJTTh1bktXX3FrSVE1cWpJYkU2bElKY0U4Q21rTkpfWkRlRUxKU2tqUdIBa0FVX3lxTFBGYnZNRFh4dFBVRkJ4blZtWFZxZjQyY2JLeFVzc1hLVHAwUFVWUXFKQXktbFdxOTBaTlNBRE5YeXljU3BRb0Q5TW1YS0hTY2VLSDRtbzU2X25VMmNhMU54cU55SlBNUTlkaWVz?oc=5"
-    },
-    {
-      "title": "美股休市，今日因勞動節全天休市，投資人需要注意什麼？ - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wdWhpSk04ajk3dzlwb016MjlPRWw5VjluZVBXZzZCd2R3NGplNXkyMGFIeFZYWUpvckM5VlV2T0Ryd20zSjl0VEtWdVhKdHpGc2kxMFR3cEplSXd2aUQ1ZjZMMkVmaGlUcF9LMEtMdVp1SnZjTU1MR2R3?oc=5"
-    },
-    {
-      "title": "「彰化縣員林市黃金帝國公辦都更案」公開評選實施者 招商說明會9/21正式登場 - chcg.gov.tw",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc0xodWI2YmtiN2I0MEtrRUpfeTJTSHFtcVRQT1gyVmdtNDkzWkZSc1NiX2ZYNnB4RURUZ0hGenA5X2tzUVZCclM1LXdyNUdXZHdiWkpjdWItTjAtSVo2OUFoaVBVVTloSjB4YU80dWNLUkt0VVhST081cFA1T1lIRGpKNXBuNllDR0E?oc=5"
+      "title": "法人：台股年底登5萬點- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91WXUteUVqaW53bGxOLTVmejRnZkE4cUNjRFdBdU9yNnpmaEwwVk5GU21LSHNDT1VJT01CV3dIN3VWcC00VXEzNEdNRkZlRTRUUy1Zek5vdjFsdS10Nmkw?oc=5"
     },
     {
       "title": "今「美股休市」晚上不開盤 2026美國10天休市日一次看 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNS2QwLVBIU3ZEcmpmWHZqLWVBeUVqZV8zN0owOEMwTV9WUHV3bDlVRWtpNmlSSUNFUnIwTTR6RWNxNUhsX2k5MWN2RVZqTy1HekFiS3JLRkFaVlBqNDhZM0IweFZ5blVDOTJNSUdUSGktdEx0elRWcTM4U3BVZy1fMEVETGpEVk84RGVtVS1KUHdLZy1fLV9VamkwSjhNSU93NV9Gd1BwZFdGODUwT2ktUy1TWnpiZ2wzcHNzeEVBNTNERGVvNjlDMC1BNE1mUnFWc1p4TjJrajgzcDBXZlU4M3hTekIzYy11Q005c2l2V21PTDdkVGs1R01Zb2VnWHY0U05kOUpkTldhNml3aFk5WER0R2ZibnpxOVJ1dVFHRTNCV3piR1VzbmhkMmdQZ0JESGM2YXljQWY?oc=5"
+    },
+    {
+      "title": "【0907台股盤後】加權指數漲1.67%！ 聯電攻漲停、聯發科獲輝達認購可轉債 季報優於預期股鎖碼尖點、華邦電、楠梓電 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNRXEtbnpuZ3k0eVRPOHd5R2xFUW9nbWhSYUFpczQ2TlRMWEZ6VkgzcERGS0dXUkN5UGNEeVZSaXVhTEI1SDg1MTNNVTFudklwcm1YRmhOQ2ZsYWNnUlJEU21ETklIVGhzTktCaWkwWWpRVVhHU3hULTV1b1ZzSFBYclZKM3U0N21lSE9fZGFxcXdCZ1FWMWE3YzdFenJzUUJiV3F3dVRMeWM4Z29KNFI4anU1NW5WZUJzLVY5YWR3RUs5Y0I5aThtcmRnbk9wWDF5ZEFiaGF3NTZ3QmFMSEJmQW1qVFpzQ25WcXR1TjVuVHEweE1tdmRHbFAwdEtBVUZtZVlrNWZ1MTgwaGl3WGVYMkFBMHZBOWJXTWVfRV9mMnZ6aGgwS0x3UkRzTVZwWmNiR0lHUmJCbWNnZzR6OWJkWlVtNk9LNEpuVDJvNzdaYTFpeHpYUzhiUkZ3RGI0cFJPaEpJSmpibTFWUlE5dG1sSEZHVUxQaGt0M1J4dlIyWjFvVnFaYW44WURwNjBhRW5uYmNkVnB3bThIekxsRXY2eHVJRGZOclN4dlhjMjZ5WE9pZzllby0wcjhzWEctV005VnJxanM2WXdlNi05N0kxczlHU1ZvZzBjN1Q1dk5nRTFVb3RCSkN6YlhfRGRGRzVIVUVFUkFocjBYQzhySHlycFNFZEc4VGZCQW5zX3kwdWVVWVd3SWJEZEZ0LXFEQnh2dWJCTWJ4aWZVaWlCYjlHQUZfTkpSUG5valpZc2ZJQjRPSDlWUlBWcVlZUnJJSlpZOTZWX05uZDNuVHpCM1RiaF9fVXRBdjIzMFBxVldhUkN3b05sQTZHcjhFaFgxVmlzX05VVFlrTWJpRjRGMTBrTg?oc=5"
     }
   ]
 }
