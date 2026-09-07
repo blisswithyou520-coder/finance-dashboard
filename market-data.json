@@ -1,16 +1,16 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/07 13:02",
+  "updated_tw": "09/07 18:18",
   "taiwan": {
     "2330": {
-      "price": 2455.0,
-      "change": 45.0,
-      "changePercent": 1.8672
+      "price": 2460.0,
+      "change": 50.0,
+      "changePercent": 2.0747
     },
     "2454": {
-      "price": 4765.0,
-      "change": 350.0,
-      "changePercent": 7.9275
+      "price": 4760.0,
+      "change": 345.0,
+      "changePercent": 7.8143
     },
     "2317": {
       "price": 256.0,
@@ -18,19 +18,19 @@
       "changePercent": 0.0
     },
     "0050": {
-      "price": 109.8,
-      "change": 1.9,
-      "changePercent": 1.7609
+      "price": 109.9,
+      "change": 2.0,
+      "changePercent": 1.8536
     },
     "00878": {
-      "price": 34.43,
-      "change": 0.32,
-      "changePercent": 0.9381
+      "price": 34.39,
+      "change": 0.28,
+      "changePercent": 0.8209
     },
     "00919": {
-      "price": 32.98,
-      "change": -0.04,
-      "changePercent": -0.1211
+      "price": 32.91,
+      "change": -0.11,
+      "changePercent": -0.3331
     }
   },
   "us": {
@@ -72,43 +72,43 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79717.96,
-      "change": -105.9072,
-      "changePercent": -0.1327
+      "price": 79389.02,
+      "change": -961.0269,
+      "changePercent": -1.1961
     },
     "ETH": {
-      "price": 2499.51,
-      "change": 18.7744,
-      "changePercent": 0.7568
+      "price": 2488.74,
+      "change": -25.8088,
+      "changePercent": -1.0264
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.596,
-      "change": -0.0994,
-      "changePercent": -0.3136
+      "price": 31.528,
+      "change": -0.1674,
+      "changePercent": -0.5282
     },
     "JPYTWD": {
-      "price": 0.2003,
-      "change": -0.0033,
-      "changePercent": -1.6237
+      "price": 0.2018,
+      "change": -0.0018,
+      "changePercent": -0.887
     },
     "EURTWD": {
-      "price": 36.731,
-      "change": -0.1245,
-      "changePercent": -0.3379
+      "price": 36.695,
+      "change": -0.1605,
+      "changePercent": -0.4356
     },
     "CNYTWD": {
-      "price": 4.7148,
+      "price": 4.7037,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
     "usd": 4476.6,
-    "twd": 4547.0,
-    "tael": 170531.0,
-    "twdTotal": 141443.0,
+    "twd": 4538.0,
+    "tael": 170164.0,
+    "twdTotal": 141138.0,
     "changePercent": 1.0565
   },
   "fed": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "黃金最新「關鍵價格」曝光！下一步崩盤還是狂噴 答案揭曉 - ec.ltn.com.tw",
+      "title": "【Follow法人】美股休市一天！外資狂掃883億元「史上第四大」 分析師：押寶台積電8月營收 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimgRBVV95cUxQb28ybXJCXzlDemU5bHBINWMyRnFIb2lYN1BtUFFNd1VPclBYSGZmUDRyZVlGSHZObk0yanZ3LU9KSlUxamZ2NXNBTmptN0VMOWdwdkdiRENDRWxSV201MmdRVTdaVjh3c2pVLUVFVWtvVmNwdEo2LXFTYzB6dFhyNkhhMm9icHFIbGNOMkJLRXI3LVJoUnVvSHo0UmdDbHE2aUhRNzhTZ2tBQkl0UHpveVVqT3hwYnczRGplV2NoYXFqQlY5SkFHYWNlQTFNWVliMzIxZ0RXNW5vcG5ZbGExdUlhakNFb2lmb2Rkb04yMXJ0MGlYNE1lZHRXNlhwVGJOamFjZ2xZMmx6WG9pRlNGdnBEVTJtcE56LUl1U3NOTFBTaGg1ZmFFMjF4dVczMUZzYzRNc2RvZmdEWHFkX25DV3hxNzhTbl93aWg2dE1WMUlLdGxpUDdZdUh2SmVpdlhrRmxhNG5IR1Ffa3dtejhhbXFycl8ydVltbnp1R1lWSWw3YldhcUJ3czhkX2hDM1hpQl9wRFh0Z1RYNFlWQzZzRlZrWnRkWnhlUmhtNlZHalF2RDNtR3lmZ2xBWWpRRGY1RjRkYVU2ZURDd3BDLU1tWG9sYmMwZ0RkaHZ2Mi1OU3hrSmwwcU1JNWwzcjVHdGVwc0Z1YU54Zm5kU3BHTWIxVy1MemlwWV91ZlkwNVN0Sk1SQXBaZ19vSWdB?oc=5"
+    },
+    {
+      "title": "黃金最新「關鍵價格」曝光！下一步崩盤還是狂噴 答案揭曉 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jOXNGSm1yM1ZMVVdxaXYyMUptc3ltRTlKR3pSYzRsTGUyQW9id3BucUxLcnYzQ1FYU1pGbzFFVllQY0FjallmY2RrdU16UnBmX3MwNjd2TXlaWXVhaHc40gFkQVVfeXFMTVFWN29XaHNDMmtUWGNOZXFRT2xvM0xWbjBrVWJycGM5S0JvNFdYZHpFQ1hjdWRvTDB0T1laVTlZbTE1VFo4NFBtR2p6N3F4OGpLejlZT3NvQlYxUlRMZTJxcnc5cw?oc=5"
     },
     {
-      "title": "今「美股休市」晚上不開盤 2026美國10天休市日一次看 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNS2QwLVBIU3ZEcmpmWHZqLWVBeUVqZV8zN0owOEMwTV9WUHV3bDlVRWtpNmlSSUNFUnIwTTR6RWNxNUhsX2k5MWN2RVZqTy1HekFiS3JLRkFaVlBqNDhZM0IweFZ5blVDOTJNSUdUSGktdEx0elRWcTM4U3BVZy1fMEVETGpEVk84RGVtVS1KUHdLZy1fLV9VamkwSjhNSU93NV9Gd1BwZFdGODUwT2ktUy1TWnpiZ2wzcHNzeEVBNTNERGVvNjlDMC1BNE1mUnFWc1p4TjJrajgzcDBXZlU4M3hTekIzYy11Q005c2l2V21PTDdkVGs1R01Zb2VnWHY0U05kOUpkTldhNml3aFk5WER0R2ZibnpxOVJ1dVFHRTNCV3piR1VzbmhkMmdQZ0JESGM2YXljQWY?oc=5"
+      "title": "黃金儲備：歐洲國家從北美提貨為甚麼？ - bbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43ajFSUWsxNURJSjVjTENYME9sM1cxR2VZa1NTR2YzMVllQUhpM2hFanFLd2tyRVZURWgwZXlJTTh1bktXX3FrSVE1cWpJYkU2bElKY0U4Q21rTkpfWkRlRUxKU2tqUdIBa0FVX3lxTFBGYnZNRFh4dFBVRkJ4blZtWFZxZjQyY2JLeFVzc1hLVHAwUFVWUXFKQXktbFdxOTBaTlNBRE5YeXljU3BRb0Q5TW1YS0hTY2VLSDRtbzU2X25VMmNhMU54cU55SlBNUTlkaWVz?oc=5"
     },
     {
-      "title": "Liquid Network 爆 3.2 億美元安全事故！3,996 枚比特幣遭轉走 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NaG02OEJma2hBMVFBMDVyNk5iQUdGZkZkMW40aWZYdWtQNUtjeVdGTlpDeXR0QkFrRFQ3dDlSUHA5WHpGTG1YdkYwQQ?oc=5"
+      "title": "ETF 一周狂吸近 10 億美元，比特幣為何仍守不住 8 萬？ - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONTVqU0p6SHVEMEdTVWFhNTNxY3lvWXk1VGhoUEU3S05ZUlVkMzJSNURJaEpjMmE2ZmRmVEtIX09GOVdXQXFMWTNVUlBjVmEwRWFwUy1wVnJHa0hSa2FnZU1QbGxCR0JoYWVLS3dTaGpvbm9seHRTUF9NQUpyd25xMGlQTUZYaU9PU0tkeUo1emtlbzltRm1OaWEzRWt0dF9LY2g2aHd1WnUzTDVHdjh2SjdXc0RJQXc?oc=5"
+    },
+    {
+      "title": "高盛最新亞太策略，北亞晶片鏈成贏家，台股獲利今年估增62%，12個月高點上看54000點｜股市話題 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiswRBVV95cUxQU2hLWGhLZTZ2dzZRaVA4MDZXWGFuQ1VNbW1HbVhYRl9LTDVFRDVRcXBXcDc5aFFHdGRnU2R3aDVwSVU0eW9ZOV9ac05pWThwNDU0OHVkTU40UVcwNUtNSmE3SnRrQVN2dXY4bXB2U3hqOGtrYUlvZnh4cEQwLWIwWXZoeGh3WHJGMnhqbFBNRW9WejZ6Q1pMVUdKd0dHYlFwekUwMGROWlF6TTlWWW1Wc2MxY3dIVzc3V00tZk1LUlJFZWFxRHg1aEF3Uno4SVdwZlppMkZZWENhbkJNQ0Qtd3k4YzU3eThaTWJaLVVZN2gzRnI0YWhPVWlEb3UtVk1OZWZiWUVhUnlZYnNvUmJncG5nTEg3UVVSUFRlUXYyOFlBRUVVRW81Z0hTS1ZRQ1JsTnIyYUw5OG50dEcxY0s4aDg2V1k1dHhpYkt5RURldjh1MlFqR0ZNNWd3cS1WMzExUDBoVFF0WE5CVHFLUXZ6ekJTYm9oWUVMRHphTHJjOFo3bXg5SktqRmZkZjNiMHBuUElPVlBjcEE0Y1ZTMEF3RlpCRHhGOXd4V3hGYjVTOXJxRUt3SDZKSTV5Q3FhS2RuOVY4ZjBVRjZ4eVRIVUtvM3FNeXZyOWNmakRDYi1RRXBicjhMYXVSMnBOQnVLMnpXeFdPUjhMdFhMQ212UE1QQlItQnM3aVNPX2JHZDZfcGlIUURvQTlVWnBmdjc2R1ZOeUVVYWhybF9MWkU5am9MeS1HVQ?oc=5"
     },
     {
       "title": "亞洲將成黃金中樞，香港與新加坡競逐 - 日經中文網",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR205WGhDaGd1bUFPbjFhWnljNV92Q3Z6TlNNQUlsTi0xWlM3OUxaOGloQnhCN1QteGl2NGd3LVBkdndBSHFzVGFvUFpLdjQ3OUlxOE8zcWEyaEFFeEpEUjVSOFlqeG50cTVobEQ1blo5S0NKT2hldi1jX05uRUFqU3A4R3pYX2d2clE?oc=5"
     },
     {
-      "title": "黃金儲備：歐洲國家從北美提貨為甚麼？ - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43ajFSUWsxNURJSjVjTENYME9sM1cxR2VZa1NTR2YzMVllQUhpM2hFanFLd2tyRVZURWgwZXlJTTh1bktXX3FrSVE1cWpJYkU2bElKY0U4Q21rTkpfWkRlRUxKU2tqUdIBa0FVX3lxTFBGYnZNRFh4dFBVRkJ4blZtWFZxZjQyY2JLeFVzc1hLVHAwUFVWUXFKQXktbFdxOTBaTlNBRE5YeXljU3BRb0Q5TW1YS0hTY2VLSDRtbzU2X25VMmNhMU54cU55SlBNUTlkaWVz?oc=5"
+      "title": "美股和債市今休市 因為要慶祝這節日 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10bGF4M0xNbjNUNjNaanIzVDBoWm5nb0t2bEExYW02UTFGRnVyNWUtUDdwSTNlSjRDNldtZXNWdlVqakloTDFWbEU1Z1R3Sko4NmRqQ19idXdheVFT0gFiQVVfeXFMUHFoRTRsLUd0Y0J0dXotTEJBMDVlUXZEanpKVldybG1LUF81S04tdVp4Ym5SeTlMSFEyRzZybUNJeTRUc0lFb21reGptUnhmN3hmNW11VEc5MThTVzRRU2E4bmc?oc=5"
     },
     {
-      "title": "比特幣、以太幣現貨 ETF 連三週吸金！SOL 曾締 11 日連續淨流入 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVk1hV0FZeTZrc0swNFY2TFBNeVRDcHVFOGVBb0ZzcUVGS2N5b2xBamJVZWRUaWF2Mm9Nc25FX2dNT3Q3QkZmeWJSWmx0VGFrLUFOSk8tTWU3WHNrOEU0cy1teThPUVRyTWVRQzlacVNEbHQ0S3E1RUVLcmpSbi1oSTNaZENTeVkxMjJJVmZXSW9oVlVXTm5oU1pBME1ZU1FOc281TlNHdXRQTmJ6ZUxCV3JB?oc=5"
-    },
-    {
-      "title": "黃金運回國、美債要減倉！美國避險地位，還安全嗎？ - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVlJZUHBWbFdhZjQxakgyOXFDOHB4U3NianBOc2FnODhKdXVybmNzTUdvdDZRNklmREU2ZDV2a2VDaks2MERkWGJLcFRDTFQwUmZhQkRkQzBvRFVfSGRMSmwwLUd5cVpjc0x6NDltQlRMbmdXRmxJT3VNLUYyT3VDN1g3UmItREtiOV9GaEdPbXhGYjBiQ3VuZ0dDcGh2NVdo?oc=5"
-    },
-    {
-      "title": "利率預期主導黃金短線走勢分析師看法多空分歧- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWd3WkFrTDN1LTY5M2ZqZ04xT3dvV0d1clEyY2Z0NXNSSVZ3dlMzNzF0bXc1WWdsVGpZT1cza0J5NGs2b3c0cml4bjNWX3lSSm56b3JEZnQ2RWhmYVotY0dJdTdCeUtfOXVHd2twdnNYMEowSEhFZlliNFR4MjJyaVU1YThfWkd0a3JGVWNuNFJaUQ?oc=5"
+      "title": "今「美股休市」晚上不開盤 2026美國10天休市日一次看 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNS2QwLVBIU3ZEcmpmWHZqLWVBeUVqZV8zN0owOEMwTV9WUHV3bDlVRWtpNmlSSUNFUnIwTTR6RWNxNUhsX2k5MWN2RVZqTy1HekFiS3JLRkFaVlBqNDhZM0IweFZ5blVDOTJNSUdUSGktdEx0elRWcTM4U3BVZy1fMEVETGpEVk84RGVtVS1KUHdLZy1fLV9VamkwSjhNSU93NV9Gd1BwZFdGODUwT2ktUy1TWnpiZ2wzcHNzeEVBNTNERGVvNjlDMC1BNE1mUnFWc1p4TjJrajgzcDBXZlU4M3hTekIzYy11Q005c2l2V21PTDdkVGs1R01Zb2VnWHY0U05kOUpkTldhNml3aFk5WER0R2ZibnpxOVJ1dVFHRTNCV3piR1VzbmhkMmdQZ0JESGM2YXljQWY?oc=5"
     }
   ]
 }
