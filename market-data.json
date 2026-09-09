@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/09 07:12",
+  "updated_tw": "09/09 09:15",
   "taiwan": {
     "2330": {
       "price": 2470.0,
@@ -36,80 +36,80 @@
   "us": {
     "NVDA": {
       "price": 225.73,
-      "change": -4.63,
-      "changePercent": -2.0099
+      "change": -2.72,
+      "changePercent": -1.1906
     },
     "AAPL": {
       "price": 316.22,
-      "change": -3.75,
-      "changePercent": -1.172
+      "change": -11.99,
+      "changePercent": -3.6531
     },
     "TSLA": {
       "price": 368.16,
-      "change": 14.08,
-      "changePercent": 3.9765
+      "change": -8.21,
+      "changePercent": -2.1814
     },
     "QQQ": {
       "price": 718.36,
-      "change": -0.6,
-      "changePercent": -0.0835
+      "change": 0.69,
+      "changePercent": 0.0961
     },
     "SPY": {
       "price": 765.96,
-      "change": -4.23,
-      "changePercent": -0.5492
+      "change": -7.21,
+      "changePercent": -0.9325
     },
     "SCHD": {
       "price": 34.41,
-      "change": -0.39,
-      "changePercent": -1.1207
+      "change": -0.67,
+      "changePercent": -1.9099
     },
     "VOO": {
       "price": 704.07,
-      "change": -3.94,
-      "changePercent": -0.5565
+      "change": -6.65,
+      "changePercent": -0.9357
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78511.18,
-      "change": -604.6716,
-      "changePercent": -0.7643
+      "price": 78744.98,
+      "change": -370.8716,
+      "changePercent": -0.4688
     },
     "ETH": {
-      "price": 2486.41,
-      "change": -4.548,
-      "changePercent": -0.1826
+      "price": 2494.63,
+      "change": 3.672,
+      "changePercent": 0.1474
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.503,
-      "change": -0.0019,
-      "changePercent": -0.006
+      "price": 31.465,
+      "change": -0.0399,
+      "changePercent": -0.1266
     },
     "JPYTWD": {
-      "price": 0.2029,
-      "change": -0.0012,
-      "changePercent": -0.5821
+      "price": 0.2026,
+      "change": -0.0015,
+      "changePercent": -0.7291
     },
     "EURTWD": {
-      "price": 36.671,
-      "change": 0.0542,
-      "changePercent": 0.1481
+      "price": 36.655,
+      "change": 0.0382,
+      "changePercent": 0.1044
     },
     "CNYTWD": {
-      "price": 4.7018,
+      "price": 4.6954,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4397.9,
-    "twd": 4454.0,
-    "tael": 167040.0,
-    "twdTotal": 138547.0,
-    "changePercent": -0.7201
+    "usd": 4401.9,
+    "twd": 4453.0,
+    "tael": 166990.0,
+    "twdTotal": 138506.0,
+    "changePercent": -0.6298
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "〈美股盤後〉升息疑慮升溫 油價逼近100美元 道瓊重挫近630點 費半逆升1.3% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BUkxQeE13aDBKSE1oaWVLVnVocDlhU3VtTDk0WndURlNkU2hITnBfcHdPcWVFVmFwNXV0eGVfV0RWWFFXS25PWGFmb2dxNVE?oc=5"
+    },
+    {
+      "title": "美股收盤》三大指數收黑僅費半獨強 台積電ADR上漲2.35％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UTG9ZUTZkVDhQRkdSM281ZUhOZ3V2T25IdUtYdXJZOXZFTy1wWlRBVGVJN053NG9lM2o2T2JSV2NidUkyeWM5RlMyOTllcVI3d1Qwc2ptNmFkam1KZktZ0gFkQVVfeXFMT09tclBmaHZuSW5TU29TZVFyWG41Nnp5RVhzZFFVMmNYUW5QWV9zSlRGR09tMXp1cHhRN2ZXTlp2Nm1MRWQxWVFRWkJzdzRHUThyUnRoMWN1UEVRVGEyWnVRYnQzYg?oc=5"
+    },
+    {
       "title": "美股早盤／三大指數跌！高通飆7.5%帶動費半上漲 台積電ADR漲2.5% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uUWFlYWhIaUwtSXlXWDhJNW9UajlMc3FlWnJ3RExXMUxjRWFJRUZLdjNpZmZ3RWlkTVZscjljSnA2Tml0VzR0RkwwUHktR05p?oc=5"
     },
     {
-      "title": "【美股盤前0908】8月非農就業數據強於預期！9月升息預期再起，本週聚焦8月CPI、PPI數據｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNMmtFRFRfNkVGR1BrV210al9rMUE1cmZiWHRETlg5TFI4cFdfdS01a3hKYU5WVndDTXFkWEVtckhwclh6V0ZZRlRRb0FGbzJwUVhRVVBVZmFER1UtU0d0d1dJWTN3T0R6cVQxd3BxQUJLNHBRLTBlOGViZVZ3Y0s2R0hDVGFNU0pEajBRd0lkanpVRUx2MHdrN2pRLV9GWWJOU2ZOaUsyU0ZTdDduMkVKaXQwaEl3WnBpWWxkcXBqRFhnQXRKLUJLQ0tlNGYtRXMyNEhRMmEtYmd5ZXlmbUc4dDZNUjF4Y0RSU0lJTkpoWElwa2VnRXN6dlhsMndZckdocmc0X1NOemp5Y2trR2JFVENldGlER24xc19SOGpPN0JqQnc0YmtZckFzcXBzR3RUWXA1MS1TZ1cxQ1FKNXUxTUlISy1DRWNMR2hPc2Q3VWRPVlNLODZIaW5DUEhzWDZMbXhZSnc4aFNVeS1kWmFHQ1M5MERMMmZEbDI5a2VHT2xPUHNBR1FUVDVyR3VfN3lxS3JEcDNoeElMMkhlWDVSbzJKMWR6eHEtQzFONzRGV3FubTk1MUxLUFRhbWhUSThZMGt4MWNYZXpDRVItSElFVkZUa0VPcFVBYlhSeTBleS1xcVlTX3U4YVRhbmxiaUdoa04wWE1kWGo?oc=5"
+      "title": "聯準會升息壓力未減 黃金看漲關鍵轉向多重結構性因素 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPeW5sLTQyRU1Da19FOWhuaGNtanc4UmZaMk5ST0N1T3Q1TDR5blBlNTR4WGRwc0FMVUhqVEdOTEpQX0dwQzV5UFlLVllZV0M4QmE1eHo4U1BHTGI1R2JHQjRuQ1JaZG15THNMVDQ4ZHpXdzZPZDdETnREQzctWEo4eGVOanBDUkozYVdZNVkydnZKU01zRHdpNHhZSHRfeEluWkZVR2RDMENGTURsX2FkazVDZTdnZDJpNGZRalFaN0YtTkJ6SWpET2xDMlVPd1RKYkk3dVpnM3JZcFdCSkVESVNRY1FLMXd2NFV0WDdtYjJlSG5HTzhMQmFCX290ZE56R1FVSHIxdmhXVVB6MmY3VGptUmJZNDJXV0NyOUVxWnBpYXhHYkJldTFOZUFHbTZ5dEFWeGc1NFJrQmpjZVg2SThWZ3JRTlNTRFdlZmduNWdFMVVUV0kwNkdsby1UOHN6VHRsa0lBQlhFOFFvQnRhWE5hUTM5M3NpYkpubQ?oc=5"
     },
     {
-      "title": "連21周上調！不甩高通膨+升息預期 美股獲利動能5年來最強 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQczB3VUZWWVQyVkVnMGViTTRkWk5NdUJoaHNyQUZObFZfdGdOWmJsTzJtRjdweHJvbkFtS2c2U0hpblRHQ3JDSGVJbWJtUGlUWWphTElqYVd6YUNVSkZlcVAzdmdwWF85cnEtdFlFT09TY0xkeG85NGxvQkJidS1ZeWRYWFloU211czVJTkFzMnFtUEFLWkFla3dzaVc0S1ozcGJ2RDlZaUs1TVh4SUhzRUtEcXN3MXBWaHVTQ0U1XzRiMEN4YXhaODJiSE1NMG5KV21lU2RIQ2d4Tl9JbTUyUVRjLUNVYWRGdVBkOUJYZ1NrSk1CaUVVcEhvTlF3b3NWZzhhWWFNMG1oWXJJVk9xTW95NTBvd3NDVWJ1VVVVb3JyczRzak5sdjVwSVJiQ1JDQlJEMzRjRWNPYWl0ZmctaUZSNjNQalB6ZC16akYwcUMyRXJpc01JVmpHY3V0bmxBVkt6QWtna181SE9VbmNBckhVSFFOMlk?oc=5"
+      "title": "《貴金屬》升息預期加溫 COMEX黃金下跌1% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ1NVWkNmajdDSTJIdmktZlhsRHFBSmJEY0t2Wlg3MDRydTA2RlVLOUJ4ZjY3QXNOblZ1OVQ5MlpWMl9CMnZPMjFMOHJOdVFHUXBHSGxFZmlqdGl4WkdoeGtyZVhIV1N4OFllRTNXQ3VoLXBBNDhOSkU5SW4tVkRSV01yVHVON3p0M2c1bHdwb1lsQQ?oc=5"
     },
     {
-      "title": "美股收盤》三大指數收黑僅費半獨強 台積電ADR上漲2.35％ - ec.ltn.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UTG9ZUTZkVDhQRkdSM281ZUhOZ3V2T25IdUtYdXJZOXZFTy1wWlRBVGVJN053NG9lM2o2T2JSV2NidUkyeWM5RlMyOTllcVI3d1Qwc2ptNmFkam1KZktZ0gFkQVVfeXFMT09tclBmaHZuSW5TU29TZVFyWG41Nnp5RVhzZFFVMmNYUW5QWV9zSlRGR09tMXp1cHhRN2ZXTlp2Nm1MRWQxWVFRWkJzdzRHUThyUnRoMWN1UEVRVGEyWnVRYnQzYg?oc=5"
+      "title": "美股盤後｜非農好消息變成美股壞消息，記憶體族群一枝獨秀 0907｜豐雲學堂 2026 年 09 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxObnVCd0RoZ09IMTRrNUg3NFJXdjM4ajQ0dEpON1dUZ3RZWWFjNmxBRlM4NTNpaE5NSTF6Vm1iMEoteGFGb3VvYTR6eUY5YlluQmltd1pwOWlCZjVaTlh4bUpSS2pZSmROU051U19IU3owVURDR2otOEpxMjl0dnQ3RnhsYUY4Q01YOFYybXJ1NUJKRkFiNy00aVZRUm13U0lUbm1iRzBsaVRTVF9DNU95dFI3dmcxcV9ndjlOZjluaXRKczJ1ZU9QbEF4NE1UVU9ZYkt3LWJIdzR0SEs3QUc5bWRwMXdNODFUU1RFak1NOVdQMmFsRXAzX1pTRXB4VTdfZWF1dEsxdGlWdDhnTlRiUFZxSEdDWldZS3FWSWxuNzlIYk9vQkowRU9IVC16VGR3Y1VSSUYwaG1uLU9JbnlmT2ZJcmFwTWFLakhjRzNGTkx6T2pqdEh6QTNSdC1qYWhIY0kxd0JQS3RkeENRYVBCLUhDSWwzcW5XaE5KbGhvVkVJUmFvVG9ydVpZZHBEN1dwQmFxQlF4ZDJqYnoyZGdoakZ1eTBQamZOZTRzR0FoY0lSVHEtR0ZkSWxB?oc=5"
     },
     {
       "title": "黃金儲備：歐洲國家從北美提貨為甚麼？ - BBC",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43ajFSUWsxNURJSjVjTENYME9sM1cxR2VZa1NTR2YzMVllQUhpM2hFanFLd2tyRVZURWgwZXlJTTh1bktXX3FrSVE1cWpJYkU2bElKY0U4Q21rTkpfWkRlRUxKU2tqUdIBa0FVX3lxTFBGYnZNRFh4dFBVRkJ4blZtWFZxZjQyY2JLeFVzc1hLVHAwUFVWUXFKQXktbFdxOTBaTlNBRE5YeXljU3BRb0Q5TW1YS0hTY2VLSDRtbzU2X25VMmNhMU54cU55SlBNUTlkaWVz?oc=5"
     },
     {
-      "title": "台積電2500沒站穩 台股翻黑跌220點收47105 - 非凡新聞台",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xTjg0U3ltdVRrTjIyZjBTVk53Y3pTa2xnaVJYaGNqTFlXUTlIMkIzd09NdnotVllQNWh0MTgzaWxLNlNmbFI1S1VLRkpmeDViVXYwdFRrMDdhOG45?oc=5"
-    },
-    {
-      "title": "《貴金屬》升息預期加溫 COMEX黃金下跌1% - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EYzJ3Wk5kYzlJVFRjdVJ3c05pUGt0bC1veURHWXV6Y1FKeDdTOVc3M3lwX0k2NFpXaWc0cnZGT1ZqMWZCWmh2aTdTTHhPaFpxaElqcElrbVdkZjBhRWVfRlhVX0U0ZmxEbDFpSXpvd0t2QlJBM3podg?oc=5"
-    },
-    {
-      "title": "國際油價飆升！美股3大指數收黑 台積電ADR逆勢上漲 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNeEdhLUc1eEV4cHNjY3BXd3V3eUVTUWVKLWR0ZUhBbHZMMjB1VU9jVWExM2tLa2hTdWFXb2JCSXlCODVDQzNNMmRxTHYzaFhEVS1LSFpIaXhUMzY4VXJNTVZjOWNublVzbEhnblNwaEFqbktDNktQQ1FDd1ViVVI0SDFHb3ZHUTQycFpCd2tNQjJSbDc0d1lGdzBSNWVqbTF2OFp5TGVsWWRNRTNRTzRBcGUwSkpPXzd4bkdJVy1LUkVWejl6dVhoX3NzYmZuMUZQc3FVYzFlQ1ZNdlAyWWlIOXBlYXlDYmEzRkJMVTBYQ1ZpaHBsUGtJWk1kRllMbkJ5RUdZRnBzZWVDN2JYMFZJanduNWVUeEI3WnkzS1FHMnZoX3hWSkMxaVQzSGJoVnh5MHVpVmJNNVg0dEh4amM4VXZOdHRTdXpoaHFzcXotQzZzQmM?oc=5"
+      "title": "新加坡男子認罪主導逾2.4億美元比特幣竊案 涉大規模社會工程詐騙 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNcGhGalF0VzdpajVzNVV2aTlsWWlpX2g2TFQ5SkNPdkJPWU1paUJCaVd4bjBUY0JxUVZ3d3FtS2lHOGlUUUcyaFlDRDZGMGJudjVHc01DRWVCRFJIeXhaVnJXaXZGbEtZci1vZGZ0SFF1N2tOdFdMTGh2eU9KSUdjdFh5bFlEZWQ2NlVSdjZOS3JEMThkMWlvSlNvck5qYW1iaTVpRldqSjE4eXduLUw2QnJVMFRVSXFSVVhZbVJ4Vl8tTUdQajFXVTI2d0xkMndTVWc1d01nQXdJUUR0U29pNGY4MlBmZTlESEUyNW9vRHppbkUxaUltemdMRDhWcTgzaUxQLXlfSFJ4ZWdOV19HTWV6OGpkVFliRlRnVHlIc1BzRFA3U212Z0ItdTlzbXBaaXRuNVNTYTV0QV9id3QyN3lmWm1iQ0JMZ29yUTZ2MjBnUUxWcUdLZjNHaVZqQUgwNUVnQWtnaDlLc3lNalNydzRyckRqWkdYRU9feXVGNi15V0E2dUZDUDFnMHptVWVSYnZTMDRQX0FCcWgyamJTeFFwZDB1cnpaYTduVmswQVk?oc=5"
     }
   ]
 }
