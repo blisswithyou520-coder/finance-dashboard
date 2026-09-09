@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/09 09:15",
+  "updated_tw": "09/09 14:23",
   "taiwan": {
     "2330": {
-      "price": 2470.0,
-      "change": 10.0,
-      "changePercent": 0.4065
+      "price": 2465.0,
+      "change": -5.0,
+      "changePercent": -0.2024
     },
     "2454": {
-      "price": 4710.0,
-      "change": -50.0,
-      "changePercent": -1.0504
+      "price": 4625.0,
+      "change": -85.0,
+      "changePercent": -1.8047
     },
     "2317": {
-      "price": 251.5,
-      "change": -4.5,
-      "changePercent": -1.7578
+      "price": 252.0,
+      "change": 0.5,
+      "changePercent": 0.1988
     },
     "0050": {
       "price": 109.65,
-      "change": 1.75,
-      "changePercent": 1.6219
+      "change": -0.25,
+      "changePercent": -0.2275
     },
     "00878": {
-      "price": 34.07,
-      "change": -0.04,
-      "changePercent": -0.1173
+      "price": 34.13,
+      "change": -0.26,
+      "changePercent": -0.756
     },
     "00919": {
-      "price": 32.71,
-      "change": -0.31,
-      "changePercent": -0.9388
+      "price": 32.58,
+      "change": -0.33,
+      "changePercent": -1.0027
     }
   },
   "us": {
     "NVDA": {
       "price": 225.73,
-      "change": -2.72,
-      "changePercent": -1.1906
+      "change": -4.63,
+      "changePercent": -2.0099
     },
     "AAPL": {
       "price": 316.22,
-      "change": -11.99,
-      "changePercent": -3.6531
+      "change": -3.75,
+      "changePercent": -1.172
     },
     "TSLA": {
       "price": 368.16,
-      "change": -8.21,
-      "changePercent": -2.1814
+      "change": 14.08,
+      "changePercent": 3.9765
     },
     "QQQ": {
       "price": 718.36,
-      "change": 0.69,
-      "changePercent": 0.0961
+      "change": -0.6,
+      "changePercent": -0.0835
     },
     "SPY": {
       "price": 765.96,
-      "change": -7.21,
-      "changePercent": -0.9325
+      "change": -4.23,
+      "changePercent": -0.5492
     },
     "SCHD": {
       "price": 34.41,
-      "change": -0.67,
-      "changePercent": -1.9099
+      "change": -0.39,
+      "changePercent": -1.1207
     },
     "VOO": {
       "price": 704.07,
-      "change": -6.65,
-      "changePercent": -0.9357
+      "change": -3.94,
+      "changePercent": -0.5565
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78744.98,
-      "change": -370.8716,
-      "changePercent": -0.4688
+      "price": 79264.57,
+      "change": 148.7184,
+      "changePercent": 0.188
     },
     "ETH": {
-      "price": 2494.63,
-      "change": 3.672,
-      "changePercent": 0.1474
+      "price": 2504.05,
+      "change": 13.092,
+      "changePercent": 0.5256
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.465,
-      "change": -0.0399,
-      "changePercent": -0.1266
+      "price": 31.444,
+      "change": -0.0609,
+      "changePercent": -0.1933
     },
     "JPYTWD": {
-      "price": 0.2026,
-      "change": -0.0015,
-      "changePercent": -0.7291
+      "price": 0.2033,
+      "change": -0.0008,
+      "changePercent": -0.3861
     },
     "EURTWD": {
-      "price": 36.655,
-      "change": 0.0382,
-      "changePercent": 0.1044
+      "price": 36.651,
+      "change": 0.0342,
+      "changePercent": 0.0934
     },
     "CNYTWD": {
-      "price": 4.6954,
+      "price": 4.6948,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4401.9,
-    "twd": 4453.0,
-    "tael": 166990.0,
-    "twdTotal": 138506.0,
-    "changePercent": -0.6298
+    "usd": 4444.8,
+    "twd": 4493.0,
+    "tael": 168505.0,
+    "twdTotal": 139762.0,
+    "changePercent": 1.1584
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "〈美股盤後〉升息疑慮升溫 油價逼近100美元 道瓊重挫近630點 費半逆升1.3% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BUkxQeE13aDBKSE1oaWVLVnVocDlhU3VtTDk0WndURlNkU2hITnBfcHdPcWVFVmFwNXV0eGVfV0RWWFFXS25PWGFmb2dxNVE?oc=5"
+      "title": "黃金大行情來了！金價下跌後 專家曝衝破「1萬美元」背後驚人訊號 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TYkd3cE9HdWNFM0Ewb0oxeGZjNVZ4UUVsd0NUTzEyS2FOQ25PT1RYWDV4dEVodGhPY2VIOWo3Z2VPU1YtRnlKWHhUdHZkaUktNVd4UlRsMjhfS2w5NUY40gFkQVVfeXFMTVljSEt2cGhSeDFQdXB4NkFzWms5WU5BcXlMVVR6T2dLaFZxUXh2RUVHbDBjV2haeDB6WFVPSHBsZUk5YVVNMkdySW5xZzZqeVZCaUZCc0FIbFgyTnpuMUVEU1dsMg?oc=5"
     },
     {
-      "title": "美股收盤》三大指數收黑僅費半獨強 台積電ADR上漲2.35％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UTG9ZUTZkVDhQRkdSM281ZUhOZ3V2T25IdUtYdXJZOXZFTy1wWlRBVGVJN053NG9lM2o2T2JSV2NidUkyeWM5RlMyOTllcVI3d1Qwc2ptNmFkam1KZktZ0gFkQVVfeXFMT09tclBmaHZuSW5TU29TZVFyWG41Nnp5RVhzZFFVMmNYUW5QWV9zSlRGR09tMXp1cHhRN2ZXTlp2Nm1MRWQxWVFRWkJzdzRHUThyUnRoMWN1UEVRVGEyWnVRYnQzYg?oc=5"
+      "title": "FOMC 9月會議倒數，會升息嗎？玉山金、南亞成觀察指標，台股美股影響一次看｜美股觀察｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxQNzU2YjNOdlhuS3JHRUZMZVA1X3dZWGRYU3FzTDBQbDNIdTAzblBVOE84WXBaMFd5RU9ib2h2cE5DaXVYYTFBZGszLWpiVTF2RlpoNzdwTW94RkdjeGJnZ25jSllOU3RycDFla0kyejRWNWpjaHdnaDdpWW1QaFNEa0JGb25nTEpOZzNwTUtJNUNpSWpyS2NNa2p2dUpqN0dubEg2V0lOYTNJTFY3WWwxaWVGakh3X1FTNUlaT0FnLUpxZVMtVzdlM3RxUlZOUFVpc2VlS3huUENGWmZhMXkwd1pHeWhCdGF6WmhvaV92Qk5yVFJmR3FmT2ZkX2I5blFkZVRfUG55LVVueWNvSXZwNFFId3pXUFZtMml6Y281U0h1OEVOcVdJM3dhdlZjeUhUOEZNQ2xRWGpvSHZrSnl0TGVNTGdYb3ZnclkyUVc1YV8ybXNUUElkRm1BcUFpbk9Fa052MTZiejR3YUNuTm1kWGNob1ZpbnMxZi11Q0VjaEdvMFZhOUFzQ0JrWGhIMmJ5aEtZcEhuZmRmdEx1Y05tUDItTl84OGZUQU1TRkxIM1FuNFlEb2YwcTZjWFlpeTBxRzB0YlRtZ29EYUhITVVQTC1FUm9qZERyako5bHJwTDRjYk5pcmtqZG8wRTctcndSeXM2NHpqQ25GOTMyMk1vb09OYUlqRGZVa1Rv?oc=5"
     },
     {
       "title": "美股早盤／三大指數跌！高通飆7.5%帶動費半上漲 台積電ADR漲2.5% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uUWFlYWhIaUwtSXlXWDhJNW9UajlMc3FlWnJ3RExXMUxjRWFJRUZLdjNpZmZ3RWlkTVZscjljSnA2Tml0VzR0RkwwUHktR05p?oc=5"
     },
     {
-      "title": "聯準會升息壓力未減 黃金看漲關鍵轉向多重結構性因素 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPeW5sLTQyRU1Da19FOWhuaGNtanc4UmZaMk5ST0N1T3Q1TDR5blBlNTR4WGRwc0FMVUhqVEdOTEpQX0dwQzV5UFlLVllZV0M4QmE1eHo4U1BHTGI1R2JHQjRuQ1JaZG15THNMVDQ4ZHpXdzZPZDdETnREQzctWEo4eGVOanBDUkozYVdZNVkydnZKU01zRHdpNHhZSHRfeEluWkZVR2RDMENGTURsX2FkazVDZTdnZDJpNGZRalFaN0YtTkJ6SWpET2xDMlVPd1RKYkk3dVpnM3JZcFdCSkVESVNRY1FLMXd2NFV0WDdtYjJlSG5HTzhMQmFCX290ZE56R1FVSHIxdmhXVVB6MmY3VGptUmJZNDJXV0NyOUVxWnBpYXhHYkJldTFOZUFHbTZ5dEFWeGc1NFJrQmpjZVg2SThWZ3JRTlNTRFdlZmduNWdFMVVUV0kwNkdsby1UOHN6VHRsa0lBQlhFOFFvQnRhWE5hUTM5M3NpYkpubQ?oc=5"
+      "title": "台股近一個月上漲6.5% 國泰投信：「空手」也是風險之一 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPc3AwMEJSSklTbnJLOUd6UGc3eHlZSUI1WXlBMXFLX1ZiMnQ4WDhkRFl5X0g5R0JBd255YzRCcGpnUE5Jd2RyR3phT2hlREMwOWNuNG1ieHduTjlIR3dEc2swbHNWMmFFQ0QxdWJCZjlNYS1NNVpSQm9YTkFYZTRiX0VGbU5lM3V5ejJ6ZllFLU5vLVFhNkVfaVMwTV9qMXU5cFVGWDI1T3NKLXpHYlV3X0xNcmxBMUE2eWVHSnZkQi1qY184S1diZFlkakc0Z2d2azA1NFZaWDlrSlpTWlVjbFlMV0R4NjRKbnFOX0dyMFV6eVFxTXV1X283SS1rMm5qZm4zanc4QXZvc19yR2dPRGZPQ09YNVZQYTdqcDRvckNWTklSVHJvbGVpd2dEN2hOa0lvT1ZqZkJoZGZiZUJMdDRxNXpvLURUVUlFOFJGdTZ5RS01X29QLWduQTNCRVQwNVRNWVZfUEs2VXg1VjA1MDJwRQ?oc=5"
     },
     {
-      "title": "《貴金屬》升息預期加溫 COMEX黃金下跌1% - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ1NVWkNmajdDSTJIdmktZlhsRHFBSmJEY0t2Wlg3MDRydTA2RlVLOUJ4ZjY3QXNOblZ1OVQ5MlpWMl9CMnZPMjFMOHJOdVFHUXBHSGxFZmlqdGl4WkdoeGtyZVhIV1N4OFllRTNXQ3VoLXBBNDhOSkU5SW4tVkRSV01yVHVON3p0M2c1bHdwb1lsQQ?oc=5"
+      "title": "〈美股盤後〉升息疑慮升溫 油價逼近100美元 道瓊重挫近630點 費半逆升1.3% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BUkxQeE13aDBKSE1oaWVLVnVocDlhU3VtTDk0WndURlNkU2hITnBfcHdPcWVFVmFwNXV0eGVfV0RWWFFXS25PWGFmb2dxNVE?oc=5"
     },
     {
-      "title": "美股盤後｜非農好消息變成美股壞消息，記憶體族群一枝獨秀 0907｜豐雲學堂 2026 年 09 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxObnVCd0RoZ09IMTRrNUg3NFJXdjM4ajQ0dEpON1dUZ3RZWWFjNmxBRlM4NTNpaE5NSTF6Vm1iMEoteGFGb3VvYTR6eUY5YlluQmltd1pwOWlCZjVaTlh4bUpSS2pZSmROU051U19IU3owVURDR2otOEpxMjl0dnQ3RnhsYUY4Q01YOFYybXJ1NUJKRkFiNy00aVZRUm13U0lUbm1iRzBsaVRTVF9DNU95dFI3dmcxcV9ndjlOZjluaXRKczJ1ZU9QbEF4NE1UVU9ZYkt3LWJIdzR0SEs3QUc5bWRwMXdNODFUU1RFak1NOVdQMmFsRXAzX1pTRXB4VTdfZWF1dEsxdGlWdDhnTlRiUFZxSEdDWldZS3FWSWxuNzlIYk9vQkowRU9IVC16VGR3Y1VSSUYwaG1uLU9JbnlmT2ZJcmFwTWFLakhjRzNGTkx6T2pqdEh6QTNSdC1qYWhIY0kxd0JQS3RkeENRYVBCLUhDSWwzcW5XaE5KbGhvVkVJUmFvVG9ydVpZZHBEN1dwQmFxQlF4ZDJqYnoyZGdoakZ1eTBQamZOZTRzR0FoY0lSVHEtR0ZkSWxB?oc=5"
+      "title": "法興銀行：黃金牛市換擋，實物、期貨、期權資金正在“同向加倉” - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOakZFSy1IRm5QTWtKQjBMRjVPRlNSSEUwWG9uRElZaXI0LUl6MnhZT19CaTFTbGUyeGRkcjZlb0NJQVRlcVVQUm9FQzRSalhCNHpaZzZ5S0ZIUVJEVEEtSUxGVHFyRXp0bnRUeVlWanN0NFY3dzYzQjFxNURfS0FYNEo2SDRudGV4M0g4VXhLS05LMFZhZUFZZ1gzNlRrRXgw?oc=5"
     },
     {
-      "title": "黃金儲備：歐洲國家從北美提貨為甚麼？ - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43ajFSUWsxNURJSjVjTENYME9sM1cxR2VZa1NTR2YzMVllQUhpM2hFanFLd2tyRVZURWgwZXlJTTh1bktXX3FrSVE1cWpJYkU2bElKY0U4Q21rTkpfWkRlRUxKU2tqUdIBa0FVX3lxTFBGYnZNRFh4dFBVRkJ4blZtWFZxZjQyY2JLeFVzc1hLVHAwUFVWUXFKQXktbFdxOTBaTlNBRE5YeXljU3BRb0Q5TW1YS0hTY2VLSDRtbzU2X25VMmNhMU54cU55SlBNUTlkaWVz?oc=5"
+      "title": "黃金多頭從投機行情走向資產配置重新定位- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUllUMXFJclRDRXI3dVcwT3R0RWR5UTlfMnFmOWV2NXpsWE5TSktTeEl0czRGRG9XOE9adjg1TUphbkNwNVV6Vk1VZ0dGanBXNmsta2JkT3RZcm5BTFc2R1pPck5wdDliR0xFRXlpNFA4LU1TSUEtcjhBc2dLYUFtY2NfQkl0bWIwVjY5M29DQlRMZw?oc=5"
     },
     {
-      "title": "新加坡男子認罪主導逾2.4億美元比特幣竊案 涉大規模社會工程詐騙 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNcGhGalF0VzdpajVzNVV2aTlsWWlpX2g2TFQ5SkNPdkJPWU1paUJCaVd4bjBUY0JxUVZ3d3FtS2lHOGlUUUcyaFlDRDZGMGJudjVHc01DRWVCRFJIeXhaVnJXaXZGbEtZci1vZGZ0SFF1N2tOdFdMTGh2eU9KSUdjdFh5bFlEZWQ2NlVSdjZOS3JEMThkMWlvSlNvck5qYW1iaTVpRldqSjE4eXduLUw2QnJVMFRVSXFSVVhZbVJ4Vl8tTUdQajFXVTI2d0xkMndTVWc1d01nQXdJUUR0U29pNGY4MlBmZTlESEUyNW9vRHppbkUxaUltemdMRDhWcTgzaUxQLXlfSFJ4ZWdOV19HTWV6OGpkVFliRlRnVHlIc1BzRFA3U212Z0ItdTlzbXBaaXRuNVNTYTV0QV9id3QyN3lmWm1iQ0JMZ29yUTZ2MjBnUUxWcUdLZjNHaVZqQUgwNUVnQWtnaDlLc3lNalNydzRyckRqWkdYRU9feXVGNi15V0E2dUZDUDFnMHptVWVSYnZTMDRQX0FCcWgyamJTeFFwZDB1cnpaYTduVmswQVk?oc=5"
+      "title": "比特幣跌破 7.8 萬後快速收復！71% 供應已獲利、 8.2 萬賣壓反加深 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0pMVW1faUFadUVRaldUU09YdWUxNHFGTjl1em5OaHZKZ1g1bV9HMzF5WE1ENDVsU0NjcWRwRTF5UWpaSFgxeWg5TDdqSy1PVVkxb2pGNEVxbHhtTWYwZ2FZUGw4NDZ2Wk1wanh3LWdHVC12ZUZ6ZlpPNVc3R21yaGJlLUptdkREeG5qeA?oc=5"
     }
   ]
 }
