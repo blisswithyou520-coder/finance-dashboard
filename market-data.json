@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/11 05:07",
+  "updated_tw": "09/11 07:10",
   "taiwan": {
     "2330": {
       "price": 2450.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 109.15,
-      "change": -0.75,
-      "changePercent": -0.6824
+      "change": -0.5,
+      "changePercent": -0.456
     },
     "00878": {
       "price": 34.15,
-      "change": -0.24,
-      "changePercent": -0.6979
+      "change": 0.08,
+      "changePercent": 0.2348
     },
     "00919": {
       "price": 32.55,
-      "change": -0.36,
-      "changePercent": -1.0939
+      "change": -0.16,
+      "changePercent": -0.4891
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77206.76,
-      "change": -1052.7634,
-      "changePercent": -1.3452
+      "price": 76688.22,
+      "change": -1571.3034,
+      "changePercent": -2.0078
     },
     "ETH": {
-      "price": 2460.9,
-      "change": -6.0138,
-      "changePercent": -0.2438
+      "price": 2439.63,
+      "change": -27.2838,
+      "changePercent": -1.106
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.615,
-      "change": 0.151,
-      "changePercent": 0.4799
+      "price": 31.616,
+      "change": 0.152,
+      "changePercent": 0.4831
     },
     "JPYTWD": {
-      "price": 0.2026,
-      "change": -0.0023,
-      "changePercent": -1.1042
+      "price": 0.2025,
+      "change": -0.0024,
+      "changePercent": -1.153
     },
     "EURTWD": {
-      "price": 36.762,
-      "change": 0.1585,
-      "changePercent": 0.433
+      "price": 36.748,
+      "change": 0.1445,
+      "changePercent": 0.3948
     },
     "CNYTWD": {
-      "price": 4.7177,
+      "price": 4.7144,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4358.7,
+    "usd": 4358.0,
     "twd": 4430.0,
-    "tael": 166139.0,
-    "twdTotal": 137800.0,
-    "changePercent": -1.2976
+    "tael": 166118.0,
+    "twdTotal": 137783.0,
+    "changePercent": -1.3134
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -119,6 +119,10 @@
     {
       "title": "美國8月PPI指數高於預期、油價飆高 美股主要指數開盤走低 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNGcyOG8xQ0dUSzFlZ25fN0RHTFhOcVM4d1ZWUUZwLUdKM1RaWVdxWW9BcnNGUzBNRkpvV0F3Tm5BczN4MjN0MmlLNW94czVoS1V0YTU2RF95UDNWM2l0SzJPSjc0T0I0TGdjSUpWYzI0Y0RsVkJVa1ktOEh3Z1c0RGxiRnNtczI5T1NoZFR6UHdSRVVSVGFqQU5XcEZRdnBWcVV6UWk2empRU1ltQ3FHUWprY1V5VTc4d2lDM0ZwY1pfTXczcXVza1R0T2VuaG04TTJ5VkNabER4Q1dmLXJnVHRLc1lKVmR0VmpZUTQ3SHY1QkR0bU5Kc1dPQ01uLUppVHFCSGZVU2RzaEN3Ynp2SFBvelpocEhVbnF2UjhITjBRVDJNc3pRNzNyQkFtOGhIVEUzbUtpZHdlUmdUTWs5LXpITnpaNHc1UFBUWTZZaXd1dk5yMmx3UGpXdGRhZXRRS2NmRWs3aFFJOHVhVEsyaTdzU2NYb2M?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉兩大指標油價均飆破100美元 美債殖利率逼近5% 美股三大指數連四黑 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MSVZOY0tzTUVKWWU1YXBGREdEaV9OSWFHRy1IWFJuanc5bDlPNUlNQTNBaXFyS2F4RXc0c2s3TjRya3cxWTBBalJtd0s5azA?oc=5"
     },
     {
       "title": "明天不妙？美股全趴 台指期夜盤狂瀉 - 自由財經",
@@ -133,8 +137,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNcjFlTnBkTi1SREc1LUhTZ2NxVC05dkJPcVJrZ04xbVZzVC12MnZObDdCd043ejRuMWF4aXRHbEZqSjhNQ1c1MEZGNk5iM09rZ3fSAVBBVV95cUxOODA1MEZ2QjFPa3UxekZWbXRaclYyc204eTNIb1NKVFJ5UEZrczJaOV80aUNoV0dkbzlJN3Y2WjhrSWhEUEhpcFlSMUlvcHpLMg?oc=5"
     },
     {
-      "title": "比特幣又被Fed嚇跌！8萬美元屢攻不破 連四日走低 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IcFZTMGNicUdXam42c0Z4M2lCcnZhejFJYlU0QXRlZWdhSHdrcDNHVTJON0xpRXVZeVE3ZXYwZXE3SzJGU1VtNzdTZFRNZUU?oc=5"
+      "title": "《貴金屬》升息預期加溫 COMEX黃金下跌1.2% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOam40cjdBaF9MQzczak00LWhncUoydWc3YUdIYjRwcnFISnpOMkdWX1ZrWWdhaWNSRHFSbHpQczVjX3lmMGs3eFlaZTJjUG1hem5JUGJ3YXdKbDZtVGhBa2tLbEU4dGxsYkREX3k5dUMzWTJvb1JpUU5PWkdMcnpsZEx4UzZsWHNEamFWZE5MOTBpdw?oc=5"
     },
     {
       "title": "全球債務焦慮升溫，8月黃金ETF湧入180億美元 - capitalfutures.com.tw",
@@ -143,10 +147,6 @@
     {
       "title": "比特幣礦商轉向AI資料中心 美國挖礦版圖外移 - DIGITIMES",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFd3dTNNS2VJYUNVcWUzcHY4ZXdmLU9ZU2VVMk9RaEgzVnVKOFlqT3psVmZxYk1WYy1nYUtDLUt6ZWI0cUtRb3FkSXFaOWQwQUxhVVBYdkRpajBfd3BHRVd4VHBuTGMyVVpfVEJ3OERnUTUzNm83ckJPVFA0bzI5ZkxXSTI2SVp0SzNETzBn?oc=5"
-    },
-    {
-      "title": "全球-穩定幣卡片-支付貨幣市場交易量 - MacroMicro",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVhnUEt0alRqSHdINW1JNnJKejF1N0dFVC14NjBXTkZWM0VRcnpmQ3cxdUlCRnBTVGk3bU14WVZSLXgzbUVrMVlONzhBc0txVHhBbEtnOXptaXkxQ2dNR0ZLYlpGS2FMM0lOVlY0R3NNVF9pd0hyNFJ2bVdpWWFqR1o5R1YxUWh6R21CWg?oc=5"
     }
   ]
 }
