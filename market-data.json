@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/11 02:28",
+  "updated_tw": "09/11 05:07",
   "taiwan": {
     "2330": {
       "price": 2450.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 218.148,
-      "change": -5.522,
-      "changePercent": -2.4688
+      "price": 218.36,
+      "change": -5.31,
+      "changePercent": -2.374
     },
     "AAPL": {
-      "price": 324.43,
-      "change": 9.09,
-      "changePercent": 2.8826
+      "price": 326.57,
+      "change": 11.23,
+      "changePercent": 3.5612
     },
     "TSLA": {
-      "price": 365.895,
-      "change": -1.915,
-      "changePercent": -0.5206
+      "price": 363.56,
+      "change": -4.25,
+      "changePercent": -1.1555
     },
     "QQQ": {
-      "price": 709.35,
-      "change": -6.96,
-      "changePercent": -0.9716
+      "price": 708.69,
+      "change": -7.62,
+      "changePercent": -1.0638
     },
     "SPY": {
-      "price": 757.85,
-      "change": -4.55,
-      "changePercent": -0.5968
+      "price": 757.83,
+      "change": -4.57,
+      "changePercent": -0.5994
     },
     "SCHD": {
-      "price": 34.01,
-      "change": -0.08,
-      "changePercent": -0.2347
+      "price": 33.99,
+      "change": -0.1,
+      "changePercent": -0.2933
     },
     "VOO": {
-      "price": 696.625,
-      "change": -4.245,
-      "changePercent": -0.6057
+      "price": 696.65,
+      "change": -4.22,
+      "changePercent": -0.6021
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77072.87,
-      "change": -1186.6534,
-      "changePercent": -1.5163
+      "price": 77206.76,
+      "change": -1052.7634,
+      "changePercent": -1.3452
     },
     "ETH": {
-      "price": 2461.21,
-      "change": -5.7038,
-      "changePercent": -0.2312
+      "price": 2460.9,
+      "change": -6.0138,
+      "changePercent": -0.2438
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.632,
-      "change": 0.1328,
-      "changePercent": 0.4216
+      "price": 31.615,
+      "change": 0.151,
+      "changePercent": 0.4799
     },
     "JPYTWD": {
-      "price": 0.2028,
-      "change": -0.0024,
-      "changePercent": -1.1836
+      "price": 0.2026,
+      "change": -0.0023,
+      "changePercent": -1.1042
     },
     "EURTWD": {
-      "price": 36.79,
-      "change": 0.166,
-      "changePercent": 0.4533
+      "price": 36.762,
+      "change": 0.1585,
+      "changePercent": 0.433
     },
     "CNYTWD": {
-      "price": 4.718,
+      "price": 4.7177,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4382.8,
-    "twd": 4457.0,
-    "tael": 167148.0,
-    "twdTotal": 138637.0,
-    "changePercent": -0.7518
+    "usd": 4358.7,
+    "twd": 4430.0,
+    "tael": 166139.0,
+    "twdTotal": 137800.0,
+    "changePercent": -1.2976
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtOEF3aURma3RLYlpDeml4YVlOOVp4RGF2Nm5aOWd0Rkc2VW9zR1B5aUdTTmRRV0NxQlhjdnZMQlY0M25Ydy14QmZ5TmZRTzE4dDh2SWJOaEp1YkRM0gFiQVVfeXFMTUpmNnhJWGVacnFLQm5SLXZGdEFTUDlNTGE3aWtuZEFUWTA2YUNWLVlBcmdBTmZYVnhFX3RwMnk1TkxQc1Bsbkl5bTBRR3F3TEZXMTdtT194Um84MGZZRnJaOXc?oc=5"
     },
     {
-      "title": "〈美股早盤〉能源與通膨壓力夾擊！Fed下周升息機率達70% 主要指數開低 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jX3V5YlUzZnBQclo2MFQ3S2lSdHlMTGpDSldyY2JtWGFzanRMaHBGeVF0bXNKNWYxOHU1a1dENVNvN3JtN2dxSGR4WDlBdGM?oc=5"
-    },
-    {
       "title": "快訊／通膨警報響！美股三大指數齊挫　台指期夜盤一度暴殺743點 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNcjFlTnBkTi1SREc1LUhTZ2NxVC05dkJPcVJrZ04xbVZzVC12MnZObDdCd043ejRuMWF4aXRHbEZqSjhNQ1c1MEZGNk5iM09rZ3fSAVBBVV95cUxOODA1MEZ2QjFPa3UxekZWbXRaclYyc204eTNIb1NKVFJ5UEZrczJaOV80aUNoV0dkbzlJN3Y2WjhrSWhEUEhpcFlSMUlvcHpLMg?oc=5"
+    },
+    {
+      "title": "比特幣又被Fed嚇跌！8萬美元屢攻不破 連四日走低 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IcFZTMGNicUdXam42c0Z4M2lCcnZhejFJYlU0QXRlZWdhSHdrcDNHVTJON0xpRXVZeVE3ZXYwZXE3SzJGU1VtNzdTZFRNZUU?oc=5"
     },
     {
       "title": "全球債務焦慮升溫，8月黃金ETF湧入180億美元 - capitalfutures.com.tw",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN2JkQkExZHp1NWNhMzJCNFhsM2p5TW0zNXJIU2pxeWZNcGZoTk15QXU2WDl1YWlxUUtCcHdOVkZvcHRsQkhGeXlpS3Z0a3pxQXYzWmNHc185WFhkZzQ4MTJiYkx0eXh0NzdnMDUwLUw2NlNSUFFmQ1VSUWhjSGVYYThCUDVJX3BZZmZTSXR3cw?oc=5"
     },
     {
-      "title": "快訊／台股明天危險？美股4大指數全趴 台指期夜盤也跌逾700點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQb1ZsN1ViVVFHTFpDRnZBX2NIWlVZU2NOdDc0dHFZYXE2S1NZLVJEREM4S19GeXNDRldMSlBKX0VDOExWaDBGRkU5dExxQUlVZS1ySWRmcUdOQUwyWG82VDc5VGNUbV9wN3d5T1BrWDJZaTFqSldZcmhPUHJQeW45SEhldUUtcnpGUkVuc0pTODR4Nlk4MlRTTVBvejNrbTFVU2dxNWtpczRWY29heE9WUGd6czIyd1FWT0FzUE1sRVNEaTZYTTc4ZFQtWklSX0h6NEt6U0pSMTMzTzFuaFI3Tmh6M3lpTkpha3NqVWhCdzRnNUFFYW81ZXBkSTNyd18xMjJFeHhodXNDTG9aUGV2UlBGMWZTNHZYRnlRMHBHRGRWaWRmamdaT0Zjd1dITXBpUjFCWFF3NXhzdWYwdy1lTU85RjR1MkhXWG40c3BLMHc1emtDLUlRYVphbFpqVE9uMEprR2lDWHFRaVFBWXZYVjRkTU1nMnh0V082aw?oc=5"
+      "title": "比特幣礦商轉向AI資料中心 美國挖礦版圖外移 - DIGITIMES",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFd3dTNNS2VJYUNVcWUzcHY4ZXdmLU9ZU2VVMk9RaEgzVnVKOFlqT3psVmZxYk1WYy1nYUtDLUt6ZWI0cUtRb3FkSXFaOWQwQUxhVVBYdkRpajBfd3BHRVd4VHBuTGMyVVpfVEJ3OERnUTUzNm83ckJPVFA0bzI5ZkxXSTI2SVp0SzNETzBn?oc=5"
     },
     {
-      "title": "黃金大漲！背後原因專家全說了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfLWljUHJEOHNYcjlzWE8wXzltTzJMMFJaQ2ZKbXBrZHdCbVd2eGVoRUZickJJb240dElRMzlxU0g5dTdhWUgxbGFYRXlOU2t0SWZtYkk1SHJWenNfcWg00gFkQVVfeXFMTkFHVThvWjJhVWNJT2xIVEJoQ0d6c1RMdzhVeUVmZE52NWJ5RHFJcGNoQ3VRLTJ5dy10Snc3YWNSVE1XM3dMYXVSVS1RX3dhRUQzaFFidmZJcUlTbWJfS0ZhQ1pvag?oc=5"
+      "title": "全球-穩定幣卡片-支付貨幣市場交易量 - MacroMicro",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVhnUEt0alRqSHdINW1JNnJKejF1N0dFVC14NjBXTkZWM0VRcnpmQ3cxdUlCRnBTVGk3bU14WVZSLXgzbUVrMVlONzhBc0txVHhBbEtnOXptaXkxQ2dNR0ZLYlpGS2FMM0lOVlY0R3NNVF9pd0hyNFJ2bVdpWWFqR1o5R1YxUWh6R21CWg?oc=5"
     }
   ]
 }
