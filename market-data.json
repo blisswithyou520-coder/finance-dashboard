@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/11 13:59",
+  "updated_tw": "09/11 19:07",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77225.28,
-      "change": -1034.2434,
-      "changePercent": -1.3216
+      "price": 76777.57,
+      "change": 209.445,
+      "changePercent": 0.2735
     },
     "ETH": {
-      "price": 2467.47,
-      "change": 0.5562,
-      "changePercent": 0.0225
+      "price": 2453.44,
+      "change": 16.3414,
+      "changePercent": 0.6705
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.602,
-      "change": 0.138,
-      "changePercent": 0.4386
+      "price": 31.615,
+      "change": 0.151,
+      "changePercent": 0.4799
     },
     "JPYTWD": {
-      "price": 0.2029,
-      "change": -0.002,
-      "changePercent": -0.9577
+      "price": 0.2032,
+      "change": -0.0017,
+      "changePercent": -0.8113
     },
     "EURTWD": {
-      "price": 36.731,
-      "change": 0.1275,
-      "changePercent": 0.3483
+      "price": 36.694,
+      "change": 0.0905,
+      "changePercent": 0.2473
     },
     "CNYTWD": {
-      "price": 4.7169,
+      "price": 4.7176,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4384.6,
-    "twd": 4455.0,
-    "tael": 167058.0,
-    "twdTotal": 138562.0,
-    "changePercent": 0.4605
+    "usd": 4380.4,
+    "twd": 4452.0,
+    "tael": 166966.0,
+    "twdTotal": 138486.0,
+    "changePercent": 0.3643
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,19 +117,7 @@
   },
   "news": [
     {
-      "title": "郭哲榮：台股二次崩盤 正式開始？ | 市場焦點 | 證券 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aNnhnNnQ2cUVsdGdTYUpYZmJHSXFUbTRjQlJVbzY5MElGZ2pmUnl2UlZyOHhVRnQ4aEVxZUFjYzlHVXYyZjhaQlY2QXNpZDFWYmNOYmxmRmhnQQ?oc=5"
-    },
-    {
-      "title": "美股盤後｜國際油價續揚，靜待CPI公布，四大指數盡墨 0911｜豐雲學堂 2026 年 09 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNMHJfNGg0YzRyY0tCYzl3MThNYnJnR3E4emZoOXBPVC1UeHNyS3VidEFJa2tqa3NXbTd5ZEd5X1RkODIwWWl1bGhqVU84bkFuakRycDBPNkFjSW9MY1lKbWJQTGp2RDNDNXU0amhJd3FicmNKazN6Y1pYcFpSRHJOeURRSFRsc0hPZ01RLUlvSmVNaDlyUWM1R25JNlhmSzVVZFRGZW1DSjhkTHdmWHJWX1V4LWNwU1NzMi1HZ3EyVy0wMXdZRnRMc1ZfVzNpLUx0QzQzZ2xlcnF4VFRWTnZxaWdTQTBrd3NyaDZSbTFNV1VKbW9uZHdha21jcHI3ZG8xanBOeVV3SnJmSEwyOGJsOU5UcG5UNUdtbTVpZ2lpYW5WRV91SkY4UTE3STdLcVpNaUFybndzUGRrc2N2OEhOVjZtZmRwbUNkSFZtVTJGZUdFb1RqMmZBWVFxa2h5bmdKd3BGLXdWTnAzNExHM3JOWVlodjZlVi1rNllBNTNaZngxVmM?oc=5"
-    },
-    {
-      "title": "台股開盤不妙？油價飆漲拖累美股收黑、台積電ADR跌1.68% 台指期夜盤摔797點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNR0p5c3ZHeUM5U3VoaWxIUEFqSHpxeWxOdTNINVNCTzZybVhKM0FwUnpwVk1DdEl4RzhibGQwRFBJS3lHZmVtYjRRODdfZWNnTXVOeDVhVXRFMXliT3JveGdrMUpvRWxFeU1tT29TbGFxNlRkZ0lnQ1BRSUIyMzg2WlpVNm5YODZLU09HZEQyWmEzbGpGbkpSQ051eDJIYTRqeV9IZ0J0VVBlQU9hb09TSDVSTE5tYWV3N2xjOTlRMGJwYjg4U19yTTRPZkkzTXRfN3lZaWdaWTdWSTg4WVd0NWctcjEwOFBjeTYzdlFxODNTYmhaSTVwaVdVYWU4TWNKSWtWdUdOZ2xVN202OUFROE1vZTl6SklEdmd4ZlVWbHNEMGh6cTliNXRFSm9lRDByRnd4ZnM0TkROeUVkOGZPdWZVQzdPLWdiM2xyTm5rTm8taV9NcFVNY0tiLVVCT25rVHpiOWlWSkVjcHJkSENQOXZrX3VVd29VVTlPVVU4ckw1V0FiSnBkSzQzNTAzbTJ0aUJSQ2J5cWMzS2k1SjdjWUJBLXlWM2pPVkp0MG0zcEQ?oc=5"
-    },
-    {
-      "title": "黃金大跌！「這些貴金屬」直接崩潰 - 自由財經",
+      "title": "黃金大跌！「這些貴金屬」直接崩潰 - ec.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6THJzXzBJOFNFUFNBZWktREh5cVFqVHhGSllTdTBEUm13RS1NbjJ4ZkFZV3BzSE15cDgzbHM0Ui1INUdwLWUzSlBCUVhpbjFvOHZpTkY2ZHNoaEVWZWQ40gFkQVVfeXFMTmRlSGx1ZkRZdTB5enZCYWRMdXF2aG1hSGpfMzRrWERxU19oMEdJTi00RVlHUjdXZmE1N1V2REZ3bGRkS1BnbkhsVjlycTdJWVpUV09BbmdvaUUzR2lwZ0hZNll5bw?oc=5"
     },
     {
@@ -137,16 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MSVZOY0tzTUVKWWU1YXBGREdEaV9OSWFHRy1IWFJuanc5bDlPNUlNQTNBaXFyS2F4RXc0c2s3TjRya3cxWTBBalJtd0s5azA?oc=5"
     },
     {
-      "title": "快訊／美股大跌！台股重挫逾800點　台積電跌30元至2420 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aeHd0Q0hDS04tQW1kaVVYeVFUOUcwWExMWVhXNXFfZUh5ZGFFTEw5WVJ4U1lYVnFWQUU2dEx6d1ltZk5lV25Fa25RZS1BZV9SaUHSAVBBVV95cUxObUloSHlnYXhScnJLd0FZN0MycHhGU1I4M0FBQm12NWV6cjMzaU5GU3doSnZ3M0ltSXpTNkxlUVBvSjBkNk9iMTg3QmhFbmhQMg?oc=5"
+      "title": "台股開盤不妙？油價飆漲拖累美股收黑、台積電ADR跌1.68% 台指期夜盤摔797點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNR0p5c3ZHeUM5U3VoaWxIUEFqSHpxeWxOdTNINVNCTzZybVhKM0FwUnpwVk1DdEl4RzhibGQwRFBJS3lHZmVtYjRRODdfZWNnTXVOeDVhVXRFMXliT3JveGdrMUpvRWxFeU1tT29TbGFxNlRkZ0lnQ1BRSUIyMzg2WlpVNm5YODZLU09HZEQyWmEzbGpGbkpSQ051eDJIYTRqeV9IZ0J0VVBlQU9hb09TSDVSTE5tYWV3N2xjOTlRMGJwYjg4U19yTTRPZkkzTXRfN3lZaWdaWTdWSTg4WVd0NWctcjEwOFBjeTYzdlFxODNTYmhaSTVwaVdVYWU4TWNKSWtWdUdOZ2xVN202OUFROE1vZTl6SklEdmd4ZlVWbHNEMGh6cTliNXRFSm9lRDByRnd4ZnM0TkROeUVkOGZPdWZVQzdPLWdiM2xyTm5rTm8taV9NcFVNY0tiLVVCT25rVHpiOWlWSkVjcHJkSENQOXZrX3VVd29VVTlPVVU4ckw1V0FiSnBkSzQzNTAzbTJ0aUJSQ2J5cWMzS2k1SjdjWUJBLXlWM2pPVkp0MG0zcEQ?oc=5"
     },
     {
-      "title": "道明證券警告：黃金若失守兩道防線，拋售可能加速 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTklWQ0R3UDZmcGlvcXJhMjl4bDVRT0xYbEdocmpRbmNBVUpoeDQtUmxIblN3Z1RwNkFwamJFYjRTMTNpa1BLVnpUSEtURm00VUhhdjU5Nml0SkNSZGNoeGs4UEZqMExWSnRBYi16S1JINGs2SHcwdjM1U1ZJSGszN3VvVUVWby1fTmVGT1pjbWRQZEQxUVJxaGdJZlFqZklt?oc=5"
+      "title": "美股收盤／四大指數收黑 費半挫跌2.6% 受美債殖利率猛升油價飆6%拖累 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWRVJqbUV3am04RkVyY1ZSMUtXUEpmUDV0TU5FcnZSQU9ycmQ2b1RVUUp2WS1zZTlUOUUtbEVoZGxiQWp1cWFyY1ZJOHFjQ1RZ?oc=5"
     },
     {
-      "title": "中東局勢帶動油價飆高 美股4大指數全面收黑 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EV1ZNU2s4MFVqQlJXQUg5WVh6UDJlN2dieVk4SVlWT1Qwald0NHp0SDgzcTlVY3dsSVhGX3JFUkdJVHBBY0UwRTctN1VMczA?oc=5"
+      "title": "【美股盤前0911】8月CPI重磅登場！沙烏地阿拉伯原油產量創新低，油價飆漲，PPI也顯示通膨仍處高檔，市場走勢承壓 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMihwVBVV95cUxPSldsMXY2d1VwMHhhaTJxZmtkTDVzQWdDdmwwZ3JyX0E0YWpob2hlOFVHZUJyVjVJX3puQjNKeG5ud053cGxYTlZxZzlCekJJajZ3ZG42VHBxcm5pUmYxandqZGFnX2lnRHptWFRXRUU4aHNOREM5MnN6Wi1aME1lUFY2S2E2VmZmdEZSRFFJSG5KYmlJdHVCTXE3eW1UM3JJN2UtMzFYS2p2SmdXajFjNUJvSzNubG9kNk5yUHdSLU5UWDVBSlpZdkNybUhIV0JxTnN2R1VRSjlkaGNUUzV3NFhQWnp3TFR3WHNGOW81dVRxU3ZuS09FYVhaTmg2VmZ5QnZKM1NmNkF5YUtSWndDTkx3Ums5SDBoWUNMVzN2a1pDaWtJaWpvWDNndFZ4bXlnS1RIWDc1eE8zU0ZUM1BDNWtxT0RXYmd5cXlGQlZJMzRaTXUzaGJCWG5aMUdoUThWVExMZUxrRkptLTBfY3B5WE43a3RfS1o2SEVQQUdfQ09oQjNYZWdWMmcwMDM5R19KV19taE9OSUNHczViR1RRZUtHaTQzV19CZkFUaFFXWEtmUW5ZVnhUZGxCMWVTaUVWSEdKWC1yN0ZpVjZlN2pOMFh0Y3RQT1JQNm1fWGFYb1VKd2x3MzBJXzRXb0NSWWYxaGRZTTJwQ0ZodGppVEZWakZvbmhvc1NVQ1habUVIclUwdVBHZEFFdmhibXRLLTRWNXkwdUk1ZEl6Um9vU0lSRkJBWmszbS12SEpSY1RoQXI4UVBSYzF4WkduTERJa19TejNEbHRRZlhkejlfdkwwaGNteTJmdy1GLTgzeTRBRG1UUHhKNmV2SkRSUXJOR2N3QmJaYW8tMA?oc=5"
+    },
+    {
+      "title": "CPI 前夕比特幣跌破 7.7 萬美元！10 年美債殖利率逼 5% 、 Fed 升息機率升至七成 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaUJycm04d3dtVWVNQ240SFkyWndsYU42RHltcGItS0xRa1Z3UUJfZzdJSktuWWx6QkRmMDduV1pxSHAxTDlGRjIwNXlvZ1UwcFlHaFI1cmx2TjVCLUtBeWYtVkhxWjBvZVVWUDFpZjNNbGdFaHBQcGFGT0ZoZVRQSVB3?oc=5"
+    },
+    {
+      "title": "《台股盤後》收跌755點、險守46K，周K翻黑- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ0pSOWgyWXUwWVhNdmZPZDZMcEFJdXEyQWt2Z0tFRWJxZWV0VjdKa3pseXlZaExjWHRWLTlWYzgwaXB6ZzJ6cE5hSktWb3Z2Szc5Uk4yalFWQTByNzQ4c2MyNWJjWVFBUmZrWHhvcFFNWk1DOXhLQ2p1SGFrUmVnbVBfVktVQmctMGRIa250bnRWdw?oc=5"
+    },
+    {
+      "title": "外資892億巨刀落下台股755點跳水險守46K 權值股集體熄火金融攜航運綠地開紅花｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMioARBVV95cUxPcUZXVnlVWjNIUVhudHNSc2xmcXY0WDVuYXlXVThna3lIamtVQ3JwYndRWFNOWDhMWjk0LWkxUjJxZXNDZDJoMFQ2YVdfdmhsOTQ1V2JrbUZlSHpOTmxnTXBGQ2dxOHhSWldYTldHVGJQYUdOaW5sNnVRR1R0NmNQVk9nMmhHTEtSZ1ZERlF5R09EckxCendmZ1ZjblhnRm55MUdmcU1yVW5aSG1MTE5YZWFISDA3UUJYUUF2SFk1NU1mcjdjMzByWXdSNHp0eTE2ZEdTUlhaZVllbjQ5OC1qbXIyV05Bc0R2aFA4d2JkSFVPMmFmR2FsSkg0ZGRUbFhFNGI2TERGLXczdzhLSlBJbkU2UkppZVM5MEZ2a0ExM09hX0t4aEZsQ2NiaUZkMjhXZGR2Y3pvTHB1UU9SRDYta1dBRHRIQnUtMlJXU0lXcW1GZFQwaUxhMTlPMjBiSlFiaUFoLVBhVkltV0hIRW5JeXI5a0tnTHlySHpzM3h1V2E2UTdDMEpIam9QeUdYSFpGNWNRc2luR1RPeEJxejl4X3ZVRG1wVmR4Z1hxWl9tZXFxS00zMEJTeWNiVEJtYWQwMWdrY3ZTbUtJTUtISmZhQzFaOHdfQ3lTRWtsRFo5aHhsYmpkSWYyRmJjdUczc0ZwSXZvWmtjMlR5alpiMlJncHk2YVJPV0loajVEOHBsem1HVk9aQ3FUX24yRDBYS092?oc=5"
     }
   ]
 }
