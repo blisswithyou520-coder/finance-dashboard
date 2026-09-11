@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/11 19:07",
+  "updated_tw": "09/11 23:01",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 218.36,
-      "change": -5.31,
-      "changePercent": -2.374
+      "price": 219.59,
+      "change": 1.23,
+      "changePercent": 0.5633
     },
     "AAPL": {
-      "price": 326.57,
-      "change": 11.23,
-      "changePercent": 3.5612
+      "price": 335.434,
+      "change": 8.864,
+      "changePercent": 2.7143
     },
     "TSLA": {
-      "price": 363.56,
-      "change": -4.25,
-      "changePercent": -1.1555
+      "price": 365.365,
+      "change": 1.805,
+      "changePercent": 0.4965
     },
     "QQQ": {
-      "price": 708.69,
-      "change": -7.62,
-      "changePercent": -1.0638
+      "price": 714.83,
+      "change": 6.14,
+      "changePercent": 0.8664
     },
     "SPY": {
-      "price": 757.83,
-      "change": -4.57,
-      "changePercent": -0.5994
+      "price": 764.25,
+      "change": 6.42,
+      "changePercent": 0.8472
     },
     "SCHD": {
-      "price": 33.99,
-      "change": -0.1,
-      "changePercent": -0.2933
+      "price": 34.07,
+      "change": 0.08,
+      "changePercent": 0.2354
     },
     "VOO": {
-      "price": 696.65,
-      "change": -4.22,
-      "changePercent": -0.6021
+      "price": 702.525,
+      "change": 5.875,
+      "changePercent": 0.8433
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76777.57,
-      "change": 209.445,
-      "changePercent": 0.2735
+      "price": 78759.6,
+      "change": 2191.475,
+      "changePercent": 2.8621
     },
     "ETH": {
-      "price": 2453.44,
-      "change": 16.3414,
-      "changePercent": 0.6705
+      "price": 2607.76,
+      "change": 170.6614,
+      "changePercent": 7.0026
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.615,
-      "change": 0.151,
-      "changePercent": 0.4799
+      "price": 31.609,
+      "change": 0.145,
+      "changePercent": 0.4608
     },
     "JPYTWD": {
-      "price": 0.2032,
-      "change": -0.0017,
-      "changePercent": -0.8113
+      "price": 0.2037,
+      "change": -0.0012,
+      "changePercent": -0.5672
     },
     "EURTWD": {
-      "price": 36.694,
-      "change": 0.0905,
-      "changePercent": 0.2473
+      "price": 36.751,
+      "change": 0.1475,
+      "changePercent": 0.403
     },
     "CNYTWD": {
-      "price": 4.7176,
+      "price": 4.7168,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4380.4,
-    "twd": 4452.0,
-    "tael": 166966.0,
-    "twdTotal": 138486.0,
-    "changePercent": 0.3643
+    "usd": 4423.7,
+    "twd": 4496.0,
+    "tael": 168585.0,
+    "twdTotal": 139829.0,
+    "changePercent": 1.3564
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,7 +117,23 @@
   },
   "news": [
     {
-      "title": "黃金大跌！「這些貴金屬」直接崩潰 - ec.ltn.com.tw",
+      "title": "CPI引爆大行情？9月若真的升息，美股牛市就會結束嗎？｜豐雲學堂 2026 年 09 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQUTNBZWhMc0xmemQyTkRwWE5Tc01zUzc5THN4YnBpanNReHdpdVRKY194VU9fa0VEX1hMMllxUUpGaWg1RERGUDl2VjI3TlREdG5PdU9RdFQzdDNsTFhQbXFqNW9XYnU3OUE1MjY0S0E5aEd1a2NvanVQUGdqTHJ5LXRta3dNdklHcnJnU1VmRGVVblRyRGk5dW1HVmowRnRuQ1h4ZFAyYTRkWlZZcDBKWXIzVzc0a2JXTzl3WXpWWkRzYzFBUklMZFZvWXlELXNIZmhjODdQQ0stdDM2MkFFUDZWZXB6eEY5OXZPTXNvVHNieFQ5bHRPWnM5RXNaUXQ5M0lHX2FCLTlwX1AzbUl4Nm5BZXJXbTVrWGJ3dlJXdXVGdG5RN0N3cE9tYkJOUlgtNTBBMDZPVGpwVG1lMm9mUEp6Y2NJazJOX0g0b2U5eFFCR0ItYmlmeldaR1Z6YnRuekEzUFI2TzBWd05YMUpBd09GdHZWdmJZOVJ6UlNB?oc=5"
+    },
+    {
+      "title": "快訊／美國公布CPI「美股強彈」！ 道瓊漲逾600點 台指期同步走揚 - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNSzJBQVdiRElaQ0tlN19VckRuU084QWFDakhiZ05ENGpZbE1FV1dUWEZNSVQ1Q1dzM052WmVFLXRoLWliMzF5MHo5TTVmYzhyb2NSblF2YjBZUWhqcGpzelN5WXZ2QmVIM3hTWHlLdHRMVW1PcGRvbUpiWjFuRV8wMFlSS1V1SlQxZ2VSM2ZvWWdzUVFHbkgzTTRlTTdHNHE1ei16VzRJSVR3RnZ1X3ozQ3lQNFlwQzRMZmd2dVdsdnI2UzZqb0RMVmVabERENlR2SUxmN2RIbDVWQXhEdmNwTXhIVlBraDNXMzZnVktvVGliUmx4Y0gwNi1SYmE2ZFJ2VGRLQm5adjJzUEF1U3NoUlRmdnZuRWhVbXZaZHZ5M3VWNEFua0lMa0VzdGtaOFF0WkxnUkM5aXRIbHVNS1VkbGZtdzF5dk9SeV9SUXppZlJNaFJTRHBOd01IblVyaWZldDlaUDdiT04xNGVSN1V5RWR0cm5aUG51Y0E?oc=5"
+    },
+    {
+      "title": "美股收盤／四大指數收黑費半挫跌2.6% 受美債殖利率猛升油價飆6%拖累 | 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWRVJqbUV3am04RkVyY1ZSMUtXUEpmUDV0TU5FcnZSQU9ycmQ2b1RVUUp2WS1zZTlUOUUtbEVoZGxiQWp1cWFyY1ZJOHFjQ1RZ?oc=5"
+    },
+    {
+      "title": "快訊／美國公布CPI「美股強彈」！道瓊漲逾600點　台指期同步走揚 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DR29nT0VEblNvU2tTNGFTOVRQcGRRTVdVSGRRTEpsLVQzMnVlRWpMZXRveTdaZFUyLWNIeXdFVmJKSmlaTUx6dG1vZHBmaVNHQnfSAVBBVV95cUxNTmJpLS02Rjc4YnBOUTlhNjZOVm11aWdTQTI5SGw1cXRNVUNwYUg0cDdkLXdTbHNhTlZ2clM5Uk9Gc0RYcVY1Q0l5LXpYZkVDbg?oc=5"
+    },
+    {
+      "title": "黃金大跌！「這些貴金屬」直接崩潰 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6THJzXzBJOFNFUFNBZWktREh5cVFqVHhGSllTdTBEUm13RS1NbjJ4ZkFZV3BzSE15cDgzbHM0Ui1INUdwLWUzSlBCUVhpbjFvOHZpTkY2ZHNoaEVWZWQ40gFkQVVfeXFMTmRlSGx1ZkRZdTB5enZCYWRMdXF2aG1hSGpfMzRrWERxU19oMEdJTi00RVlHUjdXZmE1N1V2REZ3bGRkS1BnbkhsVjlycTdJWVpUV09BbmdvaUUzR2lwZ0hZNll5bw?oc=5"
     },
     {
@@ -129,24 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNR0p5c3ZHeUM5U3VoaWxIUEFqSHpxeWxOdTNINVNCTzZybVhKM0FwUnpwVk1DdEl4RzhibGQwRFBJS3lHZmVtYjRRODdfZWNnTXVOeDVhVXRFMXliT3JveGdrMUpvRWxFeU1tT29TbGFxNlRkZ0lnQ1BRSUIyMzg2WlpVNm5YODZLU09HZEQyWmEzbGpGbkpSQ051eDJIYTRqeV9IZ0J0VVBlQU9hb09TSDVSTE5tYWV3N2xjOTlRMGJwYjg4U19yTTRPZkkzTXRfN3lZaWdaWTdWSTg4WVd0NWctcjEwOFBjeTYzdlFxODNTYmhaSTVwaVdVYWU4TWNKSWtWdUdOZ2xVN202OUFROE1vZTl6SklEdmd4ZlVWbHNEMGh6cTliNXRFSm9lRDByRnd4ZnM0TkROeUVkOGZPdWZVQzdPLWdiM2xyTm5rTm8taV9NcFVNY0tiLVVCT25rVHpiOWlWSkVjcHJkSENQOXZrX3VVd29VVTlPVVU4ckw1V0FiSnBkSzQzNTAzbTJ0aUJSQ2J5cWMzS2k1SjdjWUJBLXlWM2pPVkp0MG0zcEQ?oc=5"
     },
     {
-      "title": "美股收盤／四大指數收黑 費半挫跌2.6% 受美債殖利率猛升油價飆6%拖累 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWRVJqbUV3am04RkVyY1ZSMUtXUEpmUDV0TU5FcnZSQU9ycmQ2b1RVUUp2WS1zZTlUOUUtbEVoZGxiQWp1cWFyY1ZJOHFjQ1RZ?oc=5"
-    },
-    {
-      "title": "【美股盤前0911】8月CPI重磅登場！沙烏地阿拉伯原油產量創新低，油價飆漲，PPI也顯示通膨仍處高檔，市場走勢承壓 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMihwVBVV95cUxPSldsMXY2d1VwMHhhaTJxZmtkTDVzQWdDdmwwZ3JyX0E0YWpob2hlOFVHZUJyVjVJX3puQjNKeG5ud053cGxYTlZxZzlCekJJajZ3ZG42VHBxcm5pUmYxandqZGFnX2lnRHptWFRXRUU4aHNOREM5MnN6Wi1aME1lUFY2S2E2VmZmdEZSRFFJSG5KYmlJdHVCTXE3eW1UM3JJN2UtMzFYS2p2SmdXajFjNUJvSzNubG9kNk5yUHdSLU5UWDVBSlpZdkNybUhIV0JxTnN2R1VRSjlkaGNUUzV3NFhQWnp3TFR3WHNGOW81dVRxU3ZuS09FYVhaTmg2VmZ5QnZKM1NmNkF5YUtSWndDTkx3Ums5SDBoWUNMVzN2a1pDaWtJaWpvWDNndFZ4bXlnS1RIWDc1eE8zU0ZUM1BDNWtxT0RXYmd5cXlGQlZJMzRaTXUzaGJCWG5aMUdoUThWVExMZUxrRkptLTBfY3B5WE43a3RfS1o2SEVQQUdfQ09oQjNYZWdWMmcwMDM5R19KV19taE9OSUNHczViR1RRZUtHaTQzV19CZkFUaFFXWEtmUW5ZVnhUZGxCMWVTaUVWSEdKWC1yN0ZpVjZlN2pOMFh0Y3RQT1JQNm1fWGFYb1VKd2x3MzBJXzRXb0NSWWYxaGRZTTJwQ0ZodGppVEZWakZvbmhvc1NVQ1habUVIclUwdVBHZEFFdmhibXRLLTRWNXkwdUk1ZEl6Um9vU0lSRkJBWmszbS12SEpSY1RoQXI4UVBSYzF4WkduTERJa19TejNEbHRRZlhkejlfdkwwaGNteTJmdy1GLTgzeTRBRG1UUHhKNmV2SkRSUXJOR2N3QmJaYW8tMA?oc=5"
-    },
-    {
-      "title": "CPI 前夕比特幣跌破 7.7 萬美元！10 年美債殖利率逼 5% 、 Fed 升息機率升至七成 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaUJycm04d3dtVWVNQ240SFkyWndsYU42RHltcGItS0xRa1Z3UUJfZzdJSktuWWx6QkRmMDduV1pxSHAxTDlGRjIwNXlvZ1UwcFlHaFI1cmx2TjVCLUtBeWYtVkhxWjBvZVVWUDFpZjNNbGdFaHBQcGFGT0ZoZVRQSVB3?oc=5"
-    },
-    {
-      "title": "《台股盤後》收跌755點、險守46K，周K翻黑- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ0pSOWgyWXUwWVhNdmZPZDZMcEFJdXEyQWt2Z0tFRWJxZWV0VjdKa3pseXlZaExjWHRWLTlWYzgwaXB6ZzJ6cE5hSktWb3Z2Szc5Uk4yalFWQTByNzQ4c2MyNWJjWVFBUmZrWHhvcFFNWk1DOXhLQ2p1SGFrUmVnbVBfVktVQmctMGRIa250bnRWdw?oc=5"
-    },
-    {
-      "title": "外資892億巨刀落下台股755點跳水險守46K 權值股集體熄火金融攜航運綠地開紅花｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMioARBVV95cUxPcUZXVnlVWjNIUVhudHNSc2xmcXY0WDVuYXlXVThna3lIamtVQ3JwYndRWFNOWDhMWjk0LWkxUjJxZXNDZDJoMFQ2YVdfdmhsOTQ1V2JrbUZlSHpOTmxnTXBGQ2dxOHhSWldYTldHVGJQYUdOaW5sNnVRR1R0NmNQVk9nMmhHTEtSZ1ZERlF5R09EckxCendmZ1ZjblhnRm55MUdmcU1yVW5aSG1MTE5YZWFISDA3UUJYUUF2SFk1NU1mcjdjMzByWXdSNHp0eTE2ZEdTUlhaZVllbjQ5OC1qbXIyV05Bc0R2aFA4d2JkSFVPMmFmR2FsSkg0ZGRUbFhFNGI2TERGLXczdzhLSlBJbkU2UkppZVM5MEZ2a0ExM09hX0t4aEZsQ2NiaUZkMjhXZGR2Y3pvTHB1UU9SRDYta1dBRHRIQnUtMlJXU0lXcW1GZFQwaUxhMTlPMjBiSlFiaUFoLVBhVkltV0hIRW5JeXI5a0tnTHlySHpzM3h1V2E2UTdDMEpIam9QeUdYSFpGNWNRc2luR1RPeEJxejl4X3ZVRG1wVmR4Z1hxWl9tZXFxS00zMEJTeWNiVEJtYWQwMWdrY3ZTbUtJTUtISmZhQzFaOHdfQ3lTRWtsRFo5aHhsYmpkSWYyRmJjdUczc0ZwSXZvWmtjMlR5alpiMlJncHk2YVJPV0loajVEOHBsem1HVk9aQ3FUX24yRDBYS092?oc=5"
+      "title": "比特幣跌至 7.7 萬、實現賣壓卻腰斬！問題可能不是賣家，而是買盤 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbi1uMUc0UjNvcWt6YzJhRDhBT1VMb29oNEJXQ3pNVFFucHpZMkZhb0VkUkdaNC1xLUp4Y0R3SlY4Z3ZwOEFqQ3dhQVY3R2VOam5uZTV6Q090YzhGaWtPOXJfUC1fVEJJWWVIb1oybnYtcEJrQVRYMHhsOTFSOXBtWjZrekVIemJsYUpxdEI0WTk1NG1EM0Ntdkx3?oc=5"
     }
   ]
 }
