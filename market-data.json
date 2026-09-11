@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/12 05:19",
+  "updated_tw": "09/12 07:27",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -24,13 +24,13 @@
     },
     "00878": {
       "price": 34.0,
-      "change": -0.07,
-      "changePercent": -0.2055
+      "change": -0.13,
+      "changePercent": -0.3809
     },
     "00919": {
       "price": 32.48,
-      "change": -0.23,
-      "changePercent": -0.7031
+      "change": -0.1,
+      "changePercent": -0.3069
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77383.21,
-      "change": 815.085,
-      "changePercent": 1.0645
+      "price": 77165.56,
+      "change": 597.435,
+      "changePercent": 0.7803
     },
     "ETH": {
-      "price": 2538.59,
-      "change": 101.4914,
-      "changePercent": 4.1644
+      "price": 2513.6,
+      "change": 76.5014,
+      "changePercent": 3.139
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "Fed升息幾乎成定局反而大漲？美股接下來才是真正考驗 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sRTV1b3JfazZPV2pGcEs1eWFMbkYyQ0FDVkU1amwxbFNlWEVCa0NxV1R2NDE3eXVUWkhGdFJJSThwUlJsbU9qVEUzNlBaY3M?oc=5"
+    },
+    {
       "title": "美股早盤／油價下跌…道瓊大漲逾600點！通膨數據超預期、Fed升息機率增| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtLXJHWWRvdWRfMjBWdjdWZC1qeDJRTHlVWXBhUWdVMFVvdmhvRUNNYlJLMnVxcVQ1ZUo3SUNzV0h2dXhtZkNlaVdsNk9xM1B2?oc=5"
     },
     {
-      "title": "〈美股早盤〉Fed升息也嚇不倒？油價回落助攻道瓊狂飆逾600點 標普力拚終結連四黑 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oeVZPbHZWVHN6Qk4tZ2JQYnZweDh1VmZzeWVwQlZMWnE0b2J3RnA0bVlCaE9vZFNVM1Q4S2t4TW5ESzEtM1F1VmQ2OEh4WU0?oc=5"
-    },
-    {
-      "title": "CPI引爆大行情？9月若真的升息，美股牛市就會結束嗎？｜豐雲學堂 2026 年 09 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQUTNBZWhMc0xmemQyTkRwWE5Tc01zUzc5THN4YnBpanNReHdpdVRKY194VU9fa0VEX1hMMllxUUpGaWg1RERGUDl2VjI3TlREdG5PdU9RdFQzdDNsTFhQbXFqNW9XYnU3OUE1MjY0S0E5aEd1a2NvanVQUGdqTHJ5LXRta3dNdklHcnJnU1VmRGVVblRyRGk5dW1HVmowRnRuQ1h4ZFAyYTRkWlZZcDBKWXIzVzc0a2JXTzl3WXpWWkRzYzFBUklMZFZvWXlELXNIZmhjODdQQ0stdDM2MkFFUDZWZXB6eEY5OXZPTXNvVHNieFQ5bHRPWnM5RXNaUXQ5M0lHX2FCLTlwX1AzbUl4Nm5BZXJXbTVrWGJ3dlJXdXVGdG5RN0N3cE9tYkJOUlgtNTBBMDZPVGpwVG1lMm9mUEp6Y2NJazJOX0g0b2U5eFFCR0ItYmlmeldaR1Z6YnRuekEzUFI2TzBWd05YMUpBd09GdHZWdmJZOVJ6UlNB?oc=5"
-    },
-    {
-      "title": "快訊／美國公布CPI「美股強彈」！ 道瓊漲逾600點 台指期同步走揚 - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNSzJBQVdiRElaQ0tlN19VckRuU084QWFDakhiZ05ENGpZbE1FV1dUWEZNSVQ1Q1dzM052WmVFLXRoLWliMzF5MHo5TTVmYzhyb2NSblF2YjBZUWhqcGpzelN5WXZ2QmVIM3hTWHlLdHRMVW1PcGRvbUpiWjFuRV8wMFlSS1V1SlQxZ2VSM2ZvWWdzUVFHbkgzTTRlTTdHNHE1ei16VzRJSVR3RnZ1X3ozQ3lQNFlwQzRMZmd2dVdsdnI2UzZqb0RMVmVabERENlR2SUxmN2RIbDVWQXhEdmNwTXhIVlBraDNXMzZnVktvVGliUmx4Y0gwNi1SYmE2ZFJ2VGRLQm5adjJzUEF1U3NoUlRmdnZuRWhVbXZaZHZ5M3VWNEFua0lMa0VzdGtaOFF0WkxnUkM5aXRIbHVNS1VkbGZtdzF5dk9SeV9SUXppZlJNaFJTRHBOd01IblVyaWZldDlaUDdiT04xNGVSN1V5RWR0cm5aUG51Y0E?oc=5"
+      "title": "油價下跌！美股4指數齊漲 費半強彈1.8% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOY0hKVy0ycmVtd0hBN2YzUTNaWWFMTXpuNmtza2FjN3ZQSFppVXh6US1TT1FPZnJ6THpDbVFyUjYwbENlR1h2RFFfYUNITGo4U3hsSmdjNXlpRTNwYkVhT1hxYjJ0R0diaGxjSDBOOE1odE40YU9fNnlSWHJ1RlhoSktObUE2N0JVLUFWM20tX3kybkNMc09oa1RreDdBTnVuXzcxNGtHYzRZUVNJemI1c1hoQmtqTC1mVFdZUEFRaUpwVzEyVGxPeTA5ZVFkMFNIM2hGNWdHS2M3d24wRkZwZTNSeG5vNm5VTnNWUkpWUWs5UHBuemFVbVZNckxjZXhfSmxCajJ2MjZUY1U?oc=5"
     },
     {
       "title": "快訊／美國公布CPI「美股強彈」！道瓊漲逾600點　台指期同步走揚 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DR29nT0VEblNvU2tTNGFTOVRQcGRRTVdVSGRRTEpsLVQzMnVlRWpMZXRveTdaZFUyLWNIeXdFVmJKSmlaTUx6dG1vZHBmaVNHQnfSAVBBVV95cUxNTmJpLS02Rjc4YnBOUTlhNjZOVm11aWdTQTI5SGw1cXRNVUNwYUg0cDdkLXdTbHNhTlZ2clM5Uk9Gc0RYcVY1Q0l5LXpYZkVDbg?oc=5"
     },
     {
-      "title": "美股成長股新焦點：Simply Wall St 分析三檔科技潛力股 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQTU96bEswVlpWT24zNXJOdXp2SGZpbk43LVF0ZVFseVRnaUJQMXp4N0tCVWVnRmU4V29IYWJSLUk4dnlYaE5hRW5nMzBzcXgwVmdQXzVvaksxRk0tWTBkR3lDZG1vVjBMajZUTGRlTFNTSHVuckdQdUxndFRKa3dHYVFjdHJpMGlPZzdvYTBPOEUxNkRTeHBQa3FqdndMbTBaaEh6em80b25abkRoeXFld2YwZkZMVzNwNUFleFVkcnY2c1BNMjFLRUZWTzAzdmNBdk94U1VhWDFFZ2xlcklYXy00LWFsdEFFWEZxYkRrallEMTJKZk1EUTJfZTlNTDBhSWgxVHRtZ1pucEZrMzZQT3EtbjNUa0VFNG92UEN4Uk01d3JmcHB3bUF2QVJxV3ktRXlrbFJoUVRxMExZ?oc=5"
-    },
-    {
-      "title": "黃金大跌！「這些貴金屬」直接崩潰 - 自由財經",
+      "title": "黃金大跌！「這些貴金屬」直接崩潰 - ec.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6THJzXzBJOFNFUFNBZWktREh5cVFqVHhGSllTdTBEUm13RS1NbjJ4ZkFZV3BzSE15cDgzbHM0Ui1INUdwLWUzSlBCUVhpbjFvOHZpTkY2ZHNoaEVWZWQ40gFkQVVfeXFMTmRlSGx1ZkRZdTB5enZCYWRMdXF2aG1hSGpfMzRrWERxU19oMEdJTi00RVlHUjdXZmE1N1V2REZ3bGRkS1BnbkhsVjlycTdJWVpUV09BbmdvaUUzR2lwZ0hZNll5bw?oc=5"
     },
     {
-      "title": "美股盤後｜國際油價續揚，靜待CPI公布，四大指數盡墨 0911｜豐雲學堂 2026 年 09 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNMHJfNGg0YzRyY0tCYzl3MThNYnJnR3E4emZoOXBPVC1UeHNyS3VidEFJa2tqa3NXbTd5ZEd5X1RkODIwWWl1bGhqVU84bkFuakRycDBPNkFjSW9MY1lKbWJQTGp2RDNDNXU0amhJd3FicmNKazN6Y1pYcFpSRHJOeURRSFRsc0hPZ01RLUlvSmVNaDlyUWM1R25JNlhmSzVVZFRGZW1DSjhkTHdmWHJWX1V4LWNwU1NzMi1HZ3EyVy0wMXdZRnRMc1ZfVzNpLUx0QzQzZ2xlcnF4VFRWTnZxaWdTQTBrd3NyaDZSbTFNV1VKbW9uZHdha21jcHI3ZG8xanBOeVV3SnJmSEwyOGJsOU5UcG5UNUdtbTVpZ2lpYW5WRV91SkY4UTE3STdLcVpNaUFybndzUGRrc2N2OEhOVjZtZmRwbUNkSFZtVTJGZUdFb1RqMmZBWVFxa2h5bmdKd3BGLXdWTnAzNExHM3JOWVlodjZlVi1rNllBNTNaZngxVmM?oc=5"
+      "title": "〈美股早盤〉Fed升息也嚇不倒？油價回落助攻道瓊狂飆逾600點 標普力拚終結連四黑 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oeVZPbHZWVHN6Qk4tZ2JQYnZweDh1VmZzeWVwQlZMWnE0b2J3RnA0bVlCaE9vZFNVM1Q4S2t4TW5ESzEtM1F1VmQ2OEh4WU0?oc=5"
+    },
+    {
+      "title": "升息預期已提前反映美股反彈收高| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YbndPMEMyY2pFVWdfZHh3c0xhTk1YcENkWm5PcDlZTnN6UXJUN3FPYXo1SVV5V3hJTFduZnVOcVo1Sks1V2MtSjI1aEYxTWww?oc=5"
+    },
+    {
+      "title": "星期一開盤噴爆？美股全收紅 台指期夜盤暴漲401點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNNXVWS1RGRlpiTFJIYjNVR3UxSlhkQUk2eTRvMzZwUUFuSGQ0S0pCeVJ6dG9qLW5wWFI5NUJxZmRqR0dXZW80WGt4WTJteFNGQU0ydmZwUVh3Uk1NWGhoM3R5SnJhZUg3Q2ozdWRsU0ZJeE1qdS0xSmhHY2VBaFV3ai1vOFhvZmx4WjVaY2h0NlBhY0xTR2ZpMllwQ2twaDFrNG16anlVeEk1QVlia1Q3N2dyc2RVRWt4VTBJQVhYN3lFWWVhX1pGd1ZEWE9QdHZaSktkSEFfcVQzY2ZiNGJfb2J5ZXdvY1FRYnAzc05wUGFIeDdLRFdIR2NrNFBiRXdNdWdlWkNwd056N0lUMEhGSVUwUGdIazJOdUZJMGtmSnJoajVVaEVBQm5jci0tQmRuWGR1blJCM21wOU5QZXdYOUJXMGdLQ0k?oc=5"
     }
   ]
 }
