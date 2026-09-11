@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/11 07:10",
+  "updated_tw": "09/11 09:05",
   "taiwan": {
     "2330": {
       "price": 2450.0,
@@ -36,80 +36,80 @@
   "us": {
     "NVDA": {
       "price": 218.36,
-      "change": -5.31,
-      "changePercent": -2.374
+      "change": -7.37,
+      "changePercent": -3.265
     },
     "AAPL": {
       "price": 326.57,
-      "change": 11.23,
-      "changePercent": 3.5612
+      "change": 10.35,
+      "changePercent": 3.273
     },
     "TSLA": {
       "price": 363.56,
-      "change": -4.25,
-      "changePercent": -1.1555
+      "change": -4.6,
+      "changePercent": -1.2495
     },
     "QQQ": {
       "price": 708.69,
-      "change": -7.62,
-      "changePercent": -1.0638
+      "change": -9.67,
+      "changePercent": -1.3461
     },
     "SPY": {
       "price": 757.83,
-      "change": -4.57,
-      "changePercent": -0.5994
+      "change": -8.13,
+      "changePercent": -1.0614
     },
     "SCHD": {
       "price": 33.99,
-      "change": -0.1,
-      "changePercent": -0.2933
+      "change": -0.42,
+      "changePercent": -1.2206
     },
     "VOO": {
       "price": 696.65,
-      "change": -4.22,
-      "changePercent": -0.6021
+      "change": -7.42,
+      "changePercent": -1.0539
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76688.22,
-      "change": -1571.3034,
-      "changePercent": -2.0078
+      "price": 76927.16,
+      "change": -1332.3634,
+      "changePercent": -1.7025
     },
     "ETH": {
-      "price": 2439.63,
-      "change": -27.2838,
-      "changePercent": -1.106
+      "price": 2457.12,
+      "change": -9.7938,
+      "changePercent": -0.397
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.616,
-      "change": 0.152,
-      "changePercent": 0.4831
+      "price": 31.591,
+      "change": 0.127,
+      "changePercent": 0.4036
     },
     "JPYTWD": {
-      "price": 0.2025,
-      "change": -0.0024,
-      "changePercent": -1.153
+      "price": 0.2023,
+      "change": -0.0026,
+      "changePercent": -1.2506
     },
     "EURTWD": {
-      "price": 36.748,
-      "change": 0.1445,
-      "changePercent": 0.3948
+      "price": 36.737,
+      "change": 0.1335,
+      "changePercent": 0.3647
     },
     "CNYTWD": {
-      "price": 4.7144,
+      "price": 4.7104,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4358.0,
-    "twd": 4430.0,
-    "tael": 166118.0,
-    "twdTotal": 137783.0,
-    "changePercent": -1.3134
+    "usd": 4373.4,
+    "twd": 4442.0,
+    "tael": 166573.0,
+    "twdTotal": 138160.0,
+    "changePercent": -0.9647
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,20 +117,24 @@
   },
   "news": [
     {
-      "title": "美國8月PPI指數高於預期、油價飆高 美股主要指數開盤走低 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNGcyOG8xQ0dUSzFlZ25fN0RHTFhOcVM4d1ZWUUZwLUdKM1RaWVdxWW9BcnNGUzBNRkpvV0F3Tm5BczN4MjN0MmlLNW94czVoS1V0YTU2RF95UDNWM2l0SzJPSjc0T0I0TGdjSUpWYzI0Y0RsVkJVa1ktOEh3Z1c0RGxiRnNtczI5T1NoZFR6UHdSRVVSVGFqQU5XcEZRdnBWcVV6UWk2empRU1ltQ3FHUWprY1V5VTc4d2lDM0ZwY1pfTXczcXVza1R0T2VuaG04TTJ5VkNabER4Q1dmLXJnVHRLc1lKVmR0VmpZUTQ3SHY1QkR0bU5Kc1dPQ01uLUppVHFCSGZVU2RzaEN3Ynp2SFBvelpocEhVbnF2UjhITjBRVDJNc3pRNzNyQkFtOGhIVEUzbUtpZHdlUmdUTWs5LXpITnpaNHc1UFBUWTZZaXd1dk5yMmx3UGpXdGRhZXRRS2NmRWs3aFFJOHVhVEsyaTdzU2NYb2M?oc=5"
+      "title": "美股收盤／四大指數收黑 費半挫跌2.6% 受美債殖利率猛升油價飆6%拖累 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWRVJqbUV3am04RkVyY1ZSMUtXUEpmUDV0TU5FcnZSQU9ycmQ2b1RVUUp2WS1zZTlUOUUtbEVoZGxiQWp1cWFyY1ZJOHFjQ1RZ?oc=5"
     },
     {
-      "title": "〈美股盤後〉兩大指標油價均飆破100美元 美債殖利率逼近5% 美股三大指數連四黑 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MSVZOY0tzTUVKWWU1YXBGREdEaV9OSWFHRy1IWFJuanc5bDlPNUlNQTNBaXFyS2F4RXc0c2s3TjRya3cxWTBBalJtd0s5azA?oc=5"
+      "title": "台股開盤不妙？油價飆漲拖累美股收黑、台積電ADR跌1.68% 台指期夜盤摔797點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNR0p5c3ZHeUM5U3VoaWxIUEFqSHpxeWxOdTNINVNCTzZybVhKM0FwUnpwVk1DdEl4RzhibGQwRFBJS3lHZmVtYjRRODdfZWNnTXVOeDVhVXRFMXliT3JveGdrMUpvRWxFeU1tT29TbGFxNlRkZ0lnQ1BRSUIyMzg2WlpVNm5YODZLU09HZEQyWmEzbGpGbkpSQ051eDJIYTRqeV9IZ0J0VVBlQU9hb09TSDVSTE5tYWV3N2xjOTlRMGJwYjg4U19yTTRPZkkzTXRfN3lZaWdaWTdWSTg4WVd0NWctcjEwOFBjeTYzdlFxODNTYmhaSTVwaVdVYWU4TWNKSWtWdUdOZ2xVN202OUFROE1vZTl6SklEdmd4ZlVWbHNEMGh6cTliNXRFSm9lRDByRnd4ZnM0TkROeUVkOGZPdWZVQzdPLWdiM2xyTm5rTm8taV9NcFVNY0tiLVVCT25rVHpiOWlWSkVjcHJkSENQOXZrX3VVd29VVTlPVVU4ckw1V0FiSnBkSzQzNTAzbTJ0aUJSQ2J5cWMzS2k1SjdjWUJBLXlWM2pPVkp0MG0zcEQ?oc=5"
     },
     {
-      "title": "明天不妙？美股全趴 台指期夜盤狂瀉 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVc1A4SkhhS205UU5hZGMzSWZpMC13NmdJNXBaWjBndmJtUkdNMERfeGsxM1pjcjBtdmR6aUdfanBDV2hORVQyODlNT01NY3FqZ3hIN1licTFxYzY4VkxZ0gFkQVVfeXFMTm92QndDeW1ZaDlTU2o5WENidVc2ckJVdEREWEJ5ZEpBeXBaR1QwRTVZSlBxOFphaTRlOVIwOXIyVjIzWDNSTWJid2o0VEFCbWxqWk1RZGxJeE80WEU5WGJDdkE5ZQ?oc=5"
+      "title": "美股收盤》油價飆破100美元！道瓊連4黑 台積電ADR跌近2％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vLW5aV3diOXpDQmlDalZxMjVfWi1BSDlhOVlReUFMRkhuZVYyWFE3NE1wZUFra0xNTkFOTGdtcHZtQ1pZQUJGc0pyX3AwZzdvcGotYnI5TEs5cFVMZkdj0gFkQVVfeXFMTTgtaXdZaWUwZkpIOGl0OFE3MExhMVJYeWZ2bFFhdWRidkF2VVN2V20xUUZXYk1uSHR2ZkZuM3p1SVBsM3Z0VC1YZkItRlV4QVMydk5YSjRTQkg1c3NoS083bDJvTw?oc=5"
     },
     {
-      "title": "美國8月 PPI 好壞參半 美股期指挫低 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtOEF3aURma3RLYlpDeml4YVlOOVp4RGF2Nm5aOWd0Rkc2VW9zR1B5aUdTTmRRV0NxQlhjdnZMQlY0M25Ydy14QmZ5TmZRTzE4dDh2SWJOaEp1YkRM0gFiQVVfeXFMTUpmNnhJWGVacnFLQm5SLXZGdEFTUDlNTGE3aWtuZEFUWTA2YUNWLVlBcmdBTmZYVnhFX3RwMnk1TkxQc1Bsbkl5bTBRR3F3TEZXMTdtT194Um84MGZZRnJaOXc?oc=5"
+      "title": "AI泡沫若爆！惠譽示警美股6個月恐崩35% 美國經濟可能陷衰退 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBteXVsTjNnamVhOFZ1WXNnYmJRWGlwaG1ldmM5U2hTY2lZYnM5UUxfSS1yYTRMMm9uVkR2cEZtaFZLTzZuMjkwNE1WMXNka1U?oc=5"
+    },
+    {
+      "title": "【美股盤前0910】今晚聚焦美國8月PPI！市場持續受中東戰局影響，國際油價再次突破100美元大關｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMisARBVV95cUxNek9GZWlkRjhkbGkxV0pRNW9ueTl5bEpMQ2stOUZOT1pDRG5YSEp0bUpuME9Eb2lBUVhJUmtyTUVjaW5CMFRvN0Q3bmJyNmFXU0RHMkxWX05WbkVQNl9UUUxiM0JIYUhJWjl6ZDlfQmVIbmJaR3IxRjFPeURCampkWjBUVEtFYzNfdjVsUUg5bWI5QkdZX0VWYkdKOFRDNGQzWm9aQ3FtendwdVZuQ3NFVERoNE9qV0dmX1A4QlhxUndUeWU5dHdTV3h0TnJFb28ySFh6OWdGS3RyUHFNWGZ4c0lKU3dsYXM2XzZJblNmeENZQXVvQzhsNm01ZTJYN2Z1aUphUUhqYngyVWg1YU5tbzhxVXVzQTVFYnpzNWNhYi1rZ01IdDh6MUNpQXhXRzloMHpySU9ldENVUzRPY2lmWUxBcEZwQ2dwN0lNa2h4LUZJOTlpNzNSVWFvMExNQUlHSG9PRlVlOE9HRzNZZ1NHcUV6SDkzYnYzU0VwMWNyNDlUYzFkTENqdFFhUkVqVzNJVnpzSXpqdEdxVmFiMFNjZDdhSmUxNGt3eS0xVEVsSFhTYllWQnVRNjdZd3hsdlk4Qks1eDNyOHhGVFZIdThjbm1OZ2g3b2kxRDBMX3pKQlNVRkpZajFZVTc1NzFIRF9xSEZqX3BKSy11U2x0bTFNOVg5T2E2ek5sdEsyd0dVQy1XMTF5S3RsNE1wSVd0dDc3MUdPRi1HekZZaEdfRjl2aQ?oc=5"
     },
     {
       "title": "快訊／通膨警報響！美股三大指數齊挫　台指期夜盤一度暴殺743點 - ETtoday財經雲",
@@ -141,12 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOam40cjdBaF9MQzczak00LWhncUoydWc3YUdIYjRwcnFISnpOMkdWX1ZrWWdhaWNSRHFSbHpQczVjX3lmMGs3eFlaZTJjUG1hem5JUGJ3YXdKbDZtVGhBa2tLbEU4dGxsYkREX3k5dUMzWTJvb1JpUU5PWkdMcnpsZEx4UzZsWHNEamFWZE5MOTBpdw?oc=5"
     },
     {
-      "title": "全球債務焦慮升溫，8月黃金ETF湧入180億美元 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN2JkQkExZHp1NWNhMzJCNFhsM2p5TW0zNXJIU2pxeWZNcGZoTk15QXU2WDl1YWlxUUtCcHdOVkZvcHRsQkhGeXlpS3Z0a3pxQXYzWmNHc185WFhkZzQ4MTJiYkx0eXh0NzdnMDUwLUw2NlNSUFFmQ1VSUWhjSGVYYThCUDVJX3BZZmZTSXR3cw?oc=5"
-    },
-    {
-      "title": "比特幣礦商轉向AI資料中心 美國挖礦版圖外移 - DIGITIMES",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFd3dTNNS2VJYUNVcWUzcHY4ZXdmLU9ZU2VVMk9RaEgzVnVKOFlqT3psVmZxYk1WYy1nYUtDLUt6ZWI0cUtRb3FkSXFaOWQwQUxhVVBYdkRpajBfd3BHRVd4VHBuTGMyVVpfVEJ3OERnUTUzNm83ckJPVFA0bzI5ZkxXSTI2SVp0SzNETzBn?oc=5"
+      "title": "美國8月PPI指數高於預期、油價飆高 美股主要指數開盤走低 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNGcyOG8xQ0dUSzFlZ25fN0RHTFhOcVM4d1ZWUUZwLUdKM1RaWVdxWW9BcnNGUzBNRkpvV0F3Tm5BczN4MjN0MmlLNW94czVoS1V0YTU2RF95UDNWM2l0SzJPSjc0T0I0TGdjSUpWYzI0Y0RsVkJVa1ktOEh3Z1c0RGxiRnNtczI5T1NoZFR6UHdSRVVSVGFqQU5XcEZRdnBWcVV6UWk2empRU1ltQ3FHUWprY1V5VTc4d2lDM0ZwY1pfTXczcXVza1R0T2VuaG04TTJ5VkNabER4Q1dmLXJnVHRLc1lKVmR0VmpZUTQ3SHY1QkR0bU5Kc1dPQ01uLUppVHFCSGZVU2RzaEN3Ynp2SFBvelpocEhVbnF2UjhITjBRVDJNc3pRNzNyQkFtOGhIVEUzbUtpZHdlUmdUTWs5LXpITnpaNHc1UFBUWTZZaXd1dk5yMmx3UGpXdGRhZXRRS2NmRWs3aFFJOHVhVEsyaTdzU2NYb2M?oc=5"
     }
   ]
 }
