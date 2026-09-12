@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/12 18:54",
+  "updated_tw": "09/12 21:53",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77301.0,
-      "change": 127.2031,
-      "changePercent": 0.1648
+      "price": 77303.72,
+      "change": 129.9231,
+      "changePercent": 0.1684
     },
     "ETH": {
-      "price": 2530.94,
-      "change": 16.2061,
-      "changePercent": 0.6444
+      "price": 2539.04,
+      "change": 24.3061,
+      "changePercent": 0.9665
     }
   },
   "fx": {
@@ -117,7 +117,7 @@
   },
   "news": [
     {
-      "title": "Fed升息機率飆87%！黃金竟逆勢漲 「不跌反彈」2原因曝光 - Yahoo股市",
+      "title": "Fed升息機率飆87%！黃金竟逆勢漲 「不跌反彈」2原因曝光 - tw.stock.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxORmhXWGczSzRmYlNEUHUzbDdLcHV1TWdfRHJMa2dqaWNVZkU4QVF4aDBlQzdUamRiaGxSdlozd2x4M3Q5bXJnNncycmhxNmxrZy1iTnRGc0d3Q2VoOGx4YTRNUTBLeExMSWkyUl9LZWJHYlNUeW03c2FGRTBuc1czUmZ2cXNtci1nUUtrOTRBQnRDbEdQdk1IX24xUjBTV2x4ZzdGMWRuWjFvY0JvNU05RU9tV3N1bjZvUnFMcEF2eXd1Z2tnaWNTQURiX0hpY1RfOHM5TjJYZGRhVlZIT3pnVEU4R1BLRm9VTzRYczg2LU9VMk4xcVUtZEd1RXdrdlFNbGFmdDlyMnlvRVpEMGxoSjNvQ1lJLU1PcmNYLTJqN2dvZjBSNG5pUEY5dXNYMmcxQU1RdFVHZkJDNloxbldub3ljeE5ITEdkUWZz?oc=5"
     },
     {
@@ -125,11 +125,19 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sRTV1b3JfazZPV2pGcEs1eWFMbkYyQ0FDVkU1amwxbFNlWEVCa0NxV1R2NDE3eXVUWkhGdFJJSThwUlJsbU9qVEUzNlBaY3M?oc=5"
     },
     {
-      "title": "美股早盤／油價下跌…道瓊大漲逾600點！通膨數據超預期、Fed升息機率增| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtLXJHWWRvdWRfMjBWdjdWZC1qeDJRTHlVWXBhUWdVMFVvdmhvRUNNYlJLMnVxcVQ1ZUo3SUNzV0h2dXhtZkNlaVdsNk9xM1B2?oc=5"
+      "title": "黃金跌不下去了？聯準會下週升息機率飆87％ 金價最新走勢「找到短期底部」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IZFFlNHhrVUlycFN1WU8yd3dnVklYSXhOMk9CU3RpS3lwU3UxQ0xtY3JPNTRKVjZtYTd6QlVjaXFMOFZ4eE5JSGVtd1B5T2ctRU1meHVPOWRJSmVQQjQw0gFkQVVfeXFMUHNybWtzMXlHZzJ0b3VaU0ZiNzRvVDE2YTlKQTZ1bFo1RjJTMXJpdF90ZHNYMGJaeW5WeHZxaWFFZFBXaWZpU1dWQ2I0V0xqb215TmtoekNvbW5tSXlKZFRsLTJYVg?oc=5"
     },
     {
-      "title": "星期一開盤噴爆？美股全收紅 台指期夜盤暴漲401點 - Yahoo股市",
+      "title": "核心 CPI 超預期、升息機率一度逼九成！比特幣為何仍守 7.7 萬美元？ - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDRqd0lnNk1ma2N0alZyTXBKdzdocm1ETVVkdndpakdIM2NWdDhTRDZhb3ZiOFpWdzFQbTVKZExycXBHWDZXVWR3NVhkMDliWkktcU8tZW5kdWJ6ZmJFQWNoVk9Sa0N0RzI4cFFIUjNxYmRzQkpNaVRYZk1jTjd5b3dWMERzS2wwdFgtbS0wb2FuZHV2TWk3dU9KUG1SS205eW5pRzlfQURvR0lrWVY4eG51RkdiS3BzaUxZTWJ6VEtyam5OMUhJ?oc=5"
+    },
+    {
+      "title": "摩根士丹利连续三日增持比特币，总持仓量首次突破7800枚 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3SE9oalllY3VFbk5JR2FfZWx4SjY3bmx1QTdadHdEMjh6anRJclBHWnBEcmc4SnhpaVdtTXB0REpiTzQ5bHN2YldKei1XbnRCbnJxejA2akZGanpfY2hWdWRITFdOQQ?oc=5"
+    },
+    {
+      "title": "星期一開盤噴爆？美股全收紅 台指期夜盤暴漲401點 - tw.stock.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNNXVWS1RGRlpiTFJIYjNVR3UxSlhkQUk2eTRvMzZwUUFuSGQ0S0pCeVJ6dG9qLW5wWFI5NUJxZmRqR0dXZW80WGt4WTJteFNGQU0ydmZwUVh3Uk1NWGhoM3R5SnJhZUg3Q2ozdWRsU0ZJeE1qdS0xSmhHY2VBaFV3ai1vOFhvZmx4WjVaY2h0NlBhY0xTR2ZpMllwQ2twaDFrNG16anlVeEk1QVlia1Q3N2dyc2RVRWt4VTBJQVhYN3lFWWVhX1pGd1ZEWE9QdHZaSktkSEFfcVQzY2ZiNGJfb2J5ZXdvY1FRYnAzc05wUGFIeDdLRFdIR2NrNFBiRXdNdWdlWkNwd056N0lUMEhGSVUwUGdIazJOdUZJMGtmSnJoajVVaEVBQm5jci0tQmRuWGR1blJCM21wOU5QZXdYOUJXMGdLQ0k?oc=5"
     },
     {
@@ -137,16 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IT3plcWVxZTdnMFVBb2NWcmYybkd3V09WRFFZNElpV0lKTERfZ3ExT0dvVFp2QTFaUW96NGlSYkJhdlhKRHBxaExwMFU0Qmc?oc=5"
     },
     {
-      "title": "揭密內部人「群組買進」：股市最強黃金訊號 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPUkRnQ2dCUUt3UnpmZGw3VFk0ZlNxWmpxWHBqTzd5ODFBZm0xc1UxT0ItUnlyUF85VThuQmlkcWM1cXUyeFVDVEJLb2JIRjBOd3RSbUstVEVIM09BRWk5WmVlOTBzZ2tRVDRmalY3ajJiT3U2amxOVHVjNmp4ZkM4emVlWU5ldWpVMXVkcDRzNG12ZE04bjJzZGpfZEJqMHFEY0Y3TzdZTVlTZlpGLS1wQXJ2QmpJdjc1NEc3QURNNFZyUWdCb2l0YU5pMzVPaTBIa1FhVXJCNjhPOUl5aExXaFMxdGFOOFQyQjR2d20yS0YyS2ZSVDA5SG5jZWxWVVVLNU5DTk55WFZmbWdMcDRNdmY5YWNaWEJ4YVlvSDQ5YTI1YU5fT1NvYmRR?oc=5"
-    },
-    {
-      "title": "聯準會升息幾乎板上釘釘 美股仍有4大關卡待闖 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Pd0Z3cEJYTGtHWFlta2F3VjVsMmVleU9BaEVQanY5aDJjemdDY05pYVJ4dXZiWURxdzdaOFROdEkxZjFJMjg3dDI4ME9vOUk?oc=5"
-    },
-    {
-      "title": "投資三檔高股息美股 年收股息可望逾1,650美元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQcFJ0RXhrZDE0bmJMd3QwTm5lWkNQUDd3d1YxQnpna0kzQW9YSW40QlFfNDNpTV9RNnEyUlhXMFhxODJFQWNtNVdZRW5rbVRqX0F5NWhZanNUeWp0OEpTVHFXaWE5RjlEc2xzNDU1clBOaDN4UDFmWF95eWcwUnU5Z0J0T3ZqX0pBaEVXNFMyWGs3dC04Rjl1YWl4WlJMakxyWEM2ZTBTYW9fR0QycllqbnVtOVZ3Zm5MRUY2V3ZBbkFXdU1Ca2x3MkJ5SGcwXzhfVkdZSHo0RVJLRmw1QUJrdkhtOTVHQW1lZHZ1Q3N1ZXVoT2N6Y1pLTDdYenItTXhGNnRwdmFSWnFzVHVrTk1TTWdXMU5Cd0JMNnFvNHp4WDFnY0gxV2ZzcE1Ha1Vzb1dMYm4xQWVaOUtRVU0?oc=5"
+      "title": "通膨數據續升強化升息預期 美股仍擺脫連日跌勢全面反彈 - tw.stock.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPT0IzVHFwUnc3UXh6bmpNblZhTkd0SUhqNkVQSU1RaE5tYWtUQ2R1UWxGa1FQVzdQZjhxajhPWkNURkhmcFFlSVlPN1RfM245LXpNR0FqY3JkQjM4V29VOXIxeGNYYnhidEMxRE1BaXkxOTQta01lYU1QUFR3VWstZlFjWGtKcWFtTEJnUFpuZXdRYVZiQ0V0TkU0OUFLTlNQWmNaRHBybGVuekhLbHdrZzFWVGpka1gzZjl0ZmVJTGctWG44YmtsVFJ2NDZUWWNHMlFPSlFadE1WTmVGazFKR2FxQUpfUHhWeE5fTmdXYmlma0g1emFKX3ViSEhqSXpaelBZNzAzb21ELVh6RTFmMVZRai1ZV1UxWWpkRDZuMUJLRGJaRVVDSjc1YVF0SDFDelBZZFRNLS0tWG9TbVRLc2FHSG9aSTJZem5uTjhsOE1lNU1KYjctbGREaG54LXh3OHZLUnRfdnFPNzlGejVhNUxWRGlEaG82ZXlIT0x0dGZlYS1JaHpCZg?oc=5"
     }
   ]
 }
