@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/12 21:53",
+  "updated_tw": "09/13 00:46",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77303.72,
-      "change": 129.9231,
-      "changePercent": 0.1684
+      "price": 77338.35,
+      "change": 164.5531,
+      "changePercent": 0.2132
     },
     "ETH": {
-      "price": 2539.04,
-      "change": 24.3061,
-      "changePercent": 0.9665
+      "price": 2530.96,
+      "change": 16.2261,
+      "changePercent": 0.6452
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "Fed升息機率飆87%！黃金竟逆勢漲 「不跌反彈」2原因曝光 - tw.stock.yahoo.com",
+      "title": "Fed升息機率飆87%！黃金竟逆勢漲 「不跌反彈」2原因曝光 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxORmhXWGczSzRmYlNEUHUzbDdLcHV1TWdfRHJMa2dqaWNVZkU4QVF4aDBlQzdUamRiaGxSdlozd2x4M3Q5bXJnNncycmhxNmxrZy1iTnRGc0d3Q2VoOGx4YTRNUTBLeExMSWkyUl9LZWJHYlNUeW03c2FGRTBuc1czUmZ2cXNtci1nUUtrOTRBQnRDbEdQdk1IX24xUjBTV2x4ZzdGMWRuWjFvY0JvNU05RU9tV3N1bjZvUnFMcEF2eXd1Z2tnaWNTQURiX0hpY1RfOHM5TjJYZGRhVlZIT3pnVEU4R1BLRm9VTzRYczg2LU9VMk4xcVUtZEd1RXdrdlFNbGFmdDlyMnlvRVpEMGxoSjNvQ1lJLU1PcmNYLTJqN2dvZjBSNG5pUEY5dXNYMmcxQU1RdFVHZkJDNloxbldub3ljeE5ITEdkUWZz?oc=5"
-    },
-    {
-      "title": "Fed升息幾乎成定局反而大漲？美股接下來才是真正考驗 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sRTV1b3JfazZPV2pGcEs1eWFMbkYyQ0FDVkU1amwxbFNlWEVCa0NxV1R2NDE3eXVUWkhGdFJJSThwUlJsbU9qVEUzNlBaY3M?oc=5"
     },
     {
       "title": "黃金跌不下去了？聯準會下週升息機率飆87％ 金價最新走勢「找到短期底部」 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IZFFlNHhrVUlycFN1WU8yd3dnVklYSXhOMk9CU3RpS3lwU3UxQ0xtY3JPNTRKVjZtYTd6QlVjaXFMOFZ4eE5JSGVtd1B5T2ctRU1meHVPOWRJSmVQQjQw0gFkQVVfeXFMUHNybWtzMXlHZzJ0b3VaU0ZiNzRvVDE2YTlKQTZ1bFo1RjJTMXJpdF90ZHNYMGJaeW5WeHZxaWFFZFBXaWZpU1dWQ2I0V0xqb215TmtoekNvbW5tSXlKZFRsLTJYVg?oc=5"
     },
     {
-      "title": "核心 CPI 超預期、升息機率一度逼九成！比特幣為何仍守 7.7 萬美元？ - 區塊客",
+      "title": "核心 CPI 超預期、升息機率一度逼九成！比特幣為何仍守 7.7 萬美元？ - blockcast.it",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDRqd0lnNk1ma2N0alZyTXBKdzdocm1ETVVkdndpakdIM2NWdDhTRDZhb3ZiOFpWdzFQbTVKZExycXBHWDZXVWR3NVhkMDliWkktcU8tZW5kdWJ6ZmJFQWNoVk9Sa0N0RzI4cFFIUjNxYmRzQkpNaVRYZk1jTjd5b3dWMERzS2wwdFgtbS0wb2FuZHV2TWk3dU9KUG1SS205eW5pRzlfQURvR0lrWVY4eG51RkdiS3BzaUxZTWJ6VEtyam5OMUhJ?oc=5"
+    },
+    {
+      "title": "Fed升息幾乎成定局反而大漲？美股接下來才是真正考驗 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sRTV1b3JfazZPV2pGcEs1eWFMbkYyQ0FDVkU1amwxbFNlWEVCa0NxV1R2NDE3eXVUWkhGdFJJSThwUlJsbU9qVEUzNlBaY3M?oc=5"
     },
     {
       "title": "摩根士丹利连续三日增持比特币，总持仓量首次突破7800枚 - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3SE9oalllY3VFbk5JR2FfZWx4SjY3bmx1QTdadHdEMjh6anRJclBHWnBEcmc4SnhpaVdtTXB0REpiTzQ5bHN2YldKei1XbnRCbnJxejA2akZGanpfY2hWdWRITFdOQQ?oc=5"
     },
     {
-      "title": "星期一開盤噴爆？美股全收紅 台指期夜盤暴漲401點 - tw.stock.yahoo.com",
+      "title": "美股盤後｜國際油價續揚，靜待CPI公布，四大指數盡墨 0911｜豐雲學堂 2026 年 09 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNMHJfNGg0YzRyY0tCYzl3MThNYnJnR3E4emZoOXBPVC1UeHNyS3VidEFJa2tqa3NXbTd5ZEd5X1RkODIwWWl1bGhqVU84bkFuakRycDBPNkFjSW9MY1lKbWJQTGp2RDNDNXU0amhJd3FicmNKazN6Y1pYcFpSRHJOeURRSFRsc0hPZ01RLUlvSmVNaDlyUWM1R25JNlhmSzVVZFRGZW1DSjhkTHdmWHJWX1V4LWNwU1NzMi1HZ3EyVy0wMXdZRnRMc1ZfVzNpLUx0QzQzZ2xlcnF4VFRWTnZxaWdTQTBrd3NyaDZSbTFNV1VKbW9uZHdha21jcHI3ZG8xanBOeVV3SnJmSEwyOGJsOU5UcG5UNUdtbTVpZ2lpYW5WRV91SkY4UTE3STdLcVpNaUFybndzUGRrc2N2OEhOVjZtZmRwbUNkSFZtVTJGZUdFb1RqMmZBWVFxa2h5bmdKd3BGLXdWTnAzNExHM3JOWVlodjZlVi1rNllBNTNaZngxVmM?oc=5"
+    },
+    {
+      "title": "通膨疑慮升溫 美股跌多漲少 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjejVEdTE0bkpScGdJTDBaRDlRQk15amZpMHlJRGtpa0d2TWFrUGFMMmxLZVEwOUVjOHlkOVRqaHI3bDZFSGlkWXhEdzJZVmdqNnJLUDdLT3JHUdIBX0FVX3lxTE1paldMOWxTQmlVbWk2bzBId1I5R2QtVUxKV0dXYlB6TlhCb0lWdTVleGJXWFpNZnIxZ0lRX3N6bTA2RDlFbEZQRUlqWVB4RlJ4RTY1T0NYX3RzTjVGek9V?oc=5"
+    },
+    {
+      "title": "星期一開盤噴爆？美股全收紅 台指期夜盤暴漲401點 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNNXVWS1RGRlpiTFJIYjNVR3UxSlhkQUk2eTRvMzZwUUFuSGQ0S0pCeVJ6dG9qLW5wWFI5NUJxZmRqR0dXZW80WGt4WTJteFNGQU0ydmZwUVh3Uk1NWGhoM3R5SnJhZUg3Q2ozdWRsU0ZJeE1qdS0xSmhHY2VBaFV3ai1vOFhvZmx4WjVaY2h0NlBhY0xTR2ZpMllwQ2twaDFrNG16anlVeEk1QVlia1Q3N2dyc2RVRWt4VTBJQVhYN3lFWWVhX1pGd1ZEWE9QdHZaSktkSEFfcVQzY2ZiNGJfb2J5ZXdvY1FRYnAzc05wUGFIeDdLRFdIR2NrNFBiRXdNdWdlWkNwd056N0lUMEhGSVUwUGdIazJOdUZJMGtmSnJoajVVaEVBQm5jci0tQmRuWGR1blJCM21wOU5QZXdYOUJXMGdLQ0k?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉CPI揭曉 Fed升息機率逼近九成 油價回落助美股終結連4黑 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IT3plcWVxZTdnMFVBb2NWcmYybkd3V09WRFFZNElpV0lKTERfZ3ExT0dvVFp2QTFaUW96NGlSYkJhdlhKRHBxaExwMFU0Qmc?oc=5"
-    },
-    {
-      "title": "通膨數據續升強化升息預期 美股仍擺脫連日跌勢全面反彈 - tw.stock.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPT0IzVHFwUnc3UXh6bmpNblZhTkd0SUhqNkVQSU1RaE5tYWtUQ2R1UWxGa1FQVzdQZjhxajhPWkNURkhmcFFlSVlPN1RfM245LXpNR0FqY3JkQjM4V29VOXIxeGNYYnhidEMxRE1BaXkxOTQta01lYU1QUFR3VWstZlFjWGtKcWFtTEJnUFpuZXdRYVZiQ0V0TkU0OUFLTlNQWmNaRHBybGVuekhLbHdrZzFWVGpka1gzZjl0ZmVJTGctWG44YmtsVFJ2NDZUWWNHMlFPSlFadE1WTmVGazFKR2FxQUpfUHhWeE5fTmdXYmlma0g1emFKX3ViSEhqSXpaelBZNzAzb21ELVh6RTFmMVZRai1ZV1UxWWpkRDZuMUJLRGJaRVVDSjc1YVF0SDFDelBZZFRNLS0tWG9TbVRLc2FHSG9aSTJZem5uTjhsOE1lNU1KYjctbGREaG54LXh3OHZLUnRfdnFPNzlGejVhNUxWRGlEaG82ZXlIT0x0dGZlYS1JaHpCZg?oc=5"
     }
   ]
 }
