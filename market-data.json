@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/13 23:40",
+  "updated_tw": "09/14 02:20",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77052.65,
-      "change": -217.8188,
-      "changePercent": -0.2819
+      "price": 77321.79,
+      "change": 51.3212,
+      "changePercent": 0.0664
     },
     "ETH": {
-      "price": 2487.14,
-      "change": -38.8046,
-      "changePercent": -1.5362
+      "price": 2505.62,
+      "change": -20.3246,
+      "changePercent": -0.8046
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.627,
-      "change": -0.008,
-      "changePercent": -0.0253
+      "price": 31.628,
+      "change": -0.007,
+      "changePercent": -0.0221
     },
     "JPYTWD": {
       "price": 0.2037,
@@ -99,7 +99,7 @@
       "changePercent": -0.0099
     },
     "CNYTWD": {
-      "price": 4.7218,
+      "price": 4.7219,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -107,8 +107,8 @@
   "gold": {
     "usd": 4408.9,
     "twd": 4483.0,
-    "tael": 168117.0,
-    "twdTotal": 139440.0,
+    "tael": 168122.0,
+    "twdTotal": 139445.0,
     "changePercent": 1.0173
   },
   "fed": {
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqT2JmVUpXSkJqenp0eTNFM2JtVS1TMVpsNS1aOExGRnhYb0JrRmozdEpGYVY4VXQ4MEdnNEFmSk1UbFV1S3hvbW1mZw?oc=5"
     },
     {
-      "title": "「挖金子」比黃金還賺！美國銀行點名：黃金礦業估值來到20年最便宜| 全球財經| 全球 - UDN",
+      "title": "「挖金子」比黃金還賺！美國銀行點名：黃金礦業估值來到20年最便宜| 全球財經| 全球 - udn",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SS2duV0VuUTVwVXhEX2tWbmxRM01kcU51dWhvNTJqb2VKeHV0Q2JWWmU2X0wtMEkzVV9nR2c5V1MxQTV2N0g3VjJEdkJxVEJ0?oc=5"
-    },
-    {
-      "title": "AI 熱潮擠壓股債配置！研究：挪 1% 債券買比特幣，年化回報 6.2% 升至 7.2% - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjltcEs5c0FZNGJ5NTZYQmgwM3UzVFAwRFdPSDhIOW5SWUtoMHRhR1lVODlhVS0waThWakd1aGdkcDNNQk1BTk9SY1lJY25OMUZUemhtdVVtUEwta2t5dEVjQmhJWkgwTnR6a29WRGloY0ZWaUgyV2ptWjR4M2tGNHNQX1QzZ3c3S0FiSVVsTEhBRmREN29qSUo4S0tvVk1RX0ZMZERLM2I3SUowNWY4ZUZtWmNzWWdm?oc=5"
     },
     {
       "title": "本週操盤筆記：超級央行週來了！Fed、日銀升息箭在弦上 美股、美債繃緊神經 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VaHR3Tzhyd2hPNjE0MmJHUF9kc0tHVzFGZnlxV0Iwd3djbnJZY1BtUUY0MzJPRGdocENzQUh1M3JPbkRvcnBFZTJWUE9Yalk?oc=5"
     },
     {
-      "title": "CryptoQuant：比特币需突破 81700 美元才能确认新一轮牛市 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzUUlSWnZ2SzRVUWZoTmJydEVmbHFwM3hyNGpYY3BFai1ub2YtMlRiLTVRMGtyY21LN1dRV1NHR3FtM3BBOUc1dGdoQWpZd0dHTmtfOW8tcW9QU2FST0VZcndJRWhTUQ?oc=5"
+      "title": "AI 熱潮擠壓股債配置！研究：挪 1% 債券買比特幣，年化回報 6.2% 升至 7.2% - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjltcEs5c0FZNGJ5NTZYQmgwM3UzVFAwRFdPSDhIOW5SWUtoMHRhR1lVODlhVS0waThWakd1aGdkcDNNQk1BTk9SY1lJY25OMUZUemhtdVVtUEwta2t5dEVjQmhJWkgwTnR6a29WRGloY0ZWaUgyV2ptWjR4M2tGNHNQX1QzZ3c3S0FiSVVsTEhBRmREN29qSUo4S0tvVk1RX0ZMZERLM2I3SUowNWY4ZUZtWmNzWWdm?oc=5"
     },
     {
-      "title": "【台股明天恐血洗？阮慕驊揭Fed升息2劇本：1類股首當其衝】 母湯啊，有沒有人滿手都是 ...（#豬頭皮） - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxNdXhQdGM0Nkt2Vm4wQXhpSnozZ1dYSlU4R2VKNDdSTzZYdGRQVHo3Y01MRThrejhOUUNnZlFvRU5saGxBemdnbU43ZnFxOWF4TlNtNEp6RmRqN3pvTXl1UEJhRndkNUZ1UHRncThNWXVYZ3p2aUxRZW1Udk54UHY0Q19PNVdPTWVhbnc2YmlrdHY0WHNzSFFyU2x5NkNhRUtXa290M2lMM3BYTFVSQW1qU2w0RUtqdVRyaDVjMGR5ZW01aGJLVFp3Z1ZqcGNDcElKM0JzYjlfLTdvWU9xTThfWldVd1lpR1VXY1NrcmxXQ2JlbWI0Y3g1MEticUcyOFdxYVgtMXVIcTNqMjBPZ0RjbVhRLWlVMm5TdWV2bWNEd2piYmdFbjhlR3hMeUdLZjdKVlRIRWhTb2o5N3NUSGF0WWhTQjNOYVZzakNHZUhsM0xXZzR3dkYxXy13YUZMQ3gzZV9hVnRMcDBuaXpkUFpKT3NVLUV2YXZycEdRd1RYMDQyeURma2xZT0ZkMWFpdmk4d3JENTNlRFhBRURhRzV0YUVzaGFacm1sRGxxTGd4NUJndEdERmZwZmFxS3daUTVrZkhPS2tPdy0zeThabmp5YkdQdEw5bVRHU1hDdEJxZURCOURPeUlsYWxGX3phSjYzZ0IwQjNfc29RYXZfaDh2ZTg1N19saGtrRllXcUd6VVBXUm9u?oc=5"
+      "title": "黃金期 保守看待 - udn",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GbVc1YlJrOWJuZVVkWWZPcXduak5yaFR6bUFkMG45OFNXYU85eFYtcFJQX3NzVUdnWW9BNnNKcVhyTVZWcFBneWFmNWh5a2FK0gFWQVVfeXFMT0FPcTZhNEJXXzlIMHd5UUZBYUpaWUxCT0tUQk9NQldlenJzN19qN25nMk5BVVVsN2dacExpQzloaG9QbXFzWTc2emJhelF1YmNEZWVrTnc?oc=5"
     },
     {
-      "title": "強到目標價被上修！台股跳水46000點「這1類股」逆勢翻紅本土大咖投顧點名它：股價淨值比已達2.2倍 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxPbjVmTS1RcWwzUkxHOG52S2h2d25DcEZIYXdiZVg5SkNpVFZOZTluV1RvdVAwOF8weXQ0UC1ZZVF1TzlEVjVWWEhwb1FrUDFwT3NKRXBFa3dja1dtdUVWdXVJeHRxdDhEbFUtSmJaN1B3OExGd2h3NHROckhtUDhzc0V6cU1sS0F1VGRPdkYtTUoxRHppNGU5ZV84a3UwbTRJTGFJckU0Zm02ZE5sUVdmWWNCWk92NGhFWDhCQlpMNWFPcFAtM05OazRiNWxQSFlsT0cxMmJkSHpqYUhjUldmNk54MjBOb19VdEIxNXMxTEpWcWhrYnlWR0pNVjFFVDctcmhXWVZmU1NHQXFwT0dTa1g4a0NYTXNSTklESkN4cDJZU1dQVnhWUkVqa2l4aE91cFp0RG4xdWxMemdvdHdBNHpmWGdsd0lRS1VpYXpHWGxhZVNzek1SenJUQVdIcjBHUnJFRGxkN2lzRG1nZ0VLR1N3b1hWdTJJc0NFZTVNRW1pOHJGTnV1d0dkT3I0NWx6TlA1LWF4MWlCOV9oTFpGTDZ5UGI1b1Y5dGlWMXBCWjFZbzJUekFhVXhjQ0l5dEtOMk94dA?oc=5"
+      "title": "精選8月營收強者 台股21檔強者曝 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQWJiRmNQUFRoQk9LaHpKdzZSOEJsWHN1enBpUjFSdEFteHdkYU9FR0I4MXVFZmRnWTlXMUQ1dnh5QkZWUF9EV1pVWEQ4Vnd3bnNkTnZFT05FMmJaZnI2ejM4dXdqZjB2Z1gwUGZSZUJYaVYzNVNHdmMxbUtkVTYwcVgzaWY0VXRRNzNyM3VRM3V1dXFoa3VmWlFJUlFHaC1WaWNFeThQSHJxakpsQ3ZwWjhRNGUzVWp0ejZPZVkwNnZ2OFdWMHI2S19Db0tlT0lLUkxNZ3plSEVkd21QMWdkU3pRa2ZQa1RCTlJPUWZqTFRoZEJJ?oc=5"
+    },
+    {
+      "title": "比特幣卡在 7.7 萬美元！CryptoQuant：有效站上 8.17 萬才算牛市重啟 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVGg5NDhpRm1fcDRGN3ByY0pVTHVQcWxybEVMTFFzRDk4Y3pPV3p4elh3a0dJVXFlYjh1LTNtUE1la3dRbXJNdi1QeUR4YmdmODVWSGgwdzdBdnhvc1VOMmZST1hxMENsbkJ1SElXUlAwZVZRdVdIb2VSc3lMbGlQNm15QWxTeHl2S1VpT1JSRVhJZVNVQkR1NFJRMFNIR0Ytb1ppb2xLd3JBZ2d1WlYxZ09zRQ?oc=5"
     }
   ]
 }
