@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/13 07:09",
+  "updated_tw": "09/13 09:00",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77254.15,
-      "change": 80.3531,
-      "changePercent": 0.1041
+      "price": 77252.97,
+      "change": 79.1731,
+      "changePercent": 0.1026
     },
     "ETH": {
-      "price": 2523.88,
-      "change": 9.1461,
-      "changePercent": 0.3637
+      "price": 2524.54,
+      "change": 9.8061,
+      "changePercent": 0.3899
     }
   },
   "fx": {
@@ -117,28 +117,24 @@
   },
   "news": [
     {
-      "title": "明天開盤穩了？美股全收紅 台指期夜盤暴漲401點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNNXVWS1RGRlpiTFJIYjNVR3UxSlhkQUk2eTRvMzZwUUFuSGQ0S0pCeVJ6dG9qLW5wWFI5NUJxZmRqR0dXZW80WGt4WTJteFNGQU0ydmZwUVh3Uk1NWGhoM3R5SnJhZUg3Q2ozdWRsU0ZJeE1qdS0xSmhHY2VBaFV3ai1vOFhvZmx4WjVaY2h0NlBhY0xTR2ZpMllwQ2twaDFrNG16anlVeEk1QVlia1Q3N2dyc2RVRWt4VTBJQVhYN3lFWWVhX1pGd1ZEWE9QdHZaSktkSEFfcVQzY2ZiNGJfb2J5ZXdvY1FRYnAzc05wUGFIeDdLRFdIR2NrNFBiRXdNdWdlWkNwd056N0lUMEhGSVUwUGdIazJOdUZJMGtmSnJoajVVaEVBQm5jci0tQmRuWGR1blJCM21wOU5QZXdYOUJXMGdLQ0k?oc=5"
-    },
-    {
       "title": "Strategy發布《比特幣投資者指南》：比特幣正成為數字資本市場基石 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BeVRzWVRUeVltd05HRGJfOHVpYk9icm9UWjdrU2N0SmVYSDU4SHloMHc2bnFvUXpreWZYUGdUVzBtS1BsWlBRdmVqNA?oc=5"
     },
     {
-      "title": "美股AI行情面臨關鍵考驗！市場不怕利率上揚就怕一直上揚| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tdzMwMkNDNzN0U2E4aElBQ3k0LVZMQ01OalgyQUptZ1hmZnVKVGViRmQ5Q1M3dmRIVlEtRFF1ekRuS2x6bS1kSXZrcnRteW9i?oc=5"
+      "title": "明天開盤穩了？美股全收紅 台指期夜盤暴漲401點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQd0pZR2NYUGFEY1UyVVlKYURNVzdaYTJCSFpsaXJodDRsVUxkOG04dlBNOXFVeGRtNWF6b2FlcFEzWHFZU2xvZmZ2YVFTc3lOMDl6R2EyT1lnS2FyWDBoVmVMU1pCR3pxU3VaaHpVcE9oSHFRclpKNW1VcXpxWi1TQXNmcHpTVXVYczBkMTRDclRVNHBDRzFudzBndm1ldjU1STV6ODIzX01WWEpSNjBFSl9oc3M0azlqQmFwN0Y0aUU0c3ZneTdEVzA3RDlIR2hHc25UeW1ZNUZiUGswZ1hrcGlxendtaXJmQk0wN0dWN2N0UWlJVTJPcEVWUVhNaGltQ21nWU9XTWhzRzU2am5QWFVMWjJ1UVlBdHJOSFdfUDROQldpWjZ6U1gyZDJYdGNiLVNHdzVNd3RFT3ZSTzA5VkNTU2wzZw?oc=5"
+    },
+    {
+      "title": "進軍美股從日常生活體會| 雜誌 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BMlY3bDkxLWhFRF9xcWthOFhMSnhLLVhzalhuZTFZRUQ0SUZpclUxT2VaU1RDemFvdGtURFl4ejhMVktpUDlFOXo2SUJ3bEpO?oc=5"
+    },
+    {
+      "title": "台股4萬6000點保衛戰？外資空單未再創高 多頭仍有機會 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qNENEeEZOd2pVR04zek9iOHRjUWNWZ21paFFFRmp1WWI2WXQyNzBhSW8zd1FOdHVJQVp3aENpYS1MUnZLYWRKeXZ6UmQ4UDhlaE1UckhTY2NKOWRSVllz0gFkQVVfeXFMUFFPdE1zWmNMMmJGam51MXRFNTZ2RERZbHUtNTB5X210cFRBeGN0cUFvNU5aZmZhdzhveTRDcU55aVJvQW41S21fd2dZS2tmaVR6RWJiX2FYazNZTzdfS1UtaS1peQ?oc=5"
     },
     {
       "title": "核心 CPI 超預期、升息機率一度逼九成！比特幣為何仍守 7.7 萬美元？ - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDRqd0lnNk1ma2N0alZyTXBKdzdocm1ETVVkdndpakdIM2NWdDhTRDZhb3ZiOFpWdzFQbTVKZExycXBHWDZXVWR3NVhkMDliWkktcU8tZW5kdWJ6ZmJFQWNoVk9Sa0N0RzI4cFFIUjNxYmRzQkpNaVRYZk1jTjd5b3dWMERzS2wwdFgtbS0wb2FuZHV2TWk3dU9KUG1SS205eW5pRzlfQURvR0lrWVY4eG51RkdiS3BzaUxZTWJ6VEtyam5OMUhJ?oc=5"
-    },
-    {
-      "title": "美股盤後｜國際油價續揚，靜待CPI公布，四大指數盡墨 0911｜豐雲學堂 2026 年 09 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNMHJfNGg0YzRyY0tCYzl3MThNYnJnR3E4emZoOXBPVC1UeHNyS3VidEFJa2tqa3NXbTd5ZEd5X1RkODIwWWl1bGhqVU84bkFuakRycDBPNkFjSW9MY1lKbWJQTGp2RDNDNXU0amhJd3FicmNKazN6Y1pYcFpSRHJOeURRSFRsc0hPZ01RLUlvSmVNaDlyUWM1R25JNlhmSzVVZFRGZW1DSjhkTHdmWHJWX1V4LWNwU1NzMi1HZ3EyVy0wMXdZRnRMc1ZfVzNpLUx0QzQzZ2xlcnF4VFRWTnZxaWdTQTBrd3NyaDZSbTFNV1VKbW9uZHdha21jcHI3ZG8xanBOeVV3SnJmSEwyOGJsOU5UcG5UNUdtbTVpZ2lpYW5WRV91SkY4UTE3STdLcVpNaUFybndzUGRrc2N2OEhOVjZtZmRwbUNkSFZtVTJGZUdFb1RqMmZBWVFxa2h5bmdKd3BGLXdWTnAzNExHM3JOWVlodjZlVi1rNllBNTNaZngxVmM?oc=5"
-    },
-    {
-      "title": "黃金跌不下去了？聯準會下週升息機率飆87％ 金價最新走勢「找到短期底部」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IZFFlNHhrVUlycFN1WU8yd3dnVklYSXhOMk9CU3RpS3lwU3UxQ0xtY3JPNTRKVjZtYTd6QlVjaXFMOFZ4eE5JSGVtd1B5T2ctRU1meHVPOWRJSmVQQjQw0gFkQVVfeXFMUHNybWtzMXlHZzJ0b3VaU0ZiNzRvVDE2YTlKQTZ1bFo1RjJTMXJpdF90ZHNYMGJaeW5WeHZxaWFFZFBXaWZpU1dWQ2I0V0xqb215TmtoekNvbW5tSXlKZFRsLTJYVg?oc=5"
     },
     {
       "title": "TWA00 加權指數- 台股震盪！半導體指標股獲內外資重金加碼- 股市爆料同學會 - CMoney",
@@ -147,6 +143,10 @@
     {
       "title": "Fed升息機率飆87%！黃金竟逆勢漲 「不跌反彈」2原因曝光 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxORmhXWGczSzRmYlNEUHUzbDdLcHV1TWdfRHJMa2dqaWNVZkU4QVF4aDBlQzdUamRiaGxSdlozd2x4M3Q5bXJnNncycmhxNmxrZy1iTnRGc0d3Q2VoOGx4YTRNUTBLeExMSWkyUl9LZWJHYlNUeW03c2FGRTBuc1czUmZ2cXNtci1nUUtrOTRBQnRDbEdQdk1IX24xUjBTV2x4ZzdGMWRuWjFvY0JvNU05RU9tV3N1bjZvUnFMcEF2eXd1Z2tnaWNTQURiX0hpY1RfOHM5TjJYZGRhVlZIT3pnVEU4R1BLRm9VTzRYczg2LU9VMk4xcVUtZEd1RXdrdlFNbGFmdDlyMnlvRVpEMGxoSjNvQ1lJLU1PcmNYLTJqN2dvZjBSNG5pUEY5dXNYMmcxQU1RdFVHZkJDNloxbldub3ljeE5ITEdkUWZz?oc=5"
+    },
+    {
+      "title": "美股AI行情面臨關鍵考驗！市場不怕利率上揚就怕一直上揚| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tdzMwMkNDNzN0U2E4aElBQ3k0LVZMQ01OalgyQUptZ1hmZnVKVGViRmQ5Q1M3dmRIVlEtRFF1ekRuS2x6bS1kSXZrcnRteW9i?oc=5"
     }
   ]
 }
