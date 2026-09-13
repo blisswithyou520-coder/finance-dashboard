@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/14 05:00",
+  "updated_tw": "09/14 07:10",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77299.34,
-      "change": 28.8712,
-      "changePercent": 0.0374
+      "price": 76681.07,
+      "change": -589.3987,
+      "changePercent": -0.7628
     },
     "ETH": {
-      "price": 2511.61,
-      "change": -14.3346,
-      "changePercent": -0.5675
+      "price": 2476.4,
+      "change": -49.5446,
+      "changePercent": -1.9614
     }
   },
   "fx": {
@@ -105,48 +105,15 @@
     }
   },
   "gold": {
-    "usd": 4408.9,
-    "twd": 4481.0,
-    "tael": 168047.0,
-    "twdTotal": 139383.0,
-    "changePercent": 1.0173
+    "usd": 4380.8,
+    "twd": 4453.0,
+    "tael": 166976.0,
+    "twdTotal": 138495.0,
+    "changePercent": 0.3344
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": [
-    {
-      "title": "美股動盪一週：油價逆轉牽動市場心弦 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVDQwdUZZT2hwMm83d3dDQk95OERxZFBGc1I2MVNtZlpJeFQ2WktJWUgzbGZWZUR1Um5QYjlRNEdYbjFSVEppbjRuTEFyNl9NMjd5UEpWdmtYWk9naEl4R2hYYUw1NEJoU0FmVU55OFhpOUJBb19SeGl0aEVjODlyN09UR0dEY3U0RE9TV1dLeDEzVmpJRTd1MnBqV1RtNU0zOXhPbWdkWGozZXJHWVJzdm5FWDU2czNDY01qeW9qczRIZXBqVkh2WHREaEtXWkZXeVUyeEswcGUzVm5BdS1TRGZEXzlFTlRWeTdDY2ExOVNkS0ZPM01vTzZaSGhkQUFpZFl3di0tUWFaRWJOTkZwSVlB?oc=5"
-    },
-    {
-      "title": "週一台美股開盤完了？三巨頭喊放慢AI發展 阮慕驊這樣看 - 三立新聞",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqT2JmVUpXSkJqenp0eTNFM2JtVS1TMVpsNS1aOExGRnhYb0JrRmozdEpGYVY4VXQ4MEdnNEFmSk1UbFV1S3hvbW1mZw?oc=5"
-    },
-    {
-      "title": "美日利率會議本周登場 台股三情境 五劇本應對 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wTjYxelotV3JOMEtyc1BQbTNUY28waVJLVzB4QVVVLVpkdWJEZzMwYXdib3FKcTBSWUFDOUNpMnA4cnBpaGdYVkMxRlh5RHUyUWR5WWJ6RmtwQdIBX0FVX3lxTE5Sdld6Ty1PV090d241RlN6QklqRnVUbTU1NGVWS0k1elN0Q28tNnY0RTRrM3c3Vmc1dTdGR2Z1Q1AxM0VJR1FhZG9oR3ZKZ3pYYjU1Y2YzR3VxZmllS1lB?oc=5"
-    },
-    {
-      "title": "DWS 投資黃金貴金屬股票 USD LC - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFNSVZTQ2kybUxab2JiUmFnSFpVQWFzQzJBLVZqS0xQT2hZYjRaek1WR3BET3BWRkZNVGJzdXlsTlZZSWg1RWtGY054cGF2bVFySFJkUXVLcWVmamhra1lMaTRDd09OX0Vtc0NfQnFyU19wdUhRUFFNM1dpbmRPeWhWcHZHaXdVQXRwT3NUb0ZjanNUTXV4eWR3RlQwTWRERVFRLWx6U2VSbnFOOE5rcHJ0RU9raXkzdWNMUmZoa2JpOS1UQkxTTm5pWHBUSDc5T2U5SHJYU05uUTJmV1JybENpVQ?oc=5"
-    },
-    {
-      "title": "永豐金證券美股交易再升級：雙幣交割自由選、美股即時報價免申請，兩大升級一次看懂｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMitARBVV95cUxNTThBUHBEc0lCa2ViQ3NpWlVnVzd4Q1g0SkdjRWZVamRRQl9pUGpDbXNpVU9RMlo4WW9KVVpJTHFWTlNpX0ZScjRUMFFFcncwUU00OXFxelhJVXdDblZ2bVFMZWYza3dNTkdXaTVFc2ktVUp4c1JZV0tGalRYSU1hTi02cUQwaUlJWlV6NXp2UWkwUFB2TWdzcV9oTzVOaDhLV254bFpHb1J2OFdlWE5YTEFjR0NiQkR4ZmJNSXpHVUVwbnZNNEphX08wclZ6ME1aaUNnSTJudWRPaHdvZEJQRzlGN2xhMktZdWh0YUFmcGxiWEREMHlZWkxUUFJXWFRnMWFWZXBuYk5lbVdBODRIblR6eEMtSEFNODI5UVZZeEdWOXhUSWZJbEV1aUxiUjJmSUlBQUpWRU1tT0RvX1JqRTN1RDhTSG5HNkpJVmFFWVp5SjJNM0hLTTRlb1VOLUlabFkwOE1Rb2FmeW9VSUt1X2NZaWVCRmduZFlEcDNiMzh5cnA0Q0RZLVN1MVNUWk52ZlNIRVFDSlN3VkdUbklxQTAzNEFIWG1MSm91bzlsVmY3NUNiYUtJTGctM3d1S1VoMEZfOGU4WldJVU9VZnIyTFN0ejZxLWpVZ1MtZHdqLVBCeER0aDN0aHM5SGVaUXV1WGhrOE9TREwzaWRVRm4wYmRPX2pPRC05UHFrSUJ6OXZaaE0ycjhVTGRodEJsNTRpaldUd3RjYXhQcWZ6R1ZDQWM3QTM?oc=5"
-    },
-    {
-      "title": "AI 熱潮擠壓股債配置！研究：挪 1% 債券買比特幣，年化回報 6.2% 升至 7.2% - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjltcEs5c0FZNGJ5NTZYQmgwM3UzVFAwRFdPSDhIOW5SWUtoMHRhR1lVODlhVS0waThWakd1aGdkcDNNQk1BTk9SY1lJY25OMUZUemhtdVVtUEwta2t5dEVjQmhJWkgwTnR6a29WRGloY0ZWaUgyV2ptWjR4M2tGNHNQX1QzZ3c3S0FiSVVsTEhBRmREN29qSUo4S0tvVk1RX0ZMZERLM2I3SUowNWY4ZUZtWmNzWWdm?oc=5"
-    },
-    {
-      "title": "明天開盤穩了？美股全收紅 台指期夜盤暴漲401點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQd0pZR2NYUGFEY1UyVVlKYURNVzdaYTJCSFpsaXJodDRsVUxkOG04dlBNOXFVeGRtNWF6b2FlcFEzWHFZU2xvZmZ2YVFTc3lOMDl6R2EyT1lnS2FyWDBoVmVMU1pCR3pxU3VaaHpVcE9oSHFRclpKNW1VcXpxWi1TQXNmcHpTVXVYczBkMTRDclRVNHBDRzFudzBndm1ldjU1STV6ODIzX01WWEpSNjBFSl9oc3M0azlqQmFwN0Y0aUU0c3ZneTdEVzA3RDlIR2hHc25UeW1ZNUZiUGswZ1hrcGlxendtaXJmQk0wN0dWN2N0UWlJVTJPcEVWUVhNaGltQ21nWU9XTWhzRzU2am5QWFVMWjJ1UVlBdHJOSFdfUDROQldpWjZ6U1gyZDJYdGNiLVNHdzVNd3RFT3ZSTzA5VkNTU2wzZw?oc=5"
-    },
-    {
-      "title": "黃金期 保守看待 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GbVc1YlJrOWJuZVVkWWZPcXduak5yaFR6bUFkMG45OFNXYU85eFYtcFJQX3NzVUdnWW9BNnNKcVhyTVZWcFBneWFmNWh5a2FK0gFWQVVfeXFMT0FPcTZhNEJXXzlIMHd5UUZBYUpaWUxCT0tUQk9NQldlenJzN19qN25nMk5BVVVsN2dacExpQzloaG9QbXFzWTc2emJhelF1YmNEZWVrTnc?oc=5"
-    }
-  ]
+  "news": []
 }
