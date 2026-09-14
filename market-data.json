@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/15 02:38",
+  "updated_tw": "09/15 06:03",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 212.38,
-      "change": -5.91,
-      "changePercent": -2.7074
+      "price": 210.96,
+      "change": -7.33,
+      "changePercent": -3.3579
     },
     "AAPL": {
-      "price": 334.36,
-      "change": 2.09,
-      "changePercent": 0.629
+      "price": 333.08,
+      "change": 0.81,
+      "changePercent": 0.2438
     },
     "TSLA": {
-      "price": 360.9,
-      "change": -4.54,
-      "changePercent": -1.2423
+      "price": 358.97,
+      "change": -6.47,
+      "changePercent": -1.7705
     },
     "QQQ": {
-      "price": 712.31,
-      "change": -2.57,
-      "changePercent": -0.3595
+      "price": 709.18,
+      "change": -5.7,
+      "changePercent": -0.7973
     },
     "SPY": {
-      "price": 762.395,
-      "change": -1.895,
-      "changePercent": -0.2479
+      "price": 760.88,
+      "change": -3.41,
+      "changePercent": -0.4462
     },
     "SCHD": {
-      "price": 34.365,
-      "change": 0.245,
-      "changePercent": 0.7181
+      "price": 34.34,
+      "change": 0.22,
+      "changePercent": 0.6448
     },
     "VOO": {
-      "price": 700.85,
-      "change": -1.71,
-      "changePercent": -0.2434
+      "price": 699.3,
+      "change": -3.26,
+      "changePercent": -0.464
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79105.73,
-      "change": 2267.5737,
-      "changePercent": 2.9511
+      "price": 78711.02,
+      "change": 1872.8638,
+      "changePercent": 2.4374
     },
     "ETH": {
-      "price": 2540.22,
-      "change": 63.1992,
-      "changePercent": 2.5514
+      "price": 2543.58,
+      "change": 66.5592,
+      "changePercent": 2.6871
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.725,
-      "change": 0.09,
-      "changePercent": 0.2845
+      "price": 31.681,
+      "change": 0.0048,
+      "changePercent": 0.0152
     },
     "JPYTWD": {
-      "price": 0.2036,
-      "change": -0.0012,
-      "changePercent": -0.5777
+      "price": 0.2031,
+      "change": -0.0031,
+      "changePercent": -1.4943
     },
     "EURTWD": {
-      "price": 36.724,
-      "change": -0.0096,
-      "changePercent": -0.0262
+      "price": 36.637,
+      "change": -0.0805,
+      "changePercent": -0.2193
     },
     "CNYTWD": {
-      "price": 4.7356,
+      "price": 4.7272,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4347.2,
-    "twd": 4434.0,
-    "tael": 166278.0,
-    "twdTotal": 137915.0,
-    "changePercent": -1.3994
+    "usd": 4340.0,
+    "twd": 4421.0,
+    "tael": 165772.0,
+    "twdTotal": 137496.0,
+    "changePercent": -1.5627
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,7 +121,7 @@
       "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNOXNSZ1V4M2RYODduYmNYRWlxNkkyS2RtY2VxTlRzUHZlejR1cExMdEszVWMtTHVZX0E1c285LVdVVlY4Rm5DclV6dFA2UUpadWxzcnJZZ1hudkkzbkVOZEtJTEhLSm83V095aEFpM1U4bnlTbmJENGpWcnV1R3NfZ2VrNk9EaC05alEyTVJySXd2RTZBVUdheERxdVZIV3FVZDd3UF9YV05uZkdMQmVUU1hiTDlpdHRDWGNVa2RaRk92TUJ2T0lwU2gwLUFmV1ktNE9LNGRoMmZnc0hPYnZBRnB2MFBsRGtpZ04wNEhSM2dPZHNsTjdEbWlJWDJFWm9HcWgyWC03dDhUZ1VpWGltQ2gxYzRZb3hJdFVVMWp2YXV6Wk15UjJCMGJIWVZaT1dPbjRMTUNLWTVkZl9DTnk3dHJLX21nMlZJSXpFR00yU2FPN255SVJaWVgybXZETUNuYm5BWjU5UDU4UGlLeVhhRU82b0JNc0o3LVdOcXJESWczVjJmTVVMbVlIanVid2VSS3hHVEFmVFc0VVpPWlNreEJmcVVCdUdwTmtiTDZLZnk3Yk9KTHFueWZpZXlUdVI0OG9BR1VwUWJMdlNUZ0NOdW1pZ2wtVTlING92RTRB?oc=5"
     },
     {
-      "title": "美股早盤／AI發展減速憂慮費半瀉5% 台積ADR摔光通訊股受創| 全球財經| 全球 - UDN",
+      "title": "美股早盤／AI發展減速憂慮…費半瀉5%、台積ADR摔光通訊股受創| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83ZFN2azBqNS1TemctTzdUQkdwc0lPdW1uX0tQVUFVbkVVNDJwVGJINlUxNXhUSFZfLTUzYVhhbEZucnJiVUp3UF9TUmRwaHhZ?oc=5"
     },
     {
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxRVpmbWdaanV3bHpBWDUzWFJkazhlSVlCS21JUnVOSDBXT3JSeVI0YnlwZi0zZXFJWWRPZGpLZU1mcjNYVWk5djVHV2ZyTzlLN1HSAVBBVV95cUxNOEtJVG52Wk84RmV1cS1fOHdaOUpFWVh6RU5KU0s2d3dfVUFqcUZqeGhMTTF5WmdJWE1nWHE2QW00d0ludWxKTFdPQ1IwMVBFaw?oc=5"
     },
     {
-      "title": "AI巨頭籲放緩技術發展科技股挫 美股開盤那指跌逾1% - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBeXh0ajRGcWtWcmVBM3NVdUxrUGZyTGRrSlBvS0VDRVo5ZkZ0QlFsa1U2VGw1aWM4OTQxb0hpWEswTjZHcVc5YnFrSHUzclkyVUVNSmtMOVFyN1FOc0E?oc=5"
-    },
-    {
-      "title": "比特幣選擇權一年來首度轉多！年底 8 萬、 10 萬美元押注堆至 12.4 億美元 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnFVaHdsYWxwZjkwOHdPNTJ6cVY1VmNTc193YzhyVmhHandJMUtvdG5PYklpVUF5NXhYZHpxajluVEdHUEZCQ3pDdEp6ZHZnQ1llUFBvVmxlekpObUJzcmJmVDBFQ3JuWWdrcWtHeHNhU3Q4el9XU21QYS1KX1JFNmJ1S1NabUdhSmpBc0N6dDNQakRu?oc=5"
-    },
-    {
       "title": "AI發展放緩鬼故事 美股早盤費半重挫 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZXpWeWNVbHdoaVZxRHFnTWlsTkNSN1gxbEdBNzN6SU9PbXdlYVZfQ1NNVGk0MmRSQmFvdTc0N1g0dE84WERJaGQzNkx6UDc3UWJRQ2JWdGJMbnhzaURRNk1pN05HYlpOcXZQbFduV0piV1JCazByTkYxTWYxd0JNZTVGLVlMRlRUSDlhRGVwMUlHeEo3Vm44SzlNN2w0M1FiYjJPRDBIU3JPZW9SclllWG13VUlvVlRZNHJIaVhGN0wzN1BCMkE3SGZsWElVNG1EMUZkVDFIUE01ODJNTVBodHlfWlJNMUdZSko1a2J5OVNXTVFmOXh1VmJHUFRGcDBQeVdLQzdycHd2bmM?oc=5"
     },
     {
       "title": "AI疑慮引發市場冷卻 花旗將美股評級調降至「中立」 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90NjlpbHFJc2I5UjdEZ2xTaW5NV0ZpcTZ6Y1VJcmxUZTFjZFF3dDc5b3phVVFEdnpyM0VlelB1b1U1b0tMc2lBQzBQUER4aHc?oc=5"
+    },
+    {
+      "title": "基於三大理由 法人：台股再大跌空間有限 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53Tmo4T0ExVENubjZjWFQ3VE1uYW5xSnNLdUZYSDVEdVcyNVUtZW5udUdVLVZpY1Ryc0Y3Q0hiVlNaQWtqc2lNRkNkajUxSlZs0gFWQVVfeXFMUDczQVA2ckU3WGc0NHgtTzMyMG5PZkdZSWFTQ25MX09sblUxWE1XclA0d3N5d1NSRG5mQVpleXp5U2d0X3JYdlhBN1FDLTUtUG9FZUNfUEE?oc=5"
+    },
+    {
+      "title": "快訊／Fed利率決議將登場 美股開盤4大指數齊跌、台指期夜盤挫373點 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNV1BuTThaN2FKV2FtLVFfek5OZVlIVXJCQmFTUnVwdDl6X3QzaEN1Qm9jejAtTHZ6SjZoeU5HMVpQS2VrcWxuem5wYlRlRUFvN2wzQXhEa2NKaUdhSHBnRThjVGpsVGpqaHBYWWJzOWI2VHpxNW5MV1IzUVZ4VHR2OXZCTGpXWU1Nb0cxdl8tNXJWQlV1TmNXRFR1Z2dXc3I0NVE5QjNyZHhXampaRC0zVVVDX2M5d3EtWWZ1SFFaaUlKazNoWnNLemtJRUxwaUNDNGJWV2NIaXlxWGt0TW8yejRjU0tLQUtGZXZPZ05TdVRFMEI3ekw5OUR0RjFvaUNfMk1JU1UtVWRYSlRONUY0SUlrU1FkUGFEdzRNejNlX3ZrUVhmQWI3M3I4a2I5TFNiVDAxUG1pUDNzdkwwREk3dER2SlhQVGlWTVUxb2NKTXItbTExRFFqbzdOTDRBQVNKbnlmd2dfZEtZX0hBdklJSGg0MS0yNkdIQ3dfZ3ZYUUE0bU1MQ2hISjlCSWU?oc=5"
     }
   ]
 }
