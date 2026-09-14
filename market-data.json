@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/14 21:10",
+  "updated_tw": "09/15 02:38",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -19,97 +19,97 @@
     },
     "0050": {
       "price": 106.9,
-      "change": -0.8,
-      "changePercent": -0.7428
+      "change": -2.25,
+      "changePercent": -2.0614
     },
     "00878": {
       "price": 34.23,
-      "change": 0.23,
-      "changePercent": 0.6765
+      "change": 0.08,
+      "changePercent": 0.2343
     },
     "00919": {
       "price": 32.89,
-      "change": 0.41,
-      "changePercent": 1.2623
+      "change": 0.34,
+      "changePercent": 1.0445
     }
   },
   "us": {
     "NVDA": {
-      "price": 218.29,
-      "change": -0.07,
-      "changePercent": -0.0321
+      "price": 212.38,
+      "change": -5.91,
+      "changePercent": -2.7074
     },
     "AAPL": {
-      "price": 332.27,
-      "change": 5.7,
-      "changePercent": 1.7454
+      "price": 334.36,
+      "change": 2.09,
+      "changePercent": 0.629
     },
     "TSLA": {
-      "price": 365.44,
-      "change": 1.88,
-      "changePercent": 0.5171
+      "price": 360.9,
+      "change": -4.54,
+      "changePercent": -1.2423
     },
     "QQQ": {
-      "price": 714.88,
-      "change": 6.19,
-      "changePercent": 0.8734
+      "price": 712.31,
+      "change": -2.57,
+      "changePercent": -0.3595
     },
     "SPY": {
-      "price": 764.29,
-      "change": 6.46,
-      "changePercent": 0.8524
+      "price": 762.395,
+      "change": -1.895,
+      "changePercent": -0.2479
     },
     "SCHD": {
-      "price": 34.12,
-      "change": 0.13,
-      "changePercent": 0.3825
+      "price": 34.365,
+      "change": 0.245,
+      "changePercent": 0.7181
     },
     "VOO": {
-      "price": 702.56,
-      "change": 5.91,
-      "changePercent": 0.8483
+      "price": 700.85,
+      "change": -1.71,
+      "changePercent": -0.2434
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77616.82,
-      "change": 778.6638,
-      "changePercent": 1.0134
+      "price": 79105.73,
+      "change": 2267.5737,
+      "changePercent": 2.9511
     },
     "ETH": {
-      "price": 2494.5,
-      "change": 17.4792,
-      "changePercent": 0.7057
+      "price": 2540.22,
+      "change": 63.1992,
+      "changePercent": 2.5514
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.802,
-      "change": 0.167,
-      "changePercent": 0.5279
+      "price": 31.725,
+      "change": 0.09,
+      "changePercent": 0.2845
     },
     "JPYTWD": {
-      "price": 0.2031,
-      "change": -0.0017,
-      "changePercent": -0.8218
+      "price": 0.2036,
+      "change": -0.0012,
+      "changePercent": -0.5777
     },
     "EURTWD": {
-      "price": 36.707,
-      "change": -0.0266,
-      "changePercent": -0.0725
+      "price": 36.724,
+      "change": -0.0096,
+      "changePercent": -0.0262
     },
     "CNYTWD": {
-      "price": 4.7447,
+      "price": 4.7356,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4311.3,
-    "twd": 4408.0,
-    "tael": 165305.0,
-    "twdTotal": 137108.0,
-    "changePercent": -1.2574
+    "usd": 4347.2,
+    "twd": 4434.0,
+    "tael": 166278.0,
+    "twdTotal": 137915.0,
+    "changePercent": -1.3994
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "【0914台股盤後】台股失守月線回測45,800 關卡，資安與功率半導體逆勢突圍，策略選股法人目標價聚焦信驊、鴻海、旺矽、智邦｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMitwVBVV95cUxNSC1GNkc2d2xSa2d4YlJxMkx3VWIxa1NmMkluc05pSFRJNnY4ZXl3MXpON25UWVZDUm1jdXBoS2U0Z19YTmpPb1lsRERSMkVUVTBsNlVLcTNad2lVUVFKN2FKYVEtSld6cjdXSm1MS21ONVpQYVZZS1dFLVNCZ1A2RXdwV3hzZDRWVmFhdmlnN2R0eGhRYWlCY29rV29PODc1Y2U2UE1lcXllLXlYYl96Ulp4WGlFTEtabW1VUGlFeDR3VmhsY2FlaDNoZHNlVXlidzN4WFZxZV9aazJQeUJsem1XbWFLbjBqQjdoRkRMSmoycWF0REU5bC1kYmF1OXg2aTJSRUJ6Yl9XaGxoZEtfZEk0YS1mLXF4QTZxaUJzWlJxb25pOUtGOE1lR1pLekxHdlJDdzJzVWNkaGZ0LUJxTW1ZVWdJSlpXbV8zY0JhVkpyOUI2c1J6U0NHN0h3eUFrdVJIcDZCdGtZWlhUT1B1elRiZ2p5WGE4bmV1QlAtTWNqSHZiUDdLNWZvblBzSmRfal9pSEJOTTU2SzVXVkxWWGsxVXdUQzFJLTNGbzBoUXNlUndjSzYtU1hQZ042Vk1PVWJINXNLaGpFOHV5by1oSTZ6N2M3dkxWRV9nNWpyZ2phbm9qRVgxaElCMVZXTm5IOGVKWDdmVmtTX21GSURmV2dYWl9sUkVyYWpMVU0xTXdZY3F3NE1SUzluaXVEb3RHc0xJZ3hBVTRDSW9VdkdRZzdpU1I5OEhaNkMtSFphLVJwMGwwbW50X21MQ254eUZ1QlZoQlhCc0NiZXFXNWtIZzNjYmpzSUczdWxMYmlIbENTbTlRU0VCSW1sMzNGOThGWUhyX0RxR3ZhUEs5eXl5SU5IQnFBS3BPb3F2QXU3R2hjREpPQ0FwWTh2QzVjNEY3VHBzUkpGRQ?oc=5"
+      "title": "AI踩煞車嚇壞市場！美股三大指數全跌 那指挫逾1% 台積電ADR重摔近3%、輝達同步走弱 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNOXNSZ1V4M2RYODduYmNYRWlxNkkyS2RtY2VxTlRzUHZlejR1cExMdEszVWMtTHVZX0E1c285LVdVVlY4Rm5DclV6dFA2UUpadWxzcnJZZ1hudkkzbkVOZEtJTEhLSm83V095aEFpM1U4bnlTbmJENGpWcnV1R3NfZ2VrNk9EaC05alEyTVJySXd2RTZBVUdheERxdVZIV3FVZDd3UF9YV05uZkdMQmVUU1hiTDlpdHRDWGNVa2RaRk92TUJ2T0lwU2gwLUFmV1ktNE9LNGRoMmZnc0hPYnZBRnB2MFBsRGtpZ04wNEhSM2dPZHNsTjdEbWlJWDJFWm9HcWgyWC03dDhUZ1VpWGltQ2gxYzRZb3hJdFVVMWp2YXV6Wk15UjJCMGJIWVZaT1dPbjRMTUNLWTVkZl9DTnk3dHJLX21nMlZJSXpFR00yU2FPN255SVJaWVgybXZETUNuYm5BWjU5UDU4UGlLeVhhRU82b0JNc0o3LVdOcXJESWczVjJmTVVMbVlIanVid2VSS3hHVEFmVFc0VVpPWlNreEJmcVVCdUdwTmtiTDZLZnk3Yk9KTHFueWZpZXlUdVI0OG9BR1VwUWJMdlNUZ0NOdW1pZ2wtVTlING92RTRB?oc=5"
     },
     {
-      "title": "美股期貨開盤跳水那指急跌逾1% AI巨頭齊喊放慢+Fed升息機率高漲| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42RmlDMXBwTWZFeFhzNUtySGdkWDhEZHBTVC00QnFQM0tQWWxpaU5sYUFjVGlVTEoxbnpJMXJzU1JjVjFkVThJaUw3S0pzaF8w?oc=5"
+      "title": "美股早盤／AI發展減速憂慮費半瀉5% 台積ADR摔光通訊股受創| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83ZFN2azBqNS1TemctTzdUQkdwc0lPdW1uX0tQVUFVbkVVNDJwVGJINlUxNXhUSFZfLTUzYVhhbEZucnJiVUp3UF9TUmRwaHhZ?oc=5"
     },
     {
-      "title": "群益新一代主動式市值台股ETF 00415A擬9/30募集 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOdENjUHJiS0J3VkZOcUFZdUo5N1dqdDVERmgzWDFOZE5CaE5ELXZUUWhMUTJKU2wwME9JeHFISlNnWE1UX2o2TzJsVXdoWjFyQ1hwOFdpdk9BbDlWUi1rZEhVTFhyNk9OYVB4bTJEbktQY1RUZHp4U2UtaDgyOXFwdUp1bi1zUE5sTVNkMkVKVnJuYnE0VVQ1RXp3Vmk4S3paLVVXcGZWU1FIVHRzUjJ5cVN6QTVTTkJBQmtDVWZqTkdRT2QtWXZyaFZ4dmV4Tm9QaGFOcjhlejlieUhPSjN3VFZSVjdYN0xOd3dGUlVOODh5VHIzLWozUUc2Y0xKR1hZWXF0c3FsSTlHWHozODhzMldlT25sU2c?oc=5"
+      "title": "〈美股早盤〉AI熱潮恐踩煞車！主要指數開低、科技股領跌 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xR0xHM1dHZTZWdFg2RmxvdW5RMWloQXZ2Y0FSMDU4bFpuaWNMZWxCWFkydWw0aXU3dFlwOWZ5b2t6cXdHb3BEZXpsTXFBYmc?oc=5"
+    },
+    {
+      "title": "快訊／台指期夜盤一度大跌近400點！費半重挫近5%　美股全面走弱 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxRVpmbWdaanV3bHpBWDUzWFJkazhlSVlCS21JUnVOSDBXT3JSeVI0YnlwZi0zZXFJWWRPZGpLZU1mcjNYVWk5djVHV2ZyTzlLN1HSAVBBVV95cUxNOEtJVG52Wk84RmV1cS1fOHdaOUpFWVh6RU5KU0s2d3dfVUFqcUZqeGhMTTF5WmdJWE1nWHE2QW00d0ludWxKTFdPQ1IwMVBFaw?oc=5"
+    },
+    {
+      "title": "AI巨頭籲放緩技術發展科技股挫 美股開盤那指跌逾1% - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBeXh0ajRGcWtWcmVBM3NVdUxrUGZyTGRrSlBvS0VDRVo5ZkZ0QlFsa1U2VGw1aWM4OTQxb0hpWEswTjZHcVc5YnFrSHUzclkyVUVNSmtMOVFyN1FOc0E?oc=5"
     },
     {
       "title": "比特幣選擇權一年來首度轉多！年底 8 萬、 10 萬美元押注堆至 12.4 億美元 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnFVaHdsYWxwZjkwOHdPNTJ6cVY1VmNTc193YzhyVmhHandJMUtvdG5PYklpVUF5NXhYZHpxajluVEdHUEZCQ3pDdEp6ZHZnQ1llUFBvVmxlekpObUJzcmJmVDBFQ3JuWWdrcWtHeHNhU3Q4el9XU21QYS1KX1JFNmJ1S1NabUdhSmpBc0N6dDNQakRu?oc=5"
     },
     {
-      "title": "「台股儀表板」要來了！林修銘揭三大核心項目：強化風險教育與數據透明 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uZWd0SngwbXhTZmlkWTE5U0ZxVUFKVkRJOVFqd25wRmR4SUo1SU5neVlLWEFvUU5aQmp0S3J4T2RrSXZTaGhJcWdmVUs1emM?oc=5"
+      "title": "AI發展放緩鬼故事 美股早盤費半重挫 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZXpWeWNVbHdoaVZxRHFnTWlsTkNSN1gxbEdBNzN6SU9PbXdlYVZfQ1NNVGk0MmRSQmFvdTc0N1g0dE84WERJaGQzNkx6UDc3UWJRQ2JWdGJMbnhzaURRNk1pN05HYlpOcXZQbFduV0piV1JCazByTkYxTWYxd0JNZTVGLVlMRlRUSDlhRGVwMUlHeEo3Vm44SzlNN2w0M1FiYjJPRDBIU3JPZW9SclllWG13VUlvVlRZNHJIaVhGN0wzN1BCMkE3SGZsWElVNG1EMUZkVDFIUE01ODJNTVBodHlfWlJNMUdZSko1a2J5OVNXTVFmOXh1VmJHUFRGcDBQeVdLQzdycHd2bmM?oc=5"
     },
     {
-      "title": "金融勁揚不敵電子弱勢台股量縮下跌322點失守月線| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmZzJfNE03dmEwTlp0LWM3NWdLSDI5N1dCS0M4TEVvWjNyWUVrRnhBM2huQmFoRm9yMk9XcWYwUWl6MDVlazJYRDN3TVljSVhtN2pkbEtoSF9zbG8yd2c?oc=5"
-    },
-    {
-      "title": "迦納議員倡議以黃金取代美元 強化經濟主權防範外部衝擊 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPdGhhMVZzaXR3WDB3N1JkdFVoVG1VYWt6WjQ2UUJsaWt3OVlfVzdIR014RDlYcmt4a0gtOXkzOFBLZFBtcjlZQU55WExFRExwWmR4U2Q1dWpidEVPSlNVYlJuTmlkdFZ5S2VmYWdvWHlqcHhDcHJaOFp0VDJoNlVwT2RaRHBQZnhRMHFqUnE0M3VubTBSQm5NVm13ZXBSU3JlZUE4OUJ5enpHUG8yelVxVTZNeHNBb0dNSHpWa0ZRNm5KLU0zdVppSi0wcUJRcG1zYTdoMFJkd3FKTjZNSjNWbUhMLVh0QkhvNmdxZEM5Z2NUV3hPXzZhcldLMFg4NTRHQ1NIOXlSdERFUHEtX0RrRXNPaFhUOHdQajBsWUN5ekNCMG8tb0puVjhzVEVsaG5wRlF0bk1vMGhGczBtc1BUemczU2NIc0RoSHlSTnRGNVIzRDZrNkt4THhCMk9fTjRQTEVVbHZ6c1M2MGF5ZFVFUlZNbUR1UnIydG9vSmZBcC1QQXkzTGJhcg?oc=5"
-    },
-    {
-      "title": "【美股盤前0914】美國8月核心CPI強於市場預期！國際油價也穩居100美元之上，通膨壓力猶存，本週升息機率一度飆破9成 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPMGswbERPOU5ieHVBMXJxX3pJQVFBeE5UYzNNYkFVWGIzVWVqVUpLbEo0Mlp5bDI1M0daUGYxX3pQZDJMYlphemhvem40NFBPSUdMVWZtTXBOLVBSbWw3T01GclJRSDJCWEtPWHlyall0MDB3RjFCZXE1NG9aSm42YzFmLXJDWk1lQ2otSzhwN0xWczJzV2VTOVl2VmdhZEs2N3V5Q0RpWG5mTE5vbmd2d1VLUW5DdTJuZzlGdE9Bak1NSno4RzBCRGtuby1ZbG83YXI1MFBkdmgteVVRNW50YUY5cllQODdxb1Nqb2xJRWp0LXIyb0NSVTduMzc5MWc0VVpZamkxVEdVOFZJMGExeUplWnB6TWpGUE9UaHFzbWQyTzhKcWFtZWYyR1QyeDBCMUFucVVfQ3FJamFmVUNaLTU2UXVQdHRILTcxOTE1V0cybHRzY29qOUtxeTFIMmQzUzhZZTRLT3VaUFh4RXJ3Z2d0M0t3SldTX1hDamdJNzVRSWY4VVkzckkzSzZJVmVKU080ZlVTMXVpMEY5cjJZbHA5NV91YkM3UXIwWm1BWFA2RDJlOENNU1NmSnVTYmhwbVlWajZNeXF2dlhaX1ExWS1XSTRqVmIyYU9oUU5TS1FfSXF0clZFakRRWkN5NVROTXZCQnp1aUJIMmNTVU8wSUczWHVBcFVBR3YzYTdfQ2MwR0MzS3dkeEYyV0R5RU9QczRlLXZjTUlyM1ZoTXdMdXU5VWZMOUZrWk9EQWx3NEktQlR6U19KbDRFa1J2Y2hZMlN0OGdlaG5QbnVfdTdEOE9YemVGTXk2c2RyYU9rRzR5WkliNnRvWmFMQjRtdzRTRU5KN2xJOTRDdk9zTHhyNkJ2Ul93SlRCd0RCOW9paw?oc=5"
+      "title": "AI疑慮引發市場冷卻 花旗將美股評級調降至「中立」 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90NjlpbHFJc2I5UjdEZ2xTaW5NV0ZpcTZ6Y1VJcmxUZTFjZFF3dDc5b3phVVFEdnpyM0VlelB1b1U1b0tMc2lBQzBQUER4aHc?oc=5"
     }
   ]
 }
