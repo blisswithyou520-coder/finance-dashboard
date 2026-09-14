@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/14 14:17",
+  "updated_tw": "09/14 21:10",
   "taiwan": {
     "2330": {
       "price": 2380.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77714.64,
-      "change": 444.1712,
-      "changePercent": 0.5748
+      "price": 77616.82,
+      "change": 778.6638,
+      "changePercent": 1.0134
     },
     "ETH": {
-      "price": 2522.87,
-      "change": -3.0746,
-      "changePercent": -0.1217
+      "price": 2494.5,
+      "change": 17.4792,
+      "changePercent": 0.7057
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.712,
-      "change": 0.077,
-      "changePercent": 0.2434
+      "price": 31.802,
+      "change": 0.167,
+      "changePercent": 0.5279
     },
     "JPYTWD": {
-      "price": 0.2037,
-      "change": -0.0011,
-      "changePercent": -0.5288
+      "price": 0.2031,
+      "change": -0.0017,
+      "changePercent": -0.8218
     },
     "EURTWD": {
-      "price": 36.708,
-      "change": -0.0256,
-      "changePercent": -0.0698
+      "price": 36.707,
+      "change": -0.0266,
+      "changePercent": -0.0725
     },
     "CNYTWD": {
-      "price": 4.7366,
+      "price": 4.7447,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4372.4,
-    "twd": 4458.0,
-    "tael": 167173.0,
-    "twdTotal": 138658.0,
-    "changePercent": 0.142
+    "usd": 4311.3,
+    "twd": 4408.0,
+    "tael": 165305.0,
+    "twdTotal": 137108.0,
+    "changePercent": -1.2574
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "上週比特幣ETF淨流出6000枚比特幣，結束連續三週淨流入態勢 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oQktmc1RqeDl2Nl9LbWJtcWJEdEpXSVVHdTFIaDM4T2hjclIyNGdENUJiZUFZYkJEOGtqRlpsWlhSOWpIbldMRXVwcw?oc=5"
+      "title": "【0914台股盤後】台股失守月線回測45,800 關卡，資安與功率半導體逆勢突圍，策略選股法人目標價聚焦信驊、鴻海、旺矽、智邦｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMitwVBVV95cUxNSC1GNkc2d2xSa2d4YlJxMkx3VWIxa1NmMkluc05pSFRJNnY4ZXl3MXpON25UWVZDUm1jdXBoS2U0Z19YTmpPb1lsRERSMkVUVTBsNlVLcTNad2lVUVFKN2FKYVEtSld6cjdXSm1MS21ONVpQYVZZS1dFLVNCZ1A2RXdwV3hzZDRWVmFhdmlnN2R0eGhRYWlCY29rV29PODc1Y2U2UE1lcXllLXlYYl96Ulp4WGlFTEtabW1VUGlFeDR3VmhsY2FlaDNoZHNlVXlidzN4WFZxZV9aazJQeUJsem1XbWFLbjBqQjdoRkRMSmoycWF0REU5bC1kYmF1OXg2aTJSRUJ6Yl9XaGxoZEtfZEk0YS1mLXF4QTZxaUJzWlJxb25pOUtGOE1lR1pLekxHdlJDdzJzVWNkaGZ0LUJxTW1ZVWdJSlpXbV8zY0JhVkpyOUI2c1J6U0NHN0h3eUFrdVJIcDZCdGtZWlhUT1B1elRiZ2p5WGE4bmV1QlAtTWNqSHZiUDdLNWZvblBzSmRfal9pSEJOTTU2SzVXVkxWWGsxVXdUQzFJLTNGbzBoUXNlUndjSzYtU1hQZ042Vk1PVWJINXNLaGpFOHV5by1oSTZ6N2M3dkxWRV9nNWpyZ2phbm9qRVgxaElCMVZXTm5IOGVKWDdmVmtTX21GSURmV2dYWl9sUkVyYWpMVU0xTXdZY3F3NE1SUzluaXVEb3RHc0xJZ3hBVTRDSW9VdkdRZzdpU1I5OEhaNkMtSFphLVJwMGwwbW50X21MQ254eUZ1QlZoQlhCc0NiZXFXNWtIZzNjYmpzSUczdWxMYmlIbENTbTlRU0VCSW1sMzNGOThGWUhyX0RxR3ZhUEs5eXl5SU5IQnFBS3BPb3F2QXU3R2hjREpPQ0FwWTh2QzVjNEY3VHBzUkpGRQ?oc=5"
     },
     {
       "title": "美股期貨開盤跳水那指急跌逾1% AI巨頭齊喊放慢+Fed升息機率高漲| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42RmlDMXBwTWZFeFhzNUtySGdkWDhEZHBTVC00QnFQM0tQWWxpaU5sYUFjVGlVTEoxbnpJMXJzU1JjVjFkVThJaUw3S0pzaF8w?oc=5"
     },
     {
-      "title": "【0911台股盤後】外資大舉避險近900億引發台股大跌755 點，美國 CPI 3.4%符合預期，台股夜盤上漲超500點， 投本比策略: 光頡、富喬、精材｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMivwVBVV95cUxPbDJQSkZKTWN1b01qWmxveTNqUmtaTlpURC1XUmVhNjV0ZkZ6Y1Zsd09BLUpBR1paR3VvRlY0czNmRUtoa2JKUVpqZmNyM3FBMW41eHJieXc5aWp6YUVNNmdpc1JYdXhZRGFMOFR5S2Z0SDVzckNuZndvTmRWMFlBVkxDMTVhOXJuYVNSSUtPMmZwLXVRNDBmRzl2cU1yQWJPeHM2X0ZFbEl5UDF6SWlINVBSMnYxblljbHNhNV9xVzFGU0RHaS1CblAyaDFianNod1dsd01yWS1hMXQ2MnRUNlRBWmhQRmthUkdRcUwtT01wMHY4a1QxUlpIdjlJSnk5MmRnU2MxbEh5VncwVmQwd216QjJjdHh2S282aUs4N0ZtV0E0VmJnN1JhZmVwbThIVzNjT2hWWnhNWXpidHV5RWRaSE1KZkNCOUdHQXgtVzdpTDdkcGFiU0tvWXIwV2tsaEplSk15d0t0R3RWOXBMQ2huV3dGVXlQNFQ2SThkdlRiT3FGdkhzai1SZnJ3TE5UU0JrR0MybEVHNjlWTU5OUi1uMW5NSGdzUEVhWVpDeUVvU1BhdnB0S3NMUHh2V1dzZ0VyNXdqXy1jcEZkV3RvMDl4SnB0M0UzQU5ZRWp1dkRLQVFiT2VnQ3M3cW1Ha2wySTU2b1FKenZWVDhyZGNnSk5nZm5fQklfYkxVT1hIdHc4REE5dDVfQlBqak1RZWlkOG8xUERGX2dTUHR5c0o2VDFwd0Jna2FMWWpyVGRUYlJ6YzZ6ZTZBY29jMlZOaENodHRSME1sd050YUtUSUtpbl9jVWloTHgwOTR3eElEVTdrWjBOUjZvZWdHWldsWUNyMVVta1dORXhnQkl4RjhOcHY2QWVIUGh6Zm5MZzRJcW9TQnNUNDhNOVdNUjlDTWt2cVNYSkw0UnViUHZMN3ln?oc=5"
+      "title": "群益新一代主動式市值台股ETF 00415A擬9/30募集 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOdENjUHJiS0J3VkZOcUFZdUo5N1dqdDVERmgzWDFOZE5CaE5ELXZUUWhMUTJKU2wwME9JeHFISlNnWE1UX2o2TzJsVXdoWjFyQ1hwOFdpdk9BbDlWUi1rZEhVTFhyNk9OYVB4bTJEbktQY1RUZHp4U2UtaDgyOXFwdUp1bi1zUE5sTVNkMkVKVnJuYnE0VVQ1RXp3Vmk4S3paLVVXcGZWU1FIVHRzUjJ5cVN6QTVTTkJBQmtDVWZqTkdRT2QtWXZyaFZ4dmV4Tm9QaGFOcjhlejlieUhPSjN3VFZSVjdYN0xOd3dGUlVOODh5VHIzLWozUUc2Y0xKR1hZWXF0c3FsSTlHWHozODhzMldlT25sU2c?oc=5"
     },
     {
-      "title": "韓股交易時間大改！「這項交易新制」上路 台股延長交易暫喊卡 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPUDZlTGUwTXpLMFhqVHNFR2RXY2xUa0VIQkNuS0JJZEV6SC1kbm9oXzluZGlfYkh2RS1VR21ZamtOWGZVX1FxRUptZjhNeHZvX3AtU284NUtHZ090eTNwajFkOFkzakdNTlUtYlZJYURCbVRsUFFqZHI1Y2EtLXVLMnNxTk9GTzdEMUFWZUxKT2hfQUVHR1NZNDFNRThTS3kzSExyOWl6RU1rVTF0S2M0Wm5lMDhEWTJkaDZPNHpyRHl6V0FHdmN0VHd1YTB5VDB2Y05DLTZKU0RuTHZiQ2ZMblFWTnk0SUlOdHVfRjdRcDBBTlIxUE9XY05RM21wVUNPOEJSY0x2blVxNXZvWmtXM3FNU1RXZlhUb3BWU0N3S041RkphdVFldWRINm1YZ1BMRmZKRXVHN0RKVzA5NWlNbGhhQzRySlVGNC1EVlFKS09jUDJNS0dJNk9rWFRjNWNTZzg5cnNDODFIREhNYjkwZ3poNFlaOFFBRkxWdVFIRGZaQVd3ZG5fclByaw?oc=5"
+      "title": "比特幣選擇權一年來首度轉多！年底 8 萬、 10 萬美元押注堆至 12.4 億美元 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnFVaHdsYWxwZjkwOHdPNTJ6cVY1VmNTc193YzhyVmhHandJMUtvdG5PYklpVUF5NXhYZHpxajluVEdHUEZCQ3pDdEp6ZHZnQ1llUFBvVmxlekpObUJzcmJmVDBFQ3JuWWdrcWtHeHNhU3Q4el9XU21QYS1KX1JFNmJ1S1NabUdhSmpBc0N6dDNQakRu?oc=5"
     },
     {
-      "title": "南韓股今起增盤後交易 專家：台股可觀察成效 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QX1dxa1VOaW9XZmZPdEF1Rl96S05oRnN2dXpyOTM5R1g3UFZ5V2xDTnRTNzJFd2U0M1Jlb1FtajJqV3NnMjJBbE5GRlRXam8?oc=5"
+      "title": "「台股儀表板」要來了！林修銘揭三大核心項目：強化風險教育與數據透明 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uZWd0SngwbXhTZmlkWTE5U0ZxVUFKVkRJOVFqd25wRmR4SUo1SU5neVlLWEFvUU5aQmp0S3J4T2RrSXZTaGhJcWdmVUs1emM?oc=5"
     },
     {
-      "title": "台股量縮下跌322點失守46000點和月線| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xVXphMlZtVFpPTXVEM3haYkZjVE0wQjNXVU16RTY4MV9WM1d0VEFLVTBBSEVEU3FzX1lNQjJ3YTcyTFRyNmM1ek1sWm0yQU1RNWNOcUs0ZW94UHI1VkE?oc=5"
+      "title": "金融勁揚不敵電子弱勢台股量縮下跌322點失守月線| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmZzJfNE03dmEwTlp0LWM3NWdLSDI5N1dCS0M4TEVvWjNyWUVrRnhBM2huQmFoRm9yMk9XcWYwUWl6MDVlazJYRDN3TVljSVhtN2pkbEtoSF9zbG8yd2c?oc=5"
     },
     {
-      "title": "台股收跌322點成交量刷今年第3低　台積電跌30元至2380 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zZnBNamUtS1JmQ3dCMzgxQU1LMXVFRFJsSXA0NUZGV0JfNG11VUVZRG9DUVQ3TmFuRjR2MU9ZLThKV2FpLUNHZEtOY1RnWUM4VHfSAVBBVV95cUxNeTNSZnB3bG5EeXdsc1E0WTJTdEhiTUZpY1NNS2ZEME90Zi1SeTBfdWhrai10ajV0b2oxU09yUzRhY0lrZ1oxUXYwUnZVekFvQQ?oc=5"
+      "title": "迦納議員倡議以黃金取代美元 強化經濟主權防範外部衝擊 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPdGhhMVZzaXR3WDB3N1JkdFVoVG1VYWt6WjQ2UUJsaWt3OVlfVzdIR014RDlYcmt4a0gtOXkzOFBLZFBtcjlZQU55WExFRExwWmR4U2Q1dWpidEVPSlNVYlJuTmlkdFZ5S2VmYWdvWHlqcHhDcHJaOFp0VDJoNlVwT2RaRHBQZnhRMHFqUnE0M3VubTBSQm5NVm13ZXBSU3JlZUE4OUJ5enpHUG8yelVxVTZNeHNBb0dNSHpWa0ZRNm5KLU0zdVppSi0wcUJRcG1zYTdoMFJkd3FKTjZNSjNWbUhMLVh0QkhvNmdxZEM5Z2NUV3hPXzZhcldLMFg4NTRHQ1NIOXlSdERFUHEtX0RrRXNPaFhUOHdQajBsWUN5ekNCMG8tb0puVjhzVEVsaG5wRlF0bk1vMGhGczBtc1BUemczU2NIc0RoSHlSTnRGNVIzRDZrNkt4THhCMk9fTjRQTEVVbHZ6c1M2MGF5ZFVFUlZNbUR1UnIydG9vSmZBcC1QQXkzTGJhcg?oc=5"
     },
     {
-      "title": "從科技島到資本島 證交所力推「台股儀表板」提升市場透明度 - 財訊",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yWDVKSEloVE9ncTJEXzVnaV81MjVabms4UW9zLVd4X3R1YldHU1ozSXN5RE5KZHVzeENLb3l4TUgtLUpHTVBCc05kYWc0UHo4MkoweUJCSDVSRDBBYk4zS19FTVNRaUtjeF8tT0JDaUxFYWp2RmplWDJwaw?oc=5"
+      "title": "【美股盤前0914】美國8月核心CPI強於市場預期！國際油價也穩居100美元之上，通膨壓力猶存，本週升息機率一度飆破9成 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPMGswbERPOU5ieHVBMXJxX3pJQVFBeE5UYzNNYkFVWGIzVWVqVUpLbEo0Mlp5bDI1M0daUGYxX3pQZDJMYlphemhvem40NFBPSUdMVWZtTXBOLVBSbWw3T01GclJRSDJCWEtPWHlyall0MDB3RjFCZXE1NG9aSm42YzFmLXJDWk1lQ2otSzhwN0xWczJzV2VTOVl2VmdhZEs2N3V5Q0RpWG5mTE5vbmd2d1VLUW5DdTJuZzlGdE9Bak1NSno4RzBCRGtuby1ZbG83YXI1MFBkdmgteVVRNW50YUY5cllQODdxb1Nqb2xJRWp0LXIyb0NSVTduMzc5MWc0VVpZamkxVEdVOFZJMGExeUplWnB6TWpGUE9UaHFzbWQyTzhKcWFtZWYyR1QyeDBCMUFucVVfQ3FJamFmVUNaLTU2UXVQdHRILTcxOTE1V0cybHRzY29qOUtxeTFIMmQzUzhZZTRLT3VaUFh4RXJ3Z2d0M0t3SldTX1hDamdJNzVRSWY4VVkzckkzSzZJVmVKU080ZlVTMXVpMEY5cjJZbHA5NV91YkM3UXIwWm1BWFA2RDJlOENNU1NmSnVTYmhwbVlWajZNeXF2dlhaX1ExWS1XSTRqVmIyYU9oUU5TS1FfSXF0clZFakRRWkN5NVROTXZCQnp1aUJIMmNTVU8wSUczWHVBcFVBR3YzYTdfQ2MwR0MzS3dkeEYyV0R5RU9QczRlLXZjTUlyM1ZoTXdMdXU5VWZMOUZrWk9EQWx3NEktQlR6U19KbDRFa1J2Y2hZMlN0OGdlaG5QbnVfdTdEOE9YemVGTXk2c2RyYU9rRzR5WkliNnRvWmFMQjRtdzRTRU5KN2xJOTRDdk9zTHhyNkJ2Ul93SlRCd0RCOW9paw?oc=5"
     }
   ]
 }
