@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/14 07:10",
+  "updated_tw": "09/14 09:04",
   "taiwan": {
     "2330": {
       "price": 2410.0,
@@ -72,48 +72,81 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76681.07,
-      "change": -589.3987,
-      "changePercent": -0.7628
+      "price": 76786.14,
+      "change": -484.3288,
+      "changePercent": -0.6268
     },
     "ETH": {
-      "price": 2476.4,
-      "change": -49.5446,
-      "changePercent": -1.9614
+      "price": 2483.72,
+      "change": -42.2246,
+      "changePercent": -1.6716
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.614,
-      "change": -0.021,
-      "changePercent": -0.0664
+      "price": 31.655,
+      "change": 0.02,
+      "changePercent": 0.0632
     },
     "JPYTWD": {
-      "price": 0.2037,
-      "change": -0.0011,
-      "changePercent": -0.5288
+      "price": 0.2038,
+      "change": -0.001,
+      "changePercent": -0.48
     },
     "EURTWD": {
-      "price": 36.712,
-      "change": -0.0216,
-      "changePercent": -0.0589
+      "price": 36.727,
+      "change": -0.0066,
+      "changePercent": -0.018
     },
     "CNYTWD": {
-      "price": 4.7219,
+      "price": 4.7248,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4380.8,
-    "twd": 4453.0,
-    "tael": 166976.0,
-    "twdTotal": 138495.0,
-    "changePercent": 0.3344
+    "usd": 4383.2,
+    "twd": 4461.0,
+    "tael": 167285.0,
+    "twdTotal": 138750.0,
+    "changePercent": 0.3894
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "美股期貨開盤跳水 那指急跌逾1% AI 巨頭齊喊放慢+Fed 升息機率高漲 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSY25jaWdBcXVYaTdFR0ttMHNVTWtvZlJxNjFHNENmem1LMllOYlhOb3hOa1RNS0tVT2Y1NktuSlhZSldURlF4VWRDS0VkZU5qR19vWmlLM3hRMlRt0gFiQVVfeXFMTVZXWmlCUEQtbk8yWTlweFZ0bWRXYXFNa3lqMlN4RWg1akIzeUphdlA3cGUwRk9YVlZ5b25FTUF3S0ZyaVNEZVQ1ZDZoY0tJa1pJOHkwWVEyUzZ3c21GTXlqMlE?oc=5"
+    },
+    {
+      "title": "《貴金屬》COMEX黃金小漲作收 ETF持倉減少 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZ2g5RmdWXzF2bVdYTFg3N3BVM01FR3JRZ1BZN1RwZEVESVppU18tQ1Y2ckJsOEprVkgxVUx3Y2dCS2FKZmN0ZGIzSFp2djRyX1VYRDBKbU5YUWdnV3RIUUE2VUt1aWxiQkFXM21NVG1uTnZEUEViUWpISXl0a1ZhdGxmVjl2TEJjbG1iV3lNTU1vLXpZUUJEdERsWEZGWVBrclZaSzBCNVVLZEZsbUZqYmpKSTFMSVdLNnE3eW4xTEtkd29VT0FtU2ZWN1J0NEU1V3dvZW5aWExpc1IxWjdkYWc2V2ZvWVpVanRUX1RxQzNRWWVINy1wX1ZsQTJaNVNJdE95RA?oc=5"
+    },
+    {
+      "title": "週一台美股開盤完了？三巨頭喊放慢AI發展 阮慕驊這樣看 - 三立新聞",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqT2JmVUpXSkJqenp0eTNFM2JtVS1TMVpsNS1aOExGRnhYb0JrRmozdEpGYVY4VXQ4MEdnNEFmSk1UbFV1S3hvbW1mZw?oc=5"
+    },
+    {
+      "title": "《美股》道瓊指數上漲約1% 等待本週利率決策- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTndEWExTbkh5V0NRcUNzdFNQSUt3ZGVYREZUNkJGWjl3bHlXMnZqYTY4WURfMnM4QjdwZnZtMGtCNlNZc1BUa3RRdlAxaU82S3V3cGd1UTVMb0FOWnFlcmMyT2RWTlpXSDhKQjdUSk5FZzZoMUVWLXZWZWZ2N2l2VjFQUmktWDI3OUlFaEdfWWtjQQ?oc=5"
+    },
+    {
+      "title": "DWS 投資黃金貴金屬股票 USD LC - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFNSVZTQ2kybUxab2JiUmFnSFpVQWFzQzJBLVZqS0xQT2hZYjRaek1WR3BET3BWRkZNVGJzdXlsTlZZSWg1RWtGY054cGF2bVFySFJkUXVLcWVmamhra1lMaTRDd09OX0Vtc0NfQnFyU19wdUhRUFFNM1dpbmRPeWhWcHZHaXdVQXRwT3NUb0ZjanNUTXV4eWR3RlQwTWRERVFRLWx6U2VSbnFOOE5rcHJ0RU9raXkzdWNMUmZoa2JpOS1UQkxTTm5pWHBUSDc5T2U5SHJYU05uUTJmV1JybENpVQ?oc=5"
+    },
+    {
+      "title": "9月14日 五件財經大事搶先看 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYSHdTUHhMZWxIVnRBUXNDMEpwVlBnQVFvUmg3T3V6bW9rcHZmdE1veFBpT0xYLWpUR1VqYVN2YU1jb2VNeVdBb0xUUUtIT3FqVjVOMUNTMGV0d9IBX0FVX3lxTE1FZWFXNXFuRmNWN1Nqa2VrdmF6LXdHNHRsYWJzNnF1SVl5V0QxUWRRYUNrVFlKbm5JeWNILTBGaHlWa09LYXZRbzI1d0QwbkdBb1ZVaUpOa3oxazJIc2I0?oc=5"
+    },
+    {
+      "title": "比特幣沉睡十年錢包啟動 12,000%報酬獲利破億 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQTXdHWGI2SUxpNnRkRUF3eFdwVmQ0LUFMX25zdWg4djFhMW5DYmtpZ200NzdmdWFDb1pQN3c3a3RjaFJtWHBfYU5xLWdqM3dfLVBVeE41TGVqOEEtMlptbmQxWTZKdkkycXlIX0hwdUdvZF9mMmJXOFYtMlpxcUpPMk5xOWk4aFN1bWlCQUh1aTNteEtseF9HMDR0MVBlSlVWOFJUTW5MOGUzS044UmR4dVVKc3VVaUNRWFA0dW1jQl94NHF2RUFzT1lrcDdiQmRhSGVlOUZla3NTMnN2QzB1NHllOUE5MnFuQ21vUU15TkN2aDBiSDljTHpLM3hwYklNTVAza2RRcno4c3hSbkRld1hnSnhSZFF1cGZNVXhOSUprbUpHc1dDNWx6WGFXUnFCV1E?oc=5"
+    },
+    {
+      "title": "322.7億美元！油價破百+債券殖利率飆升 美股基金單周贖回規模創今年高 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nZjRZaUdHV3B0Z0tQSVhmalZUUzRZc2luR1NhbS1iVVlXQ2EybDZGcl82QXNwUkdYbDk1RE5GOHdIdHl3ZnN3VHVibmF5OTA?oc=5"
+    }
+  ]
 }
