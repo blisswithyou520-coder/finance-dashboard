@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/15 13:23",
+  "updated_tw": "09/15 18:16",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -8,14 +8,14 @@
       "changePercent": 0.2101
     },
     "2454": {
-      "price": 4465.0,
-      "change": -95.0,
-      "changePercent": -2.0833
+      "price": 4430.0,
+      "change": -130.0,
+      "changePercent": -2.8509
     },
     "2317": {
-      "price": 247.0,
-      "change": -1.5,
-      "changePercent": -0.6036
+      "price": 246.5,
+      "change": -2.0,
+      "changePercent": -0.8048
     },
     "0050": {
       "price": 106.25,
@@ -23,14 +23,14 @@
       "changePercent": -1.3463
     },
     "00878": {
-      "price": 34.13,
-      "change": 0.13,
-      "changePercent": 0.3824
+      "price": 34.2,
+      "change": 0.2,
+      "changePercent": 0.5882
     },
     "00919": {
-      "price": 32.69,
-      "change": 0.21,
-      "changePercent": 0.6466
+      "price": 32.74,
+      "change": 0.26,
+      "changePercent": 0.8005
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77359.14,
-      "change": 520.9837,
-      "changePercent": 0.678
+      "price": 76961.6,
+      "change": -1201.7828,
+      "changePercent": -1.5375
     },
     "ETH": {
-      "price": 2483.44,
-      "change": 6.4192,
-      "changePercent": 0.2592
+      "price": 2474.16,
+      "change": -40.247,
+      "changePercent": -1.6007
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.792,
-      "change": 0.1158,
-      "changePercent": 0.3656
+      "price": 31.801,
+      "change": 0.1248,
+      "changePercent": 0.394
     },
     "JPYTWD": {
-      "price": 0.2034,
-      "change": -0.0028,
-      "changePercent": -1.3488
+      "price": 0.2033,
+      "change": -0.0029,
+      "changePercent": -1.3973
     },
     "EURTWD": {
-      "price": 36.749,
-      "change": 0.0315,
-      "changePercent": 0.0858
+      "price": 36.736,
+      "change": 0.0185,
+      "changePercent": 0.0503
     },
     "CNYTWD": {
-      "price": 4.7489,
+      "price": 4.7438,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4340.9,
-    "twd": 4437.0,
-    "tael": 166387.0,
-    "twdTotal": 138006.0,
-    "changePercent": -0.2528
+    "usd": 4314.5,
+    "twd": 4411.0,
+    "tael": 165422.0,
+    "twdTotal": 137205.0,
+    "changePercent": -0.8594
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "AI踩煞車嚇壞市場！美股三大指數全跌 那指挫逾1% 台積電ADR重摔近3%、輝達同步走弱 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNOXNSZ1V4M2RYODduYmNYRWlxNkkyS2RtY2VxTlRzUHZlejR1cExMdEszVWMtTHVZX0E1c285LVdVVlY4Rm5DclV6dFA2UUpadWxzcnJZZ1hudkkzbkVOZEtJTEhLSm83V095aEFpM1U4bnlTbmJENGpWcnV1R3NfZ2VrNk9EaC05alEyTVJySXd2RTZBVUdheERxdVZIV3FVZDd3UF9YV05uZkdMQmVUU1hiTDlpdHRDWGNVa2RaRk92TUJ2T0lwU2gwLUFmV1ktNE9LNGRoMmZnc0hPYnZBRnB2MFBsRGtpZ04wNEhSM2dPZHNsTjdEbWlJWDJFWm9HcWgyWC03dDhUZ1VpWGltQ2gxYzRZb3hJdFVVMWp2YXV6Wk15UjJCMGJIWVZaT1dPbjRMTUNLWTVkZl9DTnk3dHJLX21nMlZJSXpFR00yU2FPN255SVJaWVgybXZETUNuYm5BWjU5UDU4UGlLeVhhRU82b0JNc0o3LVdOcXJESWczVjJmTVVMbVlIanVid2VSS3hHVEFmVFc0VVpPWlNreEJmcVVCdUdwTmtiTDZLZnk3Yk9KTHFueWZpZXlUdVI0OG9BR1VwUWJMdlNUZ0NOdW1pZ2wtVTlING92RTRB?oc=5"
-    },
-    {
-      "title": "經濟學家警告美股恐暴跌72%！點美股「4階段」走勢預測：先瘋漲、再崩跌 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYeGU2UEQ4RGlEQTBtb1RzSlFBR3MtUU5rUm9HS3lKamZzZF9KUkp5QjFFTGRUa2dQY1RFeTRPYTNrb2FyRno1Y2NOOTVOdlE?oc=5"
-    },
-    {
-      "title": "美股收盤》AI巨頭喊踩煞車 美股盡墨費半重挫 台積電ADR跌3.52％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EZDc1SmhuSnhUbWxTbWNYV28zV1Q1a2VXQzJNZzFiVmRNYXpNaFR4Zy1FTDk3bGZoZ3pOclNUZzV2N2ZfeUJRLUk2X29tQjZUbld2X0VQNVpHT2tfeUhR0gFkQVVfeXFMUFBpemRxRmJYNTgxQU1rLVdfSEZCMm52VzY2VzJmTjZxVmI2VUhXU2owWjdsdWtlem9EUS1XcFVCOVliRzhDb0Q3T01NLUlYczRkRXlHaXd0MDBSUWw3clZnV0poVA?oc=5"
-    },
-    {
-      "title": "美股早盤／AI發展減速憂慮…費半瀉5%、台積ADR摔光通訊股受創| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83ZFN2azBqNS1TemctTzdUQkdwc0lPdW1uX0tQVUFVbkVVNDJwVGJINlUxNXhUSFZfLTUzYVhhbEZucnJiVUp3UF9TUmRwaHhZ?oc=5"
-    },
-    {
-      "title": "《貴金屬》升息預期打壓 COMEX黃金下跌1.3% - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRENBNUs2UzZXSkZxSXJTT0s2bDI2TGs3akFzQWM3bHBZX1RKZldocU9TQXNkSl9UNlBPSElsTjl4OW96YndWZHZPNFRiajBxZnY1d290dy1sWTU0Yk56WjNIWnAzLUpmVHNuUjdMZ2FaaDdxSVByeUxfd28yakVkVlFEbzJwMHdDcHlPeGZBZzRhUQ?oc=5"
-    },
-    {
-      "title": "瑞士隨歐盟制裁蘇丹出產的黃金 - RFI",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxONHg5X0loaGk2Vk8xLWVJUjI1VHlZY1NMaXo4d3ljbWI0SkRDaUk2VFJuekZPbTBnRVBPcUlEcnhDT1lkMm5lTFRlb0Y3cGNnOTJVc3VYazlVdkloN2xVWjRZZWtfd0pobnhGVnVYcV9TT1dxV3ktTTdUR1kzZWdRX3RpWFBSTXFGU1Nydjd4NU02X3hVT3BVZXo0OTdNVVRVbUpmbEN1d1lKZTEwMXJsTUxycjJMYi1jcmlzdENuSFBrNmx5R0FUcEpmc0ZqOS0tVVJ3eXZ2NnhSOFlXUWxTWkpkYUkzNmd4MXdBZUN1X2gxOWpaYVloYlUwMmN5QXljNEkyWWw1VTJKRXNESG1PUUZ5ZW1DbHdmNlRDbWFQSzd5ZVJPSEUxWm1PZF9ELUc0Mk5tVjZSU1dSc05WaWJhbS1wSDNsbF9tekxDekhMV2FFaFpON2pDcWNKQWtWQUlnOWpGS2lyRl84bXdMUEhWM1ZBRXRhTGNxMHVoMA?oc=5"
-    },
-    {
-      "title": "台股15日指數呈現平盤上下巨幅拉鋸 華邦電止跌帶量走升 - 理財周刊",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5neDEzNnJnRXdXazZuOWRJU016Z0VLR05vWG1VX1R2OFhFYkhYOWQ0NXRuTV9hX3hMcl9ubHAwWkdYTTliWEdsVFdabURXYTQ3N0d0a3dIQmtieVhuYzV4WUp3RHBHcDlUZkkxWk9IQQ?oc=5"
-    },
-    {
       "title": "AI巨頭齊喊「踩煞車」！美股4大指數收黑 費半重挫692點、道瓊跌152點 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPU1F1OTRZSERoaUQybUM1ZngyeHFkRzd4U2ZleVZtNzVYZHFlZHAtQjdsdGFMeW8tcFBiWkp3cUZQaFh6TTRKSzBfTjZBbHpOSi1CbWpsYVE5dXpGenlyTnFnaEFFRmE5R19KYldxTmNLdGdnRzM5c0I2STJrc09KSjdyaXBfTGg2b1FSZC1hMlZkSUN1RENUcmV0akdKQzN4eFFIV0hsMjRiSnJTMDNwZWE1Ui02YWE1b3ROYWFrREI2di01b2hTNnV5OHo3SjdROXFqMDkta2hGVklxQm85TWNlMGh2TTlqWVFCS0NwYXhPRkJlSXVtYkRxNGJ3bmlGNWZnYndHR2xkNDNYNU9KNVp5Z2pqYm9lSjhNLVVROHplOUFlNC14cnVTMjNvOFdnM2NNR3ljTGUyZlFRN1NYZFFFeEZvUWRNQ1ZRQ1pfSW5nUWM3ZnhDU0JsZWhzYWNtRm1pMnU3OHdwbnJFekg5UER4eG5DWWxJ?oc=5"
+    },
+    {
+      "title": "黃金跌了！寫1低點紀錄 背後原因曝光 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CeWVsQ0R4VnJaMXU4NmtYUC1xRkNmODh3TW1kSUI0dEN4R1AyWGdpdjU5Q1RpSzVWX0twTkxMUkpYZ0pIZmNEYXlSNGN0R3lobnpIaDdmdU05VFhVNEVr0gFkQVVfeXFMT1BPVWNaamQ5QWtJb2JuQ1hGbTlaZnd4a2FLbWdLLW9IRUtkYVdyaXBLWW90OXJJbXRHd1FqWWFZYU5QM3MxUHVySjhOcllVNjY5SElhM0VhYzZ1OTF6R2VFNDlUdg?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51SXRMV1Y5ZG1qc3B5dE1TZ21zMTlnUVM5N1ZHb3JpRTA1a0ZvNVQwRjJCTXBiVVdzV3lBN2l0c01CQmNLa2d5QXdhN3VpaFk?oc=5"
+    },
+    {
+      "title": "台積電小漲5元 台股翻紅後繼無力終場跌351點 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZZm1jeS1XWDBGOWR3TlZIRFlWWjdncDBKbi01cEd4VWNackJWdFBCRi1JcEFQYjRoU21yb21zY1NQNzJHRjV1MzBIZmpMRER5MXUtd016WTJXbVBMdnc?oc=5"
+    },
+    {
+      "title": "黃金救援搶回一命！中市替代役男CPR＋AED救人 盧市長親頒獎狀讚「救命英雄」守護市民 - taichung.gov.tw",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kbWJCaWZhR09TMHpwNndwT2U1NnhWcWtuYkNCaUJQdUY3SFd5ZXJELVViTDlTOVcxbVVybkJfU3JmcjZhWHFaenJkQ0M1UHM1TUE?oc=5"
+    },
+    {
+      "title": "陳嘉偉喊台股「必定走崩盤」！鈍刀割肉像2007年 升息灰犀牛逼近 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05ZzJiSXRoWjR1RFhwenZpR29iSkp1cVlMM04xRklYUTZWeFNtSDhzQWxNZmx2eWJkb1JUd0lZQmN4Sm10Tlp6YVZSbk1vRjNpaEHSAVdBVV95cUxOSFRTV2NxYllJM040SXYyekdzdk5PQzNKZXB1X0VyeDNGMjNpdHJ6X3UtbFJvcDlfbEY5WnZWZW00OEw3cTZWQ3hsNGlwUXFmcDI5cmJwRzg?oc=5"
+    },
+    {
+      "title": "外資加速拋售美債轉投美股，美國“無風險資產”神話面臨崩塌風險 - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNjBzZktSTlBiV0NrcE9qSHozZmdYdnVnMkZhTGdDVjd3a2o3bTBqMEhHSExuLVlMV2JQdjkwLW50eWk3UjN6TG1GbjBvRGtocUJpV0ZMTDloSTFKaXYwbTJ0Q2RveUJ4QW84NnN5YkNWNGpsMnVhM011OGZKWXBGVzRlankwZ0pYa1Z3OGlkanpYUXFpeWJ4VVVwbDVlUmgy?oc=5"
+    },
+    {
+      "title": "台積電明除息7元 台股一開盤先蒸發56點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQQ0NMeVZvckhvV3B5N0MteGItVVNkZWZKR00tNGNQOFNlSHVfTkQ4Z3NMVGpWdGd1V2pfNEtOYl9kNlFsYVRuWUduQVRhOVFFSVFza3BPNjlEMGozMVBlZUhJbnA0aTQzME5oTUFibjdzbVZYOUJVY1FhdGN1NTlvYmo3b1RkUFJHTWR6WWR2WlQzVjRTZXVuZkpfS2pxUGUzdmR4Mm0xaDEyeFRwZnllNGd4dkpUdHg2Q1dnVHJFSkJ6cXVQLTlEb1dOU0NRQXpoN3lmd1kyREVBY1dWSjBsajNpWlFuUXJaY0JleXFyRUNvYjAwN2MtSU0zNU5EWDNuYjFmcmJhUlJyT2NVR0JuYnpkSzVnU29vai1VbjhUc3A?oc=5"
     }
   ]
 }
