@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/15 23:10",
+  "updated_tw": "09/16 03:00",
   "taiwan": {
     "2330": {
       "price": 2385.0,
-      "change": 5.0,
-      "changePercent": 0.2101
+      "change": -25.0,
+      "changePercent": -1.0373
     },
     "2454": {
       "price": 4430.0,
-      "change": -130.0,
-      "changePercent": -2.8509
+      "change": -155.0,
+      "changePercent": -3.3806
     },
     "2317": {
       "price": 246.5,
-      "change": -2.0,
-      "changePercent": -0.8048
+      "change": -1.5,
+      "changePercent": -0.6048
     },
     "0050": {
       "price": 106.25,
-      "change": -0.65,
-      "changePercent": -0.608
+      "change": -1.45,
+      "changePercent": -1.3463
     },
     "00878": {
       "price": 34.2,
-      "change": -0.03,
-      "changePercent": -0.0876
+      "change": 0.2,
+      "changePercent": 0.5882
     },
     "00919": {
       "price": 32.74,
-      "change": -0.15,
-      "changePercent": -0.4561
+      "change": 0.26,
+      "changePercent": 0.8005
     }
   },
   "us": {
     "NVDA": {
-      "price": 212.28,
-      "change": 1.32,
-      "changePercent": 0.6257
+      "price": 212.055,
+      "change": 1.095,
+      "changePercent": 0.5191
     },
     "AAPL": {
-      "price": 329.13,
-      "change": -3.95,
-      "changePercent": -1.1859
+      "price": 330.41,
+      "change": -2.67,
+      "changePercent": -0.8016
     },
     "TSLA": {
-      "price": 359.8,
-      "change": 0.83,
-      "changePercent": 0.2312
+      "price": 357.325,
+      "change": -1.645,
+      "changePercent": -0.4583
     },
     "QQQ": {
-      "price": 705.3,
-      "change": -3.88,
-      "changePercent": -0.5471
+      "price": 704.805,
+      "change": -4.375,
+      "changePercent": -0.6169
     },
     "SPY": {
-      "price": 756.895,
-      "change": -3.985,
-      "changePercent": -0.5237
+      "price": 757.53,
+      "change": -3.35,
+      "changePercent": -0.4403
     },
     "SCHD": {
-      "price": 34.285,
-      "change": -0.055,
-      "changePercent": -0.1602
+      "price": 34.405,
+      "change": 0.065,
+      "changePercent": 0.1893
     },
     "VOO": {
-      "price": 695.785,
-      "change": -3.515,
-      "changePercent": -0.5026
+      "price": 696.375,
+      "change": -2.925,
+      "changePercent": -0.4183
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76008.89,
-      "change": -2154.4928,
-      "changePercent": -2.7564
+      "price": 75873.11,
+      "change": -2290.2728,
+      "changePercent": -2.9301
     },
     "ETH": {
-      "price": 2410.82,
-      "change": -103.587,
-      "changePercent": -4.1197
+      "price": 2400.53,
+      "change": -113.877,
+      "changePercent": -4.529
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.846,
-      "change": 0.1698,
-      "changePercent": 0.536
+      "price": 31.83,
+      "change": 0.1538,
+      "changePercent": 0.4855
     },
     "JPYTWD": {
-      "price": 0.2031,
-      "change": -0.0031,
-      "changePercent": -1.4943
+      "price": 0.203,
+      "change": -0.0032,
+      "changePercent": -1.5428
     },
     "EURTWD": {
-      "price": 36.799,
-      "change": 0.0815,
-      "changePercent": 0.2219
+      "price": 36.783,
+      "change": 0.0655,
+      "changePercent": 0.1784
     },
     "CNYTWD": {
-      "price": 4.7494,
+      "price": 4.7472,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4318.5,
-    "twd": 4422.0,
-    "tael": 165810.0,
-    "twdTotal": 137527.0,
-    "changePercent": -0.7675
+    "usd": 4349.2,
+    "twd": 4451.0,
+    "tael": 166905.0,
+    "twdTotal": 138435.0,
+    "changePercent": -0.062
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tV1REMGMwVnpCaHRDWDNtX3R3TFhWNXZYdlhBVkdVcGdmMVRkcGpRMHl4ZkZILTkxTy1UR0EzU0tLSm1VTkNfd05WZlN0MUlt?oc=5"
     },
     {
-      "title": "1000枚比特幣從未知錢包轉入Coinbase，價值約7637萬美元 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4cks2NHVyV1RYQzByWTBpZ1N3MDR2V21oRm9NVGt1Q0txeHhBa2duT0ZjS3hpQ1d0amw5SS1GUTNKb1QwY3B5ZUt3VQ?oc=5"
+      "title": "經濟學家示警美股最慘恐崩72％！變盤時間曝 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOS1Exc0dVVkd5QXZ4Q2pPdC1fR09GVHVjVUR0b3VwRGlMeklfaVhmVWhYM29xb1ZjNVgwcTZqM2VXVGZXX2NxNFI1cjBPQ0N4aXhBYUtUWEVaMDdGM0ZRbUNvWG43QldPLU53U1VfV0RsaEpWbFpDZmRMUkhPV1RTMzBlc21KMVVFNFFvdW93dVpMOU1peTk1Zlppem5pWGNtcWRXQzdaMm1fVHJMVFE0bnZ1RUh2Wk1BZ2hnN01RQ1pucjVCRzU4Vnd6NXBDNHNLbUt0ekZaRDBYRGNVVEZwZXAxaWJvQTQwZldkVkl3bWlvUURuYzVPUzJORmt3cTZ4WUpwR2gxTE1DR1JydlExb2ZWNWxya3IxaG9GZ0N1WVZxZFU?oc=5"
     },
     {
       "title": "黃金跌了！寫1低點紀錄 背後原因曝光 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CeWVsQ0R4VnJaMXU4NmtYUC1xRkNmODh3TW1kSUI0dEN4R1AyWGdpdjU5Q1RpSzVWX0twTkxMUkpYZ0pIZmNEYXlSNGN0R3lobnpIaDdmdU05VFhVNEVr0gFkQVVfeXFMT1BPVWNaamQ5QWtJb2JuQ1hGbTlaZnd4a2FLbWdLLW9IRUtkYVdyaXBLWW90OXJJbXRHd1FqWWFZYU5QM3MxUHVySjhOcllVNjY5SElhM0VhYzZ1OTF6R2VFNDlUdg?oc=5"
     },
     {
-      "title": "美股亮出155年來僅現兩次的警訊！席勒本益比快追上網路泡沫時期股票抱長線先看懂指標｜看圖說股市 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxPX2Jwemx1YmEtNF9JYkZ5NDVkTTdJcWFvMlJtYVBjYXRkdVc5MjJNZk1QazlCUGtXNWZSVDJ4WHo4QWk5anpXeE1MUWNRYVg1ZUw1dnhDSjhCRnlmNnlOWTFZdnpQZC0wb0NmczlvRDlMYTBtNVNONk5sbmdDeTlFTnNwRVZEN0NwTnQ5ZzY2T2EzcEEwc1g4bThfUFpJcXVVWjlYZnRfT09TNXNEalZMRk5RM19Rc01VYWI3d05DR1FJZUEtdmd4b2MyYk9ndEJQNnRaR3pjbVlNcjBGYUlZOFQ2WTl6QllmTmo1V1R0MzVSYVhQaFNLTXNfMzN3WGkycFg0bE9NRnZWUExxWDJlb3ozYW5rOXZLVHNHMkpYYlNlLTNFYmloa19TMExEeTdoVWo3UVc1clZSaDF1NW9mUG5aNndiQXNSbTUyeVNJQndCcUE0SmxvQzJRaENlQ3pVSHExUkNoLXVSalhSUVk2RkJoZFd0eVBma1I5SHJJMDluWVBvVFFBZEY5MFpTbHRoUUxVeE5LS1VPOVp5b3pkdEdmdlQ0TlZYZlkwRmhKOVR6dTNSMFRaUGlJWkR6YVI1akRwLWRwd3BzRVBWOGhTSnFjUXpNSVFvOThHRXQxVVgtZmhsenhFR21YTTZWYmhoZTZqd2JyY0dhVE1RcUl2RmV2c0RRVzZKQmRsZU0zanVQdDZ2TWJQbDQtc3c3ZGo0eG5rZmpxUHY5ZDMxMkJNZ3EyWnB1UnRveGMtREJuWjlTNnRyVEluWENIS09KdndmMDM0azlwd2tHUHdqWjZhekYwdGU1VmFwbnIxXzlVNE8?oc=5"
+      "title": "幣圈突然遭遇「雙殺」！比特幣跌超3%，關鍵法案突然受阻、92%加息概率同時壓頂 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zci1Jd19CWXZLV3ZhdkY1RzBnbjM3bEUwMTlmcTU3cGVBMjVpbGh6SDhxQXY3bGZlY3gyN3BmVHdIcW9naFRXYXh5ZXAwem56QVZlUk9fSHRiQkR6NnVNUGdrMGU?oc=5"
     },
     {
-      "title": "「清晰法案」表決前夕 比特幣失守77,000美元 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPUV9sU0VqQ0l0X1ByX0MwbVNpeUFFUkVWeEExOGQ5aGVjTERrS3BCbV9iT29IN08wSU9CX0NwS0haam1OZnMtYm1sTjJ0cmtLSW9xQ04zYmRQbWR1SWU0?oc=5"
-    },
-    {
-      "title": "美股異動丨比特幣跌超2%，加密貨幣概念股盤初下挫 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FdFVSYi1qTklsZHFPOFpHYVh6Q1ZoWEllQk4zU29wbEFpeHBIbGFiNVVLN0VlUVFQZFRGRFdKeG1qU0tibUpSbm1vQXdIdDRBRW52OG5IMVB6UWpHNDJRc0ZFRWlWRjg0T3c?oc=5"
-    },
-    {
-      "title": "某巨鯨高位做多比特幣，浮虧142萬美元 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyWkJmM2J6Z2NsR2NiR1Ewc25ieC1pNGNLTXNXX0tTTHl0R1haYTQxM0QtUHBPdFVmQWlZXzI0OWk3ZUVfcmxpQ1ozQQ?oc=5"
+      "title": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51SXRMV1Y5ZG1qc3B5dE1TZ21zMTlnUVM5N1ZHb3JpRTA1a0ZvNVQwRjJCTXBiVVdzV3lBN2l0c01CQmNLa2d5QXdhN3VpaFk?oc=5"
     },
     {
       "title": "台股一反彈！20家券商前8月稅後年增率都破100％ 最強翻20倍 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPcDdHc0tGaFVCWWtNRkh1Rkl5NUxTaFpaTFJ0a3h5bjlKS3lMSlpSdVJ1MjBBUlhpQnV3REJQY25aQW5kYk16QXZVU0pPc0RCTUs1a3UzNXNOWl95Q25JeHdoVFQ3QVFlM3BnWFNvb0RnVVpVbmk4Mk5vNlVRNS04cW1ydEEyMHR3SGlaVTdBN3VVMXp2MklMa1hzRVhnQ2FpeHRsdGtWVFNMY3FEb3VyTWZud19taml2dl9RVVZPeWxMS2VWTlVnZ3JpWTRxMmNXQW1qSlFXYXUya0dIRzFzVVZDYjVvSHZJY3ZwcnRoNE9HN3VWV3RqWDBYRGZ2WEQ0bUN2ZTIxYlVCdnpwTHc1aGJfOE5zYXIwMGlubmhtU1RMMDJVWnVRZUNfQUMtSlRTZFFNbU13aUdnSEdVdGpPY1J5UUJ1WTJxYnRjOVZkeWN5UjdLNTdHMENROG56THJOTjluMUZMdWRnWlEwcDVhamxVYkN1TDJFelRJ?oc=5"
+    },
+    {
+      "title": "台股儀表板 守護市場 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnWU5mVUZrVndoZktraFZWX0lVZFlINWlwVnQ1bVhDRWxVbWt6VUtEdjI4Wmo2ZlVlVGlaRzctN1NmUnZrWWFKMFZFTzhjWTYzM013ZVdtaGZrQdIBX0FVX3lxTE5BTXgwTEtMUXBNQ3oxSGs3R1dBN28yTHlqSFFlYVdHU3prbm5LTEoxWlpNNUo5Z2w0T3VESEgxWnhnQXdxclVycV9PSHJmcTR6WnpycHFYc2FGUWJUbVVV?oc=5"
+    },
+    {
+      "title": "經濟學家警告美股恐暴跌72%！點美股「4階段」走勢預測：先瘋漲、再崩跌 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYeGU2UEQ4RGlEQTBtb1RzSlFBR3MtUU5rUm9HS3lKamZzZF9KUkp5QjFFTGRUa2dQY1RFeTRPYTNrb2FyRno1Y2NOOTVOdlE?oc=5"
     }
   ]
 }
