@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/17 07:51",
+  "updated_tw": "09/17 11:35",
   "taiwan": {
     "2330": {
-      "price": 2380.0,
-      "change": -5.0,
-      "changePercent": -0.2096
+      "price": 2430.0,
+      "change": 50.0,
+      "changePercent": 2.1008
     },
     "2454": {
-      "price": 4530.0,
-      "change": 100.0,
-      "changePercent": 2.2573
+      "price": 4595.0,
+      "change": 65.0,
+      "changePercent": 1.4349
     },
     "2317": {
-      "price": 248.0,
-      "change": 1.5,
-      "changePercent": 0.6085
+      "price": 252.0,
+      "change": 4.0,
+      "changePercent": 1.6129
     },
     "0050": {
-      "price": 106.9,
-      "change": -0.0,
-      "changePercent": -0.0
+      "price": 108.3,
+      "change": 2.05,
+      "changePercent": 1.9294
     },
     "00878": {
-      "price": 34.47,
-      "change": 0.24,
-      "changePercent": 0.7011
+      "price": 34.79,
+      "change": 0.59,
+      "changePercent": 1.7251
     },
     "00919": {
-      "price": 31.99,
-      "change": -0.9,
-      "changePercent": -2.7364
+      "price": 32.24,
+      "change": -0.5,
+      "changePercent": -1.5272
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76190.6,
-      "change": 578.0922,
-      "changePercent": 0.7645
+      "price": 76432.91,
+      "change": 820.4022,
+      "changePercent": 1.085
     },
     "ETH": {
-      "price": 2418.7,
-      "change": 19.6131,
-      "changePercent": 0.8175
+      "price": 2435.32,
+      "change": 36.2331,
+      "changePercent": 1.5103
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.832,
-      "change": 0.0586,
-      "changePercent": 0.1844
+      "price": 31.888,
+      "change": 0.1146,
+      "changePercent": 0.3607
     },
     "JPYTWD": {
-      "price": 0.2017,
-      "change": -0.0029,
-      "changePercent": -1.4294
+      "price": 0.2022,
+      "change": -0.0024,
+      "changePercent": -1.1851
     },
     "EURTWD": {
-      "price": 36.554,
-      "change": -0.1045,
-      "changePercent": -0.2851
+      "price": 36.596,
+      "change": -0.0625,
+      "changePercent": -0.1705
     },
     "CNYTWD": {
-      "price": 4.7494,
+      "price": 4.7612,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4308.3,
-    "twd": 4409.0,
-    "tael": 165345.0,
-    "twdTotal": 137142.0,
-    "changePercent": -0.5654
+    "usd": 4323.6,
+    "twd": 4433.0,
+    "tael": 166225.0,
+    "twdTotal": 137871.0,
+    "changePercent": -1.4564
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,24 +117,20 @@
   },
   "news": [
     {
-      "title": "〈美股盤後〉Fed三年來首度升息！道瓊急瀉超630點 標普寫逾一個月低點 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVVNRNURpLWszOHBzaHJLQ0pnejE5a3VkTHlBeGYtM0Fra05mcjZ6TElvRlhKQjBYZHpuRmR1LUhCMF9FaFFUY3NzU1VvOFU?oc=5"
+      "title": "聯準會升息…台股反大漲900點？專家揭關鍵：留意「它」 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZWh4RmlSZ2lHam5LVEFDUkpVYnJyNkJMeV9LalRwZzFWTnY2bk1pLUFYM1pkY0NOT3N3M3FJTnFjbkNRLXh3QU1zSVZnbk5BMFhrcEtnQUpxMXJZREMzZmttWmtCZmdZRTZoWHp6OG9NVllUV1k2T2ZUM2k4czBFVUFOYm5vUWtBcVVXQy14c05XZEwzOG9PV0tJQ1ZCVU96Q2RSYUU3ZEhGbFZocFVDdkdUZ2QxVkhUN2MtaDVYUV9DcFdkd1h5VWNJM0FHNUpqSDlONUZFSEFwVllSbEowb3AtVnBDc0VVQm9kYXVRcXlwUXh3OUthVWIteTYyaGN4NjRGYTNIWUpaLTNza3JRRHdBZ2V4X2FIVjY1TFVtZDN6azBlQ1I1NG9ZcmthbllJT1dNYVcyc0lQZEd5NlJZaU9MZ09YM1Bh?oc=5"
     },
     {
       "title": "美股早盤／靜候Fed決策…費半續揚英特爾與SK海力士衝高| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ra2VQWFZPNnl0UUw0ZTFQX05RRnlEV1NOcDRRLVN5dTNUMm5mQWJwQVVLVUpIeHFON3hlWFRkY3pKVFJhY204QmhhRXhmUEJY?oc=5"
     },
     {
-      "title": "《強勢美股特報》MTZ,SN,OLLI等3檔 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UNmVVVWc2MDVWbFdscGdtTFcxMDNaY0ttN2Q3Wk1YUlM4SEVnMlBkY19NSmh3aVF0TGVzU3VBRXU5QW1wVVhjNmdZTE1BOHU1X2YtaktSMkw?oc=5"
+      "title": "〈美股盤後〉Fed三年來首度升息！道瓊急瀉超630點 標普寫逾一個月低點 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVVNRNURpLWszOHBzaHJLQ0pnejE5a3VkTHlBeGYtM0Fra05mcjZ6TElvRlhKQjBYZHpuRmR1LUhCMF9FaFFUY3NzU1VvOFU?oc=5"
     },
     {
       "title": "Fed升息一碼！美股大跌631點　台指期夜盤逆勢漲322點 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qWVp4dklsdTJ1d1ZSNVVPN25aUjkwbHM3aWZnbC1xR1NoQ3dEUkR3VE9DRWVNQkw5UTcxdXVQQW9OVU5ITDlVbzlpVGkzZmlrMHfSAVBBVV95cUxPcl81WlU4MU1CX2ZVRm9qb0hvcDBzSlBYREhOMksxZWNZYWhpckwtd1pPQ1JUcWtsbUgxbkIyRFlVS3AwWVNMcFdMTGJnQ2VWTQ?oc=5"
-    },
-    {
-      "title": "市場等待聯準會公布利率決策 美股主要指數開盤走高 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNRjhaU0FxcHZ6cWo4WHpoQjdON2YwTFJkN2VrNUNBVEFqT01VX1ZVeVZQeGgwV2ljeHNwNTlWbE04VlBHd3o0M0hnVTBmUVVyLS02UzYxelRDNTIwNHNzbnpOSURHa1pzNURKNVhiLXl6QnMwNmpseG0zVmJnOTBMMTZ3OEJUM1Z0OWxldUVrWWdFa0NFWnd6czZwYmRKTFZIeEpZeGhIbFR5Z3NkU1RuVWxsRHdEUGJrSV90bmdFSmIzRGlYNFJOSEh5Z1J5N0ZKS2FUc25kMUgySGdTWUhJQlFnUHVCeF9XTmFBUzc2YjFBMS0yT2xBS2dmVzQyQUx4Z2xlaWpLdE84RUR2ZVAyYWFRdkFHeEhUcUtYS0dKTDNNLXdNa2lzSHpoTDN0aHp1NXh5aFN2VFNkM2U4elJ3ZkpQcTZyWnZhUGdtRTNwVC1VcXNoM0hNeDhWeU5RTW9TeTBKUEpxWndKVkp2dTVHQQ?oc=5"
     },
     {
       "title": "黃金也在「逃離美國」？ - 日經中文網",
@@ -145,8 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNU1haNDlha01jVVRhU3NnNWpuVTNfZFhOSXVxR3hITEU0dE1xUWVrN19ZVVZYN3hVRXFYMUdRdEg2XzdPb1lNcWdCTXQySFFLMGdhSWgwU0ZDckhmMElWaGQ1V1ZVWVFMdFc4OWk0WDVyaTJvTDdMaVpjTTItcVFkM3JUVmNidWh1a3ZLTURSZUQ2U0JlWUhndTFPZGFDdy1KS3dLZUxsNnpYYURqOHBEUzVkYU1Ud0t2VEh2eDNVZzktTWJ4Y1BUT2N1MXNGTGlrOXFyWjI0WmZ4WXBNWnY1allUQnNFc3RXSnV6YlRTTURYNjJCR3pXMGI2UGwyaXZOSXZBMjdoSlFlU1hmeUZBVDVBNnJpVGdkdzdfU09ISkpsUWE1c3dHZXp2RHdBeEJCeUVPVmRmQWdiYWJpRDFYTHNLSlV2VXdxVENMVlExd1RaWmUtWGltRk9CUS1QNjh4eTBiMDdWWHpJM0FHLW1tbmNJVDRoMEhrUm12djBRSjNKU19SSng1eGt0eHUxNjB5TWVBclJhOXVMLUdCSEFpTlZPZ0RiMEdlSHpHWkF2MG51NFNFdVdQUmp4WDZJcERXbW5fUTl4S1NVYktNbzh4VDVReXJsRzdHMDdvVFRLWnJjUFZCMm93?oc=5"
     },
     {
-      "title": "《貴金屬》升息擔憂COMEX黃金電子盤翻跌- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWktlaXNWWGRSOS1vNDN2anlxQ2ZVd3JJc2ExYjZTWjJUMkI1WUZkZk1GYm9sbXoxQ3dsSFVpVXUyNWRJc2FhVFFBWHhydVZkYml2Y1drZUIyLUozVTk1VnRDZWZEbkZBRjBwT2YwVk0wTFBrMzN0M2Y5bUlsMzNRTW9aaXgxS3p0TVFfZ0xtUjc2UQ?oc=5"
+      "title": "印度8月黃金進口大減58% 白銀進口激增127% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWwtb3YxQ3E4cFVlRGlZN3FfakhkY0dpalZSRllVdjBNRUwwcFVNNVp1NUxRTS02MThVLUJNbEo2UVRzY0I4cm1tSXRNQUlMdUhkekItckhUX0Z0d1hFMFdJV2VmODlta1hZY2tlUnQyUnpGbUtEd2hZLThHeUducW5zT1V6ck9hTDllTFBIeFZRdw?oc=5"
+    },
+    {
+      "title": "黃金大跌！關鍵原因曝光 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NS05MSFBhX25rZ2F5emJxdm51NG9sUmFLbXFoQngwRWxVcXVyNS1aMjBtQjQ2NW9GM3l2S0VURmdIVE5NVi1hcmN5aG5KSXJxQjhKZnZFWDNtLTZQQklr0gFkQVVfeXFMTUl3X3JNMVBFT1BBRWNqa1NmN1dDOW0xcmRfQ1JjLWNqaGJpemp1MXlBVXZUaUVMVVRDRXc2WC12SkYzOTlyYnZsNnVzeWVlU1daNm10c2RzcUlYenRKMjlvcHkxTw?oc=5"
     }
   ]
 }
