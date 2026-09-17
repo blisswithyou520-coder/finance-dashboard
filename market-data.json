@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/18 05:26",
+  "updated_tw": "09/18 07:36",
   "taiwan": {
     "2330": {
       "price": 2425.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 108.05,
-      "change": 1.15,
-      "changePercent": 1.0758
+      "change": 1.8,
+      "changePercent": 1.6941
     },
     "00878": {
       "price": 34.73,
-      "change": 0.5,
-      "changePercent": 1.4607
+      "change": 0.53,
+      "changePercent": 1.5497
     },
     "00919": {
       "price": 32.11,
-      "change": -0.78,
-      "changePercent": -2.3715
+      "change": -0.63,
+      "changePercent": -1.9243
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76506.28,
-      "change": 355.9597,
-      "changePercent": 0.4674
+      "price": 76323.01,
+      "change": 172.6897,
+      "changePercent": 0.2268
     },
     "ETH": {
-      "price": 2450.32,
-      "change": 34.2001,
-      "changePercent": 1.4155
+      "price": 2445.37,
+      "change": 29.2501,
+      "changePercent": 1.2106
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.854,
-      "change": -0.0056,
-      "changePercent": -0.0176
+      "price": 31.847,
+      "change": -0.0126,
+      "changePercent": -0.0395
     },
     "JPYTWD": {
-      "price": 0.202,
-      "change": -0.0022,
-      "changePercent": -1.0749
+      "price": 0.2019,
+      "change": -0.0023,
+      "changePercent": -1.1239
     },
     "EURTWD": {
-      "price": 36.608,
-      "change": 0.0663,
-      "changePercent": 0.1815
+      "price": 36.594,
+      "change": 0.0523,
+      "changePercent": 0.1432
     },
     "CNYTWD": {
-      "price": 4.756,
+      "price": 4.7532,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4380.6,
-    "twd": 4486.0,
-    "tael": 168236.0,
-    "twdTotal": 139540.0,
-    "changePercent": -0.1573
+    "usd": 4383.1,
+    "twd": 4488.0,
+    "tael": 168295.0,
+    "twdTotal": 139589.0,
+    "changePercent": -0.1003
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "升息利空變利多？通膨疑慮降溫、美股4大指數全面反彈 英特爾大漲近8% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNbVFmcXJHWi1DNnl4elNQbDhKXzE0cXo2X0I5cnVEX0VHc3hlTm52UWVmWnZpT2tHTmVNQ2FYdWt2TUVzQ05FNUdGdS1ROFdPdXQwUUVfUnllUkNacXYtVXFLdmZIeUxnVmtBQ2RqYm01MUcxbUFxSUlDUnpLUnBuUXAyT0I3bWVhOEJCWWlBc0t2V2NGcmQ0RGJueHp6enJmSWlaOE1TNFNIeS1Da1pSRm1TVFZic1VFb0drMUtmQ2ppVVFjenQ4UjFfU3B6bjBIVnpVYTNjUGZWbjNUaVdCT210ZjN2S0lsZjQxVnEtcnU1RENUbURxdWFaWE5zMGl0WnlxbmtCM0RHMXNUd3B3aV91TTg1UVdsR09ycHVTb3BCc19DXzRfRDFoWXVReTA0bUhGc1N0UVJUcERZSVdWb3dZMjJqYkVKUUZWY1NHUzNTazNaVnBwcGx6ZFlqakhQZlRnWWsydmR2V3Y3alpQYm9LUFdoM2tyV2ZPMExlbTJkdTJLa0V2OFBtWnRETVg1X09TMHp4U21RUWsxZy0yanNqNEY2TDRpOVFyR1RTal9xUQ?oc=5"
+      "title": "創6週來最佳單日表現！美股4大指數全收紅 那指漲439點、費半漲3.14% - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQTzg2WnlQZ3FqYU5SUmU5eUZrTXcxdWNiYVhZaFkxdXk1WUdBR3J2V0NJNUxhUzFsbDFNQjM1NHdHcHBnV3lKZXFGcU05bHREWW1sZF9nZWZ1YlNnN280ZWhJb0NKaG81X1NwSW9CTHZ3ZFVjcUNYSkRtZ1BWMUNXT3Y4Nk5VRURqUHZNbnBFanptc2hwbm1UQnRWOEU4S1hEa3JjVnEyaFBYUWVZN0RTS0FJT05zV3ZmMVRndGFXcks1anRwbXVsZ1FvN0ZmMGZNOWtnd1VCWFBuRVlPdUppZU5MMHlJbTJtdlNtYmF2Mk1MSFFSOFBZZ3djdkNzTExMMnd0MHozQUNYRENZZmZDLXlhd1R0R2ZYRFd6b1hhUEtjclM4XzMyVWNRemljdFlnQ2VielFwaWRPV0RLRVdpVUNXRklFVXhCeWtWTFIyc1h6WU45dVdKaUxvM2RONXNhZVNGekd0NWdDeXpVQTdnTWpIdDhDT1JjVHFEekFlQl9nRUU?oc=5"
     },
     {
-      "title": "美股早盤／油價跌、Fed升息隔天股債齊揚 費半噴逾3％ - udn.com",
+      "title": "〈美股盤後〉油價、美債殖利率「雙降」 那指漲近1.7% 費半強升超3% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IV3BndE8wX19iRlBfZWJyVDhEVGk1QUNaYlZHYmN1R2RfakotLUpTWWZ2WlI2ZElIUDBJNzlldzFtQXBaRkxoSC13WHlOZVE?oc=5"
+    },
+    {
+      "title": "2026年9月台美股行事曆｜聯準會升息機率近九成 (本週FOMC會議)？！ 季底作帳碰上中秋連假會變盤嗎？ - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxNak9Cb2gtcGRhX1VXUmNMRmduZGE5RldUWFViLV9DZnY3Qm9Zb1hCbGVsc2lBSmxSWHZXNmozeHBGT2ZjRkNRWVJwcHd0TUdJWGtON01hSUFzcUtPSEQ4OFVIOUk4LUpBOUpXQmdHN3BLQmg5NDNCNkgxNnlJUENWVmtMNVJwYlNac09VT1Q4M1FNd3lsVy1LTm1WWUxXZnVGbXV1RC10YzFLM2p0MlJidko4Vi1HU3BHQlJ6VkwwdGpPem14YmxjcWVhd3dadzhwRDA4RThHOWlCd1JvVHJQTW1ycFRoYUFhYU8yQm1LY1MtM2xwU2h6WXpjamlCVjZNMU1ITE16RTktWE9JREs2dVFKOHVJbWozaE91ZW1TZ1RDQm5GbjJJWTdEV1FXdm5lN1ZhZ0IyQ1F4OW1kUzZMRmN5cjN5R0JYaldaQ1JVRmJNVldCMUR3Y181bHAzTV9jcmJVMjF0Ump6VFFtLVRveVpQQnlpZTJCNUpMWWJLeGVxRU83X1F1TjdMMm1lOEVfZXNZV1ZRbG4xVXVmLXdCejlTMnZPT2NYTlZ5TmZPaUVmdWFJRWdIOU0yVG9USXl1MnZCVmU4eEJiUkxMcGZaRUtUNUJRTXk2Sm9kb2VJdmpUSHBlbFp0bThDX1VhYlltX1RnUlJDQkZJdU9NTHhKSHpmZEZTVHRsTWc0RUhydDdDYm1uRDQyV2sxbnkxdlhTa2xHeF9kVzZJWUJsaTdzT1ZWaHpWQ2dyQi1BMTFLMUtzTms?oc=5"
+    },
+    {
+      "title": "美股收盤》科技股領軍！費半勁揚3.14％ 台積電ADR大漲3％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVN3dRSkhlSkVuYkZYa1BXZDNFX3ptX2tSWDBXNUx5OFZjdTlCY0ZsalM1c0ppMFYwblltNHphOUtOMm1VdmlXdE95YXN4QU51MXMxZXNaM2hlR3pOWE5z0gFkQVVfeXFMTkVocE5vaDJocVRGMHd2TFNUN0ZKaUFFRm1CYXBzSXFGa0FZWTl3T2sxMjR4QlZkbkRKSmRJeTVTSFNoYnd0RHV6VUhPeVJpZWIyYlA1dGVSWVJzejdEVUI0bVM1Vw?oc=5"
+    },
+    {
+      "title": "美股早盤／油價跌、Fed升息隔天股債齊揚 費半噴逾3％ - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WZTZycy16X0NyUVNkY3lqMDhtcF90MDBWR2hqdFRqQm1aZFpySkJidjZ6eHhSbkZNcmxxLXJDNEVzV1hZa09mRFFkWG1lNVFG?oc=5"
-    },
-    {
-      "title": "明天會漲？美股喜洋洋 台指期夜盤暴漲600多點、重返4萬7 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JMnhncHY5b1I5WFFKbzVBSkpyVWJEXzlTZU1XMXotRVpoYVRDalNDeUlrN2pZTi1TWVFQQmUxekR6LTJrWDU3ZlVkYTRibENvVVlTU08zeHdJNExhNzBv0gFkQVVfeXFMTkR3S1ZTOE50RWhkX1RfNEpicDdDdFJVc2lyZk5DcmNMMlFXZDhycURLRnctNEtoUFhzZEpPNFpvZzBpYkJLd29yMVdfMUxJVkE5TXpTcDh1M2hBWWFiWF9zbkxjNg?oc=5"
-    },
-    {
-      "title": "【0915台股盤後】美科技股回檔震盪，外資賣超約略627億元，台股回測45,511點，安控與軟體資安逆勢突圍 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMitwVBVV95cUxNSC1GNkc2d2xSa2d4YlJxMkx3VWIxa1NmMkluc05pSFRJNnY4ZXl3MXpON25UWVZDUm1jdXBoS2U0Z19YTmpPb1lsRERSMkVUVTBsNlVLcTNad2lVUVFKN2FKYVEtSld6cjdXSm1MS21ONVpQYVZZS1dFLVNCZ1A2RXdwV3hzZDRWVmFhdmlnN2R0eGhRYWlCY29rV29PODc1Y2U2UE1lcXllLXlYYl96Ulp4WGlFTEtabW1VUGlFeDR3VmhsY2FlaDNoZHNlVXlidzN4WFZxZV9aazJQeUJsem1XbWFLbjBqQjdoRkRMSmoycWF0REU5bC1kYmF1OXg2aTJSRUJ6Yl9XaGxoZEtfZEk0YS1mLXF4QTZxaUJzWlJxb25pOUtGOE1lR1pLekxHdlJDdzJzVWNkaGZ0LUJxTW1ZVWdJSlpXbV8zY0JhVkpyOUI2c1J6U0NHN0h3eUFrdVJIcDZCdGtZWlhUT1B1elRiZ2p5WGE4bmV1QlAtTWNqSHZiUDdLNWZvblBzSmRfal9pSEJOTTU2SzVXVkxWWGsxVXdUQzFJLTNGbzBoUXNlUndjSzYtU1hQZ042Vk1PVWJINXNLaGpFOHV5by1oSTZ6N2M3dkxWRV9nNWpyZ2phbm9qRVgxaElCMVZXTm5IOGVKWDdmVmtTX21GSURmV2dYWl9sUkVyYWpMVU0xTXdZY3F3NE1SUzluaXVEb3RHc0xJZ3hBVTRDSW9VdkdRZzdpU1I5OEhaNkMtSFphLVJwMGwwbW50X21MQ254eUZ1QlZoQlhCc0NiZXFXNWtIZzNjYmpzSUczdWxMYmlIbENTbTlRU0VCSW1sMzNGOThGWUhyX0RxR3ZhUEs5eXl5SU5IQnFBS3BPb3F2QXU3R2hjREpPQ0FwWTh2QzVjNEY3VHBzUkpGRQ?oc=5"
-    },
-    {
-      "title": "美股重演網際網路泡沫警訊？巴菲特給投資人的重磅警告 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTMXQ0UkVfUDZMVWl0MXNrY3RxazNjZ3k5Tnpac3p1LTNtd3RnVHFLNHVldU1YMUhDM0Z0MWNoVXZKM25xR1oxbU5PcWxNalk?oc=5"
     },
     {
       "title": "比特幣不再是唯一主角！73%機構計劃加倉 下一輪機會藏在哪 - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fVTRrU2tfY0luMk9GYmZCQUpMQ0kwemtwNExaRXB2LUZfNXB4azBteGVNWkxhTUxFc2R5QTd2YnFzc05YVEc3QmZya1lQd3FBdUE1VlhJcDFJRGpHeFRsNi1TVks?oc=5"
     },
     {
-      "title": "Fed升息美股重挫別慌通常好事會在後頭| 全球財經| 全球 - udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4Y2hlSXd0ellQcFdZZ3JwQXFtWGt3VGJ5VVJ3cXZzZ0plZHNzaVhYbzhEVkc4dFhJLWNsNkdScHFWMDYyU1ZyVThEOEx1cVVh?oc=5"
+      "title": "升息利空變利多？通膨疑慮降溫、美股4大指數全面反彈 英特爾大漲近8% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNbVFmcXJHWi1DNnl4elNQbDhKXzE0cXo2X0I5cnVEX0VHc3hlTm52UWVmWnZpT2tHTmVNQ2FYdWt2TUVzQ05FNUdGdS1ROFdPdXQwUUVfUnllUkNacXYtVXFLdmZIeUxnVmtBQ2RqYm01MUcxbUFxSUlDUnpLUnBuUXAyT0I3bWVhOEJCWWlBc0t2V2NGcmQ0RGJueHp6enJmSWlaOE1TNFNIeS1Da1pSRm1TVFZic1VFb0drMUtmQ2ppVVFjenQ4UjFfU3B6bjBIVnpVYTNjUGZWbjNUaVdCT210ZjN2S0lsZjQxVnEtcnU1RENUbURxdWFaWE5zMGl0WnlxbmtCM0RHMXNUd3B3aV91TTg1UVdsR09ycHVTb3BCc19DXzRfRDFoWXVReTA0bUhGc1N0UVJUcERZSVdWb3dZMjJqYkVKUUZWY1NHUzNTazNaVnBwcGx6ZFlqakhQZlRnWWsydmR2V3Y3alpQYm9LUFdoM2tyV2ZPMExlbTJkdTJLa0V2OFBtWnRETVg1X09TMHp4U21RUWsxZy0yanNqNEY2TDRpOVFyR1RTal9xUQ?oc=5"
     },
     {
-      "title": "【台股盤前0917】FOMC 前夕台股強彈 337 點！聯發科、南亞科領軍回神，法人目標價鎖定聯亞、嘉基、瀚宇博 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxPWi1zY2NESGJRWThtWkhvSTNzd3NMeEFNbTI5dU9qMTduXzFyNGtTS3dsLWtMR0hOVVFsbG5IdHM1VVZUdENpV0Y4NVczekZVTzB2c1cwNS1rX25UdGxKVkFGVUc5LWljNEQ5OWhLVUVQRU1fVXdTdjVId3pKMnFIMGZLSEk4Y1BlcFRsQWlkRFpGZnE2ZmJsc2p6aXBNUXFJcXoxd1pwTTVZMi0zQVd6a25zNnJ2UVphaXI5SlZJc1ozdXdvd1pwem9rd3FaZkRlbmVkTnRncTJSRjBhVGpQdE5OS0tHcEhDY0dvck94anlwelJpSWVOVjM2UXNLNTJFVTJfcU9RMk9xYTFuSjZfV1lEMXY2RFpZRVBBTU9EeDNhanlOQk5fMEZJSTFsS0FuYlNMaFVDNDgyNndWalFVbnU0d3lGSDVHVGdCS3NWZGM2amxDUXNzU0xvazVFTVVvOHlGNW0tQWtOWlQwN1NweWNEcjJmSUM2WnBacHdERzRCdHZnLVBrZk0xNDdfbm1JQ0hFNXVaVjRpX0tveVZBdEptSkdpcEV6UkZWNk11Ujg5bmtSRUJkcG0xZEVBcHd1NElIUE9YcDlKV21scS1CQnhYeUtraDNLbk14ZnlGY1NIWXM4VGh1a0NJR1FtVm1pcWZPX3JNdjM0eFpkTFF5N21mOXFQYnV2dHlaNWVJNW9NNkI0QXExeW1feVlSZ2VYckZqMG53WWhWTG4tdDl2MVUwYlRCWFl0Nk9hcWtJSm84QQ?oc=5"
+      "title": "Fed升息美股重挫別慌通常好事會在後頭| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4Y2hlSXd0ellQcFdZZ3JwQXFtWGt3VGJ5VVJ3cXZzZ0plZHNzaVhYbzhEVkc4dFhJLWNsNkdScHFWMDYyU1ZyVThEOEx1cVVh?oc=5"
     }
   ]
 }
