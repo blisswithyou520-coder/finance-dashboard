@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/18 14:40",
+  "updated_tw": "09/18 19:50",
   "taiwan": {
     "2330": {
       "price": 2460.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77495.82,
-      "change": 1345.4997,
-      "changePercent": 1.7669
+      "price": 77962.82,
+      "change": 1559.0466,
+      "changePercent": 2.0405
     },
     "ETH": {
-      "price": 2482.53,
-      "change": 66.4101,
-      "changePercent": 2.7486
+      "price": 2505.32,
+      "change": 58.2133,
+      "changePercent": 2.3789
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.796,
-      "change": -0.0636,
-      "changePercent": -0.1996
+      "price": 31.819,
+      "change": -0.0406,
+      "changePercent": -0.1274
     },
     "JPYTWD": {
-      "price": 0.1999,
-      "change": -0.0043,
-      "changePercent": -2.1034
+      "price": 0.1994,
+      "change": -0.0048,
+      "changePercent": -2.3482
     },
     "EURTWD": {
-      "price": 36.516,
-      "change": -0.0257,
-      "changePercent": -0.0703
+      "price": 36.512,
+      "change": -0.0297,
+      "changePercent": -0.0812
     },
     "CNYTWD": {
-      "price": 4.7489,
+      "price": 4.7543,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4430.9,
-    "twd": 4530.0,
-    "tael": 169858.0,
-    "twdTotal": 140885.0,
-    "changePercent": 0.7091
+    "usd": 4417.6,
+    "twd": 4519.0,
+    "tael": 169471.0,
+    "twdTotal": 140564.0,
+    "changePercent": 0.4068
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,12 +121,12 @@
       "link": "https://news.google.com/rss/articles/CBMiwgVBVV95cUxNMnpPdXk4Zkk5NkN1VVREMC1yd3lldmQ5NEllbVdFSmdPTEM3NEJZc1NkMGc3dkNCRjBZTVozVDVUWWhoVll3dGFTZDFfbG1fa3RJOWNrSkM3VFJLQWZLSXdaTk93MFBJWnhjOF9xSmdleVNkRnp6QUhHaTRWMFFNSUtUQVgybXFQZU5XM2c5RGRCZ2R2aG1QdGJQbFRkM3RuTFRlc0M0bW1XUGxIMnR2Y2FSUEk2QWgyQVFaSHhVTjE1OWZDdnJ1bXFmQW9qLVdYTGw0Q1JMVzBZMEl1ZDhCeERxTEtVdWRWR19PNk90VWY1bWFaQnZVLXhrUVo5OURJVzU1TTlYQWt3SkNST0R0ZlVrbmpfTW9iLXBUanhISEFnaHJ1Y2x0N05NQ1pCY003c2hPeUtlWkluR01rcFdqSlBnVEFoTERQZzlNZDcxdmFld0RGWEhuc20wejEtNnM3UnZPZTV6cmpSM3c4LVBGenFJSEVIUjhqT1ZsSjBhX2ZNZUVRY09aUVhmRGJEekVzSThDMkJIRVhsdmY3YVU4cmZ5aXVXNkp4ZWF0OWY1QnQ3WHRIQTVoeHVCQ21WaFB1MGpKVUZiSVZtUmFidE1xamJ0ZzMzaFB5V0JmQ1NNUjBkclFRcFVPcWx0QzBDdy1EMDhKTjFGbEhsMTFhUGFRUGNGZl8zNVltLVl6aG1NV1BCZVNvN1RlMWVKdDlnSi1CanNwbWZLOUJJM2NacVhJZVd1VnlsWGhWYmVSYVZ6ZUZhNkhOQkxkR0dZUlZobjFLZWpmSHRqTlFKRlhPeUtfUVpIejdqaG5TYVh4R0l2QzBaUDF4c2dWdWR0WFd2anZpVGJpQWJVU0I4WFR3NXU4THVXd0VmRkZXS3RyMkRvNWRjcUd2ZnJ2TzBaVHhIb3NaSzRvNXVua082MW1zN25RUFJR?oc=5"
     },
     {
-      "title": "創6週來最佳單日表現！美股4大指數全收紅 那指漲439點、費半漲3.14% - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQTzg2WnlQZ3FqYU5SUmU5eUZrTXcxdWNiYVhZaFkxdXk1WUdBR3J2V0NJNUxhUzFsbDFNQjM1NHdHcHBnV3lKZXFGcU05bHREWW1sZF9nZWZ1YlNnN280ZWhJb0NKaG81X1NwSW9CTHZ3ZFVjcUNYSkRtZ1BWMUNXT3Y4Nk5VRURqUHZNbnBFanptc2hwbm1UQnRWOEU4S1hEa3JjVnEyaFBYUWVZN0RTS0FJT05zV3ZmMVRndGFXcks1anRwbXVsZ1FvN0ZmMGZNOWtnd1VCWFBuRVlPdUppZU5MMHlJbTJtdlNtYmF2Mk1MSFFSOFBZZ3djdkNzTExMMnd0MHozQUNYRENZZmZDLXlhd1R0R2ZYRFd6b1hhUEtjclM4XzMyVWNRemljdFlnQ2VielFwaWRPV0RLRVdpVUNXRklFVXhCeWtWTFIyc1h6WU45dVdKaUxvM2RONXNhZVNGekd0NWdDeXpVQTdnTWpIdDhDT1JjVHFEekFlQl9nRUU?oc=5"
-    },
-    {
       "title": "〈美股盤後〉油價、美債殖利率「雙降」 那指漲近1.7% 費半強升超3% - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IV3BndE8wX19iRlBfZWJyVDhEVGk1QUNaYlZHYmN1R2RfakotLUpTWWZ2WlI2ZElIUDBJNzlldzFtQXBaRkxoSC13WHlOZVE?oc=5"
+    },
+    {
+      "title": "台股強彈近2800點！ 他懷疑「C波早走完」 網兩派戰翻 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPdU9HTlhGaDJIU2VIcEtvUFdBeV9UN012dW5UcHBrT1JkbnVpTGJya3Zuem80eXBmNW14Y3ZlRnFJNFdZaGJHLURfSWc4NU92OWp4akg0Ylotc1BOVUFlUXVGRlVOak1lZThPTmxscklTVVNqNWhGQUhqNXdYTzNHMnctdVhGeWh2eGlqdXhjaExFdUotWk9CcnBKWVVaVFFqX0t6Rl8zNjVRMEwzMTI3VzRnYTMtUjRBemVPbGdGZU1Pc1FqZE5mWE5uc2JxMFFRdFA2d09DdjA0WkZHYTkzVWVrTUJ0NWRFbXQ1Tjg5R2RHMUxsenVUWUl4NHBJa3pKR1hWZU5IMFBtQVh4LTJvMi11Ymo5WWRfcHpMdFlrajRQemhJcFpHM1pEdmVSWlJVZkw1MXJfWjZoVjdZbGc?oc=5"
     },
     {
       "title": "美股收盤》科技股領軍！費半勁揚3.14％ 台積電ADR大漲3％ - 自由財經",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6MnBGcWt3VnV0ZlQzVVp6Qk9IWkdFN1A4QTJpaTlBeGl1V1lZT2JOcWpoaWRzV0Zld0F2VGVzaTk5S2IxZVJnZjhaSnBES21VbWfSAVdBVV95cUxQdmRXdEdXc1VueW4tcGdqZDFhdkFrUFM3Vi1UNjN4YTJBR3VoY2Nkd0NWM0JwR2FEYm5XV2JtWXBaVGcxVmpOcWNFX2tpREIySTJUOWFydm8?oc=5"
     },
     {
-      "title": "主權債務推升替代資產需求黃金與比特幣互補- 新聞 - moneydj.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSGtvNFF0aHVPSzB1MDItNXFULV93T3pnVUFNcTBQUGwwV3RCdzM5N3ZpWDA1b282QU45dDQ5Z3VwRmlfa0hLaEQtM1Y4eVg2QW5RTkJBR1Rhel9mUDE2OUp4X0l3Wmp1VWtxM21RTTVCcHhqY29kNUZFQUdiMFc3MnlJaGtFQVhwQm9sV05jU2EyZw?oc=5"
+      "title": "台股週線收紅995點上市公司總市值升破154兆元| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlOEhmR3ZPTzNuUEZla0laVXFRUHU0a1J5SjNqUklLcjNzWWVteGpWXzJYNWU2Z3MyZVBVQ0pIZmRQV1g1X0llb0lhbGZJV05oR0hYUHUxODg3SXFIdGc?oc=5"
     },
     {
-      "title": "【0915台股盤後】美科技股回檔震盪，外資賣超約略627億元，台股回測45,511點，安控與軟體資安逆勢突圍 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMinAVBVV95cUxPSUx2OUpXN3A1QUdmbGEyeGFCajhtc1hwcWRGb0NyWkFGLWU4eG1qQ0c2Q1J6UUVFSHFxX3Q3eFZIOHBqQ1JQbWl5OHlwU2dKTGw0ZUMyS1lqOVJjcm5yVFVUVUUxa18xQVVFLUh5SVB4RGVzVk9HT0ZaVHB0cXFQZzk2cFBjcVVITnRmc0tJYWt5TjBzZVFLRkZxWG1IRFc2SE82YjZaUzZrdm9KWTlqeVRjeGRiVTZDcEFKUlo4SmFtd0JFbmowaE1zdndOMEczMUNrLUdzLXYzcEJqRklWX0p1cWZFN0R1aWZMZTk1bEJHVzh2dXE1TE5IZ0tqMnFZdkpQN2FDT1NheEV3aU81bjJYN2kzR2VXNkdSOEpHWF9aUHhJMnNnVUhTNDlCWk1FODRTQjFoSGtyZzFOREdpT2x4akZvaFFoTDhaTmFaYVVMV0N5bjEtNGFQZTBPWGROa2UzM25zbXRTcU9jbnlQNTV0aUs5QnNKMDJ2RUlaTzZmTDBPVzhWNC1yM1RUdGw1ZmpDeDdEZGhhZjhxd2pPRUVSV3RDaml6X25sVThCSFJpel9UbG5zaW5nRkxnN1hFZldEWkk5dXQxMGFXdURPVm43V2xVakZOdTNoWFRaWXZuYjkxMGxZUEkyTVNteXpCNWlWWC1hbXVNcXFNcXNsbDF0RjBWdWNkSS1Cb2NVUFM2NnNqMTg2YzJhMHhfYk9pTG9zUGp5eWJvNzlUbl9XdzNvdFJuZEFsZURjVkpIVk5ndlQtc0kxX1dpY2E1d0hMenloVDJNUllySy1wTG5aQjl0VzJIdERMdWV5TUxELWtJTEhjMmczZnpSbmVDWnBMX3pTTXJQV055UmlxWTZwd1NxZkVzR3NsdjBtWA?oc=5"
+      "title": "【0918台股盤後】台積電回神、創意飆漲停，資金重回電子科技，外資集中市場回補約略870 億元，RS動能策略鎖定宏致、聯傑、合晶｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiwwVBVV95cUxPY0JZXzI2eTdXVUZYdzY3b0FqaUliTHBKM0NWeEQwaUZtS0xGOUVQcVFTUjd3a0k3NjhHNFBSMjN1UEZJMV9FOGxRZWZsMndPMjQ1Sk1aX2o1X1NiZmMwblRCcHNLSDNSTF82bWNjRDh6NXRXNzZzZjJ1bGx1dzFzb0JZNDV2UTdkQmxHLWV1TW9CUWVTY19BaDA2VzlzMW9tcHY2MTh3MVU4azVVWW15Qnk1ckYyblZQWHRKbU5XTXN1VnBGWHI1YUt2MXo5LXloZ1I5SkI2UnJLcmFtSUlHcVhmcTRhNFdkMlVRUmoyRmRQSnFzS29OSWFTTks3dXd5VGFSYVNERkdBSFY0TU5XdFJPeUJKM2tQOXhFNjNhMHh5MDVORnEzWDFuYVU0bEJ6NVBuUEJoUEotMGdCejhXeGRkZkxEZ0RHbXl3ZmlsRmRXaHIxeG9hNktvMXQyV0xOcWMxTGpmTm9oaDJhaGpmS085X1dDcC12OFQ1WlI2dGNaTkc0aGNvSEJCZWZ1akZzWUJkaEsyZ3BCdjdZUXZIeTI5QmJ2SnZ1V1RySjcwZUp5T202MWxUa3R3SFdEaTAzd0R6VEh0Wkh2RXU1d0dQYmpWb1YwOGlTbWQxRHZiMVVPU3hHWU5fV0pkclNPU1BOU0FGY3ZvbVZ6bWxnMnZFc1dGUVlDN0E4eWpIMVRNRnVnT016Z0kwTm9FZEVsNTN2eVVGZUw4cjdxQ1ppTkNNcUpZb2NaeWZZbW9XcnkxV0JKLVFsdzhCajJJZnlSWVE5RXlPeWswczNGbWpYMHRDbldoeXFHTWlCRDlnbG9OQlpOZmlQQk9IUWZCV2JXMFlIcjgyRDNQa0UxcDlKZmRGb0ZuTEpvMTBLc0p2VXhKd0pIT09wYk95bWo2S0RwbXpCcW5SaVpQMW1Ibjd3aHVUMW53cw?oc=5"
     },
     {
-      "title": "升息利空變利多？通膨疑慮降溫、美股4大指數全面反彈 英特爾大漲近8% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNbVFmcXJHWi1DNnl4elNQbDhKXzE0cXo2X0I5cnVEX0VHc3hlTm52UWVmWnZpT2tHTmVNQ2FYdWt2TUVzQ05FNUdGdS1ROFdPdXQwUUVfUnllUkNacXYtVXFLdmZIeUxnVmtBQ2RqYm01MUcxbUFxSUlDUnpLUnBuUXAyT0I3bWVhOEJCWWlBc0t2V2NGcmQ0RGJueHp6enJmSWlaOE1TNFNIeS1Da1pSRm1TVFZic1VFb0drMUtmQ2ppVVFjenQ4UjFfU3B6bjBIVnpVYTNjUGZWbjNUaVdCT210ZjN2S0lsZjQxVnEtcnU1RENUbURxdWFaWE5zMGl0WnlxbmtCM0RHMXNUd3B3aV91TTg1UVdsR09ycHVTb3BCc19DXzRfRDFoWXVReTA0bUhGc1N0UVJUcERZSVdWb3dZMjJqYkVKUUZWY1NHUzNTazNaVnBwcGx6ZFlqakhQZlRnWWsydmR2V3Y3alpQYm9LUFdoM2tyV2ZPMExlbTJkdTJLa0V2OFBtWnRETVg1X09TMHp4U21RUWsxZy0yanNqNEY2TDRpOVFyR1RTal9xUQ?oc=5"
+      "title": "《台股盤後》量增大漲892點、重返47K；週K翻紅 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPT0JYcUUwOUpxRXZoVmJhMVVTX1A1WVRabW4zQjlUbWNQRElWcmN3MThuSVZocDRINEpqZHhYa2p5cHBNR1c5UXhQU3ZEM0JqYWN3NTFQSkp2ajVodFozaGpPVFlLcFRGTF83ME9wUHFRaVhNTkl6ekJhOXVWc1Z1LUVMWVpENlJFSU1OZ3Zvck1ZVW9QNTlzT3JJaVZKbzlSNGE1T2MtTVpGeHlnZDdETlV4aGljVWpWQU12Mmx6d1lHV0dhUjRSck1NWUJDcWhGTDU0QXhMZEctSzJ5NW1oRWlLSk9RaWZiNFNZVlNmSWJXWi1uT1o1SWUyd2tzRmZrWENXZEt2eTN6RHJObWx3Ng?oc=5"
     }
   ]
 }
