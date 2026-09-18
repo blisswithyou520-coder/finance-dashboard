@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/19 02:53",
+  "updated_tw": "09/19 05:25",
   "taiwan": {
     "2330": {
       "price": 2460.0,
-      "change": 80.0,
-      "changePercent": 3.3613
+      "change": 35.0,
+      "changePercent": 1.4433
     },
     "2454": {
       "price": 4710.0,
-      "change": 180.0,
-      "changePercent": 3.9735
+      "change": 210.0,
+      "changePercent": 4.6667
     },
     "2317": {
       "price": 250.5,
-      "change": 2.5,
-      "changePercent": 1.0081
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "0050": {
       "price": 109.85,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 219.64,
-      "change": 0.3,
-      "changePercent": 0.1368
+      "price": 222.27,
+      "change": 2.93,
+      "changePercent": 1.3358
     },
     "AAPL": {
-      "price": 336.22,
-      "change": -0.78,
-      "changePercent": -0.2315
+      "price": 336.13,
+      "change": -0.87,
+      "changePercent": -0.2582
     },
     "TSLA": {
-      "price": 363.37,
-      "change": -2.83,
-      "changePercent": -0.7728
+      "price": 364.27,
+      "change": -1.93,
+      "changePercent": -0.527
     },
     "QQQ": {
-      "price": 719.225,
-      "change": 2.305,
-      "changePercent": 0.3215
+      "price": 721.45,
+      "change": 4.53,
+      "changePercent": 0.6319
     },
     "SPY": {
-      "price": 761.43,
-      "change": -1.17,
-      "changePercent": -0.1534
+      "price": 761.69,
+      "change": -0.91,
+      "changePercent": -0.1193
     },
     "SCHD": {
-      "price": 33.675,
-      "change": -0.215,
-      "changePercent": -0.6344
+      "price": 33.68,
+      "change": -0.21,
+      "changePercent": -0.6197
     },
     "VOO": {
-      "price": 701.67,
-      "change": 0.64,
-      "changePercent": 0.0913
+      "price": 701.78,
+      "change": 0.75,
+      "changePercent": 0.107
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81016.35,
-      "change": 4612.5766,
-      "changePercent": 6.0371
+      "price": 81194.15,
+      "change": 4790.3766,
+      "changePercent": 6.2698
     },
     "ETH": {
-      "price": 2614.27,
-      "change": 167.1633,
-      "changePercent": 6.8311
+      "price": 2633.41,
+      "change": 186.3033,
+      "changePercent": 7.6132
     }
   },
   "fx": {
     "USDTWD": {
       "price": 31.763,
-      "change": -0.0966,
-      "changePercent": -0.3032
+      "change": -0.0881,
+      "changePercent": -0.2766
     },
     "JPYTWD": {
-      "price": 0.2005,
+      "price": 0.2003,
       "change": -0.0037,
-      "changePercent": -1.8095
+      "changePercent": -1.8084
     },
     "EURTWD": {
-      "price": 36.538,
-      "change": -0.0037,
-      "changePercent": -0.0101
+      "price": 36.522,
+      "change": -0.0296,
+      "changePercent": -0.0811
     },
     "CNYTWD": {
-      "price": 4.752,
+      "price": 4.746,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4422.5,
-    "twd": 4516.0,
-    "tael": 169360.0,
-    "twdTotal": 140472.0,
-    "changePercent": 0.5182
+    "usd": 4415.9,
+    "twd": 4510.0,
+    "tael": 169108.0,
+    "twdTotal": 140262.0,
+    "changePercent": 0.3682
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiwgVBVV95cUxNMnpPdXk4Zkk5NkN1VVREMC1yd3lldmQ5NEllbVdFSmdPTEM3NEJZc1NkMGc3dkNCRjBZTVozVDVUWWhoVll3dGFTZDFfbG1fa3RJOWNrSkM3VFJLQWZLSXdaTk93MFBJWnhjOF9xSmdleVNkRnp6QUhHaTRWMFFNSUtUQVgybXFQZU5XM2c5RGRCZ2R2aG1QdGJQbFRkM3RuTFRlc0M0bW1XUGxIMnR2Y2FSUEk2QWgyQVFaSHhVTjE1OWZDdnJ1bXFmQW9qLVdYTGw0Q1JMVzBZMEl1ZDhCeERxTEtVdWRWR19PNk90VWY1bWFaQnZVLXhrUVo5OURJVzU1TTlYQWt3SkNST0R0ZlVrbmpfTW9iLXBUanhISEFnaHJ1Y2x0N05NQ1pCY003c2hPeUtlWkluR01rcFdqSlBnVEFoTERQZzlNZDcxdmFld0RGWEhuc20wejEtNnM3UnZPZTV6cmpSM3c4LVBGenFJSEVIUjhqT1ZsSjBhX2ZNZUVRY09aUVhmRGJEekVzSThDMkJIRVhsdmY3YVU4cmZ5aXVXNkp4ZWF0OWY1QnQ3WHRIQTVoeHVCQ21WaFB1MGpKVUZiSVZtUmFidE1xamJ0ZzMzaFB5V0JmQ1NNUjBkclFRcFVPcWx0QzBDdy1EMDhKTjFGbEhsMTFhUGFRUGNGZl8zNVltLVl6aG1NV1BCZVNvN1RlMWVKdDlnSi1CanNwbWZLOUJJM2NacVhJZVd1VnlsWGhWYmVSYVZ6ZUZhNkhOQkxkR0dZUlZobjFLZWpmSHRqTlFKRlhPeUtfUVpIejdqaG5TYVh4R0l2QzBaUDF4c2dWdWR0WFd2anZpVGJpQWJVU0I4WFR3NXU4THVXd0VmRkZXS3RyMkRvNWRjcUd2ZnJ2TzBaVHhIb3NaSzRvNXVua082MW1zN25RUFJR?oc=5"
     },
     {
-      "title": "台股週線收紅995點上市公司總市值升破154兆元| 證券 - cna.com.tw",
+      "title": "台股週線收紅995點上市公司總市值升破154兆元| 證券 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlOEhmR3ZPTzNuUEZla0laVXFRUHU0a1J5SjNqUklLcjNzWWVteGpWXzJYNWU2Z3MyZVBVQ0pIZmRQV1g1X0llb0lhbGZJV05oR0hYUHUxODg3SXFIdGc?oc=5"
     },
     {
-      "title": "代幣化股票 SEC 開綠燈 美股全天候交易快要實現 - money.udn.com",
+      "title": "代幣化股票 SEC 開綠燈 美股全天候交易快要實現 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwUnZOckEtRVBqengwVzVuZ3lzUjUxbXV6aVZWNHppTFU5MExEQzA5M2Y3enRyMmhhVWxwcHRwNzZ4Q1NFbTl4TzRaRUgxT3JRajJic3FmcFU2b3JK0gFiQVVfeXFMTWlLb2ZHMk42Uk1JbjRNSEJqU3ZFUnY0OVlJb2txVERRclpwWnU4UFpHVmhKblptMllYNUN0LXFCQW85dEtVQVpnNFNieHRWbC1GS052b0V0UGFIMkJ0Q09BT1E?oc=5"
     },
     {
-      "title": "名師操盤》台股4檔有戲！美股四巫日「重大訊號」決定飆漲行情 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOMXNxVWdETWR1V2J4NE03NXBmNWI5Q2dNUEp6bF9Jc3UyTllWZTFkOTNWaFQ0X0tOa2Z1VWpUa3VjU3pRVVRERm1HakpUNFpSeEZiX1l4Nl81THE2aU5ZbU4yUF9zd1h3UUVBaWloMF9BU3Q2eXpRMDEzbkxZajhrTS0tWWFNUDRoSmRmeFFyaUR5YXVXbVhuOVl6OUk5YmlaZjZQd3BGY0xSLUlwZ3dsWm5OZVJhMVBWTHZvS3k2enpJckpoSDgzNjV2ODRjT0FlNm5aRFlEclFkQk5XdkRZS096NUNSZW9HdzVaRHF2RHg5dUNuX25GeEI5QlRGWk5XbEFvSTlqdnpsSzI3RVhpSi1zYjlVRzlUNUxxbDBWZTQ0UGs4Y2h3ZFI3TlJGeFJhcGlBYkhLY3RGUXNVSGxzeVJPRm1xNjVpdnFHOHo1bTNhd29nY2FqbUNWYjZfcGpuNFlJVXdZOUhWVUlHVU5OVDlMWmI3RGx1RjZFQ0EwaXRpdw?oc=5"
+      "title": "美股「升息前狂跌、升息後大漲」 網傻眼：到底怎麼玩？ - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOcXlLSVBLeEotTGdrY2JJakNPTWRSRXFuaVV0WTJxRGZ4dmpEREFaeUY2LWo1dV96OGtGTWYwQnpmY0RLcmxWY0oxUTNudGlYTmczRi1IQlNEdWNXMFl2S2VFa0wxTHdCWWZIZG93SEU0SXdLLUJLZGFreUtuMlBFV0o1b0Z4QktSMllvZDN2SWtINmEwV29mME1oRlFEX0FLTkc5RjFSem45Z2loRDRfY1BEUUsyR3lsbzRERDBOdjItWnh3eFRUa1lOekhEQTBmSXZLa0NORVJUdXc2Y28wcEt5NnZkQ2EzYUdVV3djNlpvY3VBOGZPb1VPZzhERFBUWWFTQkRZQ2tTeVUwaU5MVWNCa3Zsc3MyTTNGNHdtOFRhbzVVc3dQUGF0WmxxNHIwbHFWTGFCSS1FbXBKTG9mWGdiOVFBUTVzLTlhSk9xWVM?oc=5"
     },
     {
       "title": "【美股盤前0918】升息股市卻大漲？關鍵竟在油價？今晚追蹤甚麼！｜豐雲學堂 2026 年 09 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPTTBUZGJKRGdZRU90LVRHRU0yVEZJX1ZaVW5lVC1wLTV1RXFRazl1bWp6NE42bXYwVzFvYU5ka2pVanlrRUVHME1lejNMTnJhUExfVUd1UDE4MEZENDRFOWNLcVBwRTlxSVlGRjI0eFdRQ1hNTVBQejRsYzRxUkx5OUhGeDVRZ2lvbGJjY3cyZVlLM1NoYnpNdzN2cmNHOWZBQzJ2ZmhCY3NwZlBOdkN5TFNXbHc0QmZxN2FrWHRrSl9GNlNnT2UxYml5eDRXMG9QMVozMDJVcTcyanl4QWdxWENILWdHVWpPczR2VkFZYTdCYjA3NWRLRlhzRjdMRTdBTU1ubkkxenlTM0tCWlN5em5rU0RzOWNwR1I2RTNiRlZ6VG5hWndXdUJPT1V4LWNoSW9NSm9FUHVOcU9YZmhJcG5mQXloTkpMcTZMUlFObjdSbUx2TjZjMGRFZkVpTUpFOUVrQlI1QUtnMi0zWXh4aU1sZXZrTHc2YVd2ODNnTU9hM0RSU0JJbXBwNkJpaENYYm5oMHJZelIwR29uY3VLcGxyYjg?oc=5"
     },
     {
-      "title": "〈美股盤後〉油價、美債殖利率「雙降」 那指漲近1.7% 費半強升超3% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IV3BndE8wX19iRlBfZWJyVDhEVGk1QUNaYlZHYmN1R2RfakotLUpTWWZ2WlI2ZElIUDBJNzlldzFtQXBaRkxoSC13WHlOZVE?oc=5"
+      "title": "7兆美元選擇權同時到期！美股迎歷來第二大「三巫日」 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91Q2dMUkFWd0Q2cC0zOTdTUGhpQnJnWjhBWFNMR3FDX2hRbWw1VlJaVnY4MmdwXzRIVEkzWUliTDRqU3JMalc2eTRBRjFXcWM?oc=5"
     }
   ]
 }
