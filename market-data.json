@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/18 07:36",
+  "updated_tw": "09/18 09:31",
   "taiwan": {
     "2330": {
-      "price": 2425.0,
-      "change": 45.0,
-      "changePercent": 1.8908
+      "price": 2445.0,
+      "change": 20.0,
+      "changePercent": 0.8247
     },
     "2454": {
-      "price": 4500.0,
-      "change": -30.0,
-      "changePercent": -0.6623
+      "price": 4565.0,
+      "change": 65.0,
+      "changePercent": 1.4444
     },
     "2317": {
-      "price": 250.5,
-      "change": 2.5,
-      "changePercent": 1.0081
+      "price": 252.0,
+      "change": 1.5,
+      "changePercent": 0.5988
     },
     "0050": {
-      "price": 108.05,
-      "change": 1.8,
-      "changePercent": 1.6941
+      "price": 109.3,
+      "change": 2.4,
+      "changePercent": 2.2451
     },
     "00878": {
-      "price": 34.73,
-      "change": 0.53,
-      "changePercent": 1.5497
+      "price": 34.92,
+      "change": 0.45,
+      "changePercent": 1.3055
     },
     "00919": {
-      "price": 32.11,
-      "change": -0.63,
-      "changePercent": -1.9243
+      "price": 32.13,
+      "change": 0.14,
+      "changePercent": 0.4376
     }
   },
   "us": {
     "NVDA": {
       "price": 219.34,
-      "change": 5.44,
-      "changePercent": 2.5432
+      "change": 7.17,
+      "changePercent": 3.3794
     },
     "AAPL": {
       "price": 337.0,
-      "change": 4.59,
-      "changePercent": 1.3808
+      "change": 5.66,
+      "changePercent": 1.7082
     },
     "TSLA": {
       "price": 366.2,
-      "change": 8.12,
-      "changePercent": 2.2677
+      "change": 9.62,
+      "changePercent": 2.6979
     },
     "QQQ": {
       "price": 716.92,
-      "change": 12.2,
-      "changePercent": 1.7312
+      "change": 12.38,
+      "changePercent": 1.7572
     },
     "SPY": {
       "price": 762.6,
-      "change": 8.55,
-      "changePercent": 1.1339
+      "change": 5.21,
+      "changePercent": 0.6879
     },
     "SCHD": {
       "price": 33.89,
-      "change": 0.05,
-      "changePercent": 0.1478
+      "change": -0.44,
+      "changePercent": -1.2817
     },
     "VOO": {
       "price": 701.03,
-      "change": 7.79,
-      "changePercent": 1.1237
+      "change": 4.83,
+      "changePercent": 0.6938
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76323.01,
-      "change": 172.6897,
-      "changePercent": 0.2268
+      "price": 76542.18,
+      "change": 391.8597,
+      "changePercent": 0.5146
     },
     "ETH": {
-      "price": 2445.37,
-      "change": 29.2501,
-      "changePercent": 1.2106
+      "price": 2449.5,
+      "change": 33.3801,
+      "changePercent": 1.3816
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.847,
-      "change": -0.0126,
-      "changePercent": -0.0395
+      "price": 31.835,
+      "change": -0.0246,
+      "changePercent": -0.0772
     },
     "JPYTWD": {
-      "price": 0.2019,
-      "change": -0.0023,
-      "changePercent": -1.1239
+      "price": 0.2016,
+      "change": -0.0026,
+      "changePercent": -1.2708
     },
     "EURTWD": {
-      "price": 36.594,
-      "change": 0.0523,
-      "changePercent": 0.1432
+      "price": 36.59,
+      "change": 0.0483,
+      "changePercent": 0.1322
     },
     "CNYTWD": {
-      "price": 4.7532,
+      "price": 4.7513,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4383.1,
-    "twd": 4488.0,
-    "tael": 168295.0,
-    "twdTotal": 139589.0,
-    "changePercent": -0.1003
+    "usd": 4400.7,
+    "twd": 4504.0,
+    "tael": 168908.0,
+    "twdTotal": 140096.0,
+    "changePercent": 0.3009
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WZTZycy16X0NyUVNkY3lqMDhtcF90MDBWR2hqdFRqQm1aZFpySkJidjZ6eHhSbkZNcmxxLXJDNEVzV1hZa09mRFFkWG1lNVFG?oc=5"
     },
     {
-      "title": "比特幣不再是唯一主角！73%機構計劃加倉 下一輪機會藏在哪 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fVTRrU2tfY0luMk9GYmZCQUpMQ0kwemtwNExaRXB2LUZfNXB4azBteGVNWkxhTUxFc2R5QTd2YnFzc05YVEc3QmZya1lQd3FBdUE1VlhJcDFJRGpHeFRsNi1TVks?oc=5"
+      "title": "《貴金屬》油價回落支撐 COMEX黃金上漲0.3% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOEFzNHNzZVl0bnExZVNja1FUamRWN1ZBX2VlV1pQeGlNelBvcG5Ib05LSGVuTmdQSUthTWZLUGY2alZHazFXTHV2OVV0T282ZTJQRFUyRjlLSHV4bWFNdXZZbVdnVXlTZVdxRFFnSUJFazRIMjE2Vm9DNUhxd08xci1RRVJ5OHdKSzJjaHQ1TU5ZUQ?oc=5"
+    },
+    {
+      "title": "快訊／台積電漲25元至2450　台股大漲逾770點、重回47K - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LdmtFc3MyZzZua3ZKdHdYZV8yUzJWd3U1UHRQck1CeTgzbDVTQ21YYTJFVTB4ZjU3N2VybXpscHpKS191UmtuV1dRMEVrSnZpLXfSAVBBVV95cUxPQUtJV3NIVktGMlhDT3lpb09XcXkyTjNYSjdrQ29FcGFUUVg1ekoyRVpXalIyT0E3Q1VYelRLbGJGNE5SaDRibDZnZnZXMklabQ?oc=5"
     },
     {
       "title": "升息利空變利多？通膨疑慮降溫、美股4大指數全面反彈 英特爾大漲近8% - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNbVFmcXJHWi1DNnl4elNQbDhKXzE0cXo2X0I5cnVEX0VHc3hlTm52UWVmWnZpT2tHTmVNQ2FYdWt2TUVzQ05FNUdGdS1ROFdPdXQwUUVfUnllUkNacXYtVXFLdmZIeUxnVmtBQ2RqYm01MUcxbUFxSUlDUnpLUnBuUXAyT0I3bWVhOEJCWWlBc0t2V2NGcmQ0RGJueHp6enJmSWlaOE1TNFNIeS1Da1pSRm1TVFZic1VFb0drMUtmQ2ppVVFjenQ4UjFfU3B6bjBIVnpVYTNjUGZWbjNUaVdCT210ZjN2S0lsZjQxVnEtcnU1RENUbURxdWFaWE5zMGl0WnlxbmtCM0RHMXNUd3B3aV91TTg1UVdsR09ycHVTb3BCc19DXzRfRDFoWXVReTA0bUhGc1N0UVJUcERZSVdWb3dZMjJqYkVKUUZWY1NHUzNTazNaVnBwcGx6ZFlqakhQZlRnWWsydmR2V3Y3alpQYm9LUFdoM2tyV2ZPMExlbTJkdTJLa0V2OFBtWnRETVg1X09TMHp4U21RUWsxZy0yanNqNEY2TDRpOVFyR1RTal9xUQ?oc=5"
-    },
-    {
-      "title": "Fed升息美股重挫別慌通常好事會在後頭| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4Y2hlSXd0ellQcFdZZ3JwQXFtWGt3VGJ5VVJ3cXZzZ0plZHNzaVhYbzhEVkc4dFhJLWNsNkdScHFWMDYyU1ZyVThEOEx1cVVh?oc=5"
     }
   ]
 }
