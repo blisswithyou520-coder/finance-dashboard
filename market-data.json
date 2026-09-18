@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/18 19:50",
+  "updated_tw": "09/18 23:53",
   "taiwan": {
     "2330": {
       "price": 2460.0,
@@ -35,87 +35,91 @@
   },
   "us": {
     "NVDA": {
-      "price": 219.34,
-      "change": 5.44,
-      "changePercent": 2.5432
+      "price": 219.69,
+      "change": 0.35,
+      "changePercent": 0.1596
     },
     "AAPL": {
-      "price": 337.0,
-      "change": 4.59,
-      "changePercent": 1.3808
+      "price": 334.81,
+      "change": -2.19,
+      "changePercent": -0.6499
     },
     "TSLA": {
-      "price": 366.2,
-      "change": 8.12,
-      "changePercent": 2.2677
+      "price": 362.34,
+      "change": -3.86,
+      "changePercent": -1.0541
     },
     "QQQ": {
-      "price": 716.92,
-      "change": 12.2,
-      "changePercent": 1.7312
+      "price": 716.535,
+      "change": -0.385,
+      "changePercent": -0.0537
     },
     "SPY": {
-      "price": 762.6,
-      "change": 8.55,
-      "changePercent": 1.1339
+      "price": 759.1,
+      "change": -3.5,
+      "changePercent": -0.459
     },
     "SCHD": {
-      "price": 33.89,
-      "change": 0.05,
-      "changePercent": 0.1478
+      "price": 33.64,
+      "change": -0.25,
+      "changePercent": -0.7377
     },
     "VOO": {
-      "price": 701.03,
-      "change": 7.79,
-      "changePercent": 1.1237
+      "price": 699.559,
+      "change": -1.471,
+      "changePercent": -0.2098
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77962.82,
-      "change": 1559.0466,
-      "changePercent": 2.0405
+      "price": 80741.61,
+      "change": 4337.8366,
+      "changePercent": 5.6775
     },
     "ETH": {
-      "price": 2505.32,
-      "change": 58.2133,
-      "changePercent": 2.3789
+      "price": 2581.98,
+      "change": 134.8733,
+      "changePercent": 5.5115
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.819,
-      "change": -0.0406,
-      "changePercent": -0.1274
+      "price": 31.779,
+      "change": -0.0806,
+      "changePercent": -0.253
     },
     "JPYTWD": {
-      "price": 0.1994,
-      "change": -0.0048,
-      "changePercent": -2.3482
+      "price": 0.2004,
+      "change": -0.0038,
+      "changePercent": -1.8585
     },
     "EURTWD": {
-      "price": 36.512,
-      "change": -0.0297,
-      "changePercent": -0.0812
+      "price": 36.486,
+      "change": -0.0557,
+      "changePercent": -0.1524
     },
     "CNYTWD": {
-      "price": 4.7543,
+      "price": 4.7492,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4417.6,
-    "twd": 4519.0,
-    "tael": 169471.0,
-    "twdTotal": 140564.0,
-    "changePercent": 0.4068
+    "usd": 4390.7,
+    "twd": 4486.0,
+    "tael": 168227.0,
+    "twdTotal": 139532.0,
+    "changePercent": -0.2046
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "名師操盤》台股4檔有戲！美股四巫日「重大訊號」決定飆漲行情 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOMXNxVWdETWR1V2J4NE03NXBmNWI5Q2dNUEp6bF9Jc3UyTllWZTFkOTNWaFQ0X0tOa2Z1VWpUa3VjU3pRVVRERm1HakpUNFpSeEZiX1l4Nl81THE2aU5ZbU4yUF9zd1h3UUVBaWloMF9BU3Q2eXpRMDEzbkxZajhrTS0tWWFNUDRoSmRmeFFyaUR5YXVXbVhuOVl6OUk5YmlaZjZQd3BGY0xSLUlwZ3dsWm5OZVJhMVBWTHZvS3k2enpJckpoSDgzNjV2ODRjT0FlNm5aRFlEclFkQk5XdkRZS096NUNSZW9HdzVaRHF2RHg5dUNuX25GeEI5QlRGWk5XbEFvSTlqdnpsSzI3RVhpSi1zYjlVRzlUNUxxbDBWZTQ0UGs4Y2h3ZFI3TlJGeFJhcGlBYkhLY3RGUXNVSGxzeVJPRm1xNjVpdnFHOHo1bTNhd29nY2FqbUNWYjZfcGpuNFlJVXdZOUhWVUlHVU5OVDlMWmI3RGx1RjZFQ0EwaXRpdw?oc=5"
+    },
     {
       "title": "2026年9月台美股行事曆｜聯準會升息機率近九成 (本週FOMC會議)？！ 季底作帳碰上中秋連假會變盤嗎？ - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiwgVBVV95cUxNMnpPdXk4Zkk5NkN1VVREMC1yd3lldmQ5NEllbVdFSmdPTEM3NEJZc1NkMGc3dkNCRjBZTVozVDVUWWhoVll3dGFTZDFfbG1fa3RJOWNrSkM3VFJLQWZLSXdaTk93MFBJWnhjOF9xSmdleVNkRnp6QUhHaTRWMFFNSUtUQVgybXFQZU5XM2c5RGRCZ2R2aG1QdGJQbFRkM3RuTFRlc0M0bW1XUGxIMnR2Y2FSUEk2QWgyQVFaSHhVTjE1OWZDdnJ1bXFmQW9qLVdYTGw0Q1JMVzBZMEl1ZDhCeERxTEtVdWRWR19PNk90VWY1bWFaQnZVLXhrUVo5OURJVzU1TTlYQWt3SkNST0R0ZlVrbmpfTW9iLXBUanhISEFnaHJ1Y2x0N05NQ1pCY003c2hPeUtlWkluR01rcFdqSlBnVEFoTERQZzlNZDcxdmFld0RGWEhuc20wejEtNnM3UnZPZTV6cmpSM3c4LVBGenFJSEVIUjhqT1ZsSjBhX2ZNZUVRY09aUVhmRGJEekVzSThDMkJIRVhsdmY3YVU4cmZ5aXVXNkp4ZWF0OWY1QnQ3WHRIQTVoeHVCQ21WaFB1MGpKVUZiSVZtUmFidE1xamJ0ZzMzaFB5V0JmQ1NNUjBkclFRcFVPcWx0QzBDdy1EMDhKTjFGbEhsMTFhUGFRUGNGZl8zNVltLVl6aG1NV1BCZVNvN1RlMWVKdDlnSi1CanNwbWZLOUJJM2NacVhJZVd1VnlsWGhWYmVSYVZ6ZUZhNkhOQkxkR0dZUlZobjFLZWpmSHRqTlFKRlhPeUtfUVpIejdqaG5TYVh4R0l2QzBaUDF4c2dWdWR0WFd2anZpVGJpQWJVU0I4WFR3NXU4THVXd0VmRkZXS3RyMkRvNWRjcUd2ZnJ2TzBaVHhIb3NaSzRvNXVua082MW1zN25RUFJR?oc=5"
@@ -125,28 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IV3BndE8wX19iRlBfZWJyVDhEVGk1QUNaYlZHYmN1R2RfakotLUpTWWZ2WlI2ZElIUDBJNzlldzFtQXBaRkxoSC13WHlOZVE?oc=5"
     },
     {
-      "title": "台股強彈近2800點！ 他懷疑「C波早走完」 網兩派戰翻 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPdU9HTlhGaDJIU2VIcEtvUFdBeV9UN012dW5UcHBrT1JkbnVpTGJya3Zuem80eXBmNW14Y3ZlRnFJNFdZaGJHLURfSWc4NU92OWp4akg0Ylotc1BOVUFlUXVGRlVOak1lZThPTmxscklTVVNqNWhGQUhqNXdYTzNHMnctdVhGeWh2eGlqdXhjaExFdUotWk9CcnBKWVVaVFFqX0t6Rl8zNjVRMEwzMTI3VzRnYTMtUjRBemVPbGdGZU1Pc1FqZE5mWE5uc2JxMFFRdFA2d09DdjA0WkZHYTkzVWVrTUJ0NWRFbXQ1Tjg5R2RHMUxsenVUWUl4NHBJa3pKR1hWZU5IMFBtQVh4LTJvMi11Ymo5WWRfcHpMdFlrajRQemhJcFpHM1pEdmVSWlJVZkw1MXJfWjZoVjdZbGc?oc=5"
-    },
-    {
-      "title": "美股收盤》科技股領軍！費半勁揚3.14％ 台積電ADR大漲3％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVN3dRSkhlSkVuYkZYa1BXZDNFX3ptX2tSWDBXNUx5OFZjdTlCY0ZsalM1c0ppMFYwblltNHphOUtOMm1VdmlXdE95YXN4QU51MXMxZXNaM2hlR3pOWE5z0gFkQVVfeXFMTkVocE5vaDJocVRGMHd2TFNUN0ZKaUFFRm1CYXBzSXFGa0FZWTl3T2sxMjR4QlZkbkRKSmRJeTVTSFNoYnd0RHV6VUhPeVJpZWIyYlA1dGVSWVJzejdEVUI0bVM1Vw?oc=5"
-    },
-    {
-      "title": "美股「看不懂了」！不升息狂跌、確定升息反而暴漲…網曝：利空反應完 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6MnBGcWt3VnV0ZlQzVVp6Qk9IWkdFN1A4QTJpaTlBeGl1V1lZT2JOcWpoaWRzV0Zld0F2VGVzaTk5S2IxZVJnZjhaSnBES21VbWfSAVdBVV95cUxQdmRXdEdXc1VueW4tcGdqZDFhdkFrUFM3Vi1UNjN4YTJBR3VoY2Nkd0NWM0JwR2FEYm5XV2JtWXBaVGcxVmpOcWNFX2tpREIySTJUOWFydm8?oc=5"
+      "title": "美股早盤／費半漲逾1%！3大指數變動平淡油價下跌、債券殖利率上升| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBQlNTc1FOemM5VVVwTm1xa29yb3U0dDlBSVJwV3BIVWlUSEZYc1NkVkIyNWJIUFpBQ01pWlZpaTZsZDZRQTdxUG1mVWxqZnQ2?oc=5"
     },
     {
       "title": "台股週線收紅995點上市公司總市值升破154兆元| 證券 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlOEhmR3ZPTzNuUEZla0laVXFRUHU0a1J5SjNqUklLcjNzWWVteGpWXzJYNWU2Z3MyZVBVQ0pIZmRQV1g1X0llb0lhbGZJV05oR0hYUHUxODg3SXFIdGc?oc=5"
     },
     {
+      "title": "美股「升息前狂跌、升息後大漲」 網傻眼：到底怎麼玩？ - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOcXlLSVBLeEotTGdrY2JJakNPTWRSRXFuaVV0WTJxRGZ4dmpEREFaeUY2LWo1dV96OGtGTWYwQnpmY0RLcmxWY0oxUTNudGlYTmczRi1IQlNEdWNXMFl2S2VFa0wxTHdCWWZIZG93SEU0SXdLLUJLZGFreUtuMlBFV0o1b0Z4QktSMllvZDN2SWtINmEwV29mME1oRlFEX0FLTkc5RjFSem45Z2loRDRfY1BEUUsyR3lsbzRERDBOdjItWnh3eFRUa1lOekhEQTBmSXZLa0NORVJUdXc2Y28wcEt5NnZkQ2EzYUdVV3djNlpvY3VBOGZPb1VPZzhERFBUWWFTQkRZQ2tTeVUwaU5MVWNCa3Zsc3MyTTNGNHdtOFRhbzVVc3dQUGF0WmxxNHIwbHFWTGFCSS1FbXBKTG9mWGdiOVFBUTVzLTlhSk9xWVM?oc=5"
+    },
+    {
       "title": "【0918台股盤後】台積電回神、創意飆漲停，資金重回電子科技，外資集中市場回補約略870 億元，RS動能策略鎖定宏致、聯傑、合晶｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiwwVBVV95cUxPY0JZXzI2eTdXVUZYdzY3b0FqaUliTHBKM0NWeEQwaUZtS0xGOUVQcVFTUjd3a0k3NjhHNFBSMjN1UEZJMV9FOGxRZWZsMndPMjQ1Sk1aX2o1X1NiZmMwblRCcHNLSDNSTF82bWNjRDh6NXRXNzZzZjJ1bGx1dzFzb0JZNDV2UTdkQmxHLWV1TW9CUWVTY19BaDA2VzlzMW9tcHY2MTh3MVU4azVVWW15Qnk1ckYyblZQWHRKbU5XTXN1VnBGWHI1YUt2MXo5LXloZ1I5SkI2UnJLcmFtSUlHcVhmcTRhNFdkMlVRUmoyRmRQSnFzS29OSWFTTks3dXd5VGFSYVNERkdBSFY0TU5XdFJPeUJKM2tQOXhFNjNhMHh5MDVORnEzWDFuYVU0bEJ6NVBuUEJoUEotMGdCejhXeGRkZkxEZ0RHbXl3ZmlsRmRXaHIxeG9hNktvMXQyV0xOcWMxTGpmTm9oaDJhaGpmS085X1dDcC12OFQ1WlI2dGNaTkc0aGNvSEJCZWZ1akZzWUJkaEsyZ3BCdjdZUXZIeTI5QmJ2SnZ1V1RySjcwZUp5T202MWxUa3R3SFdEaTAzd0R6VEh0Wkh2RXU1d0dQYmpWb1YwOGlTbWQxRHZiMVVPU3hHWU5fV0pkclNPU1BOU0FGY3ZvbVZ6bWxnMnZFc1dGUVlDN0E4eWpIMVRNRnVnT016Z0kwTm9FZEVsNTN2eVVGZUw4cjdxQ1ppTkNNcUpZb2NaeWZZbW9XcnkxV0JKLVFsdzhCajJJZnlSWVE5RXlPeWswczNGbWpYMHRDbldoeXFHTWlCRDlnbG9OQlpOZmlQQk9IUWZCV2JXMFlIcjgyRDNQa0UxcDlKZmRGb0ZuTEpvMTBLc0p2VXhKd0pIT09wYk95bWo2S0RwbXpCcW5SaVpQMW1Ibjd3aHVUMW53cw?oc=5"
     },
     {
-      "title": "《台股盤後》量增大漲892點、重返47K；週K翻紅 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPT0JYcUUwOUpxRXZoVmJhMVVTX1A1WVRabW4zQjlUbWNQRElWcmN3MThuSVZocDRINEpqZHhYa2p5cHBNR1c5UXhQU3ZEM0JqYWN3NTFQSkp2ajVodFozaGpPVFlLcFRGTF83ME9wUHFRaVhNTkl6ekJhOXVWc1Z1LUVMWVpENlJFSU1OZ3Zvck1ZVW9QNTlzT3JJaVZKbzlSNGE1T2MtTVpGeHlnZDdETlV4aGljVWpWQU12Mmx6d1lHV0dhUjRSck1NWUJDcWhGTDU0QXhMZEctSzJ5NW1oRWlLSk9RaWZiNFNZVlNmSWJXWi1uT1o1SWUyd2tzRmZrWENXZEt2eTN6RHJObWx3Ng?oc=5"
+      "title": "雅虎財經已結束與Polymarket合作 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBESi1UcUNkLV9NYVZFb3lkNldkOVVfYmc5enlzOU5hckk3eC1JV1AzMktIWEVIVmdpWHEtUUJQRVI2UmY2Y1lyU1kyVQ?oc=5"
     }
   ]
 }
