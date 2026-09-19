@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/19 19:25",
+  "updated_tw": "09/19 22:39",
   "taiwan": {
     "2330": {
       "price": 2460.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81322.51,
-      "change": 421.0491,
-      "changePercent": 0.5204
+      "price": 81452.91,
+      "change": 551.4491,
+      "changePercent": 0.6816
     },
     "ETH": {
-      "price": 2641.68,
-      "change": 30.3328,
-      "changePercent": 1.1616
+      "price": 2635.84,
+      "change": 24.4928,
+      "changePercent": 0.9379
     }
   },
   "fx": {
@@ -115,5 +115,38 @@
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "全球央行調控通膨 美股漲跌互見 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DOXdvaG02SzBGRzRHaXI3V2pOUy1YMzEwaFNOQnE3ZnJQVmt4dndaSUFiQjlKRFZJNDdaUV9Hank2NjVtYUhzc1Rpa2E2VWJvWFI3bGhVX3ptVnFM0gFiQVVfeXFMT0hNcTZiVWJjUmJEcWUzRUVtMkRiSjcwUXRraDFhWFFxRHh1NXVia2JRdko4eXVySFFjRWVBOV9kcnkwaDNPS01oem5uemdxNDR0TENzdHBBQURCV3JjUTY0MlE?oc=5"
+    },
+    {
+      "title": "台股星期一怎麼走？美股遇「四巫日」震盪 台指期夜盤小跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNUmJsWW55RFVRRHAwRXBQZUJrS0d1WlF1MWw4Vlg5OWJCajlqNkVzcVVSOHM5NTFhWXZqUlUyNndTUFRIVVlQenlDMERvWjY4OUctcmJNOXlFa1NLRzBoOGFEUk8wWXUxeF9VdndmelNrdi1MZWFSRURhdk83bWVaSnFUWW84QVh5cmlDWnYwRE9UcDN1czRTOC1ORE9HUy1McXJPLUZQalFsNTcxM3hCRlJqQzlieXRjMk5BT1I1eHJJTE5HZnB0UUJxdV9hU1VSYmJaSEh3aDJUcXFuZmo1WFhSMW1kSTdKcHRQVmwxdjFvaVZPNzlrejAwS2pmQ1p3dTBvRW1obkpVVDNTV2tHRExhb3k?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉美股四巫日震盪 晶片股力撐 費半升近3% 道瓊周線創半年最大跌幅 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IZm9rTElIWHNVUXhFUlNBTkk5MURPNUlfZW5ITjVzdFl6X0QyTjBYX1ltMktobGJ6eVJORjE2UG9tb0RYZ2VTYnpPTDdqZEE?oc=5"
+    },
+    {
+      "title": "美股收盤》美債殖利率、通膨壓力尚存 美股漲跌互見 台積電ADR漲1.02％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41VHNMdGI4N0tLeVpTWE1aYjQzYlRfWmVtcGRUQ3h6eGgwc2dOR19MQWNrOGdkMEJEV3VNMVlGUjNqUDUzNGgxMlRQLTlRb1FEOTR5VE9mYTZacGJXWWk40gFkQVVfeXFMTUtnVzJzbGVWNEZ6Q2NwZUstbVhoVHMzUlBGUU1DTWVidWpNdlBNcmNaejE0TDF2ZmcySkIzZ0pEb3hQTE9uWG83cXlrYloxYUNoLXBXUHRGR3NIeFYwejIwRUYzYg?oc=5"
+    },
+    {
+      "title": "分析师：比特币市场行为从“恐慌抛售”转向“逢低买入” - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIcGRRVldkNUlXVzF4Qk8wS0Y1VTMzMTdkN0xyZXp3TXZCdmkwTUphQ1p2WnZuTmU2a1ptM0RjNzFidnFfandIcTZmaG9WRGhaWldabmZTcEFkb2FLUk1Vdl9JQXE1dw?oc=5"
+    },
+    {
+      "title": "美股「四巫日」道瓊震盪收黑！「記憶體A+股」飆漲10.99% 台積電ADR漲逾1%、台指期夜盤守住47K - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONGp2U2JsaTUxazRSVW8zbmJjdHdhVGFNMWliVlNaV0RWeFZRY0QxQWRnOFIyV1FIc0c3Q0xkaVFjRmhINXdodlRiSG1MaURzRURtYWE5ak1NeEJWMzRiUk5IcE9lVTExbUVaUXgwbHlDT3JQTEFsSXJZSV95M2RVU251QWVJTllTYWJmYm1LN1lvVEd6M1NYVG1Zb1FqQ1A3MURmM1owVGRScGlsOVJhakhsRGtrWkl4YngxTm0xdW1KVVNoS1VyOGNnNkg5cy00eTBLU015YXBiQ3VuRTJDWURYTlQyTlRSVWRIRzM4c01oTDdXc0QzVTI1TW1nd1FfOTROVkNKdTFrb0dOdzkzX0ZhQ0laUQ?oc=5"
+    },
+    {
+      "title": "美股9月賣壓未歇！Citadel策略師示警月底仍有「下行風險」 AI股反彈可期？ - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zaTNFS2hpdVZPSk1nMlV1S0lVdlM1cFNiX2hLay11emp4YzBKejNVVlhNaGotR1oyZ3lTbWlicWF3SFhEaXdGWFo2WQ?oc=5"
+    },
+    {
+      "title": "50%現金＋50%正二太保守？他曝美股＋正二配置 網：總曝險是關鍵 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNc2hWbjJBMklmTFRsOGEwcm9HMlpZMlFvMDN2XzAybHRYbjdXMHBTNVdqSnpMdjE3RFdwN01kZkxiclpkRnBlZ2JCLUtjTWZoNV9oeEdDekRjQXoyU0FLQWhJSGw4OGhXSFdtbHJ5Mkc3clNGLTFocVBsMnV3Y2xwZ25qZW54NFowUk4zNjZCN0ZCUnJwS2ZhTnJSRGZFZjFNeWJyTk5QR2p2aUdmYWJ1NC1ma0xqcmRrYkJrSzJPVExoaHFsYnJnOWxXYmg2SFNiQnBuWlpxaFo3dlc2NjMzcjRDcXVlcWFUY1E?oc=5"
+    }
+  ]
 }
