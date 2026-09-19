@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/20 05:45",
+  "updated_tw": "09/20 07:54",
   "taiwan": {
     "2330": {
       "price": 2460.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 109.85,
-      "change": 2.95,
-      "changePercent": 2.7596
+      "change": 1.8,
+      "changePercent": 1.6659
     },
     "00878": {
       "price": 34.83,
-      "change": 0.36,
-      "changePercent": 1.0444
+      "change": 0.1,
+      "changePercent": 0.2879
     },
     "00919": {
       "price": 31.96,
-      "change": -0.03,
-      "changePercent": -0.0938
+      "change": -0.15,
+      "changePercent": -0.4671
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81031.23,
-      "change": 129.7691,
-      "changePercent": 0.1604
+      "price": 81292.4,
+      "change": 390.9391,
+      "changePercent": 0.4832
     },
     "ETH": {
-      "price": 2625.18,
-      "change": 13.8328,
-      "changePercent": 0.5297
+      "price": 2633.2,
+      "change": 21.8528,
+      "changePercent": 0.8368
     }
   },
   "fx": {
@@ -117,32 +117,32 @@
   },
   "news": [
     {
-      "title": "黃金突然大漲！衝上1週高點 關鍵推手曝光 - 自由財經",
+      "title": "全球央行調控通膨 美股漲跌互見 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DOXdvaG02SzBGRzRHaXI3V2pOUy1YMzEwaFNOQnE3ZnJQVmt4dndaSUFiQjlKRFZJNDdaUV9Hank2NjVtYUhzc1Rpa2E2VWJvWFI3bGhVX3ptVnFM0gFiQVVfeXFMT0hNcTZiVWJjUmJEcWUzRUVtMkRiSjcwUXRraDFhWFFxRHh1NXVia2JRdko4eXVySFFjRWVBOV9kcnkwaDNPS01oem5uemdxNDR0TENzdHBBQURCV3JjUTY0MlE?oc=5"
+    },
+    {
+      "title": "美股「升息前狂跌、升息後大漲」 網傻眼：到底怎麼玩？ - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOcXlLSVBLeEotTGdrY2JJakNPTWRSRXFuaVV0WTJxRGZ4dmpEREFaeUY2LWo1dV96OGtGTWYwQnpmY0RLcmxWY0oxUTNudGlYTmczRi1IQlNEdWNXMFl2S2VFa0wxTHdCWWZIZG93SEU0SXdLLUJLZGFreUtuMlBFV0o1b0Z4QktSMllvZDN2SWtINmEwV29mME1oRlFEX0FLTkc5RjFSem45Z2loRDRfY1BEUUsyR3lsbzRERDBOdjItWnh3eFRUa1lOekhEQTBmSXZLa0NORVJUdXc2Y28wcEt5NnZkQ2EzYUdVV3djNlpvY3VBOGZPb1VPZzhERFBUWWFTQkRZQ2tTeVUwaU5MVWNCa3Zsc3MyTTNGNHdtOFRhbzVVc3dQUGF0WmxxNHIwbHFWTGFCSS1FbXBKTG9mWGdiOVFBUTVzLTlhSk9xWVM?oc=5"
+    },
+    {
+      "title": "黃金突然大漲！衝上1週高點 關鍵推手曝光 - ec.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZcWRfbjVSV1Qzc0V3R3FKN0FiUHR1dEdtMWV0YzIyYUlHQ1g0ZFhyN01KZ2ZpLS1Ma0VEc2s5US11Z2dpR0t5Z2M3LUhRLXdOb2dXLTQtSGtILWM3dGJN0gFkQVVfeXFMTlNzblZ3T2h6Q0tXSTUxZTdkUW9zR055SGpXdmk0SmMyRlVWRDR1clFHSF9COWE3ZU8yYUNNcEVVdFV6cFdQZHhucFo3RlBWdDFCczNoMnlWbUVsXzNrTU9DTkpQRA?oc=5"
     },
     {
-      "title": "台股星期一怎麼走？美股遇「四巫日」震盪 台指期夜盤小跌 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNUmJsWW55RFVRRHAwRXBQZUJrS0d1WlF1MWw4Vlg5OWJCajlqNkVzcVVSOHM5NTFhWXZqUlUyNndTUFRIVVlQenlDMERvWjY4OUctcmJNOXlFa1NLRzBoOGFEUk8wWXUxeF9VdndmelNrdi1MZWFSRURhdk83bWVaSnFUWW84QVh5cmlDWnYwRE9UcDN1czRTOC1ORE9HUy1McXJPLUZQalFsNTcxM3hCRlJqQzlieXRjMk5BT1I1eHJJTE5HZnB0UUJxdV9hU1VSYmJaSEh3aDJUcXFuZmo1WFhSMW1kSTdKcHRQVmwxdjFvaVZPNzlrejAwS2pmQ1p3dTBvRW1obkpVVDNTV2tHRExhb3k?oc=5"
-    },
-    {
-      "title": "全球央行調控通膨 美股漲跌互見 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DOXdvaG02SzBGRzRHaXI3V2pOUy1YMzEwaFNOQnE3ZnJQVmt4dndaSUFiQjlKRFZJNDdaUV9Hank2NjVtYUhzc1Rpa2E2VWJvWFI3bGhVX3ptVnFM0gFiQVVfeXFMT0hNcTZiVWJjUmJEcWUzRUVtMkRiSjcwUXRraDFhWFFxRHh1NXVia2JRdko4eXVySFFjRWVBOV9kcnkwaDNPS01oem5uemdxNDR0TENzdHBBQURCV3JjUTY0MlE?oc=5"
+      "title": "台股市值躍全球第4大！謝金河預言今年獲利衝8兆證交所9月底再推市場儀表板- 證券 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGMWoyQmYtbVZPdmdBUDQ2enZWSFhOQmtCTks4VWkwRTlIN29tTEtJQV9FZlBmZGdwa1hfODhDSk1BMGM5b0FXQVVoMGlSdVBnQVVrMkRBdUxhd21LUFo0?oc=5"
     },
     {
       "title": "〈美股盤後〉美股四巫日震盪 晶片股力撐 費半升近3% 道瓊周線創半年最大跌幅 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IZm9rTElIWHNVUXhFUlNBTkk5MURPNUlfZW5ITjVzdFl6X0QyTjBYX1ltMktobGJ6eVJORjE2UG9tb0RYZ2VTYnpPTDdqZEE?oc=5"
     },
     {
-      "title": "美股四巫日費半勁揚3% 道瓊周線半年跌最多| 金融 - 非凡新聞台",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vLU01RnBNQnNUSHdoazlyQzdFNGp6d2JVaFNSVF9DMndMZ1Rld0hiNl9hS2ZBOEdDRGsweHZhcXM3UDNPcU91Z0owNno5WXdHREFacHU1X2dqajg?oc=5"
-    },
-    {
       "title": "2026年9月台美股行事曆｜聯準會升息機率近九成 (本週FOMC會議)？！ 季底作帳碰上中秋連假會變盤嗎？ - sinotrade.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiwgVBVV95cUxNMnpPdXk4Zkk5NkN1VVREMC1yd3lldmQ5NEllbVdFSmdPTEM3NEJZc1NkMGc3dkNCRjBZTVozVDVUWWhoVll3dGFTZDFfbG1fa3RJOWNrSkM3VFJLQWZLSXdaTk93MFBJWnhjOF9xSmdleVNkRnp6QUhHaTRWMFFNSUtUQVgybXFQZU5XM2c5RGRCZ2R2aG1QdGJQbFRkM3RuTFRlc0M0bW1XUGxIMnR2Y2FSUEk2QWgyQVFaSHhVTjE1OWZDdnJ1bXFmQW9qLVdYTGw0Q1JMVzBZMEl1ZDhCeERxTEtVdWRWR19PNk90VWY1bWFaQnZVLXhrUVo5OURJVzU1TTlYQWt3SkNST0R0ZlVrbmpfTW9iLXBUanhISEFnaHJ1Y2x0N05NQ1pCY003c2hPeUtlWkluR01rcFdqSlBnVEFoTERQZzlNZDcxdmFld0RGWEhuc20wejEtNnM3UnZPZTV6cmpSM3c4LVBGenFJSEVIUjhqT1ZsSjBhX2ZNZUVRY09aUVhmRGJEekVzSThDMkJIRVhsdmY3YVU4cmZ5aXVXNkp4ZWF0OWY1QnQ3WHRIQTVoeHVCQ21WaFB1MGpKVUZiSVZtUmFidE1xamJ0ZzMzaFB5V0JmQ1NNUjBkclFRcFVPcWx0QzBDdy1EMDhKTjFGbEhsMTFhUGFRUGNGZl8zNVltLVl6aG1NV1BCZVNvN1RlMWVKdDlnSi1CanNwbWZLOUJJM2NacVhJZVd1VnlsWGhWYmVSYVZ6ZUZhNkhOQkxkR0dZUlZobjFLZWpmSHRqTlFKRlhPeUtfUVpIejdqaG5TYVh4R0l2QzBaUDF4c2dWdWR0WFd2anZpVGJpQWJVU0I4WFR3NXU4THVXd0VmRkZXS3RyMkRvNWRjcUd2ZnJ2TzBaVHhIb3NaSzRvNXVua082MW1zN25RUFJR?oc=5"
     },
     {
-      "title": "美股「升息前狂跌、升息後大漲」 網傻眼：到底怎麼玩？ - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOcXlLSVBLeEotTGdrY2JJakNPTWRSRXFuaVV0WTJxRGZ4dmpEREFaeUY2LWo1dV96OGtGTWYwQnpmY0RLcmxWY0oxUTNudGlYTmczRi1IQlNEdWNXMFl2S2VFa0wxTHdCWWZIZG93SEU0SXdLLUJLZGFreUtuMlBFV0o1b0Z4QktSMllvZDN2SWtINmEwV29mME1oRlFEX0FLTkc5RjFSem45Z2loRDRfY1BEUUsyR3lsbzRERDBOdjItWnh3eFRUa1lOekhEQTBmSXZLa0NORVJUdXc2Y28wcEt5NnZkQ2EzYUdVV3djNlpvY3VBOGZPb1VPZzhERFBUWWFTQkRZQ2tTeVUwaU5MVWNCa3Zsc3MyTTNGNHdtOFRhbzVVc3dQUGF0WmxxNHIwbHFWTGFCSS1FbXBKTG9mWGdiOVFBUTVzLTlhSk9xWVM?oc=5"
+      "title": "美股「四巫日」4大指數僅費半漲1.2%！晟碟飆5％突破1700美元、台指期夜盤站穩47K - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOMEJ0N29ycURCNDQ2bHNOUl9fNUpCMmpzU2pPQmw4ZlM0WjF5QkRmVVA2Y253amhDRnNNN1FxYUtOcURvbkhlWnUzX1R3YXBBNkc0M2FrR1FFZTFHM3BHeF91R1o1NU9sblh6VnBzams4UlRSemo1WV82N1k1dWhFRVh6NWNIZGh3NWFBVXpQb3BtdzFsQmpkemFYeFJjSkJlNzdrRGtocWs4NE14OE9SaV9jc1ZzamtldFZBTDVDeTRJVE5PZW9XWGVOSUx1RUFsQVJkZk5DTW1MVVVQX3Y1SUZpTDlzQkZtLWRMM2JFUUZMUEY3bFE4U0laTWRwcDI4bkRkZFRlQnlSSVNYWXZ1SVBTSlF1R29EcUE?oc=5"
     },
     {
       "title": "比特幣漲破8.1萬美元 - 經濟日報",
