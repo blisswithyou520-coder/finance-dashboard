@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/21 03:17",
+  "updated_tw": "09/21 05:44",
   "taiwan": {
     "2330": {
       "price": 2460.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81054.11,
-      "change": -179.5697,
-      "changePercent": -0.2211
+      "price": 80784.07,
+      "change": -449.6097,
+      "changePercent": -0.5535
     },
     "ETH": {
-      "price": 2626.61,
-      "change": -5.3526,
-      "changePercent": -0.2034
+      "price": 2620.94,
+      "change": -11.0226,
+      "changePercent": -0.4188
     }
   },
   "fx": {
@@ -94,12 +94,12 @@
       "changePercent": -1.8084
     },
     "EURTWD": {
-      "price": 36.522,
-      "change": -0.0296,
-      "changePercent": -0.0811
+      "price": 36.51,
+      "change": -0.0416,
+      "changePercent": -0.1139
     },
     "CNYTWD": {
-      "price": 4.7495,
+      "price": 4.746,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "黃金商品坐擁三利多優勢 成為多元配置核心 - UDN",
+      "title": "台股中秋會變盤嗎？杜金龍破解股市走向：看好「這幾檔」 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPdUJQU3NXcks5Y3NXVmdScUxtSGY3Z3k5NXNkclBrSW1tUXhUbWZzZXVEZjdscHlmdG5GMGQ2UDgyXzVFcU9uS3FVWVRkRVAxVXg0bjlxc2FxcVpfczVoeU5sQnB1bW90dEtxLTJIal9RN2dOaVV2TTVlRHg0S0VBMHBDRndBV0lVVVJnUDZaOVBVVTEzY1NnQk9pc3h5OFhXWG9VV296Y2VvNm9PUDhRU2FlR0FQWUliQXdhNXBPVDk1a0daaWFncGt0WEhFQXBFSk1FQVM4Z3ZBM21FU2ZKalJGUmNQR2VUUlJlQWdkcFlfZHhKMXRXZ0d0Q2tFV1kyTFhvX1U5RVJscFFvaXRSODU0N0xGbGJSQk5iNFQwVW1XMHBGWHdqTHp1T0RaTXhHR2ZjNGNJazhPWktqWVRTaE5LVTJUblRweU56czN2Qk5kUl9YX2xGNFVCcTlLbUk?oc=5"
+    },
+    {
+      "title": "黃金商品坐擁三利多優勢 成為多元配置核心 - udn.com",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83RzFaQmkzSE5QSUZxRHkzNmFrNDlhVndNdFE3cjdxMnVLTnMxX3F6SmI0QjRSVUk2ejRiTG5ua28yUVBtdW5vSHlzbkF4dmtBTUHSAVdBVV95cUxNa2lINHJEMFRZZTVodFp1V21xbElTZ0xnaktPSlJpUnRhbmJTaFFEN1J3VXBrSDI3NThIQkI4MzZjd1V6RTRucndGZTY2N1k3NTR5dHdyeTQ?oc=5"
     },
     {
-      "title": "台股震盪照樣跑贏大盤 一週績效王它報酬逼近8% - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOcFYycVBOM2NpS3RmVTN1MkE2ekpTOTB2dzVIQUFKSzhtUDN5X1daeXZBQTRqX1NBNG5BMlFJQm05a0p0ZXZGVzJmcVQxa09aWjVlYU1XLU9DcUVUa2R5RkRMdHFuQUlLTFlYS3IzMERkblMwYXdMbGV3VlVVUXRvdFhLTGRzS2lOVXhVWlZOdUQwUDVaQVRRVUNSNjE0dm5ncUE5cG9yYXZ5MGN4Mzl0MzJrc2V3TFZWbnlNODF4aFA4Nm9RNGhzY3R3eUtfZF9PemQzY0xzQjhCY3RSVHRNSVV3WVBsV05IRHhxV05SSHVkZlh3NTJ0RkFIblNKcUptNWg2SzAyOGx5dlp0QVdZTnRpcE1ObENOMWRrTGdmSlRFbzdhUTZqaDJuTUZoVm5QSV91dHA2dDlrdw?oc=5"
+      "title": "DWS 投資黃金貴金屬股票 USD LC 的總覽 | 鉅亨網 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFNSVZTQ2kybUxab2JiUmFnSFpVQWFzQzJBLVZqS0xQT2hZYjRaek1WR3BET3BWRkZNVGJzdXlsTlZZSWg1RWtGY054cGF2bVFySFJkUXVLcWVmamhra1lMaTRDd09OX0Vtc0NfQnFyU19wdUhRUFFNM1dpbmRPeWhWcHZHaXdVQXRwT3NUb0ZjanNUTXV4eWR3RlQwTWRERVFRLWx6U2VSbnFOOE5rcHJ0RU9raXkzdWNMUmZoa2JpOS1UQkxTTm5pWHBUSDc5T2U5SHJYU05uUTJmV1JybENpVQ?oc=5"
+    },
+    {
+      "title": "台股挑戰新高 觀察量價2指標 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxbUNGQWZENHZVVFpVWl9CTHNJSUR0V2prU19UNnVndzlPbEpieUJybDNFUUttSEV4aXNaWXVsVTdzdlN6b05TUHRKeWxsMm1EcU5OUU9R0gFbQVVfeXFMT2YzNWo2SnRLVDVUN3Z4c2VJNkk4UGo5SWM5XzJFTDNzSlE4S3c5aWl4bGM2bVlJWTY3Nl9ZQUR2REltMUNIRjJ1UDAyaUpzcTVMdDRObE1vR1hmRQ?oc=5"
+    },
+    {
+      "title": "美股熬過兩關卡 蓄勢上攻 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YRTI3V3BwUkQxYlgxNU43X3BrOEYwNklveUFHMFZyUzJwRkEtZEJOR0l2VkhRamtCX1lEb1ZzWkRzdjJvZExuQ0RweEFJT1k2czJwT29hWENLV3JJ0gFiQVVfeXFMTkEyYUg2OW9GclFDVVBxek5sVUxnR0hUeXZQZW9DdmxnOWRmT3NRaXBNQVJCSThObm50eHJhekJQWmV5ZXctZ0FGUHlCUmRzMDhudzZpbS1UblRlVEJTbTVGNkE?oc=5"
+    },
+    {
+      "title": "甭管台股中秋變盤、休市四天！投信大換股名單曝 這檔ETF23進23出 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxORXUycDJyS0U4cGI0LU5JSHVQRmNhcXNtWEd3YXFDMWlpNm1CX2VyMlpiUG80MHBmaEp2Yng1VFpweXZsRzNnY2Y5QnVBbmhxSUV2R2ozN0RQa0VtSzV3TDRhQVRkWGlUakpubTdBUkpQZ3A4NmdLQktrQjdtb042QURxb0wwd2R0aWxQd2pyU3RVLVE1VHFwR2VjRXM5UTFLdGREeC1DWFNGdzloMFlwcjVjVVp0dmwxdEowSEU4cW1ZSFBqRzlJWEMybUppd0d1M0IydjVSOTFOVGdYaVh6RTlDSlN2VlFuQVd5ZTh0SnBRdTRiZkowa09ZSXZlOEU2U1Q4cnRQd2dadV9JUGJHS0JSOGhLSDhNLTZMS2pIWjJfWGlDRTFqMDQ5dXAxYlNJSEhrc1NMaFI4cENCTnBKazhoMHJ0WU1rXzZ0OUlmemVrQWhIWkVCbkt6OG9ub0llbVJWc0pNN0s3ckZzZlI3Z1lIVjlzYUlIbi10enByanc?oc=5"
     },
     {
       "title": "〈台股風向球〉升息利空出盡站回4萬7 惟提防中秋連假前賣壓 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfb3VTRm82a2lJSXJwLXctdFI3Wi1BYy1YTk9XTDk1Z0x0ZkM5cDJYWjhGZEVNRWcyaHotdE92OWZTQ2FsYVp2R2xNMGh2SjA?oc=5"
     },
     {
-      "title": "抱股賞月台股8利多護航- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyWGFBbGdMUVJhdUNTemxVZ1BYZk1ZLW5wdHBickVGaDV0SlZtYmpWazFFQWhSR0NtVHFzcXVCanVfVHBhVWZFNVNqOWdkd0t1UFFXQUtRakJlZlBra0NN?oc=5"
-    },
-    {
-      "title": "Michael Saylor再发比特币持仓图，Strategy或将继续增持BTC - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtMDJQWmNzRkh1SS02WFdOdE43THZBUTZRZ3BWNVR5N1dGMjl1UlNaM3RBdzZEWl92ZnZvSnVCM1B4YXFsSWxjMi1YQTdWbHBKTF9hek1yV3RqQmVvdl9MdVo3alV4dw?oc=5"
-    },
-    {
-      "title": "黃金ETF 四檔放光芒 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0OXA5ZXJneFlzYjJaNUhDNGZQSTljNklKSHdiRVJGWHVQbjV0M19SLWU4ci15dV8zQTlHZjJ1dTNxcU1uQmVqNTB5dnVReDByM1Bj0gFYQVVfeXFMTlNuUnJEZXhaX2dJbGZaUFQ2UVJQWDNSWkJVYUt1ODFzalNSbkxuQXkwQzB4OUtlYzgxMk5PelVscXRuN1picUNnUWo0cGtZdEZaN2psdHFSUw?oc=5"
-    },
-    {
-      "title": "台股週線收紅 明開盤前1風險必看 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTC1zV1lQTjZxR3cxNERuTjJUOUk4Smxhc1AyQUUyWWxGSlh6YjZwRXpoVkRmRERsSjREZVNOME96TlRXNXVxd3ZDTm8tVlpjVkNtMm5PSFdwQmVOLWdfM3VFSC10TnJmNkNzU0JwNEhxcjR2cmRsd0pnR05PR3hXN19OMi1xSTJGYklsMHpnaC15TzdLSmxyMXh1aUE3RHItcE15ejlLSXRuMXFjMHQ4b1gxaklFdXlFcmt3cnh3TW9TVTBwelo1VHJOY3hDN2szUm1OcGhtOEVsRF9qQ3pjaWNEYTNGSjJmMVBJS2REWWlybGtiWlhXc0lkOTFTUQ?oc=5"
-    },
-    {
-      "title": "黃金期 靈活操作 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrSlV0UTVsbmFTcks4UDF5dnU1dXFxSEJqbXpfSnJRZFZ2dVpvQWoyZmJLVVhkajNmVWJobGZKeEgzTFloVmJqN25nV2VQb1Fj0gFWQVVfeXFMT0dMUl9zblNOemVZdUd3VzBJRzQ1eXN6aDZiNVFGR05DZVhQMkZvZDFFVklzQWlwN3RmVlhoVm05NGg5ZHdVSDNQVlBEa1Z1d3FKeTBZYVE?oc=5"
+      "title": "輕舟已過萬重山巴隆：美股熬過兩場大考蓄勢待發| 全球財經| 全球 - udn.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNbm1DaXpYeGNOeVh2SkpEYXU5UHFMNkJiS3B6T0diZnJyd2tFZzY3c1B1cVVzVi0xckZiNlZwX3E1SGVucmRNWi1fVDlUN2NE?oc=5"
     }
   ]
 }
