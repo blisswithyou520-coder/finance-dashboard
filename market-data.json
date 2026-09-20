@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/21 05:44",
+  "updated_tw": "09/21 07:34",
   "taiwan": {
     "2330": {
       "price": 2460.0,
@@ -8,9 +8,9 @@
       "changePercent": 0.0
     },
     "2454": {
-      "price": 4600.0,
-      "change": -110.0,
-      "changePercent": -2.3355
+      "price": 4710.0,
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "2317": {
       "price": 250.5,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80784.07,
-      "change": -449.6097,
-      "changePercent": -0.5535
+      "price": 81146.82,
+      "change": -86.8597,
+      "changePercent": -0.1069
     },
     "ETH": {
-      "price": 2620.94,
-      "change": -11.0226,
-      "changePercent": -0.4188
+      "price": 2640.69,
+      "change": 8.7274,
+      "changePercent": 0.3316
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.763,
-      "change": -0.0881,
-      "changePercent": -0.2766
+      "price": 31.808,
+      "change": -0.0431,
+      "changePercent": -0.1353
     },
     "JPYTWD": {
-      "price": 0.2003,
-      "change": -0.0037,
-      "changePercent": -1.8084
+      "price": 0.2004,
+      "change": -0.0036,
+      "changePercent": -1.7594
     },
     "EURTWD": {
-      "price": 36.51,
-      "change": -0.0416,
-      "changePercent": -0.1139
+      "price": 36.56,
+      "change": 0.0084,
+      "changePercent": 0.0229
     },
     "CNYTWD": {
-      "price": 4.746,
+      "price": 4.7528,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4424.9,
-    "twd": 4519.0,
-    "tael": 169452.0,
-    "twdTotal": 140548.0,
-    "changePercent": 0.5728
+    "usd": 4411.2,
+    "twd": 4511.0,
+    "tael": 169167.0,
+    "twdTotal": 140311.0,
+    "changePercent": -0.3096
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,11 +117,15 @@
   },
   "news": [
     {
-      "title": "台股中秋會變盤嗎？杜金龍破解股市走向：看好「這幾檔」 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPdUJQU3NXcks5Y3NXVmdScUxtSGY3Z3k5NXNkclBrSW1tUXhUbWZzZXVEZjdscHlmdG5GMGQ2UDgyXzVFcU9uS3FVWVRkRVAxVXg0bjlxc2FxcVpfczVoeU5sQnB1bW90dEtxLTJIal9RN2dOaVV2TTVlRHg0S0VBMHBDRndBV0lVVVJnUDZaOVBVVTEzY1NnQk9pc3h5OFhXWG9VV296Y2VvNm9PUDhRU2FlR0FQWUliQXdhNXBPVDk1a0daaWFncGt0WEhFQXBFSk1FQVM4Z3ZBM21FU2ZKalJGUmNQR2VUUlJlQWdkcFlfZHhKMXRXZ0d0Q2tFV1kyTFhvX1U5RVJscFFvaXRSODU0N0xGbGJSQk5iNFQwVW1XMHBGWHdqTHp1T0RaTXhHR2ZjNGNJazhPWktqWVRTaE5LVTJUblRweU56czN2Qk5kUl9YX2xGNFVCcTlLbUk?oc=5"
+      "title": "《貴金屬》COMEX黃金上漲0.6% ETF持倉增加-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHdLZ0xwUW12RldIUjhRd2Q5UjNRUllXWUVGQUpMcWF2ZFgtUFVEM0llVzBCektOanFOZ0U3Z1FVZ2VVZE9qbE95ZmZOdThQZjNZNFUzSWZKNXJaRFJnQmZ0OUZtUW0wSVlIU0cza3BRWXF2anA0YVBnd0NESEpJRWdwemNKVHVYUnVIbGZKN0hyVGM?oc=5"
     },
     {
-      "title": "黃金商品坐擁三利多優勢 成為多元配置核心 - udn.com",
+      "title": "黃金王子專訪｜提領實體金條不用苦等！ 黃金存摺代幣化Q1上路省時又省錢 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPbGttam4xc0VLTjZPenFfZVduVmRoQkliNnRzdVN2NFd0SV82Wk52RDRobTJfN0ZxVk4yQ0xrdDdpQVMzT21xUWg0MUE1NFJ6cTZwU0xxZkZUSG5pc294TXoweEJBN0hzYzJtYTVTSHI2dWVZNll6cGpoODJqUGFNRWpMV3h2RzI0N3E4b2ZqU0w2VENJeHlwNGE1ZFZESzlzLW5uekVIckJDLU1USldiU1pNTkZyMnhfc000TUx0V2hZbV9Xa2lEakZrZWpTcnpRVE80NHJobnUwd2RuN3RQNU42OWRyaHFBYkJrakxZRExFSHkyQllZbzRPZWlQZFZmYUYtNkRHXzFWeDQtUElnNUpNSzZSWUxfZGE1b1Z6bnF5bjRzTm5zemk5eDEzd253NlBqOUpNcEd2MkNSeGxxbndGNXl1VjczWk84MzVSQldZV2R4TGlHNzBXZWx4clZoakd6MENheXhZRTVnQkdWN01SemM0NTkxLW51ZXlFLTAwdzFBZzdla0U2clN1R3l6UVRianFGYTRGWjNTTENHWUZKay04S0hQOTJMc1lSU0EyZnRxSElnYzgtQ3lnYUtRZGZGc3YtVXM?oc=5"
+    },
+    {
+      "title": "黃金商品坐擁三利多優勢 成為多元配置核心 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83RzFaQmkzSE5QSUZxRHkzNmFrNDlhVndNdFE3cjdxMnVLTnMxX3F6SmI0QjRSVUk2ejRiTG5ua28yUVBtdW5vSHlzbkF4dmtBTUHSAVdBVV95cUxNa2lINHJEMFRZZTVodFp1V21xbElTZ0xnaktPSlJpUnRhbmJTaFFEN1J3VXBrSDI3NThIQkI4MzZjd1V6RTRucndGZTY2N1k3NTR5dHdyeTQ?oc=5"
     },
     {
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxbUNGQWZENHZVVFpVWl9CTHNJSUR0V2prU19UNnVndzlPbEpieUJybDNFUUttSEV4aXNaWXVsVTdzdlN6b05TUHRKeWxsMm1EcU5OUU9R0gFbQVVfeXFMT2YzNWo2SnRLVDVUN3Z4c2VJNkk4UGo5SWM5XzJFTDNzSlE4S3c5aWl4bGM2bVlJWTY3Nl9ZQUR2REltMUNIRjJ1UDAyaUpzcTVMdDRObE1vR1hmRQ?oc=5"
     },
     {
+      "title": "專訪3｜黃金震盪築底「該賣都賣了」！ 投銀再喊上看5000美元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPbVpwSDNYMFlFZlZwZ0RfYWxvT21Pd29uOXU5blIwRS1lZmctZFVZVjMwa2tJOU1VZUdYemZiMkVRR0NxVDRJRlR0eVgtdW1zcGc1bzU5Q0FDVnVwZEVpeGh4bV92SmhpeFQ2MkhidjduMVpLYXE0cDRmbkJIWjRFMkY5YzJsX0VjSUhHNXE4ZlZDQXIxbThIUWJubHZtZGJYWG9adFg1SG5tQ05PVVBJWHFFbWhraW1McU82SlFtV0ZLcGMyTjA0SUlaWENVcTVWMFhXRWdTVk9uNWJrelhGY0ZlLVNlV3RLUVJZM0pvQl9ZTl9TMmZaRkIyZngwWi1meDFjWnZwVGZRaVoycndWRUlfX0VWTmdRVlpsOUM1RUtudkd3dnJvNXdVQktwa1oxYlV0bHVUMDhtOEFBSk1PaUs3ZTBXd3FxTDRJaE5WZ2I5TWd2UjduVHBKZk1vcXNWbkE?oc=5"
+    },
+    {
+      "title": "《美股》三巫日+指數再平衡 記憶體/加密/費半嗨-新聞內容-基金 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQzNpRHV1YWYwbDhEUHplcldfdHJBN050cHg1bllaOERaWFZkcERBaWJobUN6VlpLNmUzLW9kUDlJZTNjUWs2ekFHdm1JeU5LVnJGY1VxLVRjVVVyaDh6SjZCUHpHSDY0ZXV3Szh3RG1DWENRbmFiYWJPTms0VzVyY2VTRHJRR1U5WmFTeE1yaWQxU1E?oc=5"
+    },
+    {
       "title": "美股熬過兩關卡 蓄勢上攻 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YRTI3V3BwUkQxYlgxNU43X3BrOEYwNklveUFHMFZyUzJwRkEtZEJOR0l2VkhRamtCX1lEb1ZzWkRzdjJvZExuQ0RweEFJT1k2czJwT29hWENLV3JJ0gFiQVVfeXFMTkEyYUg2OW9GclFDVVBxek5sVUxnR0hUeXZQZW9DdmxnOWRmT3NRaXBNQVJCSThObm50eHJhekJQWmV5ZXctZ0FGUHlCUmRzMDhudzZpbS1UblRlVEJTbTVGNkE?oc=5"
-    },
-    {
-      "title": "甭管台股中秋變盤、休市四天！投信大換股名單曝 這檔ETF23進23出 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxORXUycDJyS0U4cGI0LU5JSHVQRmNhcXNtWEd3YXFDMWlpNm1CX2VyMlpiUG80MHBmaEp2Yng1VFpweXZsRzNnY2Y5QnVBbmhxSUV2R2ozN0RQa0VtSzV3TDRhQVRkWGlUakpubTdBUkpQZ3A4NmdLQktrQjdtb042QURxb0wwd2R0aWxQd2pyU3RVLVE1VHFwR2VjRXM5UTFLdGREeC1DWFNGdzloMFlwcjVjVVp0dmwxdEowSEU4cW1ZSFBqRzlJWEMybUppd0d1M0IydjVSOTFOVGdYaVh6RTlDSlN2VlFuQVd5ZTh0SnBRdTRiZkowa09ZSXZlOEU2U1Q4cnRQd2dadV9JUGJHS0JSOGhLSDhNLTZMS2pIWjJfWGlDRTFqMDQ5dXAxYlNJSEhrc1NMaFI4cENCTnBKazhoMHJ0WU1rXzZ0OUlmemVrQWhIWkVCbkt6OG9ub0llbVJWc0pNN0s3ckZzZlI3Z1lIVjlzYUlIbi10enByanc?oc=5"
-    },
-    {
-      "title": "〈台股風向球〉升息利空出盡站回4萬7 惟提防中秋連假前賣壓 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfb3VTRm82a2lJSXJwLXctdFI3Wi1BYy1YTk9XTDk1Z0x0ZkM5cDJYWjhGZEVNRWcyaHotdE92OWZTQ2FsYVp2R2xNMGh2SjA?oc=5"
-    },
-    {
-      "title": "輕舟已過萬重山巴隆：美股熬過兩場大考蓄勢待發| 全球財經| 全球 - udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNbm1DaXpYeGNOeVh2SkpEYXU5UHFMNkJiS3B6T0diZnJyd2tFZzY3c1B1cVVzVi0xckZiNlZwX3E1SGVucmRNWi1fVDlUN2NE?oc=5"
     }
   ]
 }
