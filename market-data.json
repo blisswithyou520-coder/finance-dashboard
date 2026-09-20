@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/21 00:56",
+  "updated_tw": "09/21 03:17",
   "taiwan": {
     "2330": {
       "price": 2460.0,
@@ -8,9 +8,9 @@
       "changePercent": 0.0
     },
     "2454": {
-      "price": 4710.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 4600.0,
+      "change": -110.0,
+      "changePercent": -2.3355
     },
     "2317": {
       "price": 250.5,
@@ -18,19 +18,19 @@
       "changePercent": 0.0
     },
     "0050": {
-      "price": 109.85,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 102.0,
+      "change": -7.85,
+      "changePercent": -7.1461
     },
     "00878": {
-      "price": 34.83,
-      "change": -0.0,
-      "changePercent": -0.0
+      "price": 35.01,
+      "change": 0.18,
+      "changePercent": 0.5168
     },
     "00919": {
-      "price": 31.96,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 32.66,
+      "change": 0.7,
+      "changePercent": 2.1902
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81290.99,
-      "change": 57.3103,
-      "changePercent": 0.0705
+      "price": 81054.11,
+      "change": -179.5697,
+      "changePercent": -0.2211
     },
     "ETH": {
-      "price": 2638.21,
-      "change": 6.2474,
-      "changePercent": 0.2374
+      "price": 2626.61,
+      "change": -5.3526,
+      "changePercent": -0.2034
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "黃金期 靈活操作 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10dVZuWG1iOHAzZzVzdFpNcldxZHlqTWdRcWFVc2tVWFBIN09naThhUWdlZlVzekZjS1FaR0syX0tqcW15TG94SldXY0wzOVRWT29KQTB0d3ZEZlnSAWBBVV95cUxOMV9jbnlFRzRHSi1CU0VBSXJBMHBPYkFXbm9xWlFaUGhacjZQdHd5NXc1NGdnVzU3RXN6U200VUhjQUIwZ2FyQkNsWkxqYU9BZEd4RE9NWnNqV3gyaDRGYlQ?oc=5"
+      "title": "黃金商品坐擁三利多優勢 成為多元配置核心 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83RzFaQmkzSE5QSUZxRHkzNmFrNDlhVndNdFE3cjdxMnVLTnMxX3F6SmI0QjRSVUk2ejRiTG5ua28yUVBtdW5vSHlzbkF4dmtBTUHSAVdBVV95cUxNa2lINHJEMFRZZTVodFp1V21xbElTZ0xnaktPSlJpUnRhbmJTaFFEN1J3VXBrSDI3NThIQkI4MzZjd1V6RTRucndGZTY2N1k3NTR5dHdyeTQ?oc=5"
     },
     {
-      "title": "台股週線收紅 明開盤前1風險必看 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTC1zV1lQTjZxR3cxNERuTjJUOUk4Smxhc1AyQUUyWWxGSlh6YjZwRXpoVkRmRERsSjREZVNOME96TlRXNXVxd3ZDTm8tVlpjVkNtMm5PSFdwQmVOLWdfM3VFSC10TnJmNkNzU0JwNEhxcjR2cmRsd0pnR05PR3hXN19OMi1xSTJGYklsMHpnaC15TzdLSmxyMXh1aUE3RHItcE15ejlLSXRuMXFjMHQ4b1gxaklFdXlFcmt3cnh3TW9TVTBwelo1VHJOY3hDN2szUm1OcGhtOEVsRF9qQ3pjaWNEYTNGSjJmMVBJS2REWWlybGtiWlhXc0lkOTFTUQ?oc=5"
+      "title": "台股震盪照樣跑贏大盤 一週績效王它報酬逼近8% - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOcFYycVBOM2NpS3RmVTN1MkE2ekpTOTB2dzVIQUFKSzhtUDN5X1daeXZBQTRqX1NBNG5BMlFJQm05a0p0ZXZGVzJmcVQxa09aWjVlYU1XLU9DcUVUa2R5RkRMdHFuQUlLTFlYS3IzMERkblMwYXdMbGV3VlVVUXRvdFhLTGRzS2lOVXhVWlZOdUQwUDVaQVRRVUNSNjE0dm5ncUE5cG9yYXZ5MGN4Mzl0MzJrc2V3TFZWbnlNODF4aFA4Nm9RNGhzY3R3eUtfZF9PemQzY0xzQjhCY3RSVHRNSVV3WVBsV05IRHhxV05SSHVkZlh3NTJ0RkFIblNKcUptNWg2SzAyOGx5dlp0QVdZTnRpcE1ObENOMWRrTGdmSlRFbzdhUTZqaDJuTUZoVm5QSV91dHA2dDlrdw?oc=5"
     },
     {
-      "title": "Peter Schiff：SEC代幣化股票創新豁免利空比特幣 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmMTFwOFJmazFtcjB0cEsxQ0ZJRkdWNUo2TnF5eTJVQ2U5aTBkQklnYS0yVWFqWmNXbVdheGRlMTAtZGk1TkVfYlAzTQ?oc=5"
+      "title": "〈台股風向球〉升息利空出盡站回4萬7 惟提防中秋連假前賣壓 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfb3VTRm82a2lJSXJwLXctdFI3Wi1BYy1YTk9XTDk1Z0x0ZkM5cDJYWjhGZEVNRWcyaHotdE92OWZTQ2FsYVp2R2xNMGh2SjA?oc=5"
+    },
+    {
+      "title": "抱股賞月台股8利多護航- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyWGFBbGdMUVJhdUNTemxVZ1BYZk1ZLW5wdHBickVGaDV0SlZtYmpWazFFQWhSR0NtVHFzcXVCanVfVHBhVWZFNVNqOWdkd0t1UFFXQUtRakJlZlBra0NN?oc=5"
     },
     {
       "title": "Michael Saylor再发比特币持仓图，Strategy或将继续增持BTC - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtMDJQWmNzRkh1SS02WFdOdE43THZBUTZRZ3BWNVR5N1dGMjl1UlNaM3RBdzZEWl92ZnZvSnVCM1B4YXFsSWxjMi1YQTdWbHBKTF9hek1yV3RqQmVvdl9MdVo3alV4dw?oc=5"
     },
     {
-      "title": "High翻!外資大買近870億 台股挑戰歷史新高看兩大指標 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oQ283bGtnN2JyWFUwbS1WVWFnbzJkNTAySVFEeFZJS3luSmQ4UEtuUlpWNWMzVmdnS1F5WjNDdjNIbTlhMnZyOFdNY19TYUF6NTdUNFdsdThKYzJtYm5z0gFkQVVfeXFMT25HVGg5NkpUM0djVDI2TlNYaEwyLU40dF9YeWdVV2VFVnE2U3lnMkEwNGtxUTRxWk83dmltV1pBbDNtRHpNT2Znc3Y2ODNVMmxGU1liYXZoV1VzVmRpU04xcjFIRw?oc=5"
+      "title": "黃金ETF 四檔放光芒 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0OXA5ZXJneFlzYjJaNUhDNGZQSTljNklKSHdiRVJGWHVQbjV0M19SLWU4ci15dV8zQTlHZjJ1dTNxcU1uQmVqNTB5dnVReDByM1Bj0gFYQVVfeXFMTlNuUnJEZXhaX2dJbGZaUFQ2UVJQWDNSWkJVYUt1ODFzalNSbkxuQXkwQzB4OUtlYzgxMk5PelVscXRuN1picUNnUWo0cGtZdEZaN2psdHFSUw?oc=5"
     },
     {
-      "title": "$比特幣 (BTC.CC)$ 目前上升趨勢依舊明朗， 讓我們拭目以待 - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb3ZvVi1xUVNha29VTmRFZ21YN091cDRrNHdDTGJITkVjeFcwYmlqVk1BWTFiQkNiQnQ0QzJtaW1hMXFsMC0xYVRqdXVXY1RINXBGOHgycFdzTV84am9NUlpvbzhXT3hYYTl0LVFBTTdvUG9OUndjZk55ZHo5dVBKSmRfb2VIN3E1eV91T3l3V21sTGFRT2dOempEZjE5dUFyTUU5MG1kYWp1bU14SFV1LTkwYkEyQQ?oc=5"
+      "title": "台股週線收紅 明開盤前1風險必看 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTC1zV1lQTjZxR3cxNERuTjJUOUk4Smxhc1AyQUUyWWxGSlh6YjZwRXpoVkRmRERsSjREZVNOME96TlRXNXVxd3ZDTm8tVlpjVkNtMm5PSFdwQmVOLWdfM3VFSC10TnJmNkNzU0JwNEhxcjR2cmRsd0pnR05PR3hXN19OMi1xSTJGYklsMHpnaC15TzdLSmxyMXh1aUE3RHItcE15ejlLSXRuMXFjMHQ4b1gxaklFdXlFcmt3cnh3TW9TVTBwelo1VHJOY3hDN2szUm1OcGhtOEVsRF9qQ3pjaWNEYTNGSjJmMVBJS2REWWlybGtiWlhXc0lkOTFTUQ?oc=5"
     },
     {
-      "title": "【全球】行情回顧與本週重點 | 財經Ｍ平方短評 - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCMVE0OWVCcWlaTVFlTFVuOUl3SExIQXBWcmNNV0QzM2k1QW5hTG5DbkhDM09HWWZoTGZDN0JrSXpCaFJUV3k0YW9jcTMyanV1QWhOQThn?oc=5"
-    },
-    {
-      "title": "黃金商品坐擁三利多優勢 成為多元配置核心 | 基金天地 | 理財 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONEtzLWpNTnI3cUdDMjdmcHJ5VWs5QjhFVURNaHY3TU1Jd2t1MDFCa3FkQ0VtbGh0QkE2Zk5Udm14VTlnZnVvZ3gwbVVaazdrQVdJNEdwZGZ2MWl5TmtyR21na2Y2MUppdE8xMGtYYkxpM2QzQkJSWDNGMWFuV09uaA?oc=5"
+      "title": "黃金期 靈活操作 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrSlV0UTVsbmFTcks4UDF5dnU1dXFxSEJqbXpfSnJRZFZ2dVpvQWoyZmJLVVhkajNmVWJobGZKeEgzTFloVmJqN25nV2VQb1Fj0gFWQVVfeXFMT0dMUl9zblNOemVZdUd3VzBJRzQ1eXN6aDZiNVFGR05DZVhQMkZvZDFFVklzQWlwN3RmVlhoVm05NGg5ZHdVSDNQVlBEa1Z1d3FKeTBZYVE?oc=5"
     }
   ]
 }
