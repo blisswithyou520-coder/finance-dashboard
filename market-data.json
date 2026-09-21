@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/21 22:13",
+  "updated_tw": "09/22 03:31",
   "taiwan": {
     "2330": {
       "price": 2480.0,
@@ -24,8 +24,8 @@
     },
     "00878": {
       "price": 35.11,
-      "change": 0.28,
-      "changePercent": 0.8039
+      "change": 0.38,
+      "changePercent": 1.0942
     },
     "00919": {
       "price": 32.27,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 223.056,
-      "change": 0.786,
-      "changePercent": 0.3536
+      "price": 227.41,
+      "change": 5.14,
+      "changePercent": 2.3125
     },
     "AAPL": {
-      "price": 337.03,
-      "change": 0.9,
-      "changePercent": 0.2678
+      "price": 339.18,
+      "change": 3.05,
+      "changePercent": 0.9074
     },
     "TSLA": {
-      "price": 375.785,
-      "change": 11.515,
-      "changePercent": 3.1611
+      "price": 375.2,
+      "change": 10.93,
+      "changePercent": 3.0005
     },
     "QQQ": {
-      "price": 732.99,
-      "change": 11.54,
-      "changePercent": 1.5996
+      "price": 741.85,
+      "change": 20.4,
+      "changePercent": 2.8276
     },
     "SPY": {
-      "price": 767.71,
-      "change": 6.02,
-      "changePercent": 0.7903
+      "price": 774.145,
+      "change": 12.455,
+      "changePercent": 1.6352
     },
     "SCHD": {
-      "price": 33.59,
-      "change": -0.09,
-      "changePercent": -0.2672
+      "price": 33.735,
+      "change": 0.055,
+      "changePercent": 0.1633
     },
     "VOO": {
-      "price": 707.445,
-      "change": 5.665,
-      "changePercent": 0.8072
+      "price": 713.388,
+      "change": 11.608,
+      "changePercent": 1.6541
     }
   },
   "crypto": {
     "BTC": {
-      "price": 85223.38,
-      "change": 4080.7706,
-      "changePercent": 5.0291
+      "price": 86344.33,
+      "change": 5201.7206,
+      "changePercent": 6.4106
     },
     "ETH": {
-      "price": 2717.36,
-      "change": 74.3624,
-      "changePercent": 2.8136
+      "price": 2765.14,
+      "change": 122.1424,
+      "changePercent": 4.6214
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.733,
-      "change": -0.1181,
-      "changePercent": -0.3708
+      "price": 31.707,
+      "change": -0.1441,
+      "changePercent": -0.4524
     },
     "JPYTWD": {
-      "price": 0.1994,
-      "change": -0.0046,
-      "changePercent": -2.2496
+      "price": 0.1993,
+      "change": -0.0047,
+      "changePercent": -2.2987
     },
     "EURTWD": {
-      "price": 36.444,
-      "change": -0.1076,
-      "changePercent": -0.2945
+      "price": 36.407,
+      "change": -0.1446,
+      "changePercent": -0.3957
     },
     "CNYTWD": {
-      "price": 4.7458,
+      "price": 4.7425,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4373.5,
-    "twd": 4462.0,
-    "tael": 167326.0,
-    "twdTotal": 138784.0,
-    "changePercent": -1.1616
+    "usd": 4384.2,
+    "twd": 4469.0,
+    "tael": 167598.0,
+    "twdTotal": 139010.0,
+    "changePercent": -0.9198
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "專訪3｜黃金震盪築底「該賣都賣了」！ 投銀再喊上看5000美元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPbVpwSDNYMFlFZlZwZ0RfYWxvT21Pd29uOXU5blIwRS1lZmctZFVZVjMwa2tJOU1VZUdYemZiMkVRR0NxVDRJRlR0eVgtdW1zcGc1bzU5Q0FDVnVwZEVpeGh4bV92SmhpeFQ2MkhidjduMVpLYXE0cDRmbkJIWjRFMkY5YzJsX0VjSUhHNXE4ZlZDQXIxbThIUWJubHZtZGJYWG9adFg1SG5tQ05PVVBJWHFFbWhraW1McU82SlFtV0ZLcGMyTjA0SUlaWENVcTVWMFhXRWdTVk9uNWJrelhGY0ZlLVNlV3RLUVJZM0pvQl9ZTl9TMmZaRkIyZngwWi1meDFjWnZwVGZRaVoycndWRUlfX0VWTmdRVlpsOUM1RUtudkd3dnJvNXdVQktwa1oxYlV0bHVUMDhtOEFBSk1PaUs3ZTBXd3FxTDRJaE5WZ2I5TWd2UjduVHBKZk1vcXNWbkE?oc=5"
+      "title": "川習會將登場！美股3大指數齊開紅 英特爾一度飆7%、台積電ADR衝高後又回落 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOYUlseDNjRHQwcjIyaXl2UEpFOEhGakdYSGhxS0F5aVplQlUyUHZHcGFwUWQtNFZyYWRDNDBnbGtUSWg3WmVZcE5KY0dFXzRYMW1sWDFza0RkaXNweXhlUHZHY0g1WE5kOEluWU1Md0tweFJLUEFLY1Yzc1V3T3ZTSGFfR0JpZnhLYXpGamlaQ09JUWxhaFotcjhfT3BLSmNPWl9mdDdCWTZzZUF2Vk12anI5bWFVcTVQakVxNWExOWtLM2dTM0VuV2txRkg2bF9aTjNnZHJVSXEtbkVOQlRMSDNzTGt6aHg0NzU0NzNTdDBkWDIzRDFxbFRiMGgtSGlRLUNFcjV0Yzg5VnRWb0Zxak9YLUdvVWZ6R3hIanJOcVhZQUpoNXVPREJLZVlQUWRqc0E4V0lqUk8tN29iV3pkRXM4ZGkyN2oxVVBTRk5VT3hlWENKS0Y4VC0zNFBFMkpMSFd2RkxXOTU2RDMyZFBsYmMyNmN3dHBKalRaSnZXdGdoTzlzTGZpQWR1OXZKMzh4V282N2c1Z2JxbFBNRWx5UzJwNWo2UVZEMmRHaWtLcWJCckowU0JJ?oc=5"
+    },
+    {
+      "title": "美股早盤／債券殖利率、油價回落…四大指數上攻！英特爾衝、AMD安謀飆| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkNEhsQ1dGMTM2NXF5UWVQaDNydUNUb1VZY3Rqa09ucFJjVHU0Um9aM3VPdzBZV2tTbE9PcDQyYVVaYXpZc19ZanFucEw3djBm?oc=5"
     },
     {
       "title": "〈美股早盤〉AI與晶片股領漲、油價重挫逾3% 主要指數開高 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xem85V1dqUmNjM3o3XzJSYUNMRkVCYm5nNVAzMC1taU5oSFlpX3h6QThoaF92bXFQU3R1YmFkNnFiZHFxUnhGX2VUdnVTbTA?oc=5"
     },
     {
-      "title": "【0921台股盤後】台積電、聯發科領軍台股再創波段高點；唯地緣政治與油價變化仍為隱憂，主力追漲策略鎖定豪勉、聯傑、華經｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi0AVBVV95cUxNZW9MVFBDTWpGUUYtb3lfRHZRSnVyazVUOENnVXJlUmdqVWotakNVZDF1RkFfN05XVzBYWXhULU5CZTh4UmIwcERwX1VFWnF0aXczMlFOREdVWWljTzJuZGczak1HOGRYZ2NCV0NoZnMxekhWelRJMHd1R1poVEpOUnc4ZXZlWGdiMmx4dm9PV1gwZ0hibnlnSkVvN1d1aVNySHRPSFJlcFFfOXdLMVBjZm8zNEkwVDJzaHRkaS1Wd0t4ajJHUEcxcUtLUkhyc2htaUwwSW1jbnpNV3pkUDY2YmlNSVdEYVpCZng4MW5FWWI1UURWVXZKLTdPODJXbFdMYlRRQjhiMGdLYWtmWWNQalI4Uzk4Snd2VnZmWm9iNkkxNlhpTUtGNDg4TmxyRDA1YUJkM19uejFzM01XOXZTNVN5cm5tZDNMdU5yMHRNRDR0ZXNudzBPTG5aaUdXVFg3eFJrT2hYYkNkczdFRE5LV0tDbWR6SEJwd2FsU1AwbVBRanNlcTQxcVV3Q2xhb1MyQnRIYjYtR2l0anVjRVlxdlpheTdkU2pUdGowbkQ0YzJVa0hMQnVkOXR4N3pyWjBEblozU09nV3hJWTN6MEcyWTJkZlpJNDQ5NU04NVNCeHFpcWJiOHBjLXVnUjU1VEJ6Wi1UQWNHU3RJRmZtbU1vSG1BYkRhOXZHbWx2TzBzQTgtSzUwcUt6dGs1NkRmX0tXWjZkYkJXTHY5UmdnSkpMa1hvMnBvcTZGNU81X1NvXzNHMllWaEZRRGM4c3UwbjdKMlNZWE5mbTZCYi1PeE5NYnhRcWUwd190N0xQSERzdC16a2xnMlREbXJobW91TmwwTUdvcVlCa1lxTVNsTS1jVHhoVjByTEpDS1RJYVZxYldCWGI1c1dqU0c0dVgyeUd0QVdIY2hZeDlXRHNyU1JzZjNnb04zYlZYQWVMUUhjTnU?oc=5"
-    },
-    {
-      "title": "延續上周漲勢！比特幣攻破8.5萬美元但後市面臨強勁逆風| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JRmFKckNJNEVDTTVXWjNSazJrQjBEQmg1U0F5ZkFuN0tGRmZZel81UUtQNTJzdW14RHhKa0E5TFp5V0pTQmNZa0xkUjBidTVl?oc=5"
+      "title": "美股開盤全面走高！費半狂漲逾2%　台指期夜盤升破48000點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EV3p2Tnd0S3JiTlJZS2JzUDZrNzBUYjFHUmNKRzhtcVJpbjJLdkhxVm44VVR4VElJdmluUV9HZUJnTFVLZVNXeDhFVk9uTjdxbkHSAVBBVV95cUxPdWRXVEx2dUdpaUZZcllURVRwa2tNTW9uZWxrSzU3MlpXN1gtcTk3NW1BZUlQNWdFV0pFbktSaGd6cGViQzlqVmFLM0JYR1Vmcw?oc=5"
     },
     {
       "title": "路博邁觀點｜AI迎來變現加速，台股迎接第四季反彈契機 - 鉅亨買基金",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNF9NS3N4SGk4RjJVNWs0c1l1YllmZy0tM25BX05ROVdWQ2dmYzVPWUh0ODBsUm5vRWszalV2R2JORFFicDRfYW1Kdk5xc2xJcGFVRVQxeHNVcG1sV3dIdVlyYXJjYzlPQTh6Z0RlUGsxcFAyUzl3YUQzZlI5X3N2T0JXSF96ZV9jWUhmd3I2ZnZXSEdJS0pydDl3?oc=5"
     },
     {
-      "title": "比特幣觸及 8.5 萬、 Strategy 上週五狂飆 16% 盤前再漲 6%！加密股高 Beta 反彈 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6OVlocmlCNXdIMUpCQzIwOWdnNkN3VktTaTU0blJLVFR2bmxUbXZrS1c4a2ZBeklKSExOUE1xVlQ1UVNyNTlPMHpLWnJtZkFoM1lPX0ttRHdYajdWS3dvWA?oc=5"
+      "title": "黃金代幣2026年底上線 跨行領現貨縮至3天 - 卡優新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1raFdwb0hzelhIckY5OTRxRU9jcmlrZnlucmlna1dmbVJqM1lSbTVoTDRnQUFDcnA3Y2NzRHdQb2NsTjdScTl3NDcyS25QUDE5cVhvN3V2djRxdw?oc=5"
     },
     {
-      "title": "美股異動丨加密貨幣概念股走強，比特幣升破85000美元 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QRmhKalZYRVlBUG44Z1R0OTVMVmRNMzJtWnE0djVFV0cwZm5KS05ZWjBPMFIwVWJGR3FJZFp3Q1Nkc2EzNy1fdGtKTVlhQU04QXlYbDlMWlZxTzE5ajkyNThIdVk3cjI2ekE?oc=5"
+      "title": "黃金還有戲？本週關鍵走勢揭曉 「這時」衝破5400美元 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hcDJtVFRCU2FyWVA5OXlmbE5PaVI0MExoTVlkSXR3b3FtUEpvUlhIcWZneXhvRUpFZV9hM25YUmdGSk8yaHlNVnoyaEdCM2JVbnltSHJtRVd4OVpQaWpB0gFkQVVfeXFMUGFSQzJSaXBxY3ZqVm5idjJOQ0ViTWdhOFg3bHFBYzhJRk9fbi1EeGJ3cGhRVEh3MjhiT3BkQ0lrQWk0aWVISXJIbEZGS0hGTngzZ0tuZ1hjUjY3OGFDeVExcXEzRg?oc=5"
     },
     {
-      "title": "黃金王子專訪｜提領實體金條不用苦等！ 黃金存摺代幣化Q1上路省時又省錢 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPbGttam4xc0VLTjZPenFfZVduVmRoQkliNnRzdVN2NFd0SV82Wk52RDRobTJfN0ZxVk4yQ0xrdDdpQVMzT21xUWg0MUE1NFJ6cTZwU0xxZkZUSG5pc294TXoweEJBN0hzYzJtYTVTSHI2dWVZNll6cGpoODJqUGFNRWpMV3h2RzI0N3E4b2ZqU0w2VENJeHlwNGE1ZFZESzlzLW5uekVIckJDLU1USldiU1pNTkZyMnhfc000TUx0V2hZbV9Xa2lEakZrZWpTcnpRVE80NHJobnUwd2RuN3RQNU42OWRyaHFBYkJrakxZRExFSHkyQllZbzRPZWlQZFZmYUYtNkRHXzFWeDQtUElnNUpNSzZSWUxfZGE1b1Z6bnF5bjRzTm5zemk5eDEzd253NlBqOUpNcEd2MkNSeGxxbndGNXl1VjczWk84MzVSQldZV2R4TGlHNzBXZWx4clZoakd6MENheXhZRTVnQkdWN01SemM0NTkxLW51ZXlFLTAwdzFBZzdla0U2clN1R3l6UVRianFGYTRGWjNTTENHWUZKay04S0hQOTJMc1lSU0EyZnRxSElnYzgtQ3lnYUtRZGZGc3YtVXM?oc=5"
+      "title": "聯準會比預期更鷹，美股會漲還是跌？AI股會暴漲嗎？ - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xM3FWWVViYmNwb2hSR0dVclZza0dYUExDMkdmMFY4ZGNiVUdmRk9tRWpSNm5DUUZyWDkzTGRKSjVBZ2trcGg0Z2piSVN1dw?oc=5"
     }
   ]
 }
