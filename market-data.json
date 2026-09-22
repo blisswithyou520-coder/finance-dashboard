@@ -1,92 +1,92 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/22 09:26",
+  "updated_tw": "09/22 14:37",
   "taiwan": {
     "2330": {
-      "price": 2500.0,
-      "change": 20.0,
-      "changePercent": 0.8065
+      "price": 2460.0,
+      "change": -20.0,
+      "changePercent": -0.8065
     },
     "2454": {
-      "price": 5360.0,
-      "change": 350.0,
-      "changePercent": 6.986
+      "price": 5180.0,
+      "change": 170.0,
+      "changePercent": 3.3932
     },
     "2317": {
-      "price": 251.0,
-      "change": 1.0,
-      "changePercent": 0.4
+      "price": 253.0,
+      "change": 3.0,
+      "changePercent": 1.2
     },
     "0050": {
-      "price": 113.4,
-      "change": 2.05,
-      "changePercent": 1.841
+      "price": 111.85,
+      "change": 0.5,
+      "changePercent": 0.449
     },
     "00878": {
-      "price": 35.52,
-      "change": 0.69,
-      "changePercent": 1.981
+      "price": 35.21,
+      "change": 0.38,
+      "changePercent": 1.091
     },
     "00919": {
-      "price": 32.36,
-      "change": 0.09,
-      "changePercent": 0.2789
+      "price": 32.16,
+      "change": -0.11,
+      "changePercent": -0.3409
     }
   },
   "us": {
     "NVDA": {
       "price": 227.38,
-      "change": 8.04,
-      "changePercent": 3.6655
+      "change": 5.11,
+      "changePercent": 2.299
     },
     "AAPL": {
       "price": 338.98,
-      "change": 1.98,
-      "changePercent": 0.5875
+      "change": 2.85,
+      "changePercent": 0.8479
     },
     "TSLA": {
       "price": 375.3,
-      "change": 9.1,
-      "changePercent": 2.485
+      "change": 11.03,
+      "changePercent": 3.028
     },
     "QQQ": {
       "price": 741.47,
-      "change": 24.55,
-      "changePercent": 3.4244
+      "change": 20.02,
+      "changePercent": 2.775
     },
     "SPY": {
       "price": 773.5,
-      "change": 10.9,
-      "changePercent": 1.4293
+      "change": 11.81,
+      "changePercent": 1.5505
     },
     "SCHD": {
       "price": 33.72,
-      "change": -0.17,
-      "changePercent": -0.5016
+      "change": 0.04,
+      "changePercent": 0.1188
     },
     "VOO": {
       "price": 712.78,
-      "change": 11.75,
-      "changePercent": 1.6761
+      "change": 11.0,
+      "changePercent": 1.5674
     }
   },
   "crypto": {
     "BTC": {
-      "price": 85557.58,
-      "change": 4414.9706,
-      "changePercent": 5.441
+      "price": 85487.94,
+      "change": 4345.3306,
+      "changePercent": 5.3552
     },
     "ETH": {
-      "price": 2745.09,
-      "change": 102.0924,
-      "changePercent": 3.8628
+      "price": 2732.8,
+      "change": 89.8024,
+      "changePercent": 3.3977
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.665,
-      "change": -0.1441,
-      "changePercent": -0.453
+      "price": 31.7,
+      "change": -0.1091,
+      "changePercent": -0.343
     },
     "JPYTWD": {
       "price": 0.1989,
@@ -94,22 +94,22 @@
       "changePercent": -1.8253
     },
     "EURTWD": {
-      "price": 36.356,
-      "change": -0.1596,
-      "changePercent": -0.4371
+      "price": 36.381,
+      "change": -0.1346,
+      "changePercent": -0.3686
     },
     "CNYTWD": {
-      "price": 4.7344,
+      "price": 4.7396,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4391.5,
-    "twd": 4471.0,
-    "tael": 167654.0,
-    "twdTotal": 139057.0,
-    "changePercent": -0.7548
+    "usd": 4355.6,
+    "twd": 4439.0,
+    "tael": 166468.0,
+    "twdTotal": 138073.0,
+    "changePercent": -0.6455
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN3FrZFE0VWtYTUlLVkZiQmUxNklRNWxqRkh5WGVmN1lGSTJQTGRWV2tiMkhITnFsSDFuU3hERll6TjRnYnpFWmtyVzQ5Y2F3RkpFMEdmOURFN3dI0gFiQVVfeXFMT2JEUHVSV1dpWVhGaFNWUUI1cWl1Tk5TV01zQzg5Q25OM1hLdTZOVGZnWHdya1hZS3lEYl9KUUpOTXY5R29icGV5UGRTdlRPc0wtWGZfX3NUTHpsUVVqcldKNEE?oc=5"
     },
     {
-      "title": "AI恐慌一週就消退？美股3大指數收紅！AMD飆漲9.9%「市值首破1兆美元」 英特爾、安謀狂飆逾12% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUzVsa3VmMlJkVDBtZ24tZFJYOTI2TElpTHNOZ0JKczR3aER2SXhSekRvVEhWM1c3NmdDOC1vd3hIOUZmNUJ4RmtteDkybXZiZVp4NTdUTy1CYVprQ1RYcDNUZE1BR0JGblJWbExKSWo4ZFF2UUVzVXFvTjFtb0VmUms2U3RpYjRLOEJIZTNmOGtfQ0hrOGhQb0ZoajhUaDFYZS1WN1RWbkRWcDAzSEVHbnhkM1lKTEVMU0ozYVMtNDRpdThtYW5GbUxwbF9jM1VXN0NsM0ZtajVHZDZRZXBZdWQwZGFoYlJtaWRUenRyVXk4dk9VTDN5VjAxZFFqOFBkM0s3M2JoS3JWRjY0Z241QmNLRTdLZ1ZhMG43R3k3TQ?oc=5"
+      "title": "比特幣漲至8.7萬美元，一度飆升8% - zh.cn.nikkei.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbTgyMG5UaHBWLTkxazBKd1Jmbzk4VEYzZXVycmNGYTZRTFV0MjVZQmJnSVZSLUcyQ1VkOFVzVGh1TjFyMmJ1Uy1rSklvMWw0RWNMX1Vycmo2YXlvMFpPM2dVY0tHWHNDZVVXQ014cS0wRnhXLUxfblkyaWlDaE1CNVc4TnV3Q3Ez?oc=5"
     },
     {
       "title": "〈美股盤後〉那指大漲2%創收盤新高 AI股飆升、油價與美債殖利率降溫助攻 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHclNXdTNBUDBuYmVhVk1oTkFlb1BwWmprYW1lR1ZoblZrTTNBMlNFRDJ2d21GV2hKbXlzTTFBMnNNS2RwUGFubklWX080Z1k?oc=5"
     },
     {
+      "title": "AI恐慌一週就消退？美股3大指數收紅！AMD飆漲9.9%「市值首破1兆美元」 英特爾、安謀狂飆逾12% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUzVsa3VmMlJkVDBtZ24tZFJYOTI2TElpTHNOZ0JKczR3aER2SXhSekRvVEhWM1c3NmdDOC1vd3hIOUZmNUJ4RmtteDkybXZiZVp4NTdUTy1CYVprQ1RYcDNUZE1BR0JGblJWbExKSWo4ZFF2UUVzVXFvTjFtb0VmUms2U3RpYjRLOEJIZTNmOGtfQ0hrOGhQb0ZoajhUaDFYZS1WN1RWbkRWcDAzSEVHbnhkM1lKTEVMU0ozYVMtNDRpdThtYW5GbUxwbF9jM1VXN0NsM0ZtajVHZDZRZXBZdWQwZGFoYlJtaWRUenRyVXk4dk9VTDN5VjAxZFFqOFBkM0s3M2JoS3JWRjY0Z241QmNLRTdLZ1ZhMG43R3k3TQ?oc=5"
+    },
+    {
       "title": "美股收盤》AI+晶片股強勁反彈 美股4大指數全收紅 台積電ADR漲2.44％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YSW43QVpxclVKbS1RRVBEUFljYVBCcVVCRlpVaDEwbDJzdEFxZ3N4OHQ1eXVWTmsteTdLU1ctSmhzcDBYSnZqQ0tVUW8yaHI2U0dNZVNPaFNWeDgteWNR0gFkQVVfeXFMTlhMTnBpYlZaV3kweV9oblRSckw0bzBlajMyOUdsdWt1SnNpR3FwR2FPdFp1N1poNUplNkpReDBMaF91SXhmajJ1d1RnazI0Vi1EVHFJY1VYdlFZR1kxc0dCc2FqWQ?oc=5"
     },
     {
+      "title": "比特幣一度衝破 8.7 萬！BTC ETF 單日吸金 6.18 億美元，未到 9 萬期貨槓桿再增 20 億 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMVQzYnpUYU9uTl9wbXNXVHdpQTB1bnlRNDVOczJsS1FJMGd1c0x6V1gxVG5ET21xQWVNTnhhZlBFMDRyN3kxVGdzQXpZTnY3WXVJVnZZYmEyazFITjhqSnN2MGxveFVWMHhzbEFRc0V0dW5tM1JwTmJmUEhDdGgwWWZiZmZXOWpYZGxjSVJiUkdjVlpoUm9yN2h6elBiLXRfOXRQcg?oc=5"
+    },
+    {
+      "title": "信驊漲停衝上21800元創台股新紀錄| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DTW8xVWV1eGRWckdmUmxWaDVad2NCOGhQOFdLNklWb3hxRjFPVldvQ0pNZ3FMZnRRMVBsM3pHTldKbEJIRDJpOGNJWGRURjRuQUVMMGtwcjFjdFRITEE?oc=5"
+    },
+    {
       "title": "市場再度擁抱風險資產比特幣升破8.6萬美元- 新聞 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSno1NlcwcXVBRjZIekFTaVZWaFFKSzhfUk1NR09qZkg3bDFBQ3Y4czdPeVh5RjkwUnZWSXhPN00yUkJtTUJ4MEFhcGtYbk1iOUlIVUZPbmxTUWlWWmkwS0JyZVNxblBzUTFZb21fZ1VFOURQeDE3b2tNd01BWS1GXzlkUThrMmVJZ2cxOHlFNUh0UQ?oc=5"
-    },
-    {
-      "title": "美股開盤全面走高！費半狂漲逾2%　台指期夜盤升破48000點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EV3p2Tnd0S3JiTlJZS2JzUDZrNzBUYjFHUmNKRzhtcVJpbjJLdkhxVm44VVR4VElJdmluUV9HZUJnTFVLZVNXeDhFVk9uTjdxbkHSAVBBVV95cUxPdWRXVEx2dUdpaUZZcllURVRwa2tNTW9uZWxrSzU3MlpXN1gtcTk3NW1BZUlQNWdFV0pFbktSaGd6cGViQzlqVmFLM0JYR1Vmcw?oc=5"
-    },
-    {
-      "title": "國際油價重跌　美股收漲那斯達克指數創歷史新高 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44SGlSLW9lYWZLYU5STllHaFNrQzVNMWVFU2p1ajh5X1cwcTJLRlA5OXlHM2ZLY0tfYVZVeUlaQ09uaFpIc3c2d09HOE95TldReVp2cFFwRWhSc1dw0gFiQVVfeXFMTnpqYnIwb05hOV9jdVdST0xtN1BfR1oyTW9tbHBURlJlSThjbTBMM0ZUSlcycUtmWUVkQy1zZWdmNEdsMGcyNG5xZkt5czY1SFc5ajQwcnVvMFZ3a3UzMTdFLVE?oc=5"
-    },
-    {
-      "title": "川習會將登場！美股3大指數齊開紅 英特爾一度飆7%、台積電ADR衝高後又回落 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOYUlseDNjRHQwcjIyaXl2UEpFOEhGakdYSGhxS0F5aVplQlUyUHZHcGFwUWQtNFZyYWRDNDBnbGtUSWg3WmVZcE5KY0dFXzRYMW1sWDFza0RkaXNweXhlUHZHY0g1WE5kOEluWU1Md0tweFJLUEFLY1Yzc1V3T3ZTSGFfR0JpZnhLYXpGamlaQ09JUWxhaFotcjhfT3BLSmNPWl9mdDdCWTZzZUF2Vk12anI5bWFVcTVQakVxNWExOWtLM2dTM0VuV2txRkg2bF9aTjNnZHJVSXEtbkVOQlRMSDNzTGt6aHg0NzU0NzNTdDBkWDIzRDFxbFRiMGgtSGlRLUNFcjV0Yzg5VnRWb0Zxak9YLUdvVWZ6R3hIanJOcVhZQUpoNXVPREJLZVlQUWRqc0E4V0lqUk8tN29iV3pkRXM4ZGkyN2oxVVBTRk5VT3hlWENKS0Y4VC0zNFBFMkpMSFd2RkxXOTU2RDMyZFBsYmMyNmN3dHBKalRaSnZXdGdoTzlzTGZpQWR1OXZKMzh4V282N2c1Z2JxbFBNRWx5UzJwNWo2UVZEMmRHaWtLcWJCckowU0JJ?oc=5"
     }
   ]
 }
