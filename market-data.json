@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/23 00:57",
+  "updated_tw": "09/23 04:03",
   "taiwan": {
     "2330": {
       "price": 2460.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "change": -20.0,
+      "changePercent": -0.8065
     },
     "2454": {
       "price": 5180.0,
-      "change": 470.0,
-      "changePercent": 9.9788
+      "change": 170.0,
+      "changePercent": 3.3932
     },
     "2317": {
       "price": 253.0,
-      "change": 2.5,
-      "changePercent": 0.998
+      "change": 3.0,
+      "changePercent": 1.2
     },
     "0050": {
       "price": 111.85,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 229.23,
-      "change": 1.85,
-      "changePercent": 0.8136
+      "price": 228.87,
+      "change": 1.49,
+      "changePercent": 0.6553
     },
     "AAPL": {
-      "price": 342.392,
-      "change": 3.412,
-      "changePercent": 1.0065
+      "price": 339.75,
+      "change": 0.77,
+      "changePercent": 0.2271
     },
     "TSLA": {
-      "price": 378.62,
-      "change": 3.32,
-      "changePercent": 0.8846
+      "price": 378.9,
+      "change": 3.6,
+      "changePercent": 0.9592
     },
     "QQQ": {
-      "price": 745.23,
-      "change": 3.76,
-      "changePercent": 0.5071
+      "price": 747.46,
+      "change": 5.99,
+      "changePercent": 0.8079
     },
     "SPY": {
-      "price": 773.445,
-      "change": -0.055,
-      "changePercent": -0.0071
+      "price": 773.44,
+      "change": -0.06,
+      "changePercent": -0.0078
     },
     "SCHD": {
-      "price": 33.776,
-      "change": 0.056,
-      "changePercent": 0.1661
+      "price": 33.73,
+      "change": 0.01,
+      "changePercent": 0.0297
     },
     "VOO": {
-      "price": 712.73,
-      "change": -0.05,
-      "changePercent": -0.007
+      "price": 712.68,
+      "change": -0.1,
+      "changePercent": -0.014
     }
   },
   "crypto": {
     "BTC": {
-      "price": 86507.12,
-      "change": -95.7941,
-      "changePercent": -0.1106
+      "price": 86235.88,
+      "change": -367.0341,
+      "changePercent": -0.4238
     },
     "ETH": {
-      "price": 2748.23,
-      "change": -28.2383,
-      "changePercent": -1.0171
+      "price": 2751.37,
+      "change": -25.0983,
+      "changePercent": -0.904
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.684,
-      "change": -0.1251,
-      "changePercent": -0.3933
+      "price": 31.652,
+      "change": -0.0864,
+      "changePercent": -0.2722
     },
     "JPYTWD": {
-      "price": 0.199,
-      "change": -0.0036,
-      "changePercent": -1.7759
+      "price": 0.1989,
+      "change": -0.0028,
+      "changePercent": -1.375
     },
     "EURTWD": {
-      "price": 36.281,
-      "change": -0.2346,
-      "changePercent": -0.6425
+      "price": 36.275,
+      "change": -0.1106,
+      "changePercent": -0.3039
     },
     "CNYTWD": {
-      "price": 4.7334,
+      "price": 4.7308,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4369.6,
-    "twd": 4451.0,
-    "tael": 166918.0,
-    "twdTotal": 138446.0,
-    "changePercent": -0.3262
+    "usd": 4405.8,
+    "twd": 4483.0,
+    "tael": 168131.0,
+    "twdTotal": 139452.0,
+    "changePercent": 0.4996
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,20 +129,20 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN3FrZFE0VWtYTUlLVkZiQmUxNklRNWxqRkh5WGVmN1lGSTJQTGRWV2tiMkhITnFsSDFuU3hERll6TjRnYnpFWmtyVzQ5Y2F3RkpFMEdmOURFN3dI0gFiQVVfeXFMT2JEUHVSV1dpWVhGaFNWUUI1cWl1Tk5TV01zQzg5Q25OM1hLdTZOVGZnWHdya1hZS3lEYl9KUUpOTXY5R29icGV5UGRTdlRPc0wtWGZfX3NUTHpsUVVqcldKNEE?oc=5"
     },
     {
-      "title": "〈美股盤後〉那指大漲2%創收盤新高 AI股飆升、油價與美債殖利率降溫助攻 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHclNXdTNBUDBuYmVhVk1oTkFlb1BwWmprYW1lR1ZoblZrTTNBMlNFRDJ2d21GV2hKbXlzTTFBMnNNS2RwUGFubklWX080Z1k?oc=5"
-    },
-    {
       "title": "比特幣漲至8.7萬美元，一度飆升8% - 日經中文網",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbTgyMG5UaHBWLTkxazBKd1Jmbzk4VEYzZXVycmNGYTZRTFV0MjVZQmJnSVZSLUcyQ1VkOFVzVGh1TjFyMmJ1Uy1rSklvMWw0RWNMX1Vycmo2YXlvMFpPM2dVY0tHWHNDZVVXQ014cS0wRnhXLUxfblkyaWlDaE1CNVc4TnV3Q3Ez?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉那指大漲2%創收盤新高 AI股飆升、油價與美債殖利率降溫助攻 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHclNXdTNBUDBuYmVhVk1oTkFlb1BwWmprYW1lR1ZoblZrTTNBMlNFRDJ2d21GV2hKbXlzTTFBMnNNS2RwUGFubklWX080Z1k?oc=5"
     },
     {
       "title": "金管會推「台股儀表板」 揭露槓桿與違約資訊 - 公視新聞網PNN",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xc081azgzWnZqcUFBRHpDV0hFdFNIYVF2eTh4elpFVGgxVjd0eXMwOEF0MUZBWHpXaThHMlFZd1d6a1NFUjlrb05HQnFJYm8?oc=5"
     },
     {
-      "title": "大漲44%後，機構開始猛買！比特幣ETF單日吸金近10億美元 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wMEJLWUdLRkF4NkhHWE9rR0xGRjl6VXJFNmxBN2NVLXlIRzBZZlVWdTY4N3FkTmdJS2phMzE3NDAxZ2FMQzFqcE9VU1JlNy1GbXpnV3h2aTIzak5ULU91aElhUTk?oc=5"
+      "title": "台股刷新高改寫五大紀錄- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OVm9BZ1RVVlVweWJnV2ZMSUljVExySzBTVGtNZFppREh5dExncWFzS2M2d2xDalhIZkNpUTJKMDFzQm1KXzh4TEd5TDhJOUhJT0FQYmp0MUFRTlNPeWRR?oc=5"
     },
     {
       "title": "美股收盤》AI+晶片股強勁反彈 美股4大指數全收紅 台積電ADR漲2.44％ - 自由財經",
