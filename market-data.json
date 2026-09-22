@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/22 14:37",
+  "updated_tw": "09/22 20:02",
   "taiwan": {
     "2330": {
       "price": 2460.0,
@@ -72,81 +72,48 @@
   },
   "crypto": {
     "BTC": {
-      "price": 85487.94,
-      "change": 4345.3306,
-      "changePercent": 5.3552
+      "price": 85945.66,
+      "change": -657.2541,
+      "changePercent": -0.7589
     },
     "ETH": {
-      "price": 2732.8,
-      "change": 89.8024,
-      "changePercent": 3.3977
+      "price": 2742.23,
+      "change": -34.2383,
+      "changePercent": -1.2332
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.7,
-      "change": -0.1091,
-      "changePercent": -0.343
+      "price": 31.638,
+      "change": -0.1711,
+      "changePercent": -0.5379
     },
     "JPYTWD": {
-      "price": 0.1989,
-      "change": -0.0037,
-      "changePercent": -1.8253
+      "price": 0.1992,
+      "change": -0.0034,
+      "changePercent": -1.6772
     },
     "EURTWD": {
-      "price": 36.381,
-      "change": -0.1346,
-      "changePercent": -0.3686
+      "price": 36.313,
+      "change": -0.2026,
+      "changePercent": -0.5548
     },
     "CNYTWD": {
-      "price": 4.7396,
+      "price": 4.7279,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4355.6,
-    "twd": 4439.0,
-    "tael": 166468.0,
-    "twdTotal": 138073.0,
-    "changePercent": -0.6455
+    "usd": 4357.8,
+    "twd": 4433.0,
+    "tael": 166226.0,
+    "twdTotal": 137872.0,
+    "changePercent": -0.5954
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": [
-    {
-      "title": "美股收盤／費半飆4.3%那指創新高 科技股強勢領軍 AMD 飆10%市值破兆 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN3FrZFE0VWtYTUlLVkZiQmUxNklRNWxqRkh5WGVmN1lGSTJQTGRWV2tiMkhITnFsSDFuU3hERll6TjRnYnpFWmtyVzQ5Y2F3RkpFMEdmOURFN3dI0gFiQVVfeXFMT2JEUHVSV1dpWVhGaFNWUUI1cWl1Tk5TV01zQzg5Q25OM1hLdTZOVGZnWHdya1hZS3lEYl9KUUpOTXY5R29icGV5UGRTdlRPc0wtWGZfX3NUTHpsUVVqcldKNEE?oc=5"
-    },
-    {
-      "title": "比特幣漲至8.7萬美元，一度飆升8% - zh.cn.nikkei.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbTgyMG5UaHBWLTkxazBKd1Jmbzk4VEYzZXVycmNGYTZRTFV0MjVZQmJnSVZSLUcyQ1VkOFVzVGh1TjFyMmJ1Uy1rSklvMWw0RWNMX1Vycmo2YXlvMFpPM2dVY0tHWHNDZVVXQ014cS0wRnhXLUxfblkyaWlDaE1CNVc4TnV3Q3Ez?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉那指大漲2%創收盤新高 AI股飆升、油價與美債殖利率降溫助攻 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHclNXdTNBUDBuYmVhVk1oTkFlb1BwWmprYW1lR1ZoblZrTTNBMlNFRDJ2d21GV2hKbXlzTTFBMnNNS2RwUGFubklWX080Z1k?oc=5"
-    },
-    {
-      "title": "AI恐慌一週就消退？美股3大指數收紅！AMD飆漲9.9%「市值首破1兆美元」 英特爾、安謀狂飆逾12% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUzVsa3VmMlJkVDBtZ24tZFJYOTI2TElpTHNOZ0JKczR3aER2SXhSekRvVEhWM1c3NmdDOC1vd3hIOUZmNUJ4RmtteDkybXZiZVp4NTdUTy1CYVprQ1RYcDNUZE1BR0JGblJWbExKSWo4ZFF2UUVzVXFvTjFtb0VmUms2U3RpYjRLOEJIZTNmOGtfQ0hrOGhQb0ZoajhUaDFYZS1WN1RWbkRWcDAzSEVHbnhkM1lKTEVMU0ozYVMtNDRpdThtYW5GbUxwbF9jM1VXN0NsM0ZtajVHZDZRZXBZdWQwZGFoYlJtaWRUenRyVXk4dk9VTDN5VjAxZFFqOFBkM0s3M2JoS3JWRjY0Z241QmNLRTdLZ1ZhMG43R3k3TQ?oc=5"
-    },
-    {
-      "title": "美股收盤》AI+晶片股強勁反彈 美股4大指數全收紅 台積電ADR漲2.44％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YSW43QVpxclVKbS1RRVBEUFljYVBCcVVCRlpVaDEwbDJzdEFxZ3N4OHQ1eXVWTmsteTdLU1ctSmhzcDBYSnZqQ0tVUW8yaHI2U0dNZVNPaFNWeDgteWNR0gFkQVVfeXFMTlhMTnBpYlZaV3kweV9oblRSckw0bzBlajMyOUdsdWt1SnNpR3FwR2FPdFp1N1poNUplNkpReDBMaF91SXhmajJ1d1RnazI0Vi1EVHFJY1VYdlFZR1kxc0dCc2FqWQ?oc=5"
-    },
-    {
-      "title": "比特幣一度衝破 8.7 萬！BTC ETF 單日吸金 6.18 億美元，未到 9 萬期貨槓桿再增 20 億 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMVQzYnpUYU9uTl9wbXNXVHdpQTB1bnlRNDVOczJsS1FJMGd1c0x6V1gxVG5ET21xQWVNTnhhZlBFMDRyN3kxVGdzQXpZTnY3WXVJVnZZYmEyazFITjhqSnN2MGxveFVWMHhzbEFRc0V0dW5tM1JwTmJmUEhDdGgwWWZiZmZXOWpYZGxjSVJiUkdjVlpoUm9yN2h6elBiLXRfOXRQcg?oc=5"
-    },
-    {
-      "title": "信驊漲停衝上21800元創台股新紀錄| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DTW8xVWV1eGRWckdmUmxWaDVad2NCOGhQOFdLNklWb3hxRjFPVldvQ0pNZ3FMZnRRMVBsM3pHTldKbEJIRDJpOGNJWGRURjRuQUVMMGtwcjFjdFRITEE?oc=5"
-    },
-    {
-      "title": "市場再度擁抱風險資產比特幣升破8.6萬美元- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSno1NlcwcXVBRjZIekFTaVZWaFFKSzhfUk1NR09qZkg3bDFBQ3Y4czdPeVh5RjkwUnZWSXhPN00yUkJtTUJ4MEFhcGtYbk1iOUlIVUZPbmxTUWlWWmkwS0JyZVNxblBzUTFZb21fZ1VFOURQeDE3b2tNd01BWS1GXzlkUThrMmVJZ2cxOHlFNUh0UQ?oc=5"
-    }
-  ]
+  "news": []
 }
