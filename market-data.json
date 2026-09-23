@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/23 09:19",
+  "updated_tw": "09/23 14:21",
   "taiwan": {
     "2330": {
-      "price": 2460.0,
-      "change": -20.0,
-      "changePercent": -0.8065
+      "price": 2500.0,
+      "change": 40.0,
+      "changePercent": 1.626
     },
     "2454": {
-      "price": 5180.0,
-      "change": 170.0,
-      "changePercent": 3.3932
+      "price": 5185.0,
+      "change": 5.0,
+      "changePercent": 0.0965
     },
     "2317": {
-      "price": 253.0,
+      "price": 256.0,
       "change": 3.0,
-      "changePercent": 1.2
+      "changePercent": 1.1858
     },
     "0050": {
-      "price": 111.85,
-      "change": 2.0,
-      "changePercent": 1.8207
+      "price": 112.45,
+      "change": 1.1,
+      "changePercent": 0.9879
     },
     "00878": {
-      "price": 35.21,
-      "change": 0.38,
-      "changePercent": 1.091
+      "price": 35.09,
+      "change": -0.02,
+      "changePercent": -0.057
     },
     "00919": {
-      "price": 32.16,
-      "change": 0.2,
-      "changePercent": 0.6258
+      "price": 32.06,
+      "change": -0.21,
+      "changePercent": -0.6508
     }
   },
   "us": {
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 86689.68,
-      "change": 86.7659,
-      "changePercent": 0.1002
+      "price": 86515.09,
+      "change": -87.8241,
+      "changePercent": -0.1014
     },
     "ETH": {
-      "price": 2770.87,
-      "change": -5.5983,
-      "changePercent": -0.2016
+      "price": 2759.91,
+      "change": -16.5583,
+      "changePercent": -0.5964
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.672,
-      "change": -0.0664,
-      "changePercent": -0.2092
+      "price": 31.712,
+      "change": -0.0264,
+      "changePercent": -0.0832
     },
     "JPYTWD": {
       "price": 0.1989,
@@ -94,26 +94,59 @@
       "changePercent": -1.375
     },
     "EURTWD": {
-      "price": 36.291,
-      "change": -0.0946,
-      "changePercent": -0.2599
+      "price": 36.274,
+      "change": -0.1116,
+      "changePercent": -0.3066
     },
     "CNYTWD": {
-      "price": 4.7318,
+      "price": 4.735,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4388.0,
-    "twd": 4468.0,
-    "tael": 167558.0,
-    "twdTotal": 138977.0,
-    "changePercent": 0.0935
+    "usd": 4368.2,
+    "twd": 4454.0,
+    "tael": 167012.0,
+    "twdTotal": 138524.0,
+    "changePercent": -0.1874
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "〈美股盤後〉油價連五降 費半六連升 那指再寫歷史新高紀錄 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBydVN6aHc0NTY4WDFmT1ZOaEdsSDlvcXFtNjgyT1RYUEQtdVEyMFRtM2xkdVlRSGo0WGk4UkV6Z0RINUNibUUwdGNCMmplQ0E?oc=5"
+    },
+    {
+      "title": "美股收盤》AI續熱、投資人關注美伊 美股漲跌互見 台積電ADR漲1.54％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jTnViMnFnSDUtcUUteVZFUUdTVU5hWlBTT1Y3NjluNExlN1NsdTRJbnp0RGhsZWQxVWE1M09DSmROYVhPMFJaZGpDTFFEV05OWTU2VzJjOHUwVm1QR3Yw0gFkQVVfeXFMTlJrelNsZUdRWGk5THhJOVF1LUxKcTdvak5maTFTeXJTc1g0VWRvR2ZTSEJGOVBIajhOWGFXTFhzd09ISnl6Q2NCbE4wNVFGZGVIN1FmM1M5Y0laa2RULUl0ODdhYQ?oc=5"
+    },
+    {
+      "title": "美股助長退休潮：數百萬美國勞工提早告別職場 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQQm5fMlJCQkF3OGNFQmhEZjZqSjY4RVZTZVpfQnRVUXQ4ek9xVmFhSXRzanlnc040TVA0THhpMjNUbzZ6eWVDUDJxVDVxZHQxOE52NDFiWXZneDhZZkw4b043akRqY2xXZ0VsLXk2S1JPdEg3V3QzMjZGd2Y5V0w2dlBjamFWSHVUZ00xOTFHdFMxTlFQMFprOFZfcDV2MDVEQ2xxSnVXRjRlaFF2YnRFVjRPQ3FFN0I4dzZPaGZuczJ4UDRId3VCdzdYZHRyXzFuYTNuMDRHN3lCbVRNQWhZdFBoLTk2SFBnN1JKRzhJVTdFa3gyVWFVMU5EX1FaQndpTU5vbjdpSmtjZEhfZFNCZEd4YndON0ppN1EzcGJManotaWVUdWdVNFFHTnA2by05UFpjR0hYZ3pHcnR4UXp3NlJqVUYyUnlNQUhzRA?oc=5"
+    },
+    {
+      "title": "美股開盤科技股續攻！那指再創高　台指期夜盤急拉逾200點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00WFkyVjJwVnRYbU1pSW13VHNaZFhvbUNzbHRaVXhaQW5ENmhPamF2dU1zV19kcGw3OE5aZ0pvcHI0MWwyc1hmTHNZcWJtZ25oZHfSAVBBVV95cUxNNGk4WkV1aFExRmpLTW9rLVpfSHBURnM0ODlkOEE0cXhrVVBhSHp6ak5oUWJjYjFIdDNGNXp0V3BLbThSWk9MazB3Mnk2Y1Y2Sw?oc=5"
+    },
+    {
+      "title": "比特幣 8.7 萬美元突破後高檔震盪！期貨未平倉量仍逾 612 億美元，槓桿沒有退潮 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQzRoRzN0VjFnZEZMeWZOLWVjck9HWmVFdDVMeUZQYzUxMnp4YWppQm5sSDZGdXhEV2NTNkJnNkxXNTlPTlBmWHV5YV9zVVV6NHpaY0Itcno2NVlRYmhEclVfY29NU2Nrd3dhZlpxSE5YaklNTDBpQXJMSWM5NWd4TThiV3UxclE3eDlGMTZ4eUxoc3FSMGNydFJLd1VDdno3MkJjcDVaNEtVLWVHRXVlbXEzYk12cmEwWmVYazlKdnMwbDNvUVlucTBicndnbERuNGc?oc=5"
+    },
+    {
+      "title": "台股收盤48157點創收盤歷史新高攻上4萬8大關| 股市要聞| 股市 - udn.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42djVLQm1vb1VWamQyOUFxUVhuM004VU5zYUVBTnk4TjlZSTNzLV9XQVhjTWt1aUlqeWFIVjZEc1h5b3Nzc29qaHItTG9YbUND?oc=5"
+    },
+    {
+      "title": "台股上漲357點收48157點再創歷史新高| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XWkJ6eFlSMG5lMmtpbWJURWROWUJrVGM5WTd1UGEtMW1vV0Rja3JLZEZlUU1kelBCSjB1YW5pVDUzdTdBVXNHVllxVHlJd1NhN0pxckpGb1FCdHdkaWc?oc=5"
+    },
+    {
+      "title": "【Hot台股】聯發科昨創天價今卻翻黑...網哀「硬了又軟變回發糕」 分析師：拉回找買點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxNQ2liUW1HWk9PYzRUSUt2c0NMaWRmc0tfempWVFdPQVNKMzNQUUVBTzZmelRBeVpqcTlyVjlKUVlpbkpfQU9tSXFyZjI3YmpKU25Hai1pSXQzV2dZWHZtNW44ZmxlUEh2bWNjdGtab3NrQy1sdUxrVnF0R0s2TE1GWTdVcENMY1FrUnJQMlM2Sm0tZVVhc3l0aVE4T0Qwd0t4cWVfbTVocXd1RHBjMms4dXZnU05mMUZ4N1JQYzBhQXljMHY0NEM5TzNqYUQzeGlSN3FDS05ja1lOQjViMTVkWGktMVZYYjdueWVtRmlYSXFiX3NJUE1NTmJ6OVA5bkVia0QyeWhpd1NXek1nNDUyeFVTeGM0d1pRV1NSaEMxQjZYVF96YTEwbzIyY3ZDbFQ2ejY2MllHTDNRSlBQb3hoWXlVeVloQW5ub1I4cXp4SUdRNjRtcDZnR0dLZ3hZb1pGc05wU1RNZ0FkWVlqTEx3dm1mb1FnSjNtcDJ0emJDeW5wRktoSmloQWNvZmNlTVhleENQWVQtLUlnWXozUU42bVVTYVlLQWtqSXk4a3ZGc0pCakJCR1NDMnAzd2hIYW9hbS1rZ2o0Z09xam1Zdk5tYW1VMmdZV2xLU0lhcDVkWjVEeXN6bjRITmM5Y0N3M3ZFamw2VlE5X0hIWURMSnNZQXoxRXVkbHRKQllza1hJbzA?oc=5"
+    }
+  ]
 }
