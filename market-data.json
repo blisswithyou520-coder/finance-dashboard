@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/23 06:56",
+  "updated_tw": "09/23 09:19",
   "taiwan": {
     "2330": {
       "price": 2460.0,
@@ -36,67 +36,67 @@
   "us": {
     "NVDA": {
       "price": 228.87,
-      "change": 1.49,
-      "changePercent": 0.6553
+      "change": 6.6,
+      "changePercent": 2.9694
     },
     "AAPL": {
       "price": 339.75,
-      "change": 0.77,
-      "changePercent": 0.2271
+      "change": 3.62,
+      "changePercent": 1.077
     },
     "TSLA": {
       "price": 378.9,
-      "change": 3.6,
-      "changePercent": 0.9592
+      "change": 14.63,
+      "changePercent": 4.0163
     },
     "QQQ": {
       "price": 747.46,
-      "change": 5.99,
-      "changePercent": 0.8079
+      "change": 26.01,
+      "changePercent": 3.6052
     },
     "SPY": {
       "price": 773.38,
-      "change": -0.12,
-      "changePercent": -0.0155
+      "change": 11.69,
+      "changePercent": 1.5347
     },
     "SCHD": {
       "price": 33.74,
-      "change": 0.02,
-      "changePercent": 0.0593
+      "change": 0.06,
+      "changePercent": 0.1781
     },
     "VOO": {
       "price": 712.78,
-      "change": -0.0,
-      "changePercent": -0.0
+      "change": 11.0,
+      "changePercent": 1.5674
     }
   },
   "crypto": {
     "BTC": {
-      "price": 86166.55,
-      "change": -436.3641,
-      "changePercent": -0.5039
+      "price": 86689.68,
+      "change": 86.7659,
+      "changePercent": 0.1002
     },
     "ETH": {
-      "price": 2755.4,
-      "change": -21.0683,
-      "changePercent": -0.7588
+      "price": 2770.87,
+      "change": -5.5983,
+      "changePercent": -0.2016
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.674,
-      "change": -0.0644,
-      "changePercent": -0.2029
+      "price": 31.672,
+      "change": -0.0664,
+      "changePercent": -0.2092
     },
     "JPYTWD": {
-      "price": 0.199,
-      "change": -0.0027,
-      "changePercent": -1.3254
+      "price": 0.1989,
+      "change": -0.0028,
+      "changePercent": -1.375
     },
     "EURTWD": {
-      "price": 36.302,
-      "change": -0.0836,
-      "changePercent": -0.2297
+      "price": 36.291,
+      "change": -0.0946,
+      "changePercent": -0.2599
     },
     "CNYTWD": {
       "price": 4.7318,
@@ -105,48 +105,15 @@
     }
   },
   "gold": {
-    "usd": 4401.3,
-    "twd": 4482.0,
-    "tael": 168076.0,
-    "twdTotal": 139407.0,
-    "changePercent": 0.3969
+    "usd": 4388.0,
+    "twd": 4468.0,
+    "tael": 167558.0,
+    "twdTotal": 138977.0,
+    "changePercent": 0.0935
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": [
-    {
-      "title": "〈美股盤後〉油價連五降 費半六連升 那指再寫歷史新高紀錄 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBydVN6aHc0NTY4WDFmT1ZOaEdsSDlvcXFtNjgyT1RYUEQtdVEyMFRtM2xkdVlRSGo0WGk4UkV6Z0RINUNibUUwdGNCMmplQ0E?oc=5"
-    },
-    {
-      "title": "美股開盤科技股續攻！那指再創高　台指期夜盤急拉逾200點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00WFkyVjJwVnRYbU1pSW13VHNaZFhvbUNzbHRaVXhaQW5ENmhPamF2dU1zV19kcGw3OE5aZ0pvcHI0MWwyc1hmTHNZcWJtZ25oZHfSAVBBVV95cUxNNGk4WkV1aFExRmpLTW9rLVpfSHBURnM0ODlkOEE0cXhrVVBhSHp6ak5oUWJjYjFIdDNGNXp0V3BLbThSWk9MazB3Mnk2Y1Y2Sw?oc=5"
-    },
-    {
-      "title": "AI恐慌一週就消退？美股3大指數收紅！AMD飆漲9.9%「市值首破1兆美元」 英特爾、安謀狂飆逾12% - tw.stock.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUzVsa3VmMlJkVDBtZ24tZFJYOTI2TElpTHNOZ0JKczR3aER2SXhSekRvVEhWM1c3NmdDOC1vd3hIOUZmNUJ4RmtteDkybXZiZVp4NTdUTy1CYVprQ1RYcDNUZE1BR0JGblJWbExKSWo4ZFF2UUVzVXFvTjFtb0VmUms2U3RpYjRLOEJIZTNmOGtfQ0hrOGhQb0ZoajhUaDFYZS1WN1RWbkRWcDAzSEVHbnhkM1lKTEVMU0ozYVMtNDRpdThtYW5GbUxwbF9jM1VXN0NsM0ZtajVHZDZRZXBZdWQwZGFoYlJtaWRUenRyVXk4dk9VTDN5VjAxZFFqOFBkM0s3M2JoS3JWRjY0Z241QmNLRTdLZ1ZhMG43R3k3TQ?oc=5"
-    },
-    {
-      "title": "美股收盤／費半飆4.3%那指創新高 科技股強勢領軍 AMD 飆10%市值破兆 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN3FrZFE0VWtYTUlLVkZiQmUxNklRNWxqRkh5WGVmN1lGSTJQTGRWV2tiMkhITnFsSDFuU3hERll6TjRnYnpFWmtyVzQ5Y2F3RkpFMEdmOURFN3dI0gFiQVVfeXFMT2JEUHVSV1dpWVhGaFNWUUI1cWl1Tk5TV01zQzg5Q25OM1hLdTZOVGZnWHdya1hZS3lEYl9KUUpOTXY5R29icGV5UGRTdlRPc0wtWGZfX3NUTHpsUVVqcldKNEE?oc=5"
-    },
-    {
-      "title": "比特幣漲至8.7萬美元，一度飆升8% - 日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbTgyMG5UaHBWLTkxazBKd1Jmbzk4VEYzZXVycmNGYTZRTFV0MjVZQmJnSVZSLUcyQ1VkOFVzVGh1TjFyMmJ1Uy1rSklvMWw0RWNMX1Vycmo2YXlvMFpPM2dVY0tHWHNDZVVXQ014cS0wRnhXLUxfblkyaWlDaE1CNVc4TnV3Q3Ez?oc=5"
-    },
-    {
-      "title": "比特幣一度漲破8.6萬美元市場風險資金回籠| 金融 - 非凡新聞台",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CRkJWOWhlcDFoUDhkZmp4TkVhWUpWNGstSXViUHVVOEFnTWdqQU5yYTVBdHZtUEUzLW92Vm54bVdLZTVuVzByaUl6ZW1EdGpGTXhpMHRRYWtVa2NZ?oc=5"
-    },
-    {
-      "title": "台股氣旺 千金股表態 盤中攻48601創新高 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxbEpaRFpBek9hSnhJTWhPNGw5MlM3RExTX21IUmF5S0FsaUxJMk02VVRIbU93M1Fkc0lJUjQ2UTVKNGNlek95ZmlHTFdVUW1BOXU5bmZn0gFbQVVfeXFMT0tQRTlEQkRxWTY2YmpSblZwRUF0QTdabFZxcDFDRnhwbnBMOUxyUmFIcnRDalhudlRUNTBlZ2NPTUNQR0paNUVJNVd1T3k0dDRVZE9IaWJTamRCMA?oc=5"
-    },
-    {
-      "title": "《貴金屬》升息預期影響 COMEX黃金下跌0.2% - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56ZV9keWN6N1k5WTFKaXlKRjB5RzhKNTlMck9CTDNaMlJGLTdUc2stTTB1VnJaYWJoRW5PR0FYVnM0SkRZcFdoSzZiNjNlc1U4eDJvWDVnbFJvOGxhMy0zZ3Y0VDhCaXhULVJ3Wi1LZUUySzZzcG5ZTg?oc=5"
-    }
-  ]
+  "news": []
 }
