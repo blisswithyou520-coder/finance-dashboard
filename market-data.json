@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/24 00:26",
+  "updated_tw": "09/24 03:46",
   "taiwan": {
     "2330": {
       "price": 2500.0,
-      "change": 20.0,
-      "changePercent": 0.8065
+      "change": 40.0,
+      "changePercent": 1.626
     },
     "2454": {
       "price": 5185.0,
-      "change": 175.0,
-      "changePercent": 3.493
+      "change": 5.0,
+      "changePercent": 0.0965
     },
     "2317": {
       "price": 256.0,
-      "change": 6.0,
-      "changePercent": 2.4
+      "change": 3.0,
+      "changePercent": 1.1858
     },
     "0050": {
       "price": 112.45,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 224.515,
-      "change": -2.865,
-      "changePercent": -1.26
+      "price": 225.356,
+      "change": -3.514,
+      "changePercent": -1.5354
     },
     "AAPL": {
-      "price": 336.87,
-      "change": -2.11,
-      "changePercent": -0.6225
+      "price": 336.58,
+      "change": -3.17,
+      "changePercent": -0.933
     },
     "TSLA": {
-      "price": 379.62,
-      "change": 4.32,
-      "changePercent": 1.1511
+      "price": 379.525,
+      "change": 0.625,
+      "changePercent": 0.165
     },
     "QQQ": {
-      "price": 740.165,
-      "change": -1.305,
-      "changePercent": -0.176
+      "price": 740.72,
+      "change": -6.74,
+      "changePercent": -0.9017
     },
     "SPY": {
-      "price": 768.28,
-      "change": -5.22,
-      "changePercent": -0.6749
+      "price": 767.71,
+      "change": -5.67,
+      "changePercent": -0.7331
     },
     "SCHD": {
-      "price": 33.405,
-      "change": -0.315,
-      "changePercent": -0.9342
+      "price": 33.315,
+      "change": -0.425,
+      "changePercent": -1.2596
     },
     "VOO": {
-      "price": 707.99,
-      "change": -4.79,
-      "changePercent": -0.672
+      "price": 707.479,
+      "change": -5.301,
+      "changePercent": -0.7437
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84198.61,
-      "change": -1973.6712,
-      "changePercent": -2.2904
+      "price": 84474.25,
+      "change": -1698.0312,
+      "changePercent": -1.9705
     },
     "ETH": {
-      "price": 2661.89,
-      "change": -90.7426,
-      "changePercent": -3.2966
+      "price": 2676.07,
+      "change": -76.5626,
+      "changePercent": -2.7814
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.785,
-      "change": 0.0466,
-      "changePercent": 0.1468
+      "price": 31.783,
+      "change": 0.0446,
+      "changePercent": 0.1405
     },
     "JPYTWD": {
-      "price": 0.1987,
-      "change": -0.003,
-      "changePercent": -1.4742
+      "price": 0.1986,
+      "change": -0.0031,
+      "changePercent": -1.5238
     },
     "EURTWD": {
-      "price": 36.265,
-      "change": -0.1206,
-      "changePercent": -0.3313
+      "price": 36.226,
+      "change": -0.1596,
+      "changePercent": -0.4385
     },
     "CNYTWD": {
-      "price": 4.7409,
+      "price": 4.7373,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4319.8,
-    "twd": 4414.0,
-    "tael": 165542.0,
-    "twdTotal": 137305.0,
-    "changePercent": -1.2933
+    "usd": 4321.1,
+    "twd": 4416.0,
+    "tael": 165581.0,
+    "twdTotal": 137338.0,
+    "changePercent": -1.2636
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "「川習會」倒數計時！市場觀望情緒升溫 美股4大指數全面下挫 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOcGpvdXhJcHI3dUVTMm5TdEdwcFRPc2hMRlVHX2pHaEVnRUJLMnJCd3o3blFQUXFNTHlWU2MySFJNRHBpRU5VdlZpaEUtcFl4RFdxZF8temJkcGJLZjFpVnk3QU9qaXR0VXVLaWZNa0xEZEJLbHRDaHdsU1FSNnYzN2pyeWJTemZ6OXJwNzFVbGVsbF8tZ1BlUTZsaC1LZW9wRUxqeEFSYVBiek4tLVZ6QXZwV1htcFVRTmlmd3JYVjJXQVlpcmNQbENJaTg5SEo1aERvQ0FvdG5GbGYwYkQ1WW9WSzNBbF9aUGZNdTNWcTRHY0Y3U3Q5UUJmRHpGNGhDeFExNlQxd2JMY0ZLdm5kY0NzUDhDZ05FTDhrdXhzdnN0YnFrNmlmQmtDaVlET0d0ZG1TdGVBSmpTODh6ME9aT3QzNEQ4SlhrcDNBT1VOcDBsQlhXUzF4TEZtWWdDMnVzWVM1ZTdUQzFLQnBDTm56VktfSmFtSlUwNzRZbVNYX20?oc=5"
-    },
-    {
-      "title": "美股早盤／四大指數齊跌！布蘭特漲回100美元 10年期美債殖利率破5% - UDN",
+      "title": "美股早盤／四大指數齊跌！布蘭特漲回100美元 10年期美債殖利率破5% - udn.com",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LUjA0MkltQms2aG9iTGVtVGY5Z0NZay0tYTgxa2JGMndrUGJDWFJpdHlXMC1lRHNCdlVIVVVCeG1iYWF6aFc1akFKUEJGZVY3?oc=5"
     },
     {
-      "title": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KV044V3NiYnFXRE5nVVprd1NSVkw0RklwOFd0cWJhMk5OQlYzZWVodHZTTGhoVzQ5RUR4X0ZfLVk1TVg4MlNPRkpuazdmODQ?oc=5"
+      "title": "【「川習會」倒計時市場觀望情緒濃！美股4大指數全下跌】 今天是下跌的一天。(#起啵) - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPX1VUbGVzcjRHRjZnNzhGcXpsd3pFSXdzRzlsVkVWeWd3M1lnN3pGenU1S0h6WEd0ZkJaNXhDdzlzWmRjZ0xWMEExenJBVFVmc080UUFjVzhaVTdkRHh2blpjaU85SmViajBLRUtsbFFRRTdRS0drY1dZRGxfWV8zaWFWb0tMLU5OSmk3WmpwYlhDem9Xa1l1RXVGbGNyLU94d2ZJbFA1ZWhqcjBqb2xzaVRESkZ4UlItTF9QeHIyV3RaNTZXd0w3SEEyV1U0eG5lZHpVQmYyYnUtLTUtWlpPM0tDYmQ1RjNHNm91azQ0dUQzcThTTllrUFVnMlZxOXdiOW10dVd4M0pzbG0tZGJqRUhJc0ZtSW5ha1c0S1dVSGNFY3kwZFJjNHZBcVFYVHAzOWNyU0ZCbnUxNGNYcTdZSDRpTW1IN3B2eFlnQ2ktbjU2c2VNWUtWck5uMWQySGhseERNWS1uMTRadWVNYjVoODVSRHVyMXE4dnNvREQ4OENKSFFtNmZaQmZoQXhhemFSSHN2MWxicVRZYV94eXY1Q0l3RnFBQXF4S3M0ZEhJVV9lMXdtcS1TeHhERnBUeGQ4OGEyc3JtME12NDNpcThGbnJhOEdUYXZTOXhFVlpn?oc=5"
     },
     {
-      "title": "黃金又跌了！從歷史天價一路下殺「這麼多」 - ec.ltn.com.tw",
+      "title": "黃金又跌了！從歷史天價一路下殺「這麼多」 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81ZHdiUFF5bHFMcVVFb1dheUpNQVdadEhDZ3NLeDZzcHJQVmtwWFpSUXQyVzlfRWxjeU9LVVNRZzVHSlB4aG9OM0x1czJyQWllUnVnUGZIaTBuN1dFaGZn0gFkQVVfeXFMTUY2YUlGV1ZDRFJRdzR1RklHUWoxTzF4TlhwMmpSbU40RGIwdG8tblFGVXh6OU5HUnVHa05ON2RsYkI3UVlXeGNwdERxWElkV0k2MTI1LTBpOVpmd01MT1oxN0xtSw?oc=5"
+    },
+    {
+      "title": "元大看盤室/「臺股儀表板」藏數字玄機！外資態度轉積極 報告揭市場風向 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxQV0NMUjZnNjR6X0c0Y1Z5YzRLbU5TNTR4dkd4SnRHYTdTOG1QbnJ4WUtzajNBMnlXQnBLMTdsR1VvbVBlam5sZmVnMFk5OHR0aTVxanAxUlJaTmhtb010cFB2ZXp6WDNuMGNvQkE2YmFZcU10eDRqbmV5SWZGTUpSd0N0VGNRZkRWSnZkSFNBb2Q0UFgwTHZkb05IeFlydl9DWG1sa2U2NzJMc083REhWajhyZnlWODA3cjVObEg3dnNBeWliOVZlTU9qUHEwbjlFSmFKcFVoOEx2UkttWDV3MGw4aF9LUnFHYW5uUzZySzlEdm9zSmh4bHYwcHNrTUxQLXRoV0EySU9zUlRxTkxpUHVjeThkVHZyLWZ2VUk0Y3YtS2lOTjI0YnhLZnN6M2FmRXpGbi1rWmg3UlRCTVg2UlZWRldnQXNkZDVRaWU4S1dUSm5VdE5tYjNOeDh0WExIb0JrclBxMXRyaWpua1d2MkxQbjRDanZvRXYyTXFCYjNmbUJvTmg4d3FUU1dGbmZpU1VjWDZoWEFqbG9namFjbktaQUNnMnBLTEdQdVpKcGV5bm1VMGhuTXFNcnI?oc=5"
     },
     {
       "title": "比特幣大漲，牛市來了嗎？ - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wemxSN3h3NHhIT3VvUnJLWldTbTZvcDhDTjAzazBmRTNUSkdCYUcySnJFTGs4TDd3X3V0NXBHb2s4T0hQaVR1dGlZVzJQQQ?oc=5"
     },
     {
-      "title": "台股創高總市值衝上5.3兆美元 超車印度躋身全球第4大 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZM3p6UThxbTV4c2Y1OTNHMGYxbjFZbjFaNzNOMENfeDlsN0g2V1JKQ3NRSHRiVWpLS3UyMUFnM3paVGMyQld3Mnc1dnA0R2M4Vkl2NWZBYTItaU1Rc0E?oc=5"
+      "title": "基金-FundDJ基智網 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM3hRUEM1SFZxLXZYd3VJNUIwZHZwZmV4ZEMwUU5ZaUVwMnJTNkZBTXhTVEZwbGNiaHFsb1NaYVJiZ2pKZ3p0Qll3OVFiN1FzSjJZRkJFWkJQV0FSV3N1OHdzV1ZhZUlFQzdqYjN1MUtKa242cFhmQ052c3BjZnVybEs4NndhZzFyazRIaE10RjA?oc=5"
     },
     {
-      "title": "快訊／美股開盤4大指數全綠 台指期夜盤下挫109點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNUmRnV2ZvaVBWNFlxU2xvU3k0bEl5TTIycHg4NndYZEI5WGl0c3JpX25WRUE0NFpQZGdqN3Z6SW9zY05BSkZsZmtlLVk4RE1DOFVjbkNJZ0ZRRXpra1hQMVh0c1hxX1IyNWRIeTVJeFVSWlVLcGR1VTBZTXRHM01nQ1RZd2ZJQUkwRzYxV2NLTXEtUnlLMFlPdlJLT3NvSkNsTGdnTnRDYVJKTGFRbmUwVzBfM3VKdVZpTE5fZEdRdWJkTFo1bFVjNHRnd0hCeV85ZG83X0RqRG1WS295WnlreEtTeXNieXloZmI4S0xFRTVxSW5PQlpLemY3a3I0RlpqOWI1azd4OVlwR0hSV19MZTlUZ1VtdTg4T0pfTWk4dkdROVM4QVJMYlNZS0x2aXlXaVAtT0pYeTVYMDZ5NGJr?oc=5"
+      "title": "比特幣突破8萬美元獲機構資金支撐，分析師對漲勢持續性看法不一 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VLS1pS0g3bWVoQ2lJVEc0c0xLSjJGTnJ6eHMzaW5kYmJ0RlhmRFE5NHBCc2RsaTFONGZHVjU4azd4WW5LR1REcWpLcEtNSUk?oc=5"
     },
     {
-      "title": "超車印度 台股市值躍世界第4 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01cWljanlabGU4enVjRThYRVMzOHBta2ZadnhjQTBNUi1TSHk5VDZjcFoyODJPVEVGd1NrdEM2NFFCUFZGQ2lQeFBlblE2eDNH?oc=5"
+      "title": "台股市值衝上5.3兆美元 躍全球第四大！法人預期最快下周挑戰5萬點大關 - udn.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kS1dzRWFHX3FYWXZDV1paaFVqb3U3bnRCajlSclcwN2o1T0tpSDNIMExPZkhVZGRVaG83TlZNbDl6TDFEcFRJdW5sbE9KSEF10gFWQVVfeXFMUHg1cTBwN3I3MVhIVWt4VXJaODdkU0U5REVlR2R2Y1VoMEJjaHJWanpDTHNkdDc3b3k3N25DY2JGOG5zUjhLTkhoQkk3bVgwN3VhVWpEeEE?oc=5"
     }
   ]
 }
