@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/23 14:21",
+  "updated_tw": "09/23 19:56",
   "taiwan": {
     "2330": {
       "price": 2500.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 86515.09,
-      "change": -87.8241,
-      "changePercent": -0.1014
+      "price": 85647.0,
+      "change": -525.2812,
+      "changePercent": -0.6096
     },
     "ETH": {
-      "price": 2759.91,
-      "change": -16.5583,
-      "changePercent": -0.5964
+      "price": 2728.44,
+      "change": -24.1926,
+      "changePercent": -0.8789
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.712,
-      "change": -0.0264,
-      "changePercent": -0.0832
+      "price": 31.667,
+      "change": -0.0714,
+      "changePercent": -0.225
     },
     "JPYTWD": {
-      "price": 0.1989,
-      "change": -0.0028,
-      "changePercent": -1.375
+      "price": 0.1984,
+      "change": -0.0033,
+      "changePercent": -1.6229
     },
     "EURTWD": {
-      "price": 36.274,
-      "change": -0.1116,
-      "changePercent": -0.3066
+      "price": 36.182,
+      "change": -0.2036,
+      "changePercent": -0.5595
     },
     "CNYTWD": {
-      "price": 4.735,
+      "price": 4.7258,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4368.2,
-    "twd": 4454.0,
-    "tael": 167012.0,
-    "twdTotal": 138524.0,
-    "changePercent": -0.1874
+    "usd": 4344.1,
+    "twd": 4423.0,
+    "tael": 165855.0,
+    "twdTotal": 137565.0,
+    "changePercent": -0.738
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "黃金又跌了！從歷史天價一路下殺「這麼多」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81ZHdiUFF5bHFMcVVFb1dheUpNQVdadEhDZ3NLeDZzcHJQVmtwWFpSUXQyVzlfRWxjeU9LVVNRZzVHSlB4aG9OM0x1czJyQWllUnVnUGZIaTBuN1dFaGZn0gFkQVVfeXFMTUY2YUlGV1ZDRFJRdzR1RklHUWoxTzF4TlhwMmpSbU40RGIwdG8tblFGVXh6OU5HUnVHa05ON2RsYkI3UVlXeGNwdERxWElkV0k2MTI1LTBpOVpmd01MT1oxN0xtSw?oc=5"
+    },
+    {
+      "title": "台股首度收盤站上4萬8大關！台積電2500元神助攻、載板散熱齊心掀開收盤天花板｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxPLVJuVmdQMUFZZ3o0UW8wNXZTSUYzU1dHZEtHWWdjcURnUjF1SHhMSHBGYU5nRjB1MlB1dXN6cUpOcWxvNk5lNUVwZUhnbmJsbW41Rl9qTWFpdEQyYS1RRnhDQi1HY1NBRFNlSUxoRXA0TExQYTBkQ0ZCZUFOWVo3SXVBRk5NX0MwN002dTBiZjEza0N0YjM3RWxzXzFLVWYyR3VOeWc2VnZBbUNQVHdVbTJmdTdoRFlla0VnNUtrYnJHYzJtMC1xVUtiaFV4aTJkM0Nxa2tCbHFyZE9BbEkzajRRcjRDWUIxQnVuSmp0U05ZamlwRG1lWHk2RkhMMXNfX2h2UkZpalRvZmxLeWREbWo3MUd6SHFhU0hHVDNkR2xaRlNkMnpBc3NaVXluYjZlUTlZc2p2RHhGc0l4d25zbTFsVTVIZ2JRVklfWElGNURrRlVsLVpmeVAyMTV1d2ZmY2theWNHbE5uaTExMm44UGJxT1lpVXhCSnBzd0lVV0xqcXBHcTdaTGlINGZpNWN1R3pySFdld2NsMldiZ200aFNUX3hLZlZkcjJTQ3hkMXJ6Y3A2cGo2cHBvUHlMNld4QVNLQWRJSE5uRG9pT19VMDZja0s2cG0wbVVOM0hwcUZPRVVFbWZjd3RjREJhbGxCOUdqYXdZOTJ1S2YzMWhIMW5DU3lIVXJqMDRtOV9YWXBjY3J6RzJDLWg1dWp6TndhVTgyMnp2YU5xUC15RUlKb3F3?oc=5"
+    },
+    {
       "title": "〈美股盤後〉油價連五降 費半六連升 那指再寫歷史新高紀錄 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBydVN6aHc0NTY4WDFmT1ZOaEdsSDlvcXFtNjgyT1RYUEQtdVEyMFRtM2xkdVlRSGo0WGk4UkV6Z0RINUNibUUwdGNCMmplQ0E?oc=5"
     },
     {
-      "title": "美股收盤》AI續熱、投資人關注美伊 美股漲跌互見 台積電ADR漲1.54％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jTnViMnFnSDUtcUUteVZFUUdTVU5hWlBTT1Y3NjluNExlN1NsdTRJbnp0RGhsZWQxVWE1M09DSmROYVhPMFJaZGpDTFFEV05OWTU2VzJjOHUwVm1QR3Yw0gFkQVVfeXFMTlJrelNsZUdRWGk5THhJOVF1LUxKcTdvak5maTFTeXJTc1g0VWRvR2ZTSEJGOVBIajhOWGFXTFhzd09ISnl6Q2NCbE4wNVFGZGVIN1FmM1M5Y0laa2RULUl0ODdhYQ?oc=5"
+      "title": "比特幣大漲，牛市來了嗎？ - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wemxSN3h3NHhIT3VvUnJLWldTbTZvcDhDTjAzazBmRTNUSkdCYUcySnJFTGs4TDd3X3V0NXBHb2s4T0hQaVR1dGlZVzJQQQ?oc=5"
     },
     {
-      "title": "美股助長退休潮：數百萬美國勞工提早告別職場 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQQm5fMlJCQkF3OGNFQmhEZjZqSjY4RVZTZVpfQnRVUXQ4ek9xVmFhSXRzanlnc040TVA0THhpMjNUbzZ6eWVDUDJxVDVxZHQxOE52NDFiWXZneDhZZkw4b043akRqY2xXZ0VsLXk2S1JPdEg3V3QzMjZGd2Y5V0w2dlBjamFWSHVUZ00xOTFHdFMxTlFQMFprOFZfcDV2MDVEQ2xxSnVXRjRlaFF2YnRFVjRPQ3FFN0I4dzZPaGZuczJ4UDRId3VCdzdYZHRyXzFuYTNuMDRHN3lCbVRNQWhZdFBoLTk2SFBnN1JKRzhJVTdFa3gyVWFVMU5EX1FaQndpTU5vbjdpSmtjZEhfZFNCZEd4YndON0ppN1EzcGJManotaWVUdWdVNFFHTnA2by05UFpjR0hYZ3pHcnR4UXp3NlJqVUYyUnlNQUhzRA?oc=5"
+      "title": "台股創高還要買美股？009800一次布局科技巨頭…別把雞蛋全放台股 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoQ200VW9fbnFkN1phSDZPbmhJRW9VUUpfYUxpcHpJdVV1TWxGLWdiYm5KMk42a1ZyaFV2WkZ5Ql9seEd5VDVtNmkxU1FQeHJZLS1Z0gFYQVVfeXFMTkRUOTU4OExuOFJId2hMeXJmSy0wRnNac1gzRVM4MXJ0M2hJX3dKRFdTTG9iQXJDajlWMVVvWmE4YU85V2hPWmFQVU5BT0NkeE5jZjh4QVV5dQ?oc=5"
     },
     {
-      "title": "美股開盤科技股續攻！那指再創高　台指期夜盤急拉逾200點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00WFkyVjJwVnRYbU1pSW13VHNaZFhvbUNzbHRaVXhaQW5ENmhPamF2dU1zV19kcGw3OE5aZ0pvcHI0MWwyc1hmTHNZcWJtZ25oZHfSAVBBVV95cUxNNGk4WkV1aFExRmpLTW9rLVpfSHBURnM0ODlkOEE0cXhrVVBhSHp6ak5oUWJjYjFIdDNGNXp0V3BLbThSWk9MazB3Mnk2Y1Y2Sw?oc=5"
+      "title": "台股量縮錢流去哪兒了？　中期風險胃納尚存靜待買盤 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wSWU4cUZ6aUM4c0xRZmVZYmltY3VWWHFVVGZpTjlMREl1ckZMckFKTFlsUDZlWkxyT0VGU04wd002b0cySW1UM3ZvbDd2SWJzMkHSAVBBVV95cUxNVGFUbjBpZUp1dldxXzMtTnkwQ2IxbmVPdldvd2hGemZScU1WX09oQ1dlYkZjRFJyWWRmZHRlVkRKYk96bVdZcGVoLW9nWHg5bA?oc=5"
     },
     {
-      "title": "比特幣 8.7 萬美元突破後高檔震盪！期貨未平倉量仍逾 612 億美元，槓桿沒有退潮 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQzRoRzN0VjFnZEZMeWZOLWVjck9HWmVFdDVMeUZQYzUxMnp4YWppQm5sSDZGdXhEV2NTNkJnNkxXNTlPTlBmWHV5YV9zVVV6NHpaY0Itcno2NVlRYmhEclVfY29NU2Nrd3dhZlpxSE5YaklNTDBpQXJMSWM5NWd4TThiV3UxclE3eDlGMTZ4eUxoc3FSMGNydFJLd1VDdno3MkJjcDVaNEtVLWVHRXVlbXEzYk12cmEwWmVYazlKdnMwbDNvUVlucTBicndnbERuNGc?oc=5"
+      "title": "台股創高總市值衝上5.3兆美元 超車印度躋身全球第4大 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZM3p6UThxbTV4c2Y1OTNHMGYxbjFZbjFaNzNOMENfeDlsN0g2V1JKQ3NRSHRiVWpLS3UyMUFnM3paVGMyQld3Mnc1dnA0R2M4Vkl2NWZBYTItaU1Rc0E?oc=5"
     },
     {
-      "title": "台股收盤48157點創收盤歷史新高攻上4萬8大關| 股市要聞| 股市 - udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42djVLQm1vb1VWamQyOUFxUVhuM004VU5zYUVBTnk4TjlZSTNzLV9XQVhjTWt1aUlqeWFIVjZEc1h5b3Nzc29qaHItTG9YbUND?oc=5"
-    },
-    {
-      "title": "台股上漲357點收48157點再創歷史新高| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XWkJ6eFlSMG5lMmtpbWJURWROWUJrVGM5WTd1UGEtMW1vV0Rja3JLZEZlUU1kelBCSjB1YW5pVDUzdTdBVXNHVllxVHlJd1NhN0pxckpGb1FCdHdkaWc?oc=5"
-    },
-    {
-      "title": "【Hot台股】聯發科昨創天價今卻翻黑...網哀「硬了又軟變回發糕」 分析師：拉回找買點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxNQ2liUW1HWk9PYzRUSUt2c0NMaWRmc0tfempWVFdPQVNKMzNQUUVBTzZmelRBeVpqcTlyVjlKUVlpbkpfQU9tSXFyZjI3YmpKU25Hai1pSXQzV2dZWHZtNW44ZmxlUEh2bWNjdGtab3NrQy1sdUxrVnF0R0s2TE1GWTdVcENMY1FrUnJQMlM2Sm0tZVVhc3l0aVE4T0Qwd0t4cWVfbTVocXd1RHBjMms4dXZnU05mMUZ4N1JQYzBhQXljMHY0NEM5TzNqYUQzeGlSN3FDS05ja1lOQjViMTVkWGktMVZYYjdueWVtRmlYSXFiX3NJUE1NTmJ6OVA5bkVia0QyeWhpd1NXek1nNDUyeFVTeGM0d1pRV1NSaEMxQjZYVF96YTEwbzIyY3ZDbFQ2ejY2MllHTDNRSlBQb3hoWXlVeVloQW5ub1I4cXp4SUdRNjRtcDZnR0dLZ3hZb1pGc05wU1RNZ0FkWVlqTEx3dm1mb1FnSjNtcDJ0emJDeW5wRktoSmloQWNvZmNlTVhleENQWVQtLUlnWXozUU42bVVTYVlLQWtqSXk4a3ZGc0pCakJCR1NDMnAzd2hIYW9hbS1rZ2o0Z09xam1Zdk5tYW1VMmdZV2xLU0lhcDVkWjVEeXN6bjRITmM5Y0N3M3ZFamw2VlE5X0hIWURMSnNZQXoxRXVkbHRKQllza1hJbzA?oc=5"
+      "title": "《台股盤後》量縮收漲357點、首登48K，日K翻紅- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZFFkbE41ODUyTHZJdmprd3Roa2ZTWFlaMlMwWDV3ekVLckxKelpKaDVaNENkXzRlck1pNGZNRlRpSXF4RjBOOEtKMVE1ekUyNGRWRzgzajlDR2ZGaGoyeTk2amFSUHh0U3ZYVlppeGlFaV9MZ1V1NHZ6NHlDSk9MQjZfTkhtWkFxQVJBTVV5bllUUQ?oc=5"
     }
   ]
 }
