@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/24 13:52",
+  "updated_tw": "09/24 19:09",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84128.12,
-      "change": -2044.1613,
-      "changePercent": -2.3722
+      "price": 83492.32,
+      "change": -890.6878,
+      "changePercent": -1.0555
     },
     "ETH": {
-      "price": 2687.76,
-      "change": -64.8726,
-      "changePercent": -2.3567
+      "price": 2647.8,
+      "change": -36.8919,
+      "changePercent": -1.3742
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.807,
-      "change": 0.1275,
-      "changePercent": 0.4025
+      "price": 31.802,
+      "change": 0.1225,
+      "changePercent": 0.3867
     },
     "JPYTWD": {
-      "price": 0.1988,
-      "change": -0.0024,
-      "changePercent": -1.1791
+      "price": 0.1981,
+      "change": -0.0031,
+      "changePercent": -1.527
     },
     "EURTWD": {
-      "price": 36.238,
-      "change": -0.0281,
-      "changePercent": -0.0774
+      "price": 36.218,
+      "change": -0.0481,
+      "changePercent": -0.1326
     },
     "CNYTWD": {
-      "price": 4.7438,
+      "price": 4.742,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4317.4,
-    "twd": 4415.0,
-    "tael": 165565.0,
-    "twdTotal": 137324.0,
-    "changePercent": -0.0232
+    "usd": 4292.5,
+    "twd": 4389.0,
+    "tael": 164584.0,
+    "twdTotal": 136510.0,
+    "changePercent": -0.5998
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "美股23小時交易來了！台灣券商搶卡位 富邦拚首家、兆豐已開跑 - tw.stock.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOX0dzVGwxMzBuQUFfMzZnTWJOdmhEYTJibHo0Wk0tdEE1U1JIaXRVdGctS0dtaFhNY1k4TERGeE5ZMVgwN183NmhJcjZYb3B2RndvYUp4RUNBNnVBMy1CT2VCVUxreXBncXcyYURVSXZ5UkJCalJ5d2YzTUdWd29FUDlUWG1XNzJjV0lQMUNrek5sN0RMbVB0V013bmJGSnBJLWluc0R4UDdjNlJWOFpJMXd6d3IzeFJJZHZzTENJQmN5T2dubHhQSGcyVUJ6WTZZbWFnTXBDaUpHZ3R2VDhnUTZjdk1faTVNTVdBRVVRYWpsTXduZmNXSW1PMEZ1RENUNnZla250X2JoMGhvcUZVcUViRlBxRGJudFNBVWFxRU9rS2pUT1Q4TTNpaUhSLXhaejNtTkpuOFZEODNLdDl2NVRhUlVRMjViRWU2c3ZRN1FFZTJZSEIyRVVna1dEaGZDMWRLRkdERzdCWURIQ3BtWFdHS1dvcjJzVFFuQXRiVFV0bnJyc2VaSnFMTGJTZw?oc=5"
+    },
+    {
       "title": "黃金大跌不是巧合！失守4300美元、專家點出關鍵原因 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wQ1RUSy1INFRQa1pHcVRPc3dxd3owUFdtZzVVOTVRMkFQbGxSTzhGRG8wZkl1YlVpU3RKYVhUS3c1NTM5YXhCMGZJNHV3WTB6Q0J3cHhGdTV1RG5MZWhN0gFkQVVfeXFMTlAtMkdjRG9xWEhrdWlkdS1LaVRUTDRoeGJ5Q0g3U2hJLVNtMzdwV2JIUmg2UjRFQVFsRE1nWWY1RE1CQ2E0WTUxZExzekZnb1Vnc2pucmRVN19GZnJYbXo2UzA3SQ?oc=5"
     },
     {
-      "title": "「川習會」倒數計時！市場觀望情緒升溫 美股4大指數全面下挫 - tw.stock.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOcGpvdXhJcHI3dUVTMm5TdEdwcFRPc2hMRlVHX2pHaEVnRUJLMnJCd3o3blFQUXFNTHlWU2MySFJNRHBpRU5VdlZpaEUtcFl4RFdxZF8temJkcGJLZjFpVnk3QU9qaXR0VXVLaWZNa0xEZEJLbHRDaHdsU1FSNnYzN2pyeWJTemZ6OXJwNzFVbGVsbF8tZ1BlUTZsaC1LZW9wRUxqeEFSYVBiek4tLVZ6QXZwV1htcFVRTmlmd3JYVjJXQVlpcmNQbENJaTg5SEo1aERvQ0FvdG5GbGYwYkQ1WW9WSzNBbF9aUGZNdTNWcTRHY0Y3U3Q5UUJmRHpGNGhDeFExNlQxd2JMY0ZLdm5kY0NzUDhDZ05FTDhrdXhzdnN0YnFrNmlmQmtDaVlET0d0ZG1TdGVBSmpTODh6ME9aT3QzNEQ4SlhrcDNBT1VOcDBsQlhXUzF4TEZtWWdDMnVzWVM1ZTdUQzFLQnBDTm56VktfSmFtSlUwNzRZbVNYX20?oc=5"
+      "title": "〈美股盤後〉股債雙殺！美債殖利率飆至19年高點 那指、費半跌逾1% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zbjBuX0R0Wk8yRF80Sk1iUFNrS3FQZ3ViMWpXQUh4ZThTVGJtSFRYNmJqS3BHQlpTbUQ5UWJHZHdQTjZyN0ZtSXdERkV3UTA?oc=5"
     },
     {
-      "title": "美股早盤／四大指數齊跌！布蘭特漲回100美元 10年期美債殖利率破5% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LUjA0MkltQms2aG9iTGVtVGY5Z0NZay0tYTgxa2JGMndrUGJDWFJpdHlXMC1lRHNCdlVIVVVCeG1iYWF6aFc1akFKUEJGZVY3?oc=5"
-    },
-    {
-      "title": "比特幣回踩 8.4 萬美元牛熊線！Glassnode：守住成本密集區，下一關直指 9.67 萬 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT25NdVk2UE42NDc3NEJoSElhcjc1TG5sNTRZMWhtTWZTWE9ETTBqem5OeWw5ejl3aWU0cnlQSnl1OXBQa0NHU0FTM0lSNGx1UzhQMHBiZkRYOUx5Tlo4WGVwdUNVcDl1aGZpaUxBa1ZjTl9JRXl1SVpkYlhIZnJMX2JvcThKazRvY01QMTcxaXhibW12ZDd6S1lvd1pfaXdZY0ZKQXZkTEE1ekIzMnN5eFRB?oc=5"
+      "title": "台股收跌逾百點險守48000點題材股逆勢走揚| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01RzNieE5hUW1YVzdEUHp3QWFxUzQ1MURMcUtVdFBLUlV0YjF2SnctZHBMY1h5N2tFWi1WaHVYSkRRV2gybnpJa3Z1MzQ3SFFPRGtzdVJSZHhmTUZMSWc?oc=5"
     },
     {
       "title": "黃金多頭尚未結束 明年或重新挑戰5,000美元 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSnk1UmllZVl4X29kdmJFRnR4eENadHNxWG85dkJWQzZzeDBPYmEwQWJiMmlsYzhublBKS1RGV0JvWm94Qkstek5mMVhOYnA1UzFoS0gtRmIxSEhQQnJjQXlfYXhsbjNZVjlkN1o1Uzh4aWZWNjFERV9xZTAzWllmUG9OdGY1aHhYdDEzTGhTOFVhQQ?oc=5"
     },
     {
-      "title": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KV044V3NiYnFXRE5nVVprd1NSVkw0RklwOFd0cWJhMk5OQlYzZWVodHZTTGhoVzQ5RUR4X0ZfLVk1TVg4MlNPRkpuazdmODQ?oc=5"
+      "title": "美股早盤／四大指數齊跌！布蘭特漲回100美元 10年期美債殖利率破5% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LUjA0MkltQms2aG9iTGVtVGY5Z0NZay0tYTgxa2JGMndrUGJDWFJpdHlXMC1lRHNCdlVIVVVCeG1iYWF6aFc1akFKUEJGZVY3?oc=5"
     },
     {
-      "title": "美股太貴，該加倉新興市場嗎？ - 日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNjc1dVFKLTJfb0owTW0xbmh0SkE3OXZYWjJPY2FDazh2Q3haQUZ3a25YXy1yckVLRFpLc3d3ck1YNFM0cVpocXhmb0ZQem5UY0pSYXNfdkpwX1ktOFMtYkpZcFczeFZOUzh3SWJ2M3JydXFLbDVsQzdSckhhTTBKcGNqd3Q?oc=5"
+      "title": "從產業動能到基本面：台股雙層量化選股 - tejwin.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbFNHVUVENk1mV2VfUkdOd284MndhTkVOSFMwaDVRQkhTcnEzSllSVy1GTHo0dTJCTTQzSVpEbS1VM0xoWElrRE9leV9UMTJncmZNSUxUWTlGYkxZb2xGV3EydWZNeVVtYVVyU09xX0RpeFdJYzlRQTNMakw4M2kzODlDUFFheVZ4VHlrS2EtQ1QyRE54T18yX3JVbHFaN0NXQW9hUFBlbw?oc=5"
     },
     {
-      "title": "快訊／市場聚焦川習會！美股四大指數走低 台指期夜盤拉回逾300點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxON2ZPSXVWTWI1Sk9Eak9nR2Z5bXVrdG5MWHRYeTNsTktTVGVSLUhkcGg2dThidFpZcU5DVTA3dGZoS2lpYjRhYU4xeUIzdlozZElSNngycUtNVVZjU3psbmhSRC03djVudHpCdm54OGRQQ29uYXcxZS1DdVh3ZHhWVkRnWHBFdmdzUnZJWmQwdG9tYm5KUExDM3pMOHVHVnRmcjJaTUVFc25HcFRWcUVaWFdqWDEzZmxMTHA2STN2YXNqRldGS2JtUUtiZ082ZGZyOFgwTXdfXzZTTW1RRzRPV0w1OUlxNkE2TTc2aEFQcVZiX2ZVWVplV1ZDTklIeVFYY1Z0NUE2aDhxNFF0bUdFSFpCYXFtaXgxUFlYOTFjWmE3ZmptVU9ONmxpUFpKUlh5azU5cDlwNVUxb2hNbE02LXlFbjZFOW1uS0E3dnJtdk5XbFBIdVRxdE82UXA1dlpERi1DNF9HYVpZaUhMbURrblQxcUFSc3VWMVVsQ0JYaHFabWJNR1lXZVVWTnFYUWIwdUVV?oc=5"
+      "title": "美股收盤》油價、美債殖利率飆！道瓊跌352點 台積電ADR下殺逾1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UVnJsanQ3b0d2OHdsVl82VkRxS0RIMjJUdGN2M29BR0tKSXhNM3JMd3RkS3FkRnVEcENUREZsWXhiRXlWeXdZeDJwNWdCWElrcG4yWTdJcmc5RnRKSzhV0gFkQVVfeXFMT1dGN3BwOXgtVk1RSDFzbmY0TTQySHVGNkpBUmxSQXEwYzY5eU5PMzB2UWlUZFhhbG5yYkpXYWtyMnl3Xzg3dWl2Q3pwTlFBUHlMVzVfTHpUa1FyenZJSGRpUmROWA?oc=5"
     }
   ]
 }
