@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/24 06:41",
+  "updated_tw": "09/24 08:53",
   "taiwan": {
     "2330": {
       "price": 2500.0,
@@ -36,80 +36,80 @@
   "us": {
     "NVDA": {
       "price": 225.51,
-      "change": -3.36,
-      "changePercent": -1.4681
+      "change": -1.87,
+      "changePercent": -0.8224
     },
     "AAPL": {
       "price": 337.02,
-      "change": -2.73,
-      "changePercent": -0.8035
+      "change": -1.96,
+      "changePercent": -0.5782
     },
     "TSLA": {
       "price": 380.12,
-      "change": 1.22,
-      "changePercent": 0.322
+      "change": 4.82,
+      "changePercent": 1.2843
     },
     "QQQ": {
       "price": 741.21,
-      "change": -6.25,
-      "changePercent": -0.8362
+      "change": -0.26,
+      "changePercent": -0.0351
     },
     "SPY": {
       "price": 767.81,
-      "change": -5.57,
-      "changePercent": -0.7202
+      "change": -5.69,
+      "changePercent": -0.7356
     },
     "SCHD": {
       "price": 33.28,
-      "change": -0.46,
-      "changePercent": -1.3634
+      "change": -0.44,
+      "changePercent": -1.3049
     },
     "VOO": {
       "price": 707.6,
-      "change": -5.18,
-      "changePercent": -0.7267
+      "change": 5.82,
+      "changePercent": 0.8293
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84473.22,
-      "change": -1699.0612,
-      "changePercent": -1.9717
+      "price": 84225.89,
+      "change": -1946.3913,
+      "changePercent": -2.2587
     },
     "ETH": {
-      "price": 2683.46,
-      "change": -69.1726,
-      "changePercent": -2.513
+      "price": 2679.32,
+      "change": -73.3126,
+      "changePercent": -2.6634
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.789,
-      "change": 0.1095,
-      "changePercent": 0.3456
+      "price": 31.787,
+      "change": 0.1075,
+      "changePercent": 0.3393
     },
     "JPYTWD": {
-      "price": 0.1987,
-      "change": -0.0025,
-      "changePercent": -1.2288
+      "price": 0.1986,
+      "change": -0.0026,
+      "changePercent": -1.2785
     },
     "EURTWD": {
-      "price": 36.236,
-      "change": -0.0301,
-      "changePercent": -0.0829
+      "price": 36.184,
+      "change": -0.0821,
+      "changePercent": -0.2263
     },
     "CNYTWD": {
-      "price": 4.7437,
+      "price": 4.7399,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4323.1,
-    "twd": 4418.0,
-    "tael": 165689.0,
-    "twdTotal": 137427.0,
-    "changePercent": -1.2179
+    "usd": 4329.7,
+    "twd": 4425.0,
+    "tael": 165932.0,
+    "twdTotal": 137628.0,
+    "changePercent": -1.0671
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,8 +117,16 @@
   },
   "news": [
     {
+      "title": "美股收盤》油價、美債殖利率飆！道瓊跌352點 台積電ADR下殺逾1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UVnJsanQ3b0d2OHdsVl82VkRxS0RIMjJUdGN2M29BR0tKSXhNM3JMd3RkS3FkRnVEcENUREZsWXhiRXlWeXdZeDJwNWdCWElrcG4yWTdJcmc5RnRKSzhV0gFkQVVfeXFMT1dGN3BwOXgtVk1RSDFzbmY0TTQySHVGNkpBUmxSQXEwYzY5eU5PMzB2UWlUZFhhbG5yYkpXYWtyMnl3Xzg3dWl2Q3pwTlFBUHlMVzVfTHpUa1FyenZJSGRpUmROWA?oc=5"
+    },
+    {
       "title": "「川習會」倒數計時！市場觀望情緒升溫 美股4大指數全面下挫 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOcGpvdXhJcHI3dUVTMm5TdEdwcFRPc2hMRlVHX2pHaEVnRUJLMnJCd3o3blFQUXFNTHlWU2MySFJNRHBpRU5VdlZpaEUtcFl4RFdxZF8temJkcGJLZjFpVnk3QU9qaXR0VXVLaWZNa0xEZEJLbHRDaHdsU1FSNnYzN2pyeWJTemZ6OXJwNzFVbGVsbF8tZ1BlUTZsaC1LZW9wRUxqeEFSYVBiek4tLVZ6QXZwV1htcFVRTmlmd3JYVjJXQVlpcmNQbENJaTg5SEo1aERvQ0FvdG5GbGYwYkQ1WW9WSzNBbF9aUGZNdTNWcTRHY0Y3U3Q5UUJmRHpGNGhDeFExNlQxd2JMY0ZLdm5kY0NzUDhDZ05FTDhrdXhzdnN0YnFrNmlmQmtDaVlET0d0ZG1TdGVBSmpTODh6ME9aT3QzNEQ4SlhrcDNBT1VOcDBsQlhXUzF4TEZtWWdDMnVzWVM1ZTdUQzFLQnBDTm56VktfSmFtSlUwNzRZbVNYX20?oc=5"
+    },
+    {
+      "title": "美股早盤／布蘭特漲回100美元 10年期美債殖利率破5% 四大指數齊跌 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBESVZNRlVyRDNfTEY1ZkpNX1BoMmYwT1dLckxxaDYyVGZDTTFfRWlwME04ckE2ZVNPZV9ERjFDRmE3TkdoUlhVSzh5TUlWV0dadmwzb2ZlYnVqcXda0gFiQVVfeXFMUGp3QnhYM3dnZFAwNm9DbHhMZmttVzVsd2ZBNU5wRjY0UDY5RkowZ3dnZkFOYTFmTGlTaHBXY3NBN3gyd2tzUVNYSXpzWGZBZjhkdjVOVThabkR2RXQzcHZvemc?oc=5"
     },
     {
       "title": "〈美股盤後〉股債雙殺！美債殖利率飆至19年高點 那指、費半跌逾1% - news.cnyes.com",
@@ -129,24 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPX1VUbGVzcjRHRjZnNzhGcXpsd3pFSXdzRzlsVkVWeWd3M1lnN3pGenU1S0h6WEd0ZkJaNXhDdzlzWmRjZ0xWMEExenJBVFVmc080UUFjVzhaVTdkRHh2blpjaU85SmViajBLRUtsbFFRRTdRS0drY1dZRGxfWV8zaWFWb0tMLU5OSmk3WmpwYlhDem9Xa1l1RXVGbGNyLU94d2ZJbFA1ZWhqcjBqb2xzaVRESkZ4UlItTF9QeHIyV3RaNTZXd0w3SEEyV1U0eG5lZHpVQmYyYnUtLTUtWlpPM0tDYmQ1RjNHNm91azQ0dUQzcThTTllrUFVnMlZxOXdiOW10dVd4M0pzbG0tZGJqRUhJc0ZtSW5ha1c0S1dVSGNFY3kwZFJjNHZBcVFYVHAzOWNyU0ZCbnUxNGNYcTdZSDRpTW1IN3B2eFlnQ2ktbjU2c2VNWUtWck5uMWQySGhseERNWS1uMTRadWVNYjVoODVSRHVyMXE4dnNvREQ4OENKSFFtNmZaQmZoQXhhemFSSHN2MWxicVRZYV94eXY1Q0l3RnFBQXF4S3M0ZEhJVV9lMXdtcS1TeHhERnBUeGQ4OGEyc3JtME12NDNpcThGbnJhOEdUYXZTOXhFVlpn?oc=5"
     },
     {
-      "title": "美股早盤／四大指數齊跌！布蘭特漲回100美元 10年期美債殖利率破5% - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LUjA0MkltQms2aG9iTGVtVGY5Z0NZay0tYTgxa2JGMndrUGJDWFJpdHlXMC1lRHNCdlVIVVVCeG1iYWF6aFc1akFKUEJGZVY3?oc=5"
-    },
-    {
       "title": "美股太貴，該加倉新興市場嗎？ - 日經中文網",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNjc1dVFKLTJfb0owTW0xbmh0SkE3OXZYWjJPY2FDazh2Q3haQUZ3a25YXy1yckVLRFpLc3d3ck1YNFM0cVpocXhmb0ZQem5UY0pSYXNfdkpwX1ktOFMtYkpZcFczeFZOUzh3SWJ2M3JydXFLbDVsQzdSckhhTTBKcGNqd3Q?oc=5"
     },
     {
-      "title": "黃金又跌了！從歷史天價一路下殺「這麼多」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81ZHdiUFF5bHFMcVVFb1dheUpNQVdadEhDZ3NLeDZzcHJQVmtwWFpSUXQyVzlfRWxjeU9LVVNRZzVHSlB4aG9OM0x1czJyQWllUnVnUGZIaTBuN1dFaGZn0gFkQVVfeXFMTUY2YUlGV1ZDRFJRdzR1RklHUWoxTzF4TlhwMmpSbU40RGIwdG8tblFGVXh6OU5HUnVHa05ON2RsYkI3UVlXeGNwdERxWElkV0k2MTI1LTBpOVpmd01MT1oxN0xtSw?oc=5"
+      "title": "《貴金屬》美元指數上漲 COMEX黃金下跌1.3% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa2pGY3lycmdnY1lEWHBwZU5GSTBSV3JFbWZFa0szWDVGeTBRWjdDY0tzQjBtSk5VVHh2YjJjX3RHNzd2NEl6RmJ5U3YyMHBYblZJTU91aDU2OWZXYXhVMnZhVEVFb3RVczBRa2ZWeTFGWE9UMkRNYmxRYmVPWGdwUm9pUDh0cGlBdkd2UHNJVmhFdw?oc=5"
     },
     {
-      "title": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KV044V3NiYnFXRE5nVVprd1NSVkw0RklwOFd0cWJhMk5OQlYzZWVodHZTTGhoVzQ5RUR4X0ZfLVk1TVg4MlNPRkpuazdmODQ?oc=5"
-    },
-    {
-      "title": "【美股盤前】AI顛覆華爾街？恐慌引爆金融股暴跌 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPa3o2OFRiVmtYdnJ1MnlIdV90RUxGVW5OcVk3VmIxQnpKYXNBM0EyVVdtTUo0Q0I4Y3oyOXU2WHpmalBISFN3VWlZUGFocHdNRXJCNmc4bnZ2cHh1dmdtNEtidldfZFJQaXF2SjY0NjVJRFdLM0tiX0RBSFFxY29sQzJDVHFfbkYtSFhtT0U1aGhoRXdIaGo0YmtTSXQzVTNpZy03b2U2ZmNaaWZMR3BRdmNzaTdMUEhNbFpCZWg0Y3JvTUtVZnNZUTdTaXJGWEpiN2oySms0Tm5xOEp4bl9jY2p4ZUJKQVNxVjdtRE1aVzdfcUpIcldnak4yM2p4X3drOC1iekFHSXI1WnoyeFNnLWVnVGxPcXQzTXhQMFEyS0p1ZHhoTWtQRGRBMTh0TFY1?oc=5"
+      "title": "9月24日 五件財經大事搶先看 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hNGZJcWowcHZqQTBGWXBWa2xwd2lnSDlKQTktUlNKMXJlNExjbjJsc0FSM2ZTUDBKdm1KVXdRX0lodEVFczJPOG1SVmpYZFZyMUN4X1lUaHFWd9IBX0FVX3lxTE8xSkxsdWVaZzJJX2djSXFVVHpKTWY1NTM2aTJra3VWWmdRZV91d0VVNUZIMWtDSUZIVWJwNzdfbWJONWNkemJ1dFpVS1l4T3h3U0s0SmZrd2MtbGtGNFBV?oc=5"
     }
   ]
 }
