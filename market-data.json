@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/24 23:48",
+  "updated_tw": "09/25 03:48",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -19,74 +19,74 @@
     },
     "0050": {
       "price": 112.4,
-      "change": 0.55,
-      "changePercent": 0.4917
+      "change": 1.05,
+      "changePercent": 0.943
     },
     "00878": {
       "price": 34.88,
-      "change": -0.33,
-      "changePercent": -0.9372
+      "change": -0.23,
+      "changePercent": -0.6551
     },
     "00919": {
       "price": 31.83,
-      "change": -0.33,
-      "changePercent": -1.0261
+      "change": -0.44,
+      "changePercent": -1.3635
     }
   },
   "us": {
     "NVDA": {
-      "price": 221.87,
-      "change": -3.64,
-      "changePercent": -1.6141
+      "price": 223.57,
+      "change": -1.94,
+      "changePercent": -0.8603
     },
     "AAPL": {
-      "price": 335.915,
-      "change": -1.105,
-      "changePercent": -0.3279
+      "price": 336.945,
+      "change": -0.075,
+      "changePercent": -0.0223
     },
     "TSLA": {
-      "price": 376.41,
-      "change": -3.71,
-      "changePercent": -0.976
+      "price": 379.458,
+      "change": -0.662,
+      "changePercent": -0.1742
     },
     "QQQ": {
-      "price": 735.2,
-      "change": -6.01,
-      "changePercent": -0.8108
+      "price": 740.91,
+      "change": -0.3,
+      "changePercent": -0.0405
     },
     "SPY": {
-      "price": 763.635,
-      "change": -4.175,
-      "changePercent": -0.5438
+      "price": 767.49,
+      "change": -0.32,
+      "changePercent": -0.0417
     },
     "SCHD": {
-      "price": 33.19,
-      "change": -0.09,
-      "changePercent": -0.2704
+      "price": 33.105,
+      "change": -0.175,
+      "changePercent": -0.5258
     },
     "VOO": {
-      "price": 703.715,
-      "change": -3.885,
-      "changePercent": -0.549
+      "price": 707.31,
+      "change": -0.29,
+      "changePercent": -0.041
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84295.2,
-      "change": -87.8078,
-      "changePercent": -0.1041
+      "price": 84440.18,
+      "change": 57.1722,
+      "changePercent": 0.0678
     },
     "ETH": {
-      "price": 2678.07,
-      "change": -6.6219,
-      "changePercent": -0.2467
+      "price": 2696.94,
+      "change": 12.2481,
+      "changePercent": 0.4562
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.825,
-      "change": 0.1455,
-      "changePercent": 0.4593
+      "price": 31.814,
+      "change": 0.1345,
+      "changePercent": 0.4246
     },
     "JPYTWD": {
       "price": 0.1981,
@@ -94,22 +94,22 @@
       "changePercent": -1.527
     },
     "EURTWD": {
-      "price": 36.231,
-      "change": -0.0351,
-      "changePercent": -0.0967
+      "price": 36.24,
+      "change": -0.0261,
+      "changePercent": -0.0719
     },
     "CNYTWD": {
-      "price": 4.7451,
+      "price": 4.7476,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4287.7,
-    "twd": 4387.0,
-    "tael": 164519.0,
-    "twdTotal": 136456.0,
-    "changePercent": -0.7109
+    "usd": 4307.9,
+    "twd": 4406.0,
+    "tael": 165237.0,
+    "twdTotal": 137052.0,
+    "changePercent": -0.2431
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "黃金大跌不是巧合！失守4300美元、專家點出關鍵原因 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wQ1RUSy1INFRQa1pHcVRPc3dxd3owUFdtZzVVOTVRMkFQbGxSTzhGRG8wZkl1YlVpU3RKYVhUS3c1NTM5YXhCMGZJNHV3WTB6Q0J3cHhGdTV1RG5MZWhN0gFkQVVfeXFMTlAtMkdjRG9xWEhrdWlkdS1LaVRUTDRoeGJ5Q0g3U2hJLVNtMzdwV2JIUmg2UjRFQVFsRE1nWWY1RE1CQ2E0WTUxZExzekZnb1Vnc2pucmRVN19GZnJYbXo2UzA3SQ?oc=5"
+      "title": "美股23小時交易來了！台灣券商搶卡位 富邦拚首家、兆豐已開跑 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOX0dzVGwxMzBuQUFfMzZnTWJOdmhEYTJibHo0Wk0tdEE1U1JIaXRVdGctS0dtaFhNY1k4TERGeE5ZMVgwN183NmhJcjZYb3B2RndvYUp4RUNBNnVBMy1CT2VCVUxreXBncXcyYURVSXZ5UkJCalJ5d2YzTUdWd29FUDlUWG1XNzJjV0lQMUNrek5sN0RMbVB0V013bmJGSnBJLWluc0R4UDdjNlJWOFpJMXd6d3IzeFJJZHZzTENJQmN5T2dubHhQSGcyVUJ6WTZZbWFnTXBDaUpHZ3R2VDhnUTZjdk1faTVNTVdBRVVRYWpsTXduZmNXSW1PMEZ1RENUNnZla250X2JoMGhvcUZVcUViRlBxRGJudFNBVWFxRU9rS2pUT1Q4TTNpaUhSLXhaejNtTkpuOFZEODNLdDl2NVRhUlVRMjViRWU2c3ZRN1FFZTJZSEIyRVVna1dEaGZDMWRLRkdERzdCWURIQ3BtWFdHS1dvcjJzVFFuQXRiVFV0bnJyc2VaSnFMTGJTZw?oc=5"
     },
     {
-      "title": "台股高檔震盪！5檔「轉機黑馬股」浮出水面 法人看安葆、廣閎科等續攻 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPaTlxbE0wVlBKa3N1TkQ0SzdzNE5RR1FvVnVwb1VRUXM5TlB5dzdKbm10a3R3VEtGRUFOWUFQbXFrQmozV1EzdG5ydzZYZ1lFMnNjSjNDYzRVUFZudTJxV3dsYnNjNkVtRFkzbEpad1RXMmxMSmRLTUdreGt5eFBhWjRFWUZZZVpzSFZBdnktcjBVYk1aUHU4OXFUS05HT2p0TzJyOXY3Y2Q1cTJGUkxWQ3gtMV9udGVrWWRWaXBuVzR0MDViZG96UUFEQWRvSmtxY0pwUTEwZS1LdzVfVU0yZENkUjVPT0dqWmpaNS1PdWJlQ0pNaXJCTzRqbDlQaW5ZS2xJT0ZDT3pDVENJTThtSmhhVGFKWm9vcUt2TlR4WHRWRGg1UV9DbG1rQWlfMEZLNS1rUVJfalVHaGJvZkhWdXRiOHZHU2VHOEhrNkd0eVpuRUUwZnRKeFlvcUJLdw?oc=5"
+      "title": "美股選前布局 有甜頭 - udn.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91a2lYbzVMVEZLdkQwWTVCWTUzSTVNNFM0N0t2ay1uTUQtdURIbkt0WDhtRVZtZDQtdXYxdEZRSXhuU21XUDdiSGNHTU9LN3dj0gFWQVVfeXFMTmZseXlSR0dwVzBjLWsyNkQ5MmgwUG9oYkRpUEd3eF93bEs0enMzbUdqRzl6WHNDdGlTcE0zd1dWTlNXM3NkNXMtdDV6TnJLUlUtRmRuZkE?oc=5"
+    },
+    {
+      "title": "黃金大跌不是巧合！失守4300美元、專家點出關鍵原因 - ec.ltn.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wQ1RUSy1INFRQa1pHcVRPc3dxd3owUFdtZzVVOTVRMkFQbGxSTzhGRG8wZkl1YlVpU3RKYVhUS3c1NTM5YXhCMGZJNHV3WTB6Q0J3cHhGdTV1RG5MZWhN0gFkQVVfeXFMTlAtMkdjRG9xWEhrdWlkdS1LaVRUTDRoeGJ5Q0g3U2hJLVNtMzdwV2JIUmg2UjRFQVFsRE1nWWY1RE1CQ2E0WTUxZExzekZnb1Vnc2pucmRVN19GZnJYbXo2UzA3SQ?oc=5"
     },
     {
       "title": "台股市值全球第4 上市公司總市值週增2.76兆元| 證券 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzTGNramxiOUFWZW9pZW9mSGkzd1ozdHZZR01lN3h1T0Q4WXJvUllTeXZZeGM1aFRUYzAtbEFXekUzdFYtcUFEQ0xCTW9MQzBwMWJsNlhfSVZnWm12UEE?oc=5"
     },
     {
-      "title": "美股23小時交易來了！台灣券商搶卡位 富邦拚首家、兆豐已開跑 - 東森電視",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rUUF0Z3ZTQUNmOEtJQk9qWjBNamZQMUhNQ0wxSzJMM1dkRXhiN0xucE96T3hLZ0Zwd2dHNHYyYWp6OXluVWdTVUdpdnhjYXRGazF6b3lWajBnZw?oc=5"
-    },
-    {
       "title": "今年來中國黃金進口額接近1,600億美元 衝上歷史新高 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwU2JJM3NBZHpyYmxpQnhkWTZVR1c3TFZWVkR3dHFZYVBSbDhjSk9vZEx6dG5RZTBkbDR6eTlPX3p0Q2dlb0ZIVFJmcjItajg?oc=5"
     },
     {
-      "title": "中國大陸黃金進口上千噸，創歷史新高 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOeFgzakt1ekU3bUtEVWxKZDM3RWdHR0RrRUpybjVUWG01dFMtSnIwSW14a0hyTkNxVlJ2dVFkcFRHWmowVHdFV1l1TFdscV9m0gFWQVVfeXFMUFJVVUhXMHNfZ1NmdVBKc215V0pyd2lUaENFRWJWclhlakQ0anVTX0h3Rk5qall3cVpicU9CYk5rVDVKYlZiR3FXb2ZCYnJwc3UtREZUemc?oc=5"
-    },
-    {
-      "title": "危險信號出現！比特幣跌至8.3萬美元，多頭大舉去槓桿、170億美元期權將到期 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11SUhxV25LOU4tU1lsOUZ3aTBUckZBdWVWR1lLVWFfOU8zMzRvRkxJTkNiTTlfVjJvcUVmS0ZZcTJGOXEzMzA3Nko5OGkwaTZoVEJCR0RRNUw0ZVR4NXlmQlNObFI?oc=5"
+      "title": "比特幣自持也有隱藏成本！理財顧問揭密：保管費、鏈分叉、繼承全算進去 - 動區動趨",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEk2N2FXRXhhNHR0aDBHY042YURjd2p0dzk4TkFEQmVPOUtXT2lwQkdRSkpWNDBfTVNFNGdXal9xYTlHZVZUaUxzdFN2N0p6MmZ0cW4tNmh0dUVYYkxMazAwQ2hNWlJjZnNjMWRTVzcwMGM4LU5RaXRTblFzcU9wYVdDSFN5WXAtcThrMFozcw?oc=5"
     },
     {
       "title": "黃金與利率關係逐漸脫鉤 基本需求持續增強-新聞內容-基金 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNldEUl9qRFp2Qzludkw5NVZYUmRkMDY2V2drckI2QnpNbGNVeFUzd3lKX3o3cnBFUWVrZUluZnFjS3FjNUpaelExWFRVWmxGd0FLdTlOdzRUdnNzQ0ROaUNhQTZsc0xZTS1vb2hkLUxJNC1KTHpLSnRzdkwzTHREMHNUWU5LbEZwaWJseVZjQTM?oc=5"
+    },
+    {
+      "title": "美股12月迎「每天23小時交易」！台灣券商搶夜盤 富邦拚首家、兆豐盤前已開跑 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPZXNoOWpwQldEZ3M1ZEJTcU9ncGFkdzVNNmFyMjdMQUZlcy1BdkxmZ3ZHX3liMTZTd2hPdkhablN6Q1FKYm45V1lDVWgzMUNzSjBUMFFXV2dKM2RPblI2WkJ4U0lXVlVYOXVydUdCVDM5WThKYm1DZThrbEtIZVJRU1ZqZ0drb2pPUldnbm5pd0FRbUMweXFrbHpILWhGTzZTb2diQ2J2bl83UE1vWUJxdHhMN3ZMcVU4RjRodUd6RmdnWmVyQ3JWaGs1QXJaTWlERTVNV2RranZ0Szk5dWZtSGpTQXBnX1NGZndZc253LTlpbXloeVRMS1FXc1J0U21yMWRrZE9GV3NDalF1OFZJUjM1M052azZtY2R5bTU2T2xQU3htT3NaTlJYRllDczNUVEdob09EZXM5Slo4OTVGZUpMR1VFdTNoNkQyUUhlaW9fQXhxbURaS3hOMV9wcUMxQV9UM2ExNlNCaEo3SmlEV1A1OXRtbkdxWXZ6WjhVVlljdTJBMmZjRTZKaTVWTVdZN1dld3hSNFNkNXZ0akE2UFpCa0M3MTVHYVktcnQ4TnJtRVhHNzhhbGRDa3Vlbzl2emc?oc=5"
     }
   ]
 }
