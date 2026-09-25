@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/26 04:38",
+  "updated_tw": "09/26 07:33",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 112.4,
-      "change": 0.55,
-      "changePercent": 0.4917
+      "change": -0.05,
+      "changePercent": -0.0445
     },
     "00878": {
       "price": 34.88,
-      "change": -0.33,
-      "changePercent": -0.9372
+      "change": -0.21,
+      "changePercent": -0.5985
     },
     "00919": {
       "price": 31.83,
-      "change": -0.33,
-      "changePercent": -1.0261
+      "change": -0.23,
+      "changePercent": -0.7174
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84047.19,
-      "change": -331.8725,
-      "changePercent": -0.3933
+      "price": 84076.63,
+      "change": -302.4325,
+      "changePercent": -0.3584
     },
     "ETH": {
-      "price": 2691.37,
-      "change": 4.0685,
-      "changePercent": 0.1514
+      "price": 2693.18,
+      "change": 5.8785,
+      "changePercent": 0.2188
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.704,
-      "change": -0.1022,
-      "changePercent": -0.3213
+      "price": 31.695,
+      "change": -0.1112,
+      "changePercent": -0.3496
     },
     "JPYTWD": {
-      "price": 0.1995,
-      "change": -0.0008,
-      "changePercent": -0.3885
+      "price": 0.1994,
+      "change": -0.0009,
+      "changePercent": -0.4384
     },
     "EURTWD": {
-      "price": 36.175,
-      "change": -0.0038,
-      "changePercent": -0.0104
+      "price": 36.15,
+      "change": -0.0288,
+      "changePercent": -0.0795
     },
     "CNYTWD": {
-      "price": 4.7314,
+      "price": 4.7285,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4323.5,
-    "twd": 4407.0,
-    "tael": 165262.0,
-    "twdTotal": 137072.0,
-    "changePercent": 0.5933
+    "usd": 4320.5,
+    "twd": 4403.0,
+    "tael": 165100.0,
+    "twdTotal": 136938.0,
+    "changePercent": 0.5235
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股萬元俱樂部 四檔呼聲高 有望更上層樓 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PZkw1VFJxVDE2dUhBZnFXcUFuOHNwOUt0SEZYNWdyeTlNdGkya1UyaHpHcHptN3R1OEtweTB3RkNyUnhhM2JuZW8wRXNCYk11RDdqTHllZjZlZ9IBX0FVX3lxTE40WGpEcXlFUVhKVnFxdU9UTkVKX0ZvQ194ZXNuR256dHl1bDdmQ2o1WF96SXVLd2VWcjJJdU9VaEF6WGNfZmVXQUhnWHJ1ajNDUjE4VGh3elp4a2VaT2M4?oc=5"
+      "title": "市場盼美伊達成協議重啟荷莫茲海峽 美股反彈 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wYTA0X0xlZENFamoteGswVWUxLUw0eHlCSHBxcnlJSVhSeEhzaUF3bzdRM1djV3NGRUE5Uk1lVHFxN1prUHdOa1J1RWpuTkJhYVdWby1vc1J5N2ZT0gFiQVVfeXFMTTZFbGJzLXZzT2RMLXVNN1F3U3ZickVvZ1FfM09fTW9pNTZvYmx1MEUzUGpoZENMNFZURWQyeUxOazVaaG04d2ZfWlg3ZHVXNV81N1dkX19wQXg1M0h4bUJLdFE?oc=5"
+    },
+    {
+      "title": "台股萬元俱樂部 四檔呼聲高 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYWxEWGFBM2dKdUhZc0dhckREVFo0bUg5aW50Z0RPek5TcE1EcHZnUUxLNzJZVFQySmx3eXd3MWx6TURFWEdkeWg3cG9DODg1YllwNm9qTWVkcUE0Q1BWU2JQVjJxczJYMjFvbk03V2VoOXY2UFpPNnhZXzNYZ0MxYW1FaU82ZXJPdlE3V0Zwc2p6TzRfU0czTUxUSlQwdkt1WUgxZDZNRXFCaUFKQ2Z6Wm9EdGtoUUY2clRmcVRSb0FxRlQzbjk3cUdUOHpZRTNRcWpNTFI1d2U4aHRsa1VkaFVGUnM?oc=5"
     },
     {
       "title": "約 160 億美元比特幣選擇權到期後沒崩！BTC 守住 8.4 萬美元，市場進入「Gamma 重置」階段 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRmxKSnh0TTlOeVN4dkE4Q2ZjMHB3cFJoQVRrc1I1NlJ3VTQxajNhOUNnVWxCSGhHZktPQU42MkhQdUNuLUxXQXVFNnhKM3NLMjhRd1dSQVo4RDhKRmJWUjQ0bjA0bUFDaU1henlFajk1ZFlnQURPcllTWE9XdzJuQWlfZUpuWDJIS25vUnkyNThXZTVRUllsbDNiWUlzLVV4eUNXLXNYeGtTQUU?oc=5"
     },
     {
-      "title": "〈美股盤後〉傳美伊談分階段終戰 債市賣壓仍未歇 道瓊、標普三連跌 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MY3NmYUZ3WlFHQmpkWWdmeHp1NDZlZHUxM0lxa1REeDJicXEwc1JLcjRDWF9sUzlteG11TUE5SW1Nb0RDUW9PTUlESG5YY1k?oc=5"
+      "title": "台股強強滾》證券事業獲利翻倍 金控小媳婦變金雞母 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RUnEzVjc1dG5sMGdNNlJ4NjltTWJDOTUxOWFEdDVRaVVqUERyTG1PV0dUa2FUZG10WTdKLTlKMG5ROE12SzJpYTd0bGh2b1VQZV9pand30gFbQVVfeXFMTlQtRkpHS1Z4LTdmSkdmSmhNSUxNZEMxR01JbDZKYlpOd1I0emNIclRJbXh6WXF0ckFwbE11bmVwN1ZMQ1IzX2xKZW82cV91QkZmREh2UGp6S20zOA?oc=5"
     },
     {
-      "title": "美中貿易休戰延長2個月、原油價格回落 美股主要指數開盤小漲 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNVGltRmlXc3hYVXdLZGJjZXNBTUU3RTB4WDdmejFyUmtLazJzLUwxTnJmOVE3ZllLdlJXVnlsUFJSVFo1WE1JZ1dtc2RSZkRIbnBsMV94TEpaNFQxYXhERXBfQTlhVE82Nzk5Nm5NMmE1Qk54SEdwQmJaY3BhUWVXQVA3dlhFN19WVmI3TXBBWTlyXzZWYTVTR3Vld3R4SUJIQmhhS3RrR2xYOGpXV3dSbnpXRHJvYTB1VE43WUw3cDlGM0FMNnpzM0dHLWhJLWhkRndVQUE3bGgxYjYxWWNlRV9KT0E0Wl9QZ3Mxa1l4VW0yenY1cFdkNnRjR3o5cTdkTThyb3UxT3o4WkZ5czRTVXJSS1hmbXFsclU2a1dzYktwVW1qeVZ3TFZ3dzlwRlZ5WUdHODh1LUJwaHBlM1czQ3RfTzF0VjhvcVE3NlRJTk9NZmI3a2FxMkZDRUs5M0hVTHFyRHcxYVp2d0JuUlE1RllPZGdCbFNvci1LdEo0SjZ1aXJwWm5zWEF5ZlVkTlp2OE9SV1g3aw?oc=5"
+      "title": "〈美股盤後〉傳美伊進入技術磋商階段 道瓊勁揚近480點 三大指數周線收紅 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjeHpNYXZad2NWWDgySklEUGxaV2dsU3Y5ejFnZlNoLXBSTkRHcEVnaFdFcnpVMGRVaVh6anN0eURGSG9HcXJoWWpGM0Z4U1U?oc=5"
     },
     {
-      "title": "「山寨季」真的來了？比特幣卡在8.4萬，93只代幣集體上漲、指數創三個月新高 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XcDk2b01XdEFwa1J2SG5GQnZvem9iYnA5T3B0Vkx1Ti01aWlsRzdWRnluRVljYlNYeDJlR3NkM0UzNm1zcGtTbkczdEhPSDZDal9MYlFCeE5EQjlGVWJhTmhmMjU?oc=5"
+      "title": "美股泡沫論！外銀：AI投資資本報酬逾25％　仍有漲升空間 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56WDZsS09LU0kwQjFpQzhhUHZUR3JtMmJtMUVSMENoM3czSG45TDdEWmlxRXk0cVMyLUt4NEh5UEpkalFfejB5NXUweTBpbkxqRlHSAVBBVV95cUxPZ0t6d1dJSGhIaml0X09FWkNBOVcycGFXcnNzX3ZwSzNpTktqNVhza3hqX2RFZU8yNnl6TGtXUkRhWW1DUm1Fc2FBaEpXMmMyQQ?oc=5"
     },
     {
-      "title": "比特幣 8.4 萬美元橫盤，實用型山寨幣突然爆發！QNT 飆近 37% 、 ONDO 漲 27% 、 LINK 升 15% - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTFJRdUdmNTJ1ZXJrdnVPbnFVUWZmN0pBM3JodWdTX09NcDFLT2FRSzJJVUZtQmZkN05YaXZ0WjFnOWdHYkYxcHo2VEFyT1lNcllEaGJ2Q1NFYWwyUEVQTWg0UXc1X3RLc2Jza3BfUUllRVVLOGtyM29rLXVoTzcxME5zY0psSmZubEZIYUZlQ1QxbGJLelo4?oc=5"
+      "title": "台股愈漲錢愈往這裡衝 這5檔一週報酬逾8%！ - 三立新聞",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9acHN4S0ZzT1FWX1hEaVhsbTVOQ2lOcVBPM181SjRWUjN6VGdrUHJselNaTk9tTlB1cVVOMHF2UkpTNGltNmQ5cWswWQ?oc=5"
     },
     {
-      "title": "美股四大指數小幅走高！油價、美債殖利率雙雙降溫 費半強漲逾1% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxONVB3YUF1RjBLUTNOZjZfV3ZJei12b1JVMkl0blpQOUgzZnNkRVRXcjlGQmRNOG9RUV9SUU9SRE93VWg4LTVNSDhVVzRfQ1dyOVpERHpFclZpLXJHWVR4NlR2clRac3NNa3VsNlllczZsV1E2SWtmazBEZ2ZZYTdsRVYyNjh0cHZQNFg1QVQxamNSUzZ0RGtfVmR4ckhfalZUbXFPbDhBX3VYdVphVGVyR0ZBTmEyOUhpd0lxRVRzTHdhZUlZNTJsTlRjeG9VM1Yzekw4S0FkRkQxRmR1SHBJNEFIS3Nab2VGQUxFcnJKWFRYY2Jsblg0VExSWDhQcl9HRDRUZTlGSmNKWVFoTlFJQnpSaE54TGJhZmhRbUJZc2hIUTZ4ZTVKc3pob1pCMlpEOWpCdG5lMGo4dTZEd0ZLbUZ6bFUtNm5kNlh4SjlfbUg4aGUyNE1VQTAyWWJESjdva1JlMzFhS096bUR6Wkkzd2NzZnBQRTBqTU1EbTRyZTFsNXA2bkx6ejBXcjIwVTFtdmhIVnVDeGc?oc=5"
-    },
-    {
-      "title": "美股早盤／油價跌但美債殖利率仍高 三大指數平盤波動| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DeEhXZU5VdjhYWFd0UDJYVUJ4RnNtUEJadnhkeGY4WEE3WnBlSUJnVmZzR0U0Q2ZWaGVtOUg4RTA5cDZhTzRNWlBBekMwc3c2?oc=5"
+      "title": "市場盼美伊達成協議重啟荷莫茲海峽美股反彈| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mRlp4RmttS1lxYUFHRG5kX3BsSENNQmJheGM3M2c5NDMwZEhMU2RxRmRBWDZoTnRuY25obFd2SVNXZmc1ZXVFeFBHMzh2OXlZ?oc=5"
     }
   ]
 }
