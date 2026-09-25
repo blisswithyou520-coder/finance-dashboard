@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/25 09:29",
+  "updated_tw": "09/25 14:32",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -36,80 +36,80 @@
   "us": {
     "NVDA": {
       "price": 224.58,
-      "change": -4.29,
-      "changePercent": -1.8744
+      "change": -0.93,
+      "changePercent": -0.4124
     },
     "AAPL": {
       "price": 335.92,
-      "change": -3.83,
-      "changePercent": -1.1273
+      "change": -1.1,
+      "changePercent": -0.3264
     },
     "TSLA": {
       "price": 377.94,
-      "change": -0.96,
-      "changePercent": -0.2534
+      "change": -2.18,
+      "changePercent": -0.5735
     },
     "QQQ": {
       "price": 741.1,
-      "change": -6.36,
-      "changePercent": -0.8509
+      "change": -0.11,
+      "changePercent": -0.0148
     },
     "SPY": {
       "price": 767.18,
-      "change": -6.2,
-      "changePercent": -0.8017
+      "change": -0.63,
+      "changePercent": -0.0821
     },
     "SCHD": {
       "price": 33.1,
-      "change": -0.64,
-      "changePercent": -1.8969
+      "change": -0.18,
+      "changePercent": -0.5409
     },
     "VOO": {
       "price": 706.99,
-      "change": -5.79,
-      "changePercent": -0.8123
+      "change": -0.61,
+      "changePercent": -0.0862
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84516.54,
-      "change": 133.5322,
-      "changePercent": 0.1582
+      "price": 84074.18,
+      "change": -308.8278,
+      "changePercent": -0.366
     },
     "ETH": {
-      "price": 2688.73,
-      "change": 4.0381,
-      "changePercent": 0.1504
+      "price": 2676.64,
+      "change": -8.0519,
+      "changePercent": -0.2999
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.796,
-      "change": 0.0065,
-      "changePercent": 0.0204
+      "price": 31.743,
+      "change": -0.0465,
+      "changePercent": -0.1463
     },
     "JPYTWD": {
-      "price": 0.1982,
-      "change": -0.0026,
-      "changePercent": -1.3194
+      "price": 0.1983,
+      "change": -0.0025,
+      "changePercent": -1.2696
     },
     "EURTWD": {
-      "price": 36.223,
-      "change": 0.0418,
-      "changePercent": 0.1156
+      "price": 36.143,
+      "change": -0.0382,
+      "changePercent": -0.1055
     },
     "CNYTWD": {
-      "price": 4.7403,
+      "price": 4.7268,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4324.7,
-    "twd": 4421.0,
-    "tael": 165787.0,
-    "twdTotal": 137508.0,
-    "changePercent": 0.6212
+    "usd": 4314.9,
+    "twd": 4404.0,
+    "tael": 165136.0,
+    "twdTotal": 136968.0,
+    "changePercent": 0.3932
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MY3NmYUZ3WlFHQmpkWWdmeHp1NDZlZHUxM0lxa1REeDJicXEwc1JLcjRDWF9sUzlteG11TUE5SW1Nb0RDUW9PTUlESG5YY1k?oc=5"
     },
     {
-      "title": "美股收盤》美債殖利率再飆！道瓊連3黑 台積電ADR漲逾1％ - ec.ltn.com.tw",
+      "title": "美股收盤》美債殖利率再飆！道瓊連3黑 台積電ADR漲逾1％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ORGQ3VFdsQkFidXJUUkpzUngxYTJDbTRTb3hvUWVDVHZvd1RackZ2RUszbXVJRC11aEtfeGtKZmRTZ1N4NHRRcGlxMnFfUjg2ZWJzcWItSXk5QjRNRWc00gFkQVVfeXFMT3hPaDlDZzBTNW1haktUd1VEM1J4TlV3aVo5dVhDbUU0VmNBNmN2a0dmVmJJV2pmdzhiSmhIYlFBN0FFUmpjSXlrYmpwUjdiUlkzS0pydFJ6aWk1ZVY2SnNZREpZbA?oc=5"
     },
     {
-      "title": "比特幣後市聚焦聯準會動向 稅務與槓桿風險須警惕 - tw.stock.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNUUpyMG5hVk5jbHNTMWFUYUxOR3ktaDBtTXVKSWJTajNjbzhvN2wzbG95NjBMMXVJSW9jMTYyQkU4ZUc3Q1ZBaDFUc2tNS1BzcFlnWTlLVXMyN3pFaGlfVkw0OW42cGd2dkh5Y1hCbDl5S1k1eThtQzFvM1NnZGszS2U4aWVjM25TeDJkdE5jNGU3elN4VnVhMEdzb0lzbHBZcUEyUGNlMzZDdmN3TUFYeUFBMEFjeWVFY255YldUa3c5M2czbjV4cFptSHE0Qm9MU0JyR3k2UFJaNzQwZlRMNmFMX0d2T2xUd0JpM0pWZmlVVk0tXzNFdEg5MGh2ZE8xVWJRMXlFT1hkcld4UWZIRjBCa0xTRDJCQVhZQ2hlM0xfQk5aUFBpeTEyNDdLT3Q3V2ZfMlVpbTlaQmZyZVNETkZFUnYtVDR4dmRKT3AzNUh5ZXI4V1h3dFJzU3laMUk5bF9ObQ?oc=5"
+      "title": "台積電目標價上看5000元！台股5萬點只是前菜？杜金龍喊出「長線8萬」這時間別急著追 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQWXhGMzZjY3hnNGNvXzFOVWZpcVpUMUNCaGJ1aUk0Q1RfaUVNMmo2YzNnZGJLc05uNXRQWE1fUnBCZS05UUNXQlo4MEdNeUlUMjJQM1FSRjVfdDZ0SGlQdXBBZ1NLZ2JMRDkyZFE4VUdKS1JTSEJxc3kzV0x4aUtLaU9WM1NEcng4YkloX2Zudzg2VksyR2ZFZnF4UjlXQ2Rxcnh5aUlaRDVYRldTa3BacHRhazhDNUlBMDBRdWsyaHliMm0wMVAxQXlmbWo5c3hMbXhUamtTdDFKWDRqUGp1MDZ0Sk93eU1lSmh6Q2RrRGNVUUQ5cmFUaUhDXzIwcFhUeThvcGpUWkFHUm9Yb01CRkEtazdPNzRPenY4bVRKLW4xUFROWWRkUDNwNDJUcHdBcUwyODVTZkxQS1cyVUlibThpdmdyRUN1MDRhTlFFWTlrNUVkR190YVFxMmc2NVlfVWFNT0ZNWEU5SGpaUF9oTWx2UUhlam93U3M5UzhzV0l0YXJsMWxZejJRaGxKUXM3WjFleEtuTDlGV09XbnNCTW1GQ1VXb2Z0NFRwOEVvelFMN18zbG1xUktWX0JuM2NwaWpiUjg0UFNKbzY3UE1yaFBVMXFEUjQ1ZWhsVzdPSkJEREdWMWxTeg?oc=5"
+    },
+    {
+      "title": "法国半导体公司Sequans售出剩余的314枚比特币，退出比特币储备策略 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SM044T3BfdWdkQWZfYUk1V2tMbEg5Z2xQM0NId0diMEpfNDg5cTVqX01qNnVoUDJVMXExUU14Y0N1eDRNRGozUTJBZzFTbGJVX3lLenhFN0wxU0duaVRSX1VVX3VPUQ?oc=5"
     },
     {
       "title": "投資人聚焦美伊戰爭 美股多收黑 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByQ0U0a2VZYVRNWFZmd1haaW45ZFgyYllWeEx0UU1qbFowS1A2QV91RGFTWm1iVkVJOFo3all5QUJTUS1JY0RuOFY3QWtDZURtLVNMTHY5MW9wM0hQ0gFiQVVfeXFMTU1NX2NrdkhNLTBDX2EyQ1NCNGFtMjlCMUxTVElURFBKOFpjMFRQVFAyNzh2N3FFbTJaMVB6MGJCUVVVcjJzVmgyM095WlhCbzlRZ09nQWhJZTEwX05fOTY5Y2c?oc=5"
     },
     {
-      "title": "台股市值全球第4 上市公司總市值週增2.76兆元| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzTGNramxiOUFWZW9pZW9mSGkzd1ozdHZZR01lN3h1T0Q4WXJvUllTeXZZeGM1aFRUYzAtbEFXekUzdFYtcUFEQ0xCTW9MQzBwMWJsNlhfSVZnWm12UEE?oc=5"
+      "title": "財經一週：川習會直攻台灣議題、Meta Muse一戰成名、OECD上修全球經濟成長 - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jejlxS21SdnFlVVA5dXZqczBDX1JPQ28yTW0zSHFoQ2FwaURMUjVnZXEyeC1haFV2NFJHVmVSVXBpR25oeGs3SGp0akI0Zw?oc=5"
+    },
+    {
+      "title": "美伊局勢不明美股多收黑 台指期夜盤跌169點 - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPTWdnTWlncVVBOFdVUkhjMmFMVWlVdFNMQVpVRlhsZEM1UHpjaFBHTmhZeVp0b1pwc3NRSzQ4S3pIdGx0QVh4U1BGMEpzamZuZ0xNNXVjQmRHVFV4VDI1SkpNMkdIMHdCbTlnVjBDY1ZCVW1iMENxN1dQMEp5b0xRT3kwZEN5cVM2RWlFZi1SNmRsY0RHSUkwRjBDTFZDSDhrcmtCbHpiSFFYV2gyUlkxazl6N1lnMjRCR1FXc3JZZms5QUoyS0RCcEh2MF9yNjZjdUZwUVNxYjg4WHNGNDFEMTZDcEk2OXhrSDNPT0xHUDZrU1N3REJBTmkwZ2N5MURrektxX1VxOVQycnZ1YXZPQTh3N1RodEY4UktTSWs0d0JnSm91cjJucGswdlM2LXV4TUJvZ2YyTmRwbERaUmxBWWpha3lCZw?oc=5"
     },
     {
       "title": "美股重點新聞摘要2026年9月25日 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuQkc2UDZUWVI4azNldXJvd0JjeDFSa19BZENwRVZmSHg2VGd0X0ZfYTJjOENMOUJJbVNCcUYxUnVBem1raWh5dHVEMA?oc=5"
-    },
-    {
-      "title": "德國官方退休儲蓄將排除比特幣 新規範影響加密投資與稅制 - tw.stock.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNTHZQUU1PZGdEOG1lX2NFby0tTW1TdzBuM1RCRjdVdkpnX3JJVzZ4R2ZXblJ4dXdndzJJTXpYQ21aRXFYQ08xZVpiYWRCMGJDVjQtV0lMcTgyb3MxN3ZtY01MenR1VmZPWGczbzZsNk1qckJueVBQUXJvclFOM0JVOXM0aWVTcGtibG5FQlZZaUdqaERlTkpsTjVUUG1uVWVPZnRLbmpYQ3RnN2NpQjJwZ1hPbGRlM1Y0Wno0S3hwWDVCZ0NmNE5hcDFDOFNKTXk5RlRVLWNJUGwwOUZfeVdhRE5ibjJKZDkwMklpNlU3SjZXNDk5QV9YM1pwbXNpb2JfOWlNNWJtYmpSbmg0RFZaeWJPSFlOZG5LQllNeERweGFQMGhZeGpWZU4xaGxBRzBUVjFHTnR6SUZRak11clV1QkhwRkxRX0t3d3FWU21BX2Z6S3NVbjRjeXZUaFRZci1obk8wV1c5dVpDQmgweXpwblJwWnlvVEtkU3BMeFB4bUZMeU4zblZwWkpGZWFpNVNOaXVmQw?oc=5"
-    },
-    {
-      "title": "投資人聚焦美伊戰爭美股多收黑| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QMGFGWXRaOWVBUWcweFBPc2FZZUItaE5KYVFtNXFCUHp5MEh0VjRsYlFSay1Ba1FuaFkxcl9TdVRaUEp6Tm80UnlZSmN4VTZ1?oc=5"
     }
   ]
 }
