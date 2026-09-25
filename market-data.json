@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/25 20:16",
+  "updated_tw": "09/26 01:25",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 224.58,
-      "change": -0.93,
-      "changePercent": -0.4124
+      "price": 225.08,
+      "change": 0.5,
+      "changePercent": 0.2226
     },
     "AAPL": {
-      "price": 335.92,
-      "change": -1.1,
-      "changePercent": -0.3264
+      "price": 339.905,
+      "change": 3.985,
+      "changePercent": 1.1863
     },
     "TSLA": {
-      "price": 377.94,
-      "change": -2.18,
-      "changePercent": -0.5735
+      "price": 372.925,
+      "change": -5.015,
+      "changePercent": -1.3269
     },
     "QQQ": {
-      "price": 741.1,
-      "change": -0.11,
-      "changePercent": -0.0148
+      "price": 745.31,
+      "change": 4.21,
+      "changePercent": 0.5681
     },
     "SPY": {
-      "price": 767.18,
-      "change": -0.63,
-      "changePercent": -0.0821
+      "price": 771.21,
+      "change": 4.03,
+      "changePercent": 0.5253
     },
     "SCHD": {
-      "price": 33.1,
-      "change": -0.18,
-      "changePercent": -0.5409
+      "price": 33.185,
+      "change": 0.085,
+      "changePercent": 0.2568
     },
     "VOO": {
-      "price": 706.99,
-      "change": -0.61,
-      "changePercent": -0.0862
+      "price": 710.703,
+      "change": 3.713,
+      "changePercent": 0.5252
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84116.21,
-      "change": -262.8525,
-      "changePercent": -0.3115
+      "price": 83858.76,
+      "change": -520.3025,
+      "changePercent": -0.6166
     },
     "ETH": {
-      "price": 2698.36,
-      "change": 11.0585,
-      "changePercent": 0.4115
+      "price": 2687.56,
+      "change": 0.2585,
+      "changePercent": 0.0096
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.751,
-      "change": -0.0385,
-      "changePercent": -0.1211
+      "price": 31.723,
+      "change": -0.0665,
+      "changePercent": -0.2092
     },
     "JPYTWD": {
-      "price": 0.1992,
-      "change": -0.0016,
-      "changePercent": -0.8215
+      "price": 0.1994,
+      "change": -0.0014,
+      "changePercent": -0.7219
     },
     "EURTWD": {
-      "price": 36.243,
-      "change": 0.0618,
-      "changePercent": 0.1709
+      "price": 36.174,
+      "change": -0.0072,
+      "changePercent": -0.0198
     },
     "CNYTWD": {
-      "price": 4.7335,
+      "price": 4.7345,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4337.9,
-    "twd": 4428.0,
-    "tael": 166058.0,
-    "twdTotal": 137733.0,
-    "changePercent": 0.9283
+    "usd": 4326.6,
+    "twd": 4413.0,
+    "tael": 165479.0,
+    "twdTotal": 137253.0,
+    "changePercent": 0.6654
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "【美股盤前】美股今年恐崩？外媒力推4檔ETF「無腦買」 - 三立新聞",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9la2Mzd3p4eW42TjNNeEJRelY0SjZDREFBSkwxVVJNd3kyMkRZUTE4SGFFZl9iYWt3eFBjQWVaNzlQaHROSjByallYRQ?oc=5"
+    },
+    {
+      "title": "美股四大指數小幅走高！油價、美債殖利率雙雙降溫 費半強漲逾1% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxONVB3YUF1RjBLUTNOZjZfV3ZJei12b1JVMkl0blpQOUgzZnNkRVRXcjlGQmRNOG9RUV9SUU9SRE93VWg4LTVNSDhVVzRfQ1dyOVpERHpFclZpLXJHWVR4NlR2clRac3NNa3VsNlllczZsV1E2SWtmazBEZ2ZZYTdsRVYyNjh0cHZQNFg1QVQxamNSUzZ0RGtfVmR4ckhfalZUbXFPbDhBX3VYdVphVGVyR0ZBTmEyOUhpd0lxRVRzTHdhZUlZNTJsTlRjeG9VM1Yzekw4S0FkRkQxRmR1SHBJNEFIS3Nab2VGQUxFcnJKWFRYY2Jsblg0VExSWDhQcl9HRDRUZTlGSmNKWVFoTlFJQnpSaE54TGJhZmhRbUJZc2hIUTZ4ZTVKc3pob1pCMlpEOWpCdG5lMGo4dTZEd0ZLbUZ6bFUtNm5kNlh4SjlfbUg4aGUyNE1VQTAyWWJESjdva1JlMzFhS096bUR6Wkkzd2NzZnBQRTBqTU1EbTRyZTFsNXA2bkx6ejBXcjIwVTFtdmhIVnVDeGc?oc=5"
+    },
+    {
       "title": "〈美股盤後〉傳美伊談分階段終戰 債市賣壓仍未歇 道瓊、標普三連跌 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MY3NmYUZ3WlFHQmpkWWdmeHp1NDZlZHUxM0lxa1REeDJicXEwc1JLcjRDWF9sUzlteG11TUE5SW1Nb0RDUW9PTUlESG5YY1k?oc=5"
     },
     {
-      "title": "台股高檔震盪！5檔「轉機黑馬股」浮出水面 法人看安葆、廣閎科等續攻 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOTF93eG95RThyb2FTTW1PeUZIcDJ6VmVkTGo4V0RIN2ZFX19HOXlhQzk0SEVqUGtqbjNnUWkxV3RsMkw3TDQ1cFBleVhvaS1DdUxtNUl2Wks0MGJ6VmY4TzkzZkJlZnVpSmVwc2JJTThibnRpMl9pNFpzQkFUb3ZmRTY3cVZJQUI2bmNCb2pBWUF5OEhIaGZoejRkT3NqSFM2Y0JfcXY5U2FFLXBaZXJlM0ppTjhwTEtZM0htZDRnM0xjaFZ2a0RJazZrNEptcEpNWkQ1clYxdVp1NTNSVkU1dUhyem1jdzFOaWN2MHVxblQ2d0pXa1BwUklJSGljRmFMenhaQW5yYTh4Q0Jqb0QtTllHVlY5al9wWktkcXJtNzcwNkd0YUU2VUJJUnlKeG45cFoxUWQ2OHJ4al9hUlB0MWxUMEJ5RjlFRVdtQWwwNnlPNXdfbVJjQ20wcnFhZw?oc=5"
+      "title": "約 160 億美元比特幣選擇權到期後沒崩！BTC 守住 8.4 萬美元，市場進入「Gamma 重置」階段 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRmxKSnh0TTlOeVN4dkE4Q2ZjMHB3cFJoQVRrc1I1NlJ3VTQxajNhOUNnVWxCSGhHZktPQU42MkhQdUNuLUxXQXVFNnhKM3NLMjhRd1dSQVo4RDhKRmJWUjQ0bjA0bUFDaU1henlFajk1ZFlnQURPcllTWE9XdzJuQWlfZUpuWDJIS25vUnkyNThXZTVRUllsbDNiWUlzLVV4eUNXLXNYeGtTQUU?oc=5"
     },
     {
-      "title": "比特幣跌破 8.3 萬美元！市場押 Fed 明年 6 月前再升 4 碼，美債殖利率衝逾 20 年高位 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUpfQWR3LXVCdl9rbXFfSnY3SVVFTHM5ZGhKanJwM2VNV3p6a2preW5KZ3h5MnVLaGl3a3B6S2tYa00tQXJzMnVDQjlHTkd3dG9sSEhyMS1uUERVMFppbTA4MmN0WGtxSV9mTnB4OG1ZdlZCdUFCMHItUXU5c3dQZ25VajlRNFRkcmhSUUJLbWVZNjZDQWpoSzFPak5fRUN4Ml9TeThDclBnRzhqb21hZmlYNmY5M05tcGFyWHB3cmJXOTBmSTU0SQ?oc=5"
+      "title": "美股早盤／油價跌但美債殖利率仍高 三大指數平盤波動| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DeEhXZU5VdjhYWFd0UDJYVUJ4RnNtUEJadnhkeGY4WEE3WnBlSUJnVmZzR0U0Q2ZWaGVtOUg4RTA5cDZhTzRNWlBBekMwc3c2?oc=5"
     },
     {
-      "title": "美股收盤》美債殖利率再飆！道瓊連3黑 台積電ADR漲逾1％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ORGQ3VFdsQkFidXJUUkpzUngxYTJDbTRTb3hvUWVDVHZvd1RackZ2RUszbXVJRC11aEtfeGtKZmRTZ1N4NHRRcGlxMnFfUjg2ZWJzcWItSXk5QjRNRWc00gFkQVVfeXFMT3hPaDlDZzBTNW1haktUd1VEM1J4TlV3aVo5dVhDbUU0VmNBNmN2a0dmVmJJV2pmdzhiSmhIYlFBN0FFUmpjSXlrYmpwUjdiUlkzS0pydFJ6aWk1ZVY2SnNZREpZbA?oc=5"
+      "title": "美股三大指数集体上涨，道指日内涨幅达1.00% - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1Tk5jZzNnODFEMnUxNmJ6alBMc3MyRWk0b0Z1M19TTWZqSUxIOVYzSmR6YVhFeU9GM24yQWpadE1xcld6QnQtZDU2Q3ZvdUNPbU5GX0hsLWdPZkVRSENsdWFnTy1yQQ?oc=5"
     },
     {
       "title": "比特幣三個月連漲史上僅見！2012 年也這樣，接下來呢？ - 動區動趨",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTA5TlF3UHUxbWVoUkdPU1pFU2RybFdHV0g3ajlzamE2SlItNGhPR1NRalNuQVhycVVZRmlwY3N5MTQtd1REZ2k5UDQ3Zk1Bamg3VUs5QTJMQnFHTjZJNXJMWEdyYnVpUHVLWko5emI5VUFxWnp3NDRqWVhjWW5ndzdqX1hNZkdobjVfdldJV2xfcExKM1RlWHJqMWhFd0VHazd3S053?oc=5"
     },
     {
-      "title": "證交所台股儀表板9/23上線 整合證券商授信業務等3大重要資訊|政經臺灣 - 僑新聞",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yd0U0S3YzVThDbF90ZkhfaVVOOE95ekVFU2dHQndyeVQ4cG1JLVp3eUgxVlQ1d3BhWVlEUWJ6VzRvV282RHNJVmdnSQ?oc=5"
-    },
-    {
-      "title": "分析：比特币在8.4万美元横盘整理，山寨币接力行情延续 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwV3ptM29UdkNyZUMzMXpDVjE4T25WRTVBNDFzeWMxbTR0S09QUkxidnJxN2FadFlMamxJZDM2VU9OTUNmeFVqZW16dHFaUHRuRWlYcWh1cjN1SURXUUtVU3VBeXJwdw?oc=5"
-    },
-    {
-      "title": "美股早盤／四大指數齊跌！布蘭特漲回100美元 10年期美債殖利率破5% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LUjA0MkltQms2aG9iTGVtVGY5Z0NZay0tYTgxa2JGMndrUGJDWFJpdHlXMC1lRHNCdlVIVVVCeG1iYWF6aFc1akFKUEJGZVY3?oc=5"
+      "title": "美中貿易休戰延長2個月、原油價格回落 美股主要指數開盤小漲 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNVGltRmlXc3hYVXdLZGJjZXNBTUU3RTB4WDdmejFyUmtLazJzLUwxTnJmOVE3ZllLdlJXVnlsUFJSVFo1WE1JZ1dtc2RSZkRIbnBsMV94TEpaNFQxYXhERXBfQTlhVE82Nzk5Nm5NMmE1Qk54SEdwQmJaY3BhUWVXQVA3dlhFN19WVmI3TXBBWTlyXzZWYTVTR3Vld3R4SUJIQmhhS3RrR2xYOGpXV3dSbnpXRHJvYTB1VE43WUw3cDlGM0FMNnpzM0dHLWhJLWhkRndVQUE3bGgxYjYxWWNlRV9KT0E0Wl9QZ3Mxa1l4VW0yenY1cFdkNnRjR3o5cTdkTThyb3UxT3o4WkZ5czRTVXJSS1hmbXFsclU2a1dzYktwVW1qeVZ3TFZ3dzlwRlZ5WUdHODh1LUJwaHBlM1czQ3RfTzF0VjhvcVE3NlRJTk9NZmI3a2FxMkZDRUs5M0hVTHFyRHcxYVp2d0JuUlE1RllPZGdCbFNvci1LdEo0SjZ1aXJwWm5zWEF5ZlVkTlp2OE9SV1g3aw?oc=5"
     }
   ]
 }
