@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/25 14:32",
+  "updated_tw": "09/25 20:16",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84074.18,
-      "change": -308.8278,
-      "changePercent": -0.366
+      "price": 84116.21,
+      "change": -262.8525,
+      "changePercent": -0.3115
     },
     "ETH": {
-      "price": 2676.64,
-      "change": -8.0519,
-      "changePercent": -0.2999
+      "price": 2698.36,
+      "change": 11.0585,
+      "changePercent": 0.4115
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.743,
-      "change": -0.0465,
-      "changePercent": -0.1463
+      "price": 31.751,
+      "change": -0.0385,
+      "changePercent": -0.1211
     },
     "JPYTWD": {
-      "price": 0.1983,
-      "change": -0.0025,
-      "changePercent": -1.2696
+      "price": 0.1992,
+      "change": -0.0016,
+      "changePercent": -0.8215
     },
     "EURTWD": {
-      "price": 36.143,
-      "change": -0.0382,
-      "changePercent": -0.1055
+      "price": 36.243,
+      "change": 0.0618,
+      "changePercent": 0.1709
     },
     "CNYTWD": {
-      "price": 4.7268,
+      "price": 4.7335,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4314.9,
-    "twd": 4404.0,
-    "tael": 165136.0,
-    "twdTotal": 136968.0,
-    "changePercent": 0.3932
+    "usd": 4337.9,
+    "twd": 4428.0,
+    "tael": 166058.0,
+    "twdTotal": 137733.0,
+    "changePercent": 0.9283
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MY3NmYUZ3WlFHQmpkWWdmeHp1NDZlZHUxM0lxa1REeDJicXEwc1JLcjRDWF9sUzlteG11TUE5SW1Nb0RDUW9PTUlESG5YY1k?oc=5"
     },
     {
+      "title": "台股高檔震盪！5檔「轉機黑馬股」浮出水面 法人看安葆、廣閎科等續攻 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOTF93eG95RThyb2FTTW1PeUZIcDJ6VmVkTGo4V0RIN2ZFX19HOXlhQzk0SEVqUGtqbjNnUWkxV3RsMkw3TDQ1cFBleVhvaS1DdUxtNUl2Wks0MGJ6VmY4TzkzZkJlZnVpSmVwc2JJTThibnRpMl9pNFpzQkFUb3ZmRTY3cVZJQUI2bmNCb2pBWUF5OEhIaGZoejRkT3NqSFM2Y0JfcXY5U2FFLXBaZXJlM0ppTjhwTEtZM0htZDRnM0xjaFZ2a0RJazZrNEptcEpNWkQ1clYxdVp1NTNSVkU1dUhyem1jdzFOaWN2MHVxblQ2d0pXa1BwUklJSGljRmFMenhaQW5yYTh4Q0Jqb0QtTllHVlY5al9wWktkcXJtNzcwNkd0YUU2VUJJUnlKeG45cFoxUWQ2OHJ4al9hUlB0MWxUMEJ5RjlFRVdtQWwwNnlPNXdfbVJjQ20wcnFhZw?oc=5"
+    },
+    {
+      "title": "比特幣跌破 8.3 萬美元！市場押 Fed 明年 6 月前再升 4 碼，美債殖利率衝逾 20 年高位 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUpfQWR3LXVCdl9rbXFfSnY3SVVFTHM5ZGhKanJwM2VNV3p6a2preW5KZ3h5MnVLaGl3a3B6S2tYa00tQXJzMnVDQjlHTkd3dG9sSEhyMS1uUERVMFppbTA4MmN0WGtxSV9mTnB4OG1ZdlZCdUFCMHItUXU5c3dQZ25VajlRNFRkcmhSUUJLbWVZNjZDQWpoSzFPak5fRUN4Ml9TeThDclBnRzhqb21hZmlYNmY5M05tcGFyWHB3cmJXOTBmSTU0SQ?oc=5"
+    },
+    {
       "title": "美股收盤》美債殖利率再飆！道瓊連3黑 台積電ADR漲逾1％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ORGQ3VFdsQkFidXJUUkpzUngxYTJDbTRTb3hvUWVDVHZvd1RackZ2RUszbXVJRC11aEtfeGtKZmRTZ1N4NHRRcGlxMnFfUjg2ZWJzcWItSXk5QjRNRWc00gFkQVVfeXFMT3hPaDlDZzBTNW1haktUd1VEM1J4TlV3aVo5dVhDbUU0VmNBNmN2a0dmVmJJV2pmdzhiSmhIYlFBN0FFUmpjSXlrYmpwUjdiUlkzS0pydFJ6aWk1ZVY2SnNZREpZbA?oc=5"
     },
     {
-      "title": "台積電目標價上看5000元！台股5萬點只是前菜？杜金龍喊出「長線8萬」這時間別急著追 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQWXhGMzZjY3hnNGNvXzFOVWZpcVpUMUNCaGJ1aUk0Q1RfaUVNMmo2YzNnZGJLc05uNXRQWE1fUnBCZS05UUNXQlo4MEdNeUlUMjJQM1FSRjVfdDZ0SGlQdXBBZ1NLZ2JMRDkyZFE4VUdKS1JTSEJxc3kzV0x4aUtLaU9WM1NEcng4YkloX2Zudzg2VksyR2ZFZnF4UjlXQ2Rxcnh5aUlaRDVYRldTa3BacHRhazhDNUlBMDBRdWsyaHliMm0wMVAxQXlmbWo5c3hMbXhUamtTdDFKWDRqUGp1MDZ0Sk93eU1lSmh6Q2RrRGNVUUQ5cmFUaUhDXzIwcFhUeThvcGpUWkFHUm9Yb01CRkEtazdPNzRPenY4bVRKLW4xUFROWWRkUDNwNDJUcHdBcUwyODVTZkxQS1cyVUlibThpdmdyRUN1MDRhTlFFWTlrNUVkR190YVFxMmc2NVlfVWFNT0ZNWEU5SGpaUF9oTWx2UUhlam93U3M5UzhzV0l0YXJsMWxZejJRaGxKUXM3WjFleEtuTDlGV09XbnNCTW1GQ1VXb2Z0NFRwOEVvelFMN18zbG1xUktWX0JuM2NwaWpiUjg0UFNKbzY3UE1yaFBVMXFEUjQ1ZWhsVzdPSkJEREdWMWxTeg?oc=5"
+      "title": "比特幣三個月連漲史上僅見！2012 年也這樣，接下來呢？ - 動區動趨",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTA5TlF3UHUxbWVoUkdPU1pFU2RybFdHV0g3ajlzamE2SlItNGhPR1NRalNuQVhycVVZRmlwY3N5MTQtd1REZ2k5UDQ3Zk1Bamg3VUs5QTJMQnFHTjZJNXJMWEdyYnVpUHVLWko5emI5VUFxWnp3NDRqWVhjWW5ndzdqX1hNZkdobjVfdldJV2xfcExKM1RlWHJqMWhFd0VHazd3S053?oc=5"
     },
     {
-      "title": "法国半导体公司Sequans售出剩余的314枚比特币，退出比特币储备策略 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SM044T3BfdWdkQWZfYUk1V2tMbEg5Z2xQM0NId0diMEpfNDg5cTVqX01qNnVoUDJVMXExUU14Y0N1eDRNRGozUTJBZzFTbGJVX3lLenhFN0wxU0duaVRSX1VVX3VPUQ?oc=5"
+      "title": "證交所台股儀表板9/23上線 整合證券商授信業務等3大重要資訊|政經臺灣 - 僑新聞",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yd0U0S3YzVThDbF90ZkhfaVVOOE95ekVFU2dHQndyeVQ4cG1JLVp3eUgxVlQ1d3BhWVlEUWJ6VzRvV282RHNJVmdnSQ?oc=5"
     },
     {
-      "title": "投資人聚焦美伊戰爭 美股多收黑 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByQ0U0a2VZYVRNWFZmd1haaW45ZFgyYllWeEx0UU1qbFowS1A2QV91RGFTWm1iVkVJOFo3all5QUJTUS1JY0RuOFY3QWtDZURtLVNMTHY5MW9wM0hQ0gFiQVVfeXFMTU1NX2NrdkhNLTBDX2EyQ1NCNGFtMjlCMUxTVElURFBKOFpjMFRQVFAyNzh2N3FFbTJaMVB6MGJCUVVVcjJzVmgyM095WlhCbzlRZ09nQWhJZTEwX05fOTY5Y2c?oc=5"
+      "title": "分析：比特币在8.4万美元横盘整理，山寨币接力行情延续 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwV3ptM29UdkNyZUMzMXpDVjE4T25WRTVBNDFzeWMxbTR0S09QUkxidnJxN2FadFlMamxJZDM2VU9OTUNmeFVqZW16dHFaUHRuRWlYcWh1cjN1SURXUUtVU3VBeXJwdw?oc=5"
     },
     {
-      "title": "財經一週：川習會直攻台灣議題、Meta Muse一戰成名、OECD上修全球經濟成長 - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jejlxS21SdnFlVVA5dXZqczBDX1JPQ28yTW0zSHFoQ2FwaURMUjVnZXEyeC1haFV2NFJHVmVSVXBpR25oeGs3SGp0akI0Zw?oc=5"
-    },
-    {
-      "title": "美伊局勢不明美股多收黑 台指期夜盤跌169點 - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPTWdnTWlncVVBOFdVUkhjMmFMVWlVdFNMQVpVRlhsZEM1UHpjaFBHTmhZeVp0b1pwc3NRSzQ4S3pIdGx0QVh4U1BGMEpzamZuZ0xNNXVjQmRHVFV4VDI1SkpNMkdIMHdCbTlnVjBDY1ZCVW1iMENxN1dQMEp5b0xRT3kwZEN5cVM2RWlFZi1SNmRsY0RHSUkwRjBDTFZDSDhrcmtCbHpiSFFYV2gyUlkxazl6N1lnMjRCR1FXc3JZZms5QUoyS0RCcEh2MF9yNjZjdUZwUVNxYjg4WHNGNDFEMTZDcEk2OXhrSDNPT0xHUDZrU1N3REJBTmkwZ2N5MURrektxX1VxOVQycnZ1YXZPQTh3N1RodEY4UktTSWs0d0JnSm91cjJucGswdlM2LXV4TUJvZ2YyTmRwbERaUmxBWWpha3lCZw?oc=5"
-    },
-    {
-      "title": "美股重點新聞摘要2026年9月25日 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuQkc2UDZUWVI4azNldXJvd0JjeDFSa19BZENwRVZmSHg2VGd0X0ZfYTJjOENMOUJJbVNCcUYxUnVBem1raWh5dHVEMA?oc=5"
+      "title": "美股早盤／四大指數齊跌！布蘭特漲回100美元 10年期美債殖利率破5% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LUjA0MkltQms2aG9iTGVtVGY5Z0NZay0tYTgxa2JGMndrUGJDWFJpdHlXMC1lRHNCdlVIVVVCeG1iYWF6aFc1akFKUEJGZVY3?oc=5"
     }
   ]
 }
