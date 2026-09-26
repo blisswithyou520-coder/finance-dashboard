@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/26 07:33",
+  "updated_tw": "09/26 09:59",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84076.63,
-      "change": -302.4325,
-      "changePercent": -0.3584
+      "price": 84072.83,
+      "change": -306.2325,
+      "changePercent": -0.3629
     },
     "ETH": {
-      "price": 2693.18,
-      "change": 5.8785,
-      "changePercent": 0.2188
+      "price": 2692.22,
+      "change": 4.9185,
+      "changePercent": 0.183
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "市場盼美伊達成協議重啟荷莫茲海峽 美股反彈 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wYTA0X0xlZENFamoteGswVWUxLUw0eHlCSHBxcnlJSVhSeEhzaUF3bzdRM1djV3NGRUE5Uk1lVHFxN1prUHdOa1J1RWpuTkJhYVdWby1vc1J5N2ZT0gFiQVVfeXFMTTZFbGJzLXZzT2RMLXVNN1F3U3ZickVvZ1FfM09fTW9pNTZvYmx1MEUzUGpoZENMNFZURWQyeUxOazVaaG04d2ZfWlg3ZHVXNV81N1dkX19wQXg1M0h4bUJLdFE?oc=5"
-    },
-    {
-      "title": "台股萬元俱樂部 四檔呼聲高 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYWxEWGFBM2dKdUhZc0dhckREVFo0bUg5aW50Z0RPek5TcE1EcHZnUUxLNzJZVFQySmx3eXd3MWx6TURFWEdkeWg3cG9DODg1YllwNm9qTWVkcUE0Q1BWU2JQVjJxczJYMjFvbk03V2VoOXY2UFpPNnhZXzNYZ0MxYW1FaU82ZXJPdlE3V0Zwc2p6TzRfU0czTUxUSlQwdkt1WUgxZDZNRXFCaUFKQ2Z6Wm9EdGtoUUY2clRmcVRSb0FxRlQzbjk3cUdUOHpZRTNRcWpNTFI1d2U4aHRsa1VkaFVGUnM?oc=5"
-    },
-    {
-      "title": "約 160 億美元比特幣選擇權到期後沒崩！BTC 守住 8.4 萬美元，市場進入「Gamma 重置」階段 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRmxKSnh0TTlOeVN4dkE4Q2ZjMHB3cFJoQVRrc1I1NlJ3VTQxajNhOUNnVWxCSGhHZktPQU42MkhQdUNuLUxXQXVFNnhKM3NLMjhRd1dSQVo4RDhKRmJWUjQ0bjA0bUFDaU1henlFajk1ZFlnQURPcllTWE9XdzJuQWlfZUpuWDJIS25vUnkyNThXZTVRUllsbDNiWUlzLVV4eUNXLXNYeGtTQUU?oc=5"
-    },
-    {
-      "title": "台股強強滾》證券事業獲利翻倍 金控小媳婦變金雞母 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RUnEzVjc1dG5sMGdNNlJ4NjltTWJDOTUxOWFEdDVRaVVqUERyTG1PV0dUa2FUZG10WTdKLTlKMG5ROE12SzJpYTd0bGh2b1VQZV9pand30gFbQVVfeXFMTlQtRkpHS1Z4LTdmSkdmSmhNSUxNZEMxR01JbDZKYlpOd1I0emNIclRJbXh6WXF0ckFwbE11bmVwN1ZMQ1IzX2xKZW82cV91QkZmREh2UGp6S20zOA?oc=5"
+      "title": "星期二開盤要噴了？美股指數全收紅 台指期夜盤遇休市 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPZjhjY0NPdFhaLVRJT1Q1Y3F2MEhhR1hyaUpLblVCYXlYOS1CdmFQWklTUUxVRktJcU4tdHRucjVwX1JEU3c3X3dpMEdKOW1sb1VZRU0yb0hKdk96RldDam5Ca0FqWF9BcmZzbEROb0loOWJDYjZmQUdGTy0yS0paVGVRbC1FTm1QLVdxMmJmYlFLTGktem5EcnQ3a3JzYW5NMEttZXZfY1F4dHk4YzQ5UUVNUWR0Z2I5VVZfWHRqZWFsOWxlNU5DUnNoUi1pYVEzVmVrSkcxRUV6ajNGV2J0SkQ0dDBBM0hSSVY3RFRTVXotNzV6TERqQ1NoZE5Zc3F4bmJ1U29acWFEVFY1dU8wQkgwa09xdlM0UEpaa3ZabFd3d0NiNFNMSkdoQU83cFBON0k2YVcyOUs5Z25DUWVNNXpKdW56QUhWSXo5MHFxcU1fRHV3TE5CSzdnTXhrV1pLaWg3YWdENXpwd2R6NGpOZjd3?oc=5"
     },
     {
       "title": "〈美股盤後〉傳美伊進入技術磋商階段 道瓊勁揚近480點 三大指數周線收紅 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjeHpNYXZad2NWWDgySklEUGxaV2dsU3Y5ejFnZlNoLXBSTkRHcEVnaFdFcnpVMGRVaVh6anN0eURGSG9HcXJoWWpGM0Z4U1U?oc=5"
     },
     {
-      "title": "美股泡沫論！外銀：AI投資資本報酬逾25％　仍有漲升空間 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56WDZsS09LU0kwQjFpQzhhUHZUR3JtMmJtMUVSMENoM3czSG45TDdEWmlxRXk0cVMyLUt4NEh5UEpkalFfejB5NXUweTBpbkxqRlHSAVBBVV95cUxPZ0t6d1dJSGhIaml0X09FWkNBOVcycGFXcnNzX3ZwSzNpTktqNVhza3hqX2RFZU8yNnl6TGtXUkRhWW1DUm1Fc2FBaEpXMmMyQQ?oc=5"
+      "title": "市場盼美伊達成協議重啟荷莫茲海峽 美股反彈 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wYTA0X0xlZENFamoteGswVWUxLUw0eHlCSHBxcnlJSVhSeEhzaUF3bzdRM1djV3NGRUE5Uk1lVHFxN1prUHdOa1J1RWpuTkJhYVdWby1vc1J5N2ZT0gFiQVVfeXFMTTZFbGJzLXZzT2RMLXVNN1F3U3ZickVvZ1FfM09fTW9pNTZvYmx1MEUzUGpoZENMNFZURWQyeUxOazVaaG04d2ZfWlg3ZHVXNV81N1dkX19wQXg1M0h4bUJLdFE?oc=5"
+    },
+    {
+      "title": "搞懂「2單」就能買美股！警官變身千萬富翁：靠「433配置」實現財務自由- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EYndwTXhMZ0ZZcGh4YXMtNkNwamlyYi1BWHJ1NkFIcldsdTVYNy1yb1BPS2sySTBpNm52ckl5V2JIakN5WDN2cHhQYkJRTGtXdUdTdEllTTNCNEZaRHk0?oc=5"
+    },
+    {
+      "title": "台股強強滾》證券事業獲利翻倍 金控小媳婦變金雞母 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RUnEzVjc1dG5sMGdNNlJ4NjltTWJDOTUxOWFEdDVRaVVqUERyTG1PV0dUa2FUZG10WTdKLTlKMG5ROE12SzJpYTd0bGh2b1VQZV9pand30gFbQVVfeXFMTlQtRkpHS1Z4LTdmSkdmSmhNSUxNZEMxR01JbDZKYlpOd1I0emNIclRJbXh6WXF0ckFwbE11bmVwN1ZMQ1IzX2xKZW82cV91QkZmREh2UGp6S20zOA?oc=5"
     },
     {
       "title": "台股愈漲錢愈往這裡衝 這5檔一週報酬逾8%！ - 三立新聞",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9acHN4S0ZzT1FWX1hEaVhsbTVOQ2lOcVBPM181SjRWUjN6VGdrUHJselNaTk9tTlB1cVVOMHF2UkpTNGltNmQ5cWswWQ?oc=5"
     },
     {
-      "title": "市場盼美伊達成協議重啟荷莫茲海峽美股反彈| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mRlp4RmttS1lxYUFHRG5kX3BsSENNQmJheGM3M2c5NDMwZEhMU2RxRmRBWDZoTnRuY25obFd2SVNXZmc1ZXVFeFBHMzh2OXlZ?oc=5"
+      "title": "美股泡沫論！外銀：AI投資資本報酬逾25％　仍有漲升空間 - finance.ettoday.net",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56WDZsS09LU0kwQjFpQzhhUHZUR3JtMmJtMUVSMENoM3czSG45TDdEWmlxRXk0cVMyLUt4NEh5UEpkalFfejB5NXUweTBpbkxqRlHSAVBBVV95cUxPZ0t6d1dJSGhIaml0X09FWkNBOVcycGFXcnNzX3ZwSzNpTktqNVhza3hqX2RFZU8yNnl6TGtXUkRhWW1DUm1Fc2FBaEpXMmMyQQ?oc=5"
+    },
+    {
+      "title": "川習會落幕、美伊談判露曙光？美股4指數反彈收紅 台積電ADR跌0.12% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQQXNOMEJ5M1QtbmpWVVVlWGVQeTZYM1BEYWwtRWs1Y3FDRVdvNjRiX3BOVjJKLU5MZ285VmJoVV9TLUJEYU5lWmJxNWRzUkJfQ08xa3RockpWU29NeWFJbXg4QnItU0l1UGkwV1RIcnB0djNzWUtkNEV3WmtUWVpid0tLaEFXcUlkbXY1azk3VVJZc0ItOGZob1ZYSDVCalVrbzdSbEM1ay04Q05FTmVZTWthZlItWm1adTBtVXJfTk1CM2pMVkNERlZGUWdlVjBQdGpqaGRWVklSVkFubDZHMVFZVWZYUEtuMktJZFhGSGhOMjd2Skdjc2dYdHhPeTl4Y3NVc3pMNEwtQ0V4OHEwclNKcUdhSHlXTjhCQUhGdXp4SmFNVFMwRzU3X0dwQnA5dXhSVW9uMDJQN0dGVElZakFyRW5JTExqbkZuazhiOU9kdzlPQjNmZ1FmVDI5dUlBQTJkZ1ctWVlXazVQRlF4eWczYm94dmd0bVd0UW5STndmNVk3XzM5eHZB?oc=5"
     }
   ]
 }
