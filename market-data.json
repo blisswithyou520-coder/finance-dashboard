@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/27 00:38",
+  "updated_tw": "09/27 03:23",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84144.37,
-      "change": 109.4481,
-      "changePercent": 0.1302
+      "price": 84015.7,
+      "change": -19.2219,
+      "changePercent": -0.0229
     },
     "ETH": {
-      "price": 2692.75,
-      "change": 2.2744,
-      "changePercent": 0.0845
+      "price": 2683.42,
+      "change": -7.0556,
+      "changePercent": -0.2622
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "〈美股盤後〉傳美伊進入技術磋商階段 道瓊勁揚近480點 三大指數周線收紅 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjeHpNYXZad2NWWDgySklEUGxaV2dsU3Y5ejFnZlNoLXBSTkRHcEVnaFdFcnpVMGRVaVh6anN0eURGSG9HcXJoWWpGM0Z4U1U?oc=5"
+    },
+    {
       "title": "星期二開盤要噴了？美股指數全收紅 台指期夜盤遇休市 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPZjhjY0NPdFhaLVRJT1Q1Y3F2MEhhR1hyaUpLblVCYXlYOS1CdmFQWklTUUxVRktJcU4tdHRucjVwX1JEU3c3X3dpMEdKOW1sb1VZRU0yb0hKdk96RldDam5Ca0FqWF9BcmZzbEROb0loOWJDYjZmQUdGTy0yS0paVGVRbC1FTm1QLVdxMmJmYlFLTGktem5EcnQ3a3JzYW5NMEttZXZfY1F4dHk4YzQ5UUVNUWR0Z2I5VVZfWHRqZWFsOWxlNU5DUnNoUi1pYVEzVmVrSkcxRUV6ajNGV2J0SkQ0dDBBM0hSSVY3RFRTVXotNzV6TERqQ1NoZE5Zc3F4bmJ1U29acWFEVFY1dU8wQkgwa09xdlM0UEpaa3ZabFd3d0NiNFNMSkdoQU83cFBON0k2YVcyOUs5Z25DUWVNNXpKdW56QUhWSXo5MHFxcU1fRHV3TE5CSzdnTXhrV1pLaWg3YWdENXpwd2R6NGpOZjd3?oc=5"
     },
     {
-      "title": "專家示警：美股崩盤要素已全部到位只待導火線引爆| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QZk1Ub1UtVDh2MUwwN1ZiNU5zV2lkZ0g4WlA3eURJeEVrRFRzV09ZWlRlZVpHY1AwRDcwVTVGdm1FdG5oRnl4WGpaRGFFVEtK?oc=5"
+      "title": "美股收漲本周緊盯通膨就業| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xZ1Awbi1aNWtYRU9NLTBxc0dEeGJhZ2ZHbGc1Njh2MWMzUEFBeS0zRjlzZWFCVGczSGR1eWNnb01lMXBMZHJ4X1QyaHByN0RK?oc=5"
     },
     {
-      "title": "〈美股盤後〉傳美伊進入技術磋商階段 道瓊勁揚近480點 三大指數周線收紅 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjeHpNYXZad2NWWDgySklEUGxaV2dsU3Y5ejFnZlNoLXBSTkRHcEVnaFdFcnpVMGRVaVh6anN0eURGSG9HcXJoWWpGM0Z4U1U?oc=5"
+      "title": "比特幣守穩關鍵均線於8.7萬美元附近，MemeToro預售突破15.4萬美元 - BigGo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QcW92S21BRzdMZVh1X2VramNueVVHTWRJTnhnS3dSSXZrc1U4czhXd3pZX0hOUTZjUWM0NXp2T2k3SVdFVko1c2RsUHg3cGx2TlJab1c1RGI4VGhTUVFwZkEwYVg5U0Z2clJ3ODJuZEJZUENCQzM2NHB3?oc=5"
     },
     {
       "title": "債市波動飆升、比特幣卻異常冷靜！MOVE 衝至 104，BTC 隱含波動率仍貼近年內低點 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbS1TMEd5WlJwblNfVzM3LVh5ZXJHZWZSdUQ5RHNxOXFPY1pXQllYTnFjejRqNG5LeEFSZDlEM3VTWFlDVUxIY3JnR2tIQk1wa3h1NERwekpua2RIN081WjIzSkg1SVdxZm9Ga1kzR1FmdHlSNUNLTDYyNmxYdlBWNlpkMTFvN05PTUNHSw?oc=5"
     },
     {
-      "title": "美債恐慌指數狂飆 33%！比特幣波動率卻跌向全年最低點？ - 動區動趨",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR1h3Z2ExaDFYM1ROTXZQTUlYU0NfOXNNeUl6TDcwaURheUdVMnphT0FwMGtmbmZtcmk5OTY0bEI0R1ZHa0VBYzVRZnluZXlGZmRZck9xQWM4TjdWYmFSN2tTVWdTRUxlYktObWZSM3dwV0RHa1JzdE5Oc3VJSWUzbmE5b0ZCSVd4eFN6Vlp3RDlGeFVocnc?oc=5"
+      "title": "bitssuecredit的BINANCE:BTCUSDT的【 比特幣最短熊市結束了 】 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00RmJuVVhwcjBGekUyWlBnelhsbWVqS1VBcjdNM1ljd0NTWlh1anFXTG16cUJJVUxLZFBxTkd5N2QxV3lxdHc4Ty1HYWlHUlphNEl5WERYNWwwaUxLLVFV?oc=5"
     },
     {
-      "title": "黃金大跌不是巧合！失守4300美元、專家點出關鍵原因 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wQ1RUSy1INFRQa1pHcVRPc3dxd3owUFdtZzVVOTVRMkFQbGxSTzhGRG8wZkl1YlVpU3RKYVhUS3c1NTM5YXhCMGZJNHV3WTB6Q0J3cHhGdTV1RG5MZWhN0gFkQVVfeXFMTlAtMkdjRG9xWEhrdWlkdS1LaVRUTDRoeGJ5Q0g3U2hJLVNtMzdwV2JIUmg2UjRFQVFsRE1nWWY1RE1CQ2E0WTUxZExzekZnb1Vnc2pucmRVN19GZnJYbXo2UzA3SQ?oc=5"
+      "title": "16檔台股先鋒引吭高歌- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OTDJlU0tqOUNubnczN0g3UGRXdWtqOURZb1dhckZVa3dMYlJ5d3JhcmZOZUpoWTQ1QTluY2VfWHpJLTFSOGVTN2Z4ei05bkdSQmtzR3Qwb3picy1RMzlZ?oc=5"
     },
     {
-      "title": "美股迎23小時交易制 紐約、那斯達克隔夜盤深化全球金融整合 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQM1RCODZLWTE2aENTRVp1MWFxTVJwRFJucFYtbFNRN0dCSk9VOUI2ZmJuT0FfQkt4ZGFMZWRhcUktZ202SURyRTUzaHNBRHdfX0xpY2l5U2FuQ0NHcE9lYmIxU3k4RmJodjV5Y3dCNmloOUhlYi1rYTE5OW1neWsyR3hITWtSaXdzY3FpYzNmMjI4bWIxalVsYXZxd3lQbnZMUjJxbnJjWVg5d2RmdDVxR2ctUFNWX2x0ZkJIYjMyclNaTlFrS3FyM0phNXVnUVYtbFc1bF9uaExoRmxvTmxMSFFhejI1LU9Hd0d4cy1yNlEyMkRmM3UtTmJHejlYNlBxZjVBemktandKMDIyY1o1NFp6bmtGT1BOdFdGS1BxTzlwMVNCc3lKYmtobUstNUFIVXZJZjZWeTVELW1Cb3luZ3JmYkcxZmpEZk85V2Yzb0taVXUzekZ4cmhSWmtoNG5EUThGT1dZRnlmbldUQW5sN0QxWWxlc25lZUhTLWZqajBkX0JXd1NBUnp3YVA?oc=5"
-    },
-    {
-      "title": "美股動能緊盯通膨、就業牽動債市| 財經焦點| 產經 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SZjRmTlcxUEtyQ05EM1l5VWpRZnFvRWFhUFhRYnRJMzRXQ0pQX3hYTTdiVWU5eGx0dWNqTWtkejNCOVRfT3BncjROUGh5UC1y?oc=5"
+      "title": "專家示警：美股崩盤要素已全部到位只待導火線引爆| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QZk1Ub1UtVDh2MUwwN1ZiNU5zV2lkZ0g4WlA3eURJeEVrRFRzV09ZWlRlZVpHY1AwRDcwVTVGdm1FdG5oRnl4WGpaRGFFVEtK?oc=5"
     }
   ]
 }
