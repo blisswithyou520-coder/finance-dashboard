@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/26 09:59",
+  "updated_tw": "09/26 15:30",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84072.83,
-      "change": -306.2325,
-      "changePercent": -0.3629
+      "price": 83998.82,
+      "change": -36.1019,
+      "changePercent": -0.043
     },
     "ETH": {
-      "price": 2692.22,
-      "change": 4.9185,
-      "changePercent": 0.183
+      "price": 2689.79,
+      "change": -0.6856,
+      "changePercent": -0.0255
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4320.5,
+    "usd": 4321.2,
     "twd": 4403.0,
-    "tael": 165100.0,
-    "twdTotal": 136938.0,
-    "changePercent": 0.5235
+    "tael": 165127.0,
+    "twdTotal": 136960.0,
+    "changePercent": 0.5398
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjeHpNYXZad2NWWDgySklEUGxaV2dsU3Y5ejFnZlNoLXBSTkRHcEVnaFdFcnpVMGRVaVh6anN0eURGSG9HcXJoWWpGM0Z4U1U?oc=5"
     },
     {
-      "title": "市場盼美伊達成協議重啟荷莫茲海峽 美股反彈 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wYTA0X0xlZENFamoteGswVWUxLUw0eHlCSHBxcnlJSVhSeEhzaUF3bzdRM1djV3NGRUE5Uk1lVHFxN1prUHdOa1J1RWpuTkJhYVdWby1vc1J5N2ZT0gFiQVVfeXFMTTZFbGJzLXZzT2RMLXVNN1F3U3ZickVvZ1FfM09fTW9pNTZvYmx1MEUzUGpoZENMNFZURWQyeUxOazVaaG04d2ZfWlg3ZHVXNV81N1dkX19wQXg1M0h4bUJLdFE?oc=5"
+      "title": "美股周線全紅難掩債市壓力 下周通膨和就業數據考驗漲勢 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93cV9oc1dzSG9VR2hKVmJMYWF1M1E2cVB6azFCclZiUFVBV3Y5WnJ3SjAtZV9qY3hJSWtqbEQ2b3BMbzBObEZMRndOSDViVDhJRDJsLVVsSVdPOTBW0gFiQVVfeXFMT0ZwTEt4LVdSdWdtVGpwRGFTb3FoeXdDeGw4QkRLbnhrLXg0Xy11eFBwUERtamQxRmNaeXY0MC1TTlVnMC1XdXRHMEJQYlZReDUxUXhiZVRoUENXSmcxeHlnMlE?oc=5"
     },
     {
-      "title": "搞懂「2單」就能買美股！警官變身千萬富翁：靠「433配置」實現財務自由- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EYndwTXhMZ0ZZcGh4YXMtNkNwamlyYi1BWHJ1NkFIcldsdTVYNy1yb1BPS2sySTBpNm52ckl5V2JIakN5WDN2cHhQYkJRTGtXdUdTdEllTTNCNEZaRHk0?oc=5"
+      "title": "債市波動飆升、比特幣卻異常冷靜！MOVE 衝至 104，BTC 隱含波動率仍貼近年內低點 - blockcast.it",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbS1TMEd5WlJwblNfVzM3LVh5ZXJHZWZSdUQ5RHNxOXFPY1pXQllYTnFjejRqNG5LeEFSZDlEM3VTWFlDVUxIY3JnR2tIQk1wa3h1NERwekpua2RIN081WjIzSkg1SVdxZm9Ga1kzR1FmdHlSNUNLTDYyNmxYdlBWNlpkMTFvN05PTUNHSw?oc=5"
     },
     {
-      "title": "台股強強滾》證券事業獲利翻倍 金控小媳婦變金雞母 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RUnEzVjc1dG5sMGdNNlJ4NjltTWJDOTUxOWFEdDVRaVVqUERyTG1PV0dUa2FUZG10WTdKLTlKMG5ROE12SzJpYTd0bGh2b1VQZV9pand30gFbQVVfeXFMTlQtRkpHS1Z4LTdmSkdmSmhNSUxNZEMxR01JbDZKYlpOd1I0emNIclRJbXh6WXF0ckFwbE11bmVwN1ZMQ1IzX2xKZW82cV91QkZmREh2UGp6S20zOA?oc=5"
+      "title": "TWA00 加權指數- 從財經作家雨果的真情告白，談「被動式指數化投資」的真諦- 股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaWmlwYXNiLTRwRVc3aHRUTU9nbW5nSzhad0U4MFdLbjNhZzJmcDFkQlFVRDFDeHJEZDZJYl9Vcm9xOVppV2ZxcWtpYmVTN1o2SkU2NTI4bzM?oc=5"
     },
     {
-      "title": "台股愈漲錢愈往這裡衝 這5檔一週報酬逾8%！ - 三立新聞",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9acHN4S0ZzT1FWX1hEaVhsbTVOQ2lOcVBPM181SjRWUjN6VGdrUHJselNaTk9tTlB1cVVOMHF2UkpTNGltNmQ5cWswWQ?oc=5"
+      "title": "峰會後美股翻黑台股料回基本面- 上市櫃 - 旺得富理財網",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96bnpHMVR5QXlLRWZYa25kRXd6U3RwUDh4ay1Fbm1BVDVmdzZYa2k2RzR2SDlkLWN1cEJOdFJ2YWVtLVl6WjNrbzFVT1RIODF6UTNSOWtYNXZrOHRqV2VBN3BiWVhBVkNNc2c?oc=5"
     },
     {
-      "title": "美股泡沫論！外銀：AI投資資本報酬逾25％　仍有漲升空間 - finance.ettoday.net",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56WDZsS09LU0kwQjFpQzhhUHZUR3JtMmJtMUVSMENoM3czSG45TDdEWmlxRXk0cVMyLUt4NEh5UEpkalFfejB5NXUweTBpbkxqRlHSAVBBVV95cUxPZ0t6d1dJSGhIaml0X09FWkNBOVcycGFXcnNzX3ZwSzNpTktqNVhza3hqX2RFZU8yNnl6TGtXUkRhWW1DUm1Fc2FBaEpXMmMyQQ?oc=5"
+      "title": "美股收盤》美債殖利率再飆！道瓊連3黑 台積電ADR漲逾1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ORGQ3VFdsQkFidXJUUkpzUngxYTJDbTRTb3hvUWVDVHZvd1RackZ2RUszbXVJRC11aEtfeGtKZmRTZ1N4NHRRcGlxMnFfUjg2ZWJzcWItSXk5QjRNRWc00gFkQVVfeXFMT3hPaDlDZzBTNW1haktUd1VEM1J4TlV3aVo5dVhDbUU0VmNBNmN2a0dmVmJJV2pmdzhiSmhIYlFBN0FFUmpjSXlrYmpwUjdiUlkzS0pydFJ6aWk1ZVY2SnNZREpZbA?oc=5"
     },
     {
-      "title": "川習會落幕、美伊談判露曙光？美股4指數反彈收紅 台積電ADR跌0.12% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQQXNOMEJ5M1QtbmpWVVVlWGVQeTZYM1BEYWwtRWs1Y3FDRVdvNjRiX3BOVjJKLU5MZ285VmJoVV9TLUJEYU5lWmJxNWRzUkJfQ08xa3RockpWU29NeWFJbXg4QnItU0l1UGkwV1RIcnB0djNzWUtkNEV3WmtUWVpid0tLaEFXcUlkbXY1azk3VVJZc0ItOGZob1ZYSDVCalVrbzdSbEM1ay04Q05FTmVZTWthZlItWm1adTBtVXJfTk1CM2pMVkNERlZGUWdlVjBQdGpqaGRWVklSVkFubDZHMVFZVWZYUEtuMktJZFhGSGhOMjd2Skdjc2dYdHhPeTl4Y3NVc3pMNEwtQ0V4OHEwclNKcUdhSHlXTjhCQUhGdXp4SmFNVFMwRzU3X0dwQnA5dXhSVW9uMDJQN0dGVElZakFyRW5JTExqbkZuazhiOU9kdzlPQjNmZ1FmVDI5dUlBQTJkZ1ctWVlXazVQRlF4eWczYm94dmd0bVd0UW5STndmNVk3XzM5eHZB?oc=5"
+      "title": "Claude AI 預測比特幣價格走向：債券殖利率攀升左右市場 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQNlNMZFd2LVcxVG1RLVRCQ2VlS29EMEdTV2hiSFR2czg2OUtVUXUtY3V6SXBoYzVQTk1VRXdwRFhGYV9wZjJDR1IwWEZ4bEFUcS1aUU9tY09vdjJWdHR1aWY0ZHUtTHBnb0R0ZFVrZ3FaTmdOMWFkcVR0eXFvbVV0anpPSEZrYlg0aWRGS2xudDVfNkwxOTk4bTdYcWVWcjlEdVd3ZFcyV1NQTVk1bnctT0ViMjhnY3o5cGI2SkY5alRuS3BTWVJMSnhpMnNJT1BEUzNRQXRTWVlkOTh3OFl2ZkRyNkM5cGg3RzhyX2I4YWdJWmF2cGcyQ0NybDBmaFV4WXFwYmtjRFBHUFZCa1Y3QWxkR3laU2hVWlpta1lFVHJxX3JhVjQycU45VDAwNC1GM3ZqTVVvQ1ZqZ0ZLM0tROWxxUVB1WGRfcUdUY0JpeDc3TThtWGlOcnhB?oc=5"
     }
   ]
 }
