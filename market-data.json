@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/27 06:04",
+  "updated_tw": "09/27 08:35",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84205.42,
-      "change": 170.4981,
-      "changePercent": 0.2029
+      "price": 84362.24,
+      "change": 327.3181,
+      "changePercent": 0.3895
     },
     "ETH": {
-      "price": 2686.02,
-      "change": -4.4556,
-      "changePercent": -0.1656
+      "price": 2694.57,
+      "change": 4.0944,
+      "changePercent": 0.1522
     }
   },
   "fx": {
@@ -117,8 +117,12 @@
   },
   "news": [
     {
-      "title": "美股收漲！費半周線連四紅 本周緊盯通膨、就業 考驗這波漲勢動能 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzTjUzSlJQOTNXTmw5NmpGUERVQWh3OHVGS1pNaUZFVlc0SVZhYXJJMEh1RnZzX0szakZmbExsSWVKclpYOFVEYVNHekpTbi0wRl9SMG80b1U4SDRx0gFiQVVfeXFMUHY4VDdxcjZydTlsZmF5ZXAxMVNuczdpeTZQa2lhQ2h3d3ZPYUVfYTdHdWZ2T1pOVU14SUptcVJMaDdEbVlTV0hMRUpMVzRmdExCc28xNVlKUV81OUpXaVdIQnc?oc=5"
+      "title": "〈美股盤後〉傳美伊進入技術磋商階段 道瓊勁揚近480點 三大指數周線收紅 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjeHpNYXZad2NWWDgySklEUGxaV2dsU3Y5ejFnZlNoLXBSTkRHcEVnaFdFcnpVMGRVaVh6anN0eURGSG9HcXJoWWpGM0Z4U1U?oc=5"
+    },
+    {
+      "title": "美股收紅、費半漲逾1% 這類股升息環境下最具投資價值| 股市要聞| 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CZkF6elpXbW9pWVlPYlhaRUlSMzQzUk5xbjcxWVN3S3E1U3NTbllEcU44WUE4cW9YdFpwWmE3WENxNGhLOGhxZjZma2M5NWxP?oc=5"
     },
     {
       "title": "星期二開盤要噴了？美股指數全收紅 台指期夜盤遇休市 - Yahoo股市",
@@ -129,24 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QcW92S21BRzdMZVh1X2VramNueVVHTWRJTnhnS3dSSXZrc1U4czhXd3pZX0hOUTZjUWM0NXp2T2k3SVdFVko1c2RsUHg3cGx2TlJab1c1RGI4VGhTUVFwZkEwYVg5U0Z2clJ3ODJuZEJZUENCQzM2NHB3?oc=5"
     },
     {
+      "title": "16檔台股先鋒引吭高歌- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OTDJlU0tqOUNubnczN0g3UGRXdWtqOURZb1dhckZVa3dMYlJ5d3JhcmZOZUpoWTQ1QTluY2VfWHpJLTFSOGVTN2Z4ei05bkdSQmtzR3Qwb3picy1RMzlZ?oc=5"
+    },
+    {
       "title": "債市波動飆升、比特幣卻異常冷靜！MOVE 衝至 104，BTC 隱含波動率仍貼近年內低點 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbS1TMEd5WlJwblNfVzM3LVh5ZXJHZWZSdUQ5RHNxOXFPY1pXQllYTnFjejRqNG5LeEFSZDlEM3VTWFlDVUxIY3JnR2tIQk1wa3h1NERwekpua2RIN081WjIzSkg1SVdxZm9Ga1kzR1FmdHlSNUNLTDYyNmxYdlBWNlpkMTFvN05PTUNHSw?oc=5"
     },
     {
-      "title": "bitssuecredit的BINANCE:BTCUSDT的【 比特幣最短熊市結束了 】 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00RmJuVVhwcjBGekUyWlBnelhsbWVqS1VBcjdNM1ljd0NTWlh1anFXTG16cUJJVUxLZFBxTkd5N2QxV3lxdHc4Ty1HYWlHUlphNEl5WERYNWwwaUxLLVFV?oc=5"
-    },
-    {
-      "title": "分析：全球債務持續攀升，比特幣受益於法定貨幣購買力下降 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11Y2J4NXI2Mzl5cFNHQWpiRjhxcEFOak53MVg4RHBFZWcyVG1TQkJuWHBVMXByZXgzMy1HcUptQ1dndXZQU01QYTU2TzZpbGM?oc=5"
-    },
-    {
-      "title": "美股收盤》美債殖利率再飆！道瓊連3黑 台積電ADR漲逾1％ - ec.ltn.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ORGQ3VFdsQkFidXJUUkpzUngxYTJDbTRTb3hvUWVDVHZvd1RackZ2RUszbXVJRC11aEtfeGtKZmRTZ1N4NHRRcGlxMnFfUjg2ZWJzcWItSXk5QjRNRWc00gFkQVVfeXFMT3hPaDlDZzBTNW1haktUd1VEM1J4TlV3aVo5dVhDbUU0VmNBNmN2a0dmVmJJV2pmdzhiSmhIYlFBN0FFUmpjSXlrYmpwUjdiUlkzS0pydFJ6aWk1ZVY2SnNZREpZbA?oc=5"
-    },
-    {
       "title": "專家示警：美股崩盤要素已全部到位 只待導火線引爆 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iYmhNaDJZdlpmSVl3c1JURmJ4OVh4SmVIcnFBam5ad05TWnhyNXIyc1JCQktyVWdHRnUxTFhSbVdHdmY3NmpKWURaQWpweGFSOFNISEMteTVpdE4t0gFiQVVfeXFMTUFlMjEtLU1WNVJsekhVWUltQXZpSF9OR2s0czJhVEVXNmgwdi02XzFsc09NQ05XaV9oWVVTTEFiZFUzc2lQMlo3cWEtVUdKODhYSU1jMlBWZFdaZWpKN3VhRWc?oc=5"
+    },
+    {
+      "title": "比特幣連三月收漲，市場聚焦「Uptober」行情 - BigGo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQaXRJQWFqc1NtWHo1TmJlOTdsODVJS1hFMklJTEVGcVVubXhSdUZKN3p4eUFYX2VRbmd2OVdIWDVGbmR1TXowMVNKNmhpc2cxQ05qQkY1SkVZYUxpeXVrZUF2Y3VMa25TSWJMQ1FRbkxQanhVY0d3WmNB?oc=5"
     }
   ]
 }
