@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/27 19:27",
+  "updated_tw": "09/27 23:45",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84928.51,
-      "change": 522.0569,
-      "changePercent": 0.6185
+      "price": 84427.21,
+      "change": 20.7569,
+      "changePercent": 0.0246
     },
     "ETH": {
-      "price": 2710.7,
-      "change": 15.4869,
-      "changePercent": 0.5746
+      "price": 2687.96,
+      "change": -7.2531,
+      "changePercent": -0.2691
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.695,
-      "change": -0.1112,
-      "changePercent": -0.3496
+      "price": 31.708,
+      "change": -0.0982,
+      "changePercent": -0.3087
     },
     "JPYTWD": {
       "price": 0.1994,
@@ -99,16 +99,16 @@
       "changePercent": -0.0795
     },
     "CNYTWD": {
-      "price": 4.7285,
+      "price": 4.7305,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
     "usd": 4321.2,
-    "twd": 4403.0,
-    "tael": 165127.0,
-    "twdTotal": 136960.0,
+    "twd": 4405.0,
+    "tael": 165194.0,
+    "twdTotal": 137017.0,
     "changePercent": 0.5398
   },
   "fed": {
@@ -121,16 +121,16 @@
       "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOUVJsOUxKeVpOczdsRkRzdmotazV4RmloWkFCamJ4bkdQMzUzdW4yWWVhNXVVcUl6TjhTeVo4UzEzaGJjcURzQnJiTmNrM1J0cWxoRzQ2ZE5RLWxGVUdZU0R5Vks1VGFrQk1aSGFPdUJ2bENkYmN1TDVZR20wTnB5emVyM0xQc0FwN1pOTUQ2YWVoWXp3Q29jLUVkWWVwX0tJZjFFVGFQZWdPQnF1Q2hTSC1Fd3hfMUJWd3JKRzBwZlZKRlJPbGlUNEVONnhDMXUxUGRHZTRCcDJxVC1rNkZNOXRGRnBDNU5Td3ZNbmN0Z3RkNk03UjRLWUhKcnF0NXBtVlZfVlZTV1k4OU8yc3RsVzFKREplbHhGRTVyVWdSMkRLeDI3Z0tfLUxsOC01NE81UXNJVnhNUUpSS2dCcGZ2YVNMNVVLWjdBejFsc0xuSHRfVkNIdDZ0MDN6dklIOFpxREg3NnJTaXFKNTBDR2NuZFI4Q01KUjZRNUNtY0YyNzBBeVl0QTJrUzdSVnE0d3VQV0xIUTJCTlU1Q0ZqMVVPdlhuemlrOC1FN3VfTnp4ZkVlejBucWQ1Z3N3N0VnX2pTeG1qNDl1c1E?oc=5"
     },
     {
-      "title": "想買黃金再等等？金價下一步藏在這些數字 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SYmQxX1gtNWg5ZjNPNDBhUmhCN0E5cEhOLVNSNUZMT21QZGlpTS0yc1Y5cFY3U0ZPaUhXMXliMmZpR3lIUUpzaUxYSU9aWUNQaF81VFAwcmh3aUU2VE5R0gFkQVVfeXFMT1ROaEtYeG1EYzB6MjJud3lTbDZPX3F6Sk04OXUxMnUxWW5zVHVkSG5jcVRYUkd6a1VpOEdhNlFQek9pRkY3Mk9XbWFxdkpFTEpEc09sS1h5UGNqVHBsWVdYX1NjWg?oc=5"
-    },
-    {
       "title": "金價會再跌？黃金現在可以買？黃金價格破4300美元何時穩住，大佛李其展：一原因成受害者「還得給時間」 - 今周刊",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVmU1TFlNUGlBR2ZYWnpnNUtJanpsU3E3U1hQQTRuOWJZY3c3cVdzcWUyZkxUaFlqbGExd2UwVjF2QmJFUWk3eTVjaGw2U0xiVXhIOWZDMm9wMkNLRFNuaDg3YkQ4aFpxeDR1RkdlOGVuT0llLXJSMkEtbFZqOFRZcg?oc=5"
     },
     {
-      "title": "第四季台股表現 法人：科技股仍有空間 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3RjBkT05lN1MtUFdYdXhvMDdtWDJOQW5FbzVUaWdmUlJ2NnlIRHducUxBVU1kaHRYUlZxN1d1TlA2MlFkekNEWGRrczJyMnpu0gFWQVVfeXFMTlJieGwtRzhodm1iZEVMZmpRcGx0NGh0ZmlRNFBXNklNeC1VcV9WMHppU3dmaWhjenY5ZExVLXpwWFJUbjhPb3p1M1lyX0c5cElxamhaT1E?oc=5"
+      "title": "想買黃金再等等？金價下一步藏在這些數字 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SYmQxX1gtNWg5ZjNPNDBhUmhCN0E5cEhOLVNSNUZMT21QZGlpTS0yc1Y5cFY3U0ZPaUhXMXliMmZpR3lIUUpzaUxYSU9aWUNQaF81VFAwcmh3aUU2VE5R0gFkQVVfeXFMT1ROaEtYeG1EYzB6MjJud3lTbDZPX3F6Sk04OXUxMnUxWW5zVHVkSG5jcVRYUkd6a1VpOEdhNlFQek9pRkY3Mk9XbWFxdkpFTEpEc09sS1h5UGNqVHBsWVdYX1NjWg?oc=5"
+    },
+    {
+      "title": "外資今年來大舉買進帶動美股走強最強個股含晟碟、威騰電子及英特爾| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51cDNBbERYaWFKczBYUTI2WmdDdUxEZWlFdDRqbTNmcHdVdTRXTThPeVpTX05sc0RPUUU1enhNY3RDQjdlV2V6aUVwSklyUjdF?oc=5"
     },
     {
       "title": "比特幣 ETF 連 7 天吸金近 30 億美元，BTC 卻卡 8.4 萬！巨量買盤為何推不動幣價？ - 區塊客",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjeHpNYXZad2NWWDgySklEUGxaV2dsU3Y5ejFnZlNoLXBSTkRHcEVnaFdFcnpVMGRVaVh6anN0eURGSG9HcXJoWWpGM0Z4U1U?oc=5"
     },
     {
-      "title": "分析师：比特币或在2028年减半前突破12万美元 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SWi1Gd0JHcmx5aEpndmJsYTkzUTYwUnNhZk9QbmJoY080RGlIMzdyTG9KWVBpMmhvUmhfZDNEYkJZa3JZM2VMdkRkdVJINzllV21nR25WNDVDcUVRelBwLWJuRzdUUQ?oc=5"
+      "title": "要準備逃了？專家警告美股崩盤「所有關鍵要素全到位」 - 三立新聞",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51cUpOeHpFdlFoWm5WT1h2MEhLXzhuZ1I1a0gzZTdLblR6WFA2SXdDdF8tendlTWxTZE55bXE3RjI1ek1rUDdVbTB6Zw?oc=5"
     }
   ]
 }
