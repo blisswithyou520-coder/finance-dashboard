@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/27 13:47",
+  "updated_tw": "09/27 19:27",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84501.12,
-      "change": 466.1981,
-      "changePercent": 0.5548
+      "price": 84928.51,
+      "change": 522.0569,
+      "changePercent": 0.6185
     },
     "ETH": {
-      "price": 2705.01,
-      "change": 14.5344,
-      "changePercent": 0.5402
+      "price": 2710.7,
+      "change": 15.4869,
+      "changePercent": 0.5746
     }
   },
   "fx": {
@@ -117,8 +117,24 @@
   },
   "news": [
     {
-      "title": "專家示警：美股崩盤要素已全部到位 只待導火線引爆 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iYmhNaDJZdlpmSVl3c1JURmJ4OVh4SmVIcnFBam5ad05TWnhyNXIyc1JCQktyVWdHRnUxTFhSbVdHdmY3NmpKWURaQWpweGFSOFNISEMteTVpdE4t0gFiQVVfeXFMTUFlMjEtLU1WNVJsekhVWUltQXZpSF9OR2s0czJhVEVXNmgwdi02XzFsc09NQ05XaV9oWVVTTEFiZFUzc2lQMlo3cWEtVUdKODhYSU1jMlBWZFdaZWpKN3VhRWc?oc=5"
+      "title": "美股大崩盤倒數？高估值科技股先挫咧等！華爾街專家示警：只差一根導火線 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOUVJsOUxKeVpOczdsRkRzdmotazV4RmloWkFCamJ4bkdQMzUzdW4yWWVhNXVVcUl6TjhTeVo4UzEzaGJjcURzQnJiTmNrM1J0cWxoRzQ2ZE5RLWxGVUdZU0R5Vks1VGFrQk1aSGFPdUJ2bENkYmN1TDVZR20wTnB5emVyM0xQc0FwN1pOTUQ2YWVoWXp3Q29jLUVkWWVwX0tJZjFFVGFQZWdPQnF1Q2hTSC1Fd3hfMUJWd3JKRzBwZlZKRlJPbGlUNEVONnhDMXUxUGRHZTRCcDJxVC1rNkZNOXRGRnBDNU5Td3ZNbmN0Z3RkNk03UjRLWUhKcnF0NXBtVlZfVlZTV1k4OU8yc3RsVzFKREplbHhGRTVyVWdSMkRLeDI3Z0tfLUxsOC01NE81UXNJVnhNUUpSS2dCcGZ2YVNMNVVLWjdBejFsc0xuSHRfVkNIdDZ0MDN6dklIOFpxREg3NnJTaXFKNTBDR2NuZFI4Q01KUjZRNUNtY0YyNzBBeVl0QTJrUzdSVnE0d3VQV0xIUTJCTlU1Q0ZqMVVPdlhuemlrOC1FN3VfTnp4ZkVlejBucWQ1Z3N3N0VnX2pTeG1qNDl1c1E?oc=5"
+    },
+    {
+      "title": "想買黃金再等等？金價下一步藏在這些數字 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SYmQxX1gtNWg5ZjNPNDBhUmhCN0E5cEhOLVNSNUZMT21QZGlpTS0yc1Y5cFY3U0ZPaUhXMXliMmZpR3lIUUpzaUxYSU9aWUNQaF81VFAwcmh3aUU2VE5R0gFkQVVfeXFMT1ROaEtYeG1EYzB6MjJud3lTbDZPX3F6Sk04OXUxMnUxWW5zVHVkSG5jcVRYUkd6a1VpOEdhNlFQek9pRkY3Mk9XbWFxdkpFTEpEc09sS1h5UGNqVHBsWVdYX1NjWg?oc=5"
+    },
+    {
+      "title": "金價會再跌？黃金現在可以買？黃金價格破4300美元何時穩住，大佛李其展：一原因成受害者「還得給時間」 - 今周刊",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVmU1TFlNUGlBR2ZYWnpnNUtJanpsU3E3U1hQQTRuOWJZY3c3cVdzcWUyZkxUaFlqbGExd2UwVjF2QmJFUWk3eTVjaGw2U0xiVXhIOWZDMm9wMkNLRFNuaDg3YkQ4aFpxeDR1RkdlOGVuT0llLXJSMkEtbFZqOFRZcg?oc=5"
+    },
+    {
+      "title": "第四季台股表現 法人：科技股仍有空間 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3RjBkT05lN1MtUFdYdXhvMDdtWDJOQW5FbzVUaWdmUlJ2NnlIRHducUxBVU1kaHRYUlZxN1d1TlA2MlFkekNEWGRrczJyMnpu0gFWQVVfeXFMTlJieGwtRzhodm1iZEVMZmpRcGx0NGh0ZmlRNFBXNklNeC1VcV9WMHppU3dmaWhjenY5ZExVLXpwWFJUbjhPb3p1M1lyX0c5cElxamhaT1E?oc=5"
+    },
+    {
+      "title": "比特幣 ETF 連 7 天吸金近 30 億美元，BTC 卻卡 8.4 萬！巨量買盤為何推不動幣價？ - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcUE4ekFGa1NIV3ZlREc1QVhTTEhHVzcxUWdWcDkyM20zRi1JUFNYUDNnckhpcXdzRWtpczhIY1poVG1uNDlfZzBuVjBDTnpUYzBZb3NlMTlyaGJPT3NiSVFxaVRRcGFPZXlIODRpZzlIY2d5QWlfam1oMTRfRENsT1QzVFloTnVjVlYwaVE1TTJBRUplWGVFMW9kSVkyQXl0Zmc?oc=5"
     },
     {
       "title": "買黃金跟股票一樣！不用跑銀樓　009832於10月開募 - ETtoday財經雲",
@@ -129,24 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjeHpNYXZad2NWWDgySklEUGxaV2dsU3Y5ejFnZlNoLXBSTkRHcEVnaFdFcnpVMGRVaVh6anN0eURGSG9HcXJoWWpGM0Z4U1U?oc=5"
     },
     {
-      "title": "美股逼近歷史新高！下週迎2大數據考驗 「太強」不見得是好事 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQOVhqV1J6MC1GTHRFc1lTWUF5WXhrUTFUVVdaT0t1VjBIX2h6eEp1b1pHN25YVEtGTkE1Mmo0OFJZTlFDa0F1aEdFTjFOTTY4VjBiRUZGZ0o0YjlVVmZlZV9Wbi1VLTdZWGx6amZxYjk3Vl9XU2psYWwtbzhVVjBJc2lTU25KS2l2OE1ReVJMRmtWUFd4QjRtc1FzUFBrclV5TDNJa0x2cGluMW55b2dIdWR5YnJMcWVmN1Rpc3lUM0tjNnEyZ3MweHd3OVE4QTZ0Q245c2R5Zk9nRW1aMzhIYzJkdzVrRjFQM2wyNDAyMV9iSnllYnN5TW4wRHJCZGI3WS13ZjV4QWhMdG1DalN3Ym9aOUxVMjhtUVRJdkRFN3U5U3RQcEtfbUlYdkF5Y2dBZVJUZnNNdmNwZWdGUVByWVotajVXaWpkT2FuRzV5U1ZpUDFsN2txRDNRV1B2aFdjeHl3TUxLVkhvLU5rby0wZnBRZW9MLVdGMTNmUlVaejE?oc=5"
-    },
-    {
-      "title": "＜台股熱點＞單櫃功耗狂飆 散熱族群集體大噴發 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xZnNRVm5vSTlUVEtCcTFrUmVPZEduYkZuTWhNUl8wS3l4UXdmMlBVNTNiNDBHS1NITExEdnF6VEZxQklheDhOZDNFUVlYRXh1TUtISEMzSGZ2RDE0czRr0gFkQVVfeXFMT01wdURIR0FFOTU0VjBqTllsbV9OUFVVSUgxczJCVU5maEFPcENzaEczZHFrR2FpZjZhTmE1ck4xUWpza2xDdTFyaUFCNjhqY3ZKb2VLUzEzWDFBbVhQdkE4NlJ3SA?oc=5"
-    },
-    {
-      "title": "台股5萬點只是表象？出口、失業率、薪資這些數據說話了| 財經 - Newtalk新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPUFU3d1pvb3VfSW0tNDE0SVZFT1BUdGVUdGx0UVZQclBGU2x1NUI0RE9DNWR5WkRqZnNkeGdDT2h0UjRIMkhLSTd3dnp4aTQ1UWQ0Ni1laF93RlE?oc=5"
-    },
-    {
-      "title": "比特幣持穩8.43 萬美元、以太坊守2693 鎂，恐慌指數回落| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUFRfS01EOEdhM3FyN21hRkQxdzYtc3dXUjN3c2M5anhkRFlRaEtFU2F1ZlZ6eUlLZTZpV2Uwd29IR2lPVzQ2OGJ4d1NackhLSGdPRWlwUTY3T1lONXJpbEc1UEZiMW5POFZObThPWEdDYU0wRjVoeC1jUm4zVlJaNzh4X1k3NmJaNlRiY09wZnc1OVB5M3cw?oc=5"
-    },
-    {
-      "title": "外資倒貨、內資吞貨！台股10月先蹲後跳劇本曝光「台積電、國巨領軍基本面大噴發」12檔高勝率黑馬搶先看- 上市櫃 - 旺得富理財網",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYWlVQb1VGQzJoZWF6ZENGTEtRYkpkcW9GNXZkSzlZcXBwdHRsY0tVclBkaG14RlRBd2NZZlBlNFJWLXJoTnZ0a3NOcVcwNG90SHhSdTI4T2s1Tm1GNzk4Ykt2ck9aRmhuZlE?oc=5"
+      "title": "分析师：比特币或在2028年减半前突破12万美元 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SWi1Gd0JHcmx5aEpndmJsYTkzUTYwUnNhZk9QbmJoY080RGlIMzdyTG9KWVBpMmhvUmhfZDNEYkJZa3JZM2VMdkRkdVJINzllV21nR25WNDVDcUVRelBwLWJuRzdUUQ?oc=5"
     }
   ]
 }
