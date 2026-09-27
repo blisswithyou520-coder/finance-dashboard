@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/27 08:35",
+  "updated_tw": "09/27 13:47",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84362.24,
-      "change": 327.3181,
-      "changePercent": 0.3895
+      "price": 84501.12,
+      "change": 466.1981,
+      "changePercent": 0.5548
     },
     "ETH": {
-      "price": 2694.57,
-      "change": 4.0944,
-      "changePercent": 0.1522
+      "price": 2705.01,
+      "change": 14.5344,
+      "changePercent": 0.5402
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "〈美股盤後〉傳美伊進入技術磋商階段 道瓊勁揚近480點 三大指數周線收紅 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjeHpNYXZad2NWWDgySklEUGxaV2dsU3Y5ejFnZlNoLXBSTkRHcEVnaFdFcnpVMGRVaVh6anN0eURGSG9HcXJoWWpGM0Z4U1U?oc=5"
-    },
-    {
-      "title": "美股收紅、費半漲逾1% 這類股升息環境下最具投資價值| 股市要聞| 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CZkF6elpXbW9pWVlPYlhaRUlSMzQzUk5xbjcxWVN3S3E1U3NTbllEcU44WUE4cW9YdFpwWmE3WENxNGhLOGhxZjZma2M5NWxP?oc=5"
-    },
-    {
-      "title": "星期二開盤要噴了？美股指數全收紅 台指期夜盤遇休市 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPZjhjY0NPdFhaLVRJT1Q1Y3F2MEhhR1hyaUpLblVCYXlYOS1CdmFQWklTUUxVRktJcU4tdHRucjVwX1JEU3c3X3dpMEdKOW1sb1VZRU0yb0hKdk96RldDam5Ca0FqWF9BcmZzbEROb0loOWJDYjZmQUdGTy0yS0paVGVRbC1FTm1QLVdxMmJmYlFLTGktem5EcnQ3a3JzYW5NMEttZXZfY1F4dHk4YzQ5UUVNUWR0Z2I5VVZfWHRqZWFsOWxlNU5DUnNoUi1pYVEzVmVrSkcxRUV6ajNGV2J0SkQ0dDBBM0hSSVY3RFRTVXotNzV6TERqQ1NoZE5Zc3F4bmJ1U29acWFEVFY1dU8wQkgwa09xdlM0UEpaa3ZabFd3d0NiNFNMSkdoQU83cFBON0k2YVcyOUs5Z25DUWVNNXpKdW56QUhWSXo5MHFxcU1fRHV3TE5CSzdnTXhrV1pLaWg3YWdENXpwd2R6NGpOZjd3?oc=5"
-    },
-    {
-      "title": "比特幣守穩關鍵均線於8.7萬美元附近，MemeToro預售突破15.4萬美元 - BigGo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QcW92S21BRzdMZVh1X2VramNueVVHTWRJTnhnS3dSSXZrc1U4czhXd3pZX0hOUTZjUWM0NXp2T2k3SVdFVko1c2RsUHg3cGx2TlJab1c1RGI4VGhTUVFwZkEwYVg5U0Z2clJ3ODJuZEJZUENCQzM2NHB3?oc=5"
-    },
-    {
-      "title": "16檔台股先鋒引吭高歌- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OTDJlU0tqOUNubnczN0g3UGRXdWtqOURZb1dhckZVa3dMYlJ5d3JhcmZOZUpoWTQ1QTluY2VfWHpJLTFSOGVTN2Z4ei05bkdSQmtzR3Qwb3picy1RMzlZ?oc=5"
-    },
-    {
-      "title": "債市波動飆升、比特幣卻異常冷靜！MOVE 衝至 104，BTC 隱含波動率仍貼近年內低點 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbS1TMEd5WlJwblNfVzM3LVh5ZXJHZWZSdUQ5RHNxOXFPY1pXQllYTnFjejRqNG5LeEFSZDlEM3VTWFlDVUxIY3JnR2tIQk1wa3h1NERwekpua2RIN081WjIzSkg1SVdxZm9Ga1kzR1FmdHlSNUNLTDYyNmxYdlBWNlpkMTFvN05PTUNHSw?oc=5"
-    },
-    {
       "title": "專家示警：美股崩盤要素已全部到位 只待導火線引爆 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iYmhNaDJZdlpmSVl3c1JURmJ4OVh4SmVIcnFBam5ad05TWnhyNXIyc1JCQktyVWdHRnUxTFhSbVdHdmY3NmpKWURaQWpweGFSOFNISEMteTVpdE4t0gFiQVVfeXFMTUFlMjEtLU1WNVJsekhVWUltQXZpSF9OR2s0czJhVEVXNmgwdi02XzFsc09NQ05XaV9oWVVTTEFiZFUzc2lQMlo3cWEtVUdKODhYSU1jMlBWZFdaZWpKN3VhRWc?oc=5"
     },
     {
-      "title": "比特幣連三月收漲，市場聚焦「Uptober」行情 - BigGo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQaXRJQWFqc1NtWHo1TmJlOTdsODVJS1hFMklJTEVGcVVubXhSdUZKN3p4eUFYX2VRbmd2OVdIWDVGbmR1TXowMVNKNmhpc2cxQ05qQkY1SkVZYUxpeXVrZUF2Y3VMa25TSWJMQ1FRbkxQanhVY0d3WmNB?oc=5"
+      "title": "買黃金跟股票一樣！不用跑銀樓　009832於10月開募 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzZW1uSm5MS1FVQVVBY1kwSUt0V3NiRnNodFgxX25UU3IxbkhoRk5PVFVpWExRWHlnODV1ei1wYnVDaXA0ZklNMHNac05QV05VSlHSAVBBVV95cUxQZ1ZKMjlIYzVucGtxZkJRNFFhQjNmbUl5UnlsWFktamQ5NEphdWxfRzZIU3NpRUhjNVNBeFB6WmV6a3Q5alJ2Y1JTNnN0dklvTQ?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉傳美伊進入技術磋商階段 道瓊勁揚近480點 三大指數周線收紅 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjeHpNYXZad2NWWDgySklEUGxaV2dsU3Y5ejFnZlNoLXBSTkRHcEVnaFdFcnpVMGRVaVh6anN0eURGSG9HcXJoWWpGM0Z4U1U?oc=5"
+    },
+    {
+      "title": "美股逼近歷史新高！下週迎2大數據考驗 「太強」不見得是好事 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQOVhqV1J6MC1GTHRFc1lTWUF5WXhrUTFUVVdaT0t1VjBIX2h6eEp1b1pHN25YVEtGTkE1Mmo0OFJZTlFDa0F1aEdFTjFOTTY4VjBiRUZGZ0o0YjlVVmZlZV9Wbi1VLTdZWGx6amZxYjk3Vl9XU2psYWwtbzhVVjBJc2lTU25KS2l2OE1ReVJMRmtWUFd4QjRtc1FzUFBrclV5TDNJa0x2cGluMW55b2dIdWR5YnJMcWVmN1Rpc3lUM0tjNnEyZ3MweHd3OVE4QTZ0Q245c2R5Zk9nRW1aMzhIYzJkdzVrRjFQM2wyNDAyMV9iSnllYnN5TW4wRHJCZGI3WS13ZjV4QWhMdG1DalN3Ym9aOUxVMjhtUVRJdkRFN3U5U3RQcEtfbUlYdkF5Y2dBZVJUZnNNdmNwZWdGUVByWVotajVXaWpkT2FuRzV5U1ZpUDFsN2txRDNRV1B2aFdjeHl3TUxLVkhvLU5rby0wZnBRZW9MLVdGMTNmUlVaejE?oc=5"
+    },
+    {
+      "title": "＜台股熱點＞單櫃功耗狂飆 散熱族群集體大噴發 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xZnNRVm5vSTlUVEtCcTFrUmVPZEduYkZuTWhNUl8wS3l4UXdmMlBVNTNiNDBHS1NITExEdnF6VEZxQklheDhOZDNFUVlYRXh1TUtISEMzSGZ2RDE0czRr0gFkQVVfeXFMT01wdURIR0FFOTU0VjBqTllsbV9OUFVVSUgxczJCVU5maEFPcENzaEczZHFrR2FpZjZhTmE1ck4xUWpza2xDdTFyaUFCNjhqY3ZKb2VLUzEzWDFBbVhQdkE4NlJ3SA?oc=5"
+    },
+    {
+      "title": "台股5萬點只是表象？出口、失業率、薪資這些數據說話了| 財經 - Newtalk新聞",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPUFU3d1pvb3VfSW0tNDE0SVZFT1BUdGVUdGx0UVZQclBGU2x1NUI0RE9DNWR5WkRqZnNkeGdDT2h0UjRIMkhLSTd3dnp4aTQ1UWQ0Ni1laF93RlE?oc=5"
+    },
+    {
+      "title": "比特幣持穩8.43 萬美元、以太坊守2693 鎂，恐慌指數回落| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUFRfS01EOEdhM3FyN21hRkQxdzYtc3dXUjN3c2M5anhkRFlRaEtFU2F1ZlZ6eUlLZTZpV2Uwd29IR2lPVzQ2OGJ4d1NackhLSGdPRWlwUTY3T1lONXJpbEc1UEZiMW5POFZObThPWEdDYU0wRjVoeC1jUm4zVlJaNzh4X1k3NmJaNlRiY09wZnc1OVB5M3cw?oc=5"
+    },
+    {
+      "title": "外資倒貨、內資吞貨！台股10月先蹲後跳劇本曝光「台積電、國巨領軍基本面大噴發」12檔高勝率黑馬搶先看- 上市櫃 - 旺得富理財網",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYWlVQb1VGQzJoZWF6ZENGTEtRYkpkcW9GNXZkSzlZcXBwdHRsY0tVclBkaG14RlRBd2NZZlBlNFJWLXJoTnZ0a3NOcVcwNG90SHhSdTI4T2s1Tm1GNzk4Ykt2ck9aRmhuZlE?oc=5"
     }
   ]
 }
