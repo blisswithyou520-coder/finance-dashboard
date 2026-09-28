@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/28 06:33",
+  "updated_tw": "09/28 09:10",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84384.97,
-      "change": -21.4831,
-      "changePercent": -0.0255
+      "price": 84049.2,
+      "change": -357.2531,
+      "changePercent": -0.4233
     },
     "ETH": {
-      "price": 2677.35,
-      "change": -17.8631,
-      "changePercent": -0.6628
+      "price": 2672.47,
+      "change": -22.7431,
+      "changePercent": -0.8438
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.697,
-      "change": -0.1092,
-      "changePercent": -0.3433
+      "price": 31.809,
+      "change": 0.0028,
+      "changePercent": 0.0088
     },
     "JPYTWD": {
-      "price": 0.199,
-      "change": -0.0013,
-      "changePercent": -0.6381
+      "price": 0.1992,
+      "change": -0.0011,
+      "changePercent": -0.5383
     },
     "EURTWD": {
-      "price": 36.124,
-      "change": -0.0548,
-      "changePercent": -0.1514
+      "price": 36.223,
+      "change": 0.0442,
+      "changePercent": 0.1223
     },
     "CNYTWD": {
-      "price": 4.7253,
+      "price": 4.734,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4303.0,
-    "twd": 4385.0,
-    "tael": 164442.0,
-    "twdTotal": 136392.0,
-    "changePercent": -0.4212
+    "usd": 4261.8,
+    "twd": 4358.0,
+    "tael": 163443.0,
+    "twdTotal": 135564.0,
+    "changePercent": -1.3746
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -119,6 +119,10 @@
     {
       "title": "美股大崩盤倒數？高估值科技股先挫咧等！華爾街專家示警：只差一根導火線 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOUVJsOUxKeVpOczdsRkRzdmotazV4RmloWkFCamJ4bkdQMzUzdW4yWWVhNXVVcUl6TjhTeVo4UzEzaGJjcURzQnJiTmNrM1J0cWxoRzQ2ZE5RLWxGVUdZU0R5Vks1VGFrQk1aSGFPdUJ2bENkYmN1TDVZR20wTnB5emVyM0xQc0FwN1pOTUQ2YWVoWXp3Q29jLUVkWWVwX0tJZjFFVGFQZWdPQnF1Q2hTSC1Fd3hfMUJWd3JKRzBwZlZKRlJPbGlUNEVONnhDMXUxUGRHZTRCcDJxVC1rNkZNOXRGRnBDNU5Td3ZNbmN0Z3RkNk03UjRLWUhKcnF0NXBtVlZfVlZTV1k4OU8yc3RsVzFKREplbHhGRTVyVWdSMkRLeDI3Z0tfLUxsOC01NE81UXNJVnhNUUpSS2dCcGZ2YVNMNVVLWjdBejFsc0xuSHRfVkNIdDZ0MDN6dklIOFpxREg3NnJTaXFKNTBDR2NuZFI4Q01KUjZRNUNtY0YyNzBBeVl0QTJrUzdSVnE0d3VQV0xIUTJCTlU1Q0ZqMVVPdlhuemlrOC1FN3VfTnp4ZkVlejBucWQ1Z3N3N0VnX2pTeG1qNDl1c1E?oc=5"
+    },
+    {
+      "title": "外資今年來大舉買進帶動美股走強最強個股含晟碟、威騰電子及英特爾| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51cDNBbERYaWFKczBYUTI2WmdDdUxEZWlFdDRqbTNmcHdVdTRXTThPeVpTX05sc0RPUUU1enhNY3RDQjdlV2V6aUVwSklyUjdF?oc=5"
     },
     {
       "title": "金價會再跌？黃金現在可以買？黃金價格破4300美元何時穩住，大佛李其展：一原因成受害者「還得給時間」 - 今周刊",
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcUE4ekFGa1NIV3ZlREc1QVhTTEhHVzcxUWdWcDkyM20zRi1JUFNYUDNnckhpcXdzRWtpczhIY1poVG1uNDlfZzBuVjBDTnpUYzBZb3NlMTlyaGJPT3NiSVFxaVRRcGFPZXlIODRpZzlIY2d5QWlfam1oMTRfRENsT1QzVFloTnVjVlYwaVE1TTJBRUplWGVFMW9kSVkyQXl0Zmc?oc=5"
     },
     {
-      "title": "ETF布局 Q4股優於債 透過台股、海外科技股搶成長商機 - udn",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Objd2Z3h0UXJueFdGSEdfeHF6M3dnRWZlTXA5c3pvTkt2TDAyaTZycEJHX2ZnV0dYYTJrQ3F6OXVPOEZQbVplbmg0Sm1neXJheDkw0gFYQVVfeXFMT3ZEd3M4cnZhUUZ2bS1GX1Fjb0c1NHpWY1hPelpoRWlaMm5PdzNMTnNWOVRFc3RBOHJvM2JYUHQtZ3Z1cFFQb2p3VVVyaDJhT09YX3lsMC1fbA?oc=5"
+      "title": "比特幣現貨ETF連七日淨流入但動能減速，年初至今首度轉正 - BigGo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WZjNwT2Z5OTE5cjFxUTRIc18tNWl2ZG8zSVFoVUp1QWtOckR5ckpUOUt2X2xFamVjNmhMalRZWWZWNGtJTi1EWm0xNzBBS0I3cV80WE1DWlFPZ0p3ZVVwYlpTaXdRUjlJMGF6eVgtdEhoRW90MW5hb2tB?oc=5"
     },
     {
-      "title": "散戶大撤退！台股量能急凍背後 資金悄悄搬去「這2個地方」 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkUUx4ZFEtTW9lemlEM2ZMQUllODctd3lRTWNKN28wNFpPODlDYjB3M3ZWMktwSFZ3ZnlrUjBmUDU5U2tQaF9ZMXZfV0JEODhNR1RTdGN4YnZCYTFJcVVhUlF6dFhFNVNEckRDcUFR?oc=5"
+      "title": "台股中秋連假完「起漲有戲」？美股續強、ADR多數收紅 法人加碼股一次看 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQcFdZTFlRanB3THA4Z0ZSSlhTSU9uM1BUUDhxMEo2b0tuNC1QdzVuc3ExczN6eTNJV2NFTDB5QWtVNExNREM3ZVdUNzJHTVpNclZmMl93OXNoclhRM2RaMDZVMThYOHdiUlpFbEFXY2FSXzJ3dTRzaWxuZjZxbVFkN0Q4WlRBTkwyNTljTk0zZF9VYmZrVW1QSU0tcktLVENWNUNBakJGUHA4OVdLc3FLVUdIYWcxQ0p6eXd6aVQwa2pPanZ0dkdTZVlLelEyczRuNVlNUGRtWjVSMHZvNHVXV1hEMnVVSG1hTEdhRUZweTlnOU0wb3I5dzBRYVB3YjhLc2VDeVlSTTY3ZDhkTnVqWTg2cHYzek1ySXRPSVI4cGh6YnNfdUlaRGRmeU1PNXhnYzVSMFVUenYzM091NXJhdDlxSEF4NXZ0Mzc5bV9jbnJmaElWelZiWmk3U0xTSWtkaE9Pd2FqUE01RGJSUDV0Z2RobEQwZ1o4Rkx2ZHlRZTFJMV9k?oc=5"
     },
     {
-      "title": "買黃金跟股票一樣！不用跑銀樓　009832於10月開募 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzZW1uSm5MS1FVQVVBY1kwSUt0V3NiRnNodFgxX25UU3IxbkhoRk5PVFVpWExRWHlnODV1ei1wYnVDaXA0ZklNMHNac05QV05VSlHSAVBBVV95cUxQZ1ZKMjlIYzVucGtxZkJRNFFhQjNmbUl5UnlsWFktamQ5NEphdWxfRzZIU3NpRUhjNVNBeFB6WmV6a3Q5alJ2Y1JTNnN0dklvTQ?oc=5"
-    },
-    {
-      "title": "五萬點時代2／台股居高仍需思危留意黑天鵝 主動型ETF規模龐大資金導向 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNcE1zSVBGQ3pyWHZ6LW5wQUd4ZDhpSVdoeXV6dWtVWlMxaWtTUGszODZRWXI4NENRRDZUSXBzUHk3Y29UTFh6WHdxMG5CRmpEYXJLMHlvR1p5WHI3S2lnVlM4UmR6NEZCMVRjeDZ5cWtFOWxyY3hxNGRKbWR2RVhIaE9HTFpXaDc2Vi1oazVvRXltYTJJRTVMNW9YSkxOR1lINUZKUndpaTZWOVhGbWpfdDJZQ0RnWno0Z3F4ekxwbVpncmR3YWhlYXFSUXdXVl9QZHVMV0dVVWVTS1FNYnQ3aC05RnotaVBCckZ0RktFZkdnTWxFeHpxejRSb0tmTG0zRTE0SWUzSW0wd2R5Wk1rdnN6NkRFMXpCeGJyT1htY1Q3bF9VZDYweUw2dDJST2Y2bEN5WG90cHo5cEU2WnhocFRvUGVzWG5XLWJza2EzTmEwa29KWWw4dmlib0VNZG93ZUNqZEpfZERKX2lYbmdQa21iX0JYb3U1a2NTM3FNUURBdFhMMHlCTUV6TDc0ZGVBaFQxVDV6a2w2aFhCUWVpVzZtNHZuZDg5Rzk0UWV2MGM2YlBDTHZV?oc=5"
+      "title": "投顧看好6大利多 中秋節後展開「第四季旺季行情」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZN3RDdXByY2JhSzhBVUFZMk9raENqNHQzcTZBYnRxa1AxazVhTEJINzhhRlVYY1hxbmNsbUdOdGZtWHdyQWtaLTVGOW5KUmVMcnNxbXV2MFhCbWE3WVAw0gFkQVVfeXFMTjhzLV9jQzIxYWs5T294bVIzU2FuU1Fnc2t2VXNuNWt4SHlqemhFMXV4SFdOVnZvaXZmN2RhcFBPb21sYWFaR01oX3VSazMyS2wzM3FyZnh0TlBaQ1dvRXg2SXZvcQ?oc=5"
     }
   ]
 }
