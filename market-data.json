@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/29 21:45",
+  "updated_tw": "09/30 03:06",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 229.92,
-      "change": 1.06,
-      "changePercent": 0.4632
+      "price": 228.399,
+      "change": -0.461,
+      "changePercent": -0.2014
     },
     "AAPL": {
-      "price": 332.685,
-      "change": -5.715,
-      "changePercent": -1.6888
+      "price": 330.342,
+      "change": -8.058,
+      "changePercent": -2.3812
     },
     "TSLA": {
-      "price": 352.419,
-      "change": -5.031,
-      "changePercent": -1.4075
+      "price": 354.3,
+      "change": -3.15,
+      "changePercent": -0.8812
     },
     "QQQ": {
-      "price": 736.908,
-      "change": 0.378,
-      "changePercent": 0.0513
+      "price": 738.9,
+      "change": 2.37,
+      "changePercent": 0.3218
     },
     "SPY": {
-      "price": 765.1,
-      "change": -0.51,
-      "changePercent": -0.0666
+      "price": 764.97,
+      "change": -0.64,
+      "changePercent": -0.0836
     },
     "SCHD": {
-      "price": 32.91,
-      "change": -0.1,
-      "changePercent": -0.3029
+      "price": 32.81,
+      "change": -0.2,
+      "changePercent": -0.6059
     },
     "VOO": {
-      "price": 703.25,
-      "change": -0.36,
-      "changePercent": -0.0512
+      "price": 703.14,
+      "change": -0.47,
+      "changePercent": -0.0668
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84206.4,
-      "change": 703.7906,
-      "changePercent": 0.8428
+      "price": 83653.13,
+      "change": 150.5206,
+      "changePercent": 0.1803
     },
     "ETH": {
-      "price": 2726.18,
-      "change": 37.5113,
-      "changePercent": 1.3952
+      "price": 2698.01,
+      "change": 9.3413,
+      "changePercent": 0.3474
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.824,
-      "change": 0.0453,
-      "changePercent": 0.1425
+      "price": 31.801,
+      "change": 0.0223,
+      "changePercent": 0.0702
     },
     "JPYTWD": {
-      "price": 0.1999,
-      "change": -0.0019,
-      "changePercent": -0.9435
+      "price": 0.2001,
+      "change": -0.0017,
+      "changePercent": -0.8444
     },
     "EURTWD": {
-      "price": 36.134,
-      "change": -0.0229,
-      "changePercent": -0.0635
+      "price": 36.113,
+      "change": -0.0439,
+      "changePercent": -0.1215
     },
     "CNYTWD": {
-      "price": 4.7487,
+      "price": 4.7443,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4187.9,
-    "twd": 4285.0,
-    "tael": 160684.0,
-    "twdTotal": 133276.0,
-    "changePercent": 0.4678
+    "usd": 4202.7,
+    "twd": 4297.0,
+    "tael": 161136.0,
+    "twdTotal": 133650.0,
+    "changePercent": 0.8229
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,16 @@
   },
   "news": [
     {
+      "title": "〈美股早盤〉油價、美債殖利率終於降溫！標普、那指開高喘口氣 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xenhWNjZuRTZBMUhWMDhCa0UwWGNzRjVUR2tRMlJGc3k3SDFkbWw1VG9mdWwtaTdmOWVDTnV6ZjZRR2szRFU1Z3ZZRlk4MnM?oc=5"
+    },
+    {
       "title": "美股狂瀉！台股連假後開盤急跌150點 專家警告「這波恐還沒完」 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNa0ZFT2tRd0RQcnZ1WGZ0UThaanlUYWpvR1UtWE5YQkxYeWdTNGxYT3pxUDYyalhBYjc4ZlM3ZFEzLVNscGdxdmkzTjU5a05mYjlmUGhWaUl6MU1LUXB3Qk81SURWNFdBMlhCd0Z3X0lieXNuZ01sQm5ENkJtVnZ2TFJla01BR0c0Xzl5ZmkxbWpzcWtrczhkVE5pNXhWR3ljdjJiaVFOaC14WlNSXzhaaFhfRU5qWndIR0VBMWFnS1dkYXNoYlY1czdmM0Fob3BfWWJmcUt3SE1tb2hZWWM2cE0wSGJNcHJaOHoyRl9nTkRrcGc5dm5GS0RNTU5wVlU4NGRqWkhoQmFPMm14OC0yR3R4NG9XdEVYSmJHTDFvS2Q1dUFCY1REWWNfckMzS1F6LVd4QzhzOXlDTUNLSmdCemZ5RmRCeDNjZFh4aHFlZy13U2N3dF85YXkteUhJVXVQOWZKRkJLYmRFNHVlMjQ1dEFyQXZTWW90WDdBWVRvMTZReUU?oc=5"
     },
     {
-      "title": "〈美股盤後〉10年期美債殖利率升破5.2% 四大指數盡墨 費半摔超1.6% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMX0RSOG9YWEVhcGdaalJoZnJmdkNENHp3U3laR21XVFVCSVpMZk5aWHVyNTJVRmNVdGJ6WjZSeEF6VjVmcmVNUTYwZ1VYNkE?oc=5"
+      "title": "大摩首席預測：美股若回調10%，將引爆年底最強狂飆！ - capitalfutures.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlJDTEo2OVItVlhFQ2N3aXc2TkFGcVdOdmFITmFNaHpuNkJZaTZUMmVBeVo2V0NOS1ZnaFczTDFWeHdxek9HRzZmVWdTTEQ5bmlkNFlUS2tyYjg2NlhVV3BQUy1nY2JTOUg4XzQyTjZYeHVlVXF0SFZBUkxDa2hvWUdoTzhNSmZ0VkNvaVhqZw?oc=5"
     },
     {
       "title": "黃金急殺！跌至逾7週低點 專家示警「完美風暴」 - 自由財經",
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpbmdBbkNHZXRHc3Jma0NFWndWTVJ1NnlXUEtWODBEZHM2T29sSjE3SlBnbFJWX1k5ZmUtYnlzeXVzZWtocnQ4LW4yX2tzaEJJMGFObjBRMVM?oc=5"
     },
     {
+      "title": "美股早盤／油價下跌、科技股回神！費半攀漲1.7% 市場關注AI午餐會| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uaHJpX1AwVEwyVE1OdDQwdnk3WUhuS3YzNVg0VXJ3OVQxNmxzVHliZ0pta0g4bjhzai1fTEc5cnppbzFncUtGZnFhRk9la29r?oc=5"
+    },
+    {
       "title": "台股連假後變盤跌392點 失守4萬8關卡 - 公視新聞網PNN",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1talRGQ2REREwxRU9OUnhnVDZmcGNJYXF0UEpIWDRBVzVoM0pmOF9NTTRVc1ZvaERhNWwtWmtVR1FpOHFtNk9OYklZTW43M1E?oc=5"
     },
     {
       "title": "《台股盤後》震盪收跌392點失守48K及5日線- 新聞 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTmhVNmhWd0VoNUx5VDYtd0xTRElOZy0yWU51dllsVTllMmNjamllaWJSeEFIRFhUOGtuWERObGxIbVBqZnQxVDBmSkhwRnRaZXNIbXlMM2NULTdURUZXR2ZvaUZrTTEzX1RpSnViNE5jamoxSFFVWkJIYW5UeTBQVDdZYW5lcVh0YkktSDd6SGlZUQ?oc=5"
-    },
-    {
-      "title": "台股擂台／「股市獲利王」何文高：嘉晶操作建議量力而為 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5elNodFljRHg0aWtTUVJnN01jbU1qN0JORWVOYWF2S0c2U0ZCbFVZeUZZbDhQd05UaUlzRC0tNnZoQ2ZRbENUemkxcF9jUTVBV1kyTGtZMmZXeHRv?oc=5"
-    },
-    {
-      "title": "Anthony Pompliano：比特币是民众应对政府治理不善的“保险” - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yUlk0ZjF2WWdsVl9QWmx3RU1yTjFVeGdkZHQ2dndFMUZFU1VEWkdHY3dGazh4RzBkb0lnRHo5dTZrNG1fSjZuUUtqbFhKMlZvbnp6V05zSHE2SWd1N3hiQ0kyMjZwUQ?oc=5"
     }
   ]
 }
