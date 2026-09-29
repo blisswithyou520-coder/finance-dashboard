@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/29 05:10",
+  "updated_tw": "09/29 08:59",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -36,80 +36,80 @@
   "us": {
     "NVDA": {
       "price": 228.86,
-      "change": 3.79,
-      "changePercent": 1.6839
+      "change": 4.28,
+      "changePercent": 1.9058
     },
     "AAPL": {
       "price": 338.4,
-      "change": -2.67,
-      "changePercent": -0.7828
+      "change": 2.48,
+      "changePercent": 0.7383
     },
     "TSLA": {
       "price": 357.45,
-      "change": -14.66,
-      "changePercent": -3.9397
+      "change": -20.49,
+      "changePercent": -5.4215
     },
     "QQQ": {
       "price": 736.53,
-      "change": -7.97,
-      "changePercent": -1.0705
+      "change": -4.57,
+      "changePercent": -0.6166
     },
     "SPY": {
       "price": 765.61,
-      "change": -5.74,
-      "changePercent": -0.7441
+      "change": -1.57,
+      "changePercent": -0.2046
     },
     "SCHD": {
       "price": 33.01,
-      "change": -0.2,
-      "changePercent": -0.6022
+      "change": -0.09,
+      "changePercent": -0.2719
     },
     "VOO": {
       "price": 703.61,
-      "change": -7.18,
-      "changePercent": -1.0101
+      "change": -3.38,
+      "changePercent": -0.4781
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83550.97,
-      "change": -907.1159,
-      "changePercent": -1.074
+      "price": 83171.62,
+      "change": -1286.4659,
+      "changePercent": -1.5232
     },
     "ETH": {
-      "price": 2685.47,
-      "change": -1.4568,
-      "changePercent": -0.0542
+      "price": 2676.83,
+      "change": -10.0968,
+      "changePercent": -0.3758
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.777,
-      "change": -0.0017,
-      "changePercent": -0.0053
+      "price": 31.781,
+      "change": 0.0023,
+      "changePercent": 0.0072
     },
     "JPYTWD": {
-      "price": 0.1997,
-      "change": -0.0021,
-      "changePercent": -1.0426
+      "price": 0.1998,
+      "change": -0.002,
+      "changePercent": -0.993
     },
     "EURTWD": {
-      "price": 36.164,
-      "change": 0.0071,
-      "changePercent": 0.0195
+      "price": 36.172,
+      "change": 0.0151,
+      "changePercent": 0.0416
     },
     "CNYTWD": {
-      "price": 4.7412,
+      "price": 4.743,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4148.5,
-    "twd": 4238.0,
-    "tael": 158937.0,
-    "twdTotal": 131827.0,
-    "changePercent": -3.9966
+    "usd": 4150.6,
+    "twd": 4241.0,
+    "tael": 159038.0,
+    "twdTotal": 131910.0,
+    "changePercent": -3.948
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股狂瀉台股剉咧等！專家警告連假後恐要一次補回來 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQSHFSMGJRdDJaSnVqVkpzdGs0VWZVdTRWY21vS2t0elJmVzVqUExlckhldHFiejJ3dkZicm4zaGhBWXF2YzlIS1I0QTVZdHVOX0JDUURhdkgwOXcwdXJITHV1TFB5d2g3aG1NU3hSMWVoQk1OZE04bkhfa1M1cE5FUHU0MTFFRHhiMTN1M1VnaXpnSWcxNjc2THdsUHIzU3piNVZyOFpHZ2lCMmIxY3p2NkJXRHdLQWJFZE1pbkZUdmFXeHpnaThuUE5ldm1uU2xwLVBVamdMS04yYlEyYmZzdzF3OW11M1pOb3lnT0tWWE5oT0ZRTlZkLV9PQThhbkFQd2Z0M19mMjJaX0NTb3J4eEIycENSN002SmhVX29VTE81OV9DREVubVBCY3BvZW9aRUlTdTdwZXpoUnlhMlpRSkM1bktEMTJzeWtYbTVCSldvSExiZVJQRVFMVG5Edw?oc=5"
+      "title": "〈美股盤後〉10年期美債殖利率升破5.2% 四大指數盡墨 費半摔超1.6% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMX0RSOG9YWEVhcGdaalJoZnJmdkNENHp3U3laR21XVFVCSVpMZk5aWHVyNTJVRmNVdGJ6WjZSeEF6VjVmcmVNUTYwZ1VYNkE?oc=5"
     },
     {
-      "title": "台股皮繃緊？美股4大指數喊殺、AI股嚇趴 輝達成全村的希望逆勢走揚 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yc3lYOWdRZ3o0OXZ1N2ZvVC10UUVSallwRkJnalkzdUlOUXEzT01VUjIwSlM5Sm1ocHdLdXhNVGprSVZldEFIb0liSklQRGdieWxQdjVuNU9qaU1US1lN0gFkQVVfeXFMTmEyX3MxRXZJSUFYWWU3dldaN0J3RWdZc0YwenRjb3FhT2t1X05DSXdXUGxXQWpRWVhlRjZUbjdpS0pWNU5sSmR2UF8yaVdBdEQxSUNvdmJYZ05jbGl0TnpJVWdYRw?oc=5"
-    },
-    {
-      "title": "美股早盤／油價+殖利率上漲拖累四大指數齊跌 輝達逆勢大漲3% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCU3hGNEoybVhEcEpEUXgtUjJjU0FHRFZXVmVJN25FdjY3V2dhb1pmaXE5ZndZb19nTU1KTnN4ZDZTUmw4dVpwZjVBOUV0QXpF?oc=5"
-    },
-    {
-      "title": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低、道瓊跌逾300點 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWVThSd19TMVN4MkpZQUlyLVBqQ1VNcUVGUVhoWHhjNHRtdUQtUWRRMjY2N1pfTmpBMloxTG1IMk4zVHV5aXB5MHQwZ01wQXM?oc=5"
-    },
-    {
-      "title": "黃金跌破4200美元：三重壓力齊升，空頭盯上4000甚至38 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQURXZUozeXJGbkVMOC00bjNoSjl3LWxrVHg3QzZrYXVKa2xIWjV2OTF6akhJc0JQS2hTUTZKOVUyazBlWlJ6eEcwZVNHYUIxdmlOMUFSYXpHZnFBdkU1clNVUGtLSXVQR2ZDbUpNX2JHeXUxYlZ3NzhaWDIzZjBMTl8wSXQxRU1qblE3NXZITQ?oc=5"
-    },
-    {
-      "title": "台股中秋連假後首開盤！美股收紅助陣　近10年節後5日上漲率8成 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IQzEwemV6UE9CU0M3cjE2WHY1MVp3SWtFbGtjTzJUQlU4NDRxTjNhWHlHUU5rQUxyOWM3bExydTR2NUJaMVFhYlFuQl9OMkpSR1HSAVBBVV95cUxQNjV3Ynh3dldGLWxkS3hQcGUwblh1RnBudXJySWlHX0JObkZKbUNsbmw0T002MndUaXRMbUJMT2JUdS1rT0ZpSGNzRFJ4dGdKUA?oc=5"
+      "title": "美股收盤》美伊談判無進展 美股全收黑 台積電ADR漲0.50％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54UzBldUYwbDlYSk1IQTlZVjBTNEhZVFR4V3FfYUJBSFg2bEc3YVRsZVJKc1p1ZlZYcmI5RkJrMXJKeG54b2xXN00yemZ1T1ZQdi14cUdiRGE5cHZoSUZz0gFkQVVfeXFMTWdoeEZMU0g2WGtwZ0d3SXpTYUFwbXp5clpWWkRCWEpBekJmeHZGQjNVdDE4cmF3Sml1eUVKdkU4OGQ2Skt1TEFMUTJrcmxsZmRMamRXMklWYUVibms5OW51bXA2aA?oc=5"
     },
     {
       "title": "黃金重摔2.7%！Fed升息預期升溫 專家曝「雙重壓力」夾擊 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxObHRrNk9zSktLU1kwcGZrc3ZtMTFoWmVZQnJYSFVoeXA3WW0yVUhQaHRTaWhhNzJiWFY3M1dpR2pBX05zR2laUHd1ZWc0VncwcXJmWXp2dlY4WExhUVRkVGE3RUQ1UThjQUxpYWwySDI2YmloSUxiNjFEbGpMWG1OSnVDU0k4ZHJOSmJLNUV6T0dNbFljUEN1eV83S3dOUlJna2RSdlBUZUcybXlQU2wyU0w3OUFlMDJsc0E1TXFWdC1SbEtnSC1tOExjTDM0aUF2Q2d3OFFLSE0taXg5SVZ5UnhtVGYzMkdOTnJReDVkYndrYzc0N2dWMTlGTTVVVjJfb1FRTmh3M0oxY0huTEhnT19QVDlSQjlDQVJxMEU5SHNfZ3hmaFhnVUhodUZHTzhmdkV3?oc=5"
     },
     {
-      "title": "台股10月行情「四多」加持 法人看好大盤挑戰50K | 市場焦點 | 證券 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vN1JGR0VKaGkwb2s4STdvMkJNclFna0ROTk5ldndCOVZKbHlBRFFQRG1CY0toLXJmdDA4QTVhMk1vNUpWU2NxckNBQzBNeDNKSTNIdG4ySjdBZw?oc=5"
+      "title": "美伊談判0進展美股全收黑　台積電ADR逆勢漲0.50％ - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mUU9xYVdOMkdUVWVFa1FHa3h1M1hfUkV6VTdidjA0YXYwR1liRUxKNG1lempZNHZIRlV5TFc0aW5jVHlhbEptZ0htZzhhTmtWZkHSAVBBVV95cUxNa1Mxd2hWalNZdGZtcGZNNjNvRnB3NEVfQ1dEUGt6Uk5PQ1Q5NTlKdDNVaWxjRk9Idy1La2dqal9ab1BUX3psTm9XN0U5TzMxVg?oc=5"
+    },
+    {
+      "title": "美股收盤／四大指數收黑 費半跌1.6% 美伊僵局推升通膨疑慮 | 美股動態 | 國際 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vOXBDNks1OE1XVnpDOFlMaW5WUF9CSTJfT29HM3VKSnFselIxLXkzNVFhQVgtTlFyUmd0YXY2S3k2NXNIVHhFOTZZUlphUWVBdzJ6OUNQRG8tU3pv?oc=5"
+    },
+    {
+      "title": "《貴金屬》通膨疑慮加劇 COMEX黃金下跌3.5% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY0dVYmFPWlhfYUhmdHZ6MEIyU0tvQk1Xd3E1cFFIMU1mOXZEZGdHTmNDUDBSZ0ZKaW05cXF3eTVVdDN5LXVfOVlUenkwZzhKRU40VFFCeGlLUjNWbXlMZ3V5VGw0bEFHaWRmRTdnR2hmR0F0OUVJZnNmNVlrUEJ6bnhJclJQcEFfa3pZaVgxdmlsUQ?oc=5"
+    },
+    {
+      "title": "台股皮繃緊？美股4大指數喊殺、AI股嚇趴 輝達成全村的希望逆勢走揚 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yc3lYOWdRZ3o0OXZ1N2ZvVC10UUVSallwRkJnalkzdUlOUXEzT01VUjIwSlM5Sm1ocHdLdXhNVGprSVZldEFIb0liSklQRGdieWxQdjVuNU9qaU1US1lN0gFkQVVfeXFMTmEyX3MxRXZJSUFYWWU3dldaN0J3RWdZc0YwenRjb3FhT2t1X05DSXdXUGxXQWpRWVhlRjZUbjdpS0pWNU5sSmR2UF8yaVdBdEQxSUNvdmJYZ05jbGl0TnpJVWdYRw?oc=5"
+    },
+    {
+      "title": "台股明天慘了？台積電ADR下挫1.66%、聯電ADR崩3.54% 美股四大指數全走跌「費半重摔3.09%」 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZlJHeHg3MmZWYTNkaFU4Z09LOHFsb2t5TG5qZmZxZ3A5enJ2M2pKNkJDVm5QUG5WaDFQazAzVmhQcjEzOVplMkt4a19BdDdaWHhxdmRjSkdXcFYzOUctRHpvZ1RnblZIdXRYb3ZTYjFwbkhIRGF6enItWXNxWjJuMHloblFKZWdscm9hV1hlbnNwM2NuU0k0WXFlZGVtWFRCOGdycEE4NDUzRDUyUGh3UDZFYm9HWk9TX3NuZGwxYzc2QjcyV0gtMi0yLVlodkdxX0h2aE9qeThaZnJXY1g5NUszY3hUdTVTaU1aOHJmZ1kzTVdUcEQyR3p4enJDSUhUbG9uM0M5US1kNENQSHNIX3NhMWl2c3lZ?oc=5"
     }
   ]
 }
