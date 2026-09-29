@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/30 03:06",
+  "updated_tw": "09/30 06:57",
   "taiwan": {
     "2330": {
       "price": 2475.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 228.399,
-      "change": -0.461,
-      "changePercent": -0.2014
+      "price": 227.21,
+      "change": -1.65,
+      "changePercent": -0.721
     },
     "AAPL": {
-      "price": 330.342,
-      "change": -8.058,
-      "changePercent": -2.3812
+      "price": 329.4,
+      "change": -9.0,
+      "changePercent": -2.6596
     },
     "TSLA": {
-      "price": 354.3,
-      "change": -3.15,
-      "changePercent": -0.8812
+      "price": 352.84,
+      "change": -4.61,
+      "changePercent": -1.2897
     },
     "QQQ": {
-      "price": 738.9,
-      "change": 2.37,
-      "changePercent": 0.3218
+      "price": 737.93,
+      "change": 1.4,
+      "changePercent": 0.1901
     },
     "SPY": {
-      "price": 764.97,
-      "change": -0.64,
-      "changePercent": -0.0836
+      "price": 764.2,
+      "change": -1.41,
+      "changePercent": -0.1842
     },
     "SCHD": {
-      "price": 32.81,
-      "change": -0.2,
-      "changePercent": -0.6059
+      "price": 32.85,
+      "change": -0.16,
+      "changePercent": -0.4847
     },
     "VOO": {
-      "price": 703.14,
-      "change": -0.47,
-      "changePercent": -0.0668
+      "price": 702.46,
+      "change": -1.15,
+      "changePercent": -0.1634
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83653.13,
-      "change": 150.5206,
-      "changePercent": 0.1803
+      "price": 83586.15,
+      "change": 83.5406,
+      "changePercent": 0.1
     },
     "ETH": {
-      "price": 2698.01,
-      "change": 9.3413,
-      "changePercent": 0.3474
+      "price": 2681.21,
+      "change": -7.4587,
+      "changePercent": -0.2774
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.801,
-      "change": 0.0223,
-      "changePercent": 0.0702
+      "price": 31.865,
+      "change": 0.0828,
+      "changePercent": 0.2605
     },
     "JPYTWD": {
-      "price": 0.2001,
+      "price": 0.2003,
       "change": -0.0017,
-      "changePercent": -0.8444
+      "changePercent": -0.8254
     },
     "EURTWD": {
-      "price": 36.113,
-      "change": -0.0439,
-      "changePercent": -0.1215
+      "price": 36.176,
+      "change": 0.0377,
+      "changePercent": 0.1043
     },
     "CNYTWD": {
-      "price": 4.7443,
+      "price": 4.7538,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4202.7,
-    "twd": 4297.0,
-    "tael": 161136.0,
-    "twdTotal": 133650.0,
-    "changePercent": 0.8229
+    "usd": 4210.4,
+    "twd": 4313.0,
+    "tael": 161756.0,
+    "twdTotal": 134164.0,
+    "changePercent": 1.0076
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,8 +117,8 @@
   },
   "news": [
     {
-      "title": "〈美股早盤〉油價、美債殖利率終於降溫！標普、那指開高喘口氣 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xenhWNjZuRTZBMUhWMDhCa0UwWGNzRjVUR2tRMlJGc3k3SDFkbWw1VG9mdWwtaTdmOWVDTnV6ZjZRR2szRFU1Z3ZZRlk4MnM?oc=5"
+      "title": "〈美股盤後〉30年期美債殖利率創24年新高 三大指數續黑 蘋果領跌道瓊 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iYWlRVm43cDVHOW5Gd1lnY3BlUHlQODc1aDFOR04tOGIybHRCRVVSX0Z5ZVczVkFRWnU4TjFDdGsxR3NMNGc1XzlpZC1aVEE?oc=5"
     },
     {
       "title": "美股狂瀉！台股連假後開盤急跌150點 專家警告「這波恐還沒完」 - Yahoo股市",
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlJDTEo2OVItVlhFQ2N3aXc2TkFGcVdOdmFITmFNaHpuNkJZaTZUMmVBeVo2V0NOS1ZnaFczTDFWeHdxek9HRzZmVWdTTEQ5bmlkNFlUS2tyYjg2NlhVV3BQUy1nY2JTOUg4XzQyTjZYeHVlVXF0SFZBUkxDa2hvWUdoTzhNSmZ0VkNvaVhqZw?oc=5"
     },
     {
+      "title": "《貴金屬》COMEX黃金上漲0.3% ETF持倉增加- 新聞 - moneydj.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeGxNalE2UkxRT0ZFODF2RVpxdmRuNnh2M2daQ3lVS0lZcmtkWFV2LXRnc05zcTR5Y0JCemRKeVluVDEzc2NwMVRTWVdUTUZ0RlFtVjRWdjBPU0hKSWRTenl4V1hCSEtDNllzeGRpdkxDVEk0Qk5yMXpRdFUwbVRlV0dET2Z0NTM4OEJsUk9mRGwzZw?oc=5"
+    },
+    {
       "title": "黃金急殺！跌至逾7週低點 專家示警「完美風暴」 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpSzg5QmpMMjFFME0yVS1FaEl6UFVfUmRadWN1UE5ieUNIY0Y3cGs5cFJnSnpCdWNHZzY5M3FmMFhQVFREWW9RVy1tMzZWRkhONWJWNTdOVnBuczRBVmlJ0gFkQVVfeXFMUFRNVWNGQ1Q0ZmtUanlGTk9uem4xU3dYTVBENDk2M3VRWTVMSnlVQ0Y5OEJiUVBxTHNiRGxQeDB3VGFpcHVDc0lWU3VmblkteHRRQzBrQ2FtUk95SE9lOGFjZkV4RQ?oc=5"
     },
     {
-      "title": "油價跌，美股期貨反彈，那看起來應該是沒什麼關係，我們巨有應該... - 股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpbmdBbkNHZXRHc3Jma0NFWndWTVJ1NnlXUEtWODBEZHM2T29sSjE3SlBnbFJWX1k5ZmUtYnlzeXVzZWtocnQ4LW4yX2tzaEJJMGFObjBRMVM?oc=5"
+      "title": "油價回落公債殖利率攀升 美股3大指數收低費半漲逾1% - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzZ1k1bm1sT0NXcEZLZFp1Sk01SHBzN0JvdmtHN2VuZXZwRm9JeVNWUGRYeFBSYnU1QjBrUDl6bk5wMkRmazlPRlVuZmNSX1hKUE1MSS02VXp3bloz0gFiQVVfeXFMTnU0bkV6b0UwRHVFVU9uUDF5SFVjZktWazB6aHQzVDJJWW9CRThDSEpLNWZVMDQ2bmkxa0pYQ0tlbV95MzBLR21CUVc0WDdMMjh1ekZld1JwMFhSWFhXUlBSbEE?oc=5"
     },
     {
-      "title": "美股早盤／油價下跌、科技股回神！費半攀漲1.7% 市場關注AI午餐會| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uaHJpX1AwVEwyVE1OdDQwdnk3WUhuS3YzNVg0VXJ3OVQxNmxzVHliZ0pta0g4bjhzai1fTEc5cnppbzFncUtGZnFhRk9la29r?oc=5"
+      "title": "〈美股早盤〉油價、美債殖利率終於降溫！標普、那指開高喘口氣 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xenhWNjZuRTZBMUhWMDhCa0UwWGNzRjVUR2tRMlJGc3k3SDFkbWw1VG9mdWwtaTdmOWVDTnV6ZjZRR2szRFU1Z3ZZRlk4MnM?oc=5"
     },
     {
-      "title": "台股連假後變盤跌392點 失守4萬8關卡 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1talRGQ2REREwxRU9OUnhnVDZmcGNJYXF0UEpIWDRBVzVoM0pmOF9NTTRVc1ZvaERhNWwtWmtVR1FpOHFtNk9OYklZTW43M1E?oc=5"
-    },
-    {
-      "title": "《台股盤後》震盪收跌392點失守48K及5日線- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTmhVNmhWd0VoNUx5VDYtd0xTRElOZy0yWU51dllsVTllMmNjamllaWJSeEFIRFhUOGtuWERObGxIbVBqZnQxVDBmSkhwRnRaZXNIbXlMM2NULTdURUZXR2ZvaUZrTTEzX1RpSnViNE5jamoxSFFVWkJIYW5UeTBQVDdZYW5lcVh0YkktSDd6SGlZUQ?oc=5"
+      "title": "美股收盤》公債殖利率飆高 美股多收黑、台積電ADR漲0.90％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NcVQ4Ym43cVVYVEJfUy0zeThjWnMxT182am9UNjhNYmxDQzludGZ0OHFiNmJNRkFCbEtfblVMS2dmZThkVEt1YUdTcWRLQjExbU5ZMEhLUkRKZVIzZ2lV0gFkQVVfeXFMTzdHYzB6Q1RUMHhhWlVjTGlqNlVTLThfVmlGbU5wN3NSemZFd25vRXpZZVV2b3JTNnpjRTlRdTVfT0xSTklwQ0hzQVZkTFlHVDYzWXpteWRpT0hDZmR4ZkVtdllhQg?oc=5"
     }
   ]
 }
