@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/30 22:55",
+  "updated_tw": "10/01 03:50",
   "taiwan": {
     "2330": {
       "price": 2480.0,
@@ -19,97 +19,97 @@
     },
     "0050": {
       "price": 112.05,
-      "change": -0.35,
-      "changePercent": -0.3114
+      "change": -0.4,
+      "changePercent": -0.3557
     },
     "00878": {
       "price": 34.9,
-      "change": 0.02,
-      "changePercent": 0.0573
+      "change": -0.19,
+      "changePercent": -0.5415
     },
     "00919": {
       "price": 31.88,
-      "change": 0.05,
-      "changePercent": 0.1571
+      "change": -0.18,
+      "changePercent": -0.5615
     }
   },
   "us": {
     "NVDA": {
-      "price": 231.077,
-      "change": 3.867,
-      "changePercent": 1.7019
+      "price": 230.02,
+      "change": 2.81,
+      "changePercent": 1.2367
     },
     "AAPL": {
-      "price": 338.97,
-      "change": 9.57,
-      "changePercent": 2.9053
+      "price": 334.375,
+      "change": 4.975,
+      "changePercent": 1.5103
     },
     "TSLA": {
-      "price": 348.95,
-      "change": -3.89,
-      "changePercent": -1.1025
+      "price": 352.8,
+      "change": -0.04,
+      "changePercent": -0.0113
     },
     "QQQ": {
-      "price": 744.27,
-      "change": 6.34,
-      "changePercent": 0.8592
+      "price": 742.05,
+      "change": 4.12,
+      "changePercent": 0.5583
     },
     "SPY": {
-      "price": 769.32,
-      "change": 5.12,
-      "changePercent": 0.67
+      "price": 764.53,
+      "change": 0.33,
+      "changePercent": 0.0432
     },
     "SCHD": {
-      "price": 32.845,
-      "change": -0.005,
-      "changePercent": -0.0152
+      "price": 32.565,
+      "change": -0.285,
+      "changePercent": -0.8676
     },
     "VOO": {
-      "price": 707.13,
-      "change": 4.67,
-      "changePercent": 0.6648
+      "price": 702.72,
+      "change": 0.26,
+      "changePercent": 0.037
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83845.41,
-      "change": 222.9803,
-      "changePercent": 0.2667
+      "price": 83613.78,
+      "change": -8.6497,
+      "changePercent": -0.0103
     },
     "ETH": {
-      "price": 2679.81,
-      "change": 3.0878,
-      "changePercent": 0.1154
+      "price": 2669.34,
+      "change": -7.3822,
+      "changePercent": -0.2758
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.841,
-      "change": 0.0588,
-      "changePercent": 0.185
+      "price": 31.875,
+      "change": 0.0928,
+      "changePercent": 0.292
     },
     "JPYTWD": {
-      "price": 0.2006,
-      "change": -0.0014,
-      "changePercent": -0.6768
+      "price": 0.2004,
+      "change": -0.0016,
+      "changePercent": -0.7759
     },
     "EURTWD": {
-      "price": 36.174,
-      "change": 0.0357,
-      "changePercent": 0.0988
+      "price": 36.157,
+      "change": 0.0187,
+      "changePercent": 0.0517
     },
     "CNYTWD": {
-      "price": 4.7518,
+      "price": 4.7537,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4202.8,
-    "twd": 4302.0,
-    "tael": 161342.0,
-    "twdTotal": 133821.0,
-    "changePercent": 0.5527
+    "usd": 4186.3,
+    "twd": 4290.0,
+    "tael": 160880.0,
+    "twdTotal": 133438.0,
+    "changePercent": 0.1579
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,11 +117,15 @@
   },
   "news": [
     {
+      "title": "〈美股盤後〉30年期美債殖利率創24年新高 三大指數續黑 蘋果領跌道瓊 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iYWlRVm43cDVHOW5Gd1lnY3BlUHlQODc1aDFOR04tOGIybHRCRVVSX0Z5ZVczVkFRWnU4TjFDdGsxR3NMNGc1XzlpZC1aVEE?oc=5"
+    },
+    {
       "title": "美股兩樣情！三大指數皆墨 「這指數」卻逆勢大漲1.32% - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZzE4c19Ic1BnWUZyS2txVldmRFpNV2M0RTRkdEJWYUxhUTJ1QVFhOGhFdmFVWTYtY2pSS180WVNTQlpfNTZ3NjM4eHhhSG5BYWFRdk45RkcxUkhPQ3UyVFV4bDZOb3o5bVowamFZTGk3UHhGcjlhWk5EbVlteDN0aUJITXdqbEdKc1ZjVUUzam9fMGY1NzUxZDR1UlhMaHlfdDJhVlBsN1JZRmhDaTUyT2JybUpheU9nZmxEY2dnUFA1SDNLcm9rZnFpUXNFOE9DcDFhS3FMTG4xOWFsVTVhekdSTzlraWxSa2lXUi01UkJrQ09lU3IwNWVTcGhCR2NjdVFtOS16MEoxSi1DQmpTMWtHYWs0Nk1uWVJmTXRoY0xIV2hadlFXeEl2cWtjazJqM1ROSHljVFo3VExJTmo4V0hkZ1JIX3Rj?oc=5"
     },
     {
-      "title": "黃金不太妙！低點反彈後 專家坦白全說了 - 自由財經",
+      "title": "黃金不太妙！低點反彈後 專家坦白全說了 - ec.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tY2k1ay11d1hTX2d0cDEweUhuU3VtSTBTVnotVmg4Uk1uUDBUbzhUN0dydUdkbmpDY18zcFlpNV9KVnZWTXVIS3VTR2oxTVVSUktuMGpJNkVLSzBOZ3RF0gFkQVVfeXFMTnIwTmdzTzVFd01MbmppQ2dQWmphUHRoOFVBSmFGQlVaLXFBMWE2R2Y4dS1TZTJOYVowR0lveXNLejFkREQxTW5wd3hzZGxxOGhDUGFtbnlHQW0zNWxUcDJXS0FKQQ?oc=5"
     },
     {
@@ -129,20 +133,16 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGw3YlpIUm9ua2dYTjdiTFJHVXp3SU9veDZ6RGc5aVY4RkdsWWFGUEVJYnFJS3BfdG16V3BmQ1FlRXJFT0hMQ1RfbjdRMDc4eU1yOHhGRkFDR0hXTVlIM0w4WkhlenV0YzNtR2kzV3c4Q0xfMWZSRGlqTWswVHNlWFU4M1U3Uk1YUWxhbGtkbw?oc=5"
     },
     {
-      "title": "〈美股盤後〉30年期美債殖利率創24年新高 三大指數續黑 蘋果領跌道瓊 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iYWlRVm43cDVHOW5Gd1lnY3BlUHlQODc1aDFOR04tOGIybHRCRVVSX0Z5ZVczVkFRWnU4TjFDdGsxR3NMNGc1XzlpZC1aVEE?oc=5"
+      "title": "首檔黃金礦業ETF 6日開募| 存股族愛ETF | 股市 - udn.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XSUhLR0JsMzlLS21tWkMwZFFBZllJdkpHb25yakFUNE15VC12enl2Qmw3cHZibGxONWdSeEtsTFdKUVJLNW9kamN5TVkxSmE0RlhF?oc=5"
     },
     {
-      "title": "兆豐美國黃金礦業ETF 10/6開募，冀掌握雙重成長機會- 新聞 - MoneyDJ",
+      "title": "兆豐美國黃金礦業ETF 10/6開募，冀掌握雙重成長機會- 新聞 - MoneyDJ理財網",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdlFaTHJLUzJlVWw1NmJIVXFqNnRFeVJYTTdOSG5Ha3NkWHQ3MHlBdllnNVBmRTE3T3l3X25sMGxkb1VyLTEtNXcwUVdDZ1NqTjdpeURVdlRNTWNlRVlkUW9YM19MZmtLX2FSUURDY2pzT2F3Ql9YN0ZfTFlCRDJvc3dHV1VDSnlqb0RGNlRzTWdYZw?oc=5"
     },
     {
-      "title": "美股跌多漲少 台股開高走高站回4萬8000點 - 公視新聞網PNN",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MZTZhQU0zU3YtQ0NzZWs5MEFBQkF4UlFkbW14b25LNkNhLXR6UXFSN3Z2WHhlVklxZHVtMndNNjI5eWRlSHlXZFJlM0JWUFE?oc=5"
-    },
-    {
-      "title": "美股早盤／通膨降溫...債券殖利率回落四大指數齊升| 全球財經| 全球 - udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fSUVsa0lraDIzR0J1bmkxaUJaY2YyMnUzN1NyM1ktNlhCUUhUTzVGNEZsak9UcjJ0a28xSnJzSXlBWFNiX1J3VHlUTGVMWWV5?oc=5"
+      "title": "台股今年前九月漲幅全球第二- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82Z2JwUXdRUV9JNlhqNXo4VDJNU2Z5REZTZHpyYlhlTDNKcl8tMFJWV0xQVVEwX202eVFBQ1FveUhUSEhaN1loQVcxc1dudVRqcHNhX2Y2cUZENUNJWENj?oc=5"
     },
     {
       "title": "看好金價重回5400美元！全台首檔黃金礦業ETF「兆豐009832」10/6開募 - Yahoo股市",
