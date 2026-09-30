@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/01 03:50",
+  "updated_tw": "10/01 07:29",
   "taiwan": {
     "2330": {
       "price": 2480.0,
@@ -19,97 +19,97 @@
     },
     "0050": {
       "price": 112.05,
-      "change": -0.4,
-      "changePercent": -0.3557
+      "change": -0.35,
+      "changePercent": -0.3114
     },
     "00878": {
       "price": 34.9,
-      "change": -0.19,
-      "changePercent": -0.5415
+      "change": 0.02,
+      "changePercent": 0.0573
     },
     "00919": {
       "price": 31.88,
-      "change": -0.18,
-      "changePercent": -0.5615
+      "change": 0.05,
+      "changePercent": 0.1571
     }
   },
   "us": {
     "NVDA": {
-      "price": 230.02,
-      "change": 2.81,
-      "changePercent": 1.2367
+      "price": 228.38,
+      "change": 1.17,
+      "changePercent": 0.5149
     },
     "AAPL": {
-      "price": 334.375,
-      "change": 4.975,
-      "changePercent": 1.5103
+      "price": 333.02,
+      "change": 3.62,
+      "changePercent": 1.099
     },
     "TSLA": {
-      "price": 352.8,
-      "change": -0.04,
-      "changePercent": -0.0113
-    },
-    "QQQ": {
-      "price": 742.05,
-      "change": 4.12,
+      "price": 354.81,
+      "change": 1.97,
       "changePercent": 0.5583
     },
+    "QQQ": {
+      "price": 739.77,
+      "change": 1.84,
+      "changePercent": 0.2493
+    },
     "SPY": {
-      "price": 764.53,
-      "change": 0.33,
-      "changePercent": 0.0432
+      "price": 762.63,
+      "change": -1.57,
+      "changePercent": -0.2054
     },
     "SCHD": {
-      "price": 32.565,
-      "change": -0.285,
-      "changePercent": -0.8676
+      "price": 32.53,
+      "change": -0.32,
+      "changePercent": -0.9741
     },
     "VOO": {
-      "price": 702.72,
-      "change": 0.26,
-      "changePercent": 0.037
+      "price": 700.86,
+      "change": -1.6,
+      "changePercent": -0.2278
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83613.78,
-      "change": -8.6497,
-      "changePercent": -0.0103
+      "price": 83615.41,
+      "change": -7.0197,
+      "changePercent": -0.0084
     },
     "ETH": {
-      "price": 2669.34,
-      "change": -7.3822,
-      "changePercent": -0.2758
+      "price": 2687.65,
+      "change": 10.9278,
+      "changePercent": 0.4083
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.875,
-      "change": 0.0928,
-      "changePercent": 0.292
+      "price": 31.864,
+      "change": 0.014,
+      "changePercent": 0.044
     },
     "JPYTWD": {
       "price": 0.2004,
-      "change": -0.0016,
-      "changePercent": -0.7759
+      "change": -0.0019,
+      "changePercent": -0.9563
     },
     "EURTWD": {
-      "price": 36.157,
-      "change": 0.0187,
-      "changePercent": 0.0517
+      "price": 36.18,
+      "change": 0.0607,
+      "changePercent": 0.1681
     },
     "CNYTWD": {
-      "price": 4.7537,
+      "price": 4.7543,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4186.3,
-    "twd": 4290.0,
-    "tael": 160880.0,
-    "twdTotal": 133438.0,
-    "changePercent": 0.1579
+    "usd": 4183.0,
+    "twd": 4285.0,
+    "tael": 160698.0,
+    "twdTotal": 133287.0,
+    "changePercent": 0.0789
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,20 @@
   },
   "news": [
     {
-      "title": "〈美股盤後〉30年期美債殖利率創24年新高 三大指數續黑 蘋果領跌道瓊 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iYWlRVm43cDVHOW5Gd1lnY3BlUHlQODc1aDFOR04tOGIybHRCRVVSX0Z5ZVczVkFRWnU4TjFDdGsxR3NMNGc1XzlpZC1aVEE?oc=5"
+      "title": "〈美股盤後〉美債壓力籠罩 道瓊跌逾440點 月季線雙收黑 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14LXZ5YU9vU0ZRbnJ2YUMtMzZlbjgxbjB4TzBjZHJEYkhhWEphSEE0blJ5Skt4Nzc3VnI1dFlwb3JQRzJ1aUVVdnBObjFrbmc?oc=5"
     },
     {
-      "title": "美股兩樣情！三大指數皆墨 「這指數」卻逆勢大漲1.32% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZzE4c19Ic1BnWUZyS2txVldmRFpNV2M0RTRkdEJWYUxhUTJ1QVFhOGhFdmFVWTYtY2pSS180WVNTQlpfNTZ3NjM4eHhhSG5BYWFRdk45RkcxUkhPQ3UyVFV4bDZOb3o5bVowamFZTGk3UHhGcjlhWk5EbVlteDN0aUJITXdqbEdKc1ZjVUUzam9fMGY1NzUxZDR1UlhMaHlfdDJhVlBsN1JZRmhDaTUyT2JybUpheU9nZmxEY2dnUFA1SDNLcm9rZnFpUXNFOE9DcDFhS3FMTG4xOWFsVTVhekdSTzlraWxSa2lXUi01UkJrQ09lU3IwNWVTcGhCR2NjdVFtOS16MEoxSi1DQmpTMWtHYWs0Nk1uWVJmTXRoY0xIV2hadlFXeEl2cWtjazJqM1ROSHljVFo3VExJTmo4V0hkZ1JIX3Rj?oc=5"
+      "title": "看好金價重回5400美元！全台首檔黃金礦業ETF「兆豐009832」10/6開募 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNN3BjRFY3VTJUVmllWVhNWHdWX0YtUFZCQTltNGxMbzlKOXdRRjRQZGJ1dkt2TURZMm8yanlyM0ZRNlNDUElheHZnSHo3Q2EyZkhDckdpMGliMXRxYlBIcWZ5S29rNWN0Qlk1bjBVemp1ZWpoNkltS2swZWRMMkR0bS1DNFRQbzlWVEQyTG9Yc3ZiNDc2N1YyUThQQjM5YU5hcXN2U0NWZnZpUjZISldMNmIwcENwaXhsUnhXQlVvYVBQREhsNVY1MXJtRGlESzhWX1BmdEdqV0VfYkFaa2ZQdDU0UUdwQjRVemEyckhUZlBOUGdldjNSZXVHN1FyWTlFelliVzJ1THVBZnR3eHl3WXB1VWlGbG5lbHk2cm1sd0tSa291cVVvVDk4THJLOURFeVA4T25aVG5QdExReGJnVUdHcWtLUldrSEg5YUl1eHZ4TUJ6OHp3NUlyckgxa2N0Q0pLV204c3EwcEUwUjFkTnhjUHdkdVFWbi1DVk1FR1pKek1N?oc=5"
+    },
+    {
+      "title": "《貴金屬》COMEX黃金上漲0.2% ETF持倉減少- 新聞 - MoneyDJ理財網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYllmZzB2aExSZFBMWTBzRHVUWjRzemdQdTZjRF9RUjNncENGZWhiODhyd0RrbUROazBJQ1hrb21XU3pBWDI2R2tnVWJsVkpFVGJHaExwOS1sX3NITE1fWHRJd05jOWtaT1I1U25HRmplbXA1Q2dnZ05Uc1E2ZDU3cWU2X3I5VUVpenVaMWNoZWhWdw?oc=5"
+    },
+    {
+      "title": "通膨低於預期美股尾盤卻變臉美債殖利率攀高那指獨紅| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10Ul93Z1BTQ25iLXAwUThSMm5EbFFsTHphQkZPRnRqdHFIclk5elB4SnNxd0VtX3l2UU5lVnNybXZPTTJ2NXpLMnpWb0std3dr?oc=5"
     },
     {
       "title": "黃金不太妙！低點反彈後 專家坦白全說了 - ec.ltn.com.tw",
@@ -133,20 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGw3YlpIUm9ua2dYTjdiTFJHVXp3SU9veDZ6RGc5aVY4RkdsWWFGUEVJYnFJS3BfdG16V3BmQ1FlRXJFT0hMQ1RfbjdRMDc4eU1yOHhGRkFDR0hXTVlIM0w4WkhlenV0YzNtR2kzV3c4Q0xfMWZSRGlqTWswVHNlWFU4M1U3Uk1YUWxhbGtkbw?oc=5"
     },
     {
-      "title": "首檔黃金礦業ETF 6日開募| 存股族愛ETF | 股市 - udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XSUhLR0JsMzlLS21tWkMwZFFBZllJdkpHb25yakFUNE15VC12enl2Qmw3cHZibGxONWdSeEtsTFdKUVJLNW9kamN5TVkxSmE0RlhF?oc=5"
+      "title": "〈美股盤後〉30年期美債殖利率創24年新高 三大指數續黑 蘋果領跌道瓊 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iYWlRVm43cDVHOW5Gd1lnY3BlUHlQODc1aDFOR04tOGIybHRCRVVSX0Z5ZVczVkFRWnU4TjFDdGsxR3NMNGc1XzlpZC1aVEE?oc=5"
     },
     {
-      "title": "兆豐美國黃金礦業ETF 10/6開募，冀掌握雙重成長機會- 新聞 - MoneyDJ理財網",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdlFaTHJLUzJlVWw1NmJIVXFqNnRFeVJYTTdOSG5Ha3NkWHQ3MHlBdllnNVBmRTE3T3l3X25sMGxkb1VyLTEtNXcwUVdDZ1NqTjdpeURVdlRNTWNlRVlkUW9YM19MZmtLX2FSUURDY2pzT2F3Ql9YN0ZfTFlCRDJvc3dHV1VDSnlqb0RGNlRzTWdYZw?oc=5"
-    },
-    {
-      "title": "台股今年前九月漲幅全球第二- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82Z2JwUXdRUV9JNlhqNXo4VDJNU2Z5REZTZHpyYlhlTDNKcl8tMFJWV0xQVVEwX202eVFBQ1FveUhUSEhaN1loQVcxc1dudVRqcHNhX2Y2cUZENUNJWENj?oc=5"
-    },
-    {
-      "title": "看好金價重回5400美元！全台首檔黃金礦業ETF「兆豐009832」10/6開募 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNN3BjRFY3VTJUVmllWVhNWHdWX0YtUFZCQTltNGxMbzlKOXdRRjRQZGJ1dkt2TURZMm8yanlyM0ZRNlNDUElheHZnSHo3Q2EyZkhDckdpMGliMXRxYlBIcWZ5S29rNWN0Qlk1bjBVemp1ZWpoNkltS2swZWRMMkR0bS1DNFRQbzlWVEQyTG9Yc3ZiNDc2N1YyUThQQjM5YU5hcXN2U0NWZnZpUjZISldMNmIwcENwaXhsUnhXQlVvYVBQREhsNVY1MXJtRGlESzhWX1BmdEdqV0VfYkFaa2ZQdDU0UUdwQjRVemEyckhUZlBOUGdldjNSZXVHN1FyWTlFelliVzJ1THVBZnR3eHl3WXB1VWlGbG5lbHk2cm1sd0tSa291cVVvVDk4THJLOURFeVA4T25aVG5QdExReGJnVUdHcWtLUldrSEg5YUl1eHZ4TUJ6OHp3NUlyckgxa2N0Q0pLV204c3EwcEUwUjFkTnhjUHdkdVFWbi1DVk1FR1pKek1N?oc=5"
+      "title": "〈台股盤前要聞〉台股力守五日線、鴻海分紅大成長、欣興砸百億標廠 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPdHQ5OGh5aE55eVRHMjVXbTJOR0N0YkN6N2JZeGd1YWxfWi1icF9oLTJfU1V4LWkyMzFDNkNTOExrN1l4OTJReGUyTVlmQl8xVUJnZjcxX2Y4Yi1qeUdKb0wteTFCdzVmNTZ6eXJhRm5xVFdhd20wVGxuNmpPcGpoTnZNQkdhV3B5alhneHFFbHUxT1pLUjd2aDA4dWZfN1pvR2J6V2RMaUhqSmlpRGQzOG4xemZZQlpESF93UTdMUEkxclYtV2d3dlY4UTdKdHRCamRsbEVnZVVrbzJiRjdWOXVWb0hXMVVyUmdZbGJqMVp3NGd2S2hMY292dkRub0I3TFFtZEFFX2FTWEI3SGlfSXhsWTdVNWFCcFdWdkFSb2NQYXJoLTZYVGZnMERQbDM1NHNyX1RrZTJ6Y2w4MzQtQWFGZkx1MEpzRUw0Vk45Y19wOUlLeG5EdldZX3hjUlp4TzFxYkdXYW56bEFhQUlxZHJVRGpxTXNnS29Oc2tRcnI0Wk9JVnZlMGJGTHFtVHpFWXhZV2VDNW5saGlXWUs1S3kyVQ?oc=5"
     }
   ]
 }
