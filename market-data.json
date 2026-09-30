@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "09/30 16:02",
+  "updated_tw": "09/30 22:55",
   "taiwan": {
     "2330": {
       "price": 2480.0,
@@ -35,51 +35,51 @@
   },
   "us": {
     "NVDA": {
-      "price": 227.21,
-      "change": -1.65,
-      "changePercent": -0.721
+      "price": 231.077,
+      "change": 3.867,
+      "changePercent": 1.7019
     },
     "AAPL": {
-      "price": 329.4,
-      "change": -9.0,
-      "changePercent": -2.6596
+      "price": 338.97,
+      "change": 9.57,
+      "changePercent": 2.9053
     },
     "TSLA": {
-      "price": 352.84,
-      "change": -4.61,
-      "changePercent": -1.2897
+      "price": 348.95,
+      "change": -3.89,
+      "changePercent": -1.1025
     },
     "QQQ": {
-      "price": 737.93,
-      "change": 1.4,
-      "changePercent": 0.1901
+      "price": 744.27,
+      "change": 6.34,
+      "changePercent": 0.8592
     },
     "SPY": {
-      "price": 764.2,
-      "change": -1.41,
-      "changePercent": -0.1842
+      "price": 769.32,
+      "change": 5.12,
+      "changePercent": 0.67
     },
     "SCHD": {
-      "price": 32.85,
-      "change": -0.16,
-      "changePercent": -0.4847
+      "price": 32.845,
+      "change": -0.005,
+      "changePercent": -0.0152
     },
     "VOO": {
-      "price": 702.46,
-      "change": -1.15,
-      "changePercent": -0.1634
+      "price": 707.13,
+      "change": 4.67,
+      "changePercent": 0.6648
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83215.48,
-      "change": -406.9497,
-      "changePercent": -0.4867
+      "price": 83845.41,
+      "change": 222.9803,
+      "changePercent": 0.2667
     },
     "ETH": {
-      "price": 2671.63,
-      "change": -5.0922,
-      "changePercent": -0.1902
+      "price": 2679.81,
+      "change": 3.0878,
+      "changePercent": 0.1154
     }
   },
   "fx": {
@@ -89,27 +89,27 @@
       "changePercent": 0.185
     },
     "JPYTWD": {
-      "price": 0.2008,
-      "change": -0.0012,
-      "changePercent": -0.5778
+      "price": 0.2006,
+      "change": -0.0014,
+      "changePercent": -0.6768
     },
     "EURTWD": {
-      "price": 36.177,
-      "change": 0.0387,
-      "changePercent": 0.1071
+      "price": 36.174,
+      "change": 0.0357,
+      "changePercent": 0.0988
     },
     "CNYTWD": {
-      "price": 4.7568,
+      "price": 4.7518,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4228.7,
-    "twd": 4329.0,
-    "tael": 162336.0,
-    "twdTotal": 134646.0,
-    "changePercent": 1.1723
+    "usd": 4202.8,
+    "twd": 4302.0,
+    "tael": 161342.0,
+    "twdTotal": 133821.0,
+    "changePercent": 0.5527
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iYWlRVm43cDVHOW5Gd1lnY3BlUHlQODc1aDFOR04tOGIybHRCRVVSX0Z5ZVczVkFRWnU4TjFDdGsxR3NMNGc1XzlpZC1aVEE?oc=5"
     },
     {
+      "title": "兆豐美國黃金礦業ETF 10/6開募，冀掌握雙重成長機會- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdlFaTHJLUzJlVWw1NmJIVXFqNnRFeVJYTTdOSG5Ha3NkWHQ3MHlBdllnNVBmRTE3T3l3X25sMGxkb1VyLTEtNXcwUVdDZ1NqTjdpeURVdlRNTWNlRVlkUW9YM19MZmtLX2FSUURDY2pzT2F3Ql9YN0ZfTFlCRDJvc3dHV1VDSnlqb0RGNlRzTWdYZw?oc=5"
+    },
+    {
       "title": "美股跌多漲少 台股開高走高站回4萬8000點 - 公視新聞網PNN",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MZTZhQU0zU3YtQ0NzZWs5MEFBQkF4UlFkbW14b25LNkNhLXR6UXFSN3Z2WHhlVklxZHVtMndNNjI5eWRlSHlXZFJlM0JWUFE?oc=5"
     },
     {
-      "title": "比特幣牛市還在、短線卻過熱？交易者帳面獲利33% 創 21 個月新高，2.57 萬枚BTC 單日獲利了結 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDJuaElNVW5SNEZZMDJCVGZGb2E0WDRvdFhCWkdONWZSZkdVc2RfRjBLVGxRZTlBSEpSRDlqbzBEUnJVQ0pKNTRMMTJvWURVdjRwSDJ5RHFFOGxpVVRGX0lQZTlHaHdwd1hEV1JleTNERVZqR3R4UEc5bkVQd0ZGUzM4bjVhVXkwY3ZKLTVRVEszZ2lLNlhycEhYQQ?oc=5"
+      "title": "美股早盤／通膨降溫...債券殖利率回落四大指數齊升| 全球財經| 全球 - udn.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fSUVsa0lraDIzR0J1bmkxaUJaY2YyMnUzN1NyM1ktNlhCUUhUTzVGNEZsak9UcjJ0a28xSnJzSXlBWFNiX1J3VHlUTGVMWWV5?oc=5"
     },
     {
-      "title": "台股突然跳水！小漲308點「4萬8失守」 台積電收盤價曝光 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPZXBHX3loanFCSkdybm95aVJWejZwNGx6c0U3OTV5dml2RXJLcjVLR3pGSmVWQjkydUZBT2hBdVJ5dWtLT1Q4dnNFMG1FSk1XenljVURhNHdERm1id1l5Z2pZNExVaEdvYi1HNnRINzBjN2tnSmFNbmN6d1pwUUNldHlFVEl4UXVQU2IyX2JXU2o2NzBnUUg2ZFNEUGFEb1RaNUozME1KeWlhQ2wxMWZoMmRHZmgtaFVJLWxmbDRoSEFMQ1pBOTg2WE5TaW03NkVMRk1DMGhockVLLUZJbVJCdElPUXRDcjlCVlZkRGlHUnBSTERIcG9UVmR5bUdrWU9WaWltZHFpX0FpNjBoUTl1WjVUenNmUXdvODV5TXo2cXRlV19nQkdOVkRkUWROczZ6Znl2aGFvRk5PYUtBcmxjZVBtcU43WHRuZFlDUGhscmpJSW90aVE?oc=5"
-    },
-    {
-      "title": "【Follow法人】外資回補台股296億元 分析師：中性看待 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOY0dvZjlUck9zZU9nLUtBNVJYYmc5cXpUelJ3WGRYRkNNNm5Ndm5vYkMtbUV0aWpWQXhHcjJOZHc3Y1JfMGxQV0haVmMtTmtydTJUcGtKdWowWFBINWE1Z2N0akp3ajRicXd3SEpWUHJXWW5wdGxtdmphWURxbjJJNHNuV25qb3E3QXQ5RDFrVGppWFNieWJ5d2FsZnVyekZnZGhxS2pyZlBRY0lTeEdjM2ZDQm1FdGhTRnMtNUVfb0hNcWx0SFB5cU85NVdvTUxBb1ctazFPTkhvZUtTZXZqNVZ1MWlFaVpfcmppM3E4eGFZSDRjOTVvdkg1R25QZlk0MHROdkJTcldTSlFHSGF1cm5DZ2tQMjh6VGhUajhGNlRvNERYSEVrY2pxaE9zbVI3TGN0MFdWU1BBZVJyQV9IUFRLQ3JKRXFZaE81MlVabC1fTVBDUVR2RQ?oc=5"
+      "title": "看好金價重回5400美元！全台首檔黃金礦業ETF「兆豐009832」10/6開募 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNN3BjRFY3VTJUVmllWVhNWHdWX0YtUFZCQTltNGxMbzlKOXdRRjRQZGJ1dkt2TURZMm8yanlyM0ZRNlNDUElheHZnSHo3Q2EyZkhDckdpMGliMXRxYlBIcWZ5S29rNWN0Qlk1bjBVemp1ZWpoNkltS2swZWRMMkR0bS1DNFRQbzlWVEQyTG9Yc3ZiNDc2N1YyUThQQjM5YU5hcXN2U0NWZnZpUjZISldMNmIwcENwaXhsUnhXQlVvYVBQREhsNVY1MXJtRGlESzhWX1BmdEdqV0VfYkFaa2ZQdDU0UUdwQjRVemEyckhUZlBOUGdldjNSZXVHN1FyWTlFelliVzJ1THVBZnR3eHl3WXB1VWlGbG5lbHk2cm1sd0tSa291cVVvVDk4THJLOURFeVA4T25aVG5QdExReGJnVUdHcWtLUldrSEg5YUl1eHZ4TUJ6OHp3NUlyckgxa2N0Q0pLV204c3EwcEUwUjFkTnhjUHdkdVFWbi1DVk1FR1pKek1N?oc=5"
     }
   ]
 }
