@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/02 00:37",
+  "updated_tw": "10/02 05:22",
   "taiwan": {
     "2330": {
       "price": 2510.0,
-      "change": 35.0,
-      "changePercent": 1.4141
+      "change": 30.0,
+      "changePercent": 1.2097
     },
     "2454": {
       "price": 4980.0,
-      "change": 70.0,
-      "changePercent": 1.4257
+      "change": 60.0,
+      "changePercent": 1.2195
     },
     "2317": {
       "price": 254.0,
-      "change": 3.5,
-      "changePercent": 1.3972
+      "change": 2.5,
+      "changePercent": 0.994
     },
     "0050": {
       "price": 112.9,
@@ -35,87 +35,91 @@
   },
   "us": {
     "NVDA": {
-      "price": 231.315,
-      "change": 2.935,
-      "changePercent": 1.2851
+      "price": 230.86,
+      "change": 2.48,
+      "changePercent": 1.0859
     },
     "AAPL": {
-      "price": 328.18,
-      "change": -4.84,
-      "changePercent": -1.4534
+      "price": 330.32,
+      "change": -2.7,
+      "changePercent": -0.8108
     },
     "TSLA": {
-      "price": 355.994,
-      "change": 1.184,
-      "changePercent": 0.3337
+      "price": 354.11,
+      "change": -0.7,
+      "changePercent": -0.1973
     },
     "QQQ": {
-      "price": 739.31,
-      "change": -0.46,
-      "changePercent": -0.0622
+      "price": 742.03,
+      "change": 2.26,
+      "changePercent": 0.3055
     },
     "SPY": {
-      "price": 762.25,
-      "change": -0.38,
-      "changePercent": -0.0498
+      "price": 763.99,
+      "change": 1.36,
+      "changePercent": 0.1783
     },
     "SCHD": {
-      "price": 32.69,
-      "change": 0.16,
-      "changePercent": 0.4919
+      "price": 32.66,
+      "change": 0.13,
+      "changePercent": 0.3996
     },
     "VOO": {
-      "price": 700.73,
-      "change": -0.13,
-      "changePercent": -0.0185
+      "price": 702.35,
+      "change": 1.49,
+      "changePercent": 0.2126
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84380.62,
-      "change": 826.7684,
-      "changePercent": 0.9895
+      "price": 84609.79,
+      "change": 1055.9384,
+      "changePercent": 1.2638
     },
     "ETH": {
-      "price": 2686.41,
-      "change": 2.7306,
-      "changePercent": 0.1017
+      "price": 2694.7,
+      "change": 11.0206,
+      "changePercent": 0.4107
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.93,
-      "change": 0.08,
-      "changePercent": 0.2512
+      "price": 31.888,
+      "change": 0.0201,
+      "changePercent": 0.0631
     },
     "JPYTWD": {
-      "price": 0.2003,
-      "change": -0.002,
-      "changePercent": -1.0058
+      "price": 0.1995,
+      "change": -0.0028,
+      "changePercent": -1.3597
     },
     "EURTWD": {
-      "price": 35.912,
-      "change": -0.2073,
-      "changePercent": -0.5739
+      "price": 35.907,
+      "change": -0.1917,
+      "changePercent": -0.5309
     },
     "CNYTWD": {
-      "price": 4.7638,
+      "price": 4.7649,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4197.5,
-    "twd": 4309.0,
-    "tael": 161589.0,
-    "twdTotal": 134026.0,
-    "changePercent": 0.258
+    "usd": 4207.8,
+    "twd": 4314.0,
+    "tael": 161773.0,
+    "twdTotal": 134178.0,
+    "changePercent": 0.504
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "〈美股早盤〉科技股買盤支撐 主要指數10月開紅盤 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jaW5CXzdnLUpIdEVYQkp3em54eHMzcGpQaTNLZFdqbG43a1hJTm1jNWNvZ2VUbjJfTVdRQVgyYUUwOTZQLXNLLW5vOFczTjA?oc=5"
+    },
     {
       "title": "快訊／AI半導體領軍、美光財報超狂助陣！美股「4大指數全漲」 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQNWVIYUg3TjN5aFppRDBsTGNkVEVIYlBEemJUdTY1VUVSd0FPLUhTaGJ5SDVkajZOdnZwV3pNZmo0WFNZbHV2QkpvUjhsWGdCRXJ1eDFnLU1QNHdqQW9lU3V4bC1Qc2FOWURMc2EzR1hRd3Nwc3Q0T3ptZ1dQQ1VJcUpRMXRqejlsUFByTzNBRUpUbHQzQjRMYWN6cUtRdW5mVlp4YW52am9zelVMd2w2ZWZNMG9hbmY2YVdSQ3lVazA5c1c0cWpFOGpBdVJMTVlwblozblVXYjZZNnAzNm9YWlNLVkN6aDhEemdJRkdvaFltSy1RdkhuR28wYmQ5cHh4UHU0VXJiTHdqYzg0NXV2MWx4NEdmXzBIRzJmYVlsWm5jQ1I1T21BZ01DRDdBZmZQTGFQVHpGQThweHlvcWwxSktJLWdOV3RkZEE0ZERCTmg2czljUE9hbEpic2ZVQllNRzZ0bg?oc=5"
@@ -129,24 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10Ul93Z1BTQ25iLXAwUThSMm5EbFFsTHphQkZPRnRqdHFIclk5elB4SnNxd0VtX3l2UU5lVnNybXZPTTJ2NXpLMnpWb0std3dr?oc=5"
     },
     {
-      "title": "〈美股盤後〉美債壓力籠罩 道瓊跌逾440點 月季線雙收黑 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14LXZ5YU9vU0ZRbnJ2YUMtMzZlbjgxbjB4TzBjZHJEYkhhWEphSEE0blJ5Skt4Nzc3VnI1dFlwb3JQRzJ1aUVVdnBObjFrbmc?oc=5"
-    },
-    {
       "title": "花旗突然大幅翻多比特幣！BTC 目標價從 8.2 萬升至 11.3 萬美元，預估再有 50 億美元資金進場 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2JoWEtSQ2RLYVpNektJUmphVTl6WmVoQkxXUHVBVFpfc3ZCUEt6OTI3MzE0bWhLNS10TXN0NW1ldUYyNnl6LWc1N19zNzMwMk5CY0MwRUF2RTVQbFRUSXh1LTlJcEJmaHU0MmR1QWdoaW0wSEpzeXZSNExoQzlLWVJVTURjTDFpNWN3?oc=5"
     },
     {
-      "title": "〈美股早盤〉科技股買盤支撐 主要指數10月開紅盤 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQQ0RmMExGU3ZDamZYN2RnNlhaOERWZVJrR29GZ0dfVGo4NUpicjJuQTZ5STVBaUlnZmhpRHh4WGViNkpLS3hWRThTRGFsRXFuei1IQmk5QlJTNnZpbm1UOXIxVGd5S2F1NFVTNXRnVGlucWVucVE0dzR5Nl9TRW5uTDFjUU5QM1BPY0RaS0prRVRBUXJMRHFfc3dlRUZ0NmdYNGtaMUI5dTRVakxIYVdOM0FSMTd1bl90UjhvWTdOdUk5SFhQb3RLMUFWZGl3NTRkQ3p5TUJSaFo5VzhQX0dkR18zRHM1TXNHUW5uNHNpQldsV1NrTC1oMEp2a2g2SEIycXkzMFFSOHJYS2dfWUlpQ2NpQmoybGpla2hpUFRDVFdRSHBlbGo1bHdUSUJmRTRaZEpHaHBBTENuTFhWY2VCN2JaRk8?oc=5"
+      "title": "美債殖利率回落美股收小紅- 股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8weWdCTjQ2UjkwRmZ4UGdRb09qcURuSDJFOXBzeVNXTlhmQ24yTUxFVkdHZ3hxV0dfLXRFNDRGeUR3TmQ0NXFnNndCOS1KX0tncExMM0VzOVA?oc=5"
     },
     {
-      "title": "13年沒買黃金！韓國央行突然出手買1噸 背後原因曝光 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBza2RvLWFEYnJXNmZvLTRwS3pYeXZsQ0lKSHNUZm9ETDRvRjhmVXkzWUYzRWZKTmlmSGJvcm00UzFVbWhVN2VLTWctbzZFTWRBSmFUSk9aX2V5TGVvRUZn0gFkQVVfeXFMTVFVVGJBOW5CbWpYSDRyWjdvcnJrLWRCd3F3Tm1aWkNKSUZEeDVaLUpGV014ZUhLZ1hHR1ktbUxOUkk5MWVtR1d4ZFppNU16Rk9QMEEzdlJza2k1Ymt4LU0zNjhQTA?oc=5"
+      "title": "今年賺太多明年怎麼辦？美股獲利榮景迎高基期考驗 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNdjY2cm5wMmZ3ZThXclN4c0U4ME1KUFZWdXdkbHRXOGJqVGJpbGplaWpBcVcyVFdHTVZibFBrOGNqamptTkllcFRMVi1kVlV2X3UwRzNQWWFqcDFfUGdBV1ZnRVNBeER3Q2w5RWlILW5lX2FYcTFHQjF6SFBJcVY5cy1ZZ1g4T0dkeG1nUTN6Z25nZ1NkcnhUT2t1dmZ4d0JJTEV6T1ZLc0toN05DWk0zMDNNWVpYQ29DXzN0am1XWVFFelk5aV84d2J3MEg5TS1ucTR1UER1MGNJNll2Zk8tX3FzcjR0Q3oyVUJ0M1RqZTVrbjJWTTE1MF9DX1RZV3ZXV2ZJc1NsVW1GS1lZMkVRbjdxX2wwVlNjZDR4WkdiNUQzTF9MeWZIcDlFb1JFSndPU210OUNxMDdDcUlMenhnXzlqeWdDN010M2ZDU3dneWhYQW9LN3NLbzN2eVZFclpjM3A4Nw?oc=5"
     },
     {
-      "title": "黃金期 伺機操作 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4ycXpkWDR0cVIxa1U1cXNqVDIta0wtaXl4T0JjWW8yaHQ2emFzLVROMjNyaXdheTlTNlgySkgyWERCNGtaeHVubXlxQVRZMC1Jb0U3NUk0a0d0VzTSAWBBVV95cUxNZ3l2bE9fc28wQ2w1d2Q1TlZNMDMxem5IVS1qREgyejAtM1czS0Z2OF9JdXZHVEw1ZE5XWXhXZkVRWm5nSzFuemRSWno0VzN1UDNsbVlKWllmOHdZWFpLQnA?oc=5"
+      "title": "期貨商論壇／黃金期 伺機操作 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fXy1mM1lUYVZtc1lNZllPeW8xelZ5Sjl3UjlrMGJjcjdIWjV1ZEgxWVNyMmZycWdZaVcxSXFlMjBBYjd3c3dzbnZobGMxVDVf0gFWQVVfeXFMTmY3SkRYVjVCNGZxd09JMm1taEFrMHFsd2JCb2ZyRk4xcWdrbVhpRmFLdjlIQ3dzaFcwa29DLUhfZnVKcm5abWNZT3EwRzI1dUZNcjNpWmc?oc=5"
     }
   ]
 }
