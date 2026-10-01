@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/01 07:29",
+  "updated_tw": "10/01 10:19",
   "taiwan": {
     "2330": {
-      "price": 2480.0,
-      "change": 5.0,
-      "changePercent": 0.202
+      "price": 2495.0,
+      "change": 15.0,
+      "changePercent": 0.6048
     },
     "2454": {
-      "price": 4920.0,
-      "change": 10.0,
-      "changePercent": 0.2037
+      "price": 4925.0,
+      "change": 5.0,
+      "changePercent": 0.1016
     },
     "2317": {
-      "price": 251.5,
-      "change": 1.0,
-      "changePercent": 0.3992
+      "price": 251.0,
+      "change": -0.5,
+      "changePercent": -0.1988
     },
     "0050": {
-      "price": 112.05,
-      "change": -0.35,
-      "changePercent": -0.3114
+      "price": 111.95,
+      "change": 0.65,
+      "changePercent": 0.584
     },
     "00878": {
-      "price": 34.9,
-      "change": 0.02,
-      "changePercent": 0.0573
+      "price": 34.71,
+      "change": -0.12,
+      "changePercent": -0.3445
     },
     "00919": {
-      "price": 31.88,
-      "change": 0.05,
-      "changePercent": 0.1571
+      "price": 31.44,
+      "change": -0.44,
+      "changePercent": -1.3802
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 83615.41,
-      "change": -7.0197,
-      "changePercent": -0.0084
+      "price": 83466.38,
+      "change": -156.0497,
+      "changePercent": -0.1866
     },
     "ETH": {
-      "price": 2687.65,
-      "change": 10.9278,
-      "changePercent": 0.4083
+      "price": 2685.3,
+      "change": 8.5778,
+      "changePercent": 0.3205
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.864,
-      "change": 0.014,
-      "changePercent": 0.044
+      "price": 31.895,
+      "change": 0.045,
+      "changePercent": 0.1413
     },
     "JPYTWD": {
-      "price": 0.2004,
-      "change": -0.0019,
-      "changePercent": -0.9563
+      "price": 0.1996,
+      "change": -0.0027,
+      "changePercent": -1.3517
     },
     "EURTWD": {
-      "price": 36.18,
-      "change": 0.0607,
-      "changePercent": 0.1681
+      "price": 36.173,
+      "change": 0.0537,
+      "changePercent": 0.1487
     },
     "CNYTWD": {
-      "price": 4.7543,
+      "price": 4.7653,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4183.0,
-    "twd": 4285.0,
-    "tael": 160698.0,
-    "twdTotal": 133287.0,
-    "changePercent": 0.0789
+    "usd": 4182.9,
+    "twd": 4289.0,
+    "tael": 160851.0,
+    "twdTotal": 133414.0,
+    "changePercent": -0.0908
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "〈美股盤後〉美債壓力籠罩 道瓊跌逾440點 月季線雙收黑 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14LXZ5YU9vU0ZRbnJ2YUMtMzZlbjgxbjB4TzBjZHJEYkhhWEphSEE0blJ5Skt4Nzc3VnI1dFlwb3JQRzJ1aUVVdnBObjFrbmc?oc=5"
+      "title": "通膨低於預期 美股尾盤卻變臉！美債殖利率攀高「那指獨紅」 - udn",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10Ul93Z1BTQ25iLXAwUThSMm5EbFFsTHphQkZPRnRqdHFIclk5elB4SnNxd0VtX3l2UU5lVnNybXZPTTJ2NXpLMnpWb0std3dr?oc=5"
     },
     {
-      "title": "看好金價重回5400美元！全台首檔黃金礦業ETF「兆豐009832」10/6開募 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNN3BjRFY3VTJUVmllWVhNWHdWX0YtUFZCQTltNGxMbzlKOXdRRjRQZGJ1dkt2TURZMm8yanlyM0ZRNlNDUElheHZnSHo3Q2EyZkhDckdpMGliMXRxYlBIcWZ5S29rNWN0Qlk1bjBVemp1ZWpoNkltS2swZWRMMkR0bS1DNFRQbzlWVEQyTG9Yc3ZiNDc2N1YyUThQQjM5YU5hcXN2U0NWZnZpUjZISldMNmIwcENwaXhsUnhXQlVvYVBQREhsNVY1MXJtRGlESzhWX1BmdEdqV0VfYkFaa2ZQdDU0UUdwQjRVemEyckhUZlBOUGdldjNSZXVHN1FyWTlFelliVzJ1THVBZnR3eHl3WXB1VWlGbG5lbHk2cm1sd0tSa291cVVvVDk4THJLOURFeVA4T25aVG5QdExReGJnVUdHcWtLUldrSEg5YUl1eHZ4TUJ6OHp3NUlyckgxa2N0Q0pLV204c3EwcEUwUjFkTnhjUHdkdVFWbi1DVk1FR1pKek1N?oc=5"
+      "title": "〈美股盤後〉美債壓力籠罩 道瓊跌逾440點 月季線雙收黑 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14LXZ5YU9vU0ZRbnJ2YUMtMzZlbjgxbjB4TzBjZHJEYkhhWEphSEE0blJ5Skt4Nzc3VnI1dFlwb3JQRzJ1aUVVdnBObjFrbmc?oc=5"
     },
     {
       "title": "《貴金屬》COMEX黃金上漲0.2% ETF持倉減少- 新聞 - MoneyDJ理財網",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYllmZzB2aExSZFBMWTBzRHVUWjRzemdQdTZjRF9RUjNncENGZWhiODhyd0RrbUROazBJQ1hrb21XU3pBWDI2R2tnVWJsVkpFVGJHaExwOS1sX3NITE1fWHRJd05jOWtaT1I1U25HRmplbXA1Q2dnZ05Uc1E2ZDU3cWU2X3I5VUVpenVaMWNoZWhWdw?oc=5"
     },
     {
-      "title": "通膨低於預期美股尾盤卻變臉美債殖利率攀高那指獨紅| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10Ul93Z1BTQ25iLXAwUThSMm5EbFFsTHphQkZPRnRqdHFIclk5elB4SnNxd0VtX3l2UU5lVnNybXZPTTJ2NXpLMnpWb0std3dr?oc=5"
+      "title": "【Yahoo早盤】迎光輝10月！台股漲逾200點守住4萬8 分析師黃紫東：內資開始布局第四季 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNS0pUT19nMlJrS29oM0NCaXFrcWVfZ1dHZnFpcGhMd1pYZWZwZHBFMjBPUFQ5ZWFUUmZ5VGg5bmNlSUtKWWk2cWdtSDJqVFdRS0ZwQjAtUi05QWtjLXVzaTZ3Z2R0SDFqNE9QS3JUUFNNZ2R5T24tdlNpNVR4cEw3aHp5aHN2OGoteTBQSjg1WkRjTWpsOGtLYTRtSlFsTjZtWlNGbkhWR2o0OHliU180QWpleU5rTjJIY2V0NDRPaHFHbldKSF94MDJZbjNqWGdxa1c1T3diaW5PNGZjbFdwSENXU2JDajBQckxKOTIwbnM1UnlmN0cyN0xTREVIU0poZWIzclZ0d2pqM01Eamp2am5wSUtVbEdFVDVMVHYtMS1lX3R1Tjd2MzBKMzRLZjI2NFg0S3VhdEVsRUQ1WjI5b0p3ZDcxY0NUdDBpLVBTVjY1YjVFZjJVVTVQYVJXUGZCcU41UGJOWHpKZVFGT2I3SWRJVVl0SjdkMjdtckFfbTFzRTVxODNuanVRdW9BVDJyU2dLa1NkWUFOcFZuY0dQaXJMd25NdDF2UHpkUWJ5S0d0QmdEdmVVZ1d4Qm1BQ1BmOENaVlJRM3pINldoU2pIRmxaNlRYZFY5MmhBQzRmc1hubGFKOWhLZFNLY3pMcXYxeFY0cHhQM3k?oc=5"
     },
     {
-      "title": "黃金不太妙！低點反彈後 專家坦白全說了 - ec.ltn.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tY2k1ay11d1hTX2d0cDEweUhuU3VtSTBTVnotVmg4Uk1uUDBUbzhUN0dydUdkbmpDY18zcFlpNV9KVnZWTXVIS3VTR2oxTVVSUktuMGpJNkVLSzBOZ3RF0gFkQVVfeXFMTnIwTmdzTzVFd01MbmppQ2dQWmphUHRoOFVBSmFGQlVaLXFBMWE2R2Y4dS1TZTJOYVowR0lveXNLejFkREQxTW5wd3hzZGxxOGhDUGFtbnlHQW0zNWxUcDJXS0FKQQ?oc=5"
+      "title": "台積電走揚 台股早盤漲逾200點站上48000點 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IY2lKcHh5emlwUDJENGdKTzdUNGs0OXMxNURjMml2Tk1Jd0l2TEVZX0lLbDY1NFEtT2JWeVVOWmZvQWk1QjRqN0VIRWh6QUhqeXhvVGFvNmlTRXptT1E?oc=5"
     },
     {
-      "title": "高利率猛壓金價，ETF卻還在加倉！黃金年底或上演三個截然不同 - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGw3YlpIUm9ua2dYTjdiTFJHVXp3SU9veDZ6RGc5aVY4RkdsWWFGUEVJYnFJS3BfdG16V3BmQ1FlRXJFT0hMQ1RfbjdRMDc4eU1yOHhGRkFDR0hXTVlIM0w4WkhlenV0YzNtR2kzV3c4Q0xfMWZSRGlqTWswVHNlWFU4M1U3Uk1YUWxhbGtkbw?oc=5"
+      "title": "台股早盤漲逾200點重返48K 台積電開盤漲10元 - 台視新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yZEg5dEVEbDNYWE5FemhlY1p6X1E5bkY1cVkzU1djT000QnhqS2J1MEhKdUJCMjlCcGRkelBhWUlCemc0N0ZsbEtuaEZXelNIWTk4ZE1Idw?oc=5"
     },
     {
       "title": "〈美股盤後〉30年期美債殖利率創24年新高 三大指數續黑 蘋果領跌道瓊 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iYWlRVm43cDVHOW5Gd1lnY3BlUHlQODc1aDFOR04tOGIybHRCRVVSX0Z5ZVczVkFRWnU4TjFDdGsxR3NMNGc1XzlpZC1aVEE?oc=5"
     },
     {
-      "title": "〈台股盤前要聞〉台股力守五日線、鴻海分紅大成長、欣興砸百億標廠 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPdHQ5OGh5aE55eVRHMjVXbTJOR0N0YkN6N2JZeGd1YWxfWi1icF9oLTJfU1V4LWkyMzFDNkNTOExrN1l4OTJReGUyTVlmQl8xVUJnZjcxX2Y4Yi1qeUdKb0wteTFCdzVmNTZ6eXJhRm5xVFdhd20wVGxuNmpPcGpoTnZNQkdhV3B5alhneHFFbHUxT1pLUjd2aDA4dWZfN1pvR2J6V2RMaUhqSmlpRGQzOG4xemZZQlpESF93UTdMUEkxclYtV2d3dlY4UTdKdHRCamRsbEVnZVVrbzJiRjdWOXVWb0hXMVVyUmdZbGJqMVp3NGd2S2hMY292dkRub0I3TFFtZEFFX2FTWEI3SGlfSXhsWTdVNWFCcFdWdkFSb2NQYXJoLTZYVGZnMERQbDM1NHNyX1RrZTJ6Y2w4MzQtQWFGZkx1MEpzRUw0Vk45Y19wOUlLeG5EdldZX3hjUlp4TzFxYkdXYW56bEFhQUlxZHJVRGpxTXNnS29Oc2tRcnI0Wk9JVnZlMGJGTHFtVHpFWXhZV2VDNW5saGlXWUs1S3kyVQ?oc=5"
+      "title": "美股動能迎戰第四季 AI自動交易興起安全挑戰浮現 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNOFA5cVN3MkZpWjE4OHp0QWhVTnZ1T2NPa0E3Y0tVU2dBMVhQTGhjVm9yRVB1NExKNVBqTlBBRkp1VndqTDl5aVNvYm9lV2M3aFJPcFVrbkN4SDZxN3hYalRsUHNoYkRmeUxIakF3d2Y1MG1DakdUWHJQUW1rLVdUVmJCS2VsNEl6djg4ZG5xanNjOFVNUDByQVJxNG9PSjJqSjcwWDNHSERyOTVaUlNiZ3REYU1xbjZPWU83dTVaT3pBWWRSdzhVX094SzZJLUNVQUtaWmgydXFNR3F0RjYtRk1TUy1UNTdLLVZYZ0hXNFFPbmNvMnhIdDl3cGc5dGJZV3FOTjAwUElKVkw1ZkJBYU40ZV9XeXdYV2hkZkh6UjM2QmFBaTlvOXFncVVFQWEyeGk5ekIzUU02RG9jZHFOMGJIUFZGUzRwaUloUlBzWWJaZmRVZEJXVmZrYw?oc=5"
     }
   ]
 }
