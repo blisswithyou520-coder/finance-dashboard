@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/03 02:42",
+  "updated_tw": "10/03 06:34",
   "taiwan": {
     "2330": {
       "price": 2500.0,
@@ -19,13 +19,13 @@
     },
     "0050": {
       "price": 112.8,
-      "change": 1.5,
-      "changePercent": 1.3477
+      "change": 0.75,
+      "changePercent": 0.6693
     },
     "00878": {
       "price": 34.89,
-      "change": 0.06,
-      "changePercent": 0.1723
+      "change": -0.01,
+      "changePercent": -0.0287
     },
     "00919": {
       "price": 31.55,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 234.605,
-      "change": 3.745,
-      "changePercent": 1.6222
+      "price": 233.95,
+      "change": 3.09,
+      "changePercent": 1.3385
     },
     "AAPL": {
-      "price": 333.67,
-      "change": 3.35,
-      "changePercent": 1.0142
+      "price": 333.69,
+      "change": 3.37,
+      "changePercent": 1.0202
     },
     "TSLA": {
-      "price": 370.346,
-      "change": 16.236,
-      "changePercent": 4.585
+      "price": 370.59,
+      "change": 16.48,
+      "changePercent": 4.6539
     },
     "QQQ": {
-      "price": 748.735,
-      "change": 6.705,
-      "changePercent": 0.9036
+      "price": 749.58,
+      "change": 7.55,
+      "changePercent": 1.0175
     },
     "SPY": {
-      "price": 769.12,
-      "change": 5.13,
-      "changePercent": 0.6715
+      "price": 769.64,
+      "change": 5.65,
+      "changePercent": 0.7395
     },
     "SCHD": {
-      "price": 32.685,
-      "change": 0.025,
-      "changePercent": 0.0765
+      "price": 32.72,
+      "change": 0.06,
+      "changePercent": 0.1837
     },
     "VOO": {
-      "price": 706.955,
-      "change": 4.605,
-      "changePercent": 0.6557
+      "price": 707.54,
+      "change": 5.19,
+      "changePercent": 0.739
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83914.14,
-      "change": -938.9616,
-      "changePercent": -1.1066
+      "price": 84529.37,
+      "change": -323.7316,
+      "changePercent": -0.3815
     },
     "ETH": {
-      "price": 2650.04,
-      "change": -55.4971,
-      "changePercent": -2.0512
+      "price": 2665.91,
+      "change": -39.6271,
+      "changePercent": -1.4647
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.844,
-      "change": -0.0239,
-      "changePercent": -0.075
+      "price": 31.796,
+      "change": -0.0908,
+      "changePercent": -0.2848
     },
     "JPYTWD": {
-      "price": 0.1996,
+      "price": 0.1992,
       "change": -0.0027,
-      "changePercent": -1.3103
+      "changePercent": -1.3407
     },
     "EURTWD": {
-      "price": 35.874,
-      "change": -0.2247,
-      "changePercent": -0.6224
+      "price": 35.823,
+      "change": -0.0411,
+      "changePercent": -0.1147
     },
     "CNYTWD": {
-      "price": 4.7546,
+      "price": 4.7436,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4167.1,
-    "twd": 4266.0,
-    "tael": 159987.0,
-    "twdTotal": 132697.0,
-    "changePercent": -0.8376
+    "usd": 4172.1,
+    "twd": 4265.0,
+    "tael": 159937.0,
+    "twdTotal": 132656.0,
+    "changePercent": -0.7186
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPbEVvY01EQlpvXzhZNWFxZUxsQnQyTHlhdjJ3M2xkSG4wSlhhZTZweENmTklaMEFxdFlpQTQtWm9hWWNQUnl2TUhCelpKYkgyTE5zS3VxZTJPbWdWdkN6YkRBcy02WVg3dTRzYTRDQ3ZScUo4N2NDQ1NfZFhVamozLVIzRnYyM1JrcWlvSmJFUFF4Ymx6MkktZnc3RUtwbE16QUp2dUlRNDFLc0VRQ19ETEVkdk54ODZIRmJIMWw5RHo1aFFHN1ZuTzlaQXlJTEU2SzA0OEpYMThrYkplRXRTVzQ3eWJ0THZucjAyUzJlVzdUV1ViVVJ5QWxtVmVqbWhwTVE1ODI4MTZCajhUY2JFQ1FfTWRqUG14eTFVQWloVjF1b2hiMVhONXp2ZUxlZw?oc=5"
     },
     {
-      "title": "黃金危險！最新「目標價」被調降了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtYnZoQUJXVk90c2hPdV8zZW1FUF90eHA5eWZQTXhqdEtwc1dnajZ0UkVpbFJnUnJFd3M1b1VQZmNTUWtOQVliZHppdDE4T2tIY1J5Z0g2dlhabkhTTW5R0gFkQVVfeXFMTnhvdm92a2dZNlhlaXNrX3NfbWFkMW9uMXVKNm5JR2M3eEpJNHZzWTdUdnNrRkNZd19CRnRCaldXdjF3VS1wdkdtQVRWeFFwMHQxLVJDclNtTEpXR2RwcmE1TkhZVQ?oc=5"
+      "title": "就業數據欠佳降低聯準會升息機率 美股收紅 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xMmd2Sjc3RE5uaXNweUw1X3l2d3RsQTNHSWlBa2lRa3laa25xZlVDdGNEdlRBbzVSNVhMQVYwYjNTSVVhbzBiZ3RLUnZaa2dEYWF1QzlSUDNlejVD0gFiQVVfeXFMTnVjdjdyNFN6Z1BhX2ZuTjBvQnZyY3hhMHVGRGluekxrZ0NyX2c2bmlGazJVay1CR04wWkYtYmlVMXkwcGhtaFdraVphd1ZJQU5rSkN3cm9JTnNIM3hvTHRQOGc?oc=5"
     }
   ]
 }
