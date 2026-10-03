@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/03 09:27",
+  "updated_tw": "10/03 14:59",
   "taiwan": {
     "2330": {
       "price": 2500.0,
@@ -36,50 +36,50 @@
   "us": {
     "NVDA": {
       "price": 233.95,
-      "change": 5.57,
-      "changePercent": 2.4389
+      "change": 3.09,
+      "changePercent": 1.3385
     },
     "AAPL": {
       "price": 333.69,
-      "change": 0.67,
-      "changePercent": 0.2012
+      "change": 3.37,
+      "changePercent": 1.0202
     },
     "TSLA": {
       "price": 370.59,
-      "change": 15.78,
-      "changePercent": 4.4475
+      "change": 16.48,
+      "changePercent": 4.6539
     },
     "QQQ": {
       "price": 749.58,
-      "change": 9.81,
-      "changePercent": 1.3261
+      "change": 7.55,
+      "changePercent": 1.0175
     },
     "SPY": {
       "price": 769.64,
-      "change": 7.01,
-      "changePercent": 0.9192
+      "change": 5.65,
+      "changePercent": 0.7395
     },
     "SCHD": {
       "price": 32.72,
-      "change": 0.19,
-      "changePercent": 0.5841
+      "change": 0.06,
+      "changePercent": 0.1837
     },
     "VOO": {
       "price": 707.54,
-      "change": 6.68,
-      "changePercent": 0.9531
+      "change": 5.19,
+      "changePercent": 0.739
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84596.39,
-      "change": -256.7116,
-      "changePercent": -0.3025
+      "price": 84558.86,
+      "change": -294.2416,
+      "changePercent": -0.3468
     },
     "ETH": {
-      "price": 2677.74,
-      "change": -27.7971,
-      "changePercent": -1.0274
+      "price": 2679.2,
+      "change": -26.3371,
+      "changePercent": -0.9735
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4172.1,
-    "twd": 4265.0,
-    "tael": 159937.0,
-    "twdTotal": 132656.0,
-    "changePercent": -0.7186
+    "usd": 4162.3,
+    "twd": 4255.0,
+    "tael": 159562.0,
+    "twdTotal": 132344.0,
+    "changePercent": -0.9519
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,16 @@
   },
   "news": [
     {
+      "title": "〈美股盤後〉非農爆冷！Fed升息預期降溫 那指周線喜提連三紅 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VNXN5MmtwcHN4eFdlZFRQbGtweWxBNlFEWDgwYXVnMjlDVVU3bDNsU3VVVFVMQXM2OUVadjZka2RfMW5DMmpPRFU0aVYzOGs?oc=5"
+    },
+    {
       "title": "美9月非農爆冷！美股收紅 輝達領漲那指 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQSmNxejFVQW4tUHd3QWdoc25TbHZELTF2c0tYTWtZb0JGUmNzQk5HZ2p2b0ZmRDVZeUhYWEdVMUJQMkM1bDZ5Wm11Y0Q5cGd5X1hhZnF0a2pLU0lNRUwzUXJXV2tvdl9RMjRFRkFwQWxQT0xhZFFsTDFuaDBYU1IxZ1dJRVNLYzNUUDZHSGk1VkdhX1Z4QkFRR3hCZEhwd05KOURiemFOdUxacGJFSUh1ZlNndHhmdWtzTk4zQlgxeHpVU0pmTEtDSmZsM0tBMFdSWlFyNDE0eVNxUTBfbGlhTFVCSFRRUVVVS0JTOUR1SGx0U1ppb2RlR21PYU9JWkZwVlY4SUFORi1neFJFSy0wZk95WTZUUnc?oc=5"
     },
     {
-      "title": "〈美股盤後〉非農爆冷！Fed升息預期降溫 那指周線喜提連三紅 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VNXN5MmtwcHN4eFdlZFRQbGtweWxBNlFEWDgwYXVnMjlDVVU3bDNsU3VVVFVMQXM2OUVadjZka2RfMW5DMmpPRFU0aVYzOGs?oc=5"
+      "title": "比特幣 8.7 萬站不穩！高點回吐逾 2,600 美元，退守 8.45 萬 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWhleF9feFF5QnlkZGc4UUVrTHFNS0FFZUpsR2RXZldoZ1BrU0R3Z3lCWVBSdnMwM1lWblVkTnpXNHZXRjd4REoxV0xSZEt3aUlqTXdvLUJEQnhwR2o1aGJieDVobFRrSEtCcVNqQzlpckVOeWtDdTc2aE9DN0lNZFFKRUJKUWRaNWw2WUVB?oc=5"
     },
     {
       "title": "快訊／美股開盤大漲「費半勁揚384點」！台積電ADR也起飛了 - ETtoday財經雲",
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiygRBVV95cUxOTzNKM3FFSmF3T2tBM1dEZk9RNzVHMjRCUlZFeFQ5UHFBbVoySkQtNDI0NlFETkNKSnN6ZFQ0YnprbWlsQlZBb0pZcF9mVHByZWJPLTFibGVnai0welMwWmxkeWFnMHJPSXRiN2JyQmlhckpRM1k1SjlkRlVjSGhmTEQ0emFoQW9MM3hrZXNsT2RZRXhENlFmT1JKMzhfNmxJaDMzRjFRRGs0LTBkY3IxZWxoLUFnelFSV1loVVkxV0Njc0NRRGxKUkdOakZiQWoteHhLN0RBbGlSN00wbnhjVi1EMm9IT2VVOVJtemhDTVd0TVBGT2c2RVFtcHFSRjFUVV84X1V2X0huRUZoeDc2clQ2N1pVVlh6NjJtXy1UYW1jNGhMZ0JhVHlpTndEbkxlMEtLT2JsN2cta2JsSk9kVWpvSHRGc1JnSTB1OV9XakJvcnhlbS01NmdoQXFUNzZZRHJzaWNkYTVLT2NFUzJnNHdEeFJKZ2xvTHdkQjQ3bnFrSjctaFRqaUFGRmVIWjRKRmNWdDJrOEp0R2g2REtCZ0d5R01yUXJXRnJCYnlUTkROeTNtU0lGLTBzZXNlWk5YWnVVM3hTVHE3WGhadUUxMWVDdVBubm5YZ1QwWFRrZkN2WUl5UXVUOG0xX25sSVNwbGkzd0ZhX1RVN2NWMjBHTWFicWJuU3BtUTFXR3RZYWd3SHNwUkwyNkw4bFJjdjRKMzRheUxkWWd2Z3o5aFlKY2NPdzVFQzBiWUlvekJna0xraDVwMUlYZ2ZB?oc=5"
     },
     {
-      "title": "比特幣 8.7 萬站不穩！高點回吐逾 2,600 美元，退守 8.45 萬 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWhleF9feFF5QnlkZGc4UUVrTHFNS0FFZUpsR2RXZldoZ1BrU0R3Z3lCWVBSdnMwM1lWblVkTnpXNHZXRjd4REoxV0xSZEt3aUlqTXdvLUJEQnhwR2o1aGJieDVobFRrSEtCcVNqQzlpckVOeWtDdTc2aE9DN0lNZFFKRUJKUWRaNWw2WUVB?oc=5"
+      "title": "美股選舉年也有光輝十月行情 但能源價格將左右一切 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14RVRpUVBhZkV3N1dpTHZtb1ZucnlYclZtMVJaTlNYajJKRVg3QWhfQUNNTzFmLTQzS3FrTXAyVGFGQjJyZ1YtLVF6WXV1MDUw?oc=5"
     },
     {
-      "title": "美股藏了顆雷！路透：震盪一來這類基金恐爆逾1,000億美元賣盤| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pSUR0RUlla1FTWUJ3NWJ3X2ZRNDJSUG44d2FRZjVrQVBsc0xCOHRIWVpuU1lRWDFJcU1DX01nWV94ejRlNlZfbXpkVDYzQ1U5?oc=5"
+      "title": "黃金出現矛盾訊號！聯準會10月升息機率驟降 金價本週卻跌慘了 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tOGlDSjZWV2gxNl9rSUV6RjBSdXVnUXU2VXItZVFROVB2c3MzcDk0X1B0LWEzY0lvU0hVNUxRZy15TEM3YXlKUlFQcGRjYk5WajZHc0NSRFNEcS03cnZv0gFkQVVfeXFMTWd4QTg0UkpjdUdSU1lRVUd2UDkzc0oyaGZ4T0Z5NjVEdzRMNGFjY1BwSHpRM1RScmw5b1p1MGV5VTdjUHNwU0RwRTV5c2xMR2RuR3dBaWxNbW1HWTJ6aGJnaUtENg?oc=5"
     },
     {
-      "title": "黃金要崩了？下1站3750美元 美銀全說了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fMTktc3ppVExpQ3poUmluRGVoa2h0UGNWME0xOHBrVmgyWXFFcnpOWTJNZXNaNWRXZEhOZlV4NmQ0cUVFWjY5clZVRzI2SmV6ak9DU0RlN1RyZnM0bVNB0gFkQVVfeXFMUG9TU2RYQWxkTmVwbzZfSHVFakVyU0FoLWpKcEFVMzVha1VKNHVqYVlWb3RlMXVEb3RYcFZ5a0hCb1ZpMm9FMGFPQUVBQ2ZCd1VFSm1VdG16SW1wTmhzeFZGUlBBRA?oc=5"
-    },
-    {
-      "title": "衝向5萬點？美股全面收高 台指期夜盤飆漲677點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQeFd5WmphT29IQVRvbkxWWXc1X2cwRzRjdmpWRTlLRXM5UWlISXJybEtMTm5RekN5bVltSEV2WW5HRkZUcF9wUllTeFVHLWRfcnNHcnB5R1UxRlBSUmk0cHJienI1LS1HVXVaLUVBTVJhallkTUVzUTNyYzZmVnJLbko0LU5id0QtUUJvT3JYU3YwTzUydGJ4VFBZSDRrQ1lXVm1zd1d0RGprR3ZDUUJrcjItd3lNOExuNXh4RjM1QTdPalo4WHZUczR0SGdWb3FKUW52S21EWV9jd1dSSUVqZUs4ZHczUHJmRTlpZDU3UVlHMnVmRXhDcGo1WWZKc0NBNmNPRWVNdWpSUlppZ19MYmNqa25kbEVRdEVUZUhUaW1wRS1pUE84eHVzbDloeFUxemFzTTdOdjN5bjA?oc=5"
+      "title": "美股要「通宵」了！ 12月起邁入23小時交易時代- 股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yZ3hsV1hrbGY2MVZ6MTFiWWdneVdkMW02MlZkTW5WRFVuY25vT1BDaUliMU12aHJzQ1Nzdy1sazdtSlFMTmdUbjdVOUJnemRQZGdvcENFcUw?oc=5"
     }
   ]
 }
