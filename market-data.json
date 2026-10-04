@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/04 06:20",
+  "updated_tw": "10/04 09:49",
   "taiwan": {
     "2330": {
       "price": 2500.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84764.67,
-      "change": 267.4591,
-      "changePercent": 0.3165
+      "price": 84762.79,
+      "change": 265.5791,
+      "changePercent": 0.3143
     },
     "ETH": {
-      "price": 2687.93,
-      "change": 19.7789,
-      "changePercent": 0.7413
+      "price": 2692.55,
+      "change": 24.3989,
+      "changePercent": 0.9144
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "黃金連殺2週可抄底？失守「這價位」恐再跌 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lUHB2THlia3FTMlF6TXBBOGVrbUt6MEJZZldjemdtM2VPY0hPQlZ5ZV9ETGw1TndNRXh0YkRuTHIzbFhqSEpIS1NGWklVaWczTFlveXVLTmVCNHA2Z2Nj0gFkQVVfeXFMT1c0eEs4bVNoRlNHa0JrNXVjLTNiTjlOZzNBQmZIMlRjMmZBNGRzNGlEZEN5WEMteGJTYWk2OERhbjNoNkp3bEtCRHNPQ1FuQnpqVXpqZHVLa2g1dnJndkhoTnVndg?oc=5"
+    },
+    {
+      "title": "美股要「通宵」了！ 12月起邁入23小時交易時代 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPYmdfM2tTZ09GYWg3bm9Mcm1qU1JSSnhXY0hocXdWaXVVYU9GWTJvVlJaUWZpM2g2Xzl4T3pNTVZwZ191U2txOWRpLUVRb1ktODVpS1kzaUxZLXFIbHMzQTBCR0RjSlNpVy01UDFsS0huWUg3TjZmOWdKbGJWY1VMekFkRHp0b0dQdXlUQWREMVBTUk9UN0FMY0hGREhJRlhpY1d5YnhEeGdtTGRXRkF5MmlmSW1IeksyMm1QbVdKVnRGdzZyY3ZYUlhnc2Nvd2xtT3NTRzBtUmI4S3YwS1hRbzJFUFFZVkdzWUpHdU93Zml5OHRkSEV0Yy10Ukc1OGxoZTRaRFZBX2R1dEdOWExxSTVOWTJ4QXVpbm5ZNlVyX19XTDRC?oc=5"
+    },
+    {
       "title": "〈美股盤後〉非農爆冷！Fed升息預期降溫 那指周線喜提連三紅 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VNXN5MmtwcHN4eFdlZFRQbGtweWxBNlFEWDgwYXVnMjlDVVU3bDNsU3VVVFVMQXM2OUVadjZka2RfMW5DMmpPRFU0aVYzOGs?oc=5"
+    },
+    {
+      "title": "美股藏了顆雷！路透：震盪一來這類基金恐爆逾1,000億美元賣盤| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pSUR0RUlla1FTWUJ3NWJ3X2ZRNDJSUG44d2FRZjVrQVBsc0xCOHRIWVpuU1lRWDFJcU1DX01nWV94ejRlNlZfbXpkVDYzQ1U5?oc=5"
+    },
+    {
+      "title": "期中選舉行情？10月迎來歷史最強月份，美股第四季還有戲？｜美股評析｜豐雲學堂2026 年 10 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOckMzWnZjTHdWMXRlVG9OODdhNnVjOU9vYkNjTlBZMmdsMjVFUVZTU2RoUXJBVzVJbTV0Sy1xb3BaNWIyNUZ5V0lKQWhmVWhjMHBoWHVsaVBlMmhWcXpCQ2wyVHBKOU5HR3loSkdmWFpqczJtVS1pOWN1bFNRcFQ0TWQtc25jLW1nT2ttVW1qcUlsMUxSdnhqTEZ3VEJnanpZNkMxenNROTlZWlR6WUVDd2FZZnhJUTRhSnNFZHBlWTZnWlRCeXF0SE41aVozZVE5UG5fZjBWckNmcUVxendfSEszRjlwNTRaX3M4VUpHVE9TUU9oeERrODRHTndnaF9sNlBqQmltWF9tUnNkN3QzaUdybEFad0Z4Yi1qNTNxcW1tR08xWEhqWGhJeGdGMzUycHhyS2d5MXlUcHFiR3R6TkVFYUdOejRGRFVUWVdzUjhhVXhNcUNHN1F4cW5WeFNDc1NwdkZlX3prNU5IaTMyYU5kY004UE9vVXZ4TlpEaWxfTWFraTkwTWU3dndkaDFQXzdzclVCVGhIS3hNR3NJX2hsdFA2cnJybDRyU2hxYzh5RTYzTmxGa0lTeFpNZWFySklJQTNhRkdVMHRqcFhkcA?oc=5"
     },
     {
       "title": "美非農數據爆冷！美股收紅、科技7巨頭領軍起漲 這「記憶體」暴跌超過10% - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNSGkwYnZpLVJjSENGUER1ei1xdlpLcXhQNXEwdFlpNE03MUw1cUJBdktUSnFtRTNzc3RCUnpUSUFHSTIxRWE4UmR6cWpQOWQ0UktKWlpLeHlGQnBiQ3NqSm12V2NOLUF6QXd5aXRGNDd6VUlnZTlsQW9fXzNhTTBvczFUa3VHNl8yY1AwUktfbjlvVjBfaXoxbFFRNmRNSWpyYV9jODFyMXBORVI5MlBVREhDcS1MN1RWbzd5YnN4TW9yQkt6OHZJU1V6SDZ5eGJUNlRmOXpNQXhvd1NaTExoekdSbGtJbU9JUU1wWFVCN1hpbGhWaDlRejVwVmtaZVJCMzQyUm50TUx6bkFaVTRMUkRIVjlGbGFYMm9IUnFBNVJSeVpPdDNpVG9Wb19uQm1sWm1XRzgtV0drTzZ4dU84WFhCTjgtV2wyODItMmlDWEZ5WU9rVzJpejdCblVFcEZfSzREUDQwRXNETGVRUnFtTEMwRm1JZw?oc=5"
     },
     {
-      "title": "黃金出現矛盾訊號！聯準會10月升息機率驟降 金價本週卻跌慘了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tOGlDSjZWV2gxNl9rSUV6RjBSdXVnUXU2VXItZVFROVB2c3MzcDk0X1B0LWEzY0lvU0hVNUxRZy15TEM3YXlKUlFQcGRjYk5WajZHc0NSRFNEcS03cnZv0gFkQVVfeXFMTWd4QTg0UkpjdUdSU1lRVUd2UDkzc0oyaGZ4T0Z5NjVEdzRMNGFjY1BwSHpRM1RScmw5b1p1MGV5VTdjUHNwU0RwRTV5c2xMR2RuR3dBaWxNbW1HWTJ6aGJnaUtENg?oc=5"
-    },
-    {
-      "title": "台股擂台 第3季「低調黑馬」陳奇琛賺26% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Md3RNeUlCZ2w2T3lLaDVlZ2pxa3BhbXVzcF9qbWZ4RExTVjZ4bWtLUzM4VEgwcjNaQ0htbTd6TmU0X2tXYW8wTENxS19HNGc2MWRncklqYXB5NS0xR1IzLU95YVJreTJ3MFR3VHcwY3NJdw?oc=5"
-    },
-    {
-      "title": "台股翻紅成功漲122點收48475 再創收盤新高| 金融 - 非凡新聞台",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GS2lPbzBRVTByUDRsNWJHUVNPWDZSeEVMOXZOZDZtcFVaQVFJWTFLQ1dRd0NfV1htZ0VzYW1aaE5wcWpUdXlSclRFdjQwRm82eDBRVkg5TmZlMFNi?oc=5"
-    },
-    {
-      "title": "衝向5萬點？美股全面收高 台指期夜盤飆漲677點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQeFd5WmphT29IQVRvbkxWWXc1X2cwRzRjdmpWRTlLRXM5UWlISXJybEtMTm5RekN5bVltSEV2WW5HRkZUcF9wUllTeFVHLWRfcnNHcnB5R1UxRlBSUmk0cHJienI1LS1HVXVaLUVBTVJhallkTUVzUTNyYzZmVnJLbko0LU5id0QtUUJvT3JYU3YwTzUydGJ4VFBZSDRrQ1lXVm1zd1d0RGprR3ZDUUJrcjItd3lNOExuNXh4RjM1QTdPalo4WHZUczR0SGdWb3FKUW52S21EWV9jd1dSSUVqZUs4ZHczUHJmRTlpZDU3UVlHMnVmRXhDcGo1WWZKc0NBNmNPRWVNdWpSUlppZ19MYmNqa25kbEVRdEVUZUhUaW1wRS1pUE84eHVzbDloeFUxemFzTTdOdjN5bjA?oc=5"
-    },
-    {
-      "title": "美股十月有選舉行情？ 3關鍵左右走勢 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wd1h3WVd5eThOaTVJams4WDREYzFOVlJwSTRjOW5EWW90RTRRbEFQUjdUQ3F3MUc3TTZaQk1YamRwaGwtV3V1YmhiUzhBSlpl0gFWQVVfeXFMTlVsNGFEQmhpOG16S2hvQWJHNnhRajNfSUpMY0V3dTVXd0hfYkYzcmlpYU1yclMwMmJpaGpiNDV3RUtpVWRmQk0wTTcyaGNPT25MRUNsWEE?oc=5"
-    },
-    {
       "title": "美股收盤》就業數據爆冷！道瓊拉升250點 台積電ADR漲近3％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYU1A2Skl2alFOQ3VRbXA0eE9xWmhyVTQwVjhZT3JlUFBTM2tDUUNaVXpuMURReXRKR2FIQlQ5OHB6bjl6V0hBblBMcFR4R2NjcE12Ull2U0dVMEhUUkpv0gFkQVVfeXFMT0ZQeWlzd2VsTndwXzRIZW5fRVBBX1Z3LTVQM3g0OXVNeVFHZVBpSXRCd2tQME1GSW9kMnM3WS1yYTZSVE5UdlViOVdZd1hjd0FqNVZqSVdwVXhjeFQ2a0xYUk9KTA?oc=5"
+    },
+    {
+      "title": "〈美股早盤〉非農爆冷變利多！美債殖利率下滑 主要指數開高 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUbm1oUmVnaTM4eFUxTFBDQVc3SW82QzJxOUtTcGlsN0VzazFvcGVYUmRGaUV2cUt2dzdPZmtCaDYtNDhHY3lGcHAta1dwOEU?oc=5"
     }
   ]
 }
