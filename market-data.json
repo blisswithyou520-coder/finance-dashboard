@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/04 21:43",
+  "updated_tw": "10/05 01:51",
   "taiwan": {
     "2330": {
       "price": 2500.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 85227.99,
-      "change": 464.4119,
-      "changePercent": 0.5479
+      "price": 85373.85,
+      "change": 610.2719,
+      "changePercent": 0.72
     },
     "ETH": {
-      "price": 2698.8,
-      "change": 11.5446,
-      "changePercent": 0.4296
+      "price": 2703.9,
+      "change": 16.6446,
+      "changePercent": 0.6194
     }
   },
   "fx": {
@@ -99,7 +99,7 @@
       "changePercent": -0.1147
     },
     "CNYTWD": {
-      "price": 4.7436,
+      "price": 4.7494,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "本週操盤筆記：美股Q4迎AI考驗、債券殖利率飆升、Fed會議紀要 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJNDhrbHlNdFAwUk1aTENNUnUycjJDY2UzMHR5SXN3RmdBbjVxNTdWSG5ScEpndE1uNTNkTENVbng5blBCZEtpdTlkY1pNd00?oc=5"
+    },
+    {
       "title": "「鬼故事」嚇崩美股記憶體！華邦電、南亞科挫咧等？專家：影響其實有限 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPX2JRdmRWQWQ1TFhMVG9zVkdLc2hhOHkyM0VSWlppM1VtRG9ERW13UHFjS0xjSzI1MWNOU3hTMElpQktZSEdWTld0dkFvZm1zWnE1MFU0cHJaLTF1dVcwc3MxZFZDcmdfeVVWanRyZlJkakNfU1FpZ1FkZ2tSeWlkNVJid1Rjd0lvY1NMdm1tRnhGempLMDE4Z255X2pYQUloamZzSWdMejJrNEdEMTlKUER3d3Nkd1JtRHJHbFRmTE1KT2pWOTByd0pIMkd2OXl0X3FQM29RM09sTmQ0bTFMV0h0TFVneHhQck9GRjRQd0dIOGUyZzgwWXA3QmZxNWlPRFA2bGwwSEFWQ3NnNXlBd1Z0bnRMV1VKT08zQkVwNldta1FBS0Y1dGF3TDhSQlE4SElwZVRwNDlrTkF1SjltSXM2WEdMaW14UTB1OTR1T3BVZGN0X0FqaExWcl8?oc=5"
     },
     {
-      "title": "台股無懼國際市場紛擾逆風創高 下周關注這些「變數」 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaY0V0STdheWo2TVUzX2tNUF9FRmwtLUtiYnRLQ2VJZFhhRUFKWllvRzdXbXIyejNPdXpwdkwtbHYtWFNibWZoY1E3YWE4WW8?oc=5"
-    },
-    {
-      "title": "一休眠13.1年的比特币地址被激活，内含801枚BTC - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyVFN6czQ5N0tUd1NIR3YyRWIyOEYwMEJmb2N2M2E1MTcybW84eVQ3TVM5dzlJVnl0NGVFc242eXM5RDkzLVM2ZXFPUFgtc0w2eDR1R1NaT0ZCSzFoNGJIMGNVY2prZw?oc=5"
-    },
-    {
-      "title": "光寫遺囑還不夠 比特幣這類數位財富怎麼留給下一代？ | 金融脈動 | 金融 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qeGRhRC1iSzB1UkY5cG9VcTE2X3RaNnJmUlNfSXhUamREVWdVVF9TQTdCSngxdE41dDNNTTVpY19tZ01jbEdDZC1JTUdJYWNFR2c0MVVQekJMMEY4djJPbHRwaWswU3BYUEktbnRqdTZlSURLOUtHS3pn?oc=5"
+      "title": "黃金期 靈活操作 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nRUFKNmhGUEcyRzRISFI0NVVCXzVKX3ZyalEtaGV6Xy0xQi1sN2pOWFBUQmx6MzRjbGRpQV9pNzJNUG5uLS1zQy1mbGg2cHpfM25Na09UclV6dlnSAWBBVV95cUxOX0dUT0xrRU9JOVdsa2hIb3J0VGVLZ1BVQ1Qwb0MxYk9ieVRRb29jbmZoRWtFM3dLNU9EMlVJTDljdXhFVUdtNlN0LVBIMGhTOGNKd25iTzNCX1VRT2ZWc3U?oc=5"
     },
     {
       "title": "黃金連殺2週可抄底？失守「這價位」恐再跌 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lUHB2THlia3FTMlF6TXBBOGVrbUt6MEJZZldjemdtM2VPY0hPQlZ5ZV9ETGw1TndNRXh0YkRuTHIzbFhqSEpIS1NGWklVaWczTFlveXVLTmVCNHA2Z2Nj0gFkQVVfeXFMT1c0eEs4bVNoRlNHa0JrNXVjLTNiTjlOZzNBQmZIMlRjMmZBNGRzNGlEZEN5WEMteGJTYWk2OERhbjNoNkp3bEtCRHNPQ1FuQnpqVXpqZHVLa2g1dnJndkhoTnVndg?oc=5"
     },
     {
-      "title": "台股5萬點倒數？夜盤狂衝4萬9346點 達人揭10月ETF「8%配息潮」 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPZFYxZHVyMV8zMWJISlQwcTVBVHZlSFRVX1dYdGFWcXlYV0JoYkFmSXBGdk03UTlmXzZaNHVWOXMzaFJaNDlmZlJjeGl3UUJaTnNXNjdSOWJBdUhrYXdlX181MDRvRGFNUW4ya1p5SjYxQ29wNmFPNXhNNlVIX2EtaXFnajExNjF2d1dydFhsRmxncmxOcGtiZmpneWFvQ0t1d29ab3JDeDlrbklObmN5MFZKMWJGZzgyRHBZbUlXQjV3QnBLYnpRTGIwaWxpYU84T2VzaUhmSkFfc0tybmZnNmxsa1B1TnUxUWJLWWVvMFJLRGgzQW14NVVjaUZkdEcwVGxUQjNyNi0xMi1lWkhGYklKOUN2djZQWjVuRkdmSDNsR2V0VDVIRVNiUUp3cGRhTDd5M3otZWROMHcyNmlzOEx3UmVXNnZVbUpfdjhPNlVYTExJ?oc=5"
+      "title": "台股週五小紅 明開盤前風險曝 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd0JXVERFVnY0V2pQQlJmeURET3o3cGUybm5OcVdWSW5XMEdhRllVR1VZdktuOXJnWFAxVUlEZnVYOEwxcXptRFNRTzZSTEpfaGgzRVotY3I5M3NIbFBBcEV0X2VPS25JcHMzb0pzQXFpM0FfSHVmQmJXVjN3dW5jdmIzVk1DR293ay1oS096Y0MwWkV3REhKVTNEbGRKbGZEdm40WFU1aFgzZkYtcjlwYm5CbWh6TFFwSmlDQzFNY1IzRm4yVXZjMlZLaEszVWQ3bHZnV1NUYVdSczdIb0JWTFBQV25Gb3VnWmdmX1FSclQ?oc=5"
     },
     {
-      "title": "休眠13年的比特币地址测试转账，持仓价值由24万美元增至1.15亿美元 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43aUpTcm9HWHNKem8tRmUwM2tyR2k0T1l2ZzZyam9RZjVCNUlfVUluUjlDV0M2MjBhbmJ5YVdnUlVBa282UzVGQ2p6WmVXdWtoRFlrUm5Oa2oxQmNhclpuR05fR3JTZw?oc=5"
+      "title": "DWS 投資黃金貴金屬股票 USD LC 的總覽 | 鉅亨網 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFNSVZTQ2kybUxab2JiUmFnSFpVQWFzQzJBLVZqS0xQT2hZYjRaek1WR3BET3BWRkZNVGJzdXlsTlZZSWg1RWtGY054cGF2bVFySFJkUXVLcWVmamhra1lMaTRDd09OX0Vtc0NfQnFyU19wdUhRUFFNM1dpbmRPeWhWcHZHaXdVQXRwT3NUb0ZjanNUTXV4eWR3RlQwTWRERVFRLWx6U2VSbnFOOE5rcHJ0RU9raXkzdWNMUmZoa2JpOS1UQkxTTm5pWHBUSDc5T2U5SHJYU05uUTJmV1JybENpVQ?oc=5"
     },
     {
       "title": "美股收盤》就業數據爆冷！道瓊拉升250點 台積電ADR漲近3％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYU1A2Skl2alFOQ3VRbXA0eE9xWmhyVTQwVjhZT3JlUFBTM2tDUUNaVXpuMURReXRKR2FIQlQ5OHB6bjl6V0hBblBMcFR4R2NjcE12Ull2U0dVMEhUUkpv0gFkQVVfeXFMT0ZQeWlzd2VsTndwXzRIZW5fRVBBX1Z3LTVQM3g0OXVNeVFHZVBpSXRCd2tQME1GSW9kMnM3WS1yYTZSVE5UdlViOVdZd1hjd0FqNVZqSVdwVXhjeFQ2a0xYUk9KTA?oc=5"
+    },
+    {
+      "title": "美股藏了顆雷！路透：震盪一來這類基金恐爆逾1,000億美元賣盤| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pSUR0RUlla1FTWUJ3NWJ3X2ZRNDJSUG44d2FRZjVrQVBsc0xCOHRIWVpuU1lRWDFJcU1DX01nWV94ejRlNlZfbXpkVDYzQ1U5?oc=5"
     }
   ]
 }
