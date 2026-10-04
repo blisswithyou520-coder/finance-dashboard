@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/05 04:53",
+  "updated_tw": "10/05 07:50",
   "taiwan": {
     "2330": {
       "price": 2500.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 85761.01,
-      "change": 997.4319,
-      "changePercent": 1.1767
+      "price": 86523.77,
+      "change": 1760.1919,
+      "changePercent": 2.0766
     },
     "ETH": {
-      "price": 2705.11,
-      "change": 17.8546,
-      "changePercent": 0.6644
+      "price": 2726.02,
+      "change": 38.7646,
+      "changePercent": 1.4425
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.796,
-      "change": -0.0908,
-      "changePercent": -0.2848
+      "price": 31.826,
+      "change": -0.0608,
+      "changePercent": -0.1907
     },
     "JPYTWD": {
-      "price": 0.1992,
-      "change": -0.0027,
-      "changePercent": -1.3407
+      "price": 0.1996,
+      "change": -0.0023,
+      "changePercent": -1.1426
     },
     "EURTWD": {
-      "price": 35.823,
-      "change": -0.0411,
-      "changePercent": -0.1147
+      "price": 35.853,
+      "change": -0.0111,
+      "changePercent": -0.031
     },
     "CNYTWD": {
-      "price": 4.7494,
+      "price": 4.7497,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4162.3,
-    "twd": 4255.0,
-    "tael": 159562.0,
-    "twdTotal": 132344.0,
-    "changePercent": -0.9519
+    "usd": 4173.2,
+    "twd": 4270.0,
+    "tael": 160130.0,
+    "twdTotal": 132816.0,
+    "changePercent": 0.2619
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJNDhrbHlNdFAwUk1aTENNUnUycjJDY2UzMHR5SXN3RmdBbjVxNTdWSG5ScEpndE1uNTNkTENVbng5blBCZEtpdTlkY1pNd00?oc=5"
     },
     {
-      "title": "美股科技股持續創高？彭博分析師這樣看 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQZm4yaGtoQXZSRFhVa0l3M3pEdUIwRzUyQWVLN3dVYnhYM19MV1I1aEN2cVRqaHVUeGRrNjFva183Tl9kS2ZhT2FIWk5KdFRQVUtUY2E1X2tzaHZZdS1wMTl5c2I0MWNENDNOWTZiRGhEb3lVclA2RTVSWENjRkZEZmJuYUtwUFcwNFc4bWFUaU1Tc0w0TFdmbm1fVl9yYXRjNUhpSnU4Y3hxdFlONkp3V0p3cHlCYVMwb1RLbDd0S1JjZG9WY3ExeWhseG40c0M0a0lrbm9kLWludFlBcng4WTVQdWUxX2lIaHVncUtaQ1hnbjFKaGVVSUJFQzM5T2o2RFFiVUw0eUMxdk1DemJkVjJIdG10dVRYd25KdXZPbmU?oc=5"
+      "title": "台股「13個月魔咒」再現？歷史規律大解密 月KD揭高檔轉折訊號 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPcWRXdzgzTE1MSHh5aFJhUEpLblkwdDRqRHB6WmRzS2Q5Z01QRHgzanVrak5hd1dubEVpTTRkV25iNGFMblpHeF9vbEpaMEdTYkh3WFFXREZZbEgwZUxIYjRPOE5wZHBLNFc4NWVBc1NOc0FYWFFWd1BHZ1l5VkU3b2tJTmNrM2RoNUVoV3JEU2xHUDdLdUZ4d3NoYS1Zc3FhV0NWMlZkbklXYlVHeHdxREx1dXl3b2loZWlrQTVMZUpEakJac0RObE85RThnZVVlZ2NMX3JYcWlIM1MyY21JTHJ5Zmk1SlZ4ZXhmcm80d2FSWS1RWHhuVXg1ZFR2Zl9PZ2tLSDJEei1TSWJGbUJQakdFMDhhSHliZHhxalhqcVNBTTNUM0ZZdVE4YmJWQjQ3VVd2T2FFQmtfYmdtN2FCWWV3YUtCbzZEUGRuWmE1MTZOcE0wMkZZS2RsVEZjN2h0dHdGOEhhTjNTai1VU3gxZ1duMUNHUTA2cEE?oc=5"
     },
     {
-      "title": "黃金期 靈活操作 - udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1VDFicUx2ZWR1UFhyUHotT1NzMTJCT2o2NU5TS0U1elk2d2tsaGF2SEJNeE9hRFRkZlREeXIybXlZRjRjdENZR09SR0xNQVpX0gFWQVVfeXFMUGVFREZBVGVxMmM0eEhGLXJaazJoUnZ3V0J0UGR6a0RIQUNRcFdtNjNRYXRYc1p3VmVXZDJMUG43VWdsM2Itd2lZYmZ4S0tNNERSS0h5UWc?oc=5"
+      "title": "台股快5萬點「誰還賠」？苦主曬一排名單 有人慘套60%：大盤回去它還躺 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XeS16NVYyWWR6azc2Ymo4MzE0RmZTX3Q1Tl82SG1FTEdsTFNqdU5YanZhY1ZWVml1djR2LTJCMTZ4NGw0VFlfVkdlWjFNZk90U1HSAVdBVV95cUxNenpjT0lQYm5JS2hmRXB6S01qLTQ0Szh6V1U2MGh5U1R3R2tHMU5qN2NyR3NVYUJNQU1OUHdZVTl5cmtIXzBBYjhtaHFPTm9zRzlvNTNwTTg?oc=5"
+    },
+    {
+      "title": "比特幣熊市已結束？CryptoQuant執行長指新一輪循環啟動 - BigGo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tbFZZT0ZyVTZzNDhGVTVTdllBRGZWQ0JfZ0VzYU5wREpKUWlPUDNpVURodDloUG5QNFFpa3ZIemxDMFJnVjFoNjFweXZUaWhhdjVreHZzb1ZlX0ZYdzJFSjJTNEp4Vkxzajl0UlFRMG5sX1RIMWU1czVR?oc=5"
     },
     {
       "title": "黃金連殺2週可抄底？失守「這價位」恐再跌 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lUHB2THlia3FTMlF6TXBBOGVrbUt6MEJZZldjemdtM2VPY0hPQlZ5ZV9ETGw1TndNRXh0YkRuTHIzbFhqSEpIS1NGWklVaWczTFlveXVLTmVCNHA2Z2Nj0gFkQVVfeXFMT1c0eEs4bVNoRlNHa0JrNXVjLTNiTjlOZzNBQmZIMlRjMmZBNGRzNGlEZEN5WEMteGJTYWk2OERhbjNoNkp3bEtCRHNPQ1FuQnpqVXpqZHVLa2g1dnJndkhoTnVndg?oc=5"
     },
     {
+      "title": "比特幣站穩 8.5 萬美元關卡 多空拉鋸待 ETF 買盤證明後市 - 商傳媒",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPV040czhwRnlNdmZuT1d0X2ZrZDZnbnhPNWdUTUk0VXBqandqT1M3TDFRSGdCYWVVaWJzLUVXZlVTTUdFS3hJem9JeVJvV2FLeVE1QlJieHdVTmpsbXA4THc0aDdaUDU2Z3lIY3JEbHNMaGNhU20tQVV2allUWlQzSENqZ1ZvajN3YXhiSENYR1piemZIcUNicmo3ck40SXJPbjNwaXQ5Rl9lNEtsd3ppdEtHTm4zY0ZBRkMwR1VkSk5KLVo3dWlxTWxVUTNvdnhmeFZYZDFwUzlQYnZ4MFJqakI1cFZCbms5ZlZvQVN0OU5TbU5GWlVOWXQweHA2R0RWTHdIaU81QTdNdlB2SHhtUDhKU0tCeXQxa2J0ZzB3MUdEdGVkcjh6aUJERTJDMzFDY2NDZlZKS1ZzRzllY1FYQ2YxaWVhdFdIcV9vX04zcG1jVWlUNS1uVmpjOUhwT0RwZzVRX0x5RDRfTGtGLWVuMjhnMEh2ZkE?oc=5"
+    },
+    {
       "title": "DWS 投資黃金貴金屬股票 USD LC 的總覽 | 鉅亨網 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFNSVZTQ2kybUxab2JiUmFnSFpVQWFzQzJBLVZqS0xQT2hZYjRaek1WR3BET3BWRkZNVGJzdXlsTlZZSWg1RWtGY054cGF2bVFySFJkUXVLcWVmamhra1lMaTRDd09OX0Vtc0NfQnFyU19wdUhRUFFNM1dpbmRPeWhWcHZHaXdVQXRwT3NUb0ZjanNUTXV4eWR3RlQwTWRERVFRLWx6U2VSbnFOOE5rcHJ0RU9raXkzdWNMUmZoa2JpOS1UQkxTTm5pWHBUSDc5T2U5SHJYU05uUTJmV1JybENpVQ?oc=5"
     },
     {
-      "title": "「鬼故事」嚇崩美股記憶體！華邦電、南亞科挫咧等？專家：影響其實有限 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPX2JRdmRWQWQ1TFhMVG9zVkdLc2hhOHkyM0VSWlppM1VtRG9ERW13UHFjS0xjSzI1MWNOU3hTMElpQktZSEdWTld0dkFvZm1zWnE1MFU0cHJaLTF1dVcwc3MxZFZDcmdfeVVWanRyZlJkakNfU1FpZ1FkZ2tSeWlkNVJid1Rjd0lvY1NMdm1tRnhGempLMDE4Z255X2pYQUloamZzSWdMejJrNEdEMTlKUER3d3Nkd1JtRHJHbFRmTE1KT2pWOTByd0pIMkd2OXl0X3FQM29RM09sTmQ0bTFMV0h0TFVneHhQck9GRjRQd0dIOGUyZzgwWXA3QmZxNWlPRFA2bGwwSEFWQ3NnNXlBd1Z0bnRMV1VKT08zQkVwNldta1FBS0Y1dGF3TDhSQlE4SElwZVRwNDlrTkF1SjltSXM2WEdMaW14UTB1OTR1T3BVZGN0X0FqaExWcl8?oc=5"
-    },
-    {
-      "title": "兆豐美國黃金礦業ETF 10/6盛大募集 | 財富管理 | 商情 - money.udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kVDRrbWhUT2JxLWZhUjBQUzBjRzFBdmF5SEJXbmZEVWtYdUFiQTl1NEpLZDFGSV9JX0tTWklKa2xjb0FYWHVCMk16V0c2aWJoMzJ5U0JZeFFtUQ?oc=5"
-    },
-    {
-      "title": "美股收盤》就業數據爆冷！道瓊拉升250點 台積電ADR漲近3％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYU1A2Skl2alFOQ3VRbXA0eE9xWmhyVTQwVjhZT3JlUFBTM2tDUUNaVXpuMURReXRKR2FIQlQ5OHB6bjl6V0hBblBMcFR4R2NjcE12Ull2U0dVMEhUUkpv0gFkQVVfeXFMT0ZQeWlzd2VsTndwXzRIZW5fRVBBX1Z3LTVQM3g0OXVNeVFHZVBpSXRCd2tQME1GSW9kMnM3WS1yYTZSVE5UdlViOVdZd1hjd0FqNVZqSVdwVXhjeFQ2a0xYUk9KTA?oc=5"
+      "title": "美股科技股持續創高？彭博分析師這樣看 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQZm4yaGtoQXZSRFhVa0l3M3pEdUIwRzUyQWVLN3dVYnhYM19MV1I1aEN2cVRqaHVUeGRrNjFva183Tl9kS2ZhT2FIWk5KdFRQVUtUY2E1X2tzaHZZdS1wMTl5c2I0MWNENDNOWTZiRGhEb3lVclA2RTVSWENjRkZEZmJuYUtwUFcwNFc4bWFUaU1Tc0w0TFdmbm1fVl9yYXRjNUhpSnU4Y3hxdFlONkp3V0p3cHlCYVMwb1RLbDd0S1JjZG9WY3ExeWhseG40c0M0a0lrbm9kLWludFlBcng4WTVQdWUxX2lIaHVncUtaQ1hnbjFKaGVVSUJFQzM5T2o2RFFiVUw0eUMxdk1DemJkVjJIdG10dVRYd25KdXZPbmU?oc=5"
     }
   ]
 }
