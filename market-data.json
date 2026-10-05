@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/05 07:50",
+  "updated_tw": "10/05 12:14",
   "taiwan": {
     "2330": {
-      "price": 2500.0,
-      "change": -10.0,
-      "changePercent": -0.3984
+      "price": 2560.0,
+      "change": 60.0,
+      "changePercent": 2.4
     },
     "2454": {
-      "price": 4950.0,
-      "change": -30.0,
-      "changePercent": -0.6024
+      "price": 5105.0,
+      "change": 155.0,
+      "changePercent": 3.1313
     },
     "2317": {
-      "price": 251.0,
-      "change": -3.0,
-      "changePercent": -1.1811
+      "price": 254.5,
+      "change": 3.5,
+      "changePercent": 1.3944
     },
     "0050": {
-      "price": 112.8,
-      "change": -0.1,
-      "changePercent": -0.0886
+      "price": 115.85,
+      "change": 3.05,
+      "changePercent": 2.7039
     },
     "00878": {
-      "price": 34.89,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 35.14,
+      "change": 0.25,
+      "changePercent": 0.7165
     },
     "00919": {
-      "price": 31.55,
-      "change": -0.08,
-      "changePercent": -0.2529
+      "price": 31.66,
+      "change": 0.11,
+      "changePercent": 0.3487
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 86523.77,
-      "change": 1760.1919,
-      "changePercent": 2.0766
+      "price": 85940.69,
+      "change": 1177.1119,
+      "changePercent": 1.3887
     },
     "ETH": {
-      "price": 2726.02,
-      "change": 38.7646,
-      "changePercent": 1.4425
+      "price": 2711.05,
+      "change": 23.7946,
+      "changePercent": 0.8855
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.826,
-      "change": -0.0608,
-      "changePercent": -0.1907
+      "price": 31.772,
+      "change": -0.1148,
+      "changePercent": -0.36
     },
     "JPYTWD": {
-      "price": 0.1996,
-      "change": -0.0023,
-      "changePercent": -1.1426
+      "price": 0.1987,
+      "change": -0.0032,
+      "changePercent": -1.5884
     },
     "EURTWD": {
-      "price": 35.853,
-      "change": -0.0111,
-      "changePercent": -0.031
+      "price": 35.525,
+      "change": -0.3391,
+      "changePercent": -0.9456
     },
     "CNYTWD": {
-      "price": 4.7497,
+      "price": 4.7433,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4173.2,
-    "twd": 4270.0,
-    "tael": 160130.0,
-    "twdTotal": 132816.0,
-    "changePercent": 0.2619
+    "usd": 4168.8,
+    "twd": 4258.0,
+    "tael": 159690.0,
+    "twdTotal": 132451.0,
+    "changePercent": 0.1562
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "本週操盤筆記：美股Q4迎AI考驗、債券殖利率飆升、Fed會議紀要 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJNDhrbHlNdFAwUk1aTENNUnUycjJDY2UzMHR5SXN3RmdBbjVxNTdWSG5ScEpndE1uNTNkTENVbng5blBCZEtpdTlkY1pNd00?oc=5"
+      "title": "衝破70K大關！日經225狂飆逾1700點 美股期、黃金、白銀、比特幣全面拉升 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oWHpSbDR0cjdkblFIQi1GeHN1bGdDbmJweUMyTm1FNHpVdnp5R244QlppYTZ5bExkeDZZRXhYOGNqdU5fM255TUlOVQ?oc=5"
     },
     {
-      "title": "台股「13個月魔咒」再現？歷史規律大解密 月KD揭高檔轉折訊號 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPcWRXdzgzTE1MSHh5aFJhUEpLblkwdDRqRHB6WmRzS2Q5Z01QRHgzanVrak5hd1dubEVpTTRkV25iNGFMblpHeF9vbEpaMEdTYkh3WFFXREZZbEgwZUxIYjRPOE5wZHBLNFc4NWVBc1NOc0FYWFFWd1BHZ1l5VkU3b2tJTmNrM2RoNUVoV3JEU2xHUDdLdUZ4d3NoYS1Zc3FhV0NWMlZkbklXYlVHeHdxREx1dXl3b2loZWlrQTVMZUpEakJac0RObE85RThnZVVlZ2NMX3JYcWlIM1MyY21JTHJ5Zmk1SlZ4ZXhmcm80d2FSWS1RWHhuVXg1ZFR2Zl9PZ2tLSDJEei1TSWJGbUJQakdFMDhhSHliZHhxalhqcVNBTTNUM0ZZdVE4YmJWQjQ3VVd2T2FFQmtfYmdtN2FCWWV3YUtCbzZEUGRuWmE1MTZOcE0wMkZZS2RsVEZjN2h0dHdGOEhhTjNTai1VU3gxZ1duMUNHUTA2cEE?oc=5"
+      "title": "【1005台股盤前】台股收盤再創歷史新高！費半連兩日強彈助攻，光通訊領漲台股同步受惠，非農就業公布前夕投信連四買，營收創高模範生鎖定聯亞、光聖、臻鼎-KY｜豐雲學堂2026 年 10 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi_gZBVV95cUxQaVloSGpTdFNRbkl1VjRHR0wyeTd6STNKWW1FV0sxY0xwVXhCWE43RHVjZl9OWVN1LXF2Nmt5RVNtSUNaNmZwcEl0MWI3MDRGS0NXSkFBZGN6TUNBOTRMNi1RSXZCU2hPb09NUFFXd1h3X2tDbUFLeFRMWDV2bVM1bEk0c2o5OFJqckJPblVUWHhtWE04TlVaaFJIVnk5Ulp0amk1NmxsbGlmMDk4OHFfdTZxTjBGVnpwajg3eDEtRDhSYmxURDVlbmtjS09VajlNbHJDa1lrOGdNckFld3JaRXRQZmZmeGhma0s0Uml2Wld6VzJlN1U0N09yLVdQNjlxWlZDOTRoTjF1TXFzTVpZUnB4c3JaRVJOM3lYQkZsY3g2d3VjRHlxYjlpUzZlVTFKMjFKdmhpMzE4Nk1kSzBYQmFkUkV0R3VBZmk5N3NZMFI4V3Bfc0NhVzBoaV9aNzVUSU00YlVJZ2lHZU1WXzc4b0MtbTRpd3Q2ZmtrX1VoNVp5MU1zNTZCclk5RkM1V01vYVprcDY5Z0paMUl4TTZTbjA5VkNZRUZ1dTBWbk1ua3ZFTjUyakR6YkpmYmluS0tyTVctcW9jc0I4R3RpNW9aNThBQmhpdzFvRzQ2Wk1aSlNMMkdfdFRwQWdwQmhmRWFuazRMT2liLTduT2lIMEZ1ckRzb3NsYVJaa000SUJEOXJ6S0JmdU1MQ3p3WEtWalpJeWoyMzRSZURXWkotSjc5UXo3ZEsySzZoTjlIajR0b0RnRXphZW1TcUo5Sm5TeUFzZUFvb09laThIMi1kNTA0bHZOUHppWENXa040dTl5czJlWDR6dTFJZGsyMUJyQTFzSkR5ZHBlVjBVSWlrN3Z2a0pBUzFmNWVuRkhUSzVoQU53cVVzd3ZQQXNmb3ZCcDV3RVF3N0U1a3oybDFoaHc4QUZ2bXR4M2xmdTBuNU1MdTFXeVVsYXowSWJTYnpzYjNLUUNjZnVoUzYzblNLZW1qdlpqa3hBLVVUbG91OFRTOHhRZjJoUlk4SVdzZGl5WFVvMHV2WmowbFhjMkd3TWJqYV9WU1VLZzJDei1zMWF2d1c4TTFrUko0QTl4WjczNU4tRmhzeG4tZDdmSjFnREVaWnQxZTJsamF2T1RGNzBSR3lZNV91MTA1eEJIOTVGd1BsN3VvSFE1RG1CLWhHUlE?oc=5"
     },
     {
-      "title": "台股快5萬點「誰還賠」？苦主曬一排名單 有人慘套60%：大盤回去它還躺 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XeS16NVYyWWR6azc2Ymo4MzE0RmZTX3Q1Tl82SG1FTEdsTFNqdU5YanZhY1ZWVml1djR2LTJCMTZ4NGw0VFlfVkdlWjFNZk90U1HSAVdBVV95cUxNenpjT0lQYm5JS2hmRXB6S01qLTQ0Szh6V1U2MGh5U1R3R2tHMU5qN2NyR3NVYUJNQU1OUHdZVTl5cmtIXzBBYjhtaHFPTm9zRzlvNTNwTTg?oc=5"
+      "title": "【Yahoo早盤】台股距5萬點一步之遙！盤中漲逾千點再創新高 分析師張家豪：偏多操作 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQWWk2NHlub0l3UUp2dEtWT2FBeHJSSWhMa2M0aXZjUFVZV3YwNXg5SjViM0ZENlZHRjdGM3VWa1RMN3R6VlVSeHo3VF9hRkJ3QTU2amNzekFiYVY4RnU0R3B6Z1U0cDFDSHFrdEh2akJiY3JDbXd0TTN0c2dBQUJOcVljWHN6Y3ljRzhOZkFuNG00b2pKQVhjOEQzRHVEdll1V3FVcTdwWmQ2c0dIMkV5aGdTT19PODJXYk85Vm9tMVhKY1M2dUFaRllzN1dlSDFDdDVhbUd1bEJ6M19LcEYxNjdNZ1JQSGpyLTJ6eHE2cDd3OFI5ZjNOMm5PVVhQQ1QzaXZXUzNJSmx6ZnVwY2ZZMkN0UzlxQjJjbDVicmtHbDh4X3laRFVlSVBvTFU0R0tlTTV0bEFDWWN0dndVUnN0YlZvNE9pYUZBcHFIZHZkV2hUX0dNS0ltcnNFOEhkS1FVTU1rUGwyVUNwczl5NkY4dU52MnVQOGwtTmpZajE4ZURMcHhuREM0T3psSVdadndiODBGR0NSR0FDbWVZa1ZwOTgycng0dDMyU2JzS2VIUUVvM2NQbUgwTHpUVk54Rmg5dmVoYk0yU0hUd1AzYWVHMDRLa2RNT2NhTnZ0c2ZxQkZ6Y1hyQm85QjFudkJIdWNyejZIN2ctcExnMXNUX2NhRExKbDhtS1F1?oc=5"
     },
     {
-      "title": "比特幣熊市已結束？CryptoQuant執行長指新一輪循環啟動 - BigGo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tbFZZT0ZyVTZzNDhGVTVTdllBRGZWQ0JfZ0VzYU5wREpKUWlPUDNpVURodDloUG5QNFFpa3ZIemxDMFJnVjFoNjFweXZUaWhhdjVreHZzb1ZlX0ZYdzJFSjJTNEp4Vkxzajl0UlFRMG5sX1RIMWU1czVR?oc=5"
+      "title": "台股開盤漲99.21點 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LS2d5M1lCZWRTNmE1ZTJvTEV1SVp5N1RnelFXRWo1QmFBZkZESF9kdTd5Q1E1ejlSQVVqM2l2bUJBMEgyaVZQblJTbWNmOWhrZ0FRd1l5dDdIUdIBX0FVX3lxTFA1bXhCWFlnZW5rd0NkQlU5bG1xa0Y5SU5aV1c0aU5BWm1PT25xUW9IYVpJTjZaU1NPNkw2ZktITFlQaGdoMUd6b1VXY0hYRGxTZ3Vwcmhzd2o2UDM1cDJr?oc=5"
     },
     {
-      "title": "黃金連殺2週可抄底？失守「這價位」恐再跌 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lUHB2THlia3FTMlF6TXBBOGVrbUt6MEJZZldjemdtM2VPY0hPQlZ5ZV9ETGw1TndNRXh0YkRuTHIzbFhqSEpIS1NGWklVaWczTFlveXVLTmVCNHA2Z2Nj0gFkQVVfeXFMT1c0eEs4bVNoRlNHa0JrNXVjLTNiTjlOZzNBQmZIMlRjMmZBNGRzNGlEZEN5WEMteGJTYWk2OERhbjNoNkp3bEtCRHNPQ1FuQnpqVXpqZHVLa2g1dnJndkhoTnVndg?oc=5"
+      "title": "台積電飆上2580元 帶動台股早盤大漲逾千點、突破49600點登新高 - 財訊",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01R1ctOS1CdFFocHNCbnlxSTBaVE85ZDVCcUZhanFQVVJaYVRDQU9nUzRkaU5QanBUUmxGbVhuWHFHU2ZsWlNtSmE2LTJUX1lLYXdkOGhMSzFEbTFyZGhnTV8wQTBobHpSejZRUHdtRU05NnhCWm1VQk5Eaw?oc=5"
     },
     {
-      "title": "比特幣站穩 8.5 萬美元關卡 多空拉鋸待 ETF 買盤證明後市 - 商傳媒",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPV040czhwRnlNdmZuT1d0X2ZrZDZnbnhPNWdUTUk0VXBqandqT1M3TDFRSGdCYWVVaWJzLUVXZlVTTUdFS3hJem9JeVJvV2FLeVE1QlJieHdVTmpsbXA4THc0aDdaUDU2Z3lIY3JEbHNMaGNhU20tQVV2allUWlQzSENqZ1ZvajN3YXhiSENYR1piemZIcUNicmo3ck40SXJPbjNwaXQ5Rl9lNEtsd3ppdEtHTm4zY0ZBRkMwR1VkSk5KLVo3dWlxTWxVUTNvdnhmeFZYZDFwUzlQYnZ4MFJqakI1cFZCbms5ZlZvQVN0OU5TbU5GWlVOWXQweHA2R0RWTHdIaU81QTdNdlB2SHhtUDhKU0tCeXQxa2J0ZzB3MUdEdGVkcjh6aUJERTJDMzFDY2NDZlZKS1ZzRzllY1FYQ2YxaWVhdFdIcV9vX04zcG1jVWlUNS1uVmpjOUhwT0RwZzVRX0x5RDRfTGtGLWVuMjhnMEh2ZkE?oc=5"
+      "title": "台積電2580元新天價台股漲逾千點衝49601點新高| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RYTJPSTFBbHFiclc5SXdVMUtEbjZWWnBhVTV5RVJGemFnVGdFdTJNaUxsZDZod0pzaUtKTmNvTDMybFB0OGpGVnJKNTVRUnhGOWFFOXI5SjZRd082SFE?oc=5"
     },
     {
-      "title": "DWS 投資黃金貴金屬股票 USD LC 的總覽 | 鉅亨網 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFNSVZTQ2kybUxab2JiUmFnSFpVQWFzQzJBLVZqS0xQT2hZYjRaek1WR3BET3BWRkZNVGJzdXlsTlZZSWg1RWtGY054cGF2bVFySFJkUXVLcWVmamhra1lMaTRDd09OX0Vtc0NfQnFyU19wdUhRUFFNM1dpbmRPeWhWcHZHaXdVQXRwT3NUb0ZjanNUTXV4eWR3RlQwTWRERVFRLWx6U2VSbnFOOE5rcHJ0RU9raXkzdWNMUmZoa2JpOS1UQkxTTm5pWHBUSDc5T2U5SHJYU05uUTJmV1JybENpVQ?oc=5"
+      "title": "台股年底拚5萬2！法人搶卡12檔「營收創高股」 系統電、鈊象、全新入列 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPR2VvRmFudWlQSWdNeGthLXN1T2RTSlU2YkY0OU1waEZZSng4dmZ0Y09BRTJxaFdNU013NGhhSGYzRUl3a3l4eERPV0RMRnpjU1JyU1lUeHVNUzctT0V5RHh2UTFXTkNmeW16Q3h3dW9fcWplRXQwWldLT2ZtR3p2clA2bk1PSXVyUGdTNXhxTGJoT1U0NkFfUEpuQzE3VEFhOFJ6dG5lSmh5YUV4aGpwODBMb0dVdWI4VE9jeUZtV0JpZTV3RjBXYU1EdENIYklZSlp6a1A5TS1wSDFVMkFVZ19zanI1SUoxZkphYVNlc2dBbGljRm9NSi1mdnJRR01yTXpJcHVGZVZ0RmdWRzg0ZFhyTnlMekhXQi1BazUzTU5QRC1MVnFUWkpETmRwWFZ2QXlJTy0zXzFkbzZSeWd0alROWlpsU1N4RTBpbmZTY1g2X2JYdHRkUTFON1pHdFNZb0E?oc=5"
     },
     {
-      "title": "美股科技股持續創高？彭博分析師這樣看 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQZm4yaGtoQXZSRFhVa0l3M3pEdUIwRzUyQWVLN3dVYnhYM19MV1I1aEN2cVRqaHVUeGRrNjFva183Tl9kS2ZhT2FIWk5KdFRQVUtUY2E1X2tzaHZZdS1wMTl5c2I0MWNENDNOWTZiRGhEb3lVclA2RTVSWENjRkZEZmJuYUtwUFcwNFc4bWFUaU1Tc0w0TFdmbm1fVl9yYXRjNUhpSnU4Y3hxdFlONkp3V0p3cHlCYVMwb1RLbDd0S1JjZG9WY3ExeWhseG40c0M0a0lrbm9kLWludFlBcng4WTVQdWUxX2lIaHVncUtaQ1hnbjFKaGVVSUJFQzM5T2o2RFFiVUw0eUMxdk1DemJkVjJIdG10dVRYd25KdXZPbmU?oc=5"
+      "title": "法人看好10月有這些利多 台股預估成交量飆至1.3兆元叩關5萬點 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DSGtnLWI5dnktX0ptcXNHNmVISk4xbzZicHQzU3puLXJtYnVsWkVhSUdNWld0bm5KNnFGTENLdWREOU0yQ2R1cE9ndDkyazg?oc=5"
     }
   ]
 }
