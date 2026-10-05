@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/05 19:35",
+  "updated_tw": "10/06 03:49",
   "taiwan": {
     "2330": {
       "price": 2575.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 233.95,
-      "change": 3.09,
-      "changePercent": 1.3385
+      "price": 239.73,
+      "change": 5.78,
+      "changePercent": 2.4706
     },
     "AAPL": {
-      "price": 333.69,
-      "change": 3.37,
-      "changePercent": 1.0202
+      "price": 332.76,
+      "change": -0.93,
+      "changePercent": -0.2787
     },
     "TSLA": {
-      "price": 370.59,
-      "change": 16.48,
-      "changePercent": 4.6539
+      "price": 380.11,
+      "change": 9.52,
+      "changePercent": 2.5689
     },
     "QQQ": {
-      "price": 749.58,
-      "change": 7.55,
-      "changePercent": 1.0175
+      "price": 755.99,
+      "change": 6.41,
+      "changePercent": 0.8551
     },
     "SPY": {
-      "price": 769.64,
-      "change": 5.65,
-      "changePercent": 0.7395
+      "price": 775.02,
+      "change": 5.38,
+      "changePercent": 0.699
     },
     "SCHD": {
-      "price": 32.72,
-      "change": 0.06,
-      "changePercent": 0.1837
+      "price": 32.67,
+      "change": -0.05,
+      "changePercent": -0.1528
     },
     "VOO": {
-      "price": 707.54,
-      "change": 5.19,
-      "changePercent": 0.739
+      "price": 712.375,
+      "change": 4.835,
+      "changePercent": 0.6834
     }
   },
   "crypto": {
     "BTC": {
-      "price": 86115.13,
-      "change": -365.1747,
-      "changePercent": -0.4223
+      "price": 85696.69,
+      "change": -783.6147,
+      "changePercent": -0.9061
     },
     "ETH": {
-      "price": 2717.56,
-      "change": -8.949,
-      "changePercent": -0.3282
+      "price": 2709.08,
+      "change": -17.429,
+      "changePercent": -0.6392
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.74,
-      "change": -0.1468,
-      "changePercent": -0.4604
+      "price": 31.712,
+      "change": -0.1748,
+      "changePercent": -0.5482
     },
     "JPYTWD": {
-      "price": 0.1984,
-      "change": -0.0035,
-      "changePercent": -1.7369
+      "price": 0.1986,
+      "change": -0.0033,
+      "changePercent": -1.6379
     },
     "EURTWD": {
-      "price": 35.618,
-      "change": -0.2461,
-      "changePercent": -0.6863
+      "price": 35.627,
+      "change": -0.2371,
+      "changePercent": -0.6612
     },
     "CNYTWD": {
-      "price": 4.7368,
+      "price": 4.7383,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4189.5,
-    "twd": 4275.0,
-    "tael": 160321.0,
-    "twdTotal": 132975.0,
-    "changePercent": 0.6535
+    "usd": 4171.1,
+    "twd": 4253.0,
+    "tael": 159476.0,
+    "twdTotal": 132274.0,
+    "changePercent": 0.2114
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "【美股盤前1005】非農爆冷！升息預期降溫帶動美股全面反彈，本週聚焦FOMC會議紀要｜豐雲學堂2026 年 10 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPcFM5MmtPMXA1bEt5X0d4N1BEaWxxSTk1bi1mTHlWU1NHVVhDUmg2ODlzU2NZdms1Wm5TX0VaTTk2dVloZDRnRjhhRFdxU2EwUDZFSEhVU1VEaGc3ek1NNFNfSWpUbkV0T2Q5dE5mMFNreHN3VXY4MnZBZjB6Q21FZkk0UlhfN0drMmsxWF9YRmVVa2I1Yld2dG1lclVEc0FXXzR6X2VwNHB2dHJsdGhNSFpQNHN1VFVKa2o3UVVrLWk2RVowY2QwLUVHOUlkRkFaeXk5WWFtTmhJZUpURmhiQ0hyV3djTFNzY09nTDdOb0wxa0hRelRCTmpiU2VxWktwMFctVXdtWmVKeUJVMXB3MDlZb0ZKaEo3b2dYMVdPXzdMZC1WeWtXQ2lOWjVrYmZmbm1VRzQ2NmtEa0p4dUdJVU9CaVJGNzg5d3o3YVBjbE5BeVhrcURyUm02enhZY1BsOVRFS3lEUER2SGtGNnFuQWctU3h4SDBWcTM0Rm4tLUp2RFFoR0hQMS1LS3FmRy1TcUVyVVAwNzdHdlFOU1dub2xWem9xS2NPWVd2QmY1WFZmNElZUDVheThaRWVGME05NGo0TG5OYmNwbmZvV09kUXNHMmU0RTJNUXVTaHB6M245WkJmNGtLOUZPTTU4YUNiREZmMXJqd0czRlVC?oc=5"
+    },
+    {
       "title": "台指漲破5萬點、美股利空不跌 專家：還會大漲 - 天下雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HZEtMMGtFU3JzLV9qblVkd1hpVU5qaXJWRFIxZWt1Q1lIU3N1RG5UM0F3Tk9VQmp1dWFQaDliM3p6REhUOXBEUUFJLUVHQQ?oc=5"
     },
     {
-      "title": "美股盤後｜9月非農就業低於預期，10月升息預期降溫，四大指數收紅1005｜豐雲學堂2026 年 10 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQR05qbmtZem9DN2RFQ1pUM3Mzb2J3aW9TSldJTGRya3NPZXgyOExTb0JFaE9CMU9YUmFNVl9XVndCTnhxMmdrMl9scF95WkhpY0lDMW1CUHA3NmtnY1VhMmpDSGM1REJUSlhSUlk3eG1PdmY1WHM1dlR5cjVFaTFONmtzMlRpNUNLZzd5ckFkVzhBZVg3TWdwckZhTFJVR1kxbEFPa2tISTduM3dNYmZSVmphV3lXLVBjRmxWaEkzTGFFVWpKNi0ycGE0WkZ5QWZHLUZQM0xVdFgwWHRtZnRYcVpXamlJeTczaVQ5Y2VvZ2VWUGd0dEpXUEVrQlZ6anA0ZHEzWC1Kem0zZWRKbFFYQm9iX2t2dktvOGdRY053cS00M3FyeUFqRmZ5WmZiTEFNTUItZVJZQzdjMWk0RzE3VV9pV1gySFBvVWJQWEJWWXhPR3kwSVJGUWxWSC1pN0ZJbDJBRVU3TlhIOU9qS2Zwa0p1eWJtRFlITE5rNVdEMnF4OHZoSmxfY01hWnNqQno1YllpZ2hsOWxNT1RmQXczZVRZMDVCXzU5WWJUTFNmczZUODlBR2l6Y0ZlbElDS3lTSnpvVHptdW1sR0E?oc=5"
+      "title": "逾半股票跌入熊市！美股高檔警訊浮現、美債波動率成後市關鍵 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yQWplMWtSMWx4SE9NbjFERE96VVV6TW5TbFNCd2YyOXhORkJ2VTdoaUdtZGNHcFg0eUJqdmk1Vl9CMThTekx1OXU1LXhOUjg?oc=5"
     },
     {
-      "title": "幣圈院士：10.2比特幣（BTC）牛途休整並非見頂 多周期視角審視後市 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wdEpqenRtSDRGaTM2dEp4YWxGWHZGbmQzV2o0R3pteFM5OWlOWHBydUlKbjZndExjZWZERnY1c1Y2VEFLZmpHekd1VQ?oc=5"
+      "title": "迎五萬點? 台股週一收盤49712點 台積電\"跳一下就到\" - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMW1xaDBWVDU1ajBNd3I0U2Znb05UT2tkc013Y2lUYXk3TXFfWlJnVGUwanNUdTIyZHg2a2pldmdIUHk4OG9HRV95cWdtRWM5anNSY3lNMnRoWjhHTHhXRm5ZdGFHT2hmczFVUk5FMFlRTTMyQXAyTHdWdHpPeGdONzVQZ1NRVUVFUFZUZThQVGZTRnJjM3dYZE1ub244S0FvMFNNcFRhV1BIMkl3N001R1RkNFFnRVVDSTl2YWJBd3Y0ZUJzWndxV3JPaDZlZjVlUS12bjd2QWVtYzlGY0FKNFVXa1dYRVVxd2RtYWQ2RkFaMWZJcEp4QTFTZF83R21tTXlOQzM0SXpaMFZ4amdr?oc=5"
+    },
+    {
+      "title": "【1005台股盤後】台股大漲1200點創歷史新高！非農降溫緩解升息警報，外資大買約略719 億元，CCL三雄台光電、台燿、聯茂齊攻漲停｜豐雲學堂2026 年 10 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMivgVBVV95cUxNZU9NVFBsUmtiUVlGcWhFeTBOcW1wNmZWamJUczE3UUk3NFZtUjFiamxzcWxsdG9xQUczbnJDSTVUSXdYNmd1VlFsM2VvX3MydlVFVmJfbXktOVhRSjBGbE52Umd2VUhpTlZhQjI0UEo2WW5OQWlwUk1wZmlBMHdfcnh2MHVLam1SbUJKTVd3TlBuUkNYdktBMXBkMk80eHZsS2hIWDliM29TdEZQLWhzZTJxTV9aVTlaM0JIb3diNVBYODh1Ui11SThlVkJ5SVJGbl84VFNJbTdsTm1sWGhQSU0tbXJ5ZlF4NXdNUnFZSlptV3JYZlpoV28wQnViZHVjZWljcXExWkpCUmhZQ1NBMDBTd3RRWDYtNWxKbktpOUQwcUwyS1A1eXBiYTdNYkxwMWtXSzE2a3haMnpnTFJqTHRadDd6TzMxMFRiblhseFduNi0tMTdoNHdqM2RKVnE5UWJROFhvRHZiVUUxdGRFLU1RQWd5NWNEenJEZGlZX0l5Z2hhSzg3dndieHpwbjl6ZUJVbXMtSFBSd01VTWdFN0ZhcTVnZkw4WU9uZ0ZGUTV6SVlidjhsNHZHcUtuM1lyZjRMcUhab1RxelZkUGFLc1ZEXzIzTDBTN3ZVUktyTHRvMFFPWDZYbGFSVDl0MU9yUW1ONTRKS3k3ZkZad0pCQlMxTUc4MDg5VmV2cHh6bm5qeWVuV0E2SENpdTliM3dGUzQ5ZVRpNUNvZmxBVlY5QVNEU2tpSVp4VzZkRkpVYTFLbDZmQ3BzQkN3WlA0NEVDeWw3M0ZZMzNDUUs3T3JYTE4yOGcxRUl2U0ZobEFnQnZGMG45UXAxNDB3aUxLYmFfNDBoaXpTeXJmblFGWTBybXlsTklSR29oRW82TlpScU1HVFFLZktTUTJ4V1lqMGR2c2pjdzl6TTFTTTZLaEE?oc=5"
     },
     {
       "title": "連0056都輸給他！10月31檔台股ETF要除息 00943年息破20％ - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxON2FoaDVTaFk0bUZFVmNFTUpWNkc0SVEtR1dIdUREbXBNZC14N0RQNTFGekhEaEVidUNVWDI4NndoSU1sdTJpOEhOeWJMNW5LbkVWTk9lQjRNYWxWem1CQmZva0pOQlJXQnVMR2kwSWl6bHEtRUlDbVF3MzFFTlBJaVpvQ2NZZ2k4X09Jd3h5bE42cS1od2VELTYzbzg3aVl4a2FhcV9GM1ZoUEtZTzdGNkpSY0xBYmMtRENJOFA0WWNFZFRYWjFka3Q5OE9URTFYM3dVQmQwbnBRVE10bVdlMS1GaloyOXozbkRxUnU3Vk9URjhyd1ltRGZMeTNZWVNncjViMjJPd3piZzZQM3dWeHpnd3NqZ3MzSGd4SDdJb2lrVkFMdTBRVlNFWmdFV25QQk1nZXQxTjd5U2dCSm40ZQ?oc=5"
     },
     {
-      "title": "台股盤中最高49770點再創新高 今年漲幅暫居亞洲之冠 - 你的公共電視",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xYlE5MHRHTFFIS1FmYkxBWVRheEhTZVdLc2hlcENlZ0FhN1l5SjVvRUlWbVJOaV9VN1RGbmtMRXlYbmdrVDgyT1pEeHdRYUk?oc=5"
+      "title": "DWS 投資黃金貴金屬股票 USD LC 的總覽 | 鉅亨網 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFNSVZTQ2kybUxab2JiUmFnSFpVQWFzQzJBLVZqS0xQT2hZYjRaek1WR3BET3BWRkZNVGJzdXlsTlZZSWg1RWtGY054cGF2bVFySFJkUXVLcWVmamhra1lMaTRDd09OX0Vtc0NfQnFyU19wdUhRUFFNM1dpbmRPeWhWcHZHaXdVQXRwT3NUb0ZjanNUTXV4eWR3RlQwTWRERVFRLWx6U2VSbnFOOE5rcHJ0RU9raXkzdWNMUmZoa2JpOS1UQkxTTm5pWHBUSDc5T2U5SHJYU05uUTJmV1JybENpVQ?oc=5"
     },
     {
-      "title": "全球超級養老金集體減配美股，AI集中度敲響警鐘！ - capitalfutures.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFoxa1RtWDhIY1RIVlp4UlF5M1ZjakFxNUpqNHpTclNQWS1OMXc0c01VaE50Wk1yMTA1OFM3OHFYbEV0a2hzY0lGa0RmcEhpMHRyTmZxa09JWFdoQUhSQnlXUkkza3loeHVTUlpnWEsxY01wMVFXZFB5WUR6Yy1RU3lyNEt2WnVUNjJWYjZiTmxJTlVFbW1zNFhNZ250aGdZ?oc=5"
-    },
-    {
-      "title": "加密貨幣多頭行情再現？比特幣站穩 8.5 萬美元 - finance.technews.tw",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR1AwTVpzTllqd2otZTlScUNXR28ybEc2b3pIdTlsdlFMV1dRTTQ2TmNtdXZrU0FSOTlnNDlIMDFpYVRHZ3hTSjNQU0ozRlVLUF8wcFREQktnUVlXRG1rT0M4UWZ3VU1QNHE1TFAtN2VtMndTTzJoTG5Bbk9QQjRvT0w5QU1nRFdNRmxWTENPejByWWVvZ25TNzQ1TE4?oc=5"
-    },
-    {
-      "title": "弱化就業數據抵消高殖利率壓力 比特幣一度逼近8.7萬美元 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NZzNqTGtxNS1oMFktdkxsQ2JzaGxYcmExcFV2dlFpWmsyZ2RQR2lxZU5PRElDQ2ZHaDNwaGpSR1pWVkhndTFUakh1MA?oc=5"
+      "title": "【1005台股盤前】台股收盤再創歷史新高！費半連兩日強彈助攻，光通訊領漲台股同步受惠，非農就業公布前夕投信連四買，營收創高模範生鎖定聯亞、光聖、臻鼎-KY｜豐雲學堂2026 年 10 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX0Ixd2I1MG5EVmtxVG9ia1FHcnFkeXUxbnV4eF92cEFxelA3NlBaZUxmcFRKYXpWY0MzcHJxV1dkSWJEd2xUTmZQVnVrc0ZiZkVjb2xIejFoRWU0d3AtVGZOSndkRG1NTUFIejdZb2xrWFhPdHFnT3k5eG1KTlhlWWN3?oc=5"
     }
   ]
 }
