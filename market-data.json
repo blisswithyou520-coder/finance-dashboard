@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/06 08:58",
+  "updated_tw": "10/06 15:27",
   "taiwan": {
     "2330": {
-      "price": 2575.0,
-      "change": 75.0,
-      "changePercent": 3.0
+      "price": 2585.0,
+      "change": 10.0,
+      "changePercent": 0.3883
     },
     "2454": {
-      "price": 5165.0,
-      "change": 215.0,
-      "changePercent": 4.3434
+      "price": 4920.0,
+      "change": -245.0,
+      "changePercent": -4.7435
     },
     "2317": {
-      "price": 254.0,
-      "change": 3.0,
-      "changePercent": 1.1952
+      "price": 256.0,
+      "change": 2.0,
+      "changePercent": 0.7874
     },
     "0050": {
-      "price": 115.95,
-      "change": 3.15,
-      "changePercent": 2.7926
+      "price": 116.5,
+      "change": 0.55,
+      "changePercent": 0.4743
     },
     "00878": {
-      "price": 35.11,
-      "change": 0.22,
-      "changePercent": 0.6306
+      "price": 35.17,
+      "change": 0.28,
+      "changePercent": 0.8025
     },
     "00919": {
-      "price": 31.63,
-      "change": 0.08,
-      "changePercent": 0.2536
+      "price": 31.8,
+      "change": 0.17,
+      "changePercent": 0.5375
     }
   },
   "us": {
     "NVDA": {
       "price": 238.9,
-      "change": 8.04,
-      "changePercent": 3.4826
+      "change": 4.95,
+      "changePercent": 2.1158
     },
     "AAPL": {
       "price": 332.89,
-      "change": 2.57,
-      "changePercent": 0.778
+      "change": -0.8,
+      "changePercent": -0.2397
     },
     "TSLA": {
       "price": 378.73,
-      "change": 24.62,
-      "changePercent": 6.9526
+      "change": 8.14,
+      "changePercent": 2.1965
     },
     "QQQ": {
       "price": 756.2,
-      "change": 14.17,
-      "changePercent": 1.9096
+      "change": 6.62,
+      "changePercent": 0.8832
     },
     "SPY": {
       "price": 774.83,
-      "change": 10.84,
-      "changePercent": 1.4189
+      "change": 5.19,
+      "changePercent": 0.6743
     },
     "SCHD": {
       "price": 32.72,
-      "change": 0.06,
-      "changePercent": 0.1837
+      "change": -0.0,
+      "changePercent": -0.0
     },
     "VOO": {
       "price": 712.32,
-      "change": 9.97,
-      "changePercent": 1.4195
+      "change": 4.78,
+      "changePercent": 0.6756
     }
   },
   "crypto": {
     "BTC": {
-      "price": 85850.15,
-      "change": -630.1547,
-      "changePercent": -0.7287
+      "price": 85282.58,
+      "change": -504.0137,
+      "changePercent": -0.5875
     },
     "ETH": {
-      "price": 2716.63,
-      "change": -9.879,
-      "changePercent": -0.3623
+      "price": 2697.08,
+      "change": -13.9515,
+      "changePercent": -0.5146
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.76,
-      "change": -0.0744,
-      "changePercent": -0.2337
+      "price": 31.774,
+      "change": -0.0604,
+      "changePercent": -0.1897
     },
     "JPYTWD": {
-      "price": 0.1991,
-      "change": -0.0027,
-      "changePercent": -1.3472
+      "price": 0.1987,
+      "change": -0.0031,
+      "changePercent": -1.5454
     },
     "EURTWD": {
-      "price": 35.705,
-      "change": -0.124,
-      "changePercent": -0.346
+      "price": 35.681,
+      "change": -0.148,
+      "changePercent": -0.413
     },
     "CNYTWD": {
-      "price": 4.7481,
+      "price": 4.7451,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4169.4,
-    "twd": 4257.0,
-    "tael": 159653.0,
-    "twdTotal": 132420.0,
-    "changePercent": 0.1706
+    "usd": 4169.5,
+    "twd": 4259.0,
+    "tael": 159727.0,
+    "twdTotal": 132482.0,
+    "changePercent": 0.3055
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "黃金漲不動！但機構曝驚人預測 「這時」創歷史新高、平均價格出爐 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoZkJtN1EzLTNLMDBlNG0xVDhFVFNLa1pEWGU0UzBxX0tlRjlBOThZSmU5Q05MaTR3M2JGNndSb2kzZy1yYXVkUDI1QzFWWHJUbFV2Y3BBYVdvZHhPYzRr0gFkQVVfeXFMTnB3ZThROC1YWS1URkFBSUp1Z29mX1pMbjVEYWNHTk9LWGJxME9CSGEyWjQ4WTE2R1p2ZjZSR2xydk9USkV2WmgxX1VPYkQ1WXVoY25UeFhpS29hOHE0dks0YnRhTw?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉無視美債賣壓 AI概念股狂歡 那指締歷史新高紀錄 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xOWdHRWd4T2ZVOWRJOXRUVXQ1eFlTbk1VbWpfYXFaU245Y3Jhb0JoT2VRYkVyMVNsdHNETlRhcjJHRDNGcDF2UDJuUC0zcVk?oc=5"
+    },
+    {
       "title": "重磅AI科技股領軍 美股收紅、那指創新高 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPMjVpdWhkTHFXRWRBb1hkcG9kUjZvcFRXS3dXOUVjMU9LLVMxR1VNMmRwbE81RjU0bERKNjZCYmd6Z0tOYVE2eGZ3Wmxvc0wzU1YycjZkUUM3VTd3c0MxLTh1SmhoaGY2YVl6Z0RzNzJlNGd0MVR3blNMek94XzZjMG1hckVqOXYwU29tdU5vbWtuc0xxTXNFcXp4VS1GN3IxYU1KSkUwQ1M1VThVbW9Hb1Z6VVZYTG1OQl9DSW5QTW0wbUNwVjdrb296OWgtZWF1cEpVVEtORFpGZnhiNzR5YzNMREhZQjJfTEtDTGtCMEZwMHhKV2ZlWEVjcWR5bVBjNjI5M3BxMWpvelNaS2NiajR1azVBZVFI?oc=5"
     },
     {
-      "title": "【美股盤前1005】非農爆冷！升息預期降溫帶動美股全面反彈，本週聚焦FOMC會議紀要｜豐雲學堂2026 年 10 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPcFM5MmtPMXA1bEt5X0d4N1BEaWxxSTk1bi1mTHlWU1NHVVhDUmg2ODlzU2NZdms1Wm5TX0VaTTk2dVloZDRnRjhhRFdxU2EwUDZFSEhVU1VEaGc3ek1NNFNfSWpUbkV0T2Q5dE5mMFNreHN3VXY4MnZBZjB6Q21FZkk0UlhfN0drMmsxWF9YRmVVa2I1Yld2dG1lclVEc0FXXzR6X2VwNHB2dHJsdGhNSFpQNHN1VFVKa2o3UVVrLWk2RVowY2QwLUVHOUlkRkFaeXk5WWFtTmhJZUpURmhiQ0hyV3djTFNzY09nTDdOb0wxa0hRelRCTmpiU2VxWktwMFctVXdtWmVKeUJVMXB3MDlZb0ZKaEo3b2dYMVdPXzdMZC1WeWtXQ2lOWjVrYmZmbm1VRzQ2NmtEa0p4dUdJVU9CaVJGNzg5d3o3YVBjbE5BeVhrcURyUm02enhZY1BsOVRFS3lEUER2SGtGNnFuQWctU3h4SDBWcTM0Rm4tLUp2RFFoR0hQMS1LS3FmRy1TcUVyVVAwNzdHdlFOU1dub2xWem9xS2NPWVd2QmY1WFZmNElZUDVheThaRWVGME05NGo0TG5OYmNwbmZvV09kUXNHMmU0RTJNUXVTaHB6M245WkJmNGtLOUZPTTU4YUNiREZmMXJqd0czRlVC?oc=5"
+      "title": "【1006台股盤前】台股大漲1200點創歷史新高！非農降溫緩解升息警報，外資大買約略719 億元，CCL三雄台光電、台燿、聯茂齊攻漲停｜豐雲學堂2026 年 10 月 - sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMivgVBVV95cUxOMGhNLW1VNHVpOW1HU242SE9NTEtsbDVIUlVfa201WHBNQi0wR1hUemRQdzFLMHVqZXJQbklVVDQ2SVRTMWozQzRZd2F5dDJmbi14Y2dLOU53MU1sOFBqNG1VeVJIXy1CRlNkN3pYQUM5c1B0MkpFMi01S3RfM3VTQnVPdVVFdldZNkxiT09heXkyWkU1aW5jLTNTT2tDQm1XSjFWQUxMcDFFNzhGTjA0N3d4VEFtMmkySUdyb2w1aWt4TnFfN0JvWXZoa1RNZzJxQno2d1ZUS3FYSU9pazBqd003Q0ZsS3JCSVA5dUZLNk42Y3IyQmJuekF2Ql96VkV1Mm9JYVVBR1NlS2dkQ1dqRGl0aUxVY3ZzdjJUUEh1Um1aS1VRQXpSei1ieEtRUmtVN1c1WU52QnBiSUdlQjlTRjlDcHZUbHdPU2ZqZkN3QjZOUjVhUFdidkd2QXBxdnVGMW9ZMF9zbUJrZXhwUXEwWC04TTB3Z0Q5YV81TGJScUVpaU01enlZenFIZzNqNG12MDNNMU5YQ0lkUlpNM2JTd1JoWmg5V3lwc0R1V29DSHg5ak5NdEZEMDZGdUwxMXBYUEJkdHJLSS1uZU5HLTlyX3dDSG9NOXF6OEw0QVRhQzQ2SG44T1hwcHE5NllJQ2lWS0VGX2xUWVg3WEpKczJndGtVVXppaDVBVHotdjVSbG1WOUotUTZCNFNadDVYN3BYcGhHMElRSW9YNGNDZ1VVOV8yQnlPSzZsMk9KM2FwMHBNbVBFNjBxOUpLcXY4dEpUUFU3aDZBQ1Y0dUVmSXhFYXEzYUdxQU85cE9jQllrbWxwR0lkRllSMG9YcTNqbGdqZFBSX1FGUE1TVUx3QVdGZWF1UDVTNnlBejczckd1MFVwQzlfUjhYSDZsYjdsSUtFa1ZaeHA5SzctUFVxOFE?oc=5"
     },
     {
-      "title": "台指漲破5萬點、美股利空不跌 專家：還會大漲 - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HZEtMMGtFU3JzLV9qblVkd1hpVU5qaXJWRFIxZWt1Q1lIU3N1RG5UM0F3Tk9VQmp1dWFQaDliM3p6REhUOXBEUUFJLUVHQQ?oc=5"
+      "title": "Let’s GOLD 去美元化浪潮推升黃金戰略地位 009832今日首發募集 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05LUdDM2M0bFZOOENrcV95ajhmc1hDYUgtWlFYWUs0bU45SVo3R0tHU25oTXE5RDJBeldacDN3Qjc2R29qdng1Z20wZ09kanYwM05V0gFYQVVfeXFMUG9FeUFhbkxuWnpXd2lkdGh1ZUpIdVpHYWlqZEdrTEZyX2ZnaWc1Y19PSlcyMTdVU1BsbjhUV09OMG5oTG1sQlc5XzR2Q0xyQ0p0RDJCVFNhNQ?oc=5"
     },
     {
-      "title": "逾半股票跌入熊市！美股高檔警訊浮現、美債波動率成後市關鍵 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yQWplMWtSMWx4SE9NbjFERE96VVV6TW5TbFNCd2YyOXhORkJ2VTdoaUdtZGNHcFg0eUJqdmk1Vl9CMThTekx1OXU1LXhOUjg?oc=5"
+      "title": "台股逼近5萬大關 學者：多由台積電等權值股撐盤 - 你的公共電視",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16aTRva2I4Q0hGZVVBNUJsa0ZXOXpZX1Y3ci13bDU5eG5JTDlOMVJzb1ZkZXU0emd1djlLd3V2QllIREFJVzhhZW9vVDBQazQ?oc=5"
     },
     {
-      "title": "市場觀望企業財報美股收漲那斯達克指數創新高| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmb2Q1ZDhTa2tTNGdYT2ZSdmJXV0VIX3ZTS1FzeWlnd19CVDdZR19XUmRmaExyYkRHYWpkaXJwMGhzSjY5aUJXRjRKMGNIYTJE?oc=5"
+      "title": "台股逼近5萬點創多項紀錄現56千金台積電續寫新猷| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CNjlTMkRNRWdtWW1ZRXhONlV3LUkyY1dQd1YxQ2ZYanFLOUw4ZUNNLVdNNWJSTGtlWmIxS3pDSDNyRjdoS290ZEF6QzNDVGNPbWlvYlNnRkxmMzdBZlE?oc=5"
     },
     {
-      "title": "【華爾街日報】AI 正在擠壓美股的其他板塊 - 端傳媒Initium Media",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BVkh4QjBfN2x0NlI5bWxybDFmdUJpb3RERkxWWnZQVmtoYnpaajllSmhYa2cydUR0WV9YUGhIMTNuNEMwUE9lZVFLcENuOXNGajFpVlA2RndWeGdxbzE4dXk1Q1BoemRXV2VBa2JkX29talBLNnZYZQ?oc=5"
-    },
-    {
-      "title": "【1005台股盤後】台股大漲1200點創歷史新高！非農降溫緩解升息警報，外資大買約略719 億元，CCL三雄台光電、台燿、聯茂齊攻漲停｜豐雲學堂2026 年 10 月 - sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMivgVBVV95cUxNZU9NVFBsUmtiUVlGcWhFeTBOcW1wNmZWamJUczE3UUk3NFZtUjFiamxzcWxsdG9xQUczbnJDSTVUSXdYNmd1VlFsM2VvX3MydlVFVmJfbXktOVhRSjBGbE52Umd2VUhpTlZhQjI0UEo2WW5OQWlwUk1wZmlBMHdfcnh2MHVLam1SbUJKTVd3TlBuUkNYdktBMXBkMk80eHZsS2hIWDliM29TdEZQLWhzZTJxTV9aVTlaM0JIb3diNVBYODh1Ui11SThlVkJ5SVJGbl84VFNJbTdsTm1sWGhQSU0tbXJ5ZlF4NXdNUnFZSlptV3JYZlpoV28wQnViZHVjZWljcXExWkpCUmhZQ1NBMDBTd3RRWDYtNWxKbktpOUQwcUwyS1A1eXBiYTdNYkxwMWtXSzE2a3haMnpnTFJqTHRadDd6TzMxMFRiblhseFduNi0tMTdoNHdqM2RKVnE5UWJROFhvRHZiVUUxdGRFLU1RQWd5NWNEenJEZGlZX0l5Z2hhSzg3dndieHpwbjl6ZUJVbXMtSFBSd01VTWdFN0ZhcTVnZkw4WU9uZ0ZGUTV6SVlidjhsNHZHcUtuM1lyZjRMcUhab1RxelZkUGFLc1ZEXzIzTDBTN3ZVUktyTHRvMFFPWDZYbGFSVDl0MU9yUW1ONTRKS3k3ZkZad0pCQlMxTUc4MDg5VmV2cHh6bm5qeWVuV0E2SENpdTliM3dGUzQ5ZVRpNUNvZmxBVlY5QVNEU2tpSVp4VzZkRkpVYTFLbDZmQ3BzQkN3WlA0NEVDeWw3M0ZZMzNDUUs3T3JYTE4yOGcxRUl2U0ZobEFnQnZGMG45UXAxNDB3aUxLYmFfNDBoaXpTeXJmblFGWTBybXlsTklSR29oRW82TlpScU1HVFFLZktTUTJ4V1lqMGR2c2pjdzl6TTFTTTZLaEE?oc=5"
-    },
-    {
-      "title": "科技股領漲「那指創新高」！美股全面收漲 台指期夜盤收50118點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNWkpwNVVGX0lLdldwTFlZN0NPdGtWWkxKN3FZdVRDbWtaOHdMVXp2TUlrV2F0eUlOcVdudDZwT251OGVCV0FQTEVXS2hlQ01nbElpVWxZcWkwbUhBS0V1SFlMaEVNX0ZUQ3N2T1pMemtvTVo2akhGcVo0Q0kwd3dibGtxRmFvdzQzQWNlTUZIcm5LdkJMbkNPNnRwTnB4eUZzbkdBUmZGOFlINy1pdU92N2w3YlV3NUN4Q1FoYlZoUk9lelZXWmE3djA2VzZ3QjlGZno5bG0yQlUwcWliWlIwTHUwdDI1OWd2T1JBVEFuZzhsYXRRY0dxY3hMb0VPMC1DTVZ5eWJQZUExd1RZX3p5bUJoeGt0dXFMeFJSVk5oVl9GWFlxU0FpSHBUelZxOEZ0Uk9PS19udUk4X0tCNG9zYlpfWm9wUUx6a2NnWWh1MFZJZVJiVG4tVFpaTDNnQTZkbFNaYktERi1tYVZ1dTl4aGdrM3lBZ3FnbkE?oc=5"
+      "title": "台股今年漲7成向上還有戲？國泰曝關鍵數字：台股總市值上看200兆元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxNRWRmTDdYLWszTUt1cWZZSm5vN3JWSGI3X2ZCcDZvc01fa2QyR1BpeGx1RE96cUJBUDJyTG00WUQ3a3lPdmNNNS1KdHNza1lxYlhMeGlzQmZGdlBoUlM3TURyODI0OC1HbHFGTE1UYWJ4UV93TVZ2VWZoMGo1V3FQQzdCUG1sTDdtcUY3RnJjTmZqYXVmZU1odV9xZWJRaXh0R3MwM1NMOVdKZTBnVWpUazNtWk9FZlVSaDRJc3R4NWsybHlMT1p0LVF3MmtJdnd2RVl0cVNRcHNTZVZEd0lleWN4ZW9ycFNWNkx6ZVl4YlFSbEhncHZpT1VZZ2tZOHBjZm4xc2xKUHRuRURuUXFEQXhyV3k2WE1JczZmdHVmbkJ0X24yNjNOcUh1MlE5a1hJX2RMcldmeTJGcjlwaEdMUVpFV1BPWGxoQjRnd0xvZ3o2RThXVWlMS19pN3VreE81eXFHWlE4TXQxQjBpbkVueldiZFdyTFFnek9veG1PcWw0cTkzWWt4UU5GRmxrcW15b2kyTHhReWZGcWdnUnhFZFRCUTcxempxX2NsdjROVklvQjd1bzdIRkd4NEg?oc=5"
     }
   ]
 }
