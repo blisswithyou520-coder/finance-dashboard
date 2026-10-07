@@ -1,16 +1,16 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/07 10:35",
+  "updated_tw": "10/07 17:17",
   "taiwan": {
     "2330": {
-      "price": 2575.0,
-      "change": -10.0,
-      "changePercent": -0.3868
+      "price": 2585.0,
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "2454": {
-      "price": 4860.0,
-      "change": -60.0,
-      "changePercent": -1.2195
+      "price": 4835.0,
+      "change": -85.0,
+      "changePercent": -1.7276
     },
     "2317": {
       "price": 252.0,
@@ -18,19 +18,19 @@
       "changePercent": -1.5625
     },
     "0050": {
-      "price": 116.1,
-      "change": 0.15,
-      "changePercent": 0.1294
+      "price": 116.05,
+      "change": 0.1,
+      "changePercent": 0.0862
     },
     "00878": {
-      "price": 35.2,
-      "change": 0.09,
-      "changePercent": 0.2563
+      "price": 35.22,
+      "change": 0.11,
+      "changePercent": 0.3133
     },
     "00919": {
-      "price": 31.91,
-      "change": 0.28,
-      "changePercent": 0.8852
+      "price": 31.94,
+      "change": 0.31,
+      "changePercent": 0.9801
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 83941.68,
-      "change": -1844.9138,
-      "changePercent": -2.1506
+      "price": 83870.18,
+      "change": -1687.3825,
+      "changePercent": -1.9722
     },
     "ETH": {
-      "price": 2617.2,
-      "change": -93.8315,
-      "changePercent": -3.4611
+      "price": 2606.56,
+      "change": -90.9564,
+      "changePercent": -3.3719
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.848,
-      "change": 0.0966,
-      "changePercent": 0.3042
+      "price": 31.859,
+      "change": 0.1076,
+      "changePercent": 0.3389
     },
     "JPYTWD": {
-      "price": 0.1988,
-      "change": -0.0022,
-      "changePercent": -1.0916
+      "price": 0.1991,
+      "change": -0.0019,
+      "changePercent": -0.9423
     },
     "EURTWD": {
-      "price": 35.829,
-      "change": 0.2053,
-      "changePercent": 0.5763
+      "price": 35.704,
+      "change": 0.0803,
+      "changePercent": 0.2254
     },
     "CNYTWD": {
-      "price": 4.7544,
+      "price": 4.7561,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4171.7,
-    "twd": 4272.0,
-    "tael": 160183.0,
-    "twdTotal": 132860.0,
-    "changePercent": -0.3678
+    "usd": 4145.8,
+    "twd": 4247.0,
+    "tael": 159244.0,
+    "twdTotal": 132081.0,
+    "changePercent": -0.9864
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "5萬點穩了？美股全面上漲 台指期夜盤竟逆勢走跌 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNdWlTdzRnTGxoVzB4amNMaEtEODY1VkRCeERpcVdvRTRGdlNYLWtaa2QyajdDSVotU2VJbnc5RzF3U2RPampib0REbTZ4a01YYW83d2hXTXhCdDgybFFGSXpGTG1EZkx3SXRJbV8zclY3MHIyVUgyaEJ0bVRqSlBZYV83ZGl3S3plSFJ4SVNxM0dYQV8yR2RiY1p0ZnpaajltMzVzRXlWenJrbmlhSmxnb2FDNjBiR3RBcjRsc19rMDZkaXJMWHo0c1hxeXctOFJGQzRVSDRuNjFUbDYxVWNCalFHUzhqcTFkLWxKZHB3c21nLUZmQWNPN3g5WVVPT09SNWxXSHVKbUw5ejlvYzREMEFxTTloQnRNU3hjX2Y4NnpQZ3BuZ3dnS01tN0dJak9vbXppMFFJQnNtTVJObUk2cFhMd1NYNTlvUWxoc2F2NA?oc=5"
+      "title": "黃金上漲後下一站？「這時」衝破5000美元 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EZGNrWFhwQlZnUFZNd05SSXVhamNGckJZUmVZeWtPY3BGVzl1UDRoUnlCQUlfR2htV01yelFscGRMQW80bDhyaTRSMjgwVllQX0p2QjV5YUFnTU4ybkpJ0gFkQVVfeXFMUHJCNmx0aWpvU01IR29MS1htUTVrc3lrWXV3U1FVRDBfaUd0NUowY1RxcjJEd0pOM2hmQzlNeGJaQ1puaDZTclgyZi1kNWdyaEFhM1F4X1ItUmhYRXJueGUyY3VZZw?oc=5"
     },
     {
-      "title": "美股收盤》科技股領漲 美股全收紅2指數創新高 台積電ADR跌0.72％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZTkVQSnVwdTJEVmJBc3NIQXVfaF8xdHdZdFhCRzRrWksycUhZeF9hbkI0d2lYcl96d0ExYWM4aDkxSENBWDRZX0xoLXlXNUl1cWxQSkFIdUsyWTJ0Nk530gFkQVVfeXFMUFo4RzhNNVNHeU5wR2dpTzljdGRBWkM4M2pWWGN4bGtya19rMnJRR0NEV0pSMEY5aEozcWpWdF8yTUtDbUNfUzhFYnl5NFlCV1ZITmxUNGg1YVV5RmEzUjYxQm9nWg?oc=5"
+      "title": "5萬點穩了？美股全面上漲 台指期夜盤竟逆勢走跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNdWlTdzRnTGxoVzB4amNMaEtEODY1VkRCeERpcVdvRTRGdlNYLWtaa2QyajdDSVotU2VJbnc5RzF3U2RPampib0REbTZ4a01YYW83d2hXTXhCdDgybFFGSXpGTG1EZkx3SXRJbV8zclY3MHIyVUgyaEJ0bVRqSlBZYV83ZGl3S3plSFJ4SVNxM0dYQV8yR2RiY1p0ZnpaajltMzVzRXlWenJrbmlhSmxnb2FDNjBiR3RBcjRsc19rMDZkaXJMWHo0c1hxeXctOFJGQzRVSDRuNjFUbDYxVWNCalFHUzhqcTFkLWxKZHB3c21nLUZmQWNPN3g5WVVPT09SNWxXSHVKbUw5ejlvYzREMEFxTTloQnRNU3hjX2Y4NnpQZ3BuZ3dnS01tN0dJak9vbXppMFFJQnNtTVJObUk2cFhMd1NYNTlvUWxoc2F2NA?oc=5"
     },
     {
       "title": "〈美股盤後〉標普首破7800點 科技股領漲、殖利率回落助攻 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tRF9DQmFjMTduemZhNHN0ZHJDeU52V2RhQ0xsdmh0ajkxZ1doemI1ckZPY1dSRks3OC1NZnF2X2Ywcl9US1htVXBPZDNvQ00?oc=5"
     },
     {
-      "title": "【1007台股盤前】熱門族群漲多拉回！投信獲利了結大賣約略159億元，加權微幅收紅叩關五萬點，營收創高模範生鎖定技嘉、中砂、信邦｜豐雲學堂2026 年 10 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi7AVBVV95cUxOR0pNSzRMbmpYWjNqdlVWTTlRMzNWMWE2Ym5pZk9SWHpmdDJ0NHc4UzRZUDNEdjVtLXd2UEE1M1d2MnJEZ0p2eE9vTjJieDFrMG1NZUc1WUdHQV93Vm5henMtSUo3cjVaNGVMZ1MxVHhCT2VfN1hXTV9nTUNSNHE1clIwSWFDYVA4amZiV1EtRE5XbEM3dkdYRTVCRnRmdnhKVXc0dlpVdEF6WlJ5ZWplZ2FubzY4X1VtdFFIUzVuQ29KYlNYRzlKelVyTzlIRjBMOEhaRFBlZ0d3aW5jZWhaQ1NzM3hLQlhtUWxyU2J1YzlxRkxkaUFsV0pVN01BRHJfRjZvR2JnTzBJMUZ5d0trV1RRMklwdDR2VDNEMG1sWFUyalpTeXVLbGNwclRlejJJRDJQSXZvMm1MdDNKUGVrc3c1NU92UGI4Uzk3bGV2bjZxNkhnVVNRNklSTWdpa1ZGUzlCY1FHMGhndk9wUks2dVREUU5fZjVMWWdKcS1XMTBHclNQZVgxc3dvdjA1ZEZVV0JKdF9DRzg1UVlUcHpkdVhZNVMwOGpKLWl6SUtrYW1zVFBVckxISl9QZmsxUUZ3S3ZzT2VvQkQxc3VDMWxLZ3JhSEh1TFpBaDRyTWtFLXNWTE1UX2RSSmF2SXRSSm1aa2cydDEzdWdNWjlkU1JHU2E1OTJaTFBxb1g3dzlTd2ZzZkhQb2c5S3JHTHR2VEp6RHBhNjk1aWk3aXphbk5UNjZvQUpzZjFHQmc3Ti14REE4NWpVSUFNY1Y3UDF2MTdMWlhfYUFOZDZlY1pQUWVldlJfQk1RbG9WbFJZbWE0ajFaRW5jVk9LMkFsVEx4WE1jdldJMVd4NkdWdjZYNVlpTlMtNmlTMGxOXzBYVEFNZGt6RkNhZl9qWVg3cGFURDVhUlhTMjBqNGNvRE9JTHNnOW9vOUdNbmZRdkVaSWpPdUNKMU9GejhzZkxrMVgwQlVyVWgtVGRWMk9ZQm5S?oc=5"
+      "title": "比特幣閃跌破 8.4 萬美元！一小時爆 4 億美元多單、布蘭特油破 100，8 萬美元保衛戰要來了？ - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jdFF6dFR3a2pIdFU0OXlULUhHeGxNNnhxUWZEa0Y3MmM4WDJYeHVmLV9fVEpGOU1mSDQxS0VOUFhUcFU3UHFXbmo5WjRVdE1wRF83Vmt6dl9PM25MMWtaR19HcG1QbVNNMEo3NGZINUIzUQ?oc=5"
     },
     {
-      "title": "台指期夜盤再創歷史新高！美股開盤4大指數齊上揚 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1za0ZESFpQaWJyT2w5ODRjYXpsUzJTdkR3aFhLSTllaHVWREFJRXpLcVVPWllWM2ZFZWxDS0pEcUVURDRGendMRDNmTnBGQjR2OVHSAVBBVV95cUxQc3FIdTNCM3ZyRnA4SUlhTkJNVXU2YTBYTTdsaldzcXhnU3BzR1BLY1pJd1JCX0duN2FnR2F1RU9hakhyaGM3elhxLVBYUV81Sg?oc=5"
+      "title": "台積電驚險拉回！收平盤2585　台股收跌16點至49806點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DcjgwSTZPRmVQclhadm0zbWJLeGRLVlVOMHU2NVB4X1Jrd3RyamxXU3ExaVBDTTdGSG9GRXo4SHlLM1FVendFT1JwS0FIUkw3VmfSAVBBVV95cUxPb2llSEZFTUlfWFFWOWphVGZVRXdTdFlDSmY0Ymx4RDNWR1N3MHN2STNSSm9QVmIwb3NmcDVNWjdWRklKODVHREZ6MVFFekdrcA?oc=5"
     },
     {
-      "title": "美股創新高，比特幣卻反覆卡在 8.7 萬！BTC 三角收斂逼近頂點，大波動倒數？ - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXRybkpRM2dpejhrX1pxMV9pVWlodTZuNi1HMDFCUFk1ajVlOS1ORXdsejRGY2t3ZkJSal9jM0Y2Z21HTEpGMHktX3VBUXlZb1J1akFuQUpXamdlNUJoQUc5dWFfOWl2S2hjaFUwZ3R1REwydWNnSnBZTDYxazNsV0k4Z0R1a3JYekpLYlNIRnM0R1Uy?oc=5"
+      "title": "【美股盤前1005】非農爆冷！升息預期降溫帶動美股全面反彈，本週聚焦FOMC會議紀要｜豐雲學堂2026 年 10 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPcFM5MmtPMXA1bEt5X0d4N1BEaWxxSTk1bi1mTHlWU1NHVVhDUmg2ODlzU2NZdms1Wm5TX0VaTTk2dVloZDRnRjhhRFdxU2EwUDZFSEhVU1VEaGc3ek1NNFNfSWpUbkV0T2Q5dE5mMFNreHN3VXY4MnZBZjB6Q21FZkk0UlhfN0drMmsxWF9YRmVVa2I1Yld2dG1lclVEc0FXXzR6X2VwNHB2dHJsdGhNSFpQNHN1VFVKa2o3UVVrLWk2RVowY2QwLUVHOUlkRkFaeXk5WWFtTmhJZUpURmhiQ0hyV3djTFNzY09nTDdOb0wxa0hRelRCTmpiU2VxWktwMFctVXdtWmVKeUJVMXB3MDlZb0ZKaEo3b2dYMVdPXzdMZC1WeWtXQ2lOWjVrYmZmbm1VRzQ2NmtEa0p4dUdJVU9CaVJGNzg5d3o3YVBjbE5BeVhrcURyUm02enhZY1BsOVRFS3lEUER2SGtGNnFuQWctU3h4SDBWcTM0Rm4tLUp2RFFoR0hQMS1LS3FmRy1TcUVyVVAwNzdHdlFOU1dub2xWem9xS2NPWVd2QmY1WFZmNElZUDVheThaRWVGME05NGo0TG5OYmNwbmZvV09kUXNHMmU0RTJNUXVTaHB6M245WkJmNGtLOUZPTTU4YUNiREZmMXJqd0czRlVC?oc=5"
     },
     {
-      "title": "《貴金屬》COMEX黃金上漲0.7% ETF持倉增加- 新聞 - MoneyDJ理財網",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObG45VWh6d2ZsS2stN0V3QkZKZjExRmJnazhuaWs5YnFwYmFSWGtVZjVRTzUxTkd2S2xlMTJYUWxMWkRYUm1tOXZOc1pXNFQ3OUtKSy12Rnk0TThURHBEamx0bWxsR3JIWGRWeDdKWXlRdi1lYlBJQVY5TUtpd0YxcEZMWFhfWUE1NEZFcWpXWkpXZw?oc=5"
+      "title": "渣打銀看台灣「亞洲最具投資吸引力」 估台股高點可期| 產經 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEdnVtWFBSNjVmb3AtZ25NN1pLWmRzMy1nM3RTNUxnOFVTU1Z5bWFJXzBoS1daZ3k5c3htbDdvTWt6MDBDQ2FkNnI1N1dBRjQ4RXlySDNPQUc1TEtOdVE?oc=5"
     },
     {
-      "title": "今晨國際頭條一次看／AI推動美股創新高 范斯開美伊停戰條件 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50Z0toQjYzWHk3VFEwWHFGa0Qxc0VrSUdjMERiSzNqdU9YUTIxeUQ1dmNIazN5dFZLYktKZzEyUWFPY1VBWXZpek5PSGFSR19m0gFWQVVfeXFMTURNMURJX0V0ZEE3Wkh2Uk5VQTlFOXUwRmJTY3ZuYlRaQ2hHTnN1c1ZnRXg1WVJ5a0NoWGUxV3lMczNKYnByOEZYcFJKRGNFSktnRkdkUHc?oc=5"
+      "title": "美股收盤》科技股領漲 美股全收紅2指數創新高 台積電ADR跌0.72％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZTkVQSnVwdTJEVmJBc3NIQXVfaF8xdHdZdFhCRzRrWksycUhZeF9hbkI0d2lYcl96d0ExYWM4aDkxSENBWDRZX0xoLXlXNUl1cWxQSkFIdUsyWTJ0Nk530gFkQVVfeXFMUFo4RzhNNVNHeU5wR2dpTzljdGRBWkM4M2pWWGN4bGtya19rMnJRR0NEV0pSMEY5aEozcWpWdF8yTUtDbUNfUzhFYnl5NFlCV1ZITmxUNGg1YVV5RmEzUjYxQm9nWg?oc=5"
     }
   ]
 }
