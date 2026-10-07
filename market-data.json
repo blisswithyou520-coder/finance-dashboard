@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/08 00:46",
+  "updated_tw": "10/08 05:46",
   "taiwan": {
     "2330": {
       "price": 2585.0,
-      "change": 10.0,
-      "changePercent": 0.3883
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "2454": {
       "price": 4835.0,
-      "change": -330.0,
-      "changePercent": -6.3892
+      "change": -85.0,
+      "changePercent": -1.7276
     },
     "2317": {
       "price": 252.0,
-      "change": -2.0,
-      "changePercent": -0.7874
+      "change": -4.0,
+      "changePercent": -1.5625
     },
     "0050": {
       "price": 116.05,
-      "change": 3.25,
-      "changePercent": 2.8812
+      "change": 0.1,
+      "changePercent": 0.0862
     },
     "00878": {
       "price": 35.22,
-      "change": 0.33,
-      "changePercent": 0.9458
+      "change": 0.11,
+      "changePercent": 0.3133
     },
     "00919": {
       "price": 31.94,
-      "change": 0.39,
-      "changePercent": 1.2361
+      "change": 0.31,
+      "changePercent": 0.9801
     }
   },
   "us": {
     "NVDA": {
-      "price": 236.997,
-      "change": -2.243,
-      "changePercent": -0.9376
+      "price": 237.47,
+      "change": -1.77,
+      "changePercent": -0.7398
     },
     "AAPL": {
-      "price": 336.07,
-      "change": 2.44,
-      "changePercent": 0.7313
+      "price": 336.67,
+      "change": 3.04,
+      "changePercent": 0.9112
     },
     "TSLA": {
-      "price": 375.81,
-      "change": -4.87,
-      "changePercent": -1.2793
+      "price": 377.81,
+      "change": -2.87,
+      "changePercent": -0.7539
     },
     "QQQ": {
-      "price": 756.346,
-      "change": -3.314,
-      "changePercent": -0.4362
+      "price": 757.73,
+      "change": -1.93,
+      "changePercent": -0.2541
     },
     "SPY": {
-      "price": 776.57,
-      "change": -2.52,
-      "changePercent": -0.3235
+      "price": 777.22,
+      "change": -1.87,
+      "changePercent": -0.24
     },
     "SCHD": {
-      "price": 32.695,
-      "change": -0.155,
-      "changePercent": -0.4718
+      "price": 32.65,
+      "change": -0.2,
+      "changePercent": -0.6088
     },
     "VOO": {
-      "price": 713.84,
-      "change": -2.36,
-      "changePercent": -0.3295
+      "price": 714.34,
+      "change": -1.86,
+      "changePercent": -0.2597
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83415.88,
-      "change": -2141.6825,
-      "changePercent": -2.5032
+      "price": 83155.42,
+      "change": -2402.1425,
+      "changePercent": -2.8076
     },
     "ETH": {
-      "price": 2566.39,
-      "change": -131.1264,
-      "changePercent": -4.861
+      "price": 2565.33,
+      "change": -132.1864,
+      "changePercent": -4.9003
     }
   },
   "fx": {
     "USDTWD": {
       "price": 31.843,
-      "change": 0.0916,
-      "changePercent": 0.2885
+      "change": 0.0661,
+      "changePercent": 0.208
     },
     "JPYTWD": {
       "price": 0.1992,
-      "change": -0.0018,
-      "changePercent": -0.8926
+      "change": -0.0016,
+      "changePercent": -0.7825
     },
     "EURTWD": {
-      "price": 35.676,
-      "change": 0.0523,
-      "changePercent": 0.1468
+      "price": 35.688,
+      "change": -0.0718,
+      "changePercent": -0.2009
     },
     "CNYTWD": {
-      "price": 4.7541,
+      "price": 4.7544,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4136.8,
+    "usd": 4136.7,
     "twd": 4235.0,
-    "tael": 158818.0,
-    "twdTotal": 131728.0,
-    "changePercent": -1.2013
+    "tael": 158815.0,
+    "twdTotal": 131725.0,
+    "changePercent": -1.2037
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,16 @@
   },
   "news": [
     {
-      "title": "美股早盤／四大指數全倒10年、30年期美債殖利率同飆至24年來最高| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85VndiQmgwWTVCVVRPR0d1SUoxZ3N6eFg2UVR4dXl3ZzQ1cFN2LU40NGE5YUpnYTA0RTBFa1JQWVk4RE5DcE5CNkItMTNSUGpH?oc=5"
+      "title": "美股早盤／四大指數全倒 10年+30年期美債殖利率同飆至24年來最高 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Sa1ozQWhXeFM5Zkl3YmxDbG8yTmxYQlhNNTNRd3F3Z000dWJ3Sk5mSldaZkZRTllBZ0x2V3IyWFhnMEpDQUlLakNJUUVfT3k0M2x1NWdEeGFGQnc40gFiQVVfeXFMTWdSenE5ZkRJb0NpMnRLem9rOE5SOXBSSXU5cGZ3U0F4NHVrcUpOc2prRWFrdlV2V2JUZGNqamh0b0N0YlRyaDhVOElzY3diSWRIVzNZNFVMZ1ltVXFITG9jN3c?oc=5"
+    },
+    {
+      "title": "台股連假前5萬點無望？美股四大指數全倒 台積電ADR挫1.4％、台指期夜盤殺回49K - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxONmdSc3BrN2I3NjZndVUwLWpCcHJaTVhVaEFDRHZ1c1JIVDBldUp5OTlSRmlOelYxSUNHM2I0ZmxDQjBRdDNWdEpQSGNfM3J2dmlBZ0FobmhsWEtaamNNWWJFQ2p0UzBkLUxCVjVncUZLMGszTGxxSmN1LWduWjdsOFFlWkR5Mlc1RlF6SzBrc0NQOFk4MVpxRkU1bGw4eG9QVFFLMl8zcnRfaHR0b1hGNVdIeFVla3p3RkUtd2hyUFZwYTFCSFl2dk9lVGxhNlp1OTVVMjhRMGI5cjZIbHljUDg5N3Z4NjVSUTBPMmdnUVhHMFNJWHZ2d2FZWS1mbWswMWs1c1c2UDhDTThZT29QYjM4UVR5RkN0N000X1dHZzBxWmRRdDJvbHhhelJWZ3F3QkkwUjhwQzNaX0Z0ZVMtWWhLR0R2aExPMndiVTBMVFA0QUc0VW15LU1lNUJVUkZOYWZ0enY1OXFnaDYyd3NvMlRSRW55N2FKV0lzNHVweTRhMGoxdXJjWDIxMXRER2wycXd4WnJSVGk5T3ZXQnMtZmJROHl1R09uakxMMXBpS1NwN0hyd3FyYVUwRlE?oc=5"
     },
     {
       "title": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低 台積電ADR跌近2% - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZbGZWOEpzUUpMOFI3SkVvNGRrV0M0aktLUVdQQ1NzVjU2Y3p4UEdIcVJDdHFpa25lOXExUUM3TDJkZ29NOWIxU2RzUmpFcjg?oc=5"
-    },
-    {
-      "title": "快訊／美股開盤慘綠！費半噴掉322點、台指期夜盤失守50K - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNUV9qdkJhQ2VJd05pbElUcGtDU1BiZWxjazV4aU5Td216eTZXQVpPUExtTjVUSUk5bGVpOFEybnk2UmI5SjJyWWQzeklvRGNVMHk0SFpTeklDX1pldjZCY18yUWY1RmY5cGkteHlwODFITDNSWEZjWDN0dzJkVDg1TGo3MXhmejNaQ1Z5aXlxVXdpUWNKYW1DMTlMREYzQ2tHdXNvSl9GWHZOWWFPZG13dk5OcWU3bG5WTTVYdHNTYUs4QU5HcExubG16ZnhsT2hvb1FFVDFkenk3UGdtX2x1eG4tbzhuVXFZQm92ajBma2RDS0U0N1F0bDNEX0pwMU5KM1JYVWJReG4yVkZnZ0szazZIcXB2OWpZcmJET1llLTM3S1dhWkVQRjhWYlphYXRGWjVYNElYUm1YTG5oNXNpUFQ0dVcwQVZBTGVZTkxzbw?oc=5"
     },
     {
       "title": "AI資本開支狂飆，美股盈利或連續三季暴增超25% - 群益期貨",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EZGNrWFhwQlZnUFZNd05SSXVhamNGckJZUmVZeWtPY3BGVzl1UDRoUnlCQUlfR2htV01yelFscGRMQW80bDhyaTRSMjgwVllQX0p2QjV5YUFnTU4ybkpJ0gFkQVVfeXFMUHJCNmx0aWpvU01IR29MS1htUTVrc3lrWXV3U1FVRDBfaUd0NUowY1RxcjJEd0pOM2hmQzlNeGJaQ1puaDZTclgyZi1kNWdyaEFhM1F4X1ItUmhYRXJueGUyY3VZZw?oc=5"
     },
     {
-      "title": "【1007台股盤後】加權高檔震盪叩關五萬！玻纖布出貨旺季台玻飆漲停。外資大買櫃買約略96億，營收創高模範生鎖定奇鋐、國巨、營邦。｜豐雲學堂2026 年 10 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi7AVBVV95cUxQU2ZwdHgzR1NiOGlyWWdQMm1DV1FLVkJtS1JvWmZPZVR4RWhGcHFCMllsNlZEQTlsNk9mY3JvTkRWYVJrQ3k2ZUJzMGk5TnZlemZockhUYm1ZTE81TlhWaVhKaFgxY0diNGQ5NElwcHU0MGR3ZnVjb1BBdFRHaFQwQThmdF9MamdCS2xWanctcFd6cnB2TW1XLUlvajNQcWp5SmlmSHZfQllqUTFHMEtBU0F5R2dFdnFxS3ctQUJLemctc3pOSkEwT2UxMXdiY0ZpY1pmSkt3VUtGTTQtOWo0N3BCTlpwNjBid25zc0kwZG41dHQzejF0QWhBREJhekhoUEtSNTZDSDRqdWFMSEFKRmEzV1o4bDUxZE5lRk1OUkh1OFpxOE15Z2Z1S3hZZHl5ZTFTa20wdEV3QU12amh1SEFselh2WE12Z0VMcGhyOVdSN0ZXazREQmNiZ2k0MzEyRW1obHpjR1ViUGJiX3pKV3U3M2pHa2EtYnNVU21WYlFhSXh1UUZ1UjllaGtLaVQwV2V2MU40ZjVQTUpoVmFsSGpYZmhZdl9mbW5mY0xFVy0tR3JPOWFjRjRmMUtYbk16TEYxcE5ZcWd4d0xucllSLU45QnJFTXg5WFRLMnFESFhxaElaLWdOSFhVcnVPQ2dvN3RsWUpNQjRLTTVCWlpyc2xUdEo5VWlVZ0l5d2t3T3htbnlVU3V3WVF6R0tDWkw3ZWc1Nm0zaVRHeTJoNVpkcV82RFhoN2p5NlczSmFyU1gwOFlQQ2xzOXdibDBGWkJRV3lvUmJ0ZlJHQ05XajJncTQtUHZmMVlyMHJHaGphV29vMjRyOWViblhKZXVLM1VhR2RhN2ROQnRrb3ZIem5NVFRUWFBSSXA3RlVJQWg0MVFReFo0ZVV5NnVTalRTODhwSC1PZUhWLV9zU0NKVm9fdEhieWJiQmM0endpU3pPM0QwMDQ1N0JKV1VWLUtQc3NPQ0lLcGw5Y3VCdHdx?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉標普首破7800點 科技股領漲、殖利率回落助攻 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tRF9DQmFjMTduemZhNHN0ZHJDeU52V2RhQ0xsdmh0ajkxZ1doemI1ckZPY1dSRks3OC1NZnF2X2Ywcl9US1htVXBPZDNvQ00?oc=5"
+      "title": "【美股盤前1005】非農爆冷！升息預期降溫帶動美股全面反彈，本週聚焦FOMC會議紀要｜豐雲學堂2026 年 10 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPcFM5MmtPMXA1bEt5X0d4N1BEaWxxSTk1bi1mTHlWU1NHVVhDUmg2ODlzU2NZdms1Wm5TX0VaTTk2dVloZDRnRjhhRFdxU2EwUDZFSEhVU1VEaGc3ek1NNFNfSWpUbkV0T2Q5dE5mMFNreHN3VXY4MnZBZjB6Q21FZkk0UlhfN0drMmsxWF9YRmVVa2I1Yld2dG1lclVEc0FXXzR6X2VwNHB2dHJsdGhNSFpQNHN1VFVKa2o3UVVrLWk2RVowY2QwLUVHOUlkRkFaeXk5WWFtTmhJZUpURmhiQ0hyV3djTFNzY09nTDdOb0wxa0hRelRCTmpiU2VxWktwMFctVXdtWmVKeUJVMXB3MDlZb0ZKaEo3b2dYMVdPXzdMZC1WeWtXQ2lOWjVrYmZmbm1VRzQ2NmtEa0p4dUdJVU9CaVJGNzg5d3o3YVBjbE5BeVhrcURyUm02enhZY1BsOVRFS3lEUER2SGtGNnFuQWctU3h4SDBWcTM0Rm4tLUp2RFFoR0hQMS1LS3FmRy1TcUVyVVAwNzdHdlFOU1dub2xWem9xS2NPWVd2QmY1WFZmNElZUDVheThaRWVGME05NGo0TG5OYmNwbmZvV09kUXNHMmU0RTJNUXVTaHB6M245WkJmNGtLOUZPTTU4YUNiREZmMXJqd0czRlVC?oc=5"
     },
     {
       "title": "又看空AI了！大賣空本尊：美股崩盤第一階段「將持續6至9個月」 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVnZyY2VwVk5xcEdfQnAzUXZDYzM4MlRfSHdVVzVaWGNXYmlYOVJDSGl1MlVFbDJLOEcycW1ZUllVNzV0d1QxZmRpQy1PaWIwZHhPU2Q1UF9wYnZMTHZGek10eEotSlBpMS1OOTZoWFZiWXZ4WmF6VFdPcGppcktYWUJVVll2QXZoc01ZUWd5aFhweVpiXzFSTDRDdnNROFA1Mk5taFdWbHQ2STh2aVMtU3NldVFOZWFPdVFlX2YxejB6RlhhOWlVTnduSjJ2REstcEN5YndZSUZvd2d6cm50Y0F5VzhWQllRQng1QlJIT0k3Vkhrd2NvNWg4UmRBeFR2QkVVNHhPdWZXRU1tR1BmbU5LYThrQU1FdHg4cndPWVFRaGl3OTRyMG1ERTdyS3pYczBNenFIQWIwN2Y4endCZ2lTLXFTLUdocGtFUjdjRlotQzRFR1ZMUU9RVVcxZHozcXJaNHdn?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉標普首破7800點 科技股領漲、殖利率回落助攻 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tRF9DQmFjMTduemZhNHN0ZHJDeU52V2RhQ0xsdmh0ajkxZ1doemI1ckZPY1dSRks3OC1NZnF2X2Ywcl9US1htVXBPZDNvQ00?oc=5"
     }
   ]
 }
