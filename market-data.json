@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/09 22:29",
+  "updated_tw": "10/10 03:40",
   "taiwan": {
     "2330": {
       "price": 2550.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 230.62,
-      "change": 0.14,
-      "changePercent": 0.0607
+      "price": 229.59,
+      "change": -0.89,
+      "changePercent": -0.3861
     },
     "AAPL": {
-      "price": 333.025,
-      "change": -7.395,
-      "changePercent": -2.1723
+      "price": 336.595,
+      "change": -3.825,
+      "changePercent": -1.1236
     },
     "TSLA": {
-      "price": 387.11,
-      "change": 12.11,
-      "changePercent": 3.2293
+      "price": 383.14,
+      "change": 8.14,
+      "changePercent": 2.1707
     },
     "QQQ": {
-      "price": 749.862,
-      "change": 2.282,
-      "changePercent": 0.3052
+      "price": 750.83,
+      "change": 3.25,
+      "changePercent": 0.4347
     },
     "SPY": {
-      "price": 776.455,
-      "change": 2.525,
-      "changePercent": 0.3263
+      "price": 778.735,
+      "change": 4.805,
+      "changePercent": 0.6209
     },
     "SCHD": {
-      "price": 33.06,
-      "change": -0.09,
-      "changePercent": -0.2715
+      "price": 33.065,
+      "change": -0.085,
+      "changePercent": -0.2564
     },
     "VOO": {
-      "price": 713.7,
-      "change": 2.42,
-      "changePercent": 0.3402
+      "price": 715.83,
+      "change": 4.55,
+      "changePercent": 0.6397
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83083.28,
-      "change": 1406.9441,
-      "changePercent": 1.7226
+      "price": 82339.25,
+      "change": 662.9141,
+      "changePercent": 0.8116
     },
     "ETH": {
-      "price": 2491.42,
-      "change": 19.5074,
-      "changePercent": 0.7892
+      "price": 2477.19,
+      "change": 5.2774,
+      "changePercent": 0.2135
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.938,
-      "change": 0.0897,
-      "changePercent": 0.2816
+      "price": 31.916,
+      "change": 0.0677,
+      "changePercent": 0.2126
     },
     "JPYTWD": {
       "price": 0.1995,
@@ -94,22 +94,22 @@
       "changePercent": -0.9813
     },
     "EURTWD": {
-      "price": 35.801,
-      "change": 0.1294,
-      "changePercent": 0.3628
+      "price": 35.79,
+      "change": 0.1184,
+      "changePercent": 0.332
     },
     "CNYTWD": {
-      "price": 4.7765,
+      "price": 4.7761,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4215.9,
-    "twd": 4329.0,
-    "tael": 162338.0,
-    "twdTotal": 134647.0,
-    "changePercent": 1.4169
+    "usd": 4220.0,
+    "twd": 4330.0,
+    "tael": 162384.0,
+    "twdTotal": 134686.0,
+    "changePercent": 1.5155
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,16 +117,16 @@
   },
   "news": [
     {
-      "title": "台股連假後挫咧等？美股3指數收黑、半導體股齊下殺 台積電ADR跌3%、台指期夜盤失守4萬9 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNSVBnNVJCdXNQT1ZpeEFwZGJvWFhZRFNZYTk5OF82YkpoWU51MWViUjgyU0RXMkwtdUZSQ1owYWhUSE1GQkRjVEswNl8tSVUzYTFENTNmYlBlV0lDZjVJNzRuTENjdDJpSGZoNU1TTldvRGI5V0ZPSVRmVFZaVDVoN1luTTRSMnY3SC11cmJyaDJHazROMkNUUFpmUEllY2RabF9nc0tYbGxDUGg0ZFlMX1VOTkZ6ZG9sZXJtaEhZNVdRT1BlRzgzVkQzWFN1aUhZd0hMbU5ZSEotWmZFRlI3Wk5TQTF3M1MzRUo2Wkp6WnR1NzhNa0J5TXdDZWlYWHNvbnpvQWd0MGRHMGRzQV9zMzhBbElueEhJZ1oxeExTT1dZQ0dEcU95UTBCMEdwWUp0Z3lOSFRRa19kd2w0WWZuZC1CaFBlMnpCWThxWnpxRDZmN3NCaHF2dnhIY3FMaHoxN294MjR2cl95ZmY4UFZIdDNIcXVXTU45MlVrT3UwSmJTMGx4VmpXd0tVRDVudG13Q29vWFBrVEZ0WWR6bjA1UGVNTnJiMTJFa1o1bFdjcEcxdkFBY3p5dXlOLXdNcW5BS3ZIZElvRU0xTllKZTFYekhVclNBUkFaZm9Vc3ZZZnhGYUFzLTFEeVJtUlA3cG5uNVhxRnpR?oc=5"
+      "title": "美股漲多跌少！道瓊、標普、那斯達克領漲唯費半下挫0.33% 台積電ADR跌近1%、台指期夜盤跌逾650點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQd0RGMkM2SXJrOE82RS1IUU1VMXhSYWRORmYwQURMYm5RLVRZcTIyOUVhR0VOb3hrOVptVmNnTTNHOERFU1dVOFR0WXBneU1jWUd1NWxmOGU2bGNrZ1gxdFIyS01mNFhzOXREZm9QS2tBWS0wQ0lfeEQ2bjd0SDNTazFDbG16bnltSGNtemdfdzhmMkZ5TXpHMjVGZUpyNFZfdGNUUW1zUUNCSnYxU2VuaHBZR0FteEtGT1BwNTN2NmltOXZxRzZGQnB5Zkd5SXJ1OVQ4aVp4ODRmMUpkY2ttQTlkeVNGS21TWTNZYnlvNHRFRG1QNGY5NGNCcVZJRVoyeFJVa1Nxd1hfcENMZ05MUW1KQ3hLS0JTalBjMm8wSlJncjg2R05MMWdtOEVCd0hmNVlTR05kVjhLOHp6SzRkVHBBNklNME5VdmN5d2VKQ29kVXFGZmY0bmsxck5TN2lz?oc=5"
+    },
+    {
+      "title": "美股早盤／油價回跌 三大指數上漲 蘋果受18 Pro零件減產消息打擊 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tWU9meFFPSDlocVAzaF9uWG1tSkh3RlB0bnBtQkp2OHliejg5clNfdnlBVVNMQ2VIZkFUSm9jTnFlcnk0LTB4WmhTWlRGb2tKa0Z0cjFNZE9xSVBv0gFiQVVfeXFMTXpRRGpoUmJZdWx2Vl9OR2k0M3M0ZGN5NWwwS1NQcDNmeVRxWlF3X3J3U1FmN28wbHk5dEtDdmhXa295a0EwczRuTF9lZ0RUMzkwc0wtM3JFRnJmTEluMmxuYmc?oc=5"
     },
     {
       "title": "【1012台股盤前】連假前外資提款台股收黑失守5日線！OpenAI烏龍報導衝擊AI產業，被動元件與半導體測試逆勢走強，投本比排行鎖定世芯-KY、金像電、台塑化｜豐雲學堂2026 年 10 月 - 永豐金證券",
       "link": "https://news.google.com/rss/articles/CBMiwAZBVV95cUxPUzQwcFdfVnctcDQtZDlpTk82Xy1sRk1JOXdPMnNjXzdoNjJxX0tHOExGcUhSTVRqSXVOZkxMSFF5WTBhVEhFdzdTWDd3SmdYb21BamhBLThjN1NwMGh5MlJsUDB4b3NnWGRIMkhid2paYU9Ib2FjZ2dySG02YTVuWnVqUy1vQlBZRUNOYmpIUjlWLWZUdC10MjY3THlCQUZPYzJURjM1cVpINlo1bWljUU45NmUxRVQwb05nU1Q5cUtkbEU0d0hFUzdIOUMyT18xanJzSjNSTDUxSDhETDRnenN3SHVIMGhOVnpaSUV3T2I2alZURWQxMFBlX0Yta2huUFBwTEV6N0YzNVc2ajhJd3BuWHZaMEw2Y1JDeWdVSkVlTE5YWXRiUFVsVTlPTl9QaXRvR1RuNE84RVZTZWRfQTUwNDJ3T1FVU2t3LUV3bFBKWlBMUDdLVnFQelBvZEctenpXbFF3OUdaSHI2VXV0cElGcnVKelpWd2lFUmJPeV9GdmFJYXV6dTdTRXlIX0F5WHRtM25YWmFuVWcyQ2h5U3U2NUFOY2tMMjJyVl9GRTFFZHlsaktwbWx1akdpcUh1MUthcnM4UUJFb3Fud2tHckZDc05wdnlPRWdWcGE5bHZpMThpbjIwQ1ZpcFZHeUdPNjhtWmQ1WXpaQURGbVVwMElrbXU3YkZkOWU5M3l0Y201SmdsMTBxQXFKalpfbzI1eEwySUdBUDZ3TnpqaWpPcXlZY0szc1ZvbzlQOVZZb0NEc0NWZldYLVdMRmx3cHVkY083MDM3cmMxMnU4RHAxUUVvZU5MMzNIWHJfUUtKMDVIRkt1dFd0RlhQMmJobU1wdE8wM21tYi1yc0Z2TW5XR2JwMXB3cGstMUlqV3VnbnY2RlQwRHRZM2dKTFpyMmRLVUhrTnFVYm8yNnpycW1qa1V1dk1RMGhWZ252Z25LS2J2UWF5eG5sNHJQTFU4YUtGOWc1akY5dEVsVG5sNzB5OWRRRjhiNzdva1ZQV2ZmRFpZN1JWanpUU2Vyd1pNTTJyZ2ZHS1BJbC1CT005enpOY1ZsZ2dvRk9KT2hHMGJFYTM4OTZENU1zRkJxVW4tSzJv?oc=5"
-    },
-    {
-      "title": "AI泡沫疑慮加劇！美股盤中急跌 台指期夜盤大跳水652點 - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPSHY4QUh2VlJjbEFJX0hRLUpmMFBiM2gyX1BhZFdIR1JXbkhMYk1nV3VlU2FlZ0IydEVuSWtMcU55Z28wMS1JNnpFbGdIMjlHU0Z6UjlyQTdUWjc4clJLZ281aUlhUS1fRThFelVtZm1FeURtZHRkaHlvOHV3NFFlRGFaaG5qdHVqVXU0SzdlLXRZdTc3R1lMNlVFNkY3QkFzNE9hVjd0cmY5TUM2emFYREdZNE1OaVUxc2lXMGxjNEVQQUlnMVhiTkU1dHNKd2FQRzJhbllIWlZ6Snk0dTRDb2dyUElETWlZeTNfV2FPZ2lLRWVVenlyb1gtdE1MNG81ZXQzZnFnT3FLY3ljRVp1SkVkZWxkUnluVnJFdG5uNFNfYVJONHR2UF9fM2xfcnN5dHROdEowblM4MUUtbG9zRG1xeWIzMVRjc181SkV4S1ktd1lad3BDY3VaWHNYZmFRNFhmcE9PUzgyWkdY?oc=5"
     },
     {
       "title": "美股牛市還能持續嗎？ - 日經中文網",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92NklBR1VnZVFwVkxIem5yMHVDNkNfTHcxbHBabGhIay1TdU5QS1hPejY4bVRrMVFBa1JjcF9PZkhEYUZzOUpUbkRQcFpwTEE?oc=5"
     },
     {
-      "title": "美股收盤／OpenAI 營收落差引爆晶片股賣壓 費半和台積電ADR跌逾3% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0ZzNraWVkVTVGcGpyUm92LXZlQ0NLWkdsNTVNN1pHaE8tRWg3ZzJlUm1EMUZEZmFFUmhKWE1Eejd6d2xES0ZlN0NpTnJCZDJrX1o0RUF3THRjMFVm0gFiQVVfeXFMTjQwLUJhQ0hYQUs1elNYN3RkR01lUmgyR2todEsyekRiTTlQMmtHTEFYMXE5Zjd4OFo0dWl5S2NRR0dwbXRveFYxNDFjYkJyUTB3Um1scE9UQi1BWFRsSzVBY3c?oc=5"
-    },
-    {
       "title": "黃金價格反彈！跌破2個月低點後回升 聯準會利率走向成焦點 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vRy01MzBjTWplZXBXRE1uSGZhYXg4MVBPbjhia3FTY2M1MDdmNkxsclhjM2JRZHV6RXFaTG0tUVVRNEJaNW1nTC11SDRxQm5GUDF2M2pBT0xhdjBVbERJ0gFkQVVfeXFMTVdSYlFhVlpaRnlmZzVwNUg2eFhhbGlucFlWTUppczc1ZkNadHd4cWd3elhfUVRYdGdCVldHejEtSG9IMm1rbFVkVGJOVFNTYXpXdVdZQUJGZXhVcGlDZlYyWGRabA?oc=5"
     },
     {
-      "title": "AI泡沫疑慮加劇！美股盤中急跌　台指期夜盤大跳水652點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rWWhONVdKWkk5eERqbFNGWGNQQTk4UXdvMmx2SzFaMC1fLS1tWU9BQWc0Mk1obTJZVnFMcDlvdmJ5X3JHX1FBTDI5dmo4VFdscXfSAVBBVV95cUxONm5XNnpsTGdDVzdHM05hN05TUEwwYVhCZjJicjNCMXFwVFpUQXQ5eGozakQ2RjBkby10b2o2OHByUU5uZGlNUkE2d3JjMWMwVg?oc=5"
+      "title": "台股五利多勇抗空頭亂流- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CR2N2anB0dHRteXJrMUdyWUJMb1MxWjVhUjdoM0J4dFpnbV9yejBnZVVJZlBzUXJPSXB6T2dFNTJ2NUN2b05Vb1NOWnBCNElxMTRsbjU0N1NkS0FrQ0VV?oc=5"
+    },
+    {
+      "title": "台股連假後挫咧等？美股3指數收黑、半導體股齊下殺 台積電ADR跌3%、台指期夜盤失守4萬9 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNSVBnNVJCdXNQT1ZpeEFwZGJvWFhZRFNZYTk5OF82YkpoWU51MWViUjgyU0RXMkwtdUZSQ1owYWhUSE1GQkRjVEswNl8tSVUzYTFENTNmYlBlV0lDZjVJNzRuTENjdDJpSGZoNU1TTldvRGI5V0ZPSVRmVFZaVDVoN1luTTRSMnY3SC11cmJyaDJHazROMkNUUFpmUEllY2RabF9nc0tYbGxDUGg0ZFlMX1VOTkZ6ZG9sZXJtaEhZNVdRT1BlRzgzVkQzWFN1aUhZd0hMbU5ZSEotWmZFRlI3Wk5TQTF3M1MzRUo2Wkp6WnR1NzhNa0J5TXdDZWlYWHNvbnpvQWd0MGRHMGRzQV9zMzhBbElueEhJZ1oxeExTT1dZQ0dEcU95UTBCMEdwWUp0Z3lOSFRRa19kd2w0WWZuZC1CaFBlMnpCWThxWnpxRDZmN3NCaHF2dnhIY3FMaHoxN294MjR2cl95ZmY4UFZIdDNIcXVXTU45MlVrT3UwSmJTMGx4VmpXd0tVRDVudG13Q29vWFBrVEZ0WWR6bjA1UGVNTnJiMTJFa1o1bFdjcEcxdkFBY3p5dXlOLXdNcW5BS3ZIZElvRU0xTllKZTFYekhVclNBUkFaZm9Vc3ZZZnhGYUFzLTFEeVJtUlA3cG5uNVhxRnpR?oc=5"
     }
   ]
 }
