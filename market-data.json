@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/09 08:59",
+  "updated_tw": "10/09 15:18",
   "taiwan": {
     "2330": {
       "price": 2550.0,
@@ -36,57 +36,57 @@
   "us": {
     "NVDA": {
       "price": 230.48,
-      "change": -8.76,
-      "changePercent": -3.6616
+      "change": -6.99,
+      "changePercent": -2.9435
     },
     "AAPL": {
       "price": 340.42,
-      "change": 6.79,
-      "changePercent": 2.0352
+      "change": 3.75,
+      "changePercent": 1.1138
     },
     "TSLA": {
       "price": 375.0,
-      "change": -5.68,
-      "changePercent": -1.4921
+      "change": -2.81,
+      "changePercent": -0.7438
     },
     "QQQ": {
       "price": 747.58,
-      "change": -12.08,
-      "changePercent": -1.5902
+      "change": -10.15,
+      "changePercent": -1.3395
     },
     "SPY": {
       "price": 773.93,
-      "change": -5.16,
-      "changePercent": -0.6623
+      "change": -3.29,
+      "changePercent": -0.4233
     },
     "SCHD": {
       "price": 33.15,
-      "change": 0.3,
-      "changePercent": 0.9132
+      "change": 0.5,
+      "changePercent": 1.5314
     },
     "VOO": {
       "price": 711.28,
-      "change": -4.92,
-      "changePercent": -0.687
+      "change": -3.06,
+      "changePercent": -0.4284
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81732.21,
-      "change": -1543.7197,
-      "changePercent": -1.8537
+      "price": 82477.18,
+      "change": 800.8441,
+      "changePercent": 0.9805
     },
     "ETH": {
-      "price": 2475.37,
-      "change": -98.1573,
-      "changePercent": -3.8141
+      "price": 2497.62,
+      "change": 25.7074,
+      "changePercent": 1.04
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.928,
-      "change": 0.0797,
-      "changePercent": 0.2502
+      "price": 31.912,
+      "change": 0.0637,
+      "changePercent": 0.2
     },
     "JPYTWD": {
       "price": 0.1998,
@@ -94,22 +94,22 @@
       "changePercent": -0.8324
     },
     "EURTWD": {
-      "price": 35.853,
-      "change": 0.1814,
-      "changePercent": 0.5086
+      "price": 35.865,
+      "change": 0.1934,
+      "changePercent": 0.5422
     },
     "CNYTWD": {
-      "price": 4.7644,
+      "price": 4.7685,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4168.8,
-    "twd": 4279.0,
-    "tael": 160474.0,
-    "twdTotal": 133101.0,
-    "changePercent": 0.6786
+    "usd": 4218.9,
+    "twd": 4329.0,
+    "tael": 162321.0,
+    "twdTotal": 134634.0,
+    "changePercent": 1.4891
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股連假躲崩？美股四大指數開盤全殺 台指期夜盤一度失守49K、台積電ADR臉綠 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxQdVVjSm81c3RHYkdGVmdIUU11ZmlyUUJmN0xPSlVHQnp5TkxtTU9SUm1zQXhTbTJvMVkzRmdJSEFsM2FSVGRiWklGUHN3YXd5Wng5ZUxfZUVtYTBpaUpFVG5QWnlXZm1RanNtSzVQZk9rYnRVOWc3UWRhcVhCeWw3blZiTWVWTlBFZWVMZ0RaSG9HWjlURFRRbEZyeG1tbUpEbDNoU1J2ZlFwZU1OQ0ZrTEJ1aS12T2RDcjlQYzZaNURNMmE1akZuY2kydE9vR21icVJLRmQ0VldJQllERmZaWHg3X0pCN0s5U2wtUWxhaks2NGhMaVhlNXQwLU1mWGRuS1g1VENUZnR5MVpkM05Lb3J5MjFLQXZYWDM3bllCNTVkem0zZjU4Vi1MTHlyU0d2bXF3UExZMGs5dnRpdTJyTEhQZmsyX2VRU2xrNnI3YWhRUENRUVlQejNBTms2ckF1ZVkzYXFOZTUzd0EzY05OV3owbkJjczhPTFFIVEhHT2x0SlZ5cVl5Zy1wdmNpellZVTBOSTY2ODBtRUdxX2RMeW5FOEVuTjd0M3F4c3p0Sm1WSU9mTGtwY0pFTGRvUXQ4RkQ0ZA?oc=5"
+      "title": "台股連假後挫咧等？美股3指數收黑、半導體股齊下殺 台積電ADR跌3%、台指期夜盤失守4萬9 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNSVBnNVJCdXNQT1ZpeEFwZGJvWFhZRFNZYTk5OF82YkpoWU51MWViUjgyU0RXMkwtdUZSQ1owYWhUSE1GQkRjVEswNl8tSVUzYTFENTNmYlBlV0lDZjVJNzRuTENjdDJpSGZoNU1TTldvRGI5V0ZPSVRmVFZaVDVoN1luTTRSMnY3SC11cmJyaDJHazROMkNUUFpmUEllY2RabF9nc0tYbGxDUGg0ZFlMX1VOTkZ6ZG9sZXJtaEhZNVdRT1BlRzgzVkQzWFN1aUhZd0hMbU5ZSEotWmZFRlI3Wk5TQTF3M1MzRUo2Wkp6WnR1NzhNa0J5TXdDZWlYWHNvbnpvQWd0MGRHMGRzQV9zMzhBbElueEhJZ1oxeExTT1dZQ0dEcU95UTBCMEdwWUp0Z3lOSFRRa19kd2w0WWZuZC1CaFBlMnpCWThxWnpxRDZmN3NCaHF2dnhIY3FMaHoxN294MjR2cl95ZmY4UFZIdDNIcXVXTU45MlVrT3UwSmJTMGx4VmpXd0tVRDVudG13Q29vWFBrVEZ0WWR6bjA1UGVNTnJiMTJFa1o1bFdjcEcxdkFBY3p5dXlOLXdNcW5BS3ZIZElvRU0xTllKZTFYekhVclNBUkFaZm9Vc3ZZZnhGYUFzLTFEeVJtUlA3cG5uNVhxRnpR?oc=5"
+    },
+    {
+      "title": "美股科技股重挫！克雷默：AI股遭拋售再次證明分散投資的重要性 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92NklBR1VnZVFwVkxIem5yMHVDNkNfTHcxbHBabGhIay1TdU5QS1hPejY4bVRrMVFBa1JjcF9PZkhEYUZzOUpUbkRQcFpwTEE?oc=5"
+    },
+    {
+      "title": "美股牛市還能持續嗎？ - 日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXJNV0FHbDdnX213cXJPMkxGT2pkTTYzQ3Jyem5NTzBlckNjUXR0SjVBOUYyM2RwejZWNFAtcGdCWHBINW1yWXVaUDF3VHRCWDcxMXliS3FCZmg0RmxCc2hpZmQxcXZwbDd2cjMyYVIxZ3dhM01yWFpPUF95dy1uSU9RT1lic3JiRU5B?oc=5"
     },
     {
       "title": "AI泡沫疑慮加劇！美股盤中急跌　台指期夜盤大跳水652點 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rWWhONVdKWkk5eERqbFNGWGNQQTk4UXdvMmx2SzFaMC1fLS1tWU9BQWc0Mk1obTJZVnFMcDlvdmJ5X3JHX1FBTDI5dmo4VFdscXfSAVBBVV95cUxONm5XNnpsTGdDVzdHM05hN05TUEwwYVhCZjJicjNCMXFwVFpUQXQ5eGozakQ2RjBkby10b2o2OHByUU5uZGlNUkE2d3JjMWMwVg?oc=5"
     },
     {
-      "title": "美股收盤》AI股重摔！費半大跌3.39％ 台積電ADR重挫3％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zX3gzM241dWNqNVAzelJ4aW5hc3hxTW5qTXhYbTNuTV9pMlVNeklyNEVyR29NOEltdDF3SXJySThXZGxSZlViYkR1MmpmdnN0cGhJTlNIT2V6cjNnVGVN0gFkQVVfeXFMTkxoMlNiYTFRckVfdUt4ZmxLNTh2RkV3U0Nyb2h0VUNiOGtQR1VEeldGLXFUNDVQU20yMHVtaWgxREdoRk0wdC1NUzlJZXN0eFNZUFZPXzZLeFpoajlHeGVLMHhVVg?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉OpenAI營收遭爆不如預期 AI概念股嚇趴 費半、台積電ADR重挫逾3% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OeW1fb24yZ2JWVXFqbzNEVk5BX29sVmozTHY2VDREemtnYTl6NkN4X1hnRjlIMTN1MjRUVF9wUjFMR3cwOGFOcEltek93aDA?oc=5"
+      "title": "AI泡沫疑慮加劇！美股盤中急跌 台指期夜盤大跳水652點 - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPSHY4QUh2VlJjbEFJX0hRLUpmMFBiM2gyX1BhZFdIR1JXbkhMYk1nV3VlU2FlZ0IydEVuSWtMcU55Z28wMS1JNnpFbGdIMjlHU0Z6UjlyQTdUWjc4clJLZ281aUlhUS1fRThFelVtZm1FeURtZHRkaHlvOHV3NFFlRGFaaG5qdHVqVXU0SzdlLXRZdTc3R1lMNlVFNkY3QkFzNE9hVjd0cmY5TUM2emFYREdZNE1OaVUxc2lXMGxjNEVQQUlnMVhiTkU1dHNKd2FQRzJhbllIWlZ6Snk0dTRDb2dyUElETWlZeTNfV2FPZ2lLRWVVenlyb1gtdE1MNG81ZXQzZnFnT3FLY3ljRVp1SkVkZWxkUnluVnJFdG5uNFNfYVJONHR2UF9fM2xfcnN5dHROdEowblM4MUUtbG9zRG1xeWIzMVRjc181SkV4S1ktd1lad3BDY3VaWHNYZmFRNFhmcE9PUzgyWkdY?oc=5"
     },
     {
       "title": "美股早盤／四大指數盡墨！油價登105美元、股債齊跌 費半摔近2% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15OUtJcW5UTV9CSGRuNnhqNVYzTnR6R0gwd1NYZ0h5eVcwc0RuRjAyd1BNLU1fYktYSUNtb0tWOEVWX0I2OWhCWDRhWlJFcmVD?oc=5"
     },
     {
-      "title": "AI泡沫疑慮加劇！美股盤中急跌 台指期夜盤大跳水652點 - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPSHY4QUh2VlJjbEFJX0hRLUpmMFBiM2gyX1BhZFdIR1JXbkhMYk1nV3VlU2FlZ0IydEVuSWtMcU55Z28wMS1JNnpFbGdIMjlHU0Z6UjlyQTdUWjc4clJLZ281aUlhUS1fRThFelVtZm1FeURtZHRkaHlvOHV3NFFlRGFaaG5qdHVqVXU0SzdlLXRZdTc3R1lMNlVFNkY3QkFzNE9hVjd0cmY5TUM2emFYREdZNE1OaVUxc2lXMGxjNEVQQUlnMVhiTkU1dHNKd2FQRzJhbllIWlZ6Snk0dTRDb2dyUElETWlZeTNfV2FPZ2lLRWVVenlyb1gtdE1MNG81ZXQzZnFnT3FLY3ljRVp1SkVkZWxkUnluVnJFdG5uNFNfYVJONHR2UF9fM2xfcnN5dHROdEowblM4MUUtbG9zRG1xeWIzMVRjc181SkV4S1ktd1lad3BDY3VaWHNYZmFRNFhmcE9PUzgyWkdY?oc=5"
+      "title": "印度取消黃金進口稅收優惠：黃金供應鏈資金成本上升，旺季將至再 - 群益期貨",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVM0T1NXNVhGeWZSTVdFTlZBeV9RdG5UNTNyU2xjRUhzc2FEZF90MHlSRHd3eldKQ1FyN2hZZVRtaFNPb2tneDJrVG1JTmd2ZXB0dUtzTWFSN1dHakFGUF96czcyNU5od2UxWm5EUk04T08xS2tRaDMtRGlSamYzZlFrZUhPWXYyeFVjVW03c0VaYXVEY2ZGbG0wWk9veWJU?oc=5"
     },
     {
-      "title": "比特幣一度跌破 8.2 萬美元！ETF 單日撤資 4.85 億、油價逼近 105 美元，8 萬保衛戰升溫 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKbW1CS1d2Zm1TS3g1QjNIZ1RpR1ZyenVaZExpTTFBT24ta1NlTDl1Qk1MRldaYnhUV3MxNlJ6dUkyMVItOE1HOWdmb3lkTE4zdVZ1alBUS0t2QURadmpWRS0wejl4d182cVo4Z2xQT08tdFk?oc=5"
-    },
-    {
-      "title": "反彈全球第一！比特幣暴漲42.7%碾壓美股黃金，ETF鉅額淨流入暗藏什麼信號？ - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95Q3U3T1puSFh5X3pUZlA5WW5hMFB5ZDVYS2wtdmJUdENaSk1jcDJGb3ZGbDhUbUJweTdhNC1sOGFFRXBEWVRKZUJsNmNSTjZoTnJXX09rNm9DV1J0R3BKOVVGdWs?oc=5"
+      "title": "川普一句話拉回比特幣？排除選前攻擊伊朗，BTC 自 8 萬美元邊緣反彈至 8.2 萬 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONXdxR2t2N0FqYTl0MFdKX3FoZndxMzVwdnhSZXhjWW5IUXk2RFY5XzVhQ3ZjUko2bDl1SEFBa2hWSjdET1BGS1BodnZpTjJZS3NYRVExVzloNERzLTFsZDg5RUJtTjlKNlpNYWR6VFp3a01WRWtveTNtVjhpNG1YaQ?oc=5"
     }
   ]
 }
