@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/10 10:46",
+  "updated_tw": "10/10 17:26",
   "taiwan": {
     "2330": {
       "price": 2550.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 82546.64,
-      "change": 870.3041,
-      "changePercent": 1.0656
+      "price": 82804.53,
+      "change": 258.2097,
+      "changePercent": 0.3128
     },
     "ETH": {
-      "price": 2491.36,
-      "change": 19.4474,
-      "changePercent": 0.7867
+      "price": 2494.47,
+      "change": 8.9314,
+      "changePercent": 0.3593
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.91,
-      "change": -0.0154,
-      "changePercent": -0.0482
+      "price": 31.916,
+      "change": -0.0094,
+      "changePercent": -0.0294
     },
     "JPYTWD": {
       "price": 0.1991,
@@ -99,17 +99,17 @@
       "changePercent": -0.1515
     },
     "CNYTWD": {
-      "price": 4.7658,
+      "price": 4.776,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4220.3,
-    "twd": 4330.0,
-    "tael": 162365.0,
-    "twdTotal": 134670.0,
-    "changePercent": 1.5227
+    "usd": 4216.3,
+    "twd": 4326.0,
+    "tael": 162242.0,
+    "twdTotal": 134567.0,
+    "changePercent": 1.4265
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQd0RGMkM2SXJrOE82RS1IUU1VMXhSYWRORmYwQURMYm5RLVRZcTIyOUVhR0VOb3hrOVptVmNnTTNHOERFU1dVOFR0WXBneU1jWUd1NWxmOGU2bGNrZ1gxdFIyS01mNFhzOXREZm9QS2tBWS0wQ0lfeEQ2bjd0SDNTazFDbG16bnltSGNtemdfdzhmMkZ5TXpHMjVGZUpyNFZfdGNUUW1zUUNCSnYxU2VuaHBZR0FteEtGT1BwNTN2NmltOXZxRzZGQnB5Zkd5SXJ1OVQ4aVp4ODRmMUpkY2ttQTlkeVNGS21TWTNZYnlvNHRFRG1QNGY5NGNCcVZJRVoyeFJVa1Nxd1hfcENMZ05MUW1KQ3hLS0JTalBjMm8wSlJncjg2R05MMWdtOEVCd0hmNVlTR05kVjhLOHp6SzRkVHBBNklNME5VdmN5d2VKQ29kVXFGZmY0bmsxck5TN2lz?oc=5"
     },
     {
-      "title": "〈美股盤後〉川普稱普丁同意向全球投放柴油 標普逼近歷史高點 三大指數周線收紅 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91TUdPNXNYbFFBR0xKUDJlUXJHM0tzTEZUZ1ZuaTBicVVDZGJGRzBiRHBqckQ4SHR1a2o2ZjJoSDNId2REd3FjY3hXU1o4cWc?oc=5"
-    },
-    {
       "title": "美股早盤／油價回跌 三大指數上漲 蘋果受18 Pro零件減產消息打擊 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tWU9meFFPSDlocVAzaF9uWG1tSkh3RlB0bnBtQkp2OHliejg5clNfdnlBVVNMQ2VIZkFUSm9jTnFlcnk0LTB4WmhTWlRGb2tKa0Z0cjFNZE9xSVBv0gFiQVVfeXFMTXpRRGpoUmJZdWx2Vl9OR2k0M3M0ZGN5NWwwS1NQcDNmeVRxWlF3X3J3U1FmN28wbHk5dEtDdmhXa295a0EwczRuTF9lZ0RUMzkwc0wtM3JFRnJmTEluMmxuYmc?oc=5"
+    },
+    {
+      "title": "〈貴金屬盤後〉逢低買盤承接 黃金觸及一周高點、周漲逾1% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4waHc3S3Zkb2tTV0ZjdVlaTGJ6U2J5aU5yT0Y0M0c4RDhKamhvNXJNZFV1cFo5a0dsVTFObFNPeHg1RmFpcEpHZEpHWXVLMXM?oc=5"
     },
     {
       "title": "【1012台股盤前】連假前外資提款台股收黑失守5日線！OpenAI烏龍報導衝擊AI產業，被動元件與半導體測試逆勢走強，投本比排行鎖定世芯-KY、金像電、台塑化｜豐雲學堂2026 年 10 月 - 永豐金證券",
       "link": "https://news.google.com/rss/articles/CBMiwAZBVV95cUxPUzQwcFdfVnctcDQtZDlpTk82Xy1sRk1JOXdPMnNjXzdoNjJxX0tHOExGcUhSTVRqSXVOZkxMSFF5WTBhVEhFdzdTWDd3SmdYb21BamhBLThjN1NwMGh5MlJsUDB4b3NnWGRIMkhid2paYU9Ib2FjZ2dySG02YTVuWnVqUy1vQlBZRUNOYmpIUjlWLWZUdC10MjY3THlCQUZPYzJURjM1cVpINlo1bWljUU45NmUxRVQwb05nU1Q5cUtkbEU0d0hFUzdIOUMyT18xanJzSjNSTDUxSDhETDRnenN3SHVIMGhOVnpaSUV3T2I2alZURWQxMFBlX0Yta2huUFBwTEV6N0YzNVc2ajhJd3BuWHZaMEw2Y1JDeWdVSkVlTE5YWXRiUFVsVTlPTl9QaXRvR1RuNE84RVZTZWRfQTUwNDJ3T1FVU2t3LUV3bFBKWlBMUDdLVnFQelBvZEctenpXbFF3OUdaSHI2VXV0cElGcnVKelpWd2lFUmJPeV9GdmFJYXV6dTdTRXlIX0F5WHRtM25YWmFuVWcyQ2h5U3U2NUFOY2tMMjJyVl9GRTFFZHlsaktwbWx1akdpcUh1MUthcnM4UUJFb3Fud2tHckZDc05wdnlPRWdWcGE5bHZpMThpbjIwQ1ZpcFZHeUdPNjhtWmQ1WXpaQURGbVVwMElrbXU3YkZkOWU5M3l0Y201SmdsMTBxQXFKalpfbzI1eEwySUdBUDZ3TnpqaWpPcXlZY0szc1ZvbzlQOVZZb0NEc0NWZldYLVdMRmx3cHVkY083MDM3cmMxMnU4RHAxUUVvZU5MMzNIWHJfUUtKMDVIRkt1dFd0RlhQMmJobU1wdE8wM21tYi1yc0Z2TW5XR2JwMXB3cGstMUlqV3VnbnY2RlQwRHRZM2dKTFpyMmRLVUhrTnFVYm8yNnpycW1qa1V1dk1RMGhWZ252Z25LS2J2UWF5eG5sNHJQTFU4YUtGOWc1akY5dEVsVG5sNzB5OWRRRjhiNzdva1ZQV2ZmRFpZN1JWanpUU2Vyd1pNTTJyZ2ZHS1BJbC1CT005enpOY1ZsZ2dvRk9KT2hHMGJFYTM4OTZENU1zRkJxVW4tSzJv?oc=5"
     },
     {
-      "title": "比特幣阿姆斯特丹峰會 11 月登場》Jack Mallers、David Bailey 等重量人物將出席 - 動區動趨",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ3ZXQnUwQ1o5OENQVXFiMlVXblJsRVF4U0pDSFRPU1pXRVF0d01BM3VDVk5rUUxVRmZoMmFLV2tSU0VtVl82X05pcTJBbHpkU21yNnh5RmZSZ3VXTUdwenhhczZtRER5d0l1SGlMbllJcTVJUFVOWWl2aTdwamx0cThRZWw5QUQ5RGhPcFhKenFidmhuUHFjaFIyRWlYdDB1LXdJYw?oc=5"
+      "title": "以史為鑑！美股牛市將邁入第5年 一文看懂後市何去何從？ - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOcFQ0bmxNcjlIRUxpRzhtWlpEcWlLQTFtM05aNWJKQUpNSUF3Z0xicEUzR0gxN0ZOMzcwT2JNVV92a0Y1MDd6NE9UVGZOVjBZMHZ0SUlJR3RFUVFFLUlZcWxQdGdFOU1BMU81Q2x0WXI3aU5Rang1TWRmLTZHbllocFZEWnh4LTFrd0FkN2lzVmJ3N1FIei11WGVVcmhsTlM5eUxpMzRYVUdFOHc3c1kyWnU2UnRpSko5NFpsM2E4SWk5RjJvbVptUUxSVGhSZ055M1FUVnlJU1lDV1pUODlGVHdGZHhPV0c0ZHZ6c0FkMVF4NWducmtibU1BVWd2dnY5MkdOcTM5RUYzX0c2ZWdycnJoMUpST0xacTVGZGtEb1ZRMnVhZ0FWa0hDUVdsN1Znb0xSWnVrWTVIcjlfekVwcjBMNVlnNkE0UENtVE1UVkJaNEU3Z3ctb2g4YmRzNjRlMF80a1NsZw?oc=5"
     },
     {
-      "title": "財報季前夕美股反彈，多頭市場上漲電信股卻重挫 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNRDhlbXpIVUtlR0pKZWJXOHJUaGRITGYwck9fc3FwbUlSWTdmSTEzSU56ZG8yUmp2RUhoblZTUDJ1c09CNGpNYXFrbEVabm54ZFVvd2dFeDYtWWZDc3BOeEtMVmotQlRPd0F2QXNLUVlFcFBQR0dJOU16S0RnU29lTkRoX3pjSk5PVU5ZMUZEeVpndlh5dWgyLTRFaEZGaDV4c1UyTy11THdxNExVQ0lIV3Zua0V1aWRMZ3hiYUlWejBUOG9yYlhaSDBMYkRxWU8wRER3REp1eGtNYkJualBwMWJ2NGQyczNuZW5KN19KUjFsVkREdnJtX2llbmY3a0hZTEVWWmx1UVFaaU5qYmdqRlA0TlhJVkJiTllUOFN3aS12OVJOaWNRb29nYkdXdFRYRXNjYUJxa25EcmZBb3NhMVdMQXhoeGFnLUxJTnNJUmUtbEl2SDJoaA?oc=5"
+      "title": "美股周五收高、台積電ADR連四跌下周開盤前五件值得回顧的大事| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WVzk3QWtoWlRuRjNIQ01CRFdFMXFLSFBMUWd3VENmcVFtSk9lMmFfbVFJZ3JLeHhqUWxTVmJHdnBTcUF5ZDBjUkJGMzRvb3pj?oc=5"
     },
     {
-      "title": "台股多頭氣盛 仍須防「短線回馬槍」 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SaDNEY0JpZm9DUF9RNlg4OEp3T055UzROVXpIR0U3WkJqbHcwQVd5c0NhazVFTnVnczN0Q0xVVFpGcklmQ3ItdEFydzBUTkIy0gFWQVVfeXFMUE5TamdGSlF5VnNoLWdwbjNVME9Xb1JNdkN5Ykg5QkxINUE4UmZlNjAyZDRtYXlkc1VaRzQ1UHE3eXE0UENQNjhEcWs3UXVER2RuakRzeXc?oc=5"
+      "title": "美股100%想轉戰台股！他擬改「6：4配置」擔心太晚進場 掀網論戰：台股無腦歐印 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcmJFSUl3Y250WE5sRE9yZThTdEpCQ3diLTBhNnlvS1g4LU1YTmpCb0JBcHZQVTBUOV9oZDVodHR2eHZOQnhJNllCV1ZWdzJOVlg4c2pYZ3JkVlR3RFZfeFdKNkxFOWFhYnM1YnFFN2kwRy1wNk9QMkhNcERCcVhGQ2w2dUFLN3FaRVV1NWJlTGlFcF9CUUNhSERlcEp5c3BQN0Y4ZXdjWUx6MkVITlRGUDJnX082UzduTWxOSHA1TFRHU2xLd1ZiNFJPTkZvNGltaDZLWG9sS0V2V3lDZXJlRDJZdHFKUU0tMERVUzZZMGRUenQyRHgw?oc=5"
     },
     {
-      "title": "〈貴金屬盤後〉逢低買盤承接 黃金觸及一周高點、周漲逾1% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4waHc3S3Zkb2tTV0ZjdVlaTGJ6U2J5aU5yT0Y0M0c4RDhKamhvNXJNZFV1cFo5a0dsVTFObFNPeHg1RmFpcEpHZEpHWXVLMXM?oc=5"
+      "title": "美股早盤／四大指數全倒10年、30年期美債殖利率同飆至24年來最高| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85VndiQmgwWTVCVVRPR0d1SUoxZ3N6eFg2UVR4dXl3ZzQ1cFN2LU40NGE5YUpnYTA0RTBFa1JQWVk4RE5DcE5CNkItMTNSUGpH?oc=5"
     }
   ]
 }
