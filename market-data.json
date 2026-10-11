@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/12 03:11",
+  "updated_tw": "10/12 06:55",
   "taiwan": {
     "2330": {
       "price": 2550.0,
@@ -72,50 +72,70 @@
   },
   "crypto": {
     "BTC": {
-      "price": 83607.54,
-      "change": 695.3134,
-      "changePercent": 0.8386
+      "price": 83562.32,
+      "change": 650.0934,
+      "changePercent": 0.7841
     },
     "ETH": {
-      "price": 2532.88,
-      "change": 28.8522,
-      "changePercent": 1.1522
+      "price": 2531.4,
+      "change": 27.3722,
+      "changePercent": 1.0931
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.945,
-      "change": 0.0196,
-      "changePercent": 0.0614
+      "price": 31.915,
+      "change": -0.0104,
+      "changePercent": -0.0326
     },
     "JPYTWD": {
-      "price": 0.1991,
-      "change": -0.0029,
-      "changePercent": -1.423
+      "price": 0.1994,
+      "change": -0.0026,
+      "changePercent": -1.2744
     },
     "EURTWD": {
-      "price": 35.743,
-      "change": -0.0542,
-      "changePercent": -0.1515
+      "price": 35.786,
+      "change": -0.0112,
+      "changePercent": -0.0314
     },
     "CNYTWD": {
-      "price": 4.7762,
+      "price": 4.7728,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4216.3,
-    "twd": 4330.0,
-    "tael": 162389.0,
-    "twdTotal": 134690.0,
-    "changePercent": 1.4265
+    "usd": 4211.3,
+    "twd": 4321.0,
+    "tael": 162044.0,
+    "twdTotal": 134404.0,
+    "changePercent": -0.1186
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "撿便宜時間到了？黃金高點慘崩26% 小摩「1動作」投資人慌了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPcDVXY0dXWlUwV0tPOXZrd29FaE1RejVPcUtfb19TNFVTTkhfeklxajRXNFZQX2lvbDMySFhPM3ZoemNaUkFSVUZCZzRyNUxXaWRFSzNfUGZWNlRLZjk1cXFXdmNGQWVLZkM3N0N5Q0dGdzhIYTZvVnI0RmlqTGozcjc3al8zeXJnT2FLYjg3X1VCcC1ZaUE1ZnA5TDBBQUZ3YUFIVHlMTE9LX3F4d2VqTWM4MGJJdExJaXFxdW9BQWhTMHRqYlZsemdTU2dLd1lhQjJuYXNSOE5VUXB4S1I3MFRFdHFMU1NOR3UxakRWOG9aLVlKbW9aN3dNSENjNU1KX2JNRFI4TE5GMmhWMFVWRkU2THp1djZUY3V2MTNTbzVsZUUtWjc2V2xrdEIxS1Q4NVROWGcyd1VOMVpHZ2pTZ1NhUmFON0VQaDNZZUpqTHUyTGdnd2ZQNnM0ZlgtTWs0N3FHRnRVUVlNQm45?oc=5"
+    },
+    {
+      "title": "4利空襲擊 台股今壓力測試 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waDNuQW4zamZsQnF0R2oyNlVqTmU3Rkk5ZnFjSEFQOExKNFZsb20wc1VOVW9FckZRNGw4RHBPMXBnT0xVZGV5MDl5OVQ1ckdvOUhVYWN30gFbQVVfeXFMTVNJRWp2UkhOdElRVnF5MjRzTEI3WUF0aUotU25EdnBTMEpBSzZYODVrUTF1elRsa2pHa2RTV0x2UGZtaThTa3RaYWVLaTZSZW5mbm5fRS1uaGROZw?oc=5"
+    },
+    {
+      "title": "美股漲相佳新興債吸睛| 基金 | 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmSDdjQkpiUVJac01pU2ViQzc2eml5akUtZWd6a2lXMXBxN1NzUms2TTlaXzVodGczUHBpX2VvenJGSDBZRTdDVGtrYS1KMFdvcnc?oc=5"
+    },
+    {
+      "title": "《貴金屬》買盤逢低承接 COMEX黃金上漲1.4% - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRmtIbDYybHg5NnNPNmcyUXliVmJSWEFLeVJET1p1NzZIYjJPdUQtcnplRVlGdE5MNjZ5MzRjcy1pWnB5cjczNUdLZHZNQmt2NkhoUFVBN0ZJSzd0SzBPVVU1Vi1jRVQ0R2hteExBaERIN09hU19YY3VQT21KalNRYlExQlNNWW5mSlRPTGJmRWxLUQ?oc=5"
+    },
+    {
+      "title": "DWS 投資黃金貴金屬股票 USD LC 的總覽 | 鉅亨網 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFNSVZTQ2kybUxab2JiUmFnSFpVQWFzQzJBLVZqS0xQT2hZYjRaek1WR3BET3BWRkZNVGJzdXlsTlZZSWg1RWtGY054cGF2bVFySFJkUXVLcWVmamhra1lMaTRDd09OX0Vtc0NfQnFyU19wdUhRUFFNM1dpbmRPeWhWcHZHaXdVQXRwT3NUb0ZjanNUTXV4eWR3RlQwTWRERVFRLWx6U2VSbnFOOE5rcHJ0RU9raXkzdWNMUmZoa2JpOS1UQkxTTm5pWHBUSDc5T2U5SHJYU05uUTJmV1JybENpVQ?oc=5"
+    },
     {
       "title": "美股要跌了？美銀示警民主黨若拿下參眾兩院「大盤恐暴跌逾10%」 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPdHB2WFNVUmtjMXc0OGxQaTRJRzRiSW8zLWRIU1pVbl9uREN6TDBFRlY2bms2X0RvbUJEbXBUMlo1WmFZMU1jaVpvQjY2bWdETWNGOFM1d3FMY0ZPUjNvMXVFZmlkcncwOFBNbXJKWkthQ1R3Rlp0Q3Q1S3pmb2ljcHNmcDZzRmp0T1hRMm1KMTg4U1BUZGo0Unlnd1laNnpRZW1BQlpfYWZzaHg2dWtTNnZmenNUSXBxN2ZBb21QenlPYzYzcXFfdktjVjRIbFpZelVpaWVPRVVGQU5BMFhrREJjY1d5SHVjaHl6NlVfdXBDSkNmeWI2eU9XcUI4aS1LQ0xfcTZVaWtZVnlpS3Z1allPcFNmRHM1OTNEY2l4R3pWVnVtMndYOUZlMkVOUG9oV3lfRTBpMGFnWVV5UW1ya2hIZGluMC13NEU2akdxejI0V0szRHZMcmRwbHc4M051Wng4RzRHamdKSERQTnlwRXlKU0U1Q3YzcWxOX2liUVVIM3BxazBiSFVzYjk?oc=5"
@@ -127,26 +147,6 @@
     {
       "title": "台股第4季法說會行情啟動 法人看好這三大族群將強勢輪動 | 市場焦點 | 證券 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03MW1reGpORmdSOXBzUkhhaFYwTU0zWFRvMzBWRnZrbVpPVnphUElxUXphRXFBWk5OVDJZTGNldUM3LVRSdHBna1VhbWlVTDNmaEl3WXowdnhOQQ?oc=5"
-    },
-    {
-      "title": "本週操盤筆記：美CPI牽動升息預期！美股財報季開跑、台積電法說和ASML接力登場 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SSEJOOHJUaHFEaEIwVzdoYjRMdkNzUVBIaTRicjJfT3J3U191bzdIdnRfclMyUi1jMXlDQlktT1YtOTd3QURmVWpfb09Nbnc?oc=5"
-    },
-    {
-      "title": "分析师：比特币或需突破84000-85000美元才能决定下一轮走势 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DQkJXM244VENrZnVxdldmYUZ5aWRoajZKZ0FBNG9rZnlVRFhQZTVFbWhTMWNIVEp1V0pHZWowa0g4YktXU3FBcmJNTTJ0dTJNcURxSThDeHJNMnVFQm1BMXBsOXFtZw?oc=5"
-    },
-    {
-      "title": "台股5萬關前有壓力聚焦台積電法說添柴火| 金融 - 非凡新聞台",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXbUstaVVLaEFFM0tidXVTRzJkS2x2azdqenpBQXRFSFhzUzJtMGF3UnlTVnpHb2FIVk0wQTFBTWtvakVjRzh5Ujkzb19xUUNRMWE3WDgwcmxTVDA?oc=5"
-    },
-    {
-      "title": "台股週報》美股科技股重挫 台股補跌壓力大 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPckxLMHg1OGtmQzFwR2VlQnQxTzNDSExDbUF6SXNoVlVJSGxxTnU3dWlzMVd1V0k1cEg5eENoMnYwMzlwTU83RWdoTFFFaldGZVdRdjFtYU1ENVI0NkhseWpaZk0wRDZ0Q1p6RWo0WHNNN3VwZHB5X0tnZTBDbVRxSy1nSkNhZEtRZ1ZfdFpYSmdUUGFxZnVNbW1QVXI5T1ZGN3JOc3ZkcHBvUjZaY0hQbEp2SVlLNkkxMkdCMnZaSGdlVEVaT2hVSWJINmczOEh3LThhWkUyTjJ2Vy1pdFFKSTk4ZGRmczd6SWJDeEk3R2NmRTZ6Y1A4M2RTSGZSa1JxUGZ0T1NUY3BrNXVJWENseE9rU0tyWEk4R25rZE1jalFvandtLXlpVHNKXzk4UQ?oc=5"
-    },
-    {
-      "title": "台股高檔震盪加劇 16檔站穩所有均線強勢股 多頭人氣匯聚 | 市場焦點 | 證券 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQcjRWc1l4UUhKRmdHTm9DTjZZVGFoVGxXc1VTX0FPdmtpMGo1OFZJVmtfSlZRejF5WG8tT0JPVTFnNUVlRGhISDN5U3pnRmFxSngwOVN4WG42dw?oc=5"
     }
   ]
 }
