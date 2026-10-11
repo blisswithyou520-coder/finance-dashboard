@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/11 09:42",
+  "updated_tw": "10/11 15:50",
   "taiwan": {
     "2330": {
       "price": 2550.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 82922.4,
-      "change": 376.0797,
-      "changePercent": 0.4556
+      "price": 82932.79,
+      "change": 20.5634,
+      "changePercent": 0.0248
     },
     "ETH": {
-      "price": 2506.6,
-      "change": 21.0614,
-      "changePercent": 0.8474
+      "price": 2500.29,
+      "change": -3.7378,
+      "changePercent": -0.1493
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股「6檔新股抽籤」輪番上陣！最高價差拚賺6萬元 「2檔」申購進入倒數 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOQU4xRHpUWVc1NWtNYU92UEpLWHBQbGlYV0xGeU1udXp2R2V6RHZuclBneGh2ai1ESU5SMURlMnlraVB2d2IwaFFQNzVPOElXYjN6QUJQWHdNQXNYRGlJVUZOZHNHemZEQlFORFNQYmpRRTBMLUpsakFOVnN4cXZTQnFSV1p4ODBEOUFIQVdyck5aZU92VEVmbDZPMm1KYVJNRC1oRlZKNjVEQlVzdUVCbThDWVQyNkF0LVJLdFFUNTE2UHllN25NTUhtUjk4d0lPTldQWHliX3BsVm9SNEYzZm5MWXdBcEZDdXlnSVBSbWxJcFQwXzA4S1lHenQzTkFvbzUzMWpUWnJidENVQUE2cmwzcTcyODdISVpSd09CcnJfZnFONkF1cC1BTXpSYzFfbjJtRE5uX2t0aHBwYjhwbjEybk41SGVJUEU4ZF9haXBJZ2t0?oc=5"
+      "title": "台股今年累計漲70.26％ 投信：10月恐維持震盪 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTWkVhUUg3V2JhTm1yVFJRaFB0NmxQQjVINTBBRkVNelhyNFVCRTJ4UjJCb0dqbS0tYTIxZ1pvWDhlaS1MMjZONEVycERBNmdKaWRMZHFjcV8yZV85Ykcw0gFkQVVfeXFMTkM4bEJabkxUSjVpMWVyRzI4V3pVXzFYT3dlNjlEMmxhTjM0QVdRYTUxUUhxMVozM1ZTU3VBN3V3cjFtTDNiQUt1TDNvRTdtTE5BVkhJVUd1T1drUkdFRFczZk5mUg?oc=5"
     },
     {
-      "title": "下週 美股財報季來了 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wb1RLQmJEWk5iU3hFdTRqVkRjaUozaDNqX0VCWkpiX3Y1UVZ2eUxKVE9VbC1SamZQV3BpSHF5eHg3VVJ5dWFRbGpLYW1kN09vcXA5OElnelBmSm93X1lWVHhBNmw0dTQyUFE?oc=5"
+      "title": "美股要跌了？美銀示警民主黨若拿下參眾兩院「大盤恐暴跌逾10%」 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPdHB2WFNVUmtjMXc0OGxQaTRJRzRiSW8zLWRIU1pVbl9uREN6TDBFRlY2bms2X0RvbUJEbXBUMlo1WmFZMU1jaVpvQjY2bWdETWNGOFM1d3FMY0ZPUjNvMXVFZmlkcncwOFBNbXJKWkthQ1R3Rlp0Q3Q1S3pmb2ljcHNmcDZzRmp0T1hRMm1KMTg4U1BUZGo0Unlnd1laNnpRZW1BQlpfYWZzaHg2dWtTNnZmenNUSXBxN2ZBb21QenlPYzYzcXFfdktjVjRIbFpZelVpaWVPRVVGQU5BMFhrREJjY1d5SHVjaHl6NlVfdXBDSkNmeWI2eU9XcUI4aS1LQ0xfcTZVaWtZVnlpS3Z1allPcFNmRHM1OTNEY2l4R3pWVnVtMndYOUZlMkVOUG9oV3lfRTBpMGFnWVV5UW1ya2hIZGluMC13NEU2akdxejI0V0szRHZMcmRwbHc4M051Wng4RzRHamdKSERQTnlwRXlKU0U1Q3YzcWxOX2liUVVIM3BxazBiSFVzYjk?oc=5"
     },
     {
-      "title": "神山護台股 聚焦法說4期待 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2RURUUDNiV1AySmtzX0ctLWk1QTZqSEZqSzdxcUxGa3R0UXloR1oxOGpnY0wxTnQzMFNNVWNzUnFwLWFna2M0RGU2MnhDcEVSQVg1TGk1WGFySi11ZHNn?oc=5"
+      "title": "台股 5 萬點前高檔震盪，渣打：企業獲利跑贏股價，漲勢仍有基本面支撐 - TechNews 科技新報",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZGNNRTBfd25jOEk0MTR2YUtUUWFVeWdTV0Utd29peVFlX2RoN0FBcWJxY3NhRGh4MjI2ZTJDalkzdGNxTVlCMERmQWdGRFFhUUVoWVMwWnc4UnRfWkhHaUVnX1JaZ3JONlI2VHZxc1dMeHowRUYxQkp0ZDg2bDZsMVhLYVRndw?oc=5"
     },
     {
-      "title": "〈貴金屬盤後〉逢低買盤承接 黃金觸及一周高點、周漲逾1% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4waHc3S3Zkb2tTV0ZjdVlaTGJ6U2J5aU5yT0Y0M0c4RDhKamhvNXJNZFV1cFo5a0dsVTFObFNPeHg1RmFpcEpHZEpHWXVLMXM?oc=5"
+      "title": "瞄準台股AI產業 施羅德首檔主動式ETF 00419A獲准募集 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CVTFHRzNCU1hNZ2ZpNWtOc1pNTlBBR1c2S01kR0dfOUhRNGlpQWN0ZFdWUGUzMnh3dXVCMkZUaTVtMTdxb3lYS2tPcENTbVE?oc=5"
     },
     {
-      "title": "美股早盤／四大指數盡墨！油價登105美元、股債齊跌 費半摔近2% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15OUtJcW5UTV9CSGRuNnhqNVYzTnR6R0gwd1NYZ0h5eVcwc0RuRjAyd1BNLU1fYktYSUNtb0tWOEVWX0I2OWhCWDRhWlJFcmVD?oc=5"
+      "title": "美科技股壓回投顧：台股本周聚焦台積電法說會| 股市要聞| 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1Z3BhQ2NmRE9hVncyUDlxZnRlODNQVE9WSlBfZXNYYy10Ym1JRDUtNFlUYmlYUW9tSFhhOWVESk12ZFNzWVBHSU9Ka21qVEpx?oc=5"
     },
     {
-      "title": "第四季朝多頭邁進 大盤區間最高5萬1000點 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1cmotUFJ4dzR1eDJmSDdNdDNEUmpGYmVkSm4xN0pkQWNvNDlKYm8xQTVJUFNUX2xvcVpBNU12eGtaMVNFcWVqZUlyT1pxMkNZWFh6Zmp6Rk4wamh4bkxn0gFkQVVfeXFMUHlmQzFUdXRpRm1KY1NUNnV4cTZ0WTBkWjNVd2k1bTBtMzVFV3VSYlMyQmczNDRQT1pqSC11aVdJaE82dGlmcV9GQmtuTnduYmhaVGZ6VkdOeFlsekdVQ192OVp1bA?oc=5"
+      "title": "TWA00 加權指數- 台股5 萬點前高檔震盪，渣打：企業獲利跑贏股價，漲勢仍有基本面支撐- 股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKTmxmTDBhMzB5V29hX2ZOZWNIbHRNTEZwdUVSZVVrT2gyMi1tSmF6ZVdMQkxnQjk3eXdydm9VWkJ1YzFzblZlWTB4cWtScXVOcnNIODFMNjk?oc=5"
     },
     {
-      "title": "美股狂漲創歷史新高 下週迎2大考驗 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQWVNnSW9YcXA3SjlYNVlmeE1aVW9TbnQybW0zU1NvZl80R05LWEVyVWd0SzE0MHFROHNhVjItOHdMQ3M2X3d1VVJhYWFJVUlpSkxJcmRNRWtmeGJqX0lpRE0zQVZjdzNxcWRDSTJjOGN0R0VpTTJOUEpqNUZEOUxUbkt2RE5NOFcxNkE0RkotTGlDSTRnUWdlVk9XdERNaHRPSWw2LTJTRE00bk5Bc0IzX2wwRkl0N3ZwWC1NTExnVWpqa2p4RG9sd1FJRjdhd0hCNjhHdGZxVFRsOWNWMm9NdTN2UEx1WGM1RFVwRGwySUYtdW1aTzBvSGxHSmFTajBkQmFCSmZkWjdidw?oc=5"
+      "title": "台積電ADR跌4%「台股明開盤有硬仗」！他揭3大壓力：恐跌破千點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QcGlPSG9xUU1nWDk1U1R4T1hEakwtMzNaWi1DOTFQN2tkUlZ4bC1hc0Z5eGdMX1hkVmRHbTNXQkdob2JpR3JIRjdyWjlXc0lSMVHSAVBBVV95cUxQWHA4Y1RYSEpURktveEh2TW9qZTVvcGc0MC15SHFMLVVmTDRmaHlCS1dvZmRmY21TbmY2VXhZMG9jTW8tZzhzemZQcWlIQl9iUQ?oc=5"
     },
     {
-      "title": "升息擔憂緩解 美股漲多跌少 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pcW9LZnBQNmJvQ3BfZ1FEVFRPUTJhaVZ0bHo3cnlZQ280QnpYRVpJLS1CNURJTnhoaHJYdHJKMERTTGhVaXlCdkNJYVhHalAzcGlIYTJSSF9ZUdIBX0FVX3lxTE1EbGVpX0hJTTl0TlJEa3ktekVQamE3R191SE9uRlBmbUpXUjBxbVpRblpBX2FJd3ZVcnA3dXFrQmwxWU9TZm9qS053Y29ybWxtNWV5V0tzUlYxZ0k0cmxz?oc=5"
+      "title": "台股明恐狂崩千點？ 專家曝「這些族群」可留意買盤 - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNVERMMmFoSVZOX1VJVXNRdkthM2p6cXlrY3lXYkZfVzNHRElfalg1b2ZCTFFvVk41bU50aGVlaVVMbjZZbUxfdU1IUG5BUFZuVlBvMTV0U2tUMWxQcFNteC1GekY5THZaU29MNl9aM2w2RFJ4b28zOHVrV1JkQm1IWTBvSVMyam12R0Z5TWJYR0xwMjE4M0d0WG0wZjBUaHdhMC1OaW1GS1B5RDRwdkNBR09ZRUEtcW5XV0tYcFB2T3VxYXFhQzNIR0tJN0UxdWtrNERHNGhlelFNQWJ1ajAtTXZfNlBsenZkWW0zN3gyajFxRl9LdzRNZG9PVmhBVS04aE51dEM3R3NCYTlJLTQwenZNa2dURzQ2UWFoRkhILWVVdF9Gd0JoVjROTlF6T3paaENSbUhIaUtnNFlEeV9VcUtTdmtrdEhUN19zN2o1NUJFa1JtMUlmeF9R?oc=5"
     }
   ]
 }
