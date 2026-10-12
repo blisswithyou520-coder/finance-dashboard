@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/12 17:12",
+  "updated_tw": "10/13 03:04",
   "taiwan": {
     "2330": {
       "price": 2540.0,
-      "change": -10.0,
-      "changePercent": -0.3922
+      "change": -45.0,
+      "changePercent": -1.7408
     },
     "2454": {
       "price": 4625.0,
-      "change": -65.0,
-      "changePercent": -1.3859
+      "change": -210.0,
+      "changePercent": -4.3433
     },
     "2317": {
       "price": 244.5,
-      "change": -4.5,
-      "changePercent": -1.8072
+      "change": -7.5,
+      "changePercent": -2.9762
     },
     "0050": {
       "price": 114.8,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 229.28,
-      "change": -1.2,
-      "changePercent": -0.5207
+      "price": 226.57,
+      "change": -2.71,
+      "changePercent": -1.182
     },
     "AAPL": {
-      "price": 336.64,
-      "change": -3.78,
-      "changePercent": -1.1104
+      "price": 340.04,
+      "change": 3.4,
+      "changePercent": 1.01
     },
     "TSLA": {
-      "price": 382.7,
-      "change": 7.7,
-      "changePercent": 2.0533
+      "price": 378.045,
+      "change": -4.655,
+      "changePercent": -1.2164
     },
     "QQQ": {
-      "price": 751.27,
-      "change": 3.69,
-      "changePercent": 0.4936
+      "price": 745.23,
+      "change": -6.04,
+      "changePercent": -0.804
     },
     "SPY": {
-      "price": 778.57,
-      "change": 4.64,
-      "changePercent": 0.5995
+      "price": 777.31,
+      "change": -1.26,
+      "changePercent": -0.1618
     },
     "SCHD": {
-      "price": 33.04,
-      "change": -0.11,
-      "changePercent": -0.3318
+      "price": 33.2,
+      "change": 0.16,
+      "changePercent": 0.4843
     },
     "VOO": {
-      "price": 715.59,
-      "change": 4.31,
-      "changePercent": 0.6059
+      "price": 714.49,
+      "change": -1.1,
+      "changePercent": -0.1537
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83476.18,
-      "change": -203.2888,
-      "changePercent": -0.2429
+      "price": 82331.71,
+      "change": -1347.7587,
+      "changePercent": -1.6106
     },
     "ETH": {
-      "price": 2551.05,
-      "change": 16.3508,
-      "changePercent": 0.6451
+      "price": 2511.12,
+      "change": -23.5792,
+      "changePercent": -0.9303
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 31.914,
-      "change": -0.0114,
-      "changePercent": -0.0357
+      "price": 31.93,
+      "change": 0.0046,
+      "changePercent": 0.0144
     },
     "JPYTWD": {
-      "price": 0.1994,
-      "change": -0.0026,
-      "changePercent": -1.2744
+      "price": 0.199,
+      "change": -0.003,
+      "changePercent": -1.4725
     },
     "EURTWD": {
-      "price": 35.79,
-      "change": -0.0072,
-      "changePercent": -0.0202
+      "price": 35.667,
+      "change": -0.1302,
+      "changePercent": -0.3638
     },
     "CNYTWD": {
-      "price": 4.7785,
+      "price": 4.7747,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4199.5,
-    "twd": 4309.0,
-    "tael": 161585.0,
-    "twdTotal": 134023.0,
-    "changePercent": -0.3984
+    "usd": 4192.9,
+    "twd": 4304.0,
+    "tael": 161412.0,
+    "twdTotal": 133879.0,
+    "changePercent": -0.555
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美債殖利率難壓！黃金長期看漲情緒升溫 專家：指1年後必破「這一價位」 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDcEhjbnc5THh4b19PNE4xUXBGQjg1dW5mNkF1M19heG1CeGZ5Z2JEdEZYVUNEdW50b2w2T2hvc3d1dWNQM0RPMWFiM2JjYU0?oc=5"
+      "title": "美股費半再殺2％！記憶體腳軟...美光跌4％「回到3位數」、晟碟挫6％ 台指期夜盤49K保衛戰 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxONnBCdFRnZ3NiUWk1eUpCU3FEQlZvOWRTdTNTbUpkblgzLVhjU0hCdGk3aXltTDBpbHdQWXJoamhzQ010Vy15T0FfQkJEd2FIXzA4QlJ4Sm12Q1lDQkJOQ2xnTEN1a3ZVaGV0VGlQNU5kUE8xVndUZUVDdUUzMVpndXN2Z2Qzbm01OGpDTHBocGE1X0g2TXNwVE1oSlg1V0FZcFZ0VU1SWTJudXZFOWMyME5nSU9tTW1NYTBUZDh4ODQ2eThucDFlU25OSTZaYk5hVk02WDRZSF9Qck5zTFJXNndhTU1mTWI1QVAwS1FBcWVqQnpTcDctSGdOWUd2ZEM1U3dtM0JMaVN1MGdzTE0zYzB3U3p4NklFNXJkM2p6bDBZMTF5WVBISUlIdjB2VzdnUmxQNklKSldPWXA1OG95blN1QjI5OUtwNXBGQUFsaXhJejF1SF93OUsyVzFTV3BaSUE?oc=5"
     },
     {
-      "title": "撿便宜時間到了？黃金高點慘崩26% 小摩「1動作」投資人慌了 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPcDVXY0dXWlUwV0tPOXZrd29FaE1RejVPcUtfb19TNFVTTkhfeklxajRXNFZQX2lvbDMySFhPM3ZoemNaUkFSVUZCZzRyNUxXaWRFSzNfUGZWNlRLZjk1cXFXdmNGQWVLZkM3N0N5Q0dGdzhIYTZvVnI0RmlqTGozcjc3al8zeXJnT2FLYjg3X1VCcC1ZaUE1ZnA5TDBBQUZ3YUFIVHlMTE9LX3F4d2VqTWM4MGJJdExJaXFxdW9BQWhTMHRqYlZsemdTU2dLd1lhQjJuYXNSOE5VUXB4S1I3MFRFdHFMU1NOR3UxakRWOG9aLVlKbW9aN3dNSENjNU1KX2JNRFI4TE5GMmhWMFVWRkU2THp1djZUY3V2MTNTbzVsZUUtWjc2V2xrdEIxS1Q4NVROWGcyd1VOMVpHZ2pTZ1NhUmFON0VQaDNZZUpqTHUyTGdnd2ZQNnM0ZlgtTWs0N3FHRnRVUVlNQm45?oc=5"
+      "title": "美股早盤／記憶體股摔 費半跌2% 財報將決定牛市能否續跑 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52Q1liNEVEcjFETGF0djVLR3NPYXphU1dlZjkyQXVnaFpQZjRsRURqWVRxUEQ4ZnRPOVZ0b1c2NTc4aW9CeFRQcEdRNmVUZHV0dXBPbGNUcVc1SWhx0gFiQVVfeXFMTlpwTFNVMHZyaWdkalVZZnhFU2U0OTJ3OVJCSnd1T2VzVDJQazFGNEs4QUQ4VVdrTmFjeHd4OUFfQ3hxeXJsLVVBX290WjdtREYtMllHSzZid0V4TzBUNjFReXc?oc=5"
     },
     {
-      "title": "美股費半走弱衝擊亞股 台股早盤一度失守4萬9 - 你的公共電視",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQXY2eDhNWmM3cDFiLTVpd20yNThvdDJuNnhyUmZxa1NZQVBYcVV6WXA3M3BlSnNHdVNtc3BWTzl5N2R1by1GcHYzWlFrRVU?oc=5"
+      "title": "美股早盤漲跌互見美光重挫拖累那指市場聚焦本季財報- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jak44TW5nOHN0dHlrMVJ3WV9nQUtDU0tMWE52SnprSTFFc1o4LXE0a2dVV1ZHMm9DNVU5cFp2WVl4dzRqdEZObi1jX3hQdHl3Z3RFM2NMS2FxOFZrWVBz?oc=5"
     },
     {
-      "title": "【研究觀點】台股高檔震盪，本周聚焦台積電法說與期限溢價：航運低基期崛起、PCB營收全面驗證與TPCA概念股布局 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMilgVBVV95cUxQQjlLdjJhXzlSNkNNMlFiSlVfdEVqVUljWlpmSkpoQS1feTRxNVdlWklFQXpUUkM0X2dUellLTzZUZmk0VVhQWlBDaFhibmJtZ0lCdjZ3T1d0bjRNM0xpdzJpM01yazJIYk94VTNGQ0JHMWNTRFJ5a25vVjZ1Zy1Yek1MVTVNdWVTUUtmNlhsWG1Hc2RGZ3JRTE95c2x4S0NNLTdYYVNiM3piU1RXdDkzdlZGNUdpMF90dXRHVGxvY0ZZQ1V3clRwNXRxNklpRTBKNDEtdkFURFZ5MkNxZW9TNnRRNlhTdWloWFRxUXRrWHBTMjFhSnBicUNEMGlTR25Qdkh2RlpRaTdqT0FWQW9iTmZtTjIxajU5VE5RWFFIN2V5UzdtV2dlU1hIYXJlQ3VEUEd0WTgxcFhWNlQ1LXhrX1lQMHNkTWRIdjh0c1ozcjU0dU5QYzV5UU0xTXJZZHdyclJNSHA2YThWal9nVTMzRER4R21rMlEzcjlsUjZDZ2hlWnBuNV9oM25jUzFBbDNzSWFPTEJKd3B4LXduckk3WHBjbmpaSnl6U1UxMUVVZzVWSEJvd0VRdmlJZWxmRFBXcTZEQXZNSzc3Wk5pQ3d5WVlibU9LNWVuMVp1Y1g2N3VnZ19OMVVTQldkdDdwODl4RGExX2s3a1B3NE1TNjRZTktwMFZKV2lUOWNPM0Q5Y1BGWXktb0NVcG5BTjVyX2F0Q29RQlJIQm5kTU9vejNrYnBxRndUZl9qbnVra0FJck0wSy14OG0yd0dPbUNTR3hwaUpEeTl6U295WDFpb3pRalJiY09YdDVwWUw3bXFHNWU2cGxmVGM0dVUzVmxxQU9kM29oUkVrMmtnM3luSHBtRlhFN3lUUQ?oc=5"
-    },
-    {
-      "title": "比特幣一度重返 8.4 萬美元！油價回落提振風險偏好，ETF 一周仍撤資 6.79 億 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORzBsU0hkM2cxN2JkOHctSDV1YUp3ejdpOTlRd0lJSl83aFBzTC1HeENVbjZaWHlDcFVLd2t6aF9TaGhQeWJaMFNEbHlzajQ4RVF1Z2xXaHJWa0lIUGY1QlZHSmpIQzZWTk9QdE5SMWFSUjdvVUJpT3BmaDJScEtONFRvNTZvbFdfa0pvOUVzOTdHT2dpalB6UkJ4ZEFwMFhIQ0pBY3FPYUxsMnMy?oc=5"
-    },
-    {
-      "title": "《台股盤後》開低走高/量縮收跌11點 10日線失而復得 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnZtYldiakhSZzN6SDNVTFlzUXZtbTl6bHJkakdyVGYzZ0hXa1gyemJTclU1SGFRMllia3hRSjRsRlhnT2dwUjR2Yy13UmdIYi1ZOVNtWjl0dDFwOFEyTEZodEJjb2xpR0h5X0xPYi1pWE5CZVJxbWhQaVBQYzBiR1pzQXFoRmNCQ01jcktqWk4?oc=5"
-    },
-    {
-      "title": "台股早盤跌逾500點後收斂貨櫃三雄、金融股強勢| 證券 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1za004WnNudVFHeUg2bkVGbkl0Q2I2UWdPTjd0WE5VN3RDZDBsOXdqVEFYWVJQOW1WMlJoWEc5OTh1TW52b0x4Z0o4dGFIZm5oYmtKbGhjZmVRSnE3NFE?oc=5"
+      "title": "【1012台股盤前】連假前外資提款台股收黑失守5日線！OpenAI烏龍報導衝擊AI產業，被動元件與半導體測試逆勢走強，投本比排行鎖定世芯-KY、金像電、台塑化｜豐雲學堂2026 年 10 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWXRTS1FrTFp2bnBvWUh4c2FUdDZSYk51RnNFLXdGYWJYQ2h2Nk5BTjNrWmRIcWpYenB6V0Nyb1VEUWJ0dkw3T0I1bXk3cU8xclQ3VTAwak53UldRMzlIcll2Y0x6d1pGbnRLY2FuSzFIRUpodXQ0UWczeE5ZM0Z1Wmx3?oc=5"
     },
     {
       "title": "美股準備迎接「倒V反轉」？德銀調降科技股評等、示警反彈近尾聲 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FNkhzaE5DcHpXaWMtbUQ1enRTNG5rRXQ2QTd3Rzg3ZW8wSTJSQmROMHJFN1Y2ZjZVYV9ySzRjWEhXcUhtWGUwS2FNU3JEV00?oc=5"
+    },
+    {
+      "title": "快訊／美股開盤漲跌互見 費半挫262點、台指期夜盤49K瀕臨失守 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOc3VNMlE0ODJMa2NsY1Roc05uekh0blI2UTQxVm1fSjlWUGxsdUZvd0NRNy1qVW9uNno1eUxETnB5NDhueThWcmo3TWpHMlZrcnplTzlmTnFsUkJNLXVWSlpVYzVscXRpb0s1bkFzZHU1QWZTMVhlVlotaEdrX0VxRlQ3MnRFMEFVWDVLUFVqbk5wdkVNWlVCSDVCLTFoRTZVOHBveEpjVkhJUTItd25LTEpLLWFaeEZ1RnBGMURVdG90VXc4R2swMXFDc2RlNS14UVo0ZG40UEFQbkVuZlBoVU1zbXhnU1JEZ3N2SGhZZ3RLLWRXamJzekRuclZTM3JNWUhKOVFhUHdSUW9CQU9NVjBTYVJhUU9mS2JHMDdCQTBGR0dGbWVIaFFwZ09TTUdhQWdaLWlld25tSFc2NVBpRmZjbzk0MWx2M2VsM0FLRTZsSmpZNC1TT3M5UkxmZXF4VnV6LUVQNHRjQVhNYXdROEFWTQ?oc=5"
+    },
+    {
+      "title": "外資四天賣台股1,477億元 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YeC1GZXNkZG9FS3M5YnluRXN5QW5QWWpFOUI0Z2NSUUcwc2NQcVY5YnFib2RISjFWaVpsamY1QlBwNkxuUVdTY0JFWHRMU0dwTHFYaGFTYTAtZ9IBX0FVX3lxTE1nY1I2dGtMNktqbDhzMFJwMzBlOUpjS0hiWjREU0VPMDllNVh3WFJjZnhtejJWS0ljdmNhM0RHbGtJV2Eydk5FU1p5VGY1UlZHNUNXTlczUXAwOWRSZ1Bn?oc=5"
+    },
+    {
+      "title": "【研究觀點】台股高檔震盪，本周聚焦台積電法說與期限溢價：航運低基期崛起、PCB營收全面驗證與TPCA概念股布局 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMilgVBVV95cUxQQjlLdjJhXzlSNkNNMlFiSlVfdEVqVUljWlpmSkpoQS1feTRxNVdlWklFQXpUUkM0X2dUellLTzZUZmk0VVhQWlBDaFhibmJtZ0lCdjZ3T1d0bjRNM0xpdzJpM01yazJIYk94VTNGQ0JHMWNTRFJ5a25vVjZ1Zy1Yek1MVTVNdWVTUUtmNlhsWG1Hc2RGZ3JRTE95c2x4S0NNLTdYYVNiM3piU1RXdDkzdlZGNUdpMF90dXRHVGxvY0ZZQ1V3clRwNXRxNklpRTBKNDEtdkFURFZ5MkNxZW9TNnRRNlhTdWloWFRxUXRrWHBTMjFhSnBicUNEMGlTR25Qdkh2RlpRaTdqT0FWQW9iTmZtTjIxajU5VE5RWFFIN2V5UzdtV2dlU1hIYXJlQ3VEUEd0WTgxcFhWNlQ1LXhrX1lQMHNkTWRIdjh0c1ozcjU0dU5QYzV5UU0xTXJZZHdyclJNSHA2YThWal9nVTMzRER4R21rMlEzcjlsUjZDZ2hlWnBuNV9oM25jUzFBbDNzSWFPTEJKd3B4LXduckk3WHBjbmpaSnl6U1UxMUVVZzVWSEJvd0VRdmlJZWxmRFBXcTZEQXZNSzc3Wk5pQ3d5WVlibU9LNWVuMVp1Y1g2N3VnZ19OMVVTQldkdDdwODl4RGExX2s3a1B3NE1TNjRZTktwMFZKV2lUOWNPM0Q5Y1BGWXktb0NVcG5BTjVyX2F0Q29RQlJIQm5kTU9vejNrYnBxRndUZl9qbnVra0FJck0wSy14OG0yd0dPbUNTR3hwaUpEeTl6U295WDFpb3pRalJiY09YdDVwWUw3bXFHNWU2cGxmVGM0dVUzVmxxQU9kM29oUkVrMmtnM3luSHBtRlhFN3lUUQ?oc=5"
     }
   ]
 }
