@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/13 16:07",
+  "updated_tw": "10/13 23:58",
   "taiwan": {
     "2330": {
       "price": 2490.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 226.32,
-      "change": -2.96,
-      "changePercent": -1.291
+      "price": 225.91,
+      "change": -0.41,
+      "changePercent": -0.1812
     },
     "AAPL": {
-      "price": 340.97,
-      "change": 4.33,
-      "changePercent": 1.2862
+      "price": 344.55,
+      "change": 3.58,
+      "changePercent": 1.0499
     },
     "TSLA": {
-      "price": 378.03,
-      "change": -4.67,
-      "changePercent": -1.2203
+      "price": 376.07,
+      "change": -1.96,
+      "changePercent": -0.5185
     },
     "QQQ": {
-      "price": 746.04,
-      "change": -5.23,
-      "changePercent": -0.6962
+      "price": 741.35,
+      "change": -4.69,
+      "changePercent": -0.6286
     },
     "SPY": {
-      "price": 778.1,
-      "change": -0.47,
-      "changePercent": -0.0604
+      "price": 776.615,
+      "change": -1.485,
+      "changePercent": -0.1908
     },
     "SCHD": {
-      "price": 33.26,
-      "change": 0.22,
-      "changePercent": 0.6659
+      "price": 33.299,
+      "change": 0.039,
+      "changePercent": 0.1173
     },
     "VOO": {
-      "price": 715.13,
-      "change": -0.46,
-      "changePercent": -0.0643
+      "price": 713.849,
+      "change": -1.281,
+      "changePercent": -0.1791
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83879.14,
-      "change": 2116.5775,
-      "changePercent": 2.5887
+      "price": 83313.8,
+      "change": 1551.2375,
+      "changePercent": 1.8972
     },
     "ETH": {
-      "price": 2529.18,
-      "change": 84.8226,
-      "changePercent": 3.4701
+      "price": 2511.4,
+      "change": 67.0426,
+      "changePercent": 2.7427
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.138,
-      "change": 0.2126,
-      "changePercent": 0.6659
+      "price": 32.17,
+      "change": 0.2446,
+      "changePercent": 0.7662
     },
     "JPYTWD": {
-      "price": 0.2008,
-      "change": -0.0012,
-      "changePercent": -0.5813
+      "price": 0.2011,
+      "change": -0.0009,
+      "changePercent": -0.4327
     },
     "EURTWD": {
-      "price": 35.973,
-      "change": 0.1758,
-      "changePercent": 0.491
+      "price": 36.071,
+      "change": 0.2738,
+      "changePercent": 0.7648
     },
     "CNYTWD": {
-      "price": 4.8049,
+      "price": 4.8148,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4212.6,
-    "twd": 4353.0,
-    "tael": 163227.0,
-    "twdTotal": 135385.0,
-    "changePercent": 0.525
+    "usd": 4181.5,
+    "twd": 4325.0,
+    "tael": 162183.0,
+    "twdTotal": 134519.0,
+    "changePercent": -0.2172
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdGJvWHpGdTZ6enRJX2dKdTZsUUktRlBkdW9jU090bFdmbnFPQWRZNTlYdEl5ZDN1UlJuTXZqNV83SGE5bkU4aXpMbkloQlIybGdqaUN2V094SUNYRFExUTVWSlhTa2NWc25WbE1WUG5ON0I1cnB4VmRKNUFyUUdjSFhFUGVyZVY3T2k4?oc=5"
     },
     {
-      "title": "〈美股盤後〉美光跌3.9%拖累費半、那指 油價走高、銀行財報季登場 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoMnQ2c0pBQ21JLTZKalR5aWRZQVVrWkJob19VQlJTbDJGUFdQQnE5YUM4bEpvSHN0TEdramllQlpPbEc4RUNhVUlFOC12c0k?oc=5"
+      "title": "快訊／美股開盤「三大指數走低」！僅有道瓊上漲 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55dURnYmctV1BBTmdFTDJtWThmT0JnT0dTcW1PTFZnaDQ0dWlNM3dhdE83dmxtQjlqZkRzRW5sYk96dkZaUGpwRDNWcFJxUzFrbUHSAVBBVV95cUxNZ0JaX1o1WURpWU5zSXdoTjh1dk9GWVJhVzRzeVlRMTdkbXpPRkQ4T2J0WU1vYzh4TUpTUmQ2elg3NXFUbjI0bWtGUjVjdFhZSw?oc=5"
     },
     {
-      "title": "美股收盤／費半重挫2.7% 台積電ADR連五日下跌 油價續漲 銀行財報和 CPI 考驗美股 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KZ3d1TlJvdUxUdFlpblZTeHZ5QVdmc1VQdzlrRXBWa2ZDM0tXdGR3NHg5SFFlN0xEclRGYXF1UFNOMkFPU0pxTFgyMEFoM202T09kcXpBV0VrQmFO0gFiQVVfeXFMTnBBODI0d1BOOExtVFJZWnR4WHlpbWtmWktUczRBcHZMRFc4Y0MwN0c1ZVZJRHRIZjlsOEI3anV2aFZtaTdTR1R6N1RpWktXRExzdlB4MlJvXzNDd3EyVncxNnc?oc=5"
+      "title": "美股恐跌10%？阮慕驊揭「1實際風險」若發生：恐劇烈波動 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPd2hWZGlKc09Mek1zSE5raEt1VHBhZ043XzdOdklQSG5keWtPYXljRlo0VFR5MVpyV0ltaW9VSHU3bEJnMFhWUTRjalBsMWpLRjZrckJPWnBWV192RDIyOGN3eWV2QW5oLXI3N3pEOTF1X2pKQldXNTlHMDBKY2tTNnlDWVVBN29LelNMWi1iZC1xQkR1QVhhZXVRQWhyNnBSY1dhaEpubVAzNlBOOEdNWWo3bk1wdjdha3cyWExFY0duUUpuUmszTUpNci1JRVhPb0xEN2lqV0U1NVAzX0lOTzluUzRFVjg2UWF5eHJOMjRYMDJzdno0djRab1BRSXcxOTUtVkZvX2lRV20wczZvT0JTV1d1dFZ2bG45V3VHaHRGbUtFTE1hQ1hkS2lKM2VJQ2Q1NVdwZUppenR4X2lRbG0tNExQRnlUdFV1Wg?oc=5"
     },
     {
       "title": "黃金還會跌？美銀估第4季恐見3750美元 2027年均價則是「這價位」 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FZFRSbHY0V0pSTXlRRnFRTjIyanZGWGFheExvdjZDSEZyY0YwU05Zdkg0LUZDaHo2VEJ4aHYyZ3ZTMzhFdE1jcW5LaGNydU1ZTGpYekZKZVhEVzRCdVQ00gFkQVVfeXFMTnh5NHlKeWRJaW5ra19PZElsdnpEX1JqczV3ZVN5Si1fQ2RGeVlXcmFaRlVVcHVQcjkzM1YzaWRfVXJWNTRNYzJ5WkJTXzlXZzRrbEhWV2lOcEFTaWNOampYOFdzNQ?oc=5"
     },
     {
+      "title": "〈美股盤後〉美光跌3.9%拖累費半、那指 油價走高、銀行財報季登場 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoMnQ2c0pBQ21JLTZKalR5aWRZQVVrWkJob19VQlJTbDJGUFdQQnE5YUM4bEpvSHN0TEdramllQlpPbEc4RUNhVUlFOC12c0k?oc=5"
+    },
+    {
+      "title": "美股早盤／記憶體股領跌 科技股黯淡…費半挫1% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIUDNOVUFMWUhSOUJRS2R4TFM4Qi1sYkQzTzNoRUJnUTdIdUZGZkx1NzNJVlhlZnFBMHF2TUtwVV8yeWc4bVRrVDIyVEhyWmcz?oc=5"
+    },
+    {
       "title": "美股牛市迎來四週年紀念！歷史數據顯示還能再漲？ - 群益期貨",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYlhwdEFLWUFzSXA3cjhlbzRib0RGWU5HRGtkeEtEUlVBUEtqT1E0dnhPYUY0SWFLVTYtUUxMeWpxdzRrRU9jN2d4eVR4RDBBSlpGUGZQUWphTlJxMEw4MkpFMXF6TThIcVhqNzktR2RIclh5amVjR0oxallIaTN0V0VDVzBBSWRyUGpBZW1iUQ?oc=5"
     },
     {
-      "title": "美股費半再殺2％！記憶體腳軟...美光跌4％「回到3位數」、晟碟挫6％ 台指期夜盤49K保衛戰 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxONnBCdFRnZ3NiUWk1eUpCU3FEQlZvOWRTdTNTbUpkblgzLVhjU0hCdGk3aXltTDBpbHdQWXJoamhzQ010Vy15T0FfQkJEd2FIXzA4QlJ4Sm12Q1lDQkJOQ2xnTEN1a3ZVaGV0VGlQNU5kUE8xVndUZUVDdUUzMVpndXN2Z2Qzbm01OGpDTHBocGE1X0g2TXNwVE1oSlg1V0FZcFZ0VU1SWTJudXZFOWMyME5nSU9tTW1NYTBUZDh4ODQ2eThucDFlU25OSTZaYk5hVk02WDRZSF9Qck5zTFJXNndhTU1mTWI1QVAwS1FBcWVqQnpTcDctSGdOWUd2ZEM1U3dtM0JMaVN1MGdzTE0zYzB3U3p4NklFNXJkM2p6bDBZMTF5WVBISUlIdjB2VzdnUmxQNklKSldPWXA1OG95blN1QjI5OUtwNXBGQUFsaXhJejF1SF93OUsyVzFTV3BaSUE?oc=5"
-    },
-    {
-      "title": "比特幣亞洲盤 V 彈逾 2,400 美元！韓股崩 7.4% 仍站回 8.3 萬，BTC 短暫脫鉤科技股 - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHRVR3o5aV8xRmk0aENrdC1EanJQUXVhNlVfZW85RjdVWVVKZ1h3SjQ3NG4zWXRFeWJYV2ZUbEJvS19NMEc3blk2SGdKY0lzQ3E2dlBEUl9waGZKdTVSaUlpZDRVRHl2LVExOVNGUW13MzN6LVZMcU5ETzVYVzlBMjRRcUV3eGZp?oc=5"
-    },
-    {
-      "title": "美科技股下跌影響亞股走弱 台股盤中重挫千點、失守4萬9 - 你的公共電視",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02TUhfM2w5eXFVNlZEYmFUVWgtSW1YdFdWR01MQnhvaEQtVVhaOExpaTJvZGVXNkdXYThhSnFoMkdwcWNjTnBRcWZDeWs5cjA?oc=5"
+      "title": "快訊／美股開盤 「三大指數走低」！ - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMUZEeTQzbll4M1lmZ0FTSk1HTUNWVGUteTZVRW1PQkllR0tJcFByVFFxYWNDdl9HMVVUMGFPNTZJdmRrbXY4bXlPQi1yeXhpZGRtMjZ1WjFGMDkwRlZLaTg1MHNNdFgzTVVublpJXzhhTC0yYXJVcmNYd3RrM19GM2U2T0hpS0J1MEpnckdBSERCcXc0QzFMYjRkbDJlY3ZmQzRXb2xPRHhpb1ZyMjI2V3oxazRZUVpVU1hxUnhxdDMwT0Yzc1hvdkJuLVJLWmcyWHpYb3BkMG8ybXFVYmpDRGUtM09OTF82VXgwbmM2U3lRTGlyTFplZA?oc=5"
     }
   ]
 }
