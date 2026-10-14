@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/14 23:12",
+  "updated_tw": "10/15 03:25",
   "taiwan": {
     "2330": {
       "price": 2490.0,
@@ -19,97 +19,97 @@
     },
     "0050": {
       "price": 113.0,
-      "change": -1.8,
-      "changePercent": -1.5679
+      "change": -1.95,
+      "changePercent": -1.6964
     },
     "00878": {
       "price": 35.47,
-      "change": 0.23,
-      "changePercent": 0.6527
+      "change": 0.48,
+      "changePercent": 1.3718
     },
     "00919": {
       "price": 32.49,
-      "change": 0.26,
-      "changePercent": 0.8067
+      "change": 0.84,
+      "changePercent": 2.654
     }
   },
   "us": {
     "NVDA": {
-      "price": 223.499,
-      "change": -5.021,
-      "changePercent": -2.1972
+      "price": 221.04,
+      "change": -7.48,
+      "changePercent": -3.2732
     },
     "AAPL": {
-      "price": 345.79,
-      "change": 4.52,
-      "changePercent": 1.3245
+      "price": 343.12,
+      "change": 1.85,
+      "changePercent": 0.5421
     },
     "TSLA": {
-      "price": 367.307,
-      "change": -7.923,
-      "changePercent": -2.1115
+      "price": 365.717,
+      "change": -9.513,
+      "changePercent": -2.5352
     },
     "QQQ": {
-      "price": 733.75,
-      "change": -9.82,
-      "changePercent": -1.3207
+      "price": 728.95,
+      "change": -14.62,
+      "changePercent": -1.9662
     },
     "SPY": {
-      "price": 771.299,
-      "change": -6.711,
-      "changePercent": -0.8626
+      "price": 768.835,
+      "change": -9.175,
+      "changePercent": -1.1793
     },
     "SCHD": {
-      "price": 33.494,
-      "change": 0.124,
-      "changePercent": 0.3716
+      "price": 33.628,
+      "change": 0.258,
+      "changePercent": 0.7732
     },
     "VOO": {
-      "price": 708.978,
-      "change": -6.222,
-      "changePercent": -0.87
+      "price": 706.69,
+      "change": -8.51,
+      "changePercent": -1.1899
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81612.65,
-      "change": -1482.475,
-      "changePercent": -1.7841
+      "price": 81743.04,
+      "change": -1352.085,
+      "changePercent": -1.6272
     },
     "ETH": {
-      "price": 2421.75,
-      "change": -74.8755,
-      "changePercent": -2.9991
+      "price": 2433.68,
+      "change": -62.9455,
+      "changePercent": -2.5212
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.144,
-      "change": 0.2162,
-      "changePercent": 0.6772
+      "price": 32.135,
+      "change": 0.2072,
+      "changePercent": 0.649
     },
     "JPYTWD": {
-      "price": 0.2,
-      "change": -0.0014,
-      "changePercent": -0.6927
+      "price": 0.2008,
+      "change": -0.0006,
+      "changePercent": -0.2954
     },
     "EURTWD": {
-      "price": 35.768,
-      "change": 0.1383,
-      "changePercent": 0.3881
+      "price": 35.877,
+      "change": 0.2473,
+      "changePercent": 0.694
     },
     "CNYTWD": {
-      "price": 4.8036,
+      "price": 4.7977,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4114.5,
-    "twd": 4252.0,
-    "tael": 159455.0,
-    "twdTotal": 132256.0,
-    "changePercent": -1.5034
+    "usd": 4120.9,
+    "twd": 4258.0,
+    "tael": 159659.0,
+    "twdTotal": 132425.0,
+    "changePercent": -1.3501
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "美股平靜時光所剩不多 月底起四大事件接力、預期波動增50% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rVUdxM3d3VnlBc0JsdnVVWW92NjBuRjN6M2VUSHlpMEVqekV2cGxmSlBvQW91VjRTNi1qcUtLbDFUbnJ6aU9mUEVVeHpJZHc?oc=5"
+    },
+    {
+      "title": "Rosenberg：美股越來越像泡沫 多項指標極端程度從業40年來未見 | 美股動態 | 國際 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RM01lZ2E3anc4U2RWNkpCOXBiNm1MbVNJb0poSWd6QWtjUUZVblZudzRIeVl3b2VvQm9Qakktcjc4aVFGS1RtVXRHNGdiNXRWUXZ2NnUxQVJ6SFZo?oc=5"
+    },
+    {
       "title": "美國通膨超預期 美股承壓、那斯達克跌0.7％ - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wbmR3Vm96RjJQTzEwNXN1ZTdLS3RjOXdsallTNkRZZ0xEX1JYOGVEM2dDZ3JocU5LYXBDRWhTN0lEYnhXLXVBMHRxV25LVWxqX3dDeDJWT0ttYlU1QkFR?oc=5"
     },
     {
-      "title": "晶片股拋售潮！美股4大指數全收黑 台積電ADR逆勢上漲 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQa3J2cHE2NEg4Y1JURHd1cWpzZUNma1doR1lUd0Y4U0Zqd2NzWFdhSXlNbzEtdi1qb0phb0huZVdqb2RBQm9yc1pSZ3Y2cmZ3ZkdmUmFJdmNXVF9MRVhrOF84TDdjY2FrWnVwQ3hzU1FTWUYxVDJpeVVTWmNqLU9xTmlHYWhOa2paOUZHeEZhOXZ2dHYyZC1sSDJERGZOQ0pBeUpPSW1qdDNnTmJ3RF9tZGxpcVpvRUp4ejNUeHB6TzVhVWZxVDRnWXo0Zk5JNUNkcEQ4XzZ5UkJlX1pGRDBkUW9xcjhtWmN6Y2FnbkRiamdFZG9TU0FnV2lOcVJzYjFrVEFtT1Q4NWcxb1Fxa2UxaXk4QldZVzNqQ3M1ZVF2eXYyYy1DLU1vVEVYRWIwaENfNHpIaDI5RDgtQkhTN291SDBMbURsVzVORGx2aENmajJ6QlBoOG10RHhQVzdhY0E?oc=5"
-    },
-    {
-      "title": "美股收盤／標普持平、費半跌幅收斂 美光仍挫跌 銀行股財報喜憂參半 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90LVdfNEZCYmFNdXctdmlGanBBUFFuODQ3R0RuMjA0b2h4aEttUjlxeGtFOVZ6WUpjNzUzenI5S01OdnBRY2wxOUZxQm1Da2cxSHNJenJFQ2hRQ0FJ0gFiQVVfeXFMT24zSnlKeE9ULWktZ0ItOGtCR0dab0ZqUVVRZ2k0bnNDRFV2MmYzTVhzRjFhRHd5LVp3bzNfa1JheldyLVdhTGZlaGhzendEQ0lJMkg3R0VTcnBsS1llNWxTbnc?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉美光跌3.6%晶片股承壓 那指收低、費半連五跌 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4LUtvMHFmdDMzQ2JfekFJSFNlYmlNSXBvbVFJdUhZd3hnSnowUTJBblNudHpPVlFfYmY5aUtyV2U2RTlIeFpocTB0b0IwNkE?oc=5"
+      "title": "美國通膨超預期！美股開盤4大指數齊跌 台積電ADR下挫1.68％ - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPTlEtRzdqdVlnUzNDbTZkQ3lOUHI0ek9DcFB0Z3p0Y2hkbUtFWDI5ZHRpRlgwX083S1NkV2NiVV9Nb0NnMWxMTDJzRFdCeF9mNnlUNm5ZLXlUNGRwYTlKTVo5YUUzc2ExU0lqTVczVzE1REotZnloQmN6LVQ3bExoZEZWenN4RHdWRGZiMXV3WWFtTTlDNDlYUWNuS29UTHZHM2l1eXpBY0NkVG82QmhxVm02bF9BM1djbmlrQWZaNUJfbUxoc1N6V0wyZm9fYm5Landub0pWX1JPTlNWQTZTSHUwY200d3ZNTnNneVdDbmt2SVVtT2p6T05LTm1HcmlyODZndlB2ZmNVQlZxMkFKbWRMTklQaGhxNUoyb05WX0JCOU50WmJWeTl0Z2g1NTZReWc4Q09aYWVIM2VSY3dQVmJRby0zSDlkUHJMRFcybk1aU2dfWm8wZG0zZ24?oc=5"
     },
     {
       "title": "美股高檔迎三大變數 基本面與升息壓力拉鋸 - CME Group",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd1lqWGhPd2w2cUw5VHlBaXdIQWd3Sk4zMXRGRHFBb2stdlBOTXE3bENKQmEybG5lM18xVnBLSVZjLXIwOFJkMEdKN3VLVXFVbFFTWGRqTXB1ZTl6LUYzbG84M2tYQ1lnX1NLc0p3OVVFdmdrcm9IekpTZFdsZUE?oc=5"
     },
     {
+      "title": "國產黃金梨穗嫁接 農改場找到最佳採穗期不輸進口|新創臺灣 - 僑新聞",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QV2hKMEUwQWliekViX3B4aE9zdFlsZjI2c29OSi1JVXFDYjNPUUFTU1VmM2gtOG0wMjRmZ3JyUTBpVXgwTDZLcmE5MA?oc=5"
+    },
+    {
       "title": "美股收盤》費半連5黑！晶片股疲弱 台積電ADR逆勢收紅 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4ZE5CRWpUd01RSXlUOGlTUjhTZWxDXzMtcUhjdnc5cXlvQ1RIMXNidzFlR2c5Z1pkYUxsUDU2bkFnYmw3eFFQV3V3WkJ0RlpRT0FNcHRjdlJ3T1RiM2I00gFkQVVfeXFMUGpPNUhKVVc4V3h1azBTZ3hpV1NmS21BcU9FdGs3T0l3Z0lJcEd0RWdkOVM5b2RPdWFGVHQxV2REYXFCNUtvc2d3WTdOZ2xTYjdpSXc3TzRmNWwyWVpJaTEwWmxnUw?oc=5"
     },
     {
-      "title": "美元飆升，美股和債券因美國通脹數據走高而承壓 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oRHhrSUdKRThnTVYwMXJ2bG9fV1I0U3ZzdW1FZmtRNktQbnI5R0dUM1RmbVhFNExZdGJWSmRsbks2aTJUNjRkYkxRZWZNUnN3SG9GRlZjblR1U0pnSUgyNVEzeHY3VnFmaFFIMzhCdnlkSEhzRzBV?oc=5"
-    },
-    {
-      "title": "50 億美元比特幣歸誰？英國法院裁定適用中國法律，6.1 萬枚 BTC 將落入英國國庫？ - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWnhVXzNUU2prVFA3dmd3eE9WOTFleDR5M2lYWFdnbThPV2RsUFl5UGlZVlVPT0JuY2dsRlMzWTV0TXJZRVBxNjJNVFJmNF95OUtHTGhrT2hac19CSHN3ZFFPb1VyYnVkeHFYSkxadW10RzhoU2U5Rm83R3Bic1ZlM1ZkaXZ5Q1hlZDU1MmtfNFZ5VzRpaHFwV0VMWlRPc3o2LWdVZng2N1VDMDhyMUwxcWRoR25fU2ZOay1VbGtCd2k2bWhQLTNzbjVpbklOZw?oc=5"
+      "title": "不只台積電獨強！AI供應鏈紅利擴散，台股第四季「隱形冠軍」是誰？ - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sQy1ZaW9Ga0VLZHFLb2tuVkNVZE5hUURsczNzRjl4NDNtUVoyV3hDRVhCaGNVMmxLY2x2RjAzUW5IdDhranlJY1FEZWx1dw?oc=5"
     }
   ]
 }
