@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/15 23:12",
+  "updated_tw": "10/16 03:11",
   "taiwan": {
     "2330": {
       "price": 2440.0,
@@ -19,74 +19,74 @@
     },
     "0050": {
       "price": 108.9,
-      "change": -3.5,
-      "changePercent": -3.1139
+      "change": -5.9,
+      "changePercent": -5.1394
     },
     "00878": {
       "price": 35.09,
-      "change": -0.25,
-      "changePercent": -0.7074
+      "change": -0.15,
+      "changePercent": -0.4257
     },
     "00919": {
       "price": 32.38,
-      "change": -0.02,
-      "changePercent": -0.0617
+      "change": 0.15,
+      "changePercent": 0.4654
     }
   },
   "us": {
     "NVDA": {
-      "price": 216.69,
-      "change": -4.61,
-      "changePercent": -2.0831
+      "price": 217.742,
+      "change": -3.558,
+      "changePercent": -1.6078
     },
     "AAPL": {
-      "price": 344.36,
-      "change": 1.4,
-      "changePercent": 0.4082
+      "price": 342.66,
+      "change": -0.3,
+      "changePercent": -0.0875
     },
     "TSLA": {
-      "price": 362.7,
-      "change": -4.46,
-      "changePercent": -1.2147
+      "price": 361.986,
+      "change": -5.174,
+      "changePercent": -1.4092
     },
     "QQQ": {
-      "price": 724.93,
-      "change": -4.02,
-      "changePercent": -0.5515
+      "price": 726.999,
+      "change": -1.951,
+      "changePercent": -0.2676
     },
     "SPY": {
-      "price": 770.56,
-      "change": 0.96,
-      "changePercent": 0.1247
+      "price": 771.73,
+      "change": 2.13,
+      "changePercent": 0.2768
     },
     "SCHD": {
-      "price": 34.255,
-      "change": 0.545,
-      "changePercent": 1.6167
+      "price": 34.16,
+      "change": 0.45,
+      "changePercent": 1.3349
     },
     "VOO": {
-      "price": 708.24,
-      "change": 0.81,
-      "changePercent": 0.1145
+      "price": 709.355,
+      "change": 1.925,
+      "changePercent": 0.2721
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82219.79,
-      "change": 657.2978,
-      "changePercent": 0.8059
+      "price": 82345.61,
+      "change": 783.1178,
+      "changePercent": 0.9601
     },
     "ETH": {
-      "price": 2421.34,
-      "change": 3.133,
-      "changePercent": 0.1296
+      "price": 2447.46,
+      "change": 29.253,
+      "changePercent": 1.2097
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.379,
-      "change": 0.274,
-      "changePercent": 0.8535
+      "price": 32.37,
+      "change": 0.265,
+      "changePercent": 0.8254
     },
     "JPYTWD": {
       "price": 0.2025,
@@ -94,22 +94,22 @@
       "changePercent": -0.1317
     },
     "EURTWD": {
-      "price": 36.308,
-      "change": 0.3421,
-      "changePercent": 0.9511
+      "price": 36.336,
+      "change": 0.3701,
+      "changePercent": 1.0289
     },
     "CNYTWD": {
-      "price": 4.8432,
+      "price": 4.842,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4176.9,
-    "twd": 4348.0,
-    "tael": 163057.0,
-    "twdTotal": 135244.0,
-    "changePercent": 1.6797
+    "usd": 4180.5,
+    "twd": 4351.0,
+    "tael": 163152.0,
+    "twdTotal": 135323.0,
+    "changePercent": 1.7673
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股全面承壓、台股重挫1600逾點！原因非通膨？專家這樣說 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNTFIyay1Rakw4VlFpVERCYjc2SGdfanhkMXBPSDRya2h1WkRkTHpRdU5tRjFoNkgyblZRZmRrbFd6X3Zjb01sSm9tTkR2ZUFhSEw2Y25IOVlTX0pxN29xd05wbFlDMEwzTDFhRjhqZE9OYVIxY2k4TWlfYnc4bFRzYV9ST3BsblRObVJzSkhMRGl1b21uQ3FYZEU0QkUtREpjX0VYanBSQngwR19WQ2plUmhmTXBzRnFjQXpGVENqU21Ob2VPR2tOei1HSVFPei1uc1o5T0FNd2tMcGw2a08yMFhwTzE1QmdHY21wUk41TFNBektvdEhzenlSc1ZERE5Sd1JlQ1l1d0piaU13dFRRcUEyQWJ1LVV4djFoRXRKRWdvM01sVzBQV2FnVy12TzJyX3pXV0FIaVhHVnN5dFUtSHlSQy13ZWNOSlBNUlNPUjRFSDhkNEpRdGhValVoRGstSGI2Qg?oc=5"
+      "title": "〈美股早盤〉通膨難降、科技股續跌！主要指數開低 台積電ADR跌逾4% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QX3ppTWFxVDhRWkFham5mMHFnX2lybHRST1NCa3hGNDNNbWM3M2g3X1FUb01Eb3FOV01PdGFRS1k4NDBhaUt6QndkeVRDYmc?oc=5"
     },
     {
       "title": "美股早盤／科技股續跌 道瓊漲234點 台積電 ADR 大跌4% - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxZE96LTIzak9jaC04MldrSDg1eDdaY3pjZWJ6SmVXZHk4NjNfUFFFQm84anFxRFd6UWVYcVZPVElaQ1Q0UHNwSkM0ZFZWUFRHMTBlN0RCMjZXSXM00gFiQVVfeXFMT2JxNEpZVHNMYTkyQ1hTYWV6cGxIUTFfN096SjEtV2JFVkE4TjdpbkpSaGE5RzhDRkdKbVJ5T21PVUFsRlJWZ1FYb3F5NF85cGNkRTZFeVlLMlpyTnBfSEt5QVE?oc=5"
     },
     {
-      "title": "黃金好慘！已連跌3天 「這貴金屬」直接崩盤 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DSmpOR0RGdjRlZU50dDF4MXpOYXNWbmxZWndVdldsbnRjT21sUnM1WF84RjlNU0U3eVFvMkQtS2lYUzlveWV3SzFOSEFlcTNjUmlMSXpVdWgtTDl5ZkZR0gFkQVVfeXFMTWR6bGkzQ05PcE9mNlB4WjNOeEFuZVRkLTVtckFlTkx1RTUtd01BNXVmaVdTVndocmJqQVRQb3JZT2g0bTI5ZG51eTg4WmxqUW1zdFVmcm9kYllSb08wRVdWZXRxYQ?oc=5"
-    },
-    {
-      "title": "美CPI引爆美股重挫、亞股全倒！預測神人揭聯準會升息驚人劇本：10月先不升、12月恐出大招- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15bDJZNFZtenlPbUxscm02QmpRdVZWMF9jLUN4S3FHNEtmeE5IT1FFOEFrRVprcVhsR1JKbGJjamJuTmdUajk2N2xOaU1ZeW52emlJRDZvNUs3YjhiLVVV?oc=5"
-    },
-    {
       "title": "美9月PPI增幅創4年新高！美股費半再崩400點 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNRmVwcDBya09JVDllQmtkZWxsWWctNEJLNUIySEgzZVVpZlJVanp6MWYwV01xQ3djbkhRclpXZG9rYzF6SzhrX1VBbzhTSUxIQWl2dmZNREpmenpiZXNuT25zdy1KUTJ5T0NIbjROMEd1ejd6T2FZenRENjZOYzVGVzlhdlZYaFAyeFB4RnZUWXFjNXQtNmlPOHA5V0JxOU5ULU85cy1xMG92a0h3Qjgwako0c09pLXFiYmFTRmRmSDhYWm4xM09YcktFMmh4aExKZ3hhTDd6d0JzTmxvVFh2Yk1EMVpiZFNya1VsVjNMNko4SkpydmUwYl8zQmxOWEx0UFVlM096X3JEb0V5YndiY00tcw?oc=5"
     },
     {
-      "title": "美股收盤／通膨掀 AI 股賣壓 費半重挫4.3% 美股創7月來最重跌幅 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aUElYWVI4bHpXNTM5VGVMMWhCU29KMFo5LUhBeWpNclhlTFpDZHBPSVhmU2stMW9ScWM2Y1hqS2dGdWkzUkVUWWRUYkFMR1FmbUxYN0NJMGphN1Ju0gFiQVVfeXFMTVFRdzVNQjBpb2xUTlFSQWZpSUJjamhUX3VCSFVzaDhfWnI2NUtlNVZESWNTaGtYcUNuZlJYNmZqVC1jWWNMeWdtUkx2cklINUtyVjhsaUdLZXdBRFZHZTlubHc?oc=5"
+      "title": "快訊／美股科技股賣壓持續！費半下殺破400點　台積電ADR也跌4.63% - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFQ25yX3c4bmIxZ1dBd0hrM284YU9hbFIwdmk1RHBPT0xGSGJwWU8xbHNWR25Wb1dLZXNUdG5WWktxNkRDX0J2cFo1YnowUDZ4T0HSAVBBVV95cUxQOEJsTC1HTGNnWWxxcElPYnBPS3hYbThaTFQzbFpKSmtRdmNoaFN0cmVCbVZGZEkxUU1DUW0wN1FUUEJCRFh4TVhZbzFwaGJFRA?oc=5"
     },
     {
-      "title": "美股收盤》通膨引升息疑慮！費半跌4.3％、台積電ADR下殺3.4％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42dGFBZE5FWFlXS1p0bFgzZU5keS1jMVZTMHZSUUxTOUN3bHRuM01rQkNrdy1CU1MzNWxpMWZXU2VIbC03RHFLRzA5SHZVMXRJRzBPUS1uZ3BCQlpNc0Ew0gFkQVVfeXFMTmlYd0c0M3F2Y1NaMHgyVmtoTnNnTnc0LW5sdWFGS2p4UG0wYzNqWHBqc19ESTZOZTFmYnlMb0hwaVFlNzNPY1Y5QVBheUtNc3lJbVBpVHBFNWdTcGwzMl9wZDF3SQ?oc=5"
+      "title": "黃金好慘！已連跌3天 「這貴金屬」直接崩盤 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DSmpOR0RGdjRlZU50dDF4MXpOYXNWbmxZWndVdldsbnRjT21sUnM1WF84RjlNU0U3eVFvMkQtS2lYUzlveWV3SzFOSEFlcTNjUmlMSXpVdWgtTDl5ZkZR0gFkQVVfeXFMTWR6bGkzQ05PcE9mNlB4WjNOeEFuZVRkLTVtckFlTkx1RTUtd01BNXVmaVdTVndocmJqQVRQb3JZT2g0bTI5ZG51eTg4WmxqUW1zdFVmcm9kYllSb08wRVdWZXRxYQ?oc=5"
     },
     {
       "title": "快訊／美股開盤繼續殺！台積電ADR再摔4.3% 台指期夜盤失守47K - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQRWwxSnZCYUYxNHU0MHpYYVpxQTlvZElRZHNvb0xjVkdTVGZ2WGYyWmdFOVJBZEozWmluWnhnMGswX2NfYWgwRzRpaDVJdE5XSDVISVlQVl9MQWhlaEVKQzRybW1kVUhTVkJJWHZMYXVGUGNMWXhDd29rYVlWVk15TTZ3ZGtIRU5aNkV6c2RtWG4xSk95czl2WTlwOFZRQ2liSy1GVHVIcHdjZFRBNjd4SkloWXp2bGtBT1N4ajhTd1lFWDc3d1NyWGpqbk91cXlxTE04VzRBSWRuMndRNkJzcUV2QWUzSXpGdnlhOGJXeFA3Y2RiLW92SzZvWW5mbEFxaUxvdTJSOVNaUGZ1NnpoQWVTNG9VTVdGSjNTQXJuODJVQS1PUE9tUEtiUG9Xcm8tQkJ2QUFlWjFiM3NwOWpjQjR5Qy1vZnlVdzIzY3A4UkxteG9lNUs2TlFZSTk0YUU?oc=5"
+    },
+    {
+      "title": "美股全面承壓、台股重挫1600逾點！原因非通膨？專家這樣說 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNTFIyay1Rakw4VlFpVERCYjc2SGdfanhkMXBPSDRya2h1WkRkTHpRdU5tRjFoNkgyblZRZmRrbFd6X3Zjb01sSm9tTkR2ZUFhSEw2Y25IOVlTX0pxN29xd05wbFlDMEwzTDFhRjhqZE9OYVIxY2k4TWlfYnc4bFRzYV9ST3BsblRObVJzSkhMRGl1b21uQ3FYZEU0QkUtREpjX0VYanBSQngwR19WQ2plUmhmTXBzRnFjQXpGVENqU21Ob2VPR2tOei1HSVFPei1uc1o5T0FNd2tMcGw2a08yMFhwTzE1QmdHY21wUk41TFNBektvdEhzenlSc1ZERE5Sd1JlQ1l1d0piaU13dFRRcUEyQWJ1LVV4djFoRXRKRWdvM01sVzBQV2FnVy12TzJyX3pXV0FIaVhHVnN5dFUtSHlSQy13ZWNOSlBNUlNPUjRFSDhkNEpRdGhValVoRGstSGI2Qg?oc=5"
+    },
+    {
+      "title": "美國通膨數據超出預期！美股收黑「那指、費半」齊跌超過500點記憶體股下殺、台指期夜盤失守48K - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPWnhsZkU5UC15LVlBZzVjYXAzWEZmeDF6SGVDQ3hvX1YxeHB3T1ZDVENWWEswS1Bza0ExUWpYZFQ2eGxCVWR1VTZLVExMT182OGVmT1hRbmZ2WXFxdGZyZEVkU19Rc3hWbE1KLWxaYU1OV1o3ZTc5MGFDOEFvbHJHajBnMjNBcW5oTVpGLTVDOHpPclRzS3NBSGNpUHZUS3BtcGEzZ0syQ2l4b2dqOHZVZXRZM1ZXMzdqa2FkZnBWTWk0Q2FiUGtvTnJHRlcwTXBEMUJqSnhoMXlPNm9lWW5TaVpjR19aOWxLZnRaV2NYV1E2MG5GeVFMbEZRZEJScE1rYzNaUlpWbklvcm8zMzR3NG1Ua2d2Yk5kaGhXZjVGamNhZ0lXLW5hUlFqamhvVFlDV2xPbWg5T3BYZmF4UUNkNDZyYnhJOHN3bUQyMmprb2Vrb2hRRVJKYTdpUFFQSGtGZm9fLTZHR1VpaDloaHRkaHU2SmczQnhq?oc=5"
     }
   ]
 }
