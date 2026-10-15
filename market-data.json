@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/15 08:46",
+  "updated_tw": "10/15 13:34",
   "taiwan": {
     "2330": {
-      "price": 2490.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 2445.0,
+      "change": -45.0,
+      "changePercent": -1.8072
     },
     "2454": {
-      "price": 4475.0,
-      "change": -50.0,
-      "changePercent": -1.105
+      "price": 4210.0,
+      "change": -265.0,
+      "changePercent": -5.9218
     },
     "2317": {
-      "price": 243.0,
-      "change": 3.0,
-      "changePercent": 1.25
+      "price": 239.5,
+      "change": -3.5,
+      "changePercent": -1.4403
     },
     "0050": {
-      "price": 113.0,
-      "change": -1.8,
-      "changePercent": -1.5679
+      "price": 109.1,
+      "change": -3.3,
+      "changePercent": -2.9359
     },
     "00878": {
-      "price": 35.47,
-      "change": 0.23,
-      "changePercent": 0.6527
+      "price": 35.16,
+      "change": -0.18,
+      "changePercent": -0.5093
     },
     "00919": {
-      "price": 32.49,
-      "change": 0.26,
-      "changePercent": 0.8067
+      "price": 32.41,
+      "change": 0.01,
+      "changePercent": 0.0309
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81414.92,
-      "change": -1680.205,
-      "changePercent": -2.022
+      "price": 80923.94,
+      "change": -2171.185,
+      "changePercent": -2.6129
     },
     "ETH": {
-      "price": 2415.38,
-      "change": -81.2455,
-      "changePercent": -3.2542
+      "price": 2356.33,
+      "change": -140.2955,
+      "changePercent": -5.6194
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.182,
-      "change": 0.077,
-      "changePercent": 0.2398
+      "price": 32.378,
+      "change": 0.273,
+      "changePercent": 0.8503
     },
     "JPYTWD": {
-      "price": 0.2017,
-      "change": -0.0011,
-      "changePercent": -0.5262
+      "price": 0.2027,
+      "change": -0.0001,
+      "changePercent": -0.033
     },
     "EURTWD": {
-      "price": 36.077,
-      "change": 0.1111,
-      "changePercent": 0.3088
+      "price": 36.341,
+      "change": 0.3751,
+      "changePercent": 1.0428
     },
     "CNYTWD": {
-      "price": 4.8085,
+      "price": 4.8445,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4162.9,
-    "twd": 4307.0,
-    "tael": 161522.0,
-    "twdTotal": 133970.0,
-    "changePercent": -0.3447
+    "usd": 4162.5,
+    "twd": 4333.0,
+    "tael": 162490.0,
+    "twdTotal": 134773.0,
+    "changePercent": 1.3291
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,32 +117,32 @@
   },
   "news": [
     {
-      "title": "美股收盤／通膨掀 AI 股賣壓 費半重挫4.3% 美股創7月來最重跌幅 | 美股動態 | 國際 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aUElYWVI4bHpXNTM5VGVMMWhCU29KMFo5LUhBeWpNclhlTFpDZHBPSVhmU2stMW9ScWM2Y1hqS2dGdWkzUkVUWWRUYkFMR1FmbUxYN0NJMGphN1Ju?oc=5"
+      "title": "美股收盤／通膨掀 AI 股賣壓 費半重挫4.3% 美股創7月來最重跌幅 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aUElYWVI4bHpXNTM5VGVMMWhCU29KMFo5LUhBeWpNclhlTFpDZHBPSVhmU2stMW9ScWM2Y1hqS2dGdWkzUkVUWWRUYkFMR1FmbUxYN0NJMGphN1Ju0gFiQVVfeXFMTVFRdzVNQjBpb2xUTlFSQWZpSUJjamhUX3VCSFVzaDhfWnI2NUtlNVZESWNTaGtYcUNuZlJYNmZqVC1jWWNMeWdtUkx2cklINUtyVjhsaUdLZXdBRFZHZTlubHc?oc=5"
     },
     {
       "title": "美國通膨數據超出預期！美股收黑「那指、費半」齊跌超過500點記憶體股下殺、台指期夜盤失守48K - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPWnhsZkU5UC15LVlBZzVjYXAzWEZmeDF6SGVDQ3hvX1YxeHB3T1ZDVENWWEswS1Bza0ExUWpYZFQ2eGxCVWR1VTZLVExMT182OGVmT1hRbmZ2WXFxdGZyZEVkU19Rc3hWbE1KLWxaYU1OV1o3ZTc5MGFDOEFvbHJHajBnMjNBcW5oTVpGLTVDOHpPclRzS3NBSGNpUHZUS3BtcGEzZ0syQ2l4b2dqOHZVZXRZM1ZXMzdqa2FkZnBWTWk0Q2FiUGtvTnJHRlcwTXBEMUJqSnhoMXlPNm9lWW5TaVpjR19aOWxLZnRaV2NYV1E2MG5GeVFMbEZRZEJScE1rYzNaUlpWbklvcm8zMzR3NG1Ua2d2Yk5kaGhXZjVGamNhZ0lXLW5hUlFqamhvVFlDV2xPbWg5T3BYZmF4UUNkNDZyYnhJOHN3bUQyMmprb2Vrb2hRRVJKYTdpUFFQSGtGZm9fLTZHR1VpaDloaHRkaHU2SmczQnhq?oc=5"
     },
     {
+      "title": "黃金好慘！已連跌3天 「這貴金屬」直接崩盤 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DSmpOR0RGdjRlZU50dDF4MXpOYXNWbmxZWndVdldsbnRjT21sUnM1WF84RjlNU0U3eVFvMkQtS2lYUzlveWV3SzFOSEFlcTNjUmlMSXpVdWgtTDl5ZkZR0gFkQVVfeXFMTWR6bGkzQ05PcE9mNlB4WjNOeEFuZVRkLTVtckFlTkx1RTUtd01BNXVmaVdTVndocmJqQVRQb3JZT2g0bTI5ZG51eTg4WmxqUW1zdFVmcm9kYllSb08wRVdWZXRxYQ?oc=5"
+    },
+    {
       "title": "〈美股盤後〉美CPI升溫、AI融資疑慮夾擊 費半重摔超4% 台積電ADR跌逾3% - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQUURrM0wzZDBQbVZkR0RZM2ZJT1JBd3JodWJ5RFJXenhjN0NUZEY2a0loRXppWjhBZG8wOEVJNjZBODN4Sm90dGg2WDhkMGs?oc=5"
     },
     {
-      "title": "美股收盤》通膨引升息疑慮！費半跌4.3％、台積電ADR下殺3.4％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42dGFBZE5FWFlXS1p0bFgzZU5keS1jMVZTMHZSUUxTOUN3bHRuM01rQkNrdy1CU1MzNWxpMWZXU2VIbC03RHFLRzA5SHZVMXRJRzBPUS1uZ3BCQlpNc0Ew0gFkQVVfeXFMTmlYd0c0M3F2Y1NaMHgyVmtoTnNnTnc0LW5sdWFGS2p4UG0wYzNqWHBqc19ESTZOZTFmYnlMb0hwaVFlNzNPY1Y5QVBheUtNc3lJbVBpVHBFNWdTcGwzMl9wZDF3SQ?oc=5"
-    },
-    {
-      "title": "美國通膨超預期 美股承壓、那斯達克跌0.7％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wbmR3Vm96RjJQTzEwNXN1ZTdLS3RjOXdsallTNkRZZ0xEX1JYOGVEM2dDZ3JocU5LYXBDRWhTN0lEYnhXLXVBMHRxV25LVWxqX3dDeDJWT0ttYlU1QkFR?oc=5"
-    },
-    {
-      "title": "美股高檔迎三大變數 基本面與升息壓力拉鋸 - CME Group",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd1lqWGhPd2w2cUw5VHlBaXdIQWd3Sk4zMXRGRHFBb2stdlBOTXE3bENKQmEybG5lM18xVnBLSVZjLXIwOFJkMEdKN3VLVXFVbFFTWGRqTXB1ZTl6LUYzbG84M2tYQ1lnX1NLc0p3OVVFdmdrcm9IekpTZFdsZUE?oc=5"
-    },
-    {
       "title": "通膨走強、AI股遭拋售 美股那指及費半重摔 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOSUdkaEl3cjltYjNfQ0pWcHQtNGwzWHlZMmh5Z3RkSG1SdGxVTjlUTHd6TXFyUTZwWUZfOTFPbFF2eHQ4MVVDQjd3Q19HcGxSZHB0N2RJb1JmWU81aWtrUVdnRG5qT3NjRTAzQ0dGZHNaekRfTzh6aHdfWmJJaXVyLUVrZ0ttbFJEZEoxMmN3Ulo2NGJ1bGJqc2dsSXQ4MS1mSlRlbHZUMWF6SUtZUURURUVwTGIydkplMHZTdnRlRjV0TWdmYThfVEtUcENlT09PdGtBVnByV3NBWVBOMmVxUDdaZ0d3YzZEWEMzTkw0dlZKT2RrZlBhTUtqM3lXak9pRGdNTFR2UjRMV3pydkV4SG9TeUc5ZnVmUlNtV0g5MGFoVVFS?oc=5"
+    },
+    {
+      "title": "「川普會讓美股跌整年？」傳奇操盤手預告放空2027年 網不買單 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BQUNvTFRfZF84TENXWllvZjlsdGZTU2c2NzdPdTV0ZVJQTHVzTm9xaUxIQ0NRY256cDYtYjNLVWRCQmx6Mm1Wb0p5T2dXVm80N1HSAVdBVV95cUxPVmIxMzRjV3hEUmpkSHRXcVY5VmJCWUtZbTFrekNlMmJkd0E0OXNZTzEtZVNfTkhjZnppQlF1TXpUbWJjTTlqSHpITmdNRV9Zcm9YN0VwVUk?oc=5"
+    },
+    {
+      "title": "美股收盤》通膨引升息疑慮！費半跌4.3％、台積電ADR下殺3.4％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42dGFBZE5FWFlXS1p0bFgzZU5keS1jMVZTMHZSUUxTOUN3bHRuM01rQkNrdy1CU1MzNWxpMWZXU2VIbC03RHFLRzA5SHZVMXRJRzBPUS1uZ3BCQlpNc0Ew0gFkQVVfeXFMTmlYd0c0M3F2Y1NaMHgyVmtoTnNnTnc0LW5sdWFGS2p4UG0wYzNqWHBqc19ESTZOZTFmYnlMb0hwaVFlNzNPY1Y5QVBheUtNc3lJbVBpVHBFNWdTcGwzMl9wZDF3SQ?oc=5"
     },
     {
       "title": "〈美股早盤〉Fed升息疑慮壓境！主要指數漲跌互現 美元創逾一年新高 - 鉅亨網",
