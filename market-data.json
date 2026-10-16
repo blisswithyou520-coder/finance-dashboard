@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/16 08:34",
+  "updated_tw": "10/16 13:01",
   "taiwan": {
     "2330": {
-      "price": 2440.0,
-      "change": -50.0,
-      "changePercent": -2.008
+      "price": 2435.0,
+      "change": -5.0,
+      "changePercent": -0.2049
     },
     "2454": {
-      "price": 4165.0,
-      "change": -310.0,
-      "changePercent": -6.9274
+      "price": 4280.0,
+      "change": 115.0,
+      "changePercent": 2.7611
     },
     "2317": {
-      "price": 239.5,
-      "change": -3.5,
-      "changePercent": -1.4403
+      "price": 246.0,
+      "change": 6.5,
+      "changePercent": 2.714
     },
     "0050": {
-      "price": 108.9,
-      "change": -3.5,
-      "changePercent": -3.1139
+      "price": 109.3,
+      "change": -3.7,
+      "changePercent": -3.2743
     },
     "00878": {
-      "price": 35.09,
-      "change": -0.25,
-      "changePercent": -0.7074
+      "price": 35.54,
+      "change": 0.07,
+      "changePercent": 0.1973
     },
     "00919": {
-      "price": 32.38,
-      "change": -0.02,
-      "changePercent": -0.0617
+      "price": 32.78,
+      "change": 0.29,
+      "changePercent": 0.8926
     }
   },
   "us": {
@@ -72,50 +72,54 @@
   },
   "crypto": {
     "BTC": {
-      "price": 82216.94,
-      "change": 654.4478,
-      "changePercent": 0.8024
+      "price": 82235.03,
+      "change": 672.5378,
+      "changePercent": 0.8246
     },
     "ETH": {
-      "price": 2437.33,
-      "change": 19.123,
-      "changePercent": 0.7908
+      "price": 2448.82,
+      "change": 30.613,
+      "changePercent": 1.2659
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.33,
-      "change": 0.1401,
-      "changePercent": 0.4352
+      "price": 32.447,
+      "change": 0.2571,
+      "changePercent": 0.7987
     },
     "JPYTWD": {
-      "price": 0.2021,
-      "change": -0.0017,
-      "changePercent": -0.8225
+      "price": 0.2033,
+      "change": -0.0005,
+      "changePercent": -0.2336
     },
     "EURTWD": {
-      "price": 36.268,
-      "change": 0.2324,
-      "changePercent": 0.6449
+      "price": 36.467,
+      "change": 0.4314,
+      "changePercent": 1.1971
     },
     "CNYTWD": {
-      "price": 4.8332,
+      "price": 4.8565,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4176.4,
-    "twd": 4341.0,
-    "tael": 162791.0,
-    "twdTotal": 135023.0,
-    "changePercent": 1.6675
+    "usd": 4195.3,
+    "twd": 4377.0,
+    "tael": 164119.0,
+    "twdTotal": 136125.0,
+    "changePercent": 0.6043
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "黃金終於漲了！連3黑後低點強彈 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xV0I1ZjlwRzd1V0dUTUJCNTc1RFliVC1VNzF5T19NRTRmQ1FRb3FaLUExV09TV0MyTzNicDZmbVZZeWNCRXNVeTNvcEZ4QzRmb24tQzBXTU01dU1ubGJN0gFkQVVfeXFMT2psWDZYWjNmUkZoUkxIcmQ4Vmo5MDRwNGFCbXFTbTBlby1YZWxyNzBZWGFRSUpHRy01d0d5aC0zdEJUdGNyY0tqYUQ0WFhGWVJDandVTDBlOU1oZXltQllFZ21VYQ?oc=5"
+    },
     {
       "title": "AI擔憂促使資金輪動！美股三大指數反彈收紅 台指期夜盤強彈435點 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOaUd4RE1pQ18ySy1jTEFFUG1GOHR5REtwNWpRS0Z4R28tcDU4dEdpZ3hMOXEwXzZrRlRzSWtocTc4d0VKaVl3VzEzeGE2R2s5ZkxGNjdQU0NRS0k4YTdFOE9oY3pPaTVKbVNRdjR2clBENnYzMXJmM1E1aFcySWl0VGtTX19vdmJIVnpJYS16WEdLUE9ycEV5ekJpdGlvVkcxeVUxdDJMZzhiZ1lLZk1GakV0MDFuZVdfUmZET0VJekh0Q0dZeThhR3lrM0ZUSlVmU1A2TmRCTGlNX2pLaXVEUGIxUDNQUTdxQXl1b3Q0MnBWempoVWhNajBBOGJJWGJMVFZIbTViMktHQTRNZjdUSy1na3NSMzR4c0FZczJZTGxYTlh4azdxcUZoZXFqeGdSVDgwdlZOZ3BQUUFLMGJLRUh6V1pLMlpFREJGMmlsZVM4elBTYk16T0hodVA1Zlhzc0pQMUkwZ0lmZGJaT24zUWM2TXNBSEpDRGpPcDVOZXFqaksyakxiU051YlNOTHp5TEF6dzk1ZjVHM2tf?oc=5"
@@ -125,24 +129,20 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uUFFJdjN6T3V1cGxHaDhERXJSc3BxeFAxbXF0UWJsWWdCbnZaQmdxSW93eG9lbTNBLWVzQXByR0dwdFJXUHZZR0pONC11U1E?oc=5"
     },
     {
-      "title": "投資人轉向AI以外標的　美股道瓊終場漲逾500點 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vSHBtV0Nrc0s0c181V1JDNHQtRFN2RlVWMlNmcnI3Q2hnX3JPUTYwOGF1c2VHYzIwcnRfd3BfcHZIbGZmT2p4OGc1ZkRpTU43LVVSbThXak1rWkpBN2VN0gFkQVVfeXFMTVVpaHR2Z05NZzdRNkJPLXNZMnJJMlFzeXVPcUkzLUtudkhCNXNqdmJYSXJ1SjRoMFJfYzNOS1NKZXhYR2s5V1lwMnRCdmoyNHVYUzV2aHJ0ajFjdHBrM0p3QlhjeQ?oc=5"
+      "title": "快訊／美股科技股賣壓持續！費半下殺破400點　台積電ADR也跌4.63% - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFQ25yX3c4bmIxZ1dBd0hrM284YU9hbFIwdmk1RHBPT0xGSGJwWU8xbHNWR25Wb1dLZXNUdG5WWktxNkRDX0J2cFo1YnowUDZ4T0HSAVBBVV95cUxQOEJsTC1HTGNnWWxxcElPYnBPS3hYbThaTFQzbFpKSmtRdmNoaFN0cmVCbVZGZEkxUU1DUW0wN1FUUEJCRFh4TVhZbzFwaGJFRA?oc=5"
     },
     {
       "title": "美股早盤／科技股續跌 道瓊漲234點 台積電 ADR 大跌4% - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxZE96LTIzak9jaC04MldrSDg1eDdaY3pjZWJ6SmVXZHk4NjNfUFFFQm84anFxRFd6UWVYcVZPVElaQ1Q0UHNwSkM0ZFZWUFRHMTBlN0RCMjZXSXM00gFiQVVfeXFMT2JxNEpZVHNMYTkyQ1hTYWV6cGxIUTFfN096SjEtV2JFVkE4TjdpbkpSaGE5RzhDRkdKbVJ5T21PVUFsRlJWZ1FYb3F5NF85cGNkRTZFeVlLMlpyTnBfSEt5QVE?oc=5"
     },
     {
-      "title": "快訊／美股科技股賣壓持續！費半下殺破400點　台積電ADR也跌4.63% - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFQ25yX3c4bmIxZ1dBd0hrM284YU9hbFIwdmk1RHBPT0xGSGJwWU8xbHNWR25Wb1dLZXNUdG5WWktxNkRDX0J2cFo1YnowUDZ4T0HSAVBBVV95cUxQOEJsTC1HTGNnWWxxcElPYnBPS3hYbThaTFQzbFpKSmtRdmNoaFN0cmVCbVZGZEkxUU1DUW0wN1FUUEJCRFh4TVhZbzFwaGJFRA?oc=5"
+      "title": "【Hot台股】台股絕地反彈500點後消風...網歎「又套一批新鮮韭菜」 分析師：別輕易追高 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOQ3hXMmxsbjZ1Wk5zcklNUkVvMEhVQlpqTl8tRmRoa3FPbFYydGtlR296a2s0anVZR09WR1dvRHVjYzlVSWJDSWFnZFh1LUNYSU1UbXRyZTczcEhNWHF0RWkxNEFla2hVbm9qNVNLZHJvZksweC11amhsVXptOFBIbGFCN1phbkg1UHFDWFRkRlFDV2FuUTVlbUFYNlpMSFpES1NMUWRPRUtwQ25vbzh0bXQ3M3ZYdG1KX2dLSjliX1dXR2lsQURNMUR5UG5DNUNSc3Y5YjlVRVZKSmtJMG8xQUhTdFVEOGZKdXBJd0d2RUx3c3NiSFNySHdqay0xXzdyT0kybllIWVljQ244OXhJZk52Ymoyd2JqMVRBTEpCalZGcVd3dW44SVBxdHBBRmU3a3dURFpwTExXMzdpcWFlWFU4d1VKQlgwd3ZFa1dXdHE4cnFjeDlqcVRoV2pTVnpiOE5nTGVhbkJfMnhYQ21rQmdUWGZRYUQ3V1pMa0R5NjVHX1J1WXJwcnVtelhOandDOFNWcVVJbDJ5ekxTdXgtSHg0RnplYnVEajZ4eEVvT0h5MXVJeEpDd2E3TFBaMkRWR0I1SlBWdDJyVWZ4TXJlSXMzUW82WWk0ZldEUVdBMXZuNjBSQVZmRTBMNzRDblBXaHctcHM3eVZJWExjM29NOEtwbFZDa2tj?oc=5"
     },
     {
-      "title": "投資人轉向AI以外標的！美股道瓊漲556點、費半連7跌 台積電ADR跌1.8% - Newtalk新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHbnB3RlZ3d2FINlpSWE56TFJzLXdhN1JHdEk1RHZ5SmdyZlNQaTVURGZsSHktenhHdUlBcVlyMTBxTnIzUnM4clR1SzZjQkgtRWR3eGFCLU9ISmM?oc=5"
-    },
-    {
-      "title": "《貴金屬》美元指數下跌 COMEX黃金上漲1.5% - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdTdfSndKYzM5dWtVdHlRVEdRT3h6SjNpYUxvVTJZVFJFU1k0bVVnWU9rTnRmR3VTbjhCRWtQbnFjS2doZWRxbm9pTkFob0ZlMVA5d1R1TXFoSmRQWjFnZFROaE9oVm0wNHloZmRRZ2VUcmFhaXl3cUdlcDlyQmdwRFR5RXE0WkpfcTRjREVZb2E1QQ?oc=5"
+      "title": "〈美股盤後〉美CPI升溫、AI融資疑慮夾擊 費半重摔超4% 台積電ADR跌逾3% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQUURrM0wzZDBQbVZkR0RZM2ZJT1JBd3JodWJ5RFJXenhjN0NUZEY2a0loRXppWjhBZG8wOEVJNjZBODN4Sm90dGg2WDhkMGs?oc=5"
     },
     {
       "title": "美股收盤》道瓊上漲556點！費半連7黑 台積電ADR跌近2％ - 自由財經",
