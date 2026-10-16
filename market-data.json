@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/17 02:22",
+  "updated_tw": "10/17 05:30",
   "taiwan": {
     "2330": {
       "price": 2420.0,
-      "change": -70.0,
-      "changePercent": -2.8112
+      "change": -20.0,
+      "changePercent": -0.8197
     },
     "2454": {
       "price": 4250.0,
-      "change": -225.0,
-      "changePercent": -5.0279
+      "change": 85.0,
+      "changePercent": 2.0408
     },
     "2317": {
       "price": 244.0,
-      "change": 1.0,
-      "changePercent": 0.4115
+      "change": 4.5,
+      "changePercent": 1.8789
     },
     "0050": {
       "price": 109.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 214.43,
-      "change": -2.8,
-      "changePercent": -1.289
+      "price": 214.13,
+      "change": -3.1,
+      "changePercent": -1.4271
     },
     "AAPL": {
-      "price": 341.765,
-      "change": -0.235,
-      "changePercent": -0.0687
+      "price": 343.46,
+      "change": 1.46,
+      "changePercent": 0.4269
     },
     "TSLA": {
-      "price": 351.515,
-      "change": -10.925,
-      "changePercent": -3.0143
+      "price": 354.72,
+      "change": -7.72,
+      "changePercent": -2.13
     },
     "QQQ": {
-      "price": 710.37,
-      "change": -17.63,
-      "changePercent": -2.4217
+      "price": 709.8,
+      "change": -18.2,
+      "changePercent": -2.5
     },
     "SPY": {
-      "price": 762.14,
-      "change": -9.65,
-      "changePercent": -1.2503
+      "price": 763.25,
+      "change": -8.54,
+      "changePercent": -1.1065
     },
     "SCHD": {
-      "price": 34.265,
-      "change": 0.165,
-      "changePercent": 0.4839
+      "price": 34.35,
+      "change": 0.25,
+      "changePercent": 0.7331
     },
     "VOO": {
-      "price": 700.56,
-      "change": -8.87,
-      "changePercent": -1.2503
+      "price": 701.61,
+      "change": -7.82,
+      "changePercent": -1.1023
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81133.59,
-      "change": -1007.8709,
-      "changePercent": -1.227
+      "price": 81618.82,
+      "change": -522.6409,
+      "changePercent": -0.6363
     },
     "ETH": {
-      "price": 2408.34,
-      "change": -32.14,
-      "changePercent": -1.317
+      "price": 2416.4,
+      "change": -24.08,
+      "changePercent": -0.9867
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.418,
-      "change": 0.2281,
-      "changePercent": 0.7086
+      "price": 32.428,
+      "change": 0.1011,
+      "changePercent": 0.3127
     },
     "JPYTWD": {
-      "price": 0.203,
-      "change": -0.0008,
-      "changePercent": -0.3808
+      "price": 0.2031,
+      "change": -0.0013,
+      "changePercent": -0.6409
     },
     "EURTWD": {
-      "price": 36.447,
-      "change": 0.4114,
-      "changePercent": 1.1416
+      "price": 36.493,
+      "change": 0.2448,
+      "changePercent": 0.6753
     },
     "CNYTWD": {
-      "price": 4.8557,
+      "price": 4.857,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4184.0,
-    "twd": 4361.0,
-    "tael": 163531.0,
-    "twdTotal": 135637.0,
-    "changePercent": 0.3333
+    "usd": 4186.7,
+    "twd": 4365.0,
+    "tael": 163687.0,
+    "twdTotal": 135766.0,
+    "changePercent": 0.3981
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -137,16 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVWxfdGdxX0tXODZEQ1l4T1VYMGlxRExITlJxQ3ExLXpybjlTdTJhSFZZY25WX1E4NVNQMXNnTlhkelNZdzJqdTYyVTJHakQwS3FTMlExRXJHM3RjWEs1TWZBemdrNmluOGR0bWtQVkxYQTRtMHotSHFwSHJwbDVtaVRDWjlhRC1vaEFIQTh4cw?oc=5"
     },
     {
-      "title": "〈美股盤後〉黃仁勳力挺CoreWeave 道瓊勁揚556點 台積電ADR跌近2% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uUFFJdjN6T3V1cGxHaDhERXJSc3BxeFAxbXF0UWJsWWdCbnZaQmdxSW93eG9lbTNBLWVzQXByR0dwdFJXUHZZR0pONC11U1E?oc=5"
-    },
-    {
       "title": "【美股盤前】聯準會華許曼谷爐邊談話 3大亮點一次看 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQRTBFbGd4TTlBVkx1SC0yOFp1Y3kyNU5JRHFReW4xX2wzYmlQblM5RXZPcERTanF2aldsR0t3TnYyWGVBb1pZQTE0dGRQS3NrTHJfdzVPT0d6a0paWWk0RU1DRWVrbGNkdkh3WUJYa2pRZmo0cGNkR0FCY2V4bEtEekVZT1AzREprLTZtakNXME8yM19TcTJFNjlkNkJJWHBJWFJBOUQ0bzMtQ3dtdmk4dm1IY2RwS2gwM09IeEdDcGZBcnZBU0E4c0pLYll1c1ZYMkdQTXE0cFFXOEtoZWFXbC1nRHQtSzAyb1JnUzhqMUJxa1BlYkZnTHJHR1I2M1BDNU5Penh1V3h0TUFNa0s4ZTQ5b0hJZ0tYeWg2STNkMXdxQXNfT01WLXEyZWVMVDVnQ1VBQUpScTVTWk9aWjFmOXBRRnd4N3Fu?oc=5"
     },
     {
       "title": "黃金終於漲了！連3黑後低點強彈 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xV0I1ZjlwRzd1V0dUTUJCNTc1RFliVC1VNzF5T19NRTRmQ1FRb3FaLUExV09TV0MyTzNicDZmbVZZeWNCRXNVeTNvcEZ4QzRmb24tQzBXTU01dU1ubGJN0gFkQVVfeXFMT2psWDZYWjNmUkZoUkxIcmQ4Vmo5MDRwNGFCbXFTbTBlby1YZWxyNzBZWGFRSUpHRy01d0d5aC0zdEJUdGNyY0tqYUQ0WFhGWVJDandVTDBlOU1oZXltQllFZ21VYQ?oc=5"
+    },
+    {
+      "title": "「別擔心沒發生的事！」分析師看好台股中短期爆發力 不必杞人憂天 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LLVRFWUtDaG8tUENxTGZITU1uZUUtNkV5akg2MElkaGF4cXpVX09kZDlZbi1aUVYwOUhOU0N5QUJ3TTZYWTY2QlpMNnJYU2JlYlZJQ2pFVkowYWRY0gFiQVVfeXFMUEVtUkJNTV85R2VFZlpwczM1MkNTQzJKWnVoRjBLNWVybHlzZVlpQS13VGJXYVpnNmxqMkpDUjBsRU15a3gzamdWclZYXy1mSmlLeXdrcng5R1NucmR5M2xyaWc?oc=5"
     }
   ]
 }
