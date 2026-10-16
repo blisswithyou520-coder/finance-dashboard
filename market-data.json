@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/16 17:48",
+  "updated_tw": "10/16 22:32",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -35,87 +35,95 @@
   },
   "us": {
     "NVDA": {
-      "price": 217.23,
-      "change": -4.07,
-      "changePercent": -1.8391
+      "price": 217.815,
+      "change": 0.585,
+      "changePercent": 0.2693
     },
     "AAPL": {
-      "price": 342.0,
-      "change": -0.96,
-      "changePercent": -0.2799
+      "price": 344.785,
+      "change": 2.785,
+      "changePercent": 0.8143
     },
     "TSLA": {
-      "price": 362.44,
-      "change": -4.72,
-      "changePercent": -1.2855
+      "price": 363.94,
+      "change": 1.5,
+      "changePercent": 0.4139
     },
     "QQQ": {
-      "price": 728.0,
-      "change": -0.95,
-      "changePercent": -0.1303
+      "price": 721.225,
+      "change": -6.775,
+      "changePercent": -0.9306
     },
     "SPY": {
-      "price": 771.79,
-      "change": 2.19,
-      "changePercent": 0.2846
+      "price": 771.3,
+      "change": -0.49,
+      "changePercent": -0.0635
     },
     "SCHD": {
-      "price": 34.1,
-      "change": 0.39,
-      "changePercent": 1.1569
+      "price": 34.396,
+      "change": 0.296,
+      "changePercent": 0.868
     },
     "VOO": {
-      "price": 709.43,
-      "change": 2.0,
-      "changePercent": 0.2827
+      "price": 708.98,
+      "change": -0.45,
+      "changePercent": -0.0634
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82015.04,
-      "change": -126.4209,
-      "changePercent": -0.1539
+      "price": 82336.28,
+      "change": 194.8191,
+      "changePercent": 0.2372
     },
     "ETH": {
-      "price": 2449.26,
-      "change": 8.78,
-      "changePercent": 0.3598
+      "price": 2474.38,
+      "change": 33.9,
+      "changePercent": 1.3891
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.348,
-      "change": 0.1581,
-      "changePercent": 0.4911
+      "price": 32.395,
+      "change": 0.2051,
+      "changePercent": 0.6372
     },
     "JPYTWD": {
-      "price": 0.2027,
-      "change": -0.0011,
-      "changePercent": -0.528
+      "price": 0.2031,
+      "change": -0.0007,
+      "changePercent": -0.3317
     },
     "EURTWD": {
-      "price": 36.455,
-      "change": 0.4194,
-      "changePercent": 1.1638
+      "price": 36.492,
+      "change": 0.4564,
+      "changePercent": 1.2665
     },
     "CNYTWD": {
-      "price": 4.8459,
+      "price": 4.8469,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4203.0,
-    "twd": 4371.0,
-    "tael": 163919.0,
-    "twdTotal": 135959.0,
-    "changePercent": 0.7889
+    "usd": 4215.1,
+    "twd": 4390.0,
+    "tael": 164630.0,
+    "twdTotal": 136548.0,
+    "changePercent": 1.0791
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "美股早盤／科技股賣壓重、費半跌逾2% 特斯拉靠飛天車逆勢漲| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MYmxONjA0dHZIU0poUUNjZzY4YTlvVS11OFZ5bDZHdHFCZ3cteWN2QVUtUnhKU3pWekRIbWdzNTE2M2RTVldvcHhMLVVaLWVT?oc=5"
+    },
+    {
+      "title": "台股重新站回47000點 外資賣超台幣走弱收32.3元 - 你的公共電視",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OUUVOUTMxdWNzMGRzamptYldaQUZEZkppek1iZTBCNWhWeUVqbmlvYWtGeWFFQXFWRDFhdk9zeEVqM0Y4NFZXZVM5dUN0LWM?oc=5"
+    },
     {
       "title": "黃金終於漲了！連3黑後低點強彈 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xV0I1ZjlwRzd1V0dUTUJCNTc1RFliVC1VNzF5T19NRTRmQ1FRb3FaLUExV09TV0MyTzNicDZmbVZZeWNCRXNVeTNvcEZ4QzRmb24tQzBXTU01dU1ubGJN0gFkQVVfeXFMT2psWDZYWjNmUkZoUkxIcmQ4Vmo5MDRwNGFCbXFTbTBlby1YZWxyNzBZWGFRSUpHRy01d0d5aC0zdEJUdGNyY0tqYUQ0WFhGWVJDandVTDBlOU1oZXltQllFZ21VYQ?oc=5"
@@ -129,24 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uUFFJdjN6T3V1cGxHaDhERXJSc3BxeFAxbXF0UWJsWWdCbnZaQmdxSW93eG9lbTNBLWVzQXByR0dwdFJXUHZZR0pONC11U1E?oc=5"
     },
     {
-      "title": "台股早盤重回4萬7關卡 美聯準會與IMF對談恐影響走勢 - 你的公共電視",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DendXOVYxaUpzWFdVa09vMzV1cVFFZFR1WlpSRkhZX2xZakp1TVUxc2JjZzhlaE9TdnhMTXk2OTVOYXVCaGRYMjJVTEZ6QUk?oc=5"
+      "title": "傑富瑞：美股年末行情可期，眼下回調或是難得建倉窗口 - 群益期貨",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVWxfdGdxX0tXODZEQ1l4T1VYMGlxRExITlJxQ3ExLXpybjlTdTJhSFZZY25WX1E4NVNQMXNnTlhkelNZdzJqdTYyVTJHakQwS3FTMlExRXJHM3RjWEs1TWZBemdrNmluOGR0bWtQVkxYQTRtMHotSHFwSHJwbDVtaVRDWjlhRC1vaEFIQTh4cw?oc=5"
     },
     {
-      "title": "散戶與外資對作！149萬螞蟻雄兵扮「第四法人」你丟我撿相挺台股 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQTmxkYkRlMGp2eHJRMkNrSXRZalRzcGM4SDhZVks1TzhJWmp1RzNVOUhxb1dxOUpiekFOS0E2eG50NWx3ZkdLNGFXOHJmOGhvN08xNXFoQ3VReldYRm42QkNqTW5kOU5HaGlkS0NQRDFNX2Y5YXl5SURTVDJiMnJGTWRROVM3U2RkaDI4WTBaaGM4bG1iMTVxbl9PMUg2TzZOd0c4SkkydlZpb1FCeFd2VUkyVUozQUhhQ2xfeG9zanZlT0N4ODZsbU9GbmZyNUlwWjR4clc3dDh4ZHdibHBlVzhVeWFmODhPSzFpOFdmLWxScmo1QXVBbjIxNFVlZXNFWUdDZGNncFB6aC1ZZDJZa1Y3XzN4YWFEcDFISUlHcUFPeXI2c1NkeHRIb2FEdVoweHlfb1AtUHd6OUR1RHhGcVRBbkZGZkJEOTVXc01mZVRrX29wV19GOWlKcTM4bUpFRktxanJEOWtnYXF5TlJNd0pRUGV1SU50ZnlFWnVlXzVMWUxoS0l5eTl6RmEzQ1hBZUVKTjlZS1FpdXp0Q0N2QVZUdWVEblBQb2t0MVk0bw?oc=5"
+      "title": "比特幣重返 8.2 萬美元，ETH 卻漲得更猛！單日反彈近 4% 、漲幅逾 BTC 三倍 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPak1sRjczNHloZ2FwMGVicXd2MkFNOE9DZVBsWWdNVVhadWNLRHQ1TmItQi03VDRNbG9RTVRGcGlmdWhPZ3lLbkF5bTIwTmZ3bFdTb1ZJWnM0cVhyZnJiSWJ6ZHA1SlAtNkdEUTFJei02R2NjcEswY2E5eXpfMUpRT3pkUHZHNjF1YTBqb2FR?oc=5"
     },
     {
-      "title": "美股收盤》道瓊上漲556點！費半連7黑 台積電ADR跌近2％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfTGtpWGJxdHlrQXU5M2ZPZzdlcmFFUUItNUsxTV8yVlJJZ2RXa1I0c1NPWW5CVm8yblE5MWxhcWhubFdfTHRSYmdzSFFSMzM1SGJtdTg1ZHB1TU1DMzVr0gFkQVVfeXFMTTJsUGZUS3N2ZDdBcVZFNEVNY3ZlemNPLVNxdGFPSjdXZ1hvWjZaWVJrY3dzN0FsQmY3RE5IcUlPVFR5Q3ZNWWVsb0JpcVpfcDUtOGM1NUtWOVR1U2E0azlvVlZVbA?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉美CPI升溫、AI融資疑慮夾擊 費半重摔超4% 台積電ADR跌逾3% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQUURrM0wzZDBQbVZkR0RZM2ZJT1JBd3JodWJ5RFJXenhjN0NUZEY2a0loRXppWjhBZG8wOEVJNjZBODN4Sm90dGg2WDhkMGs?oc=5"
-    },
-    {
-      "title": "台股重返4萬7！ 三大法人仍賣678億 投信大買「這檔」3.6萬張 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQRE1xcThtb01wQ29Nc0dnUnVxRzdLcE40MVM5YUhGS1RsajAxSVk3aFZfUU9jckNqVmtvUGJ2YmQ4X2hOc1Z1OW11T0pxR1pWVl9ZaUFrZzhNZVVqRzN5TkVfUUlQUERRYXFhNFpjR0ZuTEdQb2pDQ2U0dU1hS1J2dElRbmdwNHhsWFhteWNqZmhvOWhLWlZjNE93OUp4cDFyS3R2M3p3MTZTbDB6SUJfYXItNC1FUDI5bE5JMUZMeUpjVWJySkN5OWo5Z2w2UlB1aUdPaTFiZzl6QlBaSFAtb3Q1WkNpUklId1ZyRmVyS3ItckJPNG9GU1dIY1dBMm5zMDlyRk13eE1TNWVLcmYzT3VZTEJxOWtsYS1lbG82d0NGc1FsUFJEMXdQMC15d1hOcWVVUktwdHFWXzNXTnk4cw?oc=5"
+      "title": "「別擔心沒發生的事！」分析師看好台股中短期爆發力 不必杞人憂天 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LLVRFWUtDaG8tUENxTGZITU1uZUUtNkV5akg2MElkaGF4cXpVX09kZDlZbi1aUVYwOUhOU0N5QUJ3TTZYWTY2QlpMNnJYU2JlYlZJQ2pFVkowYWRY0gFiQVVfeXFMUEVtUkJNTV85R2VFZlpwczM1MkNTQzJKWnVoRjBLNWVybHlzZVlpQS13VGJXYVpnNmxqMkpDUjBsRU15a3gzamdWclZYXy1mSmlLeXdrcng5R1NucmR5M2xyaWc?oc=5"
     }
   ]
 }
