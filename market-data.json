@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/17 15:47",
+  "updated_tw": "10/17 19:58",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81544.71,
-      "change": 43.9053,
-      "changePercent": 0.0539
+      "price": 81457.94,
+      "change": -42.8647,
+      "changePercent": -0.0526
     },
     "ETH": {
-      "price": 2431.12,
-      "change": 11.3527,
-      "changePercent": 0.4692
+      "price": 2430.65,
+      "change": 10.8827,
+      "changePercent": 0.4497
     }
   },
   "fx": {
@@ -99,7 +99,7 @@
       "changePercent": 0.6753
     },
     "CNYTWD": {
-      "price": 4.857,
+      "price": 4.8536,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -117,16 +117,16 @@
   },
   "news": [
     {
-      "title": "台股不妙！美股重挫台指期夜盤狂殺1144點 下周一恐回測甚至跌破46K - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNdmFjRnRqbXNRb0FtMlZER3NvVy1JUVlIcGRyUURobW1KQTJJellSUFR2UnR5aGM5T3dVcERiM2xLbkVPWHRUWkxQN2dscE5lSnh0SWZJbW1SanVJbDltLXoxdF9CMGJobWEzVWd4ZlV1MkVONUhkcHVJSEctOVVIYlo3N05XcVl0aklOMmt0UnRyZVJlV09JbVljRnhVbVVsb204bnY1cjl4eUNiTnZLQk4zcTZIR3dvbGF3YjlLa2k3TXlrS0Y2Q2tEbXFPaWNhVTYzRHNhWEI0X2p0bHhMM1YyRW96SndGT3F2cWlCTjZWZjUwQ1JfRTJrUHdlRTN3S3lYdTR5N3BidjFEN05EN080X0tSeGdBSVdvWERCaXVwRnFKaVBQSC01cVkwNUZYdkg4Y3N1bm54b19fNUZkX09VTC1CRUlGMm9IalQtZ251alBQeEp4S0R1cWdjN2pmeFlKQ3BiZzZlbXVnSVRmNXlEY1VYSnlTUEViME9OVklOV0tBODU1cm92c1QzLWcwWXZySA?oc=5"
+      "title": "美股遭AI賣壓、油價雙利空夾擊全倒！財報季下周接棒 華爾街緊盯一件事 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNN0tNeVRvZHRGQ0d3S1kzTlEyT1RDS3VISDZ1dVBJcGIyVHBsa1NiZlcyaTU0dW9seWRHR1BtTG1HSkQzb1JhTEQtSk5PaEs5TzFWQWY0em5TU0R6YWtSbUhMSHJMUEdlWWNaTzJNWnhLUUdFdFRMWXlyVGZoWDdhenlaR0dUR3ZnX29MVG5TZVdzRFV3UGJhOUg1bGExTnZfLTBZTm5ybmN6cEk4ZlFfSGdxNkl5ekpYZ3BSWmxreE1PbXU4S2RZVXV5Rkt5TEZUSmludy11NGdyRG5SRmNHSDVkUTlzcHJZVy1vOEM5MEdTd3BGbG5oUHZFT2dncldwSkVmRXlXRG1YS3A4ZkRrZURXbjk1aHVEVjBEZHV1SkZ6N2I3Wm16bjZ0V0Zjbl9sUF9fcUx2cE1kRHBIelRibDNsVUlSLTJLY25Bdk1wY3dNTkVmNDY4RUg5UHF2Ymp1cy1CYWVhenVGVURKV2l4eEVlUXdEbjJVVHh4U0ZGcmtrd3gtSWh2TUNxaUFfRUxRNnFNV0xPUVZrTzJNckJzMnI3TExqb1BSNWN2ekU1MG1oMm8?oc=5"
     },
     {
-      "title": "「大賣空」貝瑞加碼做空美股！押注那斯達克與半導體股回檔 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iemkxckFIMGVTVVNJT2ZaX3gwTWdNbmZUanUzSnZzY0dCYlItZlZwYWpWSnFtbS1FSTZqeURtYlJ1Nl80S1BGdmFEZ0xVNFU?oc=5"
+      "title": "華爾街老將示警：美股早已「內部崩盤」！看好Nike、白銀布局機會 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pNWZnV090QTFPVE5oeC1YNUVLNWdqTlYwRy1rZUxFUE9pWEZ4Q0ltMXV4X2FhVzNrTjZzNVVxOUUxM19LRzJrSm1yX3VGSmc?oc=5"
     },
     {
-      "title": "美股早盤／科技股賣壓重 費半跌逾2% 特斯拉憑飛天車逆勢漲 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPNk9BTEFVa0NPSVdlLUE3X0FVeEwtSEpNUDZtWWlfY0FNb3pxSUlqSE1DVW1WbzdiYk1mbmtfN2xkeG14dnNPTTd4RFY5LVotRVpHLWRGS2VuQlR20gFiQVVfeXFMUGhiczZqRGgyMkJSdnZ0aDBpVVBWNmtSQkxhUjIwdWd1TE9OTlpWSFJtV1hNd1RSUzhicEtBdnUyd0IyNGNaUTBWU3JQWHNvNWJ4SFlRVF9sVmU1WHZUQlg2M1E?oc=5"
+      "title": "為何美股恐慌指數急拉？VIX 狂飆22% 大型避險基金傳爆倉+AI 股遭血洗 | 美股動態 | 國際 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5za0NpQ3FGb3U1aFFwd1N1N2xjVDEyTEZHTzhwX2MtT3BVdnBuUjYyNzJXY2V0VFdpMkFtakVkWHBORExhVTFCOUM5bWlCTHJoRVBORHZFQUJjb0li?oc=5"
     },
     {
       "title": "快逃命？美股驚見「最兇警訊」156年只出現3次 上次慘崩77％ - 中時新聞網",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNODR6dW5OYkxRMVFQWDhXbmR0LXVIdWpjTWN0R2JQU0ZsMFlSSFhHdmJpWE51SzBYaEZOVHU2VURFUm1GWGk5QkVJMnYxMUZzbmxhWmlpeEZPOEdjcEdZVXpWdGRuZTJHVWJrQUFSY0xWallJc2lYVzltZndxM0ZWRWFhRC1SQQ?oc=5"
     },
     {
-      "title": "美股遭AI賣壓、油價雙利空夾擊全倒！財報季下周接棒 華爾街緊盯一件事 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNN0tNeVRvZHRGQ0d3S1kzTlEyT1RDS3VISDZ1dVBJcGIyVHBsa1NiZlcyaTU0dW9seWRHR1BtTG1HSkQzb1JhTEQtSk5PaEs5TzFWQWY0em5TU0R6YWtSbUhMSHJMUEdlWWNaTzJNWnhLUUdFdFRMWXlyVGZoWDdhenlaR0dUR3ZnX29MVG5TZVdzRFV3UGJhOUg1bGExTnZfLTBZTm5ybmN6cEk4ZlFfSGdxNkl5ekpYZ3BSWmxreE1PbXU4S2RZVXV5Rkt5TEZUSmludy11NGdyRG5SRmNHSDVkUTlzcHJZVy1vOEM5MEdTd3BGbG5oUHZFT2dncldwSkVmRXlXRG1YS3A4ZkRrZURXbjk1aHVEVjBEZHV1SkZ6N2I3Wm16bjZ0V0Zjbl9sUF9fcUx2cE1kRHBIelRibDNsVUlSLTJLY25Bdk1wY3dNTkVmNDY4RUg5UHF2Ymp1cy1CYWVhenVGVURKV2l4eEVlUXdEbjJVVHh4U0ZGcmtrd3gtSWh2TUNxaUFfRUxRNnFNV0xPUVZrTzJNckJzMnI3TExqb1BSNWN2ekU1MG1oMm8?oc=5"
+      "title": "台股不妙！美股重挫台指期夜盤狂殺1144點 下周一恐回測甚至跌破46K - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNdmFjRnRqbXNRb0FtMlZER3NvVy1JUVlIcGRyUURobW1KQTJJellSUFR2UnR5aGM5T3dVcERiM2xLbkVPWHRUWkxQN2dscE5lSnh0SWZJbW1SanVJbDltLXoxdF9CMGJobWEzVWd4ZlV1MkVONUhkcHVJSEctOVVIYlo3N05XcVl0aklOMmt0UnRyZVJlV09JbVljRnhVbVVsb204bnY1cjl4eUNiTnZLQk4zcTZIR3dvbGF3YjlLa2k3TXlrS0Y2Q2tEbXFPaWNhVTYzRHNhWEI0X2p0bHhMM1YyRW96SndGT3F2cWlCTjZWZjUwQ1JfRTJrUHdlRTN3S3lYdTR5N3BidjFEN05EN080X0tSeGdBSVdvWERCaXVwRnFKaVBQSC01cVkwNUZYdkg4Y3N1bm54b19fNUZkX09VTC1CRUlGMm9IalQtZ251alBQeEp4S0R1cWdjN2pmeFlKQ3BiZzZlbXVnSVRmNXlEY1VYSnlTUEViME9OVklOV0tBODU1cm92c1QzLWcwWXZySA?oc=5"
     }
   ]
 }
