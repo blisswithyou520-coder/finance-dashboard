@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/18 04:10",
+  "updated_tw": "10/18 06:18",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 109.0,
-      "change": -4.0,
-      "changePercent": -3.5398
+      "change": 0.1,
+      "changePercent": 0.0918
     },
     "00878": {
       "price": 35.53,
-      "change": 0.06,
-      "changePercent": 0.1692
+      "change": 0.44,
+      "changePercent": 1.2539
     },
     "00919": {
       "price": 32.74,
-      "change": 0.25,
-      "changePercent": 0.7695
+      "change": 0.36,
+      "changePercent": 1.1118
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81518.28,
-      "change": 17.4753,
-      "changePercent": 0.0214
+      "price": 81131.4,
+      "change": -369.4047,
+      "changePercent": -0.4533
     },
     "ETH": {
-      "price": 2417.47,
-      "change": -2.2973,
-      "changePercent": -0.0949
+      "price": 2384.45,
+      "change": -35.3173,
+      "changePercent": -1.4595
     }
   },
   "fx": {
@@ -117,24 +117,20 @@
   },
   "news": [
     {
-      "title": "為何美股恐慌指數急拉？VIX狂飆22% 大型避險基金傳爆倉+AI股遭血洗| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nQk1LTm9RakpHRTFCeXNXc3lfRHV6T29PVERnd2hpbFIxY085TVZ1TWNKa0hleHZUeDJRLXhFaUZZUTg4WGNfejFVcmR1T19x?oc=5"
-    },
-    {
       "title": "美股遭AI賣壓、油價雙利空夾擊全倒！財報季下周接棒 華爾街緊盯一件事 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNN0tNeVRvZHRGQ0d3S1kzTlEyT1RDS3VISDZ1dVBJcGIyVHBsa1NiZlcyaTU0dW9seWRHR1BtTG1HSkQzb1JhTEQtSk5PaEs5TzFWQWY0em5TU0R6YWtSbUhMSHJMUEdlWWNaTzJNWnhLUUdFdFRMWXlyVGZoWDdhenlaR0dUR3ZnX29MVG5TZVdzRFV3UGJhOUg1bGExTnZfLTBZTm5ybmN6cEk4ZlFfSGdxNkl5ekpYZ3BSWmxreE1PbXU4S2RZVXV5Rkt5TEZUSmludy11NGdyRG5SRmNHSDVkUTlzcHJZVy1vOEM5MEdTd3BGbG5oUHZFT2dncldwSkVmRXlXRG1YS3A4ZkRrZURXbjk1aHVEVjBEZHV1SkZ6N2I3Wm16bjZ0V0Zjbl9sUF9fcUx2cE1kRHBIelRibDNsVUlSLTJLY25Bdk1wY3dNTkVmNDY4RUg5UHF2Ymp1cy1CYWVhenVGVURKV2l4eEVlUXdEbjJVVHh4U0ZGcmtrd3gtSWh2TUNxaUFfRUxRNnFNV0xPUVZrTzJNckJzMnI3TExqb1BSNWN2ekU1MG1oMm8?oc=5"
     },
     {
-      "title": "美股出現罕見1跡象！ 前兩次都股災出大事 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BdU9JQWcweWE5R3hiTlBzdkxWTVBLTGQ4NWpSY2lONUFjWEYzcUV5NjBtMk1acTNrZEhVZlJZdWJOaENtNURTc3NhSGNwcmV1Z1pWN2tVTQ?oc=5"
+      "title": "為何美股恐慌指數急拉？VIX狂飆22% 大型避險基金傳爆倉+AI股遭血洗| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nQk1LTm9RakpHRTFCeXNXc3lfRHV6T29PVERnd2hpbFIxY085TVZ1TWNKa0hleHZUeDJRLXhFaUZZUTg4WGNfejFVcmR1T19x?oc=5"
     },
     {
       "title": "「大賣空」貝瑞加碼做空美股！押注那斯達克與半導體股回檔 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iemkxckFIMGVTVVNJT2ZaX3gwTWdNbmZUanUzSnZzY0dCYlItZlZwYWpWSnFtbS1FSTZqeURtYlJ1Nl80S1BGdmFEZ0xVNFU?oc=5"
     },
     {
-      "title": "中國加劇減持美債至18年低點 連23個月增持黃金至2400公噸 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FOF82cmtJdjFPQ0FYZ0tyRzc4RVBIUkJSWEJLbnFwMDM0aXh4UEp6Zmg5SldqQkxhNzFDUG1BR2NnZUVOOF80STFRbUNmZ0EtWm9nYlJkbVRoLXh1amRF0gFkQVVfeXFMTTJlT0M2TzdvTy1zbmw5Z01saFI1MzFGRHpfTDVMc2xCOHYxRlNNeHN3cmhZZlk4SDBodkJYaU1fQVJwVUxPZlpBWjlaSEFFRzdyX0RVd3BGNTBoX3RWQ1ZhVE1Maw?oc=5"
+      "title": "美股出現罕見1跡象！ 前兩次都股災出大事 - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BdU9JQWcweWE5R3hiTlBzdkxWTVBLTGQ4NWpSY2lONUFjWEYzcUV5NjBtMk1acTNrZEhVZlJZdWJOaENtNURTc3NhSGNwcmV1Z1pWN2tVTQ?oc=5"
     },
     {
       "title": "美股超級財報季AI風向球- 日報 - 工商時報",
@@ -147,6 +143,10 @@
     {
       "title": "華爾街老將示警：美股早已「內部崩盤」！看好Nike、白銀布局機會 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pNWZnV090QTFPVE5oeC1YNUVLNWdqTlYwRy1rZUxFUE9pWEZ4Q0ltMXV4X2FhVzNrTjZzNVVxOUUxM19LRzJrSm1yX3VGSmc?oc=5"
+    },
+    {
+      "title": "台股近日高檔震盪加劇 美科技巨頭財報…多空指標 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55TEpiMzVpTnFKMUtRWldSc3hTTDNFQ1lxMm5FMjk4QU9IaXdwMV9waDRBNzRYdFdKMEMyMnVCaEFDMjJkYUZBV3ZQNlpJZXg00gFWQVVfeXFMUE1USGl2MzZrd3BySkh0Q0tNNzhZSEwtZ1hndG1ab2xINHBwZ0wxZDV1Yi1oTTNtOUNFTWZpejY4aFNvSmJTS3ZtaUtGRWg5c0ctWUFQVkE?oc=5"
     }
   ]
 }
