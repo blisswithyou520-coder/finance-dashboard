@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/17 11:07",
+  "updated_tw": "10/17 15:47",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81309.98,
-      "change": -831.4809,
-      "changePercent": -1.0123
+      "price": 81544.71,
+      "change": 43.9053,
+      "changePercent": 0.0539
     },
     "ETH": {
-      "price": 2416.6,
-      "change": -23.88,
-      "changePercent": -0.9785
+      "price": 2431.12,
+      "change": 11.3527,
+      "changePercent": 0.4692
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4186.7,
-    "twd": 4365.0,
-    "tael": 163687.0,
-    "twdTotal": 135766.0,
-    "changePercent": 0.3981
+    "usd": 4181.1,
+    "twd": 4359.0,
+    "tael": 163468.0,
+    "twdTotal": 135585.0,
+    "changePercent": 0.2638
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "AI、科技股持續承壓！美股收黑、那指摔逾2% 記憶體大廠全跌、台指期夜盤下滑1144點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOTmVlX08wTlM2YXVTTGdRdlp1Nnh5OWN3bVo2WXU3YkZWR0lhZWR3WVVhZHNxdDlfU0c3cnltNjdRZ1E2ZlFQa05oMW92X1BLSWJyTWZGNndPU3M5OF9MMUQ5ckFmc3RMVGtYd1VkbkpMXzZFbVpPaldOa1lpTHJvX3NFX0YtOS0yY3E2VkFLVkM0d0dMSEJSUldDRHFzSmkzUG9kUWhxTER6TlZyMEJxd3IxRjQtckRDRlFWSU9zTHJBRGRoMGFqdVIzUHN3WVNNRE9nbnBtWGg5bHRGNUhEaGdKMXhsU1NVS19ScC0wYnVaamhJNnhNS2R2Rk92X3JOUUZtcWVPSjFTNld4QnV2aGo0VlplZkJBU2Z4UVBxODFYYVFMbnBwX21qMk9VTzkweFlyQ3lxd3poejYyXzFXb21tMktZcEEybUZWSVBDTjNmOEdnUndUTVJ2RDhJajljN3ZVT1phaWNXNktZ?oc=5"
+      "title": "台股不妙！美股重挫台指期夜盤狂殺1144點 下周一恐回測甚至跌破46K - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNdmFjRnRqbXNRb0FtMlZER3NvVy1JUVlIcGRyUURobW1KQTJJellSUFR2UnR5aGM5T3dVcERiM2xLbkVPWHRUWkxQN2dscE5lSnh0SWZJbW1SanVJbDltLXoxdF9CMGJobWEzVWd4ZlV1MkVONUhkcHVJSEctOVVIYlo3N05XcVl0aklOMmt0UnRyZVJlV09JbVljRnhVbVVsb204bnY1cjl4eUNiTnZLQk4zcTZIR3dvbGF3YjlLa2k3TXlrS0Y2Q2tEbXFPaWNhVTYzRHNhWEI0X2p0bHhMM1YyRW96SndGT3F2cWlCTjZWZjUwQ1JfRTJrUHdlRTN3S3lYdTR5N3BidjFEN05EN080X0tSeGdBSVdvWERCaXVwRnFKaVBQSC01cVkwNUZYdkg4Y3N1bm54b19fNUZkX09VTC1CRUlGMm9IalQtZ251alBQeEp4S0R1cWdjN2pmeFlKQ3BiZzZlbXVnSVRmNXlEY1VYSnlTUEViME9OVklOV0tBODU1cm92c1QzLWcwWXZySA?oc=5"
     },
     {
-      "title": "科技股回升動能不足　美股收黑 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jRXI4Q0dwOVNMSHJEWjd5UGNYWldjaHVGb2VLS0tNVVZiX2EyUGhwRUQ4aFJONEZ3VFB2bFIxSm15QmE1dW5oc1VYUy1FMTlGczc1emR6OS16X2VSaHVN0gFkQVVfeXFMTkcwRllyeDQyTWlHQUZxcmk5SHlLQXZvcmVRTDU0OFlGNzRYRHRmRjRpbmhvRl9hTWtHeXMyeTkxLW93c2llQ0xJOFg5UkI0YllGbzNzRzc3Q2lOMjVtWUJ2ZzJtYg?oc=5"
+      "title": "「大賣空」貝瑞加碼做空美股！押注那斯達克與半導體股回檔 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iemkxckFIMGVTVVNJT2ZaX3gwTWdNbmZUanUzSnZzY0dCYlItZlZwYWpWSnFtbS1FSTZqeURtYlJ1Nl80S1BGdmFEZ0xVNFU?oc=5"
     },
     {
-      "title": "〈美股盤後〉VIX飆升！晶片、記憶體全面下殺 費半單週重挫逾11% 創逾1年半最慘 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fNWdTbU1tMnY0QlR4a2VJOWxTb2JjUlMxeTlfWDYyZmt4bG1aVVY0R0RKZEY1SGIxcW44Wk9QWG5YcVVfRzJ3TUpQMXdSUUE?oc=5"
+      "title": "美股早盤／科技股賣壓重 費半跌逾2% 特斯拉憑飛天車逆勢漲 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPNk9BTEFVa0NPSVdlLUE3X0FVeEwtSEpNUDZtWWlfY0FNb3pxSUlqSE1DVW1WbzdiYk1mbmtfN2xkeG14dnNPTTd4RFY5LVotRVpHLWRGS2VuQlR20gFiQVVfeXFMUGhiczZqRGgyMkJSdnZ0aDBpVVBWNmtSQkxhUjIwdWd1TE9OTlpWSFJtV1hNd1RSUzhicEtBdnUyd0IyNGNaUTBWU3JQWHNvNWJ4SFlRVF9sVmU1WHZUQlg2M1E?oc=5"
     },
     {
-      "title": "美股早盤／科技股賣壓重、費半跌逾2% 特斯拉靠飛天車逆勢漲| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MYmxONjA0dHZIU0poUUNjZzY4YTlvVS11OFZ5bDZHdHFCZ3cteWN2QVUtUnhKU3pWekRIbWdzNTE2M2RTVldvcHhMLVVaLWVT?oc=5"
+      "title": "快逃命？美股驚見「最兇警訊」156年只出現3次 上次慘崩77％ - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42a2NEM081VlIwdkpmcF9LenRld3A1QmVWQ2lQZFFzZ3F3TFBhTEV1WXpqZzlHd2xRMy13WXZEUmVCT1JrbWRBNWNIRHRQaU9WQmU3YmdaZDdGZ0JoUVg4YjFlLUpEcG5ZalBhNGlB?oc=5"
     },
     {
-      "title": "美股崩盤！費半連8黑、台積電ADR續跌 恐慌指數飆4個月新高 - TVBS新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lanl6MkZTUlNTcTFIenRjeVhKUDNSNXN3WGc1d1JXNVZhRHpZNmF4U0F1Zlp5QkxieXBab1VtbVIzQWQ2RXhsVHhRUWdvakU?oc=5"
+      "title": "美股收盤》恐慌飆升！費半連8黑 台積電ADR續跌逾2％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CLW5jN3BoLVh5VUhaVHdOT0EtUHItMkpXSDBYUVRwUTRLVXpBNlctLWU5M2o1dktRNkh1V2YyVnhUQVg3a2ppLXRDMFZpVkJkNUJNdldxRzBSNDg2eHZB0gFkQVVfeXFMTS1uTGZXX0JBLXBUSlZQQjZyWDRPOTJvMHpySGxUU3FDYThtdUdhLWJnVWdxWVlRbmowX3FuRFZlMENJX2g5dEtGWVA3N0M4MzhFRC1GT0ZwMmdSZy1URVFZOWU4MA?oc=5"
     },
     {
-      "title": "AI 狂潮暗藏「債」雷：CoreWeave 風暴敲響美股科技泡沫警鐘 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMDZ3RVl2S3JnTFNVMlY5b3pzeS1LdG9TNGxJNmp6b2RkeXNRa000NWR1YWFaZFZyUGF3XzBTNzFCVVgtaWVkZUM0TC1IVGhnVjRVVjRWdFBmOFk3ZUNYY2hQOGJqTFQ2aUhKSFhaM1lCaHhrajRNTnFUN1lCU2kwenc5RUtDVjRoYkdvZDNB?oc=5"
+      "title": "美股大逃殺？「1指數」亮紅燈 156年僅3次、前2次都股災 - TVBS新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EZjBLN201VkdnRmV5SmozenZoVFhUQ21waGllZ09wY1c5blhhR0NZemEwck5aMlhSc0loSjZsVktwQXMyeGNxbEpleDdmdkk?oc=5"
     },
     {
-      "title": "台股暴跌他進場！　達人揭「神奇均線」首選這檔ETF - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qQzFaSTh5TGdtQklDMFRTemUzUV85Ny0xMTQ1YUtSRl9lQWpOZS1zREI5bEJheVJiODdHOVZYZ1VnQ1NuWmZ0SEtxWXVfY0NCWXfSAVBBVV95cUxPN0pCdThyWVVXanNDTWpDNzZlM0pHS01yeEtCWDNHWmtEVXJ2R0FVc0RGY1kyZFRNQjRabDh0YUVnUEItMjNnbnhIRVY2VU1zbw?oc=5"
+      "title": "比特幣苦守 8.1 萬美元！巨鯨 3 週狂囤逾 8.5 萬枚 BTC 、錢包數創新高，抄底還是接刀？ - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNODR6dW5OYkxRMVFQWDhXbmR0LXVIdWpjTWN0R2JQU0ZsMFlSSFhHdmJpWE51SzBYaEZOVHU2VURFUm1GWGk5QkVJMnYxMUZzbmxhWmlpeEZPOEdjcEdZVXpWdGRuZTJHVWJrQUFSY0xWallJc2lYVzltZndxM0ZWRWFhRC1SQQ?oc=5"
     },
     {
-      "title": "美股拉警報？「1指標」亮紅燈 156年來僅3次、前2次都崩盤 - 鏡報",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FN1E0ZGRXQi1adHV3cU1pMDNJbEJVVk5OX1loM0JCa2J5dW5rR1preFpwb0VEVXJxZzNyWFZXY0xsVk9GeHJoV3h2dS1oQ1dKaUE?oc=5"
+      "title": "美股遭AI賣壓、油價雙利空夾擊全倒！財報季下周接棒 華爾街緊盯一件事 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNN0tNeVRvZHRGQ0d3S1kzTlEyT1RDS3VISDZ1dVBJcGIyVHBsa1NiZlcyaTU0dW9seWRHR1BtTG1HSkQzb1JhTEQtSk5PaEs5TzFWQWY0em5TU0R6YWtSbUhMSHJMUEdlWWNaTzJNWnhLUUdFdFRMWXlyVGZoWDdhenlaR0dUR3ZnX29MVG5TZVdzRFV3UGJhOUg1bGExTnZfLTBZTm5ybmN6cEk4ZlFfSGdxNkl5ekpYZ3BSWmxreE1PbXU4S2RZVXV5Rkt5TEZUSmludy11NGdyRG5SRmNHSDVkUTlzcHJZVy1vOEM5MEdTd3BGbG5oUHZFT2dncldwSkVmRXlXRG1YS3A4ZkRrZURXbjk1aHVEVjBEZHV1SkZ6N2I3Wm16bjZ0V0Zjbl9sUF9fcUx2cE1kRHBIelRibDNsVUlSLTJLY25Bdk1wY3dNTkVmNDY4RUg5UHF2Ymp1cy1CYWVhenVGVURKV2l4eEVlUXdEbjJVVHh4U0ZGcmtrd3gtSWh2TUNxaUFfRUxRNnFNV0xPUVZrTzJNckJzMnI3TExqb1BSNWN2ekU1MG1oMm8?oc=5"
     }
   ]
 }
