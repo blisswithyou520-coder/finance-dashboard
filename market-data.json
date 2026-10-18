@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/18 17:06",
+  "updated_tw": "10/18 21:17",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81796.34,
-      "change": 414.1916,
-      "changePercent": 0.5089
+      "price": 81789.8,
+      "change": 407.6516,
+      "changePercent": 0.5009
     },
     "ETH": {
-      "price": 2415.54,
-      "change": 15.7409,
-      "changePercent": 0.6559
+      "price": 2410.18,
+      "change": 10.3809,
+      "changePercent": 0.4326
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "台股周一新增6檔「關禁閉」！飆股大甲、蔚華科、「這光通訊廠」全在名單上 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNd1dTOW1Fa1FtNHdLaUc1QmpyRnZXdGNvZktDVVR1RVNWVzBEWE1TYVRFaEpCUXUtc1k0S2VJeWN5R3VDV1FYalVFWGpLamRnNUpYUU44VWhjVkJuX2JiQkR4Und0Nnp5dnZUem84dHFMZExqT3I0dEpYbG5oX0J6bnhWb05KdWZTQXZ6cm5oMGIzaXJvdmp2YkJWMXZfWlBZX19iNnJRQXp4Z1BYRGQ1blZoM05kRnE1OFpuSlVqMk5mMFl4akduQnpNeTFGMU13bXNfdVlaMEVCQWVjNnA4aXphR0ZaSU1TaEJhV0duZ1k0ejUwYXVSQmpSWGpJUVZJM1pXMy1rXzgtMElITThjUlNRd3FnRWhyUkxBS1VoLXhXZw?oc=5"
+    },
+    {
       "title": "〈美股盤後〉VIX飆升！晶片、記憶體全面下殺 費半單週重挫逾11% 創逾1年半最慘 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fNWdTbU1tMnY0QlR4a2VJOWxTb2JjUlMxeTlfWDYyZmt4bG1aVVY0R0RKZEY1SGIxcW44Wk9QWG5YcVVfRzJ3TUpQMXdSUUE?oc=5"
+    },
+    {
+      "title": "交易员Killa：继续看多比特币，达到12.6万美元前不会平仓 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTLTJmcFNUZ2VTOVpmN2NNS2lxNHN1YmVySTNudmh4cURzUnJONjRnenpGcmhIWklXb2pvc0V4VWJOZzBmMURmcTJ1MlRfSDRJN1ZVTG1ueXFLZGJsRVk5Ykc3S2pzdw?oc=5"
+    },
+    {
+      "title": "台股躍升全球第四大市場 台灣人真的變有錢了嗎？ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xUkxGbktwdXR6MHpxbUFtakswVTg2YlQ1bFlzX1dqcWZxNVRtbGl5anM3cEUtdm53YkpqSXo2NXFKMXQyYlpURGVycE5qSWg3ZDB6VDhBR016ZlE1c3Iw0gFkQVVfeXFMTkY0R0VGRXdvV1o0ODZnLXYwVzdfVmtSYkJrb0pqWGNGdjdPSVN5c0tlSklIVHM5b3pDTGpveTFieXdTdFhfTWZKdU1FcDR6Nk8yWHgyVGd6WUNNb0pCZ2pXMmxtRA?oc=5"
+    },
+    {
+      "title": "美股定期定額人數增逾成 凱基證券：追AI也存大盤 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GaldGRWlyUTV4RGhpSXA3RXp5OWs5b1FNVVJ6T3Y1dlpnMDVSVnBkVWtQeVdEeXBuQ0tKMnk0UVM1SmJQVVFMLXc2c0txM0FO0gFWQVVfeXFMTVlnamk5OW5aeW0xelM4Q2pqMktVM0lzc29vcG5ISTY4dlZKejJMTTBPeHd0MU9rdVhERGJMQlFmNmhCcnpsRGhuU0Z5cDlHcnJYSFVRNEE?oc=5"
     },
     {
       "title": "存股族思維大洗牌！台股ETF瘋「不配息」 這檔黑馬8個月狂吸2000億 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOemNQX2l4OEFmUDJLZmR1M1AxZ0hUclJUZFd3VFFHRzZpb2I4ZFVfVlQ0Wl85U1NKUm9tYXgyZ1Y0b2gzTzViNm0yZUZWaVNJVTdjRjR4WjZ3LUphQ1JJTXh2Y3ZmVnpQMU5fSGxJZTJKQnpTaXlJTmJlTlZBNTRXX3NZc3BJeVNSOUtjMDJrMWlCeGJfUHRicjVkekpMYzYtaHdTdFRDaXNoRjBKT0pvYzhlVUwxT01ZY3pkWVhIWng2WWRGUXp3czYyQVk2TFZFbTE1MWNCRWR2WnlUR0d4bXgtVDRJdWdUcU1mT3E2cFJ2TmQ0eWNOR3JjSzlOOUFCcTd6QmxWYjNEclROQnhWTXdpb0Fqbm52bm9Ed20ydFo5RVViX0J4MG5GSGo1bjZDVUhJS2F3Y3MybVhiQzRPdTU1NlB5NjJxaHd3SnRZdllSQi05eUViNHA0MkNabUlSa1FCWWJFWEU2VDhvSWhDN1cxcTNMeDJfNHkxY2tB?oc=5"
     },
     {
-      "title": "中國加劇減持美債至18年低點 連23個月增持黃金至2400公噸 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FOF82cmtJdjFPQ0FYZ0tyRzc4RVBIUkJSWEJLbnFwMDM0aXh4UEp6Zmg5SldqQkxhNzFDUG1BR2NnZUVOOF80STFRbUNmZ0EtWm9nYlJkbVRoLXh1amRF0gFkQVVfeXFMTTJlT0M2TzdvTy1zbmw5Z01saFI1MzFGRHpfTDVMc2xCOHYxRlNNeHN3cmhZZlk4SDBodkJYaU1fQVJwVUxPZlpBWjlaSEFFRzdyX0RVd3BGNTBoX3RWQ1ZhVE1Maw?oc=5"
+      "title": "台灣投資人瘋美股 前8月複委託衝破12.8兆 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbTFFd3c2MjcxZ0dEWFBrV1ZpX1R0WDNINjlBVW94bklWNmpsbHdCOF9iNWpSNDVMU2l1X3ZXV1k5UjlBLVNHcTExZTZjeklHbFpRcUswakhvMVRnU1gw0gFkQVVfeXFMTWRnYWc1aGNINHU4Vm0waU1NNnh6emk3WnBRclNad21OaEYtMjFTUVktZmNNclJvNlBFdzJmWVpNTDk4YWpOa3REWTdXcHpiVFNCd3BqckFxcmh1Q0RVSEkwRFhrVQ?oc=5"
     },
     {
-      "title": "美股定期定額人數增逾成 凱基證券：「追 AI 也存大盤」 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GaldGRWlyUTV4RGhpSXA3RXp5OWs5b1FNVVJ6T3Y1dlpnMDVSVnBkVWtQeVdEeXBuQ0tKMnk0UVM1SmJQVVFMLXc2c0txM0FO0gFWQVVfeXFMTVlnamk5OW5aeW0xelM4Q2pqMktVM0lzc29vcG5ISTY4dlZKejJMTTBPeHd0MU9rdVhERGJMQlFmNmhCcnpsRGhuU0Z5cDlHcnJYSFVRNEE?oc=5"
-    },
-    {
-      "title": "分析师：比特币若突破8.2万美元阻力位，或加速上探至9万美元 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XR09IVUFwN3IxbFlia1RuRGx3ejA4Uk1PNU1NMjliUkw2THBLN0V0UlVYOWlrVHAzZjhheTNqOTRpTnJCblA2TkRXQ296OHJUZnhqZE1LLVFmbGFuYThEX0lfMUV2QQ?oc=5"
-    },
-    {
-      "title": "恐慌殺盤不用怕？台股面臨季線保衛戰專家揭「2重要訊號」止跌 台積電長線買點曝光 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNd3ZuRUhJWEsxajdTaHVxWkdsODhlMnBYUV9fWjhleWhHdnhBendOaS04ckdfMmZxVktJM0pVVGowMlVJTWF3ejRGSFlRNmpVd01aYUNFenFGY3l4WXloVzU2ZFJtZ3V5V1l0QVY1VERQdUVGUTE2dzRHYkpFSGRUbVAxd2NlQ2JnaWR2SVRVSk5yb0tYQXg0b3JFSWVCRmloaHFlQnlfcUNqRm9Pbm54bVU4RUhDc0NfRkdBNVRtX0F2U1V2aGxXV0JVMlVqRkFXQ1FQNk1vZXRJV3Rfb1puT0pLUXRuX1JHNGFLTS1zLXlkWmZPeW94SVA0Q3ktNVVMeGh5WDlONDFhT3Jmb1Fsbm43OWI0QzN3eVZJN1JCUjRXdkVhSHBIdjJ2RmlNWXhvQnB1S0lWWnFKdF9tc3dhOXF4Z3lBVVNzZ01BTk5HUWFraUYtMGhKQTQ5VjNNdEFyMWVhNnBJMFdaV1dMOEszU2lrOWFJY0Y3WEtBUXRUWVFXSU91T3gycTdTUnZPUVotY3ZpVFpsNk5ObjM2cGZ4VmJKS1FROXZ0R0NZSGY1UVFod3VhMy1tQjU0VlVyc1pHcHRHUl9SOWlyYkFoZ2NNUkIxVmY5VmNlOU5UUGJBY0tuVTR1N19lQ2JiTlJGTkQ3UndqZHYzTm1HQQ?oc=5"
-    },
-    {
-      "title": "項目周刊｜嘉信理財為其客戶提供比特幣購買服務 Vitalik鏈上資產總價值約5.3億美元 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51Vnk2SHowQnh5Qm9aOXhKdDVvakpqbGlnZENtc3Qxb2hlS0F0d0VNQmF4ZzN5QmtLUWl1c242SklIalgyTWZyc3JHSkhmWlk?oc=5"
-    },
-    {
-      "title": "為何美股恐慌指數急拉？VIX狂飆22% 大型避險基金傳爆倉+AI股遭血洗| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nQk1LTm9RakpHRTFCeXNXc3lfRHV6T29PVERnd2hpbFIxY085TVZ1TWNKa0hleHZUeDJRLXhFaUZZUTg4WGNfejFVcmR1T19x?oc=5"
+      "title": "Strive CEO再次发图或暗示下周披露比特币增持数据 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2NkhiYlBSbkJINHhTUnZ3Wmw3bTZPSnpjaWR6cjhXU3V0dGcyY1UtRVpZV01PQVd4aXdBRGh1OHdubDVXLVM2eTgyT0xzWFpfcnQxVTcxUlZjQ2pIQW4wdjE2djJMZw?oc=5"
     }
   ]
 }
