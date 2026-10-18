@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/18 06:18",
+  "updated_tw": "10/18 08:09",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81131.4,
-      "change": -369.4047,
-      "changePercent": -0.4533
+      "price": 81299.99,
+      "change": -200.8147,
+      "changePercent": -0.2464
     },
     "ETH": {
-      "price": 2384.45,
-      "change": -35.3173,
-      "changePercent": -1.4595
+      "price": 2395.58,
+      "change": -24.1873,
+      "changePercent": -0.9996
     }
   },
   "fx": {
@@ -121,10 +121,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNN0tNeVRvZHRGQ0d3S1kzTlEyT1RDS3VISDZ1dVBJcGIyVHBsa1NiZlcyaTU0dW9seWRHR1BtTG1HSkQzb1JhTEQtSk5PaEs5TzFWQWY0em5TU0R6YWtSbUhMSHJMUEdlWWNaTzJNWnhLUUdFdFRMWXlyVGZoWDdhenlaR0dUR3ZnX29MVG5TZVdzRFV3UGJhOUg1bGExTnZfLTBZTm5ybmN6cEk4ZlFfSGdxNkl5ekpYZ3BSWmxreE1PbXU4S2RZVXV5Rkt5TEZUSmludy11NGdyRG5SRmNHSDVkUTlzcHJZVy1vOEM5MEdTd3BGbG5oUHZFT2dncldwSkVmRXlXRG1YS3A4ZkRrZURXbjk1aHVEVjBEZHV1SkZ6N2I3Wm16bjZ0V0Zjbl9sUF9fcUx2cE1kRHBIelRibDNsVUlSLTJLY25Bdk1wY3dNTkVmNDY4RUg5UHF2Ymp1cy1CYWVhenVGVURKV2l4eEVlUXdEbjJVVHh4U0ZGcmtrd3gtSWh2TUNxaUFfRUxRNnFNV0xPUVZrTzJNckJzMnI3TExqb1BSNWN2ekU1MG1oMm8?oc=5"
     },
     {
-      "title": "為何美股恐慌指數急拉？VIX狂飆22% 大型避險基金傳爆倉+AI股遭血洗| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nQk1LTm9RakpHRTFCeXNXc3lfRHV6T29PVERnd2hpbFIxY085TVZ1TWNKa0hleHZUeDJRLXhFaUZZUTg4WGNfejFVcmR1T19x?oc=5"
-    },
-    {
       "title": "「大賣空」貝瑞加碼做空美股！押注那斯達克與半導體股回檔 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iemkxckFIMGVTVVNJT2ZaX3gwTWdNbmZUanUzSnZzY0dCYlItZlZwYWpWSnFtbS1FSTZqeURtYlJ1Nl80S1BGdmFEZ0xVNFU?oc=5"
     },
@@ -137,6 +133,10 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85LVNJSmc1ZXFPY01RT2ROcHl0TFVWcFdpUHBDQXNNbWhnOE5EbDREc0E4dUxUYWdwRFVGNlpLQmpYeHlPZzRBZDdUM25TazJyMVh6ZUZYclpCOEgtOThv?oc=5"
     },
     {
+      "title": "台股近日高檔震盪加劇 美科技巨頭財報…多空指標 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55TEpiMzVpTnFKMUtRWldSc3hTTDNFQ1lxMm5FMjk4QU9IaXdwMV9waDRBNzRYdFdKMEMyMnVCaEFDMjJkYUZBV3ZQNlpJZXg00gFWQVVfeXFMUE1USGl2MzZrd3BySkh0Q0tNNzhZSEwtZ1hndG1ab2xINHBwZ0wxZDV1Yi1oTTNtOUNFTWZpejY4aFNvSmJTS3ZtaUtGRWg5c0ctWUFQVkE?oc=5"
+    },
+    {
       "title": "台股不妙！美股重挫台指期夜盤狂殺1144點 下周一恐回測甚至跌破46K - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNdmFjRnRqbXNRb0FtMlZER3NvVy1JUVlIcGRyUURobW1KQTJJellSUFR2UnR5aGM5T3dVcERiM2xLbkVPWHRUWkxQN2dscE5lSnh0SWZJbW1SanVJbDltLXoxdF9CMGJobWEzVWd4ZlV1MkVONUhkcHVJSEctOVVIYlo3N05XcVl0aklOMmt0UnRyZVJlV09JbVljRnhVbVVsb204bnY1cjl4eUNiTnZLQk4zcTZIR3dvbGF3YjlLa2k3TXlrS0Y2Q2tEbXFPaWNhVTYzRHNhWEI0X2p0bHhMM1YyRW96SndGT3F2cWlCTjZWZjUwQ1JfRTJrUHdlRTN3S3lYdTR5N3BidjFEN05EN080X0tSeGdBSVdvWERCaXVwRnFKaVBQSC01cVkwNUZYdkg4Y3N1bm54b19fNUZkX09VTC1CRUlGMm9IalQtZ251alBQeEp4S0R1cWdjN2pmeFlKQ3BiZzZlbXVnSVRmNXlEY1VYSnlTUEViME9OVklOV0tBODU1cm92c1QzLWcwWXZySA?oc=5"
     },
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pNWZnV090QTFPVE5oeC1YNUVLNWdqTlYwRy1rZUxFUE9pWEZ4Q0ltMXV4X2FhVzNrTjZzNVVxOUUxM19LRzJrSm1yX3VGSmc?oc=5"
     },
     {
-      "title": "台股近日高檔震盪加劇 美科技巨頭財報…多空指標 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55TEpiMzVpTnFKMUtRWldSc3hTTDNFQ1lxMm5FMjk4QU9IaXdwMV9waDRBNzRYdFdKMEMyMnVCaEFDMjJkYUZBV3ZQNlpJZXg00gFWQVVfeXFMUE1USGl2MzZrd3BySkh0Q0tNNzhZSEwtZ1hndG1ab2xINHBwZ0wxZDV1Yi1oTTNtOUNFTWZpejY4aFNvSmJTS3ZtaUtGRWg5c0ctWUFQVkE?oc=5"
+      "title": "大型避險基金傳爆倉 美股恐慌指數漲22% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05eFNNYnp1RnpRaHdfU2dnSG5rUmxxUm5Va0tZYVVxTEFQZmtFcV9PSkJOMXN5Uk1RYmxFaF9LQlFSUklxamExcDNjdmVKTVJG?oc=5"
     }
   ]
 }
