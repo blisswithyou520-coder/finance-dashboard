@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/19 05:21",
+  "updated_tw": "10/19 07:29",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80962.0,
-      "change": -420.1484,
-      "changePercent": -0.5163
+      "price": 82012.68,
+      "change": 630.5316,
+      "changePercent": 0.7748
     },
     "ETH": {
-      "price": 2358.56,
-      "change": -41.2391,
-      "changePercent": -1.7184
+      "price": 2406.73,
+      "change": 6.9309,
+      "changePercent": 0.2888
     }
   },
   "fx": {
@@ -89,27 +89,27 @@
       "changePercent": 0.3127
     },
     "JPYTWD": {
-      "price": 0.203,
-      "change": -0.0014,
-      "changePercent": -0.6898
+      "price": 0.2032,
+      "change": -0.0012,
+      "changePercent": -0.5919
     },
     "EURTWD": {
-      "price": 36.312,
-      "change": 0.0638,
-      "changePercent": 0.1759
+      "price": 36.413,
+      "change": 0.1648,
+      "changePercent": 0.4545
     },
     "CNYTWD": {
-      "price": 4.8536,
+      "price": 4.8571,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4181.1,
-    "twd": 4359.0,
-    "tael": 163468.0,
-    "twdTotal": 135585.0,
-    "changePercent": 0.2638
+    "usd": 4196.8,
+    "twd": 4376.0,
+    "tael": 164082.0,
+    "twdTotal": 136094.0,
+    "changePercent": 0.3755
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股重挫怎麼買？江國中曝2大止跌訊號：點名這5檔低基期股 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNWFlkbXRXS09tdHoydHhMcllnUlNZV01CTXBhWmJjOExQUXcwdFRyRkpRUndKTWhmempHUjQzM0lPVmdxQzIxc1hvT2p2RC11RVlxaEdTWWhHNDB5aXF2VElWRkJDdjdlUWRsY1pFeDU5ZHFscXd2TXNnck8tcTBLMWVfM01sS09Nbk1uRUpKVlRuemJoTklxSEprOWh3RUNRcFl5cUlzaEtSOVVqT082ZnlxREhlM1NUZTFGWGd6cHJfRWhrM0JJM0hZcFFtUHhjbGZqRkl1MWpMNDBpeWhodEdDbGhiUGd5VDloNlpNSjdBQ3BlMzFjNk56TzVxMDFjR1g4WEZNRDJFSjFSb3BRbmpzcGRLaEFlaUZnWERLRnUwQWVUQVhOY1JxeUpxQ3pBUEpvX0xiYkdidm9HRnpyR0ZmSzVzZWVNVlk1cTI4dHlpTFFPRlNjWUdhWHYzM3NOejBuWlI4dEF2WnpyQTRWT3dHUG9ORWcx?oc=5"
+      "title": "空軍壓境！台股警鈴大響 後市三情境推演 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQZEhuX215QnhHRWtEQXZBaHBoQVI2SW1fRFRzdVdTUFQtS0JCSHMtY0VUTUd3bWhmc18yVlVvQk83SHY2clNzVkRydWhDR25sN1FFUnNDWC1EemdYSGxycnFXVnpqS3FKb2YtUWE4Z3Z0NHd5dE91ZTBiT3hjNTF3UXJlZkY2bnVma2JIQWVheDN0aVZzN1YzY1UwY3d2R3VzSEItWDdSS2FtbXdOMkM2eUd2RU9RY0xFWXl1dU9nQkl3Y3l5dFF4VWdrcHJEb1JWWFN4Q2dUR01oQUE3eUNrbW90bFlXZHpRVjFVZ2lub0JkYzdYeW5Hdm56blBvb3lKZEROSHRva1R1bVlFTVBmZEVFeFF4YzRjNnhyYTFHZXlMZw?oc=5"
     },
     {
-      "title": "美股繁榮是假象？AI泡沫疑慮升溫 標普500恐面臨30%修正 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GREdKdWhGX0lqcDBTOVRnMXROQmlUYmhkNmhUS2tCdTdHeTNPUlNQbE5RcWFNR25tc1Y0WFNGUjVqbzJ0UURmOUtaMTFWcDg?oc=5"
+      "title": "《貴金屬》COMEX黃金上漲0.3% ETF持倉增加 - 商品原物料 - 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkd5MVRrbzVUbDlnMVFDaTBFZ1lRanZZRXliZndnS09heFhjdXp6d29FdFdXVUdwRktKV2dCQ1MwNEJ2aV9qRmNaRk9xMUtCakw0TGVELVhkOHpqUTI4WkgwcjFVQ3FvUjRIUzg5QzdvVTE4S3NSdjIzb3J5aTlBbWY2U0xLdnM?oc=5"
+    },
+    {
+      "title": "適用於財經服務的 AI：轉變決策制定和效率 - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ0V5RzJmWFFCNDBBZm5LS1RUWERhZzNGYkUxOTRfcURKa1BNbXdfWWtnSGRqU0FuNHpRaGk3U1NwbllPaC1qVVJ3VXpxRktrR2ZwWDdsX2VwdlRScUktTzB1Z1NTM0piV3ZaWGNQN3RBUzV6MzZPTHQ5NUJXVHVzakI5bUg?oc=5"
     },
     {
       "title": "四大本土投顧：台股震盪後開新局多頭有望主導新一波走勢| 股市要聞| 股市 - UDN",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5TjVqbjJPaTJPbVVfZW9NejB5bFBBSmRZa1RJV1ZrWF95a2w3U1JROUpFTG10UUF4eWpuWmQ1YjZMbWVnOWQ5Uk55RV82c3FxVVYyVXRxcmR2STJDNFpTYzdxNm14N0phRDUyUG41R3pBUQ?oc=5"
     },
     {
+      "title": "比特幣承壓徘徊8.1萬美元 美股疲軟與ETF資金流出雙重打擊 - 商傳媒 - SUN MEDIA",
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOVXY1WUpXX193MVQzSUhscGVsWVFaX09aZVFzejgtd1lkbFhvN1FpTXUtanBXbUQxQWxxOEJkNmhCLXJZbnQzS3drNU9Qc01KZlU1NzgtY3NtVXBDSVMwZGZQVFQwa19zbDhBUmprbDNreEx2RXhEMEQ1bTF1aGZBVThpMlNVdUVIS0ZGcHQ5cTRzZVBjRUZjYnpMaDlIVDJEZWxqWXAtYTYydHJmVVloSUZxQUlvT01ack9zc3RpNzR6ZkgzMTlkVlVJM19IVWZFWFY2QzB6VkZ6RFJfNS1RaDlTSW1Eb0dubkxHY0tNR2FlYll0YzJFUG43bG1EYU01emZPVHBSOGNkUnA0UExSc3Utam13c2czLXhaUzA5SFktOUxSenRsZnotZUhtZGlTQ0o3ZDhWOEw5cDVMbGJZVlVXeFBmdF9wUzF5TXRkSGMyQjFUMEFCd204ZEtubjFlODdFV3VuaTlYelh3c05EYVUzc1pFTElZbmJUbXNnMA?oc=5"
+    },
+    {
+      "title": "美股繁榮是假象？AI泡沫疑慮升溫 標普500恐面臨30%修正 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GREdKdWhGX0lqcDBTOVRnMXROQmlUYmhkNmhUS2tCdTdHeTNPUlNQbE5RcWFNR25tc1Y0WFNGUjVqbzJ0UURmOUtaMTFWcDg?oc=5"
+    },
+    {
       "title": "黃金週評：金價驚現「周線魔咒」！4200美元大關久攻不下，黃金變盤在即？ - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhdFlUVkZWdnFfZ01qSFRuSDUwYmlveHdFSy1tWk5vdEUzTmplR2ZrWmZybEhjNmxtcjJvQTBnRGFNaHhOcU1zN1hOSEdPZTR3dGROZ2dTV0J4UEpNSTFZUzBncl8?oc=5"
     },
     {
-      "title": "台股今面臨崩盤考驗？抄底還是快跑？達人曝下一步盯緊這「兩大關鍵」 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNa3gzVUE0RG1aTzBwZldpWEFkQ2dFMGpxMDZkc2hhTGtHYXozT0JEbXVuZnFQeVMyRUp6QlpuYjlvLUN1VURIZWNyT3h2ZG5aV0hDVUdwV1V5U3ItU1R2TDQ2OVFKa0U4VkgzVjYwUHBZRVNnWDBhS0RNaDdXS1VJVkhINnVnY3NWYUZKOUdiM2pUaGxadEZYRzhlMDhtMURyUzVfcnU1b2lTOTViU1o2SGhjNDhyUDFKelAwRy11aEV0SWp6eEM3eTFvT2hNMTBJZ1VTM0dGbW1OcHRWT0piYm9EX1U4RnZYbW53M25Ea2RuamhFUWtyS3ZkQy16d0c1RG1MZkZSc25UZGdYS3pxYlpJb1NFdUVOeVFOX013VUdvbE1FZHZpbmFzMkxYYnA2WC0tbUMtR3BwdmdIcnpJNE8wamY5M2dQMFJRQmY4aWVTZHFQQlV3LTc4U3JsYTlLRm1XdGhLa29KZ1pBdXJPVHhTeVVhbzNLaUw2ZFIzN29HRWpIeHhpSjNZZmFZUWx0VnVKVGZPcjA5VWNq?oc=5"
-    },
-    {
-      "title": "〈台股風向球〉AI供應鏈遭外資提款壓力驟增 等待摸底訊號 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkUmdJNWpfemZILXdSTVIyeEJtRktFeFNGejM2a3RGZDFkTUgtaUlSc2FtTGZOTVhDdC10NERublhZUldoRFBrUV8wWEpXRkE?oc=5"
-    },
-    {
-      "title": "黃金期 區間操作 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2cGtVbThFMTE2X1ZETmItRC1xT0VON0k2WnBUSGxyUUpiNVVNUEJZRlduWHY5YmkxT3lscDJ6ejFORTM2VUl6ODlLQm1rM1M0RW45MjVYMGduZDjSAWBBVV95cUxObzhDbFpYZzRxOUVSVHd5OHZZcTVDUG5RWDhqajdxVlB2T1kzbXpKYzBVbVBNaWNfTnFWbWpqT05rY25qVnlna19jeDVDdTBFWmtZWXd5LXUtN2FxMlVMbjI?oc=5"
-    },
-    {
-      "title": "台股周一新增6檔「關禁閉」！飆股大甲、蔚華科、「這光通訊廠」全在名單上 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNd1dTOW1Fa1FtNHdLaUc1QmpyRnZXdGNvZktDVVR1RVNWVzBEWE1TYVRFaEpCUXUtc1k0S2VJeWN5R3VDV1FYalVFWGpLamRnNUpYUU44VWhjVkJuX2JiQkR4Und0Nnp5dnZUem84dHFMZExqT3I0dEpYbG5oX0J6bnhWb05KdWZTQXZ6cm5oMGIzaXJvdmp2YkJWMXZfWlBZX19iNnJRQXp4Z1BYRGQ1blZoM05kRnE1OFpuSlVqMk5mMFl4akduQnpNeTFGMU13bXNfdVlaMEVCQWVjNnA4aXphR0ZaSU1TaEJhV0duZ1k0ejUwYXVSQmpSWGpJUVZJM1pXMy1rXzgtMElITThjUlNRd3FnRWhyUkxBS1VoLXhXZw?oc=5"
+      "title": "TWA00 加權指數- 市場焦點四大本土投顧：台股震盪後開新局多頭有望主導新一... - 股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fQ3R0VlFMSHdiX0hrbHFoZ2I5Mkg0emNnUS12cVpXV0FLQlh3R3l2STJOeW1KWE5MbkxRWlZGUWpSV1FuM1Y4VTdUZ0tpODgyMUo4a2ZtbE8?oc=5"
     }
   ]
 }
