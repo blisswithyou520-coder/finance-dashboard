@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/19 07:29",
+  "updated_tw": "10/19 09:34",
   "taiwan": {
     "2330": {
-      "price": 2420.0,
-      "change": -20.0,
-      "changePercent": -0.8197
+      "price": 2395.0,
+      "change": -25.0,
+      "changePercent": -1.0331
     },
     "2454": {
-      "price": 4250.0,
-      "change": 85.0,
-      "changePercent": 2.0408
+      "price": 4165.0,
+      "change": -85.0,
+      "changePercent": -2.0
     },
     "2317": {
-      "price": 244.0,
-      "change": 4.5,
-      "changePercent": 1.8789
+      "price": 240.5,
+      "change": -3.5,
+      "changePercent": -1.4344
     },
     "0050": {
-      "price": 109.0,
-      "change": 0.1,
-      "changePercent": 0.0918
+      "price": 107.4,
+      "change": -1.6,
+      "changePercent": -1.4679
     },
     "00878": {
-      "price": 35.53,
-      "change": 0.44,
-      "changePercent": 1.2539
+      "price": 35.11,
+      "change": -0.42,
+      "changePercent": -1.1821
     },
     "00919": {
-      "price": 32.74,
-      "change": 0.36,
-      "changePercent": 1.1118
+      "price": 32.34,
+      "change": -0.4,
+      "changePercent": -1.2218
     }
   },
   "us": {
@@ -72,81 +72,48 @@
   },
   "crypto": {
     "BTC": {
-      "price": 82012.68,
-      "change": 630.5316,
-      "changePercent": 0.7748
+      "price": 82402.36,
+      "change": 1020.2116,
+      "changePercent": 1.2536
     },
     "ETH": {
-      "price": 2406.73,
-      "change": 6.9309,
-      "changePercent": 0.2888
+      "price": 2422.0,
+      "change": 22.2009,
+      "changePercent": 0.9251
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.428,
-      "change": 0.1011,
-      "changePercent": 0.3127
+      "price": 32.496,
+      "change": 0.1691,
+      "changePercent": 0.5231
     },
     "JPYTWD": {
-      "price": 0.2032,
-      "change": -0.0012,
-      "changePercent": -0.5919
+      "price": 0.203,
+      "change": -0.0014,
+      "changePercent": -0.6898
     },
     "EURTWD": {
-      "price": 36.413,
-      "change": 0.1648,
-      "changePercent": 0.4545
+      "price": 36.45,
+      "change": 0.2018,
+      "changePercent": 0.5566
     },
     "CNYTWD": {
-      "price": 4.8571,
+      "price": 4.8551,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4196.8,
-    "twd": 4376.0,
-    "tael": 164082.0,
-    "twdTotal": 136094.0,
-    "changePercent": 0.3755
+    "usd": 4189.0,
+    "twd": 4377.0,
+    "tael": 164120.0,
+    "twdTotal": 136126.0,
+    "changePercent": 0.1889
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": [
-    {
-      "title": "空軍壓境！台股警鈴大響 後市三情境推演 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQZEhuX215QnhHRWtEQXZBaHBoQVI2SW1fRFRzdVdTUFQtS0JCSHMtY0VUTUd3bWhmc18yVlVvQk83SHY2clNzVkRydWhDR25sN1FFUnNDWC1EemdYSGxycnFXVnpqS3FKb2YtUWE4Z3Z0NHd5dE91ZTBiT3hjNTF3UXJlZkY2bnVma2JIQWVheDN0aVZzN1YzY1UwY3d2R3VzSEItWDdSS2FtbXdOMkM2eUd2RU9RY0xFWXl1dU9nQkl3Y3l5dFF4VWdrcHJEb1JWWFN4Q2dUR01oQUE3eUNrbW90bFlXZHpRVjFVZ2lub0JkYzdYeW5Hdm56blBvb3lKZEROSHRva1R1bVlFTVBmZEVFeFF4YzRjNnhyYTFHZXlMZw?oc=5"
-    },
-    {
-      "title": "《貴金屬》COMEX黃金上漲0.3% ETF持倉增加 - 商品原物料 - 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkd5MVRrbzVUbDlnMVFDaTBFZ1lRanZZRXliZndnS09heFhjdXp6d29FdFdXVUdwRktKV2dCQ1MwNEJ2aV9qRmNaRk9xMUtCakw0TGVELVhkOHpqUTI4WkgwcjFVQ3FvUjRIUzg5QzdvVTE4S3NSdjIzb3J5aTlBbWY2U0xLdnM?oc=5"
-    },
-    {
-      "title": "適用於財經服務的 AI：轉變決策制定和效率 - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ0V5RzJmWFFCNDBBZm5LS1RUWERhZzNGYkUxOTRfcURKa1BNbXdfWWtnSGRqU0FuNHpRaGk3U1NwbllPaC1qVVJ3VXpxRktrR2ZwWDdsX2VwdlRScUktTzB1Z1NTM0piV3ZaWGNQN3RBUzV6MzZPTHQ5NUJXVHVzakI5bUg?oc=5"
-    },
-    {
-      "title": "四大本土投顧：台股震盪後開新局多頭有望主導新一波走勢| 股市要聞| 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5TjVqbjJPaTJPbVVfZW9NejB5bFBBSmRZa1RJV1ZrWF95a2w3U1JROUpFTG10UUF4eWpuWmQ1YjZMbWVnOWQ5Uk55RV82c3FxVVYyVXRxcmR2STJDNFpTYzdxNm14N0phRDUyUG41R3pBUQ?oc=5"
-    },
-    {
-      "title": "比特幣承壓徘徊8.1萬美元 美股疲軟與ETF資金流出雙重打擊 - 商傳媒 - SUN MEDIA",
-      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOVXY1WUpXX193MVQzSUhscGVsWVFaX09aZVFzejgtd1lkbFhvN1FpTXUtanBXbUQxQWxxOEJkNmhCLXJZbnQzS3drNU9Qc01KZlU1NzgtY3NtVXBDSVMwZGZQVFQwa19zbDhBUmprbDNreEx2RXhEMEQ1bTF1aGZBVThpMlNVdUVIS0ZGcHQ5cTRzZVBjRUZjYnpMaDlIVDJEZWxqWXAtYTYydHJmVVloSUZxQUlvT01ack9zc3RpNzR6ZkgzMTlkVlVJM19IVWZFWFY2QzB6VkZ6RFJfNS1RaDlTSW1Eb0dubkxHY0tNR2FlYll0YzJFUG43bG1EYU01emZPVHBSOGNkUnA0UExSc3Utam13c2czLXhaUzA5SFktOUxSenRsZnotZUhtZGlTQ0o3ZDhWOEw5cDVMbGJZVlVXeFBmdF9wUzF5TXRkSGMyQjFUMEFCd204ZEtubjFlODdFV3VuaTlYelh3c05EYVUzc1pFTElZbmJUbXNnMA?oc=5"
-    },
-    {
-      "title": "美股繁榮是假象？AI泡沫疑慮升溫 標普500恐面臨30%修正 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GREdKdWhGX0lqcDBTOVRnMXROQmlUYmhkNmhUS2tCdTdHeTNPUlNQbE5RcWFNR25tc1Y0WFNGUjVqbzJ0UURmOUtaMTFWcDg?oc=5"
-    },
-    {
-      "title": "黃金週評：金價驚現「周線魔咒」！4200美元大關久攻不下，黃金變盤在即？ - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhdFlUVkZWdnFfZ01qSFRuSDUwYmlveHdFSy1tWk5vdEUzTmplR2ZrWmZybEhjNmxtcjJvQTBnRGFNaHhOcU1zN1hOSEdPZTR3dGROZ2dTV0J4UEpNSTFZUzBncl8?oc=5"
-    },
-    {
-      "title": "TWA00 加權指數- 市場焦點四大本土投顧：台股震盪後開新局多頭有望主導新一... - 股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fQ3R0VlFMSHdiX0hrbHFoZ2I5Mkg0emNnUS12cVpXV0FLQlh3R3l2STJOeW1KWE5MbkxRWlZGUWpSV1FuM1Y4VTdUZ0tpODgyMUo4a2ZtbE8?oc=5"
-    }
-  ]
+  "news": []
 }
