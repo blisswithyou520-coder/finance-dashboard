@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/20 04:04",
+  "updated_tw": "10/20 07:41",
   "taiwan": {
     "2330": {
       "price": 2420.0,
@@ -19,8 +19,8 @@
     },
     "0050": {
       "price": 108.15,
-      "change": -0.75,
-      "changePercent": -0.6887
+      "change": -0.85,
+      "changePercent": -0.7798
     },
     "00878": {
       "price": 35.15,
@@ -29,8 +29,8 @@
     },
     "00919": {
       "price": 32.45,
-      "change": 0.07,
-      "changePercent": 0.2162
+      "change": -0.29,
+      "changePercent": -0.8858
     }
   },
   "us": {
@@ -55,9 +55,9 @@
       "changePercent": 1.206
     },
     "SPY": {
-      "price": 766.6,
-      "change": 3.35,
-      "changePercent": 0.4389
+      "price": 766.48,
+      "change": 3.23,
+      "changePercent": 0.4232
     },
     "SCHD": {
       "price": 34.24,
@@ -65,28 +65,28 @@
       "changePercent": -0.3202
     },
     "VOO": {
-      "price": 704.66,
-      "change": 3.05,
-      "changePercent": 0.4347
+      "price": 704.6,
+      "change": 2.99,
+      "changePercent": 0.4262
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81840.25,
-      "change": -177.3516,
-      "changePercent": -0.2162
+      "price": 81962.31,
+      "change": -55.2916,
+      "changePercent": -0.0674
     },
     "ETH": {
-      "price": 2396.59,
-      "change": -12.1515,
-      "changePercent": -0.5045
+      "price": 2406.88,
+      "change": -1.8615,
+      "changePercent": -0.0773
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.47,
-      "change": 0.083,
-      "changePercent": 0.2563
+      "price": 32.48,
+      "change": 0.093,
+      "changePercent": 0.2871
     },
     "JPYTWD": {
       "price": 0.2026,
@@ -94,22 +94,22 @@
       "changePercent": -1.28
     },
     "EURTWD": {
-      "price": 36.441,
-      "change": 0.0858,
-      "changePercent": 0.2361
+      "price": 36.462,
+      "change": 0.1068,
+      "changePercent": 0.2939
     },
     "CNYTWD": {
-      "price": 4.8667,
+      "price": 4.867,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4162.2,
-    "twd": 4345.0,
-    "tael": 162940.0,
-    "twdTotal": 135147.0,
-    "changePercent": -0.452
+    "usd": 4153.4,
+    "twd": 4337.0,
+    "tael": 162646.0,
+    "twdTotal": 134902.0,
+    "changePercent": -0.6625
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxPeUtyZnF1Wm8yWHpvd2JrNy03V25RdDRodTkyQzdFMzMwU3BtUmR4MEQ5MHo2TU5WZDZlRGZzLUN6Y0JaUG1wYUI5dGJOSHc1c1gtdWVWLVZkM0RCS2FOYVk4LXBNSHUtU013UlVGRkNpeF9jaksxaGpqRXBKTVlvdF91TTRnX1FzaTl0dzFUZ3gxTWdyTm5lU3BOSXpubDRzeHRhNVVwR1VLWDBLR290aVNjM3J4cXBFdlFLaHpvcDNUOTNidEM1TGpQYUZVQmZnY3dFcU5nUGtsNW5MT0lfU2dxQmNpVkxxbUl2Q2RpcFdxY1VIVE9uakNLZHpMb2oyM25GUG5VWndWWlNzMnZaT1M5azk2STAwdHlEYzJWLUY3bDdFVlRzc2ZpV180QTEtZml6a0RGMXFpMFVVYlN3S1M0SmFENWtvMVNlRWU0Rmx4OXY3UXFYUmZSSnM0TEF4VHhxaDZ4YTNyQ1p4UUpOYkwxWFRSRHkxQS0yb3FMQi15SS1yUDg5TklOT2NtUVExSmt4RFl5TnhUSnBXdjdWeUl5cG8tek51aENscHN2NGVyMVlOUG11Y1NpbUFpTlhGVUZF?oc=5"
     },
     {
-      "title": "〈美股早盤〉AI股跌深有人接！晶片巨頭反攻 那指開高 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15NGVKTV8ySXhJYk5LQVhaenNIVmx2WllZZ3R0Y3J1RjdUNEY4enRpdWl6S0gtbzJjeWFYSWxUT050N1hiTHI2WFNsbDNBQXM?oc=5"
+      "title": "〈美股盤後〉AI買盤回流！那指費半走高逾1% 晶片股領漲 道瓊小幅收黑 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMUkY2N1NjOWJKZzQ3UFZpRU5qMkF6bm45a29LM25XWl9QcXZJVGI2N01peFVrbHp5aksxR0pVYkhMaXkyRWVjN252MG9tYTA?oc=5"
     },
     {
       "title": "美股早盤／油價跌、科技股回神 英特爾勁揚5% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zeGotQlczbHYtZFVUX21jUUdNa1cycXowUFNtb0s0OGZpMTlxUGtjTnEtdEJYNnctckkwRlJ5dVV0dmhXY2F0ZWFYd3BkVWJN?oc=5"
     },
     {
+      "title": "AI買氣回流！晶片股領漲美股 台指期夜盤跌78點 - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQa3B6Y3JiaWprWW1xNlQtVUx2RnhpZUt5Tll5NVpWVG9QZWpGSVJWd2JZVnkzaFpZR2x0Nmp6bjFFVm9lSHZFRllHdTBseXdRVThVcXJfUkpWOTZIMWJIYThOREl4Q19LTHdtT194WXRMcVhpTnl4T0NrUERvMWhIc0hkb3NSVGJBdklneGttNndqR1lCWm1LT1ZHQ0xyMVFmMklXV294Sy12YTFmY1g2UWNPTzRlRHN1QkMyM19TZUV2cjlfMnRVelo2VUJBZ01wOG5Ka1RaUEN4bXYxaU9fWThGVlNaNkszODREaDhEOHdhSHMxdFlJcU9TdVNxR3QwRU1DN010X3FYZFlwd1I0U2U3QXNDSndQM3cyQXZhOFpjRXRMN2wxNkRZQXgwNWJRNThxX2xBeFUtUkxjdm9XR0RsMWUweHc?oc=5"
+    },
+    {
       "title": "【美股盤前1019】Meta成為焦點！財報季才剛開始！｜豐雲學堂 2026 年 10 月 - 永豐金證券",
       "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQaWZBT2k0QUQ0bU1wX2t5UFpkanZWdmdrbjZ4LVJSdDB2c0RVN0xTRlRpMERLMDRXM2RWNENvSWo2UXBLYmh6TEprREhkN3puUUVEVlFkdzYtU3hUUTI0SjhKMklyb1Zydm1NME1JTlQxWWhKTVRjU0hXcFhhZlBRWmVlX09iZDJwZ0tmbVI1aEl5cVUxSG9zaVVwMnhFcFYyOUZsdEFSTFFQT1BQdWdzWGNRSnZycGVzcjBaTDZ4dDVHU0NwemFsLUZDLTk3VjRzaEtRM01DcHN4cUpVSlRNZFJReU1icFhwSkVjVXNuTkU2aVpzX2dfUmVMZmFrWG9fOEF5VEd2ZXlCMXBueWRqZ01BV3VlT183TGgzekdoMExFRnB6QUVvZjBLYTM5eWxJV0VVdXdyNk1YUk81emExbVZkMmx4bWty?oc=5"
     },
     {
-      "title": "金價再度陷入震盪！機構對2027年黃金前景出現分歧 - 群益期貨",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZnU4WC1Pald2Q3BfUk5qODBtTzREWkkyZE9YVVNnMENmWjBQQVI3TEVYMFZjUUx6WmMzY0lyQ0NsYmVjTk1yb19oMTZlUHlZNld2c19uOFBMTFRWNnlxQnNodG0yRVlkTmhubnhXSy1WZi1peDVvdl9Jc19nYUJhV2VkMFc2OVR3SVFwSkVWTlN3Tm9iY09FQm5qTXFqN1ZM?oc=5"
+      "title": "AI交易強勢回歸！美股那指收漲1.11%　英特爾獲調升評級 - NOWnews今日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUaWZpYnBxT05nQnlYdFp6UlNoN09qYWdKZGVvLXdWUjc3WWtlZDhsTkl1WnNVTEYtbGpNX2treUZpeUlyaUpQT0s1WnnSAVJBVV95cUxQcE5HQkp2bFctV3RaV0VjVmJTendMSk02VmNUSEJkYl9VaTkzN1FCcUZnYTNIeEQtOVBYNTVfOS1pS0VaeVdveDF0YngtWUNLdzhn?oc=5"
     },
     {
-      "title": "快訊／台股明有望回血？美股開盤費半漲350點、台指期夜盤逼近47K - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNaDBjRGhwVG16bWxTYU42WGg3Vk9qbEtyal93OWtSeWFDRnRkYmwzalY4aDIzZ2pGNjFpT0Q1bU5Qb2ZaOWFwcHg2TWdRdU5RVjJ3Wl83Z0lBcWZzRktvYlJxVFF1WTVYQ0wtMUM3Z2lXNEQ1enIyZ1Zsb1dLNVFUdE14YnR1LVI3dFd3ZGZQeFoxTDhBTVJzaWxWWkcxVUV5cmRpTWxGNWZhNEpMeGprbDV6ck94TFNSYmtWbVpPc2hjZ1ROV1E2ZExBOEh4WHNHNV9TRXJNdW9YWk84Wks2M3ZIeGtyT0tVeWVkZ1ZDbWRPSFVkX1pyVXNZak9uSkRyU2xSVC1BOVFpVTh6RHhkeWRhQU82Q2tXSFhhZ2NTMEoyY1pINHFDQ3pxX1c3NVlMVWNHbkRnMzIxWW9qWU1OcjNINE5kdmlBa1lPRkUwRUpfbTg1SXpjWVVoREVUWGlYTXl6alhOT0ZRRDdnXy1WbkRLYlY0bDlEVVF5TjdHdw?oc=5"
+      "title": "台股非獨自修正 金管會暫不介入 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQT2hBc3N5ekNZWmRJdnpKY3lLYzZzNmpmZl9PVFVMWHdtaU9FNXJ4WUVLQ2NONGc1WjBvZlJKc1NURmJ1SmMzbHRzb2VRR19oVUZLaG5B0gFbQVVfeXFMTjFXQ0hyTHlWZm05cmRsbWtXa0h3WnF5ZnFjb3FRc1dyTEo5WmpVNTk1SkR3V1F3QXpUOGNRTWtDRllXRUU5TVc0RURPbGVsVW56aGtiMC1MM1EyMA?oc=5"
     },
     {
-      "title": "美股期指反彈 油價自110美元高檔回跌 本周指望科技財報救大盤 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02aEJCZ0t4MHlwZ284TUdUa29PMm11RmFxRDBzUEN3dC1SNXhjbTFUQ2dZb2tLZVlJUUhaejdYd2V0TWtKRkJQbXFuRjlqU1VoaUFpSkZ1VnNRYUF10gFiQVVfeXFMUGszNExBaGlaR1BoMFd3cGdxVHNlVENiNXg3dnNiRnVPUGs4Yi1lSW1OX0stVVlMWWVfMGp5clNwVzFTSTVPZm5ORzUxSkUxUnlNbnNfb1h6Ynp1ZlJVdkd3aVE?oc=5"
-    },
-    {
-      "title": "今日漲停股｜台股開低收斂跌幅，電子零組件與PCB族群逆勢亮眼，富喬、凱崴、科嶠強勢漲停 1019 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxPRi10TWdCd25UMmxReUQyM3AxQ1RoTTFicUdNdnRVLVVMcHowY3F0b2d2OGdCX0pQckNFSzRSUGZLNkZ0ZXZRNzJ5WWZROE5ObUNBY2hQejNMU2pzUGxIMWhoc0RRU05tY0EtdHYzQl9qZDMyR0VkT0RHZ095aXdEZWFzQUxrUVhmekhYa0hwZGNZa2M3ZlNxUENHenNSbU9KN0FnUUkxekN6bHNYa1VwVGJZcE5OZHkySEFoVF9qdDNHbnVhX2xzQUZkVFNXOFNsVWZJVU42YWtYRlZNSEkzVUtLRVZaOXJTbjJnRnlEZERzRUVCUHBjemlvLU0zaGxZTGhtWERtTTdadVptYmdYeS01eTZJczllNDJfM0NBdnF2eTIxWjJ4T0dQb09lOC1tVHZDUGEwMnIzOWF0bWF3cmhaSG5iR1ZRV25tejFFbFRWcjhsb1FNMzFnTXN2VUdGel8zb3BNS08yMEcyRFdqY1lXNnNVQWh5Q0pFN29zdmlFaTVCamJ2N05KZFlaMkd1MGJnU3lNR095NVd1SmxJb2twTGFYNGNXV1VlTi1QYm5aMGRrMGR6Z1ZlMGE5SG8wdmlMRXZiME9SOHBkYm5GNElqWERXdFdma0E3YWhVUzJIR1BFTWRha1BxeVZvUW54NW44cGNSWmJEckYxczZyUUhTd245QTNBUHBJTXpEWU9ydHdrdkY1TnBaOG43WVlhMzBsU1lXdTVid1NUQ21BZ3VYOThHZmM?oc=5"
+      "title": "贝莱德提交比特币下行保护ETF申请，挂钩IBIT并设收益上限 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pRUxuYlptM1pXUndFSng0UzFOeHlmbkZ5NUtqYlNsRTg2M0VpSFAxTDVYdFhUVVA5YTFrcDB4dTg2YVd3U3UzeVNxVXdCYWlIVHR6dC1peG54cjMwa2IxemlEaUpvQQ?oc=5"
     }
   ]
 }
