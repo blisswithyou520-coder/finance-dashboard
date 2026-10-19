@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/19 09:34",
+  "updated_tw": "10/19 14:51",
   "taiwan": {
     "2330": {
-      "price": 2395.0,
-      "change": -25.0,
-      "changePercent": -1.0331
+      "price": 2420.0,
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "2454": {
-      "price": 4165.0,
-      "change": -85.0,
-      "changePercent": -2.0
+      "price": 4205.0,
+      "change": -45.0,
+      "changePercent": -1.0588
     },
     "2317": {
-      "price": 240.5,
-      "change": -3.5,
-      "changePercent": -1.4344
+      "price": 239.5,
+      "change": -4.5,
+      "changePercent": -1.8443
     },
     "0050": {
-      "price": 107.4,
-      "change": -1.6,
-      "changePercent": -1.4679
+      "price": 108.15,
+      "change": -0.85,
+      "changePercent": -0.7798
     },
     "00878": {
-      "price": 35.11,
-      "change": -0.42,
-      "changePercent": -1.1821
+      "price": 35.15,
+      "change": -0.38,
+      "changePercent": -1.0695
     },
     "00919": {
-      "price": 32.34,
-      "change": -0.4,
-      "changePercent": -1.2218
+      "price": 32.45,
+      "change": -0.29,
+      "changePercent": -0.8858
     }
   },
   "us": {
@@ -72,48 +72,81 @@
   },
   "crypto": {
     "BTC": {
-      "price": 82402.36,
-      "change": 1020.2116,
-      "changePercent": 1.2536
+      "price": 82686.78,
+      "change": 1304.6316,
+      "changePercent": 1.6031
     },
     "ETH": {
-      "price": 2422.0,
-      "change": 22.2009,
-      "changePercent": 0.9251
+      "price": 2427.0,
+      "change": 27.2009,
+      "changePercent": 1.1335
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.496,
-      "change": 0.1691,
-      "changePercent": 0.5231
+      "price": 32.464,
+      "change": 0.1371,
+      "changePercent": 0.4241
     },
     "JPYTWD": {
-      "price": 0.203,
-      "change": -0.0014,
-      "changePercent": -0.6898
+      "price": 0.2033,
+      "change": -0.0011,
+      "changePercent": -0.543
     },
     "EURTWD": {
-      "price": 36.45,
-      "change": 0.2018,
-      "changePercent": 0.5566
+      "price": 36.475,
+      "change": 0.2268,
+      "changePercent": 0.6256
     },
     "CNYTWD": {
-      "price": 4.8551,
+      "price": 4.8661,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4189.0,
-    "twd": 4377.0,
-    "tael": 164120.0,
-    "twdTotal": 136126.0,
-    "changePercent": 0.1889
+    "usd": 4197.4,
+    "twd": 4381.0,
+    "tael": 164288.0,
+    "twdTotal": 136264.0,
+    "changePercent": 0.3898
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "美股期指反彈 油價自110美元高檔回跌 本周指望科技財報救大盤 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02aEJCZ0t4MHlwZ284TUdUa29PMm11RmFxRDBzUEN3dC1SNXhjbTFUQ2dZb2tLZVlJUUhaejdYd2V0TWtKRkJQbXFuRjlqU1VoaUFpSkZ1VnNRYUF10gFiQVVfeXFMUGszNExBaGlaR1BoMFd3cGdxVHNlVENiNXg3dnNiRnVPUGs4Yi1lSW1OX0stVVlMWWVfMGp5clNwVzFTSTVPZm5ORzUxSkUxUnlNbnNfb1h6Ynp1ZlJVdkd3aVE?oc=5"
+    },
+    {
+      "title": "台指期暴跌1144點！美股費半連8跌！週一台股會再崩千點？ - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sdU9qaHJ2YXYxLXh3ZEhTamx3ZmhEVG1Lc2VjUFpEYVVJQ1k4cnU5N3RiRmh2NGtVa1JZRGctOXRVSThVVU9ndFdCZlRpOHc?oc=5"
+    },
+    {
+      "title": "美股泡沫警報響了！華爾街曝本輪AI崩盤的風暴眼是「它」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zS0NRaE1Dc0FWRVR4bzRsSTFIamdYUDdVaGVkbjVNZDNVV2ZWeUFUMFFnWDdJb18yc3Q3REFnNFZJSzNYbTNqbFpndFpOaGtOS01mVWV5RFBNUHdyX3ZJ0gFkQVVfeXFMTk41MWpjWkoyOGhoUi1kTEFZWWdNbHdLd0R5SmNUV1hOemQyVXdyMkVYY2RBbkpRdUdWenBBZXI5TnNQbXk2YkFjS0p2TkdDeUNFYllYcG9qT2pNVk1hV3Z3cEdPUg?oc=5"
+    },
+    {
+      "title": "台股一度挫逾900點！ 呂仁傑喊「5萬點不變」：先蹲後跳 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNMXNpYzVkSDdHeDdRRTF3UTFfT0RsWTlFUloycmpmUWRuc0FsV1VReF9fQlhKbkJTWXE1QndRZ1EwejRldDdSaFEwdDBuc1Rrckw4QU1oZzRUUHhORUhQblVPVWt4U3hJTmhZWXJyV0xmbmMwTkxlbG4wdXpsWXBjOFFFeUdIdjVvSnN0U2RIVkp5eGVjMFB1U01tNWFxTzJWcnVoX0xYaDJBNnA2eGZmdm1wWE5FS0ppTXFiVmk1QlNzTVZ0T3dnLUEzQjdnVDdod2lrX1FBOE5ZQlVvaEtJZWpRajBfdHhjQUxKM3ItN3dBU1BaMW5SVm5rSWhBRGI2SU9LZE13QU1NR2VFZ2R0S2NYb1RXNF94TkVoTnJJUnFkWFFnMHN6MUdZVnZoMG0yV0V5bHczMHc3cFB1cnc?oc=5"
+    },
+    {
+      "title": "比特幣反彈衝 8.3 萬美元！528 億美元合約未平倉、期貨交易量暴增至現貨 12 倍，恐再爆清算？ - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRGVUQzFXa3FIN1ZjWnBvcEtvaHN1OVdwbXJRbWdUWXN3bFROY0VhNUZRdFlwSEsxRUVsaHFDbkpWQ1l1MjdwTE42d25taHl0Q1o1WUdLamtseHR1eFJLZVVTclV0bEFzZmxyWkxvcURwazQ0YnE0RmFJNzY4dFpUTWtpWGVDclBYNjVmN3dvS1JNMHBWNTVhcHdMdTNfSFBzNUp2ZmtuNlNFTnZR?oc=5"
+    },
+    {
+      "title": "開低走高！台股小跌289點 台積電收平盤 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOcFJqQ0Qxcy1QZW80VVMxWGxzN3ZvY3puSHIzUWw3ekQyeHh2V2FVel9ON3U3N0swUjJkNkJhdDFkUjIzdVBtcDUwNmRTSmxqSHhjMUFpQmJKTENadlMwRDRmZExrelV3NEFVLTFYYXowdFJST3VsZ0FiTERrZWVsVnZweVZUM2ZKcTBTak5FLWFJbGNtUF9tNzZBLWRmNGg2YmtlWEtWUUpQOGZFNWlpaHltTUJ1Vm5BcmkxLU5jWVhkWGhYMG9zcFBwSFdMMXlGVFdKay1XUzFlNG5nX1hEc21Eal80c1NtWnhPM3l6cWI3NkswdlN3RlRsMm1JZGV6TGxyVmFPcnBQbW5FUmlvRU12UjNudw?oc=5"
+    },
+    {
+      "title": "台股是否跌入「熊市」？金管會：市場並未出現失靈 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YZXlwa0ktQm43ZnpoWnQwbF9oRjZ5M0F3eDdVWEh3QVpKU2dPSFBzUm1wYWZ6M2NYWTF5QWo1OHZtaXBIWFkycENzcWRQZmdMSjJWVjZTNE9MdVpIbHRR0gFkQVVfeXFMUGo2aU1xdElvcFFHSUpvemsxWU1WVVVRT29XZFUzdzR6QldQcjBnVGN1TERLRjh2TkY5Vkx3WkFtR2YweWN4dE5yR2F4OTI5dTBvMkYyMVR1aHRzVmdzRUZESXNzdw?oc=5"
+    },
+    {
+      "title": "台股何時大反攻…盯五訊號 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LanZrejBkTnNEcWRDSFkzVEJFQ3lWTFZuQUJYdHhmRjU4emF1SmFzUnNqaUJUWFlUN2lDem1RbEE5al9OTUZLejF3R2I2WW9Ia0twNjRHWkJGQdIBX0FVX3lxTE5hNGpmaEJyMTMxNFNNY3VXT1Z4UGs2Q0ptWmRhM0tUOUp5b0VMakVKVEJZZ1VyU1RVTnByMl9QaFJROTM5QTg0NWI2bS1CNFRTa05ROU9HQW50anRIcGNr?oc=5"
+    }
+  ]
 }
