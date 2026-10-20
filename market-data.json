@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/20 07:41",
+  "updated_tw": "10/20 10:06",
   "taiwan": {
     "2330": {
-      "price": 2420.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 2415.0,
+      "change": -5.0,
+      "changePercent": -0.2066
     },
     "2454": {
-      "price": 4205.0,
-      "change": -45.0,
-      "changePercent": -1.0588
+      "price": 4300.0,
+      "change": 95.0,
+      "changePercent": 2.2592
     },
     "2317": {
-      "price": 239.5,
-      "change": -4.5,
-      "changePercent": -1.8443
+      "price": 242.0,
+      "change": 2.5,
+      "changePercent": 1.0438
     },
     "0050": {
-      "price": 108.15,
-      "change": -0.85,
-      "changePercent": -0.7798
+      "price": 108.25,
+      "change": 0.1,
+      "changePercent": 0.0925
     },
     "00878": {
-      "price": 35.15,
-      "change": 0.06,
-      "changePercent": 0.171
+      "price": 35.09,
+      "change": -0.44,
+      "changePercent": -1.2384
     },
     "00919": {
-      "price": 32.45,
-      "change": -0.29,
-      "changePercent": -0.8858
+      "price": 32.23,
+      "change": -0.22,
+      "changePercent": -0.678
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81962.31,
-      "change": -55.2916,
-      "changePercent": -0.0674
+      "price": 81511.92,
+      "change": -505.6816,
+      "changePercent": -0.6166
     },
     "ETH": {
-      "price": 2406.88,
-      "change": -1.8615,
-      "changePercent": -0.0773
+      "price": 2388.3,
+      "change": -20.4415,
+      "changePercent": -0.8486
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.48,
-      "change": 0.093,
-      "changePercent": 0.2871
+      "price": 32.526,
+      "change": 0.139,
+      "changePercent": 0.4292
     },
     "JPYTWD": {
-      "price": 0.2026,
-      "change": -0.0026,
-      "changePercent": -1.28
+      "price": 0.203,
+      "change": -0.0022,
+      "changePercent": -1.0851
     },
     "EURTWD": {
-      "price": 36.462,
-      "change": 0.1068,
-      "changePercent": 0.2939
+      "price": 36.531,
+      "change": 0.1758,
+      "changePercent": 0.4837
     },
     "CNYTWD": {
-      "price": 4.867,
+      "price": 4.8772,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4153.4,
-    "twd": 4337.0,
-    "tael": 162646.0,
-    "twdTotal": 134902.0,
-    "changePercent": -0.6625
+    "usd": 4144.6,
+    "twd": 4334.0,
+    "tael": 162531.0,
+    "twdTotal": 134807.0,
+    "changePercent": -0.3726
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股反彈訊號來了？美股科技股反攻、台積電ADR同步走高 台指期夜盤逼近47K - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxPeUtyZnF1Wm8yWHpvd2JrNy03V25RdDRodTkyQzdFMzMwU3BtUmR4MEQ5MHo2TU5WZDZlRGZzLUN6Y0JaUG1wYUI5dGJOSHc1c1gtdWVWLVZkM0RCS2FOYVk4LXBNSHUtU013UlVGRkNpeF9jaksxaGpqRXBKTVlvdF91TTRnX1FzaTl0dzFUZ3gxTWdyTm5lU3BOSXpubDRzeHRhNVVwR1VLWDBLR290aVNjM3J4cXBFdlFLaHpvcDNUOTNidEM1TGpQYUZVQmZnY3dFcU5nUGtsNW5MT0lfU2dxQmNpVkxxbUl2Q2RpcFdxY1VIVE9uakNLZHpMb2oyM25GUG5VWndWWlNzMnZaT1M5azk2STAwdHlEYzJWLUY3bDdFVlRzc2ZpV180QTEtZml6a0RGMXFpMFVVYlN3S1M0SmFENWtvMVNlRWU0Rmx4OXY3UXFYUmZSSnM0TEF4VHhxaDZ4YTNyQ1p4UUpOYkwxWFRSRHkxQS0yb3FMQi15SS1yUDg5TklOT2NtUVExSmt4RFl5TnhUSnBXdjdWeUl5cG8tek51aENscHN2NGVyMVlOUG11Y1NpbUFpTlhGVUZF?oc=5"
+      "title": "美股｜AI買氣強勢回歸！那指費半漲逾1％ 特斯拉勁揚3.8％ 台積電ADR收紅- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xZWNWWDBhejl0X2FfVC1BaFR2VkVqTlcxMVFUYWJGeDUzT0lWWkgyT2ZmWWV6VDNRcUkyNWZha2MwZWtnU2VjSWt2VkctXzdLWmZUeWhUYmM3Q2dtcTFZ?oc=5"
     },
     {
       "title": "〈美股盤後〉AI買盤回流！那指費半走高逾1% 晶片股領漲 道瓊小幅收黑 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMUkY2N1NjOWJKZzQ3UFZpRU5qMkF6bm45a29LM25XWl9QcXZJVGI2N01peFVrbHp5aksxR0pVYkhMaXkyRWVjN252MG9tYTA?oc=5"
     },
     {
-      "title": "美股早盤／油價跌、科技股回神 英特爾勁揚5% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zeGotQlczbHYtZFVUX21jUUdNa1cycXowUFNtb0s0OGZpMTlxUGtjTnEtdEJYNnctckkwRlJ5dVV0dmhXY2F0ZWFYd3BkVWJN?oc=5"
+      "title": "台股反彈訊號來了？美股科技股反攻、台積電ADR同步走高 台指期夜盤逼近47K - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxPeUtyZnF1Wm8yWHpvd2JrNy03V25RdDRodTkyQzdFMzMwU3BtUmR4MEQ5MHo2TU5WZDZlRGZzLUN6Y0JaUG1wYUI5dGJOSHc1c1gtdWVWLVZkM0RCS2FOYVk4LXBNSHUtU013UlVGRkNpeF9jaksxaGpqRXBKTVlvdF91TTRnX1FzaTl0dzFUZ3gxTWdyTm5lU3BOSXpubDRzeHRhNVVwR1VLWDBLR290aVNjM3J4cXBFdlFLaHpvcDNUOTNidEM1TGpQYUZVQmZnY3dFcU5nUGtsNW5MT0lfU2dxQmNpVkxxbUl2Q2RpcFdxY1VIVE9uakNLZHpMb2oyM25GUG5VWndWWlNzMnZaT1M5azk2STAwdHlEYzJWLUY3bDdFVlRzc2ZpV180QTEtZml6a0RGMXFpMFVVYlN3S1M0SmFENWtvMVNlRWU0Rmx4OXY3UXFYUmZSSnM0TEF4VHhxaDZ4YTNyQ1p4UUpOYkwxWFRSRHkxQS0yb3FMQi15SS1yUDg5TklOT2NtUVExSmt4RFl5TnhUSnBXdjdWeUl5cG8tek51aENscHN2NGVyMVlOUG11Y1NpbUFpTlhGVUZF?oc=5"
+    },
+    {
+      "title": "【1019台股盤前】台積電財報週量縮靜待止穩！下週Tesla與Meta財報登場，TPCA概念股展會題材鎖定【臻鼎-KY】、【金像電】、【欣興】｜豐雲學堂2026 年 10 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQanp6X2RfSmo2X0YxNUxjd3EyVUVDQW96MjdhU09lcUxma2JEOTJiMXMtQ0V4dVl1VHZ0TDg3dHBOcUxMYXViOXR6UHZwZnBVX294QlM0NTZ1TVNkb1dfeWdQV2FXRGxQS3JTNzNoWjdaUnVPNWVGX2stTzJzZmpFdkp3?oc=5"
     },
     {
       "title": "AI買氣回流！晶片股領漲美股 台指期夜盤跌78點 - Facebook",
       "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQa3B6Y3JiaWprWW1xNlQtVUx2RnhpZUt5Tll5NVpWVG9QZWpGSVJWd2JZVnkzaFpZR2x0Nmp6bjFFVm9lSHZFRllHdTBseXdRVThVcXJfUkpWOTZIMWJIYThOREl4Q19LTHdtT194WXRMcVhpTnl4T0NrUERvMWhIc0hkb3NSVGJBdklneGttNndqR1lCWm1LT1ZHQ0xyMVFmMklXV294Sy12YTFmY1g2UWNPTzRlRHN1QkMyM19TZUV2cjlfMnRVelo2VUJBZ01wOG5Ka1RaUEN4bXYxaU9fWThGVlNaNkszODREaDhEOHdhSHMxdFlJcU9TdVNxR3QwRU1DN010X3FYZFlwd1I0U2U3QXNDSndQM3cyQXZhOFpjRXRMN2wxNkRZQXgwNWJRNThxX2xBeFUtUkxjdm9XR0RsMWUweHc?oc=5"
     },
     {
-      "title": "【美股盤前1019】Meta成為焦點！財報季才剛開始！｜豐雲學堂 2026 年 10 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQaWZBT2k0QUQ0bU1wX2t5UFpkanZWdmdrbjZ4LVJSdDB2c0RVN0xTRlRpMERLMDRXM2RWNENvSWo2UXBLYmh6TEprREhkN3puUUVEVlFkdzYtU3hUUTI0SjhKMklyb1Zydm1NME1JTlQxWWhKTVRjU0hXcFhhZlBRWmVlX09iZDJwZ0tmbVI1aEl5cVUxSG9zaVVwMnhFcFYyOUZsdEFSTFFQT1BQdWdzWGNRSnZycGVzcjBaTDZ4dDVHU0NwemFsLUZDLTk3VjRzaEtRM01DcHN4cUpVSlRNZFJReU1icFhwSkVjVXNuTkU2aVpzX2dfUmVMZmFrWG9fOEF5VEd2ZXlCMXBueWRqZ01BV3VlT183TGgzekdoMExFRnB6QUVvZjBLYTM5eWxJV0VVdXdyNk1YUk81emExbVZkMmx4bWty?oc=5"
+      "title": "美股早盤／油價跌、科技股回神 英特爾勁揚5% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zeGotQlczbHYtZFVUX21jUUdNa1cycXowUFNtb0s0OGZpMTlxUGtjTnEtdEJYNnctckkwRlJ5dVV0dmhXY2F0ZWFYd3BkVWJN?oc=5"
     },
     {
-      "title": "AI交易強勢回歸！美股那指收漲1.11%　英特爾獲調升評級 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUaWZpYnBxT05nQnlYdFp6UlNoN09qYWdKZGVvLXdWUjc3WWtlZDhsTkl1WnNVTEYtbGpNX2treUZpeUlyaUpQT0s1WnnSAVJBVV95cUxQcE5HQkp2bFctV3RaV0VjVmJTendMSk02VmNUSEJkYl9VaTkzN1FCcUZnYTNIeEQtOVBYNTVfOS1pS0VaeVdveDF0YngtWUNLdzhn?oc=5"
+      "title": "前紐約聯儲研究人士轉向黃金：美聯儲最終或被迫重啓購債 - 群益期貨",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN0tIQ015cXpmQ1FZTDI5SVUySFdTeVJPMl9kN08yY2luN01rOTRIX2FObUNyOUhjblUyOWRTbVY0T01xSEdlNXJKQ09VSTMxN2ttMHFuWXR0RlBWVG1vNHctSi1XaThoMDJYaml0R3RXam5RdVF4MEhQOFJKNFNXeHotbUpOQ2V4MEZOMk1hcw?oc=5"
     },
     {
-      "title": "台股非獨自修正 金管會暫不介入 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQT2hBc3N5ekNZWmRJdnpKY3lLYzZzNmpmZl9PVFVMWHdtaU9FNXJ4WUVLQ2NONGc1WjBvZlJKc1NURmJ1SmMzbHRzb2VRR19oVUZLaG5B0gFbQVVfeXFMTjFXQ0hyTHlWZm05cmRsbWtXa0h3WnF5ZnFjb3FRc1dyTEo5WmpVNTk1SkR3V1F3QXpUOGNRTWtDRllXRUU5TVc0RURPbGVsVW56aGtiMC1MM1EyMA?oc=5"
-    },
-    {
-      "title": "贝莱德提交比特币下行保护ETF申请，挂钩IBIT并设收益上限 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pRUxuYlptM1pXUndFSng0UzFOeHlmbkZ5NUtqYlNsRTg2M0VpSFAxTDVYdFhUVVA5YTFrcDB4dTg2YVd3U3UzeVNxVXdCYWlIVHR6dC1peG54cjMwa2IxemlEaUpvQQ?oc=5"
+      "title": "台積電跌20元至2400　台股跌283點來到46538點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jTEFjLUs2d3JjZlROUkxyc1ktZFpCRlNOTk5HNE02QUpTSFNJY1dzdDN5OHZJeFRRUktYVll1elVhdjFSaXM0UDJkeFZCQXM4aVHSAVBBVV95cUxOa3N1WnktOThHVjRCXzJjTlEzVk5jLWN0Z1ZSQU44TS03eHFVbi1PeTI2V3FXWWN1cDh5eXNMQ2JTdDBtWWhtUGp5LUFjWjFKbg?oc=5"
     }
   ]
 }
