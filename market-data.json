@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/20 15:32",
+  "updated_tw": "10/20 20:59",
   "taiwan": {
     "2330": {
       "price": 2405.0,
@@ -24,8 +24,8 @@
     },
     "00878": {
       "price": 34.88,
-      "change": -0.65,
-      "changePercent": -1.8294
+      "change": -0.27,
+      "changePercent": -0.7681
     },
     "00919": {
       "price": 32.09,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81438.61,
-      "change": -414.9291,
-      "changePercent": -0.5069
+      "price": 81496.2,
+      "change": -357.3391,
+      "changePercent": -0.4366
     },
     "ETH": {
-      "price": 2386.7,
-      "change": -18.1152,
-      "changePercent": -0.7533
+      "price": 2393.07,
+      "change": -11.7452,
+      "changePercent": -0.4884
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.601,
-      "change": 0.214,
-      "changePercent": 0.6608
+      "price": 32.657,
+      "change": 0.27,
+      "changePercent": 0.8337
     },
     "JPYTWD": {
-      "price": 0.204,
-      "change": -0.0012,
-      "changePercent": -0.5979
+      "price": 0.2044,
+      "change": -0.0008,
+      "changePercent": -0.403
     },
     "EURTWD": {
-      "price": 36.664,
-      "change": 0.3088,
-      "changePercent": 0.8495
+      "price": 36.701,
+      "change": 0.3458,
+      "changePercent": 0.9513
     },
     "CNYTWD": {
-      "price": 4.8886,
+      "price": 4.8973,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4150.2,
-    "twd": 4350.0,
-    "tael": 163126.0,
-    "twdTotal": 135301.0,
-    "changePercent": -0.238
+    "usd": 4141.5,
+    "twd": 4348.0,
+    "tael": 163063.0,
+    "twdTotal": 135249.0,
+    "changePercent": -0.4471
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NTHJUUU1Pd0d3bGxqMkMzbVpaclE4bm5NZ3hJV0pMZ2YyblJNN1FoN1ZzSUZZVFJhZG9TRjBmWFhfT0tvSDZOZUJrYmhRTHpi0gFWQVVfeXFMTXFqNng5WGdBYWU4TkdGTExHT18tanBQc0FrUTVoWHd5RmM3V2ZRc2lST3dmQVA4X0ZfTFFvSW1zVXBScm4zZEV5RXpfTW5lSG1GdnpxVEE?oc=5"
     },
     {
-      "title": "台股漲多拉回還能攻？張錫喊話第四季看好大型權值股 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNNDRnVzJxbzlndU5GbUtnMXFOa2NpWjJndmVqRkNITUZfV00yZkJFdlczYkdpb2VWb2p2SDlhbHVubWNYZXlzcUM3VFRKb0QyNTJxanZyLUVSTXg4OXU3b3dCbVB5YnFlaUVseXk1ZGJGVVNXbGlwX1IyeEpSRjZ0cmp2X09Cc3dXRF9KSDNEV2dxd0pRRV80WTRiZVYydVA1U19PXzkwMWJTRzV5VDI3d05zVEdQbHRjeEVoMERrLWNncVIzeEo5aTlJS1hBVUhpMldKZEVUOFl5S0x5VTBMb0hKcVFvY3ZkRF9sSng5a0t0OE9nSUo0NGlBblVrS3NRdnBxd2oxaGVVbHl1eHhGbmcydG5oWEdhaVdmRXc5MTVVZ0ktTFRJbGhXYnpPNDljR21QS0hlLWVrZVFfVW96ME5pM2xSeVRRV3J5bWpSWm1xOXZ5NnY0VjBmUzRqNEFsSnd1RnJSc3NTOWotWTJjZ21zU2tjU0VBX0pr?oc=5"
+      "title": "【1020台股盤後】大盤開低走高震盪加劇！融資浮額待降溫，META、TESLA財報即將來臨，主本比排行鎖定【富喬】、【德宏】、【律勝】｜豐雲學堂2026 年 10 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMihgVBVV95cUxQTmU0YmlYLVl4QTBVTkpmSTl4YmZ0ODRWS2NvRjhsN2ZUY3RJamJlOWh0aW5WSGEtSTFlSm5FSThibzY5LTFKTWhJUFE3VHpPaHdCS3MyYnE5WFllY1JiMWstWFZDSTl1U3B1dklBSVZNQktaUnl3OEZtMnBTR1dSUzNTckpVRG5wWkszVG1fVVJJanFCTEgxTDhPem5BbEhGV1FfZGdJNWt5dDhKZEZMYzF3VGp5QU9sLVNxdFlkbEJEUlFvSEIwVmN6SXZtMDYxdTkxOXZIa0hfOFZyRVVUWHlybmpobUlNRFZ4WGtKRUpNel9DUG00ZnROZmxiak1tTGU2ZXJjMGJqNE5pTzFSSDUzT2U0azNZRkhYNVVfdFNOMXdNWWdDNEdVZVFDQm9yd2Rsb3ZjZzhSbXNxc082VVRZZzFGLXluWTBvOUpldmZQQmVGTUZDV21QUkRqeTA0Qmg1TmVsQVpMaDFmQTFLc0FkZ3Fjc19jcFVqel9ybUFIVV9zY2F3MktDTjhMMm5tUDhiYlo0UkU2Wm1aX0dhakwxcG0xT2pGdGJiaExEb1lvSWdsX3JsZXp3OVFsX1hzcVR4d2lkLTMzTzdBRzRTZW52TnhTakFjbnFJd0JxYnprMzFKZWg0MTByelNxOTA2WTZfbUN0blAzRERBT3FEd1drRzE2U2Y2cDVKTFdXSDlhTlJXc0ZLWlZLcHB3M2VXZ2o1MHFlQ29nd19kZkFEckZjQVhvbVpqZDkzdnc3WU1fQ3duNkNzNy1WdmpNTzgyWXJCYXNBYkpwZDJnLWVrOV9kX3hXR2txWGxaU1lMOWY3enlkWnVhUkRWVGhyeUtVQTdZTFR3?oc=5"
     },
     {
       "title": "美股｜AI買氣強勢回歸！那指費半漲逾1％ 特斯拉勁揚3.8％ 台積電ADR收紅- 國際 - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xZWNWWDBhejl0X2FfVC1BaFR2VkVqTlcxMVFUYWJGeDUzT0lWWkgyT2ZmWWV6VDNRcUkyNWZha2MwZWtnU2VjSWt2VkctXzdLWmZUeWhUYmM3Q2dtcTFZ?oc=5"
     },
     {
-      "title": "〈美股盤後〉AI買盤回流！那指費半走高逾1% 晶片股領漲 道瓊小幅收黑 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMUkY2N1NjOWJKZzQ3UFZpRU5qMkF6bm45a29LM25XWl9QcXZJVGI2N01peFVrbHp5aksxR0pVYkhMaXkyRWVjN252MG9tYTA?oc=5"
+      "title": "貝萊德再推比特幣 ETF 新玩法！「PBIT」主打下跌保護，卻要犧牲 BTC 上漲空間？ - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObnlvenNqSkRtVV9YOWVvV3RWQXJZRXoyMjU1bzdpVDEySUYwN2xiZ3YtYUt1VndydVFvMlY2RWhzSHZ2QjVyUWtOSERjOUxFcFlUUlQzMkNPV2ZGckQ5b3ZrRV84bko3b0R5NWpsLXg3UW1ic0RBbE1MWnZVMElKSk9jeXZPQ0R4V1lJMG80dlRmMWZud0RreEdMUGE4Vjg3SVVfUDJhZzQ4Nl8yQkZKWHN5ckdub3drSDM0cmV4NjMwUUE2TkRKeG1oQQ?oc=5"
     },
     {
-      "title": "美股期權交易再“延時”：紐交所出手，英偉達、阿里巴巴、臺積電 - 群益期貨",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOemlIMHBSSi1jSFNpQkRGVFFJS2x5bVBzX1plbTluRTVYZDNtdUd6Zi13b1Q1Z2h1bmtXUmpodUswYWlUeDRFZGt5RWtyUndWVHVFQl9qR1JFc1JMZ1lVeUc3SVVKeGNFc3N1MllwN2JzNVJnS2ZzZTdULW9zYlFYeFlYM0theGZFb01IYV9FVUFBOEV5aUhIM3lMVTNMYjFJ?oc=5"
+      "title": "〈美股盤後〉AI買盤回流！那指費半走高逾1% 晶片股領漲 道瓊小幅收黑 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMUkY2N1NjOWJKZzQ3UFZpRU5qMkF6bm45a29LM25XWl9QcXZJVGI2N01peFVrbHp5aksxR0pVYkhMaXkyRWVjN252MG9tYTA?oc=5"
     },
     {
       "title": "台股開低震盪跌破4萬6 新台幣持續走貶 - 你的公共電視",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSNUJ2XzVBNVdkYnFpbEhJS29qTi02Vkt5YkZmUWh4LTlNYjN6MXdwb0NjMzg0TTk3X1lUMFg3Z0NFNms5dGVqUkVPQlFZTHM?oc=5"
     },
     {
-      "title": "【1019台股盤前】台積電財報週量縮靜待止穩！下週Tesla與Meta財報登場，TPCA概念股展會題材鎖定【臻鼎-KY】、【金像電】、【欣興】｜豐雲學堂2026 年 10 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQanp6X2RfSmo2X0YxNUxjd3EyVUVDQW96MjdhU09lcUxma2JEOTJiMXMtQ0V4dVl1VHZ0TDg3dHBOcUxMYXViOXR6UHZwZnBVX294QlM0NTZ1TVNkb1dfeWdQV2FXRGxQS3JTNzNoWjdaUnVPNWVGX2stTzJzZmpFdkp3?oc=5"
+      "title": "外資十連砍台股V轉沒力摔529點！緯創拉半根漲停「光學雙雄」亮燈放閃領族群開趴｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixwRBVV95cUxPWnJ5QndtUlZsbFBpbmNSQnU1WUZMWTVWVGZUS040cEhQOVNZTkVlRjdRNThxTmJPblg2MzQyVmI1ay1IRGhTU2R3cVZkNEVDMnlTdTNwYzV6aEJSamtaOFRQelZNZXR5TUVXWHhQcnVPLWRvVkRFQTU2QVhXTWJfREFhUXdydUduc0xuZjhFN09xTVhGNWR6clpsVVVKbDhEenRjMHE0azJTZUNEQ1BESDFBS180Z3IwOWVvZFlQWTdiSThrN0hsZXVvTE1FMGYxXzdFem9zYUF5X2VmOC0yRlNLTFRiM1FYb2t2RHJTcllnTkZjdDBwTjVSSWJqNjFOQkRCMnBYNS1SLUZudl9WYUlrUTZURDJwc0dKUXRzSTRrYXZkY2haNGNTWjZ0R3pPZGlYTlIzNFNxTkFNX0IwUlBjbW9jQ0x3NThFelE5bEVDQjItVVZuMkFwMlFSbmJBeG1KNjIza3BnNGdkMFJXTlB5aDlvSHRxLWFBMTY0eXJHMVBZNGpEVDRtTDdoX0pJeXpUN3hjNFFoN3RDUURXRjN2cThrc3RGam9jS2l1WW9TT3ZiX3B1akRCd2pUaUI4MHVhd3hkX05HNTFtYWxQeUpOVzg0ZFI1ZXpqWWVHNTZoSnVqcHpiQUtodUJkQ1JhR3BGTEtudmNWSGZMUFZ5c2pjUVhwNzBxdEhLbE0xbERlZUkzS1pSX203dzI4eVZzcmRGZkthOFlPVGl6a3V1bm95YURSQXg3N3FEN3JSXzZvajU5WENn?oc=5"
     }
   ]
 }
