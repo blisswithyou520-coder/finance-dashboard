@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/22 23:53",
+  "updated_tw": "10/23 03:45",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -19,97 +19,97 @@
     },
     "0050": {
       "price": 106.9,
-      "change": -1.25,
-      "changePercent": -1.1558
+      "change": -0.35,
+      "changePercent": -0.3263
     },
     "00878": {
       "price": 35.27,
-      "change": -0.12,
-      "changePercent": -0.3391
+      "change": 0.39,
+      "changePercent": 1.1181
     },
     "00919": {
       "price": 32.42,
-      "change": -0.11,
-      "changePercent": -0.3381
+      "change": 0.33,
+      "changePercent": 1.0284
     }
   },
   "us": {
     "NVDA": {
-      "price": 213.31,
-      "change": -8.66,
-      "changePercent": -3.9014
+      "price": 211.84,
+      "change": -10.13,
+      "changePercent": -4.5637
     },
     "AAPL": {
-      "price": 345.36,
-      "change": 1.37,
-      "changePercent": 0.3983
+      "price": 347.72,
+      "change": 3.73,
+      "changePercent": 1.0843
     },
     "TSLA": {
-      "price": 382.9,
-      "change": -3.57,
-      "changePercent": -0.9237
+      "price": 377.289,
+      "change": -9.181,
+      "changePercent": -2.3756
     },
     "QQQ": {
-      "price": 708.85,
-      "change": -16.35,
-      "changePercent": -2.2546
+      "price": 702.59,
+      "change": -22.61,
+      "changePercent": -3.1178
     },
     "SPY": {
-      "price": 764.21,
-      "change": -8.88,
-      "changePercent": -1.1486
+      "price": 762.05,
+      "change": -11.04,
+      "changePercent": -1.428
     },
     "SCHD": {
-      "price": 35.215,
-      "change": 0.555,
-      "changePercent": 1.6013
+      "price": 35.385,
+      "change": 0.725,
+      "changePercent": 2.0917
     },
     "VOO": {
-      "price": 702.438,
-      "change": -8.282,
-      "changePercent": -1.1653
+      "price": 700.48,
+      "change": -10.24,
+      "changePercent": -1.4408
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81539.0,
-      "change": -2472.9688,
-      "changePercent": -2.9436
+      "price": 81280.11,
+      "change": -2731.8587,
+      "changePercent": -3.2517
     },
     "ETH": {
-      "price": 2395.22,
-      "change": -75.5461,
-      "changePercent": -3.0576
+      "price": 2379.84,
+      "change": -90.9261,
+      "changePercent": -3.6801
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.592,
-      "change": 0.0144,
-      "changePercent": 0.0442
+      "price": 32.598,
+      "change": 0.0204,
+      "changePercent": 0.0626
     },
     "JPYTWD": {
-      "price": 0.2053,
-      "change": -0.0005,
-      "changePercent": -0.2531
+      "price": 0.2057,
+      "change": -0.0001,
+      "changePercent": -0.0588
     },
     "EURTWD": {
-      "price": 36.573,
-      "change": -0.0064,
-      "changePercent": -0.0175
+      "price": 36.61,
+      "change": 0.0306,
+      "changePercent": 0.0837
     },
     "CNYTWD": {
-      "price": 4.8875,
+      "price": 4.8905,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4065.6,
-    "twd": 4260.0,
-    "tael": 159756.0,
-    "twdTotal": 132506.0,
-    "changePercent": -2.0337
+    "usd": 4040.5,
+    "twd": 4235.0,
+    "tael": 158799.0,
+    "twdTotal": 131712.0,
+    "changePercent": -2.6386
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "摩根大通：美股拋售潮或接近尾聲，半導體成關鍵風向標 - 群益期貨",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaVhQelhsTzRrU3EwUVRIODZscm5MbDQtdUxoUl81SVR2NllFdzBkWE03Q3NvUzVZUzV1ZmY4MDNmZUo0cW5mbG5JWk5tbUl4ZGRLQThxUGtIZElHV1ZXOG4tbk9YWFlpQjBpbUJpcWVLdGpGN2VKUlRxNkVraEZCSXo4WFltXzhzVUx4ZWE0SFZZZmMwUXZTUXBCdWkyRC0y?oc=5"
+      "title": "快訊／市場重燃AI發展疑慮！美股盤中四指全綠 台指期失守4.6萬大關 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQNkdCaWJIV1lUR2FDdm82dkxaYVExLWxYdzg2S01OcVJZTTlacDhva0Utb1dZcEJTYkdNbFFOWmF0SHp5RUVNT1RxMHZBWTFNZElvRUY5SW5INU5rR3ROVTNNY216bXpoZ1JhdlY2bmVfS3FsOU9fT1hCQ2hfRHlobXlzaGcxMEpzRDNvS280UHY1bFhmZFZDaC1RZm51X05ZblRSTXBRMjlzaVZISmZNa1dQSy1PWkJoUmlraHhFTTZtRlFzcUJoWThpQi12U2VLWHduTUN2TlBrT1NJR3F5SFRURnBlbHNKMDg2b2dFWFktcWYwalpJQjhhRDBaZUFOQzNRODZFYXBiREtUWWRxUDZkQi1CZGZjamdWM191UXVUU1Z6UFVyR3pkT0lnR1NYRVFWV3JtbUFIUVZCUFpxNDlIclpGMU5QZzRpamJNVS1vOVpwZC1UOHljQlNlOWJHbzE3VHNaZG9yR2hVSGE2NE1QbklKLTFMQ1VMcHRHV1NwakZuSWd5WW1mVzU3LUE5b1RiczR3?oc=5"
     },
     {
-      "title": "〈美股早盤〉AI疑慮未散油價又漲！Meta與特斯拉走跌 主要指數開低 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84NVhBMXFUbVNRUE1JY2Y0dEZUNHBIVFA5dXE4LWl3M0Rib1F5MkRwVGZ4bXoyd1JucGxRYXAwYnhucmdOMXlrMUhXdktxa2c?oc=5"
+      "title": "資金為AI泡沫買保險 美股「最不希望漲的類股」漲起來了 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JankyVUNfMFdBYjdrZk81d2RnN1NPYXZZcG51V2ZkN1p1eVpETUtBQ3B5QVpEcXg2SDZjTWtXaE1yTHZDZHZ1MnNyb1FCTkU?oc=5"
     },
     {
       "title": "美股早盤／Meta特斯拉財報好也難救 四大指數齊跌、費半重挫4% - UDN",
@@ -145,8 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxObkV1SEI1S01VVUFFT1pIc3VocllHRUx5alFtWmVPTGlKZmtlbW90RnJ3cDJNMmhPbFY5bWNITkI3ZG5tV3ZIVGZWYTNLdVdEb21TMjVKcUpQOU1JTEdPN0VWemNuVkFLMFM5SnkzUjBhME9RRUtldHUtVVEwVlozR2lXcW45aXZGaTdHcnZ1MVhUa1RuUmg5UUYxRzZib1ZldzRuQmRUSG5kM2pGcEZhRzFrdWk0MkJHU20wRDRlQ2tfeUtpMkk4LVV6dzJqWTg3YV9EUUlkREFqV3dkR25mZHMtR2VlTTFrS2FhMXdTbzIzam1WY2E1VThxZzlsTTFPQl9CZ2hfWFA4TVFPSzRlcXJ1RTNrcklHREFLRFpFZ1NoYUZPal96TGY3N2xtdmc5RmhVZjVxb216WWEtVWplNGZ6TXhnMTNvdVowZ1BOYmNCMkxDZ0ZHbUVma0Y1cGFTSGNZ?oc=5"
     },
     {
-      "title": "台股震盪逾千點！兇手抓到了？分析師點名「7檔潛力股」有望迎反彈 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOWWdiSXdid2RQRC1Da3pHeURPTnE5WDZzaUZ3dlY5WFB2TlVFT1MxQ3Fmbm43anRNX3BDN0xYdGUwNjh0WXFVYl9TT2ZzTkFfS25vdW9FMlBlVU9tdEJ1OEE4RjhHaTRKQ0ZtQW9sV2pUZHBhZHY0ZmpUQVFOVzQxOHotUEJ4dzBDV19rMjFxU0U3dHYyUWIyOE1JbzdmeVJPNk1BM0txTkgxcUdZUEl1Y05qMy1wLW4yaTlzUmI2NEk5a2RQdnl5OVVhdjRSbGd6NzR1VXRaR01kbjQzNFVSbC1FV0l6bUFYQUE1WWZmUFBUbGNZLTJFb2Z1MDdVOTBqNHlaakFndEdQMUJVV3Vnd0lvV3lIaHNHTWx3NXJPMWJ5dWhpbk5fRlVoellpNTFrZEEtVDlVbW5IV1lKbGVkZmxLYU1mMzQ1Vi1waHRhQ3FUbTJ5OHhLYWJWaGc3Z1RRczlJQlJ2cFBMUWVIQTYycFM0NzJGenBZcHZ4eDNpdFFkMXJJYUZseC1pRThHYU5uWnBFd2NkTEtZQQ?oc=5"
+      "title": "殖利率下不來？美股會重演2000年科技泡沫嗎？35年歷史數據揭露關鍵差異｜美股評析｜豐雲學堂2026 年 10 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxOaHpaYUNtS1VaTzFLNk9fVkNoeU5BdUctSkNqX202SkJUWmxCYlVwOFRBUEZ5WkV1b2IyN185LU5ZM05CcFRaenFkaWhrMW91TmZYdy1DeExEVlh4b3N4V00wU0dPTWRWVm10Nzc0STBlVTlsZEd6S0d5SThoYlF6UDNGa1pCZUtaNzc2Z281cGlLajA0VnoyT25idnoyUmd4cDJuVnM3UWxTTmNZczA0QnpqcjhuR05sSWFEbGJZaFpqbFY4LVFGVFEzWGtONFJUU2YxbU5vN2VkT1loLUZremlnNUhhWmVQQUxwWGo2QVYtZ0d2RVZsdzRTaE1hUXJLdC1oTGJVUkZvaFE0ZnVKX0I1YjBXUjhOekpwMDRGazJXd1hSUVhBOVBVM0MtZ2RxUF94Ym9VZ2tHX2NWQW9hSW1OWERlTThMU3BqQ2NrZW1wWG5vaG5hODFqQmhrQjVETEIxSkFIaXZNd0tUT05QX3VJSUpyUVU5aWtGQzcwTDktZkhwQldrdVJ2cHQwM1gyN1pkdm1XdUNCRXZEdVRNRVk3S2JSUGJOTVFEVThDbHRrZnJjQW96eVF4dHYyWTh5cmVfdnpzU3gtMW9LR0ppNHdwbzBrbXlNeTk2Z2FxbnBoWGdCeGE2ajhGYkJBeGN5SHgyUFFackRUb1hxUWtxS3hlS0FOMXg1MXVHWUtYR1I?oc=5"
     }
   ]
 }
