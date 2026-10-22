@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/23 03:45",
+  "updated_tw": "10/23 06:47",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 211.84,
-      "change": -10.13,
-      "changePercent": -4.5637
+      "price": 212.21,
+      "change": -9.76,
+      "changePercent": -4.397
     },
     "AAPL": {
-      "price": 347.72,
-      "change": 3.73,
-      "changePercent": 1.0843
+      "price": 348.22,
+      "change": 4.23,
+      "changePercent": 1.2297
     },
     "TSLA": {
-      "price": 377.289,
-      "change": -9.181,
-      "changePercent": -2.3756
+      "price": 374.58,
+      "change": -11.89,
+      "changePercent": -3.0766
     },
     "QQQ": {
-      "price": 702.59,
-      "change": -22.61,
-      "changePercent": -3.1178
+      "price": 704.47,
+      "change": -20.73,
+      "changePercent": -2.8585
     },
     "SPY": {
-      "price": 762.05,
-      "change": -11.04,
-      "changePercent": -1.428
+      "price": 763.96,
+      "change": -9.13,
+      "changePercent": -1.181
     },
     "SCHD": {
-      "price": 35.385,
-      "change": 0.725,
-      "changePercent": 2.0917
+      "price": 35.4,
+      "change": 0.74,
+      "changePercent": 2.135
     },
     "VOO": {
-      "price": 700.48,
-      "change": -10.24,
-      "changePercent": -1.4408
+      "price": 702.3,
+      "change": -8.42,
+      "changePercent": -1.1847
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81280.11,
-      "change": -2731.8587,
-      "changePercent": -3.2517
+      "price": 81222.88,
+      "change": -2789.0887,
+      "changePercent": -3.3199
     },
     "ETH": {
-      "price": 2379.84,
-      "change": -90.9261,
-      "changePercent": -3.6801
+      "price": 2381.68,
+      "change": -89.0861,
+      "changePercent": -3.6056
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.598,
-      "change": 0.0204,
-      "changePercent": 0.0626
+      "price": 32.597,
+      "change": 0.2311,
+      "changePercent": 0.714
     },
     "JPYTWD": {
       "price": 0.2057,
-      "change": -0.0001,
-      "changePercent": -0.0588
+      "change": 0.001,
+      "changePercent": 0.4998
     },
     "EURTWD": {
-      "price": 36.61,
-      "change": 0.0306,
-      "changePercent": 0.0837
+      "price": 36.609,
+      "change": 0.2461,
+      "changePercent": 0.6768
     },
     "CNYTWD": {
-      "price": 4.8905,
+      "price": 4.8874,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4040.5,
-    "twd": 4235.0,
-    "tael": 158799.0,
-    "twdTotal": 131712.0,
-    "changePercent": -2.6386
+    "usd": 4044.1,
+    "twd": 4238.0,
+    "tael": 158936.0,
+    "twdTotal": 131826.0,
+    "changePercent": -2.5518
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,8 +117,12 @@
   },
   "news": [
     {
-      "title": "快訊／市場重燃AI發展疑慮！美股盤中四指全綠 台指期失守4.6萬大關 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQNkdCaWJIV1lUR2FDdm82dkxaYVExLWxYdzg2S01OcVJZTTlacDhva0Utb1dZcEJTYkdNbFFOWmF0SHp5RUVNT1RxMHZBWTFNZElvRUY5SW5INU5rR3ROVTNNY216bXpoZ1JhdlY2bmVfS3FsOU9fT1hCQ2hfRHlobXlzaGcxMEpzRDNvS280UHY1bFhmZFZDaC1RZm51X05ZblRSTXBRMjlzaVZISmZNa1dQSy1PWkJoUmlraHhFTTZtRlFzcUJoWThpQi12U2VLWHduTUN2TlBrT1NJR3F5SFRURnBlbHNKMDg2b2dFWFktcWYwalpJQjhhRDBaZUFOQzNRODZFYXBiREtUWWRxUDZkQi1CZGZjamdWM191UXVUU1Z6UFVyR3pkT0lnR1NYRVFWV3JtbUFIUVZCUFpxNDlIclpGMU5QZzRpamJNVS1vOVpwZC1UOHljQlNlOWJHbzE3VHNaZG9yR2hVSGE2NE1QbklKLTFMQ1VMcHRHV1NwakZuSWd5WW1mVzU3LUE5b1RiczR3?oc=5"
+      "title": "美股收盤》AI支出疑慮升！費半暴跌近7％ 台積電ADR重挫4.5％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiYk45WUVORm8yWGFvMmp0bUR3ZHlCMG4yM2JIMGVnNkF0SF9XOU5DZllJcXhIWi02T3A3OUd3YlZmVXBfdW45dllGaF9jb1pxMGxVVUJSb1o5M0UxcW1N0gFkQVVfeXFMUHdJM2hPQ2FxdlZpdHRBdHVZXy0yTW52WU1ybEZzLVVzcWxMS0FrbmRBU0RvcFRJLW5HMkoxX3FaWTNhbXVyN0xkRjBiT3l2cWdWc3duU1FRSWtSWDFKRGhmV1E5eg?oc=5"
+    },
+    {
+      "title": "【美股大跳水！4大指數下跌「費半重挫5.67％」 ADR一片慘綠】 （#起啵） - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxObkV1SEI1S01VVUFFT1pIc3VocllHRUx5alFtWmVPTGlKZmtlbW90RnJ3cDJNMmhPbFY5bWNITkI3ZG5tV3ZIVGZWYTNLdVdEb21TMjVKcUpQOU1JTEdPN0VWemNuVkFLMFM5SnkzUjBhME9RRUtldHUtVVEwVlozR2lXcW45aXZGaTdHcnZ1MVhUa1RuUmg5UUYxRzZib1ZldzRuQmRUSG5kM2pGcEZhRzFrdWk0MkJHU20wRDRlQ2tfeUtpMkk4LVV6dzJqWTg3YV9EUUlkREFqV3dkR25mZHMtR2VlTTFrS2FhMXdTbzIzam1WY2E1VThxZzlsTTFPQl9CZ2hfWFA4TVFPSzRlcXJ1RTNrcklHREFLRFpFZ1NoYUZPal96TGY3N2xtdmc5RmhVZjVxb216WWEtVWplNGZ6TXhnMTNvdVowZ1BOYmNCMkxDZ0ZHbUVma0Y1cGFTSGNZ?oc=5"
     },
     {
       "title": "資金為AI泡沫買保險 美股「最不希望漲的類股」漲起來了 - 鉅亨網",
@@ -129,24 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nN181TnFDcnhCM29EdjdfZzFtZGRmMElrRFk0bHpacmE0Q2ZzR1BkQm1tX3ZxUkEyQkgyX1o0VE5QUDFFUUw0ZlVtcVM1RGx5?oc=5"
     },
     {
-      "title": "AI支出疑慮升溫！美股4大指數重挫 費半跌幅逾5％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OQ3d4SzJjZGo1bGxIWFptVk9aQ1NLa2RlV2prcHJEUGFDVF9pUWxQckZ6eDAzR2xXR3dMcjFzaDdCMnJzenlKQ1BXYlVxVzZUOC1XMEhSSWdLeG4zdkQ00gFkQVVfeXFMT0hpS0NQdjY2RFp6RFI1akNWMWhyeFdHZGlpbTNUYjVhTEM4eUhINnoyYzNhSDVhc1hwUnE2YWgwdVZSaVQ5dXNJZ215TWlTbzg5NWlzNnNfdW5Ya2Fac21DOGJBeg?oc=5"
-    },
-    {
-      "title": "Meta重挫6％拖累 美股開盤三大指數齊跌 台積電ADR重跌逾2％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fMENYQ2tjSWJYUUM3QVZqY0RYeUQ1amw5MjZWNUxDX2VMM1c3cVZPWEtmZ2hkT1M4MnNYU01EdklYRy1nXzItbW51aElDZkRUWExuZzRORzBmT1FUbE5Z?oc=5"
+      "title": "快訊／市場重燃AI發展疑慮！美股盤中四指全綠 台指期失守4.6萬大關 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQNkdCaWJIV1lUR2FDdm82dkxaYVExLWxYdzg2S01OcVJZTTlacDhva0Utb1dZcEJTYkdNbFFOWmF0SHp5RUVNT1RxMHZBWTFNZElvRUY5SW5INU5rR3ROVTNNY216bXpoZ1JhdlY2bmVfS3FsOU9fT1hCQ2hfRHlobXlzaGcxMEpzRDNvS280UHY1bFhmZFZDaC1RZm51X05ZblRSTXBRMjlzaVZISmZNa1dQSy1PWkJoUmlraHhFTTZtRlFzcUJoWThpQi12U2VLWHduTUN2TlBrT1NJR3F5SFRURnBlbHNKMDg2b2dFWFktcWYwalpJQjhhRDBaZUFOQzNRODZFYXBiREtUWWRxUDZkQi1CZGZjamdWM191UXVUU1Z6UFVyR3pkT0lnR1NYRVFWV3JtbUFIUVZCUFpxNDlIclpGMU5QZzRpamJNVS1vOVpwZC1UOHljQlNlOWJHbzE3VHNaZG9yR2hVSGE2NE1QbklKLTFMQ1VMcHRHV1NwakZuSWd5WW1mVzU3LUE5b1RiczR3?oc=5"
     },
     {
       "title": "美股大跳水！4大指數下跌「費半重挫5.67％」　ADR一片慘綠 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zcnNXeWJ5U0xGNXFrRjEwNnBXWFgxNlNhZUI0aGQ4X3hxeHpaSzdLTG9zS1FETnctRTNzYXhzY0dMYzNjUHZiU0VCRU9SZFJIZnfSAVBBVV95cUxQMllKcVE2QjNDQXMxeHBDSnU2bnQtV0tDTzhDZVR4Z0p4M0diTkt5ZW1WZzhfYkExRFBCTkdiY0lieTVoWlRKLVlJaW93dWdZYw?oc=5"
     },
     {
-      "title": "【美股大跳水！4大指數下跌「費半重挫5.67％」 ADR一片慘綠】 （#起啵） - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxObkV1SEI1S01VVUFFT1pIc3VocllHRUx5alFtWmVPTGlKZmtlbW90RnJ3cDJNMmhPbFY5bWNITkI3ZG5tV3ZIVGZWYTNLdVdEb21TMjVKcUpQOU1JTEdPN0VWemNuVkFLMFM5SnkzUjBhME9RRUtldHUtVVEwVlozR2lXcW45aXZGaTdHcnZ1MVhUa1RuUmg5UUYxRzZib1ZldzRuQmRUSG5kM2pGcEZhRzFrdWk0MkJHU20wRDRlQ2tfeUtpMkk4LVV6dzJqWTg3YV9EUUlkREFqV3dkR25mZHMtR2VlTTFrS2FhMXdTbzIzam1WY2E1VThxZzlsTTFPQl9CZ2hfWFA4TVFPSzRlcXJ1RTNrcklHREFLRFpFZ1NoYUZPal96TGY3N2xtdmc5RmhVZjVxb216WWEtVWplNGZ6TXhnMTNvdVowZ1BOYmNCMkxDZ0ZHbUVma0Y1cGFTSGNZ?oc=5"
+      "title": "Meta重挫6％拖累 美股開盤三大指數齊跌 台積電ADR重跌逾2％ - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fMENYQ2tjSWJYUUM3QVZqY0RYeUQ1amw5MjZWNUxDX2VMM1c3cVZPWEtmZ2hkT1M4MnNYU01EdklYRy1nXzItbW51aElDZkRUWExuZzRORzBmT1FUbE5Z?oc=5"
     },
     {
-      "title": "殖利率下不來？美股會重演2000年科技泡沫嗎？35年歷史數據揭露關鍵差異｜美股評析｜豐雲學堂2026 年 10 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxOaHpaYUNtS1VaTzFLNk9fVkNoeU5BdUctSkNqX202SkJUWmxCYlVwOFRBUEZ5WkV1b2IyN185LU5ZM05CcFRaenFkaWhrMW91TmZYdy1DeExEVlh4b3N4V00wU0dPTWRWVm10Nzc0STBlVTlsZEd6S0d5SThoYlF6UDNGa1pCZUtaNzc2Z281cGlLajA0VnoyT25idnoyUmd4cDJuVnM3UWxTTmNZczA0QnpqcjhuR05sSWFEbGJZaFpqbFY4LVFGVFEzWGtONFJUU2YxbU5vN2VkT1loLUZremlnNUhhWmVQQUxwWGo2QVYtZ0d2RVZsdzRTaE1hUXJLdC1oTGJVUkZvaFE0ZnVKX0I1YjBXUjhOekpwMDRGazJXd1hSUVhBOVBVM0MtZ2RxUF94Ym9VZ2tHX2NWQW9hSW1OWERlTThMU3BqQ2NrZW1wWG5vaG5hODFqQmhrQjVETEIxSkFIaXZNd0tUT05QX3VJSUpyUVU5aWtGQzcwTDktZkhwQldrdVJ2cHQwM1gyN1pkdm1XdUNCRXZEdVRNRVk3S2JSUGJOTVFEVThDbHRrZnJjQW96eVF4dHYyWTh5cmVfdnpzU3gtMW9LR0ppNHdwbzBrbXlNeTk2Z2FxbnBoWGdCeGE2ajhGYkJBeGN5SHgyUFFackRUb1hxUWtxS3hlS0FOMXg1MXVHWUtYR1I?oc=5"
+      "title": "《台股盤後》開高走低、收跌846點，失守季線- 新聞 - MoneyDJ理財網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeHR2R2g5VE52cEhmSndCTzc2M1pNZWFEYnkxSW5GVzJmM0IzX1hiNmUtNEtYVWNpaFYzbnlfSFpuZllwM0g4eUQyQXVlTzNJREtOdjBqb3pNcXIzWkwwUmJCZmJBa3dLeXRmdTRuTVlPQ3BGV2pZY1l1NmZkQlFlNlZhMzZmbHNXWGhyZTJSdmdqQQ?oc=5"
     }
   ]
 }
