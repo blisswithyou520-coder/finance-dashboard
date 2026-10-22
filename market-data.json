@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/22 13:45",
+  "updated_tw": "10/22 19:12",
   "taiwan": {
     "2330": {
-      "price": 2395.0,
-      "change": -25.0,
-      "changePercent": -1.0331
+      "price": 2385.0,
+      "change": -35.0,
+      "changePercent": -1.4463
     },
     "2454": {
-      "price": 4025.0,
-      "change": -115.0,
-      "changePercent": -2.7778
+      "price": 4010.0,
+      "change": -130.0,
+      "changePercent": -3.1401
     },
     "2317": {
-      "price": 244.5,
-      "change": -5.5,
-      "changePercent": -2.2
+      "price": 245.0,
+      "change": -5.0,
+      "changePercent": -2.0
     },
     "0050": {
       "price": 106.9,
-      "change": -0.35,
-      "changePercent": -0.3263
+      "change": -1.25,
+      "changePercent": -1.1558
     },
     "00878": {
-      "price": 35.24,
-      "change": 0.36,
-      "changePercent": 1.0321
+      "price": 35.27,
+      "change": -0.12,
+      "changePercent": -0.3391
     },
     "00919": {
       "price": 32.42,
-      "change": 0.33,
-      "changePercent": 1.0284
+      "change": -0.11,
+      "changePercent": -0.3381
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 82708.81,
-      "change": -232.19,
-      "changePercent": -0.2799
+      "price": 81932.34,
+      "change": -2079.6288,
+      "changePercent": -2.4754
     },
     "ETH": {
-      "price": 2435.35,
-      "change": -11.3807,
-      "changePercent": -0.4651
+      "price": 2404.16,
+      "change": -66.6061,
+      "changePercent": -2.6958
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.574,
-      "change": -0.0036,
-      "changePercent": -0.011
+      "price": 32.538,
+      "change": -0.0396,
+      "changePercent": -0.1216
     },
     "JPYTWD": {
-      "price": 0.2047,
-      "change": -0.0011,
-      "changePercent": -0.5446
+      "price": 0.2053,
+      "change": -0.0005,
+      "changePercent": -0.2531
     },
     "EURTWD": {
-      "price": 36.663,
-      "change": 0.0836,
-      "changePercent": 0.2286
+      "price": 36.498,
+      "change": -0.0814,
+      "changePercent": -0.2225
     },
     "CNYTWD": {
-      "price": 4.8872,
+      "price": 4.8805,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4100.5,
-    "twd": 4294.0,
-    "tael": 161039.0,
-    "twdTotal": 133570.0,
-    "changePercent": -1.1928
+    "usd": 4090.5,
+    "twd": 4279.0,
+    "tael": 160468.0,
+    "twdTotal": 133097.0,
+    "changePercent": -1.4337
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股收盤》SpaceX財報提振！道瓊漲360點 台積電ADR勁揚1.6％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtRUZsVm43M3Q2Qk9pb0RGY1VnR1BRQk5nczRPUjRLQ09KOFU4eG42M3MzYkJkV1FnTTVVTF95a1ZFZHo4OUZhU21sWmliOEJoQ1Q3Rm1iT25La2hfdFVV0gFkQVVfeXFMT0EzcGY0bHNtbC1Ed3hZT291X0NoTHFhQXB0Y2ZteTZCQjY1NlVoVTY2cGxlQko0SEJQN20wTnVpcUtmNzdWeGlUbDVwenpMMnVLU056cVZXUWJTa2J5bHJlTXR5eQ?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉SpaceX財報重燃AI買氣 標普連3紅 費半漲近2% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HVG9mYXRmVXVGZzVNVl9CVWE3UFlraTRkbDZ1NzBwN1FHRmRZY3F4cTRTcnJoREhxbC1xT3lvSU9KUklsNHJGM1RFcS12d0U?oc=5"
-    },
-    {
-      "title": "台股人氣王！台玻為何一小時爆16萬張漲8%？分析師3原因解讀 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNY19xWXNEZ0lHekZMRkwxc0lUVk5xTERfVENJdjBaSzRMODVNZHFvcXhzODFSNEpiMnN3ZFB6enFBVzUwQkp0bjZBSlJmeHhUQW9IUExoZGZMODRFTHBZcHNNcFI0QS1melZ4ZHNoMW9iRFJnTXpZanRPXzZ0Wk0zb3daTmFOLXdQamJBZThfY081d0VEenhJMUxhR2U5cWcyM2Q0ZW5JSW90TFVGOWxRVV8zZDNYY3BoaEV3Qms1XzRYUU5jTzhwOFBUTWpQYXFxazVWaWxHME0tM2RnMWlhcVE3QzhWbkc1eXJVaFdfb3ZBRHQyUXNwQVQ3UWxLeURncHZZTzhKV0U2M0JBZWJsSHlhWk4xa2hkNFVqSlJ6MUdNMnhWNEhEMlpVdWR5WG1WVmUxNEs4LTUxc0MyeGRLMkh1RFYxRzJiaFZOdnd3T2VFeEVuNl93d2R6ckpMT2dMUFFsRzZiWFU2VUR0YVIxSjdIYmw1Y1NiRFZKZmRwaDJrcUhJMkVQem41UGI?oc=5"
-    },
-    {
-      "title": "【1022台股盤前】新台幣強升助攻外資轉買！急跌地板股迎反彈契機，外本比鎖定【德淵】、【上品】、【眾達-KY】 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMiywRBVV95cUxNbjVsbzdiQjNVWDZDc3VWNE1CcVRGNTEwV3pFbmdjOG9PQjB2WEs0NzJzWjUyNml1SUpHS2g5UGxGUFhtWmtEMVdjbHdwb2tBcE9maUJZZEVZeXhLZTRxSTBYdng0SVB2WUpMdzJPeEJPUWRjVXpORnJoMkE5S0ljbjRMT2daRnlRS25wQ1JNcGhyQWZxelpwRW1iajFvQjgzcTNUVFQ3U2I0RzNCa09vQ0dUWHQ3WkR6X3ZrYks5MmZ5ZHByTUNVUFpWdnNqaVFkSHdKZ2ZFRnRvQVQwd3FhY0EzcG5UVW93NzV2UENseHh5VVVJbVFyYXNOTDUwa3dvVXRrUVhEZjBrZHNrRUlocGhQQlpQazFtNHhHX2dqNjdvY2dPUFhjazJFUWwyNGxiWjZKS1k3TGMzSmtJWG05eVVSb1FJYlBmX1N6U3BwOG13SDluNlpnSDhHb3o1LVFEUUcxUWZrcmJJbm9BY1dYZ2M3OTZlekw0WHl2dElxZTlkeHRYR2NUSXlxSm90UXBueEdhdWx3NG14dDV3Y2FrNUdZVUt2d1FZa1ZYYkRUVnhiT2tqY1lZcmNIVkhzeUdxbXJpNDd5ZFFuS0NyaXBiNkR0bjFPWmFxTlY2Ul9kSUhnTkIzaUdTLWFYaS12MXBHMlVOaHBBMWwxVGhEX2x4dHBfZ2l6MzlWY2E2OGF3NGROY0ZLTTdTUHlTQ1h5c1puM1JpT1hoMmNOcDBqNzFMNEZ1TE5sbFA5SUc2QXJaSjdCd2NyQzVvTURSUQ?oc=5"
-    },
-    {
-      "title": "全球富豪正把黃金搬進新加坡，私人持金量十年增長約16倍 - 群益期貨",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlRueFBvSUhFUW03SU42TnBtSnJPbkdNTmVIV1RIVmZVTTYzRmRPeHJ2dG0wLXI4QUtBUFh3cmp4c0tDSWpIek5WM2Z3c3JHaUREMVMwZTZ2T2lNQzAxU1VoNmI1UUdnZGFhYWhsMzJKLU1uXzE5eFA1RVlHZU5VQk9uVmpnZTdXMlJOcVJ5ZWlqOHFaXzdKdlhkSE5CR1RL?oc=5"
+      "title": "黃金終於漲了！但背後藏變數 瑞銀曝「關鍵價位」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iN01xYjh3QXpXVUw4azVWYU96bDNwek9tQTk2eHJ3dWRqZUxqRTFuREs1S0VJajF0S0otQnNXdHBnc2hNaFNaLVF6MmhkSUhkTFJMaHB1Nm9qbXhpYkZZ0gFkQVVfeXFMT1NlQUNnNmxaTENmTGpzSERYVk15b01DQnpzbGs0WklFc045T0syVGdVNFlpZmR2bEhKc2ttYnBOUHRPLUJEMzdKNVY4MldUTE1QNUVZVzVhT0luZ084eDU3SEZzWQ?oc=5"
     },
     {
       "title": "台股何時大反攻…盯五訊號 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LanZrejBkTnNEcWRDSFkzVEJFQ3lWTFZuQUJYdHhmRjU4emF1SmFzUnNqaUJUWFlUN2lDem1RbEE5al9OTUZLejF3R2I2WW9Ia0twNjRHWkJGQdIBX0FVX3lxTE5hNGpmaEJyMTMxNFNNY3VXT1Z4UGs2Q0ptWmRhM0tUOUp5b0VMakVKVEJZZ1VyU1RVTnByMl9QaFJROTM5QTg0NWI2bS1CNFRTa05ROU9HQW50anRIcGNr?oc=5"
     },
     {
-      "title": "台股22日開高走低 航運股萬海領漲上漲1.7% - 理財周刊",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IZUhaNS03a2hHdDc2WUhtVkE1WWMtYUhHTXNFQVVydGh6Z0ZOajFOeTFOQU5pVl9hMVZ1cFZmWmNoeXZEX21lZU40dTNUZjVlWmJHWDJPMFBTNzMtTkFTNURLaTNKWC1aRWdsN0hBaw?oc=5"
+      "title": "台股大跌800點不用慌！「5檔金控」逆勢飆天價 前9月大賺帶動股價創新高 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPOTRYUW9scU1PeXZXZXJ1OS1ZVUc4SGFLQmphWlZ6dDVmQjN4dFRZOFVXRHhNMWZnNGE5MHA5UnNjZVZpTlhIYTRjdnFBSGFOWHEtNXlFbVdWWkhLclVLU0Q5T1NLU3FMOVVMQUE2S0tRMGJrRi10ZXpKQnVhZFBvdmF3bVVzcE1HbDZZWGsxdF9XcHdZMXYwR0FqOXFxTC16a2NTNlZBLVcwRkdrb1FEbm90MVduSzc4REZnT0dDdDh3WWRNeGxFR0JfMDN4VGpBbTl5NmRQT2FVaWJUTkVQdE44NlFodnBsWHRpUl8xazVwVFdRdjBfRkgwdm04cDhnMk5oMXJwZk1NTDBjejAtYzJ5cHE4TWZSX3hGdkxtWlNtSjhveC04eWJsWTFFVVVxTGhDT001WEFFMGtNcHhjTGR0Ty1rSjlNMVBxZmRtM05Ja1U5ZnozWklheEo4WTBWMDBENUZ1cE5XQ3BEcmVzdWVoZ2xTcmx3Um1GeHpsR2pYcjBwZzhQMms5Sm9GRHFVY2FHLUhBT201UVBJUTZvOHFPbzViNUZMeFE?oc=5"
     },
     {
-      "title": "外資一個月大賣台股7000億元 主力低檔卡位這兩類ETF 最愛00403A - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOcnFiWE5nUURRNkpPay1vMk83VVRHZ3NXcjJac3c3bUo4LUY4YjJ2MDlWV0JCWW9MTG5wSWQtZUx2a2s0aVBNY2xtSzgtRzE5a24zZ0tPNnFZN3lYTy1JYS1sX2NUOU04U0NxT3dWXzhNZG14blFqMFZZZFU2Nlc2MXhhUnRDWkNOaG9vSUs1TXFtV3NZN09hRi1QNHB4cl9RdHI2ZWVUaHFCdVRBM0FIMVdoLVBaaGY1c1JXTDVGbElDZE9JcVhJSkxMZzFwa25OODV5U09pTzRXbVVpb0MtTDZxZEFLczUxM2VUbkZSUktLc1dCSnhwZkdsSWxjR2p1NjE1THRsSFZYOHhNZE9FQlp1cnhoRUFmdVZWYnAyUlFnTk9jcENPbkFheUdGbWhZMVMxR0lQbS1pVVcxOUl4YXE2cW1GR1VNSkpqT2pfZ01CbzloaExJMFFOQkJXRDhuM0pCZExReTFPaDhn?oc=5"
+      "title": "〈美股盤後〉SpaceX財報重燃AI買氣 標普連3紅 費半漲近2% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HVG9mYXRmVXVGZzVNVl9CVWE3UFlraTRkbDZ1NzBwN1FHRmRZY3F4cTRTcnJoREhxbC1xT3lvSU9KUklsNHJGM1RFcS12d0U?oc=5"
+    },
+    {
+      "title": "【美股盤前1022】Meta財報大好？資本支出依舊是重點？｜豐雲學堂 2026 年 10 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNaS1JY3pPWGVRY2NqbFZ5dEktdzZGajJRQ2hvMlByZmwzRG1wNkFQNEoweHhtcHhPMDlPdWJWNDh3eHhyYXJhZTZEQk8waEZORlNGejVxLWF4MmNNcG8xRWhES0Z3MVVPNkU1Y2JJU0R4Zk9YMVVNUERQenUwWXV1emJiOFBKVUMwUTBsZFUzX09fTU04TWFiaC1NNmd1aTFSMWNWY2E3T1BVeFR6ZUQyRTdsR2V3OGJIZkl3eTk2cGM1OHdoNmdSWXFteEx6NVRkbXBqN1ptdkpZOHVtWDY4VHB5UXNDcW5MTzNkYlJqQlRpTnlLNHJRZlJzY2ZjbDFSU3lBakJLX0RiZjdRV2NlMFJKX3d2VzZtV2w5bldLU1lsSW95dGF5R2ZsMmM5dzVEazYxaXdvOHdHRW9FeHFvcy14bkpnazBkQ2xjVDV0ekN5RkkxTVNqWEwweEZfRnNX?oc=5"
+    },
+    {
+      "title": "全球富豪正把黃金搬進新加坡，私人持金量十年增長約16倍 - 群益期貨",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlRueFBvSUhFUW03SU42TnBtSnJPbkdNTmVIV1RIVmZVTTYzRmRPeHJ2dG0wLXI4QUtBUFh3cmp4c0tDSWpIek5WM2Z3c3JHaUREMVMwZTZ2T2lNQzAxU1VoNmI1UUdnZGFhYWhsMzJKLU1uXzE5eFA1RVlHZU5VQk9uVmpnZTdXMlJOcVJ5ZWlqOHFaXzdKdlhkSE5CR1RL?oc=5"
+    },
+    {
+      "title": "美股收盤》SpaceX財報提振！道瓊漲360點 台積電ADR勁揚1.6％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtRUZsVm43M3Q2Qk9pb0RGY1VnR1BRQk5nczRPUjRLQ09KOFU4eG42M3MzYkJkV1FnTTVVTF95a1ZFZHo4OUZhU21sWmliOEJoQ1Q3Rm1iT25La2hfdFVV0gFkQVVfeXFMT0EzcGY0bHNtbC1Ed3hZT291X0NoTHFhQXB0Y2ZteTZCQjY1NlVoVTY2cGxlQko0SEJQN20wTnVpcUtmNzdWeGlUbDVwenpMMnVLU056cVZXUWJTa2J5bHJlTXR5eQ?oc=5"
+    },
+    {
+      "title": "法人提款千億台股颳大風！重挫846點險守4萬6 資安揪金融當抗跌靠山｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNZXh6M0ZmRl9JRnJIc2hCbVRWUkdONGJUZ29CSXgtN1pyajhOSTAyWmtrMXBMNHNCajJleTVhanJ4c1MwUGRGXzA3cnU4X1Jyeld0ckRXb2lBWEVLVUhvTXlYaGtSNEw0TmM1RmExTngtNHZLRy1RbWFJQUhvaVdZbkhOZkw2aUxjZVRGYjE0MmxjWUtwcmpsMkFtWGpEZFdWQmloc05BQWZqRkM1c3NrU0NmekQweGg4Y1MxbzFRLWdFcW1SQ0d0ektDVF9XYWNYV2pabDlyZHEzbHoxRHRUYWNpRW85bHBndjVVT09kaXNLSjgwRHYya2F3Ql9iNkdjTUUzSllnR0doTWFtNVNGRkFlcTF3WURBQ2Yyb2JWTzFRT2QwQ0YyUVZzVEdjWklYc0JhWHp4MGJKeUdqcTJGX0hscW9rNGlsREZUemhXZTZaY2VVVDJPQ1FSak1peWdYSWplcWxPM0lFV1c1N0dqTmRSeHQyWThVQ2dkLV9KSmxxc2J5NnlJeUhQSTFjTF9RZzJwRGZ0TzAxNkNJeHhfbE9LM1MwNmQwZUhnNXFsOEtOVlZ0UmFIWmFRZmZMdXk1STRWa0FMVlFMYmFRMzhDdHpOa0VUV09IV2J1RDBQUGlGR1dWdW9YdFhmWkxQMmd2TF9OTVdn?oc=5"
     }
   ]
 }
