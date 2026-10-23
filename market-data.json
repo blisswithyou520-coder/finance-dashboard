@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/23 23:55",
+  "updated_tw": "10/24 03:48",
   "taiwan": {
     "2330": {
       "price": 2385.0,
-      "change": -35.0,
-      "changePercent": -1.4463
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "2454": {
       "price": 4010.0,
-      "change": -130.0,
-      "changePercent": -3.1401
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "2317": {
       "price": 245.0,
-      "change": -5.0,
-      "changePercent": -2.0
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "0050": {
       "price": 106.9,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 212.51,
-      "change": 0.3,
-      "changePercent": 0.1414
+      "price": 211.415,
+      "change": -0.795,
+      "changePercent": -0.3746
     },
     "AAPL": {
-      "price": 347.86,
-      "change": -0.36,
-      "changePercent": -0.1034
+      "price": 347.44,
+      "change": -0.78,
+      "changePercent": -0.224
     },
     "TSLA": {
-      "price": 372.98,
-      "change": -1.6,
-      "changePercent": -0.4271
+      "price": 372.22,
+      "change": -2.36,
+      "changePercent": -0.63
     },
     "QQQ": {
-      "price": 707.84,
-      "change": 3.37,
-      "changePercent": 0.4784
+      "price": 704.44,
+      "change": -0.03,
+      "changePercent": -0.0043
     },
     "SPY": {
-      "price": 762.52,
-      "change": -1.44,
-      "changePercent": -0.1885
+      "price": 760.16,
+      "change": -3.8,
+      "changePercent": -0.4974
     },
     "SCHD": {
-      "price": 35.298,
-      "change": -0.102,
-      "changePercent": -0.2881
+      "price": 35.285,
+      "change": -0.115,
+      "changePercent": -0.3249
     },
     "VOO": {
-      "price": 700.955,
-      "change": -1.345,
-      "changePercent": -0.1915
+      "price": 698.715,
+      "change": -3.585,
+      "changePercent": -0.5105
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81472.77,
-      "change": 160.8794,
-      "changePercent": 0.1979
+      "price": 81211.38,
+      "change": -100.5106,
+      "changePercent": -0.1236
     },
     "ETH": {
-      "price": 2400.61,
-      "change": 14.4208,
-      "changePercent": 0.6043
+      "price": 2393.55,
+      "change": 7.3608,
+      "changePercent": 0.3085
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.557,
-      "change": 0.1911,
-      "changePercent": 0.5904
+      "price": 32.577,
+      "change": 0.2111,
+      "changePercent": 0.6522
     },
     "JPYTWD": {
-      "price": 0.2053,
-      "change": 0.0006,
-      "changePercent": 0.3044
+      "price": 0.2055,
+      "change": 0.0008,
+      "changePercent": 0.4021
     },
     "EURTWD": {
-      "price": 36.51,
-      "change": 0.1471,
-      "changePercent": 0.4045
+      "price": 36.513,
+      "change": 0.1501,
+      "changePercent": 0.4128
     },
     "CNYTWD": {
-      "price": 4.8862,
+      "price": 4.8908,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4011.2,
-    "twd": 4199.0,
-    "tael": 157449.0,
-    "twdTotal": 130593.0,
-    "changePercent": -1.2117
+    "usd": 4012.9,
+    "twd": 4203.0,
+    "tael": 157613.0,
+    "twdTotal": 130728.0,
+    "changePercent": -1.1698
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -133,12 +133,8 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DNnprWmlLa3FfRHNaTEw4RExvWVZYbVgzaUt0RVdTWFg5ZFJpNS1RaXM0NU4yT2xCamlodk5yWXNBQ05sX2N4TFB6el9fZWxsc3ZGdm5hYk1mdzlyTUNz0gFkQVVfeXFMUF8xNkoxQVQtb25qdW1RNFViaVNETkozRFczOW5mME9hRVJuT1o1S0lDQnhKMjRkQmNaZ29TbzBTLXlEc2t2ZmxxeVp5SXZqX19UUjZwdnRUZ0l1bHVENFg3cjFIQQ?oc=5"
     },
     {
-      "title": "分析：比特币徘徊于8.2万美元下方，AI融资压力拖累美股 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00eFItSkVmS3lnczF5VEF1YnhRZjJxVHlOVUhiSnNrVGFpMGlGVHpMNU1qMW13d2c5TXRkZmtQZ1NUNzdnUkx0blpMUVk1TXlzLVJwdXpsaTRvOHNMZ2lORGd5ZFNpQQ?oc=5"
-    },
-    {
-      "title": "比特幣 ETF 三天狂吸 10.7 億美元，一天又撤 6.36 億！BTC 跌回 8.1 萬美元，機構買盤變臉？ - 區塊客",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZTR4ZU4xdXpWem0tckMwaTBnT0JBUmFUaS04SHJnby1ielprZERqWHQwWGFLT2pJQkw5TlB0aVNYcFM2V01maGF0VTduZm5FT0UxaGlzWTFHOHVhMkdESGw0dE0xQ2VwMGtFLTZ2MmRmVHB1bmhlX2ZIZU9EdWtMVlBhT05ydlBseklxaldiYjJwZXZuWkY2NVlUSlFaNTBZcHc?oc=5"
+      "title": "台股2026漲幅海放日韓！法人曝AI選股新方向　6大族群入列 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rOXY4NTc5NUFlRDktZm9XZVZuQm1QMTRfdXVXUENBMXJhZU85eWJ4OWFILU5qRVFpSTktVnJUS1JseGFOV2I2anItSkM4dVJwekHSAVBBVV95cUxONW93aGd2WjA0Y3FHUkRKVWFBNlJzWGpiQUtod0k5VDlvUjVtYmFPSkpSR0pxaDliZmdJN1pPa1A3aEFIZXVJeXFnbHJHdm9yOQ?oc=5"
     },
     {
       "title": "好在有颱風？台股多休2天能躲股災？分析師：可緩衝但補跌難免 - Yahoo股市",
@@ -147,6 +143,10 @@
     {
       "title": "台股何時大反攻…盯五訊號 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LanZrejBkTnNEcWRDSFkzVEJFQ3lWTFZuQUJYdHhmRjU4emF1SmFzUnNqaUJUWFlUN2lDem1RbEE5al9OTUZLejF3R2I2WW9Ia0twNjRHWkJGQdIBX0FVX3lxTE5hNGpmaEJyMTMxNFNNY3VXT1Z4UGs2Q0ptWmRhM0tUOUp5b0VMakVKVEJZZ1VyU1RVTnByMl9QaFJROTM5QTg0NWI2bS1CNFRTa05ROU9HQW50anRIcGNr?oc=5"
+    },
+    {
+      "title": "美股分裂成兩大陣營！AI股與其他類股多空拉鋸 投資人被甩得暈頭轉向 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJRTkybEFuVUthX3lxZ0s4dTBLbnhRZmxGOU5uc1pUdENZZlhKNTdTWEp5endna25FaE12amJvMEVZQmVkWVFQZDNsM2IyeW8?oc=5"
     }
   ]
 }
