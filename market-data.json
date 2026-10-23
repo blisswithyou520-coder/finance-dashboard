@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/23 09:13",
+  "updated_tw": "10/23 14:03",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -36,80 +36,80 @@
   "us": {
     "NVDA": {
       "price": 212.21,
-      "change": -4.26,
-      "changePercent": -1.9679
+      "change": -9.76,
+      "changePercent": -4.397
     },
     "AAPL": {
       "price": 348.22,
-      "change": 8.72,
-      "changePercent": 2.5685
+      "change": 4.23,
+      "changePercent": 1.2297
     },
     "TSLA": {
       "price": 374.58,
-      "change": 0.87,
-      "changePercent": 0.2328
+      "change": -11.89,
+      "changePercent": -3.0766
     },
     "QQQ": {
       "price": 704.47,
-      "change": -13.16,
-      "changePercent": -1.8338
+      "change": -20.73,
+      "changePercent": -2.8585
     },
     "SPY": {
       "price": 763.96,
-      "change": -5.09,
-      "changePercent": -0.6619
+      "change": -9.13,
+      "changePercent": -1.181
     },
     "SCHD": {
       "price": 35.4,
-      "change": 0.71,
-      "changePercent": 2.0467
+      "change": 0.74,
+      "changePercent": 2.135
     },
     "VOO": {
       "price": 702.3,
-      "change": -4.5,
-      "changePercent": -0.6367
+      "change": -8.42,
+      "changePercent": -1.1847
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81350.82,
-      "change": -2661.1487,
-      "changePercent": -3.1676
+      "price": 81628.93,
+      "change": -2383.0388,
+      "changePercent": -2.8365
     },
     "ETH": {
-      "price": 2387.88,
-      "change": -82.8861,
-      "changePercent": -3.3547
+      "price": 2397.49,
+      "change": -73.2761,
+      "changePercent": -2.9657
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.545,
-      "change": 0.1791,
-      "changePercent": 0.5534
+      "price": 32.617,
+      "change": 0.2511,
+      "changePercent": 0.7758
     },
     "JPYTWD": {
-      "price": 0.2061,
-      "change": 0.0014,
-      "changePercent": 0.6952
+      "price": 0.2057,
+      "change": 0.001,
+      "changePercent": 0.4998
     },
     "EURTWD": {
-      "price": 36.578,
-      "change": 0.2151,
-      "changePercent": 0.5915
+      "price": 36.598,
+      "change": 0.2351,
+      "changePercent": 0.6465
     },
     "CNYTWD": {
-      "price": 4.885,
+      "price": 4.8934,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4033.9,
-    "twd": 4221.0,
-    "tael": 158282.0,
-    "twdTotal": 131283.0,
-    "changePercent": -2.7976
+    "usd": 4035.9,
+    "twd": 4232.0,
+    "tael": 158711.0,
+    "twdTotal": 131639.0,
+    "changePercent": -0.6034
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股收盤／AI燒錢疑慮掀晶片股殺盤 費半重摔6.7%、台積電ADR跌4.5% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZbVJrdm9sYWZ1eTlPV09Ia290YUk1ZExaYXlMRmVFY3ItRjAwZGY0aURySDZjbzU4V1B5WmJQckQwREtTeEExVHZlZEI5akdi?oc=5"
-    },
-    {
-      "title": "美股收盤》AI支出疑慮升！費半暴跌近7％ 台積電ADR重挫4.5％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiYk45WUVORm8yWGFvMmp0bUR3ZHlCMG4yM2JIMGVnNkF0SF9XOU5DZllJcXhIWi02T3A3OUd3YlZmVXBfdW45dllGaF9jb1pxMGxVVUJSb1o5M0UxcW1N0gFkQVVfeXFMUHdJM2hPQ2FxdlZpdHRBdHVZXy0yTW52WU1ybEZzLVVzcWxMS0FrbmRBU0RvcFRJLW5HMkoxX3FaWTNhbXVyN0xkRjBiT3l2cWdWc3duU1FRSWtSWDFKRGhmV1E5eg?oc=5"
+      "title": "科技股崩跌拖累！Meta加碼支出引爆美股費半重挫 日韓股齊挫、台股今休市躲過一劫 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxOUHNfdjJ5QVB4RkxSTnhBck1VbWFEQjZCejFyYlhFMG1FQjRGWVhaNThYMkhYeFRVeFlTUXVDU3pBQlRlMU9QYjZucnhVRTRyelBYOU9EaDluZkd5LVBsR3dfRHZmRjVUZEIwUUJFSjVYSk5pQmdya2UxM240ZjB0ZUtacS1Pb2ZTNXZ2cy10eHJnT2ZUaWNoM0ZncFo3RzFwRlNXejZHRHVMVElMV0plQ0VKWUhUOW56NkJSNmFrcWJZZE9GYTh1bTFUR1VJUWZhMzNKUV9IQkJld1AwaVptMHk5SkVuVXFFSFJkSDc1U0ViTjdqRVRsLVBsSjlHcng2X2JIV1JHWDJ0QWUzX2x6dGNFVWUxUk9WUEhpa1dubEg0b0RfMGNEbk11U3U3akRnNHc1eGxQeUhTazR1TnlpeWhfcUp5X01ZNktkdjF2RmZqdl9BLXNFQm83SDJrSGxYamstQnRyMk9sczg2MlI1bHMtYUsxblZHa0NhREhCZUk3RUFaYk5veXFRUWdfQ2FraGxKc2NIUU0waUJRdzRsMVJ6VVVMUDNMaWpyeE42dDlCaEU4dlNHUFZ1bFNaNk02dGo3VmxoX19fZkRFVWtrZnBENEpVRUw2S1V1MWh0el9DY0pITHc?oc=5"
     },
     {
       "title": "〈美股盤後〉Meta重燃AI交易恐慌 費半狂瀉近7% 台積電ADR跌超4.5% - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NT3VvOXo2OGZ6eHh4R010UzlOM3pFc2lrYkYwbnJLY1p6ODFFWFRNN1dNazlaelNXSU0zSThnRWxxLVhQY0VRUkhXMzE1Um8?oc=5"
     },
     {
-      "title": "【美股大跳水！4大指數下跌「費半重挫5.67％」 ADR一片慘綠】 （#起啵） - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxObkV1SEI1S01VVUFFT1pIc3VocllHRUx5alFtWmVPTGlKZmtlbW90RnJ3cDJNMmhPbFY5bWNITkI3ZG5tV3ZIVGZWYTNLdVdEb21TMjVKcUpQOU1JTEdPN0VWemNuVkFLMFM5SnkzUjBhME9RRUtldHUtVVEwVlozR2lXcW45aXZGaTdHcnZ1MVhUa1RuUmg5UUYxRzZib1ZldzRuQmRUSG5kM2pGcEZhRzFrdWk0MkJHU20wRDRlQ2tfeUtpMkk4LVV6dzJqWTg3YV9EUUlkREFqV3dkR25mZHMtR2VlTTFrS2FhMXdTbzIzam1WY2E1VThxZzlsTTFPQl9CZ2hfWFA4TVFPSzRlcXJ1RTNrcklHREFLRFpFZ1NoYUZPal96TGY3N2xtdmc5RmhVZjVxb216WWEtVWplNGZ6TXhnMTNvdVowZ1BOYmNCMkxDZ0ZHbUVma0Y1cGFTSGNZ?oc=5"
+      "title": "美股收盤》AI支出疑慮升！費半暴跌近7％ 台積電ADR重挫4.5％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiYk45WUVORm8yWGFvMmp0bUR3ZHlCMG4yM2JIMGVnNkF0SF9XOU5DZllJcXhIWi02T3A3OUd3YlZmVXBfdW45dllGaF9jb1pxMGxVVUJSb1o5M0UxcW1N0gFkQVVfeXFMUHdJM2hPQ2FxdlZpdHRBdHVZXy0yTW52WU1ybEZzLVVzcWxMS0FrbmRBU0RvcFRJLW5HMkoxX3FaWTNhbXVyN0xkRjBiT3l2cWdWc3duU1FRSWtSWDFKRGhmV1E5eg?oc=5"
     },
     {
-      "title": "AI發展疑慮血洗美股！費半大跌773點 那指下挫694點今年6月以來最慘 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPeTR3eXZrbWdEVm9PMkNWUTQ2RDZzZHlieG1LVmVHWkY1b1RjNFVHNmZyUnpnOUdOUkdSMU1KNy03UjlHbkVDQkI2aG9xc2RnUmFTY0hHOXM5SzFzRl9sWEgtaEh4aUZOU3VrRW9rWjBIYlRrRWZhbUktSlNmZ3BNNDNuWmc1NUtwb2VMTE1EQ1NQcE5jQ2ttRHVmeTB1cVNJYWpCeURLSVBUYW1UeEliZncwUThBNlJKa0NHa2hkTE5fd0R4T2FfZ0UzVDl2am04V1dQTkJ0UjJDcGVJZ18tYksza09RNUNMejBQWDVoY19VQzQzeWtZeVFDT0VyNUxDeHpybktrZVFxVlQ4eGFtT2hXMGg2QUFVNjdCdThhb0k2bEh6MndzYjJQZE5Bd0JjcmVfYUZzVnAxLU5PQmJ5bkRtV2c1SS1kcGFlZEZhZGp3cWtZa2ZsZmF6elllRHJqVWNJYjJaMzlxYmhLbE0ySGR2R3ltMmU4aVBwVDZ2LUNPaFUxekkya2hTbV9Wdw?oc=5"
-    },
-    {
-      "title": "Meta重挫6％拖累 美股開盤三大指數齊跌 台積電ADR重跌逾2％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fMENYQ2tjSWJYUUM3QVZqY0RYeUQ1amw5MjZWNUxDX2VMM1c3cVZPWEtmZ2hkT1M4MnNYU01EdklYRy1nXzItbW51aElDZkRUWExuZzRORzBmT1FUbE5Z?oc=5"
+      "title": "美股早盤／Meta特斯拉財報好也難救 四大指數齊跌、費半重挫4% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nN181TnFDcnhCM29EdjdfZzFtZGRmMElrRFk0bHpacmE0Q2ZzR1BkQm1tX3ZxUkEyQkgyX1o0VE5QUDFFUUw0ZlVtcVM1RGx5?oc=5"
     },
     {
       "title": "美股大跳水！4大指數下跌「費半重挫5.67％」　ADR一片慘綠 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zcnNXeWJ5U0xGNXFrRjEwNnBXWFgxNlNhZUI0aGQ4X3hxeHpaSzdLTG9zS1FETnctRTNzYXhzY0dMYzNjUHZiU0VCRU9SZFJIZnfSAVBBVV95cUxQMllKcVE2QjNDQXMxeHBDSnU2bnQtV0tDTzhDZVR4Z0p4M0diTkt5ZW1WZzhfYkExRFBCTkdiY0lieTVoWlRKLVlJaW93dWdZYw?oc=5"
     },
     {
-      "title": "快訊／市場重燃AI發展疑慮！美股盤中四指全綠 台指期失守4.6萬大關 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQNkdCaWJIV1lUR2FDdm82dkxaYVExLWxYdzg2S01OcVJZTTlacDhva0Utb1dZcEJTYkdNbFFOWmF0SHp5RUVNT1RxMHZBWTFNZElvRUY5SW5INU5rR3ROVTNNY216bXpoZ1JhdlY2bmVfS3FsOU9fT1hCQ2hfRHlobXlzaGcxMEpzRDNvS280UHY1bFhmZFZDaC1RZm51X05ZblRSTXBRMjlzaVZISmZNa1dQSy1PWkJoUmlraHhFTTZtRlFzcUJoWThpQi12U2VLWHduTUN2TlBrT1NJR3F5SFRURnBlbHNKMDg2b2dFWFktcWYwalpJQjhhRDBaZUFOQzNRODZFYXBiREtUWWRxUDZkQi1CZGZjamdWM191UXVUU1Z6UFVyR3pkT0lnR1NYRVFWV3JtbUFIUVZCUFpxNDlIclpGMU5QZzRpamJNVS1vOVpwZC1UOHljQlNlOWJHbzE3VHNaZG9yR2hVSGE2NE1QbklKLTFMQ1VMcHRHV1NwakZuSWd5WW1mVzU3LUE5b1RiczR3?oc=5"
+      "title": "Meta重挫6％拖累 美股開盤三大指數齊跌 台積電ADR重跌逾2％ - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fMENYQ2tjSWJYUUM3QVZqY0RYeUQ1amw5MjZWNUxDX2VMM1c3cVZPWEtmZ2hkT1M4MnNYU01EdklYRy1nXzItbW51aElDZkRUWExuZzRORzBmT1FUbE5Z?oc=5"
+    },
+    {
+      "title": "比特幣 ETF 三天狂吸 10.7 億美元，一天又撤 6.36 億！BTC 跌回 8.1 萬美元，機構買盤變臉？ - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZTR4ZU4xdXpWem0tckMwaTBnT0JBUmFUaS04SHJnby1ielprZERqWHQwWGFLT2pJQkw5TlB0aVNYcFM2V01maGF0VTduZm5FT0UxaGlzWTFHOHVhMkdESGw0dE0xQ2VwMGtFLTZ2MmRmVHB1bmhlX2ZIZU9EdWtMVlBhT05ydlBseklxaldiYjJwZXZuWkY2NVlUSlFaNTBZcHc?oc=5"
+    },
+    {
+      "title": "〈美股早盤〉AI疑慮未散油價又漲！Meta與特斯拉走跌 主要指數開低 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84NVhBMXFUbVNRUE1JY2Y0dEZUNHBIVFA5dXE4LWl3M0Rib1F5MkRwVGZ4bXoyd1JucGxRYXAwYnhucmdOMXlrMUhXdktxa2c?oc=5"
     }
   ]
 }
