@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/24 03:48",
+  "updated_tw": "10/24 06:54",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -35,14 +35,14 @@
   },
   "us": {
     "NVDA": {
-      "price": 211.415,
-      "change": -0.795,
-      "changePercent": -0.3746
+      "price": 210.96,
+      "change": -1.25,
+      "changePercent": -0.589
     },
     "AAPL": {
-      "price": 347.44,
-      "change": -0.78,
-      "changePercent": -0.224
+      "price": 347.725,
+      "change": -0.495,
+      "changePercent": -0.1422
     },
     "TSLA": {
       "price": 372.22,
@@ -50,66 +50,66 @@
       "changePercent": -0.63
     },
     "QQQ": {
-      "price": 704.44,
-      "change": -0.03,
-      "changePercent": -0.0043
+      "price": 704.4,
+      "change": -0.07,
+      "changePercent": -0.0099
     },
     "SPY": {
-      "price": 760.16,
-      "change": -3.8,
-      "changePercent": -0.4974
+      "price": 759.97,
+      "change": -3.99,
+      "changePercent": -0.5223
     },
     "SCHD": {
-      "price": 35.285,
-      "change": -0.115,
-      "changePercent": -0.3249
+      "price": 35.27,
+      "change": -0.13,
+      "changePercent": -0.3672
     },
     "VOO": {
-      "price": 698.715,
-      "change": -3.585,
-      "changePercent": -0.5105
+      "price": 698.58,
+      "change": -3.72,
+      "changePercent": -0.5297
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81211.38,
-      "change": -100.5106,
-      "changePercent": -0.1236
+      "price": 80633.62,
+      "change": -678.2706,
+      "changePercent": -0.8342
     },
     "ETH": {
-      "price": 2393.55,
-      "change": 7.3608,
-      "changePercent": 0.3085
+      "price": 2358.69,
+      "change": -27.4992,
+      "changePercent": -1.1524
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.577,
-      "change": 0.2111,
-      "changePercent": 0.6522
+      "price": 32.57,
+      "change": -0.027,
+      "changePercent": -0.0828
     },
     "JPYTWD": {
       "price": 0.2055,
-      "change": 0.0008,
-      "changePercent": 0.4021
+      "change": -0.0028,
+      "changePercent": -1.3447
     },
     "EURTWD": {
-      "price": 36.513,
-      "change": 0.1501,
-      "changePercent": 0.4128
+      "price": 36.53,
+      "change": -0.0448,
+      "changePercent": -0.1224
     },
     "CNYTWD": {
-      "price": 4.8908,
+      "price": 4.8867,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4012.9,
-    "twd": 4203.0,
-    "tael": 157613.0,
-    "twdTotal": 130728.0,
-    "changePercent": -1.1698
+    "usd": 4010.0,
+    "twd": 4199.0,
+    "tael": 157465.0,
+    "twdTotal": 130606.0,
+    "changePercent": -1.2413
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -119,6 +119,10 @@
     {
       "title": "美股早盤／四大指數下跌！科技股賣壓持續台積電ADR逆勢漲| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vT3lnWUFwMHlIY25VWWwzYWhpQW9VREVmRnllUzBScEpoSGRYRFJnVWFBSXAzcXByNzRUZjU0U2tadlNWeU80Sjk3OVpNSENx?oc=5"
+    },
+    {
+      "title": "川普又放話！美股大跌652點　台積電ADR逆勢漲1.49% - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWZXQ0UzlXQ3YzbHNYZjMxUTdqaUdTTW96X0liazJtNGlTc09Vbm04azhKMFkxbXBZZ1JKNzJ5Zm9CWGdYSEhVRFY0T1gxa3ZoSUHSAVBBVV95cUxPNWk3SXdWLVE1a3JHRlNrNVNIWVdLdHVNaVExWmVmUE85R09uUUZTR0FyLTVTYVQ5T1YxMzNTODJjTEV4SHBSQzFtR0Y2b3pjbQ?oc=5"
     },
     {
       "title": "科技股崩跌拖累！Meta加碼支出引爆美股費半重挫 日韓股齊挫、台股今休市躲過一劫 - Yahoo股市",
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DNnprWmlLa3FfRHNaTEw4RExvWVZYbVgzaUt0RVdTWFg5ZFJpNS1RaXM0NU4yT2xCamlodk5yWXNBQ05sX2N4TFB6el9fZWxsc3ZGdm5hYk1mdzlyTUNz0gFkQVVfeXFMUF8xNkoxQVQtb25qdW1RNFViaVNETkozRFczOW5mME9hRVJuT1o1S0lDQnhKMjRkQmNaZ29TbzBTLXlEc2t2ZmxxeVp5SXZqX19UUjZwdnRUZ0l1bHVENFg3cjFIQQ?oc=5"
     },
     {
+      "title": "油價飆破116美元！美股漲跌互見 費半逆勢收紅 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPVUhKVGxSNVZLcnFYNHZNbmxzbWpqMkZnNnhKVDFTc3NPZm03dVBpRkhha2s3LUZJck16UENnZHpSdV9OcDdCWDkzZmNQdmJLNHZtX0hTU2Z3Q0h1RUQ3WkcxS0oxeXplWS1XVFBpZlg2blItREd4WHc4YTVvMUh4QlZZTGlQV0xQZFdKa3dRWTRHSVlXWElBOWdaU0hMQ0NBbUFBVXI0UUlXeHF3V0VRQ2NuWnVfSEFvckw0bzRMdlRfbkJ4elpCcnU0VGttOUhDUjlxZ3BRZEJya0xJVUpzRHdBaTJHOXl6aXNPUHNvWHNFTm9LMjZ1VnVWNXBXSlFadGh3aTRMMkNzeVNKY21oQWRpMDhjTXFvU1gwQmQ1Q0dxTHZHSmtucEpxeGtPRUlhR3Byc0dVTTl1QQ?oc=5"
+    },
+    {
+      "title": "油價勁揚和 AI 支出引憂 美股互有漲跌 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZdHJhZ0ZGdkpXSDRtT0xoZFRpMmRNNlZyX1ZqTFBIbk9hNjd6TU9ubHQ1NDJiUGtlRHZQR3BMcm9BaEg4amZvVUNRaEJDVFpGekE3Vjdqcnk0SHhJ0gFiQVVfeXFMTlctYkRRN1dGZ2wxRkVJeEpoXy1UNUlpblNBY0VfQ0JmX2d4Y3FkbFVqZFZEa3VreG1HSHp6SGNhZDBuczl3dXlLdVdYT0NnMFBtVkNPTnloY0d1NzhUd1F0S2c?oc=5"
+    },
+    {
       "title": "台股2026漲幅海放日韓！法人曝AI選股新方向　6大族群入列 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rOXY4NTc5NUFlRDktZm9XZVZuQm1QMTRfdXVXUENBMXJhZU85eWJ4OWFILU5qRVFpSTktVnJUS1JseGFOV2I2anItSkM4dVJwekHSAVBBVV95cUxONW93aGd2WjA0Y3FHUkRKVWFBNlJzWGpiQUtod0k5VDlvUjVtYmFPSkpSR0pxaDliZmdJN1pPa1A3aEFIZXVJeXFnbHJHdm9yOQ?oc=5"
-    },
-    {
-      "title": "好在有颱風？台股多休2天能躲股災？分析師：可緩衝但補跌難免 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPeEV6THJqWEV1U0NrOE5nTXEwREkxOWc4czJsX3p5WkxRVHc3alFsb2dWNEh0VGJqUTdsZkR4NmU4YUJpWUlQSkk5czBialdSYXllaDBXMThwMzRBZ245cVZUam5sX3FCYWRnUF80OVNBTlRlXzFIRUpCUV9wci1aOTBjZkJqZ2xIdmt3QVlDaFloeWVEb0dvdEIzUEY4ZlcxM0VvMnI5VjBxbmN6bUJweTZ5bEwtMkZ0c21TMXdvLUZ2TXJpaGs3TmFONTVHOTRlNFR2TVNQS2RoeXBybV9VcUlneEZFRlE3V0RYdFVEcmtMU0syNXphRUR0WXdac3lqZlV3NFBwTUhZLWlva2NJN2UtSEpSR1JxbUZZc1IwMUg4M1dyQkNvaDI0M3NFcUREWWxUUVhEQWRjaU9NcWxPa3liTldnaGUzMmtmYnJoemxhbXA2MzNaTU9uWHdDOWpTNG84NlZ2bkp1VjdYdEdJYTl0U2c5ZnFwV1JzYkdwRVJ0U0hzaXZhQ1RvTkNDQ1JJMkk0c0J0bmktX09BZzZzZ21WVlFDTlYza3BQOA?oc=5"
-    },
-    {
-      "title": "台股何時大反攻…盯五訊號 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LanZrejBkTnNEcWRDSFkzVEJFQ3lWTFZuQUJYdHhmRjU4emF1SmFzUnNqaUJUWFlUN2lDem1RbEE5al9OTUZLejF3R2I2WW9Ia0twNjRHWkJGQdIBX0FVX3lxTE5hNGpmaEJyMTMxNFNNY3VXT1Z4UGs2Q0ptWmRhM0tUOUp5b0VMakVKVEJZZ1VyU1RVTnByMl9QaFJROTM5QTg0NWI2bS1CNFRTa05ROU9HQW50anRIcGNr?oc=5"
-    },
-    {
-      "title": "美股分裂成兩大陣營！AI股與其他類股多空拉鋸 投資人被甩得暈頭轉向 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJRTkybEFuVUthX3lxZ0s4dTBLbnhRZmxGOU5uc1pUdENZZlhKNTdTWEp5endna25FaE12amJvMEVZQmVkWVFQZDNsM2IyeW8?oc=5"
     }
   ]
 }
