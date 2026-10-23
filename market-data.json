@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/23 14:03",
+  "updated_tw": "10/23 19:38",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 106.9,
-      "change": -0.35,
-      "changePercent": -0.3263
+      "change": -1.25,
+      "changePercent": -1.1558
     },
     "00878": {
       "price": 35.27,
-      "change": 0.39,
-      "changePercent": 1.1181
+      "change": -0.12,
+      "changePercent": -0.3391
     },
     "00919": {
       "price": 32.42,
-      "change": 0.33,
-      "changePercent": 1.0284
+      "change": -0.11,
+      "changePercent": -0.3381
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81628.93,
-      "change": -2383.0388,
-      "changePercent": -2.8365
+      "price": 81540.27,
+      "change": 228.3794,
+      "changePercent": 0.2809
     },
     "ETH": {
-      "price": 2397.49,
-      "change": -73.2761,
-      "changePercent": -2.9657
+      "price": 2395.12,
+      "change": 8.9308,
+      "changePercent": 0.3743
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.617,
-      "change": 0.2511,
-      "changePercent": 0.7758
+      "price": 32.587,
+      "change": 0.2211,
+      "changePercent": 0.6831
     },
     "JPYTWD": {
-      "price": 0.2057,
-      "change": 0.001,
-      "changePercent": 0.4998
+      "price": 0.2055,
+      "change": 0.0008,
+      "changePercent": 0.4021
     },
     "EURTWD": {
-      "price": 36.598,
-      "change": 0.2351,
-      "changePercent": 0.6465
+      "price": 36.518,
+      "change": 0.1551,
+      "changePercent": 0.4265
     },
     "CNYTWD": {
-      "price": 4.8934,
+      "price": 4.89,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4035.9,
-    "twd": 4232.0,
-    "tael": 158711.0,
-    "twdTotal": 131639.0,
-    "changePercent": -0.6034
+    "usd": 4041.5,
+    "twd": 4234.0,
+    "tael": 158785.0,
+    "twdTotal": 131700.0,
+    "changePercent": -0.4655
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NT3VvOXo2OGZ6eHh4R010UzlOM3pFc2lrYkYwbnJLY1p6ODFFWFRNN1dNazlaelNXSU0zSThnRWxxLVhQY0VRUkhXMzE1Um8?oc=5"
     },
     {
-      "title": "美股收盤》AI支出疑慮升！費半暴跌近7％ 台積電ADR重挫4.5％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiYk45WUVORm8yWGFvMmp0bUR3ZHlCMG4yM2JIMGVnNkF0SF9XOU5DZllJcXhIWi02T3A3OUd3YlZmVXBfdW45dllGaF9jb1pxMGxVVUJSb1o5M0UxcW1N0gFkQVVfeXFMUHdJM2hPQ2FxdlZpdHRBdHVZXy0yTW52WU1ybEZzLVVzcWxMS0FrbmRBU0RvcFRJLW5HMkoxX3FaWTNhbXVyN0xkRjBiT3l2cWdWc3duU1FRSWtSWDFKRGhmV1E5eg?oc=5"
-    },
-    {
-      "title": "美股早盤／Meta特斯拉財報好也難救 四大指數齊跌、費半重挫4% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nN181TnFDcnhCM29EdjdfZzFtZGRmMElrRFk0bHpacmE0Q2ZzR1BkQm1tX3ZxUkEyQkgyX1o0VE5QUDFFUUw0ZlVtcVM1RGx5?oc=5"
-    },
-    {
-      "title": "美股大跳水！4大指數下跌「費半重挫5.67％」　ADR一片慘綠 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zcnNXeWJ5U0xGNXFrRjEwNnBXWFgxNlNhZUI0aGQ4X3hxeHpaSzdLTG9zS1FETnctRTNzYXhzY0dMYzNjUHZiU0VCRU9SZFJIZnfSAVBBVV95cUxQMllKcVE2QjNDQXMxeHBDSnU2bnQtV0tDTzhDZVR4Z0p4M0diTkt5ZW1WZzhfYkExRFBCTkdiY0lieTVoWlRKLVlJaW93dWdZYw?oc=5"
-    },
-    {
-      "title": "Meta重挫6％拖累 美股開盤三大指數齊跌 台積電ADR重跌逾2％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fMENYQ2tjSWJYUUM3QVZqY0RYeUQ1amw5MjZWNUxDX2VMM1c3cVZPWEtmZ2hkT1M4MnNYU01EdklYRy1nXzItbW51aElDZkRUWExuZzRORzBmT1FUbE5Z?oc=5"
+      "title": "金價暴跌28％、4000美元保衛戰開打！黃金避險神話破滅？匯豐全說了 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DNnprWmlLa3FfRHNaTEw4RExvWVZYbVgzaUt0RVdTWFg5ZFJpNS1RaXM0NU4yT2xCamlodk5yWXNBQ05sX2N4TFB6el9fZWxsc3ZGdm5hYk1mdzlyTUNz0gFkQVVfeXFMUF8xNkoxQVQtb25qdW1RNFViaVNETkozRFczOW5mME9hRVJuT1o1S0lDQnhKMjRkQmNaZ29TbzBTLXlEc2t2ZmxxeVp5SXZqX19UUjZwdnRUZ0l1bHVENFg3cjFIQQ?oc=5"
     },
     {
       "title": "比特幣 ETF 三天狂吸 10.7 億美元，一天又撤 6.36 億！BTC 跌回 8.1 萬美元，機構買盤變臉？ - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZTR4ZU4xdXpWem0tckMwaTBnT0JBUmFUaS04SHJnby1ielprZERqWHQwWGFLT2pJQkw5TlB0aVNYcFM2V01maGF0VTduZm5FT0UxaGlzWTFHOHVhMkdESGw0dE0xQ2VwMGtFLTZ2MmRmVHB1bmhlX2ZIZU9EdWtMVlBhT05ydlBseklxaldiYjJwZXZuWkY2NVlUSlFaNTBZcHc?oc=5"
     },
     {
-      "title": "〈美股早盤〉AI疑慮未散油價又漲！Meta與特斯拉走跌 主要指數開低 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84NVhBMXFUbVNRUE1JY2Y0dEZUNHBIVFA5dXE4LWl3M0Rib1F5MkRwVGZ4bXoyd1JucGxRYXAwYnhucmdOMXlrMUhXdktxa2c?oc=5"
+      "title": "台股短線劇烈修正　法人：震盪千點後市平均報酬率誘人 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTZEVWRWNVdVNSZ19acUZUYVYxczVMUEdVX2JqU3RXbHJ4RXp1XzlJS3lSVHI4NGU3Si1ubnppM0FUSFdLTGIyeFlxV1g4enU1N1HSAVBBVV95cUxOdjdpR3d0ZWJfZkZtVnVBWDV0TE1NOEhqUkJ1TWY5bVc1UHRtUFVJdDBBYnBMYzRFZkNmLTliV2F4NXlHU2F5bFdueEFIWWdYYg?oc=5"
+    },
+    {
+      "title": "美股早盤／Meta特斯拉財報好也難救 四大指數齊跌、費半重挫4% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nN181TnFDcnhCM29EdjdfZzFtZGRmMElrRFk0bHpacmE0Q2ZzR1BkQm1tX3ZxUkEyQkgyX1o0VE5QUDFFUUw0ZlVtcVM1RGx5?oc=5"
+    },
+    {
+      "title": "好在有颱風？台股多休2天能躲股災？分析師：可緩衝但補跌難免 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPeEV6THJqWEV1U0NrOE5nTXEwREkxOWc4czJsX3p5WkxRVHc3alFsb2dWNEh0VGJqUTdsZkR4NmU4YUJpWUlQSkk5czBialdSYXllaDBXMThwMzRBZ245cVZUam5sX3FCYWRnUF80OVNBTlRlXzFIRUpCUV9wci1aOTBjZkJqZ2xIdmt3QVlDaFloeWVEb0dvdEIzUEY4ZlcxM0VvMnI5VjBxbmN6bUJweTZ5bEwtMkZ0c21TMXdvLUZ2TXJpaGs3TmFONTVHOTRlNFR2TVNQS2RoeXBybV9VcUlneEZFRlE3V0RYdFVEcmtMU0syNXphRUR0WXdac3lqZlV3NFBwTUhZLWlva2NJN2UtSEpSR1JxbUZZc1IwMUg4M1dyQkNvaDI0M3NFcUREWWxUUVhEQWRjaU9NcWxPa3liTldnaGUzMmtmYnJoemxhbXA2MzNaTU9uWHdDOWpTNG84NlZ2bkp1VjdYdEdJYTl0U2c5ZnFwV1JzYkdwRVJ0U0hzaXZhQ1RvTkNDQ1JJMkk0c0J0bmktX09BZzZzZ21WVlFDTlYza3BQOA?oc=5"
+    },
+    {
+      "title": "美股收盤》AI支出疑慮升！費半暴跌近7％ 台積電ADR重挫4.5％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiYk45WUVORm8yWGFvMmp0bUR3ZHlCMG4yM2JIMGVnNkF0SF9XOU5DZllJcXhIWi02T3A3OUd3YlZmVXBfdW45dllGaF9jb1pxMGxVVUJSb1o5M0UxcW1N0gFkQVVfeXFMUHdJM2hPQ2FxdlZpdHRBdHVZXy0yTW52WU1ybEZzLVVzcWxMS0FrbmRBU0RvcFRJLW5HMkoxX3FaWTNhbXVyN0xkRjBiT3l2cWdWc3duU1FRSWtSWDFKRGhmV1E5eg?oc=5"
     }
   ]
 }
