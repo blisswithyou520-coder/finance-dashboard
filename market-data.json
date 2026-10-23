@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/23 19:38",
+  "updated_tw": "10/23 23:55",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -35,87 +35,91 @@
   },
   "us": {
     "NVDA": {
-      "price": 212.21,
-      "change": -9.76,
-      "changePercent": -4.397
+      "price": 212.51,
+      "change": 0.3,
+      "changePercent": 0.1414
     },
     "AAPL": {
-      "price": 348.22,
-      "change": 4.23,
-      "changePercent": 1.2297
+      "price": 347.86,
+      "change": -0.36,
+      "changePercent": -0.1034
     },
     "TSLA": {
-      "price": 374.58,
-      "change": -11.89,
-      "changePercent": -3.0766
+      "price": 372.98,
+      "change": -1.6,
+      "changePercent": -0.4271
     },
     "QQQ": {
-      "price": 704.47,
-      "change": -20.73,
-      "changePercent": -2.8585
+      "price": 707.84,
+      "change": 3.37,
+      "changePercent": 0.4784
     },
     "SPY": {
-      "price": 763.96,
-      "change": -9.13,
-      "changePercent": -1.181
+      "price": 762.52,
+      "change": -1.44,
+      "changePercent": -0.1885
     },
     "SCHD": {
-      "price": 35.4,
-      "change": 0.74,
-      "changePercent": 2.135
+      "price": 35.298,
+      "change": -0.102,
+      "changePercent": -0.2881
     },
     "VOO": {
-      "price": 702.3,
-      "change": -8.42,
-      "changePercent": -1.1847
+      "price": 700.955,
+      "change": -1.345,
+      "changePercent": -0.1915
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81540.27,
-      "change": 228.3794,
-      "changePercent": 0.2809
+      "price": 81472.77,
+      "change": 160.8794,
+      "changePercent": 0.1979
     },
     "ETH": {
-      "price": 2395.12,
-      "change": 8.9308,
-      "changePercent": 0.3743
+      "price": 2400.61,
+      "change": 14.4208,
+      "changePercent": 0.6043
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.587,
-      "change": 0.2211,
-      "changePercent": 0.6831
+      "price": 32.557,
+      "change": 0.1911,
+      "changePercent": 0.5904
     },
     "JPYTWD": {
-      "price": 0.2055,
-      "change": 0.0008,
-      "changePercent": 0.4021
+      "price": 0.2053,
+      "change": 0.0006,
+      "changePercent": 0.3044
     },
     "EURTWD": {
-      "price": 36.518,
-      "change": 0.1551,
-      "changePercent": 0.4265
+      "price": 36.51,
+      "change": 0.1471,
+      "changePercent": 0.4045
     },
     "CNYTWD": {
-      "price": 4.89,
+      "price": 4.8862,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4041.5,
-    "twd": 4234.0,
-    "tael": 158785.0,
-    "twdTotal": 131700.0,
-    "changePercent": -0.4655
+    "usd": 4011.2,
+    "twd": 4199.0,
+    "tael": 157449.0,
+    "twdTotal": 130593.0,
+    "changePercent": -1.2117
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
   "news": [
+    {
+      "title": "美股早盤／四大指數下跌！科技股賣壓持續台積電ADR逆勢漲| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vT3lnWUFwMHlIY25VWWwzYWhpQW9VREVmRnllUzBScEpoSGRYRFJnVWFBSXAzcXByNzRUZjU0U2tadlNWeU80Sjk3OVpNSENx?oc=5"
+    },
     {
       "title": "科技股崩跌拖累！Meta加碼支出引爆美股費半重挫 日韓股齊挫、台股今休市躲過一劫 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxOUHNfdjJ5QVB4RkxSTnhBck1VbWFEQjZCejFyYlhFMG1FQjRGWVhaNThYMkhYeFRVeFlTUXVDU3pBQlRlMU9QYjZucnhVRTRyelBYOU9EaDluZkd5LVBsR3dfRHZmRjVUZEIwUUJFSjVYSk5pQmdya2UxM240ZjB0ZUtacS1Pb2ZTNXZ2cy10eHJnT2ZUaWNoM0ZncFo3RzFwRlNXejZHRHVMVElMV0plQ0VKWUhUOW56NkJSNmFrcWJZZE9GYTh1bTFUR1VJUWZhMzNKUV9IQkJld1AwaVptMHk5SkVuVXFFSFJkSDc1U0ViTjdqRVRsLVBsSjlHcng2X2JIV1JHWDJ0QWUzX2x6dGNFVWUxUk9WUEhpa1dubEg0b0RfMGNEbk11U3U3akRnNHc1eGxQeUhTazR1TnlpeWhfcUp5X01ZNktkdjF2RmZqdl9BLXNFQm83SDJrSGxYamstQnRyMk9sczg2MlI1bHMtYUsxblZHa0NhREhCZUk3RUFaYk5veXFRUWdfQ2FraGxKc2NIUU0waUJRdzRsMVJ6VVVMUDNMaWpyeE42dDlCaEU4dlNHUFZ1bFNaNk02dGo3VmxoX19fZkRFVWtrZnBENEpVRUw2S1V1MWh0el9DY0pITHc?oc=5"
@@ -129,24 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DNnprWmlLa3FfRHNaTEw4RExvWVZYbVgzaUt0RVdTWFg5ZFJpNS1RaXM0NU4yT2xCamlodk5yWXNBQ05sX2N4TFB6el9fZWxsc3ZGdm5hYk1mdzlyTUNz0gFkQVVfeXFMUF8xNkoxQVQtb25qdW1RNFViaVNETkozRFczOW5mME9hRVJuT1o1S0lDQnhKMjRkQmNaZ29TbzBTLXlEc2t2ZmxxeVp5SXZqX19UUjZwdnRUZ0l1bHVENFg3cjFIQQ?oc=5"
     },
     {
+      "title": "分析：比特币徘徊于8.2万美元下方，AI融资压力拖累美股 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00eFItSkVmS3lnczF5VEF1YnhRZjJxVHlOVUhiSnNrVGFpMGlGVHpMNU1qMW13d2c5TXRkZmtQZ1NUNzdnUkx0blpMUVk1TXlzLVJwdXpsaTRvOHNMZ2lORGd5ZFNpQQ?oc=5"
+    },
+    {
       "title": "比特幣 ETF 三天狂吸 10.7 億美元，一天又撤 6.36 億！BTC 跌回 8.1 萬美元，機構買盤變臉？ - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZTR4ZU4xdXpWem0tckMwaTBnT0JBUmFUaS04SHJnby1ielprZERqWHQwWGFLT2pJQkw5TlB0aVNYcFM2V01maGF0VTduZm5FT0UxaGlzWTFHOHVhMkdESGw0dE0xQ2VwMGtFLTZ2MmRmVHB1bmhlX2ZIZU9EdWtMVlBhT05ydlBseklxaldiYjJwZXZuWkY2NVlUSlFaNTBZcHc?oc=5"
-    },
-    {
-      "title": "台股短線劇烈修正　法人：震盪千點後市平均報酬率誘人 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTZEVWRWNVdVNSZ19acUZUYVYxczVMUEdVX2JqU3RXbHJ4RXp1XzlJS3lSVHI4NGU3Si1ubnppM0FUSFdLTGIyeFlxV1g4enU1N1HSAVBBVV95cUxOdjdpR3d0ZWJfZkZtVnVBWDV0TE1NOEhqUkJ1TWY5bVc1UHRtUFVJdDBBYnBMYzRFZkNmLTliV2F4NXlHU2F5bFdueEFIWWdYYg?oc=5"
-    },
-    {
-      "title": "美股早盤／Meta特斯拉財報好也難救 四大指數齊跌、費半重挫4% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nN181TnFDcnhCM29EdjdfZzFtZGRmMElrRFk0bHpacmE0Q2ZzR1BkQm1tX3ZxUkEyQkgyX1o0VE5QUDFFUUw0ZlVtcVM1RGx5?oc=5"
     },
     {
       "title": "好在有颱風？台股多休2天能躲股災？分析師：可緩衝但補跌難免 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPeEV6THJqWEV1U0NrOE5nTXEwREkxOWc4czJsX3p5WkxRVHc3alFsb2dWNEh0VGJqUTdsZkR4NmU4YUJpWUlQSkk5czBialdSYXllaDBXMThwMzRBZ245cVZUam5sX3FCYWRnUF80OVNBTlRlXzFIRUpCUV9wci1aOTBjZkJqZ2xIdmt3QVlDaFloeWVEb0dvdEIzUEY4ZlcxM0VvMnI5VjBxbmN6bUJweTZ5bEwtMkZ0c21TMXdvLUZ2TXJpaGs3TmFONTVHOTRlNFR2TVNQS2RoeXBybV9VcUlneEZFRlE3V0RYdFVEcmtMU0syNXphRUR0WXdac3lqZlV3NFBwTUhZLWlva2NJN2UtSEpSR1JxbUZZc1IwMUg4M1dyQkNvaDI0M3NFcUREWWxUUVhEQWRjaU9NcWxPa3liTldnaGUzMmtmYnJoemxhbXA2MzNaTU9uWHdDOWpTNG84NlZ2bkp1VjdYdEdJYTl0U2c5ZnFwV1JzYkdwRVJ0U0hzaXZhQ1RvTkNDQ1JJMkk0c0J0bmktX09BZzZzZ21WVlFDTlYza3BQOA?oc=5"
     },
     {
-      "title": "美股收盤》AI支出疑慮升！費半暴跌近7％ 台積電ADR重挫4.5％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiYk45WUVORm8yWGFvMmp0bUR3ZHlCMG4yM2JIMGVnNkF0SF9XOU5DZllJcXhIWi02T3A3OUd3YlZmVXBfdW45dllGaF9jb1pxMGxVVUJSb1o5M0UxcW1N0gFkQVVfeXFMUHdJM2hPQ2FxdlZpdHRBdHVZXy0yTW52WU1ybEZzLVVzcWxMS0FrbmRBU0RvcFRJLW5HMkoxX3FaWTNhbXVyN0xkRjBiT3l2cWdWc3duU1FRSWtSWDFKRGhmV1E5eg?oc=5"
+      "title": "台股何時大反攻…盯五訊號 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LanZrejBkTnNEcWRDSFkzVEJFQ3lWTFZuQUJYdHhmRjU4emF1SmFzUnNqaUJUWFlUN2lDem1RbEE5al9OTUZLejF3R2I2WW9Ia0twNjRHWkJGQdIBX0FVX3lxTE5hNGpmaEJyMTMxNFNNY3VXT1Z4UGs2Q0ptWmRhM0tUOUp5b0VMakVKVEJZZ1VyU1RVTnByMl9QaFJROTM5QTg0NWI2bS1CNFRTa05ROU9HQW50anRIcGNr?oc=5"
     }
   ]
 }
