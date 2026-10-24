@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/24 22:32",
+  "updated_tw": "10/25 01:36",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80262.65,
-      "change": -811.5375,
-      "changePercent": -1.001
+      "price": 80059.91,
+      "change": -1014.2775,
+      "changePercent": -1.251
     },
     "ETH": {
-      "price": 2347.2,
-      "change": -36.8774,
-      "changePercent": -1.5468
+      "price": 2312.25,
+      "change": -71.8274,
+      "changePercent": -3.0128
     }
   },
   "fx": {
@@ -129,12 +129,8 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81a0dWNmpOcVVETWpjek9kbzR1X2t5TVVXUDM2VkxkZEN2MjhYVUVpNktpaU9EZXVnWkhsTVY0Mzc4RW1vMVdPNWpoMVl1N0k?oc=5"
     },
     {
-      "title": "比特币已实现市值回升，或为新资金入场信号 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YSmV4R1puYXV2VlNmRVRpZFcwVU02Z2wtRi1nQVFFVV9zVFU3T3lET192RWdMTzNMaGtwNl9QWVVHdjZTZ0tFZXFhcmpxamgwNlZXS2pPYnZNcDJscE9aOVF2VHRmQQ?oc=5"
-    },
-    {
-      "title": "川普又放話！美股大跌652點　台積電ADR逆勢漲1.49% - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWZXQ0UzlXQ3YzbHNYZjMxUTdqaUdTTW96X0liazJtNGlTc09Vbm04azhKMFkxbXBZZ1JKNzJ5Zm9CWGdYSEhVRFY0T1gxa3ZoSUHSAVBBVV95cUxPNWk3SXdWLVE1a3JHRlNrNVNIWVdLdHVNaVExWmVmUE85R09uUUZTR0FyLTVTYVQ5T1YxMzNTODJjTEV4SHBSQzFtR0Y2b3pjbQ?oc=5"
+      "title": "台股何時大反攻…盯五訊號 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LanZrejBkTnNEcWRDSFkzVEJFQ3lWTFZuQUJYdHhmRjU4emF1SmFzUnNqaUJUWFlUN2lDem1RbEE5al9OTUZLejF3R2I2WW9Ia0twNjRHWkJGQdIBX0FVX3lxTE5hNGpmaEJyMTMxNFNNY3VXT1Z4UGs2Q0ptWmRhM0tUOUp5b0VMakVKVEJZZ1VyU1RVTnByMl9QaFJROTM5QTg0NWI2bS1CNFRTa05ROU9HQW50anRIcGNr?oc=5"
     },
     {
       "title": "擊敗主動式ETF！今年台股最飆基金竟是「它」 報酬率狂衝96% - Yahoo股市",
@@ -147,6 +143,10 @@
     {
       "title": "你也中鏢了？台股套牢苦主大集合 這檔被虧「一路南下」 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ocmtBUFZQOEJNT1NYWlI1bkp4NF91SmVKa2tTbjNJTzdjRUl0NGRYdjVqUmotbnRZd2hZWVROTEJJaFNwU29zU0p6TDlrcldVanhXSnRUcFN6WjF6bUpR0gFkQVVfeXFMUG8ySjNGNUlLeWhKbmRzYWEwUzBOZGlVZmR5ajRYWG54WW9LN2NjUjk4dndBNmVOYlI4VHFXWkNYVzF3Nml2YWRLSHg4RXk4M3ZXVU1jSmF2UGxTNGQwaTdWNmYxaQ?oc=5"
+    },
+    {
+      "title": "台股只跌4%、韓股慘崩40%！達人看清了「不會是我們要補跌 」網：第四法人還有錢 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxObmd1YjZfemRoaFBEOF9FZ0FrT2RvN2hjTEM1aW14QkEtZ2VuOGlDV3Z6cEEwQVVqVUZzS2hIRHFvd0E4VXpBQkFsbW1SU0I4bTFxTDFzdzRfZ0YzNjNJUjNEY2JCakJJemxOX0p3YmFIMndZMjFTYjcxcjdHZDJvQkVqUU1iVTZGZTVXZEpNN3I1Z0ttUFZKVV9MeWk2dHpSb194UG12MFBpTlVjZldhOEdYN0k0ZWpaZE9qLWZ0U3VNMW1aTGdDTFdEc1BQeWEydzlSZVd2a0NDcVl0T0IyUG1iN2htdWpKcDc3V0xxS0xyc0JHb0dDVTA3VWpweUpMeUJFOEZ1dzFrVDFTMWNIWDg5cGlDUkw1WXNIajktQ2RxTXBnME1pNmtqQWgzTDVEM1JXdWVxanFISHMyTnJXekN4bjhPOVp4V3ZTRjZlNjVjYUR2VjdBZnBuTTJRWkZLOUxnQjBwdHhlREl0?oc=5"
     }
   ]
 }
