@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/24 19:07",
+  "updated_tw": "10/24 22:32",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80543.69,
-      "change": -530.4975,
-      "changePercent": -0.6543
+      "price": 80262.65,
+      "change": -811.5375,
+      "changePercent": -1.001
     },
     "ETH": {
-      "price": 2366.63,
-      "change": -17.4474,
-      "changePercent": -0.7318
+      "price": 2347.2,
+      "change": -36.8774,
+      "changePercent": -1.5468
     }
   },
   "fx": {
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQQXg0anVObkw4c0l1QmxTSTVGdjRrcDdtazF0aWRfTW9hVVl1bm9UV283WTNraEFnbzREN1pmVVloUDFzbTU4NVNMX0VHelpqZ0ZoMU56TUVXUGptZGNmbExoR2xCcDZYRFRXa0l3YzR3cW9ydnE0cE5UVENZTTZ4Rk9uUG93S0ZxemZLb3FmYmJNUTZZcjVIU19ueXg1SEx3VmVxb1hPbVBCUnpxZWlyMUFNZmdhczFMa1pqX1NHY05HRm5sN1JGZ01NREQzVUxKa25tN0cyV096XzB2azBnU2ZXWE1DNUN0cWx1cXRnVW9WT1dSSURzZFdLLTBWTm00Y1FZT2VCVXoyRmlDOVRjbmhiNzJkVW5mZlZ3NHZQSWRpUGp2UlM4elZiNWphVzd6aE0zeWthcUhMSlUwWG9RMVJYam1PNGl5UnU0emg1ZDFKbl82VUtRU3JLZ1hIREZvelBqRjZWblYxOFgzM0NjcmpqZ3JwdnNDemRvSDdwdUZ1NzFnUGRFd205cENibFpQM1Aw?oc=5"
     },
     {
+      "title": "黃金完蛋！摜破4000美元關卡 還寫1慘紀錄 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwRDI1LThhWkFiVUJLM1ZncWJuZ2l2OVF5RkZZc3hzcUpuZmp0N1F6WE9hU0taMmRrWERwUGg4TlBSWVJPWnkyX1MxRlYzWUJSU1YxdDVsYW5EdklreGxR0gFkQVVfeXFMTVJ6ejItTXkyUDJnTGZ0bGNDN2Z5MnllZFRKUEFlRDVKaEUwZjJXc0hTdXpYaUlKTU1fU3hSSHVwejJiN29BQU1HSlhVaHRiaDV0anBQdmN2NUIyOFBtUWl4T0thaA?oc=5"
+    },
+    {
       "title": "美股罕見訊號浮現！1999年來僅見第2次 花旗：逢低買點還沒到 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81a0dWNmpOcVVETWpjek9kbzR1X2t5TVVXUDM2VkxkZEN2MjhYVUVpNktpaU9EZXVnWkhsTVY0Mzc4RW1vMVdPNWpoMVl1N0k?oc=5"
+    },
+    {
+      "title": "比特币已实现市值回升，或为新资金入场信号 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YSmV4R1puYXV2VlNmRVRpZFcwVU02Z2wtRi1nQVFFVV9zVFU3T3lET192RWdMTzNMaGtwNl9QWVVHdjZTZ0tFZXFhcmpxamgwNlZXS2pPYnZNcDJscE9aOVF2VHRmQQ?oc=5"
     },
     {
       "title": "川普又放話！美股大跌652點　台積電ADR逆勢漲1.49% - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWZXQ0UzlXQ3YzbHNYZjMxUTdqaUdTTW96X0liazJtNGlTc09Vbm04azhKMFkxbXBZZ1JKNzJ5Zm9CWGdYSEhVRFY0T1gxa3ZoSUHSAVBBVV95cUxPNWk3SXdWLVE1a3JHRlNrNVNIWVdLdHVNaVExWmVmUE85R09uUUZTR0FyLTVTYVQ5T1YxMzNTODJjTEV4SHBSQzFtR0Y2b3pjbQ?oc=5"
     },
     {
-      "title": "今年績效最飆的台股基金不是主動式ETF！ 而是它 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zT3k2WURkVGxvNENQay1CMzREdDBaX09zNnBuSjVmYi1yRDNGVktXcFV4YkJoRk5UenA4ZzUwXzRENXpWUVl1aGctQmxjVFVVclBXWFh2Ync5eF93UG9z0gFkQVVfeXFMUEE3Smp0UTNfSGY0NWNVbEtFVmRNemc1S1poXy1yZjZUQXVDTXdBQjlZTzctenVkVlpYSGpKZm44SXQycVc1NG8tbHNhaUpxM3UxekZla1QyY1RSaVhiRWZoeU4zeQ?oc=5"
-    },
-    {
-      "title": "機構連兩日撤資與油價飆升夾擊 比特幣失守8.1萬美元大關 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5faGxVVy0zeFdBNldHWHhHMUFSYVI3eHd3Ni1mSFU4cDlfb1lnTnJFb0p3eDc2WndnQ2lFdmpHZF9OU3lZTDBxcGpabEl2U2xE0gFWQVVfeXFMTVNvUzluV0tuX05IV0xlQUVnU1Z6NGUwbWYyME1JZFg1OTI4cW00N0xsVnQ4YlYwaVUwV2pvRWZnTkh2UWVoRTV6VWkyQ0d5anItc2IwcWc?oc=5"
+      "title": "擊敗主動式ETF！今年台股最飆基金竟是「它」 報酬率狂衝96% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPX3BCM3gyMUpXTVM0MkMtNjQ5bmFhNkpYWC1vOE5NSy1jTm1IS04tSkNCOTlpMWMxbTBMTTJFUmpCelh4Zk9yYU9yZ3NOWk1XVnFadzNDSnlMbWdGVkVqcFlhVmJ0UHEzQjdqT21wWEtJeU1qSXV3b0dPdG1fOGs4MklzV3gzMEJsX0U2WVhGSGFKQmw3aFNpV0Y5Z29mSlI0d0cweUhEUkRVM2c0Z2RwdXdfM3djaXJEa2g1a3djRm1TNFdQdjFpdXJlLTBaa1VFYVd1TnpCQWc4MUFWVDNkSGFRUDg5aXhBU0NHZkotSGh3cVdFLS13V3VSelpPLWQxcEgxVWtlX2lYaUVLd3N2bUFOT3MtZ085S1RHTVQxdl83RmNPeE85TGpXczZVbGphcVZRdS1Id21XLU12MXlLdnlLWVdxYVF5dkFIQkJqcjBJa1hkeExCM2J6djlIR1gwLUE?oc=5"
     },
     {
       "title": "〈美股盤後〉油價衝破100美元！道瓊挫逾650點 費半小幅收紅、周線連三黑 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KbjhLUUo0Q0REcEFGZDVJYVpyckNvVWNneEdWejVqVWlfS2lyRUdheFl4eVBqRWVUZUcyNWVtUmVQSmtxTkVaRExmSnVwNU0?oc=5"
     },
     {
-      "title": "颱風假台股該不該開盤？政大教授點出交易真相 網友反問：誰要當韭菜 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPWngtMExhbjlhSGxmQnphYkRubWRZc3NwSVdTd3htY2pCMlJVUlFNVEM1TmxzbUpNclYzeGFHcERnYVhXLW95T2VsX1dOQ2d2OE5KVVRSeDN4bG96eFhMRlFkaFJHZXZrYW02N09oUTg1QTJyTWlNSC1xc1N4amRDY05TWU9DOFdhUTRrSkExanJVaFZhQkxwT0JXYWIxRTQyeXpjSnZod0NXSjB1WEN1WDNSZTh4Tm5xQkQxQmU4UkZKaTdWQjRQZnZBUmcyTElNR3kyYmZsM0pFSExBWU05NXNyVEEyVF9nNVZiR2dqSXNFUl8tb0hfSnNoc0E2RnktZnNFMkowY1pFTU1pUVFuZ1ZmTFNodVhkMjdydUR5eFZlMTRQWm1SeGJhMjlnaXg5MDFJOGJ6TU1XcnBjRzBWejFQUENDOER3ekppVmJ6ZzVTemJIbElYc3RJd3dRamhkTk1rQnQwUjE2eGlUbEFGR3lhTGdLYlNxMW92UkY2cFpTWG1DTm5oYWQza3ZIbHNzVHhjMVNYZEpnaVZQY0hkUTJyc1BaVURZejF3LVJxZlZ6VGp6NEloSm1sQQ?oc=5"
-    },
-    {
-      "title": "180萬解約定存想All in美股！他猶豫買00662還是QQQM 內行人建議：也沒差多少 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNc2hYOHBUWTNJNDdDT1BxMGZYcERhRHJTSGJVM3Jiek93Z3lpLWZHaEJ0WGl0UFAxblZ3bDdUSFlQdkdVaGM1aWdRbUZMbGRSZkNQamN2OW5DT21udnVJZ3hWU3BLZlhCNXotcm5PNTJmUG9FV2FrcWJ4cXRfN3lNUWNicnBHNWdEVTB3NGRRX2RxQS1ZRjBLY0pWUUNyZmVoZ1ktSk1hTnVrcjRtNmZtMlRFOGxxbXlaeDdEaUdueG5yX003dnhoNjBOVlZjYTNQTXhXU2pJTENsbzdVMVZEVnZXOE8tTzJWVGU4eUVLZHRLWXA0d01SNGViVkZMZFFiQ2RzV0NCdkl1NnZtN0VLWkhiWWhJZExieE9Za25pMzdPT3B0TFBmaGc1RGlFOTVLRXZhSUxzMWcxZkNsdGdqQ3M0cFdhSTRZaG5NSVRnYngyQzRwNFpqVjZUalBWVHR2OWJ6czdranFTTkFlbEZENmpYaVlxWWV4ckY0b2N4OUhvcWJucHg1UDJ3OWdNN2hVNUtYWW40cw?oc=5"
+      "title": "你也中鏢了？台股套牢苦主大集合 這檔被虧「一路南下」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ocmtBUFZQOEJNT1NYWlI1bkp4NF91SmVKa2tTbjNJTzdjRUl0NGRYdjVqUmotbnRZd2hZWVROTEJJaFNwU29zU0p6TDlrcldVanhXSnRUcFN6WjF6bUpR0gFkQVVfeXFMUG8ySjNGNUlLeWhKbmRzYWEwUzBOZGlVZmR5ajRYWG54WW9LN2NjUjk4dndBNmVOYlI4VHFXWkNYVzF3Nml2YWRLSHg4RXk4M3ZXVU1jSmF2UGxTNGQwaTdWNmYxaQ?oc=5"
     }
   ]
 }
