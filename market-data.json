@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/24 09:22",
+  "updated_tw": "10/24 14:13",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80695.4,
-      "change": -616.4906,
-      "changePercent": -0.7582
+      "price": 80703.32,
+      "change": -608.5706,
+      "changePercent": -0.7484
     },
     "ETH": {
-      "price": 2374.96,
-      "change": -11.2292,
-      "changePercent": -0.4706
+      "price": 2376.83,
+      "change": -9.3592,
+      "changePercent": -0.3922
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4010.0,
-    "twd": 4199.0,
-    "tael": 157465.0,
-    "twdTotal": 130606.0,
-    "changePercent": -1.2413
+    "usd": 4007.9,
+    "twd": 4197.0,
+    "tael": 157383.0,
+    "twdTotal": 130537.0,
+    "changePercent": -1.293
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KbjhLUUo0Q0REcEFGZDVJYVpyckNvVWNneEdWejVqVWlfS2lyRUdheFl4eVBqRWVUZUcyNWVtUmVQSmtxTkVaRExmSnVwNU0?oc=5"
     },
     {
-      "title": "油價飆破116美元！美股漲跌互見 費半逆勢收紅 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPVUhKVGxSNVZLcnFYNHZNbmxzbWpqMkZnNnhKVDFTc3NPZm03dVBpRkhha2s3LUZJck16UENnZHpSdV9OcDdCWDkzZmNQdmJLNHZtX0hTU2Z3Q0h1RUQ3WkcxS0oxeXplWS1XVFBpZlg2blItREd4WHc4YTVvMUh4QlZZTGlQV0xQZFdKa3dRWTRHSVlXWElBOWdaU0hMQ0NBbUFBVXI0UUlXeHF3V0VRQ2NuWnVfSEFvckw0bzRMdlRfbkJ4elpCcnU0VGttOUhDUjlxZ3BRZEJya0xJVUpzRHdBaTJHOXl6aXNPUHNvWHNFTm9LMjZ1VnVWNXBXSlFadGh3aTRMMkNzeVNKY21oQWRpMDhjTXFvU1gwQmQ1Q0dxTHZHSmtucEpxeGtPRUlhR3Byc0dVTTl1QQ?oc=5"
+      "title": "避險光環失色！黃金現貨跌破4000美元關卡 恐引發ETF技術性拋售潮 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQQXg0anVObkw4c0l1QmxTSTVGdjRrcDdtazF0aWRfTW9hVVl1bm9UV283WTNraEFnbzREN1pmVVloUDFzbTU4NVNMX0VHelpqZ0ZoMU56TUVXUGptZGNmbExoR2xCcDZYRFRXa0l3YzR3cW9ydnE0cE5UVENZTTZ4Rk9uUG93S0ZxemZLb3FmYmJNUTZZcjVIU19ueXg1SEx3VmVxb1hPbVBCUnpxZWlyMUFNZmdhczFMa1pqX1NHY05HRm5sN1JGZ01NREQzVUxKa25tN0cyV096XzB2azBnU2ZXWE1DNUN0cWx1cXRnVW9WT1dSSURzZFdLLTBWTm00Y1FZT2VCVXoyRmlDOVRjbmhiNzJkVW5mZlZ3NHZQSWRpUGp2UlM4elZiNWphVzd6aE0zeWthcUhMSlUwWG9RMVJYam1PNGl5UnU0emg1ZDFKbl82VUtRU3JLZ1hIREZvelBqRjZWblYxOFgzM0NjcmpqZ3JwdnNDemRvSDdwdUZ1NzFnUGRFd205cENibFpQM1Aw?oc=5"
+    },
+    {
+      "title": "機構連兩日撤資與油價飆升夾擊 比特幣失守8.1萬美元大關 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5faGxVVy0zeFdBNldHWHhHMUFSYVI3eHd3Ni1mSFU4cDlfb1lnTnJFb0p3eDc2WndnQ2lFdmpHZF9OU3lZTDBxcGpabEl2U2xE0gFWQVVfeXFMTVNvUzluV0tuX05IV0xlQUVnU1Z6NGUwbWYyME1JZFg1OTI4cW00N0xsVnQ4YlYwaVUwV2pvRWZnTkh2UWVoRTV6VWkyQ0d5anItc2IwcWc?oc=5"
     },
     {
       "title": "川普又放話！美股大跌652點　台積電ADR逆勢漲1.49% - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWZXQ0UzlXQ3YzbHNYZjMxUTdqaUdTTW96X0liazJtNGlTc09Vbm04azhKMFkxbXBZZ1JKNzJ5Zm9CWGdYSEhVRFY0T1gxa3ZoSUHSAVBBVV95cUxPNWk3SXdWLVE1a3JHRlNrNVNIWVdLdHVNaVExWmVmUE85R09uUUZTR0FyLTVTYVQ5T1YxMzNTODJjTEV4SHBSQzFtR0Y2b3pjbQ?oc=5"
     },
     {
-      "title": "AI雲端狂飆變債務炸彈？Neocloud泡沫疑雲蔓延到美股巨頭 NVDA、MSFT - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZXlGd2pxMlI1ZlVKLUJmcm1zNF9rd0RneG93cWxBbG8tU0V2N0FJeWdTSzluWkVWdU55YmpfY28yb3JaME1JSkxXd0dHdmtDSkctcnQyanpjQkhfWXNhWFdzVDZqMVR2Z280bWEyYTdNNnM3QkppSXZBaXNLQTNBc0ZQZWxSUWJKZk16bVdB?oc=5"
+      "title": "Bitdeer维持比特币零持仓，本周出售283.4枚BTC - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kNnBaTGRQSnlRU3ZKVnBldm9BdVFDLURxQUlhVWpOZ3Q1NzdyVzVLdm5GODJZaUo1Q3BTanpySVpTT2dmcV9pSDBLemRZMjdfeDZuVFotT0N0NUZXSHFJZG5GaXZsdw?oc=5"
     },
     {
-      "title": "油價勁揚和 AI 支出引憂 美股互有漲跌 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZdHJhZ0ZGdkpXSDRtT0xoZFRpMmRNNlZyX1ZqTFBIbk9hNjd6TU9ubHQ1NDJiUGtlRHZQR3BMcm9BaEg4amZvVUNRaEJDVFpGekE3Vjdqcnk0SHhJ0gFiQVVfeXFMTlctYkRRN1dGZ2wxRkVJeEpoXy1UNUlpblNBY0VfQ0JmX2d4Y3FkbFVqZFZEa3VreG1HSHp6SGNhZDBuczl3dXlLdVdYT0NnMFBtVkNPTnloY0d1NzhUd1F0S2c?oc=5"
+      "title": "「大賣空」貝瑞：美股結構愈來愈像網路泡沫化那年 但美政府幾乎無力對抗下場危機 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFN2VZeC1oWUNXU2VlX1FLb0x5a3Z5UGtTUlZCbTNPQnBRTU1HZnZySTREeWo1NlFzeTdBTlc5QW1oUUlLQ2FneS04TnhybVk?oc=5"
     },
     {
-      "title": "美股分歧日：CrowdStrike逆勢飆逾8% 資安與部分晶片股展韌性 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQejI0ZjhHakdVX2tCVnNxTkc4UUktSTIwYVZjazFhSmlLVFFWblgzajNNNW9sUmRFUzVqWG5HQ1Q1Y0h6VXZ4Nk5WcUYzd0FIM2lROUVzSDdndmlMdVBzcTgyT0RxcHFSc2xIbll6U1RGSnZja2tMNUxZZFBYZl8xeTlWZGZIRzdMVWhoSTY5eHg1SFBPS3I3a3ZVVHAwMzZZdGJ3UWRvUTdON3M5Y3h2cENqTW9xSGw5cmN6X0V3aVdDZVlHaDEzVUNLbEJJR01NSHE2VGdsdzItSGlmU1d3SFFQdzlpVzZQV2Y3c0hJaWRiNmEwaFRxS1BfSnBCRTJaS3pEZ2NxSWFPdGZpaUI1b09GSHFJeTlKYncyanYtU01QNkNTMXFfVVR6WXNfa2dBRVdha0hFblE4bjdtZHVJVWFVUHR4d21GOEhtREhmNjVET0VzNC1nM3I2TkFhdw?oc=5"
+      "title": "台股10月震盪 8檔台股ETF規模與績效逆勢成長 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQd01wREtzYWlNRC03U0RXME5zTXNmWU1TSWVPcGJVbzhFSGlCcFdoZXFqZTZpNHdZN2dQOU9iR0cxZkxRM2NnMkVpaFBENjRSbE9Zcldmc1JPaFBpWDBGMl96UnY2ZTZNZ3ZFYTdzdm84OW1YeVVWWnJuNTJBYUM0SHdPQ1RqcjdNV1hVcjlSZEF3VDdZemFucDV6WDdFVDhLM2xwOW1Xb3lSdk1JTXduMDhFM0pYVGVVb2ZTWGdTMTQzSXlqMkRBTjlhelVqdWV4OWNJMmpkZ3EwWlFKZkY5RFMyRmJJYl9kcEZvQTJnZDJfdGR1Tjd1Nk12RWFXSEd6a0ZuVTBCek9fLTNwNEw2dzRrY3hBWEtWZjZaR3dkYnNVdFlIUzM0LTljUFA2Y3lq?oc=5"
     },
     {
-      "title": "空軍壓境！台股警鈴大響 後市三情境推演 預期大盤46,500點附近有支撐 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLU0FESTRmNDUzNEhrZ2J6eTlXTDRqV291WDVCU1FoYmM0SjBLa055V0tHVWJsZTlMNDU4OTZCMjRnTldaaHNic3c5QkQtOEFZcFJvVVJlVHk1QdIBX0FVX3lxTE53Y0VHQ1AyWjFseDBnTnB0bjJPOXFkYkhGY2RmWkpuakY1bjFDbEJkdEs5XzJvSWtJYlpYc1drRzZxU1U1ajY3MFp2ZTh3d3RnbVRsLWM2S0hxTWdGSWtV?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉Meta重燃AI交易恐慌 費半狂瀉近7% 台積電ADR跌超4.5% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NT3VvOXo2OGZ6eHh4R010UzlOM3pFc2lrYkYwbnJLY1p6ODFFWFRNN1dNazlaelNXSU0zSThnRWxxLVhQY0VRUkhXMzE1Um8?oc=5"
+      "title": "台股季線失守可以進場買了嗎？法人只說了這幾個字 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2MmJfSHk0NFQ3Qm9IbmxINFFxcy1QUU1ya2ctazkzS3NKaTRPRU1GbnlhbWc3NXlKNnhpVHVra1pVMGZBbXdKRXl3Ull2Mm9U0gFWQVVfeXFMT1hnc1pjb3FIYUpVc1NmZ0FxZVhsSDhUTXV2S1BtaWpwUDhzbnRaWGo4cjFqX2hsb25FMmFueDUyUzJrN1FsRnN1OGxRRUgxd2FBenk4S2c?oc=5"
     }
   ]
 }
