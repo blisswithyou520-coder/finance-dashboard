@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/24 14:13",
+  "updated_tw": "10/24 19:07",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 106.9,
-      "change": -1.25,
-      "changePercent": -1.1558
+      "change": -0.0,
+      "changePercent": -0.0
     },
     "00878": {
       "price": 35.27,
-      "change": -0.12,
-      "changePercent": -0.3391
+      "change": -0.0,
+      "changePercent": -0.0
     },
     "00919": {
       "price": 32.42,
-      "change": -0.11,
-      "changePercent": -0.3381
+      "change": 0.0,
+      "changePercent": 0.0
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80703.32,
-      "change": -608.5706,
-      "changePercent": -0.7484
+      "price": 80543.69,
+      "change": -530.4975,
+      "changePercent": -0.6543
     },
     "ETH": {
-      "price": 2376.83,
-      "change": -9.3592,
-      "changePercent": -0.3922
+      "price": 2366.63,
+      "change": -17.4474,
+      "changePercent": -0.7318
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "〈美股盤後〉油價衝破100美元！道瓊挫逾650點 費半小幅收紅、周線連三黑 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KbjhLUUo0Q0REcEFGZDVJYVpyckNvVWNneEdWejVqVWlfS2lyRUdheFl4eVBqRWVUZUcyNWVtUmVQSmtxTkVaRExmSnVwNU0?oc=5"
-    },
-    {
       "title": "避險光環失色！黃金現貨跌破4000美元關卡 恐引發ETF技術性拋售潮 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQQXg0anVObkw4c0l1QmxTSTVGdjRrcDdtazF0aWRfTW9hVVl1bm9UV283WTNraEFnbzREN1pmVVloUDFzbTU4NVNMX0VHelpqZ0ZoMU56TUVXUGptZGNmbExoR2xCcDZYRFRXa0l3YzR3cW9ydnE0cE5UVENZTTZ4Rk9uUG93S0ZxemZLb3FmYmJNUTZZcjVIU19ueXg1SEx3VmVxb1hPbVBCUnpxZWlyMUFNZmdhczFMa1pqX1NHY05HRm5sN1JGZ01NREQzVUxKa25tN0cyV096XzB2azBnU2ZXWE1DNUN0cWx1cXRnVW9WT1dSSURzZFdLLTBWTm00Y1FZT2VCVXoyRmlDOVRjbmhiNzJkVW5mZlZ3NHZQSWRpUGp2UlM4elZiNWphVzd6aE0zeWthcUhMSlUwWG9RMVJYam1PNGl5UnU0emg1ZDFKbl82VUtRU3JLZ1hIREZvelBqRjZWblYxOFgzM0NjcmpqZ3JwdnNDemRvSDdwdUZ1NzFnUGRFd205cENibFpQM1Aw?oc=5"
     },
     {
-      "title": "機構連兩日撤資與油價飆升夾擊 比特幣失守8.1萬美元大關 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5faGxVVy0zeFdBNldHWHhHMUFSYVI3eHd3Ni1mSFU4cDlfb1lnTnJFb0p3eDc2WndnQ2lFdmpHZF9OU3lZTDBxcGpabEl2U2xE0gFWQVVfeXFMTVNvUzluV0tuX05IV0xlQUVnU1Z6NGUwbWYyME1JZFg1OTI4cW00N0xsVnQ4YlYwaVUwV2pvRWZnTkh2UWVoRTV6VWkyQ0d5anItc2IwcWc?oc=5"
+      "title": "美股罕見訊號浮現！1999年來僅見第2次 花旗：逢低買點還沒到 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81a0dWNmpOcVVETWpjek9kbzR1X2t5TVVXUDM2VkxkZEN2MjhYVUVpNktpaU9EZXVnWkhsTVY0Mzc4RW1vMVdPNWpoMVl1N0k?oc=5"
     },
     {
       "title": "川普又放話！美股大跌652點　台積電ADR逆勢漲1.49% - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWZXQ0UzlXQ3YzbHNYZjMxUTdqaUdTTW96X0liazJtNGlTc09Vbm04azhKMFkxbXBZZ1JKNzJ5Zm9CWGdYSEhVRFY0T1gxa3ZoSUHSAVBBVV95cUxPNWk3SXdWLVE1a3JHRlNrNVNIWVdLdHVNaVExWmVmUE85R09uUUZTR0FyLTVTYVQ5T1YxMzNTODJjTEV4SHBSQzFtR0Y2b3pjbQ?oc=5"
     },
     {
-      "title": "Bitdeer维持比特币零持仓，本周出售283.4枚BTC - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kNnBaTGRQSnlRU3ZKVnBldm9BdVFDLURxQUlhVWpOZ3Q1NzdyVzVLdm5GODJZaUo1Q3BTanpySVpTT2dmcV9pSDBLemRZMjdfeDZuVFotT0N0NUZXSHFJZG5GaXZsdw?oc=5"
+      "title": "今年績效最飆的台股基金不是主動式ETF！ 而是它 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zT3k2WURkVGxvNENQay1CMzREdDBaX09zNnBuSjVmYi1yRDNGVktXcFV4YkJoRk5UenA4ZzUwXzRENXpWUVl1aGctQmxjVFVVclBXWFh2Ync5eF93UG9z0gFkQVVfeXFMUEE3Smp0UTNfSGY0NWNVbEtFVmRNemc1S1poXy1yZjZUQXVDTXdBQjlZTzctenVkVlpYSGpKZm44SXQycVc1NG8tbHNhaUpxM3UxekZla1QyY1RSaVhiRWZoeU4zeQ?oc=5"
     },
     {
-      "title": "「大賣空」貝瑞：美股結構愈來愈像網路泡沫化那年 但美政府幾乎無力對抗下場危機 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFN2VZeC1oWUNXU2VlX1FLb0x5a3Z5UGtTUlZCbTNPQnBRTU1HZnZySTREeWo1NlFzeTdBTlc5QW1oUUlLQ2FneS04TnhybVk?oc=5"
+      "title": "機構連兩日撤資與油價飆升夾擊 比特幣失守8.1萬美元大關 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5faGxVVy0zeFdBNldHWHhHMUFSYVI3eHd3Ni1mSFU4cDlfb1lnTnJFb0p3eDc2WndnQ2lFdmpHZF9OU3lZTDBxcGpabEl2U2xE0gFWQVVfeXFMTVNvUzluV0tuX05IV0xlQUVnU1Z6NGUwbWYyME1JZFg1OTI4cW00N0xsVnQ4YlYwaVUwV2pvRWZnTkh2UWVoRTV6VWkyQ0d5anItc2IwcWc?oc=5"
     },
     {
-      "title": "台股10月震盪 8檔台股ETF規模與績效逆勢成長 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQd01wREtzYWlNRC03U0RXME5zTXNmWU1TSWVPcGJVbzhFSGlCcFdoZXFqZTZpNHdZN2dQOU9iR0cxZkxRM2NnMkVpaFBENjRSbE9Zcldmc1JPaFBpWDBGMl96UnY2ZTZNZ3ZFYTdzdm84OW1YeVVWWnJuNTJBYUM0SHdPQ1RqcjdNV1hVcjlSZEF3VDdZemFucDV6WDdFVDhLM2xwOW1Xb3lSdk1JTXduMDhFM0pYVGVVb2ZTWGdTMTQzSXlqMkRBTjlhelVqdWV4OWNJMmpkZ3EwWlFKZkY5RFMyRmJJYl9kcEZvQTJnZDJfdGR1Tjd1Nk12RWFXSEd6a0ZuVTBCek9fLTNwNEw2dzRrY3hBWEtWZjZaR3dkYnNVdFlIUzM0LTljUFA2Y3lq?oc=5"
+      "title": "〈美股盤後〉油價衝破100美元！道瓊挫逾650點 費半小幅收紅、周線連三黑 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KbjhLUUo0Q0REcEFGZDVJYVpyckNvVWNneEdWejVqVWlfS2lyRUdheFl4eVBqRWVUZUcyNWVtUmVQSmtxTkVaRExmSnVwNU0?oc=5"
     },
     {
-      "title": "台股季線失守可以進場買了嗎？法人只說了這幾個字 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2MmJfSHk0NFQ3Qm9IbmxINFFxcy1QUU1ya2ctazkzS3NKaTRPRU1GbnlhbWc3NXlKNnhpVHVra1pVMGZBbXdKRXl3Ull2Mm9U0gFWQVVfeXFMT1hnc1pjb3FIYUpVc1NmZ0FxZVhsSDhUTXV2S1BtaWpwUDhzbnRaWGo4cjFqX2hsb25FMmFueDUyUzJrN1FsRnN1OGxRRUgxd2FBenk4S2c?oc=5"
+      "title": "颱風假台股該不該開盤？政大教授點出交易真相 網友反問：誰要當韭菜 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPWngtMExhbjlhSGxmQnphYkRubWRZc3NwSVdTd3htY2pCMlJVUlFNVEM1TmxzbUpNclYzeGFHcERnYVhXLW95T2VsX1dOQ2d2OE5KVVRSeDN4bG96eFhMRlFkaFJHZXZrYW02N09oUTg1QTJyTWlNSC1xc1N4amRDY05TWU9DOFdhUTRrSkExanJVaFZhQkxwT0JXYWIxRTQyeXpjSnZod0NXSjB1WEN1WDNSZTh4Tm5xQkQxQmU4UkZKaTdWQjRQZnZBUmcyTElNR3kyYmZsM0pFSExBWU05NXNyVEEyVF9nNVZiR2dqSXNFUl8tb0hfSnNoc0E2RnktZnNFMkowY1pFTU1pUVFuZ1ZmTFNodVhkMjdydUR5eFZlMTRQWm1SeGJhMjlnaXg5MDFJOGJ6TU1XcnBjRzBWejFQUENDOER3ekppVmJ6ZzVTemJIbElYc3RJd3dRamhkTk1rQnQwUjE2eGlUbEFGR3lhTGdLYlNxMW92UkY2cFpTWG1DTm5oYWQza3ZIbHNzVHhjMVNYZEpnaVZQY0hkUTJyc1BaVURZejF3LVJxZlZ6VGp6NEloSm1sQQ?oc=5"
+    },
+    {
+      "title": "180萬解約定存想All in美股！他猶豫買00662還是QQQM 內行人建議：也沒差多少 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNc2hYOHBUWTNJNDdDT1BxMGZYcERhRHJTSGJVM3Jiek93Z3lpLWZHaEJ0WGl0UFAxblZ3bDdUSFlQdkdVaGM1aWdRbUZMbGRSZkNQamN2OW5DT21udnVJZ3hWU3BLZlhCNXotcm5PNTJmUG9FV2FrcWJ4cXRfN3lNUWNicnBHNWdEVTB3NGRRX2RxQS1ZRjBLY0pWUUNyZmVoZ1ktSk1hTnVrcjRtNmZtMlRFOGxxbXlaeDdEaUdueG5yX003dnhoNjBOVlZjYTNQTXhXU2pJTENsbzdVMVZEVnZXOE8tTzJWVGU4eUVLZHRLWXA0d01SNGViVkZMZFFiQ2RzV0NCdkl1NnZtN0VLWkhiWWhJZExieE9Za25pMzdPT3B0TFBmaGc1RGlFOTVLRXZhSUxzMWcxZkNsdGdqQ3M0cFdhSTRZaG5NSVRnYngyQzRwNFpqVjZUalBWVHR2OWJ6czdranFTTkFlbEZENmpYaVlxWWV4ckY0b2N4OUhvcWJucHg1UDJ3OWdNN2hVNUtYWW40cw?oc=5"
     }
   ]
 }
