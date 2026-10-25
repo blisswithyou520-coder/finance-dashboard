@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/25 13:04",
+  "updated_tw": "10/25 17:48",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80795.4,
-      "change": -278.7875,
-      "changePercent": -0.3439
+      "price": 80198.63,
+      "change": -592.2059,
+      "changePercent": -0.733
     },
     "ETH": {
-      "price": 2364.51,
-      "change": -19.5674,
-      "changePercent": -0.8208
+      "price": 2326.2,
+      "change": -29.7536,
+      "changePercent": -1.2629
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股恐崩回3萬3000點？網友用AI推估台積電跌至1760元 PTT吵翻 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPNmNRU3BkMjBBeGhTaGF4YTNTYjNYdlhPZjI0QmtLNzRYU2hKV2RXazI5U1BGREtNRTY1Q3UzN0F2Um5UNGxaT2prZm12dkwyamNNcUhscXdvbkNVdWdHeW1QR2ptWFZGdEozQUlZRWxJTlQwcl96Z0ZpSmNKc0tVOGN4XzFxNUxxY0c0WXV6N3d6bkltVVIydzhzVDBxWUd1VzZzMFY4VTJzbUFBNE9wWjAwcFN3ZW90NGd0bjFrdnZnZ1NqYXZvMDNwX3lFWjFWNm1sdWhpZ3ZTaHdGUW1lR0Q2SWZidjN5NmtNSGFWa0hmMTlydzRheHhlNWxUWENtb01pNWpyUHVzdDhTbEdSUEM1bUdfQi1YSUNiNHVsa2lLQmMwaGZiVnFhM1pwUlNlM1ZvR19iUjRYT2x2dXZVbmF3MEZYcE96aTRBLUlqdkhUY0Y2bXp5ckNUeC1QbnNJ?oc=5"
+      "title": "美股重挫、台股週二恐補跌！分析師曝「週年慶購物清單」 季線3天內站不回恐添壓力 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOOGp3UER0UXYwaTMxX2FSM0N4YjEyMHFWSVZjNUFYUzBJblY2aDdGZ1lMVXZkRE8zbVdJUnFrR3owVEdVUVpad1ljaDNRMVl1dzlqU1o4MDc3M3kxdXFGUnFIR0pGbF9NWEN4QlNIeG1sNDFFM0NkdWFKdUtiRXhYNFF2MHVubkVMN0tYOWFFOEFQbnh0dk5nNVJaeHJTNWxSVlRBRHI2QndFS01PS0x4cksxZkZ1Z3k3bzNSMjVPbEIwNDVmRGFINFZWN05DX0NYQ3FudnlOQ0QwQ01hNkdvNHBST18yTFc1UVQ1ekQyVzJYYnFWMVRaOUoxRkRCS1R2VkhEZGNhaUpPVG9KTmxZMnZFckR5aW9LcFB1b2N3djZMYW1kNkVtcnpkSGwyMTV1T19TYjZ6bUtucnZIcVU2cTEySEdYRTNybUg3U1F2ZnhDTWpXZ01UWE9kQTc3Sm90a1RPSU5EY1RvTHZOTlhURFpPMmNGUUxKUlhzd3pDN2N2SkUtcjZTTmNiLWtxQlYxbHJCM21QM09maXNiLVVKaDVaaUd2X2lPSDE1TkZ4aTVpaTRTV2NaSE5EYTJZMjdRWF82TF9EaUo1YVprYlM4UmtNdC1rOEtNcHdkemR5Z1ZuQkJjWEVkQ2dFZTNyUQ?oc=5"
+    },
+    {
+      "title": "鉅亨買幣速報 - 比特幣(BTC)24小時成交量超過7.91億美元，NFPrompt Token(NFP)24小時漲幅達65.8% - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xaDhZN01GaXZBNDVaTzNDajY1YXBXS2E3OTFQMmlBZGhYdTUteTFZUlFUUlg5OXhQNTFwYUhQVlNHOXNUaV93VDgxaXZiQ3Bvak9xUzdpcDM?oc=5"
+    },
+    {
+      "title": "台股季線支撐弱 法人建議減少槓桿 - udn",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Kb29YVGd6NDdHY3ZjUUotZ09adnVHZHphRzQ1R0F4UXhTR01BQV9Cd0J5QTNMeFBGSmE2bEctMExTR2ltU2NNc01HTHhmc2Vn0gFWQVVfeXFMUHRkc29HeVdaVW9tREpGTHdUNzNMWEhURFB0QjNteTQxMkk3ZDlHQW10X3Y1dTV5ZlNtaWRMUjcwTG9DR3dHSk1qREtNM3EwNlp6WkFVMUE?oc=5"
     },
     {
       "title": "台股大跌千點 電子代工族群抗跌力挺 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VYVVLbC0xU2h3TlRaamFiZUh4RWFIOWd5d1kwSnBFSE42dTFLdl9TX0JYekFEdWVZemloUmh3elZOQU9IU0dvdk9SZldNUU1HUUozbktjNGJQdjZHUXFV0gFkQVVfeXFMUGlaYUV1VXJHU2F1OG5HWVh1aHd2U0ZxWUNyNXVqUnFyYU5iWC10VGNfaS1BaDY1RmdRc1BiaW1hX21xUmtHQzFYRjBpN3F3V2NJOE14ODlOaE9heFlOY3NleEtmbA?oc=5"
     },
     {
-      "title": "美期中選舉前大盤加速趕底 8檔台股搶手型ETF戰力猛 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11SWl2UUlxMUM0TEc0MVktQjBMSVZlN0dldF9DMGtMVTNQeDg1cVprdnI3dDMwYVZlZFkzTWlYNG94WHhuME8tSDUta2RkVXc?oc=5"
+      "title": "避險潮來了黃金卻跌破4000美元、日元走強 資金開始挑剔避險資產 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PUFpTOHVaeU13R0x1bUE5ZGdFOVRfOUxJOWFnT0pZd0dObFAyT2QzLXZXWm1WRkp5bV91MWViMnJwM21HOFhKX1dJWVpubms?oc=5"
     },
     {
-      "title": "鉅亨買幣速報- 比特幣(BTC)24小時成交量超過9.25億美元，NFPrompt Token(NFP)24小時漲幅達65.8% - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81NEJxSXAyNDBrTWZjUEFkWjN1dU96ZTI1ODFJXzdWaU9CVXVGZDQ1eXVlREZEYzBTSXBrVEEyakRGZkczYjhSck5iSVdrb1FIYXRxUm96UXlhaWlxeWJ5M2NySWU?oc=5"
+      "title": "分析师：比特币波动区间持续收窄，365日均线成下方关键支撑 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JNnUzZ2JVNnQ4cWVDNXJWUC1rdXNBaFBjaWpqdHBseTR0Z0NpQjY1RWhGVkJuaF9iV1FWRV9pcE15UHVPQnY5Rmd4UGpGaWRfckZiX0ZoOTBHUkVyWTZlb1VyV1k5Zw?oc=5"
     },
     {
-      "title": "本周台股／失守季線反壓重？本周聯準會、科技財報定風向| 財經掃描 - 聯合報數位版",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ybm9xbzlrSkhRSEF0cjVhSXcyRElScUZlWkxyZmxxNUl6LTZtRlB6ckJVNGFPSGlCcDVIQ3lzQ1NSa3p6T1dwdnRyYjFPeGZWNnkzdkZTdElmSHBuRzV0c0VZczNqRkR2d09NYnI5WnB3azc1aVJMcw?oc=5"
+      "title": "有人爆倉了！比特幣一度跌破8萬美元專家點名下個支撐點在這- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHeXlzZzlxMGNwb3lMNUIxc2FUTjFRVEZ0YzJReDUyYjVtaE15MVhqa1JmblpZTHotbjlJQ2d2cVNqRnVlMlFqNzJGNEY4SU5WMGdZUjlGS1pKMEh5ZFdn?oc=5"
     },
     {
-      "title": "避險光環沒了？黃金暴跌4% 日圓低估40%資金瘋搶 - 三立新聞",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkNXZLSnpXZHpoN0k0M3EzQ1Ezd21mLUJhMlhaOVNhTTRhREw1SVU1SEVKYk5MNWtVSnVPa000QnF0WWhOOXJQdWNhVQ?oc=5"
-    },
-    {
-      "title": "台股跌出機會還是風險？AI股回檔後誰能再起？盤點21檔財報潛力股- 證券 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5dThKcEJ5eE1mSml6WDZ0X1FwREZ4QTFiaUw5aEs3Rk53RzVNbmNkdEJPY2hrUG10UURVdE9hTHRNd2w3Y3FoalY2YTdIRklkbU1iUXhQcGlTLVNxWUNJ?oc=5"
-    },
-    {
-      "title": "越跌越要買！13檔台股ETF規模逆勢創高 「這檔正2」今年狂炸118%奪冠 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPN2NvR21KODVwbnJpTlZFOXMyM3hQNFBpNXoxaS1mT3NIdGowMkFCUGxfazNCdnFWemdEVGJuXy1GU19RcVkyVk9HZjltb016a0ExT0ZlUThLSXdXSkd0RTV3SUlnRU9wNUlvc3B0S2IyQ0Z0SXBsQ0lCOHdIRmV4UW43TTBydlVCX19Kb3NkUWlROFg2X3NPQUt1YkV6dmYxdWxWSnVRLTlJaDZhMXJMWDduUFM4WEpQeWxGVUlpTWhYcndoMGRzdFVwUUNSYWRZLVI3T3hiR2RmUUJWa3lFS3dzcGhSWXIxLXJFdkRhaW5BYVNaRHVpX3U2d1RnaGRFNDdTcG5lYTRCRWc1MGlSNkJxTzBHejJjVVFTbjB1MFhlVDdtLU5haHcwdFRLZ0VPdHhnY2FhYW9zZXRWMjlMdVAzYldXTG5BM2xudHE0MmVlNTRhUHNkQmlRMTQzbkJBZFR1WmlTbzh6VG9XMzZldDRJc3B0YnB3NmY3d0ZjWE0?oc=5"
+      "title": "財經界傳噩耗！香港股市名嘴「沈大師」街頭昏厥送醫不治 享壽66歲 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNNk0zLURpNGZaVzZEcEh2elNUY1pCcEJ5Um9tbk9PUmpjWXJCdXFKWnRzNWlYbDJtQ3oxOG1WcWxrNkc5Qm1Qd2NGSjFTbFY1N3U0NFNZeWkzaWVOVHdBOVV1TlVXSWhlTkdPQlE2YlVQRjB1d3h2UmFudUJMRG41MWtrSmhSazBVTjU0SnpXR3BXTkp2TFBSelc3WkhDUHJ0c25PdXQzX0w4R0NyTkpDM3UwSmRzbFhMcDhZaktYQlVTUzV6STU3R3pNbU52WHM2bWozYXFvVV9rdDF4VC1LamJZRTJPdDFZMkdjeDhudTJBY0tEeF96aC1kR2g5WlJ3djZ6MXhZY0gzWWxFakY2LW5Kd3l6dERZbDJVNzRoSGIwRVRFUndEX3FESDdULWlzQ0pEaGpabk9YM05Ed0ctNndzUjlRWlA5dGF4REhzWGt2TFg4RjdwVEdDY3BHdEoydDFYcFVjQW9zQk5WWm44c2ZwNm9XSHJVaWw0Nl9CanlzcHhveEhnSHhsVWxMRTNlZC1adzZFenB2NnM?oc=5"
     }
   ]
 }
