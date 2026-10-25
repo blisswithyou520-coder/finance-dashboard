@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/25 06:14",
+  "updated_tw": "10/25 08:21",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80370.26,
-      "change": -703.9275,
-      "changePercent": -0.8683
+      "price": 80684.46,
+      "change": -389.7275,
+      "changePercent": -0.4807
     },
     "ETH": {
-      "price": 2339.3,
-      "change": -44.7774,
-      "changePercent": -1.8782
+      "price": 2353.05,
+      "change": -31.0274,
+      "changePercent": -1.3014
     }
   },
   "fx": {
@@ -115,5 +115,38 @@
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "避險光環失色！黃金現貨跌破4000美元關卡 恐引發ETF技術性拋售潮 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQQXg0anVObkw4c0l1QmxTSTVGdjRrcDdtazF0aWRfTW9hVVl1bm9UV283WTNraEFnbzREN1pmVVloUDFzbTU4NVNMX0VHelpqZ0ZoMU56TUVXUGptZGNmbExoR2xCcDZYRFRXa0l3YzR3cW9ydnE0cE5UVENZTTZ4Rk9uUG93S0ZxemZLb3FmYmJNUTZZcjVIU19ueXg1SEx3VmVxb1hPbVBCUnpxZWlyMUFNZmdhczFMa1pqX1NHY05HRm5sN1JGZ01NREQzVUxKa25tN0cyV096XzB2azBnU2ZXWE1DNUN0cWx1cXRnVW9WT1dSSURzZFdLLTBWTm00Y1FZT2VCVXoyRmlDOVRjbmhiNzJkVW5mZlZ3NHZQSWRpUGp2UlM4elZiNWphVzd6aE0zeWthcUhMSlUwWG9RMVJYam1PNGl5UnU0emg1ZDFKbl82VUtRU3JLZ1hIREZvelBqRjZWblYxOFgzM0NjcmpqZ3JwdnNDemRvSDdwdUZ1NzFnUGRFd205cENibFpQM1Aw?oc=5"
+    },
+    {
+      "title": "美股罕見訊號浮現！1999年來僅見第2次 花旗：逢低買點還沒到 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81a0dWNmpOcVVETWpjek9kbzR1X2t5TVVXUDM2VkxkZEN2MjhYVUVpNktpaU9EZXVnWkhsTVY0Mzc4RW1vMVdPNWpoMVl1N0k?oc=5"
+    },
+    {
+      "title": "台股跌近4,000點該進場了？法人看好11月行情 點名3大布局方向 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rYTVIZi1OUFhkSExkX2k3dVlJU3lUXzMwRGltbGFDT3ZjNlpBdUlwNlNsMXBFZ3Y1dW15OFRud1RkZlJnSXVHdDdKZlBjTXkyNWpjMkZjWFkyd9IBX0FVX3lxTE5DM3lBWFphWVpwa0JwNFVWUWRxU3gtQ0JMd0EwQXYxNlozanZjX2ljOGxmU2pLYjdRMEtsOEhrQ0lPRzF4OXFRZURmcTJBTVg2dkJXa1dfY29vYUlYWW1V?oc=5"
+    },
+    {
+      "title": "黃金完蛋！摜破4000美元關卡 還寫1慘紀錄 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwRDI1LThhWkFiVUJLM1ZncWJuZ2l2OVF5RkZZc3hzcUpuZmp0N1F6WE9hU0taMmRrWERwUGg4TlBSWVJPWnkyX1MxRlYzWUJSU1YxdDVsYW5EdklreGxR0gFkQVVfeXFMTVJ6ejItTXkyUDJnTGZ0bGNDN2Z5MnllZFRKUEFlRDVKaEUwZjJXc0hTdXpYaUlKTU1fU3hSSHVwejJiN29BQU1HSlhVaHRiaDV0anBQdmN2NUIyOFBtUWl4T0thaA?oc=5"
+    },
+    {
+      "title": "白天也能複委託買美股？券商揭進度　2大交易規則曝 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yaEdEUW1KUkpEUHVtUTlZaGRrb01rNmdjd0Vta3lOQ0tLdjhOVUtuMWlLZXRLMmNCVEltQXNmYUtRTWpOVWVsSmdSV3BUZ3NiZHfSAVBBVV95cUxOZlhHRkpzRjZ6ZXRGdlBvSU8tNjc1bmtoMVZYdEZSaXgxc3lOWGdSQ1NpQ29jWkNPblByWnZGS1ZBaVZjSXhlWVJyemRzazY3MA?oc=5"
+    },
+    {
+      "title": "台股半個月跌近4千點！施昇輝態度大變不敢買 揭台股「最可怕訊號」 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOcXk4UXlYcHZjMGNzcHNkUGZUbW0wSllmNHVLY1RGTGFHXzBSeEg4c0RvZy1XUzRvZWdVY2FNbDNlb01YN3h5TUxUeHYtemZsN1Y5QzREcFpFYXlKVlA1REZKTDdlZkM4N3lMcnk1Ri1BeWJNUzhOQW9lbzIwdGRCVXgyNFFMQTl5Nnl5amxrbTR1ZGk0dm81enJSblVBREtBU18zdTljNmJhc29WSXBVSm1YTEwxV0FycGM5TUhfU0FkZXJIR3dmWVhCdUFERVc2MWZNekdWNjh0MkJ5ejR0Y3U5NWpJUmxBMUNJcnRoNm5LcWx6MmlWMTFlRktmZGhDZDd6Qjk3T3dUcHVCUzE3ZkducGZsaU5HaEVTY0xzbGhSNkdhVmtIdC1FdEJUcE52SmlEa0V4X0RkTERqNVR0Y0ZpZWN0Y1FYb0I4eDg3czFXamxVQ2RoZzdlQ1ZCV0t5ZkNxR0w5aVBfMnp3c0pPbFBZcTZ2bGxTc2FqS2tITFFac2xoemFzNUFDTjhvUkFDTTJZanBCN2UxQVZZ?oc=5"
+    },
+    {
+      "title": "股海自由行／節後光復台股 重新挑戰5萬點 | 證券達人 | 證券 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VbzRwU215Z1o5UmQ5S3V3dnpoUGpJYVJjdTc0SXBaa0E5a0ZYdmZ3Z2tTaEd1dFlwcWlWUDRaUVBCeVRYZXdLOFRLMW5XcGcyaXNITnozOGo4UQ?oc=5"
+    },
+    {
+      "title": "你也中鏢了？台股套牢苦主大集合 這檔被虧「一路南下」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ocmtBUFZQOEJNT1NYWlI1bkp4NF91SmVKa2tTbjNJTzdjRUl0NGRYdjVqUmotbnRZd2hZWVROTEJJaFNwU29zU0p6TDlrcldVanhXSnRUcFN6WjF6bUpR0gFkQVVfeXFMUG8ySjNGNUlLeWhKbmRzYWEwUzBOZGlVZmR5ajRYWG54WW9LN2NjUjk4dndBNmVOYlI4VHFXWkNYVzF3Nml2YWRLSHg4RXk4M3ZXVU1jSmF2UGxTNGQwaTdWNmYxaQ?oc=5"
+    }
+  ]
 }
