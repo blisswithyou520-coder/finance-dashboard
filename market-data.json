@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/26 01:38",
+  "updated_tw": "10/26 03:57",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80643.69,
-      "change": -147.1459,
-      "changePercent": -0.1821
+      "price": 80453.14,
+      "change": -337.6959,
+      "changePercent": -0.418
     },
     "ETH": {
-      "price": 2354.33,
-      "change": -1.6236,
-      "changePercent": -0.0689
+      "price": 2347.51,
+      "change": -8.4436,
+      "changePercent": -0.3584
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.57,
-      "change": -0.027,
-      "changePercent": -0.0828
+      "price": 32.573,
+      "change": -0.024,
+      "changePercent": -0.0736
     },
     "JPYTWD": {
       "price": 0.2055,
@@ -94,9 +94,9 @@
       "changePercent": -1.3447
     },
     "EURTWD": {
-      "price": 36.53,
-      "change": -0.0448,
-      "changePercent": -0.1224
+      "price": 36.603,
+      "change": 0.0282,
+      "changePercent": 0.0772
     },
     "CNYTWD": {
       "price": 4.8899,
@@ -107,8 +107,8 @@
   "gold": {
     "usd": 4007.9,
     "twd": 4197.0,
-    "tael": 157383.0,
-    "twdTotal": 130537.0,
+    "tael": 157397.0,
+    "twdTotal": 130549.0,
     "changePercent": -1.293
   },
   "fed": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股重挫、台股週二恐補跌！分析師曝「週年慶購物清單」 季線3天內站不回恐添壓力 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOOGp3UER0UXYwaTMxX2FSM0N4YjEyMHFWSVZjNUFYUzBJblY2aDdGZ1lMVXZkRE8zbVdJUnFrR3owVEdVUVpad1ljaDNRMVl1dzlqU1o4MDc3M3kxdXFGUnFIR0pGbF9NWEN4QlNIeG1sNDFFM0NkdWFKdUtiRXhYNFF2MHVubkVMN0tYOWFFOEFQbnh0dk5nNVJaeHJTNWxSVlRBRHI2QndFS01PS0x4cksxZkZ1Z3k3bzNSMjVPbEIwNDVmRGFINFZWN05DX0NYQ3FudnlOQ0QwQ01hNkdvNHBST18yTFc1UVQ1ekQyVzJYYnFWMVRaOUoxRkRCS1R2VkhEZGNhaUpPVG9KTmxZMnZFckR5aW9LcFB1b2N3djZMYW1kNkVtcnpkSGwyMTV1T19TYjZ6bUtucnZIcVU2cTEySEdYRTNybUg3U1F2ZnhDTWpXZ01UWE9kQTc3Sm90a1RPSU5EY1RvTHZOTlhURFpPMmNGUUxKUlhzd3pDN2N2SkUtcjZTTmNiLWtxQlYxbHJCM21QM09maXNiLVVKaDVaaUd2X2lPSDE1TkZ4aTVpaTRTV2NaSE5EYTJZMjdRWF82TF9EaUo1YVprYlM4UmtNdC1rOEtNcHdkemR5Z1ZuQkJjWEVkQ2dFZTNyUQ?oc=5"
+      "title": "黃金跌破4000美元！「這國貨幣」成華爾街新寵 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPWGx3RkhzR0hCeDdHcXRJbGotSC1Yc1JuZWxDaXBRdWxPTzloLW9leW4xamRTMFlDdlRWN0ZzRjYwS2RiekFfaUxPUF9XeEJnMWxZTnFKSUkwdVBiX05feXh4TWpkSXhteEZWcVhpNWZHV3BHT0x6OExjZ0huWTN2LXY4LVROT21JUzZOVEtaNkE3cGpCY1B6bEtxMFdhWlA3WDQxRzRHNFFpMG1yOXpOcjBZR011MEQ1dVNMNWtqeGxoMEN6dXdQN3lvOHZpWEtDV2FyNEs4c1kxZ2o1NDQxcXRGQ2o2TnNseldmQkxwZkRtenE0QW8yb2wtNXFMYnFpTE5SSXhQZzhEYWFLbVVzYmlhM1pUNVFHZEVDaExaSWlBRjQ?oc=5"
     },
     {
       "title": "避險潮來了黃金卻跌破4000美元、日元走強 資金開始挑剔避險資產 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PUFpTOHVaeU13R0x1bUE5ZGdFOVRfOUxJOWFnT0pZd0dObFAyT2QzLXZXWm1WRkp5bV91MWViMnJwM21HOFhKX1dJWVpubms?oc=5"
     },
     {
-      "title": "鉅亨買幣速報 - 比特幣(BTC)24小時成交量超過7.91億美元，NFPrompt Token(NFP)24小時漲幅達65.8% - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xaDhZN01GaXZBNDVaTzNDajY1YXBXS2E3OTFQMmlBZGhYdTUteTFZUlFUUlg5OXhQNTFwYUhQVlNHOXNUaV93VDgxaXZiQ3Bvak9xUzdpcDM?oc=5"
+      "title": "美股AI交易動能轉向資安| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GQzQxQmw1NVNiRlJ5TUtndFJGdDYtLW83Tnhzb3JtVDlDYVd0czRSOTNsX09JWVpndWFMdXVBX2JwdjRaLXIyQjhLZTBtMjE4?oc=5"
+    },
+    {
+      "title": "台股基金火2大類成領頭羊- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNRU1EZ3hfTGJja0Q2eVhTSkJvTEVfLUNxVm5OWnN2XzlQa0FZeGlTQWFOY2dwS2R3NmY0c2QyNVp6YjFpYlNKbVRoOEpkRW1wc1lBc2lvX09MMjRKTnZB?oc=5"
+    },
+    {
+      "title": "分析：美國人資產配在股票比例創空前新高美股表現可能將放緩| 國際焦點 - 太報 TaiSounds",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85N3ZJNkhjSGpzQmVTZVdtanc2bmM3OE9VbTltWF95cTk2T1o4NGxzOFptcUE5ZTQ3eDl0TXpzeVU0R2dhbzVjM3l6UFl4Njd4NVZWX0ExekQ1TUtp?oc=5"
+    },
+    {
+      "title": "黃金完蛋！摜破4000美元關卡 還寫1慘紀錄 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwRDI1LThhWkFiVUJLM1ZncWJuZ2l2OVF5RkZZc3hzcUpuZmp0N1F6WE9hU0taMmRrWERwUGg4TlBSWVJPWnkyX1MxRlYzWUJSU1YxdDVsYW5EdklreGxR0gFkQVVfeXFMTVJ6ejItTXkyUDJnTGZ0bGNDN2Z5MnllZFRKUEFlRDVKaEUwZjJXc0hTdXpYaUlKTU1fU3hSSHVwejJiN29BQU1HSlhVaHRiaDV0anBQdmN2NUIyOFBtUWl4T0thaA?oc=5"
+    },
+    {
+      "title": "美股重挫、台股週二恐補跌！分析師曝「週年慶購物清單」 季線3天內站不回恐添壓力 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOOGp3UER0UXYwaTMxX2FSM0N4YjEyMHFWSVZjNUFYUzBJblY2aDdGZ1lMVXZkRE8zbVdJUnFrR3owVEdVUVpad1ljaDNRMVl1dzlqU1o4MDc3M3kxdXFGUnFIR0pGbF9NWEN4QlNIeG1sNDFFM0NkdWFKdUtiRXhYNFF2MHVubkVMN0tYOWFFOEFQbnh0dk5nNVJaeHJTNWxSVlRBRHI2QndFS01PS0x4cksxZkZ1Z3k3bzNSMjVPbEIwNDVmRGFINFZWN05DX0NYQ3FudnlOQ0QwQ01hNkdvNHBST18yTFc1UVQ1ekQyVzJYYnFWMVRaOUoxRkRCS1R2VkhEZGNhaUpPVG9KTmxZMnZFckR5aW9LcFB1b2N3djZMYW1kNkVtcnpkSGwyMTV1T19TYjZ6bUtucnZIcVU2cTEySEdYRTNybUg3U1F2ZnhDTWpXZ01UWE9kQTc3Sm90a1RPSU5EY1RvTHZOTlhURFpPMmNGUUxKUlhzd3pDN2N2SkUtcjZTTmNiLWtxQlYxbHJCM21QM09maXNiLVVKaDVaaUd2X2lPSDE1TkZ4aTVpaTRTV2NaSE5EYTJZMjdRWF82TF9EaUo1YVprYlM4UmtNdC1rOEtNcHdkemR5Z1ZuQkJjWEVkQ2dFZTNyUQ?oc=5"
     },
     {
       "title": "旺季與多元配置需求支撐 黃金產業型基金分批投資 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3UUdPWmptbzB2RnRiaHF6b29PZzFiaWNFcnJuWmZ0eHRzVER2NUJhZDlQOF9iZXo5dHhLSnJtTHFqbW9jdWNtanBidDRMVjRl0gFWQVVfeXFMTjNwcjRyLTJrLUtNbWZQLWhiZ3poR3IzMk5Rd0QwRXBTTnZzQ0tOaVFGSk5ZQ1JoY05rS3dMUVJZVDFIZm5JTVoxNnFBdVJfZFQwNlN3akE?oc=5"
-    },
-    {
-      "title": "台股大跌千點 電子代工族群抗跌力挺 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VYVVLbC0xU2h3TlRaamFiZUh4RWFIOWd5d1kwSnBFSE42dTFLdl9TX0JYekFEdWVZemloUmh3elZOQU9IU0dvdk9SZldNUU1HUUozbktjNGJQdjZHUXFV0gFkQVVfeXFMUGlaYUV1VXJHU2F1OG5HWVh1aHd2U0ZxWUNyNXVqUnFyYU5iWC10VGNfaS1BaDY1RmdRc1BiaW1hX21xUmtHQzFYRjBpN3F3V2NJOE14ODlOaE9heFlOY3NleEtmbA?oc=5"
-    },
-    {
-      "title": "黃金跌破4000美元！「這國貨幣」成華爾街新寵 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPWGx3RkhzR0hCeDdHcXRJbGotSC1Yc1JuZWxDaXBRdWxPTzloLW9leW4xamRTMFlDdlRWN0ZzRjYwS2RiekFfaUxPUF9XeEJnMWxZTnFKSUkwdVBiX05feXh4TWpkSXhteEZWcVhpNWZHV3BHT0x6OExjZ0huWTN2LXY4LVROT21JUzZOVEtaNkE3cGpCY1B6bEtxMFdhWlA3WDQxRzRHNFFpMG1yOXpOcjBZR011MEQ1dVNMNWtqeGxoMEN6dXdQN3lvOHZpWEtDV2FyNEs4c1kxZ2o1NDQxcXRGQ2o2TnNseldmQkxwZkRtenE0QW8yb2wtNXFMYnFpTE5SSXhQZzhEYWFLbVVzYmlhM1pUNVFHZEVDaExaSWlBRjQ?oc=5"
-    },
-    {
-      "title": "美股早盤／四大指數下跌！科技股賣壓持續台積電ADR逆勢漲| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vT3lnWUFwMHlIY25VWWwzYWhpQW9VREVmRnllUzBScEpoSGRYRFJnVWFBSXAzcXByNzRUZjU0U2tadlNWeU80Sjk3OVpNSENx?oc=5"
-    },
-    {
-      "title": "台股暴跌近4000點散戶勇敢衝！0050單月再吸金千億 全年狂吸突破7000億元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQc2I5VnA1Ql9uZkFsaF8tekdJb3JtUFRHbHd4cjdLRTZYX2xGS3lUSmpWNWxWaEpuSFF0NllYSlNEWThRRHkyVDd3dVFoRTRraXdIeC1RbnFEUUF2a0hsLVJCbG4yQVJ1SmhDLTJHVllZclljdEJpd0MxaFE4cFhGUGdKUUlobjRJSjE0Rm1ucmIxMTFlaTJwdU13bFhySkRqZHpzTldzcVBwUzhoS3JYQVh4SVlFU3pxNER3ZHZITDFaZGROVGFBQjNLbG8tYjh5amlxMmlTWmp4ZjhRREhfMHRYZ3JBRUxKNEp2M2hGaUdCNTQ5ZUNUOF9yd1MxQkU2QWd3RjB6OWwxWGFva2Z5Wi1meW9oOGRLWktqN18zYnNuM2dpUFdmUmtKRmtKYTFlV253LXBqT0x5dDdnVUo0eEh0ZjNsemlyZUJ1UVZPYmVoUXk3MVVoVGFkcFJhMkhPMjJmSkUxd1RyRWt3ODlzbWRFUVNidFR2Y2dFMGJrMktWdFR4Q1ZmY0xKQllPVmxWQ0d0OFRObnE2VnV4aHRwM01XTHFsUQ?oc=5"
     }
   ]
 }
