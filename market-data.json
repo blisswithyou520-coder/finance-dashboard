@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/26 06:24",
+  "updated_tw": "10/26 08:33",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80358.85,
-      "change": -431.9859,
-      "changePercent": -0.5347
+      "price": 80186.63,
+      "change": -604.2059,
+      "changePercent": -0.7479
     },
     "ETH": {
-      "price": 2338.9,
-      "change": -17.0536,
-      "changePercent": -0.7239
+      "price": 2332.3,
+      "change": -23.6536,
+      "changePercent": -1.004
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.549,
-      "change": -0.048,
-      "changePercent": -0.1473
+      "price": 32.571,
+      "change": -0.026,
+      "changePercent": -0.0798
     },
     "JPYTWD": {
-      "price": 0.2053,
-      "change": -0.003,
-      "changePercent": -1.4407
+      "price": 0.2051,
+      "change": -0.0032,
+      "changePercent": -1.5367
     },
     "EURTWD": {
-      "price": 36.54,
-      "change": -0.0348,
-      "changePercent": -0.0951
+      "price": 36.576,
+      "change": 0.0012,
+      "changePercent": 0.0034
     },
     "CNYTWD": {
-      "price": 4.8868,
+      "price": 4.8859,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4008.0,
-    "twd": 4194.0,
-    "tael": 157285.0,
-    "twdTotal": 130456.0,
-    "changePercent": 0.0025
+    "usd": 4002.3,
+    "twd": 4191.0,
+    "tael": 157168.0,
+    "twdTotal": 130359.0,
+    "changePercent": -0.1397
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PUFpTOHVaeU13R0x1bUE5ZGdFOVRfOUxJOWFnT0pZd0dObFAyT2QzLXZXWm1WRkp5bV91MWViMnJwM21HOFhKX1dJWVpubms?oc=5"
     },
     {
-      "title": "台股周年慶大打折！0050與台積電跌出甜甜價？「大立光、欣興、台光電全享折扣」分析師示警：先避開2類虛胖族群 - 旺得富理財網",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GNGI2TkZaRENLOFp1bWVJLVhNT0xyb3dTa1c1UXI5Y2pXdGttSnlPTDJDdFFONmdEZFdVT2ZWQ251ZmNTNE5qYXVsT0V5RmlfZE9qb3gtQldsdTZ3Sk5uZ1ZxVGxnYjRKZlE?oc=5"
+      "title": "外資狂賣台股免驚 中長布局不吃虧 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1MXF1M09sRlYwUDVvdHVkMGNQUjZ4bWIxU2JlVlVIQkNURTZoUFk5OTIxbVRFR0tDSHdIaVZiV0F4cl9kMHhxdW53VnBNODRjNU8xNmtR0gFbQVVfeXFMUGJlYWQyV2N3YmJjWGJiZkZXY0JGQ19VSEE3YkJlVjJHNDVEVFkyRzBsNXZVNEU3OW84dDdNdVAxWDI5ck1qeGtqa0Y4NHFHNUpNQVJIOXVOZ3pIUQ?oc=5"
     },
     {
-      "title": "外資狂賣台股免驚 中長布局不吃虧 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oZUtncE9uT21IZE1vX21hMmk0RkZLNUlyd2J1Um1MVEtDOExzMUt0UTNaT1V0ZERWZWJTMTZYNUNqblZuRXNmMDRCbTlOMEFLOTFkb2dGUXA?oc=5"
+      "title": "台股周年慶大打折！0050與台積電跌出甜甜價？「大立光、欣興、台光電全享折扣」分析師示警：先避開2類虛胖族群- 上市櫃 - 旺得富理財網",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GNGI2TkZaRENLOFp1bWVJLVhNT0xyb3dTa1c1UXI5Y2pXdGttSnlPTDJDdFFONmdEZFdVT2ZWQ251ZmNTNE5qYXVsT0V5RmlfZE9qb3gtQldsdTZ3Sk5uZ1ZxVGxnYjRKZlE?oc=5"
     },
     {
       "title": "美股重挫、台股週二恐補跌！分析師曝「週年慶購物清單」 季線3天內站不回恐添壓力 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOOGp3UER0UXYwaTMxX2FSM0N4YjEyMHFWSVZjNUFYUzBJblY2aDdGZ1lMVXZkRE8zbVdJUnFrR3owVEdVUVpad1ljaDNRMVl1dzlqU1o4MDc3M3kxdXFGUnFIR0pGbF9NWEN4QlNIeG1sNDFFM0NkdWFKdUtiRXhYNFF2MHVubkVMN0tYOWFFOEFQbnh0dk5nNVJaeHJTNWxSVlRBRHI2QndFS01PS0x4cksxZkZ1Z3k3bzNSMjVPbEIwNDVmRGFINFZWN05DX0NYQ3FudnlOQ0QwQ01hNkdvNHBST18yTFc1UVQ1ekQyVzJYYnFWMVRaOUoxRkRCS1R2VkhEZGNhaUpPVG9KTmxZMnZFckR5aW9LcFB1b2N3djZMYW1kNkVtcnpkSGwyMTV1T19TYjZ6bUtucnZIcVU2cTEySEdYRTNybUg3U1F2ZnhDTWpXZ01UWE9kQTc3Sm90a1RPSU5EY1RvTHZOTlhURFpPMmNGUUxKUlhzd3pDN2N2SkUtcjZTTmNiLWtxQlYxbHJCM21QM09maXNiLVVKaDVaaUd2X2lPSDE1TkZ4aTVpaTRTV2NaSE5EYTJZMjdRWF82TF9EaUo1YVprYlM4UmtNdC1rOEtNcHdkemR5Z1ZuQkJjWEVkQ2dFZTNyUQ?oc=5"
     },
     {
-      "title": "旺季與多元配置需求支撐 黃金產業型基金分批投資 | 基金天地 | 理財 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RQ3FCS3NoazU3OUdXdjJrb3R2TGltWUlkVTJYWDdJZWdUREJib051dUtRMExhSjR3RDBsc3hCa2FaaGVyLU5RTm1ocUowZXpLamsyczVaVHYzdw?oc=5"
+      "title": "德銀示警美股科技股還沒跌完！距長期趨勢底部還有5% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KbE9Mc0dSenhJRVNkTFNFRXpTeDNmVDI3NHJORC1OMUg0ZGFJekczRVAtM0JxMHBPTDFIanFUaVZfVUxId0xzaFhXTXhuTXc?oc=5"
     },
     {
-      "title": "美期中選舉未定 台股恐一路震盪 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdW5Ybm1PWUFwbHVhdDV3NjNfbTdpNXhKS05aam5fcDJFbzhzRWxibDk4dTZxaTB3Wk9SVkpHOE5iLW5MRnA3dTNkUERmX2tnQ1oyd3M0eEpoT1F5QlFyR0swbHRjejZJU2ZaRTNZMVVjbHJxS2xpeFNKUmFHX2prUkNXd0V2SG9qWGt1NVRWYXZQVGFLUGxVbVBSbmJFcWxmaGdSaDVDRzF5NlNUS3ZjcmFEWktCSHl5a0hYZUdobmhpRXVlaVJGWUhrRWZLa2xQeGVDdy1STVJreXYwZGd3b0dBV3hlN2J2Uk1FOGNIT1dIUQ?oc=5"
+      "title": "旺季與多元配置需求支撐 黃金產業型基金分批投資 | 基金天地 | 理財 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RQ3FCS3NoazU3OUdXdjJrb3R2TGltWUlkVTJYWDdJZWdUREJib051dUtRMExhSjR3RDBsc3hCa2FaaGVyLU5RTm1ocUowZXpLamsyczVaVHYzdw?oc=5"
     }
   ]
 }
