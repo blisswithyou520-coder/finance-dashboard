@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/27 01:31",
+  "updated_tw": "10/27 05:52",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 216.05,
-      "change": 5.09,
-      "changePercent": 2.4128
+      "price": 216.0,
+      "change": 5.04,
+      "changePercent": 2.3891
     },
     "AAPL": {
-      "price": 343.68,
-      "change": -4.05,
-      "changePercent": -1.1647
+      "price": 343.91,
+      "change": -3.82,
+      "changePercent": -1.0986
     },
     "TSLA": {
-      "price": 395.3,
-      "change": 23.08,
-      "changePercent": 6.2006
+      "price": 391.62,
+      "change": 19.4,
+      "changePercent": 5.212
     },
     "QQQ": {
-      "price": 713.255,
-      "change": 8.855,
-      "changePercent": 1.2571
+      "price": 712.2,
+      "change": 7.8,
+      "changePercent": 1.1073
     },
     "SPY": {
-      "price": 765.43,
-      "change": 5.46,
-      "changePercent": 0.7185
+      "price": 765.37,
+      "change": 5.4,
+      "changePercent": 0.7106
     },
     "SCHD": {
-      "price": 35.175,
-      "change": -0.095,
-      "changePercent": -0.2694
+      "price": 35.3,
+      "change": 0.03,
+      "changePercent": 0.0851
     },
     "VOO": {
-      "price": 703.57,
-      "change": 4.99,
-      "changePercent": 0.7143
+      "price": 703.41,
+      "change": 4.83,
+      "changePercent": 0.6914
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80157.64,
-      "change": 133.6322,
-      "changePercent": 0.167
+      "price": 80044.43,
+      "change": 20.4222,
+      "changePercent": 0.0255
     },
     "ETH": {
-      "price": 2320.98,
-      "change": -5.9402,
-      "changePercent": -0.2553
+      "price": 2311.92,
+      "change": -15.0002,
+      "changePercent": -0.6446
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.544,
-      "change": -0.053,
-      "changePercent": -0.1626
+      "price": 32.562,
+      "change": -0.035,
+      "changePercent": -0.1074
     },
     "JPYTWD": {
-      "price": 0.2045,
-      "change": -0.0038,
-      "changePercent": -1.8248
+      "price": 0.2046,
+      "change": -0.0037,
+      "changePercent": -1.7768
     },
     "EURTWD": {
-      "price": 36.475,
-      "change": -0.0998,
-      "changePercent": -0.2728
+      "price": 36.438,
+      "change": -0.1368,
+      "changePercent": -0.374
     },
     "CNYTWD": {
-      "price": 4.884,
+      "price": 4.8869,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4042.0,
-    "twd": 4229.0,
-    "tael": 158595.0,
-    "twdTotal": 131543.0,
-    "changePercent": 0.8508
+    "usd": 4031.0,
+    "twd": 4220.0,
+    "tael": 158251.0,
+    "twdTotal": 131257.0,
+    "changePercent": 0.5764
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,6 +125,10 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zV0NYZ0tkTC02M0RtTk9FSHhtVnpRMmhkMDRBOXp6YmdscXBkYzI4clZicFFFWkRwanBkNmEyZmVhUXJfQ0ExY0x6d2h4RHc?oc=5"
     },
     {
+      "title": "快訊／台股開盤穩了？美股4大指數開高走高　費半上漲372點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6c215Y3lZdUNfeEdUc3Z6MW1HUElXZ2VSS0ExcWtoT05wWEZCREh1aG4tZmZVcVFFay1WR3hPTTVUNktKdEhOQ1U2YTRIV2xKWFHSAVBBVV95cUxPNDBLSnh6Wkg4VjdfVXdkbmRlaktEQ0h3TFluMl9JSXh1NW11ODlHLWE3eUM0cWdwV0tKY2FaZm1KeFlKRG9SM2taYTA5UDhPMQ?oc=5"
+    },
+    {
       "title": "台股明天免驚？美股盤前止跌翻紅了 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FZ0pBRHBwU0IzU09KWEN2dzRtb3JTQVU3emxQbHFGX2NkS01kMjdnTEFFV3lUWktwRkQ5S0tzelpTT0xaTGhJcHh4RWV0SVJ4N1V0U2EzZ3NoaU1DckxZ0gFkQVVfeXFMTURlTEt1QlJ3S3JlandSTTg3T0VYaGI3Z0VjRTFlYU9wRU9LaDFJdDJtYU9LcGZrMGZJbzZKRTVmT1pLVUVVSnRvbkhyckNobGV4QWlDQW9Nb0t5dlBjQnJ5NTFtdw?oc=5"
     },
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVlKLVJyTDI2bHFGeERvVVhaMnU2SDBEN05rZW9sZ2drX1RPbHM5X2VUN0p6MURsMzIxTTRDQU1Ca01hVnY0RzNuemVteHRCUmgyNWMtdXZabXN1OVhmek1weEQ0UVdReElJZnlsRTZBVGRieVFVT1E1XzRvZy1xck8wb0NLQTJ5OFNwd09ocXZrMTRic2RITXlSWS15N01q?oc=5"
     },
     {
+      "title": "台股五利多強抗四利空 法人：短線拚重返 47K - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82ZjRKNlEzVFhWTXJ1VE0wUzREMGluNXA0WG1wQ2xoWVdFWHRZNklnSXVMRWRBay1iZWR1RHJUd3pPNWpDWVQ3dGJUUGFTeXFxdjZEVE0yc0M0QdIBX0FVX3lxTE9kelROdjZwUU54WWpCbjVYcjN3Nm4ycjNBTy1zNmhoTW9qMjN4SDBxYUNnQzdzWXRQSXMtdGxLaFh5UVlPLWVjaEV6T2EtSXFXQ0M1U1NBS0JuX0tGeXVB?oc=5"
+    },
+    {
       "title": "比特幣 8 萬美元保衛戰遇「超級週」！Fed 利率決議、 Google 微軟財報、 PCE 通膨連環登場 - 區塊客",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uNFhYTmJWcElzX2NwWnl0ajhabzE5YzJCYXR2NWluTmtwZl9JcDhRZTVRTE5kcXAzT2NhUTR2dzYtdnZWNVdqYUlyR3JtT2tCTDBXNEd1U2xoTWNyTk5lTDdlZm9ETlpES1dpYjlsbHd1MHlZSmo4c1Z2VQ?oc=5"
     },
     {
-      "title": "專家看後市 六大關鍵牽動台股 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92cUpXM3NEWExfNVJwX2JGLTZTU3Q1VzdTdWVCX0ZsdjJJN2tzOFcyZFJfSU1ncWJHUHI2UE5FTzg5em1ld3pVWm5yZlo2QUhrLXh2Q0huVkdJZ9IBX0FVX3lxTE9CemhLY0hHY3lTSHpfbHU4RUVkY2hfcWhwOXlzRW4zOWd3OUEzQ2R4anFMNXMzNnNJSG5EUVB6MWt1bjR5ZjFQNmdhNDZfWTB4YTV5aC05bmFXTklsR1NN?oc=5"
-    },
-    {
       "title": "中國黃金熱再度升溫 - 日經中文網",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDlUNXpsSWdFbVhtZFJkc3YwNnpYRGE3OUJfQmZUYlBibnJFYWlGRWMxZW1WMDRYenpXM0U1S0ptQUdheTJDR2JUSWdzVk9QNWZ0b0JycU5Fb0RkZlprX1p2SVVjUEd4VXRJWDE4VXRWTUtJTmRhTkV5SHE4ZkxKX0FEREsyMF9aYmc?oc=5"
-    },
-    {
-      "title": "黃金跌勢恐沒完？金價失守4000美元 華爾街看空、散戶樂觀看漲 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPQWZNWWp1enJoUWZ6cmZpWEk1SE1wRVFVaTljZDZsSHRkSS0tS0YtSzFRNzFyd1RPM0VvWXprRDJOM1VNdEpkQURrbWpySmxxSml5clFWc2V3dTdWZ2ZvMTBiOThRajVVX2NDc2Q2RnJYcDFsTUdfVkFxbERTOW1zLWZ2bklxSE5oVklHVU81bk5QdVNsNHF3T3ZidXJmSzZta0lJT1ZvTWNNcmRoQ0NyQlhnT0tjNWZFelRKQjlhV2d0VWtFS294bEdSdkhvT2ljeFUyYXlvcm1oaVBYbHo0VWpMcGZFUDVYZV9ESDVUc0RvNkFvZld5eXhReHZpNGRYeFp2VVlUdVk0WWRmYWR6aHdBRlBKZlVSaXc0ZWE1OEVHbjNLZi0zRC01d3djaldNVEVLanZ3TGZMdUYtQ3Vfdmk4dFlzUnp6RnUxWEhGZ0w1cVZyanNudDlQOTNDQk5mX2tSQzdwWnFvMUNWX0hUUnM2ZUFmQWgyYzBOMW1YVlJqTHg0?oc=5"
     }
   ]
 }
