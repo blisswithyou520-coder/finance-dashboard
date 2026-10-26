@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/26 13:19",
+  "updated_tw": "10/26 19:22",
   "taiwan": {
     "2330": {
       "price": 2385.0,
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79967.51,
-      "change": -823.3259,
-      "changePercent": -1.0191
+      "price": 80150.71,
+      "change": 126.7022,
+      "changePercent": 0.1583
     },
     "ETH": {
-      "price": 2317.45,
-      "change": -38.5036,
-      "changePercent": -1.6343
+      "price": 2323.39,
+      "change": -3.5302,
+      "changePercent": -0.1517
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.558,
-      "change": -0.039,
-      "changePercent": -0.1196
+      "price": 32.58,
+      "change": -0.017,
+      "changePercent": -0.0522
     },
     "JPYTWD": {
-      "price": 0.2053,
-      "change": -0.003,
-      "changePercent": -1.4407
+      "price": 0.2049,
+      "change": -0.0034,
+      "changePercent": -1.6327
     },
     "EURTWD": {
-      "price": 36.579,
-      "change": 0.0042,
-      "changePercent": 0.0116
+      "price": 36.528,
+      "change": -0.0468,
+      "changePercent": -0.1279
     },
     "CNYTWD": {
-      "price": 4.8875,
+      "price": 4.8922,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4028.9,
-    "twd": 4217.0,
-    "tael": 158149.0,
-    "twdTotal": 131173.0,
-    "changePercent": 0.524
+    "usd": 4024.7,
+    "twd": 4216.0,
+    "tael": 158091.0,
+    "twdTotal": 131125.0,
+    "changePercent": 0.4192
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "黃金跌破4000美元！「這國貨幣」成華爾街新寵 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPWGx3RkhzR0hCeDdHcXRJbGotSC1Yc1JuZWxDaXBRdWxPTzloLW9leW4xamRTMFlDdlRWN0ZzRjYwS2RiekFfaUxPUF9XeEJnMWxZTnFKSUkwdVBiX05feXh4TWpkSXhteEZWcVhpNWZHV3BHT0x6OExjZ0huWTN2LXY4LVROT21JUzZOVEtaNkE3cGpCY1B6bEtxMFdhWlA3WDQxRzRHNFFpMG1yOXpOcjBZR011MEQ1dVNMNWtqeGxoMEN6dXdQN3lvOHZpWEtDV2FyNEs4c1kxZ2o1NDQxcXRGQ2o2TnNseldmQkxwZkRtenE0QW8yb2wtNXFMYnFpTE5SSXhQZzhEYWFLbVVzYmlhM1pUNVFHZEVDaExaSWlBRjQ?oc=5"
+      "title": "黃金跌勢恐沒完？金價失守4000美元 華爾街看空、散戶樂觀看漲 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPQWZNWWp1enJoUWZ6cmZpWEk1SE1wRVFVaTljZDZsSHRkSS0tS0YtSzFRNzFyd1RPM0VvWXprRDJOM1VNdEpkQURrbWpySmxxSml5clFWc2V3dTdWZ2ZvMTBiOThRajVVX2NDc2Q2RnJYcDFsTUdfVkFxbERTOW1zLWZ2bklxSE5oVklHVU81bk5QdVNsNHF3T3ZidXJmSzZta0lJT1ZvTWNNcmRoQ0NyQlhnT0tjNWZFelRKQjlhV2d0VWtFS294bEdSdkhvT2ljeFUyYXlvcm1oaVBYbHo0VWpMcGZFUDVYZV9ESDVUc0RvNkFvZld5eXhReHZpNGRYeFp2VVlUdVk0WWRmYWR6aHdBRlBKZlVSaXc0ZWE1OEVHbjNLZi0zRC01d3djaldNVEVLanZ3TGZMdUYtQ3Vfdmk4dFlzUnp6RnUxWEhGZ0w1cVZyanNudDlQOTNDQk5mX2tSQzdwWnFvMUNWX0hUUnM2ZUFmQWgyYzBOMW1YVlJqTHg0?oc=5"
+    },
+    {
+      "title": "美股真的存在“黃金月份”嗎？1950年以來，11月平均表現穩 - 群益期貨",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVlKLVJyTDI2bHFGeERvVVhaMnU2SDBEN05rZW9sZ2drX1RPbHM5X2VUN0p6MURsMzIxTTRDQU1Ca01hVnY0RzNuemVteHRCUmgyNWMtdXZabXN1OVhmek1weEQ0UVdReElJZnlsRTZBVGRieVFVT1E1XzRvZy1xck8wb0NLQTJ5OFNwd09ocXZrMTRic2RITXlSWS15N01q?oc=5"
     },
     {
       "title": "黃金真跌破4000美元！華爾街轉空 反彈先看「這價位」 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fSnFwUDBLTkEyZVNrdmdhZ1N5MFM0WDM0cDVQaS1Fa2hSTzg3ZURDR3pMN2c5ejFub3BtVU5MUG1oNXFLT1doOEdPWnFRVFBhSE1BUU0wWlRDbm5KcUlv0gFkQVVfeXFMT0JYMjM2bGZ0ZVFjUFdqOXZ1d29EakU3VTBjTDFCTEQ4RXVvbXk1a0J6LUx1dk54eVlOZXJ6MWNoMFhrTmVRZC1JSkJQdl9IX3MzNDNDdFVyXzZUajJqbkFDN1MyeA?oc=5"
     },
     {
-      "title": "鉅亨買幣速報- 比特幣(BTC)24小時成交量超過5.84億美元，NFPrompt Token(NFP)24小時漲幅達65.8% - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rbjNUNTdvUlJuU0w1QUdzOVp2LXdOT0VGN1FnSEJLM2Vnd0x5VXNqdnMxU3dzQVg1YzRPMzU1blRDSlQ5Z1M4T3ZHbm5fYWlMSXJYT25WWmZvdXBkMVN3QTVaMVI?oc=5"
+      "title": "中國黃金熱再度升溫 - 日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDlUNXpsSWdFbVhtZFJkc3YwNnpYRGE3OUJfQmZUYlBibnJFYWlGRWMxZW1WMDRYenpXM0U1S0ptQUdheTJDR2JUSWdzVk9QNWZ0b0JycU5Fb0RkZlprX1p2SVVjUEd4VXRJWDE4VXRWTUtJTmRhTkV5SHE4ZkxKX0FEREsyMF9aYmc?oc=5"
     },
     {
-      "title": "台股高低震盪逾千點的兇手是誰？分析師曝原因 但強調下跌是買點 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwMWdsMGNobDExb2ZIWVhPYVlpbVowcGRLZUtsa0l2QndpRmFkakE3YVY4dDdNR3J2VE4tbm4xV2puLUFBSVFScUxJSks5Ti16dnNVN1ZsNHRvUdIBX0FVX3lxTE4xb0Z2QloxRzlXSzl3OVNaQ3ZIT0pPVHJkaGF2dnJhOEdaVW9DZVgyOWNSZVlpMnRyX0hULVg5UkFFMmxEcWtXYTUzNVZxQzR3eTRRcjZIb1ZPZ1ppVWtB?oc=5"
+      "title": "伊朗將和沙、巴、土舉行安全會談 美股期指走高、油價跌約2% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mLUdOMXNJVURrZUVxM1RQUmFiSkxXTUhwMjN5RVdOSlpCbDNMb281TzY2ZWNBV1dvNkwzRW01RjhwNjZFSTNGSXhlaXk3aE1z?oc=5"
     },
     {
-      "title": "Coinbase 比特幣溢價連 33 天負值！美國買盤持續疲軟 - 動區動趨",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iOGJtMjFiRGptVEtGZ0ZGOEFXS0xmWWN0NkVBbFN6dkMyM3BVaVM1U0IwSEg5THUzMXZVNTJEQktTSm1NNER3YVhDeU1ZdThELVBhU3U4RTBUMHFTdENTRW9FZDdWc0ZTbWNPT21aUW9kN24xVTFMeA?oc=5"
+      "title": "比特幣再跌破 8 萬美元！最低下探 7.92 萬，多頭清算壓力持續 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSG15S1RNdVJKM0tBd2g1SlVob0w0SEoxZTBURm9SQmJnWFNWWDV2Y3ZiM3NWNlBmdG1oWDhFaklTZE5iaTYxeW5pXzV2a1dUVDB3MTFLYkNYbWVqYTZ1ODV2NlE0dzJSS0xVSUgxa3p4WmNaVnpiTHpBamhOYzY5bW40MUxiRGc5eEI2MA?oc=5"
     },
     {
-      "title": "Securitize 將 12 檔美股帶入 Solana 1:1 掛鉤並開放美投資人 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSnFuTWlQMTktMktmNklNNGZJV0VXdGs3cEtqaEJ1Uk5wWXZleHU2dXd5aU5KMHBRSlFaTWZ6b0Rud0N2M1QtempFeC1EY05IZFd2bkQzRWFRbS1sSmlIT3JnTjBpNDUwdzlMaE5hMGV4WWZqbnVZUzJtMWk3dWZSUW9ETDVOZkFRTFdhSXB5TjVVTnp1Zng2ai1ORHdmd0YwSW96S2VqVEpoV3NudTFzMnBpTDFEY3NhOHREZUVVQ2k?oc=5"
+      "title": "黃金失守4千美元\"單周挫4%\" 改寫7月後低點! - 非凡新聞台",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLWXh1bmRjTFU3V3Fpa2dkTXlKQ1JIQ01MbV91U21DekVhaDFYa3B2TWNxVmowU25kbWMyS3JiZ0Vta08ySDQwOGxXcjdnZWNGMjdmajhXQnlMZHM?oc=5"
     },
     {
-      "title": "台股震盪守4萬6000點 投信：AI長線行情仍可期 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oUEVibWl0amE3RnAtYmR0TTVESW9Ia0VtdVZZaG5la1hyampsTV9zNnFLN24xQWhhbU5HbTk3NnNNdU5jaHVLRnRTZUpBTDlJekJYdjk0YzJhWHVpbDUw0gFkQVVfeXFMTU1tMmZNaV9vdVV3Nk00bnRvSTkxZjRvMDZBWVlhTDU0UWJRR2dHM0tLMU1aMnZLRmowYVRTbkMwV3IyZFU4TVBzeE1heWlLeG5kWVphWU4xT0FnZWRsLXdCYTJzcA?oc=5"
-    },
-    {
-      "title": "富兰克林邓普顿拟推出持有美股并将股息再投资于比特币的ETF，目标是配置5%的比特币 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GNnZPYUpBVEVJemhXc0pxU1dwbHNBLVhrTURBUnA0ZFBPTHB6WW4wVXdBRmV5b3lobE9LZW1jcHU3M3ZoMHBDWXhsNFl3dXNBdFdkLU02YllfaFRpZ21TU0o4bmwtdw?oc=5"
+      "title": "一卡車美股小型股慘套11.6萬！他持股一片綠猶豫停損 網勸：改投大型股 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNRzV3blZnVFhwbEFHcWpOc0lwRXVqbDI1dHBYMnhmNzY2emVrNGhiOVBVeWlVRGZoMGxBSGYtdjVfYjZLRGFxNlJsalhlZlZ0RGFYSXRreUN3R0RjWVZHem1zSGU1ajIxekpSOUpfdTVqNjZ0ajVvUzdsampydDZrTk9CQUtBNHpOUHgxYUhGNVdEQVF0MFJTNmhfRjcxOFhoU0JNZFNCcjBxTlVHS2kxX09iaGxrLVVBVFpxMkYzcG5SNWE2Q3VyX1JJdjJUN1ZUeGJuaDVhU0tXZENMRG5QSjBlakhzNGZrSGZSMnhzSy1vR3pCVzlWX25GcVRRLTduM01KbzlTWGpaUDNnY0FsSEFPSzlQdjdKR1g2eTJrR2h1XzBJU2I0UkZTa1JYemlJU0pJVTZBaXo3WllIVE1CVkVxQ0hNTWs1ekIzOUU3LVFISVNhdjQ3X0ZXSXlIaktH?oc=5"
     }
   ]
 }
