@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/27 09:09",
+  "updated_tw": "10/27 14:16",
   "taiwan": {
     "2330": {
-      "price": 2385.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 2400.0,
+      "change": 15.0,
+      "changePercent": 0.6289
     },
     "2454": {
-      "price": 4010.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 3960.0,
+      "change": -50.0,
+      "changePercent": -1.2469
     },
     "2317": {
-      "price": 245.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 247.5,
+      "change": 2.5,
+      "changePercent": 1.0204
     },
     "0050": {
-      "price": 106.9,
-      "change": -0.0,
-      "changePercent": -0.0
+      "price": 106.6,
+      "change": -0.3,
+      "changePercent": -0.2806
     },
     "00878": {
-      "price": 35.27,
-      "change": -0.0,
-      "changePercent": -0.0
+      "price": 35.4,
+      "change": 0.13,
+      "changePercent": 0.3686
     },
     "00919": {
-      "price": 32.42,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 32.75,
+      "change": 0.33,
+      "changePercent": 1.0179
     }
   },
   "us": {
     "NVDA": {
       "price": 216.0,
-      "change": 3.79,
-      "changePercent": 1.786
+      "change": 5.04,
+      "changePercent": 2.3891
     },
     "AAPL": {
       "price": 343.91,
-      "change": -4.31,
-      "changePercent": -1.2377
+      "change": -3.82,
+      "changePercent": -1.0986
     },
     "TSLA": {
       "price": 391.62,
-      "change": 17.04,
-      "changePercent": 4.5491
+      "change": 19.4,
+      "changePercent": 5.212
     },
     "QQQ": {
       "price": 712.2,
-      "change": 7.73,
-      "changePercent": 1.0973
+      "change": 7.8,
+      "changePercent": 1.1073
     },
     "SPY": {
       "price": 765.37,
-      "change": 1.41,
-      "changePercent": 0.1846
+      "change": 5.4,
+      "changePercent": 0.7106
     },
     "SCHD": {
       "price": 35.3,
-      "change": -0.1,
-      "changePercent": -0.2825
+      "change": 0.03,
+      "changePercent": 0.0851
     },
     "VOO": {
       "price": 703.41,
-      "change": 1.11,
-      "changePercent": 0.1581
+      "change": 4.83,
+      "changePercent": 0.6914
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80143.5,
-      "change": 119.4922,
-      "changePercent": 0.1493
+      "price": 79716.06,
+      "change": -307.9478,
+      "changePercent": -0.3848
     },
     "ETH": {
-      "price": 2325.79,
-      "change": -1.1302,
-      "changePercent": -0.0486
+      "price": 2306.39,
+      "change": -20.5302,
+      "changePercent": -0.8823
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.532,
-      "change": -0.0388,
-      "changePercent": -0.1191
+      "price": 32.507,
+      "change": -0.0638,
+      "changePercent": -0.1959
     },
     "JPYTWD": {
-      "price": 0.2041,
-      "change": -0.0035,
-      "changePercent": -1.7049
+      "price": 0.2039,
+      "change": -0.0037,
+      "changePercent": -1.8012
     },
     "EURTWD": {
-      "price": 36.356,
-      "change": 0.968,
-      "changePercent": 2.7354
+      "price": 36.349,
+      "change": 0.961,
+      "changePercent": 2.7156
     },
     "CNYTWD": {
-      "price": 4.8824,
+      "price": 4.8826,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4023.0,
-    "twd": 4208.0,
-    "tael": 157791.0,
-    "twdTotal": 130876.0,
-    "changePercent": 0.3768
+    "usd": 4018.1,
+    "twd": 4199.0,
+    "tael": 157478.0,
+    "twdTotal": 130616.0,
+    "changePercent": -0.5027
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,12 @@
   },
   "news": [
     {
-      "title": "台股明天開盤有戲？美股迎科技股買氣回溫全面飆漲 台積電ADR漲逾2% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQU1BEYlhrVHFyOGRfZ2tlVV9wTURPNDN4cWpCWWd0dFhSSk1EZTNBWmYwLXcwM2pac01oVHhRX1lHMFl3WkhyRWk2OV93UktrekJha2lFRDhxallpMGpLMC1PUktZU3lUQVFwbF9WVlhJQXVNTE5ka1llZjhhQUdNS2tvTFdJLXJrNWhjdzRsT1FvR2FRY3ViVllSaVdOSEJDajJSeEFJMmJONFBqT1oxdndzVEwxZEc5S0FJQ1VlRDk5UDF3NG4tNFdudW1OdzJGd21rOF9Kbm05ZmJWejNzeWF4Tk8tVXpiWkhONkVadUpoNzdib0tuSFpMX3Y3TkhyalhlRVdXcExDUmEwcWItemsxX25qX0NnZVhiYjlMQnAyMU1tYTVhWngwNUw2SDFfc2xSYlBBazVlUk9ibHhFTzFkUm8zeUh4SDQ2ajRVTENUVC1VdWp6bjRRS2xLY0hPQzI3VnJHeHBWZzExdk9odnJMSUdTZDgxUEh0NmRyM3VRbEk3MzczdkVtZ3NDOXlQS3FwVkwzeFctSEtnd1dEWnhVNERDS1E?oc=5"
+      "title": "黃金崩跌25％！年底前有機會反彈？專家這麼說 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4ZjF4cGhCODZtYnQyNHd3UUd3VGI4clMteDNBLWNqeVpTazA3TVJUZnM0d2ZwUEFoM1k4eFAxVk9vSkdEU3RNX093SEU4d21nQ1JkX2d4Z2hwUVZaNG5V0gFkQVVfeXFMUF9iempCWVFfcWdhbzRHYWlTelE4VVF4X0V6a0ttaENsd0JfNjRYNzRMMzR3Y2VFaWhVbDMxWDZUS2RxY3gtV3Z4S3FLRmdIVjJYcHhocGxoZzM5aWh5SUZ1bWFLZA?oc=5"
     },
     {
-      "title": "快訊／台股開盤穩了？ 美股4大指數開高走高 費半上漲372點 - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNRGgzMFNvTS1VeVZnRnlmMXVkdjQ1c21QV1pXVmw2V3YwUFJVcFVhRE9vWU5zUGVTSnAwVDItYWNNb1Z2U2JTd1R6S0dYa0hIQXh6cVpKUHlrZFY5Qi1lYkVsTUNzMzdxcUJ6RzZBR3RBUUxVSnMxSHV2MGM4d2VzSzdYNmNuMFExRmkyQTl4TXZ3UHNJd2VldTN2ckVsS1lHNTQwZDcyM204Q0ZtV0F5V0Y0MnVDS0ZJeDJKZnE2NzhPcDBORzUxS1JYZTh1ZlZram9ob1d5NjJHa3N4OUotY0RmZVk3NXNNZm1ENFZtNDJ6OGRZX0RHTGlhMkQ0TmhEZTBmdVNwcllmR3lWdVU0Z1pGSUVYVUlvMDZYa0ZBZmtSTnpONHp5M3pqWWR4V0hER3U5OTNFQWVwcWRoNkI0U1JtUmZOUm1HREhiWTBRczFxUERZQUhkXy1zWm9mbHd2RjVqSzVVYnNwTGxZZFl3N2gtYkhtUQ?oc=5"
+      "title": "台股明天開盤有戲？美股迎科技股買氣回溫全面飆漲 台積電ADR漲逾2% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQU1BEYlhrVHFyOGRfZ2tlVV9wTURPNDN4cWpCWWd0dFhSSk1EZTNBWmYwLXcwM2pac01oVHhRX1lHMFl3WkhyRWk2OV93UktrekJha2lFRDhxallpMGpLMC1PUktZU3lUQVFwbF9WVlhJQXVNTE5ka1llZjhhQUdNS2tvTFdJLXJrNWhjdzRsT1FvR2FRY3ViVllSaVdOSEJDajJSeEFJMmJONFBqT1oxdndzVEwxZEc5S0FJQ1VlRDk5UDF3NG4tNFdudW1OdzJGd21rOF9Kbm05ZmJWejNzeWF4Tk8tVXpiWkhONkVadUpoNzdib0tuSFpMX3Y3TkhyalhlRVdXcExDUmEwcWItemsxX25qX0NnZVhiYjlMQnAyMU1tYTVhWngwNUw2SDFfc2xSYlBBazVlUk9ibHhFTzFkUm8zeUh4SDQ2ajRVTENUVC1VdWp6bjRRS2xLY0hPQzI3VnJHeHBWZzExdk9odnJMSUdTZDgxUEh0NmRyM3VRbEk3MzczdkVtZ3NDOXlQS3FwVkwzeFctSEtnd1dEWnhVNERDS1E?oc=5"
     },
     {
       "title": "美股｜Anthropic IPO激勵AI股 費半勁揚2.8％ 特斯拉強彈逾5％ 台積電ADR上漲1.4％ - 工商時報",
@@ -133,20 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTc2FGM1hNcktZc21RRnl6cHN5RUczVmw2aEFPY1JOUXVLZmt3OTltRW9RMkQybFltdmptSGJmcUhyaklHcnY0OGNTOTBUMVE?oc=5"
     },
     {
-      "title": "快訊／台股開盤穩了？美股4大指數開高走高　費半上漲372點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6c215Y3lZdUNfeEdUc3Z6MW1HUElXZ2VSS0ExcWtoT05wWEZCREh1aG4tZmZVcVFFay1WR3hPTTVUNktKdEhOQ1U2YTRIV2xKWFHSAVBBVV95cUxPNDBLSnh6Wkg4VjdfVXdkbmRlaktEQ0h3TFluMl9JSXh1NW11ODlHLWE3eUM0cWdwV0tKY2FaZm1KeFlKRG9SM2taYTA5UDhPMQ?oc=5"
-    },
-    {
-      "title": "美股收盤／Anthropic 上市案點燃 AI 買氣 費半大漲2.8% AI 疑慮仍在 | 美股動態 | 國際 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XRVk0ckhxN2VpR3h1WDFfSzlCdXV6OFlYbVVfWFY1X29XSUNDNF9VSUp5cWJxQkgyLUszczFzQkpOWVZkTkd5U3VPejVaUHBWOVhaS21Zc1B6WmFz?oc=5"
-    },
-    {
       "title": "【1027台股盤前】強颱逼近引爆休市避險賣壓！大盤重挫846點回測季線，主本比逆勢鎖定【精測】、【玉晶光】、【欣銓】 - 永豐金證券",
       "link": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxNbnUxVGVWc3FTMEhIVWtnYXlGRDAwSlhGWEpRcDhCNlFVdnFxUnJjdzZYaEtaQmw5bnNBWWc5VmNDaU14UmIzMVNJajFzXzRZb2J2RmhoWG9JdWZyQV9SWVRNc2FTMHNTTzFQWGlOcnpHRXBjOFRrSFNxVFFrLUJ5MnQ3RllrWFVGa2RWb01CT24tNTV4LWFPLU1hRW9NX1l1ZDc0WGxNOXFwcEtkc1lLUzM3UjJGU2x4MUUxWXhzd3ZwX3BwLTFGbXh4N083U2ViWkFDaWlkS3dkZEpHUjZDa09IX29NM0h0OG54dE5LaDJrVld4OXZ0cG9nV0F1bHFsbFFObW93cVo2Q0JmekdlLUd1TVVEY1ZqMDZHSUtQLTBxYzJSLVViT0EyQmpKS2lFRnJjXy1aWkFrSndYSmJDS1BYUUE3eVl2Q1NuZHBKQ0dJT2tRYXZHankwcDF0UHlsbnB2a19hc3VqT0ZFZ1ZPbl90RTdvb2tseFh1LWJSb0k1M0RWZkJNRno3eExtZVluak1oZ0hiamhhUVl1WDZ0YzV3WWhiU1ByX09MS1ZZUGsxZkc1XzFLOHhaejdUMnp1VHVQMWpwNWFxbEs5bGdWNDE5bTlfSTFfMDhHaGNkRWVtTk54c1dXQ1JKY2ZBR2lyZjBzaWJjMEZLYXB1NTNyXzdPZFNpbHdkS284Ym9xRzhCbzRDeHotcTI0ZDhGd0MteFR3aDdoRE4zdVdWeTJicWtNXzNWeFc2NXhlMW5pdDZpcWNSVl9zd21OUU9teWp3X3pRSXlHNFhXa1hqcW5GQmJQeFUyTEZ6d3FYclNVVQ?oc=5"
     },
     {
-      "title": "《貴金屬》逢低買進 COMEX黃金上漲0.8% - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcHRuc0pUMHhFc2xnSW5TSGVqd1hXcUtBSEh1UXJzTHljZDFxei1HQlpPbmlCVEdjNmd0VzJ1OGRkazlGeXgxNjc2REtDSVVROTFNc1o4S1Fac0VGbXRmc0Q4UkFyeDNMYWJoWFJDZFo0enpOaXpPS25Na202N2NGWXlQOHFrVXl4ZGYyRHVJS2NCQQ?oc=5"
+      "title": "比特幣跌破 8 萬，Galaxy 卻喊熊市結束！老幣賣壓減半，7.65 萬美元成多頭警戒線 - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3V4VUZWaVN3amhRR0drV1FsM1NxZDBWNDdiaUJkY0oyZkE2bWxNUHZEYWFXV1cxeGxWS0RtNWFvcDlIa25OOVlqUlBXd00zcDF1MmFQNFVNenBTakxfalpSalllZVdMeWZUUk1OU2xOalR1Y2tjanpZNGhzTzV1SUZ3X1dvSTgxYlFmdkNsWE4?oc=5"
+    },
+    {
+      "title": "美股早盤／Anthropic正式申請IPO...科技股走強四大指數齊揚| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wR2lzdGFsSDdrTGoxeDEtVy1ZblFuLVRXa2RSRnkweDhEYy1Cem1GWWxwVVpmVDk5dkFpaXRpWVAxMFl1aUsxZFhrQXB6d0lm?oc=5"
+    },
+    {
+      "title": "台股連休四天今開市！費半先跌逾6%再反彈 台積電能否帶領大盤守住46,000點？ - 理財周刊",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mTkNnMXNldUQwMFNXOWlTcmFwUi1pejNEMVdsakFzMm9UaDhxYmJVZjdQYm5ZU2JSZmtJLXdGakF0bGJYUDVEdnR4dHdNX2hIbk1CTmwzOTNJaENKa2hldldBaXdHOWZQbWNGNEdtVQ?oc=5"
     }
   ]
 }
