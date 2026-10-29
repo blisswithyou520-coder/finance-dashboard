@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/30 00:19",
+  "updated_tw": "10/30 05:18",
   "taiwan": {
     "2330": {
       "price": 2415.0,
-      "change": 15.0,
-      "changePercent": 0.625
+      "change": -10.0,
+      "changePercent": -0.4124
     },
     "2454": {
       "price": 4045.0,
-      "change": 85.0,
-      "changePercent": 2.1465
+      "change": -190.0,
+      "changePercent": -4.4864
     },
     "2317": {
       "price": 248.0,
-      "change": 0.5,
-      "changePercent": 0.202
+      "change": -3.5,
+      "changePercent": -1.3917
     },
     "0050": {
       "price": 107.25,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 213.5,
-      "change": -1.88,
-      "changePercent": -0.8729
+      "price": 213.66,
+      "change": -1.72,
+      "changePercent": -0.7986
     },
     "AAPL": {
-      "price": 349.345,
-      "change": 5.515,
-      "changePercent": 1.604
+      "price": 348.91,
+      "change": 5.08,
+      "changePercent": 1.4775
     },
     "TSLA": {
-      "price": 405.89,
-      "change": 1.67,
-      "changePercent": 0.4131
+      "price": 403.3,
+      "change": -0.92,
+      "changePercent": -0.2276
     },
     "QQQ": {
-      "price": 715.525,
-      "change": -10.085,
-      "changePercent": -1.3899
+      "price": 715.34,
+      "change": -10.27,
+      "changePercent": -1.4154
     },
     "SPY": {
-      "price": 769.23,
-      "change": -3.08,
-      "changePercent": -0.3988
+      "price": 769.36,
+      "change": -2.95,
+      "changePercent": -0.382
     },
     "SCHD": {
-      "price": 35.41,
-      "change": 0.32,
-      "changePercent": 0.9119
+      "price": 35.61,
+      "change": 0.52,
+      "changePercent": 1.4819
     },
     "VOO": {
-      "price": 707.099,
-      "change": -2.801,
-      "changePercent": -0.3946
+      "price": 707.32,
+      "change": -2.58,
+      "changePercent": -0.3634
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81384.55,
-      "change": 116.9641,
-      "changePercent": 0.1439
+      "price": 79385.8,
+      "change": -1881.7859,
+      "changePercent": -2.3155
     },
     "ETH": {
-      "price": 2354.28,
-      "change": -3.344,
-      "changePercent": -0.1418
+      "price": 2281.5,
+      "change": -76.124,
+      "changePercent": -3.2288
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.54,
-      "change": 0.1145,
-      "changePercent": 0.3531
+      "price": 32.587,
+      "change": 0.1615,
+      "changePercent": 0.4981
     },
     "JPYTWD": {
-      "price": 0.204,
-      "change": -0.0012,
-      "changePercent": -0.6022
+      "price": 0.2043,
+      "change": -0.0009,
+      "changePercent": -0.4561
     },
     "EURTWD": {
-      "price": 36.381,
-      "change": 0.3018,
-      "changePercent": 0.8364
+      "price": 36.46,
+      "change": 0.3808,
+      "changePercent": 1.0553
     },
     "CNYTWD": {
-      "price": 4.8889,
+      "price": 4.8992,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4026.0,
-    "twd": 4212.0,
-    "tael": 157948.0,
-    "twdTotal": 131006.0,
-    "changePercent": -0.6319
+    "usd": 4033.3,
+    "twd": 4226.0,
+    "tael": 158463.0,
+    "twdTotal": 131433.0,
+    "changePercent": -0.4517
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "全台首檔美國黃金礦業ETF來了！兆豐「009832」今上市 翻紅小漲1%內 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNR0w5NXFsb2x1NzZpWkR0alBWOFh5SXBBbjkySGlCQVlxMThyUklyR21lOFQ4ZVA1Tm9NcmpheXU3WUJtWmdwZzQtZFlvbHUybVZkSDlQa0xSR3E1LU1OdGxsZUdDS3BCc21lWThpLUJWNkJlMXctUno4bjdtMmsxS2hGR1VzYTc5bzNXZVRiTFVyY1g3WS1KMmJERmViaTV3Y0x4cUo4Z0ZTSEpIYnlCU21tUllZdURXSEl5U3g2UUprLWZQN0ZpUTk5bV9fQnZ4QnpKcl9Rc2cyVHYyVzN5TmFJbEViaExnT1JNeGZrNFVXV09EcnM0eENEeEltMlh6UjNHNXBHS2ZmRnB6VXpibHI3WFRRNVpmSnp1NXE1Vkl2YjZmT05XX1dfZ1FEYnBYRGo0Q2xWVXB0cVZLZDhISUhlSERUdWloU19JNEJobWduQ3V6ejg1RWVKUmhFdzBJVTRBRWVKMDVWUlhjUzVCLUIyVHgwZTgxRXB5Sk1pR29fVEhNRlFFMFlBcGF2a1lmNUxBM0VB?oc=5"
+      "title": "美股開盤變臉！AI成本飆升引爆恐慌 3大指數全下跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPMHdoN3o3SXM2cWJaWERWOEhpZGhBbllGNDhFakpiSjZVVnFPbzk3cF92ZU9aN0plLTdTM2JtY1B6RzFfZW4wQlRXaHVZM05ZdUJ5TnNpNURyS0NuaktLa2ZJOURyTVFoVEgyd2FLaHdqU2VManducDd4SXZrR0NsLXQ5NlROQjBtMlNGVVFqb0NONkd1NS1ka0E1TWVwM1dVR0tKT0hzd29fRnpXWFZSbzJjMXhNbUxVV2JJcUxMVXJqcGNFOEk1ZDVOZW5id1JNRVdXc1VfdGc4NXo4TkFoWWdGZ2J4cjU2cGM4S1hUR0h4bUJreksyYklNOGNUWnRVSEoxVE5SZHhueDhzOFlRZnFJaHF0VWxVVThsbllKdHhKeEw0cElHWmgwX0d2R2lNT2dWZTk5QmxyVEdpLTJFenRQdEozeWNOZkdiY0JMVHhaQQ?oc=5"
     },
     {
-      "title": "黃金漲勢踩煞車！調查曝「這時」驚現大反彈 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01S3ZuSTd1VTl5YjBwbEpXMjNXWklyLUFTQjJva0RHaTZwQWpTZTBWV09kVkhIa2pzMHdSYVNhQWdZUHRJa094a1FIMEI2bmlzbmtjVTVmbUFWZE9Od3E40gFkQVVfeXFMUHJueEF5LWg5QzdBdTVVS0pFcmp6dnV3NlBNb3ZmbDhPSmdvcHZGaEVaQThnZG02WFFTMjdYTy11RFV0WGZaWXBuZFU1Q01paHpSTU84Y1hfTmdVWFkyeVM3b2tXRw?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉Fed按兵不動 三大指數連三紅 SK海力士ADR、甲骨文狂飆超10% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DX1VDbG5TSVJlR1FUZGpLNXIyaGZYQ1hNd2xEeXpxVXFoRDlPWGtjYVFOckVVNE1WbEpudl9JOWpTMm1UT2FoTU5fMEs1WTg?oc=5"
-    },
-    {
-      "title": "【美股盤前1029】FOMC不升了？後市觀察重點？接著關注Amazon財報｜豐雲學堂2026 年 10 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQWjJwZk5fRmJGTkdtamNsSUNxTTZKcC1jRFNsWi1hcURESW5Ya0thUWEyc2NQUjluUHRlaTh4RDdZOUw1OG9SV2hMb3dBdDJlVXpSNUhFSzN1azI0TlFhdkctWlN3Zm8xOHppaGh2VTRKYi0tSUtnQmk3WkEzTXZyWldzaHVWbTdfUlpManBMQ2RreW5wNGl5c0x1cU9FaGcxbWp4SEgtVXhlcm10MHp2VTB2YUVFTDZIYUNhenhoWmZFZ2VOMHZKYmpyNTFMODZQZkpaSVhyeEl2dTB3NmNiV1d3MHhHWGFnZEZ6UWNmZWF1bXZKZnBTS2VxaGFONkhURkhJd2szNE5GczF3dnBONU1mRXV4TkFzQkUwTGVCMTNzSUR1cWFGWXN6NUtEWXB3M05IN01ENWQ5aXFXdzRwWUpRWV9zT0xMMk1GbTVqakRQWEE5VURaUmZJa1hVVE9hVVlDbXE5Xzh4U2c5QVVwbmhhVld2bVJQZ3pDZ2NueHQ?oc=5"
+      "title": "美 Q3 GDP 創一年來最大增幅 PCE 符合預期 美股期指跌幅縮 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsMFM2Tml0LW1fOFJhZGRrN2dnUXQ4YlpwejRGdy11aHZMc3N1djdmWFBabGpVUFQzYmxsbWk0WkZDbWU2T0FIVVdwSWxkZjYtaXdKQms3QUR1ZW5j0gFiQVVfeXFMT0M2NnlPYWNNdFVObjY5eDNJdGdVaXZ2SGdpejg5bExWZGZnUkJOclJXNndCRC1yaGxBYVhmSjNIUEpiLVZSREM3a2l5RWtrZl9HUG1tejcxcHhIRXZyUVBQZ2c?oc=5"
     },
     {
       "title": "#最新快訊 美股開盤低迷 「4大指數走黑」！ 台指期夜盤跌幅收斂 - Facebook",
       "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQeDVGRVlmRjlKZTZoU3Q5cUtjb3ZUM1V5VkliMDkybHd6WnFQaGZsb2cxUjMxWEtCXzZnNE5PTjM4T3FkRGMyRnNWeDU5SXRtcDJDZEVxYXY4UHZGNGpOTzYxSEFnUnlkdlVFbUJwZ1hfQXBfTlRjWDc2a0RBMjYwS1RMdkcyYWVXTVpNNDA0M2UwdWhJeHh3a2FrSFhDQ3Y2UUYxbVA4MU9WNXp1aEJzQ1R1TE5Sbm9mUURUVkw3S3R0akxvT19oVk1kbHJtWEJ1dmVpcFpFSUlTWlE0Rld2OXZlaENFRTZPN0R3XzZEYkFxb1BKTVBGV0JocERicHJLM05zeEcxS0JGTEVLTlZCSHFDSFdnSDJmSURsZ2hfb2xJcHowSEJVZkRDZGp4QUN2TVUyWjdDeDhKcVF6SlR2cVJLSnRuRmdXZXBIZFdOX0RCOENLNzcxXzhlUFVxbEZkRmZEeUNSb0VJT0RGU2NMRkJydmdMR2xnaFFoYzRJR290UVNkMVNIN2Z3?oc=5"
     },
     {
-      "title": "當台股只剩台積電、美股只剩七雄 大盤ETF還能買嗎？權重指數是什麼？ - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16SVJWbXRMcWZob1J4cWxrZWVTXzg1WTBFaDc3OXV5N1hfbjhVSzdyT01jYzRJX1RfaE5DbmxrN1Y1clgyQVl1WDRHT2doQQ?oc=5"
+      "title": "【美股盤前1029】FOMC不升了？後市觀察重點？接著關注Amazon財報｜豐雲學堂2026 年 10 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQWjJwZk5fRmJGTkdtamNsSUNxTTZKcC1jRFNsWi1hcURESW5Ya0thUWEyc2NQUjluUHRlaTh4RDdZOUw1OG9SV2hMb3dBdDJlVXpSNUhFSzN1azI0TlFhdkctWlN3Zm8xOHppaGh2VTRKYi0tSUtnQmk3WkEzTXZyWldzaHVWbTdfUlpManBMQ2RreW5wNGl5c0x1cU9FaGcxbWp4SEgtVXhlcm10MHp2VTB2YUVFTDZIYUNhenhoWmZFZ2VOMHZKYmpyNTFMODZQZkpaSVhyeEl2dTB3NmNiV1d3MHhHWGFnZEZ6UWNmZWF1bXZKZnBTS2VxaGFONkhURkhJd2szNE5GczF3dnBONU1mRXV4TkFzQkUwTGVCMTNzSUR1cWFGWXN6NUtEWXB3M05IN01ENWQ5aXFXdzRwWUpRWV9zT0xMMk1GbTVqakRQWEE5VURaUmZJa1hVVE9hVVlDbXE5Xzh4U2c5QVVwbmhhVld2bVJQZ3pDZ2NueHQ?oc=5"
+    },
+    {
+      "title": "黃金完蛋！摜破4000美元關卡 還寫1慘紀錄 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwRDI1LThhWkFiVUJLM1ZncWJuZ2l2OVF5RkZZc3hzcUpuZmp0N1F6WE9hU0taMmRrWERwUGg4TlBSWVJPWnkyX1MxRlYzWUJSU1YxdDVsYW5EdklreGxR0gFkQVVfeXFMTVJ6ejItTXkyUDJnTGZ0bGNDN2Z5MnllZFRKUEFlRDVKaEUwZjJXc0hTdXpYaUlKTU1fU3hSSHVwejJiN29BQU1HSlhVaHRiaDV0anBQdmN2NUIyOFBtUWl4T0thaA?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉Fed按兵不動 三大指數連三紅 SK海力士ADR、甲骨文狂飆超10% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DX1VDbG5TSVJlR1FUZGpLNXIyaGZYQ1hNd2xEeXpxVXFoRDlPWGtjYVFOckVVNE1WbEpudl9JOWpTMm1UT2FoTU5fMEs1WTg?oc=5"
+    },
+    {
+      "title": "國泰投顧觀點｜高殖利率環境投資機會：美股風格輪動 新興債勝出 - 鉅亨買基金",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRWlmSFl4ZzBTVUNncHhJNmszSUlOUmk0ZXlIcjJiZ2lFSzBxbUh3N1dqajA5U0hzbU9qTVpENFZlRGFnVTRMeFdmTFhoV3lXUEo0Z0xrTmt1MkVxcEN2N0R5UUdoREdHY2xHUEZqMUlFekIydEY3ai1RdzVwZHp2Uk5HSldBVmx4dzg3WldYdDFCcnNPdEtmUVFB?oc=5"
     },
     {
       "title": "美銀警告：美股防禦板塊大漲，釋放風險信號！ - 群益期貨",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX3U5M2k2UFkwTXpDQ3F1VWZ2XzFvdEJILXJDU3gtREI0SlctU0NyUHlpcFY2Q2lMYUZIQVNSMGFra3FuSTdnb2ZQWnNKVTlURE9CYkpoelBDYTYwMGpnU2ZiMzFhNkdSRkhBeGVSdnZleWxBdk91cXZheVJvc0F5SVlUamZ3SkRhOVN1b2NudGpJVlZYdVdIU1BrM05nZC1WS2hv?oc=5"
-    },
-    {
-      "title": "美股早盤／AI疑慮再起…字母領跌、費半摔2% 邁威爾重挫12% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UY1ZmT1VreTZCTHEwODhOQl9JMXB4QW5hdnRoLVp0N3FsRllOakVuMGJLSl9lczdLMHRNdkVfRU9kczRPSHk5aUZKek5ESE9O?oc=5"
     }
   ]
 }
