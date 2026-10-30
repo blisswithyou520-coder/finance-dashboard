@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/30 22:16",
+  "updated_tw": "10/31 03:34",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -19,97 +19,97 @@
     },
     "0050": {
       "price": 104.95,
-      "change": -2.3,
-      "changePercent": -2.1445
+      "change": -3.7,
+      "changePercent": -3.4054
     },
     "00878": {
       "price": 34.81,
-      "change": -0.49,
-      "changePercent": -1.3881
+      "change": -0.84,
+      "changePercent": -2.3562
     },
     "00919": {
       "price": 32.59,
-      "change": -0.28,
-      "changePercent": -0.8518
+      "change": -0.31,
+      "changePercent": -0.9423
     }
   },
   "us": {
     "NVDA": {
-      "price": 207.09,
-      "change": -6.57,
-      "changePercent": -3.075
+      "price": 203.38,
+      "change": -10.28,
+      "changePercent": -4.8114
     },
     "AAPL": {
-      "price": 345.69,
-      "change": -3.22,
-      "changePercent": -0.9229
+      "price": 343.82,
+      "change": -5.09,
+      "changePercent": -1.4588
     },
     "TSLA": {
-      "price": 396.339,
-      "change": -6.961,
-      "changePercent": -1.726
+      "price": 398.53,
+      "change": -4.77,
+      "changePercent": -1.1827
     },
     "QQQ": {
-      "price": 694.37,
-      "change": -20.97,
-      "changePercent": -2.9315
+      "price": 687.8,
+      "change": -27.54,
+      "changePercent": -3.8499
     },
     "SPY": {
-      "price": 758.44,
-      "change": -10.92,
-      "changePercent": -1.4194
+      "price": 750.75,
+      "change": -18.61,
+      "changePercent": -2.4189
     },
     "SCHD": {
-      "price": 35.827,
-      "change": 0.217,
-      "changePercent": 0.6094
+      "price": 35.734,
+      "change": 0.124,
+      "changePercent": 0.3482
     },
     "VOO": {
-      "price": 697.16,
-      "change": -10.16,
-      "changePercent": -1.4364
+      "price": 691.75,
+      "change": -15.57,
+      "changePercent": -2.2013
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76598.6,
-      "change": -1176.5094,
-      "changePercent": -1.5127
+      "price": 76301.77,
+      "change": -1473.3394,
+      "changePercent": -1.8944
     },
     "ETH": {
-      "price": 2214.6,
-      "change": -34.8983,
-      "changePercent": -1.5514
+      "price": 2229.89,
+      "change": -19.6083,
+      "changePercent": -0.8717
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.605,
-      "change": 0.2222,
-      "changePercent": 0.6862
+      "price": 32.631,
+      "change": 0.2482,
+      "changePercent": 0.7665
     },
     "JPYTWD": {
-      "price": 0.2052,
-      "change": -0.0001,
-      "changePercent": -0.039
+      "price": 0.2048,
+      "change": -0.0005,
+      "changePercent": -0.2338
     },
     "EURTWD": {
-      "price": 36.368,
-      "change": 0.2325,
-      "changePercent": 0.6435
+      "price": 36.454,
+      "change": 0.3185,
+      "changePercent": 0.8815
     },
     "CNYTWD": {
-      "price": 4.9047,
+      "price": 4.9072,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3921.3,
-    "twd": 4111.0,
-    "tael": 154148.0,
-    "twdTotal": 127854.0,
-    "changePercent": -2.7311
+    "usd": 3887.4,
+    "twd": 4078.0,
+    "tael": 152937.0,
+    "twdTotal": 126850.0,
+    "changePercent": -3.572
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股早盤／科技股賣壓超重 那指摔近3% 費半廢 英特爾暴跌29% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uSllvUzRCWnpOMlp0UU5xeHJaYTl0Mkx1UmpnN1FRcDg4X0VORWxVdl82TTc2UVJjVjR4WDhzMURFV29yYXZHTFVGV2FYSzhE?oc=5"
+      "title": "美股早盤／科技股賣壓超重 那指摔近3% 費半廢 英特爾暴跌29% - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKa1NVckdCZjd4YmV6cm9QRFYxUlRTS3hlYldqVFZnWmZaN2NxYXhkU1Zja1g1YldtVGNZUGx3UWdnRktJSkpCN2Z2TEUwLUl0M3FZTUdKMWlUMTZM0gFiQVVfeXFMT0VFcXBwdElOOUdCaW4yeWtLbU1UeFRVLVFTS2twelpCMC1jN2l5OGt6bElHUHRHc2Z4WGdOOVVWZEFJYjZHUXVRazZxajBiNkJWY2x1MnVyU0VYTDZkUURsVHc?oc=5"
     },
     {
-      "title": "【美股盤前1030】Amazon財報怎麼了！自由現金流再成焦點？｜豐雲學堂 2026 年 10 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPWnhUMlFoRzJ0cFhLQndlTGtsV3pmWFc5VVp2OFhjX2J6UC1aN21mUkNiVFhnTTBnWW5TZGs4TU9OLWxVNkJCYUJsU2tUTndwVzhKRXdjMjNycGliTTlhS0E3aURJZ2pKekhmRUFWWlI4TTVyMU4wYVplMXlvLXNrQzUzVlNEYkw4NEZYR1RkMFZWYXYyV3UtNDZlRnRUNzZyNWJzZm8xVzhCV0Y1UmdFUVFxOVZMdjFCNE1kcHJWT1ZmOTFsOVdyUlZiaEY5MmR6bzlqZFBtMlk3RTgxUWp0LTF6OGlxRDcyRmJtN2ozNlg4NktneWhGY1A3aVo4SkdTbkVReHB3d2xKOTNxd2hpdnIzX2dyWDNNVUtiYVhzbGtvZTJjTGJaREF3b3FDX2xMM0NhY09wRE8tTlY1SlJ3NHl6LXlzU2xEaEhXY21ES3FlSjZhYU9LX29IRmRzMm5kQmtlcXRnWnA0Sk5CQVpV?oc=5"
+      "title": "美股大跌前跡象？Google、Intel、Amazon財報連發！35年數據告訴你！｜豐雲學堂2026 年 10 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOQzVWa0lUQnJiWFJ4aTFOc0U1dFFRYm9wczM5V2Ewa2dqMmxJNzNDZXZOcU5FMHVHemUtX2hQaEFNYzZkYVktYXJhZFZmTENodWczR0FJbXVGejVsZElPQVhBdC1YcGlOTFNWbXIzM3J2X25Nd3c4eVBTVmdkQU9Fd2FSeVFFSXFabnRFaDYyMk13aVZkcnRGdTlxY0tDWjRGeGtUVjlYeEphR2FxU0RYam1pelpFT010amxPeVoxUi1Tbkl2akpYdnMzSW1BQ0ZacWtyMWRHUkwtQm53T3RjYUl5VTdnWDNwRWdMZ0pHNXpEQ3Job0l1MzlQSG5neERjOTRRV3NLZXJWbUVfMTRFbjNMeERDS2FyY3gxa2d6THdMMHlDTkFCODg4Z29iRXk1bjBMLUdCVGpjLThVR044M2czWmRLVjZqR1l4QVdVaDBGOG5uaTduMXU2c3djNmNwWDRDSEpNaXRtamVSMnE5Vw?oc=5"
+    },
+    {
+      "title": "美股亮罕見警訊！關鍵指標飆近70年新高 兩場大熊市曾出現 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UMWxGZ0tjVlBqaVRlRWNBdUhOREhVbGJxRVlqRWVDeDlkdzVxUHd1Y1F3V3NUa2hTdEdYRHhXYnFfX0k4RElnMUM4V1R6Nm8?oc=5"
+    },
+    {
+      "title": "美股科技股全面跳水！台指期夜盤急殺700點 網嚇：黑色星期一要來了 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPNHVpSXFsVzhGemhGdU43aWJJMy1qSnR2cHRrZHBVTnVkLUgwdlFiZ2ZOTUdJNmgyQ3hQZVNvamE2N2w0S3NlTzg0VDNaSUVCRU54VVFVc0hWekVEVjZyNEhnaXZ0NkpoUkd2RVFsaVM0UmNiVzIxNW1WZ2w4cGxqUk5BeXE0cE9jQVdsMFRiTU1aLW03YUdDbjV0T0VKSEJkUVVNSEFnSzZqWjlfYWdUd1lLQVRLNDJib3NDMDY5b2JmRDhGMncyN09OZ1FoX2lRaV90Z19sRlZuVkN4MnljXzZiX0VranVHV1RuRmNpWGMtRHVpTWtGZ1V6MGFTV3lSeXJVRnJhTTVrN2RFZVM3MzRJYnQ3LTVmbVB2RXZSZENXMWdoTjFKN1A3X0ZqRGduYmVweEtYQXdDbWpLOEI5UXE2V1VRXzg5dmFHSmZEMjNuY082cktrVF9TakRRZzZzTVNRWjFoNGhoTG04X2V5VFNiZVpvTW5SdEVzanM1cUlKX0dCX1JESnU1b0dVUnlibW5aVQ?oc=5"
+    },
+    {
+      "title": "美股科技股崩盤！台指期夜盤跌破4.5萬大關　台股狂瀉1156點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKa3Z2d1JPcUtnczhWa0VZM2hDVmxNaXFJbWE2SDJBbE9nWGw0UjF6NGwyT0hiTnhlcDZILTAxTjBFbG5remZjdXM0WW1VYmNtbHfSAVBBVV95cUxPMTNuVXRhM1NkcnQ4NWc2bEp1czNfVFpQR2dBeUhxZzFUd0RSZXMzVkhlOHVKTlJCcHE0dGhlNVFzV0F1a25JLUJUY0VIQmJEZg?oc=5"
+    },
+    {
+      "title": "亞馬遜、英特爾Q3財報再掀AI憂慮美股開盤急瀉- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VdVhLZWJKSG9hQkFfek9BV0RhOVY3Z1N1OEFpUy1XcWMwNkFvam5yeWt2UnNsMDJQdEdhUEZEOXUtYXJqb3hUeDFGQlA3MUpCY3dscEtiWUxpY1R2UUdJ?oc=5"
     },
     {
       "title": "美股開盤英特爾暴跌近26%！AI 燒錢焦慮升溫，科技股承壓嚴重| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLThZbXhCbkNCY0RWS19hYlBSSGZVcGdhUUhQcXhlQXdheTJ4cUlpSUJiSzRYLWN2dnU1Wkx5b3JlLU5oUjBqV2NnNE9jUVpIcktjZjM1aTE2SXItQ21zaFQwZjFwQjc3RE1iWEo4WG5YY1VzeC1raFFVdGtNUUIwbE1XTC04VnpvTHJUQnRLLVM?oc=5"
     },
     {
-      "title": "〈美股盤後〉Alphabet狂瀉12% Marvell暴跌逾13% 拖累那指費半 標普終止連三紅 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNN0lOazVCX3N5UDFld21WazRYS21QZlBvOElFdUNTZ2tsRlRjNlFFTFF6UTVRR3RmUVVqdUlRNHVCNGlTODVXRjY3UHFBbi1abldUcXhpOEVhZkZYMEFVOEEzc0MtTnBwQTk0Zldlc1B2UmhDNmRJbmh4UUNBMXZ0MUFHb1AtejRmMFZaMnM4MkRQYkhIbzA1VjRnbVFveTh0OFIwN0d4NktqUE5qRjdiLUVGaldvU3J0S2FGMGV2cTRfY1Zfckh0UzdJRVRXZEN1UGhNamNFaHhWc2czakVPYm80WXRTWHA4VmFFOGNSa1JSMWRKNEw5SlRiUG1pRmhwU2NoZ0xGd05QUW92OTZlSGVKdGhSSXlVNmtLaEl4b21sZUlnNlFtS3M1STg3UGxzSnZCWktyTzROdXBtaFl6enFXU1VzYTlQc0tiWFlkZHozWjNxNXktMHk4S2ZUcTZuWFZZbFVjcXExN1J5azd2dmVFVnpUY1JmS3pyLWNWQ2VVdw?oc=5"
-    },
-    {
-      "title": "黃金大跌！下一步走勢專家全說了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zb0Y0U05UVkZoekQ5QlA2ZlRrUTllVm5mUXRYOG5lSzVncjRPRGhxTEdtNmFGNjNodnRKLTlLYjBtTDZGQS1tYV81YWY5REU1MElHQ1pqdGhBY2pZMU5j0gFkQVVfeXFMTnhCYUZLcXBfYkdvZGR6NjJjOEdyeGstTEV2WkxBZnpSMjhpZUhJOFdBcEtaejFaQVdiV0ZKTFpScUh0V3RaQjUtdnVTRGNvc3JlVzYtTE5TTkRrRjFQazI3cUNncg?oc=5"
-    },
-    {
-      "title": "美股｜Alphabet崩12％ 4大指數全倒 台積、聯電ADR走跌- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1raUFlLXpSblVTX0dhVDBiMFNMZzZNVnY5aURoTHYyNkd3NER1S3E1M1VIaEZXbmtkTkExd0JWUTdMbldOZ3g5S2MyRE5oZW5peEc5bnFpU0RoNWU2SF9Z?oc=5"
-    },
-    {
-      "title": "美股收盤／Alphabet 崩跌近13% 市值蒸發近5,000億美元 費半結束四連漲 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FbnliYU0tRXhqQ0g5Qk45d2Vpc2U1Q0hjek5RSEZvcDQxd2dvV1lJS3c2M3NSRE1SbEZqYl90V0lkeTJQV1NnQTZEa1Vla28yM3FBYlVRTTFBVFlr0gFiQVVfeXFMTW1ybzZ5bkZlaER3a0hWMzFxSGp5cTc3REFDejlCQ0txa3JhWFRLaDlFRTdiSkdVcExsQ1RjX1pjRHZ3QlQyTUx0eHc5V0VXU2QyNHVXNG9iaGluaVgwaU5oUlE?oc=5"
-    },
-    {
-      "title": "英特爾盤後狂瀉20%！美股收黑、台積電ADR跌1.75% 台指期夜盤失守4萬6 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNSkFHVWR4a2EyVlpHZ1BQMXA1Xy1Za2VOQ1ZheWJuTmI2Y1FHa0dEd3dYSTZlWWp6dVRaWGlzN2hwUmo4MzhNWFVKTHctM1ZOblBNb09RZkpGWGxVYnFmWXA0azFpaWZDUzNNbGUxRk5PQ3F3WkZWbDJjRHd2cUI3NEQtT2c1UWdNOUthVEdUMnhsWWhaMTFxS1N3aGY4RTZhVlFoTzRTNlhjeVlqem5JbnBFN1l6cnJZX1JnUHNsRHdSM1c3SXdjU0VFWFRDbUFLQlp3LXpkVDlkOHZQaDlpeEM4Z2s1dXc2M1M5WGhRSzJoT3FvNHM3TnRpcjFhX0VJTWVvSmJsRXpDVF94NDRjRmZCUGN2Tzd3N0dCQkloU3ZfTC1FLXU3NUdaZUQ4N3BlN2V3M3hrY2lKcW5aaEhPd3R2QkVGajNoMUw0d1dWSjJDTC1iZjhiUXVLS1dRRHpKUVhIcGZYTzVJU2hIaTdPdzgtWlhWdHBIeEUyempaOUJJUQ?oc=5"
+      "title": "【美股科技股崩盤！台指期夜盤跌破4.5萬大關 台股狂瀉1156點】 （#起啵） - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNQW96Y1g2SUlKU0t6d2tDRC1STFphbXlYV3YtUXVBci1MakhWTC1xOWNVSHh4Yy10TXpVWkpBa2NPMmFuR09kVUxXR2FuRUpDaHpKSGFMMWpNcjFuSGZhTG9LVFF1TTNvVmZvNTJGYm93VUVMeHRsX05idGhVa3d1ZkdQNElTTHJZVU9WQU1HU1J5eHlkRlU5dkt0SHdnM1BGNGtzV2NLcXF1UnZmQlFZVTBTZVJSRTVzTi1LNU9aSWhtOGQxSUx5bUgzcl93Q19kMG4zNFRONHhiQTZ3NVpEVUdXem8xRWpaLUJWTV95YzdnWjhYaVIydE5Tc2oyaU9NTjNIX0NiUEYxdExIVkxfVzlPU3dpcDJYRVY1SG5WY1ZxaDJ2UFpFYk9mTEJSelNNbkdlZUdEVERIU29ydFJTUWZHOUdMcVA0MnQwdE95c2N2czREYkJxMTFtX3gyd3NHZlNCV1pqQTFxUGMyVW15QTdDdFhCdkcwQTVUTTBlYW5PUGJyWk93SlZmRDNrejRJNnc?oc=5"
     }
   ]
 }
