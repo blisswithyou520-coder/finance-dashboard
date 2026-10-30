@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/31 03:34",
+  "updated_tw": "10/31 07:15",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -35,58 +35,58 @@
   },
   "us": {
     "NVDA": {
-      "price": 203.38,
-      "change": -10.28,
-      "changePercent": -4.8114
+      "price": 204.64,
+      "change": -9.02,
+      "changePercent": -4.2217
     },
     "AAPL": {
-      "price": 343.82,
-      "change": -5.09,
-      "changePercent": -1.4588
+      "price": 344.63,
+      "change": -4.28,
+      "changePercent": -1.2267
     },
     "TSLA": {
-      "price": 398.53,
-      "change": -4.77,
-      "changePercent": -1.1827
+      "price": 399.81,
+      "change": -3.49,
+      "changePercent": -0.8654
     },
     "QQQ": {
-      "price": 687.8,
-      "change": -27.54,
-      "changePercent": -3.8499
+      "price": 690.49,
+      "change": -24.85,
+      "changePercent": -3.4739
     },
     "SPY": {
-      "price": 750.75,
-      "change": -18.61,
-      "changePercent": -2.4189
+      "price": 755.72,
+      "change": -13.64,
+      "changePercent": -1.7729
     },
     "SCHD": {
-      "price": 35.734,
-      "change": 0.124,
-      "changePercent": 0.3482
+      "price": 35.78,
+      "change": 0.17,
+      "changePercent": 0.4774
     },
     "VOO": {
-      "price": 691.75,
-      "change": -15.57,
-      "changePercent": -2.2013
+      "price": 694.81,
+      "change": -12.51,
+      "changePercent": -1.7686
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76301.77,
-      "change": -1473.3394,
-      "changePercent": -1.8944
+      "price": 76903.09,
+      "change": -872.0194,
+      "changePercent": -1.1212
     },
     "ETH": {
-      "price": 2229.89,
-      "change": -19.6083,
-      "changePercent": -0.8717
+      "price": 2234.7,
+      "change": -14.7983,
+      "changePercent": -0.6578
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.631,
-      "change": 0.2482,
-      "changePercent": 0.7665
+      "price": 32.605,
+      "change": 0.2222,
+      "changePercent": 0.6862
     },
     "JPYTWD": {
       "price": 0.2048,
@@ -94,9 +94,9 @@
       "changePercent": -0.2338
     },
     "EURTWD": {
-      "price": 36.454,
-      "change": 0.3185,
-      "changePercent": 0.8815
+      "price": 36.427,
+      "change": 0.2915,
+      "changePercent": 0.8068
     },
     "CNYTWD": {
       "price": 4.9072,
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 3887.4,
-    "twd": 4078.0,
-    "tael": 152937.0,
-    "twdTotal": 126850.0,
-    "changePercent": -3.572
+    "usd": 3884.9,
+    "twd": 4072.0,
+    "tael": 152717.0,
+    "twdTotal": 126667.0,
+    "changePercent": -3.634
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,20 +117,28 @@
   },
   "news": [
     {
-      "title": "美股早盤／科技股賣壓超重 那指摔近3% 費半廢 英特爾暴跌29% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKa1NVckdCZjd4YmV6cm9QRFYxUlRTS3hlYldqVFZnWmZaN2NxYXhkU1Zja1g1YldtVGNZUGx3UWdnRktJSkpCN2Z2TEUwLUl0M3FZTUdKMWlUMTZM0gFiQVVfeXFMT0VFcXBwdElOOUdCaW4yeWtLbU1UeFRVLVFTS2twelpCMC1jN2l5OGt6bElHUHRHc2Z4WGdOOVVWZEFJYjZHUXVRazZxajBiNkJWY2x1MnVyU0VYTDZkUURsVHc?oc=5"
+      "title": "費半重挫7.2%，華爾街殺紅眼！美股暴跌3大元凶曝光 - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ybGQ1UjNCVzFqWm1Va3ltdGFvRDdiemlkTm1tX2NQT2NPV3NlS2R2WUU2cFFXRnU3Y2N3T2I0VDhkSXlvTmdMSDVCOFl0Zw?oc=5"
+    },
+    {
+      "title": "美股崩盤拖累! 台股盤中狂瀉1642點 失守半年線 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQaEx2UmRvb3o2anJzWW90Nm1GM0NvS0cteDB0NWlWNFVsQnV1OEdTSTAwem9aOGtXbUZuYUNjSXAzUHlEZVpMOXkybnpvTWF1SEJPU0lRQTFFcG9Lakl3eEtwdEZ0QTFtVExsUGcyT0w2b3J3aUxhNmZ0UEEwbXZKSjNkYXNqcm5WZElJWFliRk9Rc21UcjVtQnFYLTJVblpxMUQzR0F2aGJ2MWduUGZ5TG1ld2ktY0R3QjJCeDN5NzlUX011RC1nMncwZ0MwN3NoUWNvbjc5dXI1NnV6MFJVMDhvcC1EVlNzYU1WVDI4eEVJMVQ3RVA5eXhCMFE4dXBLcGRGMlpuYTJnQkN2ei1NblJMeDZhNXFod2JSOTBBMlpxazNSdjdiVjVHYjJDZTZqV3FXZEFVRGZvX0k?oc=5"
+    },
+    {
+      "title": "美股收盤》英特爾崩逾28％！科技股慘跌 台積電ADR重摔近6％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mSG1lR09Ral9WTHZxeDJpVzhNR3hlbDE0UlVEaDMxcHRqbTFYUDlhYlFzUjhwRi1lUmE5YjJZS2o1cGlaSUNtRzdaZUZxWmhtQVZ6ZXF5RDNEbnNkSEJZ0gFkQVVfeXFMUEpMZkdUV1Jydm9UaTBHS3dwZGtXLVA0ZGNMUG5xTTBNbUJyMFBFc1NEdXNJNTA3M19wYk5lRXluSnVZdmxjOWtLTmVMZ1ZmRURBMzZiQUk0Q1pSbHk1OVVzV0d2ZA?oc=5"
     },
     {
       "title": "美股大跌前跡象？Google、Intel、Amazon財報連發！35年數據告訴你！｜豐雲學堂2026 年 10 月 - 永豐金證券",
       "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOQzVWa0lUQnJiWFJ4aTFOc0U1dFFRYm9wczM5V2Ewa2dqMmxJNzNDZXZOcU5FMHVHemUtX2hQaEFNYzZkYVktYXJhZFZmTENodWczR0FJbXVGejVsZElPQVhBdC1YcGlOTFNWbXIzM3J2X25Nd3c4eVBTVmdkQU9Fd2FSeVFFSXFabnRFaDYyMk13aVZkcnRGdTlxY0tDWjRGeGtUVjlYeEphR2FxU0RYam1pelpFT010amxPeVoxUi1Tbkl2akpYdnMzSW1BQ0ZacWtyMWRHUkwtQm53T3RjYUl5VTdnWDNwRWdMZ0pHNXpEQ3Job0l1MzlQSG5neERjOTRRV3NLZXJWbUVfMTRFbjNMeERDS2FyY3gxa2d6THdMMHlDTkFCODg4Z29iRXk1bjBMLUdCVGpjLThVR044M2czWmRLVjZqR1l4QVdVaDBGOG5uaTduMXU2c3djNmNwWDRDSEpNaXRtamVSMnE5Vw?oc=5"
     },
     {
-      "title": "美股亮罕見警訊！關鍵指標飆近70年新高 兩場大熊市曾出現 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UMWxGZ0tjVlBqaVRlRWNBdUhOREhVbGJxRVlqRWVDeDlkdzVxUHd1Y1F3V3NUa2hTdEdYRHhXYnFfX0k4RElnMUM4V1R6Nm8?oc=5"
+      "title": "〈美股盤後〉英特爾暴跌近29% 費半下殺超7% 記憶體ETF DRAM單月崩約20% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByZjdnRGFsWGFaZU1FQlVCRDJYUDg0aDlicG9PNmF0VS10RTJYMkFyamVMSldfcThUbTZmb0JqSGFhZjFiVEhUb2lOc0hBNTQ?oc=5"
     },
     {
-      "title": "美股科技股全面跳水！台指期夜盤急殺700點 網嚇：黑色星期一要來了 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPNHVpSXFsVzhGemhGdU43aWJJMy1qSnR2cHRrZHBVTnVkLUgwdlFiZ2ZOTUdJNmgyQ3hQZVNvamE2N2w0S3NlTzg0VDNaSUVCRU54VVFVc0hWekVEVjZyNEhnaXZ0NkpoUkd2RVFsaVM0UmNiVzIxNW1WZ2w4cGxqUk5BeXE0cE9jQVdsMFRiTU1aLW03YUdDbjV0T0VKSEJkUVVNSEFnSzZqWjlfYWdUd1lLQVRLNDJib3NDMDY5b2JmRDhGMncyN09OZ1FoX2lRaV90Z19sRlZuVkN4MnljXzZiX0VranVHV1RuRmNpWGMtRHVpTWtGZ1V6MGFTV3lSeXJVRnJhTTVrN2RFZVM3MzRJYnQ3LTVmbVB2RXZSZENXMWdoTjFKN1A3X0ZqRGduYmVweEtYQXdDbWpLOEI5UXE2V1VRXzg5dmFHSmZEMjNuY082cktrVF9TakRRZzZzTVNRWjFoNGhoTG04X2V5VFNiZVpvTW5SdEVzanM1cUlKX0dCX1JESnU1b0dVUnlibW5aVQ?oc=5"
+      "title": "美股早盤／科技股賣壓超重 那指摔近3% 費半廢 英特爾暴跌29% - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKa1NVckdCZjd4YmV6cm9QRFYxUlRTS3hlYldqVFZnWmZaN2NxYXhkU1Zja1g1YldtVGNZUGx3UWdnRktJSkpCN2Z2TEUwLUl0M3FZTUdKMWlUMTZM0gFiQVVfeXFMT0VFcXBwdElOOUdCaW4yeWtLbU1UeFRVLVFTS2twelpCMC1jN2l5OGt6bElHUHRHc2Z4WGdOOVVWZEFJYjZHUXVRazZxajBiNkJWY2x1MnVyU0VYTDZkUURsVHc?oc=5"
     },
     {
       "title": "美股科技股崩盤！台指期夜盤跌破4.5萬大關　台股狂瀉1156點 - ETtoday財經雲",
@@ -139,14 +147,6 @@
     {
       "title": "亞馬遜、英特爾Q3財報再掀AI憂慮美股開盤急瀉- 國際 - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VdVhLZWJKSG9hQkFfek9BV0RhOVY3Z1N1OEFpUy1XcWMwNkFvam5yeWt2UnNsMDJQdEdhUEZEOXUtYXJqb3hUeDFGQlA3MUpCY3dscEtiWUxpY1R2UUdJ?oc=5"
-    },
-    {
-      "title": "美股開盤英特爾暴跌近26%！AI 燒錢焦慮升溫，科技股承壓嚴重| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLThZbXhCbkNCY0RWS19hYlBSSGZVcGdhUUhQcXhlQXdheTJ4cUlpSUJiSzRYLWN2dnU1Wkx5b3JlLU5oUjBqV2NnNE9jUVpIcktjZjM1aTE2SXItQ21zaFQwZjFwQjc3RE1iWEo4WG5YY1VzeC1raFFVdGtNUUIwbE1XTC04VnpvTHJUQnRLLVM?oc=5"
-    },
-    {
-      "title": "【美股科技股崩盤！台指期夜盤跌破4.5萬大關 台股狂瀉1156點】 （#起啵） - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNQW96Y1g2SUlKU0t6d2tDRC1STFphbXlYV3YtUXVBci1MakhWTC1xOWNVSHh4Yy10TXpVWkpBa2NPMmFuR09kVUxXR2FuRUpDaHpKSGFMMWpNcjFuSGZhTG9LVFF1TTNvVmZvNTJGYm93VUVMeHRsX05idGhVa3d1ZkdQNElTTHJZVU9WQU1HU1J5eHlkRlU5dkt0SHdnM1BGNGtzV2NLcXF1UnZmQlFZVTBTZVJSRTVzTi1LNU9aSWhtOGQxSUx5bUgzcl93Q19kMG4zNFRONHhiQTZ3NVpEVUdXem8xRWpaLUJWTV95YzdnWjhYaVIydE5Tc2oyaU9NTjNIX0NiUEYxdExIVkxfVzlPU3dpcDJYRVY1SG5WY1ZxaDJ2UFpFYk9mTEJSelNNbkdlZUdEVERIU29ydFJTUWZHOUdMcVA0MnQwdE95c2N2czREYkJxMTFtX3gyd3NHZlNCV1pqQTFxUGMyVW15QTdDdFhCdkcwQTVUTTBlYW5PUGJyWk93SlZmRDNrejRJNnc?oc=5"
     }
   ]
 }
