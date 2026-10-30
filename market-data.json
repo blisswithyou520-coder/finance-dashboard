@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/30 05:18",
+  "updated_tw": "10/30 09:14",
   "taiwan": {
     "2330": {
       "price": 2415.0,
@@ -36,80 +36,80 @@
   "us": {
     "NVDA": {
       "price": 213.66,
-      "change": -1.72,
-      "changePercent": -0.7986
+      "change": -4.28,
+      "changePercent": -1.9638
     },
     "AAPL": {
       "price": 348.91,
-      "change": 5.08,
-      "changePercent": 1.4775
+      "change": 1.81,
+      "changePercent": 0.5215
     },
     "TSLA": {
       "price": 403.3,
-      "change": -0.92,
-      "changePercent": -0.2276
+      "change": -4.16,
+      "changePercent": -1.021
     },
     "QQQ": {
       "price": 715.34,
-      "change": -10.27,
-      "changePercent": -1.4154
+      "change": -5.91,
+      "changePercent": -0.8194
     },
     "SPY": {
       "price": 769.36,
-      "change": -2.95,
-      "changePercent": -0.382
+      "change": -0.3,
+      "changePercent": -0.039
     },
     "SCHD": {
       "price": 35.61,
-      "change": 0.52,
-      "changePercent": 1.4819
+      "change": 0.49,
+      "changePercent": 1.3952
     },
     "VOO": {
       "price": 707.32,
-      "change": -2.58,
-      "changePercent": -0.3634
+      "change": -0.2,
+      "changePercent": -0.0283
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79385.8,
-      "change": -1881.7859,
-      "changePercent": -2.3155
+      "price": 77134.69,
+      "change": -4132.8959,
+      "changePercent": -5.0855
     },
     "ETH": {
-      "price": 2281.5,
-      "change": -76.124,
-      "changePercent": -3.2288
+      "price": 2222.58,
+      "change": -135.044,
+      "changePercent": -5.728
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.587,
-      "change": 0.1615,
-      "changePercent": 0.4981
+      "price": 32.617,
+      "change": 0.2342,
+      "changePercent": 0.7232
     },
     "JPYTWD": {
-      "price": 0.2043,
-      "change": -0.0009,
-      "changePercent": -0.4561
+      "price": 0.205,
+      "change": -0.0003,
+      "changePercent": -0.1364
     },
     "EURTWD": {
-      "price": 36.46,
-      "change": 0.3808,
-      "changePercent": 1.0553
+      "price": 36.561,
+      "change": 0.4255,
+      "changePercent": 1.1776
     },
     "CNYTWD": {
-      "price": 4.8992,
+      "price": 4.894,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4033.3,
-    "twd": 4226.0,
-    "tael": 158463.0,
-    "twdTotal": 131433.0,
-    "changePercent": -0.4517
+    "usd": 4013.0,
+    "twd": 4208.0,
+    "tael": 157810.0,
+    "twdTotal": 130892.0,
+    "changePercent": -0.9527
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股開盤變臉！AI成本飆升引爆恐慌 3大指數全下跌 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPMHdoN3o3SXM2cWJaWERWOEhpZGhBbllGNDhFakpiSjZVVnFPbzk3cF92ZU9aN0plLTdTM2JtY1B6RzFfZW4wQlRXaHVZM05ZdUJ5TnNpNURyS0NuaktLa2ZJOURyTVFoVEgyd2FLaHdqU2VManducDd4SXZrR0NsLXQ5NlROQjBtMlNGVVFqb0NONkd1NS1ka0E1TWVwM1dVR0tKT0hzd29fRnpXWFZSbzJjMXhNbUxVV2JJcUxMVXJqcGNFOEk1ZDVOZW5id1JNRVdXc1VfdGc4NXo4TkFoWWdGZ2J4cjU2cGM4S1hUR0h4bUJreksyYklNOGNUWnRVSEoxVE5SZHhueDhzOFlRZnFJaHF0VWxVVThsbllKdHhKeEw0cElHWmgwX0d2R2lNT2dWZTk5QmxyVEdpLTJFenRQdEozeWNOZkdiY0JMVHhaQQ?oc=5"
+      "title": "美股收盤／Alphabet 崩跌近13% 市值蒸發近5,000億美元 費半結束四連漲 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FbnliYU0tRXhqQ0g5Qk45d2Vpc2U1Q0hjek5RSEZvcDQxd2dvV1lJS3c2M3NSRE1SbEZqYl90V0lkeTJQV1NnQTZEa1Vla28yM3FBYlVRTTFBVFlr0gFiQVVfeXFMTW1ybzZ5bkZlaER3a0hWMzFxSGp5cTc3REFDejlCQ0txa3JhWFRLaDlFRTdiSkdVcExsQ1RjX1pjRHZ3QlQyTUx0eHc5V0VXU2QyNHVXNG9iaGluaVgwaU5oUlE?oc=5"
     },
     {
-      "title": "美 Q3 GDP 創一年來最大增幅 PCE 符合預期 美股期指跌幅縮 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsMFM2Tml0LW1fOFJhZGRrN2dnUXQ4YlpwejRGdy11aHZMc3N1djdmWFBabGpVUFQzYmxsbWk0WkZDbWU2T0FIVVdwSWxkZjYtaXdKQms3QUR1ZW5j0gFiQVVfeXFMT0M2NnlPYWNNdFVObjY5eDNJdGdVaXZ2SGdpejg5bExWZGZnUkJOclJXNndCRC1yaGxBYVhmSjNIUEpiLVZSREM3a2l5RWtrZl9HUG1tejcxcHhIRXZyUVBQZ2c?oc=5"
+      "title": "Alphabet財報不如預期「美股全面收黑」！台指期夜盤大跌643點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOWkpoZUJLc2pNV052T3ZSbDY5RnRJTXdRMVRJOVQ2NW1WdnZweU14eXg5SXItb2dqRkJzdDIyUjJOaDhQblRyRmt4R1JPNVdzUkFuVGFvQ0F6RVJCeGp1M1cyT0V4QVVxekMxVmhDdHlCZVh6cnh0ZmpXYzRiaF9aRy1oSWV2RlBQcFJaaTVtT1VKbnBSWkZMYWRHSlp4Q0lnSkRNeE51T041T1BnQVhSTk1mUjZ5c2dJMlBJejZpRF9iR3ptNnh0bzRNTURVZzVCbWhTZ1pOWmpGZmpEZGFKb1NXOUZTeWpIY2lHaG5VeDhrWXBROGNRbUpvMWJ3aU5Ic2dUMTdEMkxGWTZkZXlwUXNwR1J5RkY4cG1VTEdvdHdnOHJQbGViZmFiVkkwMk9aUDhrNjg5RnVRWks5UE1LS3BCTHBOUXQxWjFtRm5NZ1Ffd2ZNUVJDUGhleWY?oc=5"
     },
     {
-      "title": "#最新快訊 美股開盤低迷 「4大指數走黑」！ 台指期夜盤跌幅收斂 - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQeDVGRVlmRjlKZTZoU3Q5cUtjb3ZUM1V5VkliMDkybHd6WnFQaGZsb2cxUjMxWEtCXzZnNE5PTjM4T3FkRGMyRnNWeDU5SXRtcDJDZEVxYXY4UHZGNGpOTzYxSEFnUnlkdlVFbUJwZ1hfQXBfTlRjWDc2a0RBMjYwS1RMdkcyYWVXTVpNNDA0M2UwdWhJeHh3a2FrSFhDQ3Y2UUYxbVA4MU9WNXp1aEJzQ1R1TE5Sbm9mUURUVkw3S3R0akxvT19oVk1kbHJtWEJ1dmVpcFpFSUlTWlE0Rld2OXZlaENFRTZPN0R3XzZEYkFxb1BKTVBGV0JocERicHJLM05zeEcxS0JGTEVLTlZCSHFDSFdnSDJmSURsZ2hfb2xJcHowSEJVZkRDZGp4QUN2TVUyWjdDeDhKcVF6SlR2cVJLSnRuRmdXZXBIZFdOX0RCOENLNzcxXzhlUFVxbEZkRmZEeUNSb0VJT0RGU2NMRkJydmdMR2xnaFFoYzRJR290UVNkMVNIN2Z3?oc=5"
+      "title": "美股｜Alphabet崩12％ 4大指數全倒 台積、聯電ADR走跌- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1raUFlLXpSblVTX0dhVDBiMFNMZzZNVnY5aURoTHYyNkd3NER1S3E1M1VIaEZXbmtkTkExd0JWUTdMbldOZ3g5S2MyRE5oZW5peEc5bnFpU0RoNWU2SF9Z?oc=5"
     },
     {
-      "title": "【美股盤前1029】FOMC不升了？後市觀察重點？接著關注Amazon財報｜豐雲學堂2026 年 10 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQWjJwZk5fRmJGTkdtamNsSUNxTTZKcC1jRFNsWi1hcURESW5Ya0thUWEyc2NQUjluUHRlaTh4RDdZOUw1OG9SV2hMb3dBdDJlVXpSNUhFSzN1azI0TlFhdkctWlN3Zm8xOHppaGh2VTRKYi0tSUtnQmk3WkEzTXZyWldzaHVWbTdfUlpManBMQ2RreW5wNGl5c0x1cU9FaGcxbWp4SEgtVXhlcm10MHp2VTB2YUVFTDZIYUNhenhoWmZFZ2VOMHZKYmpyNTFMODZQZkpaSVhyeEl2dTB3NmNiV1d3MHhHWGFnZEZ6UWNmZWF1bXZKZnBTS2VxaGFONkhURkhJd2szNE5GczF3dnBONU1mRXV4TkFzQkUwTGVCMTNzSUR1cWFGWXN6NUtEWXB3M05IN01ENWQ5aXFXdzRwWUpRWV9zT0xMMk1GbTVqakRQWEE5VURaUmZJa1hVVE9hVVlDbXE5Xzh4U2c5QVVwbmhhVld2bVJQZ3pDZ2NueHQ?oc=5"
+      "title": "〈美股盤後〉Alphabet狂瀉12% Marvell暴跌逾13% 拖累那指費半 標普終止連三紅 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5T2loTElZZVJDX0wtOVZCa0U2MzVIQmVtVG5Xc2VGQUZtLVJhNVI2WVpzMmhld2QzTlE3cGVsVWJxN2RmWldKb2ppUzBKRlU?oc=5"
     },
     {
-      "title": "黃金完蛋！摜破4000美元關卡 還寫1慘紀錄 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwRDI1LThhWkFiVUJLM1ZncWJuZ2l2OVF5RkZZc3hzcUpuZmp0N1F6WE9hU0taMmRrWERwUGg4TlBSWVJPWnkyX1MxRlYzWUJSU1YxdDVsYW5EdklreGxR0gFkQVVfeXFMTVJ6ejItTXkyUDJnTGZ0bGNDN2Z5MnllZFRKUEFlRDVKaEUwZjJXc0hTdXpYaUlKTU1fU3hSSHVwejJiN29BQU1HSlhVaHRiaDV0anBQdmN2NUIyOFBtUWl4T0thaA?oc=5"
+      "title": "美股收盤》Alphabet財報後狂瀉逾12％！道瓊跌132點 台積電ADR走低 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FZllsMXd0dFhHR0tFbWxYMkdWWHhMdFFuSHQzNXZ1X09DRDd0ckR3a1hzMlFjdUI0Zk5uSE9rUnNLS3lsNlJpOHNpWVFqeFFTRFRzQXZVWFFyMUJlVGMw0gFkQVVfeXFMTjJjcHlvbnVKeW13d0E4TmtSVzZSejNWZ0txcG1sb2RCRVpKNVZWVU9aMUxJZ0VUclJkX0hvTTR5NjcyQkxxWnBBNEs5VGpyN3ExbDhrSVVXSW1IQ2VDVFpHSTdZag?oc=5"
     },
     {
-      "title": "〈美股盤後〉Fed按兵不動 三大指數連三紅 SK海力士ADR、甲骨文狂飆超10% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DX1VDbG5TSVJlR1FUZGpLNXIyaGZYQ1hNd2xEeXpxVXFoRDlPWGtjYVFOckVVNE1WbEpudl9JOWpTMm1UT2FoTU5fMEs1WTg?oc=5"
+      "title": "《美股》Alphabet跌幅史上最慘邁威爾拖累費半- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXlEeVpwYWFLUmVoaW84Q0dEZjlKV252RVRGbGxrTnd6Nm5LSlRzb1pTVHdOaWhweVpzMXFWR2pXcWI3dEc4b1ZWekJiUllWX05sd1dXT3lkSlNmNTdnbEx6RkRkWU5fdDN3cm5XS2c3andmSTJzNDBxYWlVOXdidjZLb1JsYUlwcV9vYVB5OFlzZw?oc=5"
     },
     {
-      "title": "國泰投顧觀點｜高殖利率環境投資機會：美股風格輪動 新興債勝出 - 鉅亨買基金",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRWlmSFl4ZzBTVUNncHhJNmszSUlOUmk0ZXlIcjJiZ2lFSzBxbUh3N1dqajA5U0hzbU9qTVpENFZlRGFnVTRMeFdmTFhoV3lXUEo0Z0xrTmt1MkVxcEN2N0R5UUdoREdHY2xHUEZqMUlFekIydEY3ai1RdzVwZHp2Uk5HSldBVmx4dzg3WldYdDFCcnNPdEtmUVFB?oc=5"
+      "title": "美股財報／亞馬遜財報遜色 現金流惡化引發盤後跌逾7% - 非凡新聞台",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIX05QakEtS3hnMmZOSXRHVG5oN2dJZjlkM1hZcDhyU0hvWjRFRkRNUWRaZUJrc3dWZE1OT1BJX2lSeklaSlpUZkdiZUNuMUs0QWJRbHY0cm9ldkpRMFZWWg?oc=5"
     },
     {
-      "title": "美銀警告：美股防禦板塊大漲，釋放風險信號！ - 群益期貨",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX3U5M2k2UFkwTXpDQ3F1VWZ2XzFvdEJILXJDU3gtREI0SlctU0NyUHlpcFY2Q2lMYUZIQVNSMGFra3FuSTdnb2ZQWnNKVTlURE9CYkpoelBDYTYwMGpnU2ZiMzFhNkdSRkhBeGVSdnZleWxBdk91cXZheVJvc0F5SVlUamZ3SkRhOVN1b2NudGpJVlZYdVdIU1BrM05nZC1WS2hv?oc=5"
+      "title": "上市20年最慘一天 Alphabet暴跌逾12% 拖累美股 - 世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qRlhuOUVDeEFsSVExTmlTV1RYNU91ZmNqRVhDWHUxQmxJWXhwRnE2dFJWOHowd25uRXFUbWl2NC1aWWdtc09wMnZ1ME5mQ2NpM0gxbV9jbXBzUDltaHVWWnJR0gFnQVVfeXFMT29uSGhQdTJ6RXBPZ0FhZGlLVmlPcl9qdXZTVWNlaS1LTnZUOFVKRVFHb0poYlV5RkRfaGYzSEhEZzhoT1E1ZC1UOFROWG5zaEZvRWdRRWpQSndIZHR5czFrSWU2NmU2dw?oc=5"
     }
   ]
 }
