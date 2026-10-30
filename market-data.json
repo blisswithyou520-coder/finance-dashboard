@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/30 09:14",
+  "updated_tw": "10/30 15:14",
   "taiwan": {
     "2330": {
-      "price": 2415.0,
-      "change": -10.0,
-      "changePercent": -0.4124
+      "price": 2370.0,
+      "change": -45.0,
+      "changePercent": -1.8634
     },
     "2454": {
-      "price": 4045.0,
-      "change": -190.0,
-      "changePercent": -4.4864
+      "price": 3915.0,
+      "change": -130.0,
+      "changePercent": -3.2138
     },
     "2317": {
-      "price": 248.0,
-      "change": -3.5,
-      "changePercent": -1.3917
+      "price": 245.5,
+      "change": -2.5,
+      "changePercent": -1.0081
     },
     "0050": {
-      "price": 107.25,
-      "change": 0.65,
-      "changePercent": 0.6098
+      "price": 104.95,
+      "change": -3.7,
+      "changePercent": -3.4054
     },
     "00878": {
-      "price": 35.3,
-      "change": -0.1,
-      "changePercent": -0.2825
+      "price": 34.81,
+      "change": -0.84,
+      "changePercent": -2.3562
     },
     "00919": {
-      "price": 32.87,
-      "change": 0.12,
-      "changePercent": 0.3664
+      "price": 32.59,
+      "change": -0.31,
+      "changePercent": -0.9423
     }
   },
   "us": {
     "NVDA": {
       "price": 213.66,
-      "change": -4.28,
-      "changePercent": -1.9638
+      "change": -1.72,
+      "changePercent": -0.7986
     },
     "AAPL": {
       "price": 348.91,
-      "change": 1.81,
-      "changePercent": 0.5215
+      "change": 5.08,
+      "changePercent": 1.4775
     },
     "TSLA": {
       "price": 403.3,
-      "change": -4.16,
-      "changePercent": -1.021
+      "change": -0.92,
+      "changePercent": -0.2276
     },
     "QQQ": {
       "price": 715.34,
-      "change": -5.91,
-      "changePercent": -0.8194
+      "change": -10.27,
+      "changePercent": -1.4154
     },
     "SPY": {
       "price": 769.36,
-      "change": -0.3,
-      "changePercent": -0.039
+      "change": -2.95,
+      "changePercent": -0.382
     },
     "SCHD": {
       "price": 35.61,
-      "change": 0.49,
-      "changePercent": 1.3952
+      "change": 0.52,
+      "changePercent": 1.4819
     },
     "VOO": {
       "price": 707.32,
-      "change": -0.2,
-      "changePercent": -0.0283
+      "change": -2.58,
+      "changePercent": -0.3634
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77134.69,
-      "change": -4132.8959,
-      "changePercent": -5.0855
+      "price": 78244.52,
+      "change": -3023.0659,
+      "changePercent": -3.7199
     },
     "ETH": {
-      "price": 2222.58,
-      "change": -135.044,
-      "changePercent": -5.728
+      "price": 2244.86,
+      "change": -112.764,
+      "changePercent": -4.783
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.617,
-      "change": 0.2342,
-      "changePercent": 0.7232
+      "price": 32.615,
+      "change": 0.2322,
+      "changePercent": 0.717
     },
     "JPYTWD": {
-      "price": 0.205,
-      "change": -0.0003,
-      "changePercent": -0.1364
+      "price": 0.2044,
+      "change": -0.0009,
+      "changePercent": -0.4287
     },
     "EURTWD": {
-      "price": 36.561,
-      "change": 0.4255,
-      "changePercent": 1.1776
+      "price": 36.477,
+      "change": 0.3415,
+      "changePercent": 0.9451
     },
     "CNYTWD": {
-      "price": 4.894,
+      "price": 4.8995,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4013.0,
-    "twd": 4208.0,
-    "tael": 157810.0,
-    "twdTotal": 130892.0,
-    "changePercent": -0.9527
+    "usd": 3991.1,
+    "twd": 4185.0,
+    "tael": 156940.0,
+    "twdTotal": 130170.0,
+    "changePercent": -0.9997
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,32 +117,32 @@
   },
   "news": [
     {
+      "title": "美股盤後｜Alphabet賣壓拖累那指、費半、標普多數走揚 1030｜豐雲學堂 2026 年 10 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNQTdFMXFHWjRtNW05VTdHOXlRQ1g3Q18xQWdTMi12U0tueDZ5bkdNY2FrQ1drbTlodjRsalJPcEh4VUZ3V2M0blZqaFc3SWFkY0FzU2hHNDlmdVVqMnI3VFJSUjllVENTSVhwTFhQdXJxVVB2bXBoWGxoajBwcEJoWGM4SFZCa0lqbVB1SzVwenh5LU5rOGpsVENBSWlDTnIzQ2wxRHYtTjI2YmhOQm1MWDRWSUNEd19Ub3FoU3Vmd2RrNDY5WHNPaF9IaUZGdG91QURzb2FjYjBXeDhRSml6RXZSNTZGV1BSRVNEWVF4M3ZDQ3piUGRsUUJnZkY1MmZuTWFISnBINnZDNFEwUFlnZmJpVm5KYi12TGxJUGljN3BxWmI3bmVHSmVlMU9rRFF0aUE3eEdmX21KRG5JM0lBME1yV2l4UHJWZlhlY1RpTXFQSmZDQ2NjVmlGU0NjZ1h6a3dEYkZHWlJJaHNnLURXbTh3?oc=5"
+    },
+    {
       "title": "美股收盤／Alphabet 崩跌近13% 市值蒸發近5,000億美元 費半結束四連漲 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FbnliYU0tRXhqQ0g5Qk45d2Vpc2U1Q0hjek5RSEZvcDQxd2dvV1lJS3c2M3NSRE1SbEZqYl90V0lkeTJQV1NnQTZEa1Vla28yM3FBYlVRTTFBVFlr0gFiQVVfeXFMTW1ybzZ5bkZlaER3a0hWMzFxSGp5cTc3REFDejlCQ0txa3JhWFRLaDlFRTdiSkdVcExsQ1RjX1pjRHZ3QlQyTUx0eHc5V0VXU2QyNHVXNG9iaGluaVgwaU5oUlE?oc=5"
     },
     {
-      "title": "Alphabet財報不如預期「美股全面收黑」！台指期夜盤大跌643點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOWkpoZUJLc2pNV052T3ZSbDY5RnRJTXdRMVRJOVQ2NW1WdnZweU14eXg5SXItb2dqRkJzdDIyUjJOaDhQblRyRmt4R1JPNVdzUkFuVGFvQ0F6RVJCeGp1M1cyT0V4QVVxekMxVmhDdHlCZVh6cnh0ZmpXYzRiaF9aRy1oSWV2RlBQcFJaaTVtT1VKbnBSWkZMYWRHSlp4Q0lnSkRNeE51T041T1BnQVhSTk1mUjZ5c2dJMlBJejZpRF9iR3ptNnh0bzRNTURVZzVCbWhTZ1pOWmpGZmpEZGFKb1NXOUZTeWpIY2lHaG5VeDhrWXBROGNRbUpvMWJ3aU5Ic2dUMTdEMkxGWTZkZXlwUXNwR1J5RkY4cG1VTEdvdHdnOHJQbGViZmFiVkkwMk9aUDhrNjg5RnVRWks5UE1LS3BCTHBOUXQxWjFtRm5NZ1Ffd2ZNUVJDUGhleWY?oc=5"
+      "title": "英特爾盤後狂瀉20%！美股收黑、台積電ADR跌1.75% 台指期夜盤失守4萬6 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNSkFHVWR4a2EyVlpHZ1BQMXA1Xy1Za2VOQ1ZheWJuTmI2Y1FHa0dEd3dYSTZlWWp6dVRaWGlzN2hwUmo4MzhNWFVKTHctM1ZOblBNb09RZkpGWGxVYnFmWXA0azFpaWZDUzNNbGUxRk5PQ3F3WkZWbDJjRHd2cUI3NEQtT2c1UWdNOUthVEdUMnhsWWhaMTFxS1N3aGY4RTZhVlFoTzRTNlhjeVlqem5JbnBFN1l6cnJZX1JnUHNsRHdSM1c3SXdjU0VFWFRDbUFLQlp3LXpkVDlkOHZQaDlpeEM4Z2s1dXc2M1M5WGhRSzJoT3FvNHM3TnRpcjFhX0VJTWVvSmJsRXpDVF94NDRjRmZCUGN2Tzd3N0dCQkloU3ZfTC1FLXU3NUdaZUQ4N3BlN2V3M3hrY2lKcW5aaEhPd3R2QkVGajNoMUw0d1dWSjJDTC1iZjhiUXVLS1dRRHpKUVhIcGZYTzVJU2hIaTdPdzgtWlhWdHBIeEUyempaOUJJUQ?oc=5"
+    },
+    {
+      "title": "黃金大跌！下一步走勢專家全說了 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zb0Y0U05UVkZoekQ5QlA2ZlRrUTllVm5mUXRYOG5lSzVncjRPRGhxTEdtNmFGNjNodnRKLTlLYjBtTDZGQS1tYV81YWY5REU1MElHQ1pqdGhBY2pZMU5j0gFkQVVfeXFMTnhCYUZLcXBfYkdvZGR6NjJjOEdyeGstTEV2WkxBZnpSMjhpZUhJOFdBcEtaejFaQVdiV0ZKTFpScUh0V3RaQjUtdnVTRGNvc3JlVzYtTE5TTkRrRjFQazI3cUNncg?oc=5"
     },
     {
       "title": "美股｜Alphabet崩12％ 4大指數全倒 台積、聯電ADR走跌- 國際 - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1raUFlLXpSblVTX0dhVDBiMFNMZzZNVnY5aURoTHYyNkd3NER1S3E1M1VIaEZXbmtkTkExd0JWUTdMbldOZ3g5S2MyRE5oZW5peEc5bnFpU0RoNWU2SF9Z?oc=5"
     },
     {
-      "title": "〈美股盤後〉Alphabet狂瀉12% Marvell暴跌逾13% 拖累那指費半 標普終止連三紅 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5T2loTElZZVJDX0wtOVZCa0U2MzVIQmVtVG5Xc2VGQUZtLVJhNVI2WVpzMmhld2QzTlE3cGVsVWJxN2RmWldKb2ppUzBKRlU?oc=5"
-    },
-    {
-      "title": "美股收盤》Alphabet財報後狂瀉逾12％！道瓊跌132點 台積電ADR走低 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FZllsMXd0dFhHR0tFbWxYMkdWWHhMdFFuSHQzNXZ1X09DRDd0ckR3a1hzMlFjdUI0Zk5uSE9rUnNLS3lsNlJpOHNpWVFqeFFTRFRzQXZVWFFyMUJlVGMw0gFkQVVfeXFMTjJjcHlvbnVKeW13d0E4TmtSVzZSejNWZ0txcG1sb2RCRVpKNVZWVU9aMUxJZ0VUclJkX0hvTTR5NjcyQkxxWnBBNEs5VGpyN3ExbDhrSVVXSW1IQ2VDVFpHSTdZag?oc=5"
-    },
-    {
       "title": "《美股》Alphabet跌幅史上最慘邁威爾拖累費半- 新聞 - MoneyDJ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXlEeVpwYWFLUmVoaW84Q0dEZjlKV252RVRGbGxrTnd6Nm5LSlRzb1pTVHdOaWhweVpzMXFWR2pXcWI3dEc4b1ZWekJiUllWX05sd1dXT3lkSlNmNTdnbEx6RkRkWU5fdDN3cm5XS2c3andmSTJzNDBxYWlVOXdidjZLb1JsYUlwcV9vYVB5OFlzZw?oc=5"
     },
     {
-      "title": "美股財報／亞馬遜財報遜色 現金流惡化引發盤後跌逾7% - 非凡新聞台",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIX05QakEtS3hnMmZOSXRHVG5oN2dJZjlkM1hZcDhyU0hvWjRFRkRNUWRaZUJrc3dWZE1OT1BJX2lSeklaSlpUZkdiZUNuMUs0QWJRbHY0cm9ldkpRMFZWWg?oc=5"
+      "title": "〈美股盤後〉Alphabet狂瀉12% Marvell暴跌逾13% 拖累那指費半 標普終止連三紅 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5T2loTElZZVJDX0wtOVZCa0U2MzVIQmVtVG5Xc2VGQUZtLVJhNVI2WVpzMmhld2QzTlE3cGVsVWJxN2RmWldKb2ppUzBKRlU?oc=5"
     },
     {
       "title": "上市20年最慘一天 Alphabet暴跌逾12% 拖累美股 - 世界新聞網",
