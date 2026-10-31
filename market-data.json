@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/31 16:46",
+  "updated_tw": "10/31 23:03",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 104.95,
-      "change": -3.7,
-      "changePercent": -3.4054
+      "change": -2.3,
+      "changePercent": -2.1445
     },
     "00878": {
       "price": 34.81,
-      "change": -0.84,
-      "changePercent": -2.3562
+      "change": -0.49,
+      "changePercent": -1.3881
     },
     "00919": {
       "price": 32.59,
-      "change": -0.31,
-      "changePercent": -0.9423
+      "change": -0.28,
+      "changePercent": -0.8518
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77182.32,
-      "change": -15.8909,
-      "changePercent": -0.0206
+      "price": 77285.32,
+      "change": 87.1091,
+      "changePercent": 0.1128
     },
     "ETH": {
-      "price": 2237.86,
-      "change": -3.1944,
-      "changePercent": -0.1425
+      "price": 2244.33,
+      "change": 3.2756,
+      "changePercent": 0.1462
     }
   },
   "fx": {
@@ -115,5 +115,38 @@
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": []
+  "news": [
+    {
+      "title": "〈貴金屬盤後〉黃金重摔至一年低點、創2008年來最差10月表現 「白色貴金屬」全面下殺 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPNXF1bmdUMnFCSi1QYVdBOV9Cb2d0UjV4RDFiWUt4dFJBd2pyYnloVnNTanBUa1BZT0VraXFYd0x4V29lajNaVXhPMGt3VV9GNGkzbjdfVUxuNHFPV2xiYm1VQVp3NG84RTFnNGFZUWo0dzdqWWZPMmxST0FTYTFXTFk4U1gwcmh1bWpwc2o2d0t5VVlKeXhfdVQ0YzdmMkMzbWlqVVJZZi0wa0hFLUhvQk9WeUZBSzNQUlMybnZHTnRudHFwV2FaWV9IcGF3X0VPV3VhakZIWWc0Q2tEUk9BTEwzRXZqazNxRklLRGpycmh3VG5sZ21xUW9zUWk1ajFWNEdtaTc2Z3dJdWRBdnJEQW5DX0pFMFkwaTZxVlhqb1BfSElvMWRVMV9UVC05c1o0dnp2YUotd2EtQTlvVnZ0ZHROQkV6aDhaSFZ2YmxaQVNQaTIyWGF4V3pDSWpkMnpUVVZSLWVYUnpGUGZKZkVDU2pQQXhfeVpDYkdyM0tLdjNFSGM2SDJTVWRzeDFmaXZMeC1wMkVuQTNPblRzVFN5MA?oc=5"
+    },
+    {
+      "title": "黃金崩了！最新摜破3900美元創1年低點 從年初高點暴跌30％原因曝 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hcV9nYlhueTI4cVpfRFZRQXRWc3BJNFJCNmxUTlFwdnhpUnZYSGpZNFdBX3pzcjU2RkJCcGhJUzRSNjFPcEctQ2tlclphSFVxY0p2azEzMnhmRDJKbGZV0gFkQVVfeXFMUGx3eDdnZ3RNSy1mSnktYTRxUmpyQ1FWQm1xV2VhN0Z4SG5CSDVlY1RpOEFWLWlid3lBOThubHJoODVmX0RIeDBjck9JZkhsYUhmcXRuOTc2bl92czk3RzdhbERSeg?oc=5"
+    },
+    {
+      "title": "費半重挫7.2%，華爾街殺紅眼！美股暴跌3大元凶曝光 - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ybGQ1UjNCVzFqWm1Va3ltdGFvRDdiemlkTm1tX2NQT2NPV3NlS2R2WUU2cFFXRnU3Y2N3T2I0VDhkSXlvTmdMSDVCOFl0Zw?oc=5"
+    },
+    {
+      "title": "美股科技股跌出機會？兩位專家看好選後行情 提醒下一波贏家要過「這一關」 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Wb1ZMV2FscHpacVJYWG9GaFV1bDRDM3ZHeXhDSDRvQnFFbHRRWjA1UTZPLS1La2lEU2xKRk9nUm5yVm5FX3AwcmRUVEg2QzU2V1M2Tng1ZXZjeGJLZFQ4?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉英特爾暴跌近29% 費半下殺超7% 記憶體ETF DRAM單月崩約20% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByZjdnRGFsWGFaZU1FQlVCRDJYUDg0aDlicG9PNmF0VS10RTJYMkFyamVMSldfcThUbTZmb0JqSGFhZjFiVEhUb2lOc0hBNTQ?oc=5"
+    },
+    {
+      "title": "金價下探一年低點！摜破4,000美元 投資人急賣黃金都怪科技股暴跌 | 國際焦點 | 國際 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jX2dVUmMyQ09UdHJkei1kMjFCVWdYMUpMcjl0TTd4aGtwZUs1Yy1ENFpzNFN4VmFnMjRiYzk1NFBlSFJtNlY3Y0hpeVhORllDR0lXMUYxU2U5UQ?oc=5"
+    },
+    {
+      "title": "美股大跌！費半重挫7.2% 輝達、台積電ADR下殺 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQYXd4TzlGdkI0M2VBdHMyREl5Q1o3ckg1WlZIMDZKODZGM3hsaFNkd1pZSnk0Y0xvYnBoUk5pR0dJUUl6WHdOZkZNbXV6RFNJekhqUzVDSTRrNU1RN0MxOHNLclNKbmpSSWtBZzFsTnk3QzBXNUpiejNtM2dYWEVRV1JyZm1ZZ1BJRGdJVHUydkM1M3NZVkpQNllRYTY3M0ptZi1yejZkenRkYkJKYl91SGRBWUpJZFhhSy1jY1lwNTVsZDZYdS1jY3R6NUZvS19kTFdlNHBxQy1iUUtwTXkzZmxRaHFiT0xNbTBqOGZqNXRxekRjMHRkQktJNE9tbHlSSS1hTURoUW55UVVaRUtmOGtya0Y1QTBYU3Nn?oc=5"
+    },
+    {
+      "title": "美股收盤》英特爾崩逾28％！科技股慘跌 台積電ADR重摔近6％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mSG1lR09Ral9WTHZxeDJpVzhNR3hlbDE0UlVEaDMxcHRqbTFYUDlhYlFzUjhwRi1lUmE5YjJZS2o1cGlaSUNtRzdaZUZxWmhtQVZ6ZXF5RDNEbnNkSEJZ0gFkQVVfeXFMUEpMZkdUV1Jydm9UaTBHS3dwZGtXLVA0ZGNMUG5xTTBNbUJyMFBFc1NEdXNJNTA3M19wYk5lRXluSnVZdmxjOWtLTmVMZ1ZmRURBMzZiQUk0Q1pSbHk1OVVzV0d2ZA?oc=5"
+    }
+  ]
 }
