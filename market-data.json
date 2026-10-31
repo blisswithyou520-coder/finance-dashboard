@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "10/31 10:28",
+  "updated_tw": "10/31 16:46",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77237.04,
-      "change": -538.0694,
-      "changePercent": -0.6918
+      "price": 77182.32,
+      "change": -15.8909,
+      "changePercent": -0.0206
     },
     "ETH": {
-      "price": 2241.01,
-      "change": -8.4883,
-      "changePercent": -0.3773
+      "price": 2237.86,
+      "change": -3.1944,
+      "changePercent": -0.1425
     }
   },
   "fx": {
@@ -105,48 +105,15 @@
     }
   },
   "gold": {
-    "usd": 3884.9,
-    "twd": 4072.0,
-    "tael": 152717.0,
-    "twdTotal": 126667.0,
-    "changePercent": -3.634
+    "usd": 3898.9,
+    "twd": 4087.0,
+    "tael": 153267.0,
+    "twdTotal": 127124.0,
+    "changePercent": -3.2867
   },
   "fed": {
     "rate": "請依最新官方公告",
     "direction": "觀望"
   },
-  "news": [
-    {
-      "title": "〈貴金屬盤後〉黃金重摔至一年低點、創2008年來最差10月表現 「白色貴金屬」全面下殺 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPNXF1bmdUMnFCSi1QYVdBOV9Cb2d0UjV4RDFiWUt4dFJBd2pyYnloVnNTanBUa1BZT0VraXFYd0x4V29lajNaVXhPMGt3VV9GNGkzbjdfVUxuNHFPV2xiYm1VQVp3NG84RTFnNGFZUWo0dzdqWWZPMmxST0FTYTFXTFk4U1gwcmh1bWpwc2o2d0t5VVlKeXhfdVQ0YzdmMkMzbWlqVVJZZi0wa0hFLUhvQk9WeUZBSzNQUlMybnZHTnRudHFwV2FaWV9IcGF3X0VPV3VhakZIWWc0Q2tEUk9BTEwzRXZqazNxRklLRGpycmh3VG5sZ21xUW9zUWk1ajFWNEdtaTc2Z3dJdWRBdnJEQW5DX0pFMFkwaTZxVlhqb1BfSElvMWRVMV9UVC05c1o0dnp2YUotd2EtQTlvVnZ0ZHROQkV6aDhaSFZ2YmxaQVNQaTIyWGF4V3pDSWpkMnpUVVZSLWVYUnpGUGZKZkVDU2pQQXhfeVpDYkdyM0tLdjNFSGM2SDJTVWRzeDFmaXZMeC1wMkVuQTNPblRzVFN5MA?oc=5"
-    },
-    {
-      "title": "費半重挫7.2%，華爾街殺紅眼！美股暴跌3大元凶曝光 - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ybGQ1UjNCVzFqWm1Va3ltdGFvRDdiemlkTm1tX2NQT2NPV3NlS2R2WUU2cFFXRnU3Y2N3T2I0VDhkSXlvTmdMSDVCOFl0Zw?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉英特爾暴跌近29% 費半下殺超7% 記憶體ETF DRAM單月崩約20% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByZjdnRGFsWGFaZU1FQlVCRDJYUDg0aDlicG9PNmF0VS10RTJYMkFyamVMSldfcThUbTZmb0JqSGFhZjFiVEhUb2lOc0hBNTQ?oc=5"
-    },
-    {
-      "title": "美股收盤》英特爾崩逾28％！科技股慘跌 台積電ADR重摔近6％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mSG1lR09Ral9WTHZxeDJpVzhNR3hlbDE0UlVEaDMxcHRqbTFYUDlhYlFzUjhwRi1lUmE5YjJZS2o1cGlaSUNtRzdaZUZxWmhtQVZ6ZXF5RDNEbnNkSEJZ0gFkQVVfeXFMUEpMZkdUV1Jydm9UaTBHS3dwZGtXLVA0ZGNMUG5xTTBNbUJyMFBFc1NEdXNJNTA3M19wYk5lRXluSnVZdmxjOWtLTmVMZ1ZmRURBMzZiQUk0Q1pSbHk1OVVzV0d2ZA?oc=5"
-    },
-    {
-      "title": "美股早盤／科技股賣壓超重 那指摔近3% 費半廢 英特爾暴跌29% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKa1NVckdCZjd4YmV6cm9QRFYxUlRTS3hlYldqVFZnWmZaN2NxYXhkU1Zja1g1YldtVGNZUGx3UWdnRktJSkpCN2Z2TEUwLUl0M3FZTUdKMWlUMTZM0gFiQVVfeXFMT0VFcXBwdElOOUdCaW4yeWtLbU1UeFRVLVFTS2twelpCMC1jN2l5OGt6bElHUHRHc2Z4WGdOOVVWZEFJYjZHUXVRazZxajBiNkJWY2x1MnVyU0VYTDZkUURsVHc?oc=5"
-    },
-    {
-      "title": "美股｜AI投資疑慮引爆晶片股賣壓！費半慘崩7％ 英特爾跳水29％ 台積ADR跌近6％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YMlFWYmFsUFJHM1BfZllDWWo5UTlEaXl1T0dGRGZKUnNFdmxCcXR2RWo1OGVfdkZuVnEwUTNpcG5pU3lWRFFENnhVM2t0V1RHV2J6bWRiSHhER0Q0aU1z?oc=5"
-    },
-    {
-      "title": "美股盤後三大期指齊跌，納指期貨重挫3.45%，記憶體晶片股逆勢普漲 - BigGo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UWWNNc3Z3cjVRX3VfaGNPZlNSdEZpZWRTeElCUlBBOWV3WWRza0tES3ZGRlg0eHVGeHc5ZThuQ2Zzckt0TTBsSHg0bTdMR2RJS3NhQ1ItamlySFdnZ3VNcG5VcmwwX2szNE4xSzByYVI0XzF5amJNYVVR?oc=5"
-    },
-    {
-      "title": "【1029台股盤前】大盤急拉939點強彈！融資連2日大減逾百億，鎖定季報優於預期【晶豪科】、【精測】、【智原】 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxNMEpFbFRfN3A3TkdaX1NlYlpzQ3FZdDZzWFlWQi11M3FqcDJZV3NLWlBKNzM1cUt1NV92QlN5SXJBbTc0WkZSQ25fdlBQVVQzNkZtNENWTEdwN2xTR1pjd1J2Wi1vdDRmVGRRZ2JXMEliUjJjWG1tZ1dLYk8xbFU3V0VrMGtsRHg2SGxlT2J6eEV5RHc3NWNZNFByN1FOU1BLMG1MNndlR2pXQzlOSGRVa0xVTlU4SmV0bUFXVktHTUd1WXR1aGpCdGp2Zm1zNGwxcTZIRFRXb3NOVjViSWg1TVlKaU51VENXbUVMN0NxNThMRTFFVklEdjEtUG1EQllLWXBiSlJnQWZJVFQzZkdyMTg3M01oYjYxWFhHS3VGOVdjbDNCNE1DXzdic1VVYXJ2M1JBcXNDb2puTkdXNUhjaTU4Q1h0NGdmTlA0bzB3WnlJZFlLY2ZXU3F6dTNOX0d3WUpHS0lqSFJSaHBBQ1Fid1ZocGJLMzNFRWVSOTFSei1JdnJ5dHRxQkduNGJxVzZocmpjRW9fRW9wUXZ1YkdTT1pkc2hOSll2TGxBUnZVc0I3ZEw0NzhNanBYaFFLWXJMSDVQczlTVHVGRzhYOTlxSVNFaUVCTVpOUlQzZW5jSTdQd1g0MGx6QjBFc2Z5OHB6MFp3SnlLSzVvYS1oWHZQcGFKcmpIMFJ2cEJLX3F2TVplUjVoQjhBOW1Ud2l1T2R1Y0MxaV9vN0NvMFNxOFJqdzZlVzVhWE5rbDhwMlBSYnM?oc=5"
-    }
-  ]
+  "news": []
 }
