@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/02 03:39",
+  "updated_tw": "11/02 07:05",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,43 +72,43 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77652.8,
-      "change": 218.05,
-      "changePercent": 0.2816
+      "price": 77835.03,
+      "change": 400.28,
+      "changePercent": 0.5169
     },
     "ETH": {
-      "price": 2255.63,
-      "change": 2.8822,
-      "changePercent": 0.1279
+      "price": 2262.35,
+      "change": 9.6022,
+      "changePercent": 0.4262
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.593,
-      "change": 0.0261,
-      "changePercent": 0.0801
+      "price": 32.605,
+      "change": 0.0381,
+      "changePercent": 0.117
     },
     "JPYTWD": {
-      "price": 0.2048,
-      "change": -0.0005,
-      "changePercent": -0.2338
+      "price": 0.2046,
+      "change": -0.0017,
+      "changePercent": -0.8327
     },
     "EURTWD": {
-      "price": 36.427,
-      "change": 0.2915,
-      "changePercent": 0.8068
+      "price": 36.43,
+      "change": 0.0147,
+      "changePercent": 0.0403
     },
     "CNYTWD": {
-      "price": 4.9072,
+      "price": 4.9017,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
     "usd": 3898.9,
-    "twd": 4086.0,
-    "tael": 153211.0,
-    "twdTotal": 127077.0,
+    "twd": 4087.0,
+    "tael": 153267.0,
+    "twdTotal": 127124.0,
     "changePercent": -3.2867
   },
   "fed": {
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWi14OGs5T1M0TFdJOElKVHRSVXpUaExmdVMwTHQ5ME5lajQ3bWNTdzhXOXY3M21pQ1BsX2pTX1BfUkxmMWVnT1lJQk1TOGJDdlUtaDlJTVZJak1RZHFIb0dmdE9BckZWNjk5UDJzcHVZd051QzFnV2FJdGtwaEFJV3R6LU9NdzdoZnF1Q0tPUXlGc3M?oc=5"
     },
     {
-      "title": "中東緊張局勢再起 黃金為何仍暴跌至一年來最低價？ - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rdzRyLWt0b0UyZWU4eF9wTFB6eEhzT0NlZFFkU2ZwV0h6cmQxZjFTVDBiamNvT2Y3bzhFZFpObHVTc1VTcndDc2FrdEFEZmc?oc=5"
-    },
-    {
       "title": "金價會再跌？黃金現在可以買？黃金價格破3900美元近1年新低…何時大放光明？大佛李其展給這答案 - 今周刊",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQckd2VGMyWlpLblpNdkNLajZmdFVYYnJYdDVUYXhhWFY5cEtmQzd5WU95NTZQT1B2NUR1czZKM1NOam5DOWpObzVyX1VXc1BCUUJ0c1V1dXpXTVpRYlhjeEx1SWlRck80Qzk4dVlYUlpoVXhNakJrU1BSUU1Tb3VhcQ?oc=5"
     },
     {
-      "title": "英特爾暴跌拖累美股！台股危險了？分析師揭聯電、台達電操作關鍵、點名3大族群成避風港- 證券 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxN2d4VkEyaVpGamdrbG01bWFScDhIZkRMNDdQZVJaZTYyeDl5emN3LXJ5eUlYRDE4Z1RQXzlIRmpGdGhETXhIV2tPejlTcVh3WkxWZkpfSEw3Nl9lWnZR?oc=5"
+      "title": "《貴金屬》COMEX黃金下跌3.3% 創一年新低- 新聞 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOekV2MVUzX3plRUJDV3AtVjdJZ0pjR1hVLTRycFpqSWdEY3lUb2U4bHlWdjNEOEJVUFZ4THBibnpnOF9wN2d6MDZSSWJfSG9ZWmU5YTA5OFpFMHhKbjgzWVdOSk5aMVlfbzVnZjhsYUM1MzlwMVYyQzFtekhsOHRnLVo4WkhzREdEZFpPVzNONWZ3dw?oc=5"
     },
     {
-      "title": "美國期中選舉將登場！歷史數據揭美股「選後上漲」勝率高 但今年藏1隱憂 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNNEtPUGZzSVpra0QzSnpwV0Jib0t4cURhU2NQaE9vM3Vha3RUU1FNeXVPVTZMQ0xzZVBhNlVmRFU2Mnc0bGJEZmJCeUZnaUt0STI1WE9idkU5TFdHV284SFVWZ0NVdmJiTUVVVkZKajJ4M0NMd2F4aDRLTmxHQ0FYSDRmeDIwQlJ6SW81YmxwbENfR0lyMkEySWpXOS1kVkxNQzQwc2FLUmpzSDAzQzVQLVhtbFNEdnMwWmFpdnhTQlZIZ0lkdUlvRy1ham9WM0t1NXBLdFVUX2gxOGdaUTAzM1dzZ0FsVFloTlBybjdsTWhLWkMxVHFJT2NyOUNIQVZmdWNpdXR4cnM1VFdieFVEcmwxRGVCYUxheTBRRnViMEIydWI3c1BSRWJaSnpuQkE5SGF2eHRZenlKdjVVZTZGRjhJNlcxakYzbEdQZjNWRUN3cTI3TWkza29CNzNIaWRsWEVEWXBKM3AzR0xnRnJZU2tJSVVVcVlZRnJENS1LZ0JoeEl1Z1NjeURBSk1YYVBTMVFsZmw2bV9PNU1tdmhQTDYwOFJBcmtlS2p0bjJHdU93c1pfTV84b2lqUlloZw?oc=5"
+      "title": "2026大家都在買哪些美股ETF？VOO、QQQ、SMH⋯10檔熱門排行榜：費用率、規模、績效一次看｜豐雲學堂2026 年 10 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPOV94RWJ6NllMa2RxLWlVekRlamZVUzlGaWJLai1pMnVNNGVFT25vMlY0WlBvQkdjdFFJNUtDUXV1S3BGRDFYUGV4cm44V2JmOHd2TXNEbGUwVGQ0bUxSN3ZqTDNrRXMzbDRKRktWYzF4ZHJ3azNFT2xTV1NiQzJ5U3VZa2V1VjNqRUU3ZFRKVHFHdTQxUGx5NXEzQVlVZjdTLXdQOC1MMXhBbFQ0eGh3cWxuV3FtREhfbk5hcDc0TGQ0bkZRTmFfVVRjemJMVTFxY1BpaE1EQWFhNDVBRjB2cU5iYm4wdnNfcmRLcGR3ZDlnRU9KV0ZPblYtVE9aYVZYRjVpUTNqZEx0T2pzUlROU0dWaHAycWplSnhZb1Vmam5IalIwTE0xZWdHSndjdkhBTWIxT0hZWU9xQ2h6Y3VIZnBQVThBTTd3OVlaS0JKbzhtSkRJR3VReG5iSGw4Nzd5ME5NYWdCZ0p5Y2NOQzBoNkhocEJJMDBGV2RkRzZodEw5WFNRcU5qM0t3TUlDUWZfNkZrV3VlaEpXa1dwcGV5U0hNa0RlUTJ0YUpfU2dCRG0xVWRZZVpfcXR2X3dYSEoxVmlMSVhnNVJzWDB6Smx3dnJtTQ?oc=5"
     },
     {
-      "title": "美期中選舉逼近、美股上周五重挫 台股多空戰三情境推演 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CUVg2X0dCd0lfTXdaNmF2ampJVkJpcF9rZTh1QUM3Z18zZ3JMNmVKcHFPeXNnVUJqaFFOa2VKaEQ1SUFCYWVMeGZiX2E0elV6YkhoTUpEcW1zUdIBX0FVX3lxTFBLalc4Y1IxQ2R1aVdUOUsxLV9id29vQ0JPSGZjX2UwdVFjaUhWMW1hc1VlcGZDVkdFTVBVM0hWMFpVbWpLTmVXOWtwNkhHOVY0TnQ3UFdqdzFlOElYOW00?oc=5"
+      "title": "中東緊張局勢再起 黃金為何仍暴跌至一年來最低價？ - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rdzRyLWt0b0UyZWU4eF9wTFB6eEhzT0NlZFFkU2ZwV0h6cmQxZjFTVDBiamNvT2Y3bzhFZFpObHVTc1VTcndDc2FrdEFEZmc?oc=5"
+    },
+    {
+      "title": "金價跌破4000美元 創近1年新低 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GazQ5azltYmFiR0pCVzRqUVJZQlhhamtFMk8zbW5zdWp4aTRvNjlOX1pWdGtwLW9jdG5kVzRWUlhvenIwNkNyOVlUVFBldElVOGRxaVBn0gFbQVVfeXFMTXUtSlBsWC1CRU1FRi1nVFh5dThQWDlIc01mcTc5R2RqRmZVU2ZYazZoYUgtSGpibWFhY3NOVndZTEJvN2lUTGVYUzBCd0hwaDJWZDNRSzhGZWM1WQ?oc=5"
     }
   ]
 }
