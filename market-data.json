@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/01 16:01",
+  "updated_tw": "11/01 23:06",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77842.08,
-      "change": 407.33,
-      "changePercent": 0.526
+      "price": 77919.78,
+      "change": 485.03,
+      "changePercent": 0.6264
     },
     "ETH": {
-      "price": 2267.69,
-      "change": 14.9422,
-      "changePercent": 0.6633
+      "price": 2268.18,
+      "change": 15.4322,
+      "changePercent": 0.685
     }
   },
   "fx": {
     "USDTWD": {
       "price": 32.605,
-      "change": 0.2222,
-      "changePercent": 0.6862
+      "change": 0.0381,
+      "changePercent": 0.117
     },
     "JPYTWD": {
       "price": 0.2048,
@@ -117,8 +117,8 @@
   },
   "news": [
     {
-      "title": "美國期中選舉將登場！歷史數據揭美股「選後上漲」勝率高 但今年藏1隱憂 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNNEtPUGZzSVpra0QzSnpwV0Jib0t4cURhU2NQaE9vM3Vha3RUU1FNeXVPVTZMQ0xzZVBhNlVmRFU2Mnc0bGJEZmJCeUZnaUt0STI1WE9idkU5TFdHV284SFVWZ0NVdmJiTUVVVkZKajJ4M0NMd2F4aDRLTmxHQ0FYSDRmeDIwQlJ6SW81YmxwbENfR0lyMkEySWpXOS1kVkxNQzQwc2FLUmpzSDAzQzVQLVhtbFNEdnMwWmFpdnhTQlZIZ0lkdUlvRy1ham9WM0t1NXBLdFVUX2gxOGdaUTAzM1dzZ0FsVFloTlBybjdsTWhLWkMxVHFJT2NyOUNIQVZmdWNpdXR4cnM1VFdieFVEcmwxRGVCYUxheTBRRnViMEIydWI3c1BSRWJaSnpuQkE5SGF2eHRZenlKdjVVZTZGRjhJNlcxakYzbEdQZjNWRUN3cTI3TWkza29CNzNIaWRsWEVEWXBKM3AzR0xnRnJZU2tJSVVVcVlZRnJENS1LZ0JoeEl1Z1NjeURBSk1YYVBTMVFsZmw2bV9PNU1tdmhQTDYwOFJBcmtlS2p0bjJHdU93c1pfTV84b2lqUlloZw?oc=5"
+      "title": "美股崩跌，台股明天剉咧等？不敗教主點名15檔抗跌股：像小強一樣活下去 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQREhNRGpDQUt2YzQ4NnE2dXdWMXhqZGVWR2pMR3BScTFteF9qVUt5bGxqZ18wSWNXeFEzclluVl9iOTFKMW5ST2MtSEc3Z0ZCT1gtYjZJT3Q5b3I0Y2JoWll6cHhlci1QclVsRTVYTHlzVkZTWVcxTW9FTWlqWHNwQ2dVZk5kSlpjaEduVlFDTzdZWFdJazROQWpVSS0yRmI2c0FodnBSODZyR3Q5ZERaajZIdXpsUUJkekp0QzBWbVJtSV84WkhBeWxsT25BQkJVZEhvajZQTFFGQ3NCNjRacDhFVjZtQm5COU5hVFZHSHRydVdRMXhpeHNFYlBObmdYc25mMDRNOHdna2p3RlgtR1IwZUh5SWRPRkZVNk1JeG5kNUZLZkxjd0pQdm1idktKLWt5Z3gwZ3daX3YwaFdZbGtWVjY2M0lOSnV2VlpCOE5SVGNPdkJLVC1RaHpvcTdxWXdRd0NlenFrVEdqMDUyd2tUSk1RaTdxTjhtVG13aUUyWnpHZDR6RzdRWnNScFVpV2lQWlRNUndWamhLcjR3QWNNS0pKZUZaMVV3?oc=5"
     },
     {
       "title": "中東緊張局勢再起 黃金為何仍暴跌至一年來最低價？ - 鉅亨網",
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxN2d4VkEyaVpGamdrbG01bWFScDhIZkRMNDdQZVJaZTYyeDl5emN3LXJ5eUlYRDE4Z1RQXzlIRmpGdGhETXhIV2tPejlTcVh3WkxWZkpfSEw3Nl9lWnZR?oc=5"
     },
     {
-      "title": "台股明大逃殺？法人：基本面無虞 靜待國際股市回穩 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pYkY4dzRLM3NNZzYxdzZ0TFZVS0xLdXZEZkladEd3bXM2YjVKTmpjcUtZUEQyYktXMlZJRkI5UzRCVDhPbGdtVFlSTnhncXpU0gFWQVVfeXFMUHE4TFVmVldTZzZtN3Zzak82MVM5Rk8xb2NndjNBeEpua0h6T1YxN3RTa29wUUxoRm9YVlZBaFhwRm5jbmluS3dTQkx1b3djNXJQLS1BTWc?oc=5"
+      "title": "比特幣迎三重考驗！美國期中選舉、非農就業、科技股財報接力，7.7 萬美元守得住？ - 區塊客",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWi14OGs5T1M0TFdJOElKVHRSVXpUaExmdVMwTHQ5ME5lajQ3bWNTdzhXOXY3M21pQ1BsX2pTX1BfUkxmMWVnT1lJQk1TOGJDdlUtaDlJTVZJak1RZHFIb0dmdE9BckZWNjk5UDJzcHVZd051QzFnV2FJdGtwaEFJV3R6LU9NdzdoZnF1Q0tPUXlGc3M?oc=5"
     },
     {
-      "title": "比特币11月历史回报率：2010年起10次收涨6次收跌，平均回报率34.59% - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1peXpGMDV5cjRDcC14N2Etc28xZFYwZFBvajV3eDk1SVVvRFpRbDRUZTd3MW53R3FzT1RCVnVXa21FS1VDYXFvekhzbFEySGtmcndlSDJpcFAwMm1jS3BNRzZFcnFFQQ?oc=5"
+      "title": "台股基金 後市還有戲 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1idkgtY1gtVEN3QUFkR2U1cjVlc3M4TlRObjgtcWFDRjl6RW45QUJzaHZaMzBvblFSbl9BbVNqc2pRZlg4MHdDZGJ4M1U2ZGQ3RFRoTU5fVjk3QdIBX0FVX3lxTE5SdUo2UjNhalpKVlQtLVljZGhRZ0I5c3ZQOWFrOTVrd2NCLTlPU3diS2FXREZYYzNISWxyVUl1dE0taDNNNDRuOGphUVJIQkwyVUxVSWIwR0VmWFRzX1VJ?oc=5"
     },
     {
-      "title": "台股恐慌低點勇敢買 掌握修復紅利 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXamtneWhNNWlfUWVCdVlTd050bnNxdFkxR2VrY2xDTmNYNGNYZWZmSWUwbGVGNk0xWFQ1M3dzWUFyQ21ZaGZ4Sm5McjJUbW5Jbkd6YWVYTmcwamxLZzhV0gFkQVVfeXFMT2JGVHVBblBvZkxpU0ZSTllQSm5kdGJ3dEVTMzBHVFZKbC11Zk5RMmRZeEgtMVJpUVR3Vm04aXpHcm9VTzl5ekZPQ19OLXdNcUttLV91cWdteVhHX0dhLVZYMEFINQ?oc=5"
+      "title": "比特幣卡關7.6萬美元，追高買家獲利空間幾乎歸零 - BigGo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OWEI4OFVTODlXTHBBNUtvd1FrbWxTZFRXTElpSmJiZFVLc0lKei1zbEtwall4aEliYUNINk9MbUNqTE1ESG81RExNTjBGTTZuLTV3Qlh1aWpqU19wblJyOW9NWTNLWU9kX2MyWDdVdFlUOVR4V19KNVB3?oc=5"
     },
     {
-      "title": "美股崩跌，台股明天剉咧等？不敗教主點名15檔抗跌股：像小強一樣活下去 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQREhNRGpDQUt2YzQ4NnE2dXdWMXhqZGVWR2pMR3BScTFteF9qVUt5bGxqZ18wSWNXeFEzclluVl9iOTFKMW5ST2MtSEc3Z0ZCT1gtYjZJT3Q5b3I0Y2JoWll6cHhlci1QclVsRTVYTHlzVkZTWVcxTW9FTWlqWHNwQ2dVZk5kSlpjaEduVlFDTzdZWFdJazROQWpVSS0yRmI2c0FodnBSODZyR3Q5ZERaajZIdXpsUUJkekp0QzBWbVJtSV84WkhBeWxsT25BQkJVZEhvajZQTFFGQ3NCNjRacDhFVjZtQm5COU5hVFZHSHRydVdRMXhpeHNFYlBObmdYc25mMDRNOHdna2p3RlgtR1IwZUh5SWRPRkZVNk1JeG5kNUZLZkxjd0pQdm1idktKLWt5Z3gwZ3daX3YwaFdZbGtWVjY2M0lOSnV2VlpCOE5SVGNPdkJLVC1RaHpvcTdxWXdRd0NlenFrVEdqMDUyd2tUSk1RaTdxTjhtVG13aUUyWnpHZDR6RzdRWnNScFVpV2lQWlRNUndWamhLcjR3QWNNS0pKZUZaMVV3?oc=5"
+      "title": "PlanB：比特币RSI指标连续第三个月高于50，或为新一轮牛市开启的信号 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LRVBXYU91eXNNZ1N6WlZRYjl0Znd4NHJtVS00bjkySWozQjdjRFVsMGxsYWFXakw0eGJVeEhJWW9uWkNVNmFDTUN6WVFZYm5XTXpXSDRpMXpEb05ZZjE0bWV3NVZBdw?oc=5"
     },
     {
-      "title": "〈美股盤後〉英特爾暴跌近29% 費半下殺超7% 記憶體ETF DRAM單月崩約20% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByZjdnRGFsWGFaZU1FQlVCRDJYUDg0aDlicG9PNmF0VS10RTJYMkFyamVMSldfcThUbTZmb0JqSGFhZjFiVEhUb2lOc0hBNTQ?oc=5"
+      "title": "美國期中選舉將登場！歷史數據揭美股「選後上漲」勝率高 但今年藏1隱憂 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNNEtPUGZzSVpra0QzSnpwV0Jib0t4cURhU2NQaE9vM3Vha3RUU1FNeXVPVTZMQ0xzZVBhNlVmRFU2Mnc0bGJEZmJCeUZnaUt0STI1WE9idkU5TFdHV284SFVWZ0NVdmJiTUVVVkZKajJ4M0NMd2F4aDRLTmxHQ0FYSDRmeDIwQlJ6SW81YmxwbENfR0lyMkEySWpXOS1kVkxNQzQwc2FLUmpzSDAzQzVQLVhtbFNEdnMwWmFpdnhTQlZIZ0lkdUlvRy1ham9WM0t1NXBLdFVUX2gxOGdaUTAzM1dzZ0FsVFloTlBybjdsTWhLWkMxVHFJT2NyOUNIQVZmdWNpdXR4cnM1VFdieFVEcmwxRGVCYUxheTBRRnViMEIydWI3c1BSRWJaSnpuQkE5SGF2eHRZenlKdjVVZTZGRjhJNlcxakYzbEdQZjNWRUN3cTI3TWkza29CNzNIaWRsWEVEWXBKM3AzR0xnRnJZU2tJSVVVcVlZRnJENS1LZ0JoeEl1Z1NjeURBSk1YYVBTMVFsZmw2bV9PNU1tdmhQTDYwOFJBcmtlS2p0bjJHdU93c1pfTV84b2lqUlloZw?oc=5"
     }
   ]
 }
