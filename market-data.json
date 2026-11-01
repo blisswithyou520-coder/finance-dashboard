@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/01 06:40",
+  "updated_tw": "11/01 09:28",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77499.99,
-      "change": 301.7791,
-      "changePercent": 0.3909
+      "price": 77555.0,
+      "change": 356.7891,
+      "changePercent": 0.4622
     },
     "ETH": {
-      "price": 2255.7,
-      "change": 14.6456,
-      "changePercent": 0.6535
+      "price": 2261.59,
+      "change": 20.5356,
+      "changePercent": 0.9163
     }
   },
   "fx": {
@@ -121,6 +121,10 @@
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxORkYwQmNKSE9HQXdwWHdjWlppUVB5NHhDdDd6WHpnUDJGT2ZuQ2N4eUl3RS1LUVJEekQyQXJQcFBBdERUajZMLTNvRE9NVGhkY3dwNmpCRHFwcHo3S084ZmpVZ3dSVWlJVmtLRDVmbW9lbkdMVGtoSktjbDEyeUVBR29EVG5aejZUbHNNV25YUFNtSGp3TDU2Sm9mTXYtdzFaeGg5T3JLRVVrbnlDUlZWaDc1SThqeU45ZVE1Znl4Yi1GMU56M0Z1SU1hWVFMc2thMnZ3TXRheGhXREFVVFlDV3h4bTd3b2dKSFl5dnoydml1TjlDanVFS3RlN1hEWWEyOGRXeFp5NkRKMEZGMlY0MTZXRTVrY2cwVmdvU1EtUFZHRjg?oc=5"
     },
     {
+      "title": "中東緊張局勢再起 黃金為何仍暴跌至一年來最低價？ - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rdzRyLWt0b0UyZWU4eF9wTFB6eEhzT0NlZFFkU2ZwV0h6cmQxZjFTVDBiamNvT2Y3bzhFZFpObHVTc1VTcndDc2FrdEFEZmc?oc=5"
+    },
+    {
       "title": "美股收盤／Alphabet 崩跌近13% 市值蒸發近5,000億美元 費半結束四連漲 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FbnliYU0tRXhqQ0g5Qk45d2Vpc2U1Q0hjek5RSEZvcDQxd2dvV1lJS3c2M3NSRE1SbEZqYl90V0lkeTJQV1NnQTZEa1Vla28yM3FBYlVRTTFBVFlr0gFiQVVfeXFMTW1ybzZ5bkZlaER3a0hWMzFxSGp5cTc3REFDejlCQ0txa3JhWFRLaDlFRTdiSkdVcExsQ1RjX1pjRHZ3QlQyTUx0eHc5V0VXU2QyNHVXNG9iaGluaVgwaU5oUlE?oc=5"
     },
@@ -133,20 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ybGQ1UjNCVzFqWm1Va3ltdGFvRDdiemlkTm1tX2NQT2NPV3NlS2R2WUU2cFFXRnU3Y2N3T2I0VDhkSXlvTmdMSDVCOFl0Zw?oc=5"
     },
     {
-      "title": "TWA00 加權指數 - 愈跌愈買 台股 ETF 淨申購額衝高 10 月突破 5,50... - 股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fTHZYajlORmZxSkVvRkNDbkZ0Qm12X1pxOWtWdk56LXJJN3hYM0hSeG1NTE1HSVRhSXFUMmpWRWlrdkc1N0ZzU1R0eWtUVlktSHpBTnZGSlk?oc=5"
-    },
-    {
       "title": "黃金還能買嗎？貴金屬正迎全新世代：央行購金潮、去美元化趨勢、ETF投資標的一次看｜豐雲學堂2026 年 10 月 - 永豐金證券",
       "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxQUk5MUUw4SE53UFpUUGRvR3Z4NXBuSGpvNjBuMlMwaVVCVHd2ZGRJSm9qMmY3dzJsdE5HODhxN1A1OXZMb05BaWtkSWJ2aEdTc1A5TWYzWERIN0tybUxnNEFvQWNMMktxNV84cWtzY2xORlNXZjRScHlLaWI1U3dxblF6VThqaWhYN3k2dm12YmRGN0c0MFFBemhwNXBuWC01NnoyaGJ6alZhb2FnSm1VejgxUTVtelY1V1BzQU9VbTFOSkFoSWFmMmh5ODA5TDYwZExWZzVaNnloRmpRbnd4WmZfNkpSZ1ZIbGVNMnc5MXFMN0pVem9BakJaeXhiMGNyVElpaEZyX1Fob004YVE5a3lfd3dGSGpodWZ3dmJRcU1hYllTQ21WSmhjeFoxNC1NeHdlcXR6WW1qRGg5TGF1V2NJanY5WWU3N3M2ekRSM3Y5Rlp1LUo4YW5Vcm5mNmFSV2tnakFjQkVOME1vQnp5aWpqRllfMjBmT19lQzRVd0R3UlEtYlluTm9tYl9TQVJ4V2s4VWg1X3VrNzBDc0g1Snl1bldOSjFaS0R4WWtVMXc3VXRGRk5MSFQ1M1VhUzFnLXhoUHF1dDdVM0tKZGkwTVZxTUNaV3c4U3d2MWRONWZZSTdiOXFVRy0xSjE3X0FMVFNkUEZUTF83QVMyeTlBcTFUQnBuazhRTUdyRGY2aEw1UQ?oc=5"
     },
     {
-      "title": "萬聖節美股驚魂!費半跌逾7% 英特爾挫近29% - 非凡新聞台",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HeHhIWk5sN2FaMDZNaDNER00xOFVlTS1yRlFqaFRzS3J0dDA3Tnh2R0FDdWlYZEhURnBXYWVaaWpseHFpSnd3eEVQVlZqQ2VRQWNEUHJhQWdGWmtF?oc=5"
+      "title": "台股摜破季線及半年線 投信：短線觀望心態濃厚、長期仍審慎樂觀 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNei1QdzhSWHI4RENQRWN1NVRrZ25EeWo5RlV6RjdtOWRFck5VcjVIN2xRQjNGb3Q4R3gwbmFnNERNRk90ZW94X1RmcnZTYlZPSEFGRlpxTlJseXRiYVVwNEdfVFQ1UElDLTFtQXJwRjdvd29JZ0RVV0ZXSG40WC12ZkhiN3pYdDRoYUdLVFRsRWJiYlZIMDcxdE1pU1ZJOENPTm1rdkxIZUw4YjRFSW9oSUNoTnNDVW5DcERfem5Fak1Cc3B5eFhlMEtITDhQc0xUV1F1Z0lVS1BaWFhHRk4zbTE4VjU5U1RVSWVaR3lhSmNlMTFRZ1dBa3NiN3FzN2QxcVpTQlU5a1phSVJiOEdVX1U1Wl9NeTQ5OGhOdWs5bVBtOTVOOVhXREswQTBCYWFxTWhMRVUtd294dE4tT3piNTU5b3pHVkxDT094RkVTMTQxMThCSDlCaktYZkt2UDhTQlZtSVViNWtQT3ByYkliNFUyT2E1aXlZb3VRTjhtR2xqS1RZN0podlE1NUlHaGtUUndSY1Jrd0VVQkZFNDE4clpVTQ?oc=5"
     },
     {
-      "title": "美股崩盤拖累! 台股盤中狂瀉1642點 失守半年線 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQaEx2UmRvb3o2anJzWW90Nm1GM0NvS0cteDB0NWlWNFVsQnV1OEdTSTAwem9aOGtXbUZuYUNjSXAzUHlEZVpMOXkybnpvTWF1SEJPU0lRQTFFcG9Lakl3eEtwdEZ0QTFtVExsUGcyT0w2b3J3aUxhNmZ0UEEwbXZKSjNkYXNqcm5WZElJWFliRk9Rc21UcjVtQnFYLTJVblpxMUQzR0F2aGJ2MWduUGZ5TG1ld2ktY0R3QjJCeDN5NzlUX011RC1nMncwZ0MwN3NoUWNvbjc5dXI1NnV6MFJVMDhvcC1EVlNzYU1WVDI4eEVJMVQ3RVA5eXhCMFE4dXBLcGRGMlpuYTJnQkN2ei1NblJMeDZhNXFod2JSOTBBMlpxazNSdjdiVjVHYjJDZTZqV3FXZEFVRGZvX0k?oc=5"
+      "title": "美股早盤／科技股賣壓超重！那指摔近3%、費半跌5.6% 英特爾暴跌29% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uSllvUzRCWnpOMlp0UU5xeHJaYTl0Mkx1UmpnN1FRcDg4X0VORWxVdl82TTc2UVJjVjR4WDhzMURFV29yYXZHTFVGV2FYSzhE?oc=5"
     }
   ]
 }
