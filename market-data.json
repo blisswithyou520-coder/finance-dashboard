@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/01 09:28",
+  "updated_tw": "11/01 16:01",
   "taiwan": {
     "2330": {
       "price": 2370.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77555.0,
-      "change": 356.7891,
-      "changePercent": 0.4622
+      "price": 77842.08,
+      "change": 407.33,
+      "changePercent": 0.526
     },
     "ETH": {
-      "price": 2261.59,
-      "change": 20.5356,
-      "changePercent": 0.9163
+      "price": 2267.69,
+      "change": 14.9422,
+      "changePercent": 0.6633
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股崩跌是AI泡沫破裂警訊嗎？專家這麼說 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxORkYwQmNKSE9HQXdwWHdjWlppUVB5NHhDdDd6WHpnUDJGT2ZuQ2N4eUl3RS1LUVJEekQyQXJQcFBBdERUajZMLTNvRE9NVGhkY3dwNmpCRHFwcHo3S084ZmpVZ3dSVWlJVmtLRDVmbW9lbkdMVGtoSktjbDEyeUVBR29EVG5aejZUbHNNV25YUFNtSGp3TDU2Sm9mTXYtdzFaeGg5T3JLRVVrbnlDUlZWaDc1SThqeU45ZVE1Znl4Yi1GMU56M0Z1SU1hWVFMc2thMnZ3TXRheGhXREFVVFlDV3h4bTd3b2dKSFl5dnoydml1TjlDanVFS3RlN1hEWWEyOGRXeFp5NkRKMEZGMlY0MTZXRTVrY2cwVmdvU1EtUFZHRjg?oc=5"
+      "title": "美國期中選舉將登場！歷史數據揭美股「選後上漲」勝率高 但今年藏1隱憂 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNNEtPUGZzSVpra0QzSnpwV0Jib0t4cURhU2NQaE9vM3Vha3RUU1FNeXVPVTZMQ0xzZVBhNlVmRFU2Mnc0bGJEZmJCeUZnaUt0STI1WE9idkU5TFdHV284SFVWZ0NVdmJiTUVVVkZKajJ4M0NMd2F4aDRLTmxHQ0FYSDRmeDIwQlJ6SW81YmxwbENfR0lyMkEySWpXOS1kVkxNQzQwc2FLUmpzSDAzQzVQLVhtbFNEdnMwWmFpdnhTQlZIZ0lkdUlvRy1ham9WM0t1NXBLdFVUX2gxOGdaUTAzM1dzZ0FsVFloTlBybjdsTWhLWkMxVHFJT2NyOUNIQVZmdWNpdXR4cnM1VFdieFVEcmwxRGVCYUxheTBRRnViMEIydWI3c1BSRWJaSnpuQkE5SGF2eHRZenlKdjVVZTZGRjhJNlcxakYzbEdQZjNWRUN3cTI3TWkza29CNzNIaWRsWEVEWXBKM3AzR0xnRnJZU2tJSVVVcVlZRnJENS1LZ0JoeEl1Z1NjeURBSk1YYVBTMVFsZmw2bV9PNU1tdmhQTDYwOFJBcmtlS2p0bjJHdU93c1pfTV84b2lqUlloZw?oc=5"
     },
     {
       "title": "中東緊張局勢再起 黃金為何仍暴跌至一年來最低價？ - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rdzRyLWt0b0UyZWU4eF9wTFB6eEhzT0NlZFFkU2ZwV0h6cmQxZjFTVDBiamNvT2Y3bzhFZFpObHVTc1VTcndDc2FrdEFEZmc?oc=5"
     },
     {
-      "title": "美股收盤／Alphabet 崩跌近13% 市值蒸發近5,000億美元 費半結束四連漲 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FbnliYU0tRXhqQ0g5Qk45d2Vpc2U1Q0hjek5RSEZvcDQxd2dvV1lJS3c2M3NSRE1SbEZqYl90V0lkeTJQV1NnQTZEa1Vla28yM3FBYlVRTTFBVFlr0gFiQVVfeXFMTW1ybzZ5bkZlaER3a0hWMzFxSGp5cTc3REFDejlCQ0txa3JhWFRLaDlFRTdiSkdVcExsQ1RjX1pjRHZ3QlQyTUx0eHc5V0VXU2QyNHVXNG9iaGluaVgwaU5oUlE?oc=5"
+      "title": "英特爾暴跌拖累美股！台股危險了？分析師揭聯電、台達電操作關鍵、點名3大族群成避風港- 證券 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxN2d4VkEyaVpGamdrbG01bWFScDhIZkRMNDdQZVJaZTYyeDl5emN3LXJ5eUlYRDE4Z1RQXzlIRmpGdGhETXhIV2tPejlTcVh3WkxWZkpfSEw3Nl9lWnZR?oc=5"
     },
     {
-      "title": "台股跌破季線「逃」或「買」? 歷史數據曝進場勝率驚人 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RazVITGwwZkJ3bVFlNEhVZHJ4cE1hWC1GZU9Ic0pqbEw2R1V6b3lneFJXNFVldFhYd1JlOTR1WUNiTG96WkVMWHpiVndoam5Fb1ZNM2NrZVYwOFJHMWNN0gFkQVVfeXFMTktXU3RuTUVWcTFXc21FX3N6VFdEaklMZEhqdVFjdk9EVDZRZW0wdWlremsyV2xHUmVYUXJKMURfX0FXTkNRVVlSdncwdVBORU1oWGYzQ21Qb0w4Tm5TNmpKRXJhMg?oc=5"
+      "title": "台股明大逃殺？法人：基本面無虞 靜待國際股市回穩 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pYkY4dzRLM3NNZzYxdzZ0TFZVS0xLdXZEZkladEd3bXM2YjVKTmpjcUtZUEQyYktXMlZJRkI5UzRCVDhPbGdtVFlSTnhncXpU0gFWQVVfeXFMUHE4TFVmVldTZzZtN3Zzak82MVM5Rk8xb2NndjNBeEpua0h6T1YxN3RTa29wUUxoRm9YVlZBaFhwRm5jbmluS3dTQkx1b3djNXJQLS1BTWc?oc=5"
     },
     {
-      "title": "費半重挫7.2%，華爾街殺紅眼！美股暴跌3大元凶曝光 - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ybGQ1UjNCVzFqWm1Va3ltdGFvRDdiemlkTm1tX2NQT2NPV3NlS2R2WUU2cFFXRnU3Y2N3T2I0VDhkSXlvTmdMSDVCOFl0Zw?oc=5"
+      "title": "比特币11月历史回报率：2010年起10次收涨6次收跌，平均回报率34.59% - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1peXpGMDV5cjRDcC14N2Etc28xZFYwZFBvajV3eDk1SVVvRFpRbDRUZTd3MW53R3FzT1RCVnVXa21FS1VDYXFvekhzbFEySGtmcndlSDJpcFAwMm1jS3BNRzZFcnFFQQ?oc=5"
     },
     {
-      "title": "黃金還能買嗎？貴金屬正迎全新世代：央行購金潮、去美元化趨勢、ETF投資標的一次看｜豐雲學堂2026 年 10 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxQUk5MUUw4SE53UFpUUGRvR3Z4NXBuSGpvNjBuMlMwaVVCVHd2ZGRJSm9qMmY3dzJsdE5HODhxN1A1OXZMb05BaWtkSWJ2aEdTc1A5TWYzWERIN0tybUxnNEFvQWNMMktxNV84cWtzY2xORlNXZjRScHlLaWI1U3dxblF6VThqaWhYN3k2dm12YmRGN0c0MFFBemhwNXBuWC01NnoyaGJ6alZhb2FnSm1VejgxUTVtelY1V1BzQU9VbTFOSkFoSWFmMmh5ODA5TDYwZExWZzVaNnloRmpRbnd4WmZfNkpSZ1ZIbGVNMnc5MXFMN0pVem9BakJaeXhiMGNyVElpaEZyX1Fob004YVE5a3lfd3dGSGpodWZ3dmJRcU1hYllTQ21WSmhjeFoxNC1NeHdlcXR6WW1qRGg5TGF1V2NJanY5WWU3N3M2ekRSM3Y5Rlp1LUo4YW5Vcm5mNmFSV2tnakFjQkVOME1vQnp5aWpqRllfMjBmT19lQzRVd0R3UlEtYlluTm9tYl9TQVJ4V2s4VWg1X3VrNzBDc0g1Snl1bldOSjFaS0R4WWtVMXc3VXRGRk5MSFQ1M1VhUzFnLXhoUHF1dDdVM0tKZGkwTVZxTUNaV3c4U3d2MWRONWZZSTdiOXFVRy0xSjE3X0FMVFNkUEZUTF83QVMyeTlBcTFUQnBuazhRTUdyRGY2aEw1UQ?oc=5"
+      "title": "台股恐慌低點勇敢買 掌握修復紅利 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXamtneWhNNWlfUWVCdVlTd050bnNxdFkxR2VrY2xDTmNYNGNYZWZmSWUwbGVGNk0xWFQ1M3dzWUFyQ21ZaGZ4Sm5McjJUbW5Jbkd6YWVYTmcwamxLZzhV0gFkQVVfeXFMT2JGVHVBblBvZkxpU0ZSTllQSm5kdGJ3dEVTMzBHVFZKbC11Zk5RMmRZeEgtMVJpUVR3Vm04aXpHcm9VTzl5ekZPQ19OLXdNcUttLV91cWdteVhHX0dhLVZYMEFINQ?oc=5"
     },
     {
-      "title": "台股摜破季線及半年線 投信：短線觀望心態濃厚、長期仍審慎樂觀 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNei1QdzhSWHI4RENQRWN1NVRrZ25EeWo5RlV6RjdtOWRFck5VcjVIN2xRQjNGb3Q4R3gwbmFnNERNRk90ZW94X1RmcnZTYlZPSEFGRlpxTlJseXRiYVVwNEdfVFQ1UElDLTFtQXJwRjdvd29JZ0RVV0ZXSG40WC12ZkhiN3pYdDRoYUdLVFRsRWJiYlZIMDcxdE1pU1ZJOENPTm1rdkxIZUw4YjRFSW9oSUNoTnNDVW5DcERfem5Fak1Cc3B5eFhlMEtITDhQc0xUV1F1Z0lVS1BaWFhHRk4zbTE4VjU5U1RVSWVaR3lhSmNlMTFRZ1dBa3NiN3FzN2QxcVpTQlU5a1phSVJiOEdVX1U1Wl9NeTQ5OGhOdWs5bVBtOTVOOVhXREswQTBCYWFxTWhMRVUtd294dE4tT3piNTU5b3pHVkxDT094RkVTMTQxMThCSDlCaktYZkt2UDhTQlZtSVViNWtQT3ByYkliNFUyT2E1aXlZb3VRTjhtR2xqS1RZN0podlE1NUlHaGtUUndSY1Jrd0VVQkZFNDE4clpVTQ?oc=5"
+      "title": "美股崩跌，台股明天剉咧等？不敗教主點名15檔抗跌股：像小強一樣活下去 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQREhNRGpDQUt2YzQ4NnE2dXdWMXhqZGVWR2pMR3BScTFteF9qVUt5bGxqZ18wSWNXeFEzclluVl9iOTFKMW5ST2MtSEc3Z0ZCT1gtYjZJT3Q5b3I0Y2JoWll6cHhlci1QclVsRTVYTHlzVkZTWVcxTW9FTWlqWHNwQ2dVZk5kSlpjaEduVlFDTzdZWFdJazROQWpVSS0yRmI2c0FodnBSODZyR3Q5ZERaajZIdXpsUUJkekp0QzBWbVJtSV84WkhBeWxsT25BQkJVZEhvajZQTFFGQ3NCNjRacDhFVjZtQm5COU5hVFZHSHRydVdRMXhpeHNFYlBObmdYc25mMDRNOHdna2p3RlgtR1IwZUh5SWRPRkZVNk1JeG5kNUZLZkxjd0pQdm1idktKLWt5Z3gwZ3daX3YwaFdZbGtWVjY2M0lOSnV2VlpCOE5SVGNPdkJLVC1RaHpvcTdxWXdRd0NlenFrVEdqMDUyd2tUSk1RaTdxTjhtVG13aUUyWnpHZDR6RzdRWnNScFVpV2lQWlRNUndWamhLcjR3QWNNS0pKZUZaMVV3?oc=5"
     },
     {
-      "title": "美股早盤／科技股賣壓超重！那指摔近3%、費半跌5.6% 英特爾暴跌29% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uSllvUzRCWnpOMlp0UU5xeHJaYTl0Mkx1UmpnN1FRcDg4X0VORWxVdl82TTc2UVJjVjR4WDhzMURFV29yYXZHTFVGV2FYSzhE?oc=5"
+      "title": "〈美股盤後〉英特爾暴跌近29% 費半下殺超7% 記憶體ETF DRAM單月崩約20% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByZjdnRGFsWGFaZU1FQlVCRDJYUDg0aDlicG9PNmF0VS10RTJYMkFyamVMSldfcThUbTZmb0JqSGFhZjFiVEhUb2lOc0hBNTQ?oc=5"
     }
   ]
 }
