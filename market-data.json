@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/02 17:58",
+  "updated_tw": "11/03 04:09",
   "taiwan": {
     "2330": {
       "price": 2330.0,
-      "change": -40.0,
-      "changePercent": -1.6878
+      "change": -85.0,
+      "changePercent": -3.5197
     },
     "2454": {
       "price": 3970.0,
-      "change": 55.0,
-      "changePercent": 1.4049
+      "change": -75.0,
+      "changePercent": -1.8541
     },
     "2317": {
       "price": 251.0,
-      "change": 5.5,
-      "changePercent": 2.2403
+      "change": 3.0,
+      "changePercent": 1.2097
     },
     "0050": {
       "price": 104.1,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 204.64,
-      "change": -9.02,
-      "changePercent": -4.2217
+      "price": 204.13,
+      "change": -0.51,
+      "changePercent": -0.2492
     },
     "AAPL": {
-      "price": 344.63,
-      "change": -4.28,
-      "changePercent": -1.2267
+      "price": 339.07,
+      "change": -5.56,
+      "changePercent": -1.6133
     },
     "TSLA": {
-      "price": 399.81,
-      "change": -3.49,
-      "changePercent": -0.8654
+      "price": 404.07,
+      "change": 4.26,
+      "changePercent": 1.0655
     },
     "QQQ": {
-      "price": 690.49,
-      "change": -24.85,
-      "changePercent": -3.4739
+      "price": 685.4,
+      "change": -5.09,
+      "changePercent": -0.7372
     },
     "SPY": {
-      "price": 755.72,
-      "change": -13.64,
-      "changePercent": -1.7729
+      "price": 755.32,
+      "change": -0.4,
+      "changePercent": -0.0529
     },
     "SCHD": {
-      "price": 35.78,
-      "change": 0.17,
-      "changePercent": 0.4774
+      "price": 35.965,
+      "change": 0.185,
+      "changePercent": 0.5171
     },
     "VOO": {
-      "price": 694.81,
-      "change": -12.51,
-      "changePercent": -1.7686
+      "price": 694.33,
+      "change": -0.48,
+      "changePercent": -0.0691
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77983.64,
-      "change": -264.8131,
-      "changePercent": -0.3384
+      "price": 76829.39,
+      "change": -1419.0631,
+      "changePercent": -1.8135
     },
     "ETH": {
-      "price": 2288.98,
-      "change": 15.9278,
-      "changePercent": 0.7007
+      "price": 2250.17,
+      "change": -22.8822,
+      "changePercent": -1.0067
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.549,
-      "change": -0.0179,
-      "changePercent": -0.055
+      "price": 32.587,
+      "change": 0.0201,
+      "changePercent": 0.0617
     },
     "JPYTWD": {
-      "price": 0.2039,
-      "change": -0.0024,
-      "changePercent": -1.172
+      "price": 0.2042,
+      "change": -0.0021,
+      "changePercent": -1.0266
     },
     "EURTWD": {
-      "price": 36.562,
-      "change": 0.1467,
-      "changePercent": 0.4028
+      "price": 36.529,
+      "change": 0.1137,
+      "changePercent": 0.3121
     },
     "CNYTWD": {
-      "price": 4.9033,
+      "price": 4.9091,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3908.7,
-    "twd": 4090.0,
-    "tael": 153388.0,
-    "twdTotal": 127224.0,
-    "changePercent": 0.2514
+    "usd": 3956.0,
+    "twd": 4145.0,
+    "tael": 155426.0,
+    "twdTotal": 128914.0,
+    "changePercent": 1.4645
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股盤後｜市場擔憂AI產業獲利前景、油價再度攀升，四大指數收黑1102｜豐雲學堂2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPQ2lobUhDOGl1aVJWTGFOamNEQkd5NVZLcVFOVWpfMUdHelBmTjQ5ZjhZTDJnYngwdXFGSDB5SVV3bXg2bTcxU3dac2VsTWt5cUpCODBWRFRZbWFGZXg1WnRXaFNHSGJLcmpOOFVUZXg0OUN2SnJNckJYZ0lZc2dfUDJHRkFkZVJSVUQ5NXdsOUxyeVNUam9SZ1BDRTZPaUJKdVJFV3p4dFRrZjRTVVF2Z2N4MTY0Ym1QOG95MF9qNlhFcmViNHNrZ19ObmhoZk8yWWU5Mkw3WHpkXy1jeXV1X21vNXV0ZVdpOFFEVnFfS0M2NDRMdjdSUDNtclZsbmF1RUdnVDhsSjBBUDIteU1qNGhDRGpBRl9XSU1PWTlLTmNtRUQwTkUxWVR1d255OWxqcXRSMV9zQXd0NV9Ia3NJUVhEaUg0Q1k5ay1hYmFNWTk5eVJHdWlPb2RkX2sxcGo1U1FfYlBKVkhKeUZ0bFAwME82N2Qtekc5WUxKWFZEOUwxa0pNVjZUNnpsMk9TamxHbUtUNmt2eXlOUTVKVER5T0pZY1UxS0VnY3g1bVFlU2pWcDVGd3NmZEFHZFBuRmk0QlJIdFB3WE9aUQ?oc=5"
+      "title": "〈美股早盤〉油價急跌讓華爾街喘口氣！科技股反彈帶動主要指數開高 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nWjlob1dFM0g5SEFuRTlwTUNYZlVodjF3dV9yOUV5VUNEdXNsMXZMWlhXNHRad1hjU2tsTWR2dUg3a0kyNVlVQXVUbjJhVHM?oc=5"
     },
     {
-      "title": "美股先跌就有買點？大摩威爾森：標普選後恐探7,100點 再攻8,000點 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FakdWelJJY1VLd0xmU3Y1SWtvbVEwV0xseEVhUTlSZXU3RUtQNHFnVHpURXZNUnVGX2tkNmtkLVdPbmItWlhVOHFTSGwwU0FC?oc=5"
+      "title": "【美股盤前1102】費半暴跌，財報卻沒有你想像中的差？｜豐雲學堂 2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOTmdzX3o3MjIzMWNaYzZrZzBiZW9la1BGaE5WdEJfNHgyZlZDTVdMa0ZqM2pkV3VBal9OdWZYWHFVczFWUUoyQU12Y255Y2g5eDZENjUzU2RBOUFQVkhwZUYwdmNrZ3lXMC1FUGpvRmx0RjAzVTRHRnBtekFGTzJGYjBBZUlURU55UXM2R0FVNlEwaGRnNnQwLUsxd2U3aXpZTVFHTkE1N0ZVSFpUaFZOaGRWVG9CVV9ET1BsZ2VhaW5JUHlPY2dXQ0tqYUc2alAxM1d6Nk1nUjNkdFNMQnZOczVySl8zRVo5ak1Ta3o2d2g4VERfalpFbjdDN2k1dXhrM3lpNEV4ejFSbHNXUGZSelRmLUVJQTVpWGFsdG1uV2FnMXViU3o3R3E5OEUxN29tT0dHQWM4YjVyQUNBcm5oRTJVTkc4V2NVNHFINWZTMDJIS2Q5c2lFS1NQcGNOdkZYbE9PM25YLXdYTTZaRVZPdktKVQ?oc=5"
     },
     {
-      "title": "黃金暴跌背後是流動性危機？2008年曾上演相似一幕，隨後三年 - 群益期貨",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHAwUk0teEd3a3hDRVd1R19yY192SjJtbUZaY1padTBXY0dIQnRZbTdsOHlIb2h4M3YyMUhfYzlucjJrYUc5RFJMZTJuODQyQ3FRdjFZUzdycFFLVTg3c0gwdnNWQkVlWXg1TUhISjNwMHpRNUxaZVlQYS1YYzhiREtvSEY5ODhtRHlSbnJ6MA?oc=5"
+      "title": "美股期指大幅上漲 美媒：本週可迎來爆炸性成長 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iRUZ1OWdSMFlua3pfTTVTWEpiSFFiSTh0cE5PQUhZOElkYlRhNkVHQVhxWS1TUXJNNTNONjB2RnN5UEQ2TG9udzdFekhwNVFXUVNJc013bF9XZ0lfSjA40gFkQVVfeXFMTjJuVHktQkhGYjlnbklHZlJKSW13cXBfcmsxZUpqdHV2cXRkZU5kZk9ZQkt5dXFzeVI1OEZPT1FoUkowQXdRU1BzQ3JXX25ySXEzNkEwNGlwYVNjMjVMSHc2aW1lQw?oc=5"
+    },
+    {
+      "title": "美股投資人注意！ 台北時間今晚10點半美股才開盤| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Vb1Nub3Mxa3dLdUtBQ3cwWDBmSGZPRWNORFdISkhSQVh0c1ZDU0ZGa2I1SUY0SW9vV1NMNDg4aGNVTGpIa01Tc05HMlVKNkZ4?oc=5"
+    },
+    {
+      "title": "美股閉眼買都賺的時刻到了？ 選後行情將開跑專家卻示警3大警訊- 財經 - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YcFhfSWJTMnExZTdxbzg5czZsYTFzV3Rja3cxb1dIZEhNa0hOYVVKckJSYUx3a0tfNHZzVlJxc3cydDFFdG9manZQUHlWSW5LdTVDUGxzLWc0Ui1Ya3JicUh5RkluNm9Ya2tnQXFn?oc=5"
+    },
+    {
+      "title": "美股這波快跌完了？大摩：這個指數六成股票已跌過兩成 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOVFk3TXY2czBySUpWc3hmelZpSTdYZFVGRkNsY0V3QTNPTXFPSzg5czFxckJCbFRwbFZhaGtXVWtIMkRCMjI5UGU3cTF0OXpNTW1HdEU0UGhfNkhnQ2Z5LUw5bkUwdlNHa2xzdzdCd2dQVlM2TDR5ZnhHWWYwc0ctNXhlSng3M1I0WU5OaUZDRl82N0pUZ0l4ajlCLThpZzFXZTFqS24zN1ZxM2lWTGtOV044QldLVUpCTEtZR24zbzZoWllyQVBDSzcxeTlod2RLVUxmaHVoSTNUejMtQjB6Y1IxMS1JRl9ES2ZFYzlmVTBMRWRZMllRbEtRMk9DNDZaaVJZR012VVJGaWZDeFE4UzhQU0tGWEZUQzlxTmI2dW9lZW5xSlFkU0lkX0tvSWY0NVBpTVpSNkpVbEpFRUwtN1l6U3NQRjk0N0txTW80S1BPODVlV1pvUkFwUzFKS1ZvNVp5b21KRlFRbGw1RHVnZXJB?oc=5"
     },
     {
       "title": "金價會再跌？黃金現在可以買？黃金價格破3900美元近1年新低…何時大放光明？大佛李其展給這答案 - 今周刊",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQckd2VGMyWlpLblpNdkNLajZmdFVYYnJYdDVUYXhhWFY5cEtmQzd5WU95NTZQT1B2NUR1czZKM1NOam5DOWpObzVyX1VXc1BCUUJ0c1V1dXpXTVpRYlhjeEx1SWlRck80Qzk4dVlYUlpoVXhNakJrU1BSUU1Tb3VhcQ?oc=5"
     },
     {
-      "title": "台股衝5萬目標不變！ 郭哲榮加碼「雞排、珍奶」：沒達標發萬份 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPYl9ZSU1HLWVxald4SG9XZW0xOVRlRnRjYW5GVFAtUFdCRmVPUDAwWWQxY0NuWFFodHB3aS14SkRXSXpRRWphQ0NkSWNkeF9IQXJseHlaQndWZUw4ek9pOVZPZ09QN1VMRE50OGZ6UGlWQlYxWVR6OEl5SzdYVV9oWUVwTXoydHVpTWJFZkFyV191NDBkXzRrcnpWQTNoOGVjaElZYm10MVRGOEp1M1Bmb1l4Z1p2VnpwRHNESVdmLUVzZDJHSi03ZV92aGtGRXgtQlVBWnp4enB2ZGpEMzBqX0U0LThQOWluRVJ4Vkw1R3FaNUhsaXlMYUpmV3BKMVlHcXRFbU5pYjczUnVDOFBucG50T2ZUSDFlVy1zSmg3QjRwTkVIUkxsMmc4Z1o3UGs5aDVyZExmalhyRHdZUHdsSXNJYS04aG5wZl84SjdJQXZ4SXhIaGxpZ3ZEV05BQ1loNUVpQjFvSnlyNEZFZW1NbTFqd0xWdw?oc=5"
-    },
-    {
-      "title": "美國期中選舉牽動美股！花旗點名「兩大風險」：民主黨若拿下53席恐衝擊股市 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85WFExLWlIS1pQQ1c2MGtaRlduXzdVZnVmZi1jSHFXbm5tWGFCUVg0T3U3amtaRHRlTmFfMUJTSmZ4XzBYbFNveFk3eExVcVk?oc=5"
-    },
-    {
-      "title": "台股一度失守4萬5千點 美國期中選舉後有望止穩 - 公視新聞",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mUmlsbGliSG1nWHBieHN6bHYwRDVGU0ZzOFc3OWg1d2NfNURQSjl5VF9zUUtTazM5RXY3NHdLVzhGOWs5UUdFWEsteXZnQVU?oc=5"
-    },
-    {
-      "title": "台股開盤前 美股三大期指齊揚 道瓊期貨漲103點 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vZkZjZVN0Z25ORlFvLUg2YWJaNkNGM0poLTdyY09WOUVYbzJMQzd1T0RYZEswelFFclU5VktBVEZrNjZYcG8xMTlZUjdDRnF1OGFvelctTndRT2F50gFiQVVfeXFMTjZ2cUlpLWkwVFZHckd2ZjljR2d0RVVzd3B0TE1ZaDljVEE5aWRVMG5XVWFKeFVIdjZMZ1hCNE8waWVTR2huVWNQSldkNTZIdFhBN3NBdXBaZ1B3RHIxYk5Dc0E?oc=5"
+      "title": "【即時新聞】美股重挫但VIX恐慌指數異常平靜！摩根士丹利(MS)揭露法人去槓桿真相 - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZFpZUHZZSW84OVFKYlZzNVhBRWkyak1INnU1QjRCbWtmYmRieUpObmlvNXFWSElwV0podG1vbl9BVzdaYmpydlc1T0dIZHEzMFJWWlRpdVJmdXc3Sk14MENuSXNja1cyN1I2MFpleFhWQVVWa2lhOVlyRS1jOUh3V2hoMFVSeWJSR1JQUnoyNDk?oc=5"
     }
   ]
 }
