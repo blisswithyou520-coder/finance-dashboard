@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/04 10:43",
+  "updated_tw": "11/04 17:54",
   "taiwan": {
     "2330": {
-      "price": 2295.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 2260.0,
+      "change": -35.0,
+      "changePercent": -1.5251
     },
     "2454": {
-      "price": 3675.0,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 3715.0,
+      "change": 40.0,
+      "changePercent": 1.0884
     },
     "2317": {
-      "price": 241.5,
-      "change": -4.0,
-      "changePercent": -1.6293
+      "price": 240.0,
+      "change": -5.5,
+      "changePercent": -2.2403
     },
     "0050": {
-      "price": 100.5,
-      "change": -3.6,
-      "changePercent": -3.4582
+      "price": 99.85,
+      "change": -0.75,
+      "changePercent": -0.7455
     },
     "00878": {
-      "price": 33.67,
-      "change": -1.13,
-      "changePercent": -3.2471
+      "price": 33.61,
+      "change": -0.26,
+      "changePercent": -0.7676
     },
     "00919": {
-      "price": 31.49,
-      "change": -0.99,
-      "changePercent": -3.048
+      "price": 31.26,
+      "change": -0.46,
+      "changePercent": -1.4502
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76525.3,
-      "change": -151.9969,
-      "changePercent": -0.1982
+      "price": 78337.81,
+      "change": 992.7631,
+      "changePercent": 1.2836
     },
     "ETH": {
-      "price": 2252.28,
-      "change": 3.3938,
-      "changePercent": 0.1509
+      "price": 2319.82,
+      "change": 47.0942,
+      "changePercent": 2.0721
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.82,
-      "change": 0.2349,
-      "changePercent": 0.7209
+      "price": 32.842,
+      "change": 0.2569,
+      "changePercent": 0.7884
     },
     "JPYTWD": {
-      "price": 0.2061,
-      "change": -0.0002,
-      "changePercent": -0.1212
+      "price": 0.2052,
+      "change": -0.0011,
+      "changePercent": -0.5573
     },
     "EURTWD": {
-      "price": 36.98,
-      "change": 0.5158,
-      "changePercent": 1.4147
+      "price": 37.033,
+      "change": 0.5688,
+      "changePercent": 1.56
     },
     "CNYTWD": {
-      "price": 4.9198,
+      "price": 4.9285,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3953.1,
-    "twd": 4171.0,
-    "tael": 156422.0,
-    "twdTotal": 129741.0,
-    "changePercent": 0.3223
+    "usd": 4052.5,
+    "twd": 4279.0,
+    "tael": 160463.0,
+    "twdTotal": 133092.0,
+    "changePercent": 2.8449
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股盤後｜資金重回科技擁抱、油價持續下跌，四大指數漲跌互見1104｜豐雲學堂2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQVDBVX180S05faEVKdXdhX1k2SlpSYUJhaGFBTkpURTJJR1pLS3hQc3RhdE5YbWFqZUdBcFR4ak4xWGhsTHBjbkdQaEp2d2dDbzlCc3VhV2UwWWVhbVJhY1Vld1BFdmUwbF8taGI2b0RpWlhyT3c5LXB5SkQ4YjNUNUxZMGVpS1NrV1BXVlc5V1dEUlhqR3VfWlZGT1lEVGxIc3FTVW1vc2FEV0ZYQktRbDU0eUV1MldRNjdoVHJ2WjJtNlJScDNHOW1DN1QxZ2hHQzJ0empCblV2NFhBaU1rMkI5WF9Ja0cweWJNdlNOLXhsaTd5QTRFN09pNjhCVVYxc2pDdkY3QVpfTUJtQXVmZGRzMnk2T0lFY0pOc0F3SVVDSi1lclBqNXpMakM5d0NjR3FKWlR2ZnY1SWktYklnTllvRTE1LU9wNkE0OEJzdlFjV3ZYM3lPcVB4RTVGR25mQXRPOVM5akpubFYxTGNPTi11bFNkY0VfV2N3R2pwd0ZEbEJHdTJEa2dZTzhfQTRUQmZacXVPUmFpMnBQSTMxM2tWNlVWc1ZpR2tPdkNnZ05wS0R3MDZSdGVRUXBVWk5lUUNiM1VYZw?oc=5"
+      "title": "美國期中選舉牽動美股走勢！瑞銀看好年底反彈 網嗨：最好的時間要來了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOUEJFeWZoU2JlQldzR19kTUM5MFg1SzJROUdFYlpRaXV6V0U4bXJJREpJTUdiZFFDRHlSY293QU5yMkE2UmhIQUNMOFRKbnlmZkQtUl9IWGZjUmlsSXV0RE9ZZzJhZGdSNExQLUloSGw3T3Jod3U4bXlGRU80NnVuenVRc2p4eVZueDV5dzN2ODJQSTd1RHhKSzhxUEc4b3R0MlFlX3ZsQjJRV1Uwd0wwTUZzdzNiVTd0VE5RU2VTQV9MdDNkVE9KemJJaVlYSDEtLU95YzZ3bm9GaWxmZ2ZudjlFbUxjRjI3NEtPSmIyc0hyZEtManNxNGdsZGNCS2M1dDhWQ05lcThxQnAwQ1J6YmFOa3FjcXg2OXY3bGxxZHQ0U2J3Y29GQ0FBV19IdGFBUHlmcXF6U1dONG5KeEl1b2E2bW1JWUNmVElZZFFsQXdjTTZNbVZaS3hMbEFfbUVqelZiMGxiWlNkQmxBYVJlaXRnZjlvbXhZa2Q1WnBLWENzTVZNcHhCTkNnOFdDaHc0MmZycXhBdnNqdFRCWldFVkh0elJmS3QzQ0wyenV3c2RXUERNbzVBdGtnQmc1NzJjVGZsZmtBMA?oc=5"
     },
     {
-      "title": "美期中選舉開票在即！美股漲跌互見 費半大漲 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQanhTRUJRVmdDUlpTSFFZelM2cXktaTYyM3RDTVRMTTgzSndHa2RpWVF5YWFxM3NsMDM5a2tqWHNnV3pudmtCOHFyTU1PRlNmX1lZNFBaa3U0NFBRSVJGVHN1cnRablpkUV9nOUsyUkVRQm45OFVUeUw4eEpBLVR2VVZmVWlNUG5pVmRmcTVIM2lmSWlzSTdaQ0RCU19mR3RPUzhYWnlPemNIalVaWXM1YmhpMTJMdkFUMDZERGlVZEtkT3FGTkVQMWgxcmE0TVdRSDFLVEhrY2t2Qng2UVUyejdVdUlzRFpPMklIOHpfVV9aa1RUOTNJQTA4WDRSbzN2bHQ0LS04T2FjbWRiSmNqMEFHZlRyNzJKd3B6LUl5SXV3YzRMZ2R2R1ZWdXpRdk1paUtUMnd5TFdSN1RFTnRVR3FB?oc=5"
-    },
-    {
-      "title": "美股收盤》美期中選舉投票！美股漲跌互見 台積電ADR漲1.55％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BRHVDZUhjMnplR3BQcVpYbWRTMDkxOEhVOVBZSm9rUzMtTmVmZUxlT0hmbmxWRlhIQzZpV2w0N09GMW9mVzdTQTdUMkllakUyNU9Edm1rSGlWUUVCLVFj0gFkQVVfeXFMUEc3anhBRzk1RDViMXNqdS1tcU1NTTJCVnhKZlZvUndNX18wMldhYTZSV3BGdFE1RU91QXBVcm9UcDhZQmtjdlhPY2k3MWdGalUwTzZwclI1NEpuOG5JUHdVRWtBWg?oc=5"
+      "title": "美期中選舉／國會就快變天了 為何美股重挫美債漲？藍色浪潮不利AI衝 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ib3NqNjd1ZEFRYlhGSkR5ZTk4cVIwLWtDa0ljdjlSem1lMzFUSGhrN1hFR3d5YmlLNjlpZkJPLUhVVkVyU3diaklZQXVMU21CRS1CODJjWnk2dEd10gFiQVVfeXFMTmtkdkd1TGtxV2xhRDR5SDRwWnN6LUtyamFQeEhRekl3bF90bVpVN0pZTmwtV2drYld5WlBXbll4Ny1jT1Brd0wxTUVsaUE2S2M1UUpURDR3T0c2NWpRSzFrYnc?oc=5"
     },
     {
       "title": "〈美股盤後〉期中選舉登場！資金重返AI股 費半勁揚逾2.6% AMD盤後噴高 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtS0Y4REk2QWxUZVF4dFpCSTJCN2FVd3R0RmxZZkdGQi1meWQ5UzRCZW5CaDlhcXphcWh3OGxXMTVlVzhSamxBTnpSRTlKeXM?oc=5"
     },
     {
-      "title": "民主黨「藍潮」席捲參眾兩院？預測市場押注升溫美股期指翻黑| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uLThHaFUxNDVhNWR4a0g5eG1QYTdqMExQVTd5X2xUX0wzMHRPWG1VazBjUXFsQ3ZxTUtyZ1A5SzdjbzNadDliR1ZBRUpUOEZh?oc=5"
-    },
-    {
-      "title": "AI資金回流！美股費半勁揚2.63%　台指期夜盤漲逾400點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzM0pVeEhYdzQydE1TS3pab3E0dkZsNXpDUTIyTEVrT1JsaUlycmVwZDBhZU1keXRnS1RMclU2TUgyblhxeWhBelJZM0h5ZkQ2WWfSAVBBVV95cUxNQW9nUkRBc0JSRUpMWmFDSWVBUWxSempXXzRSa0RZYnJjWnR6dHRGaDA5ZHV6ekoyMDJaTkUtS0J0M1kycGdYZXljMVBMaWVqWA?oc=5"
-    },
-    {
-      "title": "美國期中選舉對美股、AI科技股、關稅、油價四大影響一次看- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WWDNEX1VJRWswdjRVRUJpcVlOSl9KdkJiUWRybDNGekNzYnlVMVRZdksxSmVhOVotUU04ZVBLUmp4R0hZMkx0b0ZvekJDWVJvbVdjaXgzX2NHcm5OV2lN?oc=5"
+      "title": "黃金又跌了！漲不動有原因 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95VVU4ZjRyVU1WODFEUVYtekJ0Z1BPQ1JHMTRSMTdHNnEybThEak1saEZoVzBkYlJUazc4ZUt5Y2lzdHV5U0pmYWhxdkF5U24tTnY0QmxLYXVCVVQzNE1V0gFkQVVfeXFMTjJVcVlkOWlaQkRJWWQ1X3BSOXh6R0Z3MXBhM1JyblBZeWVpZTlzNWRIQ0JZOFVjWTVscEhPX1dETmdHWWpRS1l0RGxVdllvN1FONzFXX3Y3X3ZpZ3R4NXJjUnBIbA?oc=5"
     },
     {
       "title": "7~9月黃金投資需求下降14％ - 日經中文網",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMEJENGdBVTJneHIxdno3alFyM2VQdV9lOGstbUV6RHpxZkNvZDJOSGZ3QzhWclB6YTJ1Tm51TlU4T01VTjRkS0lvRlVOdzhMSUU3ZjVhd0FNd3JpZXlWVGxvcDJ6ckwwRmFmVnJMSDVmdzZTZnozX01YbXBRSGZ5MWlpRHlFZ0JnclE?oc=5"
+    },
+    {
+      "title": "最新！2026美國期中選舉開票：民主黨取得國會兩院多數，牽動AI、國防、醫療與金融｜美股觀察｜豐雲學堂2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxPdF9fUWdGUzNMTGYzZGtSTWFHQVcyTkxhdW5zakVSZDRha3VOeDE2MFkwd01OMmtRSVZDMDdDZHhVUHJwUy1BN3hsNTNaYzJIQzZlV3lSNUhBTng0aTlwSUZmdzBiXzhWdVBYRWxZOHJtZVUzVTlURUVRTWxlZzBOZTY0eC1zdWFkQ1F0U0tjR2RHQkphR01rSktILW9tdmxYODlUaTR3cWw2WENxRnc2TDUta1NXbzA1R2laLXIwbFF1SXBGc05UMDNHNTl1Rkh6blV6WHdncTJFTmRNcC1MQXN4OUROMHJ6dmxiMWdHM0dCb0xMWlpaNWtlUmZ2U1Y0emZxb2xIaHJ2clpYNzhwRDJ1Vy1mV1Z1aEJ2QnRMMjVING1tWlBKamhPNXRkSlM1VjJjcDlEZ1hPazE0WlJyYnZZVl96cEd0clg4MEFaMWpzaHhRSWhScV92YndHaUw2dDBxZ3hQamd0MnpqNlJRN2Y5VUFFNWxTS09uUklUZjNVNjJ5QzE3OFFoTk9zZVZYSEtqLS1iQVZtbHR3bnRkYXU1Ym5PNnJFb1g4amdUZFgtVGlpeU05ZXYxZnZ0OU9EaEdDYmtkX1daOE5hT01oYXl6d2JwS0NqOVFOUXdWOUVmd0xQb1ZVVlNBc0lwWFR0NnU2NkR2OEpZR0tTbkhJTVBQR05aRlRXbDVOSHU3TElJYnBnTUhzV2hRYlFyR1E3MUpONGt3?oc=5"
+    },
+    {
+      "title": "美期中選舉市場預期「民主黨全勝」！美股期貨、亞股急殺 恐慌指數暴衝 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxPSTVCWmMyS0JqQ2hCdkxPR2U2MnczMllTNExuclpEbEZTTjAxUE5iMDFoajY2YmtpUTRhZlp0cUxBRU41Ulp5cGpLYUlGZlpHdHJiRE5OLUYzMWotUEZhbWprZWNkVlgyalk0bGVtbFJfLTBMMlhDaDRtTDNTeWxFUnlneG04YlVLc3N0X3pNbnNIN2wtd0c4MW12LU1PRGxCUDZhUUxvRHZlSGtmdUItaGI1QndIX0t2YlpWWm10dVdkNXJoeDczVS1sSGR4RkQ3dFdVQmlZd0pxYkNhZHJfN2dJT0FVcklRYk5FYlA0RUhzb3lselEyYmV4ZlBHV3NVV083b1R5bWNSbTRMWDZJbE1qZzFWYXJSVjBsQ2R0Ml9iS1NYdEszMHZDalA1RDdDNkx5dElwNi1yVnRodGFObmFmd2M2emlqdDJtdmhsZGg1WnNpbjdaaGdBTm1kNTl2WTNFbEd2RTZVUUMzRXc5SV8zVWotZk1HVUFad3BIa2ppa1JpaVptTG5pMmlSSWwwdnRTOGZkaGhUSXBmSVJGU200aFcwSlJUZ1NybndQSDI?oc=5"
+    },
+    {
+      "title": "〈美國期中選舉〉民主黨勝選美股未必受衝擊？歷史數據：標普500選後1年平均仍漲約16% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZ1Q1N3hvTl9ZaVIycEgwQmJsWVZ3YXg1S3FRdjk5T0pGOFEtN2VJRkt1ZTQ3UTlBbXVWNXozNi05cnk1MGhNdW5WMGowSVk?oc=5"
     }
   ]
 }
