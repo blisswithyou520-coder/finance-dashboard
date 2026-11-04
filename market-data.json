@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/05 01:46",
+  "updated_tw": "11/05 07:14",
   "taiwan": {
     "2330": {
       "price": 2260.0,
-      "change": -70.0,
-      "changePercent": -3.0043
+      "change": -35.0,
+      "changePercent": -1.5251
     },
     "2454": {
       "price": 3715.0,
-      "change": -255.0,
-      "changePercent": -6.4232
+      "change": 40.0,
+      "changePercent": 1.0884
     },
     "2317": {
       "price": 240.0,
-      "change": -11.0,
-      "changePercent": -4.3825
+      "change": -5.5,
+      "changePercent": -2.2403
     },
     "0050": {
       "price": 99.85,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 203.11,
-      "change": -3.58,
-      "changePercent": -1.7321
+      "price": 200.13,
+      "change": -6.56,
+      "changePercent": -3.1738
     },
     "AAPL": {
-      "price": 353.31,
-      "change": 21.41,
-      "changePercent": 6.4507
+      "price": 349.51,
+      "change": 17.61,
+      "changePercent": 5.3058
     },
     "TSLA": {
-      "price": 389.49,
-      "change": -9.01,
-      "changePercent": -2.261
+      "price": 385.19,
+      "change": -13.31,
+      "changePercent": -3.34
     },
     "QQQ": {
-      "price": 695.59,
-      "change": 10.31,
-      "changePercent": 1.5045
+      "price": 691.95,
+      "change": 6.67,
+      "changePercent": 0.9733
     },
     "SPY": {
-      "price": 768.14,
-      "change": 13.79,
-      "changePercent": 1.8281
+      "price": 766.81,
+      "change": 12.46,
+      "changePercent": 1.6518
     },
     "SCHD": {
-      "price": 36.09,
-      "change": 0.54,
-      "changePercent": 1.519
+      "price": 36.21,
+      "change": 0.66,
+      "changePercent": 1.8565
     },
     "VOO": {
-      "price": 706.13,
-      "change": 12.59,
-      "changePercent": 1.8153
+      "price": 704.78,
+      "change": 11.24,
+      "changePercent": 1.6207
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80248.93,
-      "change": 2903.8831,
-      "changePercent": 3.7545
+      "price": 80473.01,
+      "change": 3127.9631,
+      "changePercent": 4.0442
     },
     "ETH": {
-      "price": 2423.37,
-      "change": 150.6442,
-      "changePercent": 6.6283
+      "price": 2426.59,
+      "change": 153.8642,
+      "changePercent": 6.77
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.82,
-      "change": 0.2349,
-      "changePercent": 0.7209
+      "price": 32.818,
+      "change": 0.2329,
+      "changePercent": 0.7147
     },
     "JPYTWD": {
-      "price": 0.2053,
-      "change": -0.001,
-      "changePercent": -0.5088
+      "price": 0.205,
+      "change": -0.0013,
+      "changePercent": -0.6542
     },
     "EURTWD": {
-      "price": 36.93,
-      "change": 0.4658,
-      "changePercent": 1.2775
+      "price": 36.906,
+      "change": 0.4418,
+      "changePercent": 1.2117
     },
     "CNYTWD": {
-      "price": 4.9227,
+      "price": 4.9211,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4079.2,
-    "twd": 4304.0,
-    "tael": 161412.0,
-    "twdTotal": 133879.0,
-    "changePercent": 3.5225
+    "usd": 4073.1,
+    "twd": 4298.0,
+    "tael": 161161.0,
+    "twdTotal": 133671.0,
+    "changePercent": 3.3677
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "〈美股早盤〉民主黨大勝華爾街歡呼！道瓊飆逾千點 AI建設股承壓 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjTGY3Mm1oakdlMHpDaUlNbVFhSTkzVXVSMFBQdlhsb0QzRklLdTZLeFNESmp1Z2Jma1lCb2ZZYTBpMVMxa2E1a0piM0hldFE?oc=5"
+      "title": "美股收盤》道瓊狂漲1569點！費半下挫3％ 台積電ADR跌逾2％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QTFNjTUtmcjhnYTJfS3IxTE5uemVNR0daYlJYcnhKeWZLXzc1VVMyVkxYZ3Y2cUhnRlljZlVVcEl0ZEk0VkNCMUVNeEtGY1lFTy1kbWxBMzN5Wk5mLWQ40gFkQVVfeXFMTk1IdlNhNTk2bjdyV3pudVBfNnRoTzVsQXZJVGdIMHU4ZWpkWVhkUGV2T041NlE2RS1Hdjh0SXhFSWhvd0cxMkN3dWNvU2RQQnRRQjFkaXJsQ2FmQkVzWGkxM0F4eA?oc=5"
     },
     {
-      "title": "美期中選舉開票｜市場預期「民主黨全勝」！美股期貨、亞股急殺 恐慌指數暴衝 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxPSTVCWmMyS0JqQ2hCdkxPR2U2MnczMllTNExuclpEbEZTTjAxUE5iMDFoajY2YmtpUTRhZlp0cUxBRU41Ulp5cGpLYUlGZlpHdHJiRE5OLUYzMWotUEZhbWprZWNkVlgyalk0bGVtbFJfLTBMMlhDaDRtTDNTeWxFUnlneG04YlVLc3N0X3pNbnNIN2wtd0c4MW12LU1PRGxCUDZhUUxvRHZlSGtmdUItaGI1QndIX0t2YlpWWm10dVdkNXJoeDczVS1sSGR4RkQ3dFdVQmlZd0pxYkNhZHJfN2dJT0FVcklRYk5FYlA0RUhzb3lselEyYmV4ZlBHV3NVV083b1R5bWNSbTRMWDZJbE1qZzFWYXJSVjBsQ2R0Ml9iS1NYdEszMHZDalA1RDdDNkx5dElwNi1yVnRodGFObmFmd2M2emlqdDJtdmhsZGg1WnNpbjdaaGdBTm1kNTl2WTNFbEd2RTZVUUMzRXc5SV8zVWotZk1HVUFad3BIa2ppa1JpaVptTG5pMmlSSWwwdnRTOGZkaGhUSXBmSVJGU200aFcwSlJUZ1NybndQSDI?oc=5"
-    },
-    {
-      "title": "美股開盤道瓊飆漲逾千點！「僅費半下跌」走勢分歧 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTbkpvalJqa21KY2tFU29ySFlPR0xrZm1OdHM3bm9xalhXS09hTjRJdHNnNXB3U2xsQ2ZneDRqQzNBaGFxalEzZjhQRTh0WWpfaHfSAVBBVV95cUxPd3d1VEFkLTExQnRWa1pLYUl6Z1BPTFJpbVBSdF9pb01WSzhDbmdIYXo3cmdRRHdIZGc4RU5kZjJpYlMyNlE3Y0NQMXJGbWFySQ?oc=5"
-    },
-    {
-      "title": "美股大回神 道瓊期指狂漲1056點 台指期夜盤一度漲逾770點 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WcXNFUnN0dEJsa2ZPTk8yS1pYWlJ5SHkxc2x0OGRGV0dzZmk1SG01UUVsYjByVGhINEhvWnB4aGY2ZF9ybkdPdlZLOFVEdkc3VFBlTng5NzBWZnFIRVpR0gFkQVVfeXFMTzAwVFFxb053M1l0a0cxV3hTYk9OOWRmaTVqOGp0bVo3WGJJX3MwV3R2UkExVWN4cEZ2NkRPaVFnOTQ2WnhEX1Z1Q1VxaHRmVXBpRnhRZzJHNmJvWGxhaFJlbU92SQ?oc=5"
-    },
-    {
-      "title": "專家看美股 可靈活布局 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FWmpsOWZIWEE0Q05pajlwdUVRRm9ha1FlQm1mdzQ2ZVlHb2l2VDAxcTdQcHg2VlpCd1BRWFlkT3pZZTA5Rng2VHRTSFAxYmY3NEgteElLTWF6Z9IBX0FVX3lxTE9aenFfam5sRC1iQTVCTlVjQUxrYkRPNDFXbm9qMmlVWTNhTHNRM0djVGdTbjBTTk9saGdzdGNVelNCME95Q2ZEWUJwMWF2QmJxdnlXWld0and0NXMwMUZv?oc=5"
-    },
-    {
-      "title": "美股罕見連跌兩個月 該驚慌還是進場？歷史數據這麼說 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0UEZobUdfSUR4MnpQMmlfOTR5SDZhdjhMS1JlWGtUN2NxSTRieUszbThWNTJnTzJONDA3UW5JY0RqR0RLVlhRMGkxYnI3bzA?oc=5"
+      "title": "〈美股盤後〉藍潮席捲國會 道瓊飆近1570點 費半挫逾3% 記憶體類股慘崩 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQbE1TSmpxMTYtc0FqbWZDMFJiSThnR1NIVzJpenNZdVVHVnVpV3JZVGI2T0lCN0plNV91cHR2dDNSQ2pxOWw3UE56SVUxMFU?oc=5"
     },
     {
       "title": "台股明天有戲？川普共和黨慘敗、美科技股大反攻 台指期夜盤一度漲破千點 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPc0dvd2NoTXJMREVHYVJNaEVJeEFUblAtaHh0a29lckpqOEtWbHplVENtZGdMUGNBSXJaUXJnNkxxLU4zdWYyWEpfQTN3cUhCWGtfSnM1ZjF5LXlKb25iNm5hYi1XQlNzWUg1cEU5THZPa3YwQlZuU1l3TV9fYkRfVmRkTEpJNmxzZDNqYmFsNlRDME5Dd0RTX3VFQUZJTzltNVZ1bXpfMm9kckhZR0djWTFVeXAza0JZd180cW1hVkNwWkk4cWJnQlVqMTh3V1otZ05TUnUtamozWkk4VXpJWko4NkJBNTlOU1lBdGdiRjgtOTU2YTd0WE9ubnBRVVJYV050c0lkZWl2MXJDOGlxal9Pa0JESDJlb3lLV1llTExFSEJHOXNpTmNSZFM5c19MMm4zQWRPNnBCc1ZwTE51azNScnpaNUxmNXpzam5vd3haVGRjU0pNSlIxYkNTR3ZLX2ctVzJER0poOXNsVWJISkNXdWItRUlRTUJQYko0SG1KaTFLc0VLWlJoRFF0Z2xPUzdPS0ZWcWFjMnczZF9IQkVhRzN4d2NQM2xmRE93Vjk4OEdJem5QaEVTa2tlYWs5UEJ6TFFVcU8?oc=5"
     },
     {
-      "title": "黃金又跌了！漲不動有原因 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95VVU4ZjRyVU1WODFEUVYtekJ0Z1BPQ1JHMTRSMTdHNnEybThEak1saEZoVzBkYlJUazc4ZUt5Y2lzdHV5U0pmYWhxdkF5U24tTnY0QmxLYXVCVVQzNE1V0gFkQVVfeXFMTjJVcVlkOWlaQkRJWWQ1X3BSOXh6R0Z3MXBhM1JyblBZeWVpZTlzNWRIQ0JZOFVjWTVscEhPX1dETmdHWWpRS1l0RGxVdllvN1FONzFXX3Y3X3ZpZ3R4NXJjUnBIbA?oc=5"
+      "title": "美股開盤道瓊飆漲逾千點！「僅費半下跌」走勢分歧 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTbkpvalJqa21KY2tFU29ySFlPR0xrZm1OdHM3bm9xalhXS09hTjRJdHNnNXB3U2xsQ2ZneDRqQzNBaGFxalEzZjhQRTh0WWpfaHfSAVBBVV95cUxPd3d1VEFkLTExQnRWa1pLYUl6Z1BPTFJpbVBSdF9pb01WSzhDbmdIYXo3cmdRRHdIZGc4RU5kZjJpYlMyNlE3Y0NQMXJGbWFySQ?oc=5"
+    },
+    {
+      "title": "【美股盤前1104】民主黨拿下參眾兩院？科技股要留意？｜豐雲學堂 2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQUVh1dFY1OFNCbzZzc09SR0RZY2xmRVZodVd3RUl2aWdIbFkycEYzSEhiMklGa0ZqNHRJWkpfcDFudUJGMms4LUFqZURhTkVfakJGYV9HV3ZhQzRZZlpuc05tNWthVWdHSUphVHozTWJ0ZEJHdmxBTllQYlZ3dlVRVlg5VzVfcDY4eE81bGNDcTZmQ0tVS21BUjFPbXVJbU14Snhtb21CZ3pLRnB0NkF6YmJUR0lDQjVvdl9FTnp3QWF6M3JvU3MzLWxpSmJuSDktQlNzYXptazZ3V3NsSVRkcWdWSFdpeGt4TmtzNldHWGluR2h0X29VVk5jSjF5cWJyZkdmWFhYMno3Q0ZJSGxxZXFJN0M4ZGZUdmRUN2V0QWNHVU16bzhXcWdLR0YwMmN2R19OcXpuUzBPY2tnb2pmM04ta2d1M1dreFkzOEEwcGNIUlJWT2NETDU0cTRoYmhObExWSGxsQUdsWGVybmYxaXctdw?oc=5"
+    },
+    {
+      "title": "美期中選舉後不確定性緩解　美股收紅道瓊大漲3% - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2U0h2bXdvXzNmMnZfRThtazVNQ3ZxZU8xZFp4UjktOFlVSHJPWkpUaFBNenNkOTdaWXcyX1F5UnNUdW56SkdybmtmeDlYWUt1V0lJYzlSNVRmOHV00gFiQVVfeXFMTUtCU2NPTnA0aW1JcVhNVFNuYzJJa1Foa1R2TlNWa0RIdkxHWVc1cWxPQmVCa3NyNEJFcjB6OFNiVUYzRC1TT3N5bktGTHNuU2ZERE9GUE95U1BuOEdWRUZ1S1E?oc=5"
+    },
+    {
+      "title": "〈美股早盤〉民主黨大勝華爾街歡呼！道瓊飆逾千點 AI建設股承壓 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjTGY3Mm1oakdlMHpDaUlNbVFhSTkzVXVSMFBQdlhsb0QzRklLdTZLeFNESmp1Z2Jma1lCb2ZZYTBpMVMxa2E1a0piM0hldFE?oc=5"
+    },
+    {
+      "title": "美國期中選舉牽動美股走勢！瑞銀看好年底反彈 網嗨：最好的時間要來了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOUEJFeWZoU2JlQldzR19kTUM5MFg1SzJROUdFYlpRaXV6V0U4bXJJREpJTUdiZFFDRHlSY293QU5yMkE2UmhIQUNMOFRKbnlmZkQtUl9IWGZjUmlsSXV0RE9ZZzJhZGdSNExQLUloSGw3T3Jod3U4bXlGRU80NnVuenVRc2p4eVZueDV5dzN2ODJQSTd1RHhKSzhxUEc4b3R0MlFlX3ZsQjJRV1Uwd0wwTUZzdzNiVTd0VE5RU2VTQV9MdDNkVE9KemJJaVlYSDEtLU95YzZ3bm9GaWxmZ2ZudjlFbUxjRjI3NEtPSmIyc0hyZEtManNxNGdsZGNCS2M1dDhWQ05lcThxQnAwQ1J6YmFOa3FjcXg2OXY3bGxxZHQ0U2J3Y29GQ0FBV19IdGFBUHlmcXF6U1dONG5KeEl1b2E2bW1JWUNmVElZZFFsQXdjTTZNbVZaS3hMbEFfbUVqelZiMGxiWlNkQmxBYVJlaXRnZjlvbXhZa2Q1WnBLWENzTVZNcHhCTkNnOFdDaHc0MmZycXhBdnNqdFRCWldFVkh0elJmS3QzQ0wyenV3c2RXUERNbzVBdGtnQmc1NzJjVGZsZmtBMA?oc=5"
     }
   ]
 }
