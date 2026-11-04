@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/04 06:30",
+  "updated_tw": "11/04 10:43",
   "taiwan": {
     "2330": {
       "price": 2295.0,
-      "change": -35.0,
-      "changePercent": -1.5021
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "2454": {
       "price": 3675.0,
-      "change": -295.0,
-      "changePercent": -7.4307
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "2317": {
-      "price": 245.5,
-      "change": -5.5,
-      "changePercent": -2.1912
+      "price": 241.5,
+      "change": -4.0,
+      "changePercent": -1.6293
     },
     "0050": {
-      "price": 100.6,
-      "change": -4.35,
-      "changePercent": -4.1448
+      "price": 100.5,
+      "change": -3.6,
+      "changePercent": -3.4582
     },
     "00878": {
-      "price": 33.87,
-      "change": -0.94,
-      "changePercent": -2.7004
+      "price": 33.67,
+      "change": -1.13,
+      "changePercent": -3.2471
     },
     "00919": {
-      "price": 31.72,
-      "change": -0.87,
-      "changePercent": -2.6695
+      "price": 31.49,
+      "change": -0.99,
+      "changePercent": -3.048
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77680.52,
-      "change": 1003.2231,
-      "changePercent": 1.3084
+      "price": 76525.3,
+      "change": -151.9969,
+      "changePercent": -0.1982
     },
     "ETH": {
-      "price": 2285.27,
-      "change": 36.3838,
-      "changePercent": 1.6179
+      "price": 2252.28,
+      "change": 3.3938,
+      "changePercent": 0.1509
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.785,
-      "change": 0.1786,
-      "changePercent": 0.5477
+      "price": 32.82,
+      "change": 0.2349,
+      "changePercent": 0.7209
     },
     "JPYTWD": {
-      "price": 0.2044,
-      "change": -0.0025,
-      "changePercent": -1.2203
+      "price": 0.2061,
+      "change": -0.0002,
+      "changePercent": -0.1212
     },
     "EURTWD": {
-      "price": 36.729,
-      "change": 1.352,
-      "changePercent": 3.8217
+      "price": 36.98,
+      "change": 0.5158,
+      "changePercent": 1.4147
     },
     "CNYTWD": {
-      "price": 4.9218,
+      "price": 4.9198,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3940.2,
-    "twd": 4153.0,
-    "tael": 155746.0,
-    "twdTotal": 129179.0,
-    "changePercent": -0.7406
+    "usd": 3953.1,
+    "twd": 4171.0,
+    "tael": 156422.0,
+    "twdTotal": 129741.0,
+    "changePercent": 0.3223
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股開盤反攻！費半勁揚3％、台積電ADR漲逾2％ 台指期夜盤飆500點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOVjktV28yRmNCdUVWLWY2RHVJdy1OR1AwTFoxWDNmV0ppbGhsMzdRc250ZmR1bVdKREVfaWV0NXdkQjZIZHhkam81aW1wMXBkVE9jMThuTzRsRFFpMzF4cU0tNnY4QWlZTkJEWGFROWR4UnZrWVdFYjJwRWd3N2RyRmhOS2V3MnNFVGhacEQ2TXEyc2NxeVY3bDZVQ1pYV1YyRkJxYi1FZjFlb3VYU3NlcTQ4U2VyMnc0ekNvdEtXMU1STV9GajlCQXhzaWJrNFZvekFvY3FueUtmb0Y3RFFtUDdyWWdndFFod1d5WTU0a0tyYUg0MmZqM2xGaE1kQmZobGpQcDRLN0pnNDBWdjlzZi1UUUdSeVQ3dFpvb1BSZTc0Qk9BYmJNQ1MwUjRaQ1hhc1NLaDc2Wmk0ZWVrXzY4dHdJZ3BlRnZaQnlyaTM1RUxWMk5fSTZpSkRIdGhnNkJTazBWR3FGUVlTZC1fTGN0Nk9B?oc=5"
+      "title": "美股盤後｜資金重回科技擁抱、油價持續下跌，四大指數漲跌互見1104｜豐雲學堂2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQVDBVX180S05faEVKdXdhX1k2SlpSYUJhaGFBTkpURTJJR1pLS3hQc3RhdE5YbWFqZUdBcFR4ak4xWGhsTHBjbkdQaEp2d2dDbzlCc3VhV2UwWWVhbVJhY1Vld1BFdmUwbF8taGI2b0RpWlhyT3c5LXB5SkQ4YjNUNUxZMGVpS1NrV1BXVlc5V1dEUlhqR3VfWlZGT1lEVGxIc3FTVW1vc2FEV0ZYQktRbDU0eUV1MldRNjdoVHJ2WjJtNlJScDNHOW1DN1QxZ2hHQzJ0empCblV2NFhBaU1rMkI5WF9Ja0cweWJNdlNOLXhsaTd5QTRFN09pNjhCVVYxc2pDdkY3QVpfTUJtQXVmZGRzMnk2T0lFY0pOc0F3SVVDSi1lclBqNXpMakM5d0NjR3FKWlR2ZnY1SWktYklnTllvRTE1LU9wNkE0OEJzdlFjV3ZYM3lPcVB4RTVGR25mQXRPOVM5akpubFYxTGNPTi11bFNkY0VfV2N3R2pwd0ZEbEJHdTJEa2dZTzhfQTRUQmZacXVPUmFpMnBQSTMxM2tWNlVWc1ZpR2tPdkNnZ05wS0R3MDZSdGVRUXBVWk5lUUNiM1VYZw?oc=5"
+    },
+    {
+      "title": "美期中選舉開票在即！美股漲跌互見 費半大漲 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQanhTRUJRVmdDUlpTSFFZelM2cXktaTYyM3RDTVRMTTgzSndHa2RpWVF5YWFxM3NsMDM5a2tqWHNnV3pudmtCOHFyTU1PRlNmX1lZNFBaa3U0NFBRSVJGVHN1cnRablpkUV9nOUsyUkVRQm45OFVUeUw4eEpBLVR2VVZmVWlNUG5pVmRmcTVIM2lmSWlzSTdaQ0RCU19mR3RPUzhYWnlPemNIalVaWXM1YmhpMTJMdkFUMDZERGlVZEtkT3FGTkVQMWgxcmE0TVdRSDFLVEhrY2t2Qng2UVUyejdVdUlzRFpPMklIOHpfVV9aa1RUOTNJQTA4WDRSbzN2bHQ0LS04T2FjbWRiSmNqMEFHZlRyNzJKd3B6LUl5SXV3YzRMZ2R2R1ZWdXpRdk1paUtUMnd5TFdSN1RFTnRVR3FB?oc=5"
+    },
+    {
+      "title": "美股收盤》美期中選舉投票！美股漲跌互見 台積電ADR漲1.55％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BRHVDZUhjMnplR3BQcVpYbWRTMDkxOEhVOVBZSm9rUzMtTmVmZUxlT0hmbmxWRlhIQzZpV2w0N09GMW9mVzdTQTdUMkllakUyNU9Edm1rSGlWUUVCLVFj0gFkQVVfeXFMUEc3anhBRzk1RDViMXNqdS1tcU1NTTJCVnhKZlZvUndNX18wMldhYTZSV3BGdFE1RU91QXBVcm9UcDhZQmtjdlhPY2k3MWdGalUwTzZwclI1NEpuOG5JUHdVRWtBWg?oc=5"
     },
     {
       "title": "〈美股盤後〉期中選舉登場！資金重返AI股 費半勁揚逾2.6% AMD盤後噴高 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtS0Y4REk2QWxUZVF4dFpCSTJCN2FVd3R0RmxZZkdGQi1meWQ5UzRCZW5CaDlhcXphcWh3OGxXMTVlVzhSamxBTnpSRTlKeXM?oc=5"
     },
     {
-      "title": "黃金價格走勢異常？ - 日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPalNpc2ZISW1vazFkempMdUlKWWhkbWlnQXFPaTVfVllWeFZNNjZCTWhYaGY2RVZkNlFNamNsZUNWWnU1V19ZT0xqSTRjQlFVODU4X0FtTjIyLWFCWjBHUmFNNlRKUWpmX3ZhTDUwdFRBVlNiQzNYTWMzcDNIQjltZk9Xdjhsa0hSR1E?oc=5"
+      "title": "民主黨「藍潮」席捲參眾兩院？預測市場押注升溫美股期指翻黑| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uLThHaFUxNDVhNWR4a0g5eG1QYTdqMExQVTd5X2xUX0wzMHRPWG1VazBjUXFsQ3ZxTUtyZ1A5SzdjbzNadDliR1ZBRUpUOEZh?oc=5"
     },
     {
-      "title": "近期市場消息紛雜 AI 股面臨評價下修壓力 台股平衡型布局優選 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rZ01pWlI1M3dibjNycDRpR1JMeGFPZVpIWHNINTA5TmVicFo5WXZRR0ZjbjZqWjNlZERsbjU0ZTh3WVUzYXFLNElIUHR2NHlsUlHSAVdBVV95cUxNdHhsTUdLNU5BUWY1Rzc2SllfY2NMV0hKUVNTQ1RUTWJnZVdydGo3d2wwci1KdFdvbGRSNzBOcFB6SXZVVzN6S2pPQjNNV2FzM0pSZG5tb3M?oc=5"
+      "title": "AI資金回流！美股費半勁揚2.63%　台指期夜盤漲逾400點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzM0pVeEhYdzQydE1TS3pab3E0dkZsNXpDUTIyTEVrT1JsaUlycmVwZDBhZU1keXRnS1RMclU2TUgyblhxeWhBelJZM0h5ZkQ2WWfSAVBBVV95cUxNQW9nUkRBc0JSRUpMWmFDSWVBUWxSempXXzRSa0RZYnJjWnR6dHRGaDA5ZHV6ekoyMDJaTkUtS0J0M1kycGdYZXljMVBMaWVqWA?oc=5"
     },
     {
-      "title": "黃金暴跌反而是買點？專家喊「一生難得一遇買進機會」原因曝 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4Mlgtd0JzT08yeHBhNWxwYWg1RVhSS2RDak5DN0tZSHVVcmp5elhKbmtRenktRE5rNFVYT3R0TUZfOS1XbzdXbUtyVzdqTjRIOGFpbVQtZG82YnpGS3BF0gFkQVVfeXFMUHFLYllKSTlnZ1pkTWQ0NHdPanBaWFJ2VDhnel9WWmlsUVdudzk4TkhrZnRnZGNsUkJFcVJLY0d1SFAtR1JDZGJtTXlxRnFYZkpkQld5SGJNUktzVXJjT1pXTHdLZQ?oc=5"
+      "title": "美國期中選舉對美股、AI科技股、關稅、油價四大影響一次看- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WWDNEX1VJRWswdjRVRUJpcVlOSl9KdkJiUWRybDNGekNzYnlVMVRZdksxSmVhOVotUU04ZVBLUmp4R0hZMkx0b0ZvekJDWVJvbVdjaXgzX2NHcm5OV2lN?oc=5"
     },
     {
-      "title": "盤後／除美股影響 台股摔1612點戰犯還有它 - 三立新聞網SETN.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaZjVpVTAyYlBodkpSYThPQmpxX3J2OVRMRUdVTFB6aDU2ZW5LcGp3TElwc1pMOGVTb3NiUW1ZNnFRUFl6OHpPLWNMdw?oc=5"
-    },
-    {
-      "title": "黃金跌破3,950美元關卡，白銀重挫近3% - BigGo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJR19KVUtQWmVCcHJKaE5kMGJaS3JmSzBrVFFFaFBhSS1kRmZKSEdUUUduNTJZWGREV0Ywa1dkVnl2Y2RTeUxyaklCYXg2VVdCOWhwaWpVeXowdW82dElzXzFQZ3NBT3JWVnRxZHJtQkJueEkyY3kzMVh3?oc=5"
-    },
-    {
-      "title": "美股出現反彈訊號！小摩：標普500市場廣度回升、年底上看8000點 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfWk1YbmptWXEtemRoMl8tTF8yd2RiSTlHTFRlRGRFSFVXbVNaamx0VDhielFlT2ZBZmpsZ2w5WkIzZXhhSnlTbHMzN2VWZmc?oc=5"
+      "title": "7~9月黃金投資需求下降14％ - 日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMEJENGdBVTJneHIxdno3alFyM2VQdV9lOGstbUV6RHpxZkNvZDJOSGZ3QzhWclB6YTJ1Tm51TlU4T01VTjRkS0lvRlVOdzhMSUU3ZjVhd0FNd3JpZXlWVGxvcDJ6ckwwRmFmVnJMSDVmdzZTZnozX01YbXBRSGZ5MWlpRHlFZ0JnclE?oc=5"
     }
   ]
 }
