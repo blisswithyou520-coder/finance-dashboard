@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/05 11:31",
+  "updated_tw": "11/05 19:30",
   "taiwan": {
     "2330": {
-      "price": 2265.0,
-      "change": 5.0,
-      "changePercent": 0.2212
+      "price": 2240.0,
+      "change": -20.0,
+      "changePercent": -0.885
     },
     "2454": {
-      "price": 3550.0,
-      "change": -165.0,
-      "changePercent": -4.4415
+      "price": 3460.0,
+      "change": -255.0,
+      "changePercent": -6.8641
     },
     "2317": {
-      "price": 238.5,
-      "change": -1.5,
-      "changePercent": -0.625
+      "price": 235.0,
+      "change": -5.0,
+      "changePercent": -2.0833
     },
     "0050": {
-      "price": 98.2,
-      "change": -2.4,
-      "changePercent": -2.3857
+      "price": 97.15,
+      "change": -2.7,
+      "changePercent": -2.7041
     },
     "00878": {
-      "price": 33.34,
-      "change": -0.53,
-      "changePercent": -1.5648
+      "price": 33.03,
+      "change": -0.58,
+      "changePercent": -1.7257
     },
     "00919": {
-      "price": 31.37,
-      "change": -0.35,
-      "changePercent": -1.1034
+      "price": 31.19,
+      "change": -0.07,
+      "changePercent": -0.2239
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80618.13,
-      "change": 3273.0831,
-      "changePercent": 4.2318
+      "price": 80189.17,
+      "change": -216.1191,
+      "changePercent": -0.2688
     },
     "ETH": {
-      "price": 2428.49,
-      "change": 155.7642,
-      "changePercent": 6.8536
+      "price": 2414.52,
+      "change": -7.7918,
+      "changePercent": -0.3217
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.918,
-      "change": 0.185,
-      "changePercent": 0.5652
+      "price": 32.897,
+      "change": 0.164,
+      "changePercent": 0.501
     },
     "JPYTWD": {
-      "price": 0.2062,
-      "change": -0.0003,
-      "changePercent": -0.1593
+      "price": 0.2056,
+      "change": -0.0009,
+      "changePercent": -0.4498
     },
     "EURTWD": {
-      "price": 37.109,
-      "change": 0.4272,
-      "changePercent": 1.1646
+      "price": 36.967,
+      "change": 0.2852,
+      "changePercent": 0.7775
     },
     "CNYTWD": {
-      "price": 4.9425,
+      "price": 4.9386,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4145.8,
-    "twd": 4388.0,
-    "tael": 164537.0,
-    "twdTotal": 136471.0,
-    "changePercent": 1.7874
+    "usd": 4147.2,
+    "twd": 4386.0,
+    "tael": 164488.0,
+    "twdTotal": 136430.0,
+    "changePercent": 1.8218
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "天下晨間新聞：亞股大V轉、美股卻上演大分裂！道瓊飆1500點、費半重挫 - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IQmM5dU93Q1dNVVNpQnRvVGFmT0t4OEs0enVyMnZqRmFuY2FMd0tSNWVjQ0hrQTRIdEhOZElFNWd6c3pPV1RIaFFOd3hudw?oc=5"
+      "title": "台股再跌千點救市措施備戰？ 金管會曝啟動「限空令」門檻 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNSHN2Z1hDeVE5UkZ2anNVOXNOQk9VUXVHT0RvbFZnQV94M1hfelgzTWItalE4MVF4Vmo5SkV3bXQ5eDN0Z3dfZWdubTV2aGJCWmpYOWdJSWQ2MF9ySERJUWVPSUtVYmt3b1RFYXVZdHpiRG16ZjdraG9NVWN0TjlfTVkwQ0hZaDBFNVRMMk11eFM5RE5kMGVnZmY5Z0FEckI1WXRpcUtCTzN6VlE1SG5SWUVLd3cyOVZPSEJ6Z3lRcDRENUpZUEs5b3dtc2dZWGwwQUhYbWQycklkbEF1Wmp0TUtLMXNUYWdyMV9RVnJDY0I1Q3lRbEowTmxYUTc2NHNIU1JWdEFMWjBMSkk0ZUg5SlMxMVNTTU9ORWdIN0J6eVNfbUJ0TnktSUxMZW1oTUo3VjRJOEN5OFFQb3NEcFJxZkNVU1pRRmo2UnVpSXFNN294eWc3Mm13V2FqNjJVMl8xS3hvckVndVlLeHVJdzl4czNOaw?oc=5"
     },
     {
-      "title": "美股期中選舉後必漲？德銀統計20次勝率100%、但這次可能不一樣 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnLU5GMmdiZUJSRVdpVEM2NDVheUFQRlJJN0JtUEtieDVsNC1CRndNbHh6Y0dPU2JQYUxIbjhLLVZndFZNQzBrcnpQQW1ycjA?oc=5"
-    },
-    {
-      "title": "金融撐盤！台股下跌818點 華航、長榮航逆風高飛 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNVXZkUEFYS2wzUVE5NUJuOVN4RFFwTWQ5SVhKWkdONWJ4RVkwVklSQ3UzQWhaYXR6TUFhVW9JY3RmOEt4UzF5bUlpMjRnSVlSREEwbHlQdmd3RGZIU3h1aU1tVkRtSktKUWxjeF9ZQkRSdUYzWVgxWkFkNzlQT2pRTVFyS3RCLTRfcGdjUkhmWGtDZzBURGtuOUVnMGJ6ZjhyWGNlMzctVUU3SmxJRVlsVWhyamtOYlZRR3Iza2c5eG9CS3JuS2FXSk1aZUMyQzNFR3oxQVl0Qk1HdHR4U0ZjTEJORXVNdlFBOHM3UDhVcWhzaHF2SHhEV2lfZzE4N250N0dOVmpxN1E3cG96M2ZGOElEUkxGQ3FpY0xSQnppOWJMWklXMVhwMzJEVUpqRUJKUlJXWGR2bVhOSGs?oc=5"
-    },
-    {
-      "title": "美股收盤》道瓊狂漲1569點！費半下挫3％ 台積電ADR跌逾2％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QTFNjTUtmcjhnYTJfS3IxTE5uemVNR0daYlJYcnhKeWZLXzc1VVMyVkxYZ3Y2cUhnRlljZlVVcEl0ZEk0VkNCMUVNeEtGY1lFTy1kbWxBMzN5Wk5mLWQ40gFkQVVfeXFMTk1IdlNhNTk2bjdyV3pudVBfNnRoTzVsQXZJVGdIMHU4ZWpkWVhkUGV2T041NlE2RS1Hdjh0SXhFSWhvd0cxMkN3dWNvU2RQQnRRQjFkaXJsQ2FmQkVzWGkxM0F4eA?oc=5"
-    },
-    {
-      "title": "美股盤後｜美股掀起藍色浪潮交易，AI軟硬體、美股四大指數漲跌互見1105｜豐雲學堂2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQWmlJcXBncFdWVDFzalBwaTRQT3RweEdsOFlYRE9kQTYzOVY4Z01PMHpDZndid09UWXdQUmFUV0R2RzhoZUNJc01FSXhMa1pYRlV5eERCRWo3TmRhSGVIRi10XzRkNWFnblNxWkV1UUg0MDNTN1VSNDhIMm1CdGQtRVNnTW9sRTlVckxWQy1OSE8yanFCUFExcFlyS3NIcU5icWFlRXVBdy1yQnFqVzA1Z1dEcVZqdFNKeHNLOWNHejZwOTRCTGhMeUp4ZFpTcmlNZUhEYUtLcUU3andoeDRlYVFuV2RtS1poSE9rUkJ1TF9UOEVTaDF1bEVrSHp0eWZlSi1lbWlmQ0FFLVV5ZGdORzdjLWQzN3htaG1SSk51NlZ1eDV4bFFYcnZ5V0tiUDdqaHMtRHdNMDVnaHdfQ21yRWItYVF4bHA4S28wWG1HaC1DUXZWTVY1dUhMYnpIMGNSLXprQW5aYWZ4Qjd2VDNSUTJVcEMzdzNxVU05Wkw0UFNSOHNrc2pkeFN3R2JiNl9LOGVrbV9DTzJ2U3Uzc1hqaWFDaVBoSFZIZEJrcU9WZHNuNVdSMU9tU2p1TUpaVk1DUFNPQ1RXYlVPRnVpOGFhTm5GSUdaQQ?oc=5"
-    },
-    {
-      "title": "美股｜藍潮席捲 道瓊飆1,569點 亞馬遜、微軟強彈逾6％ 費半崩3％ 台積電ADR跌2.24％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93MjBQZXlfQW9XckNxX0xITlpHaV96TjNHVlBkb0R3Y190RTc4dThEcHFmR3k4WDBEN2ZxeUR1bFVrTnFqQXJBVENib1RwM25YWTJvOFhIa0oteHVELWdr?oc=5"
+      "title": "黃金大暴漲！創1最狂單日紀錄 重返4000美元關卡 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SUDlWOC1fMjROU1J1TDVfUVQ3cHFsaHlyYzZWTWZ0QlJtNDl3LTkxZGlhMG4zb2twRTlDU0FCVTJjZWxzck9jbG9ud29jWlk0eVh4bFh6d1ZmU3djMmlr0gFkQVVfeXFMUElWdlkxNmx1ak1GQ1hrazRldDJ2WXViLXBnWEQ5WGo0bVZ6YTBaNW55NEFKbjRLdUpMbG5wNXBicE04TnRWRDFxYmZ1YWMwYUpRYnUxcjU2OWVLYXQ5ZHBKYnh0RA?oc=5"
     },
     {
       "title": "期中選舉失利，川普、AI與美股下一步怎麼走？ – 全台最大民營線上基金交易平台 - 鉅亨買基金",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXoxeGpDUHRRN2x3R01hYTBVZlZpX2s3UWFremM5OXVtNFc3TGpFMER4MGtGMGFaYzY3N0E3dF9UTGxHbEtkREpxOWNraDBkbzhmR29nMWNMdGcyS3FDdU5CTlBsUTNscDlPTEppa3ZzSzhXWkhURG5GOGcyREpHTTVBa0Y2QXFVYTlEYUVLTTZRT1pUdDZ0X3ZR?oc=5"
     },
     {
-      "title": "〈美股盤後〉藍潮席捲國會 道瓊飆近1570點 費半挫逾3% 記憶體類股慘崩 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQbE1TSmpxMTYtc0FqbWZDMFJiSThnR1NIVzJpenNZdVVHVnVpV3JZVGI2T0lCN0plNV91cHR2dDNSQ2pxOWw3UE56SVUxMFU?oc=5"
+      "title": "天下晨間新聞：亞股大V轉、美股卻上演大分裂！道瓊飆1500點、費半重挫 - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IQmM5dU93Q1dNVVNpQnRvVGFmT0t4OEs0enVyMnZqRmFuY2FMd0tSNWVjQ0hrQTRIdEhOZElFNWd6c3pPV1RIaFFOd3hudw?oc=5"
+    },
+    {
+      "title": "美股狂飆為何台股卻大跌1374點？股人阿勳曝「原因」示警：刀子還很利 - 三立新聞網SETN.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wLXVhQTAxT0p0WkN4UEhySG1OZWdySlNxRDNRT012RGJTbmdHSWw0eXF4Zm9Bbk9GcnZPNVB6Q2NpU3Z4enY1Q3Q0QQ?oc=5"
+    },
+    {
+      "title": "【美股盤前1105】股市樂觀？留意財報公布變化｜豐雲學堂 2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQc3doNTJqWE0wZHhHb003SkdnLWFtMFNfbG1OXy12WUJYYjdEU0lDSHZVbDZyVHFMbGl1VjJta3ozRlRPc3REbHI5eEJGbUJQZnNQOTJhTmhWbFlKU0RSdFFMb1R5TFdERnlBSDY5blY4bmdhN19PdFVkZFZsRlhITVBjZVEtTG9QYWxuQTVZZVF3YWh4cFB6Z01mWXlzRjQwcHBFT1A1TnBhUUVkdUROM0FnZXYzRFdhVkM2Q0tEZjJZcThISUxmN1VqSFBmR3JFcGFudHRRTmFxb04yeE0tTURFTEFGV0xIZXRiT3I0VVhocDREQnZlOW1SQWxVRkFILVo3VjUteTNKYXhiTXpkTDJvc0Jnak5BLVpjNC1ObVVJbW5BcUs2cWpTeFZVZFVOQ3ZpOVBCVVZMLVd2c0dkbFExT0pvazNYbEVIcnZ3?oc=5"
+    },
+    {
+      "title": "道瓊大漲台股不領情 一度跌超過千點…法人建議這麼布局 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNN0p5YlpNSHdrc2lHdTVKX1JOc1JDdmk0YTJPeVo3SkF1UkFEMEdrdUhTVHNTMUNydlpFQkJ3ZDR1a3R4UUJIRmJZQUNsOFY10gFWQVVfeXFMTUpQUjJneFh3ajdwZEtQTUlsZ2JjckM2amFFaGRDd2NlTlB4MEVmVmpVWklHX0oydUF0ZzJGQkk1OWtvcFhBb3phR3o5X1JjYkZWTUphTXc?oc=5"
+    },
+    {
+      "title": "「14檔千金」慘跌停！ 台股挫逾1300點 創波段新低 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNYWZnYkVBRUVYZk1JX09XcEh2dkJtMkl5anVTcjFBek5kdWhFdlpaNHdJY2tsOGZyOXJPSnVkUlpkOVVENXJrTmlQd2tHVUFoOEFzRUdRUW1wcE5fbW5lY21wdmVFU1lGdkZBUDZOSnRLMHZjMVpscFpYTDdXQnFpUHhodTYydDM4S0p3UWdSbTJvc1Q4X2thMkhaUmVBNjE3cnhXU1dnM0dUQ3BfR3R6bldHZG9RUm1hM19qN2dTZzBESFJGLVB3bTRvMkh0SmNNMWZLM09sSFZfbHFZSW9zMUszOGtJcU9kMXJpQVVEQUEyYU1haWdMeHdtWTlNVTFVSXc0Nk5wcGo2UVZIT1p4M0RPQXJBb0N1RnNoZlFaNHJORlhlLWx3?oc=5"
     }
   ]
 }
