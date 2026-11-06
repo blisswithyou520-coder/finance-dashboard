@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/06 14:43",
+  "updated_tw": "11/06 22:38",
   "taiwan": {
     "2330": {
       "price": 2135.0,
@@ -19,97 +19,97 @@
     },
     "0050": {
       "price": 92.5,
-      "change": -7.35,
-      "changePercent": -7.361
+      "change": -4.65,
+      "changePercent": -4.7864
     },
     "00878": {
       "price": 31.99,
-      "change": -1.62,
-      "changePercent": -4.82
+      "change": -1.04,
+      "changePercent": -3.1486
     },
     "00919": {
       "price": 30.14,
-      "change": -1.12,
-      "changePercent": -3.5829
+      "change": -1.05,
+      "changePercent": -3.3665
     }
   },
   "us": {
     "NVDA": {
-      "price": 181.6,
-      "change": -18.53,
-      "changePercent": -9.259
+      "price": 192.7,
+      "change": 11.1,
+      "changePercent": 6.1123
     },
     "AAPL": {
-      "price": 344.17,
-      "change": -5.34,
-      "changePercent": -1.5279
+      "price": 340.72,
+      "change": -3.45,
+      "changePercent": -1.0024
     },
     "TSLA": {
-      "price": 343.69,
-      "change": -41.5,
-      "changePercent": -10.7739
+      "price": 349.125,
+      "change": 5.435,
+      "changePercent": 1.5814
     },
     "QQQ": {
-      "price": 647.05,
-      "change": -44.9,
-      "changePercent": -6.4889
+      "price": 658.43,
+      "change": 11.38,
+      "changePercent": 1.7588
     },
     "SPY": {
-      "price": 733.0,
-      "change": -33.81,
-      "changePercent": -4.4092
+      "price": 736.92,
+      "change": 3.92,
+      "changePercent": 0.5348
     },
     "SCHD": {
-      "price": 35.42,
-      "change": -0.79,
-      "changePercent": -2.1817
+      "price": 34.965,
+      "change": -0.455,
+      "changePercent": -1.2846
     },
     "VOO": {
-      "price": 673.97,
-      "change": -30.81,
-      "changePercent": -4.3716
+      "price": 677.4,
+      "change": 3.43,
+      "changePercent": 0.5089
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75599.0,
-      "change": -4806.2891,
-      "changePercent": -5.9776
+      "price": 75652.28,
+      "change": -289.845,
+      "changePercent": -0.3817
     },
     "ETH": {
-      "price": 2227.24,
-      "change": -195.0718,
-      "changePercent": -8.0531
+      "price": 2234.27,
+      "change": -0.2063,
+      "changePercent": -0.0092
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.833,
-      "change": 0.0118,
-      "changePercent": 0.0359
+      "price": 32.778,
+      "change": -0.0432,
+      "changePercent": -0.1316
     },
     "JPYTWD": {
-      "price": 0.2057,
-      "change": -0.0016,
-      "changePercent": -0.756
+      "price": 0.2048,
+      "change": -0.0025,
+      "changePercent": -1.1903
     },
     "EURTWD": {
-      "price": 36.768,
-      "change": -0.1056,
-      "changePercent": -0.2864
+      "price": 36.561,
+      "change": -0.3126,
+      "changePercent": -0.8478
     },
     "CNYTWD": {
-      "price": 4.9281,
+      "price": 4.9163,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4055.1,
-    "twd": 4281.0,
-    "tael": 160522.0,
-    "twdTotal": 133141.0,
-    "changePercent": -1.4197
+    "usd": 4045.6,
+    "twd": 4263.0,
+    "tael": 159878.0,
+    "twdTotal": 132607.0,
+    "changePercent": -1.6507
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股血洗拖累台股！賴清德喊話「別恐慌」：政府將適時救市 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNRW9QTW5OS0NNYVlPWEF4WXdTQXZSb1FMYkFacjRKU21BTzR3UHhRYllrM1R3LUpqZkR0NDQtcV9IMEtMd3FUc2hDZlJ6NERSTWpjeDdtS0xITTdMdGVtNUhaeFRrZjFMN18yeTBXNm4tZV9YX3RPcE5rOEhtbmYzZ0tTQUJOQWVsQzNNMVpINWsxYm4ySENTeTFJUmtDQUd0WWcxUjRHOE9uYUFwWWdHd3hZU0YxdEpfZmJ6NzRGN29PUXFpZU9PYXMxeHY4SWhtZnU0QWV2STMwWjM1dVNSTXBqel9hd3JjN25SSWhseEVUR2lzeF9PT0xhTGVBVlpuQ1Q1M2w5MExhcXFFRHhydTdSUHJDcnB3WS15SlNoRWVNNng2MzFUdC1ublNYcTg0cXhCd0VXUHVfdFV6WVZSTVpJNkFSalJ2cGwxaHdrdkEwNkdRUktIeWJ2VjhlTEJOT0lfamkwUUNtMkdJdmZwWFVobw?oc=5"
-    },
-    {
-      "title": "黃金又漲寫1高點紀錄！但專家卻說注意了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RR1doWi1WSFRnRXRhcFRjT3RLTEFuVkp3ZzNlaXc0QjlvSTBwRFlyX0F1Q0x4b2htdUl0bURWNFNIaDFWei1jWk92ZXYtNXVGQmRRRngySlgtdlhGUDhB0gFkQVVfeXFMUFdFWWtmSkMyd0lvTGFYOFY0dVBsTFVERFpVejNib1BaMF9ObWdtTWNlRExSTjBiVGZjXzIyZXZzS3BFX21vUWhtMXZmYnFIdWltZnJRWTdzdEFXR2ZWOVlXU09DWg?oc=5"
-    },
-    {
-      "title": "高盛下調黃金目標價：牛市邏輯尚未終結，美聯儲卻已改變遊戲規則 - 群益期貨",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUTVLVVJIVzFRQk16RXNRUXRBS1lQS09tckt1eFNzdU5rc0syUXVNLWxKM1hLNXBrN1J5Yk9SR0NTbVpsTnM2UFJYYTEzb1k3bkhGNnZnODFqZy1SMHlFUG9RQm9Sa0pRbXdiWUVXRVpGUUdzM2RiMlFiYXBxSDV3TWRQVGhBQTI1Ty1TS3pkMA?oc=5"
-    },
-    {
-      "title": "美股3大指數崩跌 創2025年4月來最慘日、費半重挫逾12% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BOWMyZVZjWUJtNll2dEU5cGRmdVNBdVVPVEpVODNLWWpoOWxfY2poVHhXcW1OQ0VHMjhPUGliTjFXc2FlT2QwWEhkS2VDYm53?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉AI股大逃殺！VIX狂飆逾60% 道瓊狂瀉1800點費半血崩逾12% 台積電ADR下殺逾10% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTZ01WOC1jeGJEMnlyeWQ5NlFKNkc1UVFYRXBmV0FyVTlyUXVna0FEZmtySXlabTdPQldaQ1dVeVJQeXEzY1lCdXlZX25GU00?oc=5"
-    },
-    {
-      "title": "美股大跌費半重摔12%，不只因選舉？民主黨政策受惠、衝擊股一次看｜美股觀察｜豐雲學堂2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQRUxJVURXeUVGb05zbXNKUGczcnE2NldtSGx2bVNSQmFnQ0NVdXMyeHBheEFrNFZyeDFCbkUwVGtoempPOWFVbDJtMXJWbVNEeXBtand1WURJeVhTempFdnZaNE5OSmg3MVN6bHA5Q0NRUHI4UlA3X08zSmw1Rjg0T1kxbEYtU2x1d2t5VU9nbHoxUEJfNXpkZW5WY19nQnczcGs4bHEwZ09SYmZTalFjTHU1X2hLa2dsZkJCMFNtWmZYbTZPRDlyWldUU25fYkJZaHQ2QmY2VkRTTzFxUklZTGg2cDk1dzVoOU9fb3FTQXU3VXd4V2MyaUNhemFNM3N4Z09jRE9PcnROR0U5REVyaDZkN2hzdkJOb2ZZT1BIdG5FWVItR1M3MF9FNk5FV3lRUTV0M3J6TGVjeWN5V1J1NEx3YVNnUVg4Mkl6QW10alJBYUFNNkIxNlBuLUY5RlBSMUttYm5ZTHI4UXdiZzliNXRZX1RobXhocGpLampYbUVqSTJUMGh2bTdrQjN2eVNycFg5dVFPckhCM21ZeE9PVnJ0OXhwV2p6ZlhqZG5IR1RyN3lHYUZaVXdMRXc3Vms1Nk5yS2YtUG1PT0xpcEhUbVVzRDVqd0g3Q0V0MUtaZGpmel83QmQ5b2JnNERFZw?oc=5"
+      "title": "【美股盤前1106】大跌卻不必緊張？從統計數據來看後市？｜豐雲學堂 2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOa0pmRnFnYnpjSXAtLVQ2REYxVWZOTDBxbllMSnVKcUR1NGlRX0p4MnJVQUxRM3VjeEgweUpxNU5Gd0xjbVZuWk56V3FhaWdNdUlYWGN4WUtpWnY3cE9ZM0V5bS1WOVZfUVdtd3ZNeU1yT2duNWdRMzJ3SExmWEdLVkFmdUNGejQ2N3c5QTlzcUJ6TkRsbExLMjJuV3Frb0Qtdi1sajdhYzJ2NlU2S3pVVUlRN29iS0NQdXZMUzhueF9kUEp2d2VBSVZJaDVHbWxYRzBrOWpRVUJMQ3N4YTMzc2xVUUhSdXpnbHJocGJ2Z0JwdTB2R2NXSjBVbmZIZ0N4YWRNeXliRVFrZVh3c1ZZb28ySWpLLVhqcG1DSmo2SXJKaGstYThRajRlWHdDYVRDZkZweWpLVE53R3FXSXFGZ2pTSUwwUUVEMWRaVUVTMXdzWE0wWUJwUVIzTWNqc3Q3MTk1Sm15UHR0UHdvX0RWZEtkbV9reHhZeGV3ejdJTQ?oc=5"
     },
     {
       "title": "美股重挫拉亞股陪葬！韓股開盤3分鐘熔斷、日股狂瀉4100點 台股急拉千點 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNenM0Tmx2M0dSQUdHYW9ZNlFXYzlET1ZrQWVVbVRMXzRqZUd6dGNoMy1VUGFXeXlTMkFyMzh4RDJ1X3dtTHZ3enZMTFBucTd5bk5sdEh0NHZHbkJ1a3NXcVZZZzNaT3NfTzV0aUdzd2F6ekNfUlFTdzBjb3EzbXVMdjlQY1dXeG45cGhldFpUakdsLUxEZ2lIcS1lY092RGRoTXloUC1aT3BHcG9reTFrUVJtTWpLYWhkZXhHSGNDYlhBRXRfOVVNSHdsbzlMcXlQRmdkZExoM29KUjFCUE5SWFRsV3FpSVRnczMxRWdjQTZWbGdhUFk3a3BkWHRGY1poNUk4UkZuRXNvSC03amd3TkJNY0VhRGd0cUFMZXRRZ256ckYtVWdXcW5MQlZ6NzNnVGttLXcyRFU0eDFBUUVvZjVlbVhwWFR2dEV4d0o0WDJyX1hMbXhob0FJTXF3azVfVWFIMnAxaEIzamJmell1SU9KZGZhMEtxemlibHMwUDMyS1BhWG5YOWhpdV9WS0I2T183Rk1nSkVlYy1qbHBodFlLZGgxdFZSYjBHelB1U0JKSHZ4YWc?oc=5"
     },
     {
+      "title": "美股「大崩盤」臨頭了嗎？AI概念股殺盤最慘緊盯這4個紅燈是否亮起| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16U3FVa2lEbnBQM1F0dWZsSzBkSEhxRnA1ekpKZnZ3aHpwd2hfQ3NpdUxSdkFNeDlIZEs1NFVzTEdTS1dCbzNmRUw4bEd2OUxz?oc=5"
+    },
+    {
+      "title": "美股收跌影響 日韓股市雙雙重挫 - 公視新聞",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WR0ZfelFjcDEwblRNSnRER2hEcmpDSXBUS0NQNWVqYmx5cWVzRWhNWjZ0MGVEUTNpZTZvYzJOTnFkTU12WlF3a3V3eFZVa0E?oc=5"
+    },
+    {
+      "title": "台股股災》國安基金、限空令上場救援，可以逢低買進了嗎？投資人關鍵五問 - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jcjQ5b0xLaXUtTlhKRFRPaUVKMmphOVRjNmtMa3RQV2Zvd2VicjJFazgtdFJ0cXdjLU16WF9oRW9JaGVkRnUyYmd1bWU4QQ?oc=5"
+    },
+    {
       "title": "美股遭血洗「都怪民主黨」 川普不忍開罵了 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPSHcwWHRBWElWb2dEWXhzSWxrM3NNTmVlRlBTeHVIM0ZQUlM1bFZZM0tjZFBONkVOQTIyYWZMcWVkdzJFeV9uUGJ4V2ZjYjlJeGVRLTc1dU5oQ193YTdWLVZLWWxxcnczdm1LeW1VQ2ppU0s2T3paNzYwb1NubWFRaDgydEZzeFZKLUdXMml1TWctTGUzMU1sUXZ5SVhacG1uc20teUJyU2xLWEJmQUtGV0RhM3NOeEN5NGpJeWVrWWxXZDc0aGI5T1ZtU1BPdEVUd0RfajExRUlWd2lRc1BqRjhWR0tmZjJFeTZzNkwyVGNxZ05FWlM0bTFZSFVwb3FfbElHRzY1Q1JYazBFSUp2cjUxcUxsZzNMU2pKQlgtcHVseDc3VllfcVV3?oc=5"
+    },
+    {
+      "title": "限空令出鞘倒數？台股重挫1,873點、盤中崩跌3,737點創史上最大，金管會救市歷史數據解析｜股市話題 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMiywRBVV95cUxPUUVyank5V2toTTFwczg3WjNPLXBTTm5RdEx0YWFpVm9PaENwNXlDRFdLMUYxQTJhOTlydGtuSmtDZXBFQmNibkZENHpVbjFsYTl4R2tOWlZmeWpvUk9KbThaekF1MDdSOTF6T1NiZXlwak5TVW5ibUhBVDdjTWxIRHpDZXN4SU9VeVBXalZhVEplQzVtanBuZzN3NWY1U1RXSmxzTlZVTUJYd3pTRmtKWVA3bFlwdy15WklMdVlJeGJYYi1iTVJkSl93YmtkTDdWaGdoUXpaQjNXUVE5U094S1BQRmVDNUlpenBkbTdxdEdpNGdyWmFTSllKZVFORDc4bDIxSzB5bTRpQlROVHlrVG9fT0dZLXliQWd1MkI2bVcyaXZjRUM4RlFhcGJ6dUs2dlZSR0FzNUJmT3puNnBObFM0Z2lLNHltelRCclhCMGs1R2FfZ2F0QVd3b2kzbjVNeGN0bEE5NHFrU243V21QMGljTWxvV1EwMHBwVUdjZ1A4VFQyUVltMDQ4UUx3LTQ2VG9HRGhmSXlaWldJRVhUNTZuNFVHMnl2Zks2ak1tOTNRQnNVaWdsdzYwRzlneE81MDB1TUtSS3VuUy0tZFhhcDZIRk04bzJaNkNxcU9TOWxkejRXWW1oTlFzNFRWQnFWWTVKSURiNk1RbHRkWWQ4QjhMeVJiS2lvaW5seF9nMXdrZXNhU3pJZlk3aFBuY2Vxc1A3aXk5Z2xmNldha291WEhFYXVEWnQ3azJlS1dmSE5Rb3h6WC1YSThmQQ?oc=5"
+    },
+    {
+      "title": "美股血洗拖累台股！賴清德喊話「別恐慌」：政府將適時救市 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNRW9QTW5OS0NNYVlPWEF4WXdTQXZSb1FMYkFacjRKU21BTzR3UHhRYllrM1R3LUpqZkR0NDQtcV9IMEtMd3FUc2hDZlJ6NERSTWpjeDdtS0xITTdMdGVtNUhaeFRrZjFMN18yeTBXNm4tZV9YX3RPcE5rOEhtbmYzZ0tTQUJOQWVsQzNNMVpINWsxYm4ySENTeTFJUmtDQUd0WWcxUjRHOE9uYUFwWWdHd3hZU0YxdEpfZmJ6NzRGN29PUXFpZU9PYXMxeHY4SWhtZnU0QWV2STMwWjM1dVNSTXBqel9hd3JjN25SSWhseEVUR2lzeF9PT0xhTGVBVlpuQ1Q1M2w5MExhcXFFRHhydTdSUHJDcnB3WS15SlNoRWVNNng2MzFUdC1ublNYcTg0cXhCd0VXUHVfdFV6WVZSTVpJNkFSalJ2cGwxaHdrdkEwNkdRUktIeWJ2VjhlTEJOT0lfamkwUUNtMkdJdmZwWFVobw?oc=5"
     }
   ]
 }
