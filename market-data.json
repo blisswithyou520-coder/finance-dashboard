@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/06 22:38",
+  "updated_tw": "11/07 04:35",
   "taiwan": {
     "2330": {
       "price": 2135.0,
-      "change": -105.0,
-      "changePercent": -4.6875
+      "change": -125.0,
+      "changePercent": -5.531
     },
     "2454": {
       "price": 3390.0,
-      "change": -70.0,
-      "changePercent": -2.0231
+      "change": -325.0,
+      "changePercent": -8.7483
     },
     "2317": {
       "price": 224.5,
-      "change": -10.5,
-      "changePercent": -4.4681
+      "change": -15.5,
+      "changePercent": -6.4583
     },
     "0050": {
       "price": 92.5,
-      "change": -4.65,
-      "changePercent": -4.7864
+      "change": -7.35,
+      "changePercent": -7.361
     },
     "00878": {
       "price": 31.99,
-      "change": -1.04,
-      "changePercent": -3.1486
+      "change": -1.62,
+      "changePercent": -4.82
     },
     "00919": {
       "price": 30.14,
-      "change": -1.05,
-      "changePercent": -3.3665
+      "change": -1.12,
+      "changePercent": -3.5829
     }
   },
   "us": {
     "NVDA": {
-      "price": 192.7,
-      "change": 11.1,
-      "changePercent": 6.1123
+      "price": 187.819,
+      "change": 6.219,
+      "changePercent": 3.4246
     },
     "AAPL": {
-      "price": 340.72,
-      "change": -3.45,
-      "changePercent": -1.0024
+      "price": 343.78,
+      "change": -0.39,
+      "changePercent": -0.1133
     },
     "TSLA": {
-      "price": 349.125,
-      "change": 5.435,
-      "changePercent": 1.5814
+      "price": 360.75,
+      "change": 17.06,
+      "changePercent": 4.9638
     },
     "QQQ": {
-      "price": 658.43,
-      "change": 11.38,
-      "changePercent": 1.7588
+      "price": 658.73,
+      "change": 11.68,
+      "changePercent": 1.8051
     },
     "SPY": {
-      "price": 736.92,
-      "change": 3.92,
-      "changePercent": 0.5348
+      "price": 737.56,
+      "change": 4.56,
+      "changePercent": 0.6221
     },
     "SCHD": {
-      "price": 34.965,
-      "change": -0.455,
-      "changePercent": -1.2846
+      "price": 35.22,
+      "change": -0.2,
+      "changePercent": -0.5646
     },
     "VOO": {
-      "price": 677.4,
-      "change": 3.43,
-      "changePercent": 0.5089
+      "price": 677.95,
+      "change": 3.98,
+      "changePercent": 0.5905
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75652.28,
-      "change": -289.845,
-      "changePercent": -0.3817
+      "price": 75794.93,
+      "change": -147.195,
+      "changePercent": -0.1938
     },
     "ETH": {
-      "price": 2234.27,
-      "change": -0.2063,
-      "changePercent": -0.0092
+      "price": 2230.86,
+      "change": -3.6163,
+      "changePercent": -0.1618
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.778,
-      "change": -0.0432,
-      "changePercent": -0.1316
+      "price": 32.763,
+      "change": -0.0582,
+      "changePercent": -0.1773
     },
     "JPYTWD": {
-      "price": 0.2048,
-      "change": -0.0025,
-      "changePercent": -1.1903
+      "price": 0.2045,
+      "change": -0.0028,
+      "changePercent": -1.335
     },
     "EURTWD": {
-      "price": 36.561,
-      "change": -0.3126,
-      "changePercent": -0.8478
+      "price": 36.53,
+      "change": -0.3436,
+      "changePercent": -0.9319
     },
     "CNYTWD": {
-      "price": 4.9163,
+      "price": 4.918,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4045.6,
-    "twd": 4263.0,
-    "tael": 159878.0,
-    "twdTotal": 132607.0,
-    "changePercent": -1.6507
+    "usd": 4071.2,
+    "twd": 4288.0,
+    "tael": 160816.0,
+    "twdTotal": 133385.0,
+    "changePercent": -1.0283
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "【美股盤前1106】大跌卻不必緊張？從統計數據來看後市？｜豐雲學堂 2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOa0pmRnFnYnpjSXAtLVQ2REYxVWZOTDBxbllMSnVKcUR1NGlRX0p4MnJVQUxRM3VjeEgweUpxNU5Gd0xjbVZuWk56V3FhaWdNdUlYWGN4WUtpWnY3cE9ZM0V5bS1WOVZfUVdtd3ZNeU1yT2duNWdRMzJ3SExmWEdLVkFmdUNGejQ2N3c5QTlzcUJ6TkRsbExLMjJuV3Frb0Qtdi1sajdhYzJ2NlU2S3pVVUlRN29iS0NQdXZMUzhueF9kUEp2d2VBSVZJaDVHbWxYRzBrOWpRVUJMQ3N4YTMzc2xVUUhSdXpnbHJocGJ2Z0JwdTB2R2NXSjBVbmZIZ0N4YWRNeXliRVFrZVh3c1ZZb28ySWpLLVhqcG1DSmo2SXJKaGstYThRajRlWHdDYVRDZkZweWpLVE53R3FXSXFGZ2pTSUwwUUVEMWRaVUVTMXdzWE0wWUJwUVIzTWNqc3Q3MTk1Sm15UHR0UHdvX0RWZEtkbV9reHhZeGV3ejdJTQ?oc=5"
+      "title": "美股急跌，是危機來了， 還是市場太恐慌？ - 鉅亨買基金",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tOUhMYXAyY0o5Y1Y5bm9RWFZaaktVU1NGdjJXN21feTBya2YzdHQxWGRHNlJGLXphT1NPWnFWS0dJUnZ0bmFua0hnUHVrWFJ3ejcwN3NPblFoU1A3VTZPX2Z2VW5GTVBiWEo1MzRZOExNUmh3S0ZOZ0xGc3RmVDQ?oc=5"
     },
     {
-      "title": "美股重挫拉亞股陪葬！韓股開盤3分鐘熔斷、日股狂瀉4100點 台股急拉千點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNenM0Tmx2M0dSQUdHYW9ZNlFXYzlET1ZrQWVVbVRMXzRqZUd6dGNoMy1VUGFXeXlTMkFyMzh4RDJ1X3dtTHZ3enZMTFBucTd5bk5sdEh0NHZHbkJ1a3NXcVZZZzNaT3NfTzV0aUdzd2F6ekNfUlFTdzBjb3EzbXVMdjlQY1dXeG45cGhldFpUakdsLUxEZ2lIcS1lY092RGRoTXloUC1aT3BHcG9reTFrUVJtTWpLYWhkZXhHSGNDYlhBRXRfOVVNSHdsbzlMcXlQRmdkZExoM29KUjFCUE5SWFRsV3FpSVRnczMxRWdjQTZWbGdhUFk3a3BkWHRGY1poNUk4UkZuRXNvSC03amd3TkJNY0VhRGd0cUFMZXRRZ256ckYtVWdXcW5MQlZ6NzNnVGttLXcyRFU0eDFBUUVvZjVlbVhwWFR2dEV4d0o0WDJyX1hMbXhob0FJTXF3azVfVWFIMnAxaEIzamJmell1SU9KZGZhMEtxemlibHMwUDMyS1BhWG5YOWhpdV9WS0I2T183Rk1nSkVlYy1qbHBodFlLZGgxdFZSYjBHelB1U0JKSHZ4YWc?oc=5"
+      "title": "美股早盤／反攻號角響起！費半漲約6% 台積電ADR強彈近8% 道瓊獨憔悴 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zbEJMTU1rcWd2STA2WnAtcjAxOEZxYzhoRHo5c1Y2QmVjRE1jOVVLbEhvZVRLdU43SlozWDNNNWxLanNsemQ2Vk9OWmpuWkMzcV9kQUtQM3k2ZjVT0gFiQVVfeXFMTUlCbnAwVHBWMVJ6QmVMYUR0UUxNR2E2WFpCOXJuVF9JM3NXWEJPYlJLWnpUQ2pGRjFYNTdDa3NSY1VmMV9Gd2FNQUM0Z29fbnlaTFFKSVpDQXg0VVN0SGx0S1E?oc=5"
     },
     {
-      "title": "美股「大崩盤」臨頭了嗎？AI概念股殺盤最慘緊盯這4個紅燈是否亮起| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16U3FVa2lEbnBQM1F0dWZsSzBkSEhxRnA1ekpKZnZ3aHpwd2hfQ3NpdUxSdkFNeDlIZEs1NFVzTEdTS1dCbzNmRUw4bEd2OUxz?oc=5"
+      "title": "〈美股早盤〉AI股跌出買盤！晶片股帶動那指反彈 Fed升息陰影仍在 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EVmFadnl5cG5sRzg0Mk93cjJ5V2xpdmE2ZkhWNjZrNW41TzlQeWVWczc1YWJpOC1WY29DcElBLXlEcVlSYks2QUFRYWNNaUE?oc=5"
     },
     {
-      "title": "美股收跌影響 日韓股市雙雙重挫 - 公視新聞",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WR0ZfelFjcDEwblRNSnRER2hEcmpDSXBUS0NQNWVqYmx5cWVzRWhNWjZ0MGVEUTNpZTZvYzJOTnFkTU12WlF3a3V3eFZVa0E?oc=5"
+      "title": "不排除再血洗 今晚「美股大魔王」將至！專家：恐成崩盤因素 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPVnJ5dElvSkFiWWMtY2E4cERZSTV5UDMwZ09zcGtxZ2Rxc2dSTml0d3hvZkhFZGNSYkpETDhUYTZENzFzel9jXzZvNjhDLXZRcHlCcFZDblk0WDhfS0FZOThNRHQxeDBZMkRNY2wtRlhZby1BM1JzdEZ1MGRJc0hTbWdVTDF6NDl0bmdpS2tmanJsdmlWLWtOU0ozbFFfak9FZjRTdVR6UDJpZzVZVnpQQnUwTWoxdnlaaDJJQThaX242VlVubjhpd0NuT0ExYTVSNGFuUHRBRXhDNjhHSXdZTkdUYVpGRjZYUlJZN1pQWjd3YkxyckpkSjRpQldtdWdFMV90czBZV0g4WmlScW1vdzRtM0FObklKTkQwRTlrYjU5Ty05?oc=5"
     },
     {
-      "title": "台股股災》國安基金、限空令上場救援，可以逢低買進了嗎？投資人關鍵五問 - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jcjQ5b0xLaXUtTlhKRFRPaUVKMmphOVRjNmtMa3RQV2Zvd2VicjJFazgtdFJ0cXdjLU16WF9oRW9JaGVkRnUyYmd1bWU4QQ?oc=5"
+      "title": "美股強彈！費半飆逾5% 台積電ADR大漲近8% 道瓊獨憔悴 - BigGo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hVlVybk10YVJoNzB0Z1NYaGhIaDY5R3JXMmdPMkF2T0tpdkRHbzRHSzF0ZUpUbDFFS3pwQmhzekphTnR5X3E3dE5EOWVYczVDbnlDeHotM0FoMVJVbTlEUlZjR2dtcVVCVGM5bFByUjduZ0g4MFMtUWN3?oc=5"
     },
     {
-      "title": "美股遭血洗「都怪民主黨」 川普不忍開罵了 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPSHcwWHRBWElWb2dEWXhzSWxrM3NNTmVlRlBTeHVIM0ZQUlM1bFZZM0tjZFBONkVOQTIyYWZMcWVkdzJFeV9uUGJ4V2ZjYjlJeGVRLTc1dU5oQ193YTdWLVZLWWxxcnczdm1LeW1VQ2ppU0s2T3paNzYwb1NubWFRaDgydEZzeFZKLUdXMml1TWctTGUzMU1sUXZ5SVhacG1uc20teUJyU2xLWEJmQUtGV0RhM3NOeEN5NGpJeWVrWWxXZDc0aGI5T1ZtU1BPdEVUd0RfajExRUlWd2lRc1BqRjhWR0tmZjJFeTZzNkwyVGNxZ05FWlM0bTFZSFVwb3FfbElHRzY1Q1JYazBFSUp2cjUxcUxsZzNMU2pKQlgtcHVseDc3VllfcVV3?oc=5"
+      "title": "美股震盪！那指盤中反彈1.1% 道瓊開盤10分鐘重挫逾500點 - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtVjRvVy1zVUJtTTlCUmFjUGItMGJMNkxOUWt0LVp4UGx5U1pjU3hHTXIyOXdTMGR5aDVwZmlNc2VpbGd1X1p0RFZhLWYwcldlTWhfWTJPVQ?oc=5"
     },
     {
-      "title": "限空令出鞘倒數？台股重挫1,873點、盤中崩跌3,737點創史上最大，金管會救市歷史數據解析｜股市話題 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMiywRBVV95cUxPUUVyank5V2toTTFwczg3WjNPLXBTTm5RdEx0YWFpVm9PaENwNXlDRFdLMUYxQTJhOTlydGtuSmtDZXBFQmNibkZENHpVbjFsYTl4R2tOWlZmeWpvUk9KbThaekF1MDdSOTF6T1NiZXlwak5TVW5ibUhBVDdjTWxIRHpDZXN4SU9VeVBXalZhVEplQzVtanBuZzN3NWY1U1RXSmxzTlZVTUJYd3pTRmtKWVA3bFlwdy15WklMdVlJeGJYYi1iTVJkSl93YmtkTDdWaGdoUXpaQjNXUVE5U094S1BQRmVDNUlpenBkbTdxdEdpNGdyWmFTSllKZVFORDc4bDIxSzB5bTRpQlROVHlrVG9fT0dZLXliQWd1MkI2bVcyaXZjRUM4RlFhcGJ6dUs2dlZSR0FzNUJmT3puNnBObFM0Z2lLNHltelRCclhCMGs1R2FfZ2F0QVd3b2kzbjVNeGN0bEE5NHFrU243V21QMGljTWxvV1EwMHBwVUdjZ1A4VFQyUVltMDQ4UUx3LTQ2VG9HRGhmSXlaWldJRVhUNTZuNFVHMnl2Zks2ak1tOTNRQnNVaWdsdzYwRzlneE81MDB1TUtSS3VuUy0tZFhhcDZIRk04bzJaNkNxcU9TOWxkejRXWW1oTlFzNFRWQnFWWTVKSURiNk1RbHRkWWQ4QjhMeVJiS2lvaW5seF9nMXdrZXNhU3pJZlk3aFBuY2Vxc1A3aXk5Z2xmNldha291WEhFYXVEWnQ3azJlS1dmSE5Rb3h6WC1YSThmQQ?oc=5"
+      "title": "台股史詩級崩跌3737點 國安基金下週一進場 - 卡優新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pTktaUlpwZl9JejNsVENNSk5KY3R1cFdyOUpFTnR2dGxKT3BJWU9Ea2h2Sjh3NlFmSEliUkZDOFE4STRZcU9kQTlwRUh4RWNyY2cwMm02VDJFZw?oc=5"
     },
     {
-      "title": "美股血洗拖累台股！賴清德喊話「別恐慌」：政府將適時救市 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNRW9QTW5OS0NNYVlPWEF4WXdTQXZSb1FMYkFacjRKU21BTzR3UHhRYllrM1R3LUpqZkR0NDQtcV9IMEtMd3FUc2hDZlJ6NERSTWpjeDdtS0xITTdMdGVtNUhaeFRrZjFMN18yeTBXNm4tZV9YX3RPcE5rOEhtbmYzZ0tTQUJOQWVsQzNNMVpINWsxYm4ySENTeTFJUmtDQUd0WWcxUjRHOE9uYUFwWWdHd3hZU0YxdEpfZmJ6NzRGN29PUXFpZU9PYXMxeHY4SWhtZnU0QWV2STMwWjM1dVNSTXBqel9hd3JjN25SSWhseEVUR2lzeF9PT0xhTGVBVlpuQ1Q1M2w5MExhcXFFRHhydTdSUHJDcnB3WS15SlNoRWVNNng2MzFUdC1ublNYcTg0cXhCd0VXUHVfdFV6WVZSTVpJNkFSalJ2cGwxaHdrdkEwNkdRUktIeWJ2VjhlTEJOT0lfamkwUUNtMkdJdmZwWFVobw?oc=5"
+      "title": "台股暴跌！ 過來人憶金融海嘯慘狀：不碰股票也遭殃 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQSlprX3BDSnQ1LWxPb0dzN0E0U1hhbTFzZjU3dUFHLXFhTHFVX2xHTDVEdUFCeGx5WnRUNXJESk5IbkI2VmNsa0dTajlERnUzQmtwOXVoVFktaE1tbTBIMUI5OFJZYkp6UWpHVHgyRFdSMnhWUDlzTE9xeFZlTUlyRkdLcDlsa0FXWW9Mb01yZW8xOUxXdFd4dE5WVVpaclpkbXR3NWlkT21YR1FfZWZDQVJCblczZ3FyR0luWVRBVC1HVHFUVHFFcnU0RmNWUHdiTC1DWUVmVktqUVpKbzhiVTZlWHFNMXZ4YzZ4ei10V1VCRkVYcm90UnRJOWE0OVE2QXF3TFF3M0lSOXp5dHlldkdCQ1NTbFphcmJUeEhjSmdRTzdUMjFtSmg2bUw2Wk82YVB2ZzRmUEEtaUdwd01yVXlLMzlFN012ZnZVdVE4MFUyYllOLWVpZUF3?oc=5"
     }
   ]
 }
