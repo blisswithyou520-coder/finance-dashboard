@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/06 02:58",
+  "updated_tw": "11/06 08:01",
   "taiwan": {
     "2330": {
       "price": 2240.0,
-      "change": -55.0,
-      "changePercent": -2.3965
+      "change": -20.0,
+      "changePercent": -0.885
     },
     "2454": {
       "price": 3460.0,
-      "change": -215.0,
-      "changePercent": -5.8503
+      "change": -255.0,
+      "changePercent": -6.8641
     },
     "2317": {
       "price": 235.0,
-      "change": -10.5,
-      "changePercent": -4.277
+      "change": -5.0,
+      "changePercent": -2.0833
     },
     "0050": {
       "price": 97.15,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 183.2,
-      "change": -16.93,
-      "changePercent": -8.4595
+      "price": 181.6,
+      "change": -18.53,
+      "changePercent": -9.259
     },
     "AAPL": {
-      "price": 343.63,
-      "change": -5.88,
-      "changePercent": -1.6824
+      "price": 344.17,
+      "change": -5.34,
+      "changePercent": -1.5279
     },
     "TSLA": {
-      "price": 341.14,
-      "change": -44.05,
-      "changePercent": -11.4359
+      "price": 343.69,
+      "change": -41.5,
+      "changePercent": -10.7739
     },
     "QQQ": {
-      "price": 652.93,
-      "change": -39.02,
-      "changePercent": -5.6391
+      "price": 647.05,
+      "change": -44.9,
+      "changePercent": -6.4889
     },
     "SPY": {
-      "price": 736.64,
-      "change": -30.17,
-      "changePercent": -3.9345
+      "price": 733.0,
+      "change": -33.81,
+      "changePercent": -4.4092
     },
     "SCHD": {
-      "price": 35.615,
-      "change": -0.595,
-      "changePercent": -1.6432
+      "price": 35.42,
+      "change": -0.79,
+      "changePercent": -2.1817
     },
     "VOO": {
-      "price": 677.17,
-      "change": -27.61,
-      "changePercent": -3.9175
+      "price": 673.97,
+      "change": -30.81,
+      "changePercent": -4.3716
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76028.06,
-      "change": -4377.2291,
-      "changePercent": -5.444
+      "price": 75998.13,
+      "change": -4407.1591,
+      "changePercent": -5.4812
     },
     "ETH": {
-      "price": 2249.9,
-      "change": -172.4118,
-      "changePercent": -7.1177
+      "price": 2237.13,
+      "change": -185.1818,
+      "changePercent": -7.6448
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 33.049,
-      "change": 0.316,
-      "changePercent": 0.9654
+      "price": 33.09,
+      "change": 0.5049,
+      "changePercent": 1.5495
     },
     "JPYTWD": {
-      "price": 0.2073,
-      "change": 0.0008,
-      "changePercent": 0.3733
+      "price": 0.2079,
+      "change": 0.0016,
+      "changePercent": 0.7512
     },
     "EURTWD": {
-      "price": 37.139,
-      "change": 0.4572,
-      "changePercent": 1.2464
+      "price": 37.197,
+      "change": 0.7328,
+      "changePercent": 2.0098
     },
     "CNYTWD": {
-      "price": 4.9596,
+      "price": 4.9663,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4109.6,
-    "twd": 4367.0,
-    "tael": 163750.0,
-    "twdTotal": 135818.0,
-    "changePercent": 0.8986
+    "usd": 4099.0,
+    "twd": 4361.0,
+    "tael": 163530.0,
+    "twdTotal": 135636.0,
+    "changePercent": 0.6384
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOTnBneHFHeGV5TUVMQ2ZRdFpweEtvajhMazhMN3J1ZEJhOE1kNlVJM1pRR0kzeW5VTjRLQzJRbjZ4cWNscWdyeDlvUzZzRXZicWJoWVl2VGlmTFhVNzZwdWVvMTI0MlNLZkh2R2t0Y19aOUYtLXI1ZEt2MEhRLXRqOS1wUUVuU3hoNVAwalpkRlNJUUxuUnY4SXBKSlRrWDVpX3djS0ZlMDBDUWFrdjNZd29PQ2hoY2l1bS1PVF9LeG9MQWpJZWxYZ2hGdXZKM3RYcGZEaUhoSTNGNEJCNEJJcmxJcTlMeFA2TDZqNVRRS0loWGtMTDZ1M2RjS0hnbmFid1EwclhTU2FocmpRa1NsME1oVW8tX203czF0NnJaLVFxekpuYl9SUnhQVVZPR21MbUFBclpCLVdqQUd5aEVYaERGd09EZzhZMXdKeHd0Ylk2ZXpxMW1QU0xIWWx2Wi1uQWVqcmNxWm43QjczZWF3RkNYMkhKSTdiVkNIdnFaQW8xWU1JZ3c?oc=5"
     },
     {
-      "title": "美股早盤／「藍色海嘯」掀AI大逃殺潮 費半崩7% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIenNwMlZVeVNaSDM4elNveW5LaGJKa0FJaFhGTjdSWlhUUDY1N0kzZm9BNVJvOWdMUDJpdTh3Zy14OHZWY1VDMWp4RV9QVVFRUGFyZGNlbkU2R2ln0gFiQVVfeXFMUGI1eXlTZE1ibEZNSVAxVFJacWlWc0J6Z1M5RU5aUEhwTkdJZEllcHhQTF9Gc3pqTklQUkxCTWdodTl6bm85T1FnS09pUi12eG5HQTlBT1J0RnRDaEYtd2RoaEE?oc=5"
+      "title": "美股｜AI股挫咧等！費半崩12％ 那指陷修正區間 台積電ADR瀉近11％ - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93elpraHlsRmptSTAwR3M2N1lWQy1KNnFMUnFXWUtlSnpiLTdYcGlIemp1MFNDMU41Q0NtRHdIOEdDdGxaMVpSSWlzNXhQREJYMUZzSlpxWW1ZRVVzVlJj?oc=5"
     },
     {
-      "title": "〈美股早盤〉選後行情兩樣情！道瓊續揚、那指開低 台積電ADR挫跌4.5% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xRDN4LVZRZVc3MVI0NWhhLWFIYnJqczRMd0J0bl8zbTl0X1ltdHJ4N1JBSHdlTVpDMFV1X19ERE1HQjllVVVMV1M1czQwTjQ?oc=5"
+      "title": "〈美股盤後〉AI股大逃殺！VIX狂飆逾60% 道瓊狂瀉1800點費半血崩逾12% 台積電ADR下殺逾10% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTZ01WOC1jeGJEMnlyeWQ5NlFKNkc1UVFYRXBmV0FyVTlyUXVna0FEZmtySXlabTdPQldaQ1dVeVJQeXEzY1lCdXlZX25GU00?oc=5"
     },
     {
-      "title": "美股史詩級拋售！那斯達克重挫逾 4%、Nvidia 跌近 7%、特斯拉崩超 10% - 動區動趨",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rRUhQb18tSXJfVkFNU1UxMVBkMEE2NDU4eVB6RDJIMzYydnlnVXczN0JSRGJWaTUtRERkRXBsNy1icHp0VXFmckdxajRPb1ZPQlQ4cHBXWjVnWXNVTnNOOU9pMWRKMkFTV1ZqV0RyVzc0a0VLQXc?oc=5"
-    },
-    {
-      "title": "期中選舉失利，川普、AI與美股下一步怎麼走？ – 全台最大民營線上基金交易平台 - 鉅亨買基金",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXoxeGpDUHRRN2x3R01hYTBVZlZpX2s3UWFremM5OXVtNFc3TGpFMER4MGtGMGFaYzY3N0E3dF9UTGxHbEtkREpxOWNraDBkbzhmR29nMWNMdGcyS3FDdU5CTlBsUTNscDlPTEppa3ZzSzhXWkhURG5GOGcyREpHTTVBa0Y2QXFVYTlEYUVLTTZRT1pUdDZ0X3ZR?oc=5"
-    },
-    {
-      "title": "美股選後重挫！費半跌逾 11%，台積電 ADR 跌一成 - 鏈新聞 ABMedia",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51cmhtUHRBanlmVWU0UzdyVmZQbDhjWGRLR3JXZmM5S21XdWFCN0lvVE9QOFBGRy1yYTMxbzUyd0h0OThFajh3MG03eHVQX3VsNlQweUY0Q0RISEZxVzNuYkVCSzI2UTQ?oc=5"
-    },
-    {
-      "title": "美股恐慌指数VIX飙升逾62%，突破27点关口 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MdGtPN3l0MV82QmNhQ1c0RnBxTzJhbWZUTlUxenA3NkFLdEVnVDBfVG9aaENkU25kSWljYlpzcTlQd3E5R2NkaTA2clAwVGhCWFdWbjltaWhPRWx0NWRQWkM0VnQxUQ?oc=5"
+      "title": "美股收盤》血洗科技股！道瓊狂跌1833點 台積電ADR重挫逾10％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oY2RGeWZhU2xLcHRaR0EzdnMxR1N3Vjc1UW1ZUHdidnJxZGMxYWM1a1BXa2RGNi02YjcxcGNuMlpidWgyd1NyQnFVMUpzb0wzLW1xRlNMSEE5bVY5MTh30gFkQVVfeXFMTS1Dc2FoQ1ptTnh3akFaQzlWeFFjNHpMdTE2eEpoWUVZSm91SE9XWjNhWXlwR3VxSnpHTFZ1ZEhoN1BpQUJ5RExSMTV2V2dyV3dnRV9PT0w1VW92VjZTanNJY0lsaw?oc=5"
     },
     {
       "title": "歷史經驗 美股選後看漲…S&P 500指數勝率達91% - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MQ0NuY25kaldDUC1pUlFxUmIwckN3MlJXbzgtS3Y5a0RtSlRGajdyWFNTUE1QVXpDNldSWml6eFh2eTdlY0EySVZ0bGdEZkl30gFWQVVfeXFMTVlBcG1XWm1JVUpLWU9NdjBWUk1lR0IyUzVuRkNIV2pYV1YxR0d6U0QteEU2VERHYU9RNm5OZmthWHVJUEdvNEJ5aTRDZ2Zlc2UxNVFGYUE?oc=5"
+    },
+    {
+      "title": "美股三大指数集体收跌：SanDisk（SNDK）下跌22.69%，AMD下跌17.92% - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54aHlFSUFQWWNLVEpXUWx1NnJqc25HcHpVZDJjX2VlLU0zOEpaUWNZd3dJY2laRXpoTldzdmJrTDFIOVZ0Vkh2V0puS1V6NFBBbk4taXNObWwyektTYVZ1WmI3Z1dnQQ?oc=5"
+    },
+    {
+      "title": "男子花光積蓄買3.5公斤黃金！9個月慘賠558萬 賣出隔天金價竟反彈 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNWGJQY3VKWVlPTDlWVEF4RzdOd0hsM0RqVWVWcGN6SDd5LTQ5T0lLYXhYamdjRFJkcDU4YkZlMDFvRG9rR3JLVDZGUkNhM0JYcGNtbENwcHdQMEhmc3pZXzgxSTRaMHgwal91UWVVVXVGamtUeDF2WGxkNG1UMVA2eHo1VW5EdDhDTjJVVjhQNzE2ekhfcFFqRDF1WjFLMjRjTUJOT3YyMlIzZDhnUmxEamlZSzVmWWt5NTJ6aGk3YzJNYUk4QzE5aWZlam9oczloci1GOHB2OGFIclViN2JmMXM1UVZteHdielNDcHd1Y21ZcTE4RzNDUmcxcEpIR19aaGtUb2hyNjU4NVZyN0xUc2h0YmJlWE5faG9rallTZ1hqOHR1eVZQQXJnUzVzUjBMcUZvZnpvZlhBTk9hdG1XclhaV3VBVUtOd3c1N3hObGxDZGlpalJ6REV1bkxSOE5kbjNOMVo5V2NmcUZ4NkVtN3RpQzAybUhCTDJNNnplNWYzaFJab3ZsQkkxdVBnTmpSZTVR?oc=5"
+    },
+    {
+      "title": "美股慘遭血洗！10月非農就業報告能否成止跌救星？ - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90d2REYXc4MUdfdGhOLVc2UURiR0d2eFpvWDdCeXRLWXFwXzFWWnVyM0tYOWJrQWVMeDZxdldUWEhOb1Faa1pHZkJJQmJGLTA?oc=5"
     }
   ]
 }
