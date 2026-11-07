@@ -1,26 +1,26 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/07 04:35",
+  "updated_tw": "11/07 08:21",
   "taiwan": {
     "2330": {
       "price": 2135.0,
-      "change": -125.0,
-      "changePercent": -5.531
+      "change": -105.0,
+      "changePercent": -4.6875
     },
     "2454": {
       "price": 3390.0,
-      "change": -325.0,
-      "changePercent": -8.7483
+      "change": -70.0,
+      "changePercent": -2.0231
     },
     "2317": {
       "price": 224.5,
-      "change": -15.5,
-      "changePercent": -6.4583
+      "change": -10.5,
+      "changePercent": -4.4681
     },
     "0050": {
       "price": 92.5,
-      "change": -7.35,
-      "changePercent": -7.361
+      "change": -4.65,
+      "changePercent": -4.7864
     },
     "00878": {
       "price": 31.99,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 187.819,
-      "change": 6.219,
-      "changePercent": 3.4246
+      "price": 186.64,
+      "change": 5.04,
+      "changePercent": 2.7753
     },
     "AAPL": {
-      "price": 343.78,
-      "change": -0.39,
-      "changePercent": -0.1133
+      "price": 342.37,
+      "change": -1.8,
+      "changePercent": -0.523
     },
     "TSLA": {
-      "price": 360.75,
-      "change": 17.06,
-      "changePercent": 4.9638
+      "price": 358.22,
+      "change": 14.53,
+      "changePercent": 4.2276
     },
     "QQQ": {
-      "price": 658.73,
-      "change": 11.68,
-      "changePercent": 1.8051
+      "price": 656.1,
+      "change": 9.05,
+      "changePercent": 1.3987
     },
     "SPY": {
-      "price": 737.56,
-      "change": 4.56,
-      "changePercent": 0.6221
+      "price": 735.29,
+      "change": 2.29,
+      "changePercent": 0.3124
     },
     "SCHD": {
-      "price": 35.22,
-      "change": -0.2,
-      "changePercent": -0.5646
+      "price": 35.17,
+      "change": -0.25,
+      "changePercent": -0.7058
     },
     "VOO": {
-      "price": 677.95,
-      "change": 3.98,
-      "changePercent": 0.5905
+      "price": 675.99,
+      "change": 2.02,
+      "changePercent": 0.2997
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75794.93,
-      "change": -147.195,
-      "changePercent": -0.1938
+      "price": 75849.16,
+      "change": -92.965,
+      "changePercent": -0.1224
     },
     "ETH": {
-      "price": 2230.86,
-      "change": -3.6163,
-      "changePercent": -0.1618
+      "price": 2239.94,
+      "change": 5.4637,
+      "changePercent": 0.2445
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.763,
-      "change": -0.0582,
-      "changePercent": -0.1773
+      "price": 32.765,
+      "change": -0.0562,
+      "changePercent": -0.1712
     },
     "JPYTWD": {
-      "price": 0.2045,
-      "change": -0.0028,
-      "changePercent": -1.335
+      "price": 0.2046,
+      "change": -0.0027,
+      "changePercent": -1.2867
     },
     "EURTWD": {
-      "price": 36.53,
-      "change": -0.3436,
-      "changePercent": -0.9319
+      "price": 36.557,
+      "change": -0.3166,
+      "changePercent": -0.8586
     },
     "CNYTWD": {
-      "price": 4.918,
+      "price": 4.9128,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4071.2,
-    "twd": 4288.0,
-    "tael": 160816.0,
-    "twdTotal": 133385.0,
-    "changePercent": -1.0283
+    "usd": 4079.5,
+    "twd": 4297.0,
+    "tael": 161153.0,
+    "twdTotal": 133665.0,
+    "changePercent": -0.8265
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "〈美股盤後〉晶片股反彈！費半勁揚逾4.2% 台積電ADR升超6% 那指標普周線四連黑 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTZjZpWHhIQmdXOGwzMk5XNHQ1aDh0c0VfaUMwWHdULUV2d3ozTWdfZDhZMDFrbGRHQ3JPN2NxYVI1MFBoNWNIZER1ZlBfU3M?oc=5"
+    },
+    {
+      "title": "美股收盤》道瓊續跌237點！費半反彈逾4％ 台積電ADR漲6.3％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LRGd1NTl6R2dVczFZdUEyREhCckwwTWE0SXBGRUdZQVNYRXNOdTBZV1ZIT2VqNEtwd3haM09tM1pFYzh0UkRJdEl6XzZ6b2FIeEh1ZlBTazU2TFlqY1hZ0gFkQVVfeXFMT3d3Z1g4eEFKbGdFb0dnRWowNk94RmN0akxJNGR3V2huV0VFTV9rSUhfYl94bzJxTnVSZC12Si1STVBnNFR6MkFPRzVtVWsydUtLQUx3aU01cG9hUXZsNkQ5V2lLYg?oc=5"
+    },
+    {
       "title": "美股急跌，是危機來了， 還是市場太恐慌？ - 鉅亨買基金",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tOUhMYXAyY0o5Y1Y5bm9RWFZaaktVU1NGdjJXN21feTBya2YzdHQxWGRHNlJGLXphT1NPWnFWS0dJUnZ0bmFua0hnUHVrWFJ3ejcwN3NPblFoU1A3VTZPX2Z2VW5GTVBiWEo1MzRZOExNUmh3S0ZOZ0xGc3RmVDQ?oc=5"
     },
     {
-      "title": "美股早盤／反攻號角響起！費半漲約6% 台積電ADR強彈近8% 道瓊獨憔悴 - 經濟日報",
+      "title": "美股早盤／反攻號角響起！費半漲約6% 台積電ADR強彈近8% 道瓊獨憔悴 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zbEJMTU1rcWd2STA2WnAtcjAxOEZxYzhoRHo5c1Y2QmVjRE1jOVVLbEhvZVRLdU43SlozWDNNNWxLanNsemQ2Vk9OWmpuWkMzcV9kQUtQM3k2ZjVT0gFiQVVfeXFMTUlCbnAwVHBWMVJ6QmVMYUR0UUxNR2E2WFpCOXJuVF9JM3NXWEJPYlJLWnpUQ2pGRjFYNTdDa3NSY1VmMV9Gd2FNQUM0Z29fbnlaTFFKSVpDQXg0VVN0SGx0S1E?oc=5"
-    },
-    {
-      "title": "〈美股早盤〉AI股跌出買盤！晶片股帶動那指反彈 Fed升息陰影仍在 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EVmFadnl5cG5sRzg0Mk93cjJ5V2xpdmE2ZkhWNjZrNW41TzlQeWVWczc1YWJpOC1WY29DcElBLXlEcVlSYks2QUFRYWNNaUE?oc=5"
     },
     {
       "title": "不排除再血洗 今晚「美股大魔王」將至！專家：恐成崩盤因素 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPVnJ5dElvSkFiWWMtY2E4cERZSTV5UDMwZ09zcGtxZ2Rxc2dSTml0d3hvZkhFZGNSYkpETDhUYTZENzFzel9jXzZvNjhDLXZRcHlCcFZDblk0WDhfS0FZOThNRHQxeDBZMkRNY2wtRlhZby1BM1JzdEZ1MGRJc0hTbWdVTDF6NDl0bmdpS2tmanJsdmlWLWtOU0ozbFFfak9FZjRTdVR6UDJpZzVZVnpQQnUwTWoxdnlaaDJJQThaX242VlVubjhpd0NuT0ExYTVSNGFuUHRBRXhDNjhHSXdZTkdUYVpGRjZYUlJZN1pQWjd3YkxyckpkSjRpQldtdWdFMV90czBZV0g4WmlScW1vdzRtM0FObklKTkQwRTlrYjU5Ty05?oc=5"
     },
     {
-      "title": "美股強彈！費半飆逾5% 台積電ADR大漲近8% 道瓊獨憔悴 - BigGo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hVlVybk10YVJoNzB0Z1NYaGhIaDY5R3JXMmdPMkF2T0tpdkRHbzRHSzF0ZUpUbDFFS3pwQmhzekphTnR5X3E3dE5EOWVYczVDbnlDeHotM0FoMVJVbTlEUlZjR2dtcVVCVGM5bFByUjduZ0g4MFMtUWN3?oc=5"
+      "title": "台股還沒走空 就能一張不賣？萬點箱型震盪背後 技術面亮出「2大警訊」 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oRDZRcUEtSGtYLWprLUlZbV9CbGxqZDdvZ1JxcGVpT0NFdGhzRUdoZEVFdmIwZHJXdmlCUHVrSDZuZ3g4bkxHMWRMejlfTzJ0RVhaNGEyUWROR1FPY0cw?oc=5"
+    },
+    {
+      "title": "台股史詩崩跌4萬失守 國安基金下週一進場 - 卡優新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pTktaUlpwZl9JejNsVENNSk5KY3R1cFdyOUpFTnR2dGxKT3BJWU9Ea2h2Sjh3NlFmSEliUkZDOFE4STRZcU9kQTlwRUh4RWNyY2cwMm02VDJFZw?oc=5"
     },
     {
       "title": "美股震盪！那指盤中反彈1.1% 道瓊開盤10分鐘重挫逾500點 - 東森新聞",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtVjRvVy1zVUJtTTlCUmFjUGItMGJMNkxOUWt0LVp4UGx5U1pjU3hHTXIyOXdTMGR5aDVwZmlNc2VpbGd1X1p0RFZhLWYwcldlTWhfWTJPVQ?oc=5"
-    },
-    {
-      "title": "台股史詩級崩跌3737點 國安基金下週一進場 - 卡優新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pTktaUlpwZl9JejNsVENNSk5KY3R1cFdyOUpFTnR2dGxKT3BJWU9Ea2h2Sjh3NlFmSEliUkZDOFE4STRZcU9kQTlwRUh4RWNyY2cwMm02VDJFZw?oc=5"
-    },
-    {
-      "title": "台股暴跌！ 過來人憶金融海嘯慘狀：不碰股票也遭殃 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQSlprX3BDSnQ1LWxPb0dzN0E0U1hhbTFzZjU3dUFHLXFhTHFVX2xHTDVEdUFCeGx5WnRUNXJESk5IbkI2VmNsa0dTajlERnUzQmtwOXVoVFktaE1tbTBIMUI5OFJZYkp6UWpHVHgyRFdSMnhWUDlzTE9xeFZlTUlyRkdLcDlsa0FXWW9Mb01yZW8xOUxXdFd4dE5WVVpaclpkbXR3NWlkT21YR1FfZWZDQVJCblczZ3FyR0luWVRBVC1HVHFUVHFFcnU0RmNWUHdiTC1DWUVmVktqUVpKbzhiVTZlWHFNMXZ4YzZ4ei10V1VCRkVYcm90UnRJOWE0OVE2QXF3TFF3M0lSOXp5dHlldkdCQ1NTbFphcmJUeEhjSmdRTzdUMjFtSmg2bUw2Wk82YVB2ZzRmUEEtaUdwd01yVXlLMzlFN012ZnZVdVE4MFUyYllOLWVpZUF3?oc=5"
     }
   ]
 }
