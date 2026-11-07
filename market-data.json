@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/07 08:21",
+  "updated_tw": "11/07 14:21",
   "taiwan": {
     "2330": {
       "price": 2135.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75849.16,
-      "change": -92.965,
-      "changePercent": -0.1224
+      "price": 75927.67,
+      "change": -14.455,
+      "changePercent": -0.019
     },
     "ETH": {
-      "price": 2239.94,
-      "change": 5.4637,
-      "changePercent": 0.2445
+      "price": 2242.67,
+      "change": 8.1937,
+      "changePercent": 0.3667
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 4079.5,
-    "twd": 4297.0,
-    "tael": 161153.0,
-    "twdTotal": 133665.0,
-    "changePercent": -0.8265
+    "usd": 4074.9,
+    "twd": 4293.0,
+    "tael": 160972.0,
+    "twdTotal": 133514.0,
+    "changePercent": -0.9384
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "美股大跌費半重摔12%，原因不只選舉？民主黨政策「受惠、衝擊股」一次看｜美股觀察｜豐雲學堂2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOOHRLSDNDbUM0VFFOU2tHMjVKTnd0Zm1BRW9UMy10alpWZXc1ZFVLSjRLMzNXQXBrYmV0WGRWbS16dDNaeS1jMXdNVmlDWkt6RGd6cmVlOWJ3RE5DZnNBdUNra1VJQ2hGUUdaZk9GbHpCeHlMRVRVbExibVVaN1VyNkE5czZtdlFKVHdLOVBvakh0WlF1cEViMnVyM0J0VjZ1WEgxaGVGUF9IRG50cXk2SThEcXNaYU5TUWhoZmxOZFBDMVhsTklWUmhjU2ZNRjI4c0JILTU4Szh5aVdpY2Q5TVN5UGtKRS02cDZzbXBNLW12UnhWSmRnSmlXZjFUOVp1UUdqNzRITlVqLU55cGVPU0Jnb1EyZ0FvUzlxZFNsWjU5dzRyeWVnbkRZTWV5QzB5Vi1OaTZUMHhlZS1wNHB4MUx3S1RaUVBMaFBJTDBNWjYzOVFvV2tEZ2NoRFdvOTRSX09oSHYzTVNocGVDQlZYOFVQVlpoN0R4SzJrelMzMk9ITG9BNDh0S1dZcnhGM2JHbGN3dWJ2OTVVUkRqVXYySUJWVllvNWdaOHN4U1BNSGlaNjBZenhYNVFsSHAxbHBOS2pIcGZZYmNQRUlmTm1ObkVGYWxVYlJMbzZ4eDdrQTJnaEtlSDdsN0phdnF0ZEJySGNRa2p4cXItOXhj?oc=5"
+    },
+    {
       "title": "〈美股盤後〉晶片股反彈！費半勁揚逾4.2% 台積電ADR升超6% 那指標普周線四連黑 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTZjZpWHhIQmdXOGwzMk5XNHQ1aDh0c0VfaUMwWHdULUV2d3ozTWdfZDhZMDFrbGRHQ3JPN2NxYVI1MFBoNWNIZER1ZlBfU3M?oc=5"
     },
     {
-      "title": "美股收盤》道瓊續跌237點！費半反彈逾4％ 台積電ADR漲6.3％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LRGd1NTl6R2dVczFZdUEyREhCckwwTWE0SXBGRUdZQVNYRXNOdTBZV1ZIT2VqNEtwd3haM09tM1pFYzh0UkRJdEl6XzZ6b2FIeEh1ZlBTazU2TFlqY1hZ0gFkQVVfeXFMT3d3Z1g4eEFKbGdFb0dnRWowNk94RmN0akxJNGR3V2huV0VFTV9rSUhfYl94bzJxTnVSZC12Si1STVBnNFR6MkFPRzVtVWsydUtLQUx3aU01cG9hUXZsNkQ5V2lLYg?oc=5"
+      "title": "黃金單週大暴漲！創1最強紀錄 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNy1pclY4NkpDb0tJUVZ6aGRoQU1pZXFSeGZURk9RUlNDbVg4MHZVa2ZlcGhBOUtwclFnOVdyRFowSngwajM5Y19xOXVIdW8tMHpUSDc5ZHR0LVBxXzg00gFkQVVfeXFMTXZDbmZQa2lIcHVSc2NaUExYV2ZRcTVNMjBISzZ6cFdlT0hITC14ZHRyMThSX09DMkpMeTctYlZZNXJGZ1pFd2pZZ3o5cFVvcEw0X2M4M2g5a2pvSTU0MTRhSW8ydQ?oc=5"
     },
     {
-      "title": "美股急跌，是危機來了， 還是市場太恐慌？ - 鉅亨買基金",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tOUhMYXAyY0o5Y1Y5bm9RWFZaaktVU1NGdjJXN21feTBya2YzdHQxWGRHNlJGLXphT1NPWnFWS0dJUnZ0bmFua0hnUHVrWFJ3ejcwN3NPblFoU1A3VTZPX2Z2VW5GTVBiWEo1MzRZOExNUmh3S0ZOZ0xGc3RmVDQ?oc=5"
+      "title": "台股血崩投資人難眠！命理師示警「1時間」再爆股災 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOV0Z6emJVT2taNzM0UkgxNVNfTE8tVlc2M1p3SHdJZzh1YXY5VHdlbnNzQ0hmejVBYmw2dEluZnlyeXg2OWV4ZWJURHlINld5NlgyZVpTZl9OZ2F5VEhaLXhraUpfYUNId3BOZG1MWEFVdGJmbzNlZERCa2NxYnZEbkV5UUxOMGhFdjRxb0Y4eHFZbHc5cW9VdnJpMXJ2QkJvQTRJaWwwZXBfN2RFaEFwbGVjUVkzYmJfejJDcHFoV2JIenN4c25zY3o3TjYzbmVfSW9oYkpsakxkMU13TTJRZ3diS1haSmUzM29hb2RYRWxJUm54V3o5RXRaNlhpem5LSXNKVXo5eWszTVRJb1dhUGE3bXBQS2FHY25DSTkxTjhyanNzazZjdmxBZTM2aG5qbDFJOTBSaG9QZFYzM1FIRHFfSHZFUFpKeDJkYUdxaWU?oc=5"
     },
     {
       "title": "美股早盤／反攻號角響起！費半漲約6% 台積電ADR強彈近8% 道瓊獨憔悴 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zbEJMTU1rcWd2STA2WnAtcjAxOEZxYzhoRHo5c1Y2QmVjRE1jOVVLbEhvZVRLdU43SlozWDNNNWxLanNsemQ2Vk9OWmpuWkMzcV9kQUtQM3k2ZjVT0gFiQVVfeXFMTUlCbnAwVHBWMVJ6QmVMYUR0UUxNR2E2WFpCOXJuVF9JM3NXWEJPYlJLWnpUQ2pGRjFYNTdDa3NSY1VmMV9Gd2FNQUM0Z29fbnlaTFFKSVpDQXg0VVN0SGx0S1E?oc=5"
     },
     {
-      "title": "不排除再血洗 今晚「美股大魔王」將至！專家：恐成崩盤因素 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPVnJ5dElvSkFiWWMtY2E4cERZSTV5UDMwZ09zcGtxZ2Rxc2dSTml0d3hvZkhFZGNSYkpETDhUYTZENzFzel9jXzZvNjhDLXZRcHlCcFZDblk0WDhfS0FZOThNRHQxeDBZMkRNY2wtRlhZby1BM1JzdEZ1MGRJc0hTbWdVTDF6NDl0bmdpS2tmanJsdmlWLWtOU0ozbFFfak9FZjRTdVR6UDJpZzVZVnpQQnUwTWoxdnlaaDJJQThaX242VlVubjhpd0NuT0ExYTVSNGFuUHRBRXhDNjhHSXdZTkdUYVpGRjZYUlJZN1pQWjd3YkxyckpkSjRpQldtdWdFMV90czBZV0g4WmlScW1vdzRtM0FObklKTkQwRTlrYjU5Ty05?oc=5"
-    },
-    {
       "title": "台股還沒走空 就能一張不賣？萬點箱型震盪背後 技術面亮出「2大警訊」 - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oRDZRcUEtSGtYLWprLUlZbV9CbGxqZDdvZ1JxcGVpT0NFdGhzRUdoZEVFdmIwZHJXdmlCUHVrSDZuZ3g4bkxHMWRMejlfTzJ0RVhaNGEyUWROR1FPY0cw?oc=5"
     },
     {
-      "title": "台股史詩崩跌4萬失守 國安基金下週一進場 - 卡優新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pTktaUlpwZl9JejNsVENNSk5KY3R1cFdyOUpFTnR2dGxKT3BJWU9Ea2h2Sjh3NlFmSEliUkZDOFE4STRZcU9kQTlwRUh4RWNyY2cwMm02VDJFZw?oc=5"
+      "title": "Bitdeer 每週比特幣聚焦 - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnE4d0xXM3hiQTRMamhINXhXR3Q1NlVqZUJ2TFhQOGRnaWlDWnQyMHYxcUxoaFRVQkhSTHRLQjZjRjBiUno0aGxnZ0FiMEdsYUxGZ3U4Sm5jdzBnQ2lsdXpnUWRGQVk0Z0c5T0VfZjBlS3gwUnQ2cGxYaDRiN19jMU5JR2pvSzVad1kyZnNaMUFPZENXWk1jSA?oc=5"
     },
     {
-      "title": "美股震盪！那指盤中反彈1.1% 道瓊開盤10分鐘重挫逾500點 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtVjRvVy1zVUJtTTlCUmFjUGItMGJMNkxOUWt0LVp4UGx5U1pjU3hHTXIyOXdTMGR5aDVwZmlNc2VpbGd1X1p0RFZhLWYwcldlTWhfWTJPVQ?oc=5"
+      "title": "台股急跌正5族卻越跌越買！他質疑「跌20%了也打死不退嗎」 投資人搖頭：本多終勝 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQUndIMHpBZzJoblBtWXAwUEVHVFR0a2lLWkJsQ2JJQjF0S1lvLXBSUXVxUkJ0dWQtUmFCelFNaGt6eWFhVzl3WHJzWlI4d25VcVFOX3BxZlZkWjROZjE0ZWpweTAwWEVQMVZjQkRMVDlYUmxSZEtvYzFGNERiOUl3akhRWElwSUhwUHhqYWVUS2U0cUFLazJMX0VqYkRxNnNEUnhKNzdUQm9VTExaMVA1NDA3TFo1bWk2LWVMME1Ma1M3S2ZWcUtxUGQ1YVJXdHItRTdiWU9ISUJnOHVBdlZzbk9NQ19RbXptZVFGVkdXNlI2SGh2dEI2WWxTWFFuRFRtUnlpYW1ENGJXXzAxdFRsOEVhY2YxLXFoeS1KWVd1QXVnaFRyeTQ0ZDV6cklJN0oycWRfMFR0YkpaSFJENVdVbUQwMzBIZVYwcjZLQjRZSjdDRUdlUktkQkZmcVItX0V2bkgxV0RQWXhMek9CMVhaUzNpUjAtNDRuQnJGRjlHWTRfS3NTZUp0OW1MSFU3MXNQYlI2Vmc3T21uQmxnYk5Pa3ZGazhaTHpF?oc=5"
     }
   ]
 }
