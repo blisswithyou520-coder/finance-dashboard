@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/07 14:21",
+  "updated_tw": "11/07 21:24",
   "taiwan": {
     "2330": {
       "price": 2135.0,
@@ -24,13 +24,13 @@
     },
     "00878": {
       "price": 31.99,
-      "change": -1.62,
-      "changePercent": -4.82
+      "change": -1.04,
+      "changePercent": -3.1486
     },
     "00919": {
       "price": 30.14,
-      "change": -1.12,
-      "changePercent": -3.5829
+      "change": -1.05,
+      "changePercent": -3.3665
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75927.67,
-      "change": -14.455,
-      "changePercent": -0.019
+      "price": 75756.45,
+      "change": 9.5203,
+      "changePercent": 0.0126
     },
     "ETH": {
-      "price": 2242.67,
-      "change": 8.1937,
-      "changePercent": 0.3667
+      "price": 2238.05,
+      "change": 3.0026,
+      "changePercent": 0.1343
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股大跌費半重摔12%，原因不只選舉？民主黨政策「受惠、衝擊股」一次看｜美股觀察｜豐雲學堂2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOOHRLSDNDbUM0VFFOU2tHMjVKTnd0Zm1BRW9UMy10alpWZXc1ZFVLSjRLMzNXQXBrYmV0WGRWbS16dDNaeS1jMXdNVmlDWkt6RGd6cmVlOWJ3RE5DZnNBdUNra1VJQ2hGUUdaZk9GbHpCeHlMRVRVbExibVVaN1VyNkE5czZtdlFKVHdLOVBvakh0WlF1cEViMnVyM0J0VjZ1WEgxaGVGUF9IRG50cXk2SThEcXNaYU5TUWhoZmxOZFBDMVhsTklWUmhjU2ZNRjI4c0JILTU4Szh5aVdpY2Q5TVN5UGtKRS02cDZzbXBNLW12UnhWSmRnSmlXZjFUOVp1UUdqNzRITlVqLU55cGVPU0Jnb1EyZ0FvUzlxZFNsWjU5dzRyeWVnbkRZTWV5QzB5Vi1OaTZUMHhlZS1wNHB4MUx3S1RaUVBMaFBJTDBNWjYzOVFvV2tEZ2NoRFdvOTRSX09oSHYzTVNocGVDQlZYOFVQVlpoN0R4SzJrelMzMk9ITG9BNDh0S1dZcnhGM2JHbGN3dWJ2OTVVUkRqVXYySUJWVllvNWdaOHN4U1BNSGlaNjBZenhYNVFsSHAxbHBOS2pIcGZZYmNQRUlmTm1ObkVGYWxVYlJMbzZ4eDdrQTJnaEtlSDdsN0phdnF0ZEJySGNRa2p4cXItOXhj?oc=5"
-    },
-    {
-      "title": "〈美股盤後〉晶片股反彈！費半勁揚逾4.2% 台積電ADR升超6% 那指標普周線四連黑 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTZjZpWHhIQmdXOGwzMk5XNHQ1aDh0c0VfaUMwWHdULUV2d3ozTWdfZDhZMDFrbGRHQ3JPN2NxYVI1MFBoNWNIZER1ZlBfU3M?oc=5"
+      "title": "台股失守4萬點！陳幸妤早一步要趙建銘還錢 網讚先見之明：賣在最高點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNYVM0Tlhwbm9ONzVvVDFBaWdPVllleElfVVF0eWJYSTBkbFlqR2g2Q3Q2WGFtZkZMU2tDaDctbWk5NG5EWHJkdEZqcU5WMm01ZUtkSTladjY0YnZTSll0a0VCNTBCS0xNOHFyQWdMTXJQUXlTUzA3MmNHbDhtUzlRM0ZteVdYdHdhMjBWdmtBbDFWVkdfTXlqcGVjRGduRzBVRnJiRklsLWRTb2FFSFB5blA4N0pFdGxBZUZMcjBHQkxFZzhXdnlYWW9qUGRMRTNpeDFTUF9ZZFdOM25JWjN4dlVDblhsYmxBWnctTjZEemJ0cWRxZF9rcmxtaHRWS3VOOWEzRGlkMlNXdGxKclQya0FUQ0o3Wmd6V092YVRpUjNfQkU0cjF1QXpIakJLOHRPdGl3aE80ZzFVOXUwcmZlR0ZmN0gtSjRhT0IxS0NKTlowUWdEd28xanREZ3JfamFGOENBNTJJUjJPV1VTNzBGVEJwNVpydzJfanJwaElWbk9ZV0thbngxSkpKRTd5U2g1WExjUGNtdUxlTDVRNy1IY0xJTjlTQmZYck12a2JmQTRZQQ?oc=5"
     },
     {
       "title": "黃金單週大暴漲！創1最強紀錄 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNy1pclY4NkpDb0tJUVZ6aGRoQU1pZXFSeGZURk9RUlNDbVg4MHZVa2ZlcGhBOUtwclFnOVdyRFowSngwajM5Y19xOXVIdW8tMHpUSDc5ZHR0LVBxXzg00gFkQVVfeXFMTXZDbmZQa2lIcHVSc2NaUExYV2ZRcTVNMjBISzZ6cFdlT0hITC14ZHRyMThSX09DMkpMeTctYlZZNXJGZ1pFd2pZZ3o5cFVvcEw0X2M4M2g5a2pvSTU0MTRhSW8ydQ?oc=5"
     },
     {
-      "title": "台股血崩投資人難眠！命理師示警「1時間」再爆股災 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOV0Z6emJVT2taNzM0UkgxNVNfTE8tVlc2M1p3SHdJZzh1YXY5VHdlbnNzQ0hmejVBYmw2dEluZnlyeXg2OWV4ZWJURHlINld5NlgyZVpTZl9OZ2F5VEhaLXhraUpfYUNId3BOZG1MWEFVdGJmbzNlZERCa2NxYnZEbkV5UUxOMGhFdjRxb0Y4eHFZbHc5cW9VdnJpMXJ2QkJvQTRJaWwwZXBfN2RFaEFwbGVjUVkzYmJfejJDcHFoV2JIenN4c25zY3o3TjYzbmVfSW9oYkpsakxkMU13TTJRZ3diS1haSmUzM29hb2RYRWxJUm54V3o5RXRaNlhpem5LSXNKVXo5eWszTVRJb1dhUGE3bXBQS2FHY25DSTkxTjhyanNzazZjdmxBZTM2aG5qbDFJOTBSaG9QZFYzM1FIRHFfSHZFUFpKeDJkYUdxaWU?oc=5"
+      "title": "〈美股盤後〉晶片股反彈！費半勁揚逾4.2% 台積電ADR升超6% 那指標普周線四連黑 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTZjZpWHhIQmdXOGwzMk5XNHQ1aDh0c0VfaUMwWHdULUV2d3ozTWdfZDhZMDFrbGRHQ3JPN2NxYVI1MFBoNWNIZER1ZlBfU3M?oc=5"
     },
     {
-      "title": "美股早盤／反攻號角響起！費半漲約6% 台積電ADR強彈近8% 道瓊獨憔悴 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zbEJMTU1rcWd2STA2WnAtcjAxOEZxYzhoRHo5c1Y2QmVjRE1jOVVLbEhvZVRLdU43SlozWDNNNWxLanNsemQ2Vk9OWmpuWkMzcV9kQUtQM3k2ZjVT0gFiQVVfeXFMTUlCbnAwVHBWMVJ6QmVMYUR0UUxNR2E2WFpCOXJuVF9JM3NXWEJPYlJLWnpUQ2pGRjFYNTdDa3NSY1VmMV9Gd2FNQUM0Z29fbnlaTFFKSVpDQXg0VVN0SGx0S1E?oc=5"
+      "title": "美股一周展望／晶片股急彈能追嗎？通膨、CoreWeave 財報考驗反彈成色 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hdFF2Ynd2NTY4NjJpeEpUbEl2UHpFcEFObi1SY1dSMlE5TUY1ekV6YzIwdkRzRVIwaW5WdjVxX2pvOEd4TVFHX0lMb1BabVVtZENSdkVBd3hHY0Nl0gFiQVVfeXFMT1ZZYXdZd0lpV1JGdE5VdU5XMWpESlFlQURyaWtGWVZ2dzQ5UTFqTGo5VUZLd1hiaFlGeS1kQlVJanRIbzJJcFRYZ0NxTlhMRVFoWXp1d0tKajJIZ1YzNDJEd2c?oc=5"
     },
     {
-      "title": "台股還沒走空 就能一張不賣？萬點箱型震盪背後 技術面亮出「2大警訊」 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oRDZRcUEtSGtYLWprLUlZbV9CbGxqZDdvZ1JxcGVpT0NFdGhzRUdoZEVFdmIwZHJXdmlCUHVrSDZuZ3g4bkxHMWRMejlfTzJ0RVhaNGEyUWROR1FPY0cw?oc=5"
+      "title": "台股摔慘! 陳志強蒸發一張球員證 國安基金週一救台股 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSGt4bkY1LVNpc2ZJekdTdzdwY04zcDdWLWhocFZfcGc1MVV6RnR3UkxmWTFrNmpMVGZBbGZ6aGVqdVczSU1KMmwzeU5WNnluTlZMTmpWakNPc3VpMDZ0T1hVYzZ5Tms1RG16MjAycDAxQWx4VVEtQXdNSFIwVENhV1NDS2VYdEZBX3g0VkdGYU1RaVppSllJaE90alFQVmowZFIyTEprN19jMHBxdEo5cWtqNDRrX19sb3R2OGYzZ0I0NWtFOTRXVnV4MkJrWFV4SGhkTXppMjhKRTVaT3QxX3prWkdXem1TdTJQaHZRdGRzb3ZnZ0s5V0dTaV9LVWNxNFZKNWJwRXBQV0NxWVI0TGJHWUMtaG1CX2ZfdmpJZ29hMG1UXzdTbThydG93MGFiakhPUUtwZG5jcnZJR01TZ1ZxcW5tblpteW9hMHpqVmxZd2dEVGlnWlpwQzI?oc=5"
     },
     {
-      "title": "Bitdeer 每週比特幣聚焦 - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnE4d0xXM3hiQTRMamhINXhXR3Q1NlVqZUJ2TFhQOGRnaWlDWnQyMHYxcUxoaFRVQkhSTHRLQjZjRjBiUno0aGxnZ0FiMEdsYUxGZ3U4Sm5jdzBnQ2lsdXpnUWRGQVk0Z0c5T0VfZjBlS3gwUnQ2cGxYaDRiN19jMU5JR2pvSzVad1kyZnNaMUFPZENXWk1jSA?oc=5"
+      "title": "美股收盤》道瓊續跌237點！費半反彈逾4％ 台積電ADR漲6.3％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LRGd1NTl6R2dVczFZdUEyREhCckwwTWE0SXBGRUdZQVNYRXNOdTBZV1ZIT2VqNEtwd3haM09tM1pFYzh0UkRJdEl6XzZ6b2FIeEh1ZlBTazU2TFlqY1hZ?oc=5"
     },
     {
-      "title": "台股急跌正5族卻越跌越買！他質疑「跌20%了也打死不退嗎」 投資人搖頭：本多終勝 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQUndIMHpBZzJoblBtWXAwUEVHVFR0a2lLWkJsQ2JJQjF0S1lvLXBSUXVxUkJ0dWQtUmFCelFNaGt6eWFhVzl3WHJzWlI4d25VcVFOX3BxZlZkWjROZjE0ZWpweTAwWEVQMVZjQkRMVDlYUmxSZEtvYzFGNERiOUl3akhRWElwSUhwUHhqYWVUS2U0cUFLazJMX0VqYkRxNnNEUnhKNzdUQm9VTExaMVA1NDA3TFo1bWk2LWVMME1Ma1M3S2ZWcUtxUGQ1YVJXdHItRTdiWU9ISUJnOHVBdlZzbk9NQ19RbXptZVFGVkdXNlI2SGh2dEI2WWxTWFFuRFRtUnlpYW1ENGJXXzAxdFRsOEVhY2YxLXFoeS1KWVd1QXVnaFRyeTQ0ZDV6cklJN0oycWRfMFR0YkpaSFJENVdVbUQwMzBIZVYwcjZLQjRZSjdDRUdlUktkQkZmcVItX0V2bkgxV0RQWXhMek9CMVhaUzNpUjAtNDRuQnJGRjlHWTRfS3NTZUp0OW1MSFU3MXNQYlI2Vmc3T21uQmxnYk5Pa3ZGazhaTHpF?oc=5"
+      "title": "台股跌深！大盤可能已出現波段低點 注意五大落底關鍵訊號 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlbUZIVmxSeGhfUEFoU1BERHY0eTVBVWV1WTJ4bVdGTHhRRUN4ekh2TWoyNlpibVNQUFFLWGE4LVdVWTc5eEV0N21GZG9IR0xkdUJQdlNBTENjUdIBX0FVX3lxTFBmVnJpMmktdDN6dzM0M0hCNlNpWnFPOFROZkk4YXFGNzVET0FsX0tIdklfbGV1dFdLQjdkdHNRblhaM3k4ZFZmTXBXZVRnMXk0RFZDUzh0U3BWbmY1YzJn?oc=5"
+    },
+    {
+      "title": "反彈恐是死貓跳？財經名嘴示警AI融資疑慮未除 CoreWeave、Nebius下周財報是關鍵考驗 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10U3BrUWRUTlNOc09yWFJiUm9rZ1V1Tmsycm9kcWhIMWt5eHRBQ3RNcXFKVnR0LV9RSHRkVFYzOTVscXhxRGJKSVhfYktzUGM?oc=5"
     }
   ]
 }
