@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/08 15:18",
+  "updated_tw": "11/08 22:25",
   "taiwan": {
     "2330": {
       "price": 2135.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75743.18,
-      "change": -4.3981,
-      "changePercent": -0.0058
+      "price": 75800.48,
+      "change": 52.9019,
+      "changePercent": 0.0698
     },
     "ETH": {
-      "price": 2232.84,
-      "change": -3.4752,
-      "changePercent": -0.1554
+      "price": 2234.46,
+      "change": -1.8552,
+      "changePercent": -0.083
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股殺聲隆隆！存股達人帳面蒸發230萬 揭長期投資「4大原則」：照常買進 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOM2VYcmhLV3E0dHNKLVVYWGlocUFveHVWUXVFZFlETHBMcXJLVnUyci1VYmFKaVdQQlZBckt0Mzl2SjJfZkpkdU1Sdk1hNUU1QmhteDJYcjNkWUJubUlpd3BObkd6VmRXWWxLRHNDOUpSUElpV1BNNFpUb21jbGh4aVc0OVlOUXBnd041S2dNZWpDaEYydmd3WG5ac213bXNvenNuV29zU0wyOTVYMXpzTTQ0Sml5Y3l6N290U1FvbC14dFptOG1hd0p0TDdScW1ZWVJDOE5FcHJMWDZnVEs5OUFjUHZQUlZVY2dZUWl3Z1M2WjJKd1UyOS1YU2dEOVdTbDJtYzZmRElnTWxaOEhuWi1pQmtFM045dDZzMl9wdWdBN0J1S0dSVWJjUFYtM0pwMGx0d3lQU3JYd3ZTTFhvV1hlMVlScHIteWtYbGp4TU9YUjA2YU1NWW1wamdwNjFBU1EyNFV5TFBhd3pxRk9SZnZ5NENoaGRFWlZGa0tQYjhjLUpidlprVTZTVWxqUzRVZ0E0djYwTnRSQnJYaEVLX3BVVTRjbmJnSlE?oc=5"
+      "title": "美股暴跌令華爾街始料未及 策略師卻看到買入良機 | 美股動態 | 國際 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTeWpIbkJocDBab3B1eU5ZbTFnd0ktcDRMMVloNWRKdEZyVndnSkk1RThXMFUxN0d3WFhjQ2N3R090ZTROU1pWMGgxVG5zMmFyeWVyRUZlUnVYdE1Z?oc=5"
+    },
+    {
+      "title": "美股崩跌她卻很淡定！女股神揭多頭還有大戲逆勢加碼這檔股票- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4welhOVFZmNmVWUzYxcjJ3ZEd2TUh5RUdjSHMwYVF4cmU0RjBZQkMyZ2lFdmdyZTNFOVdLZlZUZGhvOFFWdTNFdGo4eEVKa285X0ZFazVMbEhLS2FJTWVN?oc=5"
+    },
+    {
+      "title": "台股重挫能回血嗎？學者示警一大風險 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NVjZ0VFF1N0l5cVBCRTM2R0ZLbWhhN3J2M2hqc0NLTGpHR2pKR0dfSnhRTnRwbFc1RGtZcXMzVVdhSkN6RUN5bmt2b3NYZVVHd3pIbUVBNlV5RmU3Rktn0gFkQVVfeXFMUFRyQnFtQzlTeHhFbFZZY1ZaSEtqOTVEdzJHaThDeElGWEN4WDAyRm9oZWdLak1WTWU3c0M1Z3pQNjUyY2lJaTc0dUFfdG1QT3dzQkpmNTFSSnFrWWRwUUljcnFyQQ?oc=5"
+    },
+    {
+      "title": "比特幣跌破76,000美元，幣安歐盟關戶消息加劇加密市場壓力 - Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQWmR1bHRrSm5qeW53VDhsQVFLcmFIbWJPMFN3RGd4cWlPdzVnREVFdGZCY2NOSWc3OUc2WXFNeGk3LXZYNXB3dVBmY3QzU3NZcGJoeTNYUGRFOUNJaFNsUlItOWtnVnJ6QXA5M0g1bVFkVDNQSDdtcC1hUVVGZl84QVdFMUpaOER0bHdmV2ZoaGNlM0NYU2FGOXNEbkVQQS1JcnBEYTJzNVVKR2J6WkNpdnhSNlZsT1M3amw2STBGektOcUNqMXcza21VY2JpZExWYXhTcnJQVTVkcjMxeklpaVIyQW1YZTZTQzVLZDI3Mks2SWRRZ214UFdjZkttUDgtSnlGODJPU0JTcGd3aFBCY3JNU3V5RzUtSl9TU3lKX0dMdHRCaFlybkxwUFNjVTFIaTZCWlBseUYweGMtbDYwQUFQdm1OWTM1elprazFtUTFJVXJ4d2V0NEM0Zlphc3VOSm1WU0JjY29rRzJpYzRXbjZLMXVUMTJwakpz?oc=5"
+    },
+    {
+      "title": "台股連7黑慘殺！33檔ETF跑贏大盤　4標的逆勢漲逾17% - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40bHlfNl9ZR2hrLVpMRnRpRTIwSXI3QWY4R254TkJlRmhFVjU0UVMtUDZnNWhKVTNWOVdCcmRKS1NqMmJEekstOXdEMWJ0TV9nLXfSAVBBVV95cUxOc25wSll1WG1zNThhRVpHTkNRVzhoTV9SR0FiZ0xGRlRNamhkd2UyUXBzcGFZWUZpTExOV0R0ZUlRY1NNaW1OZnlSelcyYzFyaw?oc=5"
     },
     {
       "title": "法人：台股短線沉澱不改AI長期動能 宜採「多策略配置」迎戰高波動 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzMnlFZ29SMTBZRWtnMVJyVXFPSTJ0c1EyRWxHQVNfeklNLU9GelFVSVhUdEZQNWUzREdUZ3A5cUNQMF9ZVGhYZ3pyaDVzSm8?oc=5"
     },
     {
-      "title": "台股2天重挫7.56%⋯00949僅跌1.92% 專家揭3大抗跌關鍵 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10NXllYjlpOE85NVZjUGU1Z2xRNE82ZGhpWTU5ejZiVDZFWjBERWkyRC1OaVlHWWRJVVAtaUtuM0NxVkFfakhnX2V4c25TWllnaTVr0gFYQVVfeXFMUEFuSmUwY0F3Qmk4c1praHBMMHBsRFZWQnR5eGhuTmdobjFVazhwUmRkSHFDSVJFa0o0enZjMnpqcHBCM2pGb25RbEhoM2JmMEhCM3VidnotaQ?oc=5"
+      "title": "2026金博會》週一台股一定漲？呂宗耀：國安基金這次不只是救市，資金規模3兆都有可能「行情不會在此結束」 - 今周刊",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVkJ1U1d2bHV5MzhJSzZPNUJCelBVYXhzb3J4TnB5MzdLSS1kYVNxR0xOY0EyNFZBMU5LY2xhSUpYcGJDYjJXNDNfSFh2UUt6aWxJVnBMMkxUZkZwV05odG9kVndiUVExS2NsSlFDU3MxRnlJUVBrOHNIUGNCYWdMeg?oc=5"
     },
     {
-      "title": "台股明日能翻身？下周「3大指標」必看　達人：比股價漲跌更重要 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yYVM2b0gtV3ZHZXNqRXlNM0NRUjhlOVBJUGViZ28zWktmU2NxdkNrTE9BbDFJQUxFaTVjajNEQ0U4Q21lOGxjdWIxS3NiNXJCNVHSAVBBVV95cUxPaXVLZFZSTDduci1HMUVGbUxLYUUwMG9EZXU3TVdOM0ZwYVhoOURnVlBhR3hzZW5adk1MSGpYYWJNVldWYkx5YWdDNXdRMnZEbQ?oc=5"
-    },
-    {
-      "title": "國安基金進場台股穩了嗎？分析師揭「第13天反攻密碼」 點名二檔融資減、法人逆勢加碼股- 證券 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IS3NuVUlzNi1OcFVlU1pmQjg3ekcyRTNodWpibUZrQlhfQzJxUFhFMEs5TXZnVWRDc0swRlhFOW5LZG1yX295MS1aaG4tblZnM2ZSclhMb1NiSzh5eTlj?oc=5"
-    },
-    {
-      "title": "台股暴跌大屠殺！外媒揪出幕後兇手 點名「這件事」是引爆關鍵 - 三立新聞網SETN.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aUGpFMXdKUWtBdDhYbkt0Zm5OU20tV2tUbmZ1Tmp1SG0wRjJjRW90cTNkOE53OUFaS2hiSjFHZzBCc1lBMkx5UVYzUQ?oc=5"
-    },
-    {
-      "title": "台股一週跌逾12％、全球最重 AI長線趨勢不變 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15eGVwaUlVMEJuaGRWbTlILWhuOUZTQ2tMVXE1am1zbmRtVlE1a3ZRc1R4ZTJYVGw2Z0RQVkN5N0h5b25KbXdaWTlPdWZEUml1dkxkN0JYRXU?oc=5"
-    },
-    {
-      "title": "美股交易時間大變革！納斯達克12/6啟動23小時交易、亞洲投資人無需再等到深夜 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPN0xjMnhlczhNZUFoR2dRVF9PM2k5OWE1aFZqWnlFRmNRWDBHYWhOcVVhbGlQbk5sbEVUMFJoVUg5N2c5elJ0T1A5NXlPRkE?oc=5"
+      "title": "【祭限空令救台股！「空軍」喊憑什麼：股票大漲也沒有限多令】 明天9點不知道台股會怎麼樣ㄋ （#嘴邊肉） - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMivwRBVV95cUxOMWhybVJ3UDVlWldMUTZKVmYzOF9rcXpCeHBaa0YzNi1JSVVuNzFjWHZDT1E5NVB2UzAwUXN5SFoyV3ltMWZ4cE1IY1g1QVRPdzZIZjlQWnFkcmQ4S2kzdGczZDRtMnFUNTZoQUE1NTFqelRPb2txSHF6emI0TEZLQmMwRVlMWVgxdy1kQTdoclZ6dlRfVDVReGsxSkdaRUxrdFJKTVQ2aXlVRVhjaW0ycHhacjJhTF81LTJ1S3ktRkp2UlhuOXo2WlhkUXBOYUNodGtrVVBKSTZfTXB5S2djLVM4cVl0b1NNRmlsZ1VVd3pLVW5XeFlIcFN1dW52b1VOTlVZTFotRWlURFdRTnpwOFhqMVlpbTZ1WnRadDczNGtQNWJ5eEtiMHRKS3JHX1c3VzdHa1VBYk5mbFBMc2NPQkpnTFg4RkRvXzVnUUM0M08wZktsc2Y1ZVgyRE9kUTZrendybEQzaTY5dDBkWnkzeGxBdTRkeHZjNG0xeE9uMzFoYmlTQlpxSTdSSWtjdG5sUFY2M1h2LUN1bzRCYXNMR1lORkpjNkN2Y1AzVkJ3Vk5qbFU1akFiTFM0SUZOMzB2N2trT0tRMk1wVkZRY2o5QUlmSlVWS3ZTajRqWldsdW81UjF5YTZJRkZ0d3NIVlduM3FtdHBvYmdrOUVzWDBXZTg0ZXlEQVdhZ3oyVmNPWHlGR3RrSHdhcGR6clFZU0FlZ0JnSDNZM2MxQW14OUVhS0xZNi1DRUtQZkZES2NiOA?oc=5"
     }
   ]
 }
