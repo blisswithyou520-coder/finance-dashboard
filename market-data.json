@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/08 22:25",
+  "updated_tw": "11/09 02:56",
   "taiwan": {
     "2330": {
       "price": 2135.0,
@@ -72,21 +72,21 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75800.48,
-      "change": 52.9019,
-      "changePercent": 0.0698
+      "price": 75867.5,
+      "change": 119.9219,
+      "changePercent": 0.1583
     },
     "ETH": {
-      "price": 2234.46,
-      "change": -1.8552,
-      "changePercent": -0.083
+      "price": 2234.22,
+      "change": -2.0952,
+      "changePercent": -0.0937
     }
   },
   "fx": {
     "USDTWD": {
       "price": 32.765,
-      "change": -0.0562,
-      "changePercent": -0.1712
+      "change": -0.3443,
+      "changePercent": -1.0399
     },
     "JPYTWD": {
       "price": 0.2046,
@@ -99,7 +99,7 @@
       "changePercent": -0.8586
     },
     "CNYTWD": {
-      "price": 4.9128,
+      "price": 4.9149,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "民主黨大勝引發美股重挫！分析師：投資人可逢低進場布局 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5N2FaNk1FaFRmWDRQV1lFamFsd0I5MGlmRzhZaEZiR3piUXpyVDZHWGtkVVBNQXFPWmdQdmtzamdFU0ZHSF9YaldyRzBteDhrSzQ3YVFpckI5eG5GYThB0gFkQVVfeXFMTUtJbk40VzNROHppQ3laZzB2SU4waWlySnFyaXZkR3lvMzNHdGU5RkVtNkFTb2hIVFR0bHpiWmYyTURLVXFuQzZFMzR5ZjNnemhnamtMZHlaaFh6b3VUdzFzM3o4eg?oc=5"
+    },
+    {
       "title": "美股暴跌令華爾街始料未及 策略師卻看到買入良機 | 美股動態 | 國際 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTeWpIbkJocDBab3B1eU5ZbTFnd0ktcDRMMVloNWRKdEZyVndnSkk1RThXMFUxN0d3WFhjQ2N3R090ZTROU1pWMGgxVG5zMmFyeWVyRUZlUnVYdE1Z?oc=5"
+    },
+    {
+      "title": "美股交易時間大變革！那斯達克12/6啟動23小時交易、亞洲投資人無需再等到深夜 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPN0xjMnhlczhNZUFoR2dRVF9PM2k5OWE1aFZqWnlFRmNRWDBHYWhOcVVhbGlQbk5sbEVUMFJoVUg5N2c5elJ0T1A5NXlPRkE?oc=5"
     },
     {
       "title": "美股崩跌她卻很淡定！女股神揭多頭還有大戲逆勢加碼這檔股票- 國際 - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4welhOVFZmNmVWUzYxcjJ3ZEd2TUh5RUdjSHMwYVF4cmU0RjBZQkMyZ2lFdmdyZTNFOVdLZlZUZGhvOFFWdTNFdGo4eEVKa285X0ZFazVMbEhLS2FJTWVN?oc=5"
     },
     {
-      "title": "台股重挫能回血嗎？學者示警一大風險 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NVjZ0VFF1N0l5cVBCRTM2R0ZLbWhhN3J2M2hqc0NLTGpHR2pKR0dfSnhRTnRwbFc1RGtZcXMzVVdhSkN6RUN5bmt2b3NYZVVHd3pIbUVBNlV5RmU3Rktn0gFkQVVfeXFMUFRyQnFtQzlTeHhFbFZZY1ZaSEtqOTVEdzJHaThDeElGWEN4WDAyRm9oZWdLak1WTWU3c0M1Z3pQNjUyY2lJaTc0dUFfdG1QT3dzQkpmNTFSSnFrWWRwUUljcnFyQQ?oc=5"
+      "title": "國安基金進場+限空令護盤雙管齊下 台股週一能漲多少? - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNUFk3NGZNQjJyQUNWaW9uRmZUUnBrd3RZelc3bHFidVRhZ0tlbEo2UDJBLTVTVEJHYzNZcnljSGFpMXNXVWoxX2ZRYWNDRmV6aUtsU2FDcWlGa3pVYlM0YnV3LW12bmlfcmtNMldDLUx4Z3cyYjJGX0xuZGo1STJwNmctZDF3Rmt2eURkdy1WVkZhOUpZU3hOMGxpM1h6Ym5GVGlZWHY2QWgxU1M3c3ZGMXItSUxRQTZncWRSWndXaTlqUGFGZE5pS0hxcV9ocy1CVXhwbWtFTktmMzVFWVNVX1JtbTBlVHUxaTNQckRHWmJnbF9CUTZkbUktWFMxYkg0bGNsbHREUmMzU2tsT2dPb0NTWGIxVmVvVVVTZkp0WHBTRUJoSHdPVnlNTkJjam1CNWFHTkZ0T2RwX3FxclY5VEgtMlliX1dKcmZzTldydW1oWHVOS2wzMGVlY1h3TmdWU0RUV0o3dw?oc=5"
     },
     {
-      "title": "比特幣跌破76,000美元，幣安歐盟關戶消息加劇加密市場壓力 - Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQWmR1bHRrSm5qeW53VDhsQVFLcmFIbWJPMFN3RGd4cWlPdzVnREVFdGZCY2NOSWc3OUc2WXFNeGk3LXZYNXB3dVBmY3QzU3NZcGJoeTNYUGRFOUNJaFNsUlItOWtnVnJ6QXA5M0g1bVFkVDNQSDdtcC1hUVVGZl84QVdFMUpaOER0bHdmV2ZoaGNlM0NYU2FGOXNEbkVQQS1JcnBEYTJzNVVKR2J6WkNpdnhSNlZsT1M3amw2STBGektOcUNqMXcza21VY2JpZExWYXhTcnJQVTVkcjMxeklpaVIyQW1YZTZTQzVLZDI3Mks2SWRRZ214UFdjZkttUDgtSnlGODJPU0JTcGd3aFBCY3JNU3V5RzUtSl9TU3lKX0dMdHRCaFlybkxwUFNjVTFIaTZCWlBseUYweGMtbDYwQUFQdm1OWTM1elprazFtUTFJVXJ4d2V0NEM0Zlphc3VOSm1WU0JjY29rRzJpYzRXbjZLMXVUMTJwakpz?oc=5"
+      "title": "台股週報》擔憂AI緊箍咒 外資逃殺逾5千億 - 卡優新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Qcjk4UlhKSDVrZWoxOUhSOXhFMFQ1YVEyRGIzXzJmNXNOTWhBaVRuY2Z1RHNPSkN0bmJTVjJyMWRyRHFwNmVsUlhCNWxpbW12c2NyeGpoa09WZw?oc=5"
     },
     {
-      "title": "台股連7黑慘殺！33檔ETF跑贏大盤　4標的逆勢漲逾17% - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40bHlfNl9ZR2hrLVpMRnRpRTIwSXI3QWY4R254TkJlRmhFVjU0UVMtUDZnNWhKVTNWOVdCcmRKS1NqMmJEekstOXdEMWJ0TV9nLXfSAVBBVV95cUxOc25wSll1WG1zNThhRVpHTkNRVzhoTV9SR0FiZ0xGRlRNamhkd2UyUXBzcGFZWUZpTExOV0R0ZUlRY1NNaW1OZnlSelcyYzFyaw?oc=5"
+      "title": "法人專欄分析內容-台股 - MoneyDJ",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcDltSVhyR042YzNUMXg3ZllSUWFCMWk0ZFNOaXVZM0pHdUFUSHFWdnJEVkF2Ql92SkQ4TnlEUUQtVFE4dm9SdlNQR3R0UzRuZmdxdHVFZzUycm1JU093N1RJNl8tZllQdTcxRTZQTmM4cERmQmhfUFpJT3g3U0doT2tjZk1TRmdMT3Q4TTgxQldkd0htM2c?oc=5"
     },
     {
-      "title": "法人：台股短線沉澱不改AI長期動能 宜採「多策略配置」迎戰高波動 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzMnlFZ29SMTBZRWtnMVJyVXFPSTJ0c1EyRWxHQVNfeklNLU9GelFVSVhUdEZQNWUzREdUZ3A5cUNQMF9ZVGhYZ3pyaDVzSm8?oc=5"
-    },
-    {
-      "title": "2026金博會》週一台股一定漲？呂宗耀：國安基金這次不只是救市，資金規模3兆都有可能「行情不會在此結束」 - 今周刊",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVkJ1U1d2bHV5MzhJSzZPNUJCelBVYXhzb3J4TnB5MzdLSS1kYVNxR0xOY0EyNFZBMU5LY2xhSUpYcGJDYjJXNDNfSFh2UUt6aWxJVnBMMkxUZkZwV05odG9kVndiUVExS2NsSlFDU3MxRnlJUVBrOHNIUGNCYWdMeg?oc=5"
-    },
-    {
-      "title": "【祭限空令救台股！「空軍」喊憑什麼：股票大漲也沒有限多令】 明天9點不知道台股會怎麼樣ㄋ （#嘴邊肉） - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMivwRBVV95cUxOMWhybVJ3UDVlWldMUTZKVmYzOF9rcXpCeHBaa0YzNi1JSVVuNzFjWHZDT1E5NVB2UzAwUXN5SFoyV3ltMWZ4cE1IY1g1QVRPdzZIZjlQWnFkcmQ4S2kzdGczZDRtMnFUNTZoQUE1NTFqelRPb2txSHF6emI0TEZLQmMwRVlMWVgxdy1kQTdoclZ6dlRfVDVReGsxSkdaRUxrdFJKTVQ2aXlVRVhjaW0ycHhacjJhTF81LTJ1S3ktRkp2UlhuOXo2WlhkUXBOYUNodGtrVVBKSTZfTXB5S2djLVM4cVl0b1NNRmlsZ1VVd3pLVW5XeFlIcFN1dW52b1VOTlVZTFotRWlURFdRTnpwOFhqMVlpbTZ1WnRadDczNGtQNWJ5eEtiMHRKS3JHX1c3VzdHa1VBYk5mbFBMc2NPQkpnTFg4RkRvXzVnUUM0M08wZktsc2Y1ZVgyRE9kUTZrendybEQzaTY5dDBkWnkzeGxBdTRkeHZjNG0xeE9uMzFoYmlTQlpxSTdSSWtjdG5sUFY2M1h2LUN1bzRCYXNMR1lORkpjNkN2Y1AzVkJ3Vk5qbFU1akFiTFM0SUZOMzB2N2trT0tRMk1wVkZRY2o5QUlmSlVWS3ZTajRqWldsdW81UjF5YTZJRkZ0d3NIVlduM3FtdHBvYmdrOUVzWDBXZTg0ZXlEQVdhZ3oyVmNPWHlGR3RrSHdhcGR6clFZU0FlZ0JnSDNZM2MxQW14OUVhS0xZNi1DRUtQZkZES2NiOA?oc=5"
+      "title": "比特幣徘徊7.6萬美元，ETF失血12.8億美元、空單大舉集結 - BigGo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GMVh0N1JVbGJqV2J0OU5FaElCVS1KcVUtV2hORS1iUFVGbjZxN3E3aklnd2xRMXE2V09kd1NyWmZFVGhtcHVYRmp6R2dqMlEzRWh2MUpJQ2VIa1hZd1EteGJZNGltVFJ4NlJjSXBqcDdUS0poWGtURDZB?oc=5"
     }
   ]
 }
