@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/09 02:56",
+  "updated_tw": "11/09 06:42",
   "taiwan": {
     "2330": {
       "price": 2135.0,
@@ -72,31 +72,31 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75867.5,
-      "change": 119.9219,
-      "changePercent": 0.1583
+      "price": 74419.91,
+      "change": -1327.6681,
+      "changePercent": -1.7528
     },
     "ETH": {
-      "price": 2234.22,
-      "change": -2.0952,
-      "changePercent": -0.0937
+      "price": 2125.14,
+      "change": -111.1752,
+      "changePercent": -4.9714
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.765,
-      "change": -0.3443,
-      "changePercent": -1.0399
+      "price": 32.793,
+      "change": -0.3163,
+      "changePercent": -0.9553
     },
     "JPYTWD": {
-      "price": 0.2046,
-      "change": -0.0027,
-      "changePercent": -1.2867
+      "price": 0.2048,
+      "change": -0.0055,
+      "changePercent": -2.6093
     },
     "EURTWD": {
-      "price": 36.557,
-      "change": -0.3166,
-      "changePercent": -0.8586
+      "price": 36.575,
+      "change": -0.5956,
+      "changePercent": -1.6022
     },
     "CNYTWD": {
       "price": 4.9149,
@@ -106,9 +106,9 @@
   },
   "gold": {
     "usd": 4074.9,
-    "twd": 4293.0,
-    "tael": 160972.0,
-    "twdTotal": 133514.0,
+    "twd": 4296.0,
+    "tael": 161109.0,
+    "twdTotal": 133628.0,
     "changePercent": -0.9384
   },
   "fed": {
@@ -129,24 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPN0xjMnhlczhNZUFoR2dRVF9PM2k5OWE1aFZqWnlFRmNRWDBHYWhOcVVhbGlQbk5sbEVUMFJoVUg5N2c5elJ0T1A5NXlPRkE?oc=5"
     },
     {
-      "title": "美股崩跌她卻很淡定！女股神揭多頭還有大戲逆勢加碼這檔股票- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4welhOVFZmNmVWUzYxcjJ3ZEd2TUh5RUdjSHMwYVF4cmU0RjBZQkMyZ2lFdmdyZTNFOVdLZlZUZGhvOFFWdTNFdGo4eEVKa285X0ZFazVMbEhLS2FJTWVN?oc=5"
-    },
-    {
       "title": "國安基金進場+限空令護盤雙管齊下 台股週一能漲多少? - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNUFk3NGZNQjJyQUNWaW9uRmZUUnBrd3RZelc3bHFidVRhZ0tlbEo2UDJBLTVTVEJHYzNZcnljSGFpMXNXVWoxX2ZRYWNDRmV6aUtsU2FDcWlGa3pVYlM0YnV3LW12bmlfcmtNMldDLUx4Z3cyYjJGX0xuZGo1STJwNmctZDF3Rmt2eURkdy1WVkZhOUpZU3hOMGxpM1h6Ym5GVGlZWHY2QWgxU1M3c3ZGMXItSUxRQTZncWRSWndXaTlqUGFGZE5pS0hxcV9ocy1CVXhwbWtFTktmMzVFWVNVX1JtbTBlVHUxaTNQckRHWmJnbF9CUTZkbUktWFMxYkg0bGNsbHREUmMzU2tsT2dPb0NTWGIxVmVvVVVTZkp0WHBTRUJoSHdPVnlNTkJjam1CNWFHTkZ0T2RwX3FxclY5VEgtMlliX1dKcmZzTldydW1oWHVOS2wzMGVlY1h3TmdWU0RUV0o3dw?oc=5"
+    },
+    {
+      "title": "美股崩跌她卻很淡定！女股神揭多頭還有大戲逆勢加碼這檔股票- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4welhOVFZmNmVWUzYxcjJ3ZEd2TUh5RUdjSHMwYVF4cmU0RjBZQkMyZ2lFdmdyZTNFOVdLZlZUZGhvOFFWdTNFdGo4eEVKa285X0ZFazVMbEhLS2FJTWVN?oc=5"
     },
     {
       "title": "台股週報》擔憂AI緊箍咒 外資逃殺逾5千億 - 卡優新聞網",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Qcjk4UlhKSDVrZWoxOUhSOXhFMFQ1YVEyRGIzXzJmNXNOTWhBaVRuY2Z1RHNPSkN0bmJTVjJyMWRyRHFwNmVsUlhCNWxpbW12c2NyeGpoa09WZw?oc=5"
     },
     {
-      "title": "法人專欄分析內容-台股 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcDltSVhyR042YzNUMXg3ZllSUWFCMWk0ZFNOaXVZM0pHdUFUSHFWdnJEVkF2Ql92SkQ4TnlEUUQtVFE4dm9SdlNQR3R0UzRuZmdxdHVFZzUycm1JU093N1RJNl8tZllQdTcxRTZQTmM4cERmQmhfUFpJT3g3U0doT2tjZk1TRmdMT3Q4TTgxQldkd0htM2c?oc=5"
+      "title": "有信心「美股將回升」 華爾街策略師：短期賣壓提供買進機會| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLVUNzRk9Bd3M5Z2o1R0ttejQ2TzVaYzhTc1lHZGZmMnFYOHF0b2p0UnU0N0dManBscHVuMHBCTHh1RGdVUU1UQ3Z1MjUyczgt?oc=5"
     },
     {
-      "title": "比特幣徘徊7.6萬美元，ETF失血12.8億美元、空單大舉集結 - BigGo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GMVh0N1JVbGJqV2J0OU5FaElCVS1KcVUtV2hORS1iUFVGbjZxN3E3aklnd2xRMXE2V09kd1NyWmZFVGhtcHVYRmp6R2dqMlEzRWh2MUpJQ2VIa1hZd1EteGJZNGltVFJ4NlJjSXBqcDdUS0poWGtURDZB?oc=5"
+      "title": "〈台股盤前要聞〉金管會祭限空令、國安基金本周進場護盤、台塑四寶10月營收全面翻紅 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UWXZ3SWdjaHNkWkt2UVhSMEF2cXE1WEJtekFxQWk4cWFJX29RQUkzeDBrUkJfb0htTXc1TmVOMFNFUy01ellWVF9WakRybUE?oc=5"
     }
   ]
 }
