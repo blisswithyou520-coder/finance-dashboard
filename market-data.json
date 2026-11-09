@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/09 09:59",
+  "updated_tw": "11/09 17:37",
   "taiwan": {
     "2330": {
-      "price": 2230.0,
-      "change": 95.0,
-      "changePercent": 4.4496
+      "price": 2235.0,
+      "change": 100.0,
+      "changePercent": 4.6838
     },
     "2454": {
-      "price": 3610.0,
-      "change": 220.0,
-      "changePercent": 6.4897
+      "price": 3725.0,
+      "change": 335.0,
+      "changePercent": 9.882
     },
     "2317": {
-      "price": 238.0,
-      "change": 13.5,
-      "changePercent": 6.0134
+      "price": 239.0,
+      "change": 14.5,
+      "changePercent": 6.4588
     },
     "0050": {
-      "price": 96.7,
-      "change": 4.2,
-      "changePercent": 4.5405
+      "price": 97.45,
+      "change": 4.95,
+      "changePercent": 5.3514
     },
     "00878": {
-      "price": 32.82,
-      "change": 0.83,
-      "changePercent": 2.5946
+      "price": 32.77,
+      "change": 0.78,
+      "changePercent": 2.4383
     },
     "00919": {
-      "price": 30.89,
-      "change": 0.75,
-      "changePercent": 2.4884
+      "price": 30.98,
+      "change": 0.84,
+      "changePercent": 2.787
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75070.26,
-      "change": -677.3181,
-      "changePercent": -0.8942
+      "price": 74235.89,
+      "change": -348.7584,
+      "changePercent": -0.4676
     },
     "ETH": {
-      "price": 2139.84,
-      "change": -96.4752,
-      "changePercent": -4.314
+      "price": 2109.53,
+      "change": -11.4502,
+      "changePercent": -0.5399
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.833,
-      "change": -0.2763,
-      "changePercent": -0.8345
+      "price": 32.813,
+      "change": -0.2963,
+      "changePercent": -0.8949
     },
     "JPYTWD": {
-      "price": 0.2053,
-      "change": -0.005,
-      "changePercent": -2.3715
+      "price": 0.2055,
+      "change": -0.0048,
+      "changePercent": -2.2764
     },
     "EURTWD": {
-      "price": 36.667,
-      "change": -0.5036,
-      "changePercent": -1.3547
+      "price": 36.756,
+      "change": -0.4146,
+      "changePercent": -1.1153
     },
     "CNYTWD": {
-      "price": 4.9253,
+      "price": 4.9225,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4132.7,
-    "twd": 4363.0,
-    "tael": 163594.0,
-    "twdTotal": 135689.0,
-    "changePercent": 1.4184
+    "usd": 4102.3,
+    "twd": 4328.0,
+    "tael": 162291.0,
+    "twdTotal": 134609.0,
+    "changePercent": 0.6724
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "【Follow法人】外資狂吃台股豆腐...重砍900億元空單飆破10萬口新高投顧董座：因應美股不確定性 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqARBVV95cUxOV3RlQzZNTFpMejZFWVp1TW1wZmFXenM4X3BxUDFaREVremIzODlvNG0xcjlYTG5tQzNZWkgxdEdlYUJJeG52VEtfNTNTMS16M2V6VEQ3bVd0TEtYbFZxdEdjMDlNQU1NMTlRcDA5Y25WYW9QWGV0S21XRnl1bWlBbmptbkJNVHFTd2xEbEd0NFZtdFd1MjY1R1ZraDJ6SGRpVlpBVkJmbXYweE1QSkVkZTBPbUNhcVYycnFRSVpHQ2p6aUdTWVNGTVN4eENOZERjMlFodXRBZzJvTEp6MDc2ajlpc0l2Zm1lYkI1UUp5eXFtNGRiRjlubkhzSlJTSThEcmFKbFBXWEhJclRYWVZrYkV1TFJKYUItc204bE91T0JRSHBwaFN2RVM2SHVIWFEzMkg4N1lSX3pIXzVzTGdiN0E3RFZ2WFVnbGtmVktyRnd4ZW8xVHQxRFVaZFRIcXF2TEFGOEJBSXYxcEV2Z0dDc292UXprbm9rN0JxRGRxMmoxYjVtemlqV09pVXhKR0NTYmxLSndlOF9PQ2hwcV9SUTRtVzVtX2pEMWVCU0R5U1c4MGdsS0tmdlBrSWlHTkQtT3pHbklNdDRwRUpOQ041dVE4c3MwU0dScmN2U0QwaUdZWkxqNHRZMVNGWHdvSHVjZ1NxT3RoZF81ZllUV3M2WW1mMHYyUFJLVjZaYjlyTmdVclVkZWxJdm9LTktFTXpwV1FiZzFYMTM?oc=5"
+    },
+    {
+      "title": "黃仁勳偷吃出大事！美股7分鐘狂震21兆元 網急了「問1件事」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RUw0OFZvX2hoVFFqaDE2NjhzbDUxZ3U1UGxucG9PSml4ZU5mZFRPUDQ1TGRvT3IzT29kX0tubmQ1enpEYkVfOWc1cnIwLV9wT1FoSDhFTC1BdERQaG9z0gFkQVVfeXFMT0t6Nzc4LXFzR3pkWWczQUU4b1M2a01FMURLMTAwVWZvLXRIR0FOcWM2X2YwQWlJeTRHQ2E1UVo3Y0Z5WFUxV1BrbzdrdlJBY1Fqdmxjekg1cVBzakhJbHFreUVQbg?oc=5"
+    },
+    {
       "title": "美股期指走低黃仁勳風波讓台股護盤添亂流| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrdGVqb1REVlNWVi13RXMzSk5BcjJSRV9SRlU2S0R2aTVmRGVsay1aSk5BNjJudWxKTTNvbjFyS09iNUVGNUZZXzNHcWdnNmEt?oc=5"
     },
     {
-      "title": "美股將反彈？高盛恐慌指標突破「極端門檻」、歷史數據揭標普500未來半年平均漲9% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kQ3Fsc3RTaWdmeWxrM3p2M2Z0clA1TEZCV1NsSjFkbU1rZ0RZMU85ckRMSFF5dG0xcERNX2h1QWJqcUpTb3owbXl4ZWN3Sk0?oc=5"
+      "title": "華爾街高喊「抄底」！美股暴跌逾3兆美元反成買點？ - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZLXdFdkxUdmY3U1VWeEdIaUJUODlJaF9BUE1ISFpBOFRnZjVKZHBocmktakQ3N1J6Wjd0X2ZIQ2ZnLVFWUWVWblZLWGxCbHc?oc=5"
     },
     {
-      "title": "【1109台股盤前】民主黨AI基建延後，台股一度跌9%千點長下影線探底！主本比鎖定【世紀*】、【廣寰科】、【力新】 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMizgRBVV95cUxNZUs2VlBYeEN5cnFCWDVBVGI5R2lQOG5pQ3pMTGZxbk5xNnNXbF85QXFTNGhrbjQ0TVhraC1tUVRTSUVJc1lDN0NHOU55NndnNG9zZHZkVTNZbmdnLWVlanZLY0hXSmlpS2dsRkZiSktmeVJBd2JSdkpIS1BXRllfdVdOLThKb2tRY3lOLXdsSDBIQ1ByeEFEeTRBZC00RlBET0dSc29zMFFCQVpaWWpHT2Uyd2NoSUxNakxPenFVVjFmOG9RRUxSN3prZWw0TElBUDFVQUMtbEhKdXkyTXhzWG5ueU1Ebm42dHMwN1BHMVN3R3J5WVM4dVZaUVV0V0pfdTFmYlEwemVTdTdEN0t6aTYyeGJmbmpBdWpSc0psM1liXzNkYi1RVUs2aWlnUllUeEY1MVhjZjhHYklTZVU4NXZIYmtMM2VDeTNoNkVSWGF1dVowcXh4ZTN3VFhRQncxQjJWSm5kSlVVSW95NnJfRkItUm5GUkpDV3picXVrQ2p2ZkJvUjVNNmtvQTNxQkxZUDNmUHV3VHRlQWFIWGdUODkwRkRKYkdzYkpJQzlqcDUxUjh0RVJaRHQxcDE0ck1XZnZuMkd1TGxVNDN3djNyLTFMVXRSclRCd1p2amlEUjM3ODhabEJwUFlQWGQzMUlmemxUamxma09pRHlUdXFQZW5ieHhfcFpsemJhN2RBTEVuX2dLdlNydEhQU19OMHo4QXdHLUJFU1pMeExzcnpUZ1A3WnZUczZmNUxBU3dBNWx6M1FTX196ZEU4ZkxrZw?oc=5"
+      "title": "2027台股三大挑戰！謝富旭：市值型ETF建議減碼20%，減碼資金首選黃金！《雅筑會客室》EP68｜謝富旭、張雅筑 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMixwRBVV95cUxPWFdCSUZsc3pkdl9VdEl2dG5wbWE4V1ZYOEh1Z1RTWUdJQUNYSm9ZN0ltNHVuNjhUeEpsNkMwREp3cXd0NUpLZVRXU3NqeG1VNmhjUUp6WE15TU9taDgtSXhMU3RoeXZfQVJqdkpHUzZfNjEyUGQ2Tk1FaWtTNnNxWjBFMlktbld0S0JHRXZZNFRVZGlONk55QTNtU2lmaF94UTI1SmgxYzhmLTNuY0tEZkxaZk90UlZQOGJFZzU2ZlFVd0l4MGZxQ0wzT0JDbldwejZQamhJcFZTVkd3MjJKT3Q4UUhWREVzNXFkWVkzbzk5T3M3aEVXN1NPaXNPMTFaQkE2MXVtUXN4aGlUaFIyYXppLW1rNi16OWw5TGs1SXdKMnVXTGhRYzdIUlVjdFliZHVmY3JCWS1pckQ1dENMejNlU0U0dzJ5WkQ4SmdqbE1FTnZ3ZjFLN1BPQVRvZ2VIZmJXaDFBZzh3dEVCSi1sdmFkS0xGX1pIQllKaTdqR0N5QzdzTkZsaFdnWTdpeFI3UHhvdHpDaFJ6NXRxd194UTRlX0dUMlJ1S29PbXlSQUZ2ODhKTjF4WWZWRDhiMEdxVVBrYm5xMUZxTXEzYlIzMnhlcnJJbEdsN1dJSlB5QXpRTmtxZFpQYnlFYWZhOHlmUk8xZXRvY2tEZnZIbV9kSEdTLWxoemc2S1F6N3FUUkdJSV9qb1ZHSGlfR2lQN0dTcEt1bTU0LXlETnJrOEFmUHNYcVlFU014dHo4ZlFuOEh2NnQ2U0Vn?oc=5"
     },
     {
-      "title": "【盤前】融資大減美費半狂飆4.2%！台指夜盤強彈646點 台股崩跌有救了 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOUHV3VmN6X3c3SENSRW9wZkNka1lQM0VmNXBNS3dUMDlyUkt3WUJWN0c3ZWFxVzZzeHBCU05CMFFTRGI0NEI3WktPZDA0Y1VlYm9TSmZoRGZZczRMcGx4MHpIN1N4R0xBWmhJakN6UVZZblBQbXlhS3dIQm1Iby1ib1Brel8zMGZ4Z0tlN2NfRTFKSkx2WXUyaGE1dzJUNUpyc0JQQjByZkZFNTl4YVpLTTlITFhsYTM5RFFwTWJaUGNMQjdBVk5rVUVnS1YxbFNvOFkySHRyY3B2WHQ5bC0xNjRPd2ZWSzZoX2VLbGVRQzdTdUFwclZRSHNKYkc1d1dub0d4c3dhQkJvSlJrS01nS0hSaDZVYlFzUXZvUDVkajNxak5LMlVqVXNTanNfLUp2WERaZEU3c0h2UkFVWkdHNWFONm9qcVFfekgxams4eU9RLS12SFFwbWlfZndvQlJsaVVLTWFJZ0NlT3F3aEdIeUNRb3otdHFNc2VvMkZEaE5pX2lOQk5MY3ZGVQ?oc=5"
+      "title": "國安基金與限空令齊發 台股盤中強彈逾2400點 - 公視新聞",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85UmNWdWFoOGF6enhaR1RNN1dsWlgyQmdZcTYxU1ZKWE5DZXRVZFNjSWNsRmRTNWpqYWVmeER2dGNBSXNPQ0lPSTNldkwzb28?oc=5"
     },
     {
-      "title": "民主黨大勝引發美股重挫！分析師：投資人可逢低進場布局 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5N2FaNk1FaFRmWDRQV1lFamFsd0I5MGlmRzhZaEZiR3piUXpyVDZHWGtkVVBNQXFPWmdQdmtzamdFU0ZHSF9YaldyRzBteDhrSzQ3YVFpckI5eG5GYThB0gFkQVVfeXFMTUtJbk40VzNROHppQ3laZzB2SU4waWlySnFyaXZkR3lvMzNHdGU5RkVtNkFTb2hIVFR0bHpiWmYyTURLVXFuQzZFMzR5ZjNnemhnamtMZHlaaFh6b3VUdzFzM3o4eg?oc=5"
+      "title": "歷經震盪洗盤後... 00939躍台股原型ETF績效王 打敗市值型ETF - 優分析UAnalyze",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iTEtCTS1MSTJaWEU3R3ZORUZUam1qZ0VBUG9wMGo5R0dFM3NZOTVUc0JacVFmbkhLWEhRSnJGOWdFdVg5RHFvYkozdWd4MHltaDJ2ZDl3?oc=5"
     },
     {
-      "title": "金十數據全球財經早餐 | 2026年11月9日 - 群益期貨",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXlSeDNZYjdrVXNrREM4TXJZOXk4NUNOak9tWWNZSnF2eXlKdWtwWnJCc1p2Yms4MDhyR3FQZndYc2x1UU1NRFpsWlRITnNJWW1CdGc2ck9GbEZhV1daOWF0cVZLM1pLV1B0cmh0N0dCdzJFOFpxcGVzSENfV3ZndllHc1VLenpfWGpwaFBRcw?oc=5"
-    },
-    {
-      "title": "台股釀反彈名師高喊別亂殺！南亞、國巨等高借券、國家隊買超卡位軋空領漲有望- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11dEktUXk2c0hQN0VRejl4RTNJcnIxOVlQVlJONThEMWJYRmxUakFGVlNzaXd4RkZWX2x6NDNRN19VZE5leW9YZ1l2TS1uVE5fWWxLeW8xSlFWeVlKSTVJ?oc=5"
-    },
-    {
-      "title": "11月9日 五件財經大事搶先看 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IbXlxTHRoSElpaTYxQjVxUVFrcWY4ZE1UZmJKb1JLRWhwWHlRbXBXZ3d4TDFYQmxSeHlZeDBfSi1DcHlHYmpXZVNGUTBwZVdmbkw4UXdhblpUd9IBX0FVX3lxTE5RMldKVWdhUTdaWFhVQzhKX1N6Rl9zaUxJSTdpNjRocFNwdUVOaEt4VVQtQ2NLd3owaURaMl9PcGNUN09MTDBXdzFFdjNSU2NOYUpacWwxMzJadmktam1B?oc=5"
+      "title": "【Follow法人】外資狂吃台股豆腐...重砍900億元 賣超聯電近4.8萬張居冠 再提款台積電195億元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOeWxrMEdrMWRSUk8ydUNMeWQ5elZFMnN5cGtCMmxQcW0zcS1TaHFNeERnS2xMS21TdVNWdGVuMFBvb1VrZkpfV3hMLWFReVFmcm5aT1A5RTZ5bG5KNFFkRGE1XzNSVUYwZWhlWV9ZUS1ZR2RhSU9VVlVPVjVFYUJsSjN6dWcxdjcwdU5sYmlWeEFCMFNJMnBwcDUwb2NSa1J4MFFyRXFQdlBwUmUycXN4b3RxOGlxc0dIaERBcTBYMTRfRXZ3Q2hLTHpCMWk0TF9oNjFaaWxYZGN0Z1h6RjJTa0xaTWRlTlVwdWF1emVFZmZfN2JIdS1DZHdlbnNEQ2ExMWtGaF9aOEwzNHhpcWpPdms5UXFUS3AtWlgwMlRFbThxWEdod18wU2NyOGgzUlZxWkRMeFBCZHBzV0I1Njc1VVQ1QjNBbWNXWkJ1a2ZoQ3FZSDM3bjNKTThVb1ZIZW9CRDVZTmVlRTBDdlA3TnNVR3NvUURsZmZPN2VBRW40djhXeXhKdzBCYmM0UFdleVdPOWVHMy1oZ0xYMl9hOXVXNGJTYXBoX2FkNXhBZ2tELXZjM19wRFB3djg4bHlicjdsSUYtZXdUSGVyUVBRRGxzdzdxNnBfR2Z5REhaRXdpMGF4T2xmakJRakRqb0tyNWhJdWJsZnZGSl9ORmxs?oc=5"
     }
   ]
 }
