@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/11 02:07",
+  "updated_tw": "11/11 07:20",
   "taiwan": {
     "2330": {
       "price": 2285.0,
-      "change": 150.0,
-      "changePercent": 7.0258
+      "change": 50.0,
+      "changePercent": 2.2371
     },
     "2454": {
       "price": 3830.0,
-      "change": 440.0,
-      "changePercent": 12.9794
+      "change": 105.0,
+      "changePercent": 2.8188
     },
     "2317": {
       "price": 241.5,
-      "change": 17.0,
-      "changePercent": 7.5724
+      "change": 2.5,
+      "changePercent": 1.046
     },
     "0050": {
       "price": 99.7,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 167.77,
-      "change": -10.9,
-      "changePercent": -6.1006
+      "price": 168.89,
+      "change": -9.78,
+      "changePercent": -5.4738
     },
     "AAPL": {
-      "price": 347.835,
-      "change": -2.855,
-      "changePercent": -0.8141
+      "price": 348.51,
+      "change": -2.18,
+      "changePercent": -0.6216
     },
     "TSLA": {
-      "price": 375.74,
-      "change": -2.31,
-      "changePercent": -0.611
+      "price": 379.78,
+      "change": 1.73,
+      "changePercent": 0.4576
     },
     "QQQ": {
-      "price": 669.36,
-      "change": -9.99,
-      "changePercent": -1.4705
+      "price": 674.76,
+      "change": -4.59,
+      "changePercent": -0.6756
     },
     "SPY": {
-      "price": 746.225,
-      "change": -6.465,
-      "changePercent": -0.8589
+      "price": 749.92,
+      "change": -2.77,
+      "changePercent": -0.368
     },
     "SCHD": {
-      "price": 35.75,
-      "change": 0.1,
-      "changePercent": 0.2805
+      "price": 35.83,
+      "change": 0.18,
+      "changePercent": 0.5049
     },
     "VOO": {
-      "price": 685.94,
-      "change": -5.93,
-      "changePercent": -0.8571
+      "price": 689.5,
+      "change": -2.37,
+      "changePercent": -0.3425
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73229.33,
-      "change": -1993.8184,
-      "changePercent": -2.6505
+      "price": 73658.88,
+      "change": -1564.2684,
+      "changePercent": -2.0795
     },
     "ETH": {
-      "price": 2026.23,
-      "change": -105.2685,
-      "changePercent": -4.9387
+      "price": 2049.46,
+      "change": -82.0385,
+      "changePercent": -3.8489
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.98,
-      "change": 0.2197,
-      "changePercent": 0.6706
+      "price": 32.937,
+      "change": 0.1767,
+      "changePercent": 0.5394
     },
     "JPYTWD": {
-      "price": 0.2055,
-      "change": -0.0012,
-      "changePercent": -0.6032
+      "price": 0.2053,
+      "change": -0.0014,
+      "changePercent": -0.6999
     },
     "EURTWD": {
-      "price": 36.836,
-      "change": 1.301,
-      "changePercent": 3.6612
+      "price": 36.824,
+      "change": 1.289,
+      "changePercent": 3.6274
     },
     "CNYTWD": {
-      "price": 4.9428,
+      "price": 4.9359,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4026.1,
-    "twd": 4269.0,
-    "tael": 160088.0,
-    "twdTotal": 132781.0,
-    "changePercent": -2.1485
+    "usd": 4042.0,
+    "twd": 4280.0,
+    "tael": 160510.0,
+    "twdTotal": 133131.0,
+    "changePercent": -1.7621
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "華爾街三巨頭策略師齊發聲 美股回檔可望接近尾聲 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLUE90T2RwOWZQdkJSeTY4S2d0ZllqQUlCeEtOYXJOUzFBQi1xRzNPNTlpLWF2N2FFM2JIQXk0SmJUa3lRRVZfanZuTFNEYkk?oc=5"
+      "title": "黃仁勳外遇拖累科技股！美股4指數收黑　台指期夜盤跌124點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DYXBYVndwTWRkaXFodnJoYWd5ODd0Rk52ZHMwRlZGSnh4M0dOeUFZLVh5RkNpLXR5aW5seXJUNXJKSUd2ZDViSjhGT2prWjhyN3fSAVBBVV95cUxPb1F2WVhxN21wSGhPMGdHQ2VYbnJBbUNJemtlX0owUGQwQW4wMTZhdEVlcmlQdVI0YmU2c1U2SllFQ3Fod19qSDZxNjU0c2Q0Mg?oc=5"
     },
     {
-      "title": "美股開盤「4大指數齊受挫」！台積電ADR下跌0.11％ - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XbHBBdzFHTzRaQlZyUU9aUlhQN19YS3I4SmNjeFg0bVRFa2QyYnB4LXpmV1lSSFdKXzdXQkY0Z2h0OGZqa09BMVRkOHJrVTF6SUHSAVBBVV95cUxPV1BRYTFCR0RLMm1YR2RkdFJMX2xFdVdFanA5UXlDcTdicUs0VmlrYXJLRHY0eWRDbF83NnZKRFRxWnpzaVJESUpzTTZDSHRidg?oc=5"
+      "title": "〈美股早盤〉才反彈兩天又遇賣壓！CPI超預期 主要指數開低、科技股領跌 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSelUzTTdjeURWQ29DaWdZYW9vd1ZwSms3WGltMnY4RnplRFphTS1HZW1QYjNZQkJFRm1Qb0lVMkpPRkQ1cE5ZaGJ1RXlWWm8?oc=5"
     },
     {
-      "title": "美股飆漲強勢助攻！台指期夜盤上演大逆轉 終場狂漲1064點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQTFg0aWNyMEpPUVhZdk9ReUhMc2Rac2FpdFR6OXkzTk9oaEVjNU5RbFZhVFBLZ2syYXUzWjlXZklVbjFISmNxODg2LVlHQlk2SDRVX3IzZVFWQTZwTjNQc3UwQkNNQUdhbjBoWWswSWw2NGtNZU44Sk1ibnFOWEJFb2REYklTSmxxbDJpSkF4UzJXSDlENEIxY2hBVUJqWWEwbVBISzlWd2RGSW9IU0JJQUNHLTBHTFN6TGFNZmZLYmpsMnViX1lOd2hkdlRqc0tMN2tYVXFaUDd3R1RMSmVQNkpYd1NuVEJUMW1MNDk4WENPRlZpeVlYeVVVVW9pTFhiNURuZGdEakNsRjFGMEVUWXF2NmpMR05ITUdVb2VKaDZudUpGb3hOZ0VqSmF6Ym0zbGR5NXFjb1JxLXQwSGxxNGZlM05JczVYZ29rQ2dUaGpUR25vemdFcTB1ZW5RZ0p0dHdOa2dNVFItaVBEckY0VGNuWXNpSUE?oc=5"
+      "title": "金十數據全球財經早餐 | 2026年11月11日 - 群益期貨",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSHBOdm9sdDB4ak9DM1Q3WUlNM0NpbHI5OVV2MENoTjdhUUFUa3FMOW1BdC03N3V0LVhFTFkyWDlFUnVtSktPNnZSbnVPS04zS1RSVUtCcXFyNE5McFVueFRtT21RWi1SSEplMjlTUTEtMW4wMjRpQlVhMTBTZXJIYTZoY1ZLUzdCMkR2OTJXQQ?oc=5"
     },
     {
-      "title": "美股收盤／三大指數強彈逾2% 費半狂飆6.8% 輝達獨憔悴大跌4% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WOTN3X0RDUWxiZ0ltSFZodlBnZ3EtVm9aVTNDU3VlOVVQN1NWbmJPamYyNU83R1dPOVAxZ0hzTG8ySGx2d2ZNY0F3b3ZDQ0VJ?oc=5"
+      "title": "快新聞／升息疑慮升溫！美股四大指數全面下跌 費半跌破萬點 - 民視財經網",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oRVB1OU9nZGlTeGVIT3dhMW5mUXRxME9ZWG4yNi1wemJJYnBLUDdjaG9KS1hHZU15YVVZRGw1RC01c05TeU5ncmV5VFFaazY5dlY5ZkR0M1FmS19Gd0hVY2Vpcnpqdw?oc=5"
     },
     {
       "title": "美股年底還有最後一波反攻？高盛示警3大支柱轉弱明年淨供給恐創2000年來新高- 國際 - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15RnZCblZjSy1Ubzd3S0VRY2lOVXVqUHRDa1pZZ29HalQwNlFCdzJKbWdHY1I5MnVyWUJ0UXBoUGxxV0Jyd0dBcUNrNEtiZ1lmdi1JYnhBM2N3YUo3Tk1V?oc=5"
     },
     {
-      "title": "【美股盤前1110】AI監管擔憂過度？反彈開始？｜豐雲學堂 2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOTUx5WFM4WmtrS0tqeWh6NGdhQW4wYXRZZlBUeUdIb3MyTXMtRE9IOGE0d3hPQUdIaDRiMjVRYzBUSGI1WWFwa1AtQTJhV1paMmJsVWxRNXEtaVBXUWhtTE96bEMzTGZPZGtacnNWdEVVSzFOaXotRk85VzNLbzdRSGVjcElTOWxxQTU3dE9SZG1mR0pNVWZVTDBFSXZMZTN3ZmtIQjh4MGlScjlod2M4c24ydlNFMFZuMG55cEFvVFlBcUh4cXFxcEpBeDlpNE1UQWZJSEpwRC10NkNlSmw0MmVlUHdLTzY5WHYzelE3Qng3aEVPUkxxTVZ3bGN1N2NkRzVyLVFyelpERXpVVmZqNTZQY0phZU1UOEtwbmVHN3F6QkFiU081eWdaWHc1M0NjVjRiNlZHaTI1UQ?oc=5"
+      "title": "台股開盤怎麼走？美股全黑拖累 台指期夜盤跌百點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOenY4NFR4bkZrTG9HT09GNU15SXY5UHdBYWVVc09iREdUVHE1eVZxbURaNEJnbFhnVkIyNnpnSF9EejUtNlg4ZWtxZEczY1BYMm9Qb25HZjBxVVcwdC05RnhIcGptcmZJbXg1VVNqd0g2WTVqemtjbm4xSEdlRTBuUHBxczk1R0JRZWt1dFJUX3BzUUNGRE9jZmNxZmZmVGg0ZVk2X3JlaEROYWFhNjExWl93b3hORlpkSTcyWXQ2d205a1BabXRxcUozR0R2Wnk4ejJNSTNFZUNqbG10M0F2bnlwaW10QzVDanBIMDNvbE1JVWNkRzZtRXlrNll3dFZxVTk1UlBmLTRFbDFJWDJxM3o1dWVQdl95RE8yLVlEUVY5Q3JadnBXSXZ6cmhzdG1rNzA0QUYzcVJZNjg1LVdObHV5cENGQ1g1dTRWUFpBTkpJVENuamktaDRR?oc=5"
     },
     {
-      "title": "美股收盤》主指全收紅！輝達逆勢重跌4.27％ 台積電ADR上漲3.51％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEUDh2dHF5aXU3ZkdnSndwcURmSjhhQkdRVzIwcldzSXJ1Vk5JY0RCS0x1S3FhWjh0UmhpanlRVWswOS11OWczaGItWWpScktpbEFzaS1oaTdiaV9XTUsw0gFkQVVfeXFMTklHel9aRDVqMnB6Q1JBX1dYekdDWVdHTWY0bEZqRUlLSjNwY0lKcWNRQlY5bGZTaUk5TWlJbWlBZEFHY054Ym12dTAtYTlaOFdDWGZIZWUtTTZ2ZE84b3RwUTd2Sw?oc=5"
+      "title": "美股收盤》升息機率提高、輝達再挫5.47％ 美股收黑 台積電ADR漲2.02％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oZVB2VEctNHNCckYxWmtyRmZUcEt3Z24zNGVwdUFNb21xRS0yTVVmaGtHY1FzQWFaUWt1b3EyX3AtSWVFR2pvZlhhTXNYU2pMVU9lUWR6OTZmS0MwNkZB0gFkQVVfeXFMTmNxYWRwczU0V0xzTTZvclVaZHZsNHg5elJhbEFWb3VXM3QzY2c3SGdJTmFhT0tFWUNOc09IVVNTUTNHekd6S08yemxGSDZnUmJWSml4UFM0cFc4dUc2aU9CQi1BSA?oc=5"
     },
     {
-      "title": "【美股盤前】CPI今晚登場，科技股能撐住估值嗎？（2026.11.10） - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUm1Yb00wRHpZaVRvS0NMMHVWTkdXWFZkbk5kQ1dIZmhWYk5xNUpIRUFwZlpKTVo2Y2trRm5pWGZLSUZLOXdaM2gxdGtOdzRSY2sxbm5iZW94RVFFVDdEdzRtZXN6dHZrUnZiam00NWMyM0p4M2ZqQUl1WjRiT3JjZG9pZXNVcW5UX0tYcUVB?oc=5"
+      "title": "台股震盪不減ETF買氣！AI長線趨勢未變半導體商品資金力挺| 存股族愛ETF | 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90dXhhdndhaU1icnlCVVRuVWx3V05GZU5UZTA1Ri10TDNfWFV4Ti0tdWxwRFllSEJQTV9MeFpCdndpcEVKNk9tc1Y5T2YzVDVRWFNF?oc=5"
     }
   ]
 }
