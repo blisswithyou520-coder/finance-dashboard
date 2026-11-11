@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/11 18:22",
+  "updated_tw": "11/12 01:59",
   "taiwan": {
     "2330": {
       "price": 2395.0,
-      "change": 110.0,
-      "changePercent": 4.814
+      "change": 160.0,
+      "changePercent": 7.1588
     },
     "2454": {
       "price": 3990.0,
-      "change": 160.0,
-      "changePercent": 4.1775
+      "change": 265.0,
+      "changePercent": 7.1141
     },
     "2317": {
       "price": 242.0,
-      "change": 0.5,
-      "changePercent": 0.207
+      "change": 3.0,
+      "changePercent": 1.2552
     },
     "0050": {
       "price": 103.2,
-      "change": 3.5,
-      "changePercent": 3.5105
+      "change": 5.75,
+      "changePercent": 5.9005
     },
     "00878": {
       "price": 33.5,
-      "change": 0.55,
-      "changePercent": 1.6692
+      "change": 0.73,
+      "changePercent": 2.2276
     },
     "00919": {
       "price": 31.22,
-      "change": 0.32,
-      "changePercent": 1.0356
+      "change": 0.24,
+      "changePercent": 0.7747
     }
   },
   "us": {
     "NVDA": {
-      "price": 168.89,
-      "change": -9.78,
-      "changePercent": -5.4738
+      "price": 176.5901,
+      "change": 7.7001,
+      "changePercent": 4.5592
     },
     "AAPL": {
-      "price": 348.51,
-      "change": -2.18,
-      "changePercent": -0.6216
+      "price": 354.67,
+      "change": 6.16,
+      "changePercent": 1.7675
     },
     "TSLA": {
-      "price": 379.78,
-      "change": 1.73,
-      "changePercent": 0.4576
+      "price": 392.91,
+      "change": 13.13,
+      "changePercent": 3.4573
     },
     "QQQ": {
-      "price": 674.76,
-      "change": -4.59,
-      "changePercent": -0.6756
+      "price": 694.155,
+      "change": 19.395,
+      "changePercent": 2.8744
     },
     "SPY": {
-      "price": 749.92,
-      "change": -2.77,
-      "changePercent": -0.368
+      "price": 761.21,
+      "change": 11.29,
+      "changePercent": 1.5055
     },
     "SCHD": {
-      "price": 35.83,
-      "change": 0.18,
-      "changePercent": 0.5049
+      "price": 35.885,
+      "change": 0.055,
+      "changePercent": 0.1535
     },
     "VOO": {
-      "price": 689.5,
-      "change": -2.37,
-      "changePercent": -0.3425
+      "price": 699.77,
+      "change": 10.27,
+      "changePercent": 1.4895
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73839.67,
-      "change": 119.5528,
-      "changePercent": 0.1622
+      "price": 74441.89,
+      "change": 721.7728,
+      "changePercent": 0.9791
     },
     "ETH": {
-      "price": 2058.49,
-      "change": 8.3091,
-      "changePercent": 0.4053
+      "price": 2089.63,
+      "change": 39.4491,
+      "changePercent": 1.9242
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.848,
-      "change": 0.0594,
-      "changePercent": 0.1812
+      "price": 32.87,
+      "change": 0.0814,
+      "changePercent": 0.2483
     },
     "JPYTWD": {
-      "price": 0.2045,
-      "change": -0.003,
-      "changePercent": -1.4643
+      "price": 0.2035,
+      "change": -0.004,
+      "changePercent": -1.9461
     },
     "EURTWD": {
-      "price": 36.629,
-      "change": -0.1663,
-      "changePercent": -0.4521
+      "price": 36.52,
+      "change": -0.2753,
+      "changePercent": -0.7483
     },
     "CNYTWD": {
-      "price": 4.9301,
+      "price": 4.9328,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4059.0,
-    "twd": 4287.0,
-    "tael": 160750.0,
-    "twdTotal": 133330.0,
-    "changePercent": 0.7146
+    "usd": 4006.9,
+    "twd": 4234.0,
+    "tael": 158793.0,
+    "twdTotal": 131707.0,
+    "changePercent": -0.5781
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "【1111台股盤後】外資加權賣超急縮剩7億！盤面強烈產業分化，投信持續護盤鎖定投本比【愛普*】、【尖點】、【精測】 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxPMXBFdGRxNWNQNkppYm1EZF9jbVlxa1NpNzlIY2hOWjNyMmRJNVc3MkF5UzgzT1BNbzRZZDd1bHpHOW5QZlFsRUpaeVFvM1hWNTNWVjFhNV9RY0tIdGZUcWRfTVBFeGtiT1JkQ2FYXzlQQkJUNU9NWjJYbE5aRTB3VUNwWUg3QU90aTdEbkFRQWJpZlRhMjdOWkpRZFdjQkd0M1d3Rm5xVnlyWTZjcGpQclYtVXl1VnlGbWplUG5aS2oxNVhwOVBQRWlHZDZhcG5nWnJseFEtaXktcmFNWnBDM2hLazBlUzVyN25NdGttZHB2NER0ODhBQVAzTng3X3ZBQXBoY1B3RnpUUlUzUnpTU3A5TV9ZbS1qb0xkN0RDbU80aUVoWWRKYmRMa19JeWNCd0otQlpNaUpIY19nLVNfTVNPZlJuQmRtV1h5NzhLTkJnOFVlQ3NSOWtkRGthM3ZINGhwcmpYRnRuUXZZRWdWWmtqYklJTTJvVTBUcUVRXzRJN1FPeGIwWGE2WU15QmdEMWdPMFpLbXdxNzJDUzlqc3E2S05ncjNsc2RFU2k4WDZiYjFncXJ4SGdCRWg0ajlFYjg4cFNpTlBlOF9iVjYzaEhSZF9KZHVRQ2ZQLTViSHd6aDlmNG10MjRvMVlHSWFRU1B4VS1kRTE4aGpnYVpxRXRNdUVReTZlQnpGSmoxcXNjNHNGdVpkM0RlU0JPRnVDZFA5N3lmY3g5Y1I0S2hBTWNSYTI4WjR5Sk1EM0cxVzdwaEhYdWkta0NxUmVnbUdXWXVkVjctQXU5cU1JNEt0d2tHTjhGQkFUN2NBTlBR?oc=5"
+      "title": "【美股盤前1111】CPI高於預期為甚麼不用害怕？美股走勢無須過度悲觀？｜豐雲學堂2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxORDUwMmxWUnZYS2tvZ2ZlUWw1d1pyZFg3Z29SOVhYM1BzQ0xqX25zX3piMDVJaTlFVFBVSU16UmpEeURYNTFkMUpDYmN3eVo2R2w3YTFYUjFtR3Q1OTZGTGExMGZQMi1hSXN4VDdGY1dINUFUaHhLY3QwNnZNMFppX2djQThoQ3oyS2FrMUxCNDhjM0wyMU5vZFFlNndsWi1Ma2FhR3Z4bTJVeWc4VXBPWWlrM0Y0ak5QUERpSUJOYk85dWNnTXNQVGotNFk5bE1tTTRXdDhaeEpOT19PMnREWklUazQtV1QzQVJEbnl2V3RxaFNHWHlZYlZyWmRrS25mNmluQnJldDBiWTlGamxhcjNjcnphLW5MTXRDVndlREZXSDQxMTVqZmFZWXd5RHhiWHl5RjRFRUJFTFQyUHIwNXVTb1dVTEo0NFNzcFVQMWVOMlUyVTBlTnF3RnJRejFvZV9FZmpfay1McllWUEtmRzVKaFI3bGJNdzBiV0ZYVWdxWG5LeU5FYVRSdGpVcHZxV2xtQVpoTkNaMC00WDViZEdwc0J0dk5zTGxQdG9jSXN6VmFhNXQ3VmpNQ3JQVGc?oc=5"
     },
     {
-      "title": "不甩外資硬賣7億！台股狂飆1545創第六大漲點 股民笑：小兒賣不下去被嘎爛 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxOZ2lUQ0N0Ul9ZMEVNaXBuQ3JtYkpiS3VHRFJ3bXhzdXlCTHd5N3pWczlPdDNobjcxeW5GQ2VzZmJuNWdFSVdhTUZkVFJQVlBfWHlzT3ptVVBMMkxkY3kwZkZMaFNGN0EzRFRJRHl2NFRHRG1lY3pBeDBVVlpaNm8wZUhkZEdQbzNIcG0ySk9DVW9ENUFVbDNHTnhHT25pR2xSRTJINTRnaFcyUFE5MEFaY0VPcFRwcUtXYjFfaU1EQVhnX1NGUjBwSjEwZDliREhzQ0JjYXVtRzBJZVh1bzB6S01DblFram5sZ1FPa0xHMVpsaGFrUGc5U3lLMzhnSlVsdkNhM1N0N2lhQTk1NFlxYThISUdJWDZkREk1anFVUUhjaE9LLUY0RUVGVHdVc0l2TnNPUXY3SllFSjJpU1FNbzlWWldfR0p6TlRlNm54MExZQUhPVGZKYVVBQWpjWVdxb2VqWllEWmZBX0RqaHlrdkxzZ0Zieno2a3NfbzRVcWdVbjRxYTZJVHAwaUpBRnJzalRleVJtdmdRZ1Nlb1hha1AwWGNCazVfX2dGSDE5TGw0Z0xHQUh4NW9kUk05YUs0R0E?oc=5"
+      "title": "〈美股早盤〉CoreWeave財報助攻！那指領漲 台積電ADR漲逾4% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01cC1yVi1yVjcwOVB3endxVEpyZGpPeTJkbUdPSlF3b2JmQ1pVeGx2anRGMFFnNFVzMVF2NWpRNHZqbHdnVnJSWWt0X040Ums?oc=5"
+    },
+    {
+      "title": "台股明天要噴了？CoreWeave營收暴增168%點燃AI行情美股費半狂飆3.42%、台積電ADR也大漲3.40% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOdEJ5UWxKM1ItcERIV0RFX1p6X3lTU3daaGI2c3FNR29DZFpvV1BKUUNqRzdURko4ZzlSTWpDQjNTSS1zX3NIeVZfTnZESFMzUGIzdk9Va3ROWTQ5SHFKeGtWU1pPSVp4TUM4TUcwUkJIOHRoYjJvRkYtbzh2ODdhSUZkeWVKa3NIbW1LbjJBWUc4YVBsVnpOTGZ2eFh6RFAwOFlvWHRDMVp0QVJ3ZVBlRXVQQ2NrZDY4bWZLTHJNa2VMSjdXYVV0LXdEX0k5dDQ5X1pCSzVmWExhTF9fQVVjRElVbUNUdTlmVW40WGRvZEVpU3pJQUliZFpPT1pWbHZHNE1CZFNib3RhbmpCZU9mcE5PQTVEcTlzRktQU0pUQ3haeDhCT2NCT2lrRHJENS1hb08zV3FvbERjRDBhWU5YRUh4aVJObDUzZW5EaWZSX3AtVzY0Ykw0WkpYbHc3WkpQb2NRU3pXNXhHbVNrUHF3b3RNYw?oc=5"
     },
     {
       "title": "黃金慘跌！專家一句話曝「未來」 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FQWhoTU1OMmtTRzNzSHRwOW4zZ0xxSEYwQWt6bml6N1IxczBLYUVrRms0dmNGTDA4VDB3N1lDbDFZU3FuUGR1YTIwUnFybUNJckRQUVUtWC1OUl9rckhv0gFkQVVfeXFMTlViSFA4V3pDdUpKbm54cnFPWDNMZUFxbTZqM1J1ZGNJSmZJbzhDOFlaRXNTZ1p5QzRtZFRpejE5OWI5QTZmaHV3WXBrT095M2dCMDkyVzF4ZE5FeXhLaHcyU1hiNg?oc=5"
     },
     {
-      "title": "〈美股盤後〉美CPI超預期 12月升息兩碼機率升 四大指數盡墨 輝達再挫超5% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jSlpPSW4xTlpZSC1iT2hWck9xYmd3VlBNNW10bGhac2RaS3JYVW84OUw1NTFzc1pEdjE5cTBKYXlsNzM0Wmc4aTQ0VC1reTg?oc=5"
+      "title": "台股強彈後恐轉趨震盪宜審慎靈活操作 法人連買強勢股具領漲抗跌優勢 | 市場焦點 | 證券 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zQy1falcwZTBCNlYyMWtIdzB5X2MwaWJqSzd5WnpONmJFQUJTZUx2bWZSZnhBMzVNaUhCS1ZKQ19kQ3loTDVtbkptc0tnWE1aZmZjTm1jYTBaQQ?oc=5"
     },
     {
-      "title": "黃金反彈屢屢受阻，4000關口能守住嗎？策略師警告劇烈波動可 - 群益期貨",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHh6YzRYZGVUZGpIc1hjS0g3VTl2dERxYzBkN1l0OThUQW16dlFZRVJHT3ZLeHhXdkpxWndZOVFnT3BrWVFmZElHR3dsSmpkSTBxemZNUjlLek9kb1F4d2JSWXpaQ3pXYnc2eVNJbk4xVEZQelZJVDNpR2VaVS1HVWFfeW8wQ0MtemxrQUQ3VQ?oc=5"
+      "title": "比特幣跌破7.5萬美元、黃金同步走強，Peter Schiff稱這是賣出訊號 - BigGo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XVUtyX1p6NHl4SHltVkJ5a2xEZFJyVG1uX180SG43YmdvQXhoYzZ2U2VzQTZrY1U2dldFRlBDcTV3NTRGSHFsNE1BalV2ejFSMDBjRHNRUHRxMmMyV1BqWHhZLS0yeDVRbDRpVFFFaG9OeUZaajRvY25B?oc=5"
     },
     {
-      "title": "台股逐洞賽｜多方氣勢回升探針卡、玻纖布等族群資金青睐- 證券 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yM1pESWh1NVlpOElJZ3VyX1laZEFMNFUtclBKLW5xbjN4VGlndlFiQzhwT216WllGMWdTQndKOEdSajZfM3BueV9LZmJWRHFKZ05EakRTRDM1UzN6OVEw?oc=5"
+      "title": "【1111台股盤後】外資加權賣超急縮剩7億！盤面強烈產業分化，投信持續護盤鎖定投本比【愛普*】、【尖點】、【精測】 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxPMXBFdGRxNWNQNkppYm1EZF9jbVlxa1NpNzlIY2hOWjNyMmRJNVc3MkF5UzgzT1BNbzRZZDd1bHpHOW5QZlFsRUpaeVFvM1hWNTNWVjFhNV9RY0tIdGZUcWRfTVBFeGtiT1JkQ2FYXzlQQkJUNU9NWjJYbE5aRTB3VUNwWUg3QU90aTdEbkFRQWJpZlRhMjdOWkpRZFdjQkd0M1d3Rm5xVnlyWTZjcGpQclYtVXl1VnlGbWplUG5aS2oxNVhwOVBQRWlHZDZhcG5nWnJseFEtaXktcmFNWnBDM2hLazBlUzVyN25NdGttZHB2NER0ODhBQVAzTng3X3ZBQXBoY1B3RnpUUlUzUnpTU3A5TV9ZbS1qb0xkN0RDbU80aUVoWWRKYmRMa19JeWNCd0otQlpNaUpIY19nLVNfTVNPZlJuQmRtV1h5NzhLTkJnOFVlQ3NSOWtkRGthM3ZINGhwcmpYRnRuUXZZRWdWWmtqYklJTTJvVTBUcUVRXzRJN1FPeGIwWGE2WU15QmdEMWdPMFpLbXdxNzJDUzlqc3E2S05ncjNsc2RFU2k4WDZiYjFncXJ4SGdCRWg0ajlFYjg4cFNpTlBlOF9iVjYzaEhSZF9KZHVRQ2ZQLTViSHd6aDlmNG10MjRvMVlHSWFRU1B4VS1kRTE4aGpnYVpxRXRNdUVReTZlQnpGSmoxcXNjNHNGdVpkM0RlU0JPRnVDZFA5N3lmY3g5Y1I0S2hBTWNSYTI4WjR5Sk1EM0cxVzdwaEhYdWkta0NxUmVnbUdXWXVkVjctQXU5cU1JNEt0d2tHTjhGQkFUN2NBTlBR?oc=5"
     },
     {
-      "title": "台股連三日飆千點、外資續賣7億元 三大法人土洋對作買超202.56億元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPcy1ITXRPMzluUjk2LWk4Z3JMbnVOTHFPWnRlcmJsaVhTeG5XSXp3TmMxWWpzZlhOTEpIbTRuVzhjdzl0OWtYZDN5UzhzclhNamhXOGpKd25HNHBDWHZrTEdPT0xrVVQwcFVEbko0N3VlUC1GQ2ZSa00wM3Uyc0NDZm96dmVvRmlSUmFzaWRJaWNWSW9YSHNicG5sYTRfVUU3OFg2UTMzRG9UeGRXMkhEdVRadGh6Q0FHOFJvSmhLUDY4RTBleWpSXzRYNkVLbk9DcDV3Y2RscGxsakZDa1JpYVJCcVMzSFZQbUVzMk5IZ2hrRFpicmVaZW9QLUY4TFJiV2oyMi1BMFlZanhWd0stbGVjdk9TX1lJWnNUQjF4eG1qdFdFZ3hUSGpySE9PcHU5ZWl4Mk96Mi10NHFNVzlFN0dHRUFpQmxLay1CU0ZDZTFZZmpUZlg2MkgzcWZRNjY5bjFvVGU5Q09Ha3pnUWN4NUxmUlFRZ2hjeFBhQkVBWXA1NDlNSXNkQVRXX2phelhwR1ZzeEZMRFhiRk1FSXgw?oc=5"
-    },
-    {
-      "title": "美股收盤》升息機率提高、輝達再挫5.47％ 美股收黑 台積電ADR漲2.02％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oZVB2VEctNHNCckYxWmtyRmZUcEt3Z24zNGVwdUFNb21xRS0yTVVmaGtHY1FzQWFaUWt1b3EyX3AtSWVFR2pvZlhhTXNYU2pMVU9lUWR6OTZmS0MwNkZB0gFkQVVfeXFMTmNxYWRwczU0V0xzTTZvclVaZHZsNHg5elJhbEFWb3VXM3QzY2c3SGdJTmFhT0tFWUNOc09IVVNTUTNHekd6S08yemxGSDZnUmJWSml4UFM0cFc4dUc2aU9CQi1BSA?oc=5"
+      "title": "電商、資服業個資保護注意「黃金72小時」 林宜敬呼籲漏洞更新不能等 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOSjY1LTg0U3FuTnI2NFZ6anZZMVZ6djRFbTQyNmJJS1AzT2pCXy1tQUdTVndZLXJzVEE2OG1UWk5QbnlRQjNBYVJELWhFdk9vOTFCMkZDQVViR3g4QTJlc0tSZGZaZ2k0RFlZMnMwUWdpaVl1X2NqczUzQmhiWERWNnFMdWJoelVnWXQzMjFiN3JDd25GS0hzdmRyYlpTMkx5TEZLYWNvTUd6REZ3eDlPZzFicGpVQkszQ0pYNWFaRDN2VVJRaDgteU9vTGgzQ3ZCVWEtd1RRa29NbERyUzhvT1ZuNnowdTVqamdLZ3picnZ6Y2E2Vl82aVYyRG1iN3cwckhlWFZ3OFFBOGZBZ1U1d2RWdHRwTGwyWWZIZ2VfaDhsYVJTWU53cHRScjVud2dreVNSSzNrc2F5THdndDNLbkNDU09tekpxbFNnUGhlNS1qM3FaSG1VZmw0Z1RSWC1IXzJhdXMtaTdRcjB1OUtfUU11RXpvT1dVWkNiNU5SMDJuTTB5TlRkbGtnX0V4bU5zekd1Um1DOGwzVWpVQTFpUElfa2VmUQ?oc=5"
     }
   ]
 }
