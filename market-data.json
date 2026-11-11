@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/11 10:55",
+  "updated_tw": "11/11 18:22",
   "taiwan": {
     "2330": {
-      "price": 2355.0,
-      "change": 70.0,
-      "changePercent": 3.0635
+      "price": 2395.0,
+      "change": 110.0,
+      "changePercent": 4.814
     },
     "2454": {
-      "price": 3885.0,
-      "change": 55.0,
-      "changePercent": 1.436
+      "price": 3990.0,
+      "change": 160.0,
+      "changePercent": 4.1775
     },
     "2317": {
-      "price": 240.5,
-      "change": -1.0,
-      "changePercent": -0.4141
+      "price": 242.0,
+      "change": 0.5,
+      "changePercent": 0.207
     },
     "0050": {
-      "price": 101.8,
-      "change": 4.35,
-      "changePercent": 4.4638
+      "price": 103.2,
+      "change": 3.5,
+      "changePercent": 3.5105
     },
     "00878": {
-      "price": 33.18,
-      "change": 0.41,
-      "changePercent": 1.2511
+      "price": 33.5,
+      "change": 0.55,
+      "changePercent": 1.6692
     },
     "00919": {
-      "price": 30.98,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": 31.22,
+      "change": 0.32,
+      "changePercent": 1.0356
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73527.43,
-      "change": -1695.7184,
-      "changePercent": -2.2543
+      "price": 73839.67,
+      "change": 119.5528,
+      "changePercent": 0.1622
     },
     "ETH": {
-      "price": 2056.53,
-      "change": -74.9685,
-      "changePercent": -3.5172
+      "price": 2058.49,
+      "change": 8.3091,
+      "changePercent": 0.4053
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.871,
-      "change": 0.0824,
-      "changePercent": 0.2513
+      "price": 32.848,
+      "change": 0.0594,
+      "changePercent": 0.1812
     },
     "JPYTWD": {
-      "price": 0.2048,
-      "change": -0.0027,
-      "changePercent": -1.3198
+      "price": 0.2045,
+      "change": -0.003,
+      "changePercent": -1.4643
     },
     "EURTWD": {
-      "price": 36.738,
-      "change": -0.0573,
-      "changePercent": -0.1558
+      "price": 36.629,
+      "change": -0.1663,
+      "changePercent": -0.4521
     },
     "CNYTWD": {
-      "price": 4.9318,
+      "price": 4.9301,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4053.5,
-    "twd": 4284.0,
-    "tael": 160644.0,
-    "twdTotal": 133243.0,
-    "changePercent": -1.4826
+    "usd": 4059.0,
+    "twd": 4287.0,
+    "tael": 160750.0,
+    "twdTotal": 133330.0,
+    "changePercent": 0.7146
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股收盤／四大指數收低 輝達再跌5%拖累科技股 CPI數據推高升息預期 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92dXFlYjdYazFsZHNMYnk3WTZxai1pRG9uaU9UZTd5YVBPNnQxa2wxWEJISmtPdk1EUlpnQUJvR0ZKQWRYUklsYjJSNXFCYUVvbmxDZ1hSbzQxX0FT0gFiQVVfeXFMTjVhdUtTdGlLd1Zpd0owVG1BaEE2YzBJRTdfSF85cUk3OXVIaWVDSHFuWkE1VjNncU1abjUxR0JUVHhVMm0tLVBBRTVrT0xVV2ZDU2p3S21ZaXZjQ2lUSmlJTVE?oc=5"
+      "title": "【1111台股盤後】外資加權賣超急縮剩7億！盤面強烈產業分化，投信持續護盤鎖定投本比【愛普*】、【尖點】、【精測】 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxPMXBFdGRxNWNQNkppYm1EZF9jbVlxa1NpNzlIY2hOWjNyMmRJNVc3MkF5UzgzT1BNbzRZZDd1bHpHOW5QZlFsRUpaeVFvM1hWNTNWVjFhNV9RY0tIdGZUcWRfTVBFeGtiT1JkQ2FYXzlQQkJUNU9NWjJYbE5aRTB3VUNwWUg3QU90aTdEbkFRQWJpZlRhMjdOWkpRZFdjQkd0M1d3Rm5xVnlyWTZjcGpQclYtVXl1VnlGbWplUG5aS2oxNVhwOVBQRWlHZDZhcG5nWnJseFEtaXktcmFNWnBDM2hLazBlUzVyN25NdGttZHB2NER0ODhBQVAzTng3X3ZBQXBoY1B3RnpUUlUzUnpTU3A5TV9ZbS1qb0xkN0RDbU80aUVoWWRKYmRMa19JeWNCd0otQlpNaUpIY19nLVNfTVNPZlJuQmRtV1h5NzhLTkJnOFVlQ3NSOWtkRGthM3ZINGhwcmpYRnRuUXZZRWdWWmtqYklJTTJvVTBUcUVRXzRJN1FPeGIwWGE2WU15QmdEMWdPMFpLbXdxNzJDUzlqc3E2S05ncjNsc2RFU2k4WDZiYjFncXJ4SGdCRWg0ajlFYjg4cFNpTlBlOF9iVjYzaEhSZF9KZHVRQ2ZQLTViSHd6aDlmNG10MjRvMVlHSWFRU1B4VS1kRTE4aGpnYVpxRXRNdUVReTZlQnpGSmoxcXNjNHNGdVpkM0RlU0JPRnVDZFA5N3lmY3g5Y1I0S2hBTWNSYTI4WjR5Sk1EM0cxVzdwaEhYdWkta0NxUmVnbUdXWXVkVjctQXU5cU1JNEt0d2tHTjhGQkFUN2NBTlBR?oc=5"
     },
     {
-      "title": "台股開盤怎麼走？美股全黑拖累 台指期夜盤跌百點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOenY4NFR4bkZrTG9HT09GNU15SXY5UHdBYWVVc09iREdUVHE1eVZxbURaNEJnbFhnVkIyNnpnSF9EejUtNlg4ZWtxZEczY1BYMm9Qb25HZjBxVVcwdC05RnhIcGptcmZJbXg1VVNqd0g2WTVqemtjbm4xSEdlRTBuUHBxczk1R0JRZWt1dFJUX3BzUUNGRE9jZmNxZmZmVGg0ZVk2X3JlaEROYWFhNjExWl93b3hORlpkSTcyWXQ2d205a1BabXRxcUozR0R2Wnk4ejJNSTNFZUNqbG10M0F2bnlwaW10QzVDanBIMDNvbE1JVWNkRzZtRXlrNll3dFZxVTk1UlBmLTRFbDFJWDJxM3o1dWVQdl95RE8yLVlEUVY5Q3JadnBXSXZ6cmhzdG1rNzA0QUYzcVJZNjg1LVdObHV5cENGQ1g1dTRWUFpBTkpJVENuamktaDRR?oc=5"
+      "title": "不甩外資硬賣7億！台股狂飆1545創第六大漲點 股民笑：小兒賣不下去被嘎爛 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxOZ2lUQ0N0Ul9ZMEVNaXBuQ3JtYkpiS3VHRFJ3bXhzdXlCTHd5N3pWczlPdDNobjcxeW5GQ2VzZmJuNWdFSVdhTUZkVFJQVlBfWHlzT3ptVVBMMkxkY3kwZkZMaFNGN0EzRFRJRHl2NFRHRG1lY3pBeDBVVlpaNm8wZUhkZEdQbzNIcG0ySk9DVW9ENUFVbDNHTnhHT25pR2xSRTJINTRnaFcyUFE5MEFaY0VPcFRwcUtXYjFfaU1EQVhnX1NGUjBwSjEwZDliREhzQ0JjYXVtRzBJZVh1bzB6S01DblFram5sZ1FPa0xHMVpsaGFrUGc5U3lLMzhnSlVsdkNhM1N0N2lhQTk1NFlxYThISUdJWDZkREk1anFVUUhjaE9LLUY0RUVGVHdVc0l2TnNPUXY3SllFSjJpU1FNbzlWWldfR0p6TlRlNm54MExZQUhPVGZKYVVBQWpjWVdxb2VqWllEWmZBX0RqaHlrdkxzZ0Zieno2a3NfbzRVcWdVbjRxYTZJVHAwaUpBRnJzalRleVJtdmdRZ1Nlb1hha1AwWGNCazVfX2dGSDE5TGw0Z0xHQUh4NW9kUk05YUs0R0E?oc=5"
     },
     {
-      "title": "美股收盤》升息機率提高、輝達再挫5.47％ 美股收黑 台積電ADR漲2.02％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oZVB2VEctNHNCckYxWmtyRmZUcEt3Z24zNGVwdUFNb21xRS0yTVVmaGtHY1FzQWFaUWt1b3EyX3AtSWVFR2pvZlhhTXNYU2pMVU9lUWR6OTZmS0MwNkZB0gFkQVVfeXFMTmNxYWRwczU0V0xzTTZvclVaZHZsNHg5elJhbEFWb3VXM3QzY2c3SGdJTmFhT0tFWUNOc09IVVNTUTNHekd6S08yemxGSDZnUmJWSml4UFM0cFc4dUc2aU9CQi1BSA?oc=5"
+      "title": "黃金慘跌！專家一句話曝「未來」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FQWhoTU1OMmtTRzNzSHRwOW4zZ0xxSEYwQWt6bml6N1IxczBLYUVrRms0dmNGTDA4VDB3N1lDbDFZU3FuUGR1YTIwUnFybUNJckRQUVUtWC1OUl9rckhv0gFkQVVfeXFMTlViSFA4V3pDdUpKbm54cnFPWDNMZUFxbTZqM1J1ZGNJSmZJbzhDOFlaRXNTZ1p5QzRtZFRpejE5OWI5QTZmaHV3WXBrT095M2dCMDkyVzF4ZE5FeXhLaHcyU1hiNg?oc=5"
     },
     {
       "title": "〈美股盤後〉美CPI超預期 12月升息兩碼機率升 四大指數盡墨 輝達再挫超5% - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jSlpPSW4xTlpZSC1iT2hWck9xYmd3VlBNNW10bGhac2RaS3JYVW84OUw1NTFzc1pEdjE5cTBKYXlsNzM0Wmc4aTQ0VC1reTg?oc=5"
     },
     {
-      "title": "黃仁勳外遇拖累科技股！美股4指數收黑　台指期夜盤跌124點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DYXBYVndwTWRkaXFodnJoYWd5ODd0Rk52ZHMwRlZGSnh4M0dOeUFZLVh5RkNpLXR5aW5seXJUNXJKSUd2ZDViSjhGT2prWjhyN3fSAVBBVV95cUxPb1F2WVhxN21wSGhPMGdHQ2VYbnJBbUNJemtlX0owUGQwQW4wMTZhdEVlcmlQdVI0YmU2c1U2SllFQ3Fod19qSDZxNjU0c2Q0Mg?oc=5"
+      "title": "黃金反彈屢屢受阻，4000關口能守住嗎？策略師警告劇烈波動可 - 群益期貨",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHh6YzRYZGVUZGpIc1hjS0g3VTl2dERxYzBkN1l0OThUQW16dlFZRVJHT3ZLeHhXdkpxWndZOVFnT3BrWVFmZElHR3dsSmpkSTBxemZNUjlLek9kb1F4d2JSWXpaQ3pXYnc2eVNJbk4xVEZQelZJVDNpR2VaVS1HVWFfeW8wQ0MtemxrQUQ3VQ?oc=5"
     },
     {
-      "title": "黃金礦業槓桿型 ETF 飆漲逾 16% 美股漲跌互見 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQRTBxWHhTbHphV0xxX3NBbDZvZmczeWNtN3UtOWpDU1BJVThoM0s0OVJqOW82SzJVbW43eTN0bW1LVVgtSkMzTEdnMXR6dlUyZ0NoT1RNVWprdEpXZmVQV2pwZ3YxUVVEeFN2SXJIM0xWc2RVdGp3THVIMWxGZV9xMk9XTlhETHc4cVh0ZnU3S1lTY1dJMlhmblQwS0VpWVFsa0dmLXZldy1ISDJRRy1HOFdrR1dWREM5UHduRTZNaWRsN1Ffb19QVWVBbVVFV2NzQ2lpa20xeThSaWRwWG5YazNkamZxbm1HdGZHSWFJYUU1N1plNXJuWDE1RWFLMHMzcVJDYmZ1QllmUE9Pc1lGZWR1dDhTTkZpM1JHQUZiczFVTUR4UnpV?oc=5"
+      "title": "台股逐洞賽｜多方氣勢回升探針卡、玻纖布等族群資金青睐- 證券 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yM1pESWh1NVlpOElJZ3VyX1laZEFMNFUtclBKLW5xbjN4VGlndlFiQzhwT216WllGMWdTQndKOEdSajZfM3BueV9LZmJWRHFKZ05EakRTRDM1UzN6OVEw?oc=5"
     },
     {
-      "title": "〈美股早盤〉才反彈兩天又遇賣壓！CPI超預期 主要指數開低、科技股領跌 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSelUzTTdjeURWQ29DaWdZYW9vd1ZwSms3WGltMnY4RnplRFphTS1HZW1QYjNZQkJFRm1Qb0lVMkpPRkQ1cE5ZaGJ1RXlWWm8?oc=5"
+      "title": "台股連三日飆千點、外資續賣7億元 三大法人土洋對作買超202.56億元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPcy1ITXRPMzluUjk2LWk4Z3JMbnVOTHFPWnRlcmJsaVhTeG5XSXp3TmMxWWpzZlhOTEpIbTRuVzhjdzl0OWtYZDN5UzhzclhNamhXOGpKd25HNHBDWHZrTEdPT0xrVVQwcFVEbko0N3VlUC1GQ2ZSa00wM3Uyc0NDZm96dmVvRmlSUmFzaWRJaWNWSW9YSHNicG5sYTRfVUU3OFg2UTMzRG9UeGRXMkhEdVRadGh6Q0FHOFJvSmhLUDY4RTBleWpSXzRYNkVLbk9DcDV3Y2RscGxsakZDa1JpYVJCcVMzSFZQbUVzMk5IZ2hrRFpicmVaZW9QLUY4TFJiV2oyMi1BMFlZanhWd0stbGVjdk9TX1lJWnNUQjF4eG1qdFdFZ3hUSGpySE9PcHU5ZWl4Mk96Mi10NHFNVzlFN0dHRUFpQmxLay1CU0ZDZTFZZmpUZlg2MkgzcWZRNjY5bjFvVGU5Q09Ha3pnUWN4NUxmUlFRZ2hjeFBhQkVBWXA1NDlNSXNkQVRXX2phelhwR1ZzeEZMRFhiRk1FSXgw?oc=5"
     },
     {
-      "title": "美股早盤／費半摔1.5%！分析師：黃仁勳若離職輝達價值恐減三成| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jTVNCMENhajRJczg2bkVMZ2NGTGs4VWNYVzE1XzZOd3pRNlBLTmxQenZBY3JIS0wyc0t5TUd1Z2p5U1JWdzh3Q2lZeElacW56?oc=5"
+      "title": "美股收盤》升息機率提高、輝達再挫5.47％ 美股收黑 台積電ADR漲2.02％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oZVB2VEctNHNCckYxWmtyRmZUcEt3Z24zNGVwdUFNb21xRS0yTVVmaGtHY1FzQWFaUWt1b3EyX3AtSWVFR2pvZlhhTXNYU2pMVU9lUWR6OTZmS0MwNkZB0gFkQVVfeXFMTmNxYWRwczU0V0xzTTZvclVaZHZsNHg5elJhbEFWb3VXM3QzY2c3SGdJTmFhT0tFWUNOc09IVVNTUTNHekd6S08yemxGSDZnUmJWSml4UFM0cFc4dUc2aU9CQi1BSA?oc=5"
     }
   ]
 }
