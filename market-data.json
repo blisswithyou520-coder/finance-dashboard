@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/11 07:20",
+  "updated_tw": "11/11 10:55",
   "taiwan": {
     "2330": {
-      "price": 2285.0,
-      "change": 50.0,
-      "changePercent": 2.2371
+      "price": 2355.0,
+      "change": 70.0,
+      "changePercent": 3.0635
     },
     "2454": {
-      "price": 3830.0,
-      "change": 105.0,
-      "changePercent": 2.8188
+      "price": 3885.0,
+      "change": 55.0,
+      "changePercent": 1.436
     },
     "2317": {
-      "price": 241.5,
-      "change": 2.5,
-      "changePercent": 1.046
+      "price": 240.5,
+      "change": -1.0,
+      "changePercent": -0.4141
     },
     "0050": {
-      "price": 99.7,
-      "change": 7.2,
-      "changePercent": 7.7838
+      "price": 101.8,
+      "change": 4.35,
+      "changePercent": 4.4638
     },
     "00878": {
-      "price": 32.95,
-      "change": 0.96,
-      "changePercent": 3.0009
+      "price": 33.18,
+      "change": 0.41,
+      "changePercent": 1.2511
     },
     "00919": {
-      "price": 30.9,
-      "change": 0.76,
-      "changePercent": 2.5216
+      "price": 30.98,
+      "change": 0.0,
+      "changePercent": 0.0
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73658.88,
-      "change": -1564.2684,
-      "changePercent": -2.0795
+      "price": 73527.43,
+      "change": -1695.7184,
+      "changePercent": -2.2543
     },
     "ETH": {
-      "price": 2049.46,
-      "change": -82.0385,
-      "changePercent": -3.8489
+      "price": 2056.53,
+      "change": -74.9685,
+      "changePercent": -3.5172
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.937,
-      "change": 0.1767,
-      "changePercent": 0.5394
+      "price": 32.871,
+      "change": 0.0824,
+      "changePercent": 0.2513
     },
     "JPYTWD": {
-      "price": 0.2053,
-      "change": -0.0014,
-      "changePercent": -0.6999
+      "price": 0.2048,
+      "change": -0.0027,
+      "changePercent": -1.3198
     },
     "EURTWD": {
-      "price": 36.824,
-      "change": 1.289,
-      "changePercent": 3.6274
+      "price": 36.738,
+      "change": -0.0573,
+      "changePercent": -0.1558
     },
     "CNYTWD": {
-      "price": 4.9359,
+      "price": 4.9318,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4042.0,
-    "twd": 4280.0,
-    "tael": 160510.0,
-    "twdTotal": 133131.0,
-    "changePercent": -1.7621
+    "usd": 4053.5,
+    "twd": 4284.0,
+    "tael": 160644.0,
+    "twdTotal": 133243.0,
+    "changePercent": -1.4826
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,24 +117,8 @@
   },
   "news": [
     {
-      "title": "黃仁勳外遇拖累科技股！美股4指數收黑　台指期夜盤跌124點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DYXBYVndwTWRkaXFodnJoYWd5ODd0Rk52ZHMwRlZGSnh4M0dOeUFZLVh5RkNpLXR5aW5seXJUNXJKSUd2ZDViSjhGT2prWjhyN3fSAVBBVV95cUxPb1F2WVhxN21wSGhPMGdHQ2VYbnJBbUNJemtlX0owUGQwQW4wMTZhdEVlcmlQdVI0YmU2c1U2SllFQ3Fod19qSDZxNjU0c2Q0Mg?oc=5"
-    },
-    {
-      "title": "〈美股早盤〉才反彈兩天又遇賣壓！CPI超預期 主要指數開低、科技股領跌 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSelUzTTdjeURWQ29DaWdZYW9vd1ZwSms3WGltMnY4RnplRFphTS1HZW1QYjNZQkJFRm1Qb0lVMkpPRkQ1cE5ZaGJ1RXlWWm8?oc=5"
-    },
-    {
-      "title": "金十數據全球財經早餐 | 2026年11月11日 - 群益期貨",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSHBOdm9sdDB4ak9DM1Q3WUlNM0NpbHI5OVV2MENoTjdhUUFUa3FMOW1BdC03N3V0LVhFTFkyWDlFUnVtSktPNnZSbnVPS04zS1RSVUtCcXFyNE5McFVueFRtT21RWi1SSEplMjlTUTEtMW4wMjRpQlVhMTBTZXJIYTZoY1ZLUzdCMkR2OTJXQQ?oc=5"
-    },
-    {
-      "title": "快新聞／升息疑慮升溫！美股四大指數全面下跌 費半跌破萬點 - 民視財經網",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oRVB1OU9nZGlTeGVIT3dhMW5mUXRxME9ZWG4yNi1wemJJYnBLUDdjaG9KS1hHZU15YVVZRGw1RC01c05TeU5ncmV5VFFaazY5dlY5ZkR0M1FmS19Gd0hVY2Vpcnpqdw?oc=5"
-    },
-    {
-      "title": "美股年底還有最後一波反攻？高盛示警3大支柱轉弱明年淨供給恐創2000年來新高- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15RnZCblZjSy1Ubzd3S0VRY2lOVXVqUHRDa1pZZ29HalQwNlFCdzJKbWdHY1I5MnVyWUJ0UXBoUGxxV0Jyd0dBcUNrNEtiZ1lmdi1JYnhBM2N3YUo3Tk1V?oc=5"
+      "title": "美股收盤／四大指數收低 輝達再跌5%拖累科技股 CPI數據推高升息預期 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92dXFlYjdYazFsZHNMYnk3WTZxai1pRG9uaU9UZTd5YVBPNnQxa2wxWEJISmtPdk1EUlpnQUJvR0ZKQWRYUklsYjJSNXFCYUVvbmxDZ1hSbzQxX0FT0gFiQVVfeXFMTjVhdUtTdGlLd1Zpd0owVG1BaEE2YzBJRTdfSF85cUk3OXVIaWVDSHFuWkE1VjNncU1abjUxR0JUVHhVMm0tLVBBRTVrT0xVV2ZDU2p3S21ZaXZjQ2lUSmlJTVE?oc=5"
     },
     {
       "title": "台股開盤怎麼走？美股全黑拖累 台指期夜盤跌百點 - Yahoo股市",
@@ -145,8 +129,24 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oZVB2VEctNHNCckYxWmtyRmZUcEt3Z24zNGVwdUFNb21xRS0yTVVmaGtHY1FzQWFaUWt1b3EyX3AtSWVFR2pvZlhhTXNYU2pMVU9lUWR6OTZmS0MwNkZB0gFkQVVfeXFMTmNxYWRwczU0V0xzTTZvclVaZHZsNHg5elJhbEFWb3VXM3QzY2c3SGdJTmFhT0tFWUNOc09IVVNTUTNHekd6S08yemxGSDZnUmJWSml4UFM0cFc4dUc2aU9CQi1BSA?oc=5"
     },
     {
-      "title": "台股震盪不減ETF買氣！AI長線趨勢未變半導體商品資金力挺| 存股族愛ETF | 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90dXhhdndhaU1icnlCVVRuVWx3V05GZU5UZTA1Ri10TDNfWFV4Ti0tdWxwRFllSEJQTV9MeFpCdndpcEVKNk9tc1Y5T2YzVDVRWFNF?oc=5"
+      "title": "〈美股盤後〉美CPI超預期 12月升息兩碼機率升 四大指數盡墨 輝達再挫超5% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jSlpPSW4xTlpZSC1iT2hWck9xYmd3VlBNNW10bGhac2RaS3JYVW84OUw1NTFzc1pEdjE5cTBKYXlsNzM0Wmc4aTQ0VC1reTg?oc=5"
+    },
+    {
+      "title": "黃仁勳外遇拖累科技股！美股4指數收黑　台指期夜盤跌124點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DYXBYVndwTWRkaXFodnJoYWd5ODd0Rk52ZHMwRlZGSnh4M0dOeUFZLVh5RkNpLXR5aW5seXJUNXJKSUd2ZDViSjhGT2prWjhyN3fSAVBBVV95cUxPb1F2WVhxN21wSGhPMGdHQ2VYbnJBbUNJemtlX0owUGQwQW4wMTZhdEVlcmlQdVI0YmU2c1U2SllFQ3Fod19qSDZxNjU0c2Q0Mg?oc=5"
+    },
+    {
+      "title": "黃金礦業槓桿型 ETF 飆漲逾 16% 美股漲跌互見 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQRTBxWHhTbHphV0xxX3NBbDZvZmczeWNtN3UtOWpDU1BJVThoM0s0OVJqOW82SzJVbW43eTN0bW1LVVgtSkMzTEdnMXR6dlUyZ0NoT1RNVWprdEpXZmVQV2pwZ3YxUVVEeFN2SXJIM0xWc2RVdGp3THVIMWxGZV9xMk9XTlhETHc4cVh0ZnU3S1lTY1dJMlhmblQwS0VpWVFsa0dmLXZldy1ISDJRRy1HOFdrR1dWREM5UHduRTZNaWRsN1Ffb19QVWVBbVVFV2NzQ2lpa20xeThSaWRwWG5YazNkamZxbm1HdGZHSWFJYUU1N1plNXJuWDE1RWFLMHMzcVJDYmZ1QllmUE9Pc1lGZWR1dDhTTkZpM1JHQUZiczFVTUR4UnpV?oc=5"
+    },
+    {
+      "title": "〈美股早盤〉才反彈兩天又遇賣壓！CPI超預期 主要指數開低、科技股領跌 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSelUzTTdjeURWQ29DaWdZYW9vd1ZwSms3WGltMnY4RnplRFphTS1HZW1QYjNZQkJFRm1Qb0lVMkpPRkQ1cE5ZaGJ1RXlWWm8?oc=5"
+    },
+    {
+      "title": "美股早盤／費半摔1.5%！分析師：黃仁勳若離職輝達價值恐減三成| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jTVNCMENhajRJczg2bkVMZ2NGTGs4VWNYVzE1XzZOd3pRNlBLTmxQenZBY3JIS0wyc0t5TUd1Z2p5U1JWdzh3Q2lZeElacW56?oc=5"
     }
   ]
 }
