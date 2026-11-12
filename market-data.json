@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/13 00:16",
+  "updated_tw": "11/13 06:23",
   "taiwan": {
     "2330": {
       "price": 2340.0,
-      "change": 55.0,
-      "changePercent": 2.407
+      "change": -55.0,
+      "changePercent": -2.2965
     },
     "2454": {
       "price": 3850.0,
-      "change": 20.0,
-      "changePercent": 0.5222
+      "change": -140.0,
+      "changePercent": -3.5088
     },
     "2317": {
       "price": 240.0,
-      "change": -1.5,
-      "changePercent": -0.6211
+      "change": -2.0,
+      "changePercent": -0.8264
     },
     "0050": {
       "price": 100.95,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 166.008,
-      "change": -7.722,
-      "changePercent": -4.4448
+      "price": 166.19,
+      "change": -7.54,
+      "changePercent": -4.3401
     },
     "AAPL": {
-      "price": 357.98,
-      "change": 2.35,
-      "changePercent": 0.6608
+      "price": 354.88,
+      "change": -0.75,
+      "changePercent": -0.2109
     },
     "TSLA": {
-      "price": 391.48,
-      "change": 0.64,
-      "changePercent": 0.1638
+      "price": 397.45,
+      "change": 6.61,
+      "changePercent": 1.6912
     },
     "QQQ": {
-      "price": 693.36,
-      "change": 2.98,
-      "changePercent": 0.4316
+      "price": 688.17,
+      "change": -2.21,
+      "changePercent": -0.3201
     },
     "SPY": {
-      "price": 762.18,
-      "change": 2.37,
-      "changePercent": 0.3119
+      "price": 757.12,
+      "change": -2.69,
+      "changePercent": -0.354
     },
     "SCHD": {
-      "price": 36.12,
-      "change": 0.1,
-      "changePercent": 0.2776
+      "price": 35.93,
+      "change": -0.09,
+      "changePercent": -0.2499
     },
     "VOO": {
-      "price": 700.64,
-      "change": 2.29,
-      "changePercent": 0.3279
+      "price": 696.0,
+      "change": -2.35,
+      "changePercent": -0.3365
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71790.6,
-      "change": -2173.8687,
-      "changePercent": -2.9391
+      "price": 71372.66,
+      "change": -2591.8087,
+      "changePercent": -3.5041
     },
     "ETH": {
-      "price": 2009.56,
-      "change": -46.3162,
-      "changePercent": -2.2529
+      "price": 2011.75,
+      "change": -44.1262,
+      "changePercent": -2.1463
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.98,
-      "change": 0.0262,
-      "changePercent": 0.0795
+      "price": 32.947,
+      "change": -0.0068,
+      "changePercent": -0.0206
     },
     "JPYTWD": {
-      "price": 0.204,
-      "change": -0.0036,
-      "changePercent": -1.7478
+      "price": 0.2039,
+      "change": -0.0037,
+      "changePercent": -1.796
     },
     "EURTWD": {
-      "price": 36.53,
-      "change": -0.2751,
-      "changePercent": -0.7474
+      "price": 36.466,
+      "change": -0.3391,
+      "changePercent": -0.9213
     },
     "CNYTWD": {
-      "price": 4.947,
+      "price": 4.9463,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3880.2,
-    "twd": 4114.0,
-    "tael": 154286.0,
-    "twdTotal": 127969.0,
-    "changePercent": -3.0071
+    "usd": 3881.7,
+    "twd": 4112.0,
+    "tael": 154191.0,
+    "twdTotal": 127890.0,
+    "changePercent": -2.9696
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPRWhuNUlrYm9IeHpnVExXdENUWTJXeFlGZk1lSjZkdGs4bjhGeGJ4RThnRHBXMXFITVNKb2ZQM1BSMXZRdU1heHJiMEc5emlnTGNoUE1OaUtGaExlbG5GZHJuRDRtQUkwa3prTHdRLU10R2ctRUFEaGFydG9mbkdtYTJiSFQyUkhlWUg2RzJLdEdsN3Vla25SRTdnQU5XTTNocy1taDZIMlNBRjFscFZ5TnNsRy1keXhDYXk2SHkyeFhabzJ2c3FPNjNVeURHSzAyc0MtUEJET1ZCZFdONEZmM1NadDQ0NndIaTYyc1NvSVZtUTdLOUdTNWQzWWdMc2FrLTZ3R3Zaa1NGNFdOWXNIUWw1T01tMW8wS0FHRWl1X09FTjlHOUVOTTQ5Q1RkSlYtQUdFS2drdUdmbjA0bVo4a2hPbXFlSmZNUm83Y2dTZnhWT0F1elMtd1Y3bjk1NXFVTTRzbA?oc=5"
     },
     {
-      "title": "Nebius美股盘前跌超20% - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XakZES1FwQXY4NHFRNkhIRFNTXzdDVGFEN090QWlZQWswbnYyOWUtM0RMaW9kd3U4bGE2TU5aajRwRFZTNjhlb0ZTMjhKRDJmTF9TbHVQZ2R3OTllSkNINk1VNUxGdw?oc=5"
+      "title": "美股收盤》黃仁勳辭職！輝達下挫逾4％ 台積電ADR跌近2％ - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfUnRlUW1BMlJxMWpzVmFfS1dPZE8zV2JvMmhpeFRMWTFJMUJocm1nNU55akpRSTdqQVJtbjlCNWtlY1ZSeG5XaDJwbGtmUy1lWlU4c2EzWHE?oc=5"
     },
     {
-      "title": "台股暴跌1165點失守44000點！美股大漲卻逆勢重挫 5大可能下跌原因 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fbWZWVG5HcVprWUl0cUx5c2NJNEh4cXZuUk9yZlE4cWNPMTVGckxjeUY3QnMxN0loSUczQ1pyZk5tckRleUo1RmVFTkdvOXc0WHfSAVdBVV95cUxPZjBaS1FFcUZOQ1V3V2gxZ1pXeFJRTUdoaTEwQmFsajdRTVU4TVJMbWZ3c2pWa2h4RXoxRDNpMUVzb1UtaUxnbmxXcnpkdXRvTlk0TW8weUE?oc=5"
-    },
-    {
-      "title": "快訊／黃仁勳辭CEO！美股開盤 輝達股價暴跌14% - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FSkZvUkNhbTZISTYzSG9JcmNlLWZSVFRzdXNaeWp1UUxwMmd3bkJZNVEyTzdNTGVHbHJQLVh6YnJQNThxRUdrVG1ScmlBUGtOdHdTRzVOcw?oc=5"
+      "title": "美股收盘加密概念股、Neocloud普跌，Bitdeer Group跌超12% - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnUzZ2Yk5fMGdXMDJuNDhqY0p2cHJ3cnVDaGQxaXVSYk5XZTAtcUtOVjVRV1NqY3IweW9fVW9kakFfclhLQk9QZlJSS3Axc3owaWVISU1NanM4aTRJWmFMOXBpY1lTUQ?oc=5"
     },
     {
       "title": "【快訊／美股開盤「輝達暴殺14%」 台積電ADR下跌2.68%】 （#大表哥） - Facebook",
       "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPTlhzeWZ6bjZDR3ZzMmpEUkJzd3hibVVPa0tmd0lVU05lOFRmRldFY1VkV1NoWnJXWHJxQ19CQlg0aU9HWVl3RkdnYUlmaHB5UVhEVXJjem9HUGZQbVJLY2F6VVdnS2k0TEpkT0lBV0VDNU9ZZXZ1YkJqRklmbTlaWnR2aGVKR3JvZkVON1NkU0thT0ZlNS15NWpOZFYwd21tNFRNMl8yTnpiS2tkbDg4anZRaEM3MEl0N1ltTF9EbjBoMXhOVjVhYlk0blZSMjFyNFpXenZiY3hZQW0yOE5FeEY1UlhJSW5MeERFQW8tYXl5QW5QQlcwbTI1NE80UGg3ZGNidWdYN1BNNkI5VUNyNFJCVHFpQzNDMi1hcUl2V1dXNjJrVmhBa2dwSktJUUtSN2RpUEFqb3FJaW1iZXUtMDVUMVBzek5zYlVycQ?oc=5"
     },
     {
-      "title": "〈美股盤後〉CoreWeave點燃AI買盤 輝達終止連二跌 費半勁揚超5.6% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95ZkZtemh1UFozdnJwelFpbEZfemNUeEd5eGRucDRxMXF0dVdhZFN1OFpOa2RYX2lxLUtVUWxJemJBYTdBVGRsXzl6WThrNm8?oc=5"
+      "title": "NVIDIA高層震盪引爆賣壓 美股收低：晶片暴跌蓋過能源連四漲 - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNai02R0Nyd2RnNm1GSmJzTEJ3LTcwMWNQaDhFSWRFSzA2UE8zeDh2TXpCRUhGR3lXdFdYUGdKYWFzNTJQZGJoUmlXc0c1S05LQXB6TU9CMFRuMm8tVWYxTDNON09ycHVYeFlOaWpXWDJ2NVlSSUdZS3YydTZxelljb09uMkV0M2lYTDBjYWhn?oc=5"
     },
     {
-      "title": "台股重挫1165點！專家揭後市3大警訊 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNc1JvOHZZUTdfUVp0T1RaWG9kUnZlT1RWdDZJMGdoRG9VT1YtSERzdnlBNEJxczhsV096Q0plQkVlMW1hSV9EWW1idWpjT2dON180eTBJWGFtREZveFFZZmRPdmpDRHI4UENSdXZHanpReExweVprc1A5dlplcnljcVFFbzYwRkpJQUM1NDRGWm1QY3pYcHgwc0hZLVJ5VVc2X3JxUFJxLWt3bUxySXJFVmt0TkktdklZemxDQzlBV2xwTjZrQUtSdHB5alBPV3AySHo3bXJqc3RwYWRKOHdlQVRYREtDT25xeEJnSkFFYldnamZ2YWtmcnhIa2NJRnM?oc=5"
+      "title": "台股暴跌1165點失守44000點！美股大漲卻逆勢重挫 5大可能下跌原因 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fbWZWVG5HcVprWUl0cUx5c2NJNEh4cXZuUk9yZlE4cWNPMTVGckxjeUY3QnMxN0loSUczQ1pyZk5tckRleUo1RmVFTkdvOXc0WHfSAVdBVV95cUxPZjBaS1FFcUZOQ1V3V2gxZ1pXeFJRTUdoaTEwQmFsajdRTVU4TVJMbWZ3c2pWa2h4RXoxRDNpMUVzb1UtaUxnbmxXcnpkdXRvTlk0TW8weUE?oc=5"
+    },
+    {
+      "title": "〈台股盤前要聞〉MSCI調整PCB獲青睞、鴻海上修全年展望、黃仁勳辭輝達執行長 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVTRDQW5RdUFoaXlmUnIyYzlkbzkzaHVpZDliTXVXWGNTVVhoWlBfTXRHRmdoWkZndUhkMG9YNWhPUzgyenRmangtak0wZ2M?oc=5"
     }
   ]
 }
