@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/12 01:59",
+  "updated_tw": "11/12 08:29",
   "taiwan": {
     "2330": {
       "price": 2395.0,
-      "change": 160.0,
-      "changePercent": 7.1588
+      "change": 110.0,
+      "changePercent": 4.814
     },
     "2454": {
       "price": 3990.0,
-      "change": 265.0,
-      "changePercent": 7.1141
+      "change": 160.0,
+      "changePercent": 4.1775
     },
     "2317": {
       "price": 242.0,
-      "change": 3.0,
-      "changePercent": 1.2552
+      "change": 0.5,
+      "changePercent": 0.207
     },
     "0050": {
       "price": 103.2,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 176.5901,
-      "change": 7.7001,
-      "changePercent": 4.5592
+      "price": 173.73,
+      "change": 4.84,
+      "changePercent": 2.8658
     },
     "AAPL": {
-      "price": 354.67,
-      "change": 6.16,
-      "changePercent": 1.7675
+      "price": 355.63,
+      "change": 7.12,
+      "changePercent": 2.043
     },
     "TSLA": {
-      "price": 392.91,
-      "change": 13.13,
-      "changePercent": 3.4573
+      "price": 390.84,
+      "change": 11.06,
+      "changePercent": 2.9122
     },
     "QQQ": {
-      "price": 694.155,
-      "change": 19.395,
-      "changePercent": 2.8744
+      "price": 690.38,
+      "change": 15.62,
+      "changePercent": 2.3149
     },
     "SPY": {
-      "price": 761.21,
-      "change": 11.29,
-      "changePercent": 1.5055
+      "price": 759.81,
+      "change": 9.89,
+      "changePercent": 1.3188
     },
     "SCHD": {
-      "price": 35.885,
-      "change": 0.055,
-      "changePercent": 0.1535
+      "price": 36.02,
+      "change": 0.19,
+      "changePercent": 0.5303
     },
     "VOO": {
-      "price": 699.77,
-      "change": 10.27,
-      "changePercent": 1.4895
+      "price": 698.35,
+      "change": 8.85,
+      "changePercent": 1.2835
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74441.89,
-      "change": 721.7728,
-      "changePercent": 0.9791
+      "price": 74035.48,
+      "change": 315.3628,
+      "changePercent": 0.4278
     },
     "ETH": {
-      "price": 2089.63,
-      "change": 39.4491,
-      "changePercent": 1.9242
+      "price": 2060.63,
+      "change": 10.4491,
+      "changePercent": 0.5097
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.87,
-      "change": 0.0814,
-      "changePercent": 0.2483
+      "price": 32.86,
+      "change": -0.0938,
+      "changePercent": -0.2846
     },
     "JPYTWD": {
-      "price": 0.2035,
-      "change": -0.004,
-      "changePercent": -1.9461
+      "price": 0.2037,
+      "change": -0.0039,
+      "changePercent": -1.8923
     },
     "EURTWD": {
-      "price": 36.52,
-      "change": -0.2753,
-      "changePercent": -0.7483
+      "price": 36.495,
+      "change": -0.3101,
+      "changePercent": -0.8425
     },
     "CNYTWD": {
-      "price": 4.9328,
+      "price": 4.9336,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 4006.9,
-    "twd": 4234.0,
-    "tael": 158793.0,
-    "twdTotal": 131707.0,
-    "changePercent": -0.5781
+    "usd": 3984.8,
+    "twd": 4210.0,
+    "tael": 157869.0,
+    "twdTotal": 130941.0,
+    "changePercent": -1.1265
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "〈美股盤後〉CoreWeave點燃AI買盤 輝達終止連二跌 費半勁揚超5.6% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95ZkZtemh1UFozdnJwelFpbEZfemNUeEd5eGRucDRxMXF0dVdhZFN1OFpOa2RYX2lxLUtVUWxJemJBYTdBVGRsXzl6WThrNm8?oc=5"
+    },
+    {
+      "title": "美股收盤／費半大漲5.7% 黃仁勳傳CEO位子不保讓輝達盤後大跌8% - udn",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pemliZGp1ZGlham5xdFNsRk5nXzdwV0UxNnJubTRsZkhteEJITVQ0VzFFWHpwYlBsbDV4TnNnVHVtMTVVSXkxc3dndFNkSEcw?oc=5"
+    },
+    {
       "title": "【美股盤前1111】CPI高於預期為甚麼不用害怕？美股走勢無須過度悲觀？｜豐雲學堂2026 年 11 月 - 永豐金證券",
       "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxORDUwMmxWUnZYS2tvZ2ZlUWw1d1pyZFg3Z29SOVhYM1BzQ0xqX25zX3piMDVJaTlFVFBVSU16UmpEeURYNTFkMUpDYmN3eVo2R2w3YTFYUjFtR3Q1OTZGTGExMGZQMi1hSXN4VDdGY1dINUFUaHhLY3QwNnZNMFppX2djQThoQ3oyS2FrMUxCNDhjM0wyMU5vZFFlNndsWi1Ma2FhR3Z4bTJVeWc4VXBPWWlrM0Y0ak5QUERpSUJOYk85dWNnTXNQVGotNFk5bE1tTTRXdDhaeEpOT19PMnREWklUazQtV1QzQVJEbnl2V3RxaFNHWHlZYlZyWmRrS25mNmluQnJldDBiWTlGamxhcjNjcnphLW5MTXRDVndlREZXSDQxMTVqZmFZWXd5RHhiWHl5RjRFRUJFTFQyUHIwNXVTb1dVTEo0NFNzcFVQMWVOMlUyVTBlTnF3RnJRejFvZV9FZmpfay1McllWUEtmRzVKaFI3bGJNdzBiV0ZYVWdxWG5LeU5FYVRSdGpVcHZxV2xtQVpoTkNaMC00WDViZEdwc0J0dk5zTGxQdG9jSXN6VmFhNXQ3VmpNQ3JQVGc?oc=5"
+    },
+    {
+      "title": "CoreWeave強勁財報消弭AI疑慮！美股全面收漲 輝達止跌回穩 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOWGNjWU5GMXlNUE5pRTN2RVFNUVltQjlYbXNtQktsaW5QLTdObDVjaEZyRnZqdGhhbkU3dTN4Yk1EUmZrVjhkcm9NTm1nNGRySGtzZUR6T0dSVjl1dktLTzVsZ0pHYVpyX2hLeVpkaWowZDBieXlFTlViSjhPbW53UnJsdkdybEVBOG0wU0VPSWdVSXhfRXB2N0NCaVI4ZVNUNzZ0SnlTSFpZcGE3U1NBTkRjSFZybXlaZlpzYWZIZnJORXplN2V3NXBsakw1emxTWmh5X2R0UnAxMHRxTGF5cnA2NFUwZVFzbzJLeUNialdyZGNhV1RIREt3WEZJbGlMUlNoM2pDalFtVDNWd05LQUp5Ulk5eHBCU3c3OFozd0xRLU1xeTJkcGdpRG0xV1ctcF8xTENDa3MtRkJyaGRmOUVEYngydWpSUnVGT0tYUlhlN25ocXAzZU00NkE?oc=5"
+    },
+    {
+      "title": "比特幣空頭部位慘遭套牢：近7.4萬美元價位，4.73萬枚BTC虧損湧入交易所 - BigGo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6dlJLZnZRMEtGbEJVYnIwYk5sYllhUmZYajBsd2Q1cTNWa01jMjJySzBtZzRWSHc4TUtDdFVBT3NZVG04aFBCZ3JibnFKNEJuYUVpVW1WWlNwVXdHcmJwLVU4ODlWeFJteTdhZVp3RkFVSm82RjZ5d01n?oc=5"
+    },
+    {
+      "title": "黃金儲備需求增 新加坡推央行保管服務搶攻國際市場|國際焦點 - 僑新聞",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhR3VnMlpaWXQ2MmNSa1d3WU8xcUt0NDNuaUJncWJjNGNYWjRUSUVnaGtsNnhNb3RodVBNUlFGWk5yaWFUZ05Fd0ZVcw?oc=5"
     },
     {
       "title": "〈美股早盤〉CoreWeave財報助攻！那指領漲 台積電ADR漲逾4% - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01cC1yVi1yVjcwOVB3endxVEpyZGpPeTJkbUdPSlF3b2JmQ1pVeGx2anRGMFFnNFVzMVF2NWpRNHZqbHdnVnJSWWt0X040Ums?oc=5"
     },
     {
-      "title": "台股明天要噴了？CoreWeave營收暴增168%點燃AI行情美股費半狂飆3.42%、台積電ADR也大漲3.40% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOdEJ5UWxKM1ItcERIV0RFX1p6X3lTU3daaGI2c3FNR29DZFpvV1BKUUNqRzdURko4ZzlSTWpDQjNTSS1zX3NIeVZfTnZESFMzUGIzdk9Va3ROWTQ5SHFKeGtWU1pPSVp4TUM4TUcwUkJIOHRoYjJvRkYtbzh2ODdhSUZkeWVKa3NIbW1LbjJBWUc4YVBsVnpOTGZ2eFh6RFAwOFlvWHRDMVp0QVJ3ZVBlRXVQQ2NrZDY4bWZLTHJNa2VMSjdXYVV0LXdEX0k5dDQ5X1pCSzVmWExhTF9fQVVjRElVbUNUdTlmVW40WGRvZEVpU3pJQUliZFpPT1pWbHZHNE1CZFNib3RhbmpCZU9mcE5PQTVEcTlzRktQU0pUQ3haeDhCT2NCT2lrRHJENS1hb08zV3FvbERjRDBhWU5YRUh4aVJObDUzZW5EaWZSX3AtVzY0Ykw0WkpYbHc3WkpQb2NRU3pXNXhHbVNrUHF3b3RNYw?oc=5"
-    },
-    {
-      "title": "黃金慘跌！專家一句話曝「未來」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FQWhoTU1OMmtTRzNzSHRwOW4zZ0xxSEYwQWt6bml6N1IxczBLYUVrRms0dmNGTDA4VDB3N1lDbDFZU3FuUGR1YTIwUnFybUNJckRQUVUtWC1OUl9rckhv0gFkQVVfeXFMTlViSFA4V3pDdUpKbm54cnFPWDNMZUFxbTZqM1J1ZGNJSmZJbzhDOFlaRXNTZ1p5QzRtZFRpejE5OWI5QTZmaHV3WXBrT095M2dCMDkyVzF4ZE5FeXhLaHcyU1hiNg?oc=5"
-    },
-    {
-      "title": "台股強彈後恐轉趨震盪宜審慎靈活操作 法人連買強勢股具領漲抗跌優勢 | 市場焦點 | 證券 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zQy1falcwZTBCNlYyMWtIdzB5X2MwaWJqSzd5WnpONmJFQUJTZUx2bWZSZnhBMzVNaUhCS1ZKQ19kQ3loTDVtbkptc0tnWE1aZmZjTm1jYTBaQQ?oc=5"
-    },
-    {
-      "title": "比特幣跌破7.5萬美元、黃金同步走強，Peter Schiff稱這是賣出訊號 - BigGo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XVUtyX1p6NHl4SHltVkJ5a2xEZFJyVG1uX180SG43YmdvQXhoYzZ2U2VzQTZrY1U2dldFRlBDcTV3NTRGSHFsNE1BalV2ejFSMDBjRHNRUHRxMmMyV1BqWHhZLS0yeDVRbDRpVFFFaG9OeUZaajRvY25B?oc=5"
-    },
-    {
-      "title": "【1111台股盤後】外資加權賣超急縮剩7億！盤面強烈產業分化，投信持續護盤鎖定投本比【愛普*】、【尖點】、【精測】 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxPMXBFdGRxNWNQNkppYm1EZF9jbVlxa1NpNzlIY2hOWjNyMmRJNVc3MkF5UzgzT1BNbzRZZDd1bHpHOW5QZlFsRUpaeVFvM1hWNTNWVjFhNV9RY0tIdGZUcWRfTVBFeGtiT1JkQ2FYXzlQQkJUNU9NWjJYbE5aRTB3VUNwWUg3QU90aTdEbkFRQWJpZlRhMjdOWkpRZFdjQkd0M1d3Rm5xVnlyWTZjcGpQclYtVXl1VnlGbWplUG5aS2oxNVhwOVBQRWlHZDZhcG5nWnJseFEtaXktcmFNWnBDM2hLazBlUzVyN25NdGttZHB2NER0ODhBQVAzTng3X3ZBQXBoY1B3RnpUUlUzUnpTU3A5TV9ZbS1qb0xkN0RDbU80aUVoWWRKYmRMa19JeWNCd0otQlpNaUpIY19nLVNfTVNPZlJuQmRtV1h5NzhLTkJnOFVlQ3NSOWtkRGthM3ZINGhwcmpYRnRuUXZZRWdWWmtqYklJTTJvVTBUcUVRXzRJN1FPeGIwWGE2WU15QmdEMWdPMFpLbXdxNzJDUzlqc3E2S05ncjNsc2RFU2k4WDZiYjFncXJ4SGdCRWg0ajlFYjg4cFNpTlBlOF9iVjYzaEhSZF9KZHVRQ2ZQLTViSHd6aDlmNG10MjRvMVlHSWFRU1B4VS1kRTE4aGpnYVpxRXRNdUVReTZlQnpGSmoxcXNjNHNGdVpkM0RlU0JPRnVDZFA5N3lmY3g5Y1I0S2hBTWNSYTI4WjR5Sk1EM0cxVzdwaEhYdWkta0NxUmVnbUdXWXVkVjctQXU5cU1JNEt0d2tHTjhGQkFUN2NBTlBR?oc=5"
-    },
-    {
-      "title": "電商、資服業個資保護注意「黃金72小時」 林宜敬呼籲漏洞更新不能等 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOSjY1LTg0U3FuTnI2NFZ6anZZMVZ6djRFbTQyNmJJS1AzT2pCXy1tQUdTVndZLXJzVEE2OG1UWk5QbnlRQjNBYVJELWhFdk9vOTFCMkZDQVViR3g4QTJlc0tSZGZaZ2k0RFlZMnMwUWdpaVl1X2NqczUzQmhiWERWNnFMdWJoelVnWXQzMjFiN3JDd25GS0hzdmRyYlpTMkx5TEZLYWNvTUd6REZ3eDlPZzFicGpVQkszQ0pYNWFaRDN2VVJRaDgteU9vTGgzQ3ZCVWEtd1RRa29NbERyUzhvT1ZuNnowdTVqamdLZ3picnZ6Y2E2Vl82aVYyRG1iN3cwckhlWFZ3OFFBOGZBZ1U1d2RWdHRwTGwyWWZIZ2VfaDhsYVJTWU53cHRScjVud2dreVNSSzNrc2F5THdndDNLbkNDU09tekpxbFNnUGhlNS1qM3FaSG1VZmw0Z1RSWC1IXzJhdXMtaTdRcjB1OUtfUU11RXpvT1dVWkNiNU5SMDJuTTB5TlRkbGtnX0V4bU5zekd1Um1DOGwzVWpVQTFpUElfa2VmUQ?oc=5"
+      "title": "〈台股盤前要聞〉廣達明年AI伺服器營收年增高雙位數、中信金前10月加計FVOCI股票狂賺1488億元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxOWWoyUXZMb3M3dVpGdHpCRnJIY1lvN0Z1OVB0UGZZRkx1R0duREY1TXcwSGNlZVI4blVtZTVJWWlxY1BmcG5hRTJ2OUNhT0JNSnhnVXBZb1VlUW9IUzlicUNEeHlzTjRTcHk2YnNWUkZzbWVxb0RFNkFNWks3c0xfeFNqSy1zenEtUEFmZkE1ZVd5WW5aMU1RUWI0RXFTNk1idUZTemFiRXlyVFNGeTI2M0MwUEJZdk5HeklSRTJ2Y3BPS3ZMREw0czZIeUoxYURoRXd1RHhJMHYxenJmQk96emxfaTJNUG5ueU1NRGZraWIwVFdhWjB2SkdIaUNPQlJ1aGVSZUgzdDBkd3VTZThwWlMyVDBkRzVRb1VRMlNvXzlwLWUtY09yYnhEOUVXR2tHYmVCQ3M3dHV6SXlfTHQ5S3kwcmlyN0k0YW1Fc3B5cVBheVdRTEw0VDdYR3FzSG1QTFhDSm5KR2VScXlXUjZYeWJOcFRVdHItQTNGcjMzUlNBU3NiVDRvUF9YNFNSSDBqT25vdWR6bkFWLVVWRVFYX2NnRllCRFljNDNSS0tBQnJBcEhIb1NjTEdBUjFuMDk3UW9TVDRJcDAzbERtdXBHRlBYbkxRblp2SVlxOENvYUhRVFNIOVNaNXFIN2xucHo1dzdyM09acDVrTnRVQllBRFBtemxfcDQ?oc=5"
     }
   ]
 }
