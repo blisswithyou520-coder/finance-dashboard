@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/12 15:37",
+  "updated_tw": "11/13 00:16",
   "taiwan": {
     "2330": {
       "price": 2340.0,
-      "change": -55.0,
-      "changePercent": -2.2965
+      "change": 55.0,
+      "changePercent": 2.407
     },
     "2454": {
       "price": 3850.0,
-      "change": -140.0,
-      "changePercent": -3.5088
+      "change": 20.0,
+      "changePercent": 0.5222
     },
     "2317": {
       "price": 240.0,
-      "change": -2.0,
-      "changePercent": -0.8264
+      "change": -1.5,
+      "changePercent": -0.6211
     },
     "0050": {
       "price": 100.95,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 173.73,
-      "change": 4.84,
-      "changePercent": 2.8658
+      "price": 166.008,
+      "change": -7.722,
+      "changePercent": -4.4448
     },
     "AAPL": {
-      "price": 355.63,
-      "change": 7.12,
-      "changePercent": 2.043
+      "price": 357.98,
+      "change": 2.35,
+      "changePercent": 0.6608
     },
     "TSLA": {
-      "price": 390.84,
-      "change": 11.06,
-      "changePercent": 2.9122
+      "price": 391.48,
+      "change": 0.64,
+      "changePercent": 0.1638
     },
     "QQQ": {
-      "price": 690.38,
-      "change": 15.62,
-      "changePercent": 2.3149
+      "price": 693.36,
+      "change": 2.98,
+      "changePercent": 0.4316
     },
     "SPY": {
-      "price": 759.81,
-      "change": 9.89,
-      "changePercent": 1.3188
+      "price": 762.18,
+      "change": 2.37,
+      "changePercent": 0.3119
     },
     "SCHD": {
-      "price": 36.02,
-      "change": 0.19,
-      "changePercent": 0.5303
+      "price": 36.12,
+      "change": 0.1,
+      "changePercent": 0.2776
     },
     "VOO": {
-      "price": 698.35,
-      "change": 8.85,
-      "changePercent": 1.2835
+      "price": 700.64,
+      "change": 2.29,
+      "changePercent": 0.3279
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73541.39,
-      "change": -423.0788,
-      "changePercent": -0.572
+      "price": 71790.6,
+      "change": -2173.8687,
+      "changePercent": -2.9391
     },
     "ETH": {
-      "price": 2049.35,
-      "change": -6.5262,
-      "changePercent": -0.3174
+      "price": 2009.56,
+      "change": -46.3162,
+      "changePercent": -2.2529
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.913,
-      "change": -0.0408,
-      "changePercent": -0.1238
+      "price": 32.98,
+      "change": 0.0262,
+      "changePercent": 0.0795
     },
     "JPYTWD": {
-      "price": 0.2041,
-      "change": -0.0035,
-      "changePercent": -1.6997
+      "price": 0.204,
+      "change": -0.0036,
+      "changePercent": -1.7478
     },
     "EURTWD": {
-      "price": 36.57,
-      "change": -0.2351,
-      "changePercent": -0.6387
+      "price": 36.53,
+      "change": -0.2751,
+      "changePercent": -0.7474
     },
     "CNYTWD": {
-      "price": 4.9514,
+      "price": 4.947,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3965.8,
-    "twd": 4197.0,
-    "tael": 157370.0,
-    "twdTotal": 130526.0,
-    "changePercent": -0.8674
+    "usd": 3880.2,
+    "twd": 4114.0,
+    "tael": 154286.0,
+    "twdTotal": 127969.0,
+    "changePercent": -3.0071
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "黃仁勳請辭震撼市場！美股4大指數全倒、輝達一度崩跌12% 台積電ADR、台指期同步下挫 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxORzhvOGlpSUJFRHluTUp2LXZKT2tNQ2ZQVDcxUTlpUW5xSmUwY3FWUkIyekk1ZUdpWjVrWk1LczR3d0dhQXM3aV81Q0V4X1RSNnR3cmVHb2xCSnlMblFPNnMzOEwzc08yUndQVUxtZUZLblBXRElORnhqNFJqUXhXM0JpbWswRi04ZlB4MDBzU0JVUmFuSjhuWGlrejVZRFNPRTdaUEVCT2pJNjdMaV9FNmd5Q3hqUkFWZTJfdlprN1JBYWhTX1dJVzdrUHNjRFN0MHJNWno2eHRGTjNVdFBWMVhxdGI5LTl4QTBiMUFKU3Zxc2NudGg1eWt0clE4TUUyd3VxX3N5SlBMd0h2VXlrbmdIclNBVVBJR3pGQkdWdUhJTHRrdXJScTJnV1BiSHctcnRjcjBkLWN3TS03dVVMTm9HSkZsOVBqOE9iaS03bldSZEZYOGZNZXhPT2NBcGNhNW1BUUhJTXB0elBFNTkyeG1JdmFpYWVFRjZ6bjh2Y3JGZHpkRVI1ag?oc=5"
+    },
+    {
+      "title": "【美股盤前1112】輝達(NVDA)怎麼看？又出現甚麼事情了！？｜豐雲學堂 2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPRWhuNUlrYm9IeHpnVExXdENUWTJXeFlGZk1lSjZkdGs4bjhGeGJ4RThnRHBXMXFITVNKb2ZQM1BSMXZRdU1heHJiMEc5emlnTGNoUE1OaUtGaExlbG5GZHJuRDRtQUkwa3prTHdRLU10R2ctRUFEaGFydG9mbkdtYTJiSFQyUkhlWUg2RzJLdEdsN3Vla25SRTdnQU5XTTNocy1taDZIMlNBRjFscFZ5TnNsRy1keXhDYXk2SHkyeFhabzJ2c3FPNjNVeURHSzAyc0MtUEJET1ZCZFdONEZmM1NadDQ0NndIaTYyc1NvSVZtUTdLOUdTNWQzWWdMc2FrLTZ3R3Zaa1NGNFdOWXNIUWw1T01tMW8wS0FHRWl1X09FTjlHOUVOTTQ5Q1RkSlYtQUdFS2drdUdmbjA0bVo4a2hPbXFlSmZNUm83Y2dTZnhWT0F1elMtd1Y3bjk1NXFVTTRzbA?oc=5"
+    },
+    {
+      "title": "Nebius美股盘前跌超20% - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XakZES1FwQXY4NHFRNkhIRFNTXzdDVGFEN090QWlZQWswbnYyOWUtM0RMaW9kd3U4bGE2TU5aajRwRFZTNjhlb0ZTMjhKRDJmTF9TbHVQZ2R3OTllSkNINk1VNUxGdw?oc=5"
+    },
+    {
       "title": "台股暴跌1165點失守44000點！美股大漲卻逆勢重挫 5大可能下跌原因 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fbWZWVG5HcVprWUl0cUx5c2NJNEh4cXZuUk9yZlE4cWNPMTVGckxjeUY3QnMxN0loSUczQ1pyZk5tckRleUo1RmVFTkdvOXc0WHfSAVdBVV95cUxPZjBaS1FFcUZOQ1V3V2gxZ1pXeFJRTUdoaTEwQmFsajdRTVU4TVJMbWZ3c2pWa2h4RXoxRDNpMUVzb1UtaUxnbmxXcnpkdXRvTlk0TW8weUE?oc=5"
     },
     {
-      "title": "【台股3萬8抄底大調查2】台股3天絕地反攻7檔權值股漲贏大盤！散戶「押對寶」南亞狂噴30%奪冠台達電也成大贏家 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMimgVBVV95cUxPZFotXzE4YVdiaXJKTXpNZ2s5VnYtVk5aMFVXVUx2RDdoZGlOaUZoM1RGSEQtNzlIQ1lHOUxITlJtSnI1T1pGT3llX2dNZlMxX19IUXpqRWNCREs4ZlF1Y0hhV24xdF9vdmFfUi1iRlFvcFRqZUJZSGM4OGV4M1YwbTRXeVJ3cVNPZEtiNFI3V0RlTHFjaGpTUlRNb1JLSjJEOHFtMmsyc1VtakV5dExyckluRnpfVndtYjdaY3pRU1NSbHhLZFZwWUl3LXo5X183cVhGQ0RaTGg1bVRMYXU1OGhjUGtxTXBCOExZNkRLeUJDVXVxY1BJZ2N3MlZuU1VfQU1fblFRblBSQjQ4WEpxd0RURUpBZGVQRTlCV2N3WkNnWVVUdlUwckNPNkxtSzlSRTV5NkdvVWI4SDU3UE4wbEpBWXZtQXJsZzhiYTBhejZ2Rl9GQkg2YmZ1VURDR2FTRUpXbEtlNzB2Qkc5c2VNVXZIVGZSUFNKakdzb2huOUNQd3JmcERXeVA5cWtNWFVHQ0FQY0FRSnFjYlJOaW9CcDcyMUJQYlZhTzZvNkl3UlJRd01fLU9xejFmOTM4MWZWOGo5eVgxcHlrdTJibzBMSEgtRFptNk1LY1dJeFhYeXdoM3hpcS1BTDVnV2dZUlFIV3hMSk56ZUM4X2VGRG16QmVZS25rSVRYOHdMQWcxSDdXNXhtdlVob0R5NVhFRGM3T0NrR211blZvUGR2OEt1LVRSckFZSmxfeGkxc1VINURqNGNRMG9oU290eGNvS1hhN0NOVndaM29zNEFBd3dpdVJ3SWVjTkVmWVM4LXU5bVFubG5rT3VGQjR4WThHdTZ4YnBxaXpUbDlITHBEekpLTHA3ckdYNnFWd0E?oc=5"
+      "title": "快訊／黃仁勳辭CEO！美股開盤 輝達股價暴跌14% - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FSkZvUkNhbTZISTYzSG9JcmNlLWZSVFRzdXNaeWp1UUxwMmd3bkJZNVEyTzdNTGVHbHJQLVh6YnJQNThxRUdrVG1ScmlBUGtOdHdTRzVOcw?oc=5"
+    },
+    {
+      "title": "【快訊／美股開盤「輝達暴殺14%」 台積電ADR下跌2.68%】 （#大表哥） - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPTlhzeWZ6bjZDR3ZzMmpEUkJzd3hibVVPa0tmd0lVU05lOFRmRldFY1VkV1NoWnJXWHJxQ19CQlg0aU9HWVl3RkdnYUlmaHB5UVhEVXJjem9HUGZQbVJLY2F6VVdnS2k0TEpkT0lBV0VDNU9ZZXZ1YkJqRklmbTlaWnR2aGVKR3JvZkVON1NkU0thT0ZlNS15NWpOZFYwd21tNFRNMl8yTnpiS2tkbDg4anZRaEM3MEl0N1ltTF9EbjBoMXhOVjVhYlk0blZSMjFyNFpXenZiY3hZQW0yOE5FeEY1UlhJSW5MeERFQW8tYXl5QW5QQlcwbTI1NE80UGg3ZGNidWdYN1BNNkI5VUNyNFJCVHFpQzNDMi1hcUl2V1dXNjJrVmhBa2dwSktJUUtSN2RpUEFqb3FJaW1iZXUtMDVUMVBzek5zYlVycQ?oc=5"
     },
     {
       "title": "〈美股盤後〉CoreWeave點燃AI買盤 輝達終止連二跌 費半勁揚超5.6% - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95ZkZtemh1UFozdnJwelFpbEZfemNUeEd5eGRucDRxMXF0dVdhZFN1OFpOa2RYX2lxLUtVUWxJemJBYTdBVGRsXzl6WThrNm8?oc=5"
     },
     {
-      "title": "黃金最大敵人來了！金價連跌兩日 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aS0RJVFFLY01TWk43dzFsRkJjc0ZHVGhRcGw1c2F2Rnh0NVlwcjNSUW5NRmhPY1ZpV2hBeXVvLURxOWEzV3BWcjJzM3RSekpSTnFnQnhqMDZDQlNfSUx30gFkQVVfeXFMUGIwV01VU3VhVnBUeUVNYXJIbkpuZEVSaVhfSF9xbXVuMHczWUVXeHVfZU9zbVpNa3JDazZCNm5HcFpkbGYzLXRSVkp4NmhDejJScF9UdDFGVFdhLXh4eFozSU10Vw?oc=5"
-    },
-    {
-      "title": "【零股排行榜】 盤中零股成交量TOP 20｜0050 元大台灣50、00878 國泰永續高股息、00406A 主動中信台灣收益、0056 元大高股息、00981A 主動統一台股增長(1112)｜豐雲學堂2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi2AVBVV95cUxPYmctd3J0TWsyNmRuNHNNcjRZRmJaa2pKQ0VwRHptTzdnWGJVTHg4OGMtdkZQZkJsT045Z2ZwTW9TSFlVX3VlcmRMMkUwdFMtQWk0aUJyVzRBTkYtWERwZHktdUFacS1TNXVtQkc5VkgwLWxlbV8zamFMUkZDTHRKdHVRUEJ6RE95U1EwRzZyWFpIYkM2UXJoVkhzdHR5TFQzcy1QVGFKVDJoNnFDMi1lQmpwRDAwV3p0NHo1MmtNNVQ4OHJ2TFc1QnBsckE2TUo0XzZld3FlQ1V3VThBQUV4ZlFnVWV1dkhVaW9ZdHpRMjJCdVNPcHJZUnNjdnJaUXpNYk51WkJycFNFM0NrMVAzUnprU1BoTXdCbUxxcG1VMGs4T3VBM3FOVHpXWm5XOFdUMERRNk5sUFVPM1FRTzgwemloRFFxTmdEemlGV1JlRGFnTDNVN29wR3Jhelg4eUl2VlJhcGhuMXlSaVJpS0lxU0Z3VTdBcmFJMFFubkMzbVducVA0Wk1zbEg5c3NWYXBtYmV2WFZteFg1ZE5rd3YwMFNmOWVUT1dMWm1fQlZpSFhzTDBHTF9DZVQ2d194ejNBZGVoMDVQTnpabWlQb2lUTWNqVWlqN2poM3oxMjZCc0trSkFjbWtQSDdLS0RUSGxOUnpfT000blNUSFVkQmEtYWItb3RIS2t6LVlzRUJvaDJOX1J5bnhJa1I5N2prM1ZoWmE1T1JGVTN2dVdheHE5NnVac2JtUnB0eE0ydExORlRNM0NGbzBPVVYxYWFPUGR5bGc1Q3V3cEFVTW9MampmZVlqRFo0T2lpVkRiYnB3dHVuVlZ5aXlQdS1YSFhfUHNiempDbVdQc2Nfb1JXQnhOWmduY251NHpxNDBNbHdQUm12aUZHc1Z1N24xVXBtdUJ3TG00V0lVbkdWOGFhSE5YOUZqSkEtaHA0SFo0X2xFZXpWd0hLVDJEeA?oc=5"
-    },
-    {
-      "title": "「輝達親兒子」救全村！美股全收高　台指期夜盤漲470點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yeWJqeG9vOXUtNmZnSTFPc2pLdHpEYXVhOWVFV0h5S3R4ZGZqcTNPem1KQ05aREd2QUVOOFJsWkVZR3Y1UGZVeUR1RGpPT3NaUHfSAVBBVV95cUxPM0JwMDM4bXBEZURvUUZ4SlJuSTQwRW9NSjJVQ2E5N2szajh2bkN3Qnd6Y2lHS0lmRDRUa09XcDBIZUYtUE9aYWR0Y2FoZzFsVg?oc=5"
-    },
-    {
-      "title": "【🌏焦點直播 全球財經時事】20261113群益早安 - 群益期貨",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWlsZDV2dFNCUDdsdFB5elk3WHFWRXdCNnNNQmNTUGIxSTNxVFB6Tm5YR0VfNUJXd3lidDJUaWcxb3Jsb0x0SkRDTWdYVktjLW1XMmt1dVFSVGFVcVFYRExOdGtaTnBIWFN1N3F2cHZYdENEWmRwTFB6LXB5Vk5ENmZEbGloOXozZVN1RXdXYw?oc=5"
-    },
-    {
-      "title": "【Follow法人】台股尾盤殺逾千點誰在賣？外資僅砍6億元 自營商賣超65億元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxNeFg2NENvbkpWX0NZMk92dGZES3JFRHhucWROZ3FWd1k4cmJpMUI4Y3UxYUM4bkI3WUFzZFFfOVQ2Q1RfdHQ4c3cwY1ZOOFg3WDBSbTRCZzBCR2RSeDNvLVdiaGVFSURfaE9tODRtOHcwVFphNUFSdUpPTERUMWJoVm9iNmh6aVBhdEtMSk5nMUdJb3lMR3kwX1dtZ0d5cl9hWnM1VndDSzVVSGN6a1pYcjVwVE0zemZ2bEpEYnBDRnhfMmJ6Z21NUjF3TS1XdHZyaFJmWjV6bjFieU9DT21pdmR1UERvTzZiTGQ1eWd6VFFXZTJ3Vi01U2NZSEJRTndXUUJzZE9kXzR4ektLbHdmVU9fVzQ4ajJjQlAtUkNLc0pkLTJvUjEyZ3QwcXhNTWpYeXFvUnpRQ0lDaXBxQXRrY29CekVKT3FhV1dPTWJJdEtNSzJYYjZkb3YyYTUtaHRzUkhjbno2YzFvVUVqU251cXRlVEQzSDZjUzRieHg0MFliNngtU01pV2pIR0pzMW5yRWRGZExOekNfQWs5QlBIRTMzcWp6Y1FHNm5zM0tqMFJDQ0FVVVBmUExPSTFBUndQWlhRYQ?oc=5"
+      "title": "台股重挫1165點！專家揭後市3大警訊 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNc1JvOHZZUTdfUVp0T1RaWG9kUnZlT1RWdDZJMGdoRG9VT1YtSERzdnlBNEJxczhsV096Q0plQkVlMW1hSV9EWW1idWpjT2dON180eTBJWGFtREZveFFZZmRPdmpDRHI4UENSdXZHanpReExweVprc1A5dlplcnljcVFFbzYwRkpJQUM1NDRGWm1QY3pYcHgwc0hZLVJ5VVc2X3JxUFJxLWt3bUxySXJFVmt0TkktdklZemxDQzlBV2xwTjZrQUtSdHB5alBPV3AySHo3bXJqc3RwYWRKOHdlQVRYREtDT25xeEJnSkFFYldnamZ2YWtmcnhIa2NJRnM?oc=5"
     }
   ]
 }
