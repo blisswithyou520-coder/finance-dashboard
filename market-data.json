@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/13 06:23",
+  "updated_tw": "11/13 10:47",
   "taiwan": {
     "2330": {
-      "price": 2340.0,
-      "change": -55.0,
-      "changePercent": -2.2965
+      "price": 2370.0,
+      "change": 30.0,
+      "changePercent": 1.2821
     },
     "2454": {
-      "price": 3850.0,
-      "change": -140.0,
-      "changePercent": -3.5088
+      "price": 4235.0,
+      "change": 385.0,
+      "changePercent": 10.0
     },
     "2317": {
-      "price": 240.0,
-      "change": -2.0,
-      "changePercent": -0.8264
+      "price": 239.0,
+      "change": -1.0,
+      "changePercent": -0.4167
     },
     "0050": {
-      "price": 100.95,
-      "change": 1.25,
-      "changePercent": 1.2538
+      "price": 103.55,
+      "change": 0.35,
+      "changePercent": 0.3392
     },
     "00878": {
-      "price": 33.0,
-      "change": 0.05,
-      "changePercent": 0.1517
+      "price": 33.58,
+      "change": 0.08,
+      "changePercent": 0.2388
     },
     "00919": {
-      "price": 30.95,
-      "change": 0.05,
-      "changePercent": 0.1618
+      "price": 31.46,
+      "change": 0.24,
+      "changePercent": 0.7687
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71372.66,
-      "change": -2591.8087,
-      "changePercent": -3.5041
+      "price": 70214.46,
+      "change": -3750.0087,
+      "changePercent": -5.07
     },
     "ETH": {
-      "price": 2011.75,
-      "change": -44.1262,
-      "changePercent": -2.1463
+      "price": 1991.08,
+      "change": -64.7962,
+      "changePercent": -3.1518
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.947,
-      "change": -0.0068,
-      "changePercent": -0.0206
+      "price": 32.897,
+      "change": 0.0351,
+      "changePercent": 0.1068
     },
     "JPYTWD": {
-      "price": 0.2039,
-      "change": -0.0037,
-      "changePercent": -1.796
+      "price": 0.2029,
+      "change": -0.0029,
+      "changePercent": -1.4259
     },
     "EURTWD": {
-      "price": 36.466,
-      "change": -0.3391,
-      "changePercent": -0.9213
+      "price": 36.315,
+      "change": -0.1537,
+      "changePercent": -0.4213
     },
     "CNYTWD": {
-      "price": 4.9463,
+      "price": 4.9251,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3881.7,
-    "twd": 4112.0,
-    "tael": 154191.0,
-    "twdTotal": 127890.0,
-    "changePercent": -2.9696
+    "usd": 3916.5,
+    "twd": 4142.0,
+    "tael": 155338.0,
+    "twdTotal": 128841.0,
+    "changePercent": 0.803
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxORzhvOGlpSUJFRHluTUp2LXZKT2tNQ2ZQVDcxUTlpUW5xSmUwY3FWUkIyekk1ZUdpWjVrWk1LczR3d0dhQXM3aV81Q0V4X1RSNnR3cmVHb2xCSnlMblFPNnMzOEwzc08yUndQVUxtZUZLblBXRElORnhqNFJqUXhXM0JpbWswRi04ZlB4MDBzU0JVUmFuSjhuWGlrejVZRFNPRTdaUEVCT2pJNjdMaV9FNmd5Q3hqUkFWZTJfdlprN1JBYWhTX1dJVzdrUHNjRFN0MHJNWno2eHRGTjNVdFBWMVhxdGI5LTl4QTBiMUFKU3Zxc2NudGg1eWt0clE4TUUyd3VxX3N5SlBMd0h2VXlrbmdIclNBVVBJR3pGQkdWdUhJTHRrdXJScTJnV1BiSHctcnRjcjBkLWN3TS03dVVMTm9HSkZsOVBqOE9iaS03bldSZEZYOGZNZXhPT2NBcGNhNW1BUUhJTXB0elBFNTkyeG1JdmFpYWVFRjZ6bjh2Y3JGZHpkRVI1ag?oc=5"
     },
     {
-      "title": "【美股盤前1112】輝達(NVDA)怎麼看？又出現甚麼事情了！？｜豐雲學堂 2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPRWhuNUlrYm9IeHpnVExXdENUWTJXeFlGZk1lSjZkdGs4bjhGeGJ4RThnRHBXMXFITVNKb2ZQM1BSMXZRdU1heHJiMEc5emlnTGNoUE1OaUtGaExlbG5GZHJuRDRtQUkwa3prTHdRLU10R2ctRUFEaGFydG9mbkdtYTJiSFQyUkhlWUg2RzJLdEdsN3Vla25SRTdnQU5XTTNocy1taDZIMlNBRjFscFZ5TnNsRy1keXhDYXk2SHkyeFhabzJ2c3FPNjNVeURHSzAyc0MtUEJET1ZCZFdONEZmM1NadDQ0NndIaTYyc1NvSVZtUTdLOUdTNWQzWWdMc2FrLTZ3R3Zaa1NGNFdOWXNIUWw1T01tMW8wS0FHRWl1X09FTjlHOUVOTTQ5Q1RkSlYtQUdFS2drdUdmbjA0bVo4a2hPbXFlSmZNUm83Y2dTZnhWT0F1elMtd1Y3bjk1NXFVTTRzbA?oc=5"
+      "title": "美股盤後｜Nvidia宣布黃仁勳辭退，四大指數收黑 1113｜豐雲學堂 2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOaUREZ0xrcElHOWxscFR3cmlJSzJ1QXFLeE9lY29Tckg2dEZyU3AyUS04R1dxOUs5OFk5ZnMtVThmMzlFeXBoN1RSNGQ0RjQ1YnpXNWEzdDduc2FxaVBlNUEwLTgwbFZmMnZ5d2VSUGZ2YTlnbUpZVUpWd29sa0szMThia0tMWjluYU5PVzFCSnB6WW1pWEJhRGRWLXVyREZRblpHNGJYZnlzZ3A4ajk3TjdPZW40VjNIV3VxSWF3UmJoOHFHS0ZCVGlBcWRYZ1B0QnZnNzdQdnFzVmNxV2liRENUS3BRX19HeWF4SlFYY2JMekdSNmFhdjl1XzBaVDFCN1drUHhHWFB2UU80cmd2MDV5MmMtMDVnVXRXWDZlQi1hYXYxWUtSRENfTThDUzViTFRmWmFSRkZXcVpWZFRja3JvM0RjN0JBbldMTHNEeFU2ZGlQMDJsbGZKZFhEaTNicHc?oc=5"
     },
     {
-      "title": "美股收盤》黃仁勳辭職！輝達下挫逾4％ 台積電ADR跌近2％ - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfUnRlUW1BMlJxMWpzVmFfS1dPZE8zV2JvMmhpeFRMWTFJMUJocm1nNU55akpRSTdqQVJtbjlCNWtlY1ZSeG5XaDJwbGtmUy1lWlU4c2EzWHE?oc=5"
+      "title": "〈美股盤後〉黃仁勳閃辭後 輝達市值一夕蒸發超1800億美元 四大指數全黑 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rZ2lFd1dHczhGMG15and4OTlzRjdaQVJWU3EyMThpWlgwMXV4R0pNcXdobWJXa3BmTEg5NC1FUDNWa0FpZ0ZQS3JuLXlDUlk?oc=5"
     },
     {
-      "title": "美股收盘加密概念股、Neocloud普跌，Bitdeer Group跌超12% - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnUzZ2Yk5fMGdXMDJuNDhqY0p2cHJ3cnVDaGQxaXVSYk5XZTAtcUtOVjVRV1NqY3IweW9fVW9kakFfclhLQk9QZlJSS3Axc3owaWVISU1NanM4aTRJWmFMOXBpY1lTUQ?oc=5"
-    },
-    {
-      "title": "【快訊／美股開盤「輝達暴殺14%」 台積電ADR下跌2.68%】 （#大表哥） - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPTlhzeWZ6bjZDR3ZzMmpEUkJzd3hibVVPa0tmd0lVU05lOFRmRldFY1VkV1NoWnJXWHJxQ19CQlg0aU9HWVl3RkdnYUlmaHB5UVhEVXJjem9HUGZQbVJLY2F6VVdnS2k0TEpkT0lBV0VDNU9ZZXZ1YkJqRklmbTlaWnR2aGVKR3JvZkVON1NkU0thT0ZlNS15NWpOZFYwd21tNFRNMl8yTnpiS2tkbDg4anZRaEM3MEl0N1ltTF9EbjBoMXhOVjVhYlk0blZSMjFyNFpXenZiY3hZQW0yOE5FeEY1UlhJSW5MeERFQW8tYXl5QW5QQlcwbTI1NE80UGg3ZGNidWdYN1BNNkI5VUNyNFJCVHFpQzNDMi1hcUl2V1dXNjJrVmhBa2dwSktJUUtSN2RpUEFqb3FJaW1iZXUtMDVUMVBzek5zYlVycQ?oc=5"
+      "title": "黃金暴跌寫1慘紀錄！市場點名「黃仁勳」曝光崩潰原因 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBucEZRODNIclcxVXNyUFgtRDhYZnl0TnBhekt1b1l5WVhpS1lhdzIxbmsyVWQ5a2JCaG5xWmQzVzQ0dWo2SWVtek1Tbkp6SjNMaEMxcXN2T2U?oc=5"
     },
     {
       "title": "NVIDIA高層震盪引爆賣壓 美股收低：晶片暴跌蓋過能源連四漲 - CMoney投資網誌",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNai02R0Nyd2RnNm1GSmJzTEJ3LTcwMWNQaDhFSWRFSzA2UE8zeDh2TXpCRUhGR3lXdFdYUGdKYWFzNTJQZGJoUmlXc0c1S05LQXB6TU9CMFRuMm8tVWYxTDNON09ycHVYeFlOaWpXWDJ2NVlSSUdZS3YydTZxelljb09uMkV0M2lYTDBjYWhn?oc=5"
     },
     {
-      "title": "台股暴跌1165點失守44000點！美股大漲卻逆勢重挫 5大可能下跌原因 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fbWZWVG5HcVprWUl0cUx5c2NJNEh4cXZuUk9yZlE4cWNPMTVGckxjeUY3QnMxN0loSUczQ1pyZk5tckRleUo1RmVFTkdvOXc0WHfSAVdBVV95cUxPZjBaS1FFcUZOQ1V3V2gxZ1pXeFJRTUdoaTEwQmFsajdRTVU4TVJMbWZ3c2pWa2h4RXoxRDNpMUVzb1UtaUxnbmxXcnpkdXRvTlk0TW8weUE?oc=5"
+      "title": "快訊／台股衝了！　開盤飆漲 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OUlVzSWNoRGpmaWRsdUg5VUlkUlJ4cjJFNzlzMVQ3bVlKN2x1b2VyX3ktcHNnYzFkdTI2eVRVTEFLNHl2S1d1cUdkMFhJMVhvYXfSAVBBVV95cUxQN3dwSzlnc3Q0RkFHQXdjNmlfT19aVldhTzl2dHRibklYWVA0SEE3TWNDTS00RGp3N005aFlWeUZKRkxIWUxUQVhIdjJPRjlvMQ?oc=5"
     },
     {
-      "title": "〈台股盤前要聞〉MSCI調整PCB獲青睞、鴻海上修全年展望、黃仁勳辭輝達執行長 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVTRDQW5RdUFoaXlmUnIyYzlkbzkzaHVpZDliTXVXWGNTVVhoWlBfTXRHRmdoWkZndUhkMG9YNWhPUzgyenRmangtak0wZ2M?oc=5"
+      "title": "央行持續買黃金，金價為何仍從高點大跌逾四分之一？ - TNL The News Lens 關鍵評論網",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82TXFGUTYzM1ZkUXZEem1LRFpidmo3c2NLR0Z4X05MaG5aN2M3WnZOYWJHMkNCZ0VJVFFaSlRLT19WSDYxRUVaYzJJLUNRQTZqR3c1Nw?oc=5"
+    },
+    {
+      "title": "美股收盤／黃仁勳離任震盪 AI 股 輝達跌4.3%、超微博通逆勢大漲 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIbmtraGQzOVRZSjVGVHo4ZmsyeDJlRkRBODVSMk5OZDhrbGVKSFIwcDVKM2ZkR1Z3UlNOSzQ0UnRYbE1LUGZPNFhCN0F3ODFfNVlmdUVPYjEtMmZK0gFiQVVfeXFMUFlRMHJ2R0FiVUltTWc0QTlHeGZzbXlZVF84REhpRmIxZW5pY05WenAwSVZhWS1rMkNNZ2pTVFBaUWhzQ2ttZVh0ellYTEZxc2kwNGdBTnBzdlNHcXN2RjBIb0E?oc=5"
     }
   ]
 }
