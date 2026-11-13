@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/14 02:04",
+  "updated_tw": "11/14 07:32",
   "taiwan": {
     "2330": {
       "price": 2350.0,
-      "change": -45.0,
-      "changePercent": -1.8789
+      "change": 10.0,
+      "changePercent": 0.4274
     },
     "2454": {
       "price": 4120.0,
-      "change": 130.0,
-      "changePercent": 3.2581
+      "change": 270.0,
+      "changePercent": 7.013
     },
     "2317": {
       "price": 241.0,
-      "change": -1.0,
-      "changePercent": -0.4132
+      "change": 1.0,
+      "changePercent": 0.4167
     },
     "0050": {
       "price": 102.5,
@@ -35,51 +35,51 @@
   },
   "us": {
     "NVDA": {
-      "price": 160.745,
-      "change": -5.445,
-      "changePercent": -3.2764
+      "price": 162.85,
+      "change": -3.34,
+      "changePercent": -2.0097
     },
     "AAPL": {
-      "price": 357.55,
-      "change": 2.67,
-      "changePercent": 0.7524
+      "price": 356.27,
+      "change": 1.39,
+      "changePercent": 0.3917
     },
     "TSLA": {
-      "price": 389.59,
-      "change": -7.86,
-      "changePercent": -1.9776
+      "price": 390.22,
+      "change": -7.23,
+      "changePercent": -1.8191
     },
     "QQQ": {
-      "price": 676.09,
-      "change": -12.08,
-      "changePercent": -1.7554
+      "price": 679.89,
+      "change": -8.28,
+      "changePercent": -1.2032
     },
     "SPY": {
-      "price": 751.09,
-      "change": -6.03,
-      "changePercent": -0.7964
+      "price": 754.37,
+      "change": -2.75,
+      "changePercent": -0.3632
     },
     "SCHD": {
-      "price": 35.965,
-      "change": 0.035,
-      "changePercent": 0.0974
+      "price": 36.12,
+      "change": 0.19,
+      "changePercent": 0.5288
     },
     "VOO": {
-      "price": 690.41,
-      "change": -5.59,
-      "changePercent": -0.8032
+      "price": 693.38,
+      "change": -2.62,
+      "changePercent": -0.3764
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68809.36,
-      "change": -2533.6087,
-      "changePercent": -3.5513
+      "price": 68127.7,
+      "change": -3215.2688,
+      "changePercent": -4.5068
     },
     "ETH": {
-      "price": 1935.22,
-      "change": -81.6097,
-      "changePercent": -4.0464
+      "price": 1924.24,
+      "change": -92.5897,
+      "changePercent": -4.5909
     }
   },
   "fx": {
@@ -89,27 +89,27 @@
       "changePercent": 0.0399
     },
     "JPYTWD": {
-      "price": 0.2034,
-      "change": -0.0024,
-      "changePercent": -1.183
+      "price": 0.2037,
+      "change": -0.0021,
+      "changePercent": -1.0372
     },
     "EURTWD": {
-      "price": 36.296,
-      "change": -0.1727,
-      "changePercent": -0.4734
+      "price": 36.279,
+      "change": -0.1897,
+      "changePercent": -0.52
     },
     "CNYTWD": {
-      "price": 4.932,
+      "price": 4.935,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3892.4,
-    "twd": 4114.0,
-    "tael": 154279.0,
-    "twdTotal": 127963.0,
-    "changePercent": 0.1827
+    "usd": 3887.6,
+    "twd": 4109.0,
+    "tael": 154088.0,
+    "twdTotal": 127805.0,
+    "changePercent": 0.0592
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,12 +117,20 @@
   },
   "news": [
     {
+      "title": "〈美股盤後〉黑色星期五！輝達單週慘崩13% 費半跌超3.4% 但三大指數仍創8月初來最佳一週 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4NHNyalBEYmJiMHVkamJBVEZ1WkRXNFE4VWxLZXlXUzU4WlhZZmxRTmVIRHRwUFl6Rzdvd0RXc19SeU8zbmF3cDM4NlZaLUk?oc=5"
+    },
+    {
       "title": "【美股盤前1113】輝達重挫？靜待今晚PPI數據！｜豐雲學堂 2026 年 11 月 - 永豐金證券",
       "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcnFNZG1uTERyOFdHekt1SzNNejhTQXM3MzMwTGw0akYyWnFIWW9ZU19aWUc1cGpVV2psRDZQVktzbjRubnM5dWdUajNSY3RMUkhNZ0tVWU12SVBXUl9GVzBMYVpyTllmQmxkaE9CYWcxMU9lejhGNWd0aUtfa0pSOVNVSWo2SWlLdUZ6MW5XU081TV84T1B6Qk8wZl9FbG15cmxPQUNOT1JwcjJyMzh3M19HdnNCWFlJV1EtNDlSYmtpaUVpZjloMmk5Y1JmdnU3T0tjVUdhZ0pOQXVjTXpFYkF6RWhyZFJEU0FIejY5cjNhQkFGV3IzWUxTX1FIODdtRWo2Mi1ab0ZFUUlGSktQSDZTbzBDVGZrLWRCWWc0eFNuUUlYSTJiNVhHTWZMamhzWWVmNWY5anNOMWc?oc=5"
     },
     {
-      "title": "〈美股早盤〉輝達回穩、PPI數據助攻 主要指數漲跌不一 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ORkhnU0F1LTV3Y05pdUxyVHExMXFrT3pSOGhSZjF1Y1QwYXkzdmNJckJfRm1XUjZ6NS1yVE9ScVdCSVBpeG9ManNrMkwxRUU?oc=5"
+      "title": "美股收盘光模块/高速互联、Neocloud普跌，Bit Digital跌超11% - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90cjlWVk4yYy10UXlQSHhaYkR5N0pSQ0xDUjFFNWdqZVByNkFhYm1JOEozZU9YWXRNV1hmNkwyVEt3VjZKOXR4NkZJLWVTajFfd3BydmxFMEk3ZkNpLWVBMl9TU1c2UQ?oc=5"
+    },
+    {
+      "title": "黃仁勳風波續燒、輝達跌沒停！美股4大指數漲跌互見台積電ADR跌1.67%、台指期夜盤摔133點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxObGx5Q3laci1ZVDQxcHRtSl9BTm9iZjZBRnFlUC1tTHR5UThBU0oxNWNRcDRodDQxeWQ0X1hFaF9ldFlidlJLMU1Gd2RqU2RzSWt2ZUZWNEN0ajJlblJKOW0yaVY2LS1PZktSdmNGTXJCM2lVS3FPaXJvcFd3d2kydnZZMTBQQTdRVVVqTm9CQ2xZdVZyTzlXX3ItRWJqd0dZbFBObmNSZXNsUHdGQkpQcDdWNFZrYjlRaXZrUUJkNURDSzVCelMtWndid1NXWExZT085eHV3aUFLWFQ0clc2WWRsQXk1bFNTNzBtS0U2Z0RLRU9OXzNvWGM0RjFIVEpMRnVCWVgtYndhUHdaX3ZUaVQ5Slc1azI2d1Y1NWFsLWNEaFR5MzU0N1ltVlJpQUctaVB3YXlxVmRCN1BiN2hOYU1FVmRMUzFQVFBGWDBGZG0xcUVUa1pxY3EtdkxuQmh1aEJYSmJVal9ucml2WWEtNlNCVDBTN1BxQjhxQ1JoRDEyX3pKZHpTWjdpRklNOEJua3lkMDhB?oc=5"
     },
     {
       "title": "美股早盤／黃仁勳下台陰影持續壟罩！標普那指翻黑費半愈跌愈深| 全球財經| 全球 - UDN",
@@ -133,20 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52VEdGN3huOGlBbGNGNlc2S2E5QXlZUFI3dUt2N21tREdOS2FMb2prNnJueXpfUkVKQldCeEJoYllxYkZvbHhjc0RuOXZHRzBCRUHSAVBBVV95cUxQN0NhemxjbnJCZWVFeV9jM21qbXBPa2lWaUt1bEZyV2ZGc2FETUxkSTFpNC1kaDEyTWw0VlZXZVJQV3MwT2tuOFNSY01DUHpkdg?oc=5"
     },
     {
-      "title": "美股光通信概念股集體下跌，邁威爾跌超5% - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JdGJSdnJXRGxLYmhMWGhIajdCRFFCT0NlZFNZbS1FYnVkWHNhY3FkYlE3bDZwbThtek90VmdLU3VoSXdKQXRheXhRbTJOR2ZUTTBESzJsYUxMT2xoWW5tXzB4dlNEVThPS2c?oc=5"
+      "title": "比特幣失守 7 萬美元大關 全網爆倉逾 16 億美元創波段新低 - 商傳媒",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNWkhZT3JIWTdxRzVwV09qQ0hKd2Y0VXI5QTRCUzMxbWlTNXI4VEM1ajZFUEM2YmFyR3BwTjR6UVZ3cUhkQ1JCeXdfWEhFWjRPX0Z4RjdEMElESFlUcy1LNS1MU3JGZVBKZU45WTVLZHNiamJvVXZWOUE5V2tzaDNZbXZoQVZfRS1Fa2hSdDA0a25nUUJEQzA1MVhIWEhWazVxRTJ0Qk0zc2pnc1VLMVJvZGtMMmFFTWRud3h5WDZydzZCSEczRGlSYWdRaVV5TTJReW41U09TSzN1MGtWM24xVE50aDZoZGpIRU1LazJMM2VHOXJxMXNkZXJqdTJFelduM1A3MVBUZXJFV2dJM2x2ZTF1Qk1xa0NKVTM2MlRnMHN1RGNXODhicVJUQkZXTUF0bC1aMU1RU3R1US00OE9Od01Oc1VPWWxkaXFOb1YzaWxucHNyVFZURWk1bU1LQTFfVWJVRmlTZE1kVlRWQ1V5azJCQkJZQTNkSDFMRVNRTU5oRS1TbXRrZFVoTQ?oc=5"
     },
     {
-      "title": "輝達利空逐步淡化？股價跌幅收斂 美股開盤多空拉鋸、主要指數走勢分歧 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQeTZkR21NNnVjemlmbzZLLWtNN293SjBTazZJRTg2dkVQd0xIWXNFeGlLdm9IRndwUjJfVTVzNVg4M285V2UxTFNxQjAteG5mOE9OSE9TWGJNUDZRU25LS1AzcWoybDRlaDR6NzdRTkdvb2xsalAxdGdENXgwOWo3UlRBc0VFeXljSzF4d1pJZXV6TWlJbDdvZFZZRFhzb21KTVBMY0FhMEJzSWF2WkxCUFk5NFNkaVdXZHQxMm9GMEtPM3ozTG45N1NCQWxFcXRINC16dmN0RldVM0dfR1lnSDljV3duaFlTZ0RsTWtYSG5FcFRqV3RQRm5qMWZ0VFcxelBvekhObTNncEtWN3MwM1k4S3hiRHR6MmE0Njlsc3NjRkhHWUltYjJPRFJwemF5YmRvMnZpdWJXeURxcTdXVGdwSWMwQkJQWnp5R2pad2N4X1d5TWVheUtOcFQyeEp1RmItRk12dVFBWWtTN0dISjdvR3pyemkwZ0xpZk5oZEpQeG14ZFhBeGs2bm5GakNpZjdlMk1icWt4eFBtVy12N2J1TXBWNnlxd0V0M1JUa3RmYjRqa2Rwa28zTjF5bjRMSUFQMHRhVQ?oc=5"
-    },
-    {
-      "title": "黃金走勢分析：兩大因素拖累金價跌破3900，周線收盤或成後市關鍵！ - Mitrade",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wUG9aN1BFcl9RNHZYcFQ3MXlSZmdTWmVnUFZ4anE2Q3JiVi13S3pWaWZFWVNuZUx6MWdnX1hiNWRaMm1MS2ZXckQtdzZSb212emVoNGlQOW8yMF9VSjRXOGVjaFBIcEcyWFM2cFA1N2U5ZUFsS2dScldR?oc=5"
-    },
-    {
-      "title": "黃金暴跌寫1慘紀錄！市場點名「黃仁勳」曝光崩潰原因 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uNWxmZHpBNEZhUnY3Q2lnMUY4bzJYellsZnBGSzA0Y0JzV2tHd1dwMXhHTk01V3RBVGc2WkFMSG4xb0xacndfVVMtMi1HRWxJemVTN0JTWEtDVzBtOG9r0gFkQVVfeXFMUFNGcTJLV0ppR2NxTXRhM3J3MkFmcnBUeU5sWlhxSkxwWVZ0ZXI4VWpRVHdkckpPTWdGVVJjOWxtV1JGMGtZMzM5TDBLeVE0S2IxMTFuNTZpTy1DTm1xMTgyWlNfTQ?oc=5"
+      "title": "〈美股早盤〉輝達回穩、PPI數據助攻 主要指數漲跌不一 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ORkhnU0F1LTV3Y05pdUxyVHExMXFrT3pSOGhSZjF1Y1QwYXkzdmNJckJfRm1XUjZ6NS1yVE9ScVdCSVBpeG9ManNrMkwxRUU?oc=5"
     }
   ]
 }
