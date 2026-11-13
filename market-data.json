@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/13 10:47",
+  "updated_tw": "11/13 18:33",
   "taiwan": {
     "2330": {
-      "price": 2370.0,
-      "change": 30.0,
-      "changePercent": 1.2821
+      "price": 2350.0,
+      "change": 10.0,
+      "changePercent": 0.4274
     },
     "2454": {
-      "price": 4235.0,
-      "change": 385.0,
-      "changePercent": 10.0
+      "price": 4120.0,
+      "change": 270.0,
+      "changePercent": 7.013
     },
     "2317": {
-      "price": 239.0,
-      "change": -1.0,
-      "changePercent": -0.4167
+      "price": 241.0,
+      "change": 1.0,
+      "changePercent": 0.4167
     },
     "0050": {
-      "price": 103.55,
-      "change": 0.35,
-      "changePercent": 0.3392
+      "price": 102.5,
+      "change": 1.55,
+      "changePercent": 1.5354
     },
     "00878": {
-      "price": 33.58,
-      "change": 0.08,
-      "changePercent": 0.2388
+      "price": 33.6,
+      "change": 0.6,
+      "changePercent": 1.8182
     },
     "00919": {
-      "price": 31.46,
-      "change": 0.24,
-      "changePercent": 0.7687
+      "price": 31.53,
+      "change": 0.58,
+      "changePercent": 1.874
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70214.46,
-      "change": -3750.0087,
-      "changePercent": -5.07
+      "price": 69219.42,
+      "change": -2123.5488,
+      "changePercent": -2.9765
     },
     "ETH": {
-      "price": 1991.08,
-      "change": -64.7962,
-      "changePercent": -3.1518
+      "price": 1948.48,
+      "change": -68.3497,
+      "changePercent": -3.389
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.897,
-      "change": 0.0351,
-      "changePercent": 0.1068
+      "price": 32.863,
+      "change": 0.0011,
+      "changePercent": 0.0033
     },
     "JPYTWD": {
-      "price": 0.2029,
-      "change": -0.0029,
-      "changePercent": -1.4259
+      "price": 0.2033,
+      "change": -0.0025,
+      "changePercent": -1.2316
     },
     "EURTWD": {
-      "price": 36.315,
-      "change": -0.1537,
-      "changePercent": -0.4213
+      "price": 36.366,
+      "change": -0.1027,
+      "changePercent": -0.2815
     },
     "CNYTWD": {
-      "price": 4.9251,
+      "price": 4.9298,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3916.5,
-    "twd": 4142.0,
-    "tael": 155338.0,
-    "twdTotal": 128841.0,
-    "changePercent": 0.803
+    "usd": 3901.7,
+    "twd": 4122.0,
+    "tael": 154591.0,
+    "twdTotal": 128222.0,
+    "changePercent": 0.4221
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "黃仁勳請辭震撼市場！美股4大指數全倒、輝達一度崩跌12% 台積電ADR、台指期同步下挫 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxORzhvOGlpSUJFRHluTUp2LXZKT2tNQ2ZQVDcxUTlpUW5xSmUwY3FWUkIyekk1ZUdpWjVrWk1LczR3d0dhQXM3aV81Q0V4X1RSNnR3cmVHb2xCSnlMblFPNnMzOEwzc08yUndQVUxtZUZLblBXRElORnhqNFJqUXhXM0JpbWswRi04ZlB4MDBzU0JVUmFuSjhuWGlrejVZRFNPRTdaUEVCT2pJNjdMaV9FNmd5Q3hqUkFWZTJfdlprN1JBYWhTX1dJVzdrUHNjRFN0MHJNWno2eHRGTjNVdFBWMVhxdGI5LTl4QTBiMUFKU3Zxc2NudGg1eWt0clE4TUUyd3VxX3N5SlBMd0h2VXlrbmdIclNBVVBJR3pGQkdWdUhJTHRrdXJScTJnV1BiSHctcnRjcjBkLWN3TS03dVVMTm9HSkZsOVBqOE9iaS03bldSZEZYOGZNZXhPT2NBcGNhNW1BUUhJTXB0elBFNTkyeG1JdmFpYWVFRjZ6bjh2Y3JGZHpkRVI1ag?oc=5"
+      "title": "【1113台股盤後】輝達一度跌14%尾盤拉回，台股強彈583點！台幣升值外資終結連11賣轉買，外本比策略鎖定【敬鵬】、【華經】、【事欣科】｜豐雲學堂2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMiswVBVV95cUxQVmdPSUwtNmR5enJHMWpfVzNLQzJxcFhJSjAtdERsQlBURFZmVV9ZdHJ0bEVLVU1SM056WDhlOHcxcmUwdGktRzNUdnJ2OHAyNGZKSlRMWGRWeVhCZ2VxWU96S3pIX0k0NWNPYnhmczVFZkJQbkRkNzRFakRxZ3ZERk5YRlpnZFRjOUwtMzlvb0ozYUFIUkZrVkd1QXpFU0tERVNQQ3c0VmUwR3lHVG1vWUZhX3lrWjJncmcxM0J4bDM1UFZVeEdPeXVXTTBBeGhNa0xUVWRaMjNZTFJLZGJ5dXFCeDdUTDdHNWVOSG16dnc0UkFUc3d5Q0lFTVljM3VMc2FNNi14V214NlE1ckFDajRQU3R6LUthYTFjdU5VcUlvcjNBWUtLTkJyM1ZEcTZmYlpuVWhvdTRBeWstZGJhMzRKWDdGM0pmYkt0WHdLenM5ZDdhT0tvR1hUT2xHb0poTEk3ZmlPWS1YWUxpRnBXb0tueFM1QjlpdEhXeTZhdHVIaWdWN0syUF9tUm9uZHUtYWM2a21JNmFRalRIeXRRcXRXZWpSellYS2lhbW13TmR3a2psRFZ1aTJxNmZveTZlMTE1X29YMXRtNlJCemkwekVnUm8zNS0wcnpYa0JlMDF1clFUMzlRLWU0bmRpVVM2VzVJRzk2cFI4X25mTzRYWWNEem9ieTJLajBRdXpTS1FNRzg1X1p5dmdyaVhFYW10cWUxT1l3dU1qdHQwMzVoOWtoS0FNNllwSk8tNjJhSDlINTBFNGtmb1AtRFdlbFk4SFlwR0JJMzdqTUVlREZLV0lHREVGSDNLdG1yWGMzbThGZ1JmUEM2QnJjcG1HSm81WUZUb1V0OVZxcWxJdFJZLVFKU3Mwd3ZGSHNhMWVUcG9zc2R6LWkzN2dhY3JxZ0kzSWQw?oc=5"
     },
     {
-      "title": "美股盤後｜Nvidia宣布黃仁勳辭退，四大指數收黑 1113｜豐雲學堂 2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOaUREZ0xrcElHOWxscFR3cmlJSzJ1QXFLeE9lY29Tckg2dEZyU3AyUS04R1dxOUs5OFk5ZnMtVThmMzlFeXBoN1RSNGQ0RjQ1YnpXNWEzdDduc2FxaVBlNUEwLTgwbFZmMnZ5d2VSUGZ2YTlnbUpZVUpWd29sa0szMThia0tMWjluYU5PVzFCSnB6WW1pWEJhRGRWLXVyREZRblpHNGJYZnlzZ3A4ajk3TjdPZW40VjNIV3VxSWF3UmJoOHFHS0ZCVGlBcWRYZ1B0QnZnNzdQdnFzVmNxV2liRENUS3BRX19HeWF4SlFYY2JMekdSNmFhdjl1XzBaVDFCN1drUHhHWFB2UU80cmd2MDV5MmMtMDVnVXRXWDZlQi1hYXYxWUtSRENfTThDUzViTFRmWmFSRkZXcVpWZFRja3JvM0RjN0JBbldMTHNEeFU2ZGlQMDJsbGZKZFhEaTNicHc?oc=5"
+      "title": "黃仁勳請辭震撼市場！美股4大指數全倒、輝達一度崩跌12% 台積電ADR、台指期同步下挫 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxORzhvOGlpSUJFRHluTUp2LXZKT2tNQ2ZQVDcxUTlpUW5xSmUwY3FWUkIyekk1ZUdpWjVrWk1LczR3d0dhQXM3aV81Q0V4X1RSNnR3cmVHb2xCSnlMblFPNnMzOEwzc08yUndQVUxtZUZLblBXRElORnhqNFJqUXhXM0JpbWswRi04ZlB4MDBzU0JVUmFuSjhuWGlrejVZRFNPRTdaUEVCT2pJNjdMaV9FNmd5Q3hqUkFWZTJfdlprN1JBYWhTX1dJVzdrUHNjRFN0MHJNWno2eHRGTjNVdFBWMVhxdGI5LTl4QTBiMUFKU3Zxc2NudGg1eWt0clE4TUUyd3VxX3N5SlBMd0h2VXlrbmdIclNBVVBJR3pGQkdWdUhJTHRrdXJScTJnV1BiSHctcnRjcjBkLWN3TS03dVVMTm9HSkZsOVBqOE9iaS03bldSZEZYOGZNZXhPT2NBcGNhNW1BUUhJTXB0elBFNTkyeG1JdmFpYWVFRjZ6bjh2Y3JGZHpkRVI1ag?oc=5"
     },
     {
       "title": "〈美股盤後〉黃仁勳閃辭後 輝達市值一夕蒸發超1800億美元 四大指數全黑 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rZ2lFd1dHczhGMG15and4OTlzRjdaQVJWU3EyMThpWlgwMXV4R0pNcXdobWJXa3BmTEg5NC1FUDNWa0FpZ0ZQS3JuLXlDUlk?oc=5"
     },
     {
-      "title": "黃金暴跌寫1慘紀錄！市場點名「黃仁勳」曝光崩潰原因 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBucEZRODNIclcxVXNyUFgtRDhYZnl0TnBhekt1b1l5WVhpS1lhdzIxbmsyVWQ5a2JCaG5xWmQzVzQ0dWo2SWVtek1Tbkp6SjNMaEMxcXN2T2U?oc=5"
+      "title": "黃金暴跌寫1慘紀錄！市場點名「黃仁勳」曝光崩潰原因 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uNWxmZHpBNEZhUnY3Q2lnMUY4bzJYellsZnBGSzA0Y0JzV2tHd1dwMXhHTk01V3RBVGc2WkFMSG4xb0xacndfVVMtMi1HRWxJemVTN0JTWEtDVzBtOG9r0gFkQVVfeXFMUFNGcTJLV0ppR2NxTXRhM3J3MkFmcnBUeU5sWlhxSkxwWVZ0ZXI4VWpRVHdkckpPTWdGVVJjOWxtV1JGMGtZMzM5TDBLeVE0S2IxMTFuNTZpTy1DTm1xMTgyWlNfTQ?oc=5"
     },
     {
-      "title": "NVIDIA高層震盪引爆賣壓 美股收低：晶片暴跌蓋過能源連四漲 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNai02R0Nyd2RnNm1GSmJzTEJ3LTcwMWNQaDhFSWRFSzA2UE8zeDh2TXpCRUhGR3lXdFdYUGdKYWFzNTJQZGJoUmlXc0c1S05LQXB6TU9CMFRuMm8tVWYxTDNON09ycHVYeFlOaWpXWDJ2NVlSSUdZS3YydTZxelljb09uMkV0M2lYTDBjYWhn?oc=5"
+      "title": "【美股盤前1113】輝達重挫？靜待今晚PPI數據！｜豐雲學堂 2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcnFNZG1uTERyOFdHekt1SzNNejhTQXM3MzMwTGw0akYyWnFIWW9ZU19aWUc1cGpVV2psRDZQVktzbjRubnM5dWdUajNSY3RMUkhNZ0tVWU12SVBXUl9GVzBMYVpyTllmQmxkaE9CYWcxMU9lejhGNWd0aUtfa0pSOVNVSWo2SWlLdUZ6MW5XU081TV84T1B6Qk8wZl9FbG15cmxPQUNOT1JwcjJyMzh3M19HdnNCWFlJV1EtNDlSYmtpaUVpZjloMmk5Y1JmdnU3T0tjVUdhZ0pOQXVjTXpFYkF6RWhyZFJEU0FIejY5cjNhQkFGV3IzWUxTX1FIODdtRWo2Mi1ab0ZFUUlGSktQSDZTbzBDVGZrLWRCWWc0eFNuUUlYSTJiNVhHTWZMamhzWWVmNWY5anNOMWc?oc=5"
     },
     {
-      "title": "快訊／台股衝了！　開盤飆漲 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OUlVzSWNoRGpmaWRsdUg5VUlkUlJ4cjJFNzlzMVQ3bVlKN2x1b2VyX3ktcHNnYzFkdTI2eVRVTEFLNHl2S1d1cUdkMFhJMVhvYXfSAVBBVV95cUxQN3dwSzlnc3Q0RkFHQXdjNmlfT19aVldhTzl2dHRibklYWVA0SEE3TWNDTS00RGp3N005aFlWeUZKRkxIWUxUQVhIdjJPRjlvMQ?oc=5"
+      "title": "ASIC軍團點火！聯發科、創意噴漲停 台股收漲583點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOWEQwOFBucDhNWHhMUFpneFFLMEtqVFlHTzhOLTFIekU3WUVIdldqRlpydlJTMW5pZnh2OU5XVXVhak1kOFpHTGxsVE9kMm1iSGhhX0l3a3IxS3dsNDB5Q2pZX3d0TWFmNE1wVTc5b09KYWJSbTRsX3NLUW1RNGRkQUtmVzhRRTZnNHByUTQ4dHZzanhaaGtvbVk2UXhIenlqTWdMRzAzcnMwVXdWVkc5RVFRSm1MbGhrWkJ4MDJnenNPRjM5Q2pLZG9KcDNSQ1hPVDJYVkU2QVdGalEtRmNPbUIydWxka296cGd0bjNkdXdEVFotWDdwMkItRFN4Z015QkE1MnUtZ1VteWI4U0dxMl9Ka3NlWktsRGtNNXZRalJCN1V4bG9qd2xjeUdiOXdxU3lLQQ?oc=5"
     },
     {
-      "title": "央行持續買黃金，金價為何仍從高點大跌逾四分之一？ - TNL The News Lens 關鍵評論網",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82TXFGUTYzM1ZkUXZEem1LRFpidmo3c2NLR0Z4X05MaG5aN2M3WnZOYWJHMkNCZ0VJVFFaSlRLT19WSDYxRUVaYzJJLUNRQTZqR3c1Nw?oc=5"
+      "title": "VIX暴漲後回落！美股落底了？1990年以來歷史數據揭露答案｜美股評析｜豐雲學堂2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxONFV4V2dZQ3Q0eU9PTERlcFllYTEwSW1NY0VqSmtoM0FxMDdlTU9zNHNHNjlLMHcwcjI4a1ZUSVFmLVdSdGYyRUJKckJDa2lueDFBTENkc3JydUlGTWs3bk51bThtT3NaUVI5bW5xUGxMZ25HdUZidlZsZlBSUDA0aEtnTlViRTU3d2RuVlJjVGtrcTVLV3ptenhRaDZQVENOTGRoMlF3cVJaMVY2dUNLdmMyUlNNM3p4U28xWDJkRTFIT1VWdW1ySUJWNmRxNWYybHp2MG1pV2d2S1NVRFNjdHAtZER0UEZGalhsSW5kQWtXbTFWRGJWQ0lzWlZQX1BZSDJLOERIeHdjWXQ4NmtFdzFRMjBtMzZyNU1Wb1FFeENURWtvM1JINWg5NlVFY0NyaEhCTE9YWmdiZEdLQW1CZjdKZDhFVWJMcUJOSEhEaFFuZFd2cHhwUFRfSmMzWGxPczQ1eXh5YTFwNTNVSDVOUjZRUnp1MlNzZ2JSTmpSRkxNaE5ZS3NqSk41Um9DUkNpN2ZkT0tzSFljSjFTQmd4V2l6amktRkRuYXpTNVIwZS1lTE1GSFFycmNwSlFZZw?oc=5"
     },
     {
-      "title": "美股收盤／黃仁勳離任震盪 AI 股 輝達跌4.3%、超微博通逆勢大漲 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIbmtraGQzOVRZSjVGVHo4ZmsyeDJlRkRBODVSMk5OZDhrbGVKSFIwcDVKM2ZkR1Z3UlNOSzQ0UnRYbE1LUGZPNFhCN0F3ODFfNVlmdUVPYjEtMmZK0gFiQVVfeXFMUFlRMHJ2R0FiVUltTWc0QTlHeGZzbXlZVF84REhpRmIxZW5pY05WenAwSVZhWS1rMkNNZ2pTVFBaUWhzQ2ttZVh0ellYTEZxc2kwNGdBTnBzdlNHcXN2RjBIb0E?oc=5"
+      "title": "外資終於回頭！ 台股大漲583點 三大法人買超439億 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNenllc04wc3g0VTMwQ3VyWDA0MXlMYjNaQnBlQTNJMmMtVlVYRTczSm1Nd28zUFkzYktoa2stMmRtYmVWZ3dpV1BUNU9LQlFhYkNwTkN6dDQ1TjNQUTBVWElPcUxiR0lBeTZzbGJkU1JIRF9pYWdUUVZlaktQUEtHQTRvTmh1YmtTMnNsMGJxdlJWQWNIcnV6M0ZBT2p6X3ZjZ2lkWXlJOE9Bc1JMdGxHN3h4MDY0cjFBYWZDQ1Jhd1JHVU1uV1NGRmlqQlBIQk11SXBka0RCclg0djBIUVhJbHlSdFJQXzNuYkpHMjU2OHJXLW4wRWtDV2x5aE1YOUNCNGRJQnhFRmZhZDFtN01iYjR0b01yQktkNE1yYWJTWW1XeVRRMlJ1R2Q4WGxrUmlLNlN4WEdnU3NaM2JMdnc?oc=5"
     }
   ]
 }
