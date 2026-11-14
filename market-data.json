@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/14 11:34",
+  "updated_tw": "11/14 18:57",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 102.5,
-      "change": -0.7,
-      "changePercent": -0.6783
+      "change": 1.55,
+      "changePercent": 1.5354
     },
     "00878": {
       "price": 33.6,
-      "change": 0.1,
-      "changePercent": 0.2985
+      "change": 0.6,
+      "changePercent": 1.8182
     },
     "00919": {
       "price": 31.53,
-      "change": 0.31,
-      "changePercent": 0.993
+      "change": 0.58,
+      "changePercent": 1.874
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66744.01,
-      "change": -4598.9588,
-      "changePercent": -6.4463
+      "price": 67232.34,
+      "change": -1016.9334,
+      "changePercent": -1.49
     },
     "ETH": {
-      "price": 1887.47,
-      "change": -129.3597,
-      "changePercent": -6.414
+      "price": 1907.38,
+      "change": -20.2089,
+      "changePercent": -1.0484
     }
   },
   "fx": {
@@ -105,11 +105,11 @@
     }
   },
   "gold": {
-    "usd": 3887.6,
-    "twd": 4109.0,
-    "tael": 154088.0,
-    "twdTotal": 127805.0,
-    "changePercent": 0.0592
+    "usd": 3886.3,
+    "twd": 4108.0,
+    "tael": 154037.0,
+    "twdTotal": 127762.0,
+    "changePercent": 0.0257
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,8 +125,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4NHNyalBEYmJiMHVkamJBVEZ1WkRXNFE4VWxLZXlXUzU4WlhZZmxRTmVIRHRwUFl6Rzdvd0RXc19SeU8zbmF3cDM4NlZaLUk?oc=5"
     },
     {
+      "title": "美股收盤》黃仁勳風暴輝達續跌！拖累科技股 台積電ADR跌近2％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BNG94OUpqbTFaRHFlMkdxWE5tbjg0dGRNN2Q0WE5SLXoxTTVKR3dfM3dkUEtBTDdYRm9zcThua3JPOV91dXBmU0tPb3hoQzNpR0JaNXJJbjc1Y1NLekcw0gFkQVVfeXFMUGVOZHJkb3BIbWtlaTVMS1FpV3dsWV9FdlBETy0yaFZuTTR1YlltZURhV3RMdHhlQkZLT3ZXSTBUWi1MalNkSkJTalZRZTdZZzhNS0RwWElMX3E1V3ZRNGxGd3U2dg?oc=5"
+    },
+    {
       "title": "VIX暴漲後回落！美股落底了？1990年以來歷史數據揭露答案｜美股評析｜豐雲學堂2026 年 11 月 - 永豐金證券",
       "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxONFV4V2dZQ3Q0eU9PTERlcFllYTEwSW1NY0VqSmtoM0FxMDdlTU9zNHNHNjlLMHcwcjI4a1ZUSVFmLVdSdGYyRUJKckJDa2lueDFBTENkc3JydUlGTWs3bk51bThtT3NaUVI5bW5xUGxMZ25HdUZidlZsZlBSUDA0aEtnTlViRTU3d2RuVlJjVGtrcTVLV3ptenhRaDZQVENOTGRoMlF3cVJaMVY2dUNLdmMyUlNNM3p4U28xWDJkRTFIT1VWdW1ySUJWNmRxNWYybHp2MG1pV2d2S1NVRFNjdHAtZER0UEZGalhsSW5kQWtXbTFWRGJWQ0lzWlZQX1BZSDJLOERIeHdjWXQ4NmtFdzFRMjBtMzZyNU1Wb1FFeENURWtvM1JINWg5NlVFY0NyaEhCTE9YWmdiZEdLQW1CZjdKZDhFVWJMcUJOSEhEaFFuZFd2cHhwUFRfSmMzWGxPczQ1eXh5YTFwNTNVSDVOUjZRUnp1MlNzZ2JSTmpSRkxNaE5ZS3NqSk41Um9DUkNpN2ZkT0tzSFljSjFTQmd4V2l6amktRkRuYXpTNVIwZS1lTE1GSFFycmNwSlFZZw?oc=5"
+    },
+    {
+      "title": "比特幣逾半持有者陷虧損，鏈上指標浮現「觸底訊號」 - BigGo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tOVBwZGc0X0pucWNDaXRnQ1hEMFZZcXNleklNY3NDaHZSN1hKVENlR1g2Z1RxdklsMk5JVlc3dk5lWHdtZEYxc2VlTTZCZFg1aTR0THlQeTlNTXlsNGV1M2Q2bzJUdDlJUEd4bTk5VHJfM1pGX0dmX3Jn?oc=5"
     },
     {
       "title": "美股早盤／黃仁勳下台陰影持續壟罩！標普那指翻黑費半愈跌愈深| 全球財經| 全球 - UDN",
@@ -137,16 +145,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52VEdGN3huOGlBbGNGNlc2S2E5QXlZUFI3dUt2N21tREdOS2FMb2prNnJueXpfUkVKQldCeEJoYllxYkZvbHhjc0RuOXZHRzBCRUHSAVBBVV95cUxQN0NhemxjbnJCZWVFeV9jM21qbXBPa2lWaUt1bEZyV2ZGc2FETUxkSTFpNC1kaDEyTWw0VlZXZVJQV3MwT2tuOFNSY01DUHpkdg?oc=5"
     },
     {
-      "title": "比特幣跌破6.7萬美元創3個月新低，現貨ETF流出約810億新台幣 - BigGo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vSmRTa25qbUdtVzRsSDc4QWFjNmZqaTBOdWdzRnhxX3hFSzVMUFVnR1hCUFNJWVEzU1RmeFVBcTEyRmhZTThSVjhjeXdSYmtJcHNZbS1ZRG1Wa1hTS2M1MFdiODB2VDFZT2FjZ3FBYnl4OEdVanlHdHBR?oc=5"
-    },
-    {
-      "title": "【美股盤前1113】輝達重挫？靜待今晚PPI數據！｜豐雲學堂 2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcnFNZG1uTERyOFdHekt1SzNNejhTQXM3MzMwTGw0akYyWnFIWW9ZU19aWUc1cGpVV2psRDZQVktzbjRubnM5dWdUajNSY3RMUkhNZ0tVWU12SVBXUl9GVzBMYVpyTllmQmxkaE9CYWcxMU9lejhGNWd0aUtfa0pSOVNVSWo2SWlLdUZ6MW5XU081TV84T1B6Qk8wZl9FbG15cmxPQUNOT1JwcjJyMzh3M19HdnNCWFlJV1EtNDlSYmtpaUVpZjloMmk5Y1JmdnU3T0tjVUdhZ0pOQXVjTXpFYkF6RWhyZFJEU0FIejY5cjNhQkFGV3IzWUxTX1FIODdtRWo2Mi1ab0ZFUUlGSktQSDZTbzBDVGZrLWRCWWc0eFNuUUlYSTJiNVhHTWZMamhzWWVmNWY5anNOMWc?oc=5"
-    },
-    {
-      "title": "比特幣失守 7 萬美元大關 全網爆倉逾 16 億美元創波段新低 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNT2dDR2daNWRHeDRELWNKYXB3Z3ZLTHRHOWVONDVJMFdXZFIwZm5UeUNpd21kNU1KWmt2N3VJVGVnNGRCQTZVc1drdVh3SUhHLXVEOUFmMzJhYlZtTmtlX0FsVHVvUFhRRE9CSkk3STBTbEllUUk5bW5vUmNCYlBnX2tkSk5JZUw5S1FDbmthSDV0NjMzaVE4YXpSYlRneGxqNVFpYVNlaW55M3pjdzBoV1V2YjAzSzBUUWxIZDJVOHF3clBnZ1d2MWlxZGhpVHpNNzRrUFdfR3NqTDJtVUFmMEgxSTdmMFBYcHpxMXBwOFA5REpuSE5FdGZPQVZsZ0pZdFlyUmVuUzJ0MUd5ak9SNE82a201M1Rl?oc=5"
+      "title": "賣幣籌資搶進Anthropic IPO？比特幣周跌近10%失守6.8萬美元 逼近牛熊分界線 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSb2djRVRtYWl1REQtNFQ3eHFMMFYxLVdocGtCRmVLOTZBOE41ZjlFRDR2TmkxS3dSQXpna3ZDR1FkM1IyMXd1LWN1c3ROZmM?oc=5"
     }
   ]
 }
