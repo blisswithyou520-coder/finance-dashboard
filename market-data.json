@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/14 07:32",
+  "updated_tw": "11/14 11:34",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 68127.7,
-      "change": -3215.2688,
-      "changePercent": -4.5068
+      "price": 66744.01,
+      "change": -4598.9588,
+      "changePercent": -6.4463
     },
     "ETH": {
-      "price": 1924.24,
-      "change": -92.5897,
-      "changePercent": -4.5909
+      "price": 1887.47,
+      "change": -129.3597,
+      "changePercent": -6.414
     }
   },
   "fx": {
@@ -117,20 +117,16 @@
   },
   "news": [
     {
+      "title": "黃仁勳風波續燒、輝達跌沒停！美股4大指數漲跌互見台積電ADR跌1.67%、台指期夜盤摔133點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxObGx5Q3laci1ZVDQxcHRtSl9BTm9iZjZBRnFlUC1tTHR5UThBU0oxNWNRcDRodDQxeWQ0X1hFaF9ldFlidlJLMU1Gd2RqU2RzSWt2ZUZWNEN0ajJlblJKOW0yaVY2LS1PZktSdmNGTXJCM2lVS3FPaXJvcFd3d2kydnZZMTBQQTdRVVVqTm9CQ2xZdVZyTzlXX3ItRWJqd0dZbFBObmNSZXNsUHdGQkpQcDdWNFZrYjlRaXZrUUJkNURDSzVCelMtWndid1NXWExZT085eHV3aUFLWFQ0clc2WWRsQXk1bFNTNzBtS0U2Z0RLRU9OXzNvWGM0RjFIVEpMRnVCWVgtYndhUHdaX3ZUaVQ5Slc1azI2d1Y1NWFsLWNEaFR5MzU0N1ltVlJpQUctaVB3YXlxVmRCN1BiN2hOYU1FVmRMUzFQVFBGWDBGZG0xcUVUa1pxY3EtdkxuQmh1aEJYSmJVal9ucml2WWEtNlNCVDBTN1BxQjhxQ1JoRDEyX3pKZHpTWjdpRklNOEJua3lkMDhB?oc=5"
+    },
+    {
       "title": "〈美股盤後〉黑色星期五！輝達單週慘崩13% 費半跌超3.4% 但三大指數仍創8月初來最佳一週 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4NHNyalBEYmJiMHVkamJBVEZ1WkRXNFE4VWxLZXlXUzU4WlhZZmxRTmVIRHRwUFl6Rzdvd0RXc19SeU8zbmF3cDM4NlZaLUk?oc=5"
     },
     {
-      "title": "【美股盤前1113】輝達重挫？靜待今晚PPI數據！｜豐雲學堂 2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcnFNZG1uTERyOFdHekt1SzNNejhTQXM3MzMwTGw0akYyWnFIWW9ZU19aWUc1cGpVV2psRDZQVktzbjRubnM5dWdUajNSY3RMUkhNZ0tVWU12SVBXUl9GVzBMYVpyTllmQmxkaE9CYWcxMU9lejhGNWd0aUtfa0pSOVNVSWo2SWlLdUZ6MW5XU081TV84T1B6Qk8wZl9FbG15cmxPQUNOT1JwcjJyMzh3M19HdnNCWFlJV1EtNDlSYmtpaUVpZjloMmk5Y1JmdnU3T0tjVUdhZ0pOQXVjTXpFYkF6RWhyZFJEU0FIejY5cjNhQkFGV3IzWUxTX1FIODdtRWo2Mi1ab0ZFUUlGSktQSDZTbzBDVGZrLWRCWWc0eFNuUUlYSTJiNVhHTWZMamhzWWVmNWY5anNOMWc?oc=5"
-    },
-    {
-      "title": "美股收盘光模块/高速互联、Neocloud普跌，Bit Digital跌超11% - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90cjlWVk4yYy10UXlQSHhaYkR5N0pSQ0xDUjFFNWdqZVByNkFhYm1JOEozZU9YWXRNV1hmNkwyVEt3VjZKOXR4NkZJLWVTajFfd3BydmxFMEk3ZkNpLWVBMl9TU1c2UQ?oc=5"
-    },
-    {
-      "title": "黃仁勳風波續燒、輝達跌沒停！美股4大指數漲跌互見台積電ADR跌1.67%、台指期夜盤摔133點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxObGx5Q3laci1ZVDQxcHRtSl9BTm9iZjZBRnFlUC1tTHR5UThBU0oxNWNRcDRodDQxeWQ0X1hFaF9ldFlidlJLMU1Gd2RqU2RzSWt2ZUZWNEN0ajJlblJKOW0yaVY2LS1PZktSdmNGTXJCM2lVS3FPaXJvcFd3d2kydnZZMTBQQTdRVVVqTm9CQ2xZdVZyTzlXX3ItRWJqd0dZbFBObmNSZXNsUHdGQkpQcDdWNFZrYjlRaXZrUUJkNURDSzVCelMtWndid1NXWExZT085eHV3aUFLWFQ0clc2WWRsQXk1bFNTNzBtS0U2Z0RLRU9OXzNvWGM0RjFIVEpMRnVCWVgtYndhUHdaX3ZUaVQ5Slc1azI2d1Y1NWFsLWNEaFR5MzU0N1ltVlJpQUctaVB3YXlxVmRCN1BiN2hOYU1FVmRMUzFQVFBGWDBGZG0xcUVUa1pxY3EtdkxuQmh1aEJYSmJVal9ucml2WWEtNlNCVDBTN1BxQjhxQ1JoRDEyX3pKZHpTWjdpRklNOEJua3lkMDhB?oc=5"
+      "title": "VIX暴漲後回落！美股落底了？1990年以來歷史數據揭露答案｜美股評析｜豐雲學堂2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxONFV4V2dZQ3Q0eU9PTERlcFllYTEwSW1NY0VqSmtoM0FxMDdlTU9zNHNHNjlLMHcwcjI4a1ZUSVFmLVdSdGYyRUJKckJDa2lueDFBTENkc3JydUlGTWs3bk51bThtT3NaUVI5bW5xUGxMZ25HdUZidlZsZlBSUDA0aEtnTlViRTU3d2RuVlJjVGtrcTVLV3ptenhRaDZQVENOTGRoMlF3cVJaMVY2dUNLdmMyUlNNM3p4U28xWDJkRTFIT1VWdW1ySUJWNmRxNWYybHp2MG1pV2d2S1NVRFNjdHAtZER0UEZGalhsSW5kQWtXbTFWRGJWQ0lzWlZQX1BZSDJLOERIeHdjWXQ4NmtFdzFRMjBtMzZyNU1Wb1FFeENURWtvM1JINWg5NlVFY0NyaEhCTE9YWmdiZEdLQW1CZjdKZDhFVWJMcUJOSEhEaFFuZFd2cHhwUFRfSmMzWGxPczQ1eXh5YTFwNTNVSDVOUjZRUnp1MlNzZ2JSTmpSRkxNaE5ZS3NqSk41Um9DUkNpN2ZkT0tzSFljSjFTQmd4V2l6amktRkRuYXpTNVIwZS1lTE1GSFFycmNwSlFZZw?oc=5"
     },
     {
       "title": "美股早盤／黃仁勳下台陰影持續壟罩！標普那指翻黑費半愈跌愈深| 全球財經| 全球 - UDN",
@@ -141,12 +137,16 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52VEdGN3huOGlBbGNGNlc2S2E5QXlZUFI3dUt2N21tREdOS2FMb2prNnJueXpfUkVKQldCeEJoYllxYkZvbHhjc0RuOXZHRzBCRUHSAVBBVV95cUxQN0NhemxjbnJCZWVFeV9jM21qbXBPa2lWaUt1bEZyV2ZGc2FETUxkSTFpNC1kaDEyTWw0VlZXZVJQV3MwT2tuOFNSY01DUHpkdg?oc=5"
     },
     {
-      "title": "比特幣失守 7 萬美元大關 全網爆倉逾 16 億美元創波段新低 - 商傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNWkhZT3JIWTdxRzVwV09qQ0hKd2Y0VXI5QTRCUzMxbWlTNXI4VEM1ajZFUEM2YmFyR3BwTjR6UVZ3cUhkQ1JCeXdfWEhFWjRPX0Z4RjdEMElESFlUcy1LNS1MU3JGZVBKZU45WTVLZHNiamJvVXZWOUE5V2tzaDNZbXZoQVZfRS1Fa2hSdDA0a25nUUJEQzA1MVhIWEhWazVxRTJ0Qk0zc2pnc1VLMVJvZGtMMmFFTWRud3h5WDZydzZCSEczRGlSYWdRaVV5TTJReW41U09TSzN1MGtWM24xVE50aDZoZGpIRU1LazJMM2VHOXJxMXNkZXJqdTJFelduM1A3MVBUZXJFV2dJM2x2ZTF1Qk1xa0NKVTM2MlRnMHN1RGNXODhicVJUQkZXTUF0bC1aMU1RU3R1US00OE9Od01Oc1VPWWxkaXFOb1YzaWxucHNyVFZURWk1bU1LQTFfVWJVRmlTZE1kVlRWQ1V5azJCQkJZQTNkSDFMRVNRTU5oRS1TbXRrZFVoTQ?oc=5"
+      "title": "比特幣跌破6.7萬美元創3個月新低，現貨ETF流出約810億新台幣 - BigGo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vSmRTa25qbUdtVzRsSDc4QWFjNmZqaTBOdWdzRnhxX3hFSzVMUFVnR1hCUFNJWVEzU1RmeFVBcTEyRmhZTThSVjhjeXdSYmtJcHNZbS1ZRG1Wa1hTS2M1MFdiODB2VDFZT2FjZ3FBYnl4OEdVanlHdHBR?oc=5"
     },
     {
-      "title": "〈美股早盤〉輝達回穩、PPI數據助攻 主要指數漲跌不一 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ORkhnU0F1LTV3Y05pdUxyVHExMXFrT3pSOGhSZjF1Y1QwYXkzdmNJckJfRm1XUjZ6NS1yVE9ScVdCSVBpeG9ManNrMkwxRUU?oc=5"
+      "title": "【美股盤前1113】輝達重挫？靜待今晚PPI數據！｜豐雲學堂 2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcnFNZG1uTERyOFdHekt1SzNNejhTQXM3MzMwTGw0akYyWnFIWW9ZU19aWUc1cGpVV2psRDZQVktzbjRubnM5dWdUajNSY3RMUkhNZ0tVWU12SVBXUl9GVzBMYVpyTllmQmxkaE9CYWcxMU9lejhGNWd0aUtfa0pSOVNVSWo2SWlLdUZ6MW5XU081TV84T1B6Qk8wZl9FbG15cmxPQUNOT1JwcjJyMzh3M19HdnNCWFlJV1EtNDlSYmtpaUVpZjloMmk5Y1JmdnU3T0tjVUdhZ0pOQXVjTXpFYkF6RWhyZFJEU0FIejY5cjNhQkFGV3IzWUxTX1FIODdtRWo2Mi1ab0ZFUUlGSktQSDZTbzBDVGZrLWRCWWc0eFNuUUlYSTJiNVhHTWZMamhzWWVmNWY5anNOMWc?oc=5"
+    },
+    {
+      "title": "比特幣失守 7 萬美元大關 全網爆倉逾 16 億美元創波段新低 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNT2dDR2daNWRHeDRELWNKYXB3Z3ZLTHRHOWVONDVJMFdXZFIwZm5UeUNpd21kNU1KWmt2N3VJVGVnNGRCQTZVc1drdVh3SUhHLXVEOUFmMzJhYlZtTmtlX0FsVHVvUFhRRE9CSkk3STBTbEllUUk5bW5vUmNCYlBnX2tkSk5JZUw5S1FDbmthSDV0NjMzaVE4YXpSYlRneGxqNVFpYVNlaW55M3pjdzBoV1V2YjAzSzBUUWxIZDJVOHF3clBnZ1d2MWlxZGhpVHpNNzRrUFdfR3NqTDJtVUFmMEgxSTdmMFBYcHpxMXBwOFA5REpuSE5FdGZPQVZsZ0pZdFlyUmVuUzJ0MUd5ak9SNE82a201M1Rl?oc=5"
     }
   ]
 }
