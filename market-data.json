@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/15 09:02",
+  "updated_tw": "11/15 15:51",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63190.65,
-      "change": -5058.6234,
-      "changePercent": -7.412
+      "price": 63778.31,
+      "change": -349.7408,
+      "changePercent": -0.5454
     },
     "ETH": {
-      "price": 1736.4,
-      "change": -191.1889,
-      "changePercent": -9.9186
+      "price": 1773.15,
+      "change": 4.0295,
+      "changePercent": 0.2278
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "黃仁勳辭職反成利多？他看台股、美股不跌反漲 內行曝：短期肯定會賺 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQNlN1OF9DR0d0UlhweUNveEN1b1ZYUlZFaHNvUmRkYkVHWGZfZXZ2WDZGNjlCWjZaMWRaN1NLVFFySWxneGF1Yy1CVWxpOElCSkgzM1pqUkc3Q19aX3lBek9Xd1FCQTE5b0h1N3k2a2RQdDlDYUVVYk56UHQ1NHltMWpLQy0wZzV1bG1HYWUwX01VOXR2VERjcmxRSlNKNmpnbXk0WTFsOHV1ckk2cmJkR3g2SDhCNlVkNktrbkFzWnlfSzRBUUs4MTZfX196bWxMWHlwQ2lKM19fSlZicVZZaVJXb2NNc0VPTTJsRWlmank1QVFBSG9XMk04TnRFMlFjQ0VWWXFYeEU2ZWNrLWprM0h5QWdRWGc4TzVkV1BERmhjWmdqYnAzSlZXXzF6Sm5PcnR5MkNTMFprUWFkZG5wWkJ1RGNkNFZjcmJfOEYzc3NzckExYzhXalotRnZwQjByTXJUX2UwOHNJMmp5VVA2andocEFJalBOTUFoN2diUXBUMGstTE1QYmJSQWtjWVRzTVllLThBQ013MWVwbVNGSUVMdUMtNjV2REExWlNOWVk?oc=5"
+    },
+    {
       "title": "下周大事不斷！「三大焦點」牽動美股走勢- 國際 - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ib2hFOGtvcS1CWW5mLVpQNGZab2RfWGVvOWVRUjF2YlZhVmpSY080b3Z6WmkyOE9MYTZDaEhiLWR6NHk3aEVwMjc3cURHTHQyaWxWbFBiSl9rMVlmLWlN?oc=5"
     },
     {
-      "title": "VIX暴漲後回落！美股落底了？1990年以來歷史數據揭露答案｜美股評析｜豐雲學堂2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxONFV4V2dZQ3Q0eU9PTERlcFllYTEwSW1NY0VqSmtoM0FxMDdlTU9zNHNHNjlLMHcwcjI4a1ZUSVFmLVdSdGYyRUJKckJDa2lueDFBTENkc3JydUlGTWs3bk51bThtT3NaUVI5bW5xUGxMZ25HdUZidlZsZlBSUDA0aEtnTlViRTU3d2RuVlJjVGtrcTVLV3ptenhRaDZQVENOTGRoMlF3cVJaMVY2dUNLdmMyUlNNM3p4U28xWDJkRTFIT1VWdW1ySUJWNmRxNWYybHp2MG1pV2d2S1NVRFNjdHAtZER0UEZGalhsSW5kQWtXbTFWRGJWQ0lzWlZQX1BZSDJLOERIeHdjWXQ4NmtFdzFRMjBtMzZyNU1Wb1FFeENURWtvM1JINWg5NlVFY0NyaEhCTE9YWmdiZEdLQW1CZjdKZDhFVWJMcUJOSEhEaFFuZFd2cHhwUFRfSmMzWGxPczQ1eXh5YTFwNTNVSDVOUjZRUnp1MlNzZ2JSTmpSRkxNaE5ZS3NqSk41Um9DUkNpN2ZkT0tzSFljSjFTQmd4V2l6amktRkRuYXpTNVIwZS1lTE1GSFFycmNwSlFZZw?oc=5"
+      "title": "台股震盪、企業獲利卻創高！AI三雄營收破紀錄 00961掌握科技金融雙引擎 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mcWgyNEpqZUZ4MWthbzQxS0dmcEZTbXpKa3BTSGZwQ2RJUkhNYTdNaGhoMVFROEl2Rjh0UUJtaVZEcExPVmRBZThYYjhNRVE?oc=5"
     },
     {
-      "title": "台股獲利狂噴1.96兆！116家公司EPS創高 法人逆勢狂掃16檔、喊年前挑戰5萬點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPV2hwMm84RnJuV3ZMRDhhMGVzY2RyakZLYnpJWXAydUNHQnVMdUdUWWxaUEVQVHFlVFFCTHRWNHdaLTQyQThMLS0wWVFpakZIMU9NNFNSWDgyZG5nUDRJYjFWdThMc3hNTHRadXNyaGxIYjRnSGlXSmRlLUc3dWs3X29kUlJNSVJpUV9vaVUtSjEyR0J4V040WlFHM2NMbEh3ZEJNem9qT2dkWjQ1bXhvUWR4ZFhSN1h4QnExaUtXWmFNcWEyRTlaZXFzcl9fYkpiYjVEZ01DcmRDb3BUMVJ4bndsX2t2Z3VjN0dDd2NFSWQ0TjJCbVFXY0tBakF0cTJUWnFhSllpOE80Uldhemctblc2bmx5NTU0anFJMGFxcFROdUhrRGgwc2k3c055TDR5WDAyb3g3Y25qY0RuNnN6NGhmR2h1UWQ2eG1pRTlOdENNalI5c25zS0FzYWZ6b2YwQ2VZWHJ0V1lDZUVhaXlKVGR1U29JbmMwdC0teF8tcndWYlZQY0VQN3JEaVJYZjZQNDhJSHpId1hyblFZdml6V3lRRXFLZzlD?oc=5"
+      "title": "009834、009835是什麼？貝萊德世界黃金礦業ETF配息、成分股、特色一次看，迎向黃金與AI金屬超級循環！ - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxPbF9xYjVJTl95NHMwb1Rab1hzREw5TGpLd2JBQWFlN2VjS2g5TVdiUFRtMzRhSWJaUlZjSzY5eXJMZ01rUDlQSDhycHRXWXpycW9YZ2MyUnZRRmh6RTVfYVZQQmJmMS1lQkJIcFZlRTRqcWNJT0x0SkRhR3FiV2U4MzF5ZDhFWXJ0YWYxYmJCSnZQR2Q4OUsxMkVvdU9pMmFSYVRwclhCR2FDMGtqYnpQQWZTN2NhTzZoTXkxRTZNUUI0c3VBN2ttdnFTSmdTVGI2SDROWGgwSmhnVFFHeXo3a0ZPaUVMNEZvOE1hckVxYjVmWFNIYk1iRkx1X1diUlpQZDdGeWktdjhPRktYc0U5TTAzQkJ5QUdxcWVETk8xdG82cDFqdmp3a0U0YlViTUhCVGNocksyR1ZOUTdRMlpEWDNwRDhHNGNmckFPUHdtaW5OY2FuQWJ3cUU1OG02MkplaTF4QnFlTWU0QjBfWW9FUlljTHBoTEVQMzV3NDd4WmdrbDhTa0oycmw4cGFrbmxBUW01eXFTN1NVT1J3dzJKQ0hXZ2cwSVlvSk9TOU83VjA4R3hyWlowM1oxWXRKQWIxZ0h3UnNiVlFZUjlCZEoxVk5WamZRMXBFNkdlZkVKdjd0ekZiT0k2aW9iZk5OcFV1Nksyb1ViTHVMNG5PYnFFVFk0ZS0zZVc0T1BKTElNdkZieGxBb3ZCd2txS2VQT2p5QUZJNUtuUQ?oc=5"
     },
     {
-      "title": "黃仁勳辭職震撼市場 台股逆勢大漲守住4萬3000點 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIay1GMG9MM1lpclVxQjJCZWlUR0t4VEdKT0EwOXFFTEktSUN2aU1rX280SnM3VnA1RVluMjRiaFVkSXluS2VqeHMxQmxxYUkySUlrb0czRzN2b25mY1lB0gFkQVVfeXFMTVdZMmZOMkVDblZLN2FLOVd0X1o4OTNNcGctMzhMMHE4VC1LSG9nRmd0eDkxREtmWHJUaTc4S1MxTF9mZWRqZmxjSGNKdVdCUlRpZzNrNVJMNGJHVHVwb0psVFVUUw?oc=5"
+      "title": "韓國央行金價急跌，第三季買進黃金ETF評價額蒸發320億韓元 - BigGo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtRGtfeU1hcVA5QXN4b19acGtkRFdiWjNlRFp3MHljNU5vVm1IQlhqMVVHUmU1M1R0MVZRcjllcFo3bGFGNzFaWkZYb1FJYmxDcmhsU2gwRVVscXJaTEdTNkc5ek5KRTlOb19DaDdCRFVSRTFXMnhRTi1n?oc=5"
     },
     {
-      "title": "〈台股風向球〉外資期貨做空未轉向前 題材股輪動維繫多方熱度 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41S256YzNBSDZsNlBKWXBpWlpVUkpqWjFBdGVEcEZMcmM2cW5WQUprWFFnQ0xGWXVPeUNWRXc5VnhkT1JHU3FiT1pMcDQzNzA?oc=5"
+      "title": "台股仍屬跌深修復階段 法人：黃仁勳去職餘波蕩漾 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ENHM0c2xYSXRKSXRvUlRmM2ZCdElMd0FMOElOM0dIOUFnQkJSU0FoLTFlMEU4Uk1oNHZDNDdLWUJ3ZWhmVkFJM1RNdUNBRzRB0gFWQVVfeXFMTVo3R293X24tS3V3WHJUWF9BTEhsYkx3cG1aRzBaMkZaT2UzcFozS3N2MFltRkNQQ2ZOQi14M1M0b2pPZk9SbEp2dGo0YXJSREVOZFNtRlE?oc=5"
     },
     {
-      "title": "台股股民ETF滲透率高達53％　滿足自主投資、具門檻低3優勢 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0dzB5ejBGTzJKb2pmUlV1QTNZcnhWVjliR29jQlc1cDNCZGhYZWhDb3JHR3pRTFhFMG9SbWN1NlN3QjJmRTZOS2xFSXpTdFJTRkHSAVBBVV95cUxQem02ZkxDRU5pdVBLZWRUQkZkY3owcG00aTVkazY1ZFNPTHgzUUpNOVA5VHljRDhyRm9FSUJEQ2g5NnlWRThuNDZhdGwxNDd3NA?oc=5"
+      "title": "台股10月風雲變色散戶無懼 0050定期定額單月扣款衝破130億 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MT3NDdmd1cF9NeE9XSFVOX1FkVllzY2R3V2pvaGtQaWtrMmRqWkJkWDZCSzlMN2RvY1o2UlJnUmpRSTktd0RNZU9fal9COE5UUEgwN04zTUs?oc=5"
     },
     {
-      "title": "【美股盤前1113】輝達重挫？靜待今晚PPI數據！｜豐雲學堂 2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcnFNZG1uTERyOFdHekt1SzNNejhTQXM3MzMwTGw0akYyWnFIWW9ZU19aWUc1cGpVV2psRDZQVktzbjRubnM5dWdUajNSY3RMUkhNZ0tVWU12SVBXUl9GVzBMYVpyTllmQmxkaE9CYWcxMU9lejhGNWd0aUtfa0pSOVNVSWo2SWlLdUZ6MW5XU081TV84T1B6Qk8wZl9FbG15cmxPQUNOT1JwcjJyMzh3M19HdnNCWFlJV1EtNDlSYmtpaUVpZjloMmk5Y1JmdnU3T0tjVUdhZ0pOQXVjTXpFYkF6RWhyZFJEU0FIejY5cjNhQkFGV3IzWUxTX1FIODdtRWo2Mi1ab0ZFUUlGSktQSDZTbzBDVGZrLWRCWWc0eFNuUUlYSTJiNVhHTWZMamhzWWVmNWY5anNOMWc?oc=5"
-    },
-    {
-      "title": "美股震盪引發避險潮 連增股息數十年老牌企業成焦點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPd1JtRTBzejhvTXRUQVgxcHA0SzlzcDJ3bXZ3bUFOeGxpWTRTY3JKNHlJaG1yNVdLVjZ4Qi1rTkV6V2xyTHVBMm9Uek5falZzS0Q4LS16Mml4M2tLUXdrb0Y0UTZTeUJheGZoTmV6VEJXUE50UHlHdUNhWUJsVUQ2VWQtNGt3N29GN3NjdUZ5bVZjbzhTdEJ5a2ctMTVvY2ZrdzU0QnY1MVJVak1LdmREWE1UWWUtZUNFNEpFZl92cE5hWHR2VnIyQm50cmFraWFYTUVRM1RudWJwTjhFelB4bGpvYU1CZWdMTEpJT1RyeWRpa1ZRQkZoRndZNDNWWEg3akhFNExRUjZPN1RUYkZGWk9mZnFWLTJ4Tmo5S2xqVUZOYkFGN2JLYWlfYlJVbV9DOUlxNUpPSVdhb3d1cWJiMWZZWGpSdUZGekJmNmlpSWl3MmNEWWJjN2ZXMU15UUc5RmRtc2t6YXNfbGRTVzRMSA?oc=5"
+      "title": "矿企MARA六周内售出13,597枚比特币，套现11亿美元，并计划进一步出售 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QYmtMX1hKN2tzVXpyYmRVRy1FWkU2NDE2c2NRWXhET3hhZWRUY0hQN1Z1QmUzbnI0RzlzUkwzTTBGOHNxSjBjNlBDclQyQW5saVRPWnM3TFJxWjRUZnh4WTVXMFlkUQ?oc=5"
     }
   ]
 }
