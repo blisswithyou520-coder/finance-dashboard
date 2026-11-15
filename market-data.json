@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/15 23:22",
+  "updated_tw": "11/16 04:28",
   "taiwan": {
     "2330": {
       "price": 2350.0,
@@ -72,43 +72,43 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64707.89,
-      "change": 579.8392,
-      "changePercent": 0.9042
+      "price": 64854.97,
+      "change": 726.9192,
+      "changePercent": 1.1335
     },
     "ETH": {
-      "price": 1808.99,
-      "change": 39.8695,
-      "changePercent": 2.2536
+      "price": 1824.08,
+      "change": 54.9595,
+      "changePercent": 3.1066
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.875,
-      "change": 0.0131,
-      "changePercent": 0.0399
+      "price": 32.898,
+      "change": -0.041,
+      "changePercent": -0.1245
     },
     "JPYTWD": {
-      "price": 0.2037,
+      "price": 0.2039,
       "change": -0.0021,
-      "changePercent": -1.0372
+      "changePercent": -1.0271
     },
     "EURTWD": {
-      "price": 36.279,
-      "change": -0.1897,
-      "changePercent": -0.52
+      "price": 36.337,
+      "change": -0.0597,
+      "changePercent": -0.164
     },
     "CNYTWD": {
-      "price": 4.935,
+      "price": 4.9385,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
     "usd": 3886.3,
-    "twd": 4108.0,
-    "tael": 154037.0,
-    "twdTotal": 127762.0,
+    "twd": 4111.0,
+    "tael": 154145.0,
+    "twdTotal": 127851.0,
     "changePercent": 0.0257
   },
   "fed": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "本周美股超刺激！輝達財報、川普關稅來襲 5大變數一次看 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WbDJsWFl6QldsdjIwX1lvUzlCLWZ5TjFuM2VmdWhUcDdwOHNqalE1MER3bzFfSTBJYm5YZndWelVzUDZOaTF2SzhvWm1ManZZ0gFWQVVfeXFMTXVCckp4QTJlY09XWUpyaXBzcGM1TmNQSWtySmI2eERDaVB6NnBtRHV3MzNxN2xKZndZX3dHNjZSQjA3RWpTTDV0QTFfOTdhdk5CYUl2ekE?oc=5"
-    },
-    {
-      "title": "台股紅包明天開搶！「這檔重電新兵」抽中潛在獲利8.5萬 2檔新股申購時間一次看 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOd3lXYVZ0UWc3eTFUdlhUeUpIRVVMTEs4YUtDdG9HTUQ0bEw2YzM2Y0tfMnRtdnpOZmZFNHA3eU9tbVJVTUhlc3lFaEMxaW5DaHdwRFRTZnlQX19SVklRd3FjbVBsWi1vS0I4OWxMdWFuN1BNMms0VVBYS3FsZXFGdkdjdVFISVZaaE15bFBwZXVBQzZjZWxlS19MS1ZQWXNDV1F0RnI3WkRCbEVLdDhrV1FQZ3RMcnVrQmEyR0F1SWs3cms3cFpPcjBrYmFxTmZ5QnpxOFBQZVhpMWJKUUVCVDEyU2lkZU1lcEMtWS1aeXloRjVjSDN0WFdGTm1vSktQajBHZkxpblpSZWFiSkhIb3RoVUVwaW9RSkVVTG1KZHhLWWhRQ2xTS2lUWXBSdDRfcFF3QWxTZTNjNWdKOG83MVRfTDNfX2h6ajhheUNMRjFiOGU0UmFtY0dmVmVoT1RGLUdud2hJdXdXUUk0dGx5Vkl6XzI5R0k0d3FNOXBzZzhmN0VodndOTlpWSjhQVl9uVG51WnNDdVNrXzRZRTZCb1JaVUlxcmRHTGxyRkVMU3N2MVRJ?oc=5"
-    },
-    {
-      "title": "何一：比特幣長期邏輯依然穩固，波動不可避免 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6ZFJUZEh3RG1DaDBZcWVlQjRON2hZSjZSaW9IZ2Q0MG91U0hydmNnWVRHV19qWlR5NVpfYlZYQm50bEJEVFdpZEJZNWxPSU0?oc=5"
+      "title": "不甩台股周線強彈10%？國家隊單週重砍「2檔正2ETF」逾4.4萬張 提款名單一次看 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNYXZNQTlmMFBFaXFENEVwNERmVUNCbG5Dek15Zy05S3haamhDWlVCbHI3VGFfQnpkZlBtdmtyWkphMjBHOVhNSzFPaFVCYUlkdjFjUmI4QW00am9GMmdKS3RsdTFBWXNLYldNUDRhV0EyYUg5OGp5RUxhemRjZDdMTWVZMFNzZUZRc0s0ZTFJcjJCNFVyLU1sbEJmNW94b0ktMWM3Rkd6SHNaMTRzZl8yWHBFQzZTdmo4Q2NJYllUQ2kxZEp0azdoX2tYZGhnWG1JMWJYaDZVTzVNUGlTWlR2TTY3QURwMmlzN2gzWDlVNlZ4aTVwUlNtdjVDYTgxRXRUVzBOTkFYSTlsc2FVbm1JNkhFMWIyR0l4d2ptZl9ZLUh0b3F0aGxKQ1otZXgtZU5mUU9UUW10Y3EyNU9uZVY0ZXBDV3Nuek9KTzZ1RnJJX1V1M0FMelVXaHhQVGg?oc=5"
     },
     {
       "title": "009834、009835是什麼？貝萊德世界黃金礦業ETF配息、成分股、特色一次看，迎向黃金與AI金屬超級循環！ - 永豐金證券",
       "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxPbF9xYjVJTl95NHMwb1Rab1hzREw5TGpLd2JBQWFlN2VjS2g5TVdiUFRtMzRhSWJaUlZjSzY5eXJMZ01rUDlQSDhycHRXWXpycW9YZ2MyUnZRRmh6RTVfYVZQQmJmMS1lQkJIcFZlRTRqcWNJT0x0SkRhR3FiV2U4MzF5ZDhFWXJ0YWYxYmJCSnZQR2Q4OUsxMkVvdU9pMmFSYVRwclhCR2FDMGtqYnpQQWZTN2NhTzZoTXkxRTZNUUI0c3VBN2ttdnFTSmdTVGI2SDROWGgwSmhnVFFHeXo3a0ZPaUVMNEZvOE1hckVxYjVmWFNIYk1iRkx1X1diUlpQZDdGeWktdjhPRktYc0U5TTAzQkJ5QUdxcWVETk8xdG82cDFqdmp3a0U0YlViTUhCVGNocksyR1ZOUTdRMlpEWDNwRDhHNGNmckFPUHdtaW5OY2FuQWJ3cUU1OG02MkplaTF4QnFlTWU0QjBfWW9FUlljTHBoTEVQMzV3NDd4WmdrbDhTa0oycmw4cGFrbmxBUW01eXFTN1NVT1J3dzJKQ0hXZ2cwSVlvSk9TOU83VjA4R3hyWlowM1oxWXRKQWIxZ0h3UnNiVlFZUjlCZEoxVk5WamZRMXBFNkdlZkVKdjd0ekZiT0k2aW9iZk5OcFV1Nksyb1ViTHVMNG5PYnFFVFk0ZS0zZVc0T1BKTElNdkZieGxBb3ZCd2txS2VQT2p5QUZJNUtuUQ?oc=5"
     },
     {
+      "title": "台股本周震盪藏鋒- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MbmhSSXNqY2E5cTFBQ3ZrX1Znd05sQWxndGJGUk8temVVUlIzOEFlZXVKdk4zUlhOMzFxa0RIc3hlbVdDSzJOZ1gtNzJUUExHclB5RVpRUERBWC1PUFYw?oc=5"
+    },
+    {
+      "title": "何一：比特幣長期邏輯依然穩固，波動不可避免 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6ZFJUZEh3RG1DaDBZcWVlQjRON2hZSjZSaW9IZ2Q0MG91U0hydmNnWVRHV19qWlR5NVpfYlZYQm50bEJEVFdpZEJZNWxPSU0?oc=5"
+    },
+    {
+      "title": "台股年底買盤有撐？金融業前九月買近千億 連四年賣股紀錄拚翻轉 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zOGR4S1VpZWZrdnVsa0tsVERsOHlHSkRQZnJNbnU0Y2Q0bWYzYzFfUng2ZEVjNmJJMUlkNDVzcElKeExmaWxHQm9jVThKREhR0gFWQVVfeXFMTWFuOVRxREdJclBXc1VlQ0RjTEFjYVZKclZOdVA5bEY0T2VsNUtZQ3BJN2pLOHJEcTROX3J0cGJIbklxR0wtRTVjQ19Od2x5WGdUOHY4dEE?oc=5"
+    },
+    {
       "title": "Anthony Pompliano 发布 17 条比特币下跌应对建议 - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zc1JRT3B5UDRRUW9ZejBFZjg4Y0ZsWGhfQVFFR2JoVUZzXzdNVzZQb3B4VEp1d21RMDJZeWVENFB2aFFfV0RsXzVTVGlWbzAxQzZoeHRhbVJNZUpkdlR5ZzBaOEJ2dw?oc=5"
     },
     {
-      "title": "比特幣跌向6.4萬美元，加密貨幣ETF單週失血近15億美元 - BigGo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85eVoyYmtZcE5VaE1uMGtBcHIxeFJ2azRGamI1RE1raTdHaHRJTWxXME1PQmZKMzU4SVVhcjN3SHVDb1RJN21tOHk5TnNQSHh3bXFkaFJqOWdtN0NFbUdTVk5VV0RuSlhvR3JKVGNEei1zNDA3N3JQczF3?oc=5"
+      "title": "台股紅包明天開搶！「這檔重電新兵」抽中潛在獲利8.5萬 2檔新股申購時間一次看 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOd3lXYVZ0UWc3eTFUdlhUeUpIRVVMTEs4YUtDdG9HTUQ0bEw2YzM2Y0tfMnRtdnpOZmZFNHA3eU9tbVJVTUhlc3lFaEMxaW5DaHdwRFRTZnlQX19SVklRd3FjbVBsWi1vS0I4OWxMdWFuN1BNMms0VVBYS3FsZXFGdkdjdVFISVZaaE15bFBwZXVBQzZjZWxlS19MS1ZQWXNDV1F0RnI3WkRCbEVLdDhrV1FQZ3RMcnVrQmEyR0F1SWs3cms3cFpPcjBrYmFxTmZ5QnpxOFBQZVhpMWJKUUVCVDEyU2lkZU1lcEMtWS1aeXloRjVjSDN0WFdGTm1vSktQajBHZkxpblpSZWFiSkhIb3RoVUVwaW9RSkVVTG1KZHhLWWhRQ2xTS2lUWXBSdDRfcFF3QWxTZTNjNWdKOG83MVRfTDNfX2h6ajhheUNMRjFiOGU0UmFtY0dmVmVoT1RGLUdud2hJdXdXUUk0dGx5Vkl6XzI5R0k0d3FNOXBzZzhmN0VodndOTlpWSjhQVl9uVG51WnNDdVNrXzRZRTZCb1JaVUlxcmRHTGxyRkVMU3N2MVRJ?oc=5"
     },
     {
-      "title": "不甩台股周線強彈10%？國家隊單週重砍「2檔正2ETF」逾4.4萬張 提款名單一次看 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNYXZNQTlmMFBFaXFENEVwNERmVUNCbG5Dek15Zy05S3haamhDWlVCbHI3VGFfQnpkZlBtdmtyWkphMjBHOVhNSzFPaFVCYUlkdjFjUmI4QW00am9GMmdKS3RsdTFBWXNLYldNUDRhV0EyYUg5OGp5RUxhemRjZDdMTWVZMFNzZUZRc0s0ZTFJcjJCNFVyLU1sbEJmNW94b0ktMWM3Rkd6SHNaMTRzZl8yWHBFQzZTdmo4Q2NJYllUQ2kxZEp0azdoX2tYZGhnWG1JMWJYaDZVTzVNUGlTWlR2TTY3QURwMmlzN2gzWDlVNlZ4aTVwUlNtdjVDYTgxRXRUVzBOTkFYSTlsc2FVbm1JNkhFMWIyR0l4d2ptZl9ZLUh0b3F0aGxKQ1otZXgtZU5mUU9UUW10Y3EyNU9uZVY0ZXBDV3Nuek9KTzZ1RnJJX1V1M0FMelVXaHhQVGg?oc=5"
-    },
-    {
-      "title": "投資人爆倉逾19億美元 比特幣跌至四個月來低點 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRMDd4ZEN6TFNyLUkyQTJuc1NSXzRfQ1k3ZUN2d2NsdHRzaFZEX0xYVThWa2NFUTA4UHM3NnZPMlJ2dTE0LTFzckE3dDAwODRua2xYZjZGdjk5QdIBX0FVX3lxTE96R3NNa2FmSkltZWN1OTZSUkxkbEo0bFc5djZ2ZnNOZkdHZ2RibTBHQ3VyTTMwal9YcVNyQ19lUUpPbWJaLUU2cTVJQmpEaEljd0t5UkV4bkl4VnIxcnFR?oc=5"
+      "title": "比特幣長線有撐VASP點三利多- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tcU5iQjdHOUFDVGROSnVjdGpVY0kzNDdhYllmamVHaU96VnNhVHpOZEgzTG00dHViZ3N4cjRoV3BtMmRYZno5V2xMRVlHallfUkFjcEFsRUgzeXpGVkVn?oc=5"
     }
   ]
 }
