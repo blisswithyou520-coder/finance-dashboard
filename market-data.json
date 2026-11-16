@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/16 08:15",
+  "updated_tw": "11/16 15:02",
   "taiwan": {
     "2330": {
-      "price": 2350.0,
-      "change": 10.0,
-      "changePercent": 0.4274
+      "price": 2215.0,
+      "change": -135.0,
+      "changePercent": -5.7447
     },
     "2454": {
-      "price": 4120.0,
-      "change": 270.0,
-      "changePercent": 7.013
+      "price": 3795.0,
+      "change": -325.0,
+      "changePercent": -7.8883
     },
     "2317": {
-      "price": 241.0,
-      "change": 1.0,
-      "changePercent": 0.4167
+      "price": 218.5,
+      "change": -22.5,
+      "changePercent": -9.3361
     },
     "0050": {
-      "price": 102.5,
-      "change": 1.55,
-      "changePercent": 1.5354
+      "price": 96.45,
+      "change": -6.05,
+      "changePercent": -5.9024
     },
     "00878": {
-      "price": 33.6,
-      "change": 0.6,
-      "changePercent": 1.8182
+      "price": 32.43,
+      "change": -1.17,
+      "changePercent": -3.4821
     },
     "00919": {
-      "price": 31.53,
-      "change": 0.58,
-      "changePercent": 1.874
+      "price": 30.5,
+      "change": -1.03,
+      "changePercent": -3.2667
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64981.11,
-      "change": 853.0592,
-      "changePercent": 1.3302
+      "price": 64713.66,
+      "change": 585.6092,
+      "changePercent": 0.9132
     },
     "ETH": {
-      "price": 1823.12,
-      "change": 53.9995,
-      "changePercent": 3.0523
+      "price": 1815.86,
+      "change": 46.7395,
+      "changePercent": 2.642
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.877,
-      "change": -0.062,
-      "changePercent": -0.1882
+      "price": 32.964,
+      "change": 0.025,
+      "changePercent": 0.0759
     },
     "JPYTWD": {
-      "price": 0.2038,
-      "change": -0.0022,
-      "changePercent": -1.0756
+      "price": 0.2045,
+      "change": -0.0015,
+      "changePercent": -0.7359
     },
     "EURTWD": {
-      "price": 36.322,
-      "change": -0.0747,
-      "changePercent": -0.2052
+      "price": 36.344,
+      "change": -0.0527,
+      "changePercent": -0.1448
     },
     "CNYTWD": {
-      "price": 4.9348,
+      "price": 4.9499,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3900.3,
-    "twd": 4123.0,
-    "tael": 154601.0,
-    "twdTotal": 128230.0,
-    "changePercent": 0.3602
+    "usd": 3844.3,
+    "twd": 4074.0,
+    "tael": 152785.0,
+    "twdTotal": 126724.0,
+    "changePercent": -1.0807
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "〈台股盤前要聞〉群創Q3每股賺0.96元連5季獲利、公股4金2銀前10月賺1440億元皆超越去年 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOSGplSEp0alhxbDg0cXExODM4MVVJQUM5TnFQbUFnc1pEVGdESHcxd2tLLU8yZnhPbVdINFZfSmo0bDdNYldUd1FVNzV5cmo5am9BTlNzbkwtLVI1Z1EzVXhqd3U0a3p4V3pWUVBUN3dZMy1UdlNDNGdudk13SVJUdXBKU0Q5R0FmWkVqZnhtT1M5TDRPcFZxek9JMGwzNC1rX2hEeldsdG53R25PeEdYYUpJZ1A0aWhzWFdsLWFRS3NuM0RDaGU2UUxfdU82SUpldmxicDNnLTNxUGtSVzA4M0NMbmxuQktHbE1hejlFaHNvbV85MWdVZkZaWEVFUlN1dFJLR1B2S3NwZGM2SkVJUEp4X0hZSHJTcjlXYWVLYkJmVW9nTjBYZHh0c1Bwc3VLT2hhbXZPaktfR3hDTGtvYldRZWZPZFRnOExPQ3lwOGJzTzhKdWp4S0E2YUNXTGpKUFc2M1dMcnVhd2FnZWxVMXI1UjY2WENwOVktMk42THBBMjBfdGNWRDZaQTl6d1RXeVZpUjlJV0JaM0lwMnNULWU3RVBITzJIRnd4M3dpTkZkV01VUk4wa3RFZkNXMGtPMGpwdXdvOWRiaWU3TTdSNkhmUGQ5N2t1RlE?oc=5"
+      "title": "黃金投資指南｜金價暴跌失守4000元？一文掌握近期影響因素懶人包與黃金買賣全攻略！｜豐雲學堂2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMiqARBVV95cUxOSENtQzJZYTA1clNHVFU3OHF0S1NIUmhkTURKRjI5a0dmeHRQRm5zR1N4VV9VWEVlanptb0VXOWFydE1rdnVERDlhVU9tbXdXancyUDJzLXdzQ1dveVI5NE5lOTZtZHltUkdaZUNQTFd4d2hoeHh0eXlrWE9iR0tKWjk5QjN4N2E4WTJWb3RGZGpxMTg5aklBQzJENWl4VVpyNHhJLUJkUGhRekJKQmZpMDNlZ3JqajRzWVJtWk4taHJEQVRNTnJDdTdMSjZHNnFkaWs1UlJYR3lpMkpLQjlWUC1GMTV3Q2VEa0xpcXp4V054alFpYWNOQk9XbWRwWlVCM3hWVm8tREg3NXZ2bTJHQUM2R0Z0SEdRanJIWC1KRjVOdTVlejdLTDZEaWdzbEhOUVFEMDlFeWI0a3JnMzJaSk00YXdyR1FCT3BocWtVX0NtS2VsQThMQnhvUV9rWFpMY1I3ZFRLZk1SRERpSnNyOU4xWVRXTVVrYkRYTjBpQUJoczU4c2REN1E3bDgzalIxdk9QRG5OMEd5bExQeC1pQlIyWXJkcWtjLUc2R1BMZ3g5WVFsczZfN0xudFl6TDdyZG9UYWpIR0VFbUo0cGFHYXgyMThOZUxYVDBITHg0Z3hSc3IwRWxFdGl4bk1NQ1lONDFEM1NJc0NKY041em8yeW16UndvRkhGRFlIZHZtelowUWRUZ1dSdVBNczhxT1JqT2tXd252TTE?oc=5"
     },
     {
-      "title": "11月16日 五件財經大事搶先看 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1odno3dGxZa2hwdWFoOGV3LW9UbU5uNlB0cGJtN083RzRQYzRMUnlKRU5UN1htSmEzLUppVmExY2NFSlp3LXQtLXRLa3k4U1lzSFFqMTRwSnhnQdIBX0FVX3lxTFBiR1VNQ0NQZjZvQXRPQWVJM01pQ2VnUWVUalZRX04ydDdrb1AycUMzY21UNlEtWHY2QjM0dTkyQ1NGRlFINktSVHZBaWhrazdTRmlqcHo2RG5ERU8tbkJF?oc=5"
+      "title": "台股恐打第二隻腳？ 法人點名「4黑馬」：上車好機會 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQcEtqWU9OYkJyVVlIdU53NzRpYlRlUDRaOEYzYkJQNHhfaWp3dm1XaDFTODg5cERDR2t6eFFJakhka2lCUDdVaEdDeXI2YTg3bEZPZmJiNEp4c1hEa0hvRllUcTlIM1FQSF9pRFJ2UzFLNUlYNnM3aDFrZEZpdEkwSWtUSEp4SW12Qi1yU1Z5WnM4ODdxdWh1Y2FmdTBLSFJ3Y210MTZlNGlmQUNERVhxdkpERE1FTUtDcng2U0tMTFl2Yy1vczZsdHRaQWs5OVNXYndYV3dJUFdSbC1UUGJnZ0VjanhaaDZ1ZXlmZHphWDE5Y2NEN2ZuUjh2SnhLNlB5Wm5BVlc5MjVsUjNiRF9rUmQtQWZMUFYyRHJTWmNXc011eXdsMnZPTXlZSjhQaEdWZzNKdzVla0lpc3FVMFR2aEJNeXA?oc=5"
     },
     {
-      "title": "〈台股盤前要聞〉群創Q3每股賺0.96元連5季獲利、公股4金2銀前10月賺1440億元皆超越去年 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16c0dmRTlpTjAzLUotbEdGWUJEQ3lHWlJ5WjNaQVJiS2UyeHozMjRfWHVwQ2xDS0ptaHIyWFF4S1g0ZjVFWGdsM0JvX1ItTTA?oc=5"
+      "title": "美股今年還有聖誕行情嗎？高盛警告通膨未退、明年1月恐掀價格重訂潮 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByTHF3NDF6WjRZaG5QVmxVN0N4MGFMdjBuVVk5VExrYkZGTlF3cUVfTGVMTUZXSTh5XzI5aDJ6YmdwTWk2MUtHRC1PVWljdWM?oc=5"
     },
     {
-      "title": "009834、009835是什麼？貝萊德世界黃金礦業ETF配息、成分股、特色一次看，迎向黃金與AI金屬超級循環！ - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxPbF9xYjVJTl95NHMwb1Rab1hzREw5TGpLd2JBQWFlN2VjS2g5TVdiUFRtMzRhSWJaUlZjSzY5eXJMZ01rUDlQSDhycHRXWXpycW9YZ2MyUnZRRmh6RTVfYVZQQmJmMS1lQkJIcFZlRTRqcWNJT0x0SkRhR3FiV2U4MzF5ZDhFWXJ0YWYxYmJCSnZQR2Q4OUsxMkVvdU9pMmFSYVRwclhCR2FDMGtqYnpQQWZTN2NhTzZoTXkxRTZNUUI0c3VBN2ttdnFTSmdTVGI2SDROWGgwSmhnVFFHeXo3a0ZPaUVMNEZvOE1hckVxYjVmWFNIYk1iRkx1X1diUlpQZDdGeWktdjhPRktYc0U5TTAzQkJ5QUdxcWVETk8xdG82cDFqdmp3a0U0YlViTUhCVGNocksyR1ZOUTdRMlpEWDNwRDhHNGNmckFPUHdtaW5OY2FuQWJ3cUU1OG02MkplaTF4QnFlTWU0QjBfWW9FUlljTHBoTEVQMzV3NDd4WmdrbDhTa0oycmw4cGFrbmxBUW01eXFTN1NVT1J3dzJKQ0hXZ2cwSVlvSk9TOU83VjA4R3hyWlowM1oxWXRKQWIxZ0h3UnNiVlFZUjlCZEoxVk5WamZRMXBFNkdlZkVKdjd0ekZiT0k2aW9iZk5OcFV1Nksyb1ViTHVMNG5PYnFFVFk0ZS0zZVc0T1BKTElNdkZieGxBb3ZCd2txS2VQT2p5QUZJNUtuUQ?oc=5"
+      "title": "受美股重挫波及、台股今暴跌2635點 創史上第二大跌點紀錄 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQQ2poUFNrTkRRMUtVT01wVlpJQVhQdldLak8yMHVYTzlSQnR2NkxRM2NnU3R5THVmZ1hXYUJMNl91bUFVUDZydnZQQzY3QzR40gFWQVVfeXFMUHNCb2pDcms4S0dmWW84Wmp3MG9QU1FjNGY0bEtJOGcxWmdoLWZxNmdPU1pUenpqNkhrMWZtQTFmeHlNTkdXUDlOS1p4NkFCTTdzcjhHTlE?oc=5"
     },
     {
-      "title": "《貴金屬》COMEX黃金小漲作收ETF持倉減少- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV185UEZRM2FnbDNCUzdjeVVUTHkxXzFNX2JzeEo0VWVoQWo4YWpWWkw4ZGFIYWowaWdiYVlOTlB6MFlDQWx5WlpWLVVnRTlzX0d6MkpvMjBlRHA3dVhGcHB0NnctcmhjLWtEQ2NfM2pMY1F5TGxJazB5ZUxCbjlzbnR6SVR3dy04aTkwY2pVMXJaUQ?oc=5"
+      "title": "黃仁勳重返輝達的消息也救不了？美股期指翻黑，台股重挫超過千點 | 林彥呈 | 財經 - 風傳媒",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yOTgwWDE5ajlGdkYwWEM1U29NQmw4N0dGdjYzdE1iUGVicVBldjZvbjMxZ0U3eVpuVDRaeTNlVzg2Q01Hcm1QLU00WExRUQ?oc=5"
     },
     {
-      "title": "比特幣下探 61,956 美元 幣安現貨賣壓沉重買氣待回溫 - 商傳媒",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNOUJNcUJnWnM3SVJvclpWR1BPWHVMc2ZfOHdWWkhpZzRwR21ySERZMlhfejJiNjN1OVN1WEtNVUs2cjlBVUdGVElNOGhkWjVPZkNnd00yc1pYZnJxVGtuU3BQdTE0a0cwbHRMTTJDUG1oQk13eDZBR1pfTUNmWHBra1h4Zm5DYzY2RkxmOU1XVTJnS1hZRHE3bE5rSGpDZ3J1cHlzaExtN2RabDU3ekdFXzlQUHBKNlJvQmVBWFFkbG5rZEllSy0td1NwTWluWGNLUXM0azF6eUVhNVpWek12MWZMTEhxS1VjYU9GT0NpWUdsMFozOTZEOVBna0ZQbzBpZ3U3Q0c1VHViTFhyYVF5YWdzZkVoemp1bk5EcTNCc1NFQmJvV1hQQjNTbDN2MXk0TWdOc2kwOVJDNk1YNXU0aTZrR09nZWJaU0xnQ1RRNllxVWZtb1pzNno1aW5DUkRabkVZ?oc=5"
+      "title": "【Yahoo早盤】台股又破4萬3...一度重挫近1300點 分析師陳石輝：整理期收紅不易 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQcnlmd293dGRfVTlRenVENzl6eUZZT1ZQYndaNzFjdmwtSElkZ3RoLXJWNUxoYTc1NnhRZ0JVcTF1ekw2alRvblEtMlZ1b1ZSWlFjbUkzZ2FpSExNN0d6Tm05Ui1YT3hxMy1ERXBHYVIwQm9YbzNSeUFMbVpIZ3ROZ1FsWExIV19tTDQ5N2RHVElHdm5GVmtheTVFbVViYTJTUGxpSnZOazZEa1dLSUlZWXNhNWk5YllKb1JPVzQ2U0puaXJuYTlNVkJEcTVuZEhWbDh2d2tDcUthZlRGTnotZ1FpTXpnWWhScUg0cmp3cTB4ZnFTUXJ4OW45UEVMTmpVTUx6MnZpc19KZnpUbUdGQ1RuZHBBbFpua0tDdjIybFZLN3hLM19lZXJEQU1DUjRzRU9OYldVczVMWXhpdjkwSWFRX012ZDhHUnJrNDZUWXFVYndkRTJsTVlZdW8yMVh5Sk1wRXVEMTJBdVN4V09kM3pWY0JCQ2dRazZicEgzc1ZjZmljdGxkXzEyTnZGZkNEUkljMGE0UnFqLU1nT2RNLUxoTmVZUjRxZEhnQTFQaEhtWWdkNF9lRjF5SXA4ZTVrdjhieURtZw?oc=5"
     },
     {
-      "title": "比特幣週末急跌，加密貨幣總市值蒸發1,300億美元、17億美元遭強制平倉 - BigGo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zbFVId3hwZHVXNUZrRDFzV3lhcEtoYk1uU2k1T256aWNfWThhTmEwb1R5emtRQzduT29LdVhXQ3FLVjZSaThaWXV3MTREdVhraU1aby1yVjVaU2NmdXZzSTB2ZmNYYldXNlJKVHV4ZE0zUVlpSzdFal93?oc=5"
+      "title": "股匯雙殺！新台幣重貶逾1角逼近33元 專家：2大勢力在倒貨 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPRHlQeEs5MHBkbFZpSEdyc2ZsaDFOOHNTNkFBcFZTeGY0SUJxV2dHanljaUlFeFF5N1lXZ21sNzZjVHpDNGQ2eTRqS3NNcWc1bm5QWTM0MFdQS295cUs4SWtsN0FreERWRGdUUVZwQVB1X3pUb2dURUdrYk9Zb2pCajRYWUxIb3ZNT2VHcEp2M19sRlpNVzVrZkFjMndncy1Wa3hBTjIxMm9wNkJ5bnpMdzRKM1V5Y254clZneXl6dnpoUS1PeVNZYl8wZ1Y2eENlanY4MVdpZVMzXzZkMjRLTGdVR001MnJyYjFsT3k0RVBCS2ZONDVuNFJKSE5aWVdkR3BEUHZlLVVyRDI3U1d5S05MZXN3US1mTG4xXzduWWJEd2QxSVRxZ01lQkx2WFk5cXlndWdIQTdkUG5xTko0UUljZHVuOVR2cnp3RE4zLWlodTczS2VobHN3TDVQbmtZR19oSEFDV3ctbDJjWHBMdTJKc2JfRG0tVnZyNEthWU10UQ?oc=5"
     },
     {
-      "title": "〈財經週報-國際展望〉AI疑慮引發全球股市震盪：投資下一步，考驗主動選股真功夫 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lbnIxWnVWNlg0TV9mNy1jdDZUcWJwSXR3NmMteHM1cUdNd1RmQ3pydGdLcjcwOUwtTmRsSHJhakpKSVdxTXhMMkM4ai13SHNOcEZzVmlKb3M?oc=5"
+      "title": "投資有風險 外國企業對台股最新看法 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOeHZzZzlRVG80N1FhdDF3ck5pcG9sM21vNnRRZ083MWc0M3NWUFlranV1SHRvTXB5bFppRFA4ZTM0YmljWUt2S1h0ZWtZSzRXX01DT3dkaVhzcDF0d3ZtbXF1ZHZkTXVHdm55cS0zSDV2OGpmVEZoMGUwY0l4cWxHMTMzVGVWVURwYklwc1VvbURHU0w3bFoyTmhSV3JZbXB3YUtiVDJBNTc3d2prZ3NBOXJtSUZXaGJHaGpvckljY0RtdkV1UzhMQ2doR1cyYmRNQ292SVU4d2dTeEFwa0pkVzZLWXFPaHhPeXcxblVfTlNocy1vOTlObHVFWHNzUkUtZnNvTk1fTW9kMVR1elppOXRidUF2SHFFa3QyRA?oc=5"
     }
   ]
 }
