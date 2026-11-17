@@ -1,115 +1,115 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/17 16:31",
+  "updated_tw": "11/18 01:53",
   "taiwan": {
     "2330": {
       "price": 2170.0,
-      "change": -45.0,
-      "changePercent": -2.0316
+      "change": -180.0,
+      "changePercent": -7.6596
     },
     "2454": {
       "price": 3840.0,
-      "change": 45.0,
-      "changePercent": 1.1858
+      "change": -280.0,
+      "changePercent": -6.7961
     },
     "2317": {
       "price": 219.0,
-      "change": 0.5,
-      "changePercent": 0.2288
+      "change": -22.0,
+      "changePercent": -9.1286
     },
     "0050": {
       "price": 94.0,
-      "change": -2.45,
-      "changePercent": -2.5402
+      "change": -8.5,
+      "changePercent": -8.2927
     },
     "00878": {
       "price": 30.86,
-      "change": -1.57,
-      "changePercent": -4.8412
+      "change": -2.74,
+      "changePercent": -8.1548
     },
     "00919": {
       "price": 30.39,
-      "change": -0.11,
-      "changePercent": -0.3607
+      "change": -1.14,
+      "changePercent": -3.6156
     }
   },
   "us": {
     "NVDA": {
-      "price": 156.14,
-      "change": -6.71,
-      "changePercent": -4.1204
+      "price": 153.655,
+      "change": -2.485,
+      "changePercent": -1.5915
     },
     "AAPL": {
-      "price": 352.78,
-      "change": -3.49,
-      "changePercent": -0.9796
+      "price": 350.895,
+      "change": -1.885,
+      "changePercent": -0.5343
     },
     "TSLA": {
-      "price": 379.74,
-      "change": -10.48,
-      "changePercent": -2.6857
+      "price": 380.514,
+      "change": 0.774,
+      "changePercent": 0.2038
     },
     "QQQ": {
-      "price": 661.75,
-      "change": -18.14,
-      "changePercent": -2.6681
+      "price": 654.56,
+      "change": -7.19,
+      "changePercent": -1.0865
     },
     "SPY": {
-      "price": 739.95,
-      "change": -14.42,
-      "changePercent": -1.9115
+      "price": 732.01,
+      "change": -7.94,
+      "changePercent": -1.073
     },
     "SCHD": {
-      "price": 35.86,
-      "change": -0.26,
-      "changePercent": -0.7198
+      "price": 35.515,
+      "change": -0.345,
+      "changePercent": -0.9621
     },
     "VOO": {
-      "price": 680.26,
-      "change": -13.12,
-      "changePercent": -1.8922
+      "price": 672.89,
+      "change": -7.37,
+      "changePercent": -1.0834
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64310.03,
-      "change": -545.8138,
-      "changePercent": -0.8416
+      "price": 63833.87,
+      "change": -1021.9737,
+      "changePercent": -1.5758
     },
     "ETH": {
-      "price": 1821.19,
-      "change": 1.9141,
-      "changePercent": 0.1052
+      "price": 1786.82,
+      "change": -32.4559,
+      "changePercent": -1.784
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.906,
-      "change": 0.0296,
-      "changePercent": 0.09
+      "price": 32.913,
+      "change": 0.0366,
+      "changePercent": 0.1113
     },
     "JPYTWD": {
-      "price": 0.2046,
-      "change": -0.0012,
-      "changePercent": -0.599
+      "price": 0.2045,
+      "change": -0.0013,
+      "changePercent": -0.6476
     },
     "EURTWD": {
-      "price": 36.248,
-      "change": 1.005,
-      "changePercent": 2.8516
+      "price": 36.303,
+      "change": 1.06,
+      "changePercent": 3.0077
     },
     "CNYTWD": {
-      "price": 4.9463,
+      "price": 4.9422,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3869.0,
+    "usd": 3867.5,
     "twd": 4093.0,
-    "tael": 153496.0,
-    "twdTotal": 127313.0,
-    "changePercent": 0.4153
+    "tael": 153469.0,
+    "twdTotal": 127291.0,
+    "changePercent": 0.3763
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "快訊／美股開盤跌一片！那指跌逾300點、英特爾殺逾5%、台積電ADR跌近4% 台股明天恐再迎震盪 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxONnlVSVdMM0VaVi0xcGNGaVNQbEExZ3hfclNhTkl5QnJfSUpvTE5lOTRxSnVRVDZvc1doUmJYQ3J0UHRxbU43T3JOay1Id2pFeW5xNVlHTERKYmVWanM1STROWEIzTERVb0xPY2pkV011Yk1Xdm5DMkd5VFdDRGtjMTVBTURJSktBQ1h1Um1SeHVBdHRPZEJQNWJneXJBM1JLZU9nU3kxNEx2S0NyYzhkOHU4S2tIbzE5ci16djhTWFpnR3EwS1BlNE5CRFk1cm9YSGtmOFZXeUdKY0dIM1U1aFpQMUkxa3Rqcm9KakFtLXYtR0VpSHRrVVBCMjFCUExpM3BuMzN6LUNzdzJGV3RDUUhsU1p5TmJ0YnNfS28xZE5jZThXaFRPTDRjbTVkZDF0TzBEYklvMWFMVWZFRGc?oc=5"
+      "title": "快訊／台股明天再挨衝擊波？美股開盤三大指數齊跌！道瓊挫近300點 輝達、台積電ADR受挫 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxQWnZiaHdnLW0taEpTNXFZMjVfRmxYaHg1a080VEpRVF92cUpkTFhFaHluNXJfc2JJRVhYTXBjYlBBVzVfWnUwWUFCN19RYkozSkIwOGQ3SGZCb1JuSEs3WUtYeDRpdVlsT3NQRGhmeFNvTjVLejZnS0VWbFNKeHNiMXJrSXZ1SzJURlJJNEU3amNqZHFWSjRDZWJWdHBxYm9RdmpCWmM2cnhTNVpHdER3LVJpVFJIbUFCSFlhbkczVTdEV1p1cjVTcFpoSlV2amJzYWRlZVRObi0xSFVMbkE2OWRZOFJVd3hJMVR1cXlWbi1CcDhpa21xN21OcnJ1OEhpOWw0WXVTSVFVejlRMGVta1RaQVl4ZDl4bGZtdHZDc3ZhRW5NNkw2T183akV1U0xjbzdVaEFFN2hzSXBNdldSaUdENUZ2Zm53OTM4QmxxajlONVFXZGRDcTRYOHZvSmQwdG5SRThSbUVuUmVNNDZXR2I5aFd4S3pUZFNwZzRYY19jMm9YTThtUTNLX3Q4cXVlSEpJRy02V2xVSGZPQ1piaTFZY3BFT1lzRzhucVlncFFkYmln?oc=5"
     },
     {
-      "title": "台幣匯率升值、貶值對台股有什麼影響？從歷史數據看懂外資動向與受惠股｜豐雲學堂2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxOUTBDWGZhZk4zcTlnVnREbGZ5UFplSG9RRl9ISFMyMC1DN0tyWjU3TGpUMTlvTzg5UF9uZjBRYzNBYzY0QXVnQmRydk9NcDhac0VhOGZqZ1UtWkpxVnQzVDJvWXBCeHRBQjlQWjRWZFNGM1pzejd3RDVNaWFwcXVVUXZYYmRhX0FWbjdmbTAzaWlkUThDQzB5MjRvMU93b3hHWElRVU5PNDJiT0oxNDRad3lQdHVuT0xTT19TbnRhZ2hlcXBleFJVQWtsUnExeEdpZXpkRm9QZS1FMnpIODV6cEVJM094Ul80NHFrUXpwdkVvVmlYT043dm8tbXRSRUIwQkJ3MFRCWGQzbnBoeTdlSms0Q0pZa0c2SzdIaW42VGpTeGFZbHVGQU0xaTJzSHVMVHRSeVVHMEVrVExIa0tMT3FMdHE1UE43bFRhNk5FdTZpbkxtc0M5NjhjckZGQWs3R1JGaWQtU2kxMGtsWVg1WWlFLXZ1aDhWc1piUVN4a2ZBUTZvQzlPMzhUc3BrOXluRzZxenZaM09US3dxV1JzSC1zNU52c19qVjd3VnhJYUx0U2JHZkVJYTlUclFobG5BX3BROHFtRGR2cnlMN014c29sRVhPVU03Xzh2cmc5cXJPakZvdkFBSFI5ZGNOQzJoNlE?oc=5"
+      "title": "美股早盤／美元指數衝上103.6 三大指數盡墨 費半開高後漲幅收斂 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iLWJkY1l3RnhIelpaRmxKNWxKWlpXUE8wSVZNb29pbWdGbzdSRHYzSDBBdjFiVHZrLUxDYk1CVkRra0xhTXdZdUNFT0o0Zk5CN0tEVHM0QjlRWkQ30gFiQVVfeXFMTUxwOENTX3hCZHJscFRhUmI4OHQ5Wk4xS1J1Umc0RzJOcmxMSHp4eHo0RFVUMHVvcU9ZMXM4dGY2Q09XM3dWOHRPMXMtTzFFR25tSUxfRTQ1dThxOGtRcy15VGc?oc=5"
     },
     {
-      "title": "黃仁勳辭職餘波盪漾！美股全收黑「費半重挫逾5％」台積電ADR下殺6％ - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQbHg5S3ZrQ0s1dFNuTkE4TEhfQXd4bWFPNzZJVkxGRXdvd2NzZy00SF82RFhod2ZXRUgyQ1ZRQk9lZG5XaDF4SDhpdG5SdzRoUTFPOVRCLXo0ZkdZa3duT3RVLU4waGRRb2x2ODJoeDlxOWlBM1RNRjF2NTktN2tpSW5HTVV2OXZlSE54RVg0bkU3akt1VkxTeF85ZFJpc1VaSzNLVnlPdkVsQlJGOEdfUGFESUk3bU9tWnFFN3NFWmxQSnpaS0tTZVVoTm1DUHRKMWpTcnFYdmZGUXJZdXVXWWxheVdKUVlSRWxoVzEtZFBDLVVLMzBaRGcwbUhycC1rV25PTUxsZ192OXNLblQ5R1B5enJQQVdfamo1T3owM2VuRGJ6cE40cnYyYTJWM0FucmNpQkt0Z0JaMDNlbzJ5YU5WWW03VzZLblVsbjYwZFFiNnZoZlc2VEIxRWlBa2I3RHY3RWZqYjRXb0FwY3lvR0tvRno4aG56aFI4Yi1vWk9jMFhMZXc?oc=5"
+      "title": "〈美股早盤〉AI股能否翻身？主要指數漲跌互現 市場屏息等輝達財報 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fNEt1YjkxbHl3MkVza1cwdkNobGxwS3Rtd3AtTklyNUpPd0dtUWJGLUF5YUVsdG5Bb2RqMW9DYjZ5VVEtcnkwUDVWNHRhUEk?oc=5"
     },
     {
-      "title": "台股3萬8千點跌過頭了？凱基投顧董座：已進入超跌區域 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNX1AwaU0yY0JzeFBHZHZONk5nT1IwNVVWNGpodXJRR2hjMmhHZ1hnMVR1X0pCWkFkT2FrTVJNOXhDSlplazJFZV80b2FqdVFQcDRPWml6REZjTDJ0Zm5OaXZBLV95MHBXNFluWUg2bHBUYlRyWnZVUWU0YWE1Z3ZOR3JHY2k0TVZla1J2c25VTTR0Yk5BUzF1YTJHVzMtY09sWVp6WGhGQUYzZ2JjcXlnbzFoNXBkX3pjcmZldmF2VGdjZDh0NGhSVEU2UVFnY2FjUmF4NU5jOGNYa3ZKWW9pYzR4MnJndVdBN0FhWkdfcDgtbUVxUUJVcW0wc25fOVhDYTBUS2hiQWd4YzBWNjh1MXY2R01NTDBkLVNyZjVmYjBQalN4V0t1cUFXQUlLdU5ReGxWY0xzYU5qbEQtbEs1dE45LXBUVF9XNW4zcGxHUXZtX01mc0t0a0JZS0o3NTdoTEdENUg4aE1zU2NIZmR1ejR0VmRqSDJBdXRiX1JB?oc=5"
+      "title": "美股開盤「輝達小幅上漲」！四大指數不同步　ADR全跌 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tWC1NQzhwZDM0YTBVMW82bTlwdU5YX1k0WnRtaDNsbHFFZ1ZpWXNtT1VkekJFUGhvN0hnbTNIN0RMbEsyLVZPeFlTWlV1aW1MU3fSAVBBVV95cUxOX09uMEdFZl9PTjBTZkJfSklGT0tTeFFvUzg0UC1MTUNYdjJUMTZxc0Y0OFZaV1c2Xy0yUUhyX3VRdVBxenZsSVVoWWVUOXBEWg?oc=5"
     },
     {
-      "title": "台股反彈數千點！他想轉戰美股問進場時機：現在買有戲嗎？ - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPNkROR0hMRkFUSDQ1aFpCdDh3WGltdk8zeEFjZGd3MmZham5rUVZBRXZzSDMzc0ZROEVZYW5ESjV4VXg1SDJMaHRBZFBxcHN6NE1FdTBIVlNiODF6OVZvZVZmVmtDM196UUFXZTY4S3ZJOG5ZX1NBNVY0Y09nV21FUGN6MC1jM3liQ2lrMHRLZV9PenVHaFVtd3RqZnNjLUdpa0JnOUVOdWlXeFI5N0w1T0pOWW83TV81em9zbXplbkM0RFhka1hKVDlBaGUyaTQ3bnRfenN0aWJ2NWw3ZGtJYl9LX1JHNlZqTUt6dWdEN0hEQzFuUzhMeVBRc1FiSVlWbGJlM05SUmhIMFJPdUpHZTdSUWdwelFxWW1ZbEhPUkc0bzhMNTBrSkdJVFd5VUtnelk0QnRQWXV1V09tRjk4MW1vUGtBclM2RXBhRElIOC14OEpBR1hPOE9ZcGt4SnM3UFlRS0c5LXhWX050cXMzMXNnS0tleWM2YVNxOTRB?oc=5"
+      "title": "【1117台股盤後】台股巨震1,747點險守4萬大關！市場聚焦輝達財報能否救世，急跌地板股策略鎖定【志聖】、【新日興】、【帆宣】｜豐雲學堂2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxOSVNNVmhYX1c2ZGlxUkJDRjhxU2xDUGlCcXJTcHAzeTJqV0VPWDNqZEVKR3VjQTJqcmRtcmZFOVhyc0N2OTE5RFR5d2swd1c2ZU1pWU9MdktsVlNGblVLMnBFWURnZWNKWlI5V3lqcFZoMzVqakVXUHVRdS1MUEhIYmZncVdiR0NOUTFTaldlYlRqemFEMkV6aEpyY2thUl9fajh4S0JKR1FSRmt3WG52ajJXclk0VV9GWGp1eDd4SUNaN01vU2pzUlp3U29ZX0xBai02NTd1WEFsZUprMGp6V0JiY0dDWWhhWFJBaTJzS1ZCMWNUaUR5LVFUTTh1RS1TWVlyWVdodWZ6YW1GVWJCcnRYcm1QODB6UlM0SWkzNk5JZUVJLTNmUUQ0bDM0ejJiaXh1N240VHdjV0RwY2hpZWJ0SnJQRk0yZTVobkk5Ui1RQUlRejExY2RiX1VtQmluMXoxeXFuUlhHVkpHSk00VTVTUDZGOF94NU1ENlI1WDczdmJMYzFTT3NacGZvLUhKXzhmdkhQeEFYeF9rOTltZDBmRGhhR250cjNBZE45azJyLXRYYVVzdFk2NTZmQUVJSWJZaXVQWlowRjFjYnp6LVd3NFg2Z2hXcHpEbEltSzN6NUNvbG8waFJ0WU91Ql9ZbnNfcjMxVV9NcjBBU1JtQUkxSWJndnd6R3dUSkZXLWxQNmVrMTF1MHpVYm51WEZIeXYtU3d6bXZJSWs0RXFSWW9aZ3NBUU56bjVZZHk1WjN5OTgtOHBaRWZDYVJ6T284NHRCWlpPRHRnNm16S2JzQnJnNjllMjlZeGNSenhZUnlzUFAzZnBhNkJIMDJMeTNiRE1CVGk1MVhSakNucV9vaw?oc=5"
     },
     {
-      "title": "台股急拉千點「午盤又殺回去」 專家見台幣爆量嘆：外資還想跑 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPNnJ0Sk1MbzJiQzZUYTk5Zm53VW5hOEFTS2MtOVRXOUtYTnE2NV9UTFVVU0w3Z25VN2pTMklKaGFJTjlWVUlHbUJhNHFCZlB2aVdfTFFkN1kyNUMweEFIMjN2aFBIVWJfUTdkWXdOSWRyck1KVjJVNGF1c3pHem9mTzItNnVaMldWM2RyWmdGUWQ4N01hV2N0empxTDBMdDB2YVE0UUhXN1ZTZ1AxOEpKVm9UdXlpeE54X2tmM01SSkNRanhRdmR4RFZmY3JNV1lzRjNrRE9IdmZhQW9XR0tvTHFqOVRSQ1hBT3c0MlY2bkZFLXZ3dVRpeVZvTGZ5WWhXMndla1ZkZFBDZjZ5OHRRX0RkTmFSb2otT290enp6UXNaYnJ0Rlh4eHVIMDRJNnZjT3RlNG9zeUdMTHJzRE5obDFDRDRLNFNtTVI1cEFxVzhGTmNibGNzQldaNGxxeDZnRHhYcEdPa0xLNnpQeDl4NlZLZlJSR1JqOXJZcy1PVlBhWXo5c2JfQjlETQ?oc=5"
+      "title": "美股跌勢擴大 道瓊重挫近700點，輝達財報前半導體再遭賣壓 - 優分析UAnalyze",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CbndHQW5QQzJrRTV0U1dMS082VjRqOGhIZlJHY2pmekxsNlp0WFZId2NYM3BmVDAtUzltb0xGVjNYVzlNT2FnYzhfQURKeHVWSjJxeFZn?oc=5"
     },
     {
-      "title": "台股收跌947點 輝達概念股慘綠 欣興、景碩跌停 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNSkd3c3RXd1Q5Q3FCQjFDX0JxcU9IeWNJeHlSTWExREt5SW5mNGpXTjk4akJYQzZ1cjVfdTFJUzg2TlVMUFRxZHpGenp5ZEs5MEVKSzRaTVY1RWFzU1R3cUFYNWMtaW1KNlloelBWTXJ0WWo3UGNwVThCajBtdEdEbXoxVUNGZzhsY0RvQlJZamswaWxQa3dabTJ1SnA3MVlKNEdncXhrZHh5alBZcHBHN2U4bFlkTzJPeHh2aElpdHhVbE5qS2lBS2tHNHNaM0hfdTJkNko2eVEyalAzMm9vWDJhNExrbDgwVnBQZElaWmdkTUpjaFZocFFzaDV3OTh4ZFMya3ZQd3NFRDZ6clFlRHZvUDNmdE9GNVhxUlQyejd6X19NWGl6QTQ5UkJISTNhcEJFRlBTZ1FIRlU?oc=5"
+      "title": "【美股盤前】輝達今晚財報出爐，AI供應鏈押注還是逃命？（2026.11.17） - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUm1KbElMOEhqOHd4NlNKZDdsbExydklwOUFaazhmQlZQQm5hQk5vNXhaOVljUk92ckppNmUtWGxURXV2QkJwTmwyb3ZGSlc5VUl4d2ZVNmlOeTFZN2ZiY0lGZEh2OHJvWFVhb044dzc0UUlwR1lmTjhwZTRlWGg1eVZucUNhTzdySEZZZlJR?oc=5"
     },
     {
-      "title": "台股跌過頭了？凱基投顧董座：先前已出現超跌訊號 明年獲利仍拚增27% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQV3p1LXdtclNKOWJMaWRLcHEwV1VHWDJ4c0RwSWRWb1llZnlCU3pGS2Y0REtsakMyMXpOb3RwNm1WN2FPUVRXb1pTZi1JNWtZUjZEWGo3ckpJd1QyQ3lPN1drV0M2dFNSVmlmZFZYNUtha3hsOHpYTzExZ2RWZXZiVnRXVUJZMklMWUpEOG56Zl94S051dmVnUjZkZWJhemdXcnFyTGhZSFpQY1ByN0xEaW10eVR6aHh0bkhrRGR1N1lVTlY2dWxZWS1XZzFXNU12eDgtMmNYcEx6MWl6QnFpSkx5WXBaVENwSjlLXzg0NWpIeEFFRW9sb1RQTGNFeG9mUjRpUTlCbDV6dXpSNllaeEM0RC1IeHdpVVh4RENETGp6NTVOY014d1VYd3ppNDFQUVczTEtsUHZ0N250ZzZmRDZTRE1LTWZSdlBiODJTdkU5c2hnR3RhV1Bmc0dfMlRSenBoMTFhOE9aY0pYX3YyNnVJV0hEa05CWEUzVmt4SG1UWFdXS25zT0ZSdDdSWFpSdFp6VHczNGFfMWdneEs0aC11ZjlDRVZTeUJBQUo0ZkR2RFN0cUpyNHpiYmpNZDNaZzUwdExfOA?oc=5"
+      "title": "黃仁勳請辭持續衝擊全球AI股 台股連兩日大跌累計逾3580點 - 公視新聞",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3eHZCQ3ZrYzFXSlBVM2NIVWFpUnR6cmZQWGs3Q21Lb0dvbUJvajV0MEpwUW5CN3NfVF9LOUFnN1QxNGpOaGRhbnNFR3o2MVk?oc=5"
     }
   ]
 }
