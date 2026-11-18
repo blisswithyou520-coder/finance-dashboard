@@ -1,21 +1,21 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/18 15:57",
+  "updated_tw": "11/19 01:04",
   "taiwan": {
     "2330": {
       "price": 2175.0,
-      "change": 5.0,
-      "changePercent": 0.2304
+      "change": -40.0,
+      "changePercent": -1.8059
     },
     "2454": {
       "price": 3940.0,
-      "change": 100.0,
-      "changePercent": 2.6042
+      "change": 145.0,
+      "changePercent": 3.8208
     },
     "2317": {
       "price": 221.0,
-      "change": 2.0,
-      "changePercent": 0.9132
+      "change": 2.5,
+      "changePercent": 1.1442
     },
     "0050": {
       "price": 94.1,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 155.46,
-      "change": -0.68,
-      "changePercent": -0.4355
+      "price": 152.321,
+      "change": -3.139,
+      "changePercent": -2.0192
     },
     "AAPL": {
-      "price": 351.91,
-      "change": -0.87,
-      "changePercent": -0.2466
+      "price": 352.21,
+      "change": 0.3,
+      "changePercent": 0.0852
     },
     "TSLA": {
-      "price": 380.11,
-      "change": 0.37,
-      "changePercent": 0.0974
+      "price": 382.15,
+      "change": 2.04,
+      "changePercent": 0.5367
     },
     "QQQ": {
-      "price": 656.95,
-      "change": -4.8,
-      "changePercent": -0.7253
+      "price": 657.65,
+      "change": 0.7,
+      "changePercent": 0.1066
     },
     "SPY": {
-      "price": 732.44,
-      "change": -7.51,
-      "changePercent": -1.0149
+      "price": 730.37,
+      "change": -2.07,
+      "changePercent": -0.2826
     },
     "SCHD": {
-      "price": 35.31,
-      "change": -0.55,
-      "changePercent": -1.5337
+      "price": 34.9,
+      "change": -0.41,
+      "changePercent": -1.1611
     },
     "VOO": {
-      "price": 673.19,
-      "change": -7.07,
-      "changePercent": -1.0393
+      "price": 671.38,
+      "change": -1.81,
+      "changePercent": -0.2689
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64843.82,
-      "change": -50.1253,
-      "changePercent": -0.0772
+      "price": 62812.45,
+      "change": -2081.4953,
+      "changePercent": -3.2075
     },
     "ETH": {
-      "price": 1816.61,
-      "change": -6.3513,
-      "changePercent": -0.3484
+      "price": 1754.56,
+      "change": -68.4013,
+      "changePercent": -3.7522
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.948,
-      "change": -0.0149,
-      "changePercent": -0.0452
+      "price": 32.958,
+      "change": -0.0049,
+      "changePercent": -0.0149
     },
     "JPYTWD": {
-      "price": 0.2045,
-      "change": -0.0021,
-      "changePercent": -1.0318
+      "price": 0.2048,
+      "change": -0.0018,
+      "changePercent": -0.8866
     },
     "EURTWD": {
-      "price": 36.174,
-      "change": -0.0808,
-      "changePercent": -0.223
+      "price": 36.206,
+      "change": -0.0488,
+      "changePercent": -0.1347
     },
     "CNYTWD": {
-      "price": 4.9451,
+      "price": 4.949,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3768.8,
-    "twd": 3992.0,
-    "tael": 149711.0,
-    "twdTotal": 124174.0,
-    "changePercent": -2.4688
+    "usd": 3741.6,
+    "twd": 3965.0,
+    "tael": 148676.0,
+    "twdTotal": 123316.0,
+    "changePercent": -3.1727
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股開盤怎麼走？美股漲跌互見 台指期夜盤下跌 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNbXpRS0hjdHpiNVBVQkJhb2FTU2IyQlZ5UjZjS3BXSnNJMXRhSnhYcDQ5MDZkdFJYQzdzVkxUS0c5MEpZWjhZLURoWHRVWEdnNHUxX1ROcFhZcEx5Y1VLVVhsV2Q5ZGduRlFZY3Rud2wzTGVLLXJVNkloWmo1U0J2U003cnB0Q0VOUGlCMXB3VE9kZDdMS0hJdUs0VEN3WUFQemNHd0pINGdqMVJNVlNXNkZiUVlNLWJHeEQtVXVrRVVxUkMxdHNVWjNDZkpmNVY0LVVBYTE1Qm5qU2pUVW1EcDJoNzUxMGY2UTZPV3BIQXpFRzR1N1Z4bFFrcHEzMnU5N1U4TTc2d1kxcEVpc2NOUlk0ZzktRTIyYlNveFFTTVlvMG1SRVpoVFRLVkhBamF1bXVNLVR5cjFSSHVhRlZWWUVGNnVWNmx4T3F2bUdB?oc=5"
+      "title": "銀樓黃金跳水！1錢跌回1.6萬「一年最低」 他趁機掃5兩現省28萬元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPRmF3MmZ0UTNUdTNXS2N1RDhjTElCV1ExNm1xQUNrSFliZHljemxNS3NmdXQ5R1VEZTktT0J3Mm80cHJUdnVsRTBxck04TnRRMkJ2ZnZEUVVybXpZckFLS1dXNFZTaGpjSnltMFJVajh0V0JmdkhvbnJya1V5NzdXRlNqN0tPeWtEMVhKTEdhRGRUS0syaWZfOFZydm1OYkZQeUNXbml1Y1BOUkpwSjlYc3JfR0xxYU5zckdlSHk0S3hKN2RGRl9sNmVpZmk5SkhNRW5vRklwb016Wk5nZVFGRTVVZjlPMmJBcUg2eXpESnBuSWZyTGZQb3hMR212VUNJNnQyZXhfVGV1cjBOTDF3M0prNTVXbGdtdnJBSkxscEV5cDQ2R1hDVm1yaGZtVXlYeUlGWUhMT2xVcXdZX0t2QV9YNnJNa0t4X1I5VndBQXpqNEJMV25aSEUwSV85bGd1bkNTVmV0NldaeW5TRi1ycDU0T09nWlVZUThjZ2xDYV96YVZHTXlWck1CWUx0anVySnJRVy1saEsxbTNn?oc=5"
     },
     {
-      "title": "【1118台股盤前】台股巨震1,747點險守4萬大關！市場聚焦輝達財報能否救世，急跌地板股策略鎖定【志聖】、【新日興】、【帆宣】｜豐雲學堂2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxQMmFEcUJrVzhhajg3eUJjQkFXNTlsd3ZrSlQ0bkFKQmY3bzBFNWU0ZVZxY1FlQmFLZVAtZmUtWjhWMFRQbjZNTWhldFJzR25ZLTBfWFNod2V4ZTlBVlVxLTdUWFN5cHBGdFFIYTBNSXphS1RuaHp4Ym1CSzhuN2VCRExzUnFITDU1MmZjZHF4VHJHWG92Qk5pdHJiSnlmWktWS0J6YXdaN0lRbllxNEQyR25aU2tEN2k1TWdWb2RwSzJfQWVYZkJHazFFelV2aW5PazlFYzJONmtDa2VHZE85NHRGVlFoeHJhdFBVVHdmcDgyN0wtU01HbktxbjF0MmFhMEtTcFFoajVmTGROMGxxMkxDVHdaYlhOblNkQmctcm1XT0Jac0w0Q0k5TU1VWXVxQUZvcWxESl91NldWQXM2emgxQUJNMlRERHdHNFpQc3owdVVJQW1veHlLR2YyOEctdl9vSGttc1lsTGYzUmdXTkM0Q05lYURGZE85RDV1c2hxclRidlBuSld6V1BweFNaX2RSNUhDSU5LeGNfdTR6TzNkZzZwQldQRTNIODlkR2tuN0swQ1hnZF9VaWt3a29GSVY2YTA3RGZOVWtPT25oamhMd1RsMHNFT3ZsUjRRX1hJQXBiOUJYZzlTc3czdlFYTVF5QmZPZVpNVXJOeVdtUUdwamZSM0ZndGRwVW4tQ0Niejkxb1lveW01SV9Ob0xyZDBoWVJselRWTWRlbFpPWlhkTmRJT3FoMUxCZ0MzY2Y0TUJmY3ZQSTE5VTBGNFZXaDBwTnBlMENlS0xmdGFOY3MyMXh5bEFGS2owZDVTLXlhUVV4eDlPeHBQVG1BcldQYUcwNnA2SnhOWWEwak0yYg?oc=5"
+      "title": "美股早盤／輝達財報亮眼也難救 大盤由紅翻黑、台積電ADR跌0.4% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nNEFpVEx0X21VdS1hWWJHT3MxajF2VjhKRTM3dEo2QlpuNlhQUWlRckZtVjlCd3dmb052RXhpQ3RMREEtU0xxTzRvcVJaRll2?oc=5"
     },
     {
-      "title": "美股收盤》道瓊再挫848點！費半翻紅 台積電ADR跌3.68％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kampPQWhubEJrbDBpb3lOa0lVRDh5NFdLZ1NacnV5UFRjTlRLdl9QOERTa2N4dFllck1aYVhEckRoWEdJNXZsNHR3YU5LWlVPOHVqbDFtVlRPcXZsMnZZ0gFkQVVfeXFMUFNnUFlEdFlyOGNlUUdwcFRwQnRoWHEycHBFMkRteWZPMDJmUUNYZHVkdmkzUXhER0ZHeWxjOHZMZzhua3MxZFdqbkZaX1pmZjhLWWRWTnBkZzJ5ekFwRDZBOHhRVQ?oc=5"
+      "title": "〈美股早盤〉輝達交卷穩軍心！科技股回神 下一關看Anthropic - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LZ0JGakZHc09OdHh1U1VnNlhJbHRzXzVCQ0t3djN5cVRXMFViSUVWbHc0dk1HUnMwTXZQUW1JMlZEUEJSeWlKZHBMTnp6bWc?oc=5"
     },
     {
-      "title": "快訊／台股明天再挨衝擊波？美股開盤三大指數齊跌！道瓊挫近300點 輝達、台積電ADR受挫 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxQWnZiaHdnLW0taEpTNXFZMjVfRmxYaHg1a080VEpRVF92cUpkTFhFaHluNXJfc2JJRVhYTXBjYlBBVzVfWnUwWUFCN19RYkozSkIwOGQ3SGZCb1JuSEs3WUtYeDRpdVlsT3NQRGhmeFNvTjVLejZnS0VWbFNKeHNiMXJrSXZ1SzJURlJJNEU3amNqZHFWSjRDZWJWdHBxYm9RdmpCWmM2cnhTNVpHdER3LVJpVFJIbUFCSFlhbkczVTdEV1p1cjVTcFpoSlV2amJzYWRlZVRObi0xSFVMbkE2OWRZOFJVd3hJMVR1cXlWbi1CcDhpa21xN21OcnJ1OEhpOWw0WXVTSVFVejlRMGVta1RaQVl4ZDl4bGZtdHZDc3ZhRW5NNkw2T183akV1U0xjbzdVaEFFN2hzSXBNdldSaUdENUZ2Zm53OTM4QmxxajlONVFXZGRDcTRYOHZvSmQwdG5SRThSbUVuUmVNNDZXR2I5aFd4S3pUZFNwZzRYY19jMm9YTThtUTNLX3Q4cXVlSEpJRy02V2xVSGZPQ1piaTFZY3BFT1lzRzhucVlncFFkYmln?oc=5"
+      "title": "【1118台股盤後】台指結算震盪1,677點守四萬！Anthropic IPO 聯動算力鏈，營收創高模範生鎖定【2317 鴻海】、【6223 旺矽】、【3665 貿聯-KY】｜豐雲學堂2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxOOFRFdGsyNUpmZGQyVWNYU2FYS2szM0k2WmdQZnFVYWxXbE82U0ZSVkIzY1NWc1BuSEFWN280YU1nZGhjZDZBeDBDVDhlRUlfMVZURzR2UEZjSEZ5R0pXS2MydzN2RzRHM2prQkNDYnlnNVRaVjlydjR5Z2t3X0l0NWR0cjhfZXNtdEZsY3Q4V0xxckFVTTBoUFk2TnpmRFRwUmNjTjVvUXhOSFA0RGlMSVhqMUdhWXpuY01SLVp3ODAtVk5VbzlyemlEQ2NQemhrVDdmWFlTWXcxZElOd00zNzQzZEw4bFBzRWtDclRGSUVLMmltT3Z2YnREWjM0VVp5MHhkbWRZQS03RFA4S24zVEVWdXFfLVBmc1hra0R2cXg3MGRUY0ltYWVtQUxMc0JEVG0tZngwR25xSDRrc0xiVGJwRTBhRlI3QkZXWldySUtrZXkzVElISmtCWS1QUmpRQVNVb3BTLVBWUGJOS21ialJGMmNpR3VhaXkzTWk2UkxqNjNyS2Jwb3BlWnJfU0RsNmhnTnZXeVdNdlhMVWs1eHp3V0dWT19tMm5MOWFTWEl2YzA2MTRET2FNUzRZX0dKd1hPVng2LWdwZFF2Y1M2VmdDM0tSS3VpaXVMaFk3NFVOOUUycmo0V0FfNGhKa1pfeC05ODFTT21pa3VzSXlHeDFUMUhmUE11S093OVpkWk9vYXdMRUVuV1ktUnRlXzdOc2dKS2JGbUlvVFluWExubTRTNk5OMTUzRm9sY0wwQW5sM25tMkFSLVp0bmxFdXZwOHdBUVRrRm9pbk1Yd1haYQ?oc=5"
     },
     {
-      "title": "藥華藥、保瑞獲利創高卻連兩日走低，台股急殺後，生技股是錯殺還是重新評價？｜產業熱話｜豐雲學堂2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMiswRBVV95cUxOam44em1OT1d3bm10eHBwS2N3LTJlVnViV3JJVnZXT1ZNZE9rb0hUaktMeWI0RHdsUDhWSm9sd3NzZVdSUlRMUDdibFhoM0x5bFNJdW9mWWJPS0NXWDRlOFkyeEVXZTVmQ2N5S19GZjZTZjFfb0RQSmdIV3QwQkE2NXpabnFVdC1HT2hTQWlUTnFGSnA2cXN4RmFQazFGZFdIQlB5V01BdUNud0J6MjV4LXpBdnRVWkpaaFZSWVVqc1hyVElqcU1ySzBxbUhLQ1p3ZUZQeUxqc21qVF9xQ01UNjZ1eUtBS0trbTZtWm9jSzFfUk5VMHpWN3gzd2JlTmJ4dkh0NThwNFZxbVdqQlRyYjNna0tRLWc0MlZ4aHREV1g2bkJUSXpFWGFLbFNEQ01XYk4wTzNZdHE1VlJiMFliV1llZnFySW5QWE1aaER5bkJvajF4S211VG9tQmlScjhPZ0tqRVoyX2JlTHhqMEpMa0RvUHloRTN2azVLWEFtYzM5cHA2Q054SW5LZHpLWTM1NEhqSWFmVFJoTHVBeUZvcE5tSml6T05menhPT1MxcUFmN0JiUkQ5VnFiSUNVdENuVUZod1RmODhDZUZWdzRmeC1NQ09ZZEhIU0hqUzFuZFBaWVRzQTBkRHZLLU5CN2ZtejFOTHlCaDZReDRvUVdSVzJhdnV0Z2tsN0ZEYUFJckMxOHZBdDZPbkJzZHc0QWZyTDRyMFI1RGRhUjFHWlhpeWpabw?oc=5"
+      "title": "美股开盘，纳指涨0.43% - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81Yk51X2lNWlFiQnVpbnV3ZGQ5VHh5bXpCUlFTQWFOS0REN05GTy1ySTBMcEpLZW4tcTByd2lpdVVrYm5xMFU5bV93bGYzZ3k2QUJxZWh1aGlnVWxmeHFjTkE2WngzZw?oc=5"
     },
     {
-      "title": "黃仁勳發聲了！輝達財報優於預期、盤後強漲4% 美股三大指數收黑、台積電ADR同步下挫 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPUUlMTWtuWFhadFlOMlctM1JkMDhRQzExOGYwYl8tWGg1ZkQ4N29DTUtZTW1rTlZCekotcS13Zks3Qmk1RTFrX3ctX2ZfYl9EaHpQRTRSUW5VS3lwT2dWeVJZOUlCamNKYlBGZ09Va0FweTVvQmd3RjZZbURDR3ktal9fTTNoem5sWnkyaXh3andmbEJtS0tFbTdqUFQ5VF9EMzY4TnVaQmR3LV94NFdMTEJScVB6dERIckdaQko1b3Z5NjBOcC1xMzVYN2luMU9mMXZ6YzQzNGp6bk1PS3pqaDgtTF9OYy1Xdnl3RUtPdmUya3BWOXB3REF4T0dCZkQxSGk4RGg4TVJNd0hIY3prMkxnQXhBWWNZeHFQMTZXa3BsQVZzbDhGOWZCaWlHamtGYU4wdEZIQ0JQWjFHVWVLT3k3X2JQd1A3aEx0RkYyTmtnUndGSk1DQWF0TDhPWG1jVjRvZThOcDhOV1RkZy1xTVZXaF80enVOcmt0eHZabkNaYzVyRGh5bU0tY0JpZUpQV3Z1U2tEb1VFUFIwMFkyenlPRjBYOHpHSnVLX1lDOGJ2bFZCTlg3RTBoTGtybnJmU1NaV0NVMDZzU2VFRjVrSDB0YlhQUXpXTktla3NYZnlSSGQ0eTc3R2dWcE1sUTY2UWc?oc=5"
+      "title": "美股4大指數齊跌！輝達下挫1.22% 台指期夜盤殺700點 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPT092eXYwaHVNcTNnX0VaTHJ2Z1ViQjN6dTJjellkc3FxVFJTWExMaUtxTW9CNDRPN0FObnlOTHo5cTE2Z2pQOTBZMkZMZWNaZG5YZHBlZzhTSGdrSV8xQmIyaGRKNm03SVZVU1A1cDBuQjk2SGl5TzJMTHl5Sl9DbXlLbFJwRnQtSWtScGpiRVBGLWpLMUsxVjhtbW1raDhXQjgtZFB6enhWT2hsd1dQZFp4eklpWUtEMktKbmdHZEtMSGt2bnJLMzdMMXZkLXZwZ2RtR1YtZzZ6WnJMcXZJWU9iTWF2eHB0RXNzN2wzNjFLV0RyX3BVTDVoMjNTcEZBSk15M3BmMnphcGc5MEpMT0ZIemxKUWMybFFhc0N4SFhZVFkyNWVtSXlsSjNWMTZwSVBWdkVURmE?oc=5"
     },
     {
-      "title": "台股近半年已跌逾2%！市值型ETF僅6檔逆勢賺錢 009816勝過0050 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOZzVMUU1KSC1HMzlYOHZpWlA5MzYyTkZud2I5OXdqcVMxYUo0a2RRUUE1TGUwdGtVemJWM29GaDhIX0JVN185cDF6SE5lOEtVRG5fZjcweGtyV2Zydjg3aXJvQ2IyR011ZHB4OXI4V01ndERZcXp6LUI3OHV2YTFvT2tZb1JvMGpPb1BCa0lfQWs3dWl0NjA3eHhTVkF2WjlhTVhlaXN2SGtXbE44cEd4cEtnQTJSZUVZZGpXLTBNRFZKRGZ4Q0EyUmYyOXBIaTBiMzFlQUdHOE80VnZSYnNSSWloNDkxckdJOTFrM3VEdWNLblBQaGc0NkltTjk0bzBLeFFPTjNGUmpvRGRuUGo4ZzZ1TjN3Q3FGZnBEQk9TSWVSNEN0Vlp3NkxYZ0NyNHZoRTRpTVVxcHdfZHVDU1MzM1l3VW84QWdFbnJsaWdwWHU0cGkzeEJqWmJnSWFSM0dF?oc=5"
+      "title": "拆解 NVIDIA 這份不尋常的財報：業績亮眼但股價沒暴漲？｜美股評析｜豐雲學堂 2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQb2JaWUdmYmVKSnd6RUpOdERvMHVqZ19maTRHS3dYVk1MZEg3OHMzZnJVVDBiRVlBTlN3T3R2ak9yelZIazhHbTJOMjZmRmpXYXZVSFlMa2x5WldWOVJscU83cjdjSDFndGVnUzJhRjJ2X1JnYllMaEFxMWxuYS14emhRVjdLYXo4WXA3a1JKVTZwS2k2M2p3YktQbjBHdU42eFlaVkRYMUV2VFJpQ1hCdmlrWVV1VDV6TDBZc2x1S3p6TDh6Mk5MUjBENUlfU19xT0ZWUTY3akJKbU55TkxkaWZzT1lNT2hIeTh4cXpHOVZkQ1oyRTA0LVc0RzZNaTY1VVVrRTBBU1MtejJLRkZQRGg2OEV1aFRpbkhSZEZXQW1UQ214NktJYi1iVXFDX1oxY2hhQkFWUmp2ZGJLQk5HU0E0RWdVVHZJNURFcThmM2xpQWhpdm9BTm1wSEp4NGN4bnp3VDcyaFRGeTA5Sm03QTRZOGVubGlXOUI4ZW1jMkppNEhvXzJ2UkQxMW1GNi02N3BMTk1yR1dfR0c2UFhfQlNnUGVkVUhfdmpYWEJnZWk5UzA?oc=5"
     },
     {
-      "title": "砍在阿呆股哭了！ 台股急殺留長下影 專家：「這族群」成多頭伏兵 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQdG5Tc1cyQUlzUlltWlFBV1p5NWpiei1LNndRd3FXSGhlN3BKMEswTkttWGYxMzVqZFpiOEtWaUR0d213NGVmRkNhandWMGdueHFmRHZ0YUljM3NLZEl1SGhYc2dDTTVaREtFY1U1bVNSNFBIdXJaTW5KX3JMV2lkQkpzQm5TM256NF9oQmx4aHVSdk0xZ0JGNWIyVGdRYXZYZ1Y4RzAwRVZqYUNSbFBjOFFBRVFyMlc2Um5YMTFpaWxOemlUaFNoaUZ2bU1vOTRJMy1sck9UMDBxVjdBMmhxWVBjXzNaX2ZSRktGdVl0b3NkNll2aXBYZTJXd3pLN2NqNFhmTldhNHJLcS14TkpzOGUxYXBvNXFvN3ZZT0stbl9IbXQ0dHRGUTI0NkdYdXBFQUFVekZPMFZSQ3Bkc2lwNmlfTDV1WDhmeUhnOUQtMDJFZGgyMnFQS3UyMHlRRmY2QXBYNk9tRmxPeTJFX1Z2Qy02dzFELXY4VTZMMWRNRUZ0SUZseWg0ZGZwNHo?oc=5"
+      "title": "比特幣市值衝3兆美元 2030年幣價須翻倍站上14.5萬 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQOGdIZWhVQ3plcEpEOTBmTjBRY3V0clo2Ui1LQV9UQ1RkM3RKY3BIWmE0dFVEYWlHbmdNaUhxMVZpdFBoSDBlcjJOSXkxWTJIQ0JWS2RNQ1pBcXVGVWVYb3NXdkxTYlVCR1pjVHJlU25QUE5IbVZFWldkU0ZTTC1OazhNTkM3SEI2QjNTR1VmemRaNjZtT2FjMk9TZUx0T2ZtRW45ZGZkVE9wM1JDNmlHdmNwZEhhWVBLM0VvYUxmb3JHdkhpVjNsbmx3ekVHdW1ZNklMckJoaElNZExObEFvQ0VQVVpDeEEtclA3ZWNDMDJVQ0VhemRiN2VuOFJObEVqYWZ2TkxpeWxwR3BXYVg5YWVPZnlBczdsYUxJM2JFbUQzREZwaThucktyMElZeDFkcmc2VUc1WTZOUE5MV1Vvdw?oc=5"
     }
   ]
 }
