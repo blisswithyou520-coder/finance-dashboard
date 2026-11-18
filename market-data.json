@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/18 08:34",
+  "updated_tw": "11/18 15:57",
   "taiwan": {
     "2330": {
-      "price": 2170.0,
-      "change": -45.0,
-      "changePercent": -2.0316
+      "price": 2175.0,
+      "change": 5.0,
+      "changePercent": 0.2304
     },
     "2454": {
-      "price": 3840.0,
-      "change": 45.0,
-      "changePercent": 1.1858
+      "price": 3940.0,
+      "change": 100.0,
+      "changePercent": 2.6042
     },
     "2317": {
-      "price": 219.0,
-      "change": 0.5,
-      "changePercent": 0.2288
+      "price": 221.0,
+      "change": 2.0,
+      "changePercent": 0.9132
     },
     "0050": {
-      "price": 94.0,
-      "change": -8.5,
-      "changePercent": -8.2927
+      "price": 94.1,
+      "change": -2.35,
+      "changePercent": -2.4365
     },
     "00878": {
-      "price": 30.86,
-      "change": -2.74,
-      "changePercent": -8.1548
+      "price": 30.65,
+      "change": -1.78,
+      "changePercent": -5.4887
     },
     "00919": {
-      "price": 30.39,
-      "change": -1.14,
-      "changePercent": -3.6156
+      "price": 29.99,
+      "change": -0.51,
+      "changePercent": -1.6721
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64704.35,
-      "change": -151.4938,
-      "changePercent": -0.2336
+      "price": 64843.82,
+      "change": -50.1253,
+      "changePercent": -0.0772
     },
     "ETH": {
-      "price": 1818.0,
-      "change": -1.2759,
-      "changePercent": -0.0701
+      "price": 1816.61,
+      "change": -6.3513,
+      "changePercent": -0.3484
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.892,
-      "change": -0.0709,
-      "changePercent": -0.2151
+      "price": 32.948,
+      "change": -0.0149,
+      "changePercent": -0.0452
     },
     "JPYTWD": {
-      "price": 0.2041,
-      "change": -0.0025,
-      "changePercent": -1.2254
+      "price": 0.2045,
+      "change": -0.0021,
+      "changePercent": -1.0318
     },
     "EURTWD": {
-      "price": 36.21,
-      "change": -0.0448,
-      "changePercent": -0.1237
+      "price": 36.174,
+      "change": -0.0808,
+      "changePercent": -0.223
     },
     "CNYTWD": {
-      "price": 4.9444,
+      "price": 4.9451,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3835.9,
-    "twd": 4056.0,
-    "tael": 152118.0,
-    "twdTotal": 126170.0,
-    "changePercent": -0.4438
+    "usd": 3768.8,
+    "twd": 3992.0,
+    "tael": 149711.0,
+    "twdTotal": 124174.0,
+    "changePercent": -2.4688
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -125,28 +125,28 @@
       "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxQMmFEcUJrVzhhajg3eUJjQkFXNTlsd3ZrSlQ0bkFKQmY3bzBFNWU0ZVZxY1FlQmFLZVAtZmUtWjhWMFRQbjZNTWhldFJzR25ZLTBfWFNod2V4ZTlBVlVxLTdUWFN5cHBGdFFIYTBNSXphS1RuaHp4Ym1CSzhuN2VCRExzUnFITDU1MmZjZHF4VHJHWG92Qk5pdHJiSnlmWktWS0J6YXdaN0lRbllxNEQyR25aU2tEN2k1TWdWb2RwSzJfQWVYZkJHazFFelV2aW5PazlFYzJONmtDa2VHZE85NHRGVlFoeHJhdFBVVHdmcDgyN0wtU01HbktxbjF0MmFhMEtTcFFoajVmTGROMGxxMkxDVHdaYlhOblNkQmctcm1XT0Jac0w0Q0k5TU1VWXVxQUZvcWxESl91NldWQXM2emgxQUJNMlRERHdHNFpQc3owdVVJQW1veHlLR2YyOEctdl9vSGttc1lsTGYzUmdXTkM0Q05lYURGZE85RDV1c2hxclRidlBuSld6V1BweFNaX2RSNUhDSU5LeGNfdTR6TzNkZzZwQldQRTNIODlkR2tuN0swQ1hnZF9VaWt3a29GSVY2YTA3RGZOVWtPT25oamhMd1RsMHNFT3ZsUjRRX1hJQXBiOUJYZzlTc3czdlFYTVF5QmZPZVpNVXJOeVdtUUdwamZSM0ZndGRwVW4tQ0Niejkxb1lveW01SV9Ob0xyZDBoWVJselRWTWRlbFpPWlhkTmRJT3FoMUxCZ0MzY2Y0TUJmY3ZQSTE5VTBGNFZXaDBwTnBlMENlS0xmdGFOY3MyMXh5bEFGS2owZDVTLXlhUVV4eDlPeHBQVG1BcldQYUcwNnA2SnhOWWEwak0yYg?oc=5"
     },
     {
-      "title": "11月18日 五件財經大事搶先看 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ea0dIYzdBQXpoalEyTXFHZHh0ZTFZNVBZWnVJaFlYOTB0N1ZydGZFTEdWUVNKNG5aYU1YSE1SSi1HbXFTcGJHM0piSVA5UFgxcEtuTThEelJPd9IBX0FVX3lxTFBfYXpNbVBPc2hHSlhaMmQyOWFUSkJUd0RTQkFqdWg3R0VCSzZhOUlwWHR6djc1UGpvUkVkc2dsa3RSREpmVkdObG80eXBpOTZnYWVjdEJsZFF2MVNlSjM0?oc=5"
-    },
-    {
       "title": "美股收盤》道瓊再挫848點！費半翻紅 台積電ADR跌3.68％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kampPQWhubEJrbDBpb3lOa0lVRDh5NFdLZ1NacnV5UFRjTlRLdl9QOERTa2N4dFllck1aYVhEckRoWEdJNXZsNHR3YU5LWlVPOHVqbDFtVlRPcXZsMnZZ0gFkQVVfeXFMUFNnUFlEdFlyOGNlUUdwcFRwQnRoWHEycHBFMkRteWZPMDJmUUNYZHVkdmkzUXhER0ZHeWxjOHZMZzhua3MxZFdqbkZaX1pmZjhLWWRWTnBkZzJ5ekFwRDZBOHhRVQ?oc=5"
     },
     {
-      "title": "美股收盤／道瓊跌849點標普、那指連四黑，軟體股成賣壓重心 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92czVVTHFfUU1kZUw4TGJZdktwbFhmdTIwbmhPY2xrRmo3eFQxcVE0b2hqeWRKOFdDMGlCTWFrcnpCTFdfaFQ0eUlnb254VE0?oc=5"
+      "title": "快訊／台股明天再挨衝擊波？美股開盤三大指數齊跌！道瓊挫近300點 輝達、台積電ADR受挫 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxQWnZiaHdnLW0taEpTNXFZMjVfRmxYaHg1a080VEpRVF92cUpkTFhFaHluNXJfc2JJRVhYTXBjYlBBVzVfWnUwWUFCN19RYkozSkIwOGQ3SGZCb1JuSEs3WUtYeDRpdVlsT3NQRGhmeFNvTjVLejZnS0VWbFNKeHNiMXJrSXZ1SzJURlJJNEU3amNqZHFWSjRDZWJWdHBxYm9RdmpCWmM2cnhTNVpHdER3LVJpVFJIbUFCSFlhbkczVTdEV1p1cjVTcFpoSlV2amJzYWRlZVRObi0xSFVMbkE2OWRZOFJVd3hJMVR1cXlWbi1CcDhpa21xN21OcnJ1OEhpOWw0WXVTSVFVejlRMGVta1RaQVl4ZDl4bGZtdHZDc3ZhRW5NNkw2T183akV1U0xjbzdVaEFFN2hzSXBNdldSaUdENUZ2Zm53OTM4QmxxajlONVFXZGRDcTRYOHZvSmQwdG5SRThSbUVuUmVNNDZXR2I5aFd4S3pUZFNwZzRYY19jMm9YTThtUTNLX3Q4cXVlSEpJRy02V2xVSGZPQ1piaTFZY3BFT1lzRzhucVlncFFkYmln?oc=5"
     },
     {
-      "title": "美股收盘AI软件应用、加密概念股普跌，Bitdeer Group跌超11% - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14MHE5T2ZjT1phU0NuaVlnMnhsQ2FyT0FTUllPc0YwR2RFcG1wVktCOFRZR3JrM1BVbnhjVXJDSUo3bVYxelppaElPLWV4MTZfT05vT2NLMldvMlJQMVJiZkJxeE1RUQ?oc=5"
+      "title": "藥華藥、保瑞獲利創高卻連兩日走低，台股急殺後，生技股是錯殺還是重新評價？｜產業熱話｜豐雲學堂2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMiswRBVV95cUxOam44em1OT1d3bm10eHBwS2N3LTJlVnViV3JJVnZXT1ZNZE9rb0hUaktMeWI0RHdsUDhWSm9sd3NzZVdSUlRMUDdibFhoM0x5bFNJdW9mWWJPS0NXWDRlOFkyeEVXZTVmQ2N5S19GZjZTZjFfb0RQSmdIV3QwQkE2NXpabnFVdC1HT2hTQWlUTnFGSnA2cXN4RmFQazFGZFdIQlB5V01BdUNud0J6MjV4LXpBdnRVWkpaaFZSWVVqc1hyVElqcU1ySzBxbUhLQ1p3ZUZQeUxqc21qVF9xQ01UNjZ1eUtBS0trbTZtWm9jSzFfUk5VMHpWN3gzd2JlTmJ4dkh0NThwNFZxbVdqQlRyYjNna0tRLWc0MlZ4aHREV1g2bkJUSXpFWGFLbFNEQ01XYk4wTzNZdHE1VlJiMFliV1llZnFySW5QWE1aaER5bkJvajF4S211VG9tQmlScjhPZ0tqRVoyX2JlTHhqMEpMa0RvUHloRTN2azVLWEFtYzM5cHA2Q054SW5LZHpLWTM1NEhqSWFmVFJoTHVBeUZvcE5tSml6T05menhPT1MxcUFmN0JiUkQ5VnFiSUNVdENuVUZod1RmODhDZUZWdzRmeC1NQ09ZZEhIU0hqUzFuZFBaWVRzQTBkRHZLLU5CN2ZtejFOTHlCaDZReDRvUVdSVzJhdnV0Z2tsN0ZEYUFJckMxOHZBdDZPbkJzZHc0QWZyTDRyMFI1RGRhUjFHWlhpeWpabw?oc=5"
     },
     {
-      "title": "美股財報／輝達上季營收翻倍、財測強勁 盤後漲近4% - 非凡新聞台",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qalR0bjFnUExDWXh0Y1V6RWlwUnRzZ1BDWS1IZU5pMERYNlFSSjdzeTN1djdRdHV2enBVQWQyWHltaWczdUQ2TGJCdnc4S1RYUXM1LXliWlR2bUJhZDZ0d25WUXRtSkJSakR5SjgwOHh6OVdsczhjWFFJV2U2UjQ?oc=5"
+      "title": "黃仁勳發聲了！輝達財報優於預期、盤後強漲4% 美股三大指數收黑、台積電ADR同步下挫 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPUUlMTWtuWFhadFlOMlctM1JkMDhRQzExOGYwYl8tWGg1ZkQ4N29DTUtZTW1rTlZCekotcS13Zks3Qmk1RTFrX3ctX2ZfYl9EaHpQRTRSUW5VS3lwT2dWeVJZOUlCamNKYlBGZ09Va0FweTVvQmd3RjZZbURDR3ktal9fTTNoem5sWnkyaXh3andmbEJtS0tFbTdqUFQ5VF9EMzY4TnVaQmR3LV94NFdMTEJScVB6dERIckdaQko1b3Z5NjBOcC1xMzVYN2luMU9mMXZ6YzQzNGp6bk1PS3pqaDgtTF9OYy1Xdnl3RUtPdmUya3BWOXB3REF4T0dCZkQxSGk4RGg4TVJNd0hIY3prMkxnQXhBWWNZeHFQMTZXa3BsQVZzbDhGOWZCaWlHamtGYU4wdEZIQ0JQWjFHVWVLT3k3X2JQd1A3aEx0RkYyTmtnUndGSk1DQWF0TDhPWG1jVjRvZThOcDhOV1RkZy1xTVZXaF80enVOcmt0eHZabkNaYzVyRGh5bU0tY0JpZUpQV3Z1U2tEb1VFUFIwMFkyenlPRjBYOHpHSnVLX1lDOGJ2bFZCTlg3RTBoTGtybnJmU1NaV0NVMDZzU2VFRjVrSDB0YlhQUXpXTktla3NYZnlSSGQ0eTc3R2dWcE1sUTY2UWc?oc=5"
     },
     {
-      "title": "美股四連跌！Nvidia財報雖勝預期短線回升，Anthropic超級IPO與Fed鷹派疑慮引發拋售潮 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXh1N0xGb2RSNmp4VURGbzZUcmxTOW5iRExQWkNSR2lLaVJMOXlWUDFpTnRicjdiYkJEUm9JTWs3VktyeGFmT3NLUndJMkU1aS1sVF84S1pKRmk2NUtlN1hHNFRyc2hZWk83bVBXdU1RenNUcTNVRUJoRGVqVDFMZzJMdjlnNFBvRnFDR2dn?oc=5"
+      "title": "台股近半年已跌逾2%！市值型ETF僅6檔逆勢賺錢 009816勝過0050 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOZzVMUU1KSC1HMzlYOHZpWlA5MzYyTkZud2I5OXdqcVMxYUo0a2RRUUE1TGUwdGtVemJWM29GaDhIX0JVN185cDF6SE5lOEtVRG5fZjcweGtyV2Zydjg3aXJvQ2IyR011ZHB4OXI4V01ndERZcXp6LUI3OHV2YTFvT2tZb1JvMGpPb1BCa0lfQWs3dWl0NjA3eHhTVkF2WjlhTVhlaXN2SGtXbE44cEd4cEtnQTJSZUVZZGpXLTBNRFZKRGZ4Q0EyUmYyOXBIaTBiMzFlQUdHOE80VnZSYnNSSWloNDkxckdJOTFrM3VEdWNLblBQaGc0NkltTjk0bzBLeFFPTjNGUmpvRGRuUGo4ZzZ1TjN3Q3FGZnBEQk9TSWVSNEN0Vlp3NkxYZ0NyNHZoRTRpTVVxcHdfZHVDU1MzM1l3VW84QWdFbnJsaWdwWHU0cGkzeEJqWmJnSWFSM0dF?oc=5"
+    },
+    {
+      "title": "砍在阿呆股哭了！ 台股急殺留長下影 專家：「這族群」成多頭伏兵 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQdG5Tc1cyQUlzUlltWlFBV1p5NWpiei1LNndRd3FXSGhlN3BKMEswTkttWGYxMzVqZFpiOEtWaUR0d213NGVmRkNhandWMGdueHFmRHZ0YUljM3NLZEl1SGhYc2dDTTVaREtFY1U1bVNSNFBIdXJaTW5KX3JMV2lkQkpzQm5TM256NF9oQmx4aHVSdk0xZ0JGNWIyVGdRYXZYZ1Y4RzAwRVZqYUNSbFBjOFFBRVFyMlc2Um5YMTFpaWxOemlUaFNoaUZ2bU1vOTRJMy1sck9UMDBxVjdBMmhxWVBjXzNaX2ZSRktGdVl0b3NkNll2aXBYZTJXd3pLN2NqNFhmTldhNHJLcS14TkpzOGUxYXBvNXFvN3ZZT0stbl9IbXQ0dHRGUTI0NkdYdXBFQUFVekZPMFZSQ3Bkc2lwNmlfTDV1WDhmeUhnOUQtMDJFZGgyMnFQS3UyMHlRRmY2QXBYNk9tRmxPeTJFX1Z2Qy02dzFELXY4VTZMMWRNRUZ0SUZseWg0ZGZwNHo?oc=5"
     }
   ]
 }
