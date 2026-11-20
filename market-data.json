@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/20 10:50",
+  "updated_tw": "11/20 18:56",
   "taiwan": {
     "2330": {
-      "price": 2010.0,
-      "change": -90.0,
-      "changePercent": -4.2857
+      "price": 2000.0,
+      "change": -100.0,
+      "changePercent": -4.7619
     },
     "2454": {
-      "price": 3400.0,
-      "change": -320.0,
-      "changePercent": -8.6022
+      "price": 3350.0,
+      "change": -370.0,
+      "changePercent": -9.9462
     },
     "2317": {
-      "price": 211.5,
-      "change": -9.0,
-      "changePercent": -4.0816
+      "price": 210.0,
+      "change": -10.5,
+      "changePercent": -4.7619
     },
     "0050": {
-      "price": 85.2,
-      "change": -8.9,
-      "changePercent": -9.458
+      "price": 84.45,
+      "change": -5.75,
+      "changePercent": -6.3747
     },
     "00878": {
-      "price": 28.33,
-      "change": -2.32,
-      "changePercent": -7.5693
+      "price": 28.03,
+      "change": -1.75,
+      "changePercent": -5.8764
     },
     "00919": {
-      "price": 27.82,
-      "change": -2.17,
-      "changePercent": -7.2357
+      "price": 27.49,
+      "change": -1.66,
+      "changePercent": -5.6947
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 61621.31,
-      "change": -1365.9556,
-      "changePercent": -2.1686
+      "price": 61971.24,
+      "change": 69.4197,
+      "changePercent": 0.1121
     },
     "ETH": {
-      "price": 1732.51,
-      "change": -42.2391,
-      "changePercent": -2.38
+      "price": 1754.61,
+      "change": -0.5798,
+      "changePercent": -0.033
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.969,
-      "change": 0.0391,
-      "changePercent": 0.1187
+      "price": 32.941,
+      "change": 0.0111,
+      "changePercent": 0.0337
     },
     "JPYTWD": {
-      "price": 0.2049,
-      "change": -0.0017,
-      "changePercent": -0.8252
+      "price": 0.205,
+      "change": -0.0016,
+      "changePercent": -0.7768
     },
     "EURTWD": {
-      "price": 36.219,
-      "change": 0.0895,
-      "changePercent": 0.2476
+      "price": 36.139,
+      "change": 0.0095,
+      "changePercent": 0.0262
     },
     "CNYTWD": {
-      "price": 4.9497,
+      "price": 4.9377,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3548.7,
-    "twd": 3762.0,
-    "tael": 141058.0,
-    "twdTotal": 116997.0,
-    "changePercent": -3.7118
+    "usd": 3594.9,
+    "twd": 3807.0,
+    "tael": 142773.0,
+    "twdTotal": 118420.0,
+    "changePercent": -2.4583
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWV9DVVVIc3NWcnhhbzFoeVdQTU8xZm1xSmlNZ0ZoWTF2VGlQeEZnblZmMGdxcXVQRW9aMDl0LVNIYTZRamxDY0hoaGtDU0tmbnpVTTNZV3BIdjcwOERTS05CWGVTMXNuVkJCTkZkcFZ2YUJwS191U016RERFLTlXbWNyS2NDaUNPNDZvdWpWUENjbk9ydXpOSXFQaC1ieEVEd2FEb01ZVWpLQ1d3Tk1VdWgtelVCazc0dGJobm9GdXdZUnQyZ2ROSmZma1poRTJSTS1ja041aVYtYkxwWEFmUk1WU1NwQnprRnVxWnZTZXVEQnhFRG1QM3FQVzhKQnQtOGpkT0VTaExNT0ZWTlo3R3dvWmNDNjZBRl8yS3g0LVpINkJsaGIyYlF2V3ZFSDI4QVFFVVVsanpDMklOZGtrakhGSWRSZi0tNjFZYzRpTF9pM2NTTDI5WEN2OGNMTEJHdkw5aGFCRXlUS29RRUYzWjlRWVJIdw?oc=5"
     },
     {
-      "title": "美股收盤／史上最大 IPO 救不了AI 股 道瓊重挫1,100點 三大指數全跌逾2% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94bjBLbGVIZG1nUXJQWDk1WHFSVnhHYl8zOEt4QUw4VDlwNDQwaUtpLTE2MFg2MXlFak5kNWNoUE5WM0JXVllTYThvaXFSZWVaMFpuSDAxUXd2S3FD0gFiQVVfeXFMUHQyOEppZExvbTdlSndOVVFPdFFlVkUxT1k0WHJ3bVIxenNDUTBhekQ5amdya2Y4X3puWENic1dhUlg1Ykd0TldmMnJHLXRzWmxCS2RDbFhmSk1PQ0FJa29oVEE?oc=5"
+      "title": "今日漲停股｜台股暴跌2,393點創史上第三大跌點，資安與資訊服務族群成資金避風港，華經、中華資安、仁大資訊逆勢亮燈1120｜豐雲學堂2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMiygVBVV95cUxNUmpfcEZUeFVHWFNZOElHWWhTM0l4S0tqT1hPTEZJWVNaVUFiQnVRa3FlVHdQRkZPNG4tSEZXR2YxaW1ENDlrSHZRVG5pNVJMWkVtTmVKSTZEeUlYbWlORVdHc2hRVVlWaEdnWHBaQlJSd1FMVnM5Ul8ybk9wb29oU1k4XzhRMGV6MVZmbWpfMEFSblJQR1BoQjdSNXE5SlY1NWVpWG5nMnJkMnpPN2dsOE1XbTJNbkUzVXN1RXg0X2tqeVlhWlRtWmRxNU1IeVNhU0FwR09WY1lfSnhpeHR0a2dObS15bGNCVjQxSURHcy10LWw0SENKNWZoYWtndWVubEpaMHVCUEh0TFdydlpDTEdzZlNzM0NZTUZmSHQ4dkV5dXd2WDA2T2N5YkNxcG1ucVNWajdweHd0X1NRcVBpNXFUV29FVndVNF9kRWV0WFp3MlUwaVFhay16ZHBfMlJLWVRUdkZpYmRfMjZ3dGw1S0Vuc0loaTdBdE56Ti1TeG9YRDI1N2xEb3JkY3BYQlhONktCY3FleE1ubE5tWGVMd1lPNmFia0tQT1dJMHgtTGlGLS15RUlvaU5tdWdvZnRhbWY3QjE1bmtJT1c5TTFtZExQRk1lZTZXdG9HYkJ6a2M1SUE0dXI0MHJQd1dmdVR1OHN5NVBZVHVBdGxERzhsbkxNYmhPWW9ESC05R2pMT1FuOXEtRHk0dVV6Y0tQWWNEUkNHQnRGelpySmRkQ08zOGNpYnBwS2Zya1AyYi1Hckp3TGYwZFZwd21fOFBuQXo3Z1VsTzhlc0luMWExNFJnUkg4OWFibW1UYzlUbVZEekdIdWdLU0lQR29qU2NFaHlEUVUxek9VMkl3eWZJYWFMejN4NGl1aVByc0VDWGNHSFVzQUdXWWs0bk1uMi1EWjlQeE5rUUJYZjU3ZkFYdWFzUTFTbUlRWExCdHc?oc=5"
     },
     {
-      "title": "美股｜Anthropic上市行情也救不了 道瓊崩1,101點 台積電ADR跌近3％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RQWpBZDJkOUNOdlh0MTlOSjUyQXBpejd0T2NabVAzWnBSSXNzM3BLOVJuZWRETkQ5OHpCOVE3TnZ0cjhRWUV5TjJseVhqaHB1V2N2cHhQNjFRVmVUZzZj?oc=5"
+      "title": "美股收盤／史上最大IPO救不了AI股 道瓊重挫1,100點 三大指數全跌逾2% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NRXdDSXkzZ19YRV9vekxRQVkzOERSU2stemVyMmh5ZmpOZ0xod1RTQWd6NXlpZi1tckkyMndKaEYtUU4yWWlHVU9tcEoxdVVx?oc=5"
     },
     {
-      "title": "美股收盤》Anthropic難救買氣 美股哀鴻遍野均下挫逾2％ 台積電ADR跌2.90％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OSXRycnlVRWhkbDRQVEI3aEhoYzdzZk9DZGRiTDRwWFNsdHlUU1c4VFR0c0NJR01nZFA1bTdHMlMxZGt0S3B3d3paMHlzeTY1S1U0UGFpNTFMX1NUbE5v0gFkQVVfeXFMTTZuOExLUlo1SDBVT0NVZlVtLTctSUNMcU8wMTVPMVhnZy1mWDNWdlFyRmhuMjdaWG1jYjhqNTQyUXo0c3VJM2pVUVk4TVpXTXNqSGZoTWF5eVk5bndDYjR6WktmbA?oc=5"
+      "title": "台股為何跌那麼慘？ 傳奇散戶曝「2連鎖效應」：恐再惡化 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQUjFoSnBsR3pldkE1amx3OGdEN2NkdXpyR2lFXzdZNnVxSWFWQzBDMTRoVm1Lb3ZjS1JQU0l2eE9wS3NUMVVqaFdlRUJ5blFCcGdrWHlKRkNtdGhHR1gwNHp1RVpMQ01rcHhoTU5HOUxORXVJSjltdURfdmF1cnFmSDR2bDBocXl2RUpkanZOLXhJRlpCTTZXWjBFMzJpN1hobTVJcjJEVGNac3hNZkRQVFdNcGhnanQ2XzVzTGFJSTdhTVI2NUlPbDhldTFFQTIwVF9CYmNGaHhXMHg3RnQ1Z3VZMU5KZ2NXb180MkduR0hXNGdESUhZME5ST1V5YVRKSmFhbGMxQWJNajFwVFU3bHQzYVRUVjZCeEc5alA5VEJoOTBKQUU1ODdTMUlxd3c4TDdtdGhKb3BLVTZNR0FaUFhhSDRPS3lUdk1UMmpnandBcWFjUzR4QkFneW0?oc=5"
     },
     {
-      "title": "【1120台股盤前】加權摜破年線、櫃買破底，限空令2.0上路，巴菲特護城河策略鎖定【聯強】、【聚陽】、【裕融】 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxNbG1VS1hFNldfWGtrNVBSTmhFWWd1bW1IcVBnTXBFdC1wYTZwSDRVQ3psWG5yOGJzZFVmWWhTU3ZudkxiRHdweWtjUGJCblZWSzZVOUpjZUJUcGpySTZDMG5ndFhDRzB5ZjI3QzFHSHZydWVXbDNSQUxnYUN0UzZjYkEtSUFTYnhfUkpyTVd2UDA5eG1VckFWVGZpQTBDM09hTlVPbmMtalY0ZV85ZjM3N2FIbVFLT2hMdHFtMy0xVEVTR19BaW54ZUs1bFpBZE5feVpDeUdIWHBUbXg2QXc5NU1oUjF0SGhJd1MwLUw0NXhjY2hIemRLNE9zbFFoaUlPMnRONHdzWlUxMGdVTHBudVZobmlUS3JTb3FPTkZnamZVRXRWMUFKQlh2OWRDLUFYVEdYUEFHTWh1OUhQN01Ld1JFeHFIOWpya2FDSlN4VWtpZWQxTGQ1Y1VPVUR4bmdpS1BEaWRZOXNNV2VxY0o1cVNiSzA4NkQta1VmQThjSzkxQkFqTllQTWtQRXI1OGg0TjZrU1BxdTNDaEZTVUhSR1NFQ0VHOGZDdjVyNHZXV21qV2xVWFd5VVJuOUFKa0tJeUJkcjZXRXltLXNqS2pwd1pUMTFGd29aY0JVTmh0QWtkRDlseG1UbTJiRHpjTk5sM2NSazhPR1BXYVp5MGxfOUV2ZUpjNE5QVnBITHI3QXp5eFh0ZW82UG9IVldlWW1ZSjJaQ3pha3JNQmYxR01fM1c5SzJmUDFSTmZqSl85amM?oc=5"
+      "title": "史上盤中第5大跌點！台股陷3萬6保衛戰 權王台積電跌破2千元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPZU5XUTF2WDI2ckJFNnhWZTNGMk1QVFRYTEcwUkM1azFMWG1feFRFeHpjRnhWMjZ2Vjg2aEFsdmMzRkFEQ1lnY3hsbFB1LWlaeW5zSXVBMzgzU3NfSWd5dk5QNTc5U1k0alZPUm44UWd4SGI2X2h1YWl3dXRtT3ZNYnFJc2VPcjBsdm9QU09fOEhMVmJHdDVEYnRqbS1PbzRxSl90bXBNTEdzT0VJQW9wSk1Vd3dYNFB0bXZwYWdmbmZtMk1FYUQzUThoWi1jMHI4MU5QMTVadllhTnZsVkw3ZWs0TF9yVnJMbzBxX3VNTExYeTRPTmhaQmRuSEljd3hLYmRiaTdURHI0bXVndFJwa3dUbFJoU3NObl9MM0NjSWlNQjRFeVY3bU1hUmYzbkxMMVBNZ0NWMGxCZnZIT0loTTY4UTltV3ViU1BURjJCV3BqeUtrbWRfNXZHQVc3RnBHZmMwVmpUaHltZXV5Vk9kSHZ6WDJfajFIanNRdG5XeS1ZbjVXcVNSVnVhSFBTTHhrRFVyVS1JOEVENUQ0?oc=5"
     },
     {
-      "title": "【美股盤勢】標普六連跌，AI股全面遭殃，Anthropic上市卻逆漲（2026.11.20） - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeVk0NXk3SnVIdktOOEtTcWhNVzRZakVxWElCWDVNN0IzUjJLdkNWZDY1cndIbF8tTHBaYzF1bDR1Mk5UOHF5NENfTlBvcmRjNzZZeUxrVjlrV1JLN0hZMmI3VDRtcGdodUlZQ2k0Z1YyQ2drRHdINkR1bGhMRDRrUm1ZVU51WGhTZlA5bGNB?oc=5"
+      "title": "台股暴跌2393點 他問「有誰還沒賣」？ 一票人苦撐：用命跟它耗 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQUk05RFhITDk0UkZHZDdQMUtLbnFyUVRWVkJKU3MtcGlNeFJwTDFiTXIyTUhPYnhCQk1kaFpMcWt6S19sQ2kxUFJIQmdvMXl4N0pVM0JzSE1MUHd2ZUVZQUNWN0Q1RThJSFhrbzBZd2tybVgyVDBYVDNQRnhaR0tackxhbTVpWXVfdS1NcWlmR3YyWmNoTVRNTTVTZGRHLUMtTzVzb0R4Sjl1eVR1NHlwQVc2ZHdNMktXNlV6Q3o4dUNqdUdhMjBVdm5KX2ttUjd4RWdYQm9KLWlGaGNPaDBrRzQwOEUyamRTUVBGdjBYUGRHWDFKYVljU2taX0hMYTRUdTk0bFNIbk5QdW9peGxSTXByUXlKcm1tdEhHendGbU85SnFhUURmYUVpenE4aXl1cGtMcThyb1lXb2Zwa29wamFENUU2cnNvenVNQTlkMmVBVmVKWXBKZThXZVNuV2hhNEE?oc=5"
     },
     {
-      "title": "〈美股盤後〉Anthropic上市難救AI買氣！道瓊暴跌超1100點 那指費半跌逾2% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNSXpxNmRBN1FUWDJjNGlpVUhOemM1MGJYVjJWNGNObVB3YU81WERRNG1USk90UG5KZGUtbF91LURkWkpCR0ZXQkIxMHRiRXNwNVM1Tl9WSDZqQ2ZYWnZxTmNUYTE4ZUZFZ25UWDd1TW8tenJLWWhrcFBzaGJhcmxoMnRUWXItcXNvRFg4T0E4Q0FBMVlvdzlheVRUbDVmQ0pfYVJ1cWpLUVcyTXY2WUdkbGV0RTE2a3N1UDBrRjlOUzE0ZXRHNk9kbDh1emg3aVRFb0IxbFA3V1lWc0p5aUh6Q3N3U2xSWWpRR3ZGdHktQ3J6cnVkbnpqcDhfLVM0NG1FbDY1V0pCZ3JNQThGZGpSYzdDaEN2RkNSaDlhLV9YOEh3eUlORzJjWGVsd0JqSUVnTGg0NENmanJ3aWdkMlVzazRiRVIxTmllM2h2cDZwR1Z1QjdkU1JLa0NWczN6UUFsNVFGUXBjX3N0OTJKbWkzX0w2ckhBWmJ4NURFZQ?oc=5"
+      "title": "台股暴跌引恐慌！ 他憂AI紅利結束了 網嘆：四牛一熊剛好 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQb0NVRkJFREdLSDlFZGlnVW9US3NPcTgwLTJjelNoMGtxUHZtY2RhYlVUNDFhMDJpMEQ2dDlPU2cyQWg0WXZTVVRYSWlVQXFaMWROeGNMN1FSbzdCT0dqN2czdHlJWFhuMkpnQUxmLTV1ZU0xM1h6UnpkbVprS2I2STFqOHYtZFdjc1RQelF1dFhpbHJTVFNqWktMdTBmUkVMQ2RYb2RkTlZEZWhWUEd2Ykk4Qm44eGNBLWYtMjJkUGtnc052MkljcXlBREZXbEdoUExySWN1NUh0WGhCRUNCT3JGdjU2RFByRHJYNGNLZ3RJR09Melo1b3AtVmxOZ2JjS242dDM1cDNvTGtjRVEzVGRUVUNHZTdOM1hBX0ZPMXQ1N1gzR3NUbEJTQnp4Uk83S1E4TTEyQUtDQ0cxdkxuby1Oaml3WkQxSHV0eDhiSG56RlY0RFM4cjJBSXlKX1U?oc=5"
     },
     {
-      "title": "美股盤後｜Anthropic漲幅收斂，AMD重挫7.7%，四大指數盡墨 1120｜豐雲學堂 2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQdUtWZkFiXzBZdV9lcHQ1NVBZdW5KRTBYbjB4U2RQbUgzX0xVNTVLeHFtdW9XZ2JmRmxYUFQ4empZbmJvX09LbWx1ODJHR2N5bGo2LVkyUUNhYUNXbG5aMHVlOFdJa2VrSnROSHFxb2h5ci1UMTJfZXNRc3RfcElaRWdEUFlXdFhvcjZvX1JmVVJ3cmwtMFN2NXdNLUFoM18tV1l3ZGFiUXhOYkNqWHBXbE0tM0tOS2RRbEJOVFpHU3Y2WEFxSUNvUDRoMnZHU0VSczdGLWdiUXpRcnBlZmE0Ri1wcFVUb251TlIzOENoRk1mMV94UllTZDd5NWlTUmRJcThrNXdxelBaYXkzaUx6dFhGeE0wV09CWV82R0V0eVliZ1I4NGx5Y3c4WG5uQ3Z3RGh2ckNGeGwtRnJIdXE1WVpMcG5Pd1hUVWd3WGVMQjgxMkRONUoyeXZ0OTd1LXBSOGYwSQ?oc=5"
+      "title": "台股狂瀉2393點 外資小賣94億 網嗨喊：穩了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOUjBmYWVoNjE2Tm9DQm9nZVNYbmpZQWkxZGFhRWFOdks4bEhWWXpHenQ3U2hjbV92UWo1MF9HNmYyVWU5eEJJeS1iN2IwSXVmU0hwT3BfRnJHOG5QZkkwOThtaDVuaEJ3WkFkYXFtTzZQemFiVU1XQi1JQWRMNmlRbjBtRHc0d3I3aE8tZFE5VWVFandTWjBVSjZCaXJVRlAzTjEzME5aSkdLTGJHTXBQdjBwN0xSX1owZXVGdGFnUzYwVnJOSWhxMndUNTZSQlB6TUctRXRPalZlWndCNktmcEtIT3VldFBFZ0c3RmtORXNHZlJWTW15WTY5S0RnV0ZDTEphVW9HTjQzODVDQ1NLNkU4dXBoc1RnU0pz?oc=5"
     }
   ]
 }
