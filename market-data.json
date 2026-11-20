@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/20 05:50",
+  "updated_tw": "11/20 10:50",
   "taiwan": {
     "2330": {
-      "price": 2100.0,
-      "change": -75.0,
-      "changePercent": -3.4483
+      "price": 2010.0,
+      "change": -90.0,
+      "changePercent": -4.2857
     },
     "2454": {
-      "price": 3720.0,
-      "change": -220.0,
-      "changePercent": -5.5838
+      "price": 3400.0,
+      "change": -320.0,
+      "changePercent": -8.6022
     },
     "2317": {
-      "price": 220.5,
-      "change": -0.5,
-      "changePercent": -0.2262
+      "price": 211.5,
+      "change": -9.0,
+      "changePercent": -4.0816
     },
     "0050": {
-      "price": 90.2,
-      "change": -3.8,
-      "changePercent": -4.0426
+      "price": 85.2,
+      "change": -8.9,
+      "changePercent": -9.458
     },
     "00878": {
-      "price": 29.78,
-      "change": -1.08,
-      "changePercent": -3.4997
+      "price": 28.33,
+      "change": -2.32,
+      "changePercent": -7.5693
     },
     "00919": {
-      "price": 29.15,
-      "change": -1.24,
-      "changePercent": -4.0803
+      "price": 27.82,
+      "change": -2.17,
+      "changePercent": -7.2357
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 61457.16,
-      "change": -1530.1056,
-      "changePercent": -2.4292
+      "price": 61621.31,
+      "change": -1365.9556,
+      "changePercent": -2.1686
     },
     "ETH": {
-      "price": 1735.5,
-      "change": -39.2491,
-      "changePercent": -2.2115
+      "price": 1732.51,
+      "change": -42.2391,
+      "changePercent": -2.38
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 33.031,
-      "change": 0.1202,
-      "changePercent": 0.3652
+      "price": 32.969,
+      "change": 0.0391,
+      "changePercent": 0.1187
     },
     "JPYTWD": {
-      "price": 0.2046,
+      "price": 0.2049,
       "change": -0.0017,
-      "changePercent": -0.8332
+      "changePercent": -0.8252
     },
     "EURTWD": {
-      "price": 36.258,
-      "change": 0.08,
-      "changePercent": 0.221
+      "price": 36.219,
+      "change": 0.0895,
+      "changePercent": 0.2476
     },
     "CNYTWD": {
-      "price": 4.9569,
+      "price": 4.9497,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3628.8,
-    "twd": 3854.0,
-    "tael": 144513.0,
-    "twdTotal": 119863.0,
-    "changePercent": -3.0225
+    "usd": 3548.7,
+    "twd": 3762.0,
+    "tael": 141058.0,
+    "twdTotal": 116997.0,
+    "changePercent": -3.7118
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "超車SpaceX奪史上最大IPO！Anthropic今掛牌上市、美股四大指數全開高 台積電ADR漲3.14% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPbUg2aVowWklDNnJST243aVRLMV9MeGQybVBkbFNJY3FkUHA2TU5qSVZYVWxNODdDVHBGV0hIZzVEcEJqYzBaU2VpcHhYeTk5ZkhqS1l1WUlRMGVGNzBHQlhiRm5fTjYyRjVJd01rMlBsTVhPMmNfU3FJRWN2R0NrVFpOSnNCalh6VEdlZ3VxTk5SUUFZSlkwY0p6czhxc0s4MmJISllzbmVuUGtRaU1TeTJVOFF3UlU3ajBzMEhOS2NVNFlfcHNaZkRkNExNdHZQMks3cE5fUi0tS2lFcEZ0OVNVTWVWTi0wTmpKTFdGZGJKcVl0Q1QxeDFmY0xfZ0dkLV95djRfVDVSdkhjZ0l1dGNuNUZIdmlwOEVMUjJ0V1F0Y3VQbnhjeHB6TEYzajU0MEVDdjNOQlRfdlpFaDIyaTNYN2NGRXRZUGxpcUw2cVY2TmVSZEdPSlVjUXdEMVlES2VBQmFQQlV6OG9IWk1USXVpZll1TnkxRTYzTXN5TGFlQ3BrRkNfZUVQaC1XWEVUUy1rT1BnUzVSQXhPbEFobk9ZWm1DMnRlOUNxSg?oc=5"
+      "title": "Anthropic史詩級IPO失靈！美股四大指數全面重挫 道瓊狂瀉逾千點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWV9DVVVIc3NWcnhhbzFoeVdQTU8xZm1xSmlNZ0ZoWTF2VGlQeEZnblZmMGdxcXVQRW9aMDl0LVNIYTZRamxDY0hoaGtDU0tmbnpVTTNZV3BIdjcwOERTS05CWGVTMXNuVkJCTkZkcFZ2YUJwS191U016RERFLTlXbWNyS2NDaUNPNDZvdWpWUENjbk9ydXpOSXFQaC1ieEVEd2FEb01ZVWpLQ1d3Tk1VdWgtelVCazc0dGJobm9GdXdZUnQyZ2ROSmZma1poRTJSTS1ja041aVYtYkxwWEFmUk1WU1NwQnprRnVxWnZTZXVEQnhFRG1QM3FQVzhKQnQtOGpkT0VTaExNT0ZWTlo3R3dvWmNDNjZBRl8yS3g0LVpINkJsaGIyYlF2V3ZFSDI4QVFFVVVsanpDMklOZGtrakhGSWRSZi0tNjFZYzRpTF9pM2NTTDI5WEN2OGNMTEJHdkw5aGFCRXlUS29RRUYzWjlRWVJIdw?oc=5"
     },
     {
-      "title": "美股早盤／史上最大IPO帶旺！費半飆4% 新雲端、網安股衝| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81ZXBMdlpfcWwyT2RzajZuWlVXMDh4dm5USGF1Q3pfbE1pdmxBci1nRVRYSFVrTEtQTWd4UXdBdWhtMlZ1RWpZYWpWck1vUlh3?oc=5"
+      "title": "美股收盤／史上最大 IPO 救不了AI 股 道瓊重挫1,100點 三大指數全跌逾2% - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94bjBLbGVIZG1nUXJQWDk1WHFSVnhHYl8zOEt4QUw4VDlwNDQwaUtpLTE2MFg2MXlFak5kNWNoUE5WM0JXVllTYThvaXFSZWVaMFpuSDAxUXd2S3FD0gFiQVVfeXFMUHQyOEppZExvbTdlSndOVVFPdFFlVkUxT1k0WHJ3bVIxenNDUTBhekQ5amdya2Y4X3puWENic1dhUlg1Ykd0TldmMnJHLXRzWmxCS2RDbFhmSk1PQ0FJa29oVEE?oc=5"
     },
     {
-      "title": "快訊／美股開盤大漲！台指期受激勵「吹響反攻號角」　勁揚逾千點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUS0ZMLWFCN053aWZzX09yeXBaSWhBSDJsb0QzMWNiTVR0MjNCdXJhRmdDRVoxeGQ3TnZJUVlvQm5DU0VGVEx4Y2ZJUGw0bV80ZEHSAVBBVV95cUxOd3BBYXVmZGJieHBySUlyWDlLdTAtV1FUX0l6bVNMZVNnbEFIbFFaR0RYYUhONU0wN2gybjl4UElEMmVYaXYwLV9zWkEyU3BZVA?oc=5"
+      "title": "美股｜Anthropic上市行情也救不了 道瓊崩1,101點 台積電ADR跌近3％ - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RQWpBZDJkOUNOdlh0MTlOSjUyQXBpejd0T2NabVAzWnBSSXNzM3BLOVJuZWRETkQ5OHpCOVE3TnZ0cjhRWUV5TjJseVhqaHB1V2N2cHhQNjFRVmVUZzZj?oc=5"
     },
     {
-      "title": "【00:32 即時新聞】Nike(NKE) 重挫逾5%：隨美股走弱、科技資金轉移承壓 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnlKNGd5cHdCdVd4SklZR2ZxVXlYajNPcUQ5elZwTEk5OGlCODJHN05FT1Nyek5ZYm0ydTVrUkpyVnl1UGh6NHMyVEh5UUZ5dDl3OTFMbTJ5b1VaaktXb1BpMkpkVnc1LUIwVGpVNkwzeDNPZnh5WWlPbG0tN1NRNEdOQU1QdzJZZlhQSkZn?oc=5"
+      "title": "美股收盤》Anthropic難救買氣 美股哀鴻遍野均下挫逾2％ 台積電ADR跌2.90％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OSXRycnlVRWhkbDRQVEI3aEhoYzdzZk9DZGRiTDRwWFNsdHlUU1c4VFR0c0NJR01nZFA1bTdHMlMxZGt0S3B3d3paMHlzeTY1S1U0UGFpNTFMX1NUbE5v0gFkQVVfeXFMTTZuOExLUlo1SDBVT0NVZlVtLTctSUNMcU8wMTVPMVhnZy1mWDNWdlFyRmhuMjdaWG1jYjhqNTQyUXo0c3VJM2pVUVk4TVpXTXNqSGZoTWF5eVk5bndDYjR6WktmbA?oc=5"
     },
     {
-      "title": "台股市值掉回全球第七- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KZFVZcmlKTlZoVDJNZUk0dmhEeVRhaEJKRnMzVm5WZGRkdVVLcVF5bV9CZFJnNDM2QVVaLTZCOThMaGprSkJPaWFmTTV0aVBuYjVyZEtnTk1nQmJnQWhj?oc=5"
+      "title": "【1120台股盤前】加權摜破年線、櫃買破底，限空令2.0上路，巴菲特護城河策略鎖定【聯強】、【聚陽】、【裕融】 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxNbG1VS1hFNldfWGtrNVBSTmhFWWd1bW1IcVBnTXBFdC1wYTZwSDRVQ3psWG5yOGJzZFVmWWhTU3ZudkxiRHdweWtjUGJCblZWSzZVOUpjZUJUcGpySTZDMG5ndFhDRzB5ZjI3QzFHSHZydWVXbDNSQUxnYUN0UzZjYkEtSUFTYnhfUkpyTVd2UDA5eG1VckFWVGZpQTBDM09hTlVPbmMtalY0ZV85ZjM3N2FIbVFLT2hMdHFtMy0xVEVTR19BaW54ZUs1bFpBZE5feVpDeUdIWHBUbXg2QXc5NU1oUjF0SGhJd1MwLUw0NXhjY2hIemRLNE9zbFFoaUlPMnRONHdzWlUxMGdVTHBudVZobmlUS3JTb3FPTkZnamZVRXRWMUFKQlh2OWRDLUFYVEdYUEFHTWh1OUhQN01Ld1JFeHFIOWpya2FDSlN4VWtpZWQxTGQ1Y1VPVUR4bmdpS1BEaWRZOXNNV2VxY0o1cVNiSzA4NkQta1VmQThjSzkxQkFqTllQTWtQRXI1OGg0TjZrU1BxdTNDaEZTVUhSR1NFQ0VHOGZDdjVyNHZXV21qV2xVWFd5VVJuOUFKa0tJeUJkcjZXRXltLXNqS2pwd1pUMTFGd29aY0JVTmh0QWtkRDlseG1UbTJiRHpjTk5sM2NSazhPR1BXYVp5MGxfOUV2ZUpjNE5QVnBITHI3QXp5eFh0ZW82UG9IVldlWW1ZSjJaQ3pha3JNQmYxR01fM1c5SzJmUDFSTmZqSl85amM?oc=5"
     },
     {
-      "title": "美股收盘Neocloud、AI软件应用普跌，Bitdeer Group跌超12% - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VeXZCb0xiclVwdll5OHlaaVN6SHk1UVVvN3NELUYxXzZIMHZCNEdDUEI1eVo1OTFPYmd6ZjRjZzh0TjM1bDl1Y29BQ3hheFZ1ZlRLZHZSU0taVW9iYXFsWEx2Qnlodw?oc=5"
+      "title": "【美股盤勢】標普六連跌，AI股全面遭殃，Anthropic上市卻逆漲（2026.11.20） - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeVk0NXk3SnVIdktOOEtTcWhNVzRZakVxWElCWDVNN0IzUjJLdkNWZDY1cndIbF8tTHBaYzF1bDR1Mk5UOHF5NENfTlBvcmRjNzZZeUxrVjlrV1JLN0hZMmI3VDRtcGdodUlZQ2k0Z1YyQ2drRHdINkR1bGhMRDRrUm1ZVU51WGhTZlA5bGNB?oc=5"
     },
     {
-      "title": "【美股盤前1119】聯準會議紀要偏鷹？輝達還有機會嗎？｜豐雲學堂 2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOcEk0b0c4cFhsU08tZlpxc1ZWbjEwN2pwYlFIam1DcnFwNHRlMkp0SGhrR0xGekxRbGNSbUQzdW5VOGFvdUUwWEZma3hfVDBIYUpVUTNzWmRzdExNYXpPVU5oTVVCTWd0OXdyS2Z3WXZsSm5FczI1YS1HVGhIejdLc05uUkJQZTZMWDNFSXNfYngycGl4bEpacl94LVdyZVNRRkJBcE5ZR3h4b1NzTmRqNUI4T0Qtc0lzWFdPbnFiS1R4d2dweGRjSC1RaVVZQ3pIMmNXU0xIOVBEekdpTW9nV2Y4ckRZaTIxZXFPNzlUbksteUlFOF9MZEdaM1FQdzRmNHZLNENxaHdUU0NLeF9XLUZkbEZWQVhMOFZfNWJ3M3ZuYUphR3Nia3pUZ01KeEp0S2xBRk9WZHFEa2JVaTI0QzFzd2NuNkZVS3FiQ3hEZlVnWjF6V0NNd25SWUwxVFlscnNkWFRIc1dncUtjREJUNE9Lbw?oc=5"
+      "title": "〈美股盤後〉Anthropic上市難救AI買氣！道瓊暴跌超1100點 那指費半跌逾2% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNSXpxNmRBN1FUWDJjNGlpVUhOemM1MGJYVjJWNGNObVB3YU81WERRNG1USk90UG5KZGUtbF91LURkWkpCR0ZXQkIxMHRiRXNwNVM1Tl9WSDZqQ2ZYWnZxTmNUYTE4ZUZFZ25UWDd1TW8tenJLWWhrcFBzaGJhcmxoMnRUWXItcXNvRFg4T0E4Q0FBMVlvdzlheVRUbDVmQ0pfYVJ1cWpLUVcyTXY2WUdkbGV0RTE2a3N1UDBrRjlOUzE0ZXRHNk9kbDh1emg3aVRFb0IxbFA3V1lWc0p5aUh6Q3N3U2xSWWpRR3ZGdHktQ3J6cnVkbnpqcDhfLVM0NG1FbDY1V0pCZ3JNQThGZGpSYzdDaEN2RkNSaDlhLV9YOEh3eUlORzJjWGVsd0JqSUVnTGg0NENmanJ3aWdkMlVzazRiRVIxTmllM2h2cDZwR1Z1QjdkU1JLa0NWczN6UUFsNVFGUXBjX3N0OTJKbWkzX0w2ckhBWmJ4NURFZQ?oc=5"
     },
     {
-      "title": "台股重挫1768點！郭哲榮曝「今晚美股有重頭戲」：1121多頭歸隊 - 三立新聞網SETN.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPZXF6X21iS1ZXaFh6c1h3OGZobEhWNFZCWUVZWk83aFdiZkRoVUQwdmswSVRnSGIyZ2N2d250VTBvY1hBd1hQbnp2bw?oc=5"
+      "title": "美股盤後｜Anthropic漲幅收斂，AMD重挫7.7%，四大指數盡墨 1120｜豐雲學堂 2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQdUtWZkFiXzBZdV9lcHQ1NVBZdW5KRTBYbjB4U2RQbUgzX0xVNTVLeHFtdW9XZ2JmRmxYUFQ4empZbmJvX09LbWx1ODJHR2N5bGo2LVkyUUNhYUNXbG5aMHVlOFdJa2VrSnROSHFxb2h5ci1UMTJfZXNRc3RfcElaRWdEUFlXdFhvcjZvX1JmVVJ3cmwtMFN2NXdNLUFoM18tV1l3ZGFiUXhOYkNqWHBXbE0tM0tOS2RRbEJOVFpHU3Y2WEFxSUNvUDRoMnZHU0VSczdGLWdiUXpRcnBlZmE0Ri1wcFVUb251TlIzOENoRk1mMV94UllTZDd5NWlTUmRJcThrNXdxelBaYXkzaUx6dFhGeE0wV09CWV82R0V0eVliZ1I4NGx5Y3c4WG5uQ3Z3RGh2ckNGeGwtRnJIdXE1WVpMcG5Pd1hUVWd3WGVMQjgxMkRONUoyeXZ0OTd1LXBSOGYwSQ?oc=5"
     }
   ]
 }
