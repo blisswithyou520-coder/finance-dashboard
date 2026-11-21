@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/21 15:44",
+  "updated_tw": "11/21 23:38",
   "taiwan": {
     "2330": {
       "price": 2000.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 84.45,
-      "change": -9.65,
-      "changePercent": -10.255
+      "change": -5.75,
+      "changePercent": -6.3747
     },
     "00878": {
       "price": 28.03,
-      "change": -2.62,
-      "changePercent": -8.5481
+      "change": -1.75,
+      "changePercent": -5.8764
     },
     "00919": {
       "price": 27.49,
-      "change": -2.5,
-      "changePercent": -8.3361
+      "change": -1.66,
+      "changePercent": -5.6947
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 58018.67,
-      "change": -780.3105,
-      "changePercent": -1.3271
+      "price": 59767.44,
+      "change": 968.4595,
+      "changePercent": 1.6471
     },
     "ETH": {
-      "price": 1631.08,
-      "change": 11.6479,
-      "changePercent": 0.7193
+      "price": 1678.32,
+      "change": 58.8879,
+      "changePercent": 3.6363
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股重點新聞摘要2026年11月20日 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWFlrRk41b0kzYUlHVFlsak9ycHJrWEVhU1hoQ3A3ZzBqQmE3QkJLZExrOVdpSklWeS1ZaHZ1aVV5c1VjZEVCa3dCQmlOMVYxMXlyWkNDOGVEamI4RGVnUzJGNktaeE1aU19KUjQzSkhxYmRWa2lIU185Z2Z2cGpSVG9OeUw4b3ZCSC1vTTJjbzlDQjhxdDE3aDZ2VnI0aUxpaXB5c2U3Z01HTGNjeUlnOHVUb3BYMnpzYlRfZjNMS2ppblBRd1gxb0U2WmNROHEyTm1CY3NlbmIyYTdublBqOTNBbkdqUXFXWlE?oc=5"
-    },
-    {
-      "title": "美股崩跌五大利空齊發：AI 吸金潮反噬 輝達失速 升息與程式賣盤夾擊 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zWE1nbG5uLUROOGhXVmIzN2J3QXZVdF9CdWdqT055cHRxNGY1aFpfd05VQjZRdnhURTlWM3I5S1Zld3VLYVhEMncyc2tIYzZidzYzYU5aWDlNVVNB0gFiQVVfeXFMT0F3azBNU0hkM29XODgxeU8zMVlmMFcyYmhHVGgwWS1XbWgyYUZmbTI1Smh2a29ubHllREZyV3UwdV95S1F1SHRodHVaSDVEcldIUU9zd2YtZ1M2V0xjWjYyTWc?oc=5"
-    },
-    {
-      "title": "AI疑慮引爆美股重挫！標普、道瓊雙雙陷入修正區間 那斯達克抹去全年漲幅 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVaDR1OXFOdzZxZVRnMURKTmJkbnpiWjFsNGlQTi1GYVhienltY0tTQXpwNU5KbXVzOVFpTlZZcVIzMWdOT2ViaUdjVGlGZjA?oc=5"
-    },
-    {
-      "title": "黃金崩潰還沒完！創1最糟單週紀錄 專家曝「更慘的要來了」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92VWs5MUxRZmJneVBZdWRjVjRfbGdIQ3RPdTJBMU1SU2JYTmd6UXlZMEF6NV9qVC13N3RhNGtPcjBpTXhJWWliMkZkODNlWmg1VU1lR1B6R1ZlcXBpMm8w0gFkQVVfeXFMUHRLelp2aWpNTEx5bmVONWxIQXZiWXlwU0djdlZHWjJjOXVkTDR3Ti05a0hVZ0owb3pXZG5tWFBOMFN6Rk1JNjczMTl0QVUwVW9VS21RN05aNG1aV0Ixc18wV0s1VQ?oc=5"
-    },
-    {
-      "title": "美股｜AI賣壓瘋湧！費半大瀉逾10％ 道瓊標普陷修正區間 輝達崩14％ 台積ADR慘跌近10％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUNUYyLU94Mjc1SGxBSWJmRWpockxMVGpVWHVLS3BraHBtbDluQlpiaTFVbENUY28wWGljNy13TXNnd1ZSYjcxSHpYeENMY0lXc2dVenpRdzNHVFl6ZkRJ?oc=5"
+      "title": "台股史上最大單周跌點、美股崩盤 金管會「23日起禁平盤以下放空」5招救市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGaEtpal9nLVpGU2pIZzRvQ3BTb2Z0VnFDNTVOU3dBLS13N2dxejRJNl9nUTA3VDdrOVRlNGVuSGRsRXJ2ekE3WHJQVVNad29l0gFWQVVfeXFMUHJ0VWh1cmlSTTdBMElpbXoxbm1meWFGNC1GbUJyZllYUXBBYktVQ0RFU0NYanloVGkySnc2T1UwRkxueGc2emNqMEdYdVhWNWpEOHM5MFE?oc=5"
     },
     {
       "title": "美股「黑色星期五」殺聲隆隆！輝達慘崩14%、科技七巨頭暴跌標普500回落10%、台指期夜盤摔回3萬3 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQSHlpX18tMFZ6dFg1d0JzcEVwV3NweEtEN0UzaDAyZmZmVDV3V2RLclU0TTM3LUFneThxZGRrSlprUWRSNVJRc3czVTR5S3h2UlRrR0xveWlNcjNlYnpFbzV0R2JmRmZySUJwT01oODd0cnN0dVAxdThpMGxDa2prZWFRQ0FEU014UlJXalN5TlRDbGN4NjZTQlE3eGk4RmtLQ1doQTFwMXRZUVdpQzJoQUpZb0JiQWRHWEEzMWdHTVNTZk05R3YyVkY0aDhSTU9HckRQc0dTTGw5UEZFSGt4OUhJU2dFc1B0STB5X2VqVldLVElfRWtmdlhxMWdORXFuWFVSQXVZcGZYNnJNSDZYeVM2ZEFsM2pONWJreGxGak9nVFpSY2hOMDc5cERaNnhwc2hCem9FSEE2elBBOHNhQUVXN2xhdy1Jc1RrTmtRMGU3VFhfZkN1eVhzTkJTRW03dzhOaW1ZRU1zX0k?oc=5"
     },
     {
-      "title": "AI 股賣壓持續湧出 美股收黑、那指重挫逾5% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VTFNJbUJNRTJ3czM5ZmxCY0MtZEgyc3JOWXpsQVpIdGJGUC1rOFpiOU1QZHgtZkVIbC1SUDRWWWtNc0pQeVdzWWxDTHRxVDFjOXREN0FzaEEyam400gFiQVVfeXFMT0pfQkEzalI4dUw1NWN1UXp3NEFjZmVkckZDX2ttVm5EVUhBOG9oeWlDSldxeTgwMDBaZi1iZ2U1T3RuR2FSYk9KM2I1WmItRkpjVGM1ODRMSXBjWl95LUp2ZHc?oc=5"
+      "title": "黃金崩潰還沒完！創1最糟單週紀錄 專家曝「更慘的要來了」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92VWs5MUxRZmJneVBZdWRjVjRfbGdIQ3RPdTJBMU1SU2JYTmd6UXlZMEF6NV9qVC13N3RhNGtPcjBpTXhJWWliMkZkODNlWmg1VU1lR1B6R1ZlcXBpMm8w0gFkQVVfeXFMUHRLelp2aWpNTEx5bmVONWxIQXZiWXlwU0djdlZHWjJjOXVkTDR3Ti05a0hVZ0owb3pXZG5tWFBOMFN6Rk1JNjczMTl0QVUwVW9VS21RN05aNG1aV0Ixc18wV0s1VQ?oc=5"
     },
     {
       "title": "高盛恐慌指標飆至9分！高盛：美股未跌完 系統化資金撤退 下波賣壓恐更猛烈 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FdktnYVl1enJGTGZDV3dkSUhSbUg4LWJGUTNYU3pjM2lza0hzdmp2eWZ1Qkg4aC0xYi1faHBrN3ZfMnlqQWdwZGh4WWRpaTQ?oc=5"
+    },
+    {
+      "title": "從1160億美元拋售到潛在機械性買盤，美股下一輪資金流向可能 - 群益期貨",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMk15UFdOcmMydG96bjFtdEc0TU1hdGhWRlZTcE1iMGdpN1lMZDk0eTV6RDRSVTVPODFEa3BDMWJGRTlzdWRhMmhsSWlKTS0zWVI0UmZwRVEzeVBQN2x4X01BSkdGaEk4b0FwUE5SLTdzQWxPRUNzeW1KU2xIMWxWVTJvRFlTS3VnR3ctSGlkOA?oc=5"
+    },
+    {
+      "title": "美股恐慌指數VIX飆上40 歷史顯示「賣壓接近尾聲」20%漲幅可期| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05TkxNVWh4aEFtVFBFbUpfenlneER4MXBOWmc5LXNhUGhrRXc2bkoxcV9zUmhkS0ZZWXVNa0Zyd3Z2SXdzeVlYYlFCXzhUbDIx?oc=5"
+    },
+    {
+      "title": "台股一週慘跌7641點！卓榮泰急召財經首長 祭4點裁示強化國安基金護盤 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPSmoydHpkUGRTZzh6TGZvcVI2WXNTdVFmTFRHSFVoTk5uTG1YbTB6UWRBVHNfbVZtWnI4b19TVEtqYVhrRTZ4bzEtV2JWYXhkYkhVdU9aSE9YaGFGYUpoNFY3ZHFOcHNFN1Q2MkFRSmRxMk5FNjlsaTFmTUlUTWJ0M0w4QTA5LTlzckdrYUg4QmR3VjNtal90NGJWRDBMQWhvZ295cFctcWFGREluUk1CdF93bUxiVlJRUzlxSzV4R2xVUGxFaXA3TE1ySURBS0xxbEdMSWlrTVpWTjdELXBBZm1NUWNKTXE3NXdObl82WXdYdWYydnRsRlljNUlubGxnTHZtdF81cFg3WW82c29wVnUweEE0MjUtbmwyTEh5VHhvNm1tbF9kaWNBTlBxeDNsU0xudHZEVWNQVWtmYlhXajFkNFZyMW1kbWpnNmRyOHpjYWFzN3lIOE81djF4UTBPbnV1M01fQUpDeDM4VVkwTTd5WXAta3VxN2FmRVJxU0xTMVBxNm1HRFlZRFpDa3JwOWZXN0lzUDdKaEF0Vm1uSDg3di1wM2ppZFE?oc=5"
+    },
+    {
+      "title": "台股暴跌！國安基金罕見喊話了：跨部會維護股市穩定 請投資人保持信心 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNQ3ItcVJzYlRSa3BoT2R1NXRlczRiVFE4eU5nXzNfYkowMkhNaWFYZDhYS05jdFZCTk9FbE1WU1I2OFF6Vng0dGJab2lPU0lBRFhYQlVLTzJqVWNqUGRyaXVET2xjWDNINms5NUZHd3ZjTFoyYWZ0TlpVcGZGTmZEUmZGdVc3LW92Ukg2b3BsRmNDbGhGYTNYVC1CLU9RUWs1WWtQb2lnQ3hvS05ibzN6b2dtV2RNMVFSUlZSOV9HRHowTWdzUlRfZ3JqeXVIc3dDVW4yUVRrbllVdnF4Q2plclhPWFV1MXQ4VEtXcWh1OEFDZlhzME1jeS1hU0JGX0Z4bmFxcXdJR3phNnRMYXpnY0NubHpaczBPVjMwZEg2TVhKMnE0N3JGV0tlS21LX1BnbUxWSG8xV1lwQXBNUHlFNm1HVE1GUndsb25fZjItcVdZNUVNVjVLWGoyenNXcDNNNVhWWWdOOFhoNXYxUmlRdU54cW94aE1BVy1rYWkzNzh0c1dRUFEtVEl5TXpNRWxjUmEzWjNtQUJkS2ZNU3N5QWxhY08wY1ljN2xMLTh3aFRrQVNPbXpIWXA3V0o2WWd5Y05nMkpjYw?oc=5"
     }
   ]
 }
