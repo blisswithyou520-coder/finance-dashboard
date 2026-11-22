@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/22 09:19",
+  "updated_tw": "11/22 16:31",
   "taiwan": {
     "2330": {
       "price": 2000.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60094.11,
-      "change": 1295.1295,
-      "changePercent": 2.2026
+      "price": 59654.5,
+      "change": -439.5898,
+      "changePercent": -0.7315
     },
     "ETH": {
-      "price": 1684.25,
-      "change": 64.8179,
-      "changePercent": 4.0025
+      "price": 1681.68,
+      "change": -0.5246,
+      "changePercent": -0.0312
     }
   },
   "fx": {
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "台股慘崩、避風港是它？「台灣紡織龍頭」訂單看到明年、現金殖利率近5% 明年EPS估26.29元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNTGw5NXVqYVBkckF0QlBVdjJOaGdUVFczWU52U1JkSElTNWk2U0Z6SjBzWmpTOWp6V2VfSG9FeWY2MUk5WXRPd2tfdktvQkpEZHZUVWdUNmV4bWNReE9IaUFOd01vV3ZLTlhUaG1CS05tRV9nbFd2ZzBrWlVPdkpPOVp5X2lVVG5LeHFNTjdSeXcxak9xRUM3MHh1allfVC1PcDNBR09tTW85WW9QLW0wbnVpTUw1aXhXOFpiekZQa09VYm5uTHhRMlozNTEzSVJlU1A2VGdRam5EcDY4VGZnTEpvZnVQajlyRUJJUkc1NkRvUVIxYTFXdkJOd0N0NXlYX0hIbi1qOU1VQXcwVWxXWFpvd3JoRUtRS25IZHhwbGN2Q1hJYlFNYmxOcEFfNkM1UXJSMnpBN2xQbUc0TS1yV3JwcDNLZFV2bFNlQmNJYTNZRGxrMGY1aEVKeXBpY2FLMTBQZVRXclVSYVFfaGdYeEtKOE5RU0RwQmxuSFluUmZjT01VSGdyeUFfMnNscE4wczIwWnNfWFRoMjVtZkxhYVBLZlhpdw?oc=5"
+      "title": "美股還沒跌完？高盛示警「恐慌3劇本」下週恐再爆2.5兆元賣壓 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPRXpnc29DeGwzQnVrTGNwdTNYSGZIRXYyYWxPQzhobXNjUHFWbmlNbDJUM1VDRHg3TS1PUTdhdEZPRG96UXZybDFZT1EtekpRdGtNNHJrVnNmMzI3eDNqd1pySWE2VTcyQnpIaDNhQVV3X2M0RjZ2RktnbkxHcjYzWnFDYjN6Q3VxYV9TOFcteEZkUTZ2a1ZSSkdkYWJyQ1V2d2d5LUtUeG41clJQWnpfUFFuMUQ1SkNNX1RPQTJXWmR0VmJVTlczdFhpS25rX2htblFnYmRoMmgxWm02UmNTSy1WQkMzLVI0VEVkaFlMYVZHM0IzV0szcTF5d0ptZHRwd3I2LVNiM196dldRbEVjUVpzbTFaNC01TFFudFZiRzlzMksycl8tS3lCNncxeW9odXlZLU9JYWpFZTlqb0didk4tU3JTWTBPLXUxVlRTbHdxSWU2WGlhSFdEMmxZNWtKQ1g5dVhBQ0pPSXhodzd6MWZ0NW13R2NM?oc=5"
     },
     {
-      "title": "台股史上最大單周跌點、美股崩盤 金管會「23日起禁平盤以下放空」5招救市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGaEtpal9nLVpGU2pIZzRvQ3BTb2Z0VnFDNTVOU3dBLS13N2dxejRJNl9nUTA3VDdrOVRlNGVuSGRsRXJ2ekE3WHJQVVNad29l0gFWQVVfeXFMUHJ0VWh1cmlSTTdBMElpbXoxbm1meWFGNC1GbUJyZllYUXBBYktVQ0RFU0NYanloVGkySnc2T1UwRkxueGc2emNqMEdYdVhWNWpEOHM5MFE?oc=5"
+      "title": "美股慘崩 AI產業是泡沫破裂還是價格重估？ - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PRTFlaDJiLW1RYWotSWdScl9LR3NmM2ZieUMtdFl3YVVLeWZJYmNxTTloN042N2dHWlhpbVB1NkxHSE9UM3JzbmpoZWZnZHM?oc=5"
     },
     {
-      "title": "AI 融資添變數 台美股急跌後該減碼嗎？ - 鉅亨買基金",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUJXQ3ZIU1ozcnBUenFXVlVWVkVTNDZTZjBzdWhSUkJpYUlKcTQxcEdHcWxvcEFmajcxS0txeUlZSVZjLXVuR0Z2WGJGQU1XRm1lWHZjVS1RUHRPRzRBd0ZFLVZOQW1Fck5qcnkxUmc5N2JrMGN5X25WanZnaDdUMl83bjQ2R20zSXByTUF3bVkxLW81eE11YThR?oc=5"
+      "title": "比特幣跌至2年低點後反彈漲逾8%回升至近6萬美元| 國際 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IMlFYRHJMYW1DU0kwMEpKOEhqZFQtakphZmNveWYxNS1OOXgxQm44ODUtZk5oV1RwaDR1ZXRMR0ZBbENJd1hvc2JubmFoY1Q1U29CVEN3MGsxdlNOblN3?oc=5"
     },
     {
-      "title": "國安基金護盤 台股基本面佳 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uVll3U29SaGx4eTNiSk9POFRWZzNmbkFaYzRmUmJ5R3RkT09kbkpNcUtIREx2bjJaVWJBcFVuSkpnQ29PYnBTT3VIWTE4d0JhMWlfTEV30gFbQVVfeXFMUHlySUhfXzdfelRkRGxublktNHBJZUhyNVQ3LTJrQ1JlQm96bVZvUVZxeF8wVkQ2S1BjZ01BWmxhdDJMQTZuSGt4emVJOXVmbDlfMndsQ0xyS0NCOA?oc=5"
+      "title": "台股恐迎黑色星期一 國安基金強調盡全力穩定股市 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83MWtkVTY2TVdJRGxhUEhsQTlkYk9lZmVlQ0ZEY1BOZ0RnQXJLY3JwYVEwa1gyNXlZZ2VpajI2UUJtbnZoS3BxbHdKRHExUkdpbm9IQVlwZlhfd3Z5Rk1Z0gFkQVVfeXFMTVBwUWI1MjFmb2xvOU91UzNjVjZ6ZDJjZmVJdk1qRGI2dlJaSTZPcFU3ZUcyWTcyRUw0Ung2SkZiN1Y3OWxKVlBUNTFxVjNMMHpaeTBsOFp0UmNUT0k5VjdKU0JfQw?oc=5"
     },
     {
-      "title": "早安世界》台股崩跌 金管會11/23起祭全面平盤下禁空令5措施 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MUi1ZRVFsZnlfMllubVZHWEp4blJ3djBIRzU2UWl1NHdMcEU0VHpuNmdVaXhxOU5wX19mcF9IYU5tUHZwd2pSYmhVandBR1lkYURLYzZocGhuMDJGRW5Z?oc=5"
+      "title": "精準預測黃金跌勢的分析師又發聲了 他警告投資人小心「多頭陷阱」 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PRFAzZ3N1NUxDMG5HWlFLSDVILXYxRXBmOHA2SXRmMEhYeFA0ZGNqcFBzVExGVWNhY0FBQkJHdWI4ek9pMTFnR05yay1EbW8?oc=5"
     },
     {
-      "title": "台股回檔投資策略法人教戰- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92UHc3a3lpdWd2R0lnZnluWS1mVzNvbE1WSFI1MkhTVmUwS20wQ3FCSnFEbU5sMjBfWlhKdU9kQUdnUXBvMEpoQXZZMG51YU9BRlVZcUVjQWxCRVFGUEQ4?oc=5"
+      "title": "週一台股再迎血洗？費半狂瀉10%、美半導體股慘遭狙擊投資達人喊話投資人做「1件事」：大跌最恐怖的是它 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQakFTS3d6RFF2QW9uTzFzRkFocEFKTWR1dkdad3FwMjRqMV9Hd0huLUNIOFBxbURkYnplWXNzb2hTY2hTMlR1Slc2Y1JIMUNoc0tMNlhXRzlJVjdXQ3paUU1RbEJfSzBMSmlvdWZFWEhHVXg1UmxDbWxLUExPUUV3ZU1COE1Fb0N6Yk1SaHB0MGQzSGQ1aW92UndnRUlUZGNwZ1NiNlZBV2xfbHRZeFc2VWlIekY0YUZqSVF0MEVxZXpEb1M1aGs0aG04VnF6UGhVWHpvTzBjd2dYOVVzWm9kMWRnYzdLRnFHTG5QZEpuNHFleVIzbEpmMU5BRjc2SlZ6R01taUl1R3hRZjZmVUZHTTU4R3ZTc0lETHQ2dW9GNTlRZmtJYmRfdENyOWl3MDVQVV81WmtzQ2MzXzRtbHlweVV6Z2tZamdnQlF2Ykx1b09ta3h6R09SWXhWN2lLeXZLc0U3RjE0T3ZyWUQ4SkUxRnJTWmN0YnZUbndWYm5pV2xGX2VsMlU5TEMwUW9wOEItZFlHTTA4NnBGN19XVER5XzkzRDlJS1NONm4wNVR5MnkwdE5BTjJSNHVnOHVSRnduNFdnMDQ1NHBFUWc?oc=5"
     },
     {
-      "title": "美股恐慌指數VIX飆上40 歷史顯示「賣壓接近尾聲」20%漲幅可期| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05TkxNVWh4aEFtVFBFbUpfenlneER4MXBOWmc5LXNhUGhrRXc2bkoxcV9zUmhkS0ZZWXVNa0Zyd3Z2SXdzeVlYYlFCXzhUbDIx?oc=5"
+      "title": "美股重挫！法人：「禁空令」不利台股流動性 建議觀望 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkaUY5MFp3Y0kxcFFYWjNqejVXdHYxdHRqSmJrVG42SEc2SXJGbVh4a2JrcmxKdDVmeFlJTXQxbnZBeExocmE2SFFCY1hPZmpwQ3VfbWZjaC0?oc=5"
     },
     {
-      "title": "台股一週慘跌7641點！卓榮泰急召財經首長 祭4點裁示強化國安基金護盤 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPSmoydHpkUGRTZzh6TGZvcVI2WXNTdVFmTFRHSFVoTk5uTG1YbTB6UWRBVHNfbVZtWnI4b19TVEtqYVhrRTZ4bzEtV2JWYXhkYkhVdU9aSE9YaGFGYUpoNFY3ZHFOcHNFN1Q2MkFRSmRxMk5FNjlsaTFmTUlUTWJ0M0w4QTA5LTlzckdrYUg4QmR3VjNtal90NGJWRDBMQWhvZ295cFctcWFGREluUk1CdF93bUxiVlJRUzlxSzV4R2xVUGxFaXA3TE1ySURBS0xxbEdMSWlrTVpWTjdELXBBZm1NUWNKTXE3NXdObl82WXdYdWYydnRsRlljNUlubGxnTHZtdF81cFg3WW82c29wVnUweEE0MjUtbmwyTEh5VHhvNm1tbF9kaWNBTlBxeDNsU0xudHZEVWNQVWtmYlhXajFkNFZyMW1kbWpnNmRyOHpjYWFzN3lIOE81djF4UTBPbnV1M01fQUpDeDM4VVkwTTd5WXAta3VxN2FmRVJxU0xTMVBxNm1HRFlZRFpDa3JwOWZXN0lzUDdKaEF0Vm1uSDg3di1wM2ppZFE?oc=5"
+      "title": "台股慘綠仍砸3百萬「買2檔」！他霸氣喊：大不了套牢 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNUmFxQWszQ0RjNzdMN0gwNjZqeWtacVdhTEpWcWRfMUEzcko3QUZ4N3dhRDgwb2R2WFdVa25zN0ZQV0kwRlZwRmFWTlBLY1ljbXN0c29FZXNldXdXMUV4VzJDeTViX0t6bE9rdmhCbjRodURRQnNpVkZFSXV0QVVON3BfZlg4Z1FaOEFzZ3ltYVlsREpZUDVBSkF1QXAzMlRaMkdGM2RBOGh3QWtHU1JKazh0MUFoeVRPYjRsQWpZN1NSMUJqUXA5X3ZTNlM2S2tRenU5TFlOVjNKckwyLXBOZVY2TFdsTUNYa01ELUFoTzJUMkVDRHR3djdwUjF3TDhQSDZ4ck9zMU1VRGhfMU9Eb21qbUFRcTN4RlJqSGh2dGJXSTVTaUNjLUd6bnBESWM0S1pHMmdHZzFBSFB4VGFDTVlnNkN3UQ?oc=5"
     }
   ]
 }
