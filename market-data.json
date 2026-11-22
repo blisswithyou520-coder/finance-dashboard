@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/23 00:38",
+  "updated_tw": "11/23 06:04",
   "taiwan": {
     "2330": {
       "price": 2000.0,
@@ -72,34 +72,34 @@
   },
   "crypto": {
     "BTC": {
-      "price": 61261.74,
-      "change": 1167.6502,
-      "changePercent": 1.943
+      "price": 60777.78,
+      "change": 683.6902,
+      "changePercent": 1.1377
     },
     "ETH": {
-      "price": 1720.1,
-      "change": 37.8954,
-      "changePercent": 2.2527
+      "price": 1712.9,
+      "change": 30.6954,
+      "changePercent": 1.8247
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.958,
-      "change": -0.0683,
-      "changePercent": -0.2068
+      "price": 32.962,
+      "change": -0.0643,
+      "changePercent": -0.1947
     },
     "JPYTWD": {
-      "price": 0.2057,
-      "change": -0.0009,
-      "changePercent": -0.438
+      "price": 0.2056,
+      "change": -0.0011,
+      "changePercent": -0.5505
     },
     "EURTWD": {
-      "price": 36.189,
-      "change": 0.0595,
-      "changePercent": 0.1646
+      "price": 36.226,
+      "change": 0.0042,
+      "changePercent": 0.0116
     },
     "CNYTWD": {
-      "price": 4.943,
+      "price": 4.9441,
       "change": 0.0,
       "changePercent": 0.0
     }
@@ -107,8 +107,8 @@
   "gold": {
     "usd": 3515.4,
     "twd": 3725.0,
-    "tael": 139688.0,
-    "twdTotal": 115861.0,
+    "tael": 139705.0,
+    "twdTotal": 115875.0,
     "changePercent": -4.6154
   },
   "fed": {
@@ -133,12 +133,8 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HU05UZUlSUW5TU0E3S293bVlPY2ktVVJJaVhwSGQtdlhBcGpROUF0THU1TFdyTEh5QXN3bEZ5cVlEenhud1ozX3R2Z0FrS3FsLV95dFdhZmJGeUdVZ3hV?oc=5"
     },
     {
-      "title": "台股震盪卓榮泰23日邀金融、科技與工商產業公協會代表會面| 政治 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HbXBwTmdHQ1J4N2dMOTBTbGNrUGl1TW9Tc1d6RzdwWkM4WUJUbi1hUDR6YnBqSjlvdHlLMEdDTWlha3BxS05YQ09Nc0QwWHhVQUxkbWx3MkdDQlg5TUZB?oc=5"
-    },
-    {
-      "title": "台股連日重挫 卓揆23日將與工商團體座談 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UMTBrVk95aTRNZi1FZDBCQ1lJMFdiOWRCQld4SGJSZlkyaF83S2phM3VhMVVPaUZySjFwd2VUb1htVWM1SUVZY3A1QmtmSV9wTVB5VnFwd1ZzZkdfV0pB0gFkQVVfeXFMTmx1NE9ZTVYwck5aeDBoNjRjVzdxMTdSWnA2OXN6T0I3d0hvUTFQb1BBREI3V0I5bzVQVVBmMnRwRWFoWW5PWTZpNGpkeHVIRG9yZE5vRXhYSGdwR00xa1VmNmtaZA?oc=5"
+      "title": "國安基金︰全力穩台股 籲保持信心 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1UWJ3Ym5rY0RiTmNuWFhwOTB1dGJYOU1rSlhmc1drcDhrdFBuSVRfQ1NXbEhfbzF2MUhqUm4zUXVRZG83aWR3YXNzV1czQnViX0Y5MXpvMmY?oc=5"
     },
     {
       "title": "台股重挫他狂買！財經作家連砸308萬買這2檔ETF 霸氣喊「大不了套牢」 - Yahoo股市",
@@ -147,6 +143,10 @@
     {
       "title": "精準預測黃金跌勢的分析師又發聲了 他警告投資人小心「多頭陷阱」 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PRFAzZ3N1NUxDMG5HWlFLSDVILXYxRXBmOHA2SXRmMEhYeFA0ZGNqcFBzVExGVWNhY0FBQkJHdWI4ek9pMTFnR05yay1EbW8?oc=5"
+    },
+    {
+      "title": "黑色星期一…台股護盤3箭拚止血卓揆與金融、科技業座談穩市場| 股市要聞| 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tRU9SVUJ1MUU5dkNnSk13bllGbWhUUzljMnZNR180THNNNUtiNmtQV3Q0b3dZRHcydW1zMElsc0pRMEFURkUwVnNGajdRVHdN?oc=5"
     }
   ]
 }
