@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/23 19:20",
+  "updated_tw": "11/24 06:49",
   "taiwan": {
     "2330": {
       "price": 2030.0,
@@ -35,81 +35,81 @@
   },
   "us": {
     "NVDA": {
-      "price": 125.53,
-      "change": -20.45,
-      "changePercent": -14.0088
+      "price": 165.05,
+      "change": 39.52,
+      "changePercent": 31.4825
     },
     "AAPL": {
-      "price": 342.56,
-      "change": -6.65,
-      "changePercent": -1.9043
+      "price": 349.08,
+      "change": 6.52,
+      "changePercent": 1.9033
     },
     "TSLA": {
-      "price": 345.82,
-      "change": -28.59,
-      "changePercent": -7.636
+      "price": 385.46,
+      "change": 39.64,
+      "changePercent": 11.4626
     },
     "QQQ": {
-      "price": 608.45,
-      "change": -36.59,
-      "changePercent": -5.6725
+      "price": 651.03,
+      "change": 42.58,
+      "changePercent": 6.9981
     },
     "SPY": {
-      "price": 689.81,
-      "change": -26.06,
-      "changePercent": -3.6403
+      "price": 722.29,
+      "change": 32.48,
+      "changePercent": 4.7085
     },
     "SCHD": {
-      "price": 33.94,
-      "change": -0.26,
-      "changePercent": -0.7602
+      "price": 34.39,
+      "change": 0.45,
+      "changePercent": 1.3259
     },
     "VOO": {
-      "price": 635.54,
-      "change": -22.47,
-      "changePercent": -3.4148
+      "price": 663.91,
+      "change": 28.37,
+      "changePercent": 4.4639
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61292.7,
-      "change": 130.7898,
-      "changePercent": 0.2138
+      "price": 61054.34,
+      "change": -107.5702,
+      "changePercent": -0.1759
     },
     "ETH": {
-      "price": 1722.29,
-      "change": 1.2143,
-      "changePercent": 0.0706
+      "price": 1706.31,
+      "change": -14.7657,
+      "changePercent": -0.8579
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.875,
-      "change": -0.1513,
-      "changePercent": -0.4581
+      "price": 32.823,
+      "change": -0.2033,
+      "changePercent": -0.6156
     },
     "JPYTWD": {
-      "price": 0.2045,
-      "change": -0.0022,
-      "changePercent": -1.0825
+      "price": 0.2042,
+      "change": -0.0025,
+      "changePercent": -1.2276
     },
     "EURTWD": {
-      "price": 36.088,
-      "change": -0.1338,
-      "changePercent": -0.3694
+      "price": 35.839,
+      "change": -0.3828,
+      "changePercent": -1.0568
     },
     "CNYTWD": {
-      "price": 4.9376,
+      "price": 4.9289,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3620.5,
-    "twd": 3827.0,
-    "tael": 143502.0,
-    "twdTotal": 119024.0,
-    "changePercent": 2.9897
+    "usd": 3634.4,
+    "twd": 3835.0,
+    "tael": 143825.0,
+    "twdTotal": 119292.0,
+    "changePercent": 3.3851
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "川普將美股重挫歸咎民主黨！稱市值蒸發逾6兆美元、貝森特點多重因素 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGRGVyNDV5MlFINzZXbGpNTnpKM0NqSFRRSjF3UzFLQkxsbjhrQ0lBZUVtbXVrakhha3ZPVjNYR29yRnltUUwwS1BucktVMVE?oc=5"
+      "title": "快訊／黃仁勳歸來救市！美股開盤全面噴發 輝達飆32%、台積電ADR爆漲20% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOREM5eENUbVlHc3ZjMDE5MXVMaXBiUno5WDd0ekJwTUQyb3NVR3FXeFhtSnJvalN0V1FsVTl3MjFNRnhONklPTEVuOFNPRldVbElzU1JyeXo4OTRkTjNJaFFFNWI0d1Z0Zi1WeW43emhneG9qdkpyRTdwczhkMGdkZFo5QjZNai1SUXgyRTU0eHNON1JMNERESDR6Q1UyVFFDVDhFT28xMkVkb0tNMVh2SDRxUjJGbUtrUVRPTEdqTFVOQ1YtSWJ6c291UmQ3TGprb0twdDlva0xBTmtJeG5GNm92T2RaZ0lWQzJ4dDFKVlpidGtXZFo0YTNYTkFWV0RzalVhdXVsOXhkeHhIQmtBck02TFdyWS1BNUx1ZDhBTW85ODBVVG5kaENHU2IxVlVrcGU4Ym5BX0E3S0xlY2FZZ3RDZEJteno3UmtYT25ndVpwdmZtVjQ3UE1QemV6NHNNdlV4OFZ3R0NWYl9ieDVZSmRrVFQ0WHYxWWZubG9mTnAzQXdyZnJNMm1pR01ZU0M1dVE4a3dR?oc=5"
     },
     {
-      "title": "【研究觀點】台股創 1991 年以來最大週跌幅！觀察輝達動向與救市政策止跌訊號，鎖定權值穩盤與高訂單能見度族群 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxOR1lGVG16ZkFVVlUxMkdiaFBBTmk5cWVqMHdheXVxbFlzMi1OYTM5cFpFZUNIS0JlX2hpV0VDV0JJOWlkVzNrNjhJZEFlRkJaeXZKa2pnNWJjMGdRTjB6eEpnQmVuM2drUVYtQm1kODE4Q0RqNUFIc0ZPYmlyd01LNDZHbU9fNzhxb1I1XzlvV2VJTlZ3QjBMbU5pZzFJODRPZHRxTnpiVGMyeGRBdHFlS1pvcE1maDN6X3h6cWxKbVhsazlTSUs0dlRRNTVac2FGRVYxcVVKUFpXa1FELTFZZVdMTmJVejdKMVE1Y2toYU0zVng2TDF2UkQ1bmJhaU1yekdYdXBSNVpSX2ltdWpEMWEzS0VwSnc1eDdQaDZZelZvRTJranVOZm9YLWxsakExc3NSeV9feF9GOENXM09HcHBjRFFydHB6c1JTYzdrY1FBQTdqdXVWYVAweUhQYXNvUDZ4ZzI5Nk0yWDhRa1hXTnR1SHJNUHc0dGg0MnJidVhLb0NEczE2XzhpQ2ZvQTZ1WFUwZktfSlFGdDJMMDZ3MExiczJMTE9SR0NNMkY0Y3E1SEJJa0VIcHBleXFQaXBDU1hwNXQ5VjBiVmx6azF6Ukl2anlqbkF0N2xBdWNqYU9LM1lRWFZidjJIWkl2bkRXSWkwRHJ3MTBocEdqWXNEaFI0Vm1wNlhqdnNycWtFZW1SbnFMd000eU9FbUtzajBkQkZIeUYtNVlFVU1pOWhsdVcxdDl5MnhrZENxeFlGRVJteW9XaVU5UlNzSFNjVVpIaGx4bnhzbjI5QVdRenJlRy05TzJZdkJKVmhSUjF5b0hYOHRQTTB2ZHgzQ2NLcGNOUkpwVE9YcG9ielFSQ1VWUEdXREZMd2s4eHlOZmtCZnh0bFRYV3V1OHMwSQ?oc=5"
+      "title": "〈美股早盤〉黃仁勳回歸點燃美股！那指開盤飆約7% 台積電ADR漲逾14% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sM2Myc2hqQTBESVpfUWxBb0JMZHRJclZWNG9jalJDVWVWUF9IN0loMnVNN3kzcER4R0ZaV2liNjZHd0UtMmpmazRiZDEtUzQ?oc=5"
     },
     {
-      "title": "金管會出手台股反彈了！網友曬持股喊「終於回血了」 網卻潑冷水：一天行情而已 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxQaDFrZGJybFFkMDZ0dHlvcXNXZ014M1VTdVJUX1Z6Qm9NamNlckEwVFQ1X1RnQWFaaXkyRzViUkk4YWYyWjBibUtFN1lmell5YmtXYWF2N2lhZXBrcWdGQThFRFFReDMxQ1FBd00zOVZZM3Jvc09DQ0taZzhxbmxUT0xsaDU2Q3d1VExXMXduTkdiTGV5M3JlSVkzVERaa2t2aW1zWnZOZlo5N2pHamQyb1l6UHEzbnV1dGd4VVZqOWNubldZXzdfeTNQeE9NQ0RIMHl5d0laTUJHOFVZUEpBMHVRNncwYlNBZVRRNnI2UjhwSTRqbzIxcHZNak9XZ2cxUmlLdUEzSlhmd0MxMC0tT2VyVU5pTnNETVpobVFVa3lYNEo5dk9NSEFQdnl4bklDemhEamJBTE9JT3g1bFZFSGtObFVaWllfajJnajJDa3M5X2ctRk8wMWNOY1lEdElYWkFRNFNYZGZiT3pHbkpKTzdTQkxFR2lBb1R6X0xjU3FYTzJiNjBNSUhXSDVsR1ZqUmw0TlhJTU16bGprMGE1UW5Mb09oS0RiVzR6b25TNlRlSnJUQXZEMVNVbXZ4SVJueTRfNGdPTWdFaXlSMFRYU0M3aEI?oc=5"
+      "title": "美股收盘光模块/高速互联、半导体与存储集体大涨，英伟达涨超31% - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ja0F1dW03ZFV4RG1HaTh3OHlVQV9RQXc1cmtjUnN0OWYyVnB6YkhnM0lyTFZzUGwtRk11SS1XdzVVSm1GZ01zRWV4QmktYlRDclpMNjhhdFpqeDN5ZDB5VEZaSUd4Zw?oc=5"
+    },
+    {
+      "title": "黃仁勳復職 美股開盤大漲那指漲逾7%、輝達飆漲26% - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15SkxuaDRHQXFIVUNhaFRiQ3hzak9xX3lBbGQzTmUtMHZ2WWRGWnpJVU83c0tjSW5VZ3hKQ0dna1lLR3FPSGxsUVY5Zm02SkdzNjItaHBsR3ZLd2ZfMEE?oc=5"
+    },
+    {
+      "title": "快訊／黃仁勳王者歸來引爆美股！　道瓊暴漲1267點 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxZjhtZnQtQjhzSzYzUWxKelFVQl8yN0xoaWRaWDJVSElyczdqUy1OT3FVN2RLR1NIY0dybmJjUVFFUkczbU9tRVhOWjZycEx5WkHSAVBBVV95cUxQVXFDTXhwV0I0VzJ4M2JEVE1OTl9jM2JwYkdmYmFxdk5Qc3dibUR3eEs0Z29PaVZmOWFuWHB6a1hVcjN3anFva0R6c3pEUGE3Vw?oc=5"
+    },
+    {
+      "title": "美股盤前大回血！輝達、美光全反彈 台積電ADR漲7.62% - 三立新聞",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YZ0g1ODZiRG84WE92eUEwUVZfTGFxbF9Jc1dLVnRXQm5TWWhKQUpFbFJsSkowdnlMT0UtNGpvdkJrMGxoQTlCbVBsNA?oc=5"
+    },
+    {
+      "title": "【即時新聞】白宮施壓輝達(NVDA)恢復黃仁勳執行長職務，為救美股免於AI泡沫崩盤！ - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQlAwTjM2NDJpS2ZRVkxQZTBhdFVWX2xtQ0huY19Jemd6TmtVOTJIVllsQjZfNm9vS3NuZlBPRnB5M0N1Q1UxWjdkR2dnWDhsWXpKaWk5bzVuYUFsSDY2UFZyT09uYzFyZXRSZDVobVB5bzRjS1EtdEhobjNpc1d5bGFKWk1SWVRoQzdxaklXMlk?oc=5"
     },
     {
       "title": "【美股盤前1123】美股還會跌嗎？科技股賣壓依舊？｜豐雲學堂 2026 年 11 月 - 永豐金證券",
       "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQRDZiUWliTF9NMXhCaTFDd3k5eEk4TUF0dWp4YW8zNDNhUFVoNTZOSTJmZkpRamtaZkN3TjNZM0FaVDFDQVhJR0pzWkxUd3JnMHJzUXY3RFE1a2VpMUVwVXNIVUJmWndmRngxWDRaY1dQazh0OUFCelFKLTBiVHlmbmw1d0V0VHhYVU44TFhoQWxqaDdFSDd1Vno4dnY2LXd6NTAtV0NfYWRKeFcwU01mdFM0UFhVdU9ET2xvNGNELXFDeDBLamNwTkRLTWI1SXpNS29feXIzemp1QUZTalBOTUpUcUFWa2dIQ0xDT1N0WjZzdFhWSmxSZ3hzeFZmcTdVYktiRlJpWmNMbTdiZ0JhNjhieHBvVVdQWlhEZ19PQkV6SXN2c2NUSDlaSnV4Szc3UlltZTIzYzJQd0VyRktUdHF4QVZ0LVJScDlWbTlpdkphRXYwN014QkJlSQ?oc=5"
-    },
-    {
-      "title": "散戶被嚇跑？台股史上最苦10月 證券劃撥餘額月減逾5千億元破紀錄 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQRXJBN2JqbFI5YVJjdk01RWxVLUY4ZmNKNHlGbTQzMk1uT1E1bE9sQ3dGRjVOQ3VZWnp3QW5zMG0wQml3UWc3SzlDbnF5cEFlZDFDS2VKc2RQdEJ6SEFBWEdmRllXLTlyRDJfZ1JTVTFlNGxEX25MNjVyUG1xWjlkVzlhOTJZcTA5c2hGNU1Oc0VHUDEzVWtNRjhuR0p0T3EzNlY5ckZSUFNSMWI4QUtSV2ZqLU9iWHV1Qk50bzlnT1Y0emdMUDBiVnBlekVCTGU2Wkd1b3E4NVlQZFc4R1JJRU1yWW4tTjNuN0stM1pjaUJVLTdHVGZ4RGR1a3hfRkJpWm5ISEJmbm04OV9fQlNJd1NyZVdPem42OEYyTk9qd0xYazhtaTdaMlVualBwMEkyTVJRZDdOT2VFUF90ajhVY0kzRWZFamlHY2ptU3g4a2I4cnZLaGg4M29aeXB2cE9tZjV1OU9qT1dES2JzWVZocFBma1IyM1diWmg1V2IzYkExcUFjVmJZUVRVdlc5dFZRSVFyVU1qUElvbk9aSkRjWUlBc0pmamE4S3c3bGg4S0U?oc=5"
-    },
-    {
-      "title": "台股暴漲778點只是反彈？ 法人揭「關鍵防線」2操作策略必看 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPd1NSVm5RMFdPQnhILUNjWl9hNzRSU1d4ak16UFJYSWw3OUJidjJfcnVmVVktMW1rZDJhdzNsWm5MUGVOU1R4Z2lGVy12cmxtZ0pOaDhkc0hVWjlkRkZ5ZUpYZUJGMFhwd0FmcTFGNVhaMzM5a1laZmUyMjdtTUZaVm5jNkNobFRMTHZhVUFNVXBvLWVvY0tsWWo4aHZDNnFSM3AtUDNiQ1oxZjFabFh3N0RudUxFb2QzQ2pGQzU2VE5NM01xblctY2NTVjNHX1VCUnBBTVNCLTNTRnZWTnlVSHpVVjZEVmh0Rm1sTlBwcEtqd3B3b3NPNVItRjBGbXpzY0JPV3VvSUJvUWNCTVJGcHUzd1BQeDdZWlFOWW52SjhnZmRCZ1JacV9kNGtyaWM4Q0R4OGZLM2ZBQlh4TzUtOFRtcVZTdUFpVmY3SzlSaHI1NkJzOWRTTFFub0dNS2NtNG5PQzA0YVltZ2Jx?oc=5"
-    },
-    {
-      "title": "台股一度站回3萬7！兆元量衝出778點漲勢台達電、聯電、聯發科漲停三響炮證交所喊話買回自家股｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMikwVBVV95cUxQcEFzc0hON1FsR3NOazJiXzZZRTFvWE9ra3ZncWlOaFpQazZGanNwQnM1cjZzVExoTmtGRHZnbWo3Uk13aFBiUFhkSGVtb0xiOUN4aWs5c3FfdFY4eXVLNUtpWnZDbzI0b2l5VmZCVGt2TVI5d0dfUGVxTWw3a2xPMTRYNWo4SWJ6WFpSOVVvM1hkMzBXTG1NMGpoMi1vNm9lNHFYWk1kZjRpZWRQTk5MZFZ5UmJaOWdGNm8tOEY0YW9adXk5b2s5T2tES1Q1aHF5eHJnZmNIaHByelJjWVJ2SlFjQll0cUM0NXdxZ3dUYlhQZXU4WmpZRHh0VXVXQkFiSzhfSk9NdUFFM3VKbTdXSEhrWllRb0hDRElaTHRuSDhzZUV3N1pXdDVQbEhkOU1lejNyVlhwUXFHVTRsNzd4TmxjRmFlTkM0Z0VtNFd4ZEVYZENzRXpXdkt3b0tOcXJxUzc1VHNRcVZ3TnF5WmNyMkxJQlZuRFhqQXdJLUtMVDBnYUZnbUdtakVMR1lETlNYZkt5aWs0UTk5VVBzQWp2ZTNyU3M1SmozcFZ1MFNrd3kxUHFoelJTR2huTk41blBLQlNiUGVoZnF6NkszNzdiWXE3R0JsMnhhRDh3NzhqMHNabXNaM29sZTE2ZnlqMldLZDNmUXBiVWV2OXA2RkZoZnBvX0liby1GSmQ0c0YtT0luaWVQNGJjVXp0WUQ0Y2xmUW1fM1JsaWtHR2lQTWFZamlxa2diekJsUU5Sb1BodjNXelctY09vMzAtUFByNFZtMUplYW5hMXg3b3JCZWl2UU9tY1VJT21mUFlFWk05RnlvQ2hWVFVoY0FzQ19Vd0VYZHlnVmJ3TVZ0OTFNczVablctWQ?oc=5"
-    },
-    {
-      "title": "台股三溫暖震盪逾1200點 限空令3.0上路穩盤 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNTHJwd1VxOW1tZGItbnIxaENNeGJhTzBIN2RuMGM0RUdTTHdVbHNET0pIaUtsbzUwVWozZzRzbUNzMTJ4dW42YTZieWdlanVrUHB0WVRYOEdpVlRVeEpROXRXd0ZLekwzZEl2UHJmOXVBR2dXcmIzWjB5RC1qVmp1NVY2dU1OaG92YlMzdzNUajMxb3hWRThOWm90STcwRF9BS0FDbU5SUmh4Vm1LdW5yUTZZbklPdXFYNmJsTXd0a2F6NlhiYVE0UnpYRWRDbUNXSU5NS29hNWpnSm9aejBrSi0tVlhLREhsSllnNHp5QlZfcnBfeS1EQjh4UlR0d01HM1ZtcDFrYXVKR2syOWxmamViVTJyVi1XSjdFbTVHbHNTRlBwS0E?oc=5"
     }
   ]
 }
