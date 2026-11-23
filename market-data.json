@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/23 06:04",
+  "updated_tw": "11/23 10:44",
   "taiwan": {
     "2330": {
       "price": 2000.0,
-      "change": -100.0,
-      "changePercent": -4.7619
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "2454": {
-      "price": 3350.0,
-      "change": -370.0,
-      "changePercent": -9.9462
+      "price": 3525.0,
+      "change": 175.0,
+      "changePercent": 5.2239
     },
     "2317": {
-      "price": 210.0,
-      "change": -10.5,
-      "changePercent": -4.7619
+      "price": 208.0,
+      "change": -2.0,
+      "changePercent": -0.9524
     },
     "0050": {
-      "price": 84.45,
-      "change": -5.75,
-      "changePercent": -6.3747
+      "price": 84.65,
+      "change": 0.2,
+      "changePercent": 0.2368
     },
     "00878": {
-      "price": 28.03,
-      "change": -1.75,
-      "changePercent": -5.8764
+      "price": 27.78,
+      "change": -0.25,
+      "changePercent": -0.8919
     },
     "00919": {
-      "price": 27.49,
-      "change": -1.66,
-      "changePercent": -5.6947
+      "price": 26.79,
+      "change": -0.7,
+      "changePercent": -2.5464
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60777.78,
-      "change": 683.6902,
-      "changePercent": 1.1377
+      "price": 60413.76,
+      "change": 319.6702,
+      "changePercent": 0.5319
     },
     "ETH": {
-      "price": 1712.9,
-      "change": 30.6954,
-      "changePercent": 1.8247
+      "price": 1698.52,
+      "change": 16.3154,
+      "changePercent": 0.9699
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.962,
-      "change": -0.0643,
-      "changePercent": -0.1947
+      "price": 32.937,
+      "change": -0.0893,
+      "changePercent": -0.2704
     },
     "JPYTWD": {
-      "price": 0.2056,
-      "change": -0.0011,
-      "changePercent": -0.5505
+      "price": 0.2052,
+      "change": -0.0015,
+      "changePercent": -0.7439
     },
     "EURTWD": {
-      "price": 36.226,
-      "change": 0.0042,
-      "changePercent": 0.0116
+      "price": 36.235,
+      "change": 0.0132,
+      "changePercent": 0.0365
     },
     "CNYTWD": {
-      "price": 4.9441,
+      "price": 4.942,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3515.4,
-    "twd": 3725.0,
-    "tael": 139705.0,
-    "twdTotal": 115875.0,
-    "changePercent": -4.6154
+    "usd": 3579.7,
+    "twd": 3791.0,
+    "tael": 142152.0,
+    "twdTotal": 117905.0,
+    "changePercent": 1.8291
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股還沒跌完？高盛示警「恐慌3劇本」下週恐再爆2.5兆元賣壓 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPRXpnc29DeGwzQnVrTGNwdTNYSGZIRXYyYWxPQzhobXNjUHFWbmlNbDJUM1VDRHg3TS1PUTdhdEZPRG96UXZybDFZT1EtekpRdGtNNHJrVnNmMzI3eDNqd1pySWE2VTcyQnpIaDNhQVV3X2M0RjZ2RktnbkxHcjYzWnFDYjN6Q3VxYV9TOFcteEZkUTZ2a1ZSSkdkYWJyQ1V2d2d5LUtUeG41clJQWnpfUFFuMUQ1SkNNX1RPQTJXWmR0VmJVTlczdFhpS25rX2htblFnYmRoMmgxWm02UmNTSy1WQkMzLVI0VEVkaFlMYVZHM0IzV0szcTF5d0ptZHRwd3I2LVNiM196dldRbEVjUVpzbTFaNC01TFFudFZiRzlzMksycl8tS3lCNncxeW9odXlZLU9JYWpFZTlqb0didk4tU3JTWTBPLXUxVlRTbHdxSWU2WGlhSFdEMmxZNWtKQ1g5dVhBQ0pPSXhodzd6MWZ0NW13R2NM?oc=5"
+      "title": "美股今天恐重演「黑色星期一」？VIX飆近40、華爾街曝反彈訊號與潛在風險 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44N1ZscE9TSnZiLUZFSUhKUFRIUHZ1eGFlZDlXOFhJRHJtNDJGU3V3bWgxTzhhRTRhVzFnelphVjVfdkJiSWh0ZHV2VUN2YkE?oc=5"
     },
     {
-      "title": "這波美股重挫何時休？ 高盛：可觀察三個觸底訊號| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RWllhWVlVSUtxUGx5cm9kWF9xWjhyMjJmbGdDOFl0ck5Dam81Z0hfWTVVWnFEbzZ3TDc2WTRhU1RERlQ3aXNVOEZJaFA1OTNx?oc=5"
+      "title": "美股盤後｜Nvidia週線連七黑、VIX恐慌指數狂飆，四大指數全面收黑1123｜豐雲學堂2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQZXAydFhOMEdQaFlTWElXc2FmNVpKOFUxNjIzSE5pVHFkdVFFcjJtVmgycTJIOUZqVEd6Zk0zSHlKTVEwMGR6RmVnS25aR0F1cUdQQzVSWnYwb2NGXzBuLWxSME5CdkJjdTZmeldVWHFFVXVwcEZKbnVfX0hXeGo4UENXSHlfbmZ5dE1MTnRHNDhHVnFnWExaWUtWcEpHOFoyZzJydzV5MmFEX1dJdUpPQW1lcFRzWUdfb05qSzZZOUFyN1ltRkJPUjhiWkY3UTdLM3J2QnlxN1k1ZkFHZ0trNWx5S0kySlZ2ODJtdkx1ZDVFaFFYbjRzemJfRTJidHVmTEoybFNRWloxbWIxZXQ2NXJ1S010Y29aaXpUSE1hUU9IV0tkcHY0TFZGa0xDV3RiOFc2Z0YyMkptc2FVX1gzMG1mLVNwSTlYMURiTUw3bm5hWnIxelV4WkxVTHhBcjIwSGVCRVhsSWFoS1c4SzcyNHBBai1hb1ZGeXZtTjZaOHlmS1lYYWhwSFYwb2JEQVk2Q1ZQZmZPc1RiNDQtUzhnaHdUMUE4OEtSNzJ3TnZ0OA?oc=5"
     },
     {
-      "title": "美股慘崩 AI產業是泡沫破裂還是價格重估？ - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PRTFlaDJiLW1RYWotSWdScl9LR3NmM2ZieUMtdFl3YVVLeWZJYmNxTTloN042N2dHWlhpbVB1NkxHSE9UM3JzbmpoZWZnZHM?oc=5"
+      "title": "1分鐘讀財經》台股底部快到了！何時止跌？散戶等2件事 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOaUczaFpPOVZzUGcydzl0N1lqMHlZZEw0c3JHZl83cEc4em1KTk1PLXVVOERGVDl6ZFE0dmZMdllubkFSX0phNUVBdFBHZ3BVTXlyNzJKcE9VTDZ0cTNick1vdjZ3WTJXTXVUVG54Ukoyc2NnRzdiTFNmZkl6YWYxcjNwc1RXNUVsdnFOZDNCdTVRTjVkNWp6aDY1OHo3bkRTT1M2UWF1c0FaWVlwdmZTRmtRRkdhVkNBeEJkeGpnRzVLRWJrRTNKVDdYZ1FtSk43MzF2dTdYU3o1cThPTGllb3BmQWp2akdPekN2eHRwaS1sUldzUUtBZGI4cU1BWWt0R2JuZnRadFVWV0dtb1J4T2VyUXk2NUM2R3NJdFpUUTFOSWFKV1ZqTjBjS2J4T3dhV3I1TTYyM0xrZmJ1OGFqUzAySWQwWUdISldmN1JHOXp2NjcwMWM4cEM4MVZCQQ?oc=5"
     },
     {
-      "title": "美股崩跌逼宮Fed？美銀Hartnett揭聯準會升息喊停關鍵- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HU05UZUlSUW5TU0E3S293bVlPY2ktVVJJaVhwSGQtdlhBcGpROUF0THU1TFdyTEh5QXN3bEZ5cVlEenhud1ozX3R2Z0FrS3FsLV95dFdhZmJGeUdVZ3hV?oc=5"
+      "title": "川普、貝森特都說話再添黃仁勳重返輝達可能性？美股期貨電子盤反彈- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SOGNXR0ptWDJIeWt2c0Vzdzlob1Q5T05ZMHdERGpMSGVRMDlzWHJaTXE3aVVlQWJzb2YxaVlZN1k2eXd6alBqRjVxUGFTYXJkZWNhbXgzdTBzY3Q5N1lF?oc=5"
     },
     {
-      "title": "國安基金︰全力穩台股 籲保持信心 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1UWJ3Ym5rY0RiTmNuWFhwOTB1dGJYOU1rSlhmc1drcDhrdFBuSVRfQ1NXbEhfbzF2MUhqUm4zUXVRZG83aWR3YXNzV1czQnViX0Y5MXpvMmY?oc=5"
+      "title": "台股今天有救了？美股期貨大反攻，貝森特一席話讓投資人重燃希望 | 林彥呈 | 財經 - 風傳媒",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5eTFjUE82ZkZzcGVCLUlMZzVHTzJPS0JmRXdNWmpNdzVwcjZrcXl6bDU5WWFKREtXTkFsWVJBRl9YTGU4MElPWHRnZTFqdw?oc=5"
     },
     {
-      "title": "台股重挫他狂買！財經作家連砸308萬買這2檔ETF 霸氣喊「大不了套牢」 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxObHVvYTh6Z0FWSmg0aWh4U3BjZUF0WnJ4NXN3cUhhcnM0M0lrRXJ5WlViUWJtSDMyc2tNS0xWczI3VjVHSVdUQk12VlliNWtqMkdzMnZqa0lvT05zWXZqNmFHNnZzVW5LeVZsM1VITDlXeVZfR1ZMaEhJVTZvaU9EX054WGpGWEFkYkhOYjJmRlVzYy0tYXdaQ0ZUeXp6dl84ZVQ0VmhITkRGTkl0NWd2TElyc1pIOEprNUhJWTRlTk1LSGFFMk1kWHJ2aERuMF9WTnRqVWVNTksyR0d1VWlTMlhnWWxkWFR4UXdKVDNGZ09pNjVaalNIZzZMdHFRX19lUi1KVU81aHNWNFdyQjdEOVV5dkMxSmpoM3lhRl90eTB4TTdWNlc1WVo2RV9IV1ZSUVd5VFFmMXdIQXRLeUZyQ3dZMnVhWU5HVlZNZWJVMVVfdDB2czc3bDVJMkQ4TjNjMG1nUXdMWnVpZjdTc0ZoLWh0aXpRZ09odTlWMlNfbGhsc1RCbkFKTXFTQWZOT2E2YXJyXw?oc=5"
+      "title": "這波美股重挫何時休？ 高盛：可觀察三個觸底訊號 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VUWdWVW1MQTdIeG1WM3ppeDVaQ21LWjQtdmtHa3pEWlZyVlNodDBQSEVpYS1ESFQtMklMNzRTR1hHRHFra1Z5dFhadzI3NklrckJ3YTVRUU9hWWk20gFiQVVfeXFMTzdkZ2xMRXJON3ZpVlBVbl9LQ0YtUjdneXFQZkJoajdqaEhYMDU1anMxNHQzOWppZGMwTEVYckxrN1pPS1V2UmhROVJncXh2Q1duX0ZrWi1zd2JSaHZwU2xYeFE?oc=5"
     },
     {
-      "title": "精準預測黃金跌勢的分析師又發聲了 他警告投資人小心「多頭陷阱」 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PRFAzZ3N1NUxDMG5HWlFLSDVILXYxRXBmOHA2SXRmMEhYeFA0ZGNqcFBzVExGVWNhY0FBQkJHdWI4ek9pMTFnR05yay1EbW8?oc=5"
+      "title": "【Yahoo早盤】限空令3.0＋國安基金喊話！台股開低後翻紅急拉逾600點分析師萬相和：低接買盤進場 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNVExCMXEwa2s3cnZOakZVN0hfc1BxczZxOVl6UHV5cjJiQkgxQWN3cC01eWJULTZqaUdTZWlvUVVDSTVNUUFqczQ1X0Y0N1l2WW9aeEVWVEd5ckhLT2F5cEgyd05Qbk5DZk1vRzNRZEJyTWRJQkFqN0pXdVdMRm51aFl5a3lmOTFQRVhfTU5HYnd1cUVqTHdKT1c2dERFckNoN1hNbkdQTHlhdVVLVWEtc2hpZ0pONTVqWnYwU2NkMmJrd01BbUt6ekxQbUR1WTBFR1BEa2dGZEdVRkV3eGJ0b0lpOTZYejJNMmVZMjdaeGZoOTRUOThaS1hkWm83YkNrX3R5X1FlWk9ZcGJTeVkwek5ueVJPeGNPVnRtZ3ByVllkTHFOOTh1aGFjXzhWOEFXTmttd2Ntdnc3cU9Ib3FPTUw1OE5qNHBoMjMzMjkta2c1Z0dZQm1oLW9wYXFLMnd2Q1RWVkFfbFJqQmQ3azdqWEFSaHlmSERXSUY5Ym5TeFAxbzRaZUNJYkMyMDdNLVRQcW1wUFVrbGctZXNqZC10WUV4bm9WOUtnRVAybGt2WU4xR2RMRmZWQzFtbTdVeGFEekVOZmxqWV9zV1MxbmRLZHZQNW0wNk5wakR6OWZUMEs1ZWZrRlBiOFBjVHNDZk1pSnR3Wi1xYVZLSGxtdTB3d19VcFFtRFQ0YmhYWmVUdXFaWVdYLWg5b1ZCZW5kcnRybFNDTU9KTVZLWnlUY0xCeWVVQUpNVk5jbmpoaDhn?oc=5"
     },
     {
-      "title": "黑色星期一…台股護盤3箭拚止血卓揆與金融、科技業座談穩市場| 股市要聞| 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tRU9SVUJ1MUU5dkNnSk13bllGbWhUUzljMnZNR180THNNNUtiNmtQV3Q0b3dZRHcydW1zMElsc0pRMEFURkUwVnNGajdRVHdN?oc=5"
+      "title": "穩台積護大盤「今天是關鍵」！財經高層：國安基金加碼應盡速三讀- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53b2V4bW50YmVSekN6OWpiRVZuNzNQZUdVbWJTWE90dUVPTjJKT0U1cFFES0hsUUVsbDFzMEdrNFdwREhhcy1CRTlqWUR6N3F0T3NtbjlXWUVicVhsWTBZ?oc=5"
     }
   ]
 }
