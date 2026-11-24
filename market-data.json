@@ -1,36 +1,36 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/24 06:49",
+  "updated_tw": "11/24 14:45",
   "taiwan": {
     "2330": {
-      "price": 2030.0,
-      "change": 30.0,
-      "changePercent": 1.5
+      "price": 2230.0,
+      "change": 200.0,
+      "changePercent": 9.8522
     },
     "2454": {
-      "price": 3685.0,
-      "change": 335.0,
-      "changePercent": 10.0
+      "price": 4050.0,
+      "change": 365.0,
+      "changePercent": 9.905
     },
     "2317": {
-      "price": 206.0,
-      "change": -4.0,
-      "changePercent": -1.9048
+      "price": 226.5,
+      "change": 20.5,
+      "changePercent": 9.9515
     },
     "0050": {
-      "price": 87.0,
-      "change": 2.55,
-      "changePercent": 3.0195
+      "price": 95.7,
+      "change": 8.7,
+      "changePercent": 10.0
     },
     "00878": {
-      "price": 28.05,
-      "change": 0.02,
-      "changePercent": 0.0713
+      "price": 30.81,
+      "change": 2.76,
+      "changePercent": 9.8396
     },
     "00919": {
-      "price": 27.12,
-      "change": -0.37,
-      "changePercent": -1.3459
+      "price": 29.5,
+      "change": 2.38,
+      "changePercent": 8.7758
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 61054.34,
-      "change": -107.5702,
-      "changePercent": -0.1759
+      "price": 60336.17,
+      "change": -825.7402,
+      "changePercent": -1.3501
     },
     "ETH": {
-      "price": 1706.31,
-      "change": -14.7657,
-      "changePercent": -0.8579
+      "price": 1697.51,
+      "change": -23.5657,
+      "changePercent": -1.3692
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.823,
-      "change": -0.2033,
-      "changePercent": -0.6156
+      "price": 32.879,
+      "change": -0.0756,
+      "changePercent": -0.2294
     },
     "JPYTWD": {
-      "price": 0.2042,
-      "change": -0.0025,
-      "changePercent": -1.2276
+      "price": 0.2041,
+      "change": -0.0038,
+      "changePercent": -1.8146
     },
     "EURTWD": {
-      "price": 35.839,
-      "change": -0.3828,
-      "changePercent": -1.0568
+      "price": 35.888,
+      "change": 0.902,
+      "changePercent": 2.5782
     },
     "CNYTWD": {
-      "price": 4.9289,
+      "price": 4.9401,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3634.4,
-    "twd": 3835.0,
-    "tael": 143825.0,
-    "twdTotal": 119292.0,
-    "changePercent": 3.3851
+    "usd": 3617.3,
+    "twd": 3824.0,
+    "tael": 143392.0,
+    "twdTotal": 118933.0,
+    "changePercent": -0.9339
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "快訊／黃仁勳歸來救市！美股開盤全面噴發 輝達飆32%、台積電ADR爆漲20% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOREM5eENUbVlHc3ZjMDE5MXVMaXBiUno5WDd0ekJwTUQyb3NVR3FXeFhtSnJvalN0V1FsVTl3MjFNRnhONklPTEVuOFNPRldVbElzU1JyeXo4OTRkTjNJaFFFNWI0d1Z0Zi1WeW43emhneG9qdkpyRTdwczhkMGdkZFo5QjZNai1SUXgyRTU0eHNON1JMNERESDR6Q1UyVFFDVDhFT28xMkVkb0tNMVh2SDRxUjJGbUtrUVRPTEdqTFVOQ1YtSWJ6c291UmQ3TGprb0twdDlva0xBTmtJeG5GNm92T2RaZ0lWQzJ4dDFKVlpidGtXZFo0YTNYTkFWV0RzalVhdXVsOXhkeHhIQmtBck02TFdyWS1BNUx1ZDhBTW85ODBVVG5kaENHU2IxVlVrcGU4Ym5BX0E3S0xlY2FZZ3RDZEJteno3UmtYT25ndVpwdmZtVjQ3UE1QemV6NHNNdlV4OFZ3R0NWYl9ieDVZSmRrVFQ0WHYxWWZubG9mTnAzQXdyZnJNMm1pR01ZU0M1dVE4a3dR?oc=5"
+      "title": "【研究觀點】台股創 1991 年以來最大週跌幅！黃仁勳回歸輝達本周上演大反彈，鎖定權值穩盤與高訂單能見度族群 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPd2QyOVk2T0hac3g5UkM2bHRjdXB3N2RzSjlsVXNNckNoWkJFRER6TUktUlFsMTNfRmNMRV9pYjZyaEthbFFvcmRrazk0RDdaRVZUcTZpSXh2Qnh4YWI1ektCN0ZOWHNhcmU0UlQ3UXVERFNfcFl0VTd1WW1MdndRQU91cmczaVI1VVJjSEJlQ3BRWVl1SE04Q1NBcU5OTHJIYW5FYWFJOGRCNWFuc21ocXFuamN5dmdielRqaTJzdkQyYXBjcndJb1NYRVhQYktkUDU5VldUTVcyUkVIZ2lnZ2ZaYk8yMVVaS2lIX0xKWTlIazNybVZPZlN4cFV2S0o1NEhjMWZhWElDQUk2anNCTjE3M3RCRGdabXZxa2pvSWs1R0EwTEVQWkpfd21ZczVVb0RSOGtkTzNOUlBxNlgwd0l0RkMzakZhRVpLdWoxS1o2N042Q2Mxb3RSMzB3SGhmRHYwTTBpV1F1OFpIWXAweTB1aDkxQnBpMERJRGd3Nll5Z25BbXVQVFdvaE1KTmRsUHFmM09uQzJ6bWtHb2xla2xudkUzZnBZYTZTczVmeWhKaUJ3NFR5RUc5Vm9xek9Ba1VfMmxscm1ZQ21VVUVQaDRVY3U0MU9lTFVRTkwzdjRmWlFWVmlicUVCUUtBTk1CUkVLVFdvUjVrdjRNeGFLTllhb2xxdnctQ1k2THN5TUVMSXZpTXowSndRVVBWMlpYZVoxOTEtNFZJZjlDMHdqVk8wdUJDeE5lajBjZEkzT0hGeWFKclE1YThZZ0duSjl6NUpFT2dOMUVQVUFnM2FEWGNtRUlxTzRPcUlWZ2pySF8xa0djdVl2S0RPQlRvY0xYZ2M3RWNtcFZnMHNaWTA0Y3NJa2RRMHo0WWd0OThZVQ?oc=5"
     },
     {
-      "title": "〈美股早盤〉黃仁勳回歸點燃美股！那指開盤飆約7% 台積電ADR漲逾14% - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sM2Myc2hqQTBESVpfUWxBb0JMZHRJclZWNG9jalJDVWVWUF9IN0loMnVNN3kzcER4R0ZaV2liNjZHd0UtMmpmazRiZDEtUzQ?oc=5"
+      "title": "比特幣兩週跌兩成五 資金流動性緊縮成下行關鍵 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOVk1BODZubXNNSmNYVTgzQXVpZFVJcEQxRFFZNUp1T1FTVkdDQS16OHIzakQ2Y0g0SngxdUw3RGpfTVQ2UGttdHU5QjQtczR3TF9CZXNvWk5GVHJYNy1FQzZidndkSGR6eUtTZmtXSGg3R2lMRDhYc2hKZVpxQndEVThnSzdLaXZGVHdNRWVqQ1VsQ1ljM1piVFFqdkxCTlYyQ25rVzNsR3lISVRyM2ZodnVwWUNwOTg5WGI0Tmlsd0k0SU15ZkxBMnlkWnUxdkpaeGFieVNCbUZYSUdjU0gwSlE2cUZMcFJqb2puSFVMVUJQOGN0NkdIY3NvT05tM29TdVB2Z1Z3QlBVM2hBS3JvWFJYd040RUdBdG5kYlMzR2RQTWZjVExjYUFYQXFwV2otV1RMdmFnbG5MSXBWQ2xRWDNUZ0R0NmJpa25JZWVIMzZfYVNLUlJCYQ?oc=5"
     },
     {
-      "title": "美股收盘光模块/高速互联、半导体与存储集体大涨，英伟达涨超31% - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ja0F1dW03ZFV4RG1HaTh3OHlVQV9RQXc1cmtjUnN0OWYyVnB6YkhnM0lyTFZzUGwtRk11SS1XdzVVSm1GZ01zRWV4QmktYlRDclpMNjhhdFpqeDN5ZDB5VEZaSUd4Zw?oc=5"
+      "title": "美股收盤》輝達暴漲31.48％帶動美股全面收紅 台積電ADR狂飆14.03％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90R0dyczMtUUcxa3RBaDZNdHlvNWVVeVpPTHpKcGJhYjRuNlhYd3o0QnlJQlA0cGo5Z0NkOExMWG9SVVBISm9XdVFZUTYteEdkWnlTQkluZFRickxPek1n0gFkQVVfeXFMTXdYeUIwVGlBcEpvTFNONkNGM2MwWkJVUHVaTXd2c3JCbDdqMG5mLW85aWNpNXFmaWUzN1RrcWFzZUY0LWhWQlFsNHl1Qmw0cEtVVTcyMDRPR1ZVTWg3M3o4Z2xpRw?oc=5"
     },
     {
-      "title": "黃仁勳復職 美股開盤大漲那指漲逾7%、輝達飆漲26% - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15SkxuaDRHQXFIVUNhaFRiQ3hzak9xX3lBbGQzTmUtMHZ2WWRGWnpJVU83c0tjSW5VZ3hKQ0dna1lLR3FPSGxsUVY5Zm02SkdzNjItaHBsR3ZLd2ZfMEE?oc=5"
+      "title": "〈美股盤後〉見證歷史！黃仁勳辭職11天閃電回鍋 輝達單日狂飆超31% 費半瘋漲超14% - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtMGtjY3BZNW5nT0JDLVpTeVV1S21DR1Qyam1mYzZtalZHaFYtTWd3Z3VwSnFxVnk1c25hazJSaFFSdjJpcU5VMVBDQnVtb0E?oc=5"
     },
     {
-      "title": "快訊／黃仁勳王者歸來引爆美股！　道瓊暴漲1267點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxZjhtZnQtQjhzSzYzUWxKelFVQl8yN0xoaWRaWDJVSElyczdqUy1OT3FVN2RLR1NIY0dybmJjUVFFUkczbU9tRVhOWjZycEx5WkHSAVBBVV95cUxQVXFDTXhwV0I0VzJ4M2JEVE1OTl9jM2JwYkdmYmFxdk5Qc3dibUR3eEs0Z29PaVZmOWFuWHB6a1hVcjN3anFva0R6c3pEUGE3Vw?oc=5"
+      "title": "台股狂飆3300點重返4萬！「發哥」連2根漲停鎖死 大摩6188元目標價藏玄機 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOcHVaSnJaejNOUlJhcUVCdl9paFlIRnppcHp0emtVVWY5eVowMGZBVFpFZE1ySkI3bkNvTldvd1BidU45MWVsdDFQR2k4MWI5UWpRcmM2RF9qTVI1cDJRcjVmZ0llUEc3RndfaDBCbUpWeENvaHFvZkRqT0hMamlrUDd6dEt3ekozWHNWS1htZEFTbkZKMTVUS2xvQlhPbTBHdkJFU21qQ2dNRW5qLXhQclVMS2FIQUtwNXFpSndYNTFPNUpSem1TV0lwQjZRQzRnZkZQN3RiWk5vSjhmVjVJWHBJVmI3UmFuc3pnbkJCemdocHh1Q2VuM3JmMFBHU3FaR296dDJic0trSXVaWmpRQnl3NFI1bzZqOHNTQUIzaHpqaG5pQ3lTbHBtMWp4WDdBMDQxbmtmU1FHX3dDTlVpczNpai16WEtaQzY4bjFOZXRJNENpSGFCNTd0VTN1MTJsOXVtVk5BZzJQOW9aUXAzTnhkQU4zZmJEdFJWN1hfc1dFTzd5WFREQy1ROGdCRFg1NU1veS03c3A?oc=5"
     },
     {
-      "title": "美股盤前大回血！輝達、美光全反彈 台積電ADR漲7.62% - 三立新聞",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YZ0g1ODZiRG84WE92eUEwUVZfTGFxbF9Jc1dLVnRXQm5TWWhKQUpFbFJsSkowdnlMT0UtNGpvdkJrMGxoQTlCbVBsNA?oc=5"
+      "title": "美股盤後｜黃仁勳回任點燃AI投資信心，美股強勢反彈、費半漲逾14% 1124｜豐雲學堂2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxOUEdMNjU0TnpIWXVQcUNHVlNnYmFJYXg1bHY5blVoQlE2QzViWV9CZTh3b01PQlR2dFFjT185XzFicE5JcTA2dF8xb0Q4LTg5OGlYUnY4X3d5SUlEV3F1SlFZRjM4OWI3RHBuQnFzQ1JnVlZUWmE3RGk2LUlyT25hRjQ2T19na0NIZUw5b2Z4ZFRaU0tIMUtnWElnc2d4ODBWQVpsV2wzeW1BaGtFZnhHMFY0bHZTeWNQMVA0SHU3VWx5dElOcXA1SHlpVmRDbDFGYlFGMUhpbG9RQjFiX09qRFRya1I2bmRtajVQRWU2TnpXYThRQUx6Z2F2MXJyYVk1ZHd3UEVQS3dMQ0hicFRoZ2I4eDRwZXA0XzhUajBTMllRSWxiVTlaX2hnTTRoMFRuLW5pc0hONUM2aW5PdGRwdmZtdzB4aGVya2Vrd2NIWFIyNHpwTHVGcHo0NWVTVThka19IaVNTVEl5X2U2WV9PUWcxMFgzOGtWODNHUldXLVhMWXF6LUl0U1p1NHpvX3JyUjEyVGVWS3JHSThhX2xVSHRfZjNzM2hEV3dqQUFCRUxrZDNtWG0wRUN2aUptVUNtUFE?oc=5"
     },
     {
-      "title": "【即時新聞】白宮施壓輝達(NVDA)恢復黃仁勳執行長職務，為救美股免於AI泡沫崩盤！ - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQlAwTjM2NDJpS2ZRVkxQZTBhdFVWX2xtQ0huY19Jemd6TmtVOTJIVllsQjZfNm9vS3NuZlBPRnB5M0N1Q1UxWjdkR2dnWDhsWXpKaWk5bzVuYUFsSDY2UFZyT09uYzFyZXRSZDVobVB5bzRjS1EtdEhobjNpc1d5bGFKWk1SWVRoQzdxaklXMlk?oc=5"
+      "title": "台股重挫房市也會跟著跌？歷年10次股災有5次隔年買氣反增 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQb0Nic2pFcGpCQTZ2ZFBSY1lNclB2NkJEaE9ZN0ZzdnJBYnpEa0JkckJOdlRoUmtMQXU0eXlTUkt1MFNVX1k0c2cxVEhfRGc4YzJfS2RpVVdpMGI3amxvbjVZcXlLTThSLXdybHJVSlp6S2NQUnhxdDRqYWp6ekFZeURxcWlILVNybTlhN3FQWGxBUG0wcVZ3alRobkRDcEl6TXA5VmNDbW5UUXNTbDJFTGxWd1hGVWRlVlluMGo5UHpyRjRxeGJqUmcyRzdCSlpsVWtpc25vMWZpSTdUOEkzLVNOMFFvZmQxMUl1bGhaTzdhandnQzVNWjVLUTB0d0E0bFV1MFVCWHJ5VU5WZl9lSUM2Qjc5RDl2LS0xUGZfZmxLcEpWRTBfc0NYWXZJTGE2NHFuQnhlbFhpc0lzVkJCYllMc3lTZ0wyQkc0ZW1BS25TZm5CalM3N0toRXZMa3NtelJfSnBRUlpGdGpOc293Mm44MkVWVFhtZDdUZVpFVnhyNzQtNG9vQVpFaw?oc=5"
     },
     {
-      "title": "【美股盤前1123】美股還會跌嗎？科技股賣壓依舊？｜豐雲學堂 2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQRDZiUWliTF9NMXhCaTFDd3k5eEk4TUF0dWp4YW8zNDNhUFVoNTZOSTJmZkpRamtaZkN3TjNZM0FaVDFDQVhJR0pzWkxUd3JnMHJzUXY3RFE1a2VpMUVwVXNIVUJmWndmRngxWDRaY1dQazh0OUFCelFKLTBiVHlmbmw1d0V0VHhYVU44TFhoQWxqaDdFSDd1Vno4dnY2LXd6NTAtV0NfYWRKeFcwU01mdFM0UFhVdU9ET2xvNGNELXFDeDBLamNwTkRLTWI1SXpNS29feXIzemp1QUZTalBOTUpUcUFWa2dIQ0xDT1N0WjZzdFhWSmxSZ3hzeFZmcTdVYktiRlJpWmNMbTdiZ0JhNjhieHBvVVdQWlhEZ19PQkV6SXN2c2NUSDlaSnV4Szc3UlltZTIzYzJQd0VyRktUdHF4QVZ0LVJScDlWbTlpdkphRXYwN014QkJlSQ?oc=5"
+      "title": "美股大跌！歷史大跌怎麼走？費半再重挫！川普希望黃仁勳回歸？｜美股即時通2026.11.23｜豐雲學堂2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQamp4Q3pfVnhwWmpYNjJQdUhzcUVNY1VaNXRQRm9JYURnSU8zM0FUdTQxeDRsclNsN2JEM3k3Um5DNEVyWDZfVlF1VzhuSkdzTEltamdTemkzVk4xR0xmX1pZRl9nVS1zWWpsaWJfYlVjYkV0cEU2eEVuWERfYWVLV0UzYzlpUFFybG1hb2VXcENMOV9iUkg5ZTVtYl9zakxCbUJ3WkdxUDhocmdMcVVuVTRrdlVsMEkyc0kxbDg0aG5HNVJmRHhSZmxyZmthQXJlQXVUV01mc0czdE04TnV0cmJBV1BtTzN6OG1RLTlBcmx5NFN5bU85Z3VPQ0xmelk1dklLLUFWVFJjXzByeHVnR2FMYXZvNHhDaTJ3ZEVfWkxqalZ2VzhwM0hCM3NROVNLbXdmS196YjFYVHp5d19hREFDS0VfYW5lZHFmdHlqbF82MUdjcjJxbmpDNXlEYm56RUpwRnhtR2cxUl92bW5GSE40VkZTVTliVmVHd29JRWVnYzZmV3VVeHlRNUM4cGpXanRrMFExX2pzY2VYLUdPcFlEMTBsWkxpMG9ZZEJFc0g1WmRiMXdYd1pIWV83OTNvdWxuR2E0WHN2QzZYM0tOVDJUWjZPX3BNRjRseklGRUJKLUJCVHo3TjRxVVRGbUpaWG5lZGdEZzlGN1JpQmxzTFVR?oc=5"
     }
   ]
 }
