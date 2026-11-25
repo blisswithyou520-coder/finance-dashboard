@@ -1,11 +1,11 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/25 10:47",
+  "updated_tw": "11/25 20:09",
   "taiwan": {
     "2330": {
-      "price": 2060.0,
-      "change": -170.0,
-      "changePercent": -7.6233
+      "price": 2150.0,
+      "change": -80.0,
+      "changePercent": -3.5874
     },
     "2454": {
       "price": 3645.0,
@@ -13,24 +13,24 @@
       "changePercent": -10.0
     },
     "2317": {
-      "price": 204.5,
-      "change": -22.0,
-      "changePercent": -9.713
+      "price": 206.5,
+      "change": -20.0,
+      "changePercent": -8.83
     },
     "0050": {
-      "price": 87.55,
-      "change": 0.55,
-      "changePercent": 0.6322
+      "price": 90.3,
+      "change": -5.4,
+      "changePercent": -5.6426
     },
     "00878": {
-      "price": 28.18,
-      "change": 0.13,
-      "changePercent": 0.4635
+      "price": 28.6,
+      "change": -2.21,
+      "changePercent": -7.173
     },
     "00919": {
-      "price": 27.26,
-      "change": 0.14,
-      "changePercent": 0.5162
+      "price": 27.87,
+      "change": -1.63,
+      "changePercent": -5.5254
     }
   },
   "us": {
@@ -72,44 +72,44 @@
   },
   "crypto": {
     "BTC": {
-      "price": 59194.59,
-      "change": -2016.3944,
-      "changePercent": -3.2942
+      "price": 58439.21,
+      "change": -1308.5556,
+      "changePercent": -2.1901
     },
     "ETH": {
-      "price": 1656.87,
-      "change": -51.9813,
-      "changePercent": -3.0419
+      "price": 1637.65,
+      "change": -40.0448,
+      "changePercent": -2.3869
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.999,
-      "change": 0.1505,
-      "changePercent": 0.4582
+      "price": 33.126,
+      "change": 0.2775,
+      "changePercent": 0.8448
     },
     "JPYTWD": {
-      "price": 0.2047,
-      "change": -0.0019,
-      "changePercent": -0.9057
+      "price": 0.2055,
+      "change": -0.0011,
+      "changePercent": -0.5185
     },
     "EURTWD": {
-      "price": 36.152,
-      "change": 0.3217,
-      "changePercent": 0.8979
+      "price": 36.239,
+      "change": 0.4087,
+      "changePercent": 1.1407
     },
     "CNYTWD": {
-      "price": 4.9527,
+      "price": 4.9648,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3564.7,
-    "twd": 3782.0,
-    "tael": 141823.0,
-    "twdTotal": 117632.0,
-    "changePercent": 0.0786
+    "usd": 3517.3,
+    "twd": 3746.0,
+    "tael": 140476.0,
+    "twdTotal": 116514.0,
+    "changePercent": -1.2521
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
-      "title": "美股盤後｜黃仁勳效應退燒、美國擬再課徵新關稅，四大指數漲跌互見1125｜豐雲學堂2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNOTBDRkEtN29MTGtKU0ktd2FKbUJFMXB3NnEySmZOOHE2SXNYVm5CYU5xeFVKMzBNbHppdUY3NFZTenNORU0xOFBVWERnQjd3b1l6NGZkN1M3Y2JMWU5OOHY1N3U0bDhfU1VhdEw0dzhVRmhVMzItakYwRDBIQW5jQUxrMXJJZk5vNXFCTnBXZU1GMktDVUR3SndIYWpIaGEtNWdlMUM3ZDJnMFFqOFo4dnVvLXVQRzNhVjVYUzNvb2xqRVV6MmtRc1JmUkFYZnl1dUtjNE0yck1RVWJ3dmw1Z0NSRDdOZWdoMm8wM0pEUXdJS01obUxQT2ZjZmxiMW5RT3dDMFdyRDI2X0RhTU9NYmt1RXByVmZjUy1vdjhwOGNySGlNTFB1dTdhWng4eHQ0Mndna2tfVnpVZ0hyRGhTRFk1dm15aURTZDEyUGFOOWZEZjBsanNZV3FfU0xQVGhxVEZza3FlaFpXN3g3NGdaUVZ0WmV0Z2JDX3g1bmt1eEN1czVTUlNDZ2NZbmhjX0p4ZFRpWTZEQ2ZLV3BEaXV6d3lxVi11QTlHSTB5V2RsLWRrWXlpYjJkalNuT3BpNkdNd180clVBZHlOUS1WMU8zcGtkeHR6SUlPZnlPZDdtTQ?oc=5"
+      "title": "【美股盤前1125】費半重挫？新一輪關稅措施再來？｜豐雲學堂 2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNM1BBVmJNVU4tc1hudy1uOUpUNFhCTWc2c19qamc5a1JBdlg0WTRRd29wUFBUNVZ1aG1qNWQ3bWlFc29qTDBhWUJ4VmFhNC1WemZTdm1vWE4yc3pCVFo5T1hpdFV4NkhTdVA4OFpSdEVhSTJxUHJydzlwOVdxOUdOTFBVNVNkd3BJdGl1UWthQTJTVVpncDdmUHlBemlSVHdGaGx2Nk8yVUl4RnlIZXJvWURYcVpOV3VobzNyRUEwVDJicl9kbDVQSlg1R1BhR21JOWx4VHh2MnF4SFpGUnpmZW9TRklFbGlacWRmbGpNTVZkTnZhMGJjMG1YOWFNdTdiWl9Qa2p3aTc3TWVxM1l4TjRXMU5hVDRCZmNnZWxianBsVDJnNTVkbVF2WkV6ZXFLd1lDeS1kNGMxM1M4WEZLdGc1TVRta2pDWGoxTDNPTnoxM2VxcWxMeTRSdw?oc=5"
     },
     {
       "title": "台股才飆3310點又噴血！美股費半暴跌近8% 台指期夜盤重摔1842點、台積電ADR跌近4% - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxNcEJ2LWI5bmFiakRZQlpYbHJ3YmhoTEZJY3pUTVYxVHJRU0JibWpXUFc4VHl0Mi1RbVVEWV8ybmJVXzBKUUgwcWVHbEJobU5MYjZMZ0s1M182NmhjTllsN2lyY1FMSGNtVl9JWGVFbG1BR2hwQW5YZFFhemkyWlotY2NtVVRiSXhkMW1TQ3VoNnc1TjZISVZWeVFpb3JhbG1wNVpVcUFXLTA4ejBUeldENGItRVhPemRaMTloUE1oTUtOd3dCbFRqVGFJblFwRFRyZ0dPZXhiMnpPelVxY0xQQjRRNHI1RmIyX0d6c0szald0eXNwNG85UUREM0t4Z1FkTk0wemxtb2xXajQyTFNVQmNsRkVNN2JpWjl2WGRuRjR3ZllNdTNJRDZ4QTFfN285ZUNQc2drYnBpZmNtQktJb2Q1WmdsVmVBRGFuOXNSSFI3NmRqcFpoRFlXdTlqUFJqTVZVX0p2bEY2SzgxdUlFVmgxWjVfZk9rRWFfeWFPNDRIOXJ2V3Q0Q29JRFl0MWdRY3JsTVI2QThpRWRKU0QtT3BLNi1GZEphRk16RXlXNUR0RXZOYmRTczMwNGQzLWVD?oc=5"
     },
     {
-      "title": "美股迎「最難看的耶誕節」？摩根大通示警十大風險股市恐跌到Fed被迫低頭- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fU3E4QlR0MTVfUUQzM2w3VDZjRTNUdC1PWW9LT3BpUnhDNDBTSW5VWUFPbEFxbWpWeEc3UWNwNXhkeFlfakRzWGl3blJQbWQyX0pqVUIzRlJHVG8yRC00?oc=5"
-    },
-    {
-      "title": "美股收盤／費半又暴跌8%、輝達跌6% 晶片股慘摔川普新關稅加重賣壓| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uQ2VlaW5hdDc3bzgtMEk0aGJmWEdYNEpWS3lKY1RMQ2hXaVVBM2htaUlQR0NIaVYyREtITjhpRElycTVNOTlyVEZ6bWt5Tng3?oc=5"
+      "title": "股災還沒完？台指期夜盤再跌925點 美股盤前半導體哀號 台積電ADR跌3.96％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BWWJ5aGdvU1c5LU1xVW5zd04tTUhUVFhfZ0N2ZXhXV19lMldMTU5LMFdBTHh5Z0pLLU05Y2RKMjVlYXpWbG1pdGZ3TEZuLWtJeUNUOF9sSzZISENlYVNJ0gFkQVVfeXFMTzJnVjJOSzh4YUo2d2plS2hBbS1pTy05SVlsMkUzZEJUWjNkb0wwQ1Vtck9XczVyZDFONlJYd2RZNU9aRjQ4WEgtM1ZaNXdnTmVqUXhTWVhVSkNmUnNaSXh5ME5QOQ?oc=5"
     },
     {
       "title": "〈美股盤後〉川普關稅風暴恐再起！費半慘跌近8% 輝達摔超5% Anthropic跌破發行價 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WNlJjSmVBbGlLQzJiQ0ZnUG5SUk1rUmF0Mnlqdk0zMGRKM1JsRXY5ZWVoQU84anA4UXFaZzRnUjRBbDhwMVJWQVR0cW5kZDg?oc=5"
     },
     {
-      "title": "美股收盤》川普擬加徵關稅 輝達回跌、費半慘摔 台積電ADR挫3.91％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBud0NQWmcydWtNQVVVMGNPdFJvcXVCbHQzNzlkdktkOEF6NVJ2NU5zVkxDT3lQVGJkWHd2aklMWVZ1cVlYbXJOR1kybFd1aHRLVWJPa08wSEZZSk1FSFZF0gFkQVVfeXFMTXB6Nl9PNVhleHZBbUpja2gtRnozYWtELUZuRFZtVlhHZFprVy0zdzNCTWdYWWNWc3RucmlqeGF4TWdwWjFCTlJwWVEyazhjbGlpOU42cTFLS0tSa1BRMFJMVk5yTg?oc=5"
+      "title": "美股兩大利空！台股盤中重跌3441點 台積電跌幅逾9% - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tR0hsMVYxQzhhTFlDZ0NaZk10aHpwZmZBRTVmRENud0w0TGk3c0lnTVZkUEFBT3gxd2pkeHN4dnBJdWFWSHVsenZwaXlJbGJi0gFWQVVfeXFMT2xmZlNMZXNuZ1VaQldrdFpfcG9pbHJDWklFR09BSXMzVDVTTG01RXZxS05EZmg2N3dnMEJEbUxzX3NGUkRqSWRiZVF3LURxNG9jOUZmenc?oc=5"
     },
     {
-      "title": "四年黃金多頭，終於離場！BCA Research：等美元見頂 - 群益期貨",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd1dha05ZOUs1SllKTXN5OGlIc1hja3B4WFdLZGxzNFJHb0NXMmtPSUlhd1BWRzBUYXZYOUtKNDZRUzNkWkR2WHNaeEVSS3BEdl9DdkZISzdtUDVsamo5ZGF6bzJtTGF5TFc4WUF2OElueHBkQlBaQnRyUXBRdXNpWHlSVmlXZDV6SkJubmY2Y3RBQ1pLVjAwb1VJV3puNFR2NFd5Vg?oc=5"
+      "title": "美股期貨驟降、英偉達再挫——核心PCE成關鍵，市場押注Fed仍會按兵取利 - 美股放大鏡",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTHNPQW93YWpmSE1UT21ZYVdFb2VEOGFaN0MwTW1qaDVNZnBtS0tDQ1UxakE2bU90TFEtQzRhRDRodG1SQmRpdVBOUVhJWmhucm1vUV9Bb2l6bjdvTF9tTU1ZOC1DbkJYN3J1Rm0tTEcyT25MMDFkTzZsb1NiZDliZUFZLUNWOEpXS2tIbW02RkE2MDRo?oc=5"
     },
     {
-      "title": "美股先爆衝又急跌令投資人陷進退兩難 趨勢反轉訊號何時出現？ - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOUnFCU1ExOXh2WU93YTREY3YwbGdhN0NxVEh6YVltaUdhaUVVckdkc1FvYzYxVVhiOXh1XzlCWTBxcF82ajNRYnRxNkpiYmx1VHY4OUp0a2lxVDRHTjA5Uk9PbUJYS1lhNFdCS1VhLXVKcXo0VDNya3cteTYxa2hYc0RFZW9uRVNKVDJoU0J2Y0lzdnpORWI0aE04RVFoTkhCTFFZSTFhRVFLaHBfRG5FOE5jeFJXdHVUVjRXZkVSbmZtbGFYaThVVTV5QU5QOXg1UG1fMzZFVHlaLWliZ2E0VUo0SFg2VU1ueEFtMXZ3eHlrYjhKUW5rLWM0YjhId0F3WmlGQWFZaExBOUVBeVBGUDdFUDAzcVlzY3JsX1pLdC03bl9MTVBpbkg2akFUblpwLXpGMER5YUM1cW9nX19scnNfYXd1QVl1Z2pFbUFQS0t0QTlFY0dUcHdCNnotT3hTQUY5Q3p5MVN4Ujg4WVV2c2Z4Zm1CYzRBRmtmaFFqUlFTZ1hZSXFjWEZWaEZoUURnRVlCblk0WWF3X1pEbEdnQg?oc=5"
+      "title": "華爾街拉警報！ 小摩揭美股10大風險：恐迎「非常難看耶誕節」 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNZ1M0bG5qWUNkSm15MldrZjhvWFBLLXItSFJoNFgtSUQ3Y2xFWnA2NlJ1cFNqdjBTcEwxWmJtTmZFcTY4YURaRTc3ekgxRVpLV1hSV25DMFVqSTF1eXJPUHE1VjBYTzBqbzNuS09hMXZZLThhZFZ6WE1MelhueHliWHRvX0R3TUs3V3lRckJYOXNXUzZHSWhsWWstRlhKcFdfWm9pSlB0cEZ1NUVzWE1yMGNEX2pZalhuZ3I3MWhzRlhaYk8tWWZIR0o2SHRMTHhFRkhZMzJUdm95ZmYxRW9IMEE2bEkzazJFQ09aLUxlTks3NlV5NkVuMEJJaGQtNlF3aHZRUzl0bzZ0VmU5ZzVpN2J0ejVZLURGVnhpNXhCbTNXRHpWWE5zajRmcnFEazNKSXRiU3M0dE9QV3dXMkdIb1R0eVJBOFQyeHU5YlpyeGFCaTViN0ROcGMwQVBHV0FEbEl2WEFMazkxU09aQUEtZE1YS25Cdw?oc=5"
+    },
+    {
+      "title": "【1126台股盤前】川普關稅再起震盪回測！融資急增近200億洗盤，偏震盪非純空鎖定主本比【碩禾】、【仁大資訊】、【天擎】 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMihwVBVV95cUxOSEJJY255a2pmMnRHNXZtMkpzTjZvUUZLVnhBaWptQzhVVFRzSUdLX3YtdFJOTnM0Q0dqdDh2a1M0ZGplNDFiV09jUnI4clh1a1M4QzhpN29HazJTM0lVSWFOanlzaGp0Y0JOUDN6dVEzRmRYcVNULUxoQUUxRGl0UjQzcXJSSEtmTXFYem1xN091d2VueWRNb3IwWThDVkVjT3BxLTgyUjlpZUFGQW5udHJrTUtPbEJfTldZOWZwYzZQRVl1bFlNXzBWc0tJeTVDQ1BnaE5xS1RtVzNmS2ZKZzE4LXp1Q0JENnlYME4ydUpNUDFFVm43WFpfOWVkUXZscjJQTVZfdXFCZDVwd0cteGJKNTBMTmR2U2Y3aGh3OEdyWVFyek45THgwVjZBR0ZWcHZ4a3RPSHhHSTd0RVVXM3dxbGNwQUx2SmxwcW0yWEoxUE9fQ3BSMW5pbm9wbzdXVEtNaWRGaWhXamZoVktodnY3dkxzSXl4Y3RRbWRfZlNDODktbGJKYzFxeGZSQ2owenBWeFJ0QnotYjh6ek9jNHlpcDJheE5SYlFTVVJoSjY0amlUelV5RTNMOGpyaV9KTFJMVVpSZTVkbVdGbE5QRXBKUnppMV9UMWltdDhRaUVTdXBNVXFsYWtHQ3g1WmVha2E3OERGaVNibjdZbF9ieUh2SFk3MDlXMEJKcW5rSGFROU14Ujg4Nnd4WnV6anAtZGYxLWUtX2duTm10Rlg3MldRUFF1bnQzZ3U3QTZLbGF4Y2VSSDNrQy1fdzlPLTI3anRSLUNTU1FrNkd5VFJlZmJIeEpWMlNPLWZUaWcxSDkwT3JGdkxNWWNJWjV4Z0tRcG9fT3ZSSQ?oc=5"
     }
   ]
 }
