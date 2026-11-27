@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/27 22:22",
+  "updated_tw": "11/28 06:50",
   "taiwan": {
     "2330": {
       "price": 2180.0,
@@ -19,97 +19,97 @@
     },
     "0050": {
       "price": 92.4,
-      "change": -0.45,
-      "changePercent": -0.4847
+      "change": 2.1,
+      "changePercent": 2.3256
     },
     "00878": {
       "price": 29.26,
-      "change": -0.26,
-      "changePercent": -0.8808
+      "change": 0.66,
+      "changePercent": 2.3077
     },
     "00919": {
       "price": 28.72,
-      "change": -0.1,
-      "changePercent": -0.347
+      "change": 0.85,
+      "changePercent": 3.0499
     }
   },
   "us": {
     "NVDA": {
-      "price": 149.3,
-      "change": -6.08,
-      "changePercent": -3.913
+      "price": 150.49,
+      "change": 1.19,
+      "changePercent": 0.7971
     },
     "AAPL": {
-      "price": 355.58,
-      "change": 1.51,
-      "changePercent": 0.4265
+      "price": 358.54,
+      "change": 2.96,
+      "changePercent": 0.8324
     },
     "TSLA": {
-      "price": 380.14,
-      "change": -4.54,
-      "changePercent": -1.1802
+      "price": 400.0,
+      "change": 19.86,
+      "changePercent": 5.2244
     },
     "QQQ": {
-      "price": 633.93,
-      "change": -4.17,
-      "changePercent": -0.6535
+      "price": 650.99,
+      "change": 17.06,
+      "changePercent": 2.6912
     },
     "SPY": {
-      "price": 716.7,
-      "change": -2.08,
-      "changePercent": -0.2894
+      "price": 728.32,
+      "change": 11.62,
+      "changePercent": 1.6213
     },
     "SCHD": {
-      "price": 35.29,
-      "change": 0.4,
-      "changePercent": 1.1465
+      "price": 35.67,
+      "change": 0.38,
+      "changePercent": 1.0768
     },
     "VOO": {
-      "price": 658.87,
-      "change": -1.84,
-      "changePercent": -0.2785
+      "price": 669.79,
+      "change": 10.92,
+      "changePercent": 1.6574
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61329.29,
-      "change": 834.5791,
-      "changePercent": 1.3796
+      "price": 59759.22,
+      "change": -735.4909,
+      "changePercent": -1.2158
     },
     "ETH": {
-      "price": 1720.98,
-      "change": 33.2382,
-      "changePercent": 1.9694
+      "price": 1658.02,
+      "change": -29.7218,
+      "changePercent": -1.761
     }
   },
   "fx": {
     "USDTWD": {
-      "price": 32.957,
-      "change": -0.232,
-      "changePercent": -0.699
+      "price": 32.979,
+      "change": -0.21,
+      "changePercent": -0.6327
     },
     "JPYTWD": {
-      "price": 0.2044,
-      "change": -0.0041,
-      "changePercent": -1.965
+      "price": 0.2045,
+      "change": -0.004,
+      "changePercent": -1.9171
     },
     "EURTWD": {
-      "price": 36.128,
-      "change": -0.2942,
-      "changePercent": -0.8077
+      "price": 36.106,
+      "change": -0.3162,
+      "changePercent": -0.8681
     },
     "CNYTWD": {
-      "price": 4.9566,
+      "price": 4.9631,
       "change": 0.0,
       "changePercent": 0.0
     }
   },
   "gold": {
-    "usd": 3662.5,
-    "twd": 3881.0,
-    "tael": 145528.0,
-    "twdTotal": 120705.0,
-    "changePercent": 3.5833
+    "usd": 3668.5,
+    "twd": 3890.0,
+    "tael": 145864.0,
+    "twdTotal": 120983.0,
+    "changePercent": 3.753
   },
   "fed": {
     "rate": "請依最新官方公告",
@@ -117,36 +117,36 @@
   },
   "news": [
     {
+      "title": "美股開盤／4大指數齊揚！SanDisk飆逾6%、台積電ADR漲近3% 輝達卻翻黑了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPd2RzZUp6NWVBcVZnVEo0eHJSMW10aXk3SWN0Vm9VVkZvSVI3eXRVVFVtdmR4UHNXdzNSamhjSlh4WE1RaWRqd2FnNGkxSlVsNkRHcVRSNnZvUENzLWJJQTRYbG41Slp5dzhyWkI0UVU1blZxLUszWkJRcXhHQk1FRlMzd09XZ0VyS1Y4eWllRGw3ZDY3Wm0yMEJaV29zYlpKbDFaczc5WWVhZnMyT3dqVlh0N2JiV1Q1MGREVnF2TWlHeVFqQzlVcUJINzk4UVdmQU9TcGFqb0lCQVJCc3ZqUkdacjk5TG51c3NNMWVVcGpJd2F3Q0c2YjNjME9pSWlsUk1ySnNNQU1meVM2U1JfZXZXQXhNVTB3QWYwWkZMMW9xUFBmYVRFSWtsSXRBNjVyZmxXN2Z4emdPY1R6cTBvd0NtWmdNanlzUXA5RXdwZXV2ZFVJa3M4d2hwT25yLVNxdVlGWGpCdGJsTXo3dlRqcjE5NUlEdjZ2clE?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉AI強勢回血！標普創2025年4月來最佳單周 Sandisk飆16% Anthropic重返IPO價 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41Rm5NZm5vcDlXa243YzVjVUNmT2ZGa3luYXZWaG1OVzd6X0xQZUh5ZnlONUVQNlJUY3g4VW9vSXV1OEtEYWxEbk9kZ0pQR1k?oc=5"
+    },
+    {
       "title": "【美股盤前1127】關稅擔憂過度？那斯達克一度重挫後收斂跌幅！｜豐雲學堂 2026 年 11 月 - 永豐金證券",
       "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQS01XbjgtdHhOQkVpUV84Zk1XR2phZUg4dUtkRmZtYkpBVFhZaDNuOW14TGswcVZ1OXlpc0g2clotemFRaUo5WlJMdDlzSWJTei13SUc2aVN2TXdkMWNveTZ2ZkRxa1FuNVBCUEVVRDFmRjN2cU9JYWNDWVM4RnRWekExNU1NVEduSFp3QVNfaFdiR2pHQVhtdEVBbURsRU1BME55NE9ZOXlONXh2UHVfaUN6WV9PZHd3dXp1OXRjb3F5Qkk3Zm1WU2RXV3pZanlGTXNfTzNyRXl1dkcyTlRqYTItWlFyNy1RdmFqZ0VqN1FpV3ZNS3NnY29KQVJMUUVVbjhrV05EOUlud0VZeDM0dnkwRnhNVWtnVHJKRk40QjEzckdYbDNtOHc1X3JNLVBkbU9Rc2hlQnNWMVU4NUNuWThkU1U2WHpSeFZLTnZ6cGU3eVJrSlJValdlUTR2R2MyS29rSV9zSkZiSzhUMTNuWjFkX29VZFdYWWVNa0xFQnBJSGFYRU1qNVA5WnFBVEs5VnNPem1CeUFPQUtSTnZ3Ql9ZRQ?oc=5"
     },
     {
-      "title": "全球黃金「大搬風」！法國率先結束近一世紀託管 全球3.6萬噸儲備版圖重劃 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kSmFYbXRsVjUyMDN5SFNFR0lscDhvRC1LMTFEOTV1ZGJZUXdoN1picVh3elVsNElDaEtqei03NDc3NDlYMldVQ0tBVW9IYVU?oc=5"
+      "title": "科技股帶頭衝！美股早盤反彈輝達獨走跌 台積電ADR漲逾2％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wUTMyNnVGUzI5bzVOaXowb1E2M1haQU1sYUltYkpwQTg0M3dtWHRSZDB5bnZNVU40RWQ0QzBzUjNxTTVBWk9YWmpoLVNNY2RUWnNiSTMxdVJZZ0wwdVBr0gFkQVVfeXFMT2VvQ0ZxTURYWGExYW93R1BFLVlBeDdLNTh6RWVJSDFYMGJzd1lzZ0JDVTd2b215TEEyYXRkY2E2WUdEYWFJR3REazhqTnluS013WnpVc29tOHBaUk9qcEJVZmZRaA?oc=5"
     },
     {
-      "title": "選前最後一盤神山發力台股翻紅守3萬9！權值股各走各的衛星股10顆紅燈搶風頭｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxNWS1oelZZN2Z0cVB5TXdsazJFMjJJSHdaWkk4eGhKTUF4akZ2amFxYmtJSXk5X3dBZm5RYlN2cktRMDl3SWlSb3FOcVRZR0w4ZHhESVZhMUU3TlRqYjBQSk5iczVfMDIxaTUwYkpLMVBRRHRFbk93TkFualBRRmtIYVhJQWFPU0RVQWJpbEt1SEZzN05HWWFzU2NfNk9WZk1IYXNXSF8zQWpWTy1PWXRjYVF1NlNfaHhNdEdTb0VUbzRYUzFOamlJS3N2Sy01cEdnT1c2dTNKaTZ6SFJIalJTYjNzdmxReHpPMURSZk5rV1N5QmRiOC1xYmFqNURuLVRJYWo5ZE1DQ0J4RW5NTXdSaEk0QnBHTXdYVmlrOEVZamJQOUkwRUMxeVg1NmJibVZsY3BxUnlqV3lNSTRMSDVra01qTFp2T1F6c1gzMVF4dU92MHZYTGxTOXhlMTB6R1VBQUZzVkhmVFNpTVpmalB6azVVMktFeV8tNkxmd0x6RUJVMEJzZHdtTUgyaWZsVkpHcEZUZ2RucFZHcVNVczF4UURwNE1kTUJRbjdZSGtpRUo5QV9HTnhGMXlMR2U0YjRoaXVIUnBNMDdKX3ExSm1ablRCOXgxSHg5Z3B0eUs4Y3RpR1hQOEtSeDNaMXpEUlJNVmFqbDJuTkpsMHIwUHBtdFVEbGl1MG9nUU1CWFhnRU5mVW9Udm1fWG5Wa3VUSFNIc0c3VDZQcXoxeDlsaUhVWVB3?oc=5"
+      "title": "美股早盤／感恩節後強勁反彈！四大指數齊揚 輝達獨自憔悴| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WZzZkQXRiNXNBWk9mVEZHVDVudHY0UF9Nb1AyYi1RTEJnUUlPMXlSNHU1VzdiQ3lpSk5EM0w5MGttb2tVdDl5ZnVjT1lGZmVD?oc=5"
     },
     {
-      "title": "美股止穩了嗎？分析師警告：恐怕還沒跌完，注意一指標 - 天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ycHlMNnAtTWE0ei1mLWV0RDFZTmxCYVYtMzFTbmN0emhzRmdIeVBHclZJbTRlbDRTNEgxVHdhM0ppbHVXdV9LYzdwdHZTZw?oc=5"
+      "title": "貓醒了，週五美股上漲😄 提早收盤- 股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZkJMeVdLYUZsdm5scW1BdURuNXo0Wjg5Q2JabUVmUHBQN0RPTjBodXpGeWhCVUZNZ1RxRkg4WlBrekthWUVWM1dFb0hjN1ltNjhvdThMekQ?oc=5"
     },
     {
-      "title": "美股下跌可能阻止不了 Fed 於12月再度升息 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PdTNYcTBEQXI0U1hGVTZkeUprenRVclEwczNmODZkOURja2VFQjRkUFBvdTVTeS1saF9fT2Yta01HcVlvUFN5SThsazI0WkNkMUdSQkcyaF9oYk9I0gFiQVVfeXFMUEQtbnExbXN0ZnlEcE9iTS1kTmdDbnRUS2dCTl9rU3VRSzQ1Q2ZzU21Fb1lHcFRoRmFYVjZjYTNqX29HVEtUd3BxZjYzM0NtZXI4Y1FfNVlGTkZTSjlWbzJBbVE?oc=5"
+      "title": "美股收盘光模块/高速互联、半导体与存储普涨，闪迪涨超15% - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jMV9vSGNEZ0hIcW5sTVNEUWxTUTVRWXJ4Si1jMHJaMlF6RGZKQURLb3F0TTQtbDg5aDZkYWtTSEtpVEV2MkVubDN2a244TnEyU1RVYTBLcnAwSzlFN3h4N3h1ZEpZZw?oc=5"
     },
     {
-      "title": "特朗普救不了美股，但削減AI支出或許可以 - 群益期貨",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc3l1LVFTUVN1aGtVNE5RRlZ3LU1rUUQ2WHBhTVg1ZC10T1NDaTFXTmM4WklqLW1aU0dUYWF5NlVlSG1kM0VVdnZnX2V5NzByUTRtb2hnYWNXd1BJa3NLM25BNVpRNmZHYkRlRVozVGtfaGRoVERUVUN2UFhHMkRFaEM0dm56SHVIanZCV0xFZw?oc=5"
-    },
-    {
-      "title": "【1127台股盤後】美股感恩節休市，台股震盪收漲 156 點！外資連續 10 日賣超，投本比鎖定【中砂】、【金像電】、【中華電】 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxNa0dXRkVITUhWOVRvMmRZMGEzdExTUzBXYldKeWFwN2pmQnZwSUNxUzQ5OGNwNzcwcTlCOU9ucFQzNkdfM0w5TU5qTjludFVscG9IVDNGa3hIWVFLVW54UDVGelI2OXV5eFJIZUhPRzVkeFNmdmxhZ1phRFNnWFZVaWM1TmpiWENhWFpITTZwT2EwRXVaYjRMWWZXVE9NRDRSdnlNaHlGYU9TM1UtbVlCOXktQUxOOGxCdGhHdDBLdXhDeU9xR0hWYUVEdVQxdHY0Ny1ycXBLQnVISW4yOFdndC1RTy16UktCamE2RWJqWmpUYWYwWjl4dWwzWHNSZFVRc3BzZFlJZC0tZHVqMHNBd3prcm1TOGdNS0kyVlctRGx1T0hBTXo4a2xJTG5hWEw3UmZocTIxdkNJckhrLTBJYzJzOXZZSDROdVdLbmtFVUVleE9UdXJHQlJjclltQzUyRk5fVVd0cVdZdTUzc1hZR0tQYTZKMkpaaWtBRE9pMGM1c1Z4cldzLXJnRE8zM1JURUxOY1c0cVdsWm0ydmhTS0p6SG1tRldmcmFPd1VxWG15cHhQbVZrM3Vod3dmTG41MnVGWUU5Vi1BNVZnbm9JZndqbnF3VWtlNlphTjY0a01vZGxiV01OellGVWFiU1kwb1IxV2xKNldZOERPTkdQTlZvOG5jMTNWMUxpWDJfVEFZbTNQT20tX2NGeEhVRklTQkxyMl9zQXFUdExzbFRYeVVWa256STVRLWJxX1Y5S09QaXhmRjB0T1ZqZE1fY0pNOFVPdUd4ai01TVFFSndhNmZZMm1tVU1FZGFvYw?oc=5"
-    },
-    {
-      "title": "台股反彈暴漲！ 他「持股全漲停」笑不出來 網一看秒懂 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNQUJyX2t3U2diTHFLTVZwTEU5emE4cTVYZl9jMjl5d0FVTlljaWZFM2hlcGNod0drQjVIV2FlVVR6ODJDY0RnZlRrQjFsMThYUGpvTk55STJCMFVTZnhVblZ1cG4zczU1cTdCWjVIc2gyQWdvRzhWdXBtUVFEcHVTQnFYZVF3S3dFcTdPVUNiUHVoQ1Z1NGZtTmd5dnNCUWMzd1NsUmZtNU9ZcHdGNXRvRkVPaW5ZZ2dBRnZTekZzZ2tmVmlkWmlzeUJSZmVPNGxZVC1BMFdVU2Nyd3Etc2JsY3BiMGRhbjRNTlI5WHJvNmIyZnN1czBsczloNTV0dDBlRE9xVk5OUTMwdVdpT3M1YVpHM25Sck0wc2xOaW5OVDRic0tHQm4yWk1XbG4?oc=5"
+      "title": "比特幣自高點崩跌52% 長期持有報酬率面臨考驗 - 商傳媒",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQNDcxSmctNE5UQUVHU25oUjlJMkozaFJucFNvR0c0Q1NKTmkycXF3a21UaFYzSE02X1pLLVJoSmUyZFAxWEtYYkdveGR3ZE1lQXd1OVdSUFBxbDJLaHJ6dkxpT2tWamdHMm9fYmxhdHJmamoyaElJQzNQb0Z4Q2Zxc0JweThHOXd2Y2NjUmM1ZVpKUmNkakE4Q094bnFMSmtzT1VPQ3AtcFNUaW5aQU93SUs1QWFwYzU4WWo5ZW9FR2FicTZWTFRUQjdKZjBNNEFpUnBMb2EwdG9lZ2NrQzdtcmtWRTRpR2R3UXJmU3p3bm45cG03T2ZmU1ZNN1U5OVdUWlpwMng2cnludVFCNTZYV09zbC1rV25kWHFZUGxudmJFR3RGVXB4dUs4bVV1dzZrVlhSbDZuU0hEbTRodDR6UjFGaW0xV3NlSURtdTNn?oc=5"
     }
   ]
 }
