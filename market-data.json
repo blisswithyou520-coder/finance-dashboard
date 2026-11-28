@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/28 06:50",
+  "updated_tw": "11/28 12:32",
   "taiwan": {
     "2330": {
       "price": 2180.0,
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 59759.22,
-      "change": -735.4909,
-      "changePercent": -1.2158
+      "price": 59926.53,
+      "change": -568.1809,
+      "changePercent": -0.9392
     },
     "ETH": {
-      "price": 1658.02,
-      "change": -29.7218,
-      "changePercent": -1.761
+      "price": 1662.0,
+      "change": -25.7418,
+      "changePercent": -1.5252
     }
   },
   "fx": {
@@ -121,32 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPd2RzZUp6NWVBcVZnVEo0eHJSMW10aXk3SWN0Vm9VVkZvSVI3eXRVVFVtdmR4UHNXdzNSamhjSlh4WE1RaWRqd2FnNGkxSlVsNkRHcVRSNnZvUENzLWJJQTRYbG41Slp5dzhyWkI0UVU1blZxLUszWkJRcXhHQk1FRlMzd09XZ0VyS1Y4eWllRGw3ZDY3Wm0yMEJaV29zYlpKbDFaczc5WWVhZnMyT3dqVlh0N2JiV1Q1MGREVnF2TWlHeVFqQzlVcUJINzk4UVdmQU9TcGFqb0lCQVJCc3ZqUkdacjk5TG51c3NNMWVVcGpJd2F3Q0c2YjNjME9pSWlsUk1ySnNNQU1meVM2U1JfZXZXQXhNVTB3QWYwWkZMMW9xUFBmYVRFSWtsSXRBNjVyZmxXN2Z4emdPY1R6cTBvd0NtWmdNanlzUXA5RXdwZXV2ZFVJa3M4d2hwT25yLVNxdVlGWGpCdGJsTXo3dlRqcjE5NUlEdjZ2clE?oc=5"
     },
     {
+      "title": "【1127台股盤後】美股感恩節休市，台股震盪收漲 156 點！外資連續 10 日賣超，投本比鎖定【中砂】、【金像電】、【中華電】 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxNa0dXRkVITUhWOVRvMmRZMGEzdExTUzBXYldKeWFwN2pmQnZwSUNxUzQ5OGNwNzcwcTlCOU9ucFQzNkdfM0w5TU5qTjludFVscG9IVDNGa3hIWVFLVW54UDVGelI2OXV5eFJIZUhPRzVkeFNmdmxhZ1phRFNnWFZVaWM1TmpiWENhWFpITTZwT2EwRXVaYjRMWWZXVE9NRDRSdnlNaHlGYU9TM1UtbVlCOXktQUxOOGxCdGhHdDBLdXhDeU9xR0hWYUVEdVQxdHY0Ny1ycXBLQnVISW4yOFdndC1RTy16UktCamE2RWJqWmpUYWYwWjl4dWwzWHNSZFVRc3BzZFlJZC0tZHVqMHNBd3prcm1TOGdNS0kyVlctRGx1T0hBTXo4a2xJTG5hWEw3UmZocTIxdkNJckhrLTBJYzJzOXZZSDROdVdLbmtFVUVleE9UdXJHQlJjclltQzUyRk5fVVd0cVdZdTUzc1hZR0tQYTZKMkpaaWtBRE9pMGM1c1Z4cldzLXJnRE8zM1JURUxOY1c0cVdsWm0ydmhTS0p6SG1tRldmcmFPd1VxWG15cHhQbVZrM3Vod3dmTG41MnVGWUU5Vi1BNVZnbm9JZndqbnF3VWtlNlphTjY0a01vZGxiV01OellGVWFiU1kwb1IxV2xKNldZOERPTkdQTlZvOG5jMTNWMUxpWDJfVEFZbTNQT20tX2NGeEhVRklTQkxyMl9zQXFUdExzbFRYeVVWa256STVRLWJxX1Y5S09QaXhmRjB0T1ZqZE1fY0pNOFVPdUd4ai01TVFFSndhNmZZMm1tVU1FZGFvYw?oc=5"
+    },
+    {
       "title": "〈美股盤後〉AI強勢回血！標普創2025年4月來最佳單周 Sandisk飆16% Anthropic重返IPO價 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41Rm5NZm5vcDlXa243YzVjVUNmT2ZGa3luYXZWaG1OVzd6X0xQZUh5ZnlONUVQNlJUY3g4VW9vSXV1OEtEYWxEbk9kZ0pQR1k?oc=5"
     },
     {
-      "title": "【美股盤前1127】關稅擔憂過度？那斯達克一度重挫後收斂跌幅！｜豐雲學堂 2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQS01XbjgtdHhOQkVpUV84Zk1XR2phZUg4dUtkRmZtYkpBVFhZaDNuOW14TGswcVZ1OXlpc0g2clotemFRaUo5WlJMdDlzSWJTei13SUc2aVN2TXdkMWNveTZ2ZkRxa1FuNVBCUEVVRDFmRjN2cU9JYWNDWVM4RnRWekExNU1NVEduSFp3QVNfaFdiR2pHQVhtdEVBbURsRU1BME55NE9ZOXlONXh2UHVfaUN6WV9PZHd3dXp1OXRjb3F5Qkk3Zm1WU2RXV3pZanlGTXNfTzNyRXl1dkcyTlRqYTItWlFyNy1RdmFqZ0VqN1FpV3ZNS3NnY29KQVJMUUVVbjhrV05EOUlud0VZeDM0dnkwRnhNVWtnVHJKRk40QjEzckdYbDNtOHc1X3JNLVBkbU9Rc2hlQnNWMVU4NUNuWThkU1U2WHpSeFZLTnZ6cGU3eVJrSlJValdlUTR2R2MyS29rSV9zSkZiSzhUMTNuWjFkX29VZFdYWWVNa0xFQnBJSGFYRU1qNVA5WnFBVEs5VnNPem1CeUFPQUtSTnZ3Ql9ZRQ?oc=5"
-    },
-    {
-      "title": "科技股帶頭衝！美股早盤反彈輝達獨走跌 台積電ADR漲逾2％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wUTMyNnVGUzI5bzVOaXowb1E2M1haQU1sYUltYkpwQTg0M3dtWHRSZDB5bnZNVU40RWQ0QzBzUjNxTTVBWk9YWmpoLVNNY2RUWnNiSTMxdVJZZ0wwdVBr0gFkQVVfeXFMT2VvQ0ZxTURYWGExYW93R1BFLVlBeDdLNTh6RWVJSDFYMGJzd1lzZ0JDVTd2b215TEEyYXRkY2E2WUdEYWFJR3REazhqTnluS013WnpVc29tOHBaUk9qcEJVZmZRaA?oc=5"
+      "title": "美股收盤》科技股回神！道瓊漲591點 台積電ADR升逾3％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XYjQwX2UxYnE0bVB5RXFITmJsb1gwUVRpbkNJbFZkb3dJekt2T2ZIaE9zX2ZFZURDNjVYNW5iRHIxNGJORkZRd3Z3UlZWS1dIWHI1dGVBS3B3eGQwUkdr0gFkQVVfeXFMTjNGYkRhQ3N2dGZCa1RwY3RsNnFzaXJhUEUzcjJ2bUFrTHdLZTlWMTU3SThHbWdUOXI1WTEzUmZiUHkwMG5Jd0w3RWhQVjNIYTZMdGM2T05RVHlpSDY4ajEwb0dqTQ?oc=5"
     },
     {
       "title": "美股早盤／感恩節後強勁反彈！四大指數齊揚 輝達獨自憔悴| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WZzZkQXRiNXNBWk9mVEZHVDVudHY0UF9Nb1AyYi1RTEJnUUlPMXlSNHU1VzdiQ3lpSk5EM0w5MGttb2tVdDl5ZnVjT1lGZmVD?oc=5"
     },
     {
-      "title": "貓醒了，週五美股上漲😄 提早收盤- 股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZkJMeVdLYUZsdm5scW1BdURuNXo0Wjg5Q2JabUVmUHBQN0RPTjBodXpGeWhCVUZNZ1RxRkg4WlBrekthWUVWM1dFb0hjN1ltNjhvdThMekQ?oc=5"
+      "title": "郭哲榮：最壞時間已過！預言台股「年底迎紅包行情」 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNVGlJeXIwTjJYNEpvWm9lNEdJSGs4YXRjY2h6dU9SY29ZT0hMSkY1RUhFN1RKOGluRGZFNS1UWF9RZlg1d2dnYzVKUWxTN1JJNG5NSU9qVUVtWk9qSXhTWWNacFdKMFRtVXBnd2c5ZXZMV3k5Rlp0QXNsZXdycERkMkN6QXhrbllweTl6TDZEUlQ2OUtpWWZkUmZzZDBzcU1icnh6dkZDcTNUM0xsQndTSUliVWU4dW1SOEJQZ0RST0R2dnBLcjRJaV9DXzVQQklDaWNQYlp6ZkVnTDZYbjdSdjBWSmpPV2RoZU9tS0U3VFcwSDVlVGZjMGhIbW13cWw5djVDRXFhc2NwQXkzSWI1Z3c2NE5XaFZvNXRtZmpQa2Z6SUxHbFJzbktlcDNabnYxTTJGS0hfb0dzOFNSRlQ1WmFGQ3h4V1dHSTFldDZHdw?oc=5"
     },
     {
-      "title": "美股收盘光模块/高速互联、半导体与存储普涨，闪迪涨超15% - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jMV9vSGNEZ0hIcW5sTVNEUWxTUTVRWXJ4Si1jMHJaMlF6RGZKQURLb3F0TTQtbDg5aDZkYWtTSEtpVEV2MkVubDN2a244TnEyU1RVYTBLcnAwSzlFN3h4N3h1ZEpZZw?oc=5"
+      "title": "科技股帶頭衝！美股早盤反彈輝達獨走跌 台積電ADR漲逾2％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wUTMyNnVGUzI5bzVOaXowb1E2M1haQU1sYUltYkpwQTg0M3dtWHRSZDB5bnZNVU40RWQ0QzBzUjNxTTVBWk9YWmpoLVNNY2RUWnNiSTMxdVJZZ0wwdVBr0gFkQVVfeXFMT2VvQ0ZxTURYWGExYW93R1BFLVlBeDdLNTh6RWVJSDFYMGJzd1lzZ0JDVTd2b215TEEyYXRkY2E2WUdEYWFJR3REazhqTnluS013WnpVc29tOHBaUk9qcEJVZmZRaA?oc=5"
     },
     {
-      "title": "比特幣自高點崩跌52% 長期持有報酬率面臨考驗 - 商傳媒",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQNDcxSmctNE5UQUVHU25oUjlJMkozaFJucFNvR0c0Q1NKTmkycXF3a21UaFYzSE02X1pLLVJoSmUyZFAxWEtYYkdveGR3ZE1lQXd1OVdSUFBxbDJLaHJ6dkxpT2tWamdHMm9fYmxhdHJmamoyaElJQzNQb0Z4Q2Zxc0JweThHOXd2Y2NjUmM1ZVpKUmNkakE4Q094bnFMSmtzT1VPQ3AtcFNUaW5aQU93SUs1QWFwYzU4WWo5ZW9FR2FicTZWTFRUQjdKZjBNNEFpUnBMb2EwdG9lZ2NrQzdtcmtWRTRpR2R3UXJmU3p3bm45cG03T2ZmU1ZNN1U5OVdUWlpwMng2cnludVFCNTZYV09zbC1rV25kWHFZUGxudmJFR3RGVXB4dUs4bVV1dzZrVlhSbDZuU0hEbTRodDR6UjFGaW0xV3NlSURtdTNn?oc=5"
+      "title": "【美股盤前1127】關稅擔憂過度？那斯達克一度重挫後收斂跌幅！｜豐雲學堂 2026 年 11 月 - 永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQS01XbjgtdHhOQkVpUV84Zk1XR2phZUg4dUtkRmZtYkpBVFhZaDNuOW14TGswcVZ1OXlpc0g2clotemFRaUo5WlJMdDlzSWJTei13SUc2aVN2TXdkMWNveTZ2ZkRxa1FuNVBCUEVVRDFmRjN2cU9JYWNDWVM4RnRWekExNU1NVEduSFp3QVNfaFdiR2pHQVhtdEVBbURsRU1BME55NE9ZOXlONXh2UHVfaUN6WV9PZHd3dXp1OXRjb3F5Qkk3Zm1WU2RXV3pZanlGTXNfTzNyRXl1dkcyTlRqYTItWlFyNy1RdmFqZ0VqN1FpV3ZNS3NnY29KQVJMUUVVbjhrV05EOUlud0VZeDM0dnkwRnhNVWtnVHJKRk40QjEzckdYbDNtOHc1X3JNLVBkbU9Rc2hlQnNWMVU4NUNuWThkU1U2WHpSeFZLTnZ6cGU3eVJrSlJValdlUTR2R2MyS29rSV9zSkZiSzhUMTNuWjFkX29VZFdYWWVNa0xFQnBJSGFYRU1qNVA5WnFBVEs5VnNPem1CeUFPQUtSTnZ3Ql9ZRQ?oc=5"
     }
   ]
 }
