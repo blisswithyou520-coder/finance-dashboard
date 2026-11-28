@@ -1,6 +1,6 @@
 {
   "updated": "AUTO",
-  "updated_tw": "11/28 12:32",
+  "updated_tw": "11/28 21:38",
   "taiwan": {
     "2330": {
       "price": 2180.0,
@@ -19,18 +19,18 @@
     },
     "0050": {
       "price": 92.4,
-      "change": 2.1,
-      "changePercent": 2.3256
+      "change": -0.45,
+      "changePercent": -0.4847
     },
     "00878": {
       "price": 29.26,
-      "change": 0.66,
-      "changePercent": 2.3077
+      "change": -0.26,
+      "changePercent": -0.8808
     },
     "00919": {
       "price": 28.72,
-      "change": 0.85,
-      "changePercent": 3.0499
+      "change": -0.1,
+      "changePercent": -0.347
     }
   },
   "us": {
@@ -72,14 +72,14 @@
   },
   "crypto": {
     "BTC": {
-      "price": 59926.53,
-      "change": -568.1809,
-      "changePercent": -0.9392
+      "price": 59121.12,
+      "change": -745.2511,
+      "changePercent": -1.2449
     },
     "ETH": {
-      "price": 1662.0,
-      "change": -25.7418,
-      "changePercent": -1.5252
+      "price": 1642.14,
+      "change": -18.9433,
+      "changePercent": -1.1404
     }
   },
   "fx": {
@@ -117,8 +117,12 @@
   },
   "news": [
     {
-      "title": "美股開盤／4大指數齊揚！SanDisk飆逾6%、台積電ADR漲近3% 輝達卻翻黑了 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPd2RzZUp6NWVBcVZnVEo0eHJSMW10aXk3SWN0Vm9VVkZvSVI3eXRVVFVtdmR4UHNXdzNSamhjSlh4WE1RaWRqd2FnNGkxSlVsNkRHcVRSNnZvUENzLWJJQTRYbG41Slp5dzhyWkI0UVU1blZxLUszWkJRcXhHQk1FRlMzd09XZ0VyS1Y4eWllRGw3ZDY3Wm0yMEJaV29zYlpKbDFaczc5WWVhZnMyT3dqVlh0N2JiV1Q1MGREVnF2TWlHeVFqQzlVcUJINzk4UVdmQU9TcGFqb0lCQVJCc3ZqUkdacjk5TG51c3NNMWVVcGpJd2F3Q0c2YjNjME9pSWlsUk1ySnNNQU1meVM2U1JfZXZXQXhNVTB3QWYwWkZMMW9xUFBmYVRFSWtsSXRBNjVyZmxXN2Z4emdPY1R6cTBvd0NtWmdNanlzUXA5RXdwZXV2ZFVJa3M4d2hwT25yLVNxdVlGWGpCdGJsTXo3dlRqcjE5NUlEdjZ2clE?oc=5"
+      "title": "前高盛策略師警告：股市、黃金恐遭拋售 Fed 12月升息添變數 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPdG1mYkRPZFRGc3JONXh1RjR0bjRBdTZQaXpIeHZVSnhSQTcwSmJSbDROQVdEQVZyWkl0RFJPSVVwUWxHOTVwelc1M3gtWVh0WHRialRMamprWGNLamJxQkNBdGJtS2RmZF9JZkVFOE9NbDlwUDZha1E5RUNUUGpHZTM0Ujg0dVBJcncwZEdRTUtaT0Jzd2V3ODI5OTE0ZVBqUkhVUGtuOFZOTWh0RTVlWlV2Njl4VExZcW5VSUdKZXJNbWZMSzBjbzJyZHoyRDVja0VpXzZFaFdHb05aOXBUU2JsQi1tcnp4V1NfRTJzLTY2QmJTbkJlcDFWcW1PVHE0bnlGVGVtTmZlbVVDR1ZxUmlHd3YtYkRVM3VEODVmbWtGaVRhd0h5NlRrMk8ycjhPZi1XQjVwdG5DMHl2ZUp1LVVHX2R5Z1N5MnlJNGE3d0Vldy05WTAxa2xJZjhQZkN5djcxbmVJNkJJREZuTEtZ?oc=5"
+    },
+    {
+      "title": "黃金重返5000美元不是夢？低點大反攻後 專家曝下一步目標價 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YVjJOLU9WTmp0cjNQekpLS0w5dVphRTBqUllGNTFoSzluQjF1amFaME8xYTRNT2tsZDliSkw5R0lPUW04VUJLWkxRZkRPbFdFZmxkYXFYUFpfRVBUUTVB0gFkQVVfeXFMTmpvZ3MyVHBfeS1Hc3RrWldyb3Bxb0g4NXY3RFY3YXNjWWJfMDJBUGFyelBlNVFNSDZwZ2FUWi0tVXhsQm45UFFSaUFkSUNhN3MweTVTZ2ZSM1JGYnpoZExSNkYtZg?oc=5"
     },
     {
       "title": "【1127台股盤後】美股感恩節休市，台股震盪收漲 156 點！外資連續 10 日賣超，投本比鎖定【中砂】、【金像電】、【中華電】 - 永豐金證券",
@@ -129,24 +133,20 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41Rm5NZm5vcDlXa243YzVjVUNmT2ZGa3luYXZWaG1OVzd6X0xQZUh5ZnlONUVQNlJUY3g4VW9vSXV1OEtEYWxEbk9kZ0pQR1k?oc=5"
     },
     {
+      "title": "印度央行調回60噸黃金，儲備佔比卻降至14.38% - 群益期貨",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzZ2enBHZnQzbTFfREZxOTVKWlpONTVvR0NqSnNEZ1czVElRZHBfTHNGYXQ2djQyeUVHaDZsNFJfU0VITzZoUjdydzRwZk9vVnpQNVZIZG1NTjZ5cUpIWTlTc1RmZ1lMZGxnUnJxdzl4RkM1a21HYXo2ckwxZUxPbV80cUJMUk10LUdQRk9jZ2Y1bmp5NTJXZ2F3ZDFlNXhQ?oc=5"
+    },
+    {
+      "title": "美股開盤／4大指數齊揚！SanDisk飆逾6%、台積電ADR漲近3% 輝達卻翻黑了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPd2RzZUp6NWVBcVZnVEo0eHJSMW10aXk3SWN0Vm9VVkZvSVI3eXRVVFVtdmR4UHNXdzNSamhjSlh4WE1RaWRqd2FnNGkxSlVsNkRHcVRSNnZvUENzLWJJQTRYbG41Slp5dzhyWkI0UVU1blZxLUszWkJRcXhHQk1FRlMzd09XZ0VyS1Y4eWllRGw3ZDY3Wm0yMEJaV29zYlpKbDFaczc5WWVhZnMyT3dqVlh0N2JiV1Q1MGREVnF2TWlHeVFqQzlVcUJINzk4UVdmQU9TcGFqb0lCQVJCc3ZqUkdacjk5TG51c3NNMWVVcGpJd2F3Q0c2YjNjME9pSWlsUk1ySnNNQU1meVM2U1JfZXZXQXhNVTB3QWYwWkZMMW9xUFBmYVRFSWtsSXRBNjVyZmxXN2Z4emdPY1R6cTBvd0NtWmdNanlzUXA5RXdwZXV2ZFVJa3M4d2hwT25yLVNxdVlGWGpCdGJsTXo3dlRqcjE5NUlEdjZ2clE?oc=5"
+    },
+    {
       "title": "美股收盤》科技股回神！道瓊漲591點 台積電ADR升逾3％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XYjQwX2UxYnE0bVB5RXFITmJsb1gwUVRpbkNJbFZkb3dJekt2T2ZIaE9zX2ZFZURDNjVYNW5iRHIxNGJORkZRd3Z3UlZWS1dIWHI1dGVBS3B3eGQwUkdr0gFkQVVfeXFMTjNGYkRhQ3N2dGZCa1RwY3RsNnFzaXJhUEUzcjJ2bUFrTHdLZTlWMTU3SThHbWdUOXI1WTEzUmZiUHkwMG5Jd0w3RWhQVjNIYTZMdGM2T05RVHlpSDY4ajEwb0dqTQ?oc=5"
     },
     {
-      "title": "美股早盤／感恩節後強勁反彈！四大指數齊揚 輝達獨自憔悴| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WZzZkQXRiNXNBWk9mVEZHVDVudHY0UF9Nb1AyYi1RTEJnUUlPMXlSNHU1VzdiQ3lpSk5EM0w5MGttb2tVdDl5ZnVjT1lGZmVD?oc=5"
-    },
-    {
-      "title": "郭哲榮：最壞時間已過！預言台股「年底迎紅包行情」 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNVGlJeXIwTjJYNEpvWm9lNEdJSGs4YXRjY2h6dU9SY29ZT0hMSkY1RUhFN1RKOGluRGZFNS1UWF9RZlg1d2dnYzVKUWxTN1JJNG5NSU9qVUVtWk9qSXhTWWNacFdKMFRtVXBnd2c5ZXZMV3k5Rlp0QXNsZXdycERkMkN6QXhrbllweTl6TDZEUlQ2OUtpWWZkUmZzZDBzcU1icnh6dkZDcTNUM0xsQndTSUliVWU4dW1SOEJQZ0RST0R2dnBLcjRJaV9DXzVQQklDaWNQYlp6ZkVnTDZYbjdSdjBWSmpPV2RoZU9tS0U3VFcwSDVlVGZjMGhIbW13cWw5djVDRXFhc2NwQXkzSWI1Z3c2NE5XaFZvNXRtZmpQa2Z6SUxHbFJzbktlcDNabnYxTTJGS0hfb0dzOFNSRlQ1WmFGQ3h4V1dHSTFldDZHdw?oc=5"
-    },
-    {
-      "title": "科技股帶頭衝！美股早盤反彈輝達獨走跌 台積電ADR漲逾2％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wUTMyNnVGUzI5bzVOaXowb1E2M1haQU1sYUltYkpwQTg0M3dtWHRSZDB5bnZNVU40RWQ0QzBzUjNxTTVBWk9YWmpoLVNNY2RUWnNiSTMxdVJZZ0wwdVBr0gFkQVVfeXFMT2VvQ0ZxTURYWGExYW93R1BFLVlBeDdLNTh6RWVJSDFYMGJzd1lzZ0JDVTd2b215TEEyYXRkY2E2WUdEYWFJR3REazhqTnluS013WnpVc29tOHBaUk9qcEJVZmZRaA?oc=5"
-    },
-    {
-      "title": "【美股盤前1127】關稅擔憂過度？那斯達克一度重挫後收斂跌幅！｜豐雲學堂 2026 年 11 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQS01XbjgtdHhOQkVpUV84Zk1XR2phZUg4dUtkRmZtYkpBVFhZaDNuOW14TGswcVZ1OXlpc0g2clotemFRaUo5WlJMdDlzSWJTei13SUc2aVN2TXdkMWNveTZ2ZkRxa1FuNVBCUEVVRDFmRjN2cU9JYWNDWVM4RnRWekExNU1NVEduSFp3QVNfaFdiR2pHQVhtdEVBbURsRU1BME55NE9ZOXlONXh2UHVfaUN6WV9PZHd3dXp1OXRjb3F5Qkk3Zm1WU2RXV3pZanlGTXNfTzNyRXl1dkcyTlRqYTItWlFyNy1RdmFqZ0VqN1FpV3ZNS3NnY29KQVJMUUVVbjhrV05EOUlud0VZeDM0dnkwRnhNVWtnVHJKRk40QjEzckdYbDNtOHc1X3JNLVBkbU9Rc2hlQnNWMVU4NUNuWThkU1U2WHpSeFZLTnZ6cGU3eVJrSlJValdlUTR2R2MyS29rSV9zSkZiSzhUMTNuWjFkX29VZFdYWWVNa0xFQnBJSGFYRU1qNVA5WnFBVEs5VnNPem1CeUFPQUtSTnZ3Ql9ZRQ?oc=5"
+      "title": "晉達環球策略基金- 環球黃金基金C 收益股份的總覽| 鉅亨網 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hM3hSZzJnZmx3RzJFWjZBTW9Ta1NfNEFYNkJCdTAybHI1NjRMSENId09VZ1hQQTBMUUFSOC0yUjZSTkhQZ3RQRW9MTlJDZWJrZVZlQzJnVi1XaTA0bmNXS2E0eFE0TUpBdzBuU0R4Y1c1UjVjUUE?oc=5"
     }
   ]
 }
